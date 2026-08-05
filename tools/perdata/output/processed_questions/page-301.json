@@ -1,0 +1,154 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A key difference between cancer cells and normal cells is their response to density-dependent inhibition. What does this mean for cancer cells?",
+      "zh": "癌细胞与正常细胞的一个关键区别在于它们对密度依赖性抑制的反应。这对癌细胞意味着什么？",
+      "es": "Una diferencia clave entre las células cancerosas y las células normales es su respuesta a la inhibición dependiente de la densidad. ¿Qué significa esto para las células cancerosas?",
+      "fr": "Une différence clé entre les cellules cancéreuses et les cellules normales est leur réponse à l'inhibition dépendante de la densité. Qu'est-ce que cela signifie pour les cellules cancéreuses ?",
+      "de": "Ein wesentlicher Unterschied zwischen Krebszellen und normalen Zellen ist ihre Reaktion auf die dichteabhängige Hemmung. Was bedeutet das für Krebszellen?",
+      "ja": "がん細胞と正常細胞の主な違いの一つは、密度依存性阻害への応答です。これはがん細胞にとって何を意味しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They stop dividing when they come into contact with other cells.",
+          "zh": "当它们与其他细胞接触时会停止分裂。",
+          "es": "Dejan de dividirse cuando entran en contacto con otras células.",
+          "fr": "Elles arrêtent de se diviser lorsqu'elles entrent en contact avec d'autres cellules.",
+          "de": "Sie hören auf, sich zu teilen, wenn sie mit anderen Zellen in Kontakt kommen.",
+          "ja": "他の細胞と接触すると分裂を停止する。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They continue to divide even when they are tightly packed together.",
+          "zh": "即使它们紧密地挤在一起，它们仍会继续分裂。",
+          "es": "Continúan dividiéndose incluso cuando están densamente empaquetadas.",
+          "fr": "Elles continuent de se diviser même lorsqu'elles sont étroitement tassées.",
+          "de": "Sie teilen sich weiter, auch wenn sie dicht aneinander gepackt sind.",
+          "ja": "密に詰め込まれても分裂を続ける。"
+        },
+        "feedback": {
+          "en": "Correct. This is a hallmark of cancer cells; they lose the normal regulatory mechanism of density-dependent inhibition.",
+          "zh": "正确。这是癌细胞的一个标志；它们失去了密度依赖性抑制这一正常的调节机制。",
+          "es": "Correcto. Esta es una característica de las células cancerosas; pierden el mecanismo regulador normal de la inhibición dependiente de la densidad.",
+          "fr": "Correct. C'est une caractéristique des cellules cancéreuses; elles perdent le mécanisme de régulation normal de l'inhibition dépendante de la densité.",
+          "de": "Richtig. Dies ist ein Kennzeichen von Krebszellen; sie verlieren den normalen Regulationsmechanismus der dichteabhängigen Hemmung.",
+          "ja": "正解です。これはがん細胞の特徴であり、密度依存性阻害という正常な調節機構を失っています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They require growth factors to initiate division.",
+          "zh": "它们需要生长因子来启动分裂。",
+          "es": "Requieren factores de crecimiento para iniciar la división.",
+          "fr": "Elles ont besoin de facteurs de croissance pour initier la division.",
+          "de": "Sie benötigen Wachstumsfaktoren, um die Teilung zu initiieren.",
+          "ja": "分裂を開始するために成長因子を必要とする。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They are unable to synthesize their own cyclins.",
+          "zh": "它们无法合成自身的细胞周期蛋白（cyclin）。",
+          "es": "Son incapaces de sintetizar sus propias ciclinas.",
+          "fr": "Elles sont incapables de synthétiser leurs propres cyclines.",
+          "de": "Sie sind nicht in der Lage, ihre eigenen Cycline zu synthetisieren.",
+          "ja": "自身のサイクリンを合成することができない。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Normal cells exhibit density-dependent inhibition, meaning they stop dividing when the cell population reaches a certain density. Cancer cells, however, lose this control and will continue to divide, piling up on top of each other, which is consistent with question 3 on the provided page.",
+      "zh": "正常细胞表现出密度依赖性抑制，意味着当细胞数量达到一定密度时它们会停止分裂。然而，癌细胞失去了这种控制，会继续分裂并相互堆积，这与所提供页面上第3题的描述一致。",
+      "es": "Las células normales exhiben inhibición dependiente de la densidad, lo que significa que dejan de dividirse cuando la población celular alcanza una cierta densidad. Las células cancerosas, sin embargo, pierden este control y continúan dividiéndose, apilándose unas sobre otras, lo que es consistente con la pregunta 3 en la página proporcionada.",
+      "fr": "Les cellules normales présentent une inhibition dépendante de la densité, ce qui signifie qu'elles arrêtent de se diviser lorsque la population cellulaire atteint une certaine densité. Les cellules cancéreuses, cependant, perdent ce contrôle et continuent de se diviser, s'empilant les unes sur les autres, ce qui est cohérent avec la question 3 de la page fournie.",
+      "de": "Normale Zellen zeigen eine dichteabhängige Hemmung, was bedeutet, dass sie aufhören, sich zu teilen, wenn die Zellpopulation eine bestimmte Dichte erreicht. Krebszellen verlieren jedoch diese Kontrolle und teilen sich weiter, wobei sie sich übereinander stapeln, was mit Frage 3 auf der angegebenen Seite übereinstimmt.",
+      "ja": "正常細胞は密度依存性阻害を示し、細胞集団が特定の密度に達すると分裂を停止します。しかし、がん細胞はこの制御を失い、分裂を続けて互いに積み重なります。これは提供されたページの質問3と一致しています。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The drug Cytochalasin B disrupts actin filament formation. Based on the typical animal cell cycle, which process would be most directly inhibited by this drug?",
+      "zh": "药物“细胞松弛素B”会破坏肌动蛋白丝的形成。根据典型的动物细胞周期，哪个过程会受到该药物最直接的抑制？",
+      "es": "El fármaco Citocalasina B interrumpe la formación de filamentos de actina. Basado en el ciclo celular animal típico, ¿qué proceso sería inhibido más directamente por este fármaco?",
+      "fr": "Le médicament Cytochalasine B perturbe la formation des filaments d'actine. Sur la base du cycle cellulaire animal typique, quel processus serait le plus directement inhibé par ce médicament ?",
+      "de": "Das Medikament Cytochalasin B stört die Bildung von Aktinfilamenten. Welcher Prozess im typischen tierischen Zellzyklus würde durch dieses Medikament am direktesten gehemmt?",
+      "ja": "薬剤サイトカラシンBはアクチンフィラメントの形成を阻害します。典型的な動物の細胞周期に基づくと、どのプロセスがこの薬剤によって最も直接的に阻害されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Chromosome condensation during prophase.",
+          "zh": "前期（prophase）的染色体浓缩。",
+          "es": "Condensación de cromosomas durante la profase.",
+          "fr": "Condensation des chromosomes pendant la prophase.",
+          "de": "Chromosomenkondensation während der Prophase.",
+          "ja": "前期における染色体の凝縮。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Attachment of microtubules to kinetochores.",
+          "zh": "微管与着丝粒（kinetochore）的附着。",
+          "es": "Unión de microtúbulos a los cinetocoros.",
+          "fr": "Attachement des microtubules aux kinétochores.",
+          "de": "Anheftung von Mikrotubuli an Kinetochoren.",
+          "ja": "微小管の動原体への付着。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Formation of the cleavage furrow during cytokinesis.",
+          "zh": "胞质分裂（cytokinesis）过程中分裂沟的形成。",
+          "es": "Formación del surco de división durante la citocinesis.",
+          "fr": "Formation du sillon de clivage pendant la cytocinèse.",
+          "de": "Bildung der Teilungsfurche während der Zytokinese.",
+          "ja": "細胞質分裂における分裂溝の形成。"
+        },
+        "feedback": {
+          "en": "Correct. The cleavage furrow is formed by a contractile ring of actin and myosin filaments. Disrupting actin would directly prevent this process.",
+          "zh": "正确。分裂沟是由肌动蛋白和肌球蛋白丝构成的收缩环形成的。破坏肌动蛋白会直接阻止这个过程。",
+          "es": "Correcto. El surco de división está formado por un anillo contráctil de filamentos de actina y miosina. La interrupción de la actina impediría directamente este proceso.",
+          "fr": "Correct. Le sillon de clivage est formé par un anneau contractile de filaments d'actine et de myosine. La perturbation de l'actine empêcherait directement ce processus.",
+          "de": "Richtig. Die Teilungsfurche wird durch einen kontraktilen Ring aus Aktin- und Myosinfilamenten gebildet. Eine Störung des Aktins würde diesen Prozess direkt verhindern.",
+          "ja": "正解です。分裂溝はアクチンとミオシンフィラメントの収縮環によって形成されます。アクチンを阻害すると、このプロセスが直接妨げられます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Replication of DNA in the S phase.",
+          "zh": "S期（S phase）的DNA复制。",
+          "es": "Replicación del ADN en la fase S.",
+          "fr": "Réplication de l'ADN en phase S.",
+          "de": "Replikation der DNA in der S-Phase.",
+          "ja": "S期におけるDNAの複製。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Actin filaments are the primary component of the contractile ring that pinches an animal cell in two during cytokinesis, forming the cleavage furrow. Therefore, a drug that blocks actin function, like Cytochalasin B, would most directly disrupt this specific event, which is reflected in question 8 on the page.",
+      "zh": "肌动蛋白丝是收缩环的主要成分，该收缩环在胞质分裂过程中将动物细胞“掐”成两半，形成分裂沟。因此，像细胞松弛素B这样阻断肌动蛋白功能的药物，会最直接地干扰这一特定事件，这也反映在页面上的第8题中。",
+      "es": "Los filamentos de actina son el componente principal del anillo contráctil que divide una célula animal en dos durante la citocinesis, formando el surco de división. Por lo tanto, un fármaco que bloquea la función de la actina, como la Citocalasina B, interrumpiría más directamente este evento específico, lo que se refleja en la pregunta 8 de la página.",
+      "fr": "Les filaments d'actine sont le principal composant de l'anneau contractile qui pince une cellule animale en deux pendant la cytocinèse, formant le sillon de clivage. Par conséquent, un médicament qui bloque la fonction de l'actine, comme la Cytochalasine B, perturberait le plus directement cet événement spécifique, ce qui est reflété dans la question 8 de la page.",
+      "de": "Aktinfilamente sind der Hauptbestandteil des kontraktilen Rings, der eine tierische Zelle während der Zytokinese in zwei Teile schnürt und die Teilungsfurche bildet. Daher würde ein Medikament, das die Aktinfunktion blockiert, wie Cytochalasin B, dieses spezifische Ereignis am direktesten stören, was sich in Frage 8 auf der Seite widerspiegelt.",
+      "ja": "アクチンフィラメントは、細胞質分裂中に動物細胞を二つに分ける収縮環の主成分であり、分裂溝を形成します。したがって、サイトカラシンBのようなアクチンの機能を阻害する薬剤は、この特定のイベントを最も直接的に妨害します。これはページの質問8に反映されています。"
+    }
+  }
+]

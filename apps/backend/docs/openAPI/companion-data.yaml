@@ -1,0 +1,356 @@
+openapi: 3.0.0
+info:
+  title: "PDF 伴学数据接口"
+  version: "1.3.0"
+  description: "此 API 端点用于获取特定 PDF 页面的伴学数据，包括以该页面为中心的知识图谱（思维导图模式）和带有用户个人答题统计的练习题。"
+servers:
+  - url: "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1"
+    description: "生产环境服务器"
+  - url: "http://localhost:3000/api/v1"
+    description: "本地开发服务器"
+
+paths:
+  /pages/{pageNumber}/companion-data:
+    get:
+      tags:
+        - "伴读与内容 (Companion & Content)"
+      summary: "获取指定页码的伴读数据（思维导图模式）"
+      description: |
+        获取指定 PDF 页码的全部伴学材料。
+        返回的数据结构适用于思维导图展示，以页面本身作为中心节点。
+        - **graph**: 包含页面节点本身、所有直接在该页面上提及的知识点（一度节点）及其类型，和连接它们的 `MENTIONED_ON_PAGE` 关系。
+        - **questions**: 包含与本页相关的练习题，并附带个人答题统计。
+        此端点需要通过 Bearer Token 进行身份验证。
+      operationId: getPageCompanionData
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: pageNumber
+          in: path
+          required: true
+          description: "需要获取数据的 PDF 页码。"
+          schema:
+            type: integer
+            example: 192
+      responses:
+        '200':
+          description: "成功获取伴读数据。即使部分数据源（如图谱）获取失败，请求仍会成功，对应字段将为 null 或空数组。"
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CompanionData'
+              example:
+                pageNumber: 192
+                pageImageUrl: "https://campbell-12e-pdf-by-pages.beikee.org/pdf-by-pages/page-192.pdf"
+                graph:
+                  nodes:
+                    - id: "page_192"
+                      number: 192
+                      name: "page_192"
+                      type: "Page"
+                    - id: "50f19338-c5ad-5659-bf4a-5707cf01d8a8"
+                      raw_id: "metabolism"
+                      name_en: "Metabolism"
+                      name_zh: "新陈代谢"
+                      definition_en: "the collection of chemical reactions that occur in an organism"
+                      definition_zh: "生物体中发生的化学反应的集合"
+                      type: "KnowledgePoint"
+                    - id: "c29a0e95-de48-5743-ac78-e483b1719b90"
+                      raw_id: "free_energy_change"
+                      name_en: "Free energy change"
+                      name_zh: "自由能变化"
+                      definition_en: "The change in free energy during a process, indicating its spontaneity."
+                      definition_zh: "过程中自由能的改变，指示其自发性。"
+                      type: "KnowledgePoint"
+                  relationships:
+                    - type: "MENTIONED_ON_PAGE"
+                      source: "50f19338-c5ad-5659-bf4a-5707cf01d8a8"
+                      target: "page_192"
+                    - type: "MENTIONED_ON_PAGE"
+                      source: "c29a0e95-de48-5743-ac78-e483b1719b90"
+                      target: "page_192"
+                questions:
+                  - id: "3da5b5c3-527d-4277-9650-a7cd83cd6de9"
+                    page_number: 192
+                    difficulty: "medium"
+                    question_text:
+                      en: "Which of the following statements accurately describes the relationship between the first and second laws of thermodynamics in biological systems, as presented in the text?"
+                      zh: "根据文本内容，以下哪项陈述准确描述了生物系统中热力学第一定律和第二定律之间的关系？"
+                    options:
+                      - id: "A"
+                        text:
+                          en: "The first law states energy cannot be created or destroyed, while the second law states all energy transformations increase the total energy of the universe."
+                          zh: "第一定律指出能量不能被创造或毁灭，而第二定律指出所有能量转化都会增加宇宙的总能量。"
+                        feedback:
+                          en: "The second law of thermodynamics states that every energy transfer or transformation increases the entropy (disorder) of the universe, not its total energy."
+                          zh: "热力学第二定律指出，每一次能量转移或转化都会增加宇宙的熵（无序度），而不是其总能量。"
+                      - id: "B"
+                        text:
+                          en: "The first law explains that energy can be transformed, and the second law explains that some of that transformed energy is always lost as usable energy, increasing disorder."
+                          zh: "第一定律解释了能量可以转化，而第二定律解释了部分转化后的能量总是以可用能量的形式损失，从而增加无序度。"
+                        feedback: null
+                    correct_answers:
+                      - "B"
+                    explanation:
+                      en: "The first law of thermodynamics states that energy can be transferred and transformed but not created or destroyed. The second law clarifies that during every energy transfer or transformation, some energy is converted to thermal energy and released as heat, increasing the overall entropy (disorder) of the universe. Option B accurately synthesizes both laws as presented in the text."
+                      zh: "热力学第一定律指出能量可以转移和转化，但不能被创造或毁灭。第二定律阐明，在每一次能量转移或转化过程中，部分能量会转化为热能并以热量的形式释放，从而增加宇宙的总熵（无序度）。选项 B 准确地综合了文本中提出的这两条定律。"
+                    created_at: "2025-08-10 12:04:19"
+                    updated_at: "2025-08-10 12:04:19"
+                    choice_type: "single_choice"
+                    answeredByUsers: []
+        '400':
+          description: "请求错误，例如提供了无效的页码。"
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+              example:
+                ok: false
+                message: "Invalid page number provided."
+        '401':
+          description: "未经授权。请求头中的 JWT 缺失、无效或已过期。"
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+              example:
+                ok: false
+                message: "Authentication error: User ID not found."
+        '500':
+          description: "服务器内部发生意外错误。"
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+              example:
+                ok: false
+                message: "An unexpected error occurred."
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+      description: "用于 API 认证的 Firebase JWT。"
+
+  schemas:
+    CompanionData:
+      type: object
+      properties:
+        pageNumber:
+          type: integer
+          description: "当前伴读数据的页码。"
+        pageImageUrl:
+          type: string
+          format: uri
+          description: "当前页码对应的 PDF 页面图片 URL。"
+        graph:
+          $ref: '#/components/schemas/GraphData'
+          nullable: true
+          description: "与本页相关的图谱数据。如果获取失败，此字段可能为 null。"
+        questions:
+          type: array
+          items:
+            $ref: '#/components/schemas/Question'
+          description: "与本页相关的练习题列表。如果获取失败，此字段可能为空数组。"
+
+    Question:
+      type: object
+      properties:
+        id:
+          type: string
+        page_number:
+          type: integer
+        difficulty:
+          type: string
+          enum: [easy, medium, hard]
+        choice_type:
+          type: string
+          enum: [single_choice, multiple_choice]
+          description: "问题的选项类型。'single_choice' 表示单选，'multiple_choice' 表示多选。"
+        question_text:
+          $ref: '#/components/schemas/MultilingualText'
+        options:
+          type: array
+          items:
+            $ref: '#/components/schemas/QuizOption'
+        correct_answers:
+          type: array
+          items:
+            type: string
+        explanation:
+          $ref: '#/components/schemas/MultilingualText'
+        created_at:
+          type: string
+          format: date-time
+        updated_at:
+          type: string
+          format: date-time
+        answeredByUsers:
+          type: array
+          items:
+            $ref: '#/components/schemas/QuestionSocialStats'
+          description: "回答过此题的用户列表及其统计信息。如果无人回答，则为空数组。"
+
+    QuestionSocialStats:
+      type: object
+      description: "某个问题上，单个用户的公开答题统计信息。"
+      properties:
+        userId:
+          type: string
+          description: "用户的唯一标识符。"
+        nickname:
+          type: string
+          description: "用户的昵称。"
+        avatarUrl:
+          type: string
+          format: uri
+          description: "用户头像的 URL。"
+        totalAttempts:
+          type: integer
+          description: "该用户对该问题的总答题次数。"
+        correctAttempts:
+          type: integer
+          description: "该用户对该问题回答正确的次数。"
+
+    QuizOption:
+      type: object
+      properties:
+        id:
+          type: string
+        text:
+          $ref: '#/components/schemas/MultilingualText'
+
+    GraphData:
+      type: object
+      description: "图谱数据的结构。"
+      properties:
+        nodes:
+          type: array
+          items:
+            $ref: '#/components/schemas/GraphNode'
+        relationships:
+          type: array
+          items:
+            $ref: '#/components/schemas/GraphRelationship'
+      required:
+        - nodes
+        - relationships
+
+    GraphNode:
+      description: "图谱中的一个节点，可以是页面、知识点或主题。"
+      oneOf:
+        - $ref: '#/components/schemas/PageNode'
+        - $ref: '#/components/schemas/ConceptNode'
+
+    PageNode:
+      type: object
+      description: "代表书中一个页面的节点。"
+      required:
+        - id
+        - number
+        - name
+        - type
+      properties:
+        id:
+          type: string
+          description: "页面的虚拟唯一标识符 (e.g., 'page_192')。"
+        number:
+          type: integer
+          description: "PDF 中的物理页码。"
+        name:
+          type: string
+          description: "节点的名称 (e.g., 'page_192')。"
+        type:
+          type: string
+          enum: ["Page"]
+
+    ConceptNode:
+      type: object
+      description: "图谱中的概念节点（知识点或主题）。"
+      required:
+        - id
+        - raw_id
+        - name_en
+        - name_zh
+        - type
+      properties:
+        id:
+          type: string
+          description: "节点的唯一标识符 (UUID)。"
+        raw_id:
+          type: string
+          description: "用于生成 UUID 的原始ID。"
+        name_en:
+          type: string
+        name_zh:
+          type: string
+        name_es:
+          type: string
+        name_fr:
+          type: string
+        name_ja:
+          type: string
+        name_de:
+          type: string
+        definition_en:
+          type: string
+        definition_zh:
+          type: string
+        definition_es:
+          type: string
+        definition_fr:
+          type: string
+        definition_ja:
+          type: string
+        definition_de:
+          type: string
+        type:
+          type: string
+          enum: ["KnowledgePoint", "Topic"]
+
+    GraphRelationship:
+      type: object
+      description: "图谱中节点之间的关系。"
+      required:
+        - type
+        - source
+        - target
+      properties:
+        type:
+          type: string
+          description: "关系的类型（例如：MENTIONED_ON_PAGE）。"
+        source:
+          type: string
+          description: "源节点的ID。"
+        target:
+          type: string
+          description: "目标节点的ID。"
+
+    MultilingualText:
+      type: object
+      description: "代表多语言文本内容。"
+      properties:
+        en:
+          type: string
+        zh:
+          type: string
+        es:
+          type: string
+        fr:
+          type: string
+        ja:
+          type: string
+        de:
+          type: string
+
+    ErrorResponse:
+      type: object
+      description: "标准错误响应结构。"
+      properties:
+        ok:
+          type: boolean
+          example: false
+        message:
+          type: string

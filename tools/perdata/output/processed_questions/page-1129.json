@@ -1,0 +1,334 @@
+[
+  {
+    "page_number": 1129,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes a mechanism for terminating neurotransmission, as detailed or depicted in the provided text and figure?",
+      "zh": "以下哪项陈述准确描述了所提供的文本和图中详细说明或描绘的神经递质终止机制？",
+      "es": "De las siguientes afirmaciones, ¿cuál describe con precisión un mecanismo para terminar la neurotransmisión, tal como se detalla o representa en el texto y la figura proporcionados?",
+      "fr": "Parmi les affirmations suivantes, laquelle décrit avec précision un mécanisme de terminaison de la neurotransmission, tel que détaillé ou représenté dans le texte et la figure fournis ?",
+      "de": "Welche der folgenden Aussagen beschreibt einen Mechanismus zur Beendigung der Neurotransmission, wie im bereitgestellten Text und der Abbildung beschrieben oder dargestellt, genau?",
+      "ja": "以下の記述のうち、提供されたテキストと図に詳述または図示されている神経伝達終結のメカニズムを正確に説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Enzymatic breakdown of neurotransmitters in the synaptic cleft by inactivating enzymes.",
+          "zh": "通过失活酶在突触间隙中对神经递质进行酶促分解。",
+          "es": "Descomposición enzimática de neurotransmisores en la hendidura sináptica por enzimas inactivadoras.",
+          "fr": "Dégradation enzymatique des neurotransmetteurs dans la fente synaptique par des enzymes inactivatrices.",
+          "de": "Enzymatischer Abbau von Neurotransmittern im synaptischen Spalt durch inaktivierende Enzyme.",
+          "ja": "シナプス間隙における不活性化酵素による神経伝達物質の酵素分解。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Irreversible binding of neurotransmitters to postsynaptic receptors, causing receptor desensitization.",
+          "zh": "神经递质与突触后受体不可逆结合，导致受体脱敏。",
+          "es": "Unión irreversible de neurotransmisores a receptores postsinápticos, causando desensibilización del receptor.",
+          "fr": "Liaison irréversible des neurotransmetteurs aux récepteurs postsynaptiques, provoquant une désensibilisation des récepteurs.",
+          "de": "Irreversible Bindung von Neurotransmittern an postsynaptische Rezeptoren, die eine Desensibilisierung der Rezeptoren verursacht.",
+          "ja": "神経伝達物質がシナプス後受容体に不可逆的に結合し、受容体脱感作を引き起こす。"
+        },
+        "feedback": {
+          "en": "Irreversible binding would prolong, not terminate, the signal. The text describes enzymatic breakdown and reuptake as termination mechanisms.",
+          "zh": "不可逆结合会延长而非终止信号。文本描述了酶促分解和再摄取作为终止机制。",
+          "es": "La unión irreversible prolongaría, no terminaría, la señal. El texto describe la descomposición enzimática y la recaptura como mecanismos de terminación.",
+          "fr": "La liaison irréversible prolongerait, et non terminerait, le signal. Le texte décrit la dégradation enzymatique et la recapture comme des mécanismes de terminaison.",
+          "de": "Irreversible Bindung würde das Signal verlängern, nicht beenden. Der Text beschreibt den enzymatischen Abbau und die Wiederaufnahme als Beendigungsmechanismen.",
+          "ja": "不可逆的な結合はシグナルを延長するものであり、終結させるものではありません。本文では、酵素分解と再取り込みを終結メカニズムとして説明しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Active transport of neurotransmitters from the postsynaptic neuron back to the presynaptic neuron.",
+          "zh": "神经递质从突触后神经元主动转运回突触前神经元。",
+          "es": "Transporte activo de neurotransmisores desde la neurona postsináptica de vuelta a la neurona presináptica.",
+          "fr": "Transport actif des neurotransmetteurs du neurone postsynaptique vers le neurone présynaptique.",
+          "de": "Aktiver Transport von Neurotransmittern von der postsynaptischen Nervenzelle zurück zur präsynaptischen Nervenzelle.",
+          "ja": "神経伝達物質がシナプス後ニューロンからシナプス前ニューロンへ能動輸送される。"
+        },
+        "feedback": {
+          "en": "Neurotransmitter reuptake occurs into the presynaptic neuron (or glia), not from the postsynaptic neuron.",
+          "zh": "神经递质再摄取进入突触前神经元（或胶质细胞），而不是从突触后神经元。",
+          "es": "La recaptura de neurotransmisores ocurre en la neurona presináptica (o glía), no desde la neurona postsináptica.",
+          "fr": "La recapture des neurotransmetteurs se produit dans le neurone présynaptique (ou les cellules gliales), et non à partir du neurone postsynaptique.",
+          "de": "Die Wiederaufnahme von Neurotransmittern erfolgt in die präsynaptische Nervenzelle (oder Glia), nicht von der postsynaptischen Nervenzelle.",
+          "ja": "神経伝達物質の再取り込みは、シナプス後ニューロンからではなく、シナプス前ニューロン（またはグリア細胞）で行われます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Secretion of new enzymes by the postsynaptic neuron to neutralize neurotransmitters.",
+          "zh": "突触后神经元分泌新酶以中和神经递质。",
+          "es": "Secreción de nuevas enzimas por la neurona postsináptica para neutralizar los neurotransmisores.",
+          "fr": "Sécrétion de nouvelles enzymes par le neurone postsynaptique pour neutraliser les neurotransmetteurs.",
+          "de": "Sekretion neuer Enzyme durch die postsynaptische Nervenzelle zur Neutralisierung von Neurotransmittern.",
+          "ja": "シナプス後ニューロンによる新しい酵素の分泌により神経伝達物質を中和する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Changes in membrane potential of the presynaptic neuron, preventing further release.",
+          "zh": "突触前神经元的膜电位变化，阻止进一步释放。",
+          "es": "Cambios en el potencial de membrana de la neurona presináptica, lo que impide una mayor liberación.",
+          "fr": "Changements du potentiel de membrane du neurone présynaptique, empêchant une libération ultérieure.",
+          "de": "Veränderungen des Membranpotenzials der präsynaptischen Nervenzelle, die eine weitere Freisetzung verhindern.",
+          "ja": "シナプス前ニューロンの膜電位の変化により、さらなる放出が妨げられる。"
+        },
+        "feedback": {
+          "en": "While presynaptic membrane potential influences release, it is not described as a primary mechanism for terminating neurotransmission once it has occurred in the synaptic cleft.",
+          "zh": "虽然突触前膜电位会影响释放，但一旦在突触间隙发生，它并非终止神经递质传递的主要机制。",
+          "es": "Aunque el potencial de membrana presináptica influye en la liberación, no se describe como un mecanismo primario para terminar la neurotransmisión una vez que ha ocurrido en la hendidura sináptica.",
+          "fr": "Bien que le potentiel de membrane présynaptique influence la libération, il n'est pas décrit comme un mécanisme principal pour terminer la neurotransmission une fois qu'elle s'est produite dans la fente synaptique.",
+          "de": "Obwohl das präsynaptische Membranpotenzial die Freisetzung beeinflusst, wird es nicht als primärer Mechanismus zur Beendigung der Neurotransmission beschrieben, sobald diese im synaptischen Spalt stattgefunden hat.",
+          "ja": "シナプス前膜電位は放出に影響を与えますが、シナプス間隙で神経伝達が一度起こった後の主要な終結メカニズムとしては説明されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text and Figure 48.18 describe two primary mechanisms for terminating neurotransmission: enzymatic breakdown of neurotransmitters in the synaptic cleft (a) and reuptake of neurotransmitters into the presynaptic neuron (b). Option A correctly describes one of these mechanisms.",
+      "zh": "文本和图 48.18 描述了终止神经递质传递的两种主要机制：在突触间隙中神经递质的酶促分解 (a) 和神经递质被突触前神经元再摄取 (b)。选项 A 正确描述了其中一种机制。",
+      "es": "El texto y la Figura 48.18 describen dos mecanismos principales para terminar la neurotransmisión: la descomposición enzimática de los neurotransmisores en la hendidura sináptica (a) y la recaptura de los neurotransmisores en la neurona presináptica (b). La opción A describe correctamente uno de estos mecanismos.",
+      "fr": "Le texte et la Figure 48.18 décrivent deux mécanismes principaux de terminaison de la neurotransmission : la dégradation enzymatique des neurotransmetteurs dans la fente synaptique (a) et la recapture des neurotransmetteurs par le neurone présynaptique (b). L'option A décrit correctement l'un de ces mécanismes.",
+      "de": "Der Text und Abbildung 48.18 beschreiben zwei primäre Mechanismen zur Beendigung der Neurotransmission: den enzymatischen Abbau von Neurotransmittern im synaptischen Spalt (a) und die Wiederaufnahme von Neurotransmittern in die präsynaptische Nervenzelle (b). Option A beschreibt korrekt einen dieser Mechanismen.",
+      "ja": "本文と図48.18は、神経伝達を終結させる2つの主要なメカニズムを説明しています。それは、シナプス間隙における神経伝達物質の酵素分解(a)と、神経伝達物質がシナプス前ニューロンに取り込まれる再取り込み(b)です。選択肢Aはこれらのメカニズムの1つを正確に記述しています。"
+    }
+  },
+  {
+    "page_number": 1129,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement accurately describes the characteristics of metabotropic receptors or the specific action of norepinephrine as detailed in the text?",
+      "zh": "以下哪项陈述准确描述了代谢型受体的特征或文本中详述的去甲肾上腺素的特定作用？",
+      "es": "¿Qué afirmación describe con precisión las características de los receptores metabotrópicos o la acción específica de la norepinefrina, según se detalla en el texto?",
+      "fr": "Quelle affirmation décrit avec précision les caractéristiques des récepteurs métabotropes ou l'action spécifique de la norépinéphrine telle que détaillée dans le texte ?",
+      "de": "Welche Aussage beschreibt die Eigenschaften metabotroper Rezeptoren oder die spezifische Wirkung von Noradrenalin, wie im Text detailliert beschrieben, genau?",
+      "ja": "以下の記述のうち、メタボトロピック受容体の特徴、または本文に詳述されているノルエピネフリンの具体的な作用を正確に説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Compared to ionotropic receptors, metabotropic receptors typically produce postsynaptic potentials with a faster onset and shorter duration.",
+          "zh": "与离子通道型受体相比，代谢型受体通常产生起效更快、持续时间更短的突触后电位。",
+          "es": "En comparación con los receptores ionotrópicos, los receptores metabotrópicos suelen producir potenciales postsinápticos con un inicio más rápido y una duración más corta.",
+          "fr": "Comparés aux récepteurs ionotropes, les récepteurs métabotropes produisent généralement des potentiels postsynaptiques à apparition plus rapide et de durée plus courte.",
+          "de": "Im Vergleich zu ionotropen Rezeptoren erzeugen metabotrope Rezeptoren typischerweise postsynaptische Potenziale mit einem schnelleren Beginn und einer kürzeren Dauer.",
+          "ja": "イオンチャネル型受容体と比較して、メタボトロピック受容体は通常、より速い発現と短い持続時間のシナプス後電位を生成する。"
+        },
+        "feedback": {
+          "en": "The text states that effects of G protein pathways (metabotropic) typically 'have a slower onset but last longer' compared to ligand-gated channels (ionotropic).",
+          "zh": "文本指出，G蛋白通路（代谢型）的作用与配体门控通道（离子通道型）相比，通常“起效较慢但持续时间较长”。",
+          "es": "El texto indica que los efectos de las vías de las proteínas G (metabotrópicos) típicamente 'tienen un inicio más lento pero duran más' en comparación con los canales activados por ligando (ionotrópicos).",
+          "fr": "Le texte indique que les effets des voies des protéines G (métabotropes) ont typiquement « une apparition plus lente mais durent plus longtemps » par rapport aux canaux ligand-dépendants (ionotropes).",
+          "de": "Der Text besagt, dass die Effekte von G-Protein-Signalwegen (metabotrop) im Vergleich zu ligandengesteuerten Kanälen (ionotrop) typischerweise „einen langsameren Beginn haben, aber länger anhalten“.",
+          "ja": "本文には、Gタンパク質経路（メタボトロピック）の効果は、リガンドゲート型チャネル（イオンチャネル型）と比較して、通常「発現が遅いが持続時間が長い」と記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Metabotropic receptors directly open or close ion channels upon neurotransmitter binding.",
+          "zh": "代谢型受体在神经递质结合后直接开启或关闭离子通道。",
+          "es": "Los receptores metabotrópicos abren o cierran directamente los canales iónicos al unirse el neurotransmisor.",
+          "fr": "Les récepteurs métabotropes ouvrent ou ferment directement les canaux ioniques lors de la liaison du neurotransmetteur.",
+          "de": "Metabotrope Rezeptoren öffnen oder schließen Ionenkanäle direkt nach Neurotransmitterbindung.",
+          "ja": "メタボトロピック受容体は、神経伝達物質が結合すると直接イオンチャネルを開閉する。"
+        },
+        "feedback": {
+          "en": "Metabotropic receptors act indirectly via a signal transduction pathway involving G proteins and second messengers, rather than directly opening ion channels.",
+          "zh": "代谢型受体通过涉及G蛋白和第二信使的信号转导途径间接作用，而不是直接开启离子通道。",
+          "es": "Los receptores metabotrópicos actúan indirectamente a través de una vía de transducción de señales que involucra proteínas G y segundos mensajeros, en lugar de abrir directamente los canales iónicos.",
+          "fr": "Les récepteurs métabotropes agissent indirectement via une voie de transduction du signal impliquant des protéines G et des seconds messagers, plutôt que d'ouvrir directement les canaux ioniques.",
+          "de": "Metabotrope Rezeptoren wirken indirekt über einen Signaltransduktionsweg, der G-Proteine und sekundäre Botenstoffe beinhaltet, anstatt Ionenkanäle direkt zu öffnen.",
+          "ja": "メタボトロピック受容体は、イオンチャネルを直接開くのではなく、Gタンパク質とセカンドメッセンジャーを介したシグナル伝達経路を通じて間接的に作用します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The binding of norepinephrine to its G protein-coupled receptor results in the direct activation of protein kinase A, which then opens ion channels.",
+          "zh": "去甲肾上腺素与其G蛋白偶联受体结合，直接激活蛋白激酶A，然后开启离子通道。",
+          "es": "La unión de la norepinefrina a su receptor acoplado a proteína G resulta en la activación directa de la proteína quinasa A, que luego abre los canales iónicos.",
+          "fr": "La liaison de la norépinéphrine à son récepteur couplé aux protéines G entraîne l'activation directe de la protéine kinase A, qui ouvre ensuite les canaux ioniques.",
+          "de": "Die Bindung von Noradrenalin an seinen G-Protein-gekoppelten Rezeptor führt zur direkten Aktivierung der Proteinkinase A, die dann Ionenkanäle öffnet.",
+          "ja": "ノルエピネフリンがGタンパク質共役受容体に結合すると、プロテインキナーゼAが直接活性化され、その結果イオンチャネルが開く。"
+        },
+        "feedback": {
+          "en": "Binding of norepinephrine activates a G protein, which activates adenylyl cyclase, which converts ATP to cAMP, and then cAMP activates protein kinase A. This is an indirect cascade, not direct activation of protein kinase A.",
+          "zh": "去甲肾上腺素的结合激活G蛋白，G蛋白激活腺苷酸环化酶，腺苷酸环化酶将ATP转化为cAMP，然后cAMP激活蛋白激酶A。这是一个间接的级联反应，而不是直接激活蛋白激酶A。",
+          "es": "La unión de la norepinefrina activa una proteína G, que activa la adenilil ciclasa, la cual convierte el ATP en cAMP, y luego el cAMP activa la proteína quinasa A. Esta es una cascada indirecta, no una activación directa de la proteína quinasa A.",
+          "fr": "La liaison de la norépinéphrine active une protéine G, qui active l'adénylyl cyclase, qui convertit l'ATP en AMPc, et ensuite l'AMPc active la protéine kinase A. C'est une cascade indirecte, pas une activation directe de la protéine kinase A.",
+          "de": "Die Bindung von Noradrenalin aktiviert ein G-Protein, das Adenylylcyclase aktiviert, die ATP in cAMP umwandelt, und dann aktiviert cAMP die Proteinkinase A. Dies ist eine indirekte Kaskade, keine direkte Aktivierung der Proteinkinase A.",
+          "ja": "ノルエピネフリンの結合はGタンパク質を活性化し、それがアデニル酸シクラーゼを活性化し、アデニル酸シクラーゼがATPをcAMPに変換し、その後cAMPがプロテインキナーゼAを活性化します。これは間接的なカスケードであり、プロテインキナーゼAの直接的な活性化ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Activation of a metabotropic receptor for norepinephrine involves a G protein activating adenylyl cyclase, which produces cAMP, leading to protein kinase A activation and subsequent phosphorylation of ion channel proteins.",
+          "zh": "去甲肾上腺素的代谢型受体激活涉及G蛋白激活腺苷酸环化酶，后者产生cAMP，从而导致蛋白激酶A激活并随后磷酸化离子通道蛋白。",
+          "es": "La activación de un receptor metabotrópico para la norepinefrina implica que una proteína G active la adenilil ciclasa, que produce cAMP, lo que lleva a la activación de la proteína quinasa A y la posterior fosforilación de las proteínas del canal iónico.",
+          "fr": "L'activation d'un récepteur métabotrope pour la norépinéphrine implique qu'une protéine G active l'adénylyl cyclase, qui produit de l'AMPc, entraînant l'activation de la protéine kinase A et la phosphorylation ultérieure des protéines des canaux ioniques.",
+          "de": "Die Aktivierung eines metabotropen Rezeptors für Noradrenalin beinhaltet, dass ein G-Protein die Adenylylcyclase aktiviert, die cAMP produziert, was zur Aktivierung der Proteinkinase A und anschließender Phosphorylierung von Ionenkanalproteinen führt.",
+          "ja": "ノルエピネフリンの代謝型受容体の活性化には、Gタンパク質がアデニル酸シクラーゼを活性化し、それがcAMPを生成し、その結果プロテインキナーゼAが活性化され、続いてイオンチャネルタンパク質がリン酸化される過程が含まれる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Most neurotransmitters bind exclusively to either ionotropic or metabotropic receptors, rarely to both.",
+          "zh": "大多数神经递质仅与离子通道型或代谢型受体结合，很少同时与两者结合。",
+          "es": "La mayoría de los neurotransmisores se unen exclusivamente a receptores ionotrópicos o metabotrópicos, rara vez a ambos.",
+          "fr": "La plupart des neurotransmetteurs se lient exclusivement à des récepteurs ionotropes ou métabotropes, rarement aux deux.",
+          "de": "Die meisten Neurotransmitter binden ausschließlich an ionotrope oder metabotrope Rezeptoren, selten an beide.",
+          "ja": "ほとんどの神経伝達物質は、イオンチャネル型受容体または代謝型受容体のいずれか一方にのみ結合し、両方に結合することはめったにない。"
+        },
+        "feedback": {
+          "en": "The text states that 'Many neurotransmitters have both ionotropic and metabotropic receptors,' contradicting this statement.",
+          "zh": "文本指出“许多神经递质同时具有离子通道型和代谢型受体”，这与此说法相矛盾。",
+          "es": "El texto afirma que 'Muchos neurotransmisores tienen tanto receptores ionotrópicos como metabotrópicos', lo que contradice esta afirmación.",
+          "fr": "Le texte indique que « De nombreux neurotransmetteurs possèdent à la fois des récepteurs ionotropes et métabotropes », ce qui contredit cette affirmation.",
+          "de": "Der Text besagt, dass „Viele Neurotransmitter sowohl ionotrope als auch metabotrope Rezeptoren haben“, was dieser Aussage widerspricht.",
+          "ja": "本文には「多くの神経伝達物質はイオンチャネル型受容体と代謝型受容体の両方を持っている」と記載されており、この記述と矛盾します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "The text explicitly describes the detailed pathway for norepinephrine's metabotropic receptor: G protein activation, adenylyl cyclase activation, cAMP production, protein kinase A activation, and subsequent phosphorylation of ion channels. Option D accurately reflects this complex, indirect cascade. Other options misrepresent the characteristics of metabotropic receptors or compare them incorrectly to ionotropic receptors.",
+      "zh": "文本明确描述了去甲肾上腺素代谢型受体的详细通路：G蛋白激活、腺苷酸环化酶激活、cAMP产生、蛋白激酶A激活以及随后的离子通道磷酸化。选项D准确反映了这种复杂、间接的级联反应。其他选项错误地描述了代谢型受体的特征或将其与离子通道型受体进行了不正确的比较。",
+      "es": "El texto describe explícitamente la vía detallada del receptor metabotrópico de la norepinefrina: activación de la proteína G, activación de la adenilil ciclasa, producción de cAMP, activación de la proteína quinasa A y posterior fosforilación de los canales iónicos. La opción D refleja con precisión esta cascada compleja e indirecta. Las otras opciones tergiversan las características de los receptores metabotrópicos o los comparan incorrectamente con los receptores ionotrópicos.",
+      "fr": "Le texte décrit explicitement la voie détaillée du récepteur métabotrope de la norépinéphrine : activation de la protéine G, activation de l'adénylyl cyclase, production d'AMPc, activation de la protéine kinase A, et phosphorylation subséquente des canaux ioniques. L'option D reflète fidèlement cette cascade complexe et indirecte. Les autres options dénaturent les caractéristiques des récepteurs métabotropes ou les comparent incorrectement aux récepteurs ionotropes.",
+      "de": "Der Text beschreibt explizit den detaillierten Weg des metabotropen Noradrenalin-Rezeptors: G-Protein-Aktivierung, Adenylylcyclase-Aktivierung, cAMP-Produktion, Proteinkinase-A-Aktivierung und anschließende Phosphorylierung von Ionenkanälen. Option D spiegelt diese komplexe, indirekte Kaskade genau wider. Andere Optionen stellen die Eigenschaften metabotroper Rezeptoren falsch dar oder vergleichen sie falsch mit ionotropen Rezeptoren.",
+      "ja": "本文は、ノルエピネフリンの代謝型受容体の詳細な経路を明確に説明しています。すなわち、Gタンパク質活性化、アデニル酸シクラーゼ活性化、cAMP産生、プロテインキナーゼA活性化、そしてそれに続くイオンチャネルのリン酸化です。選択肢Dは、この複雑で間接的なカスケードを正確に反映しています。他の選択肢は、代謝型受容体の特徴を誤って表現したり、イオンチャネル型受容体と比較したりしています。"
+    }
+  },
+  {
+    "page_number": 1129,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Sarin gas triggers paralysis and death because it inhibits the enzyme that breaks down the neurotransmitter controlling skeletal muscles. Based on this information and the text provided, what is the most likely primary effect of sarin gas at the neuromuscular junction?",
+      "zh": "沙林毒气会导致麻痹和死亡，因为它抑制了分解控制骨骼肌的神经递质的酶。根据此信息和提供的文本，沙林毒气在神经肌肉接头处最可能的主要作用是什么？",
+      "es": "El gas sarín provoca parálisis y la muerte porque inhibe la enzima que descompone el neurotransmisor que controla los músculos esqueléticos. Basándose en esta información y el texto proporcionado, ¿cuál es el efecto primario más probable del gas sarín en la unión neuromuscular?",
+      "fr": "Le gaz sarin provoque la paralysie et la mort car il inhibe l'enzyme qui dégrade le neurotransmetteur contrôlant les muscles squelettiques. Basé sur cette information et le texte fourni, quel est l'effet primaire le plus probable du gaz sarin à la jonction neuromusculaire ?",
+      "de": "Sarin-Gas führt zu Lähmungen und Tod, da es das Enzym hemmt, das den Neurotransmitter abbaut, der die Skelettmuskulatur steuert. Basierend auf dieser Information und dem bereitgestellten Text, was ist die wahrscheinlichste primäre Wirkung von Sarin-Gas an der neuromuskulären Endplatte?",
+      "ja": "サリンガスは、骨格筋を制御する神経伝達物質を分解する酵素を阻害するため、麻痺と死を引き起こします。この情報と提供されたテキストに基づき、神経筋接合部におけるサリンガスの最も可能性の高い主要な作用は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It directly blocks acetylcholine receptors, preventing muscle contraction.",
+          "zh": "它直接阻断乙酰胆碱受体，阻止肌肉收缩。",
+          "es": "Bloquea directamente los receptores de acetilcolina, impidiendo la contracción muscular.",
+          "fr": "Il bloque directement les récepteurs de l'acétylcholine, empêchant la contraction musculaire.",
+          "de": "Es blockiert direkt Acetylcholinrezeptoren und verhindert so die Muskelkontraktion.",
+          "ja": "アセチルコリン受容体を直接ブロックし、筋収縮を妨げる。"
+        },
+        "feedback": {
+          "en": "Sarin inhibits the enzyme that breaks down the neurotransmitter, not the receptor directly. Blocking the receptor would lead to flaccid paralysis, not the sustained contraction followed by paralysis implied by the text's description of sarin's effect.",
+          "zh": "沙林抑制的是分解神经递质的酶，而不是直接阻断受体。阻断受体会导致弛缓性麻痹，而不是文本中沙林作用所暗示的持续收缩后麻痹。",
+          "es": "El sarín inhibe la enzima que descompone el neurotransmisor, no el receptor directamente. El bloqueo del receptor conduciría a una parálisis flácida, no a la contracción sostenida seguida de parálisis implicada por la descripción del efecto del sarín en el texto.",
+          "fr": "Le sarin inhibe l'enzyme qui dégrade le neurotransmetteur, pas le récepteur directement. Le blocage du récepteur entraînerait une paralysie flasque, non pas la contraction soutenue suivie de paralysie impliquée par la description de l'effet du sarin dans le texte.",
+          "de": "Sarin hemmt das Enzym, das den Neurotransmitter abbaut, nicht den Rezeptor direkt. Das Blockieren des Rezeptors würde zu schlaffer Lähmung führen, nicht zu der anhaltenden Kontraktion, gefolgt von Lähmung, wie sie in der Beschreibung der Sarin-Wirkung im Text angedeutet wird.",
+          "ja": "サリンは神経伝達物質を分解する酵素を阻害するのであって、直接受容体をブロックするわけではありません。受容体をブロックすると弛緩性麻痺につながり、本文におけるサリンの作用の説明が示唆するような、持続的な収縮とその後の麻痺とは異なります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It prevents the reuptake of acetylcholine into the presynaptic neuron, leading to its prolonged presence in the synaptic cleft.",
+          "zh": "它阻止乙酰胆碱被突触前神经元再摄取，导致其在突触间隙中长时间存在。",
+          "es": "Impide la recaptación de acetilcolina en la neurona presináptica, lo que prolonga su presencia en la hendidura sináptica.",
+          "fr": "Il empêche la recapture de l'acétylcholine par le neurone présynaptique, prolongeant ainsi sa présence dans la fente synaptique.",
+          "de": "Es verhindert die Wiederaufnahme von Acetylcholin in die präsynaptische Nervenzelle, was zu dessen verlängertem Verbleib im synaptischen Spalt führt.",
+          "ja": "アセチルコリンがシナプス前ニューロンに再取り込みされるのを防ぎ、シナプス間隙でのアセチルコリンの滞留を長くする。"
+        },
+        "feedback": {
+          "en": "The text states sarin inhibits the 'enzyme that breaks down the neurotransmitter', not its reuptake. While both would prolong neurotransmitter presence, the specific mechanism mentioned is enzymatic inhibition.",
+          "zh": "文本指出沙林抑制的是“分解神经递质的酶”，而不是其再摄取。虽然两者都会延长神经递质的存在时间，但文本中提到的具体机制是酶抑制。",
+          "es": "El texto indica que el sarín inhibe la 'enzima que descompone el neurotransmisor', no su recaptura. Si bien ambos prolongarían la presencia del neurotransmisor, el mecanismo específico mencionado es la inhibición enzimática.",
+          "fr": "Le texte indique que le sarin inhibe « l'enzyme qui dégrade le neurotransmetteur », et non sa recapture. Bien que les deux prolongeraient la présence du neurotransmetteur, le mécanisme spécifique mentionné est l'inhibition enzymatique.",
+          "de": "Der Text besagt, dass Sarin das 'Enzym hemmt, das den Neurotransmitter abbaut', nicht dessen Wiederaufnahme. Obwohl beides die Neurotransmitterpräsenz verlängern würde, ist der spezifisch genannte Mechanismus die enzymatische Hemmung.",
+          "ja": "本文には、サリンが「神経伝達物質を分解する酵素」を阻害すると記載されており、再取り込みを阻害するとは書かれていません。どちらも神経伝達物質の存在を長くする効果がありますが、言及されている特定のメカニズムは酵素阻害です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It inhibits acetylcholinesterase, leading to a prolonged excitatory postsynaptic potential (EPSP) at the neuromuscular junction, causing sustained muscle contraction and eventually paralysis.",
+          "zh": "它抑制乙酰胆碱酯酶，导致神经肌肉接头处持续的兴奋性突触后电位（EPSP），从而引起持续的肌肉收缩并最终导致麻痹。",
+          "es": "Inhibe la acetilcolinesterasa, lo que provoca un potencial postsináptico excitador (EPSP) prolongado en la unión neuromuscular, causando una contracción muscular sostenida y, finalmente, parálisis.",
+          "fr": "Il inhibe l'acétylcholinestérase, entraînant un potentiel postsynaptique excitateur (EPSP) prolongé à la jonction neuromusculaire, provoquant une contraction musculaire soutenue et finalement la paralysie.",
+          "de": "Es hemmt die Acetylcholinesterase, was zu einem verlängerten erregenden postsynaptischen Potenzial (EPSP) an der neuromuskulären Endplatte führt und dadurch anhaltende Muskelkontraktion und schließlich Lähmung verursacht.",
+          "ja": "アセチルコリンエステラーゼを阻害し、神経筋接合部で持続的な興奮性シナプス後電位（EPSP）を引き起こし、持続的な筋収縮と最終的な麻痺を引き起こす。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It enhances the breakdown of acetylcholine, leading to a rapid cessation of muscle activity.",
+          "zh": "它增强了乙酰胆碱的分解，导致肌肉活动迅速停止。",
+          "es": "Mejora la descomposición de la acetilcolina, lo que lleva a un cese rápido de la actividad muscular.",
+          "fr": "Il améliore la dégradation de l'acétylcholine, entraînant un arrêt rapide de l'activité musculaire.",
+          "de": "Es verstärkt den Abbau von Acetylcholin, was zu einem schnellen Ende der Muskelaktivität führt.",
+          "ja": "アセチルコリンの分解を促進し、筋活動を急速に停止させる。"
+        },
+        "feedback": {
+          "en": "Sarin inhibits the enzyme that breaks down the neurotransmitter, so it would prevent, not enhance, its breakdown.",
+          "zh": "沙林抑制的是分解神经递质的酶，因此它会阻止而不是增强其分解。",
+          "es": "El sarín inhibe la enzima que descompone el neurotransmisor, por lo que prevendría, no mejoraría, su descomposición.",
+          "fr": "Le sarin inhibe l'enzyme qui dégrade le neurotransmetteur, il empêcherait donc sa dégradation au lieu de l'améliorer.",
+          "de": "Sarin hemmt das Enzym, das den Neurotransmitter abbaut, es würde also dessen Abbau verhindern, nicht verstärken.",
+          "ja": "サリンは神経伝達物質を分解する酵素を阻害するため、その分解を促進するのではなく、妨げるでしょう。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "It causes the presynaptic neuron to release less acetylcholine, resulting in muscle weakness.",
+          "zh": "它导致突触前神经元释放更少的乙酰胆碱，从而导致肌肉无力。",
+          "es": "Provoca que la neurona presináptica libere menos acetilcolina, lo que resulta en debilidad muscular.",
+          "fr": "Il amène le neurone présynaptique à libérer moins d'acétylcholine, entraînant une faiblesse musculaire.",
+          "de": "Es führt dazu, dass die präsynaptische Nervenzelle weniger Acetylcholin freisetzt, was zu Muskelschwäche führt.",
+          "ja": "シナプス前ニューロンがアセチルコリンを放出する量を減らし、筋力低下を引き起こす。"
+        },
+        "feedback": {
+          "en": "Sarin affects the termination of neurotransmission in the synaptic cleft, not its release from the presynaptic neuron.",
+          "zh": "沙林影响的是突触间隙中神经递质的终止，而不是其从突触前神经元的释放。",
+          "es": "El sarín afecta la terminación de la neurotransmisión en la hendidura sináptica, no su liberación desde la neurona presináptica.",
+          "fr": "Le sarin affecte la terminaison de la neurotransmission dans la fente synaptique, et non sa libération par le neurone présynaptique.",
+          "de": "Sarin beeinflusst die Beendigung der Neurotransmission im synaptischen Spalt, nicht deren Freisetzung aus der präsynaptischen Nervenzelle.",
+          "ja": "サリンはシナプス間隙での神経伝達の終結に影響を与え、シナプス前ニューロンからの放出には影響しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that sarin gas 'inhibits the enzyme that breaks down the neurotransmitter controlling skeletal muscles.' It then identifies acetylcholine as the neurotransmitter at the neuromuscular junction, where its excitatory activity is terminated by acetylcholinesterase, an enzyme that hydrolyzes acetylcholine. Therefore, inhibiting acetylcholinesterase would lead to a prolonged presence of acetylcholine in the synaptic cleft, causing continuous stimulation of muscle cells (sustained EPSP), resulting in sustained muscle contraction (spasms) followed by paralysis due to receptor desensitization and depletion of cellular resources.",
+      "zh": "文本指出沙林毒气“抑制了分解控制骨骼肌的神经递质的酶”。然后它将乙酰胆碱确定为神经肌肉接头处的神经递质，其兴奋性活动通过乙酰胆碱酯酶（一种水解乙酰胆碱的酶）终止。因此，抑制乙酰胆碱酯酶会导致乙酰胆碱在突触间隙中长时间存在，引起肌肉细胞的持续刺激（持续的EPSP），从而导致持续的肌肉收缩（痉挛），并最终因受体脱敏和细胞资源耗尽而导致麻痹。",
+      "es": "El texto afirma que el gas sarín 'inhibe la enzima que descompone el neurotransmisor que controla los músculos esqueléticos'. Luego identifica la acetilcolina como el neurotransmisor en la unión neuromuscular, donde su actividad excitadora es terminada por la acetilcolinesterasa, una enzima que hidroliza la acetilcolina. Por lo tanto, la inhibición de la acetilcolinesterasa conduciría a una presencia prolongada de acetilcolina en la hendidura sináptica, causando una estimulación continua de las células musculares (EPSP sostenido), lo que resultaría en una contracción muscular sostenida (espasmos) seguida de parálisis debido a la desensibilización del receptor y el agotamiento de los recursos celulares.",
+      "fr": "Le texte indique que le gaz sarin « inhibe l'enzyme qui dégrade le neurotransmetteur contrôlant les muscles squelettiques ». Il identifie ensuite l'acétylcholine comme le neurotransmetteur de la jonction neuromusculaire, où son activité excitatrice est terminée par l'acétylcholinestérase, une enzyme qui hydrolyse l'acétylcholine. Par conséquent, l'inhibition de l'acétylcholinestérase entraînerait une présence prolongée d'acétylcholine dans la fente synaptique, provoquant une stimulation continue des cellules musculaires (EPSP soutenu), ce qui se traduirait par une contraction musculaire soutenue (spasmes) suivie d'une paralysie due à la désensibilisation des récepteurs et à l'épuisement des ressources cellulaires.",
+      "de": "Der Text besagt, dass Sarin-Gas „das Enzym hemmt, das den Neurotransmitter abbaut, der die Skelettmuskulatur steuert.“ Es identifiziert dann Acetylcholin als den Neurotransmitter an der neuromuskulären Endplatte, dessen erregende Aktivität durch die Acetylcholinesterase, ein Enzym, das Acetylcholin hydrolysiert, beendet wird. Die Hemmung der Acetylcholinesterase würde daher zu einer verlängerten Präsenz von Acetylcholin im synaptischen Spalt führen, was eine kontinuierliche Stimulation der Muskelzellen (anhaltendes EPSP) verursacht, die zu anhaltender Muskelkontraktion (Spasmen) und schließlich zu Lähmungen aufgrund von Rezeptordesensibilisierung und Erschöpfung zellulärer Ressourcen führt.",
+      "ja": "本文は、サリンガスが「骨格筋を制御する神経伝達物質を分解する酵素を阻害する」と述べています。そして、アセチルコリンは神経筋接合部の神経伝達物質であり、その興奮性活動はアセチルコリンを分解する酵素であるアセチルコリンエステラーゼによって終結されると説明しています。したがって、アセチルコリンエステラーゼを阻害すると、シナプス間隙にアセチルコリンが長時間存在し続け、筋細胞の持続的な刺激（持続的なEPSP）を引き起こし、持続的な筋収縮（痙攣）を引き起こし、最終的には受容体の脱感作と細胞資源の枯渇により麻痺に至ります。"
+    }
+  }
+]

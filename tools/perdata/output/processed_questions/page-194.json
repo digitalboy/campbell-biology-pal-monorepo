@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 194,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following best describes an organism in the context of thermodynamics?",
+      "zh": "在热力学背景下，以下哪项最能描述一个生物体？",
+      "es": "En el contexto de la termodinámica, ¿cuál de las siguientes opciones describe mejor a un organismo?",
+      "fr": "Dans le contexte de la thermodynamique, laquelle des descriptions suivantes décrit le mieux un organisme ?",
+      "de": "Welche der folgenden Beschreibungen trifft im thermodynamischen Kontext am besten auf einen Organismus zu?",
+      "ja": "熱力学の文脈において、次のうち生物を最もよく表しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "An isolated system, as it does not exchange matter with its surroundings.",
+          "zh": "一个孤立系统，因为它不与周围环境交换物质。",
+          "es": "Un sistema aislado, ya que no intercambia materia con su entorno.",
+          "fr": "Un système isolé, car il n'échange pas de matière avec son environnement.",
+          "de": "Ein isoliertes System, da es keine Materie mit seiner Umgebung austauscht.",
+          "ja": "周囲と物質を交換しないため、孤立系である。"
+        },
+        "feedback": {
+          "en": "Organisms are open systems and do exchange matter with their surroundings.",
+          "zh": "生物体是开放系统，会与周围环境交换物质。",
+          "es": "Los organismos son sistemas abiertos e intercambian materia con su entorno.",
+          "fr": "Les organismes sont des systèmes ouverts et échangent de la matière avec leur environnement.",
+          "de": "Organismen sind offene Systeme und tauschen Materie mit ihrer Umgebung aus.",
+          "ja": "生物は開放系であり、周囲と物質を交換します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A closed system, exchanging energy but not matter with its surroundings.",
+          "zh": "一个封闭系统，与周围环境交换能量但不交换物质。",
+          "es": "Un sistema cerrado, que intercambia energía pero no materia con su entorno.",
+          "fr": "Un système fermé, échangeant de l'énergie mais pas de matière avec son environnement.",
+          "de": "Ein geschlossenes System, das Energie, aber keine Materie mit seiner Umgebung austauscht.",
+          "ja": "周囲とエネルギーを交換するが物質は交換しないため、閉鎖系である。"
+        },
+        "feedback": {
+          "en": "Organisms exchange both energy and matter with their surroundings.",
+          "zh": "生物体与周围环境交换能量和物质。",
+          "es": "Los organismos intercambian tanto energía como materia con su entorno.",
+          "fr": "Les organismes échangent à la fois de l'énergie et de la matière avec leur environnement.",
+          "de": "Organismen tauschen sowohl Energie als auch Materie mit ihrer Umgebung aus.",
+          "ja": "生物は周囲とエネルギーと物質の両方を交換します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "An open system, exchanging both energy and matter with its surroundings.",
+          "zh": "一个开放系统，与周围环境交换能量和物质。",
+          "es": "Un sistema abierto, que intercambia tanto energía como materia con su entorno.",
+          "fr": "Un système ouvert, échangeant à la fois de l'énergie et de la matière avec son environnement.",
+          "de": "Ein offenes System, das sowohl Energie als auch Materie mit seiner Umgebung austauscht.",
+          "ja": "周囲とエネルギーと物質の両方を交換するため、開放系である。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A hypothetical system, as thermodynamics only applies to non-living matter.",
+          "zh": "一个假设系统，因为热力学只适用于非生命物质。",
+          "es": "Un sistema hipotético, ya que la termodinámica solo se aplica a la materia no viva.",
+          "fr": "Un système hypothétique, car la thermodynamique ne s'applique qu'à la matière non vivante.",
+          "de": "Ein hypothetisches System, da die Thermodynamik nur auf unbelebte Materie zutrifft.",
+          "ja": "熱力学は非生物にのみ適用されるため、仮説上の系である。"
+        },
+        "feedback": {
+          "en": "Thermodynamics applies to all collections of matter, including living organisms.",
+          "zh": "热力学适用于所有物质集合，包括生物体。",
+          "es": "La termodinámica se aplica a todas las colecciones de materia, incluidos los organismos vivos.",
+          "fr": "La thermodynamique s'applique à toutes les collections de matière, y compris les organismes vivants.",
+          "de": "Die Thermodynamik gilt für alle Ansammlungen von Materie, einschließlich lebender Organismen.",
+          "ja": "熱力学は生物を含むすべての物質の集合に適用されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that 'Organisms are open systems' because they 'absorb energy... and release heat and metabolic waste products' to and from their surroundings, meaning they exchange both energy and matter.",
+      "zh": "文本明确指出“生物体是开放系统”，因为它们“吸收能量……并向周围环境释放热量和代谢废物”，这意味着它们与环境交换能量和物质。",
+      "es": "El texto establece explícitamente que 'los organismos son sistemas abiertos' porque 'absorben energía... y liberan calor y productos de desecho metabólicos' hacia y desde su entorno, lo que significa que intercambian tanto energía como materia.",
+      "fr": "Le texte indique explicitement que « les organismes sont des systèmes ouverts » car ils « absorbent de l'énergie... et libèrent de la chaleur et des produits de déchets métaboliques » vers et depuis leur environnement, ce qui signifie qu'ils échangent à la fois de l'énergie et de la matière.",
+      "de": "Der Text besagt ausdrücklich, dass „Organismen offene Systeme sind“, da sie „Energie aufnehmen... und Wärme und Stoffwechselendprodukte abgeben“ an ihre Umgebung, was bedeutet, dass sie sowohl Energie als auch Materie austauschen.",
+      "ja": "本文では、「生物は開放系である」と明記されており、これは生物が周囲から「エネルギーを吸収し...熱と代謝産物を放出する」ためであり、エネルギーと物質の両方を交換することを意味します。"
+    }
+  },
+  {
+    "page_number": 194,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the first law of thermodynamics, which statement is true regarding energy in the universe?",
+      "zh": "根据热力学第一定律，关于宇宙中的能量，以下哪项陈述是正确的？",
+      "es": "Según la primera ley de la termodinámica, ¿cuál de las siguientes afirmaciones es verdadera con respecto a la energía en el universo?",
+      "fr": "Selon la première loi de la thermodynamique, quelle affirmation est vraie concernant l'énergie dans l'univers ?",
+      "de": "Welche Aussage trifft nach dem ersten Hauptsatz der Thermodynamik auf die Energie im Universum zu?",
+      "ja": "熱力学第一法則によると、宇宙のエネルギーに関して次のうち正しい記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Energy can be created from nothing, but not destroyed.",
+          "zh": "能量可以凭空产生，但不能被毁灭。",
+          "es": "La energía puede crearse de la nada, pero no destruirse.",
+          "fr": "L'énergie peut être créée à partir de rien, mais pas détruite.",
+          "de": "Energie kann aus dem Nichts erzeugt, aber nicht vernichtet werden.",
+          "ja": "エネルギーは無から創造されるが、破壊されることはない。"
+        },
+        "feedback": {
+          "en": "The first law states that energy cannot be created or destroyed.",
+          "zh": "第一定律指出能量不能被创造或毁灭。",
+          "es": "La primera ley establece que la energía no puede crearse ni destruirse.",
+          "fr": "La première loi stipule que l'énergie ne peut être ni créée ni détruite.",
+          "de": "Der erste Hauptsatz besagt, dass Energie weder erzeugt noch vernichtet werden kann.",
+          "ja": "第一法則は、エネルギーは創造も破壊もされないと述べています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Energy can be destroyed, but not created.",
+          "zh": "能量可以被毁灭，但不能产生。",
+          "es": "La energía puede destruirse, pero no crearse.",
+          "fr": "L'énergie peut être détruite, mais pas créée.",
+          "de": "Energie kann vernichtet, aber nicht erzeugt werden.",
+          "ja": "エネルギーは破壊されるが、創造されることはない。"
+        },
+        "feedback": {
+          "en": "The first law states that energy cannot be created or destroyed.",
+          "zh": "第一定律指出能量不能被创造或毁灭。",
+          "es": "La primera ley establece que la energía no puede crearse ni destruirse.",
+          "fr": "La première loi stipule que l'énergie ne peut être ni créée ni détruite.",
+          "de": "Der erste Hauptsatz besagt, dass Energie weder erzeugt noch vernichtet werden kann.",
+          "ja": "第一法則は、エネルギーは創造も破壊もされないと述べています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The total amount of energy is constant, but it can be transferred and transformed.",
+          "zh": "能量总量是恒定的，但它可以被转移和转化。",
+          "es": "La cantidad total de energía es constante, pero puede ser transferida y transformada.",
+          "fr": "La quantité totale d'énergie est constante, mais elle peut être transférée et transformée.",
+          "de": "Die Gesamtenergiemenge ist konstant, aber sie kann übertragen und umgewandelt werden.",
+          "ja": "総エネルギー量は一定であるが、伝達および変換され得る。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Energy is lost during transfers and transformations, decreasing the total amount in the universe.",
+          "zh": "能量在转移和转化过程中会损失，导致宇宙中的能量总量减少。",
+          "es": "La energía se pierde durante las transferencias y transformaciones, disminuyendo la cantidad total en el universo.",
+          "fr": "L'énergie est perdue lors des transferts et des transformations, diminuant la quantité totale dans l'univers.",
+          "de": "Energie geht bei Übertragungen und Umwandlungen verloren, wodurch die Gesamtmenge im Universum abnimmt.",
+          "ja": "エネルギーは伝達や変換の過程で失われ、宇宙全体の総量が減少する。"
+        },
+        "feedback": {
+          "en": "While usable energy decreases, the total amount of energy in the universe remains constant; it is conserved.",
+          "zh": "虽然可用能量会减少，但宇宙中的能量总量保持不变；它受到守恒。",
+          "es": "Aunque la energía utilizable disminuye, la cantidad total de energía en el universo permanece constante; se conserva.",
+          "fr": "Bien que l'énergie utilisable diminue, la quantité totale d'énergie dans l'univers reste constante ; elle est conservée.",
+          "de": "Obwohl die nutzbare Energie abnimmt, bleibt die Gesamtenergiemenge im Universum konstant; sie wird erhalten.",
+          "ja": "利用可能なエネルギーは減少しますが、宇宙の総エネルギー量は一定のままであり、保存されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The first law of thermodynamics, also known as the principle of conservation of energy, states that the energy of the universe is constant: Energy can be transferred and transformed, but it cannot be created or destroyed.",
+      "zh": "热力学第一定律，也称为能量守恒定律，指出宇宙中的能量是恒定的：能量可以被转移和转化，但不能被创造或毁灭。",
+      "es": "La primera ley de la termodinámica, también conocida como el principio de conservación de la energía, establece que la energía del universo es constante: la energía puede transferirse y transformarse, pero no puede crearse ni destruirse.",
+      "fr": "La première loi de la thermodynamique, également connue sous le nom de principe de conservation de l'énergie, stipule que l'énergie de l'univers est constante : l'énergie peut être transférée et transformée, mais elle ne peut être ni créée ni détruite.",
+      "de": "Der erste Hauptsatz der Thermodynamik, auch als Energieerhaltungssatz bekannt, besagt, dass die Energie des Universums konstant ist: Energie kann übertragen und umgewandelt, aber nicht erzeugt oder vernichtet werden.",
+      "ja": "熱力学第一法則は、エネルギー保存の法則とも呼ばれ、宇宙のエネルギーは一定であり、エネルギーは伝達・変換されるが、創造も破壊もされないと述べています。"
+    }
+  },
+  {
+    "page_number": 194,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 8.2 and the accompanying text, which sequence of energy transformations correctly describes a diver climbing the platform, then diving into the water?",
+      "zh": "根据图 8.2 和随附文本，以下哪种能量转化序列正确描述了潜水员爬上跳台然后跳入水中的过程？",
+      "es": "Basándose en la Figura 8.2 y el texto adjunto, ¿qué secuencia de transformaciones de energía describe correctamente a un buceador subiendo a la plataforma y luego zambulléndose en el agua?",
+      "fr": "D'après la Figure 8.2 et le texte l'accompagnant, quelle séquence de transformations d'énergie décrit correctement un plongeur montant sur la plateforme, puis plongeant dans l'eau ?",
+      "de": "Basierend auf Abbildung 8.2 und dem begleitenden Text, welche Abfolge von Energieumwandlungen beschreibt korrekt einen Taucher, der auf die Plattform klettert und dann ins Wasser taucht?",
+      "ja": "図8.2と付属のテキストに基づいて、ダイバーが台に登り、その後水中に飛び込む際のエネルギー変換の正しいシーケンスはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Climbing: Potential to Kinetic; Diving: Kinetic to Potential.",
+          "zh": "攀爬：势能转化为动能；跳水：动能转化为势能。",
+          "es": "Subida: Potencial a Cinética; Buceo: Cinética a Potencial.",
+          "fr": "Montée : Potentielle en Cinétique ; Plongée : Cinétique en Potentielle.",
+          "de": "Klettern: Potentielle zu Kinetische; Tauchen: Kinetische zu Potentielle.",
+          "ja": "登るとき：位置エネルギーから運動エネルギーへ；飛び込むとき：運動エネルギーから位置エネルギーへ。"
+        },
+        "feedback": {
+          "en": "Climbing increases potential energy (kinetic to potential), and diving decreases potential energy (potential to kinetic).",
+          "zh": "攀爬增加势能（动能转化为势能），跳水减少势能（势能转化为动能）。",
+          "es": "Subir aumenta la energía potencial (cinética a potencial), y bucear disminuye la energía potencial (potencial a cinética).",
+          "fr": "L'escalade augmente l'énergie potentielle (cinétique en potentielle), et la plongée diminue l'énergie potentielle (potentielle en cinétique).",
+          "de": "Klettern erhöht die potenzielle Energie (kinetische zu potenzieller), und Tauchen verringert die potenzielle Energie (potenzielle zu kinetischer).",
+          "ja": "登ることは位置エネルギーを増加させ（運動エネルギーから位置エネルギーへ）、飛び込むことは位置エネルギーを減少させます（位置エネルギーから運動エネルギーへ）。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Climbing: Kinetic (muscle) to Potential; Diving: Potential to Kinetic.",
+          "zh": "攀爬：动能（肌肉）转化为势能；跳水：势能转化为动能。",
+          "es": "Subida: Cinética (muscular) a Potencial; Buceo: Potencial a Cinética.",
+          "fr": "Montée : Cinétique (musculaire) en Potentielle ; Plongée : Potentielle en Cinétique.",
+          "de": "Klettern: Kinetische (Muskel-) zu Potentielle; Tauchen: Potentielle zu Kinetische.",
+          "ja": "登るとき：運動エネルギー（筋肉）から位置エネルギーへ；飛び込むとき：位置エネルギーから運動エネルギーへ。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Climbing: Chemical to Kinetic; Diving: Kinetic to Heat.",
+          "zh": "攀爬：化学能转化为动能；跳水：动能转化为热能。",
+          "es": "Subida: Química a Cinética; Buceo: Cinética a Calor.",
+          "fr": "Montée : Chimique en Cinétique ; Plongée : Cinétique en Chaleur.",
+          "de": "Klettern: Chemische zu Kinetische; Tauchen: Kinetische zu Wärme.",
+          "ja": "登るとき：化学エネルギーから運動エネルギーへ；飛び込むとき：運動エネルギーから熱へ。"
+        },
+        "feedback": {
+          "en": "While chemical energy powers muscle movement, the direct transformation during climbing is kinetic to potential. Diving primarily converts potential to kinetic, with some loss as heat and noise.",
+          "zh": "虽然化学能为肌肉运动提供动力，但攀爬过程中的直接转化是动能转化为势能。跳水主要是势能转化为动能，其中一部分能量以热量和噪音的形式损失。",
+          "es": "Aunque la energía química impulsa el movimiento muscular, la transformación directa durante la subida es de cinética a potencial. El buceo convierte principalmente la energía potencial en cinética, con alguna pérdida en forma de calor y ruido.",
+          "fr": "Bien que l'énergie chimique alimente le mouvement musculaire, la transformation directe lors de la montée est cinétique en potentielle. La plongée convertit principalement l'énergie potentielle en cinétique, avec une certaine perte sous forme de chaleur et de bruit.",
+          "de": "Obwohl chemische Energie die Muskelbewegung antreibt, ist die direkte Umwandlung beim Klettern von kinetischer zu potenzieller Energie. Beim Tauchen wird hauptsächlich potenzielle in kinetische Energie umgewandelt, mit einem Teilverlust als Wärme und Geräusch.",
+          "ja": "化学エネルギーが筋肉の動きを供給しますが、登る際の直接的な変換は運動エネルギーから位置エネルギーです。飛び込みは主に位置エネルギーから運動エネルギーへの変換であり、一部が熱と音として失われます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Climbing: Heat to Potential; Diving: Potential to Chemical.",
+          "zh": "攀爬：热能转化为势能；跳水：势能转化为化学能。",
+          "es": "Subida: Calor a Potencial; Buceo: Potencial a Química.",
+          "fr": "Montée : Chaleur en Potentielle ; Plongée : Potentielle en Chimique.",
+          "de": "Klettern: Wärme zu Potentielle; Tauchen: Potentielle zu Chemische.",
+          "ja": "登るとき：熱から位置エネルギーへ；飛び込むとき：位置エネルギーから化学エネルギーへ。"
+        },
+        "feedback": {
+          "en": "Heat is usually a byproduct of energy transformation, not a primary source for increasing potential energy in this context. Potential energy does not convert to chemical energy during diving.",
+          "zh": "热量通常是能量转化的副产品，在这种情况下并非增加势能的主要来源。跳水过程中势能不会转化为化学能。",
+          "es": "El calor es generalmente un subproducto de la transformación de energía, no una fuente principal para aumentar la energía potencial en este contexto. La energía potencial no se convierte en energía química durante el buceo.",
+          "fr": "La chaleur est généralement un sous-produit de la transformation d'énergie, non une source principale pour augmenter l'énergie potentielle dans ce contexte. L'énergie potentielle ne se convertit pas en énergie chimique pendant la plongée.",
+          "de": "Wärme ist in diesem Kontext meist ein Nebenprodukt der Energieumwandlung, nicht die primäre Quelle zur Erhöhung der potenziellen Energie. Potenzielle Energie wird beim Tauchen nicht in chemische Energie umgewandelt.",
+          "ja": "この文脈において、熱は通常エネルギー変換の副産物であり、位置エネルギーを増加させる主要な源ではありません。飛び込み中に位置エネルギーが化学エネルギーに変換されることはありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that 'Climbing up converts the kinetic energy of muscle movement to potential energy' and 'The man diving is converting his potential energy to kinetic energy'.",
+      "zh": "文本指出“爬升将肌肉运动的动能转化为势能”，而“潜水的人正在将其势能转化为动能”。",
+      "es": "El texto afirma que 'Subir convierte la energía cinética del movimiento muscular en energía potencial' y 'El hombre que se zambulle está convirtiendo su energía potencial en energía cinética'.",
+      "fr": "Le texte indique que « grimper convertit l'énergie cinétique du mouvement musculaire en énergie potentielle » et que « l'homme qui plonge convertit son énergie potentielle en énergie cinétique ».",
+      "de": "Der Text besagt, dass „das Hochklettern die kinetische Energie der Muskelbewegung in potenzielle Energie umwandelt“ und „der tauchende Mann seine potenzielle Energie in kinetische Energie umwandelt“.",
+      "ja": "本文には「登ることは筋肉の運動エネルギーを位置エネルギーに変換する」とあり、「飛び込む男性は自身の位置エネルギーを運動エネルギーに変換している」と述べられています。"
+    }
+  },
+  {
+    "page_number": 194,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The second law of thermodynamics states that every energy transfer or transformation increases the disorder of the universe. Which of the following is an example of increased disorder resulting from a biological energy transformation?",
+      "zh": "热力学第二定律指出，每一次能量转移或转化都会增加宇宙的无序度。以下哪项是生物能量转化导致无序度增加的例子？",
+      "es": "La segunda ley de la termodinámica establece que cada transferencia o transformación de energía aumenta el desorden del universo. ¿Cuál de los siguientes es un ejemplo de aumento del desorden resultante de una transformación de energía biológica?",
+      "fr": "La deuxième loi de la thermodynamique stipule que chaque transfert ou transformation d'énergie augmente le désordre de l'univers. Lequel des exemples suivants illustre une augmentation du désordre résultant d'une transformation d'énergie biologique ?",
+      "de": "Der zweite Hauptsatz der Thermodynamik besagt, dass jede Energieübertragung oder -umwandlung die Unordnung des Universums erhöht. Welches der folgenden Beispiele zeigt eine Zunahme der Unordnung infolge einer biologischen Energieumwandlung?",
+      "ja": "熱力学第二法則は、すべてのエネルギー移動または変換が宇宙の無秩序さを増大させると述べています。次のうち、生物学的エネルギー変換の結果として無秩序さが増大した例はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A plant converting sunlight into chemical energy.",
+          "zh": "植物将阳光转化为化学能。",
+          "es": "Una planta que convierte la luz solar en energía química.",
+          "fr": "Une plante convertissant la lumière du soleil en énergie chimique.",
+          "de": "Eine Pflanze, die Sonnenlicht in chemische Energie umwandelt.",
+          "ja": "植物が日光を化学エネルギーに変換する。"
+        },
+        "feedback": {
+          "en": "While this is an energy transformation, it represents an increase in localized order (storing energy) which requires an even greater increase in disorder elsewhere in the universe.",
+          "zh": "虽然这是一种能量转化，但它代表了局部有序性的增加（储存能量），这需要在宇宙其他地方造成更大的无序性增加。",
+          "es": "Aunque esta es una transformación de energía, representa un aumento en el orden localizado (almacenamiento de energía) que requiere un aumento aún mayor en el desorden en otras partes del universo.",
+          "fr": "Bien qu'il s'agisse d'une transformation d'énergie, cela représente une augmentation de l'ordre localisé (stockage d'énergie) qui nécessite une augmentation encore plus importante du désordre ailleurs dans l'univers.",
+          "de": "Obwohl dies eine Energieumwandlung ist, stellt sie eine Zunahme der lokalen Ordnung (Speicherung von Energie) dar, die eine noch größere Zunahme der Unordnung anderswo im Universum erfordert.",
+          "ja": "これはエネルギー変換ですが、局所的な秩序の増加（エネルギー貯蔵）を表しており、宇宙の他の場所でより大きな無秩序の増加を必要とします。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A diver gaining potential energy by climbing to a higher platform.",
+          "zh": "潜水员通过爬上更高的跳台获得势能。",
+          "es": "Un buceador que gana energía potencial al subir a una plataforma más alta.",
+          "fr": "Un plongeur gagnant de l'énergie potentielle en montant sur une plateforme plus haute.",
+          "de": "Ein Taucher, der durch das Klettern auf eine höhere Plattform potenzielle Energie gewinnt.",
+          "ja": "ダイバーが高いプラットフォームに登ることで位置エネルギーを得る。"
+        },
+        "feedback": {
+          "en": "This describes an increase in potential energy (a form of ordered energy) at the expense of another energy form, not directly illustrating the resulting increase in disorder.",
+          "zh": "这描述的是势能（一种有序能量形式）的增加，以牺牲另一种能量形式为代价，并未直接说明由此导致的无序度增加。",
+          "es": "Esto describe un aumento en la energía potencial (una forma de energía ordenada) a expensas de otra forma de energía, no ilustrando directamente el aumento resultante del desorden.",
+          "fr": "Cela décrit une augmentation de l'énergie potentielle (une forme d'énergie ordonnée) au détriment d'une autre forme d'énergie, n'illustrant pas directement l'augmentation du désordre qui en résulte.",
+          "de": "Dies beschreibt eine Zunahme der potenziellen Energie (einer Form geordneter Energie) auf Kosten einer anderen Energieform, ohne direkt die resultierende Zunahme der Unordnung zu veranschaulichen.",
+          "ja": "これは、別のエネルギー形式を犠牲にして位置エネルギー（秩序あるエネルギー形式）が増加する様子を示しており、直接的に生じる無秩序の増加を示していません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A brown bear releasing heat and carbon dioxide as it runs.",
+          "zh": "一只棕熊在奔跑时释放热量和二氧化碳。",
+          "es": "Un oso pardo liberando calor y dióxido de carbono mientras corre.",
+          "fr": "Un ours brun libérant de la chaleur et du dioxyde de carbone pendant qu'il court.",
+          "de": "Ein Braunbär, der beim Laufen Wärme und Kohlendioxid abgibt.",
+          "ja": "クマが走る際に熱と二酸化炭素を放出する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Chemical energy stored in food molecules.",
+          "zh": "食物分子中储存的化学能。",
+          "es": "Energía química almacenada en las moléculas de los alimentos.",
+          "fr": "Énergie chimique stockée dans les molécules alimentaires.",
+          "de": "Chemische Energie, die in Nahrungsmittelmolekülen gespeichert ist.",
+          "ja": "食品分子に貯蔵された化学エネルギー。"
+        },
+        "feedback": {
+          "en": "This represents stored, ordered energy. The increase in disorder occurs when this energy is used and transformed.",
+          "zh": "这代表了储存的有序能量。无序度的增加发生在能量被使用和转化时。",
+          "es": "Esto representa energía almacenada y ordenada. El aumento del desorden ocurre cuando esta energía se utiliza y transforma.",
+          "fr": "Cela représente de l'énergie stockée et ordonnée. L'augmentation du désordre se produit lorsque cette énergie est utilisée et transformée.",
+          "de": "Dies stellt gespeicherte, geordnete Energie dar. Die Zunahme der Unordnung tritt auf, wenn diese Energie genutzt und umgewandelt wird.",
+          "ja": "これは貯蔵された秩序あるエネルギーを表します。無秩序の増加は、このエネルギーが使用され、変換されるときに起こります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The explanation for Figure 8.3b directly states: 'Every energy transfer or transformation increases the disorder (entropy) of the universe. For example, as the bear runs, disorder is increased around its body by the release of heat and small molecules that are the by-products of metabolism.'",
+      "zh": "图8.3b的解释直接指出：“每一次能量转移或转化都会增加宇宙的无序度（熵）。例如，当熊奔跑时，由于释放出热量和作为代谢副产物的小分子，其身体周围的无序度会增加。”",
+      "es": "La explicación de la Figura 8.3b establece directamente: 'Cada transferencia o transformación de energía aumenta el desorden (entropía) del universo. Por ejemplo, a medida que el oso corre, el desorden aumenta alrededor de su cuerpo por la liberación de calor y pequeñas moléculas que son los subproductos del metabolismo'.",
+      "fr": "L'explication de la Figure 8.3b indique directement : « Chaque transfert ou transformation d'énergie augmente le désordre (entropie) de l'univers. Par exemple, lorsque l'ours court, le désordre augmente autour de son corps par la libération de chaleur et de petites molécules qui sont les sous-produits du métabolisme. »",
+      "de": "Die Erklärung zu Abbildung 8.3b besagt direkt: „Jede Energieübertragung oder -umwandlung erhöht die Unordnung (Entropie) des Universums. Wenn der Bär läuft, nimmt beispielsweise die Unordnung um seinen Körper herum durch die Freisetzung von Wärme und kleinen Molekülen, die Stoffwechselprodukte sind, zu.“",
+      "ja": "図8.3bの説明には直接的に「すべてのエネルギー移動または変換は宇宙の無秩序（エントロピー）を増大させる。例えば、クマが走るとき、代謝の副産物である熱や小さな分子の放出によって、体の周囲の無秩序さが増大する」と記されています。"
+    }
+  }
+]

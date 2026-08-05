@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 253,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary evolutionary advantage of the C4 photosynthetic pathway, particularly in hot, dry climates?",
+      "zh": "C4光合作用途径的主要进化优势是什么，尤其是在炎热、干燥的气候中？",
+      "es": "¿Cuál es la principal ventaja evolutiva de la vía fotosintética C4, particularmente en climas cálidos y secos?",
+      "fr": "Quel est le principal avantage évolutif de la voie photosynthétique C4, en particulier dans les climats chauds et secs?",
+      "de": "Was ist der primäre evolutionäre Vorteil des C4-Photosynthesewegs, insbesondere in heißen, trockenen Klimazonen?",
+      "ja": "特に高温乾燥気候において、C4光合成経路の主な進化的利点は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Enabling plants to perform photosynthesis without water.",
+          "zh": "使植物能够在没有水的情况下进行光合作用。",
+          "es": "Permitir que las plantas realicen la fotosíntesis sin agua.",
+          "fr": "Permettre aux plantes de réaliser la photosynthèse sans eau.",
+          "de": "Pflanzen ermöglichen, Photosynthese ohne Wasser durchzuführen.",
+          "ja": "植物が水なしで光合成を行うことを可能にする。"
+        },
+        "feedback": {
+          "en": "Photosynthesis always requires water.",
+          "zh": "光合作用总是需要水。",
+          "es": "La fotosíntesis siempre requiere agua.",
+          "fr": "La photosynthèse nécessite toujours de l'eau.",
+          "de": "Photosynthese benötigt immer Wasser.",
+          "ja": "光合成には常に水が必要です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Minimizing photorespiration by concentrating CO2 in bundle-sheath cells.",
+          "zh": "通过在维管束鞘细胞中浓缩二氧化碳来最大限度地减少光呼吸。",
+          "es": "Minimizar la fotorrespiración concentrando CO2 en las células de la vaina del haz.",
+          "fr": "Minimiser la photorespiration en concentrant le CO2 dans les cellules de la gaine fasciculaire.",
+          "de": "Minimierung der Photorespiration durch Konzentration von CO2 in Bündelscheidenzellen.",
+          "ja": "維管束鞘細胞でCO2を濃縮することにより、光呼吸を最小限に抑える。"
+        },
+        "feedback": {
+          "en": "Correct. C4 plants use an ATP-powered CO2 pump to maintain high CO2 levels in bundle-sheath cells, which ensures rubisco binds CO2 rather than O2, thus minimizing photorespiration.",
+          "zh": "正确。C4植物利用ATP驱动的二氧化碳泵在维管束鞘细胞中维持高二氧化碳水平，确保Rubisco酶结合二氧化碳而非氧气，从而最大限度地减少光呼吸。",
+          "es": "Correcto. Las plantas C4 utilizan una bomba de CO2 impulsada por ATP para mantener altos niveles de CO2 en las células de la vaina del haz, lo que asegura que la rubisco se una al CO2 en lugar de al O2, minimizando así la fotorrespiración.",
+          "fr": "Correct. Les plantes C4 utilisent une pompe à CO2 alimentée par l'ATP pour maintenir des niveaux élevés de CO2 dans les cellules de la gaine fasciculaire, ce qui garantit que la rubisco fixe le CO2 plutôt que l'O2, minimisant ainsi la photorespiration.",
+          "de": "Korrekt. C4-Pflanzen nutzen eine ATP-betriebene CO2-Pumpe, um hohe CO2-Spiegel in den Bündelscheidenzellen aufrechtzuerhalten, was sicherstellt, dass Rubisco CO2 statt O2 bindet und somit die Photorespiration minimiert.",
+          "ja": "正解です。C4植物はATP駆動のCO2ポンプを使用して、維管束鞘細胞内のCO2レベルを高く保ち、RubiscoがO2ではなくCO2と結合することを確実にし、光呼吸を最小限に抑えます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Maximizing oxygen production to enhance atmospheric O2 levels.",
+          "zh": "最大限度地提高氧气产量以增加大气中的氧气水平。",
+          "es": "Maximizar la producción de oxígeno para aumentar los niveles de O2 atmosférico.",
+          "fr": "Maximiser la production d'oxygène pour augmenter les niveaux d'O2 atmosphérique.",
+          "de": "Maximierung der Sauerstoffproduktion zur Erhöhung der atmosphärischen O2-Spiegel.",
+          "ja": "大気中のO2レベルを高めるために酸素生産を最大化する。"
+        },
+        "feedback": {
+          "en": "While oxygen is produced, maximizing its production is not the primary advantage of C4 photosynthesis, which is focused on CO2 efficiency.",
+          "zh": "虽然会产生氧气，但最大化氧气产量并非C4光合作用的主要优势，其重点在于二氧化碳的利用效率。",
+          "es": "Aunque se produce oxígeno, maximizar su producción no es la ventaja principal de la fotosíntesis C4, que se centra en la eficiencia del CO2.",
+          "fr": "Bien que de l'oxygène soit produit, maximiser sa production n'est pas l'avantage principal de la photosynthèse C4, qui se concentre sur l'efficacité du CO2.",
+          "de": "Obwohl Sauerstoff produziert wird, ist die Maximierung der Produktion nicht der Hauptvorteil der C4-Photosynthese, die sich auf die CO2-Effizienz konzentriert.",
+          "ja": "酸素は生成されますが、その生産を最大化することはC4光合作用の主な利点ではなく、CO2効率に焦点を当てています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Allowing C4 plants to grow faster than C3 plants in all environmental conditions.",
+          "zh": "使C4植物在所有环境条件下都比C3植物生长得更快。",
+          "es": "Permitir que las plantas C4 crezcan más rápido que las plantas C3 en todas las condiciones ambientales.",
+          "fr": "Permettre aux plantes C4 de croître plus rapidement que les plantes C3 dans toutes les conditions environnementales.",
+          "de": "C4-Pflanzen ermöglichen, unter allen Umweltbedingungen schneller zu wachsen als C3-Pflanzen.",
+          "ja": "C4植物がすべての環境条件下でC3植物よりも速く成長することを可能にする。"
+        },
+        "feedback": {
+          "en": "C4 plants are more efficient in hot, dry, and high-light conditions where photorespiration is a significant problem for C3 plants, but not necessarily faster in all conditions.",
+          "zh": "C4植物在炎热、干燥和高光照条件下更有效率，因为在这些条件下光呼吸对C3植物来说是一个严重问题，但并非在所有条件下都更快。",
+          "es": "Las plantas C4 son más eficientes en condiciones cálidas, secas y de alta luminosidad donde la fotorrespiración es un problema significativo para las plantas C3, pero no necesariamente más rápidas en todas las condiciones.",
+          "fr": "Les plantes C4 sont plus efficaces dans les conditions chaudes, sèches et de forte luminosité où la photorespiration est un problème significatif pour les plantes C3, mais pas nécessairement plus rapides dans toutes les conditions.",
+          "de": "C4-Pflanzen sind in heißen, trockenen und lichtintensiven Bedingungen effizienter, wo Photorespiration für C3-Pflanzen ein erhebliches Problem darstellt, aber nicht notwendigerweise unter allen Bedingungen schneller.",
+          "ja": "C4植物は、高温、乾燥、高光量条件下で、C3植物にとって光呼吸が大きな問題となる場合に効率的ですが、すべての条件下で必ずしも速いわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The C4 photosynthetic pathway is an evolutionary adaptation to hot, dry climates. Its primary advantage is to minimize photorespiration by maintaining a high CO2 concentration in the bundle-sheath cells, which favors photosynthesis over photorespiration, leading to more efficient sugar production.",
+      "zh": "C4光合作用途径是对炎热、干燥气候的一种进化适应。其主要优势在于通过在维管束鞘细胞中维持高二氧化碳浓度来最大限度地减少光呼吸，这有利于光合作用而非光呼吸，从而提高糖的生产效率。",
+      "es": "La vía fotosintética C4 es una adaptación evolutiva a climas cálidos y secos. Su principal ventaja es minimizar la fotorrespiración manteniendo una alta concentración de CO2 en las células de la vaina del haz, lo que favorece la fotosíntesis sobre la fotorrespiración, llevando a una producción de azúcar más eficiente.",
+      "fr": "La voie photosynthétique C4 est une adaptation évolutive aux climats chauds et secs. Son principal avantage est de minimiser la photorespiration en maintenant une concentration élevée de CO2 dans les cellules de la gaine fasciculaire, ce qui favorise la photosynthèse par rapport à la photorespiration, conduisant à une production de sucre plus efficace.",
+      "de": "Der C4-Photosyntheseweg ist eine evolutionäre Anpassung an heiße, trockene Klimazonen. Sein Hauptvorteil besteht darin, die Photorespiration zu minimieren, indem eine hohe CO2-Konzentration in den Bündelscheidenzellen aufrechterhalten wird, was die Photosynthese gegenüber der Photorespiration begünstigt und zu einer effizienteren Zuckerproduktion führt.",
+      "ja": "C4光合成経路は、高温乾燥気候への進化的適応です。その主な利点は、維管束鞘細胞内で高いCO2濃度を維持することにより光呼吸を最小限に抑えることであり、これにより光呼吸よりも光合成が優先され、より効率的な糖の生産につながります。"
+    }
+  },
+  {
+    "page_number": 253,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the text, how would rising atmospheric CO2 concentrations and increasing global temperatures likely affect the relative abundance of C3 and C4 plants in a given plant community?",
+      "zh": "根据文本，大气中二氧化碳浓度升高和全球气温上升可能如何影响给定植物群落中C3和C4植物的相对丰度？",
+      "es": "Según el texto, ¿cómo afectarían probablemente el aumento de las concentraciones de CO2 atmosférico y el aumento de las temperaturas globales a la abundancia relativa de plantas C3 y C4 en una comunidad vegetal dada?",
+      "fr": "Selon le texte, comment l'augmentation des concentrations atmosphériques de CO2 et l'augmentation des températures mondiales affecteraient-elles probablement l'abondance relative des plantes C3 et C4 dans une communauté végétale donnée?",
+      "de": "Wie würden sich nach dem Text steigende atmosphärische CO2-Konzentrationen und steigende globale Temperaturen wahrscheinlich auf die relative Häufigkeit von C3- und C4-Pflanzen in einer bestimmten Pflanzengemeinschaft auswirken?",
+      "ja": "本文によると、大気中のCO2濃度の上昇と地球規模の気温上昇は、特定の植物群落におけるC3植物とC4植物の相対的な存在量にどのような影響を与える可能性が高いですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Both C3 and C4 plants would equally benefit, leading to no change in relative abundance.",
+          "zh": "C3和C4植物将同样受益，导致相对丰度没有变化。",
+          "es": "Ambas plantas C3 y C4 se beneficiarían por igual, lo que no provocaría cambios en la abundancia relativa.",
+          "fr": "Les plantes C3 et C4 en bénéficieraient également, n'entraînant aucun changement dans l'abondance relative.",
+          "de": "Sowohl C3- als auch C4-Pflanzen würden gleichermaßen profitieren, was zu keiner Änderung der relativen Häufigkeit führen würde.",
+          "ja": "C3植物とC4植物の両方が同様に恩恵を受け、相対的な存在量に変化はないでしょう。"
+        },
+        "feedback": {
+          "en": "C3 plants benefit more from rising CO2 due to reduced photorespiration, while C4 plants are largely unaffected by these changes. Therefore, the benefit is not equal.",
+          "zh": "C3植物由于光呼吸减少而从二氧化碳升高中受益更多，而C4植物基本不受这些变化的影响。因此，受益并非均等。",
+          "es": "Las plantas C3 se benefician más del aumento de CO2 debido a la fotorrespiración reducida, mientras que las plantas C4 no se ven afectadas en gran medida por estos cambios. Por lo tanto, el beneficio no es igual.",
+          "fr": "Les plantes C3 bénéficient davantage de l'augmentation du CO2 en raison d'une photorespiration réduite, tandis que les plantes C4 sont largement épargnées par ces changements. Par conséquent, le bénéfice n'est pas égal.",
+          "de": "C3-Pflanzen profitieren stärker von steigendem CO2 aufgrund reduzierter Photorespiration, während C4-Pflanzen von diesen Änderungen weitgehend unbeeinflusst bleiben. Daher ist der Nutzen nicht gleich.",
+          "ja": "C3植物は光呼吸の減少によりCO2の上昇からより恩恵を受ける一方、C4植物はこれらの変化の影響をほとんど受けません。したがって、恩恵は同等ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "C3 plants would decrease due to increased photorespiration, while C4 plants would increase.",
+          "zh": "C3植物会因光呼吸增加而减少，而C4植物会增加。",
+          "es": "Las plantas C3 disminuirían debido al aumento de la fotorrespiración, mientras que las plantas C4 aumentarían.",
+          "fr": "Les plantes C3 diminueraient en raison d'une photorespiration accrue, tandis que les plantes C4 augmenteraient.",
+          "de": "C3-Pflanzen würden aufgrund erhöhter Photorespiration abnehmen, während C4-Pflanzen zunehmen würden.",
+          "ja": "C3植物は光呼吸の増加により減少し、C4植物は増加するでしょう。"
+        },
+        "feedback": {
+          "en": "Rising CO2 *reduces* photorespiration in C3 plants. Rising temperatures increase photorespiration for C3, but C4 plants are largely unaffected by either CO2 or temperature changes, making the overall outcome complex and variable.",
+          "zh": "二氧化碳升高会*减少*C3植物的光呼吸。气温升高会增加C3植物的光呼吸，但C4植物基本不受二氧化碳或气温变化的影响，这使得总体结果复杂且多变。",
+          "es": "El aumento de CO2 *reduce* la fotorrespiración en las plantas C3. El aumento de las temperaturas incrementa la fotorrespiración para las C3, pero las plantas C4 no se ven afectadas en gran medida ni por los cambios de CO2 ni por los de temperatura, lo que hace que el resultado general sea complejo y variable.",
+          "fr": "L'augmentation du CO2 *réduit* la photorespiration chez les plantes C3. L'augmentation des températures accroît la photorespiration pour les C3, mais les plantes C4 sont largement épargnées par les changements de CO2 ou de température, rendant le résultat global complexe et variable.",
+          "de": "Steigendes CO2 *reduziert* die Photorespiration bei C3-Pflanzen. Steigende Temperaturen erhöhen die Photorespiration bei C3, aber C4-Pflanzen bleiben von CO2- oder Temperaturänderungen weitgehend unbeeinflusst, was das Gesamtergebnis komplex und variabel macht.",
+          "ja": "CO2の上昇はC3植物の光呼吸を*減少*させます。気温の上昇はC3植物の光呼吸を増加させますが、C4植物はCO2や気温の変化の影響をほとんど受けないため、全体的な結果は複雑で変動的です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "C3 plants would be favored by rising CO2 due to reduced photorespiration, but rising temperatures would negatively affect them; C4 plants would be largely unaffected. This suggests a complex and variable change in balance depending on the specific combination of CO2 and temperature.",
+          "zh": "C3植物会因二氧化碳升高导致光呼吸减少而受益，但气温升高会对它们产生负面影响；C4植物则基本不受影响。这表明，根据二氧化碳和温度的具体组合，平衡将发生复杂而可变的变化。",
+          "es": "Las plantas C3 se verían favorecidas por el aumento de CO2 debido a la fotorrespiración reducida, pero el aumento de las temperaturas las afectaría negativamente; las plantas C4 no se verían afectadas en gran medida. Esto sugiere un cambio complejo y variable en el equilibrio dependiendo de la combinación específica de CO2 y temperatura.",
+          "fr": "Les plantes C3 seraient favorisées par l'augmentation du CO2 en raison d'une photorespiration réduite, mais l'augmentation des températures les affecterait négativement; les plantes C4 seraient largement épargnées. Cela suggère un changement complexe et variable de l'équilibre en fonction de la combinaison spécifique de CO2 et de température.",
+          "de": "C3-Pflanzen würden durch steigendes CO2 aufgrund reduzierter Photorespiration begünstigt, aber steigende Temperaturen würden sie negativ beeinflussen; C4-Pflanzen blieben weitgehend unbeeinflusst. Dies deutet auf eine komplexe und variable Gleichgewichtsänderung je nach spezifischer Kombination von CO2 und Temperatur hin.",
+          "ja": "C3植物はCO2の上昇により光呼吸が減少するため有利になりますが、気温の上昇は彼らに悪影響を及ぼします。C4植物はほとんど影響を受けません。これは、CO2と温度の特定の組み合わせによって、バランスが複雑かつ変動的に変化することを示唆しています。"
+        },
+        "feedback": {
+          "en": "Correct. The text highlights that rising CO2 benefits C3 by reducing photorespiration, while rising temperatures increase it. C4 plants are noted to be largely unaffected by these changes, leading to an unpredictable shift in community balance based on the specific environmental conditions.",
+          "zh": "正确。文本强调，二氧化碳升高通过减少光呼吸使C3植物受益，而气温升高则会增加光呼吸。C4植物则基本不受这些变化的影响，这导致群落平衡会根据具体环境条件发生不可预测的变化。",
+          "es": "Correcto. El texto destaca que el aumento de CO2 beneficia a las C3 al reducir la fotorrespiración, mientras que el aumento de las temperaturas la incrementa. Las plantas C4 se ven en gran medida inafectadas por estos cambios, lo que lleva a un cambio impredecible en el equilibrio de la comunidad basado en las condiciones ambientales específicas.",
+          "fr": "Correct. Le texte souligne que l'augmentation du CO2 bénéficie aux C3 en réduisant la photorespiration, tandis que l'augmentation des températures l'accroît. Les plantes C4 sont largement épargnées par ces changements, ce qui entraîne un déplacement imprévisible de l'équilibre communautaire en fonction des conditions environnementales spécifiques.",
+          "de": "Korrekt. Der Text betont, dass steigendes CO2 C3-Pflanzen durch reduzierte Photorespiration begünstigt, während steigende Temperaturen diese erhöhen. C4-Pflanzen bleiben von diesen Änderungen weitgehend unbeeinflusst, was zu einer unvorhersehbaren Verschiebung des Gemeinschaftsgleichgewichts je nach spezifischen Umweltbedingungen führt.",
+          "ja": "正解です。本文では、CO2の上昇が光呼吸を減少させることでC3植物に利益をもたらし、一方気温の上昇は光呼吸を増加させると強調されています。C4植物はこれらの変化の影響をほとんど受けないとされており、特定の環境条件に基づいて群落のバランスが予測不能な変化を遂げることになります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "C4 plants would be outcompeted by C3 plants under all new conditions.",
+          "zh": "C4植物在所有新条件下都将被C3植物超越。",
+          "es": "Las plantas C4 serían superadas por las plantas C3 bajo todas las nuevas condiciones.",
+          "fr": "Les plantes C4 seraient supplantées par les plantes C3 dans toutes les nouvelles conditions.",
+          "de": "C4-Pflanzen würden unter allen neuen Bedingungen von C3-Pflanzen übertroffen werden.",
+          "ja": "C4植物は、すべての新しい条件下でC3植物に競争で負けるだろう。"
+        },
+        "feedback": {
+          "en": "C4 plants are highly adapted to hot, dry conditions and their competitive advantage depends on the specific environmental blend of CO2 and temperature, not always being outcompeted.",
+          "zh": "C4植物高度适应炎热、干燥的条件，其竞争优势取决于二氧化碳和温度的具体环境组合，并非总是被超越。",
+          "es": "Las plantas C4 están altamente adaptadas a condiciones cálidas y secas, y su ventaja competitiva depende de la combinación ambiental específica de CO2 y temperatura, no siempre siendo superadas.",
+          "fr": "Les plantes C4 sont très bien adaptées aux conditions chaudes et sèches et leur avantage concurrentiel dépend du mélange environnemental spécifique de CO2 et de température, elles ne sont pas toujours supplantées.",
+          "de": "C4-Pflanzen sind stark an heiße, trockene Bedingungen angepasst, und ihr Wettbewerbsvorteil hängt von der spezifischen Umweltmischung aus CO2 und Temperatur ab, sie werden nicht immer übertroffen.",
+          "ja": "C4植物は高温乾燥条件に高度に適応しており、その競争上の優位性はCO2と温度の特定の環境条件の組み合わせに依存し、常に競争で負けるわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explains that rising CO2 benefits C3 plants by reducing photorespiration, while rising temperatures increase photorespiration for C3. C4 plants, however, are largely unaffected by these changes. This complex interplay means the balance between C3 and C4 plants in communities will vary depending on the specific combination of CO2 concentration and temperature.",
+      "zh": "文本解释说，二氧化碳升高通过减少光呼吸使C3植物受益，而气温升高则会增加C3植物的光呼吸。然而，C4植物基本不受这些变化的影响。这种复杂的相互作用意味着C3和C4植物在群落中的平衡将根据二氧化碳浓度和温度的具体组合而变化。",
+      "es": "El texto explica que el aumento de CO2 beneficia a las plantas C3 al reducir la fotorrespiración, mientras que el aumento de las temperaturas incrementa la fotorrespiración para las C3. Las plantas C4, sin embargo, no se ven afectadas en gran medida por estos cambios. Esta compleja interacción significa que el equilibrio entre las plantas C3 y C4 en las comunidades variará dependiendo de la combinación específica de concentración de CO2 y temperatura.",
+      "fr": "Le texte explique que l'augmentation du CO2 bénéficie aux plantes C3 en réduisant la photorespiration, tandis que l'augmentation des températures accroît la photorespiration pour les C3. Les plantes C4, cependant, sont largement épargnées par ces changements. Cette interaction complexe signifie que l'équilibre entre les plantes C3 et C4 dans les communautés variera en fonction de la combinaison spécifique de concentration de CO2 et de température.",
+      "de": "Der Text erklärt, dass steigendes CO2 C3-Pflanzen durch die Reduzierung der Photorespiration zugutekommt, während steigende Temperaturen die Photorespiration bei C3 erhöhen. C4-Pflanzen bleiben jedoch von diesen Änderungen weitgehend unbeeinflusst. Dieses komplexe Zusammenspiel bedeutet, dass das Gleichgewicht zwischen C3- und C4-Pflanzen in Gemeinschaften je nach der spezifischen Kombination von CO2-Konzentration und Temperatur variieren wird.",
+      "ja": "本文では、CO2の上昇が光呼吸を減少させることでC3植物に利益をもたらす一方、気温の上昇はC3植物の光呼吸を増加させると説明されています。しかし、C4植物はこれらの変化の影響をほとんど受けません。この複雑な相互作用は、群落におけるC3植物とC4植物のバランスが、CO2濃度と温度の特定の組み合わせによって変化することを意味します。"
+    }
+  },
+  {
+    "page_number": 253,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In the C4 photosynthetic pathway, which enzyme is responsible for the initial fixation of CO2 in mesophyll cells?",
+      "zh": "在C4光合作用途径中，哪个酶负责在叶肉细胞中初始固定二氧化碳？",
+      "es": "En la vía fotosintética C4, ¿qué enzima es responsable de la fijación inicial de CO2 en las células del mesófilo?",
+      "fr": "Dans la voie photosynthétique C4, quelle enzyme est responsable de la fixation initiale du CO2 dans les cellules du mésophylle?",
+      "de": "Welches Enzym ist im C4-Photosyntheseweg für die anfängliche CO2-Fixierung in den Mesophyllzellen verantwortlich?",
+      "ja": "C4光合成経路において、葉肉細胞でのCO2の初期固定を担う酵素は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Rubisco",
+          "zh": "Rubisco",
+          "es": "Rubisco",
+          "fr": "Rubisco",
+          "de": "Rubisco",
+          "ja": "Rubisco"
+        },
+        "feedback": {
+          "en": "Rubisco is involved in the Calvin cycle in bundle-sheath cells, not the initial CO2 fixation in mesophyll cells of C4 plants.",
+          "zh": "Rubisco酶参与维管束鞘细胞中的卡尔文循环，而不是C4植物叶肉细胞中的初始二氧化碳固定。",
+          "es": "La rubisco está involucrada en el ciclo de Calvin en las células de la vaina del haz, no en la fijación inicial de CO2 en las células del mesófilo de las plantas C4.",
+          "fr": "La rubisco est impliquée dans le cycle de Calvin dans les cellules de la gaine fasciculaire, et non dans la fixation initiale du CO2 dans les cellules du mésophylle des plantes C4.",
+          "de": "Rubisco ist am Calvin-Zyklus in den Bündelscheidenzellen beteiligt, nicht an der anfänglichen CO2-Fixierung in den Mesophyllzellen von C4-Pflanzen.",
+          "ja": "Rubiscoは維管束鞘細胞でのカルビンサイクルに関与しており、C4植物の葉肉細胞でのCO2の初期固定には関与しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "ATP synthase",
+          "zh": "ATP合酶",
+          "es": "ATP sintasa",
+          "fr": "ATP synthase",
+          "de": "ATP-Synthase",
+          "ja": "ATP合成酵素"
+        },
+        "feedback": {
+          "en": "ATP synthase produces ATP, but is not directly responsible for CO2 fixation.",
+          "zh": "ATP合酶产生ATP，但并非直接负责二氧化碳固定。",
+          "es": "La ATP sintasa produce ATP, pero no es directamente responsable de la fijación de CO2.",
+          "fr": "L'ATP synthase produit de l'ATP, mais n'est pas directement responsable de la fixation du CO2.",
+          "de": "ATP-Synthase produziert ATP, ist aber nicht direkt für die CO2-Fixierung verantwortlich.",
+          "ja": "ATP合成酵素はATPを生成しますが、CO2固定には直接関与しません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "PEP carboxylase",
+          "zh": "PEP羧化酶",
+          "es": "PEP carboxilasa",
+          "fr": "PEP carboxylase",
+          "de": "PEP-Carboxylase",
+          "ja": "PEPカルボキシラーゼ"
+        },
+        "feedback": {
+          "en": "Correct. PEP carboxylase is the enzyme that adds CO2 to PEP in the mesophyll cells, forming a four-carbon compound.",
+          "zh": "正确。PEP羧化酶是在叶肉细胞中将二氧化碳添加到PEP上的酶，形成四碳化合物。",
+          "es": "Correcto. La PEP carboxilasa es la enzima que añade CO2 al PEP en las células del mesófilo, formando un compuesto de cuatro carbonos.",
+          "fr": "Correct. La PEP carboxylase est l'enzyme qui ajoute le CO2 au PEP dans les cellules du mésophylle, formant un composé à quatre carbones.",
+          "de": "Korrekt. Die PEP-Carboxylase ist das Enzym, das in den Mesophyllzellen CO2 zu PEP hinzufügt und dabei eine Vier-Kohlenstoff-Verbindung bildet.",
+          "ja": "正解です。PEPカルボキシラーゼは、葉肉細胞でCO2をPEPに付加し、四炭素化合物を形成する酵素です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Malate dehydrogenase",
+          "zh": "苹果酸脱氢酶",
+          "es": "Malato deshidrogenasa",
+          "fr": "Malate déshydrogénase",
+          "de": "Malat-Dehydrogenase",
+          "ja": "リンゴ酸デヒドロゲナーゼ"
+        },
+        "feedback": {
+          "en": "Malate dehydrogenase is involved in the conversion of oxaloacetate to malate, not the initial CO2 fixation.",
+          "zh": "苹果酸脱氢酶参与草酰乙酸向苹果酸的转化，而非初始二氧化碳固定。",
+          "es": "La malato deshidrogenasa está involucrada en la conversión de oxaloacetato a malato, no en la fijación inicial de CO2.",
+          "fr": "La malate déshydrogénase est impliquée dans la conversion de l'oxaloacétate en malate, et non dans la fixation initiale du CO2.",
+          "de": "Die Malat-Dehydrogenase ist an der Umwandlung von Oxalacetat zu Malat beteiligt, nicht an der anfänglichen CO2-Fixierung.",
+          "ja": "リンゴ酸デヒドロゲナーゼはオキサロ酢酸からリンゴ酸への変換に関与しており、CO2の初期固定には関与しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The C4 pathway initiates with PEP carboxylase adding CO2 to PEP in the mesophyll cells, forming oxaloacetate. This enzyme has a high affinity for CO2 and can function efficiently even at low CO2 concentrations, which is crucial for C4 plants.",
+      "zh": "C4途径始于PEP羧化酶在叶肉细胞中将二氧化碳添加到PEP上，形成草酰乙酸。这种酶对二氧化碳具有高亲和力，即使在低二氧化碳浓度下也能高效运作，这对C4植物至关重要。",
+      "es": "La vía C4 se inicia con la PEP carboxilasa añadiendo CO2 al PEP en las células del mesófilo, formando oxaloacetato. Esta enzima tiene una alta afinidad por el CO2 y puede funcionar eficientemente incluso a bajas concentraciones de CO2, lo cual es crucial para las plantas C4.",
+      "fr": "La voie C4 débute avec la PEP carboxylase qui ajoute le CO2 au PEP dans les cellules du mésophylle, formant de l'oxaloacétate. Cette enzyme a une forte affinité pour le CO2 et peut fonctionner efficacement même à de faibles concentrations de CO2, ce qui est crucial pour les plantes C4.",
+      "de": "Der C4-Weg beginnt damit, dass die PEP-Carboxylase in den Mesophyllzellen CO2 zu PEP hinzufügt und Oxalacetat bildet. Dieses Enzym hat eine hohe Affinität zu CO2 und kann auch bei niedrigen CO2-Konzentrationen effizient arbeiten, was für C4-Pflanzen entscheidend ist.",
+      "ja": "C4経路は、PEPカルボキシラーゼが葉肉細胞でCO2をPEPに付加し、オキサロ酢酸を形成することから始まります。この酵素はCO2に対する高い親和性を持ち、低CO2濃度でも効率的に機能することができ、これはC4植物にとって非常に重要です。"
+    }
+  },
+  {
+    "page_number": 253,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text states that the regeneration of PEP from pyruvate in C4 photosynthesis requires ATP. What is the significance of this energy cost in the context of C4 plant adaptation?",
+      "zh": "文本指出，C4光合作用中丙酮酸再生PEP的过程需要ATP。在C4植物适应性背景下，这种能量消耗有何意义？",
+      "es": "El texto afirma que la regeneración de PEP a partir de piruvato en la fotosíntesis C4 requiere ATP. ¿Cuál es la importancia de este costo energético en el contexto de la adaptación de las plantas C4?",
+      "fr": "Le texte indique que la régénération du PEP à partir du pyruvate dans la photosynthèse C4 nécessite de l'ATP. Quelle est la signification de ce coût énergétique dans le contexte de l'adaptation des plantes C4?",
+      "de": "Der Text besagt, dass die Regeneration von PEP aus Pyruvat in der C4-Photosynthese ATP erfordert. Welche Bedeutung hat dieser Energieaufwand im Kontext der C4-Pflanzenanpassung?",
+      "ja": "本文には、C4光合成においてピルビン酸からPEPが再生される過程でATPが必要であると記載されています。C4植物の適応の文脈において、このエネルギーコストの意義は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It indicates that C4 plants are less efficient overall than C3 plants.",
+          "zh": "这表明C4植物的总体效率低于C3植物。",
+          "es": "Indica que las plantas C4 son menos eficientes en general que las plantas C3.",
+          "fr": "Cela indique que les plantes C4 sont globalement moins efficaces que les plantes C3.",
+          "de": "Es deutet darauf hin, dass C4-Pflanzen insgesamt weniger effizient sind als C3-Pflanzen.",
+          "ja": "これはC4植物がC3植物よりも全体的に効率が低いことを示している。"
+        },
+        "feedback": {
+          "en": "While C4 photosynthesis has an ATP cost, it results in greater overall efficiency in hot, dry, high-light conditions by avoiding photorespiration, making them more efficient than C3 plants under these specific conditions.",
+          "zh": "虽然C4光合作用有ATP消耗，但在炎热、干燥、高光照条件下，通过避免光呼吸，它能带来更高的整体效率，使它们在这些特定条件下比C3植物更高效。",
+          "es": "Aunque la fotosíntesis C4 tiene un costo de ATP, resulta en una mayor eficiencia general en condiciones cálidas, secas y de alta luminosidad al evitar la fotorrespiración, lo que las hace más eficientes que las plantas C3 bajo estas condiciones específicas.",
+          "fr": "Bien que la photosynthèse C4 ait un coût en ATP, elle entraîne une plus grande efficacité globale dans les conditions chaudes, sèches et de forte luminosité en évitant la photorespiration, les rendant plus efficaces que les plantes C3 dans ces conditions spécifiques.",
+          "de": "Obwohl die C4-Photosynthese einen ATP-Aufwand hat, führt sie in heißen, trockenen und lichtintensiven Bedingungen durch die Vermeidung von Photorespiration zu einer höheren Gesamteffizienz, was sie unter diesen spezifischen Bedingungen effizienter macht als C3-Pflanzen.",
+          "ja": "C4光合成はATPを消費しますが、高温、乾燥、高光量条件下では光呼吸を回避することで全体的な効率が向上し、これらの特定の条件下ではC3植物よりも効率的になります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It represents the \"price\" C4 plants pay to concentrate CO2, thereby minimizing photorespiration and enhancing sugar production.",
+          "zh": "它代表了C4植物为浓缩二氧化碳而付出的“代价”，从而最大限度地减少光呼吸并提高糖的产量。",
+          "es": "Representa el \"precio\" que las plantas C4 pagan para concentrar CO2, minimizando así la fotorrespiración y mejorando la producción de azúcar.",
+          "fr": "Cela représente le \"prix\" que les plantes C4 paient pour concentrer le CO2, minimisant ainsi la photorespiration et améliorant la production de sucre.",
+          "de": "Es stellt den „Preis“ dar, den C4-Pflanzen für die Konzentration von CO2 zahlen, wodurch die Photorespiration minimiert und die Zuckerproduktion gesteigert wird.",
+          "ja": "これはC4植物がCO2を濃縮するために支払う「代償」であり、それによって光呼吸を最小限に抑え、糖の生産を向上させる。"
+        },
+        "feedback": {
+          "en": "Correct. This ATP expenditure is the trade-off for maintaining high CO2 concentrations around rubisco, which in turn significantly reduces photorespiration and boosts photosynthetic efficiency in challenging environments.",
+          "zh": "正确。这种ATP的消耗是为了在Rubisco酶周围维持高二氧化碳浓度而付出的代价，这反过来能显著减少光呼吸并提高在严苛环境下的光合效率。",
+          "es": "Correcto. Este gasto de ATP es la compensación por mantener altas concentraciones de CO2 alrededor de la rubisco, lo que a su vez reduce significativamente la fotorrespiración y aumenta la eficiencia fotosintética en entornos desafiantes.",
+          "fr": "Correct. Cette dépense d'ATP est le compromis pour maintenir des concentrations élevées de CO2 autour de la rubisco, ce qui réduit significativement la photorespiration et stimule l'efficacité photosynthétique dans des environnements difficiles.",
+          "de": "Korrekt. Dieser ATP-Aufwand ist der Ausgleich dafür, hohe CO2-Konzentrationen um Rubisco herum aufrechtzuerhalten, was wiederum die Photorespiration erheblich reduziert und die Photosyntheseeffizienz in anspruchsvollen Umgebungen steigert.",
+          "ja": "正解です。このATPの消費は、Rubiscoの周りに高濃度のCO2を維持するためのトレードオフであり、それによって光呼吸が大幅に減少し、困難な環境下での光合成効率が向上します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It allows C4 plants to perform photosynthesis at night.",
+          "zh": "它使C4植物能够在夜间进行光合作用。",
+          "es": "Permite que las plantas C4 realicen la fotosíntesis por la noche.",
+          "fr": "Cela permet aux plantes C4 de réaliser la photosynthèse la nuit.",
+          "de": "Es ermöglicht C4-Pflanzen, nachts Photosynthese durchzuführen.",
+          "ja": "C4植物が夜間に光合成を行うことを可能にする。"
+        },
+        "feedback": {
+          "en": "The C4 pathway is a daytime process; CAM plants are adapted for nighttime CO2 fixation.",
+          "zh": "C4途径是白天进行的，CAM植物才适应夜间固定二氧化碳。",
+          "es": "La vía C4 es un proceso diurno; las plantas CAM están adaptadas para la fijación de CO2 nocturna.",
+          "fr": "La voie C4 est un processus diurne; les plantes CAM sont adaptées à la fixation nocturne du CO2.",
+          "de": "Der C4-Weg ist ein Tagprozess; CAM-Pflanzen sind für die nächtliche CO2-Fixierung angepasst.",
+          "ja": "C4経路は日中のプロセスです。CAM植物が夜間のCO2固定に適応しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It is primarily used for water transport within the plant.",
+          "zh": "它主要用于植物体内的水分运输。",
+          "es": "Se utiliza principalmente para el transporte de agua dentro de la planta.",
+          "fr": "Il est principalement utilisé pour le transport de l'eau à l'intérieur de la plante.",
+          "de": "Es wird hauptsächlich für den Wassertransport innerhalb der Pflanze verwendet.",
+          "ja": "主に植物内の水輸送に使用される。"
+        },
+        "feedback": {
+          "en": "ATP is used for various cellular processes, but this specific ATP cost is for regenerating PEP in the C4 pathway, not primarily for water transport.",
+          "zh": "ATP用于各种细胞过程，但这种特定的ATP消耗是用于C4途径中PEP的再生，而非主要用于水分运输。",
+          "es": "El ATP se utiliza para varios procesos celulares, pero este costo específico de ATP es para regenerar PEP en la vía C4, no principalmente para el transporte de agua.",
+          "fr": "L'ATP est utilisé pour divers processus cellulaires, mais ce coût spécifique en ATP est destiné à la régénération du PEP dans la voie C4, et non principalement au transport de l'eau.",
+          "de": "ATP wird für verschiedene zelluläre Prozesse verwendet, aber dieser spezifische ATP-Aufwand dient der Regeneration von PEP im C4-Weg, nicht primär dem Wassertransport.",
+          "ja": "ATPは様々な細胞プロセスに使用されますが、この特定のATPコストはC4経路でのPEP再生のためであり、主に水輸送のためではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The regeneration of PEP from pyruvate requires ATP, which represents an additional energy expenditure for C4 plants compared to C3 plants. This 'price' is paid to concentrate CO2 in the bundle-sheath cells, which ensures that rubisco functions primarily as a carboxylase and minimizes photorespiration, leading to increased photosynthetic efficiency in hot, dry environments.",
+      "zh": "丙酮酸再生PEP需要ATP，这与C3植物相比，是C4植物额外的能量消耗。C4植物付出这个“代价”是为了在维管束鞘细胞中浓缩二氧化碳，这确保了Rubisco酶主要作为羧化酶发挥作用，并最大限度地减少光呼吸，从而提高在炎热干燥环境中的光合效率。",
+      "es": "La regeneración de PEP a partir de piruvato requiere ATP, lo que representa un gasto energético adicional para las plantas C4 en comparación con las plantas C3. Este 'precio' se paga para concentrar CO2 en las células de la vaina del haz, lo que asegura que la rubisco funcione principalmente como carboxilasa y minimice la fotorrespiración, lo que lleva a una mayor eficiencia fotosintética en ambientes cálidos y secos.",
+      "fr": "La régénération du PEP à partir du pyruvate nécessite de l'ATP, ce qui représente une dépense énergétique supplémentaire pour les plantes C4 par rapport aux plantes C3. Ce 'prix' est payé pour concentrer le CO2 dans les cellules de la gaine fasciculaire, ce qui garantit que la rubisco fonctionne principalement comme une carboxylase et minimise la photorespiration, conduisant à une efficacité photosynthétique accrue dans les environnements chauds et secs.",
+      "de": "Die Regeneration von PEP aus Pyruvat erfordert ATP, was einen zusätzlichen Energieaufwand für C4-Pflanzen im Vergleich zu C3-Pflanzen darstellt. Dieser „Preis“ wird gezahlt, um CO2 in den Bündelscheidenzellen zu konzentrieren, was sicherstellt, dass Rubisco hauptsächlich als Carboxylase fungiert und die Photorespiration minimiert, was zu einer erhöhten Photosyntheseeffizienz in heißen, trockenen Umgebungen führt.",
+      "ja": "ピルビン酸からPEPが再生されるにはATPが必要であり、これはC3植物と比較してC4植物にとって追加のエネルギー消費を意味します。この「代償」は、維管束鞘細胞内でCO2を濃縮するために支払われます。これにより、Rubiscoが主にカルボキシラーゼとして機能し、光呼吸を最小限に抑え、高温乾燥環境下での光合成効率の向上につながります。"
+    }
+  }
+]

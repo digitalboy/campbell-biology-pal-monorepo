@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 511,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the results of Experiment 2, which genotype of mice exhibited a significant reduction or complete absence of ultrasonic vocalization when separated from their mother?",
+      "zh": "根据实验2的结果，当幼鼠与母亲分离时，哪种基因型的幼鼠表现出超声波发声的显著减少或完全缺失？",
+      "es": "Según los resultados del Experimento 2, ¿qué genotipo de ratones exhibió una reducción significativa o ausencia total de vocalización ultrasónica al ser separados de su madre?",
+      "fr": "D'après les résultats de l'Expérience 2, quel génotype de souris a présenté une réduction significative ou une absence complète de vocalisation ultrasonique lorsqu'il a été séparé de sa mère ?",
+      "de": "Basierend auf den Ergebnissen von Experiment 2, welcher Genotyp von Mäusen zeigte eine signifikante Reduktion oder das vollständige Fehlen von Ultraschallvokalisation, wenn sie von ihrer Mutter getrennt wurden?",
+      "ja": "実験2の結果に基づくと、母親から引き離された際に超音波による発声の著しい減少または完全な欠如を示したマウスの遺伝子型はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Wild type",
+          "zh": "野生型",
+          "es": "Tipo salvaje",
+          "fr": "Type sauvage",
+          "de": "Wildtyp",
+          "ja": "野生型"
+        },
+        "feedback": {
+          "en": "Wild type mice produced a high number of whistles, indicating normal vocalization.",
+          "zh": "野生型小鼠发出大量口哨声，表明发声正常。",
+          "es": "Los ratones de tipo salvaje produjeron un gran número de silbidos, lo que indica una vocalización normal.",
+          "fr": "Les souris de type sauvage ont produit un grand nombre de sifflements, indiquant une vocalisation normale.",
+          "de": "Wildtyp-Mäuse produzierten eine hohe Anzahl von Pfeiftönen, was auf eine normale Vokalisation hindeutet.",
+          "ja": "野生型マウスは多数の口笛を出し、正常な発声を示しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Heterozygote",
+          "zh": "杂合子",
+          "es": "Heterocigoto",
+          "fr": "Hétérozygote",
+          "de": "Heterozygot",
+          "ja": "ヘテロ接合体"
+        },
+        "feedback": {
+          "en": "Heterozygotes showed an extreme reduction, but not complete absence, while homozygotes showed complete absence. Both combined are the best answer.",
+          "zh": "杂合子表现出极度减少，但并非完全缺失，而纯合子表现出完全缺失。两者结合才是最佳答案。",
+          "es": "Los heterocigotos mostraron una reducción extrema, pero no una ausencia total, mientras que los homocigotos mostraron una ausencia total. La combinación de ambos es la mejor respuesta.",
+          "fr": "Les hétérozygotes ont montré une réduction extrême, mais pas une absence complète, tandis que les homozygotes ont montré une absence complète. La combinaison des deux est la meilleure réponse.",
+          "de": "Heterozygote zeigten eine extreme Reduktion, aber kein vollständiges Fehlen, während Homozygote ein vollständiges Fehlen zeigten. Die Kombination beider ist die beste Antwort.",
+          "ja": "ヘテロ接合体は極端な減少を示しましたが、完全に消失したわけではありません。ホモ接合体は完全に消失しました。両方を合わせたものが最適な回答です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Homozygote",
+          "zh": "纯合子",
+          "es": "Homocigoto",
+          "fr": "Homozygote",
+          "de": "Homozygot",
+          "ja": "ホモ接合体"
+        },
+        "feedback": {
+          "en": "Homozygotes showed complete absence, but heterozygotes also showed an extreme reduction. Both disrupted genotypes are relevant.",
+          "zh": "纯合子表现出完全缺失，但杂合子也表现出极度减少。两种受损基因型都相关。",
+          "es": "Los homocigotos mostraron una ausencia completa, pero los heterocigotos también mostraron una reducción extrema. Ambos genotipos afectados son relevantes.",
+          "fr": "Les homozygotes ont montré une absence complète, mais les hétérozygotes ont également montré une réduction extrême. Les deux génotypes perturbés sont pertinents.",
+          "de": "Homozygote zeigten ein vollständiges Fehlen, aber Heterozygote zeigten auch eine extreme Reduktion. Beide gestörten Genotypen sind relevant.",
+          "ja": "ホモ接合体は完全な消失を示しましたが、ヘテロ接合体も極端な減少を示しました。両方の破壊された遺伝子型が関連しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both Heterozygote and Homozygote",
+          "zh": "杂合子和纯合子",
+          "es": "Tanto Heterocigoto como Homocigoto",
+          "fr": "Hétérozygote et Homozygote",
+          "de": "Sowohl Heterozygot als auch Homozygot",
+          "ja": "ヘテロ接合体とホモ接合体の両方"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "Experiment 2 results indicate that wild-type mice produced a high number of whistles (~300), while heterozygotes produced very few (~50), and homozygotes produced none. Therefore, both heterozygous and homozygous mice exhibited a significant reduction or complete absence of vocalization.",
+      "zh": "实验2结果表明，野生型小鼠发出大量口哨声（约300个），而杂合子小鼠发声极少（约50个），纯合子小鼠则完全没有发声。因此，杂合子和纯合子小鼠都表现出超声波发声的显著减少或完全缺失。",
+      "es": "Los resultados del Experimento 2 indican que los ratones de tipo salvaje produjeron un gran número de silbidos (~300), mientras que los heterocigotos produjeron muy pocos (~50) y los homocigotos no produjeron ninguno. Por lo tanto, tanto los ratones heterocigotos como los homocigotos exhibieron una reducción significativa o ausencia total de vocalización.",
+      "fr": "Les résultats de l'Expérience 2 indiquent que les souris de type sauvage ont produit un grand nombre de sifflements (~300), tandis que les hétérozygotes en ont produit très peu (~50), et les homozygotes aucun. Par conséquent, les souris hétérozygotes et homozygotes ont toutes deux présenté une réduction significative ou une absence complète de vocalisation.",
+      "de": "Die Ergebnisse von Experiment 2 zeigen, dass Wildtyp-Mäuse eine hohe Anzahl von Pfeiftönen (~300) produzierten, während Heterozygote sehr wenige (~50) und Homozygote keine produzierten. Daher zeigten sowohl heterozygote als auch homozygote Mäuse eine signifikante Reduktion oder das vollständige Fehlen von Vokalisation.",
+      "ja": "実験2の結果は、野生型マウスが多数の口笛（約300）を発したのに対し、ヘテロ接合体は非常に少なく（約50）、ホモ接合体は全く発しなかったことを示しています。したがって、ヘテロ接合体およびホモ接合体の両方のマウスが、発声の著しい減少または完全な欠如を示しました。"
+    }
+  },
+  {
+    "page_number": 511,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "According to the results presented for both Experiment 1 and Experiment 2, how do the phenotypic effects of FOXP2 disruption differ between heterozygous and homozygous mice?",
+      "zh": "根据实验1和实验2的结果，FOXP2基因破坏对杂合子和纯合子小鼠的表型影响有何不同？",
+      "es": "Según los resultados presentados en los Experimentos 1 y 2, ¿cómo difieren los efectos fenotípicos de la interrupción de FOXP2 entre ratones heterocigotos y homocigotos?",
+      "fr": "Selon les résultats présentés pour les Expériences 1 et 2, comment les effets phénotypiques de la perturbation de FOXP2 diffèrent-ils entre les souris hétérozygotes et homozygotes ?",
+      "de": "Basierend auf den in Experiment 1 und Experiment 2 präsentierten Ergebnissen, wie unterscheiden sich die phänotypischen Auswirkungen der FOXP2-Störung zwischen heterozygoten und homozygoten Mäusen?",
+      "ja": "実験1と実験2の両方の結果によると、FOXP2の破壊による表現型への影響は、ヘテロ接合体マウスとホモ接合体マウスでどのように異なりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Homozygous mice showed severe brain abnormalities and complete absence of vocalization, while heterozygous mice had less severe brain effects and only a slight reduction in vocalization.",
+          "zh": "纯合子小鼠表现出严重的脑部异常和完全的发声缺失，而杂合子小鼠的脑部影响较轻，发声仅有轻微减少。",
+          "es": "Los ratones homocigotos mostraron graves anomalías cerebrales y una ausencia total de vocalización, mientras que los ratones heterocigotos tuvieron efectos cerebrales menos graves y solo una ligera reducción en la vocalización.",
+          "fr": "Les souris homozygotes ont montré de graves anomalies cérébrales et une absence complète de vocalisation, tandis que les souris hétérozygotes ont eu des effets cérébraux moins graves et seulement une légère réduction de la vocalisation.",
+          "de": "Homozygote Mäuse zeigten schwere Hirnanomalien und das vollständige Fehlen von Vokalisation, während heterozygote Mäuse weniger schwere Hirneffekte und nur eine leichte Reduktion der Vokalisation aufwiesen.",
+          "ja": "ホモ接合体マウスは重度の脳異常と発声の完全な欠如を示したが、ヘテロ接合体マウスは脳への影響が軽度で、発声はわずかに減少しただけでした。"
+        },
+        "feedback": {
+          "en": "The reduction in vocalization for heterozygotes was described as \"extreme,\" not just \"slight.\"",
+          "zh": "杂合子发声的减少被描述为“极端”，而不仅仅是“轻微”。",
+          "es": "La reducción en la vocalización de los heterocigotos fue descrita como \"extrema\", no solo \"ligera\".",
+          "fr": "La réduction de la vocalisation chez les hétérozygotes a été décrite comme \"extrême\", et non seulement \"légère\".",
+          "de": "Die Reduktion der Vokalisation bei Heterozygoten wurde als \"extrem\" beschrieben, nicht nur als \"geringfügig\".",
+          "ja": "ヘテロ接合体の発声の減少は「極端」であると記述されており、「わずか」ではありませんでした。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Both homozygous and heterozygous mice exhibited severe brain abnormalities and a complete absence of vocalization, with no significant difference between the two genotypes.",
+          "zh": "纯合子和杂合子小鼠都表现出严重的脑部异常和完全的发声缺失，两种基因型之间没有显著差异。",
+          "es": "Tanto los ratones homocigotos como los heterocigotos exhibieron graves anomalías cerebrales y una ausencia completa de vocalización, sin diferencias significativas entre ambos genotipos.",
+          "fr": "Les souris homozygotes et hétérozygotes ont toutes deux présenté de graves anomalies cérébrales et une absence complète de vocalisation, sans différence significative entre les deux génotypes.",
+          "de": "Sowohl homozygote als auch heterozygote Mäuse zeigten schwere Hirnanomalien und das vollständige Fehlen von Vokalisation, ohne signifikante Unterschiede zwischen den beiden Genotypen.",
+          "ja": "ホモ接合体マウスとヘテロ接合体マウスの両方が重度の脳異常と発声の完全な欠如を示し、両遺伝子型間に有意な差はありませんでした。"
+        },
+        "feedback": {
+          "en": "This is incorrect; the effects were explicitly stated to be \"less severe\" for heterozygotes in brain anatomy and \"extreme\" but not \"complete absence\" for vocalization compared to homozygotes.",
+          "zh": "这是不正确的；明确指出杂合子的脑部异常“不那么严重”，并且发声影响是“极端”但并非“完全缺失”，与纯合子不同。",
+          "es": "Esto es incorrecto; se declaró explícitamente que los efectos eran \"menos graves\" para los heterocigotos en la anatomía cerebral y \"extremos\" pero no de \"ausencia completa\" para la vocalización, en comparación con los homocigotos.",
+          "fr": "C'est incorrect ; il a été explicitement indiqué que les effets étaient \"moins graves\" pour les hétérozygotes en anatomie cérébrale et \"extrêmes\" mais pas \"absence complète\" pour la vocalisation par rapport aux homozygotes.",
+          "de": "Dies ist falsch; die Effekte wurden ausdrücklich als \"weniger schwerwiegend\" für Heterozygote in Bezug auf die Hirnanatomie und als \"extrem\", aber nicht als \"vollständiges Fehlen\" für die Vokalisation im Vergleich zu Homozygoten beschrieben.",
+          "ja": "これは正しくありません。脳の解剖学的構造ではヘテロ接合体の方が「軽度」であり、発声においてはホモ接合体と比較して「極端」ではあったものの「完全な消失」ではなかったと明記されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Homozygous mice displayed complete absence of vocalization but no brain abnormalities, whereas heterozygous mice showed severe brain abnormalities but normal vocalization.",
+          "zh": "纯合子小鼠表现出完全的发声缺失但没有脑部异常，而杂合子小鼠表现出严重的脑部异常但发声正常。",
+          "es": "Los ratones homocigotos mostraron una ausencia completa de vocalización pero no anomalías cerebrales, mientras que los ratones heterocigotos mostraron graves anomalías cerebrales pero vocalización normal.",
+          "fr": "Les souris homozygotes ont montré une absence complète de vocalisation mais pas d'anomalies cérébrales, tandis que les souris hétérozygotes ont montré de graves anomalies cérébrales mais une vocalisation normale.",
+          "de": "Homozygote Mäuse zeigten ein vollständiges Fehlen von Vokalisation, aber keine Hirnanomalien, während heterozygote Mäuse schwere Hirnanomalien, aber normale Vokalisation zeigten.",
+          "ja": "ホモ接合体マウスは発声が完全に欠如していましたが脳に異常はなく、一方ヘテロ接合体マウスは重度の脳異常を示しましたが発声は正常でした。"
+        },
+        "feedback": {
+          "en": "This option incorrectly states that homozygotes had no brain abnormalities and heterozygotes had normal vocalization, which contradicts the text.",
+          "zh": "此选项错误地指出纯合子没有脑部异常，杂合子发声正常，这与原文内容相矛盾。",
+          "es": "Esta opción afirma incorrectamente que los homocigotos no tenían anomalías cerebrales y que los heterocigotos tenían vocalización normal, lo que contradice el texto.",
+          "fr": "Cette option indique incorrectement que les homozygotes n'avaient pas d'anomalies cérébrales et que les hétérozygotes avaient une vocalisation normale, ce qui contredit le texte.",
+          "de": "Diese Option besagt fälschlicherweise, dass Homozygote keine Hirnanomalien hatten und Heterozygote eine normale Vokalisation aufwiesen, was dem Text widerspricht.",
+          "ja": "この選択肢は、ホモ接合体に脳の異常がなく、ヘテロ接合体の発声が正常であったと誤って述べており、本文と矛盾します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Homozygous mice had severe brain abnormalities and complete absence of vocalization, and heterozygous mice also showed extreme effects on vocalization and less severe but still present brain abnormalities.",
+          "zh": "纯合子小鼠有严重的脑部异常和完全的发声缺失，杂合子小鼠的发声也表现出极端影响，且有程度较轻但仍然存在的脑部异常。",
+          "es": "Los ratones homocigotos tuvieron graves anomalías cerebrales y una ausencia total de vocalización, y los ratones heterocigotos también mostraron efectos extremos en la vocalización y anomalías cerebrales menos graves pero aún presentes.",
+          "fr": "Les souris homozygotes présentaient de graves anomalies cérébrales et une absence complète de vocalisation, et les souris hétérozygotes ont également montré des effets extrêmes sur la vocalisation et des anomalies cérébrales moins graves mais toujours présentes.",
+          "de": "Homozygote Mäuse zeigten schwere Hirnanomalien und das vollständige Fehlen von Vokalisation, und heterozygote Mäuse zeigten ebenfalls extreme Auswirkungen auf die Vokalisation und weniger schwere, aber immer noch vorhandene Hirnanomalien.",
+          "ja": "ホモ接合体マウスは重度の脳異常と発声の完全な欠如を示し、ヘテロ接合体マウスも発声に極端な影響があり、軽度ではあるものの脳異常も存在しました。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "Experiment 1 results state that disruption of both FOXP2 copies (homozygous) led to disorganized brain cells, and effects on heterozygotes were less severe. Experiment 2 results show that disruption of both copies led to an absence of vocalization (homozygous), and the effect on vocalization in heterozygotes was 'extreme.' Option D accurately combines these findings, showing that homozygous mice have severe effects in both aspects, while heterozygous mice have less severe brain abnormalities but still extreme vocalization issues.",
+      "zh": "实验1结果指出，FOXP2基因两拷贝被破坏（纯合子）导致脑细胞紊乱，对杂合子的影响较轻。实验2结果显示，两拷贝被破坏导致发声缺失（纯合子），而对杂合子发声的影响是“极端”的。选项D准确地结合了这些发现，表明纯合子小鼠在两个方面都有严重影响，而杂合子小鼠的脑部异常较轻，但发声问题仍然极端。",
+      "es": "Los resultados del Experimento 1 indican que la interrupción de ambas copias de FOXP2 (homocigotos) condujo a células cerebrales desorganizadas, y los efectos en los heterocigotos fueron menos graves. Los resultados del Experimento 2 muestran que la interrupción de ambas copias llevó a la ausencia de vocalización (homocigotos), y el efecto en la vocalización en los heterocigotos fue 'extremo'. La Opción D combina con precisión estos hallazgos, mostrando que los ratones homocigotos tienen efectos graves en ambos aspectos, mientras que los ratones heterocigotos tienen anomalías cerebrales menos graves pero problemas de vocalización aún extremos.",
+      "fr": "Les résultats de l'Expérience 1 indiquent que la perturbation des deux copies de FOXP2 (homozygotes) a entraîné des cellules cérébrales désorganisées, et les effets sur les hétérozygotes étaient moins graves. Les résultats de l'Expérience 2 montrent que la perturbation des deux copies a conduit à une absence de vocalisation (homozygotes), et l'effet sur la vocalisation chez les hétérozygotes était 'extrême'. L'option D combine précisément ces découvertes, montrant que les souris homozygotes ont des effets graves dans les deux aspects, tandis que les souris hétérozygotes ont des anomalies cérébrales moins graves mais des problèmes de vocalisation toujours extrêmes.",
+      "de": "Die Ergebnisse von Experiment 1 besagen, dass die Störung beider FOXP2-Kopien (homozygot) zu desorganisierten Gehirnzellen führte, und die Auswirkungen auf Heterozygote weniger schwerwiegend waren. Die Ergebnisse von Experiment 2 zeigen, dass die Störung beider Kopien zu einem Fehlen von Vokalisation führte (homozygot), und die Auswirkung auf die Vokalisation bei Heterozygoten 'extrem' war. Option D kombiniert diese Ergebnisse genau und zeigt, dass homozygote Mäuse in beiden Aspekten schwerwiegende Auswirkungen haben, während heterozygote Mäuse weniger schwerwiegende Hirnanomalien, aber immer noch extreme Vokalisationprobleme aufweisen.",
+      "ja": "実験1の結果によると、FOXP2の2つのコピーの破壊（ホモ接合体）は脳細胞の無秩序化につながり、ヘテロ接合体への影響はより軽度でした。実験2の結果は、2つのコピーの破壊が発声の欠如（ホモ接合体）につながり、ヘテロ接合体の発声への影響は「極端」であったことを示しています。選択肢Dはこれらの発見を正確に組み合わせ、ホモ接合体マウスが両方の側面で重度の影響を受ける一方、ヘテロ接合体マウスは脳の異常が軽度であるものの、発声の問題は依然として極端であることを示しています。"
+    }
+  },
+  {
+    "page_number": 511,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The \"WHAT IF?\" section asks how one might investigate whether the human FOXP2 protein is a key regulator of speech, given amino acid sequences of wild-type human, mutant human, wild-type chimpanzee, and mouse FOXP2 proteins. Which of the following best describes the investigative approach suggested?",
+      "zh": "“如果”部分提出，如果已知野生型人类、突变型人类、野生型黑猩猩和小鼠FOXP2蛋白的氨基酸序列，如何调查人类FOXP2蛋白是否是言语的关键调控因子。以下哪项最能描述所建议的调查方法？",
+      "es": "La sección \"¿QUÉ PASARÍA SI?\" pregunta cómo se podría investigar si la proteína FOXP2 humana es un regulador clave del habla, dadas las secuencias de aminoácidos de las proteínas FOXP2 humana de tipo salvaje, humana mutante, chimpancé de tipo salvaje y ratón. ¿Cuál de las siguientes describe mejor el enfoque de investigación sugerido?",
+      "fr": "La section « ET SI ? » demande comment on pourrait étudier si la protéine FOXP2 humaine est un régulateur clé de la parole, étant donné les séquences d'acides aminés des protéines FOXP2 humaine de type sauvage, humaine mutante, chimpanzé de type sauvage et souris. Laquelle des propositions suivantes décrit le mieux l'approche d'investigation suggérée ?",
+      "de": "Der Abschnitt „WAS WÄRE WENN?“ fragt, wie man untersuchen könnte, ob das menschliche FOXP2-Protein ein Schlüsselregulator der Sprache ist, unter Berücksichtigung der Aminosäuresequenzen von Wildtyp-Human-, Mutant-Human-, Wildtyp-Schimpansen- und Maus-FOXP2-Proteinen. Welche der folgenden Beschreibungen trifft am besten auf den vorgeschlagenen Untersuchungsansatz zu?",
+      "ja": "「もしも？」のセクションでは、野生型ヒト、変異型ヒト、野生型チンパンジー、およびマウスのFOXP2タンパク質のアミノ酸配列が与えられた場合に、ヒトFOXP2タンパク質が発話の主要な調節因子であるかどうかをどのように調査するかを尋ねています。以下のうち、提案されている調査アプローチを最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Compare the wild-type human FOXP2 sequence only with the mouse FOXP2 sequence to find similarities.",
+          "zh": "仅将野生型人类FOXP2序列与小鼠FOXP2序列进行比较以寻找相似性。",
+          "es": "Comparar la secuencia de FOXP2 humana de tipo salvaje solo con la secuencia de FOXP2 del ratón para encontrar similitudes.",
+          "fr": "Comparer uniquement la séquence de FOXP2 humaine de type sauvage avec la séquence de FOXP2 de la souris para trouver des similarités.",
+          "de": "Nur die Wildtyp-Aminosäuresequenz des menschlichen FOXP2-Proteins mit der Maus-FOXP2-Sequenz vergleichen, um Ähnlichkeiten zu finden.",
+          "ja": "野生型ヒトFOXP2配列をマウスFOXP2配列のみと比較して類似点を見つける。"
+        },
+        "feedback": {
+          "en": "This is too limited. The question asks about mutant human and chimpanzee sequences as well, implying a broader comparative analysis.",
+          "zh": "这过于局限。问题还提到了突变型人类和黑猩猩序列，暗示了更广泛的比较分析。",
+          "es": "Esto es demasiado limitado. La pregunta también se refiere a secuencias humanas mutantes y de chimpancé, lo que implica un análisis comparativo más amplio.",
+          "fr": "C'est trop limité. La question fait également référence aux séquences humaines mutantes et de chimpanzé, ce qui implique une analyse comparative plus large.",
+          "de": "Dies ist zu begrenzt. Die Frage bezieht sich auch auf mutierte menschliche und Schimpansen-Sequenzen, was eine breitere vergleichende Analyse impliziert.",
+          "ja": "これは限定的すぎます。質問では変異型ヒトとチンパンジーの配列についても言及しており、より広範な比較分析が示唆されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Analyze the amino acid sequences of human wild-type and mutant FOXP2 proteins to identify critical changes, then compare these with chimpanzee and mouse FOXP2 sequences to infer evolutionary conservation and functional importance.",
+          "zh": "分析野生型人类和突变型人类FOXP2蛋白的氨基酸序列以识别关键变化，然后将这些序列与黑猩猩和小鼠FOXP2序列进行比较，以推断其进化保守性和功能重要性。",
+          "es": "Analizar las secuencias de aminoácidos de las proteínas FOXP2 humana de tipo salvaje y mutante para identificar cambios críticos, luego comparar estas con las secuencias de FOXP2 de chimpancé y ratón para inferir la conservación evolutiva y la importancia funcional.",
+          "fr": "Analyser les séquences d'acides aminés des protéines FOXP2 humaine de type sauvage et mutante pour identifier les changements critiques, puis comparer celles-ci avec les séquences de FOXP2 de chimpanzé et de souris pour inférer la conservation évolutive et l'importance fonctionnelle.",
+          "de": "Die Aminosäuresequenzen von Wildtyp-Human- und Mutant-Human-FOXP2-Proteinen analysieren, um kritische Veränderungen zu identifizieren, und diese dann mit Schimpansen- und Maus-FOXP2-Sequenzen vergleichen, um die evolutionäre Konservierung und funktionelle Bedeutung abzuleiten.",
+          "ja": "野生型ヒトと変異型ヒトのFOXP2タンパク質のアミノ酸配列を分析して重要な変化を特定し、その後これらの配列をチンパンジーとマウスのFOXP2配列と比較して、進化上の保存性と機能的な重要性を推測する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Use only the chimpanzee FOXP2 sequence as a reference to determine if it can regulate human speech, ignoring the human mutant sequence.",
+          "zh": "仅使用黑猩猩FOXP2序列作为参考，以确定其是否能调节人类言语，而忽略人类突变序列。",
+          "es": "Usar solo la secuencia de FOXP2 del chimpancé como referencia para determinar si puede regular el habla humana, ignorando la secuencia humana mutante.",
+          "fr": "Utiliser uniquement la séquence de FOXP2 du chimpanzé comme référence pour déterminer si elle peut réguler la parole humaine, en ignorant la séquence humaine mutante.",
+          "de": "Nur die Schimpansen-FOXP2-Sequenz als Referenz verwenden, um festzustellen, ob sie die menschliche Sprache regulieren kann, und dabei die menschliche Mutanten-Sequenz ignorieren.",
+          "ja": "チンパンジーのFOXP2配列のみを参照として使用し、それが人間の発話を調節できるかを判断し、ヒト変異型配列を無視する。"
+        },
+        "feedback": {
+          "en": "This ignores crucial information provided (human mutant sequence) and suggests a limited comparison.",
+          "zh": "这忽略了提供的关键信息（人类突变序列），并提出了一个有限的比较。",
+          "es": "Esto ignora información crucial proporcionada (secuencia mutante humana) y sugiere una comparación limitada.",
+          "fr": "Cela ignore des informations cruciales fournies (séquence mutante humaine) et suggère une comparaison limitée.",
+          "de": "Dies ignoriert entscheidende bereitgestellte Informationen (menschliche Mutanten-Sequenz) und schlägt einen begrenzten Vergleich vor.",
+          "ja": "これは提供された重要な情報（ヒト変異型配列）を無視し、限定的な比較を示唆しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Directly inject each protein into mice and observe their vocalization patterns to determine their function.",
+          "zh": "直接将每种蛋白质注射到小鼠体内，观察它们的发出声音模式以确定其功能。",
+          "es": "Inyectar directamente cada proteína en ratones y observar sus patrones de vocalización para determinar su función.",
+          "fr": "Injecter directement chaque protéine chez les souris et observer leurs schémas de vocalisation pour déterminer leur fonction.",
+          "de": "Jedes Protein direkt in Mäuse injizieren und deren Vokalisationmuster beobachten, um deren Funktion zu bestimmen.",
+          "ja": "各タンパク質を直接マウスに注入し、その発声パターンを観察して機能を決定する。"
+        },
+        "feedback": {
+          "en": "The question specifically asks about investigating using *amino acid sequences*, not through direct protein injection experiments.",
+          "zh": "问题明确要求利用“氨基酸序列”进行调查，而非通过直接的蛋白质注射实验。",
+          "es": "La pregunta se refiere específicamente a la investigación utilizando *secuencias de aminoácidos*, no a través de experimentos de inyección directa de proteínas.",
+          "fr": "La question porte spécifiquement sur l'investigation utilisant les *séquences d'acides aminés*, et non par des expériences d'injection directe de protéines.",
+          "de": "Die Frage bezieht sich spezifisch auf die Untersuchung mittels *Aminosäuresequenzen*, nicht auf direkte Protein-Injektionsexperimente.",
+          "ja": "質問は特に*アミノ酸配列*を用いた調査方法について尋ねており、直接的なタンパク質注入実験によるものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The \"WHAT IF?\" section explicitly asks how one would investigate using the given amino acid sequences. This implies a comparative genomic/proteomic approach. By comparing the wild-type and mutant human sequences, one can identify changes related to speech disorders. Comparing these with chimpanzee and mouse sequences provides evolutionary context and helps infer conserved functional regions relevant to vocalization and speech.",
+      "zh": "“如果”部分明确询问如何利用给定的氨基酸序列进行调查。这暗示了一种比较基因组学/蛋白质组学的方法。通过比较野生型和突变型人类序列，可以识别与言语障碍相关的变化。将这些序列与黑猩猩和小鼠序列进行比较，可以提供进化背景，并有助于推断与发声和言语相关的保守功能区域。",
+      "es": "La sección \"¿QUÉ PASARÍA SI?\" pregunta explícitamente cómo se investigaría utilizando las secuencias de aminoácidos dadas. Esto implica un enfoque comparativo genómico/proteómico. Al comparar las secuencias humanas de tipo salvaje y mutantes, se pueden identificar cambios relacionados con los trastornos del habla. Comparar estas con las secuencias de chimpancé y ratón proporciona un contexto evolutivo y ayuda a inferir regiones funcionales conservadas relevantes para la vocalización y el habla.",
+      "fr": "La section « ET SI ? » demande explicitement comment on pourrait étudier en utilisant les séquences d'acides aminés données. Cela implique une approche génomique/protéomique comparative. En comparant les séquences humaines de type sauvage et mutantes, on peut identifier les changements liés aux troubles de la parole. La comparaison de celles-ci avec les séquences de chimpanzé et de souris fournit un contexte évolutif et aide à inférer les régions fonctionnelles conservées pertinentes pour la vocalisation et la parole.",
+      "de": "Der Abschnitt „WAS WÄRE WENN?“ fragt explizit, wie man mit den gegebenen Aminosäuresequenzen untersuchen würde. Dies impliziert einen vergleichenden genomischen/proteomischen Ansatz. Durch den Vergleich der Wildtyp- und Mutanten-Sequenzen des Menschen können Veränderungen identifiziert werden, die mit Sprachstörungen zusammenhängen. Der Vergleich dieser Sequenzen mit Schimpansen- und Maus-Sequenzen liefert einen evolutionären Kontext und hilft, konservierte funktionelle Regionen zu identifizieren, die für Vokalisation und Sprache relevant sind.",
+      "ja": "「もしも？」のセクションでは、与えられたアミノ酸配列を用いてどのように調査するかを明示的に尋ねています。これは比較ゲノム/プロテオミクスのアプローチを示唆しています。野生型および変異型ヒト配列を比較することで、言語障害に関連する変化を特定できます。これらの配列をチンパンジーやマウスの配列と比較することで、進化的な文脈を提供し、発声や言語に関連する保存された機能領域を推測するのに役立ちます。"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 1247,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the provided text and Table 53.2, at which population size (N) does a population growing under the logistic model with a carrying capacity (K) of 1,500 and an intrinsic rate of increase (r) of 1.0 achieve its highest overall population growth rate (dN/dt)?",
+      "zh": "根据提供的文本和表 53.2，在承载能力 (K) 为 1,500 且内在增长率 (r) 为 1.0 的逻辑增长模型下，当种群数量 (N) 达到多少时，其整体种群增长率 (dN/dt) 达到最高？",
+      "es": "Según el texto proporcionado y la Tabla 53.2, ¿a qué tamaño de población (N) una población que crece bajo el modelo logístico con una capacidad de carga (K) de 1.500 y una tasa intrínseca de aumento (r) de 1.0 alcanza su tasa de crecimiento poblacional general (dN/dt) más alta?",
+      "fr": "Selon le texte fourni et le tableau 53.2, à quelle taille de population (N) une population croissant selon le modèle logistique avec une capacité de charge (K) de 1 500 et un taux intrinsèque d'augmentation (r) de 1,0 atteint-elle son taux de croissance démographique global (dN/dt) le plus élevé ?",
+      "de": "Gemäß dem bereitgestellten Text und Tabelle 53.2, bei welcher Populationsgröße (N) erreicht eine Population, die nach dem logistischen Modell mit einer Tragekapazität (K) von 1.500 und einer intrinsischen Wachstumsrate (r) von 1.0 wächst, ihre höchste Gesamtpopulationswachstumsrate (dN/dt)?",
+      "ja": "提供されたテキストと表53.2によると、収容力（K）が1,500、内的増加率（r）が1.0のロジスティック成長モデルに従って成長する個体群は、どの個体群サイズ（N）で全体の個体群成長率（dN/dt）が最高に達しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "N = 250, with a growth rate of +208 individuals per year.",
+          "zh": "N = 250，年增长率为 +208 个体。",
+          "es": "N = 250, con una tasa de crecimiento de +208 individuos por año.",
+          "fr": "N = 250, avec un taux de croissance de +208 individus par an.",
+          "de": "N = 250, mit einer Wachstumsrate von +208 Individuen pro Jahr.",
+          "ja": "N = 250、年間成長率は+208個体。"
+        },
+        "feedback": {
+          "en": "While +208 is a significant growth rate, it is not the highest. The highest growth rate occurs when N is half of K.",
+          "zh": "+208 固然是显著的增长率，但并非最高。最高增长率发生在 N 为 K 的一半时。",
+          "es": "Aunque +208 es una tasa de crecimiento significativa, no es la más alta. La tasa de crecimiento más alta ocurre cuando N es la mitad de K.",
+          "fr": "Bien que +208 soit un taux de croissance significatif, ce n'est pas le plus élevé. Le taux de croissance le plus élevé se produit lorsque N est la moitié de K.",
+          "de": "Obwohl +208 eine signifikante Wachstumsrate ist, ist sie nicht die höchste. Die höchste Wachstumsrate tritt auf, wenn N die Hälfte von K ist.",
+          "ja": "+208は significant な成長率ですが、最高ではありません。最高の成長率はNがKの半分であるときに発生します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "N = 750, with a growth rate of +375 individuals per year.",
+          "zh": "N = 750，年增长率为 +375 个体。",
+          "es": "N = 750, con una tasa de crecimiento de +375 individuos por año.",
+          "fr": "N = 750, avec un taux de croissance de +375 individus par an.",
+          "de": "N = 750, mit einer Wachstumsrate von +375 Individuen pro Jahr.",
+          "ja": "N = 750、年間成長率は+375個体。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "N = 1,000, with a growth rate of +333 individuals per year.",
+          "zh": "N = 1,000，年增长率为 +333 个体。",
+          "es": "N = 1.000, con una tasa de crecimiento de +333 individuos por año.",
+          "fr": "N = 1 000, avec un taux de croissance de +333 individus par an.",
+          "de": "N = 1.000, mit einer Wachstumsrate von +333 Individuen pro Jahr.",
+          "ja": "N = 1,000、年間成長率は+333個体。"
+        },
+        "feedback": {
+          "en": "While +333 is a high growth rate, it is not the peak. The population growth rate begins to slow down as N approaches K.",
+          "zh": "+333 虽然是高增长率，但不是峰值。随着 N 接近 K，种群增长率开始减缓。",
+          "es": "Aunque +333 es una tasa de crecimiento alta, no es el pico. La tasa de crecimiento de la población comienza a disminuir a medida que N se acerca a K.",
+          "fr": "Bien que +333 soit un taux de croissance élevé, ce n'est pas le pic. Le taux de croissance de la population commence à ralentir à mesure que N approche K.",
+          "de": "Obwohl +333 eine hohe Wachstumsrate ist, ist sie nicht der Höhepunkt. Die Populationswachstumsrate beginnt sich zu verlangsamen, wenn N sich K nähert.",
+          "ja": "+333は高い成長率ですが、ピークではありません。NがKに近づくにつれて、個体群成長率は減速し始めます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "N = 1,500, with a growth rate of 0 individuals per year.",
+          "zh": "N = 1,500，年增长率为 0 个体。",
+          "es": "N = 1.500, con una tasa de crecimiento de 0 individuos por año.",
+          "fr": "N = 1 500, avec un taux de croissance de 0 individus par an.",
+          "de": "N = 1.500, mit einer Wachstumsrate von 0 Individuen pro Jahr.",
+          "ja": "N = 1,500、年間成長率は0個体。"
+        },
+        "feedback": {
+          "en": "When N equals K (carrying capacity), the population growth rate becomes zero, as the environment can no longer support additional individuals.",
+          "zh": "当 N 等于 K（承载能力）时，种群增长率变为零，因为环境无法再支持额外的个体。",
+          "es": "Cuando N es igual a K (capacidad de carga), la tasa de crecimiento de la población se vuelve cero, ya que el ambiente ya no puede soportar individuos adicionales.",
+          "fr": "Lorsque N est égal à K (capacité de charge), le taux de croissance de la population devient nul, car l'environnement ne peut plus supporter d'individus supplémentaires.",
+          "de": "Wenn N gleich K (Tragekapazität) ist, wird die Populationswachstumsrate Null, da die Umwelt keine zusätzlichen Individuen mehr unterstützen kann.",
+          "ja": "NがK（収容力）に等しい場合、環境が追加の個体を支えられなくなるため、個体群成長率はゼロになります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "According to the text, 'the overall population growth rate is highest, +375 individuals per year, when the population size is 750, or half the carrying capacity.' This is also clearly shown in Table 53.2.",
+      "zh": "根据文本，'当种群数量为 750，即承载能力的一半时，整体种群增长率最高，为每年 +375 个体。' 表 53.2 也清楚地显示了这一点。",
+      "es": "Según el texto, 'la tasa de crecimiento poblacional general es más alta, +375 individuos por año, cuando el tamaño de la población es 750, o la mitad de la capacidad de carga.' Esto también se muestra claramente en la Tabla 53.2.",
+      "fr": "Selon le texte, 'le taux de croissance démographique global est le plus élevé, +375 individus par an, lorsque la taille de la population est de 750, soit la moitié de la capacité de charge.' Cela est également clairement indiqué dans le Tableau 53.2.",
+      "de": "Laut dem Text ist 'die Gesamtpopulationswachstumsrate am höchsten, +375 Individuen pro Jahr, wenn die Populationsgröße 750 beträgt, oder die Hälfte der Tragekapazität.' Dies ist auch deutlich in Tabelle 53.2 dargestellt.",
+      "ja": "テキストによると、「全体の個体群成長率は、個体群サイズが750、つまり収容力の半分であるときに最も高く、年間+375個体である。」これは表53.2にも明確に示されています。"
+    }
+  },
+  {
+    "page_number": 1247,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "How does the per capita population growth rate, r[(K-N)/K], behave in the logistic growth model as the population size (N) approaches the carrying capacity (K), compared to the per capita growth rate (r) in an exponential growth model?",
+      "zh": "在逻辑增长模型中，当种群数量 (N) 接近承载能力 (K) 时，个体种群增长率 r[(K-N)/K] 的行为与指数增长模型中的个体增长率 (r) 相比有何不同？",
+      "es": "¿Cómo se comporta la tasa de crecimiento poblacional per cápita, r[(K-N)/K], en el modelo de crecimiento logístico a medida que el tamaño de la población (N) se acerca a la capacidad de carga (K), en comparación con la tasa de crecimiento per cápita (r) en un modelo de crecimiento exponencial?",
+      "fr": "Comment le taux de croissance démographique par habitant, r[(K-N)/K], se comporte-t-il dans le modèle de croissance logistique lorsque la taille de la population (N) approche la capacité de charge (K), par rapport au taux de croissance par habitant (r) dans un modèle de croissance exponentielle ?",
+      "de": "Wie verhält sich die Pro-Kopf-Populationswachstumsrate, r[(K-N)/K], im logistischen Wachstumsmodell, wenn die Populationsgröße (N) sich der Tragekapazität (K) nähert, verglichen mit der Pro-Kopf-Wachstumsrate (r) in einem exponentiellen Wachstumsmodell?",
+      "ja": "個体群サイズ（N）が収容力（K）に近づくにつれて、ロジスティック成長モデルにおける個体あたりの個体群成長率 r[(K-N)/K] は、指数成長モデルにおける個体あたりの成長率（r）と比較してどのように振る舞いますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "In both models, the per capita growth rate remains constant.",
+          "zh": "在两种模型中，个体增长率都保持不变。",
+          "es": "En ambos modelos, la tasa de crecimiento per cápita permanece constante.",
+          "fr": "Dans les deux modèles, le taux de croissance par habitant reste constant.",
+          "de": "In beiden Modellen bleibt die Pro-Kopf-Wachstumsrate konstant.",
+          "ja": "どちらのモデルでも、個体あたりの成長率は一定のままです。"
+        },
+        "feedback": {
+          "en": "This is only true for the exponential growth model. In the logistic model, the per capita growth rate decreases.",
+          "zh": "这仅适用于指数增长模型。在逻辑增长模型中，个体增长率会下降。",
+          "es": "Esto solo es cierto para el modelo de crecimiento exponencial. En el modelo logístico, la tasa de crecimiento per cápita disminuye.",
+          "fr": "Ceci n'est vrai que pour le modèle de croissance exponentielle. Dans le modèle logistique, le taux de croissance par habitant diminue.",
+          "de": "Dies trifft nur auf das exponentielle Wachstumsmodell zu. Im logistischen Modell nimmt die Pro-Kopf-Wachstumsrate ab.",
+          "ja": "これは指数成長モデルにのみ当てはまります。ロジスティックモデルでは、個体あたりの成長率は減少します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "In the logistic model, it increases, while in the exponential model, it remains constant.",
+          "zh": "在逻辑模型中，它增加；而在指数模型中，它保持不变。",
+          "es": "En el modelo logístico, aumenta, mientras que en el modelo exponencial, permanece constante.",
+          "fr": "Dans le modèle logistique, il augmente, tandis que dans le modèle exponentiel, il reste constant.",
+          "de": "Im logistischen Modell nimmt sie zu, während sie im exponentiellen Modell konstant bleibt.",
+          "ja": "ロジスティックモデルでは増加し、指数モデルでは一定のままです。"
+        },
+        "feedback": {
+          "en": "The per capita growth rate decreases in the logistic model as N approaches K.",
+          "zh": "在逻辑模型中，当 N 接近 K 时，个体增长率会下降。",
+          "es": "La tasa de crecimiento per cápita disminuye en el modelo logístico a medida que N se acerca a K.",
+          "fr": "Le taux de croissance par habitant diminue dans le modèle logistique à mesure que N approche K.",
+          "de": "Die Pro-Kopf-Wachstumsrate nimmt im logistischen Modell ab, wenn N sich K nähert.",
+          "ja": "NがKに近づくにつれて、ロジスティックモデルでは個体あたりの成長率が減少します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "In the logistic model, it decreases, while in the exponential model, it remains constant.",
+          "zh": "在逻辑模型中，它下降；而在指数模型中，它保持不变。",
+          "es": "En el modelo logístico, disminuye, mientras que en el modelo exponencial, permanece constante.",
+          "fr": "Dans le modèle logistique, il diminue, tandis que dans le modèle exponentiel, il reste constant.",
+          "de": "Im logistischen Modell nimmt sie ab, während sie im exponentiellen Modell konstant bleibt.",
+          "ja": "ロジスティックモデルでは減少し、指数モデルでは一定のままです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "In the logistic model, it decreases, while in the exponential model, it increases.",
+          "zh": "在逻辑模型中，它下降；而在指数模型中，它增加。",
+          "es": "En el modelo logístico, disminuye, mientras que en el modelo exponencial, aumenta.",
+          "fr": "Dans le modèle logistique, il diminue, tandis que dans le modèle exponentiel, il augmente.",
+          "de": "Im logistischen Modell nimmt sie ab, während sie im exponentiellen Modell zunimmt.",
+          "ja": "ロジスティックモデルでは減少し、指数モデルでは増加します。"
+        },
+        "feedback": {
+          "en": "The per capita growth rate is constant in the exponential model, not increasing.",
+          "zh": "在指数模型中，个体增长率是恒定的，而不是增加。",
+          "es": "La tasa de crecimiento per cápita es constante en el modelo exponencial, no aumenta.",
+          "fr": "Le taux de croissance par habitant est constant dans le modèle exponentiel, il n'augmente pas.",
+          "de": "Die Pro-Kopf-Wachstumsrate ist im exponentiellen Modell konstant, nicht zunehmend.",
+          "ja": "指数モデルでは個体あたりの成長率は一定であり、増加しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that in the logistic growth model, 'the per capita rate of population growth decreases as N increases' and 'When N is large and resources are limiting, then (K – N)/K is close to 0, and the per capita population growth rate is small.' In contrast, the exponential growth model has a 'constant per capita growth rate (r)'.",
+      "zh": "文本指出，在逻辑增长模型中，'随着 N 的增加，个体种群增长率下降'，并且 '当 N 很大且资源有限时，(K – N)/K 接近 0，个体种群增长率很小。' 相比之下，指数增长模型具有 '恒定的个体增长率 (r)'。",
+      "es": "El texto indica que en el modelo de crecimiento logístico, 'la tasa de crecimiento poblacional per cápita disminuye a medida que N aumenta' y 'Cuando N es grande y los recursos son limitantes, entonces (K – N)/K está cerca de 0, y la tasa de crecimiento poblacional per cápita es pequeña.' En contraste, el modelo de crecimiento exponencial tiene una 'tasa de crecimiento poblacional per cápita constante (r)'.",
+      "fr": "Le texte indique que dans le modèle de croissance logistique, 'le taux de croissance démographique par habitant diminue à mesure que N augmente' et 'Lorsque N est grand et que les ressources sont limitantes, alors (K – N)/K est proche de 0, et le taux de croissance démographique par habitant est faible.' En revanche, le modèle de croissance exponentielle a un 'taux de croissance démographique par habitant constant (r)'.",
+      "de": "Der Text besagt, dass im logistischen Wachstumsmodell 'die Pro-Kopf-Populationswachstumsrate mit zunehmendem N abnimmt' und 'Wenn N groß ist und Ressourcen limitierend sind, dann ist (K – N)/K nahe 0, und die Pro-Kopf-Populationswachstumsrate ist gering.' Im Gegensatz dazu hat das exponentielle Wachstumsmodell eine 'konstante Pro-Kopf-Wachstumsrate (r)'.",
+      "ja": "テキストによると、ロジスティック成長モデルでは「Nが増加するにつれて個体あたりの個体群成長率が減少する」と述べられており、「Nが大きく資源が制限されている場合、(K – N)/K は0に近く、個体あたりの個体群成長率は小さい」とあります。対照的に、指数成長モデルは「一定の個体あたりの成長率（r）」を持っています。"
+    }
+  },
+  {
+    "page_number": 1247,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Consider a bat population following the logistic growth model with a carrying capacity (K) of 1,500 individuals and an intrinsic rate of increase (r) of 1.0. If the current population size (N) is 1,400 individuals, which of the following statements best describes the impact of the (K-N)/K term on the per capita population growth rate?",
+      "zh": "考虑一个遵循逻辑增长模型的蝙蝠种群，其承载能力 (K) 为 1,500 个体，内在增长率 (r) 为 1.0。如果当前种群数量 (N) 为 1,400 个体，以下哪项陈述最能描述 (K-N)/K 项对个体种群增长率的影响？",
+      "es": "Considere una población de murciélagos que sigue el modelo de crecimiento logístico con una capacidad de carga (K) de 1.500 individuos y una tasa intrínseca de aumento (r) de 1.0. Si el tamaño actual de la población (N) es de 1.400 individuos, ¿cuál de las siguientes afirmaciones describe mejor el impacto del término (K-N)/K en la tasa de crecimiento poblacional per cápita?",
+      "fr": "Considérez une population de chauves-souris suivant le modèle de croissance logistique avec une capacité de charge (K) de 1 500 individus et un taux intrinsèque d'augmentation (r) de 1,0. Si la taille actuelle de la population (N) est de 1 400 individus, laquelle des affirmations suivantes décrit le mieux l'impact du terme (K-N)/K sur le taux de croissance démographique par habitant ?",
+      "de": "Betrachten Sie eine Fledermauspopulation, die dem logistischen Wachstumsmodell mit einer Tragekapazität (K) von 1.500 Individuen und einer intrinsischen Wachstumsrate (r) von 1.0 folgt. Wenn die aktuelle Populationsgröße (N) 1.400 Individuen beträgt, welche der folgenden Aussagen beschreibt am besten den Einfluss des Terms (K-N)/K auf die Pro-Kopf-Populationswachstumsrate?",
+      "ja": "収容力（K）が1,500個体、内的増加率（r）が1.0のロジスティック成長モデルに従うコウモリ個体群を考えます。現在の個体群サイズ（N）が1,400個体である場合、(K-N)/Kの項が個体あたりの個体群成長率に与える影響を最もよく説明しているのは、以下のどの記述ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The term (K-N)/K would be close to 1, causing the per capita growth rate to be almost equal to r, similar to exponential growth.",
+          "zh": "项 (K-N)/K 将接近 1，导致个体增长率几乎等于 r，类似于指数增长。",
+          "es": "El término (K-N)/K estaría cerca de 1, haciendo que la tasa de crecimiento per cápita sea casi igual a r, similar al crecimiento exponencial.",
+          "fr": "Le terme (K-N)/K serait proche de 1, ce qui rendrait le taux de croissance par habitant presque égal à r, similaire à la croissance exponentielle.",
+          "de": "Der Term (K-N)/K wäre nahe 1, wodurch die Pro-Kopf-Wachstumsrate fast gleich r wäre, ähnlich dem exponentiellen Wachstum.",
+          "ja": "項 (K-N)/K は1に近く、個体あたりの成長率がrとほぼ等しくなり、指数成長に似ています。"
+        },
+        "feedback": {
+          "en": "This statement describes the scenario when N is very small compared to K, not when N is close to K.",
+          "zh": "此陈述描述的是 N 远小于 K 的情况，而不是 N 接近 K 的情况。",
+          "es": "Esta afirmación describe el escenario cuando N es muy pequeño en comparación con K, no cuando N está cerca de K.",
+          "fr": "Cette affirmation décrit le scénario où N est très petit par rapport à K, et non lorsque N est proche de K.",
+          "de": "Diese Aussage beschreibt das Szenario, wenn N im Vergleich zu K sehr klein ist, nicht wenn N nahe K ist.",
+          "ja": "この記述は、NがKに比べて非常に小さい場合のシナリオを説明しており、NがKに近い場合ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The term (K-N)/K would be close to 0, significantly reducing the per capita growth rate to a small fraction of r.",
+          "zh": "项 (K-N)/K 将接近 0，显著将个体增长率降低至 r 的一小部分。",
+          "es": "El término (K-N)/K estaría cerca de 0, reduciendo significativamente la tasa de crecimiento per cápita a una pequeña fracción de r.",
+          "fr": "Le terme (K-N)/K serait proche de 0, réduisant significativement le taux de croissance par habitant à une petite fraction de r.",
+          "de": "Der Term (K-N)/K wäre nahe 0, wodurch die Pro-Kopf-Wachstumsrate auf einen kleinen Bruchteil von r reduziert würde.",
+          "ja": "項 (K-N)/K は0に近く、個体あたりの成長率をrの小さな割合に大幅に減少させます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The term (K-N)/K would be exactly 0, causing the population to stop growing immediately.",
+          "zh": "项 (K-N)/K 将精确为 0，导致种群立即停止增长。",
+          "es": "El término (K-N)/K sería exactamente 0, lo que haría que la población dejara de crecer inmediatamente.",
+          "fr": "Le terme (K-N)/K serait exactement 0, ce qui entraînerait l'arrêt immédiat de la croissance de la population.",
+          "de": "Der Term (K-N)/K wäre genau 0, was dazu führen würde, dass die Population sofort aufhört zu wachsen.",
+          "ja": "項 (K-N)/K は正確に0になり、個体群は直ちに成長を停止します。"
+        },
+        "feedback": {
+          "en": "The term (K-N)/K becomes exactly 0 only when N equals K. When N=1400 and K=1500, (K-N)/K is (1500-1400)/1500 = 100/1500 = 1/15, which is close to 0 but not exactly 0.",
+          "zh": "项 (K-N)/K 只有当 N 等于 K 时才精确为 0。当 N=1400 和 K=1500 时，(K-N)/K 是 (1500-1400)/1500 = 100/1500 = 1/15，这接近 0 但不完全是 0。",
+          "es": "El término (K-N)/K se vuelve exactamente 0 solo cuando N es igual a K. Cuando N=1400 y K=1500, (K-N)/K es (1500-1400)/1500 = 100/1500 = 1/15, que está cerca de 0 pero no es exactamente 0.",
+          "fr": "Le terme (K-N)/K devient exactement 0 seulement lorsque N est égal à K. Lorsque N=1400 et K=1500, (K-N)/K est (1500-1400)/1500 = 100/1500 = 1/15, ce qui est proche de 0 mais pas exactement 0.",
+          "de": "Der Term (K-N)/K wird nur dann genau 0, wenn N gleich K ist. Wenn N=1400 und K=1500, ist (K-N)/K = (1500-1400)/1500 = 100/1500 = 1/15, was nahe 0, aber nicht genau 0 ist.",
+          "ja": "項 (K-N)/K が正確に0になるのはNがKと等しい場合のみです。N=1400、K=1500の場合、(K-N)/K は (1500-1400)/1500 = 100/1500 = 1/15 となり、0に近いですが正確に0ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The term (K-N)/K would have no impact on the per capita growth rate, which would remain r.",
+          "zh": "项 (K-N)/K 对个体增长率没有影响，个体增长率仍将是 r。",
+          "es": "El término (K-N)/K no tendría impacto en la tasa de crecimiento per cápita, que seguiría siendo r.",
+          "fr": "Le terme (K-N)/K n'aurait aucun impact sur le taux de croissance par habitant, qui resterait r.",
+          "de": "Der Term (K-N)/K hätte keinen Einfluss auf die Pro-Kopf-Wachstumsrate, die r bleiben würde.",
+          "ja": "項 (K-N)/K は個体あたりの成長率に影響を与えず、rのままです。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The (K-N)/K term is specifically designed to reduce the per capita growth rate as N approaches K.",
+          "zh": "这是不正确的。(K-N)/K 项的设计目的就是为了在 N 接近 K 时降低个体增长率。",
+          "es": "Esto es incorrecto. El término (K-N)/K está específicamente diseñado para reducir la tasa de crecimiento per cápita a medida que N se acerca a K.",
+          "fr": "C'est incorrect. Le terme (K-N)/K est spécifiquement conçu pour réduire le taux de croissance par habitant à mesure que N approche K.",
+          "de": "Das ist falsch. Der Term (K-N)/K wurde speziell entwickelt, um die Pro-Kopf-Wachstumsrate zu reduzieren, wenn N sich K nähert.",
+          "ja": "これは誤りです。(K-N)/K の項は、NがKに近づくにつれて個体あたりの成長率を減少させるように特別に設計されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "When N is 1,400 and K is 1,500, the term (K-N)/K becomes (1500-1400)/1500 = 100/1500 = 1/15, or approximately 0.067. This value is close to 0, which, according to the text, means 'the per capita population growth rate is small,' being a small fraction of r.",
+      "zh": "当 N 为 1,400 且 K 为 1,500 时，项 (K-N)/K 变为 (1500-1400)/1500 = 100/1500 = 1/15，约等于 0.067。这个值接近 0，根据文本，这意味着 '个体种群增长率很小'，是 r 的一小部分。",
+      "es": "Cuando N es 1.400 y K es 1.500, el término (K-N)/K se convierte en (1500-1400)/1500 = 100/1500 = 1/15, o aproximadamente 0.067. Este valor está cerca de 0, lo que, según el texto, significa que 'la tasa de crecimiento poblacional per cápita es pequeña', siendo una pequeña fracción de r.",
+      "fr": "Lorsque N est 1 400 et K est 1 500, le terme (K-N)/K devient (1500-1400)/1500 = 100/1500 = 1/15, soit environ 0,067. Cette valeur est proche de 0, ce qui, selon le texte, signifie que 'le taux de croissance démographique par habitant est faible', étant une petite fraction de r.",
+      "de": "Wenn N 1.400 und K 1.500 beträgt, wird der Term (K-N)/K zu (1500-1400)/1500 = 100/1500 = 1/15, oder ungefähr 0.067. Dieser Wert liegt nahe 0, was laut Text bedeutet, dass 'die Pro-Kopf-Populationswachstumsrate gering ist' und einen kleinen Bruchteil von r darstellt.",
+      "ja": "Nが1,400、Kが1,500の場合、(K-N)/K の項は (1500-1400)/1500 = 100/1500 = 1/15、つまり約0.067になります。この値は0に近く、テキストによると、「個体あたりの個体群成長率が小さい」ことを意味し、rのわずかな割合になります。"
+    }
+  },
+  {
+    "page_number": 1247,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Table 53.2, what is the value of the term (K-N)/K when the population size (N) is equal to the carrying capacity (K)?",
+      "zh": "根据表 53.2，当种群数量 (N) 等于承载能力 (K) 时，项 (K-N)/K 的值是多少？",
+      "es": "Según la Tabla 53.2, ¿cuál es el valor del término (K-N)/K cuando el tamaño de la población (N) es igual a la capacidad de carga (K)?",
+      "fr": "Selon le tableau 53.2, quelle est la valeur du terme (K-N)/K lorsque la taille de la population (N) est égale à la capacité de charge (K) ?",
+      "de": "Laut Tabelle 53.2, welchen Wert hat der Term (K-N)/K, wenn die Populationsgröße (N) der Tragekapazität (K) entspricht?",
+      "ja": "表53.2によると、個体群サイズ（N）が収容力（K）に等しい場合、項 (K-N)/K の値はいくつですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1.0",
+          "zh": "1.0",
+          "es": "1.0",
+          "fr": "1.0",
+          "de": "1.0",
+          "ja": "1.0"
+        },
+        "feedback": {
+          "en": "This value (1.0) is for the intrinsic rate of increase (r), or when N is very small compared to K, not when N equals K.",
+          "zh": "这个值 (1.0) 是指内在增长率 (r)，或当 N 远小于 K 时，而不是当 N 等于 K 时。",
+          "es": "Este valor (1.0) es para la tasa intrínseca de aumento (r), o cuando N es muy pequeño en comparación con K, no cuando N es igual a K.",
+          "fr": "Cette valeur (1,0) est pour le taux intrinsèque d'augmentation (r), ou lorsque N est très petit par rapport à K, pas lorsque N est égal à K.",
+          "de": "Dieser Wert (1.0) gilt für die intrinsische Wachstumsrate (r) oder wenn N im Vergleich zu K sehr klein ist, nicht wenn N gleich K ist.",
+          "ja": "この値（1.0）は、内的増加率（r）、またはNがKに比べて非常に小さい場合の値であり、NがKと等しい場合ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "0.500",
+          "zh": "0.500",
+          "es": "0.500",
+          "fr": "0.500",
+          "de": "0.500",
+          "ja": "0.500"
+        },
+        "feedback": {
+          "en": "This value occurs when the population size N is half of the carrying capacity K (N=750, K=1500).",
+          "zh": "此值出现在种群数量 N 是承载能力 K 的一半时（N=750，K=1500）。",
+          "es": "Este valor ocurre cuando el tamaño de la población N es la mitad de la capacidad de carga K (N=750, K=1500).",
+          "fr": "Cette valeur se produit lorsque la taille de la population N est la moitié de la capacité de charge K (N=750, K=1500).",
+          "de": "Dieser Wert tritt auf, wenn die Populationsgröße N die Hälfte der Tragekapazität K beträgt (N=750, K=1500).",
+          "ja": "この値は、個体群サイズ N が収容力 K の半分である場合に発生します（N=750, K=1500）。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "0.000",
+          "zh": "0.000",
+          "es": "0.000",
+          "fr": "0.000",
+          "de": "0.000",
+          "ja": "0.000"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "0.333",
+          "zh": "0.333",
+          "es": "0.333",
+          "fr": "0.333",
+          "de": "0.333",
+          "ja": "0.333"
+        },
+        "feedback": {
+          "en": "This value occurs when the population size N is 1,000, which is not equal to K.",
+          "zh": "此值出现在种群数量 N 为 1,000 时，不等于 K。",
+          "es": "Este valor ocurre cuando el tamaño de la población N es 1.000, lo cual no es igual a K.",
+          "fr": "Cette valeur se produit lorsque la taille de la population N est de 1 000, ce qui n'est pas égal à K.",
+          "de": "Dieser Wert tritt auf, wenn die Populationsgröße N 1.000 beträgt, was nicht gleich K ist.",
+          "ja": "この値は個体群サイズ N が1,000である場合に発生し、Kとは等しくありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Table 53.2 shows that when N = 1,500 (which is K), the value of (K-N)/K is 0.000. This is because (K-K)/K = 0/K = 0.",
+      "zh": "表 53.2 显示，当 N = 1,500（即 K）时，(K-N)/K 的值为 0.000。这是因为 (K-K)/K = 0/K = 0。",
+      "es": "La Tabla 53.2 muestra que cuando N = 1.500 (que es K), el valor de (K-N)/K es 0.000. Esto se debe a que (K-K)/K = 0/K = 0.",
+      "fr": "Le tableau 53.2 montre que lorsque N = 1 500 (qui est K), la valeur de (K-N)/K est 0,000. C'est parce que (K-K)/K = 0/K = 0.",
+      "de": "Tabelle 53.2 zeigt, dass, wenn N = 1.500 (was K ist), der Wert von (K-N)/K 0.000 beträgt. Dies liegt daran, dass (K-K)/K = 0/K = 0 ist.",
+      "ja": "表53.2によると、N = 1,500（Kと等しい）の場合、(K-N)/K の値は0.000です。これは (K-K)/K = 0/K = 0 だからです。"
+    }
+  }
+]

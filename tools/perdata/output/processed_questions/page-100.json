@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 100,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement accurately describes acids and bases as explained in the text?",
+      "zh": "根据文中解释，以下哪项陈述准确描述了酸和碱？",
+      "es": "Según lo explicado en el texto, ¿qué afirmación describe con precisión los ácidos y las bases?",
+      "fr": "Quelle affirmation décrit précisément les acides et les bases tels qu'expliqués dans le texte ?",
+      "de": "Welche Aussage beschreibt Säuren und Basen gemäß dem Text korrekt?",
+      "ja": "本文で説明されている酸と塩基について、どの記述が正確に説明していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Acids increase H+ concentration by accepting H+ ions, while strong bases fully dissociate.",
+          "zh": "酸通过接受H+离子来增加H+浓度，而强碱则完全解离。",
+          "es": "Los ácidos aumentan la concentración de H+ aceptando iones H+, mientras que las bases fuertes se disocian completamente.",
+          "fr": "Les acides augmentent la concentration en H+ en acceptant les ions H+, tandis que les bases fortes se dissocient entièrement.",
+          "de": "Säuren erhöhen die H+-Konzentration, indem sie H+-Ionen akzeptieren, während starke Basen vollständig dissoziieren.",
+          "ja": "酸はH+イオンを受け入れることでH+濃度を増加させ、強塩基は完全に解離する。"
+        },
+        "feedback": {
+          "en": "Acids increase H+ concentration by donating H+ ions, not by accepting them.",
+          "zh": "酸通过释放H+离子来增加H+浓度，而不是通过接受。",
+          "es": "Los ácidos aumentan la concentración de H+ donando iones H+, no aceptándolos.",
+          "fr": "Les acides augmentent la concentration en H+ en donnant des ions H+, et non en les acceptant.",
+          "de": "Säuren erhöhen die H+-Konzentration, indem sie H+-Ionen abgeben, nicht indem sie sie aufnehmen.",
+          "ja": "酸はH+イオンを受け入れるのではなく、放出することでH+濃度を増加させます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A strong acid completely dissociates in water, leading to a single arrow in its reaction, whereas a weak base uses a double arrow because its reactions are reversible.",
+          "zh": "强酸在水中完全解离，其反应式使用单向箭头；而弱碱使用双向箭头，因为其反应是可逆的。",
+          "es": "Un ácido fuerte se disocia completamente en agua, lo que se representa con una flecha simple en su reacción, mientras que una base débil usa una flecha doble porque sus reacciones son reversibles.",
+          "fr": "Un acide fort se dissocie complètement dans l'eau, ce qui est indiqué par une flèche simple dans sa réaction, tandis qu'une base faible utilise une double flèche car ses réactions sont réversibles.",
+          "de": "Eine starke Säure dissoziiert in Wasser vollständig, was durch einen einzelnen Pfeil in ihrer Reaktion dargestellt wird, während eine schwache Base einen Doppelpfeil verwendet, da ihre Reaktionen reversibel sind.",
+          "ja": "強酸は水中で完全に解離し、その反応は単一の矢印で示されます。一方、弱塩基は反応が可逆的であるため、二重の矢印を使用します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Bases always reduce H+ concentration indirectly by forming hydronium ions.",
+          "zh": "碱总是通过形成水合氢离子来间接降低H+浓度。",
+          "es": "Las bases siempre reducen la concentración de H+ indirectamente formando iones hidronio.",
+          "fr": "Les bases réduisent toujours indirectement la concentration en H+ en formant des ions hydronium.",
+          "de": "Basen reduzieren die H+-Konzentration immer indirekt durch Bildung von Hydroniumionen.",
+          "ja": "塩基は常に、ヒドロニウムイオンを形成することで間接的にH+濃度を低下させます。"
+        },
+        "feedback": {
+          "en": "Bases can reduce H+ concentration directly (by accepting H+) or indirectly (by forming OH-), and the indirect method involves hydroxide ions, not hydronium ions.",
+          "zh": "碱可以通过直接（接受H+）或间接（形成OH-）方式降低H+浓度，而间接方式涉及氢氧根离子，而非水合氢离子。",
+          "es": "Las bases pueden reducir la concentración de H+ directa (aceptando H+) o indirectamente (formando OH-), y el método indirecto implica iones hidróxido, no iones hidronio.",
+          "fr": "Les bases peuvent réduire la concentration en H+ directement (en acceptant H+) ou indirectement (en formant OH-), et la méthode indirecte implique des ions hydroxyde, pas des ions hydronium.",
+          "de": "Basen können die H+-Konzentration direkt (durch Aufnahme von H+) oder indirekt (durch Bildung von OH-) reduzieren. Die indirekte Methode beinhaltet Hydroxidionen, nicht Hydroniumionen.",
+          "ja": "塩基はH+濃度を直接（H+を受け入れることで）または間接的に（OH-を形成することで）低下させることができ、間接的な方法はヒドロニウムイオンではなく水酸化物イオンを伴います。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Carbonic acid is a strong acid because it significantly shifts the H+ and OH- balance.",
+          "zh": "碳酸是强酸，因为它显著改变了H+和OH-的平衡。",
+          "es": "El ácido carbónico es un ácido fuerte porque desplaza significativamente el equilibrio de H+ y OH-.",
+          "fr": "L'acide carbonique est un acide fort car il déplace significativement l'équilibre H+ et OH-.",
+          "de": "Kohlensäure ist eine starke Säure, da sie das H+- und OH--Gleichgewicht erheblich verschiebt.",
+          "ja": "炭酸はH+とOH-のバランスを大きく変動させるため、強酸です。"
+        },
+        "feedback": {
+          "en": "Carbonic acid is described as a weak acid in the text, with only 1% dissociation.",
+          "zh": "文中将碳酸描述为弱酸，只有1%解离。",
+          "es": "El ácido carbónico se describe como un ácido débil en el texto, con solo un 1% de disociación.",
+          "fr": "L'acide carbonique est décrit comme un acide faible dans le texte, avec seulement 1% de dissociation.",
+          "de": "Kohlensäure wird im Text als schwache Säure beschrieben, mit nur 1% Dissoziation.",
+          "ja": "炭酸は本文中で弱酸とされており、1%しか解離しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that strong acids like HCl dissociate completely, shown by a single arrow (HCl → H+ + Cl-). It also notes that weak bases like ammonia (NH3) use double arrows because their binding and release of hydrogen ions are reversible reactions (NH3 + H+ ⇌ NH4+). Acids donate H+ ions to increase concentration, and bases reduce H+ concentration.",
+      "zh": "文中指出，像HCl这样的强酸会完全解离，用单向箭头表示（HCl → H+ + Cl-）。它还提到，像氨（NH3）这样的弱碱使用双向箭头，因为它们结合和释放氢离子的反应是可逆的（NH3 + H+ ⇌ NH4+）。酸通过释放H+离子来增加浓度，碱则降低H+浓度。",
+      "es": "El texto afirma que los ácidos fuertes como el HCl se disocian completamente, lo que se indica con una flecha simple (HCl → H+ + Cl-). También señala que las bases débiles como el amoníaco (NH3) usan flechas dobles porque su unión y liberación de iones de hidrógeno son reacciones reversibles (NH3 + H+ ⇌ NH4+). Los ácidos donan iones H+ para aumentar la concentración, y las bases reducen la concentración de H+.",
+      "fr": "Le texte indique que les acides forts comme le HCl se dissocient complètement, représenté par une flèche simple (HCl → H+ + Cl-). Il note également que les bases faibles comme l'ammoniac (NH3) utilisent des doubles flèches car leur liaison et leur libération d'ions hydrogène sont des réactions réversibles (NH3 + H+ ⇌ NH4+). Les acides donnent des ions H+ pour augmenter la concentration, et les bases réduisent la concentration en H+.",
+      "de": "Der Text besagt, dass starke Säuren wie HCl vollständig dissoziieren, was durch einen einzelnen Pfeil angezeigt wird (HCl → H+ + Cl-). Es wird auch erwähnt, dass schwache Basen wie Ammoniak (NH3) Doppelpfeile verwenden, da ihre Bindung und Freisetzung von Wasserstoffionen reversible Reaktionen sind (NH3 + H+ ⇌ NH4+). Säuren spenden H+-Ionen, um die Konzentration zu erhöhen, und Basen reduzieren die H+-Konzentration.",
+      "ja": "本文では、HClのような強酸は完全に解離し、その反応は単一の矢印（HCl → H+ + Cl-）で示されると述べています。また、アンモニア（NH3）のような弱塩基は、水素イオンの結合と放出が可逆反応であるため、二重の矢印を使用すると指摘されています（NH3 + H+ ⇌ NH4+）。酸はH+イオンを供与して濃度を増加させ、塩基はH+濃度を減少させます。"
+    }
+  },
+  {
+    "page_number": 100,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, which of the following is true regarding pure water at 25°C?",
+      "zh": "根据文中描述，关于25°C下纯水，以下哪项陈述是正确的？",
+      "es": "Según el texto, ¿cuál de las siguientes afirmaciones es verdadera con respecto al agua pura a 25°C?",
+      "fr": "Selon le texte, quelle affirmation est vraie concernant l'eau pure à 25°C ?",
+      "de": "Welche der folgenden Aussagen trifft gemäß dem Text auf reines Wasser bei 25°C zu?",
+      "ja": "本文によると、25°Cの純水に関して、次のうちどれが正しいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The dissociation of water is an irreversible process, favoring the formation of H+ and OH-.",
+          "zh": "水的解离是不可逆过程，有利于H+和OH-的形成。",
+          "es": "La disociación del agua es un proceso irreversible que favorece la formación de H+ y OH-.",
+          "fr": "La dissociation de l'eau est un processus irréversible, favorisant la formation de H+ et OH-.",
+          "de": "Die Dissoziation von Wasser ist ein irreversibler Prozess, der die Bildung von H+ und OH- begünstigt.",
+          "ja": "水の解離は不可逆プロセスであり、H+とOH-の形成を促進します。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that water dissociation is a reversible reaction, reaching a dynamic equilibrium where water molecules greatly exceed ions.",
+          "zh": "文中明确指出，水的解离是可逆反应，达到动态平衡，其中水分子数量远远超过离子数量。",
+          "es": "El texto afirma explícitamente que la disociación del agua es una reacción reversible, que alcanza un equilibrio dinámico donde las moléculas de agua superan ampliamente a los iones.",
+          "fr": "Le texte indique explicitement que la dissociation de l'eau est une réaction réversible, atteignant un équilibre dynamique où les molécules d'eau sont en grande excès par rapport aux ions.",
+          "de": "Der Text besagt ausdrücklich, dass die Wasserdissoziation eine reversible Reaktion ist, die ein dynamisches Gleichgewicht erreicht, bei dem Wassermoleküle die Ionen stark übertreffen.",
+          "ja": "本文では、水の解離は可逆反応であり、水分子がイオンをはるかに上回る動的平衡に達すると明記されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "For every 554 million water molecules, approximately one dissociates, and the concentrations of H+ and OH- are both 10^-7 M.",
+          "zh": "每5.54亿个水分子中约有一个解离，且H+和OH-的浓度均为10^-7 M。",
+          "es": "Por cada 554 millones de moléculas de agua, aproximadamente una se disocia, y las concentraciones de H+ y OH- son ambas de 10^-7 M.",
+          "fr": "Pour chaque 554 millions de molécules d'eau, environ une se dissocie, et les concentrations de H+ et OH- sont toutes deux de 10^-7 M.",
+          "de": "Von 554 Millionen Wassermolekülen dissoziiert etwa eines, und die Konzentrationen von H+ und OH- betragen beide 10^-7 M.",
+          "ja": "5億5400万個の水分子ごとに約1個が解離し、H+とOH-の濃度は両方とも10^-7 Mです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The product of [H+] and [OH-] concentrations is 10^-7.",
+          "zh": "[H+]和[OH-]浓度的乘积是10^-7。",
+          "es": "El producto de las concentraciones de [H+] y [OH-] es 10^-7.",
+          "fr": "Le produit des concentrations [H+] et [OH-] est 10^-7.",
+          "de": "Das Produkt der [H+]- und [OH-]-Konzentrationen beträgt 10^-7.",
+          "ja": "[H+]と[OH-]の濃度の積は10^-7です。"
+        },
+        "feedback": {
+          "en": "The text states that the product of [H+] and [OH-] concentrations is constant at 10^-14 at 25°C.",
+          "zh": "文中指出，在25°C时，[H+]和[OH-]浓度的乘积常数为10^-14。",
+          "es": "El texto afirma que el producto de las concentraciones de [H+] y [OH-] es constante a 10^-14 a 25°C.",
+          "fr": "Le texte indique que le produit des concentrations [H+] et [OH-] est constant à 10^-14 à 25°C.",
+          "de": "Der Text besagt, dass das Produkt der [H+]- und [OH-]-Konzentrationen bei 25°C konstant 10^-14 beträgt.",
+          "ja": "本文では、25°Cにおける[H+]と[OH-]の濃度の積は10^-14で一定であると述べられています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Hydrogen ions (H+) exist independently in aqueous solutions at this temperature.",
+          "zh": "在此温度下，氢离子（H+）在水溶液中独立存在。",
+          "es": "Los iones de hidrógeno (H+) existen independientemente en soluciones acuosas a esta temperatura.",
+          "fr": "Les ions hydrogène (H+) existent indépendamment dans les solutions aqueuses à cette température.",
+          "de": "Wasserstoffionen (H+) existieren bei dieser Temperatur unabhängig in wässrigen Lösungen.",
+          "ja": "水素イオン（H+）はこの温度の水溶液中で独立して存在します。"
+        },
+        "feedback": {
+          "en": "The text states that H+ does not exist on its own in aqueous solution; it is always associated with a water molecule in the form of H3O+.",
+          "zh": "文中指出H+在水溶液中不会独立存在；它总是以H3O+的形式与水分子结合。",
+          "es": "El texto afirma que el H+ no existe por sí mismo en solución acuosa; siempre está asociado con una molécula de agua en forma de H3O+.",
+          "fr": "Le texte indique que le H+ n'existe pas seul en solution aqueuse ; il est toujours associé à une molécule d'eau sous forme de H3O+.",
+          "de": "Der Text besagt, dass H+ in wässriger Lösung nicht allein existiert; es ist immer in Form von H3O+ mit einem Wassermolekül verbunden.",
+          "ja": "本文では、H+は水溶液中で単独では存在せず、常にH3O+の形で水分子と結合していると述べられています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'In pure water, only one water molecule in every 554 million is dissociated; the concentration of H+ and of OH- in pure water is therefore 10^-7 M (at 25°C)'. This directly supports option B.",
+      "zh": "文中明确指出：'在纯水中，每5.54亿个水分子中只有一个解离；因此，25°C时纯水中H+和OH-的浓度均为10^-7 M'。这直接支持了选项B。",
+      "es": "El texto afirma explícitamente: 'En agua pura, solo una molécula de agua de cada 554 millones se disocia; la concentración de H+ y de OH- en agua pura es, por lo tanto, 10^-7 M (a 25°C)'. Esto apoya directamente la opción B.",
+      "fr": "Le texte indique explicitement : 'Dans l'eau pure, seule une molécule d'eau sur 554 millions se dissocie ; la concentration de H+ et de OH- dans l'eau pure est donc de 10^-7 M (à 25°C)'. Cela soutient directement l'option B.",
+      "de": "Der Text besagt ausdrücklich: 'In reinem Wasser dissoziiert nur ein Wassermolekül von 554 Millionen; die Konzentration von H+ und OH- in reinem Wasser beträgt daher 10^-7 M (bei 25°C)'. Dies unterstützt direkt Option B.",
+      "ja": "本文では、「純粋な水では、5億5400万個の水分子ごとに1個だけが解離し、25℃での純水中のH+とOH-の濃度は両方とも10^-7 Mです」と明記されています。これは選択肢Bを直接支持しています。"
+    }
+  },
+  {
+    "page_number": 100,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "When a hydrogen atom shifts between two water molecules, what are the resulting chemical species, and what is transferred?",
+      "zh": "当一个氢原子在两个水分子之间转移时，会形成哪些化学物质，以及什么被转移了？",
+      "es": "Cuando un átomo de hidrógeno se desplaza entre dos moléculas de agua, ¿cuáles son las especies químicas resultantes y qué se transfiere?",
+      "fr": "Lorsqu'un atome d'hydrogène se déplace entre deux molécules d'eau, quelles sont les espèces chimiques résultantes et qu'est-ce qui est transféré ?",
+      "de": "Wenn sich ein Wasserstoffatom zwischen zwei Wassermolekülen verschiebt, welche chemischen Spezies entstehen dabei, und was wird übertragen?",
+      "ja": "水素原子が2つの水分子の間を移動するとき、結果として生じる化学種は何であり、何が転送されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A hydrogen atom (H) is transferred, resulting in a hydronium ion (H3O+) and a hydrogen molecule (H2).",
+          "zh": "氢原子(H)被转移，形成水合氢离子(H3O+)和氢分子(H2)。",
+          "es": "Se transfiere un átomo de hidrógeno (H), resultando en un ion hidronio (H3O+) y una molécula de hidrógeno (H2).",
+          "fr": "Un atome d'hydrogène (H) est transféré, résultant en un ion hydronium (H3O+) et une molécule d'hydrogène (H2).",
+          "de": "Ein Wasserstoffatom (H) wird übertragen, was zu einem Hydroniumion (H3O+) und einem Wasserstoffmolekül (H2) führt.",
+          "ja": "水素原子（H）が転送され、ヒドロニウムイオン（H3O+）と水素分子（H2）が生成されます。"
+        },
+        "feedback": {
+          "en": "The text clearly states that a hydrogen *ion* (H+), a single proton, is transferred, not a neutral hydrogen atom or a hydrogen molecule.",
+          "zh": "文中明确指出，转移的是氢离子（H+），即单个质子，而不是中性氢原子或氢分子。",
+          "es": "El texto afirma claramente que se transfiere un *ion* de hidrógeno (H+), un solo protón, no un átomo de hidrógeno neutro o una molécula de hidrógeno.",
+          "fr": "Le texte indique clairement qu'un *ion* hydrogène (H+), un proton unique, est transféré, et non un atome d'hydrogène neutre ou une molécule d'hydrogène.",
+          "de": "Der Text besagt eindeutig, dass ein Wasserstoff-*Ion* (H+), ein einzelnes Proton, übertragen wird, nicht ein neutrales Wasserstoffatom oder ein Wasserstoffmolekül.",
+          "ja": "本文には、中性の水素原子や水素分子ではなく、水素*イオン*（H+）、つまり単一のプロトンが転送されると明記されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A single proton (H+) is transferred, forming a hydronium ion (H3O+) and a hydroxide ion (OH-).",
+          "zh": "单个质子(H+)被转移，形成水合氢离子(H3O+)和氢氧根离子(OH-)。",
+          "es": "Se transfiere un solo protón (H+), formando un ion hidronio (H3O+) y un ion hidróxido (OH-).",
+          "fr": "Un seul proton (H+) est transféré, formant un ion hydronium (H3O+) et un ion hydroxyde (OH-).",
+          "de": "Ein einzelnes Proton (H+) wird übertragen, wodurch ein Hydroniumion (H3O+) und ein Hydroxidion (OH-) entstehen.",
+          "ja": "単一のプロトン（H+）が転送され、ヒドロニウムイオン（H3O+）と水酸化物イオン（OH-）が形成されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "An electron is transferred, leading to the formation of two hydronium ions.",
+          "zh": "电子被转移，导致形成两个水合氢离子。",
+          "es": "Se transfiere un electrón, lo que lleva a la formación de dos iones hidronio.",
+          "fr": "Un électron est transféré, entraînant la formation de deux ions hydronium.",
+          "de": "Ein Elektron wird übertragen, was zur Bildung von zwei Hydroniumionen führt.",
+          "ja": "電子が転送され、2つのヒドロニウムイオンが形成されます。"
+        },
+        "feedback": {
+          "en": "The text specifies that a hydrogen *ion* (proton) is transferred, not an electron. This transfer results in a hydronium ion and a hydroxide ion, not two hydronium ions.",
+          "zh": "文中明确指出转移的是氢离子（质子），而不是电子。这种转移形成水合氢离子和氢氧根离子，而不是两个水合氢离子。",
+          "es": "El texto especifica que se transfiere un *ion* de hidrógeno (protón), no un electrón. Esta transferencia resulta en un ion hidronio y un ion hidróxido, no en dos iones hidronio.",
+          "fr": "Le texte spécifie qu'un *ion* hydrogène (proton) est transféré, et non un électron. Ce transfert entraîne la formation d'un ion hydronium et d'un ion hydroxyde, et non de deux ions hydronium.",
+          "de": "Der Text besagt, dass ein Wasserstoff-*Ion* (Proton) übertragen wird, nicht ein Elektron. Diese Übertragung führt zur Bildung eines Hydroniumions und eines Hydroxidions, nicht von zwei Hydroniumionen.",
+          "ja": "本文では、電子ではなく水素*イオン*（プロトン）が転送されると明記されています。この転送により、ヒドロニウムイオンと水酸化物イオンが生成され、2つのヒドロニウムイオンではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A hydroxide ion (OH-) is transferred, producing an acidic solution.",
+          "zh": "氢氧根离子(OH-)被转移，产生酸性溶液。",
+          "es": "Se transfiere un ion hidróxido (OH-), produciendo una solución ácida.",
+          "fr": "Un ion hydroxyde (OH-) est transféré, produisant une solution acide.",
+          "de": "Ein Hydroxidion (OH-) wird übertragen, wodurch eine saure Lösung entsteht.",
+          "ja": "水酸化物イオン（OH-）が転送され、酸性溶液が生成されます。"
+        },
+        "feedback": {
+          "en": "The text describes the transfer of a hydrogen ion (proton), which leads to the formation of both a hydronium ion and a hydroxide ion. If only water dissociates, the solution remains neutral.",
+          "zh": "文中描述了氢离子（质子）的转移，这导致水合氢离子和氢氧根离子的形成。如果只有水解离，溶液仍保持中性。",
+          "es": "El texto describe la transferencia de un ion de hidrógeno (protón), lo que lleva a la formación de un ion hidronio y un ion hidróxido. Si solo el agua se disocia, la solución permanece neutra.",
+          "fr": "Le texte décrit le transfert d'un ion hydrogène (proton), ce qui conduit à la formation à la fois d'un ion hydronium et d'un ion hydroxyde. Si seule l'eau se dissocie, la solution reste neutre.",
+          "de": "Der Text beschreibt die Übertragung eines Wasserstoffions (Protons), was zur Bildung sowohl eines Hydroniumions als auch eines Hydroxidions führt. Wenn nur Wasser dissoziiert, bleibt die Lösung neutral.",
+          "ja": "本文では、水酸化物イオンではなく水素イオン（プロトン）の転送について説明されており、それによってヒドロニウムイオンと水酸化物イオンの両方が形成されます。水のみが解離する場合、溶液は中性のままです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The first paragraph of Concept 3.3 states that when a hydrogen atom shifts, 'what is actually transferred is a hydrogen ion (H+), a single proton with a charge of 1+'. It further explains that the water molecule that lost a proton becomes a hydroxide ion (OH-), and the one that gained it becomes a hydronium ion (H3O+).",
+      "zh": "概念3.3的第一段指出，当一个氢原子转移时，'实际转移的是一个氢离子（H+），一个带1+电荷的单个质子'。它进一步解释说，失去质子的水分子变为氢氧根离子（OH-），而获得质子的水分子变为水合氢离子（H3O+）。",
+      "es": "El primer párrafo del Concepto 3.3 establece que cuando un átomo de hidrógeno se desplaza, 'lo que realmente se transfiere es un ion de hidrógeno (H+), un protón simple con una carga de 1+'. Además, explica que la molécula de agua que perdió un protón se convierte en un ion hidróxido (OH-), y la que lo ganó se convierte en un ion hidronio (H3O+).",
+      "fr": "Le premier paragraphe du Concept 3.3 stipule que lorsqu'un atome d'hydrogène se déplace, « ce qui est réellement transféré est un ion hydrogène (H+), un proton unique avec une charge de 1+ ». Il explique en outre que la molécule d'eau qui a perdu un proton devient un ion hydroxyde (OH-), et celle qui l'a gagné devient un ion hydronium (H3O+).",
+      "de": "Der erste Absatz von Konzept 3.3 besagt, dass, wenn sich ein Wasserstoffatom verschiebt, 'was tatsächlich übertragen wird, ein Wasserstoffion (H+), ein einzelnes Proton mit einer Ladung von 1+' ist. Weiter wird erklärt, dass das Wassermolekül, das ein Proton verloren hat, zu einem Hydroxidion (OH-) wird, und dasjenige, das es gewonnen hat, zu einem Hydroniumion (H3O+) wird.",
+      "ja": "コンセプト3.3の最初の段落では、水素原子が移動するときに「実際に転送されるのは水素イオン（H+）、つまり1+の電荷を持つ単一のプロトンである」と述べられています。さらに、プロトンを失った水分子は水酸化物イオン（OH-）になり、プロトンを得た水分子はヒドロニウムイオン（H3O+）になることも説明されています。"
+    }
+  },
+  {
+    "page_number": 100,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Why are changes in the concentrations of H+ and OH- in living organisms considered important, according to the text?",
+      "zh": "根据文中描述，为什么活体生物中H+和OH-浓度变化被认为是重要的？",
+      "es": "Según el texto, ¿por qué se consideran importantes los cambios en las concentraciones de H+ y OH- en los organismos vivos?",
+      "fr": "Selon le texte, pourquoi les changements dans les concentrations de H+ et OH- sont-ils considérés comme importants chez les organismes vivants ?",
+      "de": "Warum werden Konzentrationsänderungen von H+ und OH- in lebenden Organismen laut Text als wichtig erachtet?",
+      "ja": "本文によると、生物におけるH+とOH-の濃度の変化が重要視されるのはなぜですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Because H+ and OH- are stable molecules that help maintain cellular pH balance.",
+          "zh": "因为H+和OH-是稳定的分子，有助于维持细胞pH平衡。",
+          "es": "Porque el H+ y el OH- son moléculas estables que ayudan a mantener el equilibrio del pH celular.",
+          "fr": "Parce que H+ et OH- sont des molécules stables qui aident à maintenir l'équilibre du pH cellulaire.",
+          "de": "Weil H+ und OH- stabile Moleküle sind, die zur Aufrechterhaltung des zellulären pH-Gleichgewichts beitragen.",
+          "ja": "H+とOH-は細胞のpHバランスを維持するのに役立つ安定した分子であるためです。"
+        },
+        "feedback": {
+          "en": "The text states that H+ and OH- are 'very reactive', and changes in their concentrations 'disrupt this balance'.",
+          "zh": "文中指出H+和OH-“非常活跃”，并且它们的浓度变化“会破坏这种平衡”。",
+          "es": "El texto afirma que el H+ y el OH- son 'muy reactivos', y que los cambios en sus concentraciones 'alteran este equilibrio'.",
+          "fr": "Le texte indique que H+ et OH- sont 'très réactifs', et que les changements de leurs concentrations 'perturbent cet équilibre'.",
+          "de": "Der Text besagt, dass H+ und OH- 'sehr reaktiv' sind und dass Änderungen ihrer Konzentrationen 'dieses Gleichgewicht stören'.",
+          "ja": "本文では、H+とOH-は「非常に反応性が高い」と述べられており、その濃度変化は「このバランスを崩す」とされています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Because even slight shifts can drastically affect a cell's proteins and other complex molecules.",
+          "zh": "因为即使是微小的变化也会严重影响细胞的蛋白质和其他复杂分子。",
+          "es": "Porque incluso pequeños cambios pueden afectar drásticamente las proteínas de una célula y otras moléculas complejas.",
+          "fr": "Parce que même de légers changements peuvent affecter drastiquement les protéines d'une cellule et d'autres molécules complexes.",
+          "de": "Weil selbst leichte Verschiebungen die Proteine einer Zelle und andere komplexe Moleküle drastisch beeinflussen können.",
+          "ja": "わずかな変化でも細胞のタンパク質や他の複雑な分子に劇的な影響を与える可能性があるためです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Because they are the primary components of the pH scale, but their direct impact on cell molecules is minimal.",
+          "zh": "因为它们是pH值尺度的主要组成部分，但它们对细胞分子的直接影响很小。",
+          "es": "Porque son los componentes principales de la escala de pH, pero su impacto directo en las moléculas celulares es mínimo.",
+          "fr": "Parce qu'ils sont les composants primaires de l'échelle de pH, mais leur impact direct sur les molécules cellulaires est minimal.",
+          "de": "Weil sie die Hauptkomponenten der pH-Skala sind, ihr direkter Einfluss auf Zellmoleküle jedoch minimal ist.",
+          "ja": "それらがpHスケールの主要な要素であるにもかかわらず、細胞分子への直接的な影響は最小限であるためです。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that 'Changes in their concentrations can drastically affect a cell's proteins and other complex molecules,' indicating a significant, not minimal, impact.",
+          "zh": "文中明确指出，“它们浓度的变化会严重影响细胞的蛋白质和其他复杂分子”，表明影响是显著的，而非微不足道的。",
+          "es": "El texto afirma explícitamente que 'los cambios en sus concentraciones pueden afectar drásticamente las proteínas de una célula y otras moléculas complejas', lo que indica un impacto significativo, no mínimo.",
+          "fr": "Le texte indique explicitement que 'les changements de leurs concentrations peuvent affecter drastiquement les protéines d'une cellule et d'autres molécules complexes', ce qui indique un impact significatif, et non minime.",
+          "de": "Der Text besagt ausdrücklich, dass 'Änderungen ihrer Konzentrationen die Proteine einer Zelle und andere komplexe Moleküle drastisch beeinflussen können', was auf einen erheblichen, nicht minimalen Einfluss hindeutet.",
+          "ja": "本文では、「それらの濃度変化は細胞のタンパク質や他の複雑な分子に劇的な影響を与える可能性がある」と明記されており、これは影響が最小限ではなく、非常に大きいことを示しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Because biologists primarily use the pH scale to describe how basic a solution is, not how acidic.",
+          "zh": "因为生物学家主要使用pH值尺度来描述溶液的碱性，而非酸性。",
+          "es": "Porque los biólogos utilizan principalmente la escala de pH para describir cuán básica es una solución, no cuán ácida.",
+          "fr": "Parce que les biologistes utilisent principalement l'échelle de pH pour décrire à quel point une solution est basique, et non acide.",
+          "de": "Weil Biologen die pH-Skala hauptsächlich verwenden, um zu beschreiben, wie basisch eine Lösung ist, nicht wie sauer.",
+          "ja": "生物学者は主にpHスケールを使用して溶液がどれだけ塩基性であるかを説明し、酸性については説明しないためです。"
+        },
+        "feedback": {
+          "en": "The text states that the pH scale describes 'how acidic or basic' a solution is, indicating it covers both.",
+          "zh": "文中指出pH值尺度描述溶液的“酸性或碱性”，表明它涵盖了两者。",
+          "es": "El texto afirma que la escala de pH describe 'cuán ácida o básica' es una solución, lo que indica que cubre ambos aspectos.",
+          "fr": "Le texte indique que l'échelle de pH décrit « comment une solution est acide ou basique », ce qui signifie qu'elle couvre les deux aspects.",
+          "de": "Der Text besagt, dass die pH-Skala beschreibt, 'wie sauer oder basisch' eine Lösung ist, was darauf hinweist, dass sie beides abdeckt.",
+          "ja": "本文にはpHスケールが溶液の「酸性度または塩基性度」を説明すると書かれており、両方をカバーしていることを示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains: 'H+ and OH- are very reactive. Changes in their concentrations can drastically affect a cell's proteins and other complex molecules.' This highlights the crucial importance of maintaining the balance of these ions for living organisms.",
+      "zh": "文中解释道：“H+和OH-非常活跃。它们浓度的变化会严重影响细胞的蛋白质和其他复杂分子。”这强调了维持这些离子平衡对活体生物的关键重要性。",
+      "es": "El texto explica: 'El H+ y el OH- son muy reactivos. Los cambios en sus concentraciones pueden afectar drásticamente las proteínas de una célula y otras moléculas complejas'. Esto resalta la importancia crucial de mantener el equilibrio de estos iones para los organismos vivos.",
+      "fr": "Le texte explique : « H+ et OH- sont très réactifs. Les changements de leurs concentrations peuvent affecter drastiquement les protéines d'une cellule et d'autres molécules complexes. » Cela souligne l'importance cruciale du maintien de l'équilibre de ces ions pour les organismes vivants.",
+      "de": "Der Text erklärt: 'H+ und OH- sind sehr reaktiv. Änderungen ihrer Konzentrationen können die Proteine einer Zelle und andere komplexe Moleküle drastisch beeinflussen.' Dies unterstreicht die entscheidende Bedeutung der Aufrechterhaltung des Gleichgewichts dieser Ionen für lebende Organismen.",
+      "ja": "本文では、「H+とOH-は非常に反応性が高いです。それらの濃度変化は、細胞のタンパク質や他の複雑な分子に劇的な影響を与える可能性があります」と説明されています。これは、生体にとってこれらのイオンのバランスを維持することの極めて重要な意味を強調しています。"
+    }
+  }
+]

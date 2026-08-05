@@ -1,0 +1,270 @@
+[
+  {
+    "page_number": 489,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on the provided diagram and text regarding eukaryotic gene cloning, which statement is true?",
+      "zh": "根据所提供的关于真核基因克隆的图示和文本，以下哪项陈述是正确的？",
+      "es": "Según el diagrama y el texto proporcionados sobre la clonación de genes eucariotas, ¿qué afirmación es verdadera?",
+      "fr": "Selon le diagramme et le texte fournis concernant le clonage de gènes eucaryotes, quelle affirmation est vraie ?",
+      "de": "Basierend auf dem bereitgestellten Diagramm und Text zur Klonierung eukaryotischer Gene, welche Aussage ist richtig?",
+      "ja": "提供された図と真核生物遺伝子クローニングに関するテキストに基づき、以下の記述のうち正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The cloning vector is usually an animal virus designed for gene delivery.",
+          "zh": "克隆载体通常是用于基因传递的动物病毒。",
+          "es": "El vector de clonación suele ser un virus animal diseñado para la entrega de genes.",
+          "fr": "Le vecteur de clonage est généralement un virus animal conçu pour le transfert de gènes.",
+          "de": "Der Klonierungsvektor ist normalerweise ein Tiervirus, der für die Genübertragung entwickelt wurde.",
+          "ja": "クローニングベクターは通常、遺伝子導入のために設計された動物ウイルスである。"
+        },
+        "feedback": {
+          "en": "The text and diagram indicate a bacterial plasmid is typically used as a cloning vector.",
+          "zh": "文本和图示表明，细菌质粒通常用作克隆载体。",
+          "es": "El texto y el diagrama indican que un plásmido bacteriano se usa típicamente como vector de clonación.",
+          "fr": "Le texte et le diagramme indiquent qu'un plasmide bactérien est généralement utilisé comme vecteur de clonage.",
+          "de": "Der Text und das Diagramm zeigen, dass ein bakterielles Plasmid typischerweise als Klonierungsvektor verwendet wird.",
+          "ja": "テキストと図は、細菌プラスミドが通常クローニングベクターとして使用されることを示している。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "DNA fragments are ligated into the vector using a different restriction enzyme than the one used to cut the vector, to ensure compatibility.",
+          "zh": "DNA片段使用与切割载体不同的限制酶连接到载体中，以确保兼容性。",
+          "es": "Los fragmentos de ADN se ligan al vector utilizando una enzima de restricción diferente a la utilizada para cortar el vector, para asegurar la compatibilidad.",
+          "fr": "Les fragments d'ADN sont liés au vecteur en utilisant une enzyme de restriction différente de celle utilisée pour couper le vecteur, afin d'assurer la compatibilité.",
+          "de": "DNA-Fragmente werden mit einem anderen Restriktionsenzym als dem zum Schneiden des Vektors verwendeten in den Vektor ligiert, um die Kompatibilität zu gewährleisten.",
+          "ja": "DNA断片は、互換性を確保するために、ベクターを切断するのに使用されたものとは異なる制限酵素を使用してベクターに結合される。"
+        },
+        "feedback": {
+          "en": "The diagram explicitly states DNA fragments are 'cut by same restriction enzyme used on cloning vector'.",
+          "zh": "图示明确指出DNA片段是“使用与克隆载体相同的限制酶切割”的。",
+          "es": "El diagrama indica explícitamente que los fragmentos de ADN son 'cortados por la misma enzima de restricción utilizada en el vector de clonación'.",
+          "fr": "Le diagramme indique explicitement que les fragments d'ADN sont 'coupés par la même enzyme de restriction que celle utilisée sur le vecteur de clonage'.",
+          "de": "Das Diagramm besagt explizit, dass DNA-Fragmente 'mit demselben Restriktionsenzym geschnitten werden, das für den Klonierungsvektor verwendet wurde'.",
+          "ja": "図には、DNA断片が「クローニングベクターに使用されたのと同じ制限酵素で切断される」と明示されている。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Recombinant DNA plasmids are introduced into host cells, which then divide to form a cell clone.",
+          "zh": "重组DNA质粒被引入宿主细胞，然后宿主细胞分裂形成细胞克隆。",
+          "es": "Los plásmidos de ADN recombinante se introducen en células huésped, que luego se dividen para formar un clon celular.",
+          "fr": "Les plasmides d'ADN recombinant sont introduits dans les cellules hôtes, qui se divisent ensuite pour former un clone cellulaire.",
+          "de": "Rekombinante DNA-Plasmide werden in Wirtszellen eingebracht, die sich dann teilen, um einen Zellklon zu bilden.",
+          "ja": "組換えDNAプラスミドは宿主細胞に導入され、その後宿主細胞は分裂して細胞クローンを形成する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Expressing cloned eukaryotic genes in bacterial host cells is a straightforward process without significant challenges.",
+          "zh": "在细菌宿主细胞中表达克隆的真核基因是一个没有重大挑战的直接过程。",
+          "es": "La expresión de genes eucariotas clonados en células huésped bacterianas es un proceso sencillo sin desafíos significativos.",
+          "fr": "L'expression de gènes eucaryotes clonés dans des cellules hôtes bactériennes est un processus simple sans défis significatifs.",
+          "de": "Die Expression geklonter eukaryotischer Gene in bakteriellen Wirtszellen ist ein unkomplizierter Prozess ohne nennenswerte Herausforderungen.",
+          "ja": "クローン化された真核生物遺伝子を細菌宿主細胞で発現させるのは、大きな課題なしに直接的なプロセスである。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that 'Expressing cloned eukaryotic genes in bacterial host cells poses several technical difficulties.'",
+          "zh": "文本明确指出“在细菌宿主细胞中表达克隆的真核基因会带来一些技术难题”。",
+          "es": "El texto afirma explícitamente que 'la expresión de genes eucariotas clonados en células huésped bacterianas plantea varias dificultades técnicas'.",
+          "fr": "Le texte stipule explicitement que 'l'expression de gènes eucaryotes clonés dans des cellules hôtes bactériennes pose plusieurs difficultés techniques'.",
+          "de": "Der Text besagt explizit, dass 'die Expression geklonter eukaryotischer Gene in bakteriellen Wirtszellen mehrere technische Schwierigkeiten mit sich bringt'.",
+          "ja": "テキストには、「細菌宿主細胞におけるクローン化された真核生物遺伝子の発現は、いくつかの技術的な困難を伴う」と明示されている。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The diagram illustrates the process where recombinant DNA plasmids are formed and then introduced into host cells, which subsequently divide to create clones. The text confirms that recombinant plasmids are returned to host cells, each dividing to form a cell clone. Option A is incorrect because the diagram and text specify a bacterial plasmid as the cloning vector. Option B is incorrect because the diagram states the same restriction enzyme is used. Option D is incorrect as the text mentions 'several technical difficulties' in expressing eukaryotic genes in bacterial host cells.",
+      "zh": "图示描述了重组DNA质粒形成并被引入宿主细胞的过程，宿主细胞随后分裂形成克隆。文本证实了重组质粒被返回宿主细胞，每个细胞分裂形成细胞克隆。选项A不正确，因为图示和文本明确指出细菌质粒是克隆载体。选项B不正确，因为图示说明使用相同的限制酶。选项D不正确，因为文本提到在细菌宿主细胞中表达真核基因存在“一些技术难题”。",
+      "es": "El diagrama ilustra el proceso en el que se forman plásmidos de ADN recombinante y luego se introducen en células huésped, que posteriormente se dividen para crear clones. El texto confirma que los plásmidos recombinantes se devuelven a las células huésped, dividiéndose cada una para formar un clon celular. La opción A es incorrecta porque el diagrama y el texto especifican un plásmido bacteriano como vector de clonación. La opción B es incorrecta porque el diagrama indica que se utiliza la misma enzima de restricción. La opción D es incorrecta ya que el texto menciona 'varias dificultades técnicas' al expresar genes eucariotas en células huésped bacterianas.",
+      "fr": "Le diagramme illustre le processus par lequel des plasmides d'ADN recombinant sont formés puis introduits dans des cellules hôtes, qui se divisent ensuite pour créer des clones. Le texte confirme que les plasmides recombinants sont réintroduits dans les cellules hôtes, chacune se divisant pour former un clone cellulaire. L'option A est incorrecte car le diagramme et le texte spécifient qu'un plasmide bactérien est le vecteur de clonage. L'option B est incorrecte car le diagramme indique que la même enzyme de restriction est utilisée. L'option D est incorrecte car le texte mentionne 'plusieurs difficultés techniques' pour l'expression de gènes eucaryotes dans les cellules hôtes bactériennes.",
+      "de": "Das Diagramm veranschaulicht den Prozess, bei dem rekombinante DNA-Plasmide gebildet und dann in Wirtszellen eingebracht werden, die sich anschließend teilen, um Klone zu erzeugen. Der Text bestätigt, dass rekombinante Plasmide in Wirtszellen zurückgeführt werden, wobei sich jede teilt, um einen Zellklon zu bilden. Option A ist falsch, da das Diagramm und der Text ein bakterielles Plasmid als Klonierungsvektor angeben. Option B ist falsch, da das Diagramm besagt, dass dasselbe Restriktionsenzym verwendet wird. Option D ist falsch, da der Text 'mehrere technische Schwierigkeiten' bei der Expression eukaryotischer Gene in bakteriellen Wirtszellen erwähnt.",
+      "ja": "図は、組換えDNAプラスミドが形成され、その後宿主細胞に導入され、宿主細胞が分裂してクローンを形成するプロセスを示しています。テキストは、組換えプラスミドが宿主細胞に戻され、それぞれが分裂して細胞クローンを形成することを確認しています。オプションAは、図とテキストがクローニングベクターとして細菌プラスミドを特定しているため誤りです。オプションBは、図が同じ制限酵素が使用されると述べているため誤りです。オプションDは、テキストが細菌宿主細胞における真核生物遺伝子の発現に「いくつかの技術的な困難」があると述べているため誤りです。"
+    }
+  },
+  {
+    "page_number": 489,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements about the practical applications of DNA-based biotechnology is **incorrect** according to the provided text?",
+      "zh": "根据提供的文本，以下关于基于DNA的生物技术的实际应用的陈述哪一项是**不正确**的？",
+      "es": "Según el texto proporcionado, ¿cuál de las siguientes afirmaciones sobre las aplicaciones prácticas de la biotecnología basada en ADN es **incorrecta**?",
+      "fr": "Selon le texte fourni, quelle affirmation suivante concernant les applications pratiques de la biotechnologie basée sur l'ADN est **incorrecte** ?",
+      "de": "Welche der folgenden Aussagen über die praktischen Anwendungen der DNA-basierten Biotechnologie ist laut dem bereitgestellten Text **falsch**?",
+      "ja": "提供されたテキストによると、DNAベースのバイオテクノロジーの実用的な応用に関する以下の記述のうち、**正しくない**ものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "DNA technology, including SNP analysis, is used for personalized medicine, aiding in disease diagnosis and risk minimization.",
+          "zh": "DNA技术，包括SNP分析，被用于个性化医疗，辅助疾病诊断和风险最小化。",
+          "es": "La tecnología del ADN, incluido el análisis de SNP, se utiliza para la medicina personalizada, ayudando en el diagnóstico de enfermedades y la minimización de riesgos.",
+          "fr": "La technologie de l'ADN, y compris l'analyse des SNP, est utilisée pour la médecine personnalisée, aidant au diagnostic des maladies et à la minimisation des risques.",
+          "de": "Die DNA-Technologie, einschließlich der SNP-Analyse, wird für die personalisierte Medizin eingesetzt, um die Krankheitsdiagnose und Risikominimierung zu unterstützen.",
+          "ja": "SNP解析を含むDNA技術は、疾患診断とリスク最小化を支援するパーソナライズ医療に用いられている。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Genetic profiling through the analysis of short tandem repeats (STRs) in DNA is mainly applied in forensic investigations and identifying crime victims.",
+          "zh": "通过分析DNA中短串联重复序列（STRs）进行的基因图谱分析主要应用于法医调查和识别犯罪受害者。",
+          "es": "El perfil genético mediante el análisis de repeticiones cortas en tándem (STR) en el ADN se aplica principalmente en investigaciones forenses y la identificación de víctimas de delitos.",
+          "fr": "Le profilage génétique par l'analyse des répétitions courtes en tandem (STR) dans l'ADN est principalement appliqué dans les enquêtes médico-légales et l'identification des victimes de crimes.",
+          "de": "Die Erstellung genetischer Profile durch die Analyse kurzer Tandem-Wiederholungen (STRs) in der DNA wird hauptsächlich in forensischen Untersuchungen und zur Identifizierung von Kriminalitätsopfern eingesetzt.",
+          "ja": "DNA中の短鎖縦列反復配列（STR）の解析による遺伝子プロファイリングは、主に法医学捜査や犯罪被害者の特定に適用される。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Gene therapy with systems like CRISPR-Cas9 is being explored for potentially permanent cures for genetic disorders.",
+          "zh": "利用CRISPR-Cas9等系统的基因治疗正在探索中，以期为遗传性疾病提供潜在的永久性治愈方案。",
+          "es": "La terapia génica con sistemas como CRISPR-Cas9 se está explorando para posibles curas permanentes de trastornos genéticos.",
+          "fr": "La thérapie génique avec des systèmes comme CRISPR-Cas9 est explorée pour des cures potentiellement permanentes des troubles génétiques.",
+          "de": "Gentherapie mit Systemen wie CRISPR-Cas9 wird für potenziell dauerhafte Heilmethoden für genetische Erkrankungen erforscht.",
+          "ja": "CRISPR-Cas9のようなシステムを用いた遺伝子治療は、遺伝性疾患の恒久的な治療法として探求されている。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Transgenic 'pharm' animals are primarily developed for improving agricultural productivity and food quality, rather than producing therapeutic proteins.",
+          "zh": "转基因“制药”动物的开发主要用于提高农业生产力和食品质量，而非生产治疗性蛋白质。",
+          "es": "Los animales transgénicos 'farmacéuticos' se desarrollan principalmente para mejorar la productividad agrícola y la calidad de los alimentos, en lugar de producir proteínas terapéuticas.",
+          "fr": "Les animaux 'pharm' transgéniques sont principalement développés pour améliorer la productivité agricole et la qualité alimentaire, plutôt que pour produire des protéines thérapeutiques.",
+          "de": "Transgene „Pharma“-Tiere werden hauptsächlich zur Verbesserung der landwirtschaftlichen Produktivität und Lebensmittelqualität entwickelt, anstatt therapeutische Proteine zu produzieren.",
+          "ja": "遺伝子組み換え「ファーム」動物は、治療用タンパク質の生産よりも、主に農業生産性と食品品質の向上を目的として開発されている。"
+        },
+        "feedback": {
+          "en": "The text states that 'Some therapeutic proteins are being produced in transgenic 'pharm' animals,' indicating their use for protein production. Agricultural improvement is mentioned for transgenic plants and animals generally, but 'pharm' animals are specifically for therapeutic proteins.",
+          "zh": "文本指出“一些治疗性蛋白质正在转基因‘制药’动物中生产”，这表明它们用于蛋白质生产。农业改良是普遍针对转基因植物和动物而言，而“制药”动物是专门用于治疗性蛋白质的。",
+          "es": "El texto afirma que 'se están produciendo algunas proteínas terapéuticas en animales transgénicos 'farmacéuticos', lo que indica su uso para la producción de proteínas. La mejora agrícola se menciona para plantas y animales transgénicos en general, pero los animales 'farmacéuticos' son específicamente para proteínas terapéuticas.",
+          "fr": "Le texte indique que 'certaines protéines thérapeutiques sont produites chez des animaux transgéniques 'pharm'', ce qui souligne leur utilisation pour la production de protéines. L'amélioration agricole est mentionnée pour les plantes et animaux transgéniques en général, mais les animaux 'pharm' sont spécifiquement destinés aux protéines thérapeutiques.",
+          "de": "Der Text besagt, dass 'einige therapeutische Proteine in transgenen „Pharma“-Tieren hergestellt werden', was deren Verwendung zur Proteinherstellung anzeigt. Die Verbesserung der Landwirtschaft wird allgemein für transgene Pflanzen und Tiere erwähnt, aber „Pharma“-Tiere sind spezifisch für therapeutische Proteine bestimmt.",
+          "ja": "テキストには、「一部の治療用タンパク質は遺伝子組み換え「ファーム」動物で生産されている」とあり、これはタンパク質生産のための使用を示しています。農業改善は一般的に遺伝子組み換え植物や動物について言及されていますが、「ファーム」動物は特に治療用タンパク質のためにあります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "Option D is incorrect because the text explicitly states that transgenic 'pharm' animals are used for the large-scale production of therapeutic proteins, not primarily for agricultural productivity or food quality. The other options accurately reflect information provided in the text regarding DNA technology applications.",
+      "zh": "选项D不正确，因为文本明确指出转基因“制药”动物用于大规模生产治疗性蛋白质，而非主要用于提高农业生产力或食品质量。其他选项准确反映了文本中关于DNA技术应用的信息。",
+      "es": "La opción D es incorrecta porque el texto establece explícitamente que los animales transgénicos 'farmacéuticos' se utilizan para la producción a gran escala de proteínas terapéuticas, no principalmente para la productividad agrícola o la calidad de los alimentos. Las otras opciones reflejan con precisión la información proporcionada en el texto sobre las aplicaciones de la tecnología del ADN.",
+      "fr": "L'option D est incorrecte car le texte stipule explicitement que les animaux 'pharm' transgéniques sont utilisés pour la production à grande échelle de protéines thérapeutiques, et non principalement pour la productivité agricole ou la qualité alimentaire. Les autres options reflètent fidèlement les informations fournies dans le texte concernant les applications de la technologie de l'ADN.",
+      "de": "Option D ist falsch, da der Text explizit besagt, dass transgene „Pharma“-Tiere zur großtechnischen Produktion therapeutischer Proteine eingesetzt werden und nicht primär zur Verbesserung der landwirtschaftlichen Produktivität oder Lebensmittelqualität. Die anderen Optionen spiegeln die im Text bereitgestellten Informationen zu den Anwendungen der DNA-Technologie genau wider.",
+      "ja": "オプションDは誤りです。テキストには、遺伝子組み換え「ファーム」動物が、主に農業生産性や食品品質の向上ではなく、治療用タンパク質の大規模生産のために使用されると明記されています。他の選択肢は、DNA技術の応用に関するテキストの情報と正確に一致しています。"
+    }
+  },
+  {
+    "page_number": 489,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the information provided regarding stem cells and cloned organisms, which of the following statements is true?",
+      "zh": "根据提供的关于干细胞和克隆生物的信息，以下哪项陈述是正确的？",
+      "es": "Según la información proporcionada sobre células madre y organismos clonados, ¿cuál de las siguientes afirmaciones es verdadera?",
+      "fr": "Selon les informations fournies concernant les cellules souches et les organismes clonés, quelle affirmation est vraie ?",
+      "de": "Basierend auf den bereitgestellten Informationen zu Stammzellen und geklonten Organismen, welche der folgenden Aussagen ist wahr?",
+      "ja": "提供された幹細胞とクローン生物に関する情報に基づいて、以下の記述のうち正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Totipotent plant cells can only differentiate into a limited range of specialized tissues, not an entire plant.",
+          "zh": "全能性植物细胞只能分化成有限范围的特化组织，而不能形成整个植物。",
+          "es": "Las células vegetales totipotentes solo pueden diferenciarse en un rango limitado de tejidos especializados, no en una planta completa.",
+          "fr": "Les cellules végétales totipotentes ne peuvent se différencier que dans une gamme limitée de tissus spécialisés, et non une plante entière.",
+          "de": "Totipotente Pflanzenzellen können sich nur in eine begrenzte Anzahl spezialisierter Gewebe differenzieren, nicht in eine ganze Pflanze.",
+          "ja": "全能性植物細胞は、限られた範囲の特殊化された組織にのみ分化でき、植物全体を形成することはできない。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that totipotent plant cells are 'capable of generating all the tissues of a complete new plant.'",
+          "zh": "文本明确指出全能性植物细胞“能够生成一个完整新植物的所有组织”。",
+          "es": "El texto afirma explícitamente que las células vegetales totipotentes son 'capaces de generar todos los tejidos de una planta nueva completa'.",
+          "fr": "Le texte stipule explicitement que les cellules végétales totipotentes sont 'capables de générer tous les tissus d'une nouvelle plante complète'.",
+          "de": "Der Text besagt explizit, dass totipotente Pflanzenzellen 'in der Lage sind, alle Gewebe einer vollständigen neuen Pflanze zu generieren'.",
+          "ja": "テキストには、全能性植物細胞が「完全な新しい植物のすべての組織を生成する能力がある」と明記されている。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Embryonic stem (ES) cells are readily available and widely used in medical research due to their ease of acquisition.",
+          "zh": "胚胎干细胞（ES细胞）易于获取，因其易于获得而在医学研究中广泛使用。",
+          "es": "Las células madre embrionarias (células ES) están fácilmente disponibles y son ampliamente utilizadas en la investigación médica debido a su facilidad de adquisición.",
+          "fr": "Les cellules souches embryonnaires (cellules ES) sont facilement disponibles et largement utilisées dans la recherche médicale en raison de leur facilité d'acquisition.",
+          "de": "Embryonale Stammzellen (ES-Zellen) sind leicht verfügbar und aufgrund ihrer einfachen Beschaffung in der medizinischen Forschung weit verbreitet.",
+          "ja": "胚性幹細胞（ES細胞）は容易に入手でき、その入手しやすさから医学研究で広く利用されている。"
+        },
+        "feedback": {
+          "en": "The text mentions that ES cells are 'pluripotent but difficult to acquire.'",
+          "zh": "文本提到ES细胞“具有多能性但难以获取”。",
+          "es": "El texto menciona que las células ES son 'pluripotentes pero difíciles de adquirir'.",
+          "fr": "Le texte mentionne que les cellules ES sont 'pluripotentes mais difficiles à acquérir'.",
+          "de": "Der Text erwähnt, dass ES-Zellen 'pluripotent, aber schwer zu beschaffen sind'.",
+          "ja": "テキストには、ES細胞が「多能性を持つが、入手が難しい」と記載されている。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Induced pluripotent stem (iPS) cells are differentiated cells that are genetically reprogrammed to exhibit properties similar to embryonic stem cells.",
+          "zh": "诱导多能干细胞（iPS细胞）是经过基因重编程的分化细胞，以表现出与胚胎干细胞相似的特性。",
+          "es": "Las células madre pluripotentes inducidas (células iPS) son células diferenciadas que han sido reprogramadas genéticamente para exhibir propiedades similares a las células madre embrionarias.",
+          "fr": "Les cellules souches pluripotentes induites (cellules iPS) sont des cellules différenciées qui sont génétiquement reprogrammées pour présenter des propriétés similaires aux cellules souches embryonnaires.",
+          "de": "Induzierte pluripotente Stammzellen (iPS-Zellen) sind differenzierte Zellen, die genetisch umprogrammiert wurden, um Eigenschaften ähnlich denen embryonaler Stammzellen aufzuweisen.",
+          "ja": "人工多能性幹細胞（iPS細胞）は、胚性幹細胞に似た特性を示すように遺伝的に再プログラム化された分化細胞である。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Organismal cloning, such as through nuclear transplantation, primarily aims to produce isolated stem cell lines for therapeutic purposes.",
+          "zh": "整体克隆，例如通过核移植，主要目的是生产用于治疗目的的孤立干细胞系。",
+          "es": "La clonación de organismos, como a través del trasplante nuclear, tiene como objetivo principal producir líneas de células madre aisladas con fines terapéuticos.",
+          "fr": "Le clonage d'organismes, tel que par transplantation nucléaire, vise principalement à produire des lignées de cellules souches isolées à des fins thérapeutiques.",
+          "de": "Das organismische Klonen, z.B. durch Kerntransplantation, zielt primär darauf ab, isolierte Stammzelllinien für therapeutische Zwecke zu produzieren.",
+          "ja": "核移植などによる個体クローニングは、主に治療目的の分離された幹細胞株を生産することを目的としている。"
+        },
+        "feedback": {
+          "en": "The text describes nuclear transplantation as giving rise to 'a new animal,' implying whole organism cloning, not just stem cell line production.",
+          "zh": "文本描述核移植可“产生一个新的动物”，这意味着是整体克隆，而不仅仅是生产干细胞系。",
+          "es": "El texto describe el trasplante nuclear como la generación de 'un nuevo animal', lo que implica la clonación de organismos completos, no solo la producción de líneas de células madre.",
+          "fr": "Le texte décrit la transplantation nucléaire comme donnant naissance à 'un nouvel animal', impliquant le clonage d'organismes entiers, et non seulement la production de lignées de cellules souches.",
+          "de": "Der Text beschreibt die Kerntransplantation als Methode zur Erzeugung 'eines neuen Tieres', was das Klonen ganzer Organismen impliziert, nicht nur die Produktion von Stammzelllinien.",
+          "ja": "テキストでは、核移植が「新しい動物」を生み出すと説明されており、これは単なる幹細胞株の生産ではなく、個体全体のクローニングを意味している。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Option C accurately describes iPS cells as differentiated cells reprogrammed to resemble ES cells, which is consistent with the text. Option A is incorrect because totipotent plant cells can generate a complete new plant. Option B is incorrect because the text states ES cells are difficult to acquire. Option D is incorrect as nuclear transplantation is described as leading to a new animal, referring to organismal cloning.",
+      "zh": "选项C准确描述了iPS细胞是经过重编程以模仿ES细胞的分化细胞，这与文本一致。选项A不正确，因为全能性植物细胞能够生成一个完整的新植物。选项B不正确，因为文本指出ES细胞难以获取。选项D不正确，因为核移植被描述为能产生一个新的动物，指的是整体克隆。",
+      "es": "La opción C describe con precisión las células iPS como células diferenciadas reprogramadas para parecerse a las células ES, lo cual es consistente con el texto. La opción A es incorrecta porque las células vegetales totipotentes pueden generar una planta nueva completa. La opción B es incorrecta porque el texto afirma que las células ES son difíciles de adquirir. La opción D es incorrecta ya que el trasplante nuclear se describe como algo que da lugar a un nuevo animal, refiriéndose a la clonación de organismos.",
+      "fr": "L'option C décrit avec précision les cellules iPS comme des cellules différenciées reprogrammées pour ressembler aux cellules ES, ce qui est cohérent avec le texte. L'option A est incorrecte car les cellules végétales totipotentes peuvent générer une nouvelle plante complète. L'option B est incorrecte car le texte indique que les cellules ES sont difficiles à acquérir. L'option D est incorrecte car la transplantation nucléaire est décrite comme menant à un nouvel animal, faisant référence au clonage d'organismes.",
+      "de": "Option C beschreibt iPS-Zellen präzise als differenzierte Zellen, die umprogrammiert wurden, um ES-Zellen zu ähneln, was mit dem Text übereinstimmt. Option A ist falsch, da totipotente Pflanzenzellen eine vollständige neue Pflanze generieren können. Option B ist falsch, da der Text besagt, dass ES-Zellen schwer zu beschaffen sind. Option D ist falsch, da die Kerntransplantation als Methode zur Erzeugung eines neuen Tieres beschrieben wird und sich auf das organismische Klonen bezieht.",
+      "ja": "オプションCは、iPS細胞がES細胞に似た特性を示すように再プログラム化された分化細胞であると正確に記述しており、これはテキストと一致しています。オプションAは、全能性植物細胞が完全な新しい植物を生成できるため誤りです。オプションBは、テキストにES細胞が入手困難であると記載されているため誤りです。オプションDは、核移植が新しい動物を生み出すと説明されており、個体クローニングを指しているため誤りです。"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the chromosome theory of inheritance, what is the physical basis for Mendel's law of segregation and law of independent assortment?",
+      "zh": "根据遗传的染色体学说，孟德尔的分离定律和自由组合定律的物理基础是什么？",
+      "es": "Según la teoría cromosómica de la herencia, ¿cuál es la base física de la ley de la segregación y la ley de la distribución independiente de Mendel?",
+      "fr": "Selon la théorie chromosomique de l'hérédité, quelle est la base physique de la loi de la ségrégation et de la loi de l'assortiment indépendant de Mendel ?",
+      "de": "Was ist nach der Chromosomentheorie der Vererbung die physikalische Grundlage für das Mendelsche Spaltungsgesetz und das Gesetz der unabhängigen Verteilung?",
+      "ja": "遺伝の染色体説によると、メンデルの分離の法則と独立の法則の物理的基礎は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The behavior of genes during fertilization.",
+          "zh": "受精过程中基因的行为。",
+          "es": "El comportamiento de los genes durante la fertilización.",
+          "fr": "Le comportement des gènes pendant la fécondation.",
+          "de": "Das Verhalten von Genen während der Befruchtung.",
+          "ja": "受精中の遺伝子の振る舞い。"
+        },
+        "feedback": {
+          "en": "Fertilization restores the paired condition of genes and chromosomes, but segregation and assortment happen during meiosis, before fertilization.",
+          "zh": "受精恢复了基因和染色体的成对状态，但分离和自由组合发生在受精之前的减数分裂过程中。",
+          "es": "La fertilización restaura la condición de pares de genes y cromosomas, pero la segregación y la distribución ocurren durante la meiosis, antes de la fertilización.",
+          "fr": "La fécondation restaure l'état apparié des gènes et des chromosomes, mais la ségrégation et l'assortiment se produisent pendant la méiose, avant la fécondation.",
+          "de": "Die Befruchtung stellt den gepaarten Zustand von Genen und Chromosomen wieder her, aber die Segregation und die unabhängige Verteilung finden während der Meiose vor der Befruchtung statt.",
+          "ja": "受精は遺伝子と染色体の対の状態を回復させますが、分離と独立の法則は受精前の減数分裂中に起こります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The behavior of chromosomes during meiosis.",
+          "zh": "减数分裂过程中染色体的行为。",
+          "es": "El comportamiento de los cromosomas durante la meiosis.",
+          "fr": "Le comportement des chromosomes pendant la méiose.",
+          "de": "Das Verhalten von Chromosomen während der Meiose.",
+          "ja": "減数分裂中の染色体の振る舞い。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The random mutation of alleles.",
+          "zh": "等位基因的随机突变。",
+          "es": "La mutación aleatoria de los alelos.",
+          "fr": "La mutation aléatoire des allèles.",
+          "de": "Die zufällige Mutation von Allelen.",
+          "ja": "対立遺伝子のランダムな突然変異。"
+        },
+        "feedback": {
+          "en": "Mutation creates new alleles but does not explain the predictable ratios of inheritance for existing alleles.",
+          "zh": "突变创造了新的等位基因，但不能解释现有等位基因的可预测的遗传比率。",
+          "es": "La mutación crea nuevos alelos pero no explica las proporciones predecibles de herencia para los alelos existentes.",
+          "fr": "La mutation crée de nouveaux allèles mais n'explique pas les rapports d'hérédité prévisibles pour les allèles existants.",
+          "de": "Mutation erzeugt neue Allele, erklärt aber nicht die vorhersagbaren Vererbungsverhältnisse für bestehende Allele.",
+          "ja": "突然変異は新しい対立遺伝子を作り出しますが、既存の対立遺伝子の予測可能な遺伝の比率を説明するものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The notation system for dominant and recessive traits.",
+          "zh": "显性和隐性性状的符号系统。",
+          "es": "El sistema de notación para rasgos dominantes y recesivos.",
+          "fr": "Le système de notation pour les caractères dominants et récessifs.",
+          "de": "Das Notationssystem für dominante und rezessive Merkmale.",
+          "ja": "優性および劣性形質の表記法。"
+        },
+        "feedback": {
+          "en": "The notation is a human-made convention for representing the concepts; it is not the biological mechanism itself.",
+          "zh": "符号是人为设定的用于表示概念的惯例，它本身不是生物学机制。",
+          "es": "La notación es una convención creada por el hombre para representar los conceptos; no es el mecanismo biológico en sí.",
+          "fr": "La notation est une convention humaine pour représenter les concepts ; ce n'est pas le mécanisme biologique lui-même.",
+          "de": "Die Notation ist eine von Menschen geschaffene Konvention zur Darstellung der Konzepte; sie ist nicht der biologische Mechanismus selbst.",
+          "ja": "表記法は概念を表すために人間が作った慣習であり、生物学的なメカニズムそのものではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text explicitly states that the chromosome theory of inheritance proposes that 'it is the chromosomes that undergo segregation and independent assortment.' The separation of homologous chromosomes in meiosis I accounts for the segregation of alleles, and the random alignment of these pairs at the metaphase plate accounts for independent assortment.",
+      "zh": "文本明确指出，遗传的染色体学说提出“是染色体经历了分离和自由组合”。减数分裂 I 中同源染色体的分离解释了等位基因的分离，而这些染色体对在中期板上的随机排列解释了自由组合。",
+      "es": "El texto establece explícitamente que la teoría cromosómica de la herencia propone que 'son los cromosomas los que sufren segregación y distribución independiente'. La separación de los cromosomas homólogos en la meiosis I explica la segregación de los alelos, y la alineación aleatoria de estos pares en la placa metafásica explica la distribución independiente.",
+      "fr": "Le texte déclare explicitement que la théorie chromosomique de l'hérédité propose que « ce sont les chromosomes qui subissent la ségrégation et l'assortiment indépendant ». La séparation des chromosomes homologues lors de la méiose I explique la ségrégation des allèles, et l'alignement aléatoire de ces paires sur la plaque métaphasique explique l'assortiment indépendant.",
+      "de": "Der Text besagt ausdrücklich, dass die Chromosomentheorie der Vererbung postuliert, dass „es die Chromosomen sind, die Segregation und unabhängige Verteilung durchlaufen.“ Die Trennung homologer Chromosomen in der Meiose I erklärt die Segregation von Allelen, und die zufällige Anordnung dieser Paare an der Metaphaseplatte erklärt die unabhängige Verteilung.",
+      "ja": "本文では、遺伝の染色体説は「分離と独立の法則を経験するのは染色体である」と提案していると明確に述べられています。減数分裂Iにおける相同染色体の分離は対立遺伝子の分離を説明し、中期板でのこれらの対のランダムな整列は独立の法則を説明します。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following was NOT a reason Thomas Hunt Morgan chose the fruit fly, Drosophila melanogaster, as an experimental organism?",
+      "zh": "以下哪项不是托马斯·亨特·摩尔根选择果蝇作为实验生物的原因？",
+      "es": "¿Cuál de las siguientes no fue una razón por la que Thomas Hunt Morgan eligió la mosca de la fruta, Drosophila melanogaster, como organismo experimental?",
+      "fr": "Laquelle des raisons suivantes n'est PAS une raison pour laquelle Thomas Hunt Morgan a choisi la mouche des fruits, Drosophila melanogaster, comme organisme expérimental ?",
+      "de": "Welcher der folgenden Gründe war KEIN Grund für Thomas Hunt Morgan, die Fruchtfliege Drosophila melanogaster als Versuchsorganismus zu wählen?",
+      "ja": "トーマス・ハント・モーガンが実験生物としてショウジョウバエを選んだ理由として、次のうちどれが当てはまりませんか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They have a short generation time (two weeks).",
+          "zh": "它们的世代时间短（两周）。",
+          "es": "Tienen un tiempo de generación corto (dos semanas).",
+          "fr": "Ils ont un temps de génération court (deux semaines).",
+          "de": "Sie haben eine kurze Generationszeit (zwei Wochen).",
+          "ja": "世代時間が短い（2週間）。"
+        },
+        "feedback": {
+          "en": "This is a key advantage mentioned in the text, allowing for rapid genetic studies.",
+          "zh": "这是文本中提到的一个关键优势，可以进行快速的遗传学研究。",
+          "es": "Esta es una ventaja clave mencionada en el texto, que permite estudios genéticos rápidos.",
+          "fr": "C'est un avantage clé mentionné dans le texte, permettant des études génétiques rapides.",
+          "de": "Dies ist ein entscheidender Vorteil, der im Text erwähnt wird und schnelle genetische Studien ermöglicht.",
+          "ja": "これは、迅速な遺伝学的研究を可能にする、本文で言及されている重要な利点です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A single mating produces hundreds of offspring.",
+          "zh": "一次交配能产生数百个后代。",
+          "es": "Un solo apareamiento produce cientos de crías.",
+          "fr": "Un seul accouplement produit des centaines de descendants.",
+          "de": "Eine einzige Paarung bringt Hunderte von Nachkommen hervor.",
+          "ja": "1回の交配で数百匹の子孫が生まれる。"
+        },
+        "feedback": {
+          "en": "This is another major advantage listed, providing large sample sizes for statistical analysis.",
+          "zh": "这是列出的另一个主要优势，为统计分析提供了大的样本量。",
+          "es": "Esta es otra ventaja importante enumerada, que proporciona grandes tamaños de muestra para el análisis estadístico.",
+          "fr": "C'est un autre avantage majeur énuméré, fournissant de grandes tailles d'échantillons pour l'analyse statistique.",
+          "de": "Dies ist ein weiterer wichtiger Vorteil, der große Stichprobengrößen für die statistische Analyse liefert.",
+          "ja": "これは、統計分析のための大きなサンプルサイズを提供する、記載されているもう1つの大きな利点です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They have only four pairs of chromosomes.",
+          "zh": "它们只有四对染色体。",
+          "es": "Solo tienen cuatro pares de cromosomas.",
+          "fr": "Ils n'ont que quatre paires de chromosomes.",
+          "de": "Sie haben nur vier Chromosomenpaare.",
+          "ja": "染色体は4対しかない。"
+        },
+        "feedback": {
+          "en": "This is also a listed advantage, as it simplifies the process of linking genes to specific chromosomes.",
+          "zh": "这也是一个列出的优势，因为它简化了将基因与特定染色体联系起来的过程。",
+          "es": "Esta es también una ventaja enumerada, ya que simplifica el proceso de vincular genes a cromosomas específicos.",
+          "fr": "C'est également un avantage énuméré, car cela simplifie le processus de liaison des gènes à des chromosomes spécifiques.",
+          "de": "Dies ist auch ein aufgeführter Vorteil, da es den Prozess der Verknüpfung von Genen mit bestimmten Chromosomen vereinfacht.",
+          "ja": "これも記載されている利点であり、遺伝子を特定の染色体に連鎖させるプロセスを簡素化します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Many different mutant varieties were readily available.",
+          "zh": "有许多不同的突变体品种可供随时获取。",
+          "es": "Muchas variedades mutantes diferentes estaban fácilmente disponibles.",
+          "fr": "De nombreuses variétés mutantes différentes étaient facilement disponibles.",
+          "de": "Viele verschiedene mutierte Sorten waren leicht verfügbar.",
+          "ja": "多くの異なる突然変異品種が容易に入手できた。"
+        }
+      }
+    ],
+    "correct_answers": ["D"],
+    "explanation": {
+      "en": "The text explicitly contrasts Morgan's situation with Mendel's. It states, 'While Mendel could readily obtain different pea varieties from seed suppliers, Morgan was probably the first person to want different varieties of the fruit fly.' This means he had to find the mutants himself, which was a tedious task, not a pre-existing advantage.",
+      "zh": "文本明确地将摩尔根的情况与孟德尔进行了对比。它指出：“孟德尔可以随时从种子供应商那里获得不同的豌豆品种，而摩尔根可能是第一个想要不同果蝇品种的人。” 这意味着他必须自己寻找突变体，这是一项乏味的任务，而不是一个已有的优势。",
+      "es": "El texto contrasta explícitamente la situación de Morgan con la de Mendel. Dice: 'Mientras que Mendel podía obtener fácilmente diferentes variedades de guisantes de los proveedores de semillas, Morgan fue probablemente la primera persona en querer diferentes variedades de la mosca de la fruta'. Esto significa que tuvo que encontrar los mutantes él mismo, lo cual fue una tarea tediosa, no una ventaja preexistente.",
+      "fr": "Le texte oppose explicitement la situation de Morgan à celle de Mendel. Il déclare : « Alors que Mendel pouvait facilement obtenir différentes variétés de pois auprès des fournisseurs de semences, Morgan était probablement la première personne à vouloir différentes variétés de la mouche des fruits ». Cela signifie qu'il a dû trouver les mutants lui-même, ce qui était une tâche fastidieuse, et non un avantage préexistant.",
+      "de": "Der Text stellt Morgans Situation ausdrücklich der von Mendel gegenüber. Er besagt: „Während Mendel leicht verschiedene Erbsensorten von Saatgutanbietern beziehen konnte, war Morgan wahrscheinlich die erste Person, die verschiedene Sorten der Fruchtfliege wollte.“ Das bedeutet, dass er die Mutanten selbst finden musste, was eine mühsame Aufgabe war und kein bereits bestehender Vorteil.",
+      "ja": "本文はモーガンの状況をメンデルの状況と明確に対比させています。「メンデルは種子供給業者からさまざまなエンドウ豆の品種を容易に入手できましたが、モーガンはおそらくさまざまな種類のショウジョウバエを望んだ最初の人物でした。」これは、彼が自分で突然変異体を見つけなければならなかったことを意味し、それは既存の利点ではなく、退屈な作業でした。"
+    }
+  },
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "In the fruit fly gene notation system developed by Morgan, what does a superscript '+' (e.g., in w+) signify?",
+      "zh": "在摩尔根开发的果蝇基因符号系统中，上标“+”（例如在 w+ 中）表示什么？",
+      "es": "En el sistema de notación de genes de la mosca de la fruta desarrollado por Morgan, ¿qué significa un superíndice '+' (p. ej., en w+)?",
+      "fr": "Dans le système de notation des gènes de la mouche des fruits développé par Morgan, que signifie un exposant « + » (par exemple, dans w+) ?",
+      "de": "Was bedeutet im von Morgan entwickelten Gen-Notationssystem für Fruchtfliegen ein hochgestelltes „+“ (z. B. in w+)?",
+      "ja": "モーガンによって開発されたショウジョウバエの遺伝子表記法では、上付き文字「+」（例：w+）は何を意味しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A dominant allele",
+          "zh": "一个显性等位基因",
+          "es": "Un alelo dominante",
+          "fr": "Un allèle dominant",
+          "de": "Ein dominantes Allel",
+          "ja": "優性対立遺伝子"
+        },
+        "feedback": {
+          "en": "While the wild-type allele is often dominant (as in the case of red eyes), the '+' specifically denotes the wild-type status, not its dominance relationship, which must be determined by experiment.",
+          "zh": "虽然野生型等位基因通常是显性的（如红眼的情况），但“+”专门表示野生型状态，而不是其显隐性关系，后者必须通过实验来确定。",
+          "es": "Si bien el alelo de tipo salvaje suele ser dominante (como en el caso de los ojos rojos), el '+' denota específicamente el estado de tipo salvaje, no su relación de dominancia, que debe determinarse mediante un experimento.",
+          "fr": "Bien que l'allèle de type sauvage soit souvent dominant (comme dans le cas des yeux rouges), le « + » désigne spécifiquement le statut de type sauvage, et non sa relation de dominance, qui doit être déterminée par l'expérience.",
+          "de": "Obwohl das Wildtyp-Allel oft dominant ist (wie im Fall der roten Augen), bezeichnet das „+“ speziell den Wildtyp-Status, nicht sein Dominanzverhältnis, das experimentell bestimmt werden muss.",
+          "ja": "野生型対立遺伝子はしばしば優性ですが（赤い目の場合のように）、「+」は特に野生型であることを示し、その優性関係を示すものではありません。優性関係は実験によって決定されなければなりません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A recessive allele",
+          "zh": "一个隐性等位基因",
+          "es": "Un alelo recesivo",
+          "fr": "Un allèle récessif",
+          "de": "Ein rezessives Allel",
+          "ja": "劣性対立遺伝子"
+        },
+        "feedback": {
+          "en": "The symbol for the recessive allele is typically the lowercase letter(s) of the gene name, without a superscript '+'.",
+          "zh": "隐性等位基因的符号通常是基因名称的小写字母，不带上标“+”。",
+          "es": "El símbolo del alelo recesivo suele ser la(s) letra(s) minúscula(s) del nombre del gen, sin un superíndice '+'.",
+          "fr": "Le symbole de l'allèle récessif est généralement la ou les lettres minuscules du nom du gène, sans exposant « + ».",
+          "de": "Das Symbol für das rezessive Allel ist typischerweise der/die Kleinbuchstabe(n) des Gennamens ohne ein hochgestelltes „+“.",
+          "ja": "劣性対立遺伝子の記号は、通常、上付き文字「+」なしの遺伝子名の小文字です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The allele for the wild-type trait",
+          "zh": "野生型性状的等位基因",
+          "es": "El alelo para el rasgo de tipo salvaje",
+          "fr": "L'allèle pour le caractère de type sauvage",
+          "de": "Das Allel für das Wildtyp-Merkmal",
+          "ja": "野生型形質の対立遺伝子"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A gene located on the X chromosome",
+          "zh": "位于 X 染色体上的基因",
+          "es": "Un gen ubicado en el cromosoma X",
+          "fr": "Un gène situé sur le chromosome X",
+          "de": "Ein Gen auf dem X-Chromosom",
+          "ja": "X染色体上にある遺伝子"
+        },
+        "feedback": {
+          "en": "This notation system does not, by itself, indicate the chromosomal location of the gene.",
+          "zh": "这个符号系统本身并不表示基因的染色体位置。",
+          "es": "Este sistema de notación no indica, por sí mismo, la ubicación cromosómica del gen.",
+          "fr": "Ce système de notation n'indique pas, en lui-même, l'emplacement chromosomique du gène.",
+          "de": "Dieses Notationssystem gibt an sich nicht den chromosomalen Ort des Gens an.",
+          "ja": "この表記法自体は、遺伝子の染色体上の位置を示すものではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text clearly explains the notation: 'A superscript + identifies the allele for the wild-type trait: w+ for the allele for red eyes, for example.' The base symbol (w) comes from the first mutant discovered (white), and the '+' is added to denote the common, non-mutant version.",
+      "zh": "文本清楚地解释了该符号系统：“上标 + 识别野生型性状的等位基因：例如，w+ 代表红眼的等位基因。” 基本符号（w）来自发现的第一个突变体（白色），添加“+”表示常见的非突变版本。",
+      "es": "El texto explica claramente la notación: 'Un superíndice + identifica el alelo para el rasgo de tipo salvaje: w+ para el alelo de los ojos rojos, por ejemplo'. El símbolo base (w) proviene del primer mutante descubierto (blanco), y se agrega el '+' para denotar la versión común, no mutante.",
+      "fr": "Le texte explique clairement la notation : « Un exposant + identifie l'allèle pour le caractère de type sauvage : w+ pour l'allèle des yeux rouges, par exemple. » Le symbole de base (w) provient du premier mutant découvert (blanc), et le « + » est ajouté pour désigner la version commune, non mutante.",
+      "de": "Der Text erklärt die Notation deutlich: „Ein hochgestelltes + kennzeichnet das Allel für das Wildtyp-Merkmal: w+ zum Beispiel für das Allel für rote Augen.“ Das Basissymbol (w) stammt von der ersten entdeckten Mutante (weiß), und das „+“ wird hinzugefügt, um die übliche, nicht-mutierte Version zu kennzeichnen.",
+      "ja": "本文では、表記法が明確に説明されています。「上付き文字+は、野生型形質の対立遺伝子を識別します。たとえば、赤い目の対立遺伝子の場合はw+です。」基本記号（w）は、最初に発見された突然変異体（白）に由来し、「+」は一般的な非突然変異バージョンを示すために追加されます。"
+    }
+  }
+]

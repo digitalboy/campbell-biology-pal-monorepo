@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 1019,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following accurately describes a step in an IgE-mediated allergic reaction upon second exposure to an allergen, according to the provided text and figure?",
+      "zh": "根据提供的文本和图表，以下哪项准确描述了IgE介导的过敏反应在第二次接触过敏原时的步骤？",
+      "es": "Según el texto y la figura proporcionados, ¿cuál de las siguientes opciones describe con precisión un paso en una reacción alérgica mediada por IgE tras una segunda exposición a un alérgeno?",
+      "fr": "Selon le texte et la figure fournis, laquelle des affirmations suivantes décrit avec précision une étape d'une réaction allergique médiatisée par les IgE lors d'une deuxième exposition à un allergène ?",
+      "de": "Welche der folgenden Aussagen beschreibt gemäß dem bereitgestellten Text und der Abbildung einen Schritt einer IgE-vermittelten allergischen Reaktion bei zweiter Exposition gegenüber einem Allergen genau?",
+      "ja": "提供されたテキストと図によると、アレルゲンへの2回目の曝露時に起こるIgE介在性アレルギー反応の段階を正確に説明しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Plasma cells directly release histamine in response to the allergen.",
+          "zh": "浆细胞直接释放组胺以响应过敏原。",
+          "es": "Las células plasmáticas liberan histamina directamente en respuesta al alérgeno.",
+          "fr": "Les plasmocytes libèrent directement de l'histamine en réponse à l'allergène.",
+          "de": "Plasmazellen setzen Histamin direkt als Reaktion auf das Allergen frei.",
+          "ja": "形質細胞がアレルゲンに反応して直接ヒスタミンを放出する。"
+        },
+        "feedback": {
+          "en": "Plasma cells secrete IgE antibodies, not histamine directly. Mast cells release histamine.",
+          "zh": "浆细胞分泌IgE抗体，而不是直接释放组胺。肥大细胞释放组胺。",
+          "es": "Las células plasmáticas secretan anticuerpos IgE, no histamina directamente. Los mastocitos liberan histamina.",
+          "fr": "Les plasmocytes sécrètent des anticorps IgE, et non directement de l'histamine. Ce sont les mastocytes qui libèrent l'histamine.",
+          "de": "Plasmazellen sezernieren IgE-Antikörper, nicht direkt Histamin. Mastzellen setzen Histamin frei.",
+          "ja": "形質細胞はIgE抗体を分泌し、ヒスタミンを直接放出しません。ヒスタミンを放出するのは肥満細胞です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "IgE antibodies, attached to mast cells, are cross-linked by the allergen, leading to histamine release.",
+          "zh": "附着在肥大细胞上的IgE抗体被过敏原交联，导致组胺释放。",
+          "es": "Los anticuerpos IgE, unidos a los mastocitos, son reticulados por el alérgeno, lo que lleva a la liberación de histamina.",
+          "fr": "Les anticorps IgE, fixés aux mastocytes, sont réticulés par l'allergène, entraînant la libération d'histamine.",
+          "de": "IgE-Antikörper, die an Mastzellen gebunden sind, werden durch das Allergen vernetzt, was zur Histaminfreisetzung führt.",
+          "ja": "肥満細胞に結合したIgE抗体がアレルゲンによって架橋され、ヒスタミンの放出につながる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "T cells directly recognize the allergen and trigger an inflammatory response.",
+          "zh": "T细胞直接识别过敏原并触发炎症反应。",
+          "es": "Las células T reconocen directamente el alérgeno y desencadenan una respuesta inflamatoria.",
+          "fr": "Les lymphocytes T reconnaissent directement l'allergène et déclenchent une réponse inflammatoire.",
+          "de": "T-Zellen erkennen das Allergen direkt und lösen eine Entzündungsreaktion aus.",
+          "ja": "T細胞がアレルゲンを直接認識し、炎症反応を引き起こす。"
+        },
+        "feedback": {
+          "en": "IgE-mediated allergies primarily involve B cells (producing IgE) and mast cells, not direct T cell recognition as the primary trigger for immediate hypersensitivity symptoms.",
+          "zh": "IgE介导的过敏症主要涉及B细胞（产生IgE）和肥大细胞，T细胞的直接识别并非速发型超敏反应症状的主要触发因素。",
+          "es": "Las alergias mediadas por IgE implican principalmente a los linfocitos B (que producen IgE) y a los mastocitos, no al reconocimiento directo de los linfocitos T como desencadenante principal de los síntomas de hipersensibilidad inmediata.",
+          "fr": "Les allergies médiatisées par les IgE impliquent principalement les lymphocytes B (produisant des IgE) et les mastocytes, et non une reconnaissance directe par les lymphocytes T comme déclencheur principal des symptômes d'hypersensibilité immédiate.",
+          "de": "IgE-vermittelte Allergien betreffen hauptsächlich B-Zellen (die IgE produzieren) und Mastzellen, nicht die direkte T-Zell-Erkennung als primären Auslöser für Symptome der sofortigen Überempfindlichkeit.",
+          "ja": "IgE介在性アレルギーは主にB細胞（IgEを産生）と肥満細胞が関与しており、即時型過敏症の症状の主な引き金となるのはT細胞の直接的な認識ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Mast cells produce IgE antibodies that then bind to the allergen.",
+          "zh": "肥大细胞产生IgE抗体，然后这些抗体结合过敏原。",
+          "es": "Los mastocitos producen anticuerpos IgE que luego se unen al alérgeno.",
+          "fr": "Les mastocytes produisent des anticorps IgE qui se lient ensuite à l'allergène.",
+          "de": "Mastzellen produzieren IgE-Antikörper, die dann an das Allergen binden.",
+          "ja": "肥満細胞がIgE抗体を産生し、それがアレルゲンに結合する。"
+        },
+        "feedback": {
+          "en": "Mast cells do not produce antibodies; plasma cells do. IgE antibodies bind to mast cells.",
+          "zh": "肥大细胞不产生抗体；浆细胞产生。IgE抗体结合在肥大细胞上。",
+          "es": "Los mastocitos no producen anticuerpos; lo hacen las células plasmáticas. Los anticuerpos IgE se unen a los mastocitos.",
+          "fr": "Les mastocytes ne produisent pas d'anticorps ; ce sont les plasmocytes qui le font. Les anticorps IgE se lient aux mastocytes.",
+          "de": "Mastzellen produzieren keine Antikörper; Plasmazellen tun dies. IgE-Antikörper binden an Mastzellen.",
+          "ja": "肥満細胞は抗体を産生せず、形質細胞が産生します。IgE抗体は肥満細胞に結合します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "IgE antibodies, upon initial exposure to an allergen, bind to receptors on mast cells. On subsequent exposure, the allergen cross-links these IgE molecules on the mast cell surface. This cross-linking triggers the mast cell to degranulate and release histamine and other inflammatory chemicals, leading to allergic symptoms.",
+      "zh": "IgE抗体在初次接触过敏原后，会结合到肥大细胞上的受体。在再次接触过敏原时，过敏原会使肥大细胞表面的IgE分子发生交联。这种交联会触发肥大细胞脱颗粒，释放组胺和其他炎症化学物质，从而导致过敏症状。",
+      "es": "Los anticuerpos IgE, tras una exposición inicial a un alérgeno, se unen a receptores en los mastocitos. En exposiciones posteriores, el alérgeno reticula estas moléculas de IgE en la superficie del mastocito. Esta reticulación desencadena la desgranulación del mastocito y la liberación de histamina y otras sustancias químicas inflamatorias, lo que provoca los síntomas alérgicos.",
+      "fr": "Les anticorps IgE, lors d'une première exposition à un allergène, se lient aux récepteurs des mastocytes. Lors d'une exposition ultérieure, l'allergène établit des liaisons croisées entre ces molécules d'IgE à la surface du mastocyte. Cette réticulation déclenche la dégranulation du mastocyte et la libération d'histamine et d'autres substances chimiques inflammatoires, entraînant les symptômes allergiques.",
+      "de": "IgE-Antikörper binden nach einer ersten Exposition gegenüber einem Allergen an Rezeptoren auf Mastzellen. Bei einer späteren Exposition vernetzt das Allergen diese IgE-Moleküle auf der Mastzelloberfläche. Diese Vernetzung löst die Degranulation der Mastzelle und die Freisetzung von Histamin und anderen entzündlichen Chemikalien aus, was zu allergischen Symptomen führt.",
+      "ja": "IgE抗体は、アレルゲンに初回曝露されると、肥満細胞上の受容体に結合します。その後の曝露では、アレルゲンが肥満細胞表面のこれらのIgE分子を架橋します。この架橋が肥満細胞の脱顆粒を誘発し、ヒスタミンや他の炎症性化学物質を放出し、アレルギー症状を引き起こします。"
+    }
+  },
+  {
+    "page_number": 1019,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A person with Type O blood needs a blood transfusion. If this individual receives Type A blood, what is the primary reason for a potential severe transfusion reaction?",
+      "zh": "一名O型血患者需要输血。如果该患者接受了A型血，可能发生严重输血反应的主要原因是什么？",
+      "es": "Una persona con sangre tipo O necesita una transfusión de sangre. Si este individuo recibe sangre tipo A, ¿cuál es la razón principal de una posible reacción transfusional grave?",
+      "fr": "Une personne de groupe sanguin O a besoin d'une transfusion sanguine. Si cet individu reçoit du sang de groupe A, quelle est la raison principale d'une possible réaction transfusionnelle grave ?",
+      "de": "Eine Person mit Blutgruppe O benötigt eine Bluttransfusion. Wenn diese Person Blut der Gruppe A erhält, was ist der Hauptgrund für eine mögliche schwere Transfusionsreaktion?",
+      "ja": "O型血液の人が輸血を必要としています。この人がA型血液の輸血を受けた場合、重篤な輸血反応が起こる可能性のある主な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The recipient's red blood cells would be lysed by anti-A antibodies in the donor's Type A blood.",
+          "zh": "受者的红细胞会被供者A型血中的抗A抗体溶解。",
+          "es": "Los glóbulos rojos del receptor serían lisados por los anticuerpos anti-A de la sangre tipo A del donante.",
+          "fr": "Les globules rouges du receveur seraient lysés par les anticorps anti-A présents dans le sang de groupe A du donneur.",
+          "de": "Die roten Blutkörperchen des Empfängers würden durch Anti-A-Antikörper im Spenderblut der Gruppe A lysiert werden.",
+          "ja": "受血者の赤血球が、供血者のA型血液中の抗A抗体によって溶解される。"
+        },
+        "feedback": {
+          "en": "While donor antibodies can react with recipient cells, the primary concern in this specific scenario (Type O recipient, Type A donor) is the recipient's pre-existing antibodies reacting with the donor's red blood cells. The text states that donated Type B blood (which has anti-A) would act against recipient's red blood cells, which is true, but not the primary cause of a severe reaction when Type A blood is given to Type O. Type O recipients have anti-A and anti-B, so their own antibodies are the major threat to incoming A or B antigens.",
+          "zh": "虽然供者抗体可以与受者细胞发生反应，但在这种特定情况（O型血受者，A型血供者）下，主要问题是受者体内预先存在的抗体与供者红细胞发生反应。文本提到，输入的B型血（含有抗A抗体）会攻击受者的红细胞，这是正确的，但这并非O型血受者接受A型血时发生严重反应的主要原因。O型血受者同时拥有抗A和抗B抗体，因此他们自身的抗体是对输入的A或B抗原的主要威胁。",
+          "es": "Aunque los anticuerpos del donante pueden reaccionar con las células del receptor, la principal preocupación en este escenario específico (receptor Tipo O, donante Tipo A) son los anticuerpos preexistentes del receptor que reaccionan con los glóbulos rojos del donante. El texto afirma que la sangre Tipo B donada (que tiene anti-A) actuaría contra los glóbulos rojos del receptor, lo cual es cierto, pero no es la causa principal de una reacción grave cuando se administra sangre Tipo A a un Tipo O. Los receptores Tipo O tienen anti-A y anti-B, por lo que sus propios anticuerpos son la principal amenaza para los antígenos A o B entrantes.",
+          "fr": "Bien que les anticorps du donneur puissent réagir avec les cellules du receveur, la principale préoccupation dans ce scénario spécifique (receveur de groupe O, donneur de groupe A) est la réaction des anticorps préexistants du receveur avec les globules rouges du donneur. Le texte indique que le sang de groupe B donné (qui contient des anti-A) agirait contre les globules rouges du receveur, ce qui est vrai, mais ce n'est pas la cause principale d'une réaction grave lorsque du sang de groupe A est administré à un receveur de groupe O. Les receveurs de groupe O ont des anti-A et des anti-B, donc leurs propres anticorps sont la principale menace pour les antigènes A ou B entrants.",
+          "de": "Obwohl Spender-Antikörper mit Empfängerzellen reagieren können, ist in diesem spezifischen Szenario (Empfänger Blutgruppe O, Spender Blutgruppe A) das Hauptproblem die Reaktion der bereits vorhandenen Antikörper des Empfängers mit den roten Blutkörperchen des Spenders. Der Text besagt, dass gespendetes Blut der Gruppe B (das Anti-A enthält) gegen die roten Blutkörperchen des Empfängers wirken würde, was zutreffend ist, aber nicht die Hauptursache einer schweren Reaktion ist, wenn Blut der Gruppe A einer Person der Gruppe O gegeben wird. Empfänger der Gruppe O haben Anti-A und Anti-B, sodass ihre eigenen Antikörper die größte Bedrohung für eingehende A- oder B-Antigene darstellen.",
+          "ja": "供血者の抗体が受血者の細胞と反応することはありますが、この特定のシナリオ（O型受血者、A型供血者）における主な懸念は、受血者の既存の抗体が供血者の赤血球と反応することです。テキストには、供血されたB型血液（抗A抗体を持つ）が受血者の赤血球に作用すると記載されており、これは正しいですが、A型血液がO型に輸血された場合の重篤な反応の主な原因ではありません。O型受血者は抗A抗体と抗B抗体を持っているため、自身の抗体が流入するAまたはB抗原に対する主要な脅威となります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The recipient's anti-A antibodies would cause lysis of the transfused Type A red blood cells.",
+          "zh": "受者的抗A抗体会导致输入的A型红细胞溶解。",
+          "es": "Los anticuerpos anti-A del receptor causarían la lisis de los glóbulos rojos tipo A transfundidos.",
+          "fr": "Les anticorps anti-A du receveur provoqueraient la lyse des globules rouges de groupe A transfusés.",
+          "de": "Die Anti-A-Antikörper des Empfängers würden die Lysierung der transfundierten roten Blutkörperchen der Gruppe A verursachen.",
+          "ja": "受血者の抗A抗体が、輸血されたA型赤血球の溶解を引き起こす。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The donor's anti-B antibodies would react with the recipient's naturally occurring B carbohydrates.",
+          "zh": "供者的抗B抗体会与受者天然存在的B碳水化合物发生反应。",
+          "es": "Los anticuerpos anti-B del donante reaccionarían con los carbohidratos B naturalmente presentes en el receptor.",
+          "fr": "Les anticorps anti-B du donneur réagiraient avec les glucides B naturellement présents chez le receveur.",
+          "de": "Die Anti-B-Antikörper des Spenders würden mit den natürlich vorkommenden B-Kohlenhydraten des Empfängers reagieren.",
+          "ja": "供血者の抗B抗体が、受血者の自然発生的なB炭水化物と反応する。"
+        },
+        "feedback": {
+          "en": "A Type O recipient does not have B carbohydrates on their red blood cells, so there would be no B carbohydrates for the donor's anti-B antibodies to react with. The text states that 'neither carbohydrate is found on type O red blood cells'.",
+          "zh": "O型血受者红细胞表面没有B碳水化合物，因此供者抗B抗体无法找到可反应的B碳水化合物。文本指出‘O型红细胞上不含有任何碳水化合物’。",
+          "es": "Un receptor de sangre tipo O no tiene carbohidratos B en sus glóbulos rojos, por lo que no habría carbohidratos B con los que los anticuerpos anti-B del donante pudieran reaccionar. El texto afirma que 'ningún carbohidrato se encuentra en los glóbulos rojos tipo O'.",
+          "fr": "Un receveur de groupe sanguin O n'a pas de glucides B sur ses globules rouges, il n'y aurait donc pas de glucides B avec lesquels les anticorps anti-B du donneur pourraient réagir. Le texte indique que «aucun glucide n'est trouvé sur les globules rouges de type O».",
+          "de": "Ein Empfänger der Blutgruppe O hat keine B-Kohlenhydrate auf seinen roten Blutkörperchen, sodass es keine B-Kohlenhydrate gäbe, mit denen die Anti-B-Antikörper des Spenders reagieren könnten. Der Text besagt, dass „weder Kohlenhydrate auf roten Blutkörperchen vom Typ O gefunden werden“.",
+          "ja": "O型受血者の赤血球にはB炭水化物が存在しないため、供血者の抗B抗体が反応するB炭水化物はありません。テキストには「O型赤血球にはいずれの炭水化物も存在しない」と記載されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The recipient's anti-B antibodies would destroy the donor's anti-A antibodies.",
+          "zh": "受者的抗B抗体会破坏供者的抗A抗体。",
+          "es": "Los anticuerpos anti-B del receptor destruirían los anticuerpos anti-A del donante.",
+          "fr": "Les anticorps anti-B du receveur détruiraient les anticorps anti-A du donneur.",
+          "de": "Die Anti-B-Antikörper des Empfängers würden die Anti-A-Antikörper des Spenders zerstören.",
+          "ja": "受血者の抗B抗体が、供血者の抗A抗体を破壊する。"
+        },
+        "feedback": {
+          "en": "Antibodies typically target antigens, not other antibodies in a direct destructive manner in this context. The primary danger comes from antibodies reacting with red blood cell surface antigens.",
+          "zh": "在此情境下，抗体通常以抗原为靶点，而非以直接破坏性的方式攻击其他抗体。主要危险来自抗体与红细胞表面抗原的反应。",
+          "es": "Los anticuerpos suelen atacar antígenos, no otros anticuerpos de manera destructiva directa en este contexto. El peligro principal proviene de los anticuerpos que reaccionan con los antígenos de la superficie de los glóbulos rojos.",
+          "fr": "Les anticorps ciblent généralement les antigènes, et non d'autres anticorps de manière directement destructrice dans ce contexte. Le danger principal provient des anticorps réagissant avec les antigènes de surface des globules rouges.",
+          "de": "Antikörper zielen typischerweise auf Antigene ab, nicht auf andere Antikörper in einer direkten destruktiven Weise in diesem Kontext. Die Hauptgefahr geht von Antikörpern aus, die mit den Oberflächenantigenen der roten Blutkörperchen reagieren.",
+          "ja": "抗体は通常、抗原を標的とし、この文脈では直接的な破壊的な方法で他の抗体を攻撃することはありません。主な危険は、抗体が赤血球表面抗原と反応することから生じます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "A person with Type O blood naturally produces anti-A and anti-B antibodies because their red blood cells lack both A and B carbohydrates. If Type A blood (which carries A carbohydrates) is transfused into a Type O recipient, the recipient's pre-existing anti-A antibodies will bind to the A carbohydrates on the transfused red blood cells, causing a severe immune reaction, including lysis of the red blood cells.",
+      "zh": "O型血的人由于其红细胞表面没有A和B碳水化合物，因此会天然产生抗A和抗B抗体。如果将A型血（带有A碳水化合物）输给O型血受者，受者体内预先存在的抗A抗体会与输入的A型红细胞上的A碳水化合物结合，导致严重的免疫反应，包括红细胞溶解。",
+      "es": "Una persona con sangre tipo O produce naturalmente anticuerpos anti-A y anti-B porque sus glóbulos rojos carecen de carbohidratos A y B. Si se transfunde sangre tipo A (que lleva carbohidratos A) a un receptor tipo O, los anticuerpos anti-A preexistentes del receptor se unirán a los carbohidratos A en los glóbulos rojos transfundidos, provocando una reacción inmune grave, incluyendo la lisis de los glóbulos rojos.",
+      "fr": "Une personne de groupe sanguin O produit naturellement des anticorps anti-A et anti-B car ses globules rouges ne possèdent ni les glucides A ni les glucides B. Si du sang de groupe A (qui porte les glucides A) est transfusé à un receveur de groupe O, les anticorps anti-A préexistants du receveur se lieront aux glucides A des globules rouges transfusés, provoquant une réaction immunitaire grave, y compris la lyse des globules rouges.",
+      "de": "Eine Person mit Blutgruppe O produziert natürlicherweise Anti-A- und Anti-B-Antikörper, da ihre roten Blutkörperchen weder A- noch B-Kohlenhydrate besitzen. Wenn Blut der Gruppe A (das A-Kohlenhydrate trägt) einem Empfänger der Gruppe O transfundiert wird, binden die bereits vorhandenen Anti-A-Antikörper des Empfängers an die A-Kohlenhydrate auf den transfundierten roten Blutkörperchen, was eine schwere Immunreaktion einschließlich Hämolyse der roten Blutkörperchen verursacht.",
+      "ja": "O型血液の人は、赤血球表面にAおよびB炭水化物が存在しないため、自然に抗Aおよび抗B抗体を産生します。A型血液（A炭水化物を保有）がO型受血者に輸血された場合、受血者にあらかじめ存在する抗A抗体が、輸血されたA型赤血球上のA炭水化物に結合し、赤血球の溶解を含む重篤な免疫反応を引き起こします。"
+    }
+  },
+  {
+    "page_number": 1019,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A snake handler is bitten by a venomous snake and treated with antivenin. If the same handler is bitten again by the same species and receives the same antivenin, why might a harmful side effect occur during the second treatment, even if the antivenin effectively neutralizes the venom?",
+      "zh": "一名蛇 handler 被毒蛇咬伤并接受了抗蛇毒血清治疗。如果同一个人再次被同种蛇咬伤并接受相同的抗蛇毒血清，为什么第二次治疗时可能会出现有害副作用，即使抗蛇毒血清有效中和了蛇毒？",
+      "es": "Un manipulador de serpientes es mordido por una serpiente venenosa y tratado con antiveneno. Si el mismo manipulador es mordido de nuevo por la misma especie y recibe el mismo antiveneno, ¿por qué podría ocurrir un efecto secundario dañino durante el segundo tratamiento, incluso si el antiveneno neutraliza eficazmente el veneno?",
+      "fr": "Un manipulateur de serpents est mordu par un serpent venimeux et traité avec de l'antivenin. Si le même manipulateur est mordu à nouveau par la même espèce et reçoit le même antivenin, pourquoi un effet secondaire nocif pourrait-il survenir lors du deuxième traitement, même si l'antivenin neutralise efficacement le venin ?",
+      "de": "Ein Schlangenbändiger wird von einer Giftschlange gebissen und mit Antivenin behandelt. Wenn derselbe Bändiger erneut von derselben Art gebissen wird und dasselbe Antivenin erhält, warum könnten bei der zweiten Behandlung schädliche Nebenwirkungen auftreten, selbst wenn das Antivenin das Gift wirksam neutralisiert?",
+      "ja": "毒蛇に咬まれた蛇の取扱者が抗蛇毒血清で治療を受けました。同じ取扱者が再び同じ種の蛇に咬まれ、同じ抗蛇毒血清を投与された場合、抗蛇毒血清が毒を効果的に中和しても、2回目の治療で有害な副作用が生じる可能性があるのはなぜですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The antivenin becomes less potent after the first exposure, leading to a weaker therapeutic effect.",
+          "zh": "抗蛇毒血清在首次接触后效力减弱，导致治疗效果不佳。",
+          "es": "El antiveneno se vuelve menos potente después de la primera exposición, lo que lleva a un efecto terapéutico más débil.",
+          "fr": "L'antivenin devient moins puissant après la première exposition, entraînant un effet thérapeutique plus faible.",
+          "de": "Das Antivenin wird nach der ersten Exposition weniger wirksam, was zu einer schwächeren therapeutischen Wirkung führt.",
+          "ja": "抗蛇毒血清が初回曝露後に効力を失い、治療効果が低下する。"
+        },
+        "feedback": {
+          "en": "The question focuses on harmful *side effects* from the *treatment*, not reduced efficacy of the antivenin on the venom itself. The immune response to the antivenin is the key, similar to an allergic reaction.",
+          "zh": "问题关注的是治疗产生的有害*副作用*，而不是抗蛇毒血清对蛇毒本身的效力降低。对血清的免疫反应是关键，类似于过敏反应。",
+          "es": "La pregunta se centra en los *efectos secundarios* nocivos del *tratamiento*, no en la reducción de la eficacia del antiveneno sobre el veneno en sí. La respuesta inmune al antiveneno es clave, similar a una reacción alérgica.",
+          "fr": "La question porte sur les *effets secondaires* nocifs du *traitement*, et non sur une efficacité réduite de l'antivenin sur le venin lui-même. La réponse immunitaire à l'antivenin est la clé, similaire à une réaction allergique.",
+          "de": "Die Frage konzentriert sich auf schädliche *Nebenwirkungen* der *Behandlung*, nicht auf eine reduzierte Wirksamkeit des Antivenins gegen das Gift selbst. Die Immunantwort auf das Antivenin ist der Schlüssel, ähnlich einer allergischen Reaktion.",
+          "ja": "この質問は、毒に対する抗蛇毒血清の有効性の低下ではなく、*治療*による有害な*副作用*に焦点を当てています。アレルギー反応と同様に、抗蛇毒血清に対する免疫応答が重要です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The snake handler's immune system may have developed an allergic (hypersensitive) response to components of the antivenin from the first exposure.",
+          "zh": "蛇 handler 的免疫系统可能在首次接触时对血清中的成分产生了过敏（超敏）反应。",
+          "es": "El sistema inmunitario del manipulador de serpientes pudo haber desarrollado una respuesta alérgica (hipersensible) a los componentes del antiveneno a partir de la primera exposición.",
+          "fr": "Le système immunitaire du manipulateur de serpents a pu développer une réponse allergique (hypersensible) aux composants de l'antivenin dès la première exposition.",
+          "de": "Das Immunsystem des Schlangenbändigers könnte nach der ersten Exposition eine allergische (hypersensitive) Reaktion auf Bestandteile des Antivenins entwickelt haben.",
+          "ja": "蛇の取扱者の免疫系が、最初の曝露で抗蛇毒血清の成分に対してアレルギー（過敏性）反応を発症した可能性がある。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The venom from the second bite is likely stronger, overwhelming the antivenin's capacity.",
+          "zh": "第二次被咬的毒液可能更强，超出了抗蛇毒血清的能力。",
+          "es": "El veneno de la segunda mordedura es probablemente más fuerte, superando la capacidad del antiveneno.",
+          "fr": "Le venin de la deuxième morsure est probablement plus puissant, submergeant la capacité de l'antivenin.",
+          "de": "Das Gift des zweiten Bisses ist wahrscheinlich stärker und überfordert die Kapazität des Antivenins.",
+          "ja": "2回目の咬傷による毒液がより強力で、抗蛇毒血清の能力を超えている可能性が高い。"
+        },
+        "feedback": {
+          "en": "While possible, the question specifically asks about harmful side effects *of the treatment* and links it to repeated exposure, which points to an immune response rather than venom potency.",
+          "zh": "虽然可能，但问题明确询问的是*治疗*的有害副作用，并将其与重复暴露联系起来，这表明是免疫反应，而非毒液效力。",
+          "es": "Aunque es posible, la pregunta se refiere específicamente a los efectos secundarios dañinos *del tratamiento* y los vincula a la exposición repetida, lo que apunta a una respuesta inmune en lugar de la potencia del veneno.",
+          "fr": "Bien que possible, la question porte spécifiquement sur les effets secondaires nocifs *du traitement* et les lie à une exposition répétée, ce qui suggère une réponse immunitaire plutôt que la puissance du venin.",
+          "de": "Obwohl möglich, fragt die Frage spezifisch nach schädlichen Nebenwirkungen *der Behandlung* und verknüpft dies mit wiederholter Exposition, was auf eine Immunantwort und nicht auf die Giftpotenz hinweist.",
+          "ja": "その可能性はありますが、この質問は具体的に*治療*による有害な副作用について尋ねており、それを繰り返し曝露と関連付けています。これは毒の効力ではなく、免疫応答を示唆しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Antivenin always causes kidney malfunction, and the effect is cumulative with repeated doses.",
+          "zh": "抗蛇毒血清总是会导致肾功能障碍，并且这种作用会随着重复剂量而累积。",
+          "es": "El antiveneno siempre causa disfunción renal, y el efecto es acumulativo con dosis repetidas.",
+          "fr": "L'antivenin provoque toujours un dysfonctionnement rénal, et l'effet est cumulatif avec des doses répétées.",
+          "de": "Antivenin verursacht immer Nierenfunktionsstörungen, und der Effekt ist bei wiederholten Dosen kumulativ.",
+          "ja": "抗蛇毒血清は常に腎臓機能不全を引き起こし、その効果は繰り返し投与により蓄積する。"
+        },
+        "feedback": {
+          "en": "The text mentions kidney malfunction as a symptom of a severe *transfusion reaction*, not a general side effect of antivenin, nor is it stated to be cumulative. Allergic reactions are a more direct link from the text's allergy section.",
+          "zh": "文本提到肾功能障碍是严重*输血反应*的症状，而非抗蛇毒血清的普遍副作用，也未提及累积效应。过敏反应是与文本中过敏部分更直接的联系。",
+          "es": "El texto menciona la disfunción renal como un síntoma de una *reacción transfusional* grave, no como un efecto secundario general del antiveneno, ni se afirma que sea acumulativo. Las reacciones alérgicas son un vínculo más directo con la sección de alergias del texto.",
+          "fr": "Le texte mentionne la dysfonction rénale comme un symptôme d'une *réaction transfusionnelle* grave, et non comme un effet secondaire général de l'antivenin, ni qu'elle serait cumulative. Les réactions allergiques sont un lien plus direct avec la section sur les allergies du texte.",
+          "de": "Der Text erwähnt Nierenfunktionsstörungen als Symptom einer schweren *Transfusionsreaktion*, nicht als allgemeine Nebenwirkung von Antivenin, und es wird auch nicht angegeben, dass der Effekt kumulativ ist. Allergische Reaktionen sind ein direkterer Bezug zum Abschnitt über Allergien im Text.",
+          "ja": "テキストでは、腎臓機能不全は重篤な*輸血反応*の症状として言及されており、抗蛇毒血清の一般的な副作用でもなく、累積的な影響があるとも述べられていません。アレルギー反応の方が、テキストのアレルギーセクションからのより直接的な関連性があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Antivenin is typically produced in animals (e.g., horses) and contains foreign proteins. Upon the first exposure, the snake handler's immune system may recognize these foreign proteins as antigens and produce antibodies, including IgE. A subsequent exposure to the same antivenin can then trigger an IgE-mediated allergic reaction (hypersensitivity) because the immune system is now 'sensitized' to the antivenin components, leading to harmful side effects like those seen in hay fever or more severe reactions.",
+      "zh": "抗蛇毒血清通常在动物（如马）体内生产，含有外源蛋白。首次接触时，蛇 handler 的免疫系统可能会将这些外源蛋白识别为抗原并产生抗体，包括IgE。再次接触相同的抗蛇毒血清时，由于免疫系统已对血清成分“致敏”，便可能引发IgE介导的过敏反应（超敏反应），导致类似花粉症或更严重的有害副作用。",
+      "es": "El antiveneno se produce típicamente en animales (por ejemplo, caballos) y contiene proteínas extrañas. En la primera exposición, el sistema inmunitario del manipulador de serpientes puede reconocer estas proteínas extrañas como antígenos y producir anticuerpos, incluyendo IgE. Una exposición posterior al mismo antiveneno puede entonces desencadenar una reacción alérgica mediada por IgE (hipersensibilidad) porque el sistema inmunitario ya está 'sensibilizado' a los componentes del antiveneno, lo que lleva a efectos secundarios dañinos como los observados en la fiebre del heno o reacciones más graves.",
+      "fr": "L'antivenin est généralement produit chez des animaux (par exemple, des chevaux) et contient des protéines étrangères. Lors de la première exposition, le système immunitaire du manipulateur de serpents peut reconnaître ces protéines étrangères comme des antigènes et produire des anticorps, y compris des IgE. Une exposition ultérieure au même antivenin peut alors déclencher une réaction allergique médiatisée par les IgE (hypersensibilité) car le système immunitaire est désormais « sensibilisé » aux composants de l'antivenin, entraînant des effets secondaires nocifs comme ceux observés dans le rhume des foins ou des réactions plus graves.",
+      "de": "Antivenin wird typischerweise in Tieren (z.B. Pferden) hergestellt und enthält fremde Proteine. Bei der ersten Exposition kann das Immunsystem des Schlangenbändigers diese fremden Proteine als Antigene erkennen und Antikörper, einschließlich IgE, produzieren. Eine spätere Exposition gegenüber demselben Antivenin kann dann eine IgE-vermittelte allergische Reaktion (Hypersensitivität) auslösen, da das Immunsystem nun gegenüber den Antivenin-Komponenten 'sensibilisiert' ist, was zu schädlichen Nebenwirkungen wie denen bei Heuschnupfen oder schwereren Reaktionen führt.",
+      "ja": "抗蛇毒血清は通常、動物（例：ウマ）から生産され、異種タンパク質を含んでいます。初回曝露時、蛇の取扱者の免疫系はこれらの異種タンパク質を抗原として認識し、IgEを含む抗体を産生する可能性があります。その後、同じ抗蛇毒血清に再び曝露されると、免疫系が抗蛇毒血清成分に「感作」されているため、IgEを介したアレルギー反応（過敏症）が引き起こされ、花粉症のような軽度なものからより重篤な有害な副作用が生じる可能性があります。"
+    }
+  },
+  {
+    "page_number": 1019,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text states that a person with Type A blood does not make antibodies against the bacterial epitope similar to the A carbohydrate. What is the immunological principle behind this phenomenon?",
+      "zh": "文本指出，A型血的人不会针对与A碳水化合物相似的细菌表位产生抗体。这种现象背后的免疫学原理是什么？",
+      "es": "El texto afirma que una persona con sangre tipo A no produce anticuerpos contra el epítopo bacteriano similar al carbohidrato A. ¿Cuál es el principio inmunológico detrás de este fenómeno?",
+      "fr": "Le texte indique qu'une personne de groupe sanguin A ne produit pas d'anticorps contre l'épitope bactérien similaire au glucide A. Quel est le principe immunologique derrière ce phénomène ?",
+      "de": "Der Text besagt, dass eine Person mit Blutgruppe A keine Antikörper gegen das bakterielle Epitop bildet, das dem A-Kohlenhydrat ähnelt. Welches immunologische Prinzip steckt hinter diesem Phänomen?",
+      "ja": "テキストによると、A型血液の人はA炭水化物に類似した細菌エピトープに対して抗体を産生しないと述べられています。この現象の背後にある免疫学的原理は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Type A individuals lack the genes to produce antibodies against A carbohydrates.",
+          "zh": "A型个体缺乏产生针对A碳水化合物抗体的基因。",
+          "es": "Los individuos tipo A carecen de los genes para producir anticuerpos contra los carbohidratos A.",
+          "fr": "Les individus de type A n'ont pas les gènes nécessaires pour produire des anticorps contre les glucides A.",
+          "de": "Typ-A-Individuen fehlen die Gene zur Produktion von Antikörpern gegen A-Kohlenhydrate.",
+          "ja": "A型個体はA炭水化物に対する抗体を産生する遺伝子を欠いている。"
+        },
+        "feedback": {
+          "en": "Individuals have the genetic capacity to produce a vast array of antibodies; the lack of antibody production against self-antigens is due to tolerance mechanisms, not genetic absence of antibody-producing genes.",
+          "zh": "个体具有产生大量抗体的遗传能力；不产生针对自身抗原的抗体是由于免疫耐受机制，而非缺乏产生抗体的基因。",
+          "es": "Los individuos tienen la capacidad genética de producir una vasta gama de anticuerpos; la falta de producción de anticuerpos contra autoantígenos se debe a mecanismos de tolerancia, no a la ausencia genética de genes productores de anticuerpos.",
+          "fr": "Les individus ont la capacité génétique de produire une vaste gamme d'anticorps ; l'absence de production d'anticorps contre les auto-antigènes est due à des mécanismes de tolérance, et non à une absence génétique de gènes producteurs d'anticorps.",
+          "de": "Individuen haben die genetische Fähigkeit, eine Vielzahl von Antikörpern zu produzieren; das Fehlen der Antikörperproduktion gegen Selbstantigene ist auf Toleranzmechanismen zurückzuführen, nicht auf das genetische Fehlen von Antikörper-produzierenden Genen.",
+          "ja": "個体は膨大な種類の抗体を産生する遺伝的能力を持っています。自己抗原に対する抗体産生がないのは、抗体産生遺伝子の遺伝的欠損ではなく、免疫寛容メカニズムによるものです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Lymphocytes reactive with the body's own cells and molecules (like the A carbohydrate) were inactivated or eliminated during development.",
+          "zh": "对自身细胞和分子（如A碳水化合物）有反应的淋巴细胞在发育过程中被灭活或清除。",
+          "es": "Los linfocitos reactivos con las propias células y moléculas del cuerpo (como el carbohidrato A) fueron inactivados o eliminados durante el desarrollo.",
+          "fr": "Les lymphocytes réactifs aux propres cellules et molécules du corps (comme le glucide A) ont été inactivés ou éliminés pendant le développement.",
+          "de": "Lymphozyten, die mit körpereigenen Zellen und Molekülen (wie dem A-Kohlenhydrat) reagieren, wurden während der Entwicklung inaktiviert oder eliminiert.",
+          "ja": "自己の細胞や分子（A炭水化物など）に反応するリンパ球は、発生中に不活化または除去された。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The A carbohydrate is too small to elicit an immune response on its own.",
+          "zh": "A碳水化合物太小，无法单独引起免疫反应。",
+          "es": "El carbohidrato A es demasiado pequeño para desencadenar una respuesta inmune por sí solo.",
+          "fr": "Le glucide A est trop petit pour déclencher une réponse immunitaire à lui seul.",
+          "de": "Das A-Kohlenhydrat ist zu klein, um allein eine Immunantwort auszulösen.",
+          "ja": "A炭水化物は小さすぎて、単独では免疫応答を誘発しない。"
+        },
+        "feedback": {
+          "en": "The text states that lymphocytes reactive with the body's *own* cells are inactivated, not that the carbohydrate is too small. Blood group carbohydrates are clearly immunogenic when foreign (e.g., when a Type O person receives Type A blood).",
+          "zh": "文本指出，对身体*自身*细胞有反应的淋巴细胞被灭活，而不是说碳水化合物太小。血型碳水化合物在异体情况下（例如，O型血的人接受A型血时）显然具有免疫原性。",
+          "es": "El texto afirma que los linfocitos reactivos a las células *propias* del cuerpo son inactivados, no que el carbohidrato sea demasiado pequeño. Los carbohidratos de los grupos sanguíneos son claramente inmunogénicos cuando son extraños (por ejemplo, cuando una persona de tipo O recibe sangre de tipo A).",
+          "fr": "Le texte indique que les lymphocytes réactifs aux cellules *propres* du corps sont inactivés, et non que le glucide est trop petit. Les glucides des groupes sanguins sont clairement immunogènes lorsqu'ils sont étrangers (par exemple, lorsqu'une personne de groupe O reçoit du sang de groupe A).",
+          "de": "Der Text besagt, dass Lymphozyten, die mit körpereigenen Zellen reagieren, inaktiviert werden, nicht dass das Kohlenhydrat zu klein ist. Blutgruppen-Kohlenhydrate sind eindeutig immunogen, wenn sie fremd sind (z.B. wenn eine Person der Blutgruppe O Blut der Gruppe A erhält).",
+          "ja": "テキストでは、身体*自身*の細胞に反応するリンパ球が不活化されると述べられており、炭水化物が小さすぎるからではありません。血液型炭水化物は、異物として認識される場合（例えば、O型血液の人がA型血液の輸血を受けた場合）には明らかに免疫原性があります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The immune system only produces antibodies against foreign carbohydrates, not those similar to self.",
+          "zh": "免疫系统只针对外源碳水化合物产生抗体，不针对与自身相似的碳水化合物。",
+          "es": "El sistema inmunitario solo produce anticuerpos contra carbohidratos extraños, no contra aquellos similares a los propios.",
+          "fr": "Le système immunitaire ne produit des anticorps que contre les glucides étrangers, pas contre ceux qui sont similaires au soi.",
+          "de": "Das Immunsystem produziert Antikörper nur gegen fremde Kohlenhydrate, nicht gegen solche, die dem Selbst ähnlich sind.",
+          "ja": "免疫系は、異種の炭水化物に対してのみ抗体を産生し、自己に類似した炭水化物には産生しない。"
+        },
+        "feedback": {
+          "en": "While the immune system primarily targets foreign substances, the specific mechanism for *not* producing antibodies against self-similar foreign antigens (like bacterial epitopes similar to A carb) when the self-A carb is present is immunological tolerance, not a general rule about all carbohydrates. The statement in D is too broad and doesn't explain the specific mechanism of self-tolerance.",
+          "zh": "虽然免疫系统主要针对外来物质，但在自身存在A碳水化合物时，不针对与自身相似的外来抗原（如与A碳水化合物相似的细菌表位）产生抗体的具体机制是免疫耐受，而非关于所有碳水化合物的普遍规则。D选项的表述过于宽泛，未能解释自身耐受的具体机制。",
+          "es": "Aunque el sistema inmunitario se dirige principalmente a sustancias extrañas, el mecanismo específico para *no* producir anticuerpos contra antígenos extraños similares a los propios (como los epítopos bacterianos similares al carbohidrato A) cuando el carbohidrato A propio está presente es la tolerancia inmunológica, no una regla general sobre todos los carbohidratos. La afirmación en D es demasiado amplia y no explica el mecanismo específico de la autotolerancia.",
+          "fr": "Bien que le système immunitaire cible principalement les substances étrangères, le mécanisme spécifique pour *ne pas* produire d'anticorps contre des antigènes étrangers similaires au soi (comme les épitopes bactériens similaires au glucide A) lorsque le glucide A de soi est présent est la tolérance immunologique, et non une règle générale concernant tous les glucides. L'affirmation en D est trop générale et n'explique pas le mécanisme spécifique de l'auto-tolérance.",
+          "de": "Obwohl das Immunsystem hauptsächlich auf fremde Substanzen abzielt, ist der spezifische Mechanismus, *keine* Antikörper gegen selbstähnliche Fremdantigene (wie bakterielle Epitope, die dem A-Kohlenhydrat ähneln) zu produzieren, wenn das körpereigene A-Kohlenhydrat vorhanden ist, die immunologische Toleranz und keine allgemeine Regel über alle Kohlenhydrate. Die Aussage in D ist zu allgemein und erklärt den spezifischen Mechanismus der Selbsttoleranz nicht.",
+          "ja": "免疫系は主に異物を標的としますが、自己のA炭水化物が存在する場合に、自己類似の異物抗原（A炭水化物に類似する細菌エピトープなど）に対して抗体を*産生しない*特定のメカニズムは免疫寛容であり、すべての炭水化物に関する一般的な規則ではありません。Dの記述は広範すぎ、自己寛容の特定のメカニズムを説明していません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The immune system has mechanisms to prevent it from attacking the body's own tissues, a process known as immunological tolerance. For ABO blood groups, any lymphocytes that would be reactive to self-carbohydrates (like the A carbohydrate in a Type A individual) are either inactivated (anergy) or eliminated (clonal deletion) during their development in the bone marrow and thymus. This ensures that the individual does not produce antibodies against their own blood group antigens.",
+      "zh": "免疫系统具有防止其攻击自身组织的机制，这一过程被称为免疫耐受。对于ABO血型，任何对自身碳水化合物（如A型个体中的A碳水化合物）具有反应性的淋巴细胞，在骨髓和胸腺的发育过程中都会被灭活（无能）或清除（克隆删除）。这确保了个体不会产生针对自身血型抗体的抗体。",
+      "es": "El sistema inmunitario tiene mecanismos para evitar que ataque los propios tejidos del cuerpo, un proceso conocido como tolerancia inmunológica. Para los grupos sanguíneos ABO, cualquier linfocito que fuera reactivo a los carbohidratos propios (como el carbohidrato A en un individuo de tipo A) es inactivado (anergia) o eliminado (deleción clonal) durante su desarrollo en la médula ósea y el timo. Esto asegura que el individuo no produzca anticuerpos contra sus propios antígenos de grupo sanguíneo.",
+      "fr": "Le système immunitaire possède des mécanismes pour éviter d'attaquer les propres tissus de l'organisme, un processus connu sous le nom de tolérance immunologique. Pour les groupes sanguins ABO, tout lymphocyte qui serait réactif aux glucides de soi (comme le glucide A chez un individu de groupe A) est soit inactivé (anergie), soit éliminé (délétion clonale) au cours de son développement dans la moelle osseuse et le thymus. Cela garantit que l'individu ne produit pas d'anticorps contre ses propres antigènes de groupe sanguin.",
+      "de": "Das Immunsystem verfügt über Mechanismen, um zu verhindern, dass es körpereigene Gewebe angreift, ein Prozess, der als immunologische Toleranz bekannt ist. Bei den ABO-Blutgruppen werden alle Lymphozyten, die auf körpereigene Kohlenhydrate (wie das A-Kohlenhydrat bei einem Typ-A-Individuum) reagieren würden, während ihrer Entwicklung im Knochenmark und Thymus entweder inaktiviert (Anergie) oder eliminiert (klonale Deletion). Dies stellt sicher, dass das Individuum keine Antikörper gegen seine eigenen Blutgruppenantigene produziert.",
+      "ja": "免疫系には、自己の組織を攻撃しないようにするメカニズムがあり、これは免疫寛容として知られています。ABO血液型の場合、自己の炭水化物（A型個体におけるA炭水化物など）に反応するリンパ球は、骨髄と胸腺での発達中に不活化（アナジー）または除去（クローン選択）されます。これにより、個体が自身の血液型抗原に対する抗体を産生しないことが保証されます。"
+    }
+  }
+]

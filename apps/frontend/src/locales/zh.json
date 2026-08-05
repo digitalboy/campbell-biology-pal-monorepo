@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "title": "BioPal — 坎贝尔生物学 AI 学习伴侣",
+    "description": "为坎贝尔生物学学生提供的 AI 学习助手。"
+  },
+  "questionList": {
+    "title": "本页题目",
+    "tooltip": {
+      "title": "题目 {index} 统计",
+      "accuracy": "准确率",
+      "attempts": "尝试次数",
+      "correct": "正确",
+      "incorrect": "错误"
+    },
+    "noQuestions": "暂无题目。",
+    "chart": {
+      "correct": "正确",
+      "incorrect": "错误",
+      "unanswered": "未作答"
+    },
+    "accuracy": {
+      "excellent": "优秀（90%+）",
+      "good": "良好（70-89%）",
+      "average": "一般（50-69%）",
+      "poor": "较差（30-49%）",
+      "bad": "需改进（<30%）",
+      "unanswered": "未尝试"
+    }
+  },
+  "questionViewer": {
+    "explanation": "解析",
+    "selectMultiple": "多项选择",
+    "selectSingle": "单项选择",
+    "toast": {
+      "correct": "回答正确！",
+      "partiallyCorrect": "部分正确！",
+      "incorrect": "回答错误！",
+      "submitError": "提交失败，请重试。"
+    },
+    "result": {
+      "correct": "回答正确",
+      "partiallyCorrect": "部分正确",
+      "incorrect": "回答错误"
+    },
+    "aiExplain": "AI 解释",
+    "aiInitialPrompt": "请解释一下这道题。",
+    "analysis": {
+      "correctSelections": "正确选项",
+      "incorrectSelections": "错误选项",
+      "missedAnswers": "漏选答案"
+    },
+    "answeredBy": "作答者",
+    "socialStats": {
+      "totalAttempts": "总尝试次数：{count}",
+      "correctAttempts": "正确次数：{count}"
+    },
+    "commentPanel": {
+      "titlePrefix": "题目评论：",
+      "description": "查看并发布关于该题目的评论。"
+    }
+  },
+  "common": {
+    "anonymousUser": "匿名用户",
+    "submit": "提交",
+    "submitting": "提交中...",
+    "close": "关闭",
+    "notAvailable": "不适用",
+    "cancel": "取消",
+    "delete": "删除"
+  },
+  "header": {
+    "home": "首页",
+    "ai_chat": "AI 聊天",
+    "review": "复习",
+    "login": "登录",
+    "language": "语言",
+    "logout": "登出"
+  },
+  "theme": {
+    "toggle": "切换主题",
+    "switch_to_light": "切换为亮色模式",
+    "switch_to_dark": "切换为暗色模式"
+  },
+  "comments": {
+    "reply": "回复",
+    "loading": "评论加载中...",
+    "noComments": "还没有评论，快来发表第一个！",
+    "noMoreComments": "没有更多评论。",
+    "replyingTo": "回复",
+    "placeholder": "分享你的见解或提问...",
+    "myCommentsOnly": "只看我的评论"
+  },
+  "companionPanel": {
+    "tabs": {
+      "knowledgeGraph": "知识图谱",
+      "questions": "题目"
+    },
+    "loadingError": "无法加载伴随面板数据。",
+    "knowledgeGraph": {
+      "title": "知识图谱视图",
+      "description": "此处显示与当前页面相关的思维导图。",
+      "noData": "该页面暂无知识图谱数据。"
+    }
+  },
+  "pdfViewer": {
+    "sheet": {
+      "title": "页面评论",
+      "description": "查看并发布关于本页的评论。"
+    },
+    "waitingForPdf": "正在等待 PDF 数据...",
+    "zoom": {
+      "in": "放大",
+      "out": "缩小",
+      "reset": "重置缩放"
+    },
+    "pan": {
+      "holdSpace": "按住空格拖拽",
+      "toastMessage": "提示：按住空格键可拖拽文档。"
+    }
+  },
+  "login": {
+    "welcome_title": "欢迎使用生物学习伴侣",
+    "welcome_subtitle": "使用你的 Google 账号继续",
+    "sign_in_with_google": "使用 Google 登录",
+    "signing_in": "正在登录..."
+  },
+  "wrongAnswerNotebook": {
+    "title": "错题本",
+    "description": "查看并复习你答错的题目。",
+    "selectRange": "选择日期范围",
+    "predefinedRanges": "预设范围",
+    "last1Day": "最近 1 天",
+    "last3Days": "最近 3 天",
+    "last7Days": "最近 7 天",
+    "last30Days": "最近 30 天",
+    "noWrongAnswers": "恭喜！近期没有错题。"
+  },
+  "leaderboard": {
+    "title": "排行榜",
+    "description": "查看基于不同绩效指标的用户排名。",
+    "sortBy": "排序方式",
+    "sortByOptions": {
+      "totalAttempts": "总尝试次数",
+      "correctAttempts": "正确次数",
+      "accuracy": "准确率"
+    },
+    "selectRange": "选择日期范围",
+    "predefinedRanges": "预设范围",
+    "last1Day": "最近 1 天",
+    "last7Days": "最近 7 天",
+    "last30Days": "最近 30 天",
+    "allTime": "所有时间",
+    "noData": "暂无排行榜数据。",
+    "tableHeaders": {
+      "user": "用户",
+      "totalAttempts": "总尝试",
+      "correctAttempts": "正确次数",
+      "accuracy": "准确率"
+    }
+  },
+  "graph": {
+    "relatedNodesTitle": "相关概念：{node}",
+    "relatedNodesTitleGeneric": "相关概念",
+    "loadingGraphData": "正在加载图谱数据...",
+    "errorFetchingGraphData": "获取图谱数据出错：{message}",
+    "toolbar": {
+      "delete": "删除",
+      "confirmDeleteTitle": "确认删除",
+      "confirmDeleteDescription": "确定要删除概念 {nodeId} 吗？此操作不可撤销。",
+      "cancel": "取消"
+    }
+  },
+  "graphDataDialog": {
+    "title": "知识图谱",
+    "titleFor": "的知识图谱",
+    "description": "探索相关的概念和页面。",
+    "noData": "该概念暂无图谱数据。",
+    "closeButton": "关闭"
+  },
+  "aiChat": {
+    "title": "AI 聊天",
+    "description": "与 AI 助手对话以获取生物问题的帮助。",
+    "noMessages": "暂无消息，开始对话吧！",
+    "inputPlaceholder": "在此输入你的问题...",
+    "inputPlaceholderForNode": "请解释这个概念",
+    "sendButton": "发送",
+    "confirmDeleteMessage": "确定要删除此对话回合吗？此操作不可撤销。",
+    "messageDeleted": "对话回合已删除。",
+    "deleteError": "删除对话回合失败，请重试。",
+    "confirmDeleteDescription": "此操作将永久删除此对话回合，且无法恢复。"
+  },
+  "learningView": {
+    "pageTitle": "第 {page} 页 - 坎贝尔生物学",
+    "pageDescription": "探索坎贝尔生物学第 {page} 页的内容和问题。"
+  },
+  "landing": {
+    "hero": {
+      "badge": "🎓 AI驱动的学习平台",
+      "title": "用AI掌握坎贝尔生物学",
+      "subtitle": "通过互动知识图谱、情境化测验和个性化AI辅导，彻底改变您的生物学习体验。专为坎贝尔生物学教材打造。",
+      "cta": "用Google账号开始学习",
+      "free_trial": "永久免费",
+      "no_credit_card": "无需信用卡"
+    },
+    "stats": {
+      "chapters": "章节",
+      "questions": "练习题",
+      "ai_support": "AI支持",
+      "languages": "种语言"
+    },
+    "features": {
+      "badge": "🚀 核心功能",
+      "title": "助您优秀的一切工具",
+      "subtitle": "为让坎贝尔生物学更易理解和有趣而设计的全面工具",
+      "new": "新功能",
+      "coming_soon": "即将推出",
+      "one": {
+        "title": "互动式知识图谱",
+        "description": "通过我们的动态知识映射系统，可视化复杂的生物关系，在相互关联的概念间导航。",
+        "highlight1": "✨ 可视化概念关系",
+        "highlight2": "🔍 一键概念探索"
+      },
+      "two": {
+        "title": "AI驱动的学习助手",
+        "description": "从专门针对坎贝尔生物学内容训练的高级AI导师那里获得即时答案、解释和学习指导。",
+        "highlight1": "🤖 24/7智能辅导",
+        "highlight2": "💬 情境化学习协助"
+      },
+      "three": {
+        "title": "智能复习系统",
+        "description": "通过间隔重复算法和基于您学习进度的个性化复习计划来掌握困难概念。",
+        "highlight1": "📊 学习分析",
+        "highlight2": "🎯 自适应难度调整"
+      }
+    },
+    "testimonials": {
+      "badge": "💬 学生成功案例",
+      "title": "深受全球学生喜爱",
+      "subtitle": "加入数千名已经改变生物学习体验的学生行列",
+      "student1": {
+        "name": "陈小雅",
+        "role": "预科医学生",
+        "content": "BioPal的知识图谱帮助我前所未有地理解了复杂的细胞过程。我的考试成绩提高了25%！"
+      },
+      "student2": {
+        "name": "马库斯·约翰逊",
+        "role": "生物学专业学生",
+        "content": "AI导师就像有一位24/7可用的私人生物学教授。它会用多种方式解释概念直到我理解为止。"
+      },
+      "student3": {
+        "name": "艾琳娜·罗德里格斯",
+        "role": "研究生",
+        "content": "多语言支持帮助我用母语学习，同时建立英语生物词汇。绝对出色！"
+      }
+    },
+    "cta": {
+      "title": "准备好改变您的生物学习方式了吗？",
+      "subtitle": "加入数千名已在使用AI驱动学习工具掌握坎贝尔生物学的学生。",
+      "button": "免费开始"
+    },
+    "footer": {
+      "description": "为全球坎贝尔生物学学生提供的AI驱动学习伴侣。",
+      "product": "产品",
+      "features": "功能",
+      "pricing": "定价",
+      "roadmap": "路线图",
+      "support": "支持",
+      "help_center": "帮助中心",
+      "contact": "联系我们",
+      "community": "社区",
+      "legal": "法律",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "cookies": "Cookie政策",
+      "rights": "保留所有权利。",
+      "version": "版本"
+    }
+  }
+}

@@ -1,0 +1,386 @@
+[
+  {
+    "page_number": 676,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 29.14 and the provided text, what was the approximate percentage reduction in nitrogen loss due to leaching when Polytrichum moss was present compared to its absence?",
+      "zh": "根据图29.14和所提供的文本，当有Polytrichum苔藓存在时，氮素因淋失造成的损失与没有苔藓时相比，大约减少了多少百分比？",
+      "es": "Según la Figura 29.14 y el texto proporcionado, ¿cuál fue la reducción porcentual aproximada en la pérdida de nitrógeno debido a la lixiviación cuando el musgo Polytrichum estaba presente en comparación con su ausencia?",
+      "fr": "D'après la Figure 29.14 et le texte fourni, quelle a été la réduction approximative en pourcentage de la perte d'azote due au lessivage lorsque la mousse Polytrichum était présente par rapport à son absence ?",
+      "de": "Basierend auf Abbildung 29.14 und dem bereitgestellten Text, wie hoch war die ungefähre prozentuale Reduzierung des Stickstoffverlusts durch Auswaschung, wenn Polytrichum-Moos vorhanden war, im Vergleich zu seiner Abwesenheit?",
+      "ja": "図29.14および提供されたテキストに基づき、スギゴケ（Polytrichum）が存在する場合と存在しない場合を比較して、浸出による窒素損失のおおよその削減率は何パーセントでしたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Approximately 94%.",
+          "zh": "大约94%。",
+          "es": "Aproximadamente 94%.",
+          "fr": "Environ 94%.",
+          "de": "Ungefähr 94%.",
+          "ja": "約94%。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Approximately 85%.",
+          "zh": "大约85%。",
+          "es": "Aproximadamente 85%.",
+          "fr": "Environ 85%.",
+          "de": "Ungefähr 85%.",
+          "ja": "約85%。"
+        },
+        "feedback": {
+          "en": "The reduction is closer to 94% based on the data. Without moss, loss was about 5.0 kg/ha; with moss, it was 0.3 kg/ha. The reduction is (5.0 - 0.3) / 5.0 = 4.7 / 5.0 = 0.94 or 94%.",
+          "zh": "根据数据，减少量接近94%。没有苔藓时，损失约为5.0公斤/公顷；有苔藓时，损失为0.3公斤/公顷。减少量为(5.0 - 0.3) / 5.0 = 4.7 / 5.0 = 0.94，即94%。",
+          "es": "La reducción es más cercana al 94% según los datos. Sin musgo, la pérdida fue de aproximadamente 5.0 kg/ha; con musgo, fue de 0.3 kg/ha. La reducción es (5.0 - 0.3) / 5.0 = 4.7 / 5.0 = 0.94 o 94%.",
+          "fr": "La réduction est plus proche de 94% d'après les données. Sans mousse, la perte était d'environ 5,0 kg/ha; avec mousse, elle était de 0,3 kg/ha. La réduction est de (5,0 - 0,3) / 5,0 = 4,7 / 5,0 = 0,94 soit 94%.",
+          "de": "Die Reduzierung liegt näher bei 94% basierend auf den Daten. Ohne Moos betrug der Verlust etwa 5,0 kg/ha; mit Moos waren es 0,3 kg/ha. Die Reduzierung beträgt (5,0 - 0,3) / 5,0 = 4,7 / 5,0 = 0,94 oder 94%.",
+          "ja": "データに基づくと、削減率は94%に近いです。苔がない場合の損失は約5.0 kg/ha、苔がある場合は0.3 kg/haでした。削減率は(5.0 - 0.3) / 5.0 = 4.7 / 5.0 = 0.94、つまり94%です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Approximately 5%.",
+          "zh": "大约5%。",
+          "es": "Aproximadamente 5%.",
+          "fr": "Environ 5%.",
+          "de": "Ungefähr 5%.",
+          "ja": "約5%。"
+        },
+        "feedback": {
+          "en": "This value represents the approximate leaching loss without moss, not the percentage reduction.",
+          "zh": "这个值代表的是没有苔藓时淋失的大致损失量，而不是减少的百分比。",
+          "es": "Este valor representa la pérdida aproximada por lixiviación sin musgo, no la reducción porcentual.",
+          "fr": "Cette valeur représente la perte approximative par lessivage sans mousse, et non le pourcentage de réduction.",
+          "de": "Dieser Wert stellt den ungefähren Auswaschungsverlust ohne Moos dar, nicht die prozentuale Reduzierung.",
+          "ja": "この値は苔がない場合の浸出による損失のおおよその量であり、削減率ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Approximately 15%.",
+          "zh": "大约15%。",
+          "es": "Aproximadamente 15%.",
+          "fr": "Environ 15%.",
+          "de": "Ungefähr 15%.",
+          "ja": "約15%。"
+        },
+        "feedback": {
+          "en": "This calculation is incorrect. The reduction in nitrogen loss due to leaching by Polytrichum moss is significantly higher.",
+          "zh": "这个计算不正确。Polytrichum苔藓减少淋失造成的氮素损失的比例要高得多。",
+          "es": "Este cálculo es incorrecto. La reducción en la pérdida de nitrógeno debido a la lixiviación por el musgo Polytrichum es significativamente mayor.",
+          "fr": "Ce calcul est incorrect. La réduction de la perte d'azote due au lessivage par la mousse Polytrichum est significativement plus élevée.",
+          "de": "Diese Berechnung ist falsch. Die Reduzierung des Stickstoffverlusts durch Auswaschung durch Polytrichum-Moos ist signifikant höher.",
+          "ja": "この計算は正しくありません。スギゴケによる浸出による窒素損失の削減は、はるかに大きいです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "According to the graph in Figure 29.14, the annual nitrogen loss due to leaching without moss is approximately 5.0 kg/ha. The text states that with Polytrichum moss, the nitrogen lost to leaching was 0.3 kg/ha. Therefore, the reduction in nitrogen loss due to leaching is 5.0 kg/ha - 0.3 kg/ha = 4.7 kg/ha. The percentage reduction is (4.7 kg/ha / 5.0 kg/ha) * 100% = 94%.",
+      "zh": "根据图29.14中的图表，没有苔藓时，每年因淋失造成的氮素损失约为5.0公斤/公顷。文本指出，有Polytrichum苔藓时，因淋失造成的氮素损失为0.3公斤/公顷。因此，淋失造成的氮素损失减少量为5.0公斤/公顷 - 0.3公斤/公顷 = 4.7公斤/公顷。减少的百分比为(4.7公斤/公顷 / 5.0公斤/公顷) * 100% = 94%。",
+      "es": "Según el gráfico de la Figura 29.14, la pérdida anual de nitrógeno debido a la lixiviación sin musgo es de aproximadamente 5.0 kg/ha. El texto indica que con el musgo Polytrichum, la pérdida de nitrógeno por lixiviación fue de 0.3 kg/ha. Por lo tanto, la reducción en la pérdida de nitrógeno debido a la lixiviación es de 5.0 kg/ha - 0.3 kg/ha = 4.7 kg/ha. La reducción porcentual es (4.7 kg/ha / 5.0 kg/ha) * 100% = 94%.",
+      "fr": "Selon le graphique de la Figure 29.14, la perte annuelle d'azote due au lessivage sans mousse est d'environ 5,0 kg/ha. Le texte indique qu'avec la mousse Polytrichum, la perte d'azote par lessivage était de 0,3 kg/ha. Par conséquent, la réduction de la perte d'azote due au lessivage est de 5,0 kg/ha - 0,3 kg/ha = 4,7 kg/ha. La réduction en pourcentage est de (4,7 kg/ha / 5,0 kg/ha) * 100% = 94%.",
+      "de": "Gemäß dem Diagramm in Abbildung 29.14 beträgt der jährliche Stickstoffverlust durch Auswaschung ohne Moos etwa 5,0 kg/ha. Der Text besagt, dass mit Polytrichum-Moos der Stickstoffverlust durch Auswaschung 0,3 kg/ha betrug. Die Reduzierung des Stickstoffverlusts durch Auswaschung beträgt daher 5,0 kg/ha - 0,3 kg/ha = 4,7 kg/ha. Die prozentuale Reduzierung beträgt (4,7 kg/ha / 5,0 kg/ha) * 100% = 94%.",
+      "ja": "図29.14のグラフによると、苔がない場合の浸出による年間窒素損失は約5.0 kg/haです。テキストには、スギゴケ（Polytrichum）がある場合、浸出による窒素損失が0.3 kg/haであったと述べられています。したがって、浸出による窒素損失の削減は、5.0 kg/ha - 0.3 kg/ha = 4.7 kg/haです。削減率は (4.7 kg/ha / 5.0 kg/ha) * 100% = 94% です。"
+    }
+  },
+  {
+    "page_number": 676,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describe significant ecological, economic, or archaeological contributions of mosses as presented in the text? (Select all that apply)",
+      "zh": "以下哪项陈述准确描述了文本中提及的苔藓在生态、经济或考古方面的重要贡献？(选择所有适用项)",
+      "es": "¿Cuáles de las siguientes afirmaciones describen con precisión las contribuciones ecológicas, económicas o arqueológicas significativas de los musgos tal como se presentan en el texto? (Seleccione todas las que correspondan)",
+      "fr": "Parmi les affirmations suivantes, lesquelles décrivent avec précision les contributions écologiques, économiques ou archéologiques significatives des mousses telles que présentées dans le texte ? (Sélectionnez toutes les réponses pertinentes)",
+      "de": "Welche der folgenden Aussagen beschreiben die im Text dargestellten bedeutenden ökologischen, wirtschaftlichen oder archäologischen Beiträge von Moosen genau? (Wählen Sie alle zutreffenden aus)",
+      "ja": "本文に記載されている苔の生態学的、経済的、または考古学的に重要な貢献を正確に記述しているのは、以下の記述のうちどれですか？（該当するものをすべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Certain moss species, like Pleurozium, enhance nitrogen availability in ecosystems by harboring nitrogen-fixing cyanobacteria.",
+          "zh": "某些苔藓物种，如羽藓属（Pleurozium），通过承载固氮蓝细菌来增加生态系统中氮素的有效性。",
+          "es": "Ciertas especies de musgos, como Pleurozium, mejoran la disponibilidad de nitrógeno en los ecosistemas al albergar cianobacterias fijadoras de nitrógeno.",
+          "fr": "Certaines espèces de mousses, comme Pleurozium, augmentent la disponibilité de l'azote dans les écosystèmes en abritant des cyanobactéries fixatrices d'azote.",
+          "de": "Bestimmte Moosarten, wie Pleurozium, erhöhen die Stickstoffverfügbarkeit in Ökosystemen, indem sie stickstofffixierende Cyanobakterien beherbergen.",
+          "ja": "ハネゴケ属（Pleurozium）のような特定のコケ植物は、窒素固定を行うシアノバクテリアを宿すことで、生態系における窒素の利用可能性を高めます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Sphagnum moss contributes to the formation of peat, a valuable fuel source, due to its rapid decomposition in peatlands.",
+          "zh": "泥炭藓（Sphagnum）通过在泥炭地中快速分解而形成泥炭，这是一种有价值的燃料来源。",
+          "es": "El musgo Sphagnum contribuye a la formación de turba, una valiosa fuente de combustible, debido a su rápida descomposición en los turberas.",
+          "fr": "La mousse de sphaigne contribue à la formation de la tourbe, une source de combustible précieuse, grâce à sa décomposition rapide dans les tourbières.",
+          "de": "Torfmoos (Sphagnum) trägt aufgrund seiner schnellen Zersetzung in Mooren zur Torfbildung bei, einer wertvollen Brennstoffquelle.",
+          "ja": "ミズゴケ（Sphagnum）は、泥炭地での急速な分解により、貴重な燃料源である泥炭の形成に貢献します。"
+        },
+        "feedback": {
+          "en": "Sphagnum moss does not decay readily, which is why it forms peat. Its resistance to decay is due to phenolic compounds, low temperature, low pH, and low oxygen levels in peatlands.",
+          "zh": "泥炭藓不易分解，这就是它能形成泥炭的原因。其抗分解能力归因于泥炭地中的酚类化合物、低温、低pH值和低氧水平。",
+          "es": "El musgo Sphagnum no se descompone fácilmente, por eso forma turba. Su resistencia a la descomposición se debe a los compuestos fenólicos, la baja temperatura, el bajo pH y los bajos niveles de oxígeno en las turberas.",
+          "fr": "La mousse de sphaigne ne se décompose pas facilement, c'est pourquoi elle forme de la tourbe. Sa résistance à la décomposition est due aux composés phénoliques, à la basse température, au faible pH et aux faibles niveaux d'oxygène dans les tourbières.",
+          "de": "Torfmoos (Sphagnum) zersetzt sich nicht leicht, weshalb es Torf bildet. Seine Zersetzungsresistenz ist auf phenolische Verbindungen, niedrige Temperaturen, einen niedrigen pH-Wert und niedrige Sauerstoffkonzentrationen in Mooren zurückzuführen.",
+          "ja": "ミズゴケは容易に分解しないため、泥炭を形成します。その分解への耐性は、泥炭地におけるフェノール化合物、低温、低pH、低酸素レベルによるものです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Mosses, including Sphagnum, are capable of preserving organic matter and even human bodies for thousands of years under specific conditions.",
+          "zh": "苔藓，包括泥炭藓（Sphagnum），在特定条件下能够保存有机物乃至人体数千年。",
+          "es": "Los musgos, incluido Sphagnum, son capaces de preservar la materia orgánica e incluso cuerpos humanos durante miles de años bajo condiciones específicas.",
+          "fr": "Les mousses, y compris la sphaigne, sont capables de préserver la matière organique et même les corps humains pendant des milliers d'années dans des conditions spécifiques.",
+          "de": "Moose, einschließlich Sphagnum, sind unter bestimmten Bedingungen in der Lage, organische Materie und sogar menschliche Körper über Tausende von Jahren zu konservieren.",
+          "ja": "ミズゴケを含むコケ植物は、特定の条件下で有機物や人体さえも数千年にわたって保存することができます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Moss cell walls contain phenolic compounds that protect them from damaging levels of UV radiation.",
+          "zh": "苔藓细胞壁含有酚类化合物，可以保护它们免受有害紫外线辐射的伤害。",
+          "es": "Las paredes celulares de los musgos contienen compuestos fenólicos que los protegen de los niveles dañinos de radiación UV.",
+          "fr": "Les parois cellulaires des mousses contiennent des composés phénoliques qui les protègent des niveaux nocifs de rayonnement UV.",
+          "de": "Mooszellwände enthalten phenolische Verbindungen, die sie vor schädlichen UV-Strahlungen schützen.",
+          "ja": "コケ植物の細胞壁にはフェノール化合物が含まれており、有害な紫外線から身を守ります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Polytrichum moss significantly reduces nitrogen loss from soils through leaching.",
+          "zh": "大灰藓（Polytrichum）显著减少了土壤中氮素通过淋失造成的损失。",
+          "es": "El musgo Polytrichum reduce significativamente la pérdida de nitrógeno de los suelos por lixiviación.",
+          "fr": "La mousse Polytrichum réduit significativement la perte d'azote des sols par lessivage.",
+          "de": "Polytrichum-Moos reduziert den Stickstoffverlust aus Böden durch Auswaschung erheblich.",
+          "ja": "スギゴケ（Polytrichum）は、浸出による土壌からの窒素損失を大幅に削減します。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": {
+      "en": "Option B is incorrect because Sphagnum moss does not decay readily; its resistance to decay is a key factor in peat formation, enabled by phenolic compounds and the unique low temperature, low pH, and low oxygen conditions of peatlands. Options A, C, D, and E are all directly supported by the text.",
+      "zh": "选项B不正确，因为泥炭藓不易分解；其抗分解能力是形成泥炭的关键因素，这得益于酚类化合物以及泥炭地特有的低温、低pH值和低氧条件。选项A、C、D和E均直接得到文本的支持。",
+      "es": "La opción B es incorrecta porque el musgo Sphagnum no se descompone fácilmente; su resistencia a la descomposición es un factor clave en la formación de turba, posible gracias a los compuestos fenólicos y las condiciones únicas de baja temperatura, bajo pH y bajos niveles de oxígeno de los turberas. Las opciones A, C, D y E están directamente respaldadas por el texto.",
+      "fr": "L'option B est incorrecte car la mousse de sphaigne ne se décompose pas facilement ; sa résistance à la décomposition est un facteur clé de la formation de la tourbe, rendue possible par les composés phénoliques et les conditions uniques de basse température, de faible pH et de faible teneur en oxygène des tourbières. Les options A, C, D et E sont toutes directement appuyées par le texte.",
+      "de": "Option B ist falsch, da Torfmoos (Sphagnum) nicht leicht zersetzt wird; seine Zersetzungsresistenz ist ein Schlüsselfaktor bei der Torfbildung, ermöglicht durch phenolische Verbindungen und die einzigartigen niedrigen Temperaturen, den niedrigen pH-Wert und die niedrigen Sauerstoffbedingungen in Mooren. Die Optionen A, C, D und E werden alle direkt durch den Text gestützt.",
+      "ja": "選択肢Bは誤りです。ミズゴケは容易には分解しません。その分解への抵抗性が、フェノール化合物と泥炭地の特異な低温、低pH、低酸素条件によって可能になる泥炭形成の主要な要因です。選択肢A、C、D、Eはすべてテキストによって直接裏付けられています。"
+    }
+  },
+  {
+    "page_number": 676,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text describes several factors that inhibit the decay of Sphagnum moss in peatlands, leading to peat formation and preservation. Which of the following are among these factors? (Select all that apply)",
+      "zh": "文本描述了抑制泥炭藓（Sphagnum）在泥炭地中分解的几个因素，这些因素导致了泥炭的形成和保存。以下哪项是这些因素之一？(选择所有适用项)",
+      "es": "El texto describe varios factores que inhiben la descomposición del musgo Sphagnum en las turberas, lo que lleva a la formación y preservación de turba. ¿Cuáles de los siguientes se encuentran entre estos factores? (Seleccione todas las que correspondan)",
+      "fr": "Le texte décrit plusieurs facteurs qui inhibent la décomposition de la mousse de sphaigne dans les tourbières, entraînant la formation et la préservation de la tourbe. Lesquels des éléments suivants figurent parmi ces facteurs ? (Sélectionnez toutes les réponses pertinentes)",
+      "de": "Der Text beschreibt mehrere Faktoren, die den Zerfall von Torfmoos (Sphagnum) in Mooren hemmen und zur Torfbildung und -erhaltung führen. Welche der folgenden gehören zu diesen Faktoren? (Wählen Sie alle zutreffenden aus)",
+      "ja": "本文には、ミズゴケが泥炭地で分解するのを抑制し、泥炭の形成と保存につながるいくつかの要因が記述されています。以下のうち、これらの要因に含まれるものはどれですか？（該当するものをすべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The presence of high concentrations of phenolic compounds in Sphagnum cell walls.",
+          "zh": "泥炭藓细胞壁中存在高浓度的酚类化合物。",
+          "es": "La presencia de altas concentraciones de compuestos fenólicos en las paredes celulares de Sphagnum.",
+          "fr": "La présence de fortes concentrations de composés phénoliques dans les parois cellulaires de la sphaigne.",
+          "de": "Das Vorhandensein hoher Konzentrationen phenolischer Verbindungen in den Zellwänden von Sphagnum.",
+          "ja": "ミズゴケの細胞壁に高濃度のフェノール化合物が存在すること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The high temperature prevalent in boggy wetlands.",
+          "zh": "沼泽湿地中普遍存在的高温。",
+          "es": "La alta temperatura prevalente en los humedales pantanosos.",
+          "fr": "La température élevée prévalant dans les zones humides marécageuses.",
+          "de": "Die in sumpfigen Feuchtgebieten vorherrschende hohe Temperatur.",
+          "ja": "泥炭湿地に広く見られる高温。"
+        },
+        "feedback": {
+          "en": "The text states that the 'low temperature' of peatlands inhibits decay, not high temperature.",
+          "zh": "文本指出，泥炭地的“低温”抑制了分解，而不是高温。",
+          "es": "El texto afirma que la 'baja temperatura' de los turberas inhibe la descomposición, no la alta temperatura.",
+          "fr": "Le texte indique que la « basse température » des tourbières inhibe la décomposition, et non une température élevée.",
+          "de": "Der Text besagt, dass die 'niedrige Temperatur' der Moore den Zerfall hemmt, nicht hohe Temperaturen.",
+          "ja": "本文には「低温」の泥炭地が分解を抑制すると述べられており、高温ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The acidic (low pH) conditions of peatlands.",
+          "zh": "泥炭地的酸性（低pH值）条件。",
+          "es": "Las condiciones ácidas (pH bajo) de los turberas.",
+          "fr": "Les conditions acides (pH bas) des tourbières.",
+          "de": "Die sauren (niedrigen pH-Wert) Bedingungen der Moore.",
+          "ja": "泥炭地の酸性（低pH）条件。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The low oxygen levels within peatlands.",
+          "zh": "泥炭地内低氧水平。",
+          "es": "Los bajos niveles de oxígeno dentro de las turberas.",
+          "fr": "Les faibles niveaux d'oxygène dans les tourbières.",
+          "de": "Die niedrigen Sauerstoffwerte in Mooren.",
+          "ja": "泥炭地内の低酸素レベル。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "The rapid water flow through peatlands, washing away decomposers.",
+          "zh": "泥炭地内水的快速流动，冲走了分解者。",
+          "es": "El rápido flujo de agua a través de las turberas, arrastrando a los descomponedores.",
+          "fr": "Le flux rapide de l'eau à travers les tourbières, emportant les décomposeurs.",
+          "de": "Der schnelle Wasserfluss durch Moore, der Zersetzer wegschwemmt.",
+          "ja": "泥炭地を流れる速い水流が分解者を洗い流すこと。"
+        },
+        "feedback": {
+          "en": "The text does not mention rapid water flow as a factor; peatlands are typically boggy, implying stagnant or slow-moving water, which contributes to low oxygen levels.",
+          "zh": "文本并未提及快速水流是一个因素；泥炭地通常是沼泽地，意味着水流停滞或缓慢，这有助于形成低氧环境。",
+          "es": "El texto no menciona el flujo rápido de agua como un factor; las turberas suelen ser pantanosas, lo que implica agua estancada o de movimiento lento, lo que contribuye a los bajos niveles de oxígeno.",
+          "fr": "Le texte ne mentionne pas de flux d'eau rapide comme facteur ; les tourbières sont typiquement des zones humides, ce qui implique une eau stagnante ou à faible débit, contribuant à de faibles niveaux d'oxygène.",
+          "de": "Der Text erwähnt keinen schnellen Wasserfluss als Faktor; Moore sind typischerweise sumpfig, was stehendes oder langsam fließendes Wasser impliziert, das zu niedrigen Sauerstoffkonzentrationen beiträgt.",
+          "ja": "本文では速い水流が要因であるとは述べられていません。泥炭地は通常、沼地であり、水が滞留しているかゆっくりと流れていることを意味し、これが低酸素レベルに寄与します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that Sphagnum does not decay readily due to 'phenolic compounds embedded in its cell walls. The low temperature, pH, and oxygen level of peatlands also inhibit decay.' This directly supports options A, C, and D. Options B and E contradict the information provided or are not mentioned.",
+      "zh": "文本明确指出，泥炭藓不易分解，原因是“酚类化合物嵌入其细胞壁中。泥炭地的低温、pH值和氧气水平也抑制了分解”。这直接支持了选项A、C和D。选项B和E与所提供的信息相矛盾或未提及。",
+      "es": "El texto afirma explícitamente que el Sphagnum no se descompone fácilmente debido a los 'compuestos fenólicos incrustados en sus paredes celulares. La baja temperatura, el pH y el nivel de oxígeno de las turberas también inhiben la descomposición.' Esto apoya directamente las opciones A, C y D. Las opciones B y E contradicen la información proporcionada o no se mencionan.",
+      "fr": "Le texte indique explicitement que la sphaigne ne se décompose pas facilement en raison des « composés phénoliques incorporés dans ses parois cellulaires. La basse température, le pH et le niveau d'oxygène des tourbières inhibent également la décomposition. » Cela soutient directement les options A, C et D. Les options B et E contredisent les informations fournies ou ne sont pas mentionnées.",
+      "de": "Der Text besagt explizit, dass Sphagnum aufgrund 'phenolischer Verbindungen, die in seinen Zellwänden eingebettet sind' nicht leicht zersetzt wird. 'Die niedrige Temperatur, der pH-Wert und der Sauerstoffgehalt von Mooren hemmen ebenfalls den Zerfall.' Dies unterstützt direkt die Optionen A, C und D. Die Optionen B und E widersprechen den bereitgestellten Informationen oder werden nicht erwähnt.",
+      "ja": "本文では、ミズゴケが「細胞壁に埋め込まれたフェノール化合物」や「泥炭地の低温、pH、酸素レベル」によって分解しにくいと明示されています。これは選択肢A、C、Dを直接支持します。選択肢BとEは提供された情報と矛盾するか、言及されていません。"
+    }
+  },
+  {
+    "page_number": 676,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the information provided, particularly the 'WHAT IF?' prompt, how might the continued presence of Polytrichum moss in sandy soils affect the succession of other plant species that typically colonize these areas?",
+      "zh": "根据所提供的信息，特别是“如果……会怎样？”这个提示，大灰藓（Polytrichum）苔藓在沙质土壤中持续存在，可能会如何影响通常在此区域定植的其他植物物种的演替？",
+      "es": "Basándose en la información proporcionada, particularmente en la pregunta '¿QUÉ PASARÍA SI?', ¿cómo podría la presencia continua del musgo Polytrichum en suelos arenosos afectar la sucesión de otras especies de plantas que típicamente colonizan estas áreas?",
+      "fr": "D'après les informations fournies, en particulier la question 'ET SI ?', comment la présence continue de la mousse Polytrichum dans les sols sableux pourrait-elle affecter la succession d'autres espèces végétales qui colonisent typiquement ces zones ?",
+      "de": "Basierend auf den bereitgestellten Informationen, insbesondere der Frage „WAS WÄRE WENN?“, wie könnte die fortgesetzte Anwesenheit von Polytrichum-Moos in sandigen Böden die Sukzession anderer Pflanzenarten beeinflussen, die typischerweise diese Gebiete besiedeln?",
+      "ja": "提供された情報、特に「もしも？」の問いに基づいて、砂質土壌におけるスギゴケの継続的な存在は、通常これらの地域に定着する他の植物種の遷移にどのように影響する可能性がありますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It would likely facilitate the establishment and growth of a broader range of plant species by increasing nitrogen availability in the soil.",
+          "zh": "它可能会通过增加土壤中氮素的有效性，促进更广泛的植物物种的建立和生长。",
+          "es": "Es probable que facilite el establecimiento y crecimiento de una gama más amplia de especies de plantas al aumentar la disponibilidad de nitrógeno en el suelo.",
+          "fr": "Cela faciliterait probablement l'établissement et la croissance d'une gamme plus large d'espèces végétales en augmentant la disponibilité de l'azote dans le sol.",
+          "de": "Es würde wahrscheinlich die Etablierung und das Wachstum einer breiteren Palette von Pflanzenarten erleichtern, indem es die Stickstoffverfügbarkeit im Boden erhöht.",
+          "ja": "土壌中の窒素利用可能性を高めることで、より広範な植物種の定着と成長を促進する可能性が高い。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It would inhibit the colonization of other plant species by aggressively outcompeting them for limited nitrogen resources.",
+          "zh": "它会通过积极地竞争有限的氮素资源，从而抑制其他植物物种的定植。",
+          "es": "Inhibiría la colonización de otras especies de plantas al competir agresivamente con ellas por los recursos limitados de nitrógeno.",
+          "fr": "Cela inhiberait la colonisation d'autres espèces végétales en les concurrençant agressivement pour les ressources limitées en azote.",
+          "de": "Es würde die Besiedlung anderer Pflanzenarten hemmen, indem es aggressiv mit ihnen um begrenzte Stickstoffressourcen konkurriert.",
+          "ja": "限られた窒素資源を積極的に競合することで、他の植物種の定着を阻害するだろう。"
+        },
+        "feedback": {
+          "en": "Polytrichum's primary effect mentioned is reducing nitrogen *loss*, meaning it helps *retain* nitrogen within the ecosystem, making it more available for the entire community, not just for itself.",
+          "zh": "文本中提到Polytrichum的主要作用是减少氮素的*流失*，这意味着它有助于将氮素*保留*在生态系统内，使其可供整个群落使用，而不仅仅是它自己。",
+          "es": "El efecto principal de Polytrichum mencionado es la reducción de la *pérdida* de nitrógeno, lo que significa que ayuda a *retener* el nitrógeno dentro del ecosistema, haciéndolo más disponible para toda la comunidad, no solo para sí mismo.",
+          "fr": "L'effet principal de Polytrichum mentionné est la réduction de la *perte* d'azote, ce qui signifie qu'il aide à *retenir* l'azote au sein de l'écosystème, le rendant plus disponible pour toute la communauté, et pas seulement pour lui-même.",
+          "de": "Die primäre Wirkung von Polytrichum besteht darin, den Stickstoff*verlust* zu reduzieren, was bedeutet, dass es hilft, Stickstoff im Ökosystem zu *halten* und ihn für die gesamte Gemeinschaft verfügbar zu machen, nicht nur für sich selbst.",
+          "ja": "スギゴケの主な効果は窒素の『損失』を減らすことだと述べられており、これは生態系内で窒素を『保持』し、自分自身だけでなくコミュニティ全体で利用可能にすることを意味します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It would primarily lead to a significant increase in soil acidity, making the environment unsuitable for most subsequent colonizers.",
+          "zh": "它主要会导致土壤酸度显著增加，使环境不适合大多数后续定植者。",
+          "es": "Conduciría principalmente a un aumento significativo de la acidez del suelo, haciendo que el ambiente sea inadecuado para la mayoría de los colonizadores posteriores.",
+          "fr": "Cela entraînerait principalement une augmentation significative de l'acidité du sol, rendant l'environnement inadapté à la plupart des colonisateurs ultérieurs.",
+          "de": "Es würde hauptsächlich zu einer signifikanten Zunahme des Bodensäuregehalts führen, wodurch die Umgebung für die meisten nachfolgenden Besiedler ungeeignet wird.",
+          "ja": "主に土壌の酸性度を大幅に増加させ、その結果、ほとんどの後続の定着者にとって環境が不適切になるだろう。"
+        },
+        "feedback": {
+          "en": "The text links acidification primarily to Sphagnum moss, not Polytrichum. Polytrichum's role highlighted here is nitrogen retention.",
+          "zh": "文本主要将酸化与泥炭藓（Sphagnum）联系起来，而不是大灰藓（Polytrichum）。大灰藓在这里强调的作用是氮素保留。",
+          "es": "El texto vincula la acidificación principalmente con el musgo Sphagnum, no con Polytrichum. El papel de Polytrichum destacado aquí es la retención de nitrógeno.",
+          "fr": "Le texte associe principalement l'acidification à la mousse de sphaigne, et non à Polytrichum. Le rôle de Polytrichum mis en évidence ici est la rétention d'azote.",
+          "de": "Der Text verknüpft die Versauerung hauptsächlich mit Torfmoos (Sphagnum), nicht mit Polytrichum. Die hier hervorgehobene Rolle von Polytrichum ist die Stickstoffretention.",
+          "ja": "本文は主にミズゴケの酸性化について言及しており、スギゴケについては言及していません。ここで強調されているスギゴケの役割は窒素保持です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It would have little long-term effect on plant succession, as the nitrogen it retains would eventually be lost through other pathways.",
+          "zh": "它对植物演替的长期影响很小，因为它保留的氮最终会通过其他途径流失。",
+          "es": "Tendría poco efecto a largo plazo en la sucesión vegetal, ya que el nitrógeno que retiene eventualmente se perdería a través de otras vías.",
+          "fr": "Cela aurait peu d'effet à long terme sur la succession végétale, car l'azote qu'elle retient serait finalement perdu par d'autres voies.",
+          "de": "Es hätte nur geringe Langzeitwirkungen auf die Pflanzenökologie, da der von ihm zurückgehaltene Stickstoff schließlich auf anderen Wegen verloren ginge.",
+          "ja": "保持する窒素が最終的に他の経路で失われるため、植物の遷移に長期的な影響はほとんどないだろう。"
+        },
+        "feedback": {
+          "en": "The conclusion explicitly states that the moss ecosystem 'retained over 95% of the 10.5 kg/ha of total nitrogen inputs', indicating a significant long-term effect on nutrient availability.",
+          "zh": "结论明确指出，苔藓生态系统“保留了总氮输入量10.5公斤/公顷的95%以上”，这表明对养分有效性有显著的长期影响。",
+          "es": "La conclusión establece explícitamente que el ecosistema de musgo 'retuvo más del 95% de los 10.5 kg/ha del nitrógeno total', lo que indica un efecto significativo a largo plazo sobre la disponibilidad de nutrientes.",
+          "fr": "La conclusion indique explicitement que l'écosystème de mousse « a retenu plus de 95% des 10,5 kg/ha d'apports totaux d'azote », ce qui indique un effet significatif à long terme sur la disponibilité des nutriments.",
+          "de": "Die Schlussfolgerung besagt explizit, dass das Moosökosystem „über 95% der 10,5 kg/ha der gesamten Stickstoffzufuhr zurückhielt“, was auf einen signifikanten Langzeiteffekt auf die Nährstoffverfügbarkeit hinweist.",
+          "ja": "結論には、苔の生態系が「総窒素投入量10.5 kg/haの95%以上を保持した」と明記されており、これは栄養素の利用可能性に長期的に大きな影響を与えることを示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text concludes that Polytrichum moss 'greatly reduced the loss of nitrogen by leaching in this ecosystem,' retaining 'over 95% of the 10.5 kg/ha of total nitrogen inputs.' By significantly reducing nitrogen loss, the moss effectively increases the nitrogen available in the soil over time. This increased nutrient availability would likely support a wider array of plant species in colonizing the sandy soils, as nitrogen is a 'nutrient required for normal plant growth' and soils are 'often low in nitrogen.'",
+      "zh": "文本总结道，大灰藓（Polytrichum）“极大地减少了该生态系统中因淋失造成的氮素损失”，保留了“总氮输入量10.5公斤/公顷的95%以上”。通过显著减少氮素流失，苔藓有效地增加了土壤中随着时间推移可利用的氮素。由于氮是“植物正常生长所需的营养物质”，且土壤“通常氮含量较低”，因此这种增加的养分有效性可能会支持更广泛的植物物种在沙质土壤中定植。",
+      "es": "El texto concluye que el musgo Polytrichum 'redujo en gran medida la pérdida de nitrógeno por lixiviación en este ecosistema', reteniendo 'más del 95% de los 10.5 kg/ha del total de nitrógeno'. Al reducir significativamente la pérdida de nitrógeno, el musgo aumenta eficazmente el nitrógeno disponible en el suelo con el tiempo. Esta mayor disponibilidad de nutrientes probablemente apoyaría a una gama más amplia de especies de plantas en la colonización de suelos arenosos, ya que el nitrógeno es un 'nutriente necesario para el crecimiento normal de las plantas' y los suelos suelen ser 'bajos en nitrógeno'.",
+      "fr": "Le texte conclut que la mousse Polytrichum « a considérablement réduit la perte d'azote par lessivage dans cet écosystème », retenant « plus de 95 % des 10,5 kg/ha des apports totaux d'azote ». En réduisant significativement la perte d'azote, la mousse augmente efficacement l'azote disponible dans le sol au fil du temps. Cette disponibilité accrue en nutriments soutiendrait probablement une plus large gamme d'espèces végétales dans la colonisation des sols sableux, car l'azote est un « nutriment nécessaire à la croissance normale des plantes » et les sols sont « souvent pauvres en azote ».",
+      "de": "Der Text kommt zu dem Schluss, dass Polytrichum-Moos „den Stickstoffverlust durch Auswaschung in diesem Ökosystem erheblich reduziert“ hat und „über 95% der 10,5 kg/ha der gesamten Stickstoffzufuhr“ zurückhielt. Durch die signifikante Reduzierung des Stickstoffverlusts erhöht das Moos effektiv die im Boden verfügbare Stickstoffmenge im Laufe der Zeit. Diese erhöhte Nährstoffverfügbarkeit würde wahrscheinlich eine größere Vielfalt von Pflanzenarten bei der Besiedlung sandiger Böden unterstützen, da Stickstoff ein „für normales Pflanzenwachstum erforderlicher Nährstoff“ ist und Böden „oft stickstoffarm“ sind.",
+      "ja": "本文は、スギゴケが「この生態系における浸出による窒素損失を大幅に減少させ」、「総窒素投入量10.5 kg/haの95%以上を保持した」と結論付けています。窒素損失を大幅に減らすことで、スギゴケは時間とともに土壌中の窒素利用可能性を効果的に増加させます。窒素は「植物の正常な成長に必要な栄養素」であり、土壌は「しばしば窒素が少ない」ため、この増加した栄養素の利用可能性は、砂質土壌を定着するより広範な植物種をサポートする可能性が高いです。"
+    }
+  }
+]

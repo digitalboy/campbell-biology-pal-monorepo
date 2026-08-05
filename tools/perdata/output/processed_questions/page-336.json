@@ -1,0 +1,264 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Achondroplasia is a form of dwarfism caused by a dominant allele. If a man with achondroplasia (Dd) has a child with a woman of normal height (dd), what is the probability that their child will have dwarfism?",
+      "zh": "软骨发育不全症是一种由显性等位基因引起的侏儒症。如果一个患有软骨发育不全症的男子（Dd）与一个身高正常的女子（dd）生一个孩子，他们的孩子患有侏儒症的概率是多少？",
+      "es": "La acondroplasia es una forma de enanismo causada por un alelo dominante. Si un hombre con acondroplasia (Dd) tiene un hijo con una mujer de estatura normal (dd), ¿cuál es la probabilidad de que su hijo tenga enanismo?",
+      "fr": "L'achondroplasie est une forme de nanisme causée par un allèle dominant. Si un homme atteint d'achondroplasie (Dd) a un enfant avec une femme de taille normale (dd), quelle est la probabilité que leur enfant soit atteint de nanisme ?",
+      "de": "Achondroplasie ist eine Form des Zwergwuchses, die durch ein dominantes Allel verursacht wird. Wenn ein Mann mit Achondroplasie (Dd) ein Kind mit einer normal großen Frau (dd) hat, wie hoch ist die Wahrscheinlichkeit, dass ihr Kind Zwergwuchs hat?",
+      "ja": "軟骨無形成症は優性対立遺伝子によって引き起こされる小人症の一種です。軟骨無形成症の男性（Dd）と通常の身長の女性（dd）の間に子供が生まれた場合、その子供が小人症になる確率はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "0%",
+          "zh": "0%",
+          "es": "0%",
+          "fr": "0%",
+          "de": "0%",
+          "ja": "0%"
+        },
+        "feedback": {
+          "en": "This would only be true if the trait were recessive and the affected parent were heterozygous.",
+          "zh": "只有当该性状是隐性的，并且患病父母是杂合子时，这才是正确的。",
+          "es": "Esto solo sería cierto si el rasgo fuera recesivo y el padre afectado fuera heterocigoto.",
+          "fr": "Cela ne serait vrai que si le trait était récessif et que le parent atteint était hétérozygote.",
+          "de": "Dies würde nur zutreffen, wenn das Merkmal rezessiv wäre und der betroffene Elternteil heterozygot wäre.",
+          "ja": "これは、形質が劣性であり、罹患した親がヘテロ接合体である場合にのみ当てはまります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "25%",
+          "zh": "25%",
+          "es": "25%",
+          "fr": "25%",
+          "de": "25%",
+          "ja": "25%"
+        },
+        "feedback": {
+          "en": "A 25% probability is characteristic of a cross between two heterozygotes for a recessive trait (Aa x Aa -> aa).",
+          "zh": "25% 的概率是两个杂合子就隐性性状进行杂交（Aa x Aa -> aa）的特征。",
+          "es": "Una probabilidad del 25% es característica de un cruce entre dos heterocigotos para un rasgo recesivo (Aa x Aa -> aa).",
+          "fr": "Une probabilité de 25 % est caractéristique d'un croisement entre deux hétérozygotes pour un caractère récessif (Aa x Aa -> aa).",
+          "de": "Eine Wahrscheinlichkeit von 25 % ist charakteristisch für eine Kreuzung zwischen zwei Heterozygoten für ein rezessives Merkmal (Aa x Aa -> aa).",
+          "ja": "25％の確率は、劣性形質に対する2つのヘテロ接合体の交配（Aa x Aa -> aa）の特徴です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "50%",
+          "zh": "50%",
+          "es": "50%",
+          "fr": "50%",
+          "de": "50%",
+          "ja": "50%"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "75%",
+          "zh": "75%",
+          "es": "75%",
+          "fr": "75%",
+          "de": "75%",
+          "ja": "75%"
+        },
+        "feedback": {
+          "en": "A 75% probability would be expected in a cross between two heterozygotes for a dominant trait (Aa x Aa -> A_).",
+          "zh": "在两个杂合子就显性性状进行杂交（Aa x Aa -> A_）时，预计会有 75% 的概率。",
+          "es": "Se esperaría una probabilidad del 75% en un cruce entre dos heterocigotos para un rasgo dominante (Aa x Aa -> A_).",
+          "fr": "Une probabilité de 75 % serait attendue dans un croisement entre deux hétérozygotes pour un caractère dominant (Aa x Aa -> A_).",
+          "de": "Eine Wahrscheinlichkeit von 75 % wäre bei einer Kreuzung zwischen zwei Heterozygoten für ein dominantes Merkmal zu erwarten (Aa x Aa -> A_).",
+          "ja": "優性形質に対する2つのヘテロ接合体の交配（Aa x Aa -> A_）では、75％の確率が期待されます。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "This is a monohybrid cross between a heterozygote (Dd) and a homozygous recessive (dd), as shown in the Punnett square in Figure 14.18. The possible offspring genotypes are Dd and dd. The Dd genotype results in dwarfism. Therefore, there is a 1/2, or 50%, chance of having a child with the dominant phenotype.",
+      "zh": "这是一个杂合子（Dd）和纯合隐性（dd）之间的单基因杂交，如图 14.18 的庞尼特方格所示。可能的后代基因型是 Dd 和 dd。Dd 基因型导致侏儒症。因此，生出具有显性表型孩子的概率是 1/2，即 50%。",
+      "es": "Este es un cruce monohíbrido entre un heterocigoto (Dd) y un homocigoto recesivo (dd), como se muestra en el cuadrado de Punnett de la Figura 14.18. Los posibles genotipos de la descendencia son Dd y dd. El genotipo Dd da como resultado enanismo. Por lo tanto, hay una probabilidad de 1/2, o 50%, de tener un hijo con el fenotipo dominante.",
+      "fr": "Il s'agit d'un croisement monohybride entre un hétérozygote (Dd) et un homozygote récessif (dd), comme le montre le carré de Punnett de la figure 14.18. Les génotypes possibles de la descendance sont Dd et dd. Le génotype Dd entraîne le nanisme. Par conséquent, il y a une chance sur deux, soit 50 %, d'avoir un enfant avec le phénotype dominant.",
+      "de": "Dies ist eine monohybride Kreuzung zwischen einem Heterozygoten (Dd) und einem homozygot rezessiven (dd), wie im Punnett-Quadrat in Abbildung 14.18 dargestellt. Die möglichen Genotypen der Nachkommen sind Dd und dd. Der Genotyp Dd führt zu Zwergwuchs. Daher besteht eine Wahrscheinlichkeit von 1/2 oder 50 %, ein Kind mit dem dominanten Phänotyp zu bekommen.",
+      "ja": "これは、図14.18のパネットの方形に示されているように、ヘテロ接合体（Dd）とホモ接合劣性（dd）の間の単性雑種交配です。考えられる子孫の遺伝子型はDdとddです。Dd遺伝子型は小人症になります。したがって、優性表現型を持つ子供が生まれる確率は1/2、つまり50％です。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Why are lethal dominant alleles much less common than lethal recessive alleles?",
+      "zh": "为什么致死性显性等位基因比致死性隐性等位基因要罕见得多？",
+      "es": "¿Por qué los alelos dominantes letales son mucho menos comunes que los alelos recesivos letales?",
+      "fr": "Pourquoi les allèles dominants létaux sont-ils beaucoup moins courants que les allèles récessifs létaux ?",
+      "de": "Warum sind letale dominante Allele viel seltener als letale rezessive Allele?",
+      "ja": "なぜ致死性の優性対立遺伝子は、致死性の劣性対立遺伝子よりもはるかにまれなのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Lethal dominant alleles often cause the death of the afflicted individual before they can reproduce.",
+          "zh": "致死性显性等位基因通常在受影响的个体能够繁殖前就导致其死亡。",
+          "es": "Los alelos dominantes letales a menudo causan la muerte del individuo afectado antes de que pueda reproducirse.",
+          "fr": "Les allèles dominants létaux provoquent souvent la mort de l'individu atteint avant qu'il ne puisse se reproduire.",
+          "de": "Letale dominante Allele führen oft zum Tod des betroffenen Individuums, bevor es sich fortpflanzen kann.",
+          "ja": "致死性の優性対立遺伝子は、罹患した個人が繁殖できるようになる前に死に至らしめることが多いため。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Lethal recessive alleles can be passed on by heterozygous carriers who have a normal phenotype.",
+          "zh": "致死性隐性等位基因可以由表型正常的杂合子携带者传递下去。",
+          "es": "Los alelos recesivos letales pueden ser transmitidos por portadores heterocigotos que tienen un fenotipo normal.",
+          "fr": "Les allèles récessifs létaux peuvent être transmis par des porteurs hétérozygotes qui ont un phénotype normal.",
+          "de": "Letale rezessive Allele können von heterozygoten Trägern weitergegeben werden, die einen normalen Phänotyp haben.",
+          "ja": "致死性の劣性対立遺伝子は、正常な表現型を持つヘテロ接合体の保因者によって伝えられる可能性があるため。"
+        },
+        "feedback": {
+          "en": "This explains why lethal recessive alleles persist, but it is only half of the answer. The question asks why dominant ones are less common.",
+          "zh": "这解释了为什么致死性隐性等位基因会持续存在，但这只是答案的一半。问题是问为什么显性致死基因更罕见。",
+          "es": "Esto explica por qué persisten los alelos recesivos letales, pero es solo la mitad de la respuesta. La pregunta es por qué los dominantes son menos comunes.",
+          "fr": "Cela explique pourquoi les allèles récessifs létaux persistent, mais ce n'est que la moitié de la réponse. La question est de savoir pourquoi les dominants sont moins courants.",
+          "de": "Dies erklärt, warum letale rezessive Allele fortbestehen, aber es ist nur die halbe Antwort. Die Frage ist, warum dominante seltener sind.",
+          "ja": "これは致死性の劣性対立遺伝子が存続する理由を説明していますが、答えの半分にすぎません。質問は、なぜ優性対立遺伝子の方がまれなのかということです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both A and B are correct.",
+          "zh": "A 和 B 都正确。",
+          "es": "Tanto A como B son correctas.",
+          "fr": "A et B sont correctes.",
+          "de": "Sowohl A als auch B sind richtig.",
+          "ja": "AとBの両方が正しい。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Dominant alleles mutate into recessive alleles more frequently.",
+          "zh": "显性等位基因比隐性等位基因更容易发生突变。",
+          "es": "Los alelos dominantes mutan en alelos recesivos con más frecuencia.",
+          "fr": "Les allèles dominants mutent en allèles récessifs plus fréquemment.",
+          "de": "Dominante Allele mutieren häufiger zu rezessiven Allelen.",
+          "ja": "優性対立遺伝子は劣性対立遺伝子よりも頻繁に突然変異します。"
+        },
+        "feedback": {
+          "en": "There is no general rule that one type of allele mutates more frequently than another.",
+          "zh": "没有普遍的规律表明一种类型的等位基因比另一种突变更频繁。",
+          "es": "No existe una regla general de que un tipo de alelo mute con más frecuencia que otro.",
+          "fr": "Il n'y a pas de règle générale selon laquelle un type d'allèle mute plus fréquemment qu'un autre.",
+          "de": "Es gibt keine allgemeine Regel, dass eine Art von Allel häufiger mutiert als eine andere.",
+          "ja": "あるタイプの対立遺伝子が他のタイプよりも頻繁に突然変異するという一般的な規則はありません。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text explains both sides of the coin. A lethal dominant allele is unlikely to be passed on because it often kills the host before reproduction (A). In contrast, a lethal recessive allele can be hidden in healthy heterozygous carriers, allowing it to be passed on to the next generation undetected (B). Together, these two factors explain why lethal dominant alleles are much rarer.",
+      "zh": "文本解释了问题的两个方面。致死性显性等位基因不太可能被传递下去，因为它通常在宿主繁殖前就将其杀死（A）。相比之下，致死性隐性等位基因可以隐藏在健康的杂合子携带者中，使其能够在不被察觉的情况下传递给下一代（B）。这两个因素共同解释了为什么致死性显性等位基因要罕见得多。",
+      "es": "El texto explica ambos lados de la moneda. Es poco probable que un alelo dominante letal se transmita porque a menudo mata al huésped antes de la reproducción (A). Por el contrario, un alelo recesivo letal puede estar oculto en portadores heterocigotos sanos, lo que permite que se transmita a la siguiente generación sin ser detectado (B). Juntos, estos dos factores explican por qué los alelos dominantes letales son mucho más raros.",
+      "fr": "Le texte explique les deux faces de la médaille. Un allèle dominant létal a peu de chances d'être transmis car il tue souvent l'hôte avant la reproduction (A). En revanche, un allèle récessif létal peut être caché chez des porteurs hétérozygotes sains, ce qui lui permet d'être transmis à la génération suivante sans être détecté (B). Ensemble, ces deux facteurs expliquent pourquoi les allèles dominants létaux sont beaucoup plus rares.",
+      "de": "Der Text erklärt beide Seiten der Medaille. Ein letales dominantes Allel wird wahrscheinlich nicht weitergegeben, da es den Wirt oft vor der Fortpflanzung tötet (A). Im Gegensatz dazu kann ein letales rezessives Allel in gesunden heterozygoten Trägern verborgen sein, sodass es unentdeckt an die nächste Generation weitergegeben werden kann (B). Zusammen erklären diese beiden Faktoren, warum letale dominante Allele viel seltener sind.",
+      "ja": "本文では、コインの両面を説明しています。致死性の優性対立遺伝子は、繁殖前に宿主を殺すことが多いため、受け継がれる可能性は低い（A）。対照的に、致死性の劣性対立遺伝子は、健康なヘテロ接合体の保因者に隠されている可能性があり、検出されずに次の世代に受け継がれる可能性がある（B）。これらの2つの要因が一緒になって、なぜ致死性の優性対立遺伝子がはるかにまれなのかを説明しています。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Huntington's disease is caused by a lethal dominant allele, yet it persists in the human population. What feature of the disease allows it to be passed on to future generations?",
+      "zh": "亨廷顿病是由一个致死性显性等位基因引起的，但它却在人群中持续存在。该疾病的什么特征使其能够传递给后代？",
+      "es": "La enfermedad de Huntington es causada por un alelo dominante letal, pero persiste en la población humana. ¿Qué característica de la enfermedad permite que se transmita a las generaciones futuras?",
+      "fr": "La maladie de Huntington est causée par un allèle dominant létal, mais elle persiste dans la population humaine. Quelle caractéristique de la maladie lui permet de se transmettre aux générations futures ?",
+      "de": "Die Huntington-Krankheit wird durch ein letales dominantes Allel verursacht, bleibt aber in der menschlichen Bevölkerung bestehen. Welches Merkmal der Krankheit ermöglicht es, dass sie an zukünftige Generationen weitergegeben wird?",
+      "ja": "ハンチントン病は致死性の優性対立遺伝子によって引き起こされますが、人間の集団に存続しています。この病気のどの特徴が、将来の世代に受け継がれることを可能にしていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The disease is relatively harmless.",
+          "zh": "这种疾病相对无害。",
+          "es": "La enfermedad es relativamente inofensiva.",
+          "fr": "La maladie est relativement inoffensive.",
+          "de": "Die Krankheit ist relativ harmlos.",
+          "ja": "この病気は比較的無害です。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The text describes it as a fatal, irreversible, degenerative disease of the nervous system.",
+          "zh": "这是不正确的。文本将其描述为一种致命的、不可逆的神经系统退行性疾病。",
+          "es": "Esto es incorrecto. El texto la describe como una enfermedad degenerativa, irreversible y fatal del sistema nervioso.",
+          "fr": "C'est incorrect. Le texte la décrit comme une maladie dégénérative, irréversible et mortelle du système nerveux.",
+          "de": "Das ist falsch. Der Text beschreibt sie als eine tödliche, irreversible, degenerative Erkrankung des Nervensystems.",
+          "ja": "これは正しくありません。本文では、致命的で不可逆的な神経系の変性疾患として説明されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The symptoms appear after reproductive age.",
+          "zh": "症状在生育年龄之后出现。",
+          "es": "Los síntomas aparecen después de la edad reproductiva.",
+          "fr": "Les symptômes apparaissent après l'âge de la reproduction.",
+          "de": "Die Symptome treten nach dem fortpflanzungsfähigen Alter auf.",
+          "ja": "症状は生殖年齢を過ぎてから現れます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is a multifactorial disorder, not purely genetic.",
+          "zh": "它是一种多因子疾病，而不仅仅是遗传病。",
+          "es": "Es un trastorno multifactorial, no puramente genético.",
+          "fr": "C'est un trouble multifactoriel, pas purement génétique.",
+          "de": "Es handelt sich um eine multifaktorielle Störung, nicht um eine rein genetische.",
+          "ja": "それは純粋に遺伝的なものではなく、多因子性の障害です。"
+        },
+        "feedback": {
+          "en": "The text describes Huntington's as being caused by a single lethal dominant allele, a simple Mendelian pattern, not multifactorial.",
+          "zh": "文本将亨廷顿病描述为由单个致死性显性等位基因引起的，这是一种简单的孟德尔模式，而不是多因子性的。",
+          "es": "El texto describe que la enfermedad de Huntington es causada por un solo alelo dominante letal, un patrón mendeliano simple, no multifactorial.",
+          "fr": "Le texte décrit la maladie de Huntington comme étant causée par un seul allèle dominant létal, un modèle mendélien simple, et non multifactoriel.",
+          "de": "Der Text beschreibt die Huntington-Krankheit als durch ein einzelnes letales dominantes Allel verursacht, ein einfaches Mendelsches Muster, nicht multifaktoriell.",
+          "ja": "本文では、ハンチントン病は多因子性ではなく、単一の致死性優性対立遺伝子によって引き起こされる単純なメンデルのパターンであると説明されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The allele provides a selective advantage against other diseases.",
+          "zh": "该等位基因提供了对抗其他疾病的选择性优势。",
+          "es": "El alelo proporciona una ventaja selectiva contra otras enfermedades.",
+          "fr": "L'allèle offre un avantage sélectif contre d'autres maladies.",
+          "de": "Das Allel bietet einen Selektionsvorteil gegenüber anderen Krankheiten.",
+          "ja": "その対立遺伝子は他の病気に対する選択的利点を提供します。"
+        },
+        "feedback": {
+          "en": "This describes the heterozygote advantage seen in sickle-cell trait, not Huntington's disease.",
+          "zh": "这描述的是在镰状细胞性状中看到的杂合子优势，而不是亨廷顿病。",
+          "es": "Esto describe la ventaja del heterocigoto que se observa en el rasgo de células falciformes, no en la enfermedad de Huntington.",
+          "fr": "Ceci décrit l'avantage de l'hétérozygote observé dans le trait drépanocytaire, et non dans la maladie de Huntington.",
+          "de": "Dies beschreibt den Heterozygotenvorteil, der beim Sichelzellmerkmal zu sehen ist, nicht bei der Huntington-Krankheit.",
+          "ja": "これはハンチントン病ではなく、鎌状赤血球形質で見られるヘテロ接合体の利点を説明しています。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text states that a lethal dominant allele can be passed on if the 'lethal disease symptoms first appear after reproductive age.' For Huntington's, it specifies this age is about 35 to 45. This late onset means an individual can have children before they are aware they carry the fatal allele.",
+      "zh": "文本指出，如果“致死性疾病的症状在生育年龄之后首次出现”，那么致死性显性等位基因就可以被传递下去。对于亨廷顿病，它指明这个年龄大约是 35 到 45 岁。这种迟发性意味着个体可以在意识到自己携带致命等位基因之前就生儿育女。",
+      "es": "El texto establece que un alelo dominante letal puede transmitirse si los 'síntomas de la enfermedad letal aparecen por primera vez después de la edad reproductiva'. Para la enfermedad de Huntington, especifica que esta edad es de aproximadamente 35 a 45 años. Este inicio tardío significa que un individuo puede tener hijos antes de saber que es portador del alelo fatal.",
+      "fr": "Le texte indique qu'un allèle dominant létal peut être transmis si les « symptômes de la maladie létale apparaissent pour la première fois après l'âge de la reproduction ». Pour la maladie de Huntington, il précise que cet âge se situe entre 35 et 45 ans. Cette apparition tardive signifie qu'un individu peut avoir des enfants avant de savoir qu'il est porteur de l'allèle mortel.",
+      "de": "Der Text besagt, dass ein letales dominantes Allel weitergegeben werden kann, wenn die „Symptome der letalen Krankheit erst nach dem fortpflanzungsfähigen Alter auftreten“. Für Huntington wird dieses Alter mit etwa 35 bis 45 Jahren angegeben. Dieser späte Ausbruch bedeutet, dass eine Person Kinder haben kann, bevor sie weiß, dass sie das tödliche Allel in sich trägt.",
+      "ja": "本文では、「致死性疾患の症状が生殖年齢を過ぎてから初めて現れる」場合、致死性の優性対立遺伝子が受け継がれる可能性があると述べられています。ハンチントン病の場合、この年齢は約35歳から45歳であると特定されています。この遅発性のため、個人は自分が致死性の対立遺伝子を持っていることに気づく前に子供を持つことができます。"
+    }
+  }
+]

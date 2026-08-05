@@ -1,0 +1,362 @@
+[
+  {
+    "page_number": 56,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The information in genes is encoded by specific sequences of chemical building blocks within DNA. According to the provided text and Figure 1.7, which of the following represents the four types of chemical building blocks (nucleotides) that make up DNA?",
+      "zh": "基因中的信息由DNA内特定序列的化学构建块编码。根据所提供的文本和图1.7，以下哪一项代表了构成DNA的四种化学构建块（核苷酸）？",
+      "es": "La información en los genes está codificada por secuencias específicas de bloques de construcción químicos dentro del ADN. Según el texto proporcionado y la Figura 1.7, ¿cuál de los siguientes representa los cuatro tipos de bloques de construcción químicos (nucleótidos) que componen el ADN?",
+      "fr": "L'information dans les gènes est encodée par des séquences spécifiques de blocs de construction chimiques au sein de l'ADN. Selon le texte fourni et la Figure 1.7, lequel des éléments suivants représente les quatre types de blocs de construction chimiques (nucléotides) qui composent l'ADN ?",
+      "de": "Die Information in Genen wird durch spezifische Sequenzen chemischer Bausteine innerhalb der DNA kodiert. Basierend auf dem bereitgestellten Text und Abbildung 1.7, welche der folgenden repräsentieren die vier Arten von chemischen Bausteinen (Nukleotiden), die die DNA bilden?",
+      "ja": "遺伝子内の情報は、DNA内の化学的構成要素の特定の配列によって符号化されます。提供されたテキストと図1.7に基づくと、DNAを構成する4種類の化学的構成要素（ヌクレオチド）を表すのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Adenine, Thymine, Cytosine, Guanine (A, T, C, G)",
+          "zh": "腺嘌呤、胸腺嘧啶、胞嘧啶、鸟嘌呤 (A, T, C, G)",
+          "es": "Adenina, Timina, Citosina, Guanina (A, T, C, G)",
+          "fr": "Adénine, Thymine, Cytosine, Guanine (A, T, C, G)",
+          "de": "Adenin, Thymin, Cytosin, Guanin (A, T, C, G)",
+          "ja": "アデニン、チミン、シトシン、グアニン (A, T, C, G)"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Amino acids",
+          "zh": "氨基酸",
+          "es": "Aminoácidos",
+          "fr": "Acides aminés",
+          "de": "Aminosäuren",
+          "ja": "アミノ酸"
+        },
+        "feedback": {
+          "en": "Amino acids are the building blocks of proteins, not DNA.",
+          "zh": "氨基酸是蛋白质的构建块，而不是DNA的。",
+          "es": "Los aminoácidos son los bloques de construcción de las proteínas, no del ADN.",
+          "fr": "Les acides aminés sont les blocs de construction des protéines, pas de l'ADN.",
+          "de": "Aminosäuren sind die Bausteine von Proteinen, nicht von DNA.",
+          "ja": "アミノ酸はタンパク質の構成要素であり、DNAの構成要素ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Sugars, phosphates, and nitrogenous bases",
+          "zh": "糖、磷酸和含氮碱基",
+          "es": "Azúcares, fosfatos y bases nitrogenadas",
+          "fr": "Sucres, phosphates et bases azotées",
+          "de": "Zucker, Phosphate und stickstoffhaltige Basen",
+          "ja": "糖、リン酸、窒素塩基"
+        },
+        "feedback": {
+          "en": "These are the chemical components that make up a single nucleotide, not the four distinct types of nucleotides themselves.",
+          "zh": "这些是构成单个核苷酸的化学成分，而不是核苷酸本身的四种不同类型。",
+          "es": "Estos son los componentes químicos que forman un solo nucleótido, no los cuatro tipos distintos de nucleótidos en sí mismos.",
+          "fr": "Ce sont les composants chimiques qui constituent un seul nucléotide, pas les quatre types distincts de nucléotides eux-mêmes.",
+          "de": "Dies sind die chemischen Komponenten, aus denen ein einzelnes Nukleotid besteht, nicht die vier verschiedenen Arten von Nukleotiden selbst.",
+          "ja": "これらは単一のヌクレオチドを構成する化学成分であり、ヌクレオチド自体の4つの異なる種類ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Lipids",
+          "zh": "脂质",
+          "es": "Lípidos",
+          "fr": "Lipides",
+          "de": "Lipide",
+          "ja": "脂質"
+        },
+        "feedback": {
+          "en": "Lipids are a class of organic compounds including fats and oils, not related to DNA's primary structure.",
+          "zh": "脂质是一类有机化合物，包括脂肪和油，与DNA的主要结构无关。",
+          "es": "Los lípidos son una clase de compuestos orgánicos que incluyen grasas y aceites, no relacionados con la estructura primaria del ADN.",
+          "fr": "Les lipides sont une classe de composés organiques comprenant les graisses et les huiles, non liés à la structure primaire de l'ADN.",
+          "de": "Lipide sind eine Klasse organischer Verbindungen, einschließlich Fette und Öle, die nicht mit der Primärstruktur der DNA zusammenhängen.",
+          "ja": "脂質は脂肪や油を含む有機化合物のクラスであり、DNAの主要な構造とは関係ありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states that DNA is made up of four kinds of chemical building blocks called nucleotides, abbreviated A, T, C, and G, corresponding to Adenine, Thymine, Cytosine, and Guanine respectively, as also shown in Figure 1.7.",
+      "zh": "文本指出DNA由四种称为核苷酸的化学构建块组成，缩写为A、T、C和G，分别对应腺嘌呤、胸腺嘧啶、胞嘧啶和鸟嘌呤，如图1.7所示。",
+      "es": "El texto indica que el ADN está compuesto por cuatro tipos de bloques de construcción químicos llamados nucleótidos, abreviados A, T, C y G, que corresponden a Adenina, Timina, Citosina y Guanina respectivamente, como también se muestra en la Figura 1.7.",
+      "fr": "Le texte indique que l'ADN est composé de quatre types de blocs de construction chimiques appelés nucléotides, abrégés A, T, C et G, correspondant respectivement à l'Adénine, la Thymine, la Cytosine et la Guanine, comme le montre également la Figure 1.7.",
+      "de": "Der Text besagt, dass DNA aus vier Arten von chemischen Bausteinen, den Nukleotiden, besteht, die als A, T, C und G abgekürzt werden und Adenin, Thymin, Cytosin und Guanin entsprechen, wie auch in Abbildung 1.7 dargestellt.",
+      "ja": "テキストによると、DNAはA、T、C、Gと略される4種類の化学的構成要素（ヌクレオチド）から構成されており、これらはそれぞれアデニン、チミン、シトシン、グアニンに対応します。これは図1.7でも示されています。"
+    }
+  },
+  {
+    "page_number": 56,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text states that \"The replication of that DNA prior to each cell division transmitted copies of the DNA to what eventually became the trillions of cells of your body. As the cells grew and divided, the genetic information encoded by the DNA directed your development.\" Based on this information, what is the primary significance of DNA replication before cell division during an organism's development?",
+      "zh": "文本指出：“每次细胞分裂前DNA的复制将DNA的副本传递给了最终构成你身体数万亿个细胞的那些细胞。随着细胞的生长和分裂，DNA编码的遗传信息指导了你的发育。”根据这些信息，在生物体发育过程中，细胞分裂前DNA复制的主要意义是什么？",
+      "es": "El texto afirma que “la replicación de ese ADN antes de cada división celular transmitió copias del ADN a lo que eventualmente se convirtió en los billones de células de su cuerpo. A medida que las células crecían y se dividían, la información genética codificada por el ADN dirigió su desarrollo.” Basándose en esta información, ¿cuál es la importancia principal de la replicación del ADN antes de la división celular durante el desarrollo de un organismo?",
+      "fr": "Le texte indique que « la réplication de cet ADN avant chaque division cellulaire a transmis des copies de l'ADN à ce qui est finalement devenu les billions de cellules de votre corps. Au fur et à mesure que les cellules grandissaient et se divisaient, l'information génétique encodée par l'ADN a dirigé votre développement. » Basé sur cette information, quelle est la signification principale de la réplication de l'ADN avant la division cellulaire pendant le développement d'un organisme ?",
+      "de": "Der Text besagt: „Die Replikation dieser DNA vor jeder Zellteilung übertrug Kopien der DNA an das, was schließlich die Billionen von Zellen Ihres Körpers bildete. Während die Zellen wuchsen und sich teilten, steuerte die in der DNA kodierte genetische Information Ihre Entwicklung.“ Basierend auf dieser Information, was ist die primäre Bedeutung der DNA-Replikation vor der Zellteilung während der Entwicklung eines Organismus?",
+      "ja": "本文には「細胞分裂の前にDNAが複製されることで、最終的に身体を構成する何兆もの細胞にDNAのコピーが伝達された。細胞が成長し分裂するにつれて、DNAに符号化された遺伝情報があなたの発達を導いた」とあります。この情報に基づくと、生物の発生過程において、細胞分裂前のDNA複製が持つ主要な意義は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It ensures that each new cell receives a complete and identical set of genetic instructions.",
+          "zh": "它确保每个新细胞都能获得一套完整且相同的遗传指令。",
+          "es": "Asegura que cada nueva célula reciba un conjunto completo e idéntico de instrucciones genéticas.",
+          "fr": "Elle garantit que chaque nouvelle cellule reçoit un ensemble complet et identique d'instructions génétiques.",
+          "de": "Sie stellt sicher, dass jede neue Zelle einen vollständigen und identischen Satz genetischer Anweisungen erhält.",
+          "ja": "各新しい細胞が完全かつ同一の遺伝情報を受け取ることを保証します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It allows for the specialization of cells into different tissues and organs.",
+          "zh": "它允许细胞分化成不同的组织和器官。",
+          "es": "Permite la especialización de las células en diferentes tejidos y órganos.",
+          "fr": "Elle permet la spécialisation des cellules en différents tissus et organes.",
+          "de": "Sie ermöglicht die Spezialisierung von Zellen in verschiedene Gewebe und Organe.",
+          "ja": "細胞が異なる組織や臓器に特殊化することを可能にします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It facilitates the immediate expression of genes into functional proteins.",
+          "zh": "它促进基因立即表达为功能性蛋白质。",
+          "es": "Facilita la expresión inmediata de genes en proteínas funcionales.",
+          "fr": "Elle facilite l'expression immédiate des gènes en protéines fonctionnelles.",
+          "de": "Sie erleichtert die sofortige Expression von Genen in funktionelle Proteine.",
+          "ja": "遺伝子の機能性タンパク質への即時発現を促進します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It reduces the total amount of genetic material in each subsequent cell.",
+          "zh": "它减少了每个后续细胞中的遗传物质总量。",
+          "es": "Reduce la cantidad total de material genético en cada célula subsiguiente.",
+          "fr": "Elle réduit la quantité totale de matériel génétique dans chaque cellule successive.",
+          "de": "Sie reduziert die Gesamtmenge des genetischen Materials in jeder nachfolgenden Zelle.",
+          "ja": "その後の各細胞における遺伝物質の総量を減少させます。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "DNA replication ensures that before a cell divides, a complete and identical copy of the genetic material is made. This allows each daughter cell to receive the full genetic blueprint, which is crucial for growth, development, and maintaining cell identity and function throughout the organism's life.",
+      "zh": "DNA复制确保在细胞分裂之前，完整且相同的遗传物质副本被制造出来。这使得每个子细胞都能接收到完整的遗传蓝图，这对于生物体的生长、发育以及维持细胞身份和功能至关重要。",
+      "es": "La replicación del ADN asegura que antes de que una célula se divida, se haga una copia completa e idéntica del material genético. Esto permite que cada célula hija reciba el plano genético completo, lo cual es crucial para el crecimiento, desarrollo y mantenimiento de la identidad y función celular a lo largo de la vida del organismo.",
+      "fr": "La réplication de l'ADN garantit qu'avant qu'une cellule ne se divise, une copie complète et identique du matériel génétique est faite. Cela permet à chaque cellule fille de recevoir le plan génétique complet, ce qui est crucial pour la croissance, le développement et le maintien de l'identité et de la fonction cellulaire tout au long de la vie de l'organisme.",
+      "de": "Die DNA-Replikation stellt sicher, dass vor einer Zellteilung eine vollständige und identische Kopie des genetischen Materials erstellt wird. Dies ermöglicht es jeder Tochterzelle, den vollständigen genetischen Bauplan zu erhalten, was für Wachstum, Entwicklung und die Aufrechterhaltung der Zellidentität und -funktion während des gesamten Lebens des Organismus entscheidend ist.",
+      "ja": "DNA複製は、細胞が分裂する前に、遺伝物質の完全で同一なコピーが作られることを保証します。これにより、各娘細胞は完全な遺伝的設計図を受け取ることができ、これは生物の成長、発生、そして生命全体を通して細胞の同一性と機能の維持に不可欠です。"
+    }
+  },
+  {
+    "page_number": 56,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text explains that \"For many genes, the sequence provides the blueprint for making a protein.\" It further provides examples: \"a given bacterial gene may specify a particular protein (such as an enzyme) required to break down a certain sugar molecule, while one particular human gene may denote an enzyme, and another gene a different protein (an antibody, perhaps) that helps fight off infection.\" Which statement best summarizes the relationship between genes and proteins based on this information?",
+      "zh": "文本解释说：“对于许多基因来说，其序列提供了制造蛋白质的蓝图。”它进一步举例说明：“一个特定的细菌基因可能指定一种特定的蛋白质（例如一种酶），用于分解某种糖分子，而一个特定的人类基因可能表示一种酶，另一个基因则可能表示一种不同的蛋白质（可能是抗体），有助于抵抗感染。”根据这些信息，哪项陈述最能总结基因和蛋白质之间的关系？",
+      "es": "El texto explica que “para muchos genes, la secuencia proporciona el plano para fabricar una proteína.” Además, ofrece ejemplos: “un gen bacteriano dado puede especificar una proteína particular (como una enzima) necesaria para descomponer una determinada molécula de azúcar, mientras que un gen humano particular puede denotar una enzima, y otro gen una proteína diferente (un anticuerpo, quizás) que ayuda a combatir infecciones.” ¿Qué afirmación resume mejor la relación entre genes y proteínas basándose en esta información?",
+      "fr": "Le texte explique que « pour de nombreux gènes, la séquence fournit le plan de fabrication d'une protéine. » Il donne d'autres exemples : « un gène bactérien donné peut spécifier une protéine particulière (telle qu'une enzyme) requise pour décomposer une certaine molécule de sucre, tandis qu'un gène humain particulier peut désigner une enzyme, et un autre gène une protéine différente (un anticorps, peut-être) qui aide à combattre l'infection. » Quelle affirmation résume le mieux la relation entre les gènes et les protéines basée sur cette information ?",
+      "de": "Der Text erklärt: „Für viele Gene liefert die Sequenz den Bauplan zur Herstellung eines Proteins.“ Er gibt weitere Beispiele: „Ein bestimmtes Bakteriengen kann ein bestimmtes Protein (wie ein Enzym) spezifizieren, das zum Abbau eines bestimmten Zuckermoleküls benötigt wird, während ein bestimmtes menschliches Gen ein Enzym und ein anderes Gen ein anderes Protein (vielleicht einen Antikörper) bezeichnen kann, das bei der Abwehr von Infektionen hilft.“ Welche Aussage fasst die Beziehung zwischen Genen und Proteinen basierend auf diesen Informationen am besten zusammen?",
+      "ja": "本文は「多くの遺伝子にとって、その配列はタンパク質を作るための設計図を提供する」と説明しています。さらに例として、「特定の細菌の遺伝子は、ある糖分子を分解するのに必要な特定のタンパク質（酵素など）を指定することがあり、一方、特定のヒトの遺伝子は酵素を示し、別の遺伝子は異なるタンパク質（おそらく抗体）が感染と戦うのを助けることがあります」と述べています。この情報に基づいて、遺伝子とタンパク質の関係を最もよく要約しているのはどの記述ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Genes contain the instructions for producing specific proteins that carry out various cellular functions.",
+          "zh": "基因包含产生特定蛋白质的指令，这些蛋白质执行各种细胞功能。",
+          "es": "Los genes contienen las instrucciones para producir proteínas específicas que llevan a cabo diversas funciones celulares.",
+          "fr": "Les gènes contiennent les instructions pour produire des protéines spécifiques qui remplissent diverses fonctions cellulaires.",
+          "de": "Gene enthalten die Anweisungen zur Herstellung spezifischer Proteine, die verschiedene Zellfunktionen ausführen.",
+          "ja": "遺伝子は、多様な細胞機能を実行する特定のタンパク質を生成するための指示を含んでいます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Proteins are the direct units of inheritance passed from parents to offspring.",
+          "zh": "蛋白质是亲代传给后代的直接遗传单位。",
+          "es": "Las proteínas son las unidades directas de herencia transmitidas de padres a hijos.",
+          "fr": "Les protéines sont les unités directes de l'hérédité transmises des parents à la progéniture.",
+          "de": "Proteine sind die direkten Vererbungseinheiten, die von Eltern an Nachkommen weitergegeben werden.",
+          "ja": "タンパク質は親から子へと直接伝えられる遺伝の単位である。"
+        },
+        "feedback": {
+          "en": "The text clearly states that 'genes are the units of inheritance', not proteins.",
+          "zh": "文本明确指出“基因是遗传单位”，而不是蛋白质。",
+          "es": "El texto indica claramente que 'los genes son las unidades de herencia', no las proteínas.",
+          "fr": "Le texte indique clairement que « les gènes sont les unités de l'hérédité », et non les protéines.",
+          "de": "Der Text besagt klar, dass 'Gene die Einheiten der Vererbung sind', nicht Proteine.",
+          "ja": "テキストでは「遺伝子は遺伝の単位である」と明確に述べられており、タンパク質ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "All genes in an organism directly encode for enzymes involved in metabolism.",
+          "zh": "生物体中的所有基因都直接编码参与新陈代谢的酶。",
+          "es": "Todos los genes de un organismo codifican directamente enzimas implicadas en el metabolismo.",
+          "fr": "Tous les gènes d'un organisme codent directement pour des enzymes impliquées dans le métabolisme.",
+          "de": "Alle Gene in einem Organismus kodieren direkt für Enzyme, die am Stoffwechsel beteiligt sind.",
+          "ja": "生物体内のすべての遺伝子は、代謝に関与する酵素を直接コードする。"
+        },
+        "feedback": {
+          "en": "The text provides examples of genes encoding enzymes but also mentions genes encoding other proteins like antibodies, so not 'all' genes encode only enzymes.",
+          "zh": "文本提供了基因编码酶的例子，但也提到了编码抗体等其他蛋白质的基因，因此并非“所有”基因都只编码酶。",
+          "es": "El texto proporciona ejemplos de genes que codifican enzimas, pero también menciona genes que codifican otras proteínas como los anticuerpos, por lo que no 'todos' los genes codifican solo enzimas.",
+          "fr": "Le texte fournit des exemples de gènes codant des enzymes, mais mentionne également des gènes codant d'autres protéines comme les anticorps, donc tous les gènes ne codent pas uniquement des enzymes.",
+          "de": "Der Text enthält Beispiele für Gene, die Enzyme kodieren, erwähnt aber auch Gene, die andere Proteine wie Antikörper kodieren, sodass nicht 'alle' Gene nur Enzyme kodieren.",
+          "ja": "本文は遺伝子が酵素をコードする例を挙げていますが、抗体のような他のタンパク質をコードする遺伝子も言及しているため、「すべての」遺伝子が酵素だけをコードするわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The primary role of proteins is to replicate DNA before cell division.",
+          "zh": "蛋白质的主要作用是在细胞分裂前复制DNA。",
+          "es": "El papel principal de las proteínas es replicar el ADN antes de la división celular.",
+          "fr": "Le rôle principal des protéines est de répliquer l'ADN avant la division cellulaire.",
+          "de": "Die Hauptrolle von Proteinen ist die Replikation der DNA vor der Zellteilung.",
+          "ja": "タンパク質の主な役割は、細胞分裂前にDNAを複製することです。"
+        },
+        "feedback": {
+          "en": "While some proteins (enzymes) are involved in DNA replication, the text states 'Overall, proteins are major players in building and maintaining the cell and carrying out its activities,' indicating a broader role than just replication.",
+          "zh": "虽然有些蛋白质（酶）参与DNA复制，但文本指出“总的来说，蛋白质在构建和维持细胞以及执行其活动中扮演着主要角色”，这表明其作用远不止复制。",
+          "es": "Aunque algunas proteínas (enzimas) están involucradas en la replicación del ADN, el texto afirma que 'en general, las proteínas son actores principales en la construcción y el mantenimiento de la célula y en la realización de sus actividades', lo que indica un papel más amplio que solo la replicación.",
+          "fr": "Bien que certaines protéines (enzymes) soient impliquées dans la réplication de l'ADN, le texte indique que « dans l'ensemble, les protéines jouent un rôle majeur dans la construction et le maintien de la cellule et l'exécution de ses activités », ce qui indique un rôle plus large que la simple réplication.",
+          "de": "Obwohl einige Proteine (Enzyme) an der DNA-Replikation beteiligt sind, besagt der Text: „Insgesamt sind Proteine wichtige Akteure beim Aufbau und der Aufrechterhaltung der Zelle sowie bei der Ausführung ihrer Aktivitäten“, was eine breitere Rolle als nur die Replikation impliziert.",
+          "ja": "DNA複製には一部のタンパク質（酵素）が関与していますが、本文では「全体として、タンパク質は細胞の構築と維持、およびその活動の遂行において主要な役割を果たす」と述べられており、複製だけでなくより広範な役割があることを示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text highlights that genes serve as blueprints for proteins, and proteins, in turn, perform diverse functions like breaking down sugar or fighting infection, underscoring their role in cellular activities and overall organism function.",
+      "zh": "文本强调基因作为蛋白质的蓝图，而蛋白质则反过来执行各种功能，例如分解糖或抵抗感染，这突出了它们在细胞活动和整体生物体功能中的作用。",
+      "es": "El texto destaca que los genes sirven como planos para las proteínas, y las proteínas, a su vez, realizan diversas funciones como descomponer el azúcar o combatir infecciones, lo que subraya su papel en las actividades celulares y la función general del organismo.",
+      "fr": "Le texte souligne que les gènes servent de plans pour les protéines, et que les protéines, à leur tour, remplissent diverses fonctions comme la décomposition du sucre ou la lutte contre les infections, ce qui met en évidence leur rôle dans les activités cellulaires et la fonction globale de l'organisme.",
+      "de": "Der Text hebt hervor, dass Gene als Baupläne für Proteine dienen und Proteine wiederum vielfältige Funktionen wie den Abbau von Zucker oder die Abwehr von Infektionen ausführen, was ihre Rolle bei Zellaktivitäten und der gesamten Organismusfunktion unterstreicht.",
+      "ja": "本文は、遺伝子がタンパク質の設計図として機能し、タンパク質が糖の分解や感染症との戦いなど多様な機能を果たすことを強調しており、細胞活動と生物全体の機能におけるその役割を明確にしています。"
+    }
+  },
+  {
+    "page_number": 56,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The text draws an analogy: \"The way DNA encodes information is analogous to how we arrange the letters of the alphabet into words and phrases with specific meanings. The word rat, for example, evokes a rodent; the words tar and art, which contain the same letters, mean very different things.\" What is the main point illustrated by this analogy regarding genetic information?",
+      "zh": "文本提出了一个类比：“DNA编码信息的方式类似于我们如何将字母排列成具有特定含义的单词和短语。例如，单词rat唤起一种啮齿动物；单词tar和art，尽管包含相同的字母，但意义却截然不同。”关于遗传信息，这个类比主要说明了什么？",
+      "es": "El texto establece una analogía: \"La forma en que el ADN codifica la información es análoga a cómo organizamos las letras del alfabeto en palabras y frases con significados específicos. La palabra rat, por ejemplo, evoca un roedor; las palabras tar y art, que contienen las mismas letras, significan cosas muy diferentes.\" ¿Cuál es el punto principal ilustrado por esta analogía con respecto a la información genética?",
+      "fr": "Le texte établit une analogie : « La manière dont l'ADN encode l'information est analogue à la façon dont nous arrangeons les lettres de l'alphabet en mots et en phrases ayant des significations spécifiques. Le mot rat, par exemple, évoque un rongeur ; les mots tar et art, qui contiennent les mêmes lettres, signifient des choses très différentes. » Quel est le point principal illustré par cette analogie concernant l'information génétique ?",
+      "de": "Der Text zieht eine Analogie: „Die Art und Weise, wie DNA Informationen kodiert, ist analog dazu, wie wir Buchstaben des Alphabets zu Wörtern und Phrasen mit spezifischer Bedeutung anordnen. Das Wort rat zum Beispiel evoziert ein Nagetier; die Wörter tar und art, die dieselben Buchstaben enthalten, bedeuten sehr unterschiedliche Dinge.“ Was ist der Hauptpunkt, der durch diese Analogie in Bezug auf genetische Informationen veranschaulicht wird?",
+      "ja": "本文は次のような類推を提示しています。「DNAが情報を符号化する方法は、私たちがアルファベットの文字を特定の意味を持つ単語や句に配置する方法に似ています。例えば、単語『rat』はげっ歯類を想起させますが、同じ文字を含む単語『tar』と『art』は全く異なる意味を持ちます。」この類推が遺伝情報に関して主に示している点は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The specific order or sequence of nucleotides in DNA is crucial for the genetic information they carry.",
+          "zh": "DNA中核苷酸的特定顺序或序列对于它们所携带的遗传信息至关重要。",
+          "es": "El orden o secuencia específica de los nucleótidos en el ADN es crucial para la información genética que transportan.",
+          "fr": "L'ordre ou la séquence spécifique des nucléotides dans l'ADN est crucial pour l'information génétique qu'ils transportent.",
+          "de": "Die spezifische Reihenfolge oder Sequenz der Nukleotide in der DNA ist entscheidend für die genetische Information, die sie tragen.",
+          "ja": "DNAにおけるヌクレオチドの特定の順序または配列は、それらが持つ遺伝情報にとって極めて重要である。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "DNA uses a four-letter alphabet, similar to human languages.",
+          "zh": "DNA使用一个四字母的“字母表”，类似于人类语言。",
+          "es": "El ADN utiliza un alfabeto de cuatro letras, similar a los lenguajes humanos.",
+          "fr": "L'ADN utilise un alphabet de quatre lettres, similaire aux langues humaines.",
+          "de": "DNA verwendet ein Vier-Buchstaben-Alphabet, ähnlich menschlichen Sprachen.",
+          "ja": "DNAは人間の言語と同様に、4文字のアルファベットを使用する。"
+        },
+        "feedback": {
+          "en": "While DNA does use four types of nucleotides (a 'four-letter alphabet'), the 'rat, tar, art' example specifically illustrates that the *order* of these letters determines meaning, not just the number of letters in the alphabet.",
+          "zh": "虽然DNA确实使用四种核苷酸（一个“四字母字母表”），但“rat, tar, art”的例子特别说明了这些字母的*顺序*决定了意义，而不仅仅是字母表中的字母数量。",
+          "es": "Aunque el ADN utiliza cuatro tipos de nucleótidos (un 'alfabeto de cuatro letras'), el ejemplo 'rat, tar, art' ilustra específicamente que el *orden* de estas letras determina el significado, no solo el número de letras en el alfabeto.",
+          "fr": "Bien que l'ADN utilise quatre types de nucléotides (un « alphabet à quatre lettres »), l'exemple « rat, tar, art » illustre spécifiquement que l'ordre de ces lettres détermine le sens, et non seulement le nombre de lettres dans l'alphabet.",
+          "de": "Obwohl DNA tatsächlich vier Arten von Nukleotiden (ein 'Vier-Buchstaben-Alphabet') verwendet, veranschaulicht das Beispiel 'rat, tar, art' speziell, dass die *Reihenfolge* dieser Buchstaben die Bedeutung bestimmt, nicht nur die Anzahl der Buchstaben im Alphabet.",
+          "ja": "DNAが4種類のヌクレオチド（「4文字のアルファベット」）を使用しているのは事実ですが、「rat, tar, art」の例は、これらの文字の「順序」が意味を決定することを具体的に示しており、単にアルファベットの文字数を指しているわけではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Different organisms use different sets of nucleotides to store their genetic information.",
+          "zh": "不同的生物使用不同组的核苷酸来存储它们的遗传信息。",
+          "es": "Diferentes organismos utilizan diferentes conjuntos de nucleótidos para almacenar su información genética.",
+          "fr": "Différents organismes utilisent différents ensembles de nucléotides pour stocker leurs informations génétiques.",
+          "de": "Verschiedene Organismen verwenden unterschiedliche Sätze von Nukleotiden, um ihre genetischen Informationen zu speichern.",
+          "ja": "異なる生物は、遺伝情報を保存するために異なるヌクレオチドのセットを使用する。"
+        },
+        "feedback": {
+          "en": "The text implies that all organisms use the same four nucleotides (A, T, C, G) in DNA, as it refers to 'the four kinds of chemical building blocks' universally.",
+          "zh": "文本暗示所有生物都在DNA中使用相同的四种核苷酸（A, T, C, G），因为它普遍指代“四种化学构建块”。",
+          "es": "El texto implica que todos los organismos utilizan los mismos cuatro nucleótidos (A, T, C, G) en el ADN, ya que se refiere universalmente a 'los cuatro tipos de bloques de construcción químicos'.",
+          "fr": "Le texte implique que tous les organismes utilisent les mêmes quatre nucléotides (A, T, C, G) dans l'ADN, car il se réfère universellement aux « quatre types de blocs de construction chimiques ».",
+          "de": "Der Text impliziert, dass alle Organismen dieselben vier Nukleotide (A, T, C, G) in der DNA verwenden, da er sich universell auf 'die vier Arten chemischer Bausteine' bezieht.",
+          "ja": "本文は、DNAにおいてすべての生物が同じ4種類のヌクレオチド（A、T、C、G）を使用することを暗示しており、「4種類の化学的構成要素」と普遍的に言及しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The length of a DNA sequence determines the complexity of the protein it encodes.",
+          "zh": "DNA序列的长度决定了它所编码蛋白质的复杂性。",
+          "es": "La longitud de una secuencia de ADN determina la complejidad de la proteína que codifica.",
+          "fr": "La longueur d'une séquence d'ADN détermine la complexité de la protéine qu'elle encode.",
+          "de": "Die Länge einer DNA-Sequenz bestimmt die Komplexität des von ihr kodierten Proteins.",
+          "ja": "DNA配列の長さが、それがコードするタンパク質の複雑さを決定する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "DNA stores information using combinations of letters, similar to how languages create phrases.",
+          "zh": "DNA通过字母组合来存储信息，类似于语言如何创建短语。",
+          "es": "El ADN almacena información usando combinaciones de letras, similar a cómo los lenguajes crean frases.",
+          "fr": "L'ADN stocke des informations en utilisant des combinaisons de lettres, de la même manière que les langues créent des phrases.",
+          "de": "DNA speichert Informationen durch Buchstabenkombinationen, ähnlich wie Sprachen Phrasen bilden.",
+          "ja": "DNAは文字の組み合わせを使って情報を保存し、これは言語がフレーズを作成する方法に似ています。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The analogy with 'rat, tar, art' specifically emphasizes that the *order* or *sequence* of the 'letters' (nucleotides) is what determines the specific meaning (genetic information). While option B is true, it doesn't capture the essence of the 'rat, tar, art' example, which is about the significance of arrangement.",
+      "zh": "“rat, tar, art”的类比特别强调，“字母”（核苷酸）的*顺序*或*序列*是决定特定意义（遗传信息）的关键。虽然选项B是正确的，但它没有抓住“rat, tar, art”例子的精髓，这个例子是关于排列的重要性。",
+      "es": "La analogía con 'rat, tar, art' enfatiza específicamente que el *orden* o la *secuencia* de las 'letras' (nucleótidos) es lo que determina el significado específico (información genética). Aunque la opción B es verdadera, no capta la esencia del ejemplo 'rat, tar, art', que se trata de la importancia de la disposición.",
+      "fr": "L'analogie avec « rat, tar, art » souligne spécifiquement que l'ordre ou la séquence des « lettres » (nucléotides) est ce qui détermine la signification spécifique (information génétique). Bien que l'option B soit vraie, elle ne saisit pas l'essence de l'exemple « rat, tar, art », qui concerne l'importance de l'arrangement.",
+      "de": "Die Analogie mit 'rat, tar, art' betont speziell, dass die *Reihenfolge* oder *Sequenz* der 'Buchstaben' (Nukleotide) das ist, was die spezifische Bedeutung (genetische Information) bestimmt. Obwohl Option B wahr ist, erfasst sie nicht die Essenz des Beispiels 'rat, tar, art', das sich auf die Bedeutung der Anordnung bezieht.",
+      "ja": "「rat, tar, art」の類推は、特に「文字」（ヌクレオチド）の「順序」または「配列」が特定の意味（遺伝情報）を決定するという点を強調しています。選択肢Bも真実ですが、「rat, tar, art」の例の本質である配列の重要性を捉えていません。"
+    }
+  }
+]

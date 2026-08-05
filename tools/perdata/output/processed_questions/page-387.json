@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 387,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the experimental results and the arginine biosynthesis pathway shown, which mutant class is correctly paired with the defective enzyme that prevents its growth on minimal medium?",
+      "zh": "根据实验结果和所示的精氨酸生物合成途径，哪个突变体类别与其导致其在最小培养基上无法生长的缺陷酶正确配对？",
+      "es": "Según los resultados experimentales y la vía de biosíntesis de arginina mostrada, ¿qué clase de mutante se empareja correctamente con la enzima defectuosa que impide su crecimiento en medio mínimo?",
+      "fr": "D'après les résultats expérimentaux et la voie de biosynthèse de l'arginine présentée, quelle classe de mutant est correctement associée à l'enzyme défectueuse qui empêche sa croissance sur milieu minimal ?",
+      "de": "Basierend auf den experimentellen Ergebnissen und dem gezeigten Arginin-Biosyntheseweg, welche Mutantenklasse ist korrekt mit dem defekten Enzym gepaart, das ihr Wachstum auf Minimalmedium verhindert?",
+      "ja": "実験結果と示されているアルギニン生合成経路に基づき、最小培地での増殖を妨げる欠陥酵素と正しく対になっている変異株のクラスはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Class I - Enzyme B (converts ornithine to citrulline)",
+          "zh": "I 类 - 酶 B（将鸟氨酸转化为瓜氨酸）",
+          "es": "Clase I - Enzima B (convierte ornitina en citrulina)",
+          "fr": "Classe I - Enzyme B (convertit l'ornithine en citrulline)",
+          "de": "Klasse I - Enzym B (wandelt Ornithin in Citrullin um)",
+          "ja": "クラスI - 酵素B（オルニチンをシトルリンに変換する）"
+        },
+        "feedback": {
+          "en": "Class I mutants lack Enzyme A, blocking the precursor to ornithine step. Enzyme B is defective in Class II mutants.",
+          "zh": "I 类突变体缺乏酶 A，阻断了前体到鸟氨酸的步骤。酶 B 缺陷发生在 II 类突变体中。",
+          "es": "Los mutantes de Clase I carecen de la Enzima A, bloqueando el paso de precursor a ornitina. La Enzima B es defectuosa en los mutantes de Clase II.",
+          "fr": "Les mutants de Classe I manquent de l'Enzyme A, bloquant l'étape du précurseur à l'ornithine. L'Enzyme B est défectueuse chez les mutants de Classe II.",
+          "de": "Klasse I Mutanten fehlt Enzym A, was den Schritt vom Vorläufer zu Ornithin blockiert. Enzym B ist bei Klasse II Mutanten defekt.",
+          "ja": "クラスI変異株は酵素Aを欠損しており、前駆体からオルニチンへの段階が阻害されます。酵素BはクラスII変異株で欠陥があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Class II - Enzyme A (converts precursor to ornithine)",
+          "zh": "II 类 - 酶 A（将前体转化为鸟氨酸）",
+          "es": "Clase II - Enzima A (convierte precursor en ornitina)",
+          "fr": "Classe II - Enzyme A (convertit le précurseur en ornithine)",
+          "de": "Klasse II - Enzym A (wandelt Vorläufer in Ornithin um)",
+          "ja": "クラスII - 酵素A（前駆体をオルニチンに変換する）"
+        },
+        "feedback": {
+          "en": "Class II mutants lack Enzyme B. Enzyme A is defective in Class I mutants.",
+          "zh": "II 类突变体缺乏酶 B。酶 A 缺陷发生在 I 类突变体中。",
+          "es": "Los mutantes de Clase II carecen de la Enzima B. La Enzima A es defectuosa en los mutantes de Clase I.",
+          "fr": "Les mutants de Classe II manquent de l'Enzyme B. L'Enzyme A est défectueuse chez les mutants de Classe I.",
+          "de": "Klasse II Mutanten fehlt Enzym B. Enzym A ist bei Klasse I Mutanten defekt.",
+          "ja": "クラスII変異株は酵素Bを欠損しています。酵素AはクラスI変異株で欠陥があります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Class III - Enzyme C (converts citrulline to arginine)",
+          "zh": "III 类 - 酶 C（将瓜氨酸转化为精氨酸）",
+          "es": "Clase III - Enzima C (convierte citrulina en arginina)",
+          "fr": "Classe III - Enzyme C (convertit la citrulline en arginine)",
+          "de": "Klasse III - Enzym C (wandelt Citrullin in Arginin um)",
+          "ja": "クラスIII - 酵素C（シトルリンをアルギニンに変換する）"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Class I - Enzyme C (converts citrulline to arginine)",
+          "zh": "I 类 - 酶 C（将瓜氨酸转化为精氨酸）",
+          "es": "Clase I - Enzima C (convierte citrulina en arginina)",
+          "fr": "Classe I - Enzyme C (convertit la citrulline en arginine)",
+          "de": "Klasse I - Enzym C (wandelt Citrullin in Arginin um)",
+          "ja": "クラスI - 酵素C（シトルリンをアルギニンに変換する）"
+        },
+        "feedback": {
+          "en": "Class I mutants lack Enzyme A. Enzyme C is defective in Class III mutants.",
+          "zh": "I 类突变体缺乏酶 A。酶 C 缺陷发生在 III 类突变体中。",
+          "es": "Los mutantes de Clase I carecen de la Enzima A. La Enzima C es defectuosa en los mutantes de Clase III.",
+          "fr": "Les mutants de Classe I manquent de l'Enzyme A. L'Enzyme C est défectueuse chez les mutants de Classe III.",
+          "de": "Klasse I Mutanten fehlt Enzym A. Enzym C ist bei Klasse III Mutanten defekt.",
+          "ja": "クラスI変異株は酵素Aを欠損しています。酵素CはクラスIII変異株で欠陥があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "According to the results table and the pathway diagram, Class I mutants grow when supplied with ornithine, citrulline, or arginine, indicating their defect is prior to ornithine (Enzyme A). Class II mutants grow when supplied with citrulline or arginine, meaning their defect is prior to citrulline but after ornithine (Enzyme B). Class III mutants only grow when supplied with arginine, indicating their defect is prior to arginine but after citrulline (Enzyme C).",
+      "zh": "根据结果表格和途径图，I 类突变体在补充鸟氨酸、瓜氨酸或精氨酸时可以生长，表明它们的缺陷在鸟氨酸之前（酶 A）。II 类突变体在补充瓜氨酸或精氨酸时可以生长，这意味着它们的缺陷在瓜氨酸之前但在鸟氨酸之后（酶 B）。III 类突变体只有在补充精氨酸时才能生长，表明它们的缺陷在精氨酸之前但在瓜氨酸之后（酶 C）。",
+      "es": "Según la tabla de resultados y el diagrama de la vía, los mutantes de Clase I crecen cuando se les suministra ornitina, citrulina o arginina, lo que indica que su defecto es anterior a la ornitina (Enzima A). Los mutantes de Clase II crecen cuando se les suministra citrulina o arginina, lo que significa que su defecto es anterior a la citrulina pero posterior a la ornitina (Enzima B). Los mutantes de Clase III solo crecen cuando se les suministra arginina, lo que indica que su defecto es anterior a la arginina pero posterior a la citrulina (Enzima C).",
+      "fr": "Selon le tableau des résultats et le diagramme de la voie, les mutants de Classe I se développent lorsqu'ils sont alimentés en ornithine, citrulline ou arginine, ce qui indique que leur défaut est antérieur à l'ornithine (Enzyme A). Les mutants de Classe II se développent lorsqu'ils sont alimentés en citrulline ou en arginine, ce qui signifie que leur défaut est antérieur à la citrulline mais postérieur à l'ornithine (Enzyme B). Les mutants de Classe III ne se développent que lorsqu'ils sont alimentés en arginine, ce qui indique que leur défaut est antérieur à l'arginine mais postérieur à la citrulline (Enzyme C).",
+      "de": "Gemäß der Ergebnistabelle und dem Stoffwechselweg-Diagramm wachsen Klasse I Mutanten, wenn sie mit Ornithin, Citrullin oder Arginin versorgt werden, was darauf hindeutet, dass ihr Defekt vor Ornithin liegt (Enzym A). Klasse II Mutanten wachsen, wenn sie mit Citrullin oder Arginin versorgt werden, was bedeutet, dass ihr Defekt vor Citrullin, aber nach Ornithin liegt (Enzym B). Klasse III Mutanten wachsen nur, wenn sie mit Arginin versorgt werden, was darauf hindeutet, dass ihr Defekt vor Arginin, aber nach Citrullin liegt (Enzym C).",
+      "ja": "結果の表と経路図によると、クラスI変異株はオルニチン、シトルリン、またはアルギニンを供給されると増殖することから、欠陥がオルニチンより前（酵素A）にあることを示しています。クラスII変異株はシトルリンまたはアルギニンを供給されると増殖することから、欠陥がシトルリンより前だがオルニチンより後（酵素B）にあることを意味します。クラスIII変異株はアルギニンを供給された場合にのみ増殖することから、欠陥がアルギニンより前だがシトルリンより後（酵素C）にあることを示しています。"
+    }
+  },
+  {
+    "page_number": 387,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The \"WHAT IF?\" section presents a hypothetical scenario: \"Suppose the experiment had shown that class I mutants could grow only in MM supplemented by ornithine or arginine and that class II mutants could grow in MM supplemented by citrulline, ornithine, or arginine.\" Based on this hypothetical result, what revised conclusion would the researchers draw regarding the biochemical pathway and the defect in class I and class II mutants?",
+      "zh": "“如果怎么办？”部分提出了一个假设情景：“假设实验结果表明，I 类突变体只能在补充了鸟氨酸或精氨酸的最小培养基（MM）中生长，而 II 类突变体可以在补充了瓜氨酸、鸟氨酸或精氨酸的 MM 中生长。” 基于这个假设结果，研究人员将对生化途径以及 I 类和 II 类突变体的缺陷得出什么修订后的结论？",
+      "es": "La sección \"¿Y SI?\" presenta un escenario hipotético: \"Supongamos que el experimento hubiera demostrado que los mutantes de clase I solo podían crecer en MM suplementado con ornitina o arginina, y que los mutantes de clase II podían crecer en MM suplementado con citrulina, ornitina o arginina.\" Basado en este resultado hipotético, ¿qué conclusión revisada habrían sacado los investigadores con respecto a la vía bioquímica y el defecto en los mutantes de clase I y clase II?",
+      "fr": "La section « ET SI ? » présente un scénario hypothétique : « Supposons que l'expérience ait montré que les mutants de classe I ne pouvaient croître que sur MM supplémenté en ornithine ou en arginine et que les mutants de classe II pouvaient croître sur MM supplémenté en citrulline, ornithine ou arginine. » Sur la base de ce résultat hypothétique, quelle conclusion révisée les chercheurs tireraient-ils concernant la voie biochimique et le défaut chez les mutants de classe I et de classe II ?",
+      "de": "Der Abschnitt „WAS WÄRE WENN?“ präsentiert ein hypothetisches Szenario: „Angenommen, das Experiment hätte gezeigt, dass Klasse I Mutanten nur in MM, ergänzt mit Ornithin oder Arginin, wachsen könnten und dass Klasse II Mutanten in MM, ergänzt mit Citrullin, Ornithin oder Arginin, wachsen könnten.“ Welche revidierten Schlussfolgerungen würden die Forscher basierend auf diesem hypothetischen Ergebnis bezüglich des biochemischen Weges und des Defekts bei Klasse I und Klasse II Mutanten ziehen?",
+      "ja": "「もしも？」のセクションでは、架空のシナリオが提示されています：「もし実験が、クラスI変異株がオルニチンまたはアルギニンを補給したMMでのみ増殖でき、クラスII変異株がシトルリン、オルニチン、またはアルギニンを補給したMMで増殖できることを示していたとしたら？」この架空の結果に基づき、研究者は生化学的経路とクラスIおよびクラスII変異株の欠陥について、どのような修正された結論を導き出すでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The defect in Class II mutants is in Enzyme A, and for Class I, ornithine can be converted to arginine via an alternative pathway that bypasses citrulline.",
+          "zh": "II 类突变体的缺陷在酶 A，而对于 I 类突变体，鸟氨酸可以通过绕过瓜氨酸的替代途径转化为精氨酸。",
+          "es": "El defecto en los mutantes de Clase II está en la Enzima A, y para la Clase I, la ornitina puede convertirse en arginina a través de una vía alternativa que omite la citrulina.",
+          "fr": "Le défaut chez les mutants de Classe II est dans l'Enzyme A, et pour la Classe I, l'ornithine peut être convertie en arginine via une voie alternative qui contourne la citrulline.",
+          "de": "Der Defekt bei Klasse II Mutanten liegt bei Enzym A, und bei Klasse I kann Ornithin über einen alternativen Weg, der Citrullin umgeht, in Arginin umgewandelt werden.",
+          "ja": "クラスII変異株の欠陥は酵素Aにあり、クラスI変異株の場合、オルニチンはシトルリンを迂回する代替経路を介してアルギニンに変換され得る。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Both Class I and Class II mutants have a defect in Enzyme A, which implies the experiment contradicts the \"one gene-one enzyme\" hypothesis.",
+          "zh": "I 类和 II 类突变体都存在酶 A 的缺陷，这意味着实验与“一个基因一个酶”假说相矛盾。",
+          "es": "Tanto los mutantes de Clase I como los de Clase II tienen un defecto en la Enzima A, lo que implica que el experimento contradice la hipótesis de \"un gen una enzima\".",
+          "fr": "Les mutants des Classes I et II présentent tous deux un défaut dans l'Enzyme A, ce qui implique que l'expérience contredit l'hypothèse « un gène une enzyme ».",
+          "de": "Sowohl Klasse I als auch Klasse II Mutanten haben einen Defekt in Enzym A, was bedeutet, dass das Experiment die „Ein-Gen-Ein-Enzym“-Hypothese widerlegt.",
+          "ja": "クラスIとクラスIIの変異株の両方に酵素Aの欠陥があり、これは実験が「一遺伝子一酵素」説と矛盾することを示唆する。"
+        },
+        "feedback": {
+          "en": "While Class II would point to an Enzyme A defect, the growth pattern for Class I (growing on ornithine but not citrulline) suggests a pathway complexity rather than a simple shared defect, or a contradiction of the one gene-one enzyme hypothesis in a more nuanced way (e.g., branched pathway).",
+          "zh": "尽管 II 类突变体表明酶 A 缺陷，但 I 类突变体的生长模式（在鸟氨酸上生长但在瓜氨酸上不生长）表明通路复杂性，而非简单的共同缺陷，或以更细微的方式与“一个基因一个酶”假说相矛盾（例如，支路）。",
+          "es": "Si bien la Clase II apuntaría a un defecto en la Enzima A, el patrón de crecimiento de la Clase I (crecimiento en ornitina pero no en citrulina) sugiere una complejidad en la vía en lugar de un simple defecto compartido, o una contradicción de la hipótesis de un gen-una enzima de una manera más matizada (por ejemplo, vía ramificada).",
+          "fr": "Bien que la Classe II puisse indiquer un défaut de l'Enzyme A, le modèle de croissance de la Classe I (croissance sur ornithine mais pas sur citrulline) suggère une complexité de la voie plutôt qu'un simple défaut partagé, ou une contradiction de l'hypothèse « un gène une enzyme » d'une manière plus nuancée (par exemple, voie ramifiée).",
+          "de": "Während Klasse II auf einen Enzym A Defekt hindeuten würde, deutet das Wachstumsmuster von Klasse I (Wachstum auf Ornithin, aber nicht auf Citrullin) auf eine Komplexität des Stoffwechselwegs hin, anstatt auf einen einfachen gemeinsamen Defekt, oder auf einen nuancierteren Widerspruch zur Ein-Gen-Ein-Enzym-Hypothese (z.B. verzweigter Weg).",
+          "ja": "クラスIIは酵素Aの欠陥を示唆する一方で、クラスIの増殖パターン（オルニチンでは増殖するがシトルリンでは増殖しない）は、単純な共通の欠陥ではなく、経路の複雑性を示唆するか、より微妙な方法で一遺伝子一酵素説と矛盾することを示唆しています（例えば、分岐経路）。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The defect in Class I mutants is in Enzyme B, and the defect in Class II mutants is in Enzyme C.",
+          "zh": "I 类突变体的缺陷在酶 B，而 II 类突变体的缺陷在酶 C。",
+          "es": "El defecto en los mutantes de Clase I está en la Enzima B, y el defecto en los mutantes de Clase II está en la Enzima C.",
+          "fr": "Le défaut chez les mutants de Classe I est dans l'Enzyme B, et le défaut chez les mutants de Classe II est dans l'Enzyme C.",
+          "de": "Der Defekt bei Klasse I Mutanten liegt bei Enzym B, und der Defekt bei Klasse II Mutanten liegt bei Enzym C.",
+          "ja": "クラスI変異株の欠陥は酵素Bにあり、クラスII変異株の欠陥は酵素Cにある。"
+        },
+        "feedback": {
+          "en": "If Class I had an Enzyme B defect, it would grow on citrulline, which contradicts the hypothetical result. If Class II had an Enzyme C defect, it would not grow on ornithine or citrulline, which also contradicts the hypothetical.",
+          "zh": "如果 I 类突变体存在酶 B 缺陷，它将在瓜氨酸上生长，这与假设结果相矛盾。如果 II 类突变体存在酶 C 缺陷，它将不在鸟氨酸或瓜氨酸上生长，这也与假设相矛盾。",
+          "es": "Si la Clase I tuviera un defecto en la Enzima B, crecería con citrulina, lo que contradice el resultado hipotético. Si la Clase II tuviera un defecto en la Enzima C, no crecería con ornitina o citrulina, lo que también contradice la hipótesis.",
+          "fr": "Si la Classe I avait un défaut de l'Enzyme B, elle se développerait sur la citrulline, ce qui contredit le résultat hypothétique. Si la Classe II avait un défaut de l'Enzyme C, elle ne se développerait pas sur l'ornithine ou la citrulline, ce qui contredit également l'hypothèse.",
+          "de": "Wenn Klasse I einen Enzym B Defekt hätte, würde sie auf Citrullin wachsen, was dem hypothetischen Ergebnis widerspricht. Wenn Klasse II einen Enzym C Defekt hätte, würde sie nicht auf Ornithin oder Citrullin wachsen, was ebenfalls dem hypothetischen Ergebnis widerspricht.",
+          "ja": "クラスIが酵素Bの欠陥を持っていた場合、シトルリンで増殖するはずですが、これは仮説の結果と矛盾します。クラスIIが酵素Cの欠陥を持っていた場合、オルニチンやシトルリンでは増殖しないはずですが、これも仮説と矛盾します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Citrulline is no longer considered an intermediate in the arginine biosynthesis pathway for any of the Neurospora mutants.",
+          "zh": "对于任何神经孢子菌突变体，瓜氨酸不再被认为是精氨酸生物合成途径中的中间产物。",
+          "es": "La citrulina ya no se considera un intermediario en la vía de biosíntesis de arginina para ninguno de los mutantes de Neurospora.",
+          "fr": "La citrulline n'est plus considérée comme un intermédiaire dans la voie de biosynthèse de l'arginine pour aucun des mutants de Neurospora.",
+          "de": "Citrullin wird für keine der Neurospora-Mutanten mehr als Zwischenprodukt im Arginin-Biosyntheseweg angesehen.",
+          "ja": "いずれのニューロスポラ変異株においても、シトルリンはアルギニン生合成経路の中間体とはみなされない。"
+        },
+        "feedback": {
+          "en": "While the role of citrulline is challenged for Class I, Class II mutants can still grow on citrulline, indicating it retains a role in the pathway for some mutants.",
+          "zh": "尽管瓜氨酸对于 I 类突变体的作用受到质疑，但 II 类突变体仍能在瓜氨酸上生长，表明它在某些突变体的通路中仍有作用。",
+          "es": "Si bien el papel de la citrulina es cuestionado para la Clase I, los mutantes de Clase II aún pueden crecer con citrulina, lo que indica que conserva un papel en la vía para algunos mutantes.",
+          "fr": "Bien que le rôle de la citrulline soit remis en question pour la Classe I, les mutants de Classe II peuvent toujours croître sur la citrulline, ce qui indique qu'elle conserve un rôle dans la voie para algunos mutants.",
+          "de": "Während die Rolle von Citrullin für Klasse I in Frage gestellt wird, können Klasse II Mutanten immer noch auf Citrullin wachsen, was darauf hindeutet, dass es für einige Mutanten eine Rolle im Stoffwechselweg behält.",
+          "ja": "クラスIにおけるシトルリンの役割が疑問視される一方で、クラスII変異株はシトルリン上で増殖できるため、一部の変異株では経路内で役割を維持していることを示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "In the hypothetical scenario, Class II mutants grow on MM supplemented by citrulline, ornithine, or arginine. This means the block must be before ornithine, making Enzyme A defective (as ornithine is the first intermediate that allows growth). For Class I mutants, the key is they grow on ornithine and arginine, but *not* citrulline. If they can utilize ornithine, their defect is at Enzyme A. However, their inability to grow on citrulline while still growing on arginine implies that citrulline is not a direct or essential intermediate in the pathway from ornithine to arginine for these specific mutants, or that ornithine can be converted to arginine via an alternative pathway that bypasses citrulline.",
+      "zh": "在假设情景中，II 类突变体可以在补充了瓜氨酸、鸟氨酸或精氨酸的最小培养基上生长。这意味着缺陷必须在鸟氨酸之前，从而使酶 A 有缺陷（因为鸟氨酸是第一个允许生长的中间产物）。对于 I 类突变体，关键在于它们可以在鸟氨酸和精氨酸上生长，但不能在瓜氨酸上生长。如果它们可以利用鸟氨酸，则它们的缺陷在酶 A。然而，它们不能在瓜氨酸上生长，但仍能在精氨酸上生长，这意味着对于这些特定突变体而言，瓜氨酸不是从鸟氨酸到精氨酸途径中的直接或必需中间产物，或者鸟氨酸可以通过绕过瓜氨酸的替代途径转化为精氨酸。",
+      "es": "En el escenario hipotético, los mutantes de Clase II crecen en MM suplementado con citrulina, ornitina o arginina. Esto significa que el bloqueo debe ser antes de la ornitina, lo que hace que la Enzima A sea defectuosa (ya que la ornitina es el primer intermediario que permite el crecimiento). Para los mutantes de Clase I, la clave es que crecen con ornitina y arginina, pero *no* con citrulina. Si pueden utilizar la ornitina, su defecto está en la Enzima A. Sin embargo, su incapacidad para crecer con citrulina mientras siguen creciendo con arginina implica que la citrulina no es un intermediario directo o esencial en la vía de la ornitina a la arginina para estos mutantes específicos, o que la ornitina puede convertirse en arginina a través de una vía alternativa que omite la citrulina.",
+      "fr": "Dans le scénario hypothétique, les mutants de Classe II se développent sur MM supplémenté en citrulline, ornithine ou arginine. Cela signifie que le blocage doit être antérieur à l'ornithine, rendant l'Enzyme A défectueuse (car l'ornithine est le premier intermédiaire qui permet la croissance). Pour les mutants de Classe I, le point clé est qu'ils se développent sur l'ornithine et l'arginine, mais *pas* sur la citrulline. S'ils peuvent utiliser l'ornithine, leur défaut est dans l'Enzyme A. Cependant, leur incapacité à se développer sur la citrulline tout en se développant sur l'arginine implique que la citrulline n'est pas un intermédiaire direct ou essentiel dans la voie de l'ornithine à l'arginine pour ces mutants spécifiques, ou que l'ornithine peut être convertie en arginine via une voie alternative qui contourne la citrulline.",
+      "de": "Im hypothetischen Szenario wachsen Klasse II Mutanten auf MM, das mit Citrullin, Ornithin oder Arginin ergänzt ist. Das bedeutet, dass die Blockade vor Ornithin liegen muss, wodurch Enzym A defekt ist (da Ornithin der erste Zwischenschritt ist, der Wachstum ermöglicht). Für Klasse I Mutanten ist entscheidend, dass sie auf Ornithin und Arginin wachsen, aber *nicht* auf Citrullin. Wenn sie Ornithin nutzen können, liegt ihr Defekt bei Enzym A. Ihre Unfähigkeit, auf Citrullin zu wachsen, während sie weiterhin auf Arginin wachsen, impliziert jedoch, dass Citrullin für diese spezifischen Mutanten kein direktes oder essentielles Zwischenprodukt im Weg von Ornithin zu Arginin ist, oder dass Ornithin über einen alternativen Weg, der Citrullin umgeht, in Arginin umgewandelt werden kann.",
+      "ja": "仮説のシナリオでは、クラスII変異株はシトルリン、オルニチン、またはアルギニンを補給したMMで増殖します。これは、オルニチンより前にブロックがあることを意味し、酵素Aが欠陥であることを示唆します（オルニチンは増殖を可能にする最初のH中間体であるため）。クラスI変異株の場合、重要なのは、オルニチンとアルギニンでは増殖するが、シトルリンでは増殖しない点です。オルニチンを利用できる場合、その欠陥は酵素Aにあります。しかし、シトルリンでは増殖できない一方でアルギニンでは増殖できるという事実は、これらの特定の変異株にとって、シトルリンがオルニチンからアルギニンへの経路における直接的または必須の中間体ではないか、あるいはオルニチンがシトルリンを迂回する代替経路を介してアルギニンに変換され得ることを示唆しています。"
+    }
+  },
+  {
+    "page_number": 387,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "The experiment by Srb and Horowitz tested and supported the \"one gene-one enzyme\" hypothesis. Which of the following statements best describes how their results contribute to this hypothesis?",
+      "zh": "Srb 和 Horowitz 的实验检验并支持了“一个基因一个酶”假说。下列哪项陈述最能说明他们的结果如何支持这一假说？",
+      "es": "El experimento de Srb y Horowitz probó y apoyó la hipótesis de \"un gen una enzima\". ¿Cuál de las siguientes afirmaciones describe mejor cómo sus resultados contribuyen a esta hipótesis?",
+      "fr": "L'expérience de Srb et Horowitz a testé et soutenu l'hypothèse « un gène une enzyme ». Laquelle des affirmations suivantes décrit le mieux la contribution de leurs résultats à cette hypothèse ?",
+      "de": "Das Experiment von Srb und Horowitz überprüfte und unterstützte die „Ein-Gen-Ein-Enzym“-Hypothese. Welche der folgenden Aussagen beschreibt am besten, wie ihre Ergebnisse zu dieser Hypothese beitragen?",
+      "ja": "SrbとHorowitzの実験は「一遺伝子一酵素」説を検証し、支持しました。以下の記述のうち、彼らの結果がこの仮説にどのように貢献しているかを最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Each class of mutant was unable to carry out one specific step in the arginine synthesis pathway due to a single gene mutation.",
+          "zh": "每类突变体都因单个基因突变而无法执行精氨酸合成途径中的一个特定步骤。",
+          "es": "Cada clase de mutante fue incapaz de llevar a cabo un paso específico en la vía de síntesis de arginina debido a una mutación de un solo gen.",
+          "fr": "Chaque classe de mutant était incapable de réaliser une étape spécifique de la voie de synthèse de l'arginine en raison d'une mutation d'un seul gène.",
+          "de": "Jede Mutantenklasse war aufgrund einer einzelnen Genmutation nicht in der Lage, einen spezifischen Schritt im Arginin-Syntheseweg auszuführen.",
+          "ja": "各変異株は、単一遺伝子の突然変異により、アルギニン合成経路の特定の1つのステップを実行できませんでした。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Wild-type Neurospora could grow on minimal medium, demonstrating metabolic independence.",
+          "zh": "野生型神经孢子菌可以在最小培养基上生长，表明其代谢独立性。",
+          "es": "La Neurospora de tipo salvaje podría crecer en medio mínimo, demostrando independencia metabólica.",
+          "fr": "La Neurospora de type sauvage pouvait croître sur un milieu minimal, démontrant son indépendance métabolique.",
+          "de": "Wildtyp Neurospora konnte auf Minimalmedium wachsen, was metabolische Unabhängigkeit demonstriert.",
+          "ja": "野生型ニューロスポラは最小培地で増殖でき、代謝的独立性を示した。"
+        },
+        "feedback": {
+          "en": "While true, this observation alone does not directly support the \"one gene-one enzyme\" hypothesis as it doesn't link a specific gene mutation to a specific enzyme defect.",
+          "zh": "尽管这是事实，但这一观察本身并不能直接支持“一个基因一个酶”假说，因为它没有将特定的基因突变与特定的酶缺陷联系起来。",
+          "es": "Aunque es cierto, esta observación por sí sola no apoya directamente la hipótesis de \"un gen una enzima\" ya que no vincula una mutación génica específica con un defecto enzimático específico.",
+          "fr": "Bien que cela soit vrai, cette observation seule ne soutient pas directement l'hypothèse « un gène une enzyme » car elle ne lie pas une mutation génétique spécifique à un défaut enzymatique spécifique.",
+          "de": "Obwohl wahr, unterstützt diese Beobachtung allein nicht direkt die „Ein-Gen-Ein-Enzym“-Hypothese, da sie keine spezifische Genmutation mit einem spezifischen Enzymdefekt verbindet.",
+          "ja": "確かにそうですが、この観察だけでは、「一遺伝子一酵素」説を直接支持するものではありません。なぜなら、特定の遺伝子変異と特定の酵素欠陥を結びつけていないからです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The three classes of mutants exhibited different growth requirements.",
+          "zh": "三类突变体表现出不同的生长要求。",
+          "es": "Las tres clases de mutantes exhibieron diferentes requisitos de crecimiento.",
+          "fr": "Les trois classes de mutants présentaient des exigences de croissance différentes.",
+          "de": "Die drei Mutantenklassen zeigten unterschiedliche Wachstumsanforderungen.",
+          "ja": "3つの変異株クラスは異なる増殖要件を示した。"
+        },
+        "feedback": {
+          "en": "This is a correct observation but is a result of the underlying gene-enzyme relationship, not the direct support for the hypothesis itself. The hypothesis states *why* they have different requirements.",
+          "zh": "这是一个正确的观察结果，但它是基因与酶之间潜在关系的产物，而不是对假说本身的直接支持。该假说解释了它们为何有不同要求。",
+          "es": "Esta es una observación correcta, pero es un resultado de la relación subyacente entre gen y enzima, no el apoyo directo a la hipótesis misma. La hipótesis establece *por qué* tienen diferentes requisitos.",
+          "fr": "C'est une observation correcte, mais c'est le résultat de la relation sous-jacente entre gène et enzyme, et non un soutien direct à l'hypothèse elle-même. L'hypothèse explique *pourquoi* ils ont des exigences différentes.",
+          "de": "Dies ist eine korrekte Beobachtung, aber ein Ergebnis der zugrunde liegenden Gen-Enzym-Beziehung, nicht die direkte Unterstützung für die Hypothese selbst. Die Hypothese besagt, *warum* sie unterschiedliche Anforderungen haben.",
+          "ja": "これは正しい観察ですが、根底にある遺伝子と酵素の関係の結果であり、仮説そのものの直接的な支持ではありません。この仮説は、なぜそれらが異なる要件を持つのかを説明しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The arginine pathway was confirmed to operate in Neurospora, similar to mammalian liver cells.",
+          "zh": "精氨酸途径被证实也在神经孢子菌中运作，与哺乳动物肝细胞类似。",
+          "es": "Se confirmó que la vía de la arginina operaba en Neurospora, de manera similar a las células hepáticas de mamíferos.",
+          "fr": "La voie de l'arginine a été confirmée comme fonctionnant chez Neurospora, de manière similaire aux cellules hépatiques de mammifères.",
+          "de": "Der Argininweg wurde in Neurospora bestätigt, ähnlich wie in Säugetierleberzellen.",
+          "ja": "アルギニン経路がニューロスポラでも機能することが確認され、哺乳類の肝細胞と同様であることが示された。"
+        },
+        "feedback": {
+          "en": "This is a conclusion of the experiment but is about the pathway's universality, not directly about the \"one gene-one enzyme\" hypothesis.",
+          "zh": "这是实验的一个结论，但它关于途径的普遍性，而不是直接关于“一个基因一个酶”假说。",
+          "es": "Esta es una conclusión del experimento, pero trata sobre la universalidad de la vía, no directamente sobre la hipótesis de \"un gen una enzima\".",
+          "fr": "C'est une conclusion de l'expérience, mais elle concerne l'universalité de la voie, et non directement l'hypothèse « un gène une enzyme ».",
+          "de": "Dies ist eine Schlussfolgerung des Experiments, betrifft aber die Universalität des Stoffwechselwegs, nicht direkt die „Ein-Gen-Ein-Enzym“-Hypothese.",
+          "ja": "これは実験の結論ですが、経路の普遍性に関するものであり、「一遺伝子一酵素」説に直接関連するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The \"one gene-one enzyme\" hypothesis posits that each gene dictates the production of a single enzyme. The experiment supported this by showing that each class of *Neurospora* mutants, derived from a single gene mutation, was consistently deficient in one specific step of the arginine biosynthesis pathway, implying a defect in a single corresponding enzyme. Option A directly reflects this link.",
+      "zh": "“一个基因一个酶”假说认为每个基因决定一个酶的产生。该实验通过显示每类神经孢子菌突变体（由单个基因突变产生）在精氨酸生物合成途径中一致地缺失一个特定步骤，从而支持了这一假说，这意味着一个单一的对应酶存在缺陷。选项 A 直接反映了这种联系。",
+      "es": "La hipótesis de \"un gen una enzima\" postula que cada gen dicta la producción de una sola enzima. El experimento lo apoyó al mostrar que cada clase de mutantes de *Neurospora*, derivados de una mutación de un solo gen, era consistentemente deficiente en un paso específico de la vía de biosíntesis de arginina, lo que implicaba un defecto en una sola enzima correspondiente. La opción A refleja directamente este vínculo.",
+      "fr": "L'hypothèse « un gène une enzyme » postule que chaque gène dicte la production d'une seule enzyme. L'expérience a soutenu cela en montrant que chaque classe de mutants de *Neurospora*, issue d'une mutation d'un seul gène, était constamment déficiente dans une étape spécifique de la voie de biosynthèse de l'arginine, ce qui impliquait un défaut dans une seule enzyme correspondante. L'option A reflète directement ce lien.",
+      "de": "Die „Ein-Gen-Ein-Enzym“-Hypothese besagt, dass jedes Gen die Produktion eines einzelnen Enzyms steuert. Das Experiment unterstützte dies, indem es zeigte, dass jede Klasse von *Neurospora*-Mutanten, die aus einer einzelnen Genmutation resultierte, konsistent in einem spezifischen Schritt des Arginin-Biosynthesewegs defizitär war, was auf einen Defekt in einem einzelnen entsprechenden Enzym hindeutete. Option A spiegelt diese Verbindung direkt wider.",
+      "ja": "「一遺伝子一酵素」説は、各遺伝子が単一の酵素の生産を決定するというものです。この実験は、単一遺伝子変異に由来する各クラスのニューロスポラ変異株が、アルギニン生合成経路の特定の1つのステップで一貫して欠陥を示し、これにより対応する単一酵素の欠陥が示唆されることを示すことで、この仮説を支持しました。選択肢Aはこの関連性を直接的に反映しています。"
+    }
+  }
+]

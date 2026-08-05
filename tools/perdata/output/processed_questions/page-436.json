@@ -1,0 +1,385 @@
+[
+  {
+    "page_number": 436,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Researchers injected bicoid mRNA into the anterior end of an egg from a female with a mutation disabling the bicoid gene. Given that the hypothesis about Bicoid's role was supported by their wild-type experiments, what would be the most likely result for this injected egg?",
+      "zh": "研究人员将bicoid mRNA注入到一只bicoid基因失活的雌性果蝇的卵子前端。鉴于他们对野生型果蝇的实验支持了Bicoid的作用假说，那么对于这个注入了bicoid mRNA的卵子，最可能的结果是什么？",
+      "es": "Los investigadores inyectaron ARNm de bicoid en el extremo anterior de un óvulo de una hembra con una mutación que desactiva el gen bicoid. Dado que la hipótesis sobre el papel de Bicoid fue respaldada por sus experimentos con el tipo salvaje, ¿cuál sería el resultado más probable para este óvulo inyectado?",
+      "fr": "Des chercheurs ont injecté de l'ARNm bicoid dans l'extrémité antérieure d'un œuf provenant d'une femelle dont le gène bicoid était désactivé par mutation. Étant donné que l'hypothèse sur le rôle de Bicoid a été confirmée par leurs expériences sur le type sauvage, quel serait le résultat le plus probable pour cet œuf injecté ?",
+      "de": "Forscher injizierten bicoid-mRNA in das anteriore Ende eines Eis einer weiblichen Fruchtfliege, bei der das bicoid-Gen durch eine Mutation deaktiviert war. Angesichts der Tatsache, dass die Hypothese über die Rolle von Bicoid durch ihre Wildtyp-Experimente gestützt wurde, was wäre das wahrscheinlichste Ergebnis für dieses injizierte Ei?",
+      "ja": "研究者は、bicoid遺伝子が機能不全の雌から得た卵子の前方端にbicoid mRNAを注入しました。Bicoidの役割に関する仮説が野生型実験によって支持されたと考えると、この注入された卵子について最も可能性の高い結果は何でしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The embryo would develop normally with a head at the anterior end.",
+          "zh": "胚胎会正常发育，前端形成头部。",
+          "es": "El embrión se desarrollaría normalmente con una cabeza en el extremo anterior.",
+          "fr": "L'embryon se développerait normalement avec une tête à l'extrémité antérieure.",
+          "de": "Der Embryo würde sich normal entwickeln, mit einem Kopf am anterioren Ende.",
+          "ja": "胚は正常に発生し、前方端に頭部が形成されるでしょう。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The embryo would develop two heads, one at the anterior and one at the posterior.",
+          "zh": "胚胎会形成两个头部，一个在前端，一个在后端。",
+          "es": "El embrión desarrollaría dos cabezas, una en el extremo anterior y otra en el posterior.",
+          "fr": "L'embryon développerait deux têtes, une à l'extrémité antérieure et une à l'extrémité postérieure.",
+          "de": "Der Embryo würde zwei Köpfe entwickeln, einen am anterioren und einen am posterioren Ende.",
+          "ja": "胚は前方端と後方端にそれぞれ頭部が形成され、二つの頭を持つようになるでしょう。"
+        },
+        "feedback": {
+          "en": "The text describes anterior structures forming at injection sites. Injecting bicoid mRNA at the anterior end would rescue the head formation, not induce a second head at the posterior.",
+          "zh": "文本描述了在注射位点形成前端结构。在卵子前端注射bicoid mRNA会挽救头部的形成，而不是在后端诱导第二个头部。",
+          "es": "El texto describe la formación de estructuras anteriores en los sitios de inyección. Inyectar ARNm de bicoid en el extremo anterior rescataría la formación de la cabeza, no induciría una segunda cabeza en el extremo posterior.",
+          "fr": "Le texte décrit la formation de structures antérieures aux sites d'injection. L'injection d'ARNm bicoid à l'extrémité antérieure sauverait la formation de la tête, sans induire une seconde tête à l'extrémité postérieure.",
+          "de": "Der Text beschreibt die Bildung anteriorer Strukturen an den Injektionsstellen. Die Injektion von bicoid-mRNA am anterioren Ende würde die Kopfformation retten, nicht aber einen zweiten Kopf am posterioren Ende induzieren.",
+          "ja": "本文では、注入部位に前方構造が形成されると述べられています。前方端へのbicoid mRNAの注入は、頭部の形成を回復させるものであり、後方端に2つ目の頭部を誘導するものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The embryo would lack a head structure.",
+          "zh": "胚胎会缺乏头部结构。",
+          "es": "El embrión carecería de una estructura de cabeza.",
+          "fr": "L'embryon manquerait d'une structure de tête.",
+          "de": "Dem Embryo würde eine Kopfstruktur fehlen.",
+          "ja": "胚は頭部構造を欠くでしょう。"
+        },
+        "feedback": {
+          "en": "The purpose of the injection is to compensate for the disabled bicoid gene, thus restoring head formation.",
+          "zh": "注射的目的是弥补失活的bicoid基因，从而恢复头部的形成。",
+          "es": "El propósito de la inyección es compensar el gen bicoid deshabilitado, restaurando así la formación de la cabeza.",
+          "fr": "Le but de l'injection est de compenser le gène bicoid désactivé, restaurant ainsi la formation de la tête.",
+          "de": "Der Zweck der Injektion ist es, das deaktivierte bicoid-Gen zu kompensieren und somit die Kopfformation wiederherzustellen.",
+          "ja": "この注入の目的は、機能不全のbicoid遺伝子を補償し、頭部形成を回復させることです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The embryo would develop legs instead of a head at the anterior end.",
+          "zh": "胚胎前端会形成腿而不是头部。",
+          "es": "El embrión desarrollaría patas en lugar de una cabeza en el extremo anterior.",
+          "fr": "L'embryon développerait des pattes au lieu d'une tête à l'extrémité antérieure.",
+          "de": "Der Embryo würde am anterioren Ende Beine anstelle eines Kopfes entwickeln.",
+          "ja": "胚の前方端に頭部ではなく脚が形成されるでしょう。"
+        },
+        "feedback": {
+          "en": "This outcome is related to mutations in homeotic genes, not directly to the *bicoid* gene's function in head specification. Bicoid normally specifies head structures.",
+          "zh": "这种结果与同源异型基因的突变有关，与bicoid基因在头部特化中的功能没有直接关系。Bicoid通常特化头部结构。",
+          "es": "Este resultado está relacionado con mutaciones en genes homeóticos, no directamente con la función del gen bicoid en la especificación de la cabeza. Bicoid normalmente especifica estructuras de la cabeza.",
+          "fr": "Ce résultat est lié à des mutations dans les gènes homéotiques, et non directement à la fonction du gène bicoid dans la spécification de la tête. Bicoid spécifie normalement les structures de la tête.",
+          "de": "Dieses Ergebnis steht im Zusammenhang mit Mutationen in homöotischen Genen und nicht direkt mit der Funktion des bicoid-Gens bei der Kopfspezifikation. Bicoid spezifiziert normalerweise Kopfstrukturen.",
+          "ja": "この結果は、ホメオティック遺伝子の突然変異に関連しており、頭部特異的化におけるbicoid遺伝子の機能とは直接関係ありません。Bicoidは通常、頭部構造を特定します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The 'WHAT IF?' section describes this exact scenario. Since the bicoid gene in the female was disabled, the egg would normally lack Bicoid protein, resulting in no head. However, injecting bicoid mRNA into the anterior end would restore the necessary morphogen gradient, leading to the normal development of a head at that end, consistent with Bicoid's role as a head-specifying morphogen.",
+      "zh": "“WHAT IF?”部分描述了完全相同的情景。由于雌性果蝇的bicoid基因失活，卵子通常会缺乏Bicoid蛋白，导致没有头部。然而，将bicoid mRNA注入到前端会恢复必需的形态发生素梯度，从而在该端正常形成头部，这与Bicoid作为头部特化形态发生素的作用是一致的。",
+      "es": "La sección '¿Y SI?' describe exactamente este escenario. Dado que el gen bicoid en la hembra estaba deshabilitado, el óvulo normalmente carecería de proteína Bicoid, lo que resultaría en la ausencia de cabeza. Sin embargo, la inyección de ARNm de bicoid en el extremo anterior restauraría el gradiente de morfogénesis necesario, lo que llevaría al desarrollo normal de una cabeza en ese extremo, lo cual es consistente con el papel de Bicoid como un morfogén que especifica la cabeza.",
+      "fr": "La section « ET SI ? » décrit précisément ce scénario. Étant donné que le gène bicoid chez la femelle était désactivé, l'œuf manquerait normalement de protéine Bicoid, ce qui entraînerait l'absence de tête. Cependant, l'injection d'ARNm bicoid dans l'extrémité antérieure restaurerait le gradient de morphogène nécessaire, conduisant au développement normal d'une tête à cette extrémité, ce qui est cohérent avec le rôle de Bicoid en tant que morphogène spécifiant la tête.",
+      "de": "Der Abschnitt 'WAS WÄRE WENN?' beschreibt genau dieses Szenario. Da das bicoid-Gen in der weiblichen Fliege deaktiviert war, würde dem Ei normalerweise Bicoid-Protein fehlen, was zur Folge hätte, dass kein Kopf entsteht. Die Injektion von bicoid-mRNA am anterioren Ende würde jedoch den notwendigen Morphogen-Gradienten wiederherstellen, was zur normalen Entwicklung eines Kopfes an diesem Ende führen würde, was mit Bicoids Rolle als Kopfspezifizierendes Morphogen übereinstimmt.",
+      "ja": "「もしも？」のセクションでは、まさにこのシナリオが記述されています。雌のbicoid遺伝子が機能不全であったため、卵子は通常Bicoidタンパク質を欠き、頭部が形成されません。しかし、bicoid mRNAを前方端に注入することで、必要なモルフォゲン勾配が回復し、その端に頭部が正常に発生するでしょう。これはBicoidが頭部を特異的に形成するモルフォゲンとしての役割と一致します。"
+    }
+  },
+  {
+    "page_number": 436,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 18.22 and the accompanying text, which statement accurately describes the distribution of *bicoid* mRNA and Bicoid protein during early *Drosophila* development?",
+      "zh": "根据图18.22及其附带文本，以下哪项陈述准确描述了果蝇早期发育过程中bicoid mRNA和Bicoid蛋白的分布？",
+      "es": "Según la Figura 18.22 y el texto que la acompaña, ¿qué afirmación describe con precisión la distribución del ARNm de bicoid y la proteína Bicoid durante el desarrollo temprano de la *Drosophila*?",
+      "fr": "Selon la Figure 18.22 et le texte l'accompagnant, quelle affirmation décrit précisément la distribution de l'ARNm bicoid et de la protéine Bicoid au cours du développement précoce de la *Drosophile* ?",
+      "de": "Gemäß Abbildung 18.22 und dem begleitenden Text, welche Aussage beschreibt die Verteilung von bicoid-mRNA und Bicoid-Protein während der frühen *Drosophila*-Entwicklung genau?",
+      "ja": "図18.22および関連するテキストによると、ショウジョウバエの初期発生におけるbicoid mRNAとBicoidタンパク質の分布を正確に記述しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "*bicoid* mRNA is concentrated at the anterior end of the unfertilized egg, and Bicoid protein forms a gradient highest at the anterior end in the early embryo.",
+          "zh": "bicoid mRNA集中在未受精卵的前端，Bicoid蛋白在早期胚胎中形成一个前端浓度最高的梯度。",
+          "es": "El ARNm de bicoid se concentra en el extremo anterior del óvulo no fertilizado, y la proteína Bicoid forma un gradiente con la mayor concentración en el extremo anterior del embrión temprano.",
+          "fr": "L'ARNm bicoid est concentré à l'extrémité antérieure de l'œuf non fécondé, et la protéine Bicoid forme un gradient dont la concentration est la plus élevée à l'extrémité antérieure de l'embryon précoce.",
+          "de": "bicoid-mRNA ist am anterioren Ende des unbefruchteten Eis konzentriert, und Bicoid-Protein bildet im frühen Embryo einen Gradienten, der am anterioren Ende am höchsten ist.",
+          "ja": "bicoid mRNAは未受精卵の前方端に集中しており、Bicoidタンパク質は初期胚において前方端が最も高い勾配を形成します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "*bicoid* mRNA is initially uniform, and Bicoid protein concentrates at the posterior end.",
+          "zh": "bicoid mRNA最初是均匀分布的，而Bicoid蛋白集中在后端。",
+          "es": "El ARNm de bicoid es inicialmente uniforme, y la proteína Bicoid se concentra en el extremo posterior.",
+          "fr": "L'ARNm bicoid est initialement uniforme, et la protéine Bicoid se concentre à l'extrémité postérieure.",
+          "de": "bicoid-mRNA ist anfänglich gleichmäßig verteilt, und Bicoid-Protein konzentriert sich am posterioren Ende.",
+          "ja": "bicoid mRNAは初期には均一であり、Bicoidタンパク質は後方端に集中します。"
+        },
+        "feedback": {
+          "en": "The text clearly states *bicoid* mRNA is 'highly concentrated at the extreme anterior end' and Bicoid protein diffuses from the anterior to posterior.",
+          "zh": "文本明确指出bicoid mRNA“高度集中在极前端”，Bicoid蛋白从前端向后端扩散。",
+          "es": "El texto establece claramente que el ARNm de bicoid está 'altamente concentrado en el extremo anterior' y que la proteína Bicoid se difunde del anterior al posterior.",
+          "fr": "Le texte indique clairement que l'ARNm bicoid est 'fortement concentré à l'extrémité antérieure extrême' et que la protéine Bicoid diffuse de l'extrémité antérieure vers la postérieure.",
+          "de": "Der Text besagt klar, dass bicoid-mRNA 'stark am extremen anterioren Ende konzentriert' ist und Bicoid-Protein vom anterioren zum posterioren Ende diffundiert.",
+          "ja": "テキストには、bicoid mRNAが「極度の前方端に高度に集中している」と明記されており、Bicoidタンパク質は前方から後方へ拡散すると説明されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both *bicoid* mRNA and Bicoid protein are uniformly distributed throughout the egg and embryo.",
+          "zh": "bicoid mRNA和Bicoid蛋白在卵子和胚胎中均均匀分布。",
+          "es": "Tanto el ARNm de bicoid como la proteína Bicoid se distribuyen uniformemente por todo el óvulo y el embrión.",
+          "fr": "L'ARNm bicoid et la protéine Bicoid sont tous deux uniformément distribués dans l'œuf et l'embryon.",
+          "de": "Sowohl bicoid-mRNA als auch Bicoid-Protein sind gleichmäßig im Ei und Embryo verteilt.",
+          "ja": "bicoid mRNAとBicoidタンパク質の両方が卵子と胚全体に均一に分布しています。"
+        },
+        "feedback": {
+          "en": "The text describes a concentration and a gradient, indicating non-uniform distribution.",
+          "zh": "文本描述了浓度和梯度，表明其分布不均匀。",
+          "es": "El texto describe una concentración y un gradiente, lo que indica una distribución no uniforme.",
+          "fr": "Le texte décrit une concentration et un gradient, indiquant une distribution non uniforme.",
+          "de": "Der Text beschreibt eine Konzentration und einen Gradienten, was eine ungleichmäßige Verteilung anzeigt.",
+          "ja": "本文は濃度と勾配について説明しており、これは不均一な分布を示しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Bicoid protein is found only in the unfertilized egg, not the early embryo.",
+          "zh": "Bicoid蛋白仅存在于未受精卵中，而不存在于早期胚胎中。",
+          "es": "La proteína Bicoid se encuentra solo en el óvulo no fertilizado, no en el embrión temprano.",
+          "fr": "La protéine Bicoid n'est trouvée que dans l'œuf non fécondé, pas dans l'embryon précoce.",
+          "de": "Bicoid-Protein wird nur im unbefruchteten Ei, nicht im frühen Embryo gefunden.",
+          "ja": "Bicoidタンパク質は未受精卵にのみ存在し、初期胚には存在しません。"
+        },
+        "feedback": {
+          "en": "The text and diagram clearly show Bicoid protein is translated and forms a gradient in the early embryo.",
+          "zh": "文本和图表清楚地显示Bicoid蛋白在早期胚胎中被翻译并形成梯度。",
+          "es": "El texto y el diagrama muestran claramente que la proteína Bicoid se traduce y forma un gradiente en el embrión temprano.",
+          "fr": "Le texte et le schéma montrent clairement que la protéine Bicoid est traduite et forme un gradient dans l'embryon précoce.",
+          "de": "Der Text und das Diagramm zeigen deutlich, dass Bicoid-Protein übersetzt wird und im frühen Embryo einen Gradienten bildet.",
+          "ja": "テキストと図は、Bicoidタンパク質が翻訳され、初期胚において勾配を形成することを明確に示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Figure 18.22 and the 'Results' section state that *bicoid* mRNA is confined to the anterior end of the unfertilized egg. After fertilization and translation, Bicoid protein is seen to be concentrated in cells at the anterior end of the embryo, forming a gradient. This directly matches option A.",
+      "zh": "图18.22和“结果”部分指出，bicoid mRNA局限于未受精卵的前端。受精和翻译后，Bicoid蛋白被发现集中在胚胎前端的细胞中，形成一个梯度。这直接与选项A相符。",
+      "es": "La Figura 18.22 y la sección 'Resultados' indican que el ARNm de bicoid está confinado al extremo anterior del óvulo no fertilizado. Después de la fertilización y la traducción, se observa que la proteína Bicoid se concentra en las células del extremo anterior del embrión, formando un gradiente. Esto coincide directamente con la opción A.",
+      "fr": "La Figure 18.22 et la section 'Résultats' indiquent que l'ARNm bicoid est confiné à l'extrémité antérieure de l'œuf non fécondé. Après la fécondation et la traduction, la protéine Bicoid est observée concentrée dans les cellules de l'extrémité antérieure de l'embryon, formant un gradient. Cela correspond directement à l'option A.",
+      "de": "Abbildung 18.22 und der Abschnitt 'Ergebnisse' besagen, dass bicoid-mRNA auf das anteriore Ende des unbefruchteten Eis beschränkt ist. Nach Befruchtung und Translation ist Bicoid-Protein in Zellen am anterioren Ende des Embryos konzentriert und bildet einen Gradienten. Dies entspricht direkt Option A.",
+      "ja": "図18.22および「結果」セクションでは、bicoid mRNAが未受精卵の前方端に限定されていると述べています。受精と翻訳の後、Bicoidタンパク質は胚の前方端の細胞に集中し、勾配を形成していることが観察されます。これは選択肢Aに直接一致します。"
+    }
+  },
+  {
+    "page_number": 436,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describe the significance of the *bicoid* research, or the concept of a morphogen as illustrated by Bicoid? (Select all that apply)",
+      "zh": "以下哪项陈述准确描述了bicoid研究的意义，或者由Bicoid所例证的形态发生素概念？（选择所有符合的选项）",
+      "es": "¿Cuáles de las siguientes afirmaciones describen con precisión la importancia de la investigación del *bicoid*, o el concepto de morfogén ilustrado por Bicoid? (Selecciona todas las que apliquen)",
+      "fr": "Lesquelles des affirmations suivantes décrivent avec précision l'importance de la recherche sur le gène *bicoid*, ou le concept de morphogène tel qu'illustré par Bicoid ? (Sélectionnez toutes les réponses pertinentes)",
+      "de": "Welche der folgenden Aussagen beschreiben die Bedeutung der *bicoid*-Forschung oder das Konzept eines Morphogens, wie es durch Bicoid illustriert wird, genau? (Wählen Sie alle zutreffenden aus)",
+      "ja": "以下の記述のうち、bicoid研究の意義、またはBicoidによって例示されるモルフォゲンという概念を正確に説明しているのはどれですか？（当てはまるものをすべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It identified a specific protein (Bicoid) crucial for early pattern formation.",
+          "zh": "它识别出了一种对早期模式形成至关重要的特定蛋白质（Bicoid）。",
+          "es": "Identificó una proteína específica (Bicoid) crucial para la formación temprana de patrones.",
+          "fr": "Elle a identifié une protéine spécifique (Bicoid) cruciale pour la formation précoce des motifs.",
+          "de": "Es identifizierte ein spezifisches Protein (Bicoid), das für die frühe Musterbildung entscheidend ist.",
+          "ja": "初期のパターン形成に不可欠な特定のタンパク質（Bicoid）を特定しました。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It demonstrated that a gradient of morphogens can determine polarity and positional information in an embryo.",
+          "zh": "它证明了形态发生素梯度可以决定胚胎中的极性和位置信息。",
+          "es": "Demostró que un gradiente de morfógenos puede determinar la polaridad y la información posicional en un embrión.",
+          "fr": "Elle a démontré qu'un gradient de morphogènes peut déterminer la polarité et l'information positionnelle dans un embryon.",
+          "de": "Es zeigte, dass ein Gradient von Morphogenen die Polarität und Positionsinformation in einem Embryo bestimmen kann.",
+          "ja": "モルフォゲンの勾配が胚における極性および位置情報を決定できることを示しました。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It highlighted the critical role of maternal gene products in initiating embryonic development.",
+          "zh": "它强调了母体基因产物在启动胚胎发育中的关键作用。",
+          "es": "Resaltó el papel crítico de los productos génicos maternos en la iniciación del desarrollo embrionario.",
+          "fr": "Elle a souligné le rôle critique des produits géniques maternels dans l'initiation du développement embryonnaire.",
+          "de": "Es betonte die kritische Rolle mütterlicher Genprodukte bei der Initiierung der Embryonalentwicklung.",
+          "ja": "胚発生を開始する上での母性遺伝子産物の重要な役割を強調しました。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It showed that *bicoid* is a homeotic gene responsible for antenna development.",
+          "zh": "它表明bicoid是一个负责触角发育的同源异型基因。",
+          "es": "Mostró que *bicoid* es un gen homeótico responsable del desarrollo de las antenas.",
+          "fr": "Elle a montré que *bicoid* est un gène homéotique responsable du développement des antennes.",
+          "de": "Es zeigte, dass *bicoid* ein homöotisches Gen ist, das für die Antennenentwicklung verantwortlich ist.",
+          "ja": "bicoidが触角の発達を担うホメオティック遺伝子であることを示しました。"
+        },
+        "feedback": {
+          "en": "While homeotic genes are discussed on the page (Evo-Devo section), *bicoid* is described as specifying head (anterior) structures, not being a homeotic gene for antennae.",
+          "zh": "尽管页面上讨论了同源异型基因（“演化发育生物学”部分），但bicoid被描述为特化头部（前端）结构，而不是负责触角的同源异型基因。",
+          "es": "Aunque los genes homeóticos se discuten en la página (sección Evo-Devo), *bicoid* se describe como el que especifica las estructuras de la cabeza (anterior), no como un gen homeótico para las antenas.",
+          "fr": "Bien que les gènes homéotiques soient abordés dans la page (section Evo-Devo), *bicoid* est décrit comme spécifiant les structures de la tête (antérieure), et non comme un gène homéotique pour les antennes.",
+          "de": "Obwohl homöotische Gene auf der Seite (Evo-Devo-Abschnitt) diskutiert werden, wird *bicoid* als Gen beschrieben, das Kopf (anteriore) Strukturen spezifiziert, nicht als homöotisches Gen für Antennen.",
+          "ja": "ホメオティック遺伝子はページ（Evo-Devoのセクション）で議論されていますが、bicoidは頭部（前方）構造を特定するものとして記述されており、触角のためのホメオティック遺伝子とはされていません。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "It established that *bicoid* mRNA is primarily responsible for establishing the dorsal-ventral axis.",
+          "zh": "它确立了bicoid mRNA主要负责建立背腹轴。",
+          "es": "Estableció que el ARNm de *bicoid* es el principal responsable de establecer el eje dorsoventral.",
+          "fr": "Elle a établi que l'ARNm bicoid est principalement responsable de l'établissement de l'axe dorso-ventral.",
+          "de": "Es etablierte, dass bicoid-mRNA primär für die Etablierung der Dorsal-Ventral-Achse verantwortlich ist.",
+          "ja": "bicoid mRNAが主に背腹軸の確立を担うことを確立しました。"
+        },
+        "feedback": {
+          "en": "The text states that *bicoid* protein specifies the anterior end, while maternal mRNA gradients *also* establish the dorsal-ventral axis, but does not specifically attribute D-V axis determination *primarily* to *bicoid* mRNA.",
+          "zh": "文本指出bicoid蛋白特化前端，而母体mRNA梯度“也”建立了背腹轴，但并未明确将背腹轴的决定“主要”归因于bicoid mRNA。",
+          "es": "El texto afirma que la proteína *bicoid* especifica el extremo anterior, mientras que los gradientes de ARNm materno *también* establecen el eje dorsoventral, pero no atribuye específicamente la determinación del eje D-V *principalmente* al ARNm de *bicoid*.",
+          "fr": "Le texte indique que la protéine *bicoid* spécifie l'extrémité antérieure, tandis que les gradients d'ARNm maternel *établissent également* l'axe dorso-ventral, mais n'attribue pas spécifiquement la détermination de l'axe D-V *principalement* à l'ARNm bicoid.",
+          "de": "Der Text besagt, dass Bicoid-Protein das anteriore Ende spezifiziert, während mütterliche mRNA-Gradienten *auch* die Dorsal-Ventral-Achse etablieren, aber die D-V-Achsenbestimmung nicht *primär* der bicoid-mRNA zuschreibt.",
+          "ja": "本文は、bicoidタンパク質が前方端を特定すると述べており、母性mRNAの勾配が背腹軸も確立すると述べていますが、D-V軸の決定が*主に*bicoid mRNAによるものとは特定していません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that *bicoid* research 'led to the identification of a specific protein required for some of the earliest steps in pattern formation' (A), 'increased our understanding of the mother's critical role in the initial phases of embryonic development' (C), and established the 'principle that a gradient of morphogens can determine polarity and position' (B). Options D and E misrepresent the role of *bicoid* or assign a primary role in D-V axis determination that is not explicitly supported.",
+      "zh": "文本明确指出，bicoid研究“导致了对早期模式形成所需特定蛋白质的识别”（A），“增加了我们对母体在胚胎发育初期关键作用的理解”（C），并确立了“形态发生素梯度可以决定极性和位置信息”的原则（B）。选项D和E曲解了bicoid的作用，或将其在背腹轴决定中的主要作用归因于此，而这并未得到明确支持。",
+      "es": "El texto establece explícitamente que la investigación del *bicoid* 'condujo a la identificación de una proteína específica requerida para algunos de los primeros pasos en la formación de patrones' (A), 'aumentó nuestra comprensión del papel crítico de la madre en las fases iniciales del desarrollo embrionario' (C), y estableció el 'principio de que un gradiente de morfógenos puede determinar la polaridad y la posición' (B). Las opciones D y E tergiversan el papel de *bicoid* o le asignan un papel principal en la determinación del eje dorsoventral que no está explícitamente respaldado.",
+      "fr": "Le texte stipule explicitement que la recherche sur le gène *bicoid* « a conduit à l'identification d'une protéine spécifique requise pour certaines des premières étapes de la formation des motifs » (A), « a accru notre compréhension du rôle critique de la mère dans les phases initiales du développement embryonnaire » (C), et a établi le « principe qu'un gradient de morphogènes peut déterminer la polarité et la position » (B). Les options D et E dénaturent le rôle de *bicoid* ou lui attribuent un rôle principal dans la détermination de l'axe D-V qui n'est pas explicitement étayé.",
+      "de": "Der Text besagt explizit, dass die *bicoid*-Forschung 'zur Identifizierung eines spezifischen Proteins führte, das für einige der frühesten Schritte der Musterbildung benötigt wird' (A), 'unser Verständnis der kritischen Rolle der Mutter in den anfänglichen Phasen der Embryonalentwicklung verbesserte' (C) und das 'Prinzip etablierte, dass ein Gradient von Morphogenen Polarität und Positionsinformation bestimmen kann' (B). Optionen D und E stellen die Rolle von *bicoid* falsch dar oder weisen ihm eine primäre Rolle bei der D-V-Achsenbestimmung zu, die nicht explizit unterstützt wird.",
+      "ja": "本文は、bicoid研究が「パターン形成の最も初期の段階のいくつかで必要とされる特定のタンパク質の特定につながった」（A）、「胚発生の初期段階における母親の重要な役割についての我々の理解を深めた」（C）、そして「モルフォゲンの勾配が極性および位置情報を決定できるという原理」を確立した（B）と明示しています。選択肢DとEは、bicoidの役割を誤って記述しているか、または明確に支持されていないD-V軸決定における主要な役割を割り当てています。"
+    }
+  },
+  {
+    "page_number": 436,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "The 'Evolutionary Developmental Biology' section describes a fly mutation resulting in legs emerging from its head. What type of gene is specifically mentioned as being mutated to cause this effect?",
+      "zh": "“演化发育生物学”部分描述了一种果蝇突变，导致腿从头部出现。具体是哪种类型的基因突变被提及导致了这种效应？",
+      "es": "La sección 'Biología del Desarrollo Evolutivo' describe una mutación en una mosca que resulta en el surgimiento de patas de su cabeza. ¿Qué tipo de gen se menciona específicamente como mutado para causar este efecto?",
+      "fr": "La section « Biologie du Développement Évolutif » décrit une mutation chez la mouche entraînant l'apparition de pattes à partir de sa tête. Quel type de gène est spécifiquement mentionné comme étant muté pour causer cet effet ?",
+      "de": "Der Abschnitt „Evolutionsbiologie der Entwicklung“ beschreibt eine Fliegenmutation, die dazu führt, dass Beine aus dem Kopf wachsen. Welche Art von Gen wird speziell als mutiert genannt, das diesen Effekt verursacht?",
+      "ja": "「進化発生生物学」のセクションでは、ハエの突然変異によって頭部から脚が生じる例が述べられています。この効果を引き起こすために変異した遺伝子の種類として、具体的に何が言及されていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A homeotic gene.",
+          "zh": "同源异型基因。",
+          "es": "Un gen homeótico.",
+          "fr": "Un gène homéotique.",
+          "de": "Ein homöotisches Gen.",
+          "ja": "ホメオティック遺伝子。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The *bicoid* gene.",
+          "zh": "bicoid基因。",
+          "es": "El gen *bicoid*.",
+          "fr": "Le gène *bicoid*.",
+          "de": "Das *bicoid*-Gen.",
+          "ja": "bicoid遺伝子。"
+        },
+        "feedback": {
+          "en": "The *bicoid* gene is responsible for anterior (head) specification, not for causing misplaced body parts like legs instead of antennae. That is the role of homeotic genes.",
+          "zh": "bicoid基因负责前端（头部）特化，而不是导致像腿代替触角这样的错位身体部位。那是同源异型基因的作用。",
+          "es": "El gen *bicoid* es responsable de la especificación anterior (cabeza), no de causar partes del cuerpo fuera de lugar como patas en lugar de antenas. Ese es el papel de los genes homeóticos.",
+          "fr": "Le gène *bicoid* est responsable de la spécification de l'extrémité antérieure (tête), et non de la cause de parties du corps mal placées comme des pattes à la place d'antennes. C'est le rôle des gènes homéotiques.",
+          "de": "Das *bicoid*-Gen ist für die anteriore (Kopf-)Spezifikation verantwortlich, nicht dafür, fehlplatzierte Körperteile wie Beine anstelle von Antennen zu verursachen. Das ist die Rolle von homöotischen Genen.",
+          "ja": "bicoid遺伝子は、前方（頭部）の特異化に関与しており、触角の代わりに脚のような体の部位の誤った配置を引き起こすものではありません。それはホメオティック遺伝子の役割です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A gene controlling dorsal-ventral axis formation.",
+          "zh": "一个控制背腹轴形成的基因。",
+          "es": "Un gen que controla la formación del eje dorsoventral.",
+          "fr": "Un gène contrôlant la formation de l'axe dorso-ventral.",
+          "de": "Ein Gen, das die Bildung der Dorsal-Ventral-Achse steuert.",
+          "ja": "背腹軸の形成を制御する遺伝子。"
+        },
+        "feedback": {
+          "en": "While dorsal-ventral axis formation is mentioned as being established by maternal mRNAs, the specific mutation described (legs from head) is attributed to a homeotic gene, not a dorsal-ventral axis gene.",
+          "zh": "尽管背腹轴的形成被提及是由母体mRNA建立的，但所描述的特定突变（头部出现腿）归因于同源异型基因，而不是背腹轴基因。",
+          "es": "Aunque la formación del eje dorsoventral se menciona como establecida por los ARNm maternos, la mutación específica descrita (patas de la cabeza) se atribuye a un gen homeótico, no a un gen del eje dorsoventral.",
+          "fr": "Bien que la formation de l'axe dorso-ventral soit mentionnée comme étant établie par les ARNm maternels, la mutation spécifique décrite (pattes de la tête) est attribuée à un gène homéotique, et non à un gène de l'axe dorso-ventral.",
+          "de": "Obwohl die Bildung der Dorsal-Ventral-Achse als durch mütterliche mRNAs etabliert erwähnt wird, wird die beschriebene spezifische Mutation (Beine aus dem Kopf) einem homöotischen Gen zugeschrieben, nicht einem Gen der Dorsal-Ventral-Achse.",
+          "ja": "背腹軸の形成は母性mRNAによって確立されると述べられていますが、記述された特定の突然変異（頭部からの脚）はホメオティック遺伝子に起因しており、背腹軸遺伝子ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A gene responsible for maternal mRNA degradation.",
+          "zh": "一个负责母体mRNA降解的基因。",
+          "es": "Un gen responsable de la degradación del ARNm materno.",
+          "fr": "Un gène responsable de la dégradation de l'ARNm maternel.",
+          "de": "Ein Gen, das für den Abbau mütterlicher mRNA verantwortlich ist.",
+          "ja": "母性mRNA分解を担う遺伝子。"
+        },
+        "feedback": {
+          "en": "Maternal mRNA degradation is a process mentioned in the text, but not as the cause of the specific 'legs from head' phenotype. This phenotype is due to a homeotic gene mutation.",
+          "zh": "母体mRNA降解是文本中提及的一个过程，但并非“头部出现腿”这种特定表型的原因。这种表型是由于同源异型基因突变引起的。",
+          "es": "La degradación del ARNm materno es un proceso mencionado en el texto, pero no como la causa del fenotipo específico de 'patas desde la cabeza'. Este fenotipo se debe a una mutación de un gen homeótico.",
+          "fr": "La dégradation de l'ARNm maternel est un processus mentionné dans le texte, mais pas comme la cause du phénotype spécifique « pattes à partir de la tête ». Ce phénotype est dû à une mutation d'un gène homéotique.",
+          "de": "Der Abbau mütterlicher mRNA ist ein im Text erwähnter Prozess, jedoch nicht die Ursache des spezifischen Phänotyps 'Beine aus dem Kopf'. Dieser Phänotyp ist auf eine homöotische Genmutation zurückzuführen.",
+          "ja": "母性mRNAの分解はテキスト中で言及されているプロセスですが、「頭部からの脚」という特定の表現型の原因ではありません。この表現型はホメオティック遺伝子の突然変異によるものです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The 'Evolutionary Developmental Biology' section explicitly states that the 'fly with legs emerging from its head in Figure 18.20 is the result of a single mutation in one gene, a homeotic gene.'",
+      "zh": "“演化发育生物学”部分明确指出，“图18.20中头部出现腿的果蝇是某个基因（一个同源异型基因）单次突变的结果”。",
+      "es": "La sección 'Biología del Desarrollo Evolutivo' establece explícitamente que 'la mosca con patas que emergen de su cabeza en la Figura 18.20 es el resultado de una única mutación en un gen, un gen homeótico'.",
+      "fr": "La section « Biologie du Développement Évolutif » indique explicitement que « la mouche avec des pattes émergeant de sa tête dans la Figure 18.20 est le résultat d'une mutation unique dans un gène, un gène homéotique ».",
+      "de": "Der Abschnitt „Evolutionsbiologie der Entwicklung“ besagt explizit, dass „die Fliege mit Beinen, die in Abbildung 18.20 aus ihrem Kopf wachsen, das Ergebnis einer einzelnen Mutation in einem Gen, einem homöotischen Gen, ist.“",
+      "ja": "「進化発生生物学」のセクションでは、「図18.20に示されている頭部から脚が生じているハエは、単一の遺伝子、すなわちホメオティック遺伝子の突然変異の結果である」と明示されています。"
+    }
+  }
+]

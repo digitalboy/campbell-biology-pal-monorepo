@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 409,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the approximate rate of spontaneous mutation during DNA replication in eukaryotes, as mentioned in the text?",
+      "zh": "根据文本提及，真核生物DNA复制过程中自发突变的近似速率是多少？",
+      "es": "¿Cuál es la tasa aproximada de mutación espontánea durante la replicación del ADN en eucariotas, según se menciona en el texto?",
+      "fr": "Quel est le taux approximatif de mutation spontanée lors de la réplication de l'ADN chez les eucaryotes, tel que mentionné dans le texte ?",
+      "de": "Wie hoch ist die ungefähre Rate spontaner Mutationen während der DNA-Replikation in Eukaryoten, wie im Text erwähnt?",
+      "ja": "本文で述べられている真核生物のDNA複製中の自然突然変異のおおよその発生率はどのくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "One nucleotide in every 10^5 altered",
+          "zh": "每10^5个核苷酸中有一个发生改变",
+          "es": "Un nucleótido alterado por cada 10^5",
+          "fr": "Un nucléotide altéré sur 10^5",
+          "de": "Ein Nukleotid von 10^5 verändert",
+          "ja": "10^5個のヌクレオチドごとに1つが変化する"
+        },
+        "feedback": {
+          "en": "This rate is significantly higher than what is stated in the text.",
+          "zh": "这个速率比文本中陈述的要高得多。",
+          "es": "Esta tasa es significativamente más alta de lo que se indica en el texto.",
+          "fr": "Ce taux est nettement plus élevé que ce qui est indiqué dans le texte.",
+          "de": "Diese Rate ist deutlich höher als im Text angegeben.",
+          "ja": "この発生率は、本文に記載されているよりも大幅に高いです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "One nucleotide in every 10^7 altered",
+          "zh": "每10^7个核苷酸中有一个发生改变",
+          "es": "Un nucleótido alterado por cada 10^7",
+          "fr": "Un nucléotide altéré sur 10^7",
+          "de": "Ein Nukleotid von 10^7 verändert",
+          "ja": "10^7個のヌクレオチドごとに1つが変化する"
+        },
+        "feedback": {
+          "en": "This rate is also higher than the actual number provided in the text.",
+          "zh": "这个速率也高于文本中提供的实际数字。",
+          "es": "Esta tasa también es más alta que el número real proporcionado en el texto.",
+          "fr": "Ce taux est également plus élevé que le chiffre réel fourni dans le texte.",
+          "de": "Diese Rate ist ebenfalls höher als die im Text angegebene tatsächliche Zahl.",
+          "ja": "この発生率も、本文で示されている実際の数字よりも高いです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "One nucleotide in every 10^10 altered",
+          "zh": "每10^10个核苷酸中有一个发生改变",
+          "es": "Un nucleótido alterado por cada 10^10",
+          "fr": "Un nucléotide altéré sur 10^10",
+          "de": "Ein Nukleotid von 10^10 verändert",
+          "ja": "10^10個のヌクレオチドごとに1つが変化する"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "One nucleotide in every 10^12 altered",
+          "zh": "每10^12个核苷酸中有一个发生改变",
+          "es": "Un nucleótido alterado por cada 10^12",
+          "fr": "Un nucléotide altéré sur 10^12",
+          "de": "Ein Nukleotid von 10^12 verändert",
+          "ja": "10^12個のヌクレオチドごとに1つが変化する"
+        },
+        "feedback": {
+          "en": "This rate is lower than the value stated in the text.",
+          "zh": "这个速率低于文本中陈述的值。",
+          "es": "Esta tasa es inferior al valor indicado en el texto.",
+          "fr": "Ce taux est inférieur à la valeur indiquée dans le texte.",
+          "de": "Diese Rate ist niedriger als der im Text angegebene Wert.",
+          "ja": "この発生率は、本文に記載されている値よりも低いです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states: 'About one nucleotide in every 10^10 is altered, and the change is passed on to the next generation of cells.' This applies to both E. coli and eukaryotes.",
+      "zh": "文本指出：“大约每10^10个核苷酸中就有一个被改变，并且这种改变会传递给下一代细胞。”这适用于大肠杆菌和真核生物。",
+      "es": "El texto afirma: 'Aproximadamente un nucleótido de cada 10^10 se altera, y el cambio se transmite a la siguiente generación de células'. Esto se aplica tanto a E. coli como a los eucariotas.",
+      "fr": "Le texte indique : 'Environ un nucléotide sur 10^10 est altéré, et le changement est transmis à la génération suivante de cellules.' Cela s'applique à la fois à E. coli et aux eucaryotes.",
+      "de": "Der Text besagt: 'Etwa ein Nukleotid von 10^10 wird verändert, und die Veränderung wird an die nächste Zellgeneration weitergegeben.' Dies gilt sowohl für E. coli als auch für Eukaryoten.",
+      "ja": "本文には、「約10^10個のヌクレオチドごとに1つが変化し、その変化は次の世代の細胞に受け継がれる」とあります。これは大腸菌と真核生物の両方に当てはまります。"
+    }
+  },
+  {
+    "page_number": 409,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements correctly describes a type of chemical mutagen mentioned in the text?",
+      "zh": "以下哪项陈述正确描述了文本中提到的一种化学诱变剂？",
+      "es": "¿Cuál de las siguientes afirmaciones describe correctamente un tipo de mutágeno químico mencionado en el texto?",
+      "fr": "Laquelle des affirmations suivantes décrit correctement un type de mutagène chimique mentionné dans le texte ?",
+      "de": "Welche der folgenden Aussagen beschreibt korrekt eine im Text erwähnte Art von chemischem Mutagen?",
+      "ja": "次の記述のうち、本文で言及されている化学的変異原の一種を正しく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Nucleotide analogs typically cause mutations by inserting into the DNA and distorting the double helix.",
+          "zh": "核苷酸类似物通常通过插入DNA并扭曲双螺旋来引起突变。",
+          "es": "Los análogos de nucleótidos suelen causar mutaciones al insertarse en el ADN y distorsionar la doble hélice.",
+          "fr": "Les analogues nucléotidiques provoquent généralement des mutations en s'insérant dans l'ADN et en déformant la double hélice.",
+          "de": "Nukleotidanaloga verursachen Mutationen typischerweise, indem sie sich in die DNA einfügen und die Doppelhelix verzerren.",
+          "ja": "ヌクレオチドアナログは、通常、DNAに挿入され二重らせんを歪めることで突然変異を引き起こします。"
+        },
+        "feedback": {
+          "en": "This mechanism is described for 'other chemical mutagens' that interfere with DNA replication, not specifically for nucleotide analogs. Nucleotide analogs pair incorrectly.",
+          "zh": "这种机制是为干扰DNA复制的“其他化学诱变剂”描述的，而不是专门针对核苷酸类似物。核苷酸类似物是错误配对。",
+          "es": "Este mecanismo se describe para 'otros mutágenos químicos' que interfieren con la replicación del ADN, no específicamente para los análogos de nucleótidos. Los análogos de nucleótidos se emparejan incorrectamente.",
+          "fr": "Ce mécanisme est décrit pour d'autres 'mutagènes chimiques' qui interfèrent avec la réplication de l'ADN, et non spécifiquement pour les analogues nucléotidiques. Les analogues nucléotidiques s'apparient incorrectement.",
+          "de": "Dieser Mechanismus wird für 'andere chemische Mutagene' beschrieben, die die DNA-Replikation stören, nicht speziell für Nukleotidanaloga. Nukleotidanaloga paaren sich falsch.",
+          "ja": "このメカニズムは、DNA複製を妨げる「他の化学変異原」について説明されており、ヌクレオチドアナログに特有のものではありません。ヌクレオチドアナログは誤って対合します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Some chemical mutagens change the pairing properties of bases by inserting themselves into the DNA.",
+          "zh": "一些化学诱变剂通过插入DNA来改变碱基的配对性质。",
+          "es": "Algunos mutágenos químicos cambian las propiedades de emparejamiento de las bases al insertarse en el ADN.",
+          "fr": "Certains mutagènes chimiques modifient les propriétés d'appariement des bases en s'insérant dans l'ADN.",
+          "de": "Einige chemische Mutagene verändern die Paarungseigenschaften von Basen, indem sie sich in die DNA einfügen.",
+          "ja": "一部の化学的変異原は、DNAに挿入されることで塩基の対合特性を変化させます。"
+        },
+        "feedback": {
+          "en": "Inserting into DNA and changing pairing properties are described as two distinct mechanisms for different categories of chemical mutagens.",
+          "zh": "插入DNA和改变配对性质是两种不同的机制，分别描述了不同类别的化学诱变剂。",
+          "es": "La inserción en el ADN y el cambio de las propiedades de emparejamiento se describen como dos mecanismos distintos para diferentes categorías de mutágenos químicos.",
+          "fr": "L'insertion dans l'ADN et la modification des propriétés d'appariement sont décrites comme deux mécanismes distincts pour différentes catégories de mutagènes chimiques.",
+          "de": "Das Einfügen in die DNA und die Veränderung der Paarungseigenschaften werden als zwei unterschiedliche Mechanismen für verschiedene Kategorien chemischer Mutagene beschrieben.",
+          "ja": "DNAへの挿入と対合特性の変更は、異なる種類の化学的変異原に対する2つの異なるメカニズムとして説明されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Nucleotide analogs are chemicals similar to normal DNA nucleotides that pair incorrectly during replication.",
+          "zh": "核苷酸类似物是与正常DNA核苷酸相似的化学物质，在复制过程中错误配对。",
+          "es": "Los análogos de nucleótidos son sustancias químicas similares a los nucleótidos de ADN normales que se emparejan incorrectamente durante la replicación.",
+          "fr": "Les analogues nucléotidiques sont des substances chimiques similaires aux nucléotides d'ADN normaux qui s'apparient incorrectement pendant la réplication.",
+          "de": "Nukleotidanaloga sind Chemikalien, die normalen DNA-Nukleotiden ähneln, aber während der Replikation falsch paaren.",
+          "ja": "ヌクレオチドアナログは、通常のDNAヌクレオチドに似た化学物質で、複製中に誤って対合します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "UV light is an example of a chemical mutagen that causes thymine dimers.",
+          "zh": "紫外线是导致胸腺嘧啶二聚体形成的化学诱变剂的一个例子。",
+          "es": "La luz ultravioleta es un ejemplo de mutágeno químico que causa dímeros de timina.",
+          "fr": "La lumière UV est un exemple de mutagène chimique qui provoque des dimères de thymine.",
+          "de": "UV-Licht ist ein Beispiel für ein chemisches Mutagen, das Thymin-Dimere verursacht.",
+          "ja": "紫外線は、チミンダイマーを引き起こす化学的変異原の一例です。"
+        },
+        "feedback": {
+          "en": "UV light is a physical mutagen, not a chemical mutagen, as stated in the text.",
+          "zh": "如文本所述，紫外线是一种物理诱变剂，而不是化学诱变剂。",
+          "es": "La luz ultravioleta es un mutágeno físico, no químico, como se indica en el texto.",
+          "fr": "La lumière UV est un mutagène physique, pas un mutagène chimique, comme indiqué dans le texte.",
+          "de": "UV-Licht ist ein physikalisches Mutagen, kein chemisches Mutagen, wie im Text angegeben.",
+          "ja": "本文に記載されているように、紫外線は物理的変異原であり、化学的変異原ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states: 'Nucleotide analogs are chemicals similar to normal DNA nucleotides but that pair incorrectly during DNA replication.' It also classifies UV light as a 'physical mutagen'.",
+      "zh": "文本指出：“核苷酸类似物是与正常DNA核苷酸相似的化学物质，但在DNA复制过程中错误配对。”它还将紫外线归类为“物理诱变剂”。",
+      "es": "El texto afirma: 'Los análogos de nucleótidos son sustancias químicas similares a los nucleótidos de ADN normales, pero que se emparejan incorrectamente durante la replicación del ADN'. También clasifica la luz UV como un 'mutágeno físico'.",
+      "fr": "Le texte indique : 'Les analogues nucléotidiques sont des substances chimiques similaires aux nucléotides d'ADN normaux mais qui s'apparient incorrectement pendant la réplication de l'ADN.' Il classe également la lumière UV comme un 'mutagène physique'.",
+      "de": "Der Text besagt: 'Nukleotidanaloga sind Chemikalien, die normalen DNA-Nukleotiden ähneln, aber während der DNA-Replikation falsch paaren.' Er klassifiziert UV-Licht auch als 'physikalisches Mutagen'.",
+      "ja": "本文には、「ヌクレオチドアナログは、通常のDNAヌクレオチドに似た化学物質ですが、DNA複製中に誤って対合します」と記載されています。また、紫外線は「物理的変異原」と分類されています。"
+    }
+  },
+  {
+    "page_number": 409,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The CRISPR-Cas9 system can be used for both 'knocking out' a gene and 'correcting' a defective gene. Which of the following statements accurately distinguishes between these two applications based on the provided text?",
+      "zh": "CRISPR-Cas9系统既可以用于“敲除”基因，也可以用于“纠正”缺陷基因。根据提供的文本，以下哪项陈述准确区分了这两种应用？",
+      "es": "El sistema CRISPR-Cas9 puede utilizarse tanto para 'inactivar' un gen como para 'corregir' un gen defectuoso. ¿Cuál de las siguientes afirmaciones distingue con precisión entre estas dos aplicaciones basándose en el texto proporcionado?",
+      "fr": "Le système CRISPR-Cas9 peut être utilisé à la fois pour 'inactiver' un gène et pour 'corriger' un gène défectueux. Laquelle des affirmations suivantes distingue précisément ces deux applications selon le texte fourni ?",
+      "de": "Das CRISPR-Cas9-System kann sowohl zum 'Ausschalten' eines Gens als auch zur 'Korrektur' eines defekten Gens verwendet werden. Welche der folgenden Aussagen unterscheidet diese beiden Anwendungen auf der Grundlage des bereitgestellten Textes genau?",
+      "ja": "CRISPR-Cas9システムは、遺伝子を「ノックアウト」するためにも、欠陥のある遺伝子を「修正」するためにも使用できます。提供されたテキストに基づいて、次の記述のうち、これら2つのアプリケーションを正確に区別しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Gene knockout involves introducing a normal DNA template for repair, while gene correction does not.",
+          "zh": "基因敲除涉及引入正常DNA模板进行修复，而基因纠正则不涉及。",
+          "es": "La inactivación génica implica la introducción de una plantilla de ADN normal para la reparación, mientras que la corrección génica no lo hace.",
+          "fr": "L'inactivation génique implique l'introduction d'un modèle d'ADN normal pour la réparation, tandis que la correction génique ne le fait pas.",
+          "de": "Beim Gen-Knockout wird eine normale DNA-Vorlage zur Reparatur eingeführt, während dies bei der Genkorrektur nicht der Fall ist.",
+          "ja": "遺伝子ノックアウトは修復のために正常なDNA鋳型を導入しますが、遺伝子修正はそうではありません。"
+        },
+        "feedback": {
+          "en": "This statement is incorrect. Gene correction, not knockout, involves introducing a normal DNA template. Gene knockout happens when there is no template.",
+          "zh": "此陈述不正确。基因纠正而非敲除涉及引入正常DNA模板。基因敲除发生在没有模板的情况下。",
+          "es": "Esta afirmación es incorrecta. La corrección génica, no la inactivación, implica la introducción de una plantilla de ADN normal. La inactivación génica ocurre cuando no hay plantilla.",
+          "fr": "Cette affirmation est incorrecte. La correction génique, et non l'inactivation, implique l'introduction d'un modèle d'ADN normal. L'inactivation génique se produit lorsqu'il n'y a pas de modèle.",
+          "de": "Diese Aussage ist falsch. Die Genkorrektur, nicht der Knockout, beinhaltet die Einführung einer normalen DNA-Vorlage. Gen-Knockout tritt auf, wenn keine Vorlage vorhanden ist.",
+          "ja": "この記述は誤りです。ノックアウトではなく遺伝子修正が正常なDNA鋳型の導入を伴います。遺伝子ノックアウトは鋳型がない場合に起こります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Both applications rely on the Cas9 protein cutting the target DNA, but gene correction requires the introduction of a functional DNA segment.",
+          "zh": "两种应用都依赖于Cas9蛋白切割靶DNA，但基因纠正需要引入一个功能性DNA片段。",
+          "es": "Ambas aplicaciones se basan en que la proteína Cas9 corta el ADN objetivo, pero la corrección génica requiere la introducción de un segmento de ADN funcional.",
+          "fr": "Les deux applications reposent sur la coupe de l'ADN cible par la protéine Cas9, mais la correction génique nécessite l'introduction d'un segment d'ADN fonctionnel.",
+          "de": "Beide Anwendungen basieren darauf, dass das Cas9-Protein die Ziel-DNA schneidet, aber die Genkorrektur erfordert die Einführung eines funktionellen DNA-Segments.",
+          "ja": "どちらの応用もCas9タンパク質が標的DNAを切断することに依存していますが、遺伝子修正には機能的なDNAセグメントの導入が必要です。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Gene knockout aims to disable a gene by prompting the DNA repair system to remove random nucleotides, whereas gene correction uses repair enzymes to insert random nucleotides.",
+          "zh": "基因敲除旨在通过促使DNA修复系统去除随机核苷酸来使基因失活，而基因纠正则使用修复酶插入随机核苷酸。",
+          "es": "La inactivación génica tiene como objetivo desactivar un gen al hacer que el sistema de reparación del ADN elimine nucleótidos aleatorios, mientras que la corrección génica utiliza enzimas de reparación para insertar nucleótidos aleatorios.",
+          "fr": "L'inactivation génique vise à désactiver un gène en incitant le système de réparation de l'ADN à retirer des nucléotides aléatoires, tandis que la correction génique utilise des enzymes de réparation pour insérer des nucléotides aléatoires.",
+          "de": "Gen-Knockout zielt darauf ab, ein Gen durch die Aufforderung des DNA-Reparatursystems, zufällige Nukleotide zu entfernen, zu deaktivieren, während die Genkorrektur Reparaturenzyme zum Einfügen zufälliger Nukleotide verwendet.",
+          "ja": "遺伝子ノックアウトは、DNA修復システムにランダムなヌクレオチドを除去させることで遺伝子を不活性化することを目指しますが、遺伝子修正は修復酵素を使用してランダムなヌクレオチドを挿入します。"
+        },
+        "feedback": {
+          "en": "Gene correction does not use repair enzymes to insert *random* nucleotides; it uses a provided normal DNA template for precise repair.",
+          "zh": "基因纠正不使用修复酶插入*随机*核苷酸；它使用提供的正常DNA模板进行精确修复。",
+          "es": "La corrección genética no utiliza enzimas de reparación para insertar nucleótidos *aleatorios*; utiliza una plantilla de ADN normal proporcionada para una reparación precisa.",
+          "fr": "La correction génique n'utilise pas d'enzymes de réparation pour insérer des nucléotides *aléatoires* ; elle utilise un modèle d'ADN normal fourni pour une réparation précise.",
+          "de": "Die Genkorrektur verwendet keine Reparaturenzyme, um *zufällige* Nukleotide einzufügen; sie verwendet eine bereitgestellte normale DNA-Vorlage für präzise Reparatur.",
+          "ja": "遺伝子修正は修復酵素を使用して*ランダムな*ヌクレオチドを挿入するのではなく、正確な修復のために提供された正常なDNA鋳型を使用します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The 'knockout' approach utilizes a guide RNA that is not complementary to the target gene, unlike the gene correction method.",
+          "zh": "“敲除”方法使用的引导RNA与靶基因不互补，这与基因纠正方法不同。",
+          "es": "El enfoque de 'inactivación' utiliza un ARN guía que no es complementario al gen objetivo, a diferencia del método de corrección genética.",
+          "fr": "L'approche 'd'inactivation' utilise un ARN guide qui n'est pas complémentaire au gène cible, contrairement à la méthode de correction génique.",
+          "de": "Der 'Knockout'-Ansatz verwendet eine Führungs-RNA, die nicht komplementär zum Zielgen ist, im Gegensatz zur Genkorrekturmethode.",
+          "ja": "「ノックアウト」アプローチでは、遺伝子修正方法とは異なり、標的遺伝子に相補的ではないガイドRNAを使用します。"
+        },
+        "feedback": {
+          "en": "Both gene knockout and gene correction methods rely on guide RNA that is specifically engineered to be complementary to the target gene.",
+          "zh": "基因敲除和基因纠正方法都依赖于经过专门设计与靶基因互补的引导RNA。",
+          "es": "Ambos métodos, tanto la inactivación génica como la corrección génica, dependen de un ARN guía específicamente diseñado para ser complementario al gen objetivo.",
+          "fr": "Les méthodes d'inactivation et de correction génique reposent toutes deux sur un ARN guide spécifiquement conçu pour être complémentaire au gène cible.",
+          "de": "Sowohl der Gen-Knockout als auch die Genkorrektur basieren auf einer Führungs-RNA, die spezifisch so konstruiert ist, dass sie komplementär zum Zielgen ist.",
+          "ja": "遺伝子ノックアウトと遺伝子修正の両方の方法は、標的遺伝子に特異的に相補的になるように設計されたガイドRNAに依存しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that for gene knockout, the DNA repair system introduces or removes random nucleotides because there's no undamaged DNA template, leading to a non-functional gene. For gene correction, a normal (functional) gene segment is introduced along with the CRISPR-Cas9 system, allowing repair enzymes to use this segment as a template to fix the defective gene. Both processes start with Cas9 cutting the target DNA directed by guide RNA.",
+      "zh": "文本解释说，基因敲除时，由于没有未受损的DNA模板，DNA修复系统会引入或去除随机核苷酸，导致基因功能丧失。而对于基因纠正，会引入一个正常（功能性）的基因片段与CRISPR-Cas9系统一起，使修复酶能够利用这个片段作为模板来修复缺陷基因。这两个过程都始于Cas9在引导RNA的指导下切割靶DNA。",
+      "es": "El texto explica que para la inactivación génica, el sistema de reparación del ADN introduce o elimina nucleótidos aleatorios porque no hay una plantilla de ADN intacta, lo que lleva a un gen no funcional. Para la corrección génica, se introduce un segmento de gen normal (funcional) junto con el sistema CRISPR-Cas9, lo que permite a las enzimas de reparación usar este segmento como plantilla para reparar el gen defectuoso. Ambos procesos comienzan con Cas9 cortando el ADN objetivo dirigido por el ARN guía.",
+      "fr": "Le texte explique que pour l'inactivation génique, le système de réparation de l'ADN introduit ou supprime des nucléotides aléatoires car il n'y a pas de matrice d'ADN intacte, ce qui conduit à un gène non fonctionnel. Pour la correction génique, un segment de gène normal (fonctionnel) est introduit avec le système CRISPR-Cas9, permettant aux enzymes de réparation d'utiliser ce segment comme matrice pour réparer le gène défectueux. Les deux processus commencent par la coupe de l'ADN cible par Cas9 dirigée par l'ARN guide.",
+      "de": "Der Text erklärt, dass beim Gen-Knockout das DNA-Reparatursystem zufällige Nukleotide einführt oder entfernt, da keine unbeschädigte DNA-Vorlage vorhanden ist, was zu einem nicht funktionsfähigen Gen führt. Bei der Genkorrektur wird ein normales (funktionsfähiges) Gensegment zusammen mit dem CRISPR-Cas9-System eingeführt, sodass Reparaturenzyme dieses Segment als Vorlage zur Reparatur des defekten Gens verwenden können. Beide Prozesse beginnen damit, dass Cas9 die Ziel-DNA, geleitet von der Führungs-RNA, schneidet.",
+      "ja": "本文では、遺伝子ノックアウトの場合、損傷のないDNA鋳型がないため、DNA修復システムがランダムなヌクレオチドを導入または除去し、結果として機能しない遺伝子になると説明されています。一方、遺伝子修正の場合、正常な（機能的な）遺伝子断片がCRISPR-Cas9システムと共に導入され、修復酵素がこの断片を鋳型として利用して欠陥遺伝子を修復します。どちらのプロセスも、Cas9がガイドRNAによって標的DNAを切断することから始まります。"
+    }
+  }
+]

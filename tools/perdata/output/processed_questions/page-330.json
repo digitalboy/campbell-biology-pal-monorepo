@@ -1,0 +1,363 @@
+
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, what is the definition of epistasis?",
+      "zh": "根据文本，上位性 (epistasis) 的定义是什么？",
+      "es": "Según el texto, ¿cuál es la definición de epistasis?",
+      "fr": "Selon le texte, quelle est la définition de l'épistasie ?",
+      "de": "Was ist laut Text die Definition von Epistase?",
+      "ja": "本文によると、エピスタシス（上位性）の定義は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A single gene affecting multiple phenotypic characters.",
+          "zh": "单个基因影响多个表型性状。",
+          "es": "Un solo gen que afecta a múltiples caracteres fenotípicos.",
+          "fr": "Un seul gène affectant plusieurs caractères phénotypiques.",
+          "de": "Ein einzelnes Gen, das mehrere phänotypische Merkmale beeinflusst.",
+          "ja": "単一の遺伝子が複数の表現型形質に影響を与えること。"
+        },
+        "feedback": {
+          "en": "This is the definition of pleiotropy, where one gene has multiple effects.",
+          "zh": "这是多效性的定义，即一个基因具有多种效应。",
+          "es": "Esta es la definición de pleiotropía, donde un gen tiene múltiples efectos.",
+          "fr": "C'est la définition de la pléiotropie, où un gène a des effets multiples.",
+          "de": "Dies ist die Definition von Pleiotropie, bei der ein Gen mehrere Wirkungen hat.",
+          "ja": "これは、1つの遺伝子が複数の効果を持つ多面発現の定義です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The phenotypic expression of a gene at one locus alters that of a gene at a second locus.",
+          "zh": "一个基因位点上的基因的表型表达改变了第二个基因位点上基因的表型表达。",
+          "es": "La expresión fenotípica de un gen en un locus altera la de un gen en un segundo locus.",
+          "fr": "L'expression phénotypique d'un gène à un locus modifie celle d'un gène à un second locus.",
+          "de": "Die phänotypische Expression eines Gens an einem Locus verändert die eines Gens an einem zweiten Locus.",
+          "ja": "ある遺伝子座の遺伝子の表現型発現が、別の遺伝子座の遺伝子のそれを変化させること。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "An additive effect of two or more genes on a single phenotypic character.",
+          "zh": "两个或多个基因对单个表型性状的累加效应。",
+          "es": "Un efecto aditivo de dos o más genes sobre un solo carácter fenotípico.",
+          "fr": "Un effet additif de deux ou plusieurs gènes sur un seul caractère phénotypique.",
+          "de": "Eine additive Wirkung von zwei oder mehr Genen auf ein einzelnes phänotypisches Merkmal.",
+          "ja": "単一の表現型形質に対する2つ以上の遺伝子の相加的な効果。"
+        },
+        "feedback": {
+          "en": "This describes polygenic inheritance, where multiple genes contribute to a single trait like height.",
+          "zh": "这描述的是多基因遗传，即多个基因共同决定一个性状，如身高。",
+          "es": "Esto describe la herencia poligénica, donde múltiples genes contribuyen a un solo rasgo como la altura.",
+          "fr": "Ceci décrit l'hérédité polygénique, où plusieurs gènes contribuent à un seul trait comme la taille.",
+          "de": "Dies beschreibt die polygene Vererbung, bei der mehrere Gene zu einem einzigen Merkmal wie der Körpergröße beitragen.",
+          "ja": "これは、身長のような単一の形質に複数の遺伝子が寄与する多遺伝子遺伝を説明しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The alleles for a character separate during gamete formation.",
+          "zh": "决定一个性状的等位基因在配子形成过程中分离。",
+          "es": "Los alelos de un carácter se separan durante la formación de los gametos.",
+          "fr": "Les allèles d'un caractère se séparent lors de la formation des gamètes.",
+          "de": "Die Allele für ein Merkmal trennen sich während der Gametenbildung.",
+          "ja": "形質を決定する対立遺伝子が配偶子形成中に分離すること。"
+        },
+        "feedback": {
+          "en": "This is Mendel's law of segregation, a fundamental principle but not the definition of epistasis.",
+          "zh": "这是孟德尔的分离定律，是一个基本原则，但不是上位性的定义。",
+          "es": "Esta es la ley de la segregación de Mendel, un principio fundamental pero no la definición de epistasis.",
+          "fr": "C'est la loi de la ségrégation de Mendel, un principe fondamental mais pas la définition de l'épistasie.",
+          "de": "Dies ist das Mendelsche Spaltungsgesetz, ein Grundprinzip, aber nicht die Definition von Epistase.",
+          "ja": "これはメンデルの分離の法則であり、基本的な原則ですが、エピスタシスの定義ではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text explicitly defines epistasis as when 'the phenotypic expression of a gene at one locus alters that of a gene at a second locus.' This is the core concept of the section.",
+      "zh": "文本明确将上位性定义为“一个基因位点上的基因的表型表达改变了第二个基因位点上基因的表型表达”。这是本节的核心概念。",
+      "es": "El texto define explícitamente la epistasis como cuando 'la expresión fenotípica de un gen en un locus altera la de un gen en un segundo locus'. Este es el concepto central de la sección.",
+      "fr": "Le texte définit explicitement l'épistasie comme lorsque « l'expression phénotypique d'un gène à un locus modifie celle d'un gène à un second locus ». C'est le concept central de cette section.",
+      "de": "Der Text definiert Epistase explizit als den Fall, dass „die phänotypische Expression eines Gens an einem Locus die eines Gens an einem zweiten Locus verändert“. Dies ist das Kernkonzept dieses Abschnitts.",
+      "ja": "本文では、エピスタシスを「ある遺伝子座の遺伝子の表現型発現が、別の遺伝子座の遺伝子のそれを変化させる場合」と明確に定義しています。これがこのセクションの中心的な概念です。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 14.12, which of the following genotypes will result in a yellow Labrador retriever?",
+      "zh": "根据图 14.12，下列哪种基因型会导致拉布拉多犬的毛色为黄色？",
+      "es": "Según la Figura 14.12, ¿cuál de los siguientes genotipos dará como resultado un labrador retriever amarillo?",
+      "fr": "D'après la figure 14.12, lequel des génotypes suivants donnera un labrador retriever jaune ?",
+      "de": "Welcher der folgenden Genotypen führt gemäß Abbildung 14.12 zu einem gelben Labrador Retriever?",
+      "ja": "図14.12に基づくと、次のどの遺伝子型が黄色のラブラドールレトリバーになりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "BBEE and BBEe",
+          "zh": "BBEE 和 BBEe",
+          "es": "BBEE y BBEe",
+          "fr": "BBEE et BBEe",
+          "de": "BBEE und BBEe",
+          "ja": "BBEEとBBEe"
+        },
+        "feedback": {
+          "en": "These genotypes result in a black coat, as they have dominant alleles for both pigment (B) and deposition (E).",
+          "zh": "这些基因型会导致黑色皮毛，因为它们同时具有色素（B）和色素沉积（E）的显性等位基因。",
+          "es": "Estos genotipos dan como resultado un pelaje negro, ya que tienen alelos dominantes tanto para el pigmento (B) como para la deposición (E).",
+          "fr": "Ces génotypes donnent un pelage noir, car ils possèdent des allèles dominants pour le pigment (B) et le dépôt (E).",
+          "de": "Diese Genotypen führen zu einem schwarzen Fell, da sie dominante Allele für Pigment (B) und Ablagerung (E) aufweisen.",
+          "ja": "これらの遺伝子型は、色素（B）と沈着（E）の両方に対して優性対立遺伝子を持っているため、黒い被毛になります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "bbEE and bbEe",
+          "zh": "bbEE 和 bbEe",
+          "es": "bbEE y bbEe",
+          "fr": "bbEE et bbEe",
+          "de": "bbEE und bbEe",
+          "ja": "bbEEとbbEe"
+        },
+        "feedback": {
+          "en": "These genotypes result in a chocolate (brown) coat, as they are recessive for pigment (bb) but have at least one dominant allele for deposition (E).",
+          "zh": "这些基因型会导致巧克力色（棕色）皮毛，因为它们的色素基因为隐性（bb），但至少有一个显性的色素沉积等位基因（E）。",
+          "es": "Estos genotipos dan como resultado un pelaje de chocolate (marrón), ya que son recesivos para el pigmento (bb) pero tienen al menos un alelo dominante para la deposición (E).",
+          "fr": "Ces génotypes donnent un pelage chocolat (brun), car ils sont récessifs pour le pigment (bb) mais possèdent au moins un allèle dominant pour le dépôt (E).",
+          "de": "Diese Genotypen führen zu einem schokoladenbraunen Fell, da sie für das Pigment rezessiv sind (bb), aber mindestens ein dominantes Allel für die Ablagerung (E) aufweisen.",
+          "ja": "これらの遺伝子型は、色素（bb）については劣性ですが、沈着（E）については少なくとも1つの優性対立遺伝子を持っているため、チョコレート（茶色）の被毛になります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "BBee and Bbee",
+          "zh": "BBee 和 Bbee",
+          "es": "BBee y Bbee",
+          "fr": "BBee et Bbee",
+          "de": "BBee und Bbee",
+          "ja": "BBeeとBbee"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Only bbee",
+          "zh": "只有 bbee",
+          "es": "Solo bbee",
+          "fr": "Seulement bbee",
+          "de": "Nur bbee",
+          "ja": "bbeeのみ"
+        },
+        "feedback": {
+          "en": "While bbee does result in a yellow coat, it is not the only genotype. Any genotype that is homozygous recessive for the E/e gene (ee) will be yellow.",
+          "zh": "虽然 bbee 确实是黄色皮毛，但它不是唯一的基因型。任何 E/e 基因纯合隐性（ee）的基因型都会是黄色的。",
+          "es": "Si bien bbee da como resultado un pelaje amarillo, no es el único genotipo. Cualquier genotipo que sea homocigoto recesivo para el gen E/e (ee) será amarillo.",
+          "fr": "Bien que le génotype bbee donne un pelage jaune, ce n'est pas le seul. Tout génotype homozygote récessif pour le gène E/e (ee) sera jaune.",
+          "de": "Obwohl bbee zu einem gelben Fell führt, ist es nicht der einzige Genotyp. Jeder Genotyp, der für das E/e-Gen homozygot rezessiv ist (ee), ist gelb.",
+          "ja": "bbeeは確かに黄色い被毛になりますが、それが唯一の遺伝子型ではありません。E/e遺伝子についてホモ接合劣性（ee）である遺伝子型はすべて黄色になります。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text and Figure 14.12 explain that if a Lab is homozygous recessive for the second locus (ee), its coat is yellow regardless of the B/b genotype. The Punnett square shows four genotypes resulting in a yellow coat: BBee, Bbee, and bbee (two instances). Therefore, any genotype ending in 'ee' produces a yellow lab.",
+      "zh": "文本和图 14.12 解释说，如果一只拉布拉多犬在第二个基因位点上是纯合隐性（ee），那么无论 B/b 基因型如何，它的毛色都是黄色的。庞尼特方格显示了四种导致黄色毛皮的基因型：BBee、Bbee 和 bbee（两个实例）。因此，任何以“ee”结尾的基因型都会产生黄色的拉布拉多犬。",
+      "es": "El texto y la Figura 14.12 explican que si un labrador es homocigoto recesivo para el segundo locus (ee), su pelaje es amarillo independientemente del genotipo B/b. El cuadrado de Punnett muestra cuatro genotipos que dan como resultado un pelaje amarillo: BBee, Bbee y bbee (dos instancias). Por lo tanto, cualquier genotipo que termine en 'ee' produce un labrador amarillo.",
+      "fr": "Le texte et la figure 14.12 expliquent que si un labrador est homozygote récessif pour le deuxième locus (ee), son pelage est jaune quel que soit le génotype B/b. Le carré de Punnett montre quatre génotypes donnant un pelage jaune : BBee, Bbee et bbee (deux instances). Par conséquent, tout génotype se terminant par « ee » produit un labrador jaune.",
+      "de": "Der Text und Abbildung 14.12 erklären, dass, wenn ein Labrador für den zweiten Locus homozygot rezessiv ist (ee), sein Fell gelb ist, unabhängig vom B/b-Genotyp. Das Punnett-Quadrat zeigt vier Genotypen, die zu einem gelben Fell führen: BBee, Bbee und bbee (zwei Instanzen). Daher führt jeder Genotyp, der auf „ee“ endet, zu einem gelben Labrador.",
+      "ja": "本文と図14.12は、ラブラドールが第2遺伝子座についてホモ接合劣性（ee）である場合、B/b遺伝子型に関係なく被毛が黄色になることを説明しています。パネットの方形は、黄色い被毛になる4つの遺伝子型を示しています：BBee、Bbee、およびbbee（2例）。したがって、「ee」で終わる遺伝子型はすべて黄色のラブラドールを生み出します。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In Labrador retrievers, what is the specific genetic condition required for a 'chocolate Lab' phenotype?",
+      "zh": "在拉布拉多犬中，出现“巧克力色”表型需要满足什么特定的遗传条件？",
+      "es": "En los labradores retrievers, ¿cuál es la condición genética específica requerida para un fenotipo de 'laboratorio de chocolate'?",
+      "fr": "Chez les labradors retrievers, quelle est la condition génétique spécifique requise pour un phénotype « chocolat » ?",
+      "de": "Was ist bei Labrador Retrievern die spezifische genetische Voraussetzung für einen „Schokoladen-Labrador“-Phänotyp?",
+      "ja": "ラブラドールレトリバーにおいて、「チョコレートラブ」の表現型になるために必要な特定の遺伝的条件は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Homozygous recessive for pigment deposition (ee).",
+          "zh": "色素沉积基因为纯合隐性（ee）。",
+          "es": "Homocigoto recesivo para la deposición de pigmento (ee).",
+          "fr": "Homozygote récessif pour le dépôt de pigment (ee).",
+          "de": "Homozygot rezessiv für die Pigmentablagerung (ee).",
+          "ja": "色素沈着についてホモ接合劣性（ee）。"
+        },
+        "feedback": {
+          "en": "This genotype (ee) results in a yellow coat, as it prevents any pigment from being deposited, regardless of the B/b locus.",
+          "zh": "这种基因型（ee）会导致黄色皮毛，因为它阻止任何色素沉积，而不管 B/b 基因位点如何。",
+          "es": "Este genotipo (ee) da como resultado un pelaje amarillo, ya que impide que se deposite cualquier pigmento, independientemente del locus B/b.",
+          "fr": "Ce génotype (ee) donne un pelage jaune, car il empêche tout pigment de se déposer, quel que soit le locus B/b.",
+          "de": "Dieser Genotyp (ee) führt zu einem gelben Fell, da er die Ablagerung von Pigmenten verhindert, unabhängig vom B/b-Locus.",
+          "ja": "この遺伝子型（ee）は、B/b遺伝子座に関係なく、いかなる色素の沈着も妨げるため、黄色い被毛になります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "At least one dominant allele for black pigment (B) and at least one dominant allele for deposition (E).",
+          "zh": "至少一个显性的黑色素等位基因（B）和至少一个显性的色素沉积等位基因（E）。",
+          "es": "Al menos un alelo dominante para el pigmento negro (B) y al menos un alelo dominante para la deposición (E).",
+          "fr": "Au moins un allèle dominant pour le pigment noir (B) et au moins un allèle dominant pour le dépôt (E).",
+          "de": "Mindestens ein dominantes Allel für schwarzes Pigment (B) und mindestens ein dominantes Allel für die Ablagerung (E).",
+          "ja": "黒色色素の優性対立遺伝子（B）が少なくとも1つと、沈着の優性対立遺伝子（E）が少なくとも1つ。"
+        },
+        "feedback": {
+          "en": "This combination (B_E_) results in a black coat.",
+          "zh": "这种组合（B_E_）会导致黑色皮毛。",
+          "es": "Esta combinación (B_E_) da como resultado un pelaje negro.",
+          "fr": "Cette combinaison (B_E_) donne un pelage noir.",
+          "de": "Diese Kombination (B_E_) führt zu einem schwarzen Fell.",
+          "ja": "この組み合わせ（B_E_）は黒い被毛になります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Homozygous recessive for pigment (bb) and at least one dominant allele for deposition (E).",
+          "zh": "色素基因为纯合隐性（bb）并且至少有一个显性的色素沉积等位基因（E）。",
+          "es": "Homocigoto recesivo para el pigmento (bb) y al menos un alelo dominante para la deposición (E).",
+          "fr": "Homozygote récessif pour le pigment (bb) et au moins un allèle dominant pour le dépôt (E).",
+          "de": "Homozygot rezessiv für Pigment (bb) und mindestens ein dominantes Allel für die Ablagerung (E).",
+          "ja": "色素についてホモ接合劣性（bb）であり、かつ沈着について少なくとも1つの優性対立遺伝子（E）を持つこと。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Homozygous dominant for both genes (BBEE).",
+          "zh": "两个基因都为纯合显性（BBEE）。",
+          "es": "Homocigoto dominante para ambos genes (BBEE).",
+          "fr": "Homozygote dominant pour les deux gènes (BBEE).",
+          "de": "Homozygot dominant für beide Gene (BBEE).",
+          "ja": "両方の遺伝子についてホモ接合優性（BBEE）。"
+        },
+        "feedback": {
+          "en": "This genotype results in a black coat, not chocolate.",
+          "zh": "这种基因型导致黑色皮毛，而不是巧克力色。",
+          "es": "Este genotipo da como resultado un pelaje negro, no de chocolate.",
+          "fr": "Ce génotype donne un pelage noir, pas chocolat.",
+          "de": "Dieser Genotyp führt zu einem schwarzen Fell, nicht zu einem schokoladenbraunen.",
+          "ja": "この遺伝子型はチョコレート色ではなく、黒い被毛になります。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text states, 'For a Lab to have brown fur, its genotype must be bb; these dogs are called chocolate Labs.' It also clarifies that pigment must be deposited (requiring at least one E allele). Therefore, the combination of bb with either EE or Ee (represented as E_) results in the chocolate phenotype.",
+      "zh": "文本中提到：“要使拉布拉多犬拥有棕色皮毛，其基因型必须是 bb；这些狗被称为巧克力色拉布拉多犬。” 它还阐明了色素必须能够沉积（需要至少一个 E 等位基因）。因此，bb 与 EE 或 Ee（表示为 E_）的组合导致了巧克力色表型。",
+      "es": "El texto dice: 'Para que un labrador tenga pelaje marrón, su genotipo debe ser bb; a estos perros se les llama labradores de chocolate'. También aclara que el pigmento debe depositarse (lo que requiere al menos un alelo E). Por lo tanto, la combinación de bb con EE o Ee (representada como E_) da como resultado el fenotipo de chocolate.",
+      "fr": "Le texte indique : « Pour qu'un labrador ait une fourrure brune, son génotype doit être bb ; ces chiens sont appelés labradors chocolat ». Il précise également que le pigment doit être déposé (ce qui nécessite au moins un allèle E). Par conséquent, la combinaison de bb avec EE ou Ee (représentée par E_) donne le phénotype chocolat.",
+      "de": "Im Text heißt es: „Damit ein Labrador ein braunes Fell hat, muss sein Genotyp bb sein; diese Hunde werden Schokoladen-Labradore genannt.“ Es wird auch klargestellt, dass Pigment abgelagert werden muss (was mindestens ein E-Allel erfordert). Daher führt die Kombination von bb mit entweder EE oder Ee (dargestellt als E_) zum Schokoladen-Phänotyp.",
+      "ja": "本文には、「ラブが茶色の毛を持つためには、その遺伝子型はbbでなければならず、これらの犬はチョコレートラブと呼ばれます」と記載されています。また、色素が沈着する必要がある（少なくとも1つのE対立遺伝子が必要）ことも明らかにしています。したがって、bbとEEまたはEe（E_と表される）の組み合わせがチョコレートの表現型になります。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "What is the key difference between polygenic inheritance and pleiotropy?",
+      "zh": "多基因遗传和多效性之间的关键区别是什么？",
+      "es": "¿Cuál es la diferencia clave entre la herencia poligénica y la pleiotropía?",
+      "fr": "Quelle est la différence essentielle entre l'hérédité polygénique et la pléiotropie ?",
+      "de": "Was ist der Hauptunterschied zwischen polygener Vererbung und Pleiotropie?",
+      "ja": "多遺伝子遺伝と多面発現の主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Polygenic inheritance involves multiple genes affecting one trait, while pleiotropy involves one gene affecting multiple traits.",
+          "zh": "多基因遗传涉及多个基因影响一个性状，而多效性涉及一个基因影响多个性状。",
+          "es": "La herencia poligénica implica que múltiples genes afectan un rasgo, mientras que la pleiotropía implica que un gen afecta múltiples rasgos.",
+          "fr": "L'hérédité polygénique implique plusieurs gènes affectant un seul trait, tandis que la pléiotropie implique un seul gène affectant plusieurs traits.",
+          "de": "Polygene Vererbung beinhaltet, dass mehrere Gene ein Merkmal beeinflussen, während Pleiotropie bedeutet, dass ein Gen mehrere Merkmale beeinflusst.",
+          "ja": "多遺伝子遺伝は複数の遺伝子が一つの形質に影響を与えるのに対し、多面発現は一つの遺伝子が複数の形質に影響を与えます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Polygenic inheritance is an example of epistasis, while pleiotropy is not.",
+          "zh": "多基因遗传是上位性的一个例子，而多效性则不是。",
+          "es": "La herencia poligénica es un ejemplo de epistasis, mientras que la pleiotropía no lo es.",
+          "fr": "L'hérédité polygénique est un exemple d'épistasie, alors que la pléiotropie ne l'est pas.",
+          "de": "Polygene Vererbung ist ein Beispiel für Epistase, Pleiotropie hingegen nicht.",
+          "ja": "多遺伝子遺伝はエピスタシスの一例ですが、多面発現はそうではありません。"
+        },
+        "feedback": {
+          "en": "These are distinct concepts. Epistasis is when one gene masks another, while polygenic inheritance is the additive effect of multiple genes.",
+          "zh": "这些是不同的概念。上位性是一个基因掩盖另一个基因，而多基因遗传是多个基因的累加效应。",
+          "es": "Estos son conceptos distintos. La epistasis es cuando un gen enmascara a otro, mientras que la herencia poligénica es el efecto aditivo de múltiples genes.",
+          "fr": "Ce sont des concepts distincts. L'épistasie se produit lorsqu'un gène en masque un autre, tandis que l'hérédité polygénique est l'effet additif de plusieurs gènes.",
+          "de": "Dies sind unterschiedliche Konzepte. Epistase liegt vor, wenn ein Gen ein anderes maskiert, während polygene Vererbung die additive Wirkung mehrerer Gene ist.",
+          "ja": "これらは別個の概念です。エピスタシスは一つの遺伝子が他の遺伝子を覆い隠すことであり、多遺伝子遺伝は複数の遺伝子の相加的な効果です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Pleiotropy involves multiple genes affecting one trait, while polygenic inheritance involves one gene affecting multiple traits.",
+          "zh": "多效性涉及多个基因影响一个性状，而多基因遗传涉及一个基因影响多个性状。",
+          "es": "La pleiotropía implica que múltiples genes afectan un rasgo, mientras que la herencia poligénica implica que un gen afecta múltiples rasgos.",
+          "fr": "La pléiotropie implique plusieurs gènes affectant un seul trait, tandis que l'hérédité polygénique implique un seul gène affectant plusieurs traits.",
+          "de": "Pleiotropie beinhaltet, dass mehrere Gene ein Merkmal beeinflussen, während polygene Vererbung bedeutet, dass ein Gen mehrere Merkmale beeinflusst.",
+          "ja": "多面発現は複数の遺伝子が一つの形質に影響を与えるのに対し、多遺伝子遺伝は一つの遺伝子が複数の形質に影響を与えます。"
+        },
+        "feedback": {
+          "en": "This is the reverse of the correct definitions. You have swapped the meanings of the two terms.",
+          "zh": "这与正确的定义正好相反。你把这两个术语的意思搞混了。",
+          "es": "Esto es lo contrario de las definiciones correctas. Ha intercambiado los significados de los dos términos.",
+          "fr": "C'est l'inverse des définitions correctes. Vous avez inversé la signification des deux termes.",
+          "de": "Dies ist das Gegenteil der korrekten Definitionen. Sie haben die Bedeutungen der beiden Begriffe vertauscht.",
+          "ja": "これは正しい定義の逆です。二つの用語の意味を取り違えています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Polygenic inheritance only occurs in plants, while pleiotropy only occurs in animals.",
+          "zh": "多基因遗传只发生在植物中，而多效性只发生在动物中。",
+          "es": "La herencia poligénica solo ocurre en las plantas, mientras que la pleiotropía solo ocurre en los animales.",
+          "fr": "L'hérédité polygénique ne se produit que chez les plantes, tandis que la pléiotropie ne se produit que chez les animaux.",
+          "de": "Polygene Vererbung kommt nur bei Pflanzen vor, während Pleiotropie nur bei Tieren vorkommt.",
+          "ja": "多遺伝子遺伝は植物でのみ起こり、多面発現は動物でのみ起こります。"
+        },
+        "feedback": {
+          "en": "Both phenomena are observed across different kingdoms of life, including both plants and animals.",
+          "zh": "这两种现象在不同的生物界中都有观察到，包括植物和动物。",
+          "es": "Ambos fenómenos se observan en diferentes reinos de la vida, incluidas las plantas y los animales.",
+          "fr": "Les deux phénomènes sont observés dans différents règnes du vivant, y compris les plantes et les animaux.",
+          "de": "Beide Phänomene werden in verschiedenen Reichen des Lebens beobachtet, einschließlich Pflanzen und Tieren.",
+          "ja": "両方の現象は、植物と動物を含む生命のさまざまな界で観察されます。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "The text explicitly states that polygenic inheritance is 'an additive effect of two or more genes on a single phenotypic character,' and contrasts this by mentioning it is the 'converse of pleiotropy, where a single gene affects several phenotypic characters.' This highlights the core distinction: the direction of influence between genes and traits (many-to-one vs. one-to-many).",
+      "zh": "文本明确指出，多基因遗传是“两个或多个基因对单个表型性状的累加效应”，并通过提及它是“多效性的反面，即单个基因影响多个表型性状”来进行对比。这突出了核心区别：基因与性状之间影响的方向（多对一 vs 一对多）。",
+      "es": "El texto establece explícitamente que la herencia poligénica es 'un efecto aditivo de dos o más genes sobre un solo carácter fenotípico', y contrasta esto mencionando que es lo 'contrario a la pleiotropía, donde un solo gen afecta a varios caracteres fenotípicos'. Esto resalta la distinción central: la dirección de la influencia entre genes y rasgos (de muchos a uno frente a de uno a muchos).",
+      "fr": "Le texte indique explicitement que l'hérédité polygénique est « un effet additif de deux ou plusieurs gènes sur un seul caractère phénotypique », et met cela en contraste en mentionnant que c'est « l'inverse de la pléiotropie, où un seul gène affecte plusieurs caractères phénotypiques ». Cela met en évidence la distinction fondamentale : la direction de l'influence entre les gènes et les traits (plusieurs-à-un contre un-à-plusieurs).",
+      "de": "Der Text besagt ausdrücklich, dass polygene Vererbung „eine additive Wirkung von zwei oder mehr Genen auf ein einzelnes phänotypisches Merkmal“ ist, und stellt dies gegenüber, indem er erwähnt, dass es das „Gegenteil von Pleiotropie ist, bei der ein einzelnes Gen mehrere phänotypische Merkmale beeinflusst“. Dies unterstreicht die zentrale Unterscheidung: die Richtung des Einflusses zwischen Genen und Merkmalen (viele-zu-eins vs. eins-zu-viele).",
+      "ja": "本文では、多遺伝子遺伝は「単一の表現型形質に対する2つ以上の遺伝子の相加的な効果」であると明記し、これを「単一の遺伝子が複数の表現型形質に影響を与える多面発現の逆」であると述べて対比させています。これにより、遺伝子と形質の間の影響の方向性（多対一対一対多）という中心的な違いが浮き彫りになります。"
+    }
+  }
+]

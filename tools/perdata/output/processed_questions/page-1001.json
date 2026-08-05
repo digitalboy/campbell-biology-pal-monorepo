@@ -1,0 +1,283 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary difference in how innate and adaptive immune systems recognize pathogens, according to the provided text?",
+      "zh": "根据提供的文本，先天免疫系统和适应性免疫系统识别病原体的主要区别是什么？",
+      "es": "Según el texto proporcionado, ¿cuál es la principal diferencia en cómo los sistemas inmunitarios innato y adaptativo reconocen los patógenos?",
+      "fr": "Selon le texte fourni, quelle est la principale différence dans la manière dont les systèmes immunitaires innés et adaptatifs reconnaissent les agents pathogènes ?",
+      "de": "Was ist laut dem bereitgestellten Text der Hauptunterschied in der Art und Weise, wie angeborene und adaptive Immunsysteme Krankheitserreger erkennen?",
+      "ja": "提供されたテキストによると、自然免疫系と獲得免疫系が病原体を認識する方法の主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Innate immunity recognizes general traits common to pathogen groups, while adaptive immunity recognizes specific parts of individual pathogens.",
+          "zh": "先天免疫识别病原体群体的共同特征，而适应性免疫识别单个病原体的特定部分。",
+          "es": "La inmunidad innata reconoce rasgos generales comunes a grupos de patógenos, mientras que la inmunidad adaptativa reconoce partes específicas de patógenos individuales.",
+          "fr": "L'immunité innée reconnaît les traits généraux communs aux groupes d'agents pathogènes, tandis que l'immunité adaptative reconnaît les parties spécifiques des agents pathogènes individuels.",
+          "de": "Die angeborene Immunität erkennt allgemeine Merkmale, die Krankheitserregergruppen gemeinsam sind, während die adaptive Immunität spezifische Teile einzelner Krankheitserreger erkennt.",
+          "ja": "自然免疫は病原体群に共通する一般的な特徴を認識し、獲得免疫は個々の病原体の特定の部位を認識します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Innate immunity relies on specific receptors, while adaptive immunity uses non-specific mechanisms.",
+          "zh": "先天免疫依赖特异性受体，而适应性免疫使用非特异性机制。",
+          "es": "La inmunidad innata se basa en receptores específicos, mientras que la inmunidad adaptativa utiliza mecanismos no específicos.",
+          "fr": "L'immunité innée repose sur des récepteurs spécifiques, tandis que l'immunité adaptative utilise des mécanismes non spécifiques.",
+          "de": "Die angeborene Immunität stützt sich auf spezifische Rezeptoren, während die adaptive Immunität unspezifische Mechanismen nutzt.",
+          "ja": "自然免疫は特異的な受容体に依存し、獲得免疫は非特異的なメカニズムを使用します。"
+        },
+        "feedback": {
+          "en": "This statement incorrectly reverses the specificity roles of innate and adaptive immunity. Innate immunity is less specific, recognizing common traits, while adaptive immunity uses highly specific receptors.",
+          "zh": "这种说法错误地颠倒了先天免疫和适应性免疫的特异性作用。先天免疫特异性较低，识别共同特征，而适应性免疫使用高度特异性受体。",
+          "es": "Esta afirmación invierte incorrectamente los roles de especificidad de la inmunidad innata y adaptativa. La inmunidad innata es menos específica, reconociendo rasgos comunes, mientras que la inmunidad adaptativa utiliza receptores altamente específicos.",
+          "fr": "Cette affirmation inverse incorrectement les rôles de spécificité de l'immunité innée et adaptative. L'immunité innée est moins spécifique, reconnaissant des traits communs, tandis que l'immunité adaptative utilise des récepteurs hautement spécifiques.",
+          "de": "Diese Aussage vertauscht fälschlicherweise die Spezifitätsrollen der angeborenen und adaptiven Immunität. Die angeborene Immunität ist weniger spezifisch und erkennt gemeinsame Merkmale, während die adaptive Immunität hochspezifische Rezeptoren verwendet.",
+          "ja": "この記述は、自然免疫と獲得免疫の特異性の役割を誤って逆転させています。自然免疫は特異性が低く共通の特徴を認識するのに対し、獲得免疫は非常に特異的な受容体を使用します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Adaptive immunity recognizes molecules absent from animals, while innate immunity recognizes molecules present in animals.",
+          "zh": "适应性免疫识别动物体内不存在的分子，而先天免疫识别动物体内存在的分子。",
+          "es": "La inmunidad adaptativa reconoce moléculas ausentes en los animales, mientras que la inmunidad innata reconoce moléculas presentes en los animales.",
+          "fr": "L'immunité adaptative reconnaît les molécules absentes chez les animaux, tandis que l'immunité innée reconnaît les molécules présentes chez les animaux.",
+          "de": "Die adaptive Immunität erkennt Moleküle, die in Tieren nicht vorkommen, während die angeborene Immunität Moleküle erkennt, die in Tieren vorhanden sind.",
+          "ja": "獲得免疫は動物に存在しない分子を認識し、自然免疫は動物に存在する分子を認識します。"
+        },
+        "feedback": {
+          "en": "The text states that innate immunity recognizes molecules 'absent from animals' but 'common to a type of pathogen'. Adaptive immunity is described as recognizing specific parts of proteins within a pathogen, which may or may not be entirely absent from animals in their precise form, but are highly specific to the pathogen.",
+          "zh": "文本指出，先天免疫识别的是“动物体内不存在但对某种病原体普遍存在”的分子。适应性免疫被描述为识别病原体内蛋白质的特定部分，这些部分可能并非以其精确形式完全不存在于动物体内，但它们对病原体具有高度特异性。",
+          "es": "El texto indica que la inmunidad innata reconoce moléculas 'ausentes en los animales' pero 'comunes a un tipo de patógeno'. La inmunidad adaptativa se describe como el reconocimiento de partes específicas de proteínas dentro de un patógeno, que pueden o no estar completamente ausentes de los animales en su forma precisa, pero son altamente específicas del patógeno.",
+          "fr": "Le texte indique que l'immunité innée reconnaît les molécules « absentes chez les animaux » mais « communes à un type d'agent pathogène ». L'immunité adaptative est décrite comme reconnaissant des parties spécifiques de protéines au sein d'un agent pathogène, qui peuvent ou non être entièrement absentes des animaux sous leur forme précise, mais qui sont hautement spécifiques à l'agent pathogène.",
+          "de": "Der Text besagt, dass die angeborene Immunität Moleküle erkennt, die „in Tieren nicht vorkommen“, aber „einer Art von Krankheitserreger gemeinsam sind“. Die adaptive Immunität wird als Erkennung spezifischer Proteinabschnitte innerhalb eines Krankheitserregers beschrieben, die in ihrer genauen Form möglicherweise nicht vollständig in Tieren vorkommen, aber hochspezifisch für den Krankheitserreger sind.",
+          "ja": "テキストによると、自然免疫は「動物には存在しないが、ある種の病原体に共通する」分子を認識します。獲得免疫は、病原体内のタンパク質の特定の部位を認識すると説明されており、それらが正確な形で動物に完全に存在しない場合もあれば、存在する場合もありますが、病原体に非常に特異的です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both innate and adaptive immunity recognize pathogens in the same highly specific manner.",
+          "zh": "先天免疫和适应性免疫都以同样高度特异的方式识别病原体。",
+          "es": "Tanto la inmunidad innata como la adaptativa reconocen los patógenos de la misma manera altamente específica.",
+          "fr": "L'immunité innée et l'immunité adaptative reconnaissent toutes deux les agents pathogènes de la même manière hautement spécifique.",
+          "de": "Sowohl die angeborene als auch die adaptive Immunität erkennen Krankheitserreger auf die gleiche hochspezifische Weise.",
+          "ja": "自然免疫と獲得免疫の両方が、同じ非常に特異的な方法で病原体を認識します。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The text clearly distinguishes between the recognition mechanisms, stating that innate immunity recognizes common traits and adaptive immunity provides pathogen-specific recognition.",
+          "zh": "这是不正确的。文本明确区分了识别机制，指出先天免疫识别共同特征，而适应性免疫提供病原体特异性识别。",
+          "es": "Esto es incorrecto. El texto distingue claramente entre los mecanismos de reconocimiento, afirmando que la inmunidad innata reconoce rasgos comunes y la inmunidad adaptativa proporciona un reconocimiento específico del patógeno.",
+          "fr": "Ceci est incorrect. Le texte distingue clairement les mécanismes de reconnaissance, affirmant que l'immunité innée reconnaît les traits communs et que l'immunité adaptative fournit une reconnaissance spécifique à l'agent pathogène.",
+          "de": "Dies ist falsch. Der Text unterscheidet klar zwischen den Erkennungsmechanismen, wobei die angeborene Immunität gemeinsame Merkmale erkennt und die adaptive Immunität eine krankheitserregerspezifische Erkennung bietet.",
+          "ja": "これは誤りです。テキストは認識メカニズムを明確に区別しており、自然免疫は共通の特徴を認識し、獲得免疫は病原体特異的な認識を提供すると述べています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The 'Innate recognition' section states that 'Each of a small set of receptors recognizes a molecule absent from animals, but common to a type of pathogen,' indicating general recognition. In contrast, 'Adaptive recognition' describes how 'Each of a vast number of receptors is specific for a particular part of a protein in one pathogen,' highlighting highly specific recognition.",
+      "zh": "“先天识别”部分指出，“一小组受体识别一种在动物体内不存在但对某种病原体普遍存在的分子”，这表明是普遍识别。相比之下，“适应性识别”描述了“大量受体中的每一个都特异性地识别一个病原体中蛋白质的特定部分”，这强调了高度特异性识别。",
+      "es": "La sección 'Reconocimiento innato' establece que 'Cada uno de un pequeño conjunto de receptores reconoce una molécula ausente en los animales, pero común a un tipo de patógeno', lo que indica un reconocimiento general. Por el contrario, el 'Reconocimiento adaptativo' describe cómo 'Cada uno de un gran número de receptores es específico para una parte particular de una proteína en un patógeno', destacando un reconocimiento altamente específico.",
+      "fr": "La section « Reconnaissance innée » indique que « Chaque récepteur d'un petit ensemble reconnaît une molécule absente chez les animaux, mais commune à un type d'agent pathogène », ce qui indique une reconnaissance générale. En revanche, la « Reconnaissance adaptative » décrit comment « Chacun d'un grand nombre de récepteurs est spécifique d'une partie particulière d'une protéine chez un agent pathogène », soulignant une reconnaissance hautement spécifique.",
+      "de": "Der Abschnitt „Angeborene Erkennung“ besagt: „Jeder eines kleinen Satzes von Rezeptoren erkennt ein Molekül, das in Tieren nicht vorkommt, aber einer Art von Krankheitserreger gemeinsam ist“, was auf eine allgemeine Erkennung hindeutet. Im Gegensatz dazu beschreibt die „Adaptive Erkennung“, wie „Jeder einer großen Anzahl von Rezeptoren spezifisch für einen bestimmten Teil eines Proteins in einem Krankheitserreger ist“, was eine hochspezifische Erkennung hervorhebt.",
+      "ja": "「自然免疫の認識」のセクションでは、「少数の受容体のそれぞれが、動物には存在しないが、ある種の病原体には共通する分子を認識する」と述べられており、一般的な認識を示しています。対照的に、「獲得免疫の認識」では、「膨大な数の受容体のそれぞれが、ある病原体内のタンパク質の特定の部位に特異的である」と説明されており、高度に特異的な認識を強調しています。"
+    }
+  },
+  {
+    
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the 'Innate recognition' section, which of the following molecules is recognized by the innate immune system as an example of a pathogen-associated molecular pattern for a specific pathogen type?",
+      "zh": "根据“先天识别”部分，以下哪种分子被先天免疫系统识别为特定病原体类型的病原体相关分子模式的一个例子？",
+      "es": "Según la sección 'Reconocimiento innato', ¿cuál de las siguientes moléculas es reconocida por el sistema inmunitario innato como un ejemplo de patrón molecular asociado a patógenos para un tipo específico de patógeno?",
+      "fr": "Selon la section « Reconnaissance innée », laquelle des molécules suivantes est reconnue par le système immunitaire inné comme un exemple de motif moléculaire associé aux agents pathogènes pour un type spécifique d'agent pathogène ?",
+      "de": "Welches der folgenden Moleküle wird laut dem Abschnitt „Angeborene Erkennung“ vom angeborenen Immunsystem als Beispiel für ein pathogenassoziiertes molekulares Muster für einen bestimmten Erregertyp erkannt?",
+      "ja": "「自然免疫の認識」セクションによると、自然免疫系によって特定の病原体タイプの病原体関連分子パターンの一例として認識される分子は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "dsRNA (nucleic acid in virus genome)",
+          "zh": "双链RNA（病毒基因组中的核酸）",
+          "es": "dsRNA (ácido nucleico en el genoma del virus)",
+          "fr": "dsARN (acide nucléique dans le génome viral)",
+          "de": "dsRNA (Nukleinsäure im Virusgenom)",
+          "ja": "dsRNA（ウイルスゲノム中の核酸）"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Surface protein of influenza virus",
+          "zh": "流感病毒的表面蛋白",
+          "es": "Proteína de superficie del virus de la gripe",
+          "fr": "Protéine de surface du virus de la grippe",
+          "de": "Oberflächenprotein des Influenzavirus",
+          "ja": "インフルエンザウイルスの表面タンパク質"
+        },
+        "feedback": {
+          "en": "The surface protein of influenza virus is an example of a molecule recognized by *adaptive* immunity, not innate immunity, as stated in the 'Adaptive recognition' section.",
+          "zh": "流感病毒的表面蛋白是“适应性识别”部分中提到的由适应性免疫而非先天免疫识别的分子示例。",
+          "es": "La proteína de superficie del virus de la gripe es un ejemplo de molécula reconocida por la inmunidad *adaptativa*, no por la inmunidad innata, como se indica en la sección 'Reconocimiento adaptativo'.",
+          "fr": "La protéine de surface du virus de la grippe est un exemple de molécule reconnue par l'immunité *adaptative*, et non par l'immunité innée, comme indiqué dans la section « Reconnaissance adaptative ».",
+          "de": "Das Oberflächenprotein des Influenzavirus ist ein Beispiel für ein Molekül, das von der *adaptiven* Immunität und nicht von der angeborenen Immunität erkannt wird, wie im Abschnitt „Adaptive Erkennung“ beschrieben.",
+          "ja": "インフルエンザウイルスの表面タンパク質は、「獲得免疫の認識」セクションで述べられているように、自然免疫ではなく、*獲得免疫*によって認識される分子の例です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Host cell membrane proteins",
+          "zh": "宿主细胞膜蛋白",
+          "es": "Proteínas de la membrana de la célula huésped",
+          "fr": "Protéines de la membrane des cellules hôtes",
+          "de": "Wirtszellmembranproteine",
+          "ja": "宿主細胞膜タンパク質"
+        },
+        "feedback": {
+          "en": "Innate immunity typically recognizes molecules absent from or significantly different from host (animal) cells to distinguish pathogens from self.",
+          "zh": "先天免疫通常识别宿主（动物）细胞中不存在或显著不同的分子，以区分病原体和自身。",
+          "es": "La inmunidad innata típicamente reconoce moléculas ausentes o significativamente diferentes de las células huésped (animales) para distinguir los patógenos de lo propio.",
+          "fr": "L'immunité innée reconnaît généralement les molécules absentes ou significativement différentes des cellules hôtes (animales) pour distinguer les agents pathogènes du soi.",
+          "de": "Die angeborene Immunität erkennt typischerweise Moleküle, die in Wirtszellen (tierischen Zellen) nicht vorhanden sind oder sich wesentlich von ihnen unterscheiden, um Krankheitserreger von körpereigenen Strukturen zu unterscheiden.",
+          "ja": "自然免疫は通常、宿主（動物）細胞に存在しない、または宿主細胞と著しく異なる分子を認識し、病原体と自己を区別します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Antibodies",
+          "zh": "抗体",
+          "es": "Anticuerpos",
+          "fr": "Anticorps",
+          "de": "Antikörper",
+          "ja": "抗体"
+        },
+        "feedback": {
+          "en": "Antibodies are proteins produced by the adaptive immune system to target pathogens, not molecules recognized on pathogens by innate immunity.",
+          "zh": "抗体是适应性免疫系统产生的、用于靶向病原体的蛋白质，而不是先天免疫在病原体上识别的分子。",
+          "es": "Los anticuerpos son proteínas producidas por el sistema inmunitario adaptativo para atacar patógenos, no moléculas reconocidas en patógenos por la inmunidad innata.",
+          "fr": "Les anticorps sont des protéines produites par le système immunitaire adaptatif pour cibler les agents pathogènes, et non des molécules reconnues sur les agents pathogènes par l'immunité innée.",
+          "de": "Antikörper sind Proteine, die vom adaptiven Immunsystem produziert werden, um Krankheitserreger anzugreifen, und keine Moleküle, die von der angeborenen Immunität auf Krankheitserregern erkannt werden.",
+          "ja": "抗体は獲得免疫系によって病原体を標的とするために産生されるタンパク質であり、自然免疫が病原体上で認識する分子ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The 'Innate recognition' section provides examples of recognized molecules for different pathogens. For 'Virus,' it explicitly lists 'dsRNA (nucleic acid in genome)' as an example of a recognized molecule.",
+      "zh": "“先天识别”部分提供了不同病原体被识别分子的示例。对于“病毒”，它明确列出“dsRNA（病毒基因组中的核酸）”作为一个被识别分子的示例。",
+      "es": "La sección 'Reconocimiento innato' proporciona ejemplos de moléculas reconocidas para diferentes patógenos. Para 'Virus', explícitamente enumera 'dsRNA (ácido nucleico en el genoma)' como un ejemplo de molécula reconocida.",
+      "fr": "La section « Reconnaissance innée » fournit des exemples de molécules reconnues pour différents agents pathogènes. Pour les « Virus », elle liste explicitement « dsARN (acide nucléique dans le génome) » comme exemple de molécule reconnue.",
+      "de": "Der Abschnitt „Angeborene Erkennung“ liefert Beispiele für erkannte Moleküle bei verschiedenen Krankheitserregern. Für „Virus“ wird ausdrücklich „dsRNA (Nukleinsäure im Genom)“ als Beispiel für ein erkanntes Molekül aufgeführt.",
+      "ja": "「自然免疫の認識」セクションでは、さまざまな病原体に対して認識される分子の例が示されています。「ウイルス」については、「dsRNA（ウイルスゲノム中の核酸）」が認識される分子の例として明確に挙げられています。"
+    }
+  },
+  {
+    "page_number": 1001,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "An individual previously infected with Influenza virus strain 1 (Ser Tyr Pro Lys Leu Lys Asn) is later exposed to a new influenza virus strain with a surface protein sequence of Ser Tyr Pro Asn Leu Ser Asn. Based on the 'Adaptive recognition' section and the accompanying image, what is most likely true regarding the adaptive immune response to this new strain?",
+      "zh": "一位曾感染流感病毒1型（序列为Ser Tyr Pro Lys Leu Lys Asn）的个体，后来接触到一种新的流感病毒株，其表面蛋白序列为Ser Tyr Pro Asn Leu Ser Asn。根据“适应性识别”部分和附带图片，关于对这种新毒株的适应性免疫应答，以下哪项最可能是正确的？",
+      "es": "Un individuo previamente infectado con la cepa 1 del virus de la gripe (Ser Tyr Pro Lys Leu Lys Asn) es expuesto más tarde a una nueva cepa del virus de la gripe con una secuencia de proteína de superficie de Ser Tyr Pro Asn Leu Ser Asn. Basándose en la sección 'Reconocimiento adaptativo' y la imagen adjunta, ¿qué es lo más probable que sea cierto con respecto a la respuesta inmune adaptativa a esta nueva cepa?",
+      "fr": "Un individu précédemment infecté par la souche 1 du virus de la grippe (Ser Tyr Pro Lys Leu Lys Asn) est exposé plus tard à une nouvelle souche du virus de la grippe avec une séquence de protéine de surface de Ser Tyr Pro Asn Leu Ser Asn. En se basant sur la section « Reconnaissance adaptative » et l'image qui l'accompagne, qu'est-il le plus probable concernant la réponse immunitaire adaptative à cette nouvelle souche ?",
+      "de": "Ein Individuum, das zuvor mit Influenzavirus-Stamm 1 (Ser Tyr Pro Lys Leu Lys Asn) infiziert war, wird später einem neuen Influenzavirus-Stamm mit einer Oberflächenproteinsequenz von Ser Tyr Pro Asn Leu Ser Asn ausgesetzt. Basierend auf dem Abschnitt „Adaptive Erkennung“ und der dazugehörigen Abbildung, was trifft am ehesten auf die adaptive Immunantwort auf diesen neuen Stamm zu?",
+      "ja": "インフルエンザウイルス株1（Ser Tyr Pro Lys Leu Lys Asn）に以前感染した個人が、後に表面タンパク質配列がSer Tyr Pro Asn Leu Ser Asnである新しいインフルエンザウイルス株に曝露されました。「獲得免疫の認識」セクションと付属の図に基づいて、この新しい株に対する獲得免疫応答について最も可能性が高いのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The adaptive immune system will not recognize the new strain at all due to the sequence differences.",
+          "zh": "由于序列差异，适应性免疫系统将完全无法识别新毒株。",
+          "es": "El sistema inmunitario adaptativo no reconocerá la nueva cepa en absoluto debido a las diferencias de secuencia.",
+          "fr": "Le système immunitaire adaptatif ne reconnaîtra pas du tout la nouvelle souche en raison des différences de séquence.",
+          "de": "Das adaptive Immunsystem wird den neuen Stamm aufgrund der Sequenzunterschiede überhaupt nicht erkennen.",
+          "ja": "配列の違いにより、獲得免疫系は新しい株を全く認識しないでしょう。"
+        },
+        "feedback": {
+          "en": "While the original receptor for strain 1 might not recognize the new strain, the adaptive immune system is capable of generating new specific receptors for novel pathogen parts, meaning it can still recognize the new strain, but likely with a new, specific response.",
+          "zh": "虽然毒株1的原始受体可能无法识别新毒株，但适应性免疫系统能够为新的病原体部分产生新的特异性受体，这意味着它仍然可以识别新毒株，但很可能通过新的特异性应答。",
+          "es": "Si bien el receptor original para la cepa 1 podría no reconocer la nueva cepa, el sistema inmunitario adaptativo es capaz de generar nuevos receptores específicos para partes novedosas de patógenos, lo que significa que aún puede reconocer la nueva cepa, pero probablemente con una nueva respuesta específica.",
+          "fr": "Bien que le récepteur original de la souche 1 puisse ne pas reconnaître la nouvelle souche, le système immunitaire adaptatif est capable de générer de nouveaux récepteurs spécifiques pour de nouvelles parties d'agents pathogènes, ce qui signifie qu'il peut toujours reconnaître la nouvelle souche, mais probablement avec une nouvelle réponse spécifique.",
+          "de": "Während der ursprüngliche Rezeptor für Stamm 1 den neuen Stamm möglicherweise nicht erkennt, ist das adaptive Immunsystem in der Lage, neue spezifische Rezeptoren für neue Krankheitserregerteile zu generieren, was bedeutet, dass es den neuen Stamm immer noch erkennen kann, aber wahrscheinlich mit einer neuen, spezifischen Reaktion.",
+          "ja": "株1の元の受容体が新しい株を認識しない可能性はありますが、獲得免疫系は新しい病原体の部位に対して新しい特異的受容体を生成できるため、新しい株を認識することは可能ですが、おそらく新しい特異的応答を伴うでしょう。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The adaptive immune system will recognize the new strain with the same receptor used for strain 1 because they are both influenza viruses.",
+          "zh": "适应性免疫系统将使用识别毒株1的相同受体识别新毒株，因为它们都是流感病毒。",
+          "es": "El sistema inmunitario adaptativo reconocerá la nueva cepa con el mismo receptor utilizado para la cepa 1 porque ambas son virus de la gripe.",
+          "fr": "Le système immunitaire adaptatif reconnaîtra la nouvelle souche avec le même récepteur que celui utilisé pour la souche 1, car ce sont toutes deux des virus de la grippe.",
+          "de": "Das adaptive Immunsystem wird den neuen Stamm mit demselben Rezeptor erkennen, der für Stamm 1 verwendet wurde, da es sich bei beiden um Influenzaviren handelt.",
+          "ja": "インフルエンザウイルスであるため、獲得免疫系は株1に使用されたのと同じ受容体で新しい株を認識するでしょう。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that adaptive immune receptors recognize flu strains based on amino acid sequences that 'differ at the positions colored orange.' Since the new strain has different amino acids in key positions compared to strain 1, the same receptor is unlikely to be effective.",
+          "zh": "文本明确指出，适应性免疫受体根据“橙色位置处不同”的氨基酸序列识别流感毒株。由于新毒株在关键位置的氨基酸与毒株1不同，因此相同的受体不太可能有效。",
+          "es": "El texto establece explícitamente que los receptores inmunes adaptativos reconocen las cepas de gripe basándose en secuencias de aminoácidos que 'difieren en las posiciones coloreadas de naranja'. Dado que la nueva cepa tiene aminoácidos diferentes en posiciones clave en comparación con la cepa 1, es poco probable que el mismo receptor sea eficaz.",
+          "fr": "Le texte indique explicitement que les récepteurs immunitaires adaptatifs reconnaissent les souches de grippe en fonction des séquences d'acides aminés qui « diffèrent aux positions colorées en orange ». Étant donné que la nouvelle souche a des acides aminés différents aux positions clés par rapport à la souche 1, il est peu probable que le même récepteur soit efficace.",
+          "de": "Der Text besagt ausdrücklich, dass adaptive Immunrezeptoren Grippestämme anhand von Aminosäuresequenzen erkennen, die sich „an den orange gefärbten Positionen unterscheiden“. Da der neue Stamm an Schlüsselpositionen andere Aminosäuren aufweist als Stamm 1, ist es unwahrscheinlich, dass derselbe Rezeptor wirksam ist.",
+          "ja": "テキストには、獲得免疫受容体が「オレンジ色で示された位置で異なる」アミノ酸配列に基づいてインフルエンザ株を認識すると明記されています。新しい株は株1と比較して主要な位置のアミノ酸が異なるため、同じ受容体が有効である可能性は低いでしょう。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A different adaptive immune receptor is likely required to recognize the new strain due to variations in the amino acid sequence at positions colored orange.",
+          "zh": "由于橙色位置处的氨基酸序列存在变异，可能需要不同的适应性免疫受体来识别新毒株。",
+          "es": "Es probable que se requiera un receptor inmune adaptativo diferente para reconocer la nueva cepa debido a las variaciones en la secuencia de aminoácidos en las posiciones coloreadas de naranja.",
+          "fr": "Un récepteur immunitaire adaptatif différent est probablement nécessaire pour reconnaître la nouvelle souche en raison des variations de la séquence d'acides aminés aux positions colorées en orange.",
+          "de": "Aufgrund von Variationen in der Aminosäuresequenz an den orange gefärbten Positionen ist wahrscheinlich ein anderer adaptiver Immunrezeptor erforderlich, um den neuen Stamm zu erkennen.",
+          "ja": "オレンジ色で示された位置のアミノ酸配列の変異により、新しい株を認識するには異なる獲得免疫受容体が必要となる可能性が高いです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Innate immunity will be the primary defense, as adaptive immunity only recognizes the initial strain encountered.",
+          "zh": "先天免疫将是主要的防御手段，因为适应性免疫只识别首次遇到的毒株。",
+          "es": "La inmunidad innata será la defensa principal, ya que la inmunidad adaptativa solo reconoce la cepa inicial encontrada.",
+          "fr": "L'immunité innée sera la principale défense, car l'immunité adaptative ne reconnaît que la souche initiale rencontrée.",
+          "de": "Die angeborene Immunität wird die primäre Abwehr sein, da die adaptive Immunität nur den anfänglich angetroffenen Stamm erkennt.",
+          "ja": "獲得免疫は最初に遭遇した株のみを認識するため、自然免疫が主要な防御となります。"
+        },
+        "feedback": {
+          "en": "The text explains that adaptive immunity has a 'vast number of receptors' and can recognize different flu strains based on varying amino acid sequences. This implies its capability to adapt to and recognize new strains, even if a new receptor is needed. Innate immunity is always a first line, but adaptive immunity is not limited to only the first strain encountered.",
+          "zh": "文本解释说，适应性免疫拥有“大量受体”，并且可以根据不同的氨基酸序列识别不同的流感毒株。这意味着它有能力适应和识别新毒株，即使需要新的受体。先天免疫始终是第一道防线，但适应性免疫并非仅限于识别首次遇到的毒株。",
+          "es": "El texto explica que la inmunidad adaptativa tiene un 'gran número de receptores' y puede reconocer diferentes cepas de gripe basándose en secuencias de aminoácidos variables. Esto implica su capacidad para adaptarse y reconocer nuevas cepas, incluso si se necesita un nuevo receptor. La inmunidad innata siempre es una primera línea, pero la inmunidad adaptativa no se limita solo a la primera cepa encontrada.",
+          "fr": "Le texte explique que l'immunité adaptative possède un « grand nombre de récepteurs » et peut reconnaître différentes souches de grippe en fonction de séquences d'acides aminés variables. Cela implique sa capacité à s'adapter et à reconnaître de nouvelles souches, même si un nouveau récepteur est nécessaire. L'immunité innée est toujours une première ligne de défense, mais l'immunité adaptative n'est pas limitée à la seule souche initiale rencontrée.",
+          "de": "Der Text erklärt, dass die adaptive Immunität eine „riesige Anzahl von Rezeptoren“ besitzt und verschiedene Grippestämme anhand variierender Aminosäuresequenzen erkennen kann. Dies impliziert ihre Fähigkeit, sich an neue Stämme anzupassen und diese zu erkennen, selbst wenn ein neuer Rezeptor benötigt wird. Die angeborene Immunität ist immer eine erste Verteidigungslinie, aber die adaptive Immunität ist nicht auf den ersten encountered Stamm beschränkt.",
+          "ja": "テキストでは、獲得免疫が「膨大な数の受容体」を持ち、さまざまなアミノ酸配列に基づいて異なるインフルエンザ株を認識できると説明されています。これは、たとえ新しい受容体が必要であっても、新しい株に適応し、認識する能力があることを意味します。自然免疫は常に第一線ですが、獲得免疫は最初に遭遇した株のみを認識するというわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The 'Adaptive recognition' section states that 'a different adaptive immune receptor would recognize each of the flu strains based on the proteins' amino acid sequences, which differ at the positions colored orange.' The new strain presented (Ser Tyr Pro Asn Leu Ser Asn) has differences at positions 4 (Lys vs. Asn) and 6 (Lys vs. Ser) compared to strain 1, and position 5 (Lys vs. Ser) compared to strain 2, aligning with the concept that sequence variations necessitate new, specific receptors.",
+      "zh": "“适应性识别”部分指出，“不同的适应性免疫受体将根据蛋白质的氨基酸序列识别每种流感毒株，这些序列在橙色标记的位置上有所不同”。呈现的新毒株（Ser Tyr Pro Asn Leu Ser Asn）与毒株1在第4位（Lys vs. Asn）和第6位（Lys vs. Ser）存在差异，与毒株2在第5位（Lys vs. Ser）存在差异，这与序列变异需要新的特异性受体的概念相符。",
+      "es": "La sección 'Reconocimiento adaptativo' establece que 'un receptor inmune adaptativo diferente reconocería cada una de las cepas de gripe basándose en las secuencias de aminoácidos de las proteínas, que difieren en las posiciones coloreadas de naranja'. La nueva cepa presentada (Ser Tyr Pro Asn Leu Ser Asn) tiene diferencias en las posiciones 4 (Lys vs. Asn) y 6 (Lys vs. Ser) en comparación con la cepa 1, y en la posición 5 (Lys vs. Ser) en comparación con la cepa 2, lo que concuerda con el concepto de que las variaciones de secuencia requieren nuevos receptores específicos.",
+      "fr": "La section « Reconnaissance adaptative » indique qu'« un récepteur immunitaire adaptatif différent reconnaîtrait chacune des souches de grippe en fonction des séquences d'acides aminés des protéines, qui diffèrent aux positions colorées en orange ». La nouvelle souche présentée (Ser Tyr Pro Asn Leu Ser Asn) présente des différences aux positions 4 (Lys vs Asn) et 6 (Lys vs Ser) par rapport à la souche 1, et à la position 5 (Lys vs Ser) par rapport à la souche 2, ce qui correspond au concept selon lequel les variations de séquence nécessitent de nouveaux récepteurs spécifiques.",
+      "de": "Der Abschnitt „Adaptive Erkennung“ besagt, dass „ein anderer adaptiver Immunrezeptor jeden der Grippestämme basierend auf den Aminosäuresequenzen der Proteine erkennen würde, die sich an den orange gefärbten Positionen unterscheiden“. Der präsentierte neue Stamm (Ser Tyr Pro Asn Leu Ser Asn) weist im Vergleich zu Stamm 1 Unterschiede an den Positionen 4 (Lys vs. Asn) und 6 (Lys vs. Ser) sowie im Vergleich zu Stamm 2 an Position 5 (Lys vs. Ser) auf, was mit dem Konzept übereinstimmt, dass Sequenzvariationen neue, spezifische Rezeptoren erfordern.",
+      "ja": "「獲得免疫の認識」セクションでは、「異なる獲得免疫受容体は、オレンジ色で示された位置で異なるタンパク質のアミノ酸配列に基づいて、それぞれのインフルエンザ株を認識するだろう」と述べています。提示された新しい株（Ser Tyr Pro Asn Leu Ser Asn）は、株1と比較して位置4（Lys対Asn）と位置6（Lys対Ser）に、また株2と比較して位置5（Lys対Ser）に違いがあり、これは配列の変異が新しい特異的な受容体を必要とするという概念と一致しています。"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 177,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "How does cholesterol affect membrane fluidity in animal cells?",
+      "zh": "胆固醇如何影响动物细胞膜的流动性？",
+      "es": "¿Cómo afecta el colesterol a la fluidez de la membrana en las células animales?",
+      "fr": "Comment le cholestérol affecte-t-il la fluidité de la membrane dans les cellules animales ?",
+      "de": "Wie beeinflusst Cholesterin die Membranfluidität in tierischen Zellen?",
+      "ja": "コレステロールは動物細胞膜の流動性にどのように影響しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It always increases fluidity, acting as a lubricant.",
+          "zh": "它总是增加流动性，起到润滑剂的作用。",
+          "es": "Siempre aumenta la fluidez, actuando como lubricante.",
+          "fr": "Il augmente toujours la fluidité, agissant comme un lubrifiant.",
+          "de": "Es erhöht immer die Fluidität und wirkt als Schmiermittel.",
+          "ja": "常に流動性を高め、潤滑剤として機能します。"
+        },
+        "feedback": {
+          "en": "Cholesterol's effect is temperature-dependent; it doesn't always increase fluidity.",
+          "zh": "胆固醇的作用取决于温度；它并非总是增加流动性。",
+          "es": "El efecto del colesterol depende de la temperatura; no siempre aumenta la fluidez.",
+          "fr": "L'effet du cholestérol dépend de la température ; il n'augmente pas toujours la fluidité.",
+          "de": "Die Wirkung von Cholesterin ist temperaturabhängig; es erhöht nicht immer die Fluidität.",
+          "ja": "コレステロールの効果は温度に依存します。常に流動性を高めるわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It always decreases fluidity, making the membrane more rigid.",
+          "zh": "它总是降低流动性，使膜更加僵硬。",
+          "es": "Siempre disminuye la fluidez, haciendo que la membrana sea más rígida.",
+          "fr": "Il diminue toujours la fluidité, rendant la membrane plus rigide.",
+          "de": "Es verringert immer die Fluidität und macht die Membran starrer.",
+          "ja": "常に流動性を低下させ、膜をより硬くします。"
+        },
+        "feedback": {
+          "en": "Cholesterol has a dual effect; while it can decrease fluidity at high temperatures, it prevents solidification at low temperatures.",
+          "zh": "胆固醇具有双重作用；虽然它在高温下可以降低流动性，但在低温下它可以防止固化。",
+          "es": "El colesterol tiene un efecto dual; aunque puede disminuir la fluidez a altas temperaturas, previene la solidificación a bajas temperaturas.",
+          "fr": "Le cholestérol a un double effet ; bien qu'il puisse diminuer la fluidité à des températures élevées, il empêche la solidification à basse température.",
+          "de": "Cholesterin hat eine doppelte Wirkung; während es bei hohen Temperaturen die Fluidität verringern kann, verhindert es bei niedrigen Temperaturen die Verfestigung.",
+          "ja": "コレステロールには二重の効果があります。高温では流動性を低下させる可能性がありますが、低温では凝固を防ぎます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It decreases fluidity at moderate to high temperatures but hinders solidification at low temperatures.",
+          "zh": "它在中到高温下降低流动性，但在低温下阻碍固化。",
+          "es": "Disminuye la fluidez a temperaturas moderadas a altas, pero dificulta la solidificación a bajas temperaturas.",
+          "fr": "Il diminue la fluidité à des températures modérées à élevées mais entrave la solidification à basse température.",
+          "de": "Es verringert die Fluidität bei moderaten bis hohen Temperaturen, behindert aber die Verfestigung bei niedrigen Temperaturen.",
+          "ja": "中高温では流動性を低下させますが、低温では凝固を妨げます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It increases fluidity at high temperatures and promotes solidification at low temperatures.",
+          "zh": "它在高温下增加流动性，并在低温下促进固化。",
+          "es": "Aumenta la fluidez a altas temperaturas y promueve la solidificación a bajas temperaturas.",
+          "fr": "Il augmente la fluidité à des températures élevées et favorise la solidification à basse température.",
+          "de": "Es erhöht die Fluidität bei hohen Temperaturen und fördert die Verfestigung bei niedrigen Temperaturen.",
+          "ja": "高温で流動性を高め、低温で凝固を促進します。"
+        },
+        "feedback": {
+          "en": "This statement describes the opposite effect of cholesterol at high and low temperatures compared to the text.",
+          "zh": "与原文相比，此描述与胆固醇在高温和低温下的作用相反。",
+          "es": "Esta afirmación describe el efecto opuesto del colesterol a altas y bajas temperaturas en comparación con el texto.",
+          "fr": "Cette affirmation décrit l'effet opposé du cholestérol à des températures élevées et basses par rapport au texte.",
+          "de": "Diese Aussage beschreibt den gegenteiligen Effekt von Cholesterin bei hohen und niedrigen Temperaturen im Vergleich zum Text.",
+          "ja": "この記述は、本文と比較して、高温および低温におけるコレステロールの逆の作用を説明しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Cholesterol acts as a 'fluidity buffer'. At relatively high temperatures (like human body temperature), it makes the membrane less fluid by restraining phospholipid movement. However, at low temperatures, it hinders the close packing of phospholipids, thereby lowering the temperature required for the membrane to solidify.",
+      "zh": "胆固醇起到“流动性缓冲剂”的作用。在相对较高的温度下（如人体体温），它通过限制磷脂的移动，使膜的流动性降低。然而，在低温下，它会阻碍磷脂的紧密堆积，从而降低膜固化所需的温度。",
+      "es": "El colesterol actúa como un 'amortiguador de fluidez'. A temperaturas relativamente altas (como la temperatura corporal humana), hace que la membrana sea menos fluida al restringir el movimiento de los fosfolípidos. Sin embargo, a bajas temperaturas, dificulta el empaquetamiento estrecho de los fosfolípidos, lo que disminuye la temperatura necesaria para que la membrana se solidifique.",
+      "fr": "Le cholestérol agit comme un 'tampon de fluidité'. À des températures relativement élevées (comme la température corporelle humaine), il rend la membrane moins fluide en restreignant le mouvement des phospholipides. Cependant, à basse température, il entrave l'empaquetage serré des phospholipides, abaissant ainsi la température nécessaire à la solidification de la membrane.",
+      "de": "Cholesterin fungiert als „Fluiditätspuffer“. Bei relativ hohen Temperaturen (wie der menschlichen Körpertemperatur) macht es die Membran weniger flüssig, indem es die Phospholipidbewegung einschränkt. Bei niedrigen Temperaturen hingegen behindert es die dichte Packung der Phospholipide und senkt dadurch die für die Membranverfestigung erforderliche Temperatur.",
+      "ja": "コレステロールは「流動性バッファ」として機能します。比較的高い温度（ヒトの体温など）では、リン脂質の動きを抑制することで膜の流動性を低下させます。しかし、低温ではリン脂質の密なパッキングを妨げ、膜が固化するのに必要な温度を下げます。"
+    }
+  },
+  {
+    "page_number": 177,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the primary force holding the plasma membrane together, and how do most lipids and proteins typically move within it?",
+      "zh": "将质膜结合在一起的主要作用力是什么，以及大多数脂质和蛋白质在其中通常如何移动？",
+      "es": "¿Cuál es la fuerza principal que mantiene unida la membrana plasmática y cómo se mueven típicamente la mayoría de los lípidos y proteínas dentro de ella?",
+      "fr": "Quelle est la force principale qui maintient la membrane plasmique unie, et comment la plupart des lipides et des protéines se déplacent-ils généralement à l'intérieur de celle-ci ?",
+      "de": "Was ist die primäre Kraft, die die Plasmamembran zusammenhält, und wie bewegen sich die meisten Lipide und Proteine typischerweise in ihr?",
+      "ja": "細胞膜を結合させている主な力は何ですか、そしてほとんどの脂質とタンパク質は通常どのように膜内で移動しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Covalent bonds; move rigidly.",
+          "zh": "共价键；刚性移动。",
+          "es": "Enlaces covalentes; se mueven rígidamente.",
+          "fr": "Liaisons covalentes ; se déplacent rigidement.",
+          "de": "Kovalente Bindungen; bewegen sich starr.",
+          "ja": "共有結合; 硬直に動く。"
+        },
+        "feedback": {
+          "en": "Covalent bonds are too strong for membrane fluidity, and components are not rigid.",
+          "zh": "共价键对于膜的流动性来说太强，并且组分不是刚性的。",
+          "es": "Los enlaces covalentes son demasiado fuertes para la fluidez de la membrana, y los componentes no son rígidos.",
+          "fr": "Les liaisons covalentes sont trop fortes pour la fluidité de la membrane, et les composants ne sont pas rigides.",
+          "de": "Kovalente Bindungen sind zu stark für die Membranfluidität, und die Komponenten sind nicht starr.",
+          "ja": "共有結合は膜の流動性には強すぎ、構成要素は硬直していません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Hydrophobic interactions; shift sideways.",
+          "zh": "疏水相互作用；横向移动。",
+          "es": "Interacciones hidrofóbicas; se desplazan lateralmente.",
+          "fr": "Interactions hydrophobes ; se déplacent latéralement.",
+          "de": "Hydrophobe Wechselwirkungen; verschieben sich seitwärts.",
+          "ja": "疎水性相互作用; 横方向に移動する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Ionic bonds; flip-flop rapidly.",
+          "zh": "离子键；快速翻转。",
+          "es": "Enlaces iónicos; voltean rápidamente.",
+          "fr": "Liaisons ioniques ; se déplacent rapidement par bascule.",
+          "de": "Ionenbindungen; schnelles Umklappen.",
+          "ja": "イオン結合; 高速にフリップフロップする。"
+        },
+        "feedback": {
+          "en": "Ionic bonds are not the primary force, and flip-flop is rare for lipids and extremely rare/non-existent for proteins.",
+          "zh": "离子键不是主要作用力，脂质的翻转很少发生，而蛋白质几乎没有翻转。",
+          "es": "Los enlaces iónicos no son la fuerza principal, y el volteo es raro para los lípidos y extremadamente raro/inexistente para las proteínas.",
+          "fr": "Les liaisons ioniques ne sont pas la force principale, et le mouvement de bascule est rare pour les lipides et extrêmement rare/inexistant pour les protéines.",
+          "de": "Ionenbindungen sind nicht die primäre Kraft, und das Flip-Flop ist bei Lipiden selten und bei Proteinen extrem selten/nicht existent.",
+          "ja": "イオン結合は主要な力ではなく、フリップフロップは脂質ではまれであり、タンパク質では極めてまれか存在しません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Hydrogen bonds; remain static.",
+          "zh": "氢键；保持静止。",
+          "es": "Puentes de hidrógeno; permanecen estáticos.",
+          "fr": "Liaisons hydrogène ; restent statiques.",
+          "de": "Wasserstoffbrückenbindungen; bleiben statisch.",
+          "ja": "水素結合; 静止したまま。"
+        },
+        "feedback": {
+          "en": "Hydrogen bonds are not the primary force, and membrane components are not static.",
+          "zh": "氢键不是主要作用力，并且膜组分不是静止的。",
+          "es": "Los puentes de hidrógeno no son la fuerza principal, y los componentes de la membrana no son estáticos.",
+          "fr": "Les liaisons hydrogène ne sont pas la force principale, et les composants de la membrane ne sont pas statiques.",
+          "de": "Wasserstoffbrückenbindungen sind nicht die primäre Kraft, und Membranbestandteile sind nicht statisch.",
+          "ja": "水素結合は主要な力ではなく、膜の構成要素は静止していません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The plasma membrane is held together mainly by hydrophobic interactions, which are weaker than covalent bonds. Most lipids and some proteins can shift about sideways within the plane of the membrane, indicating fluidity.",
+      "zh": "质膜主要通过疏水相互作用结合在一起，这种作用力比共价键弱。大多数脂质和一些蛋白质可以在膜平面内横向移动，这表明了膜的流动性。",
+      "es": "La membrana plasmática se mantiene unida principalmente por interacciones hidrofóbicas, que son más débiles que los enlaces covalentes. La mayoría de los lípidos y algunas proteínas pueden desplazarse lateralmente dentro del plano de la membrana, lo que indica fluidez.",
+      "fr": "La membrane plasmique est maintenue principalement par des interactions hydrophobes, qui sont plus faibles que les liaisons covalentes. La plupart des lipides et certaines protéines peuvent se déplacer latéralement dans le plan de la membrane, ce qui indique sa fluidité.",
+      "de": "Die Plasmamembran wird hauptsächlich durch hydrophobe Wechselwirkungen zusammengehalten, die schwächer sind als kovalente Bindungen. Die meisten Lipide und einige Proteine können sich seitwärts innerhalb der Membranebene verschieben, was auf Fluidität hinweist.",
+      "ja": "細胞膜は主に疎水性相互作用によって結合しており、これは共有結合よりも弱いです。ほとんどの脂質と一部のタンパク質は膜の平面内で横方向に移動でき、これは流動性を示しています。"
+    }
+  },
+  {
+    "page_number": 177,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the 'WHAT IF?' scenario in Figure 7.4, if the proteins did not mix in the hybrid cell even after many hours, which of the following is a valid alternative explanation *other than* proteins not moving freely within the membrane?",
+      "zh": "根据图7.4中的“如果会怎样？”情景，如果融合细胞中的蛋白质在数小时后仍未混合，除了蛋白质不能在膜内自由移动之外，以下哪项是一个有效的替代解释？",
+      "es": "Basándose en el escenario '¿QUÉ PASARÍA SI?' de la Figura 7.4, si las proteínas no se mezclaran en la célula híbrida incluso después de muchas horas, ¿cuál de las siguientes es una explicación alternativa válida *aparte de* que las proteínas no se muevan libremente dentro de la membrana?",
+      "fr": "Selon le scénario 'ET SI ?' de la Figure 7.4, si les protéines ne se mélangeaient pas dans la cellule hybride même après de nombreuses heures, laquelle des explications suivantes est une explication alternative valide *autre que* le fait que les protéines ne bougent pas librement à l'intérieur de la membrane ?",
+      "de": "Basierend auf dem 'WAS WÄRE WENN?'-Szenario in Abbildung 7.4: Wenn sich die Proteine in der Hybridzelle auch nach vielen Stunden nicht vermischt hätten, welche der folgenden ist eine gültige alternative Erklärung *außer*, dass sich Proteine nicht frei innerhalb der Membran bewegen?",
+      "ja": "図7.4の「もしも？」のシナリオに基づき、ハイブリッド細胞内でタンパク質が数時間経っても混ざらなかった場合、タンパク質が膜内で自由に動かないという結論以外に、妥当な代替説明は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The membrane itself was rigid and prevented movement.",
+          "zh": "膜本身是刚性的，阻止了移动。",
+          "es": "La membrana en sí era rígida e impedía el movimiento.",
+          "fr": "La membrane elle-même était rigide et empêchait le mouvement.",
+          "de": "Die Membran selbst war starr und verhinderte die Bewegung.",
+          "ja": "膜自体が硬く、動きを妨げた。"
+        },
+        "feedback": {
+          "en": "While membrane rigidity would prevent movement, the question asks for an explanation *other than* proteins not moving freely, and this implies a reason for immobility that still leads to the conclusion of 'no movement'. The text provides a more specific alternative.",
+          "zh": "虽然膜的刚性会阻止移动，但问题要求提供一个除了蛋白质不能自由移动之外的解释，这暗示了一个导致“不移动”结论的固定原因。原文提供了更具体的替代解释。",
+          "es": "Aunque la rigidez de la membrana impediría el movimiento, la pregunta busca una explicación *aparte de* que las proteínas no se muevan libremente, y esto implica una razón para la inmovilidad que aún lleva a la conclusión de 'sin movimiento'. El texto proporciona una alternativa más específica.",
+          "fr": "Bien que la rigidité de la membrane empêcherait le mouvement, la question demande une explication *autre que* le fait que les protéines ne bougent pas librement, et cela implique une raison d'immobilité qui conduit toujours à la conclusion de 'pas de mouvement'. Le texte fournit une alternative plus spécifique.",
+          "de": "Obwohl die Membransteifigkeit eine Bewegung verhindern würde, fragt die Frage nach einer Erklärung *außer* der freien Bewegung von Proteinen, und dies impliziert einen Grund für Immobilität, der immer noch zu dem Schluss „keine Bewegung“ führt. Der Text bietet eine spezifischere Alternative.",
+          "ja": "膜の硬直性も動きを妨げますが、この質問はタンパク質が自由に動かないという結論「以外」の理由を求めており、これは「動かない」という結論に繋がる不動の原因を示唆しています。本文にはより具体的な代替説明が提供されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The proteins were actively transported out of the membrane.",
+          "zh": "蛋白质被主动转运出膜外。",
+          "es": "Las proteínas fueron transportadas activamente fuera de la membrana.",
+          "fr": "Les protéines ont été transportées activement hors de la membrane.",
+          "de": "Die Proteine wurden aktiv aus der Membran transportiert.",
+          "ja": "タンパク質は膜の外へ能動的に輸送された。"
+        },
+        "feedback": {
+          "en": "The experiment observes mixing *within* the membrane, not transport out of it, and this would still imply movement.",
+          "zh": "该实验观察的是膜内的混合，而不是从膜外转运，这仍然意味着蛋白质在移动。",
+          "es": "El experimento observa la mezcla *dentro* de la membrana, no el transporte fuera de ella, y esto aún implicaría movimiento.",
+          "fr": "L'expérience observe le mélange *à l'intérieur* de la membrane, et non le transport hors de celle-ci, et cela impliquerait toujours un mouvement.",
+          "de": "Das Experiment beobachtet die Mischung *innerhalb* der Membran, nicht den Transport aus ihr heraus, und dies würde immer noch Bewegung implizieren.",
+          "ja": "この実験は膜内での混合を観察するものであり、膜外への輸送を観察するものではありません。また、これはタンパク質の移動を意味します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The proteins were held immobile by attachment to structures like the cytoskeleton or extracellular matrix.",
+          "zh": "蛋白质因附着在细胞骨架或细胞外基质等结构上而保持不动。",
+          "es": "Las proteínas fueron inmovilizadas por su unión a estructuras como el citoesqueleto o la matriz extracelular.",
+          "fr": "Les protéines étaient maintenues immobiles par leur attachement à des structures telles que le cytosquelette ou la matrice extracellulaire.",
+          "de": "Die Proteine wurden durch Anhaftung an Strukturen wie das Zytoskelett oder die extrazelluläre Matrix immobilisiert.",
+          "ja": "タンパク質は細胞骨格や細胞外マトリックスなどの構造に付着することで不動化されていた。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The experimental temperature was too high, solidifying the membrane.",
+          "zh": "实验温度过高，导致膜固化。",
+          "es": "La temperatura experimental era demasiado alta, solidificando la membrana.",
+          "fr": "La température expérimentale était trop élevée, solidifiant la membrane.",
+          "de": "Die experimentelle Temperatur war zu hoch, wodurch die Membran verfestigt wurde.",
+          "ja": "実験温度が高すぎたため、膜が固化した。"
+        },
+        "feedback": {
+          "en": "High temperatures generally increase membrane fluidity, not solidify it.",
+          "zh": "高温通常会增加膜的流动性，而不是使其固化。",
+          "es": "Las altas temperaturas generalmente aumentan la fluidez de la membrana, no la solidifican.",
+          "fr": "Les températures élevées augmentent généralement la fluidité de la membrane, elles ne la solidifient pas.",
+          "de": "Hohe Temperaturen erhöhen im Allgemeinen die Membranfluidität, sie verfestigen sie nicht.",
+          "ja": "高温は一般的に膜の流動性を高め、固化させません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Many membrane proteins seem to be held immobile by their attachment to the cytoskeleton or to the extracellular matrix.' This provides a specific alternative explanation for a lack of protein mixing, even if the membrane itself is fluid.",
+      "zh": "文本明确指出：“许多膜蛋白似乎通过其附着在细胞骨架或细胞外基质上而保持不动。”这为蛋白质不混合提供了一个具体的替代解释，即使膜本身是流动的。",
+      "es": "El texto afirma explícitamente: 'Muchas proteínas de la membrana parecen permanecer inmóviles por su unión al citoesqueleto o a la matriz extracelular.' Esto proporciona una explicación alternativa específica para la falta de mezcla de proteínas, incluso si la membrana en sí es fluida.",
+      "fr": "Le texte indique explicitement : « De nombreuses protéines membranaires semblent être immobilisées par leur attachement au cytosquelette ou à la matrice extracellulaire. » Cela fournit une explication alternative spécifique pour l'absence de mélange des protéines, même si la membrane elle-même est fluide.",
+      "de": "Der Text besagt ausdrücklich: „Viele Membranproteine scheinen durch ihre Anheftung an das Zytoskelett oder an die extrazelluläre Matrix immobilisiert zu sein.“ Dies bietet eine spezifische alternative Erklärung für das Ausbleiben der Proteinmischung, selbst wenn die Membran selbst flüssig ist.",
+      "ja": "本文には「多くの膜タンパク質は、細胞骨格や細胞外マトリックスへの付着によって不動化されているように見える」と明記されています。これは、膜自体が流動的であっても、タンパク質が混ざらないことに対する具体的な代替説明を提供します。"
+    }
+  },
+  {
+    "page_number": 177,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "How do unsaturated hydrocarbon tails contribute to the fluidity of a cell membrane compared to saturated tails?",
+      "zh": "与饱和烃尾相比，不饱和烃尾如何促进细胞膜的流动性？",
+      "es": "¿Cómo contribuyen las colas de hidrocarburos insaturados a la fluidez de una membrana celular en comparación con las colas saturadas?",
+      "fr": "Comment les queues hydrocarbonées insaturées contribuent-elles à la fluidité d'une membrane cellulaire par rapport aux queues saturées ?",
+      "de": "Wie tragen ungesättigte Kohlenwasserstoffschwänze zur Fluidität einer Zellmembran im Vergleich zu gesättigten Schwänzen bei?",
+      "ja": "不飽和炭化水素尾は、飽和尾と比較して細胞膜の流動性にどのように寄与しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They pack together more tightly due to kinks, increasing viscosity.",
+          "zh": "它们由于扭结而堆积得更紧密，增加了粘度。",
+          "es": "Se empaquetan más apretadamente debido a las torceduras, aumentando la viscosidad.",
+          "fr": "Elles s'assemblent plus étroitement en raison des coudes, augmentant la viscosité.",
+          "de": "Sie packen sich aufgrund von Knicken enger zusammen, was die Viskosität erhöht.",
+          "ja": "キンクのために密にパッキングされ、粘度が増加します。"
+        },
+        "feedback": {
+          "en": "Kinks in unsaturated tails prevent tight packing, promoting fluidity, not increasing viscosity.",
+          "zh": "不饱和尾部的扭结会阻止紧密堆积，从而促进流动性，而不是增加粘度。",
+          "es": "Las torceduras en las colas insaturadas impiden un empaquetamiento apretado, promoviendo la fluidez, no aumentando la viscosidad.",
+          "fr": "Les coudes dans les queues insaturées empêchent un empaquetage serré, favorisant la fluidité, et non l'augmentation de la viscosité.",
+          "de": "Knicke in ungesättigten Schwänzen verhindern eine dichte Packung, was die Fluidität fördert und die Viskosität nicht erhöht.",
+          "ja": "不飽和尾のキンクは密なパッキングを妨げ、流動性を促進し、粘度を増加させません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They have double bonds that cause kinks, preventing tight packing and enhancing fluidity.",
+          "zh": "它们具有双键，导致扭结，阻止紧密堆积并增强流动性。",
+          "es": "Tienen dobles enlaces que causan torceduras, impidiendo un empaquetamiento apretado y mejorando la fluidez.",
+          "fr": "Elles possèdent des doubles liaisons qui provoquent des coudes, empêchant un empaquetage serré et améliorant la fluidité.",
+          "de": "Sie haben Doppelbindungen, die Knicke verursachen, eine dichte Packung verhindern und die Fluidität verbessern.",
+          "ja": "二重結合を持ち、それがキンクを引き起こし、密なパッキングを妨げて流動性を高めます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They increase membrane viscosity by forming stronger hydrophobic interactions.",
+          "zh": "它们通过形成更强的疏水相互作用来增加膜的粘度。",
+          "es": "Aumentan la viscosidad de la membrana al formar interacciones hidrofóbicas más fuertes.",
+          "fr": "Elles augmentent la viscosité de la membrane en formant des interactions hydrophobes plus fortes.",
+          "de": "Sie erhöhen die Membranviskosität durch stärkere hydrophobe Wechselwirkungen.",
+          "ja": "より強い疎水性相互作用を形成することで、膜の粘度を増加させます。"
+        },
+        "feedback": {
+          "en": "Unsaturated tails promote fluidity, and their kinks interfere with strong packing, rather than enhancing hydrophobic interactions in a way that increases viscosity.",
+          "zh": "不饱和尾部促进流动性，它们的扭结会干扰紧密堆积，而不是以增加粘度的方式增强疏水相互作用。",
+          "es": "Las colas insaturadas promueven la fluidez, y sus torceduras interfieren con un empaquetamiento fuerte, en lugar de mejorar las interacciones hidrofóbicas de una manera que aumente la viscosidad.",
+          "fr": "Les queues insaturées favorisent la fluidité, et leurs coudes interfèrent avec un empaquetage serré, plutôt que de renforcer les interactions hydrophobes d'une manière qui augmenterait la viscosité.",
+          "de": "Ungesättigte Schwänze fördern die Fluidität, und ihre Knicke stören die dichte Packung, anstatt hydrophobe Wechselwirkungen auf eine Weise zu verstärken, die die Viskosität erhöht.",
+          "ja": "不飽和尾は流動性を促進し、そのキンクは強いパッキングを妨げ、粘度を増加させるような形で疎水性相互作用を強化するわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They are longer than saturated tails, which reduces fluidity.",
+          "zh": "它们比饱和尾更长，这会降低流动性。",
+          "es": "Son más largas que las colas saturadas, lo que reduce la fluidez.",
+          "fr": "Elles sont plus longues que les queues saturées, ce qui réduit la fluidité.",
+          "de": "Sie sind länger als gesättigte Schwänze, was die Fluidität verringert.",
+          "ja": "飽和尾よりも長く、それが流動性を低下させます。"
+        },
+        "feedback": {
+          "en": "The primary factor for fluidity mentioned regarding unsaturated tails is the presence of kinks due to double bonds, not length.",
+          "zh": "关于不饱和尾部的流动性，提及的主要因素是由于双键的存在而产生的扭结，而不是长度。",
+          "es": "El factor principal de fluidez mencionado con respecto a las colas insaturadas es la presencia de torceduras debido a los dobles enlaces, no la longitud.",
+          "fr": "Le principal facteur de fluidité mentionné concernant les queues insaturées est la présence de coudes dus aux doubles liaisons, et non la longueur.",
+          "de": "Der primäre Faktor für die Fluidität, der bei ungesättigten Schwänzen genannt wird, ist das Vorhandensein von Knicken aufgrund von Doppelbindungen, nicht die Länge.",
+          "ja": "不飽和尾に関する流動性の主要な要因は、二重結合によるキンクの存在であり、長さではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Unsaturated hydrocarbon tails contain double bonds that cause kinks in their structure. These kinks prevent the phospholipid molecules from packing together as closely as saturated hydrocarbon tails (which are straight), thereby enhancing the fluidity of the membrane.",
+      "zh": "不饱和烃尾含有双键，这些双键在其结构中引起扭结。这些扭结阻止磷脂分子像饱和烃尾（它们是直的）那样紧密堆积，从而增强了膜的流动性。",
+      "es": "Las colas de hidrocarburos insaturados contienen dobles enlaces que causan torceduras en su estructura. Estas torceduras impiden que las moléculas de fosfolípidos se empaqueten tan estrechamente como las colas de hidrocarburos saturados (que son rectas), mejorando así la fluidez de la membrana.",
+      "fr": "Les queues hydrocarbonées insaturées contiennent des doubles liaisons qui provoquent des coudes dans leur structure. Ces coudes empêchent les molécules de phospholipides de s'assembler aussi étroitement que les queues hydrocarbonées saturées (qui sont droites), augmentant ainsi la fluidité de la membrane.",
+      "de": "Ungesättigte Kohlenwasserstoffschwänze enthalten Doppelbindungen, die Knicke in ihrer Struktur verursachen. Diese Knicke verhindern, dass sich die Phospholipidmoleküle so dicht packen wie gesättigte Kohlenwasserstoffschwänze (die gerade sind), wodurch die Fluidität der Membran verbessert wird.",
+      "ja": "不飽和炭化水素尾は、その構造にキンクを引き起こす二重結合を含んでいます。これらのキンクは、リン脂質分子が飽和炭化水素尾（直線状）のように密にパッキングされるのを妨げ、それによって膜の流動性を高めます。"
+    }
+  }
+]

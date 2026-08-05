@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 420,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following best describes the effect of histone acetylation on gene expression?",
+      "zh": "以下哪项最能描述组蛋白乙酰化对基因表达的影响？",
+      "es": "¿Cuál de las siguientes describe mejor el efecto de la acetilación de histonas en la expresión génica?",
+      "fr": "Lequel des énoncés suivants décrit le mieux l'effet de l'acétylation des histones sur l'expression génique ?",
+      "de": "Welches der folgenden beschreibt am besten die Wirkung der Histonacetylierung auf die Genexpression?",
+      "ja": "次のどれがヒストンアセチル化が遺伝子発現に与える影響を最もよく説明していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Leads to chromatin condensation and reduced transcription.",
+          "zh": "导致染色质凝集和转录减少。",
+          "es": "Conduce a la condensación de la cromatina y a la reducción de la transcripción.",
+          "fr": "Conduit à la condensation de la chromatine et à une transcription réduite.",
+          "de": "Führt zu Chromatin-Kondensation und reduzierter Transkription.",
+          "ja": "クロマチン凝縮と転写の減少を引き起こす。"
+        },
+        "feedback": {
+          "en": "This describes the effect of histone methylation or DNA methylation, not acetylation.",
+          "zh": "这描述的是组蛋白甲基化或DNA甲基化的影响，而非乙酰化。",
+          "es": "Esto describe el efecto de la metilación de histonas o la metilación del ADN, no la acetilación.",
+          "fr": "Cela décrit l'effet de la méthylation des histones ou de la méthylation de l'ADN, pas de l'acétylation.",
+          "de": "Dies beschreibt die Wirkung von Histonmethylierung oder DNA-Methylierung, nicht von Acetylierung.",
+          "ja": "これはヒストンメチル化またはDNAメチル化の効果であり、アセチル化ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Promotes transcription by opening up chromatin structure.",
+          "zh": "通过打开染色质结构来促进转录。",
+          "es": "Promueve la transcripción abriendo la estructura de la cromatina.",
+          "fr": "Favorise la transcription en ouvrant la structure de la chromatine.",
+          "de": "Fördert die Transkription durch Öffnen der Chromatin-Struktur.",
+          "ja": "クロマチン構造を開くことで転写を促進する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Has no direct effect on gene transcription.",
+          "zh": "对基因转录没有直接影响。",
+          "es": "No tiene un efecto directo sobre la transcripción génica.",
+          "fr": "N'a aucun effet direct sur la transcription génique.",
+          "de": "Hat keine direkte Auswirkung auf die Gentranskription.",
+          "ja": "遺伝子転写に直接的な影響はない。"
+        },
+        "feedback": {
+          "en": "Histone acetylation directly impacts gene transcription.",
+          "zh": "组蛋白乙酰化直接影响基因转录。",
+          "es": "La acetilación de histonas afecta directamente la transcripción génica.",
+          "fr": "L'acétylation des histones a un impact direct sur la transcription génique.",
+          "de": "Histonacetylierung beeinflusst die Gentranskription direkt.",
+          "ja": "ヒストンアセチル化は遺伝子転写に直接影響を与えます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Alters the DNA sequence, leading to gene silencing.",
+          "zh": "改变DNA序列，导致基因沉默。",
+          "es": "Altera la secuencia de ADN, lo que lleva al silenciamiento génico.",
+          "fr": "Modifie la séquence d'ADN, entraînant le silençage des gènes.",
+          "de": "Verändert die DNA-Sequenz, was zu Gen-Silencing führt.",
+          "ja": "DNA配列を変化させ、遺伝子サイレンシングを引き起こす。"
+        },
+        "feedback": {
+          "en": "Chromatin modifications do not alter the DNA sequence itself.",
+          "zh": "染色质修饰不改变DNA序列本身。",
+          "es": "Las modificaciones de la cromatina no alteran la secuencia del ADN.",
+          "fr": "Les modifications de la chromatine n'altèrent pas la séquence d'ADN elle-même.",
+          "de": "Chromatin-Modifikationen verändern nicht die DNA-Sequenz selbst.",
+          "ja": "クロマチンの修飾はDNA配列自体を変化させません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Histone acetylation, the addition of an acetyl group to a histone tail, appears to promote transcription by opening up chromatin structure, making the DNA more accessible to transcription machinery.",
+      "zh": "组蛋白乙酰化是指在组蛋白尾部添加乙酰基，它似乎通过打开染色质结构来促进转录，使DNA更容易被转录机器访问。",
+      "es": "La acetilación de histonas, la adición de un grupo acetilo a una cola de histona, parece promover la transcripción al abrir la estructura de la cromatina, haciendo que el ADN sea más accesible a la maquinaria de transcripción.",
+      "fr": "L'acétylation des histones, l'ajout d'un groupe acétyle à une queue d'histone, semble favoriser la transcription en ouvrant la structure de la chromatine, rendant l'ADN plus accessible à la machinerie de transcription.",
+      "de": "Histonacetylierung, das Hinzufügen einer Acetylgruppe an einen Histonschwanz, scheint die Transkription zu fördern, indem die Chromatin-Struktur geöffnet wird, wodurch die DNA für die Transkriptionsmaschinerie zugänglicher wird.",
+      "ja": "ヒストンアセチル化は、ヒストン尾部にアセチル基が付加されることで、クロマチン構造を開き、DNAが転写機構にアクセスしやすくなることで転写を促進すると考えられています。"
+    }
+  },
+  {
+    "page_number": 420,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements correctly distinguishes between histone methylation and DNA methylation in the context of gene expression regulation?",
+      "zh": "在基因表达调控的背景下，以下哪项陈述正确区分了组蛋白甲基化和DNA甲基化？",
+      "es": "¿Cuál de las siguientes afirmaciones distingue correctamente entre la metilación de histonas y la metilación del ADN en el contexto de la regulación de la expresión génica?",
+      "fr": "Lequel des énoncés suivants distingue correctement la méthylation des histones et la méthylation de l'ADN dans le contexte de la régulation de l'expression génique ?",
+      "de": "Welche der folgenden Aussagen unterscheidet korrekt zwischen Histonmethylierung und DNA-Methylierung im Kontext der Genexpressionsregulation?",
+      "ja": "遺伝子発現制御の文脈において、次の記述のうち、ヒストンメチル化とDNAメチル化を正しく区別しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Both histone methylation and DNA methylation generally lead to increased gene transcription.",
+          "zh": "组蛋白甲基化和DNA甲基化通常都会导致基因转录增加。",
+          "es": "Tanto la metilación de histonas como la metilación del ADN generalmente conducen a un aumento de la transcripción génica.",
+          "fr": "La méthylation des histones et la méthylation de l'ADN entraînent généralement une augmentation de la transcription génique.",
+          "de": "Sowohl Histonmethylierung als auch DNA-Methylierung führen im Allgemeinen zu einer erhöhten Gentranskription.",
+          "ja": "ヒストンメチル化とDNAメチル化は両方とも一般的に遺伝子転写の増加につながる。"
+        },
+        "feedback": {
+          "en": "Both histone methylation and DNA methylation are typically associated with reduced or silenced gene transcription.",
+          "zh": "组蛋白甲基化和DNA甲基化通常都与基因转录的减少或沉默有关。",
+          "es": "Tanto la metilación de histonas como la metilación del ADN suelen asociarse con una transcripción génica reducida o silenciada.",
+          "fr": "La méthylation des histones et la méthylation de l'ADN sont généralement associées à une transcription génique réduite ou silencieuse.",
+          "de": "Sowohl Histonmethylierung als auch DNA-Methylierung sind typischerweise mit einer reduzierten oder stillgelegten Gentranskription verbunden.",
+          "ja": "ヒストンメチル化とDNAメチル化は、通常、遺伝子転写の減少またはサイレンシングと関連しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Histone methylation modifies the DNA sequence, while DNA methylation modifies histone proteins.",
+          "zh": "组蛋白甲基化修饰DNA序列，而DNA甲基化修饰组蛋白。",
+          "es": "La metilación de histonas modifica la secuencia de ADN, mientras que la metilación de ADN modifica las proteínas histonas.",
+          "fr": "La méthylation des histones modifie la séquence d'ADN, tandis que la méthylation de l'ADN modifie les protéines histones.",
+          "de": "Histonmethylierung modifiziert die DNA-Sequenz, während DNA-Methylierung Histonproteine modifiziert.",
+          "ja": "ヒストンメチル化はDNA配列を修飾し、DNAメチル化はヒストンタンパク質を修飾する。"
+        },
+        "feedback": {
+          "en": "The roles are reversed; histone methylation affects histones, and DNA methylation affects DNA.",
+          "zh": "角色颠倒了；组蛋白甲基化影响组蛋白，而DNA甲基化影响DNA。",
+          "es": "Los roles están invertidos; la metilación de histonas afecta a las histonas, y la metilación del ADN afecta al ADN.",
+          "fr": "Les rôles sont inversés ; la méthylation des histones affecte les histones, et la méthylation de l'ADN affecte l'ADN.",
+          "de": "Die Rollen sind vertauscht; Histonmethylierung betrifft Histone, und DNA-Methylierung betrifft DNA.",
+          "ja": "役割が逆です。ヒストンメチル化はヒストンに影響し、DNAメチル化はDNAに影響します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Histone methylation affects the accessibility of DNA by condensing chromatin, whereas DNA methylation directly silences genes by adding methyl groups to DNA bases.",
+          "zh": "组蛋白甲基化通过凝集染色质来影响DNA的可及性，而DNA甲基化通过在DNA碱基上添加甲基来直接沉默基因。",
+          "es": "La metilación de histonas afecta la accesibilidad del ADN al condensar la cromatina, mientras que la metilación del ADN silencia directamente los genes añadiendo grupos metilo a las bases del ADN.",
+          "fr": "La méthylation des histones affecte l'accessibilité de l'ADN en condensant la chromatine, tandis que la méthylation de l'ADN silençie directement les gènes en ajoutant des groupes méthyle aux bases de l'ADN.",
+          "de": "Histonmethylierung beeinflusst die Zugänglichkeit der DNA durch Kondensierung des Chromatins, während DNA-Methylierung Gene direkt durch das Hinzufügen von Methylgruppen zu DNA-Basen stilllegt.",
+          "ja": "ヒストンメチル化はクロマチンを凝縮させることでDNAのアクセス性を影響し、一方、DNAメチル化はDNA塩基にメチル基を追加することで直接遺伝子をサイレンシングする。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA methylation is specific to mammalian X chromosomes, while histone methylation occurs in all eukaryotes.",
+          "zh": "DNA甲基化仅限于哺乳动物X染色体，而组蛋白甲基化发生在所有真核生物中。",
+          "es": "La metilación de ADN es específica de los cromosomas X de mamíferos, mientras que la metilación de histonas ocurre en todos los eucariotas.",
+          "fr": "La méthylation de l'ADN est spécifique aux chromosomes X des mammifères, tandis que la méthylation des histones se produit chez tous les eucaryotes.",
+          "de": "DNA-Methylierung ist spezifisch für Säugetier-X-Chromosomen, während Histonmethylierung in allen Eukaryoten auftritt.",
+          "ja": "DNAメチル化は哺乳類のX染色体に特異的であり、一方、ヒストンメチル化はすべての真核生物で起こる。"
+        },
+        "feedback": {
+          "en": "DNA methylation occurs in most plants, animals, and fungi, not just mammalian X chromosomes.",
+          "zh": "DNA甲基化发生在大多数植物、动物和真菌中，不只局限于哺乳动物X染色体。",
+          "es": "La metilación de ADN ocurre en la mayoría de las plantas, animales y hongos, no solo en los cromosomas X de mamíferos.",
+          "fr": "La méthylation de l'ADN se produit chez la plupart des plantes, animaux et champignons, pas seulement sur les chromosomes X des mammifères.",
+          "de": "DNA-Methylierung tritt in den meisten Pflanzen, Tieren und Pilzen auf, nicht nur bei Säugetier-X-Chromosomen.",
+          "ja": "DNAメチル化は哺乳類のX染色体だけでなく、ほとんどの植物、動物、真菌で発生します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Histone methylation, the addition of methyl groups to histones, can lead to chromatin condensation and reduced transcription. DNA methylation involves the methylation of DNA itself, usually cytosine, and is associated with inactive DNA regions. While an example given is mammalian X chromosomes, it occurs broadly in plants, animals, and fungi.",
+      "zh": "组蛋白甲基化（在组蛋白上添加甲基）可导致染色质凝集和转录减少。DNA甲基化涉及DNA本身的甲基化（通常是胞嘧啶），并与非活动DNA区域相关。虽然文本给出的一个例子是哺乳动物X染色体，但它广泛存在于植物、动物和真菌中。",
+      "es": "La metilación de histonas, la adición de grupos metilo a las histonas, puede conducir a la condensación de la cromatina y a la reducción de la transcripción. La metilación del ADN implica la metilación del propio ADN, generalmente la citosina, y se asocia con regiones de ADN inactivas. Aunque un ejemplo dado son los cromosomas X de mamíferos, ocurre ampliamente en plantas, animales y hongos.",
+      "fr": "La méthylation des histones, l'ajout de groupes méthyle aux histones, peut entraîner la condensation de la chromatine et une transcription réduite. La méthylation de l'ADN implique la méthylation de l'ADN lui-même, généralement la cytosine, et est associée aux régions d'ADN inactives. Bien qu'un exemple donné soit les chromosomes X de mammifères, elle se produit largement chez les plantes, les animaux et les champignons.",
+      "de": "Histonmethylierung, die Addition von Methylgruppen an Histone, kann zu Chromatin-Kondensation und reduzierter Transkription führen. DNA-Methylierung beinhaltet die Methylierung der DNA selbst, üblicherweise Cytosin, und ist mit inaktiven DNA-Regionen verbunden. Obwohl ein gegebenes Beispiel die X-Chromosomen von Säugetieren sind, tritt sie weit verbreitet in Pflanzen, Tieren und Pilzen auf.",
+      "ja": "ヒストンメチル化（ヒストンへのメチル基の付加）は、クロマチン凝縮と転写の減少を引き起こす可能性があります。DNAメチル化は、DNA自体のメチル化（通常はシトシン）を伴い、不活性なDNA領域と関連しています。哺乳類のX染色体はその一例ですが、植物、動物、真菌で広く発生します。"
+    }
+  },
+  {
+    "page_number": 420,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 18.7b, which of the following statements is true regarding the relationship between histone acetylation, chromatin structure, and DNA accessibility?",
+      "zh": "根据图18.7b，关于组蛋白乙酰化、染色质结构和DNA可及性之间关系的以下哪项陈述是正确的？",
+      "es": "Basado en la Figura 18.7b, ¿cuál de las siguientes afirmaciones es verdadera con respecto a la relación entre la acetilación de histonas, la estructura de la cromatina y la accesibilidad del ADN?",
+      "fr": "Selon la Figure 18.7b, lequel des énoncés suivants est vrai concernant la relation entre l'acétylation des histones, la structure de la chromatine et l'accessibilité de l'ADN ?",
+      "de": "Basierend auf Abbildung 18.7b, welche der folgenden Aussagen trifft auf die Beziehung zwischen Histonacetylierung, Chromatin-Struktur und DNA-Zugänglichkeit zu?",
+      "ja": "図18.7bに基づくと、ヒストンアセチル化、クロマチン構造、およびDNAアクセス性の関係について、次の記述のどれが正しいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Unacetylated histones are associated with loose chromatin, making DNA accessible for transcription.",
+          "zh": "未乙酰化的组蛋白与疏松的染色质相关，使DNA可用于转录。",
+          "es": "Las histonas no acetiladas se asocian con cromatina laxa, lo que hace que el ADN sea accesible para la transcripción.",
+          "fr": "Les histones non acétylées sont associées à une chromatine lâche, rendant l'ADN accessible à la transcription.",
+          "de": "Unacetylierte Histone sind mit lockerem Chromatin assoziiert, was die DNA für die Transkription zugänglich macht.",
+          "ja": "非アセチル化ヒストンはゆるいクロマチンと関連しており、DNAが転写にアクセス可能になる。"
+        },
+        "feedback": {
+          "en": "Unacetylated histones form compact chromatin where DNA is not accessible for transcription.",
+          "zh": "未乙酰化的组蛋白形成紧密的染色质，DNA无法进行转录。",
+          "es": "Las histonas no acetiladas forman cromatina compacta donde el ADN no es accesible para la transcripción.",
+          "fr": "Les histones non acétylées forment une chromatine compacte où l'ADN n'est pas accessible à la transcription.",
+          "de": "Unacetylierte Histone bilden kompaktes Chromatin, wo die DNA für die Transkription nicht zugänglich ist.",
+          "ja": "非アセチル化ヒストンはコンパクトなクロマチンを形成し、DNAは転写にアクセスできません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Acetylation of histone tails leads to a more condensed chromatin arrangement, inhibiting transcription.",
+          "zh": "组蛋白尾部的乙酰化导致染色质排列更紧密，抑制转录。",
+          "es": "La acetilación de las colas de las histonas conduce a una disposición de la cromatina más condensada, inhibiendo la transcripción.",
+          "fr": "L'acétylation des queues d'histones conduit à un arrangement plus condensé de la chromatine, inhibant la transcription.",
+          "de": "Acetylierung von Histonschwänzen führt zu einer stärker kondensierten Chromatin-Anordnung, die die Transkription hemmt.",
+          "ja": "ヒストン尾部のアセチル化は、より凝縮したクロマチン配置を引き起こし、転写を阻害する。"
+        },
+        "feedback": {
+          "en": "Acetylation of histone tails promotes looser chromatin structure, which permits transcription.",
+          "zh": "组蛋白尾部的乙酰化促进染色质结构疏松，从而允许转录。",
+          "es": "La acetilación de las colas de las histonas promueve una estructura de cromatina más laxa, lo que permite la transcripción.",
+          "fr": "L'acétylation des queues d'histones favorise une structure de chromatine plus lâche, ce qui permet la transcription.",
+          "de": "Die Acetylierung von Histonschwänzen fördert eine lockerere Chromatin-Struktur, die die Transkription ermöglicht.",
+          "ja": "ヒストン尾部のアセチル化は、より緩いクロマチン構造を促進し、転写を可能にします。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "When nucleosomes become highly acetylated, the chromatin becomes less condensed, and the DNA is accessible for transcription.",
+          "zh": "当核小体高度乙酰化时，染色质变得不那么凝集，DNA可用于转录。",
+          "es": "Cuando los nucleosomas se acetilan en gran medida, la cromatina se vuelve menos condensada y el ADN es accesible para la transcripción.",
+          "fr": "Lorsque les nucléosomes deviennent hautement acétylés, la chromatine devient moins condensée et l'ADN est accessible à la transcription.",
+          "de": "Wenn Nukleosomen hochgradig acetyliert werden, wird das Chromatin weniger kondensiert, und die DNA ist für die Transkription zugänglich.",
+          "ja": "核小体が高度にアセチル化されると、クロマチンは凝縮度が低くなり、DNAが転写にアクセス可能になる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA is always accessible for transcription regardless of histone modifications.",
+          "zh": "无论组蛋白修饰如何，DNA始终可用于转录。",
+          "es": "El ADN siempre es accesible para la transcripción, independientemente de las modificaciones de las histonas.",
+          "fr": "L'ADN est toujours accessible à la transcription, quelles que soient les modifications des histones.",
+          "de": "DNA ist immer für die Transkription zugänglich, unabhängig von Histonmodifikationen.",
+          "ja": "ヒストン修飾に関わらず、DNAは常に転写にアクセス可能である。"
+        },
+        "feedback": {
+          "en": "Figure 18.7b clearly shows that unacetylated chromatin has DNA that is \"not accessible for transcription\".",
+          "zh": "图18.7b清楚地显示，未乙酰化的染色质中的DNA是“不适用于转录”的。",
+          "es": "La Figura 18.7b muestra claramente que la cromatina no acetilada tiene ADN que no es \"accesible para la transcripción\".",
+          "fr": "La Figure 18.7b montre clairement que la chromatine non acétylée a de l'ADN qui n'est \"pas accessible à la transcription\".",
+          "de": "Abbildung 18.7b zeigt deutlich, dass unacetyliertes Chromatin DNA enthält, die \"nicht für die Transkription zugänglich\" ist.",
+          "ja": "図18.7bは、非アセチル化クロマチンではDNAが「転写にアクセスできない」ことを明確に示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 18.7b illustrates that when nucleosomes are unacetylated, the chromatin is condensed, and DNA is not accessible for transcription. Conversely, when nucleosomes become highly acetylated, the chromatin becomes less condensed, allowing DNA to be accessible for transcription.",
+      "zh": "图18.7b说明，当核小体未乙酰化时，染色质是紧密的，DNA无法进行转录。相反，当核小体高度乙酰化时，染色质变得不那么凝集，从而允许DNA进行转录。",
+      "es": "La Figura 18.7b ilustra que cuando los nucleosomas no están acetilados, la cromatina está condensada y el ADN no es accesible para la transcripción. Por el contrario, cuando los nucleosomas se acetilan en gran medida, la cromatina se vuelve menos condensada, lo que permite que el ADN sea accesible para la transcripción.",
+      "fr": "La Figure 18.7b illustre que lorsque les nucléosomes ne sont pas acétylés, la chromatine est condensée et l'ADN n'est pas accessible à la transcription. Inversement, lorsque les nucléosomes deviennent hautement acétylés, la chromatine devient moins condensée, permettant à l'ADN d'être accessible à la transcription.",
+      "de": "Abbildung 18.7b veranschaulicht, dass bei unacetylierten Nukleosomen das Chromatin kondensiert ist und die DNA für die Transkription nicht zugänglich ist. Umgekehrt, wenn Nukleosomen stark acetyliert werden, wird das Chromatin weniger kondensiert, wodurch die DNA für die Transkription zugänglich wird.",
+      "ja": "図18.7bは、ヌクレオソームが非アセチル化状態の場合、クロマチンが凝縮しており、DNAが転写にアクセスできないことを示しています。逆に、ヌクレオソームが高度にアセチル化されると、クロマチンは凝縮度が低くなり、DNAが転写にアクセス可能になります。"
+    }
+  },
+  {
+    "page_number": 420,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A research team wants to activate a gene that is currently silenced in a specific cell type. Based on the provided text, which of the following strategies would most likely lead to the activation of this gene?",
+      "zh": "一个研究团队希望激活某个特定细胞类型中当前处于沉默状态的基因。根据所提供的文本，以下哪种策略最有可能导致该基因的激活？",
+      "es": "Un equipo de investigación quiere activar un gen que actualmente está silenciado en un tipo de célula específico. Según el texto proporcionado, ¿cuál de las siguientes estrategias tendría más probabilidades de conducir a la activación de este gen?",
+      "fr": "Une équipe de recherche souhaite activer un gène actuellement silencieux dans un type de cellule spécifique. Selon le texte fourni, laquelle des stratégies suivantes entraînerait le plus probablement l'activation de ce gène ?",
+      "de": "Ein Forschungsteam möchte ein Gen aktivieren, das derzeit in einem bestimmten Zelltyp stillgelegt ist. Basierend auf dem bereitgestellten Text, welche der folgenden Strategien würde höchstwahrscheinlich zur Aktivierung dieses Gens führen?",
+      "ja": "ある研究チームが、特定の細胞型で現在サイレンシングされている遺伝子を活性化したいと考えています。提供されたテキストに基づいて、次の戦略のうち、この遺伝子の活性化に最もつながる可能性が高いのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Introducing enzymes that add methyl groups to the histones associated with the gene.",
+          "zh": "引入在与该基因相关的组蛋白上添加甲基的酶。",
+          "es": "Introducir enzimas que añadan grupos metilo a las histonas asociadas con el gen.",
+          "fr": "Introduire des enzymes qui ajoutent des groupes méthyle aux histones associées au gène.",
+          "de": "Enzyme einführen, die Methylgruppen an die mit dem Gen assoziierten Histone anfügen.",
+          "ja": "その遺伝子に関連するヒストンにメチル基を追加する酵素を導入する。"
+        },
+        "feedback": {
+          "en": "Adding methyl groups to histones typically leads to chromatin condensation and reduced transcription, not activation.",
+          "zh": "在组蛋白上添加甲基通常会导致染色质凝集和转录减少，而非激活。",
+          "es": "Añadir grupos metilo a las histonas suele llevar a la condensación de la cromatina y a la reducción de la transcripción, no a la activación.",
+          "fr": "L'ajout de groupes méthyle aux histones entraîne généralement une condensation de la chromatine et une transcription réduite, et non une activation.",
+          "de": "Das Hinzufügen von Methylgruppen zu Histonen führt typischerweise zu Chromatin-Kondensation und reduzierter Transkription, nicht zur Aktivierung.",
+          "ja": "ヒストンにメチル基を追加すると、通常、クロマチン凝縮と転写の減少を引き起こし、活性化にはつながりません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Enhancing the activity of enzymes that remove methyl groups from the DNA region of the gene.",
+          "zh": "增强从该基因DNA区域移除甲基的酶的活性。",
+          "es": "Mejorar la actividad de las enzimas que eliminan grupos metilo de la región de ADN del gen.",
+          "fr": "Améliorer l'activité des enzymes qui éliminent les groupes méthyle de la région d'ADN du gène.",
+          "de": "Die Aktivität von Enzymen erhöhen, die Methylgruppen aus der DNA-Region des Gens entfernen.",
+          "ja": "遺伝子のDNA領域からメチル基を除去する酵素の活性を強化する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Increasing the density of nucleosomes along the gene's promoter.",
+          "zh": "增加基因启动子区域核小体的密度。",
+          "es": "Aumentar la densidad de nucleosomas a lo largo del promotor del gen.",
+          "fr": "Augmenter la densité des nucléosomes le long du promoteur du gène.",
+          "de": "Die Dichte der Nukleosomen entlang des Promoters des Gens erhöhen.",
+          "ja": "遺伝子のプロモーターに沿ったヌクレオソームの密度を増加させる。"
+        },
+        "feedback": {
+          "en": "The text implies that nucleosome location can affect transcription, and dense packaging generally silences genes. Increasing density would not activate it.",
+          "zh": "文本暗示核小体位置会影响转录，且密集包装通常会沉默基因。增加密度不会激活它。",
+          "es": "El texto implica que la ubicación de los nucleosomas puede afectar la transcripción, y el empaquetamiento denso generalmente silencia los genes. Aumentar la densidad no lo activaría.",
+          "fr": "Le texte implique que la localisation des nucléosomes peut affecter la transcription, et l'empaquetage dense silencie généralement les gènes. L'augmentation de la densité ne l'activerait pas.",
+          "de": "Der Text impliziert, dass die Nukleosomenposition die Transkription beeinflussen kann, und dichte Verpackung legt Gene im Allgemeinen still. Eine Erhöhung der Dichte würde sie nicht aktivieren.",
+          "ja": "テキストは、ヌクレオソームの位置が転写に影響を与える可能性があり、密集したパッキングは一般的に遺伝子をサイレンシングすることを示唆しています。密度を増やすことはそれを活性化しません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Inducing the formation of heterochromatin in the region containing the gene.",
+          "zh": "诱导含有该基因的区域形成异染色质。",
+          "es": "Inducir la formación de heterocromatina en la región que contiene el gen.",
+          "fr": "Induire la formation d'hétérochromatine dans la région contenant le gène.",
+          "de": "Die Bildung von Heterochromatin in der Region, die das Gen enthält, induzieren.",
+          "ja": "遺伝子を含む領域にヘテロクロマチンの形成を誘導する。"
+        },
+        "feedback": {
+          "en": "Heterochromatin is a more densely arranged form of chromatin where genes are usually not expressed.",
+          "zh": "异染色质是染色质的一种更紧密排列形式，其中的基因通常不表达。",
+          "es": "La heterocromatina es una forma de cromatina más densamente organizada donde los genes generalmente no se expresan.",
+          "fr": "L'hétérochromatine est une forme de chromatine plus densément arrangée où les gènes ne sont généralement pas exprimés.",
+          "de": "Heterochromatin ist eine dichter angeordnete Chromatinform, in der Gene normalerweise nicht exprimiert werden.",
+          "ja": "ヘテロクロマチンは、遺伝子が通常発現されない、より密に配置されたクロマチンの形態です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that 'Removal of the extra methyl groups can turn on some of these genes' regarding DNA methylation. Therefore, enhancing the removal of methyl groups from the DNA region of the silenced gene would be a likely strategy for activation.",
+      "zh": "文本中提到，关于DNA甲基化，“去除多余的甲基可以开启其中一些基因”。因此，增强从沉默基因DNA区域移除甲基的酶的活性，将是激活该基因的有效策略。",
+      "es": "El texto afirma que 'La eliminación de los grupos metilo adicionales puede activar algunos de estos genes' con respecto a la metilación del ADN. Por lo tanto, mejorar la eliminación de los grupos metilo de la región de ADN del gen silenciado sería una estrategia probable para su activación.",
+      "fr": "Le texte indique que « l'élimination des groupes méthyle supplémentaires peut activer certains de ces gènes » concernant la méthylation de l'ADN. Par conséquent, l'amélioration de l'activité des enzymes qui éliminent les groupes méthyle de la région d'ADN du gène silencieux serait une stratégie probable pour son activation.",
+      "de": "Der Text besagt, dass \"Die Entfernung der zusätzlichen Methylgruppen einige dieser Gene einschalten kann\" bezüglich der DNA-Methylierung. Daher wäre die Erhöhung der Aktivität von Enzymen, die Methylgruppen aus der DNA-Region des stillgelegten Gens entfernen, eine wahrscheinliche Strategie zur Aktivierung dieses Gens.",
+      "ja": "テキストには、DNAメチル化に関して「余分なメチル基の除去は、これらの遺伝子の一部をオンにできる」と述べられています。したがって、サイレンシングされた遺伝子のDNA領域からメチル基を除去する酵素の活性を強化することは、その遺伝子を活性化するための有効な戦略となるでしょう。"
+    }
+  }
+]

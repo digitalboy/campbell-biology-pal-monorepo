@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the diagram, what happens to the two alleles for a character during gamete formation?",
+      "zh": "根据图示，在配子形成过程中，控制一个性状的两个等位基因会发生什么？",
+      "es": "Según el diagrama, ¿qué les sucede a los dos alelos de un carácter durante la formación de los gametos?",
+      "fr": "Selon le diagramme, qu'advient-il des deux allèles d'un caractère lors de la formation des gamètes ?",
+      "de": "Was geschieht laut dem Diagramm mit den beiden Allelen für ein Merkmal während der Gametenbildung?",
+      "ja": "図によると、配偶子形成中に形質の2つの対立遺伝子はどうなりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They both end up in the same gamete.",
+          "zh": "它们最终都进入同一个配子中。",
+          "es": "Ambos terminan en el mismo gameto.",
+          "fr": "Ils se retrouvent tous les deux dans le même gamète.",
+          "de": "Sie landen beide im selben Gameten.",
+          "ja": "両方とも同じ配偶子に行き着きます。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The Law of Segregation states that they separate.",
+          "zh": "这是不正确的。分离定律指出它们会分离。",
+          "es": "Esto es incorrecto. La Ley de la Segregación establece que se separan.",
+          "fr": "C'est incorrect. La loi de la ségrégation stipule qu'ils se séparent.",
+          "de": "Das ist falsch. Das Gesetz der Segregation besagt, dass sie sich trennen.",
+          "ja": "これは誤りです。分離の法則では、それらは分離すると述べられています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They are duplicated, so each gamete receives four alleles.",
+          "zh": "它们被复制，因此每个配子接收四个等位基因。",
+          "es": "Se duplican, por lo que cada gameto recibe cuatro alelos.",
+          "fr": "Ils sont dupliqués, de sorte que chaque gamète reçoit quatre allèles.",
+          "de": "Sie werden dupliziert, sodass jeder Gamet vier Allele erhält.",
+          "ja": "それらは複製されるため、各配偶子は4つの対立遺伝子を受け取ります。"
+        },
+        "feedback": {
+          "en": "Alleles are on chromosomes, and while chromosomes are duplicated before meiosis, a gamete ends up with only one allele for each character.",
+          "zh": "等位基因位于染色体上，虽然染色体在减数分裂前会复制，但一个配子最终只获得每个性状的一个等位基因。",
+          "es": "Los alelos están en los cromosomas y, si bien los cromosomas se duplican antes de la meiosis, un gameto termina con un solo alelo para cada carácter.",
+          "fr": "Les allèles se trouvent sur les chromosomes, et bien que les chromosomes soient dupliqués avant la méiose, un gamète ne se retrouve qu'avec un seul allèle pour chaque caractère.",
+          "de": "Allele befinden sich auf Chromosomen, und obwohl Chromosomen vor der Meiose dupliziert werden, endet ein Gamet mit nur einem Allel für jedes Merkmal.",
+          "ja": "対立遺伝子は染色体上にあり、染色体は減数分裂の前に複製されますが、配偶子は各形質について1つの対立遺伝子しか持ちません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They segregate (separate) from each other, ending up in different gametes.",
+          "zh": "它们彼此分离，最终进入不同的配子中。",
+          "es": "Se segregan (separan) el uno del otro, terminando en diferentes gametos.",
+          "fr": "Ils se séparent les uns des autres pour se retrouver dans des gamètes différents.",
+          "de": "Sie trennen sich voneinander und landen in verschiedenen Gameten.",
+          "ja": "それらは互いに分離し、異なる配偶子に行き着きます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "One of the alleles is destroyed, so the gamete has only one.",
+          "zh": "其中一个等位基因被破坏，因此配子只有一个。",
+          "es": "Uno de los alelos se destruye, por lo que el gameto solo tiene uno.",
+          "fr": "L'un des allèles est détruit, de sorte que le gamète n'en a qu'un.",
+          "de": "Eines der Allele wird zerstört, sodass der Gamet nur eines hat.",
+          "ja": "対立遺伝子の1つが破壊されるため、配偶子は1つしか持ちません。"
+        },
+        "feedback": {
+          "en": "Alleles are not destroyed; they are segregated into different cells.",
+          "zh": "等位基因不会被破坏；它们被分离到不同的细胞中。",
+          "es": "Los alelos no se destruyen; se segregan en diferentes células.",
+          "fr": "Les allèles ne sont pas détruits ; ils sont ségrégués dans des cellules différentes.",
+          "de": "Allele werden nicht zerstört; sie werden in verschiedene Zellen getrennt.",
+          "ja": "対立遺伝子は破壊されません。それらは異なる細胞に分離されます。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The diagram explicitly states, 'The two alleles segregate (separate) during gamete formation, ending up in different gametes.' This is the core principle of Mendel's Law of Segregation.",
+      "zh": "图示明确说明：“在配子形成过程中，两个等位基因彼此分离，最终进入不同的配子中。”这是孟德尔分离定律的核心原则。",
+      "es": "El diagrama dice explícitamente: 'Los dos alelos se segregan (separan) durante la formación de los gametos, terminando en diferentes gametos'. Este es el principio fundamental de la Ley de la Segregación de Mendel.",
+      "fr": "Le diagramme indique explicitement : « Les deux allèles se séparent lors de la formation des gamètes, pour se retrouver dans des gamètes différents ». C'est le principe fondamental de la loi de la ségrégation de Mendel.",
+      "de": "Das Diagramm besagt ausdrücklich: „Die beiden Allele trennen sich während der Gametenbildung und landen in verschiedenen Gameten.“ Dies ist das Kernprinzip des Mendelschen Gesetzes der Segregation.",
+      "ja": "図には、「配偶子形成中に2つの対立遺伝子が分離し、異なる配偶子に行き着く」と明記されています。これがメンデルの分離の法則の核心的な原則です。"
+    }
+  },
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the term for alternative versions of a gene?",
+      "zh": "一个基因的不同版本被称为什么？",
+      "es": "¿Cuál es el término para las versiones alternativas de un gen?",
+      "fr": "Quel est le terme désignant les versions alternatives d'un gène ?",
+      "de": "Was ist der Begriff für alternative Versionen eines Gens?",
+      "ja": "遺伝子の代替バージョンの用語は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Characters",
+          "zh": "性状",
+          "es": "Caracteres",
+          "fr": "Caractères",
+          "de": "Merkmale",
+          "ja": "形質"
+        },
+        "feedback": {
+          "en": "A character is a heritable feature, like flower color. The different versions of the gene for that character are called alleles.",
+          "zh": "性状是可遗传的特征，如花的颜色。控制该性状的基因的不同版本被称为等位基因。",
+          "es": "Un carácter es una característica heredable, como el color de la flor. Las diferentes versiones del gen para ese carácter se llaman alelos.",
+          "fr": "Un caractère est une caractéristique héréditaire, comme la couleur d'une fleur. Les différentes versions du gène pour ce caractère sont appelées allèles.",
+          "de": "Ein Merkmal ist ein vererbbares Merkmal, wie die Blütenfarbe. Die verschiedenen Versionen des Gens für dieses Merkmal werden Allele genannt.",
+          "ja": "形質は、花の色のような遺伝可能な特徴です。その形質の遺伝子の異なるバージョンは対立遺伝子と呼ばれます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Gametes",
+          "zh": "配子",
+          "es": "Gametos",
+          "fr": "Gamètes",
+          "de": "Gameten",
+          "ja": "配偶子"
+        },
+        "feedback": {
+          "en": "Gametes are reproductive cells (sperm or egg), not versions of a gene.",
+          "zh": "配子是生殖细胞（精子或卵子），而不是基因的版本。",
+          "es": "Los gametos son células reproductoras (espermatozoides u óvulos), no versiones de un gen.",
+          "fr": "Les gamètes sont des cellules reproductrices (spermatozoïdes ou ovules), pas des versions d'un gène.",
+          "de": "Gameten sind Fortpflanzungszellen (Spermien oder Eizellen), keine Versionen eines Gens.",
+          "ja": "配偶子は生殖細胞（精子または卵子）であり、遺伝子のバージョンではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Chromosomes",
+          "zh": "染色体",
+          "es": "Cromosomas",
+          "fr": "Chromosomes",
+          "de": "Chromosomen",
+          "ja": "染色体"
+        },
+        "feedback": {
+          "en": "Chromosomes are the structures that carry genes, but they are not the alternative versions of the genes themselves.",
+          "zh": "染色体是承载基因的结构，但它们不是基因本身的不同版本。",
+          "es": "Los cromosomas son las estructuras que portan los genes, pero no son las versiones alternativas de los genes en sí.",
+          "fr": "Les chromosomes sont les structures qui portent les gènes, mais ils ne sont pas les versions alternatives des gènes eux-mêmes.",
+          "de": "Chromosomen sind die Strukturen, die Gene tragen, aber sie sind nicht die alternativen Versionen der Gene selbst.",
+          "ja": "染色体は遺伝子を運ぶ構造ですが、遺伝子自体の代替バージョンではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Alleles",
+          "zh": "等位基因",
+          "es": "Alelos",
+          "fr": "Allèles",
+          "de": "Allele",
+          "ja": "対立遺伝子"
+        }
+      }
+    ],
+    "correct_answers": ["D"],
+    "explanation": {
+      "en": "The text explicitly states: 'Alternative versions of a gene (alleles) account for different traits.'",
+      "zh": "文本明确说明：“一个基因的不同版本（等位基因）导致了不同的性状。”",
+      "es": "El texto dice explícitamente: 'Las versiones alternativas de un gen (alelos) explican los diferentes rasgos'.",
+      "fr": "Le texte indique explicitement : « Les versions alternatives d'un gène (allèles) expliquent les différents caractères. »",
+      "de": "Der Text besagt ausdrücklich: „Alternative Versionen eines Gens (Allele) sind für unterschiedliche Merkmale verantwortlich.“",
+      "ja": "本文には、「遺伝子の代替バージョン（対立遺伝子）が異なる形質を説明する」と明記されています。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In the example of flower color, the purple allele is dominant and the white allele is recessive. If a purple-flowered offspring inherits one purple allele and one white allele, what determines its appearance?",
+      "zh": "在花色的例子中，紫色等位基因是显性的，白色等位基因是隐性的。如果一个紫花后代遗传了一个紫色等位基因和一个白色等位基因，什么决定了它的外观？",
+      "es": "En el ejemplo del color de la flor, el alelo púrpura es dominante y el alelo blanco es recesivo. Si una descendencia de flores púrpuras hereda un alelo púrpura y un alelo blanco, ¿qué determina su apariencia?",
+      "fr": "Dans l'exemple de la couleur des fleurs, l'allèle violet est dominant et l'allèle blanc est récessif. Si une progéniture à fleurs violettes hérite d'un allèle violet et d'un allèle blanc, qu'est-ce qui détermine son apparence ?",
+      "de": "Im Beispiel der Blütenfarbe ist das violette Allel dominant und das weiße Allel rezessiv. Wenn ein Nachkomme mit violetter Blüte ein violettes Allel und ein weißes Allel erbt, was bestimmt dann sein Aussehen?",
+      "ja": "花の色を例にとると、紫色の対立遺伝子は優性であり、白色の対立遺伝子は劣性です。紫色の花の子孫が1つの紫色の対立遺伝子と1つの白色の対立遺伝子を遺伝した場合、その外観を決定するのは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The two alleles blend to create a light purple color.",
+          "zh": "两个等位基因混合，产生淡紫色的花。",
+          "es": "Los dos alelos se mezclan para crear un color púrpura claro.",
+          "fr": "Les deux allèles se mélangent pour créer une couleur violet clair.",
+          "de": "Die beiden Allele vermischen sich zu einer hellvioletten Farbe.",
+          "ja": "2つの対立遺伝子が混ざり合って、薄紫色の花ができます。"
+        },
+        "feedback": {
+          "en": "This describes incomplete dominance, which is a more complex pattern. In this simple Mendelian case, one allele masks the other.",
+          "zh": "这描述的是不完全显性，是一种更复杂的模式。在这个简单的孟德尔遗传案例中，一个等位基因会掩盖另一个。",
+          "es": "Esto describe la dominancia incompleta, que es un patrón más complejo. En este caso mendeliano simple, un alelo enmascara al otro.",
+          "fr": "Ceci décrit la dominance incomplète, qui est un schéma plus complexe. Dans ce cas mendélien simple, un allèle masque l'autre.",
+          "de": "Dies beschreibt unvollständige Dominanz, ein komplexeres Muster. In diesem einfachen Mendelschen Fall maskiert ein Allel das andere.",
+          "ja": "これは不完全優性と呼ばれる、より複雑なパターンを説明しています。この単純なメンデルの法則のケースでは、一方の対立遺伝子がもう一方を覆い隠します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The dominant allele (purple) determines the appearance.",
+          "zh": "显性等位基因（紫色）决定了外观。",
+          "es": "El alelo dominante (púrpura) determina la apariencia.",
+          "fr": "L'allèle dominant (violet) détermine l'apparence.",
+          "de": "Das dominante Allel (violett) bestimmt das Aussehen.",
+          "ja": "優性対立遺伝子（紫色）が外観を決定します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The recessive allele (white) determines the appearance.",
+          "zh": "隐性等位基因（白色）决定了外观。",
+          "es": "El alelo recesivo (blanco) determina la apariencia.",
+          "fr": "L'allèle récessif (blanc) détermine l'apparence.",
+          "de": "Das rezessive Allel (weiß) bestimmt das Aussehen.",
+          "ja": "劣性対立遺伝子（白色）が外観を決定します。"
+        },
+        "feedback": {
+          "en": "The recessive allele is masked by the dominant allele and is only expressed when two copies are present.",
+          "zh": "隐性等位基因被显性等位基因所掩盖，只有当存在两个拷贝时才会表达。",
+          "es": "El alelo recesivo está enmascarado por el alelo dominante y solo se expresa cuando hay dos copias presentes.",
+          "fr": "L'allèle récessif est masqué par l'allèle dominant et ne s'exprime que lorsque deux copies sont présentes.",
+          "de": "Das rezessive Allel wird vom dominanten Allel maskiert und wird nur exprimiert, wenn zwei Kopien vorhanden sind.",
+          "ja": "劣性対立遺伝子は優性対立遺伝子によって覆い隠され、2つのコピーが存在する場合にのみ発現します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both alleles are expressed, resulting in purple and white spots.",
+          "zh": "两个等位基因都表达，导致花上出现紫色和白色的斑点。",
+          "es": "Ambos alelos se expresan, lo que da como resultado manchas púrpuras y blancas.",
+          "fr": "Les deux allèles sont exprimés, ce qui donne des taches violettes et blanches.",
+          "de": "Beide Allele werden exprimiert, was zu lila und weißen Flecken führt.",
+          "ja": "両方の対立遺伝子が発現し、紫と白の斑点ができます。"
+        },
+        "feedback": {
+          "en": "This describes codominance, another complex pattern. In simple dominance, only the dominant allele's trait is seen.",
+          "zh": "这描述的是共显性，是另一种复杂的模式。在完全显性中，只看得到显性等位基因的性状。",
+          "es": "Esto describe la codominancia, otro patrón complejo. En la dominancia simple, solo se ve el rasgo del alelo dominante.",
+          "fr": "Ceci décrit la codominance, un autre schéma complexe. Dans la dominance simple, seul le trait de l'allèle dominant est visible.",
+          "de": "Dies beschreibt die Kodominanz, ein weiteres komplexes Muster. Bei einfacher Dominanz ist nur das Merkmal des dominanten Allels sichtbar.",
+          "ja": "これは共優性と呼ばれる、別の複雑なパターンを説明しています。単純な優性では、優性対立遺伝子の形質のみが見られます。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The diagram text states: 'When the two alleles are different, one allele (here, purple) determines the appearance.' This is the principle of dominance in Mendelian genetics.",
+      "zh": "图示文本说明：“当两个等位基因不同时，其中一个等位基因（这里是紫色）决定了外观。”这是孟德尔遗传学中的显性原则。",
+      "es": "El texto del diagrama dice: 'Cuando los dos alelos son diferentes, un alelo (aquí, el púrpura) determina la apariencia'. Este es el principio de dominancia en la genética mendeliana.",
+      "fr": "Le texte du diagramme indique : « Lorsque les deux allèles sont différents, un allèle (ici, le violet) détermine l'apparence ». C'est le principe de la dominance en génétique mendélienne.",
+      "de": "Der Diagrammtext besagt: „Wenn die beiden Allele unterschiedlich sind, bestimmt ein Allel (hier lila) das Aussehen.“ Dies ist das Prinzip der Dominanz in der Mendelschen Genetik.",
+      "ja": "図のテキストには、「2つの対立遺伝子が異なる場合、一方の対立遺伝子（ここでは紫色）が外観を決定する」と記載されています。これがメンデル遺伝学における優性の法則です。"
+    }
+  }
+]

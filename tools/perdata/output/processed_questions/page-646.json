@@ -1,0 +1,326 @@
+[
+  {
+    "page_number": 646,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the information provided, particularly concerning chlorarachniophytes and their nucleomorph, how many distinct genomes are expected to be present within a single cell of a chlorarachniophyte?",
+      "zh": "根据所提供的信息，特别是关于绿藻虫及其核形体的描述，一个绿藻虫细胞中预计包含多少种不同的基因组？",
+      "es": "Según la información proporcionada, particularmente en lo que respecta a los cloraraquiniófitos y su nucleomorfo, ¿cuántos genomas distintos se espera que estén presentes dentro de una sola célula de un cloraraquiniófito?",
+      "fr": "D'après les informations fournies, notamment concernant les chlorarachniophytes et leur nucléomorphe, combien de génomes distincts devrait-on trouver dans une seule cellule de chlorarachniophyte ?",
+      "de": "Basierend auf den bereitgestellten Informationen, insbesondere bezüglich Chlorarachniophyten und deren Nukleomorph, wie viele unterschiedliche Genome werden voraussichtlich in einer einzelnen Zelle eines Chlorarachniophyten vorhanden sein?",
+      "ja": "提供された情報、特にクロララクニオ藻とその核形体に関する情報に基づいて、クロララクニオ藻の単一細胞内にいくつの異なるゲノムが存在すると予想されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "2 (Host nucleus, Plastid)",
+          "zh": "2个（宿主细胞核、质体）",
+          "es": "2 (Núcleo del huésped, Plástido)",
+          "fr": "2 (Noyau de l'hôte, Plaste)",
+          "de": "2 (Wirtszellkern, Plastid)",
+          "ja": "2個（宿主核、色素体）"
+        },
+        "feedback": {
+          "en": "This option overlooks the host's mitochondrial genome and the nucleomorph, which is a remnant nucleus of the engulfed alga.",
+          "zh": "该选项忽略了宿主细胞的线粒体基因组和核形体（被吞噬藻类的残余细胞核）。",
+          "es": "Esta opción pasa por alto el genoma mitocondrial del huésped y el nucleomorfo, que es un núcleo remanente del alga engullida.",
+          "fr": "Cette option omet le génome mitochondrial de l'hôte et le nucléomorphe, qui est un noyau résiduel de l'algue engloutie.",
+          "de": "Diese Option übersieht das mitochondriale Genom des Wirts und den Nukleomorph, der ein Restkern der verschluckten Alge ist.",
+          "ja": "この選択肢では、宿主のミトコンドリアゲノムと、取り込まれた藻類の残存核である核形体が考慮されていません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "3 (Host nucleus, Host mitochondria, Plastid)",
+          "zh": "3个（宿主细胞核、宿主线粒体、质体）",
+          "es": "3 (Núcleo del huésped, Mitocondrias del huésped, Plástido)",
+          "fr": "3 (Noyau de l'hôte, Mitochondries de l'hôte, Plaste)",
+          "de": "3 (Wirtszellkern, Wirtsmitochondrien, Plastid)",
+          "ja": "3個（宿主核、宿主ミトコンドリア、色素体）"
+        },
+        "feedback": {
+          "en": "This option correctly identifies the host's nuclear and mitochondrial genomes, and the plastid genome, but still misses the distinct nucleomorph genome from the secondary endosymbiont.",
+          "zh": "该选项正确识别了宿主细胞核和线粒体基因组以及质体基因组，但仍遗漏了来自次生内共生体的独特核形体基因组。",
+          "es": "Esta opción identifica correctamente los genomas nuclear y mitocondrial del huésped, y el genoma del plástido, pero aún pasa por alto el genoma distinto del nucleomorfo del endosimbionte secundario.",
+          "fr": "Cette option identifie correctement les génomes nucléaire et mitochondrial de l'hôte, ainsi que le génome du plaste, mais elle omet toujours le génome distinct du nucléomorphe provenant de l'endosymbionte secondaire.",
+          "de": "Diese Option identifiziert korrekt die Kern- und mitochondrialen Genome des Wirts sowie das Plastidengenom, übersieht aber immer noch das separate Nukleomorphgenom des sekundären Endosymbionten.",
+          "ja": "この選択肢では、宿主の核ゲノムとミトコンドリアゲノム、および色素体ゲノムは正しく特定されていますが、二次共生体由来の独立した核形体ゲノムが欠落しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "4 (Host nucleus, Host mitochondria, Nucleomorph, Plastid)",
+          "zh": "4个（宿主细胞核、宿主线粒体、核形体、质体）",
+          "es": "4 (Núcleo del huésped, Mitocondrias del huésped, Nucleomorfo, Plástido)",
+          "fr": "4 (Noyau de l'hôte, Mitochondries de l'hôte, Nucléomorphe, Plaste)",
+          "de": "4 (Wirtszellkern, Wirtsmitochondrien, Nukleomorph, Plastid)",
+          "ja": "4個（宿主核、宿主ミトコンドリア、核形体、色素体）"
+        },
+        "feedback": {
+          "en": "Correct. A chlorarachniophyte has its own nuclear and mitochondrial genomes, plus the nucleomorph (remnant nucleus of the engulfed green alga) and the plastid (chloroplast from the alga), each with distinct genomes.",
+          "zh": "正确。绿藻虫拥有自己的细胞核基因组和线粒体基因组，以及核形体（被吞噬绿藻的残余细胞核）和质体（来自藻类的叶绿体），它们各自拥有独特的基因组。",
+          "es": "Correcto. Un cloraraquiniófito tiene sus propios genomas nuclear y mitocondrial, además del nucleomorfo (núcleo remanente del alga verde engullida) y el plástido (cloroplasto del alga), cada uno con genomas distintos.",
+          "fr": "Correct. Un chlorarachniophyte possède ses propres génomes nucléaire et mitochondrial, ainsi que le nucléomorphe (noyau résiduel de l'algue verte engloutie) et le plaste (chloroplaste de l'algue), chacun possédant des génomes distincts.",
+          "de": "Korrekt. Ein Chlorarachniophyt besitzt sein eigenes Kern- und mitochondriales Genom, zusätzlich zum Nukleomorph (Restkern der verschluckten Grünalge) und dem Plastiden (Chloroplasten der Alge), die jeweils unterschiedliche Genome aufweisen.",
+          "ja": "正解です。クロララクニオ藻は自身の核ゲノムとミトコンドリアゲノムに加えて、核形体（取り込まれた緑藻の残存核）と色素体（藻類に由来する葉緑体）を持っており、それぞれが異なるゲノムを有しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "5 (Host nucleus, Host mitochondria, Nucleomorph, Plastid, Remnant alga mitochondria)",
+          "zh": "5个（宿主细胞核、宿主线粒体、核形体、质体、残余藻类线粒体）",
+          "es": "5 (Núcleo del huésped, Mitocondrias del huésped, Nucleomorfo, Plástido, Mitocondrias de alga remanentes)",
+          "fr": "5 (Noyau de l'hôte, Mitochondries de l'hôte, Nucléomorphe, Plaste, Mitochondries d'algues résiduelles)",
+          "de": "5 (Wirtszellkern, Wirtsmitochondrien, Nukleomorph, Plastid, Restalgenmitochondrien)",
+          "ja": "5個（宿主核、宿主ミトコンドリア、核形体、色素体、残存藻類ミトコンドリア）"
+        },
+        "feedback": {
+          "en": "While theoretically possible for remnant organelles, the text does not indicate that functional mitochondria from the engulfed alga are retained as a distinct, active genome within the chlorarachniophyte cell after secondary endosymbiosis. Typically, endosymbiont mitochondria are lost or become redundant.",
+          "zh": "虽然理论上残余细胞器可能存在，但文本并未表明被吞噬藻类的功能性线粒体在次生内共生后作为独特的、活跃的基因组保留在绿藻虫细胞内。通常，内共生体的线粒体会被丢失或变得多余。",
+          "es": "Aunque teóricamente posible para orgánulos remanentes, el texto no indica que las mitocondrias funcionales del alga engullida se retengan como un genoma distinto y activo dentro de la célula de cloraraquiniófito después de la endosimbiosis secundaria. Típicamente, las mitocondrias del endosimbionte se pierden o se vuelven redundantes.",
+          "fr": "Bien que théoriquement possible pour les organites résiduels, le texte n'indique pas que les mitochondries fonctionnelles de l'algue engloutie soient conservées comme un génome distinct et actif au sein de la cellule de chlorarachniophyte après l'endosymbiose secondaire. Typiquement, les mitochondries de l'endosymbionte sont perdues ou deviennent redondantes.",
+          "de": "Obwohl theoretisch für Restorganellen möglich, deutet der Text nicht darauf hin, dass funktionelle Mitochondrien der verschluckten Alge nach der sekundären Endosymbiose als eigenständiges, aktives Genom in der Chlorarachniophytenzelle erhalten bleiben. Typischerweise gehen Endosymbionten-Mitochondrien verloren oder werden redundant.",
+          "ja": "理論的には残存オルガネラとして可能ですが、二次共生後、取り込まれた藻類の機能的なミトコンドリアが、クロララクニオ藻細胞内で独立した活動的なゲノムとして保持されるとは、本文では示唆されていません。通常、共生体のミトコンドリアは失われるか、冗長になります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "A chlorarachniophyte is a product of secondary endosymbiosis, where a eukaryotic host cell engulfed a green alga (also a eukaryote). Therefore, the chlorarachniophyte cell would contain: 1. The host's nuclear genome. 2. The host's mitochondrial genome. 3. The nucleomorph, which is the vestigial nucleus of the engulfed green alga. 4. The plastid (derived from the green alga's chloroplast), which contains its own genome.",
+      "zh": "绿藻虫是次生内共生的产物，即一个真核宿主细胞吞噬了一个绿藻（也是真核生物）。因此，绿藻虫细胞将包含：1. 宿主细胞的核基因组。2. 宿主细胞的线粒体基因组。3. 核形体，即被吞噬绿藻的残余细胞核。4. 质体（源自绿藻的叶绿体），其中包含其自身的基因组。",
+      "es": "Un cloraraquiniófito es un producto de endosimbiosis secundaria, donde una célula eucariota huésped engulló un alga verde (también un eucariota). Por lo tanto, la célula de cloraraquiniófito contendría: 1. El genoma nuclear del huésped. 2. El genoma mitocondrial del huésped. 3. El nucleomorfo, que es el núcleo vestigial del alga verde engullida. 4. El plástido (derivado del cloroplasto del alga verde), que contiene su propio genoma.",
+      "fr": "Un chlorarachniophyte est le produit d'une endosymbiose secondaire, où une cellule hôte eucaryote a ingéré une algue verte (également un eucaryote). Par conséquent, la cellule de chlorarachniophyte contiendrait : 1. Le génome nucléaire de l'hôte. 2. Le génome mitochondrial de l'hôte. 3. Le nucléomorphe, qui est le noyau vestigial de l'algue verte engloutie. 4. Le plaste (dérivé du chloroplaste de l'algue verte), qui contient son propre génome.",
+      "de": "Ein Chlorarachniophyt ist ein Produkt der sekundären Endosymbiose, bei der eine eukaryotische Wirtszelle eine Grünalge (ebenfalls ein Eukaryot) aufnahm. Daher würde die Chlorarachniophytenzelle Folgendes enthalten: 1. Das Kern-Genom des Wirts. 2. Das mitochondriale Genom des Wirts. 3. Den Nukleomorph, der der rudimentäre Kern der verschluckten Grünalge ist. 4. Den Plastiden (abgeleitet vom Chloroplasten der Grünalge), der sein eigenes Genom enthält.",
+      "ja": "クロララクニオ藻は、真核宿主細胞が緑藻（これも真核生物）を取り込んだ二次共生の結果です。したがって、クロララクニオ藻の細胞には以下が含まれます: 1. 宿主の核ゲノム。2. 宿主のミトコンドリアゲノム。3. 取り込まれた緑藻の痕跡的な核である核形体。4. （緑藻の葉緑体に由来する）色素体で、自身のゲノムを持っています。"
+    }
+  },
+  {
+    "page_number": 646,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately reflects the current understanding regarding 'amitochondriate protists' as discussed in the text?",
+      "zh": "根据文中讨论，以下哪项陈述准确反映了当前对“无线粒体原生生物”的理解？",
+      "es": "¿Cuál de las siguientes afirmaciones refleja con precisión la comprensión actual con respecto a los 'protistas amitochondriados' tal como se discute en el texto?",
+      "fr": "Parmi les affirmations suivantes, laquelle reflète avec précision la compréhension actuelle concernant les « protistes amitochondriaques » telle que discutée dans le texte ?",
+      "de": "Welche der folgenden Aussagen gibt das aktuelle Verständnis bezüglich 'amitochondrialer Protisten' gemäß dem Text korrekt wieder?",
+      "ja": "本文で議論されている「アミトコンドリア原生生物」に関する現在の理解を正確に反映している記述は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They are now considered the earliest diverging lineage of all eukaryotes.",
+          "zh": "它们现在被认为是所有真核生物中最早期分化的谱系。",
+          "es": "Ahora se les considera el linaje más temprano de todos los eucariotas.",
+          "fr": "Ils sont maintenant considérés comme la lignée la plus ancienne de tous les eucaryotes.",
+          "de": "Sie gelten heute als die am frühesten divergierende Linie aller Eukaryoten.",
+          "ja": "これらは現在、すべての真核生物の最も初期に分岐した系統であると考えられています。"
+        },
+        "feedback": {
+          "en": "This was a former hypothesis, but recent structural and DNA data have undermined it.",
+          "zh": "这曾是一个假说，但最近的结构和DNA数据已经颠覆了它。",
+          "es": "Esta fue una hipótesis anterior, pero datos estructurales y de ADN recientes la han refutado.",
+          "fr": "C'était une ancienne hypothèse, mais des données structurelles et ADN récentes l'ont remise en question.",
+          "de": "Dies war eine frühere Hypothese, die jedoch durch neuere Struktur- und DNA-Daten widerlegt wurde.",
+          "ja": "これは以前の仮説でしたが、最近の構造データとDNAデータによってその説は覆されました。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They completely lack mitochondria and are classified as a single, distinct supergroup.",
+          "zh": "它们完全缺乏线粒体，并被归类为一个独立的、独特的超群。",
+          "es": "Carecen completamente de mitocondrias y se clasifican como un supergrupo único y distinto.",
+          "fr": "Ils manquent complètement de mitochondries et sont classés comme un supergroupe unique et distinct.",
+          "de": "Sie besitzen keine Mitochondrien und werden als eine einzige, eigenständige Supergruppe klassifiziert.",
+          "ja": "これらはミトコンドリアを完全に欠いており、単一の明確な超群として分類されています。"
+        },
+        "feedback": {
+          "en": "The text states they have 'reduced ones' (mitochondria) and are now classified into 'distantly related groups,' not a single supergroup.",
+          "zh": "文中指出它们拥有“退化的线粒体”，且现在被归类到“远缘相关的群体”中，而非一个单一的超群。",
+          "es": "El texto afirma que tienen 'reducidas' (mitocondrias) y ahora se clasifican en 'grupos distantemente relacionados', no en un único supergrupo.",
+          "fr": "Le texte indique qu'ils possèdent des mitochondries 'réduites' et sont maintenant classés dans des 'groupes éloignés', et non dans un seul supergroupe.",
+          "de": "Der Text besagt, dass sie 'reduzierte' (Mitochondrien) besitzen und heute in 'weit entfernte Gruppen' klassifiziert werden, nicht in eine einzelne Supergruppe.",
+          "ja": "本文では、これらは「退化したミトコンドリア」を持っており、単一の超群ではなく「遠縁の異なるグループ」に分類されていると述べられています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Recent data reveals they possess highly reduced mitochondria and are placed in various distantly related groups.",
+          "zh": "最新数据显示它们拥有高度退化的线粒体，并被归类到各种远缘相关的群体中。",
+          "es": "Datos recientes revelan que poseen mitocondrias muy reducidas y se clasifican en varios grupos distantemente relacionados.",
+          "fr": "Des données récentes révèlent qu'ils possèdent des mitochondries fortement réduites et sont placés dans divers groupes éloignés.",
+          "de": "Neuere Daten zeigen, dass sie stark reduzierte Mitochondrien besitzen und in verschiedene, entfernt verwandte Gruppen eingeordnet werden.",
+          "ja": "最近のデータにより、これらは高度に退化したミトコンドリアを有しており、様々な遠縁のグループに分類されていることが明らかになりました。"
+        },
+        "feedback": {
+          "en": "This statement accurately reflects the current understanding discussed in the text, highlighting the shift from previous hypotheses.",
+          "zh": "该陈述准确反映了文中讨论的当前理解，强调了与先前假说的转变。",
+          "es": "Esta afirmación refleja con precisión la comprensión actual discutida en el texto, destacando el cambio con respecto a hipótesis anteriores.",
+          "fr": "Cette affirmation reflète avec précision la compréhension actuelle discutée dans le texte, soulignant le changement par rapport aux hypothèses précédentes.",
+          "de": "Diese Aussage spiegelt das im Text diskutierte aktuelle Verständnis genau wider und hebt die Abkehr von früheren Hypothesen hervor.",
+          "ja": "この記述は本文で議論されている現在の理解を正確に反映しており、以前の仮説からの変化を強調しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Their classification remains unchanged despite new research, confirming their primitive nature.",
+          "zh": "尽管有新的研究，它们的分类仍然保持不变，证实了它们的原始性质。",
+          "es": "Su clasificación permanece inalterada a pesar de nuevas investigaciones, confirmando su naturaleza primitiva.",
+          "fr": "Leur classification reste inchangée malgré de nouvelles recherches, confirmant leur nature primitive.",
+          "de": "Ihre Klassifizierung bleibt trotz neuer Forschung unverändert, was ihre primitive Natur bestätigt.",
+          "ja": "新しい研究にもかかわらず、その分類は変更されておらず、原始的な性質が確認されています。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that 'recent structural and DNA data have undermined this hypothesis' and 'some of these organisms are now classified in distantly related groups,' indicating a significant change in understanding and classification.",
+          "zh": "文中明确指出“最近的结构和DNA数据已经颠覆了这一假说”，并且“这些生物现在被归类到远缘相关的群体中”，这表明对它们的理解和分类发生了重大变化。",
+          "es": "El texto afirma explícitamente que 'datos estructurales y de ADN recientes han refutado esta hipótesis' y 'algunos de estos organismos ahora se clasifican en grupos distantemente relacionados', lo que indica un cambio significativo en la comprensión y clasificación.",
+          "fr": "Le texte indique explicitement que « des données structurelles et ADN récentes ont remis en question cette hypothèse » et « certains de ces organismes sont maintenant classés dans des groupes éloignés », ce qui indique un changement significatif dans la compréhension et la classification.",
+          "de": "Der Text besagt ausdrücklich, dass 'neuere Struktur- und DNA-Daten diese Hypothese widerlegt haben' und 'einige dieser Organismen heute in entfernt verwandte Gruppen klassifiziert werden', was eine signifikante Änderung im Verständnis und in der Klassifizierung anzeigt.",
+          "ja": "本文では「最近の構造データとDNAデータによってこの仮説は覆された」と明示されており、「これらの生物の一部は現在、遠縁の異なるグループに分類されている」と記されているため、理解と分類に大きな変化があったことが示されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explains that while 'amitochondriate protists' were once thought to be the earliest lineage without conventional mitochondria, recent data (structural and DNA) has shown that many possess reduced mitochondria and are now classified into various distantly related groups, undermining the initial hypothesis.",
+      "zh": "文中解释道，虽然“无线粒体原生生物”曾被认为是缺乏传统线粒体且最早分化的谱系，但最近的数据（结构和DNA）表明，许多这类生物拥有退化的线粒体，并且现在被归类到各种远缘相关的群体中，从而颠覆了最初的假说。",
+      "es": "El texto explica que, si bien los 'protistas amitochondriados' alguna vez fueron considerados el linaje más temprano sin mitocondrias convencionales, datos recientes (estructurales y de ADN) han demostrado que muchos poseen mitocondrias reducidas y ahora se clasifican en varios grupos distantemente relacionados, lo que socava la hipótesis inicial.",
+      "fr": "Le texte explique que, bien que les « protistes amitochondriaques » aient été autrefois considérés comme la lignée la plus ancienne sans mitochondries conventionnelles, des données récentes (structurelles et ADN) ont montré que beaucoup possèdent des mitochondries réduites et sont maintenant classés dans divers groupes éloignés, remettant en question l'hypothèse initiale.",
+      "de": "Der Text erklärt, dass 'amitochondriale Protisten' einst als die früheste Linie ohne konventionelle Mitochondrien galten, neuere Daten (strukturelle und DNA) jedoch gezeigt haben, dass viele reduzierte Mitochondrien besitzen und nun in verschiedene, entfernt verwandte Gruppen eingeteilt werden, was die ursprüngliche Hypothese untergräbt.",
+      "ja": "本文では、「アミトコンドリア原生生物」はかつて、従来のミトコンドリアを持たない最も初期の系統であると考えられていましたが、最近のデータ（構造およびDNA）によって、多くのものが退化したミトコンドリアを持ち、現在では様々な遠縁のグループに分類されていることが示され、最初の仮説が覆されたと説明されています。"
+    }
+  },
+  {
+    "page_number": 646,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the provided text, which of the following groups of protists have phylogenetic relationships that are explicitly stated to be yet unresolved or newly discovered, making their placement within the supergroups unclear? (Select all that apply)",
+      "zh": "根据所提供的文本，以下哪些原生生物群体明确指出其系统发育关系尚未解决或属于新发现的，使其在超群中的位置尚不明确？ (选择所有适用项)",
+      "es": "Según el texto proporcionado, ¿cuáles de los siguientes grupos de protistas tienen relaciones filogenéticas que se afirman explícitamente que aún no están resueltas o que han sido descubiertas recientemente, lo que hace que su ubicación dentro de los supergrupos no esté clara? (Selecciona todas las que apliquen)",
+      "fr": "Selon le texte fourni, lesquels des groupes de protistes suivants ont des relations phylogénétiques explicitement déclarées comme étant encore non résolues ou nouvellement découvertes, rendant leur placement au sein des supergroupes incertain ? (Sélectionnez toutes les options applicables)",
+      "de": "Welche der folgenden Protistengruppen weisen laut dem bereitgestellten Text explizit noch ungelöste oder neu entdeckte phylogenetische Beziehungen auf, wodurch ihre Einordnung in die Supergruppen unklar ist? (Wählen Sie alle zutreffenden)",
+      "ja": "提供されたテキストによると、以下の原生生物群のうち、系統発生関係がまだ未解決であると明示されている、あるいは最近発見されたため、超群内の位置づけが不明確であるものはどれですか？（該当するものをすべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Diplomonads",
+          "zh": "双鞭毛虫",
+          "es": "Diplomónadas",
+          "fr": "Diplomonades",
+          "de": "Diplomonaden",
+          "ja": "ディプロモナス類"
+        },
+        "feedback": {
+          "en": "Diplomonads are explicitly shown as a subgroup within Excavata, indicating their phylogenetic placement is generally understood.",
+          "zh": "双鞭毛虫明确显示为具凹生物超群的一个亚群，表明它们的系统发育位置已基本明确。",
+          "es": "Las diplomónadas se muestran explícitamente como un subgrupo dentro de Excavata, lo que indica que su ubicación filogenética se entiende generalmente.",
+          "fr": "Les diplomonades sont explicitement présentés comme un sous-groupe au sein des Excavata, ce qui indique que leur position phylogénétique est généralement comprise.",
+          "de": "Diplomonaden sind explizit als Untergruppe innerhalb der Excavata aufgeführt, was darauf hindeutet, dass ihre phylogenetische Platzierung allgemein verstanden wird.",
+          "ja": "ディプロモナス類は、エクスカータ内のサブグループとして明確に示されており、その系統発生学的な位置付けは一般的に理解されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Haptophytes",
+          "zh": "哈普特藻",
+          "es": "Haptofitas",
+          "fr": "Haptophytes",
+          "de": "Haptophyten",
+          "ja": "ハプト藻"
+        },
+        "feedback": {
+          "en": "The text states that haptophytes are not shown in Figure 28.5 because their phylogenetic relationships have yet to be resolved.",
+          "zh": "文中指出，哈普特藻未在图28.5中显示，因为它们的系统发育关系尚未解决。",
+          "es": "El texto afirma que las haptofitas no se muestran en la Figura 28.5 porque sus relaciones filogenéticas aún no se han resuelto.",
+          "fr": "Le texte indique que les haptophytes ne sont pas représentés dans la Figure 28.5 car leurs relations phylogénétiques n'ont pas encore été résolues.",
+          "de": "Der Text besagt, dass Haptophyten in Abbildung 28.5 nicht dargestellt sind, da ihre phylogenetischen Beziehungen noch nicht geklärt sind.",
+          "ja": "本文には、ハプト藻は図28.5に示されていないのは、その系統発生関係がまだ解決されていないためであると述べられています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cryptophytes",
+          "zh": "隐藻",
+          "es": "Criptofitas",
+          "fr": "Cryptophytes",
+          "de": "Kryptophyten",
+          "ja": "クリプト藻"
+        },
+        "feedback": {
+          "en": "Similar to haptophytes, the text notes that cryptophytes' phylogenetic relationships are yet to be resolved, hence their absence from Figure 28.5.",
+          "zh": "与哈普特藻类似，文中指出隐藻的系统发育关系尚未解决，因此未在图28.5中显示。",
+          "es": "Similar a las haptofitas, el texto señala que las relaciones filogenéticas de las criptofitas aún no se han resuelto, de ahí su ausencia en la Figura 28.5.",
+          "fr": "Comme pour les haptophytes, le texte note que les relations phylogénétiques des cryptophytes n'ont pas encore été résolues, d'où leur absence de la Figure 28.5.",
+          "de": "Ähnlich wie bei Haptophyten besagt der Text, dass die phylogenetischen Beziehungen von Kryptophyten noch ungelöst sind, weshalb sie in Abbildung 28.5 nicht vorkommen.",
+          "ja": "ハプト藻と同様に、本文ではクリプト藻の系統発生関係がまだ解決されていないため、図28.5には掲載されていないと述べられています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Euglenozoans",
+          "zh": "眼虫",
+          "es": "Euglenozoos",
+          "fr": "Euglénozoaires",
+          "de": "Euglenozoen",
+          "ja": "ユーグレナ類"
+        },
+        "feedback": {
+          "en": "Euglenozoans are explicitly listed as a subgroup within Excavata, indicating their phylogenetic placement is well-established.",
+          "zh": "眼虫明确列为具凹生物超群的一个亚群，表明它们的系统发育位置已确定。",
+          "es": "Los euglenozoos están explícitamente listados como un subgrupo dentro de Excavata, lo que indica que su ubicación filogenética está bien establecida.",
+          "fr": "Les euglénozoaires sont explicitement listés comme un sous-groupe au sein des Excavata, ce qui indique que leur position phylogénétique est bien établie.",
+          "de": "Euglenozoen sind explizit als Untergruppe innerhalb der Excavata aufgeführt, was darauf hindeutet, dass ihre phylogenetische Platzierung gut etabliert ist.",
+          "ja": "ユーグレナ類は、エクスカータ内のサブグループとして明確に挙げられており、その系統発生学的な位置付けは確立されています。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Hemimastigophores",
+          "zh": "半鞭毛虫",
+          "es": "Hemimastigóforos",
+          "fr": "Hémimastigophores",
+          "de": "Hemimastigophoren",
+          "ja": "ヘミマスティゴフォア"
+        },
+        "feedback": {
+          "en": "The text describes hemimastigophores as a 'novel group described in 2018,' implying their relationship to the established supergroups is still being resolved.",
+          "zh": "文中将半鞭毛虫描述为“2018年发现的新类群”，暗示它们与已确立超群的关系仍在解决中。",
+          "es": "El texto describe a los hemimastigóforos como un 'grupo novedoso descrito en 2018', lo que implica que su relación con los supergrupos establecidos aún se está resolviendo.",
+          "fr": "Le texte décrit les hémimastigophores comme un « nouveau groupe décrit en 2018 », ce qui implique que leur relation avec les supergroupes établis est encore en cours de résolution.",
+          "de": "Der Text beschreibt Hemimastigophoren als '2018 beschriebene neue Gruppe', was darauf hindeutet, dass ihre Beziehung zu den etablierten Supergruppen noch geklärt wird.",
+          "ja": "本文では、ヘミマスティゴフォアが「2018年に記述された新しいグループ」であるとされており、確立された超群との関係はまだ解明中であることを示唆しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": {
+      "en": "The text explicitly mentions that \"Examples of such unresolved groups include haptophytes and cryptophytes (Figure 28.6), as well as the hemimastigophores, a novel group described in 2018.\" This indicates that their phylogenetic relationships are not yet fully understood or resolved within the current supergroup hypothesis.",
+      "zh": "文中明确提到：“这类未解决群体包括哈普特藻和隐藻（图28.6），以及2018年发现的新类群半鞭毛虫。”这表明它们的系统发育关系在当前的超群假说中尚未完全理解或解决。",
+      "es": "El texto menciona explícitamente que \"Ejemplos de tales grupos no resueltos incluyen haptofitas y criptofitas (Figura 28.6), así como los hemimastigóforos, un grupo novedoso descrito en 2018.\" Esto indica que sus relaciones filogenéticas aún no se comprenden o resuelven completamente dentro de la hipótesis actual de supergrupos.",
+      "fr": "Le texte mentionne explicitement que « des exemples de ces groupes non résolus incluent les haptophytes et les cryptophytes (Figure 28.6), ainsi que les hémimastigophores, un nouveau groupe décrit en 2018. » Cela indique que leurs relations phylogénétiques ne sont pas encore entièrement comprises ou résolues dans le cadre de l'hypothèse actuelle des supergroupes.",
+      "de": "Der Text erwähnt explizit, dass \"Beispiele solcher ungelösten Gruppen Haptophyten und Kryptophyten (Abbildung 28.6) sowie die Hemimastigophoren, eine 2018 beschriebene neue Gruppe, umfassen.\" Dies deutet darauf hin, dass ihre phylogenetischen Beziehungen innerhalb der aktuellen Supergruppenhypothese noch nicht vollständig verstanden oder geklärt sind.",
+      "ja": "本文には「このような未解決のグループの例として、ハプト藻やクリプト藻（図28.6）、そして2018年に記述された新グループであるヘミマスティゴフォアなどが挙げられる」と明確に述べられています。これは、これらのグループの系統発生関係が現在の超群仮説の中でまだ完全に理解または解決されていないことを示しています。"
+    }
+  }
+]

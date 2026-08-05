@@ -1,0 +1,289 @@
+openapi: 3.1.0
+info:
+  title: "AI Interactions API"
+  version: "1.0.0"
+  description: "API for managing user's AI interaction history, including saving, retrieving, and deleting records."
+servers:
+  - url: "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1"
+    description: "Production Server"
+  - url: "http://localhost:3000/api/v1"
+    description: "Local Development Server"
+
+paths:
+  /ai/interactions:
+    post:
+      tags:
+        - "AI Interactions"
+      summary: "Save an AI Interaction Record"
+      description: "Allows an authenticated user to save a record of an AI interaction (prompt and response)."
+      operationId: "saveAiInteraction"
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/CreateAiInteractionPayload"
+      responses:
+        "201":
+          description: "AI interaction record created successfully."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  data:
+                    $ref: "#/components/schemas/AiInteraction"
+        "400":
+          description: "Bad request, e.g., missing prompt or response."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+    get:
+      tags:
+        - "AI Interactions"
+      summary: "Get Recent AI Interaction Records"
+      description: "Retrieves a list of recent AI interaction records for the authenticated user."
+      operationId: "getRecentAiInteractions"
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: limit
+          in: query
+          required: false
+          schema:
+            type: integer
+            format: int32
+            minimum: 1
+            default: 10
+          description: "Maximum number of records to return. Defaults to 10."
+        - name: parentType
+          in: query
+          required: false
+          schema:
+            type: string
+            enum: [node, question, pdf]
+            nullable: true
+          description: "Optional: Filter records by the type of parent resource (node, question, pdf, or null)."
+        - name: parentId
+          in: query
+          required: false
+          schema:
+            type: string
+            nullable: true
+          description: "Optional: Filter records by the ID of the parent resource."
+      responses:
+        "200":
+          description: "Successfully retrieved AI interaction records."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  data:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/AiInteraction"
+        "400":
+          description: "Bad request, e.g., invalid limit."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+  /ai/interactions/{id}:
+    delete:
+      tags:
+        - "AI Interactions"
+      summary: "Delete an AI Interaction Record"
+      description: "Allows an authenticated user to delete their own AI interaction record by ID."
+      operationId: "deleteAiInteraction"
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+          description: "The unique ID of the AI interaction record to delete."
+      responses:
+        "200":
+          description: "AI interaction record deleted successfully."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  message:
+                    type: string
+                    example: "AI interaction deleted successfully."
+        "400":
+          description: "Bad request, e.g., missing ID."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "404":
+          description: "AI interaction record not found or unauthorized (user does not own it)."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+
+components:
+  schemas:
+    AiInteraction:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          description: "Unique ID of the AI interaction record."
+          example: "a1b2c3d4-e5f6-7890-1234-567890abcdef"
+        user_id:
+          type: string
+          description: "ID of the user who initiated the interaction."
+          example: "firebase_user_id_123"
+        parent_type:
+          type: string
+          enum: [node, question, pdf]
+          nullable: true
+          description: "Type of the resource the AI interaction is associated with (e.g., 'node', 'question', 'pdf', or null if general chat)."
+          example: "node"
+        parent_id:
+          type: string
+          nullable: true
+          description: "ID of the parent resource (e.g., node UUID, question ID, or null)."
+          example: "some_node_uuid"
+        prompt:
+          type: string
+          description: "The user's prompt or question to the AI."
+          example: "Explain the Krebs cycle."
+        response:
+          type: string
+          description: "The AI's response to the prompt."
+          example: "The Krebs cycle, also known as the citric acid cycle..."
+        model_used:
+          type: string
+          nullable: true
+          description: "The AI model used for the interaction (e.g., 'qwen-turbo')."
+          example: "qwen-turbo"
+        metadata:
+          type: string
+          nullable: true
+          description: "Additional metadata as a JSON string."
+          example: "{\"tokens\": 150, \"cost\": 0.001}"
+        created_at:
+          type: string
+          format: date-time
+          description: "Timestamp when the interaction record was created."
+          example: "2023-10-27T10:00:00Z"
+
+    CreateAiInteractionPayload:
+      type: object
+      required:
+        - messages
+        - response
+      properties:
+        parent_type:
+          type: string
+          enum: [node, question, pdf]
+          nullable: true
+          description: "Optional: Type of the resource the AI interaction is associated with."
+          example: "question"
+        parent_id:
+          type: string
+          nullable: true
+          description: "Optional: ID of the parent resource."
+          example: "q-chp5-001"
+        messages:
+          type: array
+          description: "The array of message objects that constituted the request to the AI."
+          items:
+            type: object
+            properties:
+              role:
+                type: string
+              content:
+                type: object
+          example:
+            - role: "user"
+              content: "What is photosynthesis?"
+        response:
+          type: string
+          description: "The AI's response to the prompt."
+          example: "Photosynthesis is the process by which green plants..."
+        model_used:
+          type: string
+          nullable: true
+          description: "Optional: The AI model used for the interaction."
+          example: "qwen-turbo"
+        metadata:
+          type: string
+          nullable: true
+          description: "Optional: Additional metadata as a JSON string."
+          example: "{\"usage\": {\"prompt_tokens\": 10, \"completion_tokens\": 50}}"
+
+    ErrorResponse:
+      type: object
+      properties:
+        ok:
+          type: boolean
+          example: false
+        message:
+          type: string
+
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+      description: "Firebase JWT for API authentication."

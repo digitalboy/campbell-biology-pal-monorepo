@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 1246,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 53.7, approximately how many generations does it take for the population with r = 1.0 (blue curve) to reach a size of 1,500 individuals?",
+      "zh": "根据图53.7，r = 1.0（蓝色曲线）的种群大约需要多少代才能达到1,500个个体的大小？",
+      "es": "Según la Figura 53.7, ¿aproximadamente cuántas generaciones le toma a la población con r = 1.0 (curva azul) alcanzar un tamaño de 1,500 individuos?",
+      "fr": "Selon la Figure 53.7, approximativement combien de générations faut-il à la population avec r = 1.0 (courbe bleue) pour atteindre une taille de 1 500 individus ?",
+      "de": "Gemäß Abbildung 53.7, wie viele Generationen benötigt die Population mit r = 1,0 (blaue Kurve) ungefähr, um eine Größe von 1.500 Individuen zu erreichen?",
+      "ja": "図53.7によると、r = 1.0（青い曲線）の個体群が1,500個体に達するまでに、おおよそ何世代かかりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "5 generations",
+          "zh": "5代",
+          "es": "5 generaciones",
+          "fr": "5 générations",
+          "de": "5 Generationen",
+          "ja": "5世代"
+        },
+        "feedback": {
+          "en": "Incorrect. 5 generations is approximately when the population with r = 0.5 reaches 1,500 individuals.",
+          "zh": "错误。5代大约是r=0.5的种群达到1,500个个体的时间。",
+          "es": "Incorrecto. 5 generaciones es aproximadamente cuando la población con r = 0.5 alcanza 1,500 individuos.",
+          "fr": "Incorrect. 5 générations est approximativement le moment où la population avec r = 0,5 atteint 1 500 individus.",
+          "de": "Falsch. 5 Generationen ist ungefähr der Zeitpunkt, an dem die Population mit r = 0,5 1.500 Individuen erreicht.",
+          "ja": "不正解です。5世代は、r=0.5の個体群が1,500個体に達するおおよその時間です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "7 generations",
+          "zh": "7代",
+          "es": "7 generaciones",
+          "fr": "7 générations",
+          "de": "7 Generationen",
+          "ja": "7世代"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "10 generations",
+          "zh": "10代",
+          "es": "10 generaciones",
+          "fr": "10 générations",
+          "de": "10 Generationen",
+          "ja": "10世代"
+        },
+        "feedback": {
+          "en": "Incorrect. For the r = 1.0 population, 10 generations would result in a much larger population size than 1,500, beyond the visible range of the graph.",
+          "zh": "错误。对于r=1.0的种群，10代会导致远超1,500个体的种群大小，超出了图表的可见范围。",
+          "es": "Incorrecto. Para la población con r = 1.0, 10 generaciones darían como resultado un tamaño de población mucho mayor que 1,500, más allá del rango visible del gráfico.",
+          "fr": "Incorrect. Pour la population avec r = 1,0, 10 générations donneraient une taille de population bien supérieure à 1 500, au-delà de la plage visible du graphique.",
+          "de": "Falsch. Bei der Population mit r = 1,0 würden 10 Generationen zu einer viel größeren Populationsgröße als 1.500 führen, jenseits des sichtbaren Bereichs der Grafik.",
+          "ja": "不正解です。r=1.0の個体群の場合、10世代では1,500個体をはるかに超える個体数になり、グラフの表示範囲を超えます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "15 generations",
+          "zh": "15代",
+          "es": "15 generaciones",
+          "fr": "15 générations",
+          "de": "15 Generationen",
+          "ja": "15世代"
+        },
+        "feedback": {
+          "en": "Incorrect. 15 generations is the end of the x-axis, and at this point, the r = 1.0 population would be significantly larger than 1,500.",
+          "zh": "错误。15代是X轴的末端，此时r=1.0的种群规模将显著大于1,500。",
+          "es": "Incorrecto. 15 generaciones es el final del eje X, y en este punto, la población con r = 1.0 sería significativamente mayor que 1,500.",
+          "fr": "Incorrect. 15 générations est la fin de l'axe des X, et à ce stade, la population avec r = 1,0 serait significativement plus grande que 1 500.",
+          "de": "Falsch. 15 Generationen ist das Ende der X-Achse, und zu diesem Zeitpunkt wäre die Population mit r = 1,0 deutlich größer als 1.500.",
+          "ja": "不正解です。15世代はX軸の終点であり、この時点でr=1.0の個体群は1,500よりもはるかに大きくなります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Locate 1,500 on the Y-axis (Population size). Follow horizontally to intersect the blue curve (r = 1.0). Then, follow vertically down to the X-axis (Number of generations). This intersection point is approximately 7 generations.",
+      "zh": "在Y轴（种群大小）上找到1,500。水平跟随线段直到与蓝色曲线（r = 1.0）相交。然后，垂直向下到X轴（世代数）。这个交点大约是7代。",
+      "es": "Localice 1,500 en el eje Y (Tamaño de la población). Siga horizontalmente hasta que interseque la curva azul (r = 1.0). Luego, siga verticalmente hacia abajo hasta el eje X (Número de generaciones). Este punto de intersección es aproximadamente 7 generaciones.",
+      "fr": "Localisez 1 500 sur l'axe Y (Taille de la population). Suivez horizontalement pour croiser la courbe bleue (r = 1,0). Ensuite, suivez verticalement vers l'axe X (Nombre de générations). Ce point d'intersection est approximativement 7 générations.",
+      "de": "Suchen Sie 1.500 auf der Y-Achse (Populationsgröße). Folgen Sie horizontal, bis Sie die blaue Kurve (r = 1,0) schneiden. Folgen Sie dann vertikal nach unten zur X-Achse (Anzahl der Generationen). Dieser Schnittpunkt liegt bei ungefähr 7 Generationen.",
+      "ja": "Y軸（個体群サイズ）の1,500を見つけます。水平に線をたどり、青い曲線（r = 1.0）と交差する点を探します。その後、垂直にX軸（世代数）に下ろします。この交点は約7世代です。"
+    }
+  },
+  {
+    "page_number": 1246,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements about exponential population growth, as described by the equation dN/dt = rN, is FALSE?",
+      "zh": "关于由方程 dN/dt = rN 描述的指数种群增长，以下哪项陈述是错误的？",
+      "es": "¿Cuál de las siguientes afirmaciones sobre el crecimiento exponencial de la población, descrito por la ecuación dN/dt = rN, es FALSA?",
+      "fr": "Parmi les affirmations suivantes concernant la croissance exponentielle de la population, telle que décrite par l'équation dN/dt = rN, laquelle est FAUSSE ?",
+      "de": "Welche der folgenden Aussagen über exponentielles Populationswachstum, beschrieben durch die Gleichung dN/dt = rN, ist FALSCH?",
+      "ja": "方程式 dN/dt = rN で表される指数関数的個体群成長について、次の記述のうち誤っているものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A population with a higher intrinsic rate of increase (r) will grow faster than one with a lower r, assuming the same initial population size.",
+          "zh": "在初始种群大小相同的情况下，具有更高内在增长率（r）的种群将比具有较低r的种群增长得更快。",
+          "es": "Una población con una tasa intrínseca de aumento (r) más alta crecerá más rápido que una con una r más baja, asumiendo el mismo tamaño de población inicial.",
+          "fr": "Une population avec un taux intrinsèque d'augmentation (r) plus élevé croîtra plus rapidement qu'une population avec un r plus faible, en supposant la même taille de population initiale.",
+          "de": "Eine Population mit einer höheren intrinsischen Wachstumsrate (r) wächst schneller als eine mit einer niedrigeren r, vorausgesetzt, die anfängliche Populationsgröße ist gleich.",
+          "ja": "同じ初期個体群サイズを仮定すると、より高い内的増加率（r）を持つ個体群は、より低いrを持つ個体群よりも速く成長します。"
+        },
+        "feedback": {
+          "en": "This statement is true; a higher intrinsic rate of increase (r) directly leads to a faster overall population growth rate (dN/dt) for a given population size.",
+          "zh": "此陈述是正确的；在给定种群大小的情况下，更高的内在增长率（r）直接导致更快的总种群增长率（dN/dt）。",
+          "es": "Esta afirmación es verdadera; una tasa intrínseca de aumento (r) más alta conduce directamente a una tasa de crecimiento de la población general más rápida (dN/dt) para un tamaño de población dado.",
+          "fr": "Cette affirmation est vraie ; un taux intrinsèque d'augmentation (r) plus élevé conduit directement à un taux de croissance global de la population (dN/dt) plus rapide pour une taille de population donnée.",
+          "de": "Diese Aussage ist wahr; eine höhere intrinsische Wachstumsrate (r) führt direkt zu einer schnelleren gesamten Populationswachstumsrate (dN/dt) für eine gegebene Populationsgröße.",
+          "ja": "この記述は真実です。より高い内的増加率（r）は、特定の個体群サイズに対して、より速い全体的な個体群成長率（dN/dt）に直接つながります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Even if the per capita rate of population growth (r) is constant, the number of new individuals added per unit of time (dN/dt) increases as the population size (N) increases.",
+          "zh": "即使单位个体增长率（r）是恒定的，随着种群大小（N）的增加，单位时间内新增的个体数量（dN/dt）也会增加。",
+          "es": "Incluso si la tasa per cápita de crecimiento de la población (r) es constante, el número de individuos nuevos añadidos por unidad de tiempo (dN/dt) aumenta a medida que el tamaño de la población (N) aumenta.",
+          "fr": "Même si le taux de croissance de la population par habitant (r) est constant, le nombre de nouveaux individus ajoutés par unité de temps (dN/dt) augmente à mesure que la taille de la population (N) augmente.",
+          "de": "Auch wenn die Pro-Kopf-Wachstumsrate der Population (r) konstant ist, steigt die Anzahl der pro Zeiteinheit hinzugefügten neuen Individuen (dN/dt) mit zunehmender Populationsgröße (N).",
+          "ja": "個体あたりの個体群成長率（r）が一定であっても、個体群サイズ（N）が増加するにつれて、単位時間あたりに追加される新しい個体の数（dN/dt）は増加します。"
+        },
+        "feedback": {
+          "en": "This statement is true; the total growth rate (dN/dt) is the product of r and N, so as N increases, dN/dt increases.",
+          "zh": "此陈述是正确的；总增长率（dN/dt）是r和N的乘积，因此随着N的增加，dN/dt也会增加。",
+          "es": "Esta afirmación es verdadera; la tasa de crecimiento total (dN/dt) es el producto de r y N, por lo que a medida que N aumenta, dN/dt aumenta.",
+          "fr": "Cette affirmation est vraie ; le taux de croissance total (dN/dt) est le produit de r et N, donc à mesure que N augmente, dN/dt augmente.",
+          "de": "Diese Aussage ist wahr; die Gesamt-Wachstumsrate (dN/dt) ist das Produkt von r und N, sodass dN/dt mit zunehmendem N steigt.",
+          "ja": "この記述は真実です。総成長率（dN/dt）はrとNの積であるため、Nが増加するとdN/dtも増加します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Exponential growth curves are typically J-shaped because the population growth rate (dN/dt) accelerates as the population size grows.",
+          "zh": "指数增长曲线通常呈J形，因为随着种群大小的增长，种群增长率（dN/dt）会加速。",
+          "es": "Las curvas de crecimiento exponencial suelen tener forma de J porque la tasa de crecimiento de la población (dN/dt) se acelera a medida que el tamaño de la población crece.",
+          "fr": "Les courbes de croissance exponentielle sont généralement en forme de J car le taux de croissance de la population (dN/dt) s'accélère à mesure que la taille de la population augmente.",
+          "de": "Exponentielle Wachstumskurven sind typischerweise J-förmig, weil sich die Populationswachstumsrate (dN/dt) beschleunigt, wenn die Populationsgröße wächst.",
+          "ja": "指数関数的成長曲線は通常J字型をしています。これは、個体群サイズが大きくなるにつれて個体群成長率（dN/dt）が加速するためです。"
+        },
+        "feedback": {
+          "en": "This statement is true; the accelerating growth rate as N increases results in the characteristic J-shape.",
+          "zh": "此陈述是正确的；随着N的增加，加速的增长率导致了典型的J形曲线。",
+          "es": "Esta afirmación es verdadera; la tasa de crecimiento acelerada a medida que N aumenta resulta en la forma de J característica.",
+          "fr": "Cette affirmation est vraie ; le taux de croissance accéléré à mesure que N augmente donne la forme en J caractéristique.",
+          "de": "Diese Aussage ist wahr; die sich beschleunigende Wachstumsrate mit zunehmendem N führt zur charakteristischen J-Form.",
+          "ja": "この記述は真実です。Nが増加するにつれて成長率が加速するため、特徴的なJ字型になります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "In exponential growth, the per capita birth rate always increases over time, leading to a steeper curve.",
+          "zh": "在指数增长中，单位个体出生率总是随时间增加，导致曲线变得更陡峭。",
+          "es": "En el crecimiento exponencial, la tasa de natalidad per cápita siempre aumenta con el tiempo, lo que lleva a una curva más pronunciada.",
+          "fr": "Dans la croissance exponentielle, le taux de natalité par habitant augmente toujours avec le temps, ce qui entraîne une courbe plus raide.",
+          "de": "Beim exponentiellen Wachstum steigt die Pro-Kopf-Geburtenrate immer mit der Zeit an, was zu einer steileren Kurve führt.",
+          "ja": "指数関数的成長において、個体あたりの出生率は常に時間とともに増加し、より急な曲線につながります。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "In exponential growth, the intrinsic rate of increase (r) is constant per capita. The total number of individuals added per unit of time (dN/dt) increases because the population size (N) is growing, not because the per capita rates are changing.",
+      "zh": "在指数增长中，内在增长率（r）是恒定的单位个体率。单位时间内新增的个体总数（dN/dt）增加是因为种群大小（N）在增长，而不是因为单位个体率在变化。",
+      "es": "En el crecimiento exponencial, la tasa intrínseca de aumento (r) es constante per cápita. El número total de individuos añadidos por unidad de tiempo (dN/dt) aumenta porque el tamaño de la población (N) está creciendo, no porque las tasas per cápita estén cambiando.",
+      "fr": "Dans la croissance exponentielle, le taux intrinsèque d'augmentation (r) est constant par habitant. Le nombre total d'individus ajoutés par unité de temps (dN/dt) augmente parce que la taille de la population (N) croît, et non parce que les taux par habitant changent.",
+      "de": "Beim exponentiellen Wachstum ist die intrinsische Wachstumsrate (r) pro Kopf konstant. Die Gesamtzahl der pro Zeiteinheit hinzugefügten Individuen (dN/dt) steigt, weil die Populationsgröße (N) wächst, nicht weil sich die Pro-Kopf-Raten ändern.",
+      "ja": "指数関数的成長では、内的増加率（r）は個体あたり一定です。単位時間あたりに追加される総個体数（dN/dt）が増加するのは、個体群サイズ（N）が成長しているためであり、個体あたりの率が変化しているためではありません。"
+    }
+  },
+  {
+    "page_number": 1246,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the 'WHAT IF?' scenario in Concept Check 53.2, if the United States had a population of 327 million people in 2018 and an annual per capita change in population size (r_delta_t) of 0.005, how many people were added to the population that year (ignoring immigration and emigration)?",
+      "zh": "根据概念检验53.2中的“假如”情景，如果2018年美国人口为3.27亿，并且每年人均人口变化率（r_delta_t）为0.005，那么当年增加了多少人口（忽略移民和移出）？",
+      "es": "Según el escenario '¿QUÉ PASARÍA SI?' en Concept Check 53.2, si Estados Unidos tenía una población de 327 millones de personas en 2018 y un cambio anual per cápita en el tamaño de la población (r_delta_t) de 0.005, ¿cuántas personas se añadieron a la población ese año (ignorando la inmigración y emigración)?",
+      "fr": "Selon le scénario 'ET SI ?' du Concept Check 53.2, si les États-Unis avaient une population de 327 millions de personnes en 2018 et un changement annuel par habitant de la taille de la population (r_delta_t) de 0,005, combien de personnes ont été ajoutées à la population cette année-là (en ignorant l'immigration et l'émigration) ?",
+      "de": "Basierend auf dem 'WAS WÄRE WENN?'-Szenario in Concept Check 53.2: Wenn die Vereinigten Staaten im Jahr 2018 eine Bevölkerung von 327 Millionen Menschen hatten und die jährliche Pro-Kopf-Populationsänderung (r_delta_t) 0,005 betrug, wie viele Menschen wurden in diesem Jahr zur Bevölkerung hinzugefügt (Immigration und Emigration ignoriert)?",
+      "ja": "コンセプトチェック53.2の「もしも？」シナリオに基づき、2018年に米国が3億2700万人の人口を持ち、年間一人当たりの人口サイズの変化（r_delta_t）が0.005であった場合、その年に（移民と移住を無視して）人口に何人が追加されましたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1,635,000",
+          "zh": "1,635,000",
+          "es": "1,635,000",
+          "fr": "1 635 000",
+          "de": "1.635.000",
+          "ja": "1,635,000"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "3,270,000",
+          "zh": "3,270,000",
+          "es": "3,270,000",
+          "fr": "3 270 000",
+          "de": "3.270.000",
+          "ja": "3,270,000"
+        },
+        "feedback": {
+          "en": "Incorrect. This value would result if the per capita change was 0.01.",
+          "zh": "错误。如果人均变化率为0.01，将得到此值。",
+          "es": "Incorrecto. Este valor resultaría si el cambio per cápita fuera 0.01.",
+          "fr": "Incorrect. Cette valeur résulterait si le changement par habitant était de 0,01.",
+          "de": "Falsch. Dieser Wert würde entstehen, wenn die Pro-Kopf-Änderung 0,01 betragen würde.",
+          "ja": "不正解です。この値は、一人当たりの変化が0.01だった場合の結果です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "16,350,000",
+          "zh": "16,350,000",
+          "es": "16,350,000",
+          "fr": "16 350 000",
+          "de": "16.350.000",
+          "ja": "16,350,000"
+        },
+        "feedback": {
+          "en": "Incorrect. Recheck your multiplication. Population change is r * N.",
+          "zh": "错误。请重新检查您的乘法。人口变化是r * N。",
+          "es": "Incorrecto. Vuelva a verificar su multiplicación. El cambio de población es r * N.",
+          "fr": "Incorrect. Vérifiez votre multiplication. Le changement de population est r * N.",
+          "de": "Falsch. Überprüfen Sie Ihre Multiplikation. Die Populationsänderung ist r * N.",
+          "ja": "不正解です。掛け算を再確認してください。人口の変化はr * Nです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "65,400,000",
+          "zh": "65,400,000",
+          "es": "65,400,000",
+          "fr": "65 400 000",
+          "de": "65.400.000",
+          "ja": "65,400,000"
+        },
+        "feedback": {
+          "en": "Incorrect. This value is much too high for the given per capita change. Population change is r * N.",
+          "zh": "错误。对于给定的人均变化率，此值过高。人口变化是r * N。",
+          "es": "Incorrecto. Este valor es demasiado alto para el cambio per cápita dado. El cambio de población es r * N.",
+          "fr": "Incorrect. Cette valeur est beaucoup trop élevée pour le changement par habitant donné. Le changement de population est r * N.",
+          "de": "Falsch. Dieser Wert ist viel zu hoch für die gegebene Pro-Kopf-Änderung. Die Populationsänderung ist r * N.",
+          "ja": "不正解です。この値は、与えられた一人当たりの変化に対して非常に高すぎます。人口の変化はr * Nです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The number of people added is calculated by multiplying the population size (N) by the annual per capita change (r_delta_t). So, 327,000,000 * 0.005 = 1,635,000 people.",
+      "zh": "增加的人口数量通过将人口大小（N）乘以每年人均变化率（r_delta_t）来计算。因此，327,000,000 * 0.005 = 1,635,000人。",
+      "es": "El número de personas añadidas se calcula multiplicando el tamaño de la población (N) por el cambio anual per cápita (r_delta_t). Así, 327,000,000 * 0.005 = 1,635,000 personas.",
+      "fr": "Le nombre de personnes ajoutées est calculé en multipliant la taille de la population (N) par le changement annuel par habitant (r_delta_t). Ainsi, 327 000 000 * 0,005 = 1 635 000 personnes.",
+      "de": "Die Anzahl der hinzugefügten Personen wird berechnet, indem die Populationsgröße (N) mit der jährlichen Pro-Kopf-Änderung (r_delta_t) multipliziert wird. Also: 327.000.000 * 0,005 = 1.635.000 Menschen.",
+      "ja": "追加された人数は、人口サイズ（N）に年間一人当たりの変化（r_delta_t）を掛けることで計算されます。したがって、327,000,000 * 0.005 = 1,635,000人です。"
+    }
+  },
+  {
+    "page_number": 1246,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Why does a constant per capita rate of growth (r) for a population typically produce a J-shaped growth curve?",
+      "zh": "为什么种群恒定的人均增长率（r）通常会产生J形增长曲线？",
+      "es": "¿Por qué una tasa de crecimiento per cápita constante (r) para una población suele producir una curva de crecimiento en forma de J?",
+      "fr": "Pourquoi un taux de croissance par habitant constant (r) pour une population produit-il généralement une courbe de croissance en forme de J ?",
+      "de": "Warum führt eine konstante Pro-Kopf-Wachstumsrate (r) einer Population typischerweise zu einer J-förmigen Wachstumskurve?",
+      "ja": "個体群の一人当たりの成長率（r）が一定であるにもかかわらず、なぜ通常J字型の成長曲線を示すのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Because the intrinsic rate of increase (r) itself accelerates over time, making the curve steeper.",
+          "zh": "因为内在增长率（r）本身随时间加速，使曲线变得更陡峭。",
+          "es": "Porque la tasa intrínseca de aumento (r) en sí misma se acelera con el tiempo, haciendo que la curva sea más pronunciada.",
+          "fr": "Parce que le taux intrinsèque d'augmentation (r) lui-même s'accélère avec le temps, rendant la courbe plus raide.",
+          "de": "Weil sich die intrinsische Wachstumsrate (r) selbst im Laufe der Zeit beschleunigt, wodurch die Kurve steiler wird.",
+          "ja": "内的増加率（r）自体が時間とともに加速し、曲線がより急になるためです。"
+        },
+        "feedback": {
+          "en": "Incorrect. In exponential growth, the intrinsic rate of increase (r) is assumed to be constant, not accelerating.",
+          "zh": "错误。在指数增长中，内在增长率（r）被认为是恒定的，不会加速。",
+          "es": "Incorrecto. En el crecimiento exponencial, se asume que la tasa intrínseca de aumento (r) es constante, no que se acelera.",
+          "fr": "Incorrect. Dans la croissance exponentielle, le taux intrinsèque d'augmentation (r) est supposé être constant, et non s'accélérer.",
+          "de": "Falsch. Beim exponentiellen Wachstum wird angenommen, dass die intrinsische Wachstumsrate (r) konstant ist und sich nicht beschleunigt.",
+          "ja": "不正解です。指数関数的成長では、内的増加率（r）は加速するのではなく、一定であると仮定されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Because the total number of individuals added per unit of time (dN/dt) increases as the population size (N) grows, even if 'r' remains constant.",
+          "zh": "因为即使“r”保持恒定，随着种群大小（N）的增长，单位时间内新增的个体总数（dN/dt）也会增加。",
+          "es": "Porque el número total de individuos añadidos por unidad de tiempo (dN/dt) aumenta a medida que el tamaño de la población (N) crece, incluso si 'r' permanece constante.",
+          "fr": "Parce que le nombre total d'individus ajoutés par unité de temps (dN/dt) augmente à mesure que la taille de la population (N) augmente, même si 'r' reste constant.",
+          "de": "Weil die Gesamtzahl der pro Zeiteinheit hinzugefügten Individuen (dN/dt) mit zunehmender Populationsgröße (N) steigt, auch wenn 'r' konstant bleibt.",
+          "ja": "「r」が一定であっても、個体群サイズ（N）が大きくなるにつれて、単位時間あたりに追加される個体数（dN/dt）が増加するためです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Because resources become increasingly limited, causing the growth rate to slow down.",
+          "zh": "因为资源变得越来越有限，导致增长率减慢。",
+          "es": "Porque los recursos se vuelven cada vez más limitados, lo que hace que la tasa de crecimiento disminuya.",
+          "fr": "Parce que les ressources deviennent de plus en plus limitées, ce qui entraîne un ralentissement du taux de croissance.",
+          "de": "Weil die Ressourcen zunehmend begrenzt werden, wodurch sich die Wachstumsrate verlangsamt.",
+          "ja": "資源がますます限られ、成長率が低下するためです。"
+        },
+        "feedback": {
+          "en": "Incorrect. This describes logistic growth, where resource limitation causes the growth rate to slow, leading to an S-shaped curve. Exponential growth assumes abundant resources.",
+          "zh": "错误。这描述的是逻辑增长，即资源限制导致增长率减缓，形成S形曲线。指数增长假设资源充足。",
+          "es": "Incorrecto. Esto describe el crecimiento logístico, donde la limitación de recursos hace que la tasa de crecimiento disminuya, lo que lleva a una curva en forma de S. El crecimiento exponencial asume recursos abundantes.",
+          "fr": "Incorrect. Cela décrit la croissance logistique, où la limitation des ressources entraîne un ralentissement du taux de croissance, menant à une courbe en S. La croissance exponentielle suppose des ressources abondantes.",
+          "de": "Falsch. Dies beschreibt logistisches Wachstum, bei dem die Ressourcenbegrenzung die Wachstumsrate verlangsamt, was zu einer S-förmigen Kurve führt. Exponentielles Wachstum geht von reichlich vorhandenen Ressourcen aus.",
+          "ja": "不正解です。これはロジスティック成長の説明であり、資源の制約が成長率を鈍化させ、S字型の曲線につながります。指数関数的成長は豊富な資源を前提としています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Because the per capita birth rate increases and the per capita death rate decreases as the population size increases.",
+          "zh": "因为随着种群大小的增加，人均出生率增加而人均死亡率减少。",
+          "es": "Porque la tasa de natalidad per cápita aumenta y la tasa de mortalidad per cápita disminuye a medida que el tamaño de la población aumenta.",
+          "fr": "Parce que le taux de natalité par habitant augmente et le taux de mortalité par habitant diminue à mesure que la taille de la population augmente.",
+          "de": "Weil die Pro-Kopf-Geburtenrate steigt und die Pro-Kopf-Sterberate sinkt, wenn die Populationsgröße zunimmt.",
+          "ja": "個体群サイズが増加するにつれて、一人当たりの出生率が増加し、一人当たりの死亡率が減少するためです。"
+        },
+        "feedback": {
+          "en": "Incorrect. In exponential growth, the per capita rates (birth and death) are assumed to remain constant, resulting in a constant intrinsic rate of increase (r).",
+          "zh": "错误。在指数增长中，人均率（出生率和死亡率）被假定为保持恒定，从而产生恒定的内在增长率（r）。",
+          "es": "Incorrecto. En el crecimiento exponencial, se asume que las tasas per cápita (de natalidad y mortalidad) permanecen constantes, lo que resulta en una tasa intrínseca de aumento (r) constante.",
+          "fr": "Incorrect. Dans la croissance exponentielle, les taux par habitant (de natalité et de mortalité) sont supposés rester constants, ce qui entraîne un taux intrinsèque d'augmentation (r) constant.",
+          "de": "Falsch. Beim exponentiellen Wachstum wird angenommen, dass die Pro-Kopf-Raten (Geburten- und Sterberate) konstant bleiben, was zu einer konstanten intrinsischen Wachstumsrate (r) führt.",
+          "ja": "不正解です。指数関数的成長では、一人当たりの率（出生率と死亡率）は一定に保たれると仮定されており、結果として内的増加率（r）も一定になります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Even though the per capita growth rate (r) is constant, the total number of individuals added to the population per unit of time (dN/dt = rN) increases as the population size (N) itself grows larger. This compounding effect leads to an increasingly steep curve, characteristic of a J-shape.",
+      "zh": "即使人均增长率（r）是恒定的，随着种群大小（N）本身的增大，单位时间内添加到种群中的个体总数（dN/dt = rN）也会增加。这种复合效应导致曲线越来越陡峭，呈现J形特征。",
+      "es": "Aunque la tasa de crecimiento per cápita (r) sea constante, el número total de individuos añadidos a la población por unidad de tiempo (dN/dt = rN) aumenta a medida que el tamaño de la población (N) crece. Este efecto compuesto conduce a una curva cada vez más pronunciada, característica de una forma de J.",
+      "fr": "Même si le taux de croissance par habitant (r) est constant, le nombre total d'individus ajoutés à la population par unité de temps (dN/dt = rN) augmente à mesure que la taille de la population (N) elle-même augmente. Cet effet cumulatif conduit à une courbe de plus en plus raide, caractéristique d'une forme en J.",
+      "de": "Obwohl die Pro-Kopf-Wachstumsrate (r) konstant ist, steigt die Gesamtzahl der pro Zeiteinheit zur Population hinzugefügten Individuen (dN/dt = rN) mit zunehmender Populationsgröße (N) selbst. Dieser kumulative Effekt führt zu einer immer steiler werdenden Kurve, die für eine J-Form charakteristisch ist.",
+      "ja": "一人当たりの成長率（r）が一定であっても、個体群サイズ（N）自体が大きくなるにつれて、単位時間あたりに個体群に追加される個体総数（dN/dt = rN）は増加します。この複利効果により、J字型の特徴である曲線がますます急勾配になります。"
+    }
+  }
+]

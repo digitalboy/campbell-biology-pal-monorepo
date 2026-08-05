@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 846,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the 'VISUAL SKILLS' prompt and Figure 36.13, if the micrograph represents a section of epidermis 500 μm by 300 μm, what is the approximate stomatal density of this bean leaf in stomata per square centimeter? (Count only clearly distinguishable stomata within the image boundaries).",
+      "zh": "根据“视觉技能”提示和图 36.13，如果显微照片代表一块 500 μm x 300 μm 的表皮部分，那么这种菜豆叶片的近似气孔密度（以每平方厘米气孔数量计）是多少？（只计算图像边界内清晰可辨的气孔）。",
+      "es": "Según la indicación de 'HABILIDADES VISUALES' y la Figura 36.13, si la micrografía representa una sección de epidermis de 500 μm por 300 μm, ¿cuál es la densidad estomática aproximada de esta hoja de frijol en estomas por centímetro cuadrado? (Cuente solo los estomas claramente distinguibles dentro de los límites de la imagen).",
+      "fr": "D'après l'invite 'COMPÉTENCES VISUELLES' et la Figure 36.13, si la micrographie représente une section d'épiderme de 500 μm par 300 μm, quelle est la densité stomatique approximative de cette feuille de haricot en stomates par centimètre carré ? (Ne comptez que les stomates clairement distinguables à l'intérieur des limites de l'image).",
+      "de": "Basierend auf der 'VISUAL SKILLS'-Anweisung und Abbildung 36.13, wenn die Mikrofotografie einen Epidermisabschnitt von 500 μm mal 300 μm darstellt, wie hoch ist die ungefähre Stomatadichte dieses Bohnenblattes in Stomata pro Quadratzentimeter? (Zählen Sie nur klar unterscheidbare Stomata innerhalb der Bildgrenzen).",
+      "ja": "「視覚スキル」のプロンプトと図36.13に基づいて、もし顕微鏡写真が500μm×300μmの表皮の一部を表している場合、このインゲンマメの葉の気孔密度（1平方センチメートルあたりの気孔数）はおおよそどのくらいですか？（画像境界内で明確に識別できる気孔のみを数えてください）。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1500 stomata/cm²",
+          "zh": "1500 个气孔/平方厘米",
+          "es": "1500 estomas/cm²",
+          "fr": "1500 stomates/cm²",
+          "de": "1500 Stomata/cm²",
+          "ja": "1500個の気孔/cm²"
+        },
+        "feedback": {
+          "en": "This value is significantly lower than the calculated density based on the provided dimensions and typical stomata count from the image.",
+          "zh": "这个值远低于根据所提供的尺寸和图像中典型气孔数量计算出的密度。",
+          "es": "Este valor es significativamente más bajo que la densidad calculada basándose en las dimensiones proporcionadas y el recuento típico de estomas de la imagen.",
+          "fr": "Cette valeur est significativement inférieure à la densité calculée sur la base des dimensions fournies et du nombre typique de stomates de l'image.",
+          "de": "Dieser Wert ist deutlich niedriger als die berechnete Dichte, basierend auf den angegebenen Abmessungen und der typischen Stomataanzahl im Bild.",
+          "ja": "この値は、提供された寸法と画像からの典型的な気孔数に基づいて計算された密度よりも著しく低いです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "3333 stomata/cm²",
+          "zh": "3333 个气孔/平方厘米",
+          "es": "3333 estomas/cm²",
+          "fr": "3333 stomates/cm²",
+          "de": "3333 Stomata/cm²",
+          "ja": "3333個の気孔/cm²"
+        },
+        "feedback": {
+          "en": "Recalculate the area conversion from micrometers to square centimeters and carefully count the complete stomata in the micrograph.",
+          "zh": "请重新计算从微米到平方厘米的面积转换，并仔细数一下显微照片中完整的气孔数量。",
+          "es": "Recalcule la conversión de área de micrómetros a centímetros cuadrados y cuente cuidadosamente los estomas completos en la micrografía.",
+          "fr": "Recalculez la conversion de la surface des micromètres en centimètres carrés et comptez attentivement les stomates complets dans la micrographie.",
+          "de": "Berechnen Sie die Flächenumrechnung von Mikrometern in Quadratzentimeter neu und zählen Sie die vollständigen Stomata in der Mikrofotografie sorgfältig aus.",
+          "ja": "マイクロメートルから平方センチメートルへの面積換算を再計算し、顕微鏡写真内の完全な気孔数を注意深く数えてください。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "4000 stomata/cm²",
+          "zh": "4000 个气孔/平方厘米",
+          "es": "4000 estomas/cm²",
+          "fr": "4000 stomates/cm²",
+          "de": "4000 Stomata/cm²",
+          "ja": "4000個の気孔/cm²"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "6667 stomata/cm²",
+          "zh": "6667 个气孔/平方厘米",
+          "es": "6667 estomas/cm²",
+          "fr": "6667 stomates/cm²",
+          "de": "6667 Stomata/cm²",
+          "ja": "6667個の気孔/cm²"
+        },
+        "feedback": {
+          "en": "This value is significantly higher than the calculated density based on clearly distinguishable stomata. Double-check your calculations and count.",
+          "zh": "这个值远高于根据清晰可辨气孔数量计算出的密度。请仔细核对您的计算和计数。",
+          "es": "Este valor es significativamente más alto que la densidad calculada basándose en estomas claramente distinguibles. Revise sus cálculos y el conteo.",
+          "fr": "Cette valeur est significativement supérieure à la densité calculée sur la base des stomates clairement distinguables. Vérifiez vos calculs et votre comptage.",
+          "de": "Dieser Wert ist deutlich höher als die berechnete Dichte, basierend auf klar unterscheidbaren Stomata. Überprüfen Sie Ihre Berechnungen und Zählung.",
+          "ja": "この値は、明確に識別できる気孔に基づいて計算された密度よりも著しく高いです。計算とカウントを再確認してください。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The micrograph area is 500 μm by 300 μm, which equals 150,000 μm². Since 1 cm = 10,000 μm, then 1 cm² = (10,000 μm)² = 100,000,000 μm². Therefore, 150,000 μm² = 150,000 / 100,000,000 cm² = 0.0015 cm². Counting the clearly distinguishable complete stomata in Figure 36.13, there are 6 stomata. Thus, the stomatal density is 6 stomata / 0.0015 cm² = 4000 stomata/cm².",
+      "zh": "显微照片区域为 500 μm x 300 μm，即 150,000 μm²。由于 1 厘米 = 10,000 微米，所以 1 平方厘米 = (10,000 微米)² = 100,000,000 微米²。因此，150,000 μm² = 150,000 / 100,000,000 平方厘米 = 0.0015 平方厘米。清点图 36.13 中清晰可辨的完整气孔，共有 6 个。因此，气孔密度为 6 个气孔 / 0.0015 平方厘米 = 4000 个气孔/平方厘米。",
+      "es": "El área de la micrografía es de 500 μm por 300 μm, lo que equivale a 150,000 μm². Dado que 1 cm = 10,000 μm, entonces 1 cm² = (10,000 μm)² = 100,000,000 μm². Por lo tanto, 150,000 μm² = 150,000 / 100,000,000 cm² = 0.0015 cm². Contando los estomas completos claramente distinguibles en la Figura 36.13, hay 6 estomas. Así, la densidad estomática es 6 estomas / 0.0015 cm² = 4000 estomas/cm².",
+      "fr": "La zone de la micrographie est de 500 μm par 300 μm, ce qui équivaut à 150 000 μm². Puisque 1 cm = 10 000 μm, alors 1 cm² = (10 000 μm)² = 100 000 000 μm². Par conséquent, 150 000 μm² = 150 000 / 100 000 000 cm² = 0,0015 cm². En comptant les stomates complets clairement distinguables sur la Figure 36.13, il y a 6 stomates. Ainsi, la densité stomatique est de 6 stomates / 0,0015 cm² = 4000 stomates/cm².",
+      "de": "Die Mikrofotografiefläche beträgt 500 μm mal 300 μm, was 150.000 μm² entspricht. Da 1 cm = 10.000 μm ist, ist 1 cm² = (10.000 μm)² = 100.000.000 μm². Daher sind 150.000 μm² = 150.000 / 100.000.000 cm² = 0,0015 cm². Zählt man die klar unterscheidbaren vollständigen Stomata in Abbildung 36.13, so sind es 6 Stomata. Die Stomatadichte beträgt somit 6 Stomata / 0,0015 cm² = 4000 Stomata/cm².",
+      "ja": "顕微鏡写真の面積は500μm×300μmで、150,000μm²に相当します。1cm=10,000μmなので、1cm²=(10,000μm)²=100,000,000μm²となります。したがって、150,000μm²=150,000/100,000,000cm²=0.0015cm²です。図36.13で明確に識別できる完全な気孔を数えると、6個あります。したがって、気孔密度は6個/0.0015cm²=4000個の気孔/cm²です。"
+    }
+  },
+  {
+    "page_number": 846,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following is the primary mechanism by which guard cells become turgid and cause stomatal opening?",
+      "zh": "以下哪项是保卫细胞膨胀并导致气孔张开的主要机制？",
+      "es": "¿Cuál de los siguientes es el mecanismo principal por el cual las células guarda se vuelven turgentes y provocan la apertura estomática?",
+      "fr": "Lequel des mécanismes suivants est le principal par lequel les cellules de garde deviennent turgescentes et provoquent l'ouverture stomatique ?",
+      "de": "Welcher der folgenden Mechanismen führt primär dazu, dass Schließzellen turgeszent werden und die Stomataöffnung bewirken?",
+      "ja": "次のうち、孔辺細胞が膨圧になり、気孔を開口させる主要なメカニズムはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Active transport of water into the guard cells.",
+          "zh": "水主动运输进入保卫细胞。",
+          "es": "Transporte activo de agua hacia las células guarda.",
+          "fr": "Transport actif de l'eau dans les cellules de garde.",
+          "de": "Aktiver Transport von Wasser in die Schließzellen.",
+          "ja": "水が孔辺細胞に能動輸送されること。"
+        },
+        "feedback": {
+          "en": "Water enters guard cells by osmosis, which is a passive process, driven by the solute potential created by ion uptake.",
+          "zh": "水通过渗透作用进入保卫细胞，这是一种被动过程，由离子吸收产生的溶质势驱动。",
+          "es": "El agua entra en las células guarda por ósmosis, que es un proceso pasivo, impulsado por el potencial de soluto creado por la absorción de iones.",
+          "fr": "L'eau entre dans les cellules de garde par osmose, un processus passif, entraîné par le potentiel osmotique créé par l'absorption d'ions.",
+          "de": "Wasser tritt durch Osmose in die Schließzellen ein, ein passiver Prozess, der durch das durch Ionenaufnahme erzeugte osmotische Potential angetrieben wird.",
+          "ja": "水は孔辺細胞に浸透によって入ります。これは受動的なプロセスであり、イオン吸収によって生じる溶質ポテンシャルによって駆動されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Passive diffusion of CO2 into the guard cells, increasing internal pressure.",
+          "zh": "CO2 被动扩散进入保卫细胞，增加内部压力。",
+          "es": "Difusión pasiva de CO2 hacia las células guarda, aumentando la presión interna.",
+          "fr": "Diffusion passive du CO2 dans les cellules de garde, augmentant la pression interne.",
+          "de": "Passive Diffusion von CO2 in die Schließzellen, wodurch der Innendruck erhöht wird.",
+          "ja": "CO2が孔辺細胞に受動拡散し、内部圧力を増加させること。"
+        },
+        "feedback": {
+          "en": "While CO2 is important for photosynthesis, its passive diffusion does not directly regulate guard cell turgor for stomatal opening.",
+          "zh": "虽然二氧化碳对光合作用很重要，但其被动扩散不直接调节保卫细胞的膨压以促进气孔张开。",
+          "es": "Aunque el CO2 es importante para la fotosíntesis, su difusión pasiva no regula directamente la turgencia de las células guarda para la apertura estomática.",
+          "fr": "Bien que le CO2 soit important pour la photosynthèse, sa diffusion passive ne régule pas directement la turgescence des cellules de garde pour l'ouverture stomatique.",
+          "de": "Obwohl CO2 für die Photosynthese wichtig ist, reguliert seine passive Diffusion nicht direkt den Turgor der Schließzellen zur Stomataöffnung.",
+          "ja": "CO2は光合成にとって重要ですが、その受動拡散は気孔開口のための孔辺細胞の膨圧を直接調節するものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Active uptake of K+ ions into the guard cells, followed by water entry via osmosis.",
+          "zh": "K+ 离子主动吸收进入保卫细胞，随后水通过渗透作用进入。",
+          "es": "Captación activa de iones K+ en las células guarda, seguida de la entrada de agua por ósmosis.",
+          "fr": "Absorption active des ions K+ dans les cellules de garde, suivie de l'entrée d'eau par osmose.",
+          "de": "Aktive Aufnahme von K+-Ionen in die Schließzellen, gefolgt von Wassereintritt durch Osmose.",
+          "ja": "K+イオンが孔辺細胞に能動的に取り込まれ、その後に水が浸透によって入ること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Release of H+ ions from the guard cells, increasing their internal pH.",
+          "zh": "H+ 离子从保卫细胞中释放，增加其内部 pH 值。",
+          "es": "Liberación de iones H+ de las células guarda, aumentando su pH interno.",
+          "fr": "Libération des ions H+ des cellules de garde, augmentant leur pH interne.",
+          "de": "Freisetzung von H+-Ionen aus den Schließzellen, wodurch deren interner pH-Wert steigt.",
+          "ja": "孔辺細胞からH+イオンが放出され、細胞内pHが上昇すること。"
+        },
+        "feedback": {
+          "en": "H+ efflux creates a membrane potential that facilitates K+ uptake, but K+ uptake and subsequent water entry are the direct causes of increased turgor.",
+          "zh": "H+ 外流产生膜电位，促进 K+ 吸收，但 K+ 吸收和随后的水进入是膨压增加的直接原因。",
+          "es": "El eflujo de H+ crea un potencial de membrana que facilita la absorción de K+, pero la absorción de K+ y la posterior entrada de agua son las causas directas del aumento de la turgencia.",
+          "fr": "L'efflux de H+ crée un potentiel membranaire qui facilite l'absorption de K+, mais l'absorption de K+ et l'entrée d'eau subséquente sont les causes directes de l'augmentation de la turgescence.",
+          "de": "Der H+-Ausstrom erzeugt ein Membranpotential, das die K+-Aufnahme erleichtert, aber die K+-Aufnahme und der anschließende Wassereintritt sind die direkten Ursachen für den erhöhten Turgor.",
+          "ja": "H+の流出はK+の取り込みを促進する膜電位を生成しますが、K+の取り込みとその後の水の流入が膨圧増加の直接的な原因です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explains that stomata open when guard cells actively accumulate K+ from neighboring epidermal cells. This K+ uptake causes the water potential to become more negative, leading to water entry by osmosis and increased turgor.",
+      "zh": "文本解释说，当保卫细胞主动从邻近的表皮细胞吸收 K+ 时，气孔就会张开。这种 K+ 的吸收导致水势变得更负，从而导致水通过渗透作用进入并增加膨压。",
+      "es": "El texto explica que los estomas se abren cuando las células guarda acumulan activamente K+ de las células epidérmicas vecinas. Esta captación de K+ hace que el potencial hídrico se vuelva más negativo, lo que lleva a la entrada de agua por ósmosis y al aumento de la turgencia.",
+      "fr": "Le texte explique que les stomates s'ouvrent lorsque les cellules de garde accumulent activement du K+ des cellules épidermiques voisines. Cette absorption de K+ fait que le potentiel hydrique devient plus négatif, entraînant l'entrée d'eau par osmose et une augmentation de la turgescence.",
+      "de": "Der Text erklärt, dass Stomata sich öffnen, wenn Schließzellen aktiv K+ aus benachbarten Epidermiszellen aufnehmen. Diese K+-Aufnahme führt dazu, dass das Wasserpotential negativer wird, was den Wassereintritt durch Osmose und einen erhöhten Turgor bewirkt.",
+      "ja": "本文では、孔辺細胞が隣接する表皮細胞からK+を能動的に蓄積すると、気孔が開口すると説明されています。このK+の取り込みにより水ポテンシャルがより負になり、浸透によって水が流入し、膨圧が増加します。"
+    }
+  },
+  {
+    "page_number": 846,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the provided text, which of the following factors can influence the stomatal density of a plant?",
+      "zh": "根据所提供的文本，以下哪些因素会影响植物的气孔密度？",
+      "es": "Según el texto proporcionado, ¿cuál de los siguientes factores puede influir en la densidad estomática de una planta?",
+      "fr": "Selon le texte fourni, lequel des facteurs suivants peut influencer la densité stomatique d'une plante ?",
+      "de": "Welche der folgenden Faktoren können laut dem bereitgestellten Text die Stomatadichte einer Pflanze beeinflussen?",
+      "ja": "提供されたテキストによると、植物の気孔密度に影響を与える可能性のある要因は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Genetic makeup and atmospheric CO2 levels.",
+          "zh": "遗传构成和大气二氧化碳水平。",
+          "es": "Composición genética y niveles atmosféricos de CO2.",
+          "fr": "La constitution génétique et les niveaux atmosphériques de CO2.",
+          "de": "Genetische Ausstattung und atmosphärische CO2-Konzentration.",
+          "ja": "遺伝的構成と大気中のCO2レベル。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Only the amount of sunlight received by the plant.",
+          "zh": "仅是植物接收到的阳光量。",
+          "es": "Solo la cantidad de luz solar recibida por la planta.",
+          "fr": "Seulement la quantité de lumière solaire reçue par la plante.",
+          "de": "Nur die Menge des von der Pflanze empfangenen Sonnenlichts.",
+          "ja": "植物が受ける日光の量だけ。"
+        },
+        "feedback": {
+          "en": "While sunlight is an environmental factor, the text also explicitly mentions genetic control, CO2 levels, and the historical context of atmospheric CO2 changes influencing stomatal density.",
+          "zh": "虽然阳光是环境因素之一，但文本也明确提到遗传控制、二氧化碳水平以及大气二氧化碳变化的 LIS 历史背景都会影响气孔密度。",
+          "es": "Aunque la luz solar es un factor ambiental, el texto también menciona explícitamente el control genético, los niveles de CO2 y el contexto histórico de los cambios en el CO2 atmosférico que influyen en la densidad estomática.",
+          "fr": "Bien que la lumière du soleil soit un facteur environnemental, le texte mentionne également explicitement le contrôle génétique, les niveaux de CO2 et le contexte historique des changements atmosphériques de CO2 influençant la densité stomatique.",
+          "de": "Sonnenlicht ist zwar ein Umweltfaktor, der Text erwähnt jedoch auch explizit genetische Kontrolle, CO2-Konzentrationen und den historischen Kontext atmosphärischer CO2-Veränderungen, die die Stomatadichte beeinflussen.",
+          "ja": "日光は環境要因の一つですが、本文では遺伝的制御、CO2レベル、そして大気中のCO2変化の歴史的背景も気孔密度に影響すると明示されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Primarily the plant's age, with older plants always having higher density.",
+          "zh": "主要是植物的年龄，老植物总是具有更高的密度。",
+          "es": "Principalmente la edad de la planta, con plantas más viejas siempre teniendo mayor densidad.",
+          "fr": "Principalement l'âge de la plante, les plantes plus âgées ayant toujours une densité plus élevée.",
+          "de": "Primär das Alter der Pflanze, wobei ältere Pflanzen immer eine höhere Dichte aufweisen.",
+          "ja": "主に植物の年齢で、古い植物ほど常に密度が高い。"
+        },
+        "feedback": {
+          "en": "The text does not mention plant age as a primary factor influencing stomatal density, nor does it state that older plants always have higher density.",
+          "zh": "文本中没有提及植物年龄是影响气孔密度的主要因素，也没有说明老植物总是具有更高的密度。",
+          "es": "El texto no menciona la edad de la planta como un factor principal que influya en la densidad estomática, ni afirma que las plantas más viejas siempre tengan mayor densidad.",
+          "fr": "Le texte ne mentionne pas l'âge de la plante comme un facteur principal influençant la densité stomatique, ni n'indique que les plantes plus âgées ont toujours une densité plus élevée.",
+          "de": "Der Text erwähnt das Pflanzenalter nicht als Hauptfaktor, der die Stomatadichte beeinflusst, noch besagt er, dass ältere Pflanzen immer eine höhere Dichte aufweisen.",
+          "ja": "本文では、植物の年齢が気孔密度に影響を与える主要な要因として言及されておらず、また、古い植物ほど常に密度が高いとも述べられていません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The presence of pathogens, leading to reduced stomatal numbers.",
+          "zh": "病原体的存在，导致气孔数量减少。",
+          "es": "La presencia de patógenos, lo que lleva a un número reducido de estomas.",
+          "fr": "La présence de pathogènes, entraînant une réduction du nombre de stomates.",
+          "de": "Das Vorhandensein von Krankheitserregern, was zu einer reduzierten Stomataanzahl führt.",
+          "ja": "病原体の存在が気孔数の減少につながること。"
+        },
+        "feedback": {
+          "en": "The provided text does not mention pathogens as a factor influencing stomatal density.",
+          "zh": "提供的文本中没有提及病原体是影响气孔密度的因素。",
+          "es": "El texto proporcionado no menciona los patógenos como un factor que influya en la densidad estomática.",
+          "fr": "Le texte fourni ne mentionne pas les pathogènes comme facteur influençant la densité stomatique.",
+          "de": "Der bereitgestellte Text erwähnt keine Krankheitserreger als Faktor, der die Stomatadichte beeinflusst.",
+          "ja": "提供されたテキストでは、病原体が気孔密度に影響を与える要因として言及されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states that 'Stomatal density can be under both genetic and environmental control.' It further elaborates that 'Low CO2 levels during leaf development, for example, lead to increased stomatal densities.' This directly supports genetic makeup and atmospheric CO2 levels as influencing factors.",
+      "zh": "文本指出“气孔密度受遗传和环境双重控制。”它进一步阐述说，“例如，在叶片发育过程中，低 CO2 水平会导致气孔密度增加。”这直接支持了遗传构成和大气二氧化碳水平是影响因素。",
+      "es": "El texto afirma que 'la densidad estomática puede estar bajo control tanto genético como ambiental'. Además, detalla que 'los bajos niveles de CO2 durante el desarrollo de la hoja, por ejemplo, conducen a un aumento de las densidades estomáticas'. Esto apoya directamente la composición genética y los niveles atmosféricos de CO2 como factores influyentes.",
+      "fr": "Le texte indique que 'la densité stomatique peut être sous contrôle génétique et environnemental'. Il précise en outre que 'de faibles niveaux de CO2 pendant le développement des feuilles, par exemple, entraînent une augmentation des densités stomatiques'. Cela confirme directement que la constitution génétique et les niveaux atmosphériques de CO2 sont des facteurs influents.",
+      "de": "Der Text besagt, dass 'die Stomatadichte sowohl genetisch als auch umweltbedingt gesteuert werden kann'. Er führt weiter aus, dass 'niedrige CO2-Konzentrationen während der Blattentwicklung beispielsweise zu erhöhten Stomatadichten führen'. Dies unterstützt direkt die genetische Ausstattung und die atmosphärischen CO2-Konzentrationen als Einflussfaktoren.",
+      "ja": "本文には「気孔密度は遺伝的および環境的両方の制御下にある」と述べられています。さらに、「例えば、葉の発達中の低CO2レベルは、気孔密度の増加につながる」と詳しく説明されています。これは、遺伝的構成と大気中のCO2レベルが影響要因であることを直接裏付けています。"
+    }
+  },
+  {
+    "page_number": 846,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Figure 36.14a illustrates how guard cell shape changes to regulate stomatal opening. What structural feature of the guard cell wall is crucial for its outward bowing during turgor increase?",
+      "zh": "图 36.14a 阐释了保卫细胞形状如何变化以调节气孔张开。保卫细胞壁的哪个结构特征对其在膨压增加时向外弯曲至关重要？",
+      "es": "La Figura 36.14a ilustra cómo la forma de las células guarda cambia para regular la apertura estomática. ¿Qué característica estructural de la pared celular de las células guarda es crucial para su arqueamiento hacia afuera durante el aumento de la turgencia?",
+      "fr": "La Figure 36.14a illustre comment la forme des cellules de garde change pour réguler l'ouverture stomatique. Quelle caractéristique structurelle de la paroi cellulaire des cellules de garde est cruciale pour son incurvation vers l'extérieur lors de l'augmentation de la turgescence ?",
+      "de": "Abbildung 36.14a veranschaulicht, wie sich die Form der Schließzellen ändert, um die Stomataöffnung zu regulieren. Welches strukturelle Merkmal der Schließzellenwand ist entscheidend für deren Auswölbung während des Turgorerhöhung?",
+      "ja": "図36.14aは、気孔開口を調節するために孔辺細胞の形状がどのように変化するかを示しています。膨圧が増加する際に、孔辺細胞壁のどの構造的特徴がその外側への湾曲に不可欠ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The uniform thickness of the cell walls.",
+          "zh": "细胞壁的厚度均匀。",
+          "es": "El grosor uniforme de las paredes celulares.",
+          "fr": "L'épaisseur uniforme des parois cellulaires.",
+          "de": "Die gleichmäßige Dicke der Zellwände.",
+          "ja": "細胞壁の厚さが均一であること。"
+        },
+        "feedback": {
+          "en": "The text states that the cell walls facing the stomatal pore are thicker, indicating non-uniform thickness, which is important for the bowing mechanism.",
+          "zh": "文本指出，朝向气孔孔隙的细胞壁较厚，表明厚度不均匀，这对弯曲机制很重要。",
+          "es": "El texto indica que las paredes celulares que dan al poro estomático son más gruesas, lo que indica un grosor no uniforme, lo cual es importante para el mecanismo de arqueamiento.",
+          "fr": "Le texte indique que les parois cellulaires faisant face au pore stomatique sont plus épaisses, ce qui indique une épaisseur non uniforme, importante pour le mécanisme d'incurvation.",
+          "de": "Der Text besagt, dass die Zellwände, die dem Stomataporen zugewandt sind, dicker sind, was auf eine ungleichmäßige Dicke hindeutet, die für den Wölbungsmechanismus wichtig ist.",
+          "ja": "本文には、気孔孔に面する細胞壁が厚いと記載されており、厚さが均一でないことが湾曲メカニズムにとって重要であることを示しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The random arrangement of cellulose microfibrils.",
+          "zh": "纤维素微纤维的随机排列。",
+          "es": "La disposición aleatoria de las microfibrillas de celulosa.",
+          "fr": "L'arrangement aléatoire des microfibrilles de cellulose.",
+          "de": "Die zufällige Anordnung der Zellulose-Mikrofibrillen.",
+          "ja": "セルロースミクロフィブリルのランダムな配置。"
+        },
+        "feedback": {
+          "en": "Figure 36.14a and its caption explicitly state that the cellulose microfibrils are radially oriented, which is crucial for the outward bowing.",
+          "zh": "图 36.14a 及其图例明确指出纤维素微纤维呈放射状排列，这对向外弯曲至关重要。",
+          "es": "La Figura 36.14a y su leyenda establecen explícitamente que las microfibrillas de celulosa están orientadas radialmente, lo cual es crucial para el arqueamiento hacia afuera.",
+          "fr": "La Figure 36.14a et sa légende indiquent explicitement que les microfibrilles de cellulose sont orientées radialement, ce qui est crucial pour l'incurvation vers l'extérieur.",
+          "de": "Abbildung 36.14a und ihre Beschriftung geben explizit an, dass die Zellulose-Mikrofibrillen radial ausgerichtet sind, was für die Auswärtswölbung entscheidend ist.",
+          "ja": "図36.14aとその説明文は、セルロースミクロフィブリルが放射状に配向していることを明確に示しており、これが外側への湾曲にとって極めて重要です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The radial orientation of cellulose microfibrils in the cell walls.",
+          "zh": "细胞壁中纤维素微纤维的放射状排列。",
+          "es": "La orientación radial de las microfibrillas de celulosa en las paredes celulares.",
+          "fr": "L'orientation radiale des microfibrilles de cellulose dans les parois cellulaires.",
+          "de": "Die radiale Ausrichtung der Zellulose-Mikrofibrillen in den Zellwänden.",
+          "ja": "細胞壁におけるセルロースミクロフィブリルの放射状配向。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The presence of a large central nucleus.",
+          "zh": "存在一个大的中央细胞核。",
+          "es": "La presencia de un gran núcleo central.",
+          "fr": "La présence d'un grand noyau central.",
+          "de": "Das Vorhandensein eines großen zentralen Zellkerns.",
+          "ja": "大きな中心核の存在。"
+        },
+        "feedback": {
+          "en": "While the nucleus is vital for cell function, the physical bowing mechanism is primarily attributed to the structure and orientation of the cell wall components, specifically the cellulose microfibrils.",
+          "zh": "虽然细胞核对细胞功能至关重要，但物理弯曲机制主要归因于细胞壁组分的结构和排列，特别是纤维素微纤维。",
+          "es": "Aunque el núcleo es vital para la función celular, el mecanismo físico de arqueamiento se atribuye principalmente a la estructura y orientación de los componentes de la pared celular, específicamente las microfibrillas de celulosa.",
+          "fr": "Bien que le noyau soit vital pour la fonction cellulaire, le mécanisme physique d'incurvation est principalement attribué à la structure et à l'orientation des composants de la paroi cellulaire, en particulier les microfibrilles de cellulose.",
+          "de": "Obwohl der Zellkern für die Zellfunktion entscheidend ist, wird der physikalische Wölbungsmechanismus primär der Struktur und Ausrichtung der Zellwandkomponenten, insbesondere der Zellulose-Mikrofibrillen, zugeschrieben.",
+          "ja": "核は細胞機能にとって不可欠ですが、物理的な湾曲メカニズムは主に細胞壁構成要素、特にセルロースミクロフィブリルの構造と配向に起因します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 36.14a and its accompanying text clearly state that 'The radial orientation of cellulose microfibrils in the cell walls causes the guard cells to increase more in length than width when turgor increases.' This radial arrangement is what facilitates the outward bowing and subsequent stomatal opening.",
+      "zh": "图 36.14a 及其附带文本清楚地指出：“细胞壁中纤维素微纤维的径向排列导致保卫细胞在膨压增加时长度增长大于宽度。”这种径向排列是促进向外弯曲和随后的气孔张开的关键。",
+      "es": "La Figura 36.14a y su texto adjunto establecen claramente que 'la orientación radial de las microfibrillas de celulosa en las paredes celulares hace que las células guarda aumenten más en longitud que en anchura cuando aumenta la turgencia'. Esta disposición radial es lo que facilita el arqueamiento hacia afuera y la subsiguiente apertura estomática.",
+      "fr": "La Figure 36.14a et son texte d'accompagnement indiquent clairement que 'l'orientation radiale des microfibrilles de cellulose dans les parois cellulaires fait que les cellules de garde augmentent davantage en longueur qu'en largeur lorsque la turgescence augmente'. Cet arrangement radial est ce qui facilite l'incurvation vers l'extérieur et l'ouverture stomatique subséquente.",
+      "de": "Abbildung 36.14a und der dazugehörige Text besagen klar, dass 'die radiale Ausrichtung der Zellulose-Mikrofibrillen in den Zellwänden dazu führt, dass die Schließzellen bei zunehmendem Turgor mehr in der Länge als in der Breite zunehmen'. Diese radiale Anordnung erleichtert die Auswärtswölbung und die anschließende Stomataöffnung.",
+      "ja": "図36.14aとその付随するテキストは、「細胞壁におけるセルロースミクロフィブリルの放射状配向が、膨圧が増加した際に孔辺細胞が幅よりも長さを増す原因となる」と明確に述べています。この放射状配置が、外側への湾曲とその後の気孔開口を促進するものです。"
+    }
+  }
+]

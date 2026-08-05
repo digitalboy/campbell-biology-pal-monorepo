@@ -1,0 +1,95 @@
+openapi: 3.1.0
+info:
+  title: "Dashboard API"
+  version: "1.0.0"
+  description: "API for fetching user's dashboard statistics."
+servers:
+  - url: "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1"
+    description: "Production Server"
+  - url: "http://localhost:3000/api/v1"
+    description: "Local Development Server"
+paths:
+  /users/me/dashboard-stats:
+    get:
+      tags:
+        - "Dashboard"
+      summary: "Get Dashboard Stats"
+      description: "Retrieves learning statistics for the authenticated user's dashboard."
+      operationId: "getDashboardStats"
+      security:
+        - bearerAuth: []
+      responses:
+        "200":
+          description: "Successfully retrieved dashboard statistics."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  data:
+                    $ref: "#/components/schemas/DashboardStats"
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+
+components:
+  schemas:
+    DashboardStats:
+      type: object
+      properties:
+        dueReviewCount:
+          type: integer
+          description: "Number of questions currently due for review."
+        totalAnswers:
+          type: integer
+          description: "Total number of answers logged by the user."
+        overallAccuracy:
+          type: number
+          format: float
+          description: "A value between 0 and 1 representing the overall accuracy of all answers."
+        weakestTopic:
+          type: object
+          nullable: true
+          description: "(Placeholder) The topic the user struggles with the most."
+          properties:
+            name:
+              type: string
+              nullable: true
+        activityChart:
+          type: object
+          description: "(Placeholder) Data for rendering an activity chart."
+    LearningProgress:
+      type: object
+      properties:
+        date:
+          type: string
+          format: date
+          description: "The date for the recorded activity."
+        questions_answered:
+          type: integer
+          description: "Number of questions answered on this date."
+    ErrorResponse:
+      type: object
+      properties:
+        ok:
+          type: boolean
+          example: false
+        message:
+          type: string
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT

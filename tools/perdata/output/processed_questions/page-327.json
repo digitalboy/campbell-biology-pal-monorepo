@@ -1,0 +1,182 @@
+[
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Consider a trihybrid cross between two pea plants: PpYyRr x Ppyyrr. What is the probability of an offspring having the genotype ppYyrr?",
+      "zh": "考虑两个豌豆植株的三基因杂交：PpYyRr x Ppyyrr。后代出现ppYyrr基因型的概率是多少？",
+      "es": "Considere un cruce trihíbrido entre dos plantas de guisantes: PpYyRr x Ppyyrr. ¿Cuál es la probabilidad de que una descendencia tenga el genotipo ppYyrr?",
+      "fr": "Considérez un croisement trihybride entre deux plants de pois : PpYyRr x Ppyyrr. Quelle est la probabilité qu'un descendant ait le génotype ppYyrr ?",
+      "de": "Betrachten Sie eine trihybride Kreuzung zwischen zwei Erbsenpflanzen: PpYyRr x Ppyyrr. Wie hoch ist die Wahrscheinlichkeit, dass ein Nachkomme den Genotyp ppYyrr hat?",
+      "ja": "2つのエンドウ豆植物間の三遺伝子雑種交配を考えてみましょう：PpYyRr x Ppyyrr。子孫がppYyrrの遺伝子型を持つ確率はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1/4",
+          "zh": "1/4",
+          "es": "1/4",
+          "fr": "1/4",
+          "de": "1/4",
+          "ja": "1/4"
+        },
+        "feedback": {
+          "en": "This is the probability for only one of the allele pairs (e.g., Pp x Pp -> pp). You need to consider all three genes.",
+          "zh": "这仅仅是一对等位基因的概率（例如 Pp x Pp -> pp）。你需要考虑所有三个基因。",
+          "es": "Esta es la probabilidad de solo uno de los pares de alelos (p. ej., Pp x Pp -> pp). Debe considerar los tres genes.",
+          "fr": "C'est la probabilité pour une seule des paires d'allèles (par exemple, Pp x Pp -> pp). Vous devez considérer les trois gènes.",
+          "de": "Dies ist die Wahrscheinlichkeit für nur eines der Allelpaare (z. B. Pp x Pp -> pp). Sie müssen alle drei Gene berücksichtigen.",
+          "ja": "これは、対立遺伝子のペアの1つ（例：Pp x Pp -> pp）のみの確率です。3つの遺伝子すべてを考慮する必要があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "1/8",
+          "zh": "1/8",
+          "es": "1/8",
+          "fr": "1/8",
+          "de": "1/8",
+          "ja": "1/8"
+        },
+        "feedback": {
+          "en": "This is close, but check the individual probabilities for each gene pair cross.",
+          "zh": "这个很接近，但请检查每个基因对杂交的独立概率。",
+          "es": "Esto está cerca, pero verifique las probabilidades individuales para cada cruce de pares de genes.",
+          "fr": "C'est proche, mais vérifiez les probabilités individuelles pour chaque croisement de paires de gènes.",
+          "de": "Das ist nah dran, aber überprüfen Sie die einzelnen Wahrscheinlichkeiten für jede Genpaarkreuzung.",
+          "ja": "惜しいですが、各遺伝子ペアの交配の個々の確率を確認してください。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "1/16",
+          "zh": "1/16",
+          "es": "1/16",
+          "fr": "1/16",
+          "de": "1/16",
+          "ja": "1/16"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "1/32",
+          "zh": "1/32",
+          "es": "1/32",
+          "fr": "1/32",
+          "de": "1/32",
+          "ja": "1/32"
+        },
+        "feedback": {
+          "en": "This would be the probability for a genotype like ppyyrr. Check the probability for the Yy cross.",
+          "zh": "这会是像ppyyrr这样的基因型的概率。请检查Yy杂交的概率。",
+          "es": "Esta sería la probabilidad de un genotipo como ppyyrr. Verifique la probabilidad para el cruce Yy.",
+          "fr": "Ce serait la probabilité pour un génotype comme ppyyrr. Vérifiez la probabilité pour le croisement Yy.",
+          "de": "Dies wäre die Wahrscheinlichkeit für einen Genotyp wie ppyyrr. Überprüfen Sie die Wahrscheinlichkeit für die Yy-Kreuzung.",
+          "ja": "これはppyyrrのような遺伝子型の確率になります。Yy交配の確率を確認してください。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "We calculate the probability for each gene pair independently: Prob(pp) from Pp x Pp is 1/4. Prob(Yy) from Yy x yy is 1/2. Prob(rr) from Rr x rr is 1/2. Using the multiplication rule, the final probability is 1/4 * 1/2 * 1/2 = 1/16. This exact calculation is shown in the text.",
+      "zh": "我们独立计算每个基因对的概率：从Pp x Pp得到pp的概率是1/4。从Yy x yy得到Yy的概率是1/2。从Rr x rr得到rr的概率是1/2。使用乘法法则，最终概率是 1/4 * 1/2 * 1/2 = 1/16。这个确切的计算过程在文本中有展示。",
+      "es": "Calculamos la probabilidad para cada par de genes de forma independiente: Prob(pp) de Pp x Pp es 1/4. Prob(Yy) de Yy x yy es 1/2. Prob(rr) de Rr x rr es 1/2. Usando la regla de la multiplicación, la probabilidad final es 1/4 * 1/2 * 1/2 = 1/16. Este cálculo exacto se muestra en el texto.",
+      "fr": "Nous calculons la probabilité pour chaque paire de gènes indépendamment : Prob(pp) de Pp x Pp est 1/4. Prob(Yy) de Yy x yy est 1/2. Prob(rr) de Rr x rr est 1/2. En utilisant la règle de multiplication, la probabilité finale est 1/4 * 1/2 * 1/2 = 1/16. Ce calcul exact est montré dans le texte.",
+      "de": "Wir berechnen die Wahrscheinlichkeit für jedes Genpaar unabhängig: Prob(pp) aus Pp x Pp ist 1/4. Prob(Yy) aus Yy x yy ist 1/2. Prob(rr) aus Rr x rr ist 1/2. Unter Anwendung der Multiplikationsregel beträgt die endgültige Wahrscheinlichkeit 1/4 * 1/2 * 1/2 = 1/16. Diese genaue Berechnung wird im Text gezeigt.",
+      "ja": "各遺伝子ペアの確率を独立して計算します：Pp x Ppからのppの確率は1/4です。Yy x yyからのYyの確率は1/2です。Rr x rrからのrrの確率は1/2です。乗法の法則を使用すると、最終的な確率は1/4 * 1/2 * 1/2 = 1/16になります。この正確な計算は本文に示されています。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "In the same cross (PpYyRr x Ppyyrr), what is the fraction of offspring predicted to exhibit at least two recessive phenotypes?",
+      "zh": "在同一个杂交（PpYyRr x Ppyyrr）中，预计后代中表现出至少两种隐性性状的比例是多少？",
+      "es": "En el mismo cruce (PpYyRr x Ppyyrr), ¿cuál es la fracción de descendencia que se predice que exhibirá al menos dos fenotipos recesivos?",
+      "fr": "Dans le même croisement (PpYyRr x Ppyyrr), quelle est la fraction de la progéniture qui devrait présenter au moins deux phénotypes récessifs ?",
+      "de": "Welcher Anteil der Nachkommen wird bei derselben Kreuzung (PpYyRr x Ppyyrr) voraussichtlich mindestens zwei rezessive Phänotypen aufweisen?",
+      "ja": "同じ交配（PpYyRr x Ppyyrr）において、少なくとも2つの劣性表現型を示すと予測される子孫の割合はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1/16",
+          "zh": "1/16",
+          "es": "1/16",
+          "fr": "1/16",
+          "de": "1/16",
+          "ja": "1/16"
+        },
+        "feedback": {
+          "en": "This is the probability for a specific genotype like ppyyRr, but you need to consider all genotypes that satisfy the condition and add their probabilities.",
+          "zh": "这是像ppyyrr这样的特定基因型的概率，但你需要考虑所有满足条件的基因型并将其概率相加。",
+          "es": "Esta es la probabilidad de un genotipo específico como ppyyRr, pero debe considerar todos los genotipos que satisfacen la condición y sumar sus probabilidades.",
+          "fr": "C'est la probabilité pour un génotype spécifique comme ppyyRr, mais vous devez considérer tous les génotypes qui satisfont à la condition et additionner leurs probabilités.",
+          "de": "Dies ist die Wahrscheinlichkeit für einen bestimmten Genotyp wie ppyyRr, aber Sie müssen alle Genotypen berücksichtigen, die die Bedingung erfüllen, und ihre Wahrscheinlichkeiten addieren.",
+          "ja": "これはppyyrrのような特定の遺伝子型の確率ですが、条件を満たすすべての遺伝子型を考慮し、その確率を合計する必要があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "3/16",
+          "zh": "3/16",
+          "es": "3/16",
+          "fr": "3/16",
+          "de": "3/16",
+          "ja": "3/16"
+        },
+        "feedback": {
+          "en": "This is close, but you may have missed one of the possible genotypes or made a calculation error.",
+          "zh": "这个很接近，但你可能漏掉了一个可能的基因型或计算错误。",
+          "es": "Esto está cerca, pero es posible que se haya perdido uno de los posibles genotipos o haya cometido un error de cálculo.",
+          "fr": "C'est proche, mais vous avez peut-être manqué l'un des génotypes possibles ou commis une erreur de calcul.",
+          "de": "Das ist nah dran, aber Sie haben möglicherweise einen der möglichen Genotypen übersehen oder einen Rechenfehler gemacht.",
+          "ja": "惜しいですが、考えられる遺伝子型の1つを見逃したか、計算を間違えた可能性があります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "6/16 or 3/8",
+          "zh": "6/16 或 3/8",
+          "es": "6/16 o 3/8",
+          "fr": "6/16 ou 3/8",
+          "de": "6/16 oder 3/8",
+          "ja": "6/16または3/8"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "9/16",
+          "zh": "9/16",
+          "es": "9/16",
+          "fr": "9/16",
+          "de": "9/16",
+          "ja": "9/16"
+        },
+        "feedback": {
+          "en": "This is the fraction of offspring showing the dominant phenotype for all three traits. The question asks for at least two recessive phenotypes.",
+          "zh": "这是表现出所有三种性状的显性表现型的后代比例。问题要求的是至少两种隐性表现型。",
+          "es": "Esta es la fracción de la descendencia que muestra el fenotipo dominante para los tres rasgos. La pregunta se refiere a al menos dos fenotipos recesivos.",
+          "fr": "C'est la fraction de la progéniture qui présente le phénotype dominant pour les trois caractères. La question porte sur au moins deux phénotypes récessifs.",
+          "de": "Dies ist der Anteil der Nachkommen, der den dominanten Phänotyp für alle drei Merkmale zeigt. Die Frage bezieht sich auf mindestens zwei rezessive Phänotypen.",
+          "ja": "これは、3つの形質すべてについて優性表現型を示す子孫の割合です。質問は、少なくとも2つの劣性表現型について尋ねています。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text walks through this exact calculation. You must list all genotypes with at least two recessive traits (ppyyrr, ppYyrr, Ppyyrr, PPyyrr, ppyyRr), calculate the probability of each using the multiplication rule, and then add them together using the addition rule. The probabilities are (1/16 + 1/16 + 2/16 + 1/16 + 1/16) = 6/16 = 3/8.",
+      "zh": "文本详细说明了这个计算过程。你必须列出所有至少有两个隐性性状的基因型（ppyyrr, ppYyrr, Ppyyrr, PPyyrr, ppyyRr），使用乘法法则计算每种基因型的概率，然后使用加法法则将它们相加。概率为 (1/16 + 1/16 + 2/16 + 1/16 + 1/16) = 6/16 = 3/8。",
+      "es": "El texto explica este cálculo exacto. Debe enumerar todos los genotipos con al menos dos rasgos recesivos (ppyyrr, ppYyrr, Ppyyrr, PPyyrr, ppyyRr), calcular la probabilidad de cada uno usando la regla de la multiplicación y luego sumarlos usando la regla de la suma. Las probabilidades son (1/16 + 1/16 + 2/16 + 1/16 + 1/16) = 6/16 = 3/8.",
+      "fr": "Le texte explique ce calcul exact. Vous devez lister tous les génotypes avec au moins deux caractères récessifs (ppyyrr, ppYyrr, Ppyyrr, PPyyrr, ppyyRr), calculer la probabilité de chacun en utilisant la règle de multiplication, puis les additionner en utilisant la règle de l'addition. Les probabilités sont (1/16 + 1/16 + 2/16 + 1/16 + 1/16) = 6/16 = 3/8.",
+      "de": "Der Text führt diese genaue Berechnung durch. Sie müssen alle Genotypen mit mindestens zwei rezessiven Merkmalen auflisten (ppyyrr, ppYyrr, Ppyyrr, PPyyrr, ppyyRr), die Wahrscheinlichkeit für jeden mithilfe der Multiplikationsregel berechnen und sie dann mithilfe der Additionsregel addieren. Die Wahrscheinlichkeiten sind (1/16 + 1/16 + 2/16 + 1/16 + 1/16) = 6/16 = 3/8.",
+      "ja": "本文では、この正確な計算を順を追って説明しています。少なくとも2つの劣性形質を持つすべての遺伝子型（ppyyrr、ppYyrr、Ppyyrr、PPyyrr、ppyyrr）をリストし、乗法の法則を使用してそれぞれの確率を計算し、次に加法の法則を使用してそれらを合計する必要があります。確率は（1/16 + 1/16 + 2/16 + 1/16 + 1/16）= 6/16 = 3/8です。"
+    }
+  }
+]

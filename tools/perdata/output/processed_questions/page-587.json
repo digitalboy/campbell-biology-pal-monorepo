@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 587,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the 'INTERPRET THE DATA' section, if a horizontal bar on the graph measures 2.0 cm, what is the estimated persistence time of that species?",
+      "zh": "根据“数据解读”部分，如果图表中的水平条测量长度为2.0厘米，那么该物种的估计持续时间是多少？",
+      "es": "Según la sección 'INTERPRETAR LOS DATOS', si una barra horizontal en el gráfico mide 2.0 cm, ¿cuál es el tiempo de persistencia estimado de esa especie?",
+      "fr": "Selon la section 'INTERPRÉTER LES DONNÉES', si une barre horizontale sur le graphique mesure 2,0 cm, quelle est la durée de persistance estimée de cette espèce ?",
+      "de": "Gemäß dem Abschnitt „DATEN INTERPRETIEREN“, wenn ein horizontaler Balken im Diagramm 2,0 cm misst, wie hoch ist die geschätzte Persistenzzeit dieser Spezies?",
+      "ja": "「データの解釈」セクションによると、グラフ上の水平バーが2.0 cmの場合、その種の推定持続期間はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "7.2 million years",
+          "zh": "720万年",
+          "es": "7.2 millones de años",
+          "fr": "7,2 millions d'années",
+          "de": "7,2 Millionen Jahre",
+          "ja": "720万年"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "4.0 million years",
+          "zh": "400万年",
+          "es": "4.0 millones de años",
+          "fr": "4,0 millions d'années",
+          "de": "4,0 Millionen Jahre",
+          "ja": "400万年"
+        },
+        "feedback": {
+          "en": "This value is given as an example for a 1.1 cm bar, not 2.0 cm.",
+          "zh": "这个值是1.1厘米条的例子，而不是2.0厘米的。",
+          "es": "Este valor se da como ejemplo para una barra de 1.1 cm, no de 2.0 cm.",
+          "fr": "Cette valeur est donnée à titre d'exemple pour une barre de 1,1 cm, et non de 2,0 cm.",
+          "de": "Dieser Wert wird als Beispiel für einen 1,1 cm Balken angegeben, nicht für 2,0 cm.",
+          "ja": "この値は1.1cmのバーの例として与えられており、2.0cmではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "25 million years",
+          "zh": "2500万年",
+          "es": "25 millones de años",
+          "fr": "25 millions d'années",
+          "de": "25 Millionen Jahre",
+          "ja": "2500万年"
+        },
+        "feedback": {
+          "en": "This is the total time range used to determine the conversion factor, not a persistence time.",
+          "zh": "这是用于确定转换因子的总时间范围，而不是持续时间。",
+          "es": "Este es el rango de tiempo total utilizado para determinar el factor de conversión, no un tiempo de persistencia.",
+          "fr": "C'est la plage de temps totale utilisée pour déterminer le facteur de conversion, et non une durée de persistance.",
+          "de": "Dies ist der Gesamtzeitbereich, der zur Bestimmung des Umrechnungsfaktors verwendet wurde, nicht eine Persistenzzeit.",
+          "ja": "これは換算係数を決定するために使用された総時間範囲であり、持続期間ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "7.0 million years",
+          "zh": "700万年",
+          "es": "7.0 millones de años",
+          "fr": "7,0 millions d'années",
+          "de": "7,0 Millionen Jahre",
+          "ja": "700万年"
+        },
+        "feedback": {
+          "en": "7.0 cm is the distance representing 25 million years, not a time period itself.",
+          "zh": "7.0厘米是代表2500万年的距离，而不是时间段本身。",
+          "es": "7.0 cm es la distancia que representa 25 millones de años, no un período de tiempo en sí mismo.",
+          "fr": "7,0 cm est la distance représentant 25 millions d'années, et non une période de temps en soi.",
+          "de": "7,0 cm ist die Distanz, die 25 Millionen Jahre repräsentiert, nicht eine Zeitspanne selbst.",
+          "ja": "7.0 cmは2500万年を表す距離であり、それ自体が期間ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states the conversion factor is 3.6 my/cm (25 my / 7.0 cm = 3.6 my/cm). Therefore, a 2.0 cm bar represents 2.0 cm * 3.6 my/cm = 7.2 million years.",
+      "zh": "文本指出转换因子是3.6百万年/厘米（25百万年 / 7.0厘米 = 3.6百万年/厘米）。因此，一个2.0厘米的条代表2.0厘米 * 3.6百万年/厘米 = 7.2百万年。",
+      "es": "El texto indica que el factor de conversión es 3.6 my/cm (25 my / 7.0 cm = 3.6 my/cm). Por lo tanto, una barra de 2.0 cm representa 2.0 cm * 3.6 my/cm = 7.2 millones de años.",
+      "fr": "Le texte indique que le facteur de conversion est de 3,6 millions d'années/cm (25 millions d'années / 7,0 cm = 3,6 millions d'années/cm). Par conséquent, une barre de 2,0 cm représente 2,0 cm * 3,6 millions d'années/cm = 7,2 millions d'années.",
+      "de": "Der Text besagt, dass der Umrechnungsfaktor 3,6 Mio. Jahre/cm beträgt (25 Mio. Jahre / 7,0 cm = 3,6 Mio. Jahre/cm). Daher repräsentiert ein 2,0 cm Balken 2,0 cm * 3,6 Mio. Jahre/cm = 7,2 Millionen Jahre.",
+      "ja": "テキストによると、換算係数は3.6百万年/cm（25百万年 / 7.0 cm = 3.6百万年/cm）です。したがって、2.0 cmのバーは2.0 cm * 3.6百万年/cm = 7.2百万年を表します。"
+    }
+  },
+  {
+    "page_number": 587,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the 'Do Ecological Factors Affect Evolutionary Rates?' section, what is a key difference between species with planktonic larvae and species with nonplanktonic larvae?",
+      "zh": "根据“生态因素是否影响进化速率？”部分，浮游幼体物种和非浮游幼体物种之间的主要区别是什么？",
+      "es": "Según la sección '¿Afectan los Factores Ecológicos a las Tasas Evolutivas?', ¿cuál es una diferencia clave entre las especies con larvas planctónicas y las especies con larvas no planctónicas?",
+      "fr": "Selon la section « Les facteurs écologiques affectent-ils les taux d'évolution ? », quelle est une différence clé entre les espèces à larves planctoniques et les espèces à larves non planctoniques ?",
+      "de": "Gemäß dem Abschnitt „Beeinflussen ökologische Faktoren die Evolutionsraten?“ Was ist ein Hauptunterschied zwischen Arten mit planktonischen Larven und Arten mit nicht-planktonischen Larven?",
+      "ja": "「生態学的要因は進化速度に影響を与えるか？」のセクションによると、浮遊性幼生を持つ種と非浮遊性幼生を持つ種との間の主要な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Species with planktonic larvae have a swimming stage, while those with nonplanktonic larvae do not.",
+          "zh": "浮游幼体物种有游泳阶段，而非浮游幼体物种没有。",
+          "es": "Las especies con larvas planctónicas tienen una etapa de natación, mientras que las que tienen larvas no planctónicas no.",
+          "fr": "Les espèces à larves planctoniques ont un stade de nage, tandis que celles à larves non planctoniques n'en ont pas.",
+          "de": "Arten mit planktonischen Larven haben ein Schwimmstadium, während solche mit nicht-planktonischen Larven keines haben.",
+          "ja": "浮遊性幼生を持つ種は遊泳期を持つが、非浮遊性幼生を持つ種は持たない。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Nonplanktonic species tend to have broad geographic distributions, whereas planktonic species tend to be more isolated.",
+          "zh": "非浮游物种往往有广泛的地理分布，而浮游物种则更趋于孤立。",
+          "es": "Las especies no planctónicas tienden a tener distribuciones geográficas amplias, mientras que las especies planctónicas tienden a estar más aisladas.",
+          "fr": "Les espèces non planctoniques ont tendance à avoir de larges distributions géographiques, tandis que les espèces planctoniques ont tendance à être plus isolées.",
+          "de": "Nicht-planktonische Arten neigen dazu, weite geografische Verbreitungen zu haben, während planktonische Arten eher isoliert sind.",
+          "ja": "非浮遊性の種は広い地理的分布を持つ傾向があるのに対し、浮遊性の種はより孤立する傾向がある。"
+        },
+        "feedback": {
+          "en": "The text states the opposite: planktonic species have broad distributions, and nonplanktonic species are more isolated.",
+          "zh": "文本说明的情况恰好相反：浮游物种有广泛的分布，而非浮游物种更趋于孤立。",
+          "es": "El texto afirma lo contrario: las especies planctónicas tienen distribuciones amplias, y las no planctónicas están más aisladas.",
+          "fr": "Le texte indique l'inverse : les espèces planctoniques ont de larges distributions et les espèces non planctoniques sont plus isolées.",
+          "de": "Der Text besagt das Gegenteil: Planktonische Arten haben weite Verbreitungen, und nicht-planktonische Arten sind isolierter.",
+          "ja": "テキストでは逆のことが述べられています。浮遊性の種は広い分布を持ち、非浮遊性の種はより孤立している傾向があります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Planktonic larvae develop directly into adults without a swimming stage.",
+          "zh": "浮游幼体直接发育成成虫，没有游泳阶段。",
+          "es": "Las larvas planctónicas se desarrollan directamente en adultos sin una etapa de natación.",
+          "fr": "Les larves planctoniques se développent directement en adultes sans stade de nage.",
+          "de": "Planktonische Larven entwickeln sich direkt zu Erwachsenen ohne Schwimmstadium.",
+          "ja": "浮遊性幼生は遊泳期なしに直接成体になる。"
+        },
+        "feedback": {
+          "en": "This describes nonplanktonic larvae, not planktonic larvae.",
+          "zh": "这描述的是非浮游幼体，而不是浮游幼体。",
+          "es": "Esto describe larvas no planctónicas, no larvas planctónicas.",
+          "fr": "Cela décrit les larves non planctoniques, et non les larves planctoniques.",
+          "de": "Dies beschreibt nicht-planktonische Larven, nicht planktonische Larven.",
+          "ja": "これは非浮遊性幼生を記述しており、浮遊性幼生ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Nonplanktonic species can disperse very long distances.",
+          "zh": "非浮游物种可以扩散到很远的距离。",
+          "es": "Las especies no planctónicas pueden dispersarse a distancias muy largas.",
+          "fr": "Les espèces non planctoniques peuvent se disperser sur de très longues distances.",
+          "de": "Nicht-planktonische Arten können sich sehr weit verbreiten.",
+          "ja": "非浮遊性の種は非常に長い距離を分散できる。"
+        },
+        "feedback": {
+          "en": "The text states that planktonic species can disperse very long distances, not nonplanktonic.",
+          "zh": "文本说明浮游物种可以扩散很远的距离，而非浮游物种不能。",
+          "es": "El texto afirma que las especies planctónicas pueden dispersarse a distancias muy largas, no las no planctónicas.",
+          "fr": "Le texte indique que les espèces planctoniques peuvent se disperser sur de très longues distances, et non les non planctoniques.",
+          "de": "Der Text besagt, dass planktonische Arten sich sehr weit verbreiten können, nicht nicht-planktonische.",
+          "ja": "テキストによると、浮遊性の種は非常に長い距離を分散できますが、非浮遊性の種はできません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Some of the snail species had nonplanktonic larvae: They developed directly into adults without a swimming stage. Other species had planktonic larvae: They had a swimming stage and could disperse very long distances.'",
+      "zh": "文本明确指出：“有些蜗牛物种有非浮游幼体：它们直接发育成成虫，没有游泳阶段。其他物种有浮游幼体：它们有游泳阶段，可以扩散到很远的距离。”",
+      "es": "El texto afirma explícitamente: 'Algunas de las especies de caracoles tenían larvas no planctónicas: se desarrollaban directamente en adultos sin una etapa de natación. Otras especies tenían larvas planctónicas: tenían una etapa de natación y podían dispersarse a distancias muy largas.'",
+      "fr": "Le texte indique explicitement : « Certaines espèces d'escargots avaient des larves non planctoniques : elles se développaient directement en adultes sans stade de nage. D'autres espèces avaient des larves planctoniques : elles avaient un stade de nage et pouvaient se disperser sur de très longues distances. »",
+      "de": "Der Text besagt explizit: „Einige Schneckenarten hatten nicht-planktonische Larven: Sie entwickelten sich direkt zu Erwachsenen ohne Schwimmstadium. Andere Arten hatten planktonische Larven: Sie hatten ein Schwimmstadium und konnten sich über sehr lange Distanzen verbreiten.“",
+      "ja": "テキストには、「一部のカタツムリ種は非浮遊性幼生を持っていました。彼らは遊泳期なしに直接成体になりました。他の種は浮遊性幼生を持っていました。彼らは遊泳期を持ち、非常に長い距離を分散できました。」と明記されています。"
+    }
+  },
+  {
+    "page_number": 587,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the 'Plate Tectonics' section, what is the primary process responsible for the movement of Earth's continents over time?",
+      "zh": "根据“板块构造”部分，导致地球大陆随时间移动的主要过程是什么？",
+      "es": "Según la sección 'Tectónica de Placas', ¿cuál es el proceso principal responsable del movimiento de los continentes de la Tierra a lo largo del tiempo?",
+      "fr": "Selon la section « Tectonique des plaques », quel est le processus principal responsable du mouvement des continents terrestres au fil du temps ?",
+      "de": "Gemäß dem Abschnitt „Plattentektonik“, was ist der primäre Prozess, der für die Bewegung der Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erde Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Erd Er d",
+      "ja": "「プレートテクトニクス」のセクションによると、地球の大陸が時間とともに移動する主なプロセスは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Continental drift, caused by movements in the underlying mantle.",
+          "zh": "大陆漂移，由地幔下的运动引起。",
+          "es": "Deriva continental, causada por movimientos en el manto subyacente.",
+          "fr": "La dérive des continents, causée par les mouvements du manteau sous-jacent.",
+          "de": "Kontinentaldrift, verursacht durch Bewegungen im darunter liegenden Erdmantel.",
+          "ja": "地殻下のマントル内の動きによって引き起こされる大陸移動。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Erosion and deposition of sediments over geological time.",
+          "zh": "地质时期沉积物的侵蚀和沉积。",
+          "es": "Erosión y deposición de sedimentos a lo largo del tiempo geológico.",
+          "fr": "L'érosion et le dépôt de sédiments au cours des temps géologiques.",
+          "de": "Erosion und Ablagerung von Sedimenten über geologische Zeiträume.",
+          "ja": "地質学的時間における堆積物の浸食と堆積。"
+        },
+        "feedback": {
+          "en": "While these processes occur, they are not the primary cause of continent movement.",
+          "zh": "尽管这些过程确实发生，但它们不是大陆移动的主要原因。",
+          "es": "Aunque estos procesos ocurren, no son la causa principal del movimiento de los continentes.",
+          "fr": "Bien que ces processus se produisent, ils ne sont pas la cause principale du mouvement des continents.",
+          "de": "Obwohl diese Prozesse stattfinden, sind sie nicht die Hauptursache für die Kontinentalbewegung.",
+          "ja": "これらのプロセスは発生しますが、大陸移動の主な原因ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Expansion and contraction of the Earth's outer core.",
+          "zh": "地球外核的膨胀和收缩。",
+          "es": "Expansión y contracción del núcleo externo de la Tierra.",
+          "fr": "L'expansion et la contraction du noyau externe de la Terre.",
+          "de": "Ausdehnung und Kontraktion des äußeren Erdkerns.",
+          "ja": "地球の外核の膨張と収縮。"
+        },
+        "feedback": {
+          "en": "The text states that plate movements are caused by movements in the mantle, not the core.",
+          "zh": "文本说明板块运动是由地幔中的运动引起的，而不是地核。",
+          "es": "El texto afirma que los movimientos de las placas son causados por movimientos en el manto, no en el núcleo.",
+          "fr": "Le texte indique que les mouvements des plaques sont causés par les mouvements du manteau, et non du noyau.",
+          "de": "Der Text besagt, dass Plattenbewegungen durch Bewegungen im Erdmantel verursacht werden, nicht im Kern.",
+          "ja": "テキストには、プレートの動きは核ではなくマントル内の動きによって引き起こされると書かれています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Gravitational pull from celestial bodies.",
+          "zh": "来自天体的引力。",
+          "es": "Atracción gravitacional de cuerpos celestes.",
+          "fr": "L'attraction gravitationnelle des corps célestes.",
+          "de": "Gravitationsanziehung von Himmelskörpern.",
+          "ja": "天体からの重力。"
+        },
+        "feedback": {
+          "en": "The text attributes continental movement to plate tectonics and continental drift driven by mantle movements.",
+          "zh": "文本将大陆运动归因于由地幔运动驱动的板块构造和大陆漂移。",
+          "es": "El texto atribuye el movimiento continental a la tectónica de placas y la deriva continental impulsada por los movimientos del manto.",
+          "fr": "Le texte attribue le mouvement continental à la tectonique des plaques et à la dérive des continents, entraînées par les mouvements du manteau.",
+          "de": "Der Text führt die Kontinentalbewegung auf Plattentektonik und Kontinentaldrift zurück, die durch Mantelbewegungen angetrieben werden.",
+          "ja": "テキストでは、大陸の移動はプレートテクトニクスと、マントルの動きによって引き起こされる大陸移動に起因するとされています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states: 'According to the theory of plate tectonics, the continents are part of great plates of Earth's crust that essentially float on the hot, underlying portion of the mantle. Movements in the mantle cause the plates to move over time in a process called continental drift.'",
+      "zh": "文本指出：“根据板块构造理论，大陆是地球地壳巨大板块的一部分，它们基本上漂浮在热的地幔下方。地幔中的运动导致板块随时间移动，这一过程称为大陆漂移。”",
+      "es": "El texto afirma: 'Según la teoría de la tectónica de placas, los continentes son parte de grandes placas de la corteza terrestre que esencialmente flotan sobre la porción caliente y subyacente del manto. Los movimientos en el manto hacen que las placas se muevan con el tiempo en un proceso llamado deriva continental.'",
+      "fr": "Le texte indique : « Selon la théorie de la tectonique des plaques, les continents font partie de grandes plaques de la croûte terrestre qui flottent essentiellement sur la partie chaude et sous-jacente du manteau. Les mouvements dans le manteau provoquent le déplacement des plaques au fil du temps dans un processus appelé dérive des continents. »",
+      "de": "Der Text besagt: „Gemäß der Theorie der Plattentektonik sind die Kontinente Teil großer Platten der Erdkruste, die im Wesentlichen auf dem heißen, darunter liegenden Teil des Erdmantels schwimmen. Bewegungen im Erdmantel bewirken, dass sich die Platten im Laufe der Zeit in einem Prozess namens Kontinentaldrift bewegen.“",
+      "ja": "テキストには、「プレートテクトニクスの理論によれば、大陸は地球の地殻の巨大なプレートの一部であり、本質的には熱い下位のマントルの上に浮かんでいます。マントル内の動きが、大陸移動と呼ばれるプロセスで時間とともにプレートを移動させます。」と述べられています。"
+    }
+  },
+  {
+    "page_number": 587,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the 'Do Ecological Factors Affect Evolutionary Rates?' section and a general observation of the provided graph, which statement is a reasonable inference regarding the longevity of snail species?",
+      "zh": "根据“生态因素是否影响进化速率？”部分以及对所提供图表的一般观察，关于蜗牛物种寿命的哪个陈述是合理的推断？",
+      "es": "Basándose en la sección '¿Afectan los Factores Ecológicos a las Tasas Evolutivas?' y una observación general del gráfico proporcionado, ¿qué afirmación es una inferencia razonable con respecto a la longevidad de las especies de caracoles?",
+      "fr": "Basé sur la section « Les facteurs écologiques affectent-ils les taux d'évolution ? » et une observation générale du graphique fourni, quelle affirmation est une inférence raisonnable concernant la longévité des espèces d'escargots ?",
+      "de": "Basierend auf dem Abschnitt „Beeinflussen ökologische Faktoren die Evolutionsraten?“ und einer allgemeinen Betrachtung des bereitgestellten Diagramms, welche Aussage ist eine vernünftige Schlussfolgerung bezüglich der Langlebigkeit von Schneckenarten?",
+      "ja": "「生態学的要因は進化速度に影響を与えるか？」のセクションと、提供されたグラフの一般的な観察に基づくと、カタツムリ種の寿命に関してどの記述が合理的な推論ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Species with planktonic larvae generally have longer persistence times due to their ability to disperse widely.",
+          "zh": "浮游幼体物种由于能够广泛扩散，通常具有更长的持续时间。",
+          "es": "Las especies con larvas planctónicas generalmente tienen tiempos de persistencia más largos debido a su capacidad para dispersarse ampliamente.",
+          "fr": "Les espèces à larves planctoniques ont généralement des durées de persistance plus longues grâce à leur capacité à se disperser largement.",
+          "de": "Arten mit planktonischen Larven haben aufgrund ihrer Fähigkeit zur weiten Verbreitung im Allgemeinen längere Persistenzzeiten.",
+          "ja": "浮遊性幼生を持つ種は、広範囲に分散できる能力があるため、一般的に持続期間が長いです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Species with nonplanktonic larvae generally have longer persistence times due to their more isolated nature.",
+          "zh": "非浮游幼体物种由于其更孤立的特性，通常具有更长的持续时间。",
+          "es": "Las especies con larvas no planctónicas generalmente tienen tiempos de persistencia más largos debido a su naturaleza más aislada.",
+          "fr": "Les espèces à larves non planctoniques ont généralement des durées de persistance plus longues en raison de leur nature plus isolée.",
+          "de": "Arten mit nicht-planktonischen Larven haben aufgrund ihrer isolierteren Natur im Allgemeinen längere Persistenzzeiten.",
+          "ja": "非浮遊性幼生を持つ種は、より孤立した性質を持つため、一般的に持続期間が長いです。"
+        },
+        "feedback": {
+          "en": "The graph visually suggests that planktonic species (top section) have more and generally longer bars, indicating longer persistence, and the text links wider dispersal to planktonic species.",
+          "zh": "图表视觉上表明浮游物种（顶部部分）有更多且通常更长的条形，表明更长的持续时间，并且文本将更广泛的扩散与浮游物种联系起来。",
+          "es": "El gráfico sugiere visualmente que las especies planctónicas (sección superior) tienen más barras y generalmente más largas, lo que indica una mayor persistencia, y el texto vincula una dispersión más amplia con las especies planctónicas.",
+          "fr": "Le graphique suggère visuellement que les espèces planctoniques (section supérieure) ont des barres plus nombreuses et généralement plus longues, indiquant une persistance plus longue, et le texte associe une dispersion plus large aux espèces planctoniques.",
+          "de": "Das Diagramm legt visuell nahe, dass planktonische Arten (oberer Abschnitt) mehr und im Allgemeinen längere Balken haben, was auf eine längere Persistenz hindeutet, und der Text verbindet eine größere Verbreitung mit planktonischen Arten.",
+          "ja": "グラフは視覚的に、浮遊性の種（上段）の方がより多く、概して長い棒を示しており、これはより長い持続期間を示唆しています。また、本文では広範囲への分散が浮遊性の種と関連付けられています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Larval type has no discernible effect on species longevity; other factors are more important.",
+          "zh": "幼体类型对物种寿命没有明显影响；其他因素更重要。",
+          "es": "El tipo de larva no tiene un efecto discernible en la longevidad de la especie; otros factores son más importantes.",
+          "fr": "Le type de larve n'a pas d'effet discernable sur la longévité de l'espèce ; d'autres facteurs sont plus importants.",
+          "de": "Der Larventyp hat keinen erkennbaren Einfluss auf die Langlebigkeit der Arten; andere Faktoren sind wichtiger.",
+          "ja": "幼生の種類は種の寿命に明らかな影響を与えず、他の要因がより重要です。"
+        },
+        "feedback": {
+          "en": "The entire exercise focuses on investigating whether differing modes of larval dispersal explain species longevity, implying there is an effect.",
+          "zh": "整个练习都集中在调查不同幼体扩散模式是否能解释物种寿命，这暗示着存在影响。",
+          "es": "Todo el ejercicio se centra en investigar si los diferentes modos de dispersión larval explican la longevidad de las especies, lo que implica que sí hay un efecto.",
+          "fr": "L'exercice entier vise à déterminer si différents modes de dispersion larvaire expliquent la longévité des espèces, ce qui implique qu'il y a un effet.",
+          "de": "Die gesamte Übung konzentriert sich auf die Untersuchung, ob unterschiedliche Larvenverbreitungsmodi die Langlebigkeit von Arten erklären, was auf einen Effekt hindeutet.",
+          "ja": "この演習全体は、異なる幼生分散様式が種の寿命を説明できるかどうかを調査することに焦点を当てており、影響があることを示唆しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The graph primarily illustrates the exact number of new species formed, not their persistence time or longevity.",
+          "zh": "该图表主要说明了新物种形成的确切数量，而不是它们的持续时间或寿命。",
+          "es": "El gráfico ilustra principalmente el número exacto de nuevas especies formadas, no su tiempo de persistencia o longevidad.",
+          "fr": "Le graphique illustre principalement le nombre exact de nouvelles espèces formées, et non leur durée de persistance ou leur longévité.",
+          "de": "Das Diagramm zeigt hauptsächlich die genaue Anzahl neuer Arten, nicht deren Persistenzzeit oder Langlebigkeit.",
+          "ja": "このグラフは主に、新種の正確な形成数を示しており、その持続期間や寿命を示していません。"
+        },
+        "feedback": {
+          "en": "The text explicitly states: 'Each bar in the graph shows how long one species of snail persisted in the fossil record,' which refers to persistence time or longevity.",
+          "zh": "文本明确指出：“图表中的每个条都显示了蜗牛物种在化石记录中持续了多长时间”，这指的是持续时间或寿命。",
+          "es": "El texto establece explícitamente: 'Cada barra en el gráfico muestra cuánto tiempo persistió una especie de caracol en el registro fósil', lo que se refiere al tiempo de persistencia o longevidad.",
+          "fr": "Le texte indique explicitement : « Chaque barre du graphique montre la durée de persistance d'une espèce d'escargot dans les archives fossiles », ce qui fait référence à la durée de persistance ou à la longévité.",
+          "de": "Der Text besagt explizit: „Jeder Balken im Diagramm zeigt, wie lange eine Schneckenart im Fossilienbestand persistierte“, was sich auf die Persistenzzeit oder Langlebigkeit bezieht.",
+          "ja": "本文には「グラフの各棒は、カタツムリの一種が化石記録にどのくらい存在したかを示している」と明記されており、これは持続期間または寿命を指します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The 'Do Ecological Factors Affect Evolutionary Rates?' section mentions that planktonic larvae could 'disperse very long distances' and their adults 'tended to have broad geographic distributions.' The graph visually supports that species with planktonic larvae generally have longer horizontal bars (representing persistence time) compared to nonplanktonic species. Therefore, it's a reasonable inference that wider dispersal (due to planktonic larvae) contributes to longer species longevity.",
+      "zh": "“生态因素是否影响进化速率？”部分提到浮游幼体能够“扩散到很远的距离”，并且它们的成虫“倾向于拥有广泛的地理分布”。图表视觉上支持浮游幼体物种（与非浮游幼体物种相比）通常具有更长的水平条（代表持续时间）。因此，一个合理的推论是广泛的扩散（由于浮游幼体）有助于更长的物种寿命。",
+      "es": "La sección '¿Afectan los Factores Ecológicos a las Tasas Evolutivas?' menciona que las larvas planctónicas podían 'dispersarse a distancias muy largas' y sus adultos 'tendían a tener amplias distribuciones geográficas'. El gráfico apoya visualmente que las especies con larvas planctónicas generalmente tienen barras horizontales más largas (que representan el tiempo de persistencia) en comparación con las especies no planctónicas. Por lo tanto, es una inferencia razonable que una dispersión más amplia (debido a las larvas planctónicas) contribuye a una mayor longevidad de las especies.",
+      "fr": "La section « Les facteurs écologiques affectent-ils les taux d'évolution ? » mentionne que les larves planctoniques pouvaient « se disperser sur de très longues distances » et que leurs adultes « avaient tendance à avoir de larges distributions géographiques ». Le graphique soutient visuellement que les espèces à larves planctoniques ont généralement des barres horizontales plus longues (représentant la durée de persistance) par rapport aux espèces non planctoniques. Il est donc raisonnable d'en déduire qu'une dispersion plus large (due aux larves planctoniques) contribue à une plus longue longévité des espèces.",
+      "de": "Der Abschnitt „Beeinflussen ökologische Faktoren die Evolutionsraten?“ erwähnt, dass planktonische Larven „sehr weite Strecken verbreiten“ konnten und ihre erwachsenen Tiere „tendierten dazu, weite geografische Verbreitungen zu haben“. Das Diagramm unterstützt visuell, dass Arten mit planktonischen Larven im Allgemeinen längere horizontale Balken (die die Persistenzzeit darstellen) aufweisen als nicht-planktonische Arten. Daher ist es eine vernünftige Schlussfolgerung, dass eine weitere Verbreitung (aufgrund planktonischer Larven) zu einer längeren Langlebigkeit der Arten beiträgt.",
+      "ja": "「生態学的要因は進化速度に影響を与えるか？」のセクションでは、浮遊性幼生が「非常に長い距離を分散できる」こと、そしてその成体が「広い地理的分布を持つ傾向がある」ことに言及しています。グラフは視覚的に、浮遊性幼生を持つ種が非浮遊性種に比べて一般的に長い水平棒（持続期間を表す）を持つことを裏付けています。したがって、広範囲への分散（浮遊性幼生による）が種の寿命の延長に寄与するという推論は合理的です。"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 638,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What does Figure 27.23 indicate about the effectiveness of malacidin against MRSA?",
+      "zh": "图27.23表明马拉西丁对MRSA的有效性如何？",
+      "es": "¿Qué indica la Figura 27.23 sobre la efectividad de la malacidina contra MRSA?",
+      "fr": "Que révèle la Figure 27.23 sur l'efficacité de la malacidine contre le SARM ?",
+      "de": "Was sagt Abbildung 27.23 über die Wirksamkeit von Malacidin gegen MRSA aus?",
+      "ja": "図27.23はマラシジンがMRSAに対してどの程度効果があることを示していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Malacidin rapidly increases MRSA abundance.",
+          "zh": "马拉西丁迅速增加MRSA的丰度。",
+          "es": "La malacidina aumenta rápidamente la abundancia de MRSA.",
+          "fr": "La malacidine augmente rapidement l'abondance du SARM.",
+          "de": "Malacidin erhöht schnell die MRSA-Häufigkeit.",
+          "ja": "マラシジンはMRSAの存在量を急速に増加させる。"
+        },
+        "feedback": {
+          "en": "Incorrect. The graph shows a significant decrease in MRSA abundance with malacidin treatment.",
+          "zh": "错误。图表显示马拉西丁治疗后MRSA丰度显著下降。",
+          "es": "Incorrecto. El gráfico muestra una disminución significativa en la abundancia de MRSA con el tratamiento con malacidina.",
+          "fr": "Incorrect. Le graphique montre une diminution significative de l'abondance du SARM avec le traitement à la malacidine.",
+          "de": "Falsch. Die Grafik zeigt eine signifikante Abnahme der MRSA-Häufigkeit bei Malacidin-Behandlung.",
+          "ja": "不正解。グラフはマラシジン治療によりMRSAの存在量が著しく減少することを示しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Malacidin has no significant effect on MRSA abundance.",
+          "zh": "马拉西丁对MRSA丰度没有显著影响。",
+          "es": "La malacidina no tiene un efecto significativo sobre la abundancia de MRSA.",
+          "fr": "La malacidine n'a pas d'effet significatif sur l'abondance du SARM.",
+          "de": "Malacidin hat keinen signifikanten Einfluss auf die MRSA-Häufigkeit.",
+          "ja": "マラシジンはMRSAの存在量に有意な影響を与えない。"
+        },
+        "feedback": {
+          "en": "Incorrect. The graph clearly shows a substantial reduction in MRSA abundance after malacidin treatment.",
+          "zh": "错误。图表清楚地显示马拉西丁治疗后MRSA丰度大幅减少。",
+          "es": "Incorrecto. El gráfico muestra claramente una reducción sustancial en la abundancia de MRSA después del tratamiento con malacidina.",
+          "fr": "Incorrect. Le graphique montre clairement une réduction substantielle de l'abondance du SARM après le traitement à la malacidine.",
+          "de": "Falsch. Die Grafik zeigt deutlich eine erhebliche Reduzierung der MRSA-Häufigkeit nach Malacidin-Behandlung.",
+          "ja": "不正解。グラフはマラシジン治療後、MRSAの存在量が大幅に減少していることを明確に示しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Malacidin rapidly reduces MRSA abundance to near zero within 24 hours.",
+          "zh": "马拉西丁在24小时内迅速将MRSA丰度降低至接近零。",
+          "es": "La malacidina reduce rápidamente la abundancia de MRSA a casi cero en 24 horas.",
+          "fr": "La malacidine réduit rapidement l'abondance du SARM à près de zéro en 24 heures.",
+          "de": "Malacidin reduziert die MRSA-Häufigkeit innerhalb von 24 Stunden schnell auf nahezu Null.",
+          "ja": "マラシジンは24時間以内にMRSAの存在量を急速にほぼゼロまで減少させる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Malacidin's effectiveness is similar to the control group over 72 hours.",
+          "zh": "马拉西丁的有效性在72小时内与对照组相似。",
+          "es": "La efectividad de la malacidina es similar a la del grupo de control durante 72 horas.",
+          "fr": "L'efficacité de la malacidine est similaire à celle du groupe témoin sur 72 heures.",
+          "de": "Die Wirksamkeit von Malacidin ist über 72 Stunden hinweg ähnlich der der Kontrollgruppe.",
+          "ja": "マラシジンの効果は72時間を通して対照群と同様である。"
+        },
+        "feedback": {
+          "en": "Incorrect. The control group shows an increase in MRSA abundance, while malacidin significantly decreases it.",
+          "zh": "错误。对照组MRSA丰度增加，而马拉西丁使其显著下降。",
+          "es": "Incorrecto. El grupo de control muestra un aumento en la abundancia de MRSA, mientras que la malacidina la disminuye significativamente.",
+          "fr": "Incorrect. Le groupe témoin montre une augmentation de l'abondance du SARM, tandis que la malacidine la diminue significativement.",
+          "de": "Falsch. Die Kontrollgruppe zeigt eine Zunahme der MRSA-Häufigkeit, während Malacidin diese signifikant reduziert.",
+          "ja": "不正解。対照群はMRSAの存在量が増加しているのに対し、マラシジンはそれを大幅に減少させています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 27.23 clearly shows that the \"Treatment with malacidin\" line (blue) drops from an initial log scale abundance of approximately 2.5 to 0 within 24 hours, indicating a rapid and complete clearance of MRSA. The control group (red line) shows an increase in MRSA abundance.",
+      "zh": "图27.23清楚地显示，“马拉西丁治疗”线（蓝色）在24小时内从初始的约2.5对数丰度下降到0，表明MRSA被迅速而彻底地清除。对照组（红色线）显示MRSA丰度增加。",
+      "es": "La Figura 27.23 muestra claramente que la línea \"Tratamiento con malacidina\" (azul) desciende de una abundancia inicial en escala logarítmica de aproximadamente 2.5 a 0 en 24 horas, lo que indica una eliminación rápida y completa de MRSA. El grupo de control (línea roja) muestra un aumento en la abundancia de MRSA.",
+      "fr": "La Figure 27.23 montre clairement que la ligne « Traitement à la malacidine » (bleue) passe d'une abondance initiale à l'échelle logarithmique d'environ 2,5 à 0 en 24 heures, indiquant une élimination rapide et complète du SARM. Le groupe témoin (ligne rouge) montre une augmentation de l'abondance du SARM.",
+      "de": "Abbildung 27.23 zeigt deutlich, dass die Linie \"Behandlung mit Malacidin\" (blau) innerhalb von 24 Stunden von einer anfänglichen log-Skalen-Häufigkeit von ca. 2,5 auf 0 abfällt, was eine schnelle und vollständige Beseitigung von MRSA anzeigt. Die Kontrollgruppe (rote Linie) zeigt eine Zunahme der MRSA-Häufigkeit.",
+      "ja": "図27.23は、「マラシジンによる治療」の線（青色）が、初期の対数スケールでの存在量約2.5から24時間以内に0に低下することを示しており、MRSAが迅速かつ完全に排除されたことを意味します。対照群（赤線）はMRSAの存在量の増加を示しています。"
+    }
+  },
+  {
+    "page_number": 638,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, which of the following factors contributes to the rapid evolution and spread of antibiotic resistance in bacteria?",
+      "zh": "根据文本，以下哪一因素有助于细菌对抗生素耐药性的快速进化和传播？",
+      "es": "Según el texto, ¿cuál de los siguientes factores contribuye a la rápida evolución y propagación de la resistencia a los antibióticos en las bacterias?",
+      "fr": "Selon le texte, quel facteur contribue à l'évolution rapide et à la propagation de la résistance aux antibiotiques chez les bactéries ?",
+      "de": "Laut Text, welcher der folgenden Faktoren trägt zur schnellen Evolution und Verbreitung von Antibiotikaresistenzen bei Bakterien bei?",
+      "ja": "テキストによると、細菌における抗生物質耐性の急速な進化と拡散に寄与する要因は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Bacteria's slow reproductive rate.",
+          "zh": "细菌繁殖速度慢。",
+          "es": "La lenta tasa de reproducción de las bacterias.",
+          "fr": "Le taux de reproduction lent des bactéries.",
+          "de": "Die langsame Vermehrungsrate von Bakterien.",
+          "ja": "細菌の繁殖速度が遅いこと。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text states that the rapid reproduction of bacteria enables them to quickly produce resistant offspring.",
+          "zh": "错误。文本指出细菌的“快速繁殖”使其能够迅速产生抗性后代。",
+          "es": "Incorrecto. El texto afirma que la rápida reproducción de las bacterias les permite producir descendencia resistente rápidamente.",
+          "fr": "Incorrect. Le texte indique que la reproduction rapide des bactéries leur permet de produire rapidement une descendance résistante.",
+          "de": "Falsch. Der Text besagt, dass die schnelle Vermehrung von Bakterien es ihnen ermöglicht, schnell resistente Nachkommen zu produzieren.",
+          "ja": "不正解。テキストには、細菌の急速な繁殖が耐性を持つ子孫を迅速に生み出すことを可能にすると記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Exclusive use of antibiotics in agricultural settings.",
+          "zh": "抗生素仅在农业环境中使用。",
+          "es": "Uso exclusivo de antibióticos en entornos agrícolas.",
+          "fr": "Utilisation exclusive d'antibiotiques dans les milieux agricoles.",
+          "de": "Ausschließliche Verwendung von Antibiotika in der Landwirtschaft.",
+          "ja": "抗生物質が農業環境でのみ使用されること。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text mentions antibiotic use in both \"medical or agricultural settings.\"",
+          "zh": "错误。文本提到抗生素在“医疗或农业环境”中都有使用。",
+          "es": "Incorrecto. El texto menciona el uso de antibióticos tanto en \"entornos médicos como agrícolas\".",
+          "fr": "Incorrect. Le texte mentionne l'utilisation d'antibiotiques dans des « milieux médicaux ou agricoles ».",
+          "de": "Falsch. Der Text erwähnt den Einsatz von Antibiotika sowohl in \"medizinischen als auch in landwirtschaftlichen Umgebungen\".",
+          "ja": "不正解。テキストには、抗生物質が「医療または農業環境」の両方で使用されると記載されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Horizontal gene transfer among bacterial species.",
+          "zh": "细菌物种间的水平基因转移。",
+          "es": "Transferencia horizontal de genes entre especies bacterianas.",
+          "fr": "Transfert horizontal de gènes entre espèces bactériennes.",
+          "de": "Horizontaler Gentransfer zwischen Bakterienarten.",
+          "ja": "細菌種間の水平遺伝子伝達。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The discovery of new antibiotics keeping pace with resistance.",
+          "zh": "新抗生素的发现与耐药性发展保持同步。",
+          "es": "El descubrimiento de nuevos antibióticos que sigue el ritmo de la resistencia.",
+          "fr": "La découverte de nouveaux antibiotiques qui suit le rythme de la résistance.",
+          "de": "Die Entdeckung neuer Antibiotika, die mit der Resistenzentwicklung Schritt hält.",
+          "ja": "新しい抗生物質の発見が耐性の進展と足並みを揃えていること。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text states that \"the discovery of new antibiotics has not kept pace with the rate at which resistance has evolved.\"",
+          "zh": "错误。文本指出“新抗生素的发现未能跟上耐药性进化的速度”。",
+          "es": "Incorrecto. El texto afirma que \"el descubrimiento de nuevos antibióticos no ha mantenido el ritmo de la velocidad a la que la resistencia ha evolucionado\".",
+          "fr": "Incorrect. Le texte indique que « la découverte de nouveaux antibiotiques n'a pas suivi le rythme de l'évolution de la résistance ».",
+          "de": "Falsch. Der Text besagt, dass \"die Entdeckung neuer Antibiotika nicht mit der Geschwindigkeit mithalten konnte, mit der sich Resistenzen entwickelt haben\".",
+          "ja": "不正解。テキストには、「新しい抗生物質の発見が、耐性が進化した速度に追いついていない」と記載されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states, \"Resistance genes also can spread within and among bacterial species by horizontal gene transfer.\" This mechanism is a key factor in the rapid spread of antibiotic resistance. Other options either contradict the text or are not the primary factors described.",
+      "zh": "文本明确指出：“抗性基因也可以通过水平基因转移在细菌物种内部和之间传播。”这种机制是抗生素耐药性快速传播的关键因素。其他选项要么与文本矛盾，要么不是描述的主要因素。",
+      "es": "El texto establece explícitamente: \"Los genes de resistencia también pueden propagarse dentro y entre especies bacterianas mediante transferencia horizontal de genes\". Este mecanismo es un factor clave en la rápida propagación de la resistencia a los antibióticos. Las otras opciones o contradicen el texto o no son los factores principales descritos.",
+      "fr": "Le texte indique explicitement : « Les gènes de résistance peuvent également se propager au sein et entre les espèces bactériennes par transfert horizontal de gènes. » Ce mécanisme est un facteur clé de la propagation rapide de la résistance aux antibiotiques. Les autres options contredisent le texte ou ne sont pas les facteurs principaux décrits.",
+      "de": "Der Text besagt explizit: \"Resistenzgene können sich auch innerhalb und zwischen Bakterienarten durch horizontalen Gentransfer verbreiten.\" Dieser Mechanismus ist ein Schlüsselfaktor für die schnelle Verbreitung von Antibiotikaresistenzen. Andere Optionen widersprechen entweder dem Text oder sind nicht die primär beschriebenen Faktoren.",
+      "ja": "テキストには「耐性遺伝子は、水平遺伝子伝達によって細菌種内および種間で広がることもある」と明記されています。このメカニズムは、抗生物質耐性の急速な拡散における主要な要因です。他の選択肢は、テキストと矛盾するか、記述されている主要な要因ではありません。"
+    }
+  },
+  {
+    "page_number": 638,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the information provided, which of the following statements about the prokaryotic CRISPR-Cas9 system is most accurate?",
+      "zh": "根据提供的信息，关于原核CRISPR-Cas9系统，以下哪项陈述最准确？",
+      "es": "Según la información proporcionada, ¿cuál de las siguientes afirmaciones sobre el sistema procariota CRISPR-Cas9 es más precisa?",
+      "fr": "Selon les informations fournies, quelle est l'affirmation la plus précise concernant le système procaryote CRISPR-Cas9 ?",
+      "de": "Basierend auf den bereitgestellten Informationen, welche der folgenden Aussagen über das prokaryotische CRISPR-Cas9-System ist am genauesten?",
+      "ja": "提供された情報に基づいて、原核生物のCRISPR-Cas9システムに関する次の記述のうち、最も正確なものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It is a natural bacterial defense mechanism against fungal infections.",
+          "zh": "它是一种天然的细菌防御机制，用于对抗真菌感染。",
+          "es": "Es un mecanismo de defensa bacteriano natural contra infecciones fúngicas.",
+          "fr": "C'est un mécanisme de défense bactérien naturel contre les infections fongiques.",
+          "de": "Es ist ein natürlicher bakterieller Abwehrmechanismus gegen Pilzinfektionen.",
+          "ja": "これは真菌感染に対する細菌の自然な防御メカニズムである。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text states it helps \"bacteria and archaea defend against attack by viruses.\"",
+          "zh": "错误。文本指出它帮助“细菌和古细菌防御病毒的攻击”。",
+          "es": "Incorrecto. El texto afirma que ayuda a \"bacterias y arqueas a defenderse del ataque de virus\".",
+          "fr": "Incorrect. Le texte indique qu'il aide « les bactéries et les archées à se défendre contre l'attaque des virus ».",
+          "de": "Falsch. Der Text besagt, dass es \"Bakterien und Archaeen hilft, sich gegen Virenangriffe zu verteidigen\".",
+          "ja": "不正解。テキストには、「細菌や古細菌がウイルスによる攻撃から身を守るのを助ける」と記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It uses \"guide RNA\" to target and cut specific DNA sequences.",
+          "zh": "它利用“引导RNA”来靶向并切割特定的DNA序列。",
+          "es": "Utiliza \"ARN guía\" para dirigirse y cortar secuencias de ADN específicas.",
+          "fr": "Il utilise de l'« ARN guide » pour cibler et couper des séquences d'ADN spécifiques.",
+          "de": "Es verwendet \"guide RNA\", um spezifische DNA-Sequenzen anzusteuern und zu schneiden.",
+          "ja": "「ガイドRNA」を使用して、特定のDNA配列を標的とし、切断する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Its primary application mentioned is enhancing petroleum production.",
+          "zh": "其提及的主要应用是提高石油产量。",
+          "es": "Su aplicación principal mencionada es mejorar la producción de petróleo.",
+          "fr": "Son application principale mentionnée est l'amélioration de la production de pétrole.",
+          "de": "Die primäre genannte Anwendung ist die Steigerung der Erdölproduktion.",
+          "ja": "その主な用途として、石油生産の向上がある。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text mentions \"Another valuable application of bacteria is to reduce our use of petroleum,\" but this is a separate general point about bacteria, not a specific application of CRISPR-Cas9. CRISPR-Cas9's applications are related to gene editing and HIV research.",
+          "zh": "错误。文本提及“细菌的另一个有价值的应用是减少我们对石油的使用”，但这只是关于细菌的一个独立的普遍观点，并非CRISPR-Cas9的具体应用。CRISPR-Cas9的应用与基因编辑和HIV研究有关。",
+          "es": "Incorrecto. El texto menciona \"otra aplicación valiosa de las bacterias es reducir nuestro uso de petróleo\", pero esto es un punto general separado sobre las bacterias, no una aplicación específica de CRISPR-Cas9. Las aplicaciones de CRISPR-Cas9 están relacionadas con la edición genética y la investigación del VIH.",
+          "fr": "Incorrect. Le texte mentionne « une autre application précieuse des bactéries est de réduire notre utilisation du pétrole », mais il s'agit d'un point général distinct sur les bactéries, et non d'une application spécifique de CRISPR-Cas9. Les applications de CRISPR-Cas9 sont liées à l'édition génétique et à la recherche sur le VIH.",
+          "de": "Falsch. Der Text erwähnt \"Eine weitere wertvolle Anwendung von Bakterien ist die Reduzierung unseres Erdölverbrauchs\", dies ist jedoch ein allgemeiner Punkt über Bakterien und keine spezifische Anwendung von CRISPR-Cas9. Die Anwendungen von CRISPR-Cas9 beziehen sich auf Gen-Editing und HIV-Forschung.",
+          "ja": "不正解。テキストには「細菌のもう一つの価値ある応用は、石油の使用量を減らすことである」と記載されていますが、これは細菌に関する独立した一般的なポイントであり、CRISPR-Cas9の特定の応用ではありません。CRISPR-Cas9の応用は遺伝子編集とHIV研究に関連しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It is primarily used for identifying new antibiotic classes like malacidins.",
+          "zh": "它主要用于识别像马拉西丁这样的新型抗生素类别。",
+          "es": "Se utiliza principalmente para identificar nuevas clases de antibióticos como las malacidinas.",
+          "fr": "Il est principalement utilisé pour identifier de nouvelles classes d'antibiotiques comme les malacidines.",
+          "de": "Es wird hauptsächlich zur Identifizierung neuer Antibiotikaklassen wie Malacidine verwendet.",
+          "ja": "主にマラシジンのような新しい抗生物質の種類を特定するために使用される。"
+        },
+        "feedback": {
+          "en": "Incorrect. The discovery of malacidins was through a metagenomic approach to sequence genes from soil bacteria, not CRISPR-Cas9.",
+          "zh": "错误。马拉西丁的发现是通过宏基因组方法测序土壤细菌基因，而非CRISPR-Cas9。",
+          "es": "Incorrecto. El descubrimiento de las malacidinas se realizó mediante un enfoque metagenómico para secuenciar genes de bacterias del suelo, no con CRISPR-Cas9.",
+          "fr": "Incorrect. La découverte des malacidines s'est faite par une approche métagénomique pour séquencer les gènes des bactéries du sol, et non par CRISPR-Cas9.",
+          "de": "Falsch. Die Entdeckung von Malacidinen erfolgte durch einen metagenomischen Ansatz zur Sequenzierung von Genen aus Bodenbakterien, nicht durch CRISPR-Cas9.",
+          "ja": "不正解。マラシジンの発見は、CRISPR-Cas9ではなく、土壌細菌の遺伝子をシーケンスするためのメタゲノムアプローチによって行われました。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that Cas proteins, acting together with \"guide RNA\" made from the CRISPR region, \"can cut any DNA sequence to which they are directed.\" This accurately describes the function and application of the CRISPR-Cas9 system in gene editing.",
+      "zh": "文本解释说，Cas蛋白与CRISPR区域产生的“引导RNA”协同作用，“可以切割它们所指向的任何DNA序列”。这准确描述了CRISPR-Cas9系统在基因编辑中的功能和应用。",
+      "es": "El texto explica que las proteínas Cas, actuando junto con el \"ARN guía\" producido a partir de la región CRISPR, \"pueden cortar cualquier secuencia de ADN a la que sean dirigidas\". Esto describe con precisión la función y aplicación del sistema CRISPR-Cas9 en la edición genética.",
+      "fr": "Le texte explique que les protéines Cas, agissant avec l'« ARN guide » produit à partir de la région CRISPR, « peuvent couper toute séquence d'ADN vers laquelle elles sont dirigées ». Cela décrit précisément la fonction et l'application du système CRISPR-Cas9 dans l'édition génétique.",
+      "de": "Der Text erklärt, dass Cas-Proteine, zusammen mit \"guide RNA\" aus der CRISPR-Region, \"jede DNA-Sequenz schneiden können, auf die sie gerichtet sind\". Dies beschreibt genau die Funktion und Anwendung des CRISPR-Cas9-Systems in der Genbearbeitung.",
+      "ja": "テキストは、Casタンパク質がCRISPR領域から作られた「ガイドRNA」と連携して、「指示された任意のDNA配列を切断できる」と説明しています。これは、遺伝子編集におけるCRISPR-Cas9システムの機能と応用を正確に記述しています。"
+    }
+  },
+  {
+    "page_number": 638,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following recent discoveries offers potential new avenues for combating multidrug-resistant bacteria, as mentioned in the text?",
+      "zh": "文本中提及的以下哪项最新发现为对抗多重耐药细菌提供了潜在的新途径？",
+      "es": "¿Cuál de los siguientes descubrimientos recientes ofrece nuevas vías potenciales para combatir las bacterias multirresistentes, como se menciona en el texto?",
+      "fr": "Parmi les découvertes récentes mentionnées dans le texte, laquelle offre de nouvelles voies potentielles pour lutter contre les bactéries multirésistantes ?",
+      "de": "Welche der folgenden jüngsten Entdeckungen bietet, wie im Text erwähnt, potenzielle neue Wege zur Bekämpfung multiresistenter Bakterien?",
+      "ja": "テキストに記載されている、多剤耐性菌と戦うための潜在的な新しい道筋を提供する最近の発見は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The development of new methods for administering existing toxic drugs.",
+          "zh": "开发新的方法来施用现有的有毒药物。",
+          "es": "El desarrollo de nuevos métodos para administrar fármacos tóxicos existentes.",
+          "fr": "Le développement de nouvelles méthodes d'administration de médicaments toxiques existants.",
+          "de": "Die Entwicklung neuer Methoden zur Verabreichung bestehender toxischer Medikamente.",
+          "ja": "既存の有毒な薬物を投与するための新しい方法の開発。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text states that existing treatments for XDR-TB are \"difficult to administer and more toxic,\" implying this is a current challenge, not a new solution.",
+          "zh": "错误。文本指出，现有的XDR-TB治疗方法“难以管理且毒性更大”，这意味着这是一个当前的挑战，而不是新的解决方案。",
+          "es": "Incorrecto. El texto afirma que los tratamientos existentes para la XDR-TB son \"difíciles de administrar y más tóxicos\", lo que implica que esto es un desafío actual, no una nueva solución.",
+          "fr": "Incorrect. Le texte indique que les traitements existants contre la tuberculose multirésistante sont « difficiles à administrer et plus toxiques », ce qui implique que c'est un défi actuel, et non une nouvelle solution.",
+          "de": "Falsch. Der Text besagt, dass bestehende Behandlungen für XDR-TB \"schwer zu verabreichen und toxischer\" sind, was darauf hindeutet, dass dies eine aktuelle Herausforderung und keine neue Lösung ist.",
+          "ja": "不正解。テキストには、XDR-TBの既存の治療法が「投与が難しく、より毒性が高い」と記載されており、これは現在の課題であり、新しい解決策ではないことを意味します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The sequencing of genes from soil bacteria that led to the discovery of malacidins.",
+          "zh": "对土壤细菌基因进行测序，从而发现马拉西丁。",
+          "es": "La secuenciación de genes de bacterias del suelo que llevó al descubrimiento de las malacidinas.",
+          "fr": "Le séquençage des gènes de bactéries du sol qui a conduit à la découverte des malacidines.",
+          "de": "Die Sequenzierung von Genen aus Bodenbakterien, die zur Entdeckung von Malacidinen führte.",
+          "ja": "土壌細菌の遺伝子をシーケンスしてマラシジンを発見したこと。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Exclusive reliance on natural selection to eliminate resistant strains.",
+          "zh": "完全依赖自然选择来消除耐药菌株。",
+          "es": "La dependencia exclusiva de la selección natural para eliminar las cepas resistentes.",
+          "fr": "La dependencia exclusiva à la sélection naturelle pour éliminer les souches résistantes.",
+          "de": "Ausschließliche Abhängigkeit von natürlicher Selektion zur Eliminierung resistenter Stämme.",
+          "ja": "耐性菌株を排除するために自然選択のみに頼ること。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text explains that natural selection causes the increase in antibiotic resistance when antibiotics are used, rather than eliminating resistant strains.",
+          "zh": "错误。文本解释说，在使用抗生素时，自然选择反而会*导致*抗生素耐药性的增加，而不是消除耐药菌株。",
+          "es": "Incorrecto. El texto explica que la selección natural causa el aumento de la resistencia a los antibióticos cuando se utilizan antibióticos, en lugar de eliminar las cepas resistentes.",
+          "fr": "Incorrect. Le texte explique que la sélection naturelle cause l'augmentation de la résistance aux antibiotiques lorsque des antibiotiques sont utilisés, plutôt que d'éliminer les souches résistantes.",
+          "de": "Falsch. Der Text erklärt, dass natürliche Selektion die Zunahme von Antibiotikaresistenzen verursacht, wenn Antibiotika verwendet werden, anstatt resistente Stämme zu eliminieren.",
+          "ja": "不正解。テキストでは、抗生物質が使用されると、自然選択が耐性菌株を排除するのではなく、むしろ抗生物質耐性の増加を「引き起こす」と説明されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The increasing prevalence of \"superbug\" tuberculosis strains globally.",
+          "zh": "全球范围内“超级细菌”结核病菌株日益普遍。",
+          "es": "La creciente prevalencia de cepas de tuberculosis \"superbacterias\" a nivel mundial.",
+          "fr": "La prévalence croissante des souches de tuberculose « superbactéries » à l'échelle mondiale.",
+          "de": "Die zunehmende Verbreitung von \"Superbakterien\"-Tuberkulosestämmen weltweit.",
+          "ja": "世界的に「スーパーバグ」結核菌株の有病率が増加していること。"
+        },
+        "feedback": {
+          "en": "Incorrect. The increasing prevalence of drug-resistant tuberculosis is described as a significant global health problem, not a solution or source of hope.",
+          "zh": "错误。耐药结核病日益普遍被描述为一个重大的全球健康问题，而不是解决方案或希望的来源。",
+          "es": "Incorrecto. La creciente prevalencia de la tuberculosis resistente a los medicamentos se describe como un problema de salud global significativo, no como una solución o fuente de esperanza.",
+          "fr": "Incorrect. La prévalence croissante de la tuberculose résistante aux médicaments est décrite comme un problème de santé mondial majeur, et non comme une solution ou une source d'espoir.",
+          "de": "Falsch. Die zunehmende Verbreitung von medikamentenresistenter Tuberkulose wird als ein erhebliches globales Gesundheitsproblem beschrieben, nicht als Lösung oder Quelle der Hoffnung.",
+          "ja": "不正解。薬剤耐性結核の有病率の増加は、重要な世界的健康問題として説明されており、解決策や希望の源ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states, \"Even so, recent discoveries give cause for hope. In 2018, for example, researchers used a metagenomic approach to sequence genes from soil bacteria that could not be grown in the laboratory. They found that some of these genes encoded a new class of antibiotics, which have been named malacidins.\" This directly points to the discovery of malacidins as a new avenue.",
+      "zh": "文本指出：“尽管如此，最近的发现仍带来了希望。例如，2018年，研究人员使用宏基因组方法对无法在实验室中培养的土壤细菌基因进行了测序。他们发现其中一些基因编码了一种新型抗生素，命名为马拉西丁。”这直接表明马拉西丁的发现是一条新途径。",
+      "es": "El texto afirma: \"Aun así, descubrimientos recientes dan motivos para la esperanza. En 2018, por ejemplo, los investigadores utilizaron un enfoque metagenómico para secuenciar genes de bacterias del suelo que no podían cultivarse en el laboratorio. Descubrieron que algunos de estos genes codificaban una nueva clase de antibióticos, que han sido nombrados malacidinas.\" Esto señala directamente el descubrimiento de las malacidinas como una nueva vía.",
+      "fr": "Le texte déclare : « Malgré cela, de récentes découvertes donnent des raisons d'espérer. En 2018, par exemple, des chercheurs ont utilisé une approche métagénomique pour séquencer les gènes de bactéries du sol qui ne pouvaient pas être cultivées en laboratoire. Ils ont découvert que certains de ces gènes codifiaient une nouvelle classe d'antibiotiques, nommées malacidines. » Cela indique directement la découverte des malacidines comme une nouvelle voie.",
+      "de": "Der Text besagt: \"Dennoch geben jüngste Entdeckungen Anlass zur Hoffnung. Im Jahr 2018 verwendeten Forscher beispielsweise einen metagenomischen Ansatz, um Gene von Bodenbakterien zu sequenzieren, die im Labor nicht kultiviert werden konnten. Sie fanden heraus, dass einige dieser Gene eine neue Klasse von Antibiotika kodierten, die Malacidine genannt wurden.\" Dies weist direkt auf die Entdeckung von Malacidinen als neuen Weg hin.",
+      "ja": "テキストには、「それでも、最近の発見は希望を与えている。例えば、2018年には、研究者が実験室で培養できない土壌細菌の遺伝子をシーケンスするためにメタゲノムアプローチを使用した。彼らは、これらの遺伝子のいくつかがマラシジンと名付けられた新しいクラスの抗生物質をコードしていることを発見した」と記載されています。これは、マラシジンの発見が新たな道を開いたことを直接的に示しています。"
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 429,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes the function of microRNAs (miRNAs) in gene expression regulation?",
+      "zh": "以下哪项陈述准确描述了微RNA（miRNA）在基因表达调控中的功能？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión la función de los microARN (miRNA) en la regulación de la expresión génica?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision la fonction des microARN (miRNA) dans la régulation de l'expression génique ?",
+      "de": "Welche der folgenden Aussagen beschreibt die Funktion von microRNAs (miRNAs) bei der Genexpressionsregulation genau?",
+      "ja": "次の記述のうち、マイクロRNA（miRNA）の遺伝子発現調節における機能を正確に説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They directly transcribe DNA into mRNA.",
+          "zh": "它们直接将DNA转录为mRNA。",
+          "es": "Transcriben directamente el ADN a ARNm.",
+          "fr": "Ils transcrivent directement l'ADN en ARNm.",
+          "de": "Sie transkribieren DNA direkt in mRNA.",
+          "ja": "DNAを直接mRNAに転写します。"
+        },
+        "feedback": {
+          "en": "miRNAs regulate gene expression post-transcriptionally, not by direct transcription of DNA.",
+          "zh": "miRNA在转录后调控基因表达，而不是通过直接转录DNA。",
+          "es": "Los miRNA regulan la expresión génica postranscripcionalmente, no mediante la transcripción directa del ADN.",
+          "fr": "Les miRNA régulent l'expression génique après la transcription, et non par transcription directe de l'ADN.",
+          "de": "miRNAs regulieren die Genexpression posttranskriptionell, nicht durch direkte Transkription von DNA.",
+          "ja": "miRNAはDNAの直接転写ではなく、転写後に遺伝子発現を調節します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They always lead to the degradation of target mRNA molecules.",
+          "zh": "它们总是导致靶mRNA分子的降解。",
+          "es": "Siempre conducen a la degradación de las moléculas de ARNm objetivo.",
+          "fr": "Ils conduisent toujours à la dégradation des molécules d'ARNm cibles.",
+          "de": "Sie führen immer zum Abbau von Ziel-mRNA-Molekülen.",
+          "ja": "標的mRNA分子の分解を常にもたらします。"
+        },
+        "feedback": {
+          "en": "miRNAs can either lead to mRNA degradation or block its translation, depending on the degree of complementarity.",
+          "zh": "miRNA可以导致mRNA降解，也可以阻断其翻译，这取决于互补的程度。",
+          "es": "Los miRNA pueden llevar a la degradación del ARNm o bloquear su traducción, dependiendo del grado de complementariedad.",
+          "fr": "Les miRNA peuvent soit entraîner la dégradation de l'ARNm, soit bloquer sa traduction, selon le degré de complémentarité.",
+          "de": "miRNAs können je nach Komplementaritätsgrad entweder zum mRNA-Abbau führen oder deren Translation blockieren.",
+          "ja": "miRNAは相補性の程度に応じて、mRNAの分解を導くか、その翻訳を阻害するかのどちらかになります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They bind to complementary sequences on mRNA, leading to either degradation or translation blockade.",
+          "zh": "它们与mRNA上的互补序列结合，导致降解或翻译阻断。",
+          "es": "Se unen a secuencias complementarias en el ARNm, lo que lleva a la degradación o al bloqueo de la traducción.",
+          "fr": "Ils se lient à des séquences complémentaires sur l'ARNm, entraînant soit la dégradation, soit le blocage de la traduction.",
+          "de": "Sie binden an komplementäre Sequenzen auf der mRNA, was entweder zu deren Abbau oder zur Blockierung der Translation führt.",
+          "ja": "mRNA上の相補的な配列に結合し、分解または翻訳阻害をもたらします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They are double-stranded RNA molecules that initiate gene transcription.",
+          "zh": "它们是双链RNA分子，启动基因转录。",
+          "es": "Son moléculas de ARN bicatenario que inician la transcripción génica.",
+          "fr": "Ce sont des molécules d'ARN double brin qui initient la transcription génique.",
+          "de": "Sie sind doppelsträngige RNA-Moleküle, die die Gentranskription initiieren.",
+          "ja": "遺伝子転写を開始する二本鎖RNA分子です。"
+        },
+        "feedback": {
+          "en": "miRNAs are single-stranded RNA molecules and primarily regulate gene expression post-transcriptionally by degradation or translation blockade, not by initiating transcription.",
+          "zh": "miRNA是单链RNA分子，主要通过降解或翻译阻断在转录后调控基因表达，而不是通过启动转录。",
+          "es": "Los miRNA son moléculas de ARN monocatenario y regulan principalmente la expresión génica postranscripcionalmente mediante degradación o bloqueo de la traducción, no iniciando la transcripción.",
+          "fr": "Les miRNA sont des molécules d'ARN simple brin et régulent principalement l'expression génique après la transcription par dégradation ou blocage de la traduction, et non en initiant la transcription.",
+          "de": "miRNAs sind einzelsträngige RNA-Moleküle und regulieren die Genexpression hauptsächlich posttranskriptionell durch Abbau oder Translationsblockade, nicht durch Initiierung der Transkription.",
+          "ja": "miRNAは一本鎖RNA分子であり、主に転写後に分解または翻訳阻害によって遺伝子発現を調節し、転写を開始するわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "MicroRNAs (miRNAs) are small, single-stranded RNA molecules that bind to complementary sequences on target mRNA molecules. This binding leads to either the degradation of the mRNA or the blockade of its translation into protein. The outcome depends on the degree of complementarity between the miRNA and the mRNA.",
+      "zh": "微RNA（miRNA）是小的单链RNA分子，它们与靶mRNA分子上的互补序列结合。这种结合导致mRNA的降解或其翻译成蛋白质的阻断。结果取决于miRNA与mRNA之间的互补程度。",
+      "es": "Los microARN (miRNA) son pequeñas moléculas de ARN monocatenario que se unen a secuencias complementarias en las moléculas de ARNm objetivo. Esta unión conduce a la degradación del ARNm o al bloqueo de su traducción a proteínas. El resultado depende del grado de complementariedad entre el miRNA y el ARNm.",
+      "fr": "Les microARN (miRNA) sont de petites molécules d'ARN simple brin qui se lient à des séquences complémentaires sur les molécules d'ARNm cibles. Cette liaison entraîne soit la dégradation de l'ARNm, soit le blocage de sa traduction en protéine. Le résultat dépend du degré de complémentarité entre le miRNA et l'ARNm.",
+      "de": "MicroRNAs (miRNAs) sind kleine, einzelsträngige RNA-Moleküle, die an komplementäre Sequenzen auf Ziel-mRNA-Molekülen binden. Diese Bindung führt entweder zum Abbau der mRNA oder zur Blockierung ihrer Translation in Protein. Das Ergebnis hängt vom Grad der Komplementarität zwischen miRNA und mRNA ab.",
+      "ja": "マイクロRNA（miRNA）は、標的mRNA分子上の相補的な配列に結合する小さな一本鎖RNA分子です。この結合は、mRNAの分解またはそのタンパク質への翻訳の阻害のいずれかを導きます。結果は、miRNAとmRNA間の相補性の程度に依存します。"
+    }
+  },
+  {
+    "page_number": 429,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which of the following statements correctly differentiates between microRNAs (miRNAs), small interfering RNAs (siRNAs), and piwi-interacting RNAs (piRNAs) as described in the text?",
+      "zh": "根据文中描述，以下哪项陈述正确区分了微RNA（miRNA）、小干扰RNA（siRNA）和piwi相互作用RNA（piRNA）？",
+      "es": "¿Cuál de las siguientes afirmaciones diferencia correctamente entre microARN (miRNA), ARN de interferencia pequeño (siRNA) y ARN que interactúa con piwi (piRNA) según se describe en el texto?",
+      "fr": "Laquelle des affirmations suivantes différencie correctement les microARN (miRNA), les petits ARN interférents (siRNA) et les ARN interagissant avec piwi (piRNA) tels que décrits dans le texte ?",
+      "de": "Welche der folgenden Aussagen unterscheidet korrekt zwischen microRNAs (miRNAs), small interfering RNAs (siRNAs) und piwi-interacting RNAs (piRNAs), wie im Text beschrieben?",
+      "ja": "本文に記述されているマイクロRNA（miRNA）、低分子干渉RNA（siRNA）、およびpiwi相互作用RNA（piRNA）の正しい区別は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "miRNAs are derived from double-stranded precursors, while siRNAs are from single-stranded precursors.",
+          "zh": "miRNA来源于双链前体，而siRNA来源于单链前体。",
+          "es": "Los miRNA se derivan de precursores bicatenarios, mientras que los siRNA provienen de precursores monocatenarios.",
+          "fr": "Les miRNA sont dérivés de précurseurs double brin, tandis que les siRNA proviennent de précurseurs simple brin.",
+          "de": "miRNAs stammen von doppelsträngigen Vorläufern ab, während siRNAs von einzelsträngigen Vorläufern stammen.",
+          "ja": "miRNAは二本鎖前駆体から派生し、siRNAは一本鎖前駆体から派生します。"
+        },
+        "feedback": {
+          "en": "The text states that the distinction between miRNAs and siRNAs is based on subtle differences in the structure of their precursors, which in both cases are RNA molecules that are mostly double-stranded.",
+          "zh": "文中指出miRNA和siRNA的区别在于它们前体的微妙结构差异，这两种前体都是大部分双链的RNA分子。",
+          "es": "El texto afirma que la distinción entre miRNA y siRNA se basa en sutiles diferencias en la estructura de sus precursores, que en ambos casos son moléculas de ARN en su mayoría bicatenarias.",
+          "fr": "Le texte indique que la distinction entre miRNA et siRNA repose sur de subtiles différences dans la structure de leurs précurseurs, qui sont dans les deux cas des molécules d'ARN majoritairement double brin.",
+          "de": "Der Text besagt, dass sich miRNAs und siRNAs in der subtilen Struktur ihrer Vorläufer unterscheiden, die in beiden Fällen meist doppelsträngige RNA-Moleküle sind.",
+          "ja": "本文では、miRNAとsiRNAの違いは、両方の場合に主に二本鎖である前駆体の構造の微妙な違いに基づくと述べられています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Both miRNAs and siRNAs regulate gene expression by targeting mRNA, but piRNAs are primarily involved in chromatin remodeling and transposon suppression.",
+          "zh": "miRNA和siRNA都通过靶向mRNA来调控基因表达，但piRNA主要参与染色质重塑和转座子抑制。",
+          "es": "Tanto los miRNA como los siRNA regulan la expresión génica al dirigirse al ARNm, pero los piRNA están principalmente involucrados en la remodelación de la cromatina y la supresión de transposones.",
+          "fr": "Les miRNA et les siRNA régulent tous deux l'expression génique en ciblant l'ARNm, mais les piRNA sont principalement impliqués dans le remodelage de la chromatine et la suppression des transposons.",
+          "de": "Sowohl miRNAs als auch siRNAs regulieren die Genexpression durch Anvisieren von mRNA, aber piRNAs sind primär an der Chromatin-Remodellierung und Transposon-Suppression beteiligt.",
+          "ja": "miRNAとsiRNAは両方ともmRNAを標的として遺伝子発現を調節しますが、piRNAは主にクロマチンリモデリングと転移因子抑制に関与します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "siRNAs are used by bacteria as a defense system, whereas miRNAs are exclusive to eukaryotes.",
+          "zh": "siRNA被细菌用作防御系统，而miRNA则仅存在于真核生物中。",
+          "es": "Los siRNA son utilizados por bacterias como sistema de defensa, mientras que los miRNA son exclusivos de los eucariotas.",
+          "fr": "Les siRNA sont utilisés par les bactéries comme système de défense, tandis que les miRNA sont exclusifs aux eucaryotes.",
+          "de": "siRNAs werden von Bakterien als Verteidigungssystem eingesetzt, während miRNAs ausschließlich in Eukaryoten vorkommen.",
+          "ja": "siRNAは細菌によって防御システムとして使用され、miRNAは真核生物にのみ存在します。"
+        },
+        "feedback": {
+          "en": "The text mentions small ncRNAs (specifically the CRISPR-Cas9 system) are used by bacteria, not exclusively siRNAs. miRNAs are found in eukaryotes.",
+          "zh": "文中提到细菌使用小的非编码RNA（特别是CRISPR-Cas9系统）作为防御系统，但并非特指siRNA。miRNA存在于真核生物中。",
+          "es": "El texto menciona que los ARNnc pequeños (específicamente el sistema CRISPR-Cas9) son utilizados por bacterias, no exclusivamente los siRNA. Los miRNA se encuentran en eucariotas.",
+          "fr": "Le texte mentionne que de petits ARNnc (spécifiquement le système CRISPR-Cas9) sont utilisés par les bactéries, et non exclusivement les siRNA. Les miRNA se trouvent chez les eucaryotes.",
+          "de": "Der Text erwähnt, dass kleine ncRNAs (speziell das CRISPR-Cas9-System) von Bakterien als Abwehrsystem verwendet werden, nicht ausschließlich siRNAs. miRNAs finden sich in Eukaryoten.",
+          "ja": "本文では、細菌が防御システムとして小分子ncRNA（特にCRISPR-Cas9システム）を使用すると述べられていますが、siRNAに限定されていません。miRNAは真核生物に存在します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All three types of ncRNAs act by initiating transcription of target genes.",
+          "zh": "这三种非编码RNA都通过启动靶基因转录来发挥作用。",
+          "es": "Los tres tipos de ARNnc actúan iniciando la transcripción de genes objetivo.",
+          "fr": "Les trois types d'ARNnc agissent en initiant la transcription des gènes cibles.",
+          "de": "Alle drei ncRNA-Typen wirken, indem sie die Transkription von Zielgenen initiieren.",
+          "ja": "これら3種類のncRNAはすべて、標的遺伝子の転写を開始することによって作用します。"
+        },
+        "feedback": {
+          "en": "miRNAs and siRNAs typically block or degrade mRNA, thereby inhibiting gene expression, not initiating transcription. piRNAs also block expression of elements.",
+          "zh": "miRNA和siRNA通常通过阻断或降解mRNA来抑制基因表达，而不是启动转录。piRNA也阻断元件的表达。",
+          "es": "Los miRNA y siRNA suelen bloquear o degradar el ARNm, inhibiendo así la expresión génica, no iniciando la transcripción. Los piRNA también bloquean la expresión de elementos.",
+          "fr": "Les miRNA et siRNA bloquent ou dégradent généralement l'ARNm, inhibant ainsi l'expression génique, et n'initient pas la transcription. Les piRNA bloquent également l'expression d'éléments.",
+          "de": "miRNAs und siRNAs blockieren oder degradieren typischerweise mRNA, wodurch die Genexpression gehemmt wird und nicht die Transkription initiiert. piRNAs blockieren auch die Expression von Elementen.",
+          "ja": "miRNAとsiRNAは通常、mRNAをブロックまたは分解することで遺伝子発現を阻害し、転写を開始するわけではありません。piRNAも要素の発現をブロックします。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "miRNAs and siRNAs are both involved in post-transcriptional gene silencing by binding to and regulating mRNA (either degradation or translation blockade). piRNAs, on the other hand, are specifically noted for their role in chromatin remodeling and the suppression of parasitic DNA elements (transposons) in the genome.",
+      "zh": "miRNA和siRNA都通过结合和调控mRNA（降解或翻译阻断）参与转录后基因沉默。而piRNA则特别因其在染色质重塑和基因组中寄生DNA元件（转座子）抑制方面的作用而著称。",
+      "es": "Los miRNA y los siRNA están involucrados en el silenciamiento génico postranscripcional al unirse y regular el ARNm (ya sea por degradación o bloqueo de la traducción). Los piRNA, por otro lado, se destacan específicamente por su papel en la remodelación de la cromatina y la supresión de elementos de ADN parasitario (transposones) en el genoma.",
+      "fr": "Les miRNA et les siRNA sont tous deux impliqués dans la régulation post-transcriptionnelle de l'expression génique en se liant à l'ARNm et en le régulant (soit par dégradation, soit par blocage de la traduction). Les piRNA, en revanche, sont spécifiquement notés pour leur rôle dans le remodelage de la chromatine et la suppression des éléments d'ADN parasitaires (transposons) dans le génome.",
+      "de": "miRNAs und siRNAs sind beide an der posttranskriptionellen Gen-Stilllegung beteiligt, indem sie an mRNA binden und diese regulieren (entweder Abbau oder Translationsblockade). piRNAs hingegen sind speziell für ihre Rolle bei der Chromatin-Remodellierung und der Unterdrückung parasitärer DNA-Elemente (Transposons) im Genom bekannt.",
+      "ja": "miRNAとsiRNAは両方とも、mRNAに結合して調節すること（分解または翻訳阻害）によって転写後遺伝子サイレンシングに関与しています。一方、piRNAは、クロマチンリモデリングとゲノム内の寄生性DNA要素（トランスポゾン）の抑制における役割で特に注目されています。"
+    }
+  },
+  {
+    "page_number": 429,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 18.15 and its accompanying text, what determines whether a target mRNA is degraded or has its translation blocked by an miRNA-protein complex?",
+      "zh": "根据图18.15及其附带文本，什么决定了靶mRNA是被miRNA-蛋白质复合体降解还是其翻译被阻断？",
+      "es": "Según la Figura 18.15 y su texto adjunto, ¿qué determina si un ARNm objetivo es degradado o si su traducción es bloqueada por un complejo miRNA-proteína?",
+      "fr": "Selon la figure 18.15 et son texte d'accompagnement, qu'est-ce qui détermine si un ARNm cible est dégradé ou si sa traduction est bloquée par un complexe miRNA-protéine ?",
+      "de": "Was bestimmt laut Abbildung 18.15 und dem begleitenden Text, ob eine Ziel-mRNA abgebaut oder ihre Translation durch einen miRNA-Protein-Komplex blockiert wird?",
+      "ja": "図18.15および付随するテキストによると、標的mRNAがmiRNA-タンパク質複合体によって分解されるか、またはその翻訳が阻害されるかは何によって決定されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The specific type of protein associated with the miRNA.",
+          "zh": "与miRNA相关的蛋白质类型。",
+          "es": "El tipo específico de proteína asociada con el miRNA.",
+          "fr": "Le type spécifique de protéine associée au miRNA.",
+          "de": "Die spezifische Art des mit der miRNA assoziierten Proteins.",
+          "ja": "miRNAと関連する特定のタンパク質の種類。"
+        },
+        "feedback": {
+          "en": "While proteins are part of the complex, the text and figure specify complementarity as the deciding factor for the outcome.",
+          "zh": "虽然蛋白质是复合体的一部分，但文本和图表明确指出互补性是决定结果的关键因素。",
+          "es": "Aunque las proteínas son parte del complejo, el texto y la figura especifican la complementariedad como el factor decisivo para el resultado.",
+          "fr": "Bien que les protéines fassent partie du complexe, le texte et la figure précisent que la complémentarité est le facteur décisif pour le résultat.",
+          "de": "Obwohl Proteine Teil des Komplexes sind, legen der Text und die Abbildung die Komplementarität als entscheidenden Faktor für das Ergebnis fest.",
+          "ja": "タンパク質は複合体の一部ですが、テキストと図は結果の決定要因として相補性を指定しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The presence of a poly-A tail on the mRNA.",
+          "zh": "mRNA上是否存在多聚A尾。",
+          "es": "La presencia de una cola poli-A en el ARNm.",
+          "fr": "La présence d'une queue poly-A sur l'ARNm.",
+          "de": "Das Vorhandensein eines Poly-A-Schwanzes an der mRNA.",
+          "ja": "mRNA上にポリAテールが存在するかどうか。"
+        },
+        "feedback": {
+          "en": "The poly-A tail is not mentioned in the context of determining miRNA outcome.",
+          "zh": "在决定miRNA结果的上下文中未提及多聚A尾。",
+          "es": "La cola poli-A no se menciona en el contexto de determinar el resultado del miRNA.",
+          "fr": "La queue poly-A n'est pas mentionnée dans le contexte de la détermination du résultat du miRNA.",
+          "de": "Der Poly-A-Schwanz wird im Kontext der Bestimmung des miRNA-Ergebnisses nicht erwähnt.",
+          "ja": "ポリAテールはmiRNAの結果を決定する文脈では言及されていません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The degree of complementary base pairing between the miRNA and the target mRNA.",
+          "zh": "miRNA与靶mRNA之间互补碱基配对的程度。",
+          "es": "El grado de apareamiento de bases complementarias entre el miRNA y el ARNm objetivo.",
+          "fr": "Le degré d'appariement des bases complémentaires entre le miRNA et l'ARNm cible.",
+          "de": "Der Grad der komplementären Basenpaarung zwischen der miRNA und der Ziel-mRNA.",
+          "ja": "miRNAと標的mRNA間の相補的塩基対形成の程度。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The cellular localization of the miRNA-protein complex.",
+          "zh": "miRNA-蛋白质复合体的细胞定位。",
+          "es": "La localización celular del complejo miRNA-proteína.",
+          "fr": "La localisation cellulaire du complexe miRNA-protéine.",
+          "de": "Die zelluläre Lokalisation des miRNA-Protein-Komplexes.",
+          "ja": "miRNA-タンパク質複合体の細胞内局在。"
+        },
+        "feedback": {
+          "en": "Cellular localization is not identified as the determinant for degradation versus translation blockade.",
+          "zh": "细胞定位未被确定为降解与翻译阻断的决定因素。",
+          "es": "La localización celular no se identifica como el determinante para la degradación versus el bloqueo de la traducción.",
+          "fr": "La localisation cellulaire n'est pas identifiée comme le déterminant de la dégradation par rapport au blocage de la traduction.",
+          "de": "Die zelluläre Lokalisation wird nicht als Bestimmungsfaktor für Abbau versus Translationsblockade identifiziert.",
+          "ja": "細胞内局在は、分解と翻訳阻害の決定要因として特定されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 18.15 and its caption explicitly state that if the miRNA and mRNA bases are complementary all along their length, the mRNA is degraded. If the match is less complete, translation is blocked.",
+      "zh": "图18.15及其图注明确指出，如果miRNA和mRNA碱基在其整个长度上都是互补的，则mRNA会被降解。如果匹配不那么完全，则翻译会被阻断。",
+      "es": "La Figura 18.15 y su leyenda establecen explícitamente que si las bases de miRNA y ARNm son complementarias a lo largo de toda su longitud, el ARNm se degrada. Si la coincidencia es menos completa, la traducción se bloquea.",
+      "fr": "La figure 18.15 et sa légende stipulent explicitement que si les bases de l'miRNA et de l'ARNm sont complémentaires sur toute leur longueur, l'ARNm est dégradé. Si la correspondance est moins complète, la traduction est bloquée.",
+      "de": "Abbildung 18.15 und ihre Bildunterschrift besagen explizit, dass die mRNA abgebaut wird, wenn die miRNA- und mRNA-Basen über ihre gesamte Länge komplementär sind. Wenn die Übereinstimmung weniger vollständig ist, wird die Translation blockiert.",
+      "ja": "図18.15とそのキャプションは、miRNAとmRNAの塩基がその全長にわたって相補的である場合、mRNAが分解されると明示しています。相補性が不完全な場合は、翻訳が阻害されます。"
+    }
+  }
+]

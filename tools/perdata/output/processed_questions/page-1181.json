@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 1181,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the passage, what molecule directly activates an enzyme that phosphorylates the myosin head, enabling smooth muscle contraction?",
+      "zh": "根据文中描述，哪种分子直接激活使肌球蛋白头部磷酸化并启动平滑肌收缩的酶？",
+      "es": "Según el pasaje, ¿qué molécula activa directamente una enzima que fosforila la cabeza de miosina, permitiendo la contracción del músculo liso?",
+      "fr": "Selon le passage, quelle molécule active directement une enzyme qui phosphoryle la tête de myosine, permettant la contraction du muscle lisse ?",
+      "de": "Laut dem Text, welches Molekül aktiviert direkt ein Enzym, das den Myosinkopf phosphoryliert und so die glatte Muskelkontraktion ermöglicht?",
+      "ja": "本文によると、滑らかな筋肉の収縮を可能にするミオシンヘッドをリン酸化する酵素を直接活性化する分子は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Troponin",
+          "zh": "肌钙蛋白",
+          "es": "Troponina",
+          "fr": "Troponine",
+          "de": "Troponin",
+          "ja": "トロポニン"
+        },
+        "feedback": {
+          "en": "Troponin is involved in skeletal muscle contraction, not smooth muscle as stated in the text.",
+          "zh": "肌钙蛋白参与骨骼肌收缩，而非文中提到的平滑肌。",
+          "es": "La troponina está involucrada en la contracción del músculo esquelético, no en el músculo liso como se menciona en el texto.",
+          "fr": "La troponine est impliquée dans la contraction des muscles squelettiques, pas des muscles lisses comme indiqué dans le texte.",
+          "de": "Troponin ist an der Kontraktion der Skelettmuskulatur beteiligt, nicht an der glatten Muskulatur, wie im Text angegeben.",
+          "ja": "トロポニンは骨格筋の収縮に関与しており、本文に記載されている滑らかな筋肉ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Actin",
+          "zh": "肌动蛋白",
+          "es": "Actina",
+          "fr": "Actine",
+          "de": "Aktin",
+          "ja": "アクチン"
+        },
+        "feedback": {
+          "en": "Actin is a filament that interacts with myosin, but it does not directly activate the enzyme for myosin head phosphorylation.",
+          "zh": "肌动蛋白是与肌球蛋白相互作用的细丝，但它不直接激活肌球蛋白头部磷酸化的酶。",
+          "es": "La actina es un filamento que interactúa con la miosina, pero no activa directamente la enzima para la fosforilación de la cabeza de miosina.",
+          "fr": "L'actine est un filament qui interagit avec la myosine, mais elle n'active pas directement l'enzyme pour la phosphorylation de la tête de myosine.",
+          "de": "Aktin ist ein Filament, das mit Myosin interagiert, aber es aktiviert nicht direkt das Enzym für die Myosinkopf-Phosphorylierung.",
+          "ja": "アクチンはミオシンと相互作用するフィラメントですが、ミオシンヘッドのリン酸化に関わる酵素を直接活性化することはありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Calmodulin",
+          "zh": "钙调蛋白",
+          "es": "Calmodulina",
+          "fr": "Calmoduline",
+          "de": "Calmodulin",
+          "ja": "カルモジュリン"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "ATP",
+          "zh": "三磷酸腺苷",
+          "es": "ATP",
+          "fr": "ATP",
+          "de": "ATP",
+          "ja": "ATP"
+        },
+        "feedback": {
+          "en": "ATP provides energy for contraction, but it does not directly activate the enzyme for myosin head phosphorylation.",
+          "zh": "ATP 为收缩提供能量，但它不直接激活肌球蛋白头部磷酸化的酶。",
+          "es": "El ATP proporciona energía para la contracción, pero no activa directamente la enzima para la fosforilación de la cabeza de miosina.",
+          "fr": "L'ATP fournit l'énergie pour la contraction, mais il n'active pas directement l'enzyme pour la phosphorylation de la tête de myosine.",
+          "de": "ATP liefert Energie für die Kontraktion, aber es aktiviert nicht direkt das Enzym für die Myosinkopf-Phosphorylierung.",
+          "ja": "ATPは収縮にエネルギーを供給しますが、ミオシンヘッドのリン酸化に関わる酵素を直接活性化することはありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The passage states: 'Calcium ions cause contraction by binding to the protein calmodulin, which activates an enzyme that phosphorylates the myosin head, enabling cross-bridge activity.' Therefore, calmodulin is the direct activator.",
+      "zh": "文章指出：'钙离子通过与钙调蛋白结合引起收缩，钙调蛋白激活一种使肌球蛋白头部磷酸化的酶，从而启动横桥活动。' 因此，钙调蛋白是直接激活剂。",
+      "es": "El pasaje afirma: 'Los iones de calcio causan la contracción al unirse a la proteína calmodulina, que activa una enzima que fosforila la cabeza de miosina, permitiendo la actividad de puentes cruzados.' Por lo tanto, la calmodulina es el activador directo.",
+      "fr": "Le passage indique : 'Les ions calcium provoquent la contraction en se liant à la protéine calmoduline, qui active une enzyme qui phosphoryle la tête de myosine, permettant l'activité des ponts transversaux.' Par conséquent, la calmoduline est l'activateur direct.",
+      "de": "Der Text besagt: 'Kalziumionen verursachen die Kontraktion, indem sie an das Protein Calmodulin binden, das ein Enzym aktiviert, das den Myosinkopf phosphoryliert und so die Querbrückenaktivität ermöglicht.' Daher ist Calmodulin der direkte Aktivator.",
+      "ja": "本文には、「カルシウムイオンは、タンパク質であるカルモジュリンに結合することによって収縮を引き起こし、これによりミオシンヘッドをリン酸化する酵素が活性化され、横橋活動が可能になる」と記載されています。したがって、カルモジュリンが直接の活性化因子です。"
+    }
+  },
+  {
+    "page_number": 1181,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Refer to Figure 50.35 showing human forearm movement. When the arm flexes (bends at the elbow), the biceps muscle contracts. According to the principle of antagonistic muscle pairs illustrated, what is the state of the triceps muscle during this flexion?",
+      "zh": "请参考图 50.35 所示的人类前臂运动。当前臂屈曲（肘部弯曲）时，肱二头肌收缩。根据图中所示的拮抗肌对原理，肱三头肌在此屈曲过程中处于什么状态？",
+      "es": "Consulte la Figura 50.35 que muestra el movimiento del antebrazo humano. Cuando el brazo se flexiona (se dobla en el codo), el músculo bíceps se contrae. Según el principio de pares de músculos antagonistas ilustrado, ¿cuál es el estado del músculo tríceps durante esta flexión?",
+      "fr": "Référez-vous à la Figure 50.35 montrant le mouvement de l'avant-bras humain. Lorsque le bras fléchit (se plie au niveau du coude), le muscle biceps se contracte. Selon le principe des paires de muscles antagonistes illustré, quel est l'état du muscle triceps pendant cette flexion ?",
+      "de": "Beziehen Sie sich auf Abbildung 50.35, die die Bewegung des menschlichen Unterarms zeigt. Wenn der Arm beugt (am Ellbogen), kontrahiert der Bizepsmuskel. Welchen Zustand nimmt der Trizepsmuskel während dieser Beugung gemäß dem Prinzip der im Bild dargestellten antagonistischen Muskelpaare ein?",
+      "ja": "図50.35のヒトの腕の動きを参照してください。腕が屈曲（肘が曲がる）する際、上腕二頭筋が収縮します。図に示されている拮抗筋ペアの原理によると、この屈曲中、上腕三頭筋はどのような状態になりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Contracting",
+          "zh": "收缩",
+          "es": "Contrayéndose",
+          "fr": "En contraction",
+          "de": "Kontrahierend",
+          "ja": "収縮している"
+        },
+        "feedback": {
+          "en": "If both biceps and triceps contracted simultaneously, movement would be restricted or less efficient. Antagonistic muscles work in opposition.",
+          "zh": "如果肱二头肌和肱三头肌同时收缩，运动会受限或效率降低。拮抗肌是协同相反作用的。",
+          "es": "Si tanto el bíceps como el tríceps se contrajeran simultáneamente, el movimiento se vería restringido o sería menos eficiente. Los músculos antagonistas trabajan en oposición.",
+          "fr": "Si les biceps et les triceps se contractaient simultanément, le mouvement serait restreint ou moins efficace. Les muscles antagonistes fonctionnent en opposition.",
+          "de": "Wenn sowohl Bizeps als auch Trizeps gleichzeitig kontrahieren würden, wäre die Bewegung eingeschränkt oder weniger effizient. Antagonistische Muskeln arbeiten entgegengesetzt.",
+          "ja": "上腕二頭筋と上腕三頭筋が同時に収縮すると、動きが制限されるか、効率が低下します。拮抗筋は反対の働きをします。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Relaxing",
+          "zh": "放松",
+          "es": "Relajándose",
+          "fr": "En relaxation",
+          "de": "Entspannend",
+          "ja": "弛緩している"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Unaffected",
+          "zh": "不受影响",
+          "es": "Inafectado",
+          "fr": "Inaffecté",
+          "de": "Unbeeinflusst",
+          "ja": "影響を受けない"
+        },
+        "feedback": {
+          "en": "Antagonistic muscles are directly involved in coordinated movement; one contracts while the other relaxes.",
+          "zh": "拮抗肌直接参与协调运动；一块肌肉收缩时，另一块肌肉放松。",
+          "es": "Los músculos antagonistas están directamente involucrados en el movimiento coordinado; uno se contrae mientras el otro se relaja.",
+          "fr": "Les muscles antagonistes sont directement impliqués dans le mouvement coordonné ; l'un se contracte tandis que l'autre se relâche.",
+          "de": "Antagonistische Muskeln sind direkt an koordinierten Bewegungen beteiligt; einer kontrahiert, während der andere entspannt.",
+          "ja": "拮抗筋は協調運動に直接関与しており、一方が収縮するともう一方は弛緩します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Synergistically contracting",
+          "zh": "协同收缩",
+          "es": "Contrayéndose sinérgicamente",
+          "fr": "En contraction synergique",
+          "de": "Synergistisch kontrahierend",
+          "ja": "協力して収縮している"
+        },
+        "feedback": {
+          "en": "Synergistic muscles assist the prime mover; antagonistic muscles oppose it.",
+          "zh": "协同肌协助主动肌；拮抗肌则与其相反。",
+          "es": "Los músculos sinérgicos asisten al motor principal; los músculos antagonistas se oponen a él.",
+          "fr": "Les muscles synergiques assistent le muscle moteur principal ; les muscles antagonistes s'y opposent.",
+          "de": "Synergistische Muskeln unterstützen den Hauptbeweger; antagonistische Muskeln wirken ihm entgegen.",
+          "ja": "協調筋は主動筋を補助しますが、拮抗筋は主動筋に対抗します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that for movement, muscles work in antagonistic pairs. When the biceps contracts for flexion, the triceps (its antagonist) must relax to allow the movement. This is visually represented in Figure 50.35, where the contracting muscle is blue and the relaxing muscle is green.",
+      "zh": "文中解释说，为了运动，肌肉以拮抗对的形式工作。当肱二头肌收缩进行屈曲时，肱三头肌（其拮抗肌）必须放松以允许运动。图 50.35 形象地展示了这一点，收缩的肌肉显示为蓝色，放松的肌肉显示为绿色。",
+      "es": "El texto explica que para el movimiento, los músculos trabajan en pares antagónicos. Cuando el bíceps se contrae para la flexión, el tríceps (su antagonista) debe relajarse para permitir el movimiento. Esto se representa visualmente en la Figura 50.35, donde el músculo en contracción es azul y el músculo en relajación es verde.",
+      "fr": "Le texte explique que pour le mouvement, les muscles travaillent par paires antagonistes. Lorsque le biceps se contracte pour la flexion, le triceps (son antagoniste) doit se relâcher pour permettre le mouvement. Ceci est visuellement représenté dans la Figure 50.35, où le muscle en contraction est bleu et le muscle en relaxation est vert.",
+      "de": "Der Text erklärt, dass Muskeln für die Bewegung in antagonistischen Paaren arbeiten. Wenn der Bizeps für die Beugung kontrahiert, muss der Trizeps (sein Antagonist) entspannen, um die Bewegung zu ermöglichen. Dies wird visuell in Abbildung 50.35 dargestellt, wobei der kontrahierende Muskel blau und der entspannende Muskel grün ist.",
+      "ja": "本文では、運動のために筋肉が拮抗的なペアで働くことが説明されています。上腕二頭筋が屈曲のために収縮するとき、上腕三頭筋（その拮抗筋）は動きを許容するために弛緩する必要があります。これは図50.35に視覚的に示されており、収縮している筋肉は青色、弛緩している筋肉は緑色で示されています。"
+    }
+  },
+  {
+    "page_number": 1181,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The passage mentions an interesting evolutionary adaptation in the muscles that hold a clam shell closed, allowing them to remain contracted for as long as a month with only a low rate of energy consumption. Which of the following best describes the molecular basis for this adaptation?",
+      "zh": "文中提到，蛤蜊壳关闭肌肉有一种有趣的进化适应性，使其能够以低能量消耗维持长达一个月的收缩状态。以下哪项最能描述这种适应的分子基础？",
+      "es": "El pasaje menciona una interesante adaptación evolutiva en los músculos que mantienen cerrada la concha de una almeja, permitiéndoles permanecer contraídos hasta por un mes con una baja tasa de consumo de energía. ¿Cuál de las siguientes describe mejor la base molecular de esta adaptación?",
+      "fr": "Le passage mentionne une adaptation évolutive intéressante dans les muscles qui maintiennent la coquille d'une palourde fermée, leur permettant de rester contractés jusqu'à un mois avec une faible consommation d'énergie. Lequel des éléments suivants décrit le mieux la base moléculaire de cette adaptation ?",
+      "de": "Der Text erwähnt eine interessante evolutionäre Anpassung in den Muskeln, die eine Muschelschale geschlossen halten, wodurch sie bis zu einem Monat lang bei geringem Energieverbrauch kontrahiert bleiben können. Welche der folgenden Aussagen beschreibt am besten die molekulare Grundlage dieser Anpassung?",
+      "ja": "本文には、アサリの殻を閉じ続ける筋肉に見られる興味深い進化的適応が述べられており、これにより低エネルギー消費で最大1ヶ月間収縮状態を維持できます。この適応の分子基盤を最もよく説明しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Presence of fast-twitch muscle fibers.",
+          "zh": "存在快肌纤维。",
+          "es": "Presencia de fibras musculares de contracción rápida.",
+          "fr": "Présence de fibres musculaires à contraction rapide.",
+          "de": "Vorhandensein von schnell zuckenden Muskelfasern.",
+          "ja": "速筋線維の存在。"
+        },
+        "feedback": {
+          "en": "Fast-twitch fibers are for rapid, powerful contractions, not prolonged, low-energy states.",
+          "zh": "快肌纤维用于快速、有力的收缩，而非长时间、低能耗的状态。",
+          "es": "Las fibras de contracción rápida son para contracciones rápidas y potentes, no para estados prolongados y de baja energía.",
+          "fr": "Les fibres à contraction rapide sont destinées aux contractions rapides et puissantes, et non aux états prolongés et à faible consommation d'énergie.",
+          "de": "Schnell zuckende Fasern dienen schnellen, kraftvollen Kontraktionen, nicht langanhaltenden, energiearmen Zuständen.",
+          "ja": "速筋線維は、迅速で強力な収縮のためであり、長時間低エネルギー状態で維持するためではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A stretch-activated mechanism for sustained contraction.",
+          "zh": "持续收缩的牵张激活机制。",
+          "es": "Un mecanismo activado por estiramiento para la contracción sostenida.",
+          "fr": "Un mécanisme activé par l'étirement pour une contraction soutenue.",
+          "de": "Ein dehnungsaktivierter Mechanismus für anhaltende Kontraktion.",
+          "ja": "持続的な収縮のための伸展活性化メカニズム。"
+        },
+        "feedback": {
+          "en": "Stretch-activated mechanisms are mentioned for insect flight muscles, not clam shell muscles.",
+          "zh": "牵张激活机制是针对昆虫飞行肌肉而言，而非蛤蜊壳肌肉。",
+          "es": "Los mecanismos activados por estiramiento se mencionan para los músculos de vuelo de los insectos, no para los músculos de la concha de la almeja.",
+          "fr": "Les mécanismes activés par l'étirement sont mentionnés pour les muscles de vol des insectes, pas pour les muscles de la coquille de palourde.",
+          "de": "Dehnungsaktivierte Mechanismen werden für die Flugmuskulatur von Insekten erwähnt, nicht für die Muschelmuskulatur.",
+          "ja": "伸展活性化メカニズムは昆虫の飛翔筋について言及されており、アサリの殻の筋肉については言及されていません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Modification of certain proteins that allows them to remain contracted.",
+          "zh": "某些蛋白质的修饰，使其能够保持收缩状态。",
+          "es": "Modificación de ciertas proteínas que les permite permanecer contraídas.",
+          "fr": "Modification de certaines protéines qui leur permet de rester contractées.",
+          "de": "Modifikation bestimmter Proteine, die es ihnen ermöglicht, kontrahiert zu bleiben.",
+          "ja": "特定のタンパク質の修飾により、収縮状態を維持できる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A very high rate of ATP hydrolysis to maintain tension.",
+          "zh": "极高的 ATP 水解速率以维持张力。",
+          "es": "Una tasa muy alta de hidrólisis de ATP para mantener la tensión.",
+          "fr": "Un taux très élevé d'hydrolyse de l'ATP pour maintenir la tension.",
+          "de": "Eine sehr hohe ATP-Hydrolyserate zur Aufrechterhaltung der Spannung.",
+          "ja": "張力を維持するための非常に高いATP加水分解速度。"
+        },
+        "feedback": {
+          "en": "The passage explicitly states 'only a low rate of energy consumption' for clam shell muscles.",
+          "zh": "文中明确指出蛤蜊壳肌肉的能量消耗速率为“极低”。",
+          "es": "El pasaje establece explícitamente 'solo una baja tasa de consumo de energía' para los músculos de la concha de la almeja.",
+          "fr": "Le passage indique explicitement 'seulement un faible taux de consommation d'énergie' pour les muscles de la coquille de palourde.",
+          "de": "Der Text besagt explizit 'nur eine geringe Rate des Energieverbrauchs' für die Muschelmuskeln.",
+          "ja": "本文には、アサリの殻の筋肉について「低エネルギー消費量」と明確に記載されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The passage directly states: 'Another interesting evolutionary adaptation has been discovered in the muscles that hold a clam shell closed. Modification of certain proteins in these muscles allows them to remain contracted for as long as a month with only a low rate of energy consumption.'",
+      "zh": "文中直接指出：'在使蛤蜊壳保持关闭的肌肉中，发现了另一个有趣的进化适应。这些肌肉中某些蛋白质的修饰使其能够以极低的能量消耗维持长达一个月的收缩状态。'",
+      "es": "El pasaje afirma directamente: 'Otra interesante adaptación evolutiva ha sido descubierta en los músculos que mantienen cerrada la concha de una almeja. La modificación de ciertas proteínas en estos músculos les permite permanecer contraídos hasta por un mes con solo una baja tasa de consumo de energía.'",
+      "fr": "Le passage déclare directement : 'Une autre adaptation évolutive intéressante a été découverte dans les muscles qui maintiennent la coquille d'une palourde fermée. La modification de certaines protéines dans ces muscles leur permet de rester contractés jusqu'à un mois avec seulement un faible taux de consommation d'énergie.'",
+      "de": "Der Text besagt direkt: 'Eine weitere interessante evolutionäre Anpassung wurde in den Muskeln entdeckt, die eine Muschelschale geschlossen halten. Die Modifikation bestimmter Proteine in diesen Muskeln ermöglicht es ihnen, bis zu einem Monat lang bei geringem Energieverbrauch kontrahiert zu bleiben.'",
+      "ja": "本文には、「アサリの殻を閉じ続ける筋肉には、もう一つの興味深い進化的適応が発見されている。これらの筋肉中の特定のタンパク質の修飾により、低エネルギー消費で最大1ヶ月間収縮状態を維持できる」と直接述べられています。"
+    }
+  }
+]

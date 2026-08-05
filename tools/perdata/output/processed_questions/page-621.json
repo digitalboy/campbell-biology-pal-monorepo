@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 621,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which principle is generally followed when constructing a phylogenetic tree to identify the most likely evolutionary relationships?",
+      "zh": "在构建系统发育树以识别最可能的进化关系时，通常遵循哪个原则？",
+      "es": "Al construir un árbol filogenético para identificar las relaciones evolutivas más probables, ¿qué principio se sigue generalmente?",
+      "fr": "Quel principe est généralement suivi lors de la construction d'un arbre phylogénétique pour identifier les relations évolutives les plus probables ?",
+      "de": "Welches Prinzip wird im Allgemeinen bei der Konstruktion eines phylogenetischen Baumes befolgt, um die wahrscheinlichsten evolutionären Beziehungen zu identifizieren?",
+      "ja": "最も可能性の高い進化的関係を特定するために系統樹を構築する際、一般的にどの原則が従われますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The principle that all evolutionary changes are equally probable.",
+          "zh": "所有进化变化都同样可能发生的原则。",
+          "es": "El principio de que todos los cambios evolutivos son igualmente probables.",
+          "fr": "Le principe selon lequel tous les changements évolutifs sont également probables.",
+          "de": "Das Prinzip, dass alle evolutionären Veränderungen gleichermaßen wahrscheinlich sind.",
+          "ja": "すべての進化的変化が等しく起こりうるという原則。"
+        },
+        "feedback": {
+          "en": "Parsimony explicitly seeks the fewest changes, implying not all are equally probable or desirable.",
+          "zh": "简约性原则明确寻求最少的变化，这意味着并非所有变化都同样可能或合意。",
+          "es": "La parsimonia busca explícitamente los cambios más escasos, lo que implica que no todos son igualmente probables o deseables.",
+          "fr": "Le principe de parcimonie recherche explicitement le moins de changements, ce qui implique que tous ne sont pas également probables ou souhaitables.",
+          "de": "Das Sparsamkeitsprinzip sucht explizit nach den wenigsten Veränderungen, was impliziert, dass nicht alle gleichermaßen wahrscheinlich oder wünschenswert sind.",
+          "ja": "パースモニー（最小変化）の原則は、最も少ない変化を明示的に追求するため、すべての変化が等しく起こりうるわけではないことを意味します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The principle of maximum likelihood, favoring trees with the highest probability.",
+          "zh": "最大似然原则，偏爱概率最高的树。",
+          "es": "El principio de máxima verosimilitud, que favorece los árboles con la mayor probabilidad.",
+          "fr": "Le principe du maximum de vraisemblance, favorisant les arbres avec la probabilité la plus élevée.",
+          "de": "Das Prinzip der maximalen Wahrscheinlichkeit, das Bäume mit der höchsten Wahrscheinlichkeit bevorzugt.",
+          "ja": "最も高い確率を持つ系統樹を好む最尤法（最大尤度）の原則。"
+        },
+        "feedback": {
+          "en": "Maximum likelihood is a different, often more complex, method; parsimony focuses on minimizing changes.",
+          "zh": "最大似然法是一种不同且通常更复杂的方法；简约性原则侧重于最小化变化。",
+          "es": "La máxima verosimilitud es un método diferente, a menudo más complejo; la parsimonia se centra en minimizar los cambios.",
+          "fr": "Le maximum de vraisemblance est une méthode différente, souvent plus complexe ; la parcimonie se concentre sur la minimisation des changements.",
+          "de": "Die maximale Wahrscheinlichkeit ist eine andere, oft komplexere Methode; die Sparsamkeit konzentriert sich auf die Minimierung von Veränderungen.",
+          "ja": "最尤法は異なる、しばしばより複雑な方法です。パースモニーは変化を最小限に抑えることに焦点を当てています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The principle of parsimony, which favors the tree that requires the fewest evolutionary changes.",
+          "zh": "简约性原则，偏爱需要最少进化变化的树。",
+          "es": "El principio de parsimonia, que favorece el árbol que requiere el menor número de cambios evolutivos.",
+          "fr": "Le principe de parcimonie, qui favorise l'arbre nécessitant le moins de changements évolutifs.",
+          "de": "Das Sparsamkeitsprinzip, das den Baum bevorzugt, der die wenigsten evolutionären Veränderungen erfordert.",
+          "ja": "最小変化の原則（パースモニーの原則）は、最も少ない進化的変化を必要とする系統樹を好みます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The principle that branch points should be based on as many shared ancestral characters as possible.",
+          "zh": "分支点应基于尽可能多的共同祖先特征的原则。",
+          "es": "El principio de que los puntos de ramificación deben basarse en tantos caracteres ancestrales compartidos como sea posible.",
+          "fr": "Le principe selon lequel les points de branchement doivent être basés sur autant de caractères ancestraux partagés que possible.",
+          "de": "Das Prinzip, dass Verzweigungspunkte auf so vielen gemeinsamen Ahnenmerkmalen wie möglich basieren sollten.",
+          "ja": "分岐点は、できるだけ多くの共通祖先形質に基づいて構築されるべきという原則。"
+        },
+        "feedback": {
+          "en": "Phylogenetic trees are typically constructed based on shared derived characters (synapomorphies) to define clades, not shared ancestral characters (symplesiomorphies).",
+          "zh": "系统发育树通常是基于共享的派生特征（同源衍征）来定义演化支系，而不是共享的祖先特征（同形同源）。",
+          "es": "Los árboles filogenéticos se construyen típicamente basándose en caracteres derivados compartidos (sinapomorfías) para definir clados, no en caracteres ancestrales compartidos (simplesiomorfías).",
+          "fr": "Les arbres phylogénétiques sont généralement construits sur la base de caractères dérivés partagés (synapomorphies) pour définir des clades, et non de caractères ancestraux partagés (symplésiomorphies).",
+          "de": "Phylogenetische Bäume werden typischerweise basierend auf gemeinsamen abgeleiteten Merkmalen (Synapomorphien) zur Definition von Kladen konstruiert, nicht auf gemeinsamen ancestralen Merkmalen (Symplesiomorphien).",
+          "ja": "系統樹は通常、共有派生形質（シナポモルフィー）に基づいてクレードを定義するために構築され、共有祖先形質（シンプレシオモルフィー）に基づいているわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The principle of parsimony, or Occam's razor, suggests that the simplest explanation (the tree requiring the fewest evolutionary changes) is usually the best. This is a common method for constructing phylogenetic trees.",
+      "zh": "简约性原则，或称奥卡姆剃刀原则，认为最简单的解释（即需要最少进化变化的树）通常是最好的。这是构建系统发育树的常用方法。",
+      "es": "El principio de parsimonia, o la navaja de Ockham, sugiere que la explicación más simple (el árbol que requiere el menor número de cambios evolutivos) suele ser la mejor. Este es un método común para construir árboles filogenéticos.",
+      "fr": "Le principe de parcimonie, ou rasoir d'Ockham, suggère que l'explication la plus simple (l'arbre nécessitant le moins de changements évolutifs) est généralement la meilleure. C'est une méthode courante pour construire des arbres phylogénétiques.",
+      "de": "Das Sparsamkeitsprinzip, auch bekannt als Ockhams Rasiermesser, besagt, dass die einfachste Erklärung (der Baum, der die wenigsten evolutionären Veränderungen erfordert) in der Regel die beste ist. Dies ist eine gängige Methode zur Konstruktion phylogenetischer Bäume.",
+      "ja": "パースモニーの原則、またはオッカムの剃刀は、最も単純な説明（最も少ない進化的変化を必要とする系統樹）が通常最良であると提唱しています。これは系統樹を構築する一般的な方法です。"
+    }
+  },
+  {
+    "page_number": 621,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the character table (Lancelet to Dolphin) from Question 9, which of the following statements about evolutionary relationships is most accurate according to cladistic analysis?",
+      "zh": "根据问题9中给出的性状表（从文昌鱼到海豚），下列关于进化关系的陈述，根据支序分析哪一项最准确？",
+      "es": "Basándose en la tabla de caracteres (desde el Anfiouo hasta el Delfín) de la Pregunta 9, ¿cuál de las siguientes afirmaciones sobre las relaciones evolutivas es más precisa según el análisis cladístico?",
+      "fr": "D'après le tableau de caractères (de la Lancelette au Dauphin) de la Question 9, laquelle des affirmations suivantes concernant les relations évolutives est la plus précise selon l'analyse cladistique ?",
+      "de": "Basierend auf der Merkmalstabelle (Lanzettfisch bis Delfin) aus Frage 9, welche der folgenden Aussagen über evolutionäre Beziehungen ist gemäß der kladistischen Analyse am genauesten?",
+      "ja": "問題9の形質表（ナメクジウオからイルカまで）に基づいて、分岐学的分析によれば、進化関係に関する以下の記述のうち、最も正確なものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Lamprey is more closely related to Lancelet than to Tuna, due to both lacking a hinged jaw.",
+          "zh": "由于都缺乏铰链状下颌，七鳃鳗与文昌鱼的关系比与金枪鱼的关系更近。",
+          "es": "La lamprea está más estrechamente relacionada con el anfiouo que con el atún, debido a que ambos carecen de mandíbula articulada.",
+          "fr": "La lamproie est plus étroitement apparentée à la lancelette qu'au thon, car les deux n'ont pas de mâchoire articulée.",
+          "de": "Das Neunauge ist aufgrund des Fehlens eines Kiefergelenks näher mit dem Lanzettfisch als mit dem Thunfisch verwandt.",
+          "ja": "顎がないため、ヤツメウナギはマグロよりもナメクジウオと近縁である。"
+        },
+        "feedback": {
+          "en": "While both lack a hinged jaw, the presence of a backbone in Lamprey makes it more derived than Lancelet, and it shares more derived characters with the ingroup (Tuna, Salamander, etc.) than with Lancelet, which is an outgroup.",
+          "zh": "虽然两者都缺乏铰链状下颌，但七鳃鳗拥有脊椎，使其比文昌鱼更具派生性，并且它与内群（金枪鱼、蝾螈等）共享的派生特征比与作为外群的文昌鱼更多。",
+          "es": "Aunque ambos carecen de mandíbula articulada, la presencia de columna vertebral en la lamprea la hace más derivada que el anfiouo, y comparte más caracteres derivados con el grupo interno (atún, salamandra, etc.) que con el anfiouo, que es un grupo externo.",
+          "fr": "Bien que tous deux n'aient pas de mâchoire articulée, la présence d'une colonne vertébrale chez la lamproie la rend plus dérivée que la lancelette, et elle partage plus de caractères dérivés avec le groupe interne (thon, salamandre, etc.) qu'avec la lancelette, qui est un groupe externe.",
+          "de": "Obwohl beiden ein Kiefergelenk fehlt, ist das Neunauge aufgrund des Vorhandenseins einer Wirbelsäule abgeleiteter als der Lanzettfisch, und es teilt mehr abgeleitete Merkmale mit der Ingroup (Thunfisch, Salamander usw.) als mit dem Lanzettfisch, der eine Outgroup ist.",
+          "ja": "どちらも顎を持たないが、ヤツメウナギは脊椎を持つため、ナメクジウオよりも派生的であり、内群（マグロ、サンショウウオなど）とは外群であるナメクジウオよりも多くの派生形質を共有している。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Salamander and Turtle form a sister group defined by the shared presence of four limbs.",
+          "zh": "蝾螈和乌龟形成一个姊妹群，由共同的四肢存在所定义。",
+          "es": "La salamandra y la tortuga forman un grupo hermano definido por la presencia compartida de cuatro extremidades.",
+          "fr": "La salamandre et la tortue forment un groupe frère défini par la présence partagée de quatre membres.",
+          "de": "Salamander und Schildkröte bilden eine Schwestergruppe, definiert durch das gemeinsame Vorhandensein von vier Gliedmaßen.",
+          "ja": "サンショウウオとカメは、四肢を共有していることで定義される姉妹群を形成する。"
+        },
+        "feedback": {
+          "en": "While both have four limbs, Turtle also possesses an amnion, which Salamander lacks. This means Turtle is more closely related to Leopard and Dolphin than to Salamander, forming a different clade (Amniotes).",
+          "zh": "虽然两者都有四肢，但乌龟还拥有羊膜，这是蝾螈所没有的。这意味着乌龟与豹子和海豚的关系比与蝾螈更近，形成了不同的演化支系（羊膜动物）。",
+          "es": "Aunque ambos tienen cuatro extremidades, la tortuga también posee un amnios, que la salamandra carece. Esto significa que la tortuga está más estrechamente relacionada con el leopardo y el delfín que con la salamandra, formando un clado diferente (Amniotas).",
+          "fr": "Bien que les deux aient quatre membres, la tortue possède également un amnios, ce que la salamandre n'a pas. Cela signifie que la tortue est plus étroitement apparentée au léopard et au dauphin qu'à la salamandre, formant un clade différent (Amniotes).",
+          "de": "Obwohl beide vier Gliedmaßen haben, besitzt die Schildkröte auch ein Amnion, das der Salamander nicht hat. Dies bedeutet, dass die Schildkröte enger mit dem Leoparden und dem Delfin verwandt ist als mit dem Salamander und eine andere Klade (Amnioten) bildet.",
+          "ja": "どちらも四肢を持つが、カメはサンショウウオにはない羊膜も持っている。これは、カメがサンショウウオよりもヒョウやイルカと近縁であり、別のクレード（有羊膜類）を形成することを意味する。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Leopard and Dolphin are sister species, as they are the only two organisms in the table that both possess milk and a dorsal fin (considering Dolphin's adult flippers and embryonic hind-limb buds as four limbs).",
+          "zh": "豹子和海豚是姊妹物种，因为它们是表中仅有的同时拥有乳汁和背鳍的两种生物（考虑到海豚成年鳍状肢和胚胎期后肢芽为四肢）。",
+          "es": "El leopardo y el delfín son especies hermanas, ya que son los únicos dos organismos en la tabla que poseen leche y aleta dorsal (considerando las aletas adultas del delfín y los brotes embrionarios de las extremidades posteriores como cuatro extremidades).",
+          "fr": "Le léopard et le dauphin sont des espèces sœurs, car ce sont les deux seuls organismes du tableau qui possèdent à la fois du lait et une nageoire dorsale (considérant les nageoires adultes du dauphin et les bourgeons embryonnaires des membres postérieurs comme quatre membres).",
+          "de": "Leopard und Delfin sind Schwesterarten, da sie die einzigen beiden Organismen in der Tabelle sind, die sowohl Milch als auch eine Rückenflosse besitzen (wobei die erwachsenen Flossen des Delfins und embryonale Hinterbeinknospen als vier Gliedmaßen betrachtet werden).",
+          "ja": "ヒョウとイルカは姉妹種である。これは、両方が乳と背びれの両方を持つ表中の唯一の生物であるためである（イルカの成体の鰭と胚の肢芽を四肢として考慮）。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The shared presence of a dorsal fin is a synapomorphy uniting Tuna and Dolphin, distinguishing them from other tetrapods.",
+          "zh": "背鳍的共同存在是金枪鱼和海豚的共有衍征，将它们与其他四足动物区分开来。",
+          "es": "La presencia compartida de una aleta dorsal es una sinapomorfía que une al atún y al delfín, distinguiéndolos de otros tetrápodos.",
+          "fr": "La présence partagée d'une nageoire dorsale est une synapomorphie unissant le thon et le dauphin, les distinguant des autres tétrapodes.",
+          "de": "Das gemeinsame Vorhandensein einer Rückenflosse ist eine Synapomorphie, die Thunfisch und Delfin vereint und sie von anderen Tetrapoden unterscheidet.",
+          "ja": "背びれの共有は、マグロとイルカを結びつけ、他の四肢動物と区別する共有派生形質である。"
+        },
+        "feedback": {
+          "en": "While both Tuna and Dolphin have a dorsal fin, Leopard lacks it, meaning it's not a consistent synapomorphy for a clade including these two and excluding Leopard. Also, Lamprey has a dorsal fin, suggesting it's either an ancestral character or evolved convergently.",
+          "zh": "尽管金枪鱼和海豚都有背鳍，但豹子没有，这意味着它不是一个将两者包含在内并排除豹子的演化支系的共同衍征。此外，七鳃鳗也有背鳍，表明它可能是祖先特征或趋同进化。",
+          "es": "Aunque tanto el atún como el delfín tienen aleta dorsal, el leopardo carece de ella, lo que significa que no es una sinapomorfía consistente para un clado que incluya a estos dos y excluya al leopardo. Además, la lamprea tiene aleta dorsal, lo que sugiere que es un carácter ancestral o que evolucionó de forma convergente.",
+          "fr": "Bien que le thon et le dauphin aient tous deux une nageoire dorsale, le léopard en est dépourvu, ce qui signifie que ce n'est pas une synapomorphie cohérente pour un clade incluant ces deux espèces et excluant le léopard. De plus, la lamproie a une nageoire dorsale, suggérant que c'est soit un caractère ancestral, soit une évolution convergente.",
+          "de": "Obwohl sowohl Thunfisch als auch Delfin eine Rückenflosse haben, fehlt sie dem Leoparden, was bedeutet, dass es keine konsistente Synapomorphie für eine Klade ist, die diese beiden einschließt und den Leoparden ausschließt. Außerdem hat das Neunauge eine Rückenflosse, was darauf hindeutet, dass es entweder ein ancestrales Merkmal ist oder konvergent evolviert ist.",
+          "ja": "マグロとイルカの両方に背びれがあるが、ヒョウにはないため、この2つを含むクレードでヒョウを除外する一貫した共有派生形質ではない。また、ヤツメウナギにも背びれがあり、これは祖先形質であるか、収斂進化している可能性を示唆している。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "In cladistics, sister species are the two most closely related groups that share a common ancestor not shared by any other group. Leopard and Dolphin both possess milk (character 5) and four limbs (character 3, with the note for Dolphin), which are shared derived characters within the mammalian clade shown. Among the organisms listed, they are the most recent to diverge from a common ancestor.",
+      "zh": "在支序分类学中，姊妹物种是两个关系最密切的群，它们共享一个不被其他群共享的共同祖先。豹子和海豚都拥有乳汁（特征5）和四肢（特征3，其中海豚的注释），这些是所示哺乳动物演化支系内的共享派生特征。在列出的生物中，它们是最近从共同祖先分化出来的。",
+      "es": "En cladística, las especies hermanas son los dos grupos más estrechamente relacionados que comparten un ancestro común no compartido por ningún otro grupo. El leopardo y el delfín poseen leche (carácter 5) y cuatro extremidades (carácter 3, con la nota para el delfín), que son caracteres derivados compartidos dentro del clado de mamíferos mostrado. Entre los organismos listados, son los más recientes en divergir de un ancestro común.",
+      "fr": "En cladistique, les espèces sœurs sont les deux groupes les plus étroitement apparentés qui partagent un ancêtre commun non partagé par aucun autre groupe. Le léopard et le dauphin possèdent tous deux du lait (caractère 5) et quatre membres (caractère 3, avec la note pour le dauphin), qui sont des caractères dérivés partagés au sein du clade des mammifères montré. Parmi les organismes listés, ce sont les plus récents à avoir divergé d'un ancêtre commun.",
+      "de": "In der Kladistik sind Schwesterarten die beiden am engsten verwandten Gruppen, die einen gemeinsamen Vorfahren teilen, der nicht von anderen Gruppen geteilt wird. Leopard und Delfin besitzen beide Milch (Merkmal 5) und vier Gliedmaßen (Merkmal 3, mit dem Hinweis für Delfin), welche gemeinsame abgeleitete Merkmale innerhalb der gezeigten Säugetierklade sind. Unter den aufgelisteten Organismen sind sie die jüngsten, die von einem gemeinsamen Vorfahren divergiert sind.",
+      "ja": "分岐分類学において、姉妹種とは、他のどのグループとも共有しない共通の祖先を持つ、最も近縁な2つのグループを指します。ヒョウとイルカは両方とも乳（形質5）と四肢（形質3、イルカの注釈を含む）を持っており、これらは示された哺乳類クレード内の共有派生形質です。リストされた生物の中で、それらは共通祖先から最も最近分岐したものです。"
+    }
+  },
+  {
+    "page_number": 621,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on the provided phylogenetic tree showing Salamander, Lizard, Goat, and Human, which statement is correct?",
+      "zh": "根据所提供的显示蝾螈、蜥蜴、山羊和人类的系统发育树，哪项陈述是正确的？",
+      "es": "Según el árbol filogenético proporcionado que muestra la salamandra, el lagarto, la cabra y el humano, ¿qué afirmación es correcta?",
+      "fr": "D'après l'arbre phylogénétique fourni montrant la salamandre, le lézard, la chèvre et l'humain, quelle affirmation est correcte ?",
+      "de": "Basierend auf dem bereitgestellten phylogenetischen Baum, der Salamander, Eidechse, Ziege und Mensch zeigt, welche Aussage ist korrekt?",
+      "ja": "提供されたサンショウウオ、トカゲ、ヤギ、ヒトの系統樹に基づいて、どの記述が正しいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Lizards and goats form a sister group.",
+          "zh": "蜥蜴和山羊构成一个姊妹群。",
+          "es": "Los lagartos y las cabras forman un grupo hermano.",
+          "fr": "Les lézards et les chèvres forment un groupe frère.",
+          "de": "Eidechsen und Ziegen bilden eine Schwestergruppe.",
+          "ja": "トカゲとヤギは姉妹群を形成する。"
+        },
+        "feedback": {
+          "en": "Lizards form a sister group to the clade containing Goat and Human, not directly to goats.",
+          "zh": "蜥蜴与包含山羊和人类的演化支系构成姊妹群，而不是直接与山羊构成姊妹群。",
+          "es": "Los lagartos forman un grupo hermano del clado que contiene a la cabra y al humano, no directamente con las cabras.",
+          "fr": "Les lézards forment un groupe frère du clade contenant la chèvre et l'humain, et non directement des chèvres.",
+          "de": "Eidechsen bilden eine Schwestergruppe zu der Klade, die Ziege und Mensch enthält, nicht direkt zu Ziegen.",
+          "ja": "トカゲはヤギやヒトを含むクレードの姉妹群であり、直接ヤギと姉妹群ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Salamanders are a sister group to the group containing lizards, goats, and humans.",
+          "zh": "蝾螈是包含蜥蜴、山羊和人类的群体的姊妹群。",
+          "es": "Las salamandras son un grupo hermano del grupo que contiene lagartos, cabras y humanos.",
+          "fr": "Les salamandres sont un groupe frère du groupe contenant les lézards, les chèvres et les humains.",
+          "de": "Salamander sind eine Schwestergruppe der Gruppe, die Eidechsen, Ziegen und Menschen enthält.",
+          "ja": "サンショウウオは、トカゲ、ヤギ、ヒトを含むグループの姉妹群である。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Salamanders are more closely related to lizards than to humans.",
+          "zh": "蝾螈与蜥蜴的关系比与人类的关系更近。",
+          "es": "Las salamandras están más estrechamente relacionadas con los lagartos que con los humanos.",
+          "fr": "Les salamandres sont plus étroitement apparentées aux lézards qu'aux humains.",
+          "de": "Salamander sind enger mit Eidechsen verwandt als mit Menschen.",
+          "ja": "サンショウウオはヒトよりもトカゲと近縁である。"
+        },
+        "feedback": {
+          "en": "Salamanders share a common ancestor with the entire group (lizards, goats, and humans) at the base of that clade, meaning they are equally related to all members of that clade.",
+          "zh": "蝾螈与整个群体（蜥蜴、山羊和人类）在该演化支系的基础处共享一个共同祖先，这意味着它们与该演化支系的所有成员都同样亲近。",
+          "es": "Las salamandras comparten un ancestro común con todo el grupo (lagartos, cabras y humanos) en la base de ese clado, lo que significa que están igualmente relacionadas con todos los miembros de ese clado.",
+          "fr": "Les salamandres partagent un ancêtre commun avec l'ensemble du groupe (lézards, chèvres et humains) à la base de ce clade, ce qui signifie qu'elles sont également apparentées à tous les membres de ce clade.",
+          "de": "Salamander teilen einen gemeinsamen Vorfahren mit der gesamten Gruppe (Eidechsen, Ziegen und Menschen) an der Basis dieser Klade, was bedeutet, dass sie zu allen Mitgliedern dieser Klade gleichermaßen verwandt sind.",
+          "ja": "サンショウウオは、そのクレードの基部でグループ全体（トカゲ、ヤギ、ヒト）と共通の祖先を共有しており、そのクレードのすべてのメンバーと等しく近縁であることを意味します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Goats and humans are the only sister group shown in this tree.",
+          "zh": "山羊和人类是这棵树中显示的唯一姊妹群。",
+          "es": "Las cabras y los humanos son el único grupo hermano que se muestra en este árbol.",
+          "fr": "Les chèvres et les humains sont le seul groupe frère montré dans cet arbre.",
+          "de": "Ziegen und Menschen sind die einzige in diesem Baum gezeigte Schwestergruppe.",
+          "ja": "ヤギとヒトは、この系統樹に示されている唯一の姉妹群である。"
+        },
+        "feedback": {
+          "en": "The tree also shows Lizards as a sister group to the Goat-Human clade, and Salamanders as a sister group to the Lizard-Goat-Human clade. Thus, there are multiple sister groups shown.",
+          "zh": "这棵树还显示蜥蜴是山羊-人类演化支系的姊妹群，蝾螈是蜥蜴-山羊-人类演化支系的姊妹群。因此，显示了多个姊妹群。",
+          "es": "El árbol también muestra a los lagartos como un grupo hermano del clado Cabra-Humano, y a las salamandras como un grupo hermano del clado Lagarto-Cabra-Humano. Por lo tanto, se muestran múltiples grupos hermanos.",
+          "fr": "L'arbre montre également les lézards comme un groupe frère du clade Chèvre-Humain, et les salamandres comme un groupe frère du clade Lézard-Chèvre-Humain. Ainsi, plusieurs groupes frères sont montrés.",
+          "de": "Der Baum zeigt auch Eidechsen als Schwestergruppe der Ziege-Mensch-Klade und Salamander als Schwestergruppe der Eidechse-Ziege-Mensch-Klade. Es werden also mehrere Schwestergruppen gezeigt.",
+          "ja": "この系統樹は、トカゲがヤギ・ヒトのクレードの姉妹群であり、サンショウウオがトカゲ・ヤギ・ヒトのクレードの姉妹群であることを示しています。したがって、複数の姉妹群が示されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "In a phylogenetic tree, a sister group consists of two lineages that diverged from the same common ancestor. In the given tree, Salamanders branch off first, making them a sister group to the entire clade comprising Lizards, Goats, and Humans.",
+      "zh": "在系统发育树中，姊妹群是由同一个共同祖先分化出来的两个谱系。在给定的树中，蝾螈首先分化出来，使其成为包含蜥蜴、山羊和人类的整个演化支系的姊妹群。",
+      "es": "En un árbol filogenético, un grupo hermano consiste en dos linajes que divergieron del mismo ancestro común. En el árbol dado, las salamandras se ramifican primero, convirtiéndolas en un grupo hermano de todo el clado que comprende lagartos, cabras y humanos.",
+      "fr": "Dans un arbre phylogénétique, un groupe frère est constitué de deux lignées qui ont divergé du même ancêtre commun. Dans l'arbre donné, les salamandres se ramifient en premier, ce qui en fait un groupe frère du clade entier comprenant les lézards, les chèvres et les humains.",
+      "de": "In einem phylogenetischen Baum besteht eine Schwestergruppe aus zwei Linien, die sich vom selben gemeinsamen Vorfahren abgespalten haben. Im vorliegenden Baum zweigen Salamander zuerst ab und bilden somit eine Schwestergruppe zur gesamten Klade, die Eidechsen, Ziegen und Menschen umfasst.",
+      "ja": "系統樹において、姉妹群とは、同じ共通祖先から分岐した2つの系統を指します。与えられた系統樹では、サンショウウオが最初に分岐しており、トカゲ、ヤギ、ヒトを含むクレード全体の姉妹群となります。"
+    }
+  },
+  {
+    "page_number": 621,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A grouping that includes an ancestral species and some, but not all, of its descendants is known as what type of group?",
+      "zh": "一个包含某个祖先物种，但只包含其部分后代，而非全部后代的类群被称为哪种类型的群？",
+      "es": "Un grupo que incluye una especie ancestral y algunos, pero no todos, sus descendientes se conoce como ¿qué tipo de grupo?",
+      "fr": "Un regroupement qui inclut une espèce ancestrale et certains, mais pas tous, de ses descendants est connu sous quel type de groupe ?",
+      "de": "Eine Gruppierung, die eine Stammart und einige, aber nicht alle, ihrer Nachkommen einschließt, wird als welcher Gruppentyp bezeichnet?",
+      "ja": "祖先種とその子孫の一部のみを含み、すべてではないグループは、どのようなタイプのグループとして知られていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Monophyletic group",
+          "zh": "单系群",
+          "es": "Grupo monofilético",
+          "fr": "Groupe monophylétique",
+          "de": "Monophyletische Gruppe",
+          "ja": "単系統群"
+        },
+        "feedback": {
+          "en": "A monophyletic group (clade) includes a common ancestor and *all* of its descendants.",
+          "zh": "单系群（演化支）包含一个共同祖先及其所有后代。",
+          "es": "Un grupo monofilético (clado) incluye un ancestro común y *todos* sus descendientes.",
+          "fr": "Un groupe monophylétique (clade) comprend un ancêtre commun et *tous* ses descendants.",
+          "de": "Eine monophyletische Gruppe (Klade) umfasst einen gemeinsamen Vorfahren und *alle* seine Nachkommen.",
+          "ja": "単系統群（クレード）は、共通の祖先と、その*すべて*の子孫を含みます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Paraphyletic group",
+          "zh": "并系群",
+          "es": "Grupo parafilético",
+          "fr": "Groupe paraphylétique",
+          "de": "Paraphyletische Gruppe",
+          "ja": "側系統群"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Polyphyletic group",
+          "zh": "多系群",
+          "es": "Grupo polifilético",
+          "fr": "Groupe polyphylétique",
+          "de": "Polyphyletische Gruppe",
+          "ja": "多系統群"
+        },
+        "feedback": {
+          "en": "A polyphyletic group includes species that are descended from different ancestors, without including their common ancestor.",
+          "zh": "多系群包含来自不同祖先的物种，且不包含这些祖先的共同祖先。",
+          "es": "Un grupo polifilético incluye especies que descienden de diferentes ancestros, sin incluir su ancestro común.",
+          "fr": "Un groupe polyphylétique comprend des espèces descendant de différents ancêtres, sans inclure leur ancêtre commun.",
+          "de": "Eine polyphyletische Gruppe umfasst Arten, die von verschiedenen Vorfahren abstammen, ohne deren gemeinsamen Vorfahren einzuschließen.",
+          "ja": "多系統群は、共通の祖先を含まず、異なる祖先から派生した種を含みます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Outgroup",
+          "zh": "外群",
+          "es": "Grupo externo",
+          "fr": "Groupe externe",
+          "de": "Outgroup",
+          "ja": "外群"
+        },
+        "feedback": {
+          "en": "An outgroup is a species or group of species that is closely related to the ingroup (the group being studied) but has diverged before the ingroup.",
+          "zh": "外群是与内群（正在研究的群）密切相关但早于内群分化的物种或物种群。",
+          "es": "Un grupo externo es una especie o grupo de especies estrechamente relacionado con el grupo interno (el grupo en estudio) pero que ha divergido antes que el grupo interno.",
+          "fr": "Un groupe externe est une espèce ou un groupe d'espèces étroitement apparenté au groupe interne (le groupe étudié) mais qui a divergé avant le groupe interne.",
+          "de": "Eine Outgroup ist eine Art oder Gruppe von Arten, die eng mit der Ingroup (der untersuchten Gruppe) verwandt ist, sich aber vor der Ingroup abgespalten hat.",
+          "ja": "外群とは、内群（研究対象のグループ）と密接に関連しているが、内群が分岐する前に分岐した種または種のグループのことです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "A paraphyletic group consists of an ancestral species and some, but not all, of its descendants. This type of grouping is common in traditional taxonomy but does not represent a true clade.",
+      "zh": "并系群包含一个祖先物种，但只包含其部分后代，而非全部后代。这种类型的分类群在传统分类学中很常见，但它不代表一个真正的演化支系。",
+      "es": "Un grupo parafilético consiste en una especie ancestral y algunos, pero no todos, sus descendientes. Este tipo de agrupación es común en la taxonomía tradicional, pero no representa un verdadero clado.",
+      "fr": "Un groupe paraphylétique est constitué d'une espèce ancestrale et de certains, mais pas tous, de ses descendants. Ce type de regroupement est courant en taxonomie traditionnelle mais ne représente pas un véritable clade.",
+      "de": "Eine paraphyletische Gruppe besteht aus einer Stammart und einigen, aber nicht allen, ihrer Nachkommen. Diese Art der Gruppierung ist in der traditionellen Taxonomie üblich, stellt aber keine echte Klade dar.",
+      "ja": "側系統群は、祖先種とその子孫の一部のみを含み、すべてではないグループです。このタイプのグループは伝統的な分類学では一般的ですが、真のクレードを表すものではありません。"
+    }
+  }
+]

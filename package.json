@@ -1,0 +1,19 @@
+{
+  "name": "campbell-biology-pal-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "pnpm@9.15.4",
+  "scripts": {
+    "dev": "pnpm -r --parallel run dev",
+    "build": "pnpm -r run build",
+    "type-check": "pnpm -r run type-check",
+    "deploy:backend": "cross-env HTTP_PROXY=http://127.0.0.1:7890 HTTPS_PROXY=http://127.0.0.1:7890 pnpm --filter @campbell/backend run deploy",
+    "deploy:frontend": "cross-env HTTP_PROXY=http://127.0.0.1:7890 HTTPS_PROXY=http://127.0.0.1:7890 pnpm --filter @campbell/frontend run deploy",
+    "deploy:all": "pnpm deploy:backend && pnpm deploy:frontend",
+    "clean": "pnpm -r run clean"
+  },
+  "devDependencies": {
+    "cross-env": "^10.1.0",
+    "typescript": "^5.8.3"
+  }
+}

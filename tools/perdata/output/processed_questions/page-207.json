@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 207,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on Figure 8.17b, what are the approximate optimal pH values for pepsin and trypsin, respectively?",
+      "zh": "根据图 8.17b，胃蛋白酶和胰蛋白酶的大致最适 pH 值分别是多少？",
+      "es": "Según la Figura 8.17b, ¿cuáles son los valores de pH óptimos aproximados para la pepsina y la tripsina, respectivamente?",
+      "fr": "Selon la Figure 8.17b, quelles sont les valeurs de pH optimales approximatives pour la pepsine et la trypsine, respectivement ?",
+      "de": "Basierend auf Abbildung 8.17b, welche annähernden optimalen pH-Werte haben Pepsin bzw. Trypsin?",
+      "ja": "図8.17bに基づくと、ペプシンとトリプシンのそれぞれのおおよその最適pH値はいくつですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Pepsin: pH 2; Trypsin: pH 8",
+          "zh": "胃蛋白酶：pH 2；胰蛋白酶：pH 8",
+          "es": "Pepsina: pH 2; Tripsina: pH 8",
+          "fr": "Pepsine : pH 2 ; Trypsine : pH 8",
+          "de": "Pepsin: pH 2; Trypsin: pH 8",
+          "ja": "ペプシン：pH 2；トリプシン：pH 8"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Pepsin: pH 7; Trypsin: pH 2",
+          "zh": "胃蛋白酶：pH 7；胰蛋白酶：pH 2",
+          "es": "Pepsina: pH 7; Tripsina: pH 2",
+          "fr": "Pepsine : pH 7 ; Trypsine : pH 2",
+          "de": "Pepsin: pH 7; Trypsin: pH 2",
+          "ja": "ペプシン：pH 7；トリプシン：pH 2"
+        },
+        "feedback": {
+          "en": "Incorrect. Pepsin's optimal pH is much lower than 7, and trypsin's is higher than 2.",
+          "zh": "不正确。胃蛋白酶的最适 pH 值远低于 7，而胰蛋白酶的最适 pH 值高于 2。",
+          "es": "Incorrecto. El pH óptimo de la pepsina es mucho más bajo que 7, y el de la tripsina es más alto que 2.",
+          "fr": "Incorrect. Le pH optimal de la pepsine est bien inférieur à 7, et celui de la trypsine est supérieur à 2.",
+          "de": "Falsch. Der optimale pH-Wert von Pepsin ist deutlich niedriger als 7, und der von Trypsin ist höher als 2.",
+          "ja": "不正解です。ペプシンの最適pHは7よりはるかに低く、トリプシンの最適pHは2より高いです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Pepsin: pH 8; Trypsin: pH 2",
+          "zh": "胃蛋白酶：pH 8；胰蛋白酶：pH 2",
+          "es": "Pepsina: pH 8; Tripsina: pH 2",
+          "fr": "Pepsine : pH 8 ; Trypsine : pH 2",
+          "de": "Pepsin: pH 8; Trypsin: pH 2",
+          "ja": "ペプシン：pH 8；トリプシン：pH 2"
+        },
+        "feedback": {
+          "en": "Incorrect. The optimal pH values are swapped for pepsin and trypsin.",
+          "zh": "不正确。胃蛋白酶和胰蛋白酶的最适 pH 值互换了。",
+          "es": "Incorrecto. Los valores de pH óptimos están intercambiados para la pepsina y la tripsina.",
+          "fr": "Incorrect. Les valeurs de pH optimales sont inversées pour la pepsine et la trypsine.",
+          "de": "Falsch. Die optimalen pH-Werte sind für Pepsin und Trypsin vertauscht.",
+          "ja": "不正解です。ペプシンとトリプシンの最適pH値が入れ替わっています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Pepsin: pH 4; Trypsin: pH 6",
+          "zh": "胃蛋白酶：pH 4；胰蛋白酶：pH 6",
+          "es": "Pepsina: pH 4; Tripsina: pH 6",
+          "fr": "Pepsine : pH 4 ; Trypsine : pH 6",
+          "de": "Pepsin: pH 4; Trypsin: pH 6",
+          "ja": "ペプシン：pH 4；トリプシン：pH 6"
+        },
+        "feedback": {
+          "en": "Incorrect. These pH values do not correspond to the peaks of activity shown in the graph.",
+          "zh": "不正确。这些 pH 值与图中显示的最大活性峰值不符。",
+          "es": "Incorrecto. Estos valores de pH no corresponden a los picos de actividad mostrados en el gráfico.",
+          "fr": "Incorrect. Ces valeurs de pH ne correspondent pas aux pics d'activité indiqués sur le graphique.",
+          "de": "Falsch. Diese pH-Werte entsprechen nicht den im Diagramm gezeigten Aktivitätsspitzen.",
+          "ja": "不正解です。これらのpH値は、グラフに示されている活性のピークに対応していません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The graph clearly shows that pepsin's activity peaks at a pH of approximately 2, while trypsin's activity peaks at a pH of approximately 8. These are their respective optimal pH values.",
+      "zh": "图表清楚地显示，胃蛋白酶的活性在 pH 约为 2 时达到峰值，而胰蛋白酶的活性在 pH 约为 8 时达到峰值。这些是它们各自的最适 pH 值。",
+      "es": "El gráfico muestra claramente que la actividad de la pepsina alcanza su punto máximo a un pH de aproximadamente 2, mientras que la actividad de la tripsina alcanza su punto máximo a un pH de aproximadamente 8. Estos son sus respectivos valores de pH óptimos.",
+      "fr": "Le graphique montre clairement que l'activité de la pepsine atteint son maximum à un pH d'environ 2, tandis que l'activité de la trypsine culmine à un pH d'environ 8. Ce sont leurs valeurs de pH optimales respectives.",
+      "de": "Das Diagramm zeigt deutlich, dass die Aktivität von Pepsin bei einem pH-Wert von etwa 2 ihren Höhepunkt erreicht, während die Aktivität von Trypsin bei einem pH-Wert von etwa 8 ihren Höhepunkt erreicht. Dies sind ihre jeweiligen optimalen pH-Werte.",
+      "ja": "グラフは、ペプシンの活性が約pH2でピークに達し、トリプシンの活性が約pH8でピークに達することを示しています。これらがそれぞれの最適pH値です。"
+    }
+  },
+  {
+    "page_number": 207,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes the distinction between competitive and noncompetitive enzyme inhibitors?",
+      "zh": "以下哪项陈述准确描述了竞争性酶抑制剂和非竞争性酶抑制剂之间的区别？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión la distinción entre los inhibidores enzimáticos competitivos y no competitivos?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision la distinction entre les inhibiteurs enzymatiques compétitifs et non compétitifs ?",
+      "de": "Welche der folgenden Aussagen beschreibt die Unterscheidung zwischen kompetitiven und nichtkompetitiven Enzyminhibitoren genau?",
+      "ja": "以下の記述のうち、競合的酵素阻害剤と非競合的酵素阻害剤の違いを正確に説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Competitive inhibitors bind to the active site and can be overcome by increasing substrate concentration, while noncompetitive inhibitors bind elsewhere on the enzyme, changing its shape, and cannot be overcome by increasing substrate concentration.",
+          "zh": "竞争性抑制剂结合到活性位点，可以通过增加底物浓度来克服；而非竞争性抑制剂结合到酶的其他部位，改变其形状，不能通过增加底物浓度来克服。",
+          "es": "Los inhibidores competitivos se unen al sitio activo y pueden superarse aumentando la concentración del sustrato, mientras que los inhibidores no competitivos se unen en otra parte de la enzima, cambiando su forma, y no pueden superarse aumentando la concentración del sustrato.",
+          "fr": "Les inhibiteurs compétitifs se lient au site actif et peuvent être surmontés en augmentant la concentration du substrat, tandis que les inhibiteurs non compétitifs se lient ailleurs sur l'enzyme, changeant sa forme, et ne peuvent pas être surmontés en augmentant la concentration du substrat.",
+          "de": "Kompetitive Inhibitoren binden an das aktive Zentrum und können durch Erhöhung der Substratkonzentration überwunden werden, während nichtkompetitive Inhibitoren an einer anderen Stelle des Enzyms binden, dessen Form ändern und nicht durch Erhöhung der Substratkonzentration überwunden werden können.",
+          "ja": "競合的阻害剤は活性部位に結合し、基質濃度を増加させることで克服できますが、非競合的阻害剤は酵素の別の場所に結合してその形状を変化させ、基質濃度を増加させても克服できません。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Noncompetitive inhibitors bind to the active site and can be overcome by increasing substrate concentration, while competitive inhibitors bind elsewhere on the enzyme, changing its shape, and cannot be overcome by increasing substrate concentration.",
+          "zh": "非竞争性抑制剂结合到活性位点，可以通过增加底物浓度来克服；而竞争性抑制剂结合到酶的其他部位，改变其形状，不能通过增加底物浓度来克服。",
+          "es": "Los inhibidores no competitivos se unen al sitio activo y pueden superarse aumentando la concentración del sustrato, mientras que los inhibidores competitivos se unen en otra parte de la enzima, cambiando su forma, y no pueden superarse aumentando la concentración del sustrato.",
+          "fr": "Les inhibiteurs non compétitifs se lient au site actif et peuvent être surmontés en augmentant la concentration du substrat, tandis que les inhibiteurs compétitifs se lient ailleurs sur l'enzyme, changeant sa forme, et ne peuvent pas être surmontés en augmentant la concentration du substrat.",
+          "de": "Nichtkompetitive Inhibitoren binden an das aktive Zentrum und können durch Erhöhung der Substratkonzentration überwunden werden, während kompetitive Inhibitoren an einer anderen Stelle des Enzyms binden, dessen Form ändern und nicht durch Erhöhung der Substratkonzentration überwunden werden können.",
+          "ja": "非競合的阻害剤は活性部位に結合し、基質濃度を増加させることで克服できますが、競合的阻害剤は酵素の別の場所に結合してその形状を変化させ、基質濃度を増加させても克服できません。"
+        },
+        "feedback": {
+          "en": "Incorrect. The roles and mechanisms of competitive and noncompetitive inhibitors are swapped in this statement.",
+          "zh": "不正确。此陈述将竞争性抑制剂和非竞争性抑制剂的作用和机制互换了。",
+          "es": "Incorrecto. Los roles y mecanismos de los inhibidores competitivos y no competitivos están intercambiados en esta afirmación.",
+          "fr": "Incorrect. Les rôles et les mécanismes des inhibiteurs compétitifs et non compétitifs sont inversés dans cette affirmation.",
+          "de": "Falsch. Die Rollen und Mechanismen von kompetitiven und nichtkompetitiven Inhibitoren sind in dieser Aussage vertauscht.",
+          "ja": "不正解です。この記述では、競合的阻害剤と非競合的阻害剤の役割とメカニズムが逆になっています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both competitive and noncompetitive inhibitors bind to the active site, but only competitive inhibitors can be overcome by increasing substrate concentration.",
+          "zh": "竞争性抑制剂和非竞争性抑制剂都结合到活性位点，但只有竞争性抑制剂可以通过增加底物浓度来克服。",
+          "es": "Tanto los inhibidores competitivos como los no competitivos se unen al sitio activo, pero solo los inhibidores competitivos pueden superarse aumentando la concentración del sustrato.",
+          "fr": "Les inhibiteurs compétitifs et non compétitifs se lient tous deux au site actif, mais seuls les inhibiteurs compétitifs peuvent être surmontés en augmentant la concentration du substrat.",
+          "de": "Sowohl kompetitive als auch nichtkompetitive Inhibitoren binden an das aktive Zentrum, aber nur kompetitive Inhibitoren können durch Erhöhung der Substratkonzentration überwunden werden.",
+          "ja": "競合的阻害剤と非競合的阻害剤の両方が活性部位に結合しますが、基質濃度を増加させることで克服できるのは競合的阻害剤だけです。"
+        },
+        "feedback": {
+          "en": "Incorrect. Noncompetitive inhibitors do not bind to the active site, and they cannot be overcome by increasing substrate concentration.",
+          "zh": "不正确。非竞争性抑制剂不结合到活性位点，也不能通过增加底物浓度来克服。",
+          "es": "Incorrecto. Los inhibidores no competitivos no se unen al sitio activo y no pueden superarse aumentando la concentración del sustrato.",
+          "fr": "Incorrect. Les inhibiteurs non compétitifs ne se lient pas au site actif et ne peuvent pas être surmontés en augmentant la concentration du substrat.",
+          "de": "Falsch. Nichtkompetitive Inhibitoren binden nicht an das aktive Zentrum und können nicht durch Erhöhung der Substratkonzentration überwunden werden.",
+          "ja": "不正解です。非競合的阻害剤は活性部位に結合せず、基質濃度を増加させても克服できません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Neither competitive nor noncompetitive inhibitors bind to the active site; they both inhibit enzyme activity by changing the enzyme's overall structure.",
+          "zh": "竞争性抑制剂和非竞争性抑制剂都不结合到活性位点；它们都通过改变酶的整体结构来抑制酶活性。",
+          "es": "Ni los inhibidores competitivos ni los no competitivos se unen al sitio activo; ambos inhiben la actividad enzimática cambiando la estructura general de la enzima.",
+          "fr": "Ni les inhibiteurs compétitifs ni les non compétitifs ne se lient au site actif ; ils inhibent tous deux l'activité enzymatique en modifiant la structure globale de l'enzyme.",
+          "de": "Weder kompetitive noch nichtkompetitive Inhibitoren binden an das aktive Zentrum; beide hemmen die Enzymaktivität, indem sie die Gesamtstruktur des Enzyms verändern.",
+          "ja": "競合的阻害剤も非競合的阻害剤も活性部位に結合せず、両方とも酵素全体の構造を変化させることで酵素活性を阻害します。"
+        },
+        "feedback": {
+          "en": "Incorrect. Competitive inhibitors bind to the active site, and their primary mechanism is blocking substrate entry, not necessarily changing the enzyme's overall structure in the way noncompetitive inhibitors do.",
+          "zh": "不正确。竞争性抑制剂结合到活性位点，其主要机制是阻碍底物进入，而非像非竞争性抑制剂那样必然改变酶的整体结构。",
+          "es": "Incorrecto. Los inhibidores competitivos se unen al sitio activo, y su mecanismo principal es bloquear la entrada del sustrato, no necesariamente cambiar la estructura general de la enzima como lo hacen los inhibidores no competitivos.",
+          "fr": "Incorrect. Les inhibiteurs compétitifs se lient au site actif, et leur mécanisme principal est de bloquer l'entrée du substrat, et non de modifier nécessairement la structure globale de l'enzyme comme le font les inhibiteurs non compétitifs.",
+          "de": "Falsch. Kompetitive Inhibitoren binden an das aktive Zentrum, und ihr Hauptmechanismus besteht darin, den Substrateintritt zu blockieren, nicht unbedingt die Gesamtstruktur des Enzyms zu verändern, wie es nichtkompetitive Inhibitoren tun.",
+          "ja": "不正解です。競合的阻害剤は活性部位に結合し、その主なメカニズムは基質の進入を妨げることであり、非競合的阻害剤のように酵素全体の構造を変化させるわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "As stated in the text, competitive inhibitors resemble the substrate and compete for admission into the active site, and their effect can be overcome by increasing substrate concentration. In contrast, noncompetitive inhibitors bind to another part of the enzyme, causing a shape change that makes the active site less effective, and cannot be overcome by increasing substrate concentration.",
+      "zh": "文本中指出，竞争性抑制剂类似于底物，竞争进入活性位点，其作用可以通过增加底物浓度来克服。相反，非竞争性抑制剂结合到酶的其他部位，引起形状改变，使活性位点效率降低，且不能通过增加底物浓度来克服。",
+      "es": "Como se indica en el texto, los inhibidores competitivos se asemejan al sustrato y compiten por la entrada al sitio activo, y su efecto puede superarse aumentando la concentración del sustrato. Por el contrario, los inhibidores no competitivos se unen a otra parte de la enzima, provocando un cambio de forma que hace que el sitio activo sea menos efectivo, y no pueden superarse aumentando la concentración del sustrato.",
+      "fr": "Comme indiqué dans le texte, les inhibiteurs compétitifs ressemblent au substrat et rivalisent pour l'admission au site actif, et leur effet peut être surmonté en augmentant la concentration du substrat. En revanche, les inhibiteurs non compétitifs se lient à une autre partie de l'enzyme, provoquant un changement de forme qui rend le site actif moins efficace, et ne peuvent pas être surmontés en augmentant la concentration du substrat.",
+      "de": "Wie im Text beschrieben, ähneln kompetitive Inhibitoren dem Substrat und konkurrieren um den Zugang zum aktiven Zentrum; ihre Wirkung kann durch Erhöhung der Substratkonzentration überwunden werden. Im Gegensatz dazu binden nichtkompetitive Inhibitoren an einen anderen Teil des Enzyms, was eine Formänderung bewirkt, die das aktive Zentrum weniger effektiv macht, und können nicht durch Erhöhung der Substratkonzentration überwunden werden.",
+      "ja": "本文にあるように、競合的阻害剤は基質に似ており、活性部位への結合を競合し、基質濃度を増加させることでその効果を克服できます。対照的に、非競合的阻害剤は酵素の別の場所に結合し、形状変化を引き起こして活性部位の効率を低下させ、基質濃度を増加させても克服できません。"
+    }
+  },
+  {
+    "page_number": 207,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Pepsin, a digestive enzyme, functions optimally at a very low pH (around 2). According to the text, why has natural selection likely favored this characteristic for pepsin, considering its location in the human body?",
+      "zh": "胃蛋白酶是一种消化酶，在极低的 pH 值（约 2）下发挥最佳功能。根据文本，考虑到胃蛋白酶在人体中的位置，自然选择为什么会倾向于这种特性？",
+      "es": "La pepsina, una enzima digestiva, funciona de manera óptima a un pH muy bajo (alrededor de 2). Según el texto, ¿por qué la selección natural ha favorecido probablemente esta característica para la pepsina, considerando su ubicación en el cuerpo humano?",
+      "fr": "La pepsine, une enzyme digestive, fonctionne de manière optimale à un pH très bas (environ 2). Selon le texte, pourquoi la sélection naturelle a-t-elle probablement favorisé cette caractéristique pour la pepsine, compte tenu de sa localisation dans le corps humain ?",
+      "de": "Pepsin, ein Verdauungsenzym, funktioniert optimal bei einem sehr niedrigen pH-Wert (etwa 2). Warum hat die natürliche Selektion laut Text wahrscheinlich diese Eigenschaft für Pepsin begünstigt, wenn man seine Lage im menschlichen Körper berücksichtigt?",
+      "ja": "消化酵素であるペプシンは、非常に低いpH（約2）で最適に機能します。本文によると、人体内でのその位置を考慮すると、なぜ自然選択がペプシンにこの特性を有利に働かせた可能性が高いのでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The low pH environment of the stomach would denature most other enzymes, but pepsin is evolutionarily adapted to maintain its structure and function in this acidic condition.",
+          "zh": "胃的低 pH 环境会使大多数其他酶变性，但胃蛋白酶经过进化适应，能够在这种酸性条件下保持其结构和功能。",
+          "es": "El ambiente de bajo pH del estómago desnaturalizaría la mayoría de las otras enzimas, pero la pepsina está adaptada evolutivamente para mantener su estructura y función en esta condición ácida.",
+          "fr": "L'environnement à faible pH de l'estomac dénaturerait la plupart des autres enzymes, mais la pepsine est évolutivement adaptée pour maintenir sa structure et sa fonction dans cette condition acide.",
+          "de": "Die Umgebung des Magens mit niedrigem pH-Wert würde die meisten anderen Enzyme denaturieren, aber Pepsin ist evolutionär so angepasst, dass es seine Struktur und Funktion unter diesen sauren Bedingungen aufrechterhalten kann.",
+          "ja": "胃の低いpH環境は他のほとんどの酵素を変性させますが、ペプシンはこの酸性条件下でその構造と機能を維持するように進化的に適応しています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A low pH increases the reaction rate of all enzymes, so pepsin's optimal pH is simply a reflection of general enzyme kinetics.",
+          "zh": "低 pH 值会增加所有酶的反应速率，因此胃蛋白酶的最适 pH 值只是普遍酶动力学的反映。",
+          "es": "Un pH bajo aumenta la velocidad de reacción de todas las enzimas, por lo que el pH óptimo de la pepsina es simplemente un reflejo de la cinética enzimática general.",
+          "fr": "Un pH bas augmente le taux de réaction de toutes les enzymes, donc le pH optimal de la pepsine est simplement le reflet de la cinétique enzymatique générale.",
+          "de": "Ein niedriger pH-Wert erhöht die Reaktionsgeschwindigkeit aller Enzyme, daher ist der optimale pH-Wert von Pepsin lediglich ein Spiegelbild der allgemeinen Enzymkinetik.",
+          "ja": "低いpHはすべての酵素の反応速度を増加させるため、ペプシンの最適pHは単に一般的な酵素の動力学を反映しているに過ぎません。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text explicitly states that acidic environments denature *most* enzymes, indicating that a low pH does not universally increase reaction rates; rather, it is specific to enzymes adapted to such conditions.",
+          "zh": "不正确。文本明确指出，酸性环境会使大多数酶变性，这表明低 pH 值并非普遍提高反应速率；相反，它仅适用于适应此类条件的酶。",
+          "es": "Incorrecto. El texto afirma explícitamente que los ambientes ácidos desnaturalizan a la mayoría de las enzimas, lo que indica que un pH bajo no aumenta universalmente las tasas de reacción; más bien, es específico de las enzimas adaptadas a dichas condiciones.",
+          "fr": "Incorrect. Le texte indique explicitement que les environnements acides dénaturent la plupart des enzymes, ce qui signifie qu'un pH bas n'augmente pas universellement les taux de réaction ; au contraire, il est spécifique aux enzymes adaptées à de telles conditions.",
+          "de": "Falsch. Der Text besagt ausdrücklich, dass saure Umgebungen die meisten Enzyme denaturieren, was darauf hindeutet, dass ein niedriger pH-Wert die Reaktionsraten nicht universell erhöht; vielmehr ist dies spezifisch für Enzyme, die an solche Bedingungen angepasst sind.",
+          "ja": "不正解です。本文では、酸性環境がほとんどの酵素を変性させると明記されており、低いpHが普遍的に反応速度を増加させるわけではないことを示しています。むしろ、そのような条件に適応した酵素に特有のものです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Pepsin requires a low pH to bind to its substrate effectively, as its substrate is only stable under acidic conditions.",
+          "zh": "胃蛋白酶需要低 pH 值才能有效结合其底物，因为其底物仅在酸性条件下稳定。",
+          "es": "La pepsina requiere un pH bajo para unirse eficazmente a su sustrato, ya que su sustrato solo es estable en condiciones ácidas.",
+          "fr": "La pepsine nécessite un pH bas pour se lier efficacement à son substrat, car son substrat n'est stable qu'en conditions acides.",
+          "de": "Pepsin benötigt einen niedrigen pH-Wert, um effektiv an sein Substrat zu binden, da sein Substrat nur unter sauren Bedingungen stabil ist.",
+          "ja": "ペプシンは、その基質が酸性条件下でのみ安定しているため、基質と効果的に結合するために低いpHを必要とします。"
+        },
+        "feedback": {
+          "en": "While substrate binding is crucial, the primary reason given in the text for pepsin's adaptation to low pH is to maintain its structural integrity in the highly acidic stomach environment, where other enzymes would denature.",
+          "zh": "尽管底物结合至关重要，但文本中给出胃蛋白酶适应低 pH 值的主要原因是，它能在高酸性胃环境中保持其结构完整性，而其他酶则会变性。",
+          "es": "Aunque la unión al sustrato es crucial, la razón principal dada en el texto para la adaptación de la pepsina a un pH bajo es mantener su integridad estructural en el ambiente altamente ácido del estómago, donde otras enzimas se desnaturalizarían.",
+          "fr": "Bien que la liaison du substrat soit cruciale, la raison principale donnée dans le texte pour l'adaptation de la pepsine à un pH bas est de maintenir son intégrité structurelle dans l'environnement très acide de l'estomac, où d'autres enzymes se dénatureraient.",
+          "de": "Obwohl die Substratbindung entscheidend ist, wird im Text als Hauptgrund für die Anpassung von Pepsin an niedrigen pH-Wert angegeben, dass es seine strukturelle Integrität in der stark sauren Magenumgebung aufrechterhalten kann, wo andere Enzyme denaturieren würden.",
+          "ja": "基質結合は重要ですが、本文中でペプシンが低いpHに適応した主な理由は、他の酵素が変性する胃の非常に酸性の環境でその構造的完全性を維持するためと説明されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The acidic environment helps to activate pepsin from an inactive precursor, and this activation is pH-dependent.",
+          "zh": "酸性环境有助于从非活性前体中激活胃蛋白酶，这种激活是 pH 值依赖的。",
+          "es": "El ambiente ácido ayuda a activar la pepsina a partir de un precursor inactivo, y esta activación depende del pH.",
+          "fr": "L'environnement acide aide à activer la pepsine à partir d'un précurseur inactif, et cette activation est dépendante du pH.",
+          "de": "Das saure Milieu hilft, Pepsin aus einem inaktiven Vorläufer zu aktivieren, und diese Aktivierung ist pH-abhängig.",
+          "ja": "酸性環境は不活性な前駆体からペプシンを活性化するのに役立ち、この活性化はpHに依存します。"
+        },
+        "feedback": {
+          "en": "Although pepsin is indeed activated from pepsinogen by acid, the question asks about its *optimal functioning pH* and the evolutionary reason for it, which the text explains in terms of maintaining functional 3-D structure in an acidic environment, where other enzymes would denature.",
+          "zh": "虽然胃蛋白酶确实是由胃蛋白酶原在酸性环境下激活的，但问题是关于其最适作用 pH 值及其进化原因，文本将其解释为在酸性环境中保持功能性三维结构，因为在这种环境中其他酶会变性。",
+          "es": "Aunque la pepsina se activa a partir del pepsinógeno por el ácido, la pregunta se refiere a su *pH óptimo de funcionamiento* y la razón evolutiva de ello, que el texto explica en términos de mantener la estructura 3D funcional en un ambiente ácido, donde otras enzimas se desnaturalizarían.",
+          "fr": "Bien que la pepsine soit effectivement activée à partir du pepsinogène par l'acide, la question porte sur son *pH optimal de fonctionnement* et la raison évolutive de cette caractéristique, que le texte explique par le maintien de sa structure 3D fonctionnelle dans un environnement acide où d'autres enzymes se dénatureraient.",
+          "de": "Obwohl Pepsin tatsächlich aus Pepsinogen durch Säure aktiviert wird, fragt die Frage nach seinem *optimalen Funktions-pH-Wert* und dem evolutionären Grund dafür, den der Text im Hinblick auf die Aufrechterhaltung der funktionellen 3D-Struktur in einer sauren Umgebung erklärt, in der andere Enzyme denaturieren würden.",
+          "ja": "ペプシンが酸によってペプシノーゲンから活性化されるのは事実ですが、質問は、その*最適な機能pH*と、他の酵素が変性する酸性環境下で機能的な3D構造を維持することに関して、本文が説明している進化的な理由について尋ねています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Such an acidic environment denatures most enzymes, but pepsin is well-adapted evolutionarily to maintain its functional 3-D structure in the acidic environment of the stomach.' This highlights that pepsin's low optimal pH is an evolutionary adaptation that allows it to function effectively in the harsh, acidic conditions of the stomach, where other enzymes would be rendered inactive.",
+      "zh": "文本明确指出：“这种酸性环境会使大多数酶变性，但胃蛋白酶经过进化，能很好地适应并在胃的酸性环境中保持其功能性三维结构。”这强调了胃蛋白酶的低最适 pH 值是一种进化适应，使其能够在胃的严酷酸性条件下有效发挥作用，而其他酶在此条件下会失活。",
+      "es": "El texto afirma explícitamente: 'Tal ambiente ácido desnaturaliza la mayoría de las enzimas, pero la pepsina está bien adaptada evolutivamente para mantener su estructura 3-D funcional en el ambiente ácido del estómago.' Esto destaca que el bajo pH óptimo de la pepsina es una adaptación evolutiva que le permite funcionar eficazmente en las duras condiciones ácidas del estómago, donde otras enzimas se inactivarían.",
+      "fr": "Le texte indique explicitement : « Un tel environnement acide dénature la plupart des enzymes, mais la pepsine est bien adaptée évolutivement pour maintenir sa structure 3D fonctionnelle dans l'environnement acide de l'estomac. » Cela souligne que le faible pH optimal de la pepsine est une adaptation évolutive qui lui permet de fonctionner efficacement dans les conditions acides et difficiles de l'estomac, où d'autres enzymes seraient inactivées.",
+      "de": "Der Text besagt ausdrücklich: „Ein solch saures Milieu denaturiert die meisten Enzyme, aber Pepsin ist evolutionär gut angepasst, um seine funktionelle 3-D-Struktur in der sauren Umgebung des Magens aufrechtzuerhalten.“ Dies unterstreicht, dass der niedrige optimale pH-Wert von Pepsin eine evolutionäre Anpassung ist, die es ihm ermöglicht, unter den rauen, sauren Bedingungen des Magens, wo andere Enzyme inaktiv werden würden, effektiv zu funktionieren.",
+      "ja": "本文には「このような酸性環境はほとんどの酵素を変性させますが、ペプシンは胃の酸性環境下でその機能的な3D構造を維持するために進化的にうまく適応しています。」と明記されています。これは、ペプシンの低い最適pHが、他の酵素が不活性になる胃の過酷な酸性条件下で効果的に機能することを可能にする進化的適応であることを強調しています。"
+    }
+  }
+]

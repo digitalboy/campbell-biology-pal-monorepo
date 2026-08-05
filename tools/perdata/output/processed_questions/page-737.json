@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 737,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following phyla is correctly matched with one of its distinctive features?",
+      "zh": "以下哪个门与其独特的特征正确匹配？",
+      "es": "De los siguientes filos, ¿cuál está correctamente emparejado con una de sus características distintivas?",
+      "fr": "Lequel des phyla suivants est correctement associé à l'une de ses caractéristiques distinctives ?",
+      "de": "Welcher der folgenden Stämme ist korrekt mit einem seiner charakteristischen Merkmale zugeordnet?",
+      "ja": "次の門のうち、その特徴的な特性の1つと正しく一致しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Brachiopoda: Characterized by a 'hairy belly' ventral surface.",
+          "zh": "腕足动物门：其腹面以“毛茸茸的腹部”为特征。",
+          "es": "Braquiópodos: Caracterizados por una superficie ventral de 'vientre peludo'.",
+          "fr": "Brachiopodes : Caractérisés par une surface ventrale à « ventre poilu ».",
+          "de": "Brachiopoda: Gekennzeichnet durch eine ventrale Oberfläche mit „Haarbauch“.",
+          "ja": "腕足動物門：腹面が「毛深い腹」で特徴づけられる。"
+        },
+        "feedback": {
+          "en": "The 'hairy belly' ventral surface is characteristic of Gastrotricha, not Brachiopoda.",
+          "zh": "“毛茸茸的腹部”腹面是腹毛动物门的特征，而不是腕足动物门。",
+          "es": "La superficie ventral de 'vientre peludo' es característica de los Gnatostomúlidos, no de los Braquiópodos.",
+          "fr": "La surface ventrale à « ventre poilu » est caractéristique des Gastrotriches, et non des Brachiopodes.",
+          "de": "Die ventrale Oberfläche mit „Haarbauch“ ist charakteristisch für Gastrotricha, nicht für Brachiopoda.",
+          "ja": "「毛深い腹」の腹面は腹毛動物門の特徴であり、腕足動物門ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Nemertea: Possesses a closed circulatory system with blood contained in vessels.",
+          "zh": "纽形动物门：拥有一个封闭的循环系统，血液包含在血管中。",
+          "es": "Nemertinos: Posee un sistema circulatorio cerrado con sangre contenida en vasos.",
+          "fr": "Némertea : Possède un système circulatoire fermé avec du sang contenu dans des vaisseaux.",
+          "de": "Nemertea: Besitzt ein geschlossenes Kreislaufsystem mit Blut in Gefäßen.",
+          "ja": "紐形動物門：血管内に血液を含む閉鎖循環系を持つ。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Ectoprocta: Known for having a unique stalk that anchors them to their substrate.",
+          "zh": "外肛动物门：以其独特的、将其固定在基质上的柄而闻名。",
+          "es": "Ectoproctos: Conocidos por tener un tallo único que los ancla a su sustrato.",
+          "fr": "Ectoprocta : Connus pour posséder une tige unique qui les ancre à leur substrat.",
+          "de": "Ectoprocta: Bekannt für einen einzigartigen Stiel, der sie an ihrem Substrat verankert.",
+          "ja": "外肛動物門：基質に固定するためのユニークな柄を持つことで知られる。"
+        },
+        "feedback": {
+          "en": "A unique stalk for anchoring is characteristic of Brachiopoda, not Ectoprocta.",
+          "zh": "用于固定的独特柄是腕足动物门的特征，而不是外肛动物门。",
+          "es": "Un tallo único para anclaje es característico de los Braquiópodos, no de los Ectoproctos.",
+          "fr": "Une tige unique pour l'ancrage est caractéristique des Brachiopodes, et non des Ectoproctes.",
+          "de": "Ein einzigartiger Stiel zur Verankerung ist charakteristisch für Brachiopoda, nicht für Ectoprocta.",
+          "ja": "固定用のユニークな柄は腕足動物門の特徴であり、外肛動物門ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Mollusca: All species are protected by a hard shell.",
+          "zh": "软体动物门：所有物种都受到坚硬的外壳保护。",
+          "es": "Moluscos: Todas las especies están protegidas por una concha dura.",
+          "fr": "Mollusca : Toutes les espèces sont protégées par une coquille dure.",
+          "de": "Mollusca: Alle Arten sind durch eine harte Schale geschützt.",
+          "ja": "軟体動物門：すべての種が硬い殻で保護されている。"
+        },
+        "feedback": {
+          "en": "While many molluscs have shells, not all species are protected by one.",
+          "zh": "虽然许多软体动物有壳，但并非所有物种都受其保护。",
+          "es": "Aunque muchos moluscos tienen concha, no todas las especies están protegidas por una.",
+          "fr": "Bien que de nombreux mollusques aient des coquilles, toutes les espèces n'en sont pas protégées.",
+          "de": "Obwohl viele Mollusken Schalen besitzen, sind nicht alle Arten durch eine geschützt.",
+          "ja": "多くの軟体動物が殻を持つ一方で、すべての種が殻で保護されているわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "According to the text, Nemertea have an alimentary canal and a closed circulatory system in which the blood is contained in vessels. Brachiopods have a unique stalk, Gastrotricha have a 'hairy belly' ventral surface, and while many molluscs have shells, the text states 'in many species is protected by a hard shell', not all.",
+      "zh": "根据文本，纽形动物门有一个消化道和一个封闭的循环系统，其中血液包含在血管中。腕足动物门有一个独特的柄，腹毛动物门有一个“毛茸茸的腹部”腹面，而虽然许多软体动物有壳，但文本指出“在许多物种中受到坚硬外壳的保护”，而非所有物种。",
+      "es": "Según el texto, los nemertinos tienen un canal alimentario y un sistema circulatorio cerrado en el que la sangre está contenida en vasos. Los braquiópodos tienen un tallo único, los gnatostomúlidos tienen una superficie ventral de 'vientre peludo', y aunque muchos moluscos tienen conchas, el texto dice 'en muchas especies está protegida por una concha dura', no en todas.",
+      "fr": "Selon le texte, les Némertea possèdent un canal alimentaire et un système circulatoire fermé où le sang est contenu dans des vaisseaux. Les Brachiopodes ont une tige unique, les Gastrotriches ont une surface ventrale à « ventre poilu », et bien que de nombreux mollusques aient des coquilles, le texte précise « dans de nombreuses espèces est protégée par une coquille dure », et non toutes.",
+      "de": "Laut Text haben Nemertea einen Verdauungstrakt und ein geschlossenes Kreislaufsystem, in dem das Blut in Gefäßen enthalten ist. Brachiopoda haben einen einzigartigen Stiel, Gastrotricha haben eine „Haarbauch“-Ventralseite, und obwohl viele Mollusken Schalen haben, heißt es im Text „in vielen Arten ist durch eine harte Schale geschützt“, nicht alle.",
+      "ja": "本文によると、紐形動物門は消化管と、血液が血管内に含まれる閉鎖循環系を持っています。腕足動物門はユニークな柄を持ち、腹毛動物門は「毛深い腹」の腹面を持ち、多くの軟体動物が殻を持つ一方で、本文では「多くの種において硬い殻によって保護されている」と述べられており、全てではありません。"
+    }
+  },
+  {
+    "page_number": 737,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Consider a newly discovered microscopic marine organism. Researchers observe that this organism has a bizarre life cycle where males impregnate females that are still developing inside their mothers, and the fertilized females then escape, settle elsewhere on a marine crustacean, and release their offspring. Based on the information provided, to which phylum would this organism most likely be assigned?",
+      "zh": "假设发现了一种新的微观海洋生物。研究人员观察到这种生物具有一种奇特的生命周期：雄性会在雌性仍在母亲体内发育时使其受精，然后受精的雌性会逃离，在其他海洋甲壳动物身上定居，并释放它们的后代。根据所提供的信息，这种生物最有可能被归类到哪个门？",
+      "es": "Considere un organismo marino microscópico recién descubierto. Los investigadores observan que este organismo tiene un ciclo de vida peculiar en el que los machos impregnan a las hembras que aún se están desarrollando dentro de sus madres, y las hembras fertilizadas luego escapan, se asientan en otro lugar de un crustáceo marino y liberan su descendencia. Según la información proporcionada, ¿a qué filo se asignaría con mayor probabilidad este organismo?",
+      "fr": "Considérez un organisme marin microscopique récemment découvert. Les chercheurs observent que cet organisme a un cycle de vie bizarre où les mâles imprègnent les femelles qui sont encore en développement à l'intérieur de leur mère, et les femelles fécondées s'échappent ensuite, s'installent ailleurs sur un crustacé marin, et libèrent leur progéniture. Sur la base des informations fournies, à quel phylum cet organisme serait-il le plus probablement assigné ?",
+      "de": "Betrachten Sie einen neu entdeckten mikroskopisch kleinen Meeresorganismus. Forscher beobachten, dass dieser Organismus einen bizarren Lebenszyklus hat, bei dem Männchen Weibchen befruchten, die sich noch im Körper ihrer Mütter entwickeln, und die befruchteten Weibchen dann entweichen, sich an anderer Stelle auf einem Meereskrebstier ansiedeln und ihren Nachwuchs freisetzen. Basierend auf den bereitgestellten Informationen, welchem Stamm würde dieser Organismus höchstwahrscheinlich zugeordnet werden?",
+      "ja": "新たに発見された微細な海洋生物について考えてみましょう。研究者は、この生物が奇妙なライフサイクルを持っていることを観察しました。オスはまだ母親の体内で発達中のメスを受精させ、受精したメスは脱出し、海洋甲殻類上の別の場所に定着して、その子孫を放出します。提供された情報に基づいて、この生物はどの門に最も割り当てられる可能性が高いですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Gastrotricha",
+          "zh": "腹毛动物门",
+          "es": "Gnatostomúlidos",
+          "fr": "Gastrotriches",
+          "de": "Gastrotricha",
+          "ja": "腹毛動物門"
+        },
+        "feedback": {
+          "en": "Gastrotrichs are tiny worms with a ciliated ventral surface, but do not exhibit this specific life cycle or habitat.",
+          "zh": "腹毛动物是腹面有纤毛的微小蠕虫，但它们不表现出这种特定的生命周期或栖息地。",
+          "es": "Los gnatostomúlidos son gusanos diminutos con una superficie ventral ciliada, pero no exhiben este ciclo de vida o hábitat específico.",
+          "fr": "Les gastrotriches sont de minuscules vers avec une surface ventrale ciliée, mais ils ne présentent pas ce cycle de vie ou cet habitat spécifique.",
+          "de": "Gastrotricha sind winzige Würmer mit einer bewimperten Bauchseite, zeigen aber diesen spezifischen Lebenszyklus oder Lebensraum nicht.",
+          "ja": "腹毛動物は繊毛を持つ腹面を持つ小さなワームですが、このような特定のライフサイクルや生息地を示しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Cycliophora",
+          "zh": "环口动物门",
+          "es": "Ciclióforos",
+          "fr": "Cycliophora",
+          "de": "Cycliophora",
+          "ja": "環口動物門"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Loricifera",
+          "zh": "铠甲动物门",
+          "es": "Loricíferos",
+          "fr": "Loricifera",
+          "de": "Loricifera",
+          "ja": "有櫛動物門"
+        },
+        "feedback": {
+          "en": "Loriciferans are tiny, inhabit seafloor sediments, and have a unique body structure, but their life cycle and habitat do not match the description.",
+          "zh": "铠甲动物很小，栖息在海底沉积物中，并具有独特的身体结构，但它们的生命周期和栖息地与描述不符。",
+          "es": "Los loricíferos son diminutos, habitan en sedimentos marinos y tienen una estructura corporal única, pero su ciclo de vida y hábitat no coinciden con la descripción.",
+          "fr": "Les loricifères sont minuscules, habitent les sédiments marins et ont une structure corporelle unique, mais leur cycle de vie et leur habitat ne correspondent pas à la description.",
+          "de": "Loricifera sind winzig, leben in Meeresbodensedimenten und haben eine einzigartige Körperstruktur, aber ihr Lebenszyklus und Lebensraum stimmen nicht mit der Beschreibung überein.",
+          "ja": "有櫛動物は微小で海底堆積物に生息し、独自の体構造を持っていますが、そのライフサイクルと生息地は説明と一致しません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Nemertea",
+          "zh": "纽形动物门",
+          "es": "Nemertinos",
+          "fr": "Némertea",
+          "de": "Nemertea",
+          "ja": "紐形動物門"
+        },
+        "feedback": {
+          "en": "Nemerteans are ribbon worms with a proboscis and a closed circulatory system, not known for this type of life cycle or inhabiting marine crustacean mouthparts.",
+          "zh": "纽形动物是带有吻和封闭循环系统的带状蠕虫，不以这种生命周期或栖息于海洋甲壳动物口器而闻名。",
+          "es": "Los nemertinos son gusanos cinta con una probóscide y un sistema circulatorio cerrado, no conocidos por este tipo de ciclo de vida o por habitar en las piezas bucales de crustáceos marinos.",
+          "fr": "Les Némertea sont des vers rubans avec une trompe et un système circulatoire fermé, non connus pour ce type de cycle de vie ou pour habiter les pièces buccales de crustacés marins.",
+          "de": "Nemertea sind Bandwürmer mit einem Rüssel und einem geschlossenen Kreislaufsystem, die nicht für diese Art von Lebenszyklus oder das Bewohnen von Mundwerkzeugen von Meereskrebstieren bekannt sind.",
+          "ja": "紐形動物は吻と閉鎖循環系を持つ紐状のワームであり、このようなライフサイクルや海洋甲殻類の口器に生息することは知られていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The description perfectly matches the unique characteristics of Cycliophora, specifically 'Symbion pandora', which was discovered on the mouthparts of a lobster and has a bizarre life cycle involving males impregnating developing females.",
+      "zh": "该描述完美匹配环口动物门的独特特征，特别是“Symbion pandora”，它是在龙虾口器上发现的，并具有雄性使发育中的雌性受精的奇特生命周期。",
+      "es": "La descripción coincide perfectamente con las características únicas de los Ciclióforos, específicamente 'Symbion pandora', que fue descubierto en las piezas bucales de una langosta y tiene un ciclo de vida peculiar que involucra a machos impregnando a hembras en desarrollo.",
+      "fr": "La description correspond parfaitement aux caractéristiques uniques des Cycliophora, en particulier 'Symbion pandora', qui a été découvert sur les pièces buccales d'un homard et présente un cycle de vie bizarre impliquant l'imprégnation de femelles en développement par les mâles.",
+      "de": "Die Beschreibung passt perfekt zu den einzigartigen Merkmalen der Cycliophora, insbesondere 'Symbion pandora', die auf den Mundwerkzeugen eines Hummers entdeckt wurde und einen bizarren Lebenszyklus aufweist, bei dem Männchen sich entwickelnde Weibchen befruchten.",
+      "ja": "この説明は環口動物門、特にロブスターの口器で発見され、発達中のメスをオスが受精させるという奇妙なライフサイクルを持つ「Symbion pandora」のユニークな特徴と完全に一致しています。"
+    }
+  },
+  {
+    "page_number": 737,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the provided images and their scale bars, arrange the following organisms from smallest to largest average size:",
+      "zh": "根据提供的图像及其比例尺，将以下生物按平均体型从小到大排列：",
+      "es": "Según las imágenes proporcionadas y sus barras de escala, ordene los siguientes organismos de menor a mayor tamaño promedio:",
+      "fr": "Basé sur les images fournies et leurs barres d'échelle, arrangez les organismes suivants du plus petit au plus grand en taille moyenne :",
+      "de": "Ordnen Sie die folgenden Organismen anhand der bereitgestellten Bilder und ihrer Maßstäbe nach ihrer durchschnittlichen Größe von klein nach groß an:",
+      "ja": "提供された画像とスケールバーに基づいて、以下の生物を平均サイズが小さいものから大きいものへと並べ替えてください。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "I. A cycliophoran, II. A gastrotrich, III. A loriciferan",
+          "zh": "I. 环口动物, II. 腹毛动物, III. 铠甲动物",
+          "es": "I. Un ciclióforo, II. Un gnatostomúlido, III. Un loricífero",
+          "fr": "I. Un cycliophoran, II. Un gastrotrich, III. Un loriciferan",
+          "de": "I. Ein Cycliophoran, II. Ein Gastrotrich, III. Ein Loriciferan",
+          "ja": "I. 環口動物、II. 腹毛動物、III. 有櫛動物"
+        },
+        "feedback": {
+          "en": "The order is incorrect. Loriciferans (50 μm) are smaller than cycliophorans (100 μm), which are smaller than gastrotrichs (200 μm).",
+          "zh": "顺序不正确。铠甲动物（50微米）比环口动物（100微米）小，环口动物又比腹毛动物（200微米）小。",
+          "es": "El orden es incorrecto. Los loricíferos (50 μm) son más pequeños que los ciclióforos (100 μm), que a su vez son más pequeños que los gnatostomúlidos (200 μm).",
+          "fr": "L'ordre est incorrect. Les loricifères (50 μm) sont plus petits que les cycliophorans (100 μm), qui sont plus petits que les gastrotriches (200 μm).",
+          "de": "Die Reihenfolge ist falsch. Loricifera (50 μm) sind kleiner als Cycliophora (100 μm), welche kleiner sind als Gastrotricha (200 μm).",
+          "ja": "順序が正しくありません。有櫛動物（50 μm）は環口動物（100 μm）より小さく、環口動物は腹毛動物（200 μm）より小さいです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "III. A loriciferan, I. A cycliophoran, II. A gastrotrich",
+          "zh": "III. 铠甲动物, I. 环口动物, II. 腹毛动物",
+          "es": "III. Un loricífero, I. Un ciclióforo, II. Un gnatostomúlido",
+          "fr": "III. Un loriciferan, I. Un cycliophoran, II. Un gastrotrich",
+          "de": "III. Ein Loriciferan, I. Ein Cycliophoran, II. Ein Gastrotrich",
+          "ja": "III. 有櫛動物、I. 環口動物、II. 腹毛動物"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "II. A gastrotrich, I. A cycliophoran, III. A loriciferan",
+          "zh": "II. 腹毛动物, I. 环口动物, III. 铠甲动物",
+          "es": "II. Un gnatostomúlido, I. Un ciclióforo, III. Un loricífero",
+          "fr": "II. Un gastrotrich, I. Un cycliophoran, III. Un loriciferan",
+          "de": "II. Ein Gastrotrich, I. Ein Cycliophoran, III. Ein Loriciferan",
+          "ja": "II. 腹毛動物、I. 環口動物、III. 有櫛動物"
+        },
+        "feedback": {
+          "en": "The order is incorrect. Please re-evaluate the scale bars provided for each organism.",
+          "zh": "顺序不正确。请重新评估每个生物体提供的比例尺。",
+          "es": "El orden es incorrecto. Por favor, reevalúe las barras de escala proporcionadas para cada organismo.",
+          "fr": "L'ordre est incorrect. Veuillez réévaluer les barres d'échelle fournies pour chaque organisme.",
+          "de": "Die Reihenfolge ist falsch. Bitte überprüfen Sie die für jeden Organismus angegebenen Maßstäbe erneut.",
+          "ja": "順序が正しくありません。各生物に提供されているスケールバーを再評価してください。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "I. A cycliophoran, III. A loriciferan, II. A gastrotrich",
+          "zh": "I. 环口动物, III. 铠甲动物, II. 腹毛动物",
+          "es": "I. Un ciclióforo, III. Un loricífero, II. Un gnatostomúlido",
+          "fr": "I. Un cycliophoran, III. Un loriciferan, II. Un gastrotrich",
+          "de": "I. Ein Cycliophoran, III. Ein Loriciferan, II. Ein Gastrotrich",
+          "ja": "I. 環口動物、III. 有櫛動物、II. 腹毛動物"
+        },
+        "feedback": {
+          "en": "The order is incorrect. Compare the sizes using the given scale bars: Loriciferan (50 μm), Cycliophoran (100 μm), Gastrotrich (200 μm).",
+          "zh": "顺序不正确。请使用给定的比例尺比较大小：铠甲动物（50微米）、环口动物（100微米）、腹毛动物（200微米）。",
+          "es": "El orden es incorrecto. Compare los tamaños utilizando las barras de escala dadas: Loricífero (50 μm), Ciclióforo (100 μm), Gnatostomúlido (200 μm).",
+          "fr": "L'ordre est incorrect. Comparez les tailles en utilisant les barres d'échelle données : Loricifère (50 μm), Cycliophoran (100 μm), Gastrotrich (200 μm).",
+          "de": "Die Reihenfolge ist falsch. Vergleichen Sie die Größen anhand der angegebenen Maßstäbe: Loriciferan (50 μm), Cycliophoran (100 μm), Gastrotrich (200 μm).",
+          "ja": "順序が正しくありません。与えられたスケールバーを使用してサイズを比較してください。有櫛動物（50 μm）、環口動物（100 μm）、腹毛動物（200 μm）。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The scale bars provided with the images indicate the following approximate sizes: A loriciferan is 50 μm, a cycliophoran is 100 μm, and a gastrotrich is 200 μm. Therefore, from smallest to largest, the order is Loriciferan, Cycliophoran, Gastrotrich.",
+      "zh": "图像中提供的比例尺表示近似大小如下：铠甲动物为50微米，环口动物为100微米，腹毛动物为200微米。因此，从小到大的顺序是铠甲动物、环口动物、腹毛动物。",
+      "es": "Las barras de escala proporcionadas con las imágenes indican los siguientes tamaños aproximados: Un loricífero es de 50 μm, un ciclióforo es de 100 μm y un gnatostomúlido es de 200 μm. Por lo tanto, de menor a mayor, el orden es Loricífero, Ciclióforo, Gnatostomúlido.",
+      "fr": "Les barres d'échelle fournies avec les images indiquent les tailles approximatives suivantes : Un loricifère mesure 50 μm, un cycliophoran mesure 100 μm et un gastrotrich mesure 200 μm. Par conséquent, du plus petit au plus grand, l'ordre est Loricifère, Cycliophoran, Gastrotrich.",
+      "de": "Die mit den Bildern gelieferten Maßstabsbalken geben die folgenden ungefähren Größen an: Ein Loriciferan ist 50 μm, ein Cycliophoran ist 100 μm und ein Gastrotrich ist 200 μm. Daher ist die Reihenfolge von klein nach groß: Loriciferan, Cycliophoran, Gastrotrich.",
+      "ja": "画像に示されているスケールバーから、おおよそのサイズは以下の通りです。有櫛動物は50 μm、環口動物は100 μm、腹毛動物は200 μmです。したがって、小さい方から大きい方への順序は、有櫛動物、環口動物、腹毛動物となります。"
+    }
+  },
+  {
+    "page_number": 737,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following phyla contains the most described species according to the provided information?",
+      "zh": "根据所提供的信息，以下哪个门包含的已描述物种最多？",
+      "es": "Según la información proporcionada, ¿cuál de los siguientes filos contiene la mayor cantidad de especies descritas?",
+      "fr": "Lequel des phyla suivants contient le plus grand nombre d'espèces décrites, selon les informations fournies ?",
+      "de": "Welcher der folgenden Stämme enthält laut den bereitgestellten Informationen die meisten beschriebenen Arten?",
+      "ja": "提供された情報によると、次の門のうち、最も多くの記載種を含むのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Mollusca",
+          "zh": "软体动物门",
+          "es": "Moluscos",
+          "fr": "Mollusca",
+          "de": "Mollusca",
+          "ja": "軟体動物門"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Annelida",
+          "zh": "环节动物门",
+          "es": "Anélidos",
+          "fr": "Annelida",
+          "de": "Annelida",
+          "ja": "環形動物門"
+        },
+        "feedback": {
+          "en": "Annelida has 16,500 species, which is less than Mollusca.",
+          "zh": "环节动物门有16,500个物种，少于软体动物门。",
+          "es": "Los Anélidos tienen 16,500 especies, lo cual es menos que los Moluscos.",
+          "fr": "Annelida compte 16 500 espèces, ce qui est moins que les Mollusca.",
+          "de": "Annelida hat 16.500 Arten, was weniger ist als Mollusca.",
+          "ja": "環形動物門には16,500種がいますが、これは軟体動物門より少ないです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Ectoprocta",
+          "zh": "外肛动物门",
+          "es": "Ectoproctos",
+          "fr": "Ectoprocta",
+          "de": "Ectoprocta",
+          "ja": "外肛動物門"
+        },
+        "feedback": {
+          "en": "Ectoprocta has 4,500 species, which is less than Mollusca.",
+          "zh": "外肛动物门有4,500个物种，少于软体动物门。",
+          "es": "Los Ectoproctos tienen 4,500 especies, lo cual es menos que los Moluscos.",
+          "fr": "Ectoprocta compte 4 500 espèces, ce qui est moins que les Mollusca.",
+          "de": "Ectoprocta hat 4.500 Arten, was weniger ist als Mollusca.",
+          "ja": "外肛動物門には4,500種がいますが、これは軟体動物門より少ないです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Nemertea",
+          "zh": "纽形动物门",
+          "es": "Nemertinos",
+          "fr": "Némertea",
+          "de": "Nemertea",
+          "ja": "紐形動物門"
+        },
+        "feedback": {
+          "en": "Nemertea has 900 species, which is significantly less than Mollusca.",
+          "zh": "纽形动物门有900个物种，远少于软体动物门。",
+          "es": "Los Nemertinos tienen 900 especies, lo cual es significativamente menos que los Moluscos.",
+          "fr": "Némertea compte 900 espèces, ce qui est significativement moins que les Mollusca.",
+          "de": "Nemertea hat 900 Arten, was deutlich weniger ist als Mollusca.",
+          "ja": "紐形動物門には900種がいますが、これは軟体動物門よりはるかに少ないです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "According to the species counts provided in the text: Mollusca (100,000 species), Annelida (16,500 species), Ectoprocta (4,500 species), Nemertea (900 species). Mollusca clearly has the most described species among the given options.",
+      "zh": "根据文本中提供的物种数量：软体动物门（100,000种）、环节动物门（16,500种）、外肛动物门（4,500种）、纽形动物门（900种）。在给定的选项中，软体动物门显然拥有最多的已描述物种。",
+      "es": "Según los recuentos de especies proporcionados en el texto: Moluscos (100,000 especies), Anélidos (16,500 especies), Ectoproctos (4,500 especies), Nemertinos (900 especies). Los Moluscos claramente tienen la mayor cantidad de especies descritas entre las opciones dadas.",
+      "fr": "Selon le nombre d'espèces fourni dans le texte : Mollusca (100 000 espèces), Annelida (16 500 espèces), Ectoprocta (4 500 espèces), Némertea (900 espèces). Mollusca a clairement le plus grand nombre d'espèces décrites parmi les options données.",
+      "de": "Laut den im Text angegebenen Artenzahlen: Mollusca (100.000 Arten), Annelida (16.500 Arten), Ectoprocta (4.500 Arten), Nemertea (900 Arten). Mollusca hat unter den gegebenen Optionen eindeutig die meisten beschriebenen Arten.",
+      "ja": "本文に記載されている種数によると、軟体動物門（100,000種）、環形動物門（16,500種）、外肛動物門（4,500種）、紐形動物門（900種）です。明らかに、軟体動物門が提供された選択肢の中で最も多くの記載種を持っています。"
+    }
+  }
+]

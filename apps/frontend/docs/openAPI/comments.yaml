@@ -1,0 +1,363 @@
+openapi: 3.0.0
+info:
+  title: "Comments API"
+  version: "1.0.0"
+  description: "API for managing user comments on pages and questions."
+servers:
+  - url: "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1"
+    description: "Production Server"
+  - url: "http://localhost:3000/api/v1"
+    description: "Local Development Server"
+paths:
+  /comments:
+    post:
+      tags:
+        - "Comments"
+      summary: "Create a new comment"
+      description: "Allows an authenticated user to post a new comment on a page or question, or reply to an existing comment."
+      operationId: "createComment"
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/CreateCommentPayload"
+      responses:
+        "201":
+          description: "Comment created successfully."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  message:
+                    type: string
+                    example: "Comment created successfully."
+                  comment:
+                    $ref: "#/components/schemas/Comment"
+        "400":
+          description: "Bad request, e.g., missing required fields."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+    get:
+      tags:
+        - "Comments"
+      summary: "Get comments as a nested tree with cursor pagination"
+      description: "Retrieves a nested tree of comments. Pagination is cursor-based and applies only to top-level comments. For each top-level comment returned, its entire tree of replies is included. Can optionally filter to show only comments made by the authenticated user."
+      operationId: "getComments"
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: myComments
+          in: query
+          required: false
+          schema:
+            type: boolean
+          description: "If true, filters comments to show only those posted by the authenticated user. Takes precedence over 'userId' if both are provided."
+        - name: userId
+          in: query
+          required: false
+          schema:
+            type: string
+          description: "Filter comments by the ID of the user who posted them. Note: 'myComments=true' takes precedence if both are provided."
+        - name: parentType
+          in: query
+          required: false
+          schema:
+            type: string
+            enum: [page, question]
+          description: "Filter comments by the type of parent resource ('page' or 'question')."
+        - name: parentId
+          in: query
+          required: false
+          schema:
+            type: string
+          description: "Filter comments by the ID of the parent resource (page number or question ID). Required if parentType is specified."
+        - name: limit
+          in: query
+          required: false
+          schema:
+            type: integer
+            format: int32
+            minimum: 1
+            default: 10
+          description: "Maximum number of top-level comments to return."
+        - name: cursor
+          in: query
+          required: false
+          schema:
+            type: string
+          description: "A cursor for pagination. Use the `nextCursor` value from a previous response to fetch the next page. Leave empty for the first page."
+      responses:
+        "200":
+          description: "Successfully retrieved comment trees with pagination metadata."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/PaginatedCommentsResponse"
+        "400":
+          description: "Bad request, e.g., invalid parentType or missing parentId."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+  /comments/{commentId}:
+    get:
+      tags:
+        - "Comments"
+      summary: "Get a single comment tree"
+      description: "Retrieves a single comment and its entire tree of replies. If the provided ID belongs to a reply, the entire top-level comment tree containing that reply is returned."
+      operationId: "getCommentById"
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: commentId
+          in: path
+          required: true
+          schema:
+            type: string
+          description: "The ID of the comment to retrieve."
+      responses:
+        "200":
+          description: "Successfully retrieved the comment tree."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  comment:
+                    $ref: "#/components/schemas/Comment"
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "404":
+          description: "Comment not found."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+    delete:
+      tags:
+        - "Comments"
+      summary: "Delete a comment"
+      description: "Allows an authenticated user to delete their own comment."
+      operationId: "deleteComment"
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: commentId
+          in: path
+          required: true
+          schema:
+            type: string
+          description: "The ID of the comment to delete."
+      responses:
+        "200":
+          description: "Comment deleted successfully."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  message:
+                    type: string
+                    example: "Comment deleted successfully."
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "403":
+          description: "Forbidden. User is not the owner of the comment or comment not found."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "404":
+          description: "Comment not found." # Although the handler returns 403 for not found, OpenAPI can distinguish.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+
+components:
+  schemas:
+    CommentUser:
+      type: object
+      properties:
+        id:
+          type: string
+          description: "User's unique ID."
+          example: "firebase_user_id_123"
+        nickname:
+          type: string
+          nullable: true
+          description: "User's display name."
+          example: "BioStudent123"
+        avatar_url:
+          type: string
+          nullable: true
+          format: uri
+          description: "URL of the user's avatar image."
+          example: "https://example.com/avatars/123.png"
+    Comment:
+      type: object
+      properties:
+        id:
+          type: string
+          description: "Unique ID of the comment."
+          example: "a1b2c3d4-e5f6-7890-1234-567890abcdef"
+        user_id:
+          type: string
+          description: "ID of the user who posted the comment (Foreign Key)."
+          example: "firebase_user_id_123"
+        user:
+          $ref: "#/components/schemas/CommentUser"
+        parent_type:
+          type: string
+          enum: [page, question]
+          description: "Type of the resource the comment is associated with."
+          example: "page"
+        parent_id:
+          type: string
+          description: "ID of the parent resource (page number or question ID)."
+          example: "42"
+        parent_comment_id:
+          type: string
+          nullable: true
+          description: "ID of the parent comment if this is a reply, otherwise null."
+          example: "another_comment_id"
+        content:
+          type: string
+          description: "The actual content of the comment."
+          example: "This is a great explanation!"
+        status:
+          type: string
+          enum: [visible, hidden_by_moderator, reported]
+          description: "Current status of the comment."
+          example: "visible"
+        created_at:
+          type: string
+          format: date-time
+          description: "Timestamp when the comment was created."
+          example: "2023-10-27T10:00:00Z"
+        replies:
+          type: array
+          description: "A list of nested replies to this comment. The sorting of these replies is chronological (oldest first)."
+          items:
+            $ref: "#/components/schemas/Comment"
+    CreateCommentPayload:
+      type: object
+      required:
+        - parentType
+        - parentId
+        - content
+      properties:
+        parentType:
+          type: string
+          enum: [page, question]
+          description: "Type of the resource the comment is associated with."
+          example: "page"
+        parentId:
+          type: string
+          description: "ID of the parent resource (page number or question ID)."
+          example: "42"
+        content:
+          type: string
+          description: "The actual content of the comment."
+          example: "I have a question about this topic."
+        parentCommentId:
+          type: string
+          nullable: true
+          description: "ID of the parent comment if this is a reply, otherwise null."
+          example: "another_comment_id"
+    ErrorResponse: # Reusing from other OpenAPI docs
+      type: object
+      properties:
+        ok:
+          type: boolean
+          example: false
+        message:
+          type: string
+    PaginatedCommentsResponse:
+      type: object
+      properties:
+        ok:
+          type: boolean
+          example: true
+        data:
+          type: object
+          properties:
+            items:
+              type: array
+              items:
+                $ref: "#/components/schemas/Comment"
+              description: "Array of top-level comment tree objects, sorted by creation date (newest first)."
+            total:
+              type: integer
+              description: "Total number of top-level comments matching the filters."
+              example: 25
+            nextCursor:
+              type: string
+              nullable: true
+              description: "The cursor to use to fetch the next page of results. If null, there are no more results."
+              example: "eyJjcmVhdGVkQXQiOiIyMDIzLTEwLTI2VDEwOjAwOjAwWiIsImlkIjoiYWJjMTIzIn0="
+  securitySchemes: # Reusing from other OpenAPI docs
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+      description: "Firebase JWT for API authentication."

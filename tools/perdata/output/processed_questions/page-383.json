@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 383,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "E. coli cells grown on 15N medium are transferred to 14N medium and allowed to grow for two more generations (two rounds of DNA replication). DNA extracted from these cells is centrifuged. What density distribution of DNA would you expect in this experiment?",
+      "zh": "将生长在15N培养基中的大肠杆菌细胞转移到14N培养基中，并使其再生长两代（两轮DNA复制）。提取这些细胞的DNA并进行离心。您预计在此实验中会看到什么样的DNA密度分布？",
+      "es": "Las células de E. coli cultivadas en medio 15N se transfieren a medio 14N y se les permite crecer durante dos generaciones más (dos rondas de replicación de ADN). El ADN extraído de estas células se centrifuga. ¿Qué distribución de densidad de ADN esperaría en este experimento?",
+      "fr": "Des cellules d'E. coli cultivées sur un milieu 15N sont transférées sur un milieu 14N et laissées à croître pendant deux générations supplémentaires (deux cycles de réplication de l'ADN). L'ADN extrait de ces cellules est centrifugé. Quelle distribution de densité d'ADN attendriez-vous dans cette expérience?",
+      "de": "E. coli-Zellen, die auf 15N-Medium gezüchtet wurden, werden auf 14N-Medium übertragen und für zwei weitere Generationen (zwei Runden der DNA-Replikation) wachsen gelassen. Die aus diesen Zellen extrahierte DNA wird zentrifugiert. Welche Dichteverteilung der DNA würden Sie in diesem Experiment erwarten?",
+      "ja": "15N培地で培養された大腸菌細胞を14N培地に移し、さらに2世代（DNA複製2回）増殖させました。これらの細胞から抽出されたDNAを遠心分離しました。この実験でどのようなDNA密度分布が予想されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "one high-density and one low-density band",
+          "zh": "一个高密度带和一个低密度带",
+          "es": "una banda de alta densidad y una de baja densidad",
+          "fr": "une bande de haute densité et une bande de faible densité",
+          "de": "ein hochdichtes und ein niedrigdichtes Band",
+          "ja": "高密度バンドと低密度バンドがそれぞれ1本"
+        },
+        "feedback": {
+          "en": "High-density DNA would only be present if the conservative model were true or if it were the initial 15N DNA before replication. Low-density would appear, but not high-density with it.",
+          "zh": "高密度DNA只会在保守复制模型成立的情况下出现，或者作为初始的15N DNA在复制前存在。低密度带会出现，但不会同时出现高密度带。",
+          "es": "El ADN de alta densidad solo estaría presente si el modelo conservador fuera cierto o si fuera el ADN 15N inicial antes de la replicación. La baja densidad aparecería, pero no la alta densidad junto con ella.",
+          "fr": "L'ADN de haute densité ne serait présent que si le modèle conservateur était vrai ou s'il s'agissait de l'ADN 15N initial avant la réplication. La faible densité apparaîtrait, mais pas la haute densité avec elle.",
+          "de": "Hochdichte DNA wäre nur vorhanden, wenn das konservative Modell zuträfe oder wenn es sich um die anfängliche 15N-DNA vor der Replikation handelte. Niedrigdichte würde erscheinen, aber nicht hochdichte zusammen damit.",
+          "ja": "高密度DNAは、保存的モデルが正しい場合、または複製前の初期15N DNAであった場合にのみ存在します。低密度は出現しますが、高密度と一緒には出現しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "one intermediate-density band",
+          "zh": "一个中密度带",
+          "es": "una banda de densidad intermedia",
+          "fr": "une bande de densité intermédiaire",
+          "de": "ein mitteldichtes Band",
+          "ja": "中密度バンドが1本"
+        },
+        "feedback": {
+          "en": "One intermediate-density band is observed after only one generation. After two generations, the intermediate band persists, and a low-density band also appears.",
+          "zh": "一个中密度带仅在第一代复制后观察到。经过两代复制，中密度带会持续存在，同时还会出现一个低密度带。",
+          "es": "Una banda de densidad intermedia se observa después de una sola generación. Después de dos generaciones, la banda intermedia persiste y también aparece una banda de baja densidad.",
+          "fr": "Une bande de densité intermédiaire est observée après une seule génération. Après deux générations, la bande intermédiaire persiste, et une bande de faible densité apparaît également.",
+          "de": "Ein mitteldichtes Band wird erst nach einer Generation beobachtet. Nach zwei Generationen bleibt das mitteldichte Band bestehen, und es erscheint auch ein niedrigdichtes Band.",
+          "ja": "中密度バンドは1世代後にのみ観察されます。2世代後には、中密度バンドは残り、低密度バンドも出現します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "one high-density and one intermediate-density band",
+          "zh": "一个高密度带和一个中密度带",
+          "es": "una banda de alta densidad y una de densidad intermedia",
+          "fr": "une bande de haute densité et une bande de densité intermédiaire",
+          "de": "ein hochdichtes und ein mitteldichtes Band",
+          "ja": "高密度バンドと中密度バンドがそれぞれ1本"
+        },
+        "feedback": {
+          "en": "High-density DNA is not expected after transfer to 14N medium and two rounds of replication based on the semi-conservative model.",
+          "zh": "根据半保留复制模型，转移到14N培养基中并经过两轮复制后，预计不会出现高密度DNA。",
+          "es": "No se espera ADN de alta densidad después de la transferencia a medio 14N y dos rondas de replicación, según el modelo semiconservador.",
+          "fr": "L'ADN de haute densité n'est pas attendu après le transfert sur milieu 14N et deux cycles de réplication, selon le modèle semi-conservateur.",
+          "de": "Hochdichte DNA wird nach dem Transfer auf 14N-Medium und zwei Replikationsrunden basierend auf dem semikonservativen Modell nicht erwartet.",
+          "ja": "14N培地への移行と2回の複製ラウンド後、半保存的モデルに基づくと、高密度DNAは予想されません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "one low-density and one intermediate-density band",
+          "zh": "一个低密度带和一个中密度带",
+          "es": "una banda de baja densidad y una de densidad intermedia",
+          "fr": "une bande de faible densité et une bande de densité intermédiaire",
+          "de": "ein niedrigdichtes und ein mitteldichtes Band",
+          "ja": "低密度バンドと中密度バンドがそれぞれ1本"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "Based on the semi-conservative model of DNA replication, after one generation in 14N medium, all DNA molecules will have one 15N strand and one 14N strand, resulting in a single intermediate-density band. After a second generation (two rounds total), each of these intermediate molecules will replicate. This will produce half of the DNA as intermediate density (one 15N strand and one 14N strand) and the other half as low density (two 14N strands). Therefore, two bands would be observed: one low-density band and one intermediate-density band.",
+      "zh": "根据DNA半保留复制模型，在14N培养基中复制一代后，所有DNA分子都将含有一条15N链和一条14N链，从而形成一个单一的中密度带。再经过第二代（总共两轮），每个中密度分子都会复制。这将产生一半的DNA为中等密度（一条15N链和一条14N链），另一半为低密度（两条14N链）。因此，将观察到两个条带：一个低密度带和一个中密度带。",
+      "es": "Según el modelo semiconservador de replicación del ADN, después de una generación en medio 14N, todas las moléculas de ADN tendrán una cadena 15N y una cadena 14N, lo que resultará en una única banda de densidad intermedia. Después de una segunda generación (dos rondas en total), cada una de estas moléculas intermedias se replicará. Esto producirá la mitad del ADN como densidad intermedia (una cadena 15N y una cadena 14N) y la otra mitad como baja densidad (dos cadenas 14N). Por lo tanto, se observarían dos bandas: una banda de baja densidad y una banda de densidad intermedia.",
+      "fr": "Selon le modèle semi-conservateur de réplication de l'ADN, après une génération en milieu 14N, toutes les molécules d'ADN auront un brin 15N et un brin 14N, ce qui entraînera une seule bande de densité intermédiaire. Après une deuxième génération (deux cycles au total), chacune de ces molécules intermédiaires se répliquera. Cela produira la moitié de l'ADN sous forme de densité intermédiaire (un brin 15N et un brin 14N) et l'autre moitié sous forme de faible densité (deux brins 14N). Par conséquent, deux bandes seraient observées: une bande de faible densité et une bande de densité intermédiaire.",
+      "de": "Basierend auf dem semikonservativen Modell der DNA-Replikation werden nach einer Generation im 14N-Medium alle DNA-Moleküle einen 15N-Strang und einen 14N-Strang haben, was zu einem einzigen mitteldichten Band führt. Nach einer zweiten Generation (insgesamt zwei Runden) repliziert sich jedes dieser mitteldichten Moleküle. Dies führt dazu, dass die Hälfte der DNA mitteldicht ist (ein 15N-Strang und ein 14N-Strang) und die andere Hälfte niedrigdicht ist (zwei 14N-Stränge). Daher wären zwei Bänder zu beobachten: ein niedrigdichtes Band und ein mitteldichtes Band.",
+      "ja": "DNAの半保存的複製モデルに基づくと、14N培地で1世代複製した後、すべてのDNA分子は1つの15N鎖と1つの14N鎖を持ち、単一の中密度バンドを形成します。さらに2世代目（合計2ラウンド）の後、これらの中密度分子はそれぞれ複製します。これにより、DNAの半分が中密度（1つの15N鎖と1つの14N鎖）となり、残りの半分が低密度（2つの14N鎖）となります。したがって、低密度バンドと中密度バンドの2つのバンドが観察されます。"
+    }
+  },
+  {
+    "page_number": 383,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A student isolates, purifies, and combines in a test tube a variety of molecules needed for DNA replication. When she adds some DNA to the mixture, replication occurs, but each DNA molecule consists of a normal strand paired with numerous segments of DNA a few hundred nucleotides long. What has she probably left out of the mixture?",
+      "zh": "一位学生在一个试管中分离、纯化并组合了多种DNA复制所需的分子。当她向混合物中加入DNA时，复制发生了，但每个DNA分子都由一条正常链和多条数百个核苷酸长的DNA片段组成。她可能在混合物中遗漏了什么？",
+      "es": "Una estudiante aísla, purifica y combina en un tubo de ensayo una variedad de moléculas necesarias para la replicación del ADN. Cuando añade ADN a la mezcla, la replicación ocurre, pero cada molécula de ADN consiste en una cadena normal emparejada con numerosos segmentos de ADN de unos pocos cientos de nucleótidos de largo. ¿Qué ha omitido probablemente de la mezcla?",
+      "fr": "Une étudiante isole, purifie et combine dans un tube à essai une variété de molécules nécessaires à la réplication de l'ADN. Lorsqu'elle ajoute de l'ADN au mélange, la réplication se produit, mais chaque molécule d'ADN se compose d'un brin normal apparié à de nombreux segments d'ADN de quelques centaines de nucléotides de long. Qu'a-t-elle probablement omis du mélange?",
+      "de": "Eine Studentin isoliert, reinigt und kombiniert in einem Reagenzglas eine Vielzahl von Molekülen, die für die DNA-Replikation benötigt werden. Wenn sie etwas DNA zu der Mischung gibt, findet die Replikation statt, aber jedes DNA-Molekül besteht aus einem normalen Strang, der mit zahlreichen, einige hundert Nukleotide langen DNA-Segmenten gepaart ist. Was hat sie wahrscheinlich aus der Mischung weggelassen?",
+      "ja": "ある学生が、DNA複製に必要な様々な分子を試験管内で単離、精製、結合させました。彼女が混合物にDNAを加えると複製は起こりましたが、各DNA分子は通常の鎖と数百ヌクレオチド長の多数のDNA断片が対になったものでした。彼女が混合物からおそらく何を抜いてしまったのでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "DNA polymerase",
+          "zh": "DNA聚合酶",
+          "es": "ADN polimerasa",
+          "fr": "ADN polymérase",
+          "de": "DNA-Polymerase",
+          "ja": "DNAポリメラーゼ"
+        },
+        "feedback": {
+          "en": "DNA polymerase is essential for synthesizing new DNA strands. If it were missing, replication would not occur, or only short primers would be synthesized.",
+          "zh": "DNA聚合酶是合成新DNA链所必需的。如果缺少它，复制就不会发生，或者只会合成短引物。",
+          "es": "La ADN polimerasa es esencial para sintetizar nuevas cadenas de ADN. Si faltara, la replicación no ocurriría, o solo se sintetizarían cebadores cortos.",
+          "fr": "L'ADN polymérase est essentielle pour la synthèse de nouveaux brins d'ADN. Si elle manquait, la réplication ne se produirait pas, ou seulement de courts amorces seraient synthétisées.",
+          "de": "DNA-Polymerase ist für die Synthese neuer DNA-Stränge unerlässlich. Wenn sie fehlen würde, würde keine Replikation stattfinden oder nur kurze Primer synthetisiert werden.",
+          "ja": "DNAポリメラーゼは新しいDNA鎖の合成に不可欠です。もし欠けていれば、複製は起こらないか、短いプライマーしか合成されないでしょう。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "DNA ligase",
+          "zh": "DNA连接酶",
+          "es": "ADN ligasa",
+          "fr": "ADN ligase",
+          "de": "DNA-Ligase",
+          "ja": "DNAリガーゼ"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Okazaki fragments",
+          "zh": "冈崎片段",
+          "es": "Fragmentos de Okazaki",
+          "fr": "Fragments d'Okazaki",
+          "de": "Okazaki-Fragmente",
+          "ja": "岡崎フラグメント"
+        },
+        "feedback": {
+          "en": "Okazaki fragments are the result of lagging strand synthesis, not a missing component. They are short segments of newly synthesized DNA.",
+          "zh": "冈崎片段是滞后链合成的结果，而不是缺失的组分。它们是新合成的DNA短片段。",
+          "es": "Los fragmentos de Okazaki son el resultado de la síntesis de la hebra rezagada, no un componente faltante. Son segmentos cortos de ADN recién sintetizado.",
+          "fr": "Les fragments d'Okazaki sont le résultat de la synthèse du brin retardé, pas un composant manquant. Ce sont de courts segments d'ADN nouvellement synthétisés.",
+          "de": "Okazaki-Fragmente sind das Ergebnis der Synthese des Folgestrangs, kein fehlender Bestandteil. Es sind kurze Abschnitte neu synthetisierter DNA.",
+          "ja": "岡崎フラグメントは、ラギング鎖合成の結果であり、欠けている成分ではありません。それらは新しく合成された短いDNA断片です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "primase",
+          "zh": "引物酶",
+          "es": "primasa",
+          "fr": "primase",
+          "de": "Primase",
+          "ja": "プライマーゼ"
+        },
+        "feedback": {
+          "en": "Primase synthesizes RNA primers for DNA replication. If primase were missing, DNA synthesis would not initiate on the lagging strand, or segments would be missing, but they would not be 'numerous segments of DNA a few hundred nucleotides long' that are paired but not joined.",
+          "zh": "引物酶合成DNA复制所需的RNA引物。如果缺少引物酶，滞后链上的DNA合成就不会开始，或者片段会缺失，但它们不会是“多条数百个核苷酸长的DNA片段”而且是已配对但未连接的。",
+          "es": "La primasa sintetiza los cebadores de ARN para la replicación del ADN. Si faltara la primasa, la síntesis de ADN no se iniciaría en la hebra rezagada, o los segmentos faltarían, pero no serían 'numerosos segmentos de ADN de unos pocos cientos de nucleótidos de largo' que están apareados pero no unidos.",
+          "fr": "La primase synthétise les amorces d'ARN pour la réplication de l'ADN. Si la primase manquait, la synthèse d'ADN ne s'amorcerait pas sur le brin retardé, ou des segments seraient manquants, mais ils ne seraient pas des 'nombreux segments d'ADN de quelques centaines de nucléotides de long' qui sont appariés mais non liés.",
+          "de": "Primase synthetisiert RNA-Primer für die DNA-Replikation. Wenn die Primase fehlen würde, würde die DNA-Synthese am Folgestrang nicht initiieren, oder Segmente würden fehlen, aber es wären keine 'zahlreichen, einige hundert Nukleotide langen DNA-Segmente', die gepaart, aber nicht verbunden sind.",
+          "ja": "プライマーゼはDNA複製のためのRNAプライマーを合成します。プライマーゼが欠けている場合、ラギング鎖上のDNA合成は開始しないか、断片が欠けるでしょうが、それは結合されていない「数百ヌクレオチド長の多数のDNA断片」ではないでしょう。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The description of 'numerous segments of DNA a few hundred nucleotides long' on the newly synthesized strand is characteristic of Okazaki fragments, which are produced on the lagging strand during DNA replication. The fact that these segments are present but not continuous suggests that the enzyme responsible for joining them is missing. DNA ligase is the enzyme that forms phosphodiester bonds to connect Okazaki fragments, creating a continuous new DNA strand.",
+      "zh": "描述中提到新合成的DNA链上有“多条数百个核苷酸长的DNA片段”，这是DNA复制过程中滞后链上产生的冈崎片段的特征。这些片段已经存在但没有连接成连续链，表明负责连接它们的酶缺失了。DNA连接酶是形成磷酸二酯键以连接冈崎片段，从而形成连续的新DNA链的酶。",
+      "es": "La descripción de 'numerosos segmentos de ADN de unos pocos cientos de nucleótidos de largo' en la cadena recién sintetizada es característica de los fragmentos de Okazaki, que se producen en la cadena rezagada durante la replicación del ADN. El hecho de que estos segmentos estén presentes pero no continuos sugiere que falta la enzima responsable de unirlos. La ADN ligasa es la enzima que forma enlaces fosfodiéster para conectar los fragmentos de Okazaki, creando una nueva cadena de ADN continua.",
+      "fr": "La description de 'nombreux segments d'ADN de quelques centaines de nucléotides de long' sur le brin nouvellement synthétisé est caractéristique des fragments d'Okazaki, qui sont produits sur le brin retardé pendant la réplication de l'ADN. Le fait que ces segments soient présents mais non continus suggère que l'enzyme responsable de leur liaison est manquante. L'ADN ligase est l'enzyme qui forme les liaisons phosphodiester pour connecter les fragments d'Okazaki, créant un nouveau brin d'ADN continu.",
+      "de": "Die Beschreibung von 'zahlreichen, einige hundert Nukleotide langen DNA-Segmenten' am neu synthetisierten Strang ist charakteristisch für Okazaki-Fragmente, die während der DNA-Replikation am Folgestrang entstehen. Die Tatsache, dass diese Segmente vorhanden, aber nicht durchgängig sind, deutet darauf hin, dass das Enzym fehlt, das für ihre Verknüpfung verantwortlich ist. Die DNA-Ligase ist das Enzym, das Phosphodiesterbindungen bildet, um Okazaki-Fragmente zu verbinden und so einen kontinuierlichen neuen DNA-Strang zu erzeugen.",
+      "ja": "新しく合成された鎖に「数百ヌクレオチド長の多数のDNA断片」が存在するという記述は、DNA複製中にラギング鎖上で生成される岡崎フラグメントの特徴です。これらの断片が存在するものの連続していないという事実は、それらを結合する酵素が欠けていることを示唆しています。DNAリガーゼは、岡崎フラグメントを結合して連続的な新しいDNA鎖を作成するためにホスホジエステル結合を形成する酵素です。"
+    }
+  },
+  {
+    "page_number": 383,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "This image shows DNA (gray) interacting with a computer-generated model of a TAL protein (multicolored), one of a family of proteins found only in a species of the bacterium Xanthomonas. The bacterium uses proteins like this one to find specific gene sequences in cells of the organisms it infects, such as tomatoes, rice, and citrus fruits. Which of the following is most strongly suggested by the image and text regarding the TAL protein's function?",
+      "zh": "此图像显示了DNA（灰色）与TAL蛋白（多色）的计算机生成模型相互作用，TAL蛋白是一种仅在黄单胞菌属细菌中发现的蛋白质家族。这种细菌利用这类蛋白质在受其感染的生物（如番茄、水稻和柑橘类水果）细胞中寻找特定的基因序列。关于TAL蛋白的功能，图像和文本最强烈地暗示了以下哪项？",
+      "es": "Esta imagen muestra ADN (gris) interactuando con un modelo generado por computadora de una proteína TAL (multicolor), una de una familia de proteínas que se encuentra solo en una especie de la bacteria Xanthomonas. La bacteria utiliza proteínas como esta para encontrar secuencias genéticas específicas en las células de los organismos que infecta, como tomates, arroz y cítricos. ¿Cuál de las siguientes opciones se sugiere más fuertemente por la imagen y el texto con respecto a la función de la proteína TAL?",
+      "fr": "Cette image montre l'ADN (gris) interagissant avec un modèle généré par ordinateur d'une protéine TAL (multicolore), l'une des protéines d'une famille que l'on ne trouve que chez une espèce de la bactérie Xanthomonas. La bactérie utilise des protéines comme celle-ci pour trouver des séquences géniques spécifiques dans les cellules des organismes qu'elle infecte, tels que les tomates, le riz et les agrumes. Parmi les propositions suivantes, laquelle est le plus fortement suggérée par l'image et le texte concernant la fonction de la protéine TAL?",
+      "de": "Dieses Bild zeigt DNA (grau), die mit einem computergenerierten Modell eines TAL-Proteins (mehrfarbig) interagiert, einer Proteinfamilie, die nur in einer Spezies des Bakteriums Xanthomonas vorkommt. Das Bakterium verwendet Proteine wie dieses, um spezifische Gensequenzen in Zellen der Organismen zu finden, die es infiziert, wie Tomaten, Reis und Zitrusfrüchte. Was wird anhand des Bildes und des Textes am stärksten über die Funktion des TAL-Proteins suggeriert?",
+      "ja": "この画像は、DNA（灰色）と、細菌Xanthomonas属の一種にのみ見られるタンパク質ファミリーの一つであるTALタンパク質（多色）のコンピュータ生成モデルとの相互作用を示しています。この細菌は、トマト、米、柑橘類などの感染する生物の細胞内で特定の遺伝子配列を見つけるために、このようなタンパク質を利用します。画像とテキストから、TALタンパク質の機能に関して最も強く示唆されるのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The TAL protein forms a channel through which DNA can pass, facilitating gene transfer.",
+          "zh": "TAL蛋白形成一个通道，DNA可以通过该通道，促进基因转移。",
+          "es": "La proteína TAL forma un canal a través del cual el ADN puede pasar, facilitando la transferencia de genes.",
+          "fr": "La protéine TAL forme un canal à travers lequel l'ADN peut passer, facilitant le transfert de gènes.",
+          "de": "Das TAL-Protein bildet einen Kanal, durch den DNA passieren kann, was den Gentransfer erleichtert.",
+          "ja": "TALタンパク質はDNAが通過できるチャネルを形成し、遺伝子転送を促進する。"
+        },
+        "feedback": {
+          "en": "While some proteins form channels, the image does not suggest a channel for DNA passage. The protein appears to wrap around the DNA, implying specific interaction, not passage.",
+          "zh": "虽然某些蛋白质会形成通道，但图像并未显示DNA通过通道。该蛋白质似乎缠绕在DNA周围，暗示着特异性相互作用，而非通过。",
+          "es": "Aunque algunas proteínas forman canales, la imagen no sugiere un canal para el paso del ADN. La proteína parece envolver el ADN, lo que implica una interacción específica, no un paso.",
+          "fr": "Bien que certaines protéines forment des canaux, l'image ne suggère pas un canal pour le passage de l'ADN. La protéine semble envelopper l'ADN, ce qui implique une interaction spécifique, pas un passage.",
+          "de": "Obwohl einige Proteine Kanäle bilden, suggeriert das Bild keinen Kanal für den DNA-Durchgang. Das Protein scheint sich um die DNA zu wickeln, was eine spezifische Interaktion impliziert, keinen Durchgang.",
+          "ja": "一部のタンパク質はチャネルを形成しますが、画像はDNA通過のためのチャネルを示唆していません。このタンパク質はDNAを巻き込んでいるように見え、特定の相互作用を示唆しており、通過ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The TAL protein’s multiple colored domains indicate its ability to cleave DNA at multiple sites.",
+          "zh": "TAL蛋白的多个彩色结构域表明其能够在多个位点切割DNA。",
+          "es": "Los múltiples dominios coloreados de la proteína TAL indican su capacidad para cortar el ADN en múltiples sitios.",
+          "fr": "Les multiples domaines colorés de la protéine TAL indiquent sa capacité à cliver l'ADN à plusieurs sites.",
+          "de": "Die mehreren farbigen Domänen des TAL-Proteins deuten auf seine Fähigkeit hin, DNA an mehreren Stellen zu spalten.",
+          "ja": "TALタンパク質の複数の色分けされたドメインは、複数の部位でDNAを切断する能力を示す。"
+        },
+        "feedback": {
+          "en": "The multiple colored domains likely represent different repeating units or structural motifs, not necessarily an ability to cleave DNA. The text states it 'finds specific gene sequences,' not 'cleaves' them.",
+          "zh": "多个彩色结构域可能代表不同的重复单元或结构基序，不一定表示能够切割DNA。文本说明它“寻找特定的基因序列”，而不是“切割”它们。",
+          "es": "Los múltiples dominios coloreados probablemente representan diferentes unidades repetidas o motivos estructurales, no necesariamente una capacidad para cortar el ADN. El texto indica que 'encuentra secuencias de genes específicas', no que las 'corta'.",
+          "fr": "Les multiples domaines colorés représentent probablement différentes unités répétitives ou motifs structurels, pas nécessairement une capacité à cliver l'ADN. Le texte indique qu'elle 'trouve des séquences géniques spécifiques', pas qu'elle les 'clive'.",
+          "de": "Die mehreren farbigen Domänen stellen wahrscheinlich verschiedene Wiederholungseinheiten oder Strukturmotive dar, nicht unbedingt die Fähigkeit, DNA zu spalten. Der Text besagt, dass es 'spezifische Gensequenzen findet', nicht 'spaltet'.",
+          "ja": "複数の色分けされたドメインは、異なる反復単位や構造モチーフを示す可能性が高く、必ずしもDNAを切断する能力を示すものではありません。テキストには「特定の遺伝子配列を見つける」とあり、「切断する」とは書かれていません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The TAL protein's elongated, groove-fitting structure allows it to specifically recognize and bind to the major groove of DNA.",
+          "zh": "TAL蛋白细长、与凹槽契合的结构使其能够特异性识别并结合DNA的大沟。",
+          "es": "La estructura alargada y que se ajusta a la hendidura de la proteína TAL le permite reconocer y unirse específicamente al surco mayor del ADN.",
+          "fr": "La structure allongée et s'insérant dans le sillon de la protéine TAL lui permet de reconnaître et de se lier spécifiquement au grand sillon de l'ADN.",
+          "de": "Die längliche, rillenpassende Struktur des TAL-Proteins ermöglicht es ihm, spezifisch die große Furche der DNA zu erkennen und daran zu binden.",
+          "ja": "TALタンパク質の細長く溝にフィットする構造は、DNAのメジャーグルーブを特異的に認識し結合することを可能にする。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The TAL protein acts as a chaperone, guiding DNA folding into a compact chromosome structure.",
+          "zh": "TAL蛋白充当伴侣蛋白，引导DNA折叠成紧凑的染色体结构。",
+          "es": "La proteína TAL actúa como chaperona, guiando el plegamiento del ADN en una estructura cromosómica compacta.",
+          "fr": "La protéine TAL agit comme une protéine chaperonne, guidant le repliement de l'ADN en une structure chromosomique compacte.",
+          "de": "Das TAL-Protein fungiert als Chaperon, das die DNA-Faltung in eine kompakte Chromosomenstruktur leitet.",
+          "ja": "TALタンパク質はシャペロンとして機能し、DNAの折り畳みをコンパクトな染色体構造に導く。"
+        },
+        "feedback": {
+          "en": "The image shows the protein binding to a segment of DNA, not enveloping it to condense it. Histones, for example, are involved in DNA compaction, and their interaction with DNA looks different.",
+          "zh": "图像显示蛋白质结合到DNA片段上，而不是包裹它以使其凝缩。例如，组蛋白参与DNA的压缩，它们与DNA的相互作用看起来不同。",
+          "es": "La imagen muestra la proteína uniéndose a un segmento de ADN, no envolviéndolo para condensarlo. Las histonas, por ejemplo, están involucradas en la compactación del ADN, y su interacción con el ADN se ve diferente.",
+          "fr": "L'image montre la protéine se liant à un segment d'ADN, non pas l'enveloppant pour le condenser. Les histones, par exemple, sont impliquées dans la compaction de l'ADN, et leur interaction avec l'ADN est différente.",
+          "de": "Das Bild zeigt, wie das Protein an ein DNA-Segment bindet, und nicht, wie es dieses umschließt, um es zu verdichten. Histone sind beispielsweise an der DNA-Kompaktierung beteiligt, und ihre Interaktion mit der DNA sieht anders aus.",
+          "ja": "画像は、タンパク質がDNAセグメントに結合していることを示しており、それを包み込んで凝縮させているわけではありません。例えば、ヒストンはDNAの圧縮に関与しており、DNAとの相互作用は異なります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The image depicts the TAL protein wrapping around the DNA helix, specifically appearing to fit into the major groove. The text states that these proteins 'find specific gene sequences,' which implies sequence-specific DNA binding. Many DNA-binding proteins, especially those recognizing specific sequences, interact with the DNA bases exposed in the major groove due to its wider and deeper nature, allowing for precise recognition. The elongated and somewhat helical structure of the TAL protein in the image is consistent with this type of interaction, allowing it to 'read' the DNA sequence.",
+      "zh": "图像描绘了TAL蛋白缠绕在DNA螺旋上，特别是看起来适合DNA大沟。文本指出这些蛋白质“寻找特定的基因序列”，这暗示着序列特异性DNA结合。许多DNA结合蛋白，尤其是那些识别特定序列的蛋白质，由于DNA大沟更宽更深，能够与其暴露的DNA碱基相互作用，从而实现精确识别。图像中TAL蛋白的细长且呈螺旋状的结构与这种类型的相互作用是一致的，使其能够“读取”DNA序列。",
+      "es": "La imagen muestra la proteína TAL envolviendo la hélice de ADN, específicamente pareciendo encajar en el surco mayor. El texto indica que estas proteínas 'encuentran secuencias de genes específicas', lo que implica una unión al ADN específica de secuencia. Muchas proteínas de unión al ADN, especialmente aquellas que reconocen secuencias específicas, interactúan con las bases del ADN expuestas en el surco mayor debido a su naturaleza más ancha y profunda, lo que permite un reconocimiento preciso. La estructura alargada y algo helicoidal de la proteína TAL en la imagen es consistente con este tipo de interacción, lo que le permite 'leer' la secuencia de ADN.",
+      "fr": "L'image représente la protéine TAL s'enroulant autour de l'hélice d'ADN, semblant spécifiquement s'insérer dans le grand sillon. Le texte indique que ces protéines 'trouvent des séquences géniques spécifiques', ce qui implique une liaison à l'ADN spécifique de séquence. De nombreuses protéines liant l'ADN, en particulier celles reconnaissant des séquences spécifiques, interagissent avec les bases de l'ADN exposées dans le grand sillon en raison de sa nature plus large et plus profonde, permettant une reconnaissance précise. La structure allongée et quelque peu hélicoïdale de la protéine TAL dans l'image est cohérente avec ce type d'interaction, lui permettant de 'lire' la séquence d'ADN.",
+      "de": "Das Bild zeigt, wie sich das TAL-Protein um die DNA-Helix wickelt und dabei speziell in die große Furche zu passen scheint. Der Text besagt, dass diese Proteine 'spezifische Gensequenzen finden', was eine sequenzspezifische DNA-Bindung impliziert. Viele DNA-bindende Proteine, insbesondere solche, die spezifische Sequenzen erkennen, interagieren aufgrund ihrer breiteren und tieferen Beschaffenheit mit den in der großen Furche exponierten DNA-Basen, was eine präzise Erkennung ermöglicht. Die längliche und etwas helikale Struktur des TAL-Proteins im Bild stimmt mit dieser Art der Interaktion überein, wodurch es die DNA-Sequenz 'lesen' kann.",
+      "ja": "画像は、TALタンパク質がDNAらせんに巻き付いており、特にメジャーグルーブにフィットしているように見えます。テキストにはこれらのタンパク質が「特定の遺伝子配列を見つける」と記載されており、これは配列特異的なDNA結合を意味します。多くのDNA結合タンパク質、特に特定の配列を認識するものは、メジャーグルーブがより広く深いため、そこに露出しているDNA塩基と相互作用し、正確な認識を可能にします。画像中のTALタンパク質の細長く、ややらせん状の構造は、この種の相互作用と一致しており、DNA配列を「読み取る」ことを可能にしています。"
+    }
+  }
+]

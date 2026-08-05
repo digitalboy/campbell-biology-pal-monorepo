@@ -1,0 +1,385 @@
+[
+  {
+    "page_number": 997,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "How many oxygen molecules can a single hemoglobin molecule bind, and what mechanism facilitates its efficient loading and unloading?",
+      "zh": "一个血红蛋白分子能结合多少个氧分子，以及什么机制促进了其高效的装载和卸载？",
+      "es": "¿Cuántas moléculas de oxígeno puede unir una sola molécula de hemoglobina y qué mecanismo facilita su carga y descarga eficientes?",
+      "fr": "Combien de molécules d'oxygène une seule molécule d'hémoglobine peut-elle lier, et quel mécanisme facilite son chargement et son déchargement efficaces ?",
+      "de": "Wie viele Sauerstoffmoleküle kann ein einzelnes Hämoglobinmolekül binden, und welcher Mechanismus erleichtert dessen effiziente Beladung und Entladung?",
+      "ja": "1つのヘモグロビン分子はいくつの酸素分子を結合でき、その効率的な結合と放出を促進するメカニズムは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Two; facilitated by competitive binding with CO2.",
+          "zh": "两个；通过与二氧化碳的竞争性结合促进。",
+          "es": "Dos; facilitado por la unión competitiva con CO2.",
+          "fr": "Deux ; facilité par la liaison compétitive avec le CO2.",
+          "de": "Zwei; erleichtert durch kompetitive Bindung mit CO2.",
+          "ja": "2つ；CO2との競合結合によって促進される。"
+        },
+        "feedback": {
+          "en": "A single hemoglobin molecule binds four oxygen molecules, not two, and cooperativity is the primary mechanism for efficient loading and unloading.",
+          "zh": "一个血红蛋白分子结合四个氧分子，而不是两个，并且协同作用是高效装载和卸载的主要机制。",
+          "es": "Una sola molécula de hemoglobina une cuatro moléculas de oxígeno, no dos, y la cooperatividad es el mecanismo principal para una carga y descarga eficientes.",
+          "fr": "Une seule molécule d'hémoglobine lie quatre molécules d'oxygène, pas deux, et la coopérativité est le mécanisme principal pour un chargement et un déchargement efficaces.",
+          "de": "Ein einzelnes Hämoglobinmolekül bindet vier Sauerstoffmoleküle, nicht zwei, und Kooperativität ist der primäre Mechanismus für effizientes Laden und Entladen.",
+          "ja": "1つのヘモグロビン分子は2つではなく4つの酸素分子を結合し、協同性(cooperativity)が効率的な結合と放出の主要なメカニズムです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Four; facilitated by cooperativity among its subunits.",
+          "zh": "四个；通过其亚基之间的协同作用促进。",
+          "es": "Cuatro; facilitado por la cooperatividad entre sus subunidades.",
+          "fr": "Quatre ; facilité par la coopérativité entre ses sous-unités.",
+          "de": "Vier; erleichtert durch Kooperativität zwischen seinen Untereinheiten.",
+          "ja": "4つ；そのサブユニット間の協同性によって促進される。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "One; due to its single heme group.",
+          "zh": "一个；由于其单个血红素基团。",
+          "es": "Uno; debido a su único grupo hemo.",
+          "fr": "Un ; en raison de son unique groupe hème.",
+          "de": "Eins; aufgrund seiner einzelnen Häm-Gruppe.",
+          "ja": "1つ；単一のヘム基による。"
+        },
+        "feedback": {
+          "en": "Hemoglobin has four subunits, each with a heme group, allowing it to bind four oxygen molecules, not just one.",
+          "zh": "血红蛋白有四个亚基，每个亚基都有一个血红素基团，使其能够结合四个氧分子，而不仅仅是一个。",
+          "es": "La hemoglobina tiene cuatro subunidades, cada una con un grupo hemo, lo que le permite unir cuatro moléculas de oxígeno, no solo una.",
+          "fr": "L'hémoglobine possède quatre sous-unités, chacune avec un groupe hème, lui permettant de lier quatre molécules d'oxygène, et non une seule.",
+          "de": "Hämoglobin besitzt vier Untereinheiten, jede mit einer Häm-Gruppe, wodurch es vier Sauerstoffmoleküle binden kann, nicht nur eines.",
+          "ja": "ヘモグロビンは4つのサブユニットを持ち、それぞれがヘム基を持っているため、1つだけでなく4つの酸素分子を結合できます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Eight; enabled by a strong, irreversible bond.",
+          "zh": "八个；通过强而不可逆的键合实现。",
+          "es": "Ocho; habilitado por un enlace fuerte e irreversible.",
+          "fr": "Huit ; rendu possible par une liaison forte et irréversible.",
+          "de": "Acht; durch eine starke, irreversible Bindung ermöglicht.",
+          "ja": "8つ；強力で不可逆的な結合によって可能になる。"
+        },
+        "feedback": {
+          "en": "Hemoglobin binds four oxygen molecules, not eight, and the binding is reversible for efficient transport.",
+          "zh": "血红蛋白结合四个氧分子，而不是八个，并且结合是可逆的，以实现高效运输。",
+          "es": "La hemoglobina une cuatro moléculas de oxígeno, no ocho, y la unión es reversible para un transporte eficiente.",
+          "fr": "L'hémoglobine lie quatre molécules d'oxygène, pas huit, et la liaison est réversible pour un transport efficace.",
+          "de": "Hämoglobin bindet vier Sauerstoffmoleküle, nicht acht, und die Bindung ist reversibel für einen effizienten Transport.",
+          "ja": "ヘモグロビンは8つではなく4つの酸素分子を結合し、効率的な輸送のために結合は可逆的です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "A hemoglobin molecule has four subunits, each with a heme group containing an iron atom. Each iron atom can bind one O2 molecule, so a hemoglobin molecule can carry four O2 molecules. The binding and release of O2 are enhanced by cooperativity: when O2 binds to one subunit, the others change shape, increasing their affinity for O2, and vice versa for unloading.",
+      "zh": "一个血红蛋白分子有四个亚基，每个亚基都有一个含铁原子的血红素基团。每个铁原子可以结合一个O2分子，因此一个血红蛋白分子可以携带四个O2分子。O2的结合和释放通过协同作用增强：当O2结合到一个亚基上时，其他亚基会改变形状，增加它们对O2的亲和力，卸载时则相反。",
+      "es": "Una molécula de hemoglobina tiene cuatro subunidades, cada una con un grupo hemo que contiene un átomo de hierro. Cada átomo de hierro puede unirse a una molécula de O2, por lo que una molécula de hemoglobina puede transportar cuatro moléculas de O2. La unión y liberación de O2 se mejoran por la cooperatividad: cuando el O2 se une a una subunidad, las otras cambian de forma, aumentando su afinidad por el O2, y viceversa para la descarga.",
+      "fr": "Une molécule d'hémoglobine possède quatre sous-unités, chacune avec un groupe hème contenant un atome de fer. Chaque atome de fer peut lier une molécule d'O2, de sorte qu'une molécule d'hémoglobine peut transporter quatre molécules d'O2. La liaison et la libération d'O2 sont améliorées par la coopérativité : lorsque l'O2 se lie à une sous-unité, les autres changent de forme, augmentant leur affinité pour l'O2, et vice versa pour le déchargement.",
+      "de": "Ein Hämoglobinmolekül besitzt vier Untereinheiten, jede mit einer Häm-Gruppe, die ein Eisenatom enthält. Jedes Eisenatom kann ein O2-Molekül binden, sodass ein Hämoglobinmolekül vier O2-Moleküle transportieren kann. Die Bindung und Freisetzung von O2 wird durch Kooperativität verstärkt: Wenn O2 an eine Untereinheit bindet, ändern die anderen ihre Form, wodurch ihre Affinität zu O2 erhöht wird, und umgekehrt beim Entladen.",
+      "ja": "ヘモグロビン分子は4つのサブユニットを持ち、それぞれが鉄原子を含むヘム基を持っています。各鉄原子は1つの酸素分子を結合できるため、1つのヘモグロビン分子は4つの酸素分子を運搬できます。酸素の結合と放出は協同性によって促進されます。酸素が1つのサブユニットに結合すると、他のサブユニットは形状を変化させ、酸素への親和性を高め、放出時にはその逆の作用が起こります。"
+    }
+  },
+  {
+    "page_number": 997,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 42.31a, approximately what percentage of oxygen is unloaded from hemoglobin when blood moves from resting tissues (PO2 ~40 mm Hg) to metabolically very active tissues during exercise (PO2 ~20 mm Hg)?",
+      "zh": "根据图42.31a，当血液从静息组织（PO2 约40 mm Hg）流向运动时代谢活跃的组织（PO2 约20 mm Hg）时，血红蛋白大约会释放多少百分比的氧气？",
+      "es": "Según la Figura 42.31a, ¿aproximadamente qué porcentaje de oxígeno se descarga de la hemoglobina cuando la sangre se mueve de los tejidos en reposo (PO2 ~40 mm Hg) a los tejidos metabólicamente muy activos durante el ejercicio (PO2 ~20 mm Hg)?",
+      "fr": "Selon la Figure 42.31a, quel pourcentage approximatif d'oxygène est déchargé de l'hémoglobine lorsque le sang passe des tissus au repos (PO2 ~40 mm Hg) aux tissus métaboliquement très actifs pendant l'exercice (PO2 ~20 mm Hg) ?",
+      "de": "Gemäß Abbildung 42.31a, welcher ungefähre Prozentsatz an Sauerstoff wird aus dem Hämoglobin freigesetzt, wenn Blut von ruhenden Geweben (PO2 ~40 mm Hg) zu metabolisch sehr aktiven Geweben während des Trainings (PO2 ~20 mm Hg) fließt?",
+      "ja": "図42.31aによると、血液が安静時の組織（PO2 約40 mm Hg）から運動中の代謝的に非常に活発な組織（PO2 約20 mm Hg）へ移動する際、ヘモグロビンから酸素がおおよそ何パーセント放出されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "10%",
+          "zh": "10%",
+          "es": "10%",
+          "fr": "10%",
+          "de": "10%",
+          "ja": "10%"
+        },
+        "feedback": {
+          "en": "At PO2 ~40 mm Hg, saturation is ~70%; at PO2 ~20 mm Hg, saturation is ~40%. The difference is 30%.",
+          "zh": "在PO2约40 mm Hg时，饱和度约为70%；在PO2约20 mm Hg时，饱和度约为40%。差值为30%。",
+          "es": "A una PO2 de ~40 mm Hg, la saturación es ~70%; a una PO2 de ~20 mm Hg, la saturación es ~40%. La diferencia es del 30%.",
+          "fr": "À une PO2 d'environ 40 mm Hg, la saturation est d'environ 70 % ; à une PO2 d'environ 20 mm Hg, la saturation est d'environ 40 %. La différence est de 30 %.",
+          "de": "Bei einem PO2 von ~40 mm Hg beträgt die Sättigung ~70 %; bei einem PO2 von ~20 mm Hg beträgt die Sättigung ~40 %. Die Differenz beträgt 30 %.",
+          "ja": "PO2約40 mmHgでは飽和度が約70%です。PO2約20 mmHgでは飽和度が約40%です。差は30%です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "30%",
+          "zh": "30%",
+          "es": "30%",
+          "fr": "30%",
+          "de": "30%",
+          "ja": "30%"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "50%",
+          "zh": "50%",
+          "es": "50%",
+          "fr": "50%",
+          "de": "50%",
+          "ja": "50%"
+        },
+        "feedback": {
+          "en": "At PO2 ~40 mm Hg, saturation is ~70%; at PO2 ~20 mm Hg, saturation is ~40%. The difference is 30%, not 50%.",
+          "zh": "在PO2约40 mm Hg时，饱和度约为70%；在PO2约20 mm Hg时，饱和度约为40%。差值为30%，而不是50%。",
+          "es": "A una PO2 de ~40 mm Hg, la saturación es ~70%; a una PO2 de ~20 mm Hg, la saturación es ~40%. La diferencia es del 30%, no del 50%.",
+          "fr": "À une PO2 d'environ 40 mm Hg, la saturation est d'environ 70 % ; à une PO2 d'environ 20 mm Hg, la saturation est d'environ 40 %. La différence est de 30 %, pas de 50 %.",
+          "de": "Bei einem PO2 von ~40 mm Hg beträgt die Sättigung ~70 %; bei einem PO2 von ~20 mm Hg beträgt die Sättigung ~40 %. Die Differenz beträgt 30 %, nicht 50 %.",
+          "ja": "PO2約40 mmHgでは飽和度が約70%です。PO2約20 mmHgでは飽和度が約40%です。差は30%であり、50%ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "70%",
+          "zh": "70%",
+          "es": "70%",
+          "fr": "70%",
+          "de": "70%",
+          "ja": "70%"
+        },
+        "feedback": {
+          "en": "70% is the approximate saturation at resting tissues (PO2 ~40 mm Hg), not the percentage unloaded.",
+          "zh": "70%是静息组织（PO2 约40 mm Hg）的近似饱和度，而不是释放的百分比。",
+          "es": "El 70% es la saturación aproximada en los tejidos en reposo (PO2 ~40 mm Hg), no el porcentaje descargado.",
+          "fr": "70 % est la saturation approximative dans les tissus au repos (PO2 ~40 mm Hg), et non le pourcentage déchargé.",
+          "de": "70 % ist die ungefähre Sättigung in ruhenden Geweben (PO2 ~40 mm Hg), nicht der Prozentsatz der Freisetzung.",
+          "ja": "70%は安静時の組織（PO2 約40 mmHg）におけるおおよその飽和度であり、放出されたパーセンテージではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 42.31a shows that at a PO2 of 40 mm Hg (resting tissues), hemoglobin is about 70% saturated with O2. During exercise, in metabolically very active tissues, the PO2 drops significantly, for example, to about 20 mm Hg. At this PO2, the curve indicates an O2 saturation of roughly 40%. Therefore, the additional oxygen unloaded is approximately 70% - 40% = 30% of the total O2 capacity.",
+      "zh": "图42.31a显示，在PO2为40 mm Hg（静息组织）时，血红蛋白的O2饱和度约为70%。在运动过程中，代谢非常活跃的组织中PO2显著下降，例如降至约20 mm Hg。在此PO2下，曲线表明O2饱和度约为40%。因此，额外释放的氧气量约为总O2容量的70% - 40% = 30%。",
+      "es": "La Figura 42.31a muestra que a una PO2 de 40 mm Hg (tejidos en reposo), la hemoglobina está saturada aproximadamente en un 70% con O2. Durante el ejercicio, en tejidos metabólicamente muy activos, la PO2 desciende significativamente, por ejemplo, a unos 20 mm Hg. A esta PO2, la curva indica una saturación de O2 de aproximadamente el 40%. Por lo tanto, el oxígeno adicional descargado es aproximadamente el 70% - 40% = 30% de la capacidad total de O2.",
+      "fr": "La Figure 42.31a montre qu'à une PO2 de 40 mm Hg (tissus au repos), l'hémoglobine est saturée à environ 70 % en O2. Pendant l'exercice, dans les tissus métaboliquement très actifs, la PO2 chute significativement, par exemple, à environ 20 mm Hg. À cette PO2, la courbe indique une saturation en O2 d'environ 40 %. Par conséquent, l'oxygène supplémentaire déchargé est d'environ 70 % - 40 % = 30 % de la capacité totale d'O2.",
+      "de": "Abbildung 42.31a zeigt, dass bei einem PO2 von 40 mm Hg (ruhende Gewebe) das Hämoglobin zu etwa 70 % mit O2 gesättigt ist. Während des Trainings sinkt in metabolisch sehr aktiven Geweben der PO2 signifikant, beispielsweise auf etwa 20 mm Hg. Bei diesem PO2 zeigt die Kurve eine O2-Sättigung von ungefähr 40 %. Daher beträgt der zusätzlich freigesetzte Sauerstoff etwa 70 % - 40 % = 30 % der gesamten O2-Kapazität.",
+      "ja": "図42.31aによると、PO2が40 mmHg（安静時の組織）の場合、ヘモグロビンのO2飽和度はおおよそ70%です。運動中、代謝が非常に活発な組織ではPO2が著しく低下し、例えば約20 mmHgまで下がります。このPO2では、曲線はおおよそ40%のO2飽和度を示しています。したがって、追加で放出される酸素の量は、O2総容量のおよそ70% - 40% = 30%です。"
+    }
+  },
+  {
+    "page_number": 997,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which of the following statements correctly describe the Bohr shift and its physiological significance? (Select all that apply)",
+      "zh": "以下哪些陈述正确描述了玻尔效应及其生理意义？（选择所有符合的选项）",
+      "es": "¿Cuáles de las siguientes afirmaciones describen correctamente el efecto Bohr y su importancia fisiológica? (Seleccione todas las que apliquen)",
+      "fr": "Lesquelles des affirmations suivantes décrivent correctement l'effet Bohr et sa signification physiologique ? (Sélectionnez toutes les options applicables)",
+      "de": "Welche der folgenden Aussagen beschreiben den Bohr-Effekt und seine physiologische Bedeutung korrekt? (Wählen Sie alle zutreffenden aus)",
+      "ja": "以下の記述のうち、ボーア効果とその生理的意義を正しく説明しているものはどれですか？（当てはまるものをすべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The Bohr shift is primarily caused by an increase in blood pH due to decreased CO2 concentration in active tissues.",
+          "zh": "玻尔效应主要是由于活动组织中二氧化碳浓度降低导致血液pH值升高引起的。",
+          "es": "El efecto Bohr es causado principalmente por un aumento en el pH de la sangre debido a la disminución de la concentración de CO2 en los tejidos activos.",
+          "fr": "L'effet Bohr est principalement causé par une augmentation du pH sanguin due à une diminution de la concentration de CO2 dans les tissus actifs.",
+          "de": "Der Bohr-Effekt wird hauptsächlich durch einen Anstieg des Blut-pH-Werts aufgrund einer verringerten CO2-Konzentration in aktiven Geweben verursacht.",
+          "ja": "ボーア効果は主に、活動組織におけるCO2濃度の低下による血液pHの上昇によって引き起こされる。"
+        },
+        "feedback": {
+          "en": "The Bohr shift is caused by a *decrease* in blood pH (acidification) due to *increased* CO2 production in active tissues, not an increase in pH.",
+          "zh": "玻尔效应是由活动组织中二氧化碳产量增加导致的血液pH值*降低*（酸化）引起的，而不是pH值升高。",
+          "es": "El efecto Bohr es causado por una *disminución* del pH sanguíneo (acidificación) debido a una *mayor* producción de CO2 en los tejidos activos, no por un aumento del pH.",
+          "fr": "L'effet Bohr est causé par une *diminution* du pH sanguin (acidification) due à une *augmentation* de la production de CO2 dans les tissus actifs, et non par une augmentation du pH.",
+          "de": "Der Bohr-Effekt wird durch eine *Abnahme* des Blut-pH-Werts (Ansäuerung) aufgrund einer *erhöhten* CO2-Produktion in aktiven Geweben verursacht, nicht durch einen Anstieg des pH-Werts.",
+          "ja": "ボーア効果は、活動組織におけるCO2産生の*増加*による血液pHの*低下*（酸性化）によって引き起こされ、pHの上昇ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "In active tissues, increased CO2 production leads to the formation of carbonic acid, lowering blood pH and decreasing hemoglobin's affinity for O2.",
+          "zh": "在活动组织中，二氧化碳产量增加导致碳酸形成，降低血液pH值并降低血红蛋白对氧气的亲和力。",
+          "es": "En los tejidos activos, el aumento de la producción de CO2 conduce a la formación de ácido carbónico, lo que disminuye el pH de la sangre y reduce la afinidad de la hemoglobina por el O2.",
+          "fr": "Dans les tissus actifs, une production accrue de CO2 conduit à la formation d'acide carbonique, abaissant le pH sanguin et diminuant l'affinité de l'hémoglobine pour l'O2.",
+          "de": "In aktiven Geweben führt eine erhöhte CO2-Produktion zur Bildung von Kohlensäure, wodurch der Blut-pH-Wert sinkt und die Affinität des Hämoglobins zu O2 abnimmt.",
+          "ja": "活動組織では、CO2産生の増加により炭酸が形成され、血液pHが低下し、ヘモグロビンの酸素への親和性が低下する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The Bohr shift causes the oxygen dissociation curve to shift to the left, indicating increased oxygen release at a given PO2.",
+          "zh": "玻尔效应导致氧解离曲线向左移动，表明在给定PO2下氧气释放量增加。",
+          "es": "El efecto Bohr provoca que la curva de disociación de oxígeno se desplace hacia la izquierda, indicando un aumento en la liberación de oxígeno a una PO2 dada.",
+          "fr": "L'effet Bohr provoque un déplacement de la courbe de dissociation de l'oxygène vers la gauche, indiquant une augmentation de la libération d'oxygène à une PO2 donnée.",
+          "de": "Der Bohr-Effekt bewirkt eine Verschiebung der Sauerstoffdissoziationskurve nach links, was eine erhöhte Sauerstofffreisetzung bei einem gegebenen PO2 anzeigt.",
+          "ja": "ボーア効果により酸素解離曲線は左にシフトし、特定のPO2における酸素放出量の増加を示す。"
+        },
+        "feedback": {
+          "en": "The Bohr shift causes the oxygen dissociation curve to shift to the *right*, which facilitates increased oxygen release.",
+          "zh": "玻尔效应导致氧解离曲线向*右*移动，从而促进氧气释放量的增加。",
+          "es": "El efecto Bohr provoca que la curva de disociación de oxígeno se desplace hacia la *derecha*, lo que facilita una mayor liberación de oxígeno.",
+          "fr": "L'effet Bohr provoque un déplacement de la courbe de dissociation de l'oxygène vers la *droite*, ce qui facilite une augmentation de la libération d'oxygène.",
+          "de": "Der Bohr-Effekt bewirkt eine Verschiebung der Sauerstoffdissoziationskurve nach *rechts*, was eine erhöhte Sauerstofffreisetzung begünstigt.",
+          "ja": "ボーア効果により酸素解離曲線は*右*にシフトし、酸素放出量の増加を促進します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "This phenomenon ensures that metabolically active tissues receive more oxygen, supporting their higher energy demands.",
+          "zh": "这种现象确保了代谢活跃的组织获得更多氧气，以支持其更高的能量需求。",
+          "es": "Este fenómeno asegura que los tejidos metabólicamente activos reciban más oxígeno, apoyando sus mayores demandas energéticas.",
+          "fr": "Ce phénomène assure que les tissus métaboliquement actifs reçoivent plus d'oxygène, soutenant leurs demandes énergétiques plus élevées.",
+          "de": "Dieses Phänomen stellt sicher, dass metabolisch aktive Gewebe mehr Sauerstoff erhalten, um ihren höheren Energiebedarf zu decken.",
+          "ja": "この現象により、代謝的に活発な組織がより多くの酸素を受け取り、高いエネルギー需要を支えることができる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Hemoglobin's ability to bind H+ helps buffer the blood, minimizing drastic pH changes during the Bohr shift.",
+          "zh": "血红蛋白结合H+的能力有助于缓冲血液，最大限度地减少玻尔效应期间剧烈的pH变化。",
+          "es": "La capacidad de la hemoglobina para unirse al H+ ayuda a tamponar la sangre, minimizando los cambios drásticos de pH durante el efecto Bohr.",
+          "fr": "La capacité de l'hémoglobine à lier les H+ aide à tamponner le sang, minimisant les changements drastiques de pH pendant l'effet Bohr.",
+          "de": "Die Fähigkeit von Hämoglobin, H+ zu binden, hilft, das Blut zu puffern und drastische pH-Änderungen während des Bohr-Effekts zu minimieren.",
+          "ja": "ヘモグロビンがH+を結合する能力は血液の緩衝を助け、ボーア効果中の劇的なpH変化を最小限に抑える。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "B",
+      "D",
+      "E"
+    ],
+    "explanation": {
+      "en": "The Bohr shift describes the phenomenon where a decrease in pH (due to increased CO2 and carbonic acid production in active tissues) lowers hemoglobin's affinity for oxygen, causing the oxygen dissociation curve to shift to the right. This facilitates the release of more oxygen to tissues that are metabolically active and have a higher demand for oxygen. Hemoglobin also acts as a buffer by binding H+, which helps to minimize drastic pH changes in the blood.",
+      "zh": "玻尔效应描述的是pH值下降（由于活动组织中CO2和碳酸产量增加）会降低血红蛋白对氧气的亲和力，导致氧解离曲线向右移动的现象。这有助于向代谢活跃且对氧气需求更高的组织释放更多氧气。血红蛋白还通过结合H+充当缓冲剂，有助于最大限度地减少血液中剧烈的pH变化。",
+      "es": "El efecto Bohr describe el fenómeno por el cual una disminución del pH (debido al aumento de la producción de CO2 y ácido carbónico en los tejidos activos) disminuye la afinidad de la hemoglobina por el oxígeno, lo que provoca un desplazamiento de la curva de disociación del oxígeno hacia la derecha. Esto facilita la liberación de más oxígeno a los tejidos metabólicamente activos y con una mayor demanda de oxígeno. La hemoglobina también actúa como amortiguador al unirse al H+, lo que ayuda a minimizar los cambios drásticos de pH en la sangre.",
+      "fr": "L'effet Bohr décrit le phénomène par lequel une diminution du pH (due à une production accrue de CO2 et d'acide carbonique dans les tissus actifs) réduit l'affinité de l'hémoglobine pour l'oxygène, entraînant un déplacement de la courbe de dissociation de l'oxygène vers la droite. Cela facilite la libération de plus d'oxygène vers les tissus métaboliquement actifs et ayant une demande plus élevée en oxygène. L'hémoglobine agit également comme tampon en liant les H+, ce qui aide à minimiser les changements drastiques de pH dans le sang.",
+      "de": "Der Bohr-Effekt beschreibt das Phänomen, bei dem eine pH-Wert-Abnahme (aufgrund erhöhter CO2- und Kohlensäureproduktion in aktiven Geweben) die Affinität des Hämoglobins zu Sauerstoff verringert, wodurch die Sauerstoffdissoziationskurve nach rechts verschoben wird. Dies erleichtert die Freisetzung von mehr Sauerstoff an metabolisch aktive Gewebe mit höherem Sauerstoffbedarf. Hämoglobin fungiert auch als Puffer, indem es H+ bindet, was dazu beiträgt, drastische pH-Änderungen im Blut zu minimieren.",
+      "ja": "ボーア効果とは、pHの低下（活動組織におけるCO2と炭酸の産生増加による）がヘモグロビンの酸素への親和性を低下させ、酸素解離曲線が右にシフトする現象を指します。これにより、代謝が活発で酸素需要が高い組織への酸素放出が促進されます。ヘモグロビンはまた、H+を結合することで血液の緩衝材としても機能し、ボーア効果中の劇的なpH変化を最小限に抑えるのに役立ちます。"
+    }
+  },
+  {
+    "page_number": 997,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following is the primary form in which carbon dioxide is transported in the blood, according to the provided text?",
+      "zh": "根据所提供的文本，以下哪种是二氧化碳在血液中运输的主要形式？",
+      "es": "¿Cuál de las siguientes es la forma principal en que se transporta el dióxido de carbono en la sangre, según el texto proporcionado?",
+      "fr": "Selon le texte fourni, laquelle des affirmations suivantes représente la forme principale sous laquelle le dioxyde de carbone est transporté dans le sang ?",
+      "de": "Welches der folgenden ist laut dem bereitgestellten Text die primäre Form, in der Kohlendioxid im Blut transportiert wird?",
+      "ja": "提供されたテキストによると、以下のうち二酸化炭素が血液中で輸送される主要な形態はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "As dissolved CO2 in blood plasma.",
+          "zh": "作为溶解在血浆中的二氧化碳。",
+          "es": "Como CO2 disuelto en el plasma sanguíneo.",
+          "fr": "Sous forme de CO2 dissous dans le plasma sanguin.",
+          "de": "Als gelöstes CO2 im Blutplasma.",
+          "ja": "血漿中に溶解したCO2として。"
+        },
+        "feedback": {
+          "en": "Only about 7% of CO2 is transported as dissolved CO2 in blood plasma, which is not the primary form.",
+          "zh": "只有约7%的二氧化碳以溶解在血浆中的形式运输，这不是主要形式。",
+          "es": "Solo alrededor del 7% del CO2 se transporta como CO2 disuelto en el plasma sanguíneo, lo cual no es la forma principal.",
+          "fr": "Seulement environ 7 % du CO2 est transporté sous forme de CO2 dissous dans le plasma sanguin, ce qui n'est pas la forme principale.",
+          "de": "Nur etwa 7 % des CO2 werden als gelöstes CO2 im Blutplasma transportiert, was nicht die primäre Form ist.",
+          "ja": "CO2の約7%のみが血漿中に溶解したCO2として運ばれ、これは主要な形態ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Bound to hemoglobin as carbaminohemoglobin.",
+          "zh": "与血红蛋白结合形成碳氨血红蛋白。",
+          "es": "Unido a la hemoglobina como carbaminohemoglobina.",
+          "fr": "Lié à l'hémoglobine sous forme de carbaminohémoglobine.",
+          "de": "An Hämoglobin als Carbaminohämoglobin gebunden.",
+          "ja": "カルバミノヘモグロビンとしてヘモグロビンに結合している。"
+        },
+        "feedback": {
+          "en": "About 5% of CO2 binds to hemoglobin, which is not the primary transport form.",
+          "zh": "大约5%的二氧化碳与血红蛋白结合，这不是主要的运输形式。",
+          "es": "Alrededor del 5% del CO2 se une a la hemoglobina, lo cual no es la forma de transporte principal.",
+          "fr": "Environ 5 % du CO2 se lie à l'hémoglobine, ce qui n'est pas la principale forme de transport.",
+          "de": "Etwa 5 % des CO2 binden an Hämoglobin, was nicht die primäre Transportform ist.",
+          "ja": "CO2の約5%がヘモグロビンに結合しますが、これは主要な輸送形態ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "As bicarbonate ions (HCO3-) in the blood plasma.",
+          "zh": "以碳酸氢根离子（HCO3-）的形式存在于血浆中。",
+          "es": "Como iones bicarbonato (HCO3-) en el plasma sanguíneo.",
+          "fr": "Sous forme d'ions bicarbonate (HCO3-) dans le plasma sanguin.",
+          "de": "Als Bicarbonationen (HCO3-) im Blutplasma.",
+          "ja": "血漿中の炭酸水素イオン（HCO3-）として。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "As carbonic acid (H2CO3) in the erythrocytes.",
+          "zh": "以碳酸（H2CO3）的形式存在于红细胞中。",
+          "es": "Como ácido carbónico (H2CO3) en los eritrocitos.",
+          "fr": "Sous forme d'acide carbonique (H2CO3) dans les érythrocytes.",
+          "de": "Als Kohlensäure (H2CO3) in den Erythrozyten.",
+          "ja": "赤血球中の炭酸（H2CO3）として。"
+        },
+        "feedback": {
+          "en": "Carbonic acid is formed in erythrocytes but readily dissociates into H+ and HCO3-, with most HCO3- diffusing into the plasma for transport.",
+          "zh": "碳酸在红细胞中形成，但会迅速解离成H+和HCO3-，其中大部分HCO3-扩散到血浆中进行运输。",
+          "es": "El ácido carbónico se forma en los eritrocitos pero se disocia fácilmente en H+ y HCO3-, y la mayoría de los HCO3- difunden al plasma para su transporte.",
+          "fr": "L'acide carbonique est formé dans les érythrocytes mais se dissocie facilement en H+ et HCO3-, la plupart des HCO3- diffusant dans le plasma pour le transport.",
+          "de": "Kohlensäure wird in den Erythrozyten gebildet, dissoziiert jedoch leicht in H+ und HCO3-, wobei die meisten HCO3- zur Transport in das Plasma diffundieren.",
+          "ja": "炭酸は赤血球内で形成されますが、容易にH+とHCO3-に解離し、ほとんどのHCO3-は輸送のために血漿中に拡散します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that CO2 diffuses into erythrocytes and reacts with water to form H2CO3, which readily dissociates into H+ and HCO3-. It then specifies that 'Most HCO3- diffuses out of the erythrocytes and is transported to the lungs in the plasma.' While some CO2 is transported as dissolved CO2 (~7%) and bound to hemoglobin (~5%), the largest proportion is transported as bicarbonate ions in the plasma.",
+      "zh": "文本指出，CO2扩散到红细胞中并与水反应形成H2CO3，H2CO3迅速解离成H+和HCO3-。然后明确说明，“大多数HCO3-从红细胞中扩散出来，并在血浆中运输到肺部。”虽然一些CO2以溶解CO2（约7%）的形式和与血红蛋白结合（约5%）的形式运输，但最大比例是以血浆中碳酸氢根离子的形式运输的。",
+      "es": "El texto establece que el CO2 difunde hacia los eritrocitos y reacciona con el agua para formar H2CO3, el cual se disocia fácilmente en H+ y HCO3-. Luego especifica que 'La mayoría de los HCO3- difunden fuera de los eritrocitos y son transportados a los pulmones en el plasma.' Aunque parte del CO2 se transporta como CO2 disuelto (~7%) y unido a la hemoglobina (~5%), la mayor proporción se transporta como iones bicarbonato en el plasma.",
+      "fr": "Le texte indique que le CO2 diffuse dans les érythrocytes et réagit avec l'eau pour former H2CO3, qui se dissocie facilement en H+ et HCO3-. Il précise ensuite que 'La plupart des HCO3- diffusent hors des érythrocytes et sont transportés vers les poumons dans le plasma.' Bien qu'une partie du CO2 soit transportée sous forme de CO2 dissous (~7 %) et liée à l'hémoglobine (~5 %), la plus grande proportion est transportée sous forme d'ions bicarbonate dans le plasma.",
+      "de": "Der Text besagt, dass CO2 in die Erythrozyten diffundiert und mit Wasser zu H2CO3 reagiert, welches leicht in H+ und HCO3- dissoziiert. Weiter wird ausgeführt, dass 'Die meisten HCO3- aus den Erythrozyten diffundieren und im Plasma zu den Lungen transportiert werden.' Während ein Teil des CO2 als gelöstes CO2 (~7 %) und an Hämoglobin gebunden (~5 %) transportiert wird, wird der größte Anteil als Bicarbonationen im Plasma transportiert.",
+      "ja": "テキストによると、CO2は赤血球内に拡散し、水と反応してH2CO3を形成します。H2CO3は速やかにH+とHCO3-に解離し、「ほとんどのHCO3-は赤血球から拡散して血漿中で肺に運ばれる」と明記されています。CO2の一部は溶解CO2（約7%）として、またヘモグロビンに結合した形（約5%）で輸送されますが、大部分は血漿中の炭酸水素イオンとして輸送されます。"
+    }
+  }
+]

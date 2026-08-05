@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 1125,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements correctly describes a characteristic of action potential propagation and information encoding in neurons?",
+      "zh": "以下哪项陈述正确描述了神经元动作电位传播和信息编码的特征？",
+      "es": "¿Cuál de las siguientes afirmaciones describe correctamente una característica de la propagación del potencial de acción y la codificación de información en las neuronas?",
+      "fr": "Laquelle des affirmations suivantes décrit correctement une caractéristique de la propagation du potentiel d'action et du codage de l'information dans les neurones ?",
+      "de": "Welche der folgenden Aussagen beschreibt korrekt ein Merkmal der Aktionspotentialausbreitung und der Informationskodierung in Neuronen?",
+      "ja": "以下の記述のうち、ニューロンにおける活動電位の伝播と情報符号化の特性を正しく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Action potentials propagate backward due to the sustained activation of voltage-gated sodium channels.",
+          "zh": "动作电位由于电压门控钠通道的持续激活而向后传播。",
+          "es": "Los potenciales de acción se propagan hacia atrás debido a la activación sostenida de los canales de sodio dependientes de voltaje.",
+          "fr": "Les potentiels d'action se propagent en arrière en raison de l'activation soutenue des canaux sodiques voltage-dépendants.",
+          "de": "Aktionspotentiale breiten sich aufgrund der anhaltenden Aktivierung spannungsgesteuerter Natriumkanäle rückwärts aus.",
+          "ja": "活動電位は、電位依存性ナトリウムチャネルの持続的な活性化により後方へ伝播する。"
+        },
+        "feedback": {
+          "en": "Inactivated sodium channels prevent backward propagation.",
+          "zh": "失活的钠通道阻止了向后传播。",
+          "es": "Los canales de sodio inactivados impiden la propagación hacia atrás.",
+          "fr": "Les canaux sodiques inactivés empêchent la propagation en arrière.",
+          "de": "Inaktivierte Natriumkanäle verhindern die Rückwärtsausbreitung.",
+          "ja": "不活化されたナトリウムチャネルは後方伝播を妨げる。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The strength of an input signal is primarily encoded by the amplitude of the action potential.",
+          "zh": "输入信号的强度主要由动作电位的幅度编码。",
+          "es": "La fuerza de una señal de entrada se codifica principalmente por la amplitud del potencial de acción.",
+          "fr": "La force d'un signal d'entrée est principalement codée par l'amplitude du potentiel d'action.",
+          "de": "Die Stärke eines Eingangssignals wird primär durch die Amplitude des Aktionspotentials kodiert.",
+          "ja": "入力信号の強さは、主に活動電位の振幅によって符号化される。"
+        },
+        "feedback": {
+          "en": "Amplitude is all-or-none; frequency encodes strength.",
+          "zh": "幅度是“全或无”的；频率编码强度。",
+          "es": "La amplitud es todo o nada; la frecuencia codifica la fuerza.",
+          "fr": "L'amplitude est tout-ou-rien ; la fréquence code la force.",
+          "de": "Die Amplitude ist „Alles-oder-Nichts“; die Frequenz kodiert die Stärke.",
+          "ja": "振幅は全か無かであり、周波数が強度を符号化する。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "During the refractory period, the axon membrane is temporarily unresponsive, preventing action potentials from traveling backward toward the cell body.",
+          "zh": "在不应期，轴突膜暂时无反应，阻止动作电位向细胞体方向回传。",
+          "es": "Durante el período refractario, la membrana del axón es temporalmente insensible, impidiendo que los potenciales de acción viajen hacia atrás hacia el cuerpo celular.",
+          "fr": "Pendant la période réfractaire, la membrane de l'axone est temporairement insensible, empêchant les potentiels d'action de voyager en arrière vers le corps cellulaire.",
+          "de": "Während der Refraktärzeit ist die Axonmembran vorübergehend nicht reaktionsfähig, wodurch verhindert wird, dass Aktionspotentiale rückwärts zum Zellkörper wandern.",
+          "ja": "不応期の間、軸索膜は一時的に不応答状態となり、活動電位が細胞体に向かって後方へ伝播するのを防ぐ。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Neurons encode stronger signals by decreasing the frequency of action potentials.",
+          "zh": "神经元通过降低动作电位的频率来编码更强的信号。",
+          "es": "Las neuronas codifican señales más fuertes disminuyendo la frecuencia de los potenciales de acción.",
+          "fr": "Les neurones codent des signaux plus forts en diminuant la fréquence des potentiels d'action.",
+          "de": "Neuronen kodieren stärkere Signale durch Verringerung der Frequenz von Aktionspotentialen.",
+          "ja": "ニューロンは、活動電位の頻度を減少させることによって、より強い信号を符号化する。"
+        },
+        "feedback": {
+          "en": "Stronger signals increase frequency.",
+          "zh": "更强的信号会增加频率。",
+          "es": "Las señales más fuertes aumentan la frecuencia.",
+          "fr": "Des signaux plus forts augmentent la fréquence.",
+          "de": "Stärkere Signale erhöhen die Frequenz.",
+          "ja": "より強い信号は頻度を増加させる。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The refractory period ensures unidirectional propagation of action potentials by making the membrane temporarily unresponsive. The frequency, not the amplitude, of action potentials encodes the strength of a signal.",
+      "zh": "不应期通过使膜暂时无反应来确保动作电位的单向传播。动作电位的频率（而非幅度）编码信号的强度。",
+      "es": "El período refractario asegura la propagación unidireccional de los potenciales de acción al hacer que la membrana sea temporalmente insensible. La frecuencia, no la amplitud, de los potenciales de acción codifica la fuerza de una señal.",
+      "fr": "La période réfractaire assure la propagation unidirectionnelle des potentiels d'action en rendant la membrane temporairement insensible. La fréquence, et non l'amplitude, des potentiels d'action code la force d'un signal.",
+      "de": "Die Refraktärzeit gewährleistet die unidirektionale Ausbreitung von Aktionspotentialen, indem sie die Membran vorübergehend unreaktionsfähig macht. Die Frequenz, nicht die Amplitude, der Aktionspotentiale kodiert die Stärke eines Signals.",
+      "ja": "不応期は、膜を一時的に不応答状態にすることで活動電位の一方向伝播を保証します。信号の強度は活動電位の頻度によって符号化され、振幅ではありません。"
+    }
+  },
+  {
+    "page_number": 1125,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following best explains the evolutionary adaptations for increasing action potential conduction speed in different animal groups?",
+      "zh": "以下哪项最佳解释了不同动物群体中提高动作电位传导速度的进化适应性？",
+      "es": "¿Cuál de las siguientes explica mejor las adaptaciones evolutivas para aumentar la velocidad de conducción del potencial de acción en diferentes grupos de animales?",
+      "fr": "Lequel des énoncés suivants explique le mieux les adaptations évolutives visant à augmenter la vitesse de conduction du potentiel d'action dans différents groupes d'animaux ?",
+      "de": "Welche der folgenden Aussagen erklärt am besten die evolutionären Anpassungen zur Erhöhung der Aktionspotentialleitungsgeschwindigkeit in verschiedenen Tiergruppen?",
+      "ja": "以下のうち、異なる動物群における活動電位の伝導速度を増加させるための進化的適応を最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Invertebrates achieve rapid conduction primarily through myelination, while vertebrates rely on wider axons.",
+          "zh": "无脊椎动物主要通过髓鞘化实现快速传导，而脊椎动物则依赖较宽的轴突。",
+          "es": "Los invertebrados logran una conducción rápida principalmente a través de la mielinización, mientras que los vertebrados dependen de axones más anchos.",
+          "fr": "Les invertébrés réalisent une conduction rapide principalement par la myélinisation, tandis que les vertébrés dépendent d'axones plus larges.",
+          "de": "Wirbellose Tiere erreichen eine schnelle Leitung primär durch Myelinisierung, während Wirbeltiere auf breitere Axone angewiesen sind.",
+          "ja": "無脊椎動物は主にミエリン化によって速い伝導を達成し、脊椎動物はより太い軸索に依存する。"
+        },
+        "feedback": {
+          "en": "This statement reverses the primary adaptations; invertebrates use wider axons, and vertebrates use myelination.",
+          "zh": "该陈述颠倒了主要的适应方式；无脊椎动物使用较宽的轴突，脊椎动物使用髓鞘化。",
+          "es": "Esta afirmación invierte las adaptaciones principales; los invertebrados usan axones más anchos, y los vertebrados usan la mielinización.",
+          "fr": "Cette affirmation inverse les adaptations principales ; les invertébrés utilisent des axones plus larges, et les vertébrés utilisent la myélinisation.",
+          "de": "Diese Aussage kehrt die primären Anpassungen um; Wirbellose Tiere nutzen breitere Axone, und Wirbeltiere nutzen die Myelinisierung.",
+          "ja": "この記述は主要な適応を逆転させています。無脊椎動物はより太い軸索を使用し、脊椎動物はミエリン化を使用します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Both invertebrates and vertebrates predominantly increase conduction speed by increasing axon diameter, with myelination being a minor factor.",
+          "zh": "无脊椎动物和脊椎动物主要都通过增加轴突直径来提高传导速度，髓鞘化是次要因素。",
+          "es": "Tanto invertebrados como vertebrados aumentan predominantemente la velocidad de conducción al aumentar el diámetro del axón, siendo la mielinización un factor menor.",
+          "fr": "Les invertébrés et les vertébrés augmentent principalement la vitesse de conduction en augmentant le diamètre de l'axone, la myélinisation étant un facteur mineur.",
+          "de": "Sowohl Wirbellose als auch Wirbeltiere erhöhen die Leitungsgeschwindigkeit überwiegend durch Vergrößerung des Axondurchmessers, wobei die Myelinisierung ein geringerer Faktor ist.",
+          "ja": "無脊椎動物も脊椎動物も、主に軸索径を大きくすることで伝導速度を増加させ、ミエリン化は副次的な要因である。"
+        },
+        "feedback": {
+          "en": "Myelination is a major factor for fast conduction in vertebrates.",
+          "zh": "髓鞘化是脊椎动物快速传导的主要因素。",
+          "es": "La mielinización es un factor importante para la conducción rápida en vertebrados.",
+          "fr": "La myélinisation est un facteur majeur pour la conduction rapide chez les vertébrés.",
+          "de": "Myelinisierung ist ein Hauptfaktor für schnelle Leitung bei Wirbeltieren.",
+          "ja": "ミエリン化は脊椎動物における高速伝導の主要な要因です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Invertebrates with giant axons (e.g., squids) increase conduction speed by having wider axon diameters, whereas vertebrates use electrical insulation provided by myelin sheaths.",
+          "zh": "具有巨型轴突的无脊椎动物（如鱿鱼）通过拥有更宽的轴突直径来提高传导速度，而脊椎动物则利用髓鞘提供的电绝缘。",
+          "es": "Los invertebrados con axones gigantes (ej., calamares) aumentan la velocidad de conducción al tener diámetros de axón más anchos, mientras que los vertebrados usan el aislamiento eléctrico proporcionado por las vainas de mielina.",
+          "fr": "Les invertébrés dotés d'axones géants (par exemple, les calmars) augmentent la vitesse de conduction en ayant des diamètres d'axones plus larges, tandis que les vertébrés utilisent l'isolation électrique fournie par les gaines de myéline.",
+          "de": "Wirbellose Tiere mit Riesenaxonen (z.B. Tintenfische) erhöhen die Leitungsgeschwindigkeit durch größere Axondurchmesser, während Wirbeltiere die elektrische Isolation durch Myelinscheiden nutzen.",
+          "ja": "巨大軸索を持つ無脊椎動物（例：イカ）は、より太い軸索径を持つことで伝導速度を増加させ、一方、脊椎動物はミエリン鞘によって提供される電気的絶縁を利用する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Myelin sheaths are present in both invertebrates and vertebrates, serving as the primary mechanism for high-speed conduction across all animal phyla.",
+          "zh": "髓鞘存在于无脊椎动物和脊椎动物中，是所有动物门高速传导的主要机制。",
+          "es": "Las vainas de mielina están presentes tanto en invertebrados como en vertebrados, sirviendo como el mecanismo principal para la conducción de alta velocidad en todos los filos animales.",
+          "fr": "Les gaines de myéline sont présentes chez les invertébrés et les vertébrés, servant de mécanisme principal pour la conduction à grande vitesse dans tous les phylums animaux.",
+          "de": "Myelinscheiden sind sowohl bei Wirbellosen als auch bei Wirbeltieren vorhanden und dienen als primärer Mechanismus für Hochgeschwindigkeitsleitung in allen Tierstämmen.",
+          "ja": "ミエリン鞘は無脊椎動物と脊椎動物の両方に存在し、すべての動物門において高速伝導の主要なメカニズムとして機能する。"
+        },
+        "feedback": {
+          "en": "Myelination is characteristic of vertebrates for fast conduction; invertebrates use different strategies.",
+          "zh": "髓鞘化是脊椎动物快速传导的特征；无脊椎动物使用不同的策略。",
+          "es": "La mielinización es característica de los vertebrados para la conducción rápida; los invertebrados usan diferentes estrategias.",
+          "fr": "La myélinisation est caractéristique des vertébrés pour une conduction rapide ; les invertébrés utilisent des stratégies différentes.",
+          "de": "Myelinisierung ist charakteristisch für Wirbeltiere zur schnellen Leitung; Wirbellose Tiere verwenden andere Strategien.",
+          "ja": "ミエリン化は脊椎動物の高速伝導の特徴であり、無脊椎動物は異なる戦略を用いる。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that wider axons provide less resistance, seen in invertebrate giant axons. For vertebrates, the key adaptation is the myelin sheath, which acts as electrical insulation, enabling faster conduction despite narrow axon diameters.",
+      "zh": "文本明确指出，较宽的轴突提供较小的电阻，这在无脊椎动物的巨型轴突中可见。对于脊椎动物，关键的适应性是髓鞘，它充当电绝缘体，尽管轴突直径较窄也能实现更快的传导。",
+      "es": "El texto afirma explícitamente que los axones más anchos ofrecen menos resistencia, como se ve en los axones gigantes de los invertebrados. Para los vertebrados, la adaptación clave es la vaina de mielina, que actúa como aislamiento eléctrico, permitiendo una conducción más rápida a pesar de los diámetros axónicos estrechos.",
+      "fr": "Le texte indique explicitement que les axones plus larges offrent moins de résistance, comme on le voit chez les axones géants des invertébrés. Pour les vertébrés, l'adaptation clé est la gaine de myéline, qui agit comme isolant électrique, permettant une conduction plus rapide malgré des diamètres d'axones étroits.",
+      "de": "Der Text besagt explizit, dass breitere Axone einen geringeren Widerstand bieten, wie bei den Riesenaxonen von Wirbellosen zu sehen ist. Bei Wirbeltieren ist die Myelinscheide die Schlüsselanpassung, die als elektrische Isolation fungiert und trotz schmaler Axondurchmesser eine schnellere Leitung ermöglicht.",
+      "ja": "テキストには、より太い軸索が抵抗を減らすと明示されており、これは無脊椎動物の巨大軸索に見られます。脊椎動物の場合、主要な適応はミエリン鞘であり、これは電気絶縁体として機能し、軸索の直径が細くてもより速い伝導を可能にします。"
+    }
+  },
+  {
+    "page_number": 1125,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the provided text and Figure 48.14, which statement about myelin sheaths and Nodes of Ranvier is correct?",
+      "zh": "根据所提供的文本和图48.14，关于髓鞘和郎飞结的哪项陈述是正确的？",
+      "es": "Basándose en el texto proporcionado y la Figura 48.14, ¿qué afirmación sobre las vainas de mielina y los Nodos de Ranvier es correcta?",
+      "fr": "D'après le texte fourni et la Figure 48.14, quelle affirmation concernant les gaines de myéline et les Nœuds de Ranvier est correcte ?",
+      "de": "Basierend auf dem bereitgestellten Text und Abbildung 48.14, welche Aussage über Myelinscheiden und Ranvier-Schnürringe ist korrekt?",
+      "ja": "提供されたテキストと図48.14に基づいて、ミエリン鞘とランヴィエ絞輪に関する記述のうち正しいのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Myelin sheaths are formed by neurons themselves and are primarily composed of protein, facilitating continuous action potential propagation along the entire axon.",
+          "zh": "髓鞘由神经元自身形成，主要由蛋白质组成，促进动作电位沿整个轴突的连续传播。",
+          "es": "Las vainas de mielina son formadas por las propias neuronas y están compuestas principalmente de proteínas, facilitando la propagación continua del potencial de acción a lo largo de todo el axón.",
+          "fr": "Les gaines de myéline sont formées par les neurones eux-mêmes et sont principalement composées de protéines, facilitant la propagation continue du potentiel d'action le long de tout l'axone.",
+          "de": "Myelinscheiden werden von Neuronen selbst gebildet und bestehen hauptsächlich aus Protein, was eine kontinuierliche Aktionspotentialausbreitung entlang des gesamten Axons ermöglicht.",
+          "ja": "ミエリン鞘はニューロン自身によって形成され、主にタンパク質から構成され、活動電位の軸索全体に沿った連続的な伝播を促進する。"
+        },
+        "feedback": {
+          "en": "Myelin is formed by glia (Schwann cells/oligodendrocytes), is mostly lipid, and enables saltatory (jumping) not continuous conduction.",
+          "zh": "髓鞘由神经胶质细胞（施万细胞/少突胶质细胞）形成，主要由脂质组成，并实现跳跃式（而非连续）传导。",
+          "es": "La mielina es formada por glía (células de Schwann/oligodendrocitos), es principalmente lípido, y permite la conducción saltatoria (saltando), no continua.",
+          "fr": "La myéline est formée par les cellules gliales (cellules de Schwann/oligodendrocytes), est majoritairement lipidique, et permet une conduction saltatoire (sautante) et non continue.",
+          "de": "Myelin wird von Gliazellen (Schwann-Zellen/Oligodendrozyten) gebildet, besteht hauptsächlich aus Lipid und ermöglicht eine saltatorische (springende), nicht kontinuierliche Leitung.",
+          "ja": "ミエリンはグリア細胞（シュワン細胞/希突起膠細胞）によって形成され、主に脂質からなり、連続的ではなく跳躍伝導を可能にする。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Nodes of Ranvier are regions where the myelin sheath is absent, and voltage-gated sodium channels are concentrated, allowing action potentials to \"jump\" from node to node.",
+          "zh": "郎飞结是髓鞘缺失的区域，电压门控钠通道在此处高度集中，使得动作电位可以“跳跃”式地从一个郎飞结传导到下一个。",
+          "es": "Los Nodos de Ranvier son regiones donde la vaina de mielina está ausente, y los canales de sodio dependientes de voltaje están concentrados, permitiendo que los potenciales de acción \"salten\" de nodo a nodo.",
+          "fr": "Les Nœuds de Ranvier sont des régions où la gaine de myéline est absente et où les canaux sodiques voltage-dépendants sont concentrés, permettant aux potentiels d'action de « sauter » d'un nœud à l'autre.",
+          "de": "Ranvier-Schnürringe sind Bereiche, in denen die Myelinscheide fehlt und spannungsgesteuerte Natriumkanäle konzentriert sind, wodurch Aktionspotentiale von Schnürring zu Schnürring „springen“ können.",
+          "ja": "ランヴィエ絞輪はミエリン鞘が存在しない領域であり、電位依存性ナトリウムチャネルが集中しているため、活動電位は節から節へと「跳躍」して伝播する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "In the PNS, oligodendrocytes are responsible for forming the myelin sheath, while Schwann cells myelinate axons in the CNS.",
+          "zh": "在周围神经系统（PNS）中，少突胶质细胞负责形成髓鞘，而施万细胞则在中枢神经系统（CNS）中使轴突髓鞘化。",
+          "es": "En el SNP, los oligodendrocitos son responsables de formar la vaina de mielina, mientras que las células de Schwann mielinizan los axones en el SNC.",
+          "fr": "Dans le SNP, les oligodendrocytes sont responsables de la formation de la gaine de myéline, tandis que les cellules de Schwann myélinisent les axones dans le SNC.",
+          "de": "Im PNS sind Oligodendrozyten für die Bildung der Myelinscheide verantwortlich, während Schwann-Zellen Axone im ZNS myelinisieren.",
+          "ja": "PNSではオリゴデンドロサイトがミエリン鞘の形成を担当し、シュワン細胞はCNSの軸索をミエリン化する。"
+        },
+        "feedback": {
+          "en": "The roles are reversed: Oligodendrocytes myelinate in the CNS, and Schwann cells myelinate in the PNS.",
+          "zh": "角色反了：少突胶质细胞在中枢神经系统（CNS）中髓鞘化，施万细胞在周围神经系统（PNS）中髓鞘化。",
+          "es": "Los roles están invertidos: los oligodendrocitos mielinizan en el SNC, y las células de Schwann mielinizan en el SNP.",
+          "fr": "Les rôles sont inversés : les oligodendrocytes myélinisent dans le SNC, et les cellules de Schwann myélinisent dans le SNP.",
+          "de": "Die Rollen sind vertauscht: Oligodendrozyten myelinisieren im ZNS, und Schwann-Zellen myelinisieren im PNS.",
+          "ja": "役割が逆です。オリゴデンドロサイトはCNSでミエリン化を行い、シュワン細胞はPNSでミエリン化を行います。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The TEM image in Figure 48.14 shows that the myelin sheath is a single layer of membrane that tightly adheres to the axon without any gaps.",
+          "zh": "图48.14中的透射电镜图像显示髓鞘是紧密附着在轴突上的单层膜，没有任何间隙。",
+          "es": "La imagen TEM en la Figura 48.14 muestra que la vaina de mielina es una sola capa de membrana que se adhiere firmemente al axón sin espacios.",
+          "fr": "L'image TEM de la Figure 48.14 montre que la gaine de myéline est une seule couche de membrane qui adhère étroitement à l'axone sans aucune lacune.",
+          "de": "Das TEM-Bild in Abbildung 48.14 zeigt, dass die Myelinscheide eine einzelne Membranschicht ist, die ohne Lücken fest am Axon haftet.",
+          "ja": "図48.14のTEM画像は、ミエリン鞘が軸索に隙間なく密着した単一の膜層であることを示している。"
+        },
+        "feedback": {
+          "en": "The text states myelin is \"many layers of membrane\" and Figure 48.14 shows \"Layers of myelin\" and \"Nodes of Ranvier\" (gaps).",
+          "zh": "文本指出髓鞘是“多层膜”，图48.14显示“髓鞘层”和“郎飞结”（间隙）。",
+          "es": "El texto afirma que la mielina son \"muchas capas de membrana\" y la Figura 48.14 muestra \"Capas de mielina\" y \"Nodos de Ranvier\" (espacios).",
+          "fr": "Le texte indique que la myéline est constituée de « nombreuses couches de membrane » et la Figure 48.14 montre des « couches de myéline » et des « Nœuds de Ranvier » (lacunes).",
+          "de": "Der Text besagt, dass Myelin „viele Membranschichten“ sind, und Abbildung 48.14 zeigt „Myelinschichten“ und „Ranvier-Schnürringe“ (Lücken).",
+          "ja": "テキストにはミエリンが「多くの膜層」であると記載されており、図48.14には「ミエリンの層」と「ランヴィエ絞輪（隙間）」が示されている。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Nodes of Ranvier are critical for saltatory conduction because they are the only points where voltage-gated sodium channels are abundant and action potentials can be regenerated, allowing the signal to jump along the axon, as described in the text and illustrated in the figure.",
+      "zh": "郎飞结对于跳跃式传导至关重要，因为它们是唯一电压门控钠通道丰富并能再生动作电位的点，从而使信号沿轴突跳跃传导，正如文本所描述和图所示。",
+      "es": "Los Nodos de Ranvier son críticos para la conducción saltatoria porque son los únicos puntos donde los canales de sodio dependientes de voltaje son abundantes y los potenciales de acción pueden regenerarse, permitiendo que la señal salte a lo largo del axón, como se describe en el texto e ilustra en la figura.",
+      "fr": "Les Nœuds de Ranvier sont cruciaux pour la conduction saltatoire car ce sont les seuls points où les canaux sodiques voltage-dépendants sont abondants et où les potentiels d'action peuvent être régénérés, permettant au signal de sauter le long de l'axone, comme décrit dans le texte et illustré dans la figure.",
+      "de": "Ranvier-Schnürringe sind für die saltatorische Leitung entscheidend, da sie die einzigen Stellen sind, an denen spannungsgesteuerte Natriumkanäle reichlich vorhanden sind und Aktionspotentiale regeneriert werden können, wodurch das Signal entlang des Axons springen kann, wie im Text beschrieben und in der Abbildung dargestellt.",
+      "ja": "ランヴィエ絞輪は跳躍伝導にとって極めて重要です。なぜなら、それらは電位依存性ナトリウムチャネルが豊富に存在し、活動電位が再生成される唯一の点であり、信号が軸索に沿って跳躍して伝播することを可能にするからです。これはテキストで記述され、図に示されています。"
+    }
+  }
+]

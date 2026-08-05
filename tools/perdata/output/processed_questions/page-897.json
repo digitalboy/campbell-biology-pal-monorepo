@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 897,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary reason for the unidirectional (polar) transport of auxin from the shoot tip to the base?",
+      "zh": "生长素从茎尖到基部单向（极性）运输的主要原因是什么？",
+      "es": "Cuál es la razón principal del transporte unidireccional (polar) de auxina desde la punta del brote hasta la base?",
+      "fr": "Quelle est la raison principale du transport unidirectionnel (polaire) de l'auxine de l'extrémité du limbe à la base?",
+      "de": "Was ist der Hauptgrund für den unidirektionalen (polaren) Transport von Auxin von der Sprossspitze zur Basis?",
+      "ja": "オーキシンがシュート先端から基部へ一方向（極性）に輸送される主な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Auxin is denser than other plant hormones, causing it to sink.",
+          "zh": "生长素比其他植物激素密度更大，导致其下沉。",
+          "es": "La auxina es más densa que otras hormonas vegetales, lo que provoca que se hunda.",
+          "fr": "L'auxine est plus dense que les autres hormones végétales, ce qui la fait couler.",
+          "de": "Auxin ist dichter als andere Pflanzenhormone, wodurch es absinkt.",
+          "ja": "オーキシンは他の植物ホルモンよりも密度が高いため、沈降する。"
+        },
+        "feedback": {
+          "en": "Auxin transport is an active process not dependent on density.",
+          "zh": "生长素运输是一个主动过程，不依赖于密度。",
+          "es": "El transporte de auxina es un proceso activo que no depende de la densidad.",
+          "fr": "Le transport de l'auxine est un processus actif qui ne dépend pas de la densité.",
+          "de": "Der Auxintransport ist ein aktiver Prozess, der nicht von der Dichte abhängt.",
+          "ja": "オーキシンの輸送は密度に依存しない能動的なプロセスです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The plant's vascular tissue is designed to only allow downward flow.",
+          "zh": "植物的维管组织被设计成只允许向下流动。",
+          "es": "El tejido vascular de la planta está diseñado para permitir únicamente el flujo descendente.",
+          "fr": "Le tissu vasculaire de la plante est conçu pour ne permettre que le flux descendant.",
+          "de": "Das Gefäßgewebe der Pflanze ist so konstruiert, dass es nur den Abwärtsfluss erlaubt.",
+          "ja": "植物の維管束組織は、下向きの流れのみを許容するように設計されている。"
+        },
+        "feedback": {
+          "en": "While the overall flow is downward, this option is too general and doesn't explain the specific mechanism of auxin polarity.",
+          "zh": "虽然总体流动是向下，但此选项过于笼统，未能解释生长素极性的具体机制。",
+          "es": "Si bien el flujo general es hacia abajo, esta opción es demasiado general y no explica el mecanismo específico de la polaridad de la auxina.",
+          "fr": "Bien que le flux global soit descendant, cette option est trop générale et n'explique pas le mécanisme spécifique de la polarité de l'auxine.",
+          "de": "Obwohl der Gesamtfluss abwärts gerichtet ist, ist diese Option zu allgemein und erklärt nicht den spezifischen Mechanismus der Auxinpolarität.",
+          "ja": "全体的な流れは下向きですが、この選択肢は一般的すぎ、オーキシン極性の特定のメカニズムを説明していません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Auxin transport proteins are primarily localized at the basal ends of cells, facilitating one-way movement.",
+          "zh": "生长素运输蛋白主要定位于细胞的基部，促进单向运动。",
+          "es": "Las proteínas transportadoras de auxina se localizan principalmente en los extremos basales de las células, facilitando el movimiento unidireccional.",
+          "fr": "Les protéines de transport de l'auxine sont principalement localisées aux extrémités basales des cellules, facilitant un mouvement unidirectionnel.",
+          "de": "Auxintransportproteine sind hauptsächlich an den basalen Enden der Zellen lokalisiert und erleichtern eine Einwegbewegung.",
+          "ja": "オーキシン輸送タンパク質は主に細胞の基部末端に局在し、一方向の動きを促進する。"
+        },
+        "feedback": {
+          "en": "Correct. This polarized distribution of transport proteins at the basal end of cells is key to the unidirectional flow of auxin.",
+          "zh": "正确。运输蛋白在细胞基部的这种极化分布是生长素单向流动的关键。",
+          "es": "Correcto. Esta distribución polarizada de las proteínas transportadoras en el extremo basal de las células es clave para el flujo unidireccional de la auxina.",
+          "fr": "Correct. Cette distribution polarisée des protéines de transport à l'extrémité basale des cellules est la clé du flux unidirectionnel de l'auxine.",
+          "de": "Richtig. Diese polarisierte Verteilung der Transportproteine am basalen Ende der Zellen ist entscheidend für den unidirektionalen Auxin-Fluss.",
+          "ja": "正しい。細胞の基部末端における輸送タンパク質のこの極性分布が、オーキシンの単方向流の鍵です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Gravity pulls auxin downwards within the plant cells.",
+          "zh": "重力将生长素向下牵引到植物细胞内。",
+          "es": "La gravedad arrastra la auxina hacia abajo dentro de las células vegetales.",
+          "fr": "La gravité attire l'auxine vers le bas à l'intérieur des cellules végétales.",
+          "de": "Die Schwerkraft zieht Auxin innerhalb der Pflanzenzellen nach unten.",
+          "ja": "重力が植物細胞内でオーキシンを下向きに引き寄せる。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that polar transport is 'unrelated to gravity'.",
+          "zh": "文本明确指出极性运输与“重力无关”。",
+          "es": "El texto afirma explícitamente que el transporte polar es 'independiente de la gravedad'.",
+          "fr": "Le texte indique explicitement que le transport polaire est 'sans rapport avec la gravité'.",
+          "de": "Der Text besagt ausdrücklich, dass der polare Transport 'unabhängig von der Schwerkraft' ist.",
+          "ja": "テキストには、極性輸送が「重力とは無関係」であると明示されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The passage explains that 'the polarity of auxin movement is attributable to the polar distribution of auxin transport protein in the cells. Concentrated at the basal end of a cell, the auxin transporters move the hormone out of the cell.' This specific localization ensures the unidirectional flow of auxin.",
+      "zh": "文章解释说：“生长素运动的极性归因于细胞中生长素运输蛋白的极性分布。生长素运输蛋白集中在细胞的基部，将激素移出细胞。”这种特定的定位确保了生长素的单向流动。",
+      "es": "El pasaje explica que 'la polaridad del movimiento de la auxina es atribuible a la distribución polar de la proteína transportadora de auxina en las células. Concentradas en el extremo basal de una célula, las transportadoras de auxina mueven la hormona fuera de la célula.' Esta localización específica asegura el flujo unidireccional de auxina.",
+      "fr": "Le passage explique que 'la polarité du mouvement de l'auxine est attribuable à la distribution polaire des protéines de transport de l'auxine dans les cellules. Concentrées à l'extrémité basale d'une cellule, les transporteurs d'auxine déplacent l'hormone hors de la cellule.' Cette localisation spécifique assure le flux unidirectionnel de l'auxine.",
+      "de": "Der Text erklärt: „Die Polarität der Auxinbewegung ist auf die polare Verteilung des Auxintransportproteins in den Zellen zurückzuführen. Konzentriert am basalen Ende einer Zelle, bewegen die Auxintransporter das Hormon aus der Zelle.“ Diese spezifische Lokalisation gewährleistet den unidirektionalen Auxinfluss.",
+      "ja": "本文は、「オーキシンの移動の極性は、細胞内のオーキシン輸送タンパク質の極性分布に起因する。細胞の基部末端に集中することで、オーキシン輸送体がホルモンを細胞外に移動させる。」と説明しています。この特定の局在がオーキシンの単方向の流れを保証します。"
+    }
+  },
+  {
+    "page_number": 897,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "If auxin transport proteins were equally distributed at both ends (apical and basal) of the plant cells, how would this affect polar auxin transport, and why?",
+      "zh": "如果生长素运输蛋白在植物细胞的两端（顶端和基部）均匀分布，这将如何影响生长素的极性运输，为什么？",
+      "es": "Si las proteínas transportadoras de auxina se distribuyeran equitativamente en ambos extremos (apical y basal) de las células vegetales, ¿cómo afectaría esto al transporte polar de auxina y por qué?",
+      "fr": "Si les protéines de transport de l'auxine étaient également distribuées aux deux extrémités (apicale et basale) des cellules végétales, comment cela affecterait-il le transport polaire de l'auxine, et pourquoi?",
+      "de": "Wenn Auxintransportproteine an beiden Enden (apikal und basal) der Pflanzenzellen gleichmäßig verteilt wären, wie würde dies den polaren Auxintransport beeinflussen und warum?",
+      "ja": "オーキシン輸送タンパク質が植物細胞の両端（先端と基部）に均等に分布していた場合、オーキシンの極性輸送はどのように影響を受けますか、またその理由は？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Polar transport would still occur, but at a slower rate, as distribution only affects efficiency.",
+          "zh": "极性运输仍会发生，但速度会减慢，因为分布只影响效率。",
+          "es": "El transporte polar seguiría ocurriendo, pero a un ritmo más lento, ya que la distribución solo afecta la eficiencia.",
+          "fr": "Le transport polaire se produirait toujours, mais à un rythme plus lent, car la distribution n'affecte que l'efficacité.",
+          "de": "Der polare Transport würde weiterhin stattfinden, aber mit einer langsameren Rate, da die Verteilung nur die Effizienz beeinflusst.",
+          "ja": "分布は効率にのみ影響するため、極性輸送は引き続き発生するが、速度は遅くなる。"
+        },
+        "feedback": {
+          "en": "Equal distribution would abolish polarity, not just reduce efficiency. Directionality is lost.",
+          "zh": "均匀分布会消除极性，而不仅仅是降低效率。方向性会丧失。",
+          "es": "La distribución equitativa anularía la polaridad, no solo reduciría la eficiencia. La direccionalidad se perdería.",
+          "fr": "Une distribution égale abolirait la polarité, et pas seulement en réduirait l'efficacité. La direccionalité serait perdue.",
+          "de": "Eine gleichmäßige Verteilung würde die Polarität aufheben, nicht nur die Effizienz reduzieren. Die Direktionalität ginge verloren.",
+          "ja": "均等な分布は極性を排除し、効率を低下させるだけではありません。方向性が失われます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Polar transport would cease because auxin would exit both ends of the cell, preventing a directional flow.",
+          "zh": "极性运输将停止，因为生长素会从细胞两端排出，从而阻止定向流动。",
+          "es": "El transporte polar cesaría porque la auxina saldría por ambos extremos de la célula, impidiendo un flujo direccional.",
+          "fr": "Le transport polaire cesserait car l'auxine sortirait par les deux extrémités de la cellule, empêchant un flux directionnel.",
+          "de": "Der polare Transport würde aufhören, da Auxin an beiden Enden der Zelle austreten würde, was einen gerichteten Fluss verhindert.",
+          "ja": "オーキシンが細胞の両端から排出され、指向性のある流れが妨げられるため、極性輸送は停止する。"
+        },
+        "feedback": {
+          "en": "Correct. Polar transport relies on the asymmetrical distribution of transport proteins to create a net unidirectional flow. Without this, no polar transport would occur.",
+          "zh": "正确。极性运输依赖于运输蛋白的不对称分布来产生净单向流动。没有这一点，就不会发生极性运输。",
+          "es": "Correcto. El transporte polar depende de la distribución asimétrica de las proteínas transportadoras para crear un flujo unidireccional neto. Sin esto, no habría transporte polar.",
+          "fr": "Correct. Le transport polaire repose sur la distribution asymétrique des protéines de transport pour créer un flux unidirectionnel net. Sans cela, aucun transport polaire ne se produirait.",
+          "de": "Richtig. Der polare Transport beruht auf der asymmetrischen Verteilung von Transportproteinen, um einen gerichteten Nettostrom zu erzeugen. Ohne dies würde kein polarer Transport stattfinden.",
+          "ja": "正しい。極性輸送は、正味の一方向の流れを生み出すための輸送タンパク質の非対称分布に依存しています。これがなければ、極性輸送は発生しません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Auxin transport would reverse, flowing from base to tip, because the basal proteins would then act as apical.",
+          "zh": "生长素运输会反向，从基部流向尖端，因为基部蛋白会充当顶端蛋白。",
+          "es": "El transporte de auxina se revertiría, fluyendo de la base a la punta, porque las proteínas basales actuarían entonces como apicales.",
+          "fr": "Le transport de l'auxine s'inverserait, coulant de la base à l'extrémité, car les protéines basales agiraient alors comme des protéines apicales.",
+          "de": "Der Auxintransport würde sich umkehren und von der Basis zur Spitze fließen, da die basalen Proteine dann als apikale wirken würden.",
+          "ja": "オーキシンの輸送は逆転し、基部から先端へ流れるようになる。なぜなら、基部タンパク質が先端タンパク質として機能するようになるからである。"
+        },
+        "feedback": {
+          "en": "The function of auxin transport proteins is specific to their type and orientation, not simply reversible by location.",
+          "zh": "生长素运输蛋白的功能是其类型和方向所特有的，并非简单地通过位置可逆。",
+          "es": "La función de las proteínas transportadoras de auxina es específica de su tipo y orientación, no simplemente reversible por ubicación.",
+          "fr": "La fonction des protéines de transport de l'auxine est spécifique à leur type et à leur orientation, et non simplement réversible par leur emplacement.",
+          "de": "Die Funktion von Auxintransportproteinen ist spezifisch für ihren Typ und ihre Ausrichtung und nicht einfach durch den Ort umkehrbar.",
+          "ja": "オーキシン輸送タンパク質の機能は、その種類と方向性に特有であり、単に位置によって逆転するものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Auxin would accumulate within cells, as it could not exit efficiently from either end.",
+          "zh": "生长素会在细胞内积累，因为它无法有效地从两端排出。",
+          "es": "La auxina se acumularía dentro de las células, ya que no podría salir eficientemente por ninguno de los extremos.",
+          "fr": "L'auxine s'accumulerait à l'intérieur des cellules, car elle ne pourrait pas sortir efficacement par l'une ou l'autre extrémité.",
+          "de": "Auxin würde sich in den Zellen ansammeln, da es an keinem Ende effizient austreten könnte.",
+          "ja": "オーキシンは細胞内に蓄積し、どちらの端からも効率的に排出されなくなる。"
+        },
+        "feedback": {
+          "en": "Auxin would still exit cells; the problem is the lack of directionality, not an inability to exit.",
+          "zh": "生长素仍会离开细胞；问题在于缺乏方向性，而不是无法离开。",
+          "es": "La auxina seguiría saliendo de las células; el problema es la falta de direccionalidad, no la incapacidad de salir.",
+          "fr": "L'auxine sortirait toujours des cellules ; le problème est l'absence de directionnalité, et non une incapacité à sortir.",
+          "de": "Auxin würde die Zellen immer noch verlassen; das Problem ist der Mangel an Direktionalität, nicht die Unfähigkeit auszutreten.",
+          "ja": "オーキシンは細胞から排出されます。問題は方向性の欠如であり、排出能力の欠如ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The passage states that the polarity of auxin movement is due to the 'polar distribution of auxin transport protein in the cells. Concentrated at the basal end of a cell, the auxin transporters move the hormone out of the cell. The auxin can then enter the apical end of the neighboring cell'. If these proteins were equally distributed, auxin would be transported out of both ends of the cell, preventing a net unidirectional flow and thus abolishing polar transport.",
+      "zh": "文章指出，生长素运动的极性是由于“细胞中生长素运输蛋白的极性分布”造成的。“生长素运输蛋白集中在细胞的基部，将激素移出细胞。然后，生长素可以进入相邻细胞的顶端。”如果这些蛋白均匀分布，生长素将从细胞的两端排出，从而阻止净单向流动，进而消除极性运输。",
+      "es": "El pasaje afirma que la polaridad del movimiento de la auxina se debe a la 'distribución polar de la proteína transportadora de auxina en las células. Concentradas en el extremo basal de una célula, las transportadoras de auxina mueven la hormona fuera de la célula. La auxina puede entonces entrar por el extremo apical de la célula vecina'. Si estas proteínas estuvieran distribuidas equitativamente, la auxina sería transportada fuera de ambos extremos de la célula, impidiendo un flujo unidireccional neto y, por lo tanto, anulando el transporte polar.",
+      "fr": "Le passage indique que la polarité du mouvement de l'auxine est due à la 'distribution polaire des protéines de transport de l'auxine dans les cellules. Concentrées à l'extrémité basale d'une cellule, les transporteurs d'auxine déplacent l'hormone hors de la cellule. L'auxine peut alors entrer par l'extrémité apicale de la cellule voisine'. Si ces protéines étaient également distribuées, l'auxine serait transportée hors des deux extrémités de la cellule, empêchant un flux unidirectionnel net et abolissant ainsi le transport polaire.",
+      "de": "Der Text besagt, dass die Polarität der Auxinbewegung auf die „polare Verteilung des Auxintransportproteins in den Zellen“ zurückzuführen ist. „Konzentriert am basalen Ende einer Zelle, bewegen die Auxintransporter das Hormon aus der Zelle. Das Auxin kann dann in das apikale Ende der benachbarten Zelle eintreten.“ Wären diese Proteine gleichmäßig verteilt, würde Auxin aus beiden Enden der Zelle transportiert, was einen gerichteten Nettostrom verhindern und somit den polaren Transport aufheben würde.",
+      "ja": "本文は、オーキシンの移動の極性が「細胞内のオーキシン輸送タンパク質の極性分布」によるものであると述べています。「細胞の基部末端に集中することで、オーキシン輸送体がホルモンを細胞外に移動させる。その後、オーキシンは隣接する細胞の先端末端に入ることができる」。これらのタンパク質が均等に分布していた場合、オーキシンは細胞の両端から輸送され、正味の一方向の流れが妨げられ、極性輸送が停止します。"
+    }
+  },
+  {
+    "page_number": 897,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the acid growth hypothesis, what is the direct role of expansins in plant cell elongation?",
+      "zh": "根据酸性生长假说，膨胀素在植物细胞伸长中的直接作用是什么？",
+      "es": "Según la hipótesis del crecimiento ácido, ¿cuál es el papel directo de las expansinas en la elongación de las células vegetales?",
+      "fr": "Selon l'hypothèse de la croissance acide, quel est le rôle direct des expansines dans l'élongation des cellules végétales?",
+      "de": "Welche direkte Rolle spielen Expansine gemäß der Säurewachstumshypothese bei der Pflanzenzellstreckung?",
+      "ja": "酸成長仮説によると、植物細胞伸長におけるエクスパンシンの直接的な役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They act as proton pumps, increasing H+ concentration in the cell wall.",
+          "zh": "它们充当质子泵，增加细胞壁中的H+浓度。",
+          "es": "Actúan como bombas de protones, aumentando la concentración de H+ en la pared celular.",
+          "fr": "Elles agissent comme des pompes à protons, augmentant la concentration de H+ dans la paroi cellulaire.",
+          "de": "Sie wirken als Protonenpumpen und erhöhen die H+-Konzentration in der Zellwand.",
+          "ja": "それらはプロトンポンプとして機能し、細胞壁内のH+濃度を増加させる。"
+        },
+        "feedback": {
+          "en": "Proton (H+) pumps, stimulated by auxin, increase H+ concentration, which then activates expansins.",
+          "zh": "由生长素刺激的质子（H+）泵增加H+浓度，从而激活膨胀素。",
+          "es": "Las bombas de protones (H+), estimuladas por la auxina, aumentan la concentración de H+, lo que luego activa las expansinas.",
+          "fr": "Les pompes à protons (H+), stimulées par l'auxine, augmentent la concentration de H+, ce qui active ensuite les expansines.",
+          "de": "Protonenpumpen (H+), stimuliert durch Auxin, erhöhen die H+-Konzentration, die dann Expansine aktiviert.",
+          "ja": "オーキシンによって刺激されるプロトン（H+）ポンプがH+濃度を増加させ、それがエクスパンシンを活性化します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They bind to nuclear receptors, stimulating cell growth directly.",
+          "zh": "它们结合核受体，直接刺激细胞生长。",
+          "es": "Se unen a receptores nucleares, estimulando directamente el crecimiento celular.",
+          "fr": "Elles se lient aux récepteurs nucléaires, stimulant directement la croissance cellulaire.",
+          "de": "Sie binden an Kernrezeptoren und stimulieren das Zellwachstum direkt.",
+          "ja": "それらは核受容体に結合し、細胞成長を直接刺激する。"
+        },
+        "feedback": {
+          "en": "Auxin binds to nuclear receptors; expansins act on the cell wall.",
+          "zh": "生长素结合核受体；膨胀素作用于细胞壁。",
+          "es": "La auxina se une a los receptores nucleares; las expansinas actúan sobre la pared celular.",
+          "fr": "L'auxine se lie aux récepteurs nucléaires ; les expansines agissent sur la paroi cellulaire.",
+          "de": "Auxin bindet an Kernrezeptoren; Expansine wirken auf die Zellwand.",
+          "ja": "オーキシンは核受容体に結合します。エクスパンシンは細胞壁に作用します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They break cross-links between cellulose microfibrils and other cell wall constituents, loosening the wall.",
+          "zh": "它们断裂纤维素微纤维与其他细胞壁成分之间的交联，使细胞壁松弛。",
+          "es": "Rompen los enlaces cruzados entre las microfibrillas de celulosa y otros componentes de la pared celular, aflojando la pared.",
+          "fr": "Elles rompent les liaisons transversales entre les microfibrilles de cellulose et d'autres constituants de la paroi cellulaire, assouplissant la paroi.",
+          "de": "Sie brechen Querverbindungen zwischen Cellulose-Mikrofibrillen und anderen Zellwandbestandteilen auf, wodurch die Wand gelockert wird.",
+          "ja": "セルロースミクロフィブリルと他の細胞壁成分間の架橋を切断し、細胞壁を緩める。"
+        },
+        "feedback": {
+          "en": "Correct. This is the described mechanism by which expansins contribute to cell elongation under acidic conditions.",
+          "zh": "正确。这是在酸性条件下膨胀素促进细胞伸长的描述机制。",
+          "es": "Correcto. Este es el mecanismo descrito por el cual las expansinas contribuyen a la elongación celular en condiciones ácidas.",
+          "fr": "Correct. C'est le mécanisme décrit par lequel les expansines contribuent à l'élongation cellulaire en conditions acides.",
+          "de": "Richtig. Dies ist der beschriebene Mechanismus, durch den Expansine unter sauren Bedingungen zur Zellstreckung beitragen.",
+          "ja": "正しい。これは、酸性条件下でエクスパンシンが細胞伸長に寄与するメカニズムとして説明されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They enhance ion uptake into the cell, increasing turgor pressure.",
+          "zh": "它们增强细胞对离子的吸收，增加膨压。",
+          "es": "Mejoran la absorción de iones en la célula, aumentando la presión de turgencia.",
+          "fr": "Elles améliorent l'absorption d'ions dans la cellule, augmentant la pression de turgescence.",
+          "de": "Sie verbessern die Ionenaufnahme in die Zelle und erhöhen den Turgordruck.",
+          "ja": "それらは細胞へのイオン取り込みを促進し、膨圧を増加させる。"
+        },
+        "feedback": {
+          "en": "Increased membrane potential, resulting from H+ pumping, enhances ion uptake and turgor, but this is not the direct action of expansins.",
+          "zh": "H+泵浦导致的膜电位增加会增强离子吸收和膨压，但这并非膨胀素的直接作用。",
+          "es": "El aumento del potencial de membrana, resultante del bombeo de H+, mejora la absorción de iones y la turgencia, pero esta no es la acción directa de las expansinas.",
+          "fr": "L'augmentation du potentiel membranaire, résultant du pompage de H+, améliore l'absorption d'ions et la turgescence, mais ce n'est pas l'action directe des expansines.",
+          "de": "Ein erhöhtes Membranpotential, das durch die H+-Pumpen entsteht, verbessert die Ionenaufnahme und den Turgor, aber dies ist nicht die direkte Wirkung von Expansinen.",
+          "ja": "H+ポンプによる膜電位の増加は、イオン取り込みと膨圧を促進しますが、これはエクスパンシンの直接的な作用ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The passage states that 'Acidification of the wall activates proteins called expansins that break the cross-links (hydrogen bonds) between cellulose microfibrils and other cell wall constituents, loosening the wall's fabric'. This loosening allows the cell to expand due to turgor pressure.",
+      "zh": "文章指出，“细胞壁酸化会激活一种名为膨胀素的蛋白质，它能断裂纤维素微纤维与其他细胞壁成分之间的交联（氢键），使细胞壁结构松弛”。这种松弛使得细胞能够因膨压而膨胀。",
+      "es": "El pasaje afirma que 'la acidificación de la pared activa proteínas llamadas expansinas que rompen los enlaces cruzados (enlaces de hidrógeno) entre las microfibrillas de celulosa y otros constituyentes de la pared celular, aflojando la estructura de la pared'. Este aflojamiento permite que la célula se expanda debido a la presión de turgencia.",
+      "fr": "Le passage stipule que 'l'acidification de la paroi active des protéines appelées expansines qui rompent les liaisons transversales (liaisons hydrogène) entre les microfibrilles de cellulose et d'autres constituants de la paroi cellulaire, desserrant ainsi la structure de la paroi'. Ce relâchement permet à la cellule de s'étendre sous l'effet de la pression de turgescence.",
+      "de": "Der Text besagt, dass „die Ansäuerung der Wand Proteine namens Expansine aktiviert, die die Querverbindungen (Wasserstoffbrückenbindungen) zwischen Cellulose-Mikrofibrillen und anderen Zellwandbestandteilen aufbrechen und so das Gewebe der Wand lockern“. Diese Lockerung ermöglicht es der Zelle, sich aufgrund des Turgordrucks auszudehnen.",
+      "ja": "本文は、「細胞壁の酸性化は、セルロースミクロフィブリルと他の細胞壁成分間の架橋（水素結合）を切断し、細胞壁の組織を緩めるエクスパンシンと呼ばれるタンパク質を活性化する」と述べています。この緩みが、膨圧によって細胞が膨張することを可能にします。"
+    }
+  },
+  {
+    "page_number": 897,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which statement accurately describes the effect of auxin concentration on cell elongation?",
+      "zh": "以下哪项陈述准确描述了生长素浓度对细胞伸长的影响？",
+      "es": "Qué afirmación describe con precisión el efecto de la concentración de auxina en la elongación celular?",
+      "fr": "Quelle affirmation décrit avec précision l'effet de la concentration d'auxine sur l'élongation cellulaire?",
+      "de": "Welche Aussage beschreibt genau den Einfluss der Auxinkonzentration auf die Zellstreckung?",
+      "ja": "オーキシン濃度が細胞伸長に及ぼす影響を正確に記述しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Auxin stimulates growth at all concentrations, with higher concentrations leading to faster growth.",
+          "zh": "生长素在所有浓度下都能刺激生长，浓度越高生长越快。",
+          "es": "La auxina estimula el crecimiento en todas las concentraciones, y concentraciones más altas conducen a un crecimiento más rápido.",
+          "fr": "L'auxine stimule la croissance à toutes les concentrations, les concentrations plus élevées entraînant une croissance plus rapide.",
+          "de": "Auxin stimuliert das Wachstum bei allen Konzentrationen, wobei höhere Konzentrationen zu schnellerem Wachstum führen.",
+          "ja": "オーキシンはすべての濃度で成長を促進し、高濃度ほど成長が速くなる。"
+        },
+        "feedback": {
+          "en": "This is incorrect; auxin inhibits growth at very high concentrations.",
+          "zh": "这是不正确的；生长素在非常高的浓度下会抑制生长。",
+          "es": "Esto es incorrecto; la auxina inhibe el crecimiento en concentraciones muy altas.",
+          "fr": "C'est incorrect; l'auxine inhibe la croissance à des concentrations très élevées.",
+          "de": "Dies ist falsch; Auxin hemmt das Wachstum bei sehr hohen Konzentrationen.",
+          "ja": "これは正しくありません。オーキシンは非常に高濃度では成長を阻害します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Auxin only inhibits cell elongation, regardless of concentration.",
+          "zh": "生长素只抑制细胞伸长，与浓度无关。",
+          "es": "La auxina solo inhibe la elongación celular, independientemente de la concentración.",
+          "fr": "L'auxine n'inhibe l'élongation cellulaire, quelle que soit sa concentration.",
+          "de": "Auxin hemmt die Zellstreckung nur, unabhängig von der Konzentration.",
+          "ja": "オーキシンは濃度に関係なく、細胞伸長のみを阻害する。"
+        },
+        "feedback": {
+          "en": "This is incorrect; auxin primarily stimulates cell elongation.",
+          "zh": "这是不正确的；生长素主要刺激细胞伸长。",
+          "es": "Esto es incorrecto; la auxina estimula principalmente la elongación celular.",
+          "fr": "C'est incorrect; l'auxine stimule principalement l'élongation cellulaire.",
+          "de": "Dies ist falsch; Auxin stimuliert hauptsächlich die Zellstreckung.",
+          "ja": "これは正しくありません。オーキシンは主に細胞伸長を刺激します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Auxin stimulates growth only over a certain concentration range (10^-8 to 10^-4 M), inhibiting it at higher concentrations.",
+          "zh": "生长素仅在特定浓度范围（10^-8至10^-4 M）内刺激生长，在更高浓度下则会抑制生长。",
+          "es": "La auxina estimula el crecimiento solo en un cierto rango de concentración (10^-8 a 10^-4 M), inhibiéndolo en concentraciones más altas.",
+          "fr": "L'auxine stimule la croissance uniquement sur une certaine plage de concentration (10^-8 à 10^-4 M), l'inhibant à des concentrations plus élevées.",
+          "de": "Auxin stimuliert das Wachstum nur in einem bestimmten Konzentrationsbereich (10^-8 bis 10^-4 M) und hemmt es bei höheren Konzentrationen.",
+          "ja": "オーキシンは特定の濃度範囲（10^-8〜10^-4 M）でのみ成長を促進し、それ以上の濃度では成長を阻害する。"
+        },
+        "feedback": {
+          "en": "Correct. This accurately reflects the dual effect of auxin based on its concentration.",
+          "zh": "正确。这准确地反映了生长素根据其浓度的双重效应。",
+          "es": "Correcto. Esto refleja con precisión el doble efecto de la auxina según su concentración.",
+          "fr": "Correct. Cela reflète avec précision le double effet de l'auxine en fonction de sa concentration.",
+          "de": "Richtig. Dies spiegelt genau die doppelte Wirkung von Auxin in Abhängigkeit von seiner Konzentration wider.",
+          "ja": "正しい。これは、オーキシンの濃度に基づいた二重効果を正確に反映しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Auxin's effect on cell elongation is unrelated to its concentration.",
+          "zh": "生长素对细胞伸长的影响与其浓度无关。",
+          "es": "El efecto de la auxina en la elongación celular no está relacionado con su concentración.",
+          "fr": "L'effet de l'auxine sur l'élongation cellulaire est indépendant de sa concentration.",
+          "de": "Der Einfluss von Auxin auf die Zellstreckung ist unabhängig von seiner Konzentration.",
+          "ja": "オーキシンの細胞伸長への影響は、その濃度とは無関係である。"
+        },
+        "feedback": {
+          "en": "This is incorrect; concentration is a critical factor determining auxin's effect.",
+          "zh": "这是不正确的；浓度是决定生长素作用的关键因素。",
+          "es": "Esto es incorrecto; la concentración es un factor crítico que determina el efecto de la auxina.",
+          "fr": "C'est incorrect; la concentration est un facteur critique déterminant l'effet de l'auxine.",
+          "de": "Dies ist falsch; die Konzentration ist ein entscheidender Faktor für die Wirkung von Auxin.",
+          "ja": "これは正しくありません。濃度はオーキシンの効果を決定する重要な要素です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Auxin stimulates growth only over a certain concentration range, from about 10^-8 to 10^-4 M. At higher concentrations, auxin may inhibit cell elongation by inducing production of ethylene...'",
+      "zh": "文本明确指出：“生长素仅在特定浓度范围（约10^-8至10^-4 M）内刺激生长。在更高浓度下，生长素可能通过诱导乙烯产生来抑制细胞伸长……”",
+      "es": "El texto afirma explícitamente: 'La auxina estimula el crecimiento solo en un cierto rango de concentración, desde aproximadamente 10^-8 hasta 10^-4 M. A concentraciones más altas, la auxina puede inhibir la elongación celular induciendo la producción de etileno...'",
+      "fr": "Le texte indique explicitement : 'L'auxine stimule la croissance uniquement sur une certaine plage de concentration, d'environ 10^-8 à 10^-4 M. À des concentrations plus élevées, l'auxine peut inhiber l'élongation cellulaire en induisant la production d'éthylène...'",
+      "de": "Der Text besagt explizit: „Auxin stimuliert das Wachstum nur in einem bestimmten Konzentrationsbereich, etwa von 10^-8 bis 10^-4 M. Bei höheren Konzentrationen kann Auxin die Zellstreckung durch Induktion der Ethylenproduktion hemmen…“",
+      "ja": "本文は次のように明示しています：「オーキシンは、約10^-8から10^-4 Mという特定の濃度範囲でのみ成長を刺激します。高濃度では、オーキシンはエチレンの生産を誘導することにより、細胞伸長を阻害する可能性があります…」"
+    }
+  }
+]

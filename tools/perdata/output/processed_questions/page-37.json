@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 37,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements correctly distinguishes fermentation from cellular respiration (both aerobic and anaerobic) based on the provided content?",
+      "zh": "根据提供的内容，以下哪项陈述正确区分了发酵与细胞呼吸（有氧和无氧）？",
+      "es": "¿Cuál de las siguientes afirmaciones distingue correctamente la fermentación de la respiración celular (tanto aeróbica como anaeróbica) según el contenido proporcionado?",
+      "fr": "Laquelle des affirmations suivantes distingue correctement la fermentation de la respiration cellulaire (aérobie et anaérobie) selon le contenu fourni ?",
+      "de": "Welche der folgenden Aussagen unterscheidet die Fermentation korrekt von der Zellatmung (sowohl aerob als auch anaerob) basierend auf dem bereitgestellten Inhalt?",
+      "ja": "提供された内容に基づき、以下の記述のうち、発酵と細胞呼吸（好気性および嫌気性の両方）を正しく区別しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Fermentation always produces more ATP than cellular respiration.",
+          "zh": "发酵总是比细胞呼吸产生更多的ATP。",
+          "es": "La fermentación siempre produce más ATP que la respiración celular.",
+          "fr": "La fermentation produit toujours plus d'ATP que la respiration cellulaire.",
+          "de": "Fermentation produziert immer mehr ATP als Zellatmung.",
+          "ja": "発酵は常に細胞呼吸よりも多くのATPを生成します。"
+        },
+        "feedback": {
+          "en": "Fermentation produces far less ATP than aerobic cellular respiration.",
+          "zh": "发酵产生的ATP远少于有氧细胞呼吸。",
+          "es": "La fermentación produce mucho menos ATP que la respiración celular aeróbica.",
+          "fr": "La fermentation produit beaucoup moins d'ATP que la respiration cellulaire aérobie.",
+          "de": "Fermentation produziert weitaus weniger ATP als aerobe Zellatmung.",
+          "ja": "発酵は好気性細胞呼吸よりもはるかに少ないATPを生成します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Cellular respiration, unlike fermentation, can occur without oxygen.",
+          "zh": "细胞呼吸，与发酵不同，可以在没有氧气的情况下发生。",
+          "es": "La respiración celular, a diferencia de la fermentación, puede ocurrir sin oxígeno.",
+          "fr": "La respiration cellulaire, contrairement à la fermentation, peut se produire sans oxygène.",
+          "de": "Zellatmung kann im Gegensatz zur Fermentation auch ohne Sauerstoff stattfinden.",
+          "ja": "細胞呼吸は、発酵とは異なり、酸素なしでも起こりえます。"
+        },
+        "feedback": {
+          "en": "Anaerobic cellular respiration also occurs without oxygen, making this distinction incorrect.",
+          "zh": "无氧细胞呼吸也在没有氧气的情况下发生，因此这个区分不正确。",
+          "es": "La respiración celular anaeróbica también ocurre sin oxígeno, lo que hace que esta distinción sea incorrecta.",
+          "fr": "La respiration cellulaire anaérobie se produit également sans oxygène, ce qui rend cette distinction incorrecte.",
+          "de": "Anaerobe Zellatmung findet ebenfalls ohne Sauerstoff statt, was diese Unterscheidung falsch macht.",
+          "ja": "嫌気性細胞呼吸も酸素なしで起こるため、この区別は正しくありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Fermentation produces ATP without the use of oxygen, while aerobic cellular respiration requires oxygen.",
+          "zh": "发酵在不使用氧气的情况下产生ATP，而有氧细胞呼吸需要氧气。",
+          "es": "La fermentación produce ATP sin el uso de oxígeno, mientras que la respiración celular aeróbica requiere oxígeno.",
+          "fr": "La fermentation produit de l'ATP sans utiliser d'oxygène, tandis que la respiration cellulaire aérobie nécessite de l'oxygène.",
+          "de": "Fermentation produziert ATP ohne Sauerstoffverbrauch, während aerobe Zellatmung Sauerstoff benötigt.",
+          "ja": "発酵は酸素を使用せずにATPを生成し、好気性細胞呼吸は酸素を必要とします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Only fermentation involves glycolysis.",
+          "zh": "只有发酵涉及糖酵解。",
+          "es": "Solo la fermentación implica glucólisis.",
+          "fr": "Seule la fermentation implique la glycolyse.",
+          "de": "Nur die Fermentation beinhaltet Glykolyse.",
+          "ja": "解糖は発酵のみに関与します。"
+        },
+        "feedback": {
+          "en": "Glycolysis is the initial stage of both fermentation and cellular respiration.",
+          "zh": "糖酵解是发酵和细胞呼吸的初始阶段。",
+          "es": "La glucólisis es la etapa inicial tanto de la fermentación como de la respiración celular.",
+          "fr": "La glycolyse est l'étape initiale de la fermentation et de la respiration cellulaire.",
+          "de": "Die Glykolyse ist die Anfangsphase sowohl der Fermentation als auch der Zellatmung.",
+          "ja": "解糖は発酵と細胞呼吸の両方の初期段階です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Concept 9.5 states that 'Fermentation and anaerobic respiration enable cells to produce ATP without the use of oxygen.' This confirms fermentation produces ATP without oxygen. Aerobic cellular respiration, however, explicitly involves oxidative phosphorylation which requires oxygen. Glycolysis is common to both processes, and fermentation yields much less ATP than aerobic respiration.",
+      "zh": "概念9.5指出“发酵和无氧呼吸使细胞能够在不使用氧气的情况下产生ATP。”这证实了发酵在无氧条件下产生ATP。然而，有氧细胞呼吸明确涉及需要氧气的氧化磷酸化。糖酵解是这两种过程的共同点，并且发酵产生的ATP明显少于有氧呼吸。",
+      "es": "El Concepto 9.5 afirma que 'La fermentación y la respiración anaeróbica permiten a las células producir ATP sin el uso de oxígeno.' Esto confirma que la fermentación produce ATP sin oxígeno. La respiración celular aeróbica, sin embargo, implica explícitamente la fosforilación oxidativa que requiere oxígeno. La glucólisis es común a ambos procesos, y la fermentación produce significativamente menos ATP que la respiración aeróbica.",
+      "fr": "Le concept 9.5 indique que « La fermentation et la respiration anaérobie permettent aux cellules de produire de l'ATP sans utiliser d'oxygène. » Cela confirme que la fermentation produit de l'ATP sans oxygène. Cependant, la respiration cellulaire aérobie implique explicitement la phosphorylation oxydative qui nécessite de l'oxygène. La glycolyse est commune aux deux processus, et la fermentation produit significativement moins d'ATP que la respiration aérobie.",
+      "de": "Konzept 9.5 besagt, dass „Fermentation und anaerobe Atmung es Zellen ermöglichen, ATP ohne Sauerstoffverbrauch zu produzieren.“ Dies bestätigt, dass die Fermentation ATP ohne Sauerstoff produziert. Die aerobe Zellatmung hingegen beinhaltet explizit die oxidative Phosphorylierung, die Sauerstoff benötigt. Die Glykolyse ist beiden Prozessen gemein, und die Fermentation liefert deutlich weniger ATP als die aerobe Atmung.",
+      "ja": "コンセプト9.5では、「発酵と嫌気性呼吸は、酸素を使用せずに細胞がATPを生成することを可能にする」と述べています。これは発酵が酸素なしでATPを生成することを確認しています。しかし、好気性細胞呼吸は酸素を必要とする酸化的リン酸化を明確に含んでいます。解糖は両方のプロセスに共通しており、発酵は好気性呼吸よりもはるかに少ないATPしか生成しません。"
+    }
+  },
+  {
+    "page_number": 37,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Concept 8.4, how do enzymes speed up metabolic reactions?",
+      "zh": "根据概念8.4，酶是如何加速代谢反应的？",
+      "es": "Según el Concepto 8.4, ¿cómo aceleran las enzimas las reacciones metabólicas?",
+      "fr": "Selon le concept 8.4, comment les enzymes accélèrent-elles les réactions métaboliques ?",
+      "de": "Gemäß Konzept 8.4, wie beschleunigen Enzyme Stoffwechselreaktionen?",
+      "ja": "コンセプト8.4によると、酵素はどのように代謝反応を加速しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "By increasing the activation energy barrier.",
+          "zh": "通过增加活化能垒。",
+          "es": "Aumentando la barrera de energía de activación.",
+          "fr": "En augmentant la barrière d'énergie d'activation.",
+          "de": "Durch Erhöhung der Aktivierungsenergiebarriere.",
+          "ja": "活性化エネルギー障壁を増加させることによって。"
+        },
+        "feedback": {
+          "en": "Enzymes lower, not increase, the activation energy barrier.",
+          "zh": "酶是降低而不是增加活化能垒。",
+          "es": "Las enzimas disminuyen, no aumentan, la barrera de energía de activación.",
+          "fr": "Les enzymes abaissent, et non augmentent, la barrière d'énergie d'activation.",
+          "de": "Enzyme senken, nicht erhöhen, die Aktivierungsenergiebarriere.",
+          "ja": "酵素は活性化エネルギー障壁を低下させ、増加させません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "By consuming the reactants more quickly.",
+          "zh": "通过更快地消耗反应物。",
+          "es": "Consumiendo los reactivos más rápidamente.",
+          "fr": "En consommant les réactifs plus rapidement.",
+          "de": "Durch schnelleren Verbrauch der Reaktanten.",
+          "ja": "反応物をより速く消費することによって。"
+        },
+        "feedback": {
+          "en": "While reactions proceed faster, enzymes achieve this by lowering activation energy, not by directly 'consuming reactants more quickly' as their primary mechanism of speeding up.",
+          "zh": "虽然反应会加速，但酶通过降低活化能来实现这一点，而不是通过直接“更快地消耗反应物”作为其主要的加速机制。",
+          "es": "Aunque las reacciones proceden más rápido, las enzimas logran esto disminuyendo la energía de activación, no 'consumiendo directamente los reactivos más rápidamente' como su mecanismo principal de aceleración.",
+          "fr": "Bien que les réactions progressent plus rapidement, les enzymes y parviennent en abaissant l'énergie d'activation, et non en 'consommant directement les réactifs plus rapidement' comme mécanisme principal d'accélération.",
+          "de": "Obwohl Reaktionen schneller ablaufen, erreichen Enzyme dies durch Senkung der Aktivierungsenergie, nicht indem sie direkt 'Reaktanten schneller verbrauchen' als ihren primären Beschleunigungsmechanismus.",
+          "ja": "反応は速くなりますが、酵素は活性化エネルギーを低下させることでこれを達成し、反応を加速させる主要なメカニズムとして直接「反応物をより速く消費する」わけではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "By lowering the activation energy barrier.",
+          "zh": "通过降低活化能垒。",
+          "es": "Disminuyendo la barrera de energía de activación.",
+          "fr": "En abaissant la barrière d'énergie d'activation.",
+          "de": "Durch Senkung der Aktivierungsenergiebarriere.",
+          "ja": "活性化エネルギー障壁を低下させることによって。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "By changing the products of the reaction.",
+          "zh": "通过改变反应产物。",
+          "es": "Cambiando los productos de la reacción.",
+          "fr": "En modifiant les produits de la réaction.",
+          "de": "Durch Änderung der Reaktionsprodukte.",
+          "ja": "反応生成物を変化させることによって。"
+        },
+        "feedback": {
+          "en": "Enzymes do not alter the final products of a reaction; they only change the rate at which equilibrium is reached.",
+          "zh": "酶不会改变反应的最终产物；它们只改变达到平衡的速度。",
+          "es": "Las enzimas no alteran los productos finales de una reacción; solo cambian la velocidad a la que se alcanza el equilibrio.",
+          "fr": "Les enzymes ne modifient pas les produits finaux d'une réaction ; elles ne font que modifier la vitesse à laquelle l'équilibre est atteint.",
+          "de": "Enzyme verändern die Endprodukte einer Reaktion nicht; sie ändern lediglich die Geschwindigkeit, mit der das Gleichgewicht erreicht wird.",
+          "ja": "酵素は反応の最終生成物を変化させません。平衡に達する速度のみを変化させます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Concept 8.4 is explicitly titled 'Enzymes speed up metabolic reactions by lowering energy barriers', which directly answers the question.",
+      "zh": "概念8.4的标题明确为“酶通过降低能量屏障加速代谢反应”，这直接回答了问题。",
+      "es": "El Concepto 8.4 se titula explícitamente 'Las enzimas aceleran las reacciones metabólicas al disminuir las barreras energéticas', lo que responde directamente a la pregunta.",
+      "fr": "Le concept 8.4 est explicitement intitulé « Les enzymes accélèrent les réactions métaboliques en abaissant les barrières énergétiques », ce qui répond directement à la question.",
+      "de": "Konzept 8.4 ist explizit betitelt mit „Enzyme beschleunigen Stoffwechselreaktionen durch Senkung von Energiebarrieren“, was die Frage direkt beantwortet.",
+      "ja": "コンセプト8.4は明確に「酵素はエネルギー障壁を低下させることで代謝反応を加速する」と題されており、これが直接的な答えです。"
+    }
+  },
+  {
+    "page_number": 37,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "As presented in the \"Photosynthesis\" section (Chapter 10), what are the two main stages of photosynthesis?",
+      "zh": "根据“光合作用”部分（第10章）的介绍，光合作用的两个主要阶段是什么？",
+      "es": "Según lo presentado en la sección \"Fotosíntesis\" (Capítulo 10), ¿cuáles son las dos etapas principales de la fotosíntesis?",
+      "fr": "Selon la section « Photosynthèse » (Chapitre 10), quelles sont les deux étapes principales de la photosynthèse ?",
+      "de": "Wie im Abschnitt „Photosynthese“ (Kapitel 10) dargestellt, welche sind die zwei Hauptstadien der Photosynthese?",
+      "ja": "「光合成」の章（第10章）に示されているように、光合成の主要な2つの段階は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Glycolysis and the Citric Acid Cycle.",
+          "zh": "糖酵解和柠檬酸循环。",
+          "es": "Glucólisis y el Ciclo del Ácido Cítrico.",
+          "fr": "Glycolyse et Cycle de l'acide citrique.",
+          "de": "Glykolyse und Zitronensäurezyklus.",
+          "ja": "解糖とクエン酸回路。"
+        },
+        "feedback": {
+          "en": "These are stages of cellular respiration, discussed in Chapter 9, not photosynthesis.",
+          "zh": "这些是细胞呼吸的阶段，在第9章中讨论，而不是光合作用。",
+          "es": "Estas son etapas de la respiración celular, discutidas en el Capítulo 9, no de la fotosíntesis.",
+          "fr": "Ce sont des étapes de la respiration cellulaire, abordées au chapitre 9, et non de la photosynthèse.",
+          "de": "Dies sind Stadien der Zellatmung, die in Kapitel 9 besprochen werden, nicht der Photosynthese.",
+          "ja": "これらは細胞呼吸の段階であり、第9章で議論されていますが、光合成ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Light Reactions and the Calvin Cycle.",
+          "zh": "光反应和卡尔文循环。",
+          "es": "Reacciones Luminosas y el Ciclo de Calvin.",
+          "fr": "Réactions lumineuses et Cycle de Calvin.",
+          "de": "Lichtreaktionen und Calvin-Zyklus.",
+          "ja": "光反応とカルビン回路。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Fermentation and Oxidative Phosphorylation.",
+          "zh": "发酵和氧化磷酸化。",
+          "es": "Fermentación y Fosforilación Oxidativa.",
+          "fr": "Fermentation et Phosphorylation oxydative.",
+          "de": "Fermentation und Oxidative Phosphorylierung.",
+          "ja": "発酵と酸化的リン酸化。"
+        },
+        "feedback": {
+          "en": "These are processes within cellular respiration, discussed in Chapter 9, not photosynthesis.",
+          "zh": "这些是细胞呼吸内部的过程，在第9章中讨论，而不是光合作用。",
+          "es": "Estos son procesos dentro de la respiración celular, discutidos en el Capítulo 9, no de la fotosíntesis.",
+          "fr": "Ce sont des processus au sein de la respiration cellulaire, abordés au chapitre 9, et non de la photosynthèse.",
+          "de": "Dies sind Prozesse innerhalb der Zellatmung, die in Kapitel 9 besprochen werden, nicht der Photosynthese.",
+          "ja": "これらは細胞呼吸内のプロセスであり、第9章で議論されていますが、光合成ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "ATP Hydrolysis and Enzyme Regulation.",
+          "zh": "ATP水解和酶调节。",
+          "es": "Hidrólisis de ATP y Regulación Enzimática.",
+          "fr": "Hydrolyse de l'ATP et Régulation enzymatique.",
+          "de": "ATP-Hydrolyse und Enzymregulation.",
+          "ja": "ATP加水分解と酵素調節。"
+        },
+        "feedback": {
+          "en": "These are general metabolic processes discussed in Chapter 8, not the main stages of photosynthesis.",
+          "zh": "这些是第8章讨论的一般代谢过程，不是光合作用的主要阶段。",
+          "es": "Estos son procesos metabólicos generales discutidos en el Capítulo 8, no las etapas principales de la fotosíntesis.",
+          "fr": "Ce sont des processus métaboliques généraux discutés au chapitre 8, et non les étapes principales de la photosynthèse.",
+          "de": "Dies sind allgemeine Stoffwechselprozesse, die in Kapitel 8 besprochen werden, nicht die Hauptstadien der Photosynthese.",
+          "ja": "これらは第8章で議論されている一般的な代謝プロセスであり、光合成の主要な段階ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Concept 10.2 mentions 'The Two Stages of Photosynthesis: A Preview'. Subsequent concepts elaborate on 'The light reactions' (Concept 10.3) and 'The Calvin cycle' (Concept 10.4), indicating these are the two main stages.",
+      "zh": "概念10.2提到了“光合作用的两个阶段：预览”。随后的概念详细阐述了“光反应”（概念10.3）和“卡尔文循环”（概念10.4），表明这些是两个主要阶段。",
+      "es": "El Concepto 10.2 menciona 'Las dos etapas de la fotosíntesis: Una vista previa'. Los conceptos subsiguientes elaboran sobre 'Las reacciones lumínicas' (Concepto 10.3) y 'El ciclo de Calvin' (Concepto 10.4), indicando que estas son las dos etapas principales.",
+      "fr": "Le concept 10.2 mentionne « Les deux étapes de la photosynthèse : Un aperçu ». Les concepts suivants détaillent « Les réactions lumineuses » (Concept 10.3) y « Le cycle de Calvin » (Concept 10.4), indiquant qu'il s'agit des deux étapes principales.",
+      "de": "Konzept 10.2 erwähnt „Die zwei Stadien der Photosynthese: Eine Vorschau“. Nachfolgende Konzepte erläutern „Die Lichtreaktionen“ (Konzept 10.3) und „Den Calvin-Zyklus“ (Konzept 10.4), was darauf hindeutet, dass dies die beiden Hauptstadien sind.",
+      "ja": "コンセプト10.2では「光合成の二段階：プレビュー」に言及しています。その後のコンセプトで「光反応」（コンセプト10.3）と「カルビン回路」（コンセプト10.4）について詳しく説明されており、これらが主要な二段階であることを示しています。"
+    }
+  },
+  {
+    "page_number": 37,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on Concept 8.3, what is the primary role of ATP in cellular work?",
+      "zh": "根据概念8.3，ATP在细胞工作中主要作用是什么？",
+      "es": "Según el Concepto 8.3, ¿cuál es el papel principal del ATP en el trabajo celular?",
+      "fr": "Selon le concept 8.3, quel est le rôle principal de l'ATP dans le travail cellulaire ?",
+      "de": "Basierend auf Konzept 8.3, was ist die primäre Rolle von ATP bei zellulärer Arbeit?",
+      "ja": "コンセプト8.3に基づくと、ATPの細胞内での主な役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To directly synthesize organic molecules from CO2.",
+          "zh": "直接从二氧化碳合成有机分子。",
+          "es": "Sintetizar directamente moléculas orgánicas a partir de CO2.",
+          "fr": "Synthétiser directement des molécules organiques à partir du CO2.",
+          "de": "Direkt organische Moleküle aus CO2 synthetisieren.",
+          "ja": "CO2から直接有機分子を合成すること。"
+        },
+        "feedback": {
+          "en": "The Calvin cycle (in photosynthesis) uses ATP (and NADPH) to synthesize organic molecules from CO2, but ATP's general role is broader energy coupling.",
+          "zh": "卡尔文循环（在光合作用中）利用ATP（和NADPH）从二氧化碳合成有机分子，但ATP的普遍作用是更广泛的能量偶联。",
+          "es": "El ciclo de Calvin (en la fotosíntesis) utiliza ATP (y NADPH) para sintetizar moléculas orgánicas a partir de CO2, pero el papel general del ATP es un acoplamiento energético más amplio.",
+          "fr": "Le cycle de Calvin (dans la photosynthèse) utilise l'ATP (et le NADPH) pour synthétiser des molécules organiques à partir du CO2, mais le rôle général de l'ATP est un couplage énergétique plus large.",
+          "de": "Der Calvin-Zyklus (in der Photosynthese) verwendet ATP (und NADPH), um organische Moleküle aus CO2 zu synthetisieren, aber die allgemeine Rolle von ATP ist eine breitere Energiekopplung.",
+          "ja": "カルビン回路（光合成において）はATP（とNADPH）を用いてCO2から有機分子を合成しますが、ATPの一般的な役割はより広範なエネルギー結合です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To act as an enzyme in metabolic reactions.",
+          "zh": "在代谢反应中充当酶。",
+          "es": "Actuar como enzima en reacciones metabólicas.",
+          "fr": "Agir comme une enzyme dans les réactions métaboliques.",
+          "de": "Als Enzym in Stoffwechselreaktionen fungieren.",
+          "ja": "代謝反応で酵素として機能すること。"
+        },
+        "feedback": {
+          "en": "ATP is an energy currency molecule, not an enzyme. Enzymes are typically proteins.",
+          "zh": "ATP是一种能量货币分子，而不是酶。酶通常是蛋白质。",
+          "es": "El ATP es una molécula de moneda energética, no una enzima. Las enzimas son típicamente proteínas.",
+          "fr": "L'ATP est une molécule de devise énergétique, pas une enzyme. Les enzymes sont typiquement des protéines.",
+          "de": "ATP ist ein Energiemolekül, kein Enzym. Enzyme sind typischerweise Proteine.",
+          "ja": "ATPはエネルギー通貨分子であり、酵素ではありません。酵素は通常タンパク質です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To power cellular work by coupling exergonic reactions to endergonic reactions.",
+          "zh": "通过将放能反应与吸能反应偶联来为细胞工作提供动力。",
+          "es": "Proporcionar energía para el trabajo celular acoplando reacciones exergónicas con reacciones endergónicas.",
+          "fr": "Alimenter le travail cellulaire en couplant les réactions exergoniques aux réactions endergoniques.",
+          "de": "Zelluläre Arbeit durch Kopplung exergoner Reaktionen an endergone Reaktionen antreiben.",
+          "ja": "発エルゴン反応と吸エルゴン反応を結合させることで細胞の働きにエネルギーを供給すること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To serve as a structural component of the cell membrane.",
+          "zh": "作为细胞膜的结构成分。",
+          "es": "Servir como componente estructural de la membrana celular.",
+          "fr": "Servir de composant structurel de la membrane cellulaire.",
+          "de": "Als struktureller Bestandteil der Zellmembran dienen.",
+          "ja": "細胞膜の構造的構成要素として機能すること。"
+        },
+        "feedback": {
+          "en": "ATP is an energy molecule primarily involved in energy transfer, not a structural component of the cell membrane.",
+          "zh": "ATP是一种主要参与能量转移的能量分子，而不是细胞膜的结构成分。",
+          "es": "El ATP es una molécula de energía involucrada principalmente en la transferencia de energía, no un componente estructural de la membrana celular.",
+          "fr": "L'ATP est une molécule énergétique principalement impliquée dans le transfert d'énergie, et non un composant structurel de la membrane cellulaire.",
+          "de": "ATP ist ein Energiemolekül, das hauptsächlich am Energietransfer beteiligt ist, und kein struktureller Bestandteil der Zellmembran.",
+          "ja": "ATPは主にエネルギー伝達に関与するエネルギー分子であり、細胞膜の構造的構成要素ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Concept 8.3 is titled 'ATP powers cellular work by coupling exergonic reactions to endergonic reactions'. This precisely describes ATP's primary function as an energy coupler.",
+      "zh": "概念8.3的标题是“ATP通过将放能反应与吸能反应偶联来为细胞工作提供动力”。这精确地描述了ATP作为能量偶联剂的主要功能。",
+      "es": "El Concepto 8.3 se titula 'El ATP impulsa el trabajo celular al acoplar reacciones exergónicas con reacciones endergónicas'. Esto describe con precisión la función principal del ATP como acoplador de energía.",
+      "fr": "Le concept 8.3 est intitulé « L'ATP alimente le travail cellulaire en couplant les réactions exergoniques aux réactions endergoniques ». Cela décrit précisément la fonction principale de l'ATP en tant que couplage énergétique.",
+      "de": "Konzept 8.3 ist betitelt mit „ATP treibt zelluläre Arbeit durch Kopplung exergoner Reaktionen an endergone Reaktionen an“. Dies beschreibt präzise die primäre Funktion von ATP als Energiekoppler.",
+      "ja": "コンセプト8.3は「ATPは発エルゴン反応と吸エルゴン反応を結合させることで細胞の働きにエネルギーを供給する」と題されています。これは、ATPがエネルギー連結因子としての主要な機能を正確に記述しています。"
+    }
+  }
+]

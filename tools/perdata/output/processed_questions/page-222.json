@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 222,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 9.11, which of the following molecules are direct net products of one complete turn of the citric acid cycle per acetyl CoA molecule?",
+      "zh": "根据图9.11，以下哪些分子是每个乙酰CoA分子完成一次柠檬酸循环的直接净产物？",
+      "es": "Según la Figura 9.11, ¿cuáles de las siguientes moléculas son productos netos directos de una vuelta completa del ciclo del ácido cítrico por molécula de acetil-CoA?",
+      "fr": "D'après la Figure 9.11, lesquelles des molécules suivantes sont des produits nets directs d'un tour complet du cycle de l'acide citrique par molécule d'acétyl-CoA ?",
+      "de": "Basierend auf Abbildung 9.11, welche der folgenden Moleküle sind direkte Netto-Produkte eines vollständigen Zyklus des Citratzyklus pro Acetyl-CoA-Molekül?",
+      "ja": "図9.11に基づくと、アセチルCoA分子あたりのクエン酸回路1回転の直接的な正味の生成物は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "3 NADH, 1 FADH2, 1 ATP (or GTP), 2 CO2",
+          "zh": "3 NADH, 1 FADH2, 1 ATP（或GTP）, 2 CO2",
+          "es": "3 NADH, 1 FADH2, 1 ATP (o GTP), 2 CO2",
+          "fr": "3 NADH, 1 FADH2, 1 ATP (ou GTP), 2 CO2",
+          "de": "3 NADH, 1 FADH2, 1 ATP (oder GTP), 2 CO2",
+          "ja": "3 NADH, 1 FADH2, 1 ATP（またはGTP）, 2 CO2"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "2 NADH, 1 FADH2, 1 ATP (or GTP), 1 CO2",
+          "zh": "2 NADH, 1 FADH2, 1 ATP（或GTP）, 1 CO2",
+          "es": "2 NADH, 1 FADH2, 1 ATP (o GTP), 1 CO2",
+          "fr": "2 NADH, 1 FADH2, 1 ATP (ou GTP), 1 CO2",
+          "de": "2 NADH, 1 FADH2, 1 ATP (oder GTP), 1 CO2",
+          "ja": "2 NADH, 1 FADH2, 1 ATP（またはGTP）, 1 CO2"
+        },
+        "feedback": {
+          "en": "This option underestimates the production of NADH and CO2. The cycle produces 3 NADH and 2 CO2 per turn.",
+          "zh": "该选项低估了NADH和CO2的产量。每个循环产生3个NADH和2个CO2。",
+          "es": "Esta opción subestima la producción de NADH y CO2. El ciclo produce 3 NADH y 2 CO2 por vuelta.",
+          "fr": "Cette option sous-estime la production de NADH et de CO2. Le cycle produit 3 NADH et 2 CO2 par tour.",
+          "de": "Diese Option unterschätzt die Produktion von NADH und CO2. Der Zyklus produziert 3 NADH und 2 CO2 pro Runde.",
+          "ja": "この選択肢はNADHとCO2の生産量を過小評価しています。クエン酸回路は1回転あたり3 NADHと2 CO2を生産します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "4 NADH, 2 FADH2, 2 ATP (or GTP), 4 CO2",
+          "zh": "4 NADH, 2 FADH2, 2 ATP（或GTP）, 4 CO2",
+          "es": "4 NADH, 2 FADH2, 2 ATP (o GTP), 4 CO2",
+          "fr": "4 NADH, 2 FADH2, 2 ATP (ou GTP), 4 CO2",
+          "de": "4 NADH, 2 FADH2, 2 ATP (oder GTP), 4 CO2",
+          "ja": "4 NADH, 2 FADH2, 2 ATP（またはGTP）, 4 CO2"
+        },
+        "feedback": {
+          "en": "This option significantly overestimates all products.",
+          "zh": "该选项显著高估了所有产物。",
+          "es": "Esta opción sobreestima significativamente todos los productos.",
+          "fr": "Cette option surestime significativement tous les produits.",
+          "de": "Diese Option überschätzt alle Produkte erheblich.",
+          "ja": "この選択肢はすべての生成物を著しく過大評価しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "3 NADH, 2 FADH2, 1 ATP (or GTP), 2 CO2",
+          "zh": "3 NADH, 2 FADH2, 1 ATP（或GTP）, 2 CO2",
+          "es": "3 NADH, 2 FADH2, 1 ATP (o GTP), 2 CO2",
+          "fr": "3 NADH, 2 FADH2, 1 ATP (ou GTP), 2 CO2",
+          "de": "3 NADH, 2 FADH2, 1 ATP (oder GTP), 2 CO2",
+          "ja": "3 NADH, 2 FADH2, 1 ATP（またはGTP）, 2 CO2"
+        },
+        "feedback": {
+          "en": "This option overestimates FADH2 production; only one FADH2 is produced per turn.",
+          "zh": "该选项高估了FADH2的产量；每个循环只产生一个FADH2。",
+          "es": "Esta opción sobreestima la producción de FADH2; solo se produce un FADH2 por vuelta.",
+          "fr": "Cette option surestime la production de FADH2 ; seulement un FADH2 est produit par tour.",
+          "de": "Diese Option überschätzt die FADH2-Produktion; pro Runde wird nur ein FADH2 produziert.",
+          "ja": "この選択肢はFADH2の生産量を過大評価しています。1回転あたり1つのFADH2のみが生産されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Per acetyl CoA molecule, the citric acid cycle directly produces 3 NADH (steps 3, 4, and 8), 1 FADH2 (step 6), 1 ATP (or GTP, from step 5), and releases 2 CO2 molecules (steps 3 and 4).",
+      "zh": "每个乙酰CoA分子进入柠檬酸循环后，直接产生3个NADH（步骤3、4和8）、1个FADH2（步骤6）、1个ATP（或GTP，来自步骤5），并释放2个CO2分子（步骤3和4）。",
+      "es": "Por cada molécula de acetil-CoA, el ciclo del ácido cítrico produce directamente 3 NADH (pasos 3, 4 y 8), 1 FADH2 (paso 6), 1 ATP (o GTP, del paso 5), y libera 2 moléculas de CO2 (pasos 3 y 4).",
+      "fr": "Par molécule d'acétyl-CoA, le cycle de l'acide citrique produit directement 3 NADH (étapes 3, 4 et 8), 1 FADH2 (étape 6), 1 ATP (ou GTP, de l'étape 5), et libère 2 molécules de CO2 (étapes 3 et 4).",
+      "de": "Pro Acetyl-CoA-Molekül produziert der Citratzyklus direkt 3 NADH (Schritte 3, 4 und 8), 1 FADH2 (Schritt 6), 1 ATP (oder GTP, aus Schritt 5) und setzt 2 CO2-Moleküle frei (Schritte 3 und 4).",
+      "ja": "アセチルCoA分子あたり、クエン酸回路は直接3 NADH（ステップ3、4、8）、1 FADH2（ステップ6）、1 ATP（またはGTP、ステップ5より）、そして2 CO2分子（ステップ3、4）を生成します。"
+    }
+  },
+  {
+    "page_number": 222,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the description in Figure 9.11, what is a key characteristic regarding the fate of the carbon atoms that enter the citric acid cycle from acetyl CoA?",
+      "zh": "根据图9.11中的描述，从乙酰CoA进入柠檬酸循环的碳原子的命运有什么关键特征？",
+      "es": "Según la descripción de la Figura 9.11, ¿cuál es una característica clave con respecto al destino de los átomos de carbono que entran al ciclo del ácido cítrico desde el acetil-CoA?",
+      "fr": "Selon la description de la Figure 9.11, quelle est une caractéristique clé concernant le destin des atomes de carbone qui entrent dans le cycle de l'acide citrique à partir de l'acétyl-CoA ?",
+      "de": "Gemäß der Beschreibung in Abbildung 9.11, was ist ein Schlüsselmerkmal bezüglich des Schicksals der Kohlenstoffatome, die über Acetyl-CoA in den Citratzyklus eintreten?",
+      "ja": "図9.11の説明によると、アセチルCoAからクエン酸回路に入る炭素原子の運命に関する主要な特徴は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They exit the cycle as CO2 in the same turn they enter.",
+          "zh": "它们在进入循环的同一圈内以CO2的形式排出循环。",
+          "es": "Salen del ciclo como CO2 en la misma vuelta en que entran.",
+          "fr": "Ils sortent du cycle sous forme de CO2 au cours du même tour où ils sont entrés.",
+          "de": "Sie verlassen den Zyklus als CO2 in derselben Runde, in der sie eintreten.",
+          "ja": "それらはサイクルに入ったのと同じターンにCO2としてサイクルから排出されます。"
+        },
+        "feedback": {
+          "en": "The text explicitly states they do not leave in the same turn.",
+          "zh": "文本明确指出它们不会在同一圈内离开。",
+          "es": "El texto establece explícitamente que no salen en la misma vuelta.",
+          "fr": "Le texte indique explicitement qu'ils ne sortent pas au cours du même tour.",
+          "de": "Der Text besagt ausdrücklich, dass sie den Zyklus nicht in derselben Runde verlassen.",
+          "ja": "テキストには、それらが同じターンには排出されないと明示的に記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They remain in the cycle, occupying a different location in the molecules on their next turn, before exiting as CO2.",
+          "zh": "它们留在循环中，在下一圈的分子中占据不同的位置，然后以CO2的形式排出循环。",
+          "es": "Permanecen en el ciclo, ocupando una ubicación diferente en las moléculas en su siguiente vuelta, antes de salir como CO2.",
+          "fr": "Ils restent dans le cycle, occupant une position différente dans les molécules lors de leur tour suivant, avant de sortir sous forme de CO2.",
+          "de": "Sie verbleiben im Zyklus und nehmen in der nächsten Runde eine andere Position in den Molekülen ein, bevor sie als CO2 ausscheiden.",
+          "ja": "それらはサイクル内に留まり、次のターンでは分子内の異なる位置を占め、その後CO2として排出されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They are completely removed from the cycle as CO2 by step 5 due to succinate's symmetry.",
+          "zh": "由于琥珀酸的对称性，它们在步骤5完全以CO2的形式从循环中移除。",
+          "es": "Son completamente eliminados del ciclo como CO2 en el paso 5 debido a la simetría del succinato.",
+          "fr": "Ils sont complètement éliminés du cycle sous forme de CO2 à l'étape 5 en raison de la symétrie du succinate.",
+          "de": "Sie werden in Schritt 5 aufgrund der Symmetrie von Succinat vollständig als CO2 aus dem Zyklus entfernt.",
+          "ja": "コハク酸の対称性により、ステップ5でCO2としてサイクルから完全に除去されます。"
+        },
+        "feedback": {
+          "en": "The red type tracing only goes through step 5, but the carbons are not fully removed by this step; CO2 release happens at steps 3 and 4, not step 5.",
+          "zh": "红色标记的碳只通过步骤5，但碳不会在此步骤中完全移除；CO2的释放发生在步骤3和4，而不是步骤5。",
+          "es": "El seguimiento de tipo rojo solo pasa por el paso 5, pero los carbonos no se eliminan completamente en este paso; la liberación de CO2 ocurre en los pasos 3 y 4, no en el paso 5.",
+          "fr": "Le traçage en rouge ne passe que par l'étape 5, mais les carbones ne sont pas entièrement éliminés à cette étape ; la libération de CO2 a lieu aux étapes 3 et 4, et non à l'étape 5.",
+          "de": "Die rote Markierung durchläuft nur Schritt 5, aber die Kohlenstoffe werden in diesem Schritt nicht vollständig entfernt; die CO2-Freisetzung erfolgt in den Schritten 3 und 4, nicht in Schritt 5.",
+          "ja": "赤色のトレーシングはステップ5までしか進みませんが、炭素はこのステップで完全に除去されるわけではありません。CO2の放出はステップ3と4で起こり、ステップ5ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They are immediately incorporated into oxaloacetate and regenerate it in the same turn.",
+          "zh": "它们立即被并入草酰乙酸并在同一圈内再生。",
+          "es": "Se incorporan inmediatamente en el oxalacetato y lo regeneran en la misma vuelta.",
+          "fr": "Ils sont immédiatement incorporés dans l'oxaloacétate et le régénèrent au cours du même tour.",
+          "de": "Sie werden sofort in Oxalacetat eingebaut und regenerieren es in derselben Runde.",
+          "ja": "それらは直ちにオキサロ酢酸に組み込まれ、同じターンで再生します。"
+        },
+        "feedback": {
+          "en": "Oxaloacetate is regenerated with *different* carbon atoms each time around, meaning the original carbons from acetyl CoA are not immediately incorporated back into the regenerated oxaloacetate.",
+          "zh": "草酰乙酸每次循环都由*不同的*碳原子再生，这意味着来自乙酰CoA的原始碳不会立即重新并入再生的草酰乙酸。",
+          "es": "El oxalacetato se regenera con átomos de carbono *diferentes* en cada vuelta, lo que significa que los carbonos originales del acetil-CoA no se incorporan inmediatamente de nuevo en el oxalacetato regenerado.",
+          "fr": "L'oxaloacétate est régénéré avec des atomes de carbone *différents* à chaque tour, ce qui signifie que les carbones originaux de l'acétyl-CoA ne sont pas immédiatement réincorporés dans l'oxaloacétate régénéré.",
+          "de": "Oxalacetat wird jedes Mal mit *anderen* Kohlenstoffatomen regeneriert, was bedeutet, dass die ursprünglichen Kohlenstoffe aus Acetyl-CoA nicht sofort wieder in das regenerierte Oxalacetat eingebaut werden.",
+          "ja": "オキサロ酢酸は、毎回*異なる*炭素原子で再生されるため、アセチルCoA由来の元の炭素がすぐに再生されたオキサロ酢酸に再組み込まれるわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'Notice that the carbon atoms that enter the cycle from acetyl CoA do not leave the cycle in the same turn. They remain in the cycle, occupying a different location in the molecules on their next turn, after another acetyl group is added. Therefore, the oxaloacetate regenerated at step 8 is made up of different carbon atoms each time around.'",
+      "zh": "文本中提到：“请注意，从乙酰CoA进入循环的碳原子不会在同一圈内离开循环。它们留在循环中，在下一圈的分子中占据不同的位置，在添加另一个乙酰基后。因此，在步骤8再生的草酰乙酸每次都由不同的碳原子组成。”",
+      "es": "El texto afirma: 'Observe que los átomos de carbono que entran al ciclo desde el acetil-CoA no salen del ciclo en la misma vuelta. Permanecen en el ciclo, ocupando una ubicación diferente en las moléculas en su siguiente vuelta, después de que se añade otro grupo acetilo. Por lo tanto, el oxalacetato regenerado en el paso 8 está compuesto por diferentes átomos de carbono cada vez que se completa el ciclo.'",
+      "fr": "Le texte indique : « Notez que les atomes de carbone qui entrent dans le cycle à partir de l'acétyl-CoA ne quittent pas le cycle au cours du même tour. Ils restent dans le cycle, occupant une position différente dans les molécules lors de leur tour suivant, après l'ajout d'un autre groupe acétyle. Par conséquent, l'oxaloacétate régénéré à l'étape 8 est composé d'atomes de carbone différents à chaque tour. »",
+      "de": "Der Text besagt: „Beachten Sie, dass die Kohlenstoffatome, die über Acetyl-CoA in den Zyklus eintreten, den Zyklus nicht in derselben Runde verlassen. Sie verbleiben im Zyklus und nehmen in der nächsten Runde eine andere Position in den Molekülen ein, nachdem eine weitere Acetylgruppe hinzugefügt wurde. Daher besteht das in Schritt 8 regenerierte Oxalacetat jedes Mal aus anderen Kohlenstoffatomen.“",
+      "ja": "本文には、「アセチルCoAからサイクルに入る炭素原子は、同じターンでサイクルを離れないことに注意してください。それらはサイクル内に留まり、次のターンでは分子内の異なる位置を占め、別の酢酸基が追加された後、ステップ8で再生されるオキサロ酢酸は、毎回異なる炭素原子で構成されています。」と記載されています。"
+    }
+  },
+  {
+    "page_number": 222,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In eukaryotic cells, where are most enzymes of the citric acid cycle located, and which specific enzyme is an exception, residing in a different cellular compartment?",
+      "zh": "在真核细胞中，柠檬酸循环的大部分酶位于何处，哪种特定的酶是例外，存在于不同的细胞区室中？",
+      "es": "En las células eucariotas, ¿dónde se encuentran la mayoría de las enzimas del ciclo del ácido cítrico, y cuál enzima específica es una excepción, residiendo en un compartimento celular diferente?",
+      "fr": "Dans les cellules eucaryotes, où se trouvent la plupart des enzymes du cycle de l'acide citrique, et quelle enzyme spécifique constitue une exception, résidant dans un compartiment cellulaire différent ?",
+      "de": "Wo befinden sich in eukaryotischen Zellen die meisten Enzyme des Citratzyklus, und welches spezifische Enzym ist eine Ausnahme, das in einem anderen Zellkompartiment residiert?",
+      "ja": "真核細胞において、クエン酸回路の酵素の大部分はどこに位置しており、どの特定の酵素が例外的に異なる細胞区画に存在しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "All enzymes are located in the inner mitochondrial membrane; none are exceptions.",
+          "zh": "所有酶都位于线粒体内膜；没有例外。",
+          "es": "Todas las enzimas se encuentran en la membrana mitocondrial interna; no hay excepciones.",
+          "fr": "Toutes les enzymes sont situées dans la membrane mitochondriale interne ; il n'y a pas d'exceptions.",
+          "de": "Alle Enzyme befinden sich in der inneren Mitochondrienmembran; es gibt keine Ausnahmen.",
+          "ja": "すべての酵素はミトコンドリア内膜に存在し、例外はありません。"
+        },
+        "feedback": {
+          "en": "This is incorrect; there is an exception to the general location of citric acid cycle enzymes.",
+          "zh": "这是不正确的；柠檬酸循环酶的通常位置存在例外。",
+          "es": "Esto es incorrecto; existe una excepción a la ubicación general de las enzimas del ciclo del ácido cítrico.",
+          "fr": "C'est incorrect ; il existe une exception à l'emplacement général des enzymes du cycle de l'acide citrique.",
+          "de": "Dies ist falsch; es gibt eine Ausnahme bezüglich des allgemeinen Standorts der Enzyme des Citratzyklus.",
+          "ja": "これは正しくありません。クエン酸回路の酵素の一般的な位置には例外があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Most enzymes are in the mitochondrial matrix, with the enzyme for step 6 (succinate dehydrogenase) being an exception in the inner mitochondrial membrane.",
+          "zh": "大多数酶在线粒体基质中，而步骤6的酶（琥珀酸脱氢酶）是例外，位于线粒体内膜中。",
+          "es": "La mayoría de las enzimas están en la matriz mitocondrial, siendo la enzima del paso 6 (succinato deshidrogenasa) una excepción en la membrana mitocondrial interna.",
+          "fr": "La plupart des enzymes se trouvent dans la matrice mitochondriale, l'enzyme de l'étape 6 (succinate déshydrogénase) étant une exception dans la membrane mitochondriale interne.",
+          "de": "Die meisten Enzyme befinden sich in der mitochondrialen Matrix, wobei das Enzym für Schritt 6 (Succinat-Dehydrogenase) eine Ausnahme in der inneren Mitochondrienmembran darstellt.",
+          "ja": "ほとんどの酵素はミトコンドリアマトリックスにあり、ステップ6の酵素（コハク酸デヒドロゲナーゼ）が例外的にミトコンドリア内膜に存在します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Most enzymes are in the cytoplasm, with the enzyme for step 3 (isocitrate dehydrogenase) being an exception in the mitochondrial matrix.",
+          "zh": "大多数酶在细胞质中，而步骤3的酶（异柠檬酸脱氢酶）是例外，在线粒体基质中。",
+          "es": "La mayoría de las enzimas están en el citoplasma, siendo la enzima del paso 3 (isocitrato deshidrogenasa) una excepción en la matriz mitocondrial.",
+          "fr": "La plupart des enzymes se trouvent dans le cytoplasme, l'enzyme de l'étape 3 (isocitrate déshydrogénase) étant une exception dans la matrice mitochondriale.",
+          "de": "Die meisten Enzyme befinden sich im Zytoplasma, wobei das Enzym für Schritt 3 (Isocitrat-Dehydrogenase) eine Ausnahme in der mitochondrialen Matrix darstellt.",
+          "ja": "ほとんどの酵素は細胞質にあり、ステップ3の酵素（イソクエン酸デヒドロゲナーゼ）が例外的にミトコンドリアマトリックスに存在します。"
+        },
+        "feedback": {
+          "en": "Most enzymes of the citric acid cycle are located in the mitochondrial matrix, not the cytoplasm.",
+          "zh": "柠檬酸循环的大多数酶位于线粒体基质中，而不是细胞质中。",
+          "es": "La mayoría de las enzimas del ciclo del ácido cítrico se encuentran en la matriz mitocondrial, no en el citoplasma.",
+          "fr": "La plupart des enzymes du cycle de l'acide citrique se trouvent dans la matrice mitochondriale, et non dans le cytoplasme.",
+          "de": "Die meisten Enzyme des Citratzyklus befinden sich in der mitochondrialen Matrix, nicht im Zytoplasma.",
+          "ja": "クエン酸回路のほとんどの酵素はミトコンドリアマトリックスにあり、細胞質ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All enzymes are located in the mitochondrial matrix; none are exceptions.",
+          "zh": "所有酶都位于线粒体基质中；没有例外。",
+          "es": "Todas las enzimas se encuentran en la matriz mitocondrial; no hay excepciones.",
+          "fr": "Toutes les enzymes sont situées dans la matrice mitochondriale ; il n'y a pas d'exceptions.",
+          "de": "Alle Enzyme befinden sich in der mitochondrialen Matrix; es gibt keine Ausnahmen.",
+          "ja": "すべての酵素はミトコンドリアマトリックスに存在し、例外はありません。"
+        },
+        "feedback": {
+          "en": "This is incorrect; the enzyme for step 6 is an exception and resides in the inner mitochondrial membrane.",
+          "zh": "这是不正确的；步骤6的酶是一个例外，位于线粒体内膜中。",
+          "es": "Esto es incorrecto; la enzima del paso 6 es una excepción y reside en la membrana mitocondrial interna.",
+          "fr": "C'est incorrect ; l'enzyme de l'étape 6 est une exception et réside dans la membrane mitochondriale interne.",
+          "de": "Dies ist falsch; das Enzym für Schritt 6 ist eine Ausnahme und befindet sich in der inneren Mitochondrienmembran.",
+          "ja": "これは正しくありません。ステップ6の酵素は例外であり、ミトコンドリア内膜に存在します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'In eukaryotic cells, all the citric acid cycle enzymes are located in the mitochondrial matrix except for the enzyme that catalyzes step 6, which resides in the inner mitochondrial membrane.'",
+      "zh": "文本中明确指出：“在真核细胞中，所有柠檬酸循环的酶都位于线粒体基质中，除了催化步骤6的酶，它位于线粒体内膜中。”",
+      "es": "El texto establece explícitamente: 'En las células eucariotas, todas las enzimas del ciclo del ácido cítrico se encuentran en la matriz mitocondrial, excepto la enzima que cataliza el paso 6, que reside en la membrana mitocondrial interna.'",
+      "fr": "Le texte indique explicitement : « Chez les cellules eucaryotes, toutes les enzymes du cycle de l'acide citrique sont situées dans la matrice mitochondriale, à l'exception de l'enzyme qui catalyse l'étape 6, qui réside dans la membrane mitochondriale interne. »",
+      "de": "Der Text besagt ausdrücklich: „In eukaryotischen Zellen befinden sich alle Enzyme des Citratzyklus in der mitochondrialen Matrix, mit Ausnahme des Enzyms, das Schritt 6 katalysiert und in der inneren Mitochondrienmembran residiert.“",
+      "ja": "本文には、「真核細胞において、すべてのクエン酸回路酵素はミトコンドリアマトリックスに位置しており、ただしステップ6を触媒する酵素は例外で、ミトコンドリア内膜に存在します。」と明示的に記載されています。"
+    }
+  },
+  {
+    "page_number": 222,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Step 5 of the citric acid cycle involves the displacement of CoA by a phosphate group, forming GTP from GDP, which can then generate ATP. What is the primary significance of this step for cellular energy production?",
+      "zh": "柠檬酸循环的步骤5涉及CoA被磷酸基团取代，从GDP形成GTP，然后GTP可以生成ATP。此步骤对细胞能量生产的主要意义是什么？",
+      "es": "El paso 5 del ciclo del ácido cítrico implica el desplazamiento del CoA por un grupo fosfato, formando GTP a partir de GDP, lo que luego puede generar ATP. ¿Cuál es la importancia principal de este paso para la producción de energía celular?",
+      "fr": "L'étape 5 du cycle de l'acide citrique implique le déplacement du CoA par un groupe phosphate, formant du GTP à partir du GDP, qui peut ensuite générer de l'ATP. Quelle est la signification première de cette étape pour la production d'énergie cellulaire ?",
+      "de": "Schritt 5 des Citratzyklus beinhaltet die Verdrängung von CoA durch eine Phosphatgruppe, wodurch aus GDP GTP gebildet wird, das dann ATP erzeugen kann. Was ist die primäre Bedeutung dieses Schritts für die zelluläre Energieproduktion?",
+      "ja": "クエン酸回路のステップ5では、CoAがリン酸基に置き換えられ、GDPからGTPが生成され、GTPはATPを生成できます。このステップの細胞エネルギー生産における主な意義は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It is the main pathway for direct ATP synthesis in the citric acid cycle through oxidative phosphorylation.",
+          "zh": "它是柠檬酸循环中通过氧化磷酸化直接合成ATP的主要途径。",
+          "es": "Es la vía principal para la síntesis directa de ATP en el ciclo del ácido cítrico a través de la fosforilación oxidativa.",
+          "fr": "C'est la principale voie de synthèse directe d'ATP dans le cycle de l'acide citrique par phosphorylation oxydative.",
+          "de": "Es ist der Hauptweg für die direkte ATP-Synthese im Citratzyklus durch oxidative Phosphorylierung.",
+          "ja": "これは、酸化的リン酸化を介してクエン酸回路でATPを直接合成する主要な経路です。"
+        },
+        "feedback": {
+          "en": "Oxidative phosphorylation is a separate process occurring later in the electron transport chain, not directly in this step of the citric acid cycle. This step is substrate-level phosphorylation.",
+          "zh": "氧化磷酸化是一个独立的过程，发生在电子传递链的后期，而不是柠檬酸循环的这个步骤中直接发生。此步骤是底物水平磷酸化。",
+          "es": "La fosforilación oxidativa es un proceso separado que ocurre más tarde en la cadena de transporte de electrones, no directamente en este paso del ciclo del ácido cítrico. Este paso es fosforilación a nivel de sustrato.",
+          "fr": "La phosphorylation oxydative est un processus distinct qui se produit plus tard dans la chaîne de transport d'électrons, et non directement à cette étape du cycle de l'acide citrique. Cette étape est une phosphorylation au niveau du substrat.",
+          "de": "Die oxidative Phosphorylierung ist ein separater Prozess, der später in der Elektronentransportkette stattfindet, nicht direkt in diesem Schritt des Citratzyklus. Dieser Schritt ist eine Substratkettenphosphorylierung.",
+          "ja": "酸化的リン酸化は電子伝達系で後に行われる別のプロセスであり、クエン酸回路のこのステップで直接起こるわけではありません。このステップは基質レベルリン酸化です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It represents a substrate-level phosphorylation event, directly yielding energy in the form of GTP (and indirectly ATP).",
+          "zh": "它代表了底物水平磷酸化事件，直接以GTP（并间接以ATP）的形式产生能量。",
+          "es": "Representa un evento de fosforilación a nivel de sustrato, que produce energía directamente en forma de GTP (e indirectamente ATP).",
+          "fr": "Elle représente un événement de phosphorylation au niveau du substrat, produisant directement de l'énergie sous forme de GTP (et indirectement de l'ATP).",
+          "de": "Es stellt ein Substratkettenphosphorylierungsereignis dar, das direkt Energie in Form von GTP (und indirekt ATP) liefert.",
+          "ja": "これは基質レベルリン酸化であり、GTP（そして間接的にATP）の形で直接エネルギーを生成します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is crucial for regenerating NAD+ and FAD, which are essential for continued cycle operation.",
+          "zh": "它对于NAD+和FAD的再生至关重要，这对于循环的持续运行是必不可少的。",
+          "es": "Es crucial para regenerar NAD+ y FAD, que son esenciales para la operación continua del ciclo.",
+          "fr": "Elle est cruciale pour la régénération du NAD+ et du FAD, qui sont essentiels au fonctionnement continu du cycle.",
+          "de": "Es ist entscheidend für die Regeneration von NAD+ und FAD, die für den fortgesetzten Zyklusbetrieb unerlässlich sind.",
+          "ja": "NAD+とFADの再生に不可欠であり、これらはサイクルの継続的な運用に必要です。"
+        },
+        "feedback": {
+          "en": "Regeneration of NAD+ and FAD primarily occurs through their re-oxidation in oxidative phosphorylation, not directly via GTP formation. While the cycle produces them, this specific step isn't about their regeneration.",
+          "zh": "NAD+和FAD的再生主要通过它们在氧化磷酸化中的再氧化发生，而不是直接通过GTP的形成。虽然循环产生它们，但这个特定步骤不是关于它们的再生。",
+          "es": "La regeneración de NAD+ y FAD ocurre principalmente a través de su reoxidación en la fosforilación oxidativa, no directamente a través de la formación de GTP. Aunque el ciclo los produce, este paso específico no trata sobre su regeneración.",
+          "fr": "La régénération du NAD+ et du FAD se produit principalement par leur réoxydation lors de la phosphorylation oxydative, et non directement par la formation de GTP. Bien que le cycle les produise, cette étape spécifique ne concerne pas leur régénération.",
+          "de": "Die Regeneration von NAD+ und FAD erfolgt hauptsächlich durch ihre Reoxidation bei der oxidativen Phosphorylierung, nicht direkt über die GTP-Bildung. Obwohl der Zyklus sie produziert, geht es in diesem speziellen Schritt nicht um ihre Regeneration.",
+          "ja": "NAD+とFADの再生は、主に酸化的リン酸化における再酸化によって起こり、GTPの形成によって直接起こるわけではありません。サイクルがそれらを生産する一方で、この特定のステップはそれらの再生に関するものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It is the only step where CO2 is released, ensuring carbon atom removal from the cycle.",
+          "zh": "它是唯一释放CO2的步骤，确保碳原子从循环中移除。",
+          "es": "Es el único paso donde se libera CO2, asegurando la eliminación de átomos de carbono del ciclo.",
+          "fr": "C'est la seule étape où le CO2 est libéré, assurant l'élimination des atomes de carbone du cycle.",
+          "de": "Es ist der einzige Schritt, in dem CO2 freigesetzt wird, wodurch die Entfernung von Kohlenstoffatomen aus dem Zyklus sichergestellt wird.",
+          "ja": "これはCO2が放出される唯一のステップであり、サイクルから炭素原子が除去されることを保証します。"
+        },
+        "feedback": {
+          "en": "CO2 is released in steps 3 and 4 of the citric acid cycle, not in step 5.",
+          "zh": "CO2是在柠檬酸循环的步骤3和4中释放的，而不是在步骤5中。",
+          "es": "El CO2 se libera en los pasos 3 y 4 del ciclo del ácido cítrico, no en el paso 5.",
+          "fr": "Le CO2 est libéré aux étapes 3 et 4 du cycle de l'acide citrique, et non à l'étape 5.",
+          "de": "CO2 wird in den Schritten 3 und 4 des Citratzyklus freigesetzt, nicht in Schritt 5.",
+          "ja": "CO2はクエン酸回路のステップ3と4で放出され、ステップ5ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Step 5 is an example of substrate-level phosphorylation, where a phosphate group is directly transferred from a substrate molecule (succinyl CoA) to GDP to form GTP, which can then be used to generate ATP. This is a direct energy yield within the cycle, distinct from the larger ATP production of oxidative phosphorylation.",
+      "zh": "步骤5是底物水平磷酸化的一个例子，其中磷酸基团直接从底物分子（琥珀酰CoA）转移到GDP以形成GTP，然后GTP可以用于生成ATP。这是循环中直接的能量产出，与氧化磷酸化中更大的ATP产生量不同。",
+      "es": "El paso 5 es un ejemplo de fosforilación a nivel de sustrato, donde un grupo fosfato se transfiere directamente de una molécula de sustrato (succinil-CoA) a GDP para formar GTP, que luego puede usarse para generar ATP. Esta es una producción de energía directa dentro del ciclo, distinta de la mayor producción de ATP de la fosforilación oxidativa.",
+      "fr": "L'étape 5 est un exemple de phosphorylation au niveau du substrat, où un groupe phosphate est directement transféré d'une molécule de substrat (succinyl-CoA) au GDP pour former du GTP, qui peut ensuite être utilisé pour générer de l'ATP. Il s'agit d'un rendement énergétique direct au sein du cycle, distinct de la production d'ATP plus importante de la phosphorylation oxydative.",
+      "de": "Schritt 5 ist ein Beispiel für Substratkettenphosphorylierung, bei der eine Phosphatgruppe direkt von einem Substratmolekül (Succinyl-CoA) auf GDP übertragen wird, um GTP zu bilden, das dann zur Erzeugung von ATP verwendet werden kann. Dies ist eine direkte Energiegewinnung innerhalb des Zyklus, die sich von der größeren ATP-Produktion der oxidativen Phosphorylierung unterscheidet.",
+      "ja": "ステップ5は基質レベルリン酸化の一例であり、基質分子（スクシニルCoA）から直接リン酸基がGDPに転移してGTPを形成し、そのGTPはATPの生成に利用できます。これはクエン酸回路内の直接的なエネルギー生成であり、酸化的リン酸化によるより大きなATP生産とは異なります。"
+    }
+  }
+]

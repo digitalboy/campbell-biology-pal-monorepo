@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 279,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the provided text and Figure 11.20, which of the following statements accurately describes the initial regulatory mechanism of apoptosis in *C. elegans* in the absence of a death signal?",
+      "zh": "根据提供的文本和图 11.20，以下哪项陈述准确描述了在没有死亡信号的情况下，线虫 *C. elegans* 细胞凋亡的初始调控机制？",
+      "es": "Según el texto proporcionado y la Figura 11.20, ¿cuál de las siguientes afirmaciones describe con precisión el mecanismo regulador inicial de la apoptosis en *C. elegans* en ausencia de una señal de muerte?",
+      "fr": "Selon le texte fourni et la Figure 11.20, laquelle des affirmations suivantes décrit avec précision le mécanisme régulateur initial de l'apoptose chez *C. elegans* en l'absence de signal de mort ?",
+      "de": "Gemäß dem bereitgestellten Text und Abbildung 11.20, welche der folgenden Aussagen beschreibt den anfänglichen Regulationsmechanismus der Apoptose in *C. elegans* in Abwesenheit eines Todessignals genau?",
+      "ja": "提供されたテキストと図 11.20 によると、死のシグナルがない場合の線虫 *C. elegans* のアポトーシス初期調節メカニズムを正確に記述しているのは、次の記述のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Active Ced-9 protein promotes Ced-4 activity, leading to cell death.",
+          "zh": "活化的 Ced-9 蛋白促进 Ced-4 的活性，导致细胞死亡。",
+          "es": "La proteína Ced-9 activa promueve la actividad de Ced-4, lo que lleva a la muerte celular.",
+          "fr": "La protéine Ced-9 active favorise l'activité de Ced-4, entraînant la mort cellulaire.",
+          "de": "Aktives Ced-9-Protein fördert die Ced-4-Aktivität und führt zum Zelltod.",
+          "ja": "活性化したCed-9タンパク質はCed-4の活性を促進し、細胞死を引き起こす。"
+        },
+        "feedback": {
+          "en": "Incorrect. Active Ced-9 protein inhibits Ced-4 activity, preventing apoptosis.",
+          "zh": "不正确。活化的 Ced-9 蛋白会抑制 Ced-4 的活性，从而阻止细胞凋亡。",
+          "es": "Incorrecto. La proteína Ced-9 activa inhibe la actividad de Ced-4, previniendo la apoptosis.",
+          "fr": "Incorrect. La protéine Ced-9 active inhibe l'activité de Ced-4, empêchant l'apoptose.",
+          "de": "Falsch. Aktives Ced-9-Protein hemmt die Ced-4-Aktivität und verhindert Apoptose.",
+          "ja": "不正解。活性化したCed-9タンパク質はCed-4の活性を阻害し、アポトーシスを防ぎます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Inactive Ced-9 protein inhibits Ced-4 activity, keeping the cell alive.",
+          "zh": "非活化的 Ced-9 蛋白抑制 Ced-4 的活性，使细胞保持存活。",
+          "es": "La proteína Ced-9 inactiva inhibe la actividad de Ced-4, manteniendo la célula viva.",
+          "fr": "La protéine Ced-9 inactive inhibe l'activité de Ced-4, maintenant la cellule en vie.",
+          "de": "Inaktives Ced-9-Protein hemmt die Ced-4-Aktivität und hält die Zelle am Leben.",
+          "ja": "不活性なCed-9タンパク質はCed-4の活性を阻害し、細胞を生かし続ける。"
+        },
+        "feedback": {
+          "en": "Incorrect. It is active Ced-9 that inhibits Ced-4. Inactive Ced-9 does not inhibit Ced-4.",
+          "zh": "不正确。是活化的 Ced-9 抑制 Ced-4。非活化的 Ced-9 不会抑制 Ced-4。",
+          "es": "Incorrecto. Es el Ced-9 activo el que inhibe a Ced-4. El Ced-9 inactivo no inhibe a Ced-4.",
+          "fr": "Incorrect. C'est le Ced-9 actif qui inhibe Ced-4. Le Ced-9 inactif n'inhibe pas Ced-4.",
+          "de": "Falsch. Es ist aktives Ced-9, das Ced-4 hemmt. Inaktives Ced-9 hemmt Ced-4 nicht.",
+          "ja": "不正解。Ced-4を阻害するのは活性化したCed-9です。不活性なCed-9はCed-4を阻害しません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Active Ced-9 protein inhibits Ced-4 activity, preventing apoptosis and keeping the cell alive.",
+          "zh": "活化的 Ced-9 蛋白抑制 Ced-4 的活性，阻止细胞凋亡并使细胞保持存活。",
+          "es": "La proteína Ced-9 activa inhibe la actividad de Ced-4, previniendo la apoptosis y manteniendo la célula viva.",
+          "fr": "La protéine Ced-9 active inhibe l'activité de Ced-4, prévenant l'apoptose et maintenant la cellule en vie.",
+          "de": "Aktives Ced-9-Protein hemmt die Ced-4-Aktivität, verhindert Apoptose und hält die Zelle am Leben.",
+          "ja": "活性化したCed-9タンパク質はCed-4の活性を阻害し、アポトーシスを防ぎ、細胞を生かし続ける。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Ced-3 and Ced-4 are actively degrading cellular components in the absence of a death signal.",
+          "zh": "在没有死亡信号的情况下，Ced-3 和 Ced-4 正在积极降解细胞组分。",
+          "es": "Ced-3 y Ced-4 están degradando activamente los componentes celulares en ausencia de una señal de muerte.",
+          "fr": "Ced-3 et Ced-4 dégradent activement les composants cellulaires en l'absence de signal de mort.",
+          "de": "Ced-3 und Ced-4 bauen zelluläre Komponenten in Abwesenheit eines Todessignals aktiv ab.",
+          "ja": "死のシグナルがない状況で、Ced-3とCed-4が積極的に細胞成分を分解している。"
+        },
+        "feedback": {
+          "en": "Incorrect. Ced-3 and Ced-4 are in an inactive form in the absence of a death signal, and they are only activated when a death signal is present.",
+          "zh": "不正确。在没有死亡信号的情况下，Ced-3 和 Ced-4 处于非活化形式，它们仅在有死亡信号时才会被激活。",
+          "es": "Incorrecto. Ced-3 y Ced-4 se encuentran en una forma inactiva en ausencia de una señal de muerte, y solo se activan cuando hay una señal de muerte presente.",
+          "fr": "Incorrect. Ced-3 et Ced-4 sont sous forme inactive en l'absence de signal de mort, et ne sont activés qu'en présence d'un signal de mort.",
+          "de": "Falsch. Ced-3 und Ced-4 sind in Abwesenheit eines Todessignals in inaktiver Form und werden nur bei Vorhandensein eines Todessignals aktiviert.",
+          "ja": "不正解。Ced-3とCed-4は死のシグナルがない場合は不活性な形態であり、死のシグナルが存在する場合にのみ活性化されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 11.20a and the accompanying text state that as long as active Ced-9, located in the outer mitochondrial membrane, is present, it inhibits Ced-4 activity, thus preventing apoptosis and ensuring the cell remains alive. Ced-9 acts as a 'brake' on the apoptotic pathway.",
+      "zh": "图 11.20a 及附带文本指出，只要位于线粒体外膜的活化 Ced-9 蛋白存在，它就会抑制 Ced-4 的活性，从而阻止细胞凋亡并确保细胞保持存活。Ced-9 在细胞凋亡途径中起着“刹车”的作用。",
+      "es": "La Figura 11.20a y el texto adjunto indican que, mientras el Ced-9 activo, ubicado en la membrana mitocondrial externa, esté presente, inhibe la actividad de Ced-4, previniendo así la apoptosis y asegurando que la célula permanezca viva. Ced-9 actúa como un 'freno' en la vía apoptótica.",
+      "fr": "La figure 11.20a et le texte l'accompagnant indiquent que tant que la protéine Ced-9 active, située dans la membrane mitochondriale externe, est présente, elle inhibe l'activité de Ced-4, prévenant ainsi l'apoptose et assurant que la cellule reste en vie. Ced-9 agit comme un « frein » sur la voie apoptotique.",
+      "de": "Abbildung 11.20a und der begleitende Text besagen, dass aktives Ced-9, das sich in der äußeren Mitochondrienmembran befindet, die Ced-4-Aktivität hemmt, solange es vorhanden ist. Dies verhindert Apoptose und stellt sicher, dass die Zelle am Leben bleibt. Ced-9 fungiert als 'Bremse' im apoptotischen Signalweg.",
+      "ja": "図11.20aと付随するテキストによると、外膜にある活性化したCed-9タンパク質が存在する限り、Ced-4の活性を阻害し、アポトーシスを防ぎ、細胞を生存させ続けます。Ced-9はアポトーシス経路の「ブレーキ」として機能します。"
+    }
+  },
+  {
+    "page_number": 279,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "In the nematode *Caenorhabditis elegans*, what is the collective term for the main proteases involved in apoptosis, and which specific protein serves as the chief caspase?",
+      "zh": "在线虫 *Caenorhabditis elegans* 中，参与细胞凋亡的主要蛋白酶的统称是什么？哪种特定蛋白充当主要的半胱天冬酶？",
+      "es": "En el nematodo *Caenorhabditis elegans*, ¿cuál es el término colectivo para las principales proteasas involucradas en la apoptosis, y qué proteína específica sirve como la caspasa principal?",
+      "fr": "Chez le nématode *Caenorhabditis elegans*, quel est le terme collectif désignant les principales protéases impliquées dans l'apoptose, et quelle protéine spécifique sert de principale caspase ?",
+      "de": "Im Fadenwurm *Caenorhabditis elegans*, wie werden die Hauptproteasen, die an der Apoptose beteiligt sind, kollektiv genannt, und welches spezifische Protein dient als die Hauptcaspase?",
+      "ja": "線虫 *Caenorhabditis elegans* において、アポトーシスに関与する主要なプロテアーゼの総称は何ですか？また、どの特定のタンパク質が主要なカスパーゼとして機能しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Nucleases; Ced-4",
+          "zh": "核酸酶；Ced-4",
+          "es": "Nucleasas; Ced-4",
+          "fr": "Nucléases ; Ced-4",
+          "de": "Nukleasen; Ced-4",
+          "ja": "ヌクレアーゼ；Ced-4"
+        },
+        "feedback": {
+          "en": "Incorrect. Nucleases degrade DNA, and Ced-4 is an activator of Ced-3, not the chief caspase itself.",
+          "zh": "不正确。核酸酶降解 DNA，而 Ced-4 是 Ced-3 的激活剂，并非主要的半胱天冬酶。",
+          "es": "Incorrecto. Las nucleasas degradan el ADN, y Ced-4 es un activador de Ced-3, no la caspasa principal en sí misma.",
+          "fr": "Incorrect. Les nucléases dégradent l'ADN, et Ced-4 est un activateur de Ced-3, pas la principale caspase elle-même.",
+          "de": "Falsch. Nukleasen bauen DNA ab, und Ced-4 ist ein Aktivator von Ced-3, nicht die Hauptcaspase selbst.",
+          "ja": "不正解。ヌクレアーゼはDNAを分解し、Ced-4はCed-3の活性化因子であり、それ自体が主要なカスパーゼではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Caspases; Ced-3",
+          "zh": "半胱天冬酶；Ced-3",
+          "es": "Caspassas; Ced-3",
+          "fr": "Caspases ; Ced-3",
+          "de": "Caspasen; Ced-3",
+          "ja": "カスパーゼ；Ced-3"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Proteases; Ced-9",
+          "zh": "蛋白酶；Ced-9",
+          "es": "Proteasas; Ced-9",
+          "fr": "Protéases ; Ced-9",
+          "de": "Proteasen; Ced-9",
+          "ja": "プロテアーゼ；Ced-9"
+        },
+        "feedback": {
+          "en": "Incorrect. While caspases are a type of protease, the specific term is caspases. Ced-9 is a regulator, not a protease involved in degradation.",
+          "zh": "不正确。半胱天冬酶是一种蛋白酶，但特定术语是半胱天冬酶。Ced-9 是一种调节因子，不参与降解的蛋白酶。",
+          "es": "Incorrecto. Si bien las caspasas son un tipo de proteasa, el término específico es caspasas. Ced-9 es un regulador, no una proteasa involucrada en la degradación.",
+          "fr": "Incorrect. Bien que les caspases soient un type de protéase, le terme spécifique est caspases. Ced-9 est un régulateur, non une protéase impliquée dans la dégradation.",
+          "de": "Falsch. Während Caspasen eine Art von Protease sind, ist der spezifische Begriff Caspasen. Ced-9 ist ein Regulator, keine an der Degradation beteiligte Protease.",
+          "ja": "不正解。カスパーゼはプロテアーゼの一種ですが、具体的な用語はカスパーゼです。Ced-9は分解に関与するプロテアーゼではなく、調節因子です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Cytochrome c; Ced-3",
+          "zh": "细胞色素 c；Ced-3",
+          "es": "Citocromo c; Ced-3",
+          "fr": "Cytochrome c ; Ced-3",
+          "de": "Cytochrom c; Ced-3",
+          "ja": "シトクロムc；Ced-3"
+        },
+        "feedback": {
+          "en": "Incorrect. Cytochrome c is a cell death factor in mammals, not a protease, though Ced-3 is the chief caspase.",
+          "zh": "不正确。细胞色素 c 是哺乳动物中的细胞死亡因子，而非蛋白酶，尽管 Ced-3 是主要的半胱天冬酶。",
+          "es": "Incorrecto. El citocromo c es un factor de muerte celular en mamíferos, no una proteasa, aunque Ced-3 es la caspasa principal.",
+          "fr": "Incorrect. Le cytochrome c est un facteur de mort cellulaire chez les mammifères, pas une protéase, bien que Ced-3 soit la principale caspase.",
+          "de": "Falsch. Cytochrom c ist ein Zelltodfaktor bei Säugetieren, keine Protease, obwohl Ced-3 die Hauptcaspase ist.",
+          "ja": "不正解。シトクロムcは哺乳類における細胞死因子でありプロテアーゼではありませんが、Ced-3は主要なカスパーゼです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'The main proteases of apoptosis are called caspases; in the nematode, the chief caspase is the Ced-3 protein.'",
+      "zh": "文本明确指出：“细胞凋亡的主要蛋白酶被称为半胱天冬酶；在线虫中，主要的半胱天冬酶是 Ced-3 蛋白。”",
+      "es": "El texto establece explícitamente: 'Las principales proteasas de la apoptosis se llaman caspasas; en el nematodo, la caspasa principal es la proteína Ced-3'.",
+      "fr": "Le texte indique explicitement : « Les principales protéases de l'apoptose sont appelées caspases ; chez le nématode, la caspase principale est la protéine Ced-3. »",
+      "de": "Der Text besagt ausdrücklich: 'Die Hauptproteasen der Apoptose werden Caspasen genannt; im Fadenwurm ist die Hauptcaspase das Ced-3-Protein.'",
+      "ja": "テキストにはっきりと、「アポトーシスの主要なプロテアーゼはカスパーゼと呼ばれ、線虫においては、主要なカスパーゼはCed-3タンパク質である」と記載されています。"
+    }
+  },
+  {
+    "page_number": 279,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Considering the role of Ced-9 as a master regulator of apoptosis in *C. elegans*, what would be the most likely consequence if a *C. elegans* strain had a genetic mutation causing its Ced-9 protein to be constitutively (always) inactive?",
+      "zh": "考虑到 Ced-9 在线虫 *C. elegans* 细胞凋亡中作为主要调节因子的作用，如果一个 *C. elegans* 品系发生基因突变，导致其 Ced-9 蛋白持续（始终）处于非活化状态，最可能的结果是什么？",
+      "es": "Considerando el papel de Ced-9 como regulador maestro de la apoptosis en *C. elegans*, ¿cuál sería la consecuencia más probable si una cepa de *C. elegans* tuviera una mutación genética que causara que su proteína Ced-9 fuera constitutivamente (siempre) inactiva?",
+      "fr": "Compte tenu du rôle de Ced-9 en tant que régulateur principal de l'apoptose chez *C. elegans*, quelle serait la conséquence la plus probable si une souche de *C. elegans* présentait une mutation génétique rendant sa protéine Ced-9 constitutivement (toujours) inactive ?",
+      "de": "Betrachtet man die Rolle von Ced-9 als Hauptregulator der Apoptose in *C. elegans*, was wäre die wahrscheinlichste Folge, wenn ein *C. elegans*-Stamm eine genetische Mutation hätte, die sein Ced-9-Protein konstitutiv (immer) inaktiv macht?",
+      "ja": "*C. elegans*におけるアポトーシスの主要な調節因子としてのCed-9の役割を考慮すると、*C. elegans*の系統に、そのCed-9タンパク質が構成的に（常に）不活性になるような遺伝的変異があった場合、最も起こりうる結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Apoptosis would be completely inhibited, leading to the survival of all cells regardless of internal or external signals.",
+          "zh": "细胞凋亡将完全被抑制，导致所有细胞无论内部或外部信号如何都能存活。",
+          "es": "La apoptosis se inhibiría completamente, lo que llevaría a la supervivencia de todas las células, independientemente de las señales internas o externas.",
+          "fr": "L'apoptose serait complètement inhibée, entraînant la survie de toutes les cellules quels que soient les signaux internes ou externes.",
+          "de": "Apoptose würde vollständig gehemmt, was zum Überleben aller Zellen unabhängig von internen oder externen Signalen führen würde.",
+          "ja": "アポトーシスは完全に抑制され、内外のシグナルに関わらずすべての細胞が生存する。"
+        },
+        "feedback": {
+          "en": "Incorrect. Ced-9 acts as a brake (inhibitor of apoptosis). If it's inactive, the brake is off, which would promote apoptosis, not inhibit it.",
+          "zh": "不正确。Ced-9 起到“刹车”作用（凋亡抑制剂）。如果它不活跃，刹车就解除，这将促进细胞凋亡，而不是抑制它。",
+          "es": "Incorrecto. Ced-9 actúa como un freno (inhibidor de la apoptosis). Si está inactivo, el freno está desactivado, lo que promovería la apoptosis, no la inhibiría.",
+          "fr": "Incorrect. Ced-9 agit comme un frein (inhibiteur de l'apoptose). S'il est inactif, le frein est desserré, ce qui favoriserait l'apoptose, et non l'inhiberait.",
+          "de": "Falsch. Ced-9 wirkt als Bremse (Apoptose-Inhibitor). Wenn es inaktiv ist, ist die Bremse gelöst, was Apoptose fördern würde, anstatt sie zu hemmen.",
+          "ja": "不正解。Ced-9はブレーキ（アポトーシス阻害剤）として機能します。それが不活性である場合、ブレーキは解除され、アポトーシスは抑制されるのではなく促進されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The cell would be unable to receive any death-signaling molecules, thus remaining alive.",
+          "zh": "细胞将无法接收任何死亡信号分子，从而保持存活。",
+          "es": "La célula no podría recibir ninguna molécula señalizadora de muerte, por lo que permanecería viva.",
+          "fr": "La cellule serait incapable de recevoir des molécules de signalisation de mort, restant ainsi en vie.",
+          "de": "Die Zelle wäre nicht in der Lage, Todessignalmoleküle zu empfangen, und würde daher am Leben bleiben.",
+          "ja": "細胞は死のシグナル分子を受け取ることができなくなり、それによって生存し続ける。"
+        },
+        "feedback": {
+          "en": "Incorrect. Ced-9 is downstream of the death-signaling receptor. Its inactivation would not affect the ability to receive signals, but rather the response to them.",
+          "zh": "不正确。Ced-9 位于死亡信号受体的下游。它的非活化不会影响接收信号的能力，而是影响对信号的响应。",
+          "es": "Incorrecto. Ced-9 se encuentra aguas abajo del receptor de señalización de muerte. Su inactivación no afectaría la capacidad de recibir señales, sino la respuesta a ellas.",
+          "fr": "Incorrect. Ced-9 est en aval du récepteur de signalisation de mort. Son inactivation n'affecterait pas la capacité à recevoir des signaux, mais plutôt la réponse à ceux-ci.",
+          "de": "Falsch. Ced-9 ist nachgeschaltet dem Todessignalrezeptor. Seine Inaktivierung würde nicht die Fähigkeit zum Empfang von Signalen beeinträchtigen, sondern die Reaktion darauf.",
+          "ja": "不正解。Ced-9は死のシグナル受容体の下流に位置します。その不活性化は、シグナルを受け取る能力には影響しませんが、それらへの応答に影響します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Apoptosis would proceed constitutively or be overly sensitive to activation, likely leading to excessive and inappropriate cell death.",
+          "zh": "细胞凋亡将持续进行或对激活过度敏感，很可能导致过度和不适当的细胞死亡。",
+          "es": "La apoptosis procedería constitutivamente o sería hipersensible a la activación, lo que probablemente llevaría a una muerte celular excesiva e inapropiada.",
+          "fr": "L'apoptose se déroulerait constitutivement ou serait excessivement sensible à l'activation, entraînant probablement une mort cellulaire excessive et inappropriée.",
+          "de": "Apoptose würde konstitutiv ablaufen oder überempfindlich auf Aktivierung reagieren, was wahrscheinlich zu übermäßigem und unangemessenem Zelltod führen würde.",
+          "ja": "アポトーシスは構成的に進行するか、活性化に対して過敏になり、過度で不適切な細胞死を引き起こす可能性が高い。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Ced-3 and Ced-4 proteins would be synthesized in an active form, bypassing the need for Ced-9.",
+          "zh": "Ced-3 和 Ced-4 蛋白将以活化形式合成，从而绕过对 Ced-9 的需求。",
+          "es": "Las proteínas Ced-3 y Ced-4 se sintetizarían en una forma activa, obviando la necesidad de Ced-9.",
+          "fr": "Les protéines Ced-3 et Ced-4 seraient synthétisées sous une forme active, contournant le besoin de Ced-9.",
+          "de": "Ced-3- und Ced-4-Proteine würden in einer aktiven Form synthetisiert, wodurch die Notwendigkeit von Ced-9 umgangen würde.",
+          "ja": "Ced-3とCed-4タンパク質は活性型で合成され、Ced-9の必要性を回避する。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text states Ced-3 and Ced-4 are continually present in cells but in inactive form; their activation is at the protein activity level, not synthesis, and requires relief of Ced-9 inhibition.",
+          "zh": "不正确。文本指出 Ced-3 和 Ced-4 持续存在于细胞中，但以非活化形式存在；它们的激活是在蛋白质活性水平上，而不是合成水平，并且需要解除 Ced-9 的抑制。",
+          "es": "Incorrecto. El texto indica que Ced-3 y Ced-4 están continuamente presentes en las células pero en forma inactiva; su activación es a nivel de actividad proteica, no de síntesis, y requiere la liberación de la inhibición de Ced-9.",
+          "fr": "Incorrect. Le texte indique que Ced-3 et Ced-4 sont continuellement présents dans les cellules mais sous forme inactive ; leur activation se fait au niveau de l'activité protéique, et non de la synthèse, et nécessite la levée de l'inhibition de Ced-9.",
+          "de": "Falsch. Der Text besagt, dass Ced-3 und Ced-4 kontinuierlich in Zellen vorhanden sind, aber in inaktiver Form; ihre Aktivierung erfolgt auf Ebene der Proteinaktivität, nicht der Synthese, und erfordert die Aufhebung der Ced-9-Hemmung.",
+          "ja": "不正解。テキストによると、Ced-3とCed-4は細胞内に常に存在するが不活性な形であり、その活性化はタンパク質の活性レベルで行われ、合成レベルではなく、Ced-9の阻害解除を必要とします。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Ced-9 normally acts as a 'brake' on apoptosis by inhibiting Ced-4. If Ced-9 is constitutively inactive, this inhibition is removed, allowing Ced-4 to activate Ced-3 and initiate the apoptotic cascade without proper regulation, leading to excessive and unintended cell death.",
+      "zh": "Ced-9 通常通过抑制 Ced-4 而起到细胞凋亡的“刹车”作用。如果 Ced-9 持续处于非活化状态，这种抑制作用就会被解除，使得 Ced-4 能够在没有适当调节的情况下激活 Ced-3 并启动细胞凋亡级联反应，从而导致过度和不适当的细胞死亡。",
+      "es": "Ced-9 normalmente actúa como un 'freno' de la apoptosis al inhibir a Ced-4. Si Ced-9 está constitutivamente inactivo, esta inhibición se elimina, permitiendo que Ced-4 active a Ced-3 e inicie la cascada apoptótica sin una regulación adecuada, lo que lleva a una muerte celular excesiva e inadecuada.",
+      "fr": "Ced-9 agit normalement comme un « frein » à l'apoptose en inhibant Ced-4. Si Ced-9 est constitutivement inactif, cette inhibition est levée, permettant à Ced-4 d'activer Ced-3 et d'initier la cascade apoptotique sans régulation appropriée, ce qui entraînerait une mort cellulaire excessive et inappropriée.",
+      "de": "Ced-9 fungiert normalerweise als 'Bremse' der Apoptose, indem es Ced-4 hemmt. Wenn Ced-9 konstitutiv inaktiv ist, wird diese Hemmung aufgehoben, was Ced-4 die Aktivierung von Ced-3 und die Initiierung der apoptotischen Kaskade ohne ordnungsgemäße Regulation ermöglicht, was zu übermäßigem und unangemessenem Zelltod führt.",
+      "ja": "Ced-9は通常、Ced-4を阻害することでアポトーシスの「ブレーキ」として機能します。Ced-9が構成的に不活性である場合、この阻害が解除され、Ced-4がCed-3を活性化し、適切な調節なしにアポトーシス経路を開始するため、過剰で不適切な細胞死を引き起こします。"
+    }
+  }
+]

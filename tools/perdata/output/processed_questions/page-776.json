@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 776,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement accurately describes a reproductive strategy found in sharks according to the provided text?",
+      "zh": "根据所提供的文本，以下哪项陈述准确描述了鲨鱼的一种繁殖策略？",
+      "es": "¿Qué afirmación describe con precisión una estrategia reproductiva que se encuentra en los tiburones según el texto proporcionado?",
+      "fr": "Quelle affirmation décrit avec précision une stratégie de reproduction chez les requins selon le texte fourni ?",
+      "de": "Welche Aussage beschreibt eine im Text genannte Fortpflanzungsstrategie von Haien genau?",
+      "ja": "提供されたテキストによると、サメに見られる繁殖戦略を正確に記述しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "All sharks are oviparous, laying eggs that develop outside the mother.",
+          "zh": "所有鲨鱼都是卵生的，产下在母体外发育的卵。",
+          "es": "Todos los tiburones son ovíparos, ponen huevos que se desarrollan fuera de la madre.",
+          "fr": "Tous les requins sont ovipares, pondant des œufs qui se développent à l'extérieur de la mère.",
+          "de": "Alle Haie sind eierlegend (ovipar) und legen Eier, die sich außerhalb des Muttertiers entwickeln.",
+          "ja": "すべてのサメは卵生であり、母体外で発生する卵を産みます。"
+        },
+        "feedback": {
+          "en": "The text states that some species are oviparous, but others are ovoviviparous or viviparous. So, not all sharks are oviparous.",
+          "zh": "文本指出，有些物种是卵生，但其他物种是卵胎生或胎生。因此，并非所有鲨鱼都是卵生。",
+          "es": "El texto indica que algunas especies son ovíparas, pero otras son ovovivíparas o vivíparas. Por lo tanto, no todos los tiburones son ovíparos.",
+          "fr": "Le texte indique que certaines espèces sont ovipares, mais d'autres sont ovovivipares ou vivipares. Tous les requins ne sont donc pas ovipares.",
+          "de": "Der Text besagt, dass einige Arten ovipar sind, aber andere ovovivipar oder vivipar. Also sind nicht alle Haie ovipar.",
+          "ja": "本文によると、一部の種は卵生ですが、卵胎生または胎生の種もいます。したがって、すべてのサメが卵生であるわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Ovoviviparous sharks retain fertilized eggs in the oviduct, and embryos are nourished by the egg yolk.",
+          "zh": "卵胎生鲨鱼将受精卵保留在输卵管中，胚胎通过卵黄获得营养。",
+          "es": "Los tiburones ovovivíparos retienen los huevos fertilizados en el oviducto, y los embriones se nutren de la yema del huevo.",
+          "fr": "Les requins ovovivipares retiennent les œufs fécondés dans l'oviducte, et les embryons sont nourris par le jaune d'œuf.",
+          "de": "Ovovivipare Haie behalten befruchtete Eier im Eileiter, und die Embryonen werden durch den Dottersack ernährt.",
+          "ja": "卵胎生サメは受精卵を卵管内に保持し、胚は卵黄によって栄養を与えられます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Viviparous sharks develop outside the mother's body, receiving nourishment directly from the environment.",
+          "zh": "胎生鲨鱼在母体外发育，直接从环境中获取营养。",
+          "es": "Los tiburones vivíparos se desarrollan fuera del cuerpo de la madre, recibiendo nutrientes directamente del medio ambiente.",
+          "fr": "Les requins vivipares se développent à l'extérieur du corps de la mère, recevant des nutriments directement de l'environnement.",
+          "de": "Vivipare Haie entwickeln sich außerhalb des Muttertieres und erhalten Nährstoffe direkt aus der Umwelt.",
+          "ja": "胎生サメは母体外で発生し、環境から直接栄養を受け取ります。"
+        },
+        "feedback": {
+          "en": "Viviparous sharks develop *within* the uterus and obtain nourishment from the mother's blood, a yolk sac placenta, or by eating other eggs, not directly from the environment outside.",
+          "zh": "胎生鲨鱼在子宫内发育，通过母体血液、卵黄囊胎盘或食用其他卵获取营养，而不是直接从外部环境获取。",
+          "es": "Los tiburones vivíparos se desarrollan *dentro* del útero y obtienen nutrientes de la sangre de la madre, una placenta de saco vitelino o comiendo otros huevos, no directamente del ambiente exterior.",
+          "fr": "Les requins vivipares se développent *à l'intérieur* de l'utérus et obtiennent des nutriments du sang de la mère, d'un placenta vitellin, ou en mangeant d'autres œufs, et non directement de l'environnement extérieur.",
+          "de": "Vivipare Haie entwickeln sich *innerhalb* der Gebärmutter und erhalten Nährstoffe aus dem Blut der Mutter, einem Dottersackplazenta oder durch das Fressen anderer Eier, nicht direkt aus der äußeren Umgebung.",
+          "ja": "胎生サメは子宮内で発生し、母体の血液、卵黄嚢胎盤、または他の卵を食べることで栄養を得ます。外部環境から直接栄養を得るわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Internal fertilization does not occur in sharks; sperm is transferred externally.",
+          "zh": "鲨鱼不发生体内受精；精子是体外转移的。",
+          "es": "La fertilización interna no ocurre en tiburones; el esperma se transfiere externamente.",
+          "fr": "La fécondation interne ne se produit pas chez les requins ; le sperme est transféré extérieurement.",
+          "de": "Bei Haien findet keine innere Befruchtung statt; Spermien werden extern übertragen.",
+          "ja": "サメには体内受精は起こりません。精子は体外で受精します。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that shark eggs are fertilized internally and that the male has claspers to transfer sperm into the female's reproductive tract.",
+          "zh": "文本明确指出鲨鱼卵是体内受精的，雄性有鳍足将精子转移到雌性生殖道中。",
+          "es": "El texto establece explícitamente que los huevos de tiburón son fertilizados internamente y que el macho tiene aletas pélvicas modificadas (claspers) para transferir esperma al tracto reproductivo de la hembra.",
+          "fr": "Le texte indique explicitement que les œufs de requin sont fécondés en interne et que le mâle possède des ptérygopodes pour transférer le sperme dans le tractus reproducteur de la femelle.",
+          "de": "Der Text besagt ausdrücklich, dass Haieier intern befruchtet werden und dass das Männchen Klasper besitzt, um Spermien in den Fortpflanzungstrakt des Weibchens zu übertragen.",
+          "ja": "本文には、サメの卵は体内受精であり、オスはクラッパーを使って精子をメスの生殖管に移動させると明記されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'Other species are ovoviviparous; they retain the fertilized eggs in the oviduct. Nourished by the egg yolk, the embryos develop into young that are born after hatching within the uterus.' This perfectly matches option B.",
+      "zh": "文本指出：“其他物种是卵胎生；它们将受精卵保留在输卵管中。胚胎通过卵黄获得营养，在子宫内孵化后发育成幼体。”这与选项 B 完全吻合。",
+      "es": "El texto dice: \"Otras especies son ovovivíparas; retienen los huevos fertilizados en el oviducto. Nutridos por la yema del huevo, los embriones se desarrollan en crías que nacen después de eclosionar dentro del útero\". Esto coincide perfectamente con la opción B.",
+      "fr": "Le texte indique : « D'autres espèces sont ovovivipares ; elles retiennent les œufs fécondés dans l'oviducte. Nourris par le jaune d'œuf, les embryons se développent en jeunes qui naissent après l'éclosion à l'intérieur de l'utérus. » Cela correspond parfaitement à l'option B.",
+      "de": "Der Text besagt: „Andere Arten sind ovovivipar; sie behalten die befruchteten Eier im Eileiter. Von Dotter ernährt, entwickeln sich die Embryonen zu Jungen, die nach dem Schlüpfen innerhalb der Gebärmutter geboren werden.“ Dies stimmt perfekt mit Option B überein.",
+      "ja": "本文には「他の種は卵胎生であり、受精卵を卵管内に保持します。卵黄から栄養を得て、胚は子宮内で孵化後、若魚に成長します。」と記載されており、これは選択肢Bと完全に一致します。"
+    }
+  },
+  {
+    "page_number": 776,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the text, which of the following is NOT true regarding shark senses?",
+      "zh": "根据文本，关于鲨鱼的感官，以下哪项是不正确的？",
+      "es": "Según el texto, ¿cuál de las siguientes afirmaciones NO es cierta con respecto a los sentidos de los tiburones?",
+      "fr": "Selon le texte, laquelle des affirmations suivantes n'est PAS vraie concernant les sens des requins ?",
+      "de": "Basierend auf dem Text, welche der folgenden Aussagen trifft auf die Sinne von Haien NICHT zu?",
+      "ja": "テキストによると、サメの感覚に関して、次のうちどれが真実ではありませんか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Sharks possess acute vision and can distinguish a wide range of colors.",
+          "zh": "鲨鱼具有敏锐的视力，可以分辨多种颜色。",
+          "es": "Los tiburones poseen una visión aguda y pueden distinguir una amplia gama de colores.",
+          "fr": "Les requins possèdent une vision aiguë et peuvent distinguer un large éventail de couleurs.",
+          "de": "Haie besitzen ein scharfes Sehvermögen und können eine Vielzahl von Farben unterscheiden.",
+          "ja": "サメは鋭い視覚を持ち、広範囲の色を識別できます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Their nostrils are used for smelling, not for breathing.",
+          "zh": "它们的鼻孔用于嗅觉，而非呼吸。",
+          "es": "Sus fosas nasales se usan para oler, no para respirar.",
+          "fr": "Leurs narines sont utilisées pour sentir, et non pour respirer.",
+          "de": "Ihre Nasenlöcher dienen zum Riechen, nicht zum Atmen.",
+          "ja": "鼻孔は呼吸のためではなく、嗅覚のために使用されます。"
+        },
+        "feedback": {
+          "en": "The text states: 'The nostrils of sharks... function only for olfaction (smelling), not for breathing.' This statement is true, so it is not the correct answer to the question asking what is NOT true.",
+          "zh": "文本指出：“鲨鱼的鼻孔……仅用于嗅觉（闻），不用于呼吸。”此陈述是正确的，因此它不是要求找出不正确陈述的正确答案。",
+          "es": "El texto establece: 'Las fosas nasales de los tiburones... funcionan solo para la olfacción (oler), no para respirar'. Esta afirmación es cierta, por lo que no es la respuesta correcta a la pregunta que busca lo que NO es cierto.",
+          "fr": "Le texte indique : « Les narines des requins... ne fonctionnent que pour l'olfaction (l'odorat), pas pour la respiration. » Cette affirmation est vraie, ce n'est donc pas la bonne réponse à la question demandant ce qui n'est PAS vrai.",
+          "de": "Der Text besagt: „Die Nasenlöcher von Haien... dienen nur dem Geruchssinn (Riechen), nicht der Atmung.“ Diese Aussage ist wahr, daher ist sie nicht die richtige Antwort auf die Frage, was NICHT wahr ist.",
+          "ja": "テキストには「サメの鼻孔は...嗅覚（匂いを嗅ぐこと）のみに機能し、呼吸のためではない」と記載されています。この記述は真実であり、したがって「真実ではないもの」を尋ねる質問に対する正解ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They can detect electric fields generated by nearby animal muscle contractions.",
+          "zh": "它们可以探测附近动物肌肉收缩产生的电场。",
+          "es": "Pueden detectar campos eléctricos generados por las contracciones musculares de animales cercanos.",
+          "fr": "Ils peuvent détecter les champs électriques générés par les contractions musculaires des animaux proches.",
+          "de": "Sie können elektrische Felder erkennen, die durch Muskelkontraktionen nahegelegener Tiere erzeugt werden.",
+          "ja": "近くの動物の筋肉収縮によって発生する電場を検出できます。"
+        },
+        "feedback": {
+          "en": "The text states: 'sharks have a pair of regions in the skin of their head that can detect electric fields generated by the muscle contractions of nearby animals.' This statement is true, so it is not the correct answer to the question asking what is NOT true.",
+          "zh": "文本指出：“鲨鱼头部皮肤有两个区域，可以探测附近动物肌肉收缩产生的电场。”此陈述是正确的，因此它不是要求找出不正确陈述的正确答案。",
+          "es": "El texto establece: 'los tiburones tienen un par de regiones en la piel de su cabeza que pueden detectar campos eléctricos generados por las contracciones musculares de animales cercanos'. Esta afirmación es cierta, por lo que no es la respuesta correcta a la pregunta que busca lo que NO es cierto.",
+          "fr": "Le texte indique : « les requins ont une paire de régions dans la peau de leur tête qui peuvent détecter les champs électriques générés par les contractions musculaires des animaux proches. » Cette affirmation est vraie, ce n'est donc pas la bonne réponse à la question demandant ce qui n'est PAS vrai.",
+          "de": "Der Text besagt: „Haie haben ein Paar Bereiche in der Haut ihres Kopfes, die elektrische Felder erkennen können, die durch Muskelkontraktionen nahegelegener Tiere erzeugt werden.“ Diese Aussage ist wahr, daher ist sie nicht die richtige Antwort auf die Frage, was NICHT wahr ist.",
+          "ja": "本文には「サメの頭部の皮膚には、近くの動物の筋肉収縮によって発生する電場を検出できる一対の領域がある」と記載されています。この記述は真実であり、したがって「真実ではないもの」を尋ねる質問に対する正解ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Sound reaches their inner ear via their entire body through water, as they lack eardrums.",
+          "zh": "由于它们没有耳膜，声音通过水经由它们的整个身体传到内耳。",
+          "es": "El sonido llega a su oído interno a través de todo su cuerpo a través del agua, ya que carecen de tímpanos.",
+          "fr": "Le son atteint leur oreille interne via tout leur corps à travers l'eau, car ils n'ont pas de tympans.",
+          "de": "Schall erreicht ihr Innenohr über ihren gesamten Körper durch Wasser, da sie keine Trommelfelle besitzen.",
+          "ja": "鼓膜がないため、音は水を通して体全体を介して内耳に到達します。"
+        },
+        "feedback": {
+          "en": "The text states: 'Like all nonmammalian aquatic vertebrates, sharks have no eardrums... Sound reaches a shark through water, and the animal's entire body transmits the sound to the hearing organs of the inner ear.' This statement is true, so it is not the correct answer to the question asking what is NOT true.",
+          "zh": "文本指出：“像所有非哺乳动物水生脊椎动物一样，鲨鱼没有耳膜……声音通过水传到鲨鱼身上，动物的整个身体将声音传导到内耳的听觉器官。”此陈述是正确的，因此它不是要求找出不正确陈述的正确答案。",
+          "es": "El texto establece: 'Como todos los vertebrados acuáticos no mamíferos, los tiburones no tienen tímpanos... El sonido llega a un tiburón a través del agua, y todo el cuerpo del animal transmite el sonido a los órganos auditivos del oído interno'. Esta afirmación es cierta, por lo que no es la respuesta correcta a la pregunta que busca lo que NO es cierto.",
+          "fr": "Le texte indique : « Comme tous les vertébrés aquatiques non mammaliens, les requins n'ont pas de tympans... Le son atteint un requin à travers l'eau, et tout le corps de l'animal transmet le son aux organes auditifs de l'oreille interne. » Cette affirmation est vraie, ce n'est donc pas la bonne réponse à la question demandant ce qui n'est PAS vrai.",
+          "de": "Der Text besagt: „Wie alle nicht-säugetierartigen Wasserwirbeltiere haben Haie keine Trommelfelle... Schall erreicht einen Hai durch Wasser, und der gesamte Körper des Tieres überträgt den Schall zu den Hörorganen des Innenohrs.“ Diese Aussage ist wahr, daher ist sie nicht die richtige Antwort auf die Frage, was NICHT wahr ist.",
+          "ja": "本文には「非哺乳類のすべての水生脊椎動物と同様に、サメには鼓膜がありません...音は水を通してサメに到達し、動物の体全体がその音を内耳の聴覚器官に伝達します。」と記載されています。この記述は真実であり、したがって「真実ではないもの」を尋ねる質問に対する正解ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Sharks have sharp vision but cannot distinguish colors.' Therefore, the statement that they 'can distinguish a wide range of colors' is NOT true, making option A the correct answer.",
+      "zh": "文本明确指出：“鲨鱼视力敏锐但不能分辨颜色。”因此，声称它们“可以分辨多种颜色”的陈述是不正确的，故选项 A 是正确答案。",
+      "es": "El texto establece explícitamente: 'Los tiburones tienen una visión aguda pero no pueden distinguir colores'. Por lo tanto, la afirmación de que 'pueden distinguir una amplia gama de colores' NO es cierta, lo que hace que la opción A sea la respuesta correcta.",
+      "fr": "Le texte indique explicitement : « Les requins ont une vision aiguë mais ne peuvent pas distinguer les couleurs. » Par conséquent, l'affirmation selon laquelle ils « peuvent distinguer un large éventail de couleurs » n'est PAS vraie, ce qui fait de l'option A la bonne réponse.",
+      "de": "Der Text besagt ausdrücklich: „Haie haben ein scharfes Sehvermögen, können aber keine Farben unterscheiden.“ Daher ist die Aussage, dass sie „eine Vielzahl von Farben unterscheiden können“, NICHT wahr, was Option A zur richtigen Antwort macht.",
+      "ja": "本文には「サメは鋭い視覚を持っていますが、色を識別することはできません」と明記されています。したがって、「広範囲の色を識別できる」という記述は真実ではないため、選択肢Aが正解です。"
+    }
+  },
+  {
+    "page_number": 776,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, what is a key difference in lifestyle or physical adaptation between most sharks and most rays?",
+      "zh": "根据文本，大多数鲨鱼和大多数鳐鱼在生活方式或身体适应方面的主要区别是什么？",
+      "es": "Según el texto, ¿cuál es una diferencia clave en el estilo de vida o la adaptación física entre la mayoría de los tiburones y la mayoría de las rayas?",
+      "fr": "Selon le texte, quelle est une différence clé dans le mode de vie ou l'adaptation physique entre la plupart des requins et la plupart des raies ?",
+      "de": "Laut Text, was ist ein wesentlicher Unterschied im Lebensstil oder in der physischen Anpassung zwischen den meisten Haien und den meisten Rochen?",
+      "ja": "テキストによると、ほとんどのサメとほとんどのエイのライフスタイルまたは身体的適応における主要な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Most sharks are bottom-dwellers, while most rays are fast swimmers in open water.",
+          "zh": "大多数鲨鱼是底栖动物，而大多数鳐鱼是开放水域的快速游泳者。",
+          "es": "La mayoría de los tiburones son habitantes del fondo, mientras que la mayoría de las rayas son nadadores rápidos en aguas abiertas.",
+          "fr": "La plupart des requins sont des habitants des fonds marins, tandis que la plupart des raies sont des nageurs rapides en pleine eau.",
+          "de": "Die meisten Haie sind Bodenbewohner, während die meisten Rochen schnelle Schwimmer im offenen Wasser sind.",
+          "ja": "ほとんどのサメは底生生物ですが、ほとんどのエイは外洋を速く泳ぎます。"
+        },
+        "feedback": {
+          "en": "The text states the opposite: 'Most rays are bottom-dwellers' and 'Sharks are fast swimmers'.",
+          "zh": "文本中的陈述恰好相反：“大多数鳐鱼是底栖动物”而“鲨鱼是快速游泳者”。",
+          "es": "El texto establece lo opuesto: 'La mayoría de las rayas son habitantes del fondo' y 'Los tiburones son nadadores rápidos'.",
+          "fr": "Le texte indique le contraire : « La plupart des raies sont des habitants des fonds marins » et « Les requins sont des nageurs rapides ».",
+          "de": "Der Text besagt das Gegenteil: „Die meisten Rochen sind Bodenbewohner“ und „Haie sind schnelle Schwimmer“.",
+          "ja": "本文は反対のことを述べています。「ほとんどのエイは底生生物」であり、「サメは速い泳ぎ手」です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Rays use greatly enlarged pectoral fins for propulsion, whereas sharks primarily rely on their tails.",
+          "zh": "鳐鱼使用大大增大的胸鳍进行推进，而鲨鱼主要依靠尾部。",
+          "es": "Las rayas usan aletas pectorales muy agrandadas para la propulsión, mientras que los tiburones dependen principalmente de sus colas.",
+          "fr": "Les raies utilisent des nageoires pectorales considérablement agrandies pour la propulsion, tandis que les requins dépendent principalement de leur queue.",
+          "de": "Rochen nutzen stark vergrößerte Brustflossen zur Fortbewegung, während Haie hauptsächlich auf ihre Schwänze angewiesen sind.",
+          "ja": "エイは大きく発達した胸びれを推進に用い、一方サメは主に尾に依存します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Sharks typically feed on molluscs and crustaceans, while rays are mostly carnivores.",
+          "zh": "鲨鱼通常以软体动物和甲壳动物为食，而鳐鱼大多是肉食性的。",
+          "es": "Los tiburones suelen alimentarse de moluscos y crustáceos, mientras que las rayas son en su mayoría carnívoras.",
+          "fr": "Les requins se nourrissent généralement de mollusques et de crustacés, tandis que les raies sont principalement carnivores.",
+          "de": "Haie ernähren sich typischerweise von Weichtieren und Krebstieren, während Rochen meist Fleischfresser sind.",
+          "ja": "サメは通常、軟体動物や甲殻類を食べますが、エイはほとんどが肉食性です。"
+        },
+        "feedback": {
+          "en": "The text states: 'Most rays are bottom-dwellers that feed by using their jaws to crush molluscs and crustaceans.' It also says: 'Most sharks, however, are carnivores'. This option reverses the feeding habits.",
+          "zh": "文本指出：“大多数鳐鱼是底栖动物，利用颚部压碎软体动物和甲壳动物为食。”它还提到：“然而，大多数鲨鱼是肉食性的。”此选项颠倒了其食性。",
+          "es": "El texto establece: 'La mayoría de las rayas son habitantes del fondo que se alimentan usando sus mandíbulas para aplastar moluscos y crustáceos'. También dice: 'La mayoría de los tiburones, sin embargo, son carnívoros'. Esta opción invierte los hábitos alimenticios.",
+          "fr": "Le texte indique : « La plupart des raies sont des habitants des fonds marins qui se nourrissent en utilisant leurs mâchoires pour écraser les mollusques et les crustacés. » Il dit aussi : « La plupart des requins, cependant, sont carnivores. » Cette option inverse les habitudes alimentaires.",
+          "de": "Der Text besagt: „Die meisten Rochen sind Bodenbewohner, die sich mit ihren Kiefern von Weichtieren und Krebstieren ernähren.“ Es heißt auch: „Die meisten Haie sind jedoch Fleischfresser.“ Diese Option vertauscht die Ernährungsgewohnheiten.",
+          "ja": "テキストには、「ほとんどのエイは、顎を使って軟体動物や甲殻類を砕いて捕食する底生生物である」と記載されています。また、「しかし、ほとんどのサメは肉食動物である」ともあります。この選択肢は食性を逆転させています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Sharks have venomous barbs for defense, while rays use powerful jaws and teeth.",
+          "zh": "鲨鱼有毒刺用于防御，而鳐鱼则使用强大的颌部和牙齿。",
+          "es": "Los tiburones tienen púas venenosas para la defensa, mientras que las rayas usan mandíbulas y dientes poderosos.",
+          "fr": "Les requins ont des barbillons venimeux pour la défense, tandis que les raies utilisent des mâchoires et des dents puissantes.",
+          "de": "Haie haben giftige Stacheln zur Verteidigung, während Rochen kräftige Kiefer und Zähne einsetzen.",
+          "ja": "サメは防御のために毒のあるとげを持っていますが、エイは強力な顎と歯を使います。"
+        },
+        "feedback": {
+          "en": "The text states that the 'tail of many rays is whiplike and, in some species, bears venomous barbs that function in defense.' It mentions sharks use their 'powerful jaws and sharp teeth to tear flesh'. This option reverses the defensive features.",
+          "zh": "文本指出“许多鳐鱼的尾巴呈鞭状，在某些物种中带有毒刺，起到防御作用。”它提到鲨鱼使用“强大的颌部和锋利的牙齿撕裂肉体”。此选项颠倒了其防御特征。",
+          "es": "El texto establece que 'la cola de muchas rayas es como un látigo y, en algunas especies, lleva púas venenosas que funcionan en defensa'. Menciona que los tiburones usan sus 'poderosas mandíbulas y dientes afilados para desgarrar la carne'. Esta opción invierte las características defensivas.",
+          "fr": "Le texte indique que « la queue de nombreuses raies est en forme de fouet et, chez certaines espèces, porte des barbillons venimeux qui servent à la défense. » Il mentionne que les requins utilisent leurs « mâchoires puissantes et leurs dents acérées pour déchirer la chair. » Cette option inverse les caractéristiques défensives.",
+          "de": "Der Text besagt, dass der „Schwanz vieler Rochen peitschenartig ist und bei einigen Arten giftige Stacheln zur Verteidigung trägt.“ Er erwähnt, dass Haie ihre „kräftigen Kiefer und scharfen Zähne benutzen, um Fleisch zu zerreißen.“ Diese Option vertauscht die Verteidigungsmerkmale.",
+          "ja": "本文には、「多くのエイの尾は鞭状で、一部の種では防御に機能する毒のあるとげを持つ」と記載されています。また、サメは「強力な顎と鋭い歯で肉を引き裂く」とあります。この選択肢は防御の特徴を逆転させています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text clearly states: 'Although rays are closely related to sharks, they have adopted a very different lifestyle... They have a flattened shape and use their greatly enlarged pectoral fins like water wings to propel themselves through the water.' For sharks, it states they are 'fast swimmers' and have 'paired pectoral and pelvic fins' which implies their primary propulsion is from the tail, typical for sharks. This aligns with option B.",
+      "zh": "文本明确指出：“尽管鳐鱼与鲨鱼密切相关，但它们采用了截然不同的生活方式……它们扁平的形状，并利用大大增大的胸鳍像水翼一样在水中推进。”对于鲨鱼，文本指出它们是“快速游泳者”，并有“成对的胸鳍和腹鳍”，这暗示它们的主要推进力来自尾部，这是鲨鱼的典型特征。这与选项 B 一致。",
+      "es": "El texto dice claramente: 'Aunque las rayas están estrechamente relacionadas con los tiburones, han adoptado un estilo de vida muy diferente... Tienen una forma aplanada y usan sus aletas pectorales muy agrandadas como alas de agua para propulsarse a través del agua'. Para los tiburones, dice que son 'nadadores rápidos' y tienen 'aletas pectorales y pélvicas pareadas', lo que implica que su propulsión principal es de la cola, típica de los tiburones. Esto concuerda con la opción B.",
+      "fr": "Le texte indique clairement : « Bien que les raies soient étroitement liées aux requins, elles ont adopté un mode de vie très différent... Elles ont une forme aplatie et utilisent leurs nageoires pectorales considérablement agrandies comme des ailes aquatiques pour se propulser dans l'eau. » Pour les requins, il est dit qu'ils sont des « nageurs rapides » et qu'ils ont des « nageoires pectorales et pelviennes appariées », ce qui implique que leur propulsion principale provient de leur queue, typique des requins. Cela correspond à l'option B.",
+      "de": "Der Text besagt eindeutig: „Obwohl Rochen eng mit Haien verwandt sind, haben sie einen sehr unterschiedlichen Lebensstil angenommen... Sie haben eine abgeflachte Form und nutzen ihre stark vergrößerten Brustflossen wie Wasserflügel, um sich durchs Wasser zu bewegen.“ Bei Haien heißt es, sie seien „schnelle Schwimmer“ und hätten „gepaarte Brust- und Bauchflossen“, was impliziert, dass ihre primäre Fortbewegung durch den Schwanz erfolgt, typisch für Haie. Dies stimmt mit Option B überein.",
+      "ja": "本文には「エイはサメと近縁であるにもかかわらず、非常に異なる生活様式を採用しています...彼らは平らな形をしており、非常に大きく発達した胸びれを水翼のように使って水中を推進します。」と明確に記載されています。サメについては、「速い泳ぎ手」であり、「対になった胸びれと腹びれ」を持つと述べられており、これはサメの典型的な特徴である尾部からの主要な推進を示唆しています。これは選択肢Bと一致します。"
+    }
+  },
+  {
+    "page_number": 776,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements about the internal anatomy of sharks is correct, according to the text?",
+      "zh": "根据文本，关于鲨鱼内部解剖结构，以下哪项陈述是正确的？",
+      "es": "Según el texto, ¿cuál de las siguientes afirmaciones sobre la anatomía interna de los tiburones es correcta?",
+      "fr": "Selon le texte, laquelle des affirmations suivantes concernant l'anatomie interne des requins est correcte ?",
+      "de": "Welche der folgenden Aussagen zur inneren Anatomie von Haien ist laut Text korrekt?",
+      "ja": "テキストによると、サメの内部構造に関する以下の記述のうち、正しいのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The shark's intestine contains a spiral valve that reduces surface area for nutrient absorption.",
+          "zh": "鲨鱼的肠道含有一个螺旋瓣，它减少了营养吸收的表面积。",
+          "es": "El intestino del tiburón contiene una válvula espiral que reduce la superficie para la absorción de nutrientes.",
+          "fr": "L'intestin du requin contient une valvule spirale qui réduit la surface d'absorption des nutriments.",
+          "de": "Der Darm des Hais enthält eine Spiralwindung, die die Oberfläche für die Nährstoffaufnahme verringert.",
+          "ja": "サメの腸には栄養吸収のための表面積を減少させる螺旋弁が含まれています。"
+        },
+        "feedback": {
+          "en": "The text states the opposite: 'Within the shark intestine is a spiral valve, a corkscrew-shaped ridge that increases surface area and prolongs the passage of food through the digestive tract.'",
+          "zh": "文本中的陈述恰好相反：“鲨鱼肠道内有一个螺旋瓣，这是一个螺旋状的褶皱，它增加了表面积并延长了食物通过消化道的行程。”",
+          "es": "El texto establece lo opuesto: 'Dentro del intestino del tiburón hay una válvula espiral, una cresta en forma de sacacorchos que aumenta la superficie y prolonga el paso de los alimentos a través del tracto digestivo'.",
+          "fr": "Le texte indique le contraire : « À l'intérieur de l'intestin du requin se trouve une valvule spirale, une crête en forme de tire-bouchon qui augmente la surface et prolonge le passage des aliments à travers le tube digestif. »",
+          "de": "Der Text besagt das Gegenteil: „Im Haidarm befindet sich eine Spiralwindung, eine korkenzieherförmige Leiste, die die Oberfläche vergrößert und den Durchgang der Nahrung durch den Verdauungstrakt verlängert.“",
+          "ja": "本文は反対のことを述べています。「サメの腸内には螺旋弁があり、これはコルク栓抜き状の隆起で、表面積を増やし、消化管を通る食物の通過を延長します。」"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Their digestive tract is proportionately longer than that of many other vertebrates.",
+          "zh": "它们的消化道相对比许多其他脊椎动物更长。",
+          "es": "Su tracto digestivo es proporcionalmente más largo que el de muchos otros vertebrados.",
+          "fr": "Leur tube digestif est proportionnellement plus long que celui de nombreux autres vertébrés.",
+          "de": "Ihr Verdauungstrakt ist proportional länger als der vieler anderer Wirbeltiere.",
+          "ja": "サメの消化管は、他の多くの脊椎動物と比較して、相対的に長いです。"
+        },
+        "feedback": {
+          "en": "The text states: 'The digestive tract of many sharks is proportionately shorter than that of many other vertebrates.'",
+          "zh": "文本指出：“许多鲨鱼的消化道相对比许多其他脊椎动物更短。”",
+          "es": "El texto establece: 'El tracto digestivo de muchos tiburones es proporcionalmente más corto que el de muchos otros vertebrados'.",
+          "fr": "Le texte indique : « Le tube digestif de nombreux requins est proportionnellement plus court que celui de nombreux autres vertébrés. »",
+          "de": "Der Text besagt: „Der Verdauungstrakt vieler Haie ist proportional kürzer als der vieler anderer Wirbeltiere.“",
+          "ja": "本文には「多くのサメの消化管は、他の多くの脊椎動物よりも相対的に短い」と記載されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The cloaca is a common chamber for the reproductive, excretory, and digestive tracts, with a single external opening.",
+          "zh": "泄殖腔是生殖、排泄和消化道共用的腔室，只有一个外部开口。",
+          "es": "La cloaca es una cámara común para los tractos reproductivo, excretor y digestivo, con una sola abertura externa.",
+          "fr": "Le cloaque est une chambre commune pour les appareils reproducteur, excréteur et digestif, avec une seule ouverture externe.",
+          "de": "Die Kloake ist eine gemeinsame Kammer für den Fortpflanzungs-, Ausscheidungs- und Verdauungstrakt mit einer einzigen äußeren Öffnung.",
+          "ja": "総排出腔は、生殖器系、排泄器系、消化器系の共通の腔であり、単一の外部開口部を持ちます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Sharks have multiple external openings for their excretory and digestive systems.",
+          "zh": "鲨鱼的排泄系统和消化系统有多个外部开口。",
+          "es": "Los tiburones tienen múltiples aberturas externas para sus sistemas excretor y digestivo.",
+          "fr": "Les requins ont plusieurs ouvertures externes pour leurs systèmes excréteur et digestif.",
+          "de": "Haie haben mehrere äußere Öffnungen für ihre Ausscheidungs- und Verdauungssysteme.",
+          "ja": "サメには排泄系と消化系に複数の外部開口部があります。"
+        },
+        "feedback": {
+          "en": "The text states that the 'reproductive tract of the shark empties along with the excretory system and digestive tract into the cloaca, a common chamber that has a single opening to the outside.' This contradicts having multiple openings.",
+          "zh": "文本指出：“鲨鱼的生殖道、排泄系统和消化道都排入泄殖腔，这是一个只有一个外部开口的共同腔室。”这与有多个开口的说法相矛盾。",
+          "es": "El texto establece que 'el tracto reproductivo del tiburón se vacía junto con el sistema excretor y el tracto digestivo en la cloaca, una cámara común que tiene una sola abertura al exterior'. Esto contradice la existencia de múltiples aberturas.",
+          "fr": "Le texte indique que « le tractus reproducteur du requin se vide avec le système excréteur et le tube digestif dans le cloaque, une chambre commune qui a une seule ouverture vers l'extérieur. » Cela contredit la présence de plusieurs ouvertures.",
+          "de": "Der Text besagt, dass der „Fortpflanzungstrakt des Hais zusammen mit dem Ausscheidungs- und Verdauungstrakt in die Kloake mündet, einer gemeinsamen Kammer, die eine einzige Öffnung nach außen hat.“ Dies widerspricht der Annahme von mehreren Öffnungen.",
+          "ja": "本文には「サメの生殖管は排泄系および消化管とともに総排出腔に排出され、総排出腔は単一の外部開口部を持つ共通の腔である」と記載されています。これは複数の開口部があるという記述と矛盾します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'The reproductive tract of the shark empties along with the excretory system and digestive tract into the cloaca, a common chamber that has a single opening to the outside.' This directly confirms option C.",
+      "zh": "文本明确指出：“鲨鱼的生殖道、排泄系统和消化道都排入泄殖腔，这是一个只有一个外部开口的共同腔室。”这直接证实了选项 C。",
+      "es": "El texto establece explícitamente: 'El tracto reproductivo del tiburón se vacía junto con el sistema excretor y el tracto digestivo en la cloaca, una cámara común que tiene una sola abertura al exterior'. Esto confirma directamente la opción C.",
+      "fr": "Le texte indique explicitement : « Le tractus reproducteur du requin se vide avec le système excréteur et le tube digestif dans le cloaque, une chambre commune qui a une seule ouverture vers l'extérieur. » Cela confirme directement l'option C.",
+      "de": "Der Text besagt ausdrücklich: „Der Fortpflanzungstrakt des Hais mündet zusammen mit dem Ausscheidungs- und Verdauungstrakt in die Kloake, einer gemeinsamen Kammer, die eine einzige Öffnung nach außen hat.“ Dies bestätigt Option C direkt.",
+      "ja": "本文には「サメの生殖管は排泄系および消化管とともに総排出腔に排出され、総排出腔は単一の外部開口部を持つ共通の腔である」と明確に記載されています。これは選択肢Cを直接裏付けています。"
+    }
+  }
+]

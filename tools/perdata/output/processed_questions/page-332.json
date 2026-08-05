@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In the Scientific Skills Exercise, when creating a histogram for the distribution of skin color phenotypes, what does the x-axis represent?",
+      "zh": "在“科学技能练习”中，创建肤色表型分布的直方图时，x 轴代表什么？",
+      "es": "En el Ejercicio de Habilidades Científicas, al crear un histograma para la distribución de los fenotipos de color de piel, ¿qué representa el eje x?",
+      "fr": "Dans l'exercice de compétences scientifiques, lors de la création d'un histogramme pour la distribution des phénotypes de couleur de peau, que représente l'axe des x ?",
+      "de": "Was stellt die x-Achse in der Übung zu den wissenschaftlichen Fähigkeiten dar, wenn ein Histogramm für die Verteilung der Hautfarben-Phänotypen erstellt wird?",
+      "ja": "科学スキル演習において、肌の色の表現型の分布のヒストグラムを作成する際、x軸は何を表しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The predicted number of offspring (out of 64).",
+          "zh": "预测的后代数量（总共 64 个）。",
+          "es": "El número previsto de descendientes (de 64).",
+          "fr": "Le nombre prévu de descendants (sur 64).",
+          "de": "Die vorhergesagte Anzahl von Nachkommen (von 64).",
+          "ja": "予測される子孫の数（64人中）。"
+        },
+        "feedback": {
+          "en": "This value is plotted on the y-axis to show the frequency of each phenotype.",
+          "zh": "这个值绘制在 y 轴上，用来显示每种表型的频率。",
+          "es": "Este valor se traza en el eje y para mostrar la frecuencia de cada fenotipo.",
+          "fr": "Cette valeur est tracée sur l'axe des y pour montrer la fréquence de chaque phénotype.",
+          "de": "Dieser Wert wird auf der y-Achse aufgetragen, um die Häufigkeit jedes Phänotyps darzustellen.",
+          "ja": "この値は、各表現型の頻度を示すためにy軸にプロットされます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The number of dark-skin alleles.",
+          "zh": "深色皮肤等位基因的数量。",
+          "es": "El número de alelos de piel oscura.",
+          "fr": "Le nombre d'allèles de peau foncée.",
+          "de": "Die Anzahl der Allele für dunkle Haut.",
+          "ja": "濃い肌の対立遺伝子の数。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The different types of gametes produced by the parents.",
+          "zh": "父母产生的不同类型的配子。",
+          "es": "Los diferentes tipos de gametos producidos por los padres.",
+          "fr": "Les différents types de gamètes produits par les parents.",
+          "de": "Die verschiedenen Arten von Gameten, die von den Eltern produziert werden.",
+          "ja": "親によって産生される異なる種類の配偶子。"
+        },
+        "feedback": {
+          "en": "The gametes are part of the Punnett square calculation but are not directly plotted on the final histogram of phenotypes.",
+          "zh": "配子是庞尼特方格计算的一部分，但没有直接绘制在最终的表型直方图上。",
+          "es": "Los gametos son parte del cálculo del cuadrado de Punnett, pero no se representan directamente en el histograma final de fenotipos.",
+          "fr": "Les gamètes font partie du calcul du carré de Punnett mais ne sont pas directement tracés sur l'histogramme final des phénotypes.",
+          "de": "Die Gameten sind Teil der Punnett-Quadrat-Berechnung, werden aber nicht direkt im endgültigen Histogramm der Phänotypen dargestellt.",
+          "ja": "配偶子はパネットの方形の計算の一部ですが、最終的な表現型のヒストグラムには直接プロットされません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The genotypes of the offspring.",
+          "zh": "后代的基因型。",
+          "es": "Los genotipos de la descendencia.",
+          "fr": "Les génotypes de la descendance.",
+          "de": "Die Genotypen der Nachkommen.",
+          "ja": "子孫の遺伝子型。"
+        },
+        "feedback": {
+          "en": "The x-axis represents the phenotype (skin color as determined by the number of dark-skin alleles), not the specific genotype combinations.",
+          "zh": "x 轴代表表型（由深色皮肤等位基因数量决定的肤色），而不是特定的基因型组合。",
+          "es": "El eje x representa el fenotipo (color de la piel determinado por el número de alelos de piel oscura), no las combinaciones de genotipos específicas.",
+          "fr": "L'axe des x représente le phénotype (couleur de la peau déterminée par le nombre d'allèles de peau foncée), et non les combinaisons génotypiques spécifiques.",
+          "de": "Die x-Achse stellt den Phänotyp dar (Hautfarbe, bestimmt durch die Anzahl der Allele für dunkle Haut), nicht die spezifischen Genotypkombinationen.",
+          "ja": "x軸は、特定の遺伝子型の組み合わせではなく、表現型（濃い肌の対立遺伝子の数によって決まる肌の色）を表します。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "Step 1 of 'INTERPRET THE DATA' explicitly instructs to 'put skin color (as the number of dark-skin alleles) along the x-axis'. This represents the different categories of the phenotypic trait being measured.",
+      "zh": "“解读数据”的第 1 步明确指示“将肤色（以深色皮肤等位基因的数量表示）沿 x 轴放置”。这代表了被测量的表型性状的不同类别。",
+      "es": "El paso 1 de 'INTERPRETAR LOS DATOS' instruye explícitamente 'poner el color de la piel (como el número de alelos de piel oscura) a lo largo del eje x'. Esto representa las diferentes categorías del rasgo fenotípico que se está midiendo.",
+      "fr": "L'étape 1 de « INTERPRÉTER LES DONNÉES » demande explicitement de « mettre la couleur de la peau (en tant que nombre d'allèles de peau foncée) le long de l'axe des x ». Cela représente les différentes catégories du trait phénotypique mesuré.",
+      "de": "Schritt 1 von ‚INTERPRET THE DATA‘ weist ausdrücklich an, ‚die Hautfarbe (als Anzahl der Allele für dunkle Haut) entlang der x-Achse aufzutragen‘. Dies stellt die verschiedenen Kategorien des gemessenen phänotypischen Merkmals dar.",
+      "ja": "「データを解釈する」のステップ1では、「肌の色（濃い肌の対立遺伝子の数として）をx軸に沿って配置する」と明確に指示されています。これは、測定されている表現型形質のさまざまなカテゴリを表します。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the data provided for the cross between two AaBbCc individuals, what pattern of distribution does the offspring's skin color phenotype show?",
+      "zh": "根据两个 AaBbCc 个体杂交所提供的数据，其后代的肤色表型呈现出何种分布模式？",
+      "es": "Basado en los datos proporcionados para el cruce entre dos individuos AaBbCc, ¿qué patrón de distribución muestra el fenotipo del color de la piel de la descendencia?",
+      "fr": "Sur la base des données fournies pour le croisement entre deux individus AaBbCc, quel modèle de distribution le phénotype de la couleur de la peau de la descendance présente-t-il ?",
+      "de": "Welches Verteilungsmuster zeigt der Hautfarben-Phänotyp der Nachkommen basierend auf den Daten für die Kreuzung zwischen zwei AaBbCc-Individuen?",
+      "ja": "2つのAaBbCc個体間の交配について提供されたデータに基づくと、子孫の肌の色の表現型はどのような分布パターンを示しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A normal distribution (bell curve).",
+          "zh": "正态分布（钟形曲线）。",
+          "es": "Una distribución normal (curva de campana).",
+          "fr": "Une distribution normale (courbe en cloche).",
+          "de": "Eine Normalverteilung (Glockenkurve).",
+          "ja": "正規分布（ベルカーブ）。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A skewed distribution.",
+          "zh": "偏态分布。",
+          "es": "Una distribución sesgada.",
+          "fr": "Une distribution asymétrique.",
+          "de": "Eine schiefe Verteilung.",
+          "ja": "歪んだ分布。"
+        },
+        "feedback": {
+          "en": "A skewed distribution would have a peak towards one of the ends (e.g., mostly light or mostly dark skin). This data peaks in the middle.",
+          "zh": "偏态分布的峰值会偏向某一端（例如，大多数为浅色或深色皮肤）。该数据在中间达到峰值。",
+          "es": "Una distribución sesgada tendría un pico hacia uno de los extremos (p. ej., piel mayoritariamente clara o mayoritariamente oscura). Estos datos alcanzan su punto máximo en el medio.",
+          "fr": "Une distribution asymétrique aurait un pic vers l'une des extrémités (par exemple, une peau principalement claire ou principalement foncée). Ces données culminent au milieu.",
+          "de": "Eine schiefe Verteilung hätte einen Peak an einem der Enden (z. B. meist helle oder meist dunkle Haut). Diese Daten haben ihren Peak in der Mitte.",
+          "ja": "歪んだ分布は、一方の端に向かってピークを持つことになります（例えば、ほとんどが明るい肌またはほとんどが暗い肌）。このデータは中央でピークに達します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A bimodal distribution.",
+          "zh": "双峰分布。",
+          "es": "Una distribución bimodal.",
+          "fr": "Une distribution bimodale.",
+          "de": "Eine bimodale Verteilung.",
+          "ja": "二峰性分布。"
+        },
+        "feedback": {
+          "en": "A bimodal distribution would show two distinct peaks, suggesting two common phenotypes with fewer intermediates. This data shows a single central peak.",
+          "zh": "双峰分布会显示两个明显的峰值，表明存在两种常见的表型，中间类型较少。该数据显示的是一个单一的中心峰值。",
+          "es": "Una distribución bimodal mostraría dos picos distintos, lo que sugiere dos fenotipos comunes con menos intermedios. Estos datos muestran un único pico central.",
+          "fr": "Une distribution bimodale montrerait deux pics distincts, suggérant deux phénotypes communs avec moins d'intermédiaires. Ces données montrent un seul pic central.",
+          "de": "Eine bimodale Verteilung würde zwei deutliche Peaks zeigen, was auf zwei häufige Phänotypen mit weniger Zwischenstufen hindeutet. Diese Daten zeigen einen einzigen zentralen Peak.",
+          "ja": "二峰性分布は2つの異なるピークを示し、中間体が少ない2つの一般的な表現型を示唆します。このデータは単一の中心的なピークを示します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A uniform distribution.",
+          "zh": "均匀分布。",
+          "es": "Una distribución uniforme.",
+          "fr": "Une distribution uniforme.",
+          "de": "Eine gleichmäßige Verteilung.",
+          "ja": "一様分布。"
+        },
+        "feedback": {
+          "en": "A uniform distribution would mean each phenotype has the same frequency, which is clearly not the case as the frequencies are 1:6:15:20:15:6:1.",
+          "zh": "均匀分布意味着每种表型具有相同的频率，但这显然不是事实，因为频率为 1:6:15:20:15:6:1。",
+          "es": "Una distribución uniforme significaría que cada fenotipo tiene la misma frecuencia, lo que claramente no es el caso ya que las frecuencias son 1:6:15:20:15:6:1.",
+          "fr": "Une distribution uniforme signifierait que chaque phénotype a la même fréquence, ce qui n'est manifestement pas le cas puisque les fréquences sont de 1:6:15:20:15:6:1.",
+          "de": "Eine gleichmäßige Verteilung würde bedeuten, dass jeder Phänotyp die gleiche Häufigkeit hat, was eindeutig nicht der Fall ist, da die Häufigkeiten 1:6:15:20:15:6:1 betragen.",
+          "ja": "一様分布は、各表現型が同じ頻度を持つことを意味しますが、頻度は1:6:15:20:15:6:1であるため、明らかにそうではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "The exercise asks to sketch a curve of the distribution. The frequencies (1, 6, 15, 20, 15, 6, 1) are symmetrical around the central peak value (3 dark-skin alleles with a frequency of 20/64). This symmetrical, bell-shaped pattern is characteristic of a normal distribution, which is common for polygenic traits.",
+      "zh": "该练习要求绘制分布曲线。频率（1, 6, 15, 20, 15, 6, 1）围绕中心峰值（3 个深色皮肤等位基因，频率为 20/64）对称分布。这种对称的钟形模式是正态分布的特征，这在多基因性状中很常见。",
+      "es": "El ejercicio pide esbozar una curva de la distribución. Las frecuencias (1, 6, 15, 20, 15, 6, 1) son simétricas alrededor del valor pico central (3 alelos de piel oscura con una frecuencia de 20/64). Este patrón simétrico en forma de campana es característico de una distribución normal, que es común para los rasgos poligénicos.",
+      "fr": "L'exercice demande de tracer une courbe de la distribution. Les fréquences (1, 6, 15, 20, 15, 6, 1) sont symétriques autour de la valeur de pic central (3 allèles de peau foncée avec une fréquence de 20/64). Ce modèle symétrique en forme de cloche est caractéristique d'une distribution normale, ce qui est courant pour les traits polygéniques.",
+      "de": "Die Übung verlangt, eine Kurve der Verteilung zu skizzieren. Die Häufigkeiten (1, 6, 15, 20, 15, 6, 1) sind symmetrisch um den zentralen Spitzenwert (3 Allele für dunkle Haut mit einer Häufigkeit von 20/64). Dieses symmetrische, glockenförmige Muster ist charakteristisch für eine Normalverteilung, die für polygene Merkmale üblich ist.",
+      "ja": "この演習では、分布の曲線をスケッチするように求められます。頻度（1、6、15、20、15、6、1）は、中心のピーク値（頻度20/64の3つの濃い肌の対立遺伝子）の周りで対称です。この対称的なベル型のパターンは、多遺伝子形質に共通する正規分布の特徴です。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "In Concept Check 14.3, a cross between a gray rooster and a gray hen produces 15 gray, 6 black, and 8 white chicks. What is the most likely mode of inheritance for feather color in these chickens?",
+      "zh": "在“概念检查 14.3”中，一只灰色公鸡和一只灰色母鸡杂交，产生了 15 只灰色、6 只黑色和 8 只白色的小鸡。这些鸡的羽毛颜色最可能的遗传方式是什么？",
+      "es": "En la Comprobación de Conceptos 14.3, un cruce entre un gallo gris y una gallina gris produce 15 polluelos grises, 6 negros y 8 blancos. ¿Cuál es el modo de herencia más probable para el color de las plumas en estos pollos?",
+      "fr": "Dans le test de connaissances 14.3, un croisement entre un coq gris et une poule grise produit 15 poussins gris, 6 noirs et 8 blancs. Quel est le mode de transmission le plus probable pour la couleur des plumes chez ces poulets ?",
+      "de": "In Konzept-Check 14.3 ergibt eine Kreuzung zwischen einem grauen Hahn und einer grauen Henne 15 graue, 6 schwarze und 8 weiße Küken. Was ist der wahrscheinlichste Vererbungsmodus für die Federfarbe bei diesen Hühnern?",
+      "ja": "コンセプトチェック14.3では、灰色の雄鶏と灰色の雌鶏の交配により、15羽の灰色、6羽の黒色、8羽の白色のひよこが生まれました。これらの鶏の羽の色の最も可能性の高い遺伝形式は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Complete dominance",
+          "zh": "完全显性",
+          "es": "Dominancia completa",
+          "fr": "Dominance complète",
+          "de": "Vollständige Dominanz",
+          "ja": "完全優性"
+        },
+        "feedback": {
+          "en": "If it were complete dominance, a cross between two heterozygous gray parents would produce only two phenotypes (e.g., gray and white) in a 3:1 ratio, not three phenotypes.",
+          "zh": "如果是完全显性，两个杂合的灰色亲本杂交将只产生两种表型（例如，灰色和白色），比例为 3:1，而不是三种表型。",
+          "es": "Si fuera dominancia completa, un cruce entre dos padres grises heterocigotos produciría solo dos fenotipos (p. ej., gris y blanco) en una proporción de 3:1, no tres fenotipos.",
+          "fr": "S'il s'agissait d'une dominance complète, un croisement entre deux parents gris hétérozygotes ne produirait que deux phénotypes (par exemple, gris et blanc) dans un rapport de 3:1, et non trois phénotypes.",
+          "de": "Bei vollständiger Dominanz würde eine Kreuzung zwischen zwei heterozygoten grauen Eltern nur zwei Phänotypen (z. B. grau und weiß) im Verhältnis 3:1 hervorbringen, nicht drei Phänotypen.",
+          "ja": "完全優性の場合、2つのヘテロ接合体の灰色の親の間の交配では、3つの表現型ではなく、3：1の比率で2つの表現型（例えば、灰色と白）しか生まれません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Incomplete dominance",
+          "zh": "不完全显性",
+          "es": "Dominancia incompleta",
+          "fr": "Dominance incomplète",
+          "de": "Unvollständige Dominanz",
+          "ja": "不完全優性"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Epistasis",
+          "zh": "上位性",
+          "es": "Epistasis",
+          "fr": "Épistasie",
+          "de": "Epistase",
+          "ja": "エピスタシス"
+        },
+        "feedback": {
+          "en": "While possible in other contexts, the 1:2:1 ratio is the classic sign of incomplete dominance or codominance, which is a simpler explanation.",
+          "zh": "虽然在其他情况下可能，但 1:2:1 的比例是不完全显性或共显性的经典标志，这是一个更简单的解释。",
+          "es": "Aunque es posible en otros contextos, la proporción 1:2:1 es el signo clásico de dominancia incompleta o codominancia, que es una explicación más simple.",
+          "fr": "Bien que possible dans d'autres contextes, le rapport 1:2:1 est le signe classique de la dominance incomplète ou de la codominance, ce qui est une explication plus simple.",
+          "de": "Obwohl in anderen Zusammenhängen möglich, ist das Verhältnis 1:2:1 das klassische Zeichen für unvollständige Dominanz oder Kodominanz, was eine einfachere Erklärung ist.",
+          "ja": "他の文脈では可能ですが、1：2：1の比率は不完全優性または共優性の古典的な兆候であり、より簡単な説明です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Polygenic inheritance",
+          "zh": "多基因遗传",
+          "es": "Herencia poligénica",
+          "fr": "Hérédité polygénique",
+          "de": "Polygene Vererbung",
+          "ja": "多遺伝子遺伝"
+        },
+        "feedback": {
+          "en": "Polygenic inheritance typically results in a continuous range of phenotypes (like skin color), not three discrete categories like black, gray, and white.",
+          "zh": "多基因遗传通常导致连续范围的表型（如肤色），而不是像黑色、灰色和白色这样的三个离散类别。",
+          "es": "La herencia poligénica generalmente da como resultado un rango continuo de fenotipos (como el color de la piel), no tres categorías discretas como negro, gris y blanco.",
+          "fr": "L'hérédité polygénique se traduit généralement par une gamme continue de phénotypes (comme la couleur de la peau), et non par trois catégories discrètes comme le noir, le gris et le blanc.",
+          "de": "Polygene Vererbung führt typischerweise zu einem kontinuierlichen Bereich von Phänotypen (wie Hautfarbe), nicht zu drei diskreten Kategorien wie schwarz, grau und weiß.",
+          "ja": "多遺伝子遺伝は、通常、黒、灰色、白のような3つの離散的なカテゴリではなく、表現型の連続的な範囲（肌の色など）をもたらします。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The offspring numbers (15 gray, 6 black, 8 white) are approximately in a 2:1:1 ratio (Gray:Black:White). This 1:2:1 phenotypic ratio from a cross of two identical heterozygotes is the hallmark of incomplete dominance. The gray chickens are heterozygous (e.g., BW), while the black (BB) and white (WW) are homozygous.",
+      "zh": "后代数量（15 只灰色、6 只黑色、8 只白色）大致呈 2:1:1 的比例（灰色:黑色:白色）。这种来自两个相同杂合子杂交的 1:2:1 的表型比率是不完全显性的标志。灰色鸡是杂合子（例如 BW），而黑色（BB）和白色（WW）是纯合子。",
+      "es": "El número de crías (15 grises, 6 negras, 8 blancas) está aproximadamente en una proporción de 2:1:1 (Gris:Negro:Blanco). Esta proporción fenotípica de 1:2:1 de un cruce de dos heterocigotos idénticos es el sello distintivo de la dominancia incompleta. Los pollos grises son heterocigotos (p. ej., BW), mientras que los negros (BB) y los blancos (WW) son homocigotos.",
+      "fr": "Le nombre de descendants (15 gris, 6 noirs, 8 blancs) est approximativement dans un rapport de 2:1:1 (Gris:Noir:Blanc). Ce rapport phénotypique de 1:2:1 issu d'un croisement de deux hétérozygotes identiques est la marque de la dominance incomplète. Les poulets gris sont hétérozygotes (par exemple, BW), tandis que les noirs (BB) et les blancs (WW) sont homozygotes.",
+      "de": "Die Nachkommenzahlen (15 grau, 6 schwarz, 8 weiß) liegen ungefähr im Verhältnis 2:1:1 (Grau:Schwarz:Weiß). Dieses phänotypische Verhältnis von 1:2:1 aus einer Kreuzung zweier identischer Heterozygoten ist das Kennzeichen unvollständiger Dominanz. Die grauen Hühner sind heterozygot (z. B. BW), während die schwarzen (BB) und weißen (WW) homozygot sind.",
+      "ja": "子孫の数（灰色15羽、黒色6羽、白色8羽）は、およそ2：1：1の比率（灰色：黒色：白色）です。2つの同一のヘテロ接合体の交配からのこの1：2：1の表現型の比率は、不完全優性の特徴です。灰色の鶏はヘテロ接合体（例：BW）であり、黒色（BB）と白色（WW）はホモ接合体です。"
+    }
+  }
+]

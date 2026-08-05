@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 209,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the fundamental difference in the effect of an allosteric activator versus an allosteric inhibitor on enzyme activity?",
+      "zh": "变构激活剂与变构抑制剂对酶活性的根本区别是什么？",
+      "es": "¿Cuál es la diferencia fundamental en el efecto de un activador alostérico versus un inhibidor alostérico en la actividad enzimática?",
+      "fr": "Quelle est la différence fondamentale entre l'effet d'un activateur allostérique et celui d'un inhibiteur allostérique sur l'activité enzymatique ?",
+      "de": "Was ist der grundlegende Unterschied in der Wirkung eines allosterischen Aktivators im Vergleich zu einem allosterischen Inhibitor auf die Enzymaktivität?",
+      "ja": "アロステリック活性化因子とアロステリック阻害因子が酵素活性に与える影響の根本的な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Activators bind to the active site, inhibitors bind elsewhere.",
+          "zh": "激活剂结合到活性位点，抑制剂结合到其他位置。",
+          "es": "Los activadores se unen al sitio activo, los inhibidores se unen a otro lugar.",
+          "fr": "Les activateurs se lient au site actif, les inhibiteurs se lient ailleurs.",
+          "de": "Aktivatoren binden an das aktive Zentrum, Inhibitoren binden an anderer Stelle.",
+          "ja": "活性化因子は活性部位に結合し、阻害因子は別の場所に結合します。"
+        },
+        "feedback": {
+          "en": "Both activators and inhibitors bind to a regulatory (allosteric) site, not the active site.",
+          "zh": "激活剂和抑制剂都结合到调节（变构）位点，而不是活性位点。",
+          "es": "Tanto los activadores como los inhibidores se unen a un sitio regulador (alostérico), no al sitio activo.",
+          "fr": "Les activateurs et les inhibiteurs se lient tous deux à un site régulateur (allostérique), et non au site actif.",
+          "de": "Sowohl Aktivatoren als auch Inhibitoren binden an eine regulatorische (allosterische) Stelle, nicht an das aktive Zentrum.",
+          "ja": "活性化因子と阻害因子は両方とも、活性部位ではなく調節（アロステリック）部位に結合します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Activators stabilize the active enzyme conformation, while inhibitors stabilize the inactive enzyme conformation.",
+          "zh": "激活剂稳定酶的活性构象，而抑制剂稳定酶的非活性构象。",
+          "es": "Los activadores estabilizan la conformación activa de la enzima, mientras que los inhibidores estabilizan la conformación inactiva de la enzima.",
+          "fr": "Les activateurs stabilisent la conformation active de l'enzyme, tandis que les inhibiteurs stabilisent la conformation inactive de l'enzyme.",
+          "de": "Aktivatoren stabilisieren die aktive Enzymkonformation, während Inhibitoren die inaktive Enzymkonformation stabilisieren.",
+          "ja": "活性化因子は酵素の活性型コンフォメーションを安定させ、阻害因子は酵素の不活性型コンフォメーションを安定させます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Inhibitors increase substrate affinity, activators decrease it.",
+          "zh": "抑制剂增加底物亲和力，激活剂降低底物亲和力。",
+          "es": "Los inhibidores aumentan la afinidad por el sustrato, los activadores la disminuyen.",
+          "fr": "Les inhibiteurs augmentent l'affinité pour le substrat, les activateurs la diminuent.",
+          "de": "Inhibitoren erhöhen die Substrataffinität, Aktivatoren verringern sie.",
+          "ja": "阻害因子は基質親和性を高め、活性化因子は基質親和性を低下させます。"
+        },
+        "feedback": {
+          "en": "The primary effect described is on enzyme conformation, not directly on substrate affinity in this general comparison.",
+          "zh": "所描述的主要作用是酶的构象，而不是这种一般比较中直接的底物亲和力。",
+          "es": "El efecto principal descrito es sobre la conformación de la enzima, no directamente sobre la afinidad por el sustrato en esta comparación general.",
+          "fr": "L'effet principal décrit concerne la conformation de l'enzyme, et non directement l'affinité pour le substrat dans cette comparaison générale.",
+          "de": "Der beschriebene Haupteffekt liegt auf der Enzymkonformation, nicht direkt auf der Substrataffinität in diesem allgemeinen Vergleich.",
+          "ja": "説明されている主な効果は酵素のコンフォメーションに対するものであり、この一般的な比較における基質親和性に対する直接的なものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Activators are always proteins, inhibitors are always small molecules.",
+          "zh": "激活剂总是蛋白质，抑制剂总是小分子。",
+          "es": "Los activadores son siempre proteínas, los inhibidores son siempre moléculas pequeñas.",
+          "fr": "Les activateurs sont toujours des protéines, les inhibiteurs sont toujours de petites molécules.",
+          "de": "Aktivatoren sind immer Proteine, Inhibitoren sind immer kleine Moleküle.",
+          "ja": "活性化因子は常にタンパク質であり、阻害因子は常に小分子です。"
+        },
+        "feedback": {
+          "en": "The text refers to \"regulatory molecules\" without specifying their chemical nature.",
+          "zh": "文本提到“调节分子”，但未具体说明其化学性质。",
+          "es": "El texto se refiere a \"moléculas reguladoras\" sin especificar su naturaleza química.",
+          "fr": "Le texte fait référence à des \"molécules régulatrices\" sans en préciser la nature chimique.",
+          "de": "Der Text bezieht sich auf \"regulatorische Moleküle\", ohne deren chemische Natur zu spezifizieren.",
+          "ja": "本文では「調節分子」に言及していますが、その化学的性質は特定されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that 'The binding of an activator to a regulatory site stabilizes the shape that has functional active sites, whereas the binding of an inhibitor stabilizes the inactive form of the enzyme.'",
+      "zh": "文本指出，“激活剂与调节位点的结合可稳定具有功能性活性位点的形状，而抑制剂的结合则稳定酶的非活性形式。”",
+      "es": "El texto establece que 'La unión de un activador a un sitio regulador estabiliza la forma que tiene sitios activos funcionales, mientras que la unión de un inhibidor estabiliza la forma inactiva de la enzima.'",
+      "fr": "Le texte indique que 'La liaison d'un activateur à un site régulateur stabilise la forme qui possède des sites actifs fonctionnels, tandis que la liaison d'un inhibiteur stabilise la forme inactive de l'enzyme.'",
+      "de": "Der Text besagt: 'Die Bindung eines Aktivators an eine regulatorische Stelle stabilisiert die Form, die funktionelle aktive Zentren aufweist, während die Bindung eines Inhibitors die inaktive Form des Enzyms stabilisiert.'",
+      "ja": "本文には「活性化因子が調節部位に結合すると、機能的な活性部位を持つ形状が安定化される一方、阻害因子が結合すると酵素の不活性型が安定化される」と記載されています。"
+    }
+  },
+  {
+    "page_number": 209,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the text, what is the regulatory role of ATP and ADP on catabolic enzymes, and what is the metabolic rationale behind this regulation?",
+      "zh": "根据文本，ATP和ADP对分解代谢酶的调节作用是什么，以及这种调节背后的代谢原理是什么？",
+      "es": "Según el texto, ¿cuál es el papel regulador del ATP y ADP en las enzimas catabólicas, y cuál es la lógica metabólica detrás de esta regulación?",
+      "fr": "Selon le texte, quel est le rôle régulateur de l'ATP et de l'ADP sur les enzymes cataboliques, et quelle est la logique métabolique derrière cette régulation ?",
+      "de": "Welche regulatorische Rolle spielen ATP und ADP laut Text bei katabolischen Enzymen, und welche metabolische Begründung steckt hinter dieser Regulation?",
+      "ja": "テキストに基づいて、ATPとADPが異化酵素に与える調節的役割と、この調節の背後にある代謝的根拠は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "ATP activates catabolic enzymes when energy is high; ADP inhibits them when energy is low.",
+          "zh": "当能量高时，ATP激活分解代谢酶；当能量低时，ADP抑制分解代谢酶。",
+          "es": "El ATP activa las enzimas catabólicas cuando la energía es alta; el ADP las inhibe cuando la energía es baja.",
+          "fr": "L'ATP active les enzymes cataboliques lorsque l'énergie est élevée; l'ADP les inhibe lorsque l'énergie est basse.",
+          "de": "ATP aktiviert katabolische Enzyme, wenn die Energie hoch ist; ADP hemmt sie, wenn die Energie niedrig ist.",
+          "ja": "エネルギーが高いとき、ATPは異化酵素を活性化します。エネルギーが低いとき、ADPは異化酵素を阻害します。"
+        },
+        "feedback": {
+          "en": "This option incorrectly reverses the roles of ATP and ADP on catabolic enzymes. ATP inhibits, ADP activates.",
+          "zh": "该选项错误地颠倒了ATP和ADP对分解代谢酶的作用。ATP抑制，ADP激活。",
+          "es": "Esta opción invierte incorrectamente los roles de ATP y ADP en las enzimas catabólicas. El ATP inhibe, el ADP activa.",
+          "fr": "Cette option inverse incorrectement les rôles de l'ATP et de l'ADP sur les enzymes cataboliques. L'ATP inhibe, l'ADP active.",
+          "de": "Diese Option kehrt die Rollen von ATP und ADP bei katabolischen Enzymen falsch um. ATP hemmt, ADP aktiviert.",
+          "ja": "この選択肢は、ATPとADPの異化酵素に対する役割を誤って逆にしています。ATPは阻害し、ADPは活性化します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "ATP inhibits catabolic enzymes to slow down ATP production when energy is sufficient; ADP activates them to speed up ATP production when energy is low.",
+          "zh": "当能量充足时，ATP抑制分解代谢酶以减缓ATP的产生；当能量低时，ADP激活分解代谢酶以加速ATP的产生。",
+          "es": "El ATP inhibe las enzimas catabólicas para ralentizar la producción de ATP cuando la energía es suficiente; el ADP las activa para acelerar la producción de ATP cuando la energía es baja.",
+          "fr": "L'ATP inhibe les enzymes cataboliques pour ralentir la production d'ATP lorsque l'énergie est suffisante; l'ADP les active pour accélérer la production d'ATP lorsque l'énergie est basse.",
+          "de": "ATP hemmt katabolische Enzyme, um die ATP-Produktion zu verlangsamen, wenn genügend Energie vorhanden ist; ADP aktiviert sie, um die ATP-Produktion zu beschleunigen, wenn die Energie niedrig ist.",
+          "ja": "エネルギーが十分な場合、ATPは異化酵素を阻害してATP生産を遅らせます。エネルギーが低い場合、ADPは異化酵素を活性化してATP生産を加速させます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both ATP and ADP inhibit catabolic enzymes to prevent overproduction of energy.",
+          "zh": "ATP和ADP都抑制分解代谢酶，以防止能量过剩。",
+          "es": "Tanto el ATP como el ADP inhiben las enzimas catabólicas para prevenir la sobreproducción de energía.",
+          "fr": "L'ATP et l'ADP inhibent tous deux les enzymes cataboliques pour prévenir la surproduction d'énergie.",
+          "de": "Sowohl ATP als auch ADP hemmen katabolische Enzyme, um eine Überproduktion von Energie zu verhindern.",
+          "ja": "ATPとADPは両方とも、エネルギーの過剰生産を防ぐために異化酵素を阻害します。"
+        },
+        "feedback": {
+          "en": "Only ATP inhibits catabolic enzymes; ADP activates them.",
+          "zh": "只有ATP抑制分解代谢酶；ADP则激活它们。",
+          "es": "Solo el ATP inhibe las enzimas catabólicas; el ADP las activa.",
+          "fr": "Seul l'ATP inhibe les enzymes cataboliques; l'ADP les active.",
+          "de": "Nur ATP hemmt katabolische Enzyme; ADP aktiviert sie.",
+          "ja": "ATPのみが異化酵素を阻害します。ADPは異化酵素を活性化します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both ATP and ADP activate catabolic enzymes to ensure constant energy supply.",
+          "zh": "ATP和ADP都激活分解代谢酶，以确保持续的能量供应。",
+          "es": "Tanto el ATP como el ADP activan las enzimas catabólicas para asegurar un suministro constante de energía.",
+          "fr": "L'ATP et l'ADP activent tous deux les enzymes cataboliques pour assurer un approvisionnement constant en énergie.",
+          "de": "Sowohl ATP als auch ADP aktivieren katabolische Enzyme, um eine konstante Energieversorgung zu gewährleisten.",
+          "ja": "ATPとADPは両方とも、常にエネルギーを供給するために異化酵素を活性化します。"
+        },
+        "feedback": {
+          "en": "ATP inhibits catabolic enzymes, while ADP activates them. Their roles are opposite.",
+          "zh": "ATP抑制分解代谢酶，而ADP激活分解代谢酶。它们的作用是相反的。",
+          "es": "El ATP inhibe las enzimas catabólicas, mientras que el ADP las activa. Sus roles son opuestos.",
+          "fr": "L'ATP inhibe les enzymes cataboliques, tandis que l'ADP les active. Leurs rôles sont opposés.",
+          "de": "ATP hemmt katabolische Enzyme, während ADP sie aktiviert. Ihre Rollen sind gegensätzlich.",
+          "ja": "ATPは異化酵素を阻害し、ADPは活性化します。それらの役割は逆です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'ATP binds to several catabolic enzymes allosterically, lowering their affinity for substrate and thus inhibiting their activity. ADP, however, functions as an activator of the same enzymes. This is logical because catabolism functions in regenerating ATP. If ATP production lags behind its use, ADP accumulates and activates the enzymes that speed up catabolism, producing more ATP. If the supply of ATP exceeds demand, then catabolism slows down as ATP molecules accumulate and bind to the same enzymes, inhibiting them.'",
+      "zh": "文本指出：“ATP变构结合到多种分解代谢酶上，降低它们对底物的亲和力，从而抑制它们的活性。然而，ADP作为相同酶的激活剂发挥作用。这是合乎逻辑的，因为分解代谢的功能是再生ATP。如果ATP的产生落后于其消耗，ADP就会积累并激活加速分解代谢的酶，从而产生更多的ATP。如果ATP的供应超过需求，那么随着ATP分子积累并结合到相同的酶上，分解代谢就会减缓，抑制了它们。”",
+      "es": "El texto establece: 'El ATP se une a varias enzimas catabólicas alostéricamente, disminuyendo su afinidad por el sustrato y, por lo tanto, inhibiendo su actividad. El ADP, sin embargo, funciona como un activador de las mismas enzimas. Esto es lógico porque el catabolismo funciona en la regeneración del ATP. Si la producción de ATP se retrasa con respecto a su uso, el ADP se acumula y activa las enzimas que aceleran el catabolismo, produciendo más ATP. Si el suministro de ATP excede la demanda, entonces el catabolismo se ralentiza a medida que las moléculas de ATP se acumulan y se unen a las mismas enzimas, inhibiéndolas.'",
+      "fr": "Le texte indique : 'L'ATP se lie à plusieurs enzymes cataboliques de manière allostérique, diminuant leur affinité pour le substrat et inhibant ainsi leur activité. L'ADP, cependant, fonctionne comme un activateur des mêmes enzymes. Cela est logique car le catabolisme fonctionne en régénérant l'ATP. Si la production d'ATP est en retard par rapport à son utilisation, l'ADP s'accumule et active les enzymes qui accélèrent le catabolisme, produisant plus d'ATP. Si l'approvisionnement en ATP dépasse la demande, alors le catabolisme ralentit à mesure que les molécules d'ATP s'accumulent et se lient aux mêmes enzymes, les inhibant.'",
+      "de": "Der Text besagt: 'ATP bindet allosterisch an mehrere katabolische Enzyme, wodurch deren Affinität für das Substrat gesenkt und somit ihre Aktivität gehemmt wird. ADP hingegen fungiert als Aktivator derselben Enzyme. Dies ist logisch, da der Katabolismus der ATP-Regeneration dient. Wenn die ATP-Produktion hinter dem Verbrauch zurückbleibt, akkumuliert ADP und aktiviert die Enzyme, die den Katabolismus beschleunigen und mehr ATP produzieren. Wenn die ATP-Versorgung die Nachfrage übersteigt, verlangsamt sich der Katabolismus, da ATP-Moleküle akkumulieren und an dieselben Enzyme binden und diese hemmen.'",
+      "ja": "本文には「ATPはいくつかの異化酵素にアロステリックに結合し、基質への親和性を低下させ、その結果、活性を阻害する。しかし、ADPは同じ酵素の活性化因子として機能する。これは、異化作用がATPの再生に機能するため論理的である。ATP生産が消費に追いつかない場合、ADPが蓄積し、異化作用を加速させる酵素を活性化し、より多くのATPを生産する。ATPの供給が需要を上回る場合、ATP分子が蓄積し、同じ酵素に結合してそれらを阻害するため、異化作用は遅くなる」と記載されています。"
+    }
+  },
+  {
+    "page_number": 209,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text and Figure 8.20b, which statement best describes the mechanism of cooperativity in a multisubunit enzyme?",
+      "zh": "根据文本和图8.20b，以下哪项陈述最能描述多亚基酶中协同作用的机制？",
+      "es": "Según el texto y la Figura 8.20b, ¿qué afirmación describe mejor el mecanismo de cooperatividad en una enzima multisubunitaria?",
+      "fr": "Selon le texte et la Figure 8.20b, quelle affirmation décrit le mieux le mécanisme de coopérativité dans une enzyme multisubunitaire ?",
+      "de": "Welche Aussage beschreibt gemäß Text und Abbildung 8.20b den Mechanismus der Kooperativität in einem Multisubunit-Enzym am besten?",
+      "ja": "テキストと図8.20bによると、多サブユニット酵素における協同性のメカニズムを最もよく説明している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It involves the binding of an activator molecule to a regulatory site, stabilizing the active form.",
+          "zh": "它涉及激活分子与调节位点的结合，从而稳定活性形式。",
+          "es": "Implica la unión de una molécula activadora a un sitio regulador, estabilizando la forma activa.",
+          "fr": "Cela implique la liaison d'une molécule activatrice à un site régulateur, stabilisant la forme active.",
+          "de": "Es beinhaltet die Bindung eines Aktivator-Moleküls an eine regulatorische Stelle, wodurch die aktive Form stabilisiert wird.",
+          "ja": "活性化分子が調節部位に結合し、活性型を安定させることを含みます。"
+        },
+        "feedback": {
+          "en": "This describes a general allosteric activation, but cooperativity specifically involves substrate binding to an active site to enhance activity at other active sites.",
+          "zh": "这描述的是一般的变构激活，但协同作用特指底物结合到一个活性位点，从而增强其他活性位点的活性。",
+          "es": "Esto describe una activación alostérica general, pero la cooperatividad implica específicamente la unión del sustrato a un sitio activo para mejorar la actividad en otros sitios activos.",
+          "fr": "Ceci décrit une activation allostérique générale, mais la coopérativité implique spécifiquement la liaison du substrat à un site actif pour améliorer l'activité d'autres sites actifs.",
+          "de": "Dies beschreibt eine allgemeine allosterische Aktivierung, aber Kooperativität beinhaltet spezifisch die Substratbindung an ein aktives Zentrum, um die Aktivität an anderen aktiven Zentren zu verstärken.",
+          "ja": "これは一般的なアロステリック活性化を説明していますが、協同性は特に、活性部位への基質結合が他の活性部位の活性を増強することを指します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Binding of an inhibitor to one subunit locks all subunits in an inactive conformation.",
+          "zh": "抑制剂与一个亚基的结合使所有亚基锁定在非活性构象中。",
+          "es": "La unión de un inhibidor a una subunidad bloquea todas las subunidades en una conformación inactiva.",
+          "fr": "La liaison d'un inhibiteur à une sous-unité bloque toutes les sous-unités dans une conformation inactive.",
+          "de": "Die Bindung eines Inhibitors an eine Untereinheit blockiert alle Untereinheiten in einer inaktiven Konformation.",
+          "ja": "阻害因子が1つのサブユニットに結合すると、すべてのサブユニットが不活性なコンフォメーションに固定されます。"
+        },
+        "feedback": {
+          "en": "This describes allosteric inhibition, not cooperativity, which is a type of allosteric activation.",
+          "zh": "这描述的是变构抑制，而不是协同作用，协同作用是一种变构激活。",
+          "es": "Esto describe la inhibición alostérica, no la cooperatividad, que es un tipo de activación alostérica.",
+          "fr": "Ceci décrit une inhibition allostérique, et non la coopérativité, qui est un type d'activation allostérique.",
+          "de": "Dies beschreibt allosterische Hemmung, nicht Kooperativität, die eine Art der allosterischen Aktivierung ist.",
+          "ja": "これはアロステリック阻害を説明しており、協同性（アロステリック活性化の一種）ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The binding of a substrate molecule to one active site induces a conformational change that increases the catalytic activity of other active sites within the same enzyme.",
+          "zh": "底物分子与一个活性位点的结合诱导构象变化，从而增加同一酶内其他活性位点的催化活性。",
+          "es": "La unión de una molécula de sustrato a un sitio activo induce un cambio conformacional que aumenta la actividad catalítica de otros sitios activos dentro de la misma enzima.",
+          "fr": "La liaison d'une molécule de substrat à un site actif induit un changement conformationnel qui augmente l'activité catalytique d'autres sites actifs au sein de la même enzyme.",
+          "de": "Die Bindung eines Substratmoleküls an ein aktives Zentrum induziert eine Konformationsänderung, die die katalytische Aktivität anderer aktiver Zentren innerhalb desselben Enzyms erhöht.",
+          "ja": "基質分子が1つの活性部位に結合すると、同じ酵素内の他の活性部位の触媒活性を増加させるコンフォメーション変化が誘発されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It describes how hemoglobin, an enzyme, binds oxygen more readily after the first oxygen molecule binds.",
+          "zh": "它描述了血红蛋白（一种酶）在第一个氧分子结合后如何更容易地结合氧气。",
+          "es": "Describe cómo la hemoglobina, una enzima, se une al oxígeno más fácilmente después de que la primera molécula de oxígeno se une.",
+          "fr": "Cela décrit comment l'hémoglobine, une enzyme, fixe l'oxygène plus facilement après la liaison de la première molécule d'oxygène.",
+          "de": "Es beschreibt, wie Hämoglobin, ein Enzym, Sauerstoff leichter bindet, nachdem das erste Sauerstoffmolekül gebunden hat.",
+          "ja": "これは、酵素であるヘモグロビンが、最初の酸素分子が結合した後により容易に酸素と結合する方法を説明しています。"
+        },
+        "feedback": {
+          "en": "Hemoglobin is explicitly stated not to be an enzyme in the text.",
+          "zh": "文本明确指出血红蛋白不是一种酶。",
+          "es": "En el texto se afirma explícitamente que la hemoglobina no es una enzima.",
+          "fr": "Le texte indique explicitement que l'hémoglobine n'est pas une enzyme.",
+          "de": "Hämoglobin wird im Text explizit als kein Enzym bezeichnet.",
+          "ja": "ヘモグロビンはテキスト中で明確に酵素ではないと述べられています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that cooperativity is 'another kind of allosteric activation, a substrate molecule binding to one active site in a multisubunit enzyme triggers a shape change in all the subunits, thereby increasing catalytic activity at the other active sites (Figure 8.20b).'",
+      "zh": "文本指出，协同作用是“另一种变构激活，即底物分子结合到多亚基酶的一个活性位点，会引发所有亚基的形状变化，从而增加其他活性位点的催化活性（图8.20b）。”",
+      "es": "El texto establece que la cooperatividad es 'otro tipo de activación alostérica, donde una molécula de sustrato que se une a un sitio activo en una enzima multisubunitaria desencadena un cambio de forma en todas las subunidades, aumentando así la actividad catalítica en los otros sitios activos (Figura 8.20b).'",
+      "fr": "Le texte indique que la coopérativité est 'un autre type d'activation allostérique, où une molécule de substrat se liant à un site actif dans une enzyme multisubunitaire déclenche un changement de forme dans toutes les sous-unités, augmentant ainsi l'activité catalytique au niveau des autres sites actifs (Figure 8.20b).'",
+      "de": "Der Text besagt, dass Kooperativität 'eine weitere Art der allosterischen Aktivierung ist, bei der ein Substratmolekül, das an ein aktives Zentrum in einem Multisubunit-Enzym bindet, eine Formänderung in allen Untereinheiten auslöst, wodurch die katalytische Aktivität an den anderen aktiven Zentren erhöht wird (Abbildung 8.20b).'",
+      "ja": "本文には、協同性は「別種のアロステリック活性化であり、多サブユニット酵素の1つの活性部位に基質分子が結合すると、すべてのサブユニットで形状変化が引き起こされ、それによって他の活性部位での触媒活性が増加する（図8.20b）」と記載されています。"
+    }
+  },
+  {
+    "page_number": 209,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following best defines \"allosteric regulation\" as described in the text?",
+      "zh": "根据文本，以下哪项最能定义“变构调节”？",
+      "es": "¿Cuál de las siguientes opciones define mejor la \"regulación alostérica\" según se describe en el texto?",
+      "fr": "Parmi les affirmations suivantes, laquelle définit le mieux la \"régulation allostérique\" telle que décrite dans le texte ?",
+      "de": "Welche der folgenden Aussagen definiert \"allosterische Regulation\" gemäß dem Text am besten?",
+      "ja": "テキストに記載されている「アロステリック調節」を最もよく定義しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A type of enzyme regulation where a molecule binds directly to the active site to inhibit enzyme activity.",
+          "zh": "一种酶调节类型，其中分子直接结合到活性位点以抑制酶活性。",
+          "es": "Un tipo de regulación enzimática donde una molécula se une directamente al sitio activo para inhibir la actividad enzimática.",
+          "fr": "Un type de régulation enzymatique où une molécule se lie directement au site actif pour inhiber l'activité enzymatique.",
+          "de": "Eine Art der Enzymregulation, bei der ein Molekül direkt an das aktive Zentrum bindet, um die Enzymaktivität zu hemmen.",
+          "ja": "酵素活性を阻害するために分子が直接活性部位に結合する酵素調節の一種。"
+        },
+        "feedback": {
+          "en": "Allosteric regulation involves binding to a regulatory site *separate* from the active site.",
+          "zh": "变构调节涉及结合到与活性位点**分离**的调节位点。",
+          "es": "La regulación alostérica implica la unión a un sitio regulador *separado* del sitio activo.",
+          "fr": "La régulation allostérique implique une liaison à un site régulateur *séparé* du site actif.",
+          "de": "Allosterische Regulation beinhaltet die Bindung an eine regulatorische Stelle, die *getrennt* vom aktiven Zentrum ist.",
+          "ja": "アロステリック調節は、活性部位とは**異なる**調節部位への結合を伴います。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A process where an enzyme's function at one site is affected by the binding of a regulatory molecule to a separate, distinct site.",
+          "zh": "一种过程，其中酶在一个位点上的功能受到调节分子结合到独立、不同位点的影响。",
+          "es": "Un proceso en el que la función de una enzima en un sitio se ve afectada por la unión de una molécula reguladora a un sitio separado y distinto.",
+          "fr": "Un processus où la fonction d'une enzyme à un site est affectée par la liaison d'une molécule régulatrice à un site séparé et distinct.",
+          "de": "Ein Prozess, bei dem die Funktion eines Enzyms an einer Stelle durch die Bindung eines regulierenden Moleküls an eine separate, unterschiedliche Stelle beeinflusst wird.",
+          "ja": "酵素のある部位の機能が、別の独立した部位に調節分子が結合することによって影響を受けるプロセス。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The irreversible denaturation of an enzyme due to extreme pH or temperature.",
+          "zh": "由于极端pH或温度导致的酶的不可逆变性。",
+          "es": "La desnaturalización irreversible de una enzima debido a pH o temperatura extremos.",
+          "fr": "La dénaturation irréversible d'une enzyme due à un pH ou une température extrêmes.",
+          "de": "Die irreversible Denaturierung eines Enzyms aufgrund extremer pH-Werte oder Temperaturen.",
+          "ja": "極端なpHや温度による酵素の不可逆的な変性。"
+        },
+        "feedback": {
+          "en": "This describes enzyme denaturation, not allosteric regulation.",
+          "zh": "这描述的是酶的变性，而不是变构调节。",
+          "es": "Esto describe la desnaturalización de la enzima, no la regulación alostérica.",
+          "fr": "Ceci décrit la dénaturation de l'enzyme, et non la régulation allostérique.",
+          "de": "Dies beschreibt die Enzymdenaturierung, nicht die allosterische Regulation.",
+          "ja": "これは酵素の変性を説明しており、アロステリック調節ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The activation of an enzyme by increasing substrate concentration.",
+          "zh": "通过增加底物浓度来激活酶。",
+          "es": "La activación de una enzima mediante el aumento de la concentración del sustrato.",
+          "fr": "L'activation d'une enzyme par l'augmentation de la concentration en substrat.",
+          "de": "Die Aktivierung eines Enzyms durch Erhöhung der Substratkonzentration.",
+          "ja": "基質濃度を増加させることによる酵素の活性化。"
+        },
+        "feedback": {
+          "en": "While substrate concentration affects enzyme activity, this is not the definition of allosteric regulation, which involves a *regulatory molecule* binding to a *separate site*.",
+          "zh": "尽管底物浓度会影响酶活性，但这并非变构调节的定义，变构调节涉及调节分子结合到**单独位点**。",
+          "es": "Si bien la concentración de sustrato afecta la actividad enzimática, esta no es la definición de regulación alostérica, que implica que una *molécula reguladora* se une a un *sitio separado*.",
+          "fr": "Bien que la concentration du substrat affecte l'activité enzymatique, ce n'est pas la définition de la régulation allostérique, qui implique qu'une *molécule régulatrice* se lie à un *site séparé*.",
+          "de": "Obwohl die Substratkonzentration die Enzymaktivität beeinflusst, ist dies nicht die Definition der allosterischen Regulation, die die Bindung eines *regulatorischen Moleküls* an eine *separate Stelle* beinhaltet.",
+          "ja": "基質濃度は酵素活性に影響を与えますが、これはアロステリック調節の定義ではありません。アロステリック調節は、**調節分子**が**別の部位**に結合することを伴います。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly defines allosteric regulation as 'the term used to describe any case in which a protein's function at one site is affected by the binding of a regulatory molecule to a separate site.'",
+      "zh": "文本明确将变构调节定义为“用于描述蛋白质在一个位点上的功能受到调节分子结合到独立位点影响的任何情况的术语”。",
+      "es": "El texto define explícitamente la regulación alostérica como 'el término utilizado para describir cualquier caso en el que la función de una proteína en un sitio se ve afectada por la unión de una molécula reguladora a un sitio separado.'",
+      "fr": "Le texte définit explicitement la régulation allostérique comme 'le terme utilisé pour décrire tout cas où la fonction d'une protéine à un site est affectée par la liaison d'une molécule régulatrice à un site séparé.'",
+      "de": "Der Text definiert allosterische Regulation explizit als 'den Begriff, der verwendet wird, um jeden Fall zu beschreiben, in dem die Funktion eines Proteins an einer Stelle durch die Bindung eines regulierenden Moleküls an eine separate Stelle beeinflusst wird.'",
+      "ja": "本文は、アロステリック調節を明確に「ある部位におけるタンパク質の機能が、調節分子が別の部位に結合することによって影響を受けるあらゆるケースを記述するために使用される用語」と定義しています。"
+    }
+  }
+]

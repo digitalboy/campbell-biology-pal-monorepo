@@ -1,0 +1,23 @@
+name = "campbell-biopal-api"
+main = "src/index.ts"
+compatibility_date = "2024-08-10"
+compatibility_flags = [ "nodejs_compat" ]
+
+routes = [
+  { pattern = "api.biopal-campbell.beikee.org", custom_domain = true }
+]
+
+# 绑定 D1 数据库
+[[d1_databases]]
+binding = "DB"
+database_name = "campbell-biology-pal-db"
+database_id = "d290662f-8b6e-4234-8ab6-afecdda04c5b"
+preview_database_id = "d290662f-8b6e-4234-8ab6-afecdda04c5b"
+
+[vars]
+ENVIRONMENT = "development"
+FIREBASE_PROJECT_ID = "beike-e6301"
+DASHSCOPE_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1" 
+
+[observability.logs]
+enabled = true

@@ -1,0 +1,323 @@
+[
+  {
+    "page_number": 3,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on the Dynamic Study Module shown, what are protein molecules identified as?",
+      "zh": "根据所示的动态学习模块，蛋白质分子被识别为是什么？",
+      "es": "Según el Módulo de Estudio Dinámico mostrado, ¿qué se identifica como moléculas de proteína?",
+      "fr": "Selon le module d'étude dynamique affiché, que sont identifiées les molécules protéiques ?",
+      "de": "Basierend auf dem gezeigten Dynamischen Lernmodul, als was werden Proteinmoleküle identifiziert?",
+      "ja": "表示されている動的学習モジュールに基づくと、タンパク質分子は何として特定されていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "DNA molecules",
+          "zh": "DNA 分子",
+          "es": "Moléculas de ADN",
+          "fr": "Molécules d'ADN",
+          "de": "DNA-Moleküle",
+          "ja": "DNA分子"
+        },
+        "feedback": {
+          "en": "DNA molecules store genetic information, they are not the building blocks of proteins.",
+          "zh": "DNA 分子储存遗传信息，它们不是蛋白质的组成单位。",
+          "es": "Las moléculas de ADN almacenan información genética, no son los bloques de construcción de las proteínas.",
+          "fr": "Les molécules d'ADN stockent l'information génétique, ce ne sont pas les éléments constitutifs des protéines.",
+          "de": "DNA-Moleküle speichern genetische Informationen, sie sind nicht die Bausteine von Proteinen.",
+          "ja": "DNA分子は遺伝情報を保存するものであり、タンパク質の構成要素ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "amino acid molecules",
+          "zh": "氨基酸分子",
+          "es": "Moléculas de aminoácidos",
+          "fr": "Molécules d'acides aminés",
+          "de": "Aminosäuremoleküle",
+          "ja": "アミノ酸分子"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "sucrose molecules",
+          "zh": "蔗糖分子",
+          "es": "Moléculas de sacarosa",
+          "fr": "Molécules de saccharose",
+          "de": "Saccharosemoleküle",
+          "ja": "スクロース分子"
+        },
+        "feedback": {
+          "en": "Sucrose is a disaccharide (a type of sugar), not a component of proteins.",
+          "zh": "蔗糖是一种二糖（一种糖类），不是蛋白质的组成部分。",
+          "es": "La sacarosa es un disacárido (un tipo de azúcar), no un componente de las proteínas.",
+          "fr": "Le saccharose est un disaccharide (un type de sucre), pas un composant des protéines.",
+          "de": "Saccharose ist ein Disaccharid (eine Zuckerart), kein Bestandteil von Proteinen.",
+          "ja": "スクロースは二糖類（糖の一種）であり、タンパク質の構成要素ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "fatty acid molecules",
+          "zh": "脂肪酸分子",
+          "es": "Moléculas de ácidos grasos",
+          "fr": "Molécules d'acides gras",
+          "de": "Fettsäuremoleküle",
+          "ja": "脂肪酸分子"
+        },
+        "feedback": {
+          "en": "Fatty acid molecules are components of lipids, not proteins.",
+          "zh": "脂肪酸分子是脂质的组成部分，而非蛋白质。",
+          "es": "Las moléculas de ácidos grasos son componentes de los lípidos, no de las proteínas.",
+          "fr": "Les molécules d'acides gras sont des composants des lipides, pas des protéines.",
+          "de": "Fettsäuremoleküle sind Bestandteile von Lipiden, nicht von Proteinen.",
+          "ja": "脂肪酸分子は脂質の構成要素であり、タンパク質ではありません。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "purines and pyrimidines",
+          "zh": "嘌呤和嘧啶",
+          "es": "Purinas y pirimidinas",
+          "fr": "Purines et pyrimidines",
+          "de": "Purine und Pyrimidine",
+          "ja": "プリンとピリミジン"
+        },
+        "feedback": {
+          "en": "Purines and pyrimidines are nitrogenous bases found in nucleic acids (DNA and RNA), not proteins.",
+          "zh": "嘌呤和嘧啶是核酸（DNA和RNA）中的含氮碱基，不是蛋白质的组成部分。",
+          "es": "Las purinas y pirimidinas son bases nitrogenadas que se encuentran en los ácidos nucleicos (ADN y ARN), no en las proteínas.",
+          "fr": "Les purines et les pyrimidines sont des bases azotées que l'on trouve dans les acides nucléiques (ADN et ARN), pas dans les protéines.",
+          "de": "Purine und Pyrimidine sind stickstoffhaltige Basen, die in Nukleinsäuren (DNA und RNA) vorkommen, nicht in Proteinen.",
+          "ja": "プリンとピリミジンは核酸（DNAとRNA）に含まれる窒素塩基であり、タンパク質ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The Dynamic Study Module explicitly states: 'Protein molecules are polymers (chains) of amino acid molecules.' This is a fundamental concept in biochemistry.",
+      "zh": "动态学习模块明确指出：“蛋白质分子是氨基酸分子的聚合物（链）。”这是生物化学中的一个基本概念。",
+      "es": "El Módulo de Estudio Dinámico establece explícitamente: 'Las moléculas de proteína son polímeros (cadenas) de moléculas de aminoácidos.' Este es un concepto fundamental en bioquímica.",
+      "fr": "Le module d'étude dynamique stipule explicitement : « Les molécules de protéines sont des polymères (chaînes) de molécules d'acides aminés. » C'est un concept fondamental en biochimie.",
+      "de": "Das Dynamische Lernmodul besagt explizit: „Proteinmoleküle sind Polymere (Ketten) von Aminosäuremolekülen.“ Dies ist ein grundlegendes Konzept der Biochemie.",
+      "ja": "動的学習モジュールには、「タンパク質分子はアミノ酸分子のポリマー（鎖）である」と明確に記載されています。これは生化学の基本的な概念です。"
+    }
+  },
+  {
+    "page_number": 3,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the information provided on the page, which of the following are mentioned as resources or activities available in the Campbell Biology and Mastering Biology tools to aid student learning? (Select all that apply)",
+      "zh": "根据页面提供的信息，以下哪些是坎贝尔生物学和精通生物学工具中提及的、用于帮助学生学习的资源或活动？（选择所有符合项）",
+      "es": "Según la información proporcionada en la página, ¿cuáles de los siguientes se mencionan como recursos o actividades disponibles en las herramientas de Campbell Biology y Mastering Biology para ayudar al aprendizaje del estudiante? (Seleccione todas las que correspondan)",
+      "fr": "Selon les informations fournies sur la page, lesquelles des ressources ou activités suivantes sont mentionnées comme disponibles dans les outils de Campbell Biology et Mastering Biology pour aider l'apprentissage des étudiants ? (Sélectionnez toutes les réponses pertinentes)",
+      "de": "Welche der folgenden Ressourcen oder Aktivitäten werden laut den Informationen auf der Seite als in den Campbell Biology und Mastering Biology Tools verfügbar erwähnt, um das Lernen der Studierenden zu unterstützen? (Wählen Sie alle zutreffenden aus)",
+      "ja": "ページに提供されている情報によると、キャンベル生物学およびマスタリング生物学のツールで、学生の学習を支援するために利用できるリソースまたは活動として言及されているのは次のうちどれですか？（該当するものをすべて選択）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Access to Pearson eText",
+          "zh": "访问 Pearson eText",
+          "es": "Acceso a Pearson eText",
+          "fr": "Accès à Pearson eText",
+          "de": "Zugang zum Pearson eText",
+          "ja": "Pearson eTextへのアクセス"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Figure Walkthroughs, Videos, and Animations",
+          "zh": "图表演练、视频和动画",
+          "es": "Recorridos de figuras, videos y animaciones",
+          "fr": "Tutoriels de figures, vidéos et animations",
+          "de": "Figuren-Walkthroughs, Videos und Animationen",
+          "ja": "図のウォークスルー、ビデオ、アニメーション"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Practice Tests",
+          "zh": "练习测试",
+          "es": "Pruebas de práctica",
+          "fr": "Tests de pratique",
+          "de": "Übungstests",
+          "ja": "模擬試験"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Direct consultation with instructors via the platform",
+          "zh": "通过平台直接咨询教师",
+          "es": "Consulta directa con instructores a través de la plataforma",
+          "fr": "Consultation directe avec les instructeurs via la plateforme",
+          "de": "Direkte Konsultation mit Dozenten über die Plattform",
+          "ja": "プラットフォームを介した講師への直接相談"
+        },
+        "feedback": {
+          "en": "While online platforms may offer communication features, direct consultation with instructors is not explicitly mentioned as a tool in Campbell Biology or Mastering Biology on this page.",
+          "zh": "虽然在线平台可能提供交流功能，但本页并未明确提及通过坎贝尔生物学或精通生物学平台直接咨询教师。",
+          "es": "Aunque las plataformas en línea pueden ofrecer funciones de comunicación, la consulta directa con los instructores no se menciona explícitamente como una herramienta en Campbell Biology o Mastering Biology en esta página.",
+          "fr": "Bien que les plateformes en ligne puissent offrir des fonctionnalités de communication, la consultation directe avec les instructeurs n'est pas explicitement mentionnée comme un outil dans Campbell Biology ou Mastering Biology sur cette page.",
+          "de": "Obwohl Online-Plattformen Kommunikationsfunktionen bieten können, wird die direkte Konsultation mit Dozenten auf dieser Seite nicht explizit als Werkzeug in Campbell Biology oder Mastering Biology erwähnt.",
+          "ja": "オンラインプラットフォームはコミュニケーション機能を提供する可能性がありますが、このページではキャンベル生物学またはマスタリング生物学のツールとして、講師との直接相談は明確に言及されていません。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Dynamic Study Modules for exam preparation",
+          "zh": "用于考试准备的动态学习模块",
+          "es": "Módulos de estudio dinámicos para la preparación de exámenes",
+          "fr": "Modules d'étude dynamique pour la préparation aux examens",
+          "de": "Dynamische Lernmodule zur Prüfungsvorbereitung",
+          "ja": "試験対策のための動的学習モジュール"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": {
+      "en": "The page explicitly highlights 'Access your text anywhere with the Pearson eText', 'Strengthen your knowledge in the Mastering Biology Study Area' (which includes 'Figure Walkthroughs' and 'Practice Tests'), and 'Prepare for your exams with the Dynamic Study Modules'. The 'Bio Study Plan' also mentions 'Watch the Figure Walkthroughs Videos and Animations' and 'Take the Practice Test'.",
+      "zh": "页面明确强调了“随时随地使用 Pearson eText 访问您的教材”、“在 Mastering Biology 学习区加强您的知识”（其中包括“图表演练”和“练习测试”）以及“使用动态学习模块准备考试”。“生物学习计划”也提到了“观看图表演练视频和动画”和“参加练习测试”。",
+      "es": "La página destaca explícitamente 'Acceda a su texto en cualquier lugar con el Pearson eText', 'Fortalezca su conocimiento en el Área de Estudio de Mastering Biology' (que incluye 'Recorridos de figuras' y 'Pruebas de práctica'), y 'Prepárese para sus exámenes con los Módulos de Estudio Dinámicos'. El 'Plan de Estudio de Biología' también menciona 'Ver los videos y animaciones de los recorridos de figuras' y 'Realizar la prueba de práctica'.",
+      "fr": "La page met explicitement en évidence « Accédez à votre texte partout avec le Pearson eText », « Renforcez vos connaissances dans la zone d'étude Mastering Biology » (qui inclut les « Tutoriels de figures » et les « Tests de pratique »), et « Préparez vos examens avec les modules d'étude dynamique ». Le « Plan d'étude de bio » mentionne également « Regarder les vidéos et animations des tutoriels de figures » et « Passer le test de pratique ».",
+      "de": "Die Seite hebt explizit hervor: „Greifen Sie überall auf Ihren Text zu mit dem Pearson eText“, „Stärken Sie Ihr Wissen im Mastering Biology Study Area“ (welches „Figure Walkthroughs“ und „Practice Tests“ umfasst) und „Bereiten Sie sich mit den Dynamischen Lernmodulen auf Ihre Prüfungen vor“. Der „Bio Study Plan“ erwähnt ebenfalls „Watch the Figure Walkthroughs Videos and Animations“ und „Take the Practice Test“.",
+      "ja": "このページでは、「Pearson eTextでどこからでもテキストにアクセス」、「マスタリング生物学の学習エリアで知識を強化」（「図のウォークスルー」や「模擬試験」を含む）、そして「動的学習モジュールで試験対策」を明確に強調しています。「生物学習計画」にも「図のウォークスルービデオとアニメーションを見る」および「模擬試験を受ける」と記載されています。"
+    }
+  },
+  {
+    "page_number": 3,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The 'Figure Walkthrough' caption on the page describes a key process in photosynthesis. What are the primary energy-carrying molecules generated by linear electron flow during the light reactions, as stated in this caption?",
+      "zh": "页面上的“图表演练”标题描述了光合作用中的一个关键过程。根据该标题，在光反应中，线性电子流主要生成哪些能量载体分子？",
+      "es": "El título de 'Recorrido de Figuras' en la página describe un proceso clave en la fotosíntesis. ¿Cuáles son las moléculas principales portadoras de energía generadas por el flujo lineal de electrones durante las reacciones luminosas, según se indica en este título?",
+      "fr": "La légende 'Figure Walkthrough' de la page décrit un processus clé de la photosynthèse. Quelles sont les principales molécules porteuses d'énergie générées par le flux linéaire d'électrons pendant les réactions lumineuses, comme indiqué dans cette légende ?",
+      "de": "Die Bildunterschrift „Figure Walkthrough“ auf der Seite beschreibt einen Schlüsselprozess in der Photosynthese. Welche sind die primären energietragenden Moleküle, die durch den linearen Elektronentransport während der Lichtreaktionen erzeugt werden, wie in dieser Bildunterschrift angegeben?",
+      "ja": "ページの「図のウォークスルー」のキャプションは、光合成における重要なプロセスを説明しています。このキャプションによると、光反応中の直線電子流によって生成される主要なエネルギー運搬分子は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Oxygen and glucose",
+          "zh": "氧气和葡萄糖",
+          "es": "Oxígeno y glucosa",
+          "fr": "Oxygène et glucose",
+          "de": "Sauerstoff und Glukose",
+          "ja": "酸素とグルコース"
+        },
+        "feedback": {
+          "en": "Oxygen is a byproduct of light reactions, and glucose is formed during the Calvin cycle (light-independent reactions), not directly by linear electron flow.",
+          "zh": "氧气是光反应的副产物，葡萄糖是在卡尔文循环（光不依赖反应）中形成的，并非直接由线性电子流生成。",
+          "es": "El oxígeno es un subproducto de las reacciones luminosas y la glucosa se forma durante el ciclo de Calvin (reacciones independientes de la luz), no directamente por el flujo lineal de electrones.",
+          "fr": "L'oxygène est un sous-produit des réactions lumineuses, et le glucose est formé pendant le cycle de Calvin (réactions indépendantes de la lumière), pas directement par le flux linéaire d'électrons.",
+          "de": "Sauerstoff ist ein Nebenprodukt der Lichtreaktionen, und Glukose wird während des Calvin-Zyklus (lichtunabhängige Reaktionen) gebildet, nicht direkt durch den linearen Elektronentransport.",
+          "ja": "酸素は光反応の副産物であり、グルコースはカルビン回路（光非依存性反応）で形成されるもので、直線電子流によって直接生成されるわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "ATP and NADPH",
+          "zh": "ATP 和 NADPH",
+          "es": "ATP y NADPH",
+          "fr": "ATP et NADPH",
+          "de": "ATP und NADPH",
+          "ja": "ATPとNADPH"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Carbon dioxide and water",
+          "zh": "二氧化碳和水",
+          "es": "Dióxido de carbono y agua",
+          "fr": "Dioxyde de carbone et eau",
+          "de": "Kohlendioxid und Wasser",
+          "ja": "二酸化炭素と水"
+        },
+        "feedback": {
+          "en": "Carbon dioxide is consumed during the Calvin cycle, and water is a reactant in the light reactions, not an energy-carrying product of linear electron flow.",
+          "zh": "二氧化碳在卡尔文循环中被消耗，水是光反应的反应物，而不是线性电子流的能量载体产物。",
+          "es": "El dióxido de carbono se consume durante el ciclo de Calvin, y el agua es un reactivo en las reacciones luminosas, no un producto transportador de energía del flujo lineal de electrones.",
+          "fr": "Le dioxyde de carbone est consommé pendant le cycle de Calvin, et l'eau est un réactif dans les réactions lumineuses, pas un produit transporteur d'énergie du flux linéaire d'électrons.",
+          "de": "Kohlendioxid wird während des Calvin-Zyklus verbraucht, und Wasser ist ein Reaktant bei den Lichtreaktionen, nicht ein energietragendes Produkt des linearen Elektronentransports.",
+          "ja": "二酸化炭素はカルビン回路で消費され、水は光反応における反応物であり、直線電子流によるエネルギー運搬生成物ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Proteins and lipids",
+          "zh": "蛋白质和脂质",
+          "es": "Proteínas y lípidos",
+          "fr": "Protéines et lipides",
+          "de": "Proteine und Lipide",
+          "ja": "タンパク質と脂質"
+        },
+        "feedback": {
+          "en": "Proteins and lipids are complex macromolecules, not direct products of the light reactions of photosynthesis.",
+          "zh": "蛋白质和脂质是复杂的生物大分子，并非光合作用光反应的直接产物。",
+          "es": "Las proteínas y los lípidos son macromoléculas complejas, no productos directos de las reacciones luminosas de la fotosíntesis.",
+          "fr": "Les protéines et les lipides sont des macromolécules complexes, non des produits directs des réactions lumineuses de la photosynthèse.",
+          "de": "Proteine und Lipide sind komplexe Makromoleküle, keine direkten Produkte der Lichtreaktionen der Photosynthese.",
+          "ja": "タンパク質と脂質は複雑な高分子であり、光合成の光反応の直接的な生成物ではありません。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Heat and light",
+          "zh": "热量和光",
+          "es": "Calor y luz",
+          "fr": "Chaleur et lumière",
+          "de": "Wärme und Licht",
+          "ja": "熱と光"
+        },
+        "feedback": {
+          "en": "Light is the energy input for light reactions, and heat is often a byproduct, but neither are the primary energy-carrying molecules produced.",
+          "zh": "光是光反应的能量输入，热量通常是副产物，但两者都不是产生的主要能量载体分子。",
+          "es": "La luz es la entrada de energía para las reacciones luminosas, y el calor es a menudo un subproducto, pero ninguna de ellas son las moléculas portadoras de energía principales producidas.",
+          "fr": "La lumière est l'apport d'énergie pour les réactions lumineuses, et la chaleur est souvent un sous-produit, mais ni l'un ni l'autre ne sont les principales molécules porteuses d'énergie produites.",
+          "de": "Licht ist der Energieinput für Lichtreaktionen, und Wärme ist oft ein Nebenprodukt, aber keines davon sind die primären energietragenden Moleküle, die produziert werden.",
+          "ja": "光は光反応のエネルギー入力であり、熱はしばしば副産物ですが、どちらも主要なエネルギー運搬分子ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The 'Figure Walkthrough' caption explicitly states: 'How linear electron flow during the light reactions generates ATP and NADPH.' These are the two primary energy-carrying molecules produced during the light-dependent reactions of photosynthesis.",
+      "zh": "“图表演练”标题明确指出：“光反应期间的线性电子流如何生成 ATP 和 NADPH。”这两种分子是光合作用光依赖反应期间产生的两种主要能量载体分子。",
+      "es": "El título de 'Recorrido de Figuras' establece explícitamente: 'Cómo el flujo lineal de electrones durante las reacciones luminosas genera ATP y NADPH.' Estas son las dos moléculas principales portadoras de energía producidas durante las reacciones luminosas de la fotosíntesis.",
+      "fr": "La légende 'Figure Walkthrough' stipule explicitement : « Comment le flux linéaire d'électrons pendant les réactions lumineuses génère de l'ATP et du NADPH. » Ce sont les deux principales molécules porteuses d'énergie produites pendant les réactions lumineuses de la photosynthèse.",
+      "de": "Die Bildunterschrift „Figure Walkthrough“ besagt explizit: „Wie der lineare Elektronentransport während der Lichtreaktionen ATP und NADPH erzeugt.“ Dies sind die beiden primären energietragenden Moleküle, die während der lichtabhängigen Reaktionen der Photosynthese produziert werden.",
+      "ja": "「図のウォークスルー」のキャプションには、「光反応中の直線電子流がどのようにATPとNADPHを生成するか」と明確に記載されています。これらは、光合成の光依存性反応中に生成される2つの主要なエネルギー運搬分子です。"
+    }
+  }
+]

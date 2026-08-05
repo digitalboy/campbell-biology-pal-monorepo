@@ -1,0 +1,372 @@
+[
+  {
+    "page_number": 99,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "If a 0.5 M solution of glucose is prepared, and 1 mole of glucose has a mass of 180 g, how much glucose (in grams) is needed to make 2 L of this solution?",
+      "zh": "如果配制 0.5 M 的葡萄糖溶液，已知 1 摩尔葡萄糖的质量为 180 克，那么需要多少克葡萄糖来配制 2 升这种溶液？",
+      "es": "Si se prepara una solución de glucosa 0.5 M, y 1 mol de glucosa tiene una masa de 180 g, ¿cuántos gramos de glucosa se necesitan para preparar 2 L de esta solución?",
+      "fr": "Si une solution de glucose à 0,5 M est préparée, et que 1 mole de glucose a une masse de 180 g, combien de grammes de glucose sont nécessaires pour préparer 2 L de cette solution ?",
+      "de": "Wenn eine 0,5 M Glukoselösung hergestellt wird und 1 Mol Glukose eine Masse von 180 g hat, wie viel Glukose (in Gramm) wird benötigt, um 2 L dieser Lösung herzustellen?",
+      "ja": "0.5 Mのグルコース溶液を調製する場合、グルコース1モルの質量が180gであるとき、この溶液を2L作るのに必要なグルコースの量（グラム）はいくつですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "90 g",
+          "zh": "90 克",
+          "es": "90 g",
+          "fr": "90 g",
+          "de": "90 g",
+          "ja": "90 g"
+        },
+        "feedback": {
+          "en": "This would be the amount for 1 L of the solution.",
+          "zh": "这是配制 1 升溶液所需的量。",
+          "es": "Esta sería la cantidad para 1 L de la solución.",
+          "fr": "Ce serait la quantité pour 1 L de solution.",
+          "de": "Dies wäre die Menge für 1 L der Lösung.",
+          "ja": "これは溶液1Lあたりの量です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "180 g",
+          "zh": "180 克",
+          "es": "180 g",
+          "fr": "180 g",
+          "de": "180 g",
+          "ja": "180 g"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "360 g",
+          "zh": "360 克",
+          "es": "360 g",
+          "fr": "360 g",
+          "de": "360 g",
+          "ja": "360 g"
+        },
+        "feedback": {
+          "en": "This would be the amount for a 1 M solution, not 0.5 M.",
+          "zh": "这是配制 1 M 溶液所需的量，而不是 0.5 M。",
+          "es": "Esta sería la cantidad para una solución 1 M, no 0.5 M.",
+          "fr": "Ce serait la quantité pour une solution 1 M, pas 0,5 M.",
+          "de": "Dies wäre die Menge für eine 1 M Lösung, nicht 0,5 M.",
+          "ja": "これは1 M溶液の量であり、0.5 Mではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "45 g",
+          "zh": "45 克",
+          "es": "45 g",
+          "fr": "45 g",
+          "de": "45 g",
+          "ja": "45 g"
+        },
+        "feedback": {
+          "en": "This would be the amount for 0.5 L of a 0.5 M solution.",
+          "zh": "这是配制 0.5 升 0.5 M 溶液所需的量。",
+          "es": "Esta sería la cantidad para 0.5 L de una solución 0.5 M.",
+          "fr": "Ce serait la quantité pour 0,5 L d'une solution 0,5 M.",
+          "de": "Dies wäre die Menge für 0,5 L einer 0,5 M Lösung.",
+          "ja": "これは0.5 M溶液の0.5 Lあたりの量です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "To find the mass of glucose needed, first calculate the total moles required: Moles = Molarity × Volume = 0.5 mol/L × 2 L = 1 mol. Then, convert moles to mass: Mass = Moles × Molar Mass = 1 mol × 180 g/mol = 180 g.",
+      "zh": "要计算所需葡萄糖的质量，首先计算所需的总摩尔数：摩尔数 = 摩尔浓度 × 体积 = 0.5 摩尔/升 × 2 升 = 1 摩尔。然后，将摩尔数转换为质量：质量 = 摩尔数 × 摩尔质量 = 1 摩尔 × 180 克/摩尔 = 180 克。",
+      "es": "Para calcular la masa de glucosa necesaria, primero calcule el total de moles requeridos: Moles = Molaridad × Volumen = 0.5 mol/L × 2 L = 1 mol. Luego, convierta los moles a masa: Masa = Moles × Masa Molar = 1 mol × 180 g/mol = 180 g.",
+      "fr": "Pour trouver la masse de glucose nécessaire, calculez d'abord le nombre total de moles requises : Moles = Molarité × Volume = 0,5 mol/L × 2 L = 1 mol. Ensuite, convertissez les moles en masse : Masse = Moles × Masse Molaire = 1 mol × 180 g/mol = 180 g.",
+      "de": "Um die benötigte Glukosemasse zu ermitteln, berechnen Sie zuerst die erforderliche Gesamtmolzahl: Molzahl = Molarität × Volumen = 0,5 mol/L × 2 L = 1 mol. Wandeln Sie dann die Molzahl in Masse um: Masse = Molzahl × Molmasse = 1 mol × 180 g/mol = 180 g.",
+      "ja": "必要なグルコースの質量を求めるには、まず必要な総モル数を計算します。モル数 = モル濃度 × 体積 = 0.5 mol/L × 2 L = 1 mol。次に、モル数を質量に変換します。質量 = モル数 × モル質量 = 1 mol × 180 g/mol = 180 g。"
+    }
+  },
+  {
+    "page_number": 99,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which statement accurately describes the mole concept as presented in the text?",
+      "zh": "以下哪项陈述准确描述了文本中介绍的摩尔概念？",
+      "es": "¿Qué afirmación describe con precisión el concepto de mol tal como se presenta en el texto?",
+      "fr": "Quelle affirmation décrit précisément le concept de mole tel que présenté dans le texte ?",
+      "de": "Welche Aussage beschreibt das im Text dargestellte Mol-Konzept zutreffend?",
+      "ja": "本文で説明されているモル概念を正確に記述しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A mole of any substance always has the same mass.",
+          "zh": "任何物质的 1 摩尔总是具有相同的质量。",
+          "es": "Un mol de cualquier sustancia siempre tiene la misma masa.",
+          "fr": "Une mole de n'importe quelle substance a toujours la même masse.",
+          "de": "Ein Mol einer Substanz hat immer die gleiche Masse.",
+          "ja": "どの物質の1モルも常に同じ質量を持ちます。"
+        },
+        "feedback": {
+          "en": "The text states that a mole of ethyl alcohol (46g) has the same number of molecules as a mole of sucrose (342g), but different masses.",
+          "zh": "文本指出，1 摩尔乙醇（46 克）与 1 摩尔蔗糖（342 克）含有相同数量的分子，但质量不同。",
+          "es": "El texto afirma que un mol de alcohol etílico (46 g) tiene el mismo número de moléculas que un mol de sacarosa (342 g), pero masas diferentes.",
+          "fr": "Le texte indique qu'une mole d'alcool éthylique (46 g) a le même nombre de molécules qu'une mole de saccharose (342 g), mais des masses différentes.",
+          "de": "Der Text besagt, dass ein Mol Ethylalkohol (46 g) die gleiche Anzahl von Molekülen wie ein Mol Saccharose (342 g) hat, aber unterschiedliche Massen.",
+          "ja": "本文によると、エチルアルコール1モル（46g）とスクロース1モル（342g）は同じ数の分子を含みますが、質量は異なります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A mole represents an exact number of objects (6.02 × 10^23), regardless of the substance's identity.",
+          "zh": "无论物质的身份如何，1 摩尔都代表一个精确数量的粒子 (6.02 × 10^23)。",
+          "es": "Un mol representa un número exacto de objetos (6.02 × 10^23), independientemente de la identidad de la sustancia.",
+          "fr": "Une mole représente un nombre exact d'objets (6,02 × 10^23), quelle que soit l'identité de la substance.",
+          "de": "Ein Mol repräsentiert eine exakte Anzahl von Objekten (6,02 × 10^23), unabhängig von der Identität der Substanz.",
+          "ja": "モルは、物質の同一性に関係なく、正確な数のオブジェクト（6.02 × 10^23）を表します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The molar mass of a substance is equivalent to its molecular mass measured in daltons.",
+          "zh": "物质的摩尔质量等同于其以道尔顿为单位测量的分子质量。",
+          "es": "La masa molar de una sustancia es equivalente a su masa molecular medida en daltons.",
+          "fr": "La masse molaire d'une substance est équivalente à sa masse moléculaire mesurée en daltons.",
+          "de": "Die molare Masse einer Substanz entspricht ihrer in Dalton gemessenen Molekülmasse.",
+          "ja": "物質のモル質量は、ダルトンで測定された分子質量に等しい。"
+        },
+        "feedback": {
+          "en": "Molar mass is expressed in grams per mole, while molecular mass is in daltons. They have the same numerical value but different units.",
+          "zh": "摩尔质量以克/摩尔表示，而分子质量以道尔顿表示。它们具有相同的数值，但单位不同。",
+          "es": "La masa molar se expresa en gramos por mol, mientras que la masa molecular se expresa en daltons. Tienen el mismo valor numérico pero unidades diferentes.",
+          "fr": "La masse molaire est exprimée en grammes par mole, tandis que la masse moléculaire est en daltons. Elles ont la même valeur numérique mais des unités différentes.",
+          "de": "Die molare Masse wird in Gramm pro Mol ausgedrückt, während die Molekülmasse in Dalton angegeben wird. Sie haben den gleichen Zahlenwert, aber unterschiedliche Einheiten.",
+          "ja": "モル質量はグラム/モルで表され、分子質量はダルトンで表されます。数値は同じですが、単位が異なります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Measuring substances in moles is primarily for aesthetic reasons in the laboratory.",
+          "zh": "在实验室中，以摩尔为单位测量物质主要是出于美观原因。",
+          "es": "Medir sustancias en moles es principalmente por razones estéticas en el laboratorio.",
+          "fr": "Mesurer des substances en moles est principalement pour des raisons esthétiques en laboratoire.",
+          "de": "Substanzen in Mol zu messen, dient im Labor primär ästhetischen Gründen.",
+          "ja": "物質をモル単位で測定するのは、主に実験室での見た目の理由です。"
+        },
+        "feedback": {
+          "en": "The text emphasizes that measuring in moles is practical and convenient for scientists to combine substances in fixed ratios of molecules.",
+          "zh": "文本强调，以摩尔为单位测量对科学家而言实用且方便，便于他们以固定分子比例组合物质。",
+          "es": "El texto enfatiza que medir en moles es práctico y conveniente para que los científicos combinen sustancias en proporciones fijas de moléculas.",
+          "fr": "Le texte souligne que la mesure en moles est pratique et commode pour les scientifiques afin de combiner des substances dans des proportions fixes de molécules.",
+          "de": "Der Text betont, dass die Messung in Mol für Wissenschaftler praktisch und bequem ist, um Substanzen in festen Molekülverhältnissen zu kombinieren.",
+          "ja": "本文では、モル単位での測定が、科学者が物質を一定の分子比で組み合わせるために実用的で便利であると強調されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text clearly defines a mole (mol) as representing an exact number of objects: 6.02 × 10^23, which is called Avogadro's number. This quantity is constant for any substance.",
+      "zh": "文本明确将摩尔（mol）定义为表示一个精确数量的粒子：6.02 × 10^23，这被称为阿伏伽德罗常数。这个量对于任何物质都是恒定的。",
+      "es": "El texto define claramente un mol (mol) como la representación de un número exacto de objetos: 6.02 × 10^23, que se denomina número de Avogadro. Esta cantidad es constante para cualquier sustancia.",
+      "fr": "Le texte définit clairement une mole (mol) comme représentant un nombre exact d'objets : 6,02 × 10^23, appelé nombre d'Avogadro. Cette quantité est constante pour toute substance.",
+      "de": "Der Text definiert ein Mol (mol) eindeutig als eine exakte Anzahl von Objekten: 6,02 × 10^23, die Avogadro-Zahl. Diese Menge ist für jede Substanz konstant.",
+      "ja": "本文では、モル（mol）が正確な数の物体、すなわちアボガドロ数と呼ばれる6.02 × 10^23個を表すと明確に定義されています。この量はどの物質に対しても一定です。"
+    }
+  },
+  {
+    "page_number": 99,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text mentions hydrophobic molecules as major ingredients of cell membranes. If a cell membrane were primarily composed of hydrophilic substances, what would be the most likely consequence?",
+      "zh": "文本中提到疏水分子是细胞膜的主要成分。如果细胞膜主要由亲水物质组成，最可能的结果是什么？",
+      "es": "El texto menciona que las moléculas hidrofóbicas son ingredientes principales de las membranas celulares. Si una membrana celular estuviera compuesta principalmente por sustancias hidrofílicas, ¿cuál sería la consecuencia más probable?",
+      "fr": "Le texte mentionne les molécules hydrophobes comme ingrédients majeurs des membranes cellulaires. Si une membrane cellulaire était principalement composée de substances hydrophiles, quelle serait la conséquence la plus probable ?",
+      "de": "Der Text erwähnt, dass hydrophobe Moleküle Hauptbestandteile von Zellmembranen sind. Wenn eine Zellmembran hauptsächlich aus hydrophilen Substanzen bestünde, was wäre die wahrscheinlichste Folge?",
+      "ja": "本文では、疎水性分子が細胞膜の主要な成分であることが述べられています。もし細胞膜が主に親水性物質で構成されていた場合、最も起こりうる結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The cell membrane would become more rigid and less permeable to water.",
+          "zh": "细胞膜会变得更加僵硬，对水渗透性降低。",
+          "es": "La membrana celular se volvería más rígida y menos permeable al agua.",
+          "fr": "La membrane cellulaire deviendrait plus rigide et moins perméable à l'eau.",
+          "de": "Die Zellmembran würde steifer und weniger wasserdurchlässig werden.",
+          "ja": "細胞膜はより硬くなり、水に対する透過性が低下する。"
+        },
+        "feedback": {
+          "en": "Hydrophilicity generally implies greater interaction with water, which could lead to disruption, not increased rigidity and reduced water permeability.",
+          "zh": "亲水性通常意味着与水有更强的相互作用，这可能导致结构瓦解，而不是增加刚性和降低水渗透性。",
+          "es": "La hidrofilicidad generalmente implica una mayor interacción con el agua, lo que podría conducir a la interrupción, no a una mayor rigidez y una menor permeabilidad al agua.",
+          "fr": "L'hydrophilie implique généralement une plus grande interaction avec l'eau, ce qui pourrait entraîner une rupture, et non une rigidité accrue et une perméabilité à l'eau réduite.",
+          "de": "Hydrophilie bedeutet im Allgemeinen eine stärkere Wechselwirkung mit Wasser, was zu einer Auflösung führen könnte, nicht zu erhöhter Steifigkeit und reduzierter Wasserpermeabilität.",
+          "ja": "親水性は一般的に水との相互作用が強くなることを意味し、構造の破壊につながる可能性があり、剛性の増加や水透過性の低下にはなりません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The cell membrane would readily dissolve or break apart in aqueous environments, compromising cell integrity.",
+          "zh": "细胞膜会在水性环境中轻易溶解或崩解，从而损害细胞的完整性。",
+          "es": "La membrana celular se disolvería o desintegraría fácilmente en ambientes acuosos, comprometiendo la integridad celular.",
+          "fr": "La membrane cellulaire se dissoudrait ou se désintégrerait facilement dans les environnements aqueux, compromettant l'intégrité cellulaire.",
+          "de": "Die Zellmembran würde sich in wässrigen Umgebungen leicht auflösen oder zerfallen, wodurch die Zellintegrität gefährdet wäre.",
+          "ja": "細胞膜は水性環境下で容易に溶解または崩壊し、細胞の完全性を損なうだろう。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The cell would be unable to transport any substances, including water, across its membrane.",
+          "zh": "细胞将无法通过其膜运输包括水在内的任何物质。",
+          "es": "La célula sería incapaz de transportar cualquier sustancia, incluyendo agua, a través de su membrana.",
+          "fr": "La cellule serait incapable de transporter des substances, y compris l'eau, à travers sa membrane.",
+          "de": "Die Zelle wäre nicht in der Lage, Substanzen, einschließlich Wasser, durch ihre Membran zu transportieren.",
+          "ja": "細胞は膜を介して水を含むいかなる物質も輸送できなくなる。"
+        },
+        "feedback": {
+          "en": "While transport could be affected, the primary and immediate consequence of a hydrophilic membrane in an aqueous environment would be its structural instability.",
+          "zh": "虽然运输可能会受到影响，但在水性环境中，亲水性膜的首要和直接后果将是其结构的不稳定性。",
+          "es": "Aunque el transporte podría verse afectado, la consecuencia principal e inmediata de una membrana hidrofílica en un ambiente acuoso sería su inestabilidad estructural.",
+          "fr": "Bien que le transport puisse être affecté, la conséquence principale et immédiate d'une membrane hydrophile dans un environnement aqueux serait son instabilité structurelle.",
+          "de": "Während der Transport betroffen sein könnte, wäre die primäre und unmittelbare Folge einer hydrophilen Membran in einer wässrigen Umgebung deren strukturelle Instabilität.",
+          "ja": "輸送に影響が出る可能性はありますが、水性環境下での親水性膜の最も主要かつ直接的な結果は、その構造的な不安定性です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The cell would gain enhanced protection against osmotic lysis.",
+          "zh": "细胞将获得增强的抗渗透溶解保护。",
+          "es": "La célula obtendría una protección mejorada contra la lisis osmótica.",
+          "fr": "La cellule bénéficierait d'une protection accrue contre la lyse osmotique.",
+          "de": "Die Zelle würde einen verbesserten Schutz vor osmotischer Lyse erhalten.",
+          "ja": "細胞は浸透圧溶解に対する保護を強化する。"
+        },
+        "feedback": {
+          "en": "A membrane that dissolves or breaks apart would offer no protection against osmotic lysis; in fact, it would be highly vulnerable.",
+          "zh": "溶解或崩解的细胞膜将无法提供对抗渗透溶解的保护；事实上，它会变得高度脆弱。",
+          "es": "Una membrana que se disuelve o se rompe no ofrecería ninguna protección contra la lisis osmótica; de hecho, sería altamente vulnerable.",
+          "fr": "Une membrane qui se dissout ou se désintègre n'offrirait aucune protection contre la lyse osmotique ; en fait, elle serait très vulnérable.",
+          "de": "Eine Membran, die sich auflöst oder zerfällt, würde keinen Schutz vor osmotischer Lyse bieten; tatsächlich wäre sie sehr anfällig.",
+          "ja": "溶解したり崩壊したりする膜は、浸透圧溶解に対する保護を提供せず、実際には非常に脆弱になります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Cell membranes are primarily composed of hydrophobic lipids, which form a barrier that repels water and prevents the cell from dissolving in its aqueous environment. If the membrane were made of hydrophilic substances, it would readily interact with and dissolve in water, leading to the breakdown of the cell structure and loss of cell integrity.",
+      "zh": "细胞膜主要由疏水性脂质组成，这些脂质形成一层排斥水的屏障，防止细胞在其水性环境中溶解。如果细胞膜由亲水物质组成，它将很容易与水相互作用并溶解，从而导致细胞结构瓦解和细胞完整性丧失。",
+      "es": "Las membranas celulares están compuestas principalmente por lípidos hidrofóbicos, que forman una barrera que repele el agua y evita que la célula se disuelva en su entorno acuoso. Si la membrana estuviera hecha de sustancias hidrofílicas, interactuaría y se disolvería fácilmente en el agua, lo que llevaría a la ruptura de la estructura celular y la pérdida de la integridad celular.",
+      "fr": "Les membranes cellulaires sont principalement composées de lipides hydrophobes, qui forment une barrière repoussant l'eau et empêchant la cellule de se dissoudre dans son environnement aqueux. Si la membrane était constituée de substances hydrophiles, elle interagirait facilement avec l'eau et s'y dissoudrait, entraînant la dégradation de la structure cellulaire et la perte d'intégrité cellulaire.",
+      "de": "Zellmembranen bestehen hauptsächlich aus hydrophoben Lipiden, die eine Barriere bilden, die Wasser abweist und verhindert, dass die Zelle in ihrer wässrigen Umgebung zerfällt. Wäre die Membran aus hydrophilen Substanzen aufgebaut, würde sie leicht mit Wasser interagieren und sich darin auflösen, was zum Zusammenbruch der Zellstruktur und zum Verlust der Zellintegrität führen würde.",
+      "ja": "細胞膜は主に疎水性の脂質で構成されており、水性環境下で細胞が溶解するのを防ぐ撥水性のバリアを形成しています。もし膜が親水性物質で構成されていた場合、容易に水と相互作用して溶解し、細胞構造の破壊と細胞の完全性の喪失につながるでしょう。"
+    }
+  },
+  {
+    "page_number": 99,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the provided text and Figure 3.10, which of the following observations or studies support the conclusion that liquid water is present or was recently present on Mars? Select all that apply.",
+      "zh": "根据提供的文本和图 3.10，以下哪些观察或研究支持火星上存在液态水或近期存在液态水的结论？请选择所有适用项。",
+      "es": "Según el texto proporcionado y la Figura 3.10, ¿cuáles de las siguientes observaciones o estudios apoyan la conclusión de que hay o hubo recientemente agua líquida en Marte? Selecciona todas las que apliquen.",
+      "fr": "Selon le texte fourni et la Figure 3.10, lesquelles des observations ou études suivantes étayent la conclusion que de l'eau liquide est présente ou a été récemment présente sur Mars ? Sélectionnez toutes les options applicables.",
+      "de": "Basierend auf dem bereitgestellten Text und Abbildung 3.10, welche der folgenden Beobachtungen oder Studien stützen die Schlussfolgerung, dass flüssiges Wasser auf dem Mars vorhanden ist oder kürzlich vorhanden war? Wählen Sie alle zutreffenden aus.",
+      "ja": "提供されたテキストと図3.10に基づいて、火星に液体の水が存在する、または最近存在したという結論を裏付ける観察または研究は次のうちどれですか？該当するものをすべて選択してください。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Images from spacecraft sent to Mars showing ice present just under the surface.",
+          "zh": "航天器发回的火星图像显示地表下存在冰。",
+          "es": "Imágenes de naves espaciales enviadas a Marte que muestran hielo presente justo debajo de la superficie.",
+          "fr": "Images provenant de sondes spatiales envoyées sur Mars montrant de la glace présente juste sous la surface.",
+          "de": "Bilder von Raumfahrzeugen, die zum Mars geschickt wurden und Eis direkt unter der Oberfläche zeigen.",
+          "ja": "火星に送られた宇宙船からの画像で、地表のすぐ下に氷が存在することを示している。"
+        },
+        "feedback": {
+          "en": "While ice is frozen water, this observation primarily indicates solid water, not necessarily liquid water or recent liquid flow.",
+          "zh": "虽然冰是冷冻的水，但这一观察主要表明存在固态水，不一定表明存在液态水或近期有过液态水流动。",
+          "es": "Aunque el hielo es agua congelada, esta observación indica principalmente agua sólida, no necesariamente agua líquida o un flujo líquido reciente.",
+          "fr": "Bien que la glace soit de l'eau gelée, cette observation indique principalement de l'eau solide, pas nécessairement de l'eau liquide ou un écoulement liquide récent.",
+          "de": "Obwohl Eis gefrorenes Wasser ist, deutet diese Beobachtung primär auf festes Wasser hin, nicht unbedingt auf flüssiges Wasser oder einen kürzlichen Flüssigkeitsfluss.",
+          "ja": "氷は凍った水ですが、この観測は主に固体の水を示しており、必ずしも液体の水や最近の液体の流れを示すものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Dark streaks that run downhill during the summer, associated with hydrated salts.",
+          "zh": "夏季沿斜坡向下流动的黑色条纹，与水合盐相关联。",
+          "es": "Estelas oscuras que bajan por las laderas durante el verano, asociadas con sales hidratadas.",
+          "fr": "Des traînées sombres qui descendent les pentes pendant l'été, associées à des sels hydratés.",
+          "de": "Dunkle Streifen, die im Sommer bergab verlaufen, verbunden mit hydratisierten Salzen.",
+          "ja": "夏の間、坂を下る黒い筋と水和塩の関連。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A radar study in 2018 concluding there is a large reservoir of liquid water one mile below surface ice.",
+          "zh": "2018 年的一项雷达研究得出结论，地表冰下一英里处存在一个大型液态水库。",
+          "es": "Un estudio de radar en 2018 que concluyó que existe un gran reservorio de agua líquida a una milla por debajo del hielo superficial.",
+          "fr": "Une étude radar en 2018 concluant à l'existence d'un grand réservoir d'eau liquide à un mille sous la glace de surface.",
+          "de": "Eine Radarstudie aus dem Jahr 2018, die zu dem Schluss kam, dass sich ein großes Reservoir an flüssigem Wasser eine Meile unter dem Oberflächeneis befindet.",
+          "ja": "2018年のレーダー研究で、地表の氷の1マイル下に大量の液体の水貯留層が存在すると結論付けられたこと。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Existence of enough water vapor in the atmosphere for frost to form.",
+          "zh": "大气中存在足够的水蒸气以形成霜。",
+          "es": "Existencia de suficiente vapor de agua en la atmósfera para la formación de escarcha.",
+          "fr": "Existence de suffisamment de vapeur d'eau dans l'atmosphère pour que du givre se forme.",
+          "de": "Ausreichende Wasserdampfmenge in der Atmosphäre zur Frostbildung.",
+          "ja": "霜が形成されるのに十分な水蒸気が大気中に存在すること。"
+        },
+        "feedback": {
+          "en": "This indicates water in gaseous and solid forms (frost), not direct evidence of liquid water or its recent presence.",
+          "zh": "这表明水以气态和固态（霜）存在，而不是液态水或其近期存在的直接证据。",
+          "es": "Esto indica agua en forma gaseosa y sólida (escarcha), no evidencia directa de agua líquida o su presencia reciente.",
+          "fr": "Cela indique la présence d'eau sous forme gazeuse et solide (givre), mais pas de preuve directe d'eau liquide ou de sa présence récente.",
+          "de": "Dies weist auf Wasser in gasförmiger und fester Form (Reif) hin, nicht auf direkte Hinweise auf flüssiges Wasser oder dessen jüngstes Vorkommen.",
+          "ja": "これは気体および固体の形態の水（霜）を示しており、液体の水やその最近の存在の直接的な証拠ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that 'in 2015, scientists found evidence of water flowing on Mars (Figure 3.10),' and the caption for Figure 3.10 mentions 'dark streaks that run downhill' and 'hydrated salts, indicating water is present.' Additionally, the text notes 'a study using radar in 2018 concluded there is a large reservoir of liquid water one mile below surface ice.' These two points directly support the conclusion of liquid water on Mars.",
+      "zh": "文本明确指出“2015 年，科学家发现火星上有水流动的证据（图 3.10）”，图 3.10 的标题提到“夏季沿斜坡向下流动的黑色条纹”和“水合盐，表明有水存在”。此外，文本还指出“2018 年的一项雷达研究得出结论，地表冰下一英里处存在一个大型液态水库”。这两点直接支持火星上存在液态水的结论。",
+      "es": "El texto establece explícitamente que 'en 2015, los científicos encontraron evidencia de agua fluyendo en Marte (Figura 3.10)', y el pie de foto de la Figura 3.10 menciona 'estelas oscuras que bajan por las laderas' y 'sales hidratadas, indicando la presencia de agua'. Además, el texto señala que 'un estudio de radar en 2018 concluyó que existe un gran reservorio de agua líquida a una milla por debajo del hielo superficial'. Estos dos puntos apoyan directamente la conclusión de la presencia de agua líquida en Marte.",
+      "fr": "Le texte indique explicitement qu'« en 2015, les scientifiques ont trouvé des preuves d'eau s'écoulant sur Mars (Figure 3.10) », et la légende de la Figure 3.10 mentionne « des traînées sombres qui descendent les pentes » et « des sels hydratés, indiquant la présence d'eau ». De plus, le texte note qu'« une étude radar en 2018 a conclu qu'il y a un grand réservoir d'eau liquide à un mille sous la glace de surface ». Ces deux points appuient directement la conclusion de la présence d'eau liquide sur Mars.",
+      "de": "Der Text besagt ausdrücklich, dass „im Jahr 2015 Wissenschaftler Beweise für fließendes Wasser auf dem Mars gefunden haben (Abbildung 3.10)“, und die Bildunterschrift zu Abbildung 3.10 erwähnt „dunkle Streifen, die im Sommer bergab verlaufen“ und „hydratisierte Salze, die auf das Vorhandensein von Wasser hinweisen“. Darüber hinaus stellt der Text fest, dass „eine Radarstudie aus dem Jahr 2018 zu dem Schluss kam, dass sich ein großes Reservoir an flüssigem Wasser eine Meile unter dem Oberflächeneis befindet“. Diese beiden Punkte stützen direkt die Schlussfolgerung über flüssiges Wasser auf dem Mars.",
+      "ja": "本文には「2015年、科学者は火星に水が流れている証拠を発見した（図3.10）」と明記されており、図3.10のキャプションには「夏の間、坂を下る黒い筋」と「水和塩、水の存在を示す」と記載されています。さらに、本文には「2018年のレーダー調査により、地表の氷の1マイル下に大量の液体の水貯留層が存在することが結論付けられた」とあります。これら2つの点が、火星に液体の水が存在するという結論を直接裏付けています。"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Tyler and Lily each had a brother who died from a recessive lethal disease. Neither Tyler nor Lily has the disease. What is the probability that their first child will have the disease?",
+      "zh": "泰勒和莉莉各有一个兄弟死于一种隐性致死性疾病。泰勒和莉莉本人都没有患此病。他们第一个孩子患上这种疾病的概率是多少？",
+      "es": "Tyler y Lily tuvieron cada uno un hermano que murió de una enfermedad letal recesiva. Ni Tyler ni Lily tienen la enfermedad. ¿Cuál es la probabilidad de que su primer hijo tenga la enfermedad?",
+      "fr": "Tyler et Lily avaient chacun un frère décédé d'une maladie létale récessive. Ni Tyler ni Lily n'ont la maladie. Quelle est la probabilité que leur premier enfant soit atteint de la maladie ?",
+      "de": "Tyler und Lily hatten jeweils einen Bruder, der an einer rezessiven tödlichen Krankheit starb. Weder Tyler noch Lily haben die Krankheit. Wie hoch ist die Wahrscheinlichkeit, dass ihr erstes Kind die Krankheit hat?",
+      "ja": "タイラーとリリーにはそれぞれ、劣性致死性疾患で亡くなった兄弟がいます。タイラーもリリーもその病気ではありません。彼らの最初の子供がその病気になる確率はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1/4",
+          "zh": "1/4",
+          "es": "1/4",
+          "fr": "1/4",
+          "de": "1/4",
+          "ja": "1/4"
+        },
+        "feedback": {
+          "en": "This would be the probability if we already knew for certain that both Tyler and Lily were carriers. However, we only know there is a chance they are carriers.",
+          "zh": "如果我们已经确定泰勒和莉莉都是携带者，这才是正确的概率。然而，我们只知道他们有可能是携带者。",
+          "es": "Esta sería la probabilidad si ya supiéramos con certeza que tanto Tyler como Lily eran portadores. Sin embargo, solo sabemos que existe la posibilidad de que sean portadores.",
+          "fr": "Ce serait la probabilité si nous savions déjà avec certitude que Tyler et Lily étaient tous deux porteurs. Cependant, nous savons seulement qu'il y a une chance qu'ils soient porteurs.",
+          "de": "Dies wäre die Wahrscheinlichkeit, wenn wir bereits sicher wüssten, dass sowohl Tyler als auch Lily Träger waren. Wir wissen jedoch nur, dass eine Chance besteht, dass sie Träger sind.",
+          "ja": "これは、タイラーとリリーの両方が保因者であることがすでにわかっている場合の確率です。しかし、私たちが知っているのは、彼らが保因者である可能性があるということだけです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "2/3",
+          "zh": "2/3",
+          "es": "2/3",
+          "fr": "2/3",
+          "de": "2/3",
+          "ja": "2/3"
+        },
+        "feedback": {
+          "en": "This is the probability that a single individual (like Tyler or Lily) is a carrier, given that their parents were carriers and they are unaffected.",
+          "zh": "这是在父母是携带者且他们本人未患病的情况下，单个个体（如泰勒或莉莉）是携带者的概率。",
+          "es": "Esta es la probabilidad de que un solo individuo (como Tyler o Lily) sea portador, dado que sus padres eran portadores y no están afectados.",
+          "fr": "C'est la probabilité qu'un seul individu (comme Tyler ou Lily) soit porteur, étant donné que ses parents étaient porteurs et qu'il n'est pas atteint.",
+          "de": "Dies ist die Wahrscheinlichkeit, dass eine einzelne Person (wie Tyler oder Lily) Träger ist, vorausgesetzt, ihre Eltern waren Träger und sie sind nicht betroffen.",
+          "ja": "これは、両親が保因者であり、彼らが罹患していないという条件の下で、単一の個人（タイラーやリリーなど）が保因者である確率です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "1/9",
+          "zh": "1/9",
+          "es": "1/9",
+          "fr": "1/9",
+          "de": "1/9",
+          "ja": "1/9"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "1/8",
+          "zh": "1/8",
+          "es": "1/8",
+          "fr": "1/8",
+          "de": "1/8",
+          "ja": "1/8"
+        },
+        "feedback": {
+          "en": "This value is not derived from the probabilities described in the text.",
+          "zh": "这个值不是从文本中描述的概率得出的。",
+          "es": "Este valor no se deriva de las probabilidades descritas en el texto.",
+          "fr": "Cette valeur n'est pas dérivée des probabilités décrites dans le texte.",
+          "de": "Dieser Wert wird nicht aus den im Text beschriebenen Wahrscheinlichkeiten abgeleitet.",
+          "ja": "この値は、本文で説明されている確率から導出されたものではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "First, determine the probability that Tyler is a carrier. Since his parents must be heterozygous (Aa) and he is not affected (not aa), his possible genotypes are AA or Aa. The probability of being a carrier (Aa) is 2/3. The same logic applies to Lily. The probability of two carriers having an affected child is 1/4. Using the multiplication rule, the total probability is P(Tyler is Aa) * P(Lily is Aa) * P(child is aa) = (2/3) * (2/3) * (1/4) = 4/36 = 1/9.",
+      "zh": "首先，确定泰勒是携带者的概率。因为他的父母必须是杂合子（Aa）而他本人未患病（不是 aa），所以他可能的基因型是 AA 或 Aa。他是携带者（Aa）的概率是 2/3。同样的逻辑也适用于莉莉。两个携带者生出患病孩子的概率是 1/4。根据乘法法则，总概率是 P(泰勒是 Aa) * P(莉莉是 Aa) * P(孩子是 aa) = (2/3) * (2/3) * (1/4) = 4/36 = 1/9。",
+      "es": "Primero, determine la probabilidad de que Tyler sea portador. Dado que sus padres deben ser heterocigotos (Aa) y él no está afectado (no es aa), sus posibles genotipos son AA o Aa. La probabilidad de ser portador (Aa) es 2/3. La misma lógica se aplica a Lily. La probabilidad de que dos portadores tengan un hijo afectado es 1/4. Usando la regla de la multiplicación, la probabilidad total es P(Tyler es Aa) * P(Lily es Aa) * P(hijo es aa) = (2/3) * (2/3) * (1/4) = 4/36 = 1/9.",
+      "fr": "Déterminez d'abord la probabilité que Tyler soit porteur. Puisque ses parents doivent être hétérozygotes (Aa) et qu'il n'est pas atteint (pas aa), ses génotypes possibles sont AA ou Aa. La probabilité d'être porteur (Aa) est de 2/3. La même logique s'applique à Lily. La probabilité que deux porteurs aient un enfant atteint est de 1/4. En utilisant la règle de multiplication, la probabilité totale est P(Tyler est Aa) * P(Lily est Aa) * P(l'enfant est aa) = (2/3) * (2/3) * (1/4) = 4/36 = 1/9.",
+      "de": "Bestimmen Sie zunächst die Wahrscheinlichkeit, dass Tyler Träger ist. Da seine Eltern heterozygot (Aa) sein müssen und er nicht betroffen ist (nicht aa), sind seine möglichen Genotypen AA oder Aa. Die Wahrscheinlichkeit, Träger (Aa) zu sein, beträgt 2/3. Dieselbe Logik gilt für Lily. Die Wahrscheinlichkeit, dass zwei Träger ein betroffenes Kind bekommen, beträgt 1/4. Unter Anwendung der Multiplikationsregel beträgt die Gesamtwahrscheinlichkeit P(Tyler ist Aa) * P(Lily ist Aa) * P(Kind ist aa) = (2/3) * (2/3) * (1/4) = 4/36 = 1/9.",
+      "ja": "まず、タイラーが保因者である確率を決定します。彼の両親はヘテロ接合体（Aa）でなければならず、彼は罹患していない（aaではない）ため、彼の考えられる遺伝子型はAAまたはAaです。保因者（Aa）である確率は2/3です。同じ論理がリリーにも当てはまります。2人の保因者から罹患した子供が生まれる確率は1/4です。乗法法則を使用すると、合計確率はP（タイラーがAa）* P（リリーがAa）* P（子供がaa）=（2/3）*（2/3）*（1/4）= 4/36 = 1/9になります。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Suppose the couple, Tyler and Lily, have a first child who is born with the recessive disease. What is the probability that their second child will also have the disease?",
+      "zh": "假设泰勒和莉莉夫妇的第一个孩子生来就患有这种隐性疾病。他们的第二个孩子也患有这种疾病的概率是多少？",
+      "es": "Supongamos que la pareja, Tyler y Lily, tienen un primer hijo que nace con la enfermedad recesiva. ¿Cuál es la probabilidad de que su segundo hijo también tenga la enfermedad?",
+      "fr": "Supposons que le couple, Tyler et Lily, ait un premier enfant qui naît avec la maladie récessive. Quelle est la probabilité que leur deuxième enfant soit également atteint de la maladie ?",
+      "de": "Angenommen, das Paar, Tyler und Lily, bekommt ein erstes Kind, das mit der rezessiven Krankheit geboren wird. Wie hoch ist die Wahrscheinlichkeit, dass auch ihr zweites Kind die Krankheit hat?",
+      "ja": "タイラーとリリーのカップルに、劣性疾患を持って生まれた最初の子供がいるとします。彼らの2番目の子供もその病気になる確率はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1/9",
+          "zh": "1/9",
+          "es": "1/9",
+          "fr": "1/9",
+          "de": "1/9",
+          "ja": "1/9"
+        },
+        "feedback": {
+          "en": "This was the initial probability before any children were born. The information about the first child changes the calculation.",
+          "zh": "这是在任何孩子出生之前的初始概率。第一个孩子的信息改变了计算方式。",
+          "es": "Esta era la probabilidad inicial antes de que naciera ningún hijo. La información sobre el primer hijo cambia el cálculo.",
+          "fr": "C'était la probabilité initiale avant la naissance de tout enfant. L'information sur le premier enfant modifie le calcul.",
+          "de": "Dies war die anfängliche Wahrscheinlichkeit, bevor Kinder geboren wurden. Die Informationen über das erste Kind ändern die Berechnung.",
+          "ja": "これは、子供が生まれる前の初期の確率でした。最初の子供に関する情報は、計算を変えます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "1/4",
+          "zh": "1/4",
+          "es": "1/4",
+          "fr": "1/4",
+          "de": "1/4",
+          "ja": "1/4"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "2/3",
+          "zh": "2/3",
+          "es": "2/3",
+          "fr": "2/3",
+          "de": "2/3",
+          "ja": "2/3"
+        },
+        "feedback": {
+          "en": "This is the probability of an unaffected child from carrier parents being a carrier themselves, not the probability of being affected.",
+          "zh": "这是来自携带者父母的未患病孩子自己也是携带者的概率，而不是患病的概率。",
+          "es": "Esta es la probabilidad de que un hijo no afectado de padres portadores sea portador, no la probabilidad de estar afectado.",
+          "fr": "C'est la probabilité qu'un enfant non atteint de parents porteurs soit lui-même porteur, et non la probabilité d'être atteint.",
+          "de": "Dies ist die Wahrscheinlichkeit, dass ein nicht betroffenes Kind von Trägereltern selbst Träger ist, nicht die Wahrscheinlichkeit, betroffen zu sein.",
+          "ja": "これは、保因者の親から生まれた罹患していない子供が保因者である確率であり、罹患する確率ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "1/16",
+          "zh": "1/16",
+          "es": "1/16",
+          "fr": "1/16",
+          "de": "1/16",
+          "ja": "1/16"
+        },
+        "feedback": {
+          "en": "This might result from incorrectly multiplying probabilities (e.g., 1/4 * 1/4). Each birth is an independent event.",
+          "zh": "这可能是由于错误地将概率相乘（例如，1/4 * 1/4）得出的。每次出生都是一个独立事件。",
+          "es": "Esto podría resultar de multiplicar incorrectamente las probabilidades (p. ej., 1/4 * 1/4). Cada nacimiento es un evento independiente.",
+          "fr": "Cela pourrait résulter d'une multiplication incorrecte des probabilités (par exemple, 1/4 * 1/4). Chaque naissance est un événement indépendant.",
+          "de": "Dies könnte aus einer falschen Multiplikation von Wahrscheinlichkeiten resultieren (z. B. 1/4 * 1/4). Jede Geburt ist ein unabhängiges Ereignis.",
+          "ja": "これは、確率を誤って乗算した結果（例：1/4 * 1/4）である可能性があります。それぞれの出産は独立した事象です。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The birth of an affected child (genotype aa) definitively proves that both parents must be heterozygous carriers (Aa). Once this is known, the probability for any subsequent child having the disease is simply the result of an Aa x Aa cross, which is 1/4. Each birth is an independent event.",
+      "zh": "患病孩子（基因型 aa）的出生明确证明了父母双方都必须是杂合子携带者（Aa）。一旦知道了这一点，任何后续孩子患病的概率就只是 Aa x Aa 杂交的结果，即 1/4。每次出生都是一个独立事件。",
+      "es": "El nacimiento de un hijo afectado (genotipo aa) demuestra definitivamente que ambos padres deben ser portadores heterocigotos (Aa). Una vez que se sabe esto, la probabilidad de que cualquier hijo posterior tenga la enfermedad es simplemente el resultado de un cruce Aa x Aa, que es 1/4. Cada nacimiento es un evento independiente.",
+      "fr": "La naissance d'un enfant atteint (génotype aa) prouve définitivement que les deux parents doivent être des porteurs hétérozygotes (Aa). Une fois que cela est connu, la probabilité que tout enfant ultérieur soit atteint de la maladie est simplement le résultat d'un croisement Aa x Aa, qui est de 1/4. Chaque naissance est un événement indépendant.",
+      "de": "Die Geburt eines betroffenen Kindes (Genotyp aa) beweist endgültig, dass beide Eltern heterozygote Träger (Aa) sein müssen. Sobald dies bekannt ist, ist die Wahrscheinlichkeit, dass ein nachfolgendes Kind die Krankheit hat, einfach das Ergebnis einer Aa x Aa-Kreuzung, die 1/4 beträgt. Jede Geburt ist ein unabhängiges Ereignis.",
+      "ja": "罹患した子供（遺伝子型aa）の誕生は、両親がヘテロ接合体の保因者（Aa）でなければならないことを決定的に証明します。これがわかれば、その後の子供が病気になる確率は、単にAa x Aaの交配の結果であり、1/4になります。それぞれの出産は独立した事象です。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the key difference between a screening test and a diagnostic test in fetal testing?",
+      "zh": "在产前检测中，筛查测试和诊断测试之间的关键区别是什么？",
+      "es": "¿Cuál es la diferencia clave entre una prueba de detección y una prueba de diagnóstico en las pruebas fetales?",
+      "fr": "Quelle est la principale différence entre un test de dépistage et un test de diagnostic dans le cadre du dépistage fœtal ?",
+      "de": "Was ist der Hauptunterschied zwischen einem Screening-Test und einem diagnostischen Test bei der Fetaltestung?",
+      "ja": "胎児検査におけるスクリーニング検査と診断検査の主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Screening tests are invasive, while diagnostic tests are noninvasive.",
+          "zh": "筛查测试是侵入性的，而诊断测试是非侵入性的。",
+          "es": "Las pruebas de detección son invasivas, mientras que las pruebas de diagnóstico no son invasivas.",
+          "fr": "Les tests de dépistage sont invasifs, tandis que les tests de diagnostic sont non invasifs.",
+          "de": "Screening-Tests sind invasiv, während diagnostische Tests nicht-invasiv sind.",
+          "ja": "スクリーニング検査は侵襲的ですが、診断検査は非侵襲的です。"
+        },
+        "feedback": {
+          "en": "This is the opposite of what the text states. Screening tests like ultrasound and cell-free fetal DNA tests are generally noninvasive.",
+          "zh": "这与文本所述的相反。像超声波和游离胎儿 DNA 检测这样的筛查测试通常是非侵入性的。",
+          "es": "Esto es lo contrario de lo que dice el texto. Las pruebas de detección como la ecografía y las pruebas de ADN fetal libre de células generalmente no son invasivas.",
+          "fr": "C'est le contraire de ce que dit le texte. Les tests de dépistage comme l'échographie et les tests d'ADN fœtal acellulaire sont généralement non invasifs.",
+          "de": "Dies ist das Gegenteil von dem, was der Text besagt. Screening-Tests wie Ultraschall und zellfreie fötale DNA-Tests sind im Allgemeinen nicht-invasiv.",
+          "ja": "これは本文の内容とは逆です。超音波検査や無細胞胎児DNA検査などのスクリーニング検査は、一般的に非侵襲的です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Screening tests suggest risk, while diagnostic tests provide a more definitive answer.",
+          "zh": "筛查测试提示风险，而诊断测试提供更明确的答案。",
+          "es": "Las pruebas de detección sugieren un riesgo, mientras que las pruebas de diagnóstico proporcionan una respuesta más definitiva.",
+          "fr": "Les tests de dépistage suggèrent un risque, tandis que les tests de diagnostic fournissent une réponse plus définitive.",
+          "de": "Screening-Tests deuten auf ein Risiko hin, während diagnostische Tests eine endgültigere Antwort liefern.",
+          "ja": "スクリーニング検査はリスクを示唆し、診断検査はより確定的な答えを提供します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Screening tests are only for dominant disorders, and diagnostic tests are for recessive disorders.",
+          "zh": "筛查测试只针对显性遗传病，诊断测试针对隐性遗传病。",
+          "es": "Las pruebas de detección son solo para trastornos dominantes y las pruebas de diagnóstico son para trastornos recesivos.",
+          "fr": "Les tests de dépistage ne concernent que les troubles dominants, et les tests de diagnostic concernent les troubles récessifs.",
+          "de": "Screening-Tests sind nur für dominante Erkrankungen und diagnostische Tests für rezessive Erkrankungen.",
+          "ja": "スクリーニング検査は優性疾患のみを対象とし、診断検査は劣性疾患を対象とします。"
+        },
+        "feedback": {
+          "en": "Both types of tests can be used for various kinds of genetic disorders, regardless of the inheritance pattern.",
+          "zh": "两种类型的测试都可用于各种遗传性疾病，无论其遗传模式如何。",
+          "es": "Ambos tipos de pruebas se pueden utilizar para varios tipos de trastornos genéticos, independientemente del patrón de herencia.",
+          "fr": "Les deux types de tests peuvent être utilisés pour divers types de troubles génétiques, quel que soit le mode de transmission.",
+          "de": "Beide Arten von Tests können für verschiedene Arten von genetischen Störungen verwendet werden, unabhängig vom Vererbungsmuster.",
+          "ja": "どちらのタイプの検査も、遺伝パターンに関係なく、さまざまな種類の遺伝性疾患に使用できます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Screening tests analyze fetal DNA, while diagnostic tests use ultrasound imaging.",
+          "zh": "筛查测试分析胎儿 DNA，而诊断测试使用超声波成像。",
+          "es": "Las pruebas de detección analizan el ADN fetal, mientras que las pruebas de diagnóstico utilizan imágenes de ultrasonido.",
+          "fr": "Les tests de dépistage analysent l'ADN fœtal, tandis que les tests de diagnostic utilisent l'imagerie échographique.",
+          "de": "Screening-Tests analysieren die fötale DNA, während diagnostische Tests Ultraschallbildgebung verwenden.",
+          "ja": "スクリーニング検査は胎児のDNAを分析し、診断検査は超音波画像を使用します。"
+        },
+        "feedback": {
+          "en": "The text mentions that both imaging (ultrasound) and blood tests (including fetal DNA) are used for screening. Diagnostic tests, like amniocentesis, analyze fetal cells or fluid.",
+          "zh": "文本提到，影像学（超声波）和血液检测（包括胎儿 DNA）都用于筛查。而诊断测试，如羊膜穿刺术，则分析胎儿细胞或液体。",
+          "es": "El texto menciona que tanto las imágenes (ultrasonido) como los análisis de sangre (incluido el ADN fetal) se utilizan para la detección. Las pruebas de diagnóstico, como la amniocentesis, analizan las células o el líquido fetal.",
+          "fr": "Le texte mentionne que l'imagerie (échographie) et les tests sanguins (y compris l'ADN fœtal) sont utilisés pour le dépistage. Les tests de diagnostic, comme l'amniocentèse, analysent les cellules ou le liquide fœtal.",
+          "de": "Der Text erwähnt, dass sowohl bildgebende Verfahren (Ultraschall) als auch Bluttests (einschließlich fötaler DNA) zum Screening verwendet werden. Diagnostische Tests wie die Amniozentese analysieren fötale Zellen oder Flüssigkeit.",
+          "ja": "本文では、画像診断（超音波）と血液検査（胎児DNAを含む）の両方がスクリーニングに使用されると述べられています。羊水穿刺などの診断検査は、胎児の細胞や液体を分析します。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text defines the relationship clearly: 'Screening tests are generally noninvasive and can be followed by diagnostic tests if screening results suggest that a genetic disorder might be present.' This shows that screening indicates a potential risk, which then warrants a more definitive (and often invasive) diagnostic test.",
+      "zh": "文本清楚地定义了这种关系：“筛查测试通常是非侵入性的，如果筛查结果表明可能存在遗传性疾病，则可以进行诊断测试。” 这表明筛查提示了潜在风险，然后才需要进行更明确的（且通常是侵入性的）诊断测试。",
+      "es": "El texto define la relación claramente: 'Las pruebas de detección son generalmente no invasivas y pueden ir seguidas de pruebas de diagnóstico si los resultados de la detección sugieren que podría haber un trastorno genético'. Esto muestra que la detección indica un riesgo potencial, lo que justifica una prueba de diagnóstico más definitiva (y a menudo invasiva).",
+      "fr": "Le texte définit clairement la relation : « Les tests de dépistage sont généralement non invasifs et peuvent être suivis de tests de diagnostic si les résultats du dépistage suggèrent qu'un trouble génétique pourrait être présent. » Cela montre que le dépistage indique un risque potentiel, ce qui justifie alors un test de diagnostic plus définitif (et souvent invasif).",
+      "de": "Der Text definiert die Beziehung klar: „Screening-Tests sind im Allgemeinen nicht-invasiv und können von diagnostischen Tests gefolgt werden, wenn die Screening-Ergebnisse auf eine mögliche genetische Störung hindeuten.“ Dies zeigt, dass das Screening auf ein potenzielles Risiko hinweist, das dann einen endgültigeren (und oft invasiven) diagnostischen Test rechtfertigt.",
+      "ja": "本文では、関係が明確に定義されています。「スクリーニング検査は一般的に非侵襲的であり、スクリーニング結果が遺伝性疾患の可能性を示唆する場合、診断検査が続くことがあります。」これは、スクリーニングが潜在的なリスクを示し、その後、より確定的（そしてしばしば侵襲的）な診断検査が必要になることを示しています。"
+    }
+  }
+]

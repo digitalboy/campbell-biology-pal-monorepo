@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 446,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the most likely outcome if the repressor of an inducible operon is mutated such that it can no longer bind to the operator?",
+      "zh": "如果一个诱导型操纵子（operon）的阻遏物发生突变，使其无法再结合到操纵基因（operator）上，最可能的结果是什么？",
+      "es": "Si el represor de un operón inducible mutara de tal manera que ya no pudiera unirse al operador, ¿cuál sería el resultado más probable?",
+      "fr": "Quel est le résultat le plus probable si le répresseur d'un opéron inductible est muté de telle sorte qu'il ne peut plus se lier à l'opérateur ?",
+      "de": "Was wäre das wahrscheinlichste Ergebnis, wenn der Repressor eines induzierbaren Operons so mutiert wäre, dass er nicht mehr an den Operator binden kann?",
+      "ja": "誘導性オペロンのリプレッサーが、オペレーターに結合できなくなるように変異した場合、最も可能性の高い結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Irreversible binding of the repressor to the promoter.",
+          "zh": "阻遏物不可逆地结合到启动子（promoter）上。",
+          "es": "Unión irreversible del represor al promotor.",
+          "fr": "Liaison irréversible du répresseur au promoteur.",
+          "de": "Irreversible Bindung des Repressors an den Promotor.",
+          "ja": "リプレッサーがプロモーターに不可逆的に結合する。"
+        },
+        "feedback": {
+          "en": "The repressor normally binds to the operator, not the promoter. Also, the mutation described is a loss of binding, not an increase.",
+          "zh": "阻遏物通常结合到操纵基因上，而不是启动子上。此外，描述的突变是失去结合能力，而不是结合增强。",
+          "es": "El represor normalmente se une al operador, no al promotor. Además, la mutación descrita es una pérdida de unión, no un aumento.",
+          "fr": "Le répresseur se lie normalement à l'opérateur, et non au promoteur. De plus, la mutation décrite est une perte de liaison, et non une augmentation.",
+          "de": "Der Repressor bindet normalerweise an den Operator, nicht an den Promotor. Außerdem ist die beschriebene Mutation ein Verlust der Bindungsfähigkeit, nicht eine Zunahme.",
+          "ja": "リプレッサーは通常オペレーターに結合し、プロモーターには結合しません。また、記述された変異は結合の喪失であり、増加ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Reduced transcription of the operon's genes.",
+          "zh": "操纵子基因的转录减少。",
+          "es": "Reducción de la transcripción de los genes del operón.",
+          "fr": "Réduction de la transcription des gènes de l'opéron.",
+          "de": "Reduzierte Transkription der Operon-Gene.",
+          "ja": "オペロン遺伝子の転写が減少する。"
+        },
+        "feedback": {
+          "en": "In an inducible operon, the repressor normally prevents transcription. If it cannot bind, transcription would increase, not decrease.",
+          "zh": "在诱导型操纵子中，阻遏物通常会阻止转录。如果它不能结合，转录将会增加，而不是减少。",
+          "es": "En un operón inducible, el represor normalmente previene la transcripción. Si no puede unirse, la transcripción aumentaría, no disminuiría.",
+          "fr": "Dans un opéron inductible, le répresseur empêche normalement la transcription. S'il ne peut pas se lier, la transcription augmenterait, pas ne diminuerait pas.",
+          "de": "In einem induzierbaren Operon verhindert der Repressor normalerweise die Transkription. Wenn er nicht binden kann, würde die Transkription zunehmen, nicht abnehmen.",
+          "ja": "誘導性オペロンでは、リプレッサーは通常転写を阻害します。結合できない場合、転写は減るのではなく増加します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Buildup of a substrate for the pathway controlled by the operon.",
+          "zh": "由操纵子控制的途径的底物积累。",
+          "es": "Acumulación de un sustrato para la vía controlada por el operón.",
+          "fr": "Accumulation d'un substrat pour la voie contrôlée par l'opéron.",
+          "de": "Anreicherung eines Substrats für den durch das Operon kontrollierten Stoffwechselweg.",
+          "ja": "オペロンによって制御される経路の基質が蓄積する。"
+        },
+        "feedback": {
+          "en": "While altered enzyme production could lead to substrate buildup, this is a downstream consequence, not the direct molecular outcome of the repressor mutation.",
+          "zh": "虽然酶产生改变可能导致底物积累，但这是下游结果，而不是阻遏物突变的直接分子结果。",
+          "es": "Si bien la producción alterada de enzimas podría conducir a la acumulación de sustratos, esta es una consecuencia posterior, no el resultado molecular directo de la mutación del represor.",
+          "fr": "Bien qu'une production enzymatique altérée puisse entraîner une accumulation de substrat, il s'agit d'une conséquence en aval, et non du résultat moléculaire direct de la mutation du répresseur.",
+          "de": "Obwohl eine veränderte Enzymproduktion zu einer Substratansammlung führen könnte, ist dies eine nachgeschaltete Konsequenz und nicht das direkte molekulare Ergebnis der Repressormutation.",
+          "ja": "酵素生産の変化が基質の蓄積につながる可能性はありますが、これは下流の結果であり、リプレッサー変異の直接的な分子結果ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Continuous transcription of the operon's genes.",
+          "zh": "操纵子基因的持续转录。",
+          "es": "Transcripción continua de los genes del operón.",
+          "fr": "Transcription continue des gènes de l'opéron.",
+          "de": "Kontinuierliche Transkription der Operon-Gene.",
+          "ja": "オペロン遺伝子の転写が継続的に行われる。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "In an inducible operon, the repressor normally binds to the operator to prevent gene transcription. If this repressor is mutated and can no longer bind, the inhibition is removed, leading to continuous or constitutive transcription of the operon's genes, even in the absence of an inducer.",
+      "zh": "在诱导型操纵子中，阻遏物通常结合到操纵基因上以阻止基因转录。如果这个阻遏物发生突变，不能再结合，那么抑制作用就被解除了，导致操纵子基因持续或组成型转录，即使没有诱导物存在。",
+      "es": "En un operón inducible, el represor normalmente se une al operador para prevenir la transcripción génica. Si este represor muta y ya no puede unirse, la inhibición se elimina, lo que lleva a la transcripción continua o constitutiva de los genes del operón, incluso en ausencia de un inductor.",
+      "fr": "Dans un opéron inductible, le répresseur se lie normalement à l'opérateur pour empêcher la transcription des gènes. Si ce répresseur est muté et ne peut plus se lier, l'inhibition est levée, ce qui entraîne une transcription continue ou constitutive des gènes de l'opéron, même en l'absence d'un inducteur.",
+      "de": "In einem induzierbaren Operon bindet der Repressor normalerweise an den Operator, um die Gentranskription zu verhindern. Wenn dieser Repressor mutiert ist und nicht mehr binden kann, wird die Hemmung aufgehoben, was zu einer kontinuierlichen oder konstitutiven Transkription der Operon-Gene führt, selbst in Abwesenheit eines Induktors.",
+      "ja": "誘導性オペロンでは、リプレッサーは通常オペレーターに結合して遺伝子転写を阻害します。このリプレッサーが変異して結合できなくなると、阻害が解除され、誘導物質がない場合でもオペロン遺伝子の転写が継続的または構成的に行われます。"
+    }
+  },
+  {
+    "page_number": 446,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following statements about the DNA in one of your brain cells is true when compared to one of your liver cells?",
+      "zh": "与你的一个肝细胞相比，关于你的一个脑细胞中的DNA，以下哪项陈述是正确的？",
+      "es": "De las siguientes afirmaciones sobre el ADN en una de tus células cerebrales, ¿cuál es verdadera al compararla con una de tus células hepáticas?",
+      "fr": "Parmi les affirmations suivantes concernant l'ADN dans l'une de vos cellules cérébrales, laquelle est vraie par rapport à l'une de vos cellules hépatiques ?",
+      "de": "Welche der folgenden Aussagen über die DNA in einer Ihrer Gehirnzellen trifft im Vergleich zu einer Ihrer Leberzellen zu?",
+      "ja": "あなたの脳細胞のDNAに関する以下の記述のうち、肝細胞と比較した場合に正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Most of the DNA codes for protein.",
+          "zh": "大部分DNA编码蛋白质。",
+          "es": "La mayor parte del ADN codifica proteínas.",
+          "fr": "La majeure partie de l'ADN code des protéines.",
+          "de": "Der größte Teil der DNA kodiert für Proteine.",
+          "ja": "DNAのほとんどがタンパク質をコードする。"
+        },
+        "feedback": {
+          "en": "Only a small fraction (about 1-2%) of the human genome codes for proteins. The vast majority is non-coding DNA.",
+          "zh": "人类基因组中只有很小一部分（约1-2%）编码蛋白质。绝大部分是非编码DNA。",
+          "es": "Solo una pequeña fracción (alrededor del 1-2%) del genoma humano codifica proteínas. La gran mayoría es ADN no codificante.",
+          "fr": "Seule une petite fraction (environ 1-2%) du génome humain code des protéines. La grande majorité est de l'ADN non codant.",
+          "de": "Nur ein kleiner Teil (etwa 1-2%) des menschlichen Genoms kodiert für Proteine. Der größte Teil ist nicht-kodierende DNA.",
+          "ja": "ヒトゲノムのごく一部（約1～2%）のみがタンパク質をコードしています。大部分は非コードDNAです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The majority of genes are likely to be transcribed.",
+          "zh": "大多数基因很可能被转录。",
+          "es": "La mayoría de los genes probablemente se transcriben.",
+          "fr": "La majorité des gènes sont susceptibles d'être transcrits.",
+          "de": "Die Mehrheit der Gene wird wahrscheinlich transkribiert.",
+          "ja": "ほとんどの遺伝子が転写される可能性が高い。"
+        },
+        "feedback": {
+          "en": "While all cells contain the same genes, only a specific subset relevant to that cell type's function are actively transcribed at any given time.",
+          "zh": "虽然所有细胞都含有相同的基因，但在任何给定时间，只有与该细胞类型功能相关的特定子集会被活跃转录。",
+          "es": "Aunque todas las células contienen los mismos genes, solo un subconjunto específico relevante para la función de ese tipo de célula se transcribe activamente en un momento dado.",
+          "fr": "Bien que toutes les cellules contiennent les mêmes gènes, seule une partie spécifique pertinente à la fonction de ce type de cellule est activement transcrite à un moment donné.",
+          "de": "Obwohl alle Zellen dieselben Gene enthalten, wird zu einem bestimmten Zeitpunkt nur eine spezifische Untergruppe, die für die Funktion dieses Zelltyps relevant ist, aktiv transkribiert.",
+          "ja": "すべての細胞が同じ遺伝子を持っているものの、特定の時点では、その細胞型の機能に関連する特定のサブセットのみが活発に転写されます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is the same as the DNA in one of your liver cells.",
+          "zh": "它与你的一个肝细胞中的DNA是相同的。",
+          "es": "Es el mismo que el ADN en una de tus células hepáticas.",
+          "fr": "C'est le même que l'ADN dans l'une de vos cellules hépatiques.",
+          "de": "Sie ist dieselbe wie die DNA in einer Ihrer Leberzellen.",
+          "ja": "肝細胞のDNAと同じである。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Each gene lies immediately adjacent to an enhancer.",
+          "zh": "每个基因都紧邻一个增强子。",
+          "es": "Cada gen se encuentra inmediatamente adyacente a un potenciador.",
+          "fr": "Chaque gène est situé immédiatement à côté d'un amplificateur.",
+          "de": "Jedes Gen liegt unmittelbar neben einem Enhancer.",
+          "ja": "各遺伝子がエンハンサーのすぐ隣にある。"
+        },
+        "feedback": {
+          "en": "Enhancers can be located very far from the genes they regulate, sometimes tens or hundreds of thousands of base pairs away, or even within introns.",
+          "zh": "增强子可以位于其调控的基因很远的地方，有时相距数万甚至数十万个碱基对，甚至位于内含子内。",
+          "es": "Los potenciadores pueden estar ubicados muy lejos de los genes que regulan, a veces a decenas o cientos de miles de pares de bases de distancia, o incluso dentro de intrones.",
+          "fr": "Les amplificateurs peuvent être situés très loin des gènes qu'ils régulent, parfois à des dizaines ou des centaines de milliers de paires de bases de distance, ou même à l'intérieur d'introns.",
+          "de": "Enhancer können sehr weit entfernt von den Genen liegen, die sie regulieren, manchmal Zehntausende oder Hunderttausende von Basenpaaren entfernt oder sogar innerhalb von Introns.",
+          "ja": "エンハンサーは、調節する遺伝子から非常に離れた場所、時には数万から数十万塩基対離れた場所、あるいはイントロン内に位置することもあります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "All somatic cells within an individual typically contain the exact same DNA sequence. Differences in cell type and function arise from differential gene expression, meaning different sets of genes are turned on or off in different cells, not from differences in the DNA itself.",
+      "zh": "个体内的所有体细胞通常含有完全相同的DNA序列。细胞类型和功能的差异来源于差异基因表达，这意味着不同细胞中开启或关闭的基因集合不同，而不是DNA本身存在差异。",
+      "es": "Todas las células somáticas dentro de un individuo suelen contener la misma secuencia de ADN. Las diferencias en el tipo y la función celular surgen de la expresión génica diferencial, lo que significa que diferentes conjuntos de genes se activan o desactivan en diferentes células, no de diferencias en el ADN en sí.",
+      "fr": "Toutes les cellules somatiques d'un individu contiennent généralement la même séquence d'ADN. Les différences de type et de fonction cellulaires résultent d'une expression génique différentielle, ce qui signifie que différents ensembles de gènes sont activés ou désactivés dans différentes cellules, et non de différences dans l'ADN lui-même.",
+      "de": "Alle somatischen Zellen innerhalb eines Individuums enthalten typischerweise die exakt gleiche DNA-Sequenz. Unterschiede in Zelltyp und -funktion ergeben sich aus differentieller Genexpression, was bedeutet, dass in verschiedenen Zellen unterschiedliche Gensätze an- oder abgeschaltet werden, nicht aus Unterschieden in der DNA selbst.",
+      "ja": "個体内のすべての体細胞は、通常、まったく同じDNA配列を含んでいます。細胞の種類と機能の違いは、DNA自体が異なるのではなく、異なる細胞で異なる遺伝子セットがオンまたはオフになるという、差次的遺伝子発現から生じます。"
+    }
+  },
+  {
+    "page_number": 446,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Refer to the provided diagram showing five genes with their enhancer regions. If a cell contains active green, blue, and yellow activator proteins, which gene(s) would most likely be transcribed?",
+      "zh": "请参考所提供的显示五个基因及其增强子区域的图示。如果一个细胞含有活跃的绿色、蓝色和黄色激活蛋白，那么哪些基因最可能被转录？",
+      "es": "Consulte el diagrama proporcionado que muestra cinco genes con sus regiones potenciadoras. Si una célula contiene proteínas activadoras verdes, azules y amarillas activas, ¿qué gen(es) sería(n) más probable(s) que se transcribiera(n)?",
+      "fr": "Référez-vous au diagramme fourni montrant cinq gènes avec leurs régions amplificatrices. Si une cellule contient des protéines activatrices vertes, bleues et jaunes actives, quel(s) gène(s) serait (seraient) le(s) plus susceptible(s) d'être transcrit(s) ?",
+      "de": "Beziehen Sie sich auf das bereitgestellte Diagramm, das fünf Gene mit ihren Enhancer-Regionen zeigt. Wenn eine Zelle aktive grüne, blaue und gelbe Aktivatorproteine enthält, welche(s) Gen(e) würde(n) am wahrscheinlichsten transkribiert werden?",
+      "ja": "提示された5つの遺伝子とそのエンハンサー領域を示す図を参照してください。細胞が活性な緑色、青色、黄色の活性化タンパク質を含む場合、どの遺伝子が最も転写される可能性が高いですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Gene 1 only.",
+          "zh": "仅基因1。",
+          "es": "Solo el gen 1.",
+          "fr": "Seul le gène 1.",
+          "de": "Nur Gen 1.",
+          "ja": "遺伝子1のみ。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Gene 1 and Gene 2.",
+          "zh": "基因1和基因2。",
+          "es": "Gen 1 y Gen 2.",
+          "fr": "Gène 1 et Gène 2.",
+          "de": "Gen 1 und Gen 2.",
+          "ja": "遺伝子1と遺伝子2。"
+        },
+        "feedback": {
+          "en": "Gene 2 requires the purple activator protein, which is not stated to be present.",
+          "zh": "基因2需要紫色激活蛋白，而图中并未说明其存在。",
+          "es": "El gen 2 requiere la proteína activadora púrpura, que no se menciona que esté presente.",
+          "fr": "Le gène 2 nécessite la protéine activatrice violette, qui n'est pas indiquée comme étant présente.",
+          "de": "Gen 2 benötigt das lila Aktivatorprotein, welches nicht als vorhanden angegeben ist.",
+          "ja": "遺伝子2は紫色の活性化タンパク質を必要としますが、これは存在すると述べられていません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Gene 1, Gene 3, and Gene 4.",
+          "zh": "基因1、基因3和基因4。",
+          "es": "Gen 1, Gen 3 y Gen 4.",
+          "fr": "Gène 1, Gène 3 et Gène 4.",
+          "de": "Gen 1, Gen 3 und Gen 4.",
+          "ja": "遺伝子1、遺伝子3、遺伝子4。"
+        },
+        "feedback": {
+          "en": "Gene 3 requires black and red activators, and Gene 4 requires an orange activator, none of which are stated to be present.",
+          "zh": "基因3需要黑色和红色激活蛋白，基因4需要橙色激活蛋白，这些蛋白都未被提及存在。",
+          "es": "El gen 3 requiere activadores negros y rojos, y el gen 4 requiere un activador naranja, ninguno de los cuales se menciona que estén presentes.",
+          "fr": "Le gène 3 nécessite des activateurs noirs et rouges, et le gène 4 nécessite un activateur orange, dont aucun n'est indiqué comme étant présent.",
+          "de": "Gen 3 benötigt schwarze und rote Aktivatoren, und Gen 4 benötigt einen orangefarbenen Aktivator, von denen keiner als vorhanden angegeben ist.",
+          "ja": "遺伝子3は黒と赤の活性化タンパク質を必要とし、遺伝子4はオレンジ色の活性化タンパク質を必要としますが、いずれも存在すると述べられていません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All five genes.",
+          "zh": "所有五个基因。",
+          "es": "Los cinco genes.",
+          "fr": "Les cinq gènes.",
+          "de": "Alle fünf Gene.",
+          "ja": "すべての5つの遺伝子。"
+        },
+        "feedback": {
+          "en": "Many genes require specific activator combinations that are not entirely present (e.g., Gene 2 needs purple, Gene 3 needs black/red, Gene 4 needs orange, Gene 5 needs purple/black).",
+          "zh": "许多基因需要特定的激活蛋白组合，而这些组合并非全部存在（例如，基因2需要紫色，基因3需要黑色/红色，基因4需要橙色，基因5需要紫色/黑色）。",
+          "es": "Muchos genes requieren combinaciones específicas de activadores que no están completamente presentes (por ejemplo, el gen 2 necesita púrpura, el gen 3 necesita negro/rojo, el gen 4 necesita naranja, el gen 5 necesita púrpura/negro).",
+          "fr": "De nombreux gènes nécessitent des combinaisons d'activateurs spécifiques qui ne sont pas entièrement présentes (par exemple, le gène 2 a besoin de violet, le gène 3 de noir/rouge, le gène 4 d'orange, le gène 5 de violet/noir).",
+          "de": "Viele Gene benötigen spezifische Aktivator-Kombinationen, die nicht vollständig vorhanden sind (z.B. Gen 2 benötigt lila, Gen 3 benötigt schwarz/rot, Gen 4 benötigt orange, Gen 5 benötigt lila/schwarz).",
+          "ja": "多くの遺伝子には特定の活性化タンパク質の組み合わせが必要ですが、それらがすべて存在するわけではありません（例：遺伝子2は紫色、遺伝子3は黒/赤色、遺伝子4はオレンジ色、遺伝子5は紫/黒色を必要とします）。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "By examining the diagram and the stated activators (green, blue, yellow): Gene 1 has enhancer elements for yellow, green, and blue activators. Since all three are present, Gene 1 would be transcribed. Gene 2 needs purple; Gene 3 needs black and red; Gene 4 needs orange; Gene 5 needs purple and black. None of these additional activators are specified as present.",
+      "zh": "通过检查图示和指明的激活蛋白（绿色、蓝色、黄色）：基因1的增强子区域有黄色、绿色和蓝色激活蛋白的结合位点。由于这三种激活蛋白都存在，基因1将被转录。基因2需要紫色；基因3需要黑色和红色；基因4需要橙色；基因5需要紫色和黑色。这些额外的激活蛋白都没有被明确说明存在。",
+      "es": "Al examinar el diagrama y los activadores indicados (verde, azul, amarillo): el gen 1 tiene elementos potenciadores para los activadores amarillo, verde y azul. Dado que los tres están presentes, el gen 1 se transcribiría. El gen 2 necesita púrpura; el gen 3 necesita negro y rojo; el gen 4 necesita naranja; el gen 5 necesita púrpura y negro. Ninguno de estos activadores adicionales se especifica como presente.",
+      "fr": "En examinant le diagramme et les activateurs indiqués (vert, bleu, jaune) : le gène 1 possède des éléments amplificateurs pour les activateurs jaune, vert et bleu. Étant donné que les trois sont présents, le gène 1 serait transcrit. Le gène 2 a besoin de violet ; le gène 3 a besoin de noir et de rouge ; le gène 4 a besoin d'orange ; le gène 5 a besoin de violet et de noir. Aucun de ces activateurs supplémentaires n'est spécifié comme étant présent.",
+      "de": "Durch die Untersuchung des Diagramms und der angegebenen Aktivatoren (grün, blau, gelb): Gen 1 besitzt Enhancer-Elemente für gelbe, grüne und blaue Aktivatoren. Da alle drei vorhanden sind, würde Gen 1 transkribiert. Gen 2 benötigt lila; Gen 3 benötigt schwarz und rot; Gen 4 benötigt orange; Gen 5 benötigt lila und schwarz. Keiner dieser zusätzlichen Aktivatoren ist als vorhanden angegeben.",
+      "ja": "図と指定された活性化タンパク質（緑、青、黄）を調べると、遺伝子1には黄色、緑色、青色の活性化タンパク質に対するエンハンサー要素があります。これら3つすべてが存在するため、遺伝子1は転写されるでしょう。遺伝子2は紫色を必要とし、遺伝子3は黒色と赤色を必要とし、遺伝子4はオレンジ色を必要とし、遺伝子5は紫色と黒色を必要としますが、これらの追加の活性化タンパク質はいずれも存在すると指定されていません。"
+    }
+  },
+  {
+    "page_number": 446,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The flashlight fish hosts *Vibrio* bacteria that emit light through the activity of *lux* genes. This light emission only occurs when the bacteria reach a certain density (quorum). Based on this information and general principles of gene regulation, which of the following hypotheses best explains how *lux* gene expression is regulated in response to bacterial density?",
+      "zh": "手电筒鱼体内寄生着弧菌（*Vibrio*）细菌，这些细菌通过 *lux* 基因的活动发出光。这种发光现象只有当细菌达到一定密度（群体感应）时才会发生。基于这些信息和基因调控的一般原理，以下哪项假设最能解释 *lux* 基因表达如何响应细菌密度进行调控？",
+      "es": "El pez linterna alberga bacterias *Vibrio* que emiten luz a través de la actividad de los genes *lux*. Esta emisión de luz solo ocurre cuando las bacterias alcanzan una cierta densidad (quorum). Basándose en esta información y en los principios generales de la regulación génica, ¿cuál de las siguientes hipótesis explica mejor cómo se regula la expresión del gen *lux* en respuesta a la densidad bacteriana?",
+      "fr": "Le poisson-lanterne héberge des bactéries *Vibrio* qui émettent de la lumière grâce à l'activité des gènes *lux*. Cette émission lumineuse ne se produit que lorsque les bactéries atteignent une certaine densité (quorum). Basé sur ces informations et les principes généraux de la régulation génique, laquelle des hypothèses suivantes explique le mieux comment l'expression du gène *lux* est régulée en réponse à la densité bactérienne ?",
+      "de": "Der Leuchtfisch beherbergt *Vibrio*-Bakterien, die durch die Aktivität von *lux*-Genen Licht emittieren. Diese Lichtemission tritt nur auf, wenn die Bakterien eine bestimmte Dichte (Quorum) erreichen. Basierend auf diesen Informationen und den allgemeinen Prinzipien der Genregulation, welche der folgenden Hypothesen erklärt am besten, wie die *lux*-Genexpression als Reaktion auf die Bakteriendichte reguliert wird?",
+      "ja": "提灯アンコウは、*lux*遺伝子の活動を通じて発光する*ビブリオ*細菌を宿しています。この発光は、細菌が一定の密度（クオラム）に達したときにのみ起こります。この情報と遺伝子制御の一般原則に基づいて、以下の仮説のうち、細菌密度に応じて*lux*遺伝子発現がどのように制御されるかを最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "High bacterial density leads to increased degradation of *lux* gene mRNA.",
+          "zh": "高细菌密度导致 *lux* 基因mRNA降解增加。",
+          "es": "La alta densidad bacteriana conduce a una mayor degradación del ARNm del gen *lux*.",
+          "fr": "Une densité bactérienne élevée entraîne une dégradation accrue de l'ARNm du gène *lux*.",
+          "de": "Hohe Bakteriendichte führt zu einem erhöhten Abbau der *lux*-Gen-mRNA.",
+          "ja": "高い細菌密度は、*lux*遺伝子mRNAの分解増加につながる。"
+        },
+        "feedback": {
+          "en": "Increased mRNA degradation would reduce light production, which contradicts the observation that light is emitted when density is high.",
+          "zh": "mRNA降解增加会减少发光，这与观察到的高密度时发光现象相矛盾。",
+          "es": "Un aumento de la degradación del ARNm reduciría la producción de luz, lo que contradice la observación de que la luz se emite cuando la densidad es alta.",
+          "fr": "Une dégradation accrue de l'ARNm réduirait la production de lumière, ce qui contredit l'observation selon laquelle la lumière est émise lorsque la densité est élevée.",
+          "de": "Ein erhöhter mRNA-Abbau würde die Lichtproduktion reduzieren, was der Beobachtung widerspricht, dass Licht bei hoher Dichte emittiert wird.",
+          "ja": "mRNA分解が増加すると発光が減少するため、高密度時に発光するという観察結果と矛盾します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Bacteria at high density secrete an autoinducer molecule that activates *lux* gene transcription.",
+          "zh": "高密度下的细菌分泌一种自分泌诱导物分子，该分子激活 *lux* 基因的转录。",
+          "es": "Las bacterias a alta densidad secretan una molécula autoinductora que activa la transcripción del gen *lux*.",
+          "fr": "Les bactéries à haute densité sécrètent une molécule autoinductrice qui active la transcription du gène *lux*.",
+          "de": "Bakterien mit hoher Dichte scheiden ein Autoinduktor-Molekül aus, das die Transkription des *lux*-Gens aktiviert.",
+          "ja": "高密度の細菌は、*lux*遺伝子の転写を活性化する自己誘導分子を分泌する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Low bacterial density triggers a repressor protein to bind to the *lux* operon, preventing light production.",
+          "zh": "低细菌密度触发阻遏蛋白结合到 *lux* 操纵子，阻止发光。",
+          "es": "La baja densidad bacteriana desencadena que una proteína represora se una al operón *lux*, impidiendo la producción de luz.",
+          "fr": "Une faible densité bactérienne déclenche la liaison d'une protéine répresseur à l'opéron *lux*, empêchant la production de lumière.",
+          "de": "Niedrige Bakteriendichte löst die Bindung eines Repressorproteins an das *lux*-Operon aus, wodurch die Lichtproduktion verhindert wird.",
+          "ja": "低い細菌密度は、リプレッサータンパク質が*lux*オペロンに結合することを引き起こし、発光を妨げる。"
+        },
+        "feedback": {
+          "en": "While a repressor could be involved, the core concept of quorum sensing relies on the *accumulation* of an activator (autoinducer) at high density, rather than the *activation* of a repressor at low density to explain the 'all at once' emission.",
+          "zh": "虽然可能涉及阻遏蛋白，但群体感应的核心概念在于高密度时激活物（自分泌诱导物）的积累，而不是低密度时阻遏蛋白的激活来解释“同时”发光现象。",
+          "es": "Aunque un represor podría estar involucrado, el concepto central de la detección de quorum se basa en la *acumulación* de un activador (autoinductor) a alta densidad, en lugar de la *activación* de un represor a baja densidad para explicar la emisión 'todo a la vez'.",
+          "fr": "Bien qu'un répresseur puisse être impliqué, le concept central du quorum sensing repose sur l'*accumulation* d'un activateur (autoinducteur) à haute densité, plutôt que sur l'*activation* d'un répresseur à basse densité pour expliquer l'émission 'tout en même temps'.",
+          "de": "Obwohl ein Repressor beteiligt sein könnte, beruht das Kernkonzept des Quorum Sensing auf der *Akkumulation* eines Aktivators (Autoinduktors) bei hoher Dichte, anstatt auf der *Aktivierung* eines Repressors bei niedriger Dichte, um die 'alles auf einmal'-Emission zu erklären.",
+          "ja": "リプレッサーが関与する可能性はありますが、クオラムセンシングの核心概念は、低密度でリプレッサーが活性化されることではなく、高密度で活性化因子（自己誘導物質）が蓄積することによって「一斉」発光が説明されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The fish's immune system activates *lux* gene expression when bacterial numbers are sufficient.",
+          "zh": "当细菌数量充足时，鱼的免疫系统会激活 *lux* 基因表达。",
+          "es": "El sistema inmunológico del pez activa la expresión del gen *lux* cuando el número de bacterias es suficiente.",
+          "fr": "Le système immunitaire du poisson active l'expression du gène *lux* lorsque le nombre de bactéries est suffisant.",
+          "de": "Das Immunsystem des Fisches aktiviert die *lux*-Genexpression, wenn die Bakterienzahl ausreichend ist.",
+          "ja": "細菌の数が十分になると、魚の免疫システムが*lux*遺伝子の発現を活性化する。"
+        },
+        "feedback": {
+          "en": "The passage states that the bacteria must multiply until they reach a certain density and then they all begin emitting light, implying bacterial self-regulation, not host immune system control.",
+          "zh": "文章指出，细菌必须繁殖到一定密度后才会开始发光，这暗示了细菌的自我调控，而不是宿主免疫系统的控制。",
+          "es": "El pasaje indica que las bacterias deben multiplicarse hasta alcanzar una cierta densidad y luego todas comienzan a emitir luz, lo que implica una autorregulación bacteriana, no un control del sistema inmunológico del huésped.",
+          "fr": "Le passage indique que les bactéries doivent se multiplier jusqu'à atteindre une certaine densité, puis elles commencent toutes à émettre de la lumière, ce qui implique une autorégulation bactérienne, et non un contrôle du système immunitaire de l'hôte.",
+          "de": "Der Text besagt, dass sich die Bakterien vermehren müssen, bis sie eine bestimmte Dichte erreichen, und dann beginnen sie alle, Licht zu emittieren, was auf eine bakterielle Selbstregulation hinweist und nicht auf die Kontrolle durch das Immunsystem des Wirts.",
+          "ja": "本文には、細菌が一定の密度に達するまで増殖し、その後一斉に発光し始めると記載されており、これは宿主免疫系による制御ではなく、細菌自身の自己調節を示唆しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "This scenario perfectly describes quorum sensing, a mechanism where bacteria communicate using secreted signaling molecules (autoinducers). When bacterial density is low, the autoinducer concentration is low, and *lux* genes are not expressed. As density increases, the autoinducer accumulates. Once it reaches a threshold concentration, it binds to a receptor, typically an activator protein, which then promotes the transcription of *lux* genes, leading to a synchronized light emission.",
+      "zh": "这个情景完美地描述了群体感应，这是一种细菌利用分泌的信号分子（自分泌诱导物）进行交流的机制。当细菌密度较低时，自分泌诱导物浓度较低，*lux*基因不表达。随着密度的增加，自分泌诱导物积累。一旦达到阈值浓度，它就会结合到受体（通常是激活蛋白），进而促进 *lux* 基因的转录，导致同步发光。",
+      "es": "Este escenario describe perfectamente la detección de quorum, un mecanismo por el cual las bacterias se comunican utilizando moléculas de señalización secretadas (autoinductores). Cuando la densidad bacteriana es baja, la concentración de autoinductores es baja y los genes *lux* no se expresan. A medida que la densidad aumenta, el autoinductor se acumula. Una vez que alcanza una concentración umbral, se une a un receptor, típicamente una proteína activadora, lo que luego promueve la transcripción de los genes *lux*, lo que lleva a una emisión de luz sincronizada.",
+      "fr": "Ce scénario décrit parfaitement le quorum sensing, un mécanisme par lequel les bactéries communiquent en utilisant des molécules de signalisation sécrétées (autoinducteurs). Lorsque la densité bactérienne est faible, la concentration d'autoinducteur est faible et les gènes *lux* ne sont pas exprimés. À mesure que la densité augmente, l'autoinducteur s'accumule. Une fois qu'il atteint une concentration seuil, il se lie à un récepteur, typiquement une protéine activatrice, ce qui favorise la transcription des gènes *lux*, conduisant à une émission lumineuse synchronisée.",
+      "de": "Dieses Szenario beschreibt perfekt das Quorum Sensing, einen Mechanismus, bei dem Bakterien mittels ausgeschiedener Signalmoleküle (Autoinduktoren) kommunizieren. Bei niedriger Bakteriendichte ist die Autoinduktor-Konzentration niedrig, und die *lux*-Gene werden nicht exprimiert. Mit zunehmender Dichte akkumuliert der Autoinduktor. Sobald er eine Schwellenkonzentration erreicht, bindet er an einen Rezeptor, typischerweise ein Aktivatorprotein, was dann die Transkription der *lux*-Gene fördert und zu einer synchronisierten Lichtemission führt.",
+      "ja": "このシナリオは、細菌が分泌されたシグナル分子（自己誘導物質）を使用してコミュニケーションをとるメカニズムであるクオラムセンシングを完璧に説明しています。細菌密度が低い場合、自己誘導物質の濃度は低く、*lux*遺伝子は発現しません。密度が増加するにつれて、自己誘導物質が蓄積します。それがしきい値濃度に達すると、レセプター、通常は活性化タンパク質に結合し、それが*lux*遺伝子の転写を促進し、同期した発光につながります。"
+    }
+  }
+]

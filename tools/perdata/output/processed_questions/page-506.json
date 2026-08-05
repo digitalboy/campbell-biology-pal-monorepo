@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 506,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 21.15(c), what do the yellow highlights and dashes in the amino acid sequence alignment of lysozyme and α-lactalbumin represent?",
+      "zh": "根据图 21.15(c)，溶菌酶和 α-乳清白蛋白氨基酸序列比对中，黄色高亮和破折号分别代表什么？",
+      "es": "Según la Figura 21.15(c), ¿qué representan los resaltados amarillos y los guiones en la alineación de la secuencia de aminoácidos de la lisozima y la α-lactoalbúmina?",
+      "fr": "Selon la Figure 21.15(c), que représentent les surlignements jaunes et les tirets dans l'alignement des séquences d'acides aminés du lysozyme et de l'α-lactalbumine ?",
+      "de": "Was stellen die gelben Hervorhebungen und Striche in der Aminosäuresequenz-Ausrichtung von Lysozym und α-Lactalbumin gemäß Abbildung 21.15(c) dar?",
+      "ja": "図21.15(c)に基づくと、リゾチームとα-ラクトアルブミンのアミノ酸配列アライメントにおける黄色のハイライトとダッシュは何を表していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Yellow highlights indicate identical amino acids, and dashes represent gaps introduced for optimal alignment.",
+          "zh": "黄色高亮表示相同的氨基酸，破折号表示为优化比对而引入的间隙。",
+          "es": "Los resaltados amarillos indican aminoácidos idénticos, y los guiones representan huecos introducidos para una alineación óptima.",
+          "fr": "Les surlignements jaunes indiquent des acides aminés identiques, et les tirets représentent des lacunes introduites pour un alignement optimal.",
+          "de": "Gelbe Hervorhebungen kennzeichnen identische Aminosäuren, und Striche stellen Lücken dar, die für eine optimale Ausrichtung eingefügt wurden.",
+          "ja": "黄色のハイライトは同一のアミノ酸を示し、ダッシュは最適なアライメントのために導入されたギャップを表します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Yellow highlights indicate structurally similar amino acids, and dashes represent deletions.",
+          "zh": "黄色高亮表示结构相似的氨基酸，破折号表示缺失。",
+          "es": "Los resaltados amarillos indican aminoácidos estructuralmente similares, y los guiones representan deleciones.",
+          "fr": "Les surlignements jaunes indiquent des acides aminés structurellement similaires, et les tirets représentent des délétions.",
+          "de": "Gelbe Hervorhebungen kennzeichnen strukturell ähnliche Aminosäuren, und Striche stellen Deletionen dar.",
+          "ja": "黄色のハイライトは構造的に類似したアミノ酸を示し、ダッシュは欠失を表します。"
+        },
+        "feedback": {
+          "en": "Yellow highlights specifically mark identical amino acids, not just structurally similar ones. Dashes are gaps for alignment, not necessarily deletions.",
+          "zh": "黄色高亮专门标记相同的氨基酸，而不仅仅是结构相似的氨基酸。破折号是比对中的间隙，不一定是缺失。",
+          "es": "Los resaltados amarillos marcan específicamente aminoácidos idénticos, no solo estructuralmente similares. Los guiones son huecos para la alineación, no necesariamente deleciones.",
+          "fr": "Les surlignements jaunes marquent spécifiquement les acides aminés identiques, pas seulement les structurellement similaires. Les tirets sont des lacunes pour l'alignement, pas nécessairement des délétions.",
+          "de": "Gelbe Hervorhebungen kennzeichnen spezifisch identische Aminosäuren, nicht nur strukturell ähnliche. Striche sind Lücken zur Ausrichtung, nicht notwendigerweise Deletionen.",
+          "ja": "黄色のハイライトは、構造的に類似しているだけでなく、同一のアミノ酸を具体的に示しています。ダッシュはアライメントのためのギャップであり、必ずしも欠失ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Yellow highlights indicate variable regions, and dashes represent insertions.",
+          "zh": "黄色高亮表示可变区域，破折号表示插入。",
+          "es": "Los resaltados amarillos indican regiones variables, y los guiones representan inserciones.",
+          "fr": "Les surlignements jaunes indiquent des régions variables, et les tirets représentent des insertions.",
+          "de": "Gelbe Hervorhebungen kennzeichnen variable Regionen, und Striche stellen Insertionen dar.",
+          "ja": "黄色のハイライトは可変領域を示し、ダッシュは挿入を表します。"
+        },
+        "feedback": {
+          "en": "Yellow highlights mark identical amino acids, implying conservation, not variability. Dashes are gaps, which can result from insertions or deletions in evolutionary history, but in alignment, they are just 'gaps'.",
+          "zh": "黄色高亮标记相同的氨基酸，暗示保守性，而非可变性。破折号是间隙，在进化史上可能由插入或缺失引起，但在比对中它们仅是“间隙”。",
+          "es": "Los resaltados amarillos marcan aminoácidos idénticos, lo que implica conservación, no variabilidad. Los guiones son huecos, que pueden resultar de inserciones o deleciones en la historia evolutiva, pero en la alineación, son solo 'huecos'.",
+          "fr": "Les surlignements jaunes marquent des acides aminés identiques, impliquant une conservation, pas une variabilité. Les tirets sont des lacunes, qui peuvent résulter d'insertions ou de délétions dans l'histoire évolutive, mais dans l'alignement, ce sont juste des 'lacunes'.",
+          "de": "Gelbe Hervorhebungen kennzeichnen identische Aminosäuren, was Konservierung impliziert, nicht Variabilität. Striche sind Lücken, die in der Evolutionsgeschichte aus Insertionen oder Deletionen resultieren können, aber in der Ausrichtung sind sie nur 'Lücken'.",
+          "ja": "黄色のハイライトは同一のアミノ酸を示し、変動性ではなく保存性を意味します。ダッシュはギャップであり、進化の歴史において挿入または欠失に起因する可能性がありますが、アライメントにおいては単なる「ギャップ」です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Yellow highlights indicate conserved active sites, and dashes represent sequence errors.",
+          "zh": "黄色高亮表示保守的活性位点，破折号表示序列错误。",
+          "es": "Los resaltados amarillos indican sitios activos conservados, y los guiones representan errores de secuencia.",
+          "fr": "Les surlignements jaunes indiquent des sites actifs conservés, et les tirets représentent des erreurs de séquence.",
+          "de": "Gelbe Hervorhebungen kennzeichnen konservierte aktive Zentren, und Striche stellen Sequenzfehler dar.",
+          "ja": "黄色のハイライトは保存された活性部位を示し、ダッシュは配列エラーを表します。"
+        },
+        "feedback": {
+          "en": "While identical amino acids might be in active sites, the caption states they are simply \"identical amino acids.\" Dashes are alignment gaps, not errors.",
+          "zh": "虽然相同的氨基酸可能位于活性位点，但图注说明它们只是“相同的氨基酸”。破折号是比对间隙，而不是错误。",
+          "es": "Aunque los aminoácidos idénticos podrían estar en sitios activos, la leyenda indica que son simplemente \"aminoácidos idénticos\". Los guiones son huecos de alineación, no errores.",
+          "fr": "Bien que des acides aminés identiques puissent se trouver dans des sites actifs, la légende indique qu'il s'agit simplement d'« acides aminés identiques ». Les tirets sont des lacunes d'alignement, pas des erreurs.",
+          "de": "Obwohl identische Aminosäuren in aktiven Zentren liegen könnten, besagt die Bildunterschrift, dass es sich einfach um „identische Aminosäuren“ handelt. Striche sind Ausrichtungslücken, keine Fehler.",
+          "ja": "同一のアミノ酸が活性部位に存在する可能性もありますが、キャプションには単に「同一のアミノ酸」であると記されています。ダッシュはアライメントギャップであり、エラーではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The caption for Figure 21.15 explicitly states: \"Identical amino acids are highlighted in yellow, and dashes indicate gaps in one sequence that have been introduced by the software to optimize the alignment.\"",
+      "zh": "图21.15的图注明确指出：“相同的氨基酸用黄色高亮显示，破折号表示为优化比对而由软件引入的序列间隙。”",
+      "es": "El pie de la Figura 21.15 establece explícitamente: \"Los aminoácidos idénticos se resaltan en amarillo, y los guiones indican huecos en una secuencia que han sido introducidos por el software para optimizar la alineación.\"",
+      "fr": "La légende de la Figure 21.15 indique explicitement : « Les acides aminés identiques sont mis en évidence en jaune, et les tirets indiquent des lacunes dans une séquence qui ont été introduites par le logiciel pour optimiser l'alignement. »",
+      "de": "Die Bildunterschrift zu Abbildung 21.15 besagt explizit: „Identische Aminosäuren sind gelb hervorgehoben, und Striche kennzeichnen Lücken in einer Sequenz, die von der Software zur Optimierung der Ausrichtung eingefügt wurden.“",
+      "ja": "図21.15のキャプションには、「同一のアミノ酸は黄色でハイライトされ、ダッシュはアライメントを最適化するためにソフトウェアによって導入された配列中のギャップを示します」と明確に記載されています。"
+    }
+  },
+  {
+    "page_number": 506,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "According to Figure 21.16 and the accompanying text, which of the following statements accurately describes the evolution of the TPA gene through exon shuffling?",
+      "zh": "根据图 21.16 及相关文本，以下哪项陈述准确描述了通过外显子重排发生的 TPA 基因进化？",
+      "es": "Según la Figura 21.16 y el texto adjunto, ¿cuál de las siguientes afirmaciones describe con precisión la evolución del gen TPA a través del barajado de exones?",
+      "fr": "Selon la Figure 21.16 et le texte d'accompagnement, laquelle des affirmations suivantes décrit précisément l'évolution du gène TPA par brassage d'exons ?",
+      "de": "Gemäß Abbildung 21.16 und dem begleitenden Text, welche der folgenden Aussagen beschreibt die Evolution des TPA-Gens durch Exon-Shuffling genau?",
+      "ja": "図21.16と付随するテキストに基づくと、以下の記述のうち、エクソンシャッフリングによるTPA遺伝子の進化を正確に記述しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The TPA gene acquired exons from epidermal growth factor, fibronectin, and plasminogen genes through exon shuffling, followed by duplication of the \"kringle\" exon.",
+          "zh": "TPA 基因通过外显子重排从表皮生长因子、纤连蛋白和纤溶酶原基因获得外显子，随后“kringle”外显子发生复制。",
+          "es": "El gen TPA adquirió exones de los genes del factor de crecimiento epidérmico, la fibronectina y el plasminógeno mediante el barajado de exones, seguido de la duplicación del exón \"kringle\".",
+          "fr": "Le gène TPA a acquis des exons des gènes du facteur de croissance épidermique, de la fibronectine et du plasminogène par brassage d'exons, suivi de la duplication de l'exon \"kringle\".",
+          "de": "Das TPA-Gen erwarb Exons von den Genen des epidermalen Wachstumsfaktors, Fibronektins und Plasminogens durch Exon-Shuffling, gefolgt von der Duplikation des „Kringle“-Exons.",
+          "ja": "TPA遺伝子は、エクソンシャッフリングを通じて上皮成長因子、フィブロネクチン、プラスミノーゲン遺伝子からエクソンを獲得し、その後「クリングル」エクソンが複製されました。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Exon shuffling primarily involves random insertions of new DNA sequences into existing genes, leading to novel functions.",
+          "zh": "外显子重排主要涉及将新的 DNA 序列随机插入现有基因中，从而产生新功能。",
+          "es": "El barajado de exones implica principalmente la inserción aleatoria de nuevas secuencias de ADN en genes existentes, lo que lleva a nuevas funciones.",
+          "fr": "Le brassage d'exons implique principalement des insertions aléatoires de nouvelles séquences d'ADN dans des gènes existants, conduisant à de nouvelles fonctions.",
+          "de": "Exon-Shuffling beinhaltet hauptsächlich zufällige Insertionen neuer DNA-Sequenzen in bestehende Gene, was zu neuartigen Funktionen führt.",
+          "ja": "エクソンシャッフリングは主に、新しいDNA配列を既存の遺伝子にランダムに挿入することで、新しい機能を生み出します。"
+        },
+        "feedback": {
+          "en": "Exon shuffling involves existing exons, not random new DNA sequences, and is due to meiotic recombination errors, not just random insertion.",
+          "zh": "外显子重排涉及现有外显子，而非随机的新 DNA 序列，并且是由于减数分裂重组错误引起的，而不仅仅是随机插入。",
+          "es": "El barajado de exones implica exones existentes, no secuencias de ADN nuevas aleatorias, y se debe a errores de recombinación meiótica, no solo a inserciones aleatorias.",
+          "fr": "Le brassage d'exons implique des exons existants, et non de nouvelles séquences d'ADN aléatoires, et est dû à des erreurs de recombinaison méiotique, et non simplement à une insertion aléatoire.",
+          "de": "Exon-Shuffling betrifft bestehende Exons, nicht zufällige neue DNA-Sequenzen, und ist auf Fehler in der meiotischen Rekombination zurückzuführen, nicht nur auf zufällige Insertionen.",
+          "ja": "エクソンシャッフリングは既存のエクソンが関与し、ランダムな新しいDNA配列ではありません。また、減数分裂組換えのエラーによるものであり、単なるランダムな挿入によるものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The \"kringle\" exon in the TPA gene originated solely from the epidermal growth factor gene, and its duplication occurred before exon shuffling.",
+          "zh": "TPA 基因中的“kringle”外显子仅来源于表皮生长因子基因，并且其复制发生在外显子重排之前。",
+          "es": "El exón \"kringle\" en el gen TPA se originó únicamente del gen del factor de crecimiento epidérmico, y su duplicación ocurrió antes del barajado de exones.",
+          "fr": "L'exon \"kringle\" du gène TPA provenait uniquement du gène du facteur de croissance épidermique, et sa duplication s'est produite avant le brassage d'exons.",
+          "de": "Das „Kringle“-Exon im TPA-Gen stammte ausschließlich vom Gen des epidermalen Wachstumsfaktors, und seine Duplikation erfolgte vor dem Exon-Shuffling.",
+          "ja": "TPA遺伝子内の「クリングル」エクソンは、上皮成長因子遺伝子のみに由来し、その複製はエクソンシャッフリングの前に起こりました。"
+        },
+        "feedback": {
+          "en": "The \"kringle\" exon originated from the plasminogen gene, and its duplication happened after its movement into the TPA gene via shuffling.",
+          "zh": "“kringle”外显子来源于纤溶酶原基因，其复制发生在外显子通过重排进入 TPA 基因之后。",
+          "es": "El exón \"kringle\" se originó del gen del plasminógeno, y su duplicación ocurrió después de su movimiento al gen TPA a través del barajado.",
+          "fr": "L'exon \"kringle\" provient du gène du plasminogène, et sa duplication s'est produite après son déplacement dans le gène TPA par brassage.",
+          "de": "Das „Kringle“-Exon stammt aus dem Plasminogen-Gen, und seine Duplikation erfolgte nach seiner Verschiebung in das TPA-Gen durch Shuffling.",
+          "ja": "「クリングル」エクソンはプラスミノーゲン遺伝子に由来し、その複製はシャッフリングを介してTPA遺伝子に移動した後に行われました。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Exon shuffling is a process that only occurs within a single gene, leading to rearrangements of its existing exons.",
+          "zh": "外显子重排是一种仅在单个基因内发生的现象，导致其现有外显子的重新排列。",
+          "es": "El barajado de exones es un proceso que solo ocurre dentro de un solo gen, lo que lleva a la reorganización de sus exones existentes.",
+          "fr": "Le brassage d'exons est un processus qui ne se produit qu'au sein d'un seul gène, entraînant des réarrangements de ses exons existants.",
+          "de": "Exon-Shuffling ist ein Prozess, der nur innerhalb eines einzelnen Gens stattfindet und zu Umordnungen seiner bestehenden Exons führt.",
+          "ja": "エクソンシャッフリングは、単一の遺伝子内でのみ発生するプロセスであり、既存のエクソンの再配置を引き起こします。"
+        },
+        "feedback": {
+          "en": "The text explicitly states \"either within a gene or between two different (nonallelic) genes.\"",
+          "zh": "文本明确指出“要么在一个基因内部，要么在两个不同的（非等位）基因之间”。",
+          "es": "El texto establece explícitamente \"ya sea dentro de un gen o entre dos genes diferentes (no alélicos).\"",
+          "fr": "Le texte indique explicitement « soit au sein d'un gène, soit entre deux gènes différents (non alléliques) ».",
+          "de": "Der Text besagt explizit „entweder innerhalb eines Gens oder zwischen zwei verschiedenen (nicht-allelischen) Genen“.",
+          "ja": "テキストには「単一の遺伝子内、または2つの異なる（非対立遺伝子性）遺伝子間」と明示的に記載されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text and Figure 21.16 illustrate that TPA's gene evolution involved acquiring EGF, F (fibronectin), and K (plasminogen kringle) exons via shuffling from ancestral genes, and the K exon then duplicated within the TPA gene.",
+      "zh": "文本和图21.16表明，TPA基因的进化涉及通过外显子重排从祖先基因中获取EGF、F（纤连蛋白）和K（纤溶酶原kringle）外显子，随后K外显子在TPA基因内部发生复制。",
+      "es": "El texto y la Figura 21.16 ilustran que la evolución del gen TPA implicó la adquisición de exones EGF, F (fibronectina) y K (kringle de plasminógeno) mediante el barajado de exones de genes ancestrales, y el exón K luego se duplicó dentro del gen TPA.",
+      "fr": "Le texte et la Figure 21.16 illustrent que l'évolution du gène TPA a impliqué l'acquisition d'exons EGF, F (fibronectine) et K (kringle de plasminogène) via le brassage à partir de gènes ancestraux, et l'exon K a ensuite été dupliqué au sein du gène TPA.",
+      "de": "Der Text und Abbildung 21.16 veranschaulichen, dass die Evolution des TPA-Gens die Akquisition von EGF-, F- (Fibronektin) und K- (Plasminogen-Kringle) Exons durch Shuffling von ancestralen Genen beinhaltete, und das K-Exon sich dann innerhalb des TPA-Gens duplizierte.",
+      "ja": "テキストと図21.16は、TPA遺伝子の進化が、祖先遺伝子からのエクソンシャッフリングを介したEGF、F（フィブロネクチン）、K（プラスミノーゲンクリングル）エクソンの獲得を含み、その後KエクソンがTPA遺伝子内で複製されたことを示しています。"
+    }
+  },
+  {
+    "page_number": 506,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text describes \"exon shuffling\" as a process that contributes to gene evolution. Which of the following best describes the outcome or mechanism of exon shuffling as presented in the passage?",
+      "zh": "文本将“外显子重排”描述为一种促进基因进化的过程。以下哪项最能描述文中呈现的外显子重排的结果或机制？",
+      "es": "El texto describe el \"barajado de exones\" como un proceso que contribuye a la evolución genética. ¿Cuál de las siguientes opciones describe mejor el resultado o mecanismo del barajado de exones tal como se presenta en el pasaje?",
+      "fr": "Le texte décrit le « brassage d'exons » comme un processus qui contribue à l'évolution des gènes. Lequel des énoncés suivants décrit le mieux le résultat ou le mécanisme du brassage d'exons tel que présenté dans le passage ?",
+      "de": "Der Text beschreibt „Exon-Shuffling“ als einen Prozess, der zur Genevolution beiträgt. Welche der folgenden Aussagen beschreibt das Ergebnis oder den Mechanismus des Exon-Shufflings, wie es im Text dargestellt wird, am besten?",
+      "ja": "テキストは「エクソンシャッフリング」を遺伝子進化に貢献するプロセスとして記述しています。以下のうち、本文に示されているエクソンシャッフリングの成果またはメカニズムを最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Exon shuffling is the mixing and matching of different exons, either within a gene or between nonallelic genes, often due to errors in meiotic recombination, leading to new proteins with novel combinations of functions.",
+          "zh": "外显子重排是不同外显子的混合和匹配，可能发生在同一基因内部或不同非等位基因之间，通常是由于减数分裂重组错误引起的，从而产生具有新功能组合的蛋白质。",
+          "es": "El barajado de exones es la mezcla y combinación de diferentes exones, ya sea dentro de un gen o entre genes no alélicos, a menudo debido a errores en la recombinación meiótica, lo que lleva a nuevas proteínas con combinaciones de funciones novedosas.",
+          "fr": "Le brassage d'exons est le mélange et l'appariement de différents exons, soit au sein d'un gène, soit entre des gènes non alléliques, souvent dû à des erreurs de recombinaison méiotique, conduisant à de nouvelles protéines avec des combinaisons de fonctions inédites.",
+          "de": "Exon-Shuffling ist das Mischen und Anpassen verschiedener Exons, entweder innerhalb eines Gens oder zwischen nicht-allelischen Genen, oft aufgrund von Fehlern bei der meiotischen Rekombination, was zu neuen Proteinen mit neuartigen Funktionskombinationen führt.",
+          "ja": "エクソンシャッフリングとは、異なるエクソンが遺伝子内または非対立遺伝子間で混合・再編成されることであり、しばしば減数分裂組換えのエラーが原因で、新たな機能の組み合わせを持つタンパク質が生成されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Exon shuffling primarily results in the loss of genetic material, leading to shorter, less functional proteins.",
+          "zh": "外显子重排主要导致遗传物质的丢失，从而产生更短、功能更差的蛋白质。",
+          "es": "El barajado de exones resulta principalmente en la pérdida de material genético, lo que lleva a proteínas más cortas y menos funcionales.",
+          "fr": "Le brassage d'exons entraîne principalement la perte de matériel génétique, conduisant à des protéines plus courtes et moins fonctionnelles.",
+          "de": "Exon-Shuffling führt hauptsächlich zum Verlust von genetischem Material, was zu kürzeren, weniger funktionalen Proteinen führt.",
+          "ja": "エクソンシャッフリングは主に遺伝物質の喪失を引き起こし、より短く、機能の劣るタンパク質を生み出します。"
+        },
+        "feedback": {
+          "en": "Exon shuffling typically combines existing exons, not necessarily leading to loss of material or less functional proteins; its main outcome is novel protein functions.",
+          "zh": "外显子重排通常是现有外显子的组合，不一定导致遗传物质丢失或蛋白质功能降低；其主要结果是产生新的蛋白质功能。",
+          "es": "El barajado de exones generalmente combina exones existentes, no necesariamente lleva a la pérdida de material o a proteínas menos funcionales; su resultado principal son funciones proteicas novedosas.",
+          "fr": "Le brassage d'exons combine généralement des exons existants, ne conduisant pas nécessairement à une perte de matériel ou à des protéines moins fonctionnelles ; son principal résultat est l'apparition de nouvelles fonctions protéiques.",
+          "de": "Exon-Shuffling kombiniert typischerweise bestehende Exons und führt nicht notwendigerweise zu Materialverlust oder weniger funktionalen Proteinen; sein Hauptresultat sind neuartige Proteinfunktionen.",
+          "ja": "エクソンシャッフリングは通常、既存のエクソンを組み合わせるものであり、遺伝物質の喪失や機能の劣るタンパク質につながるわけではありません。その主な結果は、新規のタンパク質機能の獲得です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Exon shuffling is a common mechanism for creating identical copies of genes, thereby increasing gene dosage but not functional diversity.",
+          "zh": "外显子重排是创建基因相同拷贝的常见机制，从而增加基因剂量但不会增加功能多样性。",
+          "es": "El barajado de exones es un mecanismo común para crear copias idénticas de genes, aumentando así la dosis génica pero no la diversidad funcional.",
+          "fr": "Le brassage d'exons est un mécanisme courant pour créer des copies identiques de gènes, augmentant ainsi la dose génique mais pas la diversité fonctionnelle.",
+          "de": "Exon-Shuffling ist ein gängiger Mechanismus zur Erzeugung identischer Genkopien, wodurch die Gen-Dosis, aber nicht die funktionelle Vielfalt erhöht wird.",
+          "ja": "エクソンシャッフリングは、遺伝子の同一コピーを作成する一般的なメカニズムであり、それによって遺伝子量を増加させますが、機能的多様性は増加させません。"
+        },
+        "feedback": {
+          "en": "Gene duplication creates identical copies; exon shuffling creates new combinations of exons, leading to functional diversity.",
+          "zh": "基因复制创建相同拷贝；外显子重排创建新的外显子组合，从而产生功能多样性。",
+          "es": "La duplicación génica crea copias idénticas; el barajado de exones crea nuevas combinaciones de exones, lo que lleva a la diversidad funcional.",
+          "fr": "La duplication de gènes crée des copies identiques ; le brassage d'exons crée de nouvelles combinaisons d'exons, conduisant à la diversité fonctionnelle.",
+          "de": "Gen-Duplikation erzeugt identische Kopien; Exon-Shuffling erzeugt neue Exon-Kombinationen, was zu funktioneller Vielfalt führt.",
+          "ja": "遺伝子重複は同一のコピーを作成しますが、エクソンシャッフリングはエクソンの新しい組み合わせを作成し、機能的多様性をもたらします。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Exon shuffling is a process exclusive to prokaryotic organisms, allowing them to rapidly adapt to new environments.",
+          "zh": "外显子重排是原核生物特有的过程，使其能够迅速适应新环境。",
+          "es": "El barajado de exones es un proceso exclusivo de los organismos procariotas, que les permite adaptarse rápidamente a nuevos entornos.",
+          "fr": "Le brassage d'exons est un processus exclusif aux organismes procaryotes, leur permettant de s'adapter rapidement à de nouveaux environnements.",
+          "de": "Exon-Shuffling ist ein Prozess, der ausschließlich bei prokaryotischen Organismen vorkommt und es ihnen ermöglicht, sich schnell an neue Umgebungen anzupassen.",
+          "ja": "エクソンシャッフリングは、原核生物に固有のプロセスであり、新しい環境に迅速に適応することを可能にします。"
+        },
+        "feedback": {
+          "en": "The context is eukaryotic gene evolution (TPA, collagen, etc.), and exon shuffling is a well-known eukaryotic mechanism.",
+          "zh": "上下文是真核基因进化（TPA、胶原蛋白等），外显子重排是众所周知的真核机制。",
+          "es": "El contexto es la evolución de genes eucariotas (TPA, colágeno, etc.), y el barajado de exones es un mecanismo eucariota bien conocido.",
+          "fr": "Le contexte est l'évolution des gènes eucaryotes (TPA, collagène, etc.), et le brassage d'exons est un mécanisme eucaryote bien connu.",
+          "de": "Der Kontext ist die eukaryotische Genevolution (TPA, Kollagen usw.), und Exon-Shuffling ist ein bekannter eukaryotischer Mechanismus.",
+          "ja": "文脈は真核生物の遺伝子進化（TPA、コラーゲンなど）であり、エクソンシャッフリングはよく知られた真核生物のメカニズムです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The passage states: \"As an alternative possibility, we can imagine the occasional mixing and matching of different exons either within a gene or between two different (nonallelic) genes owing to errors in meiotic recombination. This process, termed exon shuffling, could lead to new proteins with novel combinations of functions.\"",
+      "zh": "文章指出：“另一种可能性是，我们可以设想由于减数分裂重组错误，不同外显子偶尔在基因内部或在两个不同（非等位）基因之间进行混合和匹配。这个过程，称为外显子重排，可能导致具有新功能组合的新蛋白质的产生。”",
+      "es": "El pasaje establece: \"Como posibilidad alternativa, podemos imaginar la mezcla y combinación ocasional de diferentes exones, ya sea dentro de un gen o entre dos genes diferentes (no alélicos), debido a errores en la recombinación meiótica. Este proceso, denominado barajado de exones, podría dar lugar a nuevas proteínas con combinaciones de funciones novedosas.\"",
+      "fr": "Le passage indique : « Comme autre possibilité, nous pouvons imaginer le mélange et l'appariement occasionnels de différents exons, soit au sein d'un gène, soit entre deux gènes différents (non alléliques), en raison d'erreurs de recombinaison méiotique. Ce processus, appelé brassage d'exons, pourrait conduire à de nouvelles protéines avec des combinaisons de fonctions inédites. »",
+      "de": "Der Text besagt: „Als alternative Möglichkeit können wir uns das gelegentliche Mischen und Anpassen verschiedener Exons vorstellen, entweder innerhalb eines Gens oder zwischen zwei verschiedenen (nicht-allelischen) Genen, aufgrund von Fehlern bei der meiotischen Rekombination. Dieser Prozess, als Exon-Shuffling bezeichnet, könnte zu neuen Proteinen mit neuartigen Funktionskombinationen führen.“",
+      "ja": "本文には次のように述べられています。「別の可能性として、減数分裂組換えのエラーにより、異なるエクソンが単一の遺伝子内または2つの異なる（非対立遺伝子性）遺伝子間で時折混合・再編成されることが考えられます。このプロセスはエクソンシャッフリングと呼ばれ、新たな機能の組み合わせを持つタンパク質を生み出す可能性があります。」"
+    }
+  }
+]

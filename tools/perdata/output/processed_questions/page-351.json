@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In a testcross for two genes, what is the maximum possible frequency of recombination, and what does it indicate about the two genes?",
+      "zh": "在针对两个基因的测交中，可能的最大重组频率是多少？这表明了这两个基因的什么情况？",
+      "es": "En un cruzamiento de prueba para dos genes, ¿cuál es la frecuencia máxima posible de recombinación y qué indica sobre los dos genes?",
+      "fr": "Dans un croisement test pour deux gènes, quelle est la fréquence maximale possible de recombinaison, et qu'est-ce que cela indique sur les deux gènes ?",
+      "de": "Was ist bei einer Testkreuzung für zwei Gene die maximal mögliche Rekombinationsfrequenz und was sagt sie über die beiden Gene aus?",
+      "ja": "2つの遺伝子の検定交雑において、可能な最大の組換え頻度は何ですか？また、それは2つの遺伝子について何を示していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "50%; it indicates the genes are on different chromosomes (unlinked).",
+          "zh": "50%；这表明基因位于不同的染色体上（不连锁）。",
+          "es": "50%; indica que los genes están en diferentes cromosomas (no ligados).",
+          "fr": "50 % ; cela indique que les gènes sont sur des chromosomes différents (non liés).",
+          "de": "50 %; es zeigt an, dass die Gene auf verschiedenen Chromosomen liegen (ungekoppelt).",
+          "ja": "50％。これは遺伝子が異なる染色体上にある（連鎖していない）ことを示します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "100%; it indicates the genes are on different chromosomes (unlinked).",
+          "zh": "100%；这表明基因位于不同的染色体上（不连锁）。",
+          "es": "100%; indica que los genes están en diferentes cromosomas (no ligados).",
+          "fr": "100 % ; cela indique que les gènes sont sur des chromosomes différents (non liés).",
+          "de": "100 %; es zeigt an, dass die Gene auf verschiedenen Chromosomen liegen (ungekoppelt).",
+          "ja": "100％。これは遺伝子が異なる染色体上にある（連鎖していない）ことを示します。"
+        },
+        "feedback": {
+          "en": "Even with independent assortment, half of the offspring are expected to have parental phenotypes. The maximum recombination frequency is 50%.",
+          "zh": "即使是自由组合，也有一半的后代预期具有亲本表型。最大重组频率是 50%。",
+          "es": "Incluso con una distribución independiente, se espera que la mitad de la descendencia tenga fenotipos parentales. La frecuencia máxima de recombinación es del 50%.",
+          "fr": "Même avec un assortiment indépendant, la moitié de la descendance devrait avoir des phénotypes parentaux. La fréquence de recombinaison maximale est de 50 %.",
+          "de": "Selbst bei unabhängiger Verteilung wird erwartet, dass die Hälfte der Nachkommen elterliche Phänotypen aufweist. Die maximale Rekombinationsfrequenz beträgt 50 %.",
+          "ja": "独立した分配であっても、子孫の半分は親の表現型を持つと予想されます。最大の組換え頻度は50％です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "0%; it indicates the genes are completely linked.",
+          "zh": "0%；这表明基因是完全连锁的。",
+          "es": "0%; indica que los genes están completamente ligados.",
+          "fr": "0 % ; cela indique que les gènes sont complètement liés.",
+          "de": "0 %; es zeigt an, dass die Gene vollständig gekoppelt sind.",
+          "ja": "0％。これは遺伝子が完全に連鎖していることを示します。"
+        },
+        "feedback": {
+          "en": "This describes the minimum recombination frequency, not the maximum.",
+          "zh": "这描述的是最小重组频率，而不是最大值。",
+          "es": "Esto describe la frecuencia de recombinación mínima, no la máxima.",
+          "fr": "Ceci décrit la fréquence de recombinaison minimale, pas la maximale.",
+          "de": "Dies beschreibt die minimale Rekombinationsfrequenz, nicht die maximale.",
+          "ja": "これは最小の組換え頻度を説明しており、最大ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "50%; it indicates the genes are very close together on the same chromosome.",
+          "zh": "50%；这表明基因在同一条染色体上非常靠近。",
+          "es": "50%; indica que los genes están muy juntos en el mismo cromosoma.",
+          "fr": "50 % ; cela indique que les gènes sont très proches les uns des autres sur le même chromosome.",
+          "de": "50 %; es zeigt an, dass die Gene auf demselben Chromosom sehr nahe beieinander liegen.",
+          "ja": "50％。これは遺伝子が同じ染色体上で非常に近くにあることを示します。"
+        },
+        "feedback": {
+          "en": "If genes are very close together, their recombination frequency would be very low, approaching 0%. A 50% frequency indicates they are unlinked.",
+          "zh": "如果基因非常靠近，它们的重组频率会非常低，接近 0%。50% 的频率表明它们不连锁。",
+          "es": "Si los genes están muy juntos, su frecuencia de recombinación sería muy baja, acercándose al 0%. Una frecuencia del 50% indica que no están ligados.",
+          "fr": "Si les gènes sont très proches, leur fréquence de recombinaison serait très faible, proche de 0 %. Une fréquence de 50 % indique qu'ils ne sont pas liés.",
+          "de": "Wenn Gene sehr nahe beieinander liegen, wäre ihre Rekombinationsfrequenz sehr niedrig und würde sich 0 % nähern. Eine Frequenz von 50 % zeigt an, dass sie nicht gekoppelt sind.",
+          "ja": "遺伝子が非常に近くにある場合、その組換え頻度は非常に低くなり、0％に近づきます。50％の頻度は、それらが連鎖していないことを示します。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "The text states, 'A 50% frequency of recombination in such testcrosses is observed for any two genes that are located on different chromosomes and thus cannot be linked.' This occurs because of the independent assortment of homologous chromosomes during meiosis I.",
+      "zh": "文本指出，“在这样的测交中，对于任何位于不同染色体上因此不能连锁的两个基因，都会观察到 50% 的重组频率。” 这是由于减数第一次分裂期间同源染色体的自由组合造成的。",
+      "es": "El texto dice: 'Se observa una frecuencia de recombinación del 50% en tales cruzamientos de prueba para dos genes cualesquiera que se encuentren en diferentes cromosomas y, por lo tanto, no puedan estar ligados'. Esto ocurre debido a la distribución independiente de los cromosomas homólogos durante la meiosis I.",
+      "fr": "Le texte déclare : « Une fréquence de recombinaison de 50 % dans de tels croisements tests est observée pour deux gènes quelconques situés sur des chromosomes différents et ne pouvant donc pas être liés. » Cela se produit en raison de l'assortiment indépendant des chromosomes homologues pendant la méiose I.",
+      "de": "Der Text besagt: „Eine Rekombinationsfrequenz von 50 % wird bei solchen Testkreuzungen für zwei beliebige Gene beobachtet, die sich auf verschiedenen Chromosomen befinden und daher nicht gekoppelt sein können.“ Dies geschieht aufgrund der unabhängigen Verteilung homologer Chromosomen während der Meiose I.",
+      "ja": "本文には、「このような検定交雑では、異なる染色体上にあり、したがって連鎖できない2つの遺伝子について、50％の組換え頻度が観察される」と記載されています。これは、第一減数分裂中の相同染色体の独立した分配のために起こります。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "What physical process accounts for the recombination of linked genes, leading to the nonparental phenotypes Morgan observed in his fruit fly experiment?",
+      "zh": "什么物理过程导致了连锁基因的重组，从而产生了摩尔根在其果蝇实验中观察到的非亲本表型？",
+      "es": "¿Qué proceso físico explica la recombinación de genes ligados, lo que conduce a los fenotipos no parentales que Morgan observó en su experimento con moscas de la fruta?",
+      "fr": "Quel processus physique explique la recombinaison des gènes liés, conduisant aux phénotypes non parentaux que Morgan a observés dans son expérience sur la mouche des fruits ?",
+      "de": "Welcher physikalische Prozess erklärt die Rekombination gekoppelter Gene, die zu den nicht-elterlichen Phänotypen führt, die Morgan in seinem Fruchtfliegenexperiment beobachtete?",
+      "ja": "モーガンがショウジョウバエの実験で観察した非親の表現型につながる、連鎖遺伝子の組換えを説明する物理的なプロセスは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Independent assortment of chromosomes",
+          "zh": "染色体的自由组合",
+          "es": "Distribución independiente de los cromosomas",
+          "fr": "Assortiment indépendant des chromosomes",
+          "de": "Unabhängige Verteilung der Chromosomen",
+          "ja": "染色体の独立した分配"
+        },
+        "feedback": {
+          "en": "Independent assortment is the mechanism for recombination of unlinked genes (genes on different chromosomes), not linked genes.",
+          "zh": "自由组合是不连锁基因（位于不同染色体上的基因）重组的机制，而不是连锁基因。",
+          "es": "La distribución independiente es el mecanismo para la recombinación de genes no ligados (genes en diferentes cromosomas), no de genes ligados.",
+          "fr": "L'assortiment indépendant est le mécanisme de recombinaison des gènes non liés (gènes sur des chromosomes différents), et non des gènes liés.",
+          "de": "Die unabhängige Verteilung ist der Mechanismus für die Rekombination von nicht gekoppelten Genen (Gene auf verschiedenen Chromosomen), nicht von gekoppelten Genen.",
+          "ja": "独立した分配は、連鎖遺伝子ではなく、非連鎖遺伝子（異なる染色体上の遺伝子）の組換えのメカニズムです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Random fertilization",
+          "zh": "随机受精",
+          "es": "Fertilización aleatoria",
+          "fr": "Fécondation aléatoire",
+          "de": "Zufällige Befruchtung",
+          "ja": "ランダムな受精"
+        },
+        "feedback": {
+          "en": "Random fertilization creates new combinations of gametes, but the recombination of alleles within the gametes happens earlier, during meiosis.",
+          "zh": "随机受精创造了新的配子组合，但配子内等位基因的重组发生在更早的减数分裂期间。",
+          "es": "La fertilización aleatoria crea nuevas combinaciones de gametos, pero la recombinación de alelos dentro de los gametos ocurre antes, durante la meiosis.",
+          "fr": "La fécondation aléatoire crée de nouvelles combinaisons de gamètes, mais la recombinaison des allèles au sein des gamètes se produit plus tôt, pendant la méiose.",
+          "de": "Die zufällige Befruchtung erzeugt neue Kombinationen von Gameten, aber die Rekombination von Allelen innerhalb der Gameten findet früher während der Meiose statt.",
+          "ja": "ランダムな受精は新しい配偶子の組み合わせを作り出しますが、配偶子内の対立遺伝子の組換えは、減数分裂中にもっと早く起こります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Crossing over",
+          "zh": "交换",
+          "es": "Entrecruzamiento",
+          "fr": "Enjambement",
+          "de": "Crossing-over",
+          "ja": "交差"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "X inactivation",
+          "zh": "X 染色体失活",
+          "es": "Inactivación del cromosoma X",
+          "fr": "Inactivation du chromosome X",
+          "de": "X-Inaktivierung",
+          "ja": "X染色体不活性化"
+        },
+        "feedback": {
+          "en": "X inactivation is a mechanism for dose compensation in females and is not related to the recombination of alleles during meiosis.",
+          "zh": "X 染色体失活是雌性剂量补偿的一种机制，与减数分裂期间等位基因的重组无关。",
+          "es": "La inactivación del cromosoma X es un mecanismo de compensación de dosis en las hembras y no está relacionada con la recombinación de alelos durante la meiosis.",
+          "fr": "L'inactivation du chromosome X est un mécanisme de compensation de dose chez les femelles et n'est pas liée à la recombinaison des allèles pendant la méiose.",
+          "de": "Die X-Inaktivierung ist ein Mechanismus zur Dosiskompensation bei Weibchen und steht nicht im Zusammenhang mit der Rekombination von Allelen während der Meiose.",
+          "ja": "X染色体不活性化は、女性における線量補償のメカニズムであり、減数分裂中の対立遺伝子の組換えとは関係ありません。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text explicitly states that Morgan proposed a process that 'must occasionally break the physical connection between specific alleles of genes on the same chromosome.' It then identifies this process as crossing over, which occurs during prophase I of meiosis and involves the exchange of DNA segments between homologous chromosomes.",
+      "zh": "文本明确指出，摩尔根提出了一个过程，“必须偶尔打破同一条染色体上特定基因等位基因之间的物理连接”。然后将这个过程确定为交换，它发生在减数第一次分裂前期，涉及同源染色体之间的 DNA 片段交换。",
+      "es": "El texto establece explícitamente que Morgan propuso un proceso que 'debe romper ocasionalmente la conexión física entre alelos específicos de genes en el mismo cromosoma'. Luego identifica este proceso como el entrecruzamiento, que ocurre durante la profase I de la meiosis e implica el intercambio de segmentos de ADN entre cromosomas homólogos.",
+      "fr": "Le texte déclare explicitement que Morgan a proposé un processus qui « doit occasionnellement rompre la connexion physique entre des allèles spécifiques de gènes sur le même chromosome ». Il identifie ensuite ce processus comme étant l'enjambement, qui se produit pendant la prophase I de la méiose et implique l'échange de segments d'ADN entre les chromosomes homologues.",
+      "de": "Der Text besagt ausdrücklich, dass Morgan einen Prozess vorschlug, der „gelegentlich die physikalische Verbindung zwischen spezifischen Allelen von Genen auf demselben Chromosom unterbrechen muss.“ Er identifiziert diesen Prozess dann als Crossing-over, das während der Prophase I der Meiose stattfindet und den Austausch von DNA-Abschnitten zwischen homologen Chromosomen beinhaltet.",
+      "ja": "本文では、モーガンが「同じ染色体上の特定の遺伝子の対立遺伝子間の物理的なつながりを時々断ち切るに違いない」プロセスを提案したと明確に述べられています。その後、このプロセスを、減数分裂の第一前期に起こり、相同染色体間のDNA断片の交換を伴う交差として特定しています。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In a testcross involving two genes, a recombination frequency of less than 50% indicates what?",
+      "zh": "在涉及两个基因的测交中，小于 50% 的重组频率表明了什么？",
+      "es": "En un cruzamiento de prueba que involucra dos genes, ¿qué indica una frecuencia de recombinación inferior al 50%?",
+      "fr": "Dans un croisement test impliquant deux gènes, qu'indique une fréquence de recombinaison inférieure à 50 % ?",
+      "de": "Was bedeutet eine Rekombinationsfrequenz von weniger als 50 % bei einer Testkreuzung mit zwei Genen?",
+      "ja": "2つの遺伝子が関与する検定交雑において、50％未満の組換え頻度は何を示しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The two genes are on different chromosomes.",
+          "zh": "这两个基因位于不同的染色体上。",
+          "es": "Los dos genes están en cromosomas diferentes.",
+          "fr": "Les deux gènes sont sur des chromosomes différents.",
+          "de": "Die beiden Gene liegen auf verschiedenen Chromosomen.",
+          "ja": "2つの遺伝子は異なる染色体上にあります。"
+        },
+        "feedback": {
+          "en": "If the genes were on different chromosomes, they would assort independently, resulting in a 50% recombination frequency.",
+          "zh": "如果基因位于不同的染色体上，它们会自由组合，导致 50% 的重组频率。",
+          "es": "Si los genes estuvieran en cromosomas diferentes, se distribuirían de forma independiente, lo que daría como resultado una frecuencia de recombinación del 50%.",
+          "fr": "Si les gènes étaient sur des chromosomes différents, ils s'assortiraient indépendamment, ce qui entraînerait une fréquence de recombinaison de 50 %.",
+          "de": "Wenn die Gene auf verschiedenen Chromosomen wären, würden sie sich unabhängig voneinander verteilen, was zu einer Rekombinationsfrequenz von 50 % führen würde.",
+          "ja": "遺伝子が異なる染色体上にある場合、それらは独立して分配され、50％の組換え頻度になります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The two genes are linked.",
+          "zh": "这两个基因是连锁的。",
+          "es": "Los dos genes están ligados.",
+          "fr": "Les deux gènes sont liés.",
+          "de": "Die beiden Gene sind gekoppelt.",
+          "ja": "2つの遺伝子は連鎖しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "One of the genes is dominant and the other is recessive.",
+          "zh": "其中一个基因是显性的，另一个是隐性的。",
+          "es": "Uno de los genes es dominante y el otro es recesivo.",
+          "fr": "L'un des gènes est dominant et l'autre est récessif.",
+          "de": "Eines der Gene ist dominant und das andere ist rezessiv.",
+          "ja": "一方の遺伝子は優性で、もう一方は劣性です。"
+        },
+        "feedback": {
+          "en": "The dominance relationship between alleles does not determine the recombination frequency.",
+          "zh": "等位基因之间的显隐性关系不决定重组频率。",
+          "es": "La relación de dominancia entre los alelos no determina la frecuencia de recombinación.",
+          "fr": "La relation de dominance entre les allèles ne détermine pas la fréquence de recombinaison.",
+          "de": "Das Dominanzverhältnis zwischen Allelen bestimmt nicht die Rekombinationsfrequenz.",
+          "ja": "対立遺伝子間の優劣関係は、組換え頻度を決定しません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The experiment was performed incorrectly.",
+          "zh": "实验操作不正确。",
+          "es": "El experimento se realizó incorrectamente.",
+          "fr": "L'expérience a été mal réalisée.",
+          "de": "Das Experiment wurde falsch durchgeführt.",
+          "ja": "実験は正しく行われませんでした。"
+        },
+        "feedback": {
+          "en": "A recombination frequency less than 50% is a valid and expected result for linked genes.",
+          "zh": "小于 50% 的重组频率对于连锁基因来说是一个有效且预期的结果。",
+          "es": "Una frecuencia de recombinación inferior al 50% es un resultado válido y esperado para los genes ligados.",
+          "fr": "Une fréquence de recombinaison inférieure à 50 % est un résultat valide et attendu pour les gènes liés.",
+          "de": "Eine Rekombinationsfrequenz von weniger als 50 % ist ein gültiges und erwartetes Ergebnis für gekoppelte Gene.",
+          "ja": "50％未満の組換え頻度は、連鎖遺伝子にとって有効で予想される結果です。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text explains that a recombination frequency greater than 50% for parental types (which means less than 50% for recombinant types) indicates that the genes are linked. The 50% frequency is the benchmark for independent assortment.",
+      "zh": "文本解释说，亲本类型的重组频率大于 50%（这意味着重组类型的频率小于 50%）表明基因是连锁的。50% 的频率是自由组合的基准。",
+      "es": "El texto explica que una frecuencia de recombinación superior al 50% para los tipos parentales (lo que significa menos del 50% para los tipos recombinantes) indica que los genes están ligados. La frecuencia del 50% es el punto de referencia para la distribución independiente.",
+      "fr": "Le texte explique qu'une fréquence de recombinaison supérieure à 50 % pour les types parentaux (ce qui signifie moins de 50 % pour les types recombinants) indique que les gènes sont liés. La fréquence de 50 % est la référence pour l'assortiment indépendant.",
+      "de": "Der Text erklärt, dass eine Rekombinationsfrequenz von mehr als 50 % für elterliche Typen (was weniger als 50 % für rekombinante Typen bedeutet) anzeigt, dass die Gene gekoppelt sind. Die 50 %-Frequenz ist der Maßstab für die unabhängige Verteilung.",
+      "ja": "本文では、親のタイプの組換え頻度が50％を超える（つまり、組換えタイプの頻度が50％未満である）ことは、遺伝子が連鎖していることを示していると説明しています。50％の頻度は、独立した分配の基準です。"
+    }
+  }
+]

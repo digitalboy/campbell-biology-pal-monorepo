@@ -1,0 +1,305 @@
+[
+  {
+    "page_number": 1196,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the \"VISUAL SKILLS\" prompt and Figure 51.10, which experimental design best controls for an inherent preference of honeybees for a particular orientation of black bars in the pattern maze?",
+      "zh": "根据“视觉技能”提示和图51.10，哪种实验设计能最好地控制蜜蜂对图案迷宫中黑色条纹特定方向的固有偏好？",
+      "es": "Según la indicación \"HABILIDADES VISUALES\" y la Figura 51.10, ¿qué diseño experimental controla mejor la preferencia inherente de las abejas por una orientación particular de las barras negras en el laberinto de patrones?",
+      "fr": "Basé sur la consigne « COMPÉTENCES VISUELLES » et la Figure 51.10, quelle conception expérimentale permet de mieux contrôler une préférence inhérente des abeilles pour une orientation particulière des barres noires dans le labyrinthe à motifs ?",
+      "de": "Basierend auf der Aufforderung „VISUELLE FÄHIGKEITEN“ und Abbildung 51.10, welches experimentelle Design kontrolliert am besten eine angeborene Präferenz von Honigbienen für eine bestimmte Ausrichtung der schwarzen Balken im Musterlabyrinth?",
+      "ja": "「視覚スキル」の指示と図51.10に基づき、パターン迷路におけるミツバチの黒い棒の特定方向に対する固有の好みを最もよく制御できる実験デザインはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Train all bees to associate a single orientation (e.g., vertical) with reward, then test their choices.",
+          "zh": "训练所有蜜蜂将单一方向（例如垂直）与奖励联系起来，然后测试它们的选择。",
+          "es": "Entrenar a todas las abejas para que asocien una única orientación (por ejemplo, vertical) con una recompensa, y luego probar sus elecciones.",
+          "fr": "Entraîner toutes les abeilles à associer une seule orientation (par exemple, verticale) à une récompense, puis tester leurs choix.",
+          "de": "Alle Bienen darauf trainieren, eine einzige Ausrichtung (z.B. vertikal) mit Belohnung zu assoziieren, und dann ihre Wahl testen.",
+          "ja": "すべてのミツバチに単一の方向（例：垂直）と報酬を結びつけるように訓練し、その後選択をテストする。"
+        },
+        "feedback": {
+          "en": "This method introduces a bias rather than controlling for a pre-existing preference.",
+          "zh": "这种方法会引入偏见，而不是控制预先存在的偏好。",
+          "es": "Este método introduce un sesgo en lugar de controlar una preferencia preexistente.",
+          "fr": "Cette méthode introduit un biais plutôt que de contrôler une préférence préexistante.",
+          "de": "Diese Methode führt eine Verzerrung ein, anstatt eine bereits bestehende Präferenz zu kontrollieren.",
+          "ja": "この方法は、既存の好みを制御するのではなく、偏見を導入します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Observe a naive group of bees' choices in the pattern maze without any prior training or reward, to establish baseline preferences.",
+          "zh": "观察一组未经训练和奖励的蜜蜂在图案迷宫中的选择，以建立基线偏好。",
+          "es": "Observar las elecciones de un grupo de abejas ingenuas en el laberinto de patrones sin entrenamiento ni recompensa previos, para establecer preferencias de referencia.",
+          "fr": "Observer les choix d'un groupe d'abeilles naïves dans le labyrinthe à motifs sans entraînement ni récompense préalables, afin d'établir les préférences de base.",
+          "de": "Eine naive Bienengruppe ohne vorheriges Training oder Belohnung im Musterlabyrinth beobachten, um Basiseinstellungen zu ermitteln.",
+          "ja": "事前の訓練や報酬なしに、パターン迷路における純粋なミツバチのグループの選択を観察し、基準となる好みを確立する。"
+        },
+        "feedback": {
+          "en": "This is the correct approach. A control group without conditioning helps reveal inherent preferences before training.",
+          "zh": "这是正确的方法。未经条件反射的对照组有助于在训练前揭示其固有偏好。",
+          "es": "Este es el enfoque correcto. Un grupo de control sin condicionamiento ayuda a revelar preferencias inherentes antes del entrenamiento.",
+          "fr": "C'est la bonne approche. Un groupe témoin sans conditionnement aide à révéler les préférences inhérentes avant l'entraînement.",
+          "de": "Dies ist der richtige Ansatz. Eine Kontrollgruppe ohne Konditionierung hilft, angeborene Präferenzen vor dem Training aufzudecken.",
+          "ja": "これは正しいアプローチです。条件付けされていない対照群は、訓練前の固有の好みを示すのに役立ちます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Vary the light intensity in the maze for different orientations to see if it affects choice.",
+          "zh": "改变迷宫中不同方向的光照强度，看是否影响选择。",
+          "es": "Variar la intensidad de la luz en el laberinto para diferentes orientaciones y ver si afecta la elección.",
+          "fr": "Varier l'intensité lumineuse dans le labyrinthe pour différentes orientations afin de voir si cela affecte le choix.",
+          "de": "Die Lichtintensität im Labyrinth für verschiedene Ausrichtungen variieren, um zu sehen, ob dies die Wahl beeinflusst.",
+          "ja": "迷路内の異なる方向の光の強度を変えて、それが選択に影響するかどうかを確認する。"
+        },
+        "feedback": {
+          "en": "Varying light intensity introduces another variable, not a control for inherent pattern preference.",
+          "zh": "改变光照强度会引入另一个变量，而不是控制固有的图案偏好。",
+          "es": "Variar la intensidad de la luz introduce otra variable, no es un control para la preferencia inherente de patrones.",
+          "fr": "Faire varier l'intensité lumineuse introduit une autre variable, et non un contrôle de la préférence inhérente pour les motifs.",
+          "de": "Das Variieren der Lichtintensität führt eine weitere Variable ein, statt eine Kontrolle für die angeborene Musterpräferenz darzustellen.",
+          "ja": "光の強度を変えることは別の変数を導入するものであり、固有のパターン好みを制御するものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Ensure all bees are trained with the same reward for the same pattern orientation before testing.",
+          "zh": "确保所有蜜蜂在测试前都接受相同的模式方向的相同奖励训练。",
+          "es": "Asegurarse de que todas las abejas sean entrenadas con la misma recompensa para la misma orientación del patrón antes de la prueba.",
+          "fr": "S'assurer que toutes les abeilles sont entraînées avec la même récompense pour la même orientation de motif avant le test.",
+          "de": "Sicherstellen, dass alle Bienen vor dem Test mit der gleichen Belohnung für die gleiche Musterorientierung trainiert werden.",
+          "ja": "テスト前に、すべてのミツバチが同じパターン方向に対して同じ報酬で訓練されていることを確認する。"
+        },
+        "feedback": {
+          "en": "This describes the training phase, not a control for pre-existing biases.",
+          "zh": "这描述的是训练阶段，而不是对预先存在的偏见的控制。",
+          "es": "Esto describe la fase de entrenamiento, no un control para sesgos preexistentes.",
+          "fr": "Cela décrit la phase d'entraînement, et non un contrôle des biais préexistants.",
+          "de": "Dies beschreibt die Trainingsphase, nicht eine Kontrolle für bereits bestehende Verzerrungen.",
+          "ja": "これは訓練段階を説明しており、既存の偏見を制御するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "To control for an inherent preference, one must establish a baseline behavior without any experimental manipulation or reward. By observing naive bees' choices in the pattern maze, researchers can determine if there's a natural tendency towards a specific orientation before training, which can then be accounted for in the main experiment.",
+      "zh": "为了控制固有偏好，必须在没有任何实验操作或奖励的情况下建立基线行为。通过观察未经训练的蜜蜂在图案迷宫中的选择，研究人员可以确定在训练前是否存在对特定方向的自然倾向，这可以在主要实验中加以考虑。",
+      "es": "Para controlar una preferencia inherente, se debe establecer un comportamiento de referencia sin ninguna manipulación experimental o recompensa. Al observar las elecciones de abejas ingenuas en el laberinto de patrones, los investigadores pueden determinar si existe una tendencia natural hacia una orientación específica antes del entrenamiento, lo que luego puede tenerse en cuenta en el experimento principal.",
+      "fr": "Pour contrôler une préférence inhérente, il faut établir un comportement de base sans aucune manipulation expérimentale ni récompense. En observant les choix des abeilles naïves dans le labyrinthe à motifs, les chercheurs peuvent déterminer s'il existe une tendance naturelle vers une orientation spécifique avant l'entraînement, ce qui peut ensuite être pris en compte dans l'expérience principale.",
+      "de": "Um eine angeborene Präferenz zu kontrollieren, muss man ein Ausgangsverhalten ohne jegliche experimentelle Manipulation oder Belohnung festlegen. Indem man die Wahl naiver Bienen im Musterlabyrinth beobachtet, können Forscher feststellen, ob es vor dem Training eine natürliche Tendenz zu einer bestimmten Ausrichtung gibt, die dann im Hauptexperiment berücksichtigt werden kann.",
+      "ja": "固有の好みを制御するには、実験的な操作や報酬なしにベースラインの行動を確立する必要があります。訓練されていないミツバチのパターン迷路での選択を観察することで、研究者は訓練前に特定の方向に対する自然な傾向があるかどうかを判断でき、それを主要な実験で考慮に入れることができます。"
+    }
+  },
+  {
+    "page_number": 1196,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes a stage or condition of song learning in white-crowned sparrows, according to the text?",
+      "zh": "根据文中描述，以下哪项陈述准确地描述了白冠麻雀鸣唱学习的一个阶段或条件？",
+      "es": "Según el texto, ¿cuál de las siguientes afirmaciones describe con precisión una etapa o condición del aprendizaje del canto en los gorriones de corona blanca?",
+      "fr": "Selon le texte, quelle affirmation décrit avec précision une étape ou une condition de l'apprentissage du chant chez les passereaux à couronne blanche ?",
+      "de": "Welche der folgenden Aussagen beschreibt laut Text eine Phase oder Bedingung des Gesangslernens bei Weißkopfsperlingen genau?",
+      "ja": "本文によると、シラフタムレドリのさえずり学習の段階または条件を正確に記述しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Fledgling sparrows can develop the adult song even if they never hear it during the sensitive period, as long as they sing a subsong.",
+          "zh": "只要幼雀会唱亚鸣唱，即使在敏感期从未听到成年鸣唱，也能发展出成年鸣唱。",
+          "es": "Los gorriones jóvenes pueden desarrollar el canto adulto incluso si nunca lo escuchan durante el período sensible, siempre y cuando canten un subcanto.",
+          "fr": "Les jeunes passereaux peuvent développer le chant adulte même s'ils ne l'entendent jamais pendant la période sensible, tant qu'ils chantent un sous-chant.",
+          "de": "Junge Sperlinge können den Erwachsenengesang entwickeln, auch wenn sie ihn während der sensiblen Phase nie hören, solange sie einen Subgesang singen.",
+          "ja": "幼いスズメは、サブソングを歌いさえすれば、感受性期間中にさえずりを一度も聞かなくても、成鳥のさえずりを習得できます。"
+        },
+        "feedback": {
+          "en": "The text states that if a fledgling is prevented from hearing real sparrows or recordings during the first 50 days, 'it fails to develop the adult song of its species.'",
+          "zh": "文章指出，如果幼雀在出生后的前50天内被阻止听到真实的麻雀鸣唱或录音，它就“无法发展出其物种的成年鸣唱”。",
+          "es": "El texto afirma que si a un gorrión joven se le impide escuchar gorriones reales o grabaciones durante los primeros 50 días, 'no logra desarrollar el canto adulto de su especie'.",
+          "fr": "Le texte indique que si un jeune passereau est empêché d'entendre de vrais passereaux ou des enregistrements pendant les 50 premiers jours, « il ne parvient pas à développer le chant adulte de son espèce ».",
+          "de": "Der Text besagt, dass, wenn ein Jungvogel in den ersten 50 Tagen daran gehindert wird, echte Sperlinge oder Aufnahmen zu hören, 'er den Erwachsenengesang seiner Art nicht entwickeln kann'.",
+          "ja": "本文では、ヒナが最初の50日間に実際のスズメのさえずりや録音を聞くことを妨げられた場合、「その種の成鳥のさえずりを習得できない」と述べられています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The sensitive period is primarily when the juvenile bird sings tentative notes called a subsong, comparing it to memorized songs.",
+          "zh": "敏感期主要是指幼鸟唱出试探性音符（称为亚鸣唱）并将其与记忆中的鸣唱进行比较的时期。",
+          "es": "El período sensible es principalmente cuando el ave juvenil canta notas tentativas llamadas subcanto, comparándolas con los cantos memorizados.",
+          "fr": "La période sensible est principalement le moment où le jeune oiseau chante des notes hésitantes appelées sous-chant, les comparant aux chants mémorisés.",
+          "de": "Die sensible Phase ist hauptsächlich die Zeit, in der der Jungvogel zögerliche Noten, Subgesang genannt, singt und sie mit auswendig gelernten Liedern vergleicht.",
+          "ja": "感受性期間は主に、幼鳥がサブソングと呼ばれる試行的な音符を歌い、それを記憶した歌と比較する時期である。"
+        },
+        "feedback": {
+          "en": "The sensitive period is when the bird memorizes the song; the subsong phase is the 'second learning phase' that follows.",
+          "zh": "敏感期是鸟儿记忆歌曲的时期；亚鸣唱阶段是随后的“第二个学习阶段”。",
+          "es": "El período sensible es cuando el ave memoriza el canto; la fase del subcanto es la 'segunda fase de aprendizaje' que le sigue.",
+          "fr": "La période sensible est le moment où l'oiseau mémorise le chant ; la phase du sous-chant est la « deuxième phase d'apprentissage » qui suit.",
+          "de": "Die sensible Phase ist die Zeit, in der der Vogel das Lied auswendig lernt; die Subgesangsphase ist die 'zweite Lernphase', die darauf folgt.",
+          "ja": "感受性期間は、鳥が歌を記憶する時期です。サブソングの段階は、それに続く「第2の学習段階」です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Song learning in sparrows is bounded by genetically controlled preferences, but exposure to their species' song early in life is critical for developing the adult song.",
+          "zh": "麻雀的鸣唱学习受基因控制的偏好限制，但幼年时期接触其物种的鸣唱对于发展成年鸣唱至关重要。",
+          "es": "El aprendizaje del canto en los gorriones está limitado por preferencias genéticamente controladas, pero la exposición al canto de su especie a principios de la vida es crítica para desarrollar el canto adulto.",
+          "fr": "L'apprentissage du chant chez les passereaux est limité par des préférences génétiquement contrôlées, mais l'exposition au chant de leur espèce tôt dans la vie est essentielle pour le développement du chant adulte.",
+          "de": "Das Gesangslernen bei Sperlingen ist durch genetisch kontrollierte Präferenzen begrenzt, aber die frühe Exposition gegenüber dem Gesang ihrer Art ist entscheidend für die Entwicklung des Erwachsenengesangs.",
+          "ja": "スズメのさえずり学習は遺伝的に制御された好みによって制限されますが、幼少期にその種のさえずりに触れることが、成鳥のさえずりの発達に不可欠です。"
+        },
+        "feedback": {
+          "en": "This statement correctly synthesizes information from the text: song learning has a genetic component (preferences) but also requires environmental input (hearing the song during the sensitive period).",
+          "zh": "此陈述正确地综合了文本中的信息：鸣唱学习有基因组成部分（偏好），但也需要环境输入（在敏感期听到鸣唱）。",
+          "es": "Esta afirmación sintetiza correctamente la información del texto: el aprendizaje del canto tiene un componente genético (preferencias) pero también requiere aportes ambientales (escuchar el canto durante el período sensible).",
+          "fr": "Cette affirmation synthétise correctement les informations du texte : l'apprentissage du chant a une composante génétique (préférences) mais nécessite également un apport environnemental (entendre le chant pendant la période sensible).",
+          "de": "Diese Aussage synthetisiert korrekt Informationen aus dem Text: Das Gesangslernen hat eine genetische Komponente (Präferenzen), erfordert aber auch Umwelteinflüsse (das Hören des Gesangs während der sensiblen Phase).",
+          "ja": "この記述は、歌の学習が遺伝的要素（好み）を持つ一方で、環境的入力（感受性期間中に歌を聞くこと）も必要であるというテキストからの情報を正しく統合しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Once a sparrow's song \"crystallizes,\" it can still learn and incorporate new melodies from other species, demonstrating lifelong vocal plasticity.",
+          "zh": "一旦麻雀的鸣唱“固化”，它仍然可以学习并融入其他物种的新旋律，展现出终身的声音可塑性。",
+          "es": "Una vez que el canto de un gorrión se \"cristaliza\", todavía puede aprender e incorporar nuevas melodías de otras especies, demostrando plasticidad vocal de por vida.",
+          "fr": "Une fois que le chant d'un passereau se « cristallise », il peut toujours apprendre et incorporer de nouvelles mélodies d'autres espèces, démontrant une plasticité vocale tout au long de sa vie.",
+          "de": "Sobald der Gesang eines Sperlings „kristallisiert“ ist, kann er immer noch neue Melodien von anderen Arten lernen und integrieren, was eine lebenslange vokale Plastizität zeigt.",
+          "ja": "スズメの歌が「結晶化」すると、他の種の新しいメロディーを学び、取り入れることができ、生涯にわたる音声の可塑性を示します。"
+        },
+        "feedback": {
+          "en": "The text explicitly states: 'the bird sings only this adult song for the rest of its life,' implying a lack of further vocal plasticity for new melodies.",
+          "zh": "文章明确指出：“这只鸟在余生只唱这种成年鸣唱”，这意味着它不再具有学习新旋律的声音可塑性。",
+          "es": "El texto afirma explícitamente: 'el ave canta solo este canto adulto por el resto de su vida', lo que implica una falta de plasticidad vocal adicional para nuevas melodías.",
+          "fr": "Le texte déclare explicitement : « l'oiseau ne chante que ce chant adulte pour le reste de sa vie », impliquant un manque de plasticité vocale supplémentaire pour de nouvelles mélodies.",
+          "de": "Der Text besagt ausdrücklich: 'der Vogel singt nur diesen Erwachsenengesang für den Rest seines Lebens', was eine mangelnde weitere vokale Plastizität für neue Melodien impliziert.",
+          "ja": "本文では、「鳥は生涯この成鳥の歌だけを歌う」と明示されており、新しいメロディーに対するさらなる音声の可塑性がないことを意味します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text highlights that song learning is 'bounded by genetically controlled preferences' but also emphasizes the importance of the 'sensitive period' early in life (first 50 days) for fledglings to hear their species' song, without which they fail to develop the adult song. Option C correctly captures both aspects.",
+      "zh": "文本强调鸣唱学习“受基因控制的偏好限制”，但也强调了幼鸟在生命早期（前50天）听到其物种鸣唱的“敏感期”的重要性，否则它们无法发展出成年鸣唱。选项C正确地捕捉了这两个方面。",
+      "es": "El texto destaca que el aprendizaje del canto está 'limitado por preferencias genéticamente controladas', pero también enfatiza la importancia del 'período sensible' temprano en la vida (primeros 50 días) para que los gorriones escuchen el canto de su especie, sin lo cual no logran desarrollar el canto adulto. La opción C captura correctamente ambos aspectos.",
+      "fr": "Le texte souligne que l'apprentissage du chant est « limité par des préférences génétiquement contrôlées », mais met également l'accent sur l'importance de la « période sensible » tôt dans la vie (les 50 premiers jours) pour que les jeunes passereaux entendent le chant de leur espèce, sans quoi ils ne parviennent pas à développer le chant adulte. L'option C saisit correctement les deux aspects.",
+      "de": "Der Text betont, dass das Gesangslernen „durch genetisch kontrollierte Präferenzen begrenzt“ ist, aber auch die Bedeutung der „sensiblen Phase“ früh im Leben (erste 50 Tage) hervorhebt, in der Jungvögel den Gesang ihrer Art hören müssen, ohne den sie den Erwachsenengesang nicht entwickeln können. Option C erfasst beide Aspekte korrekt.",
+      "ja": "本文は、歌の学習が「遺伝的に制御された好みによって制限される」と強調していますが、同時に、若鳥が種の歌を聞くための幼少期の「感受性期間」（最初の50日間）の重要性も強調しており、それがないと成鳥の歌を習得できません。選択肢Cは、両方の側面を正しく捉えています。"
+    }
+  },
+  {
+    "page_number": 1196,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following scenarios best exemplifies \"social learning\" as defined and described in the provided text?",
+      "zh": "根据所提供的文本中对“社会学习”的定义和描述，以下哪个场景最能体现“社会学习”？",
+      "es": "Según la definición y descripción de \"aprendizaje social\" en el texto proporcionado, ¿cuál de los siguientes escenarios ejemplifica mejor el \"aprendizaje social\"?",
+      "fr": "Selon la définition et la description du « social learning » (apprentissage social) dans le texte fourni, quel scénario suivant illustre le mieux l'apprentissage social ?",
+      "de": "Welches der folgenden Szenarien veranschaulicht am besten „soziales Lernen“, wie es im bereitgestellten Text definiert und beschrieben wird?",
+      "ja": "提供されたテキストで定義および説明されている「社会学習」を最もよく例示しているシナリオは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A chimpanzee observing a banana out of reach and stacking boxes to climb up and retrieve it.",
+          "zh": "一只黑猩猩看到够不到的香蕉，然后堆叠箱子爬上去取下来。",
+          "es": "Un chimpancé que observa un plátano fuera de su alcance y apila cajas para subir y recuperarlo.",
+          "fr": "Un chimpanzé observant une banane hors de portée et empilant des boîtes pour y grimper et la récupérer.",
+          "de": "Ein Schimpanse beobachtet eine unerreichbare Banane und stapelt Kisten, um hinaufzuklettern und sie zu holen.",
+          "ja": "チンパンジーが手の届かないバナナを見て、箱を積み重ねて登り、それを取り戻す。"
+        },
+        "feedback": {
+          "en": "This is an example of problem-solving behavior, where the animal devises a new method to overcome an obstacle.",
+          "zh": "这是解决问题行为的一个例子，动物设计出新方法来克服障碍。",
+          "es": "Este es un ejemplo de comportamiento de resolución de problemas, donde el animal ideó un nuevo método para superar un obstáculo.",
+          "fr": "Ceci est un exemple de comportement de résolution de problèmes, où l'animal conçoit une nouvelle méthode pour surmonter un obstacle.",
+          "de": "Dies ist ein Beispiel für Problemlösungsverhalten, bei dem das Tier eine neue Methode entwickelt, um ein Hindernis zu überwinden.",
+          "ja": "これは問題解決行動の一例であり、動物が障害を克服するための新しい方法を考案するものです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A raven attempting to grab food hanging by a string in flight, then changing its strategy to pulling the string while perched.",
+          "zh": "一只渡鸦试图在飞行中抓住悬挂在线上的食物，然后改变策略，栖息时拉线。",
+          "es": "Un cuervo que intenta agarrar comida colgada de una cuerda en vuelo, luego cambia su estrategia a tirar de la cuerda mientras está posado.",
+          "fr": "Un corbeau tentant d'attraper de la nourriture suspendue à une ficelle en vol, puis changeant sa stratégie pour tirer la ficelle en étant perché.",
+          "de": "Ein Rabe, der versucht, hängendes Futter im Flug an einem Faden zu greifen, dann seine Strategie ändert, indem er den Faden zieht, während er sitzt.",
+          "ja": "カラスが飛行中にひもで吊るされた食べ物をつかもうとし、その後戦略を変えて止まり木でひもを引く。"
+        },
+        "feedback": {
+          "en": "This is also an example of problem-solving behavior through trial and error or insight, not social learning.",
+          "zh": "这也是通过试错或顿悟解决问题行为的例子，而非社会学习。",
+          "es": "Esto también es un ejemplo de comportamiento de resolución de problemas mediante prueba y error o perspicacia, no de aprendizaje social.",
+          "fr": "C'est aussi un exemple de comportement de résolution de problèmes par essai et erreur ou par intuition, et non d'apprentissage social.",
+          "de": "Dies ist ebenfalls ein Beispiel für Problemlösungsverhalten durch Versuch und Irrtum oder Einsicht, nicht für soziales Lernen.",
+          "ja": "これもまた、試行錯誤や洞察による問題解決行動の例であり、社会学習ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A young chimpanzee learning to crack open oil palm nuts using two stones by carefully watching an elder chimpanzee perform the task.",
+          "zh": "一只小黑猩猩通过仔细观察一只年长黑猩猩完成任务，学会使用两块石头敲开油棕榈坚果。",
+          "es": "Un chimpancé joven aprendiendo a abrir nueces de palma de aceite usando dos piedras observando cuidadosamente a un chimpancé mayor realizar la tarea.",
+          "fr": "Un jeune chimpanzé apprenant à casser des noix de palme à l'aide de deux pierres en observant attentivement un chimpanzé plus âgé effectuer la tâche.",
+          "de": "Ein junger Schimpanse lernt, Ölpalmnüsse mit zwei Steinen zu knacken, indem er einem älteren Schimpansen bei der Ausführung der Aufgabe genau zusieht.",
+          "ja": "若いチンパンジーが、年長のチンパンジーが作業するのを注意深く観察することで、2つの石を使ってアブラヤシの実を割る方法を学ぶ。"
+        },
+        "feedback": {
+          "en": "This is the precise example given in the text for social learning: 'learning through observing and interpreting behaviors and their consequences.'",
+          "zh": "这正是文本中给出的社会学习的精确例子：“通过观察和解释行为及其后果进行学习”。",
+          "es": "Este es el ejemplo preciso dado en el texto para el aprendizaje social: 'aprender observando e interpretando los comportamientos y sus consecuencias'.",
+          "fr": "C'est l'exemple précis donné dans le texte pour l'apprentissage social : « apprendre en observant et en interprétant les comportements et leurs conséquences ».",
+          "de": "Dies ist genau das Beispiel, das im Text für soziales Lernen gegeben wird: „Lernen durch Beobachtung und Interpretation von Verhaltensweisen und deren Konsequenzen.“",
+          "ja": "これは、本文で社会学習の正確な例として挙げられているものです。「行動とその結果を観察し、解釈することによる学習」です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A white-crowned sparrow fledgling memorizing its species' song during a sensitive period early in life without singing it.",
+          "zh": "一只白冠麻雀幼鸟在生命早期敏感期不鸣唱的情况下记忆其物种的鸣唱。",
+          "es": "Un gorrión de corona blanca joven memorizando el canto de su especie durante un período sensible temprano en la vida sin cantarlo.",
+          "fr": "Un jeune passereau à couronne blanche mémorisant le chant de son espèce pendant une période sensible au début de sa vie sans le chanter.",
+          "de": "Ein junger Weißkopfsperling, der den Gesang seiner Art während einer sensiblen Phase früh im Leben auswendig lernt, ohne ihn zu singen.",
+          "ja": "シラフタムレドリのヒナが、生後初期の感受性期間中にさえずることなく、その種の歌を記憶する。"
+        },
+        "feedback": {
+          "en": "While this is a form of learned behavior involving listening to others, the text specifically defines 'social learning' with the chimpanzee observation example, emphasizing active observation and interpretation of behaviors leading to problem-solving, distinct from song memorization.",
+          "zh": "虽然这是一种涉及倾听他人的学习行为，但文本明确将“社会学习”定义为黑猩猩的观察示例，强调主动观察和解释导致问题解决的行为，这与歌曲记忆不同。",
+          "es": "Aunque esta es una forma de comportamiento aprendido que implica escuchar a otros, el texto define específicamente el 'aprendizaje social' con el ejemplo de la observación del chimpancé, enfatizando la observación activa y la interpretación de los comportamientos que conducen a la resolución de problemas, distinto de la memorización de canciones.",
+          "fr": "Bien qu'il s'agisse d'une forme de comportement appris impliquant l'écoute des autres, le texte définit spécifiquement l'« apprentissage social » avec l'exemple de l'observation des chimpanzés, en insistant sur l'observation active et l'interprétation des comportements menant à la résolution de problèmes, distincte de la mémorisation du chant.",
+          "de": "Obwohl dies eine Form des gelernten Verhaltens ist, die das Zuhören anderer beinhaltet, definiert der Text „soziales Lernen“ spezifisch mit dem Beispiel der Schimpansenbeobachtung, wobei aktive Beobachtung und Interpretation von Verhaltensweisen, die zur Problemlösung führen, betont werden, was sich von der Gesangs-Memorierung unterscheidet.",
+          "ja": "これは他者の話を聞くことを伴う学習行動の一形態ですが、本文では「社会学習」をチンパンジーの観察例で具体的に定義しており、問題解決につながる行動の積極的な観察と解釈を強調しており、歌の記憶とは異なります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text defines 'social learning' as 'learning through observing and interpreting behaviors and their consequences' and provides the example of 'Young wild chimpanzees, for example, learn how to crack open oil palm nuts with two stones by copying experienced chimpanzees (Figure 51.11).' Option C directly matches this example.",
+      "zh": "文本将“社会学习”定义为“通过观察和解释行为及其后果进行学习”，并提供了“例如，年幼的野生黑猩猩通过模仿有经验的黑猩猩（图51.11）学会如何用两块石头敲开油棕榈坚果”的例子。选项C直接符合此例。",
+      "es": "El texto define el 'aprendizaje social' como 'aprender observando e interpretando los comportamientos y sus consecuencias' y proporciona el ejemplo de 'Los chimpancés jóvenes salvajes, por ejemplo, aprenden a abrir nueces de palma de aceite con dos piedras copiando a chimpancés experimentados (Figura 51.11)'. La opción C coincide directamente con este ejemplo.",
+      "fr": "Le texte définit l'« apprentissage social » comme « apprendre en observant et en interprétant les comportements et leurs conséquences » et donne l'exemple de « Jeunes chimpanzés sauvages, par exemple, apprennent à casser des noix de palme à l'aide de deux pierres en copiant des chimpanzés expérimentés (Figure 51.11) ». L'option C correspond directement à cet exemple.",
+      "de": "Der Text definiert „soziales Lernen“ als „Lernen durch Beobachtung und Interpretation von Verhaltensweisen und deren Konsequenzen“ und liefert das Beispiel: „Junge wilde Schimpansen lernen zum Beispiel, wie man Ölpalmnüsse mit zwei Steinen knackt, indem sie erfahrene Schimpansen kopieren (Abbildung 51.11).“ Option C stimmt direkt mit diesem Beispiel überein.",
+      "ja": "本文では、「社会学習」を「行動とその結果を観察し、解釈することによる学習」と定義し、「例えば、若い野生チンパンジーは、経験豊富なチンパンジーを模倣することで、2つの石を使ってアブラヤシの実を割る方法を学ぶ（図51.11）」という例を挙げています。選択肢Cはこの例と直接一致します。"
+    }
+  }
+]

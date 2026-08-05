@@ -1,0 +1,371 @@
+[
+  {
+    "page_number": 469,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement accurately describes the movement of DNA molecules during gel electrophoresis?",
+      "zh": "关于凝胶电泳中DNA分子移动的描述，哪一项是准确的？",
+      "es": "¿Qué afirmación describe con precisión el movimiento de las moléculas de ADN durante la electroforesis en gel?",
+      "fr": "Quelle affirmation décrit avec précision le mouvement des molécules d'ADN lors de l'électrophorèse sur gel ?",
+      "de": "Welche Aussage beschreibt die Bewegung von DNA-Molekülen während der Gelelektrophorese genau?",
+      "ja": "ゲル電気泳動中のDNA分子の動きを正確に記述しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Negatively charged DNA moves towards the cathode (negative electrode), and shorter molecules move faster.",
+          "zh": "带负电荷的DNA向阴极（负电极）移动，较短的分子移动更快。",
+          "es": "El ADN con carga negativa se mueve hacia el cátodo (electrodo negativo) y las moléculas más cortas se mueven más rápido.",
+          "fr": "L'ADN chargé négativement se déplace vers la cathode (électrode négative), et les molécules plus courtes se déplacent plus rapidement.",
+          "de": "Negativ geladene DNA bewegt sich zur Kathode (negative Elektrode), und kürzere Moleküle bewegen sich schneller.",
+          "ja": "負に帯電したDNAは陰極（負電極）に向かって移動し、短い分子ほど速く移動します。"
+        },
+        "feedback": {
+          "en": "DNA is negatively charged, so it moves towards the positive electrode (anode), not the cathode.",
+          "zh": "DNA带负电荷，因此它会向正电极（阳极）移动，而不是阴极。",
+          "es": "El ADN tiene carga negativa, por lo que se mueve hacia el electrodo positivo (ánodo), no hacia el cátodo.",
+          "fr": "L'ADN est chargé négativement, il se déplace donc vers l'électrode positive (anode), et non vers la cathode.",
+          "de": "DNA ist negativ geladen, daher bewegt sie sich zur positiven Elektrode (Anode), nicht zur Kathode.",
+          "ja": "DNAは負に帯電しているため、正極（陽極）に向かって移動し、陰極には移動しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Positively charged DNA moves towards the anode (positive electrode), and longer molecules move faster.",
+          "zh": "带正电荷的DNA向阳极（正电极）移动，较长的分子移动更快。",
+          "es": "El ADN con carga positiva se mueve hacia el ánodo (electrodo positivo) y las moléculas más largas se mueven más rápido.",
+          "fr": "L'ADN chargé positivement se déplace vers l'anode (électrode positive), et les molécules plus longues se déplacent plus rapidement.",
+          "de": "Positiv geladene DNA bewegt sich zur Anode (positive Elektrode), und längere Moleküle bewegen sich schneller.",
+          "ja": "正に帯電したDNAは陽極（正電極）に向かって移動し、長い分子ほど速く移動します。"
+        },
+        "feedback": {
+          "en": "DNA is negatively charged, not positively charged, and shorter molecules move faster through the gel.",
+          "zh": "DNA带负电荷，而不是正电荷，并且较短的分子在凝胶中移动得更快。",
+          "es": "El ADN tiene carga negativa, no positiva, y las moléculas más cortas se mueven más rápido a través del gel.",
+          "fr": "L'ADN est chargé négativement, et non positivement, et les molécules plus courtes se déplacent plus rapidement à travers le gel.",
+          "de": "DNA ist negativ und nicht positiv geladen, und kürzere Moleküle bewegen sich schneller durch das Gel.",
+          "ja": "DNAは負に帯電しており、正に帯電しているわけではありません。また、短い分子ほどゲル中を速く移動します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Negatively charged DNA moves towards the anode (positive electrode), and shorter molecules move faster.",
+          "zh": "带负电荷的DNA向阳极（正电极）移动，较短的分子移动更快。",
+          "es": "El ADN con carga negativa se mueve hacia el ánodo (electrodo positivo) y las moléculas más cortas se mueven más rápido.",
+          "fr": "L'ADN chargé négativement se déplace vers l'anode (électrode positive), et les molécules plus courtes se déplacent plus rapidement.",
+          "de": "Negativ geladene DNA bewegt sich zur Anode (positive Elektrode), und kürzere Moleküle bewegen sich schneller.",
+          "ja": "負に帯電したDNAは陽極（正電極）に向かって移動し、短い分子ほど速く移動します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Positively charged DNA moves towards the cathode (negative electrode), and longer molecules move faster.",
+          "zh": "带正电荷的DNA向阴极（负电极）移动，较长的分子移动更快。",
+          "es": "El ADN con carga positiva se mueve hacia el cátodo (electrodo negativo) y las moléculas más largas se mueven más rápido.",
+          "fr": "L'ADN chargé positivement se déplace vers la cathode (électrode négative), et les molécules plus longues se déplacent plus rapidement.",
+          "de": "Positiv geladene DNA bewegt sich zur Kathode (negative Elektrode), und längere Moleküle bewegen sich schneller.",
+          "ja": "正に帯電したDNAは陰極（負電極）に向かって移動し、長い分子ほど速く移動します。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "DNA molecules have a net negative charge due to their phosphate backbone, causing them to migrate towards the positive electrode (anode) in an electric field. The gel acts as a molecular sieve, and shorter DNA fragments encounter less resistance, allowing them to travel faster and farther through the gel than longer fragments.",
+      "zh": "DNA分子由于其磷酸骨架而带有净负电荷，因此在电场中会向正电极（阳极）迁移。凝胶起到分子筛的作用，较短的DNA片段遇到的阻力较小，因此比长片段在凝胶中移动得更快、更远。",
+      "es": "Las moléculas de ADN tienen una carga neta negativa debido a su esqueleto de fosfato, lo que las hace migrar hacia el electrodo positivo (ánodo) en un campo eléctrico. El gel actúa como un tamiz molecular, y los fragmentos de ADN más cortos encuentran menos resistencia, lo que les permite viajar más rápido y más lejos a través del gel que los fragmentos más largos.",
+      "fr": "Les molécules d'ADN ont une charge nette négative due à leur squelette phosphate, ce qui les fait migrer vers l'électrode positive (anode) dans un champ électrique. Le gel agit comme un tamis moléculaire, et les fragments d'ADN plus courts rencontrent moins de résistance, leur permettant de voyager plus vite et plus loin à travers le gel que les fragments plus longs.",
+      "de": "DNA-Moleküle besitzen aufgrund ihres Phosphat-Rückgrats eine negative Nettoladung, wodurch sie in einem elektrischen Feld zur positiven Elektrode (Anode) wandern. Das Gel wirkt als Molekularsieb, und kürzere DNA-Fragmente erfahren weniger Widerstand, wodurch sie schneller und weiter durch das Gel wandern können als längere Fragmente.",
+      "ja": "DNA分子はリン酸骨格により全体的に負電荷を帯びており、電場中で正極（陽極）に向かって移動します。ゲルは分子ふるいとして機能し、短いDNA断片は抵抗が少ないため、長い断片よりもゲル中を速く、遠くまで移動できます。"
+    }
+  },
+  {
+    "page_number": 469,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the correct order of the three main steps in a single cycle of the Polymerase Chain Reaction (PCR)?",
+      "zh": "聚合酶链反应（PCR）单次循环的三个主要步骤的正确顺序是什么？",
+      "es": "¿Cuál es el orden correcto de los tres pasos principales en un solo ciclo de la Reacción en Cadena de la Polimerasa (PCR)?",
+      "fr": "Quel est l'ordre correct des trois étapes principales d'un seul cycle de la réaction en chaîne par polymérase (PCR) ?",
+      "de": "Was ist die richtige Reihenfolge der drei Hauptschritte in einem einzelnen Zyklus der Polymerase-Kettenreaktion (PCR)?",
+      "ja": "ポリメラーゼ連鎖反応（PCR）の1サイクルにおける3つの主要なステップの正しい順序は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Annealing, Denaturation, Extension",
+          "zh": "退火、变性、延伸",
+          "es": "Hibridación, Desnaturalización, Extensión",
+          "fr": "Hybridation, Dénaturation, Extension",
+          "de": "Annealing, Denaturierung, Extension",
+          "ja": "アニーリング、変性、伸長"
+        },
+        "feedback": {
+          "en": "Denaturation is the first step, where DNA strands are separated by heat.",
+          "zh": "变性是第一步，DNA链通过加热分离。",
+          "es": "La desnaturalización es el primer paso, donde las hebras de ADN se separan por calor.",
+          "fr": "La dénaturation est la première étape, où les brins d'ADN sont séparés par la chaleur.",
+          "de": "Denaturierung ist der erste Schritt, bei dem die DNA-Stränge durch Hitze getrennt werden.",
+          "ja": "変性は最初のステップであり、DNA鎖が熱によって分離されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Denaturation, Annealing, Extension",
+          "zh": "变性、退火、延伸",
+          "es": "Desnaturalización, Hibridación, Extensión",
+          "fr": "Dénaturation, Hybridation, Extension",
+          "de": "Denaturierung, Annealing, Extension",
+          "ja": "変性、アニーリング、伸長"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Extension, Denaturation, Annealing",
+          "zh": "延伸、变性、退火",
+          "es": "Extensión, Desnaturalización, Hibridación",
+          "fr": "Extension, Dénaturation, Hybridation",
+          "de": "Extension, Denaturierung, Annealing",
+          "ja": "伸長、変性、アニーリング"
+        },
+        "feedback": {
+          "en": "Extension is the final step in a PCR cycle, not the first.",
+          "zh": "延伸是PCR循环的最后一步，而不是第一步。",
+          "es": "La extensión es el paso final en un ciclo de PCR, no el primero.",
+          "fr": "L'extension est la dernière étape d'un cycle de PCR, pas la première.",
+          "de": "Die Extension ist der letzte Schritt in einem PCR-Zyklus, nicht der erste.",
+          "ja": "伸長はPCRサイクルの最終段階であり、最初の段階ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Denaturation, Extension, Annealing",
+          "zh": "变性、延伸、退火",
+          "es": "Desnaturalización, Extensión, Hibridación",
+          "fr": "Dénaturation, Extension, Hybridation",
+          "de": "Denaturierung, Extension, Annealing",
+          "ja": "変性、伸長、アニーリング"
+        },
+        "feedback": {
+          "en": "Annealing (primer binding) must occur after denaturation and before extension.",
+          "zh": "退火（引物结合）必须发生在变性之后和延伸之前。",
+          "es": "La hibridación (unión del cebador) debe ocurrir después de la desnaturalización y antes de la extensión.",
+          "fr": "L'hybridation (liaison de l'amorce) doit avoir lieu après la dénaturation et avant l'extension.",
+          "de": "Das Annealing (Primerbindung) muss nach der Denaturierung und vor der Extension erfolgen.",
+          "ja": "アニーリング（プライマー結合）は、変性後に伸長の前に起こる必要があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "A single PCR cycle consists of three main steps: 1) Denaturation, where the DNA is heated to separate the double strands; 2) Annealing, where the temperature is lowered to allow primers to bind to the template DNA; and 3) Extension, where DNA polymerase synthesizes new DNA strands.",
+      "zh": "单个PCR循环包含三个主要步骤：1) 变性，DNA被加热以分离双链；2) 退火，温度降低以允许引物与模板DNA结合；3) 延伸，DNA聚合酶合成新的DNA链。",
+      "es": "Un solo ciclo de PCR consta de tres pasos principales: 1) Desnaturalización, donde el ADN se calienta para separar las doble hebras; 2) Hibridación, donde la temperatura se baja para permitir que los cebadores se unan al ADN molde; y 3) Extensión, donde la ADN polimerasa sintetiza nuevas hebras de ADN.",
+      "fr": "Un seul cycle de PCR se compose de trois étapes principales : 1) Dénaturation, où l'ADN est chauffé pour séparer les doubles brins ; 2) Hybridation, où la température est abaissée pour permettre aux amorces de se lier à l'ADN matrice ; et 3) Extension, où l'ADN polymérase synthétise de nouveaux brins d'ADN.",
+      "de": "Ein einzelner PCR-Zyklus besteht aus drei Hauptschritten: 1) Denaturierung, bei der die DNA erhitzt wird, um die Doppelstränge zu trennen; 2) Annealing, bei dem die Temperatur gesenkt wird, damit Primer an die Matrizen-DNA binden können; und 3) Extension, bei der die DNA-Polymerase neue DNA-Stränge synthetisiert.",
+      "ja": "単一のPCRサイクルは3つの主要なステップで構成されます。1) 変性：DNAが加熱され、二本鎖が分離されます。2) アニーリング：温度が下げられ、プライマーが鋳型DNAに結合します。3) 伸長：DNAポリメラーゼが新しいDNA鎖を合成します。"
+    }
+  },
+  {
+    "page_number": 469,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A researcher constructs a recombinant plasmid by inserting a 1.5 kb gene into a 3.0 kb plasmid using a single restriction enzyme. If this recombinant plasmid is then cut with the *same* restriction enzyme and analyzed by gel electrophoresis, how many distinct DNA fragments would be observed, and what would be their approximate sizes?",
+      "zh": "一位研究人员使用一种限制酶将一个1.5 kb的基因插入到一个3.0 kb的质粒中，构建了一个重组质粒。如果这个重组质粒再用*同一种*限制酶切割，并通过凝胶电泳分析，将会观察到多少个不同的DNA片段，以及它们的近似大小是多少？",
+      "es": "Un investigador construye un plásmido recombinante insertando un gen de 1.5 kb en un plásmido de 3.0 kb utilizando una única enzima de restricción. Si este plásmido recombinante se corta luego con la *misma* enzima de restricción y se analiza mediante electroforesis en gel, ¿cuántos fragmentos de ADN distintos se observarían y cuáles serían sus tamaños aproximados?",
+      "fr": "Un chercheur construit un plasmide recombinant en insérant un gène de 1,5 kb dans un plasmide de 3,0 kb à l'aide d'une seule enzyme de restriction. Si ce plasmide recombinant est ensuite coupé avec la *même* enzyme de restriction et analysé par électrophorèse sur gel, combien de fragments d'ADN distincts seraient observés, et quelles seraient leurs tailles approximatives ?",
+      "de": "Ein Forscher konstruiert ein rekombinantes Plasmid, indem er ein 1,5 kb großes Gen mithilfe eines einzigen Restriktionsenzyms in ein 3,0 kb großes Plasmid einfügt. Wenn dieses rekombinante Plasmid dann mit dem *gleichen* Restriktionsenzym geschnitten und mittels Gelelektrophorese analysiert wird, wie viele unterschiedliche DNA-Fragmente würden beobachtet werden und welche ungefähren Größen hätten sie?",
+      "ja": "ある研究者が、1つの制限酵素を使用して1.5 kbの遺伝子を3.0 kbのプラスミドに挿入して組換えプラスミドを構築しました。この組換えプラスミドを*同じ*制限酵素で切断し、ゲル電気泳動で分析した場合、いくつの異なるDNA断片が観察され、そのおおよそのサイズはどれくらいになりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "One fragment, 4.5 kb.",
+          "zh": "一个片段，4.5 kb。",
+          "es": "Un fragmento, 4.5 kb.",
+          "fr": "Un fragment, 4,5 kb.",
+          "de": "Ein Fragment, 4,5 kb.",
+          "ja": "1つの断片、4.5 kb。"
+        },
+        "feedback": {
+          "en": "Cutting the recombinant plasmid with the same restriction enzyme that was used for insertion will separate the inserted gene from the plasmid backbone, resulting in two fragments, not one.",
+          "zh": "用插入时使用的相同限制酶切割重组质粒，会将插入的基因与质粒骨架分离，从而产生两个片段，而不是一个。",
+          "es": "Cortar el plásmido recombinante con la misma enzima de restricción utilizada para la inserción separará el gen insertado del esqueleto del plásmido, lo que resultará en dos fragmentos, no en uno.",
+          "fr": "Couper le plasmide recombinant avec la même enzyme de restriction que celle utilisée pour l'insertion séparera le gène inséré de l'échafaudage plasmidique, ce qui donnera deux fragments, et non un seul.",
+          "de": "Das Schneiden des rekombinanten Plasmids mit demselben Restriktionsenzym, das für die Insertion verwendet wurde, trennt das eingefügte Gen vom Plasmid-Backbone, was zu zwei Fragmenten und nicht zu einem führt.",
+          "ja": "組換えプラスミドを挿入に使用したのと同じ制限酵素で切断すると、挿入された遺伝子がプラスミド骨格から分離され、1つではなく2つの断片が生じます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Two fragments, 1.5 kb and 3.0 kb.",
+          "zh": "两个片段，1.5 kb 和 3.0 kb。",
+          "es": "Dos fragmentos, 1.5 kb y 3.0 kb.",
+          "fr": "Deux fragments, 1,5 kb et 3,0 kb.",
+          "de": "Zwei Fragmente, 1,5 kb und 3,0 kb.",
+          "ja": "2つの断片、1.5 kbと3.0 kb。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Two fragments, 1.5 kb and 4.5 kb.",
+          "zh": "两个片段，1.5 kb 和 4.5 kb。",
+          "es": "Dos fragmentos, 1.5 kb y 4.5 kb.",
+          "fr": "Deux fragments, 1,5 kb et 4,5 kb.",
+          "de": "Zwei Fragmente, 1,5 kb und 4,5 kb.",
+          "ja": "2つの断片、1.5 kbと4.5 kb。"
+        },
+        "feedback": {
+          "en": "The plasmid backbone would be 3.0 kb after the insert is released, not 4.5 kb. The 4.5 kb is the size of the uncut recombinant plasmid.",
+          "zh": "插入基因释放后，质粒骨架的大小应为3.0 kb，而不是4.5 kb。4.5 kb是未切割的重组质粒的大小。",
+          "es": "El esqueleto del plásmido sería de 3.0 kb después de que se libere el inserto, no de 4.5 kb. Los 4.5 kb son el tamaño del plásmido recombinante sin cortar.",
+          "fr": "L'échafaudage plasmidique serait de 3,0 kb après la libération de l'insert, et non de 4,5 kb. Le 4,5 kb est la taille du plasmide recombinant non coupé.",
+          "de": "Das Plasmid-Backbone wäre nach Freisetzung des Inserts 3,0 kb groß, nicht 4,5 kb. 4,5 kb ist die Größe des ungeschnittenen rekombinanten Plasmids.",
+          "ja": "挿入物が放出された後のプラスミド骨格は3.0 kbであり、4.5 kbではありません。4.5 kbは切断されていない組換えプラスミドのサイズです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Three fragments, 1.5 kb, 3.0 kb, and 4.5 kb.",
+          "zh": "三个片段，1.5 kb、3.0 kb 和 4.5 kb。",
+          "es": "Tres fragmentos, 1.5 kb, 3.0 kb y 4.5 kb.",
+          "fr": "Trois fragments, 1,5 kb, 3,0 kb et 4,5 kb.",
+          "de": "Drei Fragmente, 1,5 kb, 3,0 kb und 4,5 kb.",
+          "ja": "3つの断片、1.5 kb、3.0 kb、4.5 kb。"
+        },
+        "feedback": {
+          "en": "A single restriction enzyme cutting a circular plasmid with one insert will only produce two fragments: the insert and the plasmid backbone. No 4.5 kb fragment would be observed if the plasmid is cut.",
+          "zh": "一种限制酶切割一个含有一个插入片段的环状质粒，只会产生两个片段：插入片段和质粒骨架。如果质粒被切割，将不会观察到4.5 kb的片段。",
+          "es": "Una sola enzima de restricción que corta un plásmido circular con un solo inserto solo producirá dos fragmentos: el inserto y el esqueleto del plásmido. No se observaría ningún fragmento de 4.5 kb si el plásmido se corta.",
+          "fr": "Une seule enzyme de restriction coupant un plasmide circulaire avec un seul insert ne produira que deux fragments : l'insert et l'échafaudage plasmidique. Aucun fragment de 4,5 kb ne serait observé si le plasmide est coupé.",
+          "de": "Ein einzelnes Restriktionsenzym, das ein zirkuläres Plasmid mit einem Insert schneidet, erzeugt nur zwei Fragmente: das Insert und das Plasmid-Backbone. Ein 4,5 kb Fragment würde nicht beobachtet werden, wenn das Plasmid geschnitten wird.",
+          "ja": "1つのインサートを持つ環状プラスミドを1つの制限酵素で切断すると、インサートとプラスミド骨格の2つの断片のみが生成されます。プラスミドが切断された場合、4.5 kbの断片は観察されません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "When a circular plasmid (3.0 kb) has a gene (1.5 kb) inserted into it using a restriction enzyme, the resulting recombinant plasmid is 4.5 kb (3.0 + 1.5). If this recombinant plasmid is then cut with the *same* restriction enzyme, the enzyme will cut at the recognition sites flanking the inserted gene, effectively excising the 1.5 kb gene from the 3.0 kb plasmid backbone. This will result in two distinct linear fragments: one of 1.5 kb (the inserted gene) and one of 3.0 kb (the plasmid backbone).",
+      "zh": "当一个环状质粒（3.0 kb）通过限制酶插入一个基因（1.5 kb）后，得到的重组质粒大小为4.5 kb（3.0 + 1.5）。如果这个重组质粒再用*同一种*限制酶切割，该酶会在插入基因两侧的识别位点进行切割，有效地将1.5 kb的基因从3.0 kb的质粒骨架中切除。这将导致产生两个不同的线性片段：一个1.5 kb（插入的基因）和一个3.0 kb（质粒骨架）。",
+      "es": "Cuando un plásmido circular (3.0 kb) tiene un gen (1.5 kb) insertado usando una enzima de restricción, el plásmido recombinante resultante es de 4.5 kb (3.0 + 1.5). Si este plásmido recombinante se corta luego con la *misma* enzima de restricción, la enzima cortará en los sitios de reconocimiento que flanquean el gen insertado, escindiendo efectivamente el gen de 1.5 kb del esqueleto del plásmido de 3.0 kb. Esto resultará en dos fragmentos lineales distintos: uno de 1.5 kb (el gen insertado) y otro de 3.0 kb (el esqueleto del plásmido).",
+      "fr": "Lorsqu'un plasmide circulaire (3,0 kb) contient un gène (1,5 kb) inséré à l'aide d'une enzyme de restriction, le plasmide recombinant résultant est de 4,5 kb (3,0 + 1,5). Si ce plasmide recombinant est ensuite coupé avec la *même* enzyme de restriction, l'enzyme coupera aux sites de reconnaissance flanquant le gène inséré, excisant ainsi le gène de 1,5 kb de l'échafaudage plasmidique de 3,0 kb. Cela entraînera deux fragments linéaires distincts : un de 1,5 kb (le gène inséré) et un de 3,0 kb (l'échafaudage plasmidique).",
+      "de": "Wenn ein zirkuläres Plasmid (3,0 kb) ein Gen (1,5 kb) mittels eines Restriktionsenzyms eingefügt bekommt, beträgt die Größe des resultierenden rekombinanten Plasmids 4,5 kb (3,0 + 1,5). Wenn dieses rekombinante Plasmid dann mit dem *gleichen* Restriktionsenzym geschnitten wird, schneidet das Enzym an den Erkennungsstellen, die das eingefügte Gen flankieren, wodurch das 1,5 kb große Gen effektiv aus dem 3,0 kb großen Plasmid-Backbone herausgeschnitten wird. Dies führt zu zwei unterschiedlichen linearen Fragmenten: einem von 1,5 kb (das eingefügte Gen) und einem von 3,0 kb (das Plasmid-Backbone).",
+      "ja": "環状プラスミド（3.0 kb）に制限酵素を用いて遺伝子（1.5 kb）を挿入すると、結果として得られる組換えプラスミドは4.5 kb（3.0 + 1.5）になります。この組換えプラスミドを*同じ*制限酵素で切断すると、酵素は挿入された遺伝子を挟む認識部位で切断し、実質的に1.5 kbの遺伝子を3.0 kbのプラスミド骨格から切り出します。これにより、1.5 kb（挿入された遺伝子）と3.0 kb（プラスミド骨格）の2つの異なる線状断片が生成されます。"
+    }
+  },
+  {
+    "page_number": 469,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 20.6 (b) and the accompanying text, what do the pink bands observed in a gel electrophoresis experiment represent?",
+      "zh": "根据图20.6 (b) 及随附文本，凝胶电泳实验中观察到的粉色条带代表什么？",
+      "es": "Según la Figura 20.6 (b) y el texto adjunto, ¿qué representan las bandas rosadas observadas en un experimento de electroforesis en gel?",
+      "fr": "Selon la Figure 20.6 (b) et le texte d'accompagnement, que représentent les bandes roses observées dans une expérience d'électrophorèse sur gel ?",
+      "de": "Was stellen die in einem Gelelektrophorese-Experiment beobachteten pinkfarbenen Banden gemäß Abbildung 20.6 (b) und dem begleitenden Text dar?",
+      "ja": "図20.6 (b) および付属のテキストによると、ゲル電気泳動実験で観察されるピンク色のバンドは何を表していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Individual DNA molecules of varying lengths.",
+          "zh": "不同长度的单个DNA分子。",
+          "es": "Moléculas de ADN individuales de diferentes longitudes.",
+          "fr": "Des molécules d'ADN individuelles de longueurs variables.",
+          "de": "Einzelne DNA-Moleküle unterschiedlicher Länge.",
+          "ja": "さまざまな長さの個々のDNA分子。"
+        },
+        "feedback": {
+          "en": "Each band corresponds to many thousands of DNA molecules, not individual ones.",
+          "zh": "每个条带对应成千上万个DNA分子，而不是单个分子。",
+          "es": "Cada banda corresponde a miles de moléculas de ADN, no a moléculas individuales.",
+          "fr": "Chaque bande correspond à des milliers de molécules d'ADN, et non à des molécules individuelles.",
+          "de": "Jede Bande entspricht vielen Tausenden von DNA-Molekülen, nicht einzelnen.",
+          "ja": "各バンドは、個々のDNA分子ではなく、数千個のDNA分子に対応します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Thousands of DNA molecules of the same length.",
+          "zh": "数千个相同长度的DNA分子。",
+          "es": "Miles de moléculas de ADN de la misma longitud.",
+          "fr": "Des milliers de molécules d'ADN de même longueur.",
+          "de": "Tausende von DNA-Molekülen gleicher Länge.",
+          "ja": "数千個の同じ長さのDNA分子。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Proteins separated by electrical charge.",
+          "zh": "按电荷分离的蛋白质。",
+          "es": "Proteínas separadas por carga eléctrica.",
+          "fr": "Des protéines séparées par charge électrique.",
+          "de": "Proteine, die nach elektrischer Ladung getrennt wurden.",
+          "ja": "電荷によって分離されたタンパク質。"
+        },
+        "feedback": {
+          "en": "Gel electrophoresis can separate proteins, but in this specific context (Figure 20.6), it is described as separating DNA molecules by length.",
+          "zh": "凝胶电泳可以分离蛋白质，但在本特定语境中（图20.6），它被描述为按长度分离DNA分子。",
+          "es": "La electroforesis en gel puede separar proteínas, pero en este contexto específico (Figura 20.6), se describe como la separación de moléculas de ADN por longitud.",
+          "fr": "L'électrophorèse sur gel peut séparer les protéines, mais dans ce contexte spécifique (Figure 20.6), elle est décrite comme séparant les molécules d'ADN par leur longueur.",
+          "de": "Gelelektrophorese kann Proteine trennen, aber in diesem spezifischen Kontext (Abbildung 20.6) wird sie als Trennung von DNA-Molekülen nach Länge beschrieben.",
+          "ja": "ゲル電気泳動はタンパク質を分離できますが、この特定の文脈（図20.6）では、DNA分子を長さで分離すると説明されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "RNA molecules that have hybridized to the gel.",
+          "zh": "与凝胶杂交的RNA分子。",
+          "es": "Moléculas de ARN que se han hibridado al gel.",
+          "fr": "Des molécules d'ARN qui se sont hybridées au gel.",
+          "de": "RNA-Moleküle, die an das Gel hybridisiert sind.",
+          "ja": "ゲルにハイブリダイズしたRNA分子。"
+        },
+        "feedback": {
+          "en": "The text specifies that DNA molecules are being separated, and there is no mention of hybridization to the gel.",
+          "zh": "文本明确指出正在分离的是DNA分子，并且没有提及与凝胶的杂交。",
+          "es": "El texto especifica que se están separando moléculas de ADN, y no se menciona la hibridación con el gel.",
+          "fr": "Le texte précise que ce sont des molécules d'ADN qui sont séparées, et il n'y a aucune mention d'hybridation au gel.",
+          "de": "Der Text besagt, dass DNA-Moleküle getrennt werden, und es gibt keine Erwähnung einer Hybridisierung mit dem Gel.",
+          "ja": "テキストではDNA分子が分離されていると明記されており、ゲルへのハイブリダイゼーションについては言及されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "According to the text accompanying Figure 20.6 (b), after the current is turned off and a DNA-binding dye is added, 'Each pink band corresponds to many thousands of DNA molecules of the same length.' This indicates that the bands are visible aggregations of DNA fragments that have traveled to the same position due to their identical length.",
+      "zh": "根据图20.6 (b) 随附的文本，在电流关闭并添加DNA结合染料后，'每个粉色条带对应数千个相同长度的DNA分子。' 这表明条带是由于其相同长度而迁移到同一位置的DNA片段的可见聚集体。",
+      "es": "Según el texto que acompaña a la Figura 20.6 (b), después de apagar la corriente y añadir un colorante que se une al ADN, 'Cada banda rosada corresponde a miles de moléculas de ADN de la misma longitud'. Esto indica que las bandas son agregaciones visibles de fragmentos de ADN que han viajado a la misma posición debido a su longitud idéntica.",
+      "fr": "Selon le texte accompagnant la Figure 20.6 (b), après l'arrêt du courant et l'ajout d'un colorant se liant à l'ADN, « Chaque bande rose correspond à plusieurs milliers de molécules d'ADN de même longueur ». Cela indique que les bandes sont des agrégations visibles de fragments d'ADN qui ont migré vers la même position en raison de leur longueur identique.",
+      "de": "Laut dem Text zu Abbildung 20.6 (b) entspricht nach dem Abschalten des Stroms und der Zugabe eines DNA-bindenden Farbstoffs 'Jedes pinkfarbene Band vielen Tausenden von DNA-Molekülen derselben Länge.' Dies deutet darauf hin, dass die Banden sichtbare Aggregationen von DNA-Fragmenten sind, die aufgrund ihrer identischen Länge an dieselbe Position gewandert sind.",
+      "ja": "図20.6 (b) に付属するテキストによると、電流を止めてDNA結合色素を加えた後、「各ピンク色のバンドは、同じ長さの数千のDNA分子に対応する」とあります。これは、バンドが同じ長であるために同じ位置に移動したDNA断片の目に見える集合体であることを示しています。"
+    }
+  }
+]

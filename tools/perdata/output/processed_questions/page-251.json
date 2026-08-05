@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 251,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "How many molecules of CO2, ATP, and NADPH are required to synthesize one molecule of glucose via the Calvin cycle?",
+      "zh": "通过卡尔文循环合成一分子葡萄糖需要多少分子CO2、ATP和NADPH？",
+      "es": "¿Cuántas moléculas de CO2, ATP y NADPH se requieren para sintetizar una molécula de glucosa a través del ciclo de Calvin?",
+      "fr": "Combien de molécules de CO2, d'ATP et de NADPH sont nécessaires pour synthétiser une molécule de glucose via le cycle de Calvin ?",
+      "de": "Wie viele Moleküle CO2, ATP und NADPH werden benötigt, um ein Glukosemolekül über den Calvin-Zyklus zu synthetisieren?",
+      "ja": "カルビン回路を介して1分子のグルコースを合成するには、CO2、ATP、NADPHがそれぞれ何分子必要ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "3 CO2, 9 ATP, 6 NADPH",
+          "zh": "3个CO2, 9个ATP, 6个NADPH",
+          "es": "3 CO2, 9 ATP, 6 NADPH",
+          "fr": "3 CO2, 9 ATP, 6 NADPH",
+          "de": "3 CO2, 9 ATP, 6 NADPH",
+          "ja": "CO2 3個、ATP 9個、NADPH 6個"
+        },
+        "feedback": {
+          "en": "This represents the requirements for one G3P molecule, not one glucose molecule.",
+          "zh": "这代表的是合成一分子G3P所需的量，而不是一分子葡萄糖。",
+          "es": "Esto representa los requisitos para una molécula de G3P, no para una molécula de glucosa.",
+          "fr": "Cela représente les besoins pour une molécule de G3P, et non pour une molécule de glucose.",
+          "de": "Dies stellt den Bedarf für ein G3P-Molekül dar, nicht für ein Glukosemolekül.",
+          "ja": "これはG3P 1分子に必要な量であり、グルコース1分子に必要な量ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "6 CO2, 18 ATP, 12 NADPH",
+          "zh": "6个CO2, 18个ATP, 12个NADPH",
+          "es": "6 CO2, 18 ATP, 12 NADPH",
+          "fr": "6 CO2, 18 ATP, 12 NADPH",
+          "de": "6 CO2, 18 ATP, 12 NADPH",
+          "ja": "CO2 6個、ATP 18個、NADPH 12個"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "6 CO2, 9 ATP, 6 NADPH",
+          "zh": "6个CO2, 9个ATP, 6个NADPH",
+          "es": "6 CO2, 9 ATP, 6 NADPH",
+          "fr": "6 CO2, 9 ATP, 6 NADPH",
+          "de": "6 CO2, 9 ATP, 6 NADPH",
+          "ja": "CO2 6個、ATP 9個、NADPH 6個"
+        },
+        "feedback": {
+          "en": "The ATP and NADPH requirements are incorrect for glucose synthesis.",
+          "zh": "合成葡萄糖所需的ATP和NADPH数量不正确。",
+          "es": "Los requisitos de ATP y NADPH son incorrectos para la síntesis de glucosa.",
+          "fr": "Les besoins en ATP et NADPH sont incorrects pour la synthèse du glucose.",
+          "de": "Der ATP- und NADPH-Bedarf für die Glukosesynthese ist falsch.",
+          "ja": "グルコース合成に必要なATPとNADPHの量が間違っています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "1 CO2, 9 ATP, 6 NADPH",
+          "zh": "1个CO2, 9个ATP, 6个NADPH",
+          "es": "1 CO2, 9 ATP, 6 NADPH",
+          "fr": "1 CO2, 9 ATP, 6 NADPH",
+          "de": "1 CO2, 9 ATP, 6 NADPH",
+          "ja": "CO2 1個、ATP 9個、NADPH 6個"
+        },
+        "feedback": {
+          "en": "The CO2 requirement is incorrect for glucose synthesis.",
+          "zh": "合成葡萄糖所需的CO2数量不正确。",
+          "es": "El requisito de CO2 es incorrecto para la síntesis de glucosa.",
+          "fr": "Le besoin en CO2 est incorrect pour la synthèse du glucose.",
+          "de": "Der CO2-Bedarf für die Glukosesynthese ist falsch.",
+          "ja": "グルコース合成に必要なCO2の量が間違っています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "According to the text, 1 molecule of G3P requires 3 CO2, 9 ATP, and 6 NADPH. Since 1 molecule of glucose is synthesized from 2 molecules of G3P, the total requirements are: 2 * 3 CO2 = 6 CO2; 2 * 9 ATP = 18 ATP; 2 * 6 NADPH = 12 NADPH.",
+      "zh": "根据文本描述，1分子G3P的合成需要3分子CO2、9分子ATP和6分子NADPH。由于1分子葡萄糖是由2分子G3P合成的，因此总共需要：2 * 3 CO2 = 6 CO2；2 * 9 ATP = 18 ATP；2 * 6 NADPH = 12 NADPH。",
+      "es": "Según el texto, 1 molécula de G3P requiere 3 CO2, 9 ATP y 6 NADPH. Dado que 1 molécula de glucosa se sintetiza a partir de 2 moléculas de G3P, los requisitos totales son: 2 * 3 CO2 = 6 CO2; 2 * 9 ATP = 18 ATP; 2 * 6 NADPH = 12 NADPH.",
+      "fr": "Selon le texte, 1 molécule de G3P nécessite 3 CO2, 9 ATP et 6 NADPH. Puisqu'une molécule de glucose est synthétisée à partir de 2 molécules de G3P, les besoins totaux sont : 2 * 3 CO2 = 6 CO2 ; 2 * 9 ATP = 18 ATP ; 2 * 6 NADPH = 12 NADPH.",
+      "de": "Laut Text benötigt 1 G3P-Molekül 3 CO2, 9 ATP und 6 NADPH. Da 1 Glukosemolekül aus 2 G3P-Molekülen synthetisiert wird, ergeben sich die Gesamtbedarfe: 2 * 3 CO2 = 6 CO2; 2 * 9 ATP = 18 ATP; 2 * 6 NADPH = 12 NADPH.",
+      "ja": "本文によると、G3P 1分子にはCO2 3個、ATP 9個、NADPH 6個が必要です。グルコース1分子はG3P 2分子から合成されるため、合計でCO2 6個、ATP 18個、NADPH 12個が必要となります。"
+    }
+  },
+  {
+    "page_number": 251,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 10.18 and its description, what is the fate of the carbon atoms that enter the Calvin cycle, and how are the CO2 acceptor molecules regenerated?",
+      "zh": "根据图10.18及其描述，进入卡尔文循环的碳原子的最终去向是什么，以及CO2受体分子是如何再生的？",
+      "es": "Según la Figura 10.18 y su descripción, ¿cuál es el destino de los átomos de carbono que entran en el ciclo de Calvin y cómo se regeneran las moléculas aceptoras de CO2?",
+      "fr": "Selon la Figure 10.18 et sa description, quel est le devenir des atomes de carbone qui entrent dans le cycle de Calvin, et comment les molécules accepteuses de CO2 sont-elles régénérées ?",
+      "de": "Gemäß Abbildung 10.18 und ihrer Beschreibung, welches Schicksal ereilt die Kohlenstoffatome, die in den Calvin-Zyklus eintreten, und wie werden die CO2-Akzeptormoleküle regeneriert?",
+      "ja": "図10.18とその説明によると、カルビン回路に入った炭素原子の運命はどうなり、CO2受容体分子はどのように再生されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "3 CO2 molecules enter, 1 G3P molecule leaves as net output, and the remaining 5 molecules of G3P are used to regenerate 3 molecules of RuBP.",
+          "zh": "3分子CO2进入，1分子G3P作为净产物离开，剩余的5分子G3P用于再生3分子RuBP。",
+          "es": "Entran 3 moléculas de CO2, sale 1 molécula de G3P como producto neto, y las 5 moléculas restantes de G3P se utilizan para regenerar 3 moléculas de RuBP.",
+          "fr": "3 molécules de CO2 entrent, 1 molécule de G3P sort comme produit net, et les 5 molécules restantes de G3P sont utilisées pour régénérer 3 molécules de RuBP.",
+          "de": "3 CO2-Moleküle treten ein, 1 G3P-Molekül verlässt den Zyklus als Nettoausbeute, und die verbleibenden 5 G3P-Moleküle werden zur Regeneration von 3 RuBP-Molekülen verwendet.",
+          "ja": "CO2 3分子が入り、G3P 1分子が正味の産物として放出され、残りのG3P 5分子がRuBP 3分子の再生に用いられます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "6 CO2 molecules enter, 2 G3P molecules leave as net output, and 4 molecules of G3P are used to regenerate 3 molecules of RuBP.",
+          "zh": "6分子CO2进入，2分子G3P作为净产物离开，4分子G3P用于再生3分子RuBP。",
+          "es": "Entran 6 moléculas de CO2, salen 2 moléculas de G3P como producto neto, y 4 moléculas de G3P se utilizan para regenerar 3 moléculas de RuBP.",
+          "fr": "6 molécules de CO2 entrent, 2 molécules de G3P sortent comme produit net, et 4 molécules de G3P sont utilisées pour régénérer 3 molécules de RuBP.",
+          "de": "6 CO2-Moleküle treten ein, 2 G3P-Moleküle verlassen den Zyklus als Nettoausbeute, und 4 G3P-Moleküle werden zur Regeneration von 3 RuBP-Molekülen verwendet.",
+          "ja": "CO2 6分子が入り、G3P 2分子が正味の産物として放出され、G3P 4分子がRuBP 3分子の再生に用いられます。"
+        },
+        "feedback": {
+          "en": "The number of CO2 entering and G3P leaving, as well as the molecules used for regeneration, are incorrect.",
+          "zh": "进入的CO2和离开的G3P数量以及用于再生的分子数量均不正确。",
+          "es": "El número de CO2 que entra y de G3P que sale, así como las moléculas utilizadas para la regeneración, son incorrectos.",
+          "fr": "Le nombre de CO2 entrant et de G3P sortant, ainsi que les molécules utilisées pour la régénération, sont incorrects.",
+          "de": "Die Anzahl der eintretenden CO2 und austretenden G3P sowie der für die Regeneration verwendeten Moleküle ist falsch.",
+          "ja": "入るCO2の数と出るG3Pの数、および再生に使用される分子の数が間違っています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "3 CO2 molecules enter, 2 G3P molecules leave as net output, and 4 molecules of G3P are used to regenerate 5 molecules of RuBP.",
+          "zh": "3分子CO2进入，2分子G3P作为净产物离开，4分子G3P用于再生5分子RuBP。",
+          "es": "Entran 3 moléculas de CO2, salen 2 moléculas de G3P como producto neto, y 4 moléculas de G3P se utilizan para regenerar 5 moléculas de RuBP.",
+          "fr": "3 molécules de CO2 entrent, 2 molécules de G3P sortent comme produit net, et 4 molécules de G3P sont utilisées pour régénérer 5 molécules de RuBP.",
+          "de": "3 CO2-Moleküle treten ein, 2 G3P-Moleküle verlassen den Zyklus als Nettoausbeute, und 4 G3P-Moleküle werden zur Regeneration von 5 RuBP-Molekülen verwendet.",
+          "ja": "CO2 3分子が入り、G3P 2分子が正味の産物として放出され、G3P 4分子がRuBP 5分子の再生に用いられます。"
+        },
+        "feedback": {
+          "en": "The number of G3P leaving and the regeneration process are incorrect.",
+          "zh": "离开的G3P数量和再生过程不正确。",
+          "es": "El número de G3P que sale y el proceso de regeneración son incorrectos.",
+          "fr": "Le nombre de G3P sortant et le processus de régénération sont incorrects.",
+          "de": "Die Anzahl der austretenden G3P und der Regenerationsprozess sind falsch.",
+          "ja": "放出されるG3Pの数と再生プロセスが間違っています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "3 CO2 molecules enter, 1 G3P molecule leaves as net output, and 6 molecules of G3P are used to regenerate 3 molecules of RuBP.",
+          "zh": "3分子CO2进入，1分子G3P作为净产物离开，6分子G3P用于再生3分子RuBP。",
+          "es": "Entran 3 moléculas de CO2, sale 1 molécula de G3P como producto neto, y 6 moléculas de G3P se utilizan para regenerar 3 moléculas de RuBP.",
+          "fr": "3 molécules de CO2 entrent, 1 molécule de G3P sort comme produit net, et 6 molécules de G3P sont utilisées pour régénérer 3 molécules de RuBP.",
+          "de": "3 CO2-Moleküle treten ein, 1 G3P-Molekül verlässt den Zyklus als Nettoausbeute, und 6 G3P-Moleküle werden zur Regeneration von 3 RuBP-Molekülen verwendet.",
+          "ja": "CO2 3分子が入り、G3P 1分子が正味の産物として放出され、G3P 6分子がRuBP 3分子の再生に用いられます。"
+        },
+        "feedback": {
+          "en": "The number of G3P used for regeneration is incorrect; only 5 G3P are available for regeneration after one G3P leaves.",
+          "zh": "用于再生的G3P数量不正确；在1分子G3P离开后，只有5分子G3P可用于再生。",
+          "es": "El número de G3P utilizado para la regeneración es incorrecto; solo 5 G3P están disponibles para la regeneración después de que una G3P sale.",
+          "fr": "Le nombre de G3P utilisé pour la régénération est incorrect ; seulement 5 G3P sont disponibles pour la régénération après qu'une molécule de G3P soit sortie.",
+          "de": "Die Anzahl der für die Regeneration verwendeten G3P ist falsch; nur 5 G3P stehen nach dem Austritt eines G3P für die Regeneration zur Verfügung.",
+          "ja": "再生に使用されるG3Pの数が間違っています。G3P 1分子が放出された後、再生に利用できるG3Pは5分子のみです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Figure 10.18 shows that 3 CO2 molecules enter the cycle. The text states that for every 3 molecules of CO2 that enter, the net output is one molecule of G3P. The diagram also illustrates that 5 molecules of G3P are rearranged to regenerate 3 molecules of RuBP, the CO2 acceptor.",
+      "zh": "图10.18显示有3分子CO2进入循环。文本指出，每3分子CO2进入循环，净产物是1分子G3P。图表还说明，5分子G3P被重新排列以再生3分子RuBP，即CO2受体。",
+      "es": "La Figura 10.18 muestra que entran 3 moléculas de CO2 al ciclo. El texto afirma que por cada 3 moléculas de CO2 que entran, el producto neto es una molécula de G3P. El diagrama también ilustra que 5 moléculas de G3P se reorganizan para regenerar 3 moléculas de RuBP, el aceptor de CO2.",
+      "fr": "La Figure 10.18 montre que 3 molécules de CO2 entrent dans le cycle. Le texte indique que pour chaque 3 molécules de CO2 qui entrent, le produit net est une molécule de G3P. Le schéma illustre également que 5 molécules de G3P sont réarrangées pour régénérer 3 molécules de RuBP, l'accepteur de CO2.",
+      "de": "Abbildung 10.18 zeigt, dass 3 CO2-Moleküle in den Zyklus eintreten. Der Text besagt, dass für jeweils 3 eintretende CO2-Moleküle die Nettoausbeute ein G3P-Molekül ist. Das Diagramm veranschaulicht auch, dass 5 G3P-Moleküle umgeordnet werden, um 3 RuBP-Moleküle, den CO2-Akzeptor, zu regenerieren.",
+      "ja": "図10.18によると、CO2 3分子が回路に入ります。本文には、CO2 3分子が入るごとに、正味の産物としてG3P 1分子が生成されるとあります。図もまた、G3P 5分子が再配列されてCO2受容体であるRuBP 3分子が再生されることを示しています。"
+    }
+  },
+  {
+    "page_number": 251,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A specific poison inhibits the enzyme rubisco, preventing carbon fixation in the Calvin cycle. What immediate and long-term effects would this have on the overall process of photosynthesis, including the light reactions?",
+      "zh": "一种特定的毒素抑制了Rubisco酶，从而阻止了卡尔文循环中的碳固定。这会对光合作用的整体过程，包括光反应，产生哪些即时和长期的影响？",
+      "es": "Un veneno específico inhibe la enzima rubisco, impidiendo la fijación de carbono en el ciclo de Calvin. ¿Qué efectos inmediatos y a largo plazo tendría esto en el proceso general de la fotosíntesis, incluyendo las reacciones lumínicas?",
+      "fr": "Un poison spécifique inhibe l'enzyme rubisco, empêchant la fixation du carbone dans le cycle de Calvin. Quels effets immédiats et à long terme cela aurait-il sur l'ensemble du processus de photosynthèse, y compris les réactions lumineuses ?",
+      "de": "Ein spezifisches Gift hemmt das Enzym Rubisco und verhindert so die Kohlenstofffixierung im Calvin-Zyklus. Welche unmittelbaren und langfristigen Auswirkungen hätte dies auf den gesamten Prozess der Photosynthese, einschließlich der Lichtreaktionen?",
+      "ja": "特定の毒素がRubisco酵素を阻害し、カルビン回路における炭素固定を妨げるとします。これは、光反応を含む光合成の全体的なプロセスに、どのような即時的および長期的な影響を与えますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The Calvin cycle would cease due to lack of carbon fixation. Consequently, the consumption of ATP and NADPH would stop, leading to their accumulation and a halt in the regeneration of ADP and NADP+, which would then inhibit the light reactions.",
+          "zh": "由于碳固定停止，卡尔文循环将停止。因此，ATP和NADPH的消耗将停止，导致其积累并阻碍ADP和NADP+的再生，进而抑制光反应。",
+          "es": "El ciclo de Calvin cesaría debido a la falta de fijación de carbono. En consecuencia, el consumo de ATP y NADPH se detendría, lo que llevaría a su acumulación y a la interrupción de la regeneración de ADP y NADP+, lo que a su vez inhibiría las reacciones lumínicas.",
+          "fr": "Le cycle de Calvin cesserait en raison du manque de fixation du carbone. Par conséquent, la consommation d'ATP et de NADPH s'arrêterait, entraînant leur accumulation et un arrêt de la régénération de l'ADP et du NADP+, ce qui inhiberait alors les réactions lumineuses.",
+          "de": "Der Calvin-Zyklus würde aufgrund fehlender Kohlenstofffixierung zum Erliegen kommen. Folglich würde der Verbrauch von ATP und NADPH stoppen, was zu deren Akkumulation und einem Stillstand der Regeneration von ADP und NADP+ führen würde, was wiederum die Lichtreaktionen hemmen würde.",
+          "ja": "炭素固定ができないため、カルビン回路は停止します。その結果、ATPとNADPHの消費が止まり、これらが蓄積してADPとNADP+の再生が停止し、ひいては光反応が阻害されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The Calvin cycle would stop, but the light reactions would continue to produce ATP and NADPH indefinitely as they are independent processes.",
+          "zh": "卡尔文循环会停止，但光反应会继续无限期地产生ATP和NADPH，因为它们是独立的过程。",
+          "es": "El ciclo de Calvin se detendría, pero las reacciones lumínicas continuarían produciendo ATP y NADPH indefinidamente ya que son procesos independientes.",
+          "fr": "Le cycle de Calvin s'arrêterait, mais les réactions lumineuses continueraient à produire de l'ATP et du NADPH indéfiniment car ce sont des processus indépendants.",
+          "de": "Der Calvin-Zyklus würde stoppen, aber die Lichtreaktionen würden weiterhin ATP und NADPH unbegrenzt produzieren, da sie unabhängige Prozesse sind.",
+          "ja": "カルビン回路は停止しますが、光反応は独立したプロセスであるため、ATPとNADPHを無期限に生成し続けます。"
+        },
+        "feedback": {
+          "en": "Light reactions and the Calvin cycle are interdependent; ATP and NADPH accumulation would inhibit light reactions due to lack of ADP and NADP+ regeneration.",
+          "zh": "光反应和卡尔文循环是相互依存的；ATP和NADPH的积累会导致ADP和NADP+再生不足，从而抑制光反应。",
+          "es": "Las reacciones lumínicas y el ciclo de Calvin son interdependientes; la acumulación de ATP y NADPH inhibiría las reacciones lumínicas debido a la falta de regeneración de ADP y NADP+.",
+          "fr": "Les réactions lumineuses et le cycle de Calvin sont interdépendants ; l'accumulation d'ATP et de NADPH inhiberait les réactions lumineuses en raison du manque de régénération d'ADP et de NADP+.",
+          "de": "Lichtreaktionen und Calvin-Zyklus sind voneinander abhängig; ATP- und NADPH-Anreicherung würde die Lichtreaktionen aufgrund mangelnder ADP- und NADP+-Regeneration hemmen.",
+          "ja": "光反応とカルビン回路は相互に依存しています。ATPとNADPHの蓄積は、ADPとNADP+の再生不足により光反応を阻害します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The light reactions would accelerate to compensate for the inhibited Calvin cycle, leading to an overproduction of ATP and NADPH.",
+          "zh": "光反应会加速以补偿被抑制的卡尔文循环，导致ATP和NADPH的过量生产。",
+          "es": "Las reacciones lumínicas se acelerarían para compensar el ciclo de Calvin inhibido, lo que llevaría a una sobreproducción de ATP y NADPH.",
+          "fr": "Les réactions lumineuses s'accéléreraient pour compenser le cycle de Calvin inhibé, entraînant une surproduction d'ATP et de NADPH.",
+          "de": "Die Lichtreaktionen würden sich beschleunigen, um den gehemmten Calvin-Zyklus zu kompensieren, was zu einer Überproduktion von ATP und NADPH führen würde.",
+          "ja": "光反応は、阻害されたカルビン回路を補償するために加速し、ATPとNADPHの過剰生産につながります。"
+        },
+        "feedback": {
+          "en": "Accelerating light reactions would worsen the ATP/NADPH accumulation, not compensate, and would eventually stop due to lack of substrate.",
+          "zh": "加速光反应会加剧ATP/NADPH的积累，无法补偿，最终会因底物不足而停止。",
+          "es": "Acelerar las reacciones lumínicas empeoraría la acumulación de ATP/NADPH, no la compensaría, y eventualmente se detendrían por falta de sustrato.",
+          "fr": "Accélérer les réactions lumineuses aggraverait l'accumulation d'ATP/NADPH, ne compenserait pas, et finirait par s'arrêter faute de substrat.",
+          "de": "Eine Beschleunigung der Lichtreaktionen würde die ATP/NADPH-Akkumulation verschlimmern, nicht kompensieren, und würde letztendlich aufgrund mangelnden Substrats stoppen.",
+          "ja": "光反応を加速するとATP/NADPHの蓄積が悪化し、補償にはなりません。最終的には基質不足により停止します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Only the sugar production phase of photosynthesis would be affected; ATP and NADPH would still be consumed by other cellular processes.",
+          "zh": "只有光合作用的糖生产阶段会受到影响；ATP和NADPH仍会通过其他细胞过程被消耗。",
+          "es": "Solo la fase de producción de azúcar de la fotosíntesis se vería afectada; el ATP y el NADPH seguirían siendo consumidos por otros procesos celulares.",
+          "fr": "Seule la phase de production de sucre de la photosynthèse serait affectée ; l'ATP et le NADPH seraient toujours consommés par d'autres processus cellulaires.",
+          "de": "Nur die Zuckerproduktionsphase der Photosynthese wäre betroffen; ATP und NADPH würden weiterhin von anderen zellulären Prozessen verbraucht.",
+          "ja": "光合成の糖生産段階のみが影響を受け、ATPとNADPHは他の細胞プロセスによって引き続き消費されます。"
+        },
+        "feedback": {
+          "en": "The Calvin cycle is the primary consumer of ATP and NADPH from light reactions; other cellular processes are not directly involved in this specific ATP/NADPH consumption/regeneration loop for photosynthesis.",
+          "zh": "卡尔文循环是光反应产生的ATP和NADPH的主要消费者；其他细胞过程不直接参与光合作用中特定的ATP/NADPH消耗/再生循环。",
+          "es": "El ciclo de Calvin es el principal consumidor de ATP y NADPH de las reacciones lumínicas; otros procesos celulares no están directamente involucrados en este bucle específico de consumo/regeneración de ATP/NADPH para la fotosíntesis.",
+          "fr": "Le cycle de Calvin est le principal consommateur d'ATP et de NADPH provenant des réactions lumineuses ; d'autres processus cellulaires ne sont pas directement impliqués dans cette boucle spécifique de consommation/régénération d'ATP/NADPH pour la photosynthèse.",
+          "de": "Der Calvin-Zyklus ist der Hauptverbraucher von ATP und NADPH aus den Lichtreaktionen; andere zelluläre Prozesse sind nicht direkt in diesen spezifischen ATP/NADPH-Verbrauchs-/Regenerationskreislauf für die Photosynthese involviert.",
+          "ja": "カルビン回路は光反応からのATPとNADPHの主要な消費者です。他の細胞プロセスは、光合成におけるこの特定のATP/NADPH消費/再生ループに直接関与していません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The Calvin cycle relies on ATP and NADPH produced by the light reactions. If rubisco is inhibited, carbon fixation stops, and the Calvin cycle can no longer proceed or consume ATP and NADPH. This accumulation of ATP and NADPH (and lack of ADP and NADP+ regeneration) would then create a feedback inhibition on the light reactions, effectively halting the entire photosynthesis process.",
+      "zh": "卡尔文循环依赖于光反应产生的ATP和NADPH。如果Rubisco被抑制，碳固定将停止，卡尔文循环无法继续进行或消耗ATP和NADPH。ATP和NADPH的积累（以及ADP和NADP+再生不足）将对光反应产生反馈抑制，从而有效地停止整个光合作用过程。",
+      "es": "El ciclo de Calvin depende del ATP y NADPH producidos por las reacciones lumínicas. Si la rubisco es inhibida, la fijación de carbono se detiene, y el ciclo de Calvin ya no puede proceder ni consumir ATP y NADPH. Esta acumulación de ATP y NADPH (y la falta de regeneración de ADP y NADP+) crearía entonces una inhibición por retroalimentación en las reacciones lumínicas, deteniendo efectivamente todo el proceso de fotosíntesis.",
+      "fr": "Le cycle de Calvin dépend de l'ATP et du NADPH produits par les réactions lumineuses. Si la rubisco est inhibée, la fixation du carbone s'arrête, et le cycle de Calvin ne peut plus progresser ni consommer d'ATP et de NADPH. Cette accumulation d'ATP et de NADPH (et le manque de régénération d'ADP et de NADP+) créerait alors une inhibition par rétroaction sur les réactions lumineuses, arrêtant efficacement l'ensemble du processus de photosynthèse.",
+      "de": "Der Calvin-Zyklus ist auf ATP und NADPH angewiesen, die durch die Lichtreaktionen produziert werden. Wird Rubisco gehemmt, stoppt die Kohlenstofffixierung, und der Calvin-Zyklus kann nicht mehr ablaufen oder ATP und NADPH verbrauchen. Diese Akkumulation von ATP und NADPH (und der Mangel an ADP- und NADP+-Regeneration) würde dann eine Rückkopplungshemmung der Lichtreaktionen bewirken und den gesamten Photosyntheseprozess effektiv stoppen.",
+      "ja": "カルビン回路は光反応で生成されるATPとNADPHに依存しています。Rubiscoが阻害されると、炭素固定が停止し、カルビン回路は進行できなくなり、ATPとNADPHを消費できなくなります。これによりATPとNADPHが蓄積し（ADPとNADP+の再生が不足し）、光反応にフィードバック阻害がかかり、光合成全体のプロセスが効果的に停止します。"
+    }
+  }
+]

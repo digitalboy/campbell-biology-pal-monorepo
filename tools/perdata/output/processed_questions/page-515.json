@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 515,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement accurately describes homeotic genes?",
+      "zh": "关于同源异型基因的陈述，哪一项是准确的？",
+      "es": "¿Qué afirmación describe con precisión los genes homeóticos?",
+      "fr": "Quelle affirmation décrit avec précision les gènes homéotiques ?",
+      "de": "Welche Aussage beschreibt homöotische Gene zutreffend?",
+      "ja": "ホメオティック遺伝子を正確に記述している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They encode transcription factors that regulate the expression of genes responsible for specific anatomical structures.",
+          "zh": "它们编码转录因子，这些转录因子调控负责特定解剖结构形成的基因表达。",
+          "es": "Codifican factores de transcripción que regulan la expresión de genes responsables de estructuras anatómicas específicas.",
+          "fr": "Ils codent des facteurs de transcription qui régulent l'expression des gènes responsables de structures anatomiques spécifiques.",
+          "de": "Sie kodieren Transkriptionsfaktoren, die die Expression von Genen regulieren, die für spezifische anatomische Strukturen verantwortlich sind.",
+          "ja": "それらは特定の解剖学的構造を形成する遺伝子の発現を調節する転写因子をコードします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They are found exclusively in Drosophila and other arthropods.",
+          "zh": "它们仅在果蝇和其他节肢动物中发现。",
+          "es": "Se encuentran exclusivamente en Drosophila y otros artrópodos.",
+          "fr": "Ils ne se trouvent que chez la Drosophile et d'autres arthropodes.",
+          "de": "Sie kommen ausschließlich bei Drosophila und anderen Arthropoden vor.",
+          "ja": "それらはショウジョウバエや他の節足動物にのみ見られます。"
+        },
+        "feedback": {
+          "en": "Homeotic genes are found in a wide range of animals, not exclusively in Drosophila or arthropods.",
+          "zh": "同源异型基因在多种动物中都有发现，并非仅限于果蝇或节肢动物。",
+          "es": "Los genes homeóticos se encuentran en una amplia gama de animales, no exclusivamente en Drosophila o artrópodos.",
+          "fr": "Les gènes homéotiques se trouvent chez un large éventail d'animaux, pas exclusivement chez la Drosophile ou les arthropodes.",
+          "de": "Homöotische Gene finden sich in einer Vielzahl von Tieren, nicht ausschließlich bei Drosophila oder Arthropoden.",
+          "ja": "ホメオティック遺伝子は、ショウジョウバエや節足動物に限定されず、幅広い動物に見られます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They are the only genes that contain the homeobox domain.",
+          "zh": "它们是唯一含有同源框域的基因。",
+          "es": "Son los únicos genes que contienen el dominio homeobox.",
+          "fr": "Ce sont les seuls gènes qui contiennent le domaine homéobox.",
+          "de": "Sie sind die einzigen Gene, die die Homeobox-Domäne enthalten.",
+          "ja": "それらはホメオボックスドメインを含む唯一の遺伝子です。"
+        },
+        "feedback": {
+          "en": "While homeotic genes contain the homeobox domain, other genes associated with animal development also contain this highly conserved region.",
+          "zh": "虽然同源异型基因含有同源框域，但其他与动物发育相关的基因也含有这个高度保守的区域。",
+          "es": "Aunque los genes homeóticos contienen el dominio homeobox, otros genes asociados con el desarrollo animal también contienen esta región altamente conservada.",
+          "fr": "Bien que les gènes homéotiques contiennent le domaine homéobox, d'autres gènes associés au développement animal contiennent également cette région hautement conservée.",
+          "de": "Obwohl homöotische Gene die Homeobox-Domäne enthalten, enthalten auch andere mit der Tierentwicklung assoziierte Gene diese hochkonservierte Region.",
+          "ja": "ホメオティック遺伝子にはホメオボックスドメインが含まれていますが、動物の発生に関連する他の遺伝子もこの高度に保存された領域を含んでいます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They encode proteins that form anatomical structures in the fly.",
+          "zh": "它们编码在果蝇中形成解剖结构的蛋白质。",
+          "es": "Codifican proteínas que forman estructuras anatómicas en la mosca.",
+          "fr": "Ils codent des protéines qui forment des structures anatomiques chez la mouche.",
+          "de": "Sie kodieren Proteine, die anatomische Strukturen in der Fliege bilden.",
+          "ja": "それらはハエの解剖学的構造を形成するタンパク質をコードします。"
+        },
+        "feedback": {
+          "en": "Homeotic genes encode transcription factors, which regulate the expression of other genes, rather than directly forming anatomical structures themselves.",
+          "zh": "同源异型基因编码转录因子，这些因子调控其他基因的表达，而不是直接形成解剖结构。",
+          "es": "Los genes homeóticos codifican factores de transcripción, que regulan la expresión de otros genes, en lugar de formar directamente estructuras anatómicas.",
+          "fr": "Les gènes homéotiques codent des facteurs de transcription, qui régulent l'expression d'autres gènes, plutôt que de former directement des structures anatomiques eux-mêmes.",
+          "de": "Homöotische Gene kodieren Transkriptionsfaktoren, die die Expression anderer Gene regulieren, anstatt selbst direkt anatomische Strukturen zu bilden.",
+          "ja": "ホメオティック遺伝子は転写因子をコードし、これは他の遺伝子の発現を調節するものであり、それ自体が直接解剖学的構造を形成するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Homeotic genes encode transcription factors, which are proteins that bind to DNA and control the transcription of other genes. These genes are crucial for specifying the identity of body segments or structures during embryonic development.",
+      "zh": "同源异型基因编码转录因子，这些蛋白质结合DNA并控制其他基因的转录。这些基因对于胚胎发育过程中指定体节或结构的身份至关重要。",
+      "es": "Los genes homeóticos codifican factores de transcripción, que son proteínas que se unen al ADN y controlan la transcripción de otros genes. Estos genes son cruciales para especificar la identidad de los segmentos o estructuras corporales durante el desarrollo embrionario.",
+      "fr": "Les gènes homéotiques codent des facteurs de transcription, qui sont des protéines qui se lient à l'ADN et contrôlent la transcription d'autres gènes. Ces gènes sont cruciaux pour spécifier l'identité des segments ou structures corporels pendant le développement embryonnaire.",
+      "de": "Homöotische Gene kodieren Transkriptionsfaktoren, Proteine, die an DNA binden und die Transkription anderer Gene steuern. Diese Gene sind entscheidend für die Spezifikation der Identität von Körpersegmenten oder -strukturen während der Embryonalentwicklung.",
+      "ja": "ホメオティック遺伝子は転写因子をコードしており、これらはDNAに結合して他の遺伝子の転写を制御するタンパク質です。これらの遺伝子は、胚発生中の体節や構造のアイデンティティを特定するために重要です。"
+    }
+  },
+  {
+    "page_number": 515,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Two eukaryotic proteins are largely different but share a common domain. Which of the following processes is most likely to have contributed to this shared domain?",
+      "zh": "两种真核蛋白质大部分不同，但共享一个共同的结构域。以下哪种过程最可能促成了这种共享结构域的形成？",
+      "es": "Dos proteínas eucariotas son en gran parte diferentes pero comparten un dominio común. ¿Cuál de los siguientes procesos es más probable que haya contribuido a este dominio compartido?",
+      "fr": "Deux protéines eucaryotes sont largement différentes mais partagent un domaine commun. Lequel des processus suivants a le plus probablement contribué à ce domaine partagé ?",
+      "de": "Zwei eukaryotische Proteine unterscheiden sich weitgehend, teilen sich aber eine gemeinsame Domäne. Welcher der folgenden Prozesse hat am wahrscheinlichsten zu dieser gemeinsamen Domäne beigetragen?",
+      "ja": "2つの真核タンパク質は大きく異なりますが、共通のドメインを共有しています。次のプロセスのうち、この共通ドメインに最も貢献した可能性が高いのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Gene duplication",
+          "zh": "基因复制",
+          "es": "Duplicación génica",
+          "fr": "Duplication génique",
+          "de": "Genduplikation",
+          "ja": "遺伝子重複"
+        },
+        "feedback": {
+          "en": "Gene duplication creates an extra copy of an entire gene, which can then evolve new functions. While it can lead to protein similarity, it doesn't directly explain how a specific domain becomes shared between otherwise *different* proteins.",
+          "zh": "基因复制会产生整个基因的额外副本，然后这些副本可以进化出新的功能。虽然它可能导致蛋白质相似性，但不能直接解释一个特定结构域如何在原本*不同*的蛋白质之间共享。",
+          "es": "La duplicación génica crea una copia extra de un gen completo, que luego puede evolucionar nuevas funciones. Aunque puede llevar a la similitud proteica, no explica directamente cómo un dominio específico se comparte entre proteínas que son *diferentes* en otros aspectos.",
+          "fr": "La duplication génique crée une copie supplémentaire d'un gène entier, qui peut ensuite évoluer de nouvelles fonctions. Bien qu'elle puisse conduire à une similarité protéique, elle n'explique pas directement comment un domaine spécifique devient partagé entre des protéines par ailleurs *différentes*.",
+          "de": "Die Genduplikation erzeugt eine zusätzliche Kopie eines gesamten Gens, das dann neue Funktionen entwickeln kann. Obwohl dies zu Proteinähnlichkeit führen kann, erklärt es nicht direkt, wie eine spezifische Domäne zwischen ansonsten *unterschiedlichen* Proteinen geteilt wird.",
+          "ja": "遺伝子重複は、遺伝子全体の余分なコピーを作成し、それが新しい機能を進化させる可能性があります。これによりタンパク質の類似性が生じることはありますが、それは特定のドメインがどのようにして元々*異なる*タンパク質間で共有されるのかを直接説明するものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Alternative splicing",
+          "zh": "选择性剪接",
+          "es": "Empalme alternativo",
+          "fr": "Épissage alternatif",
+          "de": "Alternatives Spleißen",
+          "ja": "選択的スプライシング"
+        },
+        "feedback": {
+          "en": "Alternative splicing produces different protein isoforms from a single gene. It does not create shared domains between distinct proteins encoded by different genes.",
+          "zh": "选择性剪接从单个基因产生不同的蛋白质异构体。它不会在由不同基因编码的不同蛋白质之间创建共享结构域。",
+          "es": "El empalme alternativo produce diferentes isoformas proteicas a partir de un solo gen. No crea dominios compartidos entre proteínas distintas codificadas por genes diferentes.",
+          "fr": "L'épissage alternatif produit différentes isoformes protéiques à partir d'un seul gène. Il ne crée pas de domaines partagés entre des protéines distinctes codées par des gènes différents.",
+          "de": "Alternatives Spleißen produziert verschiedene Proteinisoformen aus einem einzigen Gen. Es erzeugt keine gemeinsamen Domänen zwischen verschiedenen Proteinen, die von unterschiedlichen Genen kodiert werden.",
+          "ja": "選択的スプライシングは、単一の遺伝子から異なるタンパク質アイソフォームを生成します。異なる遺伝子によってコードされる別々のタンパク質間で共通のドメインを作成することはありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Exon shuffling",
+          "zh": "外显子改组",
+          "es": "Recombinación de exones",
+          "fr": "Brassage d'exons",
+          "de": "Exon-Shuffling",
+          "ja": "エキソンシャッフリング"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Random point mutations",
+          "zh": "随机点突变",
+          "es": "Mutaciones puntuales aleatorias",
+          "fr": "Mutations ponctuelles aléatoires",
+          "de": "Zufällige Punktmutationen",
+          "ja": "ランダムな点突然変異"
+        },
+        "feedback": {
+          "en": "Random point mutations involve changes in individual nucleotides and are unlikely to result in the sharing of an entire protein domain between otherwise distinct proteins.",
+          "zh": "随机点突变涉及单个核苷酸的变化，不太可能导致原本不同的蛋白质之间共享整个蛋白质结构域。",
+          "es": "Las mutaciones puntuales aleatorias implican cambios en nucleótidos individuales y es poco probable que resulten en el intercambio de un dominio proteico completo entre proteínas por lo demás distintas.",
+          "fr": "Les mutations ponctuelles aléatoires impliquent des changements dans les nucléotides individuels et il est peu probable qu'elles entraînent le partage d'un domaine protéique entier entre des protéines par ailleurs distinctes.",
+          "de": "Zufällige Punktmutationen betreffen Veränderungen einzelner Nukleotide und führen unwahrscheinlich zur Teilung einer gesamten Proteindomäne zwischen ansonsten unterschiedlichen Proteinen.",
+          "ja": "ランダムな点突然変異は個々のヌクレオチドの変化を含み、それ自体は異なるタンパク質間でタンパク質ドメイン全体が共有される原因となる可能性は低いです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Exon shuffling is a process where exons from different genes or within the same gene are exchanged, rearranged, or duplicated, leading to the formation of new genes or proteins with novel combinations of functional domains. This mechanism can explain how a protein domain can be shared between otherwise different proteins.",
+      "zh": "外显子改组是指来自不同基因或同一基因内的外显子发生交换、重排或复制的过程，从而形成具有新型功能结构域组合的新基因或蛋白质。这种机制可以解释一个蛋白质结构域如何在原本不同的蛋白质之间共享。",
+      "es": "La recombinación de exones es un proceso en el que los exones de diferentes genes o dentro del mismo gen se intercambian, reordenan o duplican, lo que lleva a la formación de nuevos genes o proteínas con combinaciones novedosas de dominios funcionales. Este mecanismo puede explicar cómo un dominio proteico puede compartirse entre proteínas por lo demás diferentes.",
+      "fr": "Le brassage d'exons est un processus où les exons de différents gènes ou au sein du même gène sont échangés, réarrangés ou dupliqués, conduisant à la formation de nouveaux gènes ou protéines avec de nouvelles combinaisons de domaines fonctionnels. Ce mécanisme peut expliquer comment un domaine protéique peut être partagé entre des protéines par ailleurs différentes.",
+      "de": "Exon-Shuffling ist ein Prozess, bei dem Exons von verschiedenen Genen oder innerhalb desselben Gens ausgetauscht, neu angeordnet oder dupliziert werden, was zur Bildung neuer Gene oder Proteine mit neuen Kombinationen funktioneller Domänen führt. Dieser Mechanismus kann erklären, wie eine Proteindomäne zwischen ansonsten unterschiedlichen Proteinen geteilt werden kann.",
+      "ja": "エキソンシャッフリングとは、異なる遺伝子または同じ遺伝子内のエキソンが交換、再配列、または重複するプロセスであり、これにより機能ドメインの新しい組み合わせを持つ新しい遺伝子またはタンパク質の形成につながります。このメカニズムは、タンパク質ドメインが他の異なるタンパク質間で共有される理由を説明することができます。"
+    }
+  },
+  {
+    "page_number": 515,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the information about FOXP2 protein sequences and the evolutionary divergence times (primates and rodents diverged ~65 Mya, chimpanzees and humans ~6 Mya), what can be hypothesized about the rate of evolution of the FOXP2 gene, particularly in the human lineage?",
+      "zh": "根据FOXP2蛋白质序列信息以及进化分歧时间（灵长类和啮齿类在大约6500万年前分化，黑猩猩和人类在大约600万年前分化），关于FOXP2基因的进化速率，特别是在人类谱系中，可以提出什么假设？",
+      "es": "Basándose en la información sobre las secuencias de proteínas FOXP2 y los tiempos de divergencia evolutiva (primates y roedores divergieron hace ~65 millones de años, chimpancés y humanos hace ~6 millones de años), ¿qué se puede hipotetizar sobre la tasa de evolución del gen FOXP2, particularmente en el linaje humano?",
+      "fr": "Basé sur les informations concernant les séquences de protéines FOXP2 et les temps de divergence évolutive (les primates et les rongeurs ont divergé il y a ~65 millions d'années, les chimpanzés et les humains il y a ~6 millions d'années), quelle hypothèse peut être formulée concernant le taux d'évolution du gène FOXP2, en particulier dans la lignée humaine ?",
+      "de": "Basierend auf den Informationen zu FOXP2-Proteinsequenzen und den evolutionären Divergenzzeiten (Primaten und Nagetiere divergierten vor ~65 Mio. Jahren, Schimpansen und Menschen vor ~6 Mio. Jahren), welche Hypothese kann über die Evolutionsrate des FOXP2-Gens, insbesondere in der menschlichen Linie, aufgestellt werden?",
+      "ja": "FOXP2タンパク質配列の情報と進化分岐時間（霊長類とげっ歯類は約6500万年前に分岐し、チンパンジーとヒトは約600万年前に分岐した）に基づいて、FOXP2遺伝子の進化速度、特にヒト系統における速度について、どのような仮説を立てることができますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The FOXP2 gene has evolved at a consistent rate across all mammalian lineages.",
+          "zh": "FOXP2基因在所有哺乳动物谱系中以一致的速率进化。",
+          "es": "El gen FOXP2 ha evolucionado a una tasa constante en todos los linajes de mamíferos.",
+          "fr": "Le gène FOXP2 a évolué à un rythme constant dans toutes les lignées de mammifères.",
+          "de": "Das FOXP2-Gen hat sich in allen Säugetierlinien mit einer konstanten Rate entwickelt.",
+          "ja": "FOXP2遺伝子は、すべての哺乳動物系統で一貫した速度で進化してきました。"
+        },
+        "feedback": {
+          "en": "The text implies that the human FOXP2 sequence shows differences despite a relatively recent divergence from other primates, suggesting a non-consistent evolutionary rate.",
+          "zh": "文本暗示，尽管人类与灵长类动物的分化相对较近，但人类FOXP2序列仍显示出差异，这表明进化速率并不一致。",
+          "es": "El texto implica que la secuencia de FOXP2 humana muestra diferencias a pesar de una divergencia relativamente reciente de otros primates, lo que sugiere una tasa evolutiva no constante.",
+          "fr": "Le texte implique que la séquence FOXP2 humaine présente des différences malgré une divergence relativement récente des autres primates, suggérant un taux d'évolution non constant.",
+          "de": "Der Text impliziert, dass die menschliche FOXP2-Sequenz trotz einer relativ jungen Divergenz von anderen Primaten Unterschiede aufweist, was auf eine inkonsistente Evolutionsrate hindeutet.",
+          "ja": "テキストは、ヒトFOXP2配列が他の霊長類からの比較的最近の分岐にもかかわらず違いを示していることを示唆しており、これは一貫した進化速度ではないことを示唆しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The FOXP2 gene shows very few differences among primates, indicating a highly conserved and slowly evolving gene.",
+          "zh": "FOXP2基因在灵长类动物中显示出极少的差异，表明它是一个高度保守且进化缓慢的基因。",
+          "es": "El gen FOXP2 muestra muy pocas diferencias entre los primates, lo que indica un gen altamente conservado y de evolución lenta.",
+          "fr": "Le gène FOXP2 présente très peu de différences parmi les primates, ce qui indique un gène hautement conservé et à évolution lente.",
+          "de": "Das FOXP2-Gen zeigt sehr wenige Unterschiede unter Primaten, was auf ein stark konserviertes und langsam evolvierendes Gen hindeutet.",
+          "ja": "FOXP2遺伝子は霊長類の間でごくわずかな違いしか示さず、高度に保存され、ゆっくりと進化する遺伝子であることを示しています。"
+        },
+        "feedback": {
+          "en": "While conserved, the human FOXP2 sequence has notable differences from chimpanzees/gorillas, especially considering the short divergence time, indicating a period of relatively rapid change.",
+          "zh": "尽管FOXP2基因是保守的，但人类的FOXP2序列与黑猩猩/大猩猩相比存在显著差异，特别是考虑到较短的分化时间，这表明存在一个相对快速的变化时期。",
+          "es": "Aunque conservada, la secuencia de FOXP2 humana tiene diferencias notables con la de chimpancés/gorilas, especialmente considerando el corto tiempo de divergencia, lo que indica un período de cambio relativamente rápido.",
+          "fr": "Bien que conservée, la séquence FOXP2 humaine présente des différences notables par rapport à celle des chimpanzés/gorilles, surtout compte tenu du court temps de divergence, ce qui indique une période de changement relativement rapide.",
+          "de": "Obwohl konserviert, weist die menschliche FOXP2-Sequenz bemerkenswerte Unterschiede zu Schimpansen/Gorillas auf, insbesondere angesichts der kurzen Divergenzzeit, was auf eine Periode relativ schneller Veränderungen hindeutet.",
+          "ja": "FOXP2遺伝子は保存されていますが、ヒトのFOXP2配列はチンパンジーやゴリラと比べて顕著な違いがあり、特に分岐時間が短いことを考慮すると、比較的急速な変化の時期があったことを示しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The FOXP2 gene has undergone relatively rapid changes in the human lineage compared to other primate lineages, suggesting its importance in human-specific traits.",
+          "zh": "FOXP2基因在人类谱系中经历了相对快速的变化，与其它灵长类谱系相比，这表明它在人类特有的性状中具有重要性。",
+          "es": "El gen FOXP2 ha experimentado cambios relativamente rápidos en el linaje humano en comparación con otros linajes de primates, lo que sugiere su importancia en los rasgos específicos humanos.",
+          "fr": "Le gène FOXP2 a subi des changements relativement rapides dans la lignée humaine par rapport aux autres lignées de primates, suggérant son importance dans les traits spécifiques à l'homme.",
+          "de": "Das FOXP2-Gen hat in der menschlichen Linie im Vergleich zu anderen Primatenlinien relativ schnelle Veränderungen durchgemacht, was auf seine Bedeutung für menschliche spezifische Merkmale hindeutet.",
+          "ja": "FOXP2遺伝子は他の霊長類系統と比較してヒト系統で比較的急速な変化を遂げており、これはヒト特有の形質におけるその重要性を示唆しています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Differences in FOXP2 sequences are primarily due to gene duplication events rather than point mutations.",
+          "zh": "FOXP2序列的差异主要是由于基因复制事件而不是点突变造成的。",
+          "es": "Las diferencias en las secuencias de FOXP2 se deben principalmente a eventos de duplicación génica en lugar de mutaciones puntuales.",
+          "fr": "Les différences dans les séquences de FOXP2 sont principalement dues à des événements de duplication génique plutôt qu'à des mutations ponctuelles.",
+          "de": "Unterschiede in den FOXP2-Sequenzen sind primär auf Genduplikationsereignisse und nicht auf Punktmutationen zurückzuführen.",
+          "ja": "FOXP2配列の違いは、点突然変異ではなく主に遺伝子重複イベントによるものです。"
+        },
+        "feedback": {
+          "en": "The provided sequence data points to specific amino acid changes (likely due to point mutations), not large-scale gene duplication events causing the observed differences in these short segments.",
+          "zh": "所提供的序列数据指向特定的氨基酸变化（很可能是由于点突变），而不是大规模的基因复制事件导致这些短片段中观察到的差异。",
+          "es": "Los datos de secuencia proporcionados apuntan a cambios específicos de aminoácidos (probablemente debido a mutaciones puntuales), no a eventos de duplicación génica a gran escala que causen las diferencias observadas en estos segmentos cortos.",
+          "fr": "Les données de séquence fournies indiquent des changements d'acides aminés spécifiques (probablement dus à des mutations ponctuelles), et non des événements de duplication génique à grande échelle causant les différences observées dans ces courts segments.",
+          "de": "Die bereitgestellten Sequenzdaten weisen auf spezifische Aminosäureveränderungen (wahrscheinlich durch Punktmutationen) hin, nicht auf großflächige Genduplikationsereignisse, die die beobachteten Unterschiede in diesen kurzen Segmenten verursachen.",
+          "ja": "提供された配列データは、特定の短鎖の配列で観察される差異が、大規模な遺伝子重複イベントによるものではなく、特定のアミノ酸変化（点突然変異による可能性が高い）によるものであることを示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The FOXP2 gene is known to be crucial for speech and language development in humans. Despite the relatively recent divergence of humans and chimpanzees (6 Mya), there are notable amino acid differences in the FOXP2 protein. This suggests that the FOXP2 gene has undergone a period of relatively rapid evolution in the human lineage, which is consistent with its proposed role in human-specific traits like language.",
+      "zh": "FOXP2基因在人类言语和语言发展中至关重要。尽管人类和黑猩猩的分化相对较近（600万年前），但FOXP2蛋白质中存在显著的氨基酸差异。这表明FOXP2基因在人类谱系中经历了一个相对快速的进化时期，这与它在人类特有性状（如语言）中的作用相符。",
+      "es": "El gen FOXP2 es conocido por ser crucial para el desarrollo del habla y el lenguaje en humanos. A pesar de la divergencia relativamente reciente de humanos y chimpancés (hace 6 millones de años), existen diferencias notables de aminoácidos en la proteína FOXP2. Esto sugiere que el gen FOXP2 ha experimentado un período de evolución relativamente rápida en el linaje humano, lo cual es consistente con su papel propuesto en rasgos específicos humanos como el lenguaje.",
+      "fr": "Le gène FOXP2 est connu pour être crucial dans le développement de la parole et du langage chez l'homme. Malgré la divergence relativement récente entre les humains et les chimpanzés (il y a 6 millions d'années), il existe des différences notables d'acides aminés dans la protéine FOXP2. Cela suggère que le gène FOXP2 a subi une période d'évolution relativement rapide dans la lignée humaine, ce qui est cohérent avec son rôle proposé dans les traits spécifiques à l'homme comme le langage.",
+      "de": "Das FOXP2-Gen ist bekanntermaßen entscheidend für die Sprachentwicklung beim Menschen. Trotz der relativ jungen Divergenz von Menschen und Schimpansen (vor 6 Mio. Jahren) gibt es bemerkenswerte Aminosäureunterschiede im FOXP2-Protein. Dies deutet darauf hin, dass das FOXP2-Gen in der menschlichen Linie eine Periode relativ schneller Evolution durchlaufen hat, was mit seiner vorgeschlagenen Rolle bei menschlichen spezifischen Merkmalen wie Sprache übereinstimmt.",
+      "ja": "FOXP2遺伝子は、ヒトの言語発達に不可欠であることが知られています。ヒトとチンパンジーが比較的最近（600万年前）に分岐したにもかかわらず、FOXP2タンパク質には顕著なアミノ酸の違いがあります。これは、FOXP2遺伝子がヒト系統で比較的急速な進化を遂げた時期があったことを示唆しており、これは言語のようなヒト特有の形質におけるその役割と一致しています。"
+    }
+  },
+  {
+    "page_number": 515,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The treehopper insect possesses an ornate helmet resembling wings on its first thoracic segment, despite modern insects typically only having wings on their second and third segments due to Hox gene products inhibiting wing formation on the first segment. How could changes in gene regulation explain the evolution of this unique structure?",
+      "zh": "沫蝉昆虫在其第一个胸节上有一个类似翅膀的华丽头盔，尽管现代昆虫通常只在其第二和第三胸节上有翅膀，这是因为Hox基因产物抑制了第一个胸节的翅膀形成。基因调控的变化如何解释这种独特结构的进化？",
+      "es": "El insecto chicharrita posee un casco adornado que se asemeja a alas en su primer segmento torácico, a pesar de que los insectos modernos suelen tener alas solo en su segundo y tercer segmento debido a que los productos de los genes Hox inhiben la formación de alas en el primer segmento. ¿Cómo podrían los cambios en la regulación génica explicar la evolución de esta estructura única?",
+      "fr": "Le membracide possède un casque orné ressemblant à des ailes sur son premier segment thoracique, bien que les insectes modernes n'aient généralement des ailes que sur leurs deuxième et troisième segments en raison de l'inhibition de la formation des ailes sur le premier segment par les produits des gènes Hox. Comment des changements dans la régulation génique pourraient-ils expliquer l'évolution de cette structure unique ?",
+      "de": "Die Baumzikade besitzt einen kunstvollen Helm, der Flügel auf ihrem ersten Thoraxsegment ähnelt, obwohl moderne Insekten typischerweise nur Flügel auf ihrem zweiten und dritten Segment tragen, da Hox-Genprodukte die Flügelausbildung auf dem ersten Segment hemmen. Wie könnten Veränderungen in der Genregulation die Evolution dieser einzigartigen Struktur erklären?",
+      "ja": "ツノゼミは、現代の昆虫が通常、ホックス遺伝子産物が第1胸節の翅の形成を阻害するために、第2および第3胸節にのみ翅を持つにもかかわらず、第1胸節に翅に似た装飾的な兜を持っています。遺伝子制御の変化は、このユニークな構造の進化をどのように説明できますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A mutation caused a novel gene to emerge that directly codes for the helmet structure.",
+          "zh": "突变导致一个新基因出现，直接编码头盔结构。",
+          "es": "Una mutación causó la aparición de un gen novedoso que codifica directamente la estructura del casco.",
+          "fr": "Une mutation a provoqué l'apparition d'un nouveau gène qui code directement la structure du casque.",
+          "de": "Eine Mutation führte zur Entstehung eines neuartigen Gens, das direkt für die Helmstruktur kodiert.",
+          "ja": "突然変異により、兜の構造を直接コードする新しい遺伝子が出現しました。"
+        },
+        "feedback": {
+          "en": "The evolution of complex morphological structures often involves changes in the regulation of existing developmental genes, rather than the de novo emergence of genes directly coding for the structure.",
+          "zh": "复杂形态结构的进化通常涉及现有发育基因调控的变化，而不是直接编码该结构的新基因从头产生。",
+          "es": "La evolución de estructuras morfológicas complejas a menudo implica cambios en la regulación de genes de desarrollo existentes, en lugar de la aparición de novo de genes que codifican directamente la estructura.",
+          "fr": "L'évolution des structures morphologiques complexes implique souvent des changements dans la régulation des gènes de développement existants, plutôt que l'émergence de novo de gènes codant directement la structure.",
+          "de": "Die Evolution komplexer morphologischer Strukturen beinhaltet oft Veränderungen in der Regulation bestehender Entwicklungs-Gene, anstatt die De-novo-Entstehung von Genen, die direkt die Struktur kodieren.",
+          "ja": "複雑な形態構造の進化は、構造を直接コードする遺伝子の新規出現ではなく、既存の発達関連遺伝子の制御の変化を伴うことが多いです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Changes in regulatory DNA led to the de-repression or altered expression patterns of Hox genes in the first thoracic segment, allowing wing-like growth.",
+          "zh": "调控DNA的变化导致Hox基因在第一个胸节中的去抑制或表达模式改变，从而允许类似翅膀的生长。",
+          "es": "Los cambios en el ADN regulador llevaron a la desrepresión o patrones de expresión alterados de los genes Hox en el primer segmento torácico, permitiendo el crecimiento similar a alas.",
+          "fr": "Les changements dans l'ADN régulateur ont conduit à la dérépression ou à des schémas d'expression altérés des gènes Hox dans le premier segment thoracique, permettant une croissance de type aile.",
+          "de": "Veränderungen in der regulatorischen DNA führten zur Derepression oder veränderten Expressionsmustern von Hox-Genen im ersten Thoraxsegment, was flügelähnliches Wachstum ermöglichte.",
+          "ja": "調節DNAの変化により、第1胸節におけるホックス遺伝子の脱抑制または発現パターンの変化が起こり、翅のような成長が可能になりました。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The treehopper acquired a new set of Hox genes through horizontal gene transfer, introducing the helmet-forming ability.",
+          "zh": "沫蝉通过水平基因转移获得了一套新的Hox基因，从而引入了头盔形成能力。",
+          "es": "La chicharrita adquirió un nuevo conjunto de genes Hox a través de la transferencia horizontal de genes, introduciendo la capacidad de formación del casco.",
+          "fr": "Le membracide a acquis un nouvel ensemble de gènes Hox par transfert horizontal de gènes, introduisant la capacité de formation du casque.",
+          "de": "Die Baumzikade erwarb durch horizontalen Gentransfer einen neuen Satz von Hox-Genen, wodurch die Helm-bildende Fähigkeit eingeführt wurde.",
+          "ja": "ツノゼミは水平遺伝子伝達によって新しいホックス遺伝子のセットを獲得し、兜を形成する能力を導入しました。"
+        },
+        "feedback": {
+          "en": "While horizontal gene transfer occurs, it's a less common explanation for complex morphological changes driven by developmental genes in multicellular eukaryotes.",
+          "zh": "虽然存在水平基因转移，但对于多细胞真核生物中由发育基因驱动的复杂形态变化而言，这是一个不太常见的解释。",
+          "es": "Aunque ocurre la transferencia horizontal de genes, es una explicación menos común para cambios morfológicos complejos impulsados por genes de desarrollo en eucariotas multicelulares.",
+          "fr": "Bien que le transfert horizontal de gènes se produise, c'est une explication moins courante des changements morphologiques complexes induits par les gènes de développement chez les eucaryotes multicellulaires.",
+          "de": "Obwohl horizontaler Gentransfer vorkommt, ist dies eine weniger gängige Erklärung für komplexe morphologische Veränderungen, die durch Entwicklungs-Gene bei vielzelligen Eukaryoten hervorgerufen werden.",
+          "ja": "水平遺伝子伝達は起こりますが、多細胞真核生物における発達遺伝子によって引き起こされる複雑な形態学的変化に対する一般的な説明ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The helmet evolved due to a higher rate of random point mutations in structural genes of the first thoracic segment.",
+          "zh": "头盔的进化是由于第一个胸节结构基因中随机点突变率较高。",
+          "es": "El casco evolucionó debido a una mayor tasa de mutaciones puntuales aleatorias en los genes estructurales del primer segmento torácico.",
+          "fr": "Le casque a évolué en raison d'un taux plus élevé de mutations ponctuelles aléatoires dans les gènes structuraux du premier segment thoracique.",
+          "de": "Der Helm entwickelte sich aufgrund einer höheren Rate zufälliger Punktmutationen in strukturellen Genen des ersten Thoraxsegments.",
+          "ja": "兜は、第1胸節の構造遺伝子におけるランダムな点突然変異率の増加により進化しました。"
+        },
+        "feedback": {
+          "en": "Random point mutations in structural genes are less likely to produce such a complex, integrated structure like the helmet compared to changes in regulatory genes that control the overall developmental program.",
+          "zh": "与控制整体发育程序的调控基因的变化相比，结构基因中的随机点突变不太可能产生像头盔这样复杂、整合的结构。",
+          "es": "Las mutaciones puntuales aleatorias en los genes estructurales son menos propensas a producir una estructura tan compleja e integrada como el casco, en comparación con los cambios en los genes reguladores que controlan el programa de desarrollo general.",
+          "fr": "Les mutations ponctuelles aléatoires dans les gènes structuraux sont moins susceptibles de produire une structure aussi complexe et intégrée que le casque, par rapport aux changements dans les gènes régulateurs qui contrôlent le programme de développement global.",
+          "de": "Zufällige Punktmutationen in strukturellen Genen führen weniger wahrscheinlich zu einer solch komplexen, integrierten Struktur wie dem Helm im Vergleich zu Veränderungen in regulatorischen Genen, die das gesamte Entwicklungsprogramm steuern.",
+          "ja": "構造遺伝子におけるランダムな点突然変異は、全体的な発達プログラムを制御する調節遺伝子の変化と比較して、兜のような複雑で統合された構造を生成する可能性は低いです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that in modern insects, Hox gene products inhibit wing formation on the first segment. The treehopper's helmet on the first segment suggests a change that bypassed this inhibition. This is best explained by changes in regulatory DNA affecting the expression pattern of Hox genes, leading to the de-repression of wing-forming pathways or the redirection of developmental resources to form the helmet structure in an atypical location.",
+      "zh": "文本指出，在现代昆虫中，Hox基因产物抑制了第一个体节的翅膀形成。沫蝉在第一个体节上拥有类似翅膀的头盔，这表明发生了一种绕过这种抑制的变化。这最好通过影响Hox基因表达模式的调控DNA变化来解释，从而导致翅膀形成途径的去抑制，或将发育资源重新定向以在非典型位置形成头盔结构。",
+      "es": "El texto afirma que en los insectos modernos, los productos de los genes Hox inhiben la formación de alas en el primer segmento. El casco de la chicharrita en el primer segmento sugiere un cambio que sorteó esta inhibición. Esto se explica mejor por cambios en el ADN regulador que afectan el patrón de expresión de los genes Hox, lo que lleva a la desrepresión de las vías de formación de alas o a la redirección de los recursos de desarrollo para formar la estructura del casco en una ubicación atípica.",
+      "fr": "Le texte indique que chez les insectes modernes, les produits des gènes Hox inhibent la formation des ailes sur le premier segment. Le casque du membracide sur le premier segment suggère un changement qui a contourné cette inhibition. Cela s'explique le mieux par des modifications de l'ADN régulateur affectant le schéma d'expression des gènes Hox, entraînant la dérépression des voies de formation des ailes ou la redirection des ressources de développement pour former la structure du casque à un endroit atypique.",
+      "de": "Der Text besagt, dass bei modernen Insekten Hox-Genprodukte die Flügelausbildung auf dem ersten Segment hemmen. Der Helm der Baumzikade auf dem ersten Segment deutet auf eine Veränderung hin, die diese Hemmung umging. Dies wird am besten durch Veränderungen in der regulatorischen DNA erklärt, die das Expressionsmuster von Hox-Genen beeinflussen, was zur Derepression flügelbildender Signalwege oder zur Umleitung von Entwicklungsressourcen führt, um die Helmstruktur an einer untypischen Stelle zu bilden.",
+      "ja": "テキストによると、現代の昆虫では、ホックス遺伝子産物が第1体節の翅形成を阻害しています。ツノゼミの第1体節にある兜は、この阻害を回避した変化を示唆しています。これは、ホックス遺伝子の発現パターンに影響を与える調節DNAの変化によって最もよく説明され、翅形成経路の脱抑制や、発達資源の方向転換により、異常な場所に兜構造が形成されたことにつながります。"
+    }
+  }
+]

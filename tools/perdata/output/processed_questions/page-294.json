@@ -1,0 +1,372 @@
+[
+  {
+    "page_number": 294,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the experiments shown in Figure 12.14, what is the primary conclusion regarding the regulation of cell cycle progression?",
+      "zh": "根据图 12.14 所示的实验，关于细胞周期进程调节的主要结论是什么？",
+      "es": "Según los experimentos mostrados en la Figura 12.14, ¿cuál es la conclusión principal con respecto a la regulación de la progresión del ciclo celular?",
+      "fr": "Selon les expériences présentées dans la Figure 12.14, quelle est la conclusion principale concernant la régulation de la progression du cycle cellulaire ?",
+      "de": "Gemäß den in Abbildung 12.14 gezeigten Experimenten, was ist die primäre Schlussfolgerung bezüglich der Regulation des Zellzyklusfortschritts?",
+      "ja": "図 12.14 に示された実験によると、細胞周期の進行の調節に関する主な結論は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Cell cycle progression is primarily controlled by the cell's internal clock, independent of external factors.",
+          "zh": "细胞周期进程主要由细胞的内部时钟控制，独立于外部因素。",
+          "es": "La progresión del ciclo celular está controlada principalmente por el reloj interno de la célula, independientemente de los factores externos.",
+          "fr": "La progression du cycle cellulaire est principalement contrôlée par l'horloge interne de la cellule, indépendamment des facteurs externes.",
+          "de": "Der Zellzyklusfortschritt wird hauptsächlich durch die interne Uhr der Zelle gesteuert, unabhängig von externen Faktoren.",
+          "ja": "細胞周期の進行は主に細胞の内部時計によって制御され、外部要因からは独立している。"
+        },
+        "feedback": {
+          "en": "The experiments suggest an external, cytoplasmic influence, contradicting a purely internal clock.",
+          "zh": "实验表明存在外部的、细胞质的影响，这与纯粹的内部时钟控制相矛盾。",
+          "es": "Los experimentos sugieren una influencia citoplasmática externa, lo que contradice un reloj puramente interno.",
+          "fr": "Les expériences suggèrent une influence externe et cytoplasmique, contredisant un contrôle purement interne par une horloge.",
+          "de": "Die Experimente deuten auf einen externen, zytoplasmatischen Einfluss hin, der einem rein internen Uhr widerspricht.",
+          "ja": "実験は外部の細胞質の影響を示唆しており、純粋な内部時計による制御とは矛盾します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Molecules present in the cytoplasm during S or M phases can induce G1 nuclei to progress into those respective phases.",
+          "zh": "S 期或 M 期细胞质中存在的分子可以诱导 G1 期细胞核进入相应的阶段。",
+          "es": "Las moléculas presentes en el citoplasma durante las fases S o M pueden inducir a los núcleos en G1 a progresar hacia esas fases respectivas.",
+          "fr": "Les molécules présentes dans le cytoplasme pendant les phases S ou M peuvent induire les noyaux en G1 à progresser dans ces phases respectives.",
+          "de": "Moleküle, die während der S- oder M-Phase im Zytoplasma vorhanden sind, können G1-Kerne dazu anregen, in diese jeweiligen Phasen voranzuschreiten.",
+          "ja": "S期またはM期の細胞質中に存在する分子は、G1期の核をそれぞれの段階へと進行させることができます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "DNA duplication must be complete before a cell can enter mitosis.",
+          "zh": "细胞进入有丝分裂前，DNA 复制必须完成。",
+          "es": "La duplicación del ADN debe estar completa antes de que una célula pueda entrar en mitosis.",
+          "fr": "La duplication de l'ADN doit être complète avant qu'une cellule ne puisse entrer en mitose.",
+          "de": "Die DNA-Duplikation muss abgeschlossen sein, bevor eine Zelle in die Mitose eintreten kann.",
+          "ja": "細胞が有糸分裂に入る前に、DNA複製が完了している必要がある。"
+        },
+        "feedback": {
+          "en": "Experiment 2 shows a G1 nucleus entering mitosis even without duplicated chromosomes, suggesting this is not always true if M phase cytoplasm is present.",
+          "zh": "实验 2 显示 G1 期细胞核在未复制染色体的情况下进入有丝分裂，表明如果存在 M 期细胞质，这并非总是正确的。",
+          "es": "El Experimento 2 muestra un núcleo en G1 entrando en mitosis incluso sin cromosomas duplicados, lo que sugiere que esto no siempre es cierto si hay citoplasma en fase M.",
+          "fr": "L'expérience 2 montre un noyau en G1 entrant en mitose même sans chromosomes dupliqués, suggérant que ce n'est pas toujours vrai si le cytoplasme de la phase M est présent.",
+          "de": "Experiment 2 zeigt, dass ein G1-Kern auch ohne duplizierte Chromosomen in die Mitose eintritt, was darauf hindeutet, dass dies nicht immer zutrifft, wenn M-Phasen-Zytoplasma vorhanden ist.",
+          "ja": "実験2では、G1期の核が複製されていない染色体であっても有糸分裂に入ることを示しており、M期細胞質が存在すれば常に正しいわけではないことを示唆しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "G1 phase cells cannot proceed to S phase without external signals.",
+          "zh": "G1 期细胞在没有外部信号的情况下无法进入 S 期。",
+          "es": "Las células en fase G1 no pueden pasar a la fase S sin señales externas.",
+          "fr": "Les cellules en phase G1 ne peuvent pas passer en phase S sans signaux externes.",
+          "de": "G1-Phasen-Zellen können ohne externe Signale nicht in die S-Phase übergehen.",
+          "ja": "G1期の細胞は、外部信号なしにはS期に進むことができない。"
+        },
+        "feedback": {
+          "en": "The experiment shows G1 cells *can* proceed if fused with S phase cells, but doesn't state they *cannot* otherwise. The conclusion is about the *control* by cytoplasmic molecules.",
+          "zh": "实验表明 G1 期细胞在与 S 期细胞融合时 *可以* 进展，但并未说明它们在其他情况下 *不能* 进展。结论是关于细胞质分子的 *控制* 作用。",
+          "es": "El experimento muestra que las células en G1 *pueden* progresar si se fusionan con células en fase S, pero no afirma que *no puedan* hacerlo de otra manera. La conclusión es sobre el *control* por parte de las moléculas citoplasmáticas.",
+          "fr": "L'expérience montre que les cellules en G1 *peuvent* progresser si elles sont fusionnées avec des cellules en phase S, mais n'affirme pas qu'elles ne peuvent pas le faire autrement. La conclusion concerne le *contrôle* par les molécules cytoplasmiques.",
+          "de": "Das Experiment zeigt, dass G1-Zellen *fortschreiten können*, wenn sie mit S-Phasen-Zellen fusioniert werden, sagt aber nicht aus, dass sie es sonst *nicht können*. Die Schlussfolgerung betrifft die *Kontrolle* durch zytoplasmatische Moleküle.",
+          "ja": "実験は、G1期細胞がS期細胞と融合した場合に進行できることを示していますが、それ以外の場合に進行できないとは述べていません。結論は細胞質分子による*制御*についてです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The conclusion explicitly states: 'The results of fusing a G1 cell with a cell in the S or M phase of the cell cycle suggest that molecules present in the cytoplasm during the S or M phase control the progression to those phases.' This directly supports option B.",
+      "zh": "结论明确指出：“G1 期细胞与处于细胞周期 S 期或 M 期细胞融合的结果表明，S 期或 M 期细胞质中存在的分子控制着向这些阶段的进展。” 这直接支持了选项 B。",
+      "es": "La conclusión establece explícitamente: 'Los resultados de fusionar una célula G1 con una célula en fase S o M del ciclo celular sugieren que las moléculas presentes en el citoplasma durante la fase S o M controlan la progresión hacia esas fases.' Esto apoya directamente la opción B.",
+      "fr": "La conclusion stipule explicitement : « Les résultats de la fusion d'une cellule G1 avec une cellule en phase S ou M du cycle cellulaire suggèrent que les molécules présentes dans le cytoplasme pendant la phase S ou M contrôlent la progression vers ces phases. » Cela soutient directement l'option B.",
+      "de": "Die Schlussfolgerung besagt ausdrücklich: „Die Ergebnisse der Fusion einer G1-Zelle mit einer Zelle in der S- oder M-Phase des Zellzyklus legen nahe, dass Moleküle, die während der S- oder M-Phase im Zytoplasma vorhanden sind, den Fortschritt zu diesen Phasen kontrollieren.“ Dies unterstützt Option B direkt.",
+      "ja": "結論には「細胞周期のS期またはM期の細胞とG1期細胞を融合させた結果は、S期またはM期に細胞質中に存在する分子がそれらの段階への進行を制御することを示唆している」と明記されており、これはオプションBを直接支持しています。"
+    }
+  },
+  {
+    "page_number": 294,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which statement accurately describes a key aspect of the cell cycle control system and its checkpoints as presented in the text?",
+      "zh": "根据文本描述，以下哪项陈述准确描述了细胞周期控制系统及其检查点的一个关键方面？",
+      "es": "Qué afirmación describe con precisión un aspecto clave del sistema de control del ciclo celular y sus puntos de control, tal como se presenta en el texto?",
+      "fr": "Quelle affirmation décrit avec précision un aspect clé du système de contrôle du cycle cellulaire et de ses points de contrôle, tel que présenté dans le texte ?",
+      "de": "Welche Aussage beschreibt einen Schlüsselaspekt des Zellzyklus-Kontrollsystems und seiner Checkpoints, wie im Text dargestellt, zutreffend?",
+      "ja": "テキストに記載されている細胞周期制御システムとそのチェックポイントの主要な側面を正確に説明しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The cell cycle control system operates like a washing machine's internal clock, making it completely independent of external signals.",
+          "zh": "细胞周期控制系统像洗衣机的内部时钟一样运作，使其完全独立于外部信号。",
+          "es": "El sistema de control del ciclo celular funciona como el reloj interno de una lavadora, lo que lo hace completamente independiente de las señales externas.",
+          "fr": "Le système de contrôle du cycle cellulaire fonctionne comme l'horloge interne d'une machine à laver, le rendant complètement indépendant des signaux externes.",
+          "de": "Das Zellzyklus-Kontrollsystem funktioniert wie die interne Uhr einer Waschmaschine, wodurch es vollständig unabhängig von externen Signalen ist.",
+          "ja": "細胞周期制御システムは洗濯機の内部時計のように動作し、外部信号から完全に独立している。"
+        },
+        "feedback": {
+          "en": "While compared to a washing machine's internal clock, the text explicitly states it's subject to both internal and *external* regulation at checkpoints.",
+          "zh": "尽管将其比作洗衣机的内部时钟，但文本明确指出它受到内部和 *外部* 调节点（检查点）的控制。",
+          "es": "Aunque se compara con el reloj interno de una lavadora, el texto afirma explícitamente que está sujeto a regulación tanto interna como *externa* en los puntos de control.",
+          "fr": "Bien que comparé à l'horloge interne d'une machine à laver, le texte stipule explicitement qu'il est soumis à une régulation à la fois interne et *externe* au niveau des points de contrôle.",
+          "de": "Obwohl es mit der internen Uhr einer Waschmaschine verglichen wird, besagt der Text ausdrücklich, dass es sowohl interner als auch *externer* Regulation an den Checkpoints unterliegt.",
+          "ja": "洗濯機の内部時計と比較されていますが、本文では、チェックポイントで内部および*外部*の調節の両方を受けることが明記されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Checkpoints are control points in the cell cycle where stop and go-ahead signals can regulate the cycle.",
+          "zh": "检查点是细胞周期中的控制点，止步和前进信号可以在此调节周期。",
+          "es": "Los puntos de control son puntos de regulación en el ciclo celular donde las señales de alto y de avance pueden regular el ciclo.",
+          "fr": "Les points de contrôle sont des points de régulation du cycle cellulaire où les signaux d'arrêt et d'avancement peuvent réguler le cycle.",
+          "de": "Checkpoints sind Kontrollpunkte im Zellzyklus, an denen Stopp- und Go-Ahead-Signale den Zyklus regulieren können.",
+          "ja": "チェックポイントは細胞周期の制御点であり、停止信号と進行信号が周期を調節できます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The three important checkpoints are located only in the S, G2, and M phases.",
+          "zh": "三个重要的检查点仅位于 S、G2 和 M 期。",
+          "es": "Los tres puntos de control importantes se encuentran solo en las fases S, G2 y M.",
+          "fr": "Les trois points de contrôle importants se trouvent uniquement dans les phases S, G2 et M.",
+          "de": "Die drei wichtigen Checkpoints befinden sich nur in den S-, G2- und M-Phasen.",
+          "ja": "重要な3つのチェックポイントは、S期、G2期、M期にのみ存在する。"
+        },
+        "feedback": {
+          "en": "The text states the three important checkpoints are found in the G1, G2, and M phases, not S.",
+          "zh": "文本指出三个重要的检查点位于 G1、G2 和 M 期，而不是 S 期。",
+          "es": "El texto afirma que los tres puntos de control importantes se encuentran en las fases G1, G2 y M, no en S.",
+          "fr": "Le texte indique que les trois points de contrôle importants se trouvent dans les phases G1, G2 et M, et non S.",
+          "de": "Der Text besagt, dass sich die drei wichtigen Checkpoints in den G1-, G2- und M-Phasen befinden, nicht in der S-Phase.",
+          "ja": "テキストには、重要な3つのチェックポイントがG1期、G2期、M期にあり、S期にはない、と書かれています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The cell cycle control system is entirely dependent on external signals for its progression.",
+          "zh": "细胞周期控制系统完全依赖外部信号进行其进程。",
+          "es": "El sistema de control del ciclo celular depende completamente de las señales externas para su progresión.",
+          "fr": "Le système de contrôle du cycle cellulaire dépend entièrement des signaux externes pour sa progression.",
+          "de": "Das Zellzyklus-Kontrollsystem ist für seinen Fortschritt vollständig von externen Signalen abhängig.",
+          "ja": "細胞周期制御システムは、その進行のために外部信号に完全に依存している。"
+        },
+        "feedback": {
+          "en": "The text explicitly states it 'proceeds on its own, according to a built-in clock' but is also subject to internal and external regulation. It's not *entirely* dependent on external signals.",
+          "zh": "文本明确指出它“根据内置时钟自行进行”，但同时也受到内部和外部调节。它并非 *完全* 依赖外部信号。",
+          "es": "El texto afirma explícitamente que 'procede por sí mismo, según un reloj incorporado', pero también está sujeto a regulación interna y externa. No depende *totalmente* de señales externas.",
+          "fr": "Le texte indique explicitement qu'il 'procède de lui-même, selon une horloge intégrée' mais qu'il est également soumis à une régulation interne et externe. Il ne dépend pas *entièrement* de signaux externes.",
+          "de": "Der Text besagt ausdrücklich, dass es 'von selbst, nach einer eingebauten Uhr' abläuft, aber auch interner und externer Regulation unterliegt. Es ist nicht *vollständig* von externen Signalen abhängig.",
+          "ja": "テキストには、「内蔵時計に従って自律的に進行する」と明記されていますが、内部および外部の調節も受けます。外部信号に*完全に*依存しているわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text defines a checkpoint as 'a control point where stop and go-ahead signals can regulate the cycle,' which matches option B. It also clarifies that the system has a 'built-in clock' but is also subject to internal and external regulation, contradicting options A and D. The checkpoints are in G1, G2, and M phases, not S, making C incorrect.",
+      "zh": "文本将检查点定义为“一个控制点，止步和前进信号可以在此调节周期”，这与选项 B 相符。它还阐明，该系统具有“内置时钟”，但也受到内部和外部调节，这与选项 A 和 D 矛盾。检查点位于 G1、G2 和 M 期，而不是 S 期，因此 C 不正确。",
+      "es": "El texto define un punto de control como 'un punto de control donde las señales de alto y de avance pueden regular el ciclo', lo que coincide con la opción B. También aclara que el sistema tiene un 'reloj incorporado' pero también está sujeto a regulación interna y externa, lo que contradice las opciones A y D. Los puntos de control están en las fases G1, G2 y M, no en S, lo que hace que C sea incorrecta.",
+      "fr": "Le texte définit un point de contrôle comme « un point de régulation où les signaux d'arrêt et d'avancement peuvent réguler le cycle », ce qui correspond à l'option B. Il clarifie également que le système possède une « horloge intégrée » mais est également soumis à une régulation interne et externe, contredisant les options A et D. Les points de contrôle se trouvent dans les phases G1, G2 et M, et non S, ce qui rend C incorrecte.",
+      "de": "Der Text definiert einen Checkpoint als „einen Kontrollpunkt, an dem Stopp- und Go-Ahead-Signale den Zyklus regulieren können“, was Option B entspricht. Er erklärt auch, dass das System eine „eingebaute Uhr“ hat, aber auch interner und externer Regulation unterliegt, was den Optionen A und D widerspricht. Die Checkpoints befinden sich in den G1-, G2- und M-Phasen, nicht in der S-Phase, wodurch C falsch ist.",
+      "ja": "本文では、チェックポイントを「停止信号と進行信号が周期を調節できる制御点」と定義しており、これは選択肢Bと一致します。また、システムには「内蔵時計」があるが、内部および外部の調節も受けることを明確にしており、これは選択肢AとDに矛盾します。チェックポイントはG1、G2、M期にあり、S期ではないため、Cは誤りです。"
+    }
+  },
+  {
+    "page_number": 294,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements about cyclins, cyclin-dependent kinases (Cdks), and MPF are correct? (Select all that apply)",
+      "zh": "关于细胞周期蛋白（cyclins）、细胞周期蛋白依赖性激酶（Cdks）和 MPF，以下哪些陈述是正确的？（选择所有适用项）",
+      "es": "¿Cuáles de las siguientes afirmaciones sobre las ciclinas, las quinasas dependientes de ciclina (Cdks) y el MPF son correctas? (Seleccione todas las que apliquen)",
+      "fr": "Lesquelles des affirmations suivantes concernant les cyclines, les kinases dépendantes des cyclines (Cdks) et le MPF sont correctes ? (Sélectionnez toutes les réponses pertinentes)",
+      "de": "Welche der folgenden Aussagen zu Cyclinen, Cyclin-abhängigen Kinasen (Cdks) und MPF sind korrekt? (Wählen Sie alle zutreffenden aus)",
+      "ja": "サイクリン、サイクリン依存性キナーゼ（Cdks）、およびMPFに関する以下の記述のうち、正しいものはどれですか？（該当するものをすべて選択）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Cyclins are protein kinases that activate or inactivate other proteins by phosphorylating them.",
+          "zh": "细胞周期蛋白是蛋白质激酶，通过磷酸化作用激活或使其他蛋白质失活。",
+          "es": "Las ciclinas son quinasas proteicas que activan o inactivan otras proteínas fosforilándolas.",
+          "fr": "Les cyclines sont des protéines kinases qui activent ou inactivent d'autres protéines par phosphorylation.",
+          "de": "Cycline sind Proteinkinasen, die andere Proteine durch Phosphorylierung aktivieren oder inaktivieren.",
+          "ja": "サイクリンは、他のタンパク質をリン酸化することによって活性化または不活性化するプロテインキナーゼである。"
+        },
+        "feedback": {
+          "en": "Protein kinases (Cdks) perform phosphorylation, not cyclins. Cyclins bind to Cdks to activate them.",
+          "zh": "蛋白质激酶（Cdks）执行磷酸化，而不是细胞周期蛋白。细胞周期蛋白与 Cdks 结合以激活它们。",
+          "es": "Las quinasas proteicas (Cdks) realizan la fosforilación, no las ciclinas. Las ciclinas se unen a las Cdks para activarlas.",
+          "fr": "Ce sont les protéines kinases (Cdks) qui effectuent la phosphorylation, pas les cyclines. Les cyclines se lient aux Cdks pour les activer.",
+          "de": "Proteinkinasen (Cdks) führen die Phosphorylierung durch, nicht Cycline. Cycline binden an Cdks, um diese zu aktivieren.",
+          "ja": "リン酸化を行うのはプロテインキナーゼ（Cdks）であり、サイクリンではありません。サイクリンはCdksに結合して活性化させます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Cyclin-dependent kinases (Cdks) are present at a constant concentration in the growing cell but are only active when bound to a cyclin.",
+          "zh": "细胞周期蛋白依赖性激酶（Cdks）在生长细胞中浓度恒定，但只有与细胞周期蛋白结合时才具有活性。",
+          "es": "Las quinasas dependientes de ciclina (Cdks) están presentes en una concentración constante en la célula en crecimiento, pero solo están activas cuando se unen a una ciclina.",
+          "fr": "Les kinases dépendantes des cyclines (Cdks) sont présentes à une concentration constante dans la cellule en croissance mais ne sont actives que lorsqu'elles sont liées à une cycline.",
+          "de": "Cyclin-abhängige Kinasen (Cdks) sind in wachsenden Zellen in konstanter Konzentration vorhanden, aber nur aktiv, wenn sie an ein Cyclin gebunden sind.",
+          "ja": "サイクリン依存性キナーゼ（Cdks）は増殖中の細胞内で一定の濃度で存在しますが、サイクリンに結合している場合にのみ活性を示します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "MPF activity peaks during the S and G2 phases, leading to the initiation of mitosis.",
+          "zh": "MPF 的活性在 S 期和 G2 期达到峰值，从而启动有丝分裂。",
+          "es": "La actividad del MPF alcanza su punto máximo durante las fases S y G2, lo que lleva al inicio de la mitosis.",
+          "fr": "L'activité du MPF atteint son pic pendant les phases S et G2, conduisant à l'initiation de la mitose.",
+          "de": "Die MPF-Aktivität erreicht ihren Höhepunkt während der S- und G2-Phasen und führt zur Einleitung der Mitose.",
+          "ja": "MPFの活性はS期とG2期にピークに達し、有糸分裂の開始につながる。"
+        },
+        "feedback": {
+          "en": "MPF activity peaks during the M phase and triggers entry into M phase past the G2 checkpoint. The cyclin level rises during S and G2, but MPF activity itself peaks during M.",
+          "zh": "MPF 的活性在 M 期达到峰值，并触发细胞进入 M 期，通过 G2 检查点。细胞周期蛋白水平在 S 和 G2 期上升，但 MPF 活性本身在 M 期达到峰值。",
+          "es": "La actividad del MPF alcanza su punto máximo durante la fase M y desencadena la entrada en la fase M, pasando el punto de control G2. El nivel de ciclina aumenta durante S y G2, pero la actividad del MPF en sí misma alcanza su punto máximo durante M.",
+          "fr": "L'activité du MPF atteint son pic pendant la phase M et déclenche l'entrée en phase M après le point de contrôle G2. Le niveau de cycline augmente pendant les phases S et G2, mais l'activité du MPF elle-même atteint son pic pendant la phase M.",
+          "de": "Die MPF-Aktivität erreicht ihren Höhepunkt während der M-Phase und löst den Eintritt in die M-Phase nach dem G2-Checkpoint aus. Der Cyclin-Spiegel steigt während S und G2 an, aber die MPF-Aktivität selbst erreicht ihren Höhepunkt während M.",
+          "ja": "MPFの活性はM期にピークに達し、G2チェックポイントを通過してM期への進入を誘発します。サイクリンレベルはS期とG2期に上昇しますが、MPFの活性自体はM期にピークを迎えます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "MPF is a cyclin-Cdk complex that triggers the cell's passage into the M phase.",
+          "zh": "MPF 是细胞周期蛋白-Cdk 复合物，它触发细胞进入 M 期。",
+          "es": "El MPF es un complejo ciclina-Cdk que desencadena el paso de la célula a la fase M.",
+          "fr": "Le MPF est un complexe cycline-Cdk qui déclenche le passage de la cellule en phase M.",
+          "de": "MPF ist ein Cyclin-Cdk-Komplex, der den Übergang der Zelle in die M-Phase auslöst.",
+          "ja": "MPFは、細胞のM期への移行を誘発するサイクリン-Cdk複合体である。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "B",
+      "D"
+    ],
+    "explanation": {
+      "en": "Option B is correct as the text states Cdks are 'present at a constant concentration in the growing cell, but much of the time they are in an inactive form. To be active, such a kinase must be attached to a cyclin'. Option D is also correct, as the text defines MPF as 'the cyclin-Cdk complex' that 'triggers the cell's passage into the M phase, past the G2 checkpoint'. Option A is incorrect because Cdks are protein kinases, not cyclins. Option C is incorrect because MPF activity peaks during the M phase, not S and G2 phases.",
+      "zh": "选项 B 是正确的，因为文本指出 Cdks“在生长细胞中浓度恒定，但大部分时间处于非活性形式。要具有活性，此类激酶必须与细胞周期蛋白结合”。选项 D 也是正确的，因为文本将 MPF 定义为“细胞周期蛋白-Cdk 复合物”，它“触发细胞通过 G2 检查点进入 M 期”。选项 A 不正确，因为蛋白质激酶是 Cdks，而不是细胞周期蛋白。选项 C 不正确，因为 MPF 的活性在 M 期达到峰值，而不是 S 和 G2 期。",
+      "es": "La opción B es correcta, ya que el texto indica que las Cdks 'están presentes en una concentración constante en la célula en crecimiento, pero la mayor parte del tiempo están en forma inactiva. Para estar activas, estas quinasas deben estar unidas a una ciclina'. La opción D también es correcta, ya que el texto define el MPF como 'el complejo ciclina-Cdk' que 'desencadena el paso de la célula a la fase M, pasando el punto de control G2'. La opción A es incorrecta porque las Cdks son quinasas proteicas, no las ciclinas. La opción C es incorrecta porque la actividad del MPF alcanza su punto máximo durante la fase M, no en las fases S y G2.",
+      "fr": "L'option B est correcte car le texte indique que les Cdks sont « présentes à une concentration constante dans la cellule en croissance, mais la plupart du temps sous une forme inactive. Pour être actives, ces kinases doivent être attachées à une cycline ». L'option D est également correcte, car le texte définit le MPF comme « le complexe cycline-Cdk » qui « déclenche le passage de la cellule en phase M, après le point de contrôle G2 ». L'option A est incorrecte car les Cdks sont des protéines kinases, pas les cyclines. L'option C est incorrecte car l'activité du MPF atteint son pic pendant la phase M, et non les phases S et G2.",
+      "de": "Option B ist korrekt, da der Text besagt, dass Cdks „in wachsenden Zellen in konstanter Konzentration vorhanden sind, aber die meiste Zeit in inaktiver Form vorliegen. Um aktiv zu sein, muss eine solche Kinase an ein Cyclin gebunden sein.“ Option D ist ebenfalls korrekt, da der Text MPF als „den Cyclin-Cdk-Komplex“ definiert, der „den Übergang der Zelle in die M-Phase, vorbei am G2-Checkpoint, auslöst.“ Option A ist falsch, da Cdks Proteinkinasen sind, nicht Cycline. Option C ist falsch, da die MPF-Aktivität während der M-Phase ihren Höhepunkt erreicht, nicht in den S- und G2-Phasen.",
+      "ja": "オプションBは正しいです。本文にCdksは「増殖中の細胞内で一定の濃度で存在しますが、その多くは不活性な形です。活性化するためには、そのようなキナーゼはサイクリンに結合していなければなりません」と記載されているためです。オプションDも正しいです。本文でMPFは「サイクリン-Cdk複合体」であり、「G2チェックポイントを通過して、細胞のM期への移行を誘発する」と定義されているためです。オプションAは、Cdksはプロテインキナーゼであり、サイクリンではないため誤りです。オプションCは、MPFの活性はS期とG2期ではなく、M期にピークに達するため誤りです。"
+    }
+  },
+  {
+    "page_number": 294,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "If the progression of cell cycle phases did not depend on cytoplasmic molecules and each phase began only when the previous one was complete, how would the results of the cell fusion experiments (Figure 12.14) have differed?",
+      "zh": "如果细胞周期阶段的进展不依赖于细胞质分子，并且每个阶段只有在前一个阶段完成后才开始，那么细胞融合实验（图 12.14）的结果会有何不同？",
+      "es": "Si la progresión de las fases del ciclo celular no dependiera de las moléculas citoplasmáticas y cada fase comenzara solo cuando la anterior estuviera completa, ¿cómo habrían diferido los resultados de los experimentos de fusión celular (Figura 12.14)?",
+      "fr": "Si la progression des phases du cycle cellulaire ne dépendait pas des molécules cytoplasmiques et que chaque phase ne commençait qu'une fois la précédente terminée, comment les résultats des expériences de fusion cellulaire (Figure 12.14) auraient-ils différé ?",
+      "de": "Wenn der Fortschritt der Zellzyklusphasen nicht von zytoplasmatischen Molekülen abhängen würde und jede Phase erst begann, wenn die vorherige abgeschlossen war, wie hätten sich die Ergebnisse der Zellfusionsexperimente (Abbildung 12.14) unterschieden?",
+      "ja": "細胞周期の段階の進行が細胞質分子に依存せず、各段階が前の段階が完了した後にのみ開始される場合、細胞融合実験（図12.14）の結果はどのように異なっていたでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The G1 nucleus in both experiments would still immediately enter S phase or mitosis, demonstrating the dominance of the fused cell's state.",
+          "zh": "两个实验中的 G1 期细胞核都将立即进入 S 期或有丝分裂，表明融合细胞状态的支配地位。",
+          "es": "El núcleo en G1 en ambos experimentos seguiría entrando inmediatamente en fase S o mitosis, demostrando el dominio del estado de la célula fusionada.",
+          "fr": "Le noyau en G1 dans les deux expériences entrerait toujours immédiatement en phase S ou en mitose, démontrant la dominance de l'état de la cellule fusionnée.",
+          "de": "Der G1-Kern würde in beiden Experimenten immer noch sofort in die S-Phase oder Mitose eintreten, was die Dominanz des Zustands der fusionierten Zelle demonstriert.",
+          "ja": "両方の実験でG1期の核は依然としてすぐにS期または有糸分裂に入り、融合細胞の状態が優勢であることを示すだろう。"
+        },
+        "feedback": {
+          "en": "This would be the result if cytoplasmic molecules *did* control progression. Without them, the G1 nucleus would not be forced to advance prematurely.",
+          "zh": "如果细胞质分子 *确实* 控制进程，这将是结果。没有它们，G1 期细胞核就不会被强制过早地进展。",
+          "es": "Este sería el resultado si las moléculas citoplasmáticas *controlaran* la progresión. Sin ellas, el núcleo en G1 no sería forzado a avanzar prematuramente.",
+          "fr": "Ce serait le résultat si les molécules cytoplasmiques *contrôlaient* la progression. Sans elles, le noyau en G1 ne serait pas forcé d'avancer prématurément.",
+          "de": "Dies wäre das Ergebnis, wenn zytoplasmatische Moleküle den Fortschritt *kontrollieren* würden. Ohne sie würde der G1-Kern nicht vorzeitig voranschreiten.",
+          "ja": "これは、細胞質分子が進行を*制御*した場合の結果となります。それらがなければ、G1期の核は時期尚早に進行を強いられることはありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The G1 nucleus in both experiments would remain in G1 phase and not progress until its own internal conditions were met for S or M phase, respectively.",
+          "zh": "两个实验中的 G1 期细胞核都将停留在 G1 期，并且不会进展，直到它自身达到 S 期或 M 期的内部条件。",
+          "es": "El núcleo en G1 en ambos experimentos permanecería en fase G1 y no progresaría hasta que se cumplieran sus propias condiciones internas para las fases S o M, respectivamente.",
+          "fr": "Le noyau en G1 dans les deux expériences resterait en phase G1 et ne progresserait pas tant que ses propres conditions internes pour la phase S ou M, respectivement, ne seraient pas remplies.",
+          "de": "Der G1-Kern in beiden Experimenten würde in der G1-Phase bleiben und erst dann fortschreiten, wenn seine eigenen internen Bedingungen für die S- oder M-Phase erfüllt wären.",
+          "ja": "両方の実験において、G1期の核はG1期に留まり、S期またはM期に移行するための独自の内部条件が満たされるまで進行しません。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The S phase nucleus would be forced back into G1 phase by the G1 nucleus, indicating G1 dominance.",
+          "zh": "S 期细胞核会被 G1 期细胞核强制返回 G1 期，表明 G1 期占主导地位。",
+          "es": "El núcleo en fase S sería forzado a regresar a la fase G1 por el núcleo en G1, indicando dominancia de G1.",
+          "fr": "Le noyau en phase S serait forcé de retourner en phase G1 par le noyau en G1, indiquant une dominance de la phase G1.",
+          "de": "Der S-Phasen-Kern würde vom G1-Kern in die G1-Phase zurückgedrängt werden, was eine G1-Dominanz anzeigt.",
+          "ja": "S期核はG1期核によってG1期に強制的に戻され、G1期の優位性を示すだろう。"
+        },
+        "feedback": {
+          "en": "The question specifies progression not depending on cytoplasmic molecules, implying no 'forcing' by the fused partner.",
+          "zh": "问题明确指出进展不依赖于细胞质分子，这意味着融合伴侣不会“强迫”进展。",
+          "es": "La pregunta especifica que la progresión no depende de las moléculas citoplasmáticas, lo que implica que no hay 'forzamiento' por parte del compañero fusionado.",
+          "fr": "La question précise que la progression ne dépend pas des molécules cytoplasmiques, ce qui implique aucune 'contrainte' de la part du partenaire fusionné.",
+          "de": "Die Frage besagt, dass der Fortschritt nicht von zytoplasmatischen Molekülen abhängt, was bedeutet, dass keine 'Erzwingung' durch den fusionierten Partner stattfindet.",
+          "ja": "この質問は、進行が細胞質分子に依存しないことを指定しており、融合パートナーによる「強制」がないことを意味します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Only Experiment 1's results would differ, as S phase is less dependent on cytoplasmic signals than M phase.",
+          "zh": "只有实验 1 的结果会有所不同，因为 S 期对细胞质信号的依赖性低于 M 期。",
+          "es": "Solo los resultados del Experimento 1 diferirían, ya que la fase S depende menos de las señales citoplasmáticas que la fase M.",
+          "fr": "Seuls les résultats de l'Expérience 1 différeraient, car la phase S dépend moins des signaux cytoplasmiques que la phase M.",
+          "de": "Nur die Ergebnisse von Experiment 1 würden sich unterscheiden, da die S-Phase weniger von zytoplasmatischen Signalen abhängig ist als die M-Phase.",
+          "ja": "S期はM期よりも細胞質信号への依存度が低いため、実験1の結果のみが異なるだろう。"
+        },
+        "feedback": {
+          "en": "The premise applies to *all* phases. Both S and M phase cytoplasmic factors are shown to influence G1 progression.",
+          "zh": "这个前提适用于 *所有* 阶段。S 期和 M 期细胞质因子都被证明会影响 G1 期的进展。",
+          "es": "La premisa se aplica a *todas* las fases. Se demuestra que los factores citoplasmáticos de las fases S y M influyen en la progresión de G1.",
+          "fr": "La prémisse s'applique à *toutes* les phases. Il est démontré que les facteurs cytoplasmiques des phases S et M influencent la progression de G1.",
+          "de": "Die Prämisse gilt für *alle* Phasen. Sowohl S- als auch M-Phasen-zytoplasmatische Faktoren beeinflussen nachweislich den G1-Fortschritt.",
+          "ja": "この前提は*すべての*段階に適用されます。S期とM期の両方の細胞質因子がG1期の進行に影響を与えることが示されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The original experiments showed that cytoplasmic molecules from S or M phase could *force* a G1 nucleus to enter those phases prematurely. If progression did *not* depend on cytoplasmic molecules, and each phase only began after the previous one was complete (i.e., regulated by its own internal state), then the G1 nucleus would not be influenced by the fused cell's cytoplasm. It would remain in G1 until its own internal conditions were met, making it unable to prematurely enter S or M phase.",
+      "zh": "原始实验表明，S 期或 M 期的细胞质分子可以 *强制* G1 期细胞核提前进入这些阶段。如果进展 *不* 依赖于细胞质分子，并且每个阶段只有在前一个阶段完成后才开始（即由其自身的内部状态调节），那么 G1 期细胞核将不受融合细胞细胞质的影响。它将停留在 G1 期，直到其自身的内部条件得到满足，从而无法提前进入 S 或 M 期。",
+      "es": "Los experimentos originales mostraron que las moléculas citoplasmáticas de la fase S o M podían *forzar* a un núcleo en G1 a entrar en esas fases prematuramente. Si la progresión *no* dependiera de las moléculas citoplasmáticas y cada fase comenzara solo después de que la anterior estuviera completa (es decir, regulada por su propio estado interno), entonces el núcleo en G1 no se vería influenciado por el citoplasma de la célula fusionada. Permanecería en G1 hasta que se cumplieran sus propias condiciones internas, lo que le impediría entrar prematuramente en la fase S o M.",
+      "fr": "Les expériences originales ont montré que les molécules cytoplasmiques de la phase S ou M pouvaient *forcer* un noyau G1 à entrer prématurément dans ces phases. Si la progression ne dépendait *pas* des molécules cytoplasmiques et que chaque phase ne commençait qu'après la fin de la précédente (c'est-à-dire, régulée par son propre état interne), alors le noyau G1 ne serait pas influencé par le cytoplasme de la cellule fusionnée. Il resterait en G1 jusqu'à ce que ses propres conditions internes soient remplies, le rendant incapable d'entrer prématurément en phase S ou M.",
+      "de": "Die ursprünglichen Experimente zeigten, dass zytoplasmatische Moleküle aus der S- oder M-Phase einen G1-Kern *zwingen* konnten, vorzeitig in diese Phasen einzutreten. Wenn der Fortschritt *nicht* von zytoplasmatischen Molekülen abhängen würde und jede Phase erst nach Abschluss der vorherigen begann (d.h. durch ihren eigenen internen Zustand reguliert), dann würde der G1-Kern nicht durch das Zytoplasma der fusionierten Zelle beeinflusst werden. Er würde in G1 bleiben, bis seine eigenen internen Bedingungen erfüllt wären, wodurch er nicht vorzeitig in die S- oder M-Phase eintreten könnte.",
+      "ja": "元の実験では、S期またはM期の細胞質分子がG1期核をそれらの段階に時期尚早に移行させることが*強制できる*ことを示しました。もし進行が細胞質分子に*依存せず*、各段階が前の段階が完了した後にのみ開始される（すなわち、それ自身の内部状態によって調節される）場合、G1期核は融合細胞の細胞質の影響を受けないでしょう。それは自身の内部条件が満たされるまでG1期に留まり、S期またはM期に時期尚早に移行することはできません。"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 271,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on Figure 11.10 and its legend, what would be the most likely consequence if a mutation in protein kinase 2 made it incapable of being phosphorylated?",
+      "zh": "根据图11.10及其图例，如果蛋白质激酶2因突变而无法被磷酸化，最可能的结果是什么？",
+      "es": "Basándose en la Figura 11.10 y su leyenda, ¿cuál sería la consecuencia más probable si una mutación en la proteína quinasa 2 la hiciera incapaz de ser fosforilada?",
+      "fr": "En se basant sur la Figure 11.10 et sa légende, quelle serait la conséquence la plus probable si une mutation de la protéine kinase 2 la rendait incapable d'être phosphorylée ?",
+      "de": "Basierend auf Abbildung 11.10 und ihrer Legende, was wäre die wahrscheinlichste Konsequenz, wenn eine Mutation in Proteinkinase 2 diese unfähig machen würde, phosphoryliert zu werden?",
+      "ja": "図11.10とその凡例に基づくと、タンパク質キナーゼ2の変異によりリン酸化不能になった場合、最も可能性の高い結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The cellular response would be continuously active.",
+          "zh": "细胞反应将持续活跃。",
+          "es": "La respuesta celular estaría continuamente activa.",
+          "fr": "La réponse cellulaire serait continuellement active.",
+          "de": "Die zelluläre Antwort wäre kontinuierlich aktiv.",
+          "ja": "細胞応答は継続的に活性化されるでしょう。"
+        },
+        "feedback": {
+          "en": "A mutation preventing phosphorylation of protein kinase 2 would prevent its activation, thus preventing the downstream cellular response.",
+          "zh": "阻止蛋白质激酶2磷酸化的突变会阻止其激活，从而阻止下游的细胞反应。",
+          "es": "Una mutación que impida la fosforilación de la proteína quinasa 2 evitaría su activación y, por lo tanto, la respuesta celular posterior.",
+          "fr": "Une mutation empêchant la phosphorylation de la protéine kinase 2 empêcherait son activation, et donc la réponse cellulaire en aval.",
+          "de": "Eine Mutation, die die Phosphorylierung von Proteinkinase 2 verhindert, würde deren Aktivierung und somit die nachgeschaltete zelluläre Reaktion verhindern.",
+          "ja": "プロテインキナーゼ2のリン酸化を妨げる変異は、その活性化を妨げ、ひいては下流の細胞応答を妨げます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Protein kinase 1 would remain inactive.",
+          "zh": "蛋白质激酶1将保持非活性状态。",
+          "es": "La proteína quinasa 1 permanecería inactiva.",
+          "fr": "La protéine kinase 1 resterait inactive.",
+          "de": "Proteinkinase 1 würde inaktiv bleiben.",
+          "ja": "プロテインキナーゼ1は不活性のままでしょう。"
+        },
+        "feedback": {
+          "en": "Protein kinase 1 activation is upstream of protein kinase 2 phosphorylation and would not be directly affected by this specific mutation.",
+          "zh": "蛋白质激酶1的激活发生在蛋白质激酶2磷酸化的上游，不会直接受到此特定突变的影响。",
+          "es": "La activación de la proteína quinasa 1 es anterior a la fosforilación de la proteína quinasa 2 y no se vería directamente afectada por esta mutación específica.",
+          "fr": "L'activation de la protéine kinase 1 est en amont de la phosphorylation de la protéine kinase 2 et ne serait pas directement affectée par cette mutation spécifique.",
+          "de": "Die Aktivierung von Proteinkinase 1 liegt stromaufwärts der Phosphorylierung von Proteinkinase 2 und wäre von dieser spezifischen Mutation nicht direkt betroffen.",
+          "ja": "プロテインキナーゼ1の活性化はプロテインキナーゼ2のリン酸化よりも上流にあり、この特定の変異によって直接影響を受けることはありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The phosphorylation cascade would be interrupted at protein kinase 2, preventing the cellular response.",
+          "zh": "磷酸化级联将在蛋白质激酶2处中断，从而阻止细胞反应。",
+          "es": "La cascada de fosforilación se interrumpiría en la proteína quinasa 2, impidiendo la respuesta celular.",
+          "fr": "La cascade de phosphorylation serait interrompue au niveau de la protéine kinase 2, empêchant la réponse cellulaire.",
+          "de": "Die Phosphorylierungskaskade würde bei Proteinkinase 2 unterbrochen werden, wodurch die zelluläre Antwort verhindert wird.",
+          "ja": "リン酸化カスケードはプロテインキナーゼ2で中断され、細胞応答が妨げられるでしょう。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Protein phosphatases would become hyperactive.",
+          "zh": "蛋白质磷酸酶将变得过度活跃。",
+          "es": "Las fosfatasas de proteínas se volverían hiperactivas.",
+          "fr": "Les phosphatases protéiques deviendraient hyperactives.",
+          "de": "Proteindetoxikasen würden hyperaktiv werden.",
+          "ja": "プロテインホスファターゼは過剰に活性化されるでしょう。"
+        },
+        "feedback": {
+          "en": "The mutation affects protein kinase 2's ability to be phosphorylated, not the activity of protein phosphatases. While phosphatases remove phosphates, this mutation directly prevents the *addition* of a phosphate to activate PK2.",
+          "zh": "该突变影响的是蛋白质激酶2被磷酸化的能力，而不是蛋白质磷酸酶的活性。虽然磷酸酶会去除磷酸基团，但此突变直接阻止了激活PK2的磷酸基团的“添加”。",
+          "es": "La mutación afecta la capacidad de la proteína quinasa 2 para ser fosforilada, no la actividad de las fosfatasas de proteínas. Aunque las fosfatasas eliminan fosfatos, esta mutación previene directamente la *adición* de un fosfato para activar la PK2.",
+          "fr": "La mutation affecte la capacité de la protéine kinase 2 à être phosphorylée, et non l'activité des phosphatases protéiques. Bien que les phosphatases éliminent les phosphates, cette mutation empêche directement l'*ajout* d'un phosphate pour activer la PK2.",
+          "de": "Die Mutation betrifft die Fähigkeit der Proteinkinase 2, phosphoryliert zu werden, nicht die Aktivität der Proteindetoxikasen. Während Phosphatasen Phosphate entfernen, verhindert diese Mutation direkt die *Addition* eines Phosphats zur Aktivierung von PK2.",
+          "ja": "この変異はプロテインキナーゼ2がリン酸化される能力に影響を与え、プロテインホスファターゼの活性には影響しません。ホスファターゼはリン酸を除去しますが、この変異はPK2を活性化するためのリン酸の「付加」を直接妨げます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 11.10 shows that inactive protein kinase 2 is activated by phosphorylation by active protein kinase 1. If protein kinase 2 cannot be phosphorylated, it will remain inactive, thus halting the phosphorylation cascade at this step and preventing the subsequent phosphorylation of the active protein (purple) and the resulting cellular response.",
+      "zh": "图11.10显示非活性蛋白质激酶2通过活性蛋白质激酶1的磷酸化作用被激活。如果蛋白质激酶2无法被磷酸化，它将保持非活性状态，从而在这一步中断磷酸化级联，阻止后续活性蛋白质（紫色）的磷酸化以及由此产生的细胞反应。",
+      "es": "La Figura 11.10 muestra que la proteína quinasa 2 inactiva se activa mediante la fosforilación por la proteína quinasa 1 activa. Si la proteína quinasa 2 no puede ser fosforilada, permanecerá inactiva, deteniendo así la cascada de fosforilación en este paso e impidiendo la fosforilación posterior de la proteína activa (morada) y la respuesta celular resultante.",
+      "fr": "La Figure 11.10 montre que la protéine kinase 2 inactive est activée par phosphorylation par la protéine kinase 1 active. Si la protéine kinase 2 ne peut pas être phosphorylée, elle restera inactive, interrompant ainsi la cascade de phosphorylation à cette étape et empêchant la phosphorylation subséquente de la protéine active (violette) et la réponse cellulaire résultante.",
+      "de": "Abbildung 11.10 zeigt, dass inaktive Proteinkinase 2 durch Phosphorylierung durch aktive Proteinkinase 1 aktiviert wird. Wenn Proteinkinase 2 nicht phosphoryliert werden kann, bleibt sie inaktiv, wodurch die Phosphorylierungskaskade an dieser Stelle unterbrochen wird und die nachfolgende Phosphorylierung des aktiven Proteins (lila) und die daraus resultierende zelluläre Antwort verhindert werden.",
+      "ja": "図11.10は、不活性なプロテインキナーゼ2が、活性なプロテインキナーゼ1によるリン酸化によって活性化されることを示しています。もしプロテインキナーゼ2がリン酸化されなければ、それは不活性なままとなり、この段階でリン酸化カスケードが中断され、その後の活性タンパク質（紫色）のリン酸化とそれに続く細胞応答が妨げられます。"
+    }
+  },
+  {
+    "page_number": 271,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately distinguishes Receptor Tyrosine Kinases (RTKs) from most cytoplasmic protein kinases, based on the provided text?",
+      "zh": "根据所提供的文本，以下哪一项陈述准确区分了受体酪氨酸激酶（RTK）与大多数细胞质蛋白激酶？",
+      "es": "Según el texto proporcionado, ¿cuál de las siguientes afirmaciones distingue con precisión las tirosina quinasas de receptores (RTK) de la mayoría de las proteínas quinasas citoplasmáticas?",
+      "fr": "Selon le texte fourni, laquelle des affirmations suivantes distingue avec précision les récepteurs tyrosine kinases (RTK) de la plupart des protéines kinases cytoplasmiques ?",
+      "de": "Basierend auf dem bereitgestellten Text, welche der folgenden Aussagen unterscheidet Rezeptortyrosinkinasen (RTKs) genau von den meisten zytoplasmatischen Proteinkinasen?",
+      "ja": "提供されたテキストに基づき、以下の記述のうち、受容体チロシンキナーゼ（RTK）とほとんどの細胞質プロテインキナーゼを正確に区別しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "RTKs primarily phosphorylate serine or threonine residues, whereas cytoplasmic protein kinases phosphorylate tyrosine residues.",
+          "zh": "RTK主要磷酸化丝氨酸或苏氨酸残基，而细胞质蛋白激酶磷酸化酪氨酸残基。",
+          "es": "Las RTK fosforilan principalmente residuos de serina o treonina, mientras que las quinasas de proteínas citoplasmáticas fosforilan residuos de tirosina.",
+          "fr": "Les RTK phosphorylent principalement les résidus de sérine ou de thréonine, tandis que les protéines kinases cytoplasmiques phosphorylent les résidus de tyrosine.",
+          "de": "RTKs phosphorylieren hauptsächlich Serin- oder Threoninreste, während zytoplasmatische Proteinkinasen Tyrosinreste phosphorylieren.",
+          "ja": "RTKは主にセリンまたはスレオニン残基をリン酸化しますが、細胞質プロテインキナーゼはチロシン残基をリン酸化します。"
+        },
+        "feedback": {
+          "en": "The text states that RTKs phosphorylate tyrosines, while most cytoplasmic protein kinases phosphorylate serine or threonine. This statement reverses the roles.",
+          "zh": "文本指出RTK磷酸化酪氨酸，而大多数细胞质蛋白激酶磷酸化丝氨酸或苏氨酸。此陈述颠倒了角色。",
+          "es": "El texto indica que las RTK fosforilan tirosinas, mientras que la mayoría de las proteínas quinasas citoplasmáticas fosforilan serina o treonina. Esta afirmación invierte los roles.",
+          "fr": "Le texte indique que les RTK phosphorylent les tyrosines, tandis que la plupart des protéines kinases cytoplasmiques phosphorylent la sérine ou la thréonine. Cette affirmation inverse les rôles.",
+          "de": "Der Text besagt, dass RTKs Tyrosine phosphorylieren, während die meisten zytoplasmatischen Proteinkinasen Serin oder Threonin phosphorylieren. Diese Aussage kehrt die Rollen um.",
+          "ja": "テキストには、RTKはチロシンをリン酸化するのに対し、ほとんどの細胞質プロテインキナーゼはセリンまたはスレオニンをリン酸化すると記載されています。この記述は役割を逆転させています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "RTKs typically act on proteins different from themselves, while cytoplasmic protein kinases phosphorylate other RTKs in a dimer.",
+          "zh": "RTK通常作用于与自身不同的蛋白质，而细胞质蛋白激酶磷酸化二聚体中的其他RTK。",
+          "es": "Las RTK típicamente actúan sobre proteínas diferentes a sí mismas, mientras que las quinasas de proteínas citoplasmáticas fosforilan otras RTK en un dímero.",
+          "fr": "Les RTK agissent généralement sur des protéines différentes d'elles-mêmes, tandis que les protéines kinases cytoplasmiques phosphorylent d'autres RTK dans un dimère.",
+          "de": "RTKs wirken typischerweise auf andere Proteine als sich selbst, während zytoplasmatische Proteinkinasen andere RTKs in einem Dimer phosphorylieren.",
+          "ja": "RTKは通常、自身とは異なるタンパク質に作用しますが、細胞質プロテインキナーゼは二量体内の他のRTKをリン酸化します。"
+        },
+        "feedback": {
+          "en": "The text specifies that RTKs phosphorylate other RTKs in a dimer, whereas most cytoplasmic protein kinases act on proteins different from themselves. This statement also reverses the roles.",
+          "zh": "文本明确指出RTK磷酸化二聚体中的其他RTK，而大多数细胞质蛋白激酶作用于与自身不同的蛋白质。此陈述也颠倒了角色。",
+          "es": "El texto especifica que las RTK fosforilan otras RTK en un dímero, mientras que la mayoría de las proteínas quinasas citoplasmáticas actúan sobre proteínas diferentes a sí mismas. Esta afirmación también invierte los roles.",
+          "fr": "Le texte spécifie que les RTK phosphorylent d'autres RTK dans un dimère, tandis que la plupart des protéines kinases cytoplasmiques agissent sur des protéines différentes d'elles-mêmes. Cette affirmation inverse également les rôles.",
+          "de": "Der Text besagt, dass RTKs andere RTKs in einem Dimer phosphorylieren, während die meisten zytoplasmatischen Proteinkinasen auf andere Proteine als sich selbst wirken. Diese Aussage kehrt die Rollen ebenfalls um.",
+          "ja": "テキストには、RTKは二量体内の他のRTKをリン酸化するのに対し、ほとんどの細胞質プロテインキナーゼは自身とは異なるタンパク質に作用すると明記されています。この記述も役割を逆転させています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "RTKs phosphorylate tyrosines, while most cytoplasmic protein kinases phosphorylate serine or threonine residues.",
+          "zh": "RTK磷酸化酪氨酸，而大多数细胞质蛋白激酶磷酸化丝氨酸或苏氨酸残基。",
+          "es": "Las RTK fosforilan tirosinas, mientras que la mayoría de las quinasas de proteínas citoplasmáticas fosforilan residuos de serina o treonina.",
+          "fr": "Les RTK phosphorylent les tyrosines, tandis que la plupart des protéines kinases cytoplasmiques phosphorylent les résidus de sérine ou de thréonine.",
+          "de": "RTKs phosphorylieren Tyrosine, während die meisten zytoplasmatischen Proteinkinasen Serin- oder Threoninreste phosphorylieren.",
+          "ja": "RTKはチロシンをリン酸化するのに対し、ほとんどの細胞質プロテインキナーゼはセリンまたはスレオニン残基をリン酸化します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Only RTKs are involved in signal transduction pathways, whereas cytoplasmic protein kinases are involved in cell division regulation.",
+          "zh": "只有RTK参与信号转导通路，而细胞质蛋白激酶参与细胞分裂调节。",
+          "es": "Solo las RTK están involucradas en las vías de transducción de señales, mientras que las quinasas de proteínas citoplasmáticas están involucradas en la regulación de la división celular.",
+          "fr": "Seuls les RTK sont impliqués dans les voies de transduction du signal, tandis que les protéines kinases cytoplasmiques sont impliquées dans la régulation de la division cellulaire.",
+          "de": "Nur RTKs sind an Signaltransduktionswegen beteiligt, während zytoplasmatische Proteinkinasen an der Regulation der Zellteilung beteiligt sind.",
+          "ja": "RTKのみがシグナル伝達経路に関与し、細胞質プロテインキナーゼは細胞分裂の制御に関与します。"
+        },
+        "feedback": {
+          "en": "The text states that both types of kinases are involved in signaling pathways. It also mentions that protein kinases (including cytoplasmic ones) regulate cell division.",
+          "zh": "文本指出两种激酶都参与信号通路。它还提到蛋白质激酶（包括细胞质激酶）调节细胞分裂。",
+          "es": "El texto afirma que ambos tipos de quinasas están involucrados en las vías de señalización. También menciona que las quinasas de proteínas (incluidas las citoplasmáticas) regulan la división celular.",
+          "fr": "Le texte indique que les deux types de kinases sont impliqués dans les voies de signalisation. Il mentionne également que les protéines kinases (y compris les kinases cytoplasmiques) régulent la division cellulaire.",
+          "de": "Der Text besagt, dass beide Arten von Kinasen an Signalwegen beteiligt sind. Es wird auch erwähnt, dass Proteinkinasen (einschließlich zytoplasmatischer) die Zellteilung regulieren.",
+          "ja": "テキストには、両方の種類のキナーゼがシグナル伝達経路に関与していると記載されています。また、プロテインキナーゼ（細胞質キナーゼを含む）が細胞分裂を制御することも述べられています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Recall that a receptor tyrosine kinase (RTK) is a specific kind of protein kinase that phosphorylates tyrosines on the other RTK in a dimer. Most cytoplasmic protein kinases, however, act on proteins different from themselves. Another distinction is that most cytoplasmic protein kinases phosphorylate either of two other amino acids, serine or threonine, rather than tyrosine.' This directly supports option C.",
+      "zh": "文本明确指出：“回想一下，受体酪氨酸激酶（RTK）是一种特殊的蛋白质激酶，它磷酸化二聚体中另一个RTK上的酪氨酸。然而，大多数细胞质蛋白质激酶作用于与自身不同的蛋白质。另一个区别是，大多数细胞质蛋白质激酶磷酸化丝氨酸或苏氨酸这两种氨基酸，而不是酪氨酸。”这直接支持了选项C。",
+      "es": "El texto establece explícitamente: 'Recordemos que una tirosina quinasa de receptor (RTK) es un tipo específico de proteína quinasa que fosforila tirosinas en la otra RTK de un dímero. La mayoría de las quinasas de proteínas citoplasmáticas, sin embargo, actúan sobre proteínas diferentes a sí mismas. Otra distinción es que la mayoría de las quinasas de proteínas citoplasmáticas fosforilan uno de otros dos aminoácidos, serina o treonina, en lugar de tirosina.' Esto apoya directamente la opción C.",
+      "fr": "Le texte indique explicitement : 'Rappelons qu'une récepteur tyrosine kinase (RTK) est un type spécifique de protéine kinase qui phosphoryle les tyrosines sur l'autre RTK dans un dimère. La plupart des protéines kinases cytoplasmiques, cependant, agissent sur des protéines différentes d'elles-mêmes. Une autre distinction est que la plupart des protéines kinases cytoplasmiques phosphorylent l'un des deux autres acides aminés, la sérine ou la thréonine, plutôt que la tyrosine.' Cela soutient directement l'option C.",
+      "de": "Der Text besagt ausdrücklich: 'Man bedenke, dass eine Rezeptortyrosinkinase (RTK) eine spezifische Art von Proteinkinase ist, die Tyrosine auf dem anderen RTK in einem Dimer phosphoryliert. Die meisten zytoplasmatischen Proteinkinasen wirken jedoch auf andere Proteine als sich selbst. Ein weiterer Unterschied besteht darin, dass die meisten zytoplasmatischen Proteinkinasen entweder Serin oder Threonin, statt Tyrosin, phosphorylieren.' Dies unterstützt direkt Option C.",
+      "ja": "テキストには明確に「受容体チロシンキナーゼ（RTK）は、二量体内の他のRTKのチロシンをリン酸化する特定の種類のプロテインキナーゼである。しかし、ほとんどの細胞質プロテインキナーゼは、自身とは異なるタンパク質に作用する。もう一つの区別は、ほとんどの細胞質プロテインキナーゼはチロシンではなく、他の2つのアミノ酸、セリンまたはスレオニンをリン酸化することである」と述べられています。これは選択肢Cを直接支持しています。"
+    }
+  },
+  {
+    "page_number": 271,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, which of the following best describes the general principle of signal relay in a signaling pathway?",
+      "zh": "根据文本，以下哪项最能描述信号通路中信号中继的一般原理？",
+      "es": "Según el texto, ¿cuál de las siguientes opciones describe mejor el principio general de la retransmisión de la señal en una vía de señalización?",
+      "fr": "Selon le texte, laquelle des affirmations suivantes décrit le mieux le principe général de la transmission du signal dans une voie de signalisation ?",
+      "de": "Welches der folgenden beschreibt laut Text das allgemeine Prinzip der Signalweitergabe in einem Signalweg am besten?",
+      "ja": "テキストによると、シグナル伝達経路におけるシグナルリレーの一般原則を最もよく説明しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The original signaling molecule is physically passed from one protein to the next along the pathway.",
+          "zh": "原始信号分子沿通路从一个蛋白质物理传递到下一个。",
+          "es": "La molécula señalizadora original se pasa físicamente de una proteína a la siguiente a lo largo de la vía.",
+          "fr": "La molécule de signalisation originale est physiquement transmise d'une protéine à l'autre le long de la voie.",
+          "de": "Das ursprüngliche Signalmolekül wird physikalisch von einem Protein zum nächsten entlang des Signalwegs weitergegeben.",
+          "ja": "元のシグナル分子が経路に沿って一つのタンパク質から次のタンパク質へと物理的に受け渡される。"
+        },
+        "feedback": {
+          "en": "The text explicitly states, \"the original signaling molecule is not physically passed along a signaling pathway; in most cases, it never even enters the cell.\"",
+          "zh": "文本明确指出，“原始信号分子并非沿着信号通路物理传递；在大多数情况下，它甚至不进入细胞。”",
+          "es": "El texto establece explícitamente: \"la molécula señalizadora original no se transmite físicamente a lo largo de una vía de señalización; en la mayoría de los casos, ni siquiera entra en la célula\".",
+          "fr": "Le texte indique explicitement : \"la molécule de signalisation originale n'est pas physiquement transmise le long d'une voie de signalisation ; dans la plupart des cas, elle n'entre même pas dans la cellule.\"",
+          "de": "Der Text besagt ausdrücklich: \"Das ursprüngliche Signalmolekül wird nicht physisch entlang eines Signalwegs weitergegeben; in den meisten Fällen gelangt es nicht einmal in die Zelle.\"",
+          "ja": "テキストには「元のシグナル分子はシグナル伝達経路を物理的に伝達されることはなく、ほとんどの場合、細胞内に入ることすらない」とはっきり記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Information from the signal is transduced into a different form, often involving a shape change in the next protein.",
+          "zh": "信号信息被转导成不同的形式，通常涉及下一个蛋白质的形状改变。",
+          "es": "La información de la señal se transduce a una forma diferente, a menudo implicando un cambio de forma en la siguiente proteína.",
+          "fr": "L'information du signal est transduite sous une forme différente, impliquant souvent un changement de forme dans la protéine suivante.",
+          "de": "Informationen vom Signal werden in eine andere Form umgewandelt, oft unter Beteiligung einer Formänderung im nächsten Protein.",
+          "ja": "シグナルからの情報が異なる形に変換され、多くの場合、次のタンパク質の形状変化を伴う。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The signal strength is amplified by increasing the concentration of the original signaling molecule at each step.",
+          "zh": "信号强度通过在每个步骤增加原始信号分子的浓度来放大。",
+          "es": "La fuerza de la señal se amplifica aumentando la concentración de la molécula señalizadora original en cada paso.",
+          "fr": "La force du signal est amplifiée en augmentant la concentration de la molécule de signalisation originale à chaque étape.",
+          "de": "Die Signalstärke wird durch die Erhöhung der Konzentration des ursprünglichen Signalmoleküls bei jedem Schritt verstärkt.",
+          "ja": "シグナル強度は、各ステップで元のシグナル分子の濃度を増加させることによって増幅される。"
+        },
+        "feedback": {
+          "en": "Signal amplification occurs, but not by increasing the original signaling molecule's concentration. Instead, a single activated protein can activate many downstream proteins.",
+          "zh": "信号放大确实发生，但不是通过增加原始信号分子的浓度。相反，一个被激活的蛋白质可以激活多个下游蛋白质。",
+          "es": "La amplificación de la señal ocurre, pero no aumentando la concentración de la molécula señalizadora original. En su lugar, una única proteína activada puede activar muchas proteínas corriente abajo.",
+          "fr": "L'amplification du signal se produit, mais pas en augmentant la concentration de la molécule de signalisation originale. Au lieu de cela, une seule protéine activée peut activer de nombreuses protéines en aval.",
+          "de": "Signalverstärkung findet statt, aber nicht durch Erhöhung der Konzentration des ursprünglichen Signalmoleküls. Stattdessen kann ein einzelnes aktiviertes Protein viele nachgeschaltete Proteine aktivieren.",
+          "ja": "シグナル増幅は起こりますが、元のシグナル分子の濃度を増やすことによってではありません。代わりに、単一の活性化されたタンパク質が多数の下流のタンパク質を活性化できます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Only enzymes are involved in relaying signals, as they directly alter the chemical composition of the signaling molecule.",
+          "zh": "只有酶参与信号中继，因为它们直接改变信号分子的化学组成。",
+          "es": "Solo las enzimas están involucradas en la retransmisión de señales, ya que alteran directamente la composición química de la molécula señalizadora.",
+          "fr": "Seules les enzymes sont impliquées dans la transmission des signaux, car elles altèrent directement la composition chimique de la molécule de signalisation.",
+          "de": "Nur Enzyme sind an der Signalweitergabe beteiligt, da sie direkt die chemische Zusammensetzung des Signalmoleküls verändern.",
+          "ja": "シグナル分子の化学組成を直接変化させるため、酵素のみがシグナル伝達に関与する。"
+        },
+        "feedback": {
+          "en": "While enzymes (like kinases) are crucial, other relay molecules are also involved, and the signal itself is transduced, not chemically altered by enzymes. The original signaling molecule is generally not altered.",
+          "zh": "尽管酶（如激酶）至关重要，但其他中继分子也参与其中，并且信号本身是被转导的，而不是被酶化学改变的。原始信号分子通常不被改变。",
+          "es": "Aunque las enzimas (como las quinasas) son cruciales, otras moléculas de relevo también están involucradas, y la señal misma se transduce, no se altera químicamente por las enzimas. La molécula señalizadora original generalmente no se altera.",
+          "fr": "Bien que les enzymes (comme les kinases) soient cruciales, d'autres molécules de relais sont également impliquées, et le signal lui-même est transduit, non altéré chimiquement par les enzymes. La molécule de signalisation originale n'est généralement pas altérée.",
+          "de": "Obwohl Enzyme (wie Kinasen) entscheidend sind, sind auch andere Relaismoleküle beteiligt, und das Signal selbst wird transduziert, nicht chemisch von Enzymen verändert. Das ursprüngliche Signalmolekül wird im Allgemeinen nicht verändert.",
+          "ja": "酵素（キナーゼなど）は重要ですが、他のリレー分子も関与しており、シグナル自体は酵素によって化学的に変化するのではなく、変換されます。元のシグナル分子は通常変化しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The first paragraph states: 'Keep in mind that the original signaling molecule is not physically passed along a signaling pathway; in most cases, it never even enters the cell. When we say that the signal is relayed along a pathway, we mean that certain information is passed on. At each step, the signal is transduced into a different form, commonly a shape change in the next protein. Very often, the shape change is brought about by phosphorylation.' This directly describes option B.",
+      "zh": "第一段指出：“请记住，原始信号分子并非沿着信号通路物理传递；在大多数情况下，它甚至不进入细胞。当我们说信号沿通路中继时，我们指的是某些信息被传递下去。在每一步，信号被转导成不同的形式，通常是下一个蛋白质的形状改变。这种形状改变通常是由磷酸化引起的。”这直接描述了选项B。",
+      "es": "El primer párrafo establece: 'Tenga en cuenta que la molécula señalizadora original no se transmite físicamente a lo largo de una vía de señalización; en la mayoría de los casos, ni siquiera entra en la célula. Cuando decimos que la señal se retransmite a lo largo de una vía, queremos decir que se transmite cierta información. En cada paso, la señal se transduce a una forma diferente, comúnmente un cambio de forma en la siguiente proteína. Muy a menudo, el cambio de forma se produce por fosforilación.' Esto describe directamente la opción B.",
+      "fr": "Le premier paragraphe indique : « Gardez à l'esprit que la molécule de signalisation originale n'est pas physiquement transmise le long d'une voie de signalisation ; dans la plupart des cas, elle n'entre même pas dans la cellule. Lorsque nous disons que le signal est transmis le long d'une voie, nous entendons que certaines informations sont passées. À chaque étape, le signal est transduit sous une forme différente, souvent un changement de forme dans la protéine suivante. Très souvent, le changement de forme est provoqué par la phosphorylation. » Cela décrit directement l'option B.",
+      "de": "Der erste Absatz besagt: 'Beachten Sie, dass das ursprüngliche Signalmolekül nicht physisch entlang eines Signalwegs weitergegeben wird; in den meisten Fällen gelangt es nicht einmal in die Zelle. Wenn wir sagen, dass das Signal entlang eines Wegs weitergeleitet wird, meinen wir, dass bestimmte Informationen weitergegeben werden. Bei jedem Schritt wird das Signal in eine andere Form umgewandelt, typischerweise eine Formänderung im nächsten Protein. Sehr oft wird die Formänderung durch Phosphorylierung herbeigeführt.' Dies beschreibt direkt Option B.",
+      "ja": "最初の段落には、「元のシグナル分子はシグナル伝達経路を物理的に伝達されることはなく、ほとんどの場合、細胞内に入ることすらないことに留意してください。シグナルが経路に沿って伝達されると言うとき、特定の情報が伝えられることを意味します。各ステップで、シグナルは異なる形に変換され、通常、次のタンパク質の形状変化を伴います。多くの場合、形状変化はリン酸化によって引き起こされます」と述べられています。これは選択肢Bを直接説明しています。"
+    }
+  },
+  {
+    "page_number": 271,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "In the context of the phosphorylation cascade depicted in Figure 11.10, what are the primary opposing roles of protein kinases and protein phosphatases?",
+      "zh": "在图11.10所示的磷酸化级联中，蛋白质激酶和蛋白质磷酸酶的主要对立作用是什么？",
+      "es": "En el contexto de la cascada de fosforilación representada en la Figura 11.10, ¿cuáles son los principales papeles opuestos de las quinasas y las fosfatasas de proteínas?",
+      "fr": "Dans le contexte de la cascade de phosphorylation illustrée à la Figure 11.10, quels sont les principaux rôles opposés des protéines kinases et des protéines phosphatases ?",
+      "de": "Im Kontext der in Abbildung 11.10 dargestellten Phosphorylierungskaskade, was sind die primären gegensätzlichen Rollen von Proteinkinasen und Proteindetoxikasen?",
+      "ja": "図11.10に示されているリン酸化カスケードの文脈において、プロテインキナーゼとプロテインホスファターゼの主な対立する役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Protein kinases activate proteins by adding phosphate groups, while protein phosphatases inactivate proteins by removing phosphate groups.",
+          "zh": "蛋白质激酶通过添加磷酸基团激活蛋白质，而蛋白质磷酸酶通过去除磷酸基团使蛋白质失活。",
+          "es": "Las quinasas de proteínas activan las proteínas añadiendo grupos fosfato, mientras que las fosfatasas de proteínas inactivan las proteínas eliminando grupos fosfato.",
+          "fr": "Les protéines kinases activent les protéines en ajoutant des groupes phosphate, tandis que les protéines phosphatases inactivent les protéines en retirant les groupes phosphate.",
+          "de": "Proteinkinasen aktivieren Proteine durch Addition von Phosphatgruppen, während Proteindetoxikasen Proteine durch Entfernen von Phosphatgruppen inaktivieren.",
+          "ja": "プロテインキナーゼはリン酸基を追加することでタンパク質を活性化し、プロテインホスファターゼはリン酸基を除去することでタンパク質を不活性化します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Protein kinases produce ATP, while protein phosphatases consume ATP.",
+          "zh": "蛋白质激酶产生ATP，而蛋白质磷酸酶消耗ATP。",
+          "es": "Las quinasas de proteínas producen ATP, mientras que las fosfatasas de proteínas consumen ATP.",
+          "fr": "Les protéines kinases produisent de l'ATP, tandis que les protéines phosphatases consomment de l'ATP.",
+          "de": "Proteinkinasen produzieren ATP, während Proteindetoxikasen ATP verbrauchen.",
+          "ja": "プロテインキナーゼはATPを生成し、プロテインホスファターゼはATPを消費します。"
+        },
+        "feedback": {
+          "en": "Protein kinases consume ATP (converting it to ADP) to add phosphate groups. Protein phosphatases release inorganic phosphate (Pi) but do not consume ATP.",
+          "zh": "蛋白质激酶消耗ATP（将其转化为ADP）来添加磷酸基团。蛋白质磷酸酶释放无机磷酸（Pi），但不消耗ATP。",
+          "es": "Las quinasas de proteínas consumen ATP (convirtiéndolo en ADP) para añadir grupos fosfato. Las fosfatasas de proteínas liberan fosfato inorgánico (Pi) pero no consumen ATP.",
+          "fr": "Les protéines kinases consomment de l'ATP (le convertissant en ADP) pour ajouter des groupes phosphate. Les protéines phosphatases libèrent du phosphate inorganique (Pi) mais ne consomment pas d'ATP.",
+          "de": "Proteinkinasen verbrauchen ATP (wandeln es in ADP um), um Phosphatgruppen anzuhängen. Proteindetoxikasen setzen anorganisches Phosphat (Pi) frei, verbrauchen aber kein ATP.",
+          "ja": "プロテインキナーゼはリン酸基を付加するためにATPを消費（ADPに変換）します。プロテインホスファターゼは無機リン酸（Pi）を放出しますが、ATPは消費しません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Protein kinases induce shape changes that decrease protein activity, while protein phosphatases increase it.",
+          "zh": "蛋白质激酶诱导形状变化以降低蛋白质活性，而蛋白质磷酸酶则提高活性。",
+          "es": "Las quinasas de proteínas inducen cambios de forma que disminuyen la actividad proteica, mientras que las fosfatasas de proteínas la aumentan.",
+          "fr": "Les protéines kinases induisent des changements de forme qui diminuent l'activité des protéines, tandis que les protéines phosphatases l'augmentent.",
+          "de": "Proteinkinasen induzieren Formänderungen, die die Proteinaktivität verringern, während Proteindetoxikasen sie erhöhen.",
+          "ja": "プロテインキナーゼはタンパク質活性を低下させる形状変化を誘導し、プロテインホスファターゼはそれを増加させます。"
+        },
+        "feedback": {
+          "en": "While phosphorylation *can* decrease activity, the text highlights that it \"most often activating it.\" Dephosphorylation (by phosphatases) generally returns proteins to their inactive form.",
+          "zh": "尽管磷酸化“可能”降低活性，但文本强调它“通常会激活它”。去磷酸化（通过磷酸酶）通常会使蛋白质恢复到非活性形式。",
+          "es": "Aunque la fosforilación *puede* disminuir la actividad, el texto destaca que \"con mayor frecuencia la activa\". La desfosforilación (por fosfatasas) generalmente devuelve las proteínas a su forma inactiva.",
+          "fr": "Bien que la phosphorylation *puisse* diminuer l'activité, le texte souligne qu'elle \"l'active le plus souvent\". La déphosphorylation (par les phosphatases) ramène généralement les protéines à leur forme inactive.",
+          "de": "Während Phosphorylierung die Aktivität *verringern* kann, betont der Text, dass sie \"meistens aktiviert\". Dephosphorylierung (durch Phosphatasen) führt Proteine im Allgemeinen in ihre inaktive Form zurück.",
+          "ja": "リン酸化が活性を低下させる*可能性*はありますが、テキストは「ほとんどの場合、活性化する」と強調しています。脱リン酸化（ホスファターゼによる）は、一般的にタンパク質を不活性な形に戻します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Protein kinases act as receptors for signaling molecules, while protein phosphatases relay the signal to the nucleus.",
+          "zh": "蛋白质激酶作为信号分子的受体，而蛋白质磷酸酶将信号中继到细胞核。",
+          "es": "Las quinasas de proteínas actúan como receptores de moléculas señalizadoras, mientras que las fosfatasas de proteínas retransmiten la señal al núcleo.",
+          "fr": "Les protéines kinases agissent comme récepteurs des molécules de signalisation, tandis que les protéines phosphatases transmettent le signal au noyau.",
+          "de": "Proteinkinasen fungieren als Rezeptoren für Signalmoleküle, während Proteindetoxikasen das Signal zum Zellkern weiterleiten.",
+          "ja": "プロテインキナーゼはシグナル分子の受容体として機能し、プロテインホスファターゼはシグナルを核に伝達します。"
+        },
+        "feedback": {
+          "en": "Receptors (like the one shown) bind signaling molecules, not kinases directly. While a cascade leads to a cellular response (which might involve the nucleus), this is not the primary opposing role of phosphatases.",
+          "zh": "受体（如图所示）结合信号分子，而不是激酶直接。虽然级联反应会导致细胞反应（可能涉及细胞核），但这并非磷酸酶的主要对立作用。",
+          "es": "Los receptores (como el que se muestra) unen moléculas señalizadoras, no las quinasas directamente. Aunque una cascada lleva a una respuesta celular (que podría involucrar el núcleo), este no es el papel opuesto principal de las fosfatasas.",
+          "fr": "Les récepteurs (comme celui illustré) lient les molécules de signalisation, et non directement les kinases. Bien qu'une cascade conduise à une réponse cellulaire (qui peut impliquer le noyau), ce n'est pas le rôle opposé principal des phosphatases.",
+          "de": "Rezeptoren (wie der abgebildete) binden Signalmoleküle, nicht direkt Kinasen. Während eine Kaskade zu einer zellulären Antwort führt (die den Zellkern betreffen könnte), ist dies nicht die primäre gegensätzliche Rolle von Phosphatasen.",
+          "ja": "受容体（図示されているものなど）はシグナル分子と結合し、キナーゼが直接結合するわけではありません。カスケードが細胞応答（核を含む場合もある）につながることはありますが、これはホスファターゼの主要な対立する役割ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explains: 'An enzyme that transfers phosphate groups from ATP to a protein is generally known as a protein kinase.' and 'Here, phosphorylation activates each protein, and dephosphorylation returns it to its inactive form.' Figure 11.10 also shows 'Protein phosphatases (PP) catalyze the removal of the phosphate groups from the proteins, making the proteins inactive again.' This clearly defines their opposing roles in protein activity regulation.",
+      "zh": "文本解释道：“将磷酸基团从ATP转移到蛋白质的酶通常被称为蛋白质激酶。”和“在这里，磷酸化激活每个蛋白质，而去磷酸化则使其恢复到非活性形式。”图11.10也显示“蛋白质磷酸酶（PP）催化从蛋白质中去除磷酸基团，使蛋白质再次失活。”这清楚地定义了它们在蛋白质活性调节中的对立作用。",
+      "es": "El texto explica: 'Una enzima que transfiere grupos fosfato del ATP a una proteína se conoce generalmente como proteína quinasa.' y 'Aquí, la fosforilación activa cada proteína, y la desfosforilación la devuelve a su forma inactiva.' La Figura 11.10 también muestra que 'las proteínas fosfatasas (PP) catalizan la eliminación de los grupos fosfato de las proteínas, haciendo que las proteínas vuelvan a estar inactivas.' Esto define claramente sus papeles opuestos en la regulación de la actividad proteica.",
+      "fr": "Le texte explique : « Une enzyme qui transfère des groupes phosphate de l'ATP à une protéine est généralement appelée protéine kinase. » et « Ici, la phosphorylation active chaque protéine, et la déphosphorylation la ramène à sa forme inactive. » La Figure 11.10 montre également que « les protéines phosphatases (PP) catalysent l'élimination des groupes phosphate des protéines, rendant les protéines inactives à nouveau. » Cela définit clairement leurs rôles opposés dans la régulation de l'activité protéique.",
+      "de": "Der Text erklärt: 'Ein Enzym, das Phosphatgruppen von ATP auf ein Protein überträgt, wird allgemein als Proteinkinase bezeichnet.' und 'Hier aktiviert Phosphorylierung jedes Protein, und Dephosphorylierung bringt es in seine inaktive Form zurück.' Abbildung 11.10 zeigt auch: 'Proteindetoxikasen (PP) katalysieren die Entfernung der Phosphatgruppen von den Proteinen, wodurch die Proteine wieder inaktiv werden.' Dies definiert eindeutig ihre gegensätzlichen Rollen bei der Regulierung der Proteinaktivität.",
+      "ja": "テキストでは、「ATPからタンパク質へリン酸基を転移する酵素は一般にプロテインキナーゼとして知られている」と説明されており、「ここでは、リン酸化は各タンパク質を活性化し、脱リン酸化はそれを不活性な形に戻す」とあります。図11.10も「プロテインホスファターゼ（PP）は、タンパク質からリン酸基の除去を触媒し、タンパク質を再び不活性にする」と示しています。これは、タンパク質活性の調節におけるそれらの対立する役割を明確に定義しています。"
+    }
+  }
+]

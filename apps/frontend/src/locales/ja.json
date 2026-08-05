@@ -1,0 +1,279 @@
+{
+    "meta": {
+        "title": "BioPal — キャンベル生物学のAI学習コンパニオン",
+        "description": "キャンベル生物学の学生向けAI学習アシスタント。"
+    },
+    "questionList": {
+        "title": "ページの質問",
+        "tooltip": {
+            "title": "質問 {index} の統計",
+            "accuracy": "正答率",
+            "attempts": "試行回数",
+            "correct": "正解",
+            "incorrect": "不正解"
+        },
+        "noQuestions": "利用可能な質問はありません。",
+        "chart": {
+            "correct": "正解",
+            "incorrect": "不正解",
+            "unanswered": "未回答"
+        },
+        "accuracy": {
+            "excellent": "優秀（90%以上）",
+            "good": "良い（70-89%）",
+            "average": "普通（50-69%）",
+            "poor": "不十分（30-49%）",
+            "bad": "改善が必要（30%未満）",
+            "unanswered": "未挑戦"
+        }
+    },
+    "questionViewer": {
+        "explanation": "説明",
+        "selectMultiple": "複数選択",
+        "selectSingle": "単一選択",
+        "toast": {
+            "correct": "正解です！",
+            "partiallyCorrect": "部分的に正解です！",
+            "incorrect": "不正解です！",
+            "submitError": "送信に失敗しました。もう一度お試しください。"
+        },
+        "result": {
+            "correct": "正解",
+            "partiallyCorrect": "部分的に正解",
+            "incorrect": "不正解"
+        },
+        "aiExplain": "AIによる解説",
+        "aiInitialPrompt": "この問題を説明してください。",
+        "analysis": {
+            "correctSelections": "正解の選択",
+            "incorrectSelections": "不正解の選択",
+            "missedAnswers": "見逃した回答"
+        },
+        "answeredBy": "回答者",
+        "socialStats": {
+            "totalAttempts": "総試行回数: {count}",
+            "correctAttempts": "正解回数: {count}"
+        },
+        "commentPanel": {
+            "titlePrefix": "質問のコメント: ",
+            "description": "この質問に関するコメントを表示・投稿します。"
+        }
+    },
+    "header": {
+        "home": "ホーム",
+        "ai_chat": "AI チャット",
+        "review": "復習",
+        "login": "ログイン",
+        "language": "言語",
+        "logout": "ログアウト"
+    },
+    "theme": {
+        "toggle": "テーマ切替",
+        "switch_to_light": "ライトモードに切替",
+        "switch_to_dark": "ダークモードに切替"
+    },
+    "common": {
+        "anonymousUser": "匿名ユーザー",
+        "submit": "送信",
+        "submitting": "送信中...",
+        "close": "閉じる",
+        "notAvailable": "該当なし",
+        "cancel": "キャンセル",
+        "delete": "削除"
+    },
+    "comments": {
+        "reply": "返信",
+        "loading": "コメントを読み込み中...",
+        "noComments": "まだコメントがありません。最初のコメントを投稿しましょう！",
+        "noMoreComments": "これ以上コメントはありません。",
+        "replyingTo": "への返信",
+        "placeholder": "意見や質問を共有してください...",
+        "myCommentsOnly": "自分のコメントのみ表示"
+    },
+    "companionPanel": {
+        "tabs": {
+            "knowledgeGraph": "ナレッジグラフ",
+            "questions": "質問"
+        },
+        "loadingError": "コンパニオンのデータを読み込めませんでした。",
+        "knowledgeGraph": {
+            "title": "ナレッジグラフビュー",
+            "description": "現在のページに関連するマインドマップがここに表示されます。",
+            "noData": "このページのナレッジグラフデータはありません。"
+        }
+    },
+    "pdfViewer": {
+        "sheet": {
+            "title": "ページのコメント",
+            "description": "このページのコメントを表示・投稿します。"
+        },
+        "waitingForPdf": "PDFデータを待機しています...",
+        "zoom": {
+            "in": "拡大",
+            "out": "縮小",
+            "reset": "ズームをリセット"
+        },
+        "pan": {
+            "holdSpace": "パンするにはスペースキーを押し続けます",
+            "toastMessage": "ヒント：スペースキーを押し続けるとドキュメントをパンできます。"
+        }
+    },
+    "login": {
+        "welcome_title": "生物学学習コンパニオンへようこそ",
+        "welcome_subtitle": "Googleアカウントで続行",
+        "sign_in_with_google": "Googleでログイン",
+        "signing_in": "ログイン中..."
+    },
+    "wrongAnswerNotebook": {
+        "title": "間違いノート",
+        "description": "間違えた問題を表示して復習します。",
+        "selectRange": "日付範囲を選択",
+        "predefinedRanges": "事前定義された範囲",
+        "last1Day": "過去1日",
+        "last3Days": "過去3日",
+        "last7Days": "過去7日",
+        "last30Days": "過去30日",
+        "noWrongAnswers": "おめでとうございます！最近間違いはありません。"
+    },
+    "leaderboard": {
+        "title": "ランキング",
+        "description": "さまざまなパフォーマンス指標に基づいたユーザーランキングを表示します。",
+        "sortBy": "並べ替え",
+        "sortByOptions": {
+            "totalAttempts": "総試行回数",
+            "correctAttempts": "正解回数",
+            "accuracy": "正答率"
+        },
+        "selectRange": "日付範囲を選択",
+        "predefinedRanges": "事前定義された範囲",
+        "last1Day": "過去1日",
+        "last7Days": "過去7日",
+        "last30Days": "過去30日",
+        "allTime": "すべての期間",
+        "noData": "ランキングデータはありません。",
+        "tableHeaders": {
+            "user": "ユーザー",
+            "totalAttempts": "総試行回数",
+            "correctAttempts": "正解回数",
+            "accuracy": "正答率"
+        }
+    },
+    "graph": {
+        "relatedNodesTitle": "関連概念：{node}",
+        "relatedNodesTitleGeneric": "関連概念",
+        "loadingGraphData": "グラフデータを読み込み中...",
+        "errorFetchingGraphData": "グラフデータの取得中にエラーが発生しました：{message}",
+        "toolbar": {
+            "delete": "削除",
+            "confirmDeleteTitle": "削除の確認",
+            "confirmDeleteDescription": "概念 {nodeId} を削除してもよろしいですか？この操作は取り消せません。",
+            "cancel": "キャンセル"
+        }
+    },
+    "graphDataDialog": {
+        "title": "ナレッジグラフ",
+        "titleFor": "のナレッジグラフ",
+        "description": "関連する概念とページを探索します。",
+        "noData": "この概念に対するグラフデータはありません。",
+        "closeButton": "閉じる"
+    },
+    "aiChat": {
+        "title": "AI チャット",
+        "description": "AIアシスタントとチャットして生物学の質問を解決しましょう。",
+        "noMessages": "まだメッセージはありません。会話を始めましょう！",
+        "inputPlaceholder": "ここにメッセージを入力してください...",
+        "inputPlaceholderForNode": "この概念を説明してください",
+        "sendButton": "送信",
+        "confirmDeleteMessage": "この会話ターンを削除してもよろしいですか？この操作は元に戻せません。",
+        "messageDeleted": "会話ターンが正常に削除されました。",
+        "deleteError": "会話ターンの削除に失敗しました。もう一度お試しください。",
+        "confirmDeleteDescription": "この操作により、この会話ターンは完全に削除され、復元することはできません。"
+    },
+    "learningView": {
+        "pageTitle": "ページ {page} - キャンベル生物学",
+        "pageDescription": "キャンベル生物学のページ {page} の内容と質問を探索します。"
+    },
+    "landing": {
+        "hero": {
+            "badge": "🎓 AI駆動学習プラットフォーム",
+            "title": "AIでキャンベル生物学をマスター",
+            "subtitle": "インタラクティブな知識グラフ、コンテキストクイズ、パーソナライズされたAIチューターで生物学学習体験を変革しましょう。キャンベル生物学教科書専用に設計。",
+            "cta": "Googleでログインして学習開始",
+            "free_trial": "永久無料",
+            "no_credit_card": "クレジットカード不要"
+        },
+        "stats": {
+            "chapters": "章",
+            "questions": "練習問題",
+            "ai_support": "AIサポート",
+            "languages": "言語"
+        },
+        "features": {
+            "badge": "🚀 コア機能",
+            "title": "成功に必要なすべて",
+            "subtitle": "キャンベル生物学をアクセシブルで魅力的にする包括的ツール",
+            "new": "新機能",
+            "coming_soon": "近日公開",
+            "one": {
+                "title": "インタラクティブ知識グラフ",
+                "description": "動的な知識マッピングシステムで複雑な生物学的関係を可視化し、相互に関連した概念間をナビゲートします。",
+                "highlight1": "✨ 視覚的概念関係",
+                "highlight2": "🔍 ワンクリック概念探索"
+            },
+            "two": {
+                "title": "AI駆動学習アシスタント",
+                "description": "キャンベル生物学の内容に特化してトレーニングされた高度なAIチューターから、即座の回答、説明、学習ガイダンスを取得します。",
+                "highlight1": "🤖 24/7インテリジェントチューター",
+                "highlight2": "💬 コンテキストに応じた学習支援"
+            },
+            "three": {
+                "title": "スマート復習システム",
+                "description": "間隔反復アルゴリズムと学習進度に基づくパーソナライズされた復習スケジュールで困難な概念をマスターします。",
+                "highlight1": "📊 パフォーマンス分析",
+                "highlight2": "🎯 適応的難易度調整"
+            }
+        },
+        "testimonials": {
+            "badge": "💬 学生の成功",
+            "title": "世界中の学生に愛されています",
+            "subtitle": "生物学学習体験を変革した数千人の学生に参加しましょう",
+            "student1": {
+                "name": "サラ・チェン",
+                "role": "医学部予科生",
+                "content": "BioPalの知識グラフのおかげで、複雑な細胞プロセスをこれまでにないほど理解できました。試験の点数が25%向上しました！"
+            },
+            "student2": {
+                "name": "マーカス・ジョンソン",
+                "role": "生物学専攻",
+                "content": "AIチューターは24/7利用可能な個人生物学教授のようです。理解するまで複数の方法で概念を説明してくれます。"
+            },
+            "student3": {
+                "name": "エレナ・ロドリゲス",
+                "role": "大学院生",
+                "content": "多言語サポートにより、母国語で勉強しながら英語の生物学語彙を構築できました。本当に素晴らしい！"
+            }
+        },
+        "cta": {
+            "title": "生物学学習を変革する準備はできていますか？",
+            "subtitle": "AI駆動学習ツールでキャンベル生物学を既にマスターしている数千人の学生に参加しましょう。",
+            "button": "無料で始める"
+        },
+        "footer": {
+            "description": "世界中のキャンベル生物学学生のためのAI駆動学習コンパニオン。",
+            "product": "プロダクト",
+            "features": "機能",
+            "pricing": "料金",
+            "roadmap": "ロードマップ",
+            "support": "サポート",
+            "help_center": "ヘルプセンター",
+            "contact": "お問い合わせ",
+            "community": "コミュニティ",
+            "legal": "法的事項",
+            "privacy": "プライバシーポリシー",
+            "terms": "利用規約",
+            "cookies": "Cookieポリシー",
+            "rights": "All rights reserved.",
+            "version": "バージョン"
+        }
+    }
+}

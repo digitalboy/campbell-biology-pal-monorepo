@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 235,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which molecule serves as the final electron acceptor in the electron transport chain during aerobic oxidative phosphorylation?",
+      "zh": "在有氧氧化磷酸化过程中，电子传递链的最终电子受体是哪种分子？",
+      "es": "En la fosforilación oxidativa aeróbica, ¿qué molécula actúa como aceptor final de electrones en la cadena de transporte de electrones?",
+      "fr": "Quelle molécule sert d'accepteur final d'électrons dans la chaîne de transport d'électrons pendant la phosphorylation oxydative aérobie ?",
+      "de": "Welches Molekül dient als der endgültige Elektronenakzeptor in der Elektronentransportkette während der aeroben oxidativen Phosphorylierung?",
+      "ja": "好気性酸化的リン酸化の電子伝達系において、最終電子受容体として機能する分子は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "O2",
+          "zh": "O2",
+          "es": "O2",
+          "fr": "O2",
+          "de": "O2",
+          "ja": "O2"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Water",
+          "zh": "水",
+          "es": "Agua",
+          "fr": "Eau",
+          "de": "Wasser",
+          "ja": "水"
+        },
+        "feedback": {
+          "en": "Water is a product of the electron transport chain, formed when oxygen accepts electrons and protons, but it is not the acceptor itself.",
+          "zh": "水是电子传递链的产物，由氧气接受电子和质子形成，但它本身不是受体。",
+          "es": "El agua es un producto de la cadena de transporte de electrones, formada cuando el oxígeno acepta electrones y protones, pero no es el aceptor en sí.",
+          "fr": "L'eau est un produit de la chaîne de transport d'électrons, formée lorsque l'oxygène accepte des électrons et des protons, mais ce n'est pas l'accepteur lui-même.",
+          "de": "Wasser ist ein Produkt der Elektronentransportkette, das entsteht, wenn Sauerstoff Elektronen und Protonen aufnimmt, aber es ist nicht der Akzeptor selbst.",
+          "ja": "水は電子伝達系の産物であり、酸素が電子とプロトンを受け取ることで生成されますが、それ自体は受容体ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "NAD+",
+          "zh": "NAD+",
+          "es": "NAD+",
+          "fr": "NAD+",
+          "de": "NAD+",
+          "ja": "NAD+"
+        },
+        "feedback": {
+          "en": "NAD+ is an electron carrier that gets reduced to NADH during glycolysis and the citric acid cycle, and NADH then donates electrons to the electron transport chain. NAD+ itself is not the final electron acceptor.",
+          "zh": "NAD+是一种电子载体，在糖酵解和柠檬酸循环中被还原为NADH，然后NADH将电子传递给电子传递链。NAD+本身不是最终电子受体。",
+          "es": "NAD+ es un transportador de electrones que se reduce a NADH durante la glucólisis y el ciclo del ácido cítrico, y luego el NADH dona electrones a la cadena de transporte de electrones. NAD+ en sí mismo no es el aceptor final de electrones.",
+          "fr": "Le NAD+ est un transporteur d'électrons qui est réduit en NADH pendant la glycolyse et le cycle de Krebs, et le NADH donne ensuite des électrons à la chaîne de transport d'électrons. Le NAD+ lui-même n'est pas l'accepteur final d'électrons.",
+          "de": "NAD+ ist ein Elektronenträger, der während der Glykolyse und des Zitronensäurezyklus zu NADH reduziert wird, und NADH spendet dann Elektronen an die Elektronentransportkette. NAD+ selbst ist nicht der endgültige Elektronenakzeptor.",
+          "ja": "NAD+は、解糖系とクエン酸回路中にNADHに還元される電子キャリアであり、NADHはその後、電子伝達系に電子を供与します。NAD+自体は最終電子受容体ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Pyruvate",
+          "zh": "丙酮酸",
+          "es": "Piruvato",
+          "fr": "Pyruvate",
+          "de": "Pyruvat",
+          "ja": "ピルビン酸"
+        },
+        "feedback": {
+          "en": "Pyruvate is a key intermediate in glycolysis and fermentation pathways, but it does not serve as the final electron acceptor in aerobic oxidative phosphorylation.",
+          "zh": "丙酮酸是糖酵解和发酵途径中的关键中间产物，但在有氧氧化磷酸化中它不作为最终电子受体。",
+          "es": "El piruvato es un intermediario clave en las vías de la glucólisis y la fermentación, pero no actúa como aceptor final de electrones en la fosforilación oxidativa aeróbica.",
+          "fr": "Le pyruvate est un intermédiaire clé dans la glycolyse et les voies de fermentation, mais il ne sert pas d'accepteur final d'électrons dans la phosphorylation oxydative aérobie.",
+          "de": "Pyruvat ist ein wichtiges Zwischenprodukt im Glukosestoffwechsel und in Fermentationswegen, dient aber nicht als endgültiger Elektronenakzeptor bei der aeroben oxidativen Phosphorylierung.",
+          "ja": "ピルビン酸は解糖系と発酵経路における重要な中間体ですが、好気性酸化的リン酸化における最終電子受容体ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "In aerobic oxidative phosphorylation, oxygen (O2) acts as the final electron acceptor at the end of the electron transport chain. It accepts electrons and protons (H+) to form water (H2O), a crucial step for maintaining the electron flow and ATP production.",
+      "zh": "在有氧氧化磷酸化中，氧气（O2）在电子传递链的末端作为最终电子受体。它接受电子和质子（H+）形成水（H2O），这是维持电子流和ATP产生的重要步骤。",
+      "es": "En la fosforilación oxidativa aeróbica, el oxígeno (O2) actúa como aceptor final de electrones al final de la cadena de transporte de electrones. Acepta electrones y protones (H+) para formar agua (H2O), un paso crucial para mantener el flujo de electrones y la producción de ATP.",
+      "fr": "Dans la phosphorylation oxydative aérobie, l'oxygène (O2) agit comme accepteur final d'électrons à la fin de la chaîne de transport d'électrons. Il accepte des électrons et des protons (H+) pour former de l'eau (H2O), une étape cruciale pour maintenir le flux d'électrons et la production d'ATP.",
+      "de": "Bei der aeroben oxidativen Phosphorylierung dient Sauerstoff (O2) am Ende der Elektronentransportkette als endgültiger Elektronenakzeptor. Er nimmt Elektronen und Protonen (H+) auf, um Wasser (H2O) zu bilden, was ein entscheidender Schritt zur Aufrechterhaltung des Elektronenflusses und der ATP-Produktion ist.",
+      "ja": "好気性酸化的リン酸化において、酸素（O2）は電子伝達系の終端で最終電子受容体として機能します。酸素は電子とプロトン（H+）を受け取り、水（H2O）を形成します。これは電子の流れとATP生産を維持するために不可欠なステップです。"
+    }
+  },
+  {
+    "page_number": 235,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "When electrons flow along the electron transport chains of mitochondria, which of the following changes occurs in the mitochondrial matrix?",
+      "zh": "当电子沿着线粒体的电子传递链流动时，线粒体基质中会发生以下哪种变化？",
+      "es": "Cuando los electrones fluyen a lo largo de las cadenas de transporte de electrones de las mitocondrias, ¿cuál de los siguientes cambios ocurre en la matriz mitocondrial?",
+      "fr": "Lorsque les électrons circulent le long des chaînes de transport d'électrons des mitochondries, lequel des changements suivants se produit dans la matrice mitochondriale ?",
+      "de": "Wenn Elektronen entlang der Elektronentransportketten der Mitochondrien fließen, welche der folgenden Veränderungen tritt in der mitochondrialen Matrix auf?",
+      "ja": "電子がミトコンドリアの電子伝達系に沿って流れるとき、ミトコンドリアマトリックスで以下のどの変化が起こりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The pH of the matrix increases.",
+          "zh": "基质的pH值增加。",
+          "es": "El pH de la matriz aumenta.",
+          "fr": "Le pH de la matrice augmente.",
+          "de": "Der pH-Wert der Matrix steigt.",
+          "ja": "マトリックスのpHが上昇する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "ATP synthase pumps protons by active transport.",
+          "zh": "ATP合酶通过主动运输泵出质子。",
+          "es": "La ATP sintasa bombea protones por transporte activo.",
+          "fr": "L'ATP synthase pompe les protons par transport actif.",
+          "de": "Die ATP-Synthase pumpt Protonen durch aktiven Transport.",
+          "ja": "ATPシンターゼは能動輸送によってプロトンをポンプする。"
+        },
+        "feedback": {
+          "en": "ATP synthase uses the existing proton gradient to synthesize ATP (chemiosmosis) and does not actively pump protons out during electron flow. The electron transport chain components are responsible for actively pumping protons.",
+          "zh": "ATP合酶利用现有的质子梯度来合成ATP（化学渗透），并且在电子流动过程中不主动泵出质子。电子传递链的组分负责主动泵出质子。",
+          "es": "La ATP sintasa utiliza el gradiente de protones existente para sintetizar ATP (quimiosmosis) y no bombea activamente protones durante el flujo de electrones. Los componentes de la cadena de transporte de electrones son responsables de bombear activamente los protones.",
+          "fr": "L'ATP synthase utilise le gradient de protons existant pour synthétiser l'ATP (chimiosmose) et ne pompe pas activement les protons pendant le flux d'électrons. Ce sont les composants de la chaîne de transport d'électrons qui sont responsables du pompage actif des protons.",
+          "de": "Die ATP-Synthase nutzt den bestehenden Protonengradienten zur ATP-Synthese (Chemiosmose) und pumpt während des Elektronenflusses keine Protonen aktiv aus. Die Komponenten der Elektronentransportkette sind für das aktive Pumpen von Protonen verantwortlich.",
+          "ja": "ATPシンターゼは、既存のプロトン勾配を利用してATPを合成する（化学浸透）ものであり、電子の流れの間にプロトンを能動的に汲み出すことはありません。電子伝達系の構成要素がプロトンを能動的に汲み出す役割を担っています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The electrons gain free energy.",
+          "zh": "电子获得自由能。",
+          "es": "Los electrones ganan energía libre.",
+          "fr": "Les électrons gagnent de l'énergie libre.",
+          "de": "Die Elektronen gewinnen freie Energie.",
+          "ja": "電子が自由エネルギーを得る。"
+        },
+        "feedback": {
+          "en": "Electrons lose free energy as they move down the electron transport chain, and this energy is used to pump protons across the inner mitochondrial membrane.",
+          "zh": "电子沿着电子传递链移动时会失去自由能，这些能量用于将质子泵过线粒体内膜。",
+          "es": "Los electrones pierden energía libre a medida que se mueven por la cadena de transporte de electrones, y esta energía se utiliza para bombear protones a través de la membrana mitocondrial interna.",
+          "fr": "Les électrons perdent de l'énergie libre en se déplaçant le long de la chaîne de transport d'électrons, et cette énergie est utilisée pour pomper des protons à travers la membrane mitochondriale interne.",
+          "de": "Elektronen verlieren freie Energie, wenn sie sich entlang der Elektronentransportkette bewegen, und diese Energie wird verwendet, um Protonen durch die innere Mitochondrienmembran zu pumpen.",
+          "ja": "電子は電子伝達系を移動する際に自由エネルギーを失い、このエネルギーが内膜を横切ってプロトンをポンプするために使用されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "NAD+ is oxidized.",
+          "zh": "NAD+被氧化。",
+          "es": "NAD+ se oxida.",
+          "fr": "Le NAD+ est oxydé.",
+          "de": "NAD+ wird oxidiert.",
+          "ja": "NAD+が酸化される。"
+        },
+        "feedback": {
+          "en": "NAD+ is already in its oxidized form. NADH (the reduced form) is oxidized to NAD+ when it donates electrons to the electron transport chain.",
+          "zh": "NAD+本身就是氧化形式。是NADH（还原形式）在向电子传递链捐献电子时被氧化为NAD+。",
+          "es": "NAD+ ya está en su forma oxidada. NADH (la forma reducida) se oxida a NAD+ cuando dona electrones a la cadena de transporte de electrones.",
+          "fr": "Le NAD+ est déjà sous sa forme oxydée. C'est le NADH (la forme réduite) qui est oxydé en NAD+ lorsqu'il donne des électrons à la chaîne de transport d'électrons.",
+          "de": "NAD+ liegt bereits in seiner oxidierten Form vor. NADH (die reduzierte Form) wird zu NAD+ oxidiert, wenn es Elektronen an die Elektronentransportkette abgibt.",
+          "ja": "NAD+はすでに酸化型です。NADH（還元型）が電子伝達系に電子を供与する際にNAD+に酸化されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "As electrons flow along the electron transport chain, protein complexes pump protons (H+) from the mitochondrial matrix into the intermembrane space. This removal of protons from the matrix reduces the proton concentration there, leading to an increase in pH (making it more alkaline).",
+      "zh": "当电子沿着电子传递链流动时，蛋白质复合体将质子（H+）从线粒体基质泵入膜间空间。质子从基质中被移除，导致基质中的质子浓度降低，从而使pH值升高（变得更碱性）。",
+      "es": "A medida que los electrones fluyen a lo largo de la cadena de transporte de electrones, los complejos proteicos bombean protones (H+) desde la matriz mitocondrial al espacio intermembrana. Esta eliminación de protones de la matriz reduce la concentración de protones allí, lo que lleva a un aumento del pH (haciéndola más alcalina).",
+      "fr": "Lorsque les électrons circulent le long de la chaîne de transport d'électrons, les complexes protéiques pompent les protons (H+) de la matrice mitochondriale vers l'espace intermembranaire. Cette élimination des protons de la matrice réduit la concentration de protons à cet endroit, entraînant une augmentation du pH (la rendant plus alcaline).",
+      "de": "Wenn Elektronen entlang der Elektronentransportkette fließen, pumpen Proteinkomplexe Protonen (H+) aus der mitochondrialen Matrix in den Intermembranraum. Diese Entfernung von Protonen aus der Matrix reduziert die Protonenkonzentration dort, was zu einem Anstieg des pH-Werts führt (sie wird alkalischer).",
+      "ja": "電子が電子伝達系に沿って流れると、タンパク質複合体がプロトン（H+）をミトコンドリアマトリックスから膜間腔にポンプします。マトリックスからプロトンが除去されることで、その中のプロトン濃度が低下し、pHが上昇します（よりアルカリ性になります）。"
+    }
+  },
+  {
+    "page_number": 235,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Referencing the provided graph for phosphofructokinase activity, under which condition does the enzyme exhibit the highest activity?",
+      "zh": "参照提供的磷酸果糖激酶活性图，酶在何种条件下表现出最高的活性？",
+      "es": "Consultando el gráfico proporcionado para la actividad de la fosfofructocinasa, ¿bajo qué condición la enzima exhibe la mayor actividad?",
+      "fr": "En vous référant au graphique fourni pour l'activité de la phosphofructokinase, dans quelle condition l'enzyme présente-t-elle l'activité la plus élevée ?",
+      "de": "Unter Bezugnahme auf das bereitgestellte Diagramm zur Phosphofructokinase-Aktivität, unter welcher Bedingung zeigt das Enzym die höchste Aktivität?",
+      "ja": "提供されたホスホフルクトキナーゼ活性のグラフを参照して、酵素が最も高い活性を示すのはどの条件ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "High ATP concentration and low fructose 6-phosphate concentration.",
+          "zh": "高ATP浓度和低果糖6-磷酸浓度。",
+          "es": "Alta concentración de ATP y baja concentración de fructosa 6-fosfato.",
+          "fr": "Concentration élevée d'ATP et faible concentration de fructose 6-phosphate.",
+          "de": "Hohe ATP-Konzentration und niedrige Fructose-6-phosphat-Konzentration.",
+          "ja": "高ATP濃度と低フルクトース6-リン酸濃度。"
+        },
+        "feedback": {
+          "en": "High ATP concentration is an allosteric inhibitor of phosphofructokinase, signaling ample energy supply and reducing enzyme activity, even with low substrate.",
+          "zh": "高ATP浓度是磷酸果糖激酶的变构抑制剂，表明能量供应充足，会降低酶的活性，即使在低底物浓度下也是如此。",
+          "es": "Una alta concentración de ATP es un inhibidor alostérico de la fosfofructocinasa, lo que indica un suministro abundante de energía y reduce la actividad enzimática, incluso con baja concentración de sustrato.",
+          "fr": "Une concentration élevée d'ATP est un inhibiteur allostérique de la phosphofructokinase, signalant une abondance d'énergie et réduisant l'activité enzymatique, même avec une faible concentration de substrat.",
+          "de": "Eine hohe ATP-Konzentration ist ein allosterischer Inhibitor der Phosphofructokinase, der ein ausreichendes Energieangebot signalisiert und die Enzymaktivität selbst bei geringer Substratkonzentration reduziert.",
+          "ja": "高ATP濃度はホスホフルクトキナーゼのアロステリック阻害剤であり、十分なエネルギー供給を示し、たとえ基質濃度が低くても酵素活性を低下させます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Low ATP concentration and high fructose 6-phosphate concentration.",
+          "zh": "低ATP浓度和高果糖6-磷酸浓度。",
+          "es": "Baja concentración de ATP y alta concentración de fructosa 6-fosfato.",
+          "fr": "Faible concentration d'ATP et concentration élevée de fructose 6-phosphate.",
+          "de": "Niedrige ATP-Konzentration und hohe Fructose-6-phosphat-Konzentration.",
+          "ja": "低ATP濃度と高フルクトース6-リン酸濃度。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "High ATP concentration and high fructose 6-phosphate concentration.",
+          "zh": "高ATP浓度和高果糖6-磷酸浓度。",
+          "es": "Alta concentración de ATP y alta concentración de fructosa 6-fosfato.",
+          "fr": "Concentration élevée d'ATP et concentration élevée de fructose 6-phosphate.",
+          "de": "Hohe ATP-Konzentration und hohe Fructose-6-phosphat-Konzentration.",
+          "ja": "高ATP濃度と高フルクトース6-リン酸濃度。"
+        },
+        "feedback": {
+          "en": "Even with high substrate (fructose 6-phosphate), high ATP acts as an allosteric inhibitor, reducing phosphofructokinase activity significantly, as shown by the lower curve in the graph.",
+          "zh": "即使在底物（果糖6-磷酸）浓度较高的情况下，高ATP仍作为变构抑制剂，显著降低磷酸果糖激酶的活性，如图中较低的曲线所示。",
+          "es": "Incluso con una alta concentración de sustrato (fructosa 6-fosfato), una alta concentración de ATP actúa como un inhibidor alostérico, reduciendo significativamente la actividad de la fosfofructocinasa, como se muestra en la curva inferior del gráfico.",
+          "fr": "Même avec une concentration élevée de substrat (fructose 6-phosphate), une concentration élevée d'ATP agit comme un inhibiteur allostérique, réduisant significativement l'activité de la phosphofructokinase, comme le montre la courbe inférieure du graphique.",
+          "de": "Selbst bei hoher Substratkonzentration (Fructose-6-phosphat) wirkt eine hohe ATP-Konzentration als allosterischer Inhibitor, wodurch die Phosphofructokinase-Aktivität erheblich reduziert wird, wie die untere Kurve im Diagramm zeigt.",
+          "ja": "高い基質（フルクトース6-リン酸）濃度であっても、高ATPはアロステリック阻害剤として作用し、グラフの低い曲線が示すように、ホスホフルクトキナーゼ活性を著しく低下させます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Low ATP concentration and low fructose 6-phosphate concentration.",
+          "zh": "低ATP浓度和低果糖6-磷酸浓度。",
+          "es": "Baja concentración de ATP y baja concentración de fructosa 6-fosfato.",
+          "fr": "Faible concentration d'ATP et faible concentration de fructose 6-phosphate.",
+          "de": "Niedrige ATP-Konzentration und niedrige Fructose-6-phosphat-Konzentration.",
+          "ja": "低ATP濃度と低フルクトース6-リン酸濃度。"
+        },
+        "feedback": {
+          "en": "While low ATP concentration promotes phosphofructokinase activity by relieving inhibition, low substrate (fructose 6-phosphate) concentration will limit the overall reaction rate, preventing maximal activity.",
+          "zh": "虽然低ATP浓度通过解除抑制来促进磷酸果糖激酶活性，但低底物（果糖6-磷酸）浓度会限制总反应速率，从而无法达到最大活性。",
+          "es": "Aunque una baja concentración de ATP promueve la actividad de la fosfofructocinasa al aliviar la inhibición, una baja concentración de sustrato (fructosa 6-fosfato) limitará la tasa de reacción general, impidiendo la actividad máxima.",
+          "fr": "Bien qu'une faible concentration d'ATP favorise l'activité de la phosphofructokinase en levant l'inhibition, une faible concentration de substrat (fructose 6-phosphate) limitera le taux de réaction global, empêchant l'activité maximale.",
+          "de": "Während eine niedrige ATP-Konzentration die Phosphofructokinase-Aktivität durch Aufhebung der Hemmung fördert, begrenzt eine niedrige Substratkonzentration (Fructose-6-phosphat) die gesamte Reaktionsgeschwindigkeit und verhindert so maximale Aktivität.",
+          "ja": "低ATP濃度は阻害を解除することでホスホフルクトキナーゼ活性を促進しますが、低基質（フルクトース6-リン酸）濃度は全体の反応速度を制限し、最大活性を妨げます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The graph shows that phosphofructokinase activity is higher at low ATP concentration compared to high ATP concentration across all fructose 6-phosphate concentrations. Within the low ATP concentration curve, activity increases with increasing fructose 6-phosphate concentration. Therefore, the highest activity is observed at low ATP concentration and high fructose 6-phosphate concentration, as low ATP signals a need for more glycolysis to produce energy, and high substrate provides ample material for the enzyme to act upon.",
+      "zh": "该图显示，在所有果糖6-磷酸浓度下，磷酸果糖激酶在低ATP浓度下的活性均高于高ATP浓度。在低ATP浓度的曲线中，活性随果糖6-磷酸浓度的增加而增加。因此，在低ATP浓度和高果糖6-磷酸浓度下观察到最高活性，因为低ATP表明需要更多的糖酵解来产生能量，而高底物为酶提供了充足的反应物。",
+      "es": "El gráfico muestra que la actividad de la fosfofructocinasa es mayor a baja concentración de ATP en comparación con una alta concentración de ATP en todas las concentraciones de fructosa 6-fosfato. Dentro de la curva de baja concentración de ATP, la actividad aumenta con el aumento de la concentración de fructosa 6-fosfato. Por lo tanto, la actividad más alta se observa a baja concentración de ATP y alta concentración de fructosa 6-fosfato, ya que una baja concentración de ATP indica la necesidad de más glucólisis para producir energía, y una alta concentración de sustrato proporciona material abundante para que la enzima actúe.",
+      "fr": "Le graphique montre que l'activité de la phosphofructokinase est plus élevée à faible concentration d'ATP qu'à forte concentration d'ATP, et ce, pour toutes les concentrations de fructose 6-phosphate. Au sein de la courbe de faible concentration d'ATP, l'activité augmente avec l'augmentation de la concentration de fructose 6-phosphate. Par conséquent, l'activité la plus élevée est observée à faible concentration d'ATP et forte concentration de fructose 6-phosphate, car un faible taux d'ATP signale un besoin accru de glycolyse pour produire de l'énergie, et un substrat élevé fournit suffisamment de matériel pour que l'enzyme agisse.",
+      "de": "Das Diagramm zeigt, dass die Phosphofructokinase-Aktivität bei niedriger ATP-Konzentration im Vergleich zu hoher ATP-Konzentration über alle Fructose-6-phosphat-Konzentrationen hinweg höher ist. Innerhalb der Kurve für niedrige ATP-Konzentration steigt die Aktivität mit zunehmender Fructose-6-phosphat-Konzentration. Daher wird die höchste Aktivität bei niedriger ATP-Konzentration und hoher Fructose-6-phosphat-Konzentration beobachtet, da niedrige ATP-Werte einen Bedarf an mehr Glykolyse zur Energieerzeugung signalisieren und ein hohes Substrat ausreichend Material für die Enzymwirkung liefert.",
+      "ja": "グラフは、ホスホフルクトキナーゼ活性が、すべてのフルクトース6-リン酸濃度において、高ATP濃度よりも低ATP濃度の方が高いことを示しています。低ATP濃度の曲線内では、フルクトース6-リン酸濃度の上昇とともに活性が増加します。したがって、最も高い活性は低ATP濃度と高フルクトース6-リン酸濃度で観察されます。これは、低ATPがエネルギーを生成するためのより多くの解糖が必要であることを示し、高基質が酵素が作用するための十分な材料を提供するためです。"
+    }
+  },
+  {
+    "page_number": 235,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Coenzyme Q (CoQ) is marketed as 'fuel' for the heart. Based on its biological role in cellular respiration, which statement best critiques this claim?",
+      "zh": "辅酶Q（CoQ）被宣传为心脏的“燃料”。根据其在细胞呼吸中的生物学作用，以下哪项陈述最能批判这种说法？",
+      "es": "La coenzima Q (CoQ) se comercializa como 'combustible' para el corazón. Basándose en su papel biológico en la respiración celular, ¿qué afirmación critica mejor esta aseveración?",
+      "fr": "La coenzyme Q (CoQ) est commercialisée comme un 'carburant' pour le cœur. Basé sur son rôle biologique dans la respiration cellulaire, quelle affirmation critique le mieux cette allégation ?",
+      "de": "Coenzym Q (CoQ) wird als „Brennstoff“ für das Herz vermarktet. Welche Aussage kritisiert diese Behauptung am besten, basierend auf seiner biologischen Rolle in der Zellatmung?",
+      "ja": "コエンザイムQ（CoQ）は心臓の「燃料」として販売されています。細胞呼吸におけるその生物学的役割に基づくと、この主張を最も的確に批判する記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "CoQ is a direct energy source like glucose, so the claim is accurate.",
+          "zh": "辅酶Q像葡萄糖一样是直接的能量来源，因此这种说法是准确的。",
+          "es": "La CoQ es una fuente de energía directa como la glucosa, por lo que la afirmación es precisa.",
+          "fr": "La CoQ est une source d'énergie directe comme le glucose, donc l'affirmation est exacte.",
+          "de": "CoQ ist eine direkte Energiequelle wie Glukose, daher ist die Behauptung zutreffend.",
+          "ja": "CoQはグルコースのような直接的なエネルギー源であるため、その主張は正確である。"
+        },
+        "feedback": {
+          "en": "CoQ is not a 'fuel' molecule that is broken down for energy. Fuels like glucose or fatty acids are catabolized to release energy.",
+          "zh": "辅酶Q不是一种被分解以获取能量的“燃料”分子。像葡萄糖或脂肪酸这样的燃料会被分解以释放能量。",
+          "es": "La CoQ no es una molécula de 'combustible' que se descompone para obtener energía. Los combustibles como la glucosa o los ácidos grasos se catabolizan para liberar energía.",
+          "fr": "La CoQ n'est pas une molécule de 'carburant' décomposée pour l'énergie. Les carburants comme le glucose ou les acides gras sont catabolisés pour libérer de l'énergie.",
+          "de": "CoQ ist kein 'Brennstoff'-Molekül, das zur Energiegewinnung abgebaut wird. Brennstoffe wie Glukose oder Fettsäuren werden katabolisiert, um Energie freizusetzen.",
+          "ja": "CoQはエネルギーのために分解される「燃料」分子ではありません。グルコースや脂肪酸のような燃料は異化されてエネルギーを放出します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "CoQ acts as an electron carrier in the electron transport chain, facilitating ATP production, but is not consumed as fuel itself.",
+          "zh": "辅酶Q在线粒体电子传递链中作为电子载体，促进ATP的产生，但它本身不作为燃料被消耗。",
+          "es": "La CoQ actúa como un transportador de electrones en la cadena de transporte de electrones, facilitando la producción de ATP, pero no se consume como combustible en sí misma.",
+          "fr": "La CoQ agit comme un transporteur d'électrons dans la chaîne de transport d'électrons, facilitant la production d'ATP, mais elle n'est pas consommée comme carburant elle-même.",
+          "de": "CoQ fungiert als Elektronenträger in der Elektronentransportkette, wodurch die ATP-Produktion erleichtert wird, aber es wird nicht selbst als Brennstoff verbraucht.",
+          "ja": "CoQは電子伝達系で電子キャリアとして働き、ATP生産を促進しますが、それ自体が燃料として消費されることはありません。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "CoQ is an enzyme that synthesizes ATP, making the claim partially true.",
+          "zh": "辅酶Q是一种合成ATP的酶，因此这种说法部分正确。",
+          "es": "La CoQ es una enzima que sintetiza ATP, lo que hace que la afirmación sea parcialmente cierta.",
+          "fr": "La CoQ est une enzyme qui synthétise l'ATP, ce qui rend l'affirmation partiellement vraie.",
+          "de": "CoQ ist ein Enzym, das ATP synthetisiert, wodurch die Behauptung teilweise zutreffend ist.",
+          "ja": "CoQはATPを合成する酵素であるため、主張は部分的に正しい。"
+        },
+        "feedback": {
+          "en": "CoQ is a mobile electron carrier within the electron transport chain, not an enzyme that directly synthesizes ATP. ATP synthase is the enzyme responsible for ATP synthesis.",
+          "zh": "辅酶Q是电子传递链中的移动电子载体，而不是直接合成ATP的酶。ATP合酶是负责ATP合成的酶。",
+          "es": "La CoQ es un transportador de electrones móvil dentro de la cadena de transporte de electrones, no una enzima que sintetiza ATP directamente. La ATP sintasa es la enzima responsable de la síntesis de ATP.",
+          "fr": "La CoQ est un transporteur d'électrons mobile au sein de la chaîne de transport d'électrons, et non une enzyme qui synthétise directement l'ATP. L'ATP synthase est l'enzyme responsable de la synthèse de l'ATP.",
+          "de": "CoQ ist ein mobiler Elektronenträger innerhalb der Elektronentransportkette, kein Enzym, das direkt ATP synthetisiert. Die ATP-Synthase ist das Enzym, das für die ATP-Synthese verantwortlich ist.",
+          "ja": "CoQは電子伝達系内の移動性電子キャリアであり、ATPを直接合成する酵素ではありません。ATP合成酵素がATP合成を担当する酵素です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "CoQ primarily functions in fermentation pathways, unrelated to cellular fuel.",
+          "zh": "辅酶Q主要在发酵途径中起作用，与细胞燃料无关。",
+          "es": "La CoQ funciona principalmente en las vías de fermentación, sin relación con el combustible celular.",
+          "fr": "La CoQ fonctionne principalement dans les voies de fermentation, sans rapport avec le carburant cellulaire.",
+          "de": "CoQ funktioniert hauptsächlich in Fermentationswegen, was nicht mit zellulärem Brennstoff zusammenhängt.",
+          "ja": "CoQは主に発酵経路で機能し、細胞燃料とは関係ない。"
+        },
+        "feedback": {
+          "en": "CoQ is a vital component of the electron transport chain in aerobic cellular respiration, not fermentation. Its role is directly related to the efficient extraction of energy from cellular fuels.",
+          "zh": "辅酶Q是有氧细胞呼吸中电子传递链的重要组成部分，而不是发酵。它的作用直接与细胞燃料的能量高效提取有关。",
+          "es": "La CoQ es un componente vital de la cadena de transporte de electrones en la respiración celular aeróbica, no en la fermentación. Su papel está directamente relacionado con la extracción eficiente de energía de los combustibles celulares.",
+          "fr": "La CoQ est un composant vital de la chaîne de transport d'électrons dans la respiration cellulaire aérobie, et non dans la fermentation. Son rôle est directement lié à l'extraction efficace de l'énergie des carburants cellulaires.",
+          "de": "CoQ ist ein wichtiger Bestandteil der Elektronentransportkette in der aeroben Zellatmung, nicht der Fermentation. Seine Rolle steht in direktem Zusammenhang mit der effizienten Energiegewinnung aus Zellbrennstoffen.",
+          "ja": "CoQは、好気性細胞呼吸における電子伝達系の重要な構成要素であり、発酵ではありません。その役割は、細胞の燃料からエネルギーを効率的に抽出することに直接関連しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Coenzyme Q (Ubiquinone) is a lipid-soluble electron carrier within the electron transport chain, specifically transferring electrons from complexes I and II to complex III. It facilitates the flow of electrons down the chain, which drives proton pumping and ultimately ATP synthesis. However, CoQ itself is not consumed or broken down to directly release energy; it acts catalytically. Therefore, calling it a 'fuel' is misleading, as fuels are molecules that are catabolized to produce energy.",
+      "zh": "辅酶Q（泛醌）是电子传递链中一种脂溶性电子载体，特别是将电子从复合体I和II传递到复合体III。它促进电子沿链流动，从而驱动质子泵送并最终合成ATP。然而，辅酶Q本身不被消耗或分解以直接释放能量；它起催化作用。因此，称其为“燃料”是具有误导性的，因为燃料是分解产生能量的分子。",
+      "es": "La coenzima Q (Ubiquinona) es un transportador de electrones liposoluble dentro de la cadena de transporte de electrones, transfiriendo específicamente electrones de los complejos I y II al complejo III. Facilita el flujo de electrones a lo largo de la cadena, lo que impulsa el bombeo de protones y, en última instancia, la síntesis de ATP. Sin embargo, la CoQ en sí misma no se consume ni se descompone para liberar energía directamente; actúa catalíticamente. Por lo tanto, llamarla 'combustible' es engañoso, ya que los combustibles son moléculas que se catabolizan para producir energía.",
+      "fr": "La coenzyme Q (Ubiquinone) est un transporteur d'électrons liposoluble au sein de la chaîne de transport d'électrons, transférant spécifiquement les électrons des complexes I et II vers le complexe III. Elle facilite le flux d'électrons le long de la chaîne, ce qui entraîne le pompage des protons et finalement la synthèse d'ATP. Cependant, la CoQ elle-même n'est pas consommée ou décomposée pour libérer directement de l'énergie; elle agit de manière catalytique. Par conséquent, la qualifier de 'carburant' est trompeur, car les carburants sont des molécules catabolisées pour produire de l'énergie.",
+      "de": "Coenzym Q (Ubichinon) ist ein lipidlöslicher Elektronenträger innerhalb der Elektronentransportkette, der speziell Elektronen von Komplex I und II zu Komplex III überträgt. Es erleichtert den Elektronenfluss entlang der Kette, was den Protonenpumpen und letztendlich die ATP-Synthese antreibt. CoQ selbst wird jedoch nicht verbraucht oder abgebaut, um direkt Energie freizusetzen; es wirkt katalytisch. Daher ist es irreführend, es als „Brennstoff“ zu bezeichnen, da Brennstoffe Moleküle sind, die katabolisiert werden, um Energie zu produzieren.",
+      "ja": "コエンザイムQ（ユビキノン）は、電子伝達系内の脂溶性電子キャリアであり、特に複合体IおよびIIから複合体IIIに電子を伝達します。それは電子の流れを促進し、プロトンのポンピングと最終的なATP合成を駆動します。しかし、CoQ自体は直接エネルギーを放出するために消費されたり分解されたりすることはありません。それは触媒的に作用します。したがって、「燃料」と呼ぶのは誤解を招きます。燃料とはエネルギーを生成するために異化される分子だからです。"
+    }
+  }
+]

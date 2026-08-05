@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 1025,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement about the immune system is correct?",
+      "zh": "关于免疫系统的以下哪项陈述是正确的？",
+      "es": "¿Cuál de las siguientes afirmaciones sobre el sistema inmunitario es correcta?",
+      "fr": "Quelle affirmation concernant le système immunitaire est correcte ?",
+      "de": "Welche Aussage über das Immunsystem ist korrekt?",
+      "ja": "免疫系に関する次の記述のうち、正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "option_A",
+        "text": {
+          "en": "An antibody typically has only one antigen-binding site.",
+          "zh": "抗体通常只有一个抗原结合位点。",
+          "es": "Un anticuerpo normalmente tiene solo un sitio de unión a antígeno.",
+          "fr": "Un anticorps n'a généralement qu'un seul site de liaison à l'antigène.",
+          "de": "Ein Antikörper hat typischerweise nur eine Antigen-Bindungsstelle.",
+          "ja": "抗体は通常、1つの抗原結合部位しか持たない。"
+        },
+        "feedback": {
+          "en": "Incorrect. Antibodies typically have two identical antigen-binding sites.",
+          "zh": "不正确。抗体通常有两个相同的抗原结合位点。",
+          "es": "Incorrecto. Los anticuerpos suelen tener dos sitios de unión a antígenos idénticos.",
+          "fr": "Incorrect. Les anticorps ont généralement deux sites de liaison à l'antigène identiques.",
+          "de": "Falsch. Antikörper haben typischerweise zwei identische Antigen-Bindungsstellen.",
+          "ja": "間違い。抗体は通常、2つの同一の抗原結合部位を持つ。"
+        }
+      },
+      {
+        "id": "option_B",
+        "text": {
+          "en": "A lymphocyte typically has receptors for a single specific antigen.",
+          "zh": "淋巴细胞通常只具有针对单个特异性抗原的受体。",
+          "es": "Un linfocito normalmente tiene receptores para un solo antígeno específico.",
+          "fr": "Un lymphocyte a généralement des récepteurs pour un seul antigène spécifique.",
+          "de": "Ein Lymphozyt hat typischerweise Rezeptoren für ein einzelnes spezifisches Antigen.",
+          "ja": "リンパ球は通常、単一の特定の抗原に対する受容体を持つ。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "option_C",
+        "text": {
+          "en": "Every antigen has only a single epitope.",
+          "zh": "每个抗原都只有一个表位。",
+          "es": "Cada antígeno tiene un solo epítopo.",
+          "fr": "Chaque antigène n'a qu'un seul épitope.",
+          "de": "Jedes Antigen hat nur ein einziges Epitop.",
+          "ja": "すべての抗原は単一のエピトープしか持たない。"
+        },
+        "feedback": {
+          "en": "Incorrect. Most antigens are large molecules with multiple different epitopes.",
+          "zh": "不正确。大多数抗原是具有多个不同表位的大分子。",
+          "es": "Incorrecto. La mayoría de los antígenos son moléculas grandes con múltiples epítopos diferentes.",
+          "fr": "Incorrect. La plupart des antigènes sont de grandes molécules possédant plusieurs épitopes différents.",
+          "de": "Falsch. Die meisten Antigene sind große Moleküle mit mehreren verschiedenen Epitopen.",
+          "ja": "間違い。ほとんどの抗原は、複数の異なるエピトープを持つ大きな分子である。"
+        }
+      },
+      {
+        "id": "option_D",
+        "text": {
+          "en": "Liver or muscle cells primarily make two classes of MHC molecules.",
+          "zh": "肝细胞或肌肉细胞主要产生两类MHC分子。",
+          "es": "Las células hepáticas o musculares producen principalmente dos clases de moléculas de MHC.",
+          "fr": "Les cellules hépatiques ou musculaires produisent principalement deux classes de molécules du CMH.",
+          "de": "Leber- oder Muskelzellen bilden hauptsächlich zwei Klassen von MHC-Molekülen.",
+          "ja": "肝細胞または筋細胞は主に2種類のMHC分子を生成する。"
+        },
+        "feedback": {
+          "en": "Incorrect. Liver and muscle cells primarily express MHC class I. MHC class II is mainly found on antigen-presenting cells.",
+          "zh": "不正确。肝细胞和肌肉细胞主要表达MHC I类分子。MHC II类分子主要存在于抗原呈递细胞上。",
+          "es": "Incorrecto. Las células hepáticas y musculares expresan principalmente el MHC de clase I. El MHC de clase II se encuentra principalmente en las células presentadoras de antígenos.",
+          "fr": "Incorrect. Les cellules hépatiques et musculaires expriment principalement les molécules du CMH de classe I. Les molécules du CMH de classe II se trouvent principalement sur les cellules présentatrices d'antigènes.",
+          "de": "Falsch. Leber- und Muskelzellen exprimieren hauptsächlich MHC-Klasse-I. MHC-Klasse-II findet sich hauptsächlich auf Antigen-präsentierenden Zellen.",
+          "ja": "間違い。肝細胞と筋細胞は主にMHCクラスIを発現する。MHCクラスIIは主に抗原提示細胞に見られる。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "option_B"
+    ],
+    "explanation": {
+      "en": "This statement reflects the principle of clonal specificity in lymphocytes, where each lymphocyte clone is specific for a single epitope.",
+      "zh": "此陈述反映了淋巴细胞克隆特异性原则，即每个淋巴细胞克隆都特异性地针对单个表位。",
+      "es": "Esta afirmación refleja el principio de especificidad clonal en los linfocitos, donde cada clon de linfocitos es específico para un solo epítopo.",
+      "fr": "Cette affirmation reflète le principe de la spécificité clonale des lymphocytes, où chaque clone lymphocytaire est spécifique d'un seul épitope.",
+      "de": "Diese Aussage spiegelt das Prinzip der klonalen Spezifität von Lymphozyten wider, bei dem jeder Lymphozytenklon für ein einzelnes Epitop spezifisch ist.",
+      "ja": "この記述はリンパ球におけるクローン特異性の原則を反映しており、各リンパ球クローンは単一のエピトープに特異的である。"
+    }
+  },
+  {
+    "page_number": 1025,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Vaccination primarily functions by increasing the number of:",
+      "zh": "疫苗接种主要通过增加以下哪项的数量来发挥作用：",
+      "es": "La vacunación funciona principalmente aumentando el número de:",
+      "fr": "La vaccination fonctionne principalement en augmentant le nombre de :",
+      "de": "Impfung funktioniert hauptsächlich durch Erhöhung der Anzahl von:",
+      "ja": "ワクチン接種は主に、以下のいずれかの数を増やすことによって機能します。"
+    },
+    "options": [
+      {
+        "id": "option_A",
+        "text": {
+          "en": "different receptors that recognize a pathogen.",
+          "zh": "识别病原体的不同受体。",
+          "es": "diferentes receptores que reconocen un patógeno.",
+          "fr": "récepteurs différents qui reconnaissent un agent pathogène.",
+          "de": "verschiedenen Rezeptoren, die einen Krankheitserreger erkennen.",
+          "ja": "病原体を認識する異なる受容体。"
+        },
+        "feedback": {
+          "en": "Incorrect. Vaccination expands specific lymphocyte clones, not the diversity of receptors.",
+          "zh": "不正确。疫苗接种是扩增特定的淋巴细胞克隆，而不是增加受体的多样性。",
+          "es": "Incorrecto. La vacunación expande clones de linfocitos específicos, no la diversidad de receptores.",
+          "fr": "Incorrect. La vaccination étend les clones de lymphocytes spécifiques, et non la diversité des récepteurs.",
+          "de": "Falsch. Impfung erweitert spezifische Lymphozytenklone, nicht die Vielfalt der Rezeptoren.",
+          "ja": "間違い。ワクチン接種は特定のリンパ球クローンを増殖させるのであって、受容体の多様性を増やすわけではない。"
+        }
+      },
+      {
+        "id": "option_B",
+        "text": {
+          "en": "lymphocytes with receptors that can bind to the pathogen.",
+          "zh": "具有能够结合病原体的受体的淋巴细胞。",
+          "es": "linfocitos con receptores que pueden unirse al patógeno.",
+          "fr": "lymphocytes avec des récepteurs capables de se lier à l'agent pathogène.",
+          "de": "Lymphozyten mit Rezeptoren, die an den Krankheitserreger binden können.",
+          "ja": "病原体に結合できる受容体を持つリンパ球。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "option_C",
+        "text": {
+          "en": "epitopes that the immune system can recognize.",
+          "zh": "免疫系统能够识别的表位。",
+          "es": "epítopos que el sistema inmunitario puede reconocer.",
+          "fr": "épitopes que le système immunitaire peut reconnaître.",
+          "de": "Epitopen, die das Immunsystem erkennen kann.",
+          "ja": "免疫系が認識できるエピトープ。"
+        },
+        "feedback": {
+          "en": "Incorrect. Epitopes are parts of the pathogen; vaccination creates immunity to them, but doesn't increase their number in the host.",
+          "zh": "不正确。表位是病原体的一部分；疫苗接种是使其免疫系统能够识别它们，而不是增加宿主体内的表位数量。",
+          "es": "Incorrecto. Los epítopos son partes del patógeno; la vacunación crea inmunidad a ellos, pero no aumenta su número en el huésped.",
+          "fr": "Incorrect. Les épitopes sont des parties de l'agent pathogène ; la vaccination crée une immunité à leur égard, mais n'augmente pas leur nombre chez l'hôte.",
+          "de": "Falsch. Epitope sind Teile des Krankheitserregers; Impfung erzeugt Immunität gegen sie, erhöht aber nicht deren Anzahl im Wirt.",
+          "ja": "間違い。エピトープは病原体の一部であり、ワクチン接種はそれらに対する免疫を生成するが、宿主内の数を増やすわけではない。"
+        }
+      },
+      {
+        "id": "option_D",
+        "text": {
+          "en": "MHC molecules that can present an antigen.",
+          "zh": "能够呈递抗原的MHC分子。",
+          "es": "moléculas de MHC que pueden presentar un antígeno.",
+          "fr": "molécules du CMH capables de présenter un antigène.",
+          "de": "MHC-Molekülen, die ein Antigen präsentieren können.",
+          "ja": "抗原を提示できるMHC分子。"
+        },
+        "feedback": {
+          "en": "Incorrect. While MHC molecules are involved in antigen presentation, the primary effect of vaccination is on the specific lymphocyte population.",
+          "zh": "不正确。尽管MHC分子参与抗原呈递，但疫苗接种的主要作用是针对特异性淋巴细胞群体。",
+          "es": "Incorrecto. Aunque las moléculas de MHC están involucradas en la presentación de antígenos, el efecto principal de la vacunación es sobre la población de linfocitos específicos.",
+          "fr": "Incorrect. Bien que les molécules du CMH soient impliquées dans la présentation des antigènes, l'effet principal de la vaccination concerne la population de lymphocytes spécifiques.",
+          "de": "Falsch. Obwohl MHC-Moleküle an der Antigenpräsentation beteiligt sind, liegt der primäre Effekt der Impfung auf der spezifischen Lymphozytenpopulation.",
+          "ja": "間違い。MHC分子は抗原提示に関与しているが、ワクチン接種の主な効果は特定のリンパ球集団に及ぶ。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "option_B"
+    ],
+    "explanation": {
+      "en": "Vaccination introduces antigens to the immune system, leading to the clonal expansion of specific lymphocytes (B cells and T cells) that bear receptors for those antigens. This creates a larger population of memory cells ready to respond rapidly upon subsequent exposure to the actual pathogen.",
+      "zh": "疫苗接种将抗原引入免疫系统，导致携带这些抗原受体的特异性淋巴细胞（B细胞和T细胞）的克隆扩增。这会产生更多的记忆细胞，以便在随后接触实际病原体时能够迅速作出反应。",
+      "es": "La vacunación introduce antígenos en el sistema inmunitario, lo que lleva a la expansión clonal de linfocitos específicos (células B y T) que poseen receptores para esos antígenos. Esto crea una población más grande de células de memoria listas para responder rápidamente ante una exposición posterior al patógeno real.",
+      "fr": "La vaccination introduit des antigènes dans le système immunitaire, entraînant l'expansion clonale de lymphocytes spécifiques (lymphocytes B et T) qui portent des récepteurs pour ces antigènes. Cela crée une population plus importante de cellules mémoire prêtes à répondre rapidement lors d'une exposition ultérieure à l'agent pathogène réel.",
+      "de": "Die Impfung führt Antigene in das Immunsystem ein, was zur klonalen Expansion spezifischer Lymphozyten (B- und T-Zellen) führt, die Rezeptoren für diese Antigene tragen. Dies erzeugt eine größere Population von Gedächtniszellen, die bei späterem Kontakt mit dem tatsächlichen Erreger schnell reagieren können.",
+      "ja": "ワクチン接種は抗原を免疫系に導入し、それらの抗原に対する受容体を持つ特定のリンパ球（B細胞とT細胞）のクローン増殖を引き起こす。これにより、実際の病原体に再び曝露した際に迅速に反応できる記憶細胞の集団が形成される。"
+    }
+  },
+  {
+    "page_number": 1025,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Given that polio is caused by a virus that infects neurons, and the body cannot replace most neurons, why is it crucial for a polio vaccine to stimulate both a cell-mediated and a humoral immune response?",
+      "zh": "鉴于脊髓灰质炎是由感染神经元的病毒引起的，并且人体无法替换大多数神经元，为什么脊髓灰质炎疫苗必须同时刺激细胞介导免疫和体液免疫？",
+      "es": "Dado que la poliomielitis es causada por un virus que infecta neuronas y el cuerpo no puede reemplazar la mayoría de las neuronas, ¿por qué es crucial que una vacuna contra la poliomielitis estimule tanto una respuesta inmunitaria mediada por células como una humoral?",
+      "fr": "Étant donné que la poliomyélite est causée par un virus qui infecte les neurones, et que le corps ne peut pas remplacer la plupart des neurones, pourquoi est-il crucial qu'un vaccin contre la poliomyélite stimule à la fois une réponse immunitaire à médiation cellulaire et une réponse humorale ?",
+      "de": "Angesichts der Tatsache, dass Polio durch ein Virus verursacht wird, das Neuronen infiziert, und der Körper die meisten Neuronen nicht ersetzen kann, warum ist es entscheidend, dass ein Polio-Impfstoff sowohl eine zellvermittelte als auch eine humorale Immunantwort stimuliert?",
+      "ja": "ポリオは神経細胞に感染するウイルスによって引き起こされ、体はほとんどの神経細胞を置き換えることができないことを考慮すると、なぜポリオワクチンが細胞性免疫応答と液性免疫応答の両方を刺激することが重要なのでしょうか？"
+    },
+    "options": [
+      {
+        "id": "option_A",
+        "text": {
+          "en": "Humoral immunity neutralizes extracellular virus, while cell-mediated immunity targets infected cells to prevent further neurological damage.",
+          "zh": "体液免疫中和细胞外病毒，而细胞介导免疫靶向受感染细胞以防止进一步的神经损伤。",
+          "es": "La inmunidad humoral neutraliza el virus extracelular, mientras que la inmunidad mediada por células ataca las células infectadas para prevenir un mayor daño neurológico.",
+          "fr": "L'immunité humorale neutralise le virus extracellulaire, tandis que l'immunité à médiation cellulaire cible les cellules infectées pour prévenir d'autres dommages neurologiques.",
+          "de": "Die humorale Immunität neutralisiert extrazelluläre Viren, während die zellvermittelte Immunität infizierte Zellen angreift, um weitere neurologische Schäden zu verhindern.",
+          "ja": "液性免疫は細胞外ウイルスを中和し、細胞性免疫は感染した細胞を標的とすることで、さらなる神経学的損傷を防ぐ。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "option_B",
+        "text": {
+          "en": "Cell-mediated immunity directly replaces damaged neurons, and humoral immunity prevents re-infection.",
+          "zh": "细胞介导免疫直接替代受损神经元，体液免疫预防再次感染。",
+          "es": "La inmunidad mediada por células reemplaza directamente las neuronas dañadas y la inmunidad humoral previene la reinfección.",
+          "fr": "L'immunité à médiation cellulaire remplace directement les neurones endommagés, et l'immunité humorale prévient la réinfection.",
+          "de": "Die zellvermittelte Immunität ersetzt direkt beschädigte Neuronen, und die humorale Immunität verhindert eine erneute Infektion.",
+          "ja": "細胞性免疫は損傷した神経細胞を直接置き換え、液性免疫は再感染を防ぐ。"
+        },
+        "feedback": {
+          "en": "Incorrect. Immune responses do not replace damaged neurons.",
+          "zh": "不正确。免疫反应不会替代受损的神经元。",
+          "es": "Incorrecto. Las respuestas inmunes no reemplazan las neuronas dañadas.",
+          "fr": "Incorrect. Les réponses immunitaires ne remplacent pas les neurones endommagés.",
+          "de": "Falsch. Immunantworten ersetzen keine geschädigten Neuronen.",
+          "ja": "間違い。免疫応答は損傷した神経細胞を置き換えない。"
+        }
+      },
+      {
+        "id": "option_C",
+        "text": {
+          "en": "Both responses are needed for general immunity, but only humoral immunity protects against neurological damage.",
+          "zh": "两种反应都是全身免疫所必需的，但只有体液免疫能保护神经损伤。",
+          "es": "Ambas respuestas son necesarias para la inmunidad general, pero solo la inmunidad humoral protege contra el daño neurológico.",
+          "fr": "Les deux réponses sont nécessaires pour l'immunité générale, mais seule l'immunité humorale protège contre les dommages neurologiques.",
+          "de": "Beide Antworten sind für die allgemeine Immunität notwendig, aber nur die humorale Immunität schützt vor neurologischen Schäden.",
+          "ja": "両方の応答が全身免疫に必要だが、神経学的損傷から保護するのは液性免疫だけである。"
+        },
+        "feedback": {
+          "en": "Incorrect. Both humoral and cell-mediated immunity play crucial roles in protecting against polio, especially cell-mediated immunity for targeting infected cells.",
+          "zh": "不正确。体液免疫和细胞介导免疫在对抗脊髓灰质炎中都发挥着关键作用，特别是细胞介导免疫对于靶向受感染细胞至关重要。",
+          "es": "Incorrecto. Tanto la inmunidad humoral como la mediada por células desempeñan roles cruciales en la protección contra la poliomielitis, especialmente la inmunidad mediada por células para atacar las células infectadas.",
+          "fr": "Incorrect. L'immunité humorale et l'immunité à médiation cellulaire jouent un rôle crucial dans la protection contre la poliomyélite, en particulier l'immunité à médiation cellulaire pour cibler les cellules infectées.",
+          "de": "Falsch. Sowohl humorale als auch zellvermittelte Immunität spielen eine entscheidende Rolle beim Schutz vor Polio, insbesondere die zellvermittelte Immunität für die Bekämpfung infizierter Zellen.",
+          "ja": "間違い。液性免疫と細胞性免疫の両方がポリオからの保護に重要な役割を果たしており、特に感染細胞を標的とする細胞性免疫が重要である。"
+        }
+      },
+      {
+        "id": "option_D",
+        "text": {
+          "en": "The humoral response prevents the virus from entering the brain, while the cell-mediated response strengthens the blood-brain barrier.",
+          "zh": "体液免疫阻止病毒进入大脑，而细胞介导免疫增强血脑屏障。",
+          "es": "La respuesta humoral impide que el virus entre al cerebro, mientras que la respuesta mediada por células fortalece la barrera hematoencefálica.",
+          "fr": "La réponse humorale empêche le virus de pénétrer dans le cerveau, tandis que la réponse à médiation cellulaire renforce la barrière hémato-encéphalique.",
+          "de": "Die humorale Antwort verhindert, dass das Virus ins Gehirn gelangt, während die zellvermittelte Antwort die Blut-Hirn-Schranke stärkt.",
+          "ja": "液性応答はウイルスが脳に入るのを防ぎ、細胞性応答は血液脳関門を強化する。"
+        },
+        "feedback": {
+          "en": "Incorrect. While humoral immunity neutralizes free virus (which could prevent brain entry), cell-mediated immunity targets infected cells; it does not directly strengthen the blood-brain barrier.",
+          "zh": "不正确。尽管体液免疫中和游离病毒（可以防止其进入大脑），但细胞介导免疫是靶向受感染细胞；它不直接增强血脑屏障。",
+          "es": "Incorrecto. Si bien la inmunidad humoral neutraliza el virus libre (lo que podría prevenir la entrada al cerebro), la inmunidad mediada por células ataca las células infectadas; no fortalece directamente la barrera hematoencefálica.",
+          "fr": "Incorrect. Bien que l'immunité humorale neutralise le virus libre (ce qui pourrait empêcher l'entrée dans le cerveau), l'immunité à médiation cellulaire cible les cellules infectées ; elle ne renforce pas directement la barrière hémato-encéphalique.",
+          "de": "Falsch. Während die humorale Immunität freie Viren neutralisiert (was das Eindringen ins Gehirn verhindern könnte), zielt die zellvermittelte Immunität auf infizierte Zellen ab; sie stärkt nicht direkt die Blut-Hirn-Schranke.",
+          "ja": "間違い。液性免疫は遊離ウイルスを中和する（これにより脳への侵入を防ぐ可能性がある）が、細胞性免疫は感染細胞を標的とする。血液脳関門を直接強化するわけではない。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "option_A"
+    ],
+    "explanation": {
+      "en": "The polio virus initially replicates in the gastrointestinal tract and then can spread to the nervous system. Humoral immunity (antibodies) is critical for neutralizing the virus while it is still extracellular, preventing it from reaching and infecting neurons in the first place. Once neurons are infected, antibodies are less effective, and cell-mediated immunity (cytotoxic T cells) becomes crucial to identify and destroy infected cells, thereby limiting the spread of the virus within the nervous system and preventing further irreversible damage to neurons, which cannot be replaced.",
+      "zh": "脊髓灰质炎病毒最初在胃肠道中复制，然后可以传播到神经系统。体液免疫（抗体）对于在中和细胞外病毒至关重要，从而首先阻止其到达并感染神经元。一旦神经元被感染，抗体的作用会减弱，此时细胞介导免疫（细胞毒性T细胞）变得至关重要，用于识别和摧毁受感染细胞，从而限制病毒在神经系统内的传播，并防止对无法替代的神经元造成进一步不可逆的损害。",
+      "es": "El virus de la poliomielitis se replica inicialmente en el tracto gastrointestinal y luego puede propagarse al sistema nervioso. La inmunidad humoral (anticuerpos) es crítica para neutralizar el virus mientras aún es extracelular, impidiendo que llegue e infecte las neuronas. Una vez que las neuronas están infectadas, los anticuerpos son menos efectivos, y la inmunidad mediada por células (linfocitos T citotóxicos) se vuelve crucial para identificar y destruir las células infectadas, limitando así la propagación del virus dentro del sistema nervioso y previniendo un daño irreversible adicional a las neuronas, que no pueden ser reemplazadas.",
+      "fr": "Le virus de la poliomyélite se réplique initialement dans le tractus gastro-intestinal, puis peut se propager au système nerveux. L'immunité humorale (anticorps) est essentielle pour neutraliser le virus tant qu'il est extracellulaire, l'empêchant d'atteindre et d'infecter les neurones. Une fois les neurones infectés, les anticorps sont moins efficaces, et l'immunité à médiation cellulaire (lymphocytes T cytotoxiques) devient cruciale pour identifier et détruire les cellules infectées, limitant ainsi la propagation du virus dans le système nerveux et prévenant des dommages neurologiques irréversibles supplémentaires aux neurones, qui ne peuvent pas être remplacés.",
+      "de": "Das Poliovirus repliziert sich zunächst im Magen-Darm-Trakt und kann sich dann auf das Nervensystem ausbreiten. Die humorale Immunität (Antikörper) ist entscheidend, um das Virus zu neutralisieren, solange es noch extrazellulär ist, und so zu verhindern, dass es Neuronen erreicht und infiziert. Sobald Neuronen infiziert sind, sind Antikörper weniger wirksam, und die zellvermittelte Immunität (zytotoxische T-Zellen) wird entscheidend, um infizierte Zellen zu identifizieren und zu zerstören, wodurch die Ausbreitung des Virus im Nervensystem begrenzt und weitere irreversible Schäden an Neuronen, die nicht ersetzt werden können, verhindert werden.",
+      "ja": "ポリオウイルスは最初に胃腸管で複製し、その後神経系に広がる可能性がある。液性免疫（抗体）は、ウイルスが細胞外にある間に中和するために非常に重要であり、そもそも神経細胞に到達して感染するのを防ぐ。神経細胞が感染すると、抗体は効果が薄くなり、細胞性免疫（細胞傷害性T細胞）が感染細胞を特定して破壊するために不可欠となる。これにより、神経系内でのウイルスの拡散を制限し、再生不可能な神経細胞へのさらなる不可逆的な損傷を防ぐ。"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 753,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the primary respiratory organ of an earthworm, as described in the text?",
+      "zh": "根据文中描述，蚯蚓的主要呼吸器官是什么？",
+      "es": "Según el texto, ¿cuál es el órgano respiratorio principal de una lombriz de tierra?",
+      "fr": "Selon le texte, quel est l'organe respiratoire principal d'un ver de terre ?",
+      "de": "Welches ist laut Text das primäre Atmungsorgan eines Regenwurms?",
+      "ja": "テキストに記載されている、ミミズの主要な呼吸器官は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Lungs",
+          "zh": "肺",
+          "es": "Pulmones",
+          "fr": "Poumons",
+          "de": "Lungen",
+          "ja": "肺"
+        },
+        "feedback": {
+          "en": "Earthworms do not possess lungs for respiration.",
+          "zh": "蚯蚓不具有肺进行呼吸。",
+          "es": "Las lombrices de tierra no poseen pulmones para la respiración.",
+          "fr": "Les vers de terre ne possèdent pas de poumons pour la respiration.",
+          "de": "Regenwürmer besitzen keine Lungen zur Atmung.",
+          "ja": "ミミズは呼吸のための肺を持っていません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Gills",
+          "zh": "鳃",
+          "es": "Branquias",
+          "fr": "Branchies",
+          "de": "Kiemen",
+          "ja": "えら"
+        },
+        "feedback": {
+          "en": "Gills are typically found in aquatic animals for respiration in water.",
+          "zh": "鳃通常存在于水生动物中，用于在水中呼吸。",
+          "es": "Las branquias se encuentran típicamente en animales acuáticos para la respiración en el agua.",
+          "fr": "Les branchies se trouvent généralement chez les animaux aquatiques pour la respiration dans l'eau.",
+          "de": "Kiemen findet man typischerweise bei Wassertieren zur Atmung im Wasser.",
+          "ja": "えらは通常、水生動物が水中での呼吸のために持っています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Skin",
+          "zh": "皮肤",
+          "es": "Piel",
+          "fr": "Peau",
+          "de": "Haut",
+          "ja": "皮膚"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Metanephridia",
+          "zh": "后肾",
+          "es": "Metanefridios",
+          "fr": "Métanéphridies",
+          "de": "Metanephridien",
+          "ja": "後腎"
+        },
+        "feedback": {
+          "en": "Metanephridia are involved in excretion, not respiration.",
+          "zh": "后肾参与排泄，而不是呼吸。",
+          "es": "Los metanefridios están involucrados en la excreción, no en la respiración.",
+          "fr": "Les métanéphridies sont impliquées dans l'excrétion, pas dans la respiration.",
+          "de": "Metanephridien sind an der Ausscheidung beteiligt, nicht an der Atmung.",
+          "ja": "後腎は排泄に関与し、呼吸には関与しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states: 'Tiny blood vessels are abundant in the earthworm's skin, which functions as its respiratory organ.'",
+      "zh": "文中指出：“蚯蚓的皮肤中含有丰富的微血管，其作用是呼吸器官。”",
+      "es": "El texto indica: 'Vasos sanguíneos diminutos son abundantes en la piel de la lombriz de tierra, la cual funciona como su órgano respiratorio.'",
+      "fr": "Le texte indique : « De minuscules vaisseaux sanguins sont abondants dans la peau du ver de terre, qui fonctionne comme son organe respiratoire. »",
+      "de": "Der Text besagt: 'Winzige Blutgefäße sind in der Haut des Regenwurms reichlich vorhanden, die als sein Atmungsorgan fungiert.'",
+      "ja": "テキストには「ミミズの皮膚には微細な血管が豊富にあり、それが呼吸器官として機能する」と記載されています。"
+    }
+  },
+  {
+    "page_number": 753,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the primary function of hirudin, the chemical secreted by leeches after making an incision?",
+      "zh": "蚂蟥在切开伤口后分泌的化学物质水蛭素的主要功能是什么？",
+      "es": "¿Cuál es la función principal de la hirudina, la sustancia química secretada por las sanguijuelas después de hacer una incisión?",
+      "fr": "Quelle est la fonction principale de l'hirudine, la substance chimique sécrétée par les sangsues après avoir fait une incision ?",
+      "de": "Was ist die Hauptfunktion von Hirudin, der Chemikalie, die Blutegel nach einem Einschnitt absondern?",
+      "ja": "傷口を切開した後、ヒルが分泌する化学物質であるヒルジンの主な機能は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To numb the host (anesthetic)",
+          "zh": "使宿主麻木（麻醉剂）",
+          "es": "Adormecer al huésped (anestésico)",
+          "fr": "Engourdir l'hôte (anesthésique)",
+          "de": "Den Wirt betäuben (Anästhetikum)",
+          "ja": "宿主を麻痺させる（麻酔剤）"
+        },
+        "feedback": {
+          "en": "While leeches do secrete an anesthetic, hirudin's specific function is anticoagulation, not anesthesia.",
+          "zh": "虽然蚂蟥确实分泌麻醉剂，但水蛭素的特定功能是抗凝血，而不是麻醉。",
+          "es": "Aunque las sanguijuelas secretan un anestésico, la función específica de la hirudina es la anticoagulación, no la anestesia.",
+          "fr": "Bien que les sangsues sécrètent un anesthésique, la fonction spécifique de l'hirudine est l'anticoagulation, et non l'anesthésie.",
+          "de": "Blutegel scheiden zwar ein Anästhetikum ab, aber die spezifische Funktion von Hirudin ist die Antikoagulation, nicht die Anästhesie.",
+          "ja": "ヒルは麻酔剤を分泌しますが、ヒルジンの具体的な機能は抗凝固作用であり、麻酔作用ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To prevent blood coagulation",
+          "zh": "防止血液凝固",
+          "es": "Prevenir la coagulación sanguínea",
+          "fr": "Empêcher la coagulation du sang",
+          "de": "Blutgerinnung verhindern",
+          "ja": "血液凝固を防ぐ"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To aid in digestion of blood",
+          "zh": "帮助血液消化",
+          "es": "Ayudar en la digestión de la sangre",
+          "fr": "Aider à la digestion du sang",
+          "de": "Bei der Blutverdauung helfen",
+          "ja": "血液の消化を助ける"
+        },
+        "feedback": {
+          "en": "Hirudin's primary role is related to blood flow, not digestion.",
+          "zh": "水蛭素的主要作用与血液流动有关，而不是消化。",
+          "es": "El papel principal de la hirudina está relacionado con el flujo sanguíneo, no con la digestión.",
+          "fr": "Le rôle principal de l'hirudine est lié à la circulation sanguine, pas à la digestion.",
+          "de": "Die Hauptaufgabe von Hirudin ist blutflussbezogen, nicht verdauungsbezogen.",
+          "ja": "ヒルジンの主な役割は血流に関連しており、消化ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To attract other leeches",
+          "zh": "吸引其他蚂蟥",
+          "es": "Atraer a otras sanguijuelas",
+          "fr": "Attirer d'autres sangsues",
+          "de": "Andere Blutegel anlocken",
+          "ja": "他のヒルを引き付ける"
+        },
+        "feedback": {
+          "en": "The text does not mention hirudin having a role in attracting other leeches.",
+          "zh": "文中没有提到水蛭素具有吸引其他蚂蟥的作用。",
+          "es": "El texto no menciona que la hirudina tenga un papel en la atracción de otras sanguijuelas.",
+          "fr": "Le texte ne mentionne pas que l'hirudine joue un rôle dans l'attraction d'autres sangsues.",
+          "de": "Der Text erwähnt keine Rolle von Hirudin bei der Anziehung anderer Blutegel.",
+          "ja": "テキストには、ヒルジンが他のヒルを引き付ける役割を持つとは記載されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that hirudin 'keeps the blood of the host from coagulating near the incision.'",
+      "zh": "文本明确指出，水蛭素“能阻止宿主伤口附近的血液凝固”。",
+      "es": "El texto afirma explícitamente que la hirudina 'evita que la sangre del huésped se coagule cerca de la incisión'.",
+      "fr": "Le texte indique explicitement que l'hirudine « empêche le sang de l'hôte de coaguler près de l'incision ».",
+      "de": "Der Text besagt ausdrücklich, dass Hirudin 'das Blut des Wirtes daran hindert, in der Nähe des Einschnitts zu gerinnen'.",
+      "ja": "テキストには、ヒルジンが「宿主の血液が切開部付近で凝固するのを防ぐ」と明示されています。"
+    }
+  },
+  {
+    "page_number": 753,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes the metanephridia in an earthworm?",
+      "zh": "以下哪项陈述准确描述了蚯蚓的后肾？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión los metanefridios en una lombriz de tierra?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision les métanéphridies chez un ver de terre ?",
+      "de": "Welche der folgenden Aussagen beschreibt die Metanephridien eines Regenwurms genau?",
+      "ja": "ミミズの後腎について、以下の記述で正確なものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They are responsible for oxygen transport throughout the body.",
+          "zh": "它们负责全身的氧气运输。",
+          "es": "Son responsables del transporte de oxígeno por todo el cuerpo.",
+          "fr": "Ils sont responsables du transport de l'oxygène dans tout le corps.",
+          "de": "Sie sind für den Sauerstofftransport im gesamten Körper verantwortlich.",
+          "ja": "それらは体中の酸素輸送を担当しています。"
+        },
+        "feedback": {
+          "en": "Oxygen transport is primarily a function of the circulatory system and blood vessels, not metanephridia.",
+          "zh": "氧气运输主要是循环系统和血管的功能，而不是后肾。",
+          "es": "El transporte de oxígeno es principalmente una función del sistema circulatorio y los vasos sanguíneos, no de los metanefridios.",
+          "fr": "Le transport de l'oxygène est principalement une fonction du système circulatoire et des vaisseaux sanguins, et non des métanéphridies.",
+          "de": "Der Sauerstofftransport ist hauptsächlich eine Funktion des Kreislaufsystems und der Blutgefäße, nicht der Metanephridien.",
+          "ja": "酸素輸送は主に循環器系と血管の機能であり、後腎の機能ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They are brain-like structures located in the head region.",
+          "zh": "它们是位于头部区域的脑状结构。",
+          "es": "Son estructuras cerebrales ubicadas en la región de la cabeza.",
+          "fr": "Ce sont des structures cérébrales situées dans la région de la tête.",
+          "de": "Sie sind gehirnähnliche Strukturen, die sich im Kopfbereich befinden.",
+          "ja": "それらは頭部にある脳のような構造です。"
+        },
+        "feedback": {
+          "en": "Brain-like structures are cerebral ganglia, not metanephridia.",
+          "zh": "脑状结构是脑神经节，而不是后肾。",
+          "es": "Las estructuras cerebrales son ganglios cerebrales, no metanefridios.",
+          "fr": "Les structures cérébrales sont des ganglions cérébraux, et non des métanéphridies.",
+          "de": "Gehirnähnliche Strukturen sind Zerebralganglien, keine Metanephridien.",
+          "ja": "脳のような構造は脳神経節であり、後腎ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Each segment of the worm contains a pair of these excretory tubules.",
+          "zh": "蚯蚓的每个体节都含有一对这样的排泄小管。",
+          "es": "Cada segmento del gusano contiene un par de estos túbulos excretores.",
+          "fr": "Chaque segment du ver contient une paire de ces tubules excréteurs.",
+          "de": "Jedes Segment des Wurmes enthält ein Paar dieser Ausscheidungsröhrchen.",
+          "ja": "ミミズの各体節には、これらの一対の排泄管が含まれています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They function primarily in the digestion of organic matter.",
+          "zh": "它们主要功能是消化有机物。",
+          "es": "Funcionan principalmente en la digestión de materia orgánica.",
+          "fr": "Ils fonctionnent principalement dans la digestion de la matière organique.",
+          "de": "Sie dienen hauptsächlich der Verdauung organischer Stoffe.",
+          "ja": "それらは主に有機物の消化に機能します。"
+        },
+        "feedback": {
+          "en": "Digestion is carried out by the alimentary canal, not metanephridia.",
+          "zh": "消化是由消化道完成的，而不是后肾。",
+          "es": "La digestión es realizada por el canal alimentario, no por los metanefridios.",
+          "fr": "La digestion est effectuée par le canal alimentaire, et non par les métanéphridies.",
+          "de": "Die Verdauung erfolgt im Verdauungstrakt, nicht in den Metanephridien.",
+          "ja": "消化は消化管によって行われ、後腎ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text defines metanephridia as 'excretory tubules' and states: 'Each segment of the worm contains a pair of excretory tubules, called metanephridia, that discharge wastes from the blood and coelomic fluid through exterior pores.'",
+      "zh": "文本将后肾定义为“排泄小管”，并指出：“蚯蚓的每个体节都含有一对排泄小管，称为后肾，它们通过体外孔排出血液和体腔液中的废物。”",
+      "es": "El texto define los metanefridios como 'túbulos excretores' y establece: 'Cada segmento del gusano contiene un par de túbulos excretores, llamados metanefridios, que descargan desechos de la sangre y el líquido celómico a través de poros exteriores.'",
+      "fr": "Le texte définit les métanéphridies comme des « tubules excréteurs » et précise : « Chaque segment du ver contient une paire de tubules excréteurs, appelés métanéphridies, qui évacuent les déchets du sang et du liquide cœlomique par des pores extérieurs. »",
+      "de": "Der Text definiert Metanephridien als 'Ausscheidungsröhrchen' und besagt: 'Jedes Segment des Wurmes enthält ein Paar Ausscheidungsröhrchen, Metanephridien genannt, die Abfälle aus dem Blut und der Zölomflüssigkeit durch äußere Poren ableiten.'",
+      "ja": "テキストでは、後腎は「排泄管」と定義されており、「ミミズの各体節には、血液と体腔液から老廃物を外部の孔を通して排出する一対の排泄管、すなわち後腎が含まれている」と述べられています。"
+    }
+  },
+  {
+    "page_number": 753,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "How do earthworms move, according to the provided text?",
+      "zh": "根据提供的文本，蚯蚓是如何移动的？",
+      "es": "Según el texto proporcionado, ¿cómo se mueven las lombrices de tierra?",
+      "fr": "Selon le texte fourni, comment les vers de terre se déplacent-ils ?",
+      "de": "Wie bewegen sich Regenwürmer laut dem bereitgestellten Text?",
+      "ja": "提供されたテキストによると、ミミズはどのように移動しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "By using chaetae to grip surfaces and push forward.",
+          "zh": "通过使用刚毛抓住表面并向前推进。",
+          "es": "Usando quetas para agarrar superficies y avanzar.",
+          "fr": "En utilisant des soies pour agripper les surfaces et avancer.",
+          "de": "Durch den Einsatz von Borsten, um Oberflächen zu greifen und sich vorwärts zu schieben.",
+          "ja": "剛毛を使って表面を掴み、前進する。"
+        },
+        "feedback": {
+          "en": "Chaetae provide traction for burrowing, but the primary movement mechanism involves muscles.",
+          "zh": "刚毛提供掘进的牵引力，但主要的运动机制涉及肌肉。",
+          "es": "Las quetas proporcionan tracción para excavar, pero el mecanismo principal de movimiento implica músculos.",
+          "fr": "Les soies offrent une traction pour le fouissage, mais le mécanisme de mouvement principal implique les muscles.",
+          "de": "Borsten bieten Traktion zum Graben, aber der primäre Bewegungsmechanismus beinhaltet Muskeln.",
+          "ja": "剛毛は穴掘りのための牽引力を提供しますが、主な移動メカニズムには筋肉が関与します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "By coordinating the contraction of longitudinal and circular muscles.",
+          "zh": "通过协调纵向肌和环状肌的收缩。",
+          "es": "Coordinando la contracción de los músculos longitudinales y circulares.",
+          "fr": "En coordonnant la contraction des muscles longitudinaux et circulaires.",
+          "de": "Durch Koordination der Kontraktion von Längs- und Ringmuskulatur.",
+          "ja": "縦筋と環状筋の収縮を協調させることによって。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "By expanding and contracting their coelom through hydrostatic pressure.",
+          "zh": "通过水压膨胀和收缩它们的体腔。",
+          "es": "Expandiendo y contrayendo su celoma a través de la presión hidrostática.",
+          "fr": "En dilatant et contractant leur cœlome par pression hydrostatique.",
+          "de": "Durch Ausdehnung und Kontraktion ihres Zöloms mittels hydrostatischem Druck.",
+          "ja": "静水圧によって体腔を拡張・収縮させることによって。"
+        },
+        "feedback": {
+          "en": "While the coelom is hydrostatic, the text specifically attributes movement to muscle coordination, not just hydrostatic pressure as the sole mechanism.",
+          "zh": "虽然体腔是水压的，但文中明确指出运动是由肌肉协调完成的，而不仅仅是水压作为唯一的机制。",
+          "es": "Aunque el celoma es hidrostático, el texto atribuye específicamente el movimiento a la coordinación muscular, no solo a la presión hidrostática como único mecanismo.",
+          "fr": "Bien que le cœlome soit hydrostatique, le texte attribue spécifiquement le mouvement à la coordination musculaire, et non seulement à la pression hydrostatique comme mécanisme unique.",
+          "de": "Obwohl das Zölom hydrostatisch ist, schreibt der Text die Bewegung spezifisch der Muskelkoordination zu, nicht nur dem hydrostatischen Druck als einzigem Mechanismus.",
+          "ja": "体腔は静水圧ですが、テキストでは運動が筋肉の協調によるものと具体的に述べられており、静水圧だけが唯一のメカニズムではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "By secreting mucus to glide across surfaces.",
+          "zh": "通过分泌粘液在表面上滑动。",
+          "es": "Secretando moco para deslizarse por las superficies.",
+          "fr": "En sécrétant du mucus pour glisser sur les surfaces.",
+          "de": "Durch Schleimabsonderung, um über Oberflächen zu gleiten.",
+          "ja": "粘液を分泌して表面を滑る。"
+        },
+        "feedback": {
+          "en": "Mucus aids movement by reducing friction, but it's not the primary motive force described for movement.",
+          "zh": "粘液通过减少摩擦来辅助运动，但它不是文中描述的主要动力。",
+          "es": "El moco ayuda al movimiento al reducir la fricción, pero no es la fuerza motriz principal descrita para el movimiento.",
+          "fr": "Le mucus facilite le mouvement en réduisant les frottements, mais ce n'est pas la force motrice principale décrite pour le mouvement.",
+          "de": "Schleim unterstützt die Bewegung, indem er die Reibung reduziert, ist aber nicht die primäre Antriebskraft, die für die Bewegung beschrieben wird.",
+          "ja": "粘液は摩擦を減らすことで移動を助けますが、移動の主な原動力とは記載されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'Each segment is surrounded by longitudinal muscle, which in turn is surrounded by circular muscle. Earthworms coordinate the contraction of these two sets of muscles to move.'",
+      "zh": "文中指出：“每个体节都被纵向肌包围，而纵向肌又被环状肌包围。蚯蚓通过协调这两组肌肉的收缩来移动。”",
+      "es": "El texto afirma: 'Cada segmento está rodeado por músculo longitudinal, que a su vez está rodeado por músculo circular. Las lombrices de tierra coordinan la contracción de estos dos conjuntos de músculos para moverse.'",
+      "fr": "Le texte indique : « Chaque segment est entouré de muscles longitudinaux, qui sont à leur tour entourés de muscles circulaires. Les vers de terre coordonnent la contraction de ces deux ensembles de muscles pour se déplacer. »",
+      "de": "Der Text besagt: 'Jedes Segment ist von Längsmuskulatur umgeben, die wiederum von Ringmuskulatur umgeben ist. Regenwürmer koordinieren die Kontraktion dieser beiden Muskelsätze, um sich zu bewegen.'",
+      "ja": "テキストには、「各体節は縦筋に囲まれ、それがさらに環状筋に囲まれている。ミミズはこれら2組の筋肉の収縮を協調させて移動する」と記載されています。"
+    }
+  }
+]

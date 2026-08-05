@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 295,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 12.16a, what is the correct relationship between cyclin concentration and MPF activity during the cell cycle?",
+      "zh": "根据图 12.16a，细胞周期中细胞周期蛋白（cyclin）浓度与 MPF 活性之间的正确关系是什么？",
+      "es": "Según la Figura 12.16a, ¿cuál es la relación correcta entre la concentración de ciclina y la actividad de MPF durante el ciclo celular?",
+      "fr": "D'après la Figure 12.16a, quelle est la relation correcte entre la concentration de cycline et l'activité du MPF pendant le cycle cellulaire ?",
+      "de": "Basierend auf Abbildung 12.16a, wie ist die korrekte Beziehung zwischen der Cyclin-Konzentration und der MPF-Aktivität während des Zellzyklus?",
+      "ja": "図 12.16a に基づくと、細胞周期におけるサイクリン濃度と MPF 活性の正しい関係は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "MPF activity peaks before cyclin concentration.",
+          "zh": "MPF 活性在细胞周期蛋白浓度之前达到峰值。",
+          "es": "La actividad de MPF alcanza su punto máximo antes de la concentración de ciclina.",
+          "fr": "L'activité du MPF atteint son pic avant la concentration de cycline.",
+          "de": "Die MPF-Aktivität erreicht ihren Höhepunkt vor der Cyclin-Konzentration.",
+          "ja": "MPF活性はサイクリン濃度よりも早くピークに達する。"
+        },
+        "feedback": {
+          "en": "Figure 12.16a clearly shows cyclin concentration peaking just before or coinciding with MPF activity.",
+          "zh": "图 12.16a 清晰地显示，细胞周期蛋白浓度在 MPF 活性达到峰值之前或同时达到峰值。",
+          "es": "La Figura 12.16a muestra claramente que la concentración de ciclina alcanza su punto máximo justo antes o coincidiendo con la actividad de MPF.",
+          "fr": "La Figure 12.16a montre clairement que la concentration de cycline atteint son pic juste avant ou en même temps que l'activité du MPF.",
+          "de": "Abbildung 12.16a zeigt deutlich, dass die Cyclin-Konzentration kurz vor oder gleichzeitig mit der MPF-Aktivität ihren Höhepunkt erreicht.",
+          "ja": "図 12.16a は、サイクリン濃度がMPF活性の直前または同時にピークに達することを示している。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "MPF activity peaks after cyclin concentration reaches its maximum.",
+          "zh": "MPF 活性在细胞周期蛋白浓度达到最大值后达到峰值。",
+          "es": "La actividad de MPF alcanza su punto máximo después de que la concentración de ciclina alcanza su máximo.",
+          "fr": "L'activité du MPF atteint son pic après que la concentration de cycline a atteint son maximum.",
+          "de": "Die MPF-Aktivität erreicht ihren Höhepunkt, nachdem die Cyclin-Konzentration ihr Maximum erreicht hat.",
+          "ja": "MPF活性はサイクリン濃度が最大値に達した後にピークに達する。"
+        },
+        "feedback": {
+          "en": "Correct. Cyclin accumulates and then MPF activity peaks, which is consistent with cyclin activating MPF.",
+          "zh": "正确。细胞周期蛋白积累后，MPF 活性达到峰值，这与细胞周期蛋白激活 MPF 一致。",
+          "es": "Correcto. La ciclina se acumula y luego la actividad de MPF alcanza su punto máximo, lo cual es consistente con la activación de MPF por la ciclina.",
+          "fr": "Correct. La cycline s'accumule, puis l'activité du MPF atteint son pic, ce qui est cohérent avec l'activation du MPF par la cycline.",
+          "de": "Korrekt. Cyclin reichert sich an, und dann erreicht die MPF-Aktivität ihren Höhepunkt, was damit übereinstimmt, dass Cyclin MPF aktiviert.",
+          "ja": "正しい。サイクリンが蓄積され、その後MPF活性がピークに達する。これはサイクリンがMPFを活性化することと一致する。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cyclin concentration remains constant, while MPF activity fluctuates.",
+          "zh": "细胞周期蛋白浓度保持不变，而 MPF 活性波动。",
+          "es": "La concentración de ciclina permanece constante, mientras que la actividad de MPF fluctúa.",
+          "fr": "La concentration de cycline reste constante, tandis que l'activité du MPF fluctue.",
+          "de": "Die Cyclin-Konzentration bleibt konstant, während die MPF-Aktivität schwankt.",
+          "ja": "サイクリン濃度は一定に保たれ、MPF活性が変動する。"
+        },
+        "feedback": {
+          "en": "Both cyclin concentration and MPF activity fluctuate significantly according to the graph.",
+          "zh": "根据图表，细胞周期蛋白浓度和 MPF 活性都显著波动。",
+          "es": "Tanto la concentración de ciclina como la actividad de MPF fluctúan significativamente según el gráfico.",
+          "fr": "La concentration de cycline et l'activité du MPF fluctuent toutes deux significativement selon le graphique.",
+          "de": "Sowohl die Cyclin-Konzentration als auch die MPF-Aktivität schwanken laut Diagramm erheblich.",
+          "ja": "グラフによると、サイクリン濃度とMPF活性の両方が著しく変動する。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "MPF activity gradually decreases as cyclin concentration increases.",
+          "zh": "随着细胞周期蛋白浓度增加，MPF 活性逐渐降低。",
+          "es": "La actividad de MPF disminuye gradualmente a medida que la concentración de ciclina aumenta.",
+          "fr": "L'activité du MPF diminue progressivement à mesure que la concentration de cycline augmente.",
+          "de": "Die MPF-Aktivität nimmt allmählich ab, wenn die Cyclin-Konzentration zunimmt.",
+          "ja": "サイクリン濃度が増加するにつれて、MPF活性は徐々に低下する。"
+        },
+        "feedback": {
+          "en": "MPF activity increases with cyclin concentration, reaching a peak.",
+          "zh": "MPF 活性随细胞周期蛋白浓度增加而增加，达到峰值。",
+          "es": "La actividad de MPF aumenta con la concentración de ciclina, alcanzando un pico.",
+          "fr": "L'activité du MPF augmente avec la concentration de cycline, atteignant un pic.",
+          "de": "Die MPF-Aktivität steigt mit der Cyclin-Konzentration an und erreicht einen Höhepunkt.",
+          "ja": "MPF活性はサイクリン濃度とともに増加し、ピークに達する。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 12.16a illustrates that cyclin concentration rises and peaks, and only after sufficient cyclin has accumulated does MPF activity also peak. This sequential relationship is crucial for the proper progression of the cell cycle, as cyclin is a regulatory subunit of MPF.",
+      "zh": "图 12.16a 说明，细胞周期蛋白浓度上升并达到峰值，只有在积累了足够多的细胞周期蛋白后，MPF 活性才达到峰值。这种顺序关系对于细胞周期的正确进展至关重要，因为细胞周期蛋白是 MPF 的调节亚基。",
+      "es": "La Figura 12.16a ilustra que la concentración de ciclina aumenta y alcanza su punto máximo, y solo después de que se ha acumulado suficiente ciclina, la actividad de MPF también alcanza su punto máximo. Esta relación secuencial es crucial para la progresión adecuada del ciclo celular, ya que la ciclina es una subunidad reguladora de MPF.",
+      "fr": "La Figure 12.16a illustre que la concentration de cycline augmente et atteint un pic, et ce n'est qu'après qu'une quantité suffisante de cycline s'est accumulée que l'activité du MPF atteint également son pic. Cette relation séquentielle est cruciale pour la progression correcte du cycle cellulaire, car la cycline est une sous-unité régulatrice du MPF.",
+      "de": "Abbildung 12.16a zeigt, dass die Cyclin-Konzentration ansteigt und ihren Höhepunkt erreicht, und erst nachdem genügend Cyclin akkumuliert ist, erreicht auch die MPF-Aktivität ihren Höhepunkt. Diese sequentielle Beziehung ist entscheidend für den ordnungsgemäßen Verlauf des Zellzyklus, da Cyclin eine regulatorische Untereinheit von MPF ist.",
+      "ja": "図 12.16a は、サイクリン濃度が上昇してピークに達し、十分なサイクリンが蓄積された後にMPF活性もピークに達することを示している。サイクリンはMPFの調節サブユニットであるため、この連続的な関係は細胞周期の適切な進行にとって極めて重要である。"
+    }
+  },
+  {
+    "page_number": 295,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "According to the text, what is the direct consequence if some kinetochores remain unattached to spindle microtubules at the M checkpoint?",
+      "zh": "根据文本，如果在 M 检查点，某些着丝粒仍然未附着到纺锤体微管上，直接后果是什么？",
+      "es": "Según el texto, ¿cuál es la consecuencia directa si algunos cinetocoros permanecen sin unir a los microtúbulos del huso en el punto de control M?",
+      "fr": "Selon le texte, quelle est la conséquence directe si certains kinétochores restent non attachés aux microtubules du fuseau au point de contrôle M ?",
+      "de": "Laut Text, was ist die direkte Konsequenz, wenn einige Kinetochoren am M-Kontrollpunkt ungebunden an Spindel-Mikrotubuli bleiben?",
+      "ja": "テキストによると、M期チェックポイントで一部の動原体が紡錘体微小管に付着していない場合、直接的な結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The cell immediately exits the cell cycle and enters the G₀ phase.",
+          "zh": "细胞立即退出细胞周期并进入 G₀ 期。",
+          "es": "La célula sale inmediatamente del ciclo celular y entra en la fase G₀.",
+          "fr": "La cellule quitte immédiatement le cycle cellulaire et entre en phase G₀.",
+          "de": "Die Zelle verlässt sofort den Zellzyklus und tritt in die G₀-Phase ein.",
+          "ja": "細胞は直ちに細胞周期を終了し、G₀期に入る。"
+        },
+        "feedback": {
+          "en": "Entry into G₀ is typically a response to a lack of a go-ahead signal at the G₁ checkpoint, not directly related to unattached kinetochores at M checkpoint.",
+          "zh": "进入 G₀ 期通常是由于 G₁ 检查点缺乏“通行”信号，与 M 检查点未附着的着丝粒没有直接关系。",
+          "es": "La entrada en G₀ es típicamente una respuesta a la falta de una señal de \"adelante\" en el punto de control G₁, no directamente relacionada con los cinetocoros no unidos en el punto de control M.",
+          "fr": "L'entrée en G₀ est généralement une réponse à un manque de signal \"passez\" au point de contrôle G₁, et n'est pas directement liée aux kinétochores non attachés au point de contrôle M.",
+          "de": "Der Eintritt in die G₀-Phase ist typischerweise eine Reaktion auf das Fehlen eines \"Go-ahead\"-Signals am G₁-Kontrollpunkt, nicht direkt auf ungebundene Kinetochoren am M-Kontrollpunkt.",
+          "ja": "G₀期への移行は、通常、G₁チェックポイントでのゴーアヘッドシグナルの欠如に対する反応であり、M期チェックポイントでの未付着の動原体とは直接関係がない。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Anaphase is delayed until all chromosomes are properly attached to the spindle.",
+          "zh": "后期被延迟，直到所有染色体都正确附着到纺锤体上。",
+          "es": "La anafase se retrasa hasta que todos los cromosomas estén correctamente unidos al huso.",
+          "fr": "L'anaphase est retardée jusqu'à ce que tous les chromosomes soient correctement attachés au fuseau.",
+          "de": "Die Anaphase wird verzögert, bis alle Chromosomen ordnungsgemäß an die Spindel gebunden sind.",
+          "ja": "すべての染色体が紡錘体に適切に付着するまで、後期は遅延する。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that anaphase does not begin until all chromosomes are properly attached to the spindle at the metaphase plate.",
+          "zh": "文本明确指出，直到所有染色体都正确附着到中期板上的纺锤体后，后期才开始。",
+          "es": "El texto establece explícitamente que la anafase no comienza hasta que todos los cromosomas estén correctamente unidos al huso en la placa metafásica.",
+          "fr": "Le texte stipule explicitement que l'anaphase ne commence pas tant que tous les chromosomes ne sont pas correctement attachés au fuseau au niveau de la plaque métaphasique.",
+          "de": "Der Text besagt explizit, dass die Anaphase erst beginnt, wenn alle Chromosomen ordnungsgemäß an der Metaphasenplatte an die Spindel gebunden sind.",
+          "ja": "テキストには、すべて染色体が中期板で紡錘体に適切に付着するまで、後期は開始しないと明記されている。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "MPF activity significantly decreases, leading to premature cytokinesis.",
+          "zh": "MPF 活性显著降低，导致胞质分裂过早。",
+          "es": "La actividad de MPF disminuye significativamente, lo que lleva a una citocinesis prematura.",
+          "fr": "L'activité du MPF diminue significativement, entraînant une cytokinèse prématurée.",
+          "de": "Die MPF-Aktivität nimmt signifikant ab, was zu einer vorzeitigen Zytokinese führt.",
+          "ja": "MPF活性が著しく低下し、早期の細胞質分裂を引き起こす。"
+        },
+        "feedback": {
+          "en": "MPF activity promotes mitosis and its decrease leads to the end of M phase, not premature cytokinesis due to unattached kinetochores. Unattached kinetochores *delay* anaphase, not accelerate a later stage.",
+          "zh": "MPF 活性促进有丝分裂，其降低导致 M 期结束，而不是由于未附着的着丝粒导致胞质分裂过早。未附着的着丝粒会 *延迟* 后期，而不是加速后期阶段。",
+          "es": "La actividad de MPF promueve la mitosis y su disminución conduce al final de la fase M, no a una citocinesis prematura debido a cinetocoros no unidos. Los cinetocoros no unidos *retrasan* la anafase, no aceleran una etapa posterior.",
+          "fr": "L'activité du MPF favorise la mitose et sa diminution entraîne la fin de la phase M, non une cytokinèse prématurée due à des kinétochores non attachés. Les kinétochores non attachés *retardent* l'anaphase, et non n'accélèrent pas une étape ultérieure.",
+          "de": "MPF-Aktivität fördert die Mitose, und ihr Rückgang führt zum Ende der M-Phase, nicht zu einer vorzeitigen Zytokinese aufgrund ungebundener Kinetochoren. Ungebundene Kinetochoren *verzögern* die Anaphase, beschleunigen aber kein späteres Stadium.",
+          "ja": "MPF活性は有糸分裂を促進し、その低下はM期の終了を招くが、未付着の動原体による早期細胞質分裂ではない。未付着の動原体は後期を「遅らせる」のであり、後の段階を加速させるものではない。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Cyclin synthesis is inhibited, preventing the formation of new MPF molecules.",
+          "zh": "细胞周期蛋白合成受到抑制，阻止了新的 MPF 分子形成。",
+          "es": "La síntesis de ciclina se inhibe, impidiendo la formación de nuevas moléculas de MPF.",
+          "fr": "La synthèse de cycline est inhibée, empêchant la formation de nouvelles molécules de MPF.",
+          "de": "Die Cyclin-Synthese wird gehemmt, wodurch die Bildung neuer MPF-Moleküle verhindert wird.",
+          "ja": "サイクリン合成が阻害され、新たなMPF分子の形成が妨げられる。"
+        },
+        "feedback": {
+          "en": "Cyclin synthesis occurs during S and G2 phases. The M checkpoint deals with spindle attachment, not cyclin synthesis inhibition as a direct consequence of unattached kinetochores.",
+          "zh": "细胞周期蛋白合成发生在 S 和 G₂ 期。M 检查点处理的是纺锤体附着问题，而不是将未附着的着丝粒直接导致细胞周期蛋白合成抑制。",
+          "es": "La síntesis de ciclina ocurre durante las fases S y G₂. El punto de control M se ocupa de la unión del huso, no de la inhibición de la síntesis de ciclina como consecuencia directa de cinetocoros no unidos.",
+          "fr": "La synthèse de cycline a lieu pendant les phases S et G₂. Le point de contrôle M traite de l'attachement du fuseau, et non de l'inhibition de la synthèse de cycline comme conséquence directe de kinétochores non attachés.",
+          "de": "Die Cyclin-Synthese findet während der S- und G₂-Phasen statt. Der M-Kontrollpunkt befasst sich mit der Spindelanheftung, nicht mit der Hemmung der Cyclin-Synthese als direkte Folge ungebundener Kinetochoren.",
+          "ja": "サイクリン合成はS期とG₂期に行われる。M期チェックポイントは紡錘体への付着を扱うものであり、未付着の動原体の直接的な結果としてサイクリン合成阻害が起こるわけではない。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states regarding the M checkpoint: 'Anaphase, the separation of sister chromatids, does not begin until all the chromosomes are properly attached to the spindle at the metaphase plate.' This mechanism ensures that each daughter cell receives a complete set of chromosomes.",
+      "zh": "文本明确指出关于 M 检查点：“后期，即姐妹染色单体的分离，直到所有染色体都正确附着到中期板上的纺锤体后才开始。” 这种机制确保每个子细胞都接收到一套完整的染色体。",
+      "es": "El texto establece explícitamente con respecto al punto de control M: 'La anafase, la separación de las cromátidas hermanas, no comienza hasta que todos los cromosomas estén correctamente unidos al huso en la placa metafásica.' Este mecanismo asegura que cada célula hija reciba un conjunto completo de cromosomas.",
+      "fr": "Le texte stipule explicitement concernant le point de contrôle M : « L'anaphase, la séparation des chromatides sœurs, ne commence pas tant que tous les chromosomes ne sont pas correctement attachés au fuseau au niveau de la plaque métaphasique. » Ce mécanisme garantit que chaque cellule fille reçoit un ensemble complet de chromosomes.",
+      "de": "Der Text besagt explizit zum M-Kontrollpunkt: 'Die Anaphase, die Trennung der Schwesterchromatiden, beginnt nicht, bevor alle Chromosomen ordnungsgemäß an der Metaphasenplatte an die Spindel gebunden sind.' Dieser Mechanismus stellt sicher, dass jede Tochterzelle einen vollständigen Satz Chromosomen erhält.",
+      "ja": "テキストでは、M期チェックポイントについて明確に述べられている：「姉妹染色分体の分離である後期は、すべて染色体が中期板で紡錘体に適切に付着するまで開始しない。」このメカニズムは、各娘細胞が完全な染色体セットを受け取ることを保証する。"
+    }
+  },
+  {
+    "page_number": 295,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "For many cells, the G₁ checkpoint is considered the most important. What happens if a cell does not receive a go-ahead signal at this checkpoint?",
+      "zh": "对于许多细胞来说，G₁ 检查点被认为是最重要的。如果细胞在这个检查点没有收到“通行”信号，会发生什么？",
+      "es": "Para muchas células, el punto de control G₁ se considera el más importante. ¿Qué sucede si una célula no recibe una señal de \"adelante\" en este punto de control?",
+      "fr": "Pour de nombreuses cellules, le point de contrôle G₁ est considéré comme le plus important. Que se passe-t-il si une cellule ne reçoit pas de signal de \"feu vert\" à ce point de contrôle ?",
+      "de": "Für viele Zellen gilt der G₁-Kontrollpunkt als der wichtigste. Was passiert, wenn eine Zelle an diesem Kontrollpunkt kein \"Go-ahead\"-Signal erhält?",
+      "ja": "多くの細胞にとって、G₁チェックポイントは最も重要であると考えられている。このチェックポイントで細胞がゴーアヘッドシグナルを受け取らなかった場合、何が起こりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It proceeds directly to the S phase without a delay.",
+          "zh": "它直接进入 S 期，没有延迟。",
+          "es": "Procede directamente a la fase S sin demora.",
+          "fr": "Elle passe directement en phase S sans délai.",
+          "de": "Sie geht ohne Verzögerung direkt in die S-Phase über.",
+          "ja": "遅延なく直接S期へ進む。"
+        },
+        "feedback": {
+          "en": "A lack of go-ahead signal means the cell will *not* proceed.",
+          "zh": "缺乏“通行”信号意味着细胞将不会继续。",
+          "es": "La falta de una señal de \"adelante\" significa que la célula *no* procederá.",
+          "fr": "L'absence de signal \"passez\" signifie que la cellule ne progressera *pas*.",
+          "de": "Ein fehlendes \"Go-ahead\"-Signal bedeutet, dass die Zelle *nicht* fortfahren wird.",
+          "ja": "ゴーアヘッドシグナルがない場合、細胞は進行「しない」。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It enters a nondividing state called the G₀ phase.",
+          "zh": "它进入一个称为 G₀ 期的非分裂状态。",
+          "es": "Entra en un estado no divisional llamado fase G₀.",
+          "fr": "Elle entre dans un état de non-division appelé phase G₀.",
+          "de": "Sie tritt in einen nicht-teilenden Zustand ein, der als G₀-Phase bezeichnet wird.",
+          "ja": "G₀期と呼ばれる非分裂状態に入る。"
+        },
+        "feedback": {
+          "en": "The text states, \"If it does not receive a go-ahead signal at that point, it may exit the cycle, switching into a nondividing state called the G₀ phase.\"",
+          "zh": "文本指出：“如果此时没有收到‘通行’信号，它可能会退出周期，转变为称为 G₀ 期的非分裂状态。”",
+          "es": "El texto afirma: \"Si no recibe una señal de \"adelante\" en ese punto, puede salir del ciclo, pasando a un estado de no división llamado fase G₀.\"",
+          "fr": "Le texte stipule : \"Si elle ne reçoit pas de signal de 'feu vert' à ce moment-là, elle peut quitter le cycle, passant dans un état non-diviseur appelé phase G₀.\"",
+          "de": "Der Text besagt: \"Wenn es an diesem Punkt kein \"Go-ahead\"-Signal erhält, kann es den Zyklus verlassen und in einen nicht-teilenden Zustand wechseln, der als G₀-Phase bezeichnet wird.\"",
+          "ja": "テキストには、「その時点でゴーアヘッドシグナルを受け取らない場合、サイクルを終了し、G₀期と呼ばれる非分裂状態に移行する可能性がある」と記載されている。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It initiates apoptosis (programmed cell death).",
+          "zh": "它启动细胞凋亡（程序性细胞死亡）。",
+          "es": "Inicia la apoptosis (muerte celular programada).",
+          "fr": "Elle initie l'apoptose (mort cellulaire programmée).",
+          "de": "Sie leitet Apoptose (programmierten Zelltod) ein.",
+          "ja": "アポトーシス（プログラム細胞死）を開始する。"
+        },
+        "feedback": {
+          "en": "While cells can undergo apoptosis, the text specifically states entry into G0 as the outcome for not receiving a G1 go-ahead signal.",
+          "zh": "尽管细胞可以发生凋亡，但文本明确指出，未收到 G₁“通行”信号的结果是进入 G₀ 期。",
+          "es": "Aunque las células pueden sufrir apoptosis, el texto especifica que la entrada en G₀ es el resultado de no recibir una señal de \"adelante\" en G₁.",
+          "fr": "Bien que les cellules puissent subir l'apoptose, le texte mentionne spécifiquement l'entrée en G₀ comme conséquence du non-réception d'un signal de \"feu vert\" en G₁.",
+          "de": "Obwohl Zellen Apoptose durchlaufen können, besagt der Text ausdrücklich, dass der Eintritt in die G₀-Phase das Ergebnis ist, wenn kein G₁-\"Go-ahead\"-Signal erhalten wird.",
+          "ja": "細胞はアポトーシスを起こす可能性があるが、テキストではG₁ゴーアヘッドシグナルを受け取らなかった場合の結末としてG₀期への移行が具体的に述べられている。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It immediately doubles its DNA content and prepares for division.",
+          "zh": "它立即将其 DNA 含量加倍并准备分裂。",
+          "es": "Duplica inmediatamente su contenido de ADN y se prepara para la división.",
+          "fr": "Elle double immédiatement son contenu en ADN et se prépare à la division.",
+          "de": "Sie verdoppelt sofort ihren DNA-Gehalt und bereitet sich auf die Teilung vor.",
+          "ja": "直ちにDNAを複製し、分裂に備える。"
+        },
+        "feedback": {
+          "en": "Doubling DNA occurs in S phase, and division is M phase. Lack of signal at G1 prevents progression.",
+          "zh": "DNA 加倍发生在 S 期，细胞分裂发生在 M 期。G₁ 期缺乏信号会阻止细胞周期进程。",
+          "es": "La duplicación del ADN ocurre en la fase S, y la división es la fase M. La falta de señal en G₁ impide la progresión.",
+          "fr": "Le doublement de l'ADN se produit en phase S, et la division est en phase M. L'absence de signal en G₁ empêche la progression.",
+          "de": "Die DNA-Verdopplung findet in der S-Phase statt, und die Teilung ist die M-Phase. Das Fehlen eines Signals in G₁ verhindert das Fortschreiten.",
+          "ja": "DNAの複製はS期に起こり、分裂はM期に起こる。G₁期でのシグナル不足は進行を妨げる。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that if a cell does not receive a go-ahead signal at the G₁ checkpoint, it may exit the cycle and enter the G₀ phase, a nondividing state. This is a critical regulatory point controlling whether cells commit to division or enter a quiescent state.",
+      "zh": "文本指出，如果细胞在 G₁ 检查点没有收到“通行”信号，它可能会退出周期并进入 G₀ 期，这是一种非分裂状态。这是控制细胞是否进入分裂或进入静止状态的关键调控点。",
+      "es": "El texto afirma que si una célula no recibe una señal de \"adelante\" en el punto de control G₁, puede salir del ciclo y entrar en la fase G₀, un estado no divisorio. Este es un punto regulador crítico que controla si las células se comprometen a la división o entran en un estado de quiescencia.",
+      "fr": "Le texte indique que si une cellule ne reçoit pas de signal de \"feu vert\" au point de contrôle G₁, elle peut quitter le cycle et entrer en phase G₀, un état de non-division. C'est un point de régulation critique qui contrôle si les cellules s'engagent dans la division ou entrent dans un état de quiescence.",
+      "de": "Der Text besagt, dass eine Zelle, wenn sie am G₁-Kontrollpunkt kein \"Go-ahead\"-Signal erhält, den Zyklus verlassen und in die G₀-Phase, einen nicht-teilenden Zustand, eintreten kann. Dies ist ein entscheidender Regulierungspunkt, der steuert, ob Zellen sich zur Teilung verpflichten oder in einen Ruhezustand übergehen.",
+      "ja": "テキストによると、細胞がG₁チェックポイントでゴーアヘッドシグナルを受け取らなかった場合、サイクルを終了してG₀期と呼ばれる非分裂状態に入る可能性がある。これは、細胞が分裂に進むか、休止状態に入るかを制御する重要な調節点である。"
+    }
+  },
+  {
+    "page_number": 295,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following sequences correctly describes the molecular events involving cyclin and MPF during the cell cycle, as depicted in Figure 12.16b?",
+      "zh": "根据图 12.16b 所示，以下哪个序列正确描述了细胞周期中涉及细胞周期蛋白和 MPF 的分子事件？",
+      "es": "¿Cuál de las siguientes secuencias describe correctamente los eventos moleculares que involucran a la ciclina y al MPF durante el ciclo celular, según se representa en la Figura 12.16b?",
+      "fr": "Laquelle des séquences suivantes décrit correctement les événements moléculaires impliquant la cycline et le MPF pendant le cycle cellulaire, telle que représentée dans la Figure 12.16b ?",
+      "de": "Welche der folgenden Sequenzen beschreibt die molekularen Ereignisse, die Cyclin und MPF während des Zellzyklus betreffen, gemäß Abbildung 12.16b, korrekt?",
+      "ja": "図 12.16b に示されているように、細胞周期中にサイクリンとMPFが関与する分子イベントを正しく説明しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Cyclin synthesis → MPF degradation → Cyclin-Cdk complex formation → MPF promotes mitosis.",
+          "zh": "细胞周期蛋白合成 → MPF 降解 → 细胞周期蛋白-Cdk 复合物形成 → MPF 促进有丝分裂。",
+          "es": "Síntesis de ciclina → Degradación de MPF → Formación del complejo ciclina-Cdk → MPF promueve la mitosis.",
+          "fr": "Synthèse de cycline → Dégradation du MPF → Formation du complexe cycline-Cdk → Le MPF promeut la mitose.",
+          "de": "Cyclin-Synthese → MPF-Abbau → Cyclin-Cdk-Komplexbildung → MPF fördert die Mitose.",
+          "ja": "サイクリン合成 → MPF分解 → サイクリン-Cdk複合体形成 → MPFが有糸分裂を促進。"
+        },
+        "feedback": {
+          "en": "MPF degradation occurs after MPF promotes mitosis, not before cyclin-Cdk complex formation.",
+          "zh": "MPF 降解发生在 MPF 促进有丝分裂之后，而不是在细胞周期蛋白-Cdk 复合物形成之前。",
+          "es": "La degradación de MPF ocurre después de que MPF promueve la mitosis, no antes de la formación del complejo ciclina-Cdk.",
+          "fr": "La dégradation du MPF se produit après que le MPF a favorisé la mitose, et non avant la formation du complexe cycline-Cdk.",
+          "de": "Der MPF-Abbau erfolgt nach der Förderung der Mitose durch MPF, nicht vor der Bildung des Cyclin-Cdk-Komplexes.",
+          "ja": "MPF分解はMPFが有糸分裂を促進した後に起こり、サイクリン-Cdk複合体形成前ではない。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Cyclin-Cdk complex formation → Cyclin accumulation → MPF promotes mitosis → MPF degradation.",
+          "zh": "细胞周期蛋白-Cdk 复合物形成 → 细胞周期蛋白积累 → MPF 促进有丝分裂 → MPF 降解。",
+          "es": "Formación del complejo ciclina-Cdk → Acumulación de ciclina → MPF promueve la mitosis → Degradación de MPF.",
+          "fr": "Formation du complexe cycline-Cdk → Accumulation de cycline → Le MPF promeut la mitose → Dégradation du MPF.",
+          "de": "Cyclin-Cdk-Komplexbildung → Cyclin-Akkumulation → MPF fördert die Mitose → MPF-Abbau.",
+          "ja": "サイクリン-Cdk複合体形成 → サイクリン蓄積 → MPFが有糸分裂を促進 → MPF分解。"
+        },
+        "feedback": {
+          "en": "Cyclin accumulation (synthesis) happens *before* enough cyclin-Cdk complexes (MPF) accumulate to pass G2.",
+          "zh": "细胞周期蛋白积累（合成）发生在足够多的细胞周期蛋白-Cdk 复合物（MPF）积累以通过 G₂ 期之前。",
+          "es": "La acumulación de ciclina (síntesis) ocurre *antes* de que suficientes complejos ciclina-Cdk (MPF) se acumulen para pasar G₂.",
+          "fr": "L'accumulation de cycline (synthèse) se produit *avant* qu'assez de complexes cycline-Cdk (MPF) ne s'accumulent pour passer la phase G₂.",
+          "de": "Cyclin-Akkumulation (Synthese) findet *vor* der Ansammlung genügender Cyclin-Cdk-Komplexe (MPF) statt, um G₂ zu passieren.",
+          "ja": "サイクリンの蓄積（合成）は、G₂期を通過するのに十分なサイクリン-Cdk複合体（MPF）が蓄積する「前」に起こる。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cyclin accumulation → Cyclin combines with Cdk to form MPF → MPF activity peaks and promotes mitosis → Cyclin degradation and Cdk recycling.",
+          "zh": "细胞周期蛋白积累 → 细胞周期蛋白与 Cdk 结合形成 MPF → MPF 活性达到峰值并促进有丝分裂 → 细胞周期蛋白降解和 Cdk 回收。",
+          "es": "Acumulación de ciclina → La ciclina se combina con Cdk para formar MPF → La actividad de MPF alcanza su punto máximo y promueve la mitosis → Degradación de ciclina y reciclaje de Cdk.",
+          "fr": "Accumulation de cycline → La cycline se combine avec le Cdk pour former le MPF → L'activité du MPF atteint son pic et promeut la mitose → Dégradation de la cycline et recyclage du Cdk.",
+          "de": "Cyclin-Akkumulation → Cyclin kombiniert sich mit Cdk zur Bildung von MPF → MPF-Aktivität erreicht ihren Höhepunkt und fördert die Mitose → Cyclin-Abbau und Cdk-Recycling.",
+          "ja": "サイクリン蓄積 → サイクリンがCdkと結合してMPFを形成 → MPF活性がピークに達し有糸分裂を促進 → サイクリン分解とCdkのリサイクル。"
+        },
+        "feedback": {
+          "en": "This sequence accurately reflects the numbered steps in Figure 12.16b: 1 (accumulation), 2 (combines/MPF formed), 3 (MPF promotes mitosis/peaks), 4 & 5 (cyclin degradation/Cdk recycled).",
+          "zh": "该序列准确反映了图 12.16b 中的编号步骤：1（积累）、2（结合/MPF 形成）、3（MPF 促进有丝分裂/达到峰值）、4 和 5（细胞周期蛋白降解/Cdk 回收）。",
+          "es": "Esta secuencia refleja con precisión los pasos numerados en la Figura 12.16b: 1 (acumulación), 2 (combinación/formación de MPF), 3 (MPF promueve la mitosis/picos), 4 y 5 (degradación de ciclina/reciclaje de Cdk).",
+          "fr": "Cette séquence reflète fidèlement les étapes numérotées de la Figure 12.16b : 1 (accumulation), 2 (combinaison/formation du MPF), 3 (le MPF promeut la mitose/atteint son pic), 4 et 5 (dégradation de la cycline/recyclage du Cdk).",
+          "de": "Diese Sequenz spiegelt die nummerierten Schritte in Abbildung 12.16b genau wider: 1 (Akkumulation), 2 (Kombination/MPF-Bildung), 3 (MPF fördert die Mitose/Höhepunkt), 4 & 5 (Cyclin-Abbau/Cdk-Recycling).",
+          "ja": "このシーケンスは、図 12.16b の番号付きステップを正確に反映している：1（蓄積）、2（結合/MPF形成）、3（MPFが有糸分裂を促進/ピークに達する）、4 & 5（サイクリン分解/Cdkリサイクル）。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "MPF promotes mitosis → Cyclin degradation → Cyclin synthesis → Cyclin-Cdk complex formation.",
+          "zh": "MPF 促进有丝分裂 → 细胞周期蛋白降解 → 细胞周期蛋白合成 → 细胞周期蛋白-Cdk 复合物形成。",
+          "es": "MPF promueve la mitosis → Degradación de ciclina → Síntesis de ciclina → Formación del complejo ciclina-Cdk.",
+          "fr": "Le MPF promeut la mitose → Dégradation de la cycline → Synthèse de la cycline → Formation du complexe cycline-Cdk.",
+          "de": "MPF fördert die Mitose → Cyclin-Abbau → Cyclin-Synthese → Cyclin-Cdk-Komplexbildung.",
+          "ja": "MPFが有糸分裂を促進 → サイクリン分解 → サイクリン合成 → サイクリン-Cdk複合体形成。"
+        },
+        "feedback": {
+          "en": "This order is largely reversed from the actual cycle, starting with mitosis promotion and then going back to synthesis.",
+          "zh": "这个顺序与实际周期大体相反，它从有丝分裂促进开始，然后又回到合成。",
+          "es": "Este orden está en gran parte invertido con respecto al ciclo real, comenzando con la promoción de la mitosis y luego volviendo a la síntesis.",
+          "fr": "Cet ordre est largement inversé par rapport au cycle réel, commençant par la promotion de la mitose puis revenant à la synthèse.",
+          "de": "Diese Reihenfolge ist größtenteils umgekehrt zum tatsächlichen Zyklus, beginnend mit der Mitoseförderung und dann zurück zur Synthese.",
+          "ja": "この順序は実際のサイクルとは大きく逆転しており、有糸分裂の促進から始まり、その後合成に戻っている。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 12.16b outlines the cyclical regulation of the cell cycle by MPF. The correct sequence starts with cyclin accumulation (step 1), followed by its combination with Cdk to form MPF (step 2). MPF then promotes mitosis, peaking in activity (step 3). Finally, cyclin is degraded, and Cdk is recycled (steps 4 and 5), preparing the cell for the next cycle.",
+      "zh": "图 12.16b 概述了 MPF 对细胞周期的周期性调控。正确的顺序始于细胞周期蛋白的积累（步骤 1），随后其与 Cdk 结合形成 MPF（步骤 2）。MPF 接着促进有丝分裂，活性达到峰值（步骤 3）。最后，细胞周期蛋白被降解，Cdk 被回收（步骤 4 和 5），为细胞进入下一个周期做准备。",
+      "es": "La Figura 12.16b describe la regulación cíclica del ciclo celular por MPF. La secuencia correcta comienza con la acumulación de ciclina (paso 1), seguida de su combinación con Cdk para formar MPF (paso 2). Luego, MPF promueve la mitosis, alcanzando su máxima actividad (paso 3). Finalmente, la ciclina se degrada y Cdk se recicla (pasos 4 y 5), preparando la célula para el siguiente ciclo.",
+      "fr": "La Figure 12.16b décrit la régulation cyclique du cycle cellulaire par le MPF. La séquence correcte commence par l'accumulation de cycline (étape 1), suivie de sa combinaison avec le Cdk pour former le MPF (étape 2). Le MPF promeut ensuite la mitose, atteignant son pic d'activité (étape 3). Enfin, la cycline est dégradée et le Cdk est recyclé (étapes 4 et 5), préparant la cellule pour le cycle suivant.",
+      "de": "Abbildung 12.16b skizziert die zyklische Regulation des Zellzyklus durch MPF. Die korrekte Reihenfolge beginnt mit der Cyclin-Akkumulation (Schritt 1), gefolgt von seiner Kombination mit Cdk zur Bildung von MPF (Schritt 2). MPF fördert dann die Mitose und erreicht dabei seinen Aktivitätshöhepunkt (Schritt 3). Schließlich wird Cyclin abgebaut und Cdk recycelt (Schritte 4 und 5), wodurch die Zelle auf den nächsten Zyklus vorbereitet wird.",
+      "ja": "図 12.16b は、MPFによる細胞周期の周期的調節の概要を示している。正しいシーケンスは、サイクリンの蓄積（ステップ1）から始まり、Cdkと結合してMPFを形成する（ステップ2）。その後、MPFは有糸分裂を促進し、活性がピークに達する（ステップ3）。最後に、サイクリンは分解され、Cdkはリサイクルされ（ステップ4と5）、細胞は次のサイクルに備える。"
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 1039,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on Figure 44.14 and its accompanying text, if the drug furosemide blocks Na+ and Cl- cotransporters in the ascending limb of the loop of Henle, what would be the expected effect on urine volume?",
+      "zh": "根据图44.14及其附带的文字，如果药物呋塞米（furosemide）阻断亨利氏袢升支中的Na+和Cl-协同转运蛋白，预计对尿液量会产生什么影响？",
+      "es": "Según la Figura 44.14 y su texto adjunto, si el fármaco furosemida bloquea los cotransportadores de Na+ y Cl- en la rama ascendente del asa de Henle, ¿qué efecto se esperaría en el volumen de orina?",
+      "fr": "D'après la Figure 44.14 et le texte qui l'accompagne, si le médicament furosémide bloque les cotransporteurs de Na+ et Cl- dans la branche ascendante de l'anse de Henle, quel effet serait attendu sur le volume d'urine ?",
+      "de": "Basierend auf Abbildung 44.14 und dem begleitenden Text: Wenn das Medikament Furosemid die Na+- und Cl--Cotransporter im aufsteigenden Schenkel der Henle-Schleife blockiert, welcher Effekt wäre auf das Urinvolumen zu erwarten?",
+      "ja": "図44.14とその付随するテキストに基づくと、薬物フロセミドがヘンレのループの上行脚にあるNa+およびCl-共輸送体をブロックした場合、尿量にどのような影響が予想されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Urine volume would decrease significantly.",
+          "zh": "尿液量将显著减少。",
+          "es": "El volumen de orina disminuiría significativamente.",
+          "fr": "Le volume d'urine diminuerait significativement.",
+          "de": "Das Urinvolumen würde signifikant abnehmen.",
+          "ja": "尿量は著しく減少する。"
+        },
+        "feedback": {
+          "en": "Blocking ion reabsorption weakens the osmotic gradient, leading to less water reabsorption and thus an increase, not decrease, in urine volume.",
+          "zh": "阻断离子重吸收会削弱渗透梯度，导致水分重吸收减少，从而使尿液量增加而非减少。",
+          "es": "El bloqueo de la reabsorción de iones debilita el gradiente osmótico, lo que lleva a una menor reabsorción de agua y, por lo tanto, a un aumento, no a una disminución, del volumen de orina.",
+          "fr": "Le blocage de la réabsorption ionique affaiblit le gradient osmotique, entraînant une réabsorption d'eau moindre et donc une augmentation, et non une diminution, du volume d'urine.",
+          "de": "Das Blockieren der Ionenresorption schwächt den osmotischen Gradienten, was zu einer geringeren Wasserresorption und somit zu einem Anstieg, nicht zu einer Abnahme, des Urinvolumens führt.",
+          "ja": "イオン再吸収をブロックすると、浸透圧勾配が弱まり、水分の再吸収が減少するため、尿量は減少するのではなく増加します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Urine volume would increase significantly.",
+          "zh": "尿液量将显著增加。",
+          "es": "El volumen de orina aumentaría significativamente.",
+          "fr": "Le volume d'urine augmenterait significativement.",
+          "de": "Das Urinvolumen würde signifikant zunehmen.",
+          "ja": "尿量は著しく増加する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Urine volume would remain unchanged.",
+          "zh": "尿液量将保持不变。",
+          "es": "El volumen de orina permanecería sin cambios.",
+          "fr": "Le volume d'urine resterait inchangé.",
+          "de": "Das Urinvolumen würde unverändert bleiben.",
+          "ja": "尿量は変化しない。"
+        },
+        "feedback": {
+          "en": "Blocking a key reabsorption mechanism will certainly affect urine volume.",
+          "zh": "阻断关键的重吸收机制一定会影响尿液量。",
+          "es": "Bloquear un mecanismo clave de reabsorción sin duda afectará el volumen de orina.",
+          "fr": "Le blocage d'un mécanisme de réabsorption clé affectera certainement le volume d'urine.",
+          "de": "Das Blockieren eines wichtigen Resorptionsmechanismus wird das Urinvolumen mit Sicherheit beeinflussen.",
+          "ja": "主要な再吸収メカニズムをブロックすると、尿量に確実に影響が出ます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Urine volume would initially decrease then increase.",
+          "zh": "尿液量将先减少后增加。",
+          "es": "El volumen de orina disminuiría inicialmente y luego aumentaría.",
+          "fr": "Le volume d'urine diminuerait initialement puis augmenterait.",
+          "de": "Das Urinvolumen würde zunächst abnehmen und dann zunehmen.",
+          "ja": "尿量は最初に減少し、その後増加する。"
+        },
+        "feedback": {
+          "en": "The effect is a continuous increase due to the sustained impairment of the osmotic gradient.",
+          "zh": "由于渗透梯度持续受损，效果是持续增加。",
+          "es": "El efecto es un aumento continuo debido al deterioro sostenido del gradiente osmótico.",
+          "fr": "L'effet est une augmentation continue due à l'altération persistante du gradient osmotique.",
+          "de": "Der Effekt ist ein kontinuierlicher Anstieg aufgrund der anhaltenden Beeinträchtigung des osmotischen Gradienten.",
+          "ja": "浸透圧勾配の持続的な障害により、効果は継続的に増加します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The ascending limb of the loop of Henle is responsible for actively transporting NaCl out of the filtrate, which is crucial for maintaining the high osmolarity of the interstitial fluid in the renal medulla. This high osmolarity drives water reabsorption from the descending limb and the collecting duct by osmosis. If furosemide blocks the Na+ and Cl- cotransporters, NaCl reabsorption will be impaired. This will reduce the medullary osmotic gradient. As a result, less water will be reabsorbed from the filtrate in the descending limb and the collecting duct, leading to a significantly increased volume of more dilute urine.",
+      "zh": "亨利氏袢升支负责将NaCl主动转运出滤液，这对于维持肾髓质间质液的高渗透压至关重要。这种高渗透压通过渗透作用驱动亨利氏袢降支和集合管中的水分重吸收。如果呋塞米阻断Na+和Cl-协同转运蛋白，NaCl的重吸收将受损，从而降低髓质的渗透梯度。结果，亨利氏袢降支和集合管中重吸收的水分会减少，导致尿液量显著增加，且尿液更稀。",
+      "es": "La rama ascendente del asa de Henle es responsable del transporte activo de NaCl fuera del filtrado, lo cual es crucial para mantener la alta osmolaridad del líquido intersticial en la médula renal. Esta alta osmolaridad impulsa la reabsorción de agua de la rama descendente y del conducto colector por ósmosis. Si la furosemida bloquea los cotransportadores de Na+ y Cl-, la reabsorción de NaCl se verá afectada. Esto reducirá el gradiente osmótico medular. Como resultado, se reabsorberá menos agua del filtrado en la rama descendente y el conducto colector, lo que conducirá a un volumen significativamente mayor de orina más diluida.",
+      "fr": "La branche ascendante de l'anse de Henle est responsable du transport actif de NaCl hors du filtrat, ce qui est crucial pour maintenir l'osmolarité élevée du liquide interstitiel dans la médulla rénale. Cette osmolarité élevée entraîne la réabsorption d'eau de la branche descendante et du tube collecteur par osmose. Si le furosémide bloque les cotransporteurs de Na+ et Cl-, la réabsorption de NaCl sera altérée. Cela réduira le gradient osmotique médullaire. En conséquence, moins d'eau sera réabsorbée du filtrat dans la branche descendante et le tube collecteur, ce qui entraînera un volume d'urine significativement accru et plus dilué.",
+      "de": "Der aufsteigende Schenkel der Henle-Schleife ist für den aktiven Transport von NaCl aus dem Filtrat verantwortlich, was für die Aufrechterhaltung der hohen Osmolarität der interstitiellen Flüssigkeit im Nierenmark entscheidend ist. Diese hohe Osmolarität treibt die Wasserresorption aus dem absteigenden Schenkel und dem Sammelrohr durch Osmose an. Wenn Furosemid die Na+- und Cl--Cotransporter blockiert, wird die NaCl-Resorption beeinträchtigt. Dies wird den osmotischen Gradienten im Mark reduzieren. Infolgedessen wird weniger Wasser aus dem Filtrat im absteigenden Schenkel und im Sammelrohr resorbiert, was zu einem signifikant erhöhten Volumen an verdünnterem Urin führt.",
+      "ja": "ヘンレのループ上行脚は、NaClを能動的に濾液から輸送する役割を担っており、これは腎髄質の浸透圧の高い間質液を維持するために不可欠です。この高い浸透圧は、ヘンレのループ下行脚と集合管からの水分の再吸収を浸透によって促進します。フロセミドがNa+およびCl-共輸送体をブロックすると、NaClの再吸収が阻害されます。これにより髄質の浸透圧勾配が低下します。結果として、下行脚および集合管からの濾液中の水分の再吸収が減少し、尿量が著しく増加し、より希薄な尿が生成されます。"
+    }
+  },
+  {
+    "page_number": 1039,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 44.14 and its key, which statement correctly identifies a transport mechanism in the renal tubules?",
+      "zh": "根据图44.14及其图例，以下哪项陈述正确识别了肾小管中的一种转运机制？",
+      "es": "Según la Figura 44.14 y su clave, ¿qué afirmación identifica correctamente un mecanismo de transporte en los túbulos renales?",
+      "fr": "Selon la Figure 44.14 et sa légende, quelle affirmation identifie correctement un mécanisme de transport dans les tubules rénaux ?",
+      "de": "Basierend auf Abbildung 44.14 und ihrer Legende, welche Aussage identifiziert korrekt einen Transportmechanismus in den Nierentubuli?",
+      "ja": "図44.14とその凡例に基づいて、腎細管における輸送メカニズムを正しく特定している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "In the descending limb of the Loop of Henle, H₂O moves out of the tubule via active transport.",
+          "zh": "在亨利氏袢降支中，H₂O通过主动转运移出肾小管。",
+          "es": "En la rama descendente del asa de Henle, el H₂O sale del túbulo mediante transporte activo.",
+          "fr": "Dans la branche descendante de l'anse de Henle, l'H₂O sort du tubule par transport actif.",
+          "de": "Im absteigenden Schenkel der Henle-Schleife bewegt sich H₂O mittels aktivem Transport aus dem Tubulus.",
+          "ja": "ヘンレのループ下行脚では、H₂Oが能動輸送によって尿細管から移動します。"
+        },
+        "feedback": {
+          "en": "The figure shows a purple arrow for H₂O exit in the descending limb, indicating passive transport (osmosis).",
+          "zh": "图中显示亨利氏袢降支中H₂O流出是紫色箭头，表明是被动转运（渗透）。",
+          "es": "La figura muestra una flecha morada para la salida de H₂O en la rama descendente, lo que indica transporte pasivo (ósmosis).",
+          "fr": "La figure montre une flèche violette pour la sortie de H₂O dans la branche descendante, indiquant un transport passif (osmose).",
+          "de": "Die Abbildung zeigt einen violetten Pfeil für den H₂O-Austritt im absteigenden Schenkel, was auf passiven Transport (Osmose) hinweist.",
+          "ja": "図では、下行脚でのH₂Oの流出に紫色の矢印が示されており、受動輸送（浸透）であることを示しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "NaCl is only actively transported out of the ascending limb of the Loop of Henle.",
+          "zh": "NaCl仅通过主动转运移出亨利氏袢升支。",
+          "es": "El NaCl es transportado activamente solo fuera de la rama ascendente del asa de Henle.",
+          "fr": "Le NaCl n'est transporté activement que hors de la branche ascendante de l'anse de Henle.",
+          "de": "NaCl wird nur aktiv aus dem aufsteigenden Schenkel der Henle-Schleife transportiert.",
+          "ja": "NaClはヘンレのループ上行脚から能動輸送のみで排出されます。"
+        },
+        "feedback": {
+          "en": "The figure shows both red (active) and purple (passive) arrows for NaCl exit from the ascending limb, indicating both active and passive transport.",
+          "zh": "图中显示亨利氏袢升支中NaCl流出有红色（主动）和紫色（被动）箭头，表明既有主动转运也有被动转运。",
+          "es": "La figura muestra flechas tanto rojas (activas) como moradas (pasivas) para la salida de NaCl de la rama ascendente, indicando tanto transporte activo como pasivo.",
+          "fr": "La figure montre des flèches rouges (actives) et violettes (passives) pour la sortie de NaCl de la branche ascendante, indiquant un transport à la fois actif et passif.",
+          "de": "Die Abbildung zeigt sowohl rote (aktive) als auch violette (passive) Pfeile für den NaCl-Austritt aus dem aufsteigenden Schenkel, was auf aktiven und passiven Transport hinweist.",
+          "ja": "図では、ヘンレのループ上行脚からのNaCl排出に、赤色（能動）と紫色（受動）の両方の矢印が示されており、能動輸送と受動輸送の両方があることを示しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Urea exits the collecting duct into the inner medulla interstitial fluid through passive transport.",
+          "zh": "尿素通过被动转运从集合管进入内髓质间质液。",
+          "es": "La urea sale del conducto colector hacia el líquido intersticial de la médula interna mediante transporte pasivo.",
+          "fr": "L'urée sort du tube collecteur vers le liquide interstitiel de la médulla interne par transport passif.",
+          "de": "Harnstoff tritt passiv aus dem Sammelrohr in die interstitielle Flüssigkeit des inneren Marks über.",
+          "ja": "尿素は受動輸送によって集合管から内髄質間質液へ排出されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Water reabsorption in the collecting duct primarily occurs against an osmolarity gradient.",
+          "zh": "集合管中的水分重吸收主要发生于逆渗透梯度方向。",
+          "es": "La reabsorción de agua en el conducto colector ocurre principalmente contra un gradiente de osmolaridad.",
+          "fr": "La réabsorption d'eau dans le tube collecteur se produit principalement contre un gradient d'osmolarité.",
+          "de": "Die Wasserresorption im Sammelrohr erfolgt hauptsächlich gegen einen Osmolaritätsgradienten.",
+          "ja": "集合管における水分の再吸収は、主に浸透圧勾配に逆らって起こります。"
+        },
+        "feedback": {
+          "en": "Water reabsorption by osmosis always occurs down the osmolarity gradient, from lower solute concentration to higher solute concentration.",
+          "zh": "水分通过渗透作用重吸收总是沿着渗透梯度方向发生，即从较低溶质浓度流向较高溶质浓度。",
+          "es": "La reabsorción de agua por ósmosis siempre ocurre a favor del gradiente de osmolaridad, desde una menor concentración de solutos a una mayor concentración de solutos.",
+          "fr": "La réabsorption d'eau par osmose se produit toujours selon le gradient d'osmolarité, d'une concentration de solutés plus faible vers une concentration plus élevée.",
+          "de": "Wasserresorption durch Osmose erfolgt immer entlang des Osmolaritätsgradienten, von niedrigerer zu höherer Solutkonzentration.",
+          "ja": "浸透による水分の再吸収は常に浸透圧勾配に従って、溶質濃度の低い方から高い方へ起こります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The key in Figure 44.14 indicates that purple arrows represent passive transport. In the inner medulla, a purple arrow indicates urea moving from the collecting duct into the interstitial fluid, signifying passive diffusion of urea. The text also states, 'Urea diffuses into the interstitial fluid of the medulla from the collecting duct.'",
+      "zh": "图44.14中的图例表明紫色箭头代表被动转运。在内髓质中，一个紫色箭头表示尿素从集合管进入间质液，这表明尿素的被动扩散。文本也指出，“尿素从集合管扩散到髓质的间质液中。”",
+      "es": "La clave en la Figura 44.14 indica que las flechas moradas representan el transporte pasivo. En la médula interna, una flecha morada indica que la urea se mueve del conducto colector al líquido intersticial, lo que significa difusión pasiva de urea. El texto también afirma: 'La urea difunde hacia el líquido intersticial de la médula desde el conducto colector.'",
+      "fr": "La légende de la Figure 44.14 indique que les flèches violettes représentent le transport passif. Dans la médulla interne, une flèche violette indique que l'urée se déplace du tube collecteur vers le liquide interstitiel, ce qui signifie une diffusion passive de l'urée. Le texte indique également: 'L'urée diffuse dans le liquide interstitiel de la médulla depuis le tube collecteur.'",
+      "de": "Die Legende in Abbildung 44.14 zeigt an, dass violette Pfeile passiven Transport darstellen. Im inneren Mark zeigt ein violetter Pfeil an, dass Harnstoff aus dem Sammelrohr in die interstitielle Flüssigkeit gelangt, was eine passive Diffusion von Harnstoff bedeutet. Der Text besagt auch: 'Harnstoff diffundiert aus dem Sammelrohr in die interstitielle Flüssigkeit des Marks.'",
+      "ja": "図44.14の凡例は、紫色の矢印が受動輸送を表していることを示しています。内髄質では、紫色の矢印が尿素が集合管から間質液へ移動することを示しており、これは尿素の受動拡散を意味します。テキストにも「尿素は集合管から髄質の間質液に拡散する」と記載されています。"
+    }
+  },
+  {
+    "page_number": 1039,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text describes the loop of Henle as a 'countercurrent multiplier system.' How does this system fundamentally differ from the countercurrent heat exchanger in endotherms or gas exchange in fish gills, as mentioned in the passage?",
+      "zh": "文章将亨利氏袢描述为“逆流倍增系统”。根据文中提及，这个系统与恒温动物的逆流热交换器或鱼鳃的气体交换有何根本区别？",
+      "es": "El texto describe el asa de Henle como un 'sistema multiplicador de contracorriente'. ¿Cómo difiere fundamentalmente este sistema de los intercambiadores de calor a contracorriente en endotermos o el intercambio de gases en las branquias de los peces, según se menciona en el pasaje?",
+      "fr": "Le texte décrit l'anse de Henle comme un 'système multiplicateur à contre-courant'. En quoi ce système diffère-t-il fondamentalement de l'échangeur de chaleur à contre-courant chez les endothermes ou de l'échange gazeux dans les branchies de poisson, tels que mentionnés dans le passage ?",
+      "de": "Der Text beschreibt die Henle-Schleife als 'Gegenstromverstärkersystem'. Wie unterscheidet sich dieses System grundlegend von dem im Text erwähnten Gegenstrom-Wärmetauscher bei Endothermen oder dem Gasaustausch in Fischkiemen?",
+      "ja": "テキストではヘンレのループが「向流増幅システム」と記述されています。本文中で言及されている内温動物の向流熱交換器や魚のエラのガス交換と、このシステムはどのように根本的に異なりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The loop of Henle system primarily relies on maintaining a heat gradient, while others rely on solute gradients.",
+          "zh": "亨利氏袢系统主要依赖于维持热梯度，而其他系统依赖溶质梯度。",
+          "es": "El sistema del asa de Henle se basa principalmente en mantener un gradiente de calor, mientras que otros se basan en gradientes de solutos.",
+          "fr": "Le système de l'anse de Henle repose principalement sur le maintien d'un gradient de chaleur, tandis que les autres reposent sur des gradients de solutés.",
+          "de": "Das Henle-Schleifen-System basiert hauptsächlich auf der Aufrechterhaltung eines Wärmegefälles, während andere auf Solutgradienten basieren.",
+          "ja": "ヘンレのループシステムは主に熱勾配の維持に依存し、他のシステムは溶質勾配に依存します。"
+        },
+        "feedback": {
+          "en": "The loop of Henle system relies on an osmotic (solute) gradient, not a heat gradient.",
+          "zh": "亨利氏袢系统依赖于渗透（溶质）梯度，而非热梯度。",
+          "es": "El sistema del asa de Henle se basa en un gradiente osmótico (de solutos), no en un gradiente de calor.",
+          "fr": "Le système de l'anse de Henle repose sur un gradient osmotique (de solutés), et non sur un gradient de chaleur.",
+          "de": "Das Henle-Schleifen-System basiert auf einem osmotischen (Solut-)Gradienten, nicht auf einem Wärmegefälle.",
+          "ja": "ヘンレのループシステムは熱勾配ではなく浸透圧（溶質）勾配に依存しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Unlike the other examples, the loop of Henle system requires active transport and energy expenditure to create its concentration gradient.",
+          "zh": "与其他例子不同，亨利氏袢系统需要主动转运和能量消耗来建立其浓度梯度。",
+          "es": "A diferencia de los otros ejemplos, el sistema del asa de Henle requiere transporte activo y gasto de energía para crear su gradiente de concentración.",
+          "fr": "Contrairement aux autres exemples, le système de l'anse de Henle nécessite un transport actif et une dépense d'énergie pour créer son gradient de concentration.",
+          "de": "Im Gegensatz zu den anderen Beispielen erfordert das Henle-Schleifen-System aktiven Transport und Energieverbrauch, um seinen Konzentrationsgradienten zu erzeugen.",
+          "ja": "他の例とは異なり、ヘンレのループシステムは濃度勾配を形成するために能動輸送とエネルギー消費を必要とします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The loop of Henle system involves only passive diffusion, whereas the others involve active processes.",
+          "zh": "亨利氏袢系统仅涉及被动扩散，而其他系统涉及主动过程。",
+          "es": "El sistema del asa de Henle implica solo difusión pasiva, mientras que los otros implican procesos activos.",
+          "fr": "Le système de l'anse de Henle n'implique que la diffusion passive, tandis que les autres impliquent des processus actifs.",
+          "de": "Das Henle-Schleifen-System beinhaltet nur passive Diffusion, während die anderen aktive Prozesse beinhalten.",
+          "ja": "ヘンレのループシステムは受動拡散のみを含み、他のシステムは能動プロセスを含みます。"
+        },
+        "feedback": {
+          "en": "The text explicitly states the loop of Henle system involves active transport, making this statement incorrect.",
+          "zh": "文本明确指出亨利氏袢系统涉及主动转运，因此此陈述不正确。",
+          "es": "El texto establece explícitamente que el sistema del asa de Henle implica transporte activo, lo que hace que esta afirmación sea incorrecta.",
+          "fr": "Le texte indique explicitement que le système de l'anse de Henle implique un transport actif, ce qui rend cette affirmation incorrecte.",
+          "de": "Der Text besagt explizit, dass das Henle-Schleifen-System aktiven Transport beinhaltet, was diese Aussage falsch macht.",
+          "ja": "テキストではヘンレのループシステムが能動輸送を含むと明記されており、この記述は誤りです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The other systems reduce loss or maximize gain, while the loop of Henle system only functions to increase solute concentration.",
+          "zh": "其他系统减少损失或最大化收益，而亨利氏袢系统仅起到增加溶质浓度的作用。",
+          "es": "Los otros sistemas reducen la pérdida o maximizan la ganancia, mientras que el sistema del asa de Henle solo funciona para aumentar la concentración de solutos.",
+          "fr": "Les autres systèmes réduisent les pertes ou maximisent les gains, tandis que le système de l'anse de Henle ne fonctionne que pour augmenter la concentration de solutés.",
+          "de": "Die anderen Systeme reduzieren Verluste oder maximieren Gewinne, während das Henle-Schleifen-System nur die Solutkonzentration erhöht.",
+          "ja": "他のシステムは損失を減らしたり、獲得を最大化したりしますが、ヘンレのループシステムは溶質濃度を増加させる機能しかありません。"
+        },
+        "feedback": {
+          "en": "The loop of Henle system's primary function is to create a gradient for water reabsorption, thus concentrating urine and maximizing water retention, not just increasing solute concentration within the tubule.",
+          "zh": "亨利氏袢系统的主要功能是为水分重吸收创造梯度，从而浓缩尿液并最大限度地保留水分，而不仅仅是增加小管内的溶质浓度。",
+          "es": "La función principal del sistema del asa de Henle es crear un gradiente para la reabsorción de agua, concentrando así la orina y maximizando la retención de agua, no solo aumentando la concentración de solutos dentro del túbulo.",
+          "fr": "La fonction principale du système de l'anse de Henle est de créer un gradient pour la réabsorption d'eau, concentrant ainsi l'urine et maximisant la rétention d'eau, et non pas seulement d'augmenter la concentration de solutés dans le tubule.",
+          "de": "Die Hauptfunktion des Henle-Schleifen-Systems besteht darin, einen Gradienten für die Wasserresorption zu erzeugen, wodurch Urin konzentriert und die Wasserretention maximiert wird, nicht nur die Erhöhung der Solutkonzentration innerhalb des Tubulus.",
+          "ja": "ヘンレのループシステムの主な機能は、水分の再吸収のための勾配を作成し、それによって尿を濃縮し、水分の保持を最大化することであり、尿細管内の溶質濃度を増加させるだけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'In contrast, the countercurrent system of the loop of Henle involves active transport and thus an expenditure of energy. The active transport of NaCl from the filtrate in the upper part of the ascending limb of the loop maintains a high salt concentration in the interior of the kidney, enabling the kidney to form concentrated urine. Such countercurrent systems, which expend energy to create concentration gradients, are called countercurrent multiplier systems.' This clearly distinguishes it from other countercurrent systems mentioned (heat exchangers, gas exchange in gills) which primarily involve passive movement along gradients.",
+      "zh": "文本明确指出：“相比之下，亨利氏袢的逆流系统涉及主动转运，因此需要消耗能量。NaCl从亨利氏袢升支上部滤液中的主动转运维持了肾脏内部的高盐浓度，使肾脏能够形成浓缩尿。这种消耗能量以建立浓度梯度的逆流系统被称为逆流倍增系统。”这明确将其与文章中提及的其他逆流系统（热交换器、鳃中的气体交换）区分开来，后者主要涉及沿着梯度的被动运动。",
+      "es": "El texto afirma explícitamente: 'En contraste, el sistema de contracorriente del asa de Henle implica transporte activo y, por lo tanto, un gasto de energía. El transporte activo de NaCl del filtrado en la parte superior de la rama ascendente del asa mantiene una alta concentración de sal en el interior del riñón, lo que permite que el riñón forme orina concentrada. Dichos sistemas de contracorriente, que gastan energía para crear gradientes de concentración, se denominan sistemas multiplicadores de contracorriente.' Esto lo distingue claramente de otros sistemas de contracorriente mencionados (intercambiadores de calor, intercambio de gases en branquias) que implican principalmente movimiento pasivo a lo largo de los gradientes.",
+      "fr": "Le texte indique explicitement : 'En contraste, le système à contre-courant de l'anse de Henle implique un transport actif et donc une dépense d'énergie. Le transport actif de NaCl du filtrat dans la partie supérieure de la branche ascendante de l'anse maintient une forte concentration de sel à l'intérieur du rein, permettant au rein de former de l'urine concentrée. De tels systèmes à contre-courant, qui dépensent de l'énergie pour créer des gradients de concentration, sont appelés systèmes multiplicateurs à contre-courant.' Cela le distingue clairement des autres systèmes à contre-courant mentionnés (échangeurs de chaleur, échange gazeux dans les branchies) qui impliquent principalement un mouvement passif le long des gradients.",
+      "de": "Der Text besagt explizit: 'Im Gegensatz dazu beinhaltet das Gegenstromsystem der Henle-Schleife aktiven Transport und somit einen Energieaufwand. Der aktive Transport von NaCl aus dem Filtrat im oberen Teil des aufsteigenden Schenkels der Schleife erhält eine hohe Salzkonzentration im Niereninneren aufrecht, wodurch die Niere konzentrierten Urin bilden kann. Solche Gegenstromsysteme, die Energie aufwenden, um Konzentrationsgradienten zu erzeugen, werden Gegenstromverstärkersysteme genannt.' Dies unterscheidet es deutlich von anderen erwähnten Gegenstromsystemen (Wärmetauscher, Gasaustausch in Kiemen), die hauptsächlich passive Bewegung entlang von Gradienten beinhalten.",
+      "ja": "テキストには明確に「対照的に、ヘンレのループの向流システムは能動輸送を伴い、したがってエネルギーを消費します。ループ上行脚の上部からの濾液中のNaClの能動輸送は、腎臓内部の高い塩濃度を維持し、腎臓が濃縮尿を形成することを可能にします。濃度勾配を作成するためにエネルギーを消費するこのような向流システムは、向流増幅システムと呼ばれます。」と記載されています。これにより、テキストで言及されている他の向流システム（熱交換器、鰓のガス交換）が主に勾配に沿った受動的な動きを伴うのとは明確に区別されます。"
+    }
+  }
+]

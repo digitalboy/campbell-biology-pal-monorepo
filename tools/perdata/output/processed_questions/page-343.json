@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the fundamental relationship between genes and chromosomes as depicted in the central diagram of the page?",
+      "zh": "根据页面中心图示，基因和染色体之间的基本关系是什么？",
+      "es": "Según el diagrama central de la página, ¿cuál es la relación fundamental entre los genes y los cromosomas?",
+      "fr": "Selon le schéma central de la page, quelle est la relation fondamentale entre les gènes et les chromosomes ?",
+      "de": "Was ist die grundlegende Beziehung zwischen Genen und Chromosomen, wie sie im zentralen Diagramm der Seite dargestellt ist?",
+      "ja": "ページの центральный диаграмма に示されているように、遺伝子と染色体の基本的な関係は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Genes are made of chromosomes.",
+          "zh": "基因是由染色体组成的。",
+          "es": "Los genes están hechos de cromosomas.",
+          "fr": "Les gènes sont constitués de chromosomes.",
+          "de": "Gene bestehen aus Chromosomen.",
+          "ja": "遺伝子は染色体からできています。"
+        },
+        "feedback": {
+          "en": "This is incorrect. Chromosomes are larger structures made of DNA and proteins, and genes are segments of that DNA.",
+          "zh": "这是不正确的。染色体是由 DNA 和蛋白质组成的更大结构，而基因是 DNA 的片段。",
+          "es": "Esto es incorrecto. Los cromosomas son estructuras más grandes hechas de ADN y proteínas, y los genes son segmentos de ese ADN.",
+          "fr": "C'est incorrect. Les chromosomes sont des structures plus grandes composées d'ADN et de protéines, et les gènes sont des segments de cet ADN.",
+          "de": "Das ist falsch. Chromosomen sind größere Strukturen aus DNA und Proteinen, und Gene sind Abschnitte dieser DNA.",
+          "ja": "これは正しくありません。染色体はDNAとタンパク質からなるより大きな構造であり、遺伝子はそのDNAの断片です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Genes are located on chromosomes.",
+          "zh": "基因位于染色体上。",
+          "es": "Los genes se encuentran en los cromosomas.",
+          "fr": "Les gènes sont situés sur les chromosomes.",
+          "de": "Gene befinden sich auf Chromosomen.",
+          "ja": "遺伝子は染色体上にあります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Each gene is a different chromosome.",
+          "zh": "每个基因都是一条不同的染色体。",
+          "es": "Cada gen es un cromosoma diferente.",
+          "fr": "Chaque gène est un chromosome différent.",
+          "de": "Jedes Gen ist ein anderes Chromosom.",
+          "ja": "各遺伝子は異なる染色体です。"
+        },
+        "feedback": {
+          "en": "A single chromosome contains hundreds or thousands of genes.",
+          "zh": "一条染色体包含成百上千个基因。",
+          "es": "Un solo cromosoma contiene cientos o miles de genes.",
+          "fr": "Un seul chromosome contient des centaines ou des milliers de gènes.",
+          "de": "Ein einzelnes Chromosom enthält Hunderte oder Tausende von Genen.",
+          "ja": "1本の染色体には数百から数千の遺伝子が含まれています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Chromosomes are alternative versions of genes.",
+          "zh": "染色体是基因的替代版本。",
+          "es": "Los cromosomas son versiones alternativas de los genes.",
+          "fr": "Les chromosomes sont des versions alternatives des gènes.",
+          "de": "Chromosomen sind alternative Versionen von Genen.",
+          "ja": "染色体は遺伝子の代替バージョンです。"
+        },
+        "feedback": {
+          "en": "This confuses chromosomes with alleles. Alleles are the alternative versions of a single gene.",
+          "zh": "这将染色体与等位基因混淆了。等位基因是单个基因的替代版本。",
+          "es": "Esto confunde los cromosomas con los alelos. Los alelos son las versiones alternativas de un solo gen.",
+          "fr": "Cela confond les chromosomes avec les allèles. Les allèles sont les versions alternatives d'un même gène.",
+          "de": "Dies verwechselt Chromosomen mit Allelen. Allele sind die alternativen Versionen eines einzelnen Gens.",
+          "ja": "これは染色体と対立遺伝子を混同しています。対立遺伝子は単一遺伝子の代替バージョンです。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The main point of the chapter introduction and the diagrams (especially Figure 15.1 showing a fluorescently tagged gene) is to establish that genes are segments of DNA located at specific positions (loci) along chromosomes.",
+      "zh": "本章介绍和图表（特别是显示荧光标记基因的图 15.1）的要点是确定基因是位于染色体上特定位置（基因座）的 DNA 片段。",
+      "es": "El punto principal de la introducción del capítulo y los diagramas (especialmente la Figura 15.1 que muestra un gen marcado con fluorescencia) es establecer que los genes son segmentos de ADN ubicados en posiciones específicas (loci) a lo largo de los cromosomas.",
+      "fr": "Le point principal de l'introduction du chapitre et des schémas (en particulier la figure 15.1 montrant un gène marqué par fluorescence) est d'établir que les gènes sont des segments d'ADN situés à des positions spécifiques (loci) le long des chromosomes.",
+      "de": "Der Hauptpunkt der Kapiteleinleitung und der Diagramme (insbesondere Abbildung 15.1, die ein fluoreszenzmarkiertes Gen zeigt) besteht darin, festzustellen, dass Gene DNA-Abschnitte sind, die sich an bestimmten Positionen (Loci) entlang von Chromosomen befinden.",
+      "ja": "この章の導入と図（特に蛍光標識された遺伝子を示す図15.1）の要点は、遺伝子が染色体上の特定の位置（遺伝子座）にあるDNAの断片であることを確立することです。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "During which phase of meiosis do homologous chromosomes and the alleles they carry segregate from each other?",
+      "zh": "在减数分裂的哪个阶段，同源染色体及其携带的等位基因会彼此分离？",
+      "es": "¿Durante qué fase de la meiosis se segregan los cromosomas homólogos y los alelos que portan?",
+      "fr": "Pendant quelle phase de la méiose les chromosomes homologues et les allèles qu'ils portent se séparent-ils ?",
+      "de": "In welcher Phase der Meiose trennen sich homologe Chromosomen und die von ihnen getragenen Allele voneinander?",
+      "ja": "減数分裂のどの段階で、相同染色体とそれらが運ぶ対立遺伝子は互いに分離しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Fertilization",
+          "zh": "受精",
+          "es": "Fertilización",
+          "fr": "Fécondation",
+          "de": "Befruchtung",
+          "ja": "受精"
+        },
+        "feedback": {
+          "en": "Fertilization is the fusion of gametes, which brings homologous chromosomes together, the opposite of segregation.",
+          "zh": "受精是配子的融合，它使同源染色体聚集在一起，与分离相反。",
+          "es": "La fertilización es la fusión de gametos, que une los cromosomas homólogos, lo opuesto a la segregación.",
+          "fr": "La fécondation est la fusion des gamètes, qui rassemble les chromosomes homologues, à l'opposé de la ségrégation.",
+          "de": "Die Befruchtung ist die Verschmelzung von Gameten, die homologe Chromosomen zusammenbringt, das Gegenteil von Segregation.",
+          "ja": "受精は配偶子の融合であり、相同染色体を一緒にするもので、分離とは逆です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Before cell division (interphase)",
+          "zh": "细胞分裂前（间期）",
+          "es": "Antes de la división celular (interfase)",
+          "fr": "Avant la division cellulaire (interphase)",
+          "de": "Vor der Zellteilung (Interphase)",
+          "ja": "細胞分裂前（間期）"
+        },
+        "feedback": {
+          "en": "During interphase, chromosomes duplicate, but they do not segregate.",
+          "zh": "在间期，染色体会复制，但它们不分离。",
+          "es": "Durante la interfase, los cromosomas se duplican, pero no se segregan.",
+          "fr": "Pendant l'interphase, les chromosomes se dupliquent, mais ils ne se séparent pas.",
+          "de": "Während der Interphase verdoppeln sich die Chromosomen, aber sie trennen sich nicht.",
+          "ja": "間期の間、染色体は複製されますが、分離はしません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Meiosis I",
+          "zh": "减数分裂 I",
+          "es": "Meiosis I",
+          "fr": "Méiose I",
+          "de": "Meiose I",
+          "ja": "減数分裂I"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Meiosis II",
+          "zh": "减数分裂 II",
+          "es": "Meiosis II",
+          "fr": "Méiose II",
+          "de": "Meiose II",
+          "ja": "減数分裂II"
+        },
+        "feedback": {
+          "en": "In Meiosis II, sister chromatids separate. The segregation of homologous chromosomes has already occurred in Meiosis I.",
+          "zh": "在减数分裂 II 中，姐妹染色单体分离。同源染色体的分离已经在减数分裂 I 中发生。",
+          "es": "En la Meiosis II, las cromátidas hermanas se separan. La segregación de los cromosomas homólogos ya ha ocurrido en la Meiosis I.",
+          "fr": "Lors de la méiose II, les chromatides sœurs se séparent. La ségrégation des chromosomes homologues a déjà eu lieu lors de la méiose I.",
+          "de": "In der Meiose II trennen sich die Schwesterchromatiden. Die Trennung der homologen Chromosomen ist bereits in der Meiose I erfolgt.",
+          "ja": "減数分裂IIでは、姉妹染色分体が分離します。相同染色体の分離は、すでに減数分裂Iで起こっています。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The diagram explicitly labels the separation of the homologous pair of chromosomes as occurring during Meiosis I. This event is the physical basis for Mendel's law of segregation, where the two alleles for a character separate into different gametes.",
+      "zh": "图中标明了同源染色体对的分离发生在减数分裂 I 期间。这一事件是孟德尔分离定律的物理基础，即决定一个性状的两个等位基因分离到不同的配子中。",
+      "es": "El diagrama etiqueta explícitamente la separación del par de cromosomas homólogos como algo que ocurre durante la Meiosis I. Este evento es la base física de la ley de la segregación de Mendel, donde los dos alelos de un carácter se separan en diferentes gametos.",
+      "fr": "Le diagramme indique explicitement que la séparation de la paire de chromosomes homologues se produit pendant la méiose I. Cet événement est la base physique de la loi de la ségrégation de Mendel, où les deux allèles d'un caractère se séparent dans des gamètes différents.",
+      "de": "Das Diagramm kennzeichnet die Trennung des homologen Chromosomenpaars ausdrücklich als während der Meiose I auftretend. Dieses Ereignis ist die physikalische Grundlage für das Mendelsche Spaltungsgesetz, bei dem sich die beiden Allele für ein Merkmal in verschiedene Gameten aufteilen.",
+      "ja": "図は、相同染色体対の分離が減数分裂Iの間に起こることを明確に示しています。このイベントは、形質の2つの対立遺伝子が異なる配偶子に分離するというメンデルの分離の法則の物理的基礎です。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "After fertilization, the resulting offspring has a pair of homologous chromosomes. Where do these two chromosomes come from?",
+      "zh": "受精后，产生的后代有一对同源染色体。这两条染色体来自哪里？",
+      "es": "Después de la fertilización, la descendencia resultante tiene un par de cromosomas homólogos. ¿De dónde provienen estos dos cromosomas?",
+      "fr": "Après la fécondation, la descendance qui en résulte possède une paire de chromosomes homologues. D'où viennent ces deux chromosomes ?",
+      "de": "Nach der Befruchtung hat der resultierende Nachkomme ein Paar homologer Chromosomen. Woher kommen diese beiden Chromosomen?",
+      "ja": "受精後、結果として生じる子孫は相同染色体のペアを持っています。これらの2つの染色体はどこから来ますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Both chromosomes are from the egg.",
+          "zh": "两条染色体都来自卵细胞。",
+          "es": "Ambos cromosomas provienen del óvulo.",
+          "fr": "Les deux chromosomes proviennent de l'ovule.",
+          "de": "Beide Chromosomen stammen aus der Eizelle.",
+          "ja": "両方の染色体は卵子に由来します。"
+        },
+        "feedback": {
+          "en": "The egg contributes only one chromosome from each homologous pair.",
+          "zh": "卵细胞只贡献每对同源染色体中的一条。",
+          "es": "El óvulo contribuye solo con un cromosoma de cada par homólogo.",
+          "fr": "L'ovule ne contribue qu'à un seul chromosome de chaque paire homologue.",
+          "de": "Die Eizelle trägt nur ein Chromosom von jedem homologen Paar bei.",
+          "ja": "卵子は各相同染色体ペアから1つの染色体のみを寄与します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Both chromosomes are from the sperm.",
+          "zh": "两条染色体都来自精子。",
+          "es": "Ambos cromosomas provienen del espermatozoide.",
+          "fr": "Les deux chromosomes proviennent du spermatozoïde.",
+          "de": "Beide Chromosomen stammen aus dem Spermium.",
+          "ja": "両方の染色体は精子に由来します。"
+        },
+        "feedback": {
+          "en": "The sperm contributes only one chromosome from each homologous pair.",
+          "zh": "精子只贡献每对同源染色体中的一条。",
+          "es": "El espermatozoide contribuye solo con un cromosoma de cada par homólogo.",
+          "fr": "Le spermatozoïde ne contribue qu'à un seul chromosome de chaque paire homologue.",
+          "de": "Das Spermium trägt nur ein Chromosom von jedem homologen Paar bei.",
+          "ja": "精子は各相同染色体ペアから1つの染色体のみを寄与します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "One chromosome is from the egg (maternal) and one is from the sperm (paternal).",
+          "zh": "一条染色体来自卵细胞（母方），一条来自精子（父方）。",
+          "es": "Un cromosoma proviene del óvulo (materno) y otro del espermatozoide (paterno).",
+          "fr": "Un chromosome provient de l'ovule (maternel) et un du spermatozoïde (paternel).",
+          "de": "Ein Chromosom stammt aus der Eizelle (mütterlich) und eines aus dem Spermium (väterlich).",
+          "ja": "1つの染色体は卵子（母方）から、もう1つは精子（父方）から来ています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They are newly created during the process of fertilization.",
+          "zh": "它们是在受精过程中新产生的。",
+          "es": "Se crean de nuevo durante el proceso de fertilización.",
+          "fr": "Ils sont nouvellement créés pendant le processus de fécondation.",
+          "de": "Sie werden während des Befruchtungsprozesses neu geschaffen.",
+          "ja": "それらは受精の過程で新たに作られます。"
+        },
+        "feedback": {
+          "en": "Chromosomes are not created during fertilization; they are combined from the two gametes.",
+          "zh": "染色体不是在受精过程中产生的；它们是由两个配子结合而成的。",
+          "es": "Los cromosomas no se crean durante la fertilización; se combinan a partir de los dos gametos.",
+          "fr": "Les chromosomes ne sont pas créés pendant la fécondation ; ils sont combinés à partir des deux gamètes.",
+          "de": "Chromosomen werden nicht während der Befruchtung gebildet; sie werden aus den beiden Gameten kombiniert.",
+          "ja": "染色体は受精中に作られるのではなく、2つの配偶子から結合されます。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The diagram clearly shows the egg and sperm, each containing a single set of chromosomes, fusing during fertilization. The resulting zygote has a maternal chromosome and a paternal chromosome, which form the homologous pair.",
+      "zh": "图表清晰地显示了卵子和精子（各自包含单组染色体）在受精过程中融合。由此产生的合子有一条母源染色体和一条父源染色体，它们构成了同源染色体对。",
+      "es": "El diagrama muestra claramente el óvulo y el espermatozoide, cada uno con un solo juego de cromosomas, fusionándose durante la fertilización. El cigoto resultante tiene un cromosoma materno y un cromosoma paterno, que forman el par homólogo.",
+      "fr": "Le diagramme montre clairement l'ovule et le spermatozoïde, chacun contenant un seul jeu de chromosomes, fusionnant lors de la fécondation. Le zygote qui en résulte possède un chromosome maternel et un chromosome paternel, qui forment la paire homologue.",
+      "de": "Das Diagramm zeigt deutlich, wie Eizelle und Spermium, die jeweils einen einzigen Chromosomensatz enthalten, während der Befruchtung verschmelzen. Die resultierende Zygote hat ein mütterliches Chromosom und ein väterliches Chromosom, die das homologe Paar bilden.",
+      "ja": "図は、それぞれが単一の染色体セットを含む卵子と精子が受精中に融合することを示しています。結果として生じる接合子は、相同対を形成する母性染色体と父性染色体を持っています。"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Why are X-linked recessive disorders far more common in males than in females?",
+      "zh": "为什么 X 连锁隐性遗传病在男性中比在女性中常见得多？",
+      "es": "¿Por qué los trastornos recesivos ligados al cromosoma X son mucho más comunes en los hombres que en las mujeres?",
+      "fr": "Pourquoi les maladies récessives liées à l'X sont-elles beaucoup plus fréquentes chez les hommes que chez les femmes ?",
+      "de": "Warum sind X-chromosomal-rezessive Erkrankungen bei Männern weitaus häufiger als bei Frauen?",
+      "ja": "なぜX連鎖劣性疾患は女性よりも男性にはるかに多く見られるのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The Y chromosome carries dominant alleles that mask the X-linked recessive traits.",
+          "zh": "Y 染色体携带的显性等位基因掩盖了 X 连锁的隐性性状。",
+          "es": "El cromosoma Y porta alelos dominantes que enmascaran los rasgos recesivos ligados al cromosoma X.",
+          "fr": "Le chromosome Y porte des allèles dominants qui masquent les caractères récessifs liés à l'X.",
+          "de": "Das Y-Chromosom trägt dominante Allele, die die X-chromosomal-rezessiven Merkmale maskieren.",
+          "ja": "Y染色体は、X連鎖劣性形質を覆い隠す優性対立遺伝子を持っています。"
+        },
+        "feedback": {
+          "en": "The Y chromosome is very small and carries very few genes, with no corresponding alleles for most X-linked traits.",
+          "zh": "Y 染色体非常小，携带的基因很少，对于大多数 X 连锁性状没有相应的等位基因。",
+          "es": "El cromosoma Y es muy pequeño y porta muy pocos genes, sin alelos correspondientes para la mayoría de los rasgos ligados al cromosoma X.",
+          "fr": "Le chromosome Y est très petit et porte très peu de gènes, sans allèles correspondants pour la plupart des caractères liés à l'X.",
+          "de": "Das Y-Chromosom ist sehr klein und trägt nur sehr wenige Gene, ohne entsprechende Allele für die meisten X-chromosomalen Merkmale.",
+          "ja": "Y染色体は非常に小さく、遺伝子が非常に少ないため、ほとんどのX連鎖形質に対応する対立遺伝子はありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Fathers pass X-linked recessive alleles to all of their sons.",
+          "zh": "父亲将 X 连锁隐性等位基因传给他们所有的儿子。",
+          "es": "Los padres transmiten los alelos recesivos ligados al cromosoma X a todos sus hijos.",
+          "fr": "Les pères transmettent les allèles récessifs liés à l'X à tous leurs fils.",
+          "de": "Väter geben X-chromosomal-rezessive Allele an alle ihre Söhne weiter.",
+          "ja": "父親はX連鎖劣性対立遺伝子をすべての息子に伝えます。"
+        },
+        "feedback": {
+          "en": "Fathers pass their Y chromosome to their sons, not their X chromosome.",
+          "zh": "父亲传给儿子的是 Y 染色体，而不是 X 染色体。",
+          "es": "Los padres transmiten su cromosoma Y a sus hijos, no su cromosoma X.",
+          "fr": "Les pères transmettent leur chromosome Y à leurs fils, pas leur chromosome X.",
+          "de": "Väter geben ihr Y-Chromosom an ihre Söhne weiter, nicht ihr X-Chromosom.",
+          "ja": "父親はX染色体ではなく、Y染色体を息子に伝えます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Males have only one X chromosome, so any recessive allele on it will be expressed.",
+          "zh": "男性只有一个 X 染色体，因此其上的任何隐性等位基因都会被表达。",
+          "es": "Los machos solo tienen un cromosoma X, por lo que cualquier alelo recesivo en él se expresará.",
+          "fr": "Les mâles n'ont qu'un seul chromosome X, donc tout allèle récessif s'y trouvant s'exprimera.",
+          "de": "Männer haben nur ein X-Chromosom, daher wird jedes rezessive Allel darauf exprimiert.",
+          "ja": "男性はX染色体を1つしか持っていないため、その上の劣性対立遺伝子はすべて発現します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The recessive alleles are more likely to mutate in males.",
+          "zh": "隐性等位基因在男性中更容易发生突变。",
+          "es": "Los alelos recesivos tienen más probabilidades de mutar en los machos.",
+          "fr": "Les allèles récessifs sont plus susceptibles de muter chez les mâles.",
+          "de": "Die rezessiven Allele mutieren eher bei Männern.",
+          "ja": "劣性対立遺伝子は男性で突然変異する可能性が高いです。"
+        },
+        "feedback": {
+          "en": "The mutation rate is not dependent on the sex of the individual. The difference lies in the expression of existing alleles.",
+          "zh": "突变率不取决于个体的性别。差异在于现有等位基因的表达。",
+          "es": "La tasa de mutación no depende del sexo del individuo. La diferencia radica en la expresión de los alelos existentes.",
+          "fr": "Le taux de mutation ne dépend pas du sexe de l'individu. La différence réside dans l'expression des allèles existants.",
+          "de": "Die Mutationsrate ist nicht vom Geschlecht des Individuums abhängig. Der Unterschied liegt in der Expression bestehender Allele.",
+          "ja": "突然変異率は個人の性別には依存しません。違いは既存の対立遺伝子の発現にあります。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text states that because males have only one locus for an X-linked gene (a condition called hemizygous), a single recessive allele is sufficient to be expressed. Females, having two X chromosomes, would need two copies of the recessive allele to express the trait, which is a much less probable event.",
+      "zh": "文本指出，因为男性对于一个 X 连锁基因只有一个基因座（这种情况称为半合子），一个隐性等位基因就足以被表达出来。而女性有两个 X 染色体，需要两个隐性等位基因的副本才能表达该性状，这是一个概率低得多的事件。",
+      "es": "El texto establece que debido a que los machos tienen solo un locus para un gen ligado al cromosoma X (una condición llamada hemicigoto), un solo alelo recesivo es suficiente para expresarse. Las hembras, que tienen dos cromosomas X, necesitarían dos copias del alelo recesivo para expresar el rasgo, lo cual es un evento mucho menos probable.",
+      "fr": "Le texte indique que, comme les mâles n'ont qu'un seul locus pour un gène lié à l'X (une condition appelée hémizygote), un seul allèle récessif suffit pour être exprimé. Les femelles, ayant deux chromosomes X, auraient besoin de deux copies de l'allèle récessif pour exprimer le caractère, ce qui est un événement beaucoup moins probable.",
+      "de": "Der Text besagt, dass, da Männer nur einen Locus für ein X-chromosomales Gen haben (ein Zustand, der als hemizygot bezeichnet wird), ein einzelnes rezessives Allel ausreicht, um exprimiert zu werden. Frauen, die zwei X-Chromosomen haben, würden zwei Kopien des rezessiven Allels benötigen, um das Merkmal zu exprimieren, was ein viel unwahrscheinlicheres Ereignis ist.",
+      "ja": "本文では、男性はX連鎖遺伝子の遺伝子座を1つしか持たないため（半接合体と呼ばれる状態）、単一の劣性対立遺伝子で発現するのに十分であると述べられています。2つのX染色体を持つ女性は、形質を発現するために劣性対立遺伝子のコピーが2つ必要であり、これははるかに確率の低いイベントです。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A father has red-green color blindness, an X-linked recessive trait. He has a child with a woman who is homozygous for normal color vision. Which of the following is true about their offspring?",
+      "zh": "一位父亲患有红绿色盲，这是一种 X 连锁隐性性状。他与一个色觉正常的纯合子女性生了一个孩子。关于他们的后代，以下哪项是正确的？",
+      "es": "Un padre tiene daltonismo rojo-verde, un rasgo recesivo ligado al cromosoma X. Tiene un hijo con una mujer que es homocigota para la visión normal del color. ¿Cuál de las siguientes afirmaciones es cierta sobre su descendencia?",
+      "fr": "Un père est daltonien (rouge-vert), un caractère récessif lié à l'X. Il a un enfant avec une femme qui est homozygote pour une vision normale des couleurs. Laquelle des affirmations suivantes est vraie à propos de leur progéniture ?",
+      "de": "Ein Vater hat Rot-Grün-Blindheit, ein X-chromosomal-rezessives Merkmal. Er hat ein Kind mit einer Frau, die für normales Farbsehen homozygot ist. Welche der folgenden Aussagen trifft auf ihre Nachkommen zu?",
+      "ja": "父親はX連鎖劣性形質である赤緑色覚異常です。彼は正常な色覚についてホモ接合の女性との間に子供がいます。彼らの子孫について、次のうちどれが正しいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "All sons will be color-blind, and all daughters will have normal vision.",
+          "zh": "所有儿子都将是色盲，所有女儿的视力都将正常。",
+          "es": "Todos los hijos serán daltónicos y todas las hijas tendrán una visión normal.",
+          "fr": "Tous les fils seront daltoniens et toutes les filles auront une vision normale.",
+          "de": "Alle Söhne werden farbenblind sein, und alle Töchter werden normales Sehvermögen haben.",
+          "ja": "すべての息子は色覚異常になり、すべての娘は正常な視力になります。"
+        },
+        "feedback": {
+          "en": "Sons inherit their X chromosome from their mother. Since the mother is homozygous normal (XNXN), all sons will receive an XN and have normal vision.",
+          "zh": "儿子从母亲那里遗传 X 染色体。由于母亲是纯合正常的（XNXN），所有儿子都将接收到一个 XN 并具有正常视力。",
+          "es": "Los hijos heredan su cromosoma X de su madre. Como la madre es homocigota normal (XNXN), todos los hijos recibirán un XN y tendrán una visión normal.",
+          "fr": "Les fils héritent de leur chromosome X de leur mère. Comme la mère est homozygote normale (XNXN), tous les fils recevront un XN et auront une vision normale.",
+          "de": "Söhne erben ihr X-Chromosom von ihrer Mutter. Da die Mutter homozygot normal ist (XNXN), erhalten alle Söhne ein XN und haben ein normales Sehvermögen.",
+          "ja": "息子は母親からX染色体を受け継ぎます。母親はホモ接合正常（XNXN）であるため、すべての息子はXNを受け取り、正常な視力になります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "All daughters will be carriers, and all sons will have normal vision.",
+          "zh": "所有女儿都将是携带者，所有儿子都将有正常视力。",
+          "es": "Todas las hijas serán portadoras y todos los hijos tendrán una visión normal.",
+          "fr": "Toutes les filles seront porteuses et tous les fils auront une vision normale.",
+          "de": "Alle Töchter werden Trägerinnen sein, und alle Söhne werden normales Sehvermögen haben.",
+          "ja": "すべての娘は保因者になり、すべての息子は正常な視力になります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "There is a 50% chance that each son will be color-blind.",
+          "zh": "每个儿子有 50% 的几率是色盲。",
+          "es": "Hay un 50% de probabilidad de que cada hijo sea daltónico.",
+          "fr": "Il y a 50 % de chances que chaque fils soit daltonien.",
+          "de": "Es besteht eine 50%ige Wahrscheinlichkeit, dass jeder Sohn farbenblind ist.",
+          "ja": "各息子が色覚異常になる確率は50％です。"
+        },
+        "feedback": {
+          "en": "This would be true if the mother were a carrier (XNXn). However, she is homozygous normal (XNXN), so she can only pass the normal allele to her sons.",
+          "zh": "如果母亲是携带者（XNXn），这将是正确的。然而，她是纯合正常的（XNXN），所以她只能将正常等位基因传给她的儿子。",
+          "es": "Esto sería cierto si la madre fuera portadora (XNXn). Sin embargo, es homocigota normal (XNXN), por lo que solo puede transmitir el alelo normal a sus hijos.",
+          "fr": "Ce serait vrai si la mère était porteuse (XNXn). Cependant, elle est homozygote normale (XNXN), elle ne peut donc transmettre que l'allèle normal à ses fils.",
+          "de": "Dies wäre wahr, wenn die Mutter eine Trägerin wäre (XNXn). Sie ist jedoch homozygot normal (XNXN), daher kann sie nur das normale Allel an ihre Söhne weitergeben.",
+          "ja": "これは、母親が保因者（XNXn）である場合に当てはまります。しかし、彼女はホモ接合正常（XNXN）であるため、息子に正常な対立遺伝子しか渡すことができません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All children, regardless of sex, will be carriers of the trait.",
+          "zh": "所有孩子，无论性别，都将是该性状的携带者。",
+          "es": "Todos los hijos, independientemente del sexo, serán portadores del rasgo.",
+          "fr": "Tous les enfants, quel que soit leur sexe, seront porteurs du caractère.",
+          "de": "Alle Kinder, unabhängig vom Geschlecht, werden Träger des Merkmals sein.",
+          "ja": "性別に関係なく、すべての子供がその形質の保因者になります。"
+        },
+        "feedback": {
+          "en": "Only daughters can be carriers in this case. Sons will receive the Y chromosome from the father and a normal X from the mother, so they will not carry the allele.",
+          "zh": "在这种情况下，只有女儿才能成为携带者。儿子将从父亲那里得到 Y 染色体，从母亲那里得到正常的 X 染色体，所以他们不会携带该等位基因。",
+          "es": "Solo las hijas pueden ser portadoras en este caso. Los hijos recibirán el cromosoma Y del padre y un cromosoma X normal de la madre, por lo que no portarán el alelo.",
+          "fr": "Seules les filles peuvent être porteuses dans ce cas. Les fils recevront le chromosome Y du père et un chromosome X normal de la mère, ils ne porteront donc pas l'allèle.",
+          "de": "In diesem Fall können nur Töchter Trägerinnen sein. Söhne erhalten das Y-Chromosom vom Vater und ein normales X von der Mutter, sodass sie das Allel nicht tragen werden.",
+          "ja": "この場合、娘だけが保因者になることができます。息子は父親からY染色体、母親から正常なX染色体を受け取るため、その対立遺伝子を持ちません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "This scenario matches Figure 15.7a. The father's genotype is XnY and the mother's is XNXN. All daughters will inherit XN from the mother and Xn from the father, making them genotype XNXn (carriers with normal vision). All sons will inherit XN from the mother and Y from the father, making them genotype XNY (normal vision).",
+      "zh": "这个场景与图 15.7a 相符。父亲的基因型是 XnY，母亲的基因型是 XNXN。所有女儿都将从母亲那里遗传 XN，从父亲那里遗传 Xn，使她们的基因型为 XNXn（视力正常的携带者）。所有儿子都将从母亲那里遗传 XN，从父亲那里遗传 Y，使他们的基因型为 XNY（视力正常）。",
+      "es": "Este escenario coincide con la Figura 15.7a. El genotipo del padre es XnY y el de la madre es XNXN. Todas las hijas heredarán XN de la madre y Xn del padre, lo que las convierte en genotipo XNXn (portadoras con visión normal). Todos los hijos heredarán XN de la madre e Y del padre, lo que los convierte en genotipo XNY (visión normal).",
+      "fr": "Ce scénario correspond à la figure 15.7a. Le génotype du père est XnY et celui de la mère est XNXN. Toutes les filles hériteront de XN de la mère et de Xn du père, ce qui leur donnera le génotype XNXn (porteuses avec une vision normale). Tous les fils hériteront de XN de la mère et de Y du père, ce qui leur donnera le génotype XNY (vision normale).",
+      "de": "Dieses Szenario entspricht Abbildung 15.7a. Der Genotyp des Vaters ist XnY und der der Mutter ist XNXN. Alle Töchter erben XN von der Mutter und Xn vom Vater, was sie zum Genotyp XNXn macht (Trägerinnen mit normalem Sehvermögen). Alle Söhne erben XN von der Mutter und Y vom Vater, was sie zum Genotyp XNY macht (normales Sehvermögen).",
+      "ja": "このシナリオは図15.7aと一致します。父親の遺伝子型はXnYで、母親はXNXNです。すべての娘は母親からXN、父親からXnを受け継ぎ、遺伝子型はXNXn（正常な視力を持つ保因者）になります。すべての息子は母親からXN、父親からYを受け継ぎ、遺伝子型はXNY（正常な視力）になります。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "If a carrier woman (XNXn) mates with a color-blind man (XnY), what is the probability that they will have a color-blind daughter?",
+      "zh": "如果一个携带者女性（XNXn）与一个色盲男性（XnY）交配，他们生一个色盲女儿的概率是多少？",
+      "es": "Si una mujer portadora (XNXn) se aparea con un hombre daltónico (XnY), ¿cuál es la probabilidad de que tengan una hija daltónica?",
+      "fr": "Si une femme porteuse (XNXn) s'accouple avec un homme daltonien (XnY), quelle est la probabilité qu'ils aient une fille daltonienne ?",
+      "de": "Wenn eine Trägerin (XNXn) sich mit einem farbenblinden Mann (XnY) paart, wie hoch ist die Wahrscheinlichkeit, dass sie eine farbenblinde Tochter bekommen?",
+      "ja": "保因者の女性（XNXn）が色覚異常の男性（XnY）と交配した場合、色覚異常の娘が生まれる確率はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "100%",
+          "zh": "100%",
+          "es": "100%",
+          "fr": "100%",
+          "de": "100%",
+          "ja": "100%"
+        },
+        "feedback": {
+          "en": "This is incorrect. The mother can pass on a normal XN allele, which would result in a daughter with normal vision (though she would be a carrier).",
+          "zh": "这是不正确的。母亲可以传递一个正常的 XN 等位基因，这将导致女儿视力正常（尽管她将是携带者）。",
+          "es": "Esto es incorrecto. La madre puede transmitir un alelo XN normal, lo que daría como resultado una hija con visión normal (aunque sería portadora).",
+          "fr": "C'est incorrect. La mère peut transmettre un allèle XN normal, ce qui donnerait une fille avec une vision normale (bien qu'elle soit porteuse).",
+          "de": "Das ist falsch. Die Mutter kann ein normales XN-Allel weitergeben, was zu einer Tochter mit normalem Sehvermögen führen würde (obwohl sie eine Trägerin wäre).",
+          "ja": "これは正しくありません。母親は正常なXN対立遺伝子を渡すことができ、その結果、娘は正常な視力になります（ただし、彼女は保因者になります）。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "50%",
+          "zh": "50%",
+          "es": "50%",
+          "fr": "50%",
+          "de": "50%",
+          "ja": "50%"
+        },
+        "feedback": {
+          "en": "This is the probability that any given child will be color-blind, but the question specifically asks about a daughter.",
+          "zh": "这是任何一个孩子是色盲的概率，但问题具体问的是女儿。",
+          "es": "Esta es la probabilidad de que un niño cualquiera sea daltónico, pero la pregunta se refiere específicamente a una hija.",
+          "fr": "C'est la probabilité qu'un enfant donné soit daltonien, mais la question porte spécifiquement sur une fille.",
+          "de": "Dies ist die Wahrscheinlichkeit, dass ein beliebiges Kind farbenblind ist, aber die Frage bezieht sich speziell auf eine Tochter.",
+          "ja": "これは、特定の子供が色覚異常になる確率ですが、質問は特に娘について尋ねています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "25%",
+          "zh": "25%",
+          "es": "25%",
+          "fr": "25%",
+          "de": "25%",
+          "ja": "25%"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "0%",
+          "zh": "0%",
+          "es": "0%",
+          "fr": "0%",
+          "de": "0%",
+          "ja": "0%"
+        },
+        "feedback": {
+          "en": "A color-blind daughter is possible from this cross. She would need to inherit Xn from her mother and Xn from her father.",
+          "zh": "这次杂交有可能生出一位色盲女儿。她需要从母亲那里遗传 Xn，从父亲那里遗传 Xn。",
+          "es": "Una hija daltónica es posible de este cruce. Necesitaría heredar Xn de su madre y Xn de su padre.",
+          "fr": "Une fille daltonienne est possible à partir de ce croisement. Elle devrait hériter de Xn de sa mère et de Xn de son père.",
+          "de": "Eine farbenblinde Tochter ist aus dieser Kreuzung möglich. Sie müsste Xn von ihrer Mutter und Xn von ihrem Vater erben.",
+          "ja": "この交配から色覚異常の娘が生まれる可能性があります。彼女は母親からXn、父親からXnを受け継ぐ必要があります。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "This scenario matches Figure 15.7c. The probability of having a daughter is 1/2. For the daughter to be color-blind, she must have the genotype XnXn. She must inherit Xn from her father (probability = 1, since he is XnY) and Xn from her mother (probability = 1/2, since she is XNXn). Using the multiplication rule, the total probability is P(daughter) * P(gets Xn from mother) = (1/2) * (1/2) = 1/4, or 25%.",
+      "zh": "这个场景与图 15.7c 相符。生女儿的概率是 1/2。要使女儿色盲，她的基因型必须是 XnXn。她必须从父亲那里遗传 Xn（概率=1，因为他是 XnY），并从母亲那里遗传 Xn（概率=1/2，因为她是 XNXn）。使用乘法法则，总概率是 P(女儿) * P(从母亲处获得 Xn) = (1/2) * (1/2) = 1/4，即 25%。",
+      "es": "Este escenario coincide con la Figura 15.7c. La probabilidad de tener una hija es 1/2. Para que la hija sea daltónica, debe tener el genotipo XnXn. Debe heredar Xn de su padre (probabilidad = 1, ya que es XnY) y Xn de su madre (probabilidad = 1/2, ya que es XNXn). Usando la regla de la multiplicación, la probabilidad total es P(hija) * P(obtiene Xn de la madre) = (1/2) * (1/2) = 1/4, o 25%.",
+      "fr": "Ce scénario correspond à la figure 15.7c. La probabilité d'avoir une fille est de 1/2. Pour que la fille soit daltonienne, elle doit avoir le génotype XnXn. Elle doit hériter de Xn de son père (probabilité = 1, puisqu'il est XnY) et de Xn de sa mère (probabilité = 1/2, puisqu'elle est XNXn). En utilisant la règle de multiplication, la probabilité totale est P(fille) * P(obtient Xn de la mère) = (1/2) * (1/2) = 1/4, soit 25 %.",
+      "de": "Dieses Szenario entspricht Abbildung 15.7c. Die Wahrscheinlichkeit, eine Tochter zu bekommen, beträgt 1/2. Damit die Tochter farbenblind ist, muss sie den Genotyp XnXn haben. Sie muss Xn von ihrem Vater erben (Wahrscheinlichkeit = 1, da er XnY ist) und Xn von ihrer Mutter (Wahrscheinlichkeit = 1/2, da sie XNXn ist). Unter Anwendung der Multiplikationsregel beträgt die Gesamtwahrscheinlichkeit P(Tochter) * P(erhält Xn von Mutter) = (1/2) * (1/2) = 1/4 oder 25 %.",
+      "ja": "このシナリオは図15.7cと一致します。娘が生まれる確率は1/2です。娘が色覚異常になるためには、遺伝子型がXnXnでなければなりません。彼女は父親からXnを受け継ぐ必要があり（確率=1、彼はXnYなので）、母親からXnを受け継ぐ必要があります（確率=1/2、彼女はXNXnなので）。乗法の法則を使用すると、合計確率はP（娘）* P（母親からXnを得る）=（1/2）*（1/2）= 1/4、つまり25％です。"
+    }
+  }
+]

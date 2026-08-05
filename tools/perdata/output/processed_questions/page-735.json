@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 735,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements about the simplified phylogeny of animals, as presented on the page, is correct?",
+      "zh": "根据页面中呈现的简化动物系统发育树，以下哪项陈述是正确的？",
+      "es": "Según la filogenia simplificada de los animales presentada en la página, ¿cuál de las siguientes afirmaciones es correcta?",
+      "fr": "D'après la phylogénie simplifiée des animaux présentée sur la page, quelle affirmation est correcte ?",
+      "de": "Welche der folgenden Aussagen zur vereinfachten Phylogenie der Tiere, wie auf der Seite dargestellt, ist richtig?",
+      "ja": "ページに示されている動物の単純化された系統樹について、以下の記述のうち正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "All Eumetazoans possess bilateral symmetry.",
+          "zh": "所有真后生动物都具有两侧对称。",
+          "es": "Todos los Eumetazoos poseen simetría bilateral.",
+          "fr": "Tous les Eumetazoaires possèdent une symétrie bilatérale.",
+          "de": "Alle Eumetazoen besitzen bilaterale Symmetrie.",
+          "ja": "すべての真後生動物は左右対称性を持っています。"
+        },
+        "feedback": {
+          "en": "Cnidarians are Eumetazoans but generally exhibit radial symmetry, not bilateral.",
+          "zh": "刺胞动物是真后生动物，但通常表现出辐射对称，而非两侧对称。",
+          "es": "Los Cnidarios son Eumetazoos pero generalmente exhiben simetría radial, no bilateral.",
+          "fr": "Les Cnidaires sont des Eumetazoaires mais présentent généralement une symétrie radiale, et non bilatérale.",
+          "de": "Nesseltiere sind Eumetazoen, zeigen aber im Allgemeinen radiale Symmetrie, nicht bilaterale.",
+          "ja": "刺胞動物は真後生動物ですが、左右対称ではなく、通常は放射対称を示します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Deuterostomia is a sub-group within Bilateria.",
+          "zh": "后口动物是两侧对称动物的一个亚群。",
+          "es": "Deuterostomia es un subgrupo dentro de Bilateria.",
+          "fr": "Les Deutérostomiens sont un sous-groupe des Bilatériens.",
+          "de": "Deuterostomia ist eine Untergruppe innerhalb der Bilateria.",
+          "ja": "新口動物は左右対称動物の中のサブグループです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Animals with tissues include Porifera.",
+          "zh": "具有组织的动物包括多孔动物。",
+          "es": "Los animales con tejidos incluyen a los Porifera.",
+          "fr": "Les animaux avec des tissus incluent les Porifera.",
+          "de": "Tiere mit Geweben umfassen Porifera.",
+          "ja": "組織を持つ動物には海綿動物が含まれます。"
+        },
+        "feedback": {
+          "en": "The diagram states 'Animals with tissues: all animals except Porifera and a few other groups'. Porifera explicitly lack true tissues.",
+          "zh": "图中指出“具有组织的动物：除多孔动物和少数其他群体外的所有动物”。多孔动物明确缺乏真正的组织。",
+          "es": "El diagrama indica 'Animales con tejidos: todos los animales excepto Porifera y algunos otros grupos'. Los Porifera carecen explícitamente de tejidos verdaderos.",
+          "fr": "Le diagramme indique « Animaux avec tissus : tous les animaux sauf les Porifera et quelques autres groupes ». Les Porifera n'ont explicitement pas de vrais tissus.",
+          "de": "Das Diagramm besagt 'Tiere mit Geweben: alle Tiere außer Porifera und einigen anderen Gruppen'. Porifera fehlen explizit echte Gewebe.",
+          "ja": "図には「組織を持つ動物：海綿動物とその他の少数のグループを除くすべての動物」と記載されています。海綿動物は明確に真の組織を欠いています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Lophotrochozoa and Ecdysozoa are the only invertebrate groups.",
+          "zh": "冠轮动物和蜕皮动物是仅有的无脊椎动物类群。",
+          "es": "Lophotrochozoa y Ecdysozoa son los únicos grupos de invertebrados.",
+          "fr": "Les Lophotrochozoaires et les Ecdysozoaires sont les seuls groupes d'invertébrés.",
+          "de": "Lophotrochozoa und Ecdysozoa sind die einzigen wirbellosen Gruppen.",
+          "ja": "冠輪動物と脱皮動物は唯一の無脊椎動物グループです。"
+        },
+        "feedback": {
+          "en": "The diagram clearly shows Porifera and Cnidaria also as invertebrate species.",
+          "zh": "图中清楚地显示多孔动物和刺胞动物也是无脊椎动物。",
+          "es": "El diagrama muestra claramente que los Porifera y los Cnidaria también son especies de invertebrados.",
+          "fr": "Le diagramme montre clairement que les Porifera et les Cnidaires sont également des espèces d'invertébrés.",
+          "de": "Das Diagramm zeigt deutlich, dass Porifera und Cnidaria ebenfalls wirbellose Arten sind.",
+          "ja": "図は、海綿動物と刺胞動物も無脊椎動物であることを明確に示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The phylogenetic tree illustrates that 'Bilateria' is a major clade, and 'Deuterostomia' branches off from within Bilateria, indicating it is a sub-group. Eumetazoa includes Cnidaria which are radially symmetrical. Porifera are explicitly mentioned as lacking tissues. Finally, Porifera and Cnidaria are also invertebrate groups, not just Lophotrochozoa and Ecdysozoa.",
+      "zh": "系统发育树表明“两侧对称动物”是一个主要演化支，“后口动物”从两侧对称动物内部演化出来，表明它是一个亚群。真后生动物包括刺胞动物，它们是辐射对称的。多孔动物明确提到缺乏组织。最后，多孔动物和刺胞动物也是无脊椎动物类群，而不仅仅是冠轮动物和蜕皮动物。",
+      "es": "El árbol filogenético ilustra que 'Bilateria' es un clado principal, y 'Deuterostomia' se ramifica dentro de Bilateria, indicando que es un subgrupo. Eumetazoa incluye Cnidaria, que son simétricos radialmente. Los Porifera se mencionan explícitamente como carentes de tejidos. Finalmente, los Porifera y los Cnidaria también son grupos de invertebrados, no solo Lophotrochozoa y Ecdysozoa.",
+      "fr": "L'arbre phylogénétique illustre que les « Bilatériens » sont un clade majeur, et que les « Deutérostomiens » se ramifient à partir des Bilatériens, indiquant qu'il s'agit d'un sous-groupe. Les Eumétazoaires incluent les Cnidaires qui sont à symétrie radiale. Les Porifera sont explicitement mentionnés comme dépourvus de tissus. Enfin, les Porifera et les Cnidaires sont aussi des groupes d'invertébrés, pas seulement les Lophotrochozoaires et les Ecdysozoaires.",
+      "de": "Der Stammbaum zeigt, dass 'Bilateria' eine Hauptklade ist und 'Deuterostomia' sich innerhalb der Bilateria verzweigt, was darauf hindeutet, dass es sich um eine Untergruppe handelt. Eumetazoa umfasst Cnidaria, die radiärsymmetrisch sind. Porifera werden explizit als gewebelos erwähnt. Schließlich sind Porifera und Cnidaria ebenfalls wirbellose Gruppen, nicht nur Lophotrochozoa und Ecdysozoa.",
+      "ja": "系統樹は、「左右対称動物」が主要なクレードであり、「新口動物」が左右対称動物の中から分岐していることを示しており、それがサブグループであることを示しています。真後生動物には放射対称である刺胞動物が含まれます。海綿動物は明示的に組織を欠くと述べられています。最後に、海綿動物と刺胞動物も無脊椎動物のグループであり、冠輪動物と脱皮動物だけではありません。"
+    }
+  },
+  {
+    "page_number": 735,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the provided information, which statement about invertebrates or the blue dragon (*Glaucus atlanticus*) is FALSE?",
+      "zh": "根据所提供的信息，关于无脊椎动物或蓝龙 (*Glaucus atlanticus*) 的哪项陈述是错误的？",
+      "es": "Según la información proporcionada, ¿qué afirmación sobre los invertebrados o el dragón azul (*Glaucus atlanticus*) es FALSA?",
+      "fr": "Selon les informations fournies, quelle affirmation concernant les invertébrés ou le dragon bleu (*Glaucus atlanticus*) est FAUSSE ?",
+      "de": "Laut den bereitgestellten Informationen, welche Aussage über Wirbellose oder den Blauen Drachen (*Glaucus atlanticus*) ist FALSCH?",
+      "ja": "提供された情報によると、無脊椎動物またはアオミノウミウシ（*Glaucus atlanticus*）に関する以下の記述のうち、誤っているものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "*Glaucus atlanticus* uses absorbed stinging cells from its prey for defense.",
+          "zh": "蓝龙 (*Glaucus atlanticus*) 利用从猎物吸收的刺细胞进行防御。",
+          "es": "El *Glaucus atlanticus* utiliza células urticantes absorbidas de su presa para defenderse.",
+          "fr": "Le *Glaucus atlanticus* utilise les cellules urticantes absorbées de sa proie pour se défendre.",
+          "de": "Der Blaue Drache (*Glaucus atlanticus*) verwendet absorbierte Nesselzellen seiner Beute zur Verteidigung.",
+          "ja": "アオミノウミウシは捕食した生物の刺胞細胞を防御に利用します。"
+        },
+        "feedback": {
+          "en": "This statement is TRUE, as explained in Figure 33.1. It absorbs stinging cells from Portuguese men-of-war.",
+          "zh": "这项陈述是正确的，图33.1中对此有所解释。它吸收葡萄牙战舰水母的刺细胞。",
+          "es": "Esta afirmación es VERDADERA, como se explica en la Figura 33.1. Absorbe células urticantes de las carabelas portuguesas.",
+          "fr": "Cette affirmation est VRAIE, comme l'explique la Figure 33.1. Il absorbe les cellules urticantes des physalies.",
+          "de": "Diese Aussage ist WAHR, wie in Abbildung 33.1 erklärt. Er absorbiert Nesselzellen von Portugiesischen Galeeren.",
+          "ja": "この記述は、図33.1で説明されている通り、正しいです。カツオノエボシから刺胞細胞を吸収します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Invertebrates account for less than half of all animal species.",
+          "zh": "无脊椎动物占所有动物物种不到一半。",
+          "es": "Los invertebrados representan menos de la mitad de todas las especies animales.",
+          "fr": "Les invertébrés représentent moins de la moitié de toutes les espèces animales.",
+          "de": "Wirbellose Tiere machen weniger als die Hälfte aller Tierarten aus.",
+          "ja": "無脊椎動物は全動物種の半分以下を占めます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "*Glaucus atlanticus* floats upside down on the sea's surface.",
+          "zh": "蓝龙 (*Glaucus atlanticus*) 在海面上倒立漂浮。",
+          "es": "El *Glaucus atlanticus* flota boca abajo en la superficie del mar.",
+          "fr": "Le *Glaucus atlanticus* flotte à l'envers à la surface de la mer.",
+          "de": "Der Blaue Drache (*Glaucus atlanticus*) schwimmt kopfüber an der Meeresoberfläche.",
+          "ja": "アオミノウミウシは海面で逆さまに浮遊します。"
+        },
+        "feedback": {
+          "en": "This statement is TRUE, as indicated in Figure 33.1's caption.",
+          "zh": "这项陈述是正确的，如图33.1的标题所示。",
+          "es": "Esta afirmación es VERDADERA, como se indica en el pie de la Figura 33.1.",
+          "fr": "Cette affirmation est VRAIE, comme l'indique la légende de la Figure 33.1.",
+          "de": "Diese Aussage ist WAHR, wie in der Bildunterschrift zu Abbildung 33.1 angegeben.",
+          "ja": "この記述は、図33.1のキャプションに示されている通り、正しいです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "There are more than a million known species of invertebrates.",
+          "zh": "已知有超过一百万种无脊椎动物。",
+          "es": "Existen más de un millón de especies conocidas de invertebrados.",
+          "fr": "Il existe plus d'un million d'espèces connues d'invertébrés.",
+          "de": "Es gibt mehr als eine Million bekannter Wirbellosenarten.",
+          "ja": "既知の無脊椎動物の種は100万種を超えます。"
+        },
+        "feedback": {
+          "en": "This statement is TRUE. Figure 33.1's caption mentions 'more than a million species of invertebrates'.",
+          "zh": "这项陈述是正确的。图33.1的标题提到“超过一百万种无脊椎动物”。",
+          "es": "Esta afirmación es VERDADERA. El pie de la Figura 33.1 menciona 'más de un millón de especies de invertebrados'.",
+          "fr": "Cette affirmation est VRAIE. La légende de la Figure 33.1 mentionne « plus d'un million d'espèces d'invertébrés ».",
+          "de": "Diese Aussage ist WAHR. Die Bildunterschrift zu Abbildung 33.1 erwähnt 'mehr als eine Million Arten von Wirbellosen'.",
+          "ja": "この記述は正しいです。図33.1のキャプションには「100万種以上の無脊椎動物」と記載されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 33.1 states that invertebrates 'account for over 95% of animal species', which is significantly more than half. Therefore, the statement that they account for less than half is false.",
+      "zh": "图33.1指出无脊椎动物“占动物物种的95%以上”，这远超一半。因此，它们占不到一半的说法是错误的。",
+      "es": "La Figura 33.1 indica que los invertebrados 'representan más del 95% de las especies animales', lo cual es significativamente más de la mitad. Por lo tanto, la afirmación de que representan menos de la mitad es falsa.",
+      "fr": "La Figure 33.1 indique que les invertébrés « représentent plus de 95% des espèces animales », ce qui est nettement plus de la moitié. Par conséquent, l'affirmation selon laquelle ils représentent moins de la moitié est fausse.",
+      "de": "Abbildung 33.1 besagt, dass Wirbellose 'über 95 % der Tierarten ausmachen', was deutlich mehr als die Hälfte ist. Daher ist die Aussage, dass sie weniger als die Hälfte ausmachen, falsch.",
+      "ja": "図33.1には、無脊椎動物が「動物種の95%以上を占める」と記載されており、これは半分を大きく上回ります。したがって、無脊椎動物が半分未満を占めるという記述は誤りです。"
+    }
+  },
+  {
+    "page_number": 735,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the 'KEY CONCEPTS' section, which statement accurately describes one of the invertebrate groups?",
+      "zh": "根据“核心概念”部分，哪项陈述准确描述了其中一个无脊椎动物类群？",
+      "es": "Según la sección 'CONCEPTOS CLAVE', ¿qué afirmación describe con precisión uno de los grupos de invertebrados?",
+      "fr": "Selon la section « CONCEPTS CLÉS », quelle affirmation décrit avec précision l'un des groupes d'invertébrés ?",
+      "de": "Welche Aussage beschreibt laut dem Abschnitt 'SCHLÜSSELKONZEPTE' eine der Wirbellosen-Gruppen präzise?",
+      "ja": "「主要概念」セクションによると、無脊椎動物のグループの1つを正確に記述している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Sponges are chordates that lack tissues.",
+          "zh": "海绵动物是缺乏组织的脊索动物。",
+          "es": "Las esponjas son cordados que carecen de tejidos.",
+          "fr": "Les éponges sont des chordés qui manquent de tissus.",
+          "de": "Schwämme sind Chordaten, denen Gewebe fehlen.",
+          "ja": "海綿動物は組織を欠く脊索動物です。"
+        },
+        "feedback": {
+          "en": "Sponges are basal animals that lack tissues, but they are not chordates.",
+          "zh": "海绵动物是缺乏组织的基础动物，但它们不是脊索动物。",
+          "es": "Las esponjas son animales basales que carecen de tejidos, pero no son cordados.",
+          "fr": "Les éponges sont des animaux basaux qui manquent de tissus, mais ce ne sont pas des chordés.",
+          "de": "Schwämme sind basale Tiere, denen Gewebe fehlen, aber sie sind keine Chordaten.",
+          "ja": "海綿動物は組織を欠く基礎的な動物ですが、脊索動物ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Cnidarians are an ancient phylum of eumetazoans.",
+          "zh": "刺胞动物是真后生动物的古老门。",
+          "es": "Los Cnidarios son un filo antiguo de eumetazoos.",
+          "fr": "Les Cnidaires sont un phylum ancien d'eumétazoaires.",
+          "de": "Nesseltiere sind ein alter Stamm der Eumetazoen.",
+          "ja": "刺胞動物は真後生動物の古代の門です。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Echinoderms are the most species-rich animal group.",
+          "zh": "棘皮动物是物种最丰富的动物类群。",
+          "es": "Los equinodermos son el grupo animal más rico en especies.",
+          "fr": "Les échinodermes sont le groupe animal le más riche en espèces.",
+          "de": "Stachelhäuter sind die artenreichste Tiergruppe.",
+          "ja": "棘皮動物は最も種が豊富な動物グループです。"
+        },
+        "feedback": {
+          "en": "Ecdysozoans, not Echinoderms, are described as the most species-rich animal group.",
+          "zh": "蜕皮动物而非棘皮动物被描述为物种最丰富的动物类群。",
+          "es": "Los Ecdysozoos, no los equinodermos, son descritos como el grupo animal más rico en especies.",
+          "fr": "Les Ecdysozoaires, et non les échinodermes, sont décrits comme le groupe animal le plus riche en espèces.",
+          "de": "Ecdysozoen, nicht Stachelhäuter, werden als die artenreichste Tiergruppe beschrieben.",
+          "ja": "棘皮動物ではなく脱皮動物が最も種豊富な動物グループとして記述されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Lophotrochozoans are identified solely by their specific body forms.",
+          "zh": "冠轮动物仅凭其特定的身体形态来识别。",
+          "es": "Los Lophotrochozoos se identifican únicamente por sus formas corporales específicas.",
+          "fr": "Les Lophotrochozoaires sont identifiés uniquement par leurs formes corporelles spécifiques.",
+          "de": "Lophotrochozoa werden ausschließlich durch ihre spezifischen Körperformen identifiziert.",
+          "ja": "冠輪動物は、その特定の体形のみによって識別されます。"
+        },
+        "feedback": {
+          "en": "Lophotrochozoans are identified by molecular data and have the widest range of animal body forms, not solely by specific forms.",
+          "zh": "冠轮动物是通过分子数据识别的，并具有最广泛的动物体型范围，而不是仅凭特定形态。",
+          "es": "Los Lophotrochozoos se identifican por datos moleculares y tienen la más amplia gama de formas corporales animales, no únicamente por formas específicas.",
+          "fr": "Les Lophotrochozoaires sont identifiés par des données moléculaires et présentent la plus grande diversité de formes corporelles animales, et non uniquement par des formes spécifiques.",
+          "de": "Lophotrochozoa werden durch molekulare Daten identifiziert und weisen die größte Vielfalt an Tierkörperformen auf, nicht ausschließlich durch spezifische Formen.",
+          "ja": "冠輪動物は分子データによって識別され、特定の体形のみによってではなく、最も幅広い動物の体形を有しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Key Concept 33.2 explicitly states: 'Cnidarians are an ancient phylum of eumetazoans'. This directly matches option B. Other options contain inaccuracies based on the provided text.",
+      "zh": "核心概念33.2明确指出：“刺胞动物是真后生动物的古老门”。这直接与选项B相符。其他选项根据所提供的文本存在不准确之处。",
+      "es": "El Concepto Clave 33.2 establece explícitamente: 'Los Cnidarios son un filo antiguo de eumetazoos'. Esto coincide directamente con la opción B. Otras opciones contienen inexactitudes según el texto proporcionado.",
+      "fr": "Le Concept Clé 33.2 stipule explicitement : « Les Cnidaires sont un phylum ancien d'eumétazoaires ». Cela correspond directement à l'option B. Les autres options contiennent des inexactitudes basées sur le texte fourni.",
+      "de": "Schlüsselkonzept 33.2 besagt explizit: 'Nesseltiere sind ein alter Stamm der Eumetazoen'. Dies stimmt direkt mit Option B überein. Andere Optionen enthalten Ungenauigkeiten basierend auf dem bereitgestellten Text.",
+      "ja": "主要概念33.2には、「刺胞動物は真後生動物の古代の門である」と明示されています。これは選択肢Bと直接一致します。他の選択肢には、提供されたテキストに基づいて不正確な記述が含まれています。"
+    }
+  }
+]

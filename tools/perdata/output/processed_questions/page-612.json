@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 612,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement accurately describes a key difference between the maximum parsimony and maximum likelihood approaches in phylogenetic tree construction, as described in the text?",
+      "zh": "根据文本描述，以下哪项陈述准确地说明了系统发育树构建中最大简约法和最大似然法之间的关键区别？",
+      "es": "Según el texto, ¿qué afirmación describe con precisión una diferencia clave entre los enfoques de máxima parsimonia y máxima verosimilitud en la construcción de árboles filogenéticos?",
+      "fr": "Selon le texte, quelle affirmation décrit avec précision une différence clé entre les approches de parcimonie maximale et de vraisemblance maximale dans la construction d'arbres phylogénétiques ?",
+      "de": "Welche Aussage beschreibt laut Text einen wesentlichen Unterschied zwischen den Ansätzen der maximalen Parsimonie und der maximalen Wahrscheinlichkeit bei der Konstruktion phylogenetischer Bäume?",
+      "ja": "本文に記述されているように、系統樹構築における最大節約法と最尤法のアプローチの間の主要な違いを正確に説明しているのは、次のどの記述ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Maximum parsimony seeks the tree with the fewest evolutionary events, while maximum likelihood identifies the tree most likely to have produced the data based on probability rules.",
+          "zh": "最大简约法旨在寻找具有最少演化事件的树，而最大似然法则根据概率规则识别最有可能产生现有数据的树。",
+          "es": "La máxima parsimonia busca el árbol con el menor número de eventos evolutivos, mientras que la máxima verosimilitud identifica el árbol que con mayor probabilidad produjo los datos basándose en reglas de probabilidad.",
+          "fr": "La parcimonie maximale recherche l'arbre avec le moins d'événements évolutifs, tandis que la vraisemblance maximale identifie l'arbre le plus susceptible d'avoir produit les données sur la base de règles de probabilité.",
+          "de": "Die maximale Parsimonie sucht den Baum mit den wenigsten evolutionären Ereignissen, während die maximale Wahrscheinlichkeit den Baum identifiziert, der die Daten basierend auf Wahrscheinlichkeitsregeln am wahrscheinlichsten hervorgebracht hat.",
+          "ja": "最大節約法は最小の進化イベントを持つツリーを探すのに対し、最尤法は確率ルールに基づいてデータが生成された可能性が最も高いツリーを特定します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Maximum parsimony is suitable for DNA sequences, whereas maximum likelihood is exclusively used for protein sequences.",
+          "zh": "最大简约法适用于DNA序列，而最大似然法专门用于蛋白质序列。",
+          "es": "La máxima parsimonia es adecuada para secuencias de ADN, mientras que la máxima verosimilitud se utiliza exclusivamente para secuencias de proteínas.",
+          "fr": "La parcimonie maximale convient aux séquences d'ADN, tandis que la vraisemblance maximale est exclusivement utilisée pour les séquences de protéines.",
+          "de": "Maximale Parsimonie ist für DNA-Sequenzen geeignet, während maximale Wahrscheinlichkeit ausschließlich für Proteinsequenzen verwendet wird.",
+          "ja": "最大節約法はDNA配列に適していますが、最尤法はタンパク質配列にのみ使用されます。"
+        },
+        "feedback": {
+          "en": "The text does not state that maximum likelihood is exclusively used for protein sequences; both methods can be applied to various molecular data.",
+          "zh": "文本并未说明最大似然法专门用于蛋白质序列；这两种方法都可以应用于各种分子数据。",
+          "es": "El texto no afirma que la máxima verosimilitud se utilice exclusivamente para secuencias de proteínas; ambos métodos pueden aplicarse a diversos datos moleculares.",
+          "fr": "Le texte ne stipule pas que la vraisemblance maximale est exclusivement utilisée pour les séquences protéiques ; les deux méthodes peuvent être appliquées à diverses données moléculaires.",
+          "de": "Der Text besagt nicht, dass maximale Wahrscheinlichkeit ausschließlich für Proteinsequenzen verwendet wird; beide Methoden können auf verschiedene molekulare Daten angewendet werden.",
+          "ja": "本文では、最尤法がタンパク質配列にのみ使用されるとは述べられていません。どちらの方法も様々な分子データに適用できます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Maximum parsimony considers all possible trees, but maximum likelihood only considers a subset of trees.",
+          "zh": "最大简约法考虑所有可能的树，但最大似然法只考虑树的一个子集。",
+          "es": "La máxima parsimonia considera todos los árboles posibles, pero la máxima verosimilitud solo considera un subconjunto de árboles.",
+          "fr": "La parcimonie maximale considère tous les arbres possibles, mais la vraisemblance maximale ne considère qu'un sous-ensemble d'arbres.",
+          "de": "Maximale Parsimonie berücksichtigt alle möglichen Bäume, während maximale Wahrscheinlichkeit nur eine Untermenge von Bäumen berücksichtigt.",
+          "ja": "最大節約法はすべての可能なツリーを考慮しますが、最尤法はツリーのサブセットのみを考慮します。"
+        },
+        "feedback": {
+          "en": "Both methods typically involve searching a large tree space, and computer programs are used for both to find the most likely or parsimonious tree, often not exhaustively considering 'all possible trees' especially for many species.",
+          "zh": "这两种方法通常都涉及搜索大量的树空间，并且都使用计算机程序来寻找最可能或最简约的树，尤其是在物种较多的情况下，通常不会详尽地考虑“所有可能的树”。",
+          "es": "Ambos métodos suelen implicar la búsqueda en un gran espacio de árboles, y se utilizan programas informáticos para ambos para encontrar el árbol más probable o parsimonioso, a menudo sin considerar exhaustivamente 'todos los árboles posibles', especialmente para muchas especies.",
+          "fr": "Les deux méthodes impliquent généralement la recherche dans un vaste espace d'arbres, et des programmes informatiques sont utilisés pour les deux afin de trouver l'arbre le plus probable ou le plus parcimonieux, souvent sans considérer de manière exhaustive 'tous les arbres possibles', en particulier pour de nombreuses espèces.",
+          "de": "Beide Methoden umfassen typischerweise die Suche in einem großen Baumraum, und Computerprogramme werden für beide verwendet, um den wahrscheinlichsten oder parsimonischsten Baum zu finden, wobei oft nicht 'alle möglichen Bäume' erschöpfend berücksichtigt werden, insbesondere bei vielen Arten.",
+          "ja": "どちらの方法も通常、広大なツリー空間の探索を伴い、特に多くの種の場合、最尤ツリーまたは最小節約ツリーを見つけるためにコンピュータープログラムが使用され、必ずしも「すべての可能なツリー」を網羅的に考慮するわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Maximum parsimony explicitly accounts for different rates of change among nucleotides, which maximum likelihood does not.",
+          "zh": "最大简约法明确考虑了核苷酸之间不同的变化速率，而最大似然法没有。",
+          "es": "La máxima parsimonia explica explícitamente las diferentes tasas de cambio entre nucleótidos, lo que la máxima verosimilitud no hace.",
+          "fr": "La parcimonie maximale tient explicitement compte des différentes vitesses de changement entre les nucléotides, ce que la vraisemblance maximale ne fait pas.",
+          "de": "Maximale Parsimonie berücksichtigt explizit unterschiedliche Änderungsraten zwischen Nukleotiden, was maximale Wahrscheinlichkeit nicht tut.",
+          "ja": "最大節約法はヌクレオチド間の異なる変化率を明示的に考慮しますが、最尤法は考慮しません。"
+        },
+        "feedback": {
+          "en": "The text indicates that maximum likelihood approaches 'can be devised to account for different rates of change among different nucleotides or at different positions in a gene,' while this is not a defining feature of simple maximum parsimony.",
+          "zh": "文本指出，最大似然法可以“设计来解释不同核苷酸之间或基因不同位置的不同变化速率”，而这并非简单最大简约法的定义特征。",
+          "es": "El texto indica que los enfoques de máxima verosimilitud 'pueden diseñarse para tener en cuenta las diferentes tasas de cambio entre diferentes nucleótidos o en diferentes posiciones de un gen', mientras que esto no es una característica definitoria de la máxima parsimonia simple.",
+          "fr": "Le texte indique que les approches de vraisemblance maximale « peuvent être conçues pour tenir compte des différentes vitesses de changement entre différents nucléotides ou à différentes positions dans un gène », alors que ce n'est pas une caractéristique définissante de la parcimonie maximale simple.",
+          "de": "Der Text weist darauf hin, dass maximale Wahrscheinlichkeitsansätze 'entwickelt werden können, um unterschiedliche Änderungsraten zwischen verschiedenen Nukleotiden oder an verschiedenen Positionen in einem Gen zu berücksichtigen', während dies kein definierendes Merkmal der einfachen maximalen Parsimonie ist.",
+          "ja": "本文は、最尤法のアプローチが「異なるヌクレオチド間または遺伝子の異なる位置での異なる変化率を考慮するように考案できる」と示しており、これは単純な最大節約法の決定的な特徴ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The first paragraph states, 'the most parsimonious tree requires the fewest base changes' and 'A maximum likelihood approach identifies the tree most likely to have produced a given set of DNA data based on certain probability rules about how DNA sequences change over time.' This directly aligns with option A.",
+      "zh": "第一段指出：“最简约的树需要最少的碱基变化”，以及“最大似然法则根据DNA序列随时间变化的特定概率规则，识别最有可能产生给定DNA数据的树”。这与选项A直接吻合。",
+      "es": "El primer párrafo establece que 'el árbol más parsimonioso requiere el menor número de cambios de base' y 'un enfoque de máxima verosimilitud identifica el árbol más probable de haber producido un conjunto dado de datos de ADN basado en ciertas reglas de probabilidad sobre cómo las secuencias de ADN cambian con el tiempo'. Esto se alinea directamente con la opción A.",
+      "fr": "Le premier paragraphe indique : « l'arbre le plus parcimonieux nécessite le moins de changements de bases » et « une approche de vraisemblance maximale identifie l'arbre le plus susceptible d'avoir produit un ensemble donné de données ADN basé sur certaines règles de probabilité concernant la manière dont les séquences ADN changent au fil du temps ». Cela correspond directement à l'option A.",
+      "de": "Der erste Absatz besagt: 'Der parsimonischste Baum erfordert die wenigsten Basenänderungen' und 'Ein Maximum-Likelihood-Ansatz identifiziert den Baum, der am wahrscheinlichsten einen gegebenen Satz von DNA-Daten basierend auf bestimmten Wahrscheinlichkeitsregeln über die zeitliche Veränderung von DNA-Sequenzen hervorgebracht hat.' Dies stimmt direkt mit Option A überein.",
+      "ja": "最初の段落には、「最も節約的なツリーは、最も少ない塩基変化を必要とする」とあり、「最尤法は、DNA配列が時間の経過とともにどのように変化するかについての特定の確率ルールに基づいて、所与のDNAデータを生成した可能性が最も高いツリーを特定する」と記述されています。これはオプションAと直接一致します。"
+    }
+  },
+  {
+    "page_number": 612,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the \"Results\" section of Figure 26.15, which of the three phylogenetic hypotheses presented is identified as the most parsimonious, and what is its total number of base-change events across all four sites?",
+      "zh": "根据图26.15的“结果”部分，所呈现的三种系统发育假说中，哪一种被认定为最简约的，并且它在所有四个位点上的总碱基变化事件数是多少？",
+      "es": "Según la sección \"Resultados\" de la Figura 26.15, ¿cuál de las tres hipótesis filogenéticas presentadas se identifica como la más parsimoniosa, y cuál es su número total de eventos de cambio de base en los cuatro sitios?",
+      "fr": "Selon la section « Résultats » de la Figure 26.15, quelle des trois hypothèses phylogénétiques présentées est identifiée comme la plus parcimonieuse, et quel est son nombre total d'événements de changement de base sur les quatre sites ?",
+      "de": "Basierend auf dem Abschnitt „Ergebnisse“ in Abbildung 26.15, welche der drei dargestellten phylogenetischen Hypothesen wird als die parsimonischste identifiziert und wie hoch ist die Gesamtzahl der Basenwechselereignisse an allen vier Stellen?",
+      "ja": "図26.15の「結果」セクションに基づくと、提示された3つの系統発生仮説のうち、どれが最も節約的であると特定され、4つの全てのサイトにおける塩基変化イベントの総数はいくつですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The first tree, with a total of 6 events.",
+          "zh": "第一棵树，总共有6个事件。",
+          "es": "El primer árbol, con un total de 6 eventos.",
+          "fr": "Le premier arbre, avec un total de 6 événements.",
+          "de": "Der erste Baum, mit insgesamt 6 Ereignissen.",
+          "ja": "最初のツリーで、合計6つのイベント。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The second tree, with a total of 7 events.",
+          "zh": "第二棵树，总共有7个事件。",
+          "es": "El segundo árbol, con un total de 7 eventos.",
+          "fr": "Le deuxième arbre, avec un total de 7 événements.",
+          "de": "Der zweite Baum, mit insgesamt 7 Ereignissen.",
+          "ja": "2番目のツリーで、合計7つのイベント。"
+        },
+        "feedback": {
+          "en": "While the second tree requires 7 events, it is not the most parsimonious compared to the first tree which only requires 6 events.",
+          "zh": "虽然第二棵树需要7个事件，但与只需要6个事件的第一棵树相比，它并不是最简约的。",
+          "es": "Aunque el segundo árbol requiere 7 eventos, no es el más parsimonioso en comparación con el primer árbol, que solo requiere 6 eventos.",
+          "fr": "Bien que le deuxième arbre nécessite 7 événements, il n'est pas le plus parcimonieux par rapport au premier arbre qui ne nécessite que 6 événements.",
+          "de": "Obwohl der zweite Baum 7 Ereignisse erfordert, ist er nicht der parsimonischste im Vergleich zum ersten Baum, der nur 6 Ereignisse erfordert.",
+          "ja": "2番目のツリーは7つのイベントを必要としますが、6つのイベントしか必要としない最初のツリーと比較すると、最も節約的ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The third tree, with a total of 7 events.",
+          "zh": "第三棵树，总共有7个事件。",
+          "es": "El tercer árbol, con un total de 7 eventos.",
+          "fr": "Le troisième arbre, avec un total de 7 événements.",
+          "de": "Der dritte Baum, mit insgesamt 7 Ereignissen.",
+          "ja": "3番目のツリーで、合計7つのイベント。"
+        },
+        "feedback": {
+          "en": "The third tree also requires 7 events, which is more than the 6 events required by the first tree, making it not the most parsimonious.",
+          "zh": "第三棵树也需要7个事件，这比第一棵树所需的6个事件更多，因此它不是最简约的。",
+          "es": "El tercer árbol también requiere 7 eventos, que es más que los 6 eventos requeridos por el primer árbol, lo que lo convierte en el menos parsimonioso.",
+          "fr": "Le troisième arbre nécessite également 7 événements, ce qui est plus que les 6 événements requis par le premier arbre, le rendant ainsi moins parcimonieux.",
+          "de": "Der dritte Baum erfordert ebenfalls 7 Ereignisse, was mehr ist als die 6 Ereignisse, die der erste Baum benötigt, was ihn nicht zum parsimonischsten macht.",
+          "ja": "3番目のツリーも7つのイベントを必要としますが、これは最初のツリーが必要とする6つのイベントよりも多いため、最も節約的ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All three trees are equally parsimonious, each requiring 7 events.",
+          "zh": "所有三棵树都同样简约，每棵树都需要7个事件。",
+          "es": "Los tres árboles son igualmente parsimoniosos, cada uno requiere 7 eventos.",
+          "fr": "Les trois arbres sont également parcimonieux, chacun nécessitant 7 événements.",
+          "de": "Alle drei Bäume sind gleich parsimonisch und erfordern jeweils 7 Ereignisse.",
+          "ja": "3つのツリーすべてが同じくらい節約的で、それぞれ7つのイベントが必要です。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The 'Results' section explicitly states that the first tree is the most parsimonious and requires 6 events, while the other two require 7 events.",
+          "zh": "这是不正确的。“结果”部分明确指出，第一棵树是最简约的，需要6个事件，而另外两棵树需要7个事件。",
+          "es": "Esto es incorrecto. La sección 'Resultados' establece explícitamente que el primer árbol es el más parsimonioso y requiere 6 eventos, mientras que los otros dos requieren 7 eventos.",
+          "fr": "C'est incorrect. La section « Résultats » indique explicitement que le premier arbre est le plus parcimonieux et nécessite 6 événements, tandis que les deux autres nécessitent 7 événements.",
+          "de": "Dies ist falsch. Der Abschnitt „Ergebnisse“ besagt explizit, dass der erste Baum der parsimonischste ist und 6 Ereignisse erfordert, während die anderen beiden 7 Ereignisse erfordern.",
+          "ja": "これは誤りです。「結果」セクションでは、最初のツリーが最も節約的であり6つのイベントを必要とし、他の2つのツリーは7つのイベントを必要とすると明示されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The 'Results' section states: 'We conclude that the first tree is the most parsimonious of the three possible phylogenies.' The accompanying diagrams clearly show that the first tree requires '6 events' in total, while the other two require '7 events' each.",
+      "zh": "“结果”部分指出：“我们得出结论，第一棵树是三种可能系统发育中最简约的。” 附带的图表清楚地显示，第一棵树总共需要“6个事件”，而其他两棵树各需要“7个事件”。",
+      "es": "La sección \"Resultados\" establece: 'Concluimos que el primer árbol es el más parsimonioso de las tres posibles filogenias'. Los diagramas adjuntos muestran claramente que el primer árbol requiere un total de '6 eventos', mientras que los otros dos requieren '7 eventos' cada uno.",
+      "fr": "La section « Résultats » indique : « Nous concluons que le premier arbre est le plus parcimonieux des trois phylogénies possibles. » Les diagrammes qui l'accompagnent montrent clairement que le premier arbre nécessite un total de « 6 événements », tandis que les deux autres nécessitent chacun « 7 événements ».",
+      "de": "Der Abschnitt „Ergebnisse“ besagt: „Wir schließen, dass der erste Baum der parsimonischste der drei möglichen Phylogenien ist.“ Die begleitenden Diagramme zeigen deutlich, dass der erste Baum insgesamt „6 Ereignisse“ erfordert, während die beiden anderen jeweils „7 Ereignisse“ erfordern.",
+      "ja": "「結果」セクションには、「我々は、最初のツリーが3つの可能な系統樹の中で最も節約的であると結論付ける」と記述されています。付属の図は、最初のツリーが合計「6つのイベント」を必要とするのに対し、他の2つはそれぞれ「7つのイベント」を必要とすることを明確に示しています。"
+    }
+  },
+  {
+    "page_number": 612,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "In the \"Applying Parsimony to a Problem in Molecular Systematics\" technique described in Figure 26.15, what do the \"purple hatch marks\" found on the branches of the phylogenetic trees specifically represent?",
+      "zh": "在图26.15描述的“将简约性应用于分子系统学问题”技术中，系统发育树分支上出现的“紫色斜线标记”具体代表什么？",
+      "es": "En la técnica de \"Aplicación de la Parsimonia a un Problema en Sistemática Molecular\" descrita en la Figura 26.15, ¿qué representan específicamente las \"marcas de sombreado moradas\" que se encuentran en las ramas de los árboles filogenéticos?",
+      "fr": "Dans la technique « Application de la parcimonie à un problème en systématique moléculaire » décrite dans la Figure 26.15, que représentent spécifiquement les « marques hachurées violettes » trouvées sur les branches des arbres phylogénétiques ?",
+      "de": "Was stellen die „violetten Schraffuren“, die sich an den Ästen der phylogenetischen Bäume in der in Abbildung 26.15 beschriebenen Methode „Anwendung der Parsimonie auf ein Problem der molekularen Systematik“ befinden, spezifisch dar?",
+      "ja": "図26.15に記述されている「分子系統学の問題への節約の適用」という手法において、系統樹の枝に見られる「紫色のハッチマーク」は具体的に何を表していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The length of the evolutionary branch.",
+          "zh": "演化分支的长度。",
+          "es": "La longitud de la rama evolutiva.",
+          "fr": "La longueur de la branche évolutive.",
+          "de": "Die Länge des evolutionären Astes.",
+          "ja": "進化の枝の長さ。"
+        },
+        "feedback": {
+          "en": "While base changes contribute to branch length, the hatch marks specifically indicate discrete evolutionary events, not continuous length.",
+          "zh": "虽然碱基变化会影响分支长度，但斜线标记特指离散的演化事件，而非连续的长度。",
+          "es": "Aunque los cambios de base contribuyen a la longitud de la rama, las marcas de sombreado indican específicamente eventos evolutivos discretos, no una longitud continua.",
+          "fr": "Bien que les changements de bases contribuent à la longueur des branches, les hachures indiquent spécifiquement des événements évolutifs discrets, et non une longueur continue.",
+          "de": "Basenwechsel tragen zwar zur Astlänge bei, aber die Schraffuren kennzeichnen spezifisch diskrete evolutionäre Ereignisse, nicht die kontinuierliche Länge.",
+          "ja": "塩基の変化は枝の長さに寄与しますが、ハッチマークは具体的な進化イベントを示しており、連続的な長さを表しているわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A single base-change event.",
+          "zh": "一次单一的碱基变化事件。",
+          "es": "Un único evento de cambio de base.",
+          "fr": "Un seul événement de changement de base.",
+          "de": "Ein einzelnes Basenwechselereignis.",
+          "ja": "単一の塩基変化イベント。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A common ancestor shared by the species.",
+          "zh": "物种共享的共同祖先。",
+          "es": "Un ancestro común compartido por las especies.",
+          "fr": "Un ancêtre commun partagé par les espèces.",
+          "de": "Ein gemeinsamer Vorfahre der Arten.",
+          "ja": "種が共有する共通祖先。"
+        },
+        "feedback": {
+          "en": "Common ancestors are represented by the nodes (branching points) in the phylogenetic tree, not the hatch marks.",
+          "zh": "共同祖先由系统发育树中的节点（分叉点）表示，而不是斜线标记。",
+          "es": "Los ancestros comunes están representados por los nodos (puntos de ramificación) en el árbol filogenético, no por las marcas de sombreado.",
+          "fr": "Les ancêtres communs sont représentés par les nœuds (points de ramification) de l'arbre phylogénétique, et non par les hachures.",
+          "de": "Gemeinsame Vorfahren werden durch die Knoten (Verzweigungspunkte) im phylogenetischen Baum dargestellt, nicht durch die Schraffuren.",
+          "ja": "共通祖先は系統樹のノード（分岐点）で表され、ハッチマークではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A point of speciation.",
+          "zh": "一个物种形成点。",
+          "es": "Un punto de especiación.",
+          "fr": "Un point de spéciation.",
+          "de": "Ein Punkt der Artbildung.",
+          "ja": "種分化のポイント。"
+        },
+        "feedback": {
+          "en": "Speciation events typically occur at the nodes where branches diverge, not along the branches as indicated by hatch marks.",
+          "zh": "物种形成事件通常发生在分支分化的节点处，而不是斜线标记所示的分支上。",
+          "es": "Los eventos de especiación suelen ocurrir en los nodos donde las ramas divergen, no a lo largo de las ramas como lo indican las marcas de sombreado.",
+          "fr": "Les événements de spéciation se produisent généralement aux nœuds où les branches divergent, et non le long des branches comme l'indiquent les hachures.",
+          "de": "Artbildungsereignisse treten typischerweise an den Knoten auf, an denen sich Äste aufteilen, und nicht entlang der Äste, wie durch Schraffuren angezeigt.",
+          "ja": "種分化イベントは通常、枝が分岐するノードで発生し、ハッチマークが示すように枝に沿ってではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Step 3 of the 'Technique' section explicitly states: 'In the tree on the left, a single base-change event, represented by the purple hatch mark on the branch leading to species I and II (and labeled 1/C, indicating a change at site 1 to nucleotide C), is sufficient to account for the site 1 data.' This confirms that the purple hatch marks signify base-change events.",
+      "zh": "“技术”部分的第3步明确指出：“在左边的树中，一个单一的碱基变化事件，由连接到物种I和II的分支上的紫色斜线标记表示（并标记为1/C，表示在位点1发生向核苷酸C的变化），足以解释位点1的数据。” 这证实了紫色斜线标记表示碱基变化事件。",
+      "es": "El paso 3 de la sección 'Técnica' establece explícitamente: 'En el árbol de la izquierda, un único evento de cambio de base, representado por la marca de sombreado morada en la rama que conduce a las especies I y II (y etiquetado como 1/C, indicando un cambio en el sitio 1 a nucleótido C), es suficiente para explicar los datos del sitio 1'. Esto confirma que las marcas de sombreado moradas significan eventos de cambio de base.",
+      "fr": "L'étape 3 de la section « Technique » indique explicitement : « Dans l'arbre de gauche, un seul événement de changement de base, représenté par la marque hachurée violette sur la branche menant aux espèces I et II (et étiquetée 1/C, indiquant un changement au site 1 vers le nucléotide C), est suffisant pour rendre compte des données du site 1. » Cela confirme que les marques hachurées violettes signifient des événements de changement de base.",
+      "de": "Schritt 3 des Abschnitts „Technik“ besagt explizit: „Im linken Baum reicht ein einzelnes Basenwechselereignis, dargestellt durch die violette Schraffur am Ast, der zu den Arten I und II führt (und mit 1/C beschriftet ist, was eine Änderung an Position 1 zu Nukleotid C anzeigt), aus, um die Daten von Position 1 zu erklären.“ Dies bestätigt, dass die violetten Schraffuren Basenwechselereignisse bedeuten.",
+      "ja": "「テクニック」セクションのステップ3では、「左のツリーでは、種IとIIへの枝にある紫色のハッチマークで示される単一の塩基変化イベント（および1/Cとラベル付けされ、サイト1でのヌクレオチドCへの変化を示す）が、サイト1のデータを説明するのに十分である」と明示されています。これにより、紫色のハッチマークが塩基変化イベントを示すことが確認されます。"
+    }
+  },
+  {
+    "page_number": 612,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Imagine a fifth molecular site (Site 5) is analyzed for the three beetle species. If the analysis reveals that for Site 5, Tree 1 requires 2 base-change events, Tree 2 requires 1 base-change event, and Tree 3 requires 2 base-change events, what would be the new conclusion regarding the most parsimonious tree(s) based on all five sites? (Refer to the original results for Sites 1-4).",
+      "zh": "假设对三种甲虫物种的第五个分子位点（位点5）进行了分析。如果分析结果显示，对于位点5，树1需要2个碱基变化事件，树2需要1个碱基变化事件，树3需要2个碱基变化事件，那么根据所有五个位点的结果，关于最简约树的新结论会是什么？（请参考位点1-4的原始结果）。",
+      "es": "Imagine que se analiza un quinto sitio molecular (Sitio 5) para las tres especies de escarabajos. Si el análisis revela que para el Sitio 5, el Árbol 1 requiere 2 eventos de cambio de base, el Árbol 2 requiere 1 evento de cambio de base y el Árbol 3 requiere 2 eventos de cambio de base, ¿cuál sería la nueva conclusión sobre el/los árbol/es más parsimonioso/s basándose en los cinco sitios? (Consulte los resultados originales para los Sitios 1-4).",
+      "fr": "Imaginez qu'un cinquième site moléculaire (Site 5) soit analysé pour les trois espèces de coléoptères. Si l'analyse révèle que pour le Site 5, l'Arbre 1 nécessite 2 événements de changement de base, l'Arbre 2 nécessite 1 événement de changement de base, et l'Arbre 3 nécessite 2 événements de changement de base, quelle serait la nouvelle conclusion concernant le ou les arbres les plus parcimonieux basés sur les cinq sites ? (Référez-vous aux résultats originaux pour les Sites 1-4).",
+      "de": "Stellen Sie sich vor, ein fünfter molekularer Standort (Standort 5) wird für die drei Käferarten analysiert. Wenn die Analyse zeigt, dass für Standort 5 Baum 1 zwei Basenwechselereignisse, Baum 2 ein Basenwechselereignis und Baum 3 zwei Basenwechselereignisse erfordert, wie würde die neue Schlussfolgerung bezüglich des/der parsimonischsten Baumes/Bäume auf der Grundlage aller fünf Standorte lauten? (Beziehen Sie sich auf die ursprünglichen Ergebnisse für die Standorte 1-4).",
+      "ja": "カブトムシ3種の5番目の分子サイト（サイト5）が分析されたとします。サイト5の分析結果、ツリー1が2つの塩基変化イベントを必要とし、ツリー2が1つの塩基変化イベントを必要とし、ツリー3が2つの塩基変化イベントを必要とすることが判明した場合、これら5つのサイトすべてに基づいた最も節約的なツリーに関する新しい結論は何になりますか？（サイト1〜4の元の結果を参照してください）。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Tree 1 remains the sole most parsimonious tree with 8 events.",
+          "zh": "树1仍然是唯一最简约的树，共有8个事件。",
+          "es": "El Árbol 1 sigue siendo el único árbol más parsimonioso con 8 eventos.",
+          "fr": "L'Arbre 1 reste le seul arbre le plus parcimonieux avec 8 événements.",
+          "de": "Baum 1 bleibt der einzige parsimonischste Baum mit 8 Ereignissen.",
+          "ja": "ツリー1が唯一の最も節約的なツリーで、8つのイベントがあります。"
+        },
+        "feedback": {
+          "en": "While Tree 1 now has 8 events (6 original + 2 new), Tree 2 also results in 8 events (7 original + 1 new), making them equally parsimonious.",
+          "zh": "虽然树1现在有8个事件（原有6个+新增2个），但树2也总共有8个事件（原有7个+新增1个），因此它们同样简约。",
+          "es": "Aunque el Árbol 1 ahora tiene 8 eventos (6 originales + 2 nuevos), el Árbol 2 también resulta en 8 eventos (7 originales + 1 nuevo), lo que los hace igualmente parsimoniosos.",
+          "fr": "Bien que l'Arbre 1 ait maintenant 8 événements (6 originaux + 2 nouveaux), l'Arbre 2 totalise également 8 événements (7 originaux + 1 nouveau), les rendant ainsi également parcimonieux.",
+          "de": "Obwohl Baum 1 nun 8 Ereignisse hat (6 ursprüngliche + 2 neue), ergibt Baum 2 ebenfalls 8 Ereignisse (7 ursprüngliche + 1 neues), was sie gleichermaßen parsimonisch macht.",
+          "ja": "ツリー1は現在8つのイベント（元の6つ+新しい2つ）を持っていますが、ツリー2も8つのイベント（元の7つ+新しい1つ）になるため、両方とも同じくらい節約的です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Tree 2 becomes the sole most parsimonious tree with 8 events.",
+          "zh": "树2成为唯一最简约的树，共有8个事件。",
+          "es": "El Árbol 2 se convierte en el único árbol más parsimonioso con 8 eventos.",
+          "fr": "L'Arbre 2 devient le seul arbre le plus parcimonieux avec 8 événements.",
+          "de": "Baum 2 wird der einzige parsimonischste Baum mit 8 Ereignissen.",
+          "ja": "ツリー2が唯一の最も節約的なツリーで、8つのイベントがあります。"
+        },
+        "feedback": {
+          "en": "Tree 2 indeed now has 8 events (7 original + 1 new), but Tree 1 also results in 8 events (6 original + 2 new), meaning Tree 2 is not the *sole* most parsimonious.",
+          "zh": "树2现在确实有8个事件（原有7个+新增1个），但树1也总共有8个事件（原有6个+新增2个），这意味着树2并非唯一最简约的。",
+          "es": "El Árbol 2 ahora tiene 8 eventos (7 originales + 1 nuevo), pero el Árbol 1 también resulta en 8 eventos (6 originales + 2 nuevos), lo que significa que el Árbol 2 no es el *único* más parsimonioso.",
+          "fr": "L'Arbre 2 a effectivement maintenant 8 événements (7 originaux + 1 nouveau), mais l'Arbre 1 totalise également 8 événements (6 originaux + 2 nouveaux), ce qui signifie que l'Arbre 2 n'est pas le *seul* plus parcimonieux.",
+          "de": "Baum 2 hat nun tatsächlich 8 Ereignisse (7 ursprüngliche + 1 neues), aber Baum 1 ergibt ebenfalls 8 Ereignisse (6 ursprüngliche + 2 neue), was bedeutet, dass Baum 2 nicht der *einzige* parsimonischste ist.",
+          "ja": "ツリー2は確かに8つのイベント（元の7つ+新しい1つ）になりましたが、ツリー1も8つのイベント（元の6つ+新しい2つ）になるため、ツリー2が*唯一*の最も節約的ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both Tree 1 and Tree 2 are now equally the most parsimonious, each requiring 8 events.",
+          "zh": "树1和树2现在同样是最简约的，每棵树都需要8个事件。",
+          "es": "Tanto el Árbol 1 como el Árbol 2 son ahora igualmente los más parsimoniosos, cada uno requiriendo 8 eventos.",
+          "fr": "Les Arbres 1 et 2 sont maintenant également les plus parcimonieux, chacun nécessitant 8 événements.",
+          "de": "Sowohl Baum 1 als auch Baum 2 sind jetzt gleichermaßen die parsimonischsten, wobei jeder 8 Ereignisse erfordert.",
+          "ja": "ツリー1とツリー2は、どちらも8つのイベントを必要とし、同じくらい節約的です。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Tree 3 becomes the most parsimonious tree with 9 events.",
+          "zh": "树3成为最简约的树，共有9个事件。",
+          "es": "El Árbol 3 se convierte en el árbol más parsimonioso con 9 eventos.",
+          "fr": "L'Arbre 3 devient l'arbre le plus parcimonieux avec 9 événements.",
+          "de": "Baum 3 wird der parsimonischste Baum mit 9 Ereignissen.",
+          "ja": "ツリー3が最も節約的なツリーで、9つのイベントがあります。"
+        },
+        "feedback": {
+          "en": "Tree 3 would now have 9 events (7 original + 2 new), which is more than the 8 events for Tree 1 and Tree 2, meaning it is not the most parsimonious.",
+          "zh": "树3现在将有9个事件（原有7个+新增2个），这比树1和树2的8个事件多，意味着它不是最简约的。",
+          "es": "El Árbol 3 ahora tendría 9 eventos (7 originales + 2 nuevos), lo cual es más que los 8 eventos del Árbol 1 y el Árbol 2, lo que significa que no es el más parsimonioso.",
+          "fr": "L'Arbre 3 aurait maintenant 9 événements (7 originaux + 2 nouveaux), ce qui est plus que les 8 événements de l'Arbre 1 et de l'Arbre 2, ce qui signifie qu'il n'est pas le plus parcimonieux.",
+          "de": "Baum 3 hätte nun 9 Ereignisse (7 ursprüngliche + 2 neue), was mehr ist als die 8 Ereignisse für Baum 1 und Baum 2, was bedeutet, dass er nicht der parsimonischste ist.",
+          "ja": "ツリー3は現在9つのイベント（元の7つ+新しい2つ）になり、ツリー1とツリー2の8つのイベントよりも多いため、最も節約的ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "To determine the new most parsimonious tree(s), we sum the original event counts (from Sites 1-4) with the new event counts for Site 5: Tree 1: 6 (original) + 2 (Site 5) = 8 events. Tree 2: 7 (original) + 1 (Site 5) = 8 events. Tree 3: 7 (original) + 2 (Site 5) = 9 events. Comparing the new totals, both Tree 1 and Tree 2 require the fewest events (8 each), making them equally the most parsimonious.",
+      "zh": "为了确定新的最简约树，我们将原有事件数（位点1-4）与位点5的新增事件数相加：树1：6（原有）+ 2（位点5）= 8个事件。树2：7（原有）+ 1（位点5）= 8个事件。树3：7（原有）+ 2（位点5）= 9个事件。比较新的总数，树1和树2都需要最少的事件（各8个），因此它们同样是最简约的。",
+      "es": "Para determinar el/los nuevo/s árbol/es más parsimonioso/s, sumamos los recuentos de eventos originales (de los Sitios 1-4) con los nuevos recuentos de eventos para el Sitio 5: Árbol 1: 6 (original) + 2 (Sitio 5) = 8 eventos. Árbol 2: 7 (original) + 1 (Sitio 5) = 8 eventos. Árbol 3: 7 (original) + 2 (Sitio 5) = 9 eventos. Comparando los nuevos totales, tanto el Árbol 1 como el Árbol 2 requieren el menor número de eventos (8 cada uno), lo que los convierte en igualmente los más parsimoniosos.",
+      "fr": "Pour déterminer le ou les nouveaux arbres les plus parcimonieux, nous additionnons le nombre d'événements originaux (Sites 1-4) avec le nombre de nouveaux événements pour le Site 5 : Arbre 1 : 6 (original) + 2 (Site 5) = 8 événements. Arbre 2 : 7 (original) + 1 (Site 5) = 8 événements. Arbre 3 : 7 (original) + 2 (Site 5) = 9 événements. En comparant les nouveaux totaux, les Arbres 1 et 2 nécessitent le moins d'événements (8 chacun), ce qui les rend également les plus parcimonieux.",
+      "de": "Um den/die neuen parsimonischsten Baum/Bäume zu bestimmen, addieren wir die ursprünglichen Ereigniszahlen (von den Standorten 1-4) mit den neuen Ereigniszahlen für Standort 5: Baum 1: 6 (ursprünglich) + 2 (Standort 5) = 8 Ereignisse. Baum 2: 7 (ursprünglich) + 1 (Standort 5) = 8 Ereignisse. Baum 3: 7 (ursprünglich) + 2 (Standort 5) = 9 Ereignisse. Beim Vergleich der neuen Gesamtzahlen erfordern sowohl Baum 1 als auch Baum 2 die wenigsten Ereignisse (jeweils 8), wodurch sie gleichermaßen die parsimonischsten sind.",
+      "ja": "新しい最も節約的なツリーを決定するには、元のイベント数（サイト1-4から）とサイト5の新しいイベント数を合計します。ツリー1：6（元）+ 2（サイト5）= 8イベント。ツリー2：7（元）+ 1（サイト5）= 8イベント。ツリー3：7（元）+ 2（サイト5）= 9イベント。新しい合計を比較すると、ツリー1とツリー2の両方が最も少ないイベント（それぞれ8つ）を必要とするため、両方が同じくらい節約的です。"
+    }
+  }
+]

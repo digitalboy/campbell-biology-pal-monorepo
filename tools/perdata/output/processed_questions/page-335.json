@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the underlying molecular cause of cystic fibrosis?",
+      "zh": "囊性纤维化的根本分子原因是什么？",
+      "es": "¿Cuál es la causa molecular subyacente de la fibrosis quística?",
+      "fr": "Quelle est la cause moléculaire sous-jacente de la mucoviscidose ?",
+      "de": "Was ist die zugrunde liegende molekulare Ursache der Mukoviszidose?",
+      "ja": "嚢胞性線維症の根底にある分子的原因は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A substitution of a single amino acid in the hemoglobin protein.",
+          "zh": "血红蛋白中的单个氨基酸被替换。",
+          "es": "Una sustitución de un solo aminoácido en la proteína de la hemoglobina.",
+          "fr": "Une substitution d'un seul acide aminé dans la protéine d'hémoglobine.",
+          "de": "Eine Substitution einer einzelnen Aminosäure im Hämoglobinprotein.",
+          "ja": "ヘモグロビンタンパク質における単一アミノ酸の置換。"
+        },
+        "feedback": {
+          "en": "This is the cause of sickle-cell disease, not cystic fibrosis.",
+          "zh": "这是镰状细胞病的原因，而不是囊性纤维化。",
+          "es": "Esta es la causa de la enfermedad de células falciformes, no de la fibrosis quística.",
+          "fr": "C'est la cause de la drépanocytose, pas de la mucoviscidose.",
+          "de": "Dies ist die Ursache der Sichelzellkrankheit, nicht der Mukoviszidose.",
+          "ja": "これは嚢胞性線維症ではなく、鎌状赤血球症の原因です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Defective or absent chloride transport channels in plasma membranes.",
+          "zh": "质膜中氯离子运输通道有缺陷或缺失。",
+          "es": "Canales de transporte de cloruro defectuosos o ausentes en las membranas plasmáticas.",
+          "fr": "Canaux de transport du chlorure défectueux ou absents dans les membranes plasmiques.",
+          "de": "Defekte oder fehlende Chloridtransportkanäle in Plasmamembranen.",
+          "ja": "細胞膜における塩化物輸送チャネルの欠陥または欠如。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "An unusually high frequency of heterozygotes in the population.",
+          "zh": "人群中杂合子的频率异常高。",
+          "es": "Una frecuencia inusualmente alta de heterocigotos en la población.",
+          "fr": "Une fréquence inhabituellement élevée d'hétérozygotes dans la population.",
+          "de": "Eine ungewöhnlich hohe Häufigkeit von Heterozygoten in der Population.",
+          "ja": "集団におけるヘテロ接合体の異常に高い頻度。"
+        },
+        "feedback": {
+          "en": "This is a population-level observation (like for sickle-cell trait), not the direct cause of the disease within an individual.",
+          "zh": "这是一个群体水平的观察结果（如镰状细胞性状），而不是个体内部疾病的直接原因。",
+          "es": "Esta es una observación a nivel de población (como para el rasgo de células falciformes), no la causa directa de la enfermedad dentro de un individuo.",
+          "fr": "Il s'agit d'une observation au niveau de la population (comme pour le trait drépanocytaire), et non de la cause directe de la maladie chez un individu.",
+          "de": "Dies ist eine Beobachtung auf Bevölkerungsebene (wie beim Sichelzellmerkmal), nicht die direkte Ursache der Krankheit innerhalb eines Individuums.",
+          "ja": "これは（鎌状赤血球形質のように）集団レベルの観察であり、個人内の疾患の直接的な原因ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The aggregation of hemoglobin proteins into long fibers under low oxygen.",
+          "zh": "在低氧条件下，血红蛋白聚合成长纤维。",
+          "es": "La agregación de proteínas de hemoglobina en fibras largas con poco oxígeno.",
+          "fr": "L'agrégation des protéines d'hémoglobine en longues fibres en cas de faible teneur en oxygène.",
+          "de": "Die Aggregation von Hämoglobinproteinen zu langen Fasern bei niedrigem Sauerstoffgehalt.",
+          "ja": "低酸素下でのヘモグロビンタンパク質の長い繊維への凝集。"
+        },
+        "feedback": {
+          "en": "This describes the pathophysiology of sickle-cell disease.",
+          "zh": "这描述的是镰状细胞病的病理生理学。",
+          "es": "Esto describe la fisiopatología de la enfermedad de células falciformes.",
+          "fr": "Ceci décrit la physiopathologie de la drépanocytose.",
+          "de": "Dies beschreibt die Pathophysiologie der Sichelzellkrankheit.",
+          "ja": "これは鎌状赤血球症の病態生理を説明しています。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text clearly states that the normal allele for the cystic fibrosis gene codes for a membrane protein that transports chloride ions. In affected individuals, these channels are 'defective or absent,' leading to the symptoms of the disease.",
+      "zh": "文本明确指出，囊性纤维化基因的正常等位基因编码一种运输氯离子的膜蛋白。在受影响的个体中，这些通道“有缺陷或缺失”，从而导致疾病症状。",
+      "es": "El texto establece claramente que el alelo normal para el gen de la fibrosis quística codifica una proteína de membrana que transporta iones de cloruro. En los individuos afectados, estos canales son 'defectuosos o están ausentes', lo que conduce a los síntomas de la enfermedad.",
+      "fr": "Le texte indique clairement que l'allèle normal du gène de la mucoviscidose code pour une protéine membranaire qui transporte les ions chlorure. Chez les personnes atteintes, ces canaux sont « défectueux ou absents », ce qui entraîne les symptômes de la maladie.",
+      "de": "Der Text besagt eindeutig, dass das normale Allel für das Mukoviszidose-Gen für ein Membranprotein kodiert, das Chloridionen transportiert. Bei betroffenen Personen sind diese Kanäle „defekt oder fehlen“, was zu den Symptomen der Krankheit führt.",
+      "ja": "本文では、嚢胞性線維症遺伝子の正常な対立遺伝子は、塩化物イオンを輸送する膜タンパク質をコードしていると明確に述べられています。罹患した個人では、これらのチャネルが「欠陥があるか欠損している」ため、疾患の症状につながります。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Sickle-cell disease illustrates complex dominance relationships. Which statement correctly describes these relationships at the organismal and molecular levels?",
+      "zh": "镰状细胞病展示了复杂的显性关系。哪个陈述正确地描述了在个体和分子水平上的这些关系？",
+      "es": "La enfermedad de células falciformes ilustra relaciones de dominancia complejas. ¿Qué enunciado describe correctamente estas relaciones a nivel organísmico y molecular?",
+      "fr": "La drépanocytose illustre des relations de dominance complexes. Quelle affirmation décrit correctement ces relations aux niveaux de l'organisme et moléculaire ?",
+      "de": "Die Sichelzellkrankheit veranschaulicht komplexe Dominanzverhältnisse. Welche Aussage beschreibt diese Verhältnisse auf organismischer und molekularer Ebene korrekt?",
+      "ja": "鎌状赤血球症は複雑な優性関係を示しています。個体レベルと分子レベルでのこれらの関係を正しく説明している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Incomplete dominance at the organismal level, codominance at the molecular level.",
+          "zh": "在个体水平上是不完全显性，在分子水平上是共显性。",
+          "es": "Dominancia incompleta a nivel organísmico, codominancia a nivel molecular.",
+          "fr": "Dominance incomplète au niveau de l'organisme, codominance au niveau moléculaire.",
+          "de": "Unvollständige Dominanz auf organismischer Ebene, Kodominanz auf molekularer Ebene.",
+          "ja": "個体レベルでは不完全優性、分子レベルでは共優性。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Codominance at the organismal level, incomplete dominance at the molecular level.",
+          "zh": "在个体水平上是共显性，在分子水平上是不完全显性。",
+          "es": "Codominancia a nivel organísmico, dominancia incompleta a nivel molecular.",
+          "fr": "Codominance au niveau de l'organisme, dominance incomplète au niveau moléculaire.",
+          "de": "Kodominanz auf organismischer Ebene, unvollständige Dominanz auf molekularer Ebene.",
+          "ja": "個体レベルでは共優性、分子レベルでは不完全優性。"
+        },
+        "feedback": {
+          "en": "This reverses the correct relationship. The organism shows an intermediate phenotype (incomplete dominance), while the molecules themselves are both fully expressed (codominance).",
+          "zh": "这颠倒了正确的关系。生物体表现出中间表型（不完全显性），而分子本身则都完全表达（共显性）。",
+          "es": "Esto invierte la relación correcta. El organismo muestra un fenotipo intermedio (dominancia incompleta), mientras que las moléculas mismas se expresan completamente (codominancia).",
+          "fr": "Cela inverse la relation correcte. L'organisme présente un phénotype intermédiaire (dominance incomplète), tandis que les molécules elles-mêmes sont toutes deux pleinement exprimées (codominance).",
+          "de": "Dies kehrt die korrekte Beziehung um. Der Organismus zeigt einen intermediären Phänotyp (unvollständige Dominanz), während die Moleküle selbst beide vollständig exprimiert werden (Kodominanz).",
+          "ja": "これは正しい関係を逆にしています。生物は中間的な表現型（不完全優性）を示しますが、分子自体は両方とも完全に発現しています（共優性）。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Complete dominance at both the organismal and molecular levels.",
+          "zh": "在个体和分子水平上都是完全显性。",
+          "es": "Dominancia completa tanto a nivel organísmico como molecular.",
+          "fr": "Dominance complète aux niveaux de l'organisme et moléculaire.",
+          "de": "Vollständige Dominanz sowohl auf organismischer als auch auf molekularer Ebene.",
+          "ja": "個体レベルと分子レベルの両方で完全優性。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The fact that heterozygotes can show symptoms and produce both types of hemoglobin proves it is not complete dominance at either level.",
+          "zh": "这是不正确的。杂合子可以表现出症状并产生两种类型的血红蛋白，这一事实证明在任何一个层面上它都不是完全显性。",
+          "es": "Esto es incorrecto. El hecho de que los heterocigotos puedan mostrar síntomas y producir ambos tipos de hemoglobina demuestra que no es una dominancia completa en ninguno de los niveles.",
+          "fr": "C'est incorrect. Le fait que les hétérozygotes puissent présenter des symptômes et produire les deux types d'hémoglobine prouve qu'il ne s'agit pas d'une dominance complète à aucun des deux niveaux.",
+          "de": "Das ist falsch. Die Tatsache, dass Heterozygote Symptome zeigen und beide Arten von Hämoglobin produzieren können, beweist, dass es auf keiner Ebene eine vollständige Dominanz gibt.",
+          "ja": "これは正しくありません。ヘテロ接合体が症状を示し、両方のタイプのヘモグロビンを産生できるという事実は、どちらのレベルでも完全優性ではないことを証明しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Recessive at the organismal level, codominant at the molecular level.",
+          "zh": "在个体水平上是隐性，在分子水平上是共显性。",
+          "es": "Recesivo a nivel organísmico, codominante a nivel molecular.",
+          "fr": "Récessif au niveau de l'organisme, codominant au niveau moléculaire.",
+          "de": "Rezessiv auf organismischer Ebene, kodominant auf molekularer Ebene.",
+          "ja": "個体レベルでは劣性、分子レベルでは共優性。"
+        },
+        "feedback": {
+          "en": "While the disease is considered recessive (you need two alleles to have the full disease), the heterozygote phenotype is not completely normal, which is why it's classified as incomplete dominance, not simple recessive.",
+          "zh": "虽然这种疾病被认为是隐性的（你需要两个等位基因才会完全发病），但杂合子的表型并非完全正常，这就是为什么它被归类为不完全显性，而不是简单的隐性。",
+          "es": "Si bien la enfermedad se considera recesiva (se necesitan dos alelos para tener la enfermedad completa), el fenotipo heterocigoto no es completamente normal, por lo que se clasifica como dominancia incompleta, no como recesivo simple.",
+          "fr": "Bien que la maladie soit considérée comme récessive (il faut deux allèles pour avoir la maladie complète), le phénotype hétérozygote n'est pas complètement normal, c'est pourquoi il est classé comme dominance incomplète, et non comme simple récessif.",
+          "de": "Obwohl die Krankheit als rezessiv gilt (man benötigt zwei Allele, um die vollständige Krankheit zu haben), ist der heterozygote Phänotyp nicht vollständig normal, weshalb er als unvollständige Dominanz und nicht als einfach rezessiv eingestuft wird.",
+          "ja": "この病気は劣性であると考えられていますが（完全な病気になるには2つの対立遺伝子が必要です）、ヘテロ接合体の表現型は完全に正常ではないため、単純な劣性ではなく不完全優性に分類されます。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "The text explicitly states: 'at the organismal level, the normal allele is incompletely dominant to the sickle-cell allele.' It also says, 'At the molecular level, the two alleles are codominant; both normal and abnormal (sickle-cell) hemoglobins are made in heterozygotes.' This demonstrates how dominance can be context-dependent.",
+      "zh": "文本明确指出：“在个体水平上，正常等位基因相对于镰状细胞等位基因是不完全显性的。” 它还说：“在分子水平上，这两个等位基因是共显性的；杂合子中会同时制造正常和异常（镰状细胞）的血红蛋白。” 这说明了显性关系是如何依赖于具体情境的。",
+      "es": "El texto establece explícitamente: 'a nivel organísmico, el alelo normal es incompletamente dominante sobre el alelo de células falciformes'. También dice: 'A nivel molecular, los dos alelos son codominantes; en los heterocigotos se producen hemoglobinas tanto normales como anormales (de células falciformes)'. Esto demuestra cómo la dominancia puede depender del contexto.",
+      "fr": "Le texte déclare explicitement : « au niveau de l'organisme, l'allèle normal est incomplètement dominant par rapport à l'allèle drépanocytaire ». Il dit aussi : « Au niveau moléculaire, les deux allèles sont codominants ; les hétérozygotes fabriquent à la fois des hémoglobines normales et anormales (drépanocytaires) ». Cela démontre comment la dominance peut dépendre du contexte.",
+      "de": "Der Text besagt ausdrücklich: „Auf organismischer Ebene ist das normale Allel unvollständig dominant gegenüber dem Sichelzell-Allel.“ Er besagt auch: „Auf molekularer Ebene sind die beiden Allele kodominant; in Heterozygoten werden sowohl normale als auch anomale (Sichelzell-)Hämoglobine gebildet.“ Dies zeigt, wie Dominanz kontextabhängig sein kann.",
+      "ja": "本文では、「個体レベルでは、正常な対立遺伝子は鎌状赤血球対立遺伝子に対して不完全優性である」と明確に述べられています。また、「分子レベルでは、2つの対立遺伝子は共優性であり、ヘテロ接合体では正常なヘモグロビンと異常な（鎌状赤血球）ヘモグロビンの両方が作られる」とも述べられています。これは、優性が文脈に依存しうることを示しています。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the evolutionary explanation for the high frequency of the sickle-cell allele in populations of African descent?",
+      "zh": "对于非洲人后裔群体中镰状细胞等位基因频率较高的现象，其进化上的解释是什么？",
+      "es": "¿Cuál es la explicación evolutiva de la alta frecuencia del alelo de células falciformes en poblaciones de ascendencia africana?",
+      "fr": "Quelle est l'explication évolutive de la haute fréquence de l'allèle drépanocytaire dans les populations d'ascendance africaine ?",
+      "de": "Was ist die evolutionäre Erklärung für die hohe Häufigkeit des Sichelzell-Allels in Populationen afrikanischer Abstammung?",
+      "ja": "アフリカ系の子孫の集団における鎌状赤血球対立遺伝子の頻度が高いことについての進化上の説明は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The allele provides resistance to cystic fibrosis.",
+          "zh": "该等位基因能抵抗囊性纤维化。",
+          "es": "El alelo proporciona resistencia a la fibrosis quística.",
+          "fr": "L'allèle confère une résistance à la mucoviscidose.",
+          "de": "Das Allel bietet Resistenz gegen Mukoviszidose.",
+          "ja": "その対立遺伝子は嚢胞性線維症に対する耐性を提供します。"
+        },
+        "feedback": {
+          "en": "There is no known link between the sickle-cell allele and cystic fibrosis. The advantage is related to a different disease.",
+          "zh": "镰状细胞等位基因与囊性纤维化之间没有已知的联系。其优势与另一种不同的疾病有关。",
+          "es": "No existe un vínculo conocido entre el alelo de células falciformes y la fibrosis quística. La ventaja está relacionada con una enfermedad diferente.",
+          "fr": "Il n'y a pas de lien connu entre l'allèle drépanocytaire et la mucoviscidose. L'avantage est lié à une maladie différente.",
+          "de": "Es gibt keine bekannte Verbindung zwischen dem Sichelzell-Allel und Mukoviszidose. Der Vorteil hängt mit einer anderen Krankheit zusammen.",
+          "ja": "鎌状赤血球対立遺伝子と嚢胞性線維症との間に既知の関連はありません。その利点は別の疾患に関連しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It is a neutral mutation that has drifted to high frequency by chance.",
+          "zh": "这是一个中性突变，因偶然机会漂移到了高频率。",
+          "es": "Es una mutación neutra que ha alcanzado una alta frecuencia por casualidad.",
+          "fr": "C'est une mutation neutre qui a atteint une haute fréquence par hasard.",
+          "de": "Es ist eine neutrale Mutation, die zufällig auf eine hohe Frequenz gedriftet ist.",
+          "ja": "それは偶然に高頻度になった中立的な突然変異です。"
+        },
+        "feedback": {
+          "en": "The allele is clearly not neutral, as it is harmful in homozygotes. Its high frequency is due to a selective advantage, not random chance.",
+          "zh": "该等位基因显然不是中性的，因为它在纯合子中是有害的。其高频率是由于选择优势，而不是随机机会。",
+          "es": "El alelo claramente no es neutral, ya que es dañino en los homocigotos. Su alta frecuencia se debe a una ventaja selectiva, no al azar.",
+          "fr": "L'allèle n'est clairement pas neutre, car il est nocif chez les homozygotes. Sa haute fréquence est due à un avantage sélectif, et non au hasard.",
+          "de": "Das Allel ist eindeutig nicht neutral, da es bei Homozygoten schädlich ist. Seine hohe Häufigkeit ist auf einen Selektionsvorteil zurückzuführen, nicht auf einen Zufall.",
+          "ja": "その対立遺伝子はホモ接合体では有害であるため、明らかに中立ではありません。その高頻度はランダムな偶然ではなく、選択的利点によるものです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Heterozygotes have a reproductive advantage because they are more attractive mates.",
+          "zh": "杂合子因为是更有吸引力的配偶而具有繁殖优势。",
+          "es": "Los heterocigotos tienen una ventaja reproductiva porque son parejas más atractivas.",
+          "fr": "Les hétérozygotes ont un avantage reproductif car ils sont des partenaires plus attrayants.",
+          "de": "Heterozygote haben einen Fortpflanzungsvorteil, weil sie attraktivere Partner sind.",
+          "ja": "ヘテロ接合体はより魅力的な配偶者であるため、繁殖上の利点があります。"
+        },
+        "feedback": {
+          "en": "The text provides no information to support this. The advantage is related to survival from disease.",
+          "zh": "文本没有提供支持这一说法的信息。其优势与疾病生存有关。",
+          "es": "El texto no proporciona información que respalde esto. La ventaja está relacionada con la supervivencia a la enfermedad.",
+          "fr": "Le texte ne fournit aucune information pour étayer cela. L'avantage est lié à la survie à la maladie.",
+          "de": "Der Text liefert keine Informationen, die dies stützen. Der Vorteil hängt mit dem Überleben von Krankheiten zusammen.",
+          "ja": "本文にはこれを裏付ける情報はありません。その利点は病気からの生存に関連しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Having one copy of the allele provides resistance to malaria.",
+          "zh": "拥有一个该等位基因的副本能提供对疟疾的抵抗力。",
+          "es": "Tener una copia del alelo proporciona resistencia a la malaria.",
+          "fr": "Avoir une copie de l'allèle confère une résistance au paludisme.",
+          "de": "Eine Kopie des Allels bietet Resistenz gegen Malaria.",
+          "ja": "その対立遺伝子のコピーを1つ持つと、マラリアに対する耐性が得られます。"
+        }
+      }
+    ],
+    "correct_answers": ["D"],
+    "explanation": {
+      "en": "This is a classic example of heterozygote advantage. The text explains that 'having a single copy of the sickle-cell allele reduces the frequency and severity of malaria attacks.' In areas where malaria is common, this survival advantage for heterozygotes outweighs the disadvantage for homozygotes, maintaining the allele's high frequency in the population.",
+      "zh": "这是杂合子优势的一个经典例子。文本解释说，“拥有一个镰状细胞等位基因的副本可以降低疟疾发作的频率和严重程度。” 在疟疾常见的地区，杂合子的这种生存优势超过了纯合子的劣势，从而在群体中维持了该等位基因的高频率。",
+      "es": "Este es un ejemplo clásico de la ventaja del heterocigoto. El texto explica que 'tener una sola copia del alelo de células falciformes reduce la frecuencia y la gravedad de los ataques de malaria'. En las zonas donde la malaria es común, esta ventaja de supervivencia para los heterocigotos supera la desventaja para los homocigotos, manteniendo la alta frecuencia del alelo en la población.",
+      "fr": "C'est un exemple classique de l'avantage de l'hétérozygote. Le texte explique que « le fait d'avoir une seule copie de l'allèle drépanocytaire réduit la fréquence et la gravité des crises de paludisme ». Dans les zones où le paludisme est courant, cet avantage de survie pour les hétérozygotes l'emporte sur le désavantage pour les homozygotes, maintenant la haute fréquence de l'allèle dans la population.",
+      "de": "Dies ist ein klassisches Beispiel für den Heterozygotenvorteil. Der Text erklärt, dass „eine einzelne Kopie des Sichelzell-Allels die Häufigkeit und Schwere von Malariaanfällen reduziert.“ In Gebieten, in denen Malaria häufig vorkommt, überwiegt dieser Überlebensvorteil für Heterozygote den Nachteil für Homozygote, wodurch die hohe Frequenz des Allels in der Population erhalten bleibt.",
+      "ja": "これはヘテロ接合体の利点の典型的な例です。本文では、「鎌状赤血球対立遺伝子のコピーを1つ持つと、マラリア発作の頻度と重症度が低下する」と説明されています。マラリアが一般的な地域では、ヘテロ接合体のこの生存上の利点がホモ接合体の不利な点を上回り、集団における対立遺伝子の高頻度を維持しています。"
+    }
+  }
+]

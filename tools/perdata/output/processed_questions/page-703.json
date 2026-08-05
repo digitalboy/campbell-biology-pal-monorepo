@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 703,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the provided information about fungi, which statement accurately describes their structure and function?",
+      "zh": "根据所提供的真菌信息，哪个陈述准确描述了它们的结构和功能？",
+      "es": "Según la información proporcionada sobre los hongos, ¿qué afirmación describe con precisión su estructura y función?",
+      "fr": "Selon les informations fournies sur les champignons, quelle affirmation décrit avec précision leur structure et leur fonction ?",
+      "de": "Basierend auf den bereitgestellten Informationen über Pilze, welche Aussage beschreibt deren Struktur und Funktion genau?",
+      "ja": "提供された情報に基づくと、菌類の構造と機能について正確に記述しているのはどの記述ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Mushrooms represent the entire fungal organism, existing primarily above ground.",
+          "zh": "蘑菇代表了整个真菌有机体，主要存在于地上。",
+          "es": "Los champiñones representan el organismo fúngico completo, existiendo principalmente sobre el suelo.",
+          "fr": "Les champignons représentent l'organisme fongique entier, existant principalement hors sol.",
+          "de": "Pilze repräsentieren den gesamten Pilzorganismus und existieren hauptsächlich über der Erde.",
+          "ja": "キノコは菌類全体の有機体を表し、主に地上に存在する。"
+        },
+        "feedback": {
+          "en": "Mushrooms are only the small aboveground extension; the main body is the underground mycelium.",
+          "zh": "蘑菇只是地上的小部分延伸；主体是地下菌丝体。",
+          "es": "Los champiñones son solo la pequeña extensión aérea; el cuerpo principal es el micelio subterráneo.",
+          "fr": "Les champignons ne sont qu'une petite extension aérienne ; le corps principal est le mycélium souterrain.",
+          "de": "Pilze sind nur die kleine oberirdische Erweiterung; der Hauptkörper ist das unterirdische Myzel.",
+          "ja": "キノコは地上の小さな延長に過ぎず、本体は地下の菌糸体です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Fungi are autotrophs that produce their own nutrients through photosynthesis.",
+          "zh": "真菌是自养生物，通过光合作用产生自己的营养物质。",
+          "es": "Los hongos son autótrofos que producen sus propios nutrientes mediante la fotosíntesis.",
+          "fr": "Les champignons sont des autotrophes qui produisent leurs propres nutriments par photosynthèse.",
+          "de": "Pilze sind Autotrophe, die ihre eigenen Nährstoffe durch Photosynthese produzieren.",
+          "ja": "菌類は光合成によって自ら栄養素を生産する独立栄養生物である。"
+        },
+        "feedback": {
+          "en": "Fungi are heterotrophs and feed by absorption, not photosynthesis.",
+          "zh": "真菌是异养生物，通过吸收而不是光合作用获取营养。",
+          "es": "Los hongos son heterótrofos y se alimentan por absorción, no por fotosíntesis.",
+          "fr": "Les champignons sont des hétérotrophes et se nourrissent par absorption, et non par photosynthèse.",
+          "de": "Pilze sind Heterotrophe und ernähren sich durch Absorption, nicht durch Photosynthese.",
+          "ja": "菌類は従属栄養生物であり、光合成ではなく吸収によって栄養を摂取します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Hyphae are filamentous structures that secrete enzymes to break down organic matter and then absorb the released nutrients.",
+          "zh": "菌丝是丝状结构，分泌酶来分解有机物，然后吸收释放出的营养物质。",
+          "es": "Las hifas son estructuras filamentosas que secretan enzimas para descomponer la materia orgánica y luego absorben los nutrientes liberados.",
+          "fr": "Les hyphes sont des structures filamenteuses qui sécrètent des enzymes pour décomposer la matière organique, puis absorbent les nutriments libérés.",
+          "de": "Hyphen sind fadenförmige Strukturen, die Enzyme absondern, um organische Substanz abzubauen und dann die freigesetzten Nährstoffe aufzunehmen.",
+          "ja": "菌糸は、有機物を分解する酵素を分泌し、放出された栄養素を吸収する糸状構造である。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Spores are primarily responsible for nutrient absorption, helping the fungus grow quickly.",
+          "zh": "孢子主要负责营养吸收，帮助真菌快速生长。",
+          "es": "Las esporas son las principales responsables de la absorción de nutrientes, ayudando al hongo a crecer rápidamente.",
+          "fr": "Les spores sont principalement responsables de l'absorption des nutriments, aidant le champignon à croître rapidement.",
+          "de": "Sporen sind hauptsächlich für die Nährstoffaufnahme verantwortlich und helfen dem Pilz, schnell zu wachsen.",
+          "ja": "胞子は主に栄養吸収を担い、菌類が急速に成長するのを助ける。"
+        },
+        "feedback": {
+          "en": "Spores enable fungi to colonize new environments; hyphae are responsible for nutrient absorption.",
+          "zh": "孢子使真菌能够定殖新环境；菌丝负责营养吸收。",
+          "es": "Las esporas permiten a los hongos colonizar nuevos entornos; las hifas son las responsables de la absorción de nutrientes.",
+          "fr": "Les spores permettent aux champignons de coloniser de nouveaux environnements ; les hyphes sont responsables de l'absorption des nutriments.",
+          "de": "Sporen ermöglichen es Pilzen, neue Umgebungen zu besiedeln; Hyphen sind für die Nährstoffaufnahme verantwortlich.",
+          "ja": "胞子は菌類が新しい環境に定着することを可能にし、菌糸が栄養吸収を担当します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that multicellular fungi extend filaments called hyphae, which secrete enzymes to break down organic matter and absorb the released nutrients. This directly matches option C.",
+      "zh": "文本指出多细胞真菌会延伸出称为菌丝的细丝，这些菌丝分泌酶来分解有机物，然后吸收释放出的营养物质。这与选项C直接吻合。",
+      "es": "El texto afirma que los hongos multicelulares extienden filamentos llamados hifas, que secretan enzimas para descomponer la materia orgánica y absorber los nutrientes liberados. Esto coincide directamente con la opción C.",
+      "fr": "Le texte indique que les champignons multicellulaires étendent des filaments appelés hyphes, qui sécrètent des enzymes pour décomposer la matière organique et absorber les nutriments libérés. Cela correspond directement à l'option C.",
+      "de": "Der Text besagt, dass vielzellige Pilze Fäden, sogenannte Hyphen, ausbilden, die Enzyme absondern, um organische Substanz abzubauen und die freigesetzten Nährstoffe aufzunehmen. Dies stimmt direkt mit Option C überein.",
+      "ja": "本文によると、多細胞菌類は菌糸と呼ばれる糸状の構造を伸ばし、これが有機物を分解する酵素を分泌し、放出された栄養素を吸収します。これは選択肢Cと直接一致します。"
+    }
+  },
+  {
+    "page_number": 703,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the provided 'Human life cycle' diagram, which process directly results in the formation of gametes (n)?",
+      "zh": "根据提供的“人类生命周期”图示，哪个过程直接导致配子（n）的形成？",
+      "es": "Según el diagrama de 'Ciclo de vida humano' proporcionado, ¿qué proceso resulta directamente en la formación de gametos (n)?",
+      "fr": "Selon le diagramme du 'Cycle de vie humain' fourni, quel processus entraîne directement la formation des gamètes (n) ?",
+      "de": "Gemäß dem bereitgestellten Diagramm 'Menschlicher Lebenszyklus', welcher Prozess führt direkt zur Bildung von Gameten (n)?",
+      "ja": "提供された「ヒトのライフサイクル」図によると、配偶子（n）の形成に直接つながるプロセスは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Fertilization",
+          "zh": "受精",
+          "es": "Fertilización",
+          "fr": "Fécondation",
+          "de": "Befruchtung",
+          "ja": "受精"
+        },
+        "feedback": {
+          "en": "Fertilization is the fusion of gametes to form a diploid organism (2n), not the formation of gametes.",
+          "zh": "受精是配子融合形成二倍体生物（2n）的过程，而不是配子的形成。",
+          "es": "La fertilización es la fusión de gametos para formar un organismo diploide (2n), no la formación de gametos.",
+          "fr": "La fécondation est la fusion des gamètes pour former un organisme diploïde (2n), et non la formation des gamètes.",
+          "de": "Befruchtung ist die Verschmelzung von Gameten zur Bildung eines diploiden Organismus (2n), nicht die Bildung von Gameten.",
+          "ja": "受精は配偶子が融合して二倍体生物（2n）を形成する過程であり、配偶子形成ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Mitosis",
+          "zh": "有丝分裂",
+          "es": "Mitosis",
+          "fr": "Mitose",
+          "de": "Mitose",
+          "ja": "有糸分裂"
+        },
+        "feedback": {
+          "en": "Mitosis typically produces genetically identical diploid cells, not haploid gametes.",
+          "zh": "有丝分裂通常产生基因相同的二倍体细胞，而不是单倍体配子。",
+          "es": "La mitosis típicamente produce células diploides genéticamente idénticas, no gametos haploides.",
+          "fr": "La mitose produit typiquement des cellules diploïdes génétiquement identiques, pas des gamètes haploïdes.",
+          "de": "Mitose produziert typischerweise genetisch identische diploide Zellen, nicht haploide Gameten.",
+          "ja": "有糸分裂は通常、遺伝的に同一な二倍体細胞を生成し、半数体の配偶子ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Meiosis",
+          "zh": "减数分裂",
+          "es": "Meiosis",
+          "fr": "Méiose",
+          "de": "Meiose",
+          "ja": "減数分裂"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Growth of a diploid multicellular organism",
+          "zh": "二倍体多细胞生物的生长",
+          "es": "Crecimiento de un organismo multicelular diploide",
+          "fr": "Croissance d'un organisme multicellulaire diploïde",
+          "de": "Wachstum eines diploiden vielzelligen Organismus",
+          "ja": "二倍体多細胞生物の成長"
+        },
+        "feedback": {
+          "en": "Growth of a multicellular organism involves mitosis, not the direct formation of gametes.",
+          "zh": "多细胞生物的生长涉及有丝分裂，而不是配子的直接形成。",
+          "es": "El crecimiento de un organismo multicelular implica mitosis, no la formación directa de gametos.",
+          "fr": "La croissance d'un organisme multicellulaire implique la mitose, pas la formation directe de gamètes.",
+          "de": "Das Wachstum eines vielzelligen Organismus beinhaltet Mitose, nicht die direkte Bildung von Gameten.",
+          "ja": "多細胞生物の成長には有糸分裂が関与しており、配偶子の直接形成ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The diagram clearly shows an arrow pointing from the 'Diploid multicellular organism (2n)' to 'Gametes (n)' labeled 'Meiosis', indicating that meiosis produces haploid gametes from a diploid organism.",
+      "zh": "图表清楚地显示了从“二倍体多细胞生物（2n）”指向“配子（n）”的箭头标记为“减数分裂”，表明减数分裂从二倍体生物中产生单倍体配子。",
+      "es": "El diagrama muestra claramente una flecha que va del 'Organismo multicelular diploide (2n)' a 'Gametos (n)' etiquetada como 'Meiosis', lo que indica que la meiosis produce gametos haploides a partir de un organismo diploide.",
+      "fr": "Le diagramme montre clairement une flèche allant de l'« Organisme multicellulaire diploïde (2n) » aux « Gamètes (n) » étiquetée « Méiose », indiquant que la méiose produit des gamètes haploïdes à partir d'un organisme diploïde.",
+      "de": "Das Diagramm zeigt deutlich einen Pfeil vom 'Diploiden vielzelligen Organismus (2n)' zu 'Gameten (n)' mit der Beschriftung 'Meiose', was darauf hinweist, dass die Meiose haploide Gameten aus einem diploiden Organismus produziert.",
+      "ja": "図には「二倍体多細胞生物（2n）」から「配偶子（n）」へ「減数分裂」と記された矢印が明確に示されており、減数分裂が二倍体生物から半数体配偶子を生成することを示しています。"
+    }
+  },
+  {
+    "page_number": 703,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Given that fungi are heterotrophs that feed by absorption and can digest almost any organic molecule, what is their primary ecological role as described in the text?",
+      "zh": "鉴于真菌是异养生物，通过吸收获取营养，并且几乎可以消化任何有机分子，根据文本描述，它们主要的生态角色是什么？",
+      "es": "Dado que los hongos son heterótrofos que se alimentan por absorción y pueden digerir casi cualquier molécula orgánica, ¿cuál es su principal función ecológica según lo descrito en el texto?",
+      "fr": "Étant donné que les champignons sont des hétérotrophes qui se nourrissent par absorption et peuvent digérer presque toutes les molécules organiques, quel est leur rôle écologique principal tel que décrit dans le texte ?",
+      "de": "Angesichts der Tatsache, dass Pilze Heterotrophe sind, die sich durch Absorption ernähren und fast jedes organische Molekül verdauen können, welche primäre ökologische Rolle spielen sie laut Text?",
+      "ja": "菌類は吸収によって栄養を摂取する従属栄養生物であり、ほとんどすべての有機分子を消化できることを踏まえると、本文で述べられている主な生態学的役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Primary producers, converting light energy into organic compounds.",
+          "zh": "初级生产者，将光能转化为有机化合物。",
+          "es": "Productores primarios, convirtiendo la energía lumínica en compuestos orgánicos.",
+          "fr": "Producteurs primaires, convertissant l'énergie lumineuse en composés organiques.",
+          "de": "Primärproduzenten, die Lichtenergie in organische Verbindungen umwandeln.",
+          "ja": "一次生産者であり、光エネルギーを有機化合物に変換する。"
+        },
+        "feedback": {
+          "en": "Fungi are heterotrophs, meaning they cannot produce their own food like primary producers (autotrophs).",
+          "zh": "真菌是异养生物，这意味着它们不能像初级生产者（自养生物）那样自己生产食物。",
+          "es": "Los hongos son heterótrofos, lo que significa que no pueden producir su propio alimento como los productores primarios (autótrofos).",
+          "fr": "Les champignons sont des hétérotrophes, ce qui signifie qu'ils ne peuvent pas produire leur propre nourriture comme les producteurs primaires (autotrophes).",
+          "de": "Pilze sind Heterotrophe, was bedeutet, dass sie ihre eigene Nahrung nicht wie Primärproduzenten (Autotrophe) herstellen können.",
+          "ja": "菌類は従属栄養生物であり、一次生産者（独立栄養生物）のように自ら食物を生産することはできません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Consumers, primarily ingesting other organisms for nutrients.",
+          "zh": "消费者，主要通过摄食其他生物来获取营养。",
+          "es": "Consumidores, principalmente ingiriendo otros organismos para obtener nutrientes.",
+          "fr": "Consommateurs, ingérant principalement d'autres organismes pour les nutriments.",
+          "de": "Konsumenten, die hauptsächlich andere Organismen zur Nährstoffaufnahme aufnehmen.",
+          "ja": "消費者であり、主に他の生物を摂取して栄養を得る。"
+        },
+        "feedback": {
+          "en": "While fungi are consumers in a broad sense, they feed by absorption after external digestion, not by ingesting whole organisms.",
+          "zh": "虽然真菌广义上是消费者，但它们是通过外部消化后吸收营养，而不是通过摄食整个生物体。",
+          "es": "Aunque los hongos son consumidores en un sentido amplio, se alimentan por absorción después de la digestión externa, no ingiriendo organismos enteros.",
+          "fr": "Bien que les champignons soient des consommateurs au sens large, ils se nourrissent par absorption après une digestion externe, et non en ingérant des organismes entiers.",
+          "de": "Obwohl Pilze im weitesten Sinne Konsumenten sind, ernähren sie sich durch Absorption nach externer Verdauung, nicht durch die Aufnahme ganzer Organismen.",
+          "ja": "菌類は広義には消費者ですが、生物全体を摂取するのではなく、外部消化後に吸収によって栄養を摂取します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Decomposers, breaking down dead organic matter and recycling nutrients.",
+          "zh": "分解者，分解死亡有机物并循环营养物质。",
+          "es": "Descomponedores, descomponiendo materia orgánica muerta y reciclando nutrientes.",
+          "fr": "Décomposeurs, décomposant la matière organique morte et recyclant les nutriments.",
+          "de": "Zersetzer, die totes organisches Material abbauen und Nährstoffe recyceln.",
+          "ja": "分解者であり、死んだ有機物を分解し、栄養素を循環させる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Nitrogen fixers, converting atmospheric nitrogen into usable forms for plants.",
+          "zh": "固氮生物，将大气氮转化为植物可利用的形式。",
+          "es": "Fijadores de nitrógeno, convirtiendo el nitrógeno atmosférico en formas utilizables para las plantas.",
+          "fr": "Fixateurs d'azote, convertissant l'azote atmosphérique en formes utilisables pour les plantes.",
+          "de": "Stickstofffixierer, die atmosphärischen Stickstoff in nutzbare Formen für Pflanzen umwandeln.",
+          "ja": "窒素固定者であり、大気中の窒素を植物が利用できる形に変換する。"
+        },
+        "feedback": {
+          "en": "The text highlights fungi's role in digesting organic molecules and nutrient cycling, not specifically nitrogen fixation.",
+          "zh": "文本强调了真菌在消化有机分子和营养循环中的作用，而不是特指固氮作用。",
+          "es": "El texto destaca el papel de los hongos en la digestión de moléculas orgánicas y el ciclo de nutrientes, no específicamente en la fijación de nitrógeno.",
+          "fr": "Le texte met en évidence le rôle des champignons dans la digestion des molécules organiques et le cycle des nutriments, et non spécifiquement la fixation de l'azote.",
+          "de": "Der Text hebt die Rolle der Pilze bei der Verdauung organischer Moleküle und dem Nährstoffkreislauf hervor, nicht speziell die Stickstofffixierung.",
+          "ja": "本文は菌類が有機分子を消化し、栄養素を循環させる役割を強調しており、特に窒素固定については述べていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that fungi are 'highly effective decomposers in ecosystems' because they can digest almost any organic molecule, breaking down organic matter and releasing nutrients, which is the definition of a decomposer's role.",
+      "zh": "文本明确指出真菌是“生态系统中高效的分解者”，因为它们几乎可以消化任何有机分子，分解有机物并释放营养物质，这正是分解者角色的定义。",
+      "es": "El texto afirma explícitamente que los hongos son 'descomponedores altamente efectivos en los ecosistemas' porque pueden digerir casi cualquier molécula orgánica, descomponiendo la materia orgánica y liberando nutrientes, lo cual es la definición del papel de un descomponedor.",
+      "fr": "Le texte indique explicitement que les champignons sont des « décomposeurs très efficaces dans les écosystèmes » car ils peuvent digérer presque toutes les molécules organiques, décomposant la matière organique et libérant les nutriments, ce qui correspond à la définition du rôle d'un décomposeur.",
+      "de": "Der Text besagt ausdrücklich, dass Pilze „äußerst effektive Zersetzer in Ökosystemen“ sind, da sie nahezu jedes organische Molekül verdauen können, organische Substanz abbauen und Nährstoffe freisetzen, was der Definition der Rolle eines Zersetzers entspricht.",
+      "ja": "本文では、菌類がほとんどすべての有機分子を消化でき、有機物を分解して栄養素を放出するため、「生態系において非常に効率的な分解者である」と明記されており、これは分解者の役割の定義と一致します。"
+    }
+  }
+]

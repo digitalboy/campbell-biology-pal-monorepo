@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 389,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "The genetic code is based on triplets of nucleotides (codons) to specify amino acids. What is the primary reason for this triplet nature?",
+      "zh": "遗传密码基于核苷酸三联体（密码子）来指定氨基酸。这种三联体性质的主要原因是什么？",
+      "es": "El código genético se basa en tripletes de nucleótidos (codones) para especificar aminoácidos. ¿Cuál es la razón principal de esta naturaleza de triplete?",
+      "fr": "Le code génétique est basé sur des triplets de nucléotides (codons) pour spécifier les acides aminés. Quelle est la raison principale de cette nature de triplet ?",
+      "de": "Der genetische Code basiert auf Tripletts von Nukleotiden (Codons), um Aminosäuren zu spezifizieren. Was ist der Hauptgrund für diese Triplett-Natur?",
+      "ja": "遺伝暗号は、アミノ酸を指定するためにヌクレオチドの三連体（コドン）に基づいています。この三連体性質の主な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To provide enough unique combinations to specify all 20 common amino acids.",
+          "zh": "提供足够独特的组合来指定所有20种常见氨基酸。",
+          "es": "Para proporcionar suficientes combinaciones únicas para especificar los 20 aminoácidos comunes.",
+          "fr": "Pour fournir suffisamment de combinaisons uniques pour spécifier les 20 acides aminés courants.",
+          "de": "Um genügend einzigartige Kombinationen bereitzustellen, um alle 20 gängigen Aminosäuren zu spezifizieren.",
+          "ja": "20種類の一般的なアミノ酸すべてを指定するのに十分な独自の組み合わせを提供するため。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To ensure efficient RNA splicing during transcription.",
+          "zh": "确保转录过程中RNA的有效剪接。",
+          "es": "Para asegurar un empalme eficiente del ARN durante la transcripción.",
+          "fr": "Pour assurer un épissage efficace de l'ARN pendant la transcription.",
+          "de": "Um ein effizientes RNA-Splicing während der Transkription zu gewährleisten.",
+          "ja": "転写中のRNAスプライシングを効率化するため。"
+        },
+        "feedback": {
+          "en": "RNA splicing is a post-transcriptional modification process, not the primary reason for the triplet code.",
+          "zh": "RNA剪接是转录后的修饰过程，并非三联体密码的主要原因。",
+          "es": "El empalme de ARN es un proceso de modificación post-transcripcional, no la razón principal del código triplete.",
+          "fr": "L'épissage de l'ARN est un processus de modification post-transcriptionnelle, pas la raison principale du code triplet.",
+          "de": "RNA-Splicing ist ein posttranskriptioneller Modifikationsprozess und nicht der Hauptgrund für den Triplett-Code.",
+          "ja": "RNAスプライシングは転写後修飾プロセスであり、三連体コードの主な理由ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To allow for redundancy and minimize the impact of mutations.",
+          "zh": "允许冗余并最大限度地减少突变的影响。",
+          "es": "Para permitir la redundancia y minimizar el impacto de las mutaciones.",
+          "fr": "Pour permettre la redondance et minimiser l'impact des mutations.",
+          "de": "Um Redundanz zu ermöglichen und die Auswirkungen von Mutationen zu minimieren.",
+          "ja": "冗長性を許容し、突然変異の影響を最小限に抑えるため。"
+        },
+        "feedback": {
+          "en": "While redundancy is a feature of the triplet code, the primary reason for its necessity is to provide enough combinations for all amino acids, as 4^2=16 is insufficient.",
+          "zh": "虽然冗余是三联体密码的一个特性，但其必要性的主要原因是为所有氨基酸提供足够的组合，因为4^2=16是不够的。",
+          "es": "Aunque la redundancia es una característica del código triplete, la razón principal de su necesidad es proporcionar suficientes combinaciones para todos los aminoácidos, ya que 4^2=16 es insuficiente.",
+          "fr": "Bien que la redondance soit une caractéristique du code triplet, la raison principale de sa nécessité est de fournir suffisamment de combinaisons pour tous les acides aminés, car 4^2=16 est insuffisant.",
+          "de": "Obwohl Redundanz ein Merkmal des Triplett-Codes ist, ist der Hauptgrund für seine Notwendigkeit, genügend Kombinationen für alle Aminosäuren bereitzustellen, da 4^2=16 unzureichend ist.",
+          "ja": "冗長性は三連体コードの特徴ですが、その必要性の主な理由は、すべてのアミノ酸に十分な組み合わせを提供することであり、4^2=16では不十分です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To facilitate the binding of tRNA molecules during translation.",
+          "zh": "促进翻译过程中tRNA分子的结合。",
+          "es": "Para facilitar la unión de moléculas de ARNt durante la traducción.",
+          "fr": "Pour faciliter la liaison des molécules d'ARNt pendant la traduction.",
+          "de": "Um die Bindung von tRNA-Molekülen während der Translation zu erleichtern.",
+          "ja": "翻訳中のtRNA分子の結合を促進するため。"
+        },
+        "feedback": {
+          "en": "tRNA molecules bind to codons, but this is a consequence of the triplet code, not the primary reason for its existence.",
+          "zh": "tRNA分子与密码子结合，但这只是三联体密码的一个结果，并非其存在的主要原因。",
+          "es": "Las moléculas de ARNt se unen a los codones, pero esto es una consecuencia del código triplete, no la razón principal de su existencia.",
+          "fr": "Les molécules d'ARNt se lient aux codons, mais c'est une conséquence du code triplet, et non la raison principale de son existence.",
+          "de": "tRNA-Moleküle binden an Codons, aber dies ist eine Konsequenz des Triplett-Codes und nicht der Hauptgrund für seine Existenz.",
+          "ja": "tRNA分子はコドンに結合しますが、これは三連体コードの結果であり、その存在の主な理由ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The passage explains that with four nucleotide bases, single-letter code words would only specify 4 amino acids, and two-letter code words (4^2 = 16) are still not enough for the 20 common amino acids. Triplet code words (4^3 = 64) provide more than enough combinations.",
+      "zh": "文章解释说，只有四种核苷酸碱基，单字母密码子只能指定4种氨基酸，而双字母密码子（4^2 = 16）仍然不足以指定20种常见氨基酸。三联体密码子（4^3 = 64）提供了绰绰有余的组合。",
+      "es": "El pasaje explica que con cuatro bases de nucleótidos, las palabras de código de una sola letra solo especificarían 4 aminoácidos, y las palabras de código de dos letras (4^2 = 16) aún no son suficientes para los 20 aminoácidos comunes. Las palabras de código de triplete (4^3 = 64) proporcionan combinaciones más que suficientes.",
+      "fr": "Le passage explique qu'avec quatre bases nucléotidiques, les mots de code à une seule lettre ne spécifieraient que 4 acides aminés, et les mots de code à deux lettres (4^2 = 16) ne sont toujours pas suffisants pour les 20 acides aminés courants. Les mots de code triplet (4^3 = 64) fournissent des combinaisons plus que suffisantes.",
+      "de": "Der Text erklärt, dass bei vier Nukleotidbasen Einzelbuchstaben-Codewörter nur 4 Aminosäuren spezifizieren würden, und Zweibuchstaben-Codewörter (4^2 = 16) immer noch nicht ausreichen für die 20 gängigen Aminosäuren. Triplett-Codewörter (4^3 = 64) bieten mehr als genügend Kombinationen.",
+      "ja": "本文では、4つのヌクレオチド塩基では、1文字のコードワードでは4種類のアミノ酸しか指定できず、2文字のコードワード（4^2=16）では20種類の一般的なアミノ酸にはまだ不十分であると説明しています。三連体コードワード（4^3=64）は、十分すぎるほどの組み合わせを提供します。"
+    }
+  },
+  {
+    "page_number": 389,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 17.5 and the text, if a segment of a DNA template strand is 3'-ACC-5', what would be the corresponding mRNA sequence synthesized during transcription?",
+      "zh": "根据图17.5和文本，如果DNA模板链的一段序列是3'-ACC-5'，那么在转录过程中合成的相应mRNA序列会是什么？",
+      "es": "Según la Figura 17.5 y el texto, si un segmento de una hebra molde de ADN es 3'-ACC-5', ¿cuál sería la secuencia de ARNm correspondiente sintetizada durante la transcripción?",
+      "fr": "Selon la Figure 17.5 et le texte, si un segment d'un brin matrice d'ADN est 3'-ACC-5', quelle serait la séquence d'ARNm correspondante synthétisée pendant la transcription ?",
+      "de": "Gemäß Abbildung 17.5 und dem Text, wenn ein Segment eines DNA-Matrizenstrangs 3'-ACC-5' ist, welche wäre die entsprechende mRNA-Sequenz, die während der Transkription synthetisiert wird?",
+      "ja": "図17.5と本文によると、DNAテンプレート鎖の一部が3'-ACC-5'である場合、転写中に合成される対応するmRNA配列は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "5'-UGG-3'",
+          "zh": "5'-UGG-3'",
+          "es": "5'-UGG-3'",
+          "fr": "5'-UGG-3'",
+          "de": "5'-UGG-3'",
+          "ja": "5'-UGG-3'"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "5'-TGG-3'",
+          "zh": "5'-TGG-3'",
+          "es": "5'-TGG-3'",
+          "fr": "5'-TGG-3'",
+          "de": "5'-TGG-3'",
+          "ja": "5'-TGG-3'"
+        },
+        "feedback": {
+          "en": "In mRNA, uracil (U) replaces thymine (T).",
+          "zh": "在mRNA中，尿嘧啶（U）取代胸腺嘧啶（T）。",
+          "es": "En el ARNm, el uracilo (U) reemplaza a la timina (T).",
+          "fr": "Dans l'ARNm, l'uracile (U) remplace la thymine (T).",
+          "de": "In mRNA ersetzt Uracil (U) Thymin (T).",
+          "ja": "mRNAでは、ウラシル（U）がチミン（T）に置き換わります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "3'-UGG-5'",
+          "zh": "3'-UGG-5'",
+          "es": "3'-UGG-5'",
+          "fr": "3'-UGG-5'",
+          "de": "3'-UGG-5'",
+          "ja": "3'-UGG-5'"
+        },
+        "feedback": {
+          "en": "mRNA is synthesized in the 5' to 3' direction, antiparallel to the template strand.",
+          "zh": "mRNA是按5'到3'方向合成的，与模板链反平行。",
+          "es": "El ARNm se sintetiza en dirección 5' a 3', antiparalelo a la hebra molde.",
+          "fr": "L'ARNm est synthétisé dans le sens 5' vers 3', antiparallèle au brin matrice.",
+          "de": "mRNA wird in 5'- zu 3'-Richtung synthetisiert, antiparallel zum Matrizenstrang.",
+          "ja": "mRNAはテンプレート鎖に対してアンチパラレルな5'から3'方向で合成されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "5'-ACC-3'",
+          "zh": "5'-ACC-3'",
+          "es": "5'-ACC-3'",
+          "fr": "5'-ACC-3'",
+          "de": "5'-ACC-3'",
+          "ja": "5'-ACC-3'"
+        },
+        "feedback": {
+          "en": "mRNA is complementary to the template strand, not identical, and contains U instead of T.",
+          "zh": "mRNA与模板链互补，而非相同，且包含U而非T。",
+          "es": "El ARNm es complementario a la hebra molde, no idéntico, y contiene U en lugar de T.",
+          "fr": "L'ARNm est complémentaire du brin matrice, et non identique, et contient U au lieu de T.",
+          "de": "mRNA ist komplementär zum Matrizenstrang, nicht identisch, und enthält U anstelle von T.",
+          "ja": "mRNAはテンプレート鎖と相補的であり、同一ではなく、Tの代わりにUを含みます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The DNA template strand 3'-ACC-5' is used to synthesize mRNA. According to base-pairing rules, A pairs with U (in RNA) and C pairs with G. The mRNA is synthesized antiparallel and in the 5' to 3' direction. So, 3'-ACC-5' becomes 5'-UGG-3' (A->U, C->G, C->G).",
+      "zh": "DNA模板链3'-ACC-5'用于合成mRNA。根据碱基配对规则，A与U（在RNA中）配对，C与G配对。mRNA是反平行地以5'到3'方向合成的。因此，3'-ACC-5'变为5'-UGG-3'（A->U, C->G, C->G）。",
+      "es": "La hebra molde de ADN 3'-ACC-5' se utiliza para sintetizar ARNm. Según las reglas de apareamiento de bases, A se aparea con U (en el ARN) y C se aparea con G. El ARNm se sintetiza de forma antiparalela y en dirección 5' a 3'. Por lo tanto, 3'-ACC-5' se convierte en 5'-UGG-3' (A->U, C->G, C->G).",
+      "fr": "Le brin matrice d'ADN 3'-ACC-5' est utilisé pour synthétiser l'ARNm. Selon les règles d'appariement des bases, A s'apparie avec U (dans l'ARN) et C s'apparie avec G. L'ARNm est synthétisé de manière antiparallèle et dans le sens 5' vers 3'. Ainsi, 3'-ACC-5' devient 5'-UGG-3' (A->U, C->G, C->G).",
+      "de": "Der DNA-Matrizenstrang 3'-ACC-5' wird zur Synthese von mRNA verwendet. Gemäß den Basenpaarungsregeln paart sich A mit U (in RNA) und C mit G. Die mRNA wird antiparallel und in 5'- zu 3'-Richtung synthetisiert. Daher wird 3'-ACC-5' zu 5'-UGG-3' (A->U, C->G, C->G).",
+      "ja": "DNAテンプレート鎖3'-ACC-5'はmRNAの合成に用いられます。塩基対合の規則に従い、AはU（RNA中）と対合し、CはGと対合します。mRNAはアンチパラレルに5'から3'方向で合成されます。したがって、3'-ACC-5'は5'-UGG-3'となります（A→U、C→G、C→G）。"
+    }
+  },
+  {
+    "page_number": 389,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The text states that the nontemplate DNA strand is often called the 'coding strand'. Based on the information provided, why is this convention adopted?",
+      "zh": "文本中提到，DNA的非模板链通常被称为“编码链”。根据所提供的信息，为什么会采用这种命名约定？",
+      "es": "El texto afirma que la hebra de ADN no molde a menudo se denomina 'hebra codificante'. Según la información proporcionada, ¿por qué se adopta esta convención?",
+      "fr": "Le texte indique que le brin d'ADN non matrice est souvent appelé 'brin codant'. Basé sur les informations fournies, pourquoi cette convention est-elle adoptée ?",
+      "de": "Der Text besagt, dass der nicht-Matrizen-DNA-Strang oft als 'codierender Strang' bezeichnet wird. Basierend auf den bereitgestellten Informationen, warum wird diese Konvention angewendet?",
+      "ja": "本文では、非鋳型DNA鎖がしばしば「コード鎖」と呼ばれると述べられています。提供された情報に基づいて、なぜこの慣習が採用されているのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Because its sequence is nearly identical to the mRNA sequence that will be translated, with T replacing U.",
+          "zh": "因为它的序列与将要翻译的mRNA序列几乎相同，只是T取代了U。",
+          "es": "Porque su secuencia es casi idéntica a la secuencia de ARNm que se traducirá, con T reemplazando a U.",
+          "fr": "Parce que sa séquence est presque identique à la séquence d'ARNm qui sera traduite, avec T remplaçant U.",
+          "de": "Weil seine Sequenz nahezu identisch mit der mRNA-Sequenz ist, die übersetzt wird, wobei T U ersetzt.",
+          "ja": "その配列が、翻訳されるmRNA配列とTがUに置き換わる点を除いてほぼ同一であるため。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Because it directly serves as the template for protein synthesis.",
+          "zh": "因为它直接作为蛋白质合成的模板。",
+          "es": "Porque sirve directamente como molde para la síntesis de proteínas.",
+          "fr": "Parce qu'il sert directement de modèle pour la synthèse des protéines.",
+          "de": "Weil er direkt als Matrize für die Proteinsynthese dient.",
+          "ja": "タンパク質合成の鋳型として直接機能するため。"
+        },
+        "feedback": {
+          "en": "The mRNA molecule serves as the direct template for protein synthesis during translation, not the DNA coding strand.",
+          "zh": "在翻译过程中，mRNA分子直接作为蛋白质合成的模板，而不是DNA编码链。",
+          "es": "La molécula de ARNm sirve como molde directo para la síntesis de proteínas durante la traducción, no la hebra codificante de ADN.",
+          "fr": "La molécule d'ARNm sert de modèle direct pour la synthèse des protéines pendant la traduction, et non le brin codant de l'ADN.",
+          "de": "Das mRNA-Molekül dient als direkte Matrize für die Proteinsynthese während der Translation, nicht der DNA-codierende Strang.",
+          "ja": "翻訳中のタンパク質合成の直接的な鋳型となるのはmRNA分子であり、DNAコード鎖ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Because it contains the promoter region that initiates transcription.",
+          "zh": "因为它包含启动转录的启动子区域。",
+          "es": "Porque contiene la región promotora que inicia la transcripción.",
+          "fr": "Parce qu'il contient la région promotrice qui initie la transcription.",
+          "de": "Weil er die Promotorregion enthält, die die Transkription initiiert.",
+          "ja": "転写を開始するプロモーター領域が含まれているため。"
+        },
+        "feedback": {
+          "en": "While the promoter is on the DNA, its presence doesn't define the 'coding' nature of the strand in terms of its sequence similarity to mRNA.",
+          "zh": "尽管启动子在DNA上，但它的存在并不能定义该链在序列上与mRNA相似的“编码”性质。",
+          "es": "Aunque el promotor está en el ADN, su presencia no define la naturaleza 'codificante' de la hebra en términos de su similitud de secuencia con el ARNm.",
+          "fr": "Bien que le promoteur soit sur l'ADN, sa présence ne définit pas la nature 'codante' du brin en termes de similitude de séquence avec l'ARNm.",
+          "de": "Obwohl der Promotor auf der DNA liegt, definiert seine Anwesenheit nicht die 'codierende' Natur des Strangs in Bezug auf seine Sequenzähnlichkeit mit mRNA.",
+          "ja": "プロモーターはDNA上に存在しますが、その存在はmRNAとの配列類似性の点で鎖の「コード」の性質を定義するものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Because it is the strand that directly binds to ribosomes during translation.",
+          "zh": "因为它是翻译过程中直接与核糖体结合的链。",
+          "es": "Porque es la hebra que se une directamente a los ribosomas durante la traducción.",
+          "fr": "Parce que c'est le brin qui se lie directement aux ribosomes pendant la traduction.",
+          "de": "Weil er der Strang ist, der während der Translation direkt an Ribosomen bindet.",
+          "ja": "翻訳中にリボソームに直接結合する鎖であるため。"
+        },
+        "feedback": {
+          "en": "Ribosomes bind to the mRNA molecule, not directly to the DNA coding strand.",
+          "zh": "核糖体与mRNA分子结合，而不是直接与DNA编码链结合。",
+          "es": "Los ribosomas se unen a la molécula de ARNm, no directamente a la hebra codificante de ADN.",
+          "fr": "Les ribosomes se lient à la molécule d'ARNm, et non directement au brin codant de l'ADN.",
+          "de": "Ribosomen binden an das mRNA-Molekül, nicht direkt an den DNA-codierenden Strang.",
+          "ja": "リボソームはmRNA分子に結合し、DNAコード鎖には直接結合しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states: 'The term codon is also used for the DNA nucleotide triplets along the nontemplate strand. These codons are complementary to the template strand and thus identical in sequence to the mRNA (except for T's instead of U's). For this reason, the nontemplate DNA strand is often called the coding strand.' This clearly indicates that its sequence similarity to mRNA is the reason for the name.",
+      "zh": "文本中提到：“密码子一词也用于非模板链上的DNA核苷酸三联体。这些密码子与模板链互补，因此在序列上与mRNA相同（除了T取代U）。因此，非模板DNA链常被称为编码链。”这清楚地表明，其序列与mRNA的相似性是得名的原因。",
+      "es": "El texto afirma: 'El término codón también se usa para los tripletes de nucleótidos de ADN a lo largo de la hebra no molde. Estos codones son complementarios a la hebra molde y, por lo tanto, idénticos en secuencia al ARNm (excepto por las T en lugar de las U). Por esta razón, la hebra de ADN no molde a menudo se denomina hebra codificante'. Esto indica claramente que su similitud de secuencia con el ARNm es la razón del nombre.",
+      "fr": "Le texte indique : « Le terme codon est également utilisé pour les triplets de nucléotides d'ADN le long du brin non matrice. Ces codons sont complémentaires du brin matrice et sont donc identiques en séquence à l'ARNm (sauf pour les T à la place des U). Pour cette raison, le brin d'ADN non matrice est souvent appelé le brin codant. » Cela indique clairement que sa similarité de séquence avec l'ARNm est la raison de ce nom.",
+      "de": "Der Text besagt: 'Der Begriff Codon wird auch für die DNA-Nukleotid-Tripletts entlang des nicht-Matrizenstrangs verwendet. Diese Codons sind komplementär zum Matrizenstrang und daher in ihrer Sequenz identisch mit der mRNA (außer dass T durch U ersetzt wird). Aus diesem Grund wird der nicht-Matrizen-DNA-Strang oft als codierender Strang bezeichnet.' Dies zeigt deutlich, dass seine Sequenzähnlichkeit mit mRNA der Grund für den Namen ist.",
+      "ja": "本文には、「コドンという用語は、非鋳型鎖に沿ったDNAヌクレオチド三連体にも使用される。これらのコドンは鋳型鎖と相補的であり、したがってmRNAと配列が同一である（ただし、Uの代わりにTがある）。このため、非鋳型DNA鎖はしばしばコード鎖と呼ばれる」と記載されています。これは、mRNAとの配列の類似性がその名前の理由であることを明確に示しています。"
+    }
+  }
+]

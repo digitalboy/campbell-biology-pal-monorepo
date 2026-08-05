@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 144,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately differentiates between Light Microscopy (LM) and Electron Microscopy (EM) based on the provided information?",
+      "zh": "根据所提供的信息，以下哪项陈述准确区分了光学显微镜 (LM) 和电子显微镜 (EM)？",
+      "es": "Según la información proporcionada, ¿cuál de las siguientes afirmaciones diferencia con precisión la microscopía óptica (LM) y la microscopía electrónica (EM)?",
+      "fr": "Selon les informations fournies, laquelle des affirmations suivantes différencie avec précision la microscopie optique (LM) et la microscopie électronique (EM) ?",
+      "de": "Welche der folgenden Aussagen unterscheidet basierend auf den bereitgestellten Informationen präzise zwischen Lichtmikroskopie (LM) und Elektronenmikroskopie (EM)?",
+      "ja": "提供された情報に基づいて、次の記述のうち、光学顕微鏡（LM）と電子顕微鏡（EM）を正確に区別しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Light Microscopy (LM) generally offers higher resolution and magnification compared to Electron Microscopy (EM).",
+          "zh": "光学显微镜 (LM) 通常比电子显微镜 (EM) 提供更高的分辨率和放大倍数。",
+          "es": "La microscopía óptica (LM) generalmente ofrece mayor resolución y aumento en comparación con la microscopía electrónica (EM).",
+          "fr": "La microscopie optique (LM) offre généralement une résolution et un grossissement plus élevés que la microscopie électronique (EM).",
+          "de": "Die Lichtmikroskopie (LM) bietet im Allgemeinen eine höhere Auflösung und Vergrößerung im Vergleich zur Elektronenmikroskopie (EM).",
+          "ja": "光学顕微鏡（LM）は、一般的に電子顕微鏡（EM）と比較して、より高い解像度と倍率を提供します。"
+        },
+        "feedback": {
+          "en": "The text implies that EM provides much higher resolution, especially with super-resolution techniques breaking the resolution limit of standard light microscopes (200-nm).",
+          "zh": "文本暗示电子显微镜提供更高的分辨率，特别是超高分辨率技术突破了标准光学显微镜的200纳米分辨率极限。",
+          "es": "El texto implica que la EM proporciona una resolución mucho mayor, especialmente con técnicas de súper resolución que rompen el límite de resolución de los microscopios ópticos estándar (200 nm).",
+          "fr": "Le texte implique que la ME offre une résolution beaucoup plus élevée, en particulier avec les techniques de super-résolution qui dépassent la limite de résolution des microscopes optiques standard (200 nm).",
+          "de": "Der Text impliziert, dass EM eine viel höhere Auflösung bietet, insbesondere mit Superauflösungstechniken, die die Auflösungsgrenze von Standardlichtmikroskopen (200 nm) durchbrechen.",
+          "ja": "本文は、EMがはるかに高い解像度を提供することを示唆しており、特に超解像技術は標準的な光学顕微鏡の分解能限界（200nm）を突破しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Electron Microscopy (EM) techniques are capable of showing internal cell structures and often require preserved specimens, whereas certain Light Microscopy (LM) techniques can observe living, unstained cells.",
+          "zh": "电子显微镜 (EM) 技术能够显示细胞内部结构，通常需要经过处理的样本；而某些光学显微镜 (LM) 技术可以观察活的、未染色的细胞。",
+          "es": "Las técnicas de microscopía electrónica (EM) son capaces de mostrar estructuras celulares internas y a menudo requieren especímenes preservados, mientras que ciertas técnicas de microscopía óptica (LM) pueden observar células vivas y sin teñir.",
+          "fr": "Les techniques de microscopie électronique (ME) sont capables de montrer les structures cellulaires internes et nécessitent souvent des spécimens préservés, tandis que certaines techniques de microscopie optique (MO) peuvent observer des cellules vivantes et non colorées.",
+          "de": "Elektronenmikroskopische (EM) Techniken können innere Zellstrukturen zeigen und erfordern oft konservierte Proben, während bestimmte Lichtmikroskopie (LM) Techniken lebende, ungefärbte Zellen beobachten können.",
+          "ja": "電子顕微鏡（EM）技術は細胞の内部構造を示すことができ、しばしば保存された標本を必要としますが、特定の光学顕微鏡（LM）技術では、生きた、染色されていない細胞を観察することができます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "All Light Microscopy (LM) methods rely on staining to achieve contrast, unlike Electron Microscopy (EM).",
+          "zh": "所有光学显微镜 (LM) 方法都依赖染色来实现对比度，这与电子显微镜 (EM) 不同。",
+          "es": "Todos los métodos de microscopía óptica (LM) dependen de la tinción para lograr contraste, a diferencia de la microscopía electrónica (EM).",
+          "fr": "Toutes les méthodes de microscopie optique (MO) dépendent de la coloration pour obtenir un contraste, contrairement à la microscopie électronique (ME).",
+          "de": "Alle Lichtmikroskopie (LM)-Methoden sind auf Färbung angewiesen, um Kontrast zu erzielen, im Gegensatz zur Elektronenmikroskopie (EM).",
+          "ja": "すべての光学顕微鏡（LM）法はコントラストを得るために染色に依存しますが、電子顕微鏡（EM）は異なります。"
+        },
+        "feedback": {
+          "en": "Phase-contrast and Differential Interference Contrast (Nomarski) microscopy are LM techniques specifically mentioned as useful for unstained cells.",
+          "zh": "相差显微镜和微分干涉差显微镜（Nomarski）是光学显微镜技术，特别提到它们适用于观察未染色的细胞。",
+          "es": "La microscopía de contraste de fases y de contraste de interferencia diferencial (Nomarski) son técnicas de LM específicamente mencionadas como útiles para células sin teñir.",
+          "fr": "La microscopie à contraste de phase et à contraste interférentiel différentiel (Nomarski) sont des techniques de MO spécifiquement mentionnées comme utiles pour les cellules non colorées.",
+          "de": "Phasenkontrast- und Differentialinterferenzkontrastmikroskopie (Nomarski) sind LM-Techniken, die ausdrücklich als nützlich für ungefärbte Zellen erwähnt werden.",
+          "ja": "位相差顕微鏡と微分干渉コントラスト顕微鏡（Nomarski）は、特に未染色の細胞の観察に有用であると述べられているLM技術です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Electron Microscopy (EM) images are naturally produced in full color, whereas Light Microscopy (LM) images are always monochrome.",
+          "zh": "电子显微镜 (EM) 图像天然是全彩色的，而光学显微镜 (LM) 图像总是单色的。",
+          "es": "Las imágenes de microscopía electrónica (EM) se producen naturalmente a todo color, mientras que las imágenes de microscopía óptica (LM) son siempre monocromáticas.",
+          "fr": "Les images de microscopie électronique (ME) sont naturellement produites en couleur, tandis que les images de microscopie optique (MO) sont toujours monochromes.",
+          "de": "Elektronenmikroskopische (EM) Bilder werden natürlich in Vollfarbe erzeugt, während lichtmikroskopische (LM) Bilder immer monochrom sind.",
+          "ja": "電子顕微鏡（EM）画像は自然にフルカラーで生成されますが、光学顕微鏡（LM）画像は常にモノクロです。"
+        },
+        "feedback": {
+          "en": "The text states that EM micrographs are 'black and white but are often artificially colorized'. LM images can be in color, especially with staining or fluorescence.",
+          "zh": "文本指出电子显微镜照片“是黑白的，但经常被人为着色”。光学显微镜图像可以是彩色的，特别是通过染色或荧光技术。",
+          "es": "El texto indica que las micrografías de EM son 'blancas y negras, pero a menudo se colorean artificialmente'. Las imágenes de LM pueden ser en color, especialmente con tinción o fluorescencia.",
+          "fr": "Le texte indique que les micrographies ME sont 'en noir et blanc mais sont souvent colorisées artificiellement'. Les images MO peuvent être en couleur, surtout avec la coloration ou la fluorescence.",
+          "de": "Der Text besagt, dass EM-Mikrographen „schwarz-weiß sind, aber oft künstlich koloriert werden“. LM-Bilder können farbig sein, besonders bei Färbung oder Fluoreszenz.",
+          "ja": "本文には、EMのマイクログラフは「白黒ですが、しばしば人工的に着色される」と記載されています。LM画像は、特に染色や蛍光を用いるとカラーになることがあります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Electron microscopy (EM), especially TEM, is used to reveal internal structures and typically requires preserved specimens. Conversely, light microscopy (LM) techniques like phase-contrast are explicitly stated to be 'especially useful for examining living, unstained cells.' The other options contain inaccuracies regarding resolution, staining requirements for LM, and natural color of EM images.",
+      "zh": "电子显微镜 (EM)，特别是透射电子显微镜 (TEM)，用于揭示内部结构，通常需要经过处理的样本。相反，光学显微镜 (LM) 技术，如相差显微镜，被明确指出“尤其适用于检查活的、未染色的细胞”。其他选项在分辨率、LM的染色要求以及EM图像的自然颜色方面存在不准确之处。",
+      "es": "La microscopía electrónica (EM), especialmente la TEM, se utiliza para revelar estructuras internas y típicamente requiere especímenes preservados. Por el contrario, las técnicas de microscopía óptica (LM) como el contraste de fases se mencionan explícitamente como 'especialmente útiles para examinar células vivas y sin teñir'. Las otras opciones contienen inexactitudes con respecto a la resolución, los requisitos de tinción para LM y el color natural de las imágenes EM.",
+      "fr": "La microscopie électronique (ME), en particulier la MET, est utilisée pour révéler les structures internes et nécessite généralement des spécimens préservés. Inversement, les techniques de microscopie optique (MO) comme le contraste de phase sont explicitement mentionnées comme 'particulièrement utiles pour examiner les cellules vivantes et non colorées'. Les autres options contiennent des inexactitudes concernant la résolution, les exigences de coloration pour la MO et la couleur naturelle des images ME.",
+      "de": "Die Elektronenmikroskopie (EM), insbesondere die TEM, wird verwendet, um innere Strukturen zu enthüllen und erfordert typischerweise konservierte Proben. Umgekehrt werden lichtmikroskopische (LM) Techniken wie die Phasenkontrastmikroskopie explizit als „besonders nützlich für die Untersuchung lebender, ungefärbter Zellen“ erwähnt. Die anderen Optionen enthalten Ungenauigkeiten bezüglich der Auflösung, der Färbeanforderungen für LM und der natürlichen Farbe von EM-Bildern.",
+      "ja": "電子顕微鏡（EM）、特にTEMは、細胞の内部構造を明らかにするために使用され、通常は保存された標本が必要です。対照的に、位相差顕微鏡のような光学顕微鏡（LM）技術は、「生きた、染色されていない細胞を調べるのに特に有用」であると明記されています。他の選択肢には、分解能、LMの染色要件、EM画像の自然な色に関する不正確な情報が含まれています。"
+    }
+  },
+  {
+    "page_number": 144,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which light microscopy technique is described as using a laser to create a single plane of fluorescence, thereby eliminating out-of-focus light and enabling 3-D reconstruction?",
+      "zh": "哪种光学显微镜技术被描述为使用激光创建单个荧光平面，从而消除离焦光并实现三维重建？",
+      "es": "¿Qué técnica de microscopía óptica se describe como el uso de un láser para crear un solo plano de fluorescencia, eliminando así la luz desenfocada y permitiendo la reconstrucción en 3D?",
+      "fr": "Quelle technique de microscopie optique est décrite comme utilisant un laser pour créer un plan unique de fluorescence, éliminant ainsi la lumière hors foyer et permettant la reconstruction 3D ?",
+      "de": "Welche Lichtmikroskopie-Technik wird als diejenige beschrieben, die einen Laser verwendet, um eine einzelne Fluoreszenzebene zu erzeugen, wodurch unscharfes Licht eliminiert und eine 3D-Rekonstruktion ermöglicht wird?",
+      "ja": "レーザーを使用して単一の蛍光平面を作成し、ピンボケ光を除去して3D再構築を可能にする光学顕微鏡技術はどれと説明されていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Brightfield microscopy",
+          "zh": "明场显微镜",
+          "es": "Microscopía de campo claro",
+          "fr": "Microscopie en fond clair",
+          "de": "Hellfeldmikroskopie",
+          "ja": "明視野顕微鏡"
+        },
+        "feedback": {
+          "en": "Brightfield microscopy passes light directly through the specimen and does not involve lasers or 3-D reconstruction.",
+          "zh": "明场显微镜是光线直接穿透样本，不涉及激光或三维重建。",
+          "es": "La microscopía de campo claro pasa la luz directamente a través del espécimen y no implica láseres ni reconstrucción 3D.",
+          "fr": "La microscopie en fond clair fait passer la lumière directement à travers l'échantillon et n'implique ni lasers ni reconstruction 3D.",
+          "de": "Die Hellfeldmikroskopie leitet Licht direkt durch die Probe und beinhaltet weder Laser noch 3D-Rekonstruktionen.",
+          "ja": "明視野顕微鏡は、光を直接試料に通すもので、レーザーや3D再構築は関与しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Phase-contrast microscopy",
+          "zh": "相差显微镜",
+          "es": "Microscopía de contraste de fases",
+          "fr": "Microscopie à contraste de phase",
+          "de": "Phasenkontrastmikroskopie",
+          "ja": "位相差顕微鏡"
+        },
+        "feedback": {
+          "en": "Phase-contrast microscopy amplifies variations in density for unstained cells and does not use lasers for 3-D reconstruction.",
+          "zh": "相差显微镜是用于未染色细胞，通过放大密度变化来增强对比度，不使用激光进行三维重建。",
+          "es": "La microscopía de contraste de fases amplifica las variaciones de densidad para células sin teñir y no utiliza láseres para la reconstrucción 3D.",
+          "fr": "La microscopie à contraste de phase amplifie les variations de densité pour les cellules non colorées et n'utilise pas de lasers pour la reconstruction 3D.",
+          "de": "Die Phasenkontrastmikroskopie verstärkt Dichteunterschiede bei ungefärbten Zellen und verwendet keine Laser für die 3D-Rekonstruktion.",
+          "ja": "位相差顕微鏡は、染色されていない細胞の密度変化を増幅するもので、3D再構築のためにレーザーを使用しません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Confocal microscopy",
+          "zh": "共聚焦显微镜",
+          "es": "Microscopía confocal",
+          "fr": "Microscopie confocale",
+          "de": "Konfokalmikroskopie",
+          "ja": "共焦点顕微鏡"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Fluorescence microscopy",
+          "zh": "荧光显微镜",
+          "es": "Microscopía de fluorescencia",
+          "fr": "Microscopie à fluorescence",
+          "de": "Fluoreszenzmikroskopie",
+          "ja": "蛍光顕微鏡"
+        },
+        "feedback": {
+          "en": "While confocal microscopy is a type of fluorescence microscopy, standard fluorescence microscopy does not inherently eliminate out-of-focus light to the same extent or create sharp 3D reconstructions.",
+          "zh": "虽然共聚焦显微镜是荧光显微镜的一种，但标准荧光显微镜本身并不能在相同程度上消除离焦光或创建清晰的三维重建。",
+          "es": "Aunque la microscopía confocal es un tipo de microscopía de fluorescencia, la microscopía de fluorescencia estándar no elimina inherentemente la luz desenfocada en la misma medida ni crea reconstrucciones 3D nítidas.",
+          "fr": "Bien que la microscopie confocale soit un type de microscopie à fluorescence, la microscopie à fluorescence standard n'élimine pas intrinsèquement la lumière hors foyer dans la même mesure et ne crée pas de reconstructions 3D nettes.",
+          "de": "Obwohl die Konfokalmikroskopie eine Art der Fluoreszenzmikroskopie ist, eliminiert die Standard-Fluoreszenzmikroskopie nicht inhärent unscharfes Licht im gleichen Maße oder erzeugt scharfe 3D-Rekonstruktionen.",
+          "ja": "共焦点顕微鏡は蛍光顕微鏡の一種ですが、標準的な蛍光顕微鏡は、ぼやけた光を同じ程度に除去したり、鮮明な3D再構築を作成したりする機能が本質的にありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The 'Confocal' section explicitly states: 'In confocal microscopy, a laser is used to create a single plane of fluorescence; out-of-focus light from other planes is eliminated. By capturing sharp images at many different planes, a 3-D reconstruction can be created.'",
+      "zh": "“共聚焦”部分明确指出：“在共聚焦显微镜中，使用激光创建单个荧光平面；消除来自其他平面的离焦光。通过在许多不同平面捕获清晰图像，可以创建三维重建。”",
+      "es": "La sección 'Confocal' establece explícitamente: 'En la microscopía confocal, se utiliza un láser para crear un solo plano de fluorescencia; se elimina la luz desenfocada de otros planos. Al capturar imágenes nítidas en muchos planos diferentes, se puede crear una reconstrucción 3D'.",
+      "fr": "La section 'Confocale' indique explicitement : 'En microscopie confocale, un laser est utilisé pour créer un seul plan de fluorescence ; la lumière hors foyer provenant d'autres plans est éliminée. En capturant des images nettes à de nombreux plans différents, une reconstruction 3D peut être créée.'",
+      "de": "Der Abschnitt „Konfokal“ besagt ausdrücklich: „Bei der Konfokalmikroskopie wird ein Laser verwendet, um eine einzelne Fluoreszenzebene zu erzeugen; unscharfes Licht aus anderen Ebenen wird eliminiert. Durch die Aufnahme scharfer Bilder in vielen verschiedenen Ebenen kann eine 3D-Rekonstruktion erstellt werden.“",
+      "ja": "「共焦点」のセクションには、「共焦点顕微鏡では、レーザーを使用して単一の蛍光平面を作成し、他の平面からの焦点外の光を除去します。多くの異なる平面で鮮明な画像をキャプチャすることにより、3D再構築を作成できます」と明記されています。"
+    }
+  },
+  {
+    "page_number": 144,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the Transmission Electron Micrograph (TEM) of the tracheal cell and its description, what can be inferred about the orientation of the cilia in the lower portion of the image compared to the upper portion?",
+      "zh": "根据气管细胞的透射电子显微照片 (TEM) 及其描述，与图像上半部分相比，可以推断出下半部分纤毛的方向如何？",
+      "es": "Según la micrografía electrónica de transmisión (TEM) de la célula traqueal y su descripción, ¿qué se puede inferir sobre la orientación de los cilios en la porción inferior de la imagen en comparación con la porción superior?",
+      "fr": "En se basant sur la micrographie électronique à transmission (MET) de la cellule trachéale et sa description, que peut-on inférer sur l'orientation des cils dans la partie inférieure de l'image par rapport à la partie supérieure ?",
+      "de": "Basierend auf der Transmissionselektronenmikrographie (TEM) der Trachealzelle und ihrer Beschreibung, was kann über die Ausrichtung der Zilien im unteren Teil des Bildes im Vergleich zum oberen Teil abgeleitet werden?",
+      "ja": "気管細胞の透過型電子顕微鏡（TEM）写真とその説明に基づいて、画像の下部にある線毛の向きが上部と比較してどうなっていると推測できますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The upper portion shows cilia cut in cross-section, while the lower portion shows them in longitudinal section.",
+          "zh": "上半部分显示纤毛的横截面，而下半部分显示其纵截面。",
+          "es": "La porción superior muestra los cilios cortados en sección transversal, mientras que la porción inferior los muestra en sección longitudinal.",
+          "fr": "La partie supérieure montre les cils coupés en coupe transversale, tandis que la partie inférieure les montre en coupe longitudinale.",
+          "de": "Der obere Teil zeigt Zilien im Querschnitt, während der untere Teil sie im Längsschnitt zeigt.",
+          "ja": "上部は線毛の横断面を示し、下部は縦断面を示しています。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The labels in the TEM image indicate the opposite: 'Longitudinal section of cilium' points to the upper part, and 'Cross section of cilium' points to the lower part.",
+          "zh": "这是不正确的。TEM图像中的标签显示的是相反的情况：“纤毛的纵截面”指向上半部分，“纤毛的横截面”指向下半部分。",
+          "es": "Esto es incorrecto. Las etiquetas en la imagen TEM indican lo opuesto: 'Sección longitudinal del cilio' apunta a la parte superior, y 'Sección transversal del cilio' apunta a la parte inferior.",
+          "fr": "Ceci est incorrect. Les étiquettes de l'image MET indiquent le contraire : 'Coupe longitudinale du cil' pointe vers la partie supérieure, et 'Coupe transversale du cil' pointe vers la partie inférieure.",
+          "de": "Dies ist falsch. Die Beschriftungen im TEM-Bild zeigen das Gegenteil an: 'Längsschnitt des Ziliens' zeigt auf den oberen Teil, und 'Querschnitt des Ziliens' zeigt auf den unteren Teil.",
+          "ja": "これは誤りです。TEM画像内のラベルは逆を示しています。「線毛の縦断面」は上部を指し、「線毛の横断面」は下部を指しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Both upper and lower portions show cilia cut in cross-section.",
+          "zh": "上半部分和下半部分都显示纤毛的横截面。",
+          "es": "Tanto la porción superior como la inferior muestran los cilios cortados en sección transversal.",
+          "fr": "Les parties supérieure et inférieure montrent toutes deux les cils coupés en coupe transversale.",
+          "de": "Sowohl der obere als auch der untere Teil zeigen Zilien im Querschnitt.",
+          "ja": "上部と下部の両方が線毛の横断面を示しています。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The TEM image clearly labels the upper part as 'Longitudinal section of cilium'.",
+          "zh": "这是不正确的。TEM图像明确将上半部分标记为“纤毛的纵截面”。",
+          "es": "Esto es incorrecto. La imagen TEM etiqueta claramente la parte superior como 'Sección longitudinal del cilio'.",
+          "fr": "Ceci est incorrect. L'image MET étiquette clairement la partie supérieure comme 'Coupe longitudinale du cil'.",
+          "de": "Dies ist falsch. Das TEM-Bild beschriftet den oberen Teil deutlich als 'Längsschnitt des Ziliens'.",
+          "ja": "これは誤りです。TEM画像では、上部が「線毛の縦断面」と明確に表示されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The upper portion shows cilia cut in longitudinal section, while the lower portion shows them in cross-section.",
+          "zh": "上半部分显示纤毛的纵截面，而下半部分显示其横截面。",
+          "es": "La porción superior muestra los cilios cortados en sección longitudinal, mientras que la porción inferior los muestra en sección transversal.",
+          "fr": "La partie supérieure montre les cils coupés en coupe longitudinale, tandis que la partie inférieure les montre en coupe transversale.",
+          "de": "Der obere Teil zeigt Zilien im Längsschnitt, während der untere Teil sie im Querschnitt zeigt.",
+          "ja": "上部は線毛の縦断面を示し、下部は横断面を示しています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both upper and lower portions show cilia cut in longitudinal section.",
+          "zh": "上半部分和下半部分都显示纤毛的纵截面。",
+          "es": "Tanto la porción superior como la inferior muestran los cilios cortados en sección longitudinal.",
+          "fr": "Les parties supérieure et inférieure montrent toutes deux les cils coupés en coupe longitudinale.",
+          "de": "Sowohl der obere als auch der untere Teil zeigen Zilien im Längsschnitt.",
+          "ja": "上部と下部の両方が線毛の縦断面を示しています。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The TEM image clearly labels the lower part as 'Cross section of cilium'.",
+          "zh": "这是不正确的。TEM图像明确将下半部分标记为“纤毛的横截面”。",
+          "es": "Esto es incorrecto. La imagen TEM etiqueta claramente la parte inferior como 'Sección transversal del cilio'.",
+          "fr": "Ceci est incorrect. L'image MET étiquette clairement la partie inférieure comme 'Coupe transversale du cil'.",
+          "de": "Dies ist falsch. Das TEM-Bild beschriftet den unteren Teil deutlich als 'Querschnitt des Ziliens'.",
+          "ja": "これは誤りです。TEM画像では、下部が「線毛の横断面」と明確に表示されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The TEM image's labels directly indicate that the upper part shows a 'Longitudinal section of cilium' (cut along their lengths), while the lower part shows a 'Cross section of cilium' (cut straight across). This matches the description in the 'Transmission electron microscopy (TEM)' paragraph which states that 'some cilia were cut along their lengths, creating longitudinal sections, while other cilia were cut straight across, creating cross sections.'",
+      "zh": "TEM图像的标签直接表明，上半部分显示的是“纤毛的纵截面”（沿其长度切割），而下半部分显示的是“纤毛的横截面”（直向切割）。这与“透射电子显微镜 (TEM)”段落中的描述相符，该段落指出“一些纤毛是沿其长度切割的，形成了纵截面，而另一些纤毛是直向切割的，形成了横截面。”",
+      "es": "Las etiquetas de la imagen TEM indican directamente que la parte superior muestra una 'sección longitudinal del cilio' (cortada a lo largo de su longitud), mientras que la parte inferior muestra una 'sección transversal del cilio' (cortada directamente). Esto coincide con la descripción en el párrafo de 'Microscopía electrónica de transmisión (TEM)' que establece que 'algunos cilios fueron cortados a lo largo de su longitud, creando secciones longitudinales, mientras que otros cilios fueron cortados directamente, creando secciones transversales'.",
+      "fr": "Les étiquettes de l'image MET indiquent directement que la partie supérieure montre une 'coupe longitudinale du cil' (coupée le long de leur longueur), tandis que la partie inférieure montre une 'coupe transversale du cil' (coupée transversalement). Cela correspond à la description dans le paragraphe 'Microscopie électronique à transmission (MET)' qui stipule que 'certains cils ont été coupés le long de leur longueur, créant des coupes longitudinales, tandis que d'autres cils ont été coupés transversalement, créant des coupes transversales.'",
+      "de": "Die Beschriftungen des TEM-Bildes zeigen direkt an, dass der obere Teil einen „Längsschnitt des Ziliens“ (entlang ihrer Länge geschnitten) zeigt, während der untere Teil einen „Querschnitt des Ziliens“ (gerade quer geschnitten) zeigt. Dies stimmt mit der Beschreibung im Abschnitt „Transmissionselektronenmikroskopie (TEM)“ überein, in der es heißt, dass „einige Zilien entlang ihrer Länge geschnitten wurden, wodurch Längsschnitte entstanden, während andere Zilien gerade quer geschnitten wurden, wodurch Querschnitte entstanden.“",
+      "ja": "TEM画像のラベルは、上部が「線毛の縦断面」（長さに沿って切断）、下部が「線毛の横断面」（まっすぐに横切って切断）であることを直接示しています。これは、「透過型電子顕微鏡（TEM）」の段落の記述と一致しており、「一部の線毛は長さに沿って切断され、縦断面を形成し、他の線毛はまっすぐに横切って切断され、横断面を形成した」と述べられています。"
+    }
+  },
+  {
+    "page_number": 144,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A microbiologist is studying the external, three-dimensional structure of a newly discovered bacterial species that forms thick biofilms. Which microscopy technique would be most appropriate for this investigation?",
+      "zh": "一位微生物学家正在研究一种新发现的细菌物种的外部三维结构，该物种能形成厚厚的生物膜。哪种显微镜技术最适合这项研究？",
+      "es": "Un microbiólogo está estudiando la estructura externa tridimensional de una especie bacteriana recién descubierta que forma biopelículas gruesas. ¿Qué técnica de microscopía sería la más apropiada para esta investigación?",
+      "fr": "Un microbiologiste étudie la structure externe tridimensionnelle d'une nouvelle espèce bactérienne qui forme des biofilms épais. Quelle technique de microscopie serait la plus appropriée pour cette investigation ?",
+      "de": "Ein Mikrobiologe untersucht die äußere, dreidimensionale Struktur einer neu entdeckten Bakterienart, die dicke Biofilme bildet. Welche Mikroskopietechnik wäre für diese Untersuchung am besten geeignet?",
+      "ja": "微生物学者が、厚いバイオフィルムを形成する新種の細菌の外部三次元構造を研究しています。この研究に最も適した顕微鏡技術は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Transmission Electron Microscopy (TEM)",
+          "zh": "透射电子显微镜 (TEM)",
+          "es": "Microscopía Electrónica de Transmisión (TEM)",
+          "fr": "Microscopie électronique à transmission (MET)",
+          "de": "Transmissionselektronenmikroskopie (TEM)",
+          "ja": "透過型電子顕微鏡（TEM）"
+        },
+        "feedback": {
+          "en": "TEM is primarily used to profile thin sections and reveal internal structures, not the 3-D surface of a thick specimen.",
+          "zh": "TEM主要用于分析薄切片并揭示内部结构，而不是厚样本的三维表面。",
+          "es": "La TEM se utiliza principalmente para perfilar secciones delgadas y revelar estructuras internas, no la superficie 3D de un espécimen grueso.",
+          "fr": "La MET est principalement utilisée pour profiler des coupes fines et révéler des structures internes, et non la surface 3D d'un échantillon épais.",
+          "de": "Die TEM wird hauptsächlich zum Profilieren dünner Schnitte und zur Enthüllung innerer Strukturen verwendet, nicht für die 3D-Oberfläche einer dicken Probe.",
+          "ja": "TEMは、主に薄い切片のプロファイル作成や内部構造の解明に用いられ、厚い試料の3D表面を見るのには適していません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Phase-contrast microscopy",
+          "zh": "相差显微镜",
+          "es": "Microscopía de contraste de fases",
+          "fr": "Microscopie à contraste de phase",
+          "de": "Phasenkontrastmikroskopie",
+          "ja": "位相差顕微鏡"
+        },
+        "feedback": {
+          "en": "Phase-contrast microscopy is good for living, unstained cells but is a light microscopy technique with limited resolution and penetration for thick 3-D surface structures.",
+          "zh": "相差显微镜适用于活的、未染色的细胞，但作为一种光学显微镜技术，其分辨率和对厚的三维表面结构的穿透力有限。",
+          "es": "La microscopía de contraste de fases es buena para células vivas y sin teñir, pero es una técnica de microscopía óptica con resolución y penetración limitadas para estructuras superficiales 3D gruesas.",
+          "fr": "La microscopie à contraste de phase est efficace pour les cellules vivantes et non colorées, mais c'est une technique de microscopie optique dont la résolution et la pénétration sont limitées pour les structures de surface 3D épaisses.",
+          "de": "Die Phasenkontrastmikroskopie ist gut für lebende, ungefärbte Zellen, aber eine Lichtmikroskopie-Technik mit begrenzter Auflösung und Penetration für dicke 3D-Oberflächenstrukturen.",
+          "ja": "位相差顕微鏡は生きた未染色の細胞に適していますが、光学的顕微鏡技術であり、厚い3D表面構造に対する解像度と透過能力には限界があります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Scanning Electron Microscopy (SEM)",
+          "zh": "扫描电子显微镜 (SEM)",
+          "es": "Microscopía Electrónica de Barrido (SEM)",
+          "fr": "Microscopie électronique à balayage (MEB)",
+          "de": "Rasterelektronenmikroskopie (REM)",
+          "ja": "走査型電子顕微鏡（SEM）"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Cryo-electron microscopy (cryo-EM)",
+          "zh": "冷冻电子显微镜 (cryo-EM)",
+          "es": "Microscopía crioelectrónica (crio-EM)",
+          "fr": "Microscopie cryo-électronique (cryo-MET)",
+          "de": "Kryo-Elektronenmikroskopie (Kryo-EM)",
+          "ja": "クライオ電子顕微鏡（cryo-EM）"
+        },
+        "feedback": {
+          "en": "Cryo-EM is used to visualize individual molecules (like proteins) in a frozen state, not the overall 3-D surface of a thick bacterial colony.",
+          "zh": "冷冻电镜用于观察冷冻状态下的单个分子（如蛋白质），而非厚细菌菌落的整体三维表面。",
+          "es": "La crio-EM se utiliza para visualizar moléculas individuales (como proteínas) en estado congelado, no la superficie 3D general de una colonia bacteriana gruesa.",
+          "fr": "La cryo-MET est utilisée pour visualiser des molécules individuelles (comme les protéines) à l'état congelé, et non la surface 3D globale d'une colonie bactérienne épaisse.",
+          "de": "Kryo-EM wird zur Visualisierung einzelner Moleküle (wie Proteine) in gefrorenem Zustand verwendet, nicht zur Darstellung der gesamten 3D-Oberfläche einer dicken Bakterienkolonie.",
+          "ja": "クライオEMは、凍結状態の個々の分子（タンパク質など）を可視化するために使用され、厚い細菌コロニーの全体的な3D表面を見るのには適していません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Scanning Electron Microscopy (SEM) is specifically described as producing 'a 3-D image of the surface of a specimen' and is suitable for visualizing structures like cilia on a trachea cell's surface. This makes it ideal for studying the external, 3-D structure of a thick bacterial biofilm.",
+      "zh": "扫描电子显微镜 (SEM) 被明确描述为能生成“样本表面的三维图像”，适用于观察气管细胞表面纤毛等结构。因此，它非常适合研究厚细菌生物膜的外部三维结构。",
+      "es": "La Microscopía Electrónica de Barrido (SEM) se describe específicamente como productora de 'una imagen 3D de la superficie de un espécimen' y es adecuada para visualizar estructuras como los cilios en la superficie de una célula traqueal. Esto la hace ideal para estudiar la estructura externa tridimensional de una biopelícula bacteriana gruesa.",
+      "fr": "La microscopie électronique à balayage (MEB) est spécifiquement décrite comme produisant 'une image 3D de la surface d'un spécimen' et est adaptée pour visualiser des structures comme les cils à la surface d'une cellule trachéale. Cela la rend idéale pour étudier la structure externe tridimensionnelle d'un biofilm bactérien épais.",
+      "de": "Die Rasterelektronenmikroskopie (REM) wird ausdrücklich als Erzeugung eines „3D-Bildes der Oberfläche einer Probe“ beschrieben und eignet sich zur Visualisierung von Strukturen wie Zilien auf der Oberfläche einer Trachealzelle. Dies macht sie ideal für die Untersuchung der äußeren, 3D-Struktur eines dicken bakteriellen Biofilms.",
+      "ja": "走査型電子顕微鏡（SEM）は、「試料表面の3D画像」を生成すると具体的に記述されており、気管細胞表面の線毛のような構造を視覚化するのに適しています。これにより、厚い細菌バイオフィルムの外部3D構造を研究するのに理想的です。"
+    }
+  }
+]

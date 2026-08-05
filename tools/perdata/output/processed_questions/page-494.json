@@ -1,0 +1,305 @@
+[
+  {
+    "page_number": 494,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement about the WD40 domain or its visualization in Figure 21.3 is FALSE?",
+      "zh": "关于图 21.3 中 WD40 结构域或其可视化的以下哪项陈述是错误的？",
+      "es": "¿Cuál de las siguientes afirmaciones sobre el dominio WD40 o su visualización en la Figura 21.3 es FALSA?",
+      "fr": "Laquelle des affirmations suivantes concernant le domaine WD40 ou sa visualisation dans la Figure 21.3 est FAUSSE ?",
+      "de": "Welche Aussage über die WD40-Domäne oder ihre Visualisierung in Abbildung 21.3 ist FALSCH?",
+      "ja": "図21.3のWD40ドメインまたはその可視化に関する以下の記述のうち、誤っているものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The WD40 domain is typically 40 residues long, which is why it's named \"WD40\".",
+          "zh": "WD40 结构域通常长 40 个残基，这就是其被命名为“WD40”的原因。",
+          "es": "El dominio WD40 suele tener 40 residuos de longitud, por lo que se llama \"WD40\".",
+          "fr": "Le domaine WD40 mesure généralement 40 résidus de long, d'où son nom \"WD40\".",
+          "de": "Die WD40-Domäne ist typischerweise 40 Aminosäuren lang, weshalb sie \"WD40\" genannt wird.",
+          "ja": "WD40ドメインは通常40残基長であり、それが「WD40」と名付けられた理由である。"
+        },
+        "feedback": {
+          "en": "This statement is correct. According to the CDD Descriptive Items (Box 6), the WD40 domain is 40 residues long, hence its name.",
+          "zh": "此陈述正确。根据 CDD 描述性项目（方框 6），WD40 结构域长 40 个残基，因此得名。",
+          "es": "Esta afirmación es correcta. Según los elementos descriptivos de CDD (Recuadro 6), el dominio WD40 tiene 40 residuos de longitud, de ahí su nombre.",
+          "fr": "Cette affirmation est correcte. Selon les éléments descriptifs CDD (encadré 6), le domaine WD40 a une longueur de 40 résidus, d'où son nom.",
+          "de": "Diese Aussage ist korrekt. Gemäß den CDD-Beschreibungen (Feld 6) ist die WD40-Domäne 40 Aminosäuren lang, daher ihr Name.",
+          "ja": "この記述は正しいです。CDD記述項目（ボックス6）によると、WD40ドメインは40残基長であり、それが名前の由来です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The Cn3D program displays a 3D ribbon model of cow transducin, and its structure has been experimentally determined.",
+          "zh": "Cn3D 程序显示了牛转导素的 3D 丝带模型，并且其结构已通过实验确定。",
+          "es": "El programa Cn3D muestra un modelo 3D de cinta de la transducina bovina, y su estructura ha sido determinada experimentalmente.",
+          "fr": "Le programme Cn3D affiche un modèle ruban 3D de la transducine bovine, et sa structure a été déterminée expérimentalement.",
+          "de": "Das Cn3D-Programm zeigt ein 3D-Bandmodell von Rinder-Transducin, und seine Struktur wurde experimentell bestimmt.",
+          "ja": "Cn3Dプログラムはウシトランスデューシンを3Dリボンモデルで表示し、その構造は実験的に決定されている。"
+        },
+        "feedback": {
+          "en": "This statement is correct. Box 3 describes the Cn3D program and states that cow transducin's structure 'has been determined'.",
+          "zh": "此陈述正确。方框 3 描述了 Cn3D 程序并指出牛转导素的结构“已确定”。",
+          "es": "Esta afirmación es correcta. El Recuadro 3 describe el programa Cn3D y afirma que la estructura de la transducina bovina 'ha sido determinada'.",
+          "fr": "Cette affirmation est correcte. L'encadré 3 décrit le programme Cn3D et indique que la structure de la transducine bovine 'a été déterminée'.",
+          "de": "Diese Aussage ist korrekt. Feld 3 beschreibt das Cn3D-Programm und besagt, dass die Struktur von Rinder-Transducin 'bestimmt wurde'.",
+          "ja": "この記述は正しいです。ボックス3にはCn3Dプログラムについて記述されており、ウシトランスデューシンの構造が「決定されている」と記載されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cow transducin is depicted with only one WD40 domain highlighted in gray.",
+          "zh": "牛转导素被描绘成只有一个用灰色突出显示的 WD40 结构域。",
+          "es": "La transducina bovina se representa con un solo dominio WD40 resaltado en gris.",
+          "fr": "La transducine bovine est représentée avec un seul domaine WD40 mis en évidence en gris.",
+          "de": "Rinder-Transducin wird mit nur einer grau hervorgehobenen WD40-Domäne dargestellt.",
+          "ja": "ウシトランスデューシンは、灰色で強調表示された1つのWD40ドメインのみで描かれている。"
+        },
+        "feedback": {
+          "en": "This statement is incorrect. Box 4 explicitly states that 'Cow transducin contains seven WD40 domains, one of which is highlighted here in gray'. The figure does not depict only one WD40 domain in total.",
+          "zh": "此陈述不正确。方框 4 明确指出“牛转导素包含七个 WD40 结构域，其中一个在此处用灰色突出显示”。图中并未描绘总共只有一个 WD40 结构域。",
+          "es": "Esta afirmación es incorrecta. El Recuadro 4 establece explícitamente que 'la transducina bovina contiene siete dominios WD40, uno de los cuales está resaltado aquí en gris'. La figura no representa un solo dominio WD40 en total.",
+          "fr": "Cette affirmation est incorrecte. L'encadré 4 indique explicitement que 'la transducine bovine contient sept domaines WD40, dont un est mis en évidence ici en gris'. La figure ne représente pas un seul domaine WD40 au total.",
+          "de": "Diese Aussage ist inkorrekt. Feld 4 besagt explizit, dass 'Rinder-Transducin sieben WD40-Domänen enthält, von denen eine hier in Grau hervorgehoben ist'. Die Abbildung stellt nicht nur eine einzige WD40-Domäne insgesamt dar.",
+          "ja": "この記述は正しくありません。ボックス4には「ウシトランスデューシンは7つのWD40ドメインを含み、そのうちの1つがここで灰色で強調表示されている」と明示されています。図は全体で1つのWD40ドメインだけを描いているわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Hallmarks of the WD40 domain are identified based on the chemical properties of amino acids, not strict sequence identity.",
+          "zh": "WD40 结构域的特征是基于氨基酸的化学性质而非严格的序列同一性来识别的。",
+          "es": "Las características del dominio WD40 se identifican basándose en las propiedades químicas de los aminoácidos, no en una identidad de secuencia estricta.",
+          "fr": "Les caractéristiques du domaine WD40 sont identifiées en fonction des propriétés chimiques des acides aminés, et non d'une identité de séquence stricte.",
+          "de": "Merkmale der WD40-Domäne werden basierend auf den chemischen Eigenschaften der Aminosäuren identifiziert, nicht auf strenger Sequenzidentität.",
+          "ja": "WD40ドメインの hallmarks は、厳密な配列同一性ではなく、アミノ酸の化学的性質に基づいて識別される。"
+        },
+        "feedback": {
+          "en": "This statement is correct. Box 2 clarifies that 'Sequence similarity is based on chemical aspects of the amino acids, so the amino acids in each hallmark region are not always identical'.",
+          "zh": "此陈述正确。方框 2 明确指出“序列相似性是基于氨基酸的化学方面，因此每个特征区域的氨基酸并非总是相同的”。",
+          "es": "Esta afirmación es correcta. El Recuadro 2 aclara que 'la similitud de secuencia se basa en aspectos químicos de los aminoácidos, por lo que los aminoácidos en cada región característica no siempre son idénticos'.",
+          "fr": "Cette affirmation est correcte. L'encadré 2 précise que 'la similarité de séquence est basée sur des aspects chimiques des acides aminés, de sorte que les acides aminés de chaque région caractéristique ne sont pas toujours identiques'.",
+          "de": "Diese Aussage ist korrekt. Feld 2 erklärt, dass 'Sequenzähnlichkeit auf chemischen Aspekten der Aminosäuren basiert, sodass die Aminosäuren in jeder Merkmalsregion nicht immer identisch sind'.",
+          "ja": "この記述は正しいです。ボックス2では「配列類似性はアミノ酸の化学的側面に基づいているため、各 hallmark 領域のアミノ酸は常に同一であるとは限りません」と明記されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Option C is false. According to Box 4, cow transducin 'contains seven WD40 domains, one of which is highlighted here in gray'. Therefore, the statement that it is depicted with *only one* WD40 domain highlighted implies it has only one in total, which is incorrect.",
+      "zh": "选项 C 是错误的。根据方框 4，牛转导素“包含七个 WD40 结构域，其中一个在此处用灰色突出显示”。因此，陈述它只描绘了一个突出显示的 WD40 结构域，意味着它总共只有一个，这是不正确的。",
+      "es": "La opción C es falsa. Según el Recuadro 4, la transducina bovina 'contiene siete dominios WD40, uno de los cuales está resaltado aquí en gris'. Por lo tanto, la afirmación de que se representa con *un solo* dominio WD40 resaltado implica que tiene solo uno en total, lo cual es incorrecto.",
+      "fr": "L'option C est fausse. Selon l'encadré 4, la transducine bovine « contient sept domaines WD40, dont un est mis en évidence ici en gris ». Par conséquent, l'affirmation selon laquelle elle est représentée avec *un seul* domaine WD40 mis en évidence implique qu'elle n'en a qu'un au total, ce qui est incorrect.",
+      "de": "Option C ist falsch. Gemäß Feld 4 'enthält Rinder-Transducin sieben WD40-Domänen, von denen eine hier in Grau hervorgehoben ist'. Die Aussage, dass sie nur mit *einer* hervorgehobenen WD40-Domäne dargestellt wird, impliziert, dass sie insgesamt nur eine besitzt, was inkorrekt ist.",
+      "ja": "選択肢Cは誤りです。ボックス4によると、ウシトランスデューシンは「7つのWD40ドメインを含み、そのうちの1つがここで灰色で強調表示されている」とあります。したがって、強調表示されたWD40ドメインが「1つだけ」であるという記述は、全体で1つしか持っていないことを意味し、これは誤りです。"
+    }
+  },
+  {
+    "page_number": 494,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the primary purpose of \"gene annotation\" as described in the text?",
+      "zh": "根据文本描述，“基因注释”的主要目的是什么？",
+      "es": "¿Cuál es el propósito principal de la \"anotación génica\" según se describe en el texto?",
+      "fr": "Quel est le but principal de l'« annotation génique » tel que décrit dans le texte ?",
+      "de": "Was ist der Hauptzweck der \"Genannotation\", wie im Text beschrieben?",
+      "ja": "テキストに記述されている「遺伝子アノテーション」の主な目的は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To determine the function of an unknown gene solely based on its phenotype.",
+          "zh": "仅根据未知基因的表型来确定其功能。",
+          "es": "Determinar la función de un gen desconocido basándose únicamente en su fenotipo.",
+          "fr": "Déterminer la fonction d'un gène inconnu uniquement en se basant sur son phénotype.",
+          "de": "Die Funktion eines unbekannten Gens ausschließlich basierend auf seinem Phänotyp zu bestimmen.",
+          "ja": "未知の遺伝子の機能を、その表現型のみに基づいて決定すること。"
+        },
+        "feedback": {
+          "en": "This describes the 'classical genetic approach' which the text contrasts with the more recent sequence-based methods used in gene annotation.",
+          "zh": "这描述了“经典遗传学方法”，文本中将其与基因注释中使用的基于序列的较新方法进行了对比。",
+          "es": "Esto describe el 'enfoque genético clásico' que el texto contrasta con los métodos más recientes basados en secuencias utilizados en la anotación génica.",
+          "fr": "Ceci décrit l'« approche génétique classique » que le texte oppose aux méthodes plus récentes basées sur la séquence utilisées dans l'annotation génique.",
+          "de": "Dies beschreibt den 'klassischen genetischen Ansatz', den der Text den neueren sequenzbasierten Methoden der Genannotation gegenüberstellt.",
+          "ja": "これは「古典的な遺伝学的アプローチ」を説明しており、テキストでは遺伝子アノテーションで用いられるより新しい配列ベースの方法と対比しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To confirm the expression of relevant RNA from a proposed gene using RNA-seq.",
+          "zh": "利用 RNA-seq 确认所提议基因的相关 RNA 表达。",
+          "es": "Confirmar la expresión de ARN relevante de un gen propuesto utilizando RNA-seq.",
+          "fr": "Confirmer l'expression de l'ARN pertinent d'un gène proposé à l'aide de l'ARN-seq.",
+          "de": "Die Expression relevanter RNA aus einem vorgeschlagenen Gen mittels RNA-Seq zu bestätigen.",
+          "ja": "RNA-seq を使用して、提案された遺伝子からの関連 RNA の発現を確認すること。"
+        },
+        "feedback": {
+          "en": "This is described as the 'final step' in confirming gene identities, not the overall primary purpose of gene annotation.",
+          "zh": "这被描述为确认基因身份的“最后一步”，而不是基因注释的总体主要目的。",
+          "es": "Esto se describe como el 'paso final' para confirmar las identidades de los genes, no el propósito principal general de la anotación génica.",
+          "fr": "Ceci est décrit comme l'« étape finale » de la confirmation de l'identité des gènes, et non comme l'objectif principal global de l'annotation génique.",
+          "de": "Dies wird als 'letzter Schritt' zur Bestätigung von Genidentitäten beschrieben, nicht als der primäre Gesamtzeck der Genannotation.",
+          "ja": "これは遺伝子同定を確認する「最終段階」と説明されており、遺伝子アノテーション全体の主要な目的ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To identify all protein-coding genes in a sequence and ultimately their functions.",
+          "zh": "识别序列中所有蛋白质编码基因并最终确定其功能。",
+          "es": "Identificar todos los genes codificadores de proteínas en una secuencia y, en última instancia, sus funciones.",
+          "fr": "Identifier tous les gènes codant pour des protéines dans une séquence et, finalement, leurs fonctions.",
+          "de": "Alle proteincodierenden Gene in einer Sequenz zu identifizieren und letztendlich ihre Funktionen zu bestimmen.",
+          "ja": "配列中のすべてのタンパク質コード遺伝子を特定し、最終的にその機能を解明すること。"
+        },
+        "feedback": {
+          "en": "This statement directly matches the definition provided in the text for 'gene annotation'.",
+          "zh": "此陈述直接与文本中“基因注释”的定义相符。",
+          "es": "Esta afirmación coincide directamente con la definición proporcionada en el texto para 'anotación génica'.",
+          "fr": "Cette affirmation correspond directement à la définition fournie dans le texte pour l'« annotation génique ».",
+          "de": "Diese Aussage stimmt direkt mit der im Text gegebenen Definition für 'Genannotation' überein.",
+          "ja": "この記述は、「遺伝子アノテーション」についてテキストで提供されている定義と直接一致します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To compare an unknown protein sequence with known genes from other organisms.",
+          "zh": "将未知蛋白质序列与来自其他生物体的已知基因进行比较。",
+          "es": "Comparar una secuencia de proteína desconocida con genes conocidos de otros organismos.",
+          "fr": "Comparer une séquence protéique inconnue avec des gènes connus d'autres organismes.",
+          "de": "Eine unbekannte Proteinsequenz mit bekannten Genen anderer Organismen zu vergleichen.",
+          "ja": "未知のタンパク質配列を、他の生物の既知の遺伝子と比較すること。"
+        },
+        "feedback": {
+          "en": "While this is a step involved in gene annotation, it is not its primary overall purpose.",
+          "zh": "虽然这是基因注释中的一个步骤，但它不是其主要的总体目的。",
+          "es": "Si bien este es un paso involucrado en la anotación génica, no es su propósito principal general.",
+          "fr": "Bien que ce soit une étape impliquée dans l'annotation génique, ce n'est pas son objectif principal global.",
+          "de": "Obwohl dies ein Schritt bei der Genannotation ist, ist es nicht ihr primärer Gesamtzweck.",
+          "ja": "これは遺伝子アノテーションに含まれるステップの一つですが、その主要な全体的な目的ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'This process, called gene annotation, uses three lines of evidence to identify a gene.' and earlier, 'scientists aim to identify all protein-coding genes in the sequence and ultimately their functions.' This clearly defines the primary purpose of gene annotation.",
+      "zh": "文本明确指出：“这个过程，称为基因注释，使用三条证据来识别基因。” 之前还提到：“科学家旨在识别序列中所有蛋白质编码基因并最终确定其功能。” 这清晰地定义了基因注释的主要目的。",
+      "es": "El texto establece explícitamente: 'Este proceso, llamado anotación génica, utiliza tres líneas de evidencia para identificar un gen.' y anteriormente, 'los científicos tienen como objetivo identificar todos los genes codificadores de proteínas en la secuencia y, en última instancia, sus funciones.' Esto define claramente el propósito principal de la anotación génica.",
+      "fr": "Le texte indique explicitement : « Ce processus, appelé annotation génique, utilise trois lignes de preuve pour identifier un gène. » et plus tôt, « les scientifiques visent à identifier tous les gènes codant pour des protéines dans la séquence et finalement leurs fonctions. » Cela définit clairement le but principal de l'annotation génique.",
+      "de": "Der Text besagt explizit: 'Dieser Prozess, Genannotation genannt, verwendet drei Evidenzlinien, um ein Gen zu identifizieren.' und zuvor: 'Wissenschaftler zielen darauf ab, alle proteincodierenden Gene in der Sequenz und letztendlich deren Funktionen zu identifizieren.' Dies definiert klar den Hauptzweck der Genannotation.",
+      "ja": "テキストには、「遺伝子アノテーションと呼ばれるこのプロセスは、遺伝子を特定するために3つの証拠を使用します。」と明記されており、さらに「科学者たちは、配列中のすべてのタンパク質コード遺伝子とその機能を最終的に特定することを目指しています。」と述べられています。これは、遺伝子アノテーションの主要な目的を明確に定義しています。"
+    }
+  },
+  {
+    "page_number": 494,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A researcher identifies a new gene in a muskmelon and wants to infer its potential function. Based on the principles described in the text, which approach would be most effective for this inference and why?",
+      "zh": "一位研究人员在甜瓜中发现了一个新基因，并希望推断其潜在功能。根据文本中描述的原理，哪种方法对这种推断最有效，为什么？",
+      "es": "Un investigador identifica un nuevo gen en un melón y quiere inferir su función potencial. Basándose en los principios descritos en el texto, ¿qué enfoque sería el más eficaz para esta inferencia y por qué?",
+      "fr": "Un chercheur identifie un nouveau gène chez un melon et souhaite en déduire sa fonction potentielle. Selon les principes décrits dans le texte, quelle approche serait la plus efficace pour cette inférence et pourquoi ?",
+      "de": "Ein Forscher identifiziert ein neues Gen in einer Zuckermelone und möchte dessen potenzielle Funktion ableiten. Basierend auf den im Text beschriebenen Prinzipien, welcher Ansatz wäre für diese Ableitung am effektivsten und warum?",
+      "ja": "ある研究者がメロンの新しい遺伝子を特定し、その潜在的な機能を推測したいと考えています。テキストに記述されている原理に基づいて、この推測に最も効果的なアプローチとその理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Comparing the muskmelon's DNA sequence directly with DNA sequences of known genes from other plants because DNA is the fundamental genetic material.",
+          "zh": "将甜瓜的 DNA 序列直接与来自其他植物的已知基因的 DNA 序列进行比较，因为 DNA 是基本的遗传物质。",
+          "es": "Comparar la secuencia de ADN del melón directamente con secuencias de ADN de genes conocidos de otras plantas porque el ADN es el material genético fundamental.",
+          "fr": "Comparer directement la séquence d'ADN du melon avec les séquences d'ADN de gènes connus d'autres plantes, car l'ADN est le matériel génétique fondamental.",
+          "de": "Die DNA-Sequenz der Zuckermelone direkt mit DNA-Sequenzen bekannter Gene anderer Pflanzen zu vergleichen, da DNA das grundlegende genetische Material ist.",
+          "ja": "メロンのDNA配列を他の植物の既知の遺伝子のDNA配列と直接比較する。DNAは基本的な遺伝物質だからである。"
+        },
+        "feedback": {
+          "en": "While DNA is fundamental, the text states that 'Due to redundancy in the genetic code, the DNA sequence itself may vary more among species than the protein sequence does'. Therefore, direct DNA comparison is less effective for functional inference.",
+          "zh": "虽然 DNA 是基本的，但文本指出“由于遗传密码的冗余性，DNA 序列本身在物种间的变异可能比蛋白质序列更大”。因此，直接的 DNA 比较对于功能推断效果较差。",
+          "es": "Aunque el ADN es fundamental, el texto afirma que 'debido a la redundancia en el código genético, la secuencia de ADN en sí misma puede variar más entre especies que la secuencia de proteínas'. Por lo tanto, la comparación directa del ADN es menos efectiva para la inferencia funcional.",
+          "fr": "Bien que l'ADN soit fondamental, le texte indique que « En raison de la redondance du code génétique, la séquence d'ADN elle-même peut varier davantage entre les espèces que ne le fait la séquence protéique ». Par conséquent, la comparaison directe de l'ADN est moins efficace pour l'inférence fonctionnelle.",
+          "de": "Obwohl DNA fundamental ist, besagt der Text, dass 'aufgrund der Redundanz des genetischen Codes die DNA-Sequenz selbst stärker zwischen Arten variieren kann als die Proteinsequenz'. Daher ist ein direkter DNA-Vergleich für die Funktionsableitung weniger effektiv.",
+          "ja": "DNAは基本的ですが、テキストには「遺伝暗号の冗長性のために、DNA配列自体はタンパク質配列よりも種間でより多様である可能性があります」とあります。したがって、直接的なDNA比較は機能推論にはあまり効果的ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Comparing the muskmelon's predicted amino acid sequence with protein sequences of known genes from other organisms, as protein sequence similarity better reflects functional conservation despite genetic code redundancy.",
+          "zh": "将甜瓜的预测氨基酸序列与来自其他生物体的已知基因的蛋白质序列进行比较，因为尽管存在遗传密码冗余，蛋白质序列相似性更能反映功能保守性。",
+          "es": "Comparar la secuencia de aminoácidos predicha del melón con secuencias de proteínas de genes conocidos de otros organismos, ya que la similitud de la secuencia de proteínas refleja mejor la conservación funcional a pesar de la redundancia del código genético.",
+          "fr": "Comparer la séquence d'acides aminés prédite du melon avec les séquences protéiques de gènes connus d'autres organismes, car la similarité de la séquence protéique reflète mieux la conservation fonctionnelle malgré la redondance du code génétique.",
+          "de": "Die vorhergesagte Aminosäuresequenz der Zuckermelone mit Proteinsequenzen bekannter Gene anderer Organismen zu vergleichen, da die Proteinsequenzähnlichkeit trotz der Redundanz des genetischen Codes die funktionelle Konservierung besser widerspiegelt.",
+          "ja": "メロンの予測されるアミノ酸配列を他の生物の既知の遺伝子のタンパク質配列と比較する。遺伝暗号の冗長性にもかかわらず、タンパク質配列の類似性は機能的保存をよりよく反映するからである。"
+        },
+        "feedback": {
+          "en": "This statement is correct. The text explicitly states, 'Due to redundancy in the genetic code, the DNA sequence itself may vary more among species than the protein sequence does. Thus, scientists interested in proteins often compare the predicted amino acid sequence of a protein to that of other proteins.' This is the most effective approach for functional inference.",
+          "zh": "此陈述正确。文本明确指出：“由于遗传密码的冗余性，DNA 序列本身在物种间的变异可能比蛋白质序列更大。因此，对蛋白质感兴趣的科学家通常会将蛋白质的预测氨基酸序列与来自其他蛋白质的序列进行比较。” 这是功能推断最有效的方法。",
+          "es": "Esta afirmación es correcta. El texto establece explícitamente: 'Debido a la redundancia en el código genético, la secuencia de ADN en sí misma puede variar más entre especies que la secuencia de proteínas. Así, los científicos interesados en las proteínas a menudo comparan la secuencia de aminoácidos predicha de una proteína con la de otras proteínas.' Este es el enfoque más efectivo para la inferencia funcional.",
+          "fr": "Cette affirmation est correcte. Le texte indique explicitement : « En raison de la redondance du code génétique, la séquence d'ADN elle-même peut varier davantage entre les espèces que ne le fait la séquence protéique. Ainsi, les scientifiques intéressés par les protéines comparent souvent la séquence d'acides aminés prédite d'une protéine à celle d'autres protéines. » C'est l'approche la plus efficace pour l'inférence fonctionnelle.",
+          "de": "Diese Aussage ist korrekt. Der Text besagt explizit: 'Aufgrund der Redundanz des genetischen Codes kann die DNA-Sequenz selbst stärker zwischen Arten variieren als die Proteinsequenz. Daher vergleichen Wissenschaftler, die sich für Proteine interessieren, oft die vorhergesagte Aminosäuresequenz eines Proteins mit der anderer Proteine.' Dies ist der effektivste Ansatz zur Funktionsableitung.",
+          "ja": "この記述は正しいです。テキストには「遺伝暗号の冗長性のために、DNA配列自体はタンパク質配列よりも種間でより多様である可能性があります。したがって、タンパク質に関心のある科学者は、タンパク質の予測アミノ酸配列を他のタンパク質のそれと比較することがよくあります。」と明示されています。これは機能推論にとって最も効果的なアプローチです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Analyzing the muskmelon's phenotype after gene knockout to deduce its function, as this is the most direct way to observe gene impact.",
+          "zh": "通过基因敲除分析甜瓜的表型以推断其功能，因为这是观察基因影响最直接的方法。",
+          "es": "Analizar el fenotipo del melón después de la eliminación del gen para deducir su función, ya que esta es la forma más directa de observar el impacto del gen.",
+          "fr": "Analyser le phénotype du melon après un knock-out génique pour en déduire sa fonction, car c'est le moyen le plus direct d'observer l'impact du gène.",
+          "de": "Den Phänotyp der Zuckermelone nach Genausschaltung analysieren, um dessen Funktion abzuleiten, da dies der direkteste Weg ist, die Genwirkung zu beobachten.",
+          "ja": "遺伝子ノックアウト後にメロンの表現型を分析し、その機能を推測する。これが遺伝子の影響を観察する最も直接的な方法だからである。"
+        },
+        "feedback": {
+          "en": "The text describes this as the 'classical genetic approach' which poses 'a new challenge' compared to the more recent sequence-based methods, indicating it's not the most effective for this context.",
+          "zh": "文本将其描述为“经典遗传学方法”，与最近基于序列的方法相比，它提出了“一个新挑战”，表明它在这种情况下并非最有效。",
+          "es": "El texto lo describe como el 'enfoque genético clásico' que plantea 'un nuevo desafío' en comparación con los métodos más recientes basados en secuencias, lo que indica que no es el más efectivo para este contexto.",
+          "fr": "Le texte décrit cela comme l'« approche génétique classique » qui pose « un nouveau défi » par rapport aux méthodes plus récentes basées sur la séquence, indiquant que ce n'est pas la plus efficace dans ce contexte.",
+          "de": "Der Text beschreibt dies als 'klassischen genetischen Ansatz', der im Vergleich zu den neueren sequenzbasierten Methoden 'eine neue Herausforderung' darstellt, was darauf hindeutet, dass er in diesem Kontext nicht der effektivste ist.",
+          "ja": "テキストでは、これを「古典的な遺伝学的アプローチ」と記述しており、最近の配列ベースの方法と比較して「新しい課題」を提起すると述べています。これは、この文脈において最も効果的ではないことを示しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Searching for expressed sequence tags (ESTs) that match the new gene's sequence to confirm its transcription.",
+          "zh": "搜索与新基因序列匹配的表达序列标签（EST），以确认其转录。",
+          "es": "Buscar etiquetas de secuencia expresadas (EST) que coincidan con la secuencia del nuevo gen para confirmar su transcripción.",
+          "fr": "Rechercher des balises de séquence exprimées (EST) qui correspondent à la séquence du nouveau gène afin de confirmer sa transcription.",
+          "de": "Nach expressed sequence tags (ESTs) suchen, die mit der Sequenz des neuen Gens übereinstimmen, um dessen Transkription zu bestätigen.",
+          "ja": "新しい遺伝子の配列に一致する発現配列タグ（EST）を検索し、その転写を確認すること。"
+        },
+        "feedback": {
+          "en": "ESTs are used to identify previously unknown protein-coding genes by matching known mRNAs, but comparing predicted protein sequences is the described method for inferring *function* based on similarity to known genes.",
+          "zh": "EST 用于通过匹配已知 mRNA 来识别以前未知的蛋白质编码基因，但比较预测的蛋白质序列是根据与已知基因的相似性推断其*功能*的描述方法。",
+          "es": "Los EST se utilizan para identificar genes codificadores de proteínas previamente desconocidos mediante la coincidencia con ARNm conocidos, pero la comparación de secuencias de proteínas predichas es el método descrito para inferir la *función* basándose en la similitud con genes conocidos.",
+          "fr": "Les EST sont utilisés pour identifier des gènes codant pour des protéines jusqu'alors inconnus en les faisant correspondre à des ARNm connus, mais la comparaison des séquences protéiques prédites est la méthode décrite pour inférer la *fonction* basée sur la similarité avec des gènes connus.",
+          "de": "ESTs werden verwendet, um bisher unbekannte proteincodierende Gene durch Abgleich mit bekannten mRNAs zu identifizieren, aber der Vergleich vorhergesagter Proteinsequenzen ist die beschriebene Methode zur Ableitung der *Funktion* basierend auf der Ähnlichkeit zu bekannten Genen.",
+          "ja": "ESTは既知のmRNAと一致させることでこれまで未知だったタンパク質コード遺伝子を特定するために使用されますが、予測されるタンパク質配列を比較することは、既知の遺伝子との類似性に基づいて*機能*を推論するための記述された方法です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text highlights that 'Due to redundancy in the genetic code, the DNA sequence itself may vary more among species than the protein sequence does. Thus, scientists interested in proteins often compare the predicted amino acid sequence of a protein to that of other proteins.' This implies that comparing protein sequences is more effective for inferring function based on evolutionary conservation than comparing DNA sequences.",
+      "zh": "文本强调：“由于遗传密码的冗余性，DNA 序列本身在物种间的变异可能比蛋白质序列更大。因此，对蛋白质感兴趣的科学家通常会将蛋白质的预测氨基酸序列与来自其他蛋白质的序列进行比较。” 这意味着，基于进化保守性推断功能时，比较蛋白质序列比比较 DNA 序列更有效。",
+      "es": "El texto destaca que 'debido a la redundancia en el código genético, la secuencia de ADN en sí misma puede variar más entre especies que la secuencia de proteínas. Así, los científicos interesados en las proteínas a menudo comparan la secuencia de aminoácidos predicha de una proteína con la de otras proteínas.' Esto implica que comparar secuencias de proteínas es más efectivo para inferir la función basándose en la conservación evolutiva que comparar secuencias de ADN.",
+      "fr": "Le texte souligne que « en raison de la redondance du code génétique, la séquence d'ADN elle-même peut varier davantage entre les espèces que ne le fait la séquence protéique. Ainsi, les scientifiques intéressés par les protéines comparent souvent la séquence d'acides aminés prédite d'une protéine à celle d'autres protéines. » Cela implique que la comparaison des séquences protéiques est plus efficace pour inférer la fonction basée sur la conservation évolutive que la comparaison des séquences d'ADN.",
+      "de": "Der Text hebt hervor, dass 'aufgrund der Redundanz des genetischen Codes die DNA-Sequenz selbst stärker zwischen Arten variieren kann als die Proteinsequenz. Daher vergleichen Wissenschaftler, die sich für Proteine interessieren, oft die vorhergesagte Aminosäuresequenz eines Proteins mit der anderer Proteine.' Dies impliziert, dass der Vergleich von Proteinsequenzen für die Ableitung der Funktion basierend auf evolutionärer Konservierung effektiver ist als der Vergleich von DNA-Sequenzen.",
+      "ja": "テキストでは、「遺伝暗号の冗長性のために、DNA配列自体はタンパク質配列よりも種間でより多様である可能性があります。したがって、タンパク質に関心のある科学者は、タンパク質の予測アミノ酸配列を他のタンパク質のそれと比較することがよくあります。」と強調されています。これは、進化的な保存に基づいて機能を推測する場合、DNA配列を比較するよりもタンパク質配列を比較する方が効果的であることを意味します。"
+    }
+  }
+]

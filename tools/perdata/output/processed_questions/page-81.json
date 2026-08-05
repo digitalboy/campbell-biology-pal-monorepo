@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 81,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In a PET scan, radioactive isotopes are used to label glucose. What is the primary reason for using labeled glucose to detect cancerous tissue, according to the provided text?",
+      "zh": "在PET扫描中，放射性同位素用于标记葡萄糖。根据提供的文本，使用标记葡萄糖检测癌组织的主要原因是什么？",
+      "es": "En una exploración PET, se utilizan isótopos radiactivos para etiquetar la glucosa. Según el texto proporcionado, ¿cuál es la razón principal para usar glucosa marcada para detectar tejido canceroso?",
+      "fr": "Dans un scan TEP, des isotopes radioactifs sont utilisés pour marquer le glucose. Selon le texte fourni, quelle est la raison principale d'utiliser du glucose marqué pour détecter les tissus cancéreux ?",
+      "de": "Warum wird bei einem PET-Scan radioaktiv markierte Glukose verwendet, um krebsartiges Gewebe zu erkennen, gemäß dem bereitgestellten Text?",
+      "ja": "PETスキャンにおいて、放射性同位体がグルコースの標識に用いられます。提供されたテキストによると、癌組織を検出するために標識グルコースを使用する主な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Cancerous tissue produces more radioactive isotopes, which can be detected by PET.",
+          "zh": "癌组织产生更多放射性同位素，可通过PET检测。",
+          "es": "El tejido canceroso produce más isótopos radiactivos, que pueden ser detectados por PET.",
+          "fr": "Les tissus cancéreux produisent plus d'isotopes radioactifs, qui peuvent être détectés par TEP.",
+          "de": "Krebsgewebe produziert mehr radioaktive Isotope, die mittels PET nachgewiesen werden können.",
+          "ja": "癌組織がより多くの放射性同位体を生成し、それがPETで検出されるため。"
+        },
+        "feedback": {
+          "en": "The text states that glucose is labeled with radioactive isotopes, not that cancerous tissue produces them.",
+          "zh": "文本指出葡萄糖用放射性同位素标记，而非癌组织产生它们。",
+          "es": "El texto indica que la glucosa se etiqueta con isótopos radiactivos, no que el tejido canceroso los produzca.",
+          "fr": "Le texte indique que le glucose est marqué avec des isotopes radioactifs, et non que le tissu cancéreux les produit.",
+          "de": "Der Text besagt, dass Glukose mit radioaktiven Isotopen markiert wird, nicht dass Krebsgewebe diese produziert.",
+          "ja": "テキストによると、グルコースが放射性同位体で標識されるのであり、癌組織がそれらを生成するわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Labeled glucose indicates areas of high metabolic activity, which is a hallmark of cancerous tissue.",
+          "zh": "标记葡萄糖指示高代谢活动区域，这是癌组织的一个标志。",
+          "es": "La glucosa marcada indica áreas de alta actividad metabólica, lo cual es un distintivo del tejido canceroso.",
+          "fr": "Le glucose marqué indique les zones de forte activité métabolique, ce qui est une caractéristique des tissus cancéreux.",
+          "de": "Markierte Glukose zeigt Bereiche hoher Stoffwechselaktivität an, was ein Kennzeichen von Krebsgewebe ist.",
+          "ja": "標識グルコースは高い代謝活動領域を示し、これが癌組織の特徴であるため。"
+        },
+        "feedback": {
+          "en": "This is the correct reason, as the text explicitly states that labeled glucose indicates high metabolic activity, a hallmark of cancerous tissue.",
+          "zh": "这是正确的原因，因为文本明确指出标记葡萄糖指示高代谢活动，这是癌组织的一个标志。",
+          "es": "Esta es la razón correcta, ya que el texto afirma explícitamente que la glucosa marcada indica una alta actividad metabólica, una característica del tejido canceroso.",
+          "fr": "C'est la raison correcte, car le texte indique explicitement que le glucose marqué indique une forte activité métabolique, une caractéristique des tissus cancéreux.",
+          "de": "Dies ist der richtige Grund, da der Text ausdrücklich besagt, dass markierte Glukose eine hohe Stoffwechselaktivität anzeigt, ein Kennzeichen von Krebsgewebe.",
+          "ja": "これが正しい理由です。テキストに明示されている通り、標識グルコースは癌組織の特徴である高い代謝活動を示すからです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Radioactively labeled glucose directly binds to cancer cells, allowing them to be visualized.",
+          "zh": "放射性标记的葡萄糖直接与癌细胞结合，使其可见。",
+          "es": "La glucosa marcada radiactivamente se une directamente a las células cancerosas, permitiendo visualizarlas.",
+          "fr": "Le glucose marqué radioactivement se lie directement aux cellules cancéreuses, permettant de les visualiser.",
+          "de": "Radioaktiv markierte Glukose bindet direkt an Krebszellen, wodurch diese sichtbar gemacht werden können.",
+          "ja": "放射性標識グルコースが癌細胞に直接結合し、可視化できるため。"
+        },
+        "feedback": {
+          "en": "The text does not mention direct binding; rather, it emphasizes metabolic activity.",
+          "zh": "文本并未提及直接结合；相反，它强调的是代谢活动。",
+          "es": "El texto no menciona la unión directa; más bien, enfatiza la actividad metabólica.",
+          "fr": "Le texte ne mentionne pas de liaison directe; il met plutôt l'accent sur l'activité métabolique.",
+          "de": "Der Text erwähnt keine direkte Bindung; vielmehr betont er die Stoffwechselaktivität.",
+          "ja": "テキストには直接結合については言及されておらず、代謝活動が強調されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "PET scans detect the physical mass of tumors, which are often composed of glucose.",
+          "zh": "PET扫描检测肿瘤的物理质量，肿瘤通常由葡萄糖组成。",
+          "es": "Las exploraciones PET detectan la masa física de los tumores, que a menudo están compuestos de glucosa.",
+          "fr": "Les scans TEP détectent la masse physique des tumeurs, qui sont souvent composées de glucose.",
+          "de": "PET-Scans erfassen die physische Masse von Tumoren, die oft aus Glukose bestehen.",
+          "ja": "PETスキャンは腫瘍の物理的な質量を検出し、腫瘍はしばしばグルコースで構成されているため。"
+        },
+        "feedback": {
+          "en": "PET detects chemical activity, not physical mass, and tumors are not primarily composed of glucose.",
+          "zh": "PET检测的是化学活动而非物理质量，且肿瘤并非主要由葡萄糖组成。",
+          "es": "El PET detecta la actividad química, no la masa física, y los tumores no están compuestos principalmente de glucosa.",
+          "fr": "Le TEP détecte l'activité chimique, pas la masse physique, et les tumeurs ne sont pas principalement composées de glucose.",
+          "de": "PET erfasst chemische Aktivität, nicht die physische Masse, und Tumore bestehen nicht hauptsächlich aus Glukose.",
+          "ja": "PETは物理的な質量ではなく化学的な活動を検出し、腫瘍は主にグルコースで構成されているわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "According to the 'Figure 2.5 A PET scan...' section, 'The bright yellow spot marks an area with an elevated level of radioactively labeled glucose, which in turn indicates high metabolic activity, a hallmark of cancerous tissue.' This directly explains why labeled glucose is used: to identify areas with high metabolic activity, characteristic of cancer cells.",
+      "zh": "根据“图2.5 PET扫描...”部分，“亮黄色斑点标志着放射性标记葡萄糖水平升高的区域，这反过来表明高代谢活动，这是癌组织的一个标志。”这直接解释了为什么使用标记葡萄糖：为了识别具有高代谢活动的区域，这是癌细胞的特征。",
+      "es": "Según la sección 'Figura 2.5 Una exploración PET...', 'El punto amarillo brillante marca un área con un nivel elevado de glucosa marcada radiactivamente, lo que a su vez indica una alta actividad metabólica, una característica del tejido canceroso.' Esto explica directamente por qué se utiliza glucosa marcada: para identificar áreas con alta actividad metabólica, característica de las células cancerosas.",
+      "fr": "Selon la section 'Figure 2.5 Un scan TEP...', 'La tache jaune vif marque une zone avec un niveau élevé de glucose marqué radioactivement, ce qui indique à son tour une forte activité métabolique, une caractéristique du tissu cancéreux.' Cela explique directement pourquoi le glucose marqué est utilisé : pour identifier les zones de forte activité métabolique, caractéristique des cellules cancéreuses.",
+      "de": "Gemäß dem Abschnitt „Abbildung 2.5 Ein PET-Scan...“: „Der hellgelbe Fleck markiert einen Bereich mit einem erhöhten Gehalt an radioaktiv markierter Glukose, was wiederum auf eine hohe Stoffwechselaktivität hindeutet, ein Kennzeichen von Krebsgewebe.“ Dies erklärt direkt, warum markierte Glukose verwendet wird: um Bereiche mit hoher Stoffwechselaktivität zu identifizieren, die für Krebszellen charakteristisch sind.",
+      "ja": "「図2.5 PETスキャン...」のセクションによると、「明るい黄色の斑点は放射性標識グルコースのレベルが上昇した領域を示し、これは高代謝活動、すなわち癌組織の特徴を示すものです。」これは、標識グルコースが使用される理由を直接説明しています。つまり、癌細胞に特徴的な高代謝活動領域を特定するためです。"
+    }
+  },
+  {
+    "page_number": 81,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following statements accurately describes the 'half-life' of a radioactive isotope, according to the text on radiometric dating?",
+      "zh": "根据关于放射性测年的文本，以下哪项陈述准确描述了放射性同位素的“半衰期”？",
+      "es": "Según el texto sobre datación radiométrica, ¿cuál de las siguientes afirmaciones describe con precisión la 'vida media' de un isótopo radiactivo?",
+      "fr": "Selon le texte sur la datation radiométrique, laquelle des affirmations suivantes décrit avec précision la 'demi-vie' d'un isotope radioactif ?",
+      "de": "Welche der folgenden Aussagen beschreibt gemäß dem Text über radiometrische Datierung die 'Halbwertszeit' eines radioaktiven Isotops genau?",
+      "ja": "放射年代測定に関するテキストによると、次の記述のうち、放射性同位体の「半減期」を正確に説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The time it takes for an isotope to decay completely into its daughter isotope.",
+          "zh": "同位素完全衰变为其子同位素所需的时间。",
+          "es": "El tiempo que tarda un isótopo en desintegrarse completamente en su isótopo hijo.",
+          "fr": "Le temps qu'il faut à un isotope pour se désintégrer complètement en son isotope fille.",
+          "de": "Die Zeit, die ein Isotop benötigt, um vollständig zu seinem Tochterisotop zu zerfallen.",
+          "ja": "ある同位体が完全にその娘同位体に崩壊するのにかかる時間。"
+        },
+        "feedback": {
+          "en": "Half-life is the time for 50% decay, not complete decay.",
+          "zh": "半衰期是50%衰变所需的时间，而非完全衰变。",
+          "es": "La vida media es el tiempo necesario para un 50% de desintegración, no para una desintegración completa.",
+          "fr": "La demi-vie est le temps nécessaire pour 50% de désintégration, pas pour une désintégration complète.",
+          "de": "Halbwertszeit ist die Zeit für 50% des Zerfalls, nicht für den vollständigen Zerfall.",
+          "ja": "半減期は50%が崩壊する時間であり、完全な崩壊ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The time it takes for 50% of the parent isotope to decay.",
+          "zh": "50%的母同位素衰变所需的时间。",
+          "es": "El tiempo que tarda el 50% del isótopo padre en desintegrarse.",
+          "fr": "Le temps qu'il faut pour que 50% de l'isotope parent se désintègre.",
+          "de": "Die Zeit, die 50% des Mutterisotops zum Zerfall benötigen.",
+          "ja": "親同位体の50%が崩壊するのにかかる時間。"
+        },
+        "feedback": {
+          "en": "This is the precise definition of half-life as stated in the text.",
+          "zh": "这正是文本中给出的半衰期的精确定义。",
+          "es": "Esta es la definición precisa de vida media según se indica en el texto.",
+          "fr": "C'est la définition précise de la demi-vie telle qu'énoncée dans le texte.",
+          "de": "Dies ist die genaue Definition der Halbwertszeit, wie sie im Text angegeben ist.",
+          "ja": "これはテキストに記載されている半減期の正確な定義です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The rate at which an isotope decays, which varies with temperature and pressure.",
+          "zh": "同位素衰变的速率，随温度和压力变化。",
+          "es": "La velocidad a la que un isótopo se desintegra, que varía con la temperatura y la presión.",
+          "fr": "Le taux auquel un isotope se désintègre, qui varie avec la température et la pression.",
+          "de": "Die Zerfallsrate eines Isotops, die mit Temperatur und Druck variiert.",
+          "ja": "同位体が崩壊する速度で、温度や圧力によって変化するもの。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that half-life is 'not affected by temperature, pressure, or any other environmental variable.'",
+          "zh": "文本明确指出半衰期“不受温度、压力或任何其他环境变量的影响”。",
+          "es": "El texto establece explícitamente que la vida media 'no se ve afectada por la temperatura, la presión o cualquier otra variable ambiental'.",
+          "fr": "Le texte indique explicitement que la demi-vie 'n'est pas affectée par la température, la pression ou toute autre variable environnementale'.",
+          "de": "Der Text besagt ausdrücklich, dass die Halbwertszeit „nicht durch Temperatur, Druck oder andere Umweltvariablen beeinflusst wird“.",
+          "ja": "テキストでは、半減期は「温度、圧力、またはその他の環境変数によって影響を受けない」と明示されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The total amount of time an isotope remains radioactive before becoming stable.",
+          "zh": "同位素在稳定前保持放射性的总时间。",
+          "es": "El tiempo total que un isótopo permanece radiactivo antes de volverse estable.",
+          "fr": "Le temps total pendant lequel un isotope reste radioactif avant de devenir stable.",
+          "de": "Die Gesamtzeit, die ein Isotop radioaktiv bleibt, bevor es stabil wird.",
+          "ja": "同位体が安定になる前に放射性を維持する総時間。"
+        },
+        "feedback": {
+          "en": "Half-life refers to the time for 50% decay, not the entire duration until stability.",
+          "zh": "半衰期是指50%衰变所需的时间，而非直到稳定的整个持续时间。",
+          "es": "La vida media se refiere al tiempo necesario para un 50% de desintegración, no a la duración total hasta la estabilidad.",
+          "fr": "La demi-vie se réfère au temps nécessaire pour une désintégration de 50%, et non à la durée totale jusqu'à la stabilité.",
+          "de": "Halbwertszeit bezieht sich auf die Zeit für 50% Zerfall, nicht auf die gesamte Dauer bis zur Stabilität.",
+          "ja": "半減期は50%が崩壊するまでの時間を指し、安定するまでの全期間ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The section 'Radiometric Dating' states: 'A \"parent\" isotope decays into its “daughter” isotope at a fixed rate, expressed as the half-life of the isotope—the time it takes for 50% of the parent isotope to decay.'",
+      "zh": "“放射性测年”部分指出：“一个“母”同位素以固定速率衰变为其“子”同位素，这个速率用同位素的半衰期表示——即50%的母同位素衰变所需的时间。”",
+      "es": "La sección 'Datación Radiométrica' establece: 'Un isótopo \"padre\" se desintegra en su isótopo \"hijo\" a una tasa fija, expresada como la vida media del isótopo, el tiempo que tarda el 50% del isótopo padre en desintegrarse.'",
+      "fr": "La section 'Datation Radiométrique' indique : 'Un isotope « parent » se désintègre en son isotope « fille » à un taux fixe, exprimé comme la demi-vie de l'isotope—le temps qu'il faut pour que 50% de l'isotope parent se désintègre.'",
+      "de": "Der Abschnitt „Radiometrische Datierung“ besagt: „Ein „Mutter“-Isotop zerfällt mit einer festen Rate in sein „Tochter“-Isotop, ausgedrückt als die Halbwertszeit des Isotops – die Zeit, die 50% des Mutterisotops zum Zerfall benötigen.“",
+      "ja": "「放射年代測定」のセクションには、「『親』同位体は一定の割合で『娘』同位体に崩壊し、その速度は同位体の半減期として表現されます—これは親同位体の50%が崩壊するのにかかる時間です。」と記載されています。"
+    }
+  },
+  {
+    "page_number": 81,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 2.6(b) and the accompanying text, which statement correctly describes the energy changes associated with an electron's movement between atomic shells?",
+      "zh": "根据图2.6(b)及附带文本，以下哪项陈述正确描述了电子在原子壳层之间移动时所涉及的能量变化？",
+      "es": "Basándose en la Figura 2.6(b) y el texto que la acompaña, ¿qué afirmación describe correctamente los cambios de energía asociados con el movimiento de un electrón entre las capas atómicas?",
+      "fr": "Basé sur la Figure 2.6(b) et le texte d'accompagnement, quelle affirmation décrit correctement les changements d'énergie associés au mouvement d'un électron entre les couches atomiques ?",
+      "de": "Basierend auf Abbildung 2.6(b) und dem begleitenden Text, welche Aussage beschreibt die Energieänderungen, die mit der Bewegung eines Elektrons zwischen Atomschalen verbunden sind, korrekt?",
+      "ja": "図2.6(b)と付随するテキストに基づいて、原子殻間の電子の移動に伴うエネルギー変化を正しく説明している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "An electron moving from the first shell to the second shell would lose energy.",
+          "zh": "电子从第一层壳层移动到第二层壳层会失去能量。",
+          "es": "Un electrón que se mueve de la primera capa a la segunda capa perdería energía.",
+          "fr": "Un électron se déplaçant de la première couche à la deuxième couche perdrait de l'énergie.",
+          "de": "Ein Elektron, das sich von der ersten zur zweiten Schale bewegt, würde Energie verlieren.",
+          "ja": "電子が第一殻から第二殻へ移動するとエネルギーを失う。"
+        },
+        "feedback": {
+          "en": "The first shell is the lowest energy level, and the second shell is a higher energy level. Moving to a higher energy level requires energy to be absorbed, not lost.",
+          "zh": "第一层壳层是最低能级，第二层壳层是更高能级。移向更高能级需要吸收能量，而不是失去能量。",
+          "es": "La primera capa es el nivel de energía más bajo, y la segunda capa es un nivel de energía más alto. Moverse a un nivel de energía más alto requiere que se absorba energía, no que se pierda.",
+          "fr": "La première couche est le niveau d'énergie le plus bas, et la deuxième couche est un niveau d'énergie plus élevé. Se déplacer vers un niveau d'énergie plus élevé nécessite une absorption d'énergie, pas une perte.",
+          "de": "Die erste Schale ist die niedrigste Energiestufe, und die zweite Schale ist eine höhere Energiestufe. Der Übergang zu einer höheren Energiestufe erfordert die Aufnahme von Energie, nicht deren Verlust.",
+          "ja": "第一殻は最低エネルギーレベル、第二殻はより高いエネルギーレベルです。より高いエネルギーレベルに移動するには、エネルギーが吸収される必要があり、失われるわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "An electron moving from the third shell to the first shell would absorb energy.",
+          "zh": "电子从第三层壳层移动到第一层壳层会吸收能量。",
+          "es": "Un electrón que se mueve de la tercera capa a la primera capa absorbería energía.",
+          "fr": "Un électron se déplaçant de la troisième couche à la première couche absorberait de l'énergie.",
+          "de": "Ein Elektron, das sich von der dritten zur ersten Schale bewegt, würde Energie aufnehmen.",
+          "ja": "電子が第三殻から第一殻へ移動するとエネルギーを吸収する。"
+        },
+        "feedback": {
+          "en": "The first shell is the lowest energy level. Moving to a lower energy level means the electron is losing potential energy, which is released, not absorbed.",
+          "zh": "第一层壳层是最低能级。移向更低能级意味着电子失去势能，这些能量被释放，而不是被吸收。",
+          "es": "La primera capa es el nivel de energía más bajo. Moverse a un nivel de energía más bajo significa que el electrón está perdiendo energía potencial, que se libera, no se absorbe.",
+          "fr": "La première couche est le niveau d'énergie le plus bas. Se déplacer vers un niveau d'énergie plus bas signifie que l'électron perd de l'énergie potentielle, qui est libérée et non absorbée.",
+          "de": "Die erste Schale ist die niedrigste Energiestufe. Ein Übergang zu einer niedrigeren Energiestufe bedeutet, dass das Elektron potenzielle Energie verliert, die freigesetzt und nicht aufgenommen wird.",
+          "ja": "第一殻は最低エネルギーレベルです。より低いエネルギーレベルに移動するということは、電子が位置エネルギーを失い、それが放出されるのであり、吸収されるわけではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Electrons can exist between fixed energy levels, continuously moving.",
+          "zh": "电子可以存在于固定能级之间，持续移动。",
+          "es": "Los electrones pueden existir entre niveles de energía fijos, moviéndose continuamente.",
+          "fr": "Les électrons peuvent exister entre des niveaux d'énergie fixes, se déplaçant continuellement.",
+          "de": "Elektronen können sich zwischen festen Energieniveaus kontinuierlich bewegen.",
+          "ja": "電子は固定されたエネルギーレベルの間に存在し、連続的に移動できる。"
+        },
+        "feedback": {
+          "en": "Figure 2.6(a) and its caption explicitly state that electrons 'exist only at fixed levels of potential energy' and 'can exist only at certain energy levels, not between levels.'",
+          "zh": "图2.6(a)及其图注明确指出，电子“只存在于固定的势能水平”并且“只能存在于特定的能级，而不能存在于能级之间”。",
+          "es": "La Figura 2.6(a) y su pie de foto establecen explícitamente que los electrones 'existen solo en niveles fijos de energía potencial' y 'solo pueden existir en ciertos niveles de energía, no entre niveles'.",
+          "fr": "La Figure 2.6(a) et sa légende stipulent explicitement que les électrons 'existent uniquement à des niveaux d'énergie potentielle fixes' et 'ne peuvent exister qu'à certains niveaux d'énergie, pas entre les niveaux'.",
+          "de": "Abbildung 2.6(a) und die Bildunterschrift besagen ausdrücklich, dass Elektronen „nur auf festen Potenzialenergieniveaus existieren“ und „nur auf bestimmten Energieniveaus, nicht zwischen Niveaus, existieren können“.",
+          "ja": "図2.6(a)とその説明文は、電子が「固定されたポテンシャルエネルギーレベルにのみ存在し」、「特定のエネルギーレベルにのみ存在し、レベル間には存在しない」と明示しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "An electron moving from the first shell to the third shell would absorb energy, as indicated by the arrows pointing outwards in Figure 2.6(b).",
+          "zh": "电子从第一层壳层移动到第三层壳层会吸收能量，如图2.6(b)中向外指的箭头所示。",
+          "es": "Un electrón que se mueve de la primera capa a la tercera capa absorbería energía, como indican las flechas que apuntan hacia afuera en la Figura 2.6(b).",
+          "fr": "Un électron se déplaçant de la première couche à la troisième couche absorberait de l'énergie, comme l'indiquent les flèches pointant vers l'extérieur dans la Figure 2.6(b).",
+          "de": "Ein Elektron, das sich von der ersten zur dritten Schale bewegt, würde Energie aufnehmen, wie die nach außen zeigenden Pfeile in Abbildung 2.6(b) anzeigen.",
+          "ja": "電子が第一殻から第三殻へ移動するとエネルギーを吸収する。これは図2.6(b)の外向きの矢印によって示されている。"
+        },
+        "feedback": {
+          "en": "This is correct. Moving from a lower energy shell (first) to a higher energy shell (third) requires the absorption of energy, which is represented by the 'Energy absorbed' arrows pointing outwards from the nucleus in Figure 2.6(b).",
+          "zh": "这是正确的。从低能级壳层（第一层）移动到高能级壳层（第三层）需要吸收能量，这在图2.6(b)中由从原子核向外指的“吸收能量”箭头表示。",
+          "es": "Esto es correcto. Moverse de una capa de menor energía (primera) a una capa de mayor energía (tercera) requiere la absorción de energía, lo cual está representado por las flechas de 'Energía absorbida' que apuntan hacia afuera del núcleo en la Figura 2.6(b).",
+          "fr": "C'est correct. Le passage d'une couche d'énergie inférieure (première) à une couche d'énergie supérieure (troisième) nécessite l'absorption d'énergie, ce qui est représenté par les flèches 'Énergie absorbée' pointant vers l'extérieur du noyau dans la Figure 2.6(b).",
+          "de": "Dies ist korrekt. Die Bewegung von einer niedrigeren Energieschale (erste) zu einer höheren Energieschale (dritte) erfordert die Aufnahme von Energie, was durch die nach außen zeigenden Pfeile „Energie absorbiert“ in Abbildung 2.6(b) dargestellt wird.",
+          "ja": "これは正しいです。低エネルギー殻（第一殻）から高エネルギー殻（第三殻）へ移動するにはエネルギーの吸収が必要であり、これは図2.6(b)の原子核から外向きに伸びる「エネルギー吸収」の矢印で示されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "Figure 2.6(b) illustrates electron shells, with the first shell being the lowest energy level and the third shell the highest. Arrows pointing outwards from the nucleus indicate 'Energy absorbed,' meaning electrons gain energy to move to higher shells. Conversely, arrows pointing inwards indicate 'Energy lost,' meaning electrons lose energy to move to lower shells. Therefore, moving from the first (lowest) to the third (highest) shell requires energy absorption.",
+      "zh": "图2.6(b)展示了电子壳层，其中第一层壳层是最低能级，第三层壳层是最高能级。从原子核向外指的箭头表示“能量吸收”，意味着电子获得能量以移动到更高的壳层。相反，向内指的箭头表示“能量损失”，意味着电子失去能量以移动到更低的壳层。因此，从第一层（最低）移动到第三层（最高）壳层需要吸收能量。",
+      "es": "La Figura 2.6(b) ilustra las capas electrónicas, siendo la primera capa el nivel de energía más bajo y la tercera capa el más alto. Las flechas que apuntan hacia afuera del núcleo indican 'Energía absorbida', lo que significa que los electrones ganan energía para moverse a capas superiores. Por el contrario, las flechas que apuntan hacia adentro indican 'Energía perdida', lo que significa que los electrones pierden energía para moverse a capas inferiores. Por lo tanto, moverse de la primera (más baja) a la tercera (más alta) capa requiere la absorción de energía.",
+      "fr": "La Figure 2.6(b) illustre les couches électroniques, la première couche étant le niveau d'énergie le plus bas et la troisième le plus élevé. Les flèches pointant vers l'extérieur du noyau indiquent 'Énergie absorbée', ce qui signifie que les électrons gagnent de l'énergie pour se déplacer vers des couches supérieures. Inversement, les flèches pointant vers l'intérieur indiquent 'Énergie perdue', ce qui signifie que les électrons perdent de l'énergie pour se déplacer vers des couches inférieures. Par conséquent, se déplacer de la première (la plus basse) à la troisième (la plus haute) couche nécessite l'absorption d'énergie.",
+      "de": "Abbildung 2.6(b) veranschaulicht die Elektronenschalen, wobei die erste Schale die niedrigste und die dritte Schale die höchste Energiestufe darstellt. Pfeile, die vom Atomkern nach außen zeigen, bedeuten „Energie absorbiert“, was bedeutet, dass Elektronen Energie aufnehmen, um in höhere Schalen zu gelangen. Umgekehrt bedeuten Pfeile, die nach innen zeigen, „Energie verloren“, was bedeutet, dass Elektronen Energie verlieren, um in niedrigere Schalen zu gelangen. Daher erfordert die Bewegung von der ersten (niedrigsten) zur dritten (höchsten) Schale die Absorption von Energie.",
+      "ja": "図2.6(b)は電子殻を示しており、第一殻が最低エネルギーレベル、第三殻が最高エネルギーレベルです。原子核から外側へ向かう矢印は「エネルギー吸収」を示し、電子がより高い殻へ移動するためにエネルギーを得ることを意味します。逆に、内側へ向かう矢印は「エネルギー損失」を示し、電子がより低い殻へ移動するためにエネルギーを失うことを意味します。したがって、第一（最低）殻から第三（最高）殻への移動はエネルギー吸収を必要とします。"
+    }
+  },
+  {
+    "page_number": 81,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text defines potential energy and provides an example of water in a reservoir. Which of the following scenarios best illustrates the natural tendency of matter to move toward the lowest possible state of potential energy, as described?",
+      "zh": "文本定义了势能并提供了水库中的水作为例子。根据描述，以下哪种情景最能说明物质倾向于向最低势能状态移动的自然趋势？",
+      "es": "El texto define la energía potencial y proporciona un ejemplo del agua en un embalse. ¿Cuál de los siguientes escenarios ilustra mejor la tendencia natural de la materia a moverse hacia el estado de energía potencial más bajo posible, según lo descrito?",
+      "fr": "Le texte définit l'énergie potentielle et donne l'exemple de l'eau dans un réservoir. Parmi les scénarios suivants, lequel illustre le mieux la tendance naturelle de la matière à se déplacer vers l'état d'énergie potentielle le plus bas possible, tel que décrit ?",
+      "de": "Der Text definiert potenzielle Energie und gibt das Beispiel von Wasser in einem Reservoir. Welches der folgenden Szenarien veranschaulicht am besten die natürliche Tendenz von Materie, sich zum niedrigstmöglichen Zustand potenzieller Energie zu bewegen, wie beschrieben?",
+      "ja": "本文では位置エネルギーが定義されており、貯水池の水の例が挙げられています。記述されているように、物質が可能な限り低い位置エネルギー状態へ移動する自然な傾向を最もよく示しているのは、次のシナリオのうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Water evaporating from a lake and rising into the atmosphere.",
+          "zh": "湖水蒸发并上升到大气中。",
+          "es": "Agua evaporándose de un lago y subiendo a la atmósfera.",
+          "fr": "L'eau s'évaporant d'un lac et montant dans l'atmosphère.",
+          "de": "Wasser verdunstet aus einem See und steigt in die Atmosphäre auf.",
+          "ja": "湖の水が蒸発して大気中に上昇する。"
+        },
+        "feedback": {
+          "en": "Evaporation and rising require energy input to move water to a higher potential energy state, going against the natural tendency.",
+          "zh": "蒸发和上升需要能量输入，使水移向更高的势能状态，这与自然趋势相反。",
+          "es": "La evaporación y el ascenso requieren un aporte de energía para mover el agua a un estado de energía potencial más alto, lo que va en contra de la tendencia natural.",
+          "fr": "L'évaporation et l'élévation nécessitent un apport d'énergie pour déplacer l'eau vers un état d'énergie potentielle plus élevé, ce qui va à l'encontre de la tendance naturelle.",
+          "de": "Verdunstung und Aufsteigen erfordern Energieeinsatz, um Wasser in einen höheren potenziellen Energiezustand zu bewegen, was der natürlichen Tendenz entgegensteht.",
+          "ja": "蒸発と上昇は、水をより高い位置エネルギー状態に移動させるためにエネルギー入力を必要とし、これは自然な傾向に反します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A ball rolling down a hill and coming to rest at the bottom.",
+          "zh": "球从山坡滚下并停在坡底。",
+          "es": "Una pelota rodando cuesta abajo y deteniéndose en la parte inferior.",
+          "fr": "Une balle roulant en bas d'une colline et s'arrêtant au fond.",
+          "de": "Ein Ball rollt einen Hügel hinunter und kommt unten zum Stillstand.",
+          "ja": "ボールが坂道を転がり落ちて、底で静止する。"
+        },
+        "feedback": {
+          "en": "This is an excellent illustration. The ball moves from a higher gravitational potential energy (top of the hill) to a lower state (bottom), naturally releasing energy until it reaches the lowest possible point.",
+          "zh": "这是一个极好的例子。球从较高的重力势能（山顶）移动到较低的状态（底部），自然地释放能量直到达到最低点。",
+          "es": "Esta es una excelente ilustración. La pelota se mueve de una energía potencial gravitatoria más alta (cima de la colina) a un estado más bajo (fondo), liberando energía de forma natural hasta que alcanza el punto más bajo posible.",
+          "fr": "C'est une excellente illustration. La balle passe d'une énergie potentielle gravitationnelle plus élevée (sommet de la colline) à un état inférieur (bas), libérant naturellement de l'énergie jusqu'à atteindre le point le plus bas possible.",
+          "de": "Dies ist eine ausgezeichnete Veranschaulichung. Der Ball bewegt sich von einer höheren Gravitationsenergie (Hügelspitze) in einen niedrigeren Zustand (Boden) und gibt dabei auf natürliche Weise Energie ab, bis er den niedrigstmöglichen Punkt erreicht.",
+          "ja": "これは素晴らしい例です。ボールはより高い重力位置エネルギー（丘の頂上）からより低い状態（底）へと移動し、最も低い点に到達するまで自然にエネルギーを放出します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A spring being compressed, storing elastic potential energy.",
+          "zh": "弹簧被压缩，储存弹性势能。",
+          "es": "Un resorte siendo comprimido, almacenando energía potencial elástica.",
+          "fr": "Un ressort comprimé, stockant de l'énergie potentielle élastique.",
+          "de": "Eine Feder wird komprimiert und speichert elastische potenzielle Energie.",
+          "ja": "バネが圧縮され、弾性位置エネルギーが蓄積される。"
+        },
+        "feedback": {
+          "en": "Compressing a spring involves doing work on it, thereby increasing its potential energy, which goes against the natural tendency to move to the lowest state.",
+          "zh": "压缩弹簧涉及对其做功，从而增加其势能，这与移向最低状态的自然趋势相反。",
+          "es": "Comprimir un resorte implica trabajar sobre él, aumentando así su energía potencial, lo que va en contra de la tendencia natural de moverse al estado más bajo.",
+          "fr": "Comprimer un ressort implique d'y exercer un travail, augmentant ainsi son énergie potentielle, ce qui va à l'encontre de la tendance naturelle à se déplacer vers l'état le plus bas.",
+          "de": "Das Zusammendrücken einer Feder erfordert Arbeit, wodurch ihre potenzielle Energie erhöht wird, was der natürlichen Tendenz widerspricht, sich in den niedrigsten Zustand zu bewegen.",
+          "ja": "バネを圧縮することは、バネに対して仕事をすることであり、その結果、位置エネルギーが増加します。これは最低状態へ移動する自然な傾向に反します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Water being pumped uphill into a reservoir.",
+          "zh": "水被抽到高处的水库中。",
+          "es": "Agua siendo bombeada cuesta arriba a un embalse.",
+          "fr": "De l'eau pompée en amont dans un réservoir.",
+          "de": "Wasser wird bergauf in ein Reservoir gepumpt.",
+          "ja": "水がポンプで丘の上の貯水池に汲み上げられる。"
+        },
+        "feedback": {
+          "en": "Pumping water uphill requires external work to increase its potential energy, which is the opposite of the natural tendency.",
+          "zh": "将水抽到高处需要外部做功以增加其势能，这与自然趋势相反。",
+          "es": "Bombear agua cuesta arriba requiere trabajo externo para aumentar su energía potencial, lo cual es lo opuesto a la tendencia natural.",
+          "fr": "Pomper de l'eau en amont nécessite un travail externe pour augmenter son énergie potentielle, ce qui est l'opposé de la tendance naturelle.",
+          "de": "Das Pumpen von Wasser bergauf erfordert externe Arbeit, um dessen potenzielle Energie zu erhöhen, was der natürlichen Tendenz entgegengesetzt ist.",
+          "ja": "水を丘の上に汲み上げることは、位置エネルギーを増加させるために外部の作業を必要とし、これは自然な傾向とは逆です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains: 'Matter has a natural tendency to move toward the lowest possible state of potential energy; in our example, the water runs downhill.' A ball rolling down a hill and coming to rest at the bottom perfectly exemplifies this concept, as it moves from a higher gravitational potential energy to the lowest possible state.",
+      "zh": "文本解释道：“物质有趋向最低势能状态的自然倾向；在我们的例子中，水往下流。”球从山坡滚下并最终停在坡底的例子完美地说明了这一概念，因为它从较高的重力势能状态移向最低的可能状态。",
+      "es": "El texto explica: 'La materia tiene una tendencia natural a moverse hacia el estado de energía potencial más bajo posible; en nuestro ejemplo, el agua corre cuesta abajo.' Una pelota rodando cuesta abajo y deteniéndose en la parte inferior ejemplifica perfectamente este concepto, ya que se mueve de una energía potencial gravitatoria más alta al estado más bajo posible.",
+      "fr": "Le texte explique : 'La matière a une tendance naturelle à se déplacer vers l'état d'énergie potentielle le plus bas possible ; dans notre exemple, l'eau coule en aval.' Une balle roulant en bas d'une colline et s'arrêtant au fond illustre parfaitement ce concept, car elle se déplace d'une énergie potentielle gravitationnelle plus élevée vers l'état le plus bas possible.",
+      "de": "Der Text erklärt: „Materie hat eine natürliche Tendenz, sich dem niedrigstmöglichen Zustand potenzieller Energie zuzuwenden; in unserem Beispiel fließt das Wasser bergab.“ Ein Ball, der einen Hügel hinunterrollt und am Boden zum Stillstand kommt, veranschaulicht dieses Konzept perfekt, da er sich von einer höheren potenziellen Gravitationsenergie in den niedrigstmöglichen Zustand bewegt.",
+      "ja": "テキストでは、「物質は可能な限り低い位置エネルギー状態へ移動する自然な傾向がある。我々の例では、水は坂を下る」と説明されています。ボールが坂道を転がり落ちて底で静止する例は、より高い重力位置エネルギーから可能な限り低い状態へ移動するため、この概念を完璧に示しています。"
+    }
+  }
+]

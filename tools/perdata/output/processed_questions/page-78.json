@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 78,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Given the makeup of the human body as presented in Table 2.1, which compound primarily accounts for the high percentage of oxygen?",
+      "zh": "根据表2.1所示的人体组成，哪种化合物主要解释了氧含量如此之高的原因？",
+      "es": "Dada la composición del cuerpo humano según lo presentado en la Tabla 2.1, ¿qué compuesto explica principalmente el alto porcentaje de oxígeno?",
+      "fr": "Compte tenu de la composition du corps humain telle que présentée dans le Tableau 2.1, quel composé explique principalement le pourcentage élevé d'oxygène ?",
+      "de": "Angesichts der Zusammensetzung des menschlichen Körpers, wie in Tabelle 2.1 dargestellt, welche Verbindung ist hauptsächlich für den hohen Sauerstoffanteil verantwortlich?",
+      "ja": "表2.1に示されている人体組成を考慮すると、どの化合物が主に高い酸素含有量を占めていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Water (H2O)",
+          "zh": "水 (H2O)",
+          "es": "Agua (H2O)",
+          "fr": "Eau (H2O)",
+          "de": "Wasser (H2O)",
+          "ja": "水 (H2O)"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Carbon dioxide (CO2)",
+          "zh": "二氧化碳 (CO2)",
+          "es": "Dióxido de carbono (CO2)",
+          "fr": "Dioxyde de carbone (CO2)",
+          "de": "Kohlendioxid (CO2)",
+          "ja": "二酸化炭素 (CO2)"
+        },
+        "feedback": {
+          "en": "While carbon dioxide contains oxygen and is present in the body, it is primarily a waste product and does not account for the bulk of oxygen in terms of body mass.",
+          "zh": "尽管二氧化碳含有氧并存在于体内，但它主要是一种代谢废物，不构成身体质量中大部分氧的来源。",
+          "es": "Aunque el dióxido de carbono contiene oxígeno y está presente en el cuerpo, es principalmente un producto de desecho y no representa la mayor parte del oxígeno en términos de masa corporal.",
+          "fr": "Bien que le dioxyde de carbone contienne de l'oxygène et soit présent dans le corps, il s'agit principalement d'un produit de déchet et ne représente pas la majeure partie de l'oxygène en termes de masse corporelle.",
+          "de": "Obwohl Kohlendioxid Sauerstoff enthält und im Körper vorhanden ist, ist es hauptsächlich ein Abfallprodukt und macht nicht den Großteil des Sauerstoffs im Körpergewicht aus.",
+          "ja": "二酸化炭素は酸素を含み、体内に存在しますが、主に老廃物であり、体重の大部分を占める酸素の量には寄与しません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Glucose (C6H12O6)",
+          "zh": "葡萄糖 (C6H12O6)",
+          "es": "Glucosa (C6H12O6)",
+          "fr": "Glucose (C6H12O6)",
+          "de": "Glukose (C6H12O6)",
+          "ja": "グルコース (C6H12O6)"
+        },
+        "feedback": {
+          "en": "Glucose is an important energy source containing oxygen, but its overall contribution to total body mass, and thus to the high oxygen percentage, is minor compared to water.",
+          "zh": "葡萄糖是一种重要的含氧能量来源，但其对总身体质量（以及高氧含量）的总体贡献与水相比是次要的。",
+          "es": "La glucosa es una fuente de energía importante que contiene oxígeno, pero su contribución general a la masa corporal total, y por lo tanto al alto porcentaje de oxígeno, es menor en comparación con el agua.",
+          "fr": "Le glucose est une source d'énergie importante contenant de l'oxygène, mais sa contribution globale à la masse corporelle totale, et donc au pourcentage élevé d'oxygène, est mineure comparée à celle de l'eau.",
+          "de": "Glukose ist eine wichtige Energiequelle, die Sauerstoff enthält, aber ihr Gesamtbeitrag zur gesamten Körpermasse und damit zum hohen Sauerstoffanteil ist im Vergleich zu Wasser gering.",
+          "ja": "グルコースは酸素を含む重要なエネルギー源ですが、総体質量への全体的な寄与、したがって高い酸素含有量への寄与は、水に比べて小さいです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Proteins",
+          "zh": "蛋白质",
+          "es": "Proteínas",
+          "fr": "Protéines",
+          "de": "Proteine",
+          "ja": "タンパク質"
+        },
+        "feedback": {
+          "en": "Proteins contain oxygen, but they are primarily composed of carbon, hydrogen, nitrogen, and sulfur. Water is by far the most abundant oxygen-containing compound in the body.",
+          "zh": "蛋白质含有氧，但它们主要由碳、氢、氮和硫组成。水是体内迄今为止含量最丰富的含氧化合物。",
+          "es": "Las proteínas contienen oxígeno, pero se componen principalmente de carbono, hidrógeno, nitrógeno y azufre. El agua es, con mucho, el compuesto que contiene oxígeno más abundante en el cuerpo.",
+          "fr": "Les protéines contiennent de l'oxygène, mais elles sont principalement composées de carbone, d'hydrogène, d'azote et de soufre. L'eau est de loin le composé oxygéné le plus abondant dans le corps.",
+          "de": "Proteine enthalten Sauerstoff, bestehen aber hauptsächlich aus Kohlenstoff, Wasserstoff, Stickstoff und Schwefel. Wasser ist bei weitem die am häufigsten vorkommende sauerstoffhaltige Verbindung im Körper.",
+          "ja": "タンパク質は酸素を含みますが、主に炭素、水素、窒素、硫黄から構成されています。水は体内で最も豊富な酸素含有化合物です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Table 2.1 shows that oxygen makes up 65.0% of the human body's mass, the highest percentage among all elements. The text mentions that \"Water (H2O), another compound, consists of the elements hydrogen (H) and oxygen (O) in a 2:1 ratio.\" Since the human body is largely composed of water, and water contains a significant amount of oxygen by mass (about 89% of water's mass is oxygen), water is the primary compound responsible for the high percentage of oxygen in the human body.",
+      "zh": "表2.1显示氧元素占人体质量的65.0%，是所有元素中百分比最高的。文章提到“水（H2O），另一种化合物，由氢（H）和氧（O）元素以2:1的比例组成。” 由于人体主要由水组成，而水按质量计算含有大量氧（约89%的水质量是氧），因此水是造成人体氧含量高的主要化合物。",
+      "es": "La Tabla 2.1 muestra que el oxígeno constituye el 65.0% de la masa del cuerpo humano, el porcentaje más alto entre todos los elementos. El texto menciona que \"El agua (H2O), otro compuesto, consiste en los elementos hidrógeno (H) y oxígeno (O) en una proporción de 2:1.\" Dado que el cuerpo humano está compuesto en gran parte por agua, y el agua contiene una cantidad significativa de oxígeno por masa (aproximadamente el 89% de la masa del agua es oxígeno), el agua es el compuesto principal responsable del alto porcentaje de oxígeno en el cuerpo humano.",
+      "fr": "Le Tableau 2.1 montre que l'oxygène représente 65,0% de la masse du corps humain, le pourcentage le plus élevé parmi tous les éléments. Le texte mentionne que \"L'eau (H2O), un autre composé, est constituée des éléments hydrogène (H) et oxygène (O) dans un rapport de 2:1.\" Étant donné que le corps humain est en grande partie composé d'eau, et que l'eau contient une quantité significative d'oxygène en masse (environ 89% de la masse de l'eau est de l'oxygène), l'eau est le composé principal responsable du pourcentage élevé d'oxygène dans le corps humain.",
+      "de": "Tabelle 2.1 zeigt, dass Sauerstoff 65,0% der menschlichen Körpermasse ausmacht, der höchste Prozentsatz unter allen Elementen. Der Text erwähnt, dass „Wasser (H2O), eine weitere Verbindung, aus den Elementen Wasserstoff (H) und Sauerstoff (O) im Verhältnis 2:1 besteht.“ Da der menschliche Körper größtenteils aus Wasser besteht und Wasser einen erheblichen Anteil Sauerstoff nach Masse enthält (etwa 89% der Wassermasse ist Sauerstoff), ist Wasser die Hauptverbindung, die für den hohen Sauerstoffanteil im menschlichen Körper verantwortlich ist.",
+      "ja": "表2.1によると、酸素は人体質量の65.0%を占め、全元素の中で最も高い割合です。本文には「水（H2O）は、もう一つの化合物で、水素（H）と酸素（O）の元素が2:1の比率で構成されている」と述べられています。人体は大部分が水で構成されており、水の質量のかなりの部分が酸素であるため（水の質量の約89%が酸素）、水が人体における高濃度の酸素の主要な原因となる化合物です。"
+    }
+  },
+  {
+    "page_number": 78,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements best describes the concept of \"emergent properties\" as illustrated by the formation of sodium chloride (table salt) from sodium and chlorine?",
+      "zh": "以下哪项陈述最能描述由钠和氯形成氯化钠（食盐）所体现的“涌现特性”概念？",
+      "es": "¿Cuál de las siguientes afirmaciones describe mejor el concepto de \"propiedades emergentes\" tal como se ilustra en la formación de cloruro de sodio (sal de mesa) a partir de sodio y cloro?",
+      "fr": "Parmi les affirmations suivantes, laquelle décrit le mieux le concept de \"propriétés émergentes\" tel qu'illustré par la formation de chlorure de sodium (sel de table) à partir du sodium et du chlore ?",
+      "de": "Welche der folgenden Aussagen beschreibt am besten das Konzept der „emergenten Eigenschaften“, wie es durch die Bildung von Natriumchlorid (Kochsalz) aus Natrium und Chlor veranschaulicht wird?",
+      "ja": "ナトリウムと塩素から塩化ナトリウム（食塩）が形成される例で示される「創発的特性」の概念を最もよく説明しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The properties of a compound are an average of the properties of its constituent elements.",
+          "zh": "化合物的性质是其组成元素的性质的平均值。",
+          "es": "Las propiedades de un compuesto son un promedio de las propiedades de sus elementos constituyentes.",
+          "fr": "Les propriétés d'un composé sont une moyenne des propriétés de ses éléments constitutifs.",
+          "de": "Die Eigenschaften einer Verbindung sind ein Durchschnitt der Eigenschaften ihrer konstituierenden Elemente.",
+          "ja": "化合物の特性は、それを構成する要素の特性の平均です。"
+        },
+        "feedback": {
+          "en": "This is incorrect. Emergent properties mean the compound has entirely new characteristics, not an average of the old ones. The text states: \"A compound has characteristics different from those of its elements.\"",
+          "zh": "这是不正确的。涌现特性意味着化合物具有全新的特性，而不是旧特性的平均值。文章指出：“化合物的特性与其组成元素的特性不同。”",
+          "es": "Esto es incorrecto. Las propiedades emergentes significan que el compuesto tiene características completamente nuevas, no un promedio de las antiguas. El texto afirma: \"Un compuesto tiene características diferentes de las de sus elementos.\"",
+          "fr": "C'est incorrect. Les propriétés émergentes signifient que le composé possède des caractéristiques entièrement nouvelles, et non une moyenne des anciennes. Le texte stipule : \"Un composé a des caractéristiques différentes de celles de ses éléments.\"",
+          "de": "Dies ist falsch. Emergent bedeutet, dass die Verbindung völlig neue Eigenschaften hat, nicht einen Durchschnitt der alten. Der Text besagt: „Eine Verbindung hat Eigenschaften, die sich von denen ihrer Elemente unterscheiden.“",
+          "ja": "これは誤りです。創発的特性とは、化合物が全く新しい特性を持つことを意味し、古い特性の平均ではありません。本文には「化合物は、その要素とは異なる特性を持つ」と書かれています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The properties of a compound are identical to those of its most abundant element.",
+          "zh": "化合物的性质与其最丰富的组成元素的性质相同。",
+          "es": "Las propiedades de un compuesto son idénticas a las de su elemento más abundante.",
+          "fr": "Les propriétés d'un composé sont identiques à celles de son élément le plus abondant.",
+          "de": "Die Eigenschaften einer Verbindung sind identisch mit denen ihres häufigsten Elements.",
+          "ja": "化合物の特性は、最も豊富な構成要素の特性と同じです。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The text explicitly states that a compound's characteristics are \"different from those of its elements.\" Sodium chloride is edible, but pure sodium is a metal and chlorine is a poisonous gas.",
+          "zh": "这是不正确的。文章明确指出化合物的特性“与其组成元素的特性不同”。氯化钠是可食用的，但纯钠是一种金属，氯气是一种有毒气体。",
+          "es": "Esto es incorrecto. El texto afirma explícitamente que las características de un compuesto son \"diferentes de las de sus elementos.\" El cloruro de sodio es comestible, pero el sodio puro es un metal y el cloro es un gas venenoso.",
+          "fr": "C'est incorrect. Le texte indique explicitement que les caractéristiques d'un composé sont \"différentes de celles de ses éléments\". Le chlorure de sodium est comestible, mais le sodium pur est un métal et le chlore est un gaz toxique.",
+          "de": "Dies ist falsch. Der Text besagt ausdrücklich, dass die Eigenschaften einer Verbindung „sich von denen ihrer Elemente unterscheiden“. Natriumchlorid ist essbar, aber reines Natrium ist ein Metall und Chlor ein giftiges Gas.",
+          "ja": "これは誤りです。本文には、化合物の特性が「その要素とは異なる」とはっきり書かれています。塩化ナトリウムは食用ですが、純粋なナトリウムは金属であり、塩素は有毒ガスです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A compound exhibits entirely new properties that are distinct from those of its individual constituent elements.",
+          "zh": "化合物表现出与其单个组成元素截然不同的全新性质。",
+          "es": "Un compuesto exhibe propiedades completamente nuevas que son distintas de las de sus elementos constituyentes individuales.",
+          "fr": "Un composé présente des propriétés entièrement nouvelles, distinctes de celles de ses éléments constitutifs individuels.",
+          "de": "Eine Verbindung zeigt völlig neue Eigenschaften, die sich von denen ihrer einzelnen konstituierenden Elemente unterscheiden.",
+          "ja": "化合物は、個々の構成要素とは全く異なる新しい特性を示します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The formation of a compound always results in a less stable substance than its elements.",
+          "zh": "化合物的形成总是导致比其组成元素更不稳定的物质。",
+          "es": "La formación de un compuesto siempre resulta en una sustancia menos estable que sus elementos.",
+          "fr": "La formation d'un composé entraîne toujours une substance moins stable que ses éléments.",
+          "de": "Die Bildung einer Verbindung führt immer zu einer weniger stabilen Substanz als ihre Elemente.",
+          "ja": "化合物の形成は、常にその元素よりも不安定な物質をもたらします。"
+        },
+        "feedback": {
+          "en": "This is incorrect. Chemical bonding often leads to more stable compounds. The formation of edible sodium chloride from reactive sodium and poisonous chlorine is an example of increased stability and beneficial properties.",
+          "zh": "这是不正确的。化学键合通常会形成更稳定的化合物。活性钠和有毒氯气形成可食用氯化钠就是稳定性和有益特性增加的例子。",
+          "es": "Esto es incorrecto. La unión química a menudo conduce a compuestos más estables. La formación de cloruro de sodio comestible a partir de sodio reactivo y cloro venenoso es un ejemplo de mayor estabilidad y propiedades beneficiosas.",
+          "fr": "C'est incorrect. La liaison chimique conduit souvent à des composés plus stables. La formation de chlorure de sodium comestible à partir de sodium réactif et de chlore toxique est un exemple d'augmentation de la stabilité et de propriétés bénéfiques.",
+          "de": "Dies ist falsch. Chemische Bindungen führen oft zu stabileren Verbindungen. Die Bildung von essbarem Natriumchlorid aus reaktivem Natrium und giftigem Chlor ist ein Beispiel für erhöhte Stabilität und nützliche Eigenschaften.",
+          "ja": "これは誤りです。化学結合はしばしばより安定した化合物を生み出します。反応性のナトリウムと有毒な塩素から食用塩化ナトリウムが形成されることは、安定性と有益な特性の増加の例です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states, \"A compound has characteristics different from those of its elements (Figure 2.2).\" It illustrates this with sodium chloride: \"Pure sodium is a metal, and pure chlorine is a poisonous gas. When chemically combined, however, sodium and chlorine form an edible compound.\" This dramatic change in properties, where the compound (table salt) exhibits qualities (edibility, non-toxicity) completely absent in its constituent elements (a reactive metal and a poisonous gas), is the essence of emergent properties.",
+      "zh": "文章指出：“化合物的特性与其组成元素的特性不同（图2.2）。” 它以氯化钠为例进行了说明：“纯钠是一种金属，纯氯是一种有毒气体。然而，当它们发生化学结合时，钠和氯会形成一种可食用的化合物。” 这种性质的巨大变化，即化合物（食盐）表现出其组成元素（一种反应性金属和一种有毒气体）所完全不具备的特性（可食用性、无毒性），正是涌现特性的本质。",
+      "es": "El texto afirma: \"Un compuesto tiene características diferentes de las de sus elementos (Figura 2.2).\" Esto se ilustra con el cloruro de sodio: \"El sodio puro es un metal y el cloro puro es un gas venenoso. Sin embargo, cuando se combinan químicamente, el sodio y el cloro forman un compuesto comestible.\" Este cambio dramático en las propiedades, donde el compuesto (sal de mesa) exhibe cualidades (comestibilidad, no toxicidad) completamente ausentes en sus elementos constituyentes (un metal reactivo y un gas venenoso), es la esencia de las propiedades emergentes.",
+      "fr": "Le texte stipule : \"Un composé a des caractéristiques différentes de celles de ses éléments (Figure 2.2).\" Il illustre cela avec le chlorure de sodium : \"Le sodium pur est un métal et le chlore pur est un gaz toxique. Cependant, une fois combinés chimiquement, le sodium et le chlore forment un composé comestible.\" Ce changement spectaculaire de propriétés, où le composé (sel de table) présente des qualités (comestibilité, non-toxicité) complètement absentes chez ses éléments constitutifs (un métal réactif et un gaz toxique), est l'essence des propriétés émergentes.",
+      "de": "Der Text besagt: „Eine Verbindung hat Eigenschaften, die sich von denen ihrer Elemente unterscheiden (Abbildung 2.2).“ Dies wird am Beispiel von Natriumchlorid veranschaulicht: „Reines Natrium ist ein Metall, und reines Chlor ist ein giftiges Gas. Wenn chemisch verbunden, bilden Natrium und Chlor jedoch eine essbare Verbindung.“ Diese dramatische Veränderung der Eigenschaften, bei der die Verbindung (Kochsalz) Eigenschaften (Essbarkeit, Ungiftigkeit) aufweist, die in ihren einzelnen Elementen (ein reaktives Metall und ein giftiges Gas) völlig fehlen, ist die Essenz emergenter Eigenschaften.",
+      "ja": "本文には、「化合物は、その元素とは異なる特性を持つ（図2.2）」と記載されています。これは塩化ナトリウムの例で説明されています。「純粋なナトリウムは金属であり、純粋な塩素は有毒ガスです。しかし、化学的に結合すると、ナトリウムと塩素は食用化合物になります。」このように、化合物（食塩）が、その構成要素（反応性金属と有毒ガス）には全く存在しない性質（食用性、無毒性）を示す劇的な特性の変化が、創発的特性の本質です。"
+    }
+  },
+  {
+    "page_number": 78,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the information provided, which of the following statements about elements in the human body is correct?",
+      "zh": "根据所提供的信息，以下关于人体内元素的陈述哪项是正确的？",
+      "es": "Según la información proporcionada, ¿cuál de las siguientes afirmaciones sobre los elementos en el cuerpo humano es correcta?",
+      "fr": "Selon les informations fournies, laquelle des affirmations suivantes concernant les éléments du corps humain est correcte ?",
+      "de": "Welche der folgenden Aussagen über Elemente im menschlichen Körper ist gemäß den bereitgestellten Informationen korrekt?",
+      "ja": "提供された情報に基づくと、人体内の元素に関する次の記述のうちどれが正しいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Humans require fewer essential elements than plants.",
+          "zh": "人类所需的必需元素少于植物。",
+          "es": "Los humanos requieren menos elementos esenciales que las plantas.",
+          "fr": "Les humains ont besoin de moins d'éléments essentiels que les plantes.",
+          "de": "Menschen benötigen weniger essenzielle Elemente als Pflanzen.",
+          "ja": "人間は植物よりも少ない必須元素を必要とします。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The text states: \"humans need 25 elements, but plants need only 17.\" Therefore, humans require *more* essential elements than plants.",
+          "zh": "这是不正确的。文章指出：“人类需要25种元素，但植物只需要17种。” 因此，人类所需的必需元素比植物多。",
+          "es": "Esto es incorrecto. El texto indica: \"los humanos necesitan 25 elementos, pero las plantas solo necesitan 17.\" Por lo tanto, los humanos requieren *más* elementos esenciales que las plantas.",
+          "fr": "C'est incorrect. Le texte indique : \"les humains ont besoin de 25 éléments, mais les plantes n'en ont besoin que de 17.\" Par conséquent, les humains ont besoin de *plus* d'éléments essentiels que les plantes.",
+          "de": "Dies ist falsch. Der Text besagt: „Menschen benötigen 25 Elemente, Pflanzen jedoch nur 17.“ Daher benötigen Menschen *mehr* essenzielle Elemente als Pflanzen.",
+          "ja": "これは誤りです。本文には「人間は25種類の元素を必要とするが、植物は17種類しか必要としない」と書かれています。したがって、人間は植物よりも*多くの*必須元素を必要とします。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Oxygen, carbon, hydrogen, and nitrogen collectively make up about 96.3% of the human body's mass.",
+          "zh": "氧、碳、氢和氮共同构成了人体质量的约96.3%。",
+          "es": "El oxígeno, el carbono, el hidrógeno y el nitrógeno constituyen colectivamente aproximadamente el 96.3% de la masa del cuerpo humano.",
+          "fr": "L'oxygène, le carbone, l'hydrogène et l'azote représentent collectivement environ 96,3% de la masse du corps humain.",
+          "de": "Sauerstoff, Kohlenstoff, Wasserstoff und Stickstoff machen zusammen etwa 96,3% der menschlichen Körpermasse aus.",
+          "ja": "酸素、炭素、水素、窒素は、集合的に人体質量の約96.3%を占めます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Trace elements are required in large quantities for normal bodily function.",
+          "zh": "微量元素是身体正常功能所需的大量元素。",
+          "es": "Los oligoelementos se requieren en grandes cantidades para el funcionamiento corporal normal.",
+          "fr": "Les oligo-éléments sont nécessaires en grandes quantités pour le fonctionnement normal du corps.",
+          "de": "Spurenelemente werden in großen Mengen für die normale Körperfunktion benötigt.",
+          "ja": "微量元素は、正常な身体機能のために大量に必要とされます。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The text defines trace elements as \"required by an organism in only minute quantities.\"",
+          "zh": "这是不正确的。文章将微量元素定义为“生物体只需微量即可”。",
+          "es": "Esto es incorrecto. El texto define los oligoelementos como \"requeridos por un organismo en cantidades mínimas.\"",
+          "fr": "C'est incorrect. Le texte définit les oligo-éléments comme \"nécessaires à un organisme en quantités minimes.\"",
+          "de": "Dies ist falsch. Der Text definiert Spurenelemente als „von einem Organismus nur in geringsten Mengen benötigt“.",
+          "ja": "これは誤りです。本文では、微量元素は「生物がごく微量のみ必要とする」と定義されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Arsenic is an essential trace element beneficial for human health.",
+          "zh": "砷是人体健康有益的必需微量元素。",
+          "es": "El arsénico es un oligoelemento esencial beneficioso para la salud humana.",
+          "fr": "L'arsenic est un oligo-élément essentiel bénéfique pour la santé humaine.",
+          "de": "Arsen ist ein essenzielles Spurenelement, das für die menschliche Gesundheit von Vorteil ist.",
+          "ja": "ヒ素は、人間の健康に有益な必須微量元素です。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The text explicitly states: \"Some naturally occurring elements are toxic to organisms... the element arsenic has been linked to numerous diseases and can be lethal.\" It is not beneficial.",
+          "zh": "这是不正确的。文章明确指出：“一些天然存在的元素对生物体有毒……元素砷与许多疾病相关，并可能致命。”它对人体无益。",
+          "es": "Esto es incorrecto. El texto afirma explícitamente: \"Algunos elementos presentes de forma natural son tóxicos para los organismos... el elemento arsénico se ha relacionado con numerosas enfermedades y puede ser letal.\" No es beneficioso.",
+          "fr": "C'est incorrect. Le texte indique explicitement : \"Certains éléments naturels sont toxiques pour les organismes... l'élément arsenic a été lié à de nombreuses maladies et peut être létal.\" Il n'est pas bénéfique.",
+          "de": "Dies ist falsch. Der Text besagt ausdrücklich: „Einige natürlich vorkommende Elemente sind für Organismen toxisch… das Element Arsen wurde mit zahlreichen Krankheiten in Verbindung gebracht und kann tödlich sein.“ Es ist nicht vorteilhaft.",
+          "ja": "これは誤りです。本文には「一部の天然元素は生物にとって有毒であり…ヒ素は数多くの疾患と関連付けられ、致命的である可能性がある」と明記されています。有益ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: \"Just four elements—oxygen (O), carbon (C), hydrogen (H), and nitrogen (N)—make up approximately 96% of living matter.\" Table 2.1 provides precise percentages: Oxygen (65.0%), Carbon (18.5%), Hydrogen (9.5%), Nitrogen (3.3%). Summing these gives 65.0 + 18.5 + 9.5 + 3.3 = 96.3%. This confirms that these four elements account for 96.3% of the human body's mass.",
+      "zh": "文章指出：“氧（O）、碳（C）、氢（H）和氮（N）这四种元素约占生命物质的96%。” 表2.1提供了精确的百分比：氧（65.0%）、碳（18.5%）、氢（9.5%）、氮（3.3%）。将这些数字相加：65.0 + 18.5 + 9.5 + 3.3 = 96.3%。这证实了这四种元素构成了人体质量的96.3%。",
+      "es": "El texto afirma: \"Solo cuatro elementos —oxígeno (O), carbono (C), hidrógeno (H) y nitrógeno (N)— constituyen aproximadamente el 96% de la materia viva.\" La Tabla 2.1 proporciona porcentajes precisos: Oxígeno (65.0%), Carbono (18.5%), Hidrógeno (9.5%), Nitrógeno (3.3%). Sumando estos valores se obtiene 65.0 + 18.5 + 9.5 + 3.3 = 96.3%. Esto confirma que estos cuatro elementos representan el 96.3% de la masa del cuerpo humano.",
+      "fr": "Le texte indique : \"Seulement quatre éléments — l'oxygène (O), le carbone (C), l'hydrogène (H) et l'azote (N) — constituent environ 96% de la matière vivante.\" Le Tableau 2.1 fournit des pourcentages précis : Oxygène (65,0%), Carbone (18,5%), Hydrogène (9,5%), Azote (3,3%). La somme de ces valeurs donne 65,0 + 18,5 + 9,5 + 3,3 = 96,3%. Cela confirme que ces quatre éléments représentent 96,3% de la masse du corps humain.",
+      "de": "Der Text besagt: „Nur vier Elemente – Sauerstoff (O), Kohlenstoff (C), Wasserstoff (H) und Stickstoff (N) – machen etwa 96% der lebenden Materie aus.“ Tabelle 2.1 liefert genaue Prozentsätze: Sauerstoff (65,0%), Kohlenstoff (18,5%), Wasserstoff (9,5%), Stickstoff (3,3%). Addiert man diese Werte, ergibt sich 65,0 + 18,5 + 9,5 + 3,3 = 96,3%. Dies bestätigt, dass diese vier Elemente 96,3% der menschlichen Körpermasse ausmachen.",
+      "ja": "本文には「酸素（O）、炭素（C）、水素（H）、窒素（N）のわずか4つの元素が、生命物質の約96%を占めている」と記載されています。表2.1には正確な割合が示されています。酸素（65.0%）、炭素（18.5%）、水素（9.5%）、窒素（3.3%）。これらを合計すると65.0 + 18.5 + 9.5 + 3.3 = 96.3%となります。これは、これらの4つの元素が人体質量の96.3%を占めていることを裏付けています。"
+    }
+  }
+]

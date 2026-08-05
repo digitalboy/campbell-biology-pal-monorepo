@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 466,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the primary method used to detect nucleotide incorporation in Sequencing by Synthesis (SBS) as described in the provided text?",
+      "zh": "根据所提供的文本，合成测序 (SBS) 中用于检测核苷酸掺入的主要方法是什么？",
+      "es": "¿Cuál es el método principal utilizado para detectar la incorporación de nucleótidos en la Secuenciación por Síntesis (SBS) según lo descrito en el texto proporcionado?",
+      "fr": "Quelle est la méthode principale utilisée pour détecter l'incorporation de nucléotides dans le Séquençage par Synthèse (SBS) tel que décrit dans le texte fourni ?",
+      "de": "Was ist die primäre Methode, die zur Detektion des Nukleotid-Einbaus in der Sequenzierung durch Synthese (SBS) gemäß dem bereitgestellten Text verwendet wird?",
+      "ja": "提供されたテキストに記載されている、合成によるシーケンシング（SBS）におけるヌクレオチド組み込みを検出する主な方法は何ですか？"
+    },
+    "options": [
+      {
+        "id": "option_A",
+        "text": {
+          "en": "Measuring changes in pH.",
+          "zh": "测量 pH 值变化。",
+          "es": "Medir los cambios en el pH.",
+          "fr": "Mesurer les changements de pH.",
+          "de": "Messung von pH-Wert-Änderungen.",
+          "ja": "pH値の変化を測定すること。"
+        },
+        "feedback": {
+          "en": "Changes in pH are associated with other sequencing methods (e.g., ion semiconductor sequencing), not the light-based detection described here.",
+          "zh": "pH 值变化与此处描述的基于光的检测方法不同，它与其他的测序方法（例如离子半导体测序）相关。",
+          "es": "Los cambios en el pH están asociados con otros métodos de secuenciación (por ejemplo, la secuenciación de semiconductores de iones), no con la detección basada en luz descrita aquí.",
+          "fr": "Les changements de pH sont associés à d'autres méthodes de séquençage (par exemple, le séquençage par semi-conducteurs ioniques), et non à la détection basée sur la lumière décrite ici.",
+          "de": "pH-Wert-Änderungen sind mit anderen Sequenzierungsmethoden (z. B. Ionen-Halbleiter-Sequenzierung) verbunden, nicht mit der hier beschriebenen lichtbasierten Detektion.",
+          "ja": "pHの変化は、ここで説明されている光ベースの検出ではなく、他のシーケンシング方法（例：イオン半導体シーケンシング）に関連しています。"
+        }
+      },
+      {
+        "id": "option_B",
+        "text": {
+          "en": "Detecting fluorescence signals.",
+          "zh": "检测荧光信号。",
+          "es": "Detectar señales de fluorescencia.",
+          "fr": "Détecter les signaux de fluorescence.",
+          "de": "Fluoreszenzsignale detektieren.",
+          "ja": "蛍光シグナルを検出すること。"
+        },
+        "feedback": {
+          "en": "While fluorescence is used in some sequencing methods (e.g., Sanger sequencing variations), the method described here specifically mentions flashes of light, not fluorescence, for detection.",
+          "zh": "虽然荧光在某些测序方法（如 Sanger 测序变体）中使用，但此处描述的方法明确提及通过闪光而非荧光进行检测。",
+          "es": "Aunque la fluorescencia se utiliza en algunos métodos de secuenciación (por ejemplo, variaciones de la secuenciación de Sanger), el método descrito aquí menciona específicamente destellos de luz, no fluorescencia, para la detección.",
+          "fr": "Bien que la fluorescence soit utilisée dans certaines méthodes de séquençage (par exemple, les variations du séquençage de Sanger), la méthode décrite ici mentionne spécifiquement des éclairs de lumière, et non la fluorescence, pour la détection.",
+          "de": "Während Fluoreszenz in einigen Sequenzierungsmethoden (z. B. Sanger-Sequenzierungsvarianten) verwendet wird, erwähnt die hier beschriebene Methode ausdrücklich Lichtblitze, nicht Fluoreszenz, zur Detektion.",
+          "ja": "蛍光は一部のシーケンシング方法（例：サンガーシーケンシングのバリエーション）で使用されますが、ここで説明されている方法は、検出に蛍光ではなく光の閃光を具体的に言及しています。"
+        }
+      },
+      {
+        "id": "option_C",
+        "text": {
+          "en": "Recording flashes of light.",
+          "zh": "记录光的闪烁。",
+          "es": "Registrar destellos de luz.",
+          "fr": "Enregistrer des éclairs de lumière.",
+          "de": "Lichtblitze aufzeichnen.",
+          "ja": "光の点滅を記録すること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "option_D",
+        "text": {
+          "en": "Monitoring electrical current fluctuations.",
+          "zh": "监测电流波动。",
+          "es": "Monitorizar fluctuaciones de corriente eléctrica.",
+          "fr": "Surveiller les fluctuations de courant électrique.",
+          "de": "Elektrische Stromschwankungen überwachen.",
+          "ja": "電流の変動を監視すること。"
+        },
+        "feedback": {
+          "en": "Electrical current fluctuations are not mentioned as a detection method for Sequencing by Synthesis in this text.",
+          "zh": "本文中没有提到电流波动作为合成测序的检测方法。",
+          "es": "Las fluctuaciones de corriente eléctrica no se mencionan como un método de detección para la Secuenciación por Síntesis en este texto.",
+          "fr": "Les fluctuations de courant électrique ne sont pas mentionnées comme méthode de détection pour le Séquençage par Synthèse dans ce texte.",
+          "de": "Elektrische Stromschwankungen werden in diesem Text nicht als Detektionsmethode für die Sequenzierung durch Synthese erwähnt.",
+          "ja": "このテキストでは、合成によるシーケンシングの検出方法として電流の変動は言及されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "option_C"
+    ],
+    "explanation": {
+      "en": "According to step 6 of the 'Sequencing by Synthesis' method, when a complementary nucleotide is joined to the growing strand, pyrophosphate (PP_i) is released, which causes a flash of light that is recorded. This light signal is the primary detection mechanism.",
+      "zh": "根据“合成测序”方法的第 6 步，当互补核苷酸连接到生长链时，会释放焦磷酸 (PP_i)，从而产生记录下来的闪光。这种光信号是主要的检测机制。",
+      "es": "Según el paso 6 del método de 'Secuenciación por Síntesis', cuando un nucleótido complementario se une a la cadena en crecimiento, se libera pirofosfato (PP_i), lo que provoca un destello de luz que se registra. Esta señal luminosa es el mecanismo de detección principal.",
+      "fr": "Selon l'étape 6 de la méthode de 'Séquençage par Synthèse', lorsqu'un nucléotide complémentaire est lié au brin en croissance, du pyrophosphate (PP_i) est libéré, ce qui provoque un éclair de lumière qui est enregistré. Ce signal lumineux est le mécanisme de détection principal.",
+      "de": "Gemäß Schritt 6 der 'Sequenzierung durch Synthese'-Methode wird beim Anfügen eines komplementären Nukleotids an den wachsenden Strang Pyrophosphat (PP_i) freigesetzt, was einen Lichtblitz verursacht, der aufgezeichnet wird. Dieses Lichtsignal ist der primäre Detektionsmechanismus.",
+      "ja": "「合成によるシーケンシング」方法のステップ6によると、相補的なヌクレオチドが成長中の鎖に結合すると、ピロリン酸（PP_i）が放出され、それが記録される光の閃光を引き起こします。この光信号が主要な検出メカニズムです。"
+    }
+  },
+  {
+    "page_number": 466,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the flow-gram provided in the 'INTERPRET THE DATA' section, what is the sequence of the first 25 nucleotides synthesized, starting from the left? (Ignore very short lines)",
+      "zh": "根据“数据解读”部分提供的流程图，从左侧开始，合成的前 25 个核苷酸序列是什么？（忽略非常短的线）",
+      "es": "Basándose en el flujograma proporcionado en la sección 'INTERPRETAR LOS DATOS', ¿cuál es la secuencia de los primeros 25 nucleótidos sintetizados, comenzando desde la izquierda? (Ignorar las líneas muy cortas)",
+      "fr": "En vous basant sur le flow-gramme fourni dans la section 'INTERPRÉTER LES DONNÉES', quelle est la séquence des 25 premiers nucléotides synthétisés, en partant de la gauche ? (Ignorer les très courtes lignes)",
+      "de": "Basierend auf dem im Abschnitt 'DATEN INTERPRETIEREN' bereitgestellten Flussdiagramm, wie lautet die Sequenz der ersten 25 synthetisierten Nukleotide, beginnend von links? (Sehr kurze Linien ignorieren)",
+      "ja": "「データ解釈」セクションに示されたフローグラムに基づいて、左から始まる最初の25個の合成されたヌクレオチドの配列は何ですか？（非常に短い線は無視する）"
+    },
+    "options": [
+      {
+        "id": "option_A",
+        "text": {
+          "en": "AGCTGCTCGAAACTGTCGTACTGCT",
+          "zh": "AGCTGCTCGAAACTGTCGTACTGCT",
+          "es": "AGCTGCTCGAAACTGTCGTACTGCT",
+          "fr": "AGCTGCTCGAAACTGTCGTACTGCT",
+          "de": "AGCTGCTCGAAACTGTCGTACTGCT",
+          "ja": "AGCTGCTCGAAACTGTCGTACTGCT"
+        },
+        "feedback": {
+          "en": "This sequence does not accurately reflect the peak heights and order in the provided flow-gram. Please re-examine the graph carefully.",
+          "zh": "此序列未能准确反映所提供流程图中的峰高和顺序。请仔细重新检查图表。",
+          "es": "Esta secuencia no refleja con precisión las alturas y el orden de los picos en el flujograma proporcionado. Por favor, reexamine el gráfico cuidadosamente.",
+          "fr": "Cette séquence ne reflète pas fidèlement les hauteurs et l'ordre des pics dans le flow-gramme fourni. Veuillez réexaminer attentivement le graphique.",
+          "de": "Diese Sequenz spiegelt die Peakhöhen und -reihenfolge im bereitgestellten Flussdiagramm nicht genau wider. Bitte überprüfen Sie die Grafik sorgfältig.",
+          "ja": "この配列は、提供されたフローグラムのピークの高さと順序を正確に反映していません。グラフを注意深く再確認してください。"
+        }
+      },
+      {
+        "id": "option_B",
+        "text": {
+          "en": "AGCTTGCGAA TCTCGTCT GCTACTGCT",
+          "zh": "AGCTTGCGAA TCTCGTCT GCTACTGCT",
+          "es": "AGCTTGCGAA TCTCGTCT GCTACTGCT",
+          "fr": "AGCTTGCGAA TCTCGTCT GCTACTGCT",
+          "de": "AGCTTGCGAA TCTCGTCT GCTACTGCT",
+          "ja": "AGCTTGCGAA TCTCGTCT GCTACTGCT"
+        },
+        "feedback": null
+      },
+      {
+        "id": "option_C",
+        "text": {
+          "en": "TCCGACTTGAAGAGCACTAGACTGA",
+          "zh": "TCCGACTTGAAGAGCACTAGACTGA",
+          "es": "TCCGACTTGAAGAGCACTAGACTGA",
+          "fr": "TCCGACTTGAAGAGCACTAGACTGA",
+          "de": "TCCGACTTGAAGAGCACTAGACTGA",
+          "ja": "TCCGACTTGAAGAGCACTAGACTGA"
+        },
+        "feedback": {
+          "en": "This sequence appears to be an incorrect interpretation of the flow-gram. Remember to account for the height of the peaks.",
+          "zh": "此序列似乎是对流程图的错误解读。请记住要考虑峰的高度。",
+          "es": "Esta secuencia parece ser una interpretación incorrecta del flujograma. Recuerde tener en cuenta la altura de los picos.",
+          "fr": "Cette séquence semble être une interprétation incorrecte du flow-gramme. N'oubliez pas de prendre en compte la hauteur des pics.",
+          "de": "Diese Sequenz scheint eine falsche Interpretation des Flussdiagramms zu sein. Denken Sie daran, die Höhe der Spitzen zu berücksichtigen.",
+          "ja": "この配列はフローグラムの誤った解釈のようです。ピークの高さに注意してください。"
+        }
+      },
+      {
+        "id": "option_D",
+        "text": {
+          "en": "CTGGTACGTTCTTAGACGATCAGTC",
+          "zh": "CTGGTACGTTCTTAGACGATCAGTC",
+          "es": "CTGGTACGTTCTTAGACGATCAGTC",
+          "fr": "CTGGTACGTTCTTAGACGATCAGTC",
+          "de": "CTGGTACGTTCTTAGACGATCAGTC",
+          "ja": "CTGGTACGTTCTTAGACGATCAGTC"
+        },
+        "feedback": {
+          "en": "This sequence does not correspond to the nucleotides indicated by the peaks in the flow-gram. Ensure you are reading the correct nucleotide type for each peak.",
+          "zh": "此序列与流程图中的峰所指示的核苷酸不符。请确保您正确读取了每个峰的核苷酸类型。",
+          "es": "Esta secuencia no corresponde a los nucleótidos indicados por los picos en el flujograma. Asegúrese de leer el tipo de nucleótido correcto para cada pico.",
+          "fr": "Cette séquence ne correspond pas aux nucléotides indiqués par les pics du flow-gramme. Assurez-vous de lire le type de nucléotide correct pour chaque pic.",
+          "de": "Diese Sequenz entspricht nicht den Nukleotiden, die durch die Peaks im Flussdiagramm angezeigt werden. Stellen Sie sicher, dass Sie den richtigen Nukleotidtyp für jeden Peak ablesen.",
+          "ja": "この配列は、フローグラムのピークによって示されるヌクレオチドに対応していません。各ピークの正しいヌクレオチドタイプを読んでいることを確認してください。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "option_B"
+    ],
+    "explanation": {
+      "en": "The flow-gram represents the sequence of incorporated nucleotides, where the height of each peak indicates the number of identical nucleotides added in a single flow step. By transcribing the peaks from left to right, we get: A (1), G (1), C (1), T (2), G (1), C (1), G (1), A (2), T (1), C (1), T (1), C (1), G (1), T (1), C (1), T (1), G (1), C (1), T (1), A (1), C (1), T (1), G (1), C (1), T (1). Concatenating these yields the 25-nucleotide sequence: AGCTTGCGAA TCTCGTCT GCTACTGCT.",
+      "zh": "流程图表示掺入的核苷酸序列，其中每个峰的高度表示在单个流动步骤中掺入的相同核苷酸的数量。从左到右转录这些峰，我们得到：A (1), G (1), C (1), T (2), G (1), C (1), G (1), A (2), T (1), C (1), T (1), C (1), G (1), T (1), C (1), T (1), G (1), C (1), T (1), A (1), C (1), T (1), G (1), C (1), T (1)。将这些连接起来，得到 25 个核苷酸序列：AGCTTGCGAA TCTCGTCT GCTACTGCT。",
+      "es": "El flujograma representa la secuencia de nucleótidos incorporados, donde la altura de cada pico indica el número de nucleótidos idénticos añadidos en un solo paso de flujo. Al transcribir los picos de izquierda a derecha, obtenemos: A (1), G (1), C (1), T (2), G (1), C (1), G (1), A (2), T (1), C (1), T (1), C (1), G (1), T (1), C (1), T (1), G (1), C (1), T (1), A (1), C (1), T (1), G (1), C (1), T (1). Concatenando estos se obtiene la secuencia de 25 nucleótidos: AGCTTGCGAA TCTCGTCT GCTACTGCT.",
+      "fr": "Le flow-gramme représente la séquence des nucléotides incorporés, où la hauteur de chaque pic indique le nombre de nucléotides identiques ajoutés en une seule étape de flux. En transcrivant les pics de gauche à droite, nous obtenons : A (1), G (1), C (1), T (2), G (1), C (1), G (1), A (2), T (1), C (1), T (1), C (1), G (1), T (1), C (1), T (1), G (1), C (1), T (1), A (1), C (1), T (1), G (1), C (1), T (1). La concaténation de ceux-ci donne la séquence de 25 nucléotides : AGCTTGCGAA TCTCGTCT GCTACTGCT.",
+      "de": "Das Flussdiagramm stellt die Sequenz der eingebauten Nukleotide dar, wobei die Höhe jedes Peaks die Anzahl der identischen Nukleotide angibt, die in einem einzigen Flussschritt hinzugefügt wurden. Durch Transkription der Peaks von links nach rechts erhalten wir: A (1), G (1), C (1), T (2), G (1), C (1), G (1), A (2), T (1), C (1), T (1), C (1), G (1), T (1), C (1), T (1), G (1), C (1), T (1), A (1), C (1), T (1), G (1), C (1), T (1). Das Aneinanderreihen dieser ergibt die 25-Nukleotid-Sequenz: AGCTTGCGAA TCTCGTCT GCTACTGCT.",
+      "ja": "フローグラムは、組み込まれたヌクレオチドの配列を表しており、各ピークの高さは、単一のフローステップで追加された同一のヌクレオチドの数を示します。ピークを左から右に転写すると、A（1）、G（1）、C（1）、T（2）、G（1）、C（1）、G（1）、A（2）、T（1）、C（1）、T（1）、C（1）、G（1）、T（1）、C（1）、T（1）、G（1）、C（1）、T（1）、A（1）、C（1）、T（1）、G（1）、C（1）、T（1）が得られます。これらを結合すると、25ヌクレオチドの配列AGCTTGCGAA TCTCGTCT GCTACTGCTが得られます。"
+    }
+  },
+  {
+    "page_number": 466,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What happens in Sequencing by Synthesis if the added deoxynucleoside triphosphate (dNTP) is *not* complementary to the next base on the template strand?",
+      "zh": "在合成测序中，如果添加的脱氧核苷三磷酸 (dNTP) 与模板链上的下一个碱基不互补，会发生什么？",
+      "es": "¿Qué sucede en la Secuenciación por Síntesis si el desoxirribonucleótido trifosfato (dNTP) añadido *no* es complementario a la siguiente base en la hebra molde?",
+      "fr": "Que se passe-t-il dans le séquençage par synthèse si le désoxyribonucléoside triphosphate (dNTP) ajouté n'est *pas* complémentaire à la prochaine base sur le brin matrice ?",
+      "de": "Was geschieht bei der Sequenzierung durch Synthese, wenn das hinzugefügte Desoxynukleosidtriphosphat (dNTP) *nicht* komplementär zur nächsten Base auf dem Matrizenstrang ist?",
+      "ja": "合成によるシーケンシングにおいて、添加されたデオキシヌクレオシド三リン酸（dNTP）がテンプレート鎖上の次の塩基と相補的でない場合、何が起こりますか？"
+    },
+    "options": [
+      {
+        "id": "option_A",
+        "text": {
+          "en": "It is incorporated but emits a different signal.",
+          "zh": "它会被掺入但发出不同的信号。",
+          "es": "Se incorpora pero emite una señal diferente.",
+          "fr": "Il est incorporé mais émet un signal différent.",
+          "de": "Es wird eingebaut, sendet aber ein anderes Signal aus.",
+          "ja": "組み込まれるが、異なるシグナルを発する。"
+        },
+        "feedback": {
+          "en": "Non-complementary nucleotides are not incorporated into the growing strand at all in this method.",
+          "zh": "在此方法中，不互补的核苷酸根本不会掺入到生长链中。",
+          "es": "Los nucleótidos no complementarios no se incorporan en la cadena en crecimiento en este método.",
+          "fr": "Les nucléotides non complémentaires ne sont pas incorporés du tout dans le brin en croissance avec cette méthode.",
+          "de": "Nicht-komplementäre Nukleotide werden bei dieser Methode überhaupt nicht in den wachsenden Strang eingebaut.",
+          "ja": "この方法では、非相補的なヌクレオチドは成長中の鎖にまったく組み込まれません。"
+        }
+      },
+      {
+        "id": "option_B",
+        "text": {
+          "en": "It is washed off without incorporation or light emission.",
+          "zh": "它会被洗脱，不发生掺入或发光。",
+          "es": "Se lava sin incorporación ni emisión de luz.",
+          "fr": "Il est rincé sans incorporation ni émission de lumière.",
+          "de": "Es wird ohne Einbau oder Lichtemission abgewaschen.",
+          "ja": "組み込まれたり、光を発したりすることなく洗い流される。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "option_C",
+        "text": {
+          "en": "It causes a strong flash of light due to an error.",
+          "zh": "它会因为错误而产生强烈的闪光。",
+          "es": "Provoca un fuerte destello de luz debido a un error.",
+          "fr": "Il provoque un fort éclair de lumière en raison d'une erreur.",
+          "de": "Es verursacht einen starken Lichtblitz aufgrund eines Fehlers.",
+          "ja": "エラーにより強い光を発する。"
+        },
+        "feedback": {
+          "en": "The method explicitly states that 'no reaction occurs, and there is no flash' if the nucleotide is not complementary.",
+          "zh": "该方法明确指出，如果核苷酸不互补，则“不发生反应，也没有闪光”。",
+          "es": "El método establece explícitamente que 'no ocurre ninguna reacción y no hay destello' if el nucleótido no es complementario.",
+          "fr": "La méthode stipule explicitement qu''aucune réaction ne se produit et qu'il n'y a pas d'éclair' si le nucléotide n'est pas complémentaire.",
+          "de": "Die Methode besagt ausdrücklich, dass 'keine Reaktion auftritt und kein Blitz erfolgt', wenn das Nukleotid nicht komplementär ist.",
+          "ja": "ヌクレオチドが相補的でない場合、「反応は起こらず、閃光も発生しない」と明示されています。"
+        }
+      },
+      {
+        "id": "option_D",
+        "text": {
+          "en": "It triggers a DNA repair mechanism.",
+          "zh": "它会触发 DNA 修复机制。",
+          "es": "Activa un mecanismo de reparación de ADN.",
+          "fr": "Il déclenche un mécanisme de réparation de l'ADN.",
+          "de": "Es löst einen DNA-Reparaturmechanismus aus.",
+          "ja": "DNA修復メカニズムを誘発する。"
+        },
+        "feedback": {
+          "en": "This method describes the sequencing process, not cellular DNA repair mechanisms.",
+          "zh": "此方法描述的是测序过程，而非细胞 DNA 修复机制。",
+          "es": "Este método describe el proceso de secuenciación, no los mecanismos de reparación del ADN celular.",
+          "fr": "Cette méthode décrit le processus de séquençage, et non les mécanismes de réparation de l'ADN cellulaire.",
+          "de": "Diese Methode beschreibt den Sequenzierungsprozess, nicht zelluläre DNA-Reparaturmechanismen.",
+          "ja": "この方法は、細胞のDNA修復メカニズムではなく、シーケンシングプロセスについて説明しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "option_B"
+    ],
+    "explanation": {
+      "en": "According to step 7, if the added deoxynucleoside triphosphate (dNTP) is not complementary to the next base on the template strand, it is not joined to the strand, no reaction occurs, and there is no flash. It is subsequently washed off before the next dNTP is introduced.",
+      "zh": "根据第 7 步，如果添加的脱氧核苷三磷酸 (dNTP) 与模板链上的下一个碱基不互补，它将不会连接到链上，不会发生反应，也不会有闪光。它随后在下一个 dNTP 被引入之前被洗脱。",
+      "es": "Según el paso 7, si el desoxirribonucleótido trifosfato (dNTP) añadido no es complementario a la siguiente base en la hebra molde, no se une a la hebra, no ocurre ninguna reacción y no hay destello. Posteriormente, se lava antes de que se introduzca el siguiente dNTP.",
+      "fr": "Selon l'étape 7, si le désoxyribonucléoside triphosphate (dNTP) ajouté n'est pas complémentaire à la prochaine base sur le brin matrice, il n'est pas lié au brin, aucune réaction ne se produit et il n'y a pas d'éclair. Il est ensuite lavé avant l'introduction du dNTP suivant.",
+      "de": "Gemäß Schritt 7 wird das hinzugefügte Desoxynukleosidtriphosphat (dNTP), wenn es nicht komplementär zur nächsten Base auf dem Matrizenstrang ist, nicht an den Strang gebunden, es findet keine Reaktion statt und es gibt keinen Blitz. Es wird anschließend abgewaschen, bevor das nächste dNTP eingeführt wird.",
+      "ja": "ステップ7によると、添加されたデオキシヌクレオシド三リン酸（dNTP）がテンプレート鎖上の次の塩基と相補的でない場合、それは鎖に結合せず、反応も起こらず、閃光も発生しません。その後、次のdNTPが導入される前に洗い流されます。"
+    }
+  },
+  {
+    "page_number": 466,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to step 3 in the 'Sequencing by Synthesis' method, how many identical copies of each DNA fragment are made and attached to a bead?",
+      "zh": "根据“合成测序”方法的第 3 步，每个 DNA 片段会制备多少个相同副本并附着到微珠上？",
+      "es": "Según el paso 3 del método de 'Secuenciación por Síntesis', ¿cuántas copias idénticas de cada fragmento de ADN se hacen y se adhieren a una perla?",
+      "fr": "Selon l'étape 3 de la méthode de 'Séquençage par Synthèse', combien de copies identiques de chaque fragment d'ADN sont fabriquées et attachées à une bille ?",
+      "de": "Gemäß Schritt 3 der 'Sequenzierung durch Synthese'-Methode, wie viele identische Kopien jedes DNA-Fragments werden erstellt und an eine Perle gebunden?",
+      "ja": "「合成によるシーケンシング」方法のステップ3によると、各DNA断片の同一コピーはいくつ作られ、ビーズに付着されますか？"
+    },
+    "options": [
+      {
+        "id": "option_A",
+        "text": {
+          "en": "Thousands.",
+          "zh": "数千。",
+          "es": "Miles.",
+          "fr": "Des milliers.",
+          "de": "Tausende.",
+          "ja": "数千。"
+        },
+        "feedback": {
+          "en": "The text specifies a much larger number of copies for each fragment.",
+          "zh": "文本中指定了每个片段的副本数量要大得多。",
+          "es": "El texto especifica un número mucho mayor de copias para cada fragmento.",
+          "fr": "Le texte spécifie un nombre beaucoup plus important de copies pour chaque fragment.",
+          "de": "Der Text gibt eine viel größere Anzahl von Kopien für jedes Fragment an.",
+          "ja": "テキストには、各断片のコピー数がはるかに多いと記載されています。"
+        }
+      },
+      {
+        "id": "option_B",
+        "text": {
+          "en": "Hundreds of thousands.",
+          "zh": "数十万。",
+          "es": "Cientos de miles.",
+          "fr": "Des centaines de milliers.",
+          "de": "Hunderttausende.",
+          "ja": "数十万。"
+        },
+        "feedback": {
+          "en": "This number is still too low; the method generates even more copies per fragment.",
+          "zh": "这个数字仍然太低；该方法为每个片段生成了更多的副本。",
+          "es": "Este número sigue siendo demasiado bajo; el método genera aún más copias por fragmento.",
+          "fr": "Ce nombre est encore trop faible ; la méthode génère encore plus de copies par fragment.",
+          "de": "Diese Zahl ist immer noch zu niedrig; die Methode generiert noch mehr Kopien pro Fragment.",
+          "ja": "この数はまだ少なすぎます。この方法では、断片ごとにさらに多くのコピーが生成されます。"
+        }
+      },
+      {
+        "id": "option_C",
+        "text": {
+          "en": "One million.",
+          "zh": "一百万。",
+          "es": "Un millón.",
+          "fr": "Un million.",
+          "de": "Eine Million.",
+          "ja": "百万。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "option_D",
+        "text": {
+          "en": "Billions.",
+          "zh": "数十亿。",
+          "es": "Miles de millones.",
+          "fr": "Des milliards.",
+          "de": "Milliarden.",
+          "ja": "数十億。"
+        },
+        "feedback": {
+          "en": "Billions refers to the total number of nucleotides that can be sequenced in 24 hours, not the copies per fragment.",
+          "zh": "数十亿指的是 24 小时内可以测序的核苷酸总数，而不是每个片段的副本数。",
+          "es": "Miles de millones se refiere al número total de nucleótidos que se pueden secuenciar en 24 horas, no a las copias por fragmento.",
+          "fr": "Des milliards se réfèrent au nombre total de nucléotides pouvant être séquencés en 24 heures, et non aux copies par fragment.",
+          "de": "Milliarden bezieht sich auf die Gesamtzahl der Nukleotide, die in 24 Stunden sequenziert werden können, nicht auf die Kopien pro Fragment.",
+          "ja": "数十億とは、24時間でシーケンシングできるヌクレオチドの総数を指し、断片ごとのコピー数ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "option_C"
+    ],
+    "explanation": {
+      "en": "Step 3 clearly states that 'One million identical copies are made' for each fragment.",
+      "zh": "第 3 步明确指出，每个片段会“制备一百万个相同副本”。",
+      "es": "El paso 3 establece claramente que 'se hace un millón de copias idénticas' de cada fragmento.",
+      "fr": "L'étape 3 indique clairement qu''un million de copies identiques sont faites' pour chaque fragment.",
+      "de": "Schritt 3 besagt eindeutig, dass 'eine Million identische Kopien' für jedes Fragment erstellt werden.",
+      "ja": "ステップ3には、各断片について「100万個の同一コピーが作成される」と明確に記載されています。"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 1024,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "During the process of clonal selection for B cells, as illustrated and described, which two main types of activated cell populations are formed?",
+      "zh": "根据图示和描述的B细胞克隆选择过程，形成哪两种主要的活化细胞群体？",
+      "es": "Durante el proceso de selección clonal para las células B, según lo ilustrado y descrito, ¿qué dos tipos principales de poblaciones de células activadas se forman?",
+      "fr": "Selon l'illustration et la description, quels sont les deux principaux types de populations de cellules activées formées lors du processus de sélection clonale des cellules B ?",
+      "de": "Welche zwei Haupttypen aktivierter Zellpopulationen werden während des Prozesses der klonalen Selektion von B-Zellen, wie illustriert und beschrieben, gebildet?",
+      "ja": "図と説明に基づくと、B細胞のクローン選択の過程で、主にどのような2種類の活性化細胞集団が形成されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Plasma cells and Memory B cells",
+          "zh": "浆细胞和记忆B细胞",
+          "es": "Células plasmáticas y células B de memoria",
+          "fr": "Plasmocytes et lymphocytes B à mémoire",
+          "de": "Plasmazellen und Gedächtnis-B-Zellen",
+          "ja": "形質細胞と記憶B細胞"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Helper T cells and Cytotoxic T cells",
+          "zh": "辅助性T细胞和细胞毒性T细胞",
+          "es": "Linfocitos T colaboradores y linfocitos T citotóxicos",
+          "fr": "Lymphocytes T auxiliaires et lymphocytes T cytotoxiques",
+          "de": "Helfer-T-Zellen und zytotoxische T-Zellen",
+          "ja": "ヘルパーT細胞と細胞傷害性T細胞"
+        },
+        "feedback": {
+          "en": "Helper T cells and Cytotoxic T cells are types of T cells, not B cell differentiation products from clonal selection.",
+          "zh": "辅助性T细胞和细胞毒性T细胞是T细胞的类型，不是B细胞克隆选择分化产生的产物。",
+          "es": "Los linfocitos T colaboradores y los linfocitos T citotóxicos son tipos de linfocitos T, no productos de diferenciación de las células B a partir de la selección clonal.",
+          "fr": "Les lymphocytes T auxiliaires et les lymphocytes T cytotoxiques sont des types de lymphocytes T, non des produits de différenciation des lymphocytes B issus de la sélection clonale.",
+          "de": "Helfer-T-Zellen und zytotoxische T-Zellen sind Typen von T-Zellen, nicht Differenzierungsprodukte von B-Zellen aus der klonalen Selektion.",
+          "ja": "ヘルパーT細胞と細胞傷害性T細胞はT細胞の一種であり、クローン選択によるB細胞の分化産物ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Macrophages and Dendritic cells",
+          "zh": "巨噬细胞和树突状细胞",
+          "es": "Macrófagos y células dendríticas",
+          "fr": "Macrophages et cellules dendritiques",
+          "de": "Makrophagen und dendritische Zellen",
+          "ja": "マクロファージと樹状細胞"
+        },
+        "feedback": {
+          "en": "Macrophages and dendritic cells are antigen-presenting cells, not effector cells derived from B cell clonal selection.",
+          "zh": "巨噬细胞和树突状细胞是抗原呈递细胞，不是B细胞克隆选择产生的效应细胞。",
+          "es": "Los macrófagos y las células dendríticas son células presentadoras de antígenos, no células efectoras derivadas de la selección clonal de las células B.",
+          "fr": "Les macrophages et les cellules dendritiques sont des cellules présentatrices d'antigènes, et non des cellules effectrices dérivées de la sélection clonale des lymphocytes B.",
+          "de": "Makrophagen und dendritische Zellen sind Antigen-präsentierende Zellen, keine Effektorzellen, die aus der klonalen Selektion von B-Zellen hervorgehen.",
+          "ja": "マクロファージと樹状細胞は抗原提示細胞であり、B細胞のクローン選択に由来するエフェクター細胞ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Stem cells and Self-reactive B cells",
+          "zh": "干细胞和自身反应性B细胞",
+          "es": "Células madre y células B autorreactivas",
+          "fr": "Cellules souches et lymphocytes B autoréactifs",
+          "de": "Stammzellen und autoreaktive B-Zellen",
+          "ja": "幹細胞と自己反応性B細胞"
+        },
+        "feedback": {
+          "en": "Stem cells are precursors, and self-reactive B cells are eliminated, not formed as activated populations.",
+          "zh": "干细胞是前体细胞，而自身反应性B细胞被清除，而不是形成活化群体。",
+          "es": "Las células madre son precursores, y las células B autorreactivas son eliminadas, no formadas como poblaciones activadas.",
+          "fr": "Les cellules souches sont des précurseurs, et les lymphocytes B autoréactifs sont éliminés, non formés en populations activées.",
+          "de": "Stammzellen sind Vorläuferzellen, und autoreaktive B-Zellen werden eliminiert, nicht als aktivierte Populationen gebildet.",
+          "ja": "幹細胞は前駆細胞であり、自己反応性B細胞は活性化された集団として形成されるのではなく、除去されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The clonal selection diagram and accompanying text in Concept 43.2 explicitly show that activated B cell populations differentiate into plasma cells (which produce antibodies) and memory B cells (which provide long-term immunity).",
+      "zh": "概念43.2中的克隆选择图和附带文本明确表明，活化的B细胞群体分化为浆细胞（产生抗体）和记忆B细胞（提供长期免疫）。",
+      "es": "El diagrama de selección clonal y el texto adjunto en el Concepto 43.2 muestran explícitamente que las poblaciones de células B activadas se diferencian en células plasmáticas (que producen anticuerpos) y células B de memoria (que proporcionan inmunidad a largo plazo).",
+      "fr": "Le schéma de sélection clonale et le texte d'accompagnement du Concept 43.2 montrent explicitement que les populations de lymphocytes B activés se différencient en plasmocytes (qui produisent des anticorps) et en lymphocytes B à mémoire (qui confèrent une immunité à long terme).",
+      "de": "Das Diagramm zur klonalen Selektion und der begleitende Text in Konzept 43.2 zeigen explizit, dass aktivierte B-Zell-Populationen zu Plasmazellen (die Antikörper produzieren) und Gedächtnis-B-Zellen (die langfristige Immunität vermitteln) differenzieren.",
+      "ja": "概念43.2のクローン選択の図と付随するテキストは、活性化されたB細胞集団が形質細胞（抗体を産生する）と記憶B細胞（長期的な免疫を提供する）に分化することを示しています。"
+    }
+  },
+  {
+    "page_number": 1024,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately distinguishes between the humoral immune response and the cell-mediated immune response, according to the provided text?",
+      "zh": "根据提供的文本，以下哪项陈述准确区分了体液免疫应答和细胞介导免疫应答？",
+      "es": "¿Cuál de las siguientes afirmaciones distingue con precisión la respuesta inmune humoral de la respuesta inmune mediada por células, según el texto proporcionado?",
+      "fr": "Selon le texte fourni, laquelle des affirmations suivantes distingue avec précision la réponse immunitaire humorale de la réponse immunitaire à médiation cellulaire ?",
+      "de": "Welche der folgenden Aussagen unterscheidet gemäß dem bereitgestellten Text präzise zwischen der humoralen Immunantwort und der zellvermittelten Immunantwort?",
+      "ja": "提供されたテキストによると、体液性免疫応答と細胞性免疫応答の主な違いを正確に説明しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The humoral response primarily involves antibodies targeting extracellular pathogens, while the cell-mediated response involves cytotoxic T cells destroying infected host cells.",
+          "zh": "体液应答主要涉及抗体靶向细胞外病原体，而细胞介导应答涉及细胞毒性T细胞破坏受感染的宿主细胞。",
+          "es": "La respuesta humoral implica principalmente anticuerpos que atacan patógenos extracelulares, mientras que la respuesta mediada por células implica linfocitos T citotóxicos que destruyen las células huésped infectadas.",
+          "fr": "La réponse humorale implique principalement des anticorps ciblant les agents pathogènes extracellulaires, tandis que la réponse à médiation cellulaire implique des lymphocytes T cytotoxiques détruisant les cellules hôtes infectées.",
+          "de": "Die humorale Antwort umfasst hauptsächlich Antikörper, die extrazelluläre Pathogene angreifen, während die zellvermittelte Antwort zytotoxische T-Zellen beinhaltet, die infizierte Wirtszellen zerstören.",
+          "ja": "体液性免疫応答は主に抗体が細胞外の病原体を標的とすることを含み、細胞性免疫応答は細胞傷害性T細胞が感染した宿主細胞を破壊することを含みます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The humoral response is mediated by T cells, and the cell-mediated response is mediated by B cells.",
+          "zh": "体液应答由T细胞介导，细胞介导应答由B细胞介导。",
+          "es": "La respuesta humoral está mediada por linfocitos T, y la respuesta mediada por células está mediada por linfocitos B.",
+          "fr": "La réponse humorale est médiatisée par les lymphocytes T, et la réponse à médiation cellulaire est médiatisée par les lymphocytes B.",
+          "de": "Die humorale Antwort wird von T-Zellen vermittelt, und die zellvermittelte Antwort wird von B-Zellen vermittelt.",
+          "ja": "体液性免疫応答はT細胞によって媒介され、細胞性免疫応答はB細胞によって媒介されます。"
+        },
+        "feedback": {
+          "en": "The roles are reversed; the humoral response is mediated by antibodies (produced by B cells), and the cell-mediated response is mediated by T cells.",
+          "zh": "作用相反；体液应答由抗体（B细胞产生）介导，而细胞介导应答由T细胞介导。",
+          "es": "Los papeles están invertidos; la respuesta humoral está mediada por anticuerpos (producidos por linfocitos B), y la respuesta mediada por células está mediada por linfocitos T.",
+          "fr": "Les rôles sont inversés; la réponse humorale est médiatisée par les anticorps (produits par les lymphocytes B), et la réponse à médiation cellulaire est médiatisée par les lymphocytes T.",
+          "de": "Die Rollen sind vertauscht; die humorale Antwort wird durch Antikörper (von B-Zellen produziert) vermittelt, und die zellvermittelte Antwort wird durch T-Zellen vermittelt.",
+          "ja": "役割が逆です。体液性免疫応答は抗体（B細胞によって産生される）によって媒介され、細胞性免疫応答はT細胞によって媒介されます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The humoral response provides short-term protection, while the cell-mediated response provides long-term memory.",
+          "zh": "体液应答提供短期保护，而细胞介导应答提供长期记忆。",
+          "es": "La respuesta humoral proporciona protección a corto plazo, mientras que la respuesta mediada por células proporciona memoria a largo plazo.",
+          "fr": "La réponse humorale assure une protection à court terme, tandis que la réponse à médiation cellulaire assure une mémoire à long terme.",
+          "de": "Die humorale Antwort bietet kurzfristigen Schutz, während die zellvermittelte Antwort Langzeitgedächtnis bietet.",
+          "ja": "体液性免疫応答は短期的な防御を提供し、細胞性免疫応答は長期的な記憶を提供します。"
+        },
+        "feedback": {
+          "en": "Both humoral and cell-mediated responses can generate memory cells and provide long-term immunity.",
+          "zh": "体液和细胞介导应答都能产生记忆细胞并提供长期免疫。",
+          "es": "Tanto las respuestas humorales como las mediadas por células pueden generar células de memoria y proporcionar inmunidad a largo plazo.",
+          "fr": "Les réponses humorale et à médiation cellulaire peuvent toutes deux générer des cellules à mémoire et conférer une immunité à long terme.",
+          "de": "Sowohl humorale als auch zellvermittelte Antworten können Gedächtniszellen generieren und langfristige Immunität vermitteln.",
+          "ja": "体液性免疫応答も細胞性免疫応答も、記憶細胞を生成し、長期的な免疫を提供することができます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The humoral response is part of innate immunity, while the cell-mediated response is part of adaptive immunity.",
+          "zh": "体液应答是先天免疫的一部分，而细胞介导应答是适应性免疫的一部分。",
+          "es": "La respuesta humoral es parte de la inmunidad innata, mientras que la respuesta mediada por células es parte de la inmunidad adaptativa.",
+          "fr": "La réponse humorale fait partie de l'immunité innée, tandis que la réponse à médiation cellulaire fait partie de l'immunité adaptative.",
+          "de": "Die humorale Antwort ist Teil der angeborenen Immunität, während die zellvermittelte Antwort Teil der adaptiven Immunität ist.",
+          "ja": "体液性免疫応答は自然免疫の一部であり、細胞性免疫応答は適応免疫の一部です。"
+        },
+        "feedback": {
+          "en": "Both humoral and cell-mediated responses are components of adaptive immunity.",
+          "zh": "体液和细胞介导应答都是适应性免疫的组成部分。",
+          "es": "Ambas respuestas, humoral y mediada por células, son componentes de la inmunidad adaptativa.",
+          "fr": "Les réponses humorale et à médiation cellulaire sont toutes deux des composantes de l'immunité adaptative.",
+          "de": "Sowohl humorale als auch zellvermittelte Antworten sind Bestandteile der adaptiven Immunität.",
+          "ja": "体液性免疫応答も細胞性免疫応答も、ともに適応免疫の構成要素です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Concept 43.3 states that in the humoral immune response, antibodies eliminate antigens, and in the cell-mediated immune response, activated cytotoxic T cells trigger destruction of infected cells. This clearly differentiates their primary mechanisms and targets.",
+      "zh": "概念43.3指出，在体液免疫应答中，抗体清除抗原，而在细胞介导免疫应答中，活化的细胞毒性T细胞触发受感染细胞的破坏。这明确区分了它们的主要机制和靶点。",
+      "es": "El Concepto 43.3 establece que en la respuesta inmune humoral, los anticuerpos eliminan los antígenos, y en la respuesta inmune mediada por células, los linfocitos T citotóxicos activados desencadenan la destrucción de las células infectadas. Esto diferencia claramente sus mecanismos y objetivos principales.",
+      "fr": "Le Concept 43.3 stipule que dans la réponse immunitaire humorale, les anticorps éliminent les antigènes, et dans la réponse immunitaire à médiation cellulaire, les lymphocytes T cytotoxiques activés déclenchent la destruction des cellules infectées. Cela différencie clairement leurs mécanismes primaires et leurs cibles.",
+      "de": "Konzept 43.3 besagt, dass bei der humoralen Immunantwort Antikörper Antigene eliminieren und bei der zellvermittelten Immunantwort aktivierte zytotoxische T-Zellen die Zerstörung infizierter Zellen auslösen. Dies unterscheidet ihre primären Mechanismen und Ziele klar voneinander.",
+      "ja": "概念43.3では、体液性免疫応答では抗体が抗原を排除し、細胞性免疫応答では活性化された細胞傷害性T細胞が感染細胞の破壊を引き起こすと述べています。これにより、それぞれの主要なメカニズムと標的が明確に区別されます。"
+    }
+  },
+  {
+    "page_number": 1024,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the description of immune system disruptions, what is the defining characteristic of autoimmune diseases like multiple sclerosis?",
+      "zh": "根据免疫系统紊乱的描述，多发性硬化症等自身免疫疾病的决定性特征是什么？",
+      "es": "Según la descripción de las disfunciones del sistema inmunitario, ¿cuál es la característica definitoria de las enfermedades autoinmunes como la esclerosis múltiple?",
+      "fr": "D'après la description des perturbations du système immunitaire, quelle est la caractéristique distinctive des maladies auto-immunes comme la sclérose en plaques ?",
+      "de": "Basierend auf der Beschreibung von Störungen des Immunsystems, was ist das kennzeichnende Merkmal von Autoimmunerkrankungen wie Multipler Sklerose?",
+      "ja": "免疫系の機能不全の記述に基づくと、多発性硬化症のような自己免疫疾患の決定的な特徴は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The immune system is unable to produce sufficient antibodies against foreign pathogens.",
+          "zh": "免疫系统无法产生足够的抗体来对抗外来病原体。",
+          "es": "El sistema inmunitario es incapaz de producir suficientes anticuerpos contra patógenos extraños.",
+          "fr": "Le système immunitaire est incapable de produire suffisamment d'anticorps contre les agents pathogènes étrangers.",
+          "de": "Das Immunsystem ist nicht in der Lage, genügend Antikörper gegen fremde Krankheitserreger zu produzieren.",
+          "ja": "免疫系が異物病原体に対して十分な抗体を産生できない。"
+        },
+        "feedback": {
+          "en": "This describes an immunodeficiency, not an autoimmune disease. Autoimmune diseases involve the immune system attacking self.",
+          "zh": "这描述的是免疫缺陷，而不是自身免疫疾病。自身免疫疾病涉及免疫系统攻击自身。",
+          "es": "Esto describe una inmunodeficiencia, no una enfermedad autoinmune. Las enfermedades autoinmunes implican que el sistema inmunitario ataca lo propio.",
+          "fr": "Ceci décrit une immunodéficience, et non une maladie auto-immune. Les maladies auto-immunes impliquent que le système immunitaire attaque ses propres tissus.",
+          "de": "Dies beschreibt eine Immunschwäche, keine Autoimmunerkrankung. Autoimmunerkrankungen beinhalten, dass das Immunsystem körpereigene Gewebe angreift.",
+          "ja": "これは免疫不全を説明するものであり、自己免疫疾患ではありません。自己免疫疾患は、免疫系が自己を攻撃する状態です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The immune system has lost its self-tolerance, leading to an attack on the body's own tissues.",
+          "zh": "免疫系统丧失了自身耐受性，导致攻击身体自身的组织。",
+          "es": "El sistema inmunitario ha perdido su autotolerancia, lo que lleva a un ataque a los propios tejidos del cuerpo.",
+          "fr": "Le système immunitaire a perdu sa tolérance au soi, entraînant une attaque des propres tissus de l'organisme.",
+          "de": "Das Immunsystem hat seine Selbsttoleranz verloren, was zu einem Angriff auf körpereigenes Gewebe führt.",
+          "ja": "免疫系が自己寛容を失い、自身の組織を攻撃するようになる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The body exhibits an exaggerated immune response to harmless environmental substances.",
+          "zh": "身体对无害的环境物质表现出过度免疫反应。",
+          "es": "El cuerpo exhibe una respuesta inmune exagerada a sustancias ambientales inofensivas.",
+          "fr": "Le corps présente une réponse immunitaire exagérée à des substances environnementales inoffensives.",
+          "de": "Der Körper zeigt eine übertriebene Immunreaktion auf harmlose Umweltstoffe.",
+          "ja": "身体が無害な環境物質に対して過剰な免疫応答を示す。"
+        },
+        "feedback": {
+          "en": "This describes an allergic reaction, not an autoimmune disease, although both involve immune system dysregulation.",
+          "zh": "这描述的是过敏反应，而不是自身免疫疾病，尽管两者都涉及免疫系统失调。",
+          "es": "Esto describe una reacción alérgica, no una enfermedad autoinmune, aunque ambas implican una desregulación del sistema inmunitario.",
+          "fr": "Ceci décrit une réaction allergique, et non une maladie auto-immune, bien que les deux impliquent une dérégulation du système immunitaire.",
+          "de": "Dies beschreibt eine allergische Reaktion, keine Autoimmunerkrankung, obwohl beide eine Dysregulation des Immunsystems beinhalten.",
+          "ja": "これはアレルギー反応を説明するものであり、自己免疫疾患ではありません。両者ともに免疫系の調節不全を伴いますが。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Pathogens are evading the immune system through antigenic variation or latency.",
+          "zh": "病原体通过抗原变异或潜伏来逃避免疫系统。",
+          "es": "Los patógenos evaden el sistema inmunitario mediante variación antigénica o latencia.",
+          "fr": "Les agents pathogènes échappent au système immunitaire par variation antigénique ou latence.",
+          "de": "Pathogene entziehen sich dem Immunsystem durch Antigendrift oder Latenz.",
+          "ja": "病原体が抗原変異や潜伏によって免疫系から逃避している。"
+        },
+        "feedback": {
+          "en": "This describes strategies used by pathogens to avoid immune detection, not an internal immune system disorder like autoimmunity.",
+          "zh": "这描述的是病原体用于逃避免疫检测的策略，而不是像自身免疫这样内部的免疫系统紊乱。",
+          "es": "Esto describe estrategias utilizadas por los patógenos para evitar la detección inmunitaria, no un trastorno interno del sistema inmunitario como la autoinmunidad.",
+          "fr": "Ceci décrit des stratégies utilisées par les agents pathogènes pour échapper à la détection immunitaire, et non un trouble interne du système immunitaire comme l'auto-immunité.",
+          "de": "Dies beschreibt Strategien, die von Pathogenen verwendet werden, um der Immundetektion zu entgehen, nicht eine interne Störung des Immunsystems wie Autoimmunität.",
+          "ja": "これは病原体が免疫検出を回避するために使用する戦略であり、自己免疫のような内部の免疫系疾患ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Concept 43.4 explicitly states: 'Loss of self-tolerance can lead to autoimmune diseases, such as multiple sclerosis.'",
+      "zh": "概念43.4明确指出：“自身耐受性的丧失可能导致自身免疫疾病，例如多发性硬化症。”",
+      "es": "El Concepto 43.4 establece explícitamente: 'La pérdida de la autotolerancia puede conducir a enfermedades autoinmunes, como la esclerosis múltiple'.",
+      "fr": "Le Concept 43.4 stipule explicitement : « La perte de la tolérance au soi peut entraîner des maladies auto-immunes, telles que la sclérose en plaques. »",
+      "de": "Konzept 43.4 besagt explizit: 'Der Verlust der Selbsttoleranz kann zu Autoimmunerkrankungen, wie Multipler Sklerose, führen.'",
+      "ja": "概念43.4は「自己寛容の喪失は、多発性硬化症などの自己免疫疾患を引き起こす可能性がある」と明確に述べています。"
+    }
+  },
+  {
+    "page_number": 1024,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "How do B cells and T cells primarily recognize epitopes according to the text?",
+      "zh": "根据文本，B细胞和T细胞主要如何识别表位？",
+      "es": "Según el texto, ¿cómo reconocen principalmente las células B y las células T los epítopos?",
+      "fr": "Selon le texte, comment les lymphocytes B et les lymphocytes T reconnaissent-ils principalement les épitopes ?",
+      "de": "Wie erkennen B-Zellen und T-Zellen Epitope primär gemäß dem Text?",
+      "ja": "本文によると、B細胞とT細胞は主にどのようにエピトープを認識しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "B cells recognize intact antigens directly; T cells recognize antigen fragments presented by MHC molecules.",
+          "zh": "B细胞直接识别完整的抗原；T细胞识别由MHC分子呈递的抗原片段。",
+          "es": "Las células B reconocen directamente los antígenos intactos; las células T reconocen fragmentos de antígenos presentados por moléculas de MHC.",
+          "fr": "Les lymphocytes B reconnaissent directement les antigènes intacts; les lymphocytes T reconnaissent les fragments d'antigènes présentés par les molécules du CMH.",
+          "de": "B-Zellen erkennen intakte Antigene direkt; T-Zellen erkennen Antigenfragmente, die von MHC-Molekülen präsentiert werden.",
+          "ja": "B細胞は完全な抗原を直接認識します。T細胞はMHC分子によって提示された抗原断片を認識します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "B cells recognize antigen fragments presented by MHC; T cells recognize intact antigens directly.",
+          "zh": "B细胞识别由MHC呈递的抗原片段；T细胞直接识别完整的抗原。",
+          "es": "Las células B reconocen fragmentos de antígenos presentados por MHC; las células T reconocen directamente los antígenos intactos.",
+          "fr": "Les lymphocytes B reconnaissent les fragments d'antigènes présentés par le CMH; les lymphocytes T reconnaissent directement les antigènes intacts.",
+          "de": "B-Zellen erkennen Antigenfragmente, die von MHC präsentiert werden; T-Zellen erkennen intakte Antigene direkt.",
+          "ja": "B細胞はMHCによって提示された抗原断片を認識します。T細胞は完全な抗原を直接認識します。"
+        },
+        "feedback": {
+          "en": "The roles are reversed. B cells recognize intact antigens, while T cells require antigen presentation by MHC.",
+          "zh": "作用相反。B细胞识别完整的抗原，而T细胞需要通过MHC呈递抗原。",
+          "es": "Los papeles están invertidos. Las células B reconocen antígenos intactos, mientras que las células T requieren la presentación de antígenos por MHC.",
+          "fr": "Les rôles sont inversés. Les lymphocytes B reconnaissent les antigènes intacts, tandis que les lymphocytes T nécessitent une présentation des antigènes par le CMH.",
+          "de": "Die Rollen sind vertauscht. B-Zellen erkennen intakte Antigene, während T-Zellen die Antigenpräsentation durch MHC benötigen.",
+          "ja": "役割が逆です。B細胞は完全な抗原を認識しますが、T細胞はMHCによる抗原提示が必要です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both B cells and T cells recognize intact antigens circulating in the blood or lymph.",
+          "zh": "B细胞和T细胞都识别血液或淋巴中循环的完整抗原。",
+          "es": "Tanto las células B como las células T reconocen antígenos intactos que circulan en la sangre o la linfa.",
+          "fr": "Les lymphocytes B et les lymphocytes T reconnaissent tous deux les antigènes intacts circulant dans le sang ou la lymphe.",
+          "de": "Sowohl B-Zellen als auch T-Zellen erkennen intakte Antigene, die im Blut oder in der Lymphe zirkulieren.",
+          "ja": "B細胞とT細胞の両方が、血液やリンパ中を循環する完全な抗原を認識します。"
+        },
+        "feedback": {
+          "en": "While B cells recognize intact antigens, T cells specifically recognize protein epitopes presented as fragments on host cell surfaces by MHC molecules, not intact antigens.",
+          "zh": "虽然B细胞识别完整的抗原，但T细胞特异性识别由MHC分子在宿主细胞表面呈递的蛋白质表位片段，而不是完整的抗原。",
+          "es": "Aunque las células B reconocen antígenos intactos, las células T reconocen específicamente epítopos proteicos presentados como fragmentos en la superficie de las células huésped por moléculas de MHC, no antígenos intactos.",
+          "fr": "Alors que les lymphocytes B reconnaissent les antigènes intacts, les lymphocytes T reconnaissent spécifiquement les épitopes protéiques présentés sous forme de fragments à la surface des cellules hôtes par les molécules du CMH, et non les antigènes intacts.",
+          "de": "Während B-Zellen intakte Antigene erkennen, erkennen T-Zellen spezifisch Protein-Epitope, die als Fragmente auf der Oberfläche von Wirtszellen durch MHC-Moleküle präsentiert werden, nicht intakte Antigene.",
+          "ja": "B細胞は完全な抗原を認識しますが、T細胞は、完全な抗原ではなく、宿主細胞表面でMHC分子によって断片として提示されたタンパク質エピトープを特異的に認識します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both B cells and T cells recognize antigens only after they have been processed and presented by antigen-presenting cells.",
+          "zh": "B细胞和T细胞都只有在抗原被抗原呈递细胞处理和呈递后才识别抗原。",
+          "es": "Tanto las células B como las células T reconocen los antígenos solo después de que hayan sido procesados y presentados por las células presentadoras de antígenos.",
+          "fr": "Les lymphocytes B et les lymphocytes T ne reconnaissent les antigènes qu'après qu'ils aient été traités et présentés par les cellules présentatrices d'antigènes.",
+          "de": "Sowohl B-Zellen als auch T-Zellen erkennen Antigene erst, nachdem diese von Antigen-präsentierenden Zellen prozessiert und präsentiert wurden.",
+          "ja": "B細胞とT細胞の両方が、抗原提示細胞によって抗原が処理され提示された後にのみ抗原を認識します。"
+        },
+        "feedback": {
+          "en": "Only T cells require antigen processing and presentation by MHC molecules; B cells can recognize intact antigens directly.",
+          "zh": "只有T细胞需要抗原通过MHC分子进行处理和呈递；B细胞可以直接识别完整的抗原。",
+          "es": "Solo los linfocitos T requieren el procesamiento y la presentación de antígenos por las moléculas de MHC; las células B pueden reconocer antígenos intactos directamente.",
+          "fr": "Seuls les lymphocytes T nécessitent le traitement et la présentation des antigènes par les molécules du CMH; les lymphocytes B peuvent reconnaître directement les antigènes intacts.",
+          "de": "Nur T-Zellen benötigen die Antigenverarbeitung und -präsentation durch MHC-Moleküle; B-Zellen können intakte Antigene direkt erkennen.",
+          "ja": "T細胞のみがMHC分子による抗原処理と提示を必要とします。B細胞は完全な抗原を直接認識できます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Concept 43.2 states: 'B cells and antibodies recognize epitopes on the surface of antigens circulating in the blood or lymph.' It also states: 'T cells recognize protein epitopes in small antigen fragments (peptides) that are presented on the surface of host cells by major histocompatibility complex (MHC) molecules.'",
+      "zh": "概念43.2指出：“B细胞和抗体识别血液或淋巴中循环抗原表面的表位。”它还指出：“T细胞识别由主要组织相容性复合体（MHC）分子在宿主细胞表面呈递的小抗原片段（肽）中的蛋白质表位。”",
+      "es": "El Concepto 43.2 establece: 'Las células B y los anticuerpos reconocen epítopos en la superficie de antígenos que circulan en la sangre o la linfa'. También establece: 'Las células T reconocen epítopos proteicos en pequeños fragmentos de antígenos (péptidos) que se presentan en la superficie de las células huésped por las moléculas del complejo mayor de histocompatibilidad (MHC)'.",
+      "fr": "Le Concept 43.2 stipule : « Les lymphocytes B et les anticorps reconnaissent les épitopes à la surface des antigènes circulant dans le sang ou la lymphe. » Il indique également : « Les lymphocytes T reconnaissent les épitopes protéiques dans de petits fragments d'antigènes (peptides) qui sont présentés à la surface des cellules hôtes par les molécules du complexe majeur d'histocompatibilité (CMH). »",
+      "de": "Konzept 43.2 besagt: 'B-Zellen und Antikörper erkennen Epitope auf der Oberfläche von Antigenen, die im Blut oder in der Lymphe zirkulieren.' Es besagt auch: 'T-Zellen erkennen Protein-Epitope in kleinen Antigenfragmenten (Peptiden), die auf der Oberfläche von Wirtszellen durch Haupt-Histokompatibilitätskomplex (MHC)-Moleküle präsentiert werden.'",
+      "ja": "概念43.2は次のように述べています。「B細胞と抗体は、血液またはリンパ中を循環する抗原の表面にあるエピトープを認識します。」また、「T細胞は、主要組織適合遺伝子複合体（MHC）分子によって宿主細胞表面に提示される小さな抗原断片（ペプチド）中のタンパク質エピトープを認識します。」"
+    }
+  }
+]

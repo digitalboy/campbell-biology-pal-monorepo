@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 260,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "How is photosynthesis similar in C4 plants and CAM plants?",
+      "zh": "C4 植物和 CAM 植物的光合作用有何相似之处？",
+      "es": "¿En qué se parece la fotosíntesis en las plantas C4 y CAM?",
+      "fr": "En quoi la photosynthèse est-elle similaire chez les plantes C4 et CAM ?",
+      "de": "Worin ähnelt sich die Photosynthese bei C4-Pflanzen und CAM-Pflanzen?",
+      "ja": "C4植物とCAM植物の光合成はどのように似ていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "In both cases, only photosystem I is used.",
+          "zh": "在这两种情况下，都只使用光系统 I。",
+          "es": "En ambos casos, solo se utiliza el fotosistema I.",
+          "fr": "Dans les deux cas, seul le photosystème I est utilisé.",
+          "de": "In beiden Fällen wird nur Photosystem I verwendet.",
+          "ja": "どちらの場合も、光化学系Iのみが使用されます。"
+        },
+        "feedback": {
+          "en": "Both C4 and CAM plants utilize both photosystem I and photosystem II for the light-dependent reactions of photosynthesis.",
+          "zh": "C4 和 CAM 植物都使用光系统 I 和光系统 II 进行光合作用的光反应。",
+          "es": "Tanto las plantas C4 como las CAM utilizan el fotosistema I y el fotosistema II para las reacciones de la fotosíntesis dependientes de la luz.",
+          "fr": "Les plantes C4 et CAM utilisent à la fois le photosystème I et le photosystème II pour les réactions lumineuses de la photosynthèse.",
+          "de": "Sowohl C4- als auch CAM-Pflanzen nutzen sowohl Photosystem I als auch Photosystem II für die lichtabhängigen Reaktionen der Photosynthese.",
+          "ja": "C4植物とCAM植物は、どちらも光合成の光依存性反応のために光化学系Iと光化学系IIの両方を利用します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Both types of plants make sugar without the Calvin cycle.",
+          "zh": "这两种植物都在没有卡尔文循环的情况下制造糖。",
+          "es": "Ambos tipos de plantas producen azúcar sin el ciclo de Calvin.",
+          "fr": "Ces deux types de plantes fabriquent du sucre sans le cycle de Calvin.",
+          "de": "Beide Pflanzenarten stellen Zucker ohne den Calvin-Zyklus her.",
+          "ja": "どちらの植物もカルビン回路なしで糖を生成します。"
+        },
+        "feedback": {
+          "en": "Both C4 and CAM plants use the Calvin cycle for sugar synthesis. They only differ in how they initially fix CO2.",
+          "zh": "C4 和 CAM 植物都使用卡尔文循环合成糖。它们的区别仅在于最初固定二氧化碳的方式。",
+          "es": "Ambas plantas C4 y CAM utilizan el ciclo de Calvin para la síntesis de azúcar. Solo difieren en cómo fijan inicialmente el CO2.",
+          "fr": "Les plantes C4 et CAM utilisent toutes deux le cycle de Calvin pour la synthèse du sucre. Elles ne diffèrent que par la façon dont elles fixent initialement le CO2.",
+          "de": "Sowohl C4- als auch CAM-Pflanzen nutzen den Calvin-Zyklus zur Zuckersynthese. Sie unterscheiden sich lediglich in der anfänglichen CO2-Fixierung.",
+          "ja": "C4植物とCAM植物はどちらもカルビン回路を使って糖を合成します。これらは初期のCO2固定方法のみが異なります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "In both cases, rubisco is not used to fix carbon initially.",
+          "zh": "在这两种情况下，RuBisCO 都不是用于初始碳固定的酶。",
+          "es": "En ambos casos, la rubisco no se utiliza para fijar el carbono inicialmente.",
+          "fr": "Dans les deux cas, la rubisco n'est pas utilisée pour fixer initialement le carbone.",
+          "de": "In beiden Fällen wird Rubisco nicht zur anfänglichen Kohlenstofffixierung verwendet.",
+          "ja": "どちらの場合も、ルビスコは初期の炭素固定には使用されません。"
+        },
+        "feedback": {
+          "en": "Both C4 and CAM plants use PEP carboxylase for initial carbon fixation, allowing them to concentrate CO2 before rubisco acts.",
+          "zh": "C4 和 CAM 植物都使用 PEP 羧化酶进行初始碳固定，这使得它们能够在 RuBisCO 作用之前浓缩二氧化碳。",
+          "es": "Tanto las plantas C4 como las CAM utilizan la PEP carboxilasa para la fijación inicial de carbono, lo que les permite concentrar CO2 antes de que actúe la rubisco.",
+          "fr": "Les plantes C4 et CAM utilisent toutes deux la PEP carboxylase pour la fixation initiale du carbone, ce qui leur permet de concentrer le CO2 avant l'action de la rubisco.",
+          "de": "Sowohl C4- als auch CAM-Pflanzen verwenden PEP-Carboxylase für die anfängliche Kohlenstofffixierung, wodurch sie CO2 konzentrieren können, bevor Rubisco wirkt.",
+          "ja": "C4植物とCAM植物はどちらもPEPカルボキシラーゼを初期の炭素固定に利用し、ルビスコが作用する前にCO2を濃縮することができます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both types of plants make most of their sugar in the dark.",
+          "zh": "这两种植物大部分糖是在黑暗中制造的。",
+          "es": "Ambos tipos de plantas producen la mayor parte de su azúcar en la oscuridad.",
+          "fr": "Ces deux types de plantes fabriquent la majeure partie de leur sucre dans l'obscurité.",
+          "de": "Beide Pflanzenarten stellen den größten Teil ihres Zuckers im Dunkeln her.",
+          "ja": "どちらの植物も、糖の大部分は暗所で生成されます。"
+        },
+        "feedback": {
+          "en": "Only CAM plants fix CO2 at night, but the Calvin cycle (sugar synthesis) for both C4 and CAM plants primarily occurs during the day when ATP and NADPH from light reactions are available.",
+          "zh": "只有 CAM 植物在夜间固定二氧化碳，但 C4 和 CAM 植物的卡尔文循环（糖合成）主要在白天进行，因为此时光反应产生的 ATP 和 NADPH 可用。",
+          "es": "Solo las plantas CAM fijan CO2 por la noche, pero el ciclo de Calvin (síntesis de azúcar) tanto para las plantas C4 como CAM ocurre principalmente durante el día, cuando el ATP y el NADPH de las reacciones luminosas están disponibles.",
+          "fr": "Seules les plantes CAM fixent le CO2 la nuit, mais le cycle de Calvin (synthèse du sucre) pour les plantes C4 et CAM se produit principalement pendant la journée, lorsque l'ATP et le NADPH des réactions lumineuses sont disponibles.",
+          "de": "Nur CAM-Pflanzen fixieren CO2 nachts, aber der Calvin-Zyklus (Zuckersynthese) findet sowohl bei C4- als auch bei CAM-Pflanzen hauptsächlich tagsüber statt, wenn ATP und NADPH aus Lichtreaktionen verfügbar sind.",
+          "ja": "CAM植物のみが夜間にCO2を固定しますが、C4植物とCAM植物の両方において、カルビン回路（糖合成）は、光反応からのATPとNADPHが利用可能な日中に主に行われます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Both C4 and CAM plants have adaptations to minimize photorespiration by initially fixing carbon dioxide with an enzyme other than rubisco (PEP carboxylase), forming a four-carbon compound. This allows them to concentrate CO2 before it enters the Calvin cycle.",
+      "zh": "C4 和 CAM 植物都通过使用 RuBisCO 以外的酶（PEP 羧化酶）初始固定二氧化碳，形成四碳化合物，从而最大程度地减少光呼吸。这使得它们能够在二氧化碳进入卡尔文循环之前进行浓缩。",
+      "es": "Tanto las plantas C4 como las CAM tienen adaptaciones para minimizar la fotorrespiración al fijar inicialmente el dióxido de carbono con una enzima diferente a la rubisco (PEP carboxilasa), formando un compuesto de cuatro carbonos. Esto les permite concentrar el CO2 antes de que entre en el ciclo de Calvin.",
+      "fr": "Les plantes C4 et CAM ont toutes deux des adaptations pour minimiser la photorespiration en fixant initialement le dioxyde de carbone avec une enzyme autre que la rubisco (PEP carboxylase), formant un composé à quatre carbones. Cela leur permet de concentrer le CO2 avant qu'il n'entre dans le cycle de Calvin.",
+      "de": "Sowohl C4- als auch CAM-Pflanzen haben Anpassungen, um die Photorespiration zu minimieren, indem sie Kohlendioxid anfänglich mit einem anderen Enzym als Rubisco (PEP-Carboxylase) fixieren und eine Vierkohlenstoffverbindung bilden. Dies ermöglicht es ihnen, CO2 zu konzentrieren, bevor es in den Calvin-Zyklus gelangt.",
+      "ja": "C4植物とCAM植物はどちらも、ルビスコ以外の酵素（PEPカルボキシラーゼ）で最初に二酸化炭素を固定し、四炭素化合物を形成することで光呼吸を最小限に抑える適応を持っています。これにより、CO2がカルビン回路に入る前に濃縮することができます。"
+    }
+  },
+  {
+    "page_number": 260,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "In the experiment with isolated thylakoids, where thylakoids were first made acidic (pH 4) and then transferred to a basic solution (pH 8), leading to ATP synthesis in the dark, what is the crucial condition enabling ATP synthesis, and where would ATP accumulate?",
+      "zh": "在分离的类囊体实验中，类囊体首先被酸化（pH 4），然后转移到碱性溶液（pH 8），导致在黑暗中合成 ATP。什么关键条件促成了 ATP 的合成，以及 ATP 会在哪里积累？",
+      "es": "En el experimento con tilacoides aislados, donde los tilacoides se acidificaron primero (pH 4) y luego se transfirieron a una solución básica (pH 8), lo que llevó a la síntesis de ATP en la oscuridad, ¿cuál es la condición crucial que permite la síntesis de ATP y dónde se acumularía el ATP?",
+      "fr": "Dans l'expérience avec des thylacoïdes isolés, où les thylacoïdes ont d'abord été acidifiés (pH 4) puis transférés dans une solution basique (pH 8), entraînant la synthèse d'ATP dans l'obscurité, quelle est la condition cruciale permettant la synthèse d'ATP, et où l'ATP s'accumulerait-il ?",
+      "de": "In dem Experiment mit isolierten Thylakoiden, bei dem die Thylakoide zuerst sauer (pH 4) gemacht und dann in eine basische Lösung (pH 8) überführt wurden, was zur ATP-Synthese im Dunkeln führte, welche ist die entscheidende Bedingung, die die ATP-Synthese ermöglicht, und wo würde sich ATP ansammeln?",
+      "ja": "単離したチラコイドを用いた実験で、チラコイドを最初に酸性（pH 4）にし、次に塩基性溶液（pH 8）に移すと、暗所でATP合成が起こりました。ATP合成を可能にした重要な条件は何であり、ATPはどこに蓄積しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The presence of light energy; ATP would accumulate inside the thylakoid lumen.",
+          "zh": "光能的存在；ATP 将在类囊体腔内积累。",
+          "es": "La presencia de energía lumínica; el ATP se acumularía dentro del lumen tilacoidal.",
+          "fr": "La présence d'énergie lumineuse ; l'ATP s'accumulerait à l'intérieur du lumen thylacoïdien.",
+          "de": "Das Vorhandensein von Lichtenergie; ATP würde sich im Thylakoidlumen ansammeln.",
+          "ja": "光エネルギーの存在。ATPはチラコイド内腔に蓄積するでしょう。"
+        },
+        "feedback": {
+          "en": "ATP synthesis occurred in the dark, indicating light energy was not directly required at this stage. ATP is synthesized on the stroma side of the thylakoid membrane.",
+          "zh": "ATP 合成是在黑暗中发生的，这表明在这个阶段不需要直接的光能。ATP 在类囊体膜的基质侧合成。",
+          "es": "La síntesis de ATP ocurrió en la oscuridad, lo que indica que la energía luminosa no fue directamente necesaria en esta etapa. El ATP se sintetiza en el lado del estroma de la membrana tilacoidal.",
+          "fr": "La synthèse d'ATP s'est produite dans l'obscurité, ce qui indique que l'énergie lumineuse n'était pas directement nécessaire à ce stade. L'ATP est synthétisé du côté du stroma de la membrane thylacoïdienne.",
+          "de": "Die ATP-Synthese fand im Dunkeln statt, was darauf hinweist, dass Lichtenergie in diesem Stadium nicht direkt erforderlich war. ATP wird auf der Stroma-Seite der Thylakoidmembran synthetisiert.",
+          "ja": "ATP合成は暗所で行われたため、この段階では光エネルギーは直接必要ではありませんでした。ATPはチラコイド膜のストロマ側で合成されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A proton gradient across the thylakoid membrane; ATP would accumulate in the solution outside the thylakoid.",
+          "zh": "类囊体膜上的质子梯度；ATP 将在类囊体外的溶液中积累。",
+          "es": "Un gradiente de protones a través de la membrana tilacoidal; el ATP se acumularía en la solución fuera del tilacoide.",
+          "fr": "Un gradient de protons à travers la membrane thylacoïdienne ; l'ATP s'accumulerait dans la solution à l'extérieur du thylacoïde.",
+          "de": "Ein Protonengradient über die Thylakoidmembran; ATP würde sich in der Lösung außerhalb des Thylakoids ansammeln.",
+          "ja": "チラコイド膜を隔てたプロトン勾配。ATPはチラコイド外の溶液中に蓄積するでしょう。"
+        },
+        "feedback": {
+          "en": "The pH difference (acidic lumen, basic outside) creates the proton motive force. ATP synthase spans the membrane, and its catalytic sites face the stroma (outside the thylakoid), where ATP is released.",
+          "zh": "pH 差异（酸性腔内，碱性腔外）产生了质子动力。ATP 合成酶跨越膜，其催化位点面向基质（类囊体外部），ATP 在那里释放。",
+          "es": "La diferencia de pH (lumen ácido, exterior básico) crea la fuerza protón-motriz. La ATP sintasa atraviesa la membrana, y sus sitios catalíticos miran hacia el estroma (fuera del tilacoide), donde se libera el ATP.",
+          "fr": "La différence de pH (lumen acide, extérieur basique) crée la force proton-motrice. L'ATP synthase traverse la membrane, et ses sites catalytiques font face au stroma (à l'extérieur du thylacoïde), où l'ATP est libéré.",
+          "de": "Der pH-Unterschied (saures Lumen, basischer Außenbereich) erzeugt die Protonenmotorische Kraft. Die ATP-Synthase durchspannt die Membran, und ihre katalytischen Zentren zeigen zum Stroma (außerhalb des Thylakoids), wo ATP freigesetzt wird.",
+          "ja": "pHの差（内腔が酸性、外側が塩基性）がプロトン駆動力を作り出します。ATPシンターゼは膜を横断し、その触媒部位はストロマ（チラコイドの外側）に面しており、そこでATPが放出されます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The direct input of ATP; ATP would accumulate inside the thylakoid lumen.",
+          "zh": "ATP 的直接输入；ATP 将在类囊体腔内积累。",
+          "es": "La entrada directa de ATP; el ATP se acumularía dentro del lumen tilacoidal.",
+          "fr": "L'apport direct d'ATP ; l'ATP s'accumulerait à l'intérieur du lumen thylacoïdien.",
+          "de": "Die direkte Zufuhr von ATP; ATP würde sich im Thylakoidlumen ansammeln.",
+          "ja": "ATPの直接入力。ATPはチラコイド内腔に蓄積するでしょう。"
+        },
+        "feedback": {
+          "en": "The experiment demonstrates ATP *synthesis*, not ATP input. ATP is produced in the stroma (outside the thylakoid lumen).",
+          "zh": "该实验演示的是 ATP 的合成，而不是 ATP 的输入。ATP 在基质（类囊体腔外）中产生。",
+          "es": "El experimento demuestra la *síntesis* de ATP, no la entrada de ATP. El ATP se produce en el estroma (fuera del lumen tilacoidal).",
+          "fr": "L'expérience démontre la *synthèse* d'ATP, et non l'apport d'ATP. L'ATP est produit dans le stroma (à l'extérieur du lumen thylacoïdien).",
+          "de": "Das Experiment demonstriert die ATP-*Synthese*, nicht die ATP-Zufuhr. ATP wird im Stroma (außerhalb des Thylakoidlumens) produziert.",
+          "ja": "この実験はATPの*合成*を示しており、ATPの入力ではありません。ATPはストロマ（チラコイド内腔の外側）で生成されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The activity of photosystem II; ATP would accumulate in the solution outside the thylakoid.",
+          "zh": "光系统 II 的活性；ATP 将在类囊体外的溶液中积累。",
+          "es": "La actividad del fotosistema II; el ATP se acumularía en la solución fuera del tilacoide.",
+          "fr": "L'activité du photosystème II ; l'ATP s'accumulerait dans la solution à l'extérieur du thylacoïde.",
+          "de": "Die Aktivität von Photosystem II; ATP würde sich in der Lösung außerhalb des Thylakoids ansammeln.",
+          "ja": "光化学系IIの活性。ATPはチラコイド外の溶液中に蓄積するでしょう。"
+        },
+        "feedback": {
+          "en": "ATP was synthesized in the dark, meaning photosystem II, which requires light, was not active. The proton gradient alone drove ATP synthesis.",
+          "zh": "ATP 是在黑暗中合成的，这意味着需要光的光系统 II 未处于活跃状态。仅仅质子梯度就驱动了 ATP 合成。",
+          "es": "El ATP se sintetizó en la oscuridad, lo que significa que el fotosistema II, que requiere luz, no estaba activo. Solo el gradiente de protones impulsó la síntesis de ATP.",
+          "fr": "L'ATP a été synthétisé dans l'obscurité, ce qui signifie que le photosystème II, qui nécessite de la lumière, n'était pas actif. Le gradient de protons à lui seul a entraîné la synthèse d'ATP.",
+          "de": "ATP wurde im Dunkeln synthetisiert, was darauf hinweist, dass Photosystem II, das Licht benötigt, nicht aktiv war. Allein der Protonengradient trieb die ATP-Synthese an.",
+          "ja": "ATPは暗所で合成されたため、光を必要とする光化学系IIは活性ではありませんでした。プロトン勾配のみがATP合成を促進しました。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The experiment mimics chemiosmosis, where a proton gradient across the thylakoid membrane drives ATP synthesis by ATP synthase. By first soaking thylakoids in an acidic (low pH) solution, their lumen becomes acidic. Transferring them to a basic (high pH) solution creates a pH gradient (high H+ inside, low H+ outside). This gradient provides the proton motive force for ATP synthase to make ATP, which is released into the surrounding solution (analogous to the stroma). This process does not require light directly.",
+      "zh": "该实验模拟了化学渗透，即类囊体膜上的质子梯度驱动 ATP 合成酶合成 ATP。通过首先将类囊体浸泡在酸性（低 pH）溶液中，其腔内变得酸性。将其转移到碱性（高 pH）溶液中，会产生一个 pH 梯度（内部 H+ 高，外部 H+ 低）。这个梯度为 ATP 合成酶提供了质子驱动力，使其合成 ATP，然后 ATP 被释放到周围溶液中（类似于基质）。这个过程不需要直接的光照。",
+      "es": "El experimento simula la quimiosmosis, donde un gradiente de protones a través de la membrana tilacoidal impulsa la síntesis de ATP por la ATP sintasa. Al sumergir primero los tilacoides en una solución ácida (pH bajo), su lumen se vuelve ácido. Al transferirlos a una solución básica (pH alto), se crea un gradiente de pH (alta concentración de H+ dentro, baja concentración de H+ fuera). Este gradiente proporciona la fuerza protón-motriz para que la ATP sintasa produzca ATP, que se libera en la solución circundante (análoga al estroma). Este proceso no requiere luz directamente.",
+      "fr": "L'expérience imite la chimiosmose, où un gradient de protons à travers la membrane thylacoïdienne entraîne la synthèse d'ATP par l'ATP synthase. En trempant d'abord les thylacoïdes dans une solution acide (pH bas), leur lumière devient acide. Le transfert dans une solution basique (pH élevé) crée un gradient de pH (H+ élevé à l'intérieur, H+ faible à l'extérieur). Ce gradient fournit la force proton-motrice à l'ATP synthase pour fabriquer de l'ATP, qui est libéré dans la solution environnante (analogue au stroma). Ce processus ne nécessite pas directement de lumière.",
+      "de": "Das Experiment simuliert die Chemosmose, bei der ein Protonengradient über die Thylakoidmembran die ATP-Synthese durch die ATP-Synthase antreibt. Durch das anfängliche Einweichen der Thylakoide in einer sauren (niedriger pH-Wert) Lösung wird deren Lumen sauer. Die Übertragung in eine basische (hoher pH-Wert) Lösung erzeugt einen pH-Gradienten (hoher H+-Gehalt innen, niedriger H+-Gehalt außen). Dieser Gradient liefert die Protonenmotorische Kraft für die ATP-Synthese, um ATP herzustellen, das in die umgebende Lösung (analog zum Stroma) freigesetzt wird. Dieser Prozess erfordert kein direktes Licht.",
+      "ja": "この実験は、チラコイド膜を介したプロトン勾配がATPシンターゼによるATP合成を駆動する化学浸透を模倣しています。チラコイドを最初に酸性（低pH）溶液に浸すことで、その内腔が酸性になります。それを塩基性（高pH）溶液に移すと、pH勾配（内部に高H+、外部に低H+）が作成されます。この勾配がATPシンターゼがATPを生成するためのプロトン駆動力となり、ATPは周囲の溶液（ストロマに相当）に放出されます。このプロセスは直接光を必要としません。"
+    }
+  },
+  {
+    "page_number": 260,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What does the light reactions supply to the Calvin cycle?",
+      "zh": "光反应为卡尔文循环提供了什么？",
+      "es": "¿Qué suministran las reacciones luminosas al ciclo de Calvin?",
+      "fr": "Que fournissent les réactions lumineuses au cycle de Calvin ?",
+      "de": "Was liefern die Lichtreaktionen für den Calvin-Zyklus?",
+      "ja": "光反応はカルビン回路に何を提供しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "light energy.",
+          "zh": "光能。",
+          "es": "energía lumínica.",
+          "fr": "l'énergie lumineuse.",
+          "de": "Lichtenergie.",
+          "ja": "光エネルギー。"
+        },
+        "feedback": {
+          "en": "Light energy drives the light reactions, but it is not directly supplied as a product to the Calvin cycle.",
+          "zh": "光能驱动光反应，但它不作为产物直接供给卡尔文循环。",
+          "es": "La energía lumínica impulsa las reacciones luminosas, but no se suministra directamente como producto al ciclo de Calvin.",
+          "fr": "L'énergie lumineuse alimente les réactions lumineuses, mais elle n'est pas directement fournie comme produit au cycle de Calvin.",
+          "de": "Lichtenergie treibt die Lichtreaktionen an, wird aber nicht direkt als Produkt dem Calvin-Zyklus zugeführt.",
+          "ja": "光エネルギーは光反応を駆動しますが、直接的な生成物としてカルビン回路に供給されるわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "CO2 and ATP.",
+          "zh": "二氧化碳和 ATP。",
+          "es": "CO2 y ATP.",
+          "fr": "CO2 et ATP.",
+          "de": "CO2 und ATP.",
+          "ja": "CO2とATP。"
+        },
+        "feedback": {
+          "en": "CO2 is consumed by the Calvin cycle, not supplied to it by the light reactions.",
+          "zh": "二氧化碳被卡尔文循环消耗，而不是由光反应提供给它。",
+          "es": "El CO2 es consumido por el ciclo de Calvin, no suministrado a este por las reacciones luminosas.",
+          "fr": "Le CO2 est consommé par le ciclo de Calvin, et non fourni par les réactions lumineuses.",
+          "de": "CO2 wird vom Calvin-Zyklus verbraucht und nicht von den Lichtreaktionen geliefert.",
+          "ja": "CO2はカルビン回路によって消費され、光反応によって供給されるものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "H2O and NADPH.",
+          "zh": "水和 NADPH。",
+          "es": "H2O y NADPH.",
+          "fr": "H2O et NADPH.",
+          "de": "H2O und NADPH.",
+          "ja": "H2OとNADPH。"
+        },
+        "feedback": {
+          "en": "H2O is a reactant in the light reactions, not a product supplied to the Calvin cycle.",
+          "zh": "水是光反应的反应物，而不是提供给卡尔文循环的产物。",
+          "es": "El H2O es un reactivo en las reacciones luminosas, no un producto suministrado al ciclo de Calvin.",
+          "fr": "L'H2O est un réactif dans les réactions lumineuses, et non un produit fourni au cycle de Calvin.",
+          "de": "H2O ist ein Reaktant in den Lichtreaktionen, kein Produkt, das dem Calvin-Zyklus zugeführt wird.",
+          "ja": "H2Oは光反応の反応物であり、カルビン回路に供給される生成物ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "ATP and NADPH.",
+          "zh": "ATP 和 NADPH。",
+          "es": "ATP y NADPH.",
+          "fr": "ATP et NADPH.",
+          "de": "ATP und NADPH.",
+          "ja": "ATPとNADPH。"
+        },
+        "feedback": {
+          "en": "The light reactions produce ATP (energy) and NADPH (reducing power), which are essential for the Calvin cycle to synthesize sugars.",
+          "zh": "光反应产生 ATP（能量）和 NADPH（还原力），这些对于卡尔文循环合成糖至关重要。",
+          "es": "Las reacciones luminosas producen ATP (energía) y NADPH (poder reductor), que son esenciales para que el ciclo de Calvin sintetice azúcares.",
+          "fr": "Les réactions lumineuses produisent de l'ATP (énergie) et du NADPH (pouvoir réducteur), qui sont essentiels au cycle de Calvin pour synthétiser les sucres.",
+          "de": "Die Lichtreaktionen produzieren ATP (Energie) und NADPH (Reduktionskraft), die für den Calvin-Zyklus zur Zuckersynthese unerlässlich sind.",
+          "ja": "光反応はATP（エネルギー）とNADPH（還元力）を生成し、これらはカルビン回路が糖を合成するために不可欠です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "The light reactions convert light energy into chemical energy in the form of ATP and NADPH. These two molecules then provide the necessary energy and reducing power for the Calvin cycle to fix carbon dioxide and produce sugars.",
+      "zh": "光反应将光能转化为 ATP 和 NADPH 形式的化学能。这两个分子随后为卡尔文循环固定二氧化碳和产生糖提供必要的能量和还原力。",
+      "es": "Las reacciones luminosas convierten la energía lumínica en energía química en forma de ATP y NADPH. Estas dos moléculas proporcionan la energía y el poder reductor necesarios para que el ciclo de Calvin fije el dióxido de carbono y produzca azúcares.",
+      "fr": "Les réactions lumineuses convertissent l'énergie lumineuse en énergie chimique sous forme d'ATP et de NADPH. Ces deux molécules fournissent ensuite l'énergie et le pouvoir réducteur nécessaires au cycle de Calvin pour fixer le dioxyde de carbone et produire des sucres.",
+      "de": "Die Lichtreaktionen wandeln Lichtenergie in chemische Energie in Form von ATP und NADPH um. Diese beiden Moleküle liefern dann die notwendige Energie und Reduktionskraft für den Calvin-Zyklus, um Kohlendioxid zu fixieren und Zucker zu produzieren.",
+      "ja": "光反応は光エネルギーをATPとNADPHの形で化学エネルギーに変換します。これら2つの分子は、カルビン回路が二酸化炭素を固定し糖を生成するために必要なエネルギーと還元力を提供します。"
+    }
+  },
+  {
+    "page_number": 260,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Tropical rainforests are estimated to be responsible for approximately 20% of global photosynthesis, yet their consumption of large amounts of CO2 by living trees is thought to make little or no net contribution to the reduction of global warming. Which of the following best explains this paradox?",
+      "zh": "热带雨林估计占全球光合作用的约 20%，但其活树消耗大量二氧化碳却被认为对减缓全球变暖没有或贡献甚微。以下哪项最能解释这一悖论？",
+      "es": "Se estima que las selvas tropicales son responsables de aproximadamente el 20% de la fotosíntesis global, sin embargo, se cree que su consumo de grandes cantidades de CO2 por parte de los árboles vivos contribuye poco o nada a la reducción del calentamiento global. ¿Cuál de las siguientes opciones explica mejor esta paradoja?",
+      "fr": "On estime que les forêts tropicales humides sont responsables d'environ 20 % de la photosynthèse mondiale, pourtant leur consommation de grandes quantités de CO2 par les arbres vivants est censée n'apporter que peu ou pas de contribution nette à la réduction du réchauffement climatique. Lequel des énoncés suivants explique le mieux ce paradoxe ?",
+      "de": "Tropische Regenwälder sollen für etwa 20 % der globalen Photosynthese verantwortlich sein, doch ihr Verbrauch großer Mengen CO2 durch lebende Bäume soll wenig oder gar keinen Netto-Beitrag zur Reduzierung der globalen Erwärmung leisten. Welche der folgenden Aussagen erklärt dieses Paradoxon am besten?",
+      "ja": "熱帯雨林は世界の光合成の約20%を担っていると推定されていますが、生きている樹木による大量のCO2消費は、地球温暖化の軽減にほとんど、あるいは全く貢献しないと考えられています。以下のうち、このパラドックスを最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The high rates of decomposition in rainforests release all fixed carbon back to the atmosphere as CO2.",
+          "zh": "雨林中高分解率将所有固定的碳以二氧化碳形式释放回大气。",
+          "es": "Las altas tasas de descomposición en las selvas tropicales liberan todo el carbono fijado de nuevo a la atmósfera como CO2.",
+          "fr": "Les taux élevés de décomposition dans les forêts tropicales humides libèrent tout le carbone fixé dans l'atmosphère sous forme de CO2.",
+          "de": "Die hohen Zersetzungsraten in Regenwäldern setzen den gesamten fixierten Kohlenstoff als CO2 wieder in die Atmosphäre frei.",
+          "ja": "熱帯雨林における高い分解速度により、固定された炭素はすべてCO2として大気中に放出されます。"
+        },
+        "feedback": {
+          "en": "Mature, undisturbed forests are often carbon neutral because the CO2 absorbed by photosynthesis in living trees is balanced by the CO2 released through cellular respiration and decomposition of dead organic matter.",
+          "zh": "成熟的、未受干扰的森林通常是碳中和的，因为活树通过光合作用吸收的二氧化碳与细胞呼吸和死亡有机物分解释放的二氧化碳相平衡。",
+          "es": "Los bosques maduros e inalterados suelen ser neutros en carbono porque el CO2 absorbido por la fotosíntesis en los árboles vivos se equilibra con el CO2 liberado a través de la respiración celular y la descomposición de la materia orgánica muerta.",
+          "fr": "Les forêts matures et non perturbées sont souvent neutres en carbone car le CO2 absorbé par la photosynthèse des arbres vivants est équilibré par le CO2 libéré par la respiration cellulaire et la décomposition de la matière organique morte.",
+          "de": "Ausgewachsene, ungestörte Wälder sind oft kohlenstoffneutral, da der durch Photosynthese in lebenden Bäumen aufgenommene CO2 durch den durch Zellatmung und Zersetzung abgestorbener organischer Substanz freigesetzten CO2 ausgeglichen wird.",
+          "ja": "成熟した手つかずの森林は、生きた樹木による光合成で吸収されたCO2と、細胞呼吸や死んだ有機物の分解によって放出されるCO2が相殺されるため、しばしばカーボンニュートラルです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Rainforest trees primarily utilize C4 photosynthesis, which is less efficient at carbon capture.",
+          "zh": "雨林树木主要利用 C4 光合作用，这种方式在碳捕获方面效率较低。",
+          "es": "Los árboles de la selva tropical utilizan principalmente la fotosíntesis C4, que es menos eficiente en la captura de carbono.",
+          "fr": "Les arbres de la forêt tropicale utilisent principalement la photosynthèse C4, qui est moins efficace pour la capture du carbone.",
+          "de": "Regenwaldbäume nutzen hauptsächlich die C4-Photosynthese, die weniger effizient bei der Kohlenstoffbindung ist.",
+          "ja": "熱帯雨林の樹木は主にC4光合成を利用しており、炭素捕捉効率が低い。"
+        },
+        "feedback": {
+          "en": "Most rainforest trees are C3 plants, not C4. C4 photosynthesis is generally more efficient in hot, dry environments.",
+          "zh": "大多数雨林树木是 C3 植物，而不是 C4 植物。C4 光合作用通常在炎热干燥的环境中效率更高。",
+          "es": "La mayoría de los árboles de la selva tropical son plantas C3, no C4. La fotosíntesis C4 es generalmente más eficiente en ambientes cálidos y secos.",
+          "fr": "La plupart des arbres de la forêt tropicale sont des plantes C3, pas C4. La photosynthèse C4 est généralement plus efficace dans les environnements chauds et secs.",
+          "de": "Die meisten Regenwaldbäume sind C3-Pflanzen, keine C4-Pflanzen. Die C4-Photosynthese ist in heißen, trockenen Umgebungen im Allgemeinen effizienter.",
+          "ja": "熱帯雨林の樹木のほとんどはC3植物であり、C4植物ではありません。C4光合成は一般的に暑く乾燥した環境でより効率的です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The CO2 fixed by rainforests is mainly converted into glucose, which quickly undergoes cellular respiration by the trees themselves.",
+          "zh": "雨林固定的二氧化碳主要转化为葡萄糖，然后很快被树木自身进行细胞呼吸。",
+          "es": "El CO2 fijado por las selvas tropicales se convierte principalmente en glucosa, que rápidamente experimenta respiración celular por los propios árboles.",
+          "fr": "Le CO2 fixé par les forêts tropicales est principalement converti en glucose, qui subit rapidement la respiration cellulaire par les arbres eux-mêmes.",
+          "de": "Der von Regenwäldern fixierte CO2 wird hauptsächlich in Glukose umgewandelt, die schnell durch die Bäume selbst Zellatmung durchläuft.",
+          "ja": "熱帯雨林によって固定されたCO2は、主にグルコースに変換され、それはすぐに樹木自身の細胞呼吸によって消費されます。"
+        },
+        "feedback": {
+          "en": "While cellular respiration by living trees does release CO2, it doesn't fully explain the net zero contribution. The key factor is the balance between CO2 uptake and release from both living and decaying biomass.",
+          "zh": "虽然活树的细胞呼吸确实会释放二氧化碳，但这并不能完全解释净零贡献。关键因素是活体和腐烂生物量之间二氧化碳吸收和释放的平衡。",
+          "es": "Si bien la respiración celular de los árboles vivos libera CO2, no explica completamente la contribución neta cero. El factor clave es el equilibrio entre la absorción y liberación de CO2 tanto de la biomasa viva como de la en descomposición.",
+          "fr": "Bien que la respiration cellulaire des arbres vivants libère du CO2, cela n'explique pas entièrement la contribution nette nulle. Le facteur clé est l'équilibre entre l'absorption et la libération de CO2 par la biomasse vivante et en décomposition.",
+          "de": "Obwohl die Zellatmung lebender Bäume CO2 freisetzt, erklärt dies nicht vollständig den Netto-Null-Beitrag. Der Schlüsselfaktor ist das Gleichgewicht zwischen der CO2-Aufnahme und -Freisetzung aus lebender und verrottender Biomasse.",
+          "ja": "生きた樹木による細胞呼吸がCO2を放出する一方で、それが正味ゼロの貢献を完全に説明するわけではありません。重要な要因は、生きたバイオマスと腐敗するバイオマスの両方からのCO2の取り込みと放出のバランスです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Large amounts of CO2 are released from the soil due to volcanic activity in tropical regions.",
+          "zh": "热带地区由于火山活动，大量二氧化碳从土壤中释放。",
+          "es": "Grandes cantidades de CO2 se liberan del suelo debido a la actividad volcánica en las regiones tropicales.",
+          "fr": "De grandes quantités de CO2 sont libérées du sol en raison de l'activité volcanique dans les régions tropicales.",
+          "de": "Große Mengen CO2 werden aufgrund vulkanischer Aktivität in tropischen Regionen aus dem Boden freigesetzt.",
+          "ja": "熱帯地域の火山活動により、大量のCO2が土壌から放出される。"
+        },
+        "feedback": {
+          "en": "Volcanic activity is not a primary or widespread factor explaining the net carbon balance of mature rainforests as ecosystems. The explanation lies in biological processes.",
+          "zh": "火山活动不是解释成熟雨林生态系统净碳平衡的主要或普遍因素。解释在于生物过程。",
+          "es": "La actividad volcánica no es un factor primario o generalizado que explique el balance neto de carbono de las selvas tropicales maduras como ecosistemas. La explicación reside en los procesos biológicos.",
+          "fr": "L'activité volcanique n'est pas un facteur primaire ou généralisé expliquant le bilan carbone net des forêts tropicales matures en tant qu'écosystèmes. L'explication réside dans les processus biologiques.",
+          "de": "Vulkanische Aktivität ist kein primärer oder weit verbreiteter Faktor, der die Netto-Kohlenstoffbilanz reifer Regenwälder als Ökosysteme erklärt. Die Erklärung liegt in biologischen Prozessen.",
+          "ja": "火山活動は、生態系としての成熟した熱帯雨林の正味の炭素収支を説明する主要または広範囲な要因ではありません。説明は生物学的プロセスにあります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "While living trees in tropical rainforests absorb significant amounts of CO2 through photosynthesis, these ecosystems are often in a state of dynamic equilibrium. When trees die, their organic matter decomposes, and decomposers (bacteria and fungi) release CO2 back into the atmosphere through cellular respiration. In a mature, undisturbed rainforest, the amount of CO2 taken up by photosynthesis is roughly balanced by the amount released through respiration and decomposition, leading to little or no net contribution to atmospheric CO2 reduction.",
+      "zh": "虽然热带雨林中的活树通过光合作用吸收大量的二氧化碳，但这些生态系统通常处于动态平衡状态。当树木死亡时，其有机物质会分解，分解者（细菌和真菌）通过细胞呼吸将二氧化碳释放回大气。在一个成熟、未受干扰的雨林中，光合作用吸收的二氧化碳量与通过呼吸作用和分解释放的二氧化碳量大致平衡，因此对大气二氧化碳的减少贡献甚微或没有净贡献。",
+      "es": "Aunque los árboles vivos en las selvas tropicales absorben cantidades significativas de CO2 a través de la fotosíntesis, estos ecosistemas a menudo se encuentran en un estado de equilibrio dinámico. Cuando los árboles mueren, su materia orgánica se descompone, y los descomponedores (bacterias y hongos) liberan CO2 de nuevo a la atmósfera a través de la respiración celular. En una selva tropical madura e inalterada, la cantidad de CO2 absorbida por la fotosíntesis se equilibra aproximadamente con la cantidad liberada a través de la respiración y la descomposición, lo que lleva a una contribución neta mínima o nula a la reducción del CO2 atmosférico.",
+      "fr": "Bien que les arbres vivants des forêts tropicales humides absorbent des quantités significatives de CO2 par la photosynthèse, ces écosystèmes sont souvent en état d'équilibre dynamique. Lorsque les arbres meurent, leur matière organique se décompose, et les décomposeurs (bactéries et champignons) rejettent du CO2 dans l'atmosphère par respiration cellulaire. Dans une forêt tropicale mature et non perturbée, la quantité de CO2 absorbée par la photosynthèse est approximativement équilibrée par la quantité libérée par la respiration et la décomposition, ce qui entraîne une contribution nette faible ou nulle à la réduction du CO2 atmosphérique.",
+      "de": "Obwohl lebende Bäume in tropischen Regenwäldern erhebliche Mengen CO2 durch Photosynthese aufnehmen, befinden sich diese Ökosysteme oft in einem Zustand des dynamischen Gleichgewichts. Wenn Bäume absterben, zersetzt sich ihre organische Substanz, und Zersetzer (Bakterien und Pilze) setzen CO2 durch Zellatmung wieder in die Atmosphäre frei. In einem reifen, ungestörten Regenwald ist die Menge an durch Photosynthese aufgenommenem CO2 in etwa ausgeglichen durch die Menge, die durch Atmung und Zersetzung freigesetzt wird, was zu einem geringen oder gar keinen Netto-Beitrag zur Reduzierung des atmosphärischen CO2 führt.",
+      "ja": "熱帯雨林の生きた樹木は光合成を通じて大量のCO2を吸収しますが、これらの生態系はしばしば動的平衡状態にあります。樹木が枯れると、その有機物が分解され、分解者（細菌や菌類）は細胞呼吸を通じてCO2を大気中に放出します。成熟した手つかずの熱帯雨林では、光合成によって取り込まれるCO2の量と、呼吸や分解によって放出されるCO2の量がほぼ均衡しており、大気中のCO2削減にはほとんど、あるいは全く貢献しません。"
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 268,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following accurately describes the activation process of Receptor Tyrosine Kinases (RTKs) after signaling molecule binding?",
+      "zh": "以下哪项准确描述了信号分子结合后受体酪氨酸激酶（RTK）的激活过程？",
+      "es": "¿Cuál de las siguientes opciones describe con precisión el proceso de activación de las quinasas receptoras de tirosina (RTK) después de la unión de una molécula de señalización?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision le processus d'activation des récepteurs à tyrosine kinase (RTK) après la liaison d'une molécule de signalisation ?",
+      "de": "Welche der folgenden Aussagen beschreibt den Aktivierungsprozess von Rezeptor-Tyrosinkinasen (RTKs) nach der Bindung eines Signalmoleküls genau?",
+      "ja": "シグナル分子結合後の受容体型チロシンキナーゼ（RTK）の活性化プロセスを正確に説明しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Two receptor monomers dimerize, and then each monomer phosphorylates tyrosines on its own intracellular tail.",
+          "zh": "两个受体单体二聚化，然后每个单体磷酸化其自身胞内尾部的酪氨酸。",
+          "es": "Dos monómeros receptores se dimerizan, y luego cada monómero fosforila las tirosinas en su propia cola intracelular.",
+          "fr": "Deux monomères récepteurs dimérisent, puis chaque monomère phosphoryle les tyrosines sur sa propre queue intracellulaire.",
+          "de": "Zwei Rezeptormonomere dimerisieren, und jedes Monomer phosphoryliert dann Tyrosine an seinem eigenen intrazellulären Schwanz.",
+          "ja": "2つの受容体単体が二量体化し、その後、各単体が自身の細胞内尾部にあるチロシンをリン酸化する。"
+        },
+        "feedback": {
+          "en": "While dimerization occurs, each monomer phosphorylates tyrosines on the tail of the *other* monomer, not its own.",
+          "zh": "虽然会发生二聚化，但每个单体磷酸化的是*另一个*单体尾部的酪氨酸，而不是自身的。",
+          "es": "Aunque ocurre la dimerización, cada monómero fosforila las tirosinas en la cola del *otro* monómero, no las suyas propias.",
+          "fr": "Bien que la dimérisation se produise, chaque monomère phosphoryle les tyrosines sur la queue de l'*autre* monomère, et non les siennes.",
+          "de": "Obwohl die Dimerisierung stattfindet, phosphoryliert jedes Monomer Tyrosine am Schwanz des *anderen* Monomers, nicht an seinem eigenen.",
+          "ja": "二量体化は起こりますが、各単体は自身のチロシンではなく、*もう一方の*単体の尾部にあるチロシンをリン酸化します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A single receptor monomer undergoes a conformational change and directly phosphorylates downstream relay proteins.",
+          "zh": "单个受体单体发生构象变化并直接磷酸化下游中继蛋白。",
+          "es": "Un único monómero receptor experimenta un cambio conformacional y fosforila directamente las proteínas de relevo río abajo.",
+          "fr": "Un seul monomère récepteur subit un changement de conformation et phosphoryle directement les protéines relais en aval.",
+          "de": "Ein einzelnes Rezeptormonomer durchläuft eine Konformationsänderung und phosphoryliert direkt nachgeschaltete Relaisproteine.",
+          "ja": "単一の受容体単体が構造変化を起こし、下流の中継タンパク質を直接リン酸化する。"
+        },
+        "feedback": {
+          "en": "RTK activation requires dimerization, and they first autophosphorylate their own tyrosines before relay proteins bind.",
+          "zh": "RTK激活需要二聚化，并且它们在中继蛋白结合之前会先自身磷酸化酪氨酸。",
+          "es": "La activación de las RTK requiere dimerización, y primero autofosforilan sus propias tirosinas antes de que las proteínas de relevo se unan.",
+          "fr": "L'activation des RTK nécessite une dimérisation, et elles s'autophosphorylent d'abord sur leurs propres tyrosines avant que les protéines relais ne se lient.",
+          "de": "Die RTK-Aktivierung erfordert eine Dimerisierung, und sie autophosphorylieren zuerst ihre eigenen Tyrosine, bevor Relaisproteine binden.",
+          "ja": "RTKの活性化には二量体化が必要であり、中継タンパク質が結合する前にまず自身のチロシンを自己リン酸化します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Two receptor monomers dimerize, and each activated tyrosine kinase region adds phosphates from ATP to tyrosines on the tail of the *other* monomer.",
+          "zh": "两个受体单体二聚化，并且每个被激活的酪氨酸激酶区域都将ATP上的磷酸基团添加到*另一个*单体尾部的酪氨酸上。",
+          "es": "Dos monómeros receptores se dimerizan, y cada región de tirosina quinasa activada añade fosfatos del ATP a las tirosinas en la cola del *otro* monómero.",
+          "fr": "Deux monomères récepteurs dimérisent, et chaque région tyrosine kinase activée ajoute des phosphates de l'ATP aux tyrosines sur la queue de l'*autre* monomère.",
+          "de": "Zwei Rezeptormonomere dimerisieren, und jede aktivierte Tyrosinkinase-Region fügt Phosphate von ATP an Tyrosine am Schwanz des *anderen* Monomers an.",
+          "ja": "2つの受容体単体が二量体化し、それぞれの活性化されたチロシンキナーゼ領域が、ATPからリン酸を*もう一方の*単体の尾部にあるチロシンに付加する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The receptor complex directly activates G proteins, leading to a cascade of cellular responses.",
+          "zh": "受体复合物直接激活G蛋白，导致一系列细胞反应。",
+          "es": "El complejo receptor activa directamente las proteínas G, lo que lleva a una cascada de respuestas celulares.",
+          "fr": "Le complexe récepteur active directement les protéines G, ce qui entraîne une cascade de réponses cellulaires.",
+          "de": "Der Rezeptorkomplex aktiviert direkt G-Proteine, was zu einer Kaskade zellulärer Reaktionen führt.",
+          "ja": "受容体複合体が直接Gタンパク質を活性化し、細胞応答のカスケードを引き起こす。"
+        },
+        "feedback": {
+          "en": "This describes the mechanism of GPCRs, not RTKs. RTKs do not directly activate G proteins.",
+          "zh": "这描述的是G蛋白偶联受体（GPCRs）的机制，而不是RTKs。RTKs不直接激活G蛋白。",
+          "es": "Esto describe el mecanismo de los GPCR, no de las RTK. Las RTK no activan directamente las proteínas G.",
+          "fr": "Cela décrit le mécanisme des GPCR, pas des RTK. Les RTK n'activent pas directement les protéines G.",
+          "de": "Dies beschreibt den Mechanismus von GPCRs, nicht von RTKs. RTKs aktivieren keine G-Proteine direkt.",
+          "ja": "これはGPCRのメカニズムであり、RTKのメカニズムではありません。RTKはGタンパク質を直接活性化しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Upon binding of a signaling molecule, two RTK monomers associate to form a dimer. This dimerization activates the tyrosine kinase regions, which then autophosphorylate the tyrosines on the intracellular tails of the *other* monomer, using ATP as the phosphate donor. This process fully activates the receptor.",
+      "zh": "信号分子结合后，两个RTK单体结合形成二聚体。这种二聚化激活了酪氨酸激酶区域，然后它们利用ATP作为磷酸供体，自身磷酸化*另一个*单体胞内尾部的酪氨酸。这个过程完全激活了受体。",
+      "es": "Tras la unión de una molécula de señalización, dos monómeros de RTK se asocian para formar un dímero. Esta dimerización activa las regiones de tirosina quinasa, que luego autofosforilan las tirosinas en las colas intracelulares del *otro* monómero, utilizando ATP como donante de fosfato. Este proceso activa completamente el receptor.",
+      "fr": "Lors de la liaison d'une molécule de signalisation, deux monomères de RTK s'associent pour former un dimère. Cette dimérisation active les régions tyrosine kinase, qui s'autophosphorylent ensuite sur les tyrosines des queues intracellulaires de l'*autre* monomère, en utilisant l'ATP comme donneur de phosphate. Ce processus active complètement le récepteur.",
+      "de": "Nach Bindung eines Signalmoleküls assoziieren zwei RTK-Monomere zu einem Dimer. Diese Dimerisierung aktiviert die Tyrosinkinase-Regionen, die dann die Tyrosine an den intrazellulären Schwänzen des *anderen* Monomers autophosphorylieren, wobei ATP als Phosphatdonator verwendet wird. Dieser Prozess aktiviert den Rezeptor vollständig.",
+      "ja": "シグナル分子が結合すると、2つのRTK単体が結合して二量体を形成します。この二量体化によってチロシンキナーゼ領域が活性化され、その後、ATPをリン酸供体として使用し、*もう一方の*単体の細胞内尾部にあるチロシンを自己リン酸化します。このプロセスによって受容体は完全に活性化されます。"
+    }
+  },
+  {
+    "page_number": 268,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which statement accurately characterizes Receptor Tyrosine Kinases (RTKs) and their signaling capabilities compared to G protein-coupled receptors (GPCRs)?",
+      "zh": "与G蛋白偶联受体（GPCRs）相比，以下哪项陈述准确描述了受体酪氨酸激酶（RTKs）及其信号传导能力？",
+      "es": "¿Cuál de las siguientes afirmaciones caracteriza con precisión a las quinasas receptoras de tirosina (RTK) y sus capacidades de señalización en comparación con los receptores acoplados a proteínas G (GPCR)?",
+      "fr": "Quelle affirmation caractérise avec précision les récepteurs à tyrosine kinase (RTK) et leurs capacités de signalisation par rapport aux récepteurs couplés aux protéines G (GPCR) ?",
+      "de": "Welche Aussage charakterisiert Rezeptor-Tyrosinkinasen (RTKs) und ihre Signalübertragungsfähigkeiten im Vergleich zu G-Protein-gekoppelten Rezeptoren (GPCRs) genau?",
+      "ja": "Gタンパク質共役受容体（GPCR）と比較して、受容体型チロシンキナーゼ（RTK）とそのシグナル伝達能力を正確に特徴づけている記述は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "RTKs typically activate only a single specific signal transduction pathway, similar to most GPCRs.",
+          "zh": "RTK通常只激活单个特定的信号转导通路，类似于大多数GPCR。",
+          "es": "Las RTK típicamente activan solo una vía de transducción de señal específica, similar a la mayoría de los GPCR.",
+          "fr": "Les RTK activent généralement une seule voie de transduction de signal spécifique, similaire à la plupart des GPCR.",
+          "de": "RTKs aktivieren typischerweise nur einen einzigen spezifischen Signaltransduktionsweg, ähnlich den meisten GPCRs.",
+          "ja": "RTKは通常、ほとんどのGPCRと同様に、単一の特定のシグナル伝達経路のみを活性化する。"
+        },
+        "feedback": {
+          "en": "A key difference is that RTKs can activate ten or more different transduction pathways and cellular responses, unlike GPCRs which generally activate a single pathway.",
+          "zh": "一个关键区别在于，RTK可以激活十个或更多不同的转导通路和细胞反应，而GPCR通常只激活单个通路。",
+          "es": "Una diferencia clave es que las RTK pueden activar diez o más vías de transducción y respuestas celulares diferentes, a diferencia de los GPCR que generalmente activan una sola vía.",
+          "fr": "Une différence essentielle est que les RTK peuvent activer dix voies de transduction et réponses cellulaires différentes ou plus, contrairement aux GPCR qui activent généralement une seule voie.",
+          "de": "Ein wesentlicher Unterschied ist, dass RTKs zehn oder mehr verschiedene Transduktionswege und zelluläre Reaktionen aktivieren können, im Gegensatz zu GPCRs, die im Allgemeinen einen einzigen Weg aktivieren.",
+          "ja": "重要な違いは、RTKが10以上の異なるシグナル伝達経路と細胞応答を活性化できるのに対し、GPCRは通常単一の経路を活性化する点です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "RTKs function by transferring phosphate groups from GTP to serine or threonine residues of substrate proteins.",
+          "zh": "RTK通过将GTP上的磷酸基团转移到底物蛋白的丝氨酸或苏氨酸残基上发挥作用。",
+          "es": "Las RTK funcionan transfiriendo grupos fosfato de GTP a residuos de serina o treonina de proteínas sustrato.",
+          "fr": "Les RTK fonctionnent en transférant des groupes phosphate du GTP vers des résidus de sérine ou de thréonine de protéines substrats.",
+          "de": "RTKs funktionieren, indem sie Phosphatgruppen von GTP auf Serin- oder Threoninreste von Substratproteinen übertragen.",
+          "ja": "RTKは、GTPからセリンまたはスレオニン残基にリン酸基を転移させることで機能する。"
+        },
+        "feedback": {
+          "en": "RTKs specifically transfer phosphates from *ATP* to *tyrosine* residues, not GTP to serine/threonine.",
+          "zh": "RTK特异性地将磷酸从*ATP*转移到*酪氨酸*残基，而不是GTP到丝氨酸/苏氨酸。",
+          "es": "Las RTK transfieren específicamente fosfatos de *ATP* a residuos de *tirosina*, no de GTP a serina/treonina.",
+          "fr": "Les RTK transfèrent spécifiquement des phosphates de l'*ATP* vers des résidus de *tyrosine*, et non du GTP vers la sérine/thréonine.",
+          "de": "RTKs übertragen Phosphate spezifisch von *ATP* auf *Tyrosin*-Reste, nicht von GTP auf Serin/Threonin.",
+          "ja": "RTKは特異的に*ATP*から*チロシン*残基にリン酸を転移させ、GTPからセリン/スレオニンには転移させません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Abnormal RTK function, even in the absence of signaling molecules, is associated with various types of cancer due to uncontrolled cell growth signals.",
+          "zh": "即使在没有信号分子的情况下，异常的RTK功能也与各种类型的癌症相关，因为会导致不受控制的细胞生长信号。",
+          "es": "La función anormal de las RTK, incluso en ausencia de moléculas de señalización, se asocia con varios tipos de cáncer debido a señales de crecimiento celular descontroladas.",
+          "fr": "Un fonctionnement anormal des RTK, même en l'absence de molécules de signalisation, est associé à divers types de cancer en raison de signaux de croissance cellulaire incontrôlés.",
+          "de": "Abnormale RTK-Funktion, selbst in Abwesenheit von Signalmolekülen, ist aufgrund unkontrollierter Zellwachstumssignale mit verschiedenen Arten von Krebs assoziiert.",
+          "ja": "シグナル分子が存在しない場合でも、異常なRTK機能は、制御不能な細胞増殖シグナルにより、さまざまな種類の癌と関連している。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The intracellular tail of an inactive RTK monomer contains an alpha helix, which is the primary site for ligand binding.",
+          "zh": "非活性RTK单体的胞内尾部含有一个α螺旋，这是配体结合的主要位点。",
+          "es": "La cola intracelular de un monómero de RTK inactivo contiene una hélice alfa, que es el sitio principal de unión del ligando.",
+          "fr": "La queue intracellulaire d'un monomère RTK inactif contient une hélice alpha, qui est le site principal de liaison du ligand.",
+          "de": "Der intrazelluläre Schwanz eines inaktiven RTK-Monomers enthält eine Alpha-Helix, die der primäre Ort für die Ligandenbindung ist.",
+          "ja": "不活性なRTK単体の細胞内尾部にはアルファヘリックスが含まれており、これがリガンド結合の主要な部位である。"
+        },
+        "feedback": {
+          "en": "The alpha helix spans the membrane, and the ligand-binding site is extracellular, not on the intracellular tail.",
+          "zh": "α螺旋是跨膜的，配体结合位点是胞外的，而不是胞内尾部。",
+          "es": "La hélice alfa atraviesa la membrana, y el sitio de unión al ligando es extracelular, no en la cola intracelular.",
+          "fr": "L'hélice alpha traverse la membrane, et le site de liaison du ligand est extracellulaire, pas sur la queue intracellulaire.",
+          "de": "Die Alpha-Helix durchspannt die Membran, und die Ligandenbindungsstelle ist extrazellulär, nicht am intrazellulären Schwanz.",
+          "ja": "アルファヘリックスは膜を貫通しており、リガンド結合部位は細胞外であり、細胞内尾部ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "RTKs are known for activating multiple downstream signal transduction pathways and cellular responses, a key difference from GPCRs which typically activate only one. Moreover, abnormal RTK function, often due to mutations that cause them to be constitutively active even without a ligand, is a well-established cause of many cancers.",
+      "zh": "RTK以激活多个下游信号转导通路和细胞反应而闻名，这是与通常只激活一个通路GPCR的关键区别。此外，RTK的异常功能，通常由于导致其即使没有配体也能组成性活化的突变，是许多癌症的公认原因。",
+      "es": "Las RTK son conocidas por activar múltiples vías de transducción de señales y respuestas celulares aguas abajo, una diferencia clave con los GPCR que típicamente activan solo una. Además, la función anormal de las RTK, a menudo debido a mutaciones que las hacen constitutivamente activas incluso sin un ligando, es una causa bien establecida de muchos cánceres.",
+      "fr": "Les RTK sont connues pour activer plusieurs voies de transduction du signal en aval et des réponses cellulaires, une différence essentielle par rapport aux GPCR qui n'en activent généralement qu'une seule. De plus, un fonctionnement anormal des RTK, souvent dû à des mutations qui les rendent constitutivement actives même sans ligand, est une cause bien établie de nombreux cancers.",
+      "de": "RTKs sind dafür bekannt, mehrere nachgeschaltete Signaltransduktionswege und zelluläre Reaktionen zu aktivieren, ein wesentlicher Unterschied zu GPCRs, die typischerweise nur einen aktivieren. Darüber hinaus ist eine abnormale RTK-Funktion, oft aufgrund von Mutationen, die dazu führen, dass sie auch ohne Liganden konstitutiv aktiv sind, eine etablierte Ursache vieler Krebsarten.",
+      "ja": "RTKは複数の下流のシグナル伝達経路と細胞応答を活性化することで知られており、通常1つの経路しか活性化しないGPCRとの重要な違いです。さらに、RTKの異常な機能、多くの場合、リガンドなしでも構成的に活性化される突然変異が原因で、多くの癌の原因として確立されています。"
+    }
+  },
+  {
+    "page_number": 268,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Once a Receptor Tyrosine Kinase (RTK) dimer is fully activated through autophosphorylation, what is the immediate subsequent step in the signal transduction pathway leading to a cellular response?",
+      "zh": "当受体酪氨酸激酶（RTK）二聚体通过自身磷酸化完全激活后，导致细胞反应的信号转导通路中紧接的下一步是什么？",
+      "es": "Una vez que un dímero de quinasa receptora de tirosina (RTK) está completamente activado mediante autofosforilación, ¿cuál es el paso subsiguiente inmediato en la vía de transducción de señales que conduce a una respuesta celular?",
+      "fr": "Une fois qu'un dimère de récepteur à tyrosine kinase (RTK) est entièrement activé par autophosphorylation, quelle est l'étape suivante immédiate dans la voie de transduction du signal menant à une réponse cellulaire ?",
+      "de": "Sobald ein Rezeptor-Tyrosinkinase (RTK)-Dimer durch Autophosphorylierung vollständig aktiviert ist, welcher ist der unmittelbar folgende Schritt im Signaltransduktionsweg, der zu einer zellulären Reaktion führt?",
+      "ja": "受容体型チロシンキナーゼ（RTK）二量体が自己リン酸化によって完全に活性化された後、細胞応答につながるシグナル伝達経路における次の直接的なステップは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The activated RTK dimer directly enters the nucleus to bind to DNA and alter gene expression.",
+          "zh": "活化的RTK二聚体直接进入细胞核与DNA结合并改变基因表达。",
+          "es": "El dímero de RTK activado entra directamente al núcleo para unirse al ADN y alterar la expresión génica.",
+          "fr": "Le dimère de RTK activé entre directement dans le noyau pour se lier à l'ADN et modifier l'expression génique.",
+          "de": "Das aktivierte RTK-Dimer tritt direkt in den Zellkern ein, um an die DNA zu binden und die Genexpression zu verändern.",
+          "ja": "活性化されたRTK二量体が直接核内に入り、DNAに結合して遺伝子発現を変化させる。"
+        },
+        "feedback": {
+          "en": "RTKs typically remain at the membrane; they do not directly enter the nucleus. Their signaling effect is mediated by downstream relay proteins.",
+          "zh": "RTK通常停留在膜上；它们不直接进入细胞核。它们的信号作用是由下游的中继蛋白介导的。",
+          "es": "Las RTK suelen permanecer en la membrana; no entran directamente al núcleo. Su efecto de señalización está mediado por proteínas de relevo río abajo.",
+          "fr": "Les RTK restent généralement à la membrane ; elles n'entrent pas directement dans le noyau. Leur effet de signalisation est médiatisé par des protéines relais en aval.",
+          "de": "RTKs verbleiben typischerweise an der Membran; sie treten nicht direkt in den Zellkern ein. Ihre Signalwirkung wird durch nachgeschaltete Relaisproteine vermittelt.",
+          "ja": "RTKは通常膜にとどまり、直接核内には入りません。そのシグナル伝達効果は、下流の中継タンパク質によって媒介されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Specific inactive relay proteins inside the cell bind to the phosphorylated tyrosines on the RTK, undergoing a structural change that activates them and triggers a transduction pathway.",
+          "zh": "细胞内特定的非活性中继蛋白与RTK上磷酸化的酪氨酸结合，经历结构变化从而被激活，并触发转导通路。",
+          "es": "Proteínas de relevo inactivas específicas dentro de la célula se unen a las tirosinas fosforiladas en la RTK, experimentando un cambio estructural que las activa y desencadena una vía de transducción.",
+          "fr": "Des protéines relais inactives spécifiques à l'intérieur de la cellule se lient aux tyrosines phosphorylées sur le RTK, subissant un changement structurel qui les active et déclenche une voie de transduction.",
+          "de": "Spezifische inaktive Relaisproteine im Zellinneren binden an die phosphorylierten Tyrosine an der RTK, erfahren eine strukturelle Änderung, die sie aktiviert und einen Transduktionsweg auslöst.",
+          "ja": "細胞内の特定の不活性中継タンパク質がRTK上のリン酸化されたチロシンに結合し、構造変化を経て活性化され、シグナル伝達経路が誘発される。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The RTK dimer rapidly dissociates back into individual monomers, each capable of initiating a unique cellular response.",
+          "zh": "RTK二聚体迅速解离成单个单体，每个单体都能启动独特的细胞反应。",
+          "es": "El dímero de RTK se disocia rápidamente de nuevo en monómeros individuales, cada uno capaz de iniciar una respuesta celular única.",
+          "fr": "Le dimère de RTK se dissocie rapidement en monomères individuels, chacun capable d'initier une réponse cellulaire unique.",
+          "de": "Das RTK-Dimer dissoziiert schnell wieder in einzelne Monomere, von denen jedes in der Lage ist, eine einzigartige zelluläre Reaktion einzuleiten.",
+          "ja": "RTK二量体は迅速に個々の単体に解離し、それぞれが独自の細胞応答を開始できる。"
+        },
+        "feedback": {
+          "en": "The RTK dimer remains intact after autophosphorylation to serve as a binding site for relay proteins; it does not dissociate at this stage.",
+          "zh": "RTK二聚体在自身磷酸化后保持完整，作为中继蛋白的结合位点；在此阶段它不会解离。",
+          "es": "El dímero de RTK permanece intacto después de la autofosforilación para servir como sitio de unión para las proteínas de relevo; no se disocia en esta etapa.",
+          "fr": "Le dimère de RTK reste intact après autophosphorylation pour servir de site de liaison aux protéines relais ; il ne se dissocie pas à ce stade.",
+          "de": "Das RTK-Dimer bleibt nach der Autophosphorylierung intakt, um als Bindungsstelle für Relaisproteine zu dienen; es dissoziiert in diesem Stadium nicht.",
+          "ja": "RTK二量体は自己リン酸化後も結合部位として中継タンパク質に結合したままです。この段階で解離することはありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The receptor releases phosphate groups back into the cytoplasm to be recycled for ATP synthesis.",
+          "zh": "受体将磷酸基团释放回细胞质中，以便回收用于ATP合成。",
+          "es": "El receptor libera grupos fosfato de nuevo en el citoplasma para ser reciclados para la síntesis de ATP.",
+          "fr": "Le récepteur libère les groupes phosphate dans le cytoplasme pour être recyclés et utilisés dans la synthèse d'ATP.",
+          "de": "Der Rezeptor gibt Phosphatgruppen zurück ins Zytoplasma ab, um für die ATP-Synthese recycelt zu werden.",
+          "ja": "受容体はリン酸基を細胞質に戻し、ATP合成のためにリサイクルされる。"
+        },
+        "feedback": {
+          "en": "The RTK consumes ATP to add phosphates to itself; it does not release phosphate groups after activation. Released ADP is recycled to ATP.",
+          "zh": "RTK消耗ATP将磷酸添加到自身；激活后它不会释放磷酸基团。释放的ADP会被回收利用合成ATP。",
+          "es": "La RTK consume ATP para añadir fosfatos a sí misma; no libera grupos fosfato después de la activación. El ADP liberado se recicla a ATP.",
+          "fr": "Le RTK consomme de l'ATP pour s'autophosphoryler ; il ne libère pas de groupes phosphate après activation. L'ADP libéré est recyclé en ATP.",
+          "de": "Die RTK verbraucht ATP, um sich selbst zu phosphorylieren; sie setzt nach der Aktivierung keine Phosphatgruppen frei. Freigesetztes ADP wird zu ATP recycelt.",
+          "ja": "RTKはATPを消費してリン酸基を自身に付加します。活性化後にリン酸基を放出することはありません。放出されたADPはATP合成のためにリサイクルされます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Once an RTK dimer is fully activated by autophosphorylation (meaning it has multiple phosphorylated tyrosines), these phosphorylated tyrosines serve as binding sites for specific relay proteins. The binding of these relay proteins induces a conformational change in them, activating them and thereby initiating various signal transduction pathways that lead to diverse cellular responses.",
+      "zh": "一旦RTK二聚体通过自身磷酸化完全激活（即其具有多个磷酸化酪氨酸），这些磷酸化酪氨酸就作为特定中继蛋白的结合位点。这些中继蛋白的结合会诱导其构象变化，从而激活它们并启动各种信号转导通路，导致多种细胞反应。",
+      "es": "Una vez que un dímero de RTK está completamente activado por autofosforilación (lo que significa que tiene múltiples tirosinas fosforiladas), estas tirosinas fosforiladas sirven como sitios de unión para proteínas de relevo específicas. La unión de estas proteínas de relevo induce un cambio conformacional en ellas, activándolas y, por lo tanto, iniciando diversas vías de transducción de señales que conducen a diversas respuestas celulares.",
+      "fr": "Une fois qu'un dimère de RTK est entièrement activé par autophosphorylation (ce qui signifie qu'il possède plusieurs tyrosines phosphorylées), ces tyrosines phosphorylées servent de sites de liaison pour des protéines relais spécifiques. La liaison de ces protéines relais induit un changement conformationnel en elles, les activant et initiant ainsi diverses voies de transduction du signal qui mènent à diverses réponses cellulaires.",
+      "de": "Sobald ein RTK-Dimer durch Autophosphorylierung vollständig aktiviert ist (was bedeutet, dass es mehrere phosphorylierte Tyrosine aufweist), dienen diese phosphorylierten Tyrosine als Bindungsstellen für spezifische Relaisproteine. Die Bindung dieser Relaisproteine induziert eine Konformationsänderung in ihnen, wodurch sie aktiviert werden und so verschiedene Signaltransduktionswege initiiert werden, die zu vielfältigen zellulären Reaktionen führen.",
+      "ja": "RTK二量体が自己リン酸化によって完全に活性化されると（複数のリン酸化チロシンを持つ状態）、これらのリン酸化チロシンは特定の伝達タンパク質の結合部位となります。これらの伝達タンパク質が結合すると、それらの中で構造変化が誘発され、活性化されて様々なシグナル伝達経路が開始され、多様な細胞応答へとつながります。"
+    }
+  }
+]

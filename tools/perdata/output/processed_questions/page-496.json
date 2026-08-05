@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 496,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, in the Saccharomyces cerevisiae experiment, how did researchers infer whether two gene products interacted within the cell?",
+      "zh": "根据文本，在酿酒酵母 (Saccharomyces cerevisiae) 实验中，研究人员如何推断两种基因产物是否在细胞内相互作用？",
+      "es": "Según el texto, en el experimento con Saccharomyces cerevisiae, ¿cómo infirieron los investigadores si dos productos génicos interactuaban dentro de la célula?",
+      "fr": "Selon le texte, dans l'expérience sur Saccharomyces cerevisiae, comment les chercheurs ont-ils inféré si deux produits géniques interagissaient au sein de la cellule ?",
+      "de": "Laut Text, wie schlossen die Forscher im Experiment mit Saccharomyces cerevisiae, ob zwei Genprodukte innerhalb der Zelle interagierten?",
+      "ja": "テキストによると、出芽酵母 (Saccharomyces cerevisiae) の実験において、研究者はどのようにして2つの遺伝子産物が細胞内で相互作用しているかどうかを推測しましたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "If the observed fitness of the double mutant matched the prediction from the single mutants, the gene products interacted.",
+          "zh": "如果双突变体的观察健身度与单突变体的预测健身度相符，则基因产物发生相互作用。",
+          "es": "Si la aptitud observada del mutante doble coincidía con la predicción de los mutantes simples, los productos génicos interactuaban.",
+          "fr": "Si la fitness observée du double mutant correspondait à la prédiction des mutants simples, les produits géniques interagissaient.",
+          "de": "Wenn die beobachtete Fitness des Doppelmutanten mit der Vorhersage der Einzelmutanten übereinstimmte, interagierten die Genprodukte.",
+          "ja": "二重変異体の観察された適合度が、単一変異体からの予測と一致した場合、遺伝子産物は相互作用した。"
+        },
+        "feedback": {
+          "en": "This statement describes when the gene products did not interact, according to the text.",
+          "zh": "根据文本，这种表述描述的是基因产物未发生相互作用的情况。",
+          "es": "Esta afirmación describe cuándo los productos génicos no interactuaron, según el texto.",
+          "fr": "Cette affirmation décrit le cas où les produits géniques n'ont pas interagi, selon le texte.",
+          "de": "Diese Aussage beschreibt den Fall, in dem die Genprodukte laut Text nicht interagierten.",
+          "ja": "この記述は、テキストによると、遺伝子産物が相互作用しなかった場合を表しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "If the observed fitness of the double mutant was greater or less than the prediction from the single mutants, the gene products interacted.",
+          "zh": "如果双突变体的观察健身度大于或小于单突变体的预测健身度，则基因产物发生相互作用。",
+          "es": "Si la aptitud observada del mutante doble era mayor o menor que la predicción de los mutantes simples, los productos génicos interactuaban.",
+          "fr": "Si la fitness observée du double mutant était supérieure ou inférieure à la prédiction des mutants simples, les produits géniques interagissaient.",
+          "de": "Wenn die beobachtete Fitness des Doppelmutanten größer oder kleiner war als die Vorhersage der Einzelmutanten, interagierten die Genprodukte.",
+          "ja": "二重変異体の観察された適合度が、単一変異体からの予測よりも大きいか小さい場合、遺伝子産物は相互作用した。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "If the observed fitness of the double mutant was greater than the prediction, the gene products interacted; if it was less, they did not.",
+          "zh": "如果双突变体的观察健身度大于预测健身度，则基因产物发生相互作用；如果小于，则不相互作用。",
+          "es": "Si la aptitud observada del mutante doble era mayor que la predicción, los productos génicos interactuaban; si era menor, no lo hacían.",
+          "fr": "Si la fitness observée du double mutant était supérieure à la prédiction, les produits géniques interagissaient ; si elle était inférieure, ils n'interagissaient pas.",
+          "de": "Wenn die beobachtete Fitness des Doppelmutanten größer war als die Vorhersage, interagierten die Genprodukte; wenn sie kleiner war, taten sie dies nicht.",
+          "ja": "二重変異体の観察された適合度が予測よりも大きい場合、遺伝子産物は相互作用したが、小さい場合は相互作用しなかった。"
+        },
+        "feedback": {
+          "en": "The text states that any deviation (greater or less) indicated interaction, not just greater.",
+          "zh": "文本指出，任何偏差（大于或小于）都表明存在相互作用，而不仅仅是大于。",
+          "es": "El texto afirma que cualquier desviación (mayor o menor) indicaba interacción, no solo mayor.",
+          "fr": "Le texte indique que toute déviation (supérieure ou inférieure) signalait une interaction, pas seulement une valeur supérieure.",
+          "de": "Der Text besagt, dass jede Abweichung (größer oder kleiner) eine Interaktion anzeigte, nicht nur eine größere.",
+          "ja": "テキストでは、予測よりも大きいか小さいかに関わらず、いずれかの偏差がある場合に相互作用が示されると述べられています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "If the observed fitness of the double mutant was less than the prediction, the gene products interacted; if it was greater, they did not.",
+          "zh": "如果双突变体的观察健身度小于预测健身度，则基因产物发生相互作用；如果大于，则不相互作用。",
+          "es": "Si la aptitud observada del mutante doble era menor que la predicción, los productos génicos interactuaban; si era mayor, no lo hacían.",
+          "fr": "Si la fitness observée du double mutant était inférieure à la prédiction, les produits géniques interagissaient ; si elle était supérieure, ils n'interagissaient pas.",
+          "de": "Wenn die beobachtete Fitness des Doppelmutanten kleiner war als die Vorhersage, interagierten die Genprodukte; wenn sie größer war, taten sie dies nicht.",
+          "ja": "二重変異体の観察された適合度が予測よりも小さい場合、遺伝子産物は相互作用したが、大きい場合は相互作用しなかった。"
+        },
+        "feedback": {
+          "en": "The text states that any deviation (greater or less) indicated interaction, not just less.",
+          "zh": "文本指出，任何偏差（大于或小于）都表明存在相互作用，而不仅仅是小于。",
+          "es": "El texto afirma que cualquier desviación (mayor o menor) indicaba interacción, no solo menor.",
+          "fr": "Le texte indique que toute déviation (supérieure ou inférieure) signalait une interaction, pas seulement une valeur inférieure.",
+          "de": "Der Text besagt, dass jede Abweichung (größer oder kleiner) eine Interaktion anzeigte, nicht nur eine kleinere.",
+          "ja": "テキストでは、予測よりも大きいか小さいかに関わらず、いずれかの偏差がある場合に相互作用が示されると述べられています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text clearly states: 'if the observed fitness was greater or less than predicted, then the gene products interacted in the cell.' This means any deviation from the predicted fitness indicates an interaction.",
+      "zh": "文本明确指出：“如果观察到的健身度大于或小于预测值，则基因产物在细胞内发生相互作用。”这意味着任何偏离预测健身度的情况都表明存在相互作用。",
+      "es": "El texto afirma claramente: 'si la aptitud observada era mayor o menor de lo predicho, entonces los productos génicos interactuaban en la célula.' Esto significa que cualquier desviación de la aptitud predicha indica una interacción.",
+      "fr": "Le texte indique clairement : « si la fitness observée était supérieure ou inférieure à la prédiction, alors les produits géniques interagissaient dans la cellule. » Cela signifie que toute déviation par rapport à la fitness prédite indique une interaction.",
+      "de": "Der Text besagt eindeutig: „wenn die beobachtete Fitness größer oder kleiner als vorhergesagt war, dann interagierten die Genprodukte in der Zelle.“ Dies bedeutet, dass jede Abweichung von der vorhergesagten Fitness eine Interaktion anzeigt.",
+      "ja": "テキストには「観察された適合度が予測よりも大きいか小さい場合、遺伝子産物は細胞内で相互作用した」と明確に記載されています。これは、予測された適合度からのいかなる逸脱も相互作用を示していることを意味します。"
+    }
+  },
+  {
+    "page_number": 496,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 21.4 and its caption, which statement is TRUE regarding the protein interaction map in Saccharomyces cerevisiae?",
+      "zh": "基于图 21.4 及其图注，关于酿酒酵母 (Saccharomyces cerevisiae) 蛋白质相互作用图谱的以下哪项陈述是正确的？",
+      "es": "Según la Figura 21.4 y su leyenda, ¿qué afirmación es VERDADERA con respecto al mapa de interacción proteica en Saccharomyces cerevisiae?",
+      "fr": "Selon la Figure 21.4 et sa légende, quelle affirmation est VRAIE concernant la carte d'interaction protéique chez Saccharomyces cerevisiae ?",
+      "de": "Basierend auf Abbildung 21.4 und ihrer Beschriftung, welche Aussage ist WAHR bezüglich der Proteininteraktionskarte in Saccharomyces cerevisiae?",
+      "ja": "図21.4とその説明文に基づくと、出芽酵母 (Saccharomyces cerevisiae) におけるタンパク質相互作用マップに関する以下の記述のうち、正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The white dots on the map represent proteins whose functions have been fully assigned to one of the 13 cellular categories.",
+          "zh": "图谱上的白点表示其功能已完全分配到 13 种细胞类别之一的蛋白质。",
+          "es": "Los puntos blancos en el mapa representan proteínas cuyas funciones han sido completamente asignadas a una de las 13 categorías celulares.",
+          "fr": "Les points blancs sur la carte représentent des protéines dont les fonctions ont été entièrement assignées à l'une des 13 catégories cellulaires.",
+          "de": "Die weißen Punkte auf der Karte repräsentieren Proteine, deren Funktionen vollständig einer der 13 zellulären Kategorien zugeordnet wurden.",
+          "ja": "マップ上の白い点は、機能が13の細胞カテゴリーのいずれかに完全に割り当てられたタンパク質を表す。"
+        },
+        "feedback": {
+          "en": "The caption states that white dots represent proteins that haven't been assigned to any color-coded function.",
+          "zh": "图注说明，白点表示尚未分配给任何颜色编码功能的蛋白质。",
+          "es": "La leyenda indica que los puntos blancos representan proteínas que no han sido asignadas a ninguna función codificada por colores.",
+          "fr": "La légende indique que les points blancs représentent des protéines qui n'ont pas été assignées à une fonction codée par couleur.",
+          "de": "Die Beschriftung besagt, dass weiße Punkte Proteine darstellen, die keiner farbcodierten Funktion zugeordnet wurden.",
+          "ja": "説明文には、白い点は、色分けされた機能に割り当てられていないタンパク質を表すと記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The expanded area of the map, highlighted with blue dots, specifically details gene products primarily involved in DNA replication and repair.",
+          "zh": "图谱中以蓝点突出显示的扩展区域，具体描述了主要参与 DNA 复制和修复的基因产物。",
+          "es": "El área expandida del mapa, resaltada con puntos azules, detalla específicamente los productos génicos involucrados principalmente en la replicación y reparación del ADN.",
+          "fr": "La zone agrandie de la carte, mise en évidence par des points bleus, détaille spécifiquement les produits géniques principalement impliqués dans la réplication et la réparation de l'ADN.",
+          "de": "Der erweiterte Bereich der Karte, der mit blauen Punkten hervorgehoben ist, beschreibt detailliert Genprodukte, die hauptsächlich an der DNA-Replikation und -Reparatur beteiligt sind.",
+          "ja": "マップの青い点で強調された拡張領域は、主にDNA複製と修復に関与する遺伝子産物を具体的に示している。"
+        },
+        "feedback": {
+          "en": "The expanded area (blue dots) specifically details gene products related to amino acid biosynthesis, uptake, and related functions, not DNA replication and repair.",
+          "zh": "扩展区域（蓝点）具体描述的是与氨基酸生物合成、摄取及相关功能有关的基因产物，而非 DNA 复制和修复。",
+          "es": "El área expandida (puntos azules) detalla específicamente los productos génicos relacionados con la biosíntesis, captación y funciones relacionadas de aminoácidos, no con la replicación y reparación del ADN.",
+          "fr": "La zone agrandie (points bleus) détaille spécifiquement les produits géniques liés à la biosynthèse, à l'absorption et aux fonctions connexes des acides aminés, et non à la réplication et à la réparation de l'ADN.",
+          "de": "Der erweiterte Bereich (blaue Punkte) beschreibt detailliert Genprodukte, die mit der Aminosäurebiosynthese, -aufnahme und verwandten Funktionen zusammenhängen, nicht mit der DNA-Replikation und -Reparatur.",
+          "ja": "拡張領域（青い点）は、DNA複製と修復ではなく、アミノ酸生合成、取り込み、および関連機能に関わる遺伝子産物を具体的に示しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The global map shows interactions (lines) among approximately 4,500 gene products (dots), where dots of the same color belong to one of 13 cellular functions.",
+          "zh": "全局图谱显示了约 4,500 种基因产物（点）之间的相互作用（线），其中相同颜色的点属于 13 种细胞功能之一。",
+          "es": "El mapa global muestra interacciones (líneas) entre aproximadamente 4.500 productos génicos (puntos), donde los puntos del mismo color pertenecen a una de las 13 funciones celulares.",
+          "fr": "La carte globale montre les interactions (lignes) entre environ 4 500 produits géniques (points), où les points de même couleur appartiennent à l'une des 13 fonctions cellulaires.",
+          "de": "Die globale Karte zeigt Interaktionen (Linien) zwischen etwa 4.500 Genprodukten (Punkten), wobei Punkte derselben Farbe zu einer der 13 zellulären Funktionen gehören.",
+          "ja": "グローバルマップは、約4,500の遺伝子産物（点）間の相互作用（線）を示しており、同じ色の点は13の細胞機能のいずれかに属している。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The map exclusively displays gene products related to protein folding and glycosylation, with no unassigned proteins.",
+          "zh": "该图谱只显示与蛋白质折叠和糖基化相关的基因产物，没有未分配的蛋白质。",
+          "es": "El mapa muestra exclusivamente productos génicos relacionados con el plegamiento de proteínas y la glicosilación, sin proteínas sin asignar.",
+          "fr": "La carte n'affiche que les produits géniques liés au repliement des protéines et à la glycosylation, sans aucune protéine non assignée.",
+          "de": "Die Karte zeigt ausschließlich Genprodukte, die mit Proteinfaltung und Glykosylierung zusammenhängen, ohne nicht zugewiesene Proteine.",
+          "ja": "マップはタンパク質フォールディングとグリコシル化に関連する遺伝子産物のみを表示し、未割り当てのタンパク質はない。"
+        },
+        "feedback": {
+          "en": "The map displays a global set of ~4,500 gene products with 13 functional categories and also white dots for unassigned proteins.",
+          "zh": "该图谱显示了约 4,500 种基因产物的全球集合，其中包含 13 种功能类别，并且还有表示未分配蛋白质的白点。",
+          "es": "El mapa muestra un conjunto global de aproximadamente 4.500 productos génicos con 13 categorías funcionales y también puntos blancos para proteínas sin asignar.",
+          "fr": "La carte affiche un ensemble global d'environ 4 500 produits géniques avec 13 catégories fonctionnelles et aussi des points blancs pour les protéines non assignées.",
+          "de": "Die Karte zeigt eine globale Menge von ca. 4.500 Genprodukten mit 13 Funktionskategorien und auch weiße Punkte für nicht zugewiesene Proteine.",
+          "ja": "このマップは、約4,500の遺伝子産物の全体セットを13の機能カテゴリーと共に示しており、さらに未割り当てのタンパク質を示す白い点も含まれています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 21.4's caption explicitly states it shows 'interactions (lines) among about 4,500 gene products (dots) in Saccharomyces cerevisiae' and that 'Dots of the same color represent gene products involved in one of the 13 similarly colored cellular functions.' It also mentions 'The white dots represent proteins that haven't been assigned'.",
+      "zh": "图 21.4 的图注明确指出，它显示了“酿酒酵母中约 4,500 种基因产物（点）之间的相互作用（线）”，并且“相同颜色的点代表参与 13 种相似颜色细胞功能之一的基因产物。”它还提到了“白点代表尚未分配的蛋白质”。",
+      "es": "La leyenda de la Figura 21.4 establece explícitamente que muestra 'interacciones (líneas) entre aproximadamente 4.500 productos génicos (puntos) en Saccharomyces cerevisiae' y que 'Los puntos del mismo color representan productos génicos involucrados en una de las 13 funciones celulares de colores similares.' También menciona 'Los puntos blancos representan proteínas que no han sido asignadas'.",
+      "fr": "La légende de la Figure 21.4 indique explicitement qu'elle montre « les interactions (lignes) entre environ 4 500 produits géniques (points) chez Saccharomyces cerevisiae » et que « les points de même couleur représentent les produits géniques impliqués dans l'une des 13 fonctions cellulaires de couleurs similaires. » Elle mentionne également que « les points blancs représentent les protéines qui n'ont pas été assignées ».",
+      "de": "Die Beschriftung von Abbildung 21.4 besagt explizit, dass sie „Interaktionen (Linien) zwischen etwa 4.500 Genprodukten (Punkten) in Saccharomyces cerevisiae“ zeigt und dass „Punkte derselben Farbe Genprodukte repräsentieren, die an einer der 13 ähnlich gefärbten zellulären Funktionen beteiligt sind.“ Es wird auch erwähnt, dass „Die weißen Punkte Proteine repräsentieren, die noch nicht zugewiesen wurden“.",
+      "ja": "図21.4の説明文には、「出芽酵母における約4,500の遺伝子産物（点）間の相互作用（線）」を示していること、そして「同じ色の点は13の同様に色分けされた細胞機能のいずれかに関与する遺伝子産物を表す」と明確に記載されています。また、「白い点は割り当てられていないタンパク質を表す」とも述べられています。"
+    }
+  },
+  {
+    "page_number": 496,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Why is the systems biology approach particularly valuable in cancer research, as described in the text?",
+      "zh": "根据文本所述，为什么系统生物学方法在癌症研究中特别有价值？",
+      "es": "Según lo descrito en el texto, ¿por qué el enfoque de la biología de sistemas es particularmente valioso en la investigación del cáncer?",
+      "fr": "Selon le texte, pourquoi l'approche de la biologie des systèmes est-elle particulièrement précieuse dans la recherche sur le cancer ?",
+      "de": "Warum ist der Systembiologie-Ansatz, wie im Text beschrieben, in der Krebsforschung besonders wertvoll?",
+      "ja": "テキストに記述されているように、システム生物学のアプローチはなぜがん研究において特に価値があるのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It allows for the rapid development of new high-throughput techniques, directly reducing the cost of cancer treatment.",
+          "zh": "它能够促进新的高通量技术的快速发展，直接降低癌症治疗成本。",
+          "es": "Permite el rápido desarrollo de nuevas técnicas de alto rendimiento, reduciendo directamente el costo del tratamiento del cáncer.",
+          "fr": "Il permet le développement rapide de nouvelles techniques à haut débit, réduisant directement le coût du traitement du cancer.",
+          "de": "Es ermöglicht die schnelle Entwicklung neuer Hochdurchsatztechniken, wodurch die Kosten der Krebsbehandlung direkt gesenkt werden.",
+          "ja": "新しいハイスループット技術の迅速な開発を可能にし、直接的にがん治療のコストを削減する。"
+        },
+        "feedback": {
+          "en": "High-throughput techniques are becoming more rapid/less expensive, but this is a result or enabler of the approach, not its primary value in leading to cancer insights itself. The approach's value is in analyzing interactions.",
+          "zh": "高通量技术确实变得更快、更便宜，但这只是该方法的结果或促成因素，并非其在“获得癌症见解”方面的主要价值。该方法的价值在于分析相互作用。",
+          "es": "Las técnicas de alto rendimiento se están volviendo más rápidas y menos costosas, pero esto es un resultado o un habilitador del enfoque, no su valor principal en obtener conocimientos sobre el cáncer en sí mismo. El valor del enfoque radica en el análisis de las interacciones.",
+          "fr": "Les techniques à haut débit deviennent en effet plus rapides/moins chères, mais c'est un résultat ou un facilitateur de l'approche, et non sa valeur principale pour conduire à des éclaircissements sur le cancer. La valeur de l'approche réside dans l'analyse des interactions.",
+          "de": "Hochdurchsatztechniken werden zwar schneller/günstiger, aber dies ist ein Ergebnis oder Ermöglicher des Ansatzes, nicht sein primärer Wert bei der Gewinnung von Erkenntnissen über Krebs. Der Wert des Ansatzes liegt in der Analyse von Interaktionen.",
+          "ja": "ハイスループット技術は確かに迅速かつ安価になっていますが、これはこのアプローチの結果または実現因子であり、がんに関する洞察を導く上での主要な価値ではありません。このアプローチの価値は相互作用の分析にあります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It enables the analysis of many interacting genes and gene products together, providing insights into how biological system changes lead to cancer.",
+          "zh": "它能够同时分析许多相互作用的基因和基因产物，从而深入了解生物系统如何变化并导致癌症。",
+          "es": "Permite el análisis conjunto de muchos genes y productos génicos interactuantes, proporcionando información sobre cómo los cambios en los sistemas biológicos conducen al cáncer.",
+          "fr": "Il permet l'analyse conjointe de nombreux gènes et produits géniques interagissants, offrant des aperçus sur la manière dont les changements dans les systèmes biologiques mènent au cancer.",
+          "de": "Es ermöglicht die gemeinsame Analyse vieler interagierender Gene und Genprodukte, was Einblicke darüber liefert, wie Veränderungen in biologischen Systemen zu Krebs führen.",
+          "ja": "多くの相互作用する遺伝子と遺伝子産物を同時に分析することを可能にし、生物学的システムの A 変化がどのようにがんにつながるかについての洞察を提供する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It primarily focuses on identifying single gene mutations responsible for rare forms of cancer, simplifying targeted therapy development.",
+          "zh": "它主要侧重于识别导致罕见癌症的单一基因突变，从而简化靶向疗法开发。",
+          "es": "Se centra principalmente en la identificación de mutaciones de un solo gen responsables de formas raras de cáncer, simplificando el desarrollo de terapias dirigidas.",
+          "fr": "Il se concentre principalement sur l'identification des mutations d'un seul gène responsables de formes rares de cancer, simplifiant le développement de thérapies ciblées.",
+          "de": "Es konzentriert sich primär auf die Identifizierung einzelner Genmutationen, die für seltene Krebsformen verantwortlich sind, und vereinfacht die Entwicklung gezielter Therapien.",
+          "ja": "主に稀ながんの原因となる単一遺伝子変異の特定に焦点を当て、標的療法の開発を簡素化する。"
+        },
+        "feedback": {
+          "en": "While it identifies mutations, the strength of systems biology is analyzing many interacting genes and products for common mutations in multiple cancer types, not just rare forms or single mutations.",
+          "zh": "尽管它确实识别突变，但系统生物学的优势在于分析许多相互作用的基因和产物，以寻找多种癌症类型中的常见突变，而不仅仅是罕见形式或单一突变。",
+          "es": "Aunque identifica mutaciones, la fortaleza de la biología de sistemas radica en el análisis de muchos genes y productos interactuantes para buscar mutaciones comunes en múltiples tipos de cáncer, no solo formas raras o mutaciones únicas.",
+          "fr": "Bien qu'il identifie des mutations, la force de la biologie des systèmes est d'analyser de nombreux gènes et produits interagissants à la recherche de mutations communes dans plusieurs types de cancer, et non seulement des formes rares ou des mutations uniques.",
+          "de": "Obwohl es Mutationen identifiziert, liegt die Stärke der Systembiologie in der Analyse vieler interagierender Gene und Produkte zur Identifizierung häufiger Mutationen in mehreren Krebsarten, nicht nur bei seltenen Formen oder Einzelmutationen.",
+          "ja": "突然変異を特定することはありますが、システム生物学の強みは、稀な形態や単一の突然変異だけでなく、多数の相互作用する遺伝子と産物を分析して、複数のがんタイプにおける共通の突然変異を探すことです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It is exclusively used to study metastatic tumors, confirming that 90% of cancer deaths are caused by specific primary tumor types.",
+          "zh": "它专门用于研究转移性肿瘤，证实 90% 的癌症死亡是由特定的原发肿瘤类型引起的。",
+          "es": "Se utiliza exclusivamente para estudiar tumores metastásicos, confirmando que el 90% de las muertes por cáncer son causadas por tipos específicos de tumores primarios.",
+          "fr": "Il est exclusivement utilisé pour étudier les tumeurs métastatiques, confirmant que 90 % des décès par cancer sont causés par des types spécifiques de tumeurs primaires.",
+          "de": "Es wird ausschließlich zur Untersuchung metastatischer Tumoren verwendet, was bestätigt, dass 90% der Krebstodesfälle durch spezifische primäre Tumortypen verursacht werden.",
+          "ja": "転移性腫瘍の研究にのみ使用され、がん死亡の90%が特定の原発腫瘍タイプによって引き起こされることを確認している。"
+        },
+        "feedback": {
+          "en": "While it was extended to metastatic tumors and identified key genes, it's not exclusively used for them, and 90% of deaths are due to metastasis itself, not specific primary tumor types as inferred from this statement.",
+          "zh": "尽管它被扩展到转移性肿瘤并识别了关键基因，但它并非专门用于此，而且 90% 的死亡是由转移本身引起的，而不是如本陈述所暗示的特定原发肿瘤类型。",
+          "es": "Aunque se extendió a los tumores metastásicos e identificó genes clave, no se utiliza exclusivamente para ellos, y el 90% de las muertes se deben a la metástasis misma, no a tipos específicos de tumores primarios como se infiere de esta afirmación.",
+          "fr": "Bien qu'il ait été étendu aux tumeurs métastatiques et qu'il ait identifié des gènes clés, il n'est pas exclusivement utilisé pour cela, et 90 % des décès sont dus à la métastase elle-même, et non à des types spécifiques de tumeurs primaires, comme le suggère cette affirmation.",
+          "de": "Obwohl es auf metastatische Tumoren ausgeweitet wurde und Schlüsselgene identifiziert wurden, wird es nicht ausschließlich dafür verwendet, und 90% der Todesfälle sind auf die Metastasierung selbst zurückzuführen, nicht auf spezifische primäre Tumortypen, wie aus dieser Aussage hervorgeht.",
+          "ja": "転移性腫瘍にも適用され、重要な遺伝子が特定されましたが、排他的にそのために使用されるわけではなく、死亡の90%は、この記述から推測される特定の原発性腫瘍タイプではなく、転移自体によるものです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'This project is another example of systems biology in which many interacting genes and gene products are analyzed together as a group. Under the joint leadership of the National Cancer Institute and the NIH, the project aimed to determine how changes in biological systems lead to cancer.' This highlights the value of analyzing multiple interacting components to understand cancer progression.",
+      "zh": "文本指出：“该项目是系统生物学的另一个例子，其中许多相互作用的基因和基因产物作为一个整体进行分析。在国家癌症研究所和美国国立卫生研究院的共同领导下，该项目旨在确定生物系统中的变化如何导致癌症。”这突出了分析多个相互作用组件以了解癌症进展的价值。",
+      "es": "El texto afirma: 'Este proyecto es otro ejemplo de biología de sistemas en el que muchos genes y productos génicos interactuantes se analizan juntos como un grupo. Bajo el liderazgo conjunto del Instituto Nacional del Cáncer y los NIH, el proyecto tenía como objetivo determinar cómo los cambios en los sistemas biológicos conducen al cáncer.' Esto destaca el valor de analizar múltiples componentes interactuantes para comprender la progresión del cáncer.",
+      "fr": "Le texte déclare : « Ce projet est un autre exemple de biologie des systèmes dans lequel de nombreux gènes et produits géniques interagissants sont analysés ensemble en tant que groupe. Sous la direction conjointe du National Cancer Institute et du NIH, le projet visait à déterminer comment les changements dans les systèmes biologiques mènent au cancer. » Cela souligne la valeur de l'analyse de multiples composants interagissants pour comprendre la progression du cancer.",
+      "de": "Der Text besagt: „Dieses Projekt ist ein weiteres Beispiel für Systembiologie, bei dem viele interagierende Gene und Genprodukte als Gruppe analysiert werden. Unter der gemeinsamen Leitung des National Cancer Institute und der NIH zielte das Projekt darauf ab, zu bestimmen, wie Veränderungen in biologischen Systemen zu Krebs führen.“ Dies unterstreicht den Wert der Analyse mehrerer interagierender Komponenten, um die Krebsentstehung zu verstehen.",
+      "ja": "テキストには、「このプロジェクトは、多くの相互作用する遺伝子と遺伝子産物がグループとして分析されるシステム生物学の別の例です。国立がん研究所とNIHの共同指導の下、このプロジェクトは生物学的システムの変化がどのようにがんにつながるかを決定することを目的としていました」とあります。これは、がんの進行を理解するために、複数の相互作用するコンポーネントを分析することの価値を強調しています。"
+    }
+  },
+  {
+    "page_number": 496,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary purpose of the \"functional map\" developed by researchers using the systems biology approach, as described in the text?",
+      "zh": "根据文本所述，研究人员使用系统生物学方法开发的“功能图谱”的主要目的是什么？",
+      "es": "Según lo descrito en el texto, ¿cuál es el propósito principal del \"mapa funcional\" desarrollado por los investigadores utilizando el enfoque de la biología de sistemas?",
+      "fr": "Selon le texte, quel est le but principal de la \"carte fonctionnelle\" développée par les chercheurs utilisant l'approche de la biologie des systèmes ?",
+      "de": "Was ist laut Text der Hauptzweck der \"funktionalen Karte\", die von Forschern mithilfe des Systembiologie-Ansatzes entwickelt wurde?",
+      "ja": "テキストに記述されているように、研究者がシステム生物学のアプローチを用いて開発した「機能マップ」の主な目的は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To illustrate the physical locations of proteins within a cell's organelles.",
+          "zh": "为了说明细胞器内蛋白质的物理位置。",
+          "es": "Para ilustrar las ubicaciones físicas de las proteínas dentro de los orgánulos de una célula.",
+          "fr": "Pour illustrer les emplacements physiques des protéines au sein des organites d'une cellule.",
+          "de": "Um die physikalischen Orte von Proteinen innerhalb der Zellorganellen zu veranschaulichen.",
+          "ja": "細胞小器官内のタンパク質の物理的な位置を示すため。"
+        },
+        "feedback": {
+          "en": "The map is based on similarity of interactions, not physical location within organelles.",
+          "zh": "该图谱基于相互作用的相似性，而非细胞器内的物理位置。",
+          "es": "El mapa se basa en la similitud de las interacciones, no en la ubicación física dentro de los orgánulos.",
+          "fr": "La carte est basée sur la similarité des interactions, et non sur l'emplacement physique au sein des organites.",
+          "de": "Die Karte basiert auf der Ähnlichkeit von Interaktionen, nicht auf dem physikalischen Ort innerhalb von Organellen.",
+          "ja": "このマップは、細胞小器官内の物理的な位置ではなく、相互作用の類似性に基づいています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To track the real-time movement of individual gene products during cellular processes.",
+          "zh": "为了追踪细胞过程中单个基因产物的实时运动。",
+          "es": "Para rastrear el movimiento en tiempo real de productos génicos individuales durante los procesos celulares.",
+          "fr": "Pour suivre le mouvement en temps réel des produits géniques individuels pendant les processus cellulaires.",
+          "de": "Um die Echtzeitbewegung einzelner Genprodukte während zellulärer Prozesse zu verfolgen.",
+          "ja": "細胞プロセス中の個々の遺伝子産物のリアルタイムな動きを追跡するため。"
+        },
+        "feedback": {
+          "en": "The text describes building a graphic model based on interactions, not real-time tracking of movement.",
+          "zh": "文本描述的是根据相互作用构建一个图形模型，而不是实时追踪运动。",
+          "es": "El texto describe la construcción de un modelo gráfico basado en interacciones, no el seguimiento en tiempo real del movimiento.",
+          "fr": "Le texte décrit la construction d'un modèle graphique basé sur les interactions, et non le suivi en temps réel du mouvement.",
+          "de": "Der Text beschreibt den Aufbau eines grafischen Modells basierend auf Interaktionen, nicht die Echtzeitverfolgung von Bewegungen.",
+          "ja": "テキストでは、動きのリアルタイム追跡ではなく、相互作用に基づいたグラフィックモデルの構築について記述されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To graphically represent gene products based on the similarity of their interactions, forming a network-like protein interaction map.",
+          "zh": "根据基因产物相互作用的相似性，以图形方式表示基因产物，形成网络状的蛋白质相互作用图谱。",
+          "es": "Representar gráficamente los productos génicos basándose en la similitud de sus interacciones, formando un mapa de interacción proteica tipo red.",
+          "fr": "Représenter graphiquement les produits géniques en fonction de la similarité de leurs interactions, formant ainsi une carte d'interaction protéique de type réseau.",
+          "de": "Genprodukte grafisch basierend auf der Ähnlichkeit ihrer Interaktionen darzustellen und so eine netzwerkartige Proteininteraktionskarte zu bilden.",
+          "ja": "遺伝子産物の相互作用の類似性に基づいて、それらをグラフィックで表現し、ネットワーク状のタンパク質相互作用マップを形成する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To identify novel genes responsible for cellular metabolism and amino acid biosynthesis.",
+          "zh": "为了识别负责细胞代谢和氨基酸生物合成的新基因。",
+          "es": "Identificar nuevos genes responsables del metabolismo celular y la biosíntesis de aminoácidos.",
+          "fr": "Pour identifier de nouveaux gènes responsables du métabolisme cellulaire et de la biosynthèse des acides aminés.",
+          "de": "Um neue Gene zu identifizieren, die für den Zellstoffwechsel und die Aminosäurebiosynthese verantwortlich sind.",
+          "ja": "細胞代謝とアミノ酸生合成に関与する新規遺伝子を特定するため。"
+        },
+        "feedback": {
+          "en": "While some categories relate to metabolism, the map's primary purpose is broader: representing gene products based on interaction similarities, not just identifying novel metabolic genes.",
+          "zh": "尽管某些类别与代谢相关，但该图谱的主要目的是更广泛的：根据相互作用的相似性表示基因产物，而不仅仅是识别新的代谢基因。",
+          "es": "Aunque algunas categorías se relacionan con el metabolismo, el propósito principal del mapa es más amplio: representar productos génicos basándose en las similitudes de interacción, no solo identificar nuevos genes metabólicos.",
+          "fr": "Bien que certaines catégories soient liées au métabolisme, le but principal de la carte est plus large : représenter les produits géniques en fonction des similarités de leurs interactions, et non pas seulement identifier de nouveaux gènes métaboliques.",
+          "de": "Obwohl einige Kategorien den Stoffwechsel betreffen, ist der Hauptzweck der Karte breiter gefasst: Genprodukte basierend auf Interaktionsähnlichkeiten darzustellen, nicht nur neuartige Stoffwechselgene zu identifizieren.",
+          "ja": "一部のカテゴリーは代謝に関連していますが、マップの主な目的はより広範で、新しい代謝遺伝子を特定するだけでなく、相互作用の類似性に基づいて遺伝子産物を表現することです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states: 'This resulted in the network-like \"functional map\" of protein interactions shown in Figure 21.4. ... They then used computer software to build a graphic model by \"mapping\" the gene products to certain locations in the model, based on the similarity of their interactions.' This clearly defines the purpose of the functional map.",
+      "zh": "文本指出：“这导致了图 21.4 所示的蛋白质相互作用的网络状‘功能图谱’。……他们随后使用计算机软件，根据基因产物相互作用的相似性，将基因产物‘映射’到模型中的特定位置，从而构建了一个图形模型。”这明确定义了功能图谱的目的。",
+      "es": "El texto afirma: 'Esto resultó en el 'mapa funcional' en forma de red de interacciones proteicas que se muestra en la Figura 21.4. ... Luego utilizaron software de computadora para construir un modelo gráfico 'mapeando' los productos génicos a ciertas ubicaciones en el modelo, basándose en la similitud de sus interacciones.' Esto define claramente el propósito del mapa funcional.",
+      "fr": "Le texte indique : « Cela a abouti à la “carte fonctionnelle” de type réseau des interactions protéiques présentée dans la Figure 21.4. ... Ils ont ensuite utilisé un logiciel informatique pour construire un modèle graphique en “cartographiant” les produits géniques à certains emplacements du modèle, basés sur la similarité de leurs interactions. » Cela définit clairement le but de la carte fonctionnelle.",
+      "de": "Der Text besagt: „Dies führte zu der netzwerkartigen „funktionalen Karte“ der Proteininteraktionen, die in Abbildung 21.4 gezeigt ist. ... Sie verwendeten dann Computersoftware, um ein grafisches Modell zu erstellen, indem sie die Genprodukte basierend auf der Ähnlichkeit ihrer Interaktionen bestimmten Orten im Modell „zuordneten“.“ Dies definiert klar den Zweck der funktionalen Karte.",
+      "ja": "テキストには、「これにより、図21.4に示されているような、ネットワーク状の『機能マップ』が作成されました。…彼らはその後、コンピューターソフトウェアを使用して、遺伝子産物の相互作用の類似性に基づいて、それらをモデル内の特定の場所に『マッピング』することで、グラフィックモデルを構築しました。」と明確に機能マップの目的が記述されています。"
+    }
+  }
+]

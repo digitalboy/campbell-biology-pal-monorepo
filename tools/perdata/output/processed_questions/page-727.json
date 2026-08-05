@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 727,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the \"Data from the Study\" table, for the eighth observation (i=8), which animal phylum corresponds to this observation, and what are its approximate miRNA (x_i) and Cell Type (y_i) values?",
+      "zh": "根据“研究数据”表格，对于第八个观测值 (i=8)，哪种动物门与该观测值对应，以及其近似的 miRNA (x_i) 和细胞类型 (y_i) 值分别是多少？",
+      "es": "Según la tabla \"Datos del Estudio\", para la octava observación (i=8), ¿qué filo animal corresponde a esta observación, y cuáles son sus valores aproximados de miRNA (x_i) y Tipo de Célula (y_i)?",
+      "fr": "Selon le tableau \"Données de l'étude\", pour la huitième observation (i=8), quel phylum animal correspond à cette observation, et quelles sont ses valeurs approximatives de miRNA (x_i) et de Type de Cellule (y_i)?",
+      "de": "Laut der Tabelle „Daten aus der Studie“, welcher Tierstamm entspricht der achten Beobachtung (i=8), und welche ungefähren miRNA (x_i) und Zelltyp (y_i) Werte gehören dazu?",
+      "ja": "「研究データ」表によると、8番目の観察（i=8）に対応する動物門はどれで、そのmiRNA (x_i) と細胞型 (y_i) のおおよその値はいくつですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Urochordata, x_i = 25, y_i = 77",
+          "zh": "尾索动物门, x_i = 25, y_i = 77",
+          "es": "Urocordados, x_i = 25, y_i = 77",
+          "fr": "Urochordés, x_i = 25, y_i = 77",
+          "de": "Urochordata, x_i = 25, y_i = 77",
+          "ja": "尾索動物門, x_i = 25, y_i = 77"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Arthropoda, x_i = 59.1, y_i = 73",
+          "zh": "节肢动物门, x_i = 59.1, y_i = 73",
+          "es": "Artrópodos, x_i = 59.1, y_i = 73",
+          "fr": "Arthropodes, x_i = 59.1, y_i = 73",
+          "de": "Arthropoda, x_i = 59.1, y_i = 73",
+          "ja": "節足動物門, x_i = 59.1, y_i = 73"
+        },
+        "feedback": {
+          "en": "This corresponds to the seventh observation, not the eighth.",
+          "zh": "这对应的是第七个观测值，而不是第八个。",
+          "es": "Esto corresponde a la séptima observación, no a la octava.",
+          "fr": "Cela correspond à la septième observation, pas à la huitième.",
+          "de": "Dies entspricht der siebten Beobachtung, nicht der achten.",
+          "ja": "これは7番目の観察に対応し、8番目ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Mollusca, x_i = 50.8, y_i = 83",
+          "zh": "软体动物门, x_i = 50.8, y_i = 83",
+          "es": "Moluscos, x_i = 50.8, y_i = 83",
+          "fr": "Mollusques, x_i = 50.8, y_i = 83",
+          "de": "Mollusca, x_i = 50.8, y_i = 83",
+          "ja": "軟体動物門, x_i = 50.8, y_i = 83"
+        },
+        "feedback": {
+          "en": "This corresponds to the ninth observation, not the eighth.",
+          "zh": "这对应的是第九个观测值，而不是第八个。",
+          "es": "Esto corresponde a la novena observación, no a la octava.",
+          "fr": "Cela correspond à la neuvième observation, pas à la huitième.",
+          "de": "Dies entspricht der neunten Beobachtung, nicht der achten.",
+          "ja": "これは9番目の観察に対応し、8番目ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Urochordata, x_i = 77, y_i = 25",
+          "zh": "尾索动物门, x_i = 77, y_i = 25",
+          "es": "Urocordados, x_i = 77, y_i = 25",
+          "fr": "Urochordés, x_i = 77, y_i = 25",
+          "de": "Urochordata, x_i = 77, y_i = 25",
+          "ja": "尾索動物門, x_i = 77, y_i = 25"
+        },
+        "feedback": {
+          "en": "The values for x_i and y_i are swapped.",
+          "zh": "x_i 和 y_i 的值被对调了。",
+          "es": "Los valores de x_i y y_i están intercambiados.",
+          "fr": "Les valeurs de x_i et y_i sont inversées.",
+          "de": "Die Werte für x_i und y_i sind vertauscht.",
+          "ja": "x_iとy_iの値が入れ替わっています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "According to the \"Data from the Study\" table, the row with i=8 corresponds to Urochordata, with No. of miRNAs (x_i) = 25 and No. of Cell Types (y_i) = 77.",
+      "zh": "根据“研究数据”表格，i=8 的行对应的是尾索动物门，其 miRNA 数量 (x_i) 为 25，细胞类型数量 (y_i) 为 77。",
+      "es": "Según la tabla \"Datos del Estudio\", la fila con i=8 corresponde a Urocordados, con un número de miRNA (x_i) = 25 y un número de Tipos de Células (y_i) = 77.",
+      "fr": "Selon le tableau \"Données de l'étude\", la ligne avec i=8 correspond aux Urochordés, avec un nombre de miRNA (x_i) = 25 et un nombre de Types de Cellules (y_i) = 77.",
+      "de": "Laut der Tabelle „Daten aus der Studie“ entspricht die Zeile mit i=8 den Urochordaten, mit einer miRNA-Anzahl (x_i) von 25 und einer Zelltyp-Anzahl (y_i) von 77.",
+      "ja": "「研究データ」表によると、i=8の行は尾索動物門に対応し、miRNA数 (x_i) が25、細胞型数 (y_i) が77です。"
+    }
+  },
+  {
+    "page_number": 727,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The correlation coefficient 'r' quantifies the extent and direction of a linear relationship between two variables. Which of the following statements correctly describes the interpretation of 'r' values?",
+      "zh": "相关系数 'r' 量化了两个变量之间线性关系的程度和方向。以下哪项陈述正确描述了 'r' 值的解释？",
+      "es": "El coeficiente de correlación 'r' cuantifica la extensión y dirección de una relación lineal entre dos variables. ¿Cuál de las siguientes afirmaciones describe correctamente la interpretación de los valores de 'r'?",
+      "fr": "Le coefficient de corrélation 'r' quantifie l'étendue et la direction d'une relation linéaire entre deux variables. Parmi les affirmations suivantes, laquelle décrit correctement l'interprétation des valeurs de 'r' ?",
+      "de": "Der Korrelationskoeffizient 'r' quantifiziert das Ausmaß und die Richtung einer linearen Beziehung zwischen zwei Variablen. Welche der folgenden Aussagen beschreibt die Interpretation der 'r'-Werte korrekt?",
+      "ja": "相関係数 'r' は、2つの変数間の線形関係の程度と方向を定量化します。次の記述のうち、'r' の値の解釈を正しく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "If r > 0, x and y are positively correlated, meaning that as x increases, y tends to increase.",
+          "zh": "如果 r > 0，x 和 y 呈正相关，意味着随着 x 的增加，y 倾向于增加。",
+          "es": "Si r > 0, x e y están positivamente correlacionados, lo que significa que a medida que x aumenta, y tiende a aumentar.",
+          "fr": "Si r > 0, x et y sont positivement corrélés, ce qui signifie qu'à mesure que x augmente, y tend à augmenter.",
+          "de": "Wenn r > 0, sind x und y positiv korreliert, was bedeutet, dass y tendenziell zunimmt, wenn x zunimmt.",
+          "ja": "r > 0 の場合、x と y は正の相関があり、x の増加に伴い y も増加する傾向があることを意味します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "If r < 0, x and y are positively correlated.",
+          "zh": "如果 r < 0，x 和 y 呈正相关。",
+          "es": "Si r < 0, x e y están positivamente correlacionados.",
+          "fr": "Si r < 0, x et y sont positivement corrélés.",
+          "de": "Wenn r < 0, sind x und y positiv korreliert.",
+          "ja": "r < 0 の場合、x と y は正の相関があります。"
+        },
+        "feedback": {
+          "en": "If r < 0, x and y are negatively correlated, meaning y tends to decrease as x increases.",
+          "zh": "如果 r < 0，x 和 y 呈负相关，意味着随着 x 的增加，y 倾向于减少。",
+          "es": "Si r < 0, x e y están negativamente correlacionados, lo que significa que y tiende a disminuir a medida que x aumenta.",
+          "fr": "Si r < 0, x et y sont négativement corrélés, ce qui signifie que y tend à diminuer à mesure que x augmente.",
+          "de": "Wenn r < 0, sind x und y negativ korreliert, was bedeutet, dass y tendenziell abnimmt, wenn x zunimmt.",
+          "ja": "r < 0 の場合、x と y は負の相関があり、x の増加に伴い y は減少する傾向があります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "If r = 0, x and y are strongly correlated.",
+          "zh": "如果 r = 0，x 和 y 呈强相关。",
+          "es": "Si r = 0, x e y están fuertemente correlacionados.",
+          "fr": "Si r = 0, x et y sont fortement corrélés.",
+          "de": "Wenn r = 0, sind x und y stark korreliert.",
+          "ja": "r = 0 の場合、x と y は強い相関があります。"
+        },
+        "feedback": {
+          "en": "If r = 0, the variables are not linearly correlated.",
+          "zh": "如果 r = 0，变量之间没有线性相关性。",
+          "es": "Si r = 0, las variables no están linealmente correlacionadas.",
+          "fr": "Si r = 0, les variables ne sont pas linéairement corrélées.",
+          "de": "Wenn r = 0, sind die Variablen nicht linear korreliert.",
+          "ja": "r = 0 の場合、変数間には線形相関がありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The value of r can range from 0 to 1 only.",
+          "zh": "r 的值只能在 0 到 1 之间。",
+          "es": "El valor de r solo puede oscilar entre 0 y 1.",
+          "fr": "La valeur de r ne peut varier que de 0 à 1.",
+          "de": "Der Wert von r kann nur von 0 bis 1 reichen.",
+          "ja": "r の値は0から1の範囲のみです。"
+        },
+        "feedback": {
+          "en": "The value of r can range from -1 to 1.",
+          "zh": "r 的值范围在 -1 到 1 之间。",
+          "es": "El valor de r puede oscilar entre -1 y 1.",
+          "fr": "La valeur de r peut varier de -1 à 1.",
+          "de": "Der Wert von r kann von -1 bis 1 reichen.",
+          "ja": "r の値は -1 から 1 の範囲です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states: \"The correlation coefficient indicates the extent and direction of a linear relationship between two variables (x and y) and ranges in value between -1 and 1. When r < 0, x and y are negatively correlated... When r > 0, x and y are positively correlated... When r = 0, the variables are not correlated.\"",
+      "zh": "文本指出：“相关系数表示两个变量 (x 和 y) 之间线性关系的程度和方向，其值介于 -1 和 1 之间。当 r < 0 时，x 和 y 呈负相关……当 r > 0 时，x 和 y 呈正相关……当 r = 0 时，变量不相关。”",
+      "es": "El texto establece: \"El coeficiente de correlación indica la extensión y dirección de una relación lineal entre dos variables (x e y) y oscila en valor entre -1 y 1. Cuando r < 0, x e y están negativamente correlacionados... Cuando r > 0, x e y están positivamente correlacionados... Cuando r = 0, las variables no están correlacionadas.\"",
+      "fr": "Le texte indique : « Le coefficient de corrélation indique l'étendue et la direction d'une relation linéaire entre deux variables (x et y) et varie en valeur entre -1 et 1. Lorsque r < 0, x et y sont négativement corrélés... Lorsque r > 0, x et y sont positivement corrélés... Lorsque r = 0, les variables ne sont pas corrélées. »",
+      "de": "Der Text besagt: „Der Korrelationskoeffizient gibt das Ausmaß und die Richtung einer linearen Beziehung zwischen zwei Variablen (x und y) an und liegt im Wert zwischen -1 und 1. Wenn r < 0 ist, sind x und y negativ korreliert... Wenn r > 0 ist, sind x und y positiv korreliert... Wenn r = 0 ist, sind die Variablen nicht korreliert.“",
+      "ja": "本文には「相関係数は2つの変数（xとy）間の線形関係の程度と方向を示し、値は-1から1の範囲です。r < 0 の場合、xとyは負の相関があります... r > 0 の場合、xとyは正の相関があります... r = 0 の場合、変数間には相関がありません。」とあります。"
+    }
+  },
+  {
+    "page_number": 727,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "If the analysis described in the \"Scientific Skills Exercise\" yields a strong positive correlation coefficient (r close to +1) between miRNA diversity (x) and morphological complexity (y), what would this result suggest?",
+      "zh": "如果“科学技能练习”中描述的分析在 miRNA 多样性 (x) 和形态复杂性 (y) 之间得出强正相关系数（r 接近 +1），这一结果会暗示什么？",
+      "es": "Si el análisis descrito en el \"Ejercicio de Habilidades Científicas\" arroja un coeficiente de correlación positivo fuerte (r cercano a +1) entre la diversidad de miRNA (x) y la complejidad morfológica (y), ¿qué sugeriría este resultado?",
+      "fr": "Si l'analyse décrite dans l'\"Exercice de Compétences Scientifiques\" donne un coefficient de corrélation positif fort (r proche de +1) entre la diversité des miRNA (x) et la complexité morphologique (y), que suggérerait ce résultat ?",
+      "de": "Wenn die im „Wissenschaftlichen Kompetenz-Übung“ beschriebene Analyse einen stark positiven Korrelationskoeffizienten (r nahe +1) zwischen miRNA-Diversität (x) und morphologischer Komplexität (y) ergibt, was würde dieses Ergebnis nahelegen?",
+      "ja": "「科学スキル演習」で説明されている分析が、miRNA多様性 (x) と形態学的複雑性 (y) の間に強い正の相関係数（rが+1に近い）を示す場合、この結果は何を示唆するでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It would suggest that as the average number of miRNAs in a phylum increases, the average number of cell types in that phylum also tends to increase.",
+          "zh": "这将表明，随着一个门中 miRNA 平均数量的增加，该门中细胞类型的平均数量也倾向于增加。",
+          "es": "Sugería que a medida que aumenta el número promedio de miRNA en un filo, el número promedio de tipos de células en ese filo también tiende a aumentar.",
+          "fr": "Cela suggérerait qu'à mesure que le nombre moyen de miRNA dans un phylum augmente, le nombre moyen de types de cellules dans ce phylum a également tendance à augmenter.",
+          "de": "Es würde nahelegen, dass mit der Zunahme der durchschnittlichen Anzahl von miRNAs in einem Stamm auch die durchschnittliche Anzahl der Zelltypen in diesem Stamm tendenziell zunimmt.",
+          "ja": "ある門におけるmiRNAの平均数が増加するにつれて、その門における細胞型の平均数も増加する傾向があることを示唆するでしょう。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "As miRNA diversity increases, morphological complexity decreases significantly.",
+          "zh": "随着 miRNA 多样性的增加，形态复杂性显著降低。",
+          "es": "A medida que aumenta la diversidad de miRNA, la complejidad morfológica disminuye significativamente.",
+          "fr": "À mesure que la diversité des miRNA augmente, la complexité morphologique diminue significativement.",
+          "de": "Mit zunehmender miRNA-Diversität nimmt die morphologische Komplexität erheblich ab.",
+          "ja": "miRNA多様性が増加するにつれて、形態学的複雑性が著しく減少する。"
+        },
+        "feedback": {
+          "en": "This describes a strong negative correlation, not a strong positive one.",
+          "zh": "这描述的是强负相关，而不是强正相关。",
+          "es": "Esto describe una fuerte correlación negativa, no una fuerte correlación positiva.",
+          "fr": "Cela décrit une forte corrélation négative, pas une forte corrélation positive.",
+          "de": "Dies beschreibt eine starke negative Korrelation, keine starke positive.",
+          "ja": "これは強い負の相関を示しており、強い正の相関ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "There is no linear relationship between miRNA diversity and morphological complexity.",
+          "zh": "miRNA 多样性与形态复杂性之间没有线性关系。",
+          "es": "No existe una relación lineal entre la diversidad de miRNA y la complejidad morfológica.",
+          "fr": "Il n'y a pas de relation linéaire entre la diversité des miRNA et la complexité morphologique.",
+          "de": "Es besteht keine lineare Beziehung zwischen miRNA-Diversität und morphologischer Komplexität.",
+          "ja": "miRNA多様性と形態学的複雑性との間に線形関係はない。"
+        },
+        "feedback": {
+          "en": "This implies an 'r' value close to 0, indicating no linear correlation, not a strong positive one.",
+          "zh": "这暗示 'r' 值接近 0，表示没有线性相关性，而不是强正相关。",
+          "es": "Esto implica un valor de 'r' cercano a 0, lo que indica que no hay correlación lineal, no una fuerte correlación positiva.",
+          "fr": "Cela implique une valeur de 'r' proche de 0, indiquant aucune corrélation linéaire, pas une forte corrélation positive.",
+          "de": "Dies impliziert einen 'r'-Wert nahe 0, was keine lineare Korrelation, sondern eine starke positive Korrelation anzeigt.",
+          "ja": "これは 'r' の値が0に近いことを意味し、強い正の相関ではなく、線形相関がないことを示します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Higher miRNA diversity directly causes higher morphological complexity.",
+          "zh": "更高的 miRNA 多样性直接导致更高的形态复杂性。",
+          "es": "Una mayor diversidad de miRNA causa directamente una mayor complejidad morfológica.",
+          "fr": "Une plus grande diversité de miRNA entraîne directement une plus grande complexité morphologique.",
+          "de": "Eine höhere miRNA-Diversität verursacht direkt eine höhere morphologische Komplexität.",
+          "ja": "miRNA多様性が高いほど、形態学的複雑性が直接的に高まる。"
+        },
+        "feedback": {
+          "en": "Correlation indicates a relationship, but it does not directly imply causation. Other factors might be involved or the relationship could be indirect.",
+          "zh": "相关性表示一种关系，但它并不直接暗示因果关系。可能涉及其他因素或关系可能是间接的。",
+          "es": "La correlación indica una relación, pero no implica directamente causalidad. Otros factores podrían estar involucrados o la relación podría ser indirecta.",
+          "fr": "La corrélation indique une relation, mais n'implique pas directement de causalité. D'autres facteurs pourraient être impliqués ou la relation pourrait être indirecte.",
+          "de": "Korrelation weist auf eine Beziehung hin, impliziert aber nicht direkt Kausalität. Andere Faktoren könnten beteiligt sein oder die Beziehung könnte indirekt sein.",
+          "ja": "相関は関係を示しますが、直接的な因果関係を意味するものではありません。他の要因が関与しているか、関係が間接的である可能性があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "A strong positive correlation (r close to +1) implies that as one variable increases, the other variable also tends to increase. In this context, it would mean that phyla with more miRNA diversity tend to have greater morphological complexity.",
+      "zh": "强正相关（r 接近 +1）意味着一个变量增加时，另一个变量也倾向于增加。在这种情况下，它将意味着 miRNA 多样性越高的门，其形态复杂性也倾向于越大。",
+      "es": "Una correlación positiva fuerte (r cercana a +1) implica que a medida que una variable aumenta, la otra variable también tiende a aumentar. En este contexto, significaría que los filos con mayor diversidad de miRNA tienden a tener mayor complejidad morfológica.",
+      "fr": "Une forte corrélation positive (r proche de +1) implique qu'à mesure qu'une variable augmente, l'autre variable a également tendance à augmenter. Dans ce contexte, cela signifierait que les phylums avec une plus grande diversité de miRNA ont tendance à avoir une plus grande complexité morphologique.",
+      "de": "Eine starke positive Korrelation (r nahe +1) bedeutet, dass mit der Zunahme einer Variablen auch die andere Variable tendenziell zunimmt. In diesem Zusammenhang würde dies bedeuten, dass Stämme mit höherer miRNA-Diversität tendenziell eine höhere morphologische Komplexität aufweisen.",
+      "ja": "強い正の相関（rが+1に近い）は、ある変数が_増加すると、もう一方の変数も_増加する傾向があることを意味します。この文脈では、miRNA多様性が高い門ほど、形態学的複雑性も高い傾向があることを意味します。"
+    }
+  },
+  {
+    "page_number": 727,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the additional text provided, which of the following statements regarding the colonization of land by vertebrates is accurate?",
+      "zh": "根据提供的附加文本，关于脊椎动物陆地定居的以下哪项陈述是准确的？",
+      "es": "Según el texto adicional proporcionado, ¿cuál de las siguientes afirmaciones sobre la colonización terrestre por los vertebrados es precisa?",
+      "fr": "Selon le texte additionnel fourni, laquelle des affirmations suivantes concernant la colonisation terrestre par les vertébrés est exacte ?",
+      "de": "Laut dem zusätzlich bereitgestellten Text, welche der folgenden Aussagen zur Landbesiedlung durch Wirbeltiere ist zutreffend?",
+      "ja": "提供された追加のテキストによると、脊椎動物による陸上への進出に関する次の記述のうち、正確なものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Vertebrates colonized land around 365 million years ago and diversified into numerous terrestrial groups, including amphibians and amniotes.",
+          "zh": "脊椎动物在大约 3.65 亿年前在陆地定居，并分化为众多的陆生类群，包括两栖动物和羊膜动物。",
+          "es": "Los vertebrados colonizaron la tierra hace aproximadamente 365 millones de años y se diversificaron en numerosos grupos terrestres, incluyendo anfibios y amniotas.",
+          "fr": "Les vertébrés ont colonisé la terre il y a environ 365 millions d'années et se sont diversifiés en de nombreux groupes terrestres, y compris les amphibiens et les amniotes.",
+          "de": "Wirbeltiere besiedelten das Land vor etwa 365 Millionen Jahren und diversifizierten sich in zahlreiche terrestrische Gruppen, darunter Amphibien und Amnioten.",
+          "ja": "脊椎動物は約3億6500万年前に陸上へ進出し、両生類や有羊膜類を含む多数の陸生グループに多様化しました。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Vertebrates colonized land much earlier than 365 million years ago.",
+          "zh": "脊椎动物陆地定居的时间远早于 3.65 亿年前。",
+          "es": "Los vertebrados colonizaron la tierra mucho antes de hace 365 millones de años.",
+          "fr": "Les vertébrés ont colonisé la terre bien avant 365 millions d'années.",
+          "de": "Wirbeltiere besiedelten das Land viel früher als vor 365 Millionen Jahren.",
+          "ja": "脊椎動物は3億6500万年前よりもはるか以前に陸上へ進出した。"
+        },
+        "feedback": {
+          "en": "The text explicitly states \"around 365 million years ago\" for vertebrates colonizing land.",
+          "zh": "文本明确指出脊椎动物陆地定居是在“大约 3.65 亿年前”。",
+          "es": "El texto establece explícitamente \"hace aproximadamente 365 millones de años\" para la colonización terrestre de los vertebrados.",
+          "fr": "Le texte indique explicitement « il y a environ 365 millions d'années » pour la colonisation terrestre par les vertébrés.",
+          "de": "Der Text besagt ausdrücklich „vor etwa 365 Millionen Jahren“ für die Landbesiedlung durch Wirbeltiere.",
+          "ja": "テキストには、脊椎動物が陸上へ進出したのは「約3億6500万年前」と明記されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Only amniotes, not amphibians, survived from the initial terrestrial diversification.",
+          "zh": "只有羊膜动物，而不是两栖动物，从最初的陆生分化中幸存下来。",
+          "es": "Solo los amniotas, no los anfibios, sobrevivieron a la diversificación terrestre inicial.",
+          "fr": "Seuls les amniotes, et non les amphibiens, ont survécu à la diversification terrestre initiale.",
+          "de": "Nur Amnioten, nicht Amphibien, überlebten die anfängliche terrestrische Diversifizierung.",
+          "ja": "最初の上陸後の多様化から、有羊膜類のみが生き残り、両生類は生き残らなかった。"
+        },
+        "feedback": {
+          "en": "The text states: \"Two of these survive today: the amphibians (such as frogs and salamanders) and the amniotes (reptiles, including birds, and...)\".",
+          "zh": "文本指出：“其中两种今天仍然存活：两栖动物（如青蛙和蝾螈）和羊膜动物（包括鸟类在内的爬行动物，以及……）”。",
+          "es": "El texto afirma: \"Dos de estos sobreviven hoy: los anfibios (como ranas y salamandras) y los amniotas (reptiles, incluyendo aves, y...).\"",
+          "fr": "Le texte indique : « Deux d'entre eux survivent aujourd'hui : les amphibiens (tels que les grenouilles et les salamandres) et les amniotes (reptiles, y compris les oiseaux, et...). »",
+          "de": "Der Text besagt: „Zwei davon überleben heute: die Amphibien (wie Frösche und Salamander) und die Amnioten (Reptilien, einschließlich Vögel, und...).“",
+          "ja": "テキストには、「このうち2つが今日まで生き残っている：両生類（カエルやサンショウウオなど）と有羊膜類（鳥類を含む爬虫類など）」と記載されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The colonization of land by vertebrates occurred simultaneously with the diversification of arthropods onto terrestrial habitats.",
+          "zh": "脊椎动物陆地定居与节肢动物向陆生栖息地的分化同时发生。",
+          "es": "La colonización terrestre por los vertebrados ocurrió simultáneamente con la diversificación de los artrópodos en hábitats terrestres.",
+          "fr": "La colonisation terrestre par les vertébrés s'est produite simultanément avec la diversification des arthropodes dans les habitats terrestres.",
+          "de": "Die Landbesiedlung durch Wirbeltiere erfolgte gleichzeitig mit der Diversifizierung der Arthropoden in terrestrische Lebensräume.",
+          "ja": "脊椎動物による陸上への進出は、節足動物の陸上生息地への多様化と同時に起こった。"
+        },
+        "feedback": {
+          "en": "Arthropods adapted to terrestrial habitats by 450 million years ago, while vertebrates colonized land around 365 million years ago. These events were not simultaneous.",
+          "zh": "节肢动物在 4.5 亿年前适应了陆地栖息地，而脊椎动物在大约 3.65 亿年前才在陆地定居。这些事件并非同时发生。",
+          "es": "Los artrópodos se adaptaron a los hábitats terrestres hace 450 millones de años, mientras que los vertebrados colonizaron la tierra hace aproximadamente 365 millones de años. Estos eventos no fueron simultáneos.",
+          "fr": "Les arthropodes se sont adaptés aux habitats terrestres il y a 450 millions d'années, tandis que les vertébrés ont colonisé la terre il y a environ 365 millions d'années. Ces événements n'étaient pas simultanés.",
+          "de": "Arthropoden passten sich vor 450 Millionen Jahren an terrestrische Lebensräume an, während Wirbeltiere das Land erst vor etwa 365 Millionen Jahren besiedelten. Diese Ereignisse waren nicht gleichzeitig.",
+          "ja": "節足動物は4億5000万年前までに陸上生息地に適応しましたが、脊椎動物が陸上へ進出したのは約3億6500万年前です。これらの出来事は同時ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states: \"Vertebrates colonized land around 365 million years ago and diversified into numerous terrestrial groups. Two of these survive today: the amphibians (such as frogs and salamanders) and the amniotes (reptiles, including birds, and...)\". This directly supports option A.",
+      "zh": "文本指出：“脊椎动物在大约 3.65 亿年前在陆地定居，并分化为众多的陆生类群。其中两种今天仍然存活：两栖动物（如青蛙和蝾螈）和羊膜动物（包括鸟类在内的爬行动物，以及……）”。这直接支持了选项 A。",
+      "es": "El texto establece: \"Los vertebrados colonizaron la tierra hace aproximadamente 365 millones de años y se diversificaron en numerosos grupos terrestres. Dos de estos sobreviven hoy: los anfibios (como ranas y salamandras) y los amniotas (reptiles, incluyendo aves, y...).\" Esto apoya directamente la opción A.",
+      "fr": "Le texte indique : « Les vertébrés ont colonisé la terre il y a environ 365 millions d'années et se sont diversifiés en de nombreux groupes terrestres. Deux d'entre eux survivent aujourd'hui : les amphibiens (tels que les grenouilles et les salamandres) et les amniotes (reptiles, y compris les oiseaux, et...). » Cela soutient directement l'option A.",
+      "de": "Der Text besagt: „Wirbeltiere besiedelten das Land vor etwa 365 Millionen Jahren und diversifizierten sich in zahlreiche terrestrische Gruppen. Zwei davon überleben heute: die Amphibien (wie Frösche und Salamander) und die Amnioten (Reptilien, einschließlich Vögel, und...).“ Dies unterstützt direkt Option A.",
+      "ja": "本文には「脊椎動物は約3億6500万年前に陸上へ進出し、多数の陸生グループに多様化しました。このうち2つが今日まで生き残っています：両生類（カエルやサンショウウオなど）と有羊膜類（鳥類を含む爬虫類など）」とあります。これは選択肢Aを直接裏付けています。"
+    }
+  }
+]

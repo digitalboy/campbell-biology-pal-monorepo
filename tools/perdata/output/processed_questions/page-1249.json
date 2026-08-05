@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 1249,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the logistic growth model described, when the population size (N) exceeds the carrying capacity (K), which of the following statements about the population growth rate is true?",
+      "zh": "根据所描述的逻辑增长模型，当种群规模（N）超过环境容纳量（K）时，以下关于种群增长率的说法哪项是正确的？",
+      "es": "Según el modelo de crecimiento logístico descrito, cuando el tamaño de la población (N) excede la capacidad de carga (K), ¿cuál de las siguientes afirmaciones sobre la tasa de crecimiento de la población es verdadera?",
+      "fr": "Selon le modèle de croissance logistique décrit, lorsque la taille de la population (N) dépasse la capacité de charge (K), laquelle des affirmations suivantes concernant le taux de croissance de la population est vraie ?",
+      "de": "Gemäß dem beschriebenen logistischen Wachstumsmodell, wenn die Populationsgröße (N) die Kapazitätsgrenze (K) überschreitet, welche der folgenden Aussagen zur Populationswachstumsrate ist wahr?",
+      "ja": "記述されているロジスティック成長モデルによると、個体群サイズ（N）が環境収容力（K）を超える場合、個体群成長率に関する次の記述のうち、正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It remains positive but slows down.",
+          "zh": "它保持正值但减缓。",
+          "es": "Permanece positiva pero disminuye.",
+          "fr": "Elle reste positive mais ralentit.",
+          "de": "Sie bleibt positiv, verlangsamt sich aber.",
+          "ja": "それは正のままだが減速する。"
+        },
+        "feedback": {
+          "en": "When N exceeds K, the (K-N)/K term becomes negative, causing the overall growth rate to be negative, not just slower.",
+          "zh": "当 N 超过 K 时，(K-N)/K 项变为负值，导致总增长率为负，而不仅仅是减缓。",
+          "es": "Cuando N excede K, el término (K-N)/K se vuelve negativo, lo que hace que la tasa de crecimiento general sea negativa, no solo más lenta.",
+          "fr": "Lorsque N dépasse K, le terme (K-N)/K devient négatif, ce qui rend le taux de croissance global négatif, et pas seulement plus lent.",
+          "de": "Wenn N K überschreitet, wird der Term (K-N)/K negativ, wodurch die gesamte Wachstumsrate negativ wird, nicht nur langsamer.",
+          "ja": "NがKを超えると、(K-N)/Kの項が負になり、全体の成長率は単に遅くなるだけでなく負になります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It becomes negative, indicating population decline.",
+          "zh": "它变为负值，表明种群数量下降。",
+          "es": "Se vuelve negativa, indicando un declive de la población.",
+          "fr": "Elle devient négative, indiquant un déclin de la population.",
+          "de": "Sie wird negativ, was auf einen Populationsrückgang hindeutet.",
+          "ja": "それは負になり、個体群の減少を示します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It becomes zero, as the population has reached its maximum.",
+          "zh": "它变为零，因为种群已达到其最大值。",
+          "es": "Se vuelve cero, ya que la población ha alcanzado su máximo.",
+          "fr": "Elle devient nulle, car la population a atteint son maximum.",
+          "de": "Sie wird Null, da die Population ihr Maximum erreicht hat.",
+          "ja": "個体群が最大に達したため、ゼロになります。"
+        },
+        "feedback": {
+          "en": "The growth rate is zero when N equals K. When N exceeds K, the growth rate is negative, causing the population to decline.",
+          "zh": "当 N 等于 K 时，增长率为零。当 N 超过 K 时，增长率为负，导致种群数量下降。",
+          "es": "La tasa de crecimiento es cero cuando N es igual a K. Cuando N excede K, la tasa de crecimiento es negativa, lo que provoca que la población disminuya.",
+          "fr": "Le taux de croissance est nul lorsque N est égal à K. Lorsque N dépasse K, le taux de croissance est négatif, provoquant le déclin de la population.",
+          "de": "Die Wachstumsrate ist Null, wenn N gleich K ist. Wenn N K überschreitet, ist die Wachstumsrate negativ, was zu einem Populationsrückgang führt.",
+          "ja": "成長率はNがKに等しいときにゼロになります。NがKを超えると、成長率は負になり、個体群は減少します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It increases rapidly until N returns to K.",
+          "zh": "它迅速增加，直到 N 返回 K。",
+          "es": "Aumenta rápidamente hasta que N vuelve a K.",
+          "fr": "Elle augmente rapidement jusqu'à ce que N revienne à K.",
+          "de": "Sie steigt schnell an, bis N wieder K erreicht.",
+          "ja": "NがKに戻るまで急速に増加します。"
+        },
+        "feedback": {
+          "en": "When N exceeds K, the population is above its carrying capacity, leading to a negative growth rate and a decrease in population size, not an increase.",
+          "zh": "当 N 超过 K 时，种群数量超过其环境容纳量，导致增长率为负，种群规模下降，而不是增加。",
+          "es": "Cuando N excede K, la población está por encima de su capacidad de carga, lo que lleva a una tasa de crecimiento negativa y una disminución del tamaño de la población, no un aumento.",
+          "fr": "Lorsque N dépasse K, la population est au-dessus de sa capacité de charge, ce qui entraîne un taux de croissance négatif et une diminution de la taille de la population, et non une augmentation.",
+          "de": "Wenn N K überschreitet, liegt die Population über ihrer Kapazitätsgrenze, was zu einer negativen Wachstumsrate und einem Rückgang der Populationsgröße führt, nicht zu einem Anstieg.",
+          "ja": "NがKを超えると、個体群は環境収容力を超えているため、成長率は負になり、個体群サイズは増加するのではなく減少します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "In the logistic growth model, the term (K-N)/K determines the per capita growth rate. When the population size (N) exceeds the carrying capacity (K), (K-N) becomes a negative value. This results in a negative overall population growth rate, meaning the population will decline until it reaches or falls below K. The text states, 'the per capita rate of population increase approaches zero as the population size (N) approaches the carrying capacity (K). Under some conditions... N may briefly exceed K.' This implies that when N > K, the growth rate would be negative.",
+      "zh": "在逻辑增长模型中，(K-N)/K 项决定了个体增长率。当种群规模（N）超过环境容纳量（K）时，(K-N) 变为负值。这导致总种群增长率为负，意味着种群将下降，直到达到或低于 K。文本指出，‘当种群规模（N）接近环境容纳量（K）时，个体增长率趋近于零。在某些条件下……N 可能会短暂超过 K。’ 这暗示了当 N > K 时，增长率将为负。",
+      "es": "En el modelo de crecimiento logístico, el término (K-N)/K determina la tasa de crecimiento per cápita. Cuando el tamaño de la población (N) excede la capacidad de carga (K), (K-N) se convierte en un valor negativo. Esto da como resultado una tasa de crecimiento poblacional general negativa, lo que significa que la población disminuirá hasta que alcance o caiga por debajo de K. El texto establece: 'la tasa per cápita de aumento de la población se acerca a cero a medida que el tamaño de la población (N) se acerca a la capacidad de carga (K). Bajo algunas condiciones... N puede exceder brevemente K.' Esto implica que cuando N > K, la tasa de crecimiento sería negativa.",
+      "fr": "Dans le modèle de croissance logistique, le terme (K-N)/K détermine le taux de croissance par habitant. Lorsque la taille de la population (N) dépasse la capacité de charge (K), (K-N) devient une valeur négative. Il en résulte un taux de croissance global de la population négatif, ce qui signifie que la population diminuera jusqu'à ce qu'elle atteigne ou descende en dessous de K. Le texte indique : 'le taux de croissance par habitant de la population approche de zéro à mesure que la taille de la population (N) approche de la capacité de charge (K). Dans certaines conditions... N peut brièvement dépasser K.' Cela implique que lorsque N > K, le taux de croissance serait négatif.",
+      "de": "Im logistischen Wachstumsmodell bestimmt der Term (K-N)/K die Pro-Kopf-Wachstumsrate. Wenn die Populationsgröße (N) die Kapazitätsgrenze (K) überschreitet, wird (K-N) zu einem negativen Wert. Dies führt zu einer negativen Gesamtpopulationswachstumsrate, was bedeutet, dass die Population abnehmen wird, bis sie K erreicht oder unterschreitet. Der Text besagt: 'die Pro-Kopf-Wachstumsrate der Population nähert sich Null, wenn die Populationsgröße (N) die Kapazitätsgrenze (K) erreicht. Unter bestimmten Bedingungen... kann N K kurzzeitig überschreiten.' Dies impliziert, dass bei N > K die Wachstumsrate negativ wäre.",
+      "ja": "ロジスティック成長モデルでは、(K-N)/Kの項が1人あたりの成長率を決定します。個体群サイズ（N）が環境収容力（K）を超えると、(K-N)は負の値になります。これにより、個体群全体の成長率が負になり、個体群はKに達するかKを下回るまで減少します。テキストには「個体群サイズ（N）が環境収容力（K）に近づくにつれて、個体群の1人あたりの増加率はゼロに近づく。特定の条件下では…Nは一時的にKを超えることがある」と記載されています。これは、N > Kの場合、成長率は負になることを示唆しています。"
+    }
+  },
+  {
+    "page_number": 1249,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the logistic growth model, at what population size does a population typically experience its highest growth rate?",
+      "zh": "根据逻辑增长模型，种群通常在何种规模下经历其最高的增长率？",
+      "es": "Según el modelo de crecimiento logístico, ¿a qué tamaño de población experimenta típicamente una población su tasa de crecimiento más alta?",
+      "fr": "Selon le modèle de croissance logistique, à quelle taille de population une population connaît-elle généralement son taux de croissance le plus élevé ?",
+      "de": "Basierend auf dem logistischen Wachstumsmodell, bei welcher Populationsgröße erfährt eine Population typischerweise ihre höchste Wachstumsrate?",
+      "ja": "ロジスティック成長モデルに基づくと、個体群は通常、どの個体群サイズで最高の成長率を経験しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "When the population size (N) is very small.",
+          "zh": "当种群规模（N）非常小时。",
+          "es": "Cuando el tamaño de la población (N) es muy pequeño.",
+          "fr": "Lorsque la taille de la population (N) est très petite.",
+          "de": "Wenn die Populationsgröße (N) sehr klein ist.",
+          "ja": "個体群サイズ（N）が非常に小さい場合。"
+        },
+        "feedback": {
+          "en": "While resources are abundant, a very small population has few individuals to reproduce, limiting the overall growth rate.",
+          "zh": "虽然资源充足，但非常小的种群只有少数个体进行繁殖，限制了整体增长率。",
+          "es": "Aunque los recursos son abundantes, una población muy pequeña tiene pocos individuos para reproducirse, lo que limita la tasa de crecimiento general.",
+          "fr": "Bien que les ressources soient abondantes, une très petite population compte peu d'individus pour se reproduire, ce qui limite le taux de croissance global.",
+          "de": "Obwohl Ressourcen reichlich vorhanden sind, hat eine sehr kleine Population nur wenige Individuen zur Fortpflanzung, was die Wachstumsrate insgesamt begrenzt.",
+          "ja": "資源が豊富であっても、非常に小さな個体群では繁殖する個体が少なく、全体の成長率が制限されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "When N is exactly at the carrying capacity (K).",
+          "zh": "当 N 恰好等于环境容纳量（K）时。",
+          "es": "Cuando N está exactamente en la capacidad de carga (K).",
+          "fr": "Lorsque N est exactement à la capacité de charge (K).",
+          "de": "Wenn N genau an der Kapazitätsgrenze (K) liegt.",
+          "ja": "Nが環境収容力（K）とまったく同じ場合。"
+        },
+        "feedback": {
+          "en": "At the carrying capacity (K), the population growth rate is zero because resources are maximally limiting, and (K-N)/K becomes zero.",
+          "zh": "在环境容纳量（K）时，种群增长率为零，因为资源受到最大限制，(K-N)/K 变为零。",
+          "es": "En la capacidad de carga (K), la tasa de crecimiento de la población es cero porque los recursos son máximamente limitantes y (K-N)/K se vuelve cero.",
+          "fr": "À la capacité de charge (K), le taux de croissance de la population est nul car les ressources sont maximalement limitantes, et (K-N)/K devient nul.",
+          "de": "Bei der Kapazitätsgrenze (K) ist die Populationswachstumsrate Null, da die Ressourcen maximal limitierend sind und (K-N)/K Null wird.",
+          "ja": "環境収容力（K）では、資源が最大限に制限されているため、個体群成長率はゼロになり、(K-N)/Kはゼロになります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "When N is at approximately half of the carrying capacity (K/2).",
+          "zh": "当 N 大约是环境容纳量（K）的一半时。",
+          "es": "Cuando N está aproximadamente a la mitad de la capacidad de carga (K/2).",
+          "fr": "Lorsque N est environ la moitié de la capacité de charge (K/2).",
+          "de": "Wenn N ungefähr die Hälfte der Kapazitätsgrenze (K/2) beträgt.",
+          "ja": "Nが環境収容力（K）のおよそ半分の場合。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "When N slightly exceeds K.",
+          "zh": "当 N 略微超过 K 时。",
+          "es": "Cuando N excede ligeramente K.",
+          "fr": "Lorsque N dépasse légèrement K.",
+          "de": "Wenn N K leicht überschreitet.",
+          "ja": "NがKをわずかに超える場合。"
+        },
+        "feedback": {
+          "en": "When N exceeds K, the population growth rate becomes negative, leading to a decline, not the highest growth.",
+          "zh": "当 N 超过 K 时，种群增长率变为负值，导致下降，而不是最高增长。",
+          "es": "Cuando N excede K, la tasa de crecimiento de la población se vuelve negativa, lo que lleva a un declive, no al crecimiento más alto.",
+          "fr": "Lorsque N dépasse K, le taux de croissance de la population devient négatif, entraînant un déclin, et non la croissance la plus élevée.",
+          "de": "Wenn N K überschreitet, wird die Populationswachstumsrate negativ, was zu einem Rückgang und nicht zur höchsten Wachstumsrate führt.",
+          "ja": "NがKを超えると、個体群成長率は負になり、減少を招き、最高の成長ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "In the logistic growth model, the population growth rate (dN/dt = rN(K-N)/K) is maximized when the product of N and (K-N) is maximized. This occurs when N is exactly half of the carrying capacity (K/2). At this point, there are enough individuals to reproduce, and still sufficient resources for growth, leading to the fastest rate of population increase.",
+      "zh": "在逻辑增长模型中，当 N 和 (K-N) 的乘积最大时，种群增长率（dN/dt = rN(K-N)/K）达到最大。这发生在 N 恰好是环境容纳量（K）的一半时（K/2）。此时，有足够的个体进行繁殖，且仍有充足的资源用于增长，从而导致最快的种群增长率。",
+      "es": "En el modelo de crecimiento logístico, la tasa de crecimiento de la población (dN/dt = rN(K-N)/K) se maximiza cuando el producto de N y (K-N) se maximiza. Esto ocurre cuando N es exactamente la mitad de la capacidad de carga (K/2). En este punto, hay suficientes individuos para reproducirse, y aún suficientes recursos para el crecimiento, lo que lleva a la tasa más rápida de aumento de la población.",
+      "fr": "Dans le modèle de croissance logistique, le taux de croissance de la population (dN/dt = rN(K-N)/K) est maximisé lorsque le produit de N et (K-N) est maximisé. Cela se produit lorsque N est exactement la moitié de la capacité de charge (K/2). À ce stade, il y a suffisamment d'individus pour se reproduire, et encore suffisamment de ressources pour la croissance, ce qui conduit au taux le plus rapide d'augmentation de la population.",
+      "de": "Im logistischen Wachstumsmodell wird die Populationswachstumsrate (dN/dt = rN(K-N)/K) maximiert, wenn das Produkt von N und (K-N) maximiert wird. Dies tritt ein, wenn N genau die Hälfte der Kapazitätsgrenze (K/2) beträgt. Zu diesem Zeitpunkt gibt es genügend Individuen zur Fortpflanzung und immer noch ausreichend Ressourcen für das Wachstum, was zur schnellsten Rate des Populationsanstiegs führt.",
+      "ja": "ロジスティック成長モデルでは、個体群成長率（dN/dt = rN(K-N)/K）は、Nと(K-N)の積が最大になるときに最大化されます。これはNが環境収容力（K）のちょうど半分（K/2）であるときに起こります。この時点では、繁殖するのに十分な個体が存在し、成長のための資源もまだ十分にあるため、個体群増加率が最も速くなります。"
+    }
+  },
+  {
+    "page_number": 1249,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following organisms mentioned in the text is an example of semelparity, and what characterizes this reproductive strategy?",
+      "zh": "文本中提到的以下哪种生物是单次繁殖（semelparity）的例子，这种繁殖策略的特点是什么？",
+      "es": "¿Cuál de los siguientes organismos mencionados en el texto es un ejemplo de semelparidad, y qué caracteriza esta estrategia reproductiva?",
+      "fr": "Lequel des organismes suivants mentionnés dans le texte est un exemple de sémelparité, et qu'est-ce qui caractérise cette stratégie de reproduction ?",
+      "de": "Welcher der im Text genannten Organismen ist ein Beispiel für Semelparität, und was kennzeichnet diese Fortpflanzungsstrategie?",
+      "ja": "本文中で言及されている以下の生物のうち、一回繁殖（semelparity）の例として挙げられているのはどれですか？また、この繁殖戦略の特徴は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Loggerhead turtle; reproduces multiple times throughout its life.",
+          "zh": "蠵龟；一生中多次繁殖。",
+          "es": "Tortuga boba; se reproduce varias veces a lo largo de su vida.",
+          "fr": "Tortue caouanne ; se reproduit plusieurs fois au cours de sa vie.",
+          "de": "Unechte Karettschildkröte; reproduziert sich mehrmals im Leben.",
+          "ja": "アカウミガメ；一生のうちに複数回繁殖する。"
+        },
+        "feedback": {
+          "en": "Loggerhead turtles are described as reproducing at about 30 years old, but the text doesn't classify them as semelparous. Semelparity means reproducing once and then dying.",
+          "zh": "蠵龟被描述为大约在30岁时繁殖，但文本并未将其归类为单次繁殖。单次繁殖意味着繁殖一次后死亡。",
+          "es": "Las tortugas bobas se describen como reproduciéndose alrededor de los 30 años, pero el texto no las clasifica como semélparas. La semelparidad significa reproducirse una vez y luego morir.",
+          "fr": "Les tortues caouannes sont décrites comme se reproduisant vers l'âge de 30 ans, mais le texte ne les classe pas comme sémelpares. La sémelparité signifie se reproduire une seule fois et ensuite mourir.",
+          "de": "Unechte Karettschildkröten werden als Tiere beschrieben, die sich mit etwa 30 Jahren fortpflanzen, aber der Text klassifiziert sie nicht als semelpar. Semelparität bedeutet, sich einmal zu reproduzieren und dann zu sterben.",
+          "ja": "アカウミガメは約30歳で繁殖すると記述されていますが、本文では一回繁殖性とは分類されていません。一回繁殖性とは、一度繁殖すると死ぬことを意味します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Coho salmon; reproduces once in a \"big-bang\" event and then dies.",
+          "zh": "银大马哈鱼；在一次“大爆发”事件中繁殖一次然后死亡。",
+          "es": "Salmón coho; se reproduce una vez en un evento de \"gran explosión\" y luego muere.",
+          "fr": "Saumon coho ; se reproduit une fois lors d'un événement de « big-bang » puis meurt.",
+          "de": "Coho-Lachs; reproduziert sich einmal in einem „Big-Bang“-Ereignis und stirbt dann.",
+          "ja": "ギンザケ；一度の「ビッグバン」イベントで繁殖し、その後死ぬ。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Agave; reproduces annually for many years.",
+          "zh": "龙舌兰；每年繁殖多年。",
+          "es": "Agave; se reproduce anualmente durante muchos años.",
+          "fr": "Agave ; se reproduit annuellement pendant de nombreuses années.",
+          "de": "Agave; reproduziert sich viele Jahre lang jährlich.",
+          "ja": "リュウゼツラン；何年にもわたって毎年繁殖する。"
+        },
+        "feedback": {
+          "en": "Agave is an example of semelparity, reproducing once after many years of growth, but it does not reproduce annually.",
+          "zh": "龙舌兰是单次繁殖的例子，经过多年生长后繁殖一次，但它不是每年繁殖。",
+          "es": "El agave es un ejemplo de semelparidad, se reproduce una vez después de muchos años de crecimiento, pero no se reproduce anualmente.",
+          "fr": "L'agave est un exemple de sémelparité, se reproduisant une seule fois après de nombreuses années de croissance, mais il ne se reproduit pas annuellement.",
+          "de": "Die Agave ist ein Beispiel für Semelparität, sie reproduziert sich einmal nach vielen Jahren des Wachstums, aber nicht jährlich.",
+          "ja": "リュウゼツランは一回繁殖性の例であり、何年も成長した後一度だけ繁殖しますが、毎年繁殖するわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Daphnia; has a very long reproductive lifespan.",
+          "zh": "水蚤；具有非常长的繁殖寿命。",
+          "es": "Dafnia; tiene una vida reproductiva muy larga.",
+          "fr": "Daphnie ; a une très longue durée de vie reproductive.",
+          "de": "Daphnia; hat eine sehr lange Fortpflanzungsspanne.",
+          "ja": "ミジンコ；非常に長い繁殖寿命を持つ。"
+        },
+        "feedback": {
+          "en": "The text mentions Daphnia in the context of the logistic growth model, but it does not provide details about its specific reproductive lifespan or classify it as semelparous.",
+          "zh": "文本在逻辑增长模型的背景下提到了水蚤，但没有提供其具体繁殖寿命的详细信息，也没有将其归类为单次繁殖。",
+          "es": "El texto menciona a Daphnia en el contexto del modelo de crecimiento logístico, pero no proporciona detalles sobre su vida reproductiva específica ni la clasifica como semélpara.",
+          "fr": "Le texte mentionne la Daphnie dans le contexte du modèle de croissance logistique, mais il ne fournit pas de détails sur sa durée de vie reproductive spécifique ni ne la classe comme sémelpare.",
+          "de": "Der Text erwähnt Daphnia im Kontext des logistischen Wachstumsmodells, gibt jedoch keine Details zu ihrer spezifischen Reproduktionsdauer an oder klassifiziert sie als semelpar.",
+          "ja": "本文ではミジンコについてロジスティック成長モデルの文脈で言及していますが、その具体的な繁殖寿命に関する詳細や、一回繁殖性であるかどうかの分類は提供されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'The coho salmon (Oncorhynchus kisutch) is often only three or four years old when it spawns... The salmon eventually returns to the same stream to spawn, producing thousands of eggs in a single reproductive opportunity before it dies.' This description perfectly matches the definition of semelparity, which is a 'one-shot' pattern of big-bang reproduction followed by death.",
+      "zh": "文本明确指出：'银大马哈鱼（Oncorhynchus kisutch）产卵时通常只有三到四岁……鲑鱼最终返回同一条河流产卵，在一次繁殖机会中产下数千枚卵后死亡。' 这种描述完美符合单次繁殖（semelparity）的定义，即一次性“大爆发”式繁殖后死亡的模式。",
+      "es": "El texto establece explícitamente: 'El salmón coho (Oncorhynchus kisutch) a menudo tiene solo tres o cuatro años cuando desova... El salmón finalmente regresa al mismo arroyo para desovar, produciendo miles de huevos en una sola oportunidad reproductiva antes de morir.' Esta descripción coincide perfectamente con la definición de semelparidad, que es un patrón de reproducción \"única\" de gran explosión seguido de la muerte.",
+      "fr": "Le texte indique explicitement : 'Le saumon coho (Oncorhynchus kisutch) n'a souvent que trois ou quatre ans lorsqu'il fraye... Le saumon retourne finalement dans le même cours d'eau pour frayer, produisant des milliers d'œufs en une seule opportunité reproductive avant de mourir.' Cette description correspond parfaitement à la définition de la sémelparité, qui est un modèle de reproduction \"unique\" en \"big-bang\" suivi de la mort.",
+      "de": "Der Text besagt ausdrücklich: 'Der Coho-Lachs (Oncorhynchus kisutch) ist oft nur drei oder vier Jahre alt, wenn er laicht... Der Lachs kehrt schließlich in denselben Bach zurück, um zu laichen, wobei er Tausende von Eiern in einer einzigen Fortpflanzungsmöglichkeit produziert, bevor er stirbt.' Diese Beschreibung passt perfekt zur Definition von Semelparität, einem 'Einmal'-Muster der Big-Bang-Reproduktion, gefolgt vom Tod.",
+      "ja": "本文には「ギンザケ（Oncorhynchus kisutch）は産卵時にわずか3〜4歳であることが多く…サケは最終的に同じ小川に戻って産卵し、一度の繁殖機会に数千の卵を産み、その後死ぬ」と明記されています。この記述は、一度きりの「ビッグバン」型の繁殖の後に死ぬという一回繁殖性の定義と完全に一致しています。"
+    }
+  }
+]

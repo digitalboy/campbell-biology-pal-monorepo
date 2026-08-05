@@ -1,0 +1,357 @@
+[
+  {
+    "page_number": 200,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement accurately describes the energy release from ATP hydrolysis or related concepts, according to the provided text?",
+      "zh": "根据所提供的文本，以下哪项陈述准确描述了 ATP 水解释放的能量或相关概念？",
+      "es": "Según el texto proporcionado, ¿qué afirmación describe con precisión la liberación de energía de la hidrólisis de ATP o conceptos relacionados?",
+      "fr": "Selon le texte fourni, quelle affirmation décrit avec précision la libération d'énergie de l'hydrolyse de l'ATP ou des concepts connexes ?",
+      "de": "Welche Aussage beschreibt laut dem bereitgestellten Text die Energiefreisetzung aus der ATP-Hydrolyse oder verwandte Konzepte genau?",
+      "ja": "提供されたテキストによると、ATP加水分解からのエネルギー放出または関連する概念を正確に記述している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Under typical cellular conditions, ATP hydrolysis releases more free energy (ΔG is about -13 kcal/mol) than under standard conditions (ΔG = -7.3 kcal/mol).",
+          "zh": "在典型的细胞条件下，ATP 水解释放的自由能（ΔG 约为 -13 kcal/mol）多于标准条件下（ΔG = -7.3 kcal/mol）。",
+          "es": "En condiciones celulares típicas, la hidrólisis de ATP libera más energía libre (ΔG es de aproximadamente -13 kcal/mol) que en condiciones estándar (ΔG = -7.3 kcal/mol).",
+          "fr": "Dans des conditions cellulaires typiques, l'hydrolyse de l'ATP libère plus d'énergie libre (ΔG est d'environ -13 kcal/mol) que dans des conditions standard (ΔG = -7,3 kcal/mol).",
+          "de": "Unter typischen zellulären Bedingungen setzt die ATP-Hydrolyse mehr freie Energie frei (ΔG beträgt etwa -13 kcal/mol) als unter Standardbedingungen (ΔG = -7,3 kcal/mol).",
+          "ja": "典型的な細胞条件下では、ATP加水分解は標準条件下（ΔG = -7.3 kcal/mol）よりも多くの自由エネルギー（ΔGは約 -13 kcal/mol）を放出します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The term 'high-energy phosphate bonds' accurately describes the unusually strong nature of the bonds between phosphate groups in ATP.",
+          "zh": "“高能磷酸键”一词准确描述了 ATP 中磷酸基团之间键的异常强度。",
+          "es": "El término 'enlaces fosfato de alta energía' describe con precisión la naturaleza inusualmente fuerte de los enlaces entre los grupos fosfato en el ATP.",
+          "fr": "Le terme « liaisons phosphates à haute énergie » décrit avec précision la nature inhabituellement forte des liaisons entre les groupes phosphate de l'ATP.",
+          "de": "Der Begriff „hochenergetische Phosphatbindungen“ beschreibt genau die ungewöhnlich starke Natur der Bindungen zwischen Phosphatgruppen in ATP.",
+          "ja": "「高エネルギーリン酸結合」という用語は、ATP中のリン酸基間の結合の異常に強い性質を正確に記述しています。"
+        },
+        "feedback": {
+          "en": "The text states that 'high-energy phosphate bonds' is a misleading term, as the bonds themselves are not unusually strong.",
+          "zh": "文本指出，“高能磷酸键”是一个误导性术语，因为键本身并非异常强。",
+          "es": "El texto indica que 'enlaces fosfato de alta energía' es un término engañoso, ya que los enlaces en sí mismos no son inusualmente fuertes.",
+          "fr": "Le texte indique que le terme « liaisons phosphates à haute énergie » est trompeur, car les liaisons elles-mêmes ne sont pas inhabituellement fortes.",
+          "de": "Der Text besagt, dass „hochenergetische Phosphatbindungen“ ein irreführender Begriff ist, da die Bindungen selbst nicht ungewöhnlich stark sind.",
+          "ja": "本文は、「高エネルギーリン酸結合」は誤解を招く用語であり、結合自体が異常に強くないためであると述べています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The release of energy during ATP hydrolysis primarily comes from the breaking of the strong phosphate bonds themselves.",
+          "zh": "ATP 水解过程中能量的释放主要来自于强磷酸键本身的断裂。",
+          "es": "La liberación de energía durante la hidrólisis de ATP proviene principalmente de la ruptura de los fuertes enlaces fosfato en sí mismos.",
+          "fr": "La libération d'énergie lors de l'hydrolyse de l'ATP provient principalement de la rupture des liaisons phosphate fortes elles-mêmes.",
+          "de": "Die Energiefreisetzung während der ATP-Hydrolyse stammt hauptsächlich aus dem Bruch der starken Phosphatbindungen selbst.",
+          "ja": "ATP加水分解中のエネルギー放出は、主に強力なリン酸結合自体の切断から生じます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The actual ΔG for ATP hydrolysis is always -7.3 kcal/mol, irrespective of cellular conditions.",
+          "zh": "ATP 水解的实际 ΔG 始终为 -7.3 kcal/mol，与细胞条件无关。",
+          "es": "El ΔG real para la hidrólisis de ATP es siempre -7.3 kcal/mol, independientemente de las condiciones celulares.",
+          "fr": "Le ΔG réel pour l'hydrolyse de l'ATP est toujours de -7,3 kcal/mol, quelles que soient les conditions cellulaires.",
+          "de": "Das tatsächliche ΔG für die ATP-Hydrolyse beträgt immer -7,3 kcal/mol, unabhängig von den zellulären Bedingungen.",
+          "ja": "ATP加水分解の実際のΔGは、細胞条件に関係なく常に-7.3 kcal/molです。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that the actual ΔG in typical cellular conditions is about -13 kcal/mol, differing from the standard condition value.",
+          "zh": "文本明确指出，在典型的细胞条件下，实际 ΔG 约为 -13 kcal/mol，与标准条件下的值不同。",
+          "es": "El texto establece explícitamente que el ΔG real en condiciones celulares típicas es de aproximadamente -13 kcal/mol, difiriendo del valor en condiciones estándar.",
+          "fr": "Le texte indique explicitement que le ΔG réel dans des conditions cellulaires typiques est d'environ -13 kcal/mol, ce qui diffère de la valeur dans des conditions standard.",
+          "de": "Der Text besagt ausdrücklich, dass das tatsächliche ΔG unter typischen zellulären Bedingungen etwa -13 kcal/mol beträgt, was vom Wert unter Standardbedingungen abweicht.",
+          "ja": "本文では、典型的な細胞条件下での実際のΔGは約-13 kcal/molであり、標準条件下の値とは異なると明示されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text clarifies that while the standard ΔG for ATP hydrolysis is -7.3 kcal/mol, under typical cellular conditions, it's about -13 kcal/mol, primarily due to differing reactant and product concentrations. It also emphasizes that the energy comes from the chemical change to a lower free energy state, not from unusually strong phosphate bonds.",
+      "zh": "文本阐明，虽然 ATP 水解的标准 ΔG 为 -7.3 kcal/mol，但在典型的细胞条件下，它约为 -13 kcal/mol，这主要是由于反应物和产物浓度不同。它还强调，能量来自化学变化，达到较低的自由能状态，而不是来自异常强的磷酸键。",
+      "es": "El texto aclara que, si bien el ΔG estándar para la hidrólisis de ATP es de -7.3 kcal/mol, en condiciones celulares típicas, es de aproximadamente -13 kcal/mol, principalmente debido a las diferentes concentraciones de reactivos y productos. También enfatiza que la energía proviene del cambio químico a un estado de menor energía libre, no de enlaces fosfato inusualmente fuertes.",
+      "fr": "Le texte clarifie que si le ΔG standard pour l'hydrolyse de l'ATP est de -7,3 kcal/mol, dans des conditions cellulaires typiques, il est d'environ -13 kcal/mol, principalement en raison de concentrations de réactifs et de produits différentes. Il souligne également que l'énergie provient du changement chimique vers un état de plus faible énergie libre, et non de liaisons phosphates inhabituellement fortes.",
+      "de": "Der Text verdeutlicht, dass das Standard-ΔG für die ATP-Hydrolyse -7,3 kcal/mol beträgt, unter typischen zellulären Bedingungen jedoch etwa -13 kcal/mol, hauptsächlich aufgrund unterschiedlicher Reaktanden- und Produktkonzentrationen. Er betont auch, dass die Energie aus der chemischen Veränderung zu einem Zustand niedrigerer freier Energie stammt und nicht aus ungewöhnlich starken Phosphatbindungen.",
+      "ja": "本文は、ATP加水分解の標準ΔGが-7.3 kcal/molであるのに対し、典型的な細胞条件下では約-13 kcal/molであり、これは主に反応物と生成物の濃度が異なるためであると明確にしています。また、エネルギーは、異常に強いリン酸結合からではなく、より低い自由エネルギー状態への化学変化から生じることを強調しています。"
+    }
+  },
+  {
+    "page_number": 200,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 8.9a and the accompanying text, what is the primary reason for the instability of the triphosphate tail of ATP, often likened to a 'compressed spring'?",
+      "zh": "根据图 8.9a 和随附文本，ATP 三磷酸尾部不稳定的主要原因是什么，它常被比作“压缩弹簧”？",
+      "es": "Según la Figura 8.9a y el texto adjunto, ¿cuál es la razón principal de la inestabilidad de la cola de trifosfato del ATP, a menudo comparada con un 'muelle comprimido'?",
+      "fr": "Selon la figure 8.9a et le texte l'accompagnant, quelle est la principale raison de l'instabilité de la queue triphosphate de l'ATP, souvent comparée à un « ressort comprimé » ?",
+      "de": "Basierend auf Abbildung 8.9a und dem begleitenden Text, was ist der Hauptgrund für die Instabilität des Triphosphat-Schwanzes von ATP, der oft mit einer „komprimierten Feder“ verglichen wird?",
+      "ja": "図8.9aと付随するテキストに基づいて、ATPの三リン酸テールが「圧縮されたばね」に例えられる不安定性の主な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The strong covalent bonds linking the phosphate groups, which store a large amount of energy.",
+          "zh": "连接磷酸基团的强共价键，储存了大量能量。",
+          "es": "Los fuertes enlaces covalentes que unen los grupos fosfato, que almacenan una gran cantidad de energía.",
+          "fr": "Les fortes liaisons covalentes reliant les groupes phosphate, qui stockent une grande quantité d'énergie.",
+          "de": "Die starken kovalenten Bindungen, die die Phosphatgruppen verbinden und eine große Energiemenge speichern.",
+          "ja": "リン酸基を結合する強力な共有結合が大量のエネルギーを蓄積していること。"
+        },
+        "feedback": {
+          "en": "The text states that the phosphate bonds are not unusually strong. The instability comes from repulsion, not bond strength.",
+          "zh": "文本指出磷酸键并非异常强。不稳定性来自排斥而非键强度。",
+          "es": "El texto afirma que los enlaces fosfato no son inusualmente fuertes. La inestabilidad proviene de la repulsión, no de la fuerza del enlace.",
+          "fr": "Le texte indique que les liaisons phosphates ne sont pas inhabituellement fortes. L'instabilité provient de la répulsion, et non de la force de la liaison.",
+          "de": "Der Text besagt, dass die Phosphatbindungen nicht ungewöhnlich stark sind. Die Instabilität resultiert aus Abstoßung, nicht aus der Bindungsstärke.",
+          "ja": "本文は、リン酸結合は異常に強くないと述べています。不安定性は結合の強さではなく反発によるものです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The crowding together of three negatively charged phosphate groups, leading to mutual repulsion.",
+          "zh": "三个带负电荷的磷酸基团拥挤在一起，导致相互排斥。",
+          "es": "El apiñamiento de tres grupos fosfato cargados negativamente, lo que lleva a una repulsión mutua.",
+          "fr": "L'entassement de trois groupes phosphate chargés négativement, entraînant une répulsion mutuelle.",
+          "de": "Das Gedränge von drei negativ geladenen Phosphatgruppen, was zu gegenseitiger Abstoßung führt.",
+          "ja": "3つの負に帯電したリン酸基が密接に配置され、相互反発が生じること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The presence of the ribose sugar and adenine base, which are inherently unstable.",
+          "zh": "核糖和腺嘌呤碱基的存在，它们本身就不稳定。",
+          "es": "La presencia de la azúcar ribosa y la base adenina, que son inherentemente inestables.",
+          "fr": "La présence du sucre ribose et de la base adénine, qui sont intrinsèquement instables.",
+          "de": "Das Vorhandensein des Ribosezuckers und der Adeninbase, die von Natur aus instabil sind.",
+          "ja": "リボース糖とアデニン塩基の存在は、それ自体が本質的に不安定であること。"
+        },
+        "feedback": {
+          "en": "The text specifically attributes the instability to the triphosphate tail, not the ribose or adenine.",
+          "zh": "文本明确将不稳定性归因于三磷酸尾部，而非核糖或腺嘌呤。",
+          "es": "El texto atribuye específicamente la inestabilidad a la cola de trifosfato, no a la ribosa ni a la adenina.",
+          "fr": "Le texte attribue spécifiquement l'instabilité à la queue triphosphate, et non au ribose ou à l'adénine.",
+          "de": "Der Text schreibt die Instabilität ausdrücklich dem Triphosphat-Schwanz zu, nicht der Ribose oder dem Adenin.",
+          "ja": "本文は、不安定性がリボースやアデニンではなく、三リン酸テールに起因すると明確に述べています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The high solubility of ATP in water, causing it to readily dissociate.",
+          "zh": "ATP 在水中溶解度高，导致其容易解离。",
+          "es": "La alta solubilidad del ATP en agua, lo que hace que se disocie fácilmente.",
+          "fr": "La haute solubilité de l'ATP dans l'eau, ce qui la fait facilement se dissocier.",
+          "de": "Die hohe Löslichkeit von ATP in Wasser, wodurch es leicht dissoziiert.",
+          "ja": "ATPの水溶性が高く、容易に解離すること。"
+        },
+        "feedback": {
+          "en": "Solubility in water is not mentioned as the reason for its instability in the context of energy release.",
+          "zh": "文本中未提及水溶性是其能量释放背景下不稳定的原因。",
+          "es": "La solubilidad en agua no se menciona como la razón de su inestabilidad en el contexto de la liberación de energía.",
+          "fr": "La solubilité dans l'eau n'est pas mentionnée comme la raison de son instabilité dans le contexte de la libération d'énergie.",
+          "de": "Die Löslichkeit in Wasser wird im Kontext der Energiefreisetzung nicht als Grund für ihre Instabilität genannt.",
+          "ja": "水への溶解度は、エネルギー放出の文脈でその不安定性の理由として言及されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'all three phosphate groups are negatively charged. These like charges are crowded together, and their mutual repulsion contributes to the instability of this region of the ATP molecule. The triphosphate tail of ATP is the chemical equivalent of a compressed spring.'",
+      "zh": "文本明确指出：“所有三个磷酸基团都带负电荷。这些同性电荷拥挤在一起，它们的相互排斥导致 ATP 分子这一区域的不稳定性。ATP 的三磷酸尾部在化学上相当于一个压缩弹簧。”",
+      "es": "El texto establece explícitamente: 'los tres grupos fosfato están cargados negativamente. Estas cargas similares se agrupan, y su repulsión mutua contribuye a la inestabilidad de esta región de la molécula de ATP. La cola de trifosfato del ATP es el equivalente químico de un muelle comprimido'.",
+      "fr": "Le texte déclare explicitement : « les trois groupes phosphate sont chargés négativement. Ces charges similaires sont entassées et leur répulsion mutuelle contribue à l'instabilité de cette région de la molécule d'ATP. La queue triphosphate de l'ATP est l'équivalent chimique d'un ressort comprimé. »",
+      "de": "Der Text besagt ausdrücklich: „Alle drei Phosphatgruppen sind negativ geladen. Diese gleichen Ladungen drängen sich zusammen, und ihre gegenseitige Abstoßung trägt zur Instabilität dieser Region des ATP-Moleküls bei. Der Triphosphat-Schwanz von ATP ist das chemische Äquivalent einer komprimierten Feder.“",
+      "ja": "本文は、「3つのリン酸基はすべて負に帯電しています。これらの同種電荷が密集しており、それらの相互反発がATP分子のこの領域の不安定性に寄与しています。ATPの三リン酸テールは、圧縮されたばねの化学的な等価物です。」と明確に述べています。"
+    }
+  },
+  {
+    "page_number": 200,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The text describes how the cell uses ATP to perform work, often involving the formation of a 'phosphorylated intermediate.' What is the key role of this phosphorylated intermediate in coupling exergonic and endergonic reactions?",
+      "zh": "文本描述了细胞如何利用 ATP 进行工作，这通常涉及形成“磷酸化中间体”。这种磷酸化中间体在偶联放能反应和吸能反应中的关键作用是什么？",
+      "es": "El texto describe cómo la célula utiliza el ATP para realizar trabajo, a menudo involucrando la formación de un 'intermedio fosforilado'. ¿Cuál es el papel clave de este intermedio fosforilado en el acoplamiento de reacciones exergónicas y endergónicas?",
+      "fr": "Le texte décrit comment la cellule utilise l'ATP pour effectuer du travail, impliquant souvent la formation d'un « intermédiaire phosphorylé ». Quel est le rôle clé de cet intermédiaire phosphorylé dans le couplage des réactions exergoniques et endergoniques ?",
+      "de": "Der Text beschreibt, wie die Zelle ATP nutzt, um Arbeit zu verrichten, oft unter Beteiligung der Bildung eines „phosphorylierten Intermediats“. Welche Schlüsselrolle spielt dieses phosphorylierte Intermediat bei der Kopplung exergoner und endergoner Reaktionen?",
+      "ja": "本文は、細胞がATPを用いてどのように機能するかを説明しており、しばしば「リン酸化中間体」の形成を伴います。このリン酸化中間体が、発エルゴン反応と吸エルゴン反応を結合させる上での重要な役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It directly provides heat to increase the kinetic energy of reactants, thereby speeding up the endergonic reaction.",
+          "zh": "它直接提供热量以增加反应物的动能，从而加速吸能反应。",
+          "es": "Proporciona directamente calor para aumentar la energía cinética de los reactivos, acelerando así la reacción endergónica.",
+          "fr": "Il fournit directement de la chaleur pour augmenter l'énergie cinétique des réactifs, accélérant ainsi la réaction endergonique.",
+          "de": "Es liefert direkt Wärme, um die kinetische Energie der Reaktanten zu erhöhen und so die endergone Reaktion zu beschleunigen.",
+          "ja": "それは直接熱を提供して反応物の運動エネルギーを増加させ、それによって吸エルゴン反応を加速させます。"
+        },
+        "feedback": {
+          "en": "While heat can be generated, the primary role of the phosphorylated intermediate is not to directly provide heat for driving reactions, but to change the free energy of the reactant.",
+          "zh": "虽然可能产生热量，但磷酸化中间体的主要作用不是直接提供热量来驱动反应，而是改变反应物的自由能。",
+          "es": "Aunque se puede generar calor, el papel principal del intermedio fosforilado no es proporcionar directamente calor para impulsar reacciones, sino cambiar la energía libre del reactivo.",
+          "fr": "Bien que de la chaleur puisse être générée, le rôle principal de l'intermédiaire phosphorylé n'est pas de fournir directement de la chaleur pour entraîner des réactions, mais de modifier l'énergie libre du réactif.",
+          "de": "Obwohl Wärme erzeugt werden kann, besteht die Hauptaufgabe des phosphorylierten Intermediats nicht darin, direkt Wärme zur Beschleunigung von Reaktionen bereitzustellen, sondern die freie Energie des Reaktanten zu verändern.",
+          "ja": "熱が発生する可能性はありますが、リン酸化中間体の主な役割は、反応を促進するために直接熱を提供することではなく、反応物質の自由エネルギーを変化させることです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It lowers the activation energy of the endergonic reaction, making it spontaneously occur.",
+          "zh": "它降低了吸能反应的活化能，使其自发发生。",
+          "es": "Disminuye la energía de activación de la reacción endergónica, lo que la hace ocurrir espontáneamente.",
+          "fr": "Il abaisse l'énergie d'activation de la réaction endergonique, la rendant spontanée.",
+          "de": "Es senkt die Aktivierungsenergie der endergonen Reaktion, wodurch diese spontan abläuft.",
+          "ja": "それは吸エルゴン反応の活性化エネルギーを低下させ、自発的に発生させます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It raises the free energy of the reactant molecule to which the phosphate group is transferred, making the subsequent step of the endergonic reaction exergonic.",
+          "zh": "它提高了接受磷酸基团的反应物分子的自由能，使吸能反应的后续步骤变为放能反应。",
+          "es": "Aumenta la energía libre de la molécula reactante a la que se transfiere el grupo fosfato, haciendo que el paso siguiente de la reacción endergónica sea exergónico.",
+          "fr": "Il augmente l'énergie libre de la molécule réactante à laquelle le groupe phosphate est transféré, rendant l'étape ultérieure de la réaction endergonique exergonique.",
+          "de": "Es erhöht die freie Energie des Reaktantenmoleküls, auf das die Phosphatgruppe übertragen wird, wodurch der nachfolgende Schritt der endergonen Reaktion exergon wird.",
+          "ja": "それはリン酸基が転移される反応物質分子の自由エネルギーを高め、吸エルゴン反応の次のステップを発エルゴンにします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It acts as a stable, non-reactive storage molecule for the released energy, preventing its dissipation.",
+          "zh": "它作为释放能量的稳定、非反应性储存分子，防止其消散。",
+          "es": "Actúa como una molécula de almacenamiento estable y no reactiva para la energía liberada, evitando su disipación.",
+          "fr": "Il agit comme une molécule de stockage stable et non réactive pour l'énergie libérée, empêchant sa dissipation.",
+          "de": "Es fungiert als stabiles, nicht reaktives Speichermolekül für die freigesetzte Energie und verhindert deren Dissipation.",
+          "ja": "それは放出されたエネルギーの安定した非反応性貯蔵分子として機能し、その散逸を防ぎます。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states: 'This usually involves phosphorylation, the transfer of a phosphate group from ATP to some other molecule, such as the reactant. The recipient molecule with the phosphate group covalently bonded to it is then called a phosphorylated intermediate. The key to coupling exergonic and endergonic reactions is the formation of this phosphorylated intermediate, which is more reactive.' The phosphorylation of the reactant makes it more unstable and reactive, effectively raising its free energy to a point where the subsequent reaction becomes exergonic.",
+      "zh": "文本指出：“这通常涉及磷酸化，即将磷酸基团从 ATP 转移到其他分子，例如反应物。接受磷酸基团并与之共价键合的分子称为磷酸化中间体。偶联放能反应和吸能反应的关键是形成这种磷酸化中间体，它更具反应性。”反应物的磷酸化使其更不稳定和更具反应性，有效地将其自由能提高到后续反应变为放能的程度。",
+      "es": "El texto dice: 'Esto generalmente implica la fosforilación, la transferencia de un grupo fosfato del ATP a otra molécula, como el reactivo. La molécula receptora con el grupo fosfato unido covalentemente a ella se llama entonces intermedio fosforilado. La clave para acoplar reacciones exergónicas y endergónicas es la formación de este intermedio fosforilado, que es más reactivo.' La fosforilación del reactivo lo hace más inestable y reactivo, elevando efectivamente su energía libre hasta un punto en que la reacción subsiguiente se vuelve exergónica.",
+      "fr": "Le texte indique : « Cela implique généralement la phosphorylation, le transfert d'un groupe phosphate de l'ATP à une autre molécule, telle que le réactif. La molécule réceptrice avec le groupe phosphate lié de manière covalente est alors appelée intermédiaire phosphorylé. La clé du couplage des réactions exergoniques et endergoniques est la formation de cet intermédiaire phosphorylé, qui est plus réactif. » La phosphorylation du réactif le rend plus instable et réactif, augmentant efficacement son énergie libre à un point où la réaction ultérieure devient exergonique.",
+      "de": "Der Text besagt: „Dies beinhaltet normalerweise die Phosphorylierung, die Übertragung einer Phosphatgruppe von ATP auf ein anderes Molekül, wie den Reaktanten. Das Empfängermolekül mit der kovalent gebundenen Phosphatgruppe wird dann als phosphoryliertes Intermediat bezeichnet. Der Schlüssel zur Kopplung exergoner und endergoner Reaktionen ist die Bildung dieses phosphorylierten Intermediats, das reaktiver ist.“ Die Phosphorylierung des Reaktanten macht ihn instabiler und reaktiver, wodurch seine freie Energie effektiv so weit erhöht wird, dass die nachfolgende Reaktion exergonisch wird.",
+      "ja": "本文は、「これは通常、リン酸化、すなわちATPから反応物などの他の分子へのリン酸基の転移を伴います。リン酸基が共有結合した受容体分子は、リン酸化中間体と呼ばれます。発エルゴン反応と吸エルゴン反応を結合させる鍵は、このリン酸化中間体の形成であり、これはより反応性が高いです。」と述べています。反応物をリン酸化することで、反応物がより不安定で反応性が高くなり、その自由エネルギーが効果的に上昇し、その後の反応が発エルゴンになります。"
+    }
+  },
+  {
+    "page_number": 200,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text and Figure 8.9b, what are the direct products of ATP hydrolysis when a water molecule is added?",
+      "zh": "根据文本和图 8.9b，当添加水分子时，ATP 水解的直接产物是什么？",
+      "es": "Según el texto y la Figura 8.9b, ¿cuáles son los productos directos de la hidrólisis de ATP cuando se añade una molécula de agua?",
+      "fr": "Selon le texte et la figure 8.9b, quels sont les produits directs de l'hydrolyse de l'ATP lorsqu'une molécule d'eau est ajoutée ?",
+      "de": "Laut dem Text und Abbildung 8.9b, was sind die direkten Produkte der ATP-Hydrolyse, wenn ein Wassermolekül hinzugefügt wird?",
+      "ja": "本文と図8.9bによると、水分子が加えられたときのATP加水分解の直接の生成物は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "ADP and inorganic phosphate (P_i)",
+          "zh": "ADP 和无机磷酸 (P_i)",
+          "es": "ADP y fosfato inorgánico (P_i)",
+          "fr": "ADP et phosphate inorganique (P_i)",
+          "de": "ADP und anorganisches Phosphat (P_i)",
+          "ja": "ADPと無機リン酸（P_i）"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "AMP and two inorganic phosphates (2 P_i)",
+          "zh": "AMP 和两个无机磷酸 (2 P_i)",
+          "es": "AMP y dos fosfatos inorgánicos (2 P_i)",
+          "fr": "AMP et deux phosphates inorganiques (2 P_i)",
+          "de": "AMP und zwei anorganische Phosphate (2 P_i)",
+          "ja": "AMPと2つの無機リン酸（2 P_i）"
+        },
+        "feedback": {
+          "en": "ATP hydrolysis usually releases one phosphate group, yielding ADP, not AMP and two phosphates.",
+          "zh": "ATP 水解通常释放一个磷酸基团，产生 ADP，而不是 AMP 和两个磷酸。",
+          "es": "La hidrólisis de ATP normalmente libera un grupo fosfato, produciendo ADP, no AMP y dos fosfatos.",
+          "fr": "L'hydrolyse de l'ATP libère généralement un groupe phosphate, produisant de l'ADP, et non de l'AMP et deux phosphates.",
+          "de": "Die ATP-Hydrolyse setzt normalerweise eine Phosphatgruppe frei, wodurch ADP entsteht, nicht AMP und zwei Phosphate.",
+          "ja": "ATP加水分解は通常、1つのリン酸基を放出し、AMPではなくADPを生成します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Adenine, ribose, and three inorganic phosphates (3 P_i)",
+          "zh": "腺嘌呤、核糖和三个无机磷酸 (3 P_i)",
+          "es": "Adenina, ribosa y tres fosfatos inorgánicos (3 P_i)",
+          "fr": "Adénine, ribose et trois phosphates inorganiques (3 P_i)",
+          "de": "Adenin, Ribose und drei anorganische Phosphate (3 P_i)",
+          "ja": "アデニン、リボース、および3つの無機リン酸（3 P_i）"
+        },
+        "feedback": {
+          "en": "This represents a complete breakdown of ATP into its constituent parts, not just the hydrolysis of the terminal phosphate bond.",
+          "zh": "这代表了 ATP 完全分解成其组成部分，而不仅仅是末端磷酸键的水解。",
+          "es": "Esto representa una descomposición completa del ATP en sus partes constituyentes, no solo la hidrólisis del enlace fosfato terminal.",
+          "fr": "Cela représente une dégradation complète de l'ATP en ses parties constitutives, et non seulement l'hydrolyse de la liaison phosphate terminale.",
+          "de": "Dies stellt einen vollständigen Abbau von ATP in seine Bestandteile dar, nicht nur die Hydrolyse der terminalen Phosphatbindung.",
+          "ja": "これはATPがその構成部分に完全に分解されることを表しており、末端リン酸結合の加水分解だけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "ATP and water, as the reaction is reversible.",
+          "zh": "ATP 和水，因为反应是可逆的。",
+          "es": "ATP y agua, ya que la reacción es reversible.",
+          "fr": "ATP et eau, car la réaction est réversible.",
+          "de": "ATP und Wasser, da die Reaktion reversibel ist.",
+          "ja": "ATPと水、反応が可逆的であるため。"
+        },
+        "feedback": {
+          "en": "ATP and water are the reactants, not the products, of hydrolysis.",
+          "zh": "ATP 和水是水解的反应物，而不是产物。",
+          "es": "El ATP y el agua son los reactivos, no los productos, de la hidrólisis.",
+          "fr": "L'ATP et l'eau sont les réactifs, et non les produits, de l'hydrolyse.",
+          "de": "ATP und Wasser sind die Reaktanten, nicht die Produkte, der Hydrolyse.",
+          "ja": "ATPと水は加水分解の反応物であり、生成物ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states: 'When the terminal phosphate bond is broken by addition of a water molecule, a molecule of inorganic phosphate (HOPO3^2-, abbreviated as Pi throughout this book) leaves the ATP, which becomes adenosine diphosphate, or ADP (Figure 8.9b).' The reaction shown is ATP + H2O → ADP + Pi.",
+      "zh": "文本指出：“当末端磷酸键被水分子断裂时，一个无机磷酸分子（HOPO3^2-，本书中简写为 Pi）离开 ATP，ATP 变为腺苷二磷酸，或 ADP（图 8.9b）。”所示反应为 ATP + H2O → ADP + Pi。",
+      "es": "El texto afirma: 'Cuando el enlace fosfato terminal se rompe por la adición de una molécula de agua, una molécula de fosfato inorgánico (HOPO3^2-, abreviado como Pi a lo largo de este libro) sale del ATP, que se convierte en adenosín difosfato, o ADP (Figura 8.9b)'. La reacción mostrada es ATP + H2O → ADP + Pi.",
+      "fr": "Le texte indique : « Lorsque la liaison phosphate terminale est rompue par l'addition d'une molécule d'eau, une molécule de phosphate inorganique (HOPO3^2-, abrégé en Pi tout au long de ce livre) quitte l'ATP, qui devient de l'adénosine diphosphate, ou ADP (Figure 8.9b). » La réaction montrée est ATP + H2O → ADP + Pi.",
+      "de": "Der Text besagt: „Wenn die terminale Phosphatbindung durch Zugabe eines Wassermoleküls gebrochen wird, verlässt ein Molekül anorganisches Phosphat (HOPO3^2-, in diesem Buch als Pi abgekürzt) das ATP, das zu Adenosindiphosphat oder ADP wird (Abbildung 8.9b).“ Die gezeigte Reaktion ist ATP + H2O → ADP + Pi.",
+      "ja": "本文は、「末端リン酸結合が水分子の付加によって切断されると、無機リン酸分子（本書ではPiと略記されるHOPO3^2-）がATPを離れ、ATPはアデノシン二リン酸、すなわちADPになります（図8.9b）。」と述べています。示されている反応はATP + H2O → ADP + Piです。"
+    }
+  }
+]

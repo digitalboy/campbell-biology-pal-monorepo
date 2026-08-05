@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What does it mean if two genes are described as being genetically linked?",
+      "zh": "如果说两个基因是遗传连锁的，这意味着什么？",
+      "es": "¿Qué significa que dos genes se describan como genéticamente ligados?",
+      "fr": "Que signifie le fait que deux gènes soient décrits comme étant génétiquement liés ?",
+      "de": "Was bedeutet es, wenn zwei Gene als genetisch gekoppelt beschrieben werden?",
+      "ja": "2つの遺伝子が遺伝的に連鎖していると説明される場合、それは何を意味しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They are located near each other on the same chromosome.",
+          "zh": "它们位于同一条染色体上且彼此靠近。",
+          "es": "Están ubicados cerca uno del otro en el mismo cromosoma.",
+          "fr": "Ils sont situés l'un près de l'autre sur le même chromosome.",
+          "de": "Sie befinden sich nahe beieinander auf demselben Chromosom.",
+          "ja": "それらは同じ染色体上で互いに近くに位置しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They control the same phenotypic character.",
+          "zh": "它们控制相同的表型性状。",
+          "es": "Controlan el mismo carácter fenotípico.",
+          "fr": "Ils contrôlent le même caractère phénotypique.",
+          "de": "Sie kontrollieren dasselbe phänotypische Merkmal.",
+          "ja": "それらは同じ表現型形質を制御します。"
+        },
+        "feedback": {
+          "en": "Genes controlling the same trait are not necessarily linked. Linkage refers to physical location on a chromosome.",
+          "zh": "控制同一性状的基因不一定连锁。连锁指的是在染色体上的物理位置。",
+          "es": "Los genes que controlan el mismo rasgo no están necesariamente ligados. El ligamiento se refiere a la ubicación física en un cromosoma.",
+          "fr": "Les gènes qui contrôlent le même caractère ne sont pas nécessairement liés. La liaison fait référence à l'emplacement physique sur un chromosome.",
+          "de": "Gene, die dasselbe Merkmal steuern, sind nicht notwendigerweise gekoppelt. Kopplung bezieht sich auf die physikalische Position auf einem Chromosom.",
+          "ja": "同じ形質を制御する遺伝子が必ずしも連鎖しているわけではありません。連鎖とは染色体上の物理的な位置を指します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They are inherited in a way that follows the law of independent assortment.",
+          "zh": "它们的遗传方式遵循自由组合定律。",
+          "es": "Se heredan de una manera que sigue la ley de la distribución independiente.",
+          "fr": "Ils sont hérités d'une manière qui suit la loi de l'assortiment indépendant.",
+          "de": "Sie werden auf eine Weise vererbt, die dem Gesetz der unabhängigen Verteilung folgt.",
+          "ja": "それらは独立の法則に従う方法で遺伝します。"
+        },
+        "feedback": {
+          "en": "This is the opposite. Linked genes are an exception to the law of independent assortment because they tend to be inherited together.",
+          "zh": "这恰恰相反。连锁基因是自由组合定律的一个例外，因为它们倾向于被一起遗传。",
+          "es": "Esto es lo contrario. Los genes ligados son una excepción a la ley de la distribución independiente porque tienden a heredarse juntos.",
+          "fr": "C'est le contraire. Les gènes liés sont une exception à la loi de l'assortiment indépendant car ils ont tendance à être hérités ensemble.",
+          "de": "Das ist das Gegenteil. Gekoppelte Gene sind eine Ausnahme vom Gesetz der unabhängigen Verteilung, da sie dazu neigen, zusammen vererbt zu werden.",
+          "ja": "これは逆です。連鎖遺伝子は、一緒に遺伝する傾向があるため、独立の法則の例外です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They are both located on sex chromosomes.",
+          "zh": "它们都位于性染色体上。",
+          "es": "Ambos se encuentran en los cromosomas sexuales.",
+          "fr": "Ils sont tous deux situés sur les chromosomes sexuels.",
+          "de": "Sie befinden sich beide auf Geschlechtschromosomen.",
+          "ja": "それらは両方とも性染色体上にあります。"
+        },
+        "feedback": {
+          "en": "Genes can be linked on any chromosome, not just sex chromosomes. The example in Figure 15.9 explicitly states the genes are not on a sex chromosome.",
+          "zh": "基因可以在任何染色体上连锁，而不仅仅是性染色体。图 15.9 中的例子明确指出这些基因不在性染色体上。",
+          "es": "Los genes pueden estar ligados en cualquier cromosoma, no solo en los cromosomas sexuales. El ejemplo de la Figura 15.9 establece explícitamente que los genes no están en un cromosoma sexual.",
+          "fr": "Les gènes peuvent être liés sur n'importe quel chromosome, pas seulement sur les chromosomes sexuels. L'exemple de la figure 15.9 indique explicitement que les gènes ne se trouvent pas sur un chromosome sexuel.",
+          "de": "Gene können auf jedem Chromosom gekoppelt sein, nicht nur auf Geschlechtschromosomen. Das Beispiel in Abbildung 15.9 besagt ausdrücklich, dass die Gene nicht auf einem Geschlechtschromosom liegen.",
+          "ja": "遺伝子は性染色体だけでなく、どの染色体上でも連鎖する可能性があります。図15.9の例では、遺伝子が性染色体上にないことが明記されています。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "The first paragraph of Concept 15.3 defines linked genes as 'Genes located near each other on the same chromosome [that] tend to be inherited together in genetic crosses.'",
+      "zh": "概念 15.3 的第一段将连锁基因定义为“位于同一条染色体上且彼此靠近的基因，在遗传杂交中倾向于被一起遗传”。",
+      "es": "El primer párrafo del Concepto 15.3 define los genes ligados como 'Genes ubicados cerca uno del otro en el mismo cromosoma [que] tienden a heredarse juntos en los cruces genéticos'.",
+      "fr": "Le premier paragraphe du concept 15.3 définit les gènes liés comme suit : « Les gènes situés à proximité les uns des autres sur le même chromosome [qui] ont tendance à être hérités ensemble dans les croisements génétiques. »",
+      "de": "Der erste Absatz von Konzept 15.3 definiert gekoppelte Gene als „Gene, die sich auf demselben Chromosom nahe beieinander befinden [und] dazu neigen, bei genetischen Kreuzungen zusammen vererbt zu werden.“",
+      "ja": "コンセプト15.3の最初の段落では、連鎖遺伝子を「同じ染色体上で互いに近くに位置し、遺伝的交配で一緒に遺伝する傾向がある遺伝子」と定義しています。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "In Morgan's experiment (Figure 15.9), he performed a testcross with an F1 dihybrid female (b+b vg+vg). If the two genes for body color and wing size were NOT linked, what would be the expected phenotypic ratio in the offspring?",
+      "zh": "在摩尔根的实验中（图 15.9），他用一只 F1 代双杂合子雌蝇（b+b vg+vg）进行测交。如果控制身体颜色和翅膀大小的两个基因是不连锁的，那么后代的预期表型比率会是什么？",
+      "es": "En el experimento de Morgan (Figura 15.9), realizó un cruzamiento de prueba con una hembra dihíbrida F1 (b+b vg+vg). Si los dos genes para el color del cuerpo y el tamaño de las alas NO estuvieran ligados, ¿cuál sería la proporción fenotípica esperada en la descendencia?",
+      "fr": "Dans l'expérience de Morgan (figure 15.9), il a effectué un croisement test avec une femelle dihybride F1 (b+b vg+vg). Si les deux gènes de la couleur du corps et de la taille des ailes n'étaient PAS liés, quel serait le rapport phénotypique attendu dans la descendance ?",
+      "de": "In Morgans Experiment (Abbildung 15.9) führte er eine Testkreuzung mit einem F1-dihybriden Weibchen (b+b vg+vg) durch. Wenn die beiden Gene für Körperfarbe und Flügelgröße NICHT gekoppelt wären, was wäre das erwartete phänotypische Verhältnis bei den Nachkommen?",
+      "ja": "モーガンの実験（図15.9）では、F1二遺伝子雑種のメス（b+b vg+vg）と検定交雑を行いました。体色と翼の大きさの2つの遺伝子が連鎖していない場合、子孫の予想される表現型の比率はどうなりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1 wild type : 1 black-vestigial",
+          "zh": "1 野生型 : 1 黑身残翅",
+          "es": "1 tipo salvaje : 1 negro-vestigial",
+          "fr": "1 type sauvage : 1 noir-vestigial",
+          "de": "1 Wildtyp : 1 schwarz-vestigial",
+          "ja": "1野生型：1黒色短翅"
+        },
+        "feedback": {
+          "en": "This 1:1 ratio of parental phenotypes would be expected if the genes were completely linked, with no recombination.",
+          "zh": "如果基因完全连锁且没有重组，预期的亲本表型比率将是 1:1。",
+          "es": "Esta proporción 1:1 de fenotipos parentales se esperaría si los genes estuvieran completamente ligados, sin recombinación.",
+          "fr": "Ce rapport 1:1 des phénotypes parentaux serait attendu si les gènes étaient complètement liés, sans recombinaison.",
+          "de": "Dieses 1:1-Verhältnis der elterlichen Phänotypen wäre zu erwarten, wenn die Gene vollständig gekoppelt wären, ohne Rekombination.",
+          "ja": "この1：1の親の表現型の比率は、遺伝子が完全に連鎖しており、組換えがない場合に予想されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "9 wild type : 3 black-normal : 3 gray-vestigial : 1 black-vestigial",
+          "zh": "9 野生型 : 3 黑身正常翅 : 3 灰身残翅 : 1 黑身残翅",
+          "es": "9 tipo salvaje : 3 negro-normal : 3 gris-vestigial : 1 negro-vestigial",
+          "fr": "9 type sauvage : 3 noir-normal : 3 gris-vestigial : 1 noir-vestigial",
+          "de": "9 Wildtyp : 3 schwarz-normal : 3 grau-vestigial : 1 schwarz-vestigial",
+          "ja": "9野生型：3黒色正常翅：3灰色短翅：1黒色短翅"
+        },
+        "feedback": {
+          "en": "This is the ratio for a dihybrid cross between two heterozygotes (F1 x F1), not a testcross.",
+          "zh": "这是两个杂合子（F1 x F1）之间双基因杂交的比率，而不是测交。",
+          "es": "Esta es la proporción para un cruce dihíbrido entre dos heterocigotos (F1 x F1), no un cruce de prueba.",
+          "fr": "C'est le rapport pour un croisement dihybride entre deux hétérozygotes (F1 x F1), pas un croisement test.",
+          "de": "Dies ist das Verhältnis für eine dihybride Kreuzung zwischen zwei Heterozygoten (F1 x F1), keine Testkreuzung.",
+          "ja": "これは、2つのヘテロ接合体（F1 x F1）間の二遺伝子雑種交配の比率であり、検定交雑ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "1 wild type : 1 black-vestigial : 1 gray-vestigial : 1 black-normal",
+          "zh": "1 野生型 : 1 黑身残翅 : 1 灰身残翅 : 1 黑身正常翅",
+          "es": "1 tipo salvaje : 1 negro-vestigial : 1 gris-vestigial : 1 negro-normal",
+          "fr": "1 type sauvage : 1 noir-vestigial : 1 gris-vestigial : 1 noir-normal",
+          "de": "1 Wildtyp : 1 schwarz-vestigial : 1 grau-vestigial : 1 schwarz-normal",
+          "ja": "1野生型：1黒色短翅：1灰色短翅：1黒色正常翅"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "3 wild type : 1 black-vestigial",
+          "zh": "3 野生型 : 1 黑身残翅",
+          "es": "3 tipo salvaje : 1 negro-vestigial",
+          "fr": "3 type sauvage : 1 noir-vestigial",
+          "de": "3 Wildtyp : 1 schwarz-vestigial",
+          "ja": "3野生型：1黒色短翅"
+        },
+        "feedback": {
+          "en": "A 3:1 ratio is characteristic of a monohybrid cross, not a dihybrid testcross.",
+          "zh": "3:1 的比率是单基因杂交的特征，而不是双基因测交。",
+          "es": "Una proporción de 3:1 es característica de un cruce monohíbrido, no de un cruce de prueba dihíbrido.",
+          "fr": "Un rapport 3:1 est caractéristique d'un croisement monohybride, pas d'un croisement test dihybride.",
+          "de": "Ein Verhältnis von 3:1 ist charakteristisch für eine monohybride Kreuzung, nicht für eine dihybride Testkreuzung.",
+          "ja": "3：1の比率は、二遺伝子雑種検定交雑ではなく、単性雑種交配の特徴です。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "If the genes were not linked, they would assort independently. The F1 female (b+b vg+vg) would produce four types of gametes (b+vg+, bvg, b+vg, bvg+) in equal proportions (1:1:1:1). A testcross with a homozygous recessive male (bvg) would then yield offspring with four different phenotypes in a 1:1:1:1 ratio, corresponding to the four types of eggs.",
+      "zh": "如果基因不连锁，它们会自由组合。F1 代雌性（b+b vg+vg）会以相等的比例（1:1:1:1）产生四种类型的配子（b+vg+, bvg, b+vg, bvg+）。与纯合隐性雄性（bvg）的测交将产生具有四种不同表型的后代，比例为 1:1:1:1，对应于四种类型的卵细胞。",
+      "es": "Si los genes no estuvieran ligados, se distribuirían de forma independiente. La hembra F1 (b+b vg+vg) produciría cuatro tipos de gametos (b+vg+, bvg, b+vg, bvg+) en proporciones iguales (1:1:1:1). Un cruzamiento de prueba con un macho homocigoto recesivo (bvg) produciría entonces descendencia con cuatro fenotipos diferentes en una proporción de 1:1:1:1, correspondiente a los cuatro tipos de óvulos.",
+      "fr": "Si les gènes n'étaient pas liés, ils s'assortiraient indépendamment. La femelle F1 (b+b vg+vg) produirait quatre types de gamètes (b+vg+, bvg, b+vg, bvg+) en proportions égales (1:1:1:1). Un croisement test avec un mâle homozygote récessif (bvg) donnerait alors une descendance avec quatre phénotypes différents dans un rapport de 1:1:1:1, correspondant aux quatre types d'ovules.",
+      "de": "Wenn die Gene nicht gekoppelt wären, würden sie sich unabhängig voneinander verteilen. Das F1-Weibchen (b+b vg+vg) würde vier Arten von Gameten (b+vg+, bvg, b+vg, bvg+) in gleichen Anteilen (1:1:1:1) produzieren. Eine Testkreuzung mit einem homozygot rezessiven Männchen (bvg) würde dann Nachkommen mit vier verschiedenen Phänotypen im Verhältnis 1:1:1:1 ergeben, entsprechend den vier Arten von Eizellen.",
+      "ja": "遺伝子が連鎖していない場合、それらは独立して分配されます。F1メス（b+b vg+vg）は、4種類の配偶子（b+vg+、bvg、b+vg、bvg+）を等しい割合（1：1：1：1）で生産します。ホモ接合劣性のオス（bvg）との検定交雑では、4種類の卵子に対応する4つの異なる表現型の子孫が1：1：1：1の比率で生まれます。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "In Morgan's actual experiment, the majority of the testcross offspring had parental phenotypes (wild type or black-vestigial). What did this result indicate?",
+      "zh": "在摩尔根的实际实验中，大多数测交后代都具有亲本表型（野生型或黑身残翅）。这个结果表明了什么？",
+      "es": "En el experimento real de Morgan, la mayoría de la descendencia del cruzamiento de prueba tenía fenotipos parentales (tipo salvaje o negro-vestigial). ¿Qué indicó este resultado?",
+      "fr": "Dans l'expérience réelle de Morgan, la majorité de la descendance du croisement test avait des phénotypes parentaux (type sauvage ou noir-vestigial). Qu'indiquait ce résultat ?",
+      "de": "In Morgans tatsächlichem Experiment hatten die meisten Nachkommen der Testkreuzung elterliche Phänotypen (Wildtyp oder schwarz-vestigial). Was zeigte dieses Ergebnis an?",
+      "ja": "モーガンの実際の実験では、検定交雑の子孫の大部分は親の表現型（野生型または黒色短翅）を持っていました。この結果は何を示しましたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The genes for body color and wing size are on different chromosomes.",
+          "zh": "身体颜色和翅膀大小的基因位于不同的染色体上。",
+          "es": "Los genes para el color del cuerpo y el tamaño de las alas están en diferentes cromosomas.",
+          "fr": "Les gènes de la couleur du corps et de la taille des ailes se trouvent sur des chromosomes différents.",
+          "de": "Die Gene für Körperfarbe und Flügelgröße liegen auf verschiedenen Chromosomen.",
+          "ja": "体色と翼の大きさの遺伝子は異なる染色体上にあります。"
+        },
+        "feedback": {
+          "en": "If they were on different chromosomes, they would assort independently, leading to a 1:1:1:1 ratio of all four phenotypes, which was not observed.",
+          "zh": "如果它们位于不同的染色体上，它们会自由组合，导致所有四种表型的比例为 1:1:1:1，但这并未被观察到。",
+          "es": "Si estuvieran en cromosomas diferentes, se distribuirían de forma independiente, lo que daría lugar a una proporción de 1:1:1:1 de los cuatro fenotipos, lo que no se observó.",
+          "fr": "S'ils se trouvaient sur des chromosomes différents, ils s'assortiraient indépendamment, ce qui conduirait à un rapport de 1:1:1:1 des quatre phénotypes, ce qui n'a pas été observé.",
+          "de": "Wenn sie auf verschiedenen Chromosomen wären, würden sie sich unabhängig voneinander verteilen, was zu einem Verhältnis von 1:1:1:1 aller vier Phänotypen führen würde, was nicht beobachtet wurde.",
+          "ja": "それらが異なる染色体上にある場合、それらは独立して分配され、4つの表現型すべての1：1：1：1の比率になりますが、これは観察されませんでした。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The genes for body color and wing size are genetically linked on the same chromosome.",
+          "zh": "身体颜色和翅膀大小的基因在同一条染色体上遗传连锁。",
+          "es": "Los genes para el color del cuerpo y el tamaño de las alas están genéticamente ligados en el mismo cromosoma.",
+          "fr": "Les gènes de la couleur du corps et de la taille des ailes sont génétiquement liés sur le même chromosome.",
+          "de": "Die Gene für Körperfarbe und Flügelgröße sind auf demselben Chromosom genetisch gekoppelt.",
+          "ja": "体色と翼の大きさの遺伝子は同じ染色体上で遺伝的に連鎖しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The wild-type alleles (b+ and vg+) are dominant over the mutant alleles.",
+          "zh": "野生型等位基因（b+ 和 vg+）对突变等位基因是显性的。",
+          "es": "Los alelos de tipo salvaje (b+ y vg+) son dominantes sobre los alelos mutantes.",
+          "fr": "Les allèles de type sauvage (b+ et vg+) sont dominants sur les allèles mutants.",
+          "de": "Die Wildtyp-Allele (b+ und vg+) sind dominant über die mutierten Allele.",
+          "ja": "野生型の対立遺伝子（b+およびvg+）は、突然変異対立遺伝子に対して優性です。"
+        },
+        "feedback": {
+          "en": "While this is true (as seen in the F1 generation), it doesn't explain the deviation from the 1:1:1:1 ratio in the testcross results.",
+          "zh": "虽然这是事实（如在 F1 代中所见），但这并不能解释测交结果中偏离 1:1:1:1 比率的原因。",
+          "es": "Si bien esto es cierto (como se ve en la generación F1), no explica la desviación de la proporción 1:1:1:1 en los resultados del cruzamiento de prueba.",
+          "fr": "Bien que cela soit vrai (comme on le voit dans la génération F1), cela n'explique pas l'écart par rapport au rapport 1:1:1:1 dans les résultats du croisement test.",
+          "de": "Obwohl dies zutrifft (wie in der F1-Generation zu sehen ist), erklärt es nicht die Abweichung vom 1:1:1:1-Verhältnis in den Testkreuzungsergebnissen.",
+          "ja": "これは事実ですが（F1世代で見られるように）、検定交雑の結果における1：1：1：1の比率からの逸脱を説明するものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A mistake was made in the experiment, and the results are invalid.",
+          "zh": "实验中出现了错误，结果无效。",
+          "es": "Se cometió un error en el experimento y los resultados no son válidos.",
+          "fr": "Une erreur a été commise dans l'expérience et les résultats ne sont pas valides.",
+          "de": "Im Experiment wurde ein Fehler gemacht, und die Ergebnisse sind ungültig.",
+          "ja": "実験で間違いがあり、結果は無効です。"
+        },
+        "feedback": {
+          "en": "The results were not a mistake but a key discovery. The deviation from expected ratios revealed the phenomenon of genetic linkage.",
+          "zh": "这个结果不是一个错误，而是一个关键的发现。与预期比率的偏差揭示了基因连锁的现象。",
+          "es": "Los resultados no fueron un error, sino un descubrimiento clave. La desviación de las proporciones esperadas reveló el fenómeno del ligamiento genético.",
+          "fr": "Les résultats n'étaient pas une erreur mais une découverte clé. L'écart par rapport aux rapports attendus a révélé le phénomène de la liaison génétique.",
+          "de": "Die Ergebnisse waren kein Fehler, sondern eine wichtige Entdeckung. Die Abweichung von den erwarteten Verhältnissen offenbarte das Phänomen der genetischen Kopplung.",
+          "ja": "結果は間違いではなく、重要な発見でした。予想される比率からの逸脱は、遺伝的連鎖の現象を明らかにしました。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The fact that the number of offspring with parental phenotypes (965 wild type, 944 black-vestigial) was far higher than the number with nonparental, recombinant phenotypes (206 gray-vestigial, 185 black-normal) strongly indicated that the genes were inherited together. This deviation from the 1:1:1:1 ratio expected for independent assortment is the classic evidence for genetic linkage.",
+      "zh": "具有亲本表型（965 只野生型，944 只黑身残翅）的后代数量远高于具有非亲本重组表型（206 只灰身残翅，185 只黑身正常翅）的后代数量，这一事实强烈表明这些基因是一起遗传的。这种偏离自由组合预期的 1:1:1:1 比率的情况是遗传连锁的经典证据。",
+      "es": "El hecho de que el número de descendientes con fenotipos parentales (965 de tipo salvaje, 944 de color negro-vestigial) fuera mucho mayor que el número con fenotipos no parentales y recombinantes (206 de color gris-vestigial, 185 de color negro-normal) indicó fuertemente que los genes se heredaban juntos. Esta desviación de la proporción 1:1:1:1 esperada para la distribución independiente es la evidencia clásica del ligamiento genético.",
+      "fr": "Le fait que le nombre de descendants avec des phénotypes parentaux (965 de type sauvage, 944 noir-vestigial) était bien plus élevé que le nombre avec des phénotypes non parentaux et recombinants (206 gris-vestigial, 185 noir-normal) indiquait fortement que les gènes étaient hérités ensemble. Cet écart par rapport au rapport 1:1:1:1 attendu pour un assortiment indépendant est la preuve classique de la liaison génétique.",
+      "de": "Die Tatsache, dass die Anzahl der Nachkommen mit elterlichen Phänotypen (965 Wildtyp, 944 schwarz-vestigial) weitaus höher war als die Anzahl mit nicht-elterlichen, rekombinanten Phänotypen (206 grau-vestigial, 185 schwarz-normal), deutete stark darauf hin, dass die Gene zusammen vererbt wurden. Diese Abweichung vom für die unabhängige Verteilung erwarteten 1:1:1:1-Verhältnis ist der klassische Beweis für die genetische Kopplung.",
+      "ja": "親の表現型（965匹の野生型、944匹の黒色短翅）を持つ子孫の数が、非親の組換え表現型（206匹の灰色短翅、185匹の黒色正常翅）を持つ子孫の数よりもはるかに多かったという事実は、遺伝子が一緒に遺伝することを示唆しています。独立した分配で予想される1：1：1：1の比率からのこの逸脱は、遺伝的連鎖の古典的な証拠です。"
+    }
+  }
+]

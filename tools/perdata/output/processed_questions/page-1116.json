@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 1116,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following correctly describes the typical pathway of information flow through a neuron, starting from input?",
+      "zh": "以下哪项正确描述了信息从输入端开始通过神经元的典型流动路径？",
+      "es": "¿Cuál de las siguientes opciones describe correctamente la vía típica del flujo de información a través de una neurona, comenzando desde la entrada?",
+      "fr": "Laquelle des affirmations suivantes décrit correctement le cheminement typique du flux d'informations à travers un neurone, en partant de l'entrée ?",
+      "de": "Welche der folgenden Optionen beschreibt korrekt den typischen Informationsflussweg durch ein Neuron, beginnend am Eingang?",
+      "ja": "入力から始まるニューロンを介した情報フローの典型的な経路として、以下のうちどれが正しく記述されていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Axon -> Dendrites -> Cell body -> Synaptic terminal",
+          "zh": "轴突 -> 树突 -> 细胞体 -> 突触末梢",
+          "es": "Axón -> Dendritas -> Cuerpo celular -> Terminal sináptica",
+          "fr": "Axone -> Dendrites -> Corps cellulaire -> Terminaison synaptique",
+          "de": "Axon -> Dendriten -> Zellkörper -> Synaptische Endigung",
+          "ja": "軸索 -> 樹状突起 -> 細胞体 -> シナプス終末"
+        },
+        "feedback": {
+          "en": "Incorrect order, axon is for output.",
+          "zh": "顺序不正确，轴突用于输出。",
+          "es": "Orden incorrecto, el axón es para la salida.",
+          "fr": "Ordre incorrect, l'axone est pour la sortie.",
+          "de": "Falsche Reihenfolge, das Axon dient dem Output.",
+          "ja": "順序が間違っています。軸索は出力用です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Dendrites -> Cell body -> Axon -> Synaptic terminal",
+          "zh": "树突 -> 细胞体 -> 轴突 -> 突触末梢",
+          "es": "Dendritas -> Cuerpo celular -> Axón -> Terminal sináptica",
+          "fr": "Dendrites -> Corps cellulaire -> Axone -> Terminaison synaptique",
+          "de": "Dendriten -> Zellkörper -> Axon -> Synaptische Endigung",
+          "ja": "樹状突起 -> 細胞体 -> 軸索 -> シナプス終末"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cell body -> Axon -> Dendrites -> Synaptic terminal",
+          "zh": "细胞体 -> 轴突 -> 树突 -> 突触末梢",
+          "es": "Cuerpo celular -> Axón -> Dendritas -> Terminal sináptica",
+          "fr": "Corps cellulaire -> Axone -> Dendrites -> Terminaison synaptique",
+          "de": "Zellkörper -> Axon -> Dendriten -> Synaptische Endigung",
+          "ja": "細胞体 -> 軸索 -> 樹状突起 -> シナプス終末"
+        },
+        "feedback": {
+          "en": "Incorrect order, cell body processes input, but dendrites are the first reception point.",
+          "zh": "顺序不正确，细胞体处理输入，但树突是第一个接收点。",
+          "es": "Orden incorrecto, el cuerpo celular procesa la entrada, pero las dendritas son el primer punto de recepción.",
+          "fr": "Ordre incorrect, le corps cellulaire traite l'entrée, mais les dendrites sont le premier point de réception.",
+          "de": "Falsche Reihenfolge, der Zellkörper verarbeitet den Input, aber Dendriten sind der erste Empfangspunkt.",
+          "ja": "順序が間違っています。細胞体は入力を処理しますが、樹状突起が最初の受容点です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Synaptic terminal -> Axon -> Cell body -> Dendrites",
+          "zh": "突触末梢 -> 轴突 -> 细胞体 -> 树突",
+          "es": "Terminal sináptica -> Axón -> Cuerpo celular -> Dendritas",
+          "fr": "Terminaison synaptique -> Axone -> Corps cellulaire -> Dendrites",
+          "de": "Synaptische Endigung -> Axon -> Zellkörper -> Dendriten",
+          "ja": "シナプス終末 -> 軸索 -> 細胞体 -> 樹状突起"
+        },
+        "feedback": {
+          "en": "Incorrect order, synaptic terminal is for output, dendrites receive input.",
+          "zh": "顺序不正确，突触末梢用于输出，树突接收输入。",
+          "es": "Orden incorrecto, la terminal sináptica es para la salida, las dendritas reciben la entrada.",
+          "fr": "Ordre incorrect, la terminaison synaptique est pour la sortie, les dendrites reçoivent l'entrée.",
+          "de": "Falsche Reihenfolge, die synaptische Endigung dient dem Output, Dendriten empfangen den Input.",
+          "ja": "順序が間違っています。シナプス終末は出力用であり、樹状突起は入力を受け取ります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Neurons typically receive input via dendrites, which transmit signals to the cell body. The cell body integrates these signals, and if a threshold is reached, an electrical impulse (action potential) is generated and propagated down the axon. Finally, the signal is transmitted to other cells via the synaptic terminal.",
+      "zh": "神经元通常通过树突接收输入，树突将信号传递给细胞体。细胞体整合这些信号，如果达到阈值，就会产生并沿轴突传播电脉冲（动作电位）。最后，信号通过突触末梢传递给其他细胞。",
+      "es": "Las neuronas típicamente reciben información a través de las dendritas, que transmiten señales al cuerpo celular. El cuerpo celular integra estas señales y, si se alcanza un umbral, se genera y propaga un impulso eléctrico (potencial de acción) a lo largo del axón. Finalmente, la señal se transmite a otras células a través de la terminal sináptica.",
+      "fr": "Les neurones reçoivent généralement les informations via les dendrites, qui transmettent les signaux au corps cellulaire. Le corps cellulaire intègre ces signaux et, si un seuil est atteint, un impulsion électrique (potentiel d'action) est générée et propagée le long de l'axone. Enfin, le signal est transmis à d'autres cellules via la terminaison synaptique.",
+      "de": "Neuronen empfangen typischerweise Input über Dendriten, die Signale an den Zellkörper weiterleiten. Der Zellkörper integriert diese Signale, und wenn ein Schwellenwert erreicht wird, wird ein elektrischer Impuls (Aktionspotential) erzeugt und entlang des Axons weitergeleitet. Schließlich wird das Signal über die synaptische Endigung an andere Zellen übertragen.",
+      "ja": "ニューロンは通常、樹状突起を介して入力を受け取り、樹状突起は信号を細胞体に伝達します。細胞体はこれらの信号を統合し、しきい値に達すると、電気インパルス（活動電位）が生成され、軸索を伝って伝播します。最後に、信号はシナプス終末を介して他の細胞に伝達されます。"
+    }
+  },
+  {
+    "page_number": 1116,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the \"Study Tip\" table, which characteristic is associated with a resting potential?",
+      "zh": "根据“学习提示”表格，以下哪项特征与静息电位相关？",
+      "es": "Según la tabla \"Study Tip\", ¿qué característica se asocia con un potencial de reposo?",
+      "fr": "Selon le tableau \"Study Tip\", quelle caractéristique est associée à un potentiel de repos ?",
+      "de": "Laut der Tabelle „Lerntipp“ welche Eigenschaft ist mit einem Ruhepotential verbunden?",
+      "ja": "「学習のヒント」の表によると、以下のどの特徴が静止電位に関連していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It occurs only in the cell body.",
+          "zh": "它只发生在细胞体中。",
+          "es": "Ocurre solo en el cuerpo celular.",
+          "fr": "Il ne se produit que dans le corps cellulaire.",
+          "de": "Es tritt nur im Zellkörper auf.",
+          "ja": "細胞体でのみ発生します。"
+        },
+        "feedback": {
+          "en": "Incorrect, the table indicates it also occurs in the axon (\"Yes\").",
+          "zh": "不正确，表格显示它也发生在轴突中（“是”）。",
+          "es": "Incorrecto, la tabla indica que también ocurre en el axón (\"Sí\").",
+          "fr": "Incorrect, le tableau indique qu'il se produit également dans l'axone (\"Oui\").",
+          "de": "Falsch, die Tabelle zeigt, dass es auch im Axon (\"Ja\") auftritt.",
+          "ja": "間違いです。表では軸索でも発生すると示されています（「はい」）。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It occurs in both the cell body and the axon.",
+          "zh": "它发生在细胞体和轴突中。",
+          "es": "Ocurre tanto en el cuerpo celular como en el axón.",
+          "fr": "Il se produit à la fois dans le corps cellulaire et dans l'axone.",
+          "de": "Es tritt sowohl im Zellkörper als auch im Axon auf.",
+          "ja": "細胞体と軸索の両方で発生します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It has variable strength.",
+          "zh": "它具有可变强度。",
+          "es": "Tiene fuerza variable.",
+          "fr": "Il a une force variable.",
+          "de": "Es hat eine variable Stärke.",
+          "ja": "可変的な強さを持っています。"
+        },
+        "feedback": {
+          "en": "Incorrect, the table indicates it does not have variable strength (\"No\").",
+          "zh": "不正确，表格显示它没有可变强度（“否”）。",
+          "es": "Incorrecto, la tabla indica que no tiene fuerza variable (\"No\").",
+          "fr": "Incorrect, le tableau indique qu'il n'a pas de force variable (\"Non\").",
+          "de": "Falsch, die Tabelle zeigt, dass es keine variable Stärke (\"Nein\") hat.",
+          "ja": "間違いです。表では可変的な強さがないと示されています（「いいえ」）。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It does not occur in the axon.",
+          "zh": "它不发生在轴突中。",
+          "es": "No ocurre en el axón.",
+          "fr": "Il ne se produit pas dans l'axone.",
+          "de": "Es tritt nicht im Axon auf.",
+          "ja": "軸索で発生しません。"
+        },
+        "feedback": {
+          "en": "Incorrect, the table indicates it does occur in the axon (\"Yes\").",
+          "zh": "不正确，表格显示它确实发生在轴突中（“是”）。",
+          "es": "Incorrecto, la tabla indica que sí ocurre en el axón (\"Sí\").",
+          "fr": "Incorrect, le tableau indique qu'il se produit bien dans l'axone (\"Oui\").",
+          "de": "Falsch, die Tabelle zeigt, dass es im Axon (\"Ja\") auftritt.",
+          "ja": "間違いです。表では軸索で発生すると示されています（「はい」）。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The \"Study Tip\" table explicitly states for \"Electrical Resting\" potential that it \"Occurs in cell body? Yes,\" \"Occurs in axon? Yes,\" and \"Variable strength? No.\" Therefore, the correct statement is that it occurs in both the cell body and the axon.",
+      "zh": "“学习提示”表格明确指出，“电静息”电位“发生在细胞体中？是”，“发生在轴突中？是”，并且“强度可变？否”。因此，正确的描述是它发生在细胞体和轴突中。",
+      "es": "La tabla \"Study Tip\" establece explícitamente para el potencial de \"Reposo Eléctrico\" que \"Ocurre en el cuerpo celular? Sí\", \"Ocurre en el axón? Sí\", y \"Fuerza variable? No\". Por lo tanto, la afirmación correcta es que ocurre tanto en el cuerpo celular como en el axón.",
+      "fr": "Le tableau \"Study Tip\" indique explicitement pour le potentiel de \"repos électrique\" qu'il \"se produit dans le corps cellulaire ? Oui\", \"se produit dans l'axone ? Oui\", et \"force variable ? Non\". Par conséquent, l'affirmation correcte est qu'il se produit à la fois dans le corps cellulaire et dans l'axone.",
+      "de": "Die Tabelle „Lerntipp“ gibt für das „elektrische Ruhepotential“ explizit an, dass es „im Zellkörper vorkommt? Ja“, „im Axon vorkommt? Ja“ und „variable Stärke? Nein“ hat. Daher ist die richtige Aussage, dass es sowohl im Zellkörper als auch im Axon vorkommt.",
+      "ja": "「学習のヒント」の表には、「電気的静止電位」について「細胞体で発生しますか？はい」、「軸索で発生しますか？はい」、そして「可変的な強さがありますか？いいえ」と明示されています。したがって、正しい記述は細胞体と軸索の両方で発生するというものです。"
+    }
+  },
+  {
+    "page_number": 1116,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The cone snail's venom blocks information transfer by neurons. Based on the information provided, which of the following processes would be most directly inhibited by this venom?",
+      "zh": "芋螺的毒液会阻断神经元的信息传递。根据提供的信息，这种毒液最直接抑制以下哪种过程？",
+      "es": "El veneno del caracol cono bloquea la transferencia de información por las neuronas. Basándose en la información proporcionada, ¿cuál de los siguientes procesos sería el más directamente inhibido por este veneno?",
+      "fr": "Le venin du cône bloque le transfert d'informations par les neurones. D'après les informations fournies, lequel des processus suivants serait le plus directement inhibé par ce venin ?",
+      "de": "Das Gift der Kegelschnecke blockiert die Informationsübertragung durch Neuronen. Basierend auf den bereitgestellten Informationen, welcher der folgenden Prozesse würde durch dieses Gift am direktesten gehemmt?",
+      "ja": "イモガイの毒はニューロンによる情報伝達を遮断します。提供された情報に基づくと、この毒によって最も直接的に阻害されるプロセスは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The synthesis of new neurons in the nervous system.",
+          "zh": "神经系统中新神经元的合成。",
+          "es": "La síntesis de nuevas neuronas en el sistema nervioso.",
+          "fr": "La synthèse de nouveaux neurones dans le système nerveux.",
+          "de": "Die Synthese neuer Neuronen im Nervensystem.",
+          "ja": "神経系における新しいニューロンの合成。"
+        },
+        "feedback": {
+          "en": "The text specifies \"information transfer\" by *existing* neurons, not their creation.",
+          "zh": "文中明确指出是由*现有*神经元进行“信息传递”，而非新神经元的生成。",
+          "es": "El texto especifica \"transferencia de información\" por neuronas *existentes*, no su creación.",
+          "fr": "Le texte spécifie le \"transfert d'informations\" par des neurones *existants*, et non leur création.",
+          "de": "Der Text spricht von „Informationsübertragung“ durch *bestehende* Neuronen, nicht von deren Entstehung.",
+          "ja": "テキストでは、*既存の*ニューロンによる「情報伝達」が明記されており、その生成ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The reception of sensory input by dendrites.",
+          "zh": "树突对感觉输入的接收。",
+          "es": "La recepción de entrada sensorial por las dendritas.",
+          "fr": "La réception d'informations sensorielles par les dendrites.",
+          "de": "Der Empfang sensorischer Eingaben durch Dendriten.",
+          "ja": "樹状突起による感覚入力の受容。"
+        },
+        "feedback": {
+          "en": "While related to information flow, the venom's effect is described as blocking \"information transfer\" between cells, directly linking to synapses.",
+          "zh": "虽然与信息流相关，但毒液的作用被描述为阻断细胞间的“信息传递”，这直接与突触相关。",
+          "es": "Aunque relacionado con el flujo de información, el efecto del veneno se describe como el bloqueo de la \"transferencia de información\" entre células, lo que lo vincula directamente con las sinapsis.",
+          "fr": "Bien que lié au flux d'informations, l'effet du venin est décrit comme le blocage du \"transfert d'informations\" entre les cellules, ce qui le lie directement aux synapses.",
+          "de": "Obwohl es mit dem Informationsfluss zusammenhängt, wird die Wirkung des Gifts als Blockierung der „Informationsübertragung“ zwischen Zellen beschrieben, was direkt mit Synapsen verbunden ist.",
+          "ja": "情報伝達の流れに関連しますが、毒の効果は細胞間の「情報伝達」を遮断すると説明されており、これは直接シナプスに関係します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The transmission of signals from one neuron to another across a synapse.",
+          "zh": "信号从一个神经元通过突触传递到另一个神经元的过程。",
+          "es": "La transmisión de señales de una neurona a otra a través de una sinapsis.",
+          "fr": "La transmission des signaux d'un neurone à un autre à travers une synapse.",
+          "de": "Die Übertragung von Signalen von einem Neuron zum anderen über eine Synapse.",
+          "ja": "シナプスを介したニューロンから別のニューロンへの信号の伝達。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The maintenance of the resting potential by ion pumps.",
+          "zh": "离子泵维持静息电位的过程。",
+          "es": "El mantenimiento del potencial de reposo por las bombas de iones.",
+          "fr": "Le maintien du potentiel de repos par les pompes ioniques.",
+          "de": "Die Aufrechterhaltung des Ruhepotentials durch Ionenpumpen.",
+          "ja": "イオンポンプによる静止電位の維持。"
+        },
+        "feedback": {
+          "en": "While essential for neuron function, blocking \"information transfer\" implies affecting signal propagation and transmission, particularly at synapses, rather than just baseline maintenance.",
+          "zh": "虽然对神经元功能至关重要，但阻断“信息传递”意味着影响信号的传播和传输，特别是在突触处，而非仅仅是基线维护。",
+          "es": "Aunque esencial para la función neuronal, el bloqueo de la \"transferencia de información\" implica afectar la propagación y transmisión de señales, particularmente en las sinapsis, en lugar de solo el mantenimiento basal.",
+          "fr": "Bien qu'essentiel au fonctionnement des neurones, le blocage du \"transfert d'informations\" implique d'affecter la propagation et la transmission des signaux, notamment au niveau des synapses, plutôt que le simple maintien de la ligne de base.",
+          "de": "Obwohl für die Neuronenfunktion unerlässlich, impliziert die Blockierung der „Informationsübertragung“ eine Beeinflussung der Signalweiterleitung und -übertragung, insbesondere an Synapsen, anstatt nur die grundlegende Aufrechterhaltung.",
+          "ja": "ニューロン機能にとって不可欠ですが、「情報伝達」の遮断は、特にシナプスにおける信号の伝播と伝達に影響を与えることを意味し、単なる基底状態の維持ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that the cone snail venom's lethal nature is its \"ability to block information transfer by neurons.\" The section \"How does a neuron transmit information?\" further explains that neurons \"transmit the information to other cells via specialized junctions called synapses.\" Therefore, blocking information transfer most directly points to inhibition of synaptic transmission.",
+      "zh": "文本指出，芋螺毒液的致命性在于其“阻断神经元信息传递的能力”。“神经元如何传递信息？”一节进一步解释说，神经元“通过称为突触的特殊连接将信息传递给其他细胞”。因此，阻断信息传递最直接地指向抑制突触传递。",
+      "es": "El texto indica que la naturaleza letal del veneno del caracol cono radica en su \"capacidad para bloquear la transferencia de información por las neuronas\". La sección \"¿Cómo transmite una neurona información?\" explica además que las neuronas \"transmiten la información a otras células a través de uniones especializadas llamadas sinapsis\". Por lo tanto, el bloqueo de la transferencia de información apunta más directamente a la inhibición de la transmisión sináptica.",
+      "fr": "Le texte indique que la nature létale du venin de cône est due à sa \"capacité à bloquer le transfert d'informations par les neurones\". La section \"Comment un neurone transmet-il l'information ?\" explique en outre que les neurones \"transmettent l'information à d'autres cellules via des jonctions spécialisées appelées synapses\". Par conséquent, le blocage du transfert d'informations pointe le plus directement vers l'inhibition de la transmission synaptique.",
+      "de": "Der Text besagt, dass die tödliche Natur des Kegelschnecken-Gifts in seiner „Fähigkeit liegt, die Informationsübertragung durch Neuronen zu blockieren“. Der Abschnitt „Wie überträgt ein Neuron Informationen?“ erklärt weiter, dass Neuronen „die Informationen über spezialisierte Verbindungen, Synapsen genannt, an andere Zellen übertragen“. Daher deutet die Blockierung der Informationsübertragung am direktesten auf eine Hemmung der synaptischen Übertragung hin.",
+      "ja": "テキストには、イモガイの毒の致命的な性質が「ニューロンによる情報伝達を遮断する能力」にあると述べられています。「ニューロンはどのように情報を伝達しますか？」のセクションでは、ニューロンが「シナプスと呼ばれる特殊な接合部を介して他の細胞に情報を伝達する」とさらに説明されています。したがって、情報伝達の遮断は、シナプス伝達の阻害に最も直接的に関連します。"
+    }
+  },
+  {
+    "page_number": 1116,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which statement accurately describes electrical signaling along an axon, according to the diagram's description?",
+      "zh": "根据图表的描述，以下哪项陈述准确描述了沿轴突的电信号传导？",
+      "es": "Según la descripción del diagrama, ¿qué afirmación describe con precisión la señalización eléctrica a lo largo de un axón?",
+      "fr": "Selon la description du diagramme, quelle affirmation décrit précisément la signalisation électrique le long d'un axone ?",
+      "de": "Welche Aussage beschreibt gemäß der Diagrammbeschreibung die elektrische Signalübertragung entlang eines Axons genau?",
+      "ja": "図の記述によると、軸索に沿った電気信号伝達を正確に記述しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Electrical impulses travel in multiple directions along the axon.",
+          "zh": "电脉冲沿轴突向多个方向传播。",
+          "es": "Los impulsos eléctricos viajan en múltiples direcciones a lo largo del axón.",
+          "fr": "Les impulsions électriques se propagent dans plusieurs directions le long de l'axone.",
+          "de": "Elektrische Impulse bewegen sich in mehrere Richtungen entlang des Axons.",
+          "ja": "電気インパルスは軸索に沿って複数の方向に伝播します。"
+        },
+        "feedback": {
+          "en": "Incorrect, the description states they travel \"in one direction only.\"",
+          "zh": "不正确，描述指出它们“只沿一个方向”传播。",
+          "es": "Incorrecto, la descripción indica que viajan \"en una sola dirección\".",
+          "fr": "Incorrect, la description indique qu'ils voyagent \"dans une seule direction\".",
+          "de": "Falsch, die Beschreibung besagt, dass sie sich „nur in eine Richtung“ bewegen.",
+          "ja": "間違いです。説明では「一方向にのみ」伝播すると述べられています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The strength of each electrical impulse varies significantly.",
+          "zh": "每个电脉冲的强度变化很大。",
+          "es": "La fuerza de cada impulso eléctrico varía significativamente.",
+          "fr": "L'intensité de chaque impulsion électrique varie considérablement.",
+          "de": "Die Stärke jedes elektrischen Impulses variiert erheblich.",
+          "ja": "各電気インパルスの強度は大幅に異なります。"
+        },
+        "feedback": {
+          "en": "Incorrect, the description states \"Every impulse is identical.\"",
+          "zh": "不正确，描述指出“每个脉冲都是相同的”。",
+          "es": "Incorrecto, la descripción indica que \"Cada impulso es idéntico\".",
+          "fr": "Incorrect, la description indique que \"Chaque impulsion est identique\".",
+          "de": "Falsch, die Beschreibung besagt: „Jeder Impuls ist identisch.“",
+          "ja": "間違いです。説明では「すべてのインパルスは同一である」と述べられています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Electrical impulses are identical, but their frequency of signaling can vary.",
+          "zh": "电脉冲是相同的，但它们的信号频率可以变化。",
+          "es": "Los impulsos eléctricos son idénticos, pero su frecuencia de señalización puede variar.",
+          "fr": "Les impulsions électriques sont identiques, mais leur fréquence de signalisation peut varier.",
+          "de": "Elektrische Impulse sind identisch, aber ihre Signalfrequenz kann variieren.",
+          "ja": "電気インパルスは同一ですが、信号の頻度は変化する可能性があります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Axons primarily receive input from other neurons.",
+          "zh": "轴突主要接收来自其他神经元的输入。",
+          "es": "Los axones reciben principalmente la entrada de otras neuronas.",
+          "fr": "Les axones reçoivent principalement les informations d'autres neurones.",
+          "de": "Axone empfangen hauptsächlich Input von anderen Neuronen.",
+          "ja": "軸索は主に他のニューロンからの入力を受け取ります。"
+        },
+        "feedback": {
+          "en": "Incorrect, dendrites and cell body receive input; axons transmit output.",
+          "zh": "不正确，树突和细胞体接收输入；轴突传递输出。",
+          "es": "Incorrecto, las dendritas y el cuerpo celular reciben la entrada; los axones transmiten la salida.",
+          "fr": "Incorrect, les dendrites et le corps cellulaire reçoivent l'entrée ; les axones transmettent la sortie.",
+          "de": "Falsch, Dendriten und Zellkörper empfangen den Input; Axone übertragen den Output.",
+          "ja": "間違いです。樹状突起と細胞体が主に入力部分であり、軸索は出力部分です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The section \"Electrical signaling along axon\" clearly states: \"Electrical impulses travel in one direction only. Every impulse is identical, but the frequency of signaling varies.\" This directly supports option C.",
+      "zh": "“沿轴突的电信号传导”一节明确指出：“电脉冲只沿一个方向传播。每个脉冲都是相同的，但信号频率可以变化。”这直接支持了选项 C。",
+      "es": "La sección \"Señalización eléctrica a lo largo del axón\" establece claramente: \"Los impulsos eléctricos viajan en una sola dirección. Cada impulso es idéntico, pero la frecuencia de señalización varía.\" Esto apoya directamente la opción C.",
+      "fr": "La section \"Signalisation électrique le long de l'axone\" indique clairement : \"Les impulsions électriques ne voyagent que dans une seule direction. Chaque impulsion est identique, mais la fréquence de signalisation varie.\" Cela soutient directement l'option C.",
+      "de": "Der Abschnitt „Elektrische Signalübertragung entlang des Axons“ besagt klar: „Elektrische Impulse bewegen sich nur in eine Richtung. Jeder Impuls ist identisch, aber die Frequenz der Signalübertragung variiert.“ Dies unterstützt direkt Option C.",
+      "ja": "「軸索に沿った電気信号伝達」のセクションでは、「電気インパルスは一方向にのみ伝播します。すべてのインパルスは同一ですが、信号の頻度は異なります」と明確に述べられています。これはオプションCを直接支持しています。"
+    }
+  }
+]

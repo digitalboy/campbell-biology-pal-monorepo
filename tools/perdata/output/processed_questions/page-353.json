@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In a chi-square (χ²) test for genetic linkage, what is the null hypothesis that is being tested?",
+      "zh": "在用于检验基因连锁的卡方（χ²）检验中，被检验的原假设（零假设）是什么？",
+      "es": "En una prueba de chi-cuadrado (χ²) para el ligamiento genético, ¿cuál es la hipótesis nula que se está probando?",
+      "fr": "Dans un test du chi carré (χ²) pour la liaison génétique, quelle est l'hypothèse nulle qui est testée ?",
+      "de": "Was ist bei einem Chi-Quadrat-Test (χ²) auf Genkopplung die zu testende Nullhypothese?",
+      "ja": "遺伝的連鎖のカイ二乗（χ²）検定において、検定されている帰無仮説は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The two genes are linked.",
+          "zh": "这两个基因是连锁的。",
+          "es": "Los dos genes están ligados.",
+          "fr": "Les deux gènes sont liés.",
+          "de": "Die beiden Gene sind gekoppelt.",
+          "ja": "2つの遺伝子は連鎖しています。"
+        },
+        "feedback": {
+          "en": "This is the alternative hypothesis. The chi-square test starts by assuming there is no effect (no linkage) and then checks if the data provides strong evidence against that assumption.",
+          "zh": "这是备择假设。卡方检验从假设没有效应（不连锁）开始，然后检查数据是否提供了强有力的证据来反驳该假设。",
+          "es": "Esta es la hipótesis alternativa. La prueba de chi-cuadrado comienza asumiendo que no hay efecto (sin ligamiento) y luego comprueba si los datos proporcionan una fuerte evidencia en contra de esa suposición.",
+          "fr": "C'est l'hypothèse alternative. Le test du chi carré commence par supposer qu'il n'y a pas d'effet (pas de liaison), puis vérifie si les données fournissent des preuves solides contre cette hypothèse.",
+          "de": "Dies ist die Alternativhypothese. Der Chi-Quadrat-Test beginnt mit der Annahme, dass kein Effekt (keine Kopplung) vorliegt, und prüft dann, ob die Daten starke Beweise gegen diese Annahme liefern.",
+          "ja": "これは対立仮説です。カイ二乗検定は、効果がない（連鎖がない）と仮定することから始まり、データがその仮定に対する強力な証拠を提供するかどうかを確認します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The two genes are unlinked and assort independently.",
+          "zh": "这两个基因不连锁且自由组合。",
+          "es": "Los dos genes no están ligados y se distribuyen de forma independiente.",
+          "fr": "Les deux gènes ne sont pas liés et s'assortissent indépendamment.",
+          "de": "Die beiden Gene sind nicht gekoppelt und werden unabhängig voneinander vererbt.",
+          "ja": "2つの遺伝子は連鎖しておらず、独立して分配されます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The observed results are different from the expected results.",
+          "zh": "观察结果与期望结果不同。",
+          "es": "Los resultados observados son diferentes de los resultados esperados.",
+          "fr": "Les résultats observés sont différents des résultats attendus.",
+          "de": "Die beobachteten Ergebnisse unterscheiden sich von den erwarteten Ergebnissen.",
+          "ja": "観察された結果は、期待された結果とは異なります。"
+        },
+        "feedback": {
+          "en": "This is an observation you make from the data, not the underlying hypothesis you are testing.",
+          "zh": "这是你从数据中得出的观察，而不是你正在检验的根本假设。",
+          "es": "Esta es una observación que se hace a partir de los datos, no la hipótesis subyacente que se está probando.",
+          "fr": "C'est une observation que vous faites à partir des données, pas l'hypothèse sous-jacente que vous testez.",
+          "de": "Dies ist eine Beobachtung, die Sie aus den Daten machen, nicht die zugrunde liegende Hypothese, die Sie testen.",
+          "ja": "これは、検定している根本的な仮説ではなく、データから得られる観察です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The sample size is large enough for the test to be valid.",
+          "zh": "样本量足够大，足以使检验有效。",
+          "es": "El tamaño de la muestra es lo suficientemente grande para que la prueba sea válida.",
+          "fr": "La taille de l'échantillon est suffisamment grande pour que le test soit valide.",
+          "de": "Die Stichprobengröße ist groß genug, damit der Test gültig ist.",
+          "ja": "サンプルサイズは、検定が有効であるのに十分な大きさです。"
+        },
+        "feedback": {
+          "en": "This is an assumption required for the test, not the hypothesis being tested itself.",
+          "zh": "这是检验所需的一个假设，而不是被检验的假设本身。",
+          "es": "Esta es una suposición requerida para la prueba, no la hipótesis que se está probando en sí.",
+          "fr": "C'est une hypothèse requise pour le test, pas l'hypothèse testée elle-même.",
+          "de": "Dies ist eine für den Test erforderliche Annahme, nicht die zu testende Hypothese selbst.",
+          "ja": "これは検定に必要な仮定であり、検定されている仮説そのものではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text states that the chi-square test compares an observed data set with an expected data set predicted by a hypothesis. In this context, the hypothesis being tested (the null hypothesis) is that 'the genes are unlinked.' The test then determines if the observed data deviates significantly enough to reject this hypothesis.",
+      "zh": "文本指出，卡方检验将观察数据集与由一个假设预测的期望数据集进行比较。在这种情况下，被检验的假设（原假设）是“基因不连锁”。然后，该检验确定观察数据是否偏离得足够大以拒绝该假设。",
+      "es": "El texto establece que la prueba de chi-cuadrado compara un conjunto de datos observados con un conjunto de datos esperados predichos por una hipótesis. En este contexto, la hipótesis que se está probando (la hipótesis nula) es que 'los genes no están ligados'. La prueba luego determina si los datos observados se desvían lo suficiente como para rechazar esta hipótesis.",
+      "fr": "Le texte indique que le test du chi carré compare un ensemble de données observées à un ensemble de données attendues prédit par une hypothèse. Dans ce contexte, l'hypothèse testée (l'hypothèse nulle) est que « les gènes ne sont pas liés ». Le test détermine ensuite si les données observées s'écartent suffisamment pour rejeter cette hypothèse.",
+      "de": "Der Text besagt, dass der Chi-Quadrat-Test einen beobachteten Datensatz mit einem erwarteten Datensatz vergleicht, der durch eine Hypothese vorhergesagt wird. In diesem Zusammenhang ist die zu testende Hypothese (die Nullhypothese), dass „die Gene nicht gekoppelt sind“. Der Test bestimmt dann, ob die beobachteten Daten signifikant genug abweichen, um diese Hypothese abzulehnen.",
+      "ja": "本文では、カイ二乗検定は、観察されたデータセットを仮説によって予測された期待されるデータセットと比較すると述べられています。この文脈では、検定されている仮説（帰無仮説）は「遺伝子は連鎖していない」ということです。次に、検定は、観察されたデータがこの仮説を棄却するのに十分に逸脱しているかどうかを判断します。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "In the simulated experiment with cosmos plants, 900 offspring were produced from a testcross (AaBb x aabb). If the genes were unlinked, what would be the expected number for each of the four phenotypic classes?",
+      "zh": "在波斯菊植物的模拟实验中，通过测交（AaBb x aabb）产生了 900 个后代。如果这两个基因不连锁，那么四个表型类别中每个类别的预期数量会是多少？",
+      "es": "En el experimento simulado con plantas de cosmos, se produjeron 900 descendientes de un cruzamiento de prueba (AaBb x aabb). Si los genes no estuvieran ligados, ¿cuál sería el número esperado para cada una de las cuatro clases fenotípicas?",
+      "fr": "Dans l'expérience simulée avec des plants de cosmos, 900 descendants ont été produits à partir d'un croisement test (AaBb x aabb). Si les gènes n'étaient pas liés, quel serait le nombre attendu pour chacune des quatre classes phénotypiques ?",
+      "de": "In dem simulierten Experiment mit Kosmos-Pflanzen wurden 900 Nachkommen aus einer Testkreuzung (AaBb x aabb) erzeugt. Wenn die Gene nicht gekoppelt wären, was wäre die erwartete Anzahl für jede der vier phänotypischen Klassen?",
+      "ja": "コスモス植物を用いたシミュレーション実験では、検定交雑（AaBb x aabb）から900個の子孫が生まれました。遺伝子が連鎖していない場合、4つの表現型クラスそれぞれの期待される数はいくつですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "900 for each class",
+          "zh": "每个类别 900 个",
+          "es": "900 para cada clase",
+          "fr": "900 pour chaque classe",
+          "de": "900 für jede Klasse",
+          "ja": "各クラス900"
+        },
+        "feedback": {
+          "en": "The total number of offspring is 900, so this number must be distributed among the four classes.",
+          "zh": "后代总数是 900，所以这个数字必须分配到四个类别中。",
+          "es": "El número total de descendientes es 900, por lo que este número debe distribuirse entre las cuatro clases.",
+          "fr": "Le nombre total de descendants est de 900, ce nombre doit donc être réparti entre les quatre classes.",
+          "de": "Die Gesamtzahl der Nachkommen beträgt 900, daher muss diese Zahl auf die vier Klassen verteilt werden.",
+          "ja": "子孫の総数は900なので、この数は4つのクラスに分配されなければなりません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "225 for each class",
+          "zh": "每个类别 225 个",
+          "es": "225 para cada clase",
+          "fr": "225 pour chaque classe",
+          "de": "225 für jede Klasse",
+          "ja": "各クラス225"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A ratio of 9:3:3:1, so 506, 169, 169, and 56 respectively.",
+          "zh": "比例为 9:3:3:1，所以分别是 506、169、169 和 56。",
+          "es": "Una proporción de 9:3:3:1, por lo que 506, 169, 169 y 56 respectivamente.",
+          "fr": "Un rapport de 9:3:3:1, donc 506, 169, 169 et 56 respectivement.",
+          "de": "Ein Verhältnis von 9:3:3:1, also 506, 169, 169 bzw. 56.",
+          "ja": "9：3：3：1の比率なので、それぞれ506、169、169、56です。"
+        },
+        "feedback": {
+          "en": "The 9:3:3:1 ratio is expected for a cross between two dihybrids (F1 x F1), not for a testcross.",
+          "zh": "9:3:3:1 的比率是两个双杂合子（F1 x F1）之间杂交的预期结果，而不是测交。",
+          "es": "La proporción 9:3:3:1 se espera para un cruce entre dos dihíbridos (F1 x F1), no para un cruce de prueba.",
+          "fr": "Le rapport 9:3:3:1 est attendu pour un croisement entre deux dihybrides (F1 x F1), pas pour un croisement test.",
+          "de": "Das Verhältnis 9:3:3:1 wird für eine Kreuzung zwischen zwei Dihybriden (F1 x F1) erwartet, nicht für eine Testkreuzung.",
+          "ja": "9：3：3：1の比率は、検定交雑ではなく、2つの二遺伝子雑種（F1 x F1）間の交配で期待されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It cannot be calculated without knowing the observed numbers.",
+          "zh": "在不知道观察数量的情况下无法计算。",
+          "es": "No se puede calcular sin conocer los números observados.",
+          "fr": "Il ne peut pas être calculé sans connaître les nombres observés.",
+          "de": "Ohne Kenntnis der beobachteten Zahlen kann es nicht berechnet werden.",
+          "ja": "観察された数がわからないと計算できません。"
+        },
+        "feedback": {
+          "en": "The expected numbers are based on the hypothesis (1:1:1:1 ratio) and the total sample size, and are calculated independently of the observed numbers.",
+          "zh": "期望数量是基于假设（1:1:1:1 的比率）和总样本量，并且是独立于观察数量计算的。",
+          "es": "Los números esperados se basan en la hipótesis (proporción 1:1:1:1) y el tamaño total de la muestra, y se calculan independientemente de los números observados.",
+          "fr": "Les nombres attendus sont basés sur l'hypothèse (rapport 1:1:1:1) et la taille totale de l'échantillon, et sont calculés indépendamment des nombres observés.",
+          "de": "Die erwarteten Zahlen basieren auf der Hypothese (Verhältnis 1:1:1:1) und der Gesamtstichprobengröße und werden unabhängig von den beobachteten Zahlen berechnet.",
+          "ja": "期待される数は、仮説（1：1：1：1の比率）と総サンプルサイズに基づいており、観察された数とは独立して計算されます。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The null hypothesis states that the genes are unlinked, which predicts a 1:1:1:1 phenotypic ratio in a testcross. With a total of 900 offspring, the expected number for each of the four classes is 900 / 4 = 225.",
+      "zh": "原假设指出基因不连锁，这预测了在测交中表型比为 1:1:1:1。在总共 900 个后代中，四个类别中每个类别的预期数量是 900 / 4 = 225。",
+      "es": "La hipótesis nula establece que los genes no están ligados, lo que predice una proporción fenotípica de 1:1:1:1 en un cruzamiento de prueba. Con un total de 900 descendientes, el número esperado para cada una de las cuatro clases es 900 / 4 = 225.",
+      "fr": "L'hypothèse nulle stipule que les gènes ne sont pas liés, ce qui prédit un rapport phénotypique de 1:1:1:1 dans un croisement test. Avec un total de 900 descendants, le nombre attendu pour chacune des quatre classes est de 900 / 4 = 225.",
+      "de": "Die Nullhypothese besagt, dass die Gene nicht gekoppelt sind, was ein phänotypisches Verhältnis von 1:1:1:1 in einer Testkreuzung vorhersagt. Bei insgesamt 900 Nachkommen beträgt die erwartete Anzahl für jede der vier Klassen 900 / 4 = 225.",
+      "ja": "帰無仮説は、遺伝子が連鎖していないことを示しており、検定交雑における表現型比が1：1：1：1であることを予測しています。合計900個の子孫がいる場合、4つのクラスそれぞれの期待される数は900 / 4 = 225です。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "After performing a chi-square test, you obtain a P value of 0.03. What does this P value mean, and what conclusion should you draw about your null hypothesis?",
+      "zh": "在进行卡方检验后，你得到了一个 P 值为 0.03。这个 P 值意味着什么？你应该对你的原假设得出什么结论？",
+      "es": "Después de realizar una prueba de chi-cuadrado, obtiene un valor de p de 0.03. ¿Qué significa este valor de p y qué conclusión debe sacar sobre su hipótesis nula?",
+      "fr": "Après avoir effectué un test du chi carré, vous obtenez une valeur p de 0,03. Que signifie cette valeur p et quelle conclusion devriez-vous tirer sur votre hypothèse nulle ?",
+      "de": "Nach Durchführung eines Chi-Quadrat-Tests erhalten Sie einen p-Wert von 0,03. Was bedeutet dieser p-Wert und welche Schlussfolgerung sollten Sie bezüglich Ihrer Nullhypothese ziehen?",
+      "ja": "カイ二乗検定を実行した後、p値が0.03になりました。このp値は何を意味し、帰無仮説についてどのような結論を導き出すべきですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "P > 0.05; do not reject the null hypothesis. The genes are likely unlinked.",
+          "zh": "P > 0.05；不拒绝原假设。基因可能不连锁。",
+          "es": "P > 0.05; no rechace la hipótesis nula. Es probable que los genes no estén ligados.",
+          "fr": "P > 0,05 ; ne rejetez pas l'hypothèse nulle. Les gènes ne sont probablement pas liés.",
+          "de": "P > 0,05; die Nullhypothese nicht verwerfen. Die Gene sind wahrscheinlich nicht gekoppelt.",
+          "ja": "P > 0.05。帰無仮説を棄却しないでください。遺伝子は連鎖していない可能性があります。"
+        },
+        "feedback": {
+          "en": "A P value of 0.03 is less than the standard cutoff of 0.05.",
+          "zh": "0.03 的 P 值小于 0.05 的标准临界值。",
+          "es": "Un valor de p de 0.03 es menor que el punto de corte estándar de 0.05.",
+          "fr": "Une valeur p de 0,03 est inférieure au seuil standard de 0,05.",
+          "de": "Ein p-Wert von 0,03 ist kleiner als der Standard-Grenzwert von 0,05.",
+          "ja": "0.03のp値は、標準的なカットオフ値である0.05未満です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "P ≤ 0.05; reject the null hypothesis. There is evidence that the genes are linked.",
+          "zh": "P ≤ 0.05；拒绝原假设。有证据表明基因是连锁的。",
+          "es": "P ≤ 0.05; rechace la hipótesis nula. Hay evidencia de que los genes están ligados.",
+          "fr": "P ≤ 0,05 ; rejeter l'hypothèse nulle. Il existe des preuves que les gènes sont liés.",
+          "de": "P ≤ 0,05; die Nullhypothese verwerfen. Es gibt Hinweise darauf, dass die Gene gekoppelt sind.",
+          "ja": "P ≤ 0.05。帰無仮説を棄却します。遺伝子が連鎖しているという証拠があります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "P ≤ 0.05; accept the null hypothesis. The genes are unlinked.",
+          "zh": "P ≤ 0.05；接受原假设。基因不连锁。",
+          "es": "P ≤ 0.05; acepte la hipótesis nula. Los genes no están ligados.",
+          "fr": "P ≤ 0,05 ; accepter l'hypothèse nulle. Les gènes ne sont pas liés.",
+          "de": "P ≤ 0,05; die Nullhypothese annehmen. Die Gene sind nicht gekoppelt.",
+          "ja": "P ≤ 0.05。帰無仮説を受容します。遺伝子は連鎖していません。"
+        },
+        "feedback": {
+          "en": "A low P value (≤ 0.05) leads to the rejection, not acceptance, of the null hypothesis.",
+          "zh": "一个低的 P 值（≤ 0.05）会导致拒绝原假设，而不是接受。",
+          "es": "Un valor de p bajo (≤ 0.05) conduce al rechazo, no a la aceptación, de la hipótesis nula.",
+          "fr": "Une faible valeur p (≤ 0,05) conduit au rejet, et non à l'acceptation, de l'hypothèse nulle.",
+          "de": "Ein niedriger p-Wert (≤ 0,05) führt zur Ablehnung, nicht zur Annahme der Nullhypothese.",
+          "ja": "低いp値（≤ 0.05）は、帰無仮説の受容ではなく、棄却につながります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "P > 0.05; reject the null hypothesis. The genes are linked.",
+          "zh": "P > 0.05；拒绝原假设。基因是连锁的。",
+          "es": "P > 0.05; rechace la hipótesis nula. Los genes están ligados.",
+          "fr": "P > 0,05 ; rejeter l'hypothèse nulle. Les gènes sont liés.",
+          "de": "P > 0,05; die Nullhypothese verwerfen. Die Gene sind gekoppelt.",
+          "ja": "P > 0.05。帰無仮説を棄却します。遺伝子は連鎖しています。"
+        },
+        "feedback": {
+          "en": "This incorrectly pairs the P value with the conclusion. A P value greater than 0.05 would mean you fail to reject the null hypothesis.",
+          "zh": "这将 P 值与结论错误地配对了。大于 0.05 的 P 值意味着你无法拒绝原假设。",
+          "es": "Esto empareja incorrectamente el valor de p con la conclusión. Un valor de p mayor que 0.05 significaría que no se puede rechazar la hipótesis nula.",
+          "fr": "Ceci associe incorrectement la valeur p à la conclusion. Une valeur p supérieure à 0,05 signifierait que vous ne parvenez pas à rejeter l'hypothèse nulle.",
+          "de": "Dies paart den p-Wert fälschlicherweise mit der Schlussfolgerung. Ein p-Wert größer als 0,05 würde bedeuten, dass Sie die Nullhypothese nicht verwerfen können.",
+          "ja": "これはp値と結論を誤って組み合わせています。0.05より大きいp値は、帰無仮説を棄却できないことを意味します。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The P value represents the probability that the observed deviation from the expected results could be due to random chance alone, assuming the null hypothesis is true. A P value of 0.03 (or 3%) is less than the standard alpha level of 0.05. This means there is a low probability that the observed results occurred by chance if the genes were unlinked. Therefore, we reject the null hypothesis and conclude that the deviation is statistically significant, providing evidence that the genes are likely linked.",
+      "zh": "P 值代表在原假设为真的前提下，观察到的与预期结果的偏差纯粹由随机机会引起​​的概率。0.03（或 3%）的 P 值小于 0.05 的标准 alpha 水平。这意味着，如果基因不连锁，观察到的结果由偶然机会产生的概率很低。因此，我们拒绝原假设，并得出结论，该偏差具有统计显著性，为基因可能连锁提供了证据。",
+      "es": "El valor de p representa la probabilidad de que la desviación observada de los resultados esperados pueda deberse únicamente al azar, asumiendo que la hipótesis nula es cierta. Un valor de p de 0.03 (o 3%) es menor que el nivel alfa estándar de 0.05. Esto significa que hay una baja probabilidad de que los resultados observados ocurrieran por casualidad si los genes no estuvieran ligados. Por lo tanto, rechazamos la hipótesis nula y concluimos que la desviación es estadísticamente significativa, lo que proporciona evidencia de que los genes probablemente estén ligados.",
+      "fr": "La valeur p représente la probabilité que l'écart observé par rapport aux résultats attendus soit dû au seul hasard, en supposant que l'hypothèse nulle est vraie. Une valeur p de 0,03 (ou 3 %) est inférieure au niveau alpha standard de 0,05. Cela signifie qu'il y a une faible probabilité que les résultats observés se soient produits par hasard si les gènes n'étaient pas liés. Par conséquent, nous rejetons l'hypothèse nulle et concluons que l'écart est statistiquement significatif, fournissant des preuves que les gènes sont probablement liés.",
+      "de": "Der p-Wert stellt die Wahrscheinlichkeit dar, dass die beobachtete Abweichung von den erwarteten Ergebnissen allein auf den Zufall zurückzuführen sein könnte, vorausgesetzt, die Nullhypothese ist wahr. Ein p-Wert von 0,03 (oder 3 %) ist kleiner als das Standard-Alpha-Niveau von 0,05. Dies bedeutet, dass eine geringe Wahrscheinlichkeit besteht, dass die beobachteten Ergebnisse zufällig aufgetreten sind, wenn die Gene nicht gekoppelt waren. Daher lehnen wir die Nullhypothese ab und schließen daraus, dass die Abweichung statistisch signifikant ist, was ein Beweis dafür ist, dass die Gene wahrscheinlich gekoppelt sind.",
+      "ja": "p値は、帰無仮説が真であると仮定した場合に、観察された期待結果からの逸脱がランダムな偶然だけで生じる確率を表します。0.03（または3％）のp値は、標準のアルファレベルである0.05未満です。これは、遺伝子が連鎖していない場合に、観察された結果が偶然に起こった確率が低いことを意味します。したがって、帰無仮説を棄却し、逸脱は統計的に有意であり、遺伝子が連鎖している可能性が高いという証拠を提供すると結論付けます。"
+    }
+  }
+]

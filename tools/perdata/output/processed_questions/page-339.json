@@ -1,0 +1,264 @@
+[
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Juanita was born with polydactyly (six toes on each foot), a dominant trait. Her mother also has polydactyly, but her father does not. Two of her five siblings also have the trait. What must Juanita's genotype be for this character (using D for the dominant allele)?",
+      "zh": "胡安妮塔出生时患有多指症（每只脚有六个脚趾），这是一种显性性状。她的母亲也患有多指症，但她的父亲没有。她的五个兄弟姐妹中有两个也患有此病。那么胡安妮塔关于这个性状的基因型必须是什么（使用 D 代表显性等位基因）？",
+      "es": "Juanita nació con polidactilia (seis dedos en cada pie), un rasgo dominante. Su madre también tiene polidactilia, pero su padre no. Dos de sus cinco hermanos también tienen el rasgo. ¿Cuál debe ser el genotipo de Juanita para este carácter (usando D para el alelo dominante)?",
+      "fr": "Juanita est née avec une polydactylie (six orteils à chaque pied), un trait dominant. Sa mère a également une polydactylie, mais pas son père. Deux de ses cinq frères et sœurs ont également ce trait. Quel doit être le génotype de Juanita pour ce caractère (en utilisant D pour l'allèle dominant) ?",
+      "de": "Juanita wurde mit Polydaktylie (sechs Zehen an jedem Fuß) geboren, einem dominanten Merkmal. Ihre Mutter hat ebenfalls Polydaktylie, ihr Vater jedoch nicht. Zwei ihrer fünf Geschwister haben das Merkmal ebenfalls. Was muss Juanitas Genotyp für dieses Merkmal sein (wobei D für das dominante Allel steht)?",
+      "ja": "フアニータは多指症（各足に6本の指）で生まれました。これは優性形質です。彼女の母親も多指症ですが、父親はそうではありません。彼女の5人の兄弟のうち2人もこの形質を持っています。この形質に対するフアニータの遺伝子型は何でなければなりませんか（優性対立遺伝子にはDを使用）？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "DD",
+          "zh": "DD",
+          "es": "DD",
+          "fr": "DD",
+          "de": "DD",
+          "ja": "DD"
+        },
+        "feedback": {
+          "en": "If Juanita were DD, she would have inherited a D allele from her father. However, her father does not have the trait, so his genotype must be dd and he could not have passed on a D allele.",
+          "zh": "如果胡安妮塔是 DD，她就必须从她父亲那里遗传一个 D 等位基因。然而，她的父亲没有这个性状，所以他的基因型必须是 dd，他不可能传递 D 等位基因。",
+          "es": "Si Juanita fuera DD, habría heredado un alelo D de su padre. Sin embargo, su padre no tiene el rasgo, por lo que su genotipo debe ser dd y no podría haber transmitido un alelo D.",
+          "fr": "Si Juanita était DD, elle aurait hérité d'un allèle D de son père. Cependant, son père n'a pas le trait, donc son génotype doit être dd et il n'aurait pas pu transmettre un allèle D.",
+          "de": "Wenn Juanita DD wäre, hätte sie ein D-Allel von ihrem Vater geerbt. Ihr Vater hat das Merkmal jedoch nicht, also muss sein Genotyp dd sein und er konnte kein D-Allel weitergeben.",
+          "ja": "もしフアニータがDDだったら、彼女は父親からD対立遺伝子を受け継いだはずです。しかし、彼女の父親はその形質を持っていないので、彼の遺伝子型はddでなければならず、D対立遺伝子を伝えることはできませんでした。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Dd",
+          "zh": "Dd",
+          "es": "Dd",
+          "fr": "Dd",
+          "de": "Dd",
+          "ja": "Dd"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "dd",
+          "zh": "dd",
+          "es": "dd",
+          "fr": "dd",
+          "de": "dd",
+          "ja": "dd"
+        },
+        "feedback": {
+          "en": "The dd genotype corresponds to the recessive phenotype (normal number of toes). Juanita has the dominant trait, polydactyly.",
+          "zh": "dd 基因型对应于隐性表型（正常的脚趾数）。胡安妮塔具有显性性状，即多指症。",
+          "es": "El genotipo dd corresponde al fenotipo recesivo (número normal de dedos). Juanita tiene el rasgo dominante, la polidactilia.",
+          "fr": "Le génotype dd correspond au phénotype récessif (nombre normal d'orteils). Juanita a le trait dominant, la polydactylie.",
+          "de": "Der Genotyp dd entspricht dem rezessiven Phänotyp (normale Anzahl von Zehen). Juanita hat das dominante Merkmal, Polydaktylie.",
+          "ja": "dd遺伝子型は劣性表現型（正常な指の数）に対応します。フアニータは優性形質である多指症です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It cannot be determined from the information given.",
+          "zh": "根据所给信息无法确定。",
+          "es": "No se puede determinar con la información proporcionada.",
+          "fr": "Il ne peut pas être déterminé à partir des informations fournies.",
+          "de": "Aus den gegebenen Informationen kann es nicht bestimmt werden.",
+          "ja": "与えられた情報からは決定できません。"
+        },
+        "feedback": {
+          "en": "We can determine her genotype with certainty by analyzing her parents.",
+          "zh": "通过分析她的父母，我们可以确定地推断出她的基因型。",
+          "es": "Podemos determinar su genotipo con certeza analizando a sus padres.",
+          "fr": "Nous pouvons déterminer son génotype avec certitude en analysant ses parents.",
+          "de": "Wir können ihren Genotyp mit Sicherheit bestimmen, indem wir ihre Eltern analysieren.",
+          "ja": "私たちは彼女の両親を分析することによって、彼女の遺伝子型を確実に決定することができます。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "Juanita has the dominant trait (polydactyly), so her genotype must be either DD or Dd. Her father does not have the trait, meaning his genotype is homozygous recessive (dd). Therefore, Juanita must have inherited a d allele from her father. To express the dominant trait, she must have inherited a D allele from her mother. Thus, her genotype must be Dd.",
+      "zh": "胡安妮塔具有显性性状（多指症），所以她的基因型必须是 DD 或 Dd。她的父亲没有这个性状，意味着他的基因型是纯合隐性（dd）。因此，胡安妮塔必须从她父亲那里遗传了一个 d 等位基因。为了表现出显性性状，她必须从她母亲那里遗传了一个 D 等位基因。因此，她的基因型必须是 Dd。",
+      "es": "Juanita tiene el rasgo dominante (polidactilia), por lo que su genotipo debe ser DD o Dd. Su padre no tiene el rasgo, lo que significa que su genotipo es homocigoto recesivo (dd). Por lo tanto, Juanita debe haber heredado un alelo d de su padre. Para expresar el rasgo dominante, debe haber heredado un alelo D de su madre. Por lo tanto, su genotipo debe ser Dd.",
+      "fr": "Juanita a le trait dominant (polydactylie), donc son génotype doit être soit DD, soit Dd. Son père n'a pas le trait, ce qui signifie que son génotype est homozygote récessif (dd). Par conséquent, Juanita doit avoir hérité d'un allèle d de son père. Pour exprimer le trait dominant, elle doit avoir hérité d'un allèle D de sa mère. Ainsi, son génotype doit être Dd.",
+      "de": "Juanita hat das dominante Merkmal (Polydaktylie), also muss ihr Genotyp entweder DD oder Dd sein. Ihr Vater hat das Merkmal nicht, was bedeutet, dass sein Genotyp homozygot rezessiv (dd) ist. Daher muss Juanita ein d-Allel von ihrem Vater geerbt haben. Um das dominante Merkmal auszuprägen, muss sie ein D-Allel von ihrer Mutter geerbt haben. Daher muss ihr Genotyp Dd sein.",
+      "ja": "フアニータは優性形質（多指症）を持っているので、彼女の遺伝子型はDDまたはDdのいずれかでなければなりません。彼女の父親はその形質を持っていないので、彼の遺伝子型はホモ接合劣性（dd）です。したがって、フアニータは父親からd対立遺伝子を受け継いだに違いありません。優性形質を発現するためには、彼女は母親からD対立遺伝子を受け継いだに違いありません。したがって、彼女の遺伝子型はDdでなければなりません。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of Mendel's laws explains the 3:1 ratio of phenotypes seen in a monohybrid cross (e.g., F2 generation of purple and white flowers)?",
+      "zh": "孟德尔的哪条定律解释了在单基因杂交中观察到的 3:1 的表型比率（例如，紫色和白色花的 F2 代）？",
+      "es": "¿Cuál de las leyes de Mendel explica la proporción de fenotipos 3:1 que se observa en un cruce monohíbrido (p. ej., la generación F2 de flores moradas y blancas)?",
+      "fr": "Laquelle des lois de Mendel explique le rapport 3:1 des phénotypes observé dans un croisement monohybride (par exemple, la génération F2 de fleurs violettes et blanches) ?",
+      "de": "Welches der Mendelschen Gesetze erklärt das 3:1-Verhältnis der Phänotypen, das bei einer monohybriden Kreuzung beobachtet wird (z. B. F2-Generation von lila und weißen Blüten)?",
+      "ja": "メンデルの法則のうち、単性雑種交配（例えば、紫と白の花のF2世代）で見られる表現型の3：1の比率を説明するのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The law of independent assortment",
+          "zh": "自由组合定律",
+          "es": "La ley de la distribución independiente",
+          "fr": "La loi de l'assortiment indépendant",
+          "de": "Das Gesetz der unabhängigen Verteilung",
+          "ja": "独立の法則"
+        },
+        "feedback": {
+          "en": "The law of independent assortment applies to dihybrid crosses (involving two different genes) and explains the 9:3:3:1 ratio.",
+          "zh": "自由组合定律适用于双基因杂交（涉及两个不同的基因），并解释了 9:3:3:1 的比率。",
+          "es": "La ley de la distribución independiente se aplica a los cruces dihíbridos (que involucran dos genes diferentes) y explica la proporción 9:3:3:1.",
+          "fr": "La loi de l'assortiment indépendant s'applique aux croisements dihybrides (impliquant deux gènes différents) et explique le rapport 9:3:3:1.",
+          "de": "Das Gesetz der unabhängigen Verteilung gilt für dihybride Kreuzungen (die zwei verschiedene Gene betreffen) und erklärt das Verhältnis 9:3:3:1.",
+          "ja": "独立の法則は、二遺伝子雑種交配（2つの異なる遺伝子が関与）に適用され、9：3：3：1の比率を説明します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The law of segregation",
+          "zh": "分离定律",
+          "es": "La ley de la segregación",
+          "fr": "La loi de la ségrégation",
+          "de": "Das Spaltungsgesetz",
+          "ja": "分離の法則"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The law of dominance",
+          "zh": "显性定律",
+          "es": "La ley de la dominancia",
+          "fr": "La loi de la dominance",
+          "de": "Das Dominanzgesetz",
+          "ja": "優性の法則"
+        },
+        "feedback": {
+          "en": "While the concept of dominance is crucial for the 3:1 ratio to appear, the law of segregation is the fundamental principle that describes how the alleles separate to create this ratio.",
+          "zh": "虽然显性的概念对于出现 3:1 的比率至关重要，但分离定律是描述等位基因如何分离以产生该比率的基本原则。",
+          "es": "Si bien el concepto de dominancia es crucial para que aparezca la proporción 3:1, la ley de la segregación es el principio fundamental que describe cómo se separan los alelos para crear esta proporción.",
+          "fr": "Bien que le concept de dominance soit crucial pour l'apparition du rapport 3:1, la loi de la ségrégation est le principe fondamental qui décrit comment les allèles se séparent pour créer ce rapport.",
+          "de": "Obwohl das Konzept der Dominanz für das Auftreten des 3:1-Verhältnisses entscheidend ist, ist das Spaltungsgesetz das Grundprinzip, das beschreibt, wie sich die Allele trennen, um dieses Verhältnis zu erzeugen.",
+          "ja": "優性の概念は3：1の比率が現れるために重要ですが、分離の法則は、この比率を生み出すためにどのように対立遺伝子が分離するかを説明する基本原則です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The multiplication rule",
+          "zh": "乘法法则",
+          "es": "La regla de la multiplicación",
+          "fr": "La règle de multiplication",
+          "de": "Die Multiplikationsregel",
+          "ja": "乗法の法則"
+        },
+        "feedback": {
+          "en": "The multiplication rule is a tool from probability theory used to calculate the chances of specific outcomes, but it is not a law of inheritance itself.",
+          "zh": "乘法法则是用于计算特定结果概率的概率论工具，但它本身不是遗传定律。",
+          "es": "La regla de la multiplicación es una herramienta de la teoría de la probabilidad que se utiliza para calcular las posibilidades de resultados específicos, pero no es una ley de la herencia en sí misma.",
+          "fr": "La règle de multiplication est un outil de la théorie des probabilités utilisé pour calculer les chances de résultats spécifiques, mais ce n'est pas une loi de l'hérédité en soi.",
+          "de": "Die Multiplikationsregel ist ein Werkzeug aus der Wahrscheinlichkeitstheorie zur Berechnung der Chancen bestimmter Ergebnisse, aber sie ist kein Vererbungsgesetz an sich.",
+          "ja": "乗法の法則は、特定の結果の確率を計算するために使用される確率論のツールですが、それ自体は遺伝の法則ではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The summary for Concept 14.1 explicitly states that the law of segregation 'explains the 3:1 ratio of F2 phenotypes observed when monohybrids cross.' This law dictates that the two alleles for a heritable character separate from each other during gamete formation and end up in different gametes.",
+      "zh": "概念 14.1 的总结明确指出，分离定律“解释了在单基因杂交中观察到的 F2 代表型 3:1 的比率”。该定律规定，决定一个遗传性状的两个等位基因在配子形成过程中彼此分离，并最终进入不同的配子中。",
+      "es": "El resumen del Concepto 14.1 establece explícitamente que la ley de la segregación 'explica la proporción 3:1 de los fenotipos de F2 observados cuando se cruzan monohíbridos'. Esta ley dicta que los dos alelos de un carácter hereditario se separan uno del otro durante la formación de los gametos y terminan en gametos diferentes.",
+      "fr": "Le résumé du concept 14.1 stipule explicitement que la loi de la ségrégation « explique le rapport 3:1 des phénotypes F2 observés lorsque des monohybrides se croisent ». Cette loi dicte que les deux allèles d'un caractère héréditaire se séparent l'un de l'autre lors de la formation des gamètes et se retrouvent dans des gamètes différents.",
+      "de": "Die Zusammenfassung für Konzept 14.1 besagt ausdrücklich, dass das Spaltungsgesetz „das 3:1-Verhältnis der F2-Phänotypen erklärt, das bei der Kreuzung von Monohybriden beobachtet wird.“ Dieses Gesetz schreibt vor, dass sich die beiden Allele für ein vererbbares Merkmal während der Gametenbildung voneinander trennen und in verschiedenen Gameten landen.",
+      "ja": "コンセプト14.1の要約では、分離の法則は「単性雑種が交配するときに観察されるF2表現型の3：1の比率を説明する」と明確に述べられています。この法則は、遺伝的形質の2つの対立遺伝子が配偶子形成中に互いに分離し、異なる配偶子に行き着くことを規定しています。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Concept Check 14.4 asks to compare the phenotypic ratio of a monohybrid cross for flower color (F2 gen) with the offspring of the second-generation couple in the PTC tasting pedigree (Fig 14.15b). What are the two ratios, and what accounts for the difference?",
+      "zh": "“概念检查 14.4”要求比较花色单基因杂交的表型比率（F2 代）与 PTC 味盲谱系图中第二代夫妇的后代（图 14.15b）的表型比率。这两个比率是什么？造成差异的原因是什么？",
+      "es": "La Comprobación de Conceptos 14.4 pide comparar la proporción fenotípica de un cruce monohíbrido para el color de la flor (gen F2) con la descendencia de la pareja de segunda generación en el pedigrí de degustación de PTC (Fig. 14.15b). ¿Cuáles son las dos proporciones y qué explica la diferencia?",
+      "fr": "Le test de connaissances 14.4 demande de comparer le rapport phénotypique d'un croisement monohybride pour la couleur des fleurs (gène F2) avec la descendance du couple de deuxième génération dans le pedigree de dégustation du PTC (Fig 14.15b). Quels sont les deux rapports et qu'est-ce qui explique la différence ?",
+      "de": "Konzept-Check 14.4 bittet darum, das phänotypische Verhältnis einer monohybriden Kreuzung für die Blütenfarbe (F2-Gen) mit den Nachkommen des Paares der zweiten Generation im PTC-Verkostungsstammbaum (Abb. 14.15b) zu vergleichen. Was sind die beiden Verhältnisse und was erklärt den Unterschied?",
+      "ja": "コンセプトチェック14.4では、花の色に関する単性雑種交配（F2遺伝子）の表現型比と、PTC味覚家系図（図14.15b）の第2世代カップルの子孫の表現型比を比較するように求められています。2つの比率は何ですか？また、その違いは何に起因しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Both are 3:1; there is no difference.",
+          "zh": "两者都是 3:1；没有区别。",
+          "es": "Ambos son 3:1; no hay diferencia.",
+          "fr": "Les deux sont 3:1 ; il n'y a pas de différence.",
+          "de": "Beide sind 3:1; es gibt keinen Unterschied.",
+          "ja": "どちらも3：1です。違いはありません。"
+        },
+        "feedback": {
+          "en": "The ratios are different. The flower cross shows complete dominance, while the PTC trait in that specific cross shows a different pattern.",
+          "zh": "比率是不同的。花卉杂交显示完全显性，而该特定杂交中的 PTC 性状显示出不同的模式。",
+          "es": "Las proporciones son diferentes. El cruce de flores muestra una dominancia completa, mientras que el rasgo de PTC en ese cruce específico muestra un patrón diferente.",
+          "fr": "Les rapports sont différents. Le croisement des fleurs montre une dominance complète, tandis que le trait PTC dans ce croisement spécifique montre un schéma différent.",
+          "de": "Die Verhältnisse sind unterschiedlich. Die Blütenkreuzung zeigt eine vollständige Dominanz, während das PTC-Merkmal in dieser spezifischen Kreuzung ein anderes Muster zeigt.",
+          "ja": "比率は異なります。花の交配は完全優性を示しますが、その特定の交配におけるPTC形質は異なるパターンを示します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "3:1 (dominant:recessive) and 1:2:1 (taster:taster:non-taster); difference is due to complete vs. incomplete dominance.",
+          "zh": "3:1（显性:隐性）和 1:2:1（能尝味:能尝味:不能尝味）；差异是由于完全显性与不完全显性。",
+          "es": "3:1 (dominante:recesivo) y 1:2:1 (catador:catador:no catador); la diferencia se debe a la dominancia completa vs. incompleta.",
+          "fr": "3:1 (dominant:récessif) et 1:2:1 (goûteur:goûteur:non-goûteur) ; la différence est due à la dominance complète par rapport à la dominance incomplète.",
+          "de": "3:1 (dominant:rezessiv) und 1:2:1 (Schmecker:Schmecker:Nicht-Schmecker); der Unterschied beruht auf vollständiger vs. unvollständiger Dominanz.",
+          "ja": "3：1（優性：劣性）と1：2：1（味覚あり：味覚あり：味覚なし）。違いは完全優性と不完全優性によるものです。"
+        },
+        "feedback": {
+          "en": "The ratio for the PTC cross is correct, but the reason is not incomplete dominance. The ability to taste PTC is a dominant trait.",
+          "zh": "PTC 杂交的比率是正确的，但原因不是不完全显性。尝出 PTC 的能力是显性性状。",
+          "es": "La proporción para el cruce de PTC es correcta, pero la razón no es la dominancia incompleta. La capacidad de saborear el PTC es un rasgo dominante.",
+          "fr": "Le rapport pour le croisement PTC est correct, mais la raison n'est pas la dominance incomplète. La capacité à goûter le PTC est un trait dominant.",
+          "de": "Das Verhältnis für die PTC-Kreuzung ist korrekt, aber der Grund ist keine unvollständige Dominanz. Die Fähigkeit, PTC zu schmecken, ist ein dominantes Merkmal.",
+          "ja": "PTC交配の比率は正しいですが、理由は不完全優性ではありません。PTCを味わう能力は優性形質です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "3:1 (dominant:recessive) and 1:2:1 (homozygous dominant:heterozygous:homozygous recessive); difference is comparing phenotype ratio to genotype ratio.",
+          "zh": "3:1（显性:隐性）和 1:2:1（纯合显性:杂合子:纯合隐性）；差异在于表型比率与基因型比率的比较。",
+          "es": "3:1 (dominante:recesivo) y 1:2:1 (homocigoto dominante:heterocigoto:homocigoto recesivo); la diferencia es comparar la proporción de fenotipo con la proporción de genotipo.",
+          "fr": "3:1 (dominant:récessif) et 1:2:1 (homozygote dominant:hétérozygote:homozygote récessif) ; la différence consiste à comparer le rapport phénotypique au rapport génotypique.",
+          "de": "3:1 (dominant:rezessiv) und 1:2:1 (homozygot dominant:heterozygot:homozygot rezessiv); der Unterschied besteht im Vergleich des Phänotypverhältnisses mit dem Genotypverhältnis.",
+          "ja": "3：1（優性：劣性）と1：2：1（ホモ接合優性：ヘテロ接合体：ホモ接合劣性）。違いは表現型比と遺伝子型比を比較していることです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "3:1 (dominant:recessive) and 3:1 (taster:non-taster); the difference is due to the specific parents in the pedigree cross (Tt x Tt) versus a general F1 cross.",
+          "zh": "3:1（显性:隐性）和 3:1（能尝味:不能尝味）；差异是由于谱系图中的特定父母（Tt x Tt）与一般的 F1 代杂交。",
+          "es": "3:1 (dominante:recesivo) y 3:1 (catador:no catador); la diferencia se debe a los padres específicos en el cruce del pedigrí (Tt x Tt) versus un cruce F1 general.",
+          "fr": "3:1 (dominant:récessif) et 3:1 (goûteur:non-goûteur) ; la différence est due aux parents spécifiques dans le croisement généalogique (Tt x Tt) par rapport à un croisement F1 général.",
+          "de": "3:1 (dominant:rezessiv) und 3:1 (Schmecker:Nicht-Schmecker); der Unterschied beruht auf den spezifischen Eltern in der Stammbaumkreuzung (Tt x Tt) im Vergleich zu einer allgemeinen F1-Kreuzung.",
+          "ja": "3：1（優性：劣性）と3：1（味覚あり：味覚なし）。違いは、一般的なF1交配と比較した、家系図交配における特定の親（Tt x Tt）によるものです。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The flower cross (F1 heterozygotes self-pollinating) yields a 3:1 phenotypic ratio (purple:white) but a 1:2:1 genotypic ratio (PP:Pp:pp). The PTC cross in the pedigree involves two known heterozygotes (Tt x Tt). The question asks for the phenotypic ratio of their offspring, which is 3 tasters (TT, Tt) to 1 non-taster (tt), or 3:1. The question in the book is tricky, it asks for the phenotypic ratio of the *second generation couple* in 14.15b, which is 1:2:1 (TT or Tt : Tt : tt). The difference arises because one is a classic phenotypic ratio of complete dominance, while the other is a genotypic ratio which becomes the phenotypic ratio in cases of incomplete dominance or codominance.",
+      "zh": "花卉杂交（F1 杂合子自交）产生 3:1 的表型比（紫色:白色），但基因型比为 1:2:1 (PP:Pp:pp)。谱系图中的 PTC 杂交涉及两个已知的杂合子 (Tt x Tt)。问题要求他们后代的表型比，即 3 个能尝味者（TT, Tt）对 1 个不能尝味者（tt），即 3:1。书中的问题很巧妙，它要求的是 14.15b 中第二代夫妇后代的表型比，即 1:2:1 (TT 或 Tt : Tt : tt)。差异的产生是因为一个是完全显性的经典表型比，而另一个是基因型比，在不完全显性或共显性的情况下，基因型比等于表型比。",
+      "es": "El cruce de flores (autopolinización de heterocigotos F1) produce una proporción fenotípica de 3:1 (púrpura:blanco) pero una proporción genotípica de 1:2:1 (PP:Pp:pp). El cruce de PTC en el pedigrí involucra a dos heterocigotos conocidos (Tt x Tt). La pregunta pide la proporción fenotípica de su descendencia, que es de 3 catadores (TT, Tt) a 1 no catador (tt), o 3:1. La pregunta en el libro es engañosa, pide la proporción fenotípica de la pareja de la segunda generación en 14.15b, que es 1:2:1 (TT o Tt : Tt : tt). La diferencia surge porque una es una proporción fenotípica clásica de dominancia completa, mientras que la otra es una proporción genotípica que se convierte en la proporción fenotípica en casos de dominancia incompleta o codominancia.",
+      "fr": "Le croisement des fleurs (autofécondation des hétérozygotes F1) donne un rapport phénotypique de 3:1 (violet:blanc) mais un rapport génotypique de 1:2:1 (PP:Pp:pp). Le croisement PTC dans le pedigree implique deux hétérozygotes connus (Tt x Tt). La question demande le rapport phénotypique de leur descendance, qui est de 3 goûteurs (TT, Tt) pour 1 non-goûteur (tt), soit 3:1. La question dans le livre est délicate, elle demande le rapport phénotypique du couple de la deuxième génération en 14.15b, qui est de 1:2:1 (TT ou Tt : Tt : tt). La différence vient du fait que l'un est un rapport phénotypique classique de dominance complète, tandis que l'autre est un rapport génotypique qui devient le rapport phénotypique en cas de dominance incomplète ou de codominance.",
+      "de": "Die Blütenkreuzung (Selbstbestäubung von F1-Heterozygoten) ergibt ein phänotypisches Verhältnis von 3:1 (lila:weiß), aber ein genotypisches Verhältnis von 1:2:1 (PP:Pp:pp). Die PTC-Kreuzung im Stammbaum umfasst zwei bekannte Heterozygoten (Tt x Tt). Die Frage fragt nach dem phänotypischen Verhältnis ihrer Nachkommen, das 3 Schmecker (TT, Tt) zu 1 Nicht-Schmecker (tt) oder 3:1 beträgt. Die Frage im Buch ist knifflig, sie fragt nach dem phänotypischen Verhältnis des Paares der zweiten Generation in 14.15b, das 1:2:1 (TT oder Tt : Tt : tt) beträgt. Der Unterschied ergibt sich, weil das eine ein klassisches phänotypisches Verhältnis vollständiger Dominanz ist, während das andere ein genotypisches Verhältnis ist, das bei unvollständiger Dominanz oder Kodominanz zum phänotypischen Verhältnis wird.",
+      "ja": "花の交配（F1ヘテロ接合体の自家受粉）は、3：1の表現型比（紫：白）を生じますが、遺伝子型比は1：2：1（PP：Pp：pp）です。家系図のPTC交配には、2つの既知のヘテロ接合体（Tt x Tt）が関与します。質問は、彼らの子孫の表現型比を尋ねており、それは3人の味覚あり（TT、Tt）対1人の味覚なし（tt）、つまり3：1です。本の質問はトリッキーで、14.15bの第2世代カップルの子孫の表現型比を尋ねており、それは1：2：1（TTまたはTt：Tt：tt）です。違いは、一方が完全優性の古典的な表現型比であるのに対し、もう一方は不完全優性または共優性の場合に表現型比になる遺伝子型比であるために生じます。"
+    }
+  }
+]

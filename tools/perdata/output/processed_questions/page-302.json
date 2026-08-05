@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the interview, what was the key evidence that led Francisco Mojica to realize that CRISPR was a prokaryotic immune system?",
+      "zh": "根据访谈，什么关键证据让弗朗西斯科·莫希卡意识到CRISPR是一种原核生物的免疫系统？",
+      "es": "Según la entrevista, ¿cuál fue la evidencia clave que llevó a Francisco Mojica a darse cuenta de que CRISPR era un sistema inmune procariota?",
+      "fr": "Selon l'interview, quelle a été la preuve clé qui a conduit Francisco Mojica à réaliser que CRISPR était un système immunitaire procaryote ?",
+      "de": "Was war laut dem Interview der entscheidende Beweis, der Francisco Mojica zu der Erkenntnis brachte, dass CRISPR ein prokaryotisches Immunsystem ist?",
+      "ja": "インタビューによると、フランシスコ・モヒカがCRISPRが原核生物の免疫システムであると気づくきっかけとなった重要な証拠は何でしたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The repeats were palindromic and could form secondary structures.",
+          "zh": "重复序列是回文的，可以形成二级结构。",
+          "es": "Las repeticiones eran palindrómicas y podían formar estructuras secundarias.",
+          "fr": "Les répétitions étaient palindromiques et pouvaient former des structures secondaires.",
+          "de": "Die Wiederholungen waren palindromisch und konnten Sekundärstrukturen bilden.",
+          "ja": "リピートが回文構造であり、二次構造を形成できたこと。"
+        },
+        "feedback": {
+          "en": "This was an early observation but not the key evidence for its immune function.",
+          "zh": "这是一个早期的观察，但不是其免疫功能的关键证据。",
+          "es": "Esta fue una observación temprana pero no la evidencia clave de su función inmune.",
+          "fr": "C'était une observation précoce mais pas la preuve clé de sa fonction immunitaire.",
+          "de": "Dies war eine frühe Beobachtung, aber nicht der entscheidende Beweis für seine Immunfunktion.",
+          "ja": "これは初期の観察結果であり、免疫機能の決定的な証拠ではありませんでした。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The spacer sequences in bacteria matched the DNA of viruses that could no longer infect them.",
+          "zh": "细菌中的间隔序列与那些无法再感染它们的病毒的DNA相匹配。",
+          "es": "Las secuencias espaciadoras en las bacterias coincidían con el ADN de los virus que ya no podían infectarlas.",
+          "fr": "Les séquences d'espacement dans les bactéries correspondaient à l'ADN des virus qui ne pouvaient plus les infecter.",
+          "de": "Die Spacer-Sequenzen in Bakterien stimmten mit der DNA von Viren überein, die sie nicht mehr infizieren konnten.",
+          "ja": "細菌のスペーサー配列が、もはや感染できなくなったウイルスのDNAと一致したこと。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The prokaryotes he studied could tolerate very high salt concentrations.",
+          "zh": "他研究的原核生物能够耐受极高的盐浓度。",
+          "es": "Los procariotas que estudió podían tolerar concentraciones de sal muy altas.",
+          "fr": "Les procaryotes qu'il a étudiés pouvaient tolérer de très fortes concentrations de sel.",
+          "de": "Die von ihm untersuchten Prokaryoten konnten sehr hohe Salzkonzentrationen tolerieren.",
+          "ja": "彼が研究した原核生物が非常に高い塩分濃度に耐えられたこと。"
+        },
+        "feedback": {
+          "en": "This was the characteristic of the organisms he studied, but not the evidence for CRISPR's function.",
+          "zh": "这是他研究的生物体的特征，但不是CRISPR功能的证据。",
+          "es": "Esta era la característica de los organismos que estudió, pero no la evidencia de la función de CRISPR.",
+          "fr": "C'était la caractéristique des organismes qu'il a étudiés, mais pas la preuve de la fonction de CRISPR.",
+          "de": "Dies war das Merkmal der von ihm untersuchten Organismen, aber nicht der Beweis für die Funktion von CRISPR.",
+          "ja": "これは彼が研究した生物の特徴であり、CRISPRの機能の証拠ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Similar repeats were found in very distantly-related bacterial species.",
+          "zh": "在亲缘关系很远的细菌物种中也发现了类似的重复序列。",
+          "es": "Se encontraron repeticiones similares en especies bacterianas muy lejanamente relacionadas.",
+          "fr": "Des répétitions similaires ont été trouvées dans des espèces bactériennes très éloignées.",
+          "de": "Ähnliche Wiederholungen wurden in sehr entfernt verwandten Bakterienarten gefunden.",
+          "ja": "非常に関連性の低い細菌種で類似のリピートが見つかったこと。"
+        },
+        "feedback": {
+          "en": "This suggested the repeats were important, but didn't explain what they did.",
+          "zh": "这表明重复序列很重要，但没有解释它们的作用。",
+          "es": "Esto sugería que las repeticiones eran importantes, pero no explicaba qué hacían.",
+          "fr": "Cela suggérait que les répétitions étaient importantes, mais n'expliquait pas ce qu'elles faisaient.",
+          "de": "Dies deutete darauf hin, dass die Wiederholungen wichtig waren, erklärte aber nicht, was sie taten.",
+          "ja": "これはリピートが重要であることを示唆しましたが、その機能は説明していませんでした。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The interview explicitly states that in 2003, Mojica found a spacer in E. coli identical to a virus sequence, and that strain of E. coli could not be infected by that virus. This direct link between a spacer and resistance to a specific virus was the key insight.",
+      "zh": "访谈中明确提到，2003年，莫希卡在一种大肠杆菌中发现了一个与病毒序列完全相同的间隔序列，而带有该间隔序列的大肠杆菌菌株无法被该病毒感染。这个间隔序列与对特定病毒的抗性之间的直接联系是关键的发现。",
+      "es": "La entrevista establece explícitamente que en 2003, Mojica encontró un espaciador en E. coli idéntico a una secuencia de un virus, y que esa cepa de E. coli no podía ser infectada por ese virus. Este vínculo directo entre un espaciador y la resistencia a un virus específico fue la idea clave.",
+      "fr": "L'interview déclare explicitement qu'en 2003, Mojica a trouvé un espaceur chez E. coli identique à une séquence de virus, et que cette souche d'E. coli ne pouvait pas être infectée par ce virus. Ce lien direct entre un espaceur et la résistance à un virus spécifique a été la découverte clé.",
+      "de": "Das Interview besagt ausdrücklich, dass Mojica 2003 einen Spacer in E. coli fand, der mit einer Virussequenz identisch war, und dass dieser Stamm von E. coli nicht von diesem Virus infiziert werden konnte. Diese direkte Verbindung zwischen einem Spacer und der Resistenz gegen ein bestimmtes Virus war die Schlüsselerkenntnis.",
+      "ja": "インタビューでは、2003年にモヒカ氏がウイルス配列と同一のスペーサーを大腸菌内で発見し、その大腸菌株がそのウイルスに感染しないことを発見したと明記されています。スペーサーと特定のウイルスへの耐性とのこの直接的な関連が、重要な洞察でした。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What was Francisco Mojica's initial hypothesis about the function of the regularly spaced repeats he found, which later turned out to be incorrect?",
+      "zh": "弗朗西斯科·莫希卡最初对他发现的规则间隔重复序列的功能有何假设，而这个假设后来被证明是错误的？",
+      "es": "¿Cuál fue la hipótesis inicial de Francisco Mojica sobre la función de las repeticiones espaciadas regularmente que encontró, que luego resultó ser incorrecta?",
+      "fr": "Quelle était l'hypothèse initiale de Francisco Mojica sur la fonction des répétitions régulièrement espacées qu'il a trouvées, qui s'est avérée plus tard incorrecte ?",
+      "de": "Was war Francisco Mojicas ursprüngliche Hypothese über die Funktion der regelmäßig angeordneten Wiederholungen, die er fand, welche sich später als falsch herausstellte?",
+      "ja": "フランシスコ・モヒカが発見した規則的な間隔の繰り返し配列の機能について、彼の最初の仮説は何でしたか？そして、それは後に誤りであることが判明しました。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They were part of a bacterial immune system.",
+          "zh": "它们是细菌免疫系统的一部分。",
+          "es": "Eran parte de un sistema inmune bacteriano.",
+          "fr": "Elles faisaient partie d'un système immunitaire bactérien.",
+          "de": "Sie waren Teil eines bakteriellen Immunsystems.",
+          "ja": "それらは細菌の免疫システムの一部であった。"
+        },
+        "feedback": {
+          "en": "This is the correct function he discovered later, not his initial incorrect hypothesis.",
+          "zh": "这是他后来发现的正确功能，而不是他最初的错误假设。",
+          "es": "Esta es la función correcta que descubrió más tarde, no su hipótesis inicial incorrecta.",
+          "fr": "C'est la fonction correcte qu'il a découverte plus tard, pas son hypothèse initiale incorrecte.",
+          "de": "Dies ist die korrekte Funktion, die er später entdeckte, nicht seine anfänglich falsche Hypothese.",
+          "ja": "これは彼が後に発見した正しい機能であり、彼の最初の誤った仮説ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They were remnants of viral DNA with no function.",
+          "zh": "它们是病毒DNA的残留物，没有功能。",
+          "es": "Eran restos de ADN viral sin función.",
+          "fr": "C'étaient des restes d'ADN viral sans fonction.",
+          "de": "Sie waren Überreste von viraler DNA ohne Funktion.",
+          "ja": "それらは機能のないウイルスDNAの残骸であった。"
+        },
+        "feedback": {
+          "en": "He suspected they were important, not functionless.",
+          "zh": "他怀疑它们很重要，而不是没有功能。",
+          "es": "Sospechaba que eran importantes, no que no tuvieran función.",
+          "fr": "Il soupçonnait qu'elles étaient importantes, et non sans fonction.",
+          "de": "Er vermutete, dass sie wichtig waren, nicht funktionslos.",
+          "ja": "彼はそれらが機能がないのではなく、重要であると疑っていました。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They were related to adaptation to salinity and affected gene expression.",
+          "zh": "它们与适应盐度有关，并影响基因表达。",
+          "es": "Estaban relacionadas con la adaptación a la salinidad y afectaban la expresión génica.",
+          "fr": "Elles étaient liées à l'adaptation à la salinité et affectaient l'expression des gènes.",
+          "de": "Sie standen im Zusammenhang mit der Anpassung an den Salzgehalt und beeinflussten die Genexpression.",
+          "ja": "それらは塩分濃度への適応に関連し、遺伝子発現に影響を与えていた。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They were involved in the replication of the bacterial chromosome.",
+          "zh": "它们参与了细菌染色体的复制。",
+          "es": "Estaban involucradas en la replicación del cromosoma bacteriano.",
+          "fr": "Elles étaient impliquées dans la réplication du chromosome bactérien.",
+          "de": "Sie waren an der Replikation des bakteriellen Chromosoms beteiligt.",
+          "ja": "それらは細菌の染色体の複製に関与していた。"
+        },
+        "feedback": {
+          "en": "The text does not mention any hypothesis related to chromosome replication.",
+          "zh": "文本没有提到任何与染色体复制相关的假设。",
+          "es": "El texto no menciona ninguna hipótesis relacionada con la replicación del cromosoma.",
+          "fr": "Le texte ne mentionne aucune hypothèse liée à la réplication du chromosome.",
+          "de": "Der Text erwähnt keine Hypothese im Zusammenhang mit der Chromosomenreplikation.",
+          "ja": "本文では、染色体の複製に関連する仮説については言及されていません。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "In the interview, Mojica says, 'We thought maybe these repeats were affected by salinity and would in turn affect gene expression, but we were absolutely wrong!' This directly states his initial, incorrect hypothesis.",
+      "zh": "在访谈中，莫希卡说：“我们当时想，也许这些重复序列会受到盐度的影响，进而影响基因表达，但我们完全错了！” 这直接说明了他最初的、不正确的假设。",
+      "es": "En la entrevista, Mojica dice: 'Pensamos que tal vez estas repeticiones se veían afectadas por la salinidad y, a su vez, afectarían la expresión génica, ¡pero estábamos absolutamente equivocados!'. Esto declara directamente su hipótesis inicial e incorrecta.",
+      "fr": "Dans l'interview, Mojica dit : « Nous pensions que ces répétitions étaient peut-être affectées par la salinité et qu'elles affecteraient à leur tour l'expression des gènes, mais nous avions absolument tort ! ». Cela énonce directement son hypothèse initiale et incorrecte.",
+      "de": "Im Interview sagt Mojica: „Wir dachten, vielleicht würden diese Wiederholungen durch den Salzgehalt beeinflusst und würden wiederum die Genexpression beeinflussen, aber wir lagen absolut falsch!“ Dies gibt direkt seine anfängliche, falsche Hypothese an.",
+      "ja": "インタビューの中で、モヒカ氏は「私たちは、これらのリピートが塩分濃度の影響を受け、それが遺伝子発現に影響を与えるのではないかと考えましたが、それは全くの間違いでした！」と述べています。これは彼の最初の誤った仮説を直接示しています。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "What advice does Francisco Mojica give to students considering a career in biology, reflecting the dynamic nature of the field?",
+      "zh": "弗朗西斯科·莫希卡对考虑从事生物学职业的学生提出了什么建议，以反映该领域的动态特性？",
+      "es": "¿Qué consejo da Francisco Mojica a los estudiantes que consideran una carrera en biología, que refleja la naturaleza dinámica del campo?",
+      "fr": "Quel conseil Francisco Mojica donne-t-il aux étudiants qui envisagent une carrière en biologie, reflétant la nature dynamique du domaine ?",
+      "de": "Welchen Rat gibt Francisco Mojica Studierenden, die eine Karriere in der Biologie in Betracht ziehen, der die dynamische Natur des Fachgebiets widerspiegelt?",
+      "ja": "フランシスコ・モヒカが生物学のキャリアを考えている学生に、この分野のダイナミックな性質を反映したどのようなアドバイスをしていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Focus only on one specific area to become a true expert.",
+          "zh": "只专注于一个特定领域，成为真正的专家。",
+          "es": "Enfócate solo en un área específica para convertirte en un verdadero experto.",
+          "fr": "Se concentrer uniquement sur un domaine spécifique pour devenir un véritable expert.",
+          "de": "Konzentrieren Sie sich nur auf einen bestimmten Bereich, um ein wahrer Experte zu werden.",
+          "ja": "真の専門家になるために、一つの特定の分野にのみ集中すること。"
+        },
+        "feedback": {
+          "en": "This contradicts his advice to 'be open'.",
+          "zh": "这与他“要思想开放”的建议相矛盾。",
+          "es": "Esto contradice su consejo de 'estar abierto'.",
+          "fr": "Cela contredit son conseil d'« être ouvert ».",
+          "de": "Dies widerspricht seinem Rat, „offen zu sein“.",
+          "ja": "これは彼の「オープンであれ」というアドバイスと矛盾します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Believe strongly in your initial hypotheses and defend them.",
+          "zh": "坚信自己最初的假设并为之辩护。",
+          "es": "Cree firmemente en tus hipótesis iniciales y defiéndelas.",
+          "fr": "Croire fermement en ses hypothèses initiales et les défendre.",
+          "de": "Glauben Sie fest an Ihre anfänglichen Hypothesen und verteidigen Sie sie.",
+          "ja": "最初の仮説を強く信じ、それを守ること。"
+        },
+        "feedback": {
+          "en": "He advises the opposite: be ready to hear things that destroy what you believe.",
+          "zh": "他建议的恰恰相反：要准备好接受那些颠覆你信念的东西。",
+          "es": "Aconseja lo contrario: estar preparado para escuchar cosas que destruyan lo que crees.",
+          "fr": "Il conseille le contraire : soyez prêt à entendre des choses qui détruisent ce que vous croyez.",
+          "de": "Er rät zum Gegenteil: Seien Sie bereit, Dinge zu hören, die das zerstören, woran Sie glauben.",
+          "ja": "彼は逆のことをアドバイスしています。つまり、自分の信じていることを覆すようなことを聞く準備をしておくことです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Be open and ready for the truth to change, as knowledge in biology evolves quickly.",
+          "zh": "保持开放的心态，随时准备接受真理的变化，因为生物学知识发展迅速。",
+          "es": "Estar abierto y preparado para que la verdad cambie, ya que el conocimiento en biología evoluciona rápidamente.",
+          "fr": "Être ouvert et prêt à ce que la vérité change, car les connaissances en biologie évoluent rapidement.",
+          "de": "Seien Sie offen und bereit für die Veränderung der Wahrheit, da sich das Wissen in der Biologie schnell entwickelt.",
+          "ja": "生物学の知識は急速に進化するため、オープンであり、真実が変わることに備えておくこと。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Choose a field of study that has many available genome sequences.",
+          "zh": "选择一个拥有大量可用基因组序列的研究领域。",
+          "es": "Elige un campo de estudio que tenga muchas secuencias genómicas disponibles.",
+          "fr": "Choisir un domaine d'étude qui dispose de nombreuses séquences génomiques disponibles.",
+          "de": "Wählen Sie ein Studienfach, für das viele Genomsequenzen verfügbar sind.",
+          "ja": "利用可能なゲノム配列が多数ある研究分野を選ぶこと。"
+        },
+        "feedback": {
+          "en": "While this was a challenge he faced, it is not the core of his advice for a career mindset.",
+          "zh": "虽然这是他曾面临的挑战，但这并非他对于职业心态建议的核心。",
+          "es": "Si bien este fue un desafío que enfrentó, no es el núcleo de su consejo para una mentalidad de carrera.",
+          "fr": "Bien que ce soit un défi auquel il a été confronté, ce n'est pas le cœur de son conseil pour un état d'esprit de carrière.",
+          "de": "Obwohl dies eine Herausforderung war, der er sich gegenübersah, ist dies nicht der Kern seines Ratschlags für eine berufliche Denkweise.",
+          "ja": "これは彼が直面した課題ではありましたが、キャリアマインドセットに関する彼のアドバイスの中核ではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "His direct quote is, 'The most important thing is to be open. Be ready to hear something that destroys what you believe—because biology is a fast-moving field, a field that evolves a lot. Knowledge will change.' This perfectly encapsulates the dynamic nature of science.",
+      "zh": "他的原话是：“最重要的是要思想开放。要准备好接受那些颠覆你信念的东西——因为生物学是一个快速发展的领域，一个不断进化的领域。知识是会改变的。” 这完美地概括了科学的动态本质。",
+      "es": "Su cita directa es: 'Lo más importante es estar abierto. Esté preparado para escuchar algo que destruya lo que cree, porque la biología es un campo que se mueve rápidamente, un campo que evoluciona mucho. El conocimiento cambiará'. Esto encapsula perfectamente la naturaleza dinámica de la ciencia.",
+      "fr": "Sa citation directe est : « Le plus important est d'être ouvert. Soyez prêt à entendre quelque chose qui détruit ce que vous croyez, car la biologie est un domaine qui évolue rapidement, un domaine qui évolue beaucoup. La connaissance changera. ». Cela résume parfaitement la nature dynamique de la science.",
+      "de": "Sein direktes Zitat lautet: „Das Wichtigste ist, offen zu sein. Seien Sie bereit, etwas zu hören, das das zerstört, woran Sie glauben – denn die Biologie ist ein sich schnell bewegendes Feld, ein Feld, das sich sehr entwickelt. Das Wissen wird sich ändern.“ Dies fasst die dynamische Natur der Wissenschaft perfekt zusammen.",
+      "ja": "彼の直接の引用は、「最も重要なことはオープンであることです。自分の信じていることを覆すようなことを聞く準備をしてください。なぜなら、生物学は動きの速い分野であり、大いに進化する分野だからです。知識は変わるでしょう。」これは科学のダイナミックな性質を完璧に要約しています。"
+    }
+  }
+]

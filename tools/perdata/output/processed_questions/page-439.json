@@ -1,0 +1,398 @@
+[
+  {
+    "page_number": 439,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which of the following statements best explains why a cancer-causing mutation in a tumor-suppressor gene like p53 is generally considered to be recessive at the cellular level?",
+      "zh": "以下哪项陈述最能解释为何肿瘤抑制基因（如p53）中导致癌症的突变在细胞水平上通常被认为是隐性的？",
+      "es": "¿Cuál de las siguientes afirmaciones explica mejor por qué una mutación causante de cáncer en un gen supresor de tumores como el p53 se considera generalmente recesiva a nivel celular?",
+      "fr": "Laquelle des affirmations suivantes explique le mieux pourquoi une mutation cancérigène dans un gène suppresseur de tumeurs comme p53 est généralement considérée comme récessive au niveau cellulaire ?",
+      "de": "Welche der folgenden Aussagen erklärt am besten, warum eine krebsverursachende Mutation in einem Tumorsuppressorgen wie p53 auf zellulärer Ebene im Allgemeinen als rezessiv angesehen wird?",
+      "ja": "次の記述のうち、p53のような腫瘍抑制遺伝子における癌を引き起こす変異が、細胞レベルで一般的に劣性であると見なされる理由を最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The mutated gene produces a hyperactive protein that actively promotes cell division.",
+          "zh": "突变基因产生一种过度活跃的蛋白质，积极促进细胞分裂。",
+          "es": "El gen mutado produce una proteína hiperactiva que promueve activamente la división celular.",
+          "fr": "Le gène muté produit une protéine hyperactive qui favorise activement la division cellulaire.",
+          "de": "Das mutierte Gen produziert ein hyperaktives Protein, das die Zellteilung aktiv fördert.",
+          "ja": "変異した遺伝子は、細胞分裂を積極的に促進する過活動性のタンパク質を生成する。"
+        },
+        "feedback": {
+          "en": "This describes a dominant gain-of-function mutation, typical for oncogenes, not tumor suppressors.",
+          "zh": "这描述的是致癌基因的显性功能获得性突变，而非肿瘤抑制基因的特征。",
+          "es": "Esto describe una mutación dominante con ganancia de función, típica de los oncogenes, no de los supresores de tumores.",
+          "fr": "Ceci décrit une mutation dominante à gain de fonction, typique des oncogènes, et non des suppresseurs de tumeurs.",
+          "de": "Dies beschreibt eine dominante Funktionsgewinn-Mutation, typisch für Onkogene, nicht für Tumorsuppressorgene.",
+          "ja": "これは、癌遺伝子に典型的な優性機能獲得変異を説明しており、腫瘍抑制遺伝子には当てはまりません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The presence of just one normal allele is usually sufficient to produce enough functional protein to prevent uncontrolled cell growth.",
+          "zh": "通常只需存在一个正常等位基因，就能产生足够的有功能蛋白质，从而阻止细胞的失控生长。",
+          "es": "La presencia de un solo alelo normal suele ser suficiente para producir suficiente proteína funcional y prevenir el crecimiento celular descontrolado.",
+          "fr": "La présence d'un seul allèle normal est généralement suffisante pour produire suffisamment de protéines fonctionnelles afin de prévenir une croissance cellulaire incontrôlée.",
+          "de": "Das Vorhandensein nur eines normalen Allels ist in der Regel ausreichend, um genügend funktionelles Protein zu produzieren und unkontrolliertes Zellwachstum zu verhindern.",
+          "ja": "通常、正常な対立遺伝子一つが存在するだけで、無制限な細胞増殖を防ぐのに十分な機能性タンパク質が生成されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The mutation leads to the complete absence of the protein, which is a dominant effect.",
+          "zh": "该突变导致蛋白质完全缺失，这是一种显性效应。",
+          "es": "La mutación conduce a la ausencia completa de la proteína, lo cual es un efecto dominante.",
+          "fr": "La mutation entraîne l'absence complète de la protéine, ce qui est un effet dominant.",
+          "de": "Die Mutation führt zum vollständigen Fehlen des Proteins, was ein dominanter Effekt ist.",
+          "ja": "この変異はタンパク質の完全な欠損を引き起こし、これは優性効果である。"
+        },
+        "feedback": {
+          "en": "While the mutation might lead to absence, the *effect* is recessive because one functional allele usually suffices to maintain cell cycle control.",
+          "zh": "虽然突变可能导致蛋白质缺失，但其*效应*是隐性的，因为一个有功能的等位基因通常足以维持细胞周期控制。",
+          "es": "Aunque la mutación pueda llevar a la ausencia, el *efecto* es recesivo porque un alelo funcional suele ser suficiente para mantener el control del ciclo celular.",
+          "fr": "Bien que la mutation puisse entraîner une absence, l'*effet* est récessif car un seul allèle fonctionnel est généralement suffisant pour maintenir le contrôle du cycle cellulaire.",
+          "de": "Obwohl die Mutation zum Fehlen führen kann, ist der *Effekt* rezessiv, da ein funktionelles Allel in der Regel ausreicht, um die Zellzykluskontrolle aufrechtzuerhalten.",
+          "ja": "変異によって欠損が生じる可能性はありますが、*効果*は劣性です。なぜなら、通常、1つの機能的な対立遺伝子があれば細胞周期の制御を維持するのに十分だからです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It enhances the inhibitory function of the cell cycle, which is a dominant trait.",
+          "zh": "它增强了细胞周期的抑制功能，这是一种显性性状。",
+          "es": "Mejora la función inhibidora del ciclo celular, lo cual es un rasgo dominante.",
+          "fr": "Elle améliore la fonction inhibitrice du cycle cellulaire, ce qui est un trait dominant.",
+          "de": "Es verstärkt die hemmende Funktion des Zellzyklus, was ein dominantes Merkmal ist.",
+          "ja": "それは細胞周期の抑制機能を高め、これは優性形質である。"
+        },
+        "feedback": {
+          "en": "A cancer-causing mutation in a tumor suppressor gene *loses* inhibitory function, rather than enhancing it.",
+          "zh": "肿瘤抑制基因中导致癌症的突变是*失去*抑制功能，而不是增强其功能。",
+          "es": "Una mutación causante de cáncer en un gen supresor de tumores *pierde* la función inhibidora, en lugar de potenciarla.",
+          "fr": "Une mutation cancérigène dans un gène suppresseur de tumeurs *perd* sa fonction inhibitrice, plutôt que de l'améliorer.",
+          "de": "Eine krebsverursachende Mutation in einem Tumorsuppressorgen führt zu einem *Verlust* der hemmenden Funktion, anstatt sie zu verstärken.",
+          "ja": "腫瘍抑制遺伝子における癌を引き起こす変異は、抑制機能を*喪失*させるのであり、強化するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Tumor-suppressor genes, like p53, normally function to prevent uncontrolled cell growth. For a cancer-causing mutation to manifest its effect, both alleles typically need to be inactivated because the presence of even one functional normal allele can often produce enough protein to maintain the tumor-suppressing function. Therefore, such mutations are generally considered recessive at the cellular level.",
+      "zh": "肿瘤抑制基因，如p53，通常 berfungsi 以阻止细胞的失控生长。为了使导致癌症的突变发挥作用，通常需要两个等位基因都失活，因为即使存在一个有功能的正常等位基因，通常也能产生足够的蛋白质来维持肿瘤抑制功能。因此，这类突变在细胞水平上通常被认为是隐性的。",
+      "es": "Los genes supresores de tumores, como p53, funcionan normalmente para prevenir el crecimiento celular descontrolado. Para que una mutación causante de cáncer manifieste su efecto, ambos alelos suelen necesitar ser inactivados, porque la presencia de incluso un alelo normal funcional a menudo puede producir suficiente proteína para mantener la función supresora de tumores. Por lo tanto, tales mutaciones se consideran generalmente recesivas a nivel celular.",
+      "fr": "Les gènes suppresseurs de tumeurs, comme p53, fonctionnent normalement pour prévenir la croissance cellulaire incontrôlée. Pour qu'une mutation cancérigène manifeste son effet, les deux allèles doivent généralement être inactivés, car la présence d'un seul allèle normal fonctionnel peut souvent produire suffisamment de protéines pour maintenir la fonction suppresseur de tumeurs. Par conséquent, de telles mutations sont généralement considérées comme récessives au niveau cellulaire.",
+      "de": "Tumorsuppressorgene, wie p53, verhindern normalerweise unkontrolliertes Zellwachstum. Damit eine krebsverursachende Mutation ihre Wirkung entfaltet, müssen typischerweise beide Allele inaktiviert sein, da das Vorhandensein selbst eines funktionellen normalen Allels oft genügend Protein produzieren kann, um die Tumorsuppressorfunktion aufrechtzuerhalten. Daher werden solche Mutationen auf zellulärer Ebene im Allgemeinen als rezessiv angesehen.",
+      "ja": "p53のような腫瘍抑制遺伝子は、通常、無制限な細胞増殖を防ぐために機能します。癌を引き起こす変異がその効果を発現するためには、通常、両方の対立遺伝子が不活性化される必要があります。なぜなら、たとえ1つの機能的な正常対立遺伝子が存在するだけでも、腫瘍抑制機能を維持するのに十分なタンパク質を生成できることが多いからです。したがって、このような変異は細胞レベルでは一般的に劣性と見なされます。"
+    }
+  },
+  {
+    "page_number": 439,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 18.24, what is the primary consequence of a mutation that makes Ras protein hyperactive?",
+      "zh": "根据图18.24，导致Ras蛋白过度活跃的突变，其主要后果是什么？",
+      "es": "Según la Figura 18.24, ¿cuál es la consecuencia principal de una mutación que hace que la proteína Ras sea hiperactiva?",
+      "fr": "Selon la Figure 18.24, quelle est la principale conséquence d'une mutation rendant la protéine Ras hyperactive ?",
+      "de": "Laut Abbildung 18.24, was ist die primäre Konsequenz einer Mutation, die das Ras-Protein hyperaktiv macht?",
+      "ja": "図18.24によると、Rasタンパク質を過活動性にする変異の主な結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The cell cycle is inhibited, leading to programmed cell death.",
+          "zh": "细胞周期受到抑制，导致程序性细胞死亡。",
+          "es": "El ciclo celular se inhibe, lo que lleva a la muerte celular programada.",
+          "fr": "Le cycle cellulaire est inhibé, entraînant la mort cellulaire programmée.",
+          "de": "Der Zellzyklus wird gehemmt, was zum programmierten Zelltod führt.",
+          "ja": "細胞周期が抑制され、プログラム細胞死につながる。"
+        },
+        "feedback": {
+          "en": "This is the opposite effect; hyperactive Ras stimulates the cell cycle, leading to increased cell division.",
+          "zh": "这是相反的效果；过度活跃的Ras会刺激细胞周期，导致细胞分裂增加。",
+          "es": "Este es el efecto opuesto; la Ras hiperactiva estimula el ciclo celular, lo que lleva a un aumento de la división celular.",
+          "fr": "C'est l'effet inverse ; la Ras hyperactive stimule le cycle cellulaire, entraînant une division cellulaire accrue.",
+          "de": "Dies ist der gegenteilige Effekt; hyperaktives Ras stimuliert den Zellzyklus, was zu erhöhter Zellteilung führt.",
+          "ja": "これは逆の効果です。Rasの過活動は細胞周期を刺激し、細胞分裂の増加につながります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Normal cell division is maintained, regardless of growth factor binding.",
+          "zh": "无论生长因子是否结合，正常细胞分裂都能维持。",
+          "es": "Se mantiene la división celular normal, independientemente de la unión del factor de crecimiento.",
+          "fr": "La division cellulaire normale est maintenue, quelle que soit la liaison du facteur de croissance.",
+          "de": "Die normale Zellteilung wird unabhängig von der Wachstumsfaktorbindung aufrechterhalten.",
+          "ja": "増殖因子の結合に関わらず、正常な細胞分裂が維持される。"
+        },
+        "feedback": {
+          "en": "While hyperactive Ras signals regardless of growth factor, it leads to *increased* cell division, not normal cell division.",
+          "zh": "虽然过度活跃的Ras无论有无生长因子都会发出信号，但它导致的是*增加*的细胞分裂，而非正常的细胞分裂。",
+          "es": "Aunque la Ras hiperactiva señala independientemente del factor de crecimiento, conduce a un *aumento* de la división celular, no a una división celular normal.",
+          "fr": "Bien que la Ras hyperactive signale indépendamment du facteur de croissance, elle entraîne une division cellulaire *accrue*, et non une division cellulaire normale.",
+          "de": "Während hyperaktives Ras unabhängig vom Wachstumsfaktor Signale aussendet, führt es zu *erhöhter* Zellteilung, nicht zu normaler Zellteilung.",
+          "ja": "過活動性のRasは増殖因子に関わらずシグナルを送りますが、それは正常な細胞分裂ではなく、*増加した*細胞分裂を引き起こします。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Increased cell division occurs due to continuous activation of cell cycle-stimulating genes.",
+          "zh": "由于细胞周期刺激基因的持续激活，导致细胞分裂增加。",
+          "es": "Se produce un aumento de la división celular debido a la activación continua de genes que estimulan el ciclo celular.",
+          "fr": "Une division cellulaire accrue se produit en raison de l'activation continue des gènes stimulant le cycle cellulaire.",
+          "de": "Erhöhte Zellteilung tritt aufgrund der kontinuierlichen Aktivierung von Zellzyklus-stimulierenden Genen auf.",
+          "ja": "細胞周期刺激遺伝子の持続的な活性化により、細胞分裂が増加する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The production of the cell cycle-stimulating protein is halted.",
+          "zh": "细胞周期刺激蛋白的产生被停止。",
+          "es": "Se detiene la producción de la proteína estimuladora del ciclo celular.",
+          "fr": "La production de la protéine stimulant le cycle cellulaire est arrêtée.",
+          "de": "Die Produktion des Zellzyklus-stimulierenden Proteins wird gestoppt.",
+          "ja": "細胞周期刺激タンパク質の生産が停止する。"
+        },
+        "feedback": {
+          "en": "Hyperactive Ras leads to overexpression, not halting, of the cell cycle-stimulating protein.",
+          "zh": "过度活跃的Ras会导致细胞周期刺激蛋白的过度表达，而不是停止产生。",
+          "es": "La Ras hiperactiva conduce a la sobreexpresión, no a la detención, de la proteína estimuladora del ciclo celular.",
+          "fr": "La Ras hyperactive entraîne une surexpression, et non un arrêt, de la protéine stimulant le cycle cellulaire.",
+          "de": "Hyperaktives Ras führt zu einer Überexpression, nicht zu einem Stopp, des Zellzyklus-stimulierenden Proteins.",
+          "ja": "過活動性のRasは、細胞周期刺激タンパク質の産生を停止させるのではなく、過剰発現を引き起こします。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 18.24(b) illustrates that a hyperactive Ras protein, resulting from a mutation, continuously issues signals that lead to the overexpression of cell cycle-stimulating proteins. This uninterrupted signaling bypasses normal regulatory mechanisms, causing increased cell division and potentially cancer.",
+      "zh": "图18.24(b)显示，由突变导致的过度活跃的Ras蛋白会持续发出信号，导致细胞周期刺激蛋白的过表达。这种不间断的信号传递绕过了正常的调控机制，引起细胞分裂增加，并可能导致癌症。",
+      "es": "La Figura 18.24(b) ilustra que una proteína Ras hiperactiva, resultante de una mutación, emite señales continuamente que conducen a la sobreexpresión de proteínas estimuladoras del ciclo celular. Esta señalización ininterrumpida elude los mecanismos reguladores normales, causando un aumento de la división celular y potencialmente cáncer.",
+      "fr": "La Figure 18.24(b) illustre qu'une protéine Ras hyperactive, résultant d'une mutation, émet continuellement des signaux qui entraînent la surexpression des protéines stimulant le cycle cellulaire. Cette signalisation ininterrompue contourne les mécanismes de régulation normaux, provoquant une division cellulaire accrue et potentiellement le cancer.",
+      "de": "Abbildung 18.24(b) zeigt, dass ein hyperaktives Ras-Protein, das aus einer Mutation resultiert, kontinuierlich Signale aussendet, die zu einer Überexpression von Zellzyklus-stimulierenden Proteinen führen. Diese ununterbrochene Signalübertragung umgeht normale Regulationsmechanismen und führt zu erhöhter Zellteilung und potenziell Krebs.",
+      "ja": "図18.24(b)は、変異によって過活動性になったRasタンパク質が、細胞周期刺激タンパク質の過剰発現につながるシグナルを継続的に送り出すことを示しています。この途切れないシグナル伝達は、通常の調節メカニズムを迂回し、細胞分裂の増加と、場合によっては癌を引き起こします。"
+    }
+  },
+  {
+    "page_number": 439,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements best describes the relationship between the cell cycle-stimulating pathway (Figure 18.24) and the cell cycle-inhibiting pathway (Figure 18.25) in the context of cancer development?",
+      "zh": "以下哪项陈述最能描述细胞周期刺激通路（图18.24）和细胞周期抑制通路（图18.25）在癌症发展背景下的关系？",
+      "es": "¿Cuál de las siguientes afirmaciones describe mejor la relación entre la vía estimuladora del ciclo celular (Figura 18.24) y la vía inhibidora del ciclo celular (Figura 18.25) en el contexto del desarrollo del cáncer?",
+      "fr": "Laquelle des affirmations suivantes décrit le mieux la relation entre la voie de stimulation du cycle cellulaire (Figure 18.24) et la voie d'inhibition du cycle cellulaire (Figure 18.25) dans le contexte du développement du cancer ?",
+      "de": "Welche der folgenden Aussagen beschreibt am besten die Beziehung zwischen dem Zellzyklus-stimulierenden Signalweg (Abbildung 18.24) und dem Zellzyklus-inhibierenden Signalweg (Abbildung 18.25) im Kontext der Krebsentwicklung?",
+      "ja": "細胞周期刺激経路（図18.24）と細胞周期抑制経路（図18.25）の癌発生における関係を最もよく説明しているのは、次の記述のどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Both pathways promote cell division, but mutations in the stimulating pathway lead to less control, while mutations in the inhibiting pathway lead to more control.",
+          "zh": "两条通路都促进细胞分裂，但刺激通路的突变导致控制减少，而抑制通路的突变导致控制增加。",
+          "es": "Ambas vías promueven la división celular, pero las mutaciones en la vía estimuladora conducen a un menor control, mientras que las mutaciones en la vía inhibidora conducen a un mayor control.",
+          "fr": "Les deux voies favorisent la division cellulaire, mais les mutations dans la voie stimulatrice entraînent moins de contrôle, tandis que les mutations dans la voie inhibitrice entraînent plus de contrôle.",
+          "de": "Beide Signalwege fördern die Zellteilung, aber Mutationen im stimulierenden Signalweg führen zu weniger Kontrolle, während Mutationen im hemmenden Signalweg zu mehr Kontrolle führen.",
+          "ja": "両経路は細胞分裂を促進するが、刺激経路の変異は制御を減少させ、抑制経路の変異は制御を増加させる。"
+        },
+        "feedback": {
+          "en": "This statement is incorrect. The inhibiting pathway is designed to stop cell division, not promote it.",
+          "zh": "此陈述不正确。抑制通路旨在停止细胞分裂，而非促进它。",
+          "es": "Esta afirmación es incorrecta. La vía inhibidora está diseñada para detener la división celular, no para promoverla.",
+          "fr": "Cette affirmation est incorrecte. La voie inhibitrice est conçue pour arrêter la division cellulaire, non pour la promouvoir.",
+          "de": "Diese Aussage ist falsch. Der hemmende Signalweg ist darauf ausgelegt, die Zellteilung zu stoppen, nicht sie zu fördern.",
+          "ja": "この記述は正しくありません。抑制経路は細胞分裂を停止させるように設計されており、促進するものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The stimulating pathway involves proto-oncogenes whose activation promotes cell division, while the inhibiting pathway involves tumor-suppressor genes whose inactivation prevents cell division.",
+          "zh": "刺激通路涉及原癌基因，其激活促进细胞分裂；而抑制通路涉及肿瘤抑制基因，其失活阻止细胞分裂。",
+          "es": "La vía estimuladora implica protooncogenes cuya activación promueve la división celular, mientras que la vía inhibidora implica genes supresores de tumores cuya inactivación previene la división celular.",
+          "fr": "La voie stimulatrice implique des proto-oncogènes dont l'activation favorise la division cellulaire, tandis que la voie inhibitrice implique des gènes suppresseurs de tumeurs dont l'inactivation prévient la division cellulaire.",
+          "de": "Der stimulierende Signalweg beinhaltet Protoonkogene, deren Aktivierung die Zellteilung fördert, während der hemmende Signalweg Tumorsuppressorgene beinhaltet, deren Inaktivierung die Zellteilung verhindert.",
+          "ja": "刺激経路は原癌遺伝子を含み、その活性化は細胞分裂を促進します。一方、抑制経路は腫瘍抑制遺伝子を含み、その不活性化は細胞分裂を阻害します。"
+        },
+        "feedback": {
+          "en": "The second part of this statement is misleading. Inactivation of tumor suppressors *allows* cell division to proceed unregulated, rather than preventing it.",
+          "zh": "此陈述的第二部分具有误导性。肿瘤抑制基因的失活是*允许*细胞分裂不受限制地进行，而不是阻止细胞分裂。",
+          "es": "La segunda parte de esta afirmación es engañosa. La inactivación de los supresores tumorales *permite* que la división celular avance sin regulación, en lugar de prevenirla.",
+          "fr": "La deuxième partie de cette affirmation est trompeuse. L'inactivation des suppresseurs de tumeurs *permet* à la division cellulaire de se poursuivre de manière incontrôlée, plutôt que de la prévenir.",
+          "de": "Der zweite Teil dieser Aussage ist irreführend. Die Inaktivierung von Tumorsuppressoren *ermöglicht* die unregulierte Zellteilung, anstatt sie zu verhindern.",
+          "ja": "この記述の後半部分は誤解を招きます。腫瘍抑制遺伝子の不活性化は、細胞分裂を妨げるのではなく、無制御な細胞分裂を*許容*します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cancer typically arises from loss-of-function mutations in the stimulating pathway and gain-of-function mutations in the inhibiting pathway.",
+          "zh": "癌症通常来源于刺激通路中的功能丧失突变和抑制通路中的功能获得突变。",
+          "es": "El cáncer suele surgir de mutaciones con pérdida de función en la vía estimuladora y mutaciones con ganancia de función en la vía inhibidora.",
+          "fr": "Le cancer résulte généralement de mutations avec perte de fonction dans la voie stimulatrice et de mutations avec gain de fonction dans la voie inhibitrice.",
+          "de": "Krebs entsteht typischerweise durch Funktionsverlustmutationen im stimulierenden Signalweg und Funktionsgewinnmutationen im hemmenden Signalweg.",
+          "ja": "癌は通常、刺激経路における機能喪失変異と、抑制経路における機能獲得変異から生じる。"
+        },
+        "feedback": {
+          "en": "This statement reverses the typical mutation types for cancer. It's usually gain-of-function in stimulating pathway genes and loss-of-function in inhibiting pathway genes.",
+          "zh": "此陈述颠倒了癌症中常见的突变类型。通常是刺激通路基因的功能获得性突变和抑制通路基因的功能丧失性突变。",
+          "es": "Esta afirmación invierte los tipos de mutaciones típicas del cáncer. Generalmente son mutaciones con ganancia de función en los genes de la vía estimuladora y mutaciones con pérdida de función en los genes de la vía inhibidora.",
+          "fr": "Cette affirmation inverse les types de mutations typiques du cancer. Il s'agit généralement de mutations à gain de fonction dans les gènes de la voie stimulatrice et de mutations à perte de fonction dans les gènes de la voie inhibitrice.",
+          "de": "Diese Aussage vertauscht die typischen Mutationsarten für Krebs. Es handelt sich normalerweise um Funktionsgewinnmutationen in Genen des stimulierenden Signalwegs und Funktionsverlustmutationen in Genen des hemmenden Signalwegs.",
+          "ja": "この記述は、癌における典型的な変異の種類を逆転させています。通常、刺激経路の遺伝子では機能獲得変異、抑制経路の遺伝子では機能喪失変異です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Cancer can result from gain-of-function mutations in proto-oncogenes within the stimulating pathway or loss-of-function mutations in tumor-suppressor genes within the inhibiting pathway.",
+          "zh": "癌症可能由刺激通路中原癌基因的功能获得突变引起，也可能由抑制通路中肿瘤抑制基因的功能丧失突变引起。",
+          "es": "El cáncer puede resultar de mutaciones con ganancia de función en protooncogenes dentro de la vía estimuladora o de mutaciones con pérdida de función en genes supresores de tumores dentro de la vía inhibidora.",
+          "fr": "Le cancer peut résulter de mutations à gain de fonction dans les proto-oncogènes de la voie stimulatrice ou de mutations à perte de fonction dans les gènes suppresseurs de tumeurs de la voie inhibitrice.",
+          "de": "Krebs kann durch Funktionsgewinnmutationen in Protoonkogenen innerhalb des stimulierenden Signalwegs oder durch Funktionsverlustmutationen in Tumorsuppressorgenen innerhalb des hemmenden Signalwegs entstehen.",
+          "ja": "癌は、刺激経路内の原癌遺伝子における機能獲得変異、または抑制経路内の腫瘍抑制遺伝子における機能喪失変異から生じる可能性があります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "The stimulating pathway only controls normal growth, and the inhibiting pathway only responds to DNA damage, neither directly causing cancer.",
+          "zh": "刺激通路仅控制正常生长，抑制通路仅响应DNA损伤，两者均不直接导致癌症。",
+          "es": "La vía estimuladora solo controla el crecimiento normal, y la vía inhibidora solo responde al daño del ADN, ninguna de las dos causa cáncer directamente.",
+          "fr": "La voie stimulatrice ne contrôle que la croissance normale, et la voie inhibitrice ne répond qu'aux dommages de l'ADN, aucune des deux ne causant directement le cancer.",
+          "de": "Der stimulierende Signalweg kontrolliert nur das normale Wachstum, und der hemmende Signalweg reagiert nur auf DNA-Schäden; keiner von beiden verursacht direkt Krebs.",
+          "ja": "刺激経路は正常な成長のみを制御し、抑制経路はDNA損傷にのみ応答し、どちらも直接癌を引き起こすことはない。"
+        },
+        "feedback": {
+          "en": "Both pathways, when disrupted by mutations, are directly implicated in cancer development, making this statement incorrect.",
+          "zh": "两条通路在突变扰乱其功能时，都直接与癌症发展相关，因此此陈述不正确。",
+          "es": "Ambas vías, cuando son alteradas por mutaciones, están directamente implicadas en el desarrollo del cáncer, lo que hace que esta afirmación sea incorrecta.",
+          "fr": "Les deux voies, lorsqu'elles sont perturbées par des mutations, sont directement impliquées dans le développement du cancer, rendant cette affirmation incorrecte.",
+          "de": "Beide Signalwege sind, wenn sie durch Mutationen gestört werden, direkt an der Krebsentwicklung beteiligt, was diese Aussage falsch macht.",
+          "ja": "両経路は、変異によって機能が損なわれると、癌発生に直接関与するため、この記述は正しくありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "Cancer development often involves malfunctions in both cell cycle regulation pathways. The stimulating pathway, involving proto-oncogenes like Ras, can lead to cancer through gain-of-function mutations that cause excessive cell proliferation. Conversely, the inhibiting pathway, involving tumor-suppressor genes like p53, can lead to cancer through loss-of-function mutations that remove the brakes on cell division. Both types of mutations disrupt normal cell cycle control, leading to uncontrolled growth.",
+      "zh": "癌症发展常涉及细胞周期调控通路的故障。刺激通路（涉及Ras等原癌基因）通过功能获得性突变可导致癌变，引发细胞过度增殖。反之，抑制通路（涉及p53等肿瘤抑制基因）通过功能丧失性突变可导致癌变，解除细胞分裂的制动。这两种突变都扰乱了正常的细胞周期控制，导致失控的生长。",
+      "es": "El desarrollo del cáncer a menudo implica disfunciones en ambas vías de regulación del ciclo celular. La vía estimuladora, que involucra protooncogenes como Ras, puede llevar al cáncer a través de mutaciones con ganancia de función que causan una proliferación celular excesiva. Por el contrario, la vía inhibidora, que involucra genes supresores de tumores como p53, puede llevar al cáncer a través de mutaciones con pérdida de función que eliminan los frenos a la división celular. Ambos tipos de mutaciones alteran el control normal del ciclo celular, lo que lleva a un crecimiento incontrolado.",
+      "fr": "Le développement du cancer implique souvent des dysfonctionnements dans les deux voies de régulation du cycle cellulaire. La voie de stimulation, impliquant des proto-oncogènes comme Ras, peut entraîner le cancer par des mutations à gain de fonction qui provoquent une prolifération cellulaire excessive. Inversement, la voie d'inhibition, impliquant des gènes suppresseurs de tumeurs comme p53, peut entraîner le cancer par des mutations à perte de fonction qui suppriment les freins à la division cellulaire. Les deux types de mutations perturbent le contrôle normal du cycle cellulaire, entraînant une croissance incontrôlée.",
+      "de": "Die Krebsentwicklung beinhaltet oft Fehlfunktionen in beiden Zellzyklus-Regulationspfaden. Der stimulierende Signalweg, an dem Protoonkogene wie Ras beteiligt sind, kann durch Funktionsgewinnmutationen, die zu übermäßiger Zellproliferation führen, Krebs verursachen. Umgekehrt kann der hemmende Signalweg, an dem Tumorsuppressorgene wie p53 beteiligt sind, durch Funktionsverlustmutationen, die die Bremsen der Zellteilung entfernen, zu Krebs führen. Beide Mutationstypen stören die normale Zellzykluskontrolle und führen zu unkontrolliertem Wachstum.",
+      "ja": "癌の発生は、しばしば細胞周期調節経路の両方の機能不全を伴います。Rasのような原癌遺伝子を含む刺激経路は、過剰な細胞増殖を引き起こす機能獲得変異によって癌につながる可能性があります。逆に、p53のような腫瘍抑制遺伝子を含む抑制経路は、細胞分裂のブレーキを解除する機能喪失変異によって癌につながる可能性があります。両方のタイプの変異は、正常な細胞周期制御を妨げ、無制御な増殖を引き起こします。"
+    }
+  },
+  {
+    "page_number": 439,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the provided text, activated p53 protein can perform which of the following functions? (Select all that apply)",
+      "zh": "根据所提供的文本，活化的p53蛋白可以执行以下哪些功能？ (选择所有适用项)",
+      "es": "Según el texto proporcionado, ¿qué funciones puede realizar la proteína p53 activada? (Seleccione todas las que correspondan)",
+      "fr": "Selon le texte fourni, la protéine p53 activée peut remplir lesquelles des fonctions suivantes ? (Sélectionnez toutes les options applicables)",
+      "de": "Basierend auf dem bereitgestellten Text, welche der folgenden Funktionen kann das aktivierte p53-Protein ausführen? (Wählen Sie alle zutreffenden Optionen aus)",
+      "ja": "提供されたテキストに基づいて、活性化されたp53タンパク質は次のどの機能を実行できますか？（該当するものをすべて選択）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Activating transcription of genes for proteins that inhibit the cell cycle (e.g., p21).",
+          "zh": "激活抑制细胞周期的蛋白质基因的转录（例如p21）。",
+          "es": "Activar la transcripción de genes para proteínas que inhiben el ciclo celular (por ejemplo, p21).",
+          "fr": "Activer la transcription des gènes codant pour des protéines qui inhibent le cycle cellulaire (par exemple, p21).",
+          "de": "Die Transkription von Genen für Proteine aktivieren, die den Zellzyklus hemmen (z.B. p21).",
+          "ja": "細胞周期を阻害するタンパク質（例：p21）の遺伝子転写を活性化する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Directing the cell to undergo apoptosis if DNA damage is irreparable.",
+          "zh": "如果DNA损伤无法修复，指导细胞进行细胞凋亡。",
+          "es": "Dirigir la célula a sufrir apoptosis si el daño del ADN es irreparable.",
+          "fr": "Diriger la cellule vers l'apoptose si les dommages à l'ADN sont irréparables.",
+          "de": "Die Zelle zum programmierten Zelltod (Apoptose) veranlassen, wenn DNA-Schäden irreparabel sind.",
+          "ja": "DNA損傷が修復不能な場合、細胞にアポトーシスを誘導する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Halting the cell cycle by binding to cyclin-dependent kinases.",
+          "zh": "通过与细胞周期蛋白依赖性激酶结合来阻止细胞周期。",
+          "es": "Detener el ciclo celular al unirse a quinasas dependientes de ciclinas.",
+          "fr": "Arrêter le cycle cellulaire en se liant aux cyclines-dépendantes kinases.",
+          "de": "Den Zellzyklus durch Bindung an Cyclin-abhängige Kinasen anhalten.",
+          "ja": "サイクリン依存性キナーゼに結合することで細胞周期を停止させる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Promoting DNA repair.",
+          "zh": "促进DNA修复。",
+          "es": "Promover la reparación del ADN.",
+          "fr": "Promouvoir la réparation de l'ADN.",
+          "de": "DNA-Reparatur fördern.",
+          "ja": "DNA修復を促進する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Directly stimulating cell division.",
+          "zh": "直接刺激细胞分裂。",
+          "es": "Estimular directamente la división celular.",
+          "fr": "Stimuler directement la division cellulaire.",
+          "de": "Direkt die Zellteilung stimulieren.",
+          "ja": "直接的に細胞分裂を刺激する。"
+        },
+        "feedback": {
+          "en": "Activated p53 is a tumor suppressor that inhibits cell division; it does not directly stimulate it.",
+          "zh": "活化的p53是一种抑制细胞分裂的肿瘤抑制因子；它不直接刺激细胞分裂。",
+          "es": "La p53 activada es un supresor tumoral que inhibe la división celular; no la estimula directamente.",
+          "fr": "La p53 activée est un suppresseur de tumeurs qui inhibe la division cellulaire ; elle ne la stimule pas directement.",
+          "de": "Aktiviertes p53 ist ein Tumorsuppressor, der die Zellteilung hemmt; es stimuliert sie nicht direkt.",
+          "ja": "活性化されたp53は細胞分裂を抑制する腫瘍抑制因子であり、直接的に細胞分裂を刺激することはありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": {
+      "en": "The text describes p53 as the 'guardian angel of the genome' due to its multifaceted roles in maintaining genomic integrity. Upon activation (e.g., by DNA damage), p53 promotes the transcription of genes that inhibit the cell cycle (like p21, which halts the cell cycle by binding to CDKs), activates DNA repair genes, and initiates apoptosis if the damage is irreparable. These actions collectively prevent the replication of damaged cells and suppress tumor formation.",
+      "zh": "文本将p53描述为“基因组的守护天使”，因为它在维持基因组完整性方面发挥多方面作用。一旦被激活（例如，通过DNA损伤），p53会促进抑制细胞周期的基因（如p21，它通过结合CDK来阻止细胞周期）的转录，激活DNA修复基因，并在损伤无法修复时启动细胞凋亡。这些作用共同阻止受损细胞的复制并抑制肿瘤形成。",
+      "es": "El texto describe a p53 como el 'ángel guardián del genoma' debido a sus múltiples funciones en el mantenimiento de la integridad genómica. Tras su activación (por ejemplo, por daño en el ADN), p53 promueve la transcripción de genes que inhiben el ciclo celular (como p21, que detiene el ciclo celular al unirse a las CDK), activa genes de reparación del ADN e inicia la apoptosis si el daño es irreparable. Estas acciones en conjunto previenen la replicación de células dañadas y suprimen la formación de tumores.",
+      "fr": "Le texte décrit p53 comme « l'ange gardien du génome » en raison de ses rôles multiples dans le maintien de l'intégrité génomique. Lors de son activation (par exemple, par des dommages à l'ADN), p53 favorise la transcription de gènes qui inhibent le cycle cellulaire (comme p21, qui arrête le cycle cellulaire en se liant aux CDK), active les gènes de réparation de l'ADN et initie l'apoptose si les dommages sont irréparables. Ces actions empêchent collectivement la réplication des cellules endommagées et suppriment la formation de tumeurs.",
+      "de": "Der Text beschreibt p53 als den „Schutzengel des Genoms“ aufgrund seiner vielfältigen Rollen bei der Aufrechterhaltung der genomischen Integrität. Bei Aktivierung (z.B. durch DNA-Schäden) fördert p53 die Transkription von Genen, die den Zellzyklus hemmen (wie p21, das den Zellzyklus durch Bindung an CDKs anhält), aktiviert DNA-Reparaturgene und leitet Apoptose ein, wenn der Schaden irreparabel ist. Diese Maßnahmen verhindern kollektiv die Replikation geschädigter Zellen und unterdrücken die Tumorentstehung.",
+      "ja": "テキストではp53を「ゲノムの守護天使」と記述しており、ゲノムの完全性維持におけるその多面的な役割を強調しています。活性化されると（例えばDNA損傷によって）、p53は細胞周期を抑制する遺伝子（p21のようにCDKに結合して細胞周期を停止させる）の転写を促進し、DNA修復遺伝子を活性化し、損傷が修復不能な場合にはアポトーシスを開始させます。これらの作用は、損傷した細胞の複製を防ぎ、腫瘍形成を抑制します。"
+    }
+  }
+]

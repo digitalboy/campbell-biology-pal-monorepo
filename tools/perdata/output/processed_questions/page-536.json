@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 536,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following statements most accurately describes the process of evolution as discussed in the text?",
+      "zh": "根据文中讨论，以下哪项描述最准确地说明了进化的过程？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con mayor precisión el proceso de evolución tal como se discute en el texto?",
+      "fr": "Laquelle des affirmations suivantes décrit le plus précisément le processus d'évolution tel qu'il est discuté dans le texte ?",
+      "de": "Welche der folgenden Aussagen beschreibt den im Text diskutierten Evolutionsprozess am genauesten?",
+      "ja": "本文で議論されている進化のプロセスを最も正確に記述しているのは、次の記述のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Individuals evolve by changing their traits during their lifetime.",
+          "zh": "个体通过在其一生中改变其性状而进化。",
+          "es": "Los individuos evolucionan cambiando sus rasgos durante su vida.",
+          "fr": "Les individus évoluent en modifiant leurs traits au cours de leur vie.",
+          "de": "Individuen entwickeln sich, indem sie ihre Merkmale im Laufe ihres Lebens ändern.",
+          "ja": "個体は一生の間に形質を変化させることで進化する。"
+        },
+        "feedback": {
+          "en": "This is a common misconception highlighted in the text. Evolution occurs at the population level, not within individuals during their lifetime.",
+          "zh": "这是文中强调的一个常见误解。进化发生在群体层面，而不是个体在其一生中。",
+          "es": "Esta es una idea errónea común destacada en el texto. La evolución ocurre a nivel de población, no dentro de los individuos durante su vida.",
+          "fr": "C'est une idée fausse courante soulignée dans le texte. L'évolution se produit au niveau de la population, pas chez les individus au cours de leur vie.",
+          "de": "Dies ist ein im Text hervorgehobenes häufiges Missverständnis. Evolution findet auf Populationsebene statt, nicht innerhalb von Individuen während ihres Lebens.",
+          "ja": "これは本文で強調されている一般的な誤解です。進化は個体の一生の間に起こるのではなく、集団レベルで起こります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Populations evolve as the proportion of traits changes over generations.",
+          "zh": "群体随着性状比例在世代间的变化而进化。",
+          "es": "Las poblaciones evolucionan a medida que la proporción de rasgos cambia a lo largo de las generaciones.",
+          "fr": "Les populations évoluent à mesure que la proportion de traits change au fil des générations.",
+          "de": "Populationen entwickeln sich, wenn sich der Anteil der Merkmale über Generationen hinweg ändert.",
+          "ja": "形質の割合が世代を超えて変化するにつれて、集団は進化する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Only species, not individuals or populations, can evolve.",
+          "zh": "只有物种，而非个体或群体，才能进化。",
+          "es": "Solo las especies, no los individuos ni las poblaciones, pueden evolucionar.",
+          "fr": "Seules les espèces, pas les individus ni les populations, peuvent évoluer.",
+          "de": "Nur Arten, nicht Individuen oder Populationen, können sich entwickeln.",
+          "ja": "個体や集団ではなく、種のみが進化できる。"
+        },
+        "feedback": {
+          "en": "The text clearly states that evolution is about 'how a population of organisms changes over time.'",
+          "zh": "文中明确指出，进化是关于“生物种群如何随时间变化”。",
+          "es": "El texto establece claramente que la evolución se trata de 'cómo cambia una población de organismos con el tiempo'.",
+          "fr": "Le texte indique clairement que l'évolution concerne 'la façon dont une population d'organismes change au fil du temps'.",
+          "de": "Der Text besagt deutlich, dass Evolution davon handelt, 'wie sich eine Population von Organismen im Laufe der Zeit verändert'.",
+          "ja": "本文では、進化は「生物の集団が時間とともにどのように変化するか」についてであると明確に述べられています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Evolution is a process that only occurs over millions of years and cannot be observed in short timescales.",
+          "zh": "进化是一个只发生于数百万年间的过程，无法在短时间内观察到。",
+          "es": "La evolución es un proceso que solo ocurre durante millones de años y no puede observarse en escalas de tiempo cortas.",
+          "fr": "L'évolution est un processus qui ne se produit que sur des millions d'années et ne peut être observé à court terme.",
+          "de": "Evolution ist ein Prozess, der nur über Millionen von Jahren stattfindet und nicht in kurzen Zeiträumen beobachtet werden kann.",
+          "ja": "進化は何百万年もかけて起こるプロセスであり、短期間では観察できない。"
+        },
+        "feedback": {
+          "en": "The finch example demonstrates evolution occurring over a much shorter period (one generation following a drought).",
+          "zh": "雀鸟的例子表明进化可能在更短的时间内（干旱后的一代）发生。",
+          "es": "El ejemplo de los pinzones demuestra que la evolución ocurre en un período mucho más corto (una generación después de una sequía).",
+          "fr": "L'exemple des pinsons montre une évolution sur une période beaucoup plus courte (une génération après une sécheresse).",
+          "de": "Das Beispiel der Finken zeigt, dass Evolution über einen viel kürzeren Zeitraum (eine Generation nach einer Dürre) stattfindet.",
+          "ja": "フィンチの例は、進化がはるかに短い期間（干ばつ後の1世代）で起こることを示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text emphasizes that while natural selection acts on individuals, evolution is a change in the genetic composition of a population over generations. The finch example clearly illustrates this, showing that individual finches did not evolve, but the proportion of large beaks in the population increased over generations.",
+      "zh": "文中强调，虽然自然选择作用于个体，但进化是群体遗传组成在世代间发生变化的过程。雀鸟的例子清楚地说明了这一点，表明个体雀鸟并未进化，而是群体中大喙的比例在世代间增加了。",
+      "es": "El texto enfatiza que si bien la selección natural actúa sobre los individuos, la evolución es un cambio en la composición genética de una población a lo largo de las generaciones. El ejemplo de los pinzones ilustra claramente esto, mostrando que los pinzones individuales no evolucionaron, sino que la proporción de picos grandes en la población aumentó con el tiempo.",
+      "fr": "Le texte souligne que, bien que la sélection naturelle agisse sur les individus, l'évolution est un changement dans la composition génétique d'une population au fil des générations. L'exemple des pinsons l'illustre clairement, montrant que les pinsons individuels n'ont pas évolué, mais que la proportion de grands becs dans la population a augmenté au fil des générations.",
+      "de": "Der Text betont, dass, obwohl die natürliche Selektion auf Individuen wirkt, Evolution eine Veränderung in der genetischen Zusammensetzung einer Population über Generationen hinweg ist. Das Beispiel der Finken veranschaulicht dies deutlich, indem es zeigt, dass einzelne Finken sich nicht entwickelten, sondern der Anteil großer Schnäbel in der Population über Generationen hinweg zunahm.",
+      "ja": "本文では、自然選択が個体に作用する一方で、進化は世代を超えて集団の遺伝的構成が変化するプロセスであることを強調しています。フィンチの例はこの点を明確に示しており、個々のフィンチは進化しなかったものの、集団における大きなくちばしの割合が世代を超えて増加したことが示されています。"
+    }
+  },
+  {
+    "page_number": 536,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the text and Figure 23.2, what was the primary selective pressure that led to the change in average beak depth in the finch population after the 1977 drought?",
+      "zh": "根据文本和图23.2，导致1977年干旱后雀鸟群体平均喙深发生变化的主要选择压力是什么？",
+      "es": "Según el texto y la Figura 23.2, ¿cuál fue la principal presión selectiva que provocó el cambio en la profundidad promedio del pico en la población de pinzones después de la sequía de 1977?",
+      "fr": "D'après le texte et la Figure 23.2, quelle a été la principale pression sélective qui a entraîné le changement de la profondeur moyenne du bec chez la population de pinsons après la sécheresse de 1977 ?",
+      "de": "Basierend auf dem Text und Abbildung 23.2, welcher war der primäre Selektionsdruck, der zur Veränderung der durchschnittlichen Schnabeltiefe in der Finkenpopulation nach der Dürre von 1977 führte?",
+      "ja": "テキストと図23.2に基づくと、1977年の干ばつ後、フィンチの集団の平均くちばし深さの変化につながった主要な選択圧は何でしたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A sudden increase in the number of predators targeting small-beaked finches.",
+          "zh": "捕食者数量突然增加，专门捕食小喙雀鸟。",
+          "es": "Un aumento repentino en el número de depredadores que se dirigen a los pinzones de pico pequeño.",
+          "fr": "Une augmentation soudaine du nombre de prédateurs ciblant les pinsons à petit bec.",
+          "de": "Ein plötzlicher Anstieg der Anzahl von Raubtieren, die auf Finken mit kleinen Schnäbeln abzielen.",
+          "ja": "小さなくちばしのフィンチを標的とする捕食者の数が急増したこと。"
+        },
+        "feedback": {
+          "en": "The text mentions the scarcity of small, soft seeds and the abundance of large, hard seeds, not an increase in predators.",
+          "zh": "文中提到的是小型软种子稀缺，大型硬种子丰富，而不是捕食者增加。",
+          "es": "El texto menciona la escasez de semillas pequeñas y blandas y la abundancia de semillas grandes y duras, no un aumento de depredadores.",
+          "fr": "Le texte mentionne la rareté des petites graines molles et l'abondance des grandes graines dures, et non une augmentation des prédateurs.",
+          "de": "Der Text erwähnt die Knappheit kleiner, weicher Samen und die Fülle großer, harter Samen, nicht eine Zunahme von Raubtieren.",
+          "ja": "本文では、捕食者の増加ではなく、小さくて柔らかい種子の不足と大きくて硬い種子の豊富さが述べられています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The shift in available food sources due to the drought.",
+          "zh": "干旱导致可用食物来源的变化。",
+          "es": "El cambio en las fuentes de alimento disponibles debido a la sequía.",
+          "fr": "Le changement des sources de nourriture disponibles en raison de la sécheresse.",
+          "de": "Die Verschiebung der verfügbaren Nahrungsquellen aufgrund der Dürre.",
+          "ja": "干ばつによる利用可能な食料源の変化。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A new genetic mutation occurring in finches with deeper beaks, making them more adaptable.",
+          "zh": "深喙雀鸟出现新的基因突变，使其适应性更强。",
+          "es": "Una nueva mutación genética que ocurre en pinzones con picos más profundos, lo que los hace más adaptables.",
+          "fr": "Une nouvelle mutation génétique se produisant chez les pinsons à bec plus profond, les rendant plus adaptables.",
+          "de": "Eine neue genetische Mutation bei Finken mit tieferen Schnäbeln, die sie anpassungsfähiger macht.",
+          "ja": "より深いくちばしを持つフィンチに新しい遺伝子変異が発生し、適応性が高まったこと。"
+        },
+        "feedback": {
+          "en": "While mutations are a source of variation, the text emphasizes selection on *existing* variation ('beak depth is an inherited trait') due to environmental change, not a new mutation as the primary selective pressure itself.",
+          "zh": "尽管突变是变异的来源，但文本强调的是环境变化对*现有*变异（“喙深是遗传性状”）的选择，而不是新的突变本身作为主要选择压力。",
+          "es": "Aunque las mutaciones son una fuente de variación, el texto enfatiza la selección sobre la variación *existente* ('la profundidad del pico es un rasgo heredado') debido al cambio ambiental, no una nueva mutación como la presión selectiva principal en sí misma.",
+          "fr": "Bien que les mutations soient une source de variation, le texte insiste sur la sélection des variations *existantes* (« la profondeur du bec est un trait hérité ») due aux changements environnementaux, et non sur une nouvelle mutation comme pression sélective principale elle-même.",
+          "de": "Während Mutationen eine Quelle der Variation sind, betont der Text die Selektion auf *bestehende* Variation („Schnabeltiefe ist ein erbliches Merkmal“) aufgrund von Umweltveränderungen, nicht eine neue Mutation als den primären Selektionsdruck selbst.",
+          "ja": "突然変異は変異の源ですが、本文では、新たな突然変異が主要な選択圧としてではなく、環境変化による*既存の*変異（「くちばしの深さは遺伝形質である」）に対する選択が強調されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Increased competition for nesting sites, favoring finches with larger territories.",
+          "zh": "筑巢地点竞争加剧，有利于拥有更大领地的雀鸟。",
+          "es": "Aumento de la competencia por los sitios de anidación, favoreciendo a los pinzones con territorios más grandes.",
+          "fr": "Concurrence accrue pour les sites de nidification, favorisant les pinsons avec des territoires plus grands.",
+          "de": "Zunehmender Wettbewerb um Nistplätze, der Finken mit größeren Territorien begünstigt.",
+          "ja": "営巣地の競争激化により、より広範な縄張りを持つフィンチが有利になったこと。"
+        },
+        "feedback": {
+          "en": "The text specifically attributes the change to food availability, not nesting site competition.",
+          "zh": "文中明确将变化归因于食物的可获得性，而不是筑巢地点的竞争。",
+          "es": "El texto atribuye específicamente el cambio a la disponibilidad de alimentos, no a la competencia por los sitios de anidación.",
+          "fr": "Le texte attribue spécifiquement le changement à la disponibilité de la nourriture, et non à la concurrence pour les sites de nidification.",
+          "de": "Der Text führt die Veränderung ausdrücklich auf die Verfügbarkeit von Nahrung zurück, nicht auf den Wettbewerb um Nistplätze.",
+          "ja": "本文では、変化は営巣地の競争ではなく、食料の利用可能性に起因すると明確に述べています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that during the 1977 drought, 'small, soft seeds were scarce, while large, hard seeds were more plentiful.' This led to birds with 'larger, deeper beaks' surviving at a higher rate because they were 'better able to crack and eat the larger seeds.' Figure 23.2 visually confirms the increase in average beak depth after the drought (from ~8.9 mm in 1976 to ~9.7 mm in 1978). Therefore, the primary selective pressure was the change in food availability.",
+      "zh": "文本指出，在1977年干旱期间，“小型软种子稀缺，而大型硬种子更充足。” 这导致“更大、更深喙”的鸟类以更高的比率存活，因为它们“更能有效啄食并吃掉大型种子”。图23.2直观地证实了干旱后平均喙深的增加（从1976年的约8.9毫米增加到1978年的约9.7毫米）。因此，主要的选择压力是食物来源的变化。",
+      "es": "El texto afirma que durante la sequía de 1977, 'las semillas pequeñas y blandas eran escasas, mientras que las semillas grandes y duras eran más abundantes'. Esto llevó a que las aves con 'picos más grandes y profundos' sobrevivieran a una tasa más alta porque estaban 'mejor capacitadas para romper y comer las semillas más grandes'. La Figura 23.2 confirma visualmente el aumento en la profundidad promedio del pico después de la sequía (de aproximadamente 8.9 mm en 1976 a aproximadamente 9.7 mm en 1978). Por lo tanto, la principal presión selectiva fue el cambio en la disponibilidad de alimentos.",
+      "fr": "Le texte indique que pendant la sécheresse de 1977, « les petites graines molles étaient rares, tandis que les grandes graines dures étaient plus abondantes ». Cela a conduit à une survie plus élevée des oiseaux avec des « becs plus grands et plus profonds » car ils étaient « mieux capables de casser et de manger les grandes graines ». La Figure 23.2 confirme visuellement l'augmentation de la profondeur moyenne du bec après la sécheresse (d'environ 8,9 mm en 1976 à environ 9,7 mm en 1978). Par conséquent, la principale pression sélective était le changement dans la disponibilité de la nourriture.",
+      "de": "Der Text besagt, dass während der Dürre von 1977 'kleine, weiche Samen knapp waren, während große, harte Samen reichlicher vorhanden waren'. Dies führte dazu, dass Vögel mit 'größeren, tieferen Schnäbeln' zu einer höheren Rate überlebten, da sie 'besser in der Lage waren, die größeren Samen zu knacken und zu fressen'. Abbildung 23.2 bestätigt visuell die Zunahme der durchschnittlichen Schnabeltiefe nach der Dürre (von ca. 8,9 mm im Jahr 1976 auf ca. 9,7 mm im Jahr 1978). Daher war der primäre Selektionsdruck die Veränderung der Nahrungsverfügbarkeit.",
+      "ja": "本文によると、1977年の干ばつ中、「小さくて柔らかい種子は不足し、大きくて硬い種子は豊富でした」。これにより、「大きくて深いくちばし」を持つ鳥が「大きな種子をよりうまく割って食べることができた」ため、高い生存率を示しました。図23.2は、干ばつ後の平均くちばし深さの増加（1976年の約8.9 mmから1978年の約9.7 mmへ）を視覚的に確認しています。したがって、主な選択圧は食料源の変化でした。"
+    }
+  },
+  {
+    "page_number": 536,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "The text identifies three main mechanisms that can cause changes in allele frequencies (microevolution). Which of these mechanisms is consistently described as improving the degree to which organisms are well suited for life in their environment (adaptation)?",
+      "zh": "文本指出了导致等位基因频率变化（微进化）的三个主要机制。这些机制中，哪一个被持续描述为提高生物对环境的适应程度？",
+      "es": "El texto identifica tres mecanismos principales que pueden causar cambios en las frecuencias alélicas (microevolución). ¿Cuál de estos mecanismos se describe consistentemente como el que mejora el grado en que los organismos están bien adaptados a la vida en su entorno (adaptación)?",
+      "fr": "Le texte identifie trois mécanismes principaux pouvant entraîner des changements de fréquences alléliques (microévolution). Lequel de ces mécanismes est constamment décrit comme améliorant le degré d'adaptation des organismes à leur environnement (adaptation) ?",
+      "de": "Der Text identifiziert drei Hauptmechanismen, die Veränderungen in den Allelfrequenzen (Mikroevolution) verursachen können. Welcher dieser Mechanismen wird durchweg als derjenige beschrieben, der das Ausmaß verbessert, in dem Organismen gut an das Leben in ihrer Umgebung angepasst sind (Anpassung)?",
+      "ja": "本文では、対立遺伝子頻度の変化（微小進化）を引き起こす主要な3つのメカニズムが特定されています。これらのメカニズムのうち、生物が環境に適応する程度を一貫して改善すると記述されているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Genetic drift",
+          "zh": "遗传漂变",
+          "es": "Deriva genética",
+          "fr": "Dérive génétique",
+          "de": "Gendrift",
+          "ja": "遺伝的浮動"
+        },
+        "feedback": {
+          "en": "Genetic drift refers to chance events that alter allele frequencies and does not consistently lead to adaptation.",
+          "zh": "遗传漂变是指改变等位基因频率的偶然事件，并不能持续地导致适应。",
+          "es": "La deriva genética se refiere a eventos aleatorios que alteran las frecuencias alélicas y no conduce consistentemente a la adaptación.",
+          "fr": "La dérive génétique fait référence à des événements aléatoires qui modifient les fréquences alléliques et ne conduit pas systématiquement à l'adaptation.",
+          "de": "Gendrift bezieht sich auf Zufallsereignisse, die Allelfrequenzen verändern und führt nicht durchweg zur Anpassung.",
+          "ja": "遺伝的浮動は、対立遺伝子頻度を変化させる偶然の出来事を指し、一貫して適応につながるわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Gene flow",
+          "zh": "基因流",
+          "es": "Flujo génico",
+          "fr": "Flux génique",
+          "de": "Genfluss",
+          "ja": "遺伝子流動"
+        },
+        "feedback": {
+          "en": "Gene flow is the transfer of alleles between populations, which can introduce new alleles but doesn't consistently lead to adaptation.",
+          "zh": "基因流是种群之间等位基因的转移，它可以引入新的等位基因，但不能持续地导致适应。",
+          "es": "El flujo génico es la transferencia de alelos entre poblaciones, lo que puede introducir nuevos alelos pero no conduce consistentemente a la adaptación.",
+          "fr": "Le flux génique est le transfert d'allèles entre populations, ce qui peut introduire de nouveaux allèles mais ne conduit pas systématiquement à l'adaptation.",
+          "de": "Genfluss ist die Übertragung von Allelen zwischen Populationen, was neue Allele einführen kann, aber nicht durchweg zur Anpassung führt.",
+          "ja": "遺伝子流動は集団間の対立遺伝子の移動であり、新しい対立遺伝子を導入することはできますが、一貫して適応につながるわけではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Natural selection",
+          "zh": "自然选择",
+          "es": "Selección natural",
+          "fr": "Sélection naturelle",
+          "de": "Natürliche Selektion",
+          "ja": "自然選択"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Genetic mutation",
+          "zh": "基因突变",
+          "es": "Mutación genética",
+          "fr": "Mutation génétique",
+          "de": "Genetische Mutation",
+          "ja": "遺伝子突然変異"
+        },
+        "feedback": {
+          "en": "Genetic mutation is a source of new alleles, but not a mechanism that consistently improves adaptation directly. It provides the raw material for selection.",
+          "zh": "基因突变是新等位基因的来源，但它本身不是一个能持续直接改善适应的机制。它为选择提供了原材料。",
+          "es": "La mutación genética es una fuente de nuevos alelos, pero no un mecanismo que mejore consistentemente la adaptación directamente. Proporciona la materia prima para la selección.",
+          "fr": "La mutation génétique est une source de nouveaux allèles, mais pas un mécanisme qui améliore directement et constamment l'adaptation. Elle fournit la matière première pour la sélection.",
+          "de": "Genetische Mutation ist eine Quelle neuer Allele, aber kein Mechanismus, der die Anpassung direkt und konsequent verbessert. Sie liefert das Rohmaterial für die Selektion.",
+          "ja": "遺伝子突然変異は新しい対立遺伝子の源ですが、直接的に適応を一貫して改善するメカニズムではありません。それは選択のための原材料を提供します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states: 'Each of these mechanisms affects the genetic composition of populations, but only natural selection consistently improves the degree to which organisms are well suited for life in their environment (adaptation).'",
+      "zh": "文本指出：“这些机制中的每一种都会影响种群的遗传组成，但只有自然选择才能持续地提高生物对环境的适应程度。”",
+      "es": "El texto afirma: 'Cada uno de estos mecanismos afecta la composición genética de las poblaciones, pero solo la selección natural mejora consistentemente el grado en que los organismos están bien adaptados a la vida en su entorno (adaptación)'.",
+      "fr": "Le texte déclare : « Chacun de ces mécanismes affecte la composition génétique des populations, mais seule la sélection naturelle améliore constamment le degré d'adaptation des organismes à leur environnement (adaptation). »",
+      "de": "Der Text besagt: „Jeder dieser Mechanismen beeinflusst die genetische Zusammensetzung von Populationen, aber nur die natürliche Selektion verbessert durchweg das Ausmaß, in dem Organismen gut an das Leben in ihrer Umgebung angepasst sind (Anpassung).“",
+      "ja": "本文には「これらのメカニズムのそれぞれが集団の遺伝的構成に影響を与えますが、自然選択のみが、生物がその環境での生活にどの程度適応しているかを一貫して向上させます（適応）」と記載されています。"
+    }
+  },
+  {
+    "page_number": 536,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text distinguishes between two ways phenotypic differences vary. Which of the following best describes \"gradational\" phenotypic differences as opposed to \"either-or\" differences?",
+      "zh": "文本区分了表型差异的两种变化方式。以下哪项最能描述“渐变式”表型差异与“非此即彼”差异的区别？",
+      "es": "El texto distingue entre dos formas en que varían las diferencias fenotípicas. ¿Cuál de las siguientes describe mejor las diferencias fenotípicas 'graduales' en oposición a las diferencias 'de uno u otro tipo'?",
+      "fr": "Le texte distingue deux manières dont les différences phénotypiques varient. Laquelle des descriptions suivantes décrit le mieux les différences phénotypiques « graduelles » par opposition aux différences « tout ou rien » ?",
+      "de": "Der Text unterscheidet zwischen zwei Arten, wie sich phänotypische Unterschiede variieren. Welche der folgenden Beschreibungen charakterisiert „abstufende“ phänotypische Unterschiede am besten im Gegensatz zu „Entweder-Oder“-Unterschieden?",
+      "ja": "本文では、表現型の違いが変化する2つの方法を区別しています。次のうち、「どちらか一方」の違いとは対照的に、「段階的」な表現型の違いを最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "\"Gradational\" traits are determined by a single gene locus, while \"either-or\" traits are influenced by multiple genes.",
+          "zh": "“渐变式”性状由单一基因位点决定，而“非此即彼”性状受多个基因影响。",
+          "es": "Los rasgos 'graduales' están determinados por un único locus genético, mientras que los rasgos 'de uno u otro tipo' están influenciados por múltiples genes.",
+          "fr": "Les traits « graduels » sont déterminés par un locus génique unique, tandis que les traits « tout ou rien » sont influencés par plusieurs gènes.",
+          "de": "„Abstufende“ Merkmale werden durch einen einzelnen Genlocus bestimmt, während „Entweder-Oder“-Merkmale von mehreren Genen beeinflusst werden.",
+          "ja": "「段階的」な形質は単一の遺伝子座によって決定され、「どちらか一方」の形質は複数の遺伝子の影響を受ける。"
+        },
+        "feedback": {
+          "en": "This statement reverses the correct genetic basis. 'Either-or' traits are typically determined by a single gene, and 'gradational' traits usually result from the influence of two or more genes.",
+          "zh": "这个描述颠倒了正确的遗传基础。“非此即彼”性状通常由单一基因决定，而“渐变式”性状通常是两个或更多基因影响的结果。",
+          "es": "Esta afirmación invierte la base genética correcta. Los rasgos 'de uno u otro tipo' son típicamente determinados por un solo gen, y los rasgos 'graduales' generalmente resultan de la influencia de dos o más genes.",
+          "fr": "Cette affirmation inverse la base génétique correcte. Les traits « tout ou rien » sont généralement déterminés par un seul gène, et les traits « graduels » résultent habituellement de l'influence de deux gènes ou plus.",
+          "de": "Diese Aussage kehrt die korrekte genetische Grundlage um. „Entweder-Oder“-Merkmale werden typischerweise durch ein einzelnes Gen bestimmt, und „abstufende“ Merkmale resultieren in der Regel aus dem Einfluss von zwei oder mehr Genen.",
+          "ja": "この記述は、正しい遺伝的基盤を逆にしています。「どちらか一方」の形質は通常単一の遺伝子によって決定され、「段階的」な形質は通常2つ以上の遺伝子の影響の結果です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "\"Gradational\" traits show distinct categories (e.g., purple or white flowers), while \"either-or\" traits vary along a continuum (e.g., height).",
+          "zh": "“渐变式”性状表现出明显的类别（例如紫色或白色花朵），而“非此即彼”性状则沿连续体变化（例如身高）。",
+          "es": "Los rasgos 'graduales' muestran categorías distintas (por ejemplo, flores moradas o blancas), mientras que los rasgos 'de uno u otro tipo' varían a lo largo de un continuo (por ejemplo, altura).",
+          "fr": "Les traits « graduels » présentent des catégories distinctes (par exemple, fleurs violettes ou blanches), tandis que les traits « tout ou rien » varient le long d'un continuum (par exemple, la taille).",
+          "de": "„Abstufende“ Merkmale zeigen deutliche Kategorien (z.B. violette oder weiße Blüten), während „Entweder-Oder“-Merkmale entlang eines Kontinuums variieren (z.B. Körpergröße).",
+          "ja": "「段階的」な形質は明確なカテゴリ（例：紫または白の花）を示し、「どちらか一方」の形質は連続的に変化する（例：身長）。"
+        },
+        "feedback": {
+          "en": "This statement reverses the definition and examples. 'Either-or' traits have distinct categories, and 'gradational' traits vary along a continuum.",
+          "zh": "这个描述颠倒了定义和例子。“非此即彼”性状具有明显的类别，而“渐变式”性状则沿连续体变化。",
+          "es": "Esta afirmación invierte la definición y los ejemplos. Los rasgos 'de uno u otro tipo' tienen categorías distintas, y los rasgos 'graduales' varían a lo largo de un continuo.",
+          "fr": "Cette affirmation inverse la définition et les exemples. Les traits « tout ou rien » ont des catégories distinctes, et les traits « graduels » varient le long d'un continuum.",
+          "de": "Diese Aussage kehrt die Definition und Beispiele um. „Entweder-Oder“-Merkmale haben deutliche Kategorien, und „abstufende“ Merkmale variieren entlang eines Kontinuums.",
+          "ja": "この記述は定義と例を逆転させています。「どちらか一方」の形質は明確なカテゴリを持ち、「段階的」な形質は連続的に変化します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "\"Gradational\" traits typically result from the influence of multiple genes, while \"either-or\" traits are determined by a single gene locus.",
+          "zh": "“渐变式”性状通常是多个基因影响的结果，而“非此即彼”性状由单一基因位点决定。",
+          "es": "Los rasgos 'graduales' suelen ser el resultado de la influencia de múltiples genes, mientras que los rasgos 'de uno u otro tipo' están determinados por un único locus genético.",
+          "fr": "Les traits « graduels » résultent généralement de l'influence de plusieurs gènes, tandis que les traits « tout ou rien » sont déterminés par un seul locus génique.",
+          "de": "„Abstufende“ Merkmale resultieren typischerweise aus dem Einfluss mehrerer Gene, während „Entweder-Oder“-Merkmale durch einen einzelnen Genlocus bestimmt werden.",
+          "ja": "「段階的」な形質は通常複数の遺伝子の影響の結果であり、「どちらか一方」の形質は単一の遺伝子座によって決定される。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "\"Gradational\" traits are only observable in molecular form, while \"either-or\" traits are always visible phenotypic differences.",
+          "zh": "“渐变式”性状只能以分子形式观察到，而“非此即彼”性状总是可见的表型差异。",
+          "es": "Los rasgos 'graduales' solo son observables en forma molecular, mientras que los rasgos 'de uno u otro tipo' son siempre diferencias fenotípicas visibles.",
+          "fr": "Les traits « graduels » ne sont observables que sous forme moléculaire, tandis que les traits « tout ou rien » sont toujours des différences phénotypiques visibles.",
+          "de": "„Abstufende“ Merkmale sind nur in molekularer Form beobachtbar, während „Entweder-Oder“-Merkmale immer sichtbare phänotypische Unterschiede sind.",
+          "ja": "「段階的」な形質は分子レベルでのみ観察可能であり、「どちらか一方」の形質は常に目に見える表現型の違いである。"
+        },
+        "feedback": {
+          "en": "This distinction is not supported by the text. Both types of traits can manifest as visible phenotypes (e.g., horse coat color for gradational, pea flower color for either-or). Molecular traits are mentioned as another type of variation generally, not specific to 'gradational' differences.",
+          "zh": "这种区分没有文本支持。两种性状都可以表现为可见的表型（例如渐变式的马毛色，非此即彼的豌豆花色）。分子性状只是作为一种普遍的变异类型提及，并非特指“渐变式”差异。",
+          "es": "Esta distinción no está respaldada por el texto. Ambos tipos de rasgos pueden manifestarse como fenotipos visibles (por ejemplo, el color del pelaje de los caballos para los graduales, el color de las flores de guisante para los de uno u otro tipo). Los rasgos moleculares se mencionan como otro tipo de variación en general, no específicos de las diferencias 'graduales'.",
+          "fr": "Cette distinction n'est pas étayée par le texte. Les deux types de traits peuvent se manifester sous forme de phénotypes visibles (par exemple, la couleur du pelage des chevaux pour les traits graduels, la couleur des fleurs de pois pour les traits tout ou rien). Les traits moléculaires sont mentionnés comme un autre type de variation en général, et non spécifiquement pour les différences « graduelles ».",
+          "de": "Diese Unterscheidung wird durch den Text nicht gestützt. Beide Arten von Merkmalen können als sichtbare Phänotypen in Erscheinung treten (z.B. Pferdefellfarbe für abstufende, Erbsenblütenfarbe für Entweder-Oder). Molekulare Merkmale werden allgemein als eine andere Art der Variation erwähnt, nicht spezifisch für „abstufende“ Unterschiede.",
+          "ja": "この区別は本文では支持されていません。どちらの種類の形質も目に見える表現型として現れる可能性があります（例：段階的な形質としての馬の毛色、どちらか一方の形質としてのエンドウ豆の花の色）。分子形質は、一般的に別の種類の変異として言及されており、「段階的」な違いに特有のものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explains: 'Some heritable phenotypic differences occur on an 'either-or' basis, such as the flower colors of Mendel's pea plants... Characters that vary in this way are typically determined by a single gene locus, with different alleles producing distinct phenotypes. In contrast, other phenotypic differences vary in gradations along a continuum. Such variation usually results from the influence of two or more genes on a single phenotypic character.'",
+      "zh": "文本解释道：“有些可遗传的表型差异是‘非此即彼’的，例如孟德尔豌豆植株的花色……以这种方式变化的性状通常由单一基因位点决定，不同的等位基因产生不同的表型。相反，其他表型差异则沿连续体渐变。这种变异通常是两个或更多基因对单个表型性状影响的结果。”",
+      "es": "El texto explica: 'Algunas diferencias fenotípicas heredables ocurren sobre una base 'de uno u otro tipo', como los colores de las flores de las plantas de guisantes de Mendel... Los caracteres que varían de esta manera suelen estar determinados por un único locus genético, con diferentes alelos que producen fenotipos distintos. En contraste, otras diferencias fenotípicas varían en gradaciones a lo largo de un continuo. Dicha variación generalmente resulta de la influencia de dos o más genes sobre un solo carácter fenotípico.'",
+      "fr": "Le texte explique : « Certaines différences phénotypiques héritables se manifestent sur une base « tout ou rien », comme les couleurs des fleurs des plants de pois de Mendel... Les caractères qui varient de cette manière sont généralement déterminés par un seul locus génique, avec différents allèles produisant des phénotypes distincts. En revanche, d'autres différences phénotypiques varient par gradations le long d'un continuum. Une telle variation résulte généralement de l'influence de deux gènes ou plus sur un seul caractère phénotypique. »",
+      "de": "Der Text erklärt: „Einige vererbbare phänotypische Unterschiede treten auf einer ‚Entweder-Oder‘-Basis auf, wie die Blütenfarben von Mendels Erbsenpflanzen... Merkmale, die auf diese Weise variieren, werden typischerweise durch einen einzelnen Genlocus bestimmt, wobei verschiedene Allele unterschiedliche Phänotypen hervorrufen. Im Gegensatz dazu variieren andere phänotypische Unterschiede in Abstufungen entlang eines Kontinuums. Solche Variationen resultieren normalerweise aus dem Einfluss von zwei oder mehr Genen auf ein einzelnes phänotypisches Merkmal.“",
+      "ja": "本文では次のように説明されています。「遺伝性の表現型差の一部は『どちらか一方』に基づいて現れます。例えば、メンデルのエンドウ豆の植物の花の色などです…この方法で変化する形質は、通常、単一の遺伝子座によって決定され、異なる対立遺伝子が異なる表現型を生み出します。対照的に、他の表現型の違いは連続的な段階で変化します。このような変異は通常、2つ以上の遺伝子が単一の表現型形質に影響を与える結果として生じます。」"
+    }
+  }
+]

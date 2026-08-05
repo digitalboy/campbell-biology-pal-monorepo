@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 1124,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes the ionic events during the rising and falling phases of an action potential?",
+      "zh": "以下哪项陈述准确描述了动作电位上升期和下降期期间的离子事件？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión los eventos iónicos durante las fases ascendente y descendente de un potencial de acción?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision les événements ioniques pendant les phases ascendante et descendante d'un potentiel d'action ?",
+      "de": "Welche der folgenden Aussagen beschreibt die ionischen Ereignisse während der aufsteigenden und absteigenden Phasen eines Aktionspotenzials genau?",
+      "ja": "活動電位の上昇期および下降期におけるイオンイベントを正確に記述しているのは、次の記述のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "During the rising phase, voltage-gated K+ channels open, leading to K+ outflow.",
+          "zh": "在上升期，电压门控钾通道打开，导致钾离子外流。",
+          "es": "Durante la fase ascendente, los canales de K+ dependientes de voltaje se abren, lo que lleva a la salida de K+.",
+          "fr": "Pendant la phase ascendante, les canaux K+ voltage-dépendants s'ouvrent, entraînant une sortie de K+.",
+          "de": "Während der aufsteigenden Phase öffnen sich spannungsgesteuerte K+-Kanäle, was zu einem K+-Ausstrom führt.",
+          "ja": "上昇期には、電圧依存性K+チャネルが開口し、K+が流出します。"
+        },
+        "feedback": {
+          "en": "Incorrect. The rising phase is primarily due to the rapid influx of Na+ through voltage-gated Na+ channels, not K+ channels.",
+          "zh": "不正确。上升期主要是由于电压门控钠通道的快速钠离子内流，而不是钾通道。",
+          "es": "Incorrecto. La fase ascendente se debe principalmente a la rápida afluencia de Na+ a través de los canales de Na+ dependientes de voltaje, no a los canales de K+.",
+          "fr": "Incorrect. La phase ascendante est principalement due à l'afflux rapide de Na+ à travers les canaux Na+ voltage-dépendants, et non les canaux K+.",
+          "de": "Falsch. Die aufsteigende Phase ist hauptsächlich auf den schnellen Einstrom von Na+ durch spannungsgesteuerte Na+-Kanäle zurückzuführen, nicht auf K+-Kanäle.",
+          "ja": "不正解です。上昇期は主に、電圧依存性Na+チャネルを介したNa+の急速な流入によるものであり、K+チャネルではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The falling phase is characterized by the inactivation of voltage-gated Na+ channels and the opening of voltage-gated K+ channels, causing K+ outflow.",
+          "zh": "下降期的特征是电压门控钠通道失活和电压门控钾通道打开，导致钾离子外流。",
+          "es": "La fase descendente se caracteriza por la inactivación de los canales de Na+ dependientes de voltaje y la apertura de los canales de K+ dependientes de voltaje, lo que provoca la salida de K+.",
+          "fr": "La phase descendante est caractérisée par l'inactivation des canaux Na+ voltage-dépendants et l'ouverture des canaux K+ voltage-dépendants, entraînant une sortie de K+.",
+          "de": "Die absteigende Phase ist durch die Inaktivierung spannungsgesteuerter Na+-Kanäle und die Öffnung spannungsgesteuerter K+-Kanäle gekennzeichnet, was zu einem K+-Ausstrom führt.",
+          "ja": "下降期は、電圧依存性Na+チャネルの不活性化と電圧依存性K+チャネルの開口によって特徴づけられ、K+流出を引き起こします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The undershoot phase occurs when the membrane's permeability to Na+ is higher than at rest, making the potential closer to ENa.",
+          "zh": "超极化期（undershoot）发生时，膜对钠离子的通透性高于静息状态，使电位更接近ENa。",
+          "es": "La fase de hiperpolarización (undershoot) ocurre cuando la permeabilidad de la membrana al Na+ es mayor que en reposo, acercando el potencial a ENa.",
+          "fr": "La phase d'hyperpolarisation (undershoot) se produit lorsque la perméabilité de la membrane au Na+ est plus élevée qu'au repos, rapprochant le potentiel de l'ENa.",
+          "de": "Die Undershoot-Phase tritt auf, wenn die Permeabilität der Membran für Na+ höher ist als im Ruhezustand, wodurch das Potenzial näher an ENa herangeführt wird.",
+          "ja": "アンダーシュート期は、膜のNa+透過性が静止時よりも高くなり、電位がENaに近づくときに発生します。"
+        },
+        "feedback": {
+          "en": "Incorrect. During the undershoot, K+ permeability is higher than at rest, bringing the membrane potential closer to EK, not ENa.",
+          "zh": "不正确。在超极化期（undershoot），钾离子通透性高于静息状态，使膜电位更接近EK，而不是ENa。",
+          "es": "Incorrecto. Durante la hiperpolarización (undershoot), la permeabilidad al K+ es mayor que en reposo, acercando el potencial de membrana a EK, no a ENa.",
+          "fr": "Incorrect. Pendant l'hyperpolarisation (undershoot), la perméabilité au K+ est plus élevée qu'au repos, rapprochant le potentiel de membrane de l'EK, et non de l'ENa.",
+          "de": "Falsch. Während des Undershoots ist die K+-Permeabilität höher als im Ruhezustand, wodurch das Membranpotenzial näher an EK, nicht ENa, herangeführt wird.",
+          "ja": "不正解です。アンダーシュート期には、K+透過性が静止時よりも高くなり、膜電位がENaではなくEKに近づきます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The rising phase brings the membrane potential toward EK, due to rapid Na+ influx.",
+          "zh": "上升期由于钠离子快速内流，使膜电位接近EK。",
+          "es": "La fase ascendente acerca el potencial de membrana a EK, debido a la rápida afluencia de Na+.",
+          "fr": "La phase ascendante rapproche le potentiel de membrane de l'EK, en raison d'un afflux rapide de Na+.",
+          "de": "Die aufsteigende Phase bringt das Membranpotenzial aufgrund des schnellen Na+-Einstroms in Richtung EK.",
+          "ja": "上昇期は、Na+の急速な流入により、膜電位をEKに近づけます。"
+        },
+        "feedback": {
+          "en": "Incorrect. The rising phase brings the membrane potential toward ENa, as it is driven by Na+ influx.",
+          "zh": "不正确。上升期是由钠离子内流驱动的，使膜电位接近ENa。",
+          "es": "Incorrecto. La fase ascendente acerca el potencial de membrana a ENa, ya que es impulsada por la afluencia de Na+.",
+          "fr": "Incorrect. La phase ascendante rapproche le potentiel de membrane de l'ENa, car elle est entraînée par l'afflux de Na+.",
+          "de": "Falsch. Die aufsteigende Phase bringt das Membranpotenzial in Richtung ENa, da sie durch den Na+-Einstrom angetrieben wird.",
+          "ja": "不正解です。上昇期はNa+の流入によって駆動されるため、膜電位をENaに近づけます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The rising phase is caused by the rapid influx of Na+ as voltage-gated Na+ channels open, bringing the membrane potential closer to ENa. The falling phase is due to the inactivation of Na+ channels and the opening of voltage-gated K+ channels, which leads to K+ outflow and repolarization back toward EK. The undershoot phase is characterized by an even higher permeability to K+ than at rest, bringing the membrane potential closer to EK before it returns to resting potential.",
+      "zh": "上升期是由电压门控钠通道打开导致钠离子快速内流引起的，使膜电位接近ENa。下降期是由于钠通道失活和电压门控钾通道打开，导致钾离子外流并使其复极化回到EK。超极化期（undershoot）的特点是钾离子通透性高于静息状态，使膜电位更接近EK，然后才恢复到静息电位。",
+      "es": "La fase ascendente es causada por la rápida afluencia de Na+ a medida que se abren los canales de Na+ dependientes de voltaje, acercando el potencial de membrana a ENa. La fase descendente se debe a la inactivación de los canales de Na+ y la apertura de los canales de K+ dependientes de voltaje, lo que conduce a la salida de K+ y a la repolarización hacia EK. La fase de hiperpolarización (undershoot) se caracteriza por una permeabilidad al K+ aún mayor que en reposo, acercando el potencial de membrana a EK antes de que regrese al potencial de reposo.",
+      "fr": "La phase ascendante est causée par l'afflux rapide de Na+ à mesure que les canaux Na+ voltage-dépendants s'ouvrent, rapprochant le potentiel de membrane de l'ENa. La phase descendante est due à l'inactivation des canaux Na+ et à l'ouverture des canaux K+ voltage-dépendants, ce qui entraîne une sortie de K+ et une repolarisation vers l'EK. La phase d'hyperpolarisation (undershoot) est caractérisée par une perméabilité au K+ encore plus élevée qu'au repos, rapprochant le potentiel de membrane de l'EK avant qu'il ne revienne au potentiel de repos.",
+      "de": "Die aufsteigende Phase wird durch den schnellen Einstrom von Na+ verursacht, wenn spannungsgesteuerte Na+-Kanäle öffnen, wodurch das Membranpotenzial näher an ENa herangeführt wird. Die absteigende Phase ist auf die Inaktivierung der Na+-Kanäle und die Öffnung spannungsgesteuerter K+-Kanäle zurückzuführen, was zu einem K+-Ausstrom und einer Repolarisation zurück in Richtung EK führt. Die Undershoot-Phase ist durch eine noch höhere K+-Permeabilität als im Ruhezustand gekennzeichnet, wodurch das Membranpotenzial näher an EK herangeführt wird, bevor es zum Ruhepotenzial zurückkehrt.",
+      "ja": "上昇期は、電位依存性Na+チャネルの開口によるNa+の急速な流入によって引き起こされ、膜電位がENaに近づきます。下降期は、Na+チャネルの不活性化と電位依存性K+チャネルの開口によるもので、K+の流出とEKへの再分極を引き起こします。アンダーシュート期は、静止時よりもK+透過性がさらに高まり、膜電位が静止電位に戻る前にEKにさらに近づくことによって特徴づけられます。"
+    }
+  },
+  {
+    "page_number": 1124,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, the refractory period prevents the initiation of a second action potential. What is the primary reason for this period?",
+      "zh": "根据文本，不应期阻止了第二个动作电位的启动。这个时期的主要原因是什么？",
+      "es": "Según el texto, el período refractario impide la iniciación de un segundo potencial de acción. ¿Cuál es la razón principal de este período?",
+      "fr": "Selon le texte, la période réfractaire empêche l'initiation d'un second potentiel d'action. Quelle est la raison principale de cette période ?",
+      "de": "Laut Text verhindert die Refraktärzeit die Initiierung eines zweiten Aktionspotenzials. Was ist der Hauptgrund für diese Zeit?",
+      "ja": "テキストによると、不応期は第二の活動電位の開始を妨げます。この期間の主な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "An immediate change in the ion concentration gradients across the plasma membrane.",
+          "zh": "质膜两侧离子浓度梯度的即时变化。",
+          "es": "Un cambio inmediato en los gradientes de concentración iónica a través de la membrana plasmática.",
+          "fr": "Un changement immédiat des gradients de concentration ionique à travers la membrane plasmatique.",
+          "de": "Eine unmittelbare Veränderung der Ionentkonzentrationsgradienten über die Plasmamembran hinweg.",
+          "ja": "原形質膜を横切るイオン濃度勾配の即時的な変化。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text explicitly states that the refractory period is 'not to a change in the ion concentration gradients'.",
+          "zh": "不正确。文本明确指出，不应期“不是由于离子浓度梯度的变化”。",
+          "es": "Incorrecto. El texto afirma explícitamente que el período refractario 'no se debe a un cambio en los gradientes de concentración iónica'.",
+          "fr": "Incorrect. Le texte indique explicitement que la période réfractaire « n'est pas due à un changement des gradients de concentration ionique ».",
+          "de": "Falsch. Der Text besagt ausdrücklich, dass die Refraktärzeit „nicht auf eine Änderung der Ionentkonzentrationsgradienten“ zurückzuführen ist.",
+          "ja": "不正解です。本文には、不応期が「イオン濃度勾配の変化によるものではない」と明記されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The voltage-gated potassium channels remain open indefinitely, hyperpolarizing the membrane.",
+          "zh": "电压门控钾通道无限期保持开放，使膜超极化。",
+          "es": "Los canales de potasio dependientes de voltaje permanecen abiertos indefinidamente, hiperpolarizando la membrana.",
+          "fr": "Les canaux potassiques voltage-dépendants restent ouverts indéfiniment, hyperpolarisant la membrane.",
+          "de": "Die spannungsgesteuerten Kaliumkanäle bleiben unbegrenzt geöffnet und hyperpolarisieren die Membran.",
+          "ja": "電圧依存性カリウムチャネルが無期限に開いたままであり、膜を過分極させます。"
+        },
+        "feedback": {
+          "en": "Incorrect. While K+ channels are open, they eventually close. The primary reason for the refractory period is related to Na+ channel inactivation.",
+          "zh": "不正确。虽然钾通道开放，但它们最终会关闭。不应期的主要原因与钠通道失活有关。",
+          "es": "Incorrecto. Aunque los canales de K+ están abiertos, eventualmente se cierran. La razón principal del período refractario está relacionada con la inactivación de los canales de Na+.",
+          "fr": "Incorrect. Bien que les canaux K+ soient ouverts, ils finissent par se fermer. La raison principale de la période réfractaire est liée à l'inactivation des canaux Na+.",
+          "de": "Falsch. Obwohl K+-Kanäle offen sind, schließen sie sich schließlich. Der Hauptgrund für die Refraktärzeit hängt mit der Na+-Kanal-Inaktivierung zusammen.",
+          "ja": "不正解です。K+チャネルは開いていますが、最終的には閉じます。不応期の主な理由はNa+チャネルの不活性化に関連しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The voltage-gated sodium channels are inactivated, preventing Na+ inflow.",
+          "zh": "电压门控钠通道失活，阻止钠离子内流。",
+          "es": "Los canales de sodio dependientes de voltaje están inactivados, impidiendo la afluencia de Na+.",
+          "fr": "Les canaux sodiques voltage-dépendants sont inactivés, empêchant l'afflux de Na+.",
+          "de": "Die spannungsgesteuerten Natriumkanäle sind inaktiviert, was den Na+-Einstrom verhindert.",
+          "ja": "電圧依存性ナトリウムチャネルが不活性化され、Na+流入が妨げられます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The membrane potential is stuck at -55 mV, preventing further depolarization.",
+          "zh": "膜电位停留在-55 mV，阻止进一步去极化。",
+          "es": "El potencial de membrana se mantiene en -55 mV, impidiendo una mayor despolarización.",
+          "fr": "Le potentiel de membrane est bloqué à -55 mV, empêchant une dépolarisation supplémentaire.",
+          "de": "Das Membranpotenzial bleibt bei -55 mV stehen und verhindert eine weitere Depolarisation.",
+          "ja": "膜電位が-55 mVで停止し、それ以上の脱分極が妨げられます。"
+        },
+        "feedback": {
+          "en": "Incorrect. The threshold for action potential is -55 mV, but the membrane potential is not 'stuck' there during the refractory period; rather, it's typically hyperpolarized or repolarizing, and Na+ channels are inactivated.",
+          "zh": "不正确。动作电位的阈值是-55 mV，但在不应期膜电位并非“停滞”在那里；相反，它通常处于超极化或复极化状态，且钠通道处于失活状态。",
+          "es": "Incorrecto. El umbral para el potencial de acción es de -55 mV, pero el potencial de membrana no se 'mantiene' allí durante el período refractario; más bien, suele estar hiperpolarizado o repolarizándose, y los canales de Na+ están inactivados.",
+          "fr": "Incorrect. Le seuil du potentiel d'action est de -55 mV, mais le potentiel de membrane n'est pas « bloqué » à ce niveau pendant la période réfractaire ; il est plutôt hyperpolarisé ou en cours de repolarisation, et les canaux Na+ sont inactivés.",
+          "de": "Falsch. Der Schwellenwert für ein Aktionspotenzial liegt bei -55 mV, aber das Membranpotenzial ist während der Refraktärzeit nicht „festgehalten“; vielmehr ist es typischerweise hyperpolarisiert oder repolarisiert, und Na+-Kanäle sind inaktiviert.",
+          "ja": "不正解です。活動電位の閾値は-55 mVですが、不応期中に膜電位がそこで「停止」しているわけではありません。むしろ、通常は過分極しているか再分極中で、Na+チャネルは不活性化されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states: 'The \"downtime\" when a second action potential cannot be initiated is called the refractory period. Note that the refractory period is due to the inactivation of sodium channels, not to a change in the ion concentration gradients across the plasma membrane.'",
+      "zh": "文本指出：“当第二个动作电位无法启动的‘停滞期’被称为不应期。请注意，不应期是由于钠通道的失活，而不是由于跨质膜的离子浓度梯度变化。”",
+      "es": "El texto afirma: 'El \"tiempo de inactividad\" durante el cual no se puede iniciar un segundo potencial de acción se denomina período refractario. Tenga en cuenta que el período refractario se debe a la inactivación de los canales de sodio, no a un cambio en los gradientes de concentración iónica a través de la membrana plasmática'.",
+      "fr": "Le texte indique : « Le « temps mort » pendant lequel un second potentiel d'action ne peut pas être initié est appelé période réfractaire. Notez que la période réfractaire est due à l'inactivation des canaux sodiques, et non à un changement des gradients de concentration ionique à travers la membrane plasmique. »",
+      "de": "Der Text besagt: „Die ‚Ausfallzeit‘, in der ein zweites Aktionspotenzial nicht ausgelöst werden kann, wird als Refraktärzeit bezeichnet. Beachten Sie, dass die Refraktärzeit auf die Inaktivierung der Natriumkanäle zurückzuführen ist, nicht auf eine Änderung der Ionentkonzentrationsgradienten über die Plasmamembran hinweg.“",
+      "ja": "本文には、「第2の活動電位を開始できない『ダウンタイム』は不応期と呼ばれます。不応期は、ナトリウムチャネルの不活性化によるものであり、プラズマ膜を横切るイオン濃度勾配の変化によるものではありません」と記載されています。"
+    }
+  },
+  {
+    "page_number": 1124,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Referencing the section 'Conduction of Action Potentials' and the 'Why?' question at the end of the text, what mechanism primarily ensures that an action potential travels in only one direction along the axon, from the axon hillock towards the synaptic terminals?",
+      "zh": "参照“动作电位传导”部分和文本末尾的“为什么？”问题，什么机制主要确保动作电位沿轴突仅沿一个方向（从轴突丘到突触末梢）传播？",
+      "es": "Haciendo referencia a la sección 'Conducción de los potenciales de acción' y a la pregunta '¿Por qué?' al final del texto, ¿qué mecanismo asegura principalmente que un potencial de acción viaje en una sola dirección a lo largo del axón, desde el cono axónico hacia los terminales sinápticos?",
+      "fr": "En vous référant à la section « Conduction des potentiels d'action » et à la question « Pourquoi ? » à la fin du texte, quel mécanisme garantit principalement qu'un potentiel d'action se propage dans une seule direction le long de l'axone, du cône d'émergence vers les terminaisons synaptiques ?",
+      "de": "Unter Bezugnahme auf den Abschnitt „Leitung von Aktionspotenzialen“ und die „Warum?“-Frage am Ende des Textes, welcher Mechanismus stellt hauptsächlich sicher, dass ein Aktionspotenzial nur in eine Richtung entlang des Axons, vom Axonhügel zu den synaptischen Endigungen, wandert?",
+      "ja": "「活動電位の伝導」のセクションと、テキストの最後の「なぜ？」の質問を参照して、活動電位が軸索に沿って軸索丘からシナプス終末に向かって一方向のみに伝わることを主に保証するメカニズムは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The continuous opening of Na+ channels ahead of the action potential.",
+          "zh": "动作电位前方钠通道的持续开放。",
+          "es": "La apertura continua de los canales de Na+ delante del potencial de acción.",
+          "fr": "L'ouverture continue des canaux Na+ en avant du potentiel d'action.",
+          "de": "Das kontinuierliche Öffnen der Na+-Kanäle vor dem Aktionspotenzial.",
+          "ja": "活動電位の前方にあるNa+チャネルの継続的な開口。"
+        },
+        "feedback": {
+          "en": "This explains depolarization and propagation forward, but not why it *only* moves forward and not backward.",
+          "zh": "这解释了去极化和向前传播，但没有解释为什么它只向前而不是向后移动。",
+          "es": "Esto explica la despolarización y la propagación hacia adelante, pero no por qué se mueve *solo* hacia adelante y no hacia atrás.",
+          "fr": "Cela explique la dépolarisation et la propagation vers l'avant, mais pas pourquoi elle ne se déplace *que* vers l'avant et non vers l'arrière.",
+          "de": "Dies erklärt die Depolarisation und die Vorwärtsausbreitung, aber nicht, warum sie sich *nur* vorwärts und nicht rückwärts bewegt.",
+          "ja": "これは脱分極と前方への伝播を説明しますが、なぜ後方ではなく前方へ*のみ*移動するのかを説明するものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The active transport of ions by the Na+/K+ pump.",
+          "zh": "Na+/K+泵对离子的主动运输。",
+          "es": "El transporte activo de iones por la bomba Na+/K+.",
+          "fr": "Le transport actif des ions par la pompe Na+/K+.",
+          "de": "Der aktive Transport von Ionen durch die Na+/K+-Pumpe.",
+          "ja": "Na+/K+ポンプによるイオンの能動輸送。"
+        },
+        "feedback": {
+          "en": "The Na+/K+ pump is crucial for maintaining resting potential and ion gradients, but it does not directly dictate the unidirectionality of action potential propagation.",
+          "zh": "Na+/K+泵对于维持静息电位和离子梯度至关重要，但它不直接决定动作电位传播的单向性。",
+          "es": "La bomba Na+/K+ es crucial para mantener el potencial de reposo y los gradientes iónicos, pero no dicta directamente la unidireccionalidad de la propagación del potencial de acción.",
+          "fr": "La pompe Na+/K+ est cruciale pour maintenir le potentiel de repos et les gradients ioniques, mais elle ne dicte pas directement l'unidirectionnalité de la propagation du potentiel d'action.",
+          "de": "Die Na+/K+-Pumpe ist entscheidend für die Aufrechterhaltung des Ruhepotenzials und der Ionengradienten, bestimmt jedoch nicht direkt die Unidirektionalität der Aktionspotenzialausbreitung.",
+          "ja": "Na+/K+ポンプは静止電位とイオン勾配を維持するために重要ですが、活動電位伝播の一方向性を直接決定するものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The refractory period of the membrane immediately behind the traveling zone of depolarization.",
+          "zh": "去极化传播区域正后方膜的不应期。",
+          "es": "El período refractario de la membrana inmediatamente detrás de la zona de despolarización en movimiento.",
+          "fr": "La période réfractaire de la membrane immédiatement derrière la zone de dépolarisation en mouvement.",
+          "de": "Die Refraktärzeit der Membran unmittelbar hinter der wandernden Depolarisationszone.",
+          "ja": "脱分極の進行ゾーンのすぐ後ろにある膜の不応期。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The all-or-none nature of the action potential ensures it only moves forward.",
+          "zh": "动作电位的“全或无”特性确保其只向前移动。",
+          "es": "La naturaleza de todo o nada del potencial de acción asegura que solo se mueva hacia adelante.",
+          "fr": "La nature tout ou rien du potentiel d'action garantit qu'il ne se déplace que vers l'avant.",
+          "de": "Die Alles-oder-Nichts-Natur des Aktionspotenzials stellt sicher, dass es sich nur vorwärts bewegt.",
+          "ja": "活動電位の全か無かの性質により、前方への移動のみが保証されます。"
+        },
+        "feedback": {
+          "en": "The all-or-none principle refers to the consistent magnitude and duration of the action potential once threshold is reached, not its direction of propagation.",
+          "zh": "“全或无”原则是指一旦达到阈值，动作电位的幅度和持续时间保持一致，而不是其传播方向。",
+          "es": "El principio de todo o nada se refiere a la magnitud y duración consistentes del potencial de acción una vez que se alcanza el umbral, no a su dirección de propagación.",
+          "fr": "Le principe du tout ou rien fait référence à l'amplitude et à la durée constantes du potentiel d'action une fois le seuil atteint, et non à sa direction de propagation.",
+          "de": "Das Alles-oder-Nichts-Prinzip bezieht sich auf die konsistente Größe und Dauer des Aktionspotenzials, sobald der Schwellenwert erreicht ist, nicht auf seine Ausbreitungsrichtung.",
+          "ja": "全か無かの原理は、閾値に達した後の活動電位の大きさや持続時間が一定であることを指し、その伝播方向を指すものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states: 'An action potential that starts at the axon hillock moves along the axon only toward the synaptic terminals. Why? Immediately behind the traveling zone of depolarization, the... [refractory period]'. The refractory period, caused by inactivated Na+ channels, prevents the immediate re-excitation of the membrane segment that has just undergone an action potential, thus forcing the propagation in a forward direction.",
+      "zh": "文本指出：“始于轴突丘的动作电位仅沿轴突向突触末梢移动。为什么？因为在去极化传播区域的正后方，存在不应期。”不应期，由失活的钠通道引起，阻止了刚刚经历过动作电位的膜段立即再次兴奋，从而强制传播向前进行。",
+      "es": "El texto afirma: 'Un potencial de acción que comienza en el cono axónico se mueve a lo largo del axón solo hacia los terminales sinápticos. ¿Por qué? Inmediatamente detrás de la zona de despolarización en movimiento, el... [período refractario]'. El período refractario, causado por los canales de Na+ inactivados, impide la reexcitación inmediata del segmento de membrana que acaba de sufrir un potencial de acción, lo que fuerza la propagación en una dirección hacia adelante.",
+      "fr": "Le texte indique : « Un potentiel d'action qui commence au cône axonal se déplace le long de l'axone uniquement vers les terminaisons synaptiques. Pourquoi ? Immédiatement derrière la zone de dépolarisation en mouvement, la... [période réfractaire] ». La période réfractaire, causée par les canaux Na+ inactivés, empêche la ré-excitation immédiate du segment de membrane qui vient de subir un potentiel d'action, forçant ainsi la propagation dans une direction vers l'avant.",
+      "de": "Der Text besagt: „Ein Aktionspotenzial, das am Axonhügel beginnt, bewegt sich entlang des Axons nur zu den synaptischen Endigungen. Warum? Unmittelbar hinter der sich bewegenden Depolarisationszone liegt die... [Refraktärzeit]“. Die Refraktärzeit, verursacht durch inaktivierte Na+-Kanäle, verhindert die sofortige erneute Erregung des Membranabschnitts, der gerade ein Aktionspotenzial durchlaufen hat, wodurch die Ausbreitung in eine Vorwärtsrichtung erzwungen wird.",
+      "ja": "本文には、「軸索丘から始まる活動電位は、軸索に沿ってシナプス終末にのみ移動します。なぜですか？脱分極の進行ゾーンのすぐ後ろには、[不応期]があるからです」と記載されています。不応期は、不活性化されたNa+チャネルによって引き起こされ、活動電位を経験したばかりの膜セグメントがすぐに再興奮するのを防ぎ、それによって伝播を前方へ強制します。"
+    }
+  }
+]

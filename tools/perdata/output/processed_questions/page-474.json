@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 474,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately differentiates between RT-PCR and RNA sequencing (RNA-seq) based on the provided text?",
+      "zh": "根据提供的文本，以下哪项陈述准确区分了 RT-PCR 和 RNA 测序（RNA-seq）？",
+      "es": "Según el texto proporcionado, ¿cuál de las siguientes afirmaciones diferencia con precisión entre RT-PCR y secuenciación de ARN (RNA-seq)?",
+      "fr": "Selon le texte fourni, laquelle des affirmations suivantes différencie précisément la RT-PCR et le séquençage d'ARN (RNA-seq) ?",
+      "de": "Welche der folgenden Aussagen unterscheidet basierend auf dem bereitgestellten Text präzise zwischen RT-PCR und RNA-Sequenzierung (RNA-seq)?",
+      "ja": "提供されたテキストに基づき、RT-PCR と RNAシーケンシング（RNA-seq）のどちらが正確に区別されていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "RNA-seq is primarily used for genome-wide expression studies of many genes, whereas RT-PCR typically analyzes the expression of one or a few specific genes.",
+          "zh": "RNA-seq 主要用于许多基因的全基因组表达研究，而 RT-PCR 通常分析一个或少数特定基因的表达。",
+          "es": "RNA-seq se utiliza principalmente para estudios de expresión a nivel de genoma de muchos genes, mientras que la RT-PCR típicamente analiza la expresión de uno o unos pocos genes específicos.",
+          "fr": "Le RNA-seq est principalement utilisé pour les études d'expression à l'échelle du génome de nombreux gènes, tandis que la RT-PCR analyse généralement l'expression d'un ou de quelques gènes spécifiques.",
+          "de": "RNA-seq wird hauptsächlich für genomweite Expressionsstudien vieler Gene verwendet, während RT-PCR typischerweise die Expression eines oder weniger spezifischer Gene analysiert.",
+          "ja": "RNA-seq は主に多数の遺伝子のゲノムワイドな発現研究に用いられる一方、RT-PCR は通常、1つまたは少数の特定の遺伝子の発現を分析します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "RT-PCR requires mRNA fragmentation, while RNA-seq uses intact mRNA.",
+          "zh": "RT-PCR 需要 mRNA 片段化，而 RNA-seq 使用完整的 mRNA。",
+          "es": "La RT-PCR requiere la fragmentación del ARNm, mientras que la secuenciación de ARN utiliza ARNm intacto.",
+          "fr": "La RT-PCR nécessite une fragmentation de l'ARNm, tandis que le séquençage d'ARN utilise de l'ARNm intact.",
+          "de": "RT-PCR erfordert mRNA-Fragmentierung, während RNA-seq intakte mRNA verwendet.",
+          "ja": "RT-PCR は mRNA の断片化を必要とするのに対し、RNA-seq は完全な mRNA を使用します。"
+        },
+        "feedback": {
+          "en": "Incorrect. RNA-seq involves mRNA fragmentation, while RT-PCR typically uses intact mRNA for cDNA synthesis.",
+          "zh": "错误。RNA-seq 涉及 mRNA 片段化，而 RT-PCR 通常使用完整的 mRNA 进行 cDNA 合成。",
+          "es": "Incorrecto. La secuenciación de ARN implica la fragmentación del ARNm, mientras que la RT-PCR utiliza típicamente ARNm intacto para la síntesis de ADNc.",
+          "fr": "Incorrect. Le séquençage d'ARN implique la fragmentation de l'ARNm, tandis que la RT-PCR utilise généralement l'ARNm intact pour la synthèse d'ADNc.",
+          "de": "Falsch. RNA-seq beinhaltet die mRNA-Fragmentierung, während RT-PCR typischerweise intakte mRNA für die cDNA-Synthese verwendet.",
+          "ja": "間違いです。RNA-seq は mRNA の断片化を含みますが、RT-PCR は cDNA 合成のために通常は完全な mRNA を使用します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both RT-PCR and RNA-seq are primarily qualitative methods, not providing quantitative data.",
+          "zh": "RT-PCR 和 RNA-seq 都主要是定性方法，不提供定量数据。",
+          "es": "Tanto la RT-PCR como la secuenciación de ARN son principalmente métodos cualitativos, que no proporcionan datos cuantitativos.",
+          "fr": "La RT-PCR et le séquençage d'ARN sont tous deux principalement des méthodes qualitatives, ne fournissant pas de données quantitatives.",
+          "de": "Sowohl RT-PCR als auch RNA-seq sind primär qualitative Methoden und liefern keine quantitativen Daten.",
+          "ja": "RT-PCR と RNA-seq の両方が主に定性的な方法であり、定量的なデータを提供しません。"
+        },
+        "feedback": {
+          "en": "Incorrect. qRT-PCR provides quantitative data, and RNA-seq yields information on gene expression levels.",
+          "zh": "错误。qRT-PCR 提供定量数据，RNA-seq 提供基因表达水平的信息。",
+          "es": "Incorrecto. La qRT-PCR proporciona datos cuantitativos, y la secuenciación de ARN produce información sobre los niveles de expresión génica.",
+          "fr": "Incorrect. La qRT-PCR fournit des données quantitatives, et le séquençage d'ARN donne des informations sur les niveaux d'expression génique.",
+          "de": "Falsch. qRT-PCR liefert quantitative Daten, und RNA-seq liefert Informationen über Genexpressionslevel.",
+          "ja": "間違いです。qRT-PCR は定量データを提供し、RNA-seq は遺伝子発現レベルに関する情報を提供します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "RNA-seq directly sequences RNA, while RT-PCR sequences DNA.",
+          "zh": "RNA-seq 直接测序 RNA，而 RT-PCR 测序 DNA。",
+          "es": "La secuenciación de ARN secuencia directamente el ARN, mientras que la RT-PCR secuencia el ADN.",
+          "fr": "Le séquençage d'ARN séquence directement l'ARN, tandis que la RT-PCR séquence l'ADN.",
+          "de": "RNA-seq sequenziert RNA direkt, während RT-PCR DNA sequenziert.",
+          "ja": "RNA-seq は RNA を直接シーケンスするのに対し、RT-PCR は DNA をシーケンスします。"
+        },
+        "feedback": {
+          "en": "Incorrect. RNA-seq sequences cDNA, which is reverse-transcribed from RNA, not RNA directly.",
+          "zh": "错误。RNA-seq 测序的是由 RNA 逆转录而来的 cDNA，而不是直接测序 RNA。",
+          "es": "Incorrecto. La secuenciación de ARN secuencia el ADNc, que se transcribe inversamente del ARN, no el ARN directamente.",
+          "fr": "Incorrect. Le séquençage d'ARN séquence l'ADNc, qui est rétrotranscrit à partir de l'ARN, et non l'ARN directement.",
+          "de": "Falsch. RNA-seq sequenziert cDNA, die von RNA revers transkribiert wird, nicht direkt RNA.",
+          "ja": "間違いです。RNA-seq は RNA から逆転写された cDNA をシーケンスするもので、RNA を直接シーケンスするわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states that RNA-seq is used to 'analyze expression of many genes' and 'accomplish such genome-wide expression studies,' whereas RT-PCR is for 'Analysis of the Expression of Single Genes' or 'compare gene expression between samples' for a 'specific mRNA.'",
+      "zh": "文本指出 RNA-seq 用于“分析许多基因的表达”并“完成全基因组表达研究”，而 RT-PCR 适用于“分析单个基因的表达”或针对“特定 mRNA”进行“样本间基因表达比较”。",
+      "es": "El texto establece que la secuenciación de ARN se utiliza para 'analizar la expresión de muchos genes' y 'realizar dichos estudios de expresión a nivel de genoma', mientras que la RT-PCR es para 'Análisis de la Expresión de Genes Únicos' o 'comparar la expresión génica entre muestras' para un 'ARNm específico'.",
+      "fr": "Le texte indique que le séquençage d'ARN est utilisé pour 'analyser l'expression de nombreux gènes' et 'accomplir de telles études d'expression à l'échelle du génome', tandis que la RT-PCR est destinée à 'l'Analyse de l'Expression de Gènes Uniques' ou à 'comparer l'expression génique entre des échantillons' pour un 'ARNm spécifique'.",
+      "de": "Der Text besagt, dass RNA-seq zur 'Analyse der Expression vieler Gene' und zur 'Durchführung solcher genomweiten Expressionsstudien' verwendet wird, während RT-PCR für die 'Analyse der Expression einzelner Gene' oder zum 'Vergleich der Genexpression zwischen Proben' für eine 'spezifische mRNA' dient.",
+      "ja": "テキストによると、RNA-seq は「多数の遺伝子の発現を分析する」ことや「ゲノムワイドな発現研究を行う」ために使用され、RT-PCR は「単一遺伝子の発現分析」または「特定 mRNA のサンプル間の遺伝子発現を比較する」ために使用されます。"
+    }
+  },
+  {
+    "page_number": 474,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on Figure 20.11 and its accompanying 'Results' section, what can be concluded about the mRNA expression of the specific *Drosophila* gene and the characteristics of the amplified product?",
+      "zh": "根据图 20.11 及其附带的“结果”部分，关于特定果蝇基因的 mRNA 表达以及扩增产物的特征，可以得出什么结论？",
+      "es": "Basándose en la Figura 20.11 y su sección 'Resultados' adjunta, ¿qué se puede concluir sobre la expresión del ARNm del gen específico de *Drosophila* y las características del producto amplificado?",
+      "fr": "Selon la Figure 20.11 et sa section 'Résultats' associée, que peut-on conclure sur l'expression de l'ARNm du gène spécifique de la *Drosophila* et les caractéristiques du produit amplifié ?",
+      "de": "Basierend auf Abbildung 20.11 und dem begleitenden Abschnitt „Ergebnisse“, welche Schlüsse können über die mRNA-Expression des spezifischen *Drosophila*-Gens und die Eigenschaften des amplifizierten Produkts gezogen werden?",
+      "ja": "図 20.11 とそれに付随する「結果」セクションに基づき、特定のショウジョウバエ遺伝子の mRNA 発現と増幅産物の特徴についてどのような結論が導き出せますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The mRNA for this gene is expressed from embryonic stages 2 through 6, and the size of the amplified DNA fragment is determined by the distance between the primers used, not the size of the original mRNA.",
+          "zh": "该基因的 mRNA 在胚胎阶段 2 至 6 表达，扩增 DNA 片段的大小由所用引物之间的距离决定，而非原始 mRNA 的大小。",
+          "es": "El ARNm de este gen se expresa desde las etapas embrionarias 2 a 6, y el tamaño del fragmento de ADN amplificado está determinado por la distancia entre los cebadores utilizados, no por el tamaño del ARNm original.",
+          "fr": "L'ARNm de ce gène est exprimé des stades embryonnaires 2 à 6, et la taille du fragment d'ADN amplifié est déterminée par la distance entre les amorces utilisées, et non par la taille de l'ARNm original.",
+          "de": "Die mRNA für dieses Gen wird von den embryonalen Stadien 2 bis 6 exprimiert, und die Größe des amplifizierten DNA-Fragments wird durch den Abstand zwischen den verwendeten Primern bestimmt, nicht durch die Größe der ursprünglichen mRNA.",
+          "ja": "この遺伝子の mRNA は胚発生段階2から6まで発現しており、増幅されたDNA断片のサイズは、元のmRNAのサイズではなく、使用されたプライマー間の距離によって決定されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The mRNA is expressed across all six embryonic stages, and the fragment size reflects the exact length of the original mRNA.",
+          "zh": "mRNA 在所有六个胚胎阶段都表达，且片段大小反映了原始 mRNA 的确切长度。",
+          "es": "El ARNm se expresa en las seis etapas embrionarias, y el tamaño del fragmento refleja la longitud exacta del ARNm original.",
+          "fr": "L'ARNm est exprimé à travers les six stades embryonnaires, et la taille du fragment reflète la longueur exacte de l'ARNm original.",
+          "de": "Die mRNA wird in allen sechs embryonalen Stadien exprimiert, und die Fragmentgröße spiegelt die exakte Länge der ursprünglichen mRNA wider.",
+          "ja": "mRNA は全6つの胚発生段階で発現しており、断片のサイズは元の mRNA の正確な長さを反映しています。"
+        },
+        "feedback": {
+          "en": "Incorrect. The gel shows no expression at stage 1. The text explicitly states that fragment size depends on the distance between primers, not mRNA size.",
+          "zh": "错误。凝胶显示阶段 1 没有表达。文本明确指出片段大小取决于引物之间的距离，而不是 mRNA 的大小。",
+          "es": "Incorrecto. El gel no muestra expresión en la etapa 1. El texto establece explícitamente que el tamaño del fragmento depende de la distancia entre los cebadores, no del tamaño del ARNm.",
+          "fr": "Incorrect. Le gel ne montre aucune expression au stade 1. Le texte indique explicitement que la taille du fragment dépend de la distance entre les amorces, et non de la taille de l'ARNm.",
+          "de": "Falsch. Das Gel zeigt keine Expression in Stadium 1. Der Text besagt explizit, dass die Fragmentgröße vom Abstand zwischen den Primern abhängt, nicht von der mRNA-Größe.",
+          "ja": "間違いです。ゲルではステージ1での発現が見られません。テキストには、断片のサイズはプライマー間の距離に依存し、mRNAのサイズには依存しないと明記されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Expression is limited to stages 1 and 2, and the amplified fragment's size varies depending on the mRNA's size across stages.",
+          "zh": "表达仅限于阶段 1 和 2，扩增片段的大小根据不同阶段 mRNA 的大小而变化。",
+          "es": "La expresión se limita a las etapas 1 y 2, y el tamaño del fragmento amplificado varía según el tamaño del ARNm en las etapas.",
+          "fr": "L'expression est limitée aux stades 1 et 2, et la taille du fragment amplifié varie en fonction de la taille de l'ARNm au cours des stades.",
+          "de": "Die Expression ist auf die Stadien 1 und 2 beschränkt, und die Größe des amplifizierten Fragments variiert je nach der Größe der mRNA über die Stadien hinweg.",
+          "ja": "発現はステージ1と2に限定されており、増幅された断片のサイズは、ステージごとのmRNAのサイズに応じて異なります。"
+        },
+        "feedback": {
+          "en": "Incorrect. Expression is observed from stage 2 through 6. The fragment size is determined by the primers, not mRNA size.",
+          "zh": "错误。从阶段 2 到 6 均观察到表达。片段大小由引物决定，而非 mRNA 大小。",
+          "es": "Incorrecto. La expresión se observa desde la etapa 2 hasta la 6. El tamaño del fragmento está determinado por los cebadores, no por el tamaño del ARNm.",
+          "fr": "Incorrect. L'expression est observée du stade 2 au stade 6. La taille du fragment est déterminée par les amorces, et non par la taille de l'ARNm.",
+          "de": "Falsch. Expression wird von Stadium 2 bis 6 beobachtet. Die Fragmentgröße wird durch die Primer bestimmt, nicht durch die mRNA-Größe.",
+          "ja": "間違いです。発現はステージ2から6まで観察されています。断片のサイズはプライマーによって決定され、mRNAのサイズによってではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The presence of a band indicates the exact quantity of mRNA present, and smaller fragments indicate higher expression.",
+          "zh": "条带的存在表明了 mRNA 的精确量，且较小的片段表示更高的表达。",
+          "es": "La presencia de una banda indica la cantidad exacta de ARNm presente, y los fragmentos más pequeños indican una mayor expresión.",
+          "fr": "La présence d'une bande indique la quantité exacte d'ARNm présente, et les fragments plus petits indiquent une expression plus élevée.",
+          "de": "Das Vorhandensein einer Bande zeigt die genaue Menge an vorhandener mRNA an, und kleinere Fragmente weisen auf eine höhere Expression hin.",
+          "ja": "バンドの存在は存在する mRNA の正確な量を示し、より小さな断片はより高い発現を示します。"
+        },
+        "feedback": {
+          "en": "Incorrect. While a band indicates presence, gel electrophoresis is not typically used for exact quantification, and fragment size does not correlate with expression level in this manner.",
+          "zh": "错误。虽然条带表示存在，但凝胶电泳通常不用于精确定量，并且片段大小与表达水平之间没有这种关联。",
+          "es": "Incorrecto. Aunque una banda indica presencia, la electroforesis en gel no se utiliza típicamente para la cuantificación exacta, y el tamaño del fragmento no se correlaciona con el nivel de expresión de esta manera.",
+          "fr": "Incorrect. Bien qu'une bande indique une présence, l'électrophorèse sur gel n'est généralement pas utilisée pour une quantification exacte, et la taille du fragment ne se corrèle pas avec le niveau d'expression de cette manière.",
+          "de": "Falsch. Obwohl eine Bande auf Anwesenheit hinweist, wird die Gelelektrophorese typischerweise nicht für exakte Quantifizierung verwendet, und die Fragmentgröße korreliert nicht auf diese Weise mit dem Expressionsniveau.",
+          "ja": "間違いです。バンドの存在は存在を示しますが、ゲル電気泳動は通常、正確な定量には使用されず、断片のサイズと発現レベルがこのようには相関しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The 'Results' section states, 'The mRNA for this gene is expressed from stage 2 through stage 6.' It also clarifies, 'The size of the amplified fragment (shown by its position on the gel) depends on the distance between the primers that were used (not on the size of the mRNA).'",
+      "zh": "“结果”部分指出：“该基因的 mRNA 在阶段 2 到阶段 6 表达。”它还阐明：“扩增片段的大小（通过其在凝胶上的位置显示）取决于所用引物之间的距离（而非 mRNA 的大小）。”",
+      "es": "La sección 'Resultados' establece: 'El ARNm de este gen se expresa desde la etapa 2 hasta la etapa 6'. También aclara: 'El tamaño del fragmento amplificado (mostrado por su posición en el gel) depende de la distancia entre los cebadores que se utilizaron (no del tamaño del ARNm)'.",
+      "fr": "La section 'Résultats' indique : 'L'ARNm de ce gène est exprimé du stade 2 au stade 6'. Elle précise également : 'La taille du fragment amplifié (montrée par sa position sur le gel) dépend de la distance entre les amorces utilisées (et non de la taille de l'ARNm).'",
+      "de": "Der Abschnitt „Ergebnisse“ besagt: „Die mRNA für dieses Gen wird von Stadium 2 bis Stadium 6 exprimiert.“ Es wird auch klargestellt: „Die Größe des amplifizierten Fragments (erkennbar an seiner Position auf dem Gel) hängt vom Abstand zwischen den verwendeten Primern ab (nicht von der Größe der mRNA).“",
+      "ja": "「結果」セクションには、「この遺伝子の mRNA はステージ2から6まで発現している」と記載されています。また、「増幅された断片のサイズ（ゲル上の位置で示される）は、使用されたプライマー間の距離に依存し（mRNA のサイズには依存しない）」と明確に述べられています。"
+    }
+  },
+  {
+    "page_number": 474,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In RNA sequencing (RNA-seq), despite its name, what molecular component is actually sequenced, and what is the primary reason for fragmenting mRNA samples prior to this step?",
+      "zh": "在 RNA 测序（RNA-seq）中，尽管其名称如此，但实际测序的是哪种分子成分？以及在此步骤之前对 mRNA 样本进行片段化的主要原因是什么？",
+      "es": "En la secuenciación de ARN (RNA-seq), a pesar de su nombre, ¿qué componente molecular se secuencia realmente y cuál es la razón principal para fragmentar las muestras de ARNm antes de este paso?",
+      "fr": "Dans le séquençage d'ARN (RNA-seq), malgré son nom, quel composant moléculaire est réellement séquencé, et quelle est la raison principale de la fragmentation des échantillons d'ARNm avant cette étape ?",
+      "de": "Welche molekulare Komponente wird bei der RNA-Sequenzierung (RNA-seq) trotz ihres Namens tatsächlich sequenziert, und was ist der Hauptgrund für die Fragmentierung von mRNA-Proben vor diesem Schritt?",
+      "ja": "RNAシーケンシング（RNA-seq）では、その名称にもかかわらず、実際にシーケンスされる分子成分は何ですか？また、このステップの前にmRNAサンプルを断片化する主な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "cDNA is actually sequenced; mRNA samples are fragmented to allow for conversion into shorter, similar-sized cDNAs suitable for sequencing.",
+          "zh": "实际测序的是 cDNA；mRNA 样本被片段化是为了能够转化为适合测序的较短、大小相似的 cDNA。",
+          "es": "El ADNc es lo que se secuencia realmente; las muestras de ARNm se fragmentan para permitir su conversión en ADNc más cortos y de tamaño similar, adecuados para la secuenciación.",
+          "fr": "L'ADNc est réellement séquencé ; les échantillons d'ARNm sont fragmentés pour permettre leur conversion en ADNc plus courts et de taille similaire, adaptés au séquençage.",
+          "de": "Tatsächlich wird cDNA sequenziert; mRNA-Proben werden fragmentiert, um die Umwandlung in kürzere, ähnlich große cDNAs zu ermöglichen, die für die Sequenzierung geeignet sind.",
+          "ja": "実際にシーケンスされるのは cDNA です。mRNA サンプルは、シーケンスに適したより短い、類似したサイズの cDNA に変換できるように、断片化されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "mRNA is directly sequenced; fragmentation increases the efficiency of reverse transcription.",
+          "zh": "mRNA 直接测序；片段化提高了逆转录的效率。",
+          "es": "El ARNm se secuencia directamente; la fragmentación aumenta la eficiencia de la transcripción inversa.",
+          "fr": "L'ARNm est directement séquencé ; la fragmentation augmente l'efficacité de la transcription inverse.",
+          "de": "mRNA wird direkt sequenziert; die Fragmentierung erhöht die Effizienz der Reversen Transkription.",
+          "ja": "mRNA は直接シーケンスされます。断片化は逆転写の効率を高めます。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text states that cDNA is actually sequenced in RNA-seq, and fragmentation is for producing suitable cDNA lengths for sequencing, not primarily for reverse transcription efficiency.",
+          "zh": "错误。文本指出 RNA-seq 实际上测序的是 cDNA，片段化是为了生成适合测序的 cDNA 长度，而非主要为了提高逆转录效率。",
+          "es": "Incorrecto. El texto indica que el ADNc es lo que se secuencia realmente en la secuenciación de ARN, y la fragmentación es para producir longitudes de ADNc adecuadas para la secuenciación, no principalmente para la eficiencia de la transcripción inversa.",
+          "fr": "Incorrect. Le texte indique que l'ADNc est réellement séquencé dans le séquençage d'ARN, et la fragmentation est destinée à produire des ADNc de longueurs appropriées pour le séquençage, et non principalement pour l'efficacité de la transcription inverse.",
+          "de": "Falsch. Der Text besagt, dass cDNA bei RNA-seq tatsächlich sequenziert wird, und die Fragmentierung dient der Produktion geeigneter cDNA-Längen für die Sequenzierung, nicht primär der Effizienz der Reversen Transkription.",
+          "ja": "間違いです。テキストには、RNA-seq で実際にシーケンスされるのは cDNA であり、断片化はシーケンスに適した cDNA の長さを生成するためであり、主に逆転写の効率のためではないと記載されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Genomic DNA is sequenced; fragmentation prevents non-specific binding of primers.",
+          "zh": "测序的是基因组 DNA；片段化可以防止引物的非特异性结合。",
+          "es": "El ADN genómico es lo que se secuencia; la fragmentación previene la unión inespecífica de los cebadores.",
+          "fr": "L'ADN génomique est séquencé ; la fragmentation empêche la liaison non spécifique des amorces.",
+          "de": "Genomische DNA wird sequenziert; die Fragmentierung verhindert unspezifische Primerbindung.",
+          "ja": "ゲノムDNA がシーケンスされます。断片化はプライマーの非特異的結合を防ぎます。"
+        },
+        "feedback": {
+          "en": "Incorrect. RNA-seq analyzes RNA expression by sequencing its cDNA copies, not genomic DNA.",
+          "zh": "错误。RNA-seq 通过测序 RNA 的 cDNA 拷贝来分析 RNA 表达，而不是基因组 DNA。",
+          "es": "Incorrecto. La secuenciación de ARN analiza la expresión de ARN secuenciando sus copias de ADNc, no el ADN genómico.",
+          "fr": "Incorrect. Le séquençage d'ARN analyse l'expression de l'ARN en séquençant ses copies d'ADNc, et non l'ADN génomique.",
+          "de": "Falsch. RNA-seq analysiert die RNA-Expression durch Sequenzierung ihrer cDNA-Kopien, nicht der genomischen DNA.",
+          "ja": "間違いです。RNA-seq は RNA の cDNA コピーをシーケンスすることで RNA 発現を分析するもので、ゲノム DNA ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Proteins are sequenced; fragmentation helps in separating different protein types.",
+          "zh": "测序的是蛋白质；片段化有助于分离不同类型的蛋白质。",
+          "es": "Las proteínas son lo que se secuencia; la fragmentación ayuda a separar diferentes tipos de proteínas.",
+          "fr": "Les protéines sont séquencées ; la fragmentation aide à séparer les différents types de protéines.",
+          "de": "Proteine werden sequenziert; die Fragmentierung hilft bei der Trennung verschiedener Proteintypen.",
+          "ja": "タンパク質がシーケンスされます。断片化は異なる種類のタンパク質を分離するのに役立ちます。"
+        },
+        "feedback": {
+          "en": "Incorrect. RNA sequencing deals with nucleic acids (RNA and cDNA), not proteins.",
+          "zh": "错误。RNA 测序处理的是核酸（RNA 和 cDNA），而不是蛋白质。",
+          "es": "Incorrecto. La secuenciación de ARN trata con ácidos nucleicos (ARN y ADNc), no con proteínas.",
+          "fr": "Incorrect. Le séquençage d'ARN traite des acides nucléiques (ARN et ADNc), et non des protéines.",
+          "de": "Falsch. RNA-Sequenzierung befasst sich mit Nukleinsäuren (RNA und cDNA), nicht mit Proteinen.",
+          "ja": "間違いです。RNAシーケンシングは核酸（RNAとcDNA）を扱いますが、タンパク質は扱いません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'even though it is the cDNA that is actually sequenced' in RNA-seq, and 'In RNA-seq, the mRNA (or other RNA) samples are isolated, cut into shorter, similar-sized fragments, and converted into cDNAs (Figure 20.12). These short cDNA stretches are sequenced...'",
+      "zh": "文本明确指出：在 RNA-seq 中，“实际上测序的是 cDNA”，并且“在 RNA-seq 中，mRNA（或其他 RNA）样本被分离，切割成较短、大小相似的片段，并转化为 cDNA（图 20.12）。这些短的 cDNA 片段被测序……”",
+      "es": "El texto establece explícitamente: 'aunque es el ADNc lo que se secuencia realmente' en la secuenciación de ARN, y 'En la secuenciación de ARN, las muestras de ARNm (u otros ARN) se aíslan, se cortan en fragmentos más cortos y de tamaño similar, y se convierten en ADNc (Figura 20.12). Estos cortos tramos de ADNc se secuencian...'",
+      "fr": "Le texte indique explicitement : « bien que ce soit l'ADNc qui soit réellement séquencé » dans le séquençage d'ARN, et « Dans le séquençage d'ARN, les échantillons d'ARNm (ou d'autres ARN) sont isolés, coupés en fragments plus courts et de taille similaire, et convertis en ADNc (Figure 20.12). Ces courtes séquences d'ADNc sont séquencées... »",
+      "de": "Der Text besagt explizit: „obwohl es die cDNA ist, die tatsächlich sequenziert wird“ bei RNA-seq, und „Bei RNA-seq werden die mRNA- (oder andere RNA-)Proben isoliert, in kürzere, ähnlich große Fragmente geschnitten und in cDNAs umgewandelt (Abbildung 20.12). Diese kurzen cDNA-Abschnitte werden sequenziert...“",
+      "ja": "テキストには、RNA-seq では「実際にシーケンスされるのは cDNA である」と明示されており、さらに「RNA-seq では、mRNA（または他の RNA）サンプルが単離され、より短い、類似したサイズの断片に切断され、cDNA に変換される（図20.12）。これらの短い cDNA 断片がシーケンスされる…」と記述されています。"
+    }
+  },
+  {
+    "page_number": 474,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the distinct advantage of quantitative RT-PCR (qRT-PCR) over traditional RT-PCR, as mentioned in the text?",
+      "zh": "根据文本所述，定量 RT-PCR (qRT-PCR) 相对于传统 RT-PCR 的独特优势是什么？",
+      "es": "Según el texto, ¿cuál es la ventaja distintiva de la RT-PCR cuantitativa (qRT-PCR) sobre la RT-PCR tradicional?",
+      "fr": "Quel est l'avantage distinctif de la RT-PCR quantitative (qRT-PCR) par rapport à la RT-PCR traditionnelle, tel que mentionné dans le texte ?",
+      "de": "Was ist der im Text erwähnte deutliche Vorteil der quantitativen RT-PCR (qRT-PCR) gegenüber der traditionellen RT-PCR?",
+      "ja": "テキストで述べられているように、定量的 RT-PCR (qRT-PCR) の従来の RT-PCR に対する明確な利点は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "qRT-PCR provides quantitative data on gene expression, thereby avoiding the need for gel electrophoresis for measurement.",
+          "zh": "qRT-PCR 提供基因表达的定量数据，从而避免了测量时对凝胶电泳的需求。",
+          "es": "La qRT-PCR proporciona datos cuantitativos sobre la expresión génica, evitando así la necesidad de electroforesis en gel para la medición.",
+          "fr": "La qRT-PCR fournit des données quantitatives sur l'expression génique, évitant ainsi le besoin d'électrophorèse sur gel pour la mesure.",
+          "de": "qRT-PCR liefert quantitative Daten zur Genexpression und vermeidet dadurch die Notwendigkeit der Gelelektrophorese zur Messung.",
+          "ja": "qRT-PCR は遺伝子発現に関する定量的データを提供し、測定のためのゲル電気泳動の必要性を回避します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It allows for the direct sequencing of RNA molecules without prior conversion to cDNA.",
+          "zh": "它允许直接测序 RNA 分子，无需预先转换为 cDNA。",
+          "es": "Permite la secuenciación directa de moléculas de ARN sin conversión previa a ADNc.",
+          "fr": "Il permet le séquençage direct des molécules d'ARN sans conversion préalable en ADNc.",
+          "de": "Es ermöglicht die direkte Sequenzierung von RNA-Molekülen ohne vorherige Umwandlung in cDNA.",
+          "ja": "cDNA への事前変換なしに RNA 分子を直接シーケンスできます。"
+        },
+        "feedback": {
+          "en": "Incorrect. qRT-PCR still involves reverse transcription to cDNA. Direct RNA sequencing is a separate technique not discussed as a feature of qRT-PCR here.",
+          "zh": "错误。qRT-PCR 仍然涉及将 RNA 逆转录为 cDNA。直接 RNA 测序是一种独立的R 技术，在此处并未作为 qRT-PCR 的特征进行讨论。",
+          "es": "Incorrecto. La qRT-PCR todavía implica la transcripción inversa a ADNc. La secuenciación directa de ARN es una técnica separada que no se discute como una característica de la qRT-PCR aquí.",
+          "fr": "Incorrect. La qRT-PCR implique toujours une transcription inverse en ADNc. Le séquençage direct d'ARN est une technique distincte qui n'est pas présentée ici comme une caractéristique de la qRT-PCR.",
+          "de": "Falsch. qRT-PCR beinhaltet immer noch die Reverse Transkription zu cDNA. Die direkte RNA-Sequenzierung ist eine separate Technik, die hier nicht als Merkmal der qRT-PCR besprochen wird.",
+          "ja": "間違いです。qRT-PCR は依然として cDNA への逆転写を含みます。直接 RNA シーケンシングは、ここで qRT-PCR の特徴として議論されていない別の技術です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It can identify unknown genes present in a sample more efficiently than other methods.",
+          "zh": "它能比其他方法更有效地识别样本中存在的未知基因。",
+          "es": "Puede identificar genes desconocidos presentes en una muestra de manera más eficiente que otros métodos.",
+          "fr": "Il peut identifier des gènes inconnus présents dans un échantillon plus efficacement que d'autres méthodes.",
+          "de": "Es kann unbekannte Gene in einer Probe effizienter identifizieren als andere Methoden.",
+          "ja": "他の方法よりも効率的にサンプル中の未知の遺伝子を特定できます。"
+        },
+        "feedback": {
+          "en": "Incorrect. qRT-PCR is typically used to quantify known specific genes. RNA-seq is better suited for identifying unknown or a wide range of genes.",
+          "zh": "错误。qRT-PCR 通常用于定量已知特定基因。RNA-seq 更适合识别未知基因或广泛的基因。",
+          "es": "Incorrecto. La qRT-PCR se utiliza típicamente para cuantificar genes específicos conocidos. La secuenciación de ARN es más adecuada para identificar genes desconocidos o una amplia gama de genes.",
+          "fr": "Incorrect. La qRT-PCR est généralement utilisée pour quantifier des gènes spécifiques connus. Le séquençage d'ARN est mieux adapté à l'identification de gènes inconnus ou d'une large gamme de gènes.",
+          "de": "Falsch. qRT-PCR wird typischerweise zur Quantifizierung bekannter spezifischer Gene verwendet. RNA-seq ist besser geeignet zur Identifizierung unbekannter oder einer Vielzahl von Genen.",
+          "ja": "間違いです。qRT-PCR は通常、既知の特定の遺伝子を定量するために使用されます。未知の遺伝子や広範囲の遺伝子を特定するには RNA-seq の方が適しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It eliminates the need for reverse transcriptase enzyme, simplifying the process.",
+          "zh": "它消除了对逆转录酶的需求，简化了过程。",
+          "es": "Elimina la necesidad de la enzima transcriptasa inversa, simplificando el proceso.",
+          "fr": "Il élimine le besoin de l'enzyme transcriptase inverse, simplifiant le processus.",
+          "de": "Es eliminiert die Notwendigkeit des Enzyms Reverse Transkriptase, wodurch der Prozess vereinfacht wird.",
+          "ja": "逆転写酵素の必要性を排除し、プロセスを簡素化します。"
+        },
+        "feedback": {
+          "en": "Incorrect. qRT-PCR, like RT-PCR, fundamentally relies on reverse transcriptase to convert RNA to cDNA.",
+          "zh": "错误。qRT-PCR 与 RT-PCR 一样，其基本原理都依赖于逆转录酶将 RNA 转化为 cDNA。",
+          "es": "Incorrecto. La qRT-PCR, al igual que la RT-PCR, se basa fundamentalmente en la transcriptasa inversa para convertir el ARN en ADNc.",
+          "fr": "Incorrect. La qRT-PCR, comme la RT-PCR, repose fondamentalement sur la transcriptase inverse pour convertir l'ARN en ADNc.",
+          "de": "Falsch. qRT-PCR, wie RT-PCR, basiert grundlegend auf der Reversen Transkriptase, um RNA in cDNA umzuwandeln.",
+          "ja": "間違いです。qRT-PCR は、RT-PCR と同様に、RNA を cDNA に変換するために逆転写酵素に根本的に依存しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states that qRT-PCR 'can detect the light and measure the PCR product, thus avoiding the need for electrophoresis while providing quantitative data, a distinct advantage.'",
+      "zh": "文本指出 qRT-PCR“可以检测光并测量 PCR 产物，从而避免了电泳的需要，同时提供定量数据，这是一个明显的优势。”",
+      "es": "El texto afirma que la qRT-PCR 'puede detectar la luz y medir el producto de PCR, evitando así la necesidad de electroforesis mientras proporciona datos cuantitativos, una ventaja distintiva'.",
+      "fr": "Le texte indique que la qRT-PCR « peut détecter la lumière et mesurer le produit de PCR, évitant ainsi le besoin d'électrophorèse tout en fournissant des données quantitatives, un avantage distinctif ».",
+      "de": "Der Text besagt, dass qRT-PCR „das Licht erkennen und das PCR-Produkt messen kann, wodurch die Notwendigkeit der Elektrophorese vermieden wird, während quantitative Daten bereitgestellt werden, ein deutlicher Vorteil“.",
+      "ja": "テキストには、qRT-PCR が「光を検出し、PCR産物を測定できるため、電気泳動の必要性を回避しつつ定量的データを提供できるという明確な利点がある」と記載されています。"
+    }
+  }
+]

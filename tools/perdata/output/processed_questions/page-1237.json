@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 1237,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is a thermocline, as described in the text?",
+      "zh": "文本中描述的温跃层是什么？",
+      "es": "¿Qué es una termoclina, según se describe en el texto?",
+      "fr": "Qu'est-ce qu'une thermocline, telle que décrite dans le texte ?",
+      "de": "Was ist eine Thermokline, wie im Text beschrieben?",
+      "ja": "本文で説明されているサーモクラインとは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A zone in temperate lakes where mixing of water occurs in spring and fall.",
+          "zh": "温带湖泊中春秋两季水混合的区域。",
+          "es": "Una zona en lagos templados donde se produce la mezcla de agua en primavera y otoño.",
+          "fr": "Une zone dans les lacs tempérés où le brassage de l'eau se produit au printemps et en automne.",
+          "de": "Eine Zone in gemäßigten Seen, in der sich im Frühling und Herbst Wasser vermischt.",
+          "ja": "温帯湖において、春と秋に水が混ざり合う帯。"
+        },
+        "feedback": {
+          "en": "This describes 'turnover', which is distinct from a thermocline.",
+          "zh": "这描述的是“水体翻转”，与温跃层不同。",
+          "es": "Esto describe la 'renovación' (turnover), que es diferente de una termoclina.",
+          "fr": "Ceci décrit le 'brassage' (turnover), qui est distinct d'une thermocline.",
+          "de": "Dies beschreibt den 'Turnover', der sich von einer Thermokline unterscheidet.",
+          "ja": "これは「ターンオーバー」を説明しており、サーモクラインとは異なります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "An abrupt temperature change in the ocean and most lakes, separating warmer upper layers from colder deeper waters.",
+          "zh": "海洋和大多数湖泊中突然的温度变化，将较暖的表层水与较冷的深层水分开。",
+          "es": "Un cambio brusco de temperatura en el océano y la mayoría de los lagos, separando las capas superiores más cálidas de las aguas más profundas y frías.",
+          "fr": "Un changement brusque de température dans l'océan et la plupart des lacs, séparant les couches supérieures plus chaudes des eaux plus profondes et plus froides.",
+          "de": "Ein abrupter Temperaturwechsel im Ozean und den meisten Seen, der wärmere Oberschichten von kälteren Tiefenwassern trennt.",
+          "ja": "海洋やほとんどの湖で起こる急激な温度変化で、暖かい上層水と冷たい深層水を隔てるもの。"
+        },
+        "feedback": {
+          "en": "Correct. A thermocline is a distinct thermal boundary.",
+          "zh": "正确。温跃层是一个明显的温度边界。",
+          "es": "Correcto. Una termoclina es un límite térmico distinto.",
+          "fr": "Correct. Une thermocline est une limite thermique distincte.",
+          "de": "Richtig. Eine Thermokline ist eine ausgeprägte Temperaturgrenze.",
+          "ja": "正解。サーモクラインは明確な温度境界です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The primary factor distinguishing marine biomes from freshwater biomes.",
+          "zh": "区分海洋生物群落和淡水生物群落的主要因素。",
+          "es": "El factor principal que distingue los biomas marinos de los biomas de agua dulce.",
+          "fr": "Le principal facteur distinguant les biomes marins des biomes d'eau douce.",
+          "de": "Der Hauptfaktor, der Meeresbiome von Süßwasserbiomen unterscheidet.",
+          "ja": "海洋バイオームと淡水バイオームを区別する主要な要因。"
+        },
+        "feedback": {
+          "en": "The primary distinction between marine and freshwater biomes is salt concentration, not a thermocline.",
+          "zh": "海洋生物群落和淡水生物群落的主要区别是盐浓度，而非温跃层。",
+          "es": "La distinción principal entre biomas marinos y de agua dulce es la concentración de sal, no una termoclina.",
+          "fr": "La distinction principale entre les biomes marins et d'eau douce est la concentration en sel, pas une thermocline.",
+          "de": "Der Hauptunterschied zwischen Meeres- und Süßwasserbiomen ist die Salzkonzentration, nicht eine Thermokline.",
+          "ja": "海洋バイオームと淡水バイオームの主な区別は塩分濃度であり、サーモクラインではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A region in aquatic biomes characterized by the absence of light.",
+          "zh": "水生生物群落中以缺乏光照为特征的区域。",
+          "es": "Una región en los biomas acuáticos caracterizada por la ausencia de luz.",
+          "fr": "Une région des biomes aquatiques caractérisée par l'absence de lumière.",
+          "de": "Eine Region in aquatischen Biomen, die durch das Fehlen von Licht gekennzeichnet ist.",
+          "ja": "水生バイオームにおいて光が欠如していることを特徴とする領域。"
+        },
+        "feedback": {
+          "en": "This describes an 'aphotic zone', which is a zone of light penetration, not temperature.",
+          "zh": "这描述的是“无光区”，它是一个光照区域，与温度无关。",
+          "es": "Esto describe una 'zona afótica', que es una zona de penetración de luz, no de temperatura.",
+          "fr": "Ceci décrit une 'zone aphotique', qui est une zone de pénétration de la lumière, pas de température.",
+          "de": "Dies beschreibt eine 'aphotische Zone', die eine Zone der Lichtdurchdringung ist, nicht der Temperatur.",
+          "ja": "これは「無光層」を説明しており、光の透過に関する帯であり、温度に関するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'In the ocean and in most lakes, an abrupt temperature change called a thermocline separates a more uniformly warm upper layer from more uniformly cold deeper waters.' Option A describes 'turnover', Option C refers to salt concentration, and Option D describes an 'aphotic zone'.",
+      "zh": "文本指出：“在海洋和大多数湖泊中，一个被称为温跃层的突然温度变化将更均匀的温暖上层水与更均匀的冷深层水分开。”选项A描述的是“水体翻转”，选项C指的是盐浓度，选项D描述的是“无光区”。",
+      "es": "El texto afirma: 'En el océano y en la mayoría de los lagos, un cambio brusco de temperatura llamado termoclina separa una capa superior más uniformemente cálida de aguas más profundas y uniformemente frías.' La opción A describe la 'renovación', la opción C se refiere a la concentración de sal y la opción D describe una 'zona afótica'.",
+      "fr": "Le texte indique : « Dans l'océan et dans la plupart des lacs, un changement brusque de température appelé thermocline sépare une couche supérieure plus uniformément chaude des eaux plus profondes et plus uniformément froides. » L'option A décrit le « brassage », l'option C fait référence à la concentration en sel, et l'option D décrit une « zone aphotique ».",
+      "de": "Der Text besagt: „Im Ozean und in den meisten Seen trennt ein abrupter Temperaturwechsel, Thermokline genannt, eine gleichmäßiger warme obere Schicht von gleichmäßiger kalten tieferen Wassern.“ Option A beschreibt den „Turnover“, Option C bezieht sich auf die Salzkonzentration, und Option D beschreibt eine „aphotische Zone“.",
+      "ja": "本文には「海洋やほとんどの湖では、サーモクラインと呼ばれる急激な温度変化が、より均一に暖かい上層をより均一に冷たい深層水から隔てている」と述べられています。選択肢Aは「ターンオーバー」を説明し、選択肢Cは塩分濃度を指し、選択肢Dは「無光層」を説明しています。"
+    }
+  },
+  {
+    "page_number": 1237,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Suppose global air circulation patterns reversed, with moist air ascending at 30° north and south latitude and descending at the equator. Based on your understanding of climate and biomes, at what latitude would you most likely find deserts in this scenario?",
+      "zh": "假设全球大气环流模式逆转，湿润空气在南北纬30°处上升，在赤道下降。根据你对气候和生物群落的理解，在这种情况下，你最有可能在哪个纬度找到沙漠？",
+      "es": "Supongamos que los patrones de circulación global del aire se invierten, con aire húmedo ascendiendo a 30° de latitud norte y sur y descendiendo en el ecuador. Basándose en su comprensión del clima y los biomas, ¿en qué latitud encontraría con mayor probabilidad desiertos en este escenario?",
+      "fr": "Supposons que les schémas de circulation atmosphérique mondiale s'inversent, avec de l'air humide ascendant à 30° de latitude nord et sud et descendant à l'équateur. Basé sur votre compréhension du climat et des biomes, à quelle latitude trouveriez-vous le plus probablement des déserts dans ce scénario ?",
+      "de": "Angenommen, die globalen Luftzirkulationsmuster würden sich umkehren, wobei feuchte Luft bei 30° nördlicher und südlicher Breite aufsteigt und am Äquator absinkt. Basierend auf Ihrem Verständnis von Klima und Biomen, in welcher Breite würden Sie in diesem Szenario am wahrscheinlichsten Wüsten finden?",
+      "ja": "地球の大気循環パターンが逆転し、湿った空気が北緯・南緯30度で上昇し、赤道で下降すると仮定します。気候とバイオームに関する理解に基づき、このシナリオで砂漠が最も見られる緯度はどこですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "0° (Equator)",
+          "zh": "0°（赤道）",
+          "es": "0° (Ecuador)",
+          "fr": "0° (Équateur)",
+          "de": "0° (Äquator)",
+          "ja": "0°（赤道）"
+        },
+        "feedback": {
+          "en": "Correct. Descending dry air leads to arid conditions and deserts. In this scenario, dry air would descend at the equator.",
+          "zh": "正确。下沉的干燥空气导致干旱条件和沙漠。在这种情况下，干燥空气将在赤道下沉。",
+          "es": "Correcto. El aire seco descendente conduce a condiciones áridas y desiertos. En este escenario, el aire seco descendería en el ecuador.",
+          "fr": "Correct. L'air sec descendant conduit à des conditions arides et des déserts. Dans ce scénario, l'air sec descendrait à l'équateur.",
+          "de": "Richtig. Absteigende trockene Luft führt zu ariden Bedingungen und Wüsten. In diesem Szenario würde trockene Luft am Äquator absinken.",
+          "ja": "正解。下降する乾燥した空気は乾燥した状態と砂漠をもたらします。このシナリオでは、赤道で乾燥した空気が下降します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "30° North and South",
+          "zh": "南北纬30°",
+          "es": "30° Norte y Sur",
+          "fr": "30° Nord et Sud",
+          "de": "30° Nord und Süd",
+          "ja": "北緯・南緯30度"
+        },
+        "feedback": {
+          "en": "In this reversed scenario, moist air ascends at 30° N/S, which would lead to high precipitation, not deserts.",
+          "zh": "在这种逆转的场景中，湿润空气在南北纬30°处上升，这将导致高降水，而不是沙漠。",
+          "es": "En este escenario invertido, el aire húmedo asciende a 30° N/S, lo que conduciría a altas precipitaciones, no a desiertos.",
+          "fr": "Dans ce scénario inversé, l'air humide monte à 30° N/S, ce qui entraînerait de fortes précipitations, et non des déserts.",
+          "de": "In diesem umgekehrten Szenario steigt feuchte Luft bei 30° N/S auf, was zu hohen Niederschlägen und nicht zu Wüsten führen würde.",
+          "ja": "この逆転シナリオでは、湿った空気が北緯・南緯30度で上昇するため、降水量が多くなり、砂漠にはなりません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "60° North and South",
+          "zh": "南北纬60°",
+          "es": "60° Norte y Sur",
+          "fr": "60° Nord et Sud",
+          "de": "60° Nord und Süd",
+          "ja": "北緯・南緯60度"
+        },
+        "feedback": {
+          "en": "This latitude is associated with ascending air and precipitation in normal circulation, and its role in the reversed scenario isn't explicitly defined for desert formation.",
+          "zh": "这个纬度在正常环流中与上升气流和降水相关，在逆转情景中其对沙漠形成的作用没有明确定义。",
+          "es": "Esta latitud está asociada con el aire ascendente y la precipitación en la circulación normal, y su papel en el escenario invertido no se define explícitamente para la formación de desiertos.",
+          "fr": "Cette latitude est associée à l'air ascendant et aux précipitations en circulation normale, et son rôle dans le scénario inversé n'est pas explicitement défini pour la formation de déserts.",
+          "de": "Diese Breite ist in der normalen Zirkulation mit aufsteigender Luft und Niederschlag verbunden, und ihre Rolle im umgekehrten Szenario ist für die Wüstenbildung nicht explizit definiert.",
+          "ja": "この緯度は通常の大気循環では上昇気流と降水に関連しており、逆転シナリオにおける砂漠形成の役割は明確に定義されていません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "90° (Poles)",
+          "zh": "90°（两极）",
+          "es": "90° (Polos)",
+          "fr": "90° (Pôles)",
+          "de": "90° (Pole)",
+          "ja": "90°（極）"
+        },
+        "feedback": {
+          "en": "While poles are often dry, this scenario specifically alters mid-latitude and equatorial circulation, not primarily the poles.",
+          "zh": "虽然两极通常干燥，但此情景主要改变的是中纬度和赤道环流，而非两极。",
+          "es": "Aunque los polos suelen ser secos, este escenario altera específicamente la circulación de latitudes medias y ecuatoriales, no principalmente los polos.",
+          "fr": "Bien que les pôles soient souvent secs, ce scénario modifie spécifiquement la circulation aux latitudes moyennes et équatoriales, et non principalement aux pôles.",
+          "de": "Während die Pole oft trocken sind, verändert dieses Szenario spezifisch die Mittelbreiten- und Äquatorialzirkulation, nicht primär die Pole.",
+          "ja": "極はしばしば乾燥していますが、このシナリオは特に中緯度と赤道の循環を変化させるものであり、主に極ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Deserts are typically found where dry air descends. In normal global air circulation, dry air descends at 30° N and S latitude. If the pattern reversed, with moist air ascending at 30° N/S and descending at the equator, then the equator (0°) would experience the descending dry air, leading to desert conditions there.",
+      "zh": "沙漠通常出现在干燥空气下沉的地方。在正常的全球大气环流中，干燥空气在南北纬30°处下沉。如果模式逆转，湿润空气在南北纬30°处上升并在赤道下降，那么赤道（0°）将经历干燥空气的下沉，从而导致那里的沙漠条件。",
+      "es": "Los desiertos se encuentran típicamente donde el aire seco desciende. En la circulación global normal del aire, el aire seco desciende a 30° de latitud N y S. Si el patrón se invirtiera, con aire húmedo ascendiendo a 30° N/S y descendiendo en el ecuador, entonces el ecuador (0°) experimentaría el aire seco descendente, lo que llevaría a condiciones desérticas allí.",
+      "fr": "Les déserts se trouvent généralement là où l'air sec descend. Dans la circulation atmosphérique mondiale normale, l'air sec descend à 30° de latitude N et S. Si le schéma s'inversait, avec de l'air humide ascendant à 30° N/S et descendant à l'équateur, alors l'équateur (0°) connaîtrait l'air sec descendant, conduisant à des conditions désertiques à cet endroit.",
+      "de": "Wüsten finden sich typischerweise dort, wo trockene Luft absinkt. Bei normaler globaler Luftzirkulation sinkt trockene Luft bei 30° nördlicher und südlicher Breite ab. Wenn sich das Muster umkehren würde, wobei feuchte Luft bei 30° N/S aufsteigt und am Äquator absinkt, dann würde der Äquator (0°) die absinkende trockene Luft erleben, was dort zu Wüstenbedingungen führen würde.",
+      "ja": "砂漠は通常、乾燥した空気が下降する場所で見られます。通常の地球の大気循環では、乾燥した空気は北緯・南緯30度で下降します。パターンが逆転し、湿った空気が北緯・南緯30度で上昇し、赤道で下降する場合、赤道（0度）で乾燥した空気が下降するため、砂漠の状況になります。"
+    }
+  },
+  {
+    "page_number": 1237,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the descriptions in Concepts 52.2 and 52.3, what is the primary difference in how terrestrial and aquatic biomes are characterized?",
+      "zh": "根据概念52.2和52.3的描述，陆地生物群落和水生生物群落在特征描述上的主要区别是什么？",
+      "es": "Según las descripciones de los Conceptos 52.2 y 52.3, ¿cuál es la principal diferencia en cómo se caracterizan los biomas terrestres y acuáticos?",
+      "fr": "Selon les descriptions des Concepts 52.2 et 52.3, quelle est la principale différence dans la manière dont les biomes terrestres et aquatiques sont caractérisés ?",
+      "de": "Basierend auf den Beschreibungen in den Konzepten 52.2 und 52.3, was ist der Hauptunterschied in der Charakterisierung von terrestrischen und aquatischen Biomen?",
+      "ja": "コンセプト52.2と52.3の記述に基づくと、陸上バイオームと水生バイオームの特性記述における主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Terrestrial biomes are primarily defined by climate and disturbance, while aquatic biomes are primarily characterized by their physical environment.",
+          "zh": "陆地生物群落主要由气候和干扰定义，而水生生物群落主要由其物理环境特征。",
+          "es": "Los biomas terrestres se definen principalmente por el clima y las perturbaciones, mientras que los biomas acuáticos se caracterizan principalmente por su entorno físico.",
+          "fr": "Les biomes terrestres sont principalement définis par le climat et les perturbations, tandis que les biomes aquatiques sont principalement caractérisés par leur environnement physique.",
+          "de": "Terrestrische Biome werden primär durch Klima und Störungen definiert, während aquatische Biome primär durch ihre physikalische Umgebung charakterisiert werden.",
+          "ja": "陸上バイオームは主に気候と攪乱によって定義される一方、水生バイオームは主にその物理的環境によって特徴づけられる。"
+        },
+        "feedback": {
+          "en": "Correct. This accurately reflects the distinct primary classification criteria for each biome type as stated in the text.",
+          "zh": "正确。这准确反映了文本中指出的每种生物群落类型独特的主要分类标准。",
+          "es": "Correcto. Esto refleja con precisión los criterios de clasificación primarios distintos para cada tipo de bioma, según lo establecido en el texto.",
+          "fr": "Correct. Cela reflète avec précision les critères de classification primaires distincts pour chaque type de biome, tels qu'indiqués dans le texte.",
+          "de": "Richtig. Dies spiegelt die im Text angegebenen, primären und unterschiedlichen Klassifikationskriterien für jeden Biomtyp genau wider.",
+          "ja": "正解。これは、本文に記載されている各バイオームタイプの特徴的な主要分類基準を正確に反映しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Terrestrial biomes are characterized by vertical layering, while aquatic biomes are characterized by horizontal layering.",
+          "zh": "陆地生物群落以垂直分层为特征，而水生生物群落以水平分层为特征。",
+          "es": "Los biomas terrestres se caracterizan por la estratificación vertical, mientras que los biomas acuáticos se caracterizan por la estratificación horizontal.",
+          "fr": "Les biomes terrestres sont caractérisés par une stratification verticale, tandis que les biomes aquatiques sont caractérisés par une stratification horizontale.",
+          "de": "Terrestrische Biome sind durch vertikale Schichtung gekennzeichnet, während aquatische Biome durch horizontale Schichtung gekennzeichnet sind.",
+          "ja": "陸上バイオームは垂直方向の階層化によって特徴づけられ、水生バイオームは水平方向の階層化によって特徴づけられる。"
+        },
+        "feedback": {
+          "en": "Vertical layering is a feature of terrestrial biomes, and aquatic biomes also have layering (e.g., light penetration), but this isn't the *primary* distinguishing characteristic mentioned.",
+          "zh": "垂直分层是陆地生物群落的一个特征，水生生物群落也有分层（例如光照穿透），但这并非文本中提到的主要区分特征。",
+          "es": "La estratificación vertical es una característica de los biomas terrestres, y los biomas acuáticos también tienen estratificación (p. ej., penetración de la luz), pero esta no es la característica distintiva *principal* mencionada.",
+          "fr": "La stratification verticale est une caractéristique des biomes terrestres, et les biomes aquatiques ont également une stratification (ex: pénétration de la lumière), mais ce n'est pas la caractéristique *principale* distinctive mentionnée.",
+          "de": "Vertikale Schichtung ist ein Merkmal terrestrischer Biome, und aquatische Biome weisen ebenfalls Schichtung auf (z.B. Lichtdurchdringung), aber dies ist nicht das *primäre* Unterscheidungsmerkmal, das erwähnt wird.",
+          "ja": "垂直方向の階層化は陸上バイオームの特徴であり、水生バイオームにも階層化（例：光の透過）が見られますが、これが主要な区別点として述べられているわけではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Terrestrial biomes are named for major physical factors, while aquatic biomes are named for chemical factors.",
+          "zh": "陆地生物群落以主要物理因素命名，而水生生物群落以化学因素命名。",
+          "es": "Los biomas terrestres se nombran por factores físicos principales, mientras que los biomas acuáticos se nombran por factores químicos.",
+          "fr": "Les biomes terrestres sont nommés d'après des facteurs physiques majeurs, tandis que les biomes aquatiques sont nommés d'après des facteurs chimiques.",
+          "de": "Terrestrische Biome werden nach wichtigen physikalischen Faktoren benannt, während aquatische Biome nach chemischen Faktoren benannt werden.",
+          "ja": "陸上バイオームは主要な物理的要因で命名され、水生バイオームは化学的要因で命名される。"
+        },
+        "feedback": {
+          "en": "Terrestrial biomes are named for physical/climatic factors and vegetation. Aquatic biomes are characterized by physical environment (including light, temp) and salt concentration (chemical), but it's not a direct physical vs. chemical naming convention.",
+          "zh": "陆地生物群落以物理/气候因素和植被命名。水生生物群落以物理环境（包括光照、温度）和盐浓度（化学因素）为特征，但这并非直接的物理与化学命名惯例。",
+          "es": "Los biomas terrestres se nombran por factores físicos/climáticos y vegetación. Los biomas acuáticos se caracterizan por el entorno físico (incluida la luz, la temperatura) y la concentración de sal (química), pero no es una convención de nombres directa de físico vs. químico.",
+          "fr": "Les biomes terrestres sont nommés d'après des facteurs physiques/climatiques et la végétation. Les biomes aquatiques sont caractérisés par l'environnement physique (y compris la lumière, la température) et la concentration en sel (chimique), mais ce n'est pas une convention de nommage directe physique vs chimique.",
+          "de": "Terrestrische Biome werden nach physikalischen/klimatischen Faktoren und Vegetation benannt. Aquatische Biome werden durch ihre physikalische Umgebung (einschließlich Licht, Temperatur) und Salzkonzentration (chemisch) charakterisiert, aber es gibt keine direkte Benennungskonvention von physikalisch vs. chemisch.",
+          "ja": "陸上バイオームは主要な物理的・気候的要因と植生によって命名されます。水生バイオームは物理的環境（光、温度を含む）と塩分濃度（化学的）によって特徴づけられますが、物理対化学の命名規則が直接適用されるわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both terrestrial and aquatic biomes are primarily characterized by their dominant vegetation.",
+          "zh": "陆地生物群落和水生生物群落都主要以其优势植被为特征。",
+          "es": "Tanto los biomas terrestres como los acuáticos se caracterizan principalmente por su vegetación dominante.",
+          "fr": "Les biomes terrestres et aquatiques sont tous deux principalement caractérisés par leur végétation dominante.",
+          "de": "Sowohl terrestrische als auch aquatische Biome sind primär durch ihre dominierende Vegetation gekennzeichnet.",
+          "ja": "陸上バイオームと水生バイオームの両方が、主にその優勢な植生によって特徴づけられる。"
+        },
+        "feedback": {
+          "en": "The text states terrestrial biomes are often named for their predominant vegetation, but aquatic biomes are characterized primarily by their physical environment.",
+          "zh": "文本指出陆地生物群落通常以其主要植被命名，但水生生物群落主要以其物理环境为特征。",
+          "es": "El texto afirma que los biomas terrestres a menudo se nombran por su vegetación predominante, pero los biomas acuáticos se caracterizan principalmente por su entorno físico.",
+          "fr": "Le texte indique que les biomes terrestres sont souvent nommés d'après leur végétation prédominante, mais les biomes aquatiques sont caractérisés principalement par leur environnement physique.",
+          "de": "Der Text besagt, dass terrestrische Biome oft nach ihrer vorherrschenden Vegetation benannt werden, aquatische Biome jedoch primär durch ihre physikalische Umgebung gekennzeichnet sind.",
+          "ja": "本文では、陸上バイオームは主にその優勢な植生によって命名されると述べられていますが、水生バイオームは主にその物理的環境によって特徴づけられます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Concept 52.2 states that 'Terrestrial biomes are often named for major physical or climatic factors and for their predominant vegetation,' indicating climate and disturbance as key controls. Concept 52.3 states that 'Aquatic biomes are characterized primarily by their physical environment rather than by climate.' This highlights the difference in primary characteristics.",
+      "zh": "概念52.2指出“陆地生物群落通常以主要物理或气候因素及其主要植被命名”，表明气候和干扰是关键控制因素。概念52.3指出“水生生物群落主要由其物理环境而不是气候来特征化”。这突出了主要特征的差异。",
+      "es": "El Concepto 52.2 establece que 'Los biomas terrestres a menudo se nombran por factores físicos o climáticos principales y por su vegetación predominante', indicando el clima y las perturbaciones como controles clave. El Concepto 52.3 establece que 'Los biomas acuáticos se caracterizan principalmente por su entorno físico en lugar de por el clima'. Esto destaca la diferencia en las características principales.",
+      "fr": "Le concept 52.2 stipule que « Les biomes terrestres sont souvent nommés d'après des facteurs physiques ou climatiques majeurs et leur végétation prédominante », indiquant le climat et les perturbations comme contrôles clés. Le concept 52.3 stipule que « Les biomes aquatiques sont caractérisés principalement par leur environnement physique plutôt que par le climat ». Cela met en évidence la différence dans les caractéristiques principales.",
+      "de": "Konzept 52.2 besagt, dass „terrestrische Biome oft nach wichtigen physikalischen oder klimatischen Faktoren und ihrer vorherrschenden Vegetation benannt werden“, was Klima und Störungen als Schlüsselkontrollen angibt. Konzept 52.3 besagt, dass „aquatische Biome primär durch ihre physikalische Umgebung und nicht durch Klima charakterisiert werden“. Dies unterstreicht den Unterschied in den primären Merkmalen.",
+      "ja": "コンセプト52.2では、「陸上バイオームは主要な物理的または気候的要因、およびその優勢な植生によって命名されることが多い」と述べられており、気候と攪乱が主要な制御因子であることを示しています。コンセプト52.3では、「水生バイオームは主に気候ではなくその物理的環境によって特徴づけられる」と述べられています。これは主要な特徴の違いを強調しています。"
+    }
+  },
+  {
+    "page_number": 1237,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The flowchart in Concept 52.4, which illustrates factors limiting species distribution, primarily serves what purpose for ecologists?",
+      "zh": "概念52.4中说明限制物种分布因素的流程图，主要为生态学家服务于什么目的？",
+      "es": "El diagrama de flujo en el Concepto 52.4, que ilustra los factores que limitan la distribución de las especies, ¿para qué sirve principalmente a los ecólogos?",
+      "fr": "L'organigramme du Concept 52.4, qui illustre les facteurs limitant la distribution des espèces, sert principalement à quel objectif pour les écologistes ?",
+      "de": "Welchen Zweck erfüllt das Flussdiagramm in Konzept 52.4, das die Faktoren zeigt, die die Artenverteilung begrenzen, primär für Ökologen?",
+      "ja": "コンセプト52.4の、種の分布を制限する要因を示すフローチャートは、生態学者にとって主にどのような目的を果たしますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To outline a hierarchical approach ecologists use to determine why a species occurs where it does or does not.",
+          "zh": "概述生态学家用于确定物种为何存在或不存在的层级方法。",
+          "es": "Esquematizar un enfoque jerárquico que los ecólogos utilizan para determinar por qué una especie ocurre o no ocurre en un lugar determinado.",
+          "fr": "Décrire une approche hiérarchique que les écologistes utilisent pour déterminer pourquoi une espèce se trouve ou non à un endroit donné.",
+          "de": "Einen hierarchischen Ansatz skizzieren, den Ökologen verwenden, um zu bestimmen, warum eine Art an einem bestimmten Ort vorkommt oder nicht.",
+          "ja": "生態学者が種の分布を決定する際に用いる階層的アプローチを概説すること。"
+        },
+        "feedback": {
+          "en": "Correct. The flowchart provides a structured, step-by-step method for investigating distribution limits.",
+          "zh": "正确。流程图提供了一个结构化的、循序渐进的方法来调查分布限制。",
+          "es": "Correcto. El diagrama de flujo proporciona un método estructurado y paso a paso para investigar los límites de distribución.",
+          "fr": "Correct. L'organigramme fournit une méthode structurée et étape par étape pour investiguer les limites de distribution.",
+          "de": "Richtig. Das Flussdiagramm bietet eine strukturierte, schrittweise Methode zur Untersuchung von Verbreitungsgrenzen.",
+          "ja": "正解。フローチャートは、分布制限を調査するための構造化された段階的な方法を提供します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To show that abiotic factors are always the ultimate limit to species distribution.",
+          "zh": "表明非生物因素总是物种分布的最终限制。",
+          "es": "Mostrar que los factores abióticos son siempre el límite último para la distribución de las especies.",
+          "fr": "Montrer que les facteurs abiotiques sont toujours la limite ultime de la distribution des espèces.",
+          "de": "Zeigen, dass abiotische Faktoren immer die ultimative Grenze für die Artenverteilung sind.",
+          "ja": "非生物的要因が常に種の分布の究極的な限界であることを示すこと。"
+        },
+        "feedback": {
+          "en": "The flowchart presents multiple limiting factors (dispersal, biotic, abiotic) and doesn't claim abiotic factors are *always* the ultimate limit; it depends on the specific scenario.",
+          "zh": "流程图展示了多种限制因素（扩散、生物、非生物），但并未声称非生物因素总是最终限制；这取决于具体情况。",
+          "es": "El diagrama de flujo presenta múltiples factores limitantes (dispersión, bióticos, abióticos) y no afirma que los factores abióticos sean *siempre* el límite último; depende del escenario específico.",
+          "fr": "L'organigramme présente plusieurs facteurs limitants (dispersion, biotiques, abiotiques) et ne prétend pas que les facteurs abiotiques sont *toujours* la limite ultime ; cela dépend du scénario spécifique.",
+          "de": "Das Flussdiagramm zeigt mehrere begrenzende Faktoren (Ausbreitung, biotisch, abiotisch) und behauptet nicht, dass abiotische Faktoren *immer* die ultimative Grenze sind; es hängt vom spezifischen Szenario ab.",
+          "ja": "フローチャートは複数の制限要因（分散、生物的、非生物的）を示しており、非生物的要因が*常に*究極的な限界であるとは主張していません。それは特定のシナリオによります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To highlight the relative importance of dispersal compared to biotic and abiotic factors.",
+          "zh": "突出扩散相对于生物和非生物因素的相对重要性。",
+          "es": "Destacar la importancia relativa de la dispersión en comparación con los factores bióticos y abióticos.",
+          "fr": "Souligner l'importance relative de la dispersion par rapport aux facteurs biotiques et abiotiques.",
+          "de": "Die relative Bedeutung der Ausbreitung im Vergleich zu biotischen und abiotischen Faktoren hervorheben.",
+          "ja": "生物的要因および非生物的要因と比較した際の分散の相対的重要性に焦点を当てること。"
+        },
+        "feedback": {
+          "en": "The flowchart presents these factors sequentially as a diagnostic tool, not to rank their universal relative importance.",
+          "zh": "流程图以诊断工具的形式按顺序呈现这些因素，而不是为了排列其普遍的相对重要性。",
+          "es": "El diagrama de flujo presenta estos factores secuencialmente como una herramienta de diagnóstico, no para clasificar su importancia relativa universal.",
+          "fr": "L'organigramme présente ces facteurs séquentiellement comme un outil de diagnostic, et non pour classer leur importance relative universelle.",
+          "de": "Das Flussdiagramm präsentiert diese Faktoren sequenziell als Diagnosewerkzeug, nicht um ihre universelle relative Bedeutung zu rangieren.",
+          "ja": "フローチャートはこれらの要因を診断ツールとして順次提示しており、普遍的な相対的重要性を示すものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To illustrate all possible factors that can influence species distribution in any environment.",
+          "zh": "说明在任何环境中可能影响物种分布的所有因素。",
+          "es": "Ilustrar todos los factores posibles que pueden influir en la distribución de las especies en cualquier entorno.",
+          "fr": "Illustrer tous les facteurs possibles pouvant influencer la distribution des espèces dans n'importe quel environnement.",
+          "de": "Alle möglichen Faktoren veranschaulichen, die die Artenverteilung in jeder Umgebung beeinflussen können.",
+          "ja": "あらゆる環境下で種の分布に影響を与える可能性のある全ての要因を示すこと。"
+        },
+        "feedback": {
+          "en": "The flowchart is a generalized framework for investigation, not an exhaustive list of *all* possible specific factors. It covers major categories.",
+          "zh": "流程图是调查的通用框架，并非所有可能具体因素的详尽列表。它涵盖了主要类别。",
+          "es": "El diagrama de flujo es un marco generalizado para la investigación, no una lista exhaustiva de *todos* los posibles factores específicos. Cubre las categorías principales.",
+          "fr": "L'organigramme est un cadre généralisé pour l'investigation, et non une liste exhaustive de *tous* les facteurs spécifiques possibles. Il couvre les catégories principales.",
+          "de": "Das Flussdiagramm ist ein verallgemeinerter Rahmen für die Untersuchung, keine erschöpfende Liste *aller* möglichen spezifischen Faktoren. Es deckt Hauptkategorien ab.",
+          "ja": "フローチャートは調査のための一般的な枠組みであり、考えられるすべての具体的な要因の網羅的なリストではありません。主要なカテゴリを網羅しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The flowchart in Concept 52.4, titled 'Interactions between organisms and the environment limit the distribution of species', guides an ecologist through a series of questions (Does dispersal limit it? Do biotic factors limit it? Do abiotic factors limit it?) to logically deduce the reasons behind a species' distribution. This represents a hierarchical problem-solving approach.",
+      "zh": "概念52.4中题为“生物体与环境之间的相互作用限制物种分布”的流程图，引导生态学家通过一系列问题（扩散是否限制？生物因素是否限制？非生物因素是否限制？）来逻辑地推断物种分布背后的原因。这代表了一种分层的问题解决方法。",
+      "es": "El diagrama de flujo en el Concepto 52.4, titulado 'Interacciones entre organismos y el ambiente limitan la distribución de las especies', guía a un ecólogo a través de una serie de preguntas (¿La dispersión lo limita? ¿Los factores bióticos lo limitan? ¿Los factores abióticos lo limitan?) para deducir lógicamente las razones detrás de la distribución de una especie. Esto representa un enfoque jerárquico de resolución de problemas.",
+      "fr": "L'organigramme du Concept 52.4, intitulé « Les interactions entre les organismes et l'environnement limitent la distribution des espèces », guide un écologiste à travers une série de questions (La dispersion la limite-t-elle ? Les facteurs biotiques la limitent-ils ? Les facteurs abiotiques la limitent-ils ?) pour déduire logiquement les raisons de la distribution d'une espèce. Cela représente une approche hiérarchique de résolution de problèmes.",
+      "de": "Das Flussdiagramm in Konzept 52.4, betitelt „Interaktionen zwischen Organismen und der Umwelt begrenzen die Verteilung von Arten“, leitet einen Ökologen durch eine Reihe von Fragen (Begrenzt die Ausbreitung sie? Begrenzen biotische Faktoren sie? Begrenzen abiotische Faktoren sie?), um logisch die Gründe für die Verteilung einer Art abzuleiten. Dies stellt einen hierarchischen Problemlösungsansatz dar.",
+      "ja": "コンセプト52.4の「生物と環境の相互作用が種の分布を制限する」と題されたフローチャートは、生態学者が一連の質問（分散が制限するか？生物的要因が制限するか？非生物的要因が制限するか？）を通じて、種の分布の背後にある理由を論理的に推論するよう導きます。これは階層的な問題解決アプローチを示しています。"
+    }
+  }
+]

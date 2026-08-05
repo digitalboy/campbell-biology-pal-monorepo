@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 919,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The common saying \"one bad apple spoils the whole bunch\" refers to the rapid spoilage of an entire batch of fruit if one rotten apple is present. Which plant hormone is primarily responsible for this phenomenon?",
+      "zh": "俗话说“一颗烂苹果坏了一整筐”，指的是如果存在一个烂苹果，整批水果都会迅速变质。哪种植物激素是造成这种现象的主要原因？",
+      "es": "El dicho popular \"una manzana podrida estropea todo el cesto\" se refiere al rápido deterioro de todo un lote de fruta si hay una manzana podrida presente. ¿Qué hormona vegetal es la principal responsable de este fenómeno?",
+      "fr": "Le dicton populaire « une pomme pourrie gâte tout le panier » fait référence à la détérioration rapide de tout un lot de fruits si une pomme pourrie est présente. Quelle hormone végétale est principalement responsable de ce phénomène ?",
+      "de": "Das Sprichwort „Ein fauler Apfel verdirbt den ganzen Korb“ bezieht sich auf den schnellen Verderb einer ganzen Partie Obst, wenn ein fauler Apfel vorhanden ist. Welches Pflanzenhormon ist hauptsächlich für dieses Phänomen verantwortlich?",
+      "ja": "「腐ったリンゴが群れ全体を台無しにする」という一般的なことわざは、腐ったリンゴが1つでもあると、果物全体のロットが急速に腐敗することを指します。この現象の主な原因となる植物ホルモンは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Auxin",
+          "zh": "生长素",
+          "es": "Auxina",
+          "fr": "Auxine",
+          "de": "Auxin",
+          "ja": "オーキシン"
+        },
+        "feedback": {
+          "en": "Auxin is involved in cell elongation and gravitropism, not fruit ripening.",
+          "zh": "生长素参与细胞伸长和向地性，而非果实成熟。",
+          "es": "La auxina está involucrada en la elongación celular y el gravitropismo, no en la maduración de la fruta.",
+          "fr": "L'auxine est impliquée dans l'élongation cellulaire et le gravitropisme, pas dans la maturation des fruits.",
+          "de": "Auxin ist an der Zellverlängerung und am Gravitropismus beteiligt, nicht an der Fruchtreifung.",
+          "ja": "オーキシンは細胞の伸長と重力屈性に関与し、果実の成熟には関与しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Gibberellins",
+          "zh": "赤霉素",
+          "es": "Giberelinas",
+          "fr": "Gibbérellines",
+          "de": "Gibberelline",
+          "ja": "ジベレリン"
+        },
+        "feedback": {
+          "en": "Gibberellins promote stem elongation and seed dormancy breaking.",
+          "zh": "赤霉素促进茎的伸长和打破种子休眠。",
+          "es": "Las giberelinas promueven la elongación del tallo y la ruptura de la dormancia de las semillas.",
+          "fr": "Les gibbérellines favorisent l'élongation de la tige et la levée de la dormance des graines.",
+          "de": "Gibberelline fördern die Stängelverlängerung und das Brechen der Samenruhe.",
+          "ja": "ジベレリンは茎の伸長と種子の休眠打破を促進します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Ethylene",
+          "zh": "乙烯",
+          "es": "Etileno",
+          "fr": "Éthylène",
+          "de": "Ethylen",
+          "ja": "エチレン"
+        },
+        "feedback": {
+          "en": "Correct. Ethylene mediates senescence, fruit ripening, and obstacle avoidance.",
+          "zh": "正确。乙烯介导衰老、果实成熟和避障。",
+          "es": "Correcto. El etileno media la senescencia, la maduración de la fruta y la evitación de obstáculos.",
+          "fr": "Correct. L'éthylène médie la sénescence, la maturation des fruits et l'évitement des obstacles.",
+          "de": "Richtig. Ethylen vermittelt Seneszenz, Fruchtreifung und Hindernisvermeidung.",
+          "ja": "正しいです。エチレンは老化、果実の成熟、障害物回避を仲介します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Abscisic acid (ABA)",
+          "zh": "脱落酸 (ABA)",
+          "es": "Ácido abscísico (ABA)",
+          "fr": "Acide abscissique (ABA)",
+          "de": "Abscisinsäure (ABA)",
+          "ja": "アブシシン酸 (ABA)"
+        },
+        "feedback": {
+          "en": "ABA promotes stomatal closure and seed dormancy, acting as a growth inhibitor.",
+          "zh": "脱落酸（ABA）促进气孔关闭和种子休眠，作为生长抑制剂。",
+          "es": "El ácido abscísico (ABA) promueve el cierre estomático y la dormancia de las semillas, actuando como un inhibidor del crecimiento.",
+          "fr": "L'acide abscissique (ABA) favorise la fermeture stomatique et la dormance des graines, agissant comme un inhibiteur de croissance.",
+          "de": "Abscisinsäure (ABA) fördert den Stomataschluss und die Samenruhe und wirkt als Wachstumshemmer.",
+          "ja": "アブシシン酸（ABA）は気孔閉鎖と種子の休眠を促進し、成長抑制剤として作用します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Ethylene is a gaseous plant hormone known for its role in fruit ripening and senescence. A rotten apple releases ethylene, which then signals nearby healthy apples to ripen more quickly, leading to the rapid spoilage of the entire batch. This phenomenon is often referred to as the 'one bad apple spoils the whole bunch' effect.",
+      "zh": "乙烯是一种气体植物激素，以其在果实成熟和衰老中的作用而闻名。一个烂苹果会释放乙烯，进而促使附近的健康苹果迅速成熟，导致整批水果的快速变质。这种现象常被称为“一颗烂苹果坏了一整筐”效应。",
+      "es": "El etileno es una hormona vegetal gaseosa conocida por su papel en la maduración de la fruta y la senescencia. Una manzana podrida libera etileno, que luego indica a las manzanas sanas cercanas que maduren más rápidamente, lo que lleva al rápido deterioro de todo el lote. Este fenómeno a menudo se conoce como el efecto de 'una manzana podrida estropea todo el cesto'.",
+      "fr": "L'éthylène est une hormone végétale gazeuse connue pour son rôle dans la maturation des fruits et la sénescence. Une pomme pourrie libère de l'éthylène, qui signale ensuite aux pommes saines voisines de mûrir plus rapidement, entraînant la détérioration rapide de tout le lot. Ce phénomène est souvent appelé l'effet « une pomme pourrie gâte tout le panier ».",
+      "de": "Ethylen ist ein gasförmiges Pflanzenhormon, das für seine Rolle bei der Fruchtreifung und Seneszenz bekannt ist. Ein fauler Apfel setzt Ethylen frei, das dann benachbarte gesunde Äpfel dazu anregt, schneller zu reifen, was zum schnellen Verderb der gesamten Charge führt. Dieses Phänomen wird oft als der Effekt „ein fauler Apfel verdirbt den ganzen Korb“ bezeichnet.",
+      "ja": "エチレンは、果実の成熟と老化に関与することで知られる気体状の植物ホルモンです。腐ったリンゴはエチレンを放出し、それが近くの健康なリンゴに急速な成熟を促し、結果としてバッチ全体が急速に腐敗することにつながります。この現象はしばしば「腐ったリンゴが群れ全体を台無しにする」効果として言及されます。"
+    }
+  },
+  {
+    "page_number": 919,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following plant hormones is correctly matched with its major response?",
+      "zh": "以下哪种植物激素与其主要响应正确匹配？",
+      "es": "¿Cuál de las siguientes hormonas vegetales se corresponde correctamente con su respuesta principal?",
+      "fr": "Laquelle des hormones végétales suivantes est correctement associée à sa réponse majeure ?",
+      "de": "Welches der folgenden Pflanzenhormone ist seiner Hauptreaktion korrekt zugeordnet?",
+      "ja": "次の植物ホルモンのうち、その主要な反応と正しく一致しているものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Cytokinins: Promote stem elongation",
+          "zh": "细胞分裂素：促进茎的伸长",
+          "es": "Citoquininas: Promueven la elongación del tallo",
+          "fr": "Cytokinines : Favorisent l'élongation de la tige",
+          "de": "Cytokinine: Fördern die Stängelverlängerung",
+          "ja": "サイトカイニン：茎の伸長を促進する"
+        },
+        "feedback": {
+          "en": "Cytokinins stimulate plant cell division and differentiation, and promote axillary bud growth. Gibberellins promote stem elongation.",
+          "zh": "细胞分裂素刺激植物细胞分裂和分化，促进腋芽生长。赤霉素促进茎的伸长。",
+          "es": "Las citoquininas estimulan la división y diferenciación de células vegetales, y promueven el crecimiento de las yemas axilares. Las giberelinas promueven la elongación del tallo.",
+          "fr": "Les cytokinines stimulent la division et la différenciation des cellules végétales, et favorisent la croissance des bourgeons axillaires. Les gibbérellines favorisent l'élongation de la tige.",
+          "de": "Cytokinine stimulieren die Pflanzenzellteilung und -differenzierung und fördern das axilläre Knospenwachstum. Gibberelline fördern die Stängelverlängerung.",
+          "ja": "サイトカイニンは植物細胞の分裂と分化を刺激し、側芽の成長を促進します。ジベレリンは茎の伸長を促進します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Jasmonates: Regulate apical dominance",
+          "zh": "茉莉酸盐：调节顶端优势",
+          "es": "Jasmonatos: Regulan la dominancia apical",
+          "fr": "Jasmonates : Régulent la dominance apicale",
+          "de": "Jasmonate: Regulieren die Apikaldominanz",
+          "ja": "ジャスモン酸：頂芽優勢を調節する"
+        },
+        "feedback": {
+          "en": "Jasmonates mediate plant defenses against insect herbivores. Strigolactones regulate apical dominance.",
+          "zh": "茉莉酸盐介导植物对食草昆虫的防御。独脚金内酯调节顶端优势。",
+          "es": "Los jasmonatos median las defensas de las plantas contra los herbívoros. Las estrigolactonas regulan la dominancia apical.",
+          "fr": "Les jasmonates médient les défenses des plantes contre les herbivores. Les strigolactones régulent la dominance apicale.",
+          "de": "Jasmonate vermitteln Pflanzenabwehrmechanismen gegen pflanzenfressende Insekten. Strigolactone regulieren die Apikaldominanz.",
+          "ja": "ジャスモン酸は草食動物に対する植物の防御を仲介します。ストリゴラクトンは頂芽優勢を調節します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Abscisic acid (ABA): Promotes stomatal closure in response to drought",
+          "zh": "脱落酸 (ABA)：在干旱胁迫下促进气孔关闭",
+          "es": "Ácido abscísico (ABA): Promueve el cierre estomático en respuesta a la sequía",
+          "fr": "Acide abscissique (ABA) : Favorise la fermeture stomatique en réponse à la sécheresse",
+          "de": "Abscisinsäure (ABA): Fördert den Stomataschluss als Reaktion auf Trockenheit",
+          "ja": "アブシシン酸 (ABA)：干ばつに応じて気孔閉鎖を促進する"
+        },
+        "feedback": {
+          "en": "Correct. This is a direct match from the table.",
+          "zh": "正确。这与表格中的描述直接匹配。",
+          "es": "Correcto. Esta es una correspondencia directa de la tabla.",
+          "fr": "Correct. Il s'agit d'une correspondance directe du tableau.",
+          "de": "Richtig. Dies ist eine direkte Übereinstimmung aus der Tabelle.",
+          "ja": "正しいです。これは表からの直接的な対応です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Brassinosteroids: Mediate plant defenses against insect herbivores",
+          "zh": "油菜素类固醇：介导植物对食草昆虫的防御",
+          "es": "Brasinoesteroides: Median las defensas de las plantas contra los herbívoros",
+          "fr": "Brassinostéroïdes : Médient les défenses des plantes contre les herbivores",
+          "de": "Brassinosteroide: Vermitteln die Pflanzenabwehr gegen pflanzenfressende Insekten",
+          "ja": "ブラシノステロイド：草食動物に対する植物の防御を仲介する"
+        },
+        "feedback": {
+          "en": "Brassinosteroids induce cell elongation and division, similar to sex hormones. Jasmonates mediate plant defenses against insect herbivores.",
+          "zh": "油菜素类固醇诱导细胞伸长和分裂，类似于性激素。茉莉酸盐介导植物对食草昆虫的防御。",
+          "es": "Los brasinoesteroides inducen la elongación y división celular, similar a las hormonas sexuales. Los jasmonatos median las defensas de las plantas contra los herbívoros.",
+          "fr": "Les brassinostéroïdes induisent l'élongation et la division cellulaire, à l'instar des hormones sexuelles. Les jasmonates médient les défenses des plantes contre les herbivores.",
+          "de": "Brassinosteroide induzieren Zellverlängerung und -teilung, ähnlich wie Sexualhormone. Jasmonate vermitteln Pflanzenabwehrmechanismen gegen pflanzenfressende Insekten.",
+          "ja": "ブラシノステロイドは、性ホルモンと同様に細胞の伸長と分裂を誘導します。ジャスモン酸は草食動物に対する植物の防御を仲介します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Based on the 'Major Responses' column in the 'Plant Hormone' table on page 846, Abscisic acid (ABA) is listed as 'Promotes stomatal closure in response to drought; promotes seed dormancy.' The other options incorrectly match the hormone to the response.",
+      "zh": "根据第846页“植物激素”表格中的“主要响应”栏，脱落酸（ABA）被列为“在干旱胁迫下促进气孔关闭；促进种子休眠”。其他选项中的激素与响应匹配不正确。",
+      "es": "Según la columna 'Respuestas Principales' de la tabla 'Hormona Vegetal' en la página 846, el ácido abscísico (ABA) se lista como 'Promueve el cierre estomático en respuesta a la sequía; promueve la dormancia de las semillas'. Las otras opciones emparejan incorrectamente la hormona con la respuesta.",
+      "fr": "Selon la colonne « Réponses Majeures » du tableau « Hormone végétale » à la page 846, l'acide abscissique (ABA) est répertorié comme « Favorise la fermeture stomatique en réponse à la sécheresse ; favorise la dormance des graines ». Les autres options associent incorrectement l'hormone à la réponse.",
+      "de": "Basierend auf der Spalte „Hauptreaktionen“ in der Tabelle „Pflanzenhormone“ auf Seite 846 wird Abscisinsäure (ABA) als „Fördert den Stomataschluss als Reaktion auf Trockenheit; fördert die Samenruhe“ aufgeführt. Die anderen Optionen ordnen das Hormon der Reaktion falsch zu.",
+      "ja": "846ページの「植物ホルモン」表の「主要な反応」の列に基づくと、アブシシン酸（ABA）は「干ばつに応じて気孔閉鎖を促進する。種子の休眠を促進する」と記載されています。他の選択肢はホルモンと反応が誤って一致しています。"
+    }
+  },
+  {
+    "page_number": 919,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the information provided regarding phytochromes, which statement is correct about their function and light conversion?",
+      "zh": "根据所提供的有关光敏色素的信息，关于其功能和光转换的哪个陈述是正确的？",
+      "es": "Basándose en la información proporcionada sobre los fitocromos, ¿qué afirmación es correcta sobre su función y conversión lumínica?",
+      "fr": "D'après les informations fournies concernant les phytochromes, quelle affirmation est correcte concernant leur fonction et leur conversion lumineuse ?",
+      "de": "Basierend auf den bereitgestellten Informationen zu Phytochromen, welche Aussage ist bezüglich ihrer Funktion und Lichtkonvertierung korrekt?",
+      "ja": "フィトクロムに関する提供された情報に基づき、その機能と光変換について正しい記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Blue-light photoreceptors control photoperiodism.",
+          "zh": "蓝光光受体控制光周期现象。",
+          "es": "Los fotorreceptores de luz azul controlan el fotoperiodismo.",
+          "fr": "Les photorécepteurs de lumière bleue contrôlent le photopériodisme.",
+          "de": "Blaulicht-Photorezeptoren steuern den Photoperiodismus.",
+          "ja": "青色光受容体は光周性を制御する。"
+        },
+        "feedback": {
+          "en": "Blue-light photoreceptors control hypocotyl elongation, stomatal opening, and phototropism. Photoperiodism is primarily regulated by phytochromes.",
+          "zh": "蓝光光受体控制下胚轴伸长、气孔开放和向光性。光周期现象主要由光敏色素调节。",
+          "es": "Los fotorreceptores de luz azul controlan la elongación del hipocótilo, la apertura estomática y el fototropismo. El fotoperiodismo está regulado principalmente por fitocromos.",
+          "fr": "Les photorécepteurs de lumière bleue contrôlent l'élongation de l'hypocotyle, l'ouverture stomatique et le phototropisme. Le photopériodisme est principalement régulé par les phytochromes.",
+          "de": "Blaulicht-Photorezeptoren steuern die Hypokotylverlängerung, die Stomataöffnung und den Phototropismus. Der Photoperiodismus wird hauptsächlich durch Phytochrom reguliert.",
+          "ja": "青色光受容体は胚軸伸長、気孔開口、光屈性を制御します。光周性は主にフィトクロムによって調節されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Red light converts Pfr to Pr, turning the phytochrome \"off.\"",
+          "zh": "红光将 Pfr 转换为 Pr，使光敏色素“关闭”。",
+          "es": "La luz roja convierte Pfr a Pr, desactivando el fitocromo.",
+          "fr": "La lumière rouge convertit le Pfr en Pr, éteignant le phytochrome.",
+          "de": "Rotes Licht wandelt Pfr in Pr um und schaltet das Phytochrom „aus“.",
+          "ja": "赤色光はPfrをPrに変換し、フィトクロムを「オフ」にする。"
+        },
+        "feedback": {
+          "en": "Red light converts Pr to Pfr, turning the phytochrome \"on.\" Far-red light converts Pfr to Pr.",
+          "zh": "红光将 Pr 转换为 Pfr，使光敏色素“开启”。远红光将 Pfr 转换为 Pr。",
+          "es": "La luz roja convierte Pr a Pfr, activando el fitocromo. La luz roja lejana convierte Pfr a Pr.",
+          "fr": "La lumière rouge convertit le Pr en Pfr, activant le phytochrome. La lumière rouge lointaine convertit le Pfr en Pr.",
+          "de": "Rotes Licht wandelt Pr in Pfr um und schaltet das Phytochrom „ein“. Fernrotes Licht wandelt Pfr in Pr um.",
+          "ja": "赤色光はPrをPfrに変換し、フィトクロムを「オン」にします。遠赤色光はPfrをPrに変換します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Far-red light converts Pr to Pfr, leading to plant responses.",
+          "zh": "远红光将 Pr 转换为 Pfr，导致植物响应。",
+          "es": "La luz roja lejana convierte Pr a Pfr, lo que lleva a respuestas de la planta.",
+          "fr": "La lumière rouge lointaine convertit le Pr en Pfr, entraînant des réponses végétales.",
+          "de": "Fernrotes Licht wandelt Pr in Pfr um, was zu Pflanzenreaktionen führt.",
+          "ja": "遠赤色光はPrをPfrに変換し、植物の応答を引き起こす。"
+        },
+        "feedback": {
+          "en": "Far-red light converts Pfr to Pr, turning the phytochrome \"off.\" Red light converts Pr to Pfr, leading to responses.",
+          "zh": "远红光将 Pfr 转换为 Pr，使光敏色素“关闭”。红光将 Pr 转换为 Pfr，导致响应。",
+          "es": "La luz roja lejana convierte Pfr a Pr, desactivando el fitocromo. La luz roja convierte Pr a Pfr, lo que lleva a respuestas.",
+          "fr": "La lumière rouge lointaine convertit le Pfr en Pr, éteignant le phytochrome. La lumière rouge convertit le Pr en Pfr, entraînant des réponses.",
+          "de": "Fernrotes Licht wandelt Pfr in Pr um und schaltet das Phytochrom „aus“. Rotes Licht wandelt Pr in Pfr um, was zu Reaktionen führt.",
+          "ja": "遠赤色光はPfrをPrに変換し、フィトクロムを「オフ」にします。赤色光はPrをPfrに変換し、応答を引き起こします。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The Pfr form of phytochrome triggers plant responses.",
+          "zh": "光敏色素的 Pfr 形式触发植物响应。",
+          "es": "La forma Pfr del fitocromo desencadena respuestas en las plantas.",
+          "fr": "La forme Pfr du phytochrome déclenche les réponses végétales.",
+          "de": "Die Pfr-Form von Phytochrom löst Pflanzenreaktionen aus.",
+          "ja": "フィトクロムのPfr型が植物の応答を引き起こす。"
+        },
+        "feedback": {
+          "en": "Correct. The diagram explicitly shows Pfr leading to \"Responses.\"",
+          "zh": "正确。图表明确显示 Pfr 导致“响应”。",
+          "es": "Correcto. El diagrama muestra explícitamente que Pfr conduce a \"Respuestas\".",
+          "fr": "Correct. Le diagramme montre explicitement que le Pfr mène aux « Réponses ».",
+          "de": "Richtig. Das Diagramm zeigt explizit, dass Pfr zu „Reaktionen“ führt.",
+          "ja": "正しいです。図にはPfrが「応答」につながることが明確に示されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "According to the diagram under Concept 39.3, red light converts Pr to Pfr, and the Pfr form is shown leading to 'Responses'. The text also states that 'Red light turns phytochrome \"on,\"' implying Pfr is the active form that triggers responses, while far-red light turns it 'off' by converting Pfr back to Pr. Blue-light photoreceptors have distinct functions from phytochromes regarding photoperiodism.",
+      "zh": "根据概念39.3下的图示，红光将Pr转换为Pfr，而Pfr形式被显示为导致“响应”。文本还指出“红光使光敏色素‘开启’”，这意味着Pfr是触发响应的活性形式，而远红光通过将Pfr转换回Pr使其“关闭”。蓝光光受体在光周期方面与光敏色素有不同的功能。",
+      "es": "Según el diagrama bajo el Concepto 39.3, la luz roja convierte Pr a Pfr, y la forma Pfr se muestra conduciendo a 'Respuestas'. El texto también afirma que 'la luz roja enciende el fitocromo', lo que implica que Pfr es la forma activa que desencadena las respuestas, mientras que la luz roja lejana lo 'apaga' al convertir Pfr de nuevo a Pr. Los fotorreceptores de luz azul tienen funciones distintas a los fitocromos en relación con el fotoperiodismo.",
+      "fr": "Selon le diagramme sous le concept 39.3, la lumière rouge convertit le Pr en Pfr, et la forme Pfr est montrée comme conduisant aux « Réponses ». Le texte indique également que « la lumière rouge allume le phytochrome », ce qui implique que le Pfr est la forme active qui déclenche les réponses, tandis que la lumière rouge lointaine l'« éteint » en reconvertissant le Pfr en Pr. Les photorécepteurs de lumière bleue ont des fonctions distinctes des phytochromes en ce qui concerne le photopériodisme.",
+      "de": "Gemäß dem Diagramm unter Konzept 39.3 wandelt rotes Licht Pr in Pfr um, und die Pfr-Form führt zu „Reaktionen“. Der Text besagt auch, dass „rotes Licht Phytochrom „einschaltet““, was impliziert, dass Pfr die aktive Form ist, die Reaktionen auslöst, während fernrotes Licht es „ausschaltet“, indem es Pfr zurück in Pr umwandelt. Blaulicht-Photorezeptoren haben im Hinblick auf den Photoperiodismus andere Funktionen als Phytochrome.",
+      "ja": "概念39.3の図によると、赤色光はPrをPfrに変換し、Pfr型が「応答」につながると示されています。本文でも「赤色光はフィトクロムを『オン』にする」と述べられており、Pfrが応答を誘発する活性型であることを示唆しています。一方、遠赤色光はPfrをPrに戻すことで「オフ」にします。青色光受容体は光周性に関してフィトクロムとは異なる機能を持っています。"
+    }
+  },
+  {
+    "page_number": 919,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Plants that have acclimated to drought stress are often more resistant to freezing stress as well. Which of the following is the most likely reason for this increased resistance?",
+      "zh": "适应了干旱胁迫的植物通常也对冰冻胁迫具有更强的抵抗力。以下哪项最可能是这种抵抗力增加的原因？",
+      "es": "Las plantas que se han aclimatado al estrés por sequía a menudo también son más resistentes al estrés por congelación. ¿Cuál de las siguientes es la razón más probable de esta mayor resistencia?",
+      "fr": "Les plantes qui se sont acclimatées au stress hydrique sont souvent aussi plus résistantes au stress de gel. Laquelle des raisons suivantes est la plus probable pour cette résistance accrue ?",
+      "de": "Pflanzen, die sich an Trockenstress akklimatisiert haben, sind oft auch widerstandsfähiger gegen Gefrierstress. Welcher der folgenden Gründe ist die wahrscheinlichste Ursache für diese erhöhte Resistenz?",
+      "ja": "干ばつストレスに適応した植物は、しばしば凍結ストレスにもより強い耐性を示します。この耐性増加の最も可能性の高い理由として、次のうちどれが挙げられますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Both stresses promote the formation of air tubes for oxygen supply.",
+          "zh": "两种胁迫都促进气管的形成以供应氧气。",
+          "es": "Ambos tipos de estrés promueven la formación de tubos de aire para el suministro de oxígeno.",
+          "fr": "Les deux stress favorisent la formation de tubes aériens pour l'apport en oxygène.",
+          "de": "Beide Stressfaktoren fördern die Bildung von Luftröhren zur Sauerstoffversorgung.",
+          "ja": "両方のストレスが酸素供給のためのエアチューブ形成を促進する。"
+        },
+        "feedback": {
+          "en": "Formation of air tubes is a response to flooding, not drought or freezing.",
+          "zh": "形成气管是对水涝的响应，而不是干旱或冰冻。",
+          "es": "La formación de tubos de aire es una respuesta a la inundación, no a la sequía o la congelación.",
+          "fr": "La formation de tubes d'air est une réponse à l'inondation, pas à la sécheresse ou au gel.",
+          "de": "Die Bildung von Luftröhren ist eine Reaktion auf Überflutung, nicht auf Trockenheit oder Gefrieren.",
+          "ja": "エアチューブの形成は洪水に対する応答であり、干ばつや凍結に対するものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Acclimation to drought leads to increased production of auxins, which enhance overall plant vigor.",
+          "zh": "适应干旱会导致生长素产量增加，从而增强植物的整体活力。",
+          "es": "La aclimatación a la sequía conduce a una mayor producción de auxinas, lo que mejora el vigor general de la planta.",
+          "fr": "L'acclimatation à la sécheresse entraîne une production accrue d'auxines, ce qui améliore la vigueur générale de la plante.",
+          "de": "Die Akklimatisierung an Trockenheit führt zu einer erhöhten Produktion von Auxinen, die die allgemeine Pflanzenvitalität verbessern.",
+          "ja": "干ばつへの順化はオーキシンの生産増加につながり、それが植物全体の活力を高める。"
+        },
+        "feedback": {
+          "en": "Auxins are not explicitly linked to drought or freezing resistance in the context of this page, and increased vigor isn't the direct mechanism for cross-resistance.",
+          "zh": "在本页的语境中，生长素与干旱或冰冻抗性没有明确关联，且增强整体活力并非交叉抗性的直接机制。",
+          "es": "Las auxinas no están explícitamente vinculadas a la resistencia a la sequía o la congelación en el contexto de esta página, y el aumento del vigor no es el mecanismo directo de la resistencia cruzada.",
+          "fr": "Les auxines ne sont pas explicitement liées à la résistance à la sécheresse ou au gel dans le contexte de cette page, et une vigueur accrue n'est pas le mécanisme direct de la résistance croisée.",
+          "de": "Auxine sind im Kontext dieser Seite nicht explizit mit Trocken- oder Gefrierresistenz verbunden, und erhöhte Vitalität ist nicht der direkte Mechanismus für Kreuzresistenz.",
+          "ja": "オーキシンは、このページの文脈では干ばつや凍結耐性とは明示的に関連付けられておらず、活力の増加は交差耐性の直接的なメカニズムではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both stresses induce the synthesis of solutes that help maintain water balance and membrane fluidity.",
+          "zh": "两种胁迫都诱导溶质的合成，有助于维持水分平衡和膜流动性。",
+          "es": "Ambos tipos de estrés inducen la síntesis de solutos que ayudan a mantener el equilibrio hídrico y la fluidez de la membrana.",
+          "fr": "Les deux stress induisent la synthèse de solutés qui aident à maintenir l'équilibre hydrique et la fluidité membranaire.",
+          "de": "Beide Stressfaktoren induzieren die Synthese von Soluten, die zur Aufrechterhaltung des Wasserhaushalts und der Membranfluidität beitragen.",
+          "ja": "両方のストレスが、水分バランスと膜流動性を維持するのに役立つ溶質の合成を誘導する。"
+        },
+        "feedback": {
+          "en": "Correct. The table indicates 'Avoiding osmotic water loss by producing solutes tolerated at high concentrations' for salt stress (which shares mechanisms with drought in terms of water potential) and 'Adjusting membrane fluidity; avoiding osmotic water loss; producing antifreeze proteins' for cold stress. Solute accumulation is a common osmotic adjustment strategy for both.",
+          "zh": "正确。表格显示盐胁迫（在水势方面与干旱有共同机制）通过“产生高浓度耐受性溶质来避免渗透失水”，而冷胁迫则通过“调节膜流动性；避免渗透失水；产生抗冻蛋白”。溶质积累是两者共同的渗透调节策略。",
+          "es": "Correcto. La tabla indica 'Evitar la pérdida de agua osmótica produciendo solutos tolerados en altas concentraciones' para el estrés salino (que comparte mecanismos con la sequía en términos de potencial hídrico) y 'Ajustar la fluidez de la membrana; evitar la pérdida de agua osmótica; producir proteínas anticongelantes' para el estrés por frío. La acumulación de solutos es una estrategia común de ajuste osmótico para ambos.",
+          "fr": "Correct. Le tableau indique « Éviter la perte d'eau osmotique en produisant des solutés tolérés à de fortes concentrations » pour le stress salin (qui partage des mécanismes avec la sécheresse en termes de potentiel hydrique) et « Ajuster la fluidité membranaire ; éviter la perte d'eau osmotique ; produire des protéines antigel » pour le stress au froid. L'accumulation de solutés est une stratégie commune d'ajustement osmotique pour les deux.",
+          "de": "Richtig. Die Tabelle zeigt „Vermeidung von osmotischem Wasserverlust durch Produktion von in hohen Konzentrationen tolerierten Soluten“ für Salzstress (der Mechanismen mit Trockenheit hinsichtlich des Wasserpotenzials teilt) und „Anpassung der Membranfluidität; Vermeidung von osmotischem Wasserverlust; Produktion von Gefrierschutzproteinen“ für Kältestress. Die Akkumulation von Soluten ist eine gemeinsame osmotische Anpassungsstrategie für beides.",
+          "ja": "正しいです。表では、塩ストレス（水ポテンシャルに関して干ばつと共通のメカニズムを持つ）に対しては「高濃度で許容される溶質を生成して浸透圧による水損失を回避する」と、寒冷ストレスに対しては「膜の流動性を調整する。浸透圧による水損失を回避する。不凍タンパク質を生成する」と示されています。溶質蓄積は、両方にとって共通の浸透圧調節戦略です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Drought acclimation primarily involves root growth, which indirectly strengthens the plant against cold.",
+          "zh": "干旱适应主要涉及根系生长，这间接增强了植物对寒冷的抵抗力。",
+          "es": "La aclimatación a la sequía implica principalmente el crecimiento de las raíces, lo que fortalece indirectamente la planta contra el frío.",
+          "fr": "L'acclimatation à la sécheresse implique principalement la croissance des racines, ce qui renforce indirectement la plante contre le froid.",
+          "de": "Die Trockenakklimatisierung beinhaltet primär Wurzelwachstum, das die Pflanze indirekt gegen Kälte stärkt.",
+          "ja": "干ばつへの順化は主に根の成長を伴い、それが間接的に植物の寒冷耐性を強化する。"
+        },
+        "feedback": {
+          "en": "While root growth is part of drought response, the primary listed mechanisms for both drought and cold stress involve cellular and biochemical adaptations to water potential and temperature, such as solute accumulation and membrane fluidity adjustment.",
+          "zh": "虽然根系生长是干旱响应的一部分，但干旱和冷胁迫的主要机制都涉及细胞和生化对水势和温度的适应，例如溶质积累和膜流动性调节。",
+          "es": "Si bien el crecimiento de las raíces es parte de la respuesta a la sequía, los mecanismos principales enumerados para el estrés por sequía y por frío implican adaptaciones celulares y bioquímicas al potencial hídrico y la temperatura, como la acumulación de solutos y el ajuste de la fluidez de la membrana.",
+          "fr": "Bien que la croissance des racines fasse partie de la réponse à la sécheresse, les principaux mécanismes énumérés pour le stress de sécheresse et de froid impliquent des adaptations cellulaires et biochimiques au potentiel hydrique et à la température, telles que l'accumulation de solutés et l'ajustement de la fluidité membranaire.",
+          "de": "Während das Wurzelwachstum Teil der Trockenreaktion ist, umfassen die primär genannten Mechanismen sowohl für Trocken- als auch für Kältestress zelluläre und biochemische Anpassungen an Wasserpotential und Temperatur, wie die Akkumulation von Soluten und die Anpassung der Membranfluidität.",
+          "ja": "根の成長は干ばつ応答の一部ですが、干ばつおよび寒冷ストレスの主要なメカニズムは、水ポテンシャルと温度に対する細胞的および生化学的適応、例えば溶質蓄積や膜流動性調整を含みます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The provided table on 'Environmental Stress' shows that for 'Salt' stress, the major response is 'Avoiding osmotic water loss by producing solutes tolerated at high concentrations.' For 'Cold' stress, the responses include 'Adjusting membrane fluidity; avoiding osmotic water loss; producing antifreeze proteins.' Drought stress also involves osmotic challenges. Both cold and drought/salt stress induce the plant to synthesize various protective solutes (like sugars, amino acids, and polyols) that act as osmolytes or cryoprotectants. These solutes help maintain cell turgor and protect cellular structures, including membranes, from damage due to water loss or ice crystal formation, thus providing cross-resistance.",
+      "zh": "提供的“环境胁迫”表格显示，对于“盐”胁迫，主要响应是“通过产生高浓度耐受性溶质来避免渗透失水”。对于“冷”胁迫，响应包括“调节膜流动性；避免渗透失水；产生抗冻蛋白”。干旱胁迫也涉及渗透挑战。冷胁迫和干旱/盐胁迫都会诱导植物合成各种保护性溶质（如糖、氨基酸和多元醇），这些溶质作为渗透调节剂或冷冻保护剂。这些溶质有助于维持细胞膨压，并保护包括膜在内的细胞结构免受水分流失或冰晶形成造成的损害，从而提供交叉抗性。",
+      "es": "La tabla proporcionada sobre 'Estrés Ambiental' muestra que para el estrés por 'Sal', la respuesta principal es 'Evitar la pérdida de agua osmótica produciendo solutos tolerados en altas concentraciones'. Para el estrés por 'Frío', las respuestas incluyen 'Ajustar la fluidez de la membrana; evitar la pérdida de agua osmótica; producir proteínas anticongelantes'. El estrés por sequía también implica desafíos osmóticos. Tanto el estrés por frío como por sequía/sal inducen a la planta a sintetizar varios solutos protectores (como azúcares, aminoácidos y polioles) que actúan como osmolitos o crioprotectores. Estos solutos ayudan a mantener la turgencia celular y protegen las estructuras celulares, incluidas las membranas, del daño debido a la pérdida de agua o la formación de cristales de hielo, proporcionando así resistencia cruzada.",
+      "fr": "Le tableau fourni sur le « Stress environnemental » montre que pour le stress « Salin », la réponse majeure est « Éviter la perte d'eau osmotique en produisant des solutés tolérés à de fortes concentrations ». Pour le stress « Froid », les réponses incluent « Ajuster la fluidité membranaire ; éviter la perte d'eau osmotique ; produire des protéines antigel ». Le stress hydrique implique également des défis osmotiques. Les stress de froid et de sécheresse/salin induisent tous deux la plante à synthétiser divers solutés protecteurs (comme les sucres, les acides aminés et les polyols) qui agissent comme des osmolytes ou des cryoprotecteurs. Ces solutés aident à maintenir la turgescence cellulaire et protègent les structures cellulaires, y compris les membranes, des dommages dus à la perte d'eau ou à la formation de cristaux de glace, offrant ainsi une résistance croisée.",
+      "de": "Die bereitgestellte Tabelle zu „Umweltstress“ zeigt, dass bei „Salz“-Stress die Hauptreaktion „Vermeidung von osmotischem Wasserverlust durch Produktion von in hohen Konzentrationen tolerierten Soluten“ ist. Bei „Kälte“-Stress umfassen die Reaktionen „Anpassung der Membranfluidität; Vermeidung von osmotischem Wasserverlust; Produktion von Gefrierschutzproteinen.“ Trockenstress beinhaltet ebenfalls osmotische Herausforderungen. Sowohl Kälte- als auch Trocken-/Salzstress induzieren die Pflanze dazu, verschiedene schützende Solute (wie Zucker, Aminosäuren und Polyole) zu synthetisieren, die als Osmolyte oder Kryoprotektoren wirken. Diese Solute helfen, den Zelldruck aufrechtzuerhalten und zelluläre Strukturen, einschließlich Membranen, vor Schäden durch Wasserverlust oder Eiskristallbildung zu schützen, wodurch eine Kreuzresistenz entsteht.",
+      "ja": "提供された「環境ストレス」に関する表は、「塩」ストレスに対する主要な反応が「高濃度で許容される溶質を生成して浸透圧による水損失を回避する」ことであることを示しています。「寒冷」ストレスに対する反応には「膜の流動性を調整する。浸透圧による水損失を回避する。不凍タンパク質を生成する」が含まれます。干ばつストレスも浸透圧の課題を伴います。寒冷ストレスと干ばつ/塩ストレスの両方が、植物に様々な保護的な溶質（糖、アミノ酸、ポリオールなど）の合成を誘導し、これらは浸透圧調節物質や凍結保護物質として機能します。これらの溶質は細胞の膨圧を維持し、水分損失や氷晶形成による損傷から膜を含む細胞構造を保護し、これにより交差耐性を付与します。"
+    }
+  }
+]

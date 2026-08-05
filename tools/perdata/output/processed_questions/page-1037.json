@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 1037,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 44.13 and the accompanying text, which of the following substances are actively reabsorbed from the filtrate into the interstitial fluid in the proximal tubule?",
+      "zh": "根据图 44.13 及相关文本，以下哪些物质在近端小管中从滤液主动重吸收进入间质液？",
+      "es": "Según la Figura 44.13 y el texto adjunto, ¿cuáles de las siguientes sustancias se reabsorben activamente del filtrado hacia el líquido intersticial en el túbulo proximal?",
+      "fr": "Selon la figure 44.13 et le texte d'accompagnement, lesquelles des substances suivantes sont activement réabsorbées du filtrat vers le liquide interstitiel dans le tubule proximal ?",
+      "de": "Basierend auf Abbildung 44.13 und dem begleitenden Text, welche der folgenden Substanzen werden im proximalen Tubulus aktiv aus dem Filtrat in die interstitielle Flüssigkeit rückresorbiert?",
+      "ja": "図44.13および付随するテキストに基づくと、以下のどの物質が近位尿細管において濾液から間質液へ能動的に再吸収されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "NaCl, Nutrients, H2O",
+          "zh": "氯化钠、营养物质、水",
+          "es": "NaCl, Nutrientes, H2O",
+          "fr": "NaCl, Nutriments, H2O",
+          "de": "NaCl, Nährstoffe, H2O",
+          "ja": "NaCl、栄養素、H2O"
+        },
+        "feedback": {
+          "en": "While NaCl and Nutrients are actively transported, H2O moves passively by osmosis.",
+          "zh": "虽然氯化钠和营养物质被主动运输，但水是通过渗透作用被动移动的。",
+          "es": "Aunque el NaCl y los nutrientes son transportados activamente, el H2O se mueve pasivamente por ósmosis.",
+          "fr": "Bien que le NaCl et les nutriments soient transportés activement, l'H2O se déplace passivement par osmose.",
+          "de": "Während NaCl und Nährstoffe aktiv transportiert werden, bewegt sich H2O passiv durch Osmose.",
+          "ja": "NaClと栄養素は能動輸送されますが、H2Oは浸透によって受動的に移動します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "NaCl, HCO3-, H+",
+          "zh": "氯化钠、碳酸氢根、氢离子",
+          "es": "NaCl, HCO3-, H+",
+          "fr": "NaCl, HCO3-, H+",
+          "de": "NaCl, HCO3-, H+",
+          "ja": "NaCl、HCO3-、H+"
+        },
+        "feedback": {
+          "en": "H+ is actively secreted into the lumen of the tubule, not reabsorbed.",
+          "zh": "氢离子（H+）是主动分泌到小管腔中，而不是被重吸收。",
+          "es": "El H+ se secreta activamente hacia la luz del túbulo, no se reabsorbe.",
+          "fr": "Le H+ est activement sécrété dans la lumière du tubule, et non réabsorbé.",
+          "de": "H+ wird aktiv in das Tubuluslumen sezerniert und nicht rückresorbiert.",
+          "ja": "H+は尿細管内腔に能動的に分泌され、再吸収されません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "NaCl, Nutrients, HCO3-, K+",
+          "zh": "氯化钠、营养物质、碳酸氢根、钾离子",
+          "es": "NaCl, Nutrientes, HCO3-, K+",
+          "fr": "NaCl, Nutriments, HCO3-, K+",
+          "de": "NaCl, Nährstoffe, HCO3-, K+",
+          "ja": "NaCl、栄養素、HCO3-、K+"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "H+, NH3, Urea",
+          "zh": "氢离子、氨、尿素",
+          "es": "H+, NH3, Urea",
+          "fr": "H+, NH3, Urée",
+          "de": "H+, NH3, Harnstoff",
+          "ja": "H+、NH3、尿素"
+        },
+        "feedback": {
+          "en": "H+ and NH3 are secreted, not reabsorbed. Urea is reabsorbed at a much lower rate than salt and water.",
+          "zh": "氢离子（H+）和氨（NH3）是被分泌的，而不是重吸收的。尿素的重吸收率远低于盐和水。",
+          "es": "El H+ y el NH3 son secretados, no reabsorbidos. La urea se reabsorbe a una tasa mucho menor que la sal y el agua.",
+          "fr": "Le H+ et le NH3 sont sécrétés, non réabsorbés. L'urée est réabsorbée à un taux beaucoup plus faible que le sel et l'eau.",
+          "de": "H+ und NH3 werden sezerniert, nicht rückresorbiert. Harnstoff wird mit einer wesentlich geringeren Rate als Salz und Wasser rückresorbiert.",
+          "ja": "H+とNH3は分泌され、再吸収されません。尿素は塩や水よりもはるかに低い速度で再吸収されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The diagram indicates active transport (red arrows) for NaCl, Nutrients, HCO3-, and K+ out of the proximal tubule. The text further explains that Na+ is actively transported, driving Cl- passively, and that glucose, amino acids, K+, and other essential substances are actively or passively transported. HCO3- is also actively reabsorbed for pH balance.",
+      "zh": "图中红箭头显示氯化钠（NaCl）、营养物质、碳酸氢根（HCO3-）和钾离子（K+）主动从近端小管中转运出。文本进一步解释说，钠离子（Na+）被主动转运，从而驱动氯离子（Cl-）被动转运；葡萄糖、氨基酸、钾离子和其他必需物质也被主动或被动转运。碳酸氢根（HCO3-）也为了维持pH平衡而被主动重吸收。",
+      "es": "El diagrama indica el transporte activo (flechas rojas) de NaCl, nutrientes, HCO3- y K+ fuera del túbulo proximal. El texto explica además que el Na+ es transportado activamente, impulsando el Cl- pasivamente, y que la glucosa, los aminoácidos, el K+ y otras sustancias esenciales son transportados activa o pasivamente. El HCO3- también se reabsorbe activamente para el equilibrio del pH.",
+      "fr": "Le diagramme indique un transport actif (flèches rouges) pour le NaCl, les nutriments, le HCO3- et le K+ hors du tubule proximal. Le texte explique en outre que le Na+ est transporté activement, entraînant le Cl- passivement, et que le glucose, les acides aminés, le K+ et d'autres substances essentielles sont transportés activement ou passivement. Le HCO3- est également réabsorbé activement pour l'équilibre du pH.",
+      "de": "Das Diagramm zeigt den aktiven Transport (rote Pfeile) von NaCl, Nährstoffen, HCO3- und K+ aus dem proximalen Tubulus. Der Text erklärt weiterhin, dass Na+ aktiv transportiert wird, wodurch Cl- passiv transportiert wird, und dass Glukose, Aminosäuren, K+ und andere essentielle Substanzen aktiv oder passiv transportiert werden. HCO3- wird ebenfalls aktiv zur Aufrechterhaltung des pH-Werts rückresorbiert.",
+      "ja": "図は、近位尿細管からNaCl、栄養素、HCO3-、K+が能動輸送（赤い矢印）されることを示しています。テキストはさらに、Na+が能動的に輸送され、Cl-を受動的に駆動すること、およびグルコース、アミノ酸、K+、その他の必須物質が能動的または受動的に輸送されることを説明しています。HCO3-もpHバランスのために能動的に再吸収されます。"
+    }
+  },
+  {
+    "page_number": 1037,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Some cells lining tubules in the kidney maintain normal cell volume by synthesizing organic solutes. Where in the kidney would you expect to find these cells, and why?",
+      "zh": "肾脏中一些衬有小管的细胞通过合成有机溶质来维持正常的细胞体积。您期望在肾脏的哪个区域找到这些细胞，为什么？",
+      "es": "Algunas células que recubren los túbulos renales mantienen un volumen celular normal sintetizando solutos orgánicos. ¿En qué región del riñón esperaría encontrar estas células y por qué?",
+      "fr": "Certaines cellules tapissant les tubules rénaux maintiennent un volume cellulaire normal en synthétisant des solutés organiques. Dans quelle région du rein vous attendez-vous à trouver ces cellules, et pourquoi ?",
+      "de": "Einige Zellen, die die Tubuli in der Niere auskleiden, erhalten ihr normales Zellvolumen durch die Synthese organischer Solute. Wo in der Niere würden Sie diese Zellen erwarten, und warum?",
+      "ja": "腎臓の尿細管を裏打ちする一部の細胞は、有機溶質を合成することで正常な細胞容積を維持しています。腎臓のどの領域でこれらの細胞が見つかると予想され、その理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Proximal tubule, as it is the primary site of reabsorption of most filtered substances.",
+          "zh": "近端小管，因为它是在过滤物质中重吸收的主要部位。",
+          "es": "Túbulo proximal, ya que es el sitio principal de reabsorción de la mayoría de las sustancias filtradas.",
+          "fr": "Tubule proximal, car c'est le site principal de réabsorption de la plupart des substances filtrées.",
+          "de": "Proximaler Tubulus, da er der Hauptort der Rückresorption der meisten gefilterten Substanzen ist.",
+          "ja": "近位尿細管。ほとんどの濾過物質の再吸収の主要部位であるため。"
+        },
+        "feedback": {
+          "en": "While extensive reabsorption occurs here, the main challenge for cell volume regulation by synthesizing osmolytes arises in regions exposed to extreme and varying osmotic gradients, particularly in the medulla.",
+          "zh": "虽然这里发生了大量的重吸收，但通过合成渗透溶质来调节细胞体积的主要挑战出现在暴露于极端和不断变化的渗透梯度的区域，特别是在髓质。",
+          "es": "Aunque aquí ocurre una reabsorción extensa, el principal desafío para la regulación del volumen celular mediante la síntesis de osmolitos surge en regiones expuestas a gradientes osmóticos extremos y variables, particularmente en la médula.",
+          "fr": "Bien qu'une réabsorption étendue se produise ici, le principal défi pour la régulation du volume cellulaire par la synthèse d'osmolytes se pose dans les régions exposées à des gradients osmotiques extrêmes et variables, en particulier dans la médulla.",
+          "de": "Obwohl hier eine umfangreiche Rückresorption stattfindet, entsteht die größte Herausforderung für die Zellvolumenregulation durch die Synthese von Osmolyten in Regionen, die extremen und variierenden osmotischen Gradienten ausgesetzt sind, insbesondere im Mark.",
+          "ja": "ここでは広範囲な再吸収が行われますが、細胞容積を調節するために浸透圧調整物質を合成する主な課題は、特に髄質において、極端で変化する浸透圧勾配に曝される領域で生じます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Descending limb of the loop of Henle, as it is highly permeable to water and loses water to the interstitial fluid.",
+          "zh": "亨利袢降支，因为它对水高度渗透，并失水到间质液中。",
+          "es": "Rama descendente del asa de Henle, ya que es altamente permeable al agua y pierde agua al líquido intersticial.",
+          "fr": "Branche descendante de l'anse de Henlé, car elle est très perméable à l'eau et perd de l'eau dans le liquide interstitiel.",
+          "de": "Absteigender Schenkel der Henle-Schleife, da er für Wasser hochpermeabel ist und Wasser in die interstitielle Flüssigkeit abgibt.",
+          "ja": "ヘンレループ下行脚。水に対して非常に透過性が高く、間質液に水を失うため。"
+        },
+        "feedback": {
+          "en": "While the descending limb faces osmotic stress from water loss, the collecting duct in the inner medulla experiences the most extreme and fluctuating osmotic gradients, requiring more active osmoregulation by cells.",
+          "zh": "虽然降支面临失水带来的渗透压，但内髓的集合管面临最极端和波动最大的渗透压，需要细胞更主动地进行渗透压调节。",
+          "es": "Aunque la rama descendente se enfrenta al estrés osmótico por la pérdida de agua, el conducto colector en la médula interna experimenta los gradientes osmóticos más extremos y fluctuantes, lo que requiere una osmorregulación más activa por parte de las células.",
+          "fr": "Bien que la branche descendante soit soumise à un stress osmotique dû à la perte d'eau, le canal collecteur de la médullaire interne subit les gradients osmotiques les plus extrêmes et fluctuants, nécessitant une osmorégulation plus active des cellules.",
+          "de": "Obwohl der absteigende Schenkel osmotischem Stress durch Wasserverlust ausgesetzt ist, erfährt der Sammelgang im inneren Mark die extremsten und fluktuierenden osmotischen Gradienten, was eine aktivere Osmoregulation durch die Zellen erfordert.",
+          "ja": "下行脚は水分喪失による浸透圧ストレスに直面しますが、内髄の集合管は最も極端で変動する浸透圧勾配を経験するため、細胞によるより積極的な浸透圧調節が必要です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Thick segment of the ascending limb of the loop of Henle, as it actively pumps out salt, creating a dilute filtrate.",
+          "zh": "亨利袢升支粗段，因为它主动泵出盐分，形成稀释的滤液。",
+          "es": "Segmento grueso de la rama ascendente del asa de Henle, ya que bombea activamente sal, creando un filtrado diluido.",
+          "fr": "Segment épais de la branche ascendante de l'anse de Henlé, car il pompe activement le sel, créant un filtrat dilué.",
+          "de": "Dicker aufsteigender Schenkel der Henle-Schleife, da er aktiv Salz abpumpt und so ein verdünntes Filtrat erzeugt.",
+          "ja": "ヘンレループ上行脚太い部分。能動的に塩を排出し、希釈された濾液を生成するため。"
+        },
+        "feedback": {
+          "en": "While this segment is crucial for establishing the medullary osmotic gradient by pumping out salt, its cells are not primarily challenged by extreme osmotic gradients that require organic osmolyte synthesis for volume maintenance.",
+          "zh": "虽然这一段通过泵出盐分对建立髓质渗透压梯度至关重要，但其细胞主要面临的挑战并非需要通过合成有机渗透溶质来维持体积的极端渗透压梯度。",
+          "es": "Aunque este segmento es crucial para establecer el gradiente osmótico medular al bombear sal, sus células no se enfrentan principalmente a gradientes osmóticos extremos que requieran la síntesis de osmolitos orgánicos para el mantenimiento del volumen.",
+          "fr": "Bien que ce segment soit crucial pour établir le gradient osmotique médullaire en pompant le sel, ses cellules ne sont pas principalement confrontées à des gradients osmotiques extrêmes qui nécessitent la synthèse d'osmolytes organiques pour le maintien du volume.",
+          "de": "Obwohl dieses Segment entscheidend für die Etablierung des medullären osmotischen Gradienten durch das Abpumpen von Salz ist, sind seine Zellen nicht primär extremen osmotischen Gradienten ausgesetzt, die die Synthese organischer Osmolyte zur Volumenaufrechterhaltung erfordern.",
+          "ja": "この部分は塩を排出することで髄質の浸透圧勾配を確立するために重要ですが、その細胞は体積維持のために有機浸透圧物質の合成を必要とするような極端な浸透圧勾配に主として直面するわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Collecting duct, especially in the inner medulla, where cells are exposed to extremely high and variable interstitial solute concentrations.",
+          "zh": "集合管，特别是在内髓，那里的细胞暴露于极高且可变的间质溶质浓度。",
+          "es": "Conducto colector, especialmente en la médula interna, donde las células están expuestas a concentraciones de solutos intersticiales extremadamente altas y variables.",
+          "fr": "Canal collecteur, en particulier dans la médullaire interne, où les cellules sont exposées à des concentrations de solutés interstitiels extrêmement élevées et variables.",
+          "de": "Sammelrohr, insbesondere im inneren Mark, wo Zellen extrem hohen und variablen interstitiellen Solutkonzentrationen ausgesetzt sind.",
+          "ja": "集合管、特に内髄の集合管。細胞が極めて高く変動する間質液の溶質濃度に曝されるため。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "The inner medulla has an extremely high and increasing osmotic gradient, primarily established by the loop of Henle. The collecting duct passes through this region, and its cells are therefore exposed to a hyperosmotic environment. To prevent excessive water loss from themselves and maintain cell volume, these cells synthesize and accumulate organic solutes (osmolytes) like urea, betaine, and sorbitol, which counteract the osmotic stress without interfering with cellular functions. This is a crucial adaptation for survival in the kidney's hypertonic environment.",
+      "zh": "内髓具有极高且不断增加的渗透梯度，主要由亨利袢建立。集合管穿过该区域，因此其细胞暴露于高渗环境。为了防止自身过度失水并维持细胞体积，这些细胞会合成并积累尿素、甜菜碱和山梨醇等有机溶质（渗透调节物质），它们可以抵消渗透压，同时不干扰细胞功能。这是肾脏高渗环境中生存的关键适应。",
+      "es": "La médula interna tiene un gradiente osmótico extremadamente alto y creciente, establecido principalmente por el asa de Henle. El conducto colector pasa por esta región, y sus células, por lo tanto, están expuestas a un ambiente hiperosmótico. Para evitar la pérdida excesiva de agua de sí mismas y mantener el volumen celular, estas células sintetizan y acumulan solutos orgánicos (osmolitos) como urea, betaína y sorbitol, que contrarrestan el estrés osmótico sin interferir con las funciones celulares. Esta es una adaptación crucial para la supervivencia en el ambiente hipertónico del riñón.",
+      "fr": "La médullaire interne présente un gradient osmotique extrêmement élevé et croissant, principalement établi par l'anse de Henlé. Le canal collecteur traverse cette région, et ses cellules sont donc exposées à un environnement hyperosmolaire. Pour prévenir une perte d'eau excessive d'elles-mêmes et maintenir le volume cellulaire, ces cellules synthétisent et accumulent des solutés organiques (osmolytes) comme l'urée, la bétaïne et le sorbitol, qui contrecarrent le stress osmotique sans interférer avec les fonctions cellulaires. C'est une adaptation cruciale pour la survie dans l'environnement hypertonique du rein.",
+      "de": "Das innere Nierenmark weist einen extrem hohen und ansteigenden osmotischen Gradienten auf, der hauptsächlich durch die Henle-Schleife etabliert wird. Das Sammelrohr verläuft durch diese Region, und seine Zellen sind daher einer hyperosmotischen Umgebung ausgesetzt. Um übermäßigen Wasserverlust aus den Zellen selbst zu verhindern und das Zellvolumen aufrechtzuerhalten, synthetisieren und akkumulieren diese Zellen organische Solute (Osmolyte) wie Harnstoff, Betain und Sorbitol, die dem osmotischen Stress entgegenwirken, ohne die Zellfunktionen zu beeinträchtigen. Dies ist eine entscheidende Anpassung für das Überleben in der hypertonen Umgebung der Niere.",
+      "ja": "内髄は、主にヘンレループによって確立された極めて高く、増加する浸透圧勾配を持っています。集合管はこの領域を通過するため、その細胞は高浸透圧環境に曝されます。過剰な水分損失を自身から防ぎ、細胞容積を維持するために、これらの細胞は尿素、ベタイン、ソルビトールなどの有機溶質（浸透圧調節物質）を合成・蓄積し、細胞機能を妨げることなく浸透圧ストレスに対抗します。これは腎臓の過剰な浸透圧環境で生き残るための重要な適応です。"
+    }
+  },
+  {
+    "page_number": 1037,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 44.13, which of the following statements accurately describes the transport characteristics of the loop of Henle?",
+      "zh": "根据图 44.13，以下哪项陈述准确描述了亨利袢的转运特性？",
+      "es": "Según la Figura 44.13, ¿cuál de las siguientes afirmaciones describe con precisión las características de transporte del asa de Henle?",
+      "fr": "Selon la figure 44.13, laquelle des affirmations suivantes décrit avec précision les caractéristiques de transport de l'anse de Henlé ?",
+      "de": "Basierend auf Abbildung 44.13, welche der folgenden Aussagen beschreibt die Transportmerkmale der Henle-Schleife korrekt?",
+      "ja": "図44.13に基づくと、ヘンレループの輸送特性を正確に説明しているのは、以下のどの記述ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The descending limb is permeable to NaCl but impermeable to water.",
+          "zh": "降支对氯化钠（NaCl）是渗透的，但对水是不渗透的。",
+          "es": "La rama descendente es permeable al NaCl pero impermeable al agua.",
+          "fr": "La branche descendante est perméable au NaCl mais imperméable à l'eau.",
+          "de": "Der absteigende Schenkel ist für NaCl durchlässig, aber für Wasser undurchlässig.",
+          "ja": "下行脚はNaClに透過性があるが、水には不透過性である。"
+        },
+        "feedback": {
+          "en": "The descending limb is highly permeable to water but largely impermeable to NaCl.",
+          "zh": "降支对水高度渗透，但对氯化钠（NaCl）基本不渗透。",
+          "es": "La rama descendente es altamente permeable al agua pero en gran parte impermeable al NaCl.",
+          "fr": "La branche descendante est très perméable à l'eau mais largement imperméable au NaCl.",
+          "de": "Der absteigende Schenkel ist für Wasser hochpermeabel, aber weitgehend undurchlässig für NaCl.",
+          "ja": "下行脚は水に対して高度に透過性がありますが、NaClにはほとんど不透過性です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The ascending limb is permeable to water but impermeable to NaCl.",
+          "zh": "升支对水是渗透的，但对氯化钠（NaCl）是不渗透的。",
+          "es": "La rama ascendente es permeable al agua pero impermeable al NaCl.",
+          "fr": "La branche ascendante est perméable à l'eau mais imperméable au NaCl.",
+          "de": "Der aufsteigende Schenkel ist für Wasser durchlässig, aber für NaCl undurchlässig.",
+          "ja": "上行脚は水に透過性があるが、NaClには不透過性である。"
+        },
+        "feedback": {
+          "en": "The ascending limb, especially the thick segment, is impermeable to water but actively transports NaCl out of the filtrate.",
+          "zh": "升支，特别是粗段，对水不渗透，但主动将氯化钠（NaCl）转运出滤液。",
+          "es": "La rama ascendente, especialmente el segmento grueso, es impermeable al agua pero transporta activamente el NaCl fuera del filtrado.",
+          "fr": "La branche ascendante, en particulier le segment épais, est imperméable à l'eau mais transporte activement le NaCl hors du filtrat.",
+          "de": "Der aufsteigende Schenkel, insbesondere das dicke Segment, ist für Wasser undurchlässig, transportiert aber NaCl aktiv aus dem Filtrat heraus.",
+          "ja": "上行脚、特に太い部分は水に不透過性ですが、NaClを濾液から能動的に輸送します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The thick segment of the ascending limb actively transports NaCl out of the filtrate.",
+          "zh": "升支粗段主动将氯化钠（NaCl）转运出滤液。",
+          "es": "El segmento grueso de la rama ascendente transporta activamente el NaCl fuera del filtrado.",
+          "fr": "Le segment épais de la branche ascendante transporte activement le NaCl hors du filtrat.",
+          "de": "Der dicke aufsteigende Schenkel transportiert NaCl aktiv aus dem Filtrat heraus.",
+          "ja": "上行脚太い部分は、濾液からNaClを能動的に輸送する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both the descending and ascending limbs are freely permeable to water.",
+          "zh": "降支和升支都对水自由渗透。",
+          "es": "Tanto la rama descendente como la ascendente son libremente permeables al agua.",
+          "fr": "Les branches descendante et ascendante sont toutes deux librement perméables à l'eau.",
+          "de": "Sowohl der absteigende als auch der aufsteigende Schenkel sind für Wasser frei durchlässig.",
+          "ja": "下行脚と上行脚の両方が水に自由に透過性がある。"
+        },
+        "feedback": {
+          "en": "Only the descending limb is highly permeable to water; the ascending limb is impermeable to water.",
+          "zh": "只有降支对水高度渗透；升支对水不渗透。",
+          "es": "Solo la rama descendente es altamente permeable al agua; la rama ascendente es impermeable al agua.",
+          "fr": "Seule la branche descendante est très perméable à l'eau ; la branche ascendante est imperméable à l'eau.",
+          "de": "Nur der absteigende Schenkel ist für Wasser hochpermeabel; der aufsteigende Schenkel ist für Wasser undurchlässig.",
+          "ja": "水に高い透過性があるのは下行脚のみであり、上行脚は水に不透過性です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 44.13 clearly shows a red arrow indicating active transport of NaCl out of the thick segment of the ascending limb of the loop of Henle. The accompanying text also confirms that the thick segment of the ascending limb actively pumps out NaCl.",
+      "zh": "图 44.13 清晰地显示，红色箭头表示氯化钠（NaCl）主动转运出亨利袢升支粗段。伴随文本也证实，升支粗段主动泵出氯化钠。",
+      "es": "La Figura 44.13 muestra claramente una flecha roja que indica el transporte activo de NaCl fuera del segmento grueso de la rama ascendente del asa de Henle. El texto adjunto también confirma que el segmento grueso de la rama ascendente bombea activamente el NaCl.",
+      "fr": "La figure 44.13 montre clairement une flèche rouge indiquant le transport actif du NaCl hors du segment épais de la branche ascendante de l'anse de Henlé. Le texte d'accompagnement confirme également que le segment épais de la branche ascendante pompe activement le NaCl.",
+      "de": "Abbildung 44.13 zeigt deutlich einen roten Pfeil, der den aktiven Transport von NaCl aus dem dicken Segment des aufsteigenden Schenkels der Henle-Schleife anzeigt. Der begleitende Text bestätigt ebenfalls, dass das dicke Segment des aufsteigenden Schenkels aktiv NaCl abpumpt.",
+      "ja": "図44.13は、ヘンレループ上行脚太い部分からNaClが能動輸送されることを示す赤い矢印を明確に示しています。付随するテキストもまた、上行脚太い部分が能動的にNaClを排出することを確認しています。"
+    }
+  },
+  {
+    "page_number": 1037,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The proximal tubule plays a crucial role in maintaining pH balance in body fluids. Which of the following mechanisms contributes to this function?",
+      "zh": "近端小管在维持体液pH平衡中起着关键作用。以下哪种机制有助于实现这一功能？",
+      "es": "El túbulo proximal juega un papel crucial en el mantenimiento del equilibrio del pH en los fluidos corporales. ¿Cuál de los siguientes mecanismos contribuye a esta función?",
+      "fr": "Le tubule proximal joue un rôle crucial dans le maintien de l'équilibre du pH dans les fluides corporels. Lequel des mécanismes suivants contribue à cette fonction ?",
+      "de": "Der proximale Tubulus spielt eine entscheidende Rolle bei der Aufrechterhaltung des pH-Gleichgewichts in Körperflüssigkeiten. Welcher der folgenden Mechanismen trägt zu dieser Funktion bei?",
+      "ja": "近位尿細管は体液のpHバランスを維持する上で重要な役割を果たします。以下のどのメカニズムがこの機能に寄与していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Secreting bicarbonate (HCO3-) into the filtrate.",
+          "zh": "将碳酸氢根（HCO3-）分泌到滤液中。",
+          "es": "Secretar bicarbonato (HCO3-) en el filtrado.",
+          "fr": "Sécréter du bicarbonate (HCO3-) dans le filtrat.",
+          "de": "Bicarbonat (HCO3-) in das Filtrat sezernieren.",
+          "ja": "重炭酸イオン（HCO3-）を濾液に分泌する。"
+        },
+        "feedback": {
+          "en": "The proximal tubule reabsorbs about 90% of bicarbonate from the filtrate, it does not secrete it.",
+          "zh": "近端小管重吸收滤液中约 90% 的碳酸氢根，而不是分泌。",
+          "es": "El túbulo proximal reabsorbe aproximadamente el 90% del bicarbonato del filtrado, no lo secreta.",
+          "fr": "Le tubule proximal réabsorbe environ 90% du bicarbonate du filtrat, il ne le sécrète pas.",
+          "de": "Der proximale Tubulus resorbiert etwa 90% des Bicarbonats aus dem Filtrat, er sezerniert es nicht.",
+          "ja": "近位尿細管は濾液中の重炭酸イオンの約90%を再吸収し、分泌しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Actively reabsorbing all urea from the filtrate.",
+          "zh": "主动重吸收滤液中所有的尿素。",
+          "es": "Reabsorber activamente toda la urea del filtrado.",
+          "fr": "Réabsorber activement toute l'urée du filtrat.",
+          "de": "Aktive Rückresorption des gesamten Harnstoffs aus dem Filtrat.",
+          "ja": "濾液中の尿素をすべて能動的に再吸収する。"
+        },
+        "feedback": {
+          "en": "Urea is a waste product and is reabsorbed at a much lower rate than salt and water; it is not actively reabsorbed in its entirety for pH balance.",
+          "zh": "尿素是废物，其重吸收率远低于盐和水；它不会为了pH平衡而完全主动重吸收。",
+          "es": "La urea es un producto de desecho y se reabsorbe a una tasa mucho menor que la sal y el agua; no se reabsorbe activamente en su totalidad para el equilibrio del pH.",
+          "fr": "L'urée est un déchet et est réabsorbée à un taux beaucoup plus faible que le sel et l'eau ; elle n'est pas réabsorbée activement dans sa totalité pour l'équilibre du pH.",
+          "de": "Harnstoff ist ein Abfallprodukt und wird mit einer wesentlich geringeren Rate als Salz und Wasser rückresorbiert; er wird nicht vollständig aktiv zur pH-Balance rückresorbiert.",
+          "ja": "尿素は老廃物であり、塩や水よりもはるかに低い速度で再吸収されます。pHバランスのために尿素が完全に能動的に再吸収されるわけではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Secreting H+ and synthesizing/secreting ammonia (NH3).",
+          "zh": "分泌氢离子（H+）并合成/分泌氨（NH3）。",
+          "es": "Secretar H+ y sintetizar/secretar amoníaco (NH3).",
+          "fr": "Sécréter H+ et synthétiser/sécréter de l'ammoniac (NH3).",
+          "de": "H+ sezernieren und Ammoniak (NH3) synthetisieren/sezernieren.",
+          "ja": "H+を分泌し、アンモニア（NH3）を合成・分泌する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Passive reabsorption of NaCl and water only.",
+          "zh": "仅被动重吸收氯化钠（NaCl）和水。",
+          "es": "Solo reabsorción pasiva de NaCl y agua.",
+          "fr": "Réabsorption passive de NaCl et d'eau uniquement.",
+          "de": "Nur passive Rückresorption von NaCl und Wasser.",
+          "ja": "NaClと水のみの受動的な再吸収。"
+        },
+        "feedback": {
+          "en": "While passive reabsorption of NaCl and water occurs, this statement is incomplete as it misses the active transport processes directly involved in pH regulation.",
+          "zh": "虽然氯化钠（NaCl）和水的被动重吸收确实发生，但这种说法不完整，因为它遗漏了直接参与pH调节的主动转运过程。",
+          "es": "Aunque ocurre la reabsorción pasiva de NaCl y agua, esta afirmación es incompleta ya que omite los procesos de transporte activo directamente involucrados en la regulación del pH.",
+          "fr": "Bien que la réabsorption passive du NaCl et de l'eau se produise, cette affirmation est incomplète car elle omet les processus de transport actif directement impliqués dans la régulation du pH.",
+          "de": "Obwohl passive Rückresorption von NaCl und Wasser stattfindet, ist diese Aussage unvollständig, da sie die aktiven Transportprozesse, die direkt an der pH-Regulation beteiligt sind, außer Acht lässt.",
+          "ja": "NaClと水の受動的再吸収は起こりますが、この記述は不完全です。pH調節に直接関与する能動輸送プロセスが欠けています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states: 'Processing of filtrate in the proximal tubule helps maintain a relatively constant pH in body fluids. Cells of the transport epithelium secrete H+ into the lumen of the tubule but also synthesize and secrete ammonia, which acts as a buffer to trap H+ in the form of ammonium ions (NH4+).' Additionally, it mentions the reabsorption of bicarbonate (HCO3-), which also contributes to pH balance.",
+      "zh": "文本指出：“近端小管中滤液的处理有助于维持体液相对恒定的pH值。转运上皮的细胞向小管腔分泌H+，但也合成并分泌氨，氨作为缓冲物质以铵离子（NH4+）的形式捕获H+。”此外，它还提到了碳酸氢根（HCO3-）的重吸收，这也有助于维持pH平衡。",
+      "es": "El texto afirma: 'El procesamiento del filtrado en el túbulo proximal ayuda a mantener un pH relativamente constante en los fluidos corporales. Las células del epitelio de transporte secretan H+ hacia la luz del túbulo, pero también sintetizan y secretan amoníaco, que actúa como un amortiguador para atrapar H+ en forma de iones amonio (NH4+).' Además, menciona la reabsorción de bicarbonato (HCO3-), que también contribuye al equilibrio del pH.",
+      "fr": "Le texte indique : « Le traitement du filtrat dans le tubule proximal contribue à maintenir un pH relativement constant dans les fluides corporels. Les cellules de l'épithélium de transport sécrètent des H+ dans la lumière du tubule, mais synthétisent et sécrètent également de l'ammoniac, qui agit comme un tampon pour piéger les H+ sous forme d'ions ammonium (NH4+). » De plus, il mentionne la réabsorption du bicarbonate (HCO3-), qui contribue également à l'équilibre du pH.",
+      "de": "Der Text besagt: 'Die Verarbeitung des Filtrats im proximalen Tubulus hilft, einen relativ konstanten pH-Wert in Körperflüssigkeiten aufrechtzuerhalten. Zellen des Transportepithels sezernieren H+ in das Lumen des Tubulus, synthetisieren und sezernieren aber auch Ammoniak, das als Puffer dient, um H+ in Form von Ammoniumionen (NH4+) abzufangen.' Darüber hinaus wird die Rückresorption von Bicarbonat (HCO3-) erwähnt, die ebenfalls zur pH-Balance beiträgt.",
+      "ja": "テキストには、「近位尿細管での濾液の処理は、体液のpHを比較的一定に保つのに役立つ。輸送上皮の細胞はH+を尿細管内腔に分泌するだけでなく、アンモニアも合成・分泌し、これがH+をアンモニウムイオン（NH4+）の形で捕捉する緩衝剤として機能する。」と述べられています。さらに、重炭酸イオン（HCO3-）の再吸収もpHバランスに寄与することが記載されています。"
+    }
+  }
+]

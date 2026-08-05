@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 541,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the Hardy-Weinberg equilibrium principle, for a population not evolving at a locus with two alleles, what do p², 2pq, and q² represent?",
+      "zh": "根据哈迪-温伯格平衡原理，对于在一个具有两个等位基因的基因座上不进化的群体，p²、2pq 和 q² 分别代表什么？",
+      "es": "Según el principio de equilibrio de Hardy-Weinberg, para una población que no está evolucionando en un locus con dos alelos, ¿qué representan p², 2pq y q²?",
+      "fr": "Selon le principe d'équilibre de Hardy-Weinberg, pour une population n'évoluant pas à un locus avec deux allèles, que représentent p², 2pq et q² ?",
+      "de": "Gemäß dem Hardy-Weinberg-Gleichgewichtsprinzip, was stellen p², 2pq und q² für eine Population dar, die sich an einem Genort mit zwei Allelen nicht entwickelt?",
+      "ja": "ハーディ・ワインバーグ平衡の原則によれば、2つの対立遺伝子を持つ遺伝子座で進化していない個体群において、p²、2pq、q² はそれぞれ何を表していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Frequencies of dominant allele, recessive allele, and heterozygous genotype.",
+          "zh": "显性等位基因、隐性等位基因和杂合基因型的频率。",
+          "es": "Frecuencias del alelo dominante, alelo recesivo y genotipo heterocigoto.",
+          "fr": "Fréquences de l'allèle dominant, de l'allèle récessif et du génotype hétérozygote.",
+          "de": "Häufigkeiten des dominanten Allels, des rezessiven Allels und des heterozygoten Genotyps.",
+          "ja": "優性対立遺伝子、劣性対立遺伝子、ヘテロ接合型遺伝子型の頻度。"
+        },
+        "feedback": {
+          "en": "This option incorrectly mixes allele and genotype frequencies. p and q alone represent allele frequencies, while p², 2pq, and q² represent genotype frequencies.",
+          "zh": "该选项错误地混淆了等位基因频率和基因型频率。单独的 p 和 q 代表等位基因频率，而 p²、2pq 和 q² 代表基因型频率。",
+          "es": "Esta opción mezcla incorrectamente las frecuencias alélicas y genotípicas. p y q por sí solos representan las frecuencias alélicas, mientras que p², 2pq y q² representan las frecuencias genotípicas.",
+          "fr": "Cette option mélange incorrectement les fréquences alléliques et génotypiques. p et q seuls représentent les fréquences alléliques, tandis que p², 2pq et q² représentent les fréquences génotypiques.",
+          "de": "Diese Option vermischt fälschlicherweise Allel- und Genotypfrequenzen. p und q allein repräsentieren Allelfrequenzen, während p², 2pq und q² Genotypfrequenzen repräsentieren.",
+          "ja": "この選択肢は対立遺伝子頻度と遺伝子型頻度を誤って混同しています。pとqは対立遺伝子頻度を表し、p²、2pq、q²は遺伝子型頻度を表します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Frequencies of homozygous dominant, heterozygous, and homozygous recessive genotypes.",
+          "zh": "纯合显性、杂合和纯合隐性基因型的频率。",
+          "es": "Frecuencias de los genotipos homocigoto dominante, heterocigoto y homocigoto recesivo.",
+          "fr": "Fréquences des génotypes homozygote dominant, hétérozygote et homozygote récessif.",
+          "de": "Häufigkeiten der homozygot dominanten, heterozygoten und homozygot rezessiven Genotypen.",
+          "ja": "ホモ接合型優性、ヘテロ接合型、ホモ接合型劣性遺伝子型の頻度。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Frequencies of dominant phenotype, recessive phenotype, and codominant phenotype.",
+          "zh": "显性表型、隐性表型和共显性表型的频率。",
+          "es": "Frecuencias del fenotipo dominante, fenotipo recesivo y fenotipo codominante.",
+          "fr": "Fréquences du phénotype dominant, du phénotype récessif et du phénotype codominant.",
+          "de": "Häufigkeiten des dominanten Phänotyps, des rezessiven Phänotyps und des kodominanten Phänotyps.",
+          "ja": "優性表現型、劣性表現型、共優性表現型の頻度。"
+        },
+        "feedback": {
+          "en": "The Hardy-Weinberg equation directly models genotype frequencies, not phenotypes. Phenotype frequencies can be derived from genotype frequencies but are not what p², 2pq, and q² directly represent.",
+          "zh": "哈迪-温伯格方程直接模拟的是基因型频率，而非表型。表型频率可以从基因型频率推导出来，但 p²、2pq 和 q² 并非直接代表表型频率。",
+          "es": "La ecuación de Hardy-Weinberg modela directamente las frecuencias genotípicas, no las fenotípicas. Las frecuencias fenotípicas pueden derivarse de las frecuencias genotípicas, pero no son lo que p², 2pq y q² representan directamente.",
+          "fr": "L'équation de Hardy-Weinberg modélise directement les fréquences génotypiques, et non les phénotypes. Les fréquences phénotypiques peuvent être dérivées des fréquences génotypiques, mais ce n'est pas ce que p², 2pq et q² représentent directement.",
+          "de": "Die Hardy-Weinberg-Gleichung modelliert direkt die Genotypfrequenzen, nicht die Phänotypen. Phänotypfrequenzen können von Genotypfrequenzen abgeleitet werden, aber p², 2pq und q² repräsentieren diese nicht direkt.",
+          "ja": "ハーディ・ワインバーグの法則は、表現型ではなく遺伝子型頻度を直接モデル化します。表現型頻度は遺伝子型頻度から導出できますが、p²、2pq、q² が直接表すものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Rates of mutation, gene flow, and natural selection.",
+          "zh": "突变、基因流和自然选择的速率。",
+          "es": "Tasas de mutación, flujo genético y selección natural.",
+          "fr": "Taux de mutation, de flux génétique et de sélection naturelle.",
+          "de": "Raten von Mutation, Genfluss und natürlicher Selektion.",
+          "ja": "突然変異、遺伝子流動、自然選択の速度。"
+        },
+        "feedback": {
+          "en": "Mutation, gene flow, and natural selection are factors that cause evolution, meaning they would *disrupt* Hardy-Weinberg equilibrium, not be represented by its terms.",
+          "zh": "突变、基因流和自然选择是导致进化的因素，这意味着它们会 *破坏* 哈迪-温伯格平衡，而不是由其公式中的项所代表。",
+          "es": "La mutación, el flujo genético y la selección natural son factores que causan la evolución, lo que significa que *interrumpirían* el equilibrio de Hardy-Weinberg, no estarían representados por sus términos.",
+          "fr": "La mutation, le flux génétique et la sélection naturelle sont des facteurs qui causent l'évolution, ce qui signifie qu'ils *perturberaient* l'équilibre de Hardy-Weinberg, et ne sont pas représentés par ses termes.",
+          "de": "Mutation, Genfluss und natürliche Selektion sind Faktoren, die Evolution verursachen, was bedeutet, dass sie das Hardy-Weinberg-Gleichgewicht *stören* würden und nicht durch seine Begriffe dargestellt werden.",
+          "ja": "突然変異、遺伝子流動、自然選択は進化を引き起こす要因であり、ハーディ・ワインバーグ平衡を*乱す*ものであり、その式の項で表されるものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The Hardy-Weinberg equation (p² + 2pq + q² = 1) describes the expected genotype frequencies in a non-evolving population. Specifically, p² represents the frequency of the homozygous dominant genotype, q² represents the frequency of the homozygous recessive genotype, and 2pq represents the frequency of the heterozygous genotype.",
+      "zh": "哈迪-温伯格方程 (p² + 2pq + q² = 1) 描述了非进化群体中预期的基因型频率。具体来说，p² 代表纯合显性基因型的频率，q² 代表纯合隐性基因型的频率，而 2pq 代表杂合基因型的频率。",
+      "es": "La ecuación de Hardy-Weinberg (p² + 2pq + q² = 1) describe las frecuencias genotípicas esperadas en una población que no está evolucionando. Específicamente, p² representa la frecuencia del genotipo homocigoto dominante, q² representa la frecuencia del genotipo homocigoto recesivo, y 2pq representa la frecuencia del genotipo heterocigoto.",
+      "fr": "L'équation de Hardy-Weinberg (p² + 2pq + q² = 1) décrit les fréquences génotypiques attendues dans une population qui n'évolue pas. Plus précisément, p² représente la fréquence du génotype homozygote dominant, q² représente la fréquence du génotype homozygote récessif, et 2pq représente la fréquence du génotype hétérozygote.",
+      "de": "Die Hardy-Weinberg-Gleichung (p² + 2pq + q² = 1) beschreibt die erwarteten Genotypfrequenzen in einer nicht evolvierenden Population. Speziell repräsentiert p² die Häufigkeit des homozygot dominanten Genotyps, q² die Häufigkeit des homozygot rezessiven Genotyps und 2pq die Häufigkeit des heterozygoten Genotyps.",
+      "ja": "ハーディ・ワインバーグの式 (p² + 2pq + q² = 1) は、進化していない個体群における予想される遺伝子型頻度を表します。具体的には、p² はホモ接合型優性遺伝子型の頻度、q² はホモ接合型劣性遺伝子型の頻度、2pq はヘテロ接合型遺伝子型の頻度を表します。"
+    }
+  },
+  {
+    "page_number": 541,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A small, isolated population of an endangered bird species experiences a sudden disease outbreak, significantly reducing its numbers. This event leads to a change in the allele frequencies for several genes, not due to selection, but purely by chance. Based on the Hardy-Weinberg equilibrium conditions, which condition is primarily violated, and what is the evolutionary mechanism at play?",
+      "zh": "一个濒危鸟类的小型孤立种群突然爆发疾病，使其数量大幅减少。这一事件导致了几个基因的等位基因频率发生变化，并非由于选择，而是纯粹由于偶然。根据哈迪-温伯格平衡条件，哪个条件主要被违反了，以及起作用的进化机制是什么？",
+      "es": "Una pequeña población aislada de una especie de ave en peligro de extinción experimenta un brote repentino de enfermedad, lo que reduce significativamente su número. Este evento conduce a un cambio en las frecuencias alélicas de varios genes, no debido a la selección, sino puramente por azar. Según las condiciones del equilibrio de Hardy-Weinberg, ¿qué condición se viola principalmente y cuál es el mecanismo evolutivo en juego?",
+      "fr": "Une petite population isolée d'une espèce d'oiseau en voie de disparition subit une épidémie soudaine qui réduit considérablement ses effectifs. Cet événement entraîne un changement dans les fréquences alléliques de plusieurs gènes, non pas en raison de la sélection, mais purement par hasard. Selon les conditions d'équilibre de Hardy-Weinberg, quelle condition est principalement violée, et quel est le mécanisme évolutif en jeu ?",
+      "de": "Eine kleine, isolierte Population einer gefährdeten Vogelart erlebt einen plötzlichen Krankheitsausbruch, der ihre Zahlen erheblich reduziert. Dieses Ereignis führt zu einer Änderung der Allelfrequenzen für mehrere Gene, nicht durch Selektion, sondern rein zufällig. Basierend auf den Hardy-Weinberg-Gleichgewichtsbedingungen, welche Bedingung wird primär verletzt und welcher Evolutionsmechanismus ist hier am Werk?",
+      "ja": "絶滅危惧種の小規模な孤立した鳥の個体群が突然の病気の発生を経験し、その数が大幅に減少しました。この出来事は、選択によるものではなく、純粋に偶然によっていくつかの遺伝子の対立遺伝子頻度の変化を引き起こしました。ハーディ・ワインバーグ平衡条件に基づくと、どの条件が主に違反されており、どのような進化的メカニズムが作用していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "No mutations; The gene pool is modified if new alleles are introduced.",
+          "zh": "无突变；如果引入新的等位基因，基因库会被修改。",
+          "es": "Sin mutaciones; El acervo genético se modifica si se introducen nuevos alelos.",
+          "fr": "Pas de mutations ; Le pool génétique est modifié si de nouveaux allèles sont introduits.",
+          "de": "Keine Mutationen; Der Genpool wird verändert, wenn neue Allele eingeführt werden.",
+          "ja": "突然変異がないこと；新しい対立遺伝子が導入されると、遺伝子プールは変化します。"
+        },
+        "feedback": {
+          "en": "While mutations can alter allele frequencies, the scenario describes a population size reduction and changes occurring 'by chance,' which points to a different mechanism.",
+          "zh": "虽然突变可以改变等位基因频率，但情景描述的是种群数量减少和“偶然”发生的变化，这指向了不同的机制。",
+          "es": "Aunque las mutaciones pueden alterar las frecuencias alélicas, el escenario describe una reducción del tamaño de la población y cambios que ocurren 'por azar', lo que apunta a un mecanismo diferente.",
+          "fr": "Bien que les mutations puissent modifier les fréquences alléliques, le scénario décrit une réduction de la taille de la population et des changements survenant 'par hasard', ce qui indique un mécanisme différent.",
+          "de": "Obwohl Mutationen Allelfrequenzen verändern können, beschreibt das Szenario eine Populationsgrößenreduktion und Veränderungen, die 'zufällig' auftreten, was auf einen anderen Mechanismus hindeutet.",
+          "ja": "突然変異も対立遺伝子頻度を変化させますが、このシナリオは個体群のサイズ減少と「偶然」による変化を説明しており、別のメカニズムを示唆しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Random mating; Genotype frequencies change due to non-random mating.",
+          "zh": "随机交配；由于非随机交配，基因型频率发生变化。",
+          "es": "Apareamiento aleatorio; Las frecuencias genotípicas cambian debido al apareamiento no aleatorio.",
+          "fr": "Accouplement aléatoire ; Les fréquences génotypiques changent en raison de l'accouplement non aléatoire.",
+          "de": "Zufällige Paarung; Genotypfrequenzen ändern sich aufgrund nicht-zufälliger Paarung.",
+          "ja": "ランダム交配；非ランダム交配により遺伝子型頻度が変化します。"
+        },
+        "feedback": {
+          "en": "The scenario does not mention non-random mating. The core issue is the population size reduction leading to random shifts in allele frequencies, not mating patterns.",
+          "zh": "情景中没有提及非随机交配。核心问题是种群数量减少导致等位基因频率的随机变化，而非交配模式。",
+          "es": "El escenario no menciona el apareamiento no aleatorio. El problema central es la reducción del tamaño de la población que conduce a cambios aleatorios en las frecuencias alélicas, no los patrones de apareamiento.",
+          "fr": "Le scénario ne mentionne pas d'accouplement non aléatoire. Le problème principal est la réduction de la taille de la population entraînant des changements aléatoires dans les fréquences alléliques, et non les schémas d'accouplement.",
+          "de": "Das Szenario erwähnt keine nicht-zufällige Paarung. Das Hauptproblem ist die Populationsgrößenreduktion, die zu zufälligen Verschiebungen der Allelfrequenzen führt, nicht die Paarungsmuster.",
+          "ja": "このシナリオでは非ランダム交配については言及していません。主な問題は、個体群のサイズ減少が対立遺伝子頻度のランダムな変化につながることであり、交配パターンではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Extremely large population size; Allele frequencies fluctuate by chance (genetic drift).",
+          "zh": "种群规模极大；等位基因频率偶然波动（遗传漂变）。",
+          "es": "Tamaño de población extremadamente grande; Las frecuencias alélicas fluctúan por azar (deriva genética).",
+          "fr": "Taille de population extrêmement grande ; Les fréquences alléliques fluctuent par hasard (dérive génétique).",
+          "de": "Extrem große Populationsgröße; Allelfrequenzen schwanken zufällig (genetische Drift).",
+          "ja": "極めて大きな個体群サイズ；対立遺伝子頻度が偶然に変動する（遺伝的浮動）。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "No natural selection; Allele frequencies change when individuals with different genotypes have different survival or reproductive success.",
+          "zh": "无自然选择；当不同基因型的个体具有不同的存活或繁殖成功率时，等位基因频率会发生变化。",
+          "es": "Sin selección natural; Las frecuencias alélicas cambian cuando los individuos con diferentes genotipos tienen diferentes éxitos de supervivencia o reproductivos.",
+          "fr": "Pas de sélection naturelle ; Les fréquences alléliques changent lorsque des individus de génotypes différents ont des succès de survie ou de reproduction différents.",
+          "de": "Keine natürliche Selektion; Allelfrequenzen ändern sich, wenn Individuen mit unterschiedlichen Genotypen unterschiedliche Überlebens- oder Reproduktionserfolge aufweisen.",
+          "ja": "自然選択がないこと；異なる遺伝子型を持つ個体の生存率や繁殖成功率が異なる場合、対立遺伝子頻度が変化します。"
+        },
+        "feedback": {
+          "en": "The problem states the change is 'not due to selection,' ruling out natural selection as the primary mechanism. The key is the 'chance' aspect in a 'small population'.",
+          "zh": "问题中提到变化“并非由于选择”，排除了自然选择作为主要机制。关键是“小种群”中的“偶然”因素。",
+          "es": "El problema afirma que el cambio 'no se debe a la selección', lo que descarta la selección natural como mecanismo principal. La clave es el aspecto 'por azar' en una 'población pequeña'.",
+          "fr": "Le problème indique que le changement n'est 'pas dû à la sélection', ce qui exclut la sélection naturelle comme mécanisme principal. L'aspect clé est le 'hasard' dans une 'petite population'.",
+          "de": "Das Problem besagt, dass die Veränderung 'nicht auf Selektion zurückzuführen' ist, was die natürliche Selektion als primären Mechanismus ausschließt. Entscheidend ist der 'zufällige' Aspekt in einer 'kleinen Population'.",
+          "ja": "問題文には変化が「選択によるものではない」と明記されており、自然選択が主要なメカニズムではないことを示しています。鍵となるのは、「小規模な個体群」における「偶然」の側面です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The scenario describes a 'bottleneck event' where a small population experiences a drastic reduction in numbers, leading to allele frequency changes 'by chance'. This directly violates the condition of 'extremely large population size' and is a classic example of genetic drift, specifically the bottleneck effect.",
+      "zh": "该情景描述了一个“瓶颈事件”，其中小种群的数量急剧减少，导致等位基因频率“偶然”发生变化。这直接违反了“种群规模极大”的条件，是遗传漂变（特别是瓶颈效应）的典型例子。",
+      "es": "El escenario describe un 'evento de cuello de botella' donde una pequeña población experimenta una reducción drástica en sus números, lo que lleva a cambios en la frecuencia alélica 'por azar'. Esto viola directamente la condición de 'tamaño de población extremadamente grande' y es un ejemplo clásico de deriva genética, específicamente el efecto cuello de botella.",
+      "fr": "Le scénario décrit un 'événement de goulot d'étranglement' où une petite population subit une réduction drastique de ses effectifs, entraînant des changements dans les fréquences alléliques 'par hasard'. Cela viole directement la condition d'une 'taille de population extrêmement grande' et est un exemple classique de dérive génétique, spécifiquement l'effet de goulot d'étranglement.",
+      "de": "Das Szenario beschreibt ein 'Flaschenhalsereignis', bei dem eine kleine Population eine drastische Reduzierung ihrer Zahlen erlebt, was zu 'zufälligen' Allelfrequenzänderungen führt. Dies verletzt direkt die Bedingung einer 'extrem großen Populationsgröße' und ist ein klassisches Beispiel für Gendrift, insbesondere den Flaschenhals-Effekt.",
+      "ja": "このシナリオは、「ボトルネック効果」を説明しており、小規模な個体群が劇的な数の減少を経験し、「偶然」に対立遺伝子頻度が変化します。これは「極めて大きな個体群サイズ」という条件に直接違反しており、遺伝的浮動、特にボトルネック効果の典型的な例です。"
+    }
+  },
+  {
+    "page_number": 541,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In a hypothetical population, a rare recessive genetic condition affects 1 in 160,000 individuals. Assuming the population is in Hardy-Weinberg equilibrium for this gene, what is the frequency of the dominant allele?",
+      "zh": "在一个假设的群体中，一种罕见的隐性遗传病影响 160,000 人中的 1 人。假设该群体在该基因上处于哈迪-温伯格平衡状态，那么显性等位基因的频率是多少？",
+      "es": "En una población hipotética, una rara condición genética recesiva afecta a 1 de cada 160,000 individuos. Suponiendo que la población está en equilibrio de Hardy-Weinberg para este gen, ¿cuál es la frecuencia del alelo dominante?",
+      "fr": "Dans une population hypothétique, une maladie génétique récessive rare affecte 1 individu sur 160 000. En supposant que la population est en équilibre de Hardy-Weinberg pour ce gène, quelle est la fréquence de l'allèle dominant ?",
+      "de": "In einer hypothetischen Population betrifft eine seltene rezessive genetische Erkrankung 1 von 160.000 Individuen. Unter der Annahme, dass die Population für dieses Gen im Hardy-Weinberg-Gleichgewicht ist, wie hoch ist die Frequenz des dominanten Allels?",
+      "ja": "架空の個体群において、稀な劣性遺伝疾患が160,000人に1人の割合で影響を及ぼしています。この個体群がこの遺伝子に関してハーディ・ワインバーグ平衡状態にあると仮定した場合、優性対立遺伝子の頻度はいくつですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "0.0025",
+          "zh": "0.0025",
+          "es": "0.0025",
+          "fr": "0.0025",
+          "de": "0.0025",
+          "ja": "0.0025"
+        },
+        "feedback": {
+          "en": "This value (0.0025) represents 'q', the frequency of the recessive allele, not the dominant allele. You need to calculate p = 1 - q.",
+          "zh": "这个值（0.0025）代表的是隐性等位基因的频率 'q'，而不是显性等位基因。你需要计算 p = 1 - q。",
+          "es": "Este valor (0.0025) representa 'q', la frecuencia del alelo recesivo, no el alelo dominante. Necesitas calcular p = 1 - q.",
+          "fr": "Cette valeur (0.0025) représente 'q', la fréquence de l'allèle récessif, et non l'allèle dominant. Vous devez calculer p = 1 - q.",
+          "de": "Dieser Wert (0.0025) stellt 'q', die Häufigkeit des rezessiven Allels, dar, nicht die des dominanten Allels. Sie müssen p = 1 - q berechnen.",
+          "ja": "この値（0.0025）は劣性対立遺伝子の頻度 'q' を表しており、優性対立遺伝子ではありません。p = 1 - q を計算する必要があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "0.9975",
+          "zh": "0.9975",
+          "es": "0.9975",
+          "fr": "0.9975",
+          "de": "0.9975",
+          "ja": "0.9975"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "0.00000625",
+          "zh": "0.00000625",
+          "es": "0.00000625",
+          "fr": "0.00000625",
+          "de": "0.00000625",
+          "ja": "0.00000625"
+        },
+        "feedback": {
+          "en": "This value represents q², the frequency of the homozygous recessive genotype, not the frequency of the dominant allele.",
+          "zh": "这个值代表 q²，即纯合隐性基因型的频率，而不是显性等位基因的频率。",
+          "es": "Este valor representa q², la frecuencia del genotipo homocigoto recesivo, no la frecuencia del alelo dominante.",
+          "fr": "Cette valeur représente q², la fréquence du génotype homozygote récessif, et non la fréquence de l'allèle dominant.",
+          "de": "Dieser Wert stellt q², die Häufigkeit des homozygot rezessiven Genotyps, dar, nicht die Häufigkeit des dominanten Allels.",
+          "ja": "この値はq²、つまりホモ接合型劣性遺伝子型の頻度を表しており、優性対立遺伝子の頻度ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "1.0",
+          "zh": "1.0",
+          "es": "1.0",
+          "fr": "1.0",
+          "de": "1.0",
+          "ja": "1.0"
+        },
+        "feedback": {
+          "en": "1.0 represents the sum of all allele frequencies (p + q) or all genotype frequencies (p² + 2pq + q²). It does not represent the frequency of a single dominant allele in a population where a recessive allele also exists.",
+          "zh": "1.0 代表所有等位基因频率（p + q）或所有基因型频率（p² + 2pq + q²）的总和。它不代表在一个同时存在隐性等位基因的群体中，单个显性等位基因的频率。",
+          "es": "1.0 representa la suma de todas las frecuencias alélicas (p + q) o de todas las frecuencias genotípicas (p² + 2pq + q²). No representa la frecuencia de un solo alelo dominante en una población donde también existe un alelo recesivo.",
+          "fr": "1,0 représente la somme de toutes les fréquences alléliques (p + q) ou de toutes les fréquences génotypiques (p² + 2pq + q²). Cela ne représente pas la fréquence d'un seul allèle dominant dans une population où un allèle récessif existe également.",
+          "de": "1,0 repräsentiert die Summe aller Allelfrequenzen (p + q) oder aller Genotypfrequenzen (p² + 2pq + q²). Es repräsentiert nicht die Häufigkeit eines einzelnen dominanten Allels in einer Population, in der auch ein rezessives Allel existiert.",
+          "ja": "1.0 は、すべての対立遺伝子頻度 (p + q) またはすべての遺伝子型頻度 (p² + 2pq + q²) の合計を表します。これは、劣性対立遺伝子も存在する個体群における単一の優性対立遺伝子の頻度を表すものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The frequency of individuals affected by a recessive condition is the frequency of the homozygous recessive genotype, which is q². So, q² = 1/160,000 = 0.00000625. To find q, take the square root of q²: q = √0.00000625 = 0.0025. The frequency of the dominant allele (p) is calculated as p = 1 - q. So, p = 1 - 0.0025 = 0.9975.",
+      "zh": "受隐性疾病影响的个体频率是纯合隐性基因型的频率，即 q²。因此，q² = 1/160,000 = 0.00000625。为了找到 q，取 q² 的平方根：q = √0.00000625 = 0.0025。显性等位基因的频率 (p) 计算为 p = 1 - q。因此，p = 1 - 0.0025 = 0.9975。",
+      "es": "La frecuencia de individuos afectados por una condición recesiva es la frecuencia del genotipo homocigoto recesivo, que es q². Así, q² = 1/160,000 = 0.00000625. Para encontrar q, se toma la raíz cuadrada de q²: q = √0.00000625 = 0.0025. La frecuencia del alelo dominante (p) se calcula como p = 1 - q. Por lo tanto, p = 1 - 0.0025 = 0.9975.",
+      "fr": "La fréquence des individus affectés par une maladie récessive est la fréquence du génotype homozygote récessif, qui est q². Donc, q² = 1/160 000 = 0,00000625. Pour trouver q, prenez la racine carrée de q² : q = √0,00000625 = 0,0025. La fréquence de l'allèle dominant (p) est calculée comme p = 1 - q. Ainsi, p = 1 - 0,0025 = 0,9975.",
+      "de": "Die Häufigkeit von Individuen, die von einer rezessiven Erkrankung betroffen sind, ist die Häufigkeit des homozygot rezessiven Genotyps, also q². Daher ist q² = 1/160.000 = 0,00000625. Um q zu finden, zieht man die Quadratwurzel aus q²: q = √0,00000625 = 0,0025. Die Häufigkeit des dominanten Allels (p) wird als p = 1 - q berechnet. Also, p = 1 - 0,0025 = 0,9975.",
+      "ja": "劣性形質に罹患している個体の頻度は、ホモ接合型劣性遺伝子型の頻度であり、これはq²に相当します。したがって、q² = 1/160,000 = 0.00000625です。qを求めるには、q²の平方根を取ります。q = √0.00000625 = 0.0025。優性対立遺伝子の頻度（p）はp = 1 - qとして計算されます。したがって、p = 1 - 0.0025 = 0.9975です。"
+    }
+  }
+]

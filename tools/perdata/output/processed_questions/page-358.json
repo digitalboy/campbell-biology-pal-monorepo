@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following human aneuploid conditions is the only one that involves monosomy?",
+      "zh": "下列哪种人类非整倍体疾病是唯一涉及单体性的？",
+      "es": "¿Cuál de las siguientes condiciones aneuploides humanas es la única que implica monosomía?",
+      "fr": "Laquelle des affections aneuploïdes humaines suivantes est la seule à impliquer une monosomie ?",
+      "de": "Welche der folgenden menschlichen aneuploiden Zustände ist der einzige, der eine Monosomie beinhaltet?",
+      "ja": "次のうち、モノソミーを伴う唯一のヒトの異数性疾患はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Klinefelter syndrome",
+          "zh": "克氏综合征",
+          "es": "Síndrome de Klinefelter",
+          "fr": "Syndrome de Klinefelter",
+          "de": "Klinefelter-Syndrom",
+          "ja": "クラインフェルター症候群"
+        },
+        "feedback": {
+          "en": "Klinefelter syndrome is a trisomy of the sex chromosomes (XXY).",
+          "zh": "克氏综合征是性染色体的三体综合征（XXY）。",
+          "es": "El síndrome de Klinefelter es una trisomía de los cromosomas sexuales (XXY).",
+          "fr": "Le syndrome de Klinefelter est une trisomie des chromosomes sexuels (XXY).",
+          "de": "Das Klinefelter-Syndrom ist eine Trisomie der Geschlechtschromosomen (XXY).",
+          "ja": "クラインフェルター症候群は性染色体のトリソミー（XXY）です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Down syndrome",
+          "zh": "唐氏综合征",
+          "es": "Síndrome de Down",
+          "fr": "Syndrome de Down",
+          "de": "Down-Syndrom",
+          "ja": "ダウン症候群"
+        },
+        "feedback": {
+          "en": "Down syndrome is a trisomy of an autosome (chromosome 21).",
+          "zh": "唐氏综合征是常染色体（21 号染色体）的三体综合征。",
+          "es": "El síndrome de Down es una trisomía de un autosoma (cromosoma 21).",
+          "fr": "Le syndrome de Down est une trisomie d'un autosome (chromosome 21).",
+          "de": "Das Down-Syndrom ist eine Trisomie eines Autosoms (Chromosom 21).",
+          "ja": "ダウン症候群は常染色体（21番染色体）のトリソミーです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Turner syndrome",
+          "zh": "特纳综合征",
+          "es": "Síndrome de Turner",
+          "fr": "Syndrome de Turner",
+          "de": "Turner-Syndrom",
+          "ja": "ターナー症候群"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Trisomy X",
+          "zh": "三 X 综合征",
+          "es": "Trisomía X",
+          "fr": "Trisomie X",
+          "de": "Trisomie X",
+          "ja": "トリソミーX"
+        },
+        "feedback": {
+          "en": "Trisomy X is a trisomy of the sex chromosomes (XXX).",
+          "zh": "三 X 综合征是性染色体的三体综合征（XXX）。",
+          "es": "La trisomía X es una trisomía de los cromosomas sexuales (XXX).",
+          "fr": "La trisomie X est une trisomie des chromosomes sexuels (XXX).",
+          "de": "Trisomie X ist eine Trisomie der Geschlechtschromosomen (XXX).",
+          "ja": "トリソミーXは性染色体のトリソミー（XXX）です。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text states that Turner syndrome (X0) 'is the only known viable monosomy in humans.' This means individuals have only one X chromosome and are missing the second sex chromosome.",
+      "zh": "文本指出，特纳综合征（X0）“是人类已知的唯一能存活的单体病”。这意味着个体只有一个 X 染色体，缺少第二个。",
+      "es": "El texto afirma que el síndrome de Turner (X0) 'es la única monosomía viable conocida en humanos'. Esto significa que los individuos solo tienen un cromosoma X y les falta el segundo cromosoma sexual.",
+      "fr": "Le texte indique que le syndrome de Turner (X0) « est la seule monosomie viable connue chez l'homme ». Cela signifie que les individus n'ont qu'un seul chromosome X et qu'il leur manque le deuxième chromosome sexuel.",
+      "de": "Der Text besagt, dass das Turner-Syndrom (X0) „die einzige bekannte lebensfähige Monosomie beim Menschen ist“. Das bedeutet, dass Individuen nur ein X-Chromosom haben und das zweite Geschlechtschromosom fehlt.",
+      "ja": "本文では、ターナー症候群（X0）は「ヒトで知られている唯一の生存可能なモノソミーである」と述べられています。これは、個人がX染色体を1つしか持たず、2番目の性染色体が欠けていることを意味します。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The Philadelphia chromosome, associated with chronic myelogenous leukemia (CML), is an example of which type of chromosomal alteration?",
+      "zh": "与慢性粒细胞白血病（CML）相关的费城染色体，是哪种类型的染色体结构变异的例子？",
+      "es": "El cromosoma Filadelfia, asociado con la leucemia mieloide crónica (LMC), es un ejemplo de ¿qué tipo de alteración cromosómica?",
+      "fr": "Le chromosome de Philadelphie, associé à la leucémie myéloïde chronique (LMC), est un exemple de quel type d'altération chromosomique ?",
+      "de": "Das Philadelphia-Chromosom, das mit chronischer myeloischer Leukämie (CML) assoziiert ist, ist ein Beispiel für welche Art von Chromosomenveränderung?",
+      "ja": "慢性骨髄性白血病（CML）に関連するフィラデルフィア染色体は、どのタイプの染色体構造異常の例ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Deletion",
+          "zh": "缺失",
+          "es": "Deleción",
+          "fr": "Délétion",
+          "de": "Deletion",
+          "ja": "欠失"
+        },
+        "feedback": {
+          "en": "While the resulting chromosome 22 is shorter (a deletion), the overall event involves the exchange of fragments with chromosome 9.",
+          "zh": "虽然最终的 22 号染色体变短了（缺失），但整个事件涉及与 9 号染色体的片段交换。",
+          "es": "Si bien el cromosoma 22 resultante es más corto (una deleción), el evento general implica el intercambio de fragmentos con el cromosoma 9.",
+          "fr": "Bien que le chromosome 22 résultant soit plus court (une délétion), l'événement global implique l'échange de fragments avec le chromosome 9.",
+          "de": "Obwohl das resultierende Chromosom 22 kürzer ist (eine Deletion), beinhaltet das Gesamtgeschehen den Austausch von Fragmenten mit Chromosom 9.",
+          "ja": "結果として生じる22番染色体は短く（欠失）なっていますが、全体的なイベントには9番染色体との断片の交換が含まれます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Inversion",
+          "zh": "倒位",
+          "es": "Inversión",
+          "fr": "Inversion",
+          "de": "Inversion",
+          "ja": "逆位"
+        },
+        "feedback": {
+          "en": "An inversion involves a segment reversing its orientation on the same chromosome, not moving between different chromosomes.",
+          "zh": "倒位涉及一个片段在同一条染色体上反向排列，而不是在不同染色体之间移动。",
+          "es": "Una inversión implica que un segmento invierte su orientación en el mismo cromosoma, no que se mueva entre cromosomas diferentes.",
+          "fr": "Une inversion implique qu'un segment inverse son orientation sur le même chromosome, et non qu'il se déplace entre des chromosomes différents.",
+          "de": "Eine Inversion beinhaltet, dass ein Segment seine Ausrichtung auf demselben Chromosom umkehrt und nicht zwischen verschiedenen Chromosomen wechselt.",
+          "ja": "逆位は、セグメントが同じ染色体上でその向きを逆転させることを含み、異なる染色体間を移動することはありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Translocation",
+          "zh": "易位",
+          "es": "Translocación",
+          "fr": "Translocation",
+          "de": "Translokation",
+          "ja": "転座"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Nondisjunction",
+          "zh": "不分离",
+          "es": "No disyunción",
+          "fr": "Non-disjonction",
+          "de": "Nondisjunction",
+          "ja": "不分離"
+        },
+        "feedback": {
+          "en": "Nondisjunction is an error in chromosome number, not structure.",
+          "zh": "不分离是染色体数目的错误，而不是结构的错误。",
+          "es": "La no disyunción es un error en el número de cromosomas, no en la estructura.",
+          "fr": "La non-disjonction est une erreur de nombre de chromosomes, pas de structure.",
+          "de": "Nondisjunction ist ein Fehler in der Chromosomenzahl, nicht in der Struktur.",
+          "ja": "不分離は構造ではなく、染色体数のエラーです。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "Figure 15.16 and the accompanying text clearly describe the formation of the Philadelphia chromosome as a reciprocal translocation, where a large portion of chromosome 22 is exchanged with a small fragment from chromosome 9.",
+      "zh": "图 15.16 及其附带文字清楚地将费城染色体的形成描述为一次相互易位，即 22 号染色体的一大部分与 9 号染色体的一个小片段发生了交换。",
+      "es": "La Figura 15.16 y el texto que la acompaña describen claramente la formación del cromosoma Filadelfia como una translocación recíproca, donde una gran parte del cromosoma 22 se intercambia con un pequeño fragmento del cromosoma 9.",
+      "fr": "La figure 15.16 et le texte qui l'accompagne décrivent clairement la formation du chromosome de Philadelphie comme une translocation réciproque, où une grande partie du chromosome 22 est échangée avec un petit fragment du chromosome 9.",
+      "de": "Abbildung 15.16 und der Begleittext beschreiben die Bildung des Philadelphia-Chromosoms eindeutig als reziproke Translokation, bei der ein großer Teil von Chromosom 22 mit einem kleinen Fragment von Chromosom 9 ausgetauscht wird.",
+      "ja": "図15.16とそれに付随する文章は、フィラデルフィア染色体の形成を、22番染色体の大部分が9番染色体の小さな断片と交換される相互転座として明確に説明しています。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A father has type AB blood and the mother has type O. They have a child with trisomy 9 and type A blood. In which parent did the nondisjunction of chromosome 9 occur?",
+      "zh": "一位父亲的血型是 AB 型，母亲是 O 型。他们有一个患有 9 号染色体三体综合征且血型为 A 型的孩子。9 号染色体的不分离发生在哪个亲本中？",
+      "es": "Un padre tiene sangre tipo AB y la madre tipo O. Tienen un hijo con trisomía 9 y sangre tipo A. ¿En qué padre ocurrió la no disyunción del cromosoma 9?",
+      "fr": "Un père a le groupe sanguin AB et la mère le groupe O. Ils ont un enfant atteint de trisomie 9 et de groupe sanguin A. Chez quel parent la non-disjonction du chromosome 9 s'est-elle produite ?",
+      "de": "Ein Vater hat Blutgruppe AB und die Mutter Blutgruppe O. Sie haben ein Kind mit Trisomie 9 und Blutgruppe A. Bei welchem Elternteil trat die Nondisjunction von Chromosom 9 auf?",
+      "ja": "父親はAB型の血液型、母親はO型です。彼らには9番トリソミーでA型の血液型の子供がいます。9番染色体の不分離はどちらの親で起こりましたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "In the father",
+          "zh": "在父亲中",
+          "es": "En el padre",
+          "fr": "Chez le père",
+          "de": "Beim Vater",
+          "ja": "父親"
+        },
+        "feedback": {
+          "en": "If nondisjunction occurred in the father, he could produce sperm with both IA and IB alleles. Fertilizing a normal egg (i) would result in a child with genotype IAIBi (type AB blood), not type A.",
+          "zh": "如果不分离发生在父亲中，他可能会产生同时带有 IA 和 IB 等位基因的精子。与正常卵子（i）受精将产生基因型为 IAIBi（AB 型血）的孩子，而不是 A 型。",
+          "es": "Si la no disyunción ocurriera en el padre, podría producir espermatozoides con los alelos IA e IB. La fertilización de un óvulo normal (i) daría como resultado un niño con el genotipo IAIBi (sangre tipo AB), no tipo A.",
+          "fr": "Si la non-disjonction s'était produite chez le père, il aurait pu produire des spermatozoïdes avec les allèles IA et IB. La fécondation d'un ovule normal (i) aurait donné un enfant de génotype IAIBi (groupe sanguin AB), et non de groupe A.",
+          "de": "Wenn eine Nondisjunction beim Vater aufgetreten wäre, könnte er Spermien mit den Allelen IA und IB produzieren. Die Befruchtung einer normalen Eizelle (i) würde zu einem Kind mit dem Genotyp IAIBi (Blutgruppe AB) führen, nicht Blutgruppe A.",
+          "ja": "父親で不分離が起こった場合、彼はIAとIBの両方の対立遺伝子を持つ精子を生産する可能性があります。正常な卵子（i）を受精させると、A型ではなく、遺伝子型IAIBi（AB型血液）の子供が生まれます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "In the mother",
+          "zh": "在母亲中",
+          "es": "En la madre",
+          "fr": "Chez la mère",
+          "de": "Bei der Mutter",
+          "ja": "母親"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "In both parents",
+          "zh": "在父母双方中",
+          "es": "En ambos padres",
+          "fr": "Chez les deux parents",
+          "de": "Bei beiden Elternteilen",
+          "ja": "両親"
+        },
+        "feedback": {
+          "en": "Nondisjunction in both parents is extremely rare and not necessary to explain this outcome.",
+          "zh": "父母双方都发生不分离是极其罕见的，也无需用此来解释这个结果。",
+          "es": "La no disyunción en ambos padres es extremadamente rara y no es necesaria para explicar este resultado.",
+          "fr": "La non-disjonction chez les deux parents est extrêmement rare et n'est pas nécessaire pour expliquer ce résultat.",
+          "de": "Eine Nondisjunction bei beiden Elternteilen ist äußerst selten und zur Erklärung dieses Ergebnisses nicht erforderlich.",
+          "ja": "両親での不分離は非常にまれであり、この結果を説明する必要はありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It cannot be determined from this information.",
+          "zh": "从这些信息中无法确定。",
+          "es": "No se puede determinar a partir de esta información.",
+          "fr": "Il ne peut pas être déterminé à partir de ces informations.",
+          "de": "Aus diesen Informationen kann dies nicht bestimmt werden.",
+          "ja": "この情報からは判断できません。"
+        },
+        "feedback": {
+          "en": "The blood types of the parents and child provide the necessary information to solve this puzzle.",
+          "zh": "父母和孩子的血型提供了解决这个难题所需的信息。",
+          "es": "Los tipos de sangre de los padres y del niño proporcionan la información necesaria para resolver este rompecabezas.",
+          "fr": "Les groupes sanguins des parents et de l'enfant fournissent les informations nécessaires pour résoudre cette énigme.",
+          "de": "Die Blutgruppen der Eltern und des Kindes liefern die notwendigen Informationen, um dieses Rätsel zu lösen.",
+          "ja": "両親と子供の血液型が、このパズルを解くために必要な情報を提供します。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The father has type AB blood (genotype IAIB). The mother has type O blood (genotype ii). The child has trisomy 9 and type A blood. The child's genotype must be IAii. To get this genotype, the child must have received one chromosome 9 with the IA allele from the father and two chromosome 9s, both with the i allele, from the mother. Therefore, the nondisjunction event (failure of homologous chromosomes or sister chromatids to separate) must have occurred during meiosis in the mother.",
+      "zh": "父亲是 AB 型血（基因型 IAIB）。母亲是 O 型血（基因型 ii）。孩子患有 9 号染色体三体综合征，血型为 A 型。孩子的基因型必须是 IAii。要得到这个基因型，孩子必须从父亲那里接收到一条带有 IA 等位基因的 9 号染色体，并从母亲那里接收到两条都带有 i 等位基因的 9 号染色体。因此，不分离事件（同源染色体或姐妹染色单体未能分离）必定发生在母亲的减数分裂过程中。",
+      "es": "El padre tiene sangre tipo AB (genotipo IAIB). La madre tiene sangre tipo O (genotipo ii). El niño tiene trisomía 9 y sangre tipo A. El genotipo del niño debe ser IAii. Para obtener este genotipo, el niño debe haber recibido un cromosoma 9 con el alelo IA del padre y dos cromosomas 9, ambos con el alelo i, de la madre. Por lo tanto, el evento de no disyunción (falla de los cromosomas homólogos o las cromátidas hermanas para separarse) debe haber ocurrido durante la meiosis en la madre.",
+      "fr": "Le père a le groupe sanguin AB (génotype IAIB). La mère a le groupe sanguin O (génotype ii). L'enfant a une trisomie 9 et le groupe sanguin A. Le génotype de l'enfant doit être IAii. Pour obtenir ce génotype, l'enfant doit avoir reçu un chromosome 9 avec l'allèle IA du père et deux chromosomes 9, tous deux avec l'allèle i, de la mère. Par conséquent, l'événement de non-disjonction (échec de la séparation des chromosomes homologues ou des chromatides sœurs) doit s'être produit pendant la méiose chez la mère.",
+      "de": "Der Vater hat Blutgruppe AB (Genotyp IAIB). Die Mutter hat Blutgruppe O (Genotyp ii). Das Kind hat Trisomie 9 und Blutgruppe A. Der Genotyp des Kindes muss IAii sein. Um diesen Genotyp zu erhalten, muss das Kind ein Chromosom 9 mit dem Allel IA vom Vater und zwei Chromosomen 9, beide mit dem Allel i, von der Mutter erhalten haben. Daher muss das Nondisjunction-Ereignis (Versagen der Trennung homologer Chromosomen oder Schwesterchromatiden) während der Meiose bei der Mutter aufgetreten sein.",
+      "ja": "父親はAB型の血液型（遺伝子型IAIB）です。母親はO型の血液型（遺伝子型ii）です。子供は9番トリソミーでA型の血液型です。子供の遺伝子型はIAiiでなければなりません。この遺伝子型を得るためには、子供は父親からIA対立遺伝子を持つ1本の9番染色体と、母親からi対立遺伝子を持つ2本の9番染色体を受け継いだに違いありません。したがって、不分離イベント（相同染色体または姉妹染色分体の分離の失敗）は、母親の減数分裂中に起こったに違いありません。"
+    }
+  }
+]

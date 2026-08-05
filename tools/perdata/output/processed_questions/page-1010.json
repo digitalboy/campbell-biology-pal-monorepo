@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 1010,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 43.14, which sequence accurately describes the process of immunoglobulin light-chain production from undifferentiated B cell DNA to the final polypeptide?",
+      "zh": "根据图43.14，以下哪一序列准确描述了从未分化B细胞DNA到最终多肽的免疫球蛋白轻链生产过程？",
+      "es": "Según la Figura 43.14, ¿qué secuencia describe con precisión el proceso de producción de la cadena ligera de inmunoglobulina desde el ADN de una célula B no diferenciada hasta el polipéptido final?",
+      "fr": "Selon la Figure 43.14, quelle séquence décrit avec précision le processus de production de la chaîne légère d'immunoglobuline, de l'ADN d'une cellule B non différenciée au polypeptide final?",
+      "de": "Basierend auf Abbildung 43.14, welche Sequenz beschreibt den Prozess der Immunglobulin-Leichtkettenproduktion vom undifferenzierten B-Zell-DNA bis zum endgültigen Polypeptid genau?",
+      "ja": "図43.14に基づき、未分化B細胞のDNAから最終的なポリペプチドへの免疫グロブリン軽鎖の生成過程を正確に説明するシーケンスはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "DNA recombination (deletion of introns) -> Transcription -> RNA processing (addition of Cap and Poly-A tail) -> Translation",
+          "zh": "DNA重组（内含子删除）-> 转录 -> RNA加工（添加帽结构和多聚A尾）-> 翻译",
+          "es": "Recombinación de ADN (deleción de intrones) -> Transcripción -> Procesamiento de ARN (adición de caperuza y cola poli-A) -> Traducción",
+          "fr": "Recombinaison de l'ADN (délétion des introns) -> Transcription -> Traitement de l'ARN (ajout de la coiffe et de la queue poly-A) -> Traduction",
+          "de": "DNA-Rekombination (Deletion von Introns) -> Transkription -> RNA-Prozessierung (Hinzufügung von Cap und Poly-A-Schwanz) -> Translation",
+          "ja": "DNA組換え（イントロンの削除）→ 転写 → RNAプロセシング（キャップとポリAテール付加）→ 翻訳"
+        },
+        "feedback": {
+          "en": "\"deletion of introns\" happens during RNA processing, not DNA recombination.",
+          "zh": "“内含子删除”发生在RNA加工过程中，而非DNA重组。",
+          "es": "La \"deleción de intrones\" ocurre durante el procesamiento de ARN, no durante la recombinación de ADN.",
+          "fr": "La \"délétion des introns\" se produit pendant le traitement de l'ARN, et non pendant la recombinaison de l'ADN.",
+          "de": "Die „Deletion von Introns“ findet während der RNA-Prozessierung statt, nicht bei der DNA-Rekombination.",
+          "ja": "「イントロンの削除」はDNA組換えではなく、RNAプロセシング中に発生します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "DNA recombination (deletion of V and J segments) -> Transcription -> RNA processing (removal of intron) -> Translation",
+          "zh": "DNA重组（V和J片段删除）-> 转录 -> RNA加工（内含子去除）-> 翻译",
+          "es": "Recombinación de ADN (deleción de segmentos V y J) -> Transcripción -> Procesamiento de ARN (eliminación de intrones) -> Traducción",
+          "fr": "Recombinaison de l'ADN (délétion des segments V et J) -> Transcription -> Traitement de l'ARN (élimination de l'intron) -> Traduction",
+          "de": "DNA-Rekombination (Deletion von V- und J-Segmenten) -> Transkription -> RNA-Prozessierung (Entfernung von Introns) -> Translation",
+          "ja": "DNA組換え（VおよびJセグメントの削除）→ 転写 → RNAプロセシング（イントロンの除去）→ 翻訳"
+        },
+        "feedback": {
+          "en": "\"deletion of V and J segments\" is incorrect; DNA between them is deleted.",
+          "zh": "“V和J片段删除”不正确；是它们之间的DNA被删除。",
+          "es": "La \"deleción de segmentos V y J\" es incorrecta; se elimina el ADN entre ellos.",
+          "fr": "La \"délétion des segments V et J\" est incorrecte ; c'est l'ADN entre eux qui est supprimé.",
+          "de": "Die „Deletion von V- und J-Segmenten“ ist falsch; es wird DNA zwischen ihnen gelöscht.",
+          "ja": "「VおよびJセグメントの削除」は正しくありません。それらの間のDNAが削除されます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "DNA recombination (deletion of DNA between V and J segments) -> Transcription -> RNA processing (removal of intron, addition of Cap and Poly-A tail) -> Translation",
+          "zh": "DNA重组（V和J片段之间DNA的删除）-> 转录 -> RNA加工（内含子去除，添加帽结构和多聚A尾）-> 翻译",
+          "es": "Recombinación de ADN (deleción de ADN entre segmentos V y J) -> Transcripción -> Procesamiento de ARN (eliminación de intrones, adición de caperuza y cola poli-A) -> Traducción",
+          "fr": "Recombinaison de l'ADN (délétion de l'ADN entre les segments V et J) -> Transcription -> Traitement de l'ARN (élimination de l'intron, ajout de la coiffe et de la queue poly-A) -> Traduction",
+          "de": "DNA-Rekombination (Deletion von DNA zwischen V- und J-Segmenten) -> Transkription -> RNA-Prozessierung (Entfernung von Introns, Hinzufügung von Cap und Poly-A-Schwanz) -> Translation",
+          "ja": "DNA組換え（VおよびJセグメント間のDNAの削除）→ 転写 → RNAプロセシング（イントロンの除去、キャップとポリAテール付加）→ 翻訳"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Transcription -> DNA recombination -> RNA processing -> Translation",
+          "zh": "转录 -> DNA重组 -> RNA加工 -> 翻译",
+          "es": "Transcipción -> Recombinación de ADN -> Procesamiento de ARN -> Traducción",
+          "fr": "Transcription -> Recombinaison de l'ADN -> Traitement de l'ARN -> Traduction",
+          "de": "Transkription -> DNA-Rekombination -> RNA-Prozessierung -> Translation",
+          "ja": "転写 → DNA組換え → RNAプロセシング → 翻訳"
+        },
+        "feedback": {
+          "en": "The order of major steps is wrong; recombination happens first on DNA.",
+          "zh": "主要步骤的顺序错误；重组首先发生在DNA上。",
+          "es": "El orden de los pasos principales es incorrecto; la recombinación ocurre primero en el ADN.",
+          "fr": "L'ordre des étapes principales est incorrect ; la recombinaison se produit d'abord sur l'ADN.",
+          "de": "Die Reihenfolge der Hauptschritte ist falsch; die Rekombination findet zuerst an der DNA statt.",
+          "ja": "主要なステップの順序が間違っています。組換えはまずDNA上で発生します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 43.14 clearly shows the sequence: 1) Recombination deletes DNA between V and J segments, forming a functional gene. 2) This functional gene is transcribed into pre-mRNA. 3) The pre-mRNA undergoes RNA processing (intron removal, Cap and Poly-A tail addition) to become mRNA. 4) Finally, mRNA is translated into the light-chain polypeptide.",
+      "zh": "图43.14清楚地显示了以下序列：1) 重组删除V和J片段之间的DNA，形成功能性基因。2) 这个功能性基因被转录成前mRNA。3) 前mRNA进行RNA加工（内含子去除，添加帽结构和多聚A尾）成为mRNA。4) 最后，mRNA被翻译成轻链多肽。",
+      "es": "La Figura 43.14 muestra claramente la secuencia: 1) La recombinación elimina el ADN entre los segmentos V y J, formando un gen funcional. 2) Este gen funcional se transcribe en pre-ARNm. 3) El pre-ARNm sufre procesamiento de ARN (eliminación de intrones, adición de caperuza y cola poli-A) para convertirse en ARNm. 4) Finalmente, el ARNm se traduce en el polipéptido de cadena ligera.",
+      "fr": "La Figure 43.14 montre clairement la séquence : 1) La recombinaison supprime l'ADN entre les segments V et J, formant un gène fonctionnel. 2) Ce gène fonctionnel est transcrit en pré-ARNm. 3) Le pré-ARNm subit un traitement de l'ARN (élimination de l'intron, ajout de la coiffe et de la queue poly-A) pour devenir de l'ARNm. 4) Enfin, l'ARNm est traduit en polypeptide de chaîne légère.",
+      "de": "Abbildung 43.14 zeigt klar die Sequenz: 1) Rekombination löscht DNA zwischen V- und J-Segmenten, wodurch ein funktionelles Gen entsteht. 2) Dieses funktionelle Gen wird in prä-mRNA transkribiert. 3) Die prä-mRNA unterliegt der RNA-Prozessierung (Intron-Entfernung, Hinzufügung von Cap und Poly-A-Schwanz) und wird zu mRNA. 4) Schließlich wird mRNA in das Leichtketten-Polypeptid translatiert.",
+      "ja": "図43.14は、以下のシーケンスを明確に示しています。1) 組換えによりVおよびJセグメント間のDNAが削除され、機能的な遺伝子が形成されます。2) この機能的な遺伝子は前駆mRNAに転写されます。3) 前駆mRNAはRNAプロセシング（イントロンの除去、キャップとポリAテールの付加）を受けてmRNAになります。4) 最後に、mRNAは軽鎖ポリペプチドに翻訳されます。"
+    }
+  },
+  {
+    "page_number": 1010,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The \"MAKE CONNECTIONS\" box asks how alternative splicing and V and J segment recombination differ. Which of the following statements correctly identifies a key difference?",
+      "zh": "“联系与思考”框询问了可变剪接与V和J片段重组有何不同。以下哪一陈述正确指出了一个关键区别？",
+      "es": "El recuadro \"ESTABLECER CONEXIONES\" pregunta cómo difieren el empalme alternativo y la recombinación de los segmentos V y J. ¿Cuál de las siguientes afirmaciones identifica correctamente una diferencia clave?",
+      "fr": "L'encadré « FAIRE DES LIENS » demande comment l'épissage alternatif et la recombinaison des segments V et J diffèrent. Laquelle des affirmations suivantes identifie correctement une différence clé ?",
+      "de": "Das Feld „VERBINDUNGEN HERSTELLEN“ fragt, wie sich alternatives Spleißen und die Rekombination von V- und J-Segmenten unterscheiden. Welche der folgenden Aussagen identifiziert eine wesentliche Differenz korrekt?",
+      "ja": "「関連付け」のボックスでは、代替スプライシングとVおよびJセグメントの組換えがどのように異なるかを尋ねています。以下の記述のうち、主要な違いを正しく特定しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "V and J recombination creates diversity by rearranging RNA segments, while alternative splicing rearranges DNA segments.",
+          "zh": "V和J重组通过重排RNA片段来产生多样性，而可变剪接重排DNA片段。",
+          "es": "La recombinación de V y J crea diversidad reordenando segmentos de ARN, mientras que el empalme alternativo reordena segmentos de ADN.",
+          "fr": "La recombinaison V et J crée de la diversité en réarrangeant des segments d'ARN, tandis que l'épissage alternatif réarrange des segments d'ADN.",
+          "de": "Die V- und J-Rekombination erzeugt Diversität durch die Neuordnung von RNA-Segmenten, während alternatives Spleißen DNA-Segmente neu anordnet.",
+          "ja": "VおよびJ組換えはRNAセグメントを再配置することで多様性を生み出し、一方、代替スプライシングはDNAセグメントを再配置します。"
+        },
+        "feedback": {
+          "en": "V and J recombination rearranges DNA, not RNA. Alternative splicing processes RNA, not DNA.",
+          "zh": "V和J重组重排DNA而非RNA。可变剪接加工RNA而非DNA。",
+          "es": "La recombinación de V y J reordena el ADN, no el ARN. El empalme alternativo procesa el ARN, no el ADN.",
+          "fr": "La recombinaison V et J réarrange l'ADN, pas l'ARN. L'épissage alternatif traite l'ARN, pas l'ADN.",
+          "de": "V- und J-Rekombination ordnet DNA neu an, nicht RNA. Alternatives Spleißen verarbeitet RNA, nicht DNA.",
+          "ja": "VおよびJ組換えはRNAではなくDNAを再配置します。代替スプライシングはDNAではなくRNAを処理します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "V and J recombination permanently alters the genomic DNA, whereas alternative splicing processes pre-mRNA to produce different mRNA molecules from the same gene.",
+          "zh": "V和J重组永久性地改变基因组DNA，而可变剪接则加工前mRNA以从同一基因产生不同的mRNA分子。",
+          "es": "La recombinación de V y J altera permanentemente el ADN genómico, mientras que el empalme alternativo procesa el pre-ARNm para producir diferentes moléculas de ARNm a partir del mismo gen.",
+          "fr": "La recombinaison V et J modifie de manière permanente l'ADN génomique, tandis que l'épissage alternatif traite le pré-ARNm pour produire différentes molécules d'ARNm à partir du même gène.",
+          "de": "V- und J-Rekombination verändert die genomische DNA dauerhaft, während alternatives Spleißen die prä-mRNA verarbeitet, um verschiedene mRNA-Moleküle aus demselben Gen zu erzeugen.",
+          "ja": "VおよびJ組換えはゲノムDNAを永続的に変化させますが、代替スプライシングは同じ遺伝子から異なるmRNA分子を生成するために前駆mRNAを処理します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both processes occur at the RNA level, but V and J recombination involves cutting and pasting, while alternative splicing only involves differential exon inclusion.",
+          "zh": "两种过程都发生在RNA层面，但V和J重组涉及剪切和粘贴，而可变剪接只涉及外显子的差异性包含。",
+          "es": "Ambos procesos ocurren a nivel de ARN, pero la recombinación de V y J implica cortar y pegar, mientras que el empalme alternativo solo implica la inclusión diferencial de exones.",
+          "fr": "Les deux processus se produisent au niveau de l'ARN, mais la recombinaison V et J implique la coupe et le collage, tandis que l'épissage alternatif n'implique que l'inclusion différentielle des exons.",
+          "de": "Beide Prozesse finden auf RNA-Ebene statt, aber die V- und J-Rekombination beinhaltet Schneiden und Einfügen, während alternatives Spleißen nur die differentielle Exon-Inklusion betrifft.",
+          "ja": "両方のプロセスはRNAレベルで発生しますが、VおよびJ組換えは切断と結合を含み、一方、代替スプライシングは異なるエキソン包含のみを伴います。"
+        },
+        "feedback": {
+          "en": "V and J recombination occurs at the DNA level.",
+          "zh": "V和J重组发生在DNA层面。",
+          "es": "La recombinación de V y J ocurre a nivel de ADN.",
+          "fr": "La recombinaison V et J se produit au niveau de l'ADN.",
+          "de": "V- und J-Rekombination findet auf DNA-Ebene statt.",
+          "ja": "VおよびJ組換えはDNAレベルで発生します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Alternative splicing is specific to B cells, while V and J recombination occurs in all cell types.",
+          "zh": "可变剪接是B细胞特有的，而V和J重组发生在所有细胞类型中。",
+          "es": "El empalme alternativo es específico de las células B, mientras que la recombinación de V y J ocurre en todos los tipos de células.",
+          "fr": "L'épissage alternatif est spécifique aux cellules B, tandis que la recombinaison V et J se produit dans tous les types de cellules.",
+          "de": "Alternatives Spleißen ist spezifisch für B-Zellen, während V- und J-Rekombination in allen Zelltypen vorkommt.",
+          "ja": "代替スプライシングはB細胞に特有であり、一方、VおよびJ組換えはすべての細胞タイプで発生します。"
+        },
+        "feedback": {
+          "en": "V and J recombination is specific to B/T cells; alternative splicing occurs broadly.",
+          "zh": "V和J重组是B/T细胞特有的；可变剪接则广泛存在。",
+          "es": "La recombinación de V y J es específica de las células B/T; el empalme alternativo ocurre ampliamente.",
+          "fr": "La recombinaison V et J est spécifique aux cellules B/T ; l'épissage alternatif est répandu.",
+          "de": "V- und J-Rekombination ist spezifisch für B/T-Zellen; alternatives Spleißen kommt breit vor.",
+          "ja": "VおよびJ組換えはB/T細胞に特有であり、一方、代替スプライシングは広く発生します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "V and J recombination involves permanent alteration of genomic DNA in B and T cells to create diverse antigen receptors. Alternative splicing, however, is a post-transcriptional process that produces different mRNA molecules (and thus different proteins) from a single pre-mRNA transcript without altering the DNA sequence.",
+      "zh": "V和J重组涉及B细胞和T细胞基因组DNA的永久性改变，以产生多样化的抗原受体。然而，可变剪接是一种转录后过程，它从一个前mRNA转录本中产生不同的mRNA分子（从而产生不同的蛋白质），而不会改变DNA序列。",
+      "es": "La recombinación de V y J implica la alteración permanente del ADN genómico en las células B y T para crear receptores de antígenos diversos. Sin embargo, el empalme alternativo es un proceso postranscripcional que produce diferentes moléculas de ARNm (y, por lo tanto, diferentes proteínas) a partir de una única transcripción de pre-ARNm sin alterar la secuencia del ADN.",
+      "fr": "La recombinaison V et J implique une altération permanente de l'ADN génomique dans les cellules B et T pour créer des récepteurs d'antigènes divers. L'épissage alternatif, cependant, est un processus post-transcriptionnel qui produit différentes molécules d'ARNm (et donc différentes protéines) à partir d'un seul transcrit de pré-ARNm sans altérer la séquence de l'ADN.",
+      "de": "Die V- und J-Rekombination beinhaltet eine dauerhafte Veränderung der genomischen DNA in B- und T-Zellen, um diverse Antigenrezeptoren zu erzeugen. Alternatives Spleißen hingegen ist ein posttranskriptioneller Prozess, der verschiedene mRNA-Moleküle (und somit verschiedene Proteine) aus einem einzigen prä-mRNA-Transkript produziert, ohne die DNA-Sequenz zu verändern.",
+      "ja": "VおよびJ組換えは、多様な抗原受容体を生成するために、B細胞およびT細胞のゲノムDNAの永続的な変化を伴います。しかし、代替スプライシングは、DNA配列を変化させることなく、単一の前駆mRNA転写物から異なるmRNA分子（したがって異なるタンパク質）を生成する転写後プロセスです。"
+    }
+  },
+  {
+    "page_number": 1010,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary mechanism by which the immune system achieves self-tolerance according to the \"Origin of Self-Tolerance\" section?",
+      "zh": "根据“自身耐受的起源”部分，免疫系统实现自身耐受的主要机制是什么？",
+      "es": "Según la sección \"Origen de la autotolerancia\", ¿cuál es el mecanismo principal mediante el cual el sistema inmunitario logra la autotolerancia?",
+      "fr": "Selon la section « Origine de l'auto-tolérance », quel est le mécanisme principal par lequel le système immunitaire atteint l'auto-tolérance ?",
+      "de": "Gemäß dem Abschnitt „Ursprung der Selbsttoleranz“, welcher ist der primäre Mechanismus, durch den das Immunsystem Selbsttoleranz erreicht?",
+      "ja": "「自己寛容の起源」のセクションによると、免疫系が自己寛容を達成する主要なメカニズムは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Activating self-reactive lymphocytes to become effector cells.",
+          "zh": "激活自身反应性淋巴细胞使其成为效应细胞。",
+          "es": "Activando los linfocitos autorreactivos para que se conviertan en células efectoras.",
+          "fr": "Activer les lymphocytes auto-réactifs pour qu'ils deviennent des cellules effectrices.",
+          "de": "Aktivierung von selbst-reaktiven Lymphozyten, um Effektor-Zellen zu werden.",
+          "ja": "自己反応性リンパ球を活性化させてエフェクター細胞にする。"
+        },
+        "feedback": {
+          "en": "Activating self-reactive lymphocytes would lead to autoimmunity.",
+          "zh": "激活自身反应性淋巴细胞会导致自身免疫。",
+          "es": "Activar los linfocitos autorreactivos conduciría a la autoinmunidad.",
+          "fr": "Activer les lymphocytes auto-réactifs entraînerait une auto-immunité.",
+          "de": "Die Aktivierung selbst-reaktiver Lymphozyten würde zu Autoimmunität führen.",
+          "ja": "自己反応性リンパ球を活性化すると自己免疫につながります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Eliminating or inactivating self-reactive lymphocytes through processes like apoptosis.",
+          "zh": "通过细胞凋亡等过程消除或钝化自身反应性淋巴细胞。",
+          "es": "Eliminando o inactivando linfocitos autorreactivos mediante procesos como la apoptosis.",
+          "fr": "Éliminer ou inactiver les lymphocytes auto-réactifs par des processus tels que l'apoptose.",
+          "de": "Eliminierung oder Inaktivierung von selbst-reaktiven Lymphozyten durch Prozesse wie Apoptose.",
+          "ja": "アポトーシスなどのプロセスを通じて、自己反応性リンパ球を排除または不活性化する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Preventing the random rearrangement of antigen receptor genes.",
+          "zh": "阻止抗原受体基因的随机重排。",
+          "es": "Previniendo el reordenamiento aleatorio de los genes del receptor de antígeno.",
+          "fr": "Empêcher le réarrangement aléatoire des gènes des récepteurs d'antigènes.",
+          "de": "Verhinderung der zufälligen Neuanordnung von Antigenrezeptorgenen.",
+          "ja": "抗原受容体遺伝子のランダムな再配置を防ぐ。"
+        },
+        "feedback": {
+          "en": "Random rearrangement is part of diversity generation, not self-tolerance.",
+          "zh": "随机重排是产生多样性的一部分，而非自身耐受的机制。",
+          "es": "El reordenamiento aleatorio es parte de la generación de diversidad, no de la autotolerancia.",
+          "fr": "Le réarrangement aléatoire fait partie de la génération de diversité, pas de l'auto-tolérance.",
+          "de": "Zufällige Neuordnung ist Teil der Diversitätsgenerierung, nicht der Selbsttoleranz.",
+          "ja": "ランダムな再配置は多様性生成の一部であり、自己寛容ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Increasing the number of antigen-binding specificities.",
+          "zh": "增加抗原结合特异性的数量。",
+          "es": "Aumentando el número de especificidades de unión a antígeno.",
+          "fr": "Augmenter le nombre de spécificités de liaison aux antigènes.",
+          "de": "Erhöhung der Anzahl der Antigen-bindenden Spezifitäten.",
+          "ja": "抗原結合特異性の数を増やす。"
+        },
+        "feedback": {
+          "en": "Increasing specificity is for antigen recognition, not self-tolerance.",
+          "zh": "增加特异性是为了抗原识别，而非自身耐受。",
+          "es": "Aumentar la especificidad es para el reconocimiento de antígenos, no para la autotolerancia.",
+          "fr": "L'augmentation de la spécificité est pour la reconnaissance des antigènes, non pour l'auto-tolérance.",
+          "de": "Die Erhöhung der Spezifität dient der Antigen-Erkennung, nicht der Selbsttoleranz.",
+          "ja": "特異性を高めることは抗原認識のためであり、自己寛容のためではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that self-reactive lymphocytes are \"eliminated or inactivated\" and that some are \"destroyed by apoptosis.\" This is the primary mechanism for self-tolerance.",
+      "zh": "文本指出，自身反应性淋巴细胞被“消除或钝化”，并且有些通过“细胞凋亡”被摧毁。这是自身耐受的主要机制。",
+      "es": "El texto afirma que los linfocitos autorreactivos son \"eliminados o inactivados\" y que algunos son \"destruidos por apoptosis\". Este es el mecanismo principal de la autotolerancia.",
+      "fr": "Le texte indique que les lymphocytes auto-réactifs sont « éliminés ou inactivés » et que certains sont « détruits par apoptose ». C'est le mécanisme principal de l'auto-tolérance.",
+      "de": "Der Text besagt, dass selbst-reaktive Lymphozyten „eliminiert oder inaktiviert“ werden und dass einige durch „Apoptose zerstört“ werden. Dies ist der primäre Mechanismus der Selbsttoleranz.",
+      "ja": "本文には、自己反応性リンパ球は「排除または不活性化される」とあり、一部は「アポトーシスによって破壊される」と記載されています。これが自己寛容の主要なメカニズムです。"
+    }
+  },
+  {
+    "page_number": 1010,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the \"Proliferation of B Cells and T Cells\" section, what is the fate of an activated B cell or T cell that successfully matches an antigen epitope?",
+      "zh": "根据“B细胞和T细胞的增殖”部分，成功匹配抗原表位的活化B细胞或T细胞的结局是什么？",
+      "es": "Según la sección \"Proliferación de células B y T\", ¿cuál es el destino de una célula B o T activada que coincide exitosamente con un epítopo antigénico?",
+      "fr": "Selon la section « Prolifération des cellules B et T », quel est le destin d'une cellule B ou T activée qui correspond avec succès à un épitope antigénique ?",
+      "de": "Gemäß dem Abschnitt „Proliferation von B- und T-Zellen“, welches ist das Schicksal einer aktivierten B- oder T-Zelle, die erfolgreich einem Antigen-Epitop entspricht?",
+      "ja": "「B細胞とT細胞の増殖」のセクションによると、抗原エピトープと正常に一致した活性化B細胞またはT細胞の運命は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It immediately undergoes apoptosis to prevent overreaction.",
+          "zh": "它立即 undergoes 细胞凋亡以防止过度反应。",
+          "es": "Inmediatamente sufre apoptosis para prevenir una sobrerreacción.",
+          "fr": "Il subit immédiatement l'apoptose pour éviter une réaction excessive.",
+          "de": "Es unterliegt sofort der Apoptose, um eine Überreaktion zu verhindern.",
+          "ja": "過剰な反応を防ぐために直ちにアポトーシスを起こします。"
+        },
+        "feedback": {
+          "en": "Apoptosis is for self-reactive cells, not activated cells.",
+          "zh": "细胞凋亡是针对自身反应性细胞，而非活化细胞。",
+          "es": "La apoptosis es para células autorreactivas, no para células activadas.",
+          "fr": "L'apoptose est destinée aux cellules auto-réactives, pas aux cellules activées.",
+          "de": "Apoptose ist für selbst-reaktive Zellen, nicht für aktivierte Zellen.",
+          "ja": "アポトーシスは自己反応性細胞のためのものであり、活性化細胞のためではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It undergoes multiple cell divisions to form a clone, some of which become short-lived effector cells.",
+          "zh": "它经历多次细胞分裂形成一个克隆，其中一些成为短寿命的效应细胞。",
+          "es": "Sufre múltiples divisiones celulares para formar un clon, algunas de las cuales se convierten en células efectoras de vida corta.",
+          "fr": "Il subit de multiples divisions cellulaires pour former un clone, dont certaines deviennent des cellules effectrices de courte durée de vie.",
+          "de": "Es durchläuft mehrere Zellteilungen, um einen Klon zu bilden, von denen einige zu kurzlebigen Effektor-Zellen werden.",
+          "ja": "複数回の細胞分裂を経てクローンを形成し、その一部は短命なエフェクター細胞になります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It transforms into a different type of immune cell, such as a macrophage.",
+          "zh": "它转化为不同类型的免疫细胞，例如巨噬细胞。",
+          "es": "Se transforma en un tipo diferente de célula inmune, como un macrófago.",
+          "fr": "Il se transforme en un type différent de cellule immunitaire, comme un macrophage.",
+          "de": "Es verwandelt sich in einen anderen Typ von Immunzelle, wie einen Makrophagen.",
+          "ja": "マクロファージのような異なる種類の免疫細胞に変形します。"
+        },
+        "feedback": {
+          "en": "It proliferates into a clone of itself, not transforms into a different cell type.",
+          "zh": "它增殖形成自身克隆，而不是转化为不同细胞类型。",
+          "es": "Prolifera en un clon de sí misma, no se transforma en un tipo de célula diferente.",
+          "fr": "Il prolifère pour former un clone de lui-même, il ne se transforme pas en un type de cellule différent.",
+          "de": "Es proliferiert zu einem eigenen Klon, nicht zu einem anderen Zelltyp.",
+          "ja": "異なる細胞タイプに変換するのではなく、自身のクローンに増殖します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It migrates directly to the bone marrow for further maturation.",
+          "zh": "它直接迁移到骨髓进行进一步成熟。",
+          "es": "Migra directamente a la médula ósea para una mayor maduración.",
+          "fr": "Il migre directement vers la moelle osseuse pour une maturation ultérieure.",
+          "de": "Es wandert direkt ins Knochenmark zur weiteren Reifung.",
+          "ja": "さらなる成熟のために直接骨髄に移動します。"
+        },
+        "feedback": {
+          "en": "Maturation happens before activation; activated cells proliferate and differentiate into effector/memory cells.",
+          "zh": "成熟发生在活化之前；活化细胞会增殖并分化为效应/记忆细胞。",
+          "es": "La maduración ocurre antes de la activación; las células activadas proliferan y se diferencian en células efectoras/de memoria.",
+          "fr": "La maturation se produit avant l'activation ; les cellules activées prolifèrent et se différencient en cellules effectrices/mémoire.",
+          "de": "Reifung findet vor der Aktivierung statt; aktivierte Zellen proliferieren und differenzieren sich zu Effektor-/Gedächtniszellen.",
+          "ja": "成熟は活性化の前に起こります。活性化された細胞は増殖し、エフェクター細胞や記憶細胞に分化します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: \"Once activated, a B cell or T cell undergoes multiple cell divisions. For each activated cell, the result of this proliferation is a clone, a population of cells that are identical to the original cell. Some cells from this clone become effector cells, mostly short-lived cells that take effect immediately against the antigen and any pathogens producing that antigen.\"",
+      "zh": "文本指出：“一旦活化，B细胞或T细胞会进行多次细胞分裂。对于每个活化细胞，这种增殖的结果是一个克隆，即与原始细胞相同的细胞群。这个克隆中的一些细胞会成为效应细胞，它们大多是短寿命细胞，立即对产生该抗原的抗原和任何病原体产生作用。”",
+      "es": "El texto dice: \"Una vez activada, una célula B o T sufre múltiples divisiones celulares. Para cada célula activada, el resultado de esta proliferación es un clon, una población de células idénticas a la célula original. Algunas células de este clon se convierten en células efectoras, en su mayoría de vida corta, que actúan inmediatamente contra el antígeno y cualquier patógeno que produzca ese antígeno.\"",
+      "fr": "Le texte indique : « Une fois activée, une cellule B ou T subit de multiples divisions cellulaires. Pour chaque cellule activée, le résultat de cette prolifération est un clone, une population de cellules identiques à la cellule originale. Certaines cellules de ce clone deviennent des cellules effectrices, principalement des cellules de courte durée de vie qui agissent immédiatement contre l'antigène et tout agent pathogène produisant cet antigène. »",
+      "de": "Der Text besagt: „Einmal aktiviert, durchläuft eine B- oder T-Zelle mehrere Zellteilungen. Für jede aktivierte Zelle ist das Ergebnis dieser Proliferation ein Klon, eine Population von Zellen, die mit der Originalzelle identisch sind. Einige Zellen aus diesem Klon werden zu Effektor-Zellen, meist kurzlebige Zellen, die sofort gegen das Antigen und alle Pathogene, die dieses Antigen produzieren, wirken.“",
+      "ja": "本文には「一度活性化されると、B細胞またはT細胞は複数回の細胞分裂を起こします。活性化された各細胞について、この増殖の結果はクローンであり、元の細胞と同一の細胞集団です。このクローンから一部の細胞はエフェクター細胞になり、これらは主に短命な細胞で、抗原とその抗原を産生する病原体に対して直ちに作用します。」と記載されています。"
+    }
+  }
+]

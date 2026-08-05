@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 398,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes the function and mechanism of aminoacyl-tRNA synthetases?",
+      "zh": "以下哪项陈述准确描述了氨酰-tRNA合成酶的功能和机制？",
+      "es": "De las siguientes afirmaciones, ¿cuál describe con precisión la función y el mecanismo de las aminoacil-tRNA sintetasas?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision la fonction et le mécanisme des aminoacyl-ARNt synthétases ?",
+      "de": "Welche der folgenden Aussagen beschreibt die Funktion und den Mechanismus von Aminoacyl-tRNA-Synthetasen genau?",
+      "ja": "次の記述のうち、アミノアシルtRNA合成酵素の機能とメカニズムを正確に記述しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "These enzymes form peptide bonds between amino acids and growing polypeptide chains on the ribosome.",
+          "zh": "这些酶在核糖体上形成氨基酸与生长中的多肽链之间的肽键。",
+          "es": "Estas enzimas forman enlaces peptídicos entre aminoácidos y cadenas polipeptídicas en crecimiento en el ribosoma.",
+          "fr": "Ces enzymes forment des liaisons peptidiques entre les acides aminés et les chaînes polypeptidiques en croissance sur le ribosome.",
+          "de": "Diese Enzyme bilden Peptidbindungen zwischen Aminosäuren und wachsenden Polypeptidketten am Ribosom.",
+          "ja": "これらの酵素は、リボソーム上でアミノ酸と成長するポリペプチド鎖の間にペプチド結合を形成します。"
+        },
+        "feedback": {
+          "en": "Peptide bond formation is catalyzed by the ribosome, not aminoacyl-tRNA synthetases.",
+          "zh": "肽键形成是由核糖体催化的，而不是氨酰-tRNA合成酶。",
+          "es": "La formación de enlaces peptídicos es catalizada por el ribosoma, no por las aminoacil-tRNA sintetasas.",
+          "fr": "La formation des liaisons peptidiques est catalysée par le ribosome, et non par les aminoacyl-ARNt synthétases.",
+          "de": "Die Peptidbindungsbildung wird vom Ribosom katalysiert, nicht von Aminoacyl-tRNA-Synthetasen.",
+          "ja": "ペプチド結合の形成は、アミノアシルtRNA合成酵素ではなく、リボソームによって触媒されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They catalyze the covalent attachment of an amino acid to its specific tRNA, a process that requires ATP hydrolysis.",
+          "zh": "它们催化氨基酸与其特定tRNA的共价连接，这是一个需要ATP水解的过程。",
+          "es": "Catalizan la unión covalente de un aminoácido a su tRNA específico, un proceso que requiere hidrólisis de ATP.",
+          "fr": "Elles catalysent la liaison covalente d'un acide aminé à son ARNt spécifique, un processus qui nécessite l'hydrolyse de l'ATP.",
+          "de": "Sie katalysieren die kovalente Bindung einer Aminosäure an ihre spezifische tRNA, ein Prozess, der ATP-Hydrolyse erfordert.",
+          "ja": "それらはアミノ酸と特定のtRNAの共有結合を触媒します。これはATP加水分解を必要とするプロセスです。"
+        },
+        "feedback": {
+          "en": "This is correct. Aminoacyl-tRNA synthetases are crucial for 'charging' tRNAs with their correct amino acids, using ATP as an energy source.",
+          "zh": "这是正确的。氨酰-tRNA合成酶对于将tRNA与正确的氨基酸“充电”至关重要，并使用ATP作为能量来源。",
+          "es": "Esto es correcto. Las aminoacil-tRNA sintetasas son cruciales para 'cargar' los tRNAs con sus aminoácidos correctos, utilizando ATP como fuente de energía.",
+          "fr": "C'est exact. Les aminoacyl-ARNt synthétases sont cruciales pour « charger » les ARNt avec leurs acides aminés corrects, en utilisant l'ATP comme source d'énergie.",
+          "de": "Das ist richtig. Aminoacyl-tRNA-Synthetasen sind entscheidend, um tRNAs mit ihren korrekten Aminosäuren zu „beladen“, wobei ATP als Energiequelle genutzt wird.",
+          "ja": "これは正しいです。アミノアシルtRNA合成酵素は、ATPをエネルギー源として使用し、tRNAを正しいアミノ酸で「充電」するために不可欠です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Aminoacyl-tRNA synthetases read mRNA codons and recruit the corresponding tRNAs to the ribosome.",
+          "zh": "氨酰-tRNA合成酶读取mRNA密码子并将相应的tRNA招募到核糖体上。",
+          "es": "Las aminoacil-tRNA sintetasas leen los codones de mRNA y reclutan los tRNAs correspondientes al ribosoma.",
+          "fr": "Les aminoacyl-ARNt synthétases lisent les codons de l'ARNm et recrutent les ARNt correspondants vers le ribosome.",
+          "de": "Aminoacyl-tRNA-Synthetasen lesen mRNA-Codons und rekrutieren die entsprechenden tRNAs an das Ribosom.",
+          "ja": "アミノアシルtRNA合成酵素はmRNAコドンを読み取り、対応するtRNAをリボソームに動員します。"
+        },
+        "feedback": {
+          "en": "tRNAs, not synthetases, read mRNA codons. The ribosome facilitates the recruitment and binding.",
+          "zh": "是tRNA而不是合成酶读取mRNA密码子。核糖体促进招募和结合。",
+          "es": "Los tRNAs, no las sintetasas, leen los codones de mRNA. El ribosoma facilita el reclutamiento y la unión.",
+          "fr": "Les ARNt, et non les synthétases, lisent les codons de l'ARNm. Le ribosome facilite le recrutement et la liaison.",
+          "de": "tRNAs, nicht Synthetasen, lesen mRNA-Codons. Das Ribosom erleichtert die Rekrutierung und Bindung.",
+          "ja": "合成酵素ではなくtRNAがmRNAコドンを読み取ります。リボソームが動員と結合を促進します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Each aminoacyl-tRNA synthetase is responsible for attaching all 61 types of tRNAs to their respective amino acids.",
+          "zh": "每种氨酰-tRNA合成酶负责将所有61种tRNA连接到其各自的氨基酸上。",
+          "es": "Cada aminoacil-tRNA sintetasa es responsable de unir los 61 tipos de tRNAs a sus respectivos aminoácidos.",
+          "fr": "Chaque aminoacyl-ARNt synthétase est responsable de la fixation des 61 types d'ARNt à leurs acides aminés respectifs.",
+          "de": "Jede Aminoacyl-tRNA-Synthetase ist für die Bindung aller 61 tRNA-Typen an ihre jeweiligen Aminosäuren verantwortlich.",
+          "ja": "各アミノアシルtRNA合成酵素は、すべての61種類のtRNAをそれぞれの特定のアミノ酸に結合させる役割を担っています。"
+        },
+        "feedback": {
+          "en": "There are 20 different synthetases, one for each amino acid, not one synthetase for all tRNA types. One synthetase can bind to different tRNAs for its particular amino acid.",
+          "zh": "有20种不同的合成酶，每种氨基酸对应一种，而不是一种合成酶对应所有tRNA类型。一种合成酶可以结合其特定氨基酸的不同tRNA。",
+          "es": "Hay 20 sintetasas diferentes, una para cada aminoácido, no una sintetasa para todos los tipos de tRNA. Una sintetasa puede unirse a diferentes tRNAs para su aminoácido particular.",
+          "fr": "Il existe 20 synthétases différentes, une pour chaque acide aminé, et non une seule synthétase pour tous les types d'ARNt. Une synthétase peut se lier à différents ARNt pour son acide aminé particulier.",
+          "de": "Es gibt 20 verschiedene Synthetasen, eine für jede Aminosäure, nicht eine Synthetase für alle tRNA-Typen. Eine Synthetase kann an verschiedene tRNAs für ihre bestimmte Aminosäure binden.",
+          "ja": "異なる20種類の合成酵素があり、それぞれのアミノ酸に1つずつ対応しており、すべてのtRNAタイプに1つの合成酵素が対応しているわけではありません。1つの合成酵素は、特定の異なるtRNAを結合させることができます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Aminoacyl-tRNA synthetases are a family of enzymes responsible for accurately matching up tRNAs with their corresponding amino acids. They catalyze the covalent attachment of an amino acid to its specific tRNA, a process that is endergonic and driven by the hydrolysis of ATP.",
+      "zh": "氨酰-tRNA合成酶是一类负责将tRNA与其相应的氨基酸准确配对的酶。它们催化氨基酸与其特定tRNA的共价连接，这是一个吸能过程，由ATP的水解驱动。",
+      "es": "Las aminoacil-tRNA sintetasas son una familia de enzimas responsables de emparejar con precisión los tRNAs con sus aminoácidos correspondientes. Catalizan la unión covalente de un aminoácido a su tRNA específico, un proceso endergónico impulsado por la hidrólisis de ATP.",
+      "fr": "Les aminoacyl-ARNt synthétases sont une famille d'enzymes responsables de l'appariement précis des ARNt avec leurs acides aminés correspondants. Elles catalysent la liaison covalente d'un acide aminé à son ARNt spécifique, un processus endergonique entraîné par l'hydrolyse de l'ATP.",
+      "de": "Aminoacyl-tRNA-Synthetasen sind eine Familie von Enzymen, die für die genaue Zuordnung von tRNAs zu ihren entsprechenden Aminosäuren verantwortlich sind. Sie katalysieren die kovalente Bindung einer Aminosäure an ihre spezifische tRNA, ein endergoner Prozess, der durch die Hydrolyse von ATP angetrieben wird.",
+      "ja": "アミノアシルtRNA合成酵素は、tRNAとそれに対応するアミノ酸を正確に結合させる役割を担う酵素ファミリーです。これらはアミノ酸と特定のtRNAの共有結合を触媒し、このプロセスはATPの加水分解によって駆動される吸エルゴン反応です。"
+    }
+  },
+  {
+    "page_number": 398,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 17.17, which event immediately follows the entry of the amino acid and tRNA into the active site of the synthetase during the formation of a charged tRNA?",
+      "zh": "根据图17.17，在带电tRNA形成过程中，氨基酸和tRNA进入合成酶活性位点后立即发生哪个事件？",
+      "es": "Según la Figura 17.17, ¿qué evento sigue inmediatamente a la entrada del aminoácido y el tRNA en el sitio activo de la sintetasa durante la formación de un tRNA cargado?",
+      "fr": "Selon la figure 17.17, quel événement suit immédiatement l'entrée de l'acide aminé et de l'ARNt dans le site actif de la synthétase lors de la formation d'un ARNt chargé ?",
+      "de": "Laut Abbildung 17.17, welches Ereignis folgt unmittelbar auf den Eintritt der Aminosäure und tRNA in das aktive Zentrum der Synthetase während der Bildung einer beladenen tRNA?",
+      "ja": "図17.17によると、アミノ酸とtRNAが合成酵素の活性部位に入った後、荷電tRNAが形成される過程で、次に何が起こりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The charged tRNA is released from the synthetase.",
+          "zh": "带电tRNA从合成酶中释放。",
+          "es": "El tRNA cargado es liberado de la sintetasa.",
+          "fr": "L'ARNt chargé est libéré de la synthétase.",
+          "de": "Die beladene tRNA wird aus der Synthetase freigesetzt.",
+          "ja": "荷電tRNAが合成酵素から放出されます。"
+        },
+        "feedback": {
+          "en": "This is the final step in the process (Step 3), occurring after the covalent bonding.",
+          "zh": "这是该过程的最后一步（步骤3），发生在共价键形成之后。",
+          "es": "Este es el paso final del proceso (Paso 3), que ocurre después de la unión covalente.",
+          "fr": "C'est la dernière étape du processus (Étape 3), qui se produit après la liaison covalente.",
+          "de": "Dies ist der letzte Schritt im Prozess (Schritt 3), der nach der kovalenten Bindung erfolgt.",
+          "ja": "これはプロセス（ステップ3）の最終段階であり、共有結合の後に発生します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The synthetase catalyzes the covalent bonding of the amino acid to its specific tRNA, using ATP.",
+          "zh": "合成酶催化氨基酸与其特定tRNA的共价连接，并使用ATP。",
+          "es": "La sintetasa cataliza la unión covalente del aminoácido a su tRNA específico, utilizando ATP.",
+          "fr": "La synthétase catalyse la liaison covalente de l'acide aminé à son ARNt spécifique, en utilisant l'ATP.",
+          "de": "Die Synthetase katalysiert die kovalente Bindung der Aminosäure an ihre spezifische tRNA unter Verwendung von ATP.",
+          "ja": "合成酵素は、ATPを使用してアミノ酸を特定のtRNAに共有結合させます。"
+        },
+        "feedback": {
+          "en": "This is correct. As depicted in Figure 17.17, Step 2 immediately follows Step 1 (entry into active site).",
+          "zh": "这是正确的。如图17.17所示，步骤2紧随步骤1（进入活性位点）之后。",
+          "es": "Esto es correcto. Como se muestra en la Figura 17.17, el Paso 2 sigue inmediatamente al Paso 1 (entrada al sitio activo).",
+          "fr": "C'est exact. Comme le montre la Figure 17.17, l'étape 2 suit immédiatement l'étape 1 (entrée dans le site actif).",
+          "de": "Das ist richtig. Wie in Abbildung 17.17 dargestellt, folgt Schritt 2 unmittelbar auf Schritt 1 (Eintritt in das aktive Zentrum).",
+          "ja": "これは正しいです。図17.17に示されているように、ステップ2はステップ1（活性部位への侵入）の直後に続きます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The tRNA anticodon binds to the mRNA codon.",
+          "zh": "tRNA反密码子与mRNA密码子结合。",
+          "es": "El anticodón del tRNA se une al codón del mRNA.",
+          "fr": "L'anticodon de l'ARNt se lie au codon de l'ARNm.",
+          "de": "Das tRNA-Anticodon bindet an das mRNA-Codon.",
+          "ja": "tRNAアンチコドンがmRNAコドンに結合します。"
+        },
+        "feedback": {
+          "en": "This event occurs later in translation, when the charged tRNA is delivered to the ribosome, not during the charging process by the synthetase.",
+          "zh": "此事件发生在翻译后期，即带电tRNA被运送到核糖体时，而不是在合成酶充电过程中。",
+          "es": "Este evento ocurre más tarde en la traducción, cuando el tRNA cargado es entregado al ribosoma, no durante el proceso de carga por la sintetasa.",
+          "fr": "Cet événement se produit plus tard dans la traduction, lorsque l'ARNt chargé est livré au ribosome, et non pendant le processus de chargement par la synthétase.",
+          "de": "Dieses Ereignis tritt später in der Translation auf, wenn die beladene tRNA an das Ribosom geliefert wird, nicht während des Beladungsprozesses durch die Synthetase.",
+          "ja": "このイベントは翻訳の後期、すなわち荷電tRNAがリボソームに送達されるときに発生し、合成酵素による充電プロセス中ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The amino acid detaches from the tRNA.",
+          "zh": "氨基酸从tRNA上脱离。",
+          "es": "El aminoácido se desprende del tRNA.",
+          "fr": "L'acide aminé se détache de l'ARNt.",
+          "de": "Die Aminosäure löst sich von der tRNA.",
+          "ja": "アミノ酸がtRNAから離れます。"
+        },
+        "feedback": {
+          "en": "The purpose of this process is to attach the amino acid to the tRNA, not detach it.",
+          "zh": "这个过程的目的是将氨基酸连接到tRNA上，而不是使其脱离。",
+          "es": "El propósito de este proceso es unir el aminoácido al tRNA, no desprenderlo.",
+          "fr": "Le but de ce processus est de fixer l'acide aminé à l'ARNt, et non de le détacher.",
+          "de": "Der Zweck dieses Prozesses ist es, die Aminosäure an die tRNA zu binden, nicht sie abzulösen.",
+          "ja": "このプロセスの目的は、アミノ酸をtRNAに結合させることであり、分離させることではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 17.17 illustrates the three main steps of aminoacyl-tRNA synthesis. Step 1 is the entry of the amino acid and tRNA into the active site. Immediately following this, Step 2 shows the synthetase catalyzing the covalent bonding of the amino acid to its specific tRNA, powered by ATP.",
+      "zh": "图17.17展示了氨酰-tRNA合成的三个主要步骤。步骤1是氨基酸和tRNA进入活性位点。紧接着，步骤2显示合成酶在ATP的驱动下催化氨基酸与其特定tRNA的共价连接。",
+      "es": "La Figura 17.17 ilustra los tres pasos principales de la síntesis de aminoacil-tRNA. El Paso 1 es la entrada del aminoácido y el tRNA al sitio activo. Inmediatamente después de esto, el Paso 2 muestra la sintetasa catalizando la unión covalente del aminoácido a su tRNA específico, impulsado por ATP.",
+      "fr": "La figure 17.17 illustre les trois étapes principales de la synthèse des aminoacyl-ARNt. L'étape 1 est l'entrée de l'acide aminé et de l'ARNt dans le site actif. Immédiatement après, l'étape 2 montre la synthétase catalysant la liaison covalente de l'acide aminé à son ARNt spécifique, alimentée par l'ATP.",
+      "de": "Abbildung 17.17 veranschaulicht die drei Hauptschritte der Aminoacyl-tRNA-Synthese. Schritt 1 ist der Eintritt der Aminosäure und tRNA in das aktive Zentrum. Unmittelbar darauf folgt Schritt 2, der zeigt, wie die Synthetase die kovalente Bindung der Aminosäure an ihre spezifische tRNA unter ATP-Verbrauch katalysiert.",
+      "ja": "図17.17は、アミノアシルtRNA合成の3つの主要なステップを示しています。ステップ1はアミノ酸とtRNAが活性部位に入ることであり、これに続いてステップ2では、ATPを動力源として合成酵素がアミノ酸を特定のtRNAに共有結合させることを触媒します。"
+    }
+  },
+  {
+    "page_number": 398,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The wobble hypothesis describes the flexible base pairing between the third nucleotide base of a codon and the corresponding base of a tRNA anticodon. What is the primary implication of this phenomenon?",
+      "zh": "摆动假说描述了密码子第三个核苷酸碱基与tRNA反密码子相应碱基之间灵活的碱基配对。这种现象的主要含义是什么？",
+      "es": "La hipótesis del tambaleo describe el apareamiento flexible de bases entre la tercera base nucleotídica de un codón y la base correspondiente de un anticodón de tRNA. ¿Cuál es la implicación principal de este fenómeno?",
+      "fr": "L'hypothèse du vacillement décrit l'appariement flexible des bases entre le troisième nucléotide d'un codon et la base correspondante d'un anticodon d'ARNt. Quelle est l'implication principale de ce phénomène ?",
+      "de": "Die Wobble-Hypothese beschreibt die flexible Basenpaarung zwischen der dritten Nukleotidbase eines Codons und der entsprechenden Base eines tRNA-Anticodons. Was ist die primäre Implikation dieses Phänomens?",
+      "ja": "ウォブル仮説は、コドンの3番目のヌクレオチド塩基とtRNAアンチコドンの対応する塩基との間の柔軟な塩基対形成を説明しています。この現象の主な意味は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It allows a single tRNA to bind to multiple amino acids.",
+          "zh": "它允许单个tRNA与多个氨基酸结合。",
+          "es": "Permite que un solo tRNA se una a múltiples aminoácidos.",
+          "fr": "Cela permet à un seul ARNt de se lier à plusieurs acides aminés.",
+          "de": "Es ermöglicht einer einzelnen tRNA, an mehrere Aminosäuren zu binden.",
+          "ja": "これにより、単一のtRNAが複数のアミノ酸に結合することができます。"
+        },
+        "feedback": {
+          "en": "Each tRNA carries only one specific type of amino acid. Wobble allows a single tRNA to recognize multiple codons for that same amino acid.",
+          "zh": "每个tRNA只携带一种特定类型的氨基酸。摆动允许单个tRNA识别该相同氨基酸的多个密码子。",
+          "es": "Cada tRNA transporta solo un tipo específico de aminoácido. El tambaleo permite que un solo tRNA reconozca múltiples codones para el mismo aminoácido.",
+          "fr": "Chaque ARNt ne transporte qu'un seul type spécifique d'acide aminé. Le vacillement permet à un seul ARNt de reconnaître plusieurs codons pour ce même acide aminé.",
+          "de": "Jede tRNA trägt nur eine spezifische Art von Aminosäure. Wobble ermöglicht es einer einzelnen tRNA, mehrere Codons für dieselbe Aminosäure zu erkennen.",
+          "ja": "各tRNAは1種類の特定のアミノ酸のみを運びます。ウォブルは、単一のtRNAがその同じアミノ酸に対する複数のコドンを認識することを可能にします。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It reduces the total number of unique tRNA molecules required for translation.",
+          "zh": "它减少了翻译所需的独特tRNA分子总数。",
+          "es": "Reduce el número total de moléculas de tRNA únicas requeridas para la traducción.",
+          "fr": "Cela réduit le nombre total de molécules d'ARNt uniques nécessaires à la traduction.",
+          "de": "Es reduziert die Gesamtzahl der für die Translation benötigten einzigartigen tRNA-Moleküle.",
+          "ja": "これにより、翻訳に必要な独特のtRNA分子の総数が減少します。"
+        },
+        "feedback": {
+          "en": "This is correct. The text states that while 61 tRNAs would be needed if each codon had a unique tRNA, only about 45 tRNAs exist in bacteria due to wobble.",
+          "zh": "这是正确的。文本指出，如果每个密码子都有一个独特的tRNA，则需要61个tRNA，但由于摆动效应，细菌中只有大约45个tRNA。",
+          "es": "Esto es correcto. El texto afirma que si bien se necesitarían 61 tRNAs si cada codón tuviera un tRNA único, solo existen alrededor de 45 tRNAs en bacterias debido al tambaleo.",
+          "fr": "C'est exact. Le texte indique que bien que 61 ARNt seraient nécessaires si chaque codon avait un ARNt unique, seulement environ 45 ARNt existent chez les bactéries en raison du vacillement.",
+          "de": "Das ist richtig. Der Text besagt, dass, obwohl 61 tRNAs benötigt würden, wenn jedes Codon eine einzigartige tRNA hätte, in Bakterien aufgrund des Wobbles nur etwa 45 tRNAs existieren.",
+          "ja": "これは正しいです。テキストには、各コドンに固有のtRNAがあれば61個のtRNAが必要であると記載されていますが、ウォブルにより細菌には約45個のtRNAしか存在しません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It increases the specificity of codon-anticodon recognition.",
+          "zh": "它增加了密码子-反密码子识别的特异性。",
+          "es": "Aumenta la especificidad del reconocimiento codón-anticodón.",
+          "fr": "Cela augmente la spécificité de la reconnaissance codon-anticodon.",
+          "de": "Es erhöht die Spezifität der Codon-Anticodon-Erkennung.",
+          "ja": "コドンとアンチコドンの認識の特異性を高めます。"
+        },
+        "feedback": {
+          "en": "Wobble flexibility effectively decreases the stringency (increases degeneracy) of base pairing at the third position, not increases specificity.",
+          "zh": "摆动灵活性有效地降低了第三位碱基配对的严格性（增加了简并性），而不是增加了特异性。",
+          "es": "La flexibilidad del tambaleo disminuye eficazmente la rigurosidad (aumenta la degeneración) del apareamiento de bases en la tercera posición, no aumenta la especificidad.",
+          "fr": "La flexibilité du vacillement diminue efficacement la rigueur (augmente la dégénérescence) de l'appariement des bases en troisième position, et non l'augmentation de la spécificité.",
+          "de": "Die Wobble-Flexibilität verringert effektiv die Stringenz (erhöht die Degeneration) der Basenpaarung an der dritten Position, nicht die Spezifität.",
+          "ja": "ウォブルの柔軟性は、3番目の位置での塩基対形成の厳密性（縮重）を効果的に低下させ、特異性を高めるものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It ensures that each mRNA codon has a unique tRNA dedicated to it.",
+          "zh": "它确保每个mRNA密码子都有一个专门为其服务的独特tRNA。",
+          "es": "Asegura que cada codón de mRNA tenga un tRNA único dedicado a él.",
+          "fr": "Cela garantit que chaque codon ARNm a un ARNt unique qui lui est dédié.",
+          "de": "Es stellt sicher, dass jedes mRNA-Codon eine einzigartige, dafür vorgesehene tRNA hat.",
+          "ja": "これにより、各mRNAコドンにはそれに特化したユニークなtRNAが存在することが保証されます。"
+        },
+        "feedback": {
+          "en": "This is the opposite of the wobble hypothesis's implication. Wobble allows one tRNA to recognize multiple codons.",
+          "zh": "这与摆动假说的含义相反。摆动允许一个tRNA识别多个密码子。",
+          "es": "Esto es lo contrario de la implicación de la hipótesis del tambaleo. El tambaleo permite que un tRNA reconozca múltiples codones.",
+          "fr": "C'est l'opposé de l'implication de l'hypothèse du vacillement. Le vacillement permet à un ARNt de reconnaître plusieurs codons.",
+          "de": "Dies ist das Gegenteil der Implikation der Wobble-Hypothese. Wobble ermöglicht es einer tRNA, mehrere Codons zu erkennen.",
+          "ja": "これはウォブル仮説の意味と正反対です。ウォブルは、1つのtRNAが複数のコドンを認識することを可能にします。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The wobble hypothesis explains why there are fewer tRNAs than the theoretical number of codons (61 sense codons). Due to relaxed base pairing rules at the third position of the codon and the first position of the anticodon, a single tRNA can recognize multiple synonymous codons, thus reducing the total number of distinct tRNA molecules required for protein synthesis.",
+      "zh": "摆动假说解释了为什么tRNA的数量少于理论上的密码子数量（61个有义密码子）。由于密码子第三位和反密码子第一位碱基配对规则的放松，单个tRNA可以识别多个同义密码子，从而减少了蛋白质合成所需的独特tRNA分子总数。",
+      "es": "La hipótesis del tambaleo explica por qué hay menos tRNAs que el número teórico de codones (61 codones con sentido). Debido a las reglas de apareamiento de bases relajadas en la tercera posición del codón y la primera posición del anticodón, un solo tRNA puede reconocer múltiples codones sinónimos, reduciendo así el número total de moléculas de tRNA distintas necesarias para la síntesis de proteínas.",
+      "fr": "L'hypothèse du vacillement explique pourquoi il y a moins d'ARNt que le nombre théorique de codons (61 codons sens). En raison des règles d'appariement des bases assouplies à la troisième position du codon et à la première position de l'anticodon, un seul ARNt peut reconnaître plusieurs codons synonymes, réduisant ainsi le nombre total de molécules d'ARNt distinctes nécessaires à la synthèse des protéines.",
+      "de": "Die Wobble-Hypothese erklärt, warum es weniger tRNAs gibt als die theoretische Anzahl von Codons (61 Sense-Codons). Aufgrund der gelockerten Basenpaarungsregeln an der dritten Position des Codons und der ersten Position des Anticodons kann eine einzelne tRNA mehrere synonyme Codons erkennen, wodurch die Gesamtzahl der für die Proteinsynthese benötigten unterschiedlichen tRNA-Moleküle reduziert wird.",
+      "ja": "ウォブル仮説は、理論上のコドン数（61個のセンスコドン）よりもtRNAの数が少ない理由を説明しています。コドンの3番目の位置とアンチコドンの1番目の位置での塩基対形成の規則が緩いため、1つのtRNAが複数の同義コドンを認識することができ、それによってタンパク質合成に必要な異なるtRNA分子の総数が減少します。"
+    }
+  },
+  {
+    "page_number": 398,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text states that certain antibiotic drugs, such as tetracycline and streptomycin, can inactivate bacterial ribosomes without affecting eukaryotic ribosomes. This differential effect is medically significant because:",
+      "zh": "文本指出，某些抗生素药物，如四环素和链霉素，可以灭活细菌核糖体而不影响真核核糖体。这种差异效应在医学上具有重要意义，因为：",
+      "es": "El texto afirma que ciertos medicamentos antibióticos, como la tetraciclina y la estreptomicina, pueden inactivar los ribosomas bacterianos sin afectar los ribosomas eucariotas. Este efecto diferencial es médicamente significativo porque:",
+      "fr": "Le texte indique que certains antibiotiques, tels que la tétracycline et la streptomycine, peuvent inactiver les ribosomes bactériens sans affecter les ribosomes eucaryotes. Cet effet différentiel est médicalement significatif car :",
+      "de": "Der Text besagt, dass bestimmte Antibiotika, wie Tetracyclin und Streptomycin, bakterielle Ribosomen inaktivieren können, ohne eukaryotische Ribosomen zu beeinflussen. Dieser unterschiedliche Effekt ist medizinisch bedeutsam, weil:",
+      "ja": "本文によると、テトラサイクリンやストレプトマイシンなどの特定の抗生物質は、真核生物のリボソームに影響を与えずに細菌のリボソームを不活化することができます。この差異効果は医学的に重要です。その理由は次のとおりです。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It indicates that bacterial ribosomes are structurally identical to eukaryotic ribosomes, allowing broad-spectrum treatment.",
+          "zh": "这表明细菌核糖体与真核核糖体结构相同，允许广谱治疗。",
+          "es": "Indica que los ribosomas bacterianos son estructuralmente idénticos a los ribosomas eucariotas, lo que permite un tratamiento de amplio espectro.",
+          "fr": "Cela indique que les ribosomes bactériens sont structurellement identiques aux ribosomes eucaryotes, permettant un traitement à large spectre.",
+          "de": "Es deutet darauf hin, dass bakterielle Ribosomen strukturell identisch mit eukaryotischen Ribosomen sind, was eine Breitbandbehandlung ermöglicht.",
+          "ja": "これは、細菌のリボソームが真核生物のリボソームと構造的に同一であることを示しており、広範囲な治療を可能にします。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that eukaryotic ribosomes 'differ somewhat from bacterial ribosomes in their molecular composition,' which is why the antibiotics are selective.",
+          "zh": "文本明确指出，真核核糖体“在分子组成上与细菌核糖体有所不同”，这就是抗生素具有选择性的原因。",
+          "es": "El texto afirma explícitamente que los ribosomas eucariotas 'difieren algo de los ribosomas bacterianos en su composición molecular', lo que explica por qué los antibióticos son selectivos.",
+          "fr": "Le texte indique explicitement que les ribosomes eucaryotes « diffèrent quelque peu des ribosomes bactériens par leur composition moléculaire », ce qui explique pourquoi les antibiotiques sont sélectifs.",
+          "de": "Der Text besagt ausdrücklich, dass eukaryotische Ribosomen „in ihrer molekularen Zusammensetzung etwas von bakteriellen Ribosomen abweichen“, weshalb die Antibiotika selektiv wirken.",
+          "ja": "本文では、真核生物のリボソームが「分子組成において細菌のリボソームといくらか異なる」と明示されており、それが抗生物質が選択的である理由です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It allows for the specific targeting of bacterial infections in human patients without harming human cells.",
+          "zh": "它允许在不伤害人体细胞的情况下，特异性地针对人体患者的细菌感染。",
+          "es": "Permite el ataque específico de infecciones bacterianas en pacientes humanos sin dañar las células humanas.",
+          "fr": "Cela permet de cibler spécifiquement les infections bactériennes chez les patients humains sans nuire aux cellules humaines.",
+          "de": "Es ermöglicht die gezielte Bekämpfung bakterieller Infektionen bei menschlichen Patienten, ohne menschliche Zellen zu schädigen.",
+          "ja": "これにより、ヒトの細胞を傷つけることなく、ヒト患者における細菌感染症を特異的に標的とすることができます。"
+        },
+        "feedback": {
+          "en": "This is correct. The ability of antibiotics to selectively inactivate bacterial ribosomes due to structural differences is crucial for treating bacterial infections in humans.",
+          "zh": "这是正确的。抗生素由于结构差异而选择性地灭活细菌核糖体的能力，对于治疗人类细菌感染至关重要。",
+          "es": "Esto es correcto. La capacidad de los antibióticos para inactivar selectivamente los ribosomas bacterianos debido a diferencias estructurales es crucial para tratar las infecciones bacterianas en humanos.",
+          "fr": "C'est exact. La capacité des antibiotiques à inactiver sélectivement les ribosomes bactériens en raison de différences structurelles est cruciale pour le traitement des infections bactériennes chez l'homme.",
+          "de": "Das ist richtig. Die Fähigkeit von Antibiotika, bakterielle Ribosomen aufgrund struktureller Unterschiede selektiv zu inaktivieren, ist entscheidend für die Behandlung bakterieller Infektionen beim Menschen.",
+          "ja": "これは正しいです。構造的な違いにより抗生物質が細菌のリボソームを選択的に不活化する能力は、ヒトの細菌感染症の治療において極めて重要です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It proves that bacterial ribosomes are essential for protein synthesis, while eukaryotic ribosomes are not.",
+          "zh": "这证明细菌核糖体对蛋白质合成至关重要，而真核核糖体则不是。",
+          "es": "Demuestra que los ribosomas bacterianos son esenciales para la síntesis de proteínas, mientras que los ribosomas eucariotas no lo son.",
+          "fr": "Cela prouve que les ribosomes bactériens sont essentiels à la synthèse des protéines, tandis que les ribosomes eucaryotes ne le sont pas.",
+          "de": "Es beweist, dass bakterielle Ribosomen für die Proteinsynthese unerlässlich sind, während eukaryotische Ribosomen es nicht sind.",
+          "ja": "これは、細菌のリボソームはタンパク質合成に不可欠であるが、真核生物のリボソームはそうではないことを証明しています。"
+        },
+        "feedback": {
+          "en": "Both bacterial and eukaryotic ribosomes are essential for protein synthesis in their respective organisms. The medical significance lies in the ability to target bacteria specifically.",
+          "zh": "细菌和真核核糖体对其各自生物体的蛋白质合成都至关重要。医学意义在于能够特异性地靶向细菌。",
+          "es": "Tanto los ribosomas bacterianos como los eucariotas son esenciales para la síntesis de proteínas en sus respectivos organismos. La importancia médica radica en la capacidad de atacar específicamente a las bacterias.",
+          "fr": "Les ribosomes bactériens et eucaryotes sont essentiels à la synthèse des protéines dans leurs organismes respectifs. L'importance médicale réside dans la capacité de cibler spécifiquement les bactéries.",
+          "de": "Sowohl bakterielle als auch eukaryotische Ribosomen sind für die Proteinsynthese in ihren jeweiligen Organismen unerlässlich. Die medizinische Bedeutung liegt in der Fähigkeit, Bakterien gezielt anzugreifen.",
+          "ja": "細菌と真核生物のリボソームは、それぞれの生物におけるタンパク質合成に不可欠です。医学的意義は、細菌を特異的に標的とする能力にあります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It suggests that these antibiotics are primarily metabolized by bacterial cells, preventing accumulation in human tissues.",
+          "zh": "这表明这些抗生素主要由细菌细胞代谢，从而防止在人体组织中积累。",
+          "es": "Sugiere que estos antibióticos son metabolizados principalmente por las células bacterianas, previniendo su acumulación en los tejidos humanos.",
+          "fr": "Cela suggère que ces antibiotiques sont principalement métabolisés par les cellules bactériennes, empêchant leur accumulation dans les tissus humains.",
+          "de": "Es deutet darauf hin, dass diese Antibiotika hauptsächlich von bakteriellen Zellen metabolisiert werden, wodurch eine Anreicherung in menschlichem Gewebe verhindert wird.",
+          "ja": "これは、これらの抗生物質が主に細菌細胞によって代謝され、ヒト組織への蓄積を防ぐことを示唆しています。"
+        },
+        "feedback": {
+          "en": "The text does not discuss the metabolism of these antibiotics. It focuses on their differential effect on ribosomes due to structural differences.",
+          "zh": "文本没有讨论这些抗生素的代谢。它侧重于它们因结构差异对核糖体的差异影响。",
+          "es": "El texto no discute el metabolismo de estos antibióticos. Se centra en su efecto diferencial sobre los ribosomas debido a diferencias estructurales.",
+          "fr": "Le texte ne discute pas du métabolisme de ces antibiotiques. Il se concentre sur leur effet différentiel sur les ribosomes en raison de différences structurelles.",
+          "de": "Der Text diskutiert den Metabolismus dieser Antibiotika nicht. Er konzentriert sich auf ihren differenziellen Effekt auf Ribosomen aufgrund struktureller Unterschiede.",
+          "ja": "本文ではこれらの抗生物質の代謝については議論されていません。構造的な違いによるリボソームへの影響の差に焦点が当てられています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The distinct molecular composition and slight size differences between bacterial and eukaryotic ribosomes allow certain antibiotics to selectively bind to and inactivate bacterial ribosomes without affecting the host's (human) ribosomes. This specificity is crucial for effective antibacterial therapy as it minimizes harm to human cells while eliminating the bacterial infection.",
+      "zh": "细菌和真核核糖体之间独特的分子组成和微小的尺寸差异，使得某些抗生素能够选择性地结合并灭活细菌核糖体，而不会影响宿主（人类）的核糖体。这种特异性对于有效的抗菌治疗至关重要，因为它在消除细菌感染的同时，最大限度地减少了对人体细胞的伤害。",
+      "es": "La composición molecular distinta y las ligeras diferencias de tamaño entre los ribosomas bacterianos y eucariotas permiten que ciertos antibióticos se unan selectivamente e inactiven los ribosomas bacterianos sin afectar los ribosomas del huésped (humano). Esta especificidad es crucial para una terapia antibacteriana eficaz, ya que minimiza el daño a las células humanas mientras elimina la infección bacteriana.",
+      "fr": "La composition moléculaire distincte et les légères différences de taille entre les ribosomes bactériens et eucaryotes permettent à certains antibiotiques de se lier sélectivement et d'inactiver les ribosomes bactériens sans affecter les ribosomes de l'hôte (humain). Cette spécificité est cruciale pour une thérapie antibactérienne efficace car elle minimise les dommages aux cellules humaines tout en éliminant l'infection bactérienne.",
+      "de": "Die unterschiedliche molekulare Zusammensetzung und die geringfügigen Größenunterschiede zwischen bakteriellen und eukaryotischen Ribosomen ermöglichen es bestimmten Antibiotika, selektiv an bakterielle Ribosomen zu binden und diese zu inaktivieren, ohne die Ribosomen des Wirts (Mensch) zu beeinträchtigen. Diese Spezifität ist entscheidend für eine wirksame antibakterielle Therapie, da sie die Schädigung menschlicher Zellen minimiert, während die bakterielle Infektion eliminiert wird.",
+      "ja": "細菌と真核生物のリボソーム間の独自の分子組成とわずかなサイズの違いにより、特定の抗生物質は宿主（ヒト）のリボソームに影響を与えることなく、細菌のリボソームに選択的に結合して不活化することができます。この特異性は、細菌感染症を排除しながらヒト細胞への損傷を最小限に抑えるため、効果的な抗菌療法にとって極めて重要です。"
+    }
+  }
+]

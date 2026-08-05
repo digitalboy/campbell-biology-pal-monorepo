@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Why are individuals who are heterozygous (Aa) for a recessively inherited disorder typically phenotypically normal?",
+      "zh": "为什么隐性遗传病的杂合子（Aa）个体通常表型正常？",
+      "es": "¿Por qué los individuos que son heterocigotos (Aa) para un trastorno hereditario recesivo suelen ser fenotípicamente normales?",
+      "fr": "Pourquoi les individus hétérozygotes (Aa) pour une maladie héréditaire récessive sont-ils généralement phénotypiquement normaux ?",
+      "de": "Warum sind Individuen, die für eine rezessiv vererbte Krankheit heterozygot (Aa) sind, typischerweise phänotypisch normal?",
+      "ja": "劣性遺伝性疾患のヘテロ接合体（Aa）である個人は、なぜ通常、表現型が正常なのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Because the recessive allele is masked by the process of epistasis.",
+          "zh": "因为隐性等位基因被上位性过程所掩盖。",
+          "es": "Porque el alelo recesivo está enmascarado por el proceso de epistasis.",
+          "fr": "Parce que l'allèle récessif est masqué par le processus d'épistasie.",
+          "de": "Weil das rezessive Allel durch den Prozess der Epistase maskiert wird.",
+          "ja": "劣性対立遺伝子はエピスタシスのプロセスによって覆い隠されるからです。"
+        },
+        "feedback": {
+          "en": "Epistasis involves one gene masking the effect of another gene at a different locus, which is not the mechanism described here.",
+          "zh": "上位性涉及一个基因掩盖位于不同基因座上的另一个基因的效应，这不是这里描述的机制。",
+          "es": "La epistasis implica que un gen enmascara el efecto de otro gen en un locus diferente, que no es el mecanismo descrito aquí.",
+          "fr": "L'épistasie implique qu'un gène masque l'effet d'un autre gène à un locus différent, ce qui n'est pas le mécanisme décrit ici.",
+          "de": "Epistase beinhaltet, dass ein Gen die Wirkung eines anderen Gens an einem anderen Locus maskiert, was nicht der hier beschriebene Mechanismus ist.",
+          "ja": "エピスタシスは、ある遺伝子が別の遺伝子座にある別の遺伝子の効果を覆い隠すことを含みますが、これはここで説明されているメカニズムではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Because one copy of the normal allele produces a sufficient amount of the specific protein.",
+          "zh": "因为一个正常的等位基因副本就能产生足够量的特定蛋白质。",
+          "es": "Porque una copia del alelo normal produce una cantidad suficiente de la proteína específica.",
+          "fr": "Parce qu'une copie de l'allèle normal produit une quantité suffisante de la protéine spécifique.",
+          "de": "Weil eine Kopie des normalen Allels eine ausreichende Menge des spezifischen Proteins produziert.",
+          "ja": "正常な対立遺伝子の1つのコピーが、特定のタンパク質を十分な量生産するためです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Because they cannot pass the recessive allele to their offspring.",
+          "zh": "因为他们不能将隐性等位基因传给他们的后代。",
+          "es": "Porque no pueden transmitir el alelo recesivo a su descendencia.",
+          "fr": "Parce qu'ils ne peuvent pas transmettre l'allèle récessif à leur descendance.",
+          "de": "Weil sie das rezessive Allel nicht an ihre Nachkommen weitergeben können.",
+          "ja": "彼らは劣性対立遺伝子を子孫に伝えることができないからです。"
+        },
+        "feedback": {
+          "en": "This is incorrect. Heterozygotes are, by definition, carriers who can and do transmit the recessive allele to their offspring.",
+          "zh": "这是不正确的。根据定义，杂合子是携带者，他们可以并且确实会将隐性等位基因传给他们的后代。",
+          "es": "Esto es incorrecto. Los heterocigotos son, por definición, portadores que pueden transmitir y transmiten el alelo recesivo a su descendencia.",
+          "fr": "C'est incorrect. Les hétérozygotes sont, par définition, des porteurs qui peuvent transmettre et transmettent l'allèle récessif à leur descendance.",
+          "de": "Das ist falsch. Heterozygote sind per Definition Träger, die das rezessive Allel an ihre Nachkommen weitergeben können und dies auch tun.",
+          "ja": "これは正しくありません。定義上、ヘテロ接合体は保因者であり、劣性対立遺伝子を子孫に伝えることができます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Because the environment prevents the expression of the recessive allele.",
+          "zh": "因为环境阻止了隐性等位基因的表达。",
+          "es": "Porque el ambiente impide la expresión del alelo recesivo.",
+          "fr": "Parce que l'environnement empêche l'expression de l'allèle récessif.",
+          "de": "Weil die Umwelt die Expression des rezessiven Allels verhindert.",
+          "ja": "環境が劣性対立遺伝子の発現を妨げるからです。"
+        },
+        "feedback": {
+          "en": "The reason is based on gene function (protein production), not direct environmental influence in this context.",
+          "zh": "其原因是基于基因功能（蛋白质生产），而不是在此背景下的直接环境影响。",
+          "es": "La razón se basa en la función del gen (producción de proteínas), no en la influencia ambiental directa en este contexto.",
+          "fr": "La raison est basée sur la fonction du gène (production de protéines), et non sur une influence environnementale directe dans ce contexte.",
+          "de": "Der Grund liegt in der Genfunktion (Proteinproduktion), nicht im direkten Umwelteinfluss in diesem Zusammenhang.",
+          "ja": "その理由は、この文脈では直接的な環境の影響ではなく、遺伝子機能（タンパク質産生）に基づいています。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text explicitly states that in recessive disorders, 'heterozygotes (Aa) typically have the normal phenotype because one copy of the normal allele (A) produces a sufficient amount of the specific protein.' The presence of one functional allele is enough to prevent the disease phenotype from showing.",
+      "zh": "文本明确指出，在隐性遗传病中，“杂合子（Aa）通常具有正常表型，因为一个正常的等位基因（A）副本就能产生足够量的特定蛋白质。” 一个功能性等位基因的存在足以防止疾病表型的出现。",
+      "es": "El texto establece explícitamente que en los trastornos recesivos, 'los heterocigotos (Aa) suelen tener el fenotipo normal porque una copia del alelo normal (A) produce una cantidad suficiente de la proteína específica'. La presencia de un alelo funcional es suficiente para evitar que se manifieste el fenotipo de la enfermedad.",
+      "fr": "Le texte déclare explicitement que dans les maladies récessives, « les hétérozygotes (Aa) ont généralement le phénotype normal parce qu'une copie de l'allèle normal (A) produit une quantité suffisante de la protéine spécifique ». La présence d'un allèle fonctionnel suffit à empêcher l'apparition du phénotype de la maladie.",
+      "de": "Der Text besagt ausdrücklich, dass bei rezessiven Erkrankungen „Heterozygote (Aa) typischerweise den normalen Phänotyp haben, weil eine Kopie des normalen Allels (A) eine ausreichende Menge des spezifischen Proteins produziert.“ Das Vorhandensein eines funktionellen Allels reicht aus, um zu verhindern, dass der Krankheitsphänotyp auftritt.",
+      "ja": "本文では、劣性疾患において、「ヘテロ接合体（Aa）は通常、正常な対立遺伝子（A）の1つのコピーが特定のタンパク質を十分な量生産するため、正常な表現型を持つ」と明確に述べられています。1つの機能的な対立遺伝子の存在は、疾患の表現型が現れるのを防ぐのに十分です。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "According to the Punnett square in Figure 14.16, if two carrier parents (Aa) have a child with a normal phenotype, what is the probability that this child is also a carrier (Aa)?",
+      "zh": "根据图 14.16 的庞尼特方格，如果两个携带者父母（Aa）生了一个表型正常的孩子，那么这个孩子也是携带者（Aa）的概率是多少？",
+      "es": "Según el cuadrado de Punnett de la Figura 14.16, si dos padres portadores (Aa) tienen un hijo con un fenotipo normal, ¿cuál es la probabilidad de que este hijo también sea portador (Aa)?",
+      "fr": "Selon le carré de Punnett de la figure 14.16, si deux parents porteurs (Aa) ont un enfant avec un phénotype normal, quelle est la probabilité que cet enfant soit également porteur (Aa) ?",
+      "de": "Wie hoch ist laut dem Punnett-Quadrat in Abbildung 14.16 die Wahrscheinlichkeit, dass dieses Kind ebenfalls Träger (Aa) ist, wenn zwei Trägereltern (Aa) ein Kind mit einem normalen Phänotyp haben?",
+      "ja": "図14.16のパネットの方形によると、2人の保因者の親（Aa）に正常な表現型の子が生まれた場合、その子が保因者（Aa）である確率はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1/4",
+          "zh": "1/4",
+          "es": "1/4",
+          "fr": "1/4",
+          "de": "1/4",
+          "ja": "1/4"
+        },
+        "feedback": {
+          "en": "This is the probability of having a child with albinism (aa) from this cross.",
+          "zh": "这是此次杂交中生出白化病（aa）孩子的概率。",
+          "es": "Esta es la probabilidad de tener un hijo con albinismo (aa) de este cruce.",
+          "fr": "C'est la probabilité d'avoir un enfant atteint d'albinisme (aa) à partir de ce croisement.",
+          "de": "Dies ist die Wahrscheinlichkeit, aus dieser Kreuzung ein Kind mit Albinismus (aa) zu bekommen.",
+          "ja": "これは、この交配からアルビニズム（aa）の子供が生まれる確率です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "1/2",
+          "zh": "1/2",
+          "es": "1/2",
+          "fr": "1/2",
+          "de": "1/2",
+          "ja": "1/2"
+        },
+        "feedback": {
+          "en": "This is the overall probability of having a heterozygous (Aa) child from the cross, without considering their phenotype first.",
+          "zh": "这是在不首先考虑其表型的情况下，从该杂交中获得杂合（Aa）后代的总概率。",
+          "es": "Esta es la probabilidad general de tener un hijo heterocigoto (Aa) del cruce, sin considerar primero su fenotipo.",
+          "fr": "C'est la probabilité globale d'avoir un enfant hétérozygote (Aa) issu du croisement, sans considérer d'abord son phénotype.",
+          "de": "Dies ist die Gesamtwahrscheinlichkeit, aus der Kreuzung ein heterozygotes (Aa) Kind zu bekommen, ohne zuerst dessen Phänotyp zu berücksichtigen.",
+          "ja": "これは、最初に表現型を考慮せずに、交配からヘテロ接合体（Aa）の子孫を得る全体的な確率です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "2/3",
+          "zh": "2/3",
+          "es": "2/3",
+          "fr": "2/3",
+          "de": "2/3",
+          "ja": "2/3"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "3/4",
+          "zh": "3/4",
+          "es": "3/4",
+          "fr": "3/4",
+          "de": "3/4",
+          "ja": "3/4"
+        },
+        "feedback": {
+          "en": "This is the probability of having a child with a normal phenotype (either AA or Aa).",
+          "zh": "这是生出具有正常表型（AA 或 Aa）的孩子的概率。",
+          "es": "Esta es la probabilidad de tener un hijo con un fenotipo normal (ya sea AA o Aa).",
+          "fr": "C'est la probabilité d'avoir un enfant avec un phénotype normal (soit AA, soit Aa).",
+          "de": "Dies ist die Wahrscheinlichkeit, ein Kind mit einem normalen Phänotyp (entweder AA oder Aa) zu bekommen.",
+          "ja": "これは、正常な表現型（AAまたはAa）の子供が生まれる確率です。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "From the cross Aa x Aa, the offspring genotypes are 1 AA : 2 Aa : 1 aa. The phenotypically normal offspring are the AA and Aa individuals, making a total of 3 possibilities. Among these 3, 2 are heterozygous (Aa). Therefore, the probability of a normal-phenotype child being a carrier is 2/3. The text explicitly states this calculation.",
+      "zh": "从 Aa x Aa 的杂交中，后代的基因型为 1 AA : 2 Aa : 1 aa。表型正常的后代是 AA 和 Aa 个体，总共有 3 种可能性。在这 3 种可能性中，有 2 种是杂合子（Aa）。因此，一个表型正常的孩子是携带者的概率是 2/3。文本明确说明了这一计算过程。",
+      "es": "Del cruce Aa x Aa, los genotipos de la descendencia son 1 AA : 2 Aa : 1 aa. La descendencia fenotípicamente normal son los individuos AA y Aa, lo que hace un total de 3 posibilidades. Entre estas 3, 2 son heterocigotos (Aa). Por lo tanto, la probabilidad de que un niño con fenotipo normal sea portador es de 2/3. El texto establece explícitamente este cálculo.",
+      "fr": "Du croisement Aa x Aa, les génotypes de la descendance sont 1 AA : 2 Aa : 1 aa. La descendance phénotypiquement normale est constituée des individus AA et Aa, ce qui fait un total de 3 possibilités. Parmi ces 3, 2 sont hétérozygotes (Aa). Par conséquent, la probabilité qu'un enfant de phénotype normal soit porteur est de 2/3. Le texte énonce explicitement ce calcul.",
+      "de": "Aus der Kreuzung Aa x Aa ergeben sich die Genotypen der Nachkommen 1 AA : 2 Aa : 1 aa. Die phänotypisch normalen Nachkommen sind die Individuen AA und Aa, was insgesamt 3 Möglichkeiten ergibt. Von diesen 3 sind 2 heterozygot (Aa). Daher beträgt die Wahrscheinlichkeit, dass ein Kind mit normalem Phänotyp Träger ist, 2/3. Der Text gibt diese Berechnung explizit an.",
+      "ja": "Aa x Aaの交配から、子孫の遺伝子型は1 AA：2 Aa：1 aaです。表現型が正常な子孫はAAとAaの個体であり、合計3つの可能性があります。これらの3つのうち、2つはヘテロ接合体（Aa）です。したがって、正常な表現型の子が保因者である確率は2/3です。本文ではこの計算が明示的に述べられています。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Why do consanguineous matings (matings between close relatives) increase the probability of offspring having recessive genetic disorders?",
+      "zh": "为什么近亲婚配（近亲之间的交配）会增加后代患有隐性遗传病的概率？",
+      "es": "¿Por qué los apareamientos consanguíneos (apareamientos entre parientes cercanos) aumentan la probabilidad de que la descendencia tenga trastornos genéticos recesivos?",
+      "fr": "Pourquoi les accouplements consanguins (accouplements entre parents proches) augmentent-ils la probabilité que la descendance soit atteinte de maladies génétiques récessives ?",
+      "de": "Warum erhöhen konsanguine Paarungen (Paarungen zwischen nahen Verwandten) die Wahrscheinlichkeit, dass Nachkommen rezessive genetische Störungen haben?",
+      "ja": "なぜ近親交配（近親者間の交配）は、子孫が劣性遺伝性疾患を持つ確率を高めるのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They increase the mutation rate for recessive alleles.",
+          "zh": "它们增加了隐性等位基因的突变率。",
+          "es": "Aumentan la tasa de mutación de los alelos recesivos.",
+          "fr": "Ils augmentent le taux de mutation des allèles récessifs.",
+          "de": "Sie erhöhen die Mutationsrate für rezessive Allele.",
+          "ja": "それらは劣性対立遺伝子の突然変異率を高めます。"
+        },
+        "feedback": {
+          "en": "Consanguinity does not affect the rate of new mutations; it only increases the chance of combining pre-existing recessive alleles.",
+          "zh": "近亲关系不影响新突变的速率；它只增加了组合已存在的隐性等位基因的机会。",
+          "es": "La consanguinidad no afecta la tasa de nuevas mutaciones; solo aumenta la posibilidad de combinar alelos recesivos preexistentes.",
+          "fr": "La consanguinité n'affecte pas le taux de nouvelles mutations ; elle ne fait qu'augmenter les chances de combiner des allèles récessifs préexistants.",
+          "de": "Konsanguinität beeinflusst nicht die Rate neuer Mutationen; sie erhöht nur die Wahrscheinlichkeit, bereits existierende rezessive Allele zu kombinieren.",
+          "ja": "血縁関係は新しい突然変異の発生率には影響しません。既存の劣性対立遺伝子を組み合わせる可能性を高めるだけです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Close relatives are more likely to carry the same harmful recessive alleles.",
+          "zh": "近亲更有可能携带相同的有害隐性等位基因。",
+          "es": "Los parientes cercanos tienen más probabilidades de portar los mismos alelos recesivos dañinos.",
+          "fr": "Les parents proches sont plus susceptibles de porter les mêmes allèles récessifs nocifs.",
+          "de": "Nahe Verwandte tragen mit größerer Wahrscheinlichkeit dieselben schädlichen rezessiven Allele.",
+          "ja": "近親者は同じ有害な劣性対立遺伝子を持っている可能性が高いです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They cause dominant alleles to become recessive.",
+          "zh": "它们导致显性等位基因变成隐性。",
+          "es": "Hacen que los alelos dominantes se vuelvan recesivos.",
+          "fr": "Ils font en sorte que les allèles dominants deviennent récessifs.",
+          "de": "Sie bewirken, dass dominante Allele rezessiv werden.",
+          "ja": "それらは優性対立遺伝子を劣性にさせます。"
+        },
+        "feedback": {
+          "en": "Mating patterns do not change the dominance relationship between alleles.",
+          "zh": "交配模式不会改变等位基因之间的显隐性关系。",
+          "es": "Los patrones de apareamiento no cambian la relación de dominancia entre los alelos.",
+          "fr": "Les schémas d'accouplement ne modifient pas la relation de dominance entre les allèles.",
+          "de": "Paarungsmuster ändern nichts am Dominanzverhältnis zwischen Allelen.",
+          "ja": "交配パターンは対立遺伝子間の優劣関係を変えません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They guarantee that offspring will be homozygous for all traits.",
+          "zh": "它们保证后代所有性状都将是纯合的。",
+          "es": "Garantizan que la descendencia será homocigota para todos los rasgos.",
+          "fr": "Ils garantissent que la descendance sera homozygote pour tous les traits.",
+          "de": "Sie garantieren, dass die Nachkommen für alle Merkmale homozygot sind.",
+          "ja": "それらは子孫がすべての形質についてホモ接合体になることを保証します。"
+        },
+        "feedback": {
+          "en": "While inbreeding increases homozygosity, it does not guarantee it. Heterozygous offspring can still be produced.",
+          "zh": "虽然近交会增加纯合性，但并不能保证。杂合的后代仍然可以产生。",
+          "es": "Si bien la endogamia aumenta la homocigosidad, no la garantiza. Todavía se puede producir descendencia heterocigota.",
+          "fr": "Bien que la consanguinité augmente l'homozygotie, elle ne la garantit pas. Une descendance hétérozygote peut toujours être produite.",
+          "de": "Obwohl Inzucht die Homozygotie erhöht, garantiert sie sie nicht. Es können immer noch heterozygote Nachkommen entstehen.",
+          "ja": "近親交配はホモ接合性を高めますが、それを保証するものではありません。ヘテロ接合の子孫はまだ生まれる可能性があります。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text states, 'people with recent common ancestors are more likely to carry the same recessive alleles than are unrelated people.' Therefore, if two close relatives mate, there is a higher chance that they both carry the same rare harmful allele, and their child could inherit that allele from both of them, resulting in a homozygous recessive disorder.",
+      "zh": "文本指出，“有近代共同祖先的人比没有亲缘关系的人更有可能携带相同的隐性等位基因。” 因此，如果两个近亲交配，他们俩都携带同一个罕见的有害等位基因的几率就更高，他们的孩子可能会从他们双方那里都继承这个等位基因，从而导致纯合隐性遗传病。",
+      "es": "El texto dice: 'las personas con antepasados comunes recientes tienen más probabilidades de portar los mismos alelos recesivos que las personas no emparentadas'. Por lo tanto, si dos parientes cercanos se aparean, hay una mayor probabilidad de que ambos porten el mismo alelo dañino raro, y su hijo podría heredar ese alelo de ambos, lo que resultaría en un trastorno recesivo homocigoto.",
+      "fr": "Le texte déclare : « les personnes ayant des ancêtres communs récents sont plus susceptibles de porter les mêmes allèles récessifs que les personnes non apparentées ». Par conséquent, si deux parents proches s'accouplent, il y a une plus grande chance qu'ils portent tous les deux le même allèle nocif rare, et leur enfant pourrait hériter de cet allèle des deux, ce qui entraînerait une maladie récessive homozygote.",
+      "de": "Im Text heißt es: „Menschen mit jüngeren gemeinsamen Vorfahren tragen mit größerer Wahrscheinlichkeit dieselben rezessiven Allele als nicht verwandte Personen.“ Wenn sich also zwei nahe Verwandte paaren, ist die Wahrscheinlichkeit höher, dass beide dasselbe seltene schädliche Allel tragen, und ihr Kind könnte dieses Allel von beiden erben, was zu einer homozygot rezessiven Störung führen würde.",
+      "ja": "本文には、「最近の共通の祖先を持つ人々は、血縁関係のない人々よりも同じ劣性対立遺伝子を持っている可能性が高い」と記載されています。したがって、2人の近親者が交配する場合、両方が同じまれな有害な対立遺伝子を持っている可能性が高くなり、その子供は両方からその対立遺伝子を受け継ぎ、ホモ接合劣性疾患になる可能性があります。"
+    }
+  }
+]

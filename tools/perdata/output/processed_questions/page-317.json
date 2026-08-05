@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "A human cell containing 22 autosomes and a Y chromosome is a:",
+      "zh": "一个含22条常染色体和一条Y染色体的人类细胞是：",
+      "es": "Una célula humana que contiene 22 autosomas y un cromosoma Y es:",
+      "fr": "Une cellule humaine contenant 22 autosomes et un chromosome Y est :",
+      "de": "Eine menschliche Zelle, die 22 Autosomen und ein Y-Chromosom enthält, ist:",
+      "ja": "22本の常染色体と1本のY染色体を含むヒトの細胞は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "sperm",
+          "zh": "精子",
+          "es": "espermatozoide",
+          "fr": "spermatozoïde",
+          "de": "Spermium",
+          "ja": "精子"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "egg",
+          "zh": "卵子",
+          "es": "óvulo",
+          "fr": "ovule",
+          "de": "Eizelle",
+          "ja": "卵子"
+        },
+        "feedback": {
+          "en": "An egg cell contains 22 autosomes and an X chromosome.",
+          "zh": "卵细胞含有22条常染色体和一条X染色体。",
+          "es": "Un óvulo contiene 22 autosomas y un cromosoma X.",
+          "fr": "Un ovule contient 22 autosomes et un chromosome X.",
+          "de": "Eine Eizelle enthält 22 Autosomen und ein X-Chromosom.",
+          "ja": "卵細胞には22本の常染色体と1本のX染色体が含まれています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "zygote",
+          "zh": "合子",
+          "es": "cigoto",
+          "fr": "zygote",
+          "de": "Zygote",
+          "ja": "接合子"
+        },
+        "feedback": {
+          "en": "A zygote is a diploid cell (44 autosomes + XX or XY), formed by the fusion of a sperm and an egg.",
+          "zh": "合子是一个二倍体细胞（44条常染色体 + XX或XY），由精子和卵子融合而成。",
+          "es": "Un cigoto es una célula diploide (44 autosomas + XX o XY), formada por la fusión de un espermatozoide y un óvulo.",
+          "fr": "Un zygote est une cellule diploïde (44 autosomes + XX ou XY), formée par la fusion d'un spermatozoïde et d'un ovule.",
+          "de": "Eine Zygote ist eine diploide Zelle (44 Autosomen + XX oder XY), die durch die Fusion von Spermium und Eizelle gebildet wird.",
+          "ja": "接合子は、精子と卵子の融合によって形成される二倍体細胞（44本の常染色体+ XXまたはXY）です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "somatic cell of a male",
+          "zh": "雄性个体的一个体细胞",
+          "es": "célula somática de un varón",
+          "fr": "cellule somatique d'un homme",
+          "de": "somatische Zelle eines Mannes",
+          "ja": "男性の体細胞"
+        },
+        "feedback": {
+          "en": "A male somatic cell is diploid and contains 44 autosomes and one X and one Y chromosome.",
+          "zh": "雄性个体的体细胞是二倍体，含有44条常染色体以及一条X和一条Y染色体。",
+          "es": "Una célula somática masculina es diploide y contiene 44 autosomas y un cromosoma X y un cromosoma Y.",
+          "fr": "Une cellule somatique masculine est diploïde et contient 44 autosomes et un chromosome X et un chromosome Y.",
+          "de": "Eine männliche somatische Zelle ist diploid und enthält 44 Autosomen sowie ein X- und ein Y-Chromosom.",
+          "ja": "男性の体細胞は二倍体であり、44本の常染色体と1本のX染色体および1本のY染色体を含んでいます。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "A human gamete is haploid (n=23). This consists of 22 autosomes and one sex chromosome. A sperm can carry either an X or a Y chromosome. Therefore, a cell with 22 autosomes and a Y is a sperm cell.",
+      "zh": "人类配子是单倍体（n=23），包含22条常染色体和1条性染色体。精子可以携带X或Y染色体。因此，一个含有22条常染色体和一条Y染色体的细胞是精子细胞。",
+      "es": "Un gameto humano es haploide (n=23). Consiste en 22 autosomas y un cromosoma sexual. Un espermatozoide puede llevar un cromosoma X o Y. Por lo tanto, una célula con 22 autosomas y una Y es un espermatozoide.",
+      "fr": "Un gamète humain est haploïde (n=23). Il se compose de 22 autosomes et d'un chromosome sexuel. Un spermatozoïde peut porter soit un chromosome X, soit un chromosome Y. Par conséquent, une cellule avec 22 autosomes et un Y est un spermatozoïde.",
+      "de": "Ein menschlicher Gamet ist haploid (n=23). Er besteht aus 22 Autosomen und einem Geschlechtschromosom. Ein Spermium kann entweder ein X- oder ein Y-Chromosom tragen. Daher ist eine Zelle mit 22 Autosomen und einem Y eine Spermienzelle.",
+      "ja": "ヒトの配偶子は単数体（n=23）です。これは22本の常染色体と1本の性染色体で構成されています。精子はX染色体またはY染色体のいずれかを運ぶことができます。したがって、22本の常染色体とY染色体を持つ細胞は精子細胞です。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "If the DNA content of a diploid cell in the G1 phase is x, what would be the DNA content of the same cell at metaphase I of meiosis?",
+      "zh": "如果一个处于G1期的二倍体细胞的DNA含量是x，那么同一个细胞在减数分裂中期I的DNA含量是多少？",
+      "es": "Si el contenido de ADN de una célula diploide en la fase G1 es x, ¿cuál sería el contenido de ADN de la misma célula en la metafase I de la meiosis?",
+      "fr": "Si la teneur en ADN d'une cellule diploïde en phase G1 est x, quelle serait la teneur en ADN de la même cellule en métaphase I de la méiose ?",
+      "de": "Wenn der DNA-Gehalt einer diploiden Zelle in der G1-Phase x ist, wie hoch wäre dann der DNA-Gehalt derselben Zelle in der Metaphase I der Meiose?",
+      "ja": "G1期の二倍体細胞のDNA量がxである場合、同じ細胞の減数分裂中期IにおけるDNA量はどうなりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "0.25x",
+          "zh": "0.25x",
+          "es": "0.25x",
+          "fr": "0.25x",
+          "de": "0.25x",
+          "ja": "0.25x"
+        },
+        "feedback": {
+          "en": "The DNA content doubles during S phase before meiosis begins. It does not decrease to a quarter.",
+          "zh": "在减数分裂开始前的S期，DNA含量会加倍。它不会减少到四分之一。",
+          "es": "El contenido de ADN se duplica durante la fase S antes de que comience la meiosis. No disminuye a un cuarto.",
+          "fr": "La teneur en ADN double pendant la phase S avant le début de la méiose. Elle ne diminue pas à un quart.",
+          "de": "Der DNA-Gehalt verdoppelt sich während der S-Phase, bevor die Meiose beginnt. Er nimmt nicht auf ein Viertel ab.",
+          "ja": "DNA量は減数分裂が始まる前のS期に倍増します。4分の1に減少することはありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "0.5x",
+          "zh": "0.5x",
+          "es": "0.5x",
+          "fr": "0.5x",
+          "de": "0.5x",
+          "ja": "0.5x"
+        },
+        "feedback": {
+          "en": "The DNA content doubles, it does not halve at this stage.",
+          "zh": "DNA含量加倍，在此阶段不会减半。",
+          "es": "El contenido de ADN se duplica, no se reduce a la mitad en esta etapa.",
+          "fr": "La teneur en ADN double, elle n'est pas divisée par deux à ce stade.",
+          "de": "Der DNA-Gehalt verdoppelt sich, er halbiert sich in diesem Stadium nicht.",
+          "ja": "DNA量は倍増し、この段階では半分にはなりません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "x",
+          "zh": "x",
+          "es": "x",
+          "fr": "x",
+          "de": "x",
+          "ja": "x"
+        },
+        "feedback": {
+          "en": "The DNA content is x in G1. It undergoes replication (doubles) during the S phase before entering meiosis.",
+          "zh": "DNA含量在G1期是x。在进入减数分裂之前，它在S期进行复制（加倍）。",
+          "es": "El contenido de ADN es x en G1. Se somete a replicación (se duplica) durante la fase S antes de entrar en la meiosis.",
+          "fr": "La teneur en ADN est x en G1. Elle subit une réplication (double) pendant la phase S avant d'entrer en méiose.",
+          "de": "Der DNA-Gehalt ist in G1 x. Er durchläuft die Replikation (verdoppelt sich) während der S-Phase, bevor er in die Meiose eintritt.",
+          "ja": "DNA量はG1期ではxです。減数分裂に入る前にS期に複製（倍増）されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "2x",
+          "zh": "2x",
+          "es": "2x",
+          "fr": "2x",
+          "de": "2x",
+          "ja": "2x"
+        }
+      }
+    ],
+    "correct_answers": ["D"],
+    "explanation": {
+      "en": "A diploid cell in G1 has a certain amount of DNA (x). Before meiosis I, the cell goes through the S phase, where its DNA is replicated. Therefore, at metaphase I, the cell contains double the amount of DNA, which is 2x.",
+      "zh": "一个处于G1期的二倍体细胞有特定量的DNA（x）。在减数分裂I之前，细胞会经历S期，在此期间其DNA被复制。因此，在减数分裂中期I，细胞的DNA含量是原来的两倍，即2x。",
+      "es": "Una célula diploide en G1 tiene una cierta cantidad de ADN (x). Antes de la meiosis I, la célula pasa por la fase S, donde se replica su ADN. Por lo tanto, en la metafase I, la célula contiene el doble de la cantidad de ADN, que es 2x.",
+      "fr": "Une cellule diploïde en G1 a une certaine quantité d'ADN (x). Avant la méiose I, la cellule passe par la phase S, où son ADN est répliqué. Par conséquent, à la métaphase I, la cellule contient le double de la quantité d'ADN, soit 2x.",
+      "de": "Eine diploide Zelle in G1 hat eine bestimmte Menge an DNA (x). Vor der Meiose I durchläuft die Zelle die S-Phase, in der ihre DNA repliziert wird. Daher enthält die Zelle in der Metaphase I die doppelte Menge an DNA, also 2x.",
+      "ja": "G1期の二倍体細胞は、一定量のDNA（x）を持っています。減数分裂Iの前に、細胞はS期を経て、そのDNAが複製されます。したがって、中期Iでは、細胞は2倍の量のDNA、つまり2xを含んでいます。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Continuing from question 4, if the G1 DNA content is x, what is the DNA content of a single cell at metaphase of meiosis II?",
+      "zh": "接续问题4，如果G1期的DNA含量是x，那么减数分裂中期II单个细胞的DNA含量是多少？",
+      "es": "Continuando con la pregunta 4, si el contenido de ADN de G1 es x, ¿cuál es el contenido de ADN de una sola célula en la metafase de la meiosis II?",
+      "fr": "En continuant à partir de la question 4, si la teneur en ADN de G1 est x, quelle est la teneur en ADN d'une seule cellule en métaphase de la méiose II ?",
+      "de": "Wenn wir von Frage 4 ausgehen und der G1-DNA-Gehalt x ist, wie hoch ist dann der DNA-Gehalt einer einzelnen Zelle in der Metaphase der Meiose II?",
+      "ja": "質問4から続けて、G1期のDNA量がxである場合、減数分裂中期IIの単一細胞のDNA量はどうなりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "0.25x",
+          "zh": "0.25x",
+          "es": "0.25x",
+          "fr": "0.25x",
+          "de": "0.25x",
+          "ja": "0.25x"
+        },
+        "feedback": {
+          "en": "This would be the DNA content of a final gamete after meiosis II is complete. At metaphase II, the chromosomes are still duplicated.",
+          "zh": "这会是减数分裂II完成后最终配子的DNA含量。在中期II，染色体仍然是复制的。",
+          "es": "Este sería el contenido de ADN de un gameto final una vez completada la meiosis II. En la metafase II, los cromosomas todavía están duplicados.",
+          "fr": "Ce serait la teneur en ADN d'un gamète final une fois la méiose II terminée. À la métaphase II, les chromosomes sont toujours dupliqués.",
+          "de": "Dies wäre der DNA-Gehalt eines endgültigen Gameten nach Abschluss der Meiose II. In der Metaphase II sind die Chromosomen noch dupliziert.",
+          "ja": "これは、減数分裂IIが完了した後の最終的な配偶子のDNA量になります。中期IIでは、染色体はまだ複製されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "0.5x",
+          "zh": "0.5x",
+          "es": "0.5x",
+          "fr": "0.5x",
+          "de": "0.5x",
+          "ja": "0.5x"
+        },
+        "feedback": {
+          "en": "This is the correct answer. After meiosis I, the DNA content is x. Meiosis II starts with this amount.",
+          "zh": "这是正确答案。减数分裂I后，DNA含量为x。减数分裂II以此量开始。",
+          "es": "Esta es la respuesta correcta. Después de la meiosis I, el contenido de ADN es x. La meiosis II comienza con esta cantidad.",
+          "fr": "C'est la bonne réponse. Après la méiose I, la teneur en ADN est x. La méiose II commence avec cette quantité.",
+          "de": "Das ist die richtige Antwort. Nach der Meiose I beträgt der DNA-Gehalt x. Die Meiose II beginnt mit dieser Menge.",
+          "ja": "これが正解です。減数分裂Iの後、DNA量はxです。減数分裂IIはこの量で始まります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "x",
+          "zh": "x",
+          "es": "x",
+          "fr": "x",
+          "de": "x",
+          "ja": "x"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "2x",
+          "zh": "2x",
+          "es": "2x",
+          "fr": "2x",
+          "de": "2x",
+          "ja": "2x"
+        },
+        "feedback": {
+          "en": "2x is the DNA content at metaphase I. The cell divides once before reaching metaphase II.",
+          "zh": "2x是中期I的DNA含量。细胞在到达中期II之前会分裂一次。",
+          "es": "2x es el contenido de ADN en la metafase I. La célula se divide una vez antes de llegar a la metafase II.",
+          "fr": "2x est la teneur en ADN à la métaphase I. La cellule se divise une fois avant d'atteindre la métaphase II.",
+          "de": "2x ist der DNA-Gehalt in der Metaphase I. Die Zelle teilt sich einmal, bevor sie die Metaphase II erreicht.",
+          "ja": "2xは中期IのDNA量です。細胞は中期IIに達する前に一度分裂します。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "Starting with x in G1, the cell has 2x at Metaphase I. After Meiosis I, the cell divides, and each of the two daughter cells has half the DNA, so they start Meiosis II with a DNA content of x. This amount persists through Prophase II and Metaphase II.",
+      "zh": "从G1期的x开始，细胞在中期I有2x的DNA。减数分裂I后，细胞分裂，两个子细胞各含有一半的DNA，因此它们以x的DNA含量开始减数分裂II。这个量会一直持续到前期II和中期II。",
+      "es": "Comenzando con x en G1, la célula tiene 2x en la Metafase I. Después de la Meiosis I, la célula se divide, y cada una de las dos células hijas tiene la mitad del ADN, por lo que comienzan la Meiosis II con un contenido de ADN de x. Esta cantidad persiste a través de la Profase II y la Metafase II.",
+      "fr": "En commençant par x en G1, la cellule a 2x en métaphase I. Après la méiose I, la cellule se divise, et chacune des deux cellules filles a la moitié de l'ADN, elles commencent donc la méiose II avec une teneur en ADN de x. Cette quantité persiste pendant la prophase II et la métaphase II.",
+      "de": "Beginnend mit x in G1 hat die Zelle 2x in der Metaphase I. Nach der Meiose I teilt sich die Zelle, und jede der beiden Tochterzellen hat die Hälfte der DNA, sodass sie die Meiose II mit einem DNA-Gehalt von x beginnen. Diese Menge bleibt während der Prophase II und Metaphase II bestehen.",
+      "ja": "G1期にxから始まり、細胞は中期Iで2xになります。減数分裂Iの後、細胞は分裂し、2つの娘細胞のそれぞれが半分のDNAを持つため、DNA量xで減数分裂IIを開始します。この量は、前期IIおよび中期IIを通して持続します。"
+    }
+  }
+]

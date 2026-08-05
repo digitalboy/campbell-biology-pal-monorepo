@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- default title (will be replaced by script) -->
+    <title>BioPal-坎贝尔生物学-AI学习伴侣</title>
+    <meta name="description" content="BioPal — 坎贝尔生物学 AI 学习伴侣" />
+
+    <script>
+      // 简单的多语言标题/描述替换（支持 en, zh, es, fr, de, ja）
+      (function () {
+        const translations = {
+          en: {
+            title: "BioPal — Campbell Biology AI Learning Companion",
+            desc: "An AI study companion for Campbell Biology students.",
+          },
+          zh: {
+            title: "BioPal — 坎贝尔生物学 AI 学习伴侣",
+            desc: "为坎贝尔生物学学生提供的 AI 学习助手。",
+          },
+          es: {
+            title:
+              "BioPal — Compañero de aprendizaje IA de Biología de Campbell",
+            desc: "Un compañero de estudio IA para estudiantes de Biología de Campbell.",
+          },
+          fr: {
+            title:
+              "BioPal — Compagnon d'apprentissage IA de Biologie de Campbell",
+            desc: "Un compagnon d'étude IA pour les étudiants en biologie de Campbell.",
+          },
+          de: {
+            title: "BioPal — KI-Lernbegleiter für Campbell-Biologie",
+            desc: "Ein KI-Lernbegleiter für Studierende der Campbell-Biologie.",
+          },
+          ja: {
+            title: "BioPal — キャンベル生物学のAI学習コンパニオン",
+            desc: "キャンベル生物学の学生向けAI学習アシスタント。",
+          },
+        };
+
+        // 优先使用用户保存的语言偏好，否则使用浏览器语言的前两位
+        const saved = (localStorage.getItem("i18n_lang") || "").toLowerCase();
+        const nav = (
+          navigator.language ||
+          navigator.userLanguage ||
+          "en"
+        ).toLowerCase();
+        const lang = saved || nav.slice(0, 2) || "en";
+        const code = ["en", "zh", "es", "fr", "de", "ja"].includes(lang)
+          ? lang
+          : nav.slice(0, 2) || "en";
+
+        // 设置 html lang
+        try {
+          document.documentElement.lang = code;
+        } catch (e) {}
+
+        // 设置 title 和 meta description
+        const t = translations[code] || translations.en;
+        if (t) {
+          document.title = t.title;
+          let meta = document.querySelector('meta[name="description"]');
+          if (!meta) {
+            meta = document.createElement("meta");
+            meta.setAttribute("name", "description");
+            document.head.appendChild(meta);
+          }
+          meta.setAttribute("content", t.desc);
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

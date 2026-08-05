@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 867,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately distinguishes arbuscular mycorrhizae (AM) from ectomycorrhizae (EM)?",
+      "zh": "以下哪项陈述准确区分了丛枝菌根（AM）和外生菌根（EM）？",
+      "es": "¿Cuál de las siguientes afirmaciones distingue con precisión las micorrizas arbusculares (MA) de las ectomicorrizas (ME)?",
+      "fr": "Laquelle des affirmations suivantes distingue avec précision les mycorhizes arbusculaires (MA) des ectomycorhizes (ME) ?",
+      "de": "Welche der folgenden Aussagen unterscheidet arbuskuläre Mykorrhizen (AM) präzise von Ektomykorrhizen (EM)?",
+      "ja": "以下の記述のうち、アーバスキュラー菌根（AM）と外生菌根（EM）を正確に区別しているものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "AM form a mantle around the root, whereas EM do not.",
+          "zh": "AM 在根部形成菌鞘，而 EM 则不形成。",
+          "es": "Las MA forman un manto alrededor de la raíz, mientras que las ME no.",
+          "fr": "Les MA forment un manchon autour de la racine, tandis que les ME non.",
+          "de": "AM bilden einen Mantel um die Wurzel, während EM dies nicht tun.",
+          "ja": "AMは根の周りに菌鞘を形成するが、EMは形成しない。"
+        },
+        "feedback": {
+          "en": "Incorrect. Ectomycorrhizae form a mantle, while arbuscular mycorrhizae do not.",
+          "zh": "不正确。外生菌根形成菌鞘，而丛枝菌根不形成。",
+          "es": "Incorrecto. Las ectomicorrizas forman un manto, mientras que las micorrizas arbusculares no.",
+          "fr": "Incorrect. Les ectomycorhizes forment un manchon, tandis que les mycorhizes arbusculaires n'en forment pas.",
+          "de": "Falsch. Ektomykorrhizen bilden einen Mantel, während arbuskuläre Mykorrhizen dies nicht tun.",
+          "ja": "不正解。外生菌根は菌鞘を形成するが、アーバスキュラー菌根は形成しない。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "EM hyphae penetrate the host cell walls, but AM hyphae do not.",
+          "zh": "EM 菌丝穿透宿主细胞壁，而 AM 菌丝则不穿透。",
+          "es": "Las hifas de ME penetran las paredes celulares del huésped, pero las hifas de MA no.",
+          "fr": "Les hyphes des ME pénètrent les parois cellulaires de l'hôte, mais pas les hyphes des MA.",
+          "de": "EM-Hyphen durchdringen die Zellwände des Wirts, AM-Hyphen jedoch nicht.",
+          "ja": "EM菌糸は宿主の細胞壁を貫通するが、AM菌糸は貫通しない。"
+        },
+        "feedback": {
+          "en": "Incorrect. AM hyphae penetrate cell walls but not plasma membranes, forming arbuscules within the cell. EM hyphae extend into extracellular spaces between cortical cells.",
+          "zh": "不正确。AM 菌丝穿透细胞壁但不穿透质膜，在细胞内形成丛枝状结构。EM 菌丝延伸到皮层细胞之间的细胞外空间。",
+          "es": "Incorrecto. Las hifas de MA penetran las paredes celulares pero no las membranas plasmáticas, formando arbúsculos dentro de la célula. Las hifas de ME se extienden en los espacios extracelulares entre las células corticales.",
+          "fr": "Incorrect. Les hyphes des MA pénètrent les parois cellulaires mais pas les membranes plasmiques, formant des arbuscules à l'intérieur de la cellule. Les hyphes des ME s'étendent dans les espaces extracellulaires entre les cellules corticales.",
+          "de": "Falsch. AM-Hyphen durchdringen Zellwände, aber keine Plasmamembranen und bilden Arbuskeln innerhalb der Zelle. EM-Hyphen erstrecken sich in die extrazellulären Räume zwischen den Rindenzellen.",
+          "ja": "不正解。AM菌糸は細胞壁を貫通するが原形質膜は貫通せず、細胞内にアーバスキュラーを形成する。EM菌糸は皮層細胞間の細胞外空間に伸長する。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "AM hyphae form arbuscules within the root cortex cells, while EM hyphae extend into the extracellular spaces between cortical cells.",
+          "zh": "AM 菌丝在根皮层细胞内形成丛枝状结构，而 EM 菌丝则延伸到皮层细胞之间的细胞外空间。",
+          "es": "Las hifas de MA forman arbúsculos dentro de las células del córtex radicular, mientras que las hifas de ME se extienden en los espacios extracelulares entre las células corticales.",
+          "fr": "Les hyphes des MA forment des arbuscules à l'intérieur des cellules du cortex racinaire, tandis que les hyphes des ME s'étendent dans les espaces extracellulaires entre les cellules corticales.",
+          "de": "AM-Hyphen bilden Arbuskeln innerhalb der Wurzelrindenzellen, während EM-Hyphen sich in die extrazellulären Räume zwischen den Rindenzellen erstrecken.",
+          "ja": "AM菌糸は根の皮層細胞内にアーバスキュラーを形成するが、EM菌糸は皮層細胞間の細胞外空間に伸長する。"
+        },
+        "feedback": {
+          "en": "Correct. This accurately describes the key structural differences in fungal penetration.",
+          "zh": "正确。这准确描述了真菌穿透的关键结构差异。",
+          "es": "Correcto. Esto describe con precisión las diferencias estructurales clave en la penetración fúngica.",
+          "fr": "Correct. Cela décrit précisément les différences structurelles clés dans la pénétration fongique.",
+          "de": "Richtig. Dies beschreibt präzise die wesentlichen strukturellen Unterschiede in der Pilzpenetration.",
+          "ja": "正解。これは菌の侵入における主要な構造的違いを正確に記述しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "EM are found in over 85% of plant species, whereas AM are less common.",
+          "zh": "EM 存在于超过 85% 的植物物种中，而 AM 则较不常见。",
+          "es": "Las ME se encuentran en más del 85% de las especies de plantas, mientras que las MA son menos comunes.",
+          "fr": "Les ME se trouvent dans plus de 85% des espèces végétales, tandis que les MA sont moins courantes.",
+          "de": "EM kommen in über 85% der Pflanzenarten vor, während AM seltener sind.",
+          "ja": "EMは植物種の85%以上に見られるが、AMはそれほど一般的ではない。"
+        },
+        "feedback": {
+          "en": "Incorrect. Arbuscular mycorrhizae are far more common, found in over 85% of plant species, while ectomycorrhizae are less prevalent.",
+          "zh": "不正确。丛枝菌根更为常见，存在于超过 85% 的植物物种中，而外生菌根则较不普遍。",
+          "es": "Incorrecto. Las micorrizas arbusculares son mucho más comunes, se encuentran en más del 85% de las especies de plantas, mientras que las ectomicorrizas son menos frecuentes.",
+          "fr": "Incorrect. Les mycorhizes arbusculaires sont beaucoup plus courantes, trouvées chez plus de 85% des espèces végétales, tandis que les ectomycorhizes sont moins répandues.",
+          "de": "Falsch. Arbuskuläre Mykorrhizen sind viel häufiger und kommen in über 85% der Pflanzenarten vor, während Ektomykorrhizen seltener sind.",
+          "ja": "不正解。アーバスキュラー菌根の方がはるかに一般的で、植物種の85%以上に見られる一方、外生菌根はそれほど普及していない。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that ectomycorrhizae form a mantle and their hyphae extend into extracellular spaces, while arbuscular mycorrhizae do not form a mantle and their hyphae penetrate cell walls to form arbuscules within the root cortex cells, without piercing the plasma membrane.",
+      "zh": "文本指出，外生菌根形成菌鞘，其菌丝延伸到细胞外空间；而丛枝菌根不形成菌鞘，其菌丝穿透细胞壁在根皮层细胞内形成丛枝状结构，但不穿透质膜。",
+      "es": "El texto indica que las ectomicorrizas forman un manto y sus hifas se extienden a los espacios extracelulares, mientras que las micorrizas arbusculares no forman un manto y sus hifas penetran las paredes celulares para formar arbúsculos dentro de las células del córtex radicular, sin perforar la membrana plasmática.",
+      "fr": "Le texte indique que les ectomycorhizes forment un manchon et que leurs hyphes s'étendent dans les espaces extracellulaires, tandis que les mycorhizes arbusculaires ne forment pas de manchon et leurs hyphes pénètrent les parois cellulaires pour former des arbuscules à l'intérieur des cellules du cortex racinaire, sans percer la membrane plasmatique.",
+      "de": "Der Text besagt, dass Ektomykorrhizen einen Mantel bilden und ihre Hyphen in extrazelluläre Räume reichen, während arbuskuläre Mykorrhizen keinen Mantel bilden und ihre Hyphen die Zellwände durchdringen, um Arbuskeln innerhalb der Wurzelrindenzellen zu bilden, ohne die Plasmamembran zu durchstechen.",
+      "ja": "テキストによると、外生菌根は菌鞘を形成し、その菌糸は細胞外空間に伸長する一方、アーバスキュラー菌根は菌鞘を形成せず、その菌糸は細胞壁を貫通して根の皮層細胞内にアーバスキュラーを形成するが、原形質膜は貫通しない。"
+    }
+  },
+  {
+    "page_number": 867,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In arbuscular mycorrhizal associations, how does the fungal hypha interact with the host plant cell's plasma membrane?",
+      "zh": "在丛枝菌根共生关系中，真菌菌丝如何与宿主植物细胞的质膜相互作用？",
+      "es": "En las asociaciones de micorrizas arbusculares, ¿cómo interactúa la hifa fúngica con la membrana plasmática de la célula vegetal huésped?",
+      "fr": "Dans les associations mycorhiziennes arbusculaires, comment l'hyphe fongique interagit-elle avec la membrane plasmique de la cellule végétale hôte ?",
+      "de": "Wie interagiert der Pilzhyphe in arbuskulären Mykorrhiza-Assoziationen mit der Plasmamembran der Wirtspflanzenzelle?",
+      "ja": "アーバスキュラー菌根共生において、菌糸は宿主植物細胞の原形質膜とどのように相互作用しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The hypha directly pierces and integrates with the plasma membrane.",
+          "zh": "菌丝直接穿透并整合到质膜中。",
+          "es": "La hifa perfora e integra directamente la membrana plasmática.",
+          "fr": "L'hyphe perce et s'intègre directement à la membrane plasmatique.",
+          "de": "Die Hyphe durchdringt und integriert sich direkt in die Plasmamembran.",
+          "ja": "菌糸は原形質膜を直接貫通し、統合する。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text explicitly states that the hyphae 'don't pierce the plasma membrane.'",
+          "zh": "不正确。文本明确指出菌丝“不穿透质膜”。",
+          "es": "Incorrecto. El texto indica explícitamente que las hifas 'no perforan la membrana plasmática'.",
+          "fr": "Incorrect. Le texte indique explicitement que les hyphes « ne percent pas la membrane plasmique ».",
+          "de": "Falsch. Der Text besagt ausdrücklich, dass die Hyphen 'die Plasmamembran nicht durchstechen'.",
+          "ja": "不正解。テキストには菌糸が「原形質膜を貫通しない」と明確に記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The hypha causes an invagination of the plasma membrane, forming a tube where the arbuscule develops.",
+          "zh": "菌丝导致质膜内陷，形成一个管状结构，丛枝状结构在此处发育。",
+          "es": "La hifa provoca una invaginación de la membrana plasmática, formando un tubo donde se desarrolla el arbúsculo.",
+          "fr": "L'hyphe provoque une invagination de la membrane plasmique, formant un tube où se développe l'arbuscule.",
+          "de": "Die Hyphe verursacht eine Einstülpung der Plasmamembran, wodurch ein Schlauch entsteht, in dem sich der Arbuskel entwickelt.",
+          "ja": "菌糸は原形質膜の陥入を引き起こし、アーバスキュラーが発達する管状構造を形成する。"
+        },
+        "feedback": {
+          "en": "Correct. The text describes this as 'a hypha grows into a tube formed by invagination of the root cell's membrane.'",
+          "zh": "正确。文本将其描述为“菌丝长成由根细胞膜内陷形成的管状结构”。",
+          "es": "Correcto. El texto lo describe como 'una hifa crece en un tubo formado por la invaginación de la membrana de la célula radicular'.",
+          "fr": "Correct. Le texte le décrit comme « une hyphe se développe en un tube formé par invagination de la membrane de la cellule racinaire ».",
+          "de": "Richtig. Der Text beschreibt dies als 'einen Hyphen, der in einen Schlauch wächst, der durch Einstülpung der Wurzelzellmembran gebildet wird'.",
+          "ja": "正解。テキストには「菌糸が根細胞膜の陥入によって形成される管状構造に成長する」と記載されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The hypha remains entirely outside the host cell, interacting only with the cell wall.",
+          "zh": "菌丝完全停留在宿主细胞外部，仅与细胞壁相互作用。",
+          "es": "La hifa permanece completamente fuera de la célula huésped, interactuando solo con la pared celular.",
+          "fr": "L'hyphe reste entièrement à l'extérieur de la cellule hôte, n'interagissant qu'avec la paroi cellulaire.",
+          "de": "Die Hyphe verbleibt vollständig außerhalb der Wirtszelle und interagiert nur mit der Zellwand.",
+          "ja": "菌糸は宿主細胞の外側に完全に留まり、細胞壁のみと相互作用する。"
+        },
+        "feedback": {
+          "en": "Incorrect. While it interacts with the cell wall, it does penetrate it to cause plasma membrane invagination.",
+          "zh": "不正确。虽然它与细胞壁相互作用，但它确实穿透细胞壁以引起质膜内陷。",
+          "es": "Incorrecto. Si bien interactúa con la pared celular, la penetra para causar la invaginación de la membrana plasmática.",
+          "fr": "Incorrect. Bien qu'il interagisse avec la paroi cellulaire, il la pénètre pour provoquer l'invagination de la membrane plasmatique.",
+          "de": "Falsch. Obwohl es mit der Zellwand interagiert, durchdringt es diese, um eine Plasmamembran-Einstülpung zu verursachen.",
+          "ja": "不正解。細胞壁とは相互作用するが、細胞壁を貫通して原形質膜の陥入を引き起こす。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The host cell's plasma membrane degrades to allow direct contact with the hypha.",
+          "zh": "宿主细胞的质膜降解，以允许与菌丝直接接触。",
+          "es": "La membrana plasmática de la célula huésped se degrada para permitir el contacto directo con la hifa.",
+          "fr": "La membrane plasmique de la cellule hôte se dégrade pour permettre un contact direct avec l'hyphe.",
+          "de": "Die Plasmamembran der Wirtszelle baut sich ab, um direkten Kontakt mit der Hyphe zu ermöglichen.",
+          "ja": "宿主細胞の原形質膜が分解され、菌糸との直接接触を可能にする。"
+        },
+        "feedback": {
+          "en": "Incorrect. The plasma membrane does not degrade; instead, it invaginates.",
+          "zh": "不正确。质膜不会降解；相反，它会内陷。",
+          "es": "Incorrecto. La membrana plasmática no se degrada; en su lugar, se invagina.",
+          "fr": "Incorrect. La membrane plasmatique ne se dégrade pas ; au lieu de cela, elle s'invagine.",
+          "de": "Falsch. Die Plasmamembran baut sich nicht ab; stattdessen stülpt sie sich ein.",
+          "ja": "不正解。原形質膜は分解されず、代わりに陥入する。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that the fungal hypha grows into a tube formed by invagination of the root cell's membrane, which is explicitly compared to 'poking a finger gently into a balloon without popping it.' This ensures the plasma membrane remains intact while allowing for close contact.",
+      "zh": "文本解释说，真菌菌丝长成由根细胞膜内陷形成的管状结构，并明确将其比作“轻轻地将手指戳进气球而不会使其爆裂”。这确保了质膜保持完整，同时允许紧密接触。",
+      "es": "El texto explica que la hifa fúngica crece en un tubo formado por la invaginación de la membrana de la célula radicular, lo que se compara explícitamente con 'meter un dedo suavemente en un globo sin reventarlo'. Esto asegura que la membrana plasmática permanezca intacta al tiempo que permite un contacto estrecho.",
+      "fr": "Le texte explique que l'hyphe fongique se développe en un tube formé par l'invagination de la membrane de la cellule racinaire, ce qui est explicitement comparé à « enfoncer doucement un doigt dans un ballon sans le faire éclater ». Cela garantit que la membrane plasmatique reste intacte tout en permettant un contact étroit.",
+      "de": "Der Text erklärt, dass der Pilzhyphe in einen Schlauch wächst, der durch Einstülpung der Wurzelzellmembran gebildet wird, was explizit mit dem 'sanften Eindrücken eines Fingers in einen Ballon, ohne ihn zum Platzen zu bringen' verglichen wird. Dies stellt sicher, dass die Plasmamembran intakt bleibt, während ein enger Kontakt ermöglicht wird.",
+      "ja": "テキストでは、菌糸が根細胞膜の陥入によって形成される管状構造に成長すると説明されており、これは「風船を破裂させることなく指をそっと突っ込む」ことに明確に例えられています。これにより、原形質膜は無傷のままで、密接な接触が可能になります。"
+    }
+  },
+  {
+    "page_number": 867,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A farmer decides to plant a new crop species that is known to form arbuscular mycorrhizal associations. They collect seeds from a natural ecosystem where the plant thrives and then plant them in a newly acquired field with foreign soil. Despite optimal watering and sunlight, the plants exhibit symptoms of malnutrition, particularly phosphorus deficiency. Based on the information provided, what is the most likely reason for this observation?",
+      "zh": "一位农民决定种植一种已知能形成丛枝菌根共生关系的新作物。他们从一个植物生长茂盛的自然生态系统中收集了种子，然后将它们种植在新获得的、含有外来土壤的田地里。尽管有最佳的浇水和日照条件，植物仍表现出营养不良的症状，特别是磷缺乏。根据所提供的信息，最可能导致这一现象的原因是什么？",
+      "es": "Un agricultor decide plantar una nueva especie de cultivo que se sabe que forma asociaciones de micorrizas arbusculares. Recolecta semillas de un ecosistema natural donde la planta prospera y luego las siembra en un campo recién adquirido con suelo extranjero. A pesar de un riego y una luz solar óptimos, las plantas exhiben síntomas de desnutrición, particularmente deficiencia de fósforo. Basándose en la información proporcionada, ¿cuál es la razón más probable de esta observación?",
+      "fr": "Un agriculteur décide de planter une nouvelle espèce de culture connue pour former des associations mycorhiziennes arbusculaires. Il récolte des graines d'un écosystème naturel où la plante prospère, puis les plante dans un champ nouvellement acquis avec un sol étranger. Malgré un arrosage et un ensoleillement optimaux, les plantes présentent des symptômes de malnutrition, en particulier une carence en phosphore. D'après les informations fournies, quelle est la raison la plus probable de cette observation ?",
+      "de": "Ein Landwirt beschließt, eine neue Kulturpflanzenart anzubauen, von der bekannt ist, dass sie arbuskuläre Mykorrhiza-Assoziationen bildet. Er sammelt Samen aus einem natürlichen Ökosystem, in dem die Pflanze gedeiht, und pflanzt sie dann auf einem neu erworbenen Feld mit fremdem Boden. Trotz optimaler Bewässerung und Sonneneinstrahlung zeigen die Pflanzen Symptome von Mangelernährung, insbesondere Phosphormangel. Basierend auf den bereitgestellten Informationen, was ist der wahrscheinlichste Grund für diese Beobachtung?",
+      "ja": "農家がアーバスキュラー菌根共生を形成することが知られている新しい作物を植えることにしました。植物が繁茂する自然生態系から種子を採取し、新しく取得した外来土壌の畑に植えました。最適な水やりと日光にもかかわらず、植物は栄養失調、特にリン欠乏の症状を示しています。提供された情報に基づいて、この観察の最も可能性の高い理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The foreign soil lacks the specific fungal partners required for mycorrhizal formation.",
+          "zh": "外来土壤缺乏形成菌根所需的特定真菌共生体。",
+          "es": "El suelo extranjero carece de los socios fúngicos específicos necesarios para la formación de micorrizas.",
+          "fr": "Le sol étranger manque des partenaires fongiques spécifiques nécessaires à la formation des mycorhizes.",
+          "de": "Dem fremden Boden fehlen die spezifischen Pilzpartner, die für die Mykorrhiza-Bildung erforderlich sind.",
+          "ja": "外来土壌には菌根形成に必要な特定の菌類共生体が存在しない。"
+        },
+        "feedback": {
+          "en": "Correct. The text states, 'if crop seeds are collected in one environment and planted in foreign soil, the plants may show signs of malnutrition (particularly phosphorus deficiency) resulting from the absence of fungal partners.'",
+          "zh": "正确。文本指出，“如果作物种子在一个环境中收集，然后种植在异地土壤中，植物可能会出现营养不良的迹象（特别是磷缺乏），这是由于缺少真菌共生伙伴造成的。”",
+          "es": "Correcto. El texto indica: 'si las semillas de cultivo se recolectan en un entorno y luego se siembran en suelo extranjero, las plantas pueden mostrar signos de desnutrición (particularmente deficiencia de fósforo) como resultado de la ausencia de socios fúngicos'.",
+          "fr": "Correct. Le texte indique : « si les graines de culture sont collectées dans un environnement et plantées dans un sol étranger, les plantes peuvent montrer des signes de malnutrition (en particulier une carence en phosphore) résultant de l'absence de partenaires fongiques ».",
+          "de": "Richtig. Der Text besagt: 'Wenn Samen in einer Umgebung gesammelt und in fremden Boden gepflanzt werden, können die Pflanzen Anzeichen von Mangelernährung (insbesondere Phosphormangel) infolge des Fehlens von Pilzpartnern zeigen.'",
+          "ja": "正解。テキストには「ある環境で採取された作物の種子を外国の土壌に植えると、真菌パートナーの欠如により、植物は栄養失調（特にリン欠乏）の兆候を示す可能性がある」と記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The new crop species cannot form mycorrhizal associations regardless of soil conditions.",
+          "zh": "新作物无论土壤条件如何都无法形成菌根共生。",
+          "es": "La nueva especie de cultivo no puede formar asociaciones de micorrizas independientemente de las condiciones del suelo.",
+          "fr": "La nouvelle espèce de culture ne peut pas former d'associations mycorhiziennes quelles que soient les conditions du sol.",
+          "de": "Die neue Kulturpflanzenart kann unabhängig von den Bodenbedingungen keine Mykorrhiza-Assoziationen bilden.",
+          "ja": "新しい作物種は土壌条件に関わらず菌根共生を形成できない。"
+        },
+        "feedback": {
+          "en": "Incorrect. The question states the crop 'is known to form arbuscular mycorrhizal associations.'",
+          "zh": "不正确。问题说明该作物“已知能形成丛枝菌根共生关系”。",
+          "es": "Incorrecto. La pregunta indica que el cultivo 'se sabe que forma asociaciones de micorrizas arbusculares'.",
+          "fr": "Incorrect. La question indique que la culture « est connue pour former des associations mycorhiziennes arbusculaires ».",
+          "de": "Falsch. Die Frage besagt, dass die Kulturpflanze 'bekannt dafür ist, arbuskuläre Mykorrhiza-Assoziationen zu bilden'.",
+          "ja": "不正解。質問には、その作物が「アーバスキュラー菌根共生を形成することが知られている」と述べられています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The foreign soil has an excessive concentration of phosphorus, inhibiting uptake.",
+          "zh": "外来土壤中磷浓度过高，抑制了吸收。",
+          "es": "El suelo extranjero tiene una concentración excesiva de fósforo, lo que inhibe la absorción.",
+          "fr": "Le sol étranger a une concentration excessive de phosphore, ce qui inhibe l'absorption.",
+          "de": "Der fremde Boden weist eine übermäßige Phosphorkonzentration auf, die die Aufnahme hemmt.",
+          "ja": "外来土壌はリン濃度が過剰で、吸収を阻害している。"
+        },
+        "feedback": {
+          "en": "Incorrect. The plants are showing *deficiency*, not inhibited uptake due to excess. Mycorrhizae typically *enhance* phosphorus uptake.",
+          "zh": "不正确。植物表现出的是*缺乏*，而不是由于过量导致的吸收受抑制。菌根通常会*增强*磷的吸收。",
+          "es": "Incorrecto. Las plantas muestran *deficiencia*, no una absorción inhibida debido al exceso. Las micorrizas típicamente *mejoran* la absorción de fósforo.",
+          "fr": "Incorrect. Les plantes montrent une *carence*, et non une absorption inhibée due à un excès. Les mycorhizes *améliorent* généralement l'absorption du phosphore.",
+          "de": "Falsch. Die Pflanzen zeigen einen *Mangel*, nicht eine gehemmte Aufnahme aufgrund eines Überschusses. Mykorrhizen *verbessern* typischerweise die Phosphoraufnahme.",
+          "ja": "不正解。植物は過剰による吸収阻害ではなく、*欠乏*を示しています。菌根は通常、リンの吸収を*促進*します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The farmer did not provide enough water or sunlight for the plants.",
+          "zh": "农民没有为植物提供足够的水或阳光。",
+          "es": "El agricultor no proporcionó suficiente agua o luz solar para las plantas.",
+          "fr": "L'agriculteur n'a pas fourni suffisamment d'eau ou de lumière solaire aux plantes.",
+          "de": "Der Landwirt hat den Pflanzen nicht genügend Wasser oder Sonnenlicht zur Verfügung gestellt.",
+          "ja": "農家は植物に十分な水や日光を与えなかった。"
+        },
+        "feedback": {
+          "en": "Incorrect. The problem states 'Despite optimal watering and sunlight.'",
+          "zh": "不正确。问题中明确指出“尽管有最佳的浇水和日照条件”。",
+          "es": "Incorrecto. El problema indica 'A pesar de un riego y una luz solar óptimos'.",
+          "fr": "Incorrect. Le problème indique « Malgré un arrosage et un ensoleillement optimaux ».",
+          "de": "Falsch. Die Aufgabe besagt: 'Trotz optimaler Bewässerung und Sonneneinstrahlung'.",
+          "ja": "不正解。問題文には「最適な水やりと日光にもかかわらず」と明記されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The passage explicitly states that if crop seeds are planted in foreign soil, they may show signs of malnutrition, particularly phosphorus deficiency, due to 'the absence of fungal partners.' Mycorrhizae are crucial for efficient nutrient (especially phosphorus) absorption, and without the correct fungal symbionts in the new soil, the plants cannot thrive.",
+      "zh": "文章明确指出，如果作物种子种植在外来土壤中，它们可能会出现营养不良的迹象，特别是磷缺乏，这是由于“缺少真菌共生伙伴”造成的。菌根对于有效吸收营养（特别是磷）至关重要，如果新土壤中没有正确的真菌共生体，植物就无法茁壮成长。",
+      "es": "El pasaje establece explícitamente que si las semillas de cultivo se siembran en suelo extranjero, pueden mostrar signos de desnutrición, particularmente deficiencia de fósforo, debido a 'la ausencia de socios fúngicos'. Las micorrizas son cruciales para la absorción eficiente de nutrientes (especialmente fósforo), y sin los simbiontes fúngicos correctos en el nuevo suelo, las plantas no pueden prosperar.",
+      "fr": "Le passage indique explicitement que si les graines de culture sont plantées dans un sol étranger, elles peuvent présenter des signes de malnutrition, en particulier une carence en phosphore, en raison de « l'absence de partenaires fongiques ». Les mycorhizes sont cruciales pour l'absorption efficace des nutriments (en particulier le phosphore), et sans les symbiontes fongiques corrects dans le nouveau sol, les plantes ne peuvent pas prospérer.",
+      "de": "Der Abschnitt besagt ausdrücklich, dass Pflanzen, wenn sie in fremdem Boden gepflanzt werden, Anzeichen von Mangelernährung, insbesondere Phosphormangel, aufgrund des 'Fehlens von Pilzpartnern' zeigen können. Mykorrhizen sind entscheidend für die effiziente Nährstoffaufnahme (insbesondere Phosphor), und ohne die richtigen Pilzsymbionten im neuen Boden können die Pflanzen nicht gedeihen.",
+      "ja": "本文は、作物の種子を外国の土壌に植えると、「真菌パートナーの欠如」により栄養失調、特にリン欠乏の兆候を示す可能性があると明示しています。菌根は効率的な栄養素（特にリン）の吸収に不可欠であり、新しい土壌に適切な真菌共生体がいなければ、植物は繁茂できません。"
+    }
+  },
+  {
+    "page_number": 867,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on Figure 37.14 and the accompanying text, which of the following is a primary function of mycorrhizal fungi in their association with plant roots?",
+      "zh": "根据图 37.14 及随附文本，以下哪项是菌根真菌与植物根系结合的主要功能？",
+      "es": "Según la Figura 37.14 y el texto adjunto, ¿cuál de las siguientes es una función principal de los hongos micorrícicos en su asociación con las raíces de las plantas?",
+      "fr": "D'après la Figure 37.14 et le texte qui l'accompagne, quelle est la fonction principale des champignons mycorhiziens dans leur association avec les racines des plantes ?",
+      "de": "Basierend auf Abbildung 37.14 und dem begleitenden Text, welche der folgenden ist eine Hauptfunktion von Mykorrhizapilzen in ihrer Assoziation mit Pflanzenwurzeln?",
+      "ja": "図37.14および付属のテキストに基づくと、植物の根との共生において菌根菌の主要な機能は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Synthesizing sugars for the plant through photosynthesis.",
+          "zh": "通过光合作用为植物合成糖类。",
+          "es": "Sintetizar azúcares para la planta a través de la fotosíntesis.",
+          "fr": "Synthétiser des sucres pour la plante par la photosynthèse.",
+          "de": "Synthese von Zuckern für die Pflanze durch Photosynthese.",
+          "ja": "光合成によって植物のために糖を合成する。"
+        },
+        "feedback": {
+          "en": "Incorrect. Fungi are heterotrophic and do not perform photosynthesis; they receive sugars from the plant.",
+          "zh": "不正确。真菌是异养生物，不进行光合作用；它们从植物那里获得糖类。",
+          "es": "Incorrecto. Los hongos son heterótrofos y no realizan fotosíntesis; reciben azúcares de la planta.",
+          "fr": "Incorrect. Les champignons sont hétérotrophes et ne réalisent pas la photosynthèse ; ils reçoivent les sucres de la plante.",
+          "de": "Falsch. Pilze sind heterotroph und betreiben keine Photosynthese; sie erhalten Zucker von der Pflanze.",
+          "ja": "不正解。菌類は従属栄養生物であり、光合成を行いません。植物から糖を受け取ります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Providing structural support to the plant stem.",
+          "zh": "为植物茎提供结构支持。",
+          "es": "Proporcionar soporte estructural al tallo de la planta.",
+          "fr": "Fournir un soutien structurel à la tige de la plante.",
+          "de": "Bereitstellung struktureller Unterstützung für den Pflanzenstamm.",
+          "ja": "植物の茎に構造的な支持を提供する。"
+        },
+        "feedback": {
+          "en": "Incorrect. Mycorrhizae are root associations and primarily involved in nutrient exchange, not stem support.",
+          "zh": "不正确。菌根是根部共生体，主要参与营养交换，而非茎部支撑。",
+          "es": "Incorrecto. Las micorrizas son asociaciones radiculares y están involucradas principalmente en el intercambio de nutrientes, no en el soporte del tallo.",
+          "fr": "Incorrect. Les mycorhizes sont des associations racinaires et sont principalement impliquées dans l'échange de nutriments, et non dans le soutien de la tige.",
+          "de": "Falsch. Mykorrhizen sind Wurzelassoziationen und primär am Nährstoffaustausch beteiligt, nicht an der Stammstützung.",
+          "ja": "不正解。菌根は根との共生であり、主に栄養交換に関与し、茎の支持ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Enhancing the absorption of water and minerals, especially phosphorus, for the plant.",
+          "zh": "增强植物对水分和矿物质（特别是磷）的吸收。",
+          "es": "Mejorar la absorción de agua y minerales, especialmente fósforo, para la planta.",
+          "fr": "Améliorer l'absorption de l'eau et des minéraux, en particulier le phosphore, pour la plante.",
+          "de": "Verbesserung der Aufnahme von Wasser und Mineralien, insbesondere Phosphor, für die Pflanze.",
+          "ja": "植物の水とミネラル、特にリンの吸収を促進する。"
+        },
+        "feedback": {
+          "en": "Correct. Both ectomycorrhizae and arbuscular mycorrhizae descriptions emphasize nutrient absorption, especially phosphorus.",
+          "zh": "正确。外生菌根和丛枝菌根的描述都强调了营养吸收，特别是磷。",
+          "es": "Correcto. Ambas descripciones, tanto de ectomicorrizas como de micorrizas arbusculares, enfatizan la absorción de nutrientes, especialmente fósforo.",
+          "fr": "Correct. Les descriptions des ectomycorhizes et des mycorhizes arbusculaires mettent l'accent sur l'absorption des nutriments, en particulier le phosphore.",
+          "de": "Richtig. Sowohl die Beschreibungen der Ektomykorrhizen als auch der arbuskulären Mykorrhizen betonen die Nährstoffaufnahme, insbesondere von Phosphor.",
+          "ja": "正解。外生菌根とアーバスキュラー菌根の両方の説明で、栄養吸収、特にリンの吸収が強調されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Protecting the plant against herbivores by producing toxins.",
+          "zh": "通过产生毒素保护植物免受草食动物的侵害。",
+          "es": "Proteger la planta contra los herbívoros mediante la producción de toxinas.",
+          "fr": "Protéger la plante contre les herbivores en produisant des toxines.",
+          "de": "Schutz der Pflanze vor Pflanzenfressern durch die Produktion von Toxinen.",
+          "ja": "毒素を生成して植物を草食動物から保護する。"
+        },
+        "feedback": {
+          "en": "Incorrect. While some fungi produce toxins, this is not highlighted as a primary, general function of mycorrhizae in this context. Their main role described here is nutrient exchange.",
+          "zh": "不正确。虽然有些真菌会产生毒素，但在此上下文中，这并不是菌根的主要普遍功能。此处描述它们的主要作用是营养交换。",
+          "es": "Incorrecto. Si bien algunos hongos producen toxinas, esto no se destaca como una función principal y general de las micorrizas en este contexto. Su función principal descrita aquí es el intercambio de nutrientes.",
+          "fr": "Incorrect. Bien que certains champignons produisent des toxines, ce n'est pas mis en évidence comme une fonction primaire et générale des mycorhizes dans ce contexte. Leur rôle principal décrit ici est l'échange de nutriments.",
+          "de": "Falsch. Obwohl einige Pilze Toxine produzieren, wird dies in diesem Kontext nicht als primäre, allgemeine Funktion von Mykorrhizen hervorgehoben. Ihre hier beschriebene Hauptrolle ist der Nährstoffaustausch.",
+          "ja": "不正解。一部の菌類は毒素を生成するが、この文脈では菌根の主要な一般的機能として強調されていない。ここで説明されている主な役割は栄養交換である。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The introductory descriptions for both Ectomycorrhizae and Arbuscular Mycorrhizae clearly state their role in 'absorbing water and minerals, especially phosphorus' and 'nutrient swapping' or 'nutrient transfer between the fungus and the plant.' This is their fundamental mutualistic benefit.",
+      "zh": "外生菌根和丛枝菌根的介绍都清楚地说明了它们在“吸收水分和矿物质，特别是磷”以及“营养交换”或“真菌与植物之间的营养转移”方面的作用。这是它们基本的互利共生益处。",
+      "es": "Las descripciones introductorias tanto de las ectomicorrizas como de las micorrizas arbusculares establecen claramente su papel en la 'absorción de agua y minerales, especialmente fósforo' y en el 'intercambio de nutrientes' o 'transferencia de nutrientes entre el hongo y la planta'. Este es su beneficio mutualista fundamental.",
+      "fr": "Les descriptions introductives des ectomycorhizes et des mycorhizes arbusculaires indiquent clairement leur rôle dans « l'absorption de l'eau et des minéraux, en particulier le phosphore » et « l'échange de nutriments » ou « le transfert de nutriments entre le champignon et la plante ». C'est leur avantage mutualiste fondamental.",
+      "de": "Die einleitenden Beschreibungen sowohl für Ektomykorrhizen als auch für arbuskuläre Mykorrhizen besagen klar, dass ihre Rolle in der 'Aufnahme von Wasser und Mineralien, insbesondere Phosphor' und im 'Nährstoffaustausch' oder 'Nährstofftransfer zwischen Pilz und Pflanze' liegt. Dies ist ihr grundlegender mutualistischer Nutzen.",
+      "ja": "外生菌根とアーバスキュラー菌根の両方の導入部の説明は、「水とミネラル、特にリンの吸収」および「栄養交換」または「菌と植物間の栄養転送」における役割を明確に述べています。これがそれらの基本的な相利共生的な利点です。"
+    }
+  }
+]

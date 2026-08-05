@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 916,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary function of the hypersensitive response (HR) in plants?",
+      "zh": "植物过敏性反应（HR）的主要功能是什么？",
+      "es": "¿Cuál es la función principal de la respuesta hipersensible (HR) en las plantas?",
+      "fr": "Quelle est la fonction principale de la réponse hypersensible (HR) chez les plantes ?",
+      "de": "Was ist die Hauptfunktion der Hypersensitiven Reaktion (HR) in Pflanzen?",
+      "ja": "植物における過敏性反応（HR）の主な機能は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To promote nutrient uptake in infected areas.",
+          "zh": "促进感染区域的营养吸收。",
+          "es": "Promover la absorción de nutrientes en las áreas infectadas.",
+          "fr": "Favoriser l'absorption des nutriments dans les zones infectées.",
+          "de": "Nährstoffaufnahme in infizierten Bereichen fördern.",
+          "ja": "感染領域での栄養素の取り込みを促進すること。"
+        },
+        "feedback": {
+          "en": "The hypersensitive response aims to deprive the pathogen of nutrients, not promote uptake for the plant.",
+          "zh": "过敏性反应旨在剥夺病原体的营养，而不是促进植物吸收。",
+          "es": "La respuesta hipersensible tiene como objetivo privar de nutrientes al patógeno, no promover la absorción de la planta.",
+          "fr": "La réponse hypersensible vise à priver l'agent pathogène de nutriments, et non à favoriser l'absorption par la plante.",
+          "de": "Die hypersensitive Reaktion zielt darauf ab, dem Pathogen Nährstoffe zu entziehen, nicht die Aufnahme durch die Pflanze zu fördern.",
+          "ja": "過敏性反応は、病原体から栄養素を奪うことを目的としており、植物の栄養素吸収を促進するものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To facilitate the spread of pathogens throughout the plant.",
+          "zh": "促进病原体在植物体内的传播。",
+          "es": "Facilitar la propagación de patógenos por toda la planta.",
+          "fr": "Faciliter la propagation des agents pathogènes dans toute la plante.",
+          "de": "Die Ausbreitung von Pathogenen in der gesamten Pflanze erleichtern.",
+          "ja": "病原体が植物全体に広がるのを促進すること。"
+        },
+        "feedback": {
+          "en": "The hypersensitive response is a localized defense mechanism designed to prevent the systemic spread of pathogens.",
+          "zh": "过敏性反应是一种局部防御机制，旨在阻止病原体的系统性传播。",
+          "es": "La respuesta hipersensible es un mecanismo de defensa localizado diseñado para prevenir la propagación sistémica de patógenos.",
+          "fr": "La réponse hypersensible est un mécanisme de défense localisé conçu pour empêcher la propagation systémique des agents pathogènes.",
+          "de": "Die hypersensitive Reaktion ist ein lokaler Abwehrmechanismus, der die systemische Ausbreitung von Pathogenen verhindern soll.",
+          "ja": "過敏性反応は、病原体の全身への広がりを防ぐように設計された局所的な防御メカニズムです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To isolate the pathogen by localizing infection and depriving it of nutrients.",
+          "zh": "通过局部化感染并剥夺其营养来隔离病原体。",
+          "es": "Aislar al patógeno localizando la infección y privándolo de nutrientes.",
+          "fr": "Isoler l'agent pathogène en localisant l'infection et en le privant de nutriments.",
+          "de": "Das Pathogen durch Lokalisierung der Infektion und Entzug von Nährstoffen isolieren.",
+          "ja": "感染を局所化し、栄養素を奪うことで病原体を隔離すること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To stimulate rapid growth in remote, uninfected parts of the plant.",
+          "zh": "刺激植物远处未受感染部分的快速生长。",
+          "es": "Estimular el crecimiento rápido en partes remotas no infectadas de la planta.",
+          "fr": "Stimuler la croissance rapide dans les parties éloignées et non infectées de la plante.",
+          "de": "Schnelles Wachstum in entfernten, uninfizierten Teilen der Pflanze stimulieren.",
+          "ja": "植物の遠隔の未感染部分での急速な成長を刺激すること。"
+        },
+        "feedback": {
+          "en": "Rapid growth in remote parts is not a primary function of HR; SAR induces broad resistance, not necessarily rapid growth.",
+          "zh": "远处部分的快速生长不是过敏性反应的主要功能；系统获得性抗性（SAR）诱导的是广泛抗性，不一定是快速生长。",
+          "es": "El crecimiento rápido en partes remotas no es una función principal de la HR; la SAR induce una resistencia amplia, no necesariamente un crecimiento rápido.",
+          "fr": "La croissance rapide dans les parties éloignées n'est pas une fonction primaire de la HR ; la RSA induit une résistance générale, pas nécessairement une croissance rapide.",
+          "de": "Schnelles Wachstum in entfernten Teilen ist keine Hauptfunktion der HR; SAR induziert breite Resistenz, nicht unbedingt schnelles Wachstum.",
+          "ja": "遠隔部分の急速な成長はHRの主な機能ではありません。SARは広範囲の抵抗性を誘発しますが、必ずしも急速な成長ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The hypersensitive response (HR) is a localized defense mechanism where infected cells produce antimicrobial molecules, seal off infected areas, and self-destruct to form lesions. This action isolates the pathogen and deprives it of nutrients, preventing systemic spread.",
+      "zh": "过敏性反应（HR）是一种局部防御机制，感染细胞会产生抗菌分子，封闭感染区域并自毁形成病斑。这种作用可以隔离病原体，剥夺其营养，从而阻止其系统性传播。",
+      "es": "La respuesta hipersensible (HR) es un mecanismo de defensa localizado donde las células infectadas producen moléculas antimicrobianas, sellan las áreas infectadas y se autodestruyen para formar lesiones. Esta acción aísla al patógeno y lo priva de nutrientes, evitando la propagación sistémica.",
+      "fr": "La réponse hypersensible (HR) est un mécanisme de défense localisé où les cellules infectées produisent des molécules antimicrobiennes, isolent les zones infectées et s'autodétruisent pour former des lésions. Cette action isole l'agent pathogène et le prive de nutriments, empêchant ainsi la propagation systémique.",
+      "de": "Die Hypersensitive Reaktion (HR) ist ein lokaler Abwehrmechanismus, bei dem infizierte Zellen antimikrobielle Moleküle produzieren, infizierte Bereiche abriegeln und sich selbst zerstören, um Läsionen zu bilden. Diese Aktion isoliert das Pathogen und entzieht ihm Nährstoffe, wodurch eine systemische Ausbreitung verhindert wird.",
+      "ja": "過敏性反応（HR）は、感染した細胞が抗菌分子を生成し、感染領域を封鎖し、自己破壊して病変を形成する局所的な防御メカニズムです。この作用により病原体が隔離され、栄養素を奪われ、全身への広がりが防がれます。"
+    }
+  },
+  {
+    "page_number": 916,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which molecule is directly responsible for activating systemic acquired resistance (SAR) in plant tissues remote from the initial infection site?",
+      "zh": "哪种分子直接负责激活植物远离初始感染部位的组织中的系统获得性抗性（SAR）？",
+      "es": "¿Qué molécula es directamente responsable de activar la resistencia sistémica adquirida (SAR) en los tejidos vegetales alejados del sitio de infección inicial?",
+      "fr": "Quelle molécule est directement responsable de l'activation de la résistance systémique acquise (RSA) dans les tissus végétaux éloignés du site d'infection initial ?",
+      "de": "Welches Molekül ist direkt für die Aktivierung der systemisch erworbenen Resistenz (SAR) in Pflanzengeweben verantwortlich, die vom ursprünglichen Infektionsort entfernt sind?",
+      "ja": "最初の感染部位から離れた植物組織で全身獲得抵抗性（SAR）を活性化するのに直接関与する分子は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Effectors",
+          "zh": "效应子",
+          "es": "Efectores",
+          "fr": "Effecteurs",
+          "de": "Effektoren",
+          "ja": "エフェクター"
+        },
+        "feedback": {
+          "en": "Effectors are pathogen-secreted proteins that bypass PAMP-triggered immunity, not SAR activators.",
+          "zh": "效应子是病原体分泌的蛋白质，它们绕过PAMP触发的免疫，而不是SAR的激活剂。",
+          "es": "Los efectores son proteínas secretadas por patógenos que eluden la inmunidad activada por PAMP, no activadores de la SAR.",
+          "fr": "Les effecteurs sont des protéines sécrétées par les agents pathogènes qui contournent l'immunité déclenchée par les PAMP, et non des activateurs de la RSA.",
+          "de": "Effektoren sind von Pathogenen sezernierte Proteine, die die PAMP-induzierte Immunität umgehen, aber keine SAR-Aktivatoren sind.",
+          "ja": "エフェクターは、PAMP媒介免疫を回避する病原体分泌タンパク質であり、SAR活性化因子ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Methylsalicylic acid",
+          "zh": "水杨酸甲酯",
+          "es": "Ácido metilsalicílico",
+          "fr": "Acide méthylsalicylique",
+          "de": "Methylsalicylsäure",
+          "ja": "メチルサリチル酸"
+        },
+        "feedback": {
+          "en": "Methylsalicylic acid is converted to salicylic acid in remote areas to activate SAR; it is not the direct activator itself.",
+          "zh": "水杨酸甲酯在远处区域转化为水杨酸以激活SAR；它本身不是直接激活剂。",
+          "es": "El ácido metilsalicílico se convierte en ácido salicílico en áreas remotas para activar la SAR; no es el activador directo en sí mismo.",
+          "fr": "L'acide méthylsalicylique est converti en acide salicylique dans les zones éloignées pour activer la RSA ; ce n'est pas l'activateur direct lui-même.",
+          "de": "Methylsalicylsäure wird in entfernten Bereichen in Salicylsäure umgewandelt, um SAR zu aktivieren; sie ist nicht der direkte Aktivator selbst.",
+          "ja": "メチルサリチル酸は、SARを活性化するために遠隔地でサリチル酸に変換されるものであり、それ自体が直接の活性化因子ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Salicylic acid",
+          "zh": "水杨酸",
+          "es": "Ácido salicílico",
+          "fr": "Acide salicylique",
+          "de": "Salicylsäure",
+          "ja": "サリチル酸"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "PAMPs",
+          "zh": "PAMPs",
+          "es": "PAMPs",
+          "fr": "PAMPs",
+          "de": "PAMPs",
+          "ja": "PAMPs"
+        },
+        "feedback": {
+          "en": "PAMPs (Pathogen-Associated Molecular Patterns) trigger general PAMP-triggered immunity, not directly SAR.",
+          "zh": "PAMPs（病原体相关分子模式）触发的是一般的PAMP触发免疫，而不是直接的SAR。",
+          "es": "Los PAMPs (Patrones Moleculares Asociados a Patógenos) desencadenan la inmunidad general activada por PAMP, no directamente la SAR.",
+          "fr": "Les PAMP (Pathogen-Associated Molecular Patterns) déclenchent l'immunité générale déclenchée par les PAMP, pas directement la RSA.",
+          "de": "PAMPs (Pathogen-Associated Molecular Patterns) lösen eine allgemeine PAMP-induzierte Immunität aus, nicht direkt SAR.",
+          "ja": "PAMP（病原体関連分子パターン）は、一般的なPAMP媒介免疫を誘発するものであり、SARを直接誘発するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Methylsalicylic acid, produced at the infection site, is transported through the phloem and then converted to salicylic acid in remote areas. This salicylic acid directly activates the signal transduction pathway leading to systemic acquired resistance (SAR).",
+      "zh": "感染部位产生的水杨酸甲酯通过韧皮部运输，然后在远处区域转化为水杨酸。这种水杨酸直接激活信号转导通路，从而导致系统获得性抗性（SAR）。",
+      "es": "El ácido metilsalicílico, producido en el sitio de infección, es transportado a través del floema y luego convertido en ácido salicílico en áreas remotas. Este ácido salicílico activa directamente la vía de transducción de señales que conduce a la resistencia sistémica adquirida (SAR).",
+      "fr": "L'acide méthylsalicylique, produit sur le site d'infection, est transporté par le phloème puis converti en acide salicylique dans les zones éloignées. Cet acide salicylique active directement la voie de transduction du signal menant à la résistance systémique acquise (RSA).",
+      "de": "Methylsalicylsäure, die am Infektionsort produziert wird, wird durch das Phloem transportiert und dann in entfernten Bereichen in Salicylsäure umgewandelt. Diese Salicylsäure aktiviert direkt den Signaltransduktionsweg, der zur systemisch erworbenen Resistenz (SAR) führt.",
+      "ja": "感染部位で生成されたメチルサリチル酸は、師部を通って運ばれ、遠隔地でサリチル酸に変換されます。このサリチル酸が、全身獲得抵抗性（SAR）につながるシグナル伝達経路を直接活性化します。"
+    }
+  },
+  {
+    "page_number": 916,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Many fungal pathogens obtain nutrients by causing plant cells to become leaky, releasing nutrients into intercellular spaces. If a fungus were to cause the immediate death of its host plant, would this strategy necessarily be beneficial for the fungus in the long term, considering its nutrient acquisition method?",
+      "zh": "许多真菌病原体通过使植物细胞渗漏，将营养物质释放到细胞间隙来获取营养。如果真菌导致其寄主植物立即死亡，考虑到其营养获取方式，这种策略从长远来看是否必然对真菌有利？",
+      "es": "Muchos patógenos fúngicos obtienen nutrientes haciendo que las células vegetales se vuelvan permeables, liberando nutrientes en los espacios intercelulares. Si un hongo causara la muerte inmediata de su planta huésped, ¿sería esta estrategia necesariamente beneficiosa para el hongo a largo plazo, considerando su método de adquisición de nutrientes?",
+      "fr": "De nombreux agents pathogènes fongiques obtiennent des nutriments en rendant les cellules végétales perméables, libérant ainsi des nutriments dans les espaces intercellulaires. Si un champignon devait provoquer la mort immédiate de sa plante hôte, cette stratégie serait-elle nécessairement bénéfique pour le champignon à long terme, compte tenu de sa méthode d'acquisition de nutriments ?",
+      "de": "Viele Pilzpathogene gewinnen Nährstoffe, indem sie Pflanzenzellen undicht machen und Nährstoffe in die Interzellularräume freisetzen. Wenn ein Pilz den sofortigen Tod seiner Wirtspflanze verursachen würde, wäre diese Strategie angesichts seiner Nährstoffgewinnungsmethode langfristig unbedingt vorteilhaft für den Pilz?",
+      "ja": "多くの真菌性病原体は、植物細胞を漏出しやすくし、細胞間空間に栄養素を放出させることで栄養素を獲得します。もし真菌が宿主植物を即座に死に至らしめた場合、その栄養素獲得方法を考慮すると、この戦略は長期的には真菌にとって必ずしも有益であると言えるでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Yes, because killing the host quickly ensures all nutrients are immediately available.",
+          "zh": "是的，因为快速杀死寄主能确保所有营养物质立即可用。",
+          "es": "Sí, porque matar al huésped rápidamente asegura que todos los nutrientes estén disponibles de inmediato.",
+          "fr": "Oui, car tuer rapidement l'hôte garantit que tous les nutriments sont immédiatement disponibles.",
+          "de": "Ja, weil das schnelle Töten des Wirtes sicherstellt, dass alle Nährstoffe sofort verfügbar sind.",
+          "ja": "はい、宿主を素早く殺すことで、すべての栄養素がすぐに利用可能になるからです。"
+        },
+        "feedback": {
+          "en": "While initial nutrients might be available, rapid host death could quickly deplete the supply or cease the leakage, hindering long-term fungal growth.",
+          "zh": "尽管初始营养物质可能可用，但宿主的快速死亡可能会迅速耗尽供应或停止渗漏，从而阻碍真菌的长期生长。",
+          "es": "Si bien los nutrientes iniciales podrían estar disponibles, la muerte rápida del huésped podría agotar rápidamente el suministro o detener la fuga, dificultando el crecimiento fúngico a largo plazo.",
+          "fr": "Bien que les nutriments initiaux puissent être disponibles, la mort rapide de l'hôte pourrait rapidement épuiser l'approvisionnement ou arrêter les fuites, entravant la croissance fongique à long terme.",
+          "de": "Obwohl anfängliche Nährstoffe verfügbar sein könnten, könnte der schnelle Tod des Wirtes die Versorgung schnell erschöpfen oder das Leckagen stoppen, was das langfristige Pilzwachstum behindert.",
+          "ja": "初期には栄養素が利用可能かもしれませんが、宿主の急速な死は供給を迅速に枯渇させるか、漏出を停止させる可能性があり、真菌の長期的な成長を妨げます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Yes, because it prevents the plant from mounting further defenses.",
+          "zh": "是的，因为这能阻止植物进一步进行防御。",
+          "es": "Sí, porque evita que la planta monte más defensas.",
+          "fr": "Oui, car cela empêche la plante de monter d'autres défenses.",
+          "de": "Ja, weil es die Pflanze daran hindert, weitere Abwehrmechanismen zu entwickeln.",
+          "ja": "はい、植物がさらなる防御を発動するのを防ぐからです。"
+        },
+        "feedback": {
+          "en": "While preventing further defenses is a consequence, the question specifically asks about the benefit related to nutrient acquisition.",
+          "zh": "尽管阻止进一步防御是一个结果，但问题明确询问的是与营养获取相关的益处。",
+          "es": "Si bien prevenir más defensas es una consecuencia, la pregunta se refiere específicamente al beneficio relacionado con la adquisición de nutrientes.",
+          "fr": "Bien qu'empêcher d'autres défenses soit une conséquence, la question porte spécifiquement sur le bénéfice lié à l'acquisition de nutriments.",
+          "de": "Obwohl die Verhinderung weiterer Abwehrmechanismen eine Folge ist, fragt die Frage speziell nach dem Nutzen im Zusammenhang mit der Nährstoffgewinnung.",
+          "ja": "さらなる防御を阻止することは結果の一つですが、この質問は栄養素獲得に関連する利点について具体的に尋ねています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "No, because the rapid death of the host might deplete the nutrient supply too quickly or stop the leakage, limiting the fungus's sustained growth.",
+          "zh": "不，因为寄主的快速死亡可能会过快地耗尽营养供应或停止渗漏，从而限制真菌的持续生长。",
+          "es": "No, porque la muerte rápida del huésped podría agotar el suministro de nutrientes demasiado rápido o detener la fuga, limitando el crecimiento sostenido del hongo.",
+          "fr": "Non, car la mort rapide de l'hôte pourrait épuiser trop rapidement l'approvisionnement en nutriments ou arrêter les fuites, limitant ainsi la croissance soutenue du champignon.",
+          "de": "Nein, weil der schnelle Tod des Wirtes die Nährstoffversorgung zu schnell erschöpfen oder das Leckagen stoppen könnte, was das nachhaltige Wachstum des Pilzes einschränkt.",
+          "ja": "いいえ、宿主の急速な死は栄養素の供給をあまりにも早く枯渇させるか、漏出を停止させる可能性があり、真菌の持続的な成長を制限するためです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "No, because this strategy only works for viral pathogens, not fungal ones.",
+          "zh": "不，因为这种策略只适用于病毒病原体，而不适用于真菌病原体。",
+          "es": "No, porque esta estrategia solo funciona para patógenos virales, no fúngicos.",
+          "fr": "Non, car cette stratégie ne fonctionne que pour les agents pathogènes viraux, et non fongiques.",
+          "de": "Nein, weil diese Strategie nur für virale Pathogene funktioniert, nicht für Pilze.",
+          "ja": "いいえ、この戦略はウイルス性病原体にのみ有効であり、真菌性病原体には有効ではないからです。"
+        },
+        "feedback": {
+          "en": "The question explicitly states that fungal pathogens use this strategy.",
+          "zh": "问题明确指出真菌病原体使用这种策略。",
+          "es": "La pregunta afirma explícitamente que los patógenos fúngicos utilizan esta estrategia.",
+          "fr": "La question stipule explicitement que les agents pathogènes fongiques utilisent cette stratégie.",
+          "de": "Die Frage besagt ausdrücklich, dass Pilzpathogene diese Strategie anwenden.",
+          "ja": "この質問は、真菌性病原体がこの戦略を使用することを明示的に述べています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Fungal pathogens that cause cells to become leaky rely on a sustained supply of nutrients from living host cells. If the host dies too quickly, the source of these nutrients will cease, and the fungus will not be able to complete its life cycle or grow efficiently in the long term.",
+      "zh": "使细胞渗漏的真菌病原体依赖于活宿主细胞持续提供营养。如果宿主过快死亡，这些营养物质的来源就会中断，真菌将无法完成其生命周期或长期高效生长。",
+      "es": "Los patógenos fúngicos que causan la permeabilidad celular dependen de un suministro sostenido de nutrientes de las células vivas del huésped. Si el huésped muere demasiado rápido, la fuente de estos nutrientes cesará y el hongo no podrá completar su ciclo de vida ni crecer eficientemente a largo plazo.",
+      "fr": "Les agents pathogènes fongiques qui rendent les cellules perméables dépendent d'un approvisionnement soutenu en nutriments provenant des cellules hôtes vivantes. Si l'hôte meurt trop rapidement, la source de ces nutriments cessera, et le champignon ne pourra pas achever son cycle de vie ou croître efficacement à long terme.",
+      "de": "Pilzpathogene, die Zellen undicht machen, sind auf eine nachhaltige Nährstoffversorgung aus lebenden Wirtszellen angewiesen. Stirbt der Wirt zu schnell, versiegt die Nährstoffquelle, und der Pilz kann seinen Lebenszyklus nicht abschließen oder langfristig effizient wachsen.",
+      "ja": "細胞を漏出しやすくする真菌性病原体は、生きた宿主細胞からの栄養素の持続的な供給に依存しています。もし宿主が急速に死んだ場合、これらの栄養素の供給源は途絶え、真菌はライフサイクルを完了したり、長期的に効率的に成長したりすることができなくなります。"
+    }
+  },
+  {
+    "page_number": 916,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately distinguishes between the hypersensitive response (HR) and systemic acquired resistance (SAR) in plants?",
+      "zh": "以下哪项陈述准确区分了植物中的过敏性反应（HR）和系统获得性抗性（SAR）？",
+      "es": "¿Cuál de las siguientes afirmaciones distingue con precisión entre la respuesta hipersensible (HR) y la resistencia sistémica adquirida (SAR) en las plantas?",
+      "fr": "Laquelle des affirmations suivantes distingue précisément la réponse hypersensible (HR) et la résistance systémique acquise (RSA) chez les plantes ?",
+      "de": "Welche der folgenden Aussagen unterscheidet präzise zwischen der Hypersensitiven Reaktion (HR) und der Systemisch Erworbenen Resistenz (SAR) in Pflanzen?",
+      "ja": "植物における過敏性反応（HR）と全身獲得抵抗性（SAR）を正確に区別する記述は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "HR is a systemic defense, while SAR is a localized defense.",
+          "zh": "HR是全身性防御，而SAR是局部性防御。",
+          "es": "La HR es una defensa sistémica, mientras que la SAR es una defensa localizada.",
+          "fr": "La HR est une défense systémique, tandis que la RSA est une défense localisée.",
+          "de": "HR ist eine systemische Abwehr, während SAR eine lokalisierte Abwehr ist.",
+          "ja": "HRは全身性防御であり、SARは局所性防御である。"
+        },
+        "feedback": {
+          "en": "This statement is incorrect; HR is localized, and SAR is systemic.",
+          "zh": "这个陈述是错误的；HR是局部性的，而SAR是全身性的。",
+          "es": "Esta afirmación es incorrecta; la HR es localizada y la SAR es sistémica.",
+          "fr": "Cette affirmation est incorrecte ; la HR est localisée et la RSA est systémique.",
+          "de": "Diese Aussage ist falsch; HR ist lokalisiert und SAR ist systemisch.",
+          "ja": "この記述は間違っています。HRは局所的であり、SARは全身的です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "HR primarily involves the production of methylsalicylic acid, while SAR involves direct cell self-destruction.",
+          "zh": "HR主要涉及水杨酸甲酯的产生，而SAR涉及直接的细胞自毁。",
+          "es": "La HR implica principalmente la producción de ácido metilsalicílico, mientras que la SAR implica la autodestrucción celular directa.",
+          "fr": "La HR implique principalement la production d'acide méthylsalicylique, tandis que la RSA implique l'autodestruction cellulaire directe.",
+          "de": "HR beinhaltet hauptsächlich die Produktion von Methylsalicylsäure, während SAR die direkte Zellselbstzerstörung beinhaltet.",
+          "ja": "HRは主にメチルサリチル酸の生産に関与し、SARは直接的な細胞自己破壊に関与する。"
+        },
+        "feedback": {
+          "en": "HR involves cell self-destruction, and methylsalicylic acid is a precursor to the SAR signal; the roles are mixed up.",
+          "zh": "HR涉及细胞自毁，水杨酸甲酯是SAR信号的前体；这些作用被混淆了。",
+          "es": "La HR implica la autodestrucción celular, y el ácido metilsalicílico es un precursor de la señal SAR; los roles están mezclados.",
+          "fr": "La HR implique l'autodestruction cellulaire, et l'acide méthylsalicylique est un précurseur du signal RSA ; les rôles sont mélangés.",
+          "de": "HR beinhaltet Zellselbstzerstörung, und Methylsalicylsäure ist eine Vorstufe des SAR-Signals; die Rollen sind vertauscht.",
+          "ja": "HRは細胞の自己破壊に関与し、メチルサリチル酸はSARシグナルの前駆体です。役割が混同されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "HR leads to the formation of localized lesions to isolate pathogens, whereas SAR provides broad-spectrum, long-lasting resistance in uninfected parts of the plant.",
+          "zh": "HR导致局部病斑形成以隔离病原体，而SAR在植物未受感染部分提供广谱、持久的抗性。",
+          "es": "La HR conduce a la formación de lesiones localizadas para aislar patógenos, mientras que la SAR proporciona resistencia de amplio espectro y duradera en partes no infectadas de la planta.",
+          "fr": "La HR conduit à la formation de lésions localisées pour isoler les agents pathogènes, tandis que la RSA offre une résistance à large spectre et durable dans les parties non infectées de la plante.",
+          "de": "HR führt zur Bildung lokalisierter Läsionen, um Pathogene zu isolieren, während SAR eine breit gefächerte, langanhaltende Resistenz in uninfizierten Teilen der Pflanze bietet.",
+          "ja": "HRは病原体を隔離するための局所的な病変形成につながる一方、SARは植物の未感染部分に広範囲で持続的な抵抗性を提供します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both HR and SAR are triggered by PAMPs.",
+          "zh": "HR和SAR都由PAMPs触发。",
+          "es": "Tanto la HR como la SAR son desencadenadas por PAMPs.",
+          "fr": "La HR et la RSA sont toutes deux déclenchées par les PAMPs.",
+          "de": "Sowohl HR als auch SAR werden durch PAMPs ausgelöst.",
+          "ja": "HRとSARの両方がPAMPsによって誘発される。"
+        },
+        "feedback": {
+          "en": "HR is triggered in response to effectors bypassing PAMP-triggered immunity, and SAR is triggered by salicylic acid, not directly by PAMPs.",
+          "zh": "HR是对绕过PAMP触发免疫的效应子作出的反应，而SAR是由水杨酸触发的，并非直接由PAMPs触发。",
+          "es": "La HR se desencadena en respuesta a los efectores que eluden la inmunidad activada por PAMP, y la SAR se activa por el ácido salicílico, no directamente por los PAMPs.",
+          "fr": "La HR est déclenchée en réponse aux effecteurs contournant l'immunité déclenchée par les PAMP, et la RSA est déclenchée par l'acide salicylique, non directement par les PAMPs.",
+          "de": "HR wird als Reaktion auf Effektoren ausgelöst, die die PAMP-induzierte Immunität umgehen, und SAR wird durch Salicylsäure ausgelöst, nicht direkt durch PAMPs.",
+          "ja": "HRはPAMP媒介免疫を回避するエフェクターに応答して誘発され、SARはサリチル酸によって誘発されるもので、PAMPによって直接誘発されるものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The hypersensitive response (HR) is a localized defense that involves the death of infected cells to create lesions, isolating the pathogen. Systemic acquired resistance (SAR), on the other hand, is a broader, long-lasting defense activated by a signal (salicylic acid) that spreads throughout the plant, providing resistance to a variety of pathogens in uninfected areas.",
+      "zh": "过敏性反应（HR）是一种局部防御，涉及感染细胞的死亡以形成病斑，从而隔离病原体。另一方面，系统获得性抗性（SAR）是一种更广泛、持久的防御，由在植物体内传播的信号（水杨酸）激活，为未受感染区域的多种病原体提供抗性。",
+      "es": "La respuesta hipersensible (HR) es una defensa localizada que implica la muerte de células infectadas para crear lesiones, aislando el patógeno. La resistencia sistémica adquirida (SAR), por otro lado, es una defensa más amplia y duradera activada por una señal (ácido salicílico) que se extiende por toda la planta, proporcionando resistencia a una variedad de patógenos en áreas no infectadas.",
+      "fr": "La réponse hypersensible (HR) est une défense localisée qui implique la mort des cellules infectées pour créer des lésions, isolant l'agent pathogène. La résistance systémique acquise (RSA), d'autre part, est une défense plus large et durable activée par un signal (acide salicylique) qui se propage dans toute la plante, offrant une résistance à une variété d'agents pathogènes dans les zones non infectées.",
+      "de": "Die Hypersensitive Reaktion (HR) ist eine lokalisierte Abwehr, die den Tod infizierter Zellen zur Bildung von Läsionen beinhaltet, wodurch der Pathogen isoliert wird. Die systemisch erworbene Resistenz (SAR) hingegen ist eine breitere, langanhaltende Abwehr, die durch ein Signal (Salicylsäure) aktiviert wird, das sich in der gesamten Pflanze ausbreitet und in uninfizierten Bereichen Resistenz gegen eine Vielzahl von Pathogenen bietet.",
+      "ja": "過敏性反応（HR）は、病原体を隔離するために感染細胞の死滅によって病変を形成する局所的な防御です。一方、全身獲得抵抗性（SAR）は、植物全体に広がるシグナル（サリチル酸）によって活性化される広範囲で持続的な防御であり、未感染領域の様々な病原体に対する抵抗性を提供します。"
+    }
+  }
+]

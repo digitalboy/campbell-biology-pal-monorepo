@@ -1,0 +1,169 @@
+openapi: 3.1.0
+info:
+  title: "PDF Content Service API"
+  version: "1.0.0"
+  description: "API for managing the text content extracted from PDF pages."
+servers:
+  - url: "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1"
+    description: "Production Server"
+  - url: "http://localhost:3000/api/v1"
+    description: "Local Development Server"
+
+paths:
+  /pdf-content/{pageNumber}:
+    get:
+      tags:
+        - "PDF Content"
+      summary: "Get Page Content"
+      description: "Fetches the processed markdown content for a specific page number."
+      operationId: "getPageContent"
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: "pageNumber"
+          in: "path"
+          required: true
+          description: "The page number to retrieve content for."
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: "Successful retrieval of page content."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  data:
+                    $ref: "#/components/schemas/PageContent"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+        "401":
+          $ref: "#/components/responses/Unauthorized"
+        "404":
+          $ref: "#/components/responses/NotFound"
+        "500":
+          $ref: "#/components/responses/InternalServerError"
+
+  /pdf-content:
+    put:
+      tags:
+        - "PDF Content"
+      summary: "Upsert Page Content"
+      description: |
+        Creates new content for a page or updates existing content if the page number already exists.
+        This is a protected endpoint that requires admin privileges.
+      operationId: "upsertPageContent"
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/UpsertPageContentRequest"
+      responses:
+        "200":
+          description: "Content was successfully created or updated."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  data:
+                    $ref: "#/components/schemas/PageContent"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+        "401":
+          $ref: "#/components/responses/Unauthorized"
+        "403":
+          $ref: "#/components/responses/Forbidden"
+        "500":
+          $ref: "#/components/responses/InternalServerError"
+
+components:
+  schemas:
+    PageContent:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          description: "The unique identifier for the content record."
+          example: "a1b2c3d4-e5f6-7890-1234-567890abcdef"
+        page_number:
+          type: integer
+          description: "The page number this content corresponds to."
+          example: 192
+        markdown_text:
+          type: string
+          description: "The full content of the page in Markdown format."
+          example: "# Chapter 10: Photosynthesis\n\nPhotosynthesis is a process used by plants..."
+
+    UpsertPageContentRequest:
+      type: object
+      required:
+        - page_number
+        - markdown_text
+      properties:
+        page_number:
+          type: integer
+          description: "The page number to create or update."
+          example: 192
+        markdown_text:
+          type: string
+          description: "The new content for the page in Markdown format."
+          example: "# Chapter 10: Photosynthesis\n\nThis is the updated content..."
+
+    ErrorResponse:
+      type: object
+      properties:
+        ok:
+          type: boolean
+          example: false
+        message:
+          type: string
+
+  responses:
+    BadRequest:
+      description: "Bad request, e.g., invalid page number or missing payload fields."
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorResponse"
+    Unauthorized:
+      description: "Unauthorized. The user is not authenticated."
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorResponse"
+    Forbidden:
+      description: "Forbidden. The user does not have admin privileges."
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorResponse"
+    NotFound:
+      description: "The requested resource was not found."
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorResponse"
+    InternalServerError:
+      description: "Internal server error."
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorResponse"
+
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT

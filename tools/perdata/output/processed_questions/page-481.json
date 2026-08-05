@@ -1,0 +1,285 @@
+[
+  {
+    "page_number": 481,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What were the essential components required to successfully generate induced pluripotent stem (iPS) cells from differentiated human cells, according to Shinya Yamanaka's experiment described in the text?",
+      "zh": "根据文本中描述的山中伸弥实验，成功地从分化的人体细胞生成诱导多能干细胞（iPS 细胞）所需的基本组成部分是什么？",
+      "es": "Según el experimento de Shinya Yamanaka descrito en el texto, ¿cuáles fueron los componentes esenciales necesarios para generar con éxito células madre pluripotentes inducidas (iPS) a partir de células humanas diferenciadas?",
+      "fr": "Selon l'expérience de Shinya Yamanaka décrite dans le texte, quels ont été les composants essentiels nécessaires pour générer avec succès des cellules souches pluripotentes induites (iPS) à partir de cellules humaines différenciées ?",
+      "de": "Was waren laut dem im Text beschriebenen Experiment von Shinya Yamanaka die wesentlichen Komponenten, die zur erfolgreichen Generierung induzierter pluripotenter Stammzellen (iPS-Zellen) aus differenzierten menschlichen Zellen erforderlich waren?",
+      "ja": "テキストに記載されている山中伸弥の実験によると、分化したヒト細胞から人工多能性幹細胞（iPS細胞）を成功裏に生成するために必要とされた本質的な構成要素は何でしたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Human embryonic stem cells and a growth medium.",
+          "zh": "人类胚胎干细胞和培养基。",
+          "es": "Células madre embrionarias humanas y un medio de cultivo.",
+          "fr": "Cellules souches embryonnaires humaines et un milieu de culture.",
+          "de": "Menschliche embryonale Stammzellen und ein Wachstumsmedium.",
+          "ja": "ヒト胚性幹細胞と培養培地。"
+        },
+        "feedback": {
+          "en": "The experiment aimed to generate iPS cells from differentiated cells, not start with ES cells.",
+          "zh": "实验旨在从分化细胞中“生成”iPS细胞，而不是以胚胎干细胞为起始。",
+          "es": "El experimento tenía como objetivo generar células iPS a partir de células diferenciadas, no comenzar con células ES.",
+          "fr": "L'expérience visait à générer des cellules iPS à partir de cellules différenciées, et non à partir de cellules ES.",
+          "de": "Das Experiment zielte darauf ab, iPS-Zellen aus differenzierten Zellen zu generieren, nicht mit ES-Zellen zu beginnen.",
+          "ja": "この実験は、分化した細胞からiPS細胞を「生成」することを目的としており、ES細胞から始めるものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Human skin fibroblast cells, a retroviral vector, and four specific \"stem cell\" master regulatory genes.",
+          "zh": "人类皮肤成纤维细胞、逆转录病毒载体和四种特定的“干细胞”主调控基因。",
+          "es": "Células de fibroblastos de piel humana, un vector retroviral y cuatro genes reguladores maestros de \"células madre\" específicos.",
+          "fr": "Cellules de fibroblastes de peau humaine, un vecteur rétroviral et quatre gènes régulateurs maîtres spécifiques de \"cellules souches\".",
+          "de": "Menschliche Hautfibroblastenzellen, ein retroviraler Vektor und vier spezifische \"Stammzell\"-Master-Regulatorgene.",
+          "ja": "ヒト皮膚線維芽細胞、レトロウイルスベクター、そして4つの特定の「幹細胞」マスター制御遺伝子。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Differentiated muscle cells and the Oct3/4 gene.",
+          "zh": "分化的肌肉细胞和 Oct3/4 基因。",
+          "es": "Células musculares diferenciadas y el gen Oct3/4.",
+          "fr": "Cellules musculaires différenciées et le gène Oct3/4.",
+          "de": "Differenzierte Muskelzellen und das Oct3/4-Gen.",
+          "ja": "分化した筋肉細胞とOct3/4遺伝子。"
+        },
+        "feedback": {
+          "en": "The starting cells were skin fibroblasts, and four genes were introduced, not just Oct3/4.",
+          "zh": "起始细胞是皮肤成纤维细胞，并且引入了四种基因，而不仅仅是Oct3/4。",
+          "es": "Las células iniciales eran fibroblastos de piel, y se introdujeron cuatro genes, no solo Oct3/4.",
+          "fr": "Les cellules de départ étaient des fibroblastes de peau, et quatre gènes ont été introduits, pas seulement Oct3/4.",
+          "de": "Die Ausgangszellen waren Hautfibroblasten, und es wurden vier Gene eingeführt, nicht nur Oct3/4.",
+          "ja": "開始細胞は皮膚線維芽細胞であり、Oct3/4だけでなく4つの遺伝子が導入されました。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Any differentiated cell type and natural induction without vectors.",
+          "zh": "任何分化细胞类型和无需载体的自然诱导。",
+          "es": "Cualquier tipo de célula diferenciada e inducción natural sin vectores.",
+          "fr": "Tout type de cellule différenciée et induction naturelle sans vecteurs.",
+          "de": "Jeder differenzierte Zelltyp und natürliche Induktion ohne Vektoren.",
+          "ja": "あらゆる分化細胞とベクターなしの自然誘導。"
+        },
+        "feedback": {
+          "en": "The experiment used specific human skin fibroblast cells and a retroviral vector was crucial for gene introduction.",
+          "zh": "实验使用了特定的人类皮肤成纤维细胞，并且逆转录病毒载体对基因导入至关重要。",
+          "es": "El experimento utilizó fibroblastos de piel humana específicos y un vector retroviral fue crucial para la introducción de genes.",
+          "fr": "L'expérience a utilisé des cellules de fibroblastes de peau humaine spécifiques et un vecteur rétroviral était crucial pour l'introduction des gènes.",
+          "de": "Das Experiment verwendete spezifische menschliche Hautfibroblastenzellen, und ein retroviraler Vektor war für die Genintroduction entscheidend.",
+          "ja": "この実験では、特定のヒト皮膚線維芽細胞が使用され、レトロウイルスベクターは遺伝子導入に不可欠でした。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Shinya Yamanaka's experiment successfully generated iPS cells by introducing four specific \"stem cell\" master regulatory genes (Oct3/4, Sox2, Klf4, c-Myc) into human skin fibroblast cells using a retroviral vector. The text explicitly states these components.",
+      "zh": "山中伸弥的实验通过使用逆转录病毒载体将四种特定的“干细胞”主调控基因（Oct3/4、Sox2、Klf4、c-Myc）导入人类皮肤成纤维细胞，成功生成了iPS细胞。文本明确指出了这些组成部分。",
+      "es": "El experimento de Shinya Yamanaka generó con éxito células iPS introduciendo cuatro genes reguladores maestros específicos de \"células madre\" (Oct3/4, Sox2, Klf4, c-Myc) en fibroblastos de piel humana utilizando un vector retroviral. El texto menciona explícitamente estos componentes.",
+      "fr": "L'expérience de Shinya Yamanaka a réussi à générer des cellules iPS en introduisant quatre gènes régulateurs maîtres spécifiques de \"cellules souches\" (Oct3/4, Sox2, Klf4, c-Myc) dans des cellules de fibroblastes de peau humaine à l'aide d'un vecteur rétroviral. Le texte mentionne explicitement ces composants.",
+      "de": "Shinya Yamanakas Experiment erzeugte erfolgreich iPS-Zellen, indem vier spezifische \"Stammzell\"-Master-Regulatorgene (Oct3/4, Sox2, Klf4, c-Myc) unter Verwendung eines retroviralen Vektors in menschliche Hautfibroblastenzellen eingeführt wurden. Der Text nennt diese Komponenten ausdrücklich.",
+      "ja": "山中伸弥の実験では、レトロウイルスベクターを用いて、ヒト皮膚線維芽細胞に4つの特定の「幹細胞」マスター制御遺伝子（Oct3/4、Sox2、Klf4、c-Myc）を導入することで、iPS細胞の生成に成功しました。本文ではこれらの要素が明示されています。"
+    }
+  },
+  {
+    "page_number": 481,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The text discusses two major potential uses of human iPS cells: as disease models and for regenerative medicine. Considering the \"WHAT IF?\" section, what is a primary advantage of using patient-specific iPS cells in regenerative medicine compared to traditional organ transplantation, and what significant risk is highlighted for iPS cell therapy itself?",
+      "zh": "文本讨论了人类iPS细胞的两个主要潜在用途：作为疾病模型和用于再生医学。考虑到“WHAT IF?”部分，与传统器官移植相比，在再生医学中使用患者特异性iPS细胞的主要优势是什么？iPS细胞疗法本身又存在哪些重大风险？",
+      "es": "El texto discute dos usos potenciales importantes de las células iPS humanas: como modelos de enfermedades y para medicina regenerativa. Considerando la sección \"¿Y SI?\", ¿cuál es una ventaja principal de usar células iPS específicas del paciente en medicina regenerativa en comparación con el trasplante de órganos tradicional, y qué riesgo significativo se destaca para la propia terapia con células iPS?",
+      "fr": "Le texte discute de deux utilisations potentielles majeures des cellules iPS humaines : comme modèles de maladies et pour la médecine régénérative. Compte tenu de la section « ET SI ? », quel est un avantage principal de l'utilisation des cellules iPS spécifiques au patient en médecine régénérative par rapport à la transplantation d'organes traditionnelle, et quel risque significatif est souligné pour la thérapie par cellules iPS elle-même ?",
+      "de": "Der Text erörtert zwei wichtige potenzielle Anwendungen menschlicher iPS-Zellen: als Krankheitsmodelle und in der regenerativen Medizin. Unter Berücksichtigung des Abschnitts „WHAT IF?“: Welcher primäre Vorteil ergibt sich bei der Verwendung patientenspezifischer iPS-Zellen in der regenerativen Medizin im Vergleich zur traditionellen Organtransplantation, und welches erhebliche Risiko wird für die iPS-Zelltherapie selbst hervorgehoben?",
+      "ja": "本文では、ヒトiPS細胞の2つの主要な潜在的用途、すなわち疾患モデルとしての利用と再生医療での利用について論じています。「WHAT IF?」セクションを考慮すると、従来の臓器移植と比較して、患者特異的iPS細胞を再生医療で使用する主な利点は何ですか？また、iPS細胞療法自体に指摘されている重大なリスクは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Advantage: Faster patient recovery; Risk: High cost of the procedure.",
+          "zh": "优势：患者康复更快；风险：手术成本高。",
+          "es": "Ventaja: Recuperación más rápida del paciente; Riesgo: Alto costo del procedimiento.",
+          "fr": "Avantage : Récupération plus rapide du patient ; Risque : Coût élevé de la procédure.",
+          "de": "Vorteil: Schnellere Genesung des Patienten; Risiko: Hohe Kosten des Verfahrens.",
+          "ja": "利点：患者の回復が速い；リスク：手技の費用が高い。"
+        },
+        "feedback": {
+          "en": "While cost is a challenge, the primary cellular risk highlighted is tumor formation, not just cost. Faster recovery is not the main comparative advantage to organ transplant in terms of iPS properties.",
+          "zh": "虽然成本是一个挑战，但主要强调的细胞风险是肿瘤形成，而不仅仅是成本。快速康复并不是iPS细胞特性在与器官移植比较时的主要优势。",
+          "es": "Si bien el costo es un desafío, el riesgo celular principal destacado es la formación de tumores, no solo el costo. Una recuperación más rápida no es la principal ventaja comparativa con el trasplante de órganos en términos de propiedades de las células iPS.",
+          "fr": "Bien que le coût soit un défi, le risque cellulaire principal mis en évidence est la formation de tumeurs, pas seulement le coût. Une récupération plus rapide n'est pas le principal avantage comparatif par rapport à la transplantation d'organes en termes de propriétés des cellules iPS.",
+          "de": "Während die Kosten eine Herausforderung darstellen, ist das primäre hervorgehobene zelluläre Risiko die Tumorbildung, nicht nur die Kosten. Schnellere Genesung ist nicht der Hauptvorteil im Vergleich zur Organtransplantation hinsichtlich der iPS-Zelleigenschaften.",
+          "ja": "コストは課題の一つですが、主に強調されている細胞のリスクは腫瘍形成であり、コストだけではありません。iPS細胞の特性における臓器移植との主な比較優位は、患者の回復速度ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Advantage: Overcomes ethical objections to human embryos; Risk: Differentiation into wrong cell types.",
+          "zh": "优势：克服对人类胚胎的伦理反对；风险：分化成错误的细胞类型。",
+          "es": "Ventaja: Supera objeciones éticas a los embriones humanos; Riesgo: Diferenciación en tipos de células incorrectos.",
+          "fr": "Avantage : Surmonte les objections éthiques aux embryons humains ; Risque : Différenciation en types de cellules incorrects.",
+          "de": "Vorteil: Überwindet ethische Einwände gegen menschliche Embryonen; Risiko: Differenzierung in falsche Zelltypen.",
+          "ja": "利点：ヒト胚に対する倫理的反対を克服する；リスク：間違った細胞タイプに分化すること。"
+        },
+        "feedback": {
+          "en": "While overcoming ethical objections to embryos is true for iPS cells, the comparison here is with organ transplantation where immune rejection is the key issue. The main risk highlighted for actively dividing undifferentiated cells is tumor formation.",
+          "zh": "尽管iPS细胞确实克服了胚胎的伦理反对，但这里与器官移植的比较，关键问题是免疫排斥。针对活跃分裂的未分化细胞的主要风险是肿瘤形成。",
+          "es": "Aunque es cierto que las células iPS superan las objeciones éticas a los embriones, la comparación aquí es con el trasplante de órganos, donde el rechazo inmune es el problema clave. El principal riesgo destacado para las células no diferenciadas que se dividen activamente es la formación de tumores.",
+          "fr": "Bien que les cellules iPS contournent les objections éthiques relatives aux embryons, la comparaison ici est avec la transplantation d'organes où le rejet immunitaire est le problème clé. Le principal risque souligné pour les cellules indifférenciées et en division active est la formation de tumeurs.",
+          "de": "Obwohl iPS-Zellen ethische Bedenken gegenüber Embryonen überwinden, ist der Vergleich hier mit der Organtransplantation, bei der die Immunabstoßung das Schlüsselproblem ist. Das Hauptrisiko, das für aktiv teilende, undifferenzierte Zellen hervorgehoben wird, ist die Tumorbildung.",
+          "ja": "iPS細胞が胚に対する倫理的反対を克服することは事実ですが、ここでは臓器移植との比較であり、免疫拒絶が重要な問題です。活発に分裂する未分化細胞の主なリスクは腫瘍形成です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Advantage: Avoids the risk of immune rejection; Risk: Potential for tumor formation from actively dividing, undifferentiated cells.",
+          "zh": "优势：避免免疫排斥风险；风险：活跃分裂的未分化细胞可能形成肿瘤。",
+          "es": "Ventaja: Evita el riesgo de rechazo inmune; Riesgo: Potencial de formación de tumores a partir de células que se dividen activamente y no están diferenciadas.",
+          "fr": "Avantage : Évite le risque de rejet immunitaire ; Risque : Potentiel de formation de tumeurs à partir de cellules en division active et non différenciées.",
+          "de": "Vorteil: Vermeidet das Risiko einer Immunabstoßung; Risiko: Potenzial zur Tumorbildung aus aktiv teilenden, undifferenzierten Zellen.",
+          "ja": "利点：免疫拒絶反応のリスクを回避できる；リスク：活発に分裂する未分化細胞からの腫瘍形成の可能性。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Advantage: Allows for direct gene editing of diseased cells; Risk: Limited availability of donor iPS cell banks.",
+          "zh": "优势：允许直接对病变细胞进行基因编辑；风险：供体iPS细胞库的可用性有限。",
+          "es": "Ventaja: Permite la edición directa de genes de células enfermas; Riesgo: Disponibilidad limitada de bancos de células iPS de donantes.",
+          "fr": "Avantage : Permet l'édition directe de gènes des cellules malades ; Risque : Disponibilité limitée des banques de cellules iPS de donneurs.",
+          "de": "Vorteil: Ermöglicht die direkte Genbearbeitung kranker Zellen; Risiko: Begrenzte Verfügbarkeit von Spender-iPS-Zellbanken.",
+          "ja": "利点：疾患細胞の直接的な遺伝子編集が可能になる；リスク：ドナーiPS細胞バンクの利用可能性が限られている。"
+        },
+        "feedback": {
+          "en": "Gene editing is a separate technique, not the primary advantage described here for iPS cells over organ transplants. Limited availability is a logistical challenge, not the fundamental cellular risk.",
+          "zh": "基因编辑是一种单独的技术，并非这里描述的iPS细胞相对于器官移植的主要优势。可用性有限是一个后勤挑战，而不是根本的细胞风险。",
+          "es": "La edición genética es una técnica separada, no la principal ventaja descrita aquí para las células iPS sobre los trasplantes de órganos. La disponibilidad limitada es un desafío logístico, no el riesgo celular fundamental.",
+          "fr": "L'édition génétique est une technique distincte, et non l'avantage principal décrit ici pour les cellules iPS par rapport aux transplantations d'organes. La disponibilité limitée est un défi logistique, pas le risque cellulaire fondamental.",
+          "de": "Genbearbeitung ist eine separate Technik, nicht der hier beschriebene Hauptvorteil von iPS-Zellen gegenüber Organtransplantationen. Begrenzte Verfügbarkeit ist eine logistische Herausforderung, kein grundlegendes zelluläres Risiko.",
+          "ja": "遺伝子編集は別の技術であり、ここで述べられているiPS細胞が臓器移植に対して持つ主要な利点ではありません。利用可能性の制限は物流上の課題であり、根本的な細胞リスクではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The \"WHAT IF?\" section explicitly states that using a patient's own iPS cells would avoid immune rejection, a significant risk in organ transplantation. It also highlights the risk of \"actively dividing, undifferentiated cells\" possibly leading to tumor formation.",
+      "zh": "“WHAT IF?”部分明确指出，使用患者自身的iPS细胞可以避免器官移植中的重大风险——免疫排斥。它还强调了“活跃分裂的未分化细胞”可能导致肿瘤形成的风险。",
+      "es": "La sección \"¿Y SI?\" establece explícitamente que el uso de las propias células iPS de un paciente evitaría el rechazo inmune, un riesgo significativo en el trasplante de órganos. También destaca el riesgo de que las \"células activamente en división y no diferenciadas\" puedan conducir a la formación de tumores.",
+      "fr": "La section « ET SI ? » indique explicitement que l'utilisation des propres cellules iPS d'un patient éviterait le rejet immunitaire, un risque significatif dans la transplantation d'organes. Elle souligne également le risque que les « cellules en division active et non différenciées » puissent conduire à la formation de tumeurs.",
+      "de": "Der Abschnitt „WHAT IF?“ besagt ausdrücklich, dass die Verwendung der patienteneigenen iPS-Zellen eine Immunabstoßung vermeiden würde, ein erhebliches Risiko bei Organtransplantationen. Er hebt auch das Risiko hervor, dass „aktiv teilende, undifferenzierte Zellen“ möglicherweise zur Tumorbildung führen könnten.",
+      "ja": "「WHAT IF?」セクションでは、患者自身のiPS細胞を使用することで、臓器移植における重大なリスクである免疫拒絶を回避できると明確に述べられています。また、「活発に分裂する未分化細胞」が腫瘍形成につながる可能性のあるリスクも強調されています。"
+    }
+  },
+  {
+    "page_number": 481,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 20.21 and its accompanying text, which of the following \"stem cell\" master regulatory genes were introduced into skin fibroblast cells to induce their pluripotency? Select all that apply.",
+      "zh": "根据图 20.21 及其附带文本，以下哪些“干细胞”主调控基因被导入皮肤成纤维细胞以诱导其多能性？请选择所有符合项。",
+      "es": "Según la Figura 20.21 y su texto adjunto, ¿cuáles de los siguientes genes reguladores maestros de \"células madre\" fueron introducidos en las células de fibroblastos de la piel para inducir su pluripotencia? Seleccione todas las que apliquen.",
+      "fr": "Selon la figure 20.21 et le texte qui l'accompagne, lesquels des gènes régulateurs maîtres de « cellules souches » suivants ont été introduits dans les cellules de fibroblastes de la peau pour induire leur pluripotence ? Sélectionnez toutes les réponses applicables.",
+      "de": "Gemäß Abbildung 20.21 und dem begleitenden Text, welche der folgenden \"Stammzell\"-Master-Regulatorgene wurden in Hautfibroblastenzellen eingeführt, um deren Pluripotenz zu induzieren? Wählen Sie alle zutreffenden Optionen aus.",
+      "ja": "図20.21およびそれに付随するテキストによると、皮膚線維芽細胞に導入され、多能性を誘導した「幹細胞」マスター制御遺伝子として、以下のうちどれが挙げられますか？該当するものをすべて選択してください。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Oct3/4",
+          "zh": "Oct3/4",
+          "es": "Oct3/4",
+          "fr": "Oct3/4",
+          "de": "Oct3/4",
+          "ja": "Oct3/4"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Pax6",
+          "zh": "Pax6",
+          "es": "Pax6",
+          "fr": "Pax6",
+          "de": "Pax6",
+          "ja": "Pax6"
+        },
+        "feedback": {
+          "en": "Pax6 is not listed in Figure 20.21 or the text as one of the four genes used for iPS cell induction.",
+          "zh": "图20.21或文本中未将Pax6列为用于iPS细胞诱导的四种基因之一。",
+          "es": "Pax6 no se menciona en la Figura 20.21 ni en el texto como uno de los cuatro genes utilizados para la inducción de células iPS.",
+          "fr": "Pax6 n'est pas listé dans la figure 20.21 ou le texte comme l'un des quatre gènes utilisés pour l'induction des cellules iPS.",
+          "de": "Pax6 ist weder in Abbildung 20.21 noch im Text als eines der vier für die iPS-Zellinduktion verwendeten Gene aufgeführt.",
+          "ja": "Pax6は、図20.21や本文においてiPS細胞誘導に用いられた4つの遺伝子の1つとして挙げられていません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Sox2",
+          "zh": "Sox2",
+          "es": "Sox2",
+          "fr": "Sox2",
+          "de": "Sox2",
+          "ja": "Sox2"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Klf4",
+          "zh": "Klf4",
+          "es": "Klf4",
+          "fr": "Klf4",
+          "de": "Klf4",
+          "ja": "Klf4"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "c-Myc",
+          "zh": "c-Myc",
+          "es": "c-Myc",
+          "fr": "c-Myc",
+          "de": "c-Myc",
+          "ja": "c-Myc"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": {
+      "en": "Figure 20.21 explicitly labels the four \"stem cell\" master regulatory genes introduced as Oct3/4, Sox2, Klf4, and c-Myc. The text confirms these are the four genes used.",
+      "zh": "图20.21明确标示了导入的四种“干细胞”主调控基因是Oct3/4、Sox2、Klf4和c-Myc。文本也证实了这些是所使用的四种基因。",
+      "es": "La Figura 20.21 etiqueta explícitamente los cuatro genes reguladores maestros de \"células madre\" introducidos como Oct3/4, Sox2, Klf4 y c-Myc. El texto confirma que estos son los cuatro genes utilizados.",
+      "fr": "La figure 20.21 étiquette explicitement les quatre gènes régulateurs maîtres de « cellules souches » introduits comme Oct3/4, Sox2, Klf4 et c-Myc. Le texte confirme que ce sont les quatre gènes utilisés.",
+      "de": "Abbildung 20.21 beschriftet explizit die vier eingeführten \"Stammzell\"-Master-Regulatorgene als Oct3/4, Sox2, Klf4 und c-Myc. Der Text bestätigt, dass dies die vier verwendeten Gene sind.",
+      "ja": "図20.21では、導入された4つの「幹細胞」マスター制御遺伝子としてOct3/4、Sox2、Klf4、c-Mycが明確に示されています。本文もこれらが使用された4つの遺伝子であることを確認しています。"
+    }
+  }
+]

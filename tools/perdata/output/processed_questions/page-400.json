@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 400,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the provided text, what information is represented by the height of an individual letter within a stack in a sequence logo, and what is represented by the total height of a stack?",
+      "zh": "根据所提供的文本，序列标识中堆叠内单个字母的高度代表什么信息，而堆叠的总高度又代表什么信息？",
+      "es": "Según el texto proporcionado, ¿qué información representa la altura de una letra individual dentro de una pila en un logo de secuencia, y qué representa la altura total de una pila?",
+      "fr": "Selon le texte fourni, quelle information est représentée par la hauteur d'une lettre individuelle au sein d'une pile dans un logo de séquence, et qu'est-ce qui est représenté par la hauteur totale d'une pile ?",
+      "de": "Gemäß dem bereitgestellten Text, welche Informationen werden durch die Höhe eines einzelnen Buchstabens innerhalb eines Stapels in einem Sequenzlogo dargestellt, und welche Informationen werden durch die Gesamthöhe eines Stapels dargestellt?",
+      "ja": "提供されたテキストによると、シーケンスロゴのスタック内の個々の文字の高さは何を表し、スタック全体の高さは何を表していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Individual letter height represents the predictive power; total stack height represents the relative frequency.",
+          "zh": "单个字母的高度代表预测能力；堆叠的总高度代表相对频率。",
+          "es": "La altura de la letra individual representa el poder predictivo; la altura total de la pila representa la frecuencia relativa.",
+          "fr": "La hauteur d'une lettre individuelle représente la puissance prédictive ; la hauteur totale de la pile représente la fréquence relative.",
+          "de": "Die Höhe eines einzelnen Buchstabens stellt die Vorhersagekraft dar; die Gesamthöhe des Stapels stellt die relative Häufigkeit dar.",
+          "ja": "個々の文字の高さは予測能力を表し、スタック全体の高さは相対頻度を表します。"
+        },
+        "feedback": {
+          "en": "This statement incorrectly swaps the meanings. The height of a stack indicates predictive power, and the height of an individual letter indicates relative frequency.",
+          "zh": "这个说法错误地交换了含义。堆叠的高度表示预测能力，而单个字母的高度表示相对频率。",
+          "es": "Esta afirmación intercambia incorrectamente los significados. La altura de una pila indica el poder predictivo, y la altura de una letra individual indica la frecuencia relativa.",
+          "fr": "Cette affirmation intervertit incorrectement les significations. La hauteur d'une pile indique la puissance prédictive, et la hauteur d'une lettre individuelle indique la fréquence relative.",
+          "de": "Diese Aussage vertauscht die Bedeutungen. Die Höhe eines Stapels gibt die Vorhersagekraft an, und die Höhe eines einzelnen Buchstabens gibt die relative Häufigkeit an.",
+          "ja": "この記述は意味を誤って入れ替えています。スタックの高さは予測能力を示し、個々の文字の高さは相対頻度を示します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Individual letter height represents the relative frequency of that base; total stack height represents the predictive power of that position.",
+          "zh": "单个字母的高度代表该碱基的相对频率；堆叠的总高度代表该位置的预测能力。",
+          "es": "La altura de la letra individual representa la frecuencia relativa de esa base; la altura total de la pila representa el poder predictivo de esa posición.",
+          "fr": "La hauteur d'une lettre individuelle représente la fréquence relative de cette base ; la hauteur totale de la pile représente la puissance prédictive de cette position.",
+          "de": "Die Höhe eines einzelnen Buchstabens stellt die relative Häufigkeit dieser Base dar; die Gesamthöhe des Stapels stellt die Vorhersagekraft dieser Position dar.",
+          "ja": "個々の文字の高さはその塩基の相対頻度を表し、スタック全体の高さはその位置の予測能力を表します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Individual letter height represents the absolute count of that base; total stack height represents the number of unique bases.",
+          "zh": "单个字母的高度代表该碱基的绝对计数；堆叠的总高度代表唯一碱基的数量。",
+          "es": "La altura de la letra individual representa el recuento absoluto de esa base; la altura total de la pila representa el número de bases únicas.",
+          "fr": "La hauteur d'une lettre individuelle représente le nombre absolu de cette base ; la hauteur totale de la pile représente le nombre de bases uniques.",
+          "de": "Die Höhe eines einzelnen Buchstabens stellt die absolute Anzahl dieser Base dar; die Gesamthöhe des Stapels stellt die Anzahl der einzigartigen Basen dar.",
+          "ja": "個々の文字の高さはその塩基の絶対数を表し、スタック全体の高さはユニークな塩基の数を表します。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The logo represents relative frequencies and statistical predictability, not absolute counts or unique base numbers.",
+          "zh": "这是不正确的。序列标识代表相对频率和统计预测能力，而不是绝对计数或唯一碱基数量。",
+          "es": "Esto es incorrecto. El logo representa frecuencias relativas y predictibilidad estadística, no recuentos absolutos o números de bases únicas.",
+          "fr": "C'est incorrect. Le logo représente les fréquences relatives et la prédictibilité statistique, non les nombres absolus ou les nombres de bases uniques.",
+          "de": "Dies ist falsch. Das Logo stellt relative Häufigkeiten und statistische Vorhersagbarkeit dar, nicht absolute Zählungen oder die Anzahl einzigartiger Basen.",
+          "ja": "これは誤りです。ロゴは相対頻度と統計的予測能力を表しており、絶対数やユニークな塩基の数ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Individual letter height represents the conservation of the base; total stack height represents the evolutionary distance.",
+          "zh": "单个字母的高度代表碱基的保守性；堆叠的总高度代表进化距离。",
+          "es": "La altura de la letra individual representa la conservación de la base; la altura total de la pila representa la distancia evolutiva.",
+          "fr": "La hauteur d'une lettre individuelle représente la conservation de la base ; la hauteur totale de la pile représente la distance évolutive.",
+          "de": "Die Höhe eines einzelnen Buchstabens stellt die Konservierung der Base dar; die Gesamthöhe des Stapels stellt die evolutionäre Distanz dar.",
+          "ja": "個々の文字の高さは塩基の保存性を示し、スタック全体の高さは進化距離を示します。"
+        },
+        "feedback": {
+          "en": "While related to conservation, the text specifies relative frequency for individual letters and predictive power for the stack height, not evolutionary distance.",
+          "zh": "虽然与保守性相关，但文本明确指出单个字母代表相对频率，堆叠总高度代表预测能力，而不是进化距离。",
+          "es": "Aunque relacionado con la conservación, el texto especifica la frecuencia relativa para letras individuales y el poder predictivo para la altura de la pila, no la distancia evolutiva.",
+          "fr": "Bien que lié à la conservation, le texte spécifie la fréquence relative pour les lettres individuelles et la puissance prédictive pour la hauteur de la pile, et non la distance évolutive.",
+          "de": "Obwohl mit der Konservierung verwandt, spezifiziert der Text die relative Häufigkeit für einzelne Buchstaben und die Vorhersagekraft für die Stapelhöhe, nicht die evolutionäre Distanz.",
+          "ja": "保存性に関連していますが、テキストでは個々の文字の相対頻度とスタックの高さの予測能力が指定されており、進化距離ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'The height of each letter represents the relative frequency of that base at that position.' and 'The height of a stack of letters in a logo indicates the predictive power of that stack (determined statistically).'",
+      "zh": "文本明确指出：“每个字母的高度代表该位置上该碱基的相对频率。”以及“标识中字母堆叠的高度表示该堆叠的预测能力（经统计确定）。”",
+      "es": "El texto establece explícitamente: 'La altura de cada letra representa la frecuencia relativa de esa base en esa posición.' y 'La altura de una pila de letras en un logo indica el poder predictivo de esa pila (determinado estadísticamente).'",
+      "fr": "Le texte déclare explicitement : 'La hauteur de chaque lettre représente la fréquence relative de cette base à cette position.' et 'La hauteur d'une pile de lettres dans un logo indique la puissance prédictive de cette pile (déterminée statistiquement).'",
+      "de": "Der Text besagt explizit: 'Die Höhe jedes Buchstabens stellt die relative Häufigkeit dieser Base an dieser Position dar.' und 'Die Höhe eines Buchstabenstapels in einem Logo gibt die Vorhersagekraft dieses Stapels an (statistisch bestimmt).'",
+      "ja": "テキストには明確に次のように記載されています。「各文字の高さは、その位置におけるその塩基の相対頻度を表します。」そして、「ロゴ内の文字のスタックの高さは、そのスタックの予測能力（統計的に決定される）を示します。」"
+    }
+  },
+  {
+    "page_number": 400,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on the sequence logo derived from the ten E. coli genes (the smaller logo provided in the \"Data from the Experiment\" section), which two positions show the highest predictability for a base?",
+      "zh": "根据从十个大肠杆菌基因（“实验数据”部分提供的小型序列标识）中得出的序列标识，哪两个位置显示出最高的碱基可预测性？",
+      "es": "Basándose en el logo de secuencia derivado de los diez genes de E. coli (el logo más pequeño proporcionado en la sección \"Datos del experimento\"), ¿qué dos posiciones muestran la mayor predictibilidad para una base?",
+      "fr": "D'après le logo de séquence dérivé des dix gènes d'E. coli (le plus petit logo fourni dans la section « Données de l'expérience »), quelles sont les deux positions qui présentent la plus grande prédictibilité pour une base ?",
+      "de": "Basierend auf dem Sequenzlogo, das aus den zehn E. coli-Genen abgeleitet wurde (dem kleineren Logo im Abschnitt „Daten aus dem Experiment“), welche zwei Positionen zeigen die höchste Vorhersagbarkeit für eine Base?",
+      "ja": "『実験データ』セクションに示されている10種類のE. coli遺伝子から派生したシーケンスロゴ（小さい方のロゴ）に基づいて、最も高い塩基予測性を示す2つの位置はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Positions -9 and -8",
+          "zh": "位置 -9 和 -8",
+          "es": "Posiciones -9 y -8",
+          "fr": "Positions -9 et -8",
+          "de": "Positionen -9 und -8",
+          "ja": "位置 -9 と -8"
+        },
+        "feedback": {
+          "en": "The stacks at positions -9 and -8 in the small logo are relatively short, indicating low predictability.",
+          "zh": "小型序列标识中位置 -9 和 -8 的堆叠相对较短，表明可预测性较低。",
+          "es": "Las pilas en las posiciones -9 y -8 en el logo pequeño son relativamente cortas, lo que indica baja predictibilidad.",
+          "fr": "Les piles aux positions -9 et -8 dans le petit logo sont relativement courtes, ce qui indique une faible prédictibilité.",
+          "de": "Die Stapel an den Positionen -9 und -8 im kleinen Logo sind relativ kurz, was auf eine geringe Vorhersagbarkeit hindeutet.",
+          "ja": "小さいロゴの位置 -9 と -8 のスタックは比較的短く、予測性が低いことを示しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Positions -1 and 2",
+          "zh": "位置 -1 和 2",
+          "es": "Posiciones -1 y 2",
+          "fr": "Positions -1 et 2",
+          "de": "Positionen -1 und 2",
+          "ja": "位置 -1 と 2"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Positions 3 and 4",
+          "zh": "位置 3 和 4",
+          "es": "Posiciones 3 y 4",
+          "fr": "Positions 3 et 4",
+          "de": "Positionen 3 und 4",
+          "ja": "位置 3 と 4"
+        },
+        "feedback": {
+          "en": "The stacks at positions 3 and 4 in the small logo are relatively short, indicating low predictability.",
+          "zh": "小型序列标识中位置 3 和 4 的堆叠相对较短，表明可预测性较低。",
+          "es": "Las pilas en las posiciones 3 y 4 en el logo pequeño son relativamente cortas, lo que indica baja predictibilidad.",
+          "fr": "Les piles aux positions 3 et 4 dans le petit logo sont relativement courtes, ce qui indique une faible prédictibilité.",
+          "de": "Die Stapel an den Positionen 3 und 4 im kleinen Logo sind relativ kurz, was auf eine geringe Vorhersagbarkeit hindeutet.",
+          "ja": "小さいロゴの位置 3 と 4 のスタックは比較的短く、予測性が低いことを示しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Positions -14 and -13",
+          "zh": "位置 -14 和 -13",
+          "es": "Posiciones -14 y -13",
+          "fr": "Positions -14 et -13",
+          "de": "Positionen -14 und -13",
+          "ja": "位置 -14 と -13"
+        },
+        "feedback": {
+          "en": "The stacks at positions -14 and -13 in the small logo are very short, indicating very low predictability.",
+          "zh": "小型序列标识中位置 -14 和 -13 的堆叠非常短，表明可预测性极低。",
+          "es": "Las pilas en las posiciones -14 y -13 en el logo pequeño son muy cortas, lo que indica muy baja predictibilidad.",
+          "fr": "Les piles aux positions -14 et -13 dans le petit logo sont très courtes, ce qui indique une très faible prédictibilité.",
+          "de": "Die Stapel an den Positionen -14 und -13 im kleinen Logo sind sehr kurz, was auf eine sehr geringe Vorhersagbarkeit hindeutet.",
+          "ja": "小さいロゴの位置 -14 と -13 のスタックは非常に短く、予測性が非常に低いことを示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that 'If the stack is tall, we can be more confident in predicting what base will be in that position'. Visually, in the smaller sequence logo (derived from 10 genes), positions -1 and 2 have the tallest stacks, indicating high predictability. Position -1 has a very tall G stack, and position 2 also has a very tall G stack.",
+      "zh": "文本指出“如果堆叠很高，我们就可以更有信心地预测该位置的碱基”。从视觉上看，在较小的序列标识（由10个基因得出）中，位置 -1 和 2 具有最高的堆叠，表明可预测性很高。位置 -1 有一个非常高的G堆叠，位置 2 也有一个非常高的G堆叠。",
+      "es": "El texto afirma que 'Si la pila es alta, podemos tener más confianza al predecir qué base habrá en esa posición'. Visualmente, en el logo de secuencia más pequeño (derivado de 10 genes), las posiciones -1 y 2 tienen las pilas más altas, lo que indica una alta predictibilidad. La posición -1 tiene una pila de G muy alta, y la posición 2 también tiene una pila de G muy alta.",
+      "fr": "Le texte indique que « si la pile est haute, nous pouvons être plus confiants pour prédire quelle base sera à cette position ». Visuellement, dans le plus petit logo de séquence (dérivé de 10 gènes), les positions -1 et 2 ont les piles les plus hautes, indiquant une prédictibilité élevée. La position -1 a une très haute pile de G, et la position 2 a également une très haute pile de G.",
+      "de": "Der Text besagt, dass 'Wenn der Stapel hoch ist, können wir sicherer vorhersagen, welche Base an dieser Position sein wird'. Visuell zeigen im kleineren Sequenzlogo (abgeleitet von 10 Genen) die Positionen -1 und 2 die höchsten Stapel, was auf eine hohe Vorhersagbarkeit hindeutet. Position -1 hat einen sehr hohen G-Stapel, und Position 2 hat ebenfalls einen sehr hohen G-Stapel.",
+      "ja": "テキストには、「スタックが高いほど、その位置にどの塩基があるかをより自信を持って予測できる」と述べられています。視覚的に、より小さいシーケンスロゴ（10個の遺伝子から派生）では、位置-1と2が最も高いスタックを持っており、高い予測性を示しています。位置-1には非常に高いGのスタックがあり、位置2にも非常に高いGのスタックがあります。"
+    }
+  },
+  {
+    "page_number": 400,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text discusses both consensus sequences and sequence logos. What crucial information, provided by a sequence logo, is typically lost when only a consensus sequence is used?",
+      "zh": "文本讨论了共有序列和序列标识。当只使用共有序列时，序列标识所提供的哪些关键信息通常会丢失？",
+      "es": "El texto discute tanto las secuencias de consenso como los logos de secuencia. ¿Qué información crucial, proporcionada por un logo de secuencia, se pierde típicamente cuando solo se utiliza una secuencia de consenso?",
+      "fr": "Le texte aborde à la fois les séquences consensus et les logos de séquence. Quelle information cruciale, fournie par un logo de séquence, est généralement perdue lorsque seule une séquence consensus est utilisée ?",
+      "de": "Der Text behandelt sowohl Konsensussequenzen als auch Sequenzlogos. Welche entscheidenden Informationen, die ein Sequenzlogo liefert, gehen typischerweise verloren, wenn nur eine Konsensussequenz verwendet wird?",
+      "ja": "テキストでは、コンセンサスシーケンスとシーケンスロゴの両方について議論されています。シーケンスロゴによって提供される重要な情報のうち、コンセンサスシーケンスのみを使用した場合に通常失われるものは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The absolute number of sequences analyzed.",
+          "zh": "分析的序列的绝对数量。",
+          "es": "El número absoluto de secuencias analizadas.",
+          "fr": "Le nombre absolu de séquences analysées.",
+          "de": "Die absolute Anzahl der analysierten Sequenzen.",
+          "ja": "分析されたシーケンスの絶対数。"
+        },
+        "feedback": {
+          "en": "Neither the consensus sequence nor the sequence logo explicitly state the absolute number of sequences analyzed, though the context might imply it.",
+          "zh": "共有序列和序列标识都没有明确说明所分析序列的绝对数量，尽管上下文可能暗示了这一点。",
+          "es": "Ni la secuencia de consenso ni el logo de secuencia indican explícitamente el número absoluto de secuencias analizadas, aunque el contexto podría implicarlo.",
+          "fr": "Ni la séquence consensus ni le logo de séquence n'indiquent explicitement le nombre absolu de séquences analysées, bien que le contexte puisse l'impliquer.",
+          "de": "Weder die Konsensussequenz noch das Sequenzlogo geben explizit die absolute Anzahl der analysierten Sequenzen an, obwohl der Kontext dies implizieren könnte.",
+          "ja": "コンセンサスシーケンスもシーケンスロゴも、分析されたシーケンスの絶対数を明確に示しているわけではありませんが、文脈から示唆される場合があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The specific nucleotide sequence.",
+          "zh": "具体的核苷酸序列。",
+          "es": "La secuencia de nucleótidos específica.",
+          "fr": "La séquence nucléotidique spécifique.",
+          "de": "Die spezifische Nukleotidsequenz.",
+          "ja": "特定のヌクレオチド配列。"
+        },
+        "feedback": {
+          "en": "The consensus sequence provides the most frequent nucleotide, so it does show a specific sequence, albeit a simplified one.",
+          "zh": "共有序列提供了最常见的核苷酸，因此它确实显示了一个具体的序列，尽管是简化的。",
+          "es": "La secuencia de consenso proporciona el nucleótido más frecuente, por lo que sí muestra una secuencia específica, aunque simplificada.",
+          "fr": "La séquence consensus fournit le nucléotide le plus fréquent, elle montre donc une séquence spécifique, bien que simplifiée.",
+          "de": "Die Konsensussequenz liefert das häufigste Nukleotid, zeigt also eine spezifische Sequenz, wenn auch eine vereinfachte.",
+          "ja": "コンセンサスシーケンスは最も頻繁なヌクレオチドを提供するため、特定のシーケンスを示しますが、それは簡略化されたものです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The relative frequencies of all bases at a given position and the overall predictability of that position.",
+          "zh": "给定位置上所有碱基的相对频率以及该位置的整体可预测性。",
+          "es": "Las frecuencias relativas de todas las bases en una posición dada y la predictibilidad general de esa posición.",
+          "fr": "Les fréquences relatives de toutes les bases à une position donnée et la prédictibilité globale de cette position.",
+          "de": "Die relativen Häufigkeiten aller Basen an einer bestimmten Position und die Gesamtvorhersagbarkeit dieser Position.",
+          "ja": "特定のポジションにおけるすべての塩基の相対頻度と、そのポジションの全体的な予測能力。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The presence of mutations.",
+          "zh": "突变的存在。",
+          "es": "La presencia de mutaciones.",
+          "fr": "La présence de mutations.",
+          "de": "Das Vorhandensein von Mutationen.",
+          "ja": "突然変異の存在。"
+        },
+        "feedback": {
+          "en": "Neither method directly shows 'mutations' in the sense of changes from an ancestral sequence. They show variation and conservation within an aligned set.",
+          "zh": "这两种方法都没有直接显示从祖先序列变化的“突变”。它们显示的是对齐序列集合内的变异和保守性。",
+          "es": "Ninguno de los métodos muestra directamente 'mutaciones' en el sentido de cambios respecto a una secuencia ancestral. Muestran variación y conservación dentro de un conjunto alineado.",
+          "fr": "Aucune des deux méthodes ne montre directement les « mutations » au sens de changements par rapport à une séquence ancestrale. Elles montrent la variation et la conservation au sein d'un ensemble aligné.",
+          "de": "Keine der Methoden zeigt direkt 'Mutationen' im Sinne von Veränderungen gegenüber einer Vorfahrensequenz. Sie zeigen Variation und Konservierung innerhalb eines ausgerichteten Satzes.",
+          "ja": "どちらの方法も、祖先配列からの変化という意味での「突然変異」を直接示すものではありません。これらは、アラインされたセット内の多様性と保存性を示します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "A consensus sequence only provides the most frequent base at each position (and a dash if no clear majority), losing information about the relative proportions of other bases and how 'strong' the consensus is. A sequence logo, however, uses letter height to show relative frequencies and stack height to show overall predictability/information content, providing a much richer view of conservation and variation.",
+      "zh": "共有序列只提供每个位置最常见的碱基（如果没有明确多数则显示破折号），从而丢失了其他碱基相对比例的信息以及共有序列的“强度”。而序列标识则使用字母高度来显示相对频率，堆叠高度来显示整体可预测性/信息含量，从而提供了更丰富的保守性和变异视图。",
+      "es": "Una secuencia de consenso solo proporciona la base más frecuente en cada posición (y un guion si no hay una mayoría clara), perdiendo información sobre las proporciones relativas de otras bases y cuán 'fuerte' es el consenso. Un logo de secuencia, sin embargo, utiliza la altura de la letra para mostrar las frecuencias relativas y la altura de la pila para mostrar la predictibilidad/contenido de información general, ofreciendo una visión mucho más rica de la conservación y la variación.",
+      "fr": "Une séquence consensus ne fournit que la base la plus fréquente à chaque position (et un tiret s'il n'y a pas de majorité claire), perdant ainsi des informations sur les proportions relatives des autres bases et la « force » du consensus. Un logo de séquence, en revanche, utilise la hauteur des lettres pour montrer les fréquences relatives et la hauteur de la pile pour montrer la prédictibilité/le contenu d'information global, offrant une vue beaucoup plus riche de la conservation et de la variation.",
+      "de": "Eine Konsensussequenz liefert nur die häufigste Base an jeder Position (und einen Bindestrich, wenn keine klare Mehrheit vorhanden ist), wodurch Informationen über die relativen Anteile anderer Basen und die 'Stärke' des Konsensus verloren gehen. Ein Sequenzlogo hingegen verwendet die Buchstabenhöhe, um relative Häufigkeiten darzustellen, und die Stapelhöhe, um die Gesamtvorhersagbarkeit/den Informationsgehalt zu zeigen, was eine viel reichere Ansicht von Konservierung und Variation bietet.",
+      "ja": "コンセンサスシーケンスは、各位置で最も頻繁な塩基のみを提供し（明確な多数派がない場合はダッシュ）、他の塩基の相対的な割合やコンセンサスの「強さ」に関する情報を失います。一方、シーケンスロゴは、文字の高さで相対頻度を示し、スタックの高さで全体的な予測能力/情報量を示すことで、保存性と多様性のより豊かな視点を提供します。"
+    }
+  },
+  {
+    "page_number": 400,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the large sequence logo, which single nucleotide position in the 5' UTR (upstream of the start codon at position 0) shows the highest conservation and predictive power, indicating its likely importance for ribosome binding?",
+      "zh": "根据大型序列标识，5' UTR（起始密码子在位置 0 上游）中哪个单个核苷酸位置显示出最高的保守性和预测能力，表明其对核糖体结合可能的重要性？",
+      "es": "Basándose en el logo de secuencia grande, ¿qué única posición de nucleótido en la 5' UTR (corriente arriba del codón de inicio en la posición 0) muestra la mayor conservación y poder predictivo, indicando su probable importancia para la unión al ribosoma?",
+      "fr": "Basé sur le grand logo de séquence, quelle position nucléotidique unique dans la 5' UTR (en amont du codon de démarrage à la position 0) montre la plus haute conservation et puissance prédictive, indiquant son importance probable pour la liaison ribosomique ?",
+      "de": "Basierend auf dem großen Sequenzlogo, welche einzelne Nukleotidposition im 5'-UTR (upstream des Startcodons an Position 0) zeigt die höchste Konservierung und Vorhersagekraft, was auf ihre wahrscheinliche Bedeutung für die Ribosomenbindung hindeutet?",
+      "ja": "大きなシーケンスロゴに基づいて、5'UTR（位置0の開始コドンの上流）のどの単一ヌクレオチド位置が最高の保存性と予測能力を示しており、リボソーム結合にとってその重要性を示唆していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Position -1",
+          "zh": "位置 -1",
+          "es": "Posición -1",
+          "fr": "Position -1",
+          "de": "Position -1",
+          "ja": "位置 -1"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Position -10",
+          "zh": "位置 -10",
+          "es": "Posición -10",
+          "fr": "Position -10",
+          "de": "Position -10",
+          "ja": "位置 -10"
+        },
+        "feedback": {
+          "en": "While position -10 shows high conservation, position -1 has an even taller stack, indicating greater predictive power and closer proximity to the critical start codon region.",
+          "zh": "虽然位置 -10 显示出高度保守性，但位置 -1 的堆叠更高，表明预测能力更强，并且更接近关键的起始密码子区域。",
+          "es": "Aunque la posición -10 muestra una alta conservación, la posición -1 tiene una pila aún más alta, lo que indica un mayor poder predictivo y una mayor proximidad a la región crítica del codón de inicio.",
+          "fr": "Bien que la position -10 montre une conservation élevée, la position -1 a une pile encore plus haute, indiquant une plus grande puissance prédictive et une proximité plus grande avec la région critique du codon de démarrage.",
+          "de": "Obwohl Position -10 eine hohe Konservierung aufweist, hat Position -1 einen noch höheren Stapel, was auf eine größere Vorhersagekraft und eine größere Nähe zum kritischen Startcodonbereich hindeutet.",
+          "ja": "位置 -10 は高い保存性を示しますが、位置 -1 のスタックはさらに高く、より大きな予測能力と、重要な開始コドン領域へのより近い近接性を示しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Position -16",
+          "zh": "位置 -16",
+          "es": "Posición -16",
+          "fr": "Position -16",
+          "de": "Position -16",
+          "ja": "位置 -16"
+        },
+        "feedback": {
+          "en": "Position -16 shows significant conservation, but position -1 exhibits a much taller stack, indicating the highest level of conservation and predictive power relevant to ribosome binding immediately upstream of the start codon.",
+          "zh": "位置 -16 显示出显著的保守性，但位置 -1 表现出更高的堆叠，表明在起始密码子上游与核糖体结合相关的最高水平的保守性和预测能力。",
+          "es": "La posición -16 muestra una conservación significativa, pero la posición -1 exhibe una pila mucho más alta, lo que indica el nivel más alto de conservación y poder predictivo relevante para la unión del ribosoma inmediatamente aguas arriba del codón de inicio.",
+          "fr": "La position -16 montre une conservation significative, mais la position -1 présente une pile beaucoup plus haute, indiquant le plus haut niveau de conservation et de puissance prédictive pertinente pour la liaison ribosomique juste en amont du codon de démarrage.",
+          "de": "Position -16 zeigt eine signifikante Konservierung, aber Position -1 weist einen deutlich höheren Stapel auf, was auf das höchste Maß an Konservierung und Vorhersagekraft hindeutet, das für die Ribosomenbindung unmittelbar vor dem Startcodon relevant ist.",
+          "ja": "位置 -16 は顕著な保存性を示しますが、位置 -1 ははるかに高いスタックを示しており、開始コドンのすぐ上流のリボソーム結合に関連する最高の保存性と予測能力を示しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Position 5",
+          "zh": "位置 5",
+          "es": "Posición 5",
+          "fr": "Position 5",
+          "de": "Position 5",
+          "ja": "位置 5"
+        },
+        "feedback": {
+          "en": "Position 5 is downstream of the start codon and its stack is relatively short, indicating low conservation for ribosome binding, which occurs upstream.",
+          "zh": "位置 5 位于起始密码子下游，其堆叠相对较短，表明核糖体结合（发生在上游）的保守性较低。",
+          "es": "La posición 5 está aguas abajo del codón de inicio y su pila es relativamente corta, lo que indica baja conservación para la unión del ribosoma, que ocurre aguas arriba.",
+          "fr": "La position 5 est en aval du codon de démarrage et sa pile est relativement courte, indiquant une faible conservation pour la liaison ribosomique, qui se produit en amont.",
+          "de": "Position 5 liegt downstream des Startcodons, und ihr Stapel ist relativ kurz, was auf eine geringe Konservierung für die Ribosomenbindung hinweist, die upstream stattfindet.",
+          "ja": "位置5は開始コドンの下流にあり、そのスタックは比較的短く、上流で起こるリボソーム結合にとって保存性が低いことを示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explains that ribosome binding sites are conserved stretches of bases upstream of the AUG start codon (positions 0, 1, 2). Looking at the large sequence logo, the stack at position -1 is remarkably tall, indicating extremely high conservation and predictive power for the base G at this position. This makes it a prime candidate for a critical nucleotide within the ribosome binding site.",
+      "zh": "文本解释说，核糖体结合位点是位于 AUG 起始密码子（位置 0、1、2）上游的保守碱基序列。观察大型序列标识，位置 -1 的堆叠异常高，表明该位置的碱基 G 具有极高的保守性和预测能力。这使其成为核糖体结合位点内关键核苷酸的首要候选。",
+      "es": "El texto explica que los sitios de unión al ribosoma son tramos conservados de bases aguas arriba del codón de inicio AUG (posiciones 0, 1, 2). Al observar el logo de secuencia grande, la pila en la posición -1 es notablemente alta, lo que indica una conservación y un poder predictivo extremadamente altos para la base G en esta posición. Esto la convierte en una candidata principal para un nucleótido crítico dentro del sitio de unión al ribosoma.",
+      "fr": "Le texte explique que les sites de liaison ribosomique sont des tronçons de bases conservés en amont du codon de démarrage AUG (positions 0, 1, 2). En observant le grand logo de séquence, la pile à la position -1 est remarquablement haute, indiquant une conservation et un pouvoir prédictif extrêmement élevés pour la base G à cette position. Cela en fait un candidat de premier choix pour un nucléotide critique au sein du site de liaison ribosomique.",
+      "de": "Der Text erklärt, dass Ribosomenbindungsstellen konservierte Basenabschnitte upstream des AUG-Startcodons (Positionen 0, 1, 2) sind. Betrachtet man das große Sequenzlogo, ist der Stapel an Position -1 bemerkenswert hoch, was auf eine extrem hohe Konservierung und Vorhersagekraft für die Base G an dieser Position hindeutet. Dies macht sie zu einem Hauptkandidaten für ein kritisches Nukleotid innerhalb der Ribosomenbindungsstelle.",
+      "ja": "テキストでは、リボソーム結合部位がAUG開始コドン（位置0、1、2）の上流にある保存された塩基の連なりであると説明されています。大きなシーケンスロゴを見ると、位置-1のスタックは著しく高く、この位置の塩基Gの極めて高い保存性と予測能力を示しています。これは、リボソーム結合部位内の重要なヌクレオチドの最有力候補となります。"
+    }
+  }
+]

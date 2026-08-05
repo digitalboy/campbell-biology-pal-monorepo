@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 299,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement correctly describes the information presented by the x-axis in the provided histograms and its relation to the cell cycle?",
+      "zh": "以下哪项陈述正确描述了所提供直方图中x轴显示的信息及其与细胞周期的关系？",
+      "es": "¿Qué afirmación describe correctamente la información presentada por el eje x en los histogramas proporcionados y su relación con el ciclo celular?",
+      "fr": "Quelle affirmation décrit correctement les informations présentées par l'axe des x dans les histogrammes fournis et leur relation avec le cycle cellulaire?",
+      "de": "Welche Aussage beschreibt korrekt die Informationen, die auf der X-Achse in den bereitgestellten Histogrammen dargestellt sind, und deren Bezug zum Zellzyklus?",
+      "ja": "提供されたヒストグラムのx軸が示す情報と細胞周期との関係を正しく説明している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The x-axis directly measures cell size, indicating that larger cells have more DNA.",
+          "zh": "x轴直接测量细胞大小，表明更大的细胞含有更多的DNA。",
+          "es": "El eje x mide directamente el tamaño celular, indicando que las células más grandes tienen más ADN.",
+          "fr": "L'axe des x mesure directement la taille des cellules, indiquant que les cellules plus grandes ont plus d'ADN.",
+          "de": "Die X-Achse misst direkt die Zellgröße, was darauf hindeutet, dass größere Zellen mehr DNA haben.",
+          "ja": "x軸は細胞の大きさを直接測定しており、細胞が大きいほどDNA量が多いことを示しています。"
+        },
+        "feedback": {
+          "en": "The x-axis measures fluorescence, which indirectly indicates DNA content, not cell size.",
+          "zh": "x轴测量的是荧光，间接指示DNA含量，而非细胞大小。",
+          "es": "El eje x mide la fluorescencia, que indirectamente indica el contenido de ADN, no el tamaño celular.",
+          "fr": "L'axe des x mesure la fluorescence, qui indique indirectement la teneur en ADN, et non la taille des cellules.",
+          "de": "Die X-Achse misst die Fluoreszenz, die indirekt den DNA-Gehalt angibt, nicht die Zellgröße.",
+          "ja": "x軸は蛍光を測定しており、これは間接的にDNA量を表し、細胞の大きさではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The x-axis represents the relative amount of DNA per cell, with cells in G1 phase having approximately half the DNA content of cells in G2/M phase.",
+          "zh": "x轴代表每个细胞的相对DNA含量，G1期细胞的DNA含量大约是G2/M期细胞的一半。",
+          "es": "El eje x representa la cantidad relativa de ADN por célula, con las células en fase G1 teniendo aproximadamente la mitad del contenido de ADN que las células en fase G2/M.",
+          "fr": "L'axe des x représente la quantité relative d'ADN par cellule, les cellules en phase G1 ayant environ la moitié de la teneur en ADN des cellules en phase G2/M.",
+          "de": "Die X-Achse stellt die relative DNA-Menge pro Zelle dar, wobei Zellen in der G1-Phase etwa die Hälfte des DNA-Gehalts von Zellen in der G2/M-Phase aufweisen.",
+          "ja": "x軸は細胞あたりの相対的なDNA量を表しており、G1期の細胞はG2/M期の細胞の約半分のDNA量を持っています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The x-axis shows the rate of cell division, with higher fluorescence indicating faster division.",
+          "zh": "x轴显示细胞分裂的速率，荧光越高表示分裂越快。",
+          "es": "El eje x muestra la tasa de división celular, con una mayor fluorescencia indicando una división más rápida.",
+          "fr": "L'axe des x indique le taux de division cellulaire, une fluorescence plus élevée indiquant une division plus rapide.",
+          "de": "Die X-Achse zeigt die Zellteilungsrate an, wobei höhere Fluoreszenz eine schnellere Teilung anzeigt.",
+          "ja": "x軸は細胞分裂の速度を示し、蛍光が高いほど分裂が速いことを示しています。"
+        },
+        "feedback": {
+          "en": "The x-axis indicates DNA content, not the rate of cell division.",
+          "zh": "x轴表示DNA含量，而非细胞分裂速率。",
+          "es": "El eje x indica el contenido de ADN, no la tasa de división celular.",
+          "fr": "L'axe des x indique la teneur en ADN, et non le taux de division cellulaire.",
+          "de": "Die X-Achse zeigt den DNA-Gehalt an, nicht die Zellteilungsrate.",
+          "ja": "x軸はDNA量を示しており、細胞分裂の速度ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The x-axis measures the number of chromosomes, and cells in S phase have twice the number of chromosomes as G1 cells.",
+          "zh": "x轴测量染色体数量，S期细胞的染色体数量是G1期细胞的两倍。",
+          "es": "El eje x mide el número de cromosomas, y las células en fase S tienen el doble de cromosomas que las células en fase G1.",
+          "fr": "L'axe des x mesure le nombre de chromosomes, et les cellules en phase S ont deux fois plus de chromosomes que les cellules en phase G1.",
+          "de": "Die X-Achse misst die Anzahl der Chromosomen, und Zellen in der S-Phase haben die doppelte Anzahl an Chromosomen wie G1-Zellen.",
+          "ja": "x軸は染色体数を測定しており、S期の細胞はG1期の細胞の2倍の染色体数を持っています。"
+        },
+        "feedback": {
+          "en": "The x-axis indicates DNA content. While DNA content doubles in S phase, the chromosome number remains the same (each chromosome now has two chromatids) until anaphase.",
+          "zh": "x轴表示DNA含量。虽然DNA含量在S期倍增，但染色体数量在分裂后期之前保持不变（每个染色体现在有两个染色单体）。",
+          "es": "El eje x indica el contenido de ADN. Si bien el contenido de ADN se duplica en la fase S, el número de cromosomas permanece igual (cada cromosoma ahora tiene dos cromátidas) hasta la anafase.",
+          "fr": "L'axe des x indique la teneur en ADN. Bien que la teneur en ADN double en phase S, le nombre de chromosomes reste le même (chaque chromosome a maintenant deux chromatides) jusqu'à l'anaphase.",
+          "de": "Die X-Achse zeigt den DNA-Gehalt an. Obwohl sich der DNA-Gehalt in der S-Phase verdoppelt, bleibt die Chromosomenzahl bis zur Anaphase gleich (jedes Chromosom hat nun zwei Chromatiden).",
+          "ja": "x軸はDNA量を示します。S期にDNA量が倍増しますが、染色体数はアナフェーズまでは同じです（各染色体は2つの姉妹染色分体を持つようになります）。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The passage states that the fluorescent chemical binds to DNA, and the flow cytometer records fluorescence level per cell, which in turn indicates the relative amount of DNA. Cells in G1 phase have a base amount of DNA (2C), while cells in G2/M phase have duplicated their DNA (4C), so G1 cells have half the DNA of G2/M cells.",
+      "zh": "文章指出，荧光化学物质与DNA结合，流式细胞仪记录每个细胞的荧光水平，这反过来表明了相对的DNA含量。G1期细胞具有基础DNA量（2C），而G2/M期细胞已复制其DNA（4C），因此G1期细胞的DNA含量是G2/M期细胞的一半。",
+      "es": "El pasaje indica que el químico fluorescente se une al ADN, y el citómetro de flujo registra el nivel de fluorescencia por célula, lo que a su vez indica la cantidad relativa de ADN. Las células en fase G1 tienen una cantidad base de ADN (2C), mientras que las células en fase G2/M han duplicado su ADN (4C), por lo que las células en G1 tienen la mitad del ADN que las células en G2/M.",
+      "fr": "Le passage indique que le produit chimique fluorescent se lie à l'ADN, et le cytomètre de flux enregistre le niveau de fluorescence par cellule, ce qui indique à son tour la quantité relative d'ADN. Les cellules en phase G1 ont une quantité de base d'ADN (2C), tandis que les cellules en phase G2/M ont dupliqué leur ADN (4C), donc les cellules en G1 ont la moitié de l'ADN des cellules en G2/M.",
+      "de": "Der Text besagt, dass der fluoreszierende chemische Stoff an DNA bindet und der Durchflusszytometer den Fluoreszenzlevel pro Zelle aufzeichnet, was wiederum die relative DNA-Menge anzeigt. Zellen in der G1-Phase haben eine Basismenge an DNA (2C), während Zellen in der G2/M-Phase ihre DNA verdoppelt haben (4C), sodass G1-Zellen die Hälfte der DNA von G2/M-Zellen besitzen.",
+      "ja": "本文によると、蛍光化学物質がDNAに結合し、フローサイトメーターが細胞あたりの蛍光レベルを記録します。これにより、相対的なDNA量が示されます。G1期の細胞は基本量のDNA（2C）を持ち、G2/M期の細胞はDNAを複製している（4C）ため、G1期の細胞はG2/M期の細胞の半分のDNA量を持っています。"
+    }
+  },
+  {
+    "page_number": 299,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the comparison of the 'Control' and 'Treated' histograms, what is the most likely effect of the stem cell-derived inhibitor on glioblastoma cells?",
+      "zh": "根据“对照组”和“治疗组”直方图的比较，干细胞衍生的抑制剂对胶质母细胞瘤细胞最可能的影响是什么？",
+      "es": "Basándose en la comparación de los histogramas 'Control' y 'Tratado', ¿cuál es el efecto más probable del inhibidor derivado de células madre en las células de glioblastoma?",
+      "fr": "Basé sur la comparaison des histogrammes 'Contrôle' et 'Traité', quel est l'effet le plus probable de l'inhibiteur dérivé de cellules souches sur les cellules de glioblastome?",
+      "de": "Basierend auf dem Vergleich der 'Kontroll'- und 'Behandlungs'-Histogramme, was ist die wahrscheinlichste Wirkung des Stammzell-abgeleiteten Inhibitors auf Glioblastomzellen?",
+      "ja": "「対照」と「処理済み」のヒストグラムの比較に基づいて、幹細胞由来の阻害剤が膠芽腫細胞に及ぼす最も可能性の高い効果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It primarily arrests cells in the S phase, preventing DNA replication.",
+          "zh": "它主要将细胞阻滞在S期，阻止DNA复制。",
+          "es": "Arresta principalmente las células en la fase S, impidiendo la replicación del ADN.",
+          "fr": "Il arrête principalement les cellules en phase S, empêchant la réplication de l'ADN.",
+          "de": "Es arretiert Zellen hauptsächlich in der S-Phase und verhindert die DNA-Replikation.",
+          "ja": "主にS期で細胞を停止させ、DNA複製を阻害します。"
+        },
+        "feedback": {
+          "en": "The treated histogram shows a *reduction* in S phase cells and an *increase* in G1 phase cells, indicating arrest *before* S phase.",
+          "zh": "处理组直方图显示S期细胞数量*减少*，G1期细胞数量*增加*，表明阻滞发生在S期*之前*。",
+          "es": "El histograma tratado muestra una *reducción* de las células en fase S y un *aumento* de las células en fase G1, lo que indica una detención *antes* de la fase S.",
+          "fr": "L'histogramme traité montre une *réduction* des cellules en phase S et une *augmentation* des cellules en phase G1, indiquant un arrêt *avant* la phase S.",
+          "de": "Das Behandlungs-Histogramm zeigt eine *Reduktion* der S-Phasen-Zellen und eine *Zunahme* der G1-Phasen-Zellen, was auf eine Arretierung *vor* der S-Phase hindeutet.",
+          "ja": "処理済みヒストグラムはS期細胞の*減少*とG1期細胞の*増加*を示しており、S期*以前*の停止を示唆しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It accelerates cell division, leading to a higher number of cells in all phases.",
+          "zh": "它加速细胞分裂，导致所有阶段的细胞数量增加。",
+          "es": "Acelera la división celular, lo que lleva a un mayor número de células en todas las fases.",
+          "fr": "Il accélère la division cellulaire, entraînant un nombre plus élevé de cellules dans toutes les phases.",
+          "de": "Es beschleunigt die Zellteilung, was zu einer höheren Anzahl von Zellen in allen Phasen führt.",
+          "ja": "細胞分裂を促進し、すべての段階で細胞数が増加します。"
+        },
+        "feedback": {
+          "en": "The inhibitor's purpose is to *block* proliferation, and the histogram clearly shows a shift indicating arrest, not acceleration.",
+          "zh": "抑制剂的目的是*阻止*增殖，直方图清楚地显示了指示阻滞的偏移，而非加速。",
+          "es": "El propósito del inhibidor es *bloquear* la proliferación, y el histograma muestra claramente un cambio que indica detención, no aceleración.",
+          "fr": "Le but de l'inhibiteur est de *bloquer* la prolifération, et l'histogramme montre clairement un décalage indiquant un arrêt, et non une accélération.",
+          "de": "Der Zweck des Inhibitors ist es, die Proliferation zu *blockieren*, und das Histogramm zeigt deutlich eine Verschiebung, die eine Arretierung und keine Beschleunigung anzeigt.",
+          "ja": "阻害剤の目的は増殖を*阻害する*ことであり、ヒストグラムは加速ではなく停止を示す明確な変化を示しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It causes a significant accumulation of cells in the G1 phase, suggesting a cell cycle arrest at this point.",
+          "zh": "它导致G1期细胞大量积累，表明细胞周期在该点被阻滞。",
+          "es": "Provoca una acumulación significativa de células en la fase G1, sugiriendo una detención del ciclo celular en este punto.",
+          "fr": "Il provoque une accumulation significative de cellules en phase G1, suggérant un arrêt du cycle cellulaire à ce stade.",
+          "de": "Es führt zu einer signifikanten Akkumulation von Zellen in der G1-Phase, was auf einen Zellzyklusarrest an diesem Punkt hindeutet.",
+          "ja": "G1期の細胞が著しく蓄積し、この時点で細胞周期が停止していることを示唆しています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It induces cell death uniformly across all cell cycle phases, reducing total cell numbers.",
+          "zh": "它在所有细胞周期阶段均匀诱导细胞死亡，从而减少总细胞数量。",
+          "es": "Induce la muerte celular uniformemente en todas las fases del ciclo celular, reduciendo el número total de células.",
+          "fr": "Il induit la mort cellulaire uniformément dans toutes les phases du cycle cellulaire, réduisant le nombre total de cellules.",
+          "de": "Es induziert den Zelltod gleichmäßig über alle Zellzyklusphasen hinweg, wodurch die Gesamtzellzahl reduziert wird.",
+          "ja": "すべての細胞周期段階で細胞死を一様に誘導し、総細胞数を減少させます。"
+        },
+        "feedback": {
+          "en": "While it aims to block proliferation, the histogram shows a specific accumulation in G1, not uniform cell death across all phases.",
+          "zh": "尽管其目的是阻止增殖，但直方图显示在G1期有特定积累，而不是所有阶段均匀的细胞死亡。",
+          "es": "Aunque su objetivo es bloquear la proliferación, el histograma muestra una acumulación específica en G1, no una muerte celular uniforme en todas las fases.",
+          "fr": "Bien que son objectif soit de bloquer la prolifération, l'histogramme montre une accumulation spécifique en G1, et non une mort cellulaire uniforme dans toutes les phases.",
+          "de": "Obwohl es darauf abzielt, die Proliferation zu blockieren, zeigt das Histogramm eine spezifische Akkumulation in G1, nicht einen gleichmäßigen Zelltod in allen Phasen.",
+          "ja": "増殖を阻害することが目的ですが、ヒストグラムはG1期に特異的な蓄積を示しており、すべての段階で均一な細胞死ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The treated histogram shows a markedly higher peak in the G1 phase compared to the control, and significantly fewer cells in the S and G2/M phases. This indicates that cells are accumulating in G1 because the inhibitor is arresting their progression through the cell cycle at this point.",
+      "zh": "与对照组相比，治疗组直方图在G1期显示出明显更高的峰值，而S期和G2/M期的细胞数量显著减少。这表明细胞在G1期积累，因为抑制剂在此点阻止了它们通过细胞周期的进展。",
+      "es": "El histograma tratado muestra un pico marcadamente más alto en la fase G1 en comparación con el control, y significativamente menos células en las fases S y G2/M. Esto indica que las células se están acumulando en G1 porque el inhibidor está deteniendo su progresión a través del ciclo celular en este punto.",
+      "fr": "L'histogramme traité montre un pic nettement plus élevé en phase G1 par rapport au contrôle, et significativement moins de cellules en phases S et G2/M. Cela indique que les cellules s'accumulent en G1 parce que l'inhibiteur arrête leur progression à travers le cycle cellulaire à ce point.",
+      "de": "Das Behandlungs-Histogramm zeigt einen deutlich höheren Peak in der G1-Phase im Vergleich zur Kontrolle und signifikant weniger Zellen in der S- und G2/M-Phase. Dies deutet darauf hin, dass sich Zellen in G1 ansammeln, weil der Inhibitor ihre Progression durch den Zellzyklus an diesem Punkt arretiert.",
+      "ja": "処理済みヒストグラムは、対照群と比較してG1期のピークが著しく高く、S期とG2/M期の細胞が大幅に少ないことを示しています。これは、阻害剤が細胞周期のこの時点で進行を停止させているため、細胞がG1期に蓄積していることを示しています。"
+    }
+  },
+  {
+    "page_number": 299,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Herceptin and tamoxifen are mentioned as examples of drugs used in personalized cancer treatment. Based on the text, what is their general mechanism of action?",
+      "zh": "赫赛汀和他莫昔芬被提及作为个性化癌症治疗药物的例子。根据文本，它们的普遍作用机制是什么？",
+      "es": "Herceptin y tamoxifeno se mencionan como ejemplos de fármacos utilizados en el tratamiento personalizado del cáncer. Según el texto, ¿cuál es su mecanismo de acción general?",
+      "fr": "L'Herceptin et le tamoxifène sont mentionnés comme exemples de médicaments utilisés dans le traitement personnalisé du cancer. Selon le texte, quel est leur mécanisme d'action général?",
+      "de": "Herceptin und Tamoxifen werden als Beispiele für Medikamente in der personalisierten Krebsbehandlung genannt. Basierend auf dem Text, was ist ihr allgemeiner Wirkmechanismus?",
+      "ja": "ハーセプチンとタモキシフェンは、個別化がん治療に使用される薬剤の例として言及されています。本文に基づいて、それらの一般的な作用機序は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They act as transcription factors that activate genes promoting cell death.",
+          "zh": "它们作为转录因子，激活促进细胞死亡的基因。",
+          "es": "Actúan como factores de transcripción que activan genes que promueven la muerte celular.",
+          "fr": "Ils agissent comme des facteurs de transcription qui activent les gènes favorisant la mort cellulaire.",
+          "de": "Sie wirken als Transkriptionsfaktoren, die Gene aktivieren, die den Zelltod fördern.",
+          "ja": "細胞死を促進する遺伝子を活性化する転写因子として作用します。"
+        },
+        "feedback": {
+          "en": "The text specifies they block receptor function, not directly acting as transcription factors.",
+          "zh": "文本明确指出它们阻断受体功能，而不是直接作为转录因子发挥作用。",
+          "es": "El texto especifica que bloquean la función del receptor, no que actúen directamente como factores de transcripción.",
+          "fr": "Le texte précise qu'ils bloquent la fonction des récepteurs, et n'agissent pas directement comme des facteurs de transcription.",
+          "de": "Der Text besagt, dass sie die Rezeptorfunktion blockieren, nicht direkt als Transkriptionsfaktoren wirken.",
+          "ja": "本文では、これらが転写因子として直接作用するのではなく、受容体の機能を阻害すると明記されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They directly inhibit DNA replication enzymes, leading to cell cycle arrest.",
+          "zh": "它们直接抑制DNA复制酶，导致细胞周期阻滞。",
+          "es": "Inhiben directamente las enzimas de replicación del ADN, lo que lleva a la detención del ciclo celular.",
+          "fr": "Ils inhibent directement les enzymes de réplication de l'ADN, entraînant un arrêt du cycle cellulaire.",
+          "de": "Sie hemmen direkt DNA-Replikationsenzyme, was zu einem Zellzyklusarrest führt.",
+          "ja": "DNA複製酵素を直接阻害し、細胞周期停止を引き起こします。"
+        },
+        "feedback": {
+          "en": "The text describes them as blocking receptor function (HER2, ERs), which then *triggers* cell division, not directly inhibiting DNA replication.",
+          "zh": "文本描述它们阻断受体功能（HER2、雌激素受体），进而*触发*细胞分裂，而不是直接抑制DNA复制。",
+          "es": "El texto los describe como bloqueadores de la función del receptor (HER2, ERs), que luego *desencadenan* la división celular, no como inhibidores directos de la replicación del ADN.",
+          "fr": "Le texte les décrit comme bloquant la fonction des récepteurs (HER2, ERs), qui *déclenche* ensuite la division cellulaire, et non comme inhibant directement la réplication de l'ADN.",
+          "de": "Der Text beschreibt, dass sie die Rezeptorfunktion (HER2, ERs) blockieren, die dann die Zellteilung *auslöst*, nicht dass sie direkt die DNA-Replikation hemmen.",
+          "ja": "本文では、これらが受容体（HER2、ERs）の機能を阻害することで細胞分裂を*誘発する*と説明されており、DNA複製を直接阻害するものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They block the function of specific cell surface or intracellular receptors involved in triggering cell division.",
+          "zh": "它们阻断参与触发细胞分裂的特定细胞表面或细胞内受体的功能。",
+          "es": "Bloquean la función de receptores específicos de la superficie celular o intracelulares involucrados en el desencadenamiento de la división celular.",
+          "fr": "Ils bloquent la fonction de récepteurs spécifiques de la surface cellulaire ou intracellulaires impliqués dans le déclenchement de la division cellulaire.",
+          "de": "Sie blockieren die Funktion spezifischer Zelloberflächen- oder intrazellulärer Rezeptoren, die an der Auslösung der Zellteilung beteiligt sind.",
+          "ja": "細胞分裂の引き金となる特定の細胞表面または細胞内受体の機能を阻害します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They increase the immune system's ability to recognize and destroy cancer cells.",
+          "zh": "它们增强免疫系统识别和摧毁癌细胞的能力。",
+          "es": "Aumentan la capacidad del sistema inmunitario para reconocer y destruir las células cancerosas.",
+          "fr": "Ils augmentent la capacité du système immunitaire à reconnaître et à détruire les cellules cancéreuses.",
+          "de": "Sie erhöhen die Fähigkeit des Immunsystems, Krebszellen zu erkennen und zu zerstören.",
+          "ja": "免疫システムががん細胞を認識し、破壊する能力を高めます。"
+        },
+        "feedback": {
+          "en": "The text describes a direct effect on cancer cells by blocking their receptors, not an indirect effect through the immune system.",
+          "zh": "文本描述的是通过阻断癌细胞受体直接对其产生作用，而非通过免疫系统间接作用。",
+          "es": "El texto describe un efecto directo sobre las células cancerosas al bloquear sus receptores, no un efecto indirecto a través del sistema inmunitario.",
+          "fr": "Le texte décrit un effet direct sur les cellules cancéreuses en bloquant leurs récepteurs, et non un effet indirect par le biais du système immunitaire.",
+          "de": "Der Text beschreibt eine direkte Wirkung auf Krebszellen durch Blockade ihrer Rezeptoren, nicht eine indirekte Wirkung über das Immunsystem.",
+          "ja": "本文では、癌細胞の受容体を阻害することによる直接的な効果が説明されており、免疫システムを介した間接的な効果ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that Herceptin blocks the function of HER2 (a cell-surface receptor) and tamoxifen blocks ERs (estrogen receptors, which are intracellular receptors). Both HER2 and ERs are described as being able to 'trigger cell division', so blocking their function would inhibit this process.",
+      "zh": "文本明确指出赫赛汀阻断HER2（细胞表面受体）的功能，他莫昔芬阻断雌激素受体（细胞内受体）。HER2和雌激素受体都被描述为能够“触发细胞分裂”，因此阻断其功能将抑制这一过程。",
+      "es": "El texto establece explícitamente que Herceptin bloquea la función de HER2 (un receptor de superficie celular) y el tamoxifeno bloquea los RE (receptores de estrógeno, que son receptores intracelulares). Tanto HER2 como los RE se describen como capaces de 'desencadenar la división celular', por lo que bloquear su función inhibiría este proceso.",
+      "fr": "Le texte indique explicitement que l'Herceptin bloque la fonction du HER2 (un récepteur de surface cellulaire) et que le tamoxifène bloque les RE (récepteurs aux œstrogènes, qui sont des récepteurs intracellulaires). Le HER2 et les RE sont tous deux décrits comme étant capables de 'déclencher la division cellulaire', donc bloquer leur fonction inhiberait ce processus.",
+      "de": "Der Text besagt explizit, dass Herceptin die Funktion von HER2 (einem Zelloberflächenrezeptor) und Tamoxifen die von ERs (Östrogenrezeptoren, die intrazelluläre Rezeptoren sind) blockiert. Sowohl HER2 als auch ERs werden als fähig beschrieben, 'die Zellteilung auszulösen', daher würde das Blockieren ihrer Funktion diesen Prozess hemmen.",
+      "ja": "本文には、ハーセプチンがHER2（細胞表面受容体）の機能を阻害し、タモキシフェンがERs（エストロゲン受容体、細胞内受容体）を阻害すると明記されています。HER2とERsは両方とも「細胞分裂を引き起こす」ことができると記述されており、それらの機能を阻害することはこのプロセスを抑制することになります。"
+    }
+  }
+]

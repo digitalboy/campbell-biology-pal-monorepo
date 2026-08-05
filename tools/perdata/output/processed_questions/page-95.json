@@ -1,0 +1,364 @@
+[
+  {
+    "page_number": 95,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary difference between temperature and thermal energy, according to the provided text?",
+      "zh": "根据所提供的文本，温度和热能之间的主要区别是什么？",
+      "es": "¿Cuál es la principal diferencia entre temperatura y energía térmica, según el texto proporcionado?",
+      "fr": "Selon le texte fourni, quelle est la principale différence entre la température et l'énergie thermique ?",
+      "de": "Was ist laut dem bereitgestellten Text der Hauptunterschied zwischen Temperatur und thermischer Energie?",
+      "ja": "提供されたテキストによると、温度と熱エネルギーの主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Temperature represents the total kinetic energy, while thermal energy is the average kinetic energy.",
+          "zh": "温度代表总动能，而热能是平均动能。",
+          "es": "La temperatura representa la energía cinética total, mientras que la energía térmica es la energía cinética promedio.",
+          "fr": "La température représente l'énergie cinétique totale, tandis que l'énergie thermique est l'énergie cinétique moyenne.",
+          "de": "Temperatur repräsentiert die gesamte kinetische Energie, während thermische Energie die durchschnittliche kinetische Energie ist.",
+          "ja": "温度は全運動エネルギーを表し、熱エネルギーは平均運動エネルギーです。"
+        },
+        "feedback": {
+          "en": "This is incorrect. Temperature is the average kinetic energy, and thermal energy is the total kinetic energy.",
+          "zh": "这是不正确的。温度是平均动能，热能是总动能。",
+          "es": "Esto es incorrecto. La temperatura es la energía cinética promedio, y la energía térmica es la energía cinética total.",
+          "fr": "C'est incorrect. La température est l'énergie cinétique moyenne, et l'énergie thermique est l'énergie cinétique totale.",
+          "de": "Dies ist falsch. Temperatur ist die durchschnittliche kinetische Energie, und thermische Energie ist die gesamte kinetische Energie.",
+          "ja": "これは間違っています。温度は平均運動エネルギーであり、熱エネルギーは全運動エネルギーです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Temperature reflects the average kinetic energy of molecules regardless of volume, whereas thermal energy reflects the total kinetic energy and depends on volume.",
+          "zh": "温度反映的是分子的平均动能，与体积无关，而热能反映的是总动能，并取决于体积。",
+          "es": "La temperatura refleja la energía cinética promedio de las moléculas independientemente del volumen, mientras que la energía térmica refleja la energía cinética total y depende del volumen.",
+          "fr": "La température reflète l'énergie cinétique moyenne des molécules quel que soit le volume, tandis que l'énergie thermique reflète l'énergie cinétique totale et dépend du volume.",
+          "de": "Temperatur spiegelt die durchschnittliche kinetische Energie der Moleküle unabhängig vom Volumen wider, während thermische Energie die gesamte kinetische Energie widerspiegelt und vom Volumen abhängt.",
+          "ja": "温度は体積に関わらず分子の平均運動エネルギーを反映するのに対し、熱エネルギーは全運動エネルギーを反映し、体積に依存します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Temperature is the transfer of thermal energy, while thermal energy is the stored form of heat.",
+          "zh": "温度是热能的传递，而热能是热量的储存形式。",
+          "es": "La temperatura es la transferencia de energía térmica, mientras que la energía térmica es la forma almacenada de calor.",
+          "fr": "La température est le transfert d'énergie thermique, tandis que l'énergie thermique est la forme stockée de chaleur.",
+          "de": "Temperatur ist die Übertragung thermischer Energie, während thermische Energie die gespeicherte Form von Wärme ist.",
+          "ja": "温度は熱エネルギーの伝達であり、熱エネルギーは熱の貯蔵形態です。"
+        },
+        "feedback": {
+          "en": "This describes heat as the transfer of thermal energy, not temperature.",
+          "zh": "这描述的是热量是热能的传递，而不是温度。",
+          "es": "Esto describe el calor como la transferencia de energía térmica, no la temperatura.",
+          "fr": "Ceci décrit la chaleur comme le transfert d'énergie thermique, et non la température.",
+          "de": "Dies beschreibt Wärme als Übertragung thermischer Energie, nicht Temperatur.",
+          "ja": "これは、熱が熱エネルギーの伝達であることを説明しており、温度ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Temperature depends on the volume of matter, while thermal energy does not.",
+          "zh": "温度取决于物质的体积，而热能则不取决于体积。",
+          "es": "La temperatura depende del volumen de la materia, mientras que la energía térmica no.",
+          "fr": "La température dépend du volume de la matière, tandis que l'énergie thermique ne l'est pas.",
+          "de": "Temperatur hängt vom Volumen der Materie ab, während thermische Energie dies nicht tut.",
+          "ja": "温度は物質の体積に依存しますが、熱エネルギーは依存しません。"
+        },
+        "feedback": {
+          "en": "This is the opposite of what the text states. Thermal energy depends on volume, and temperature does not.",
+          "zh": "这与文本所说的相反。热能取决于体积，而温度不取决于体积。",
+          "es": "Esto es lo opuesto a lo que establece el texto. La energía térmica depende del volumen, y la temperatura no.",
+          "fr": "C'est l'inverse de ce que le texte indique. L'énergie thermique dépend du volume, et la température non.",
+          "de": "Dies ist das Gegenteil dessen, was der Text besagt. Thermische Energie hängt vom Volumen ab, und Temperatur nicht.",
+          "ja": "これはテキストが述べていることとは逆です。熱エネルギーは体積に依存し、温度は依存しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'Temperature represents the average kinetic energy of the molecules in a body of matter, regardless of volume, whereas the thermal energy of a body of matter reflects the total kinetic energy, and thus depends on the matter's volume.'",
+      "zh": "文本中指出：“温度代表的是物质中分子的平均动能，与体积无关，而物质的热能则反映总动能，因此取决于物质的体积。”",
+      "es": "El texto establece: 'La temperatura representa la energía cinética promedio de las moléculas en un cuerpo de materia, independientemente del volumen, mientras que la energía térmica de un cuerpo de materia refleja la energía cinética total y, por lo tanto, depende del volumen de la materia.'",
+      "fr": "Le texte indique : 'La température représente l'énergie cinétique moyenne des molécules dans un corps de matière, quel que soit le volume, tandis que l'énergie thermique d'un corps de matière reflète l'énergie cinétique totale et dépend donc du volume de la matière.'",
+      "de": "Der Text besagt: „Temperatur repräsentiert die durchschnittliche kinetische Energie der Moleküle in einem Körper, unabhängig vom Volumen, während die thermische Energie eines Körpers die gesamte kinetische Energie widerspiegelt und somit vom Volumen des Körpers abhängt.“",
+      "ja": "テキストには次のように記載されています。「温度は、体積に関わらず、物質内の分子の平均運動エネルギーを表し、一方、物質の熱エネルギーは総運動エネルギーを反映し、したがって物質の体積に依存する。」"
+    }
+  },
+  {
+    "page_number": 95,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 3.4 and the accompanying text, which statement best describes how water is transported upwards in tall trees against gravity?",
+      "zh": "根据图3.4和随附文本，以下哪项陈述最能描述高大树木中水如何逆重力向上运输？",
+      "es": "Según la Figura 3.4 y el texto adjunto, ¿qué afirmación describe mejor cómo se transporta el agua hacia arriba en árboles altos contra la gravedad?",
+      "fr": "Selon la Figure 3.4 et le texte qui l'accompagne, quelle affirmation décrit le mieux comment l'eau est transportée vers le haut dans les grands arbres contre la gravité ?",
+      "de": "Basierend auf Abbildung 3.4 und dem begleitenden Text, welche Aussage beschreibt am besten, wie Wasser in hohen Bäumen entgegen der Schwerkraft nach oben transportiert wird?",
+      "ja": "図3.4とそれに付随するテキストに基づいて、重力に逆らって高い木の中で水がどのように上向きに輸送されるかを最もよく説明する記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Evaporation from the leaves creates an upward pull, which is transmitted through the cohesive properties of water molecules and aided by the adhesive properties of water to cell walls.",
+          "zh": "叶片蒸发产生向上的拉力，通过水分子之间的内聚力传递，并由水对细胞壁的附着力辅助。",
+          "es": "La evaporación de las hojas crea un tirón hacia arriba, que se transmite a través de las propiedades cohesivas de las moléculas de agua y es ayudado por las propiedades adhesivas del agua a las paredes celulares.",
+          "fr": "L'évaporation des feuilles crée une traction vers le haut, qui est transmise par les propriétés cohésives des molécules d'eau et aidée par les propriétés adhésives de l'eau aux parois cellulaires.",
+          "de": "Die Verdunstung aus den Blättern erzeugt einen Aufwärtszug, der durch die kohäsiven Eigenschaften der Wassermoleküle übertragen und durch die adhäsiven Eigenschaften des Wassers an den Zellwänden unterstützt wird.",
+          "ja": "葉からの蒸発が上向きの引っ張りを作り出し、それが水分子の凝集性によって伝達され、水と細胞壁の付着性によって助けられます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Plants actively pump water upwards from the roots using specialized energy-consuming proteins.",
+          "zh": "植物通过专门的耗能蛋白质将水从根部主动向上泵送。",
+          "es": "Las plantas bombean activamente el agua hacia arriba desde las raíces utilizando proteínas especializadas que consumen energía.",
+          "fr": "Les plantes pompent activement l'eau vers le haut à partir des racines en utilisant des protéines spécialisées consommatrices d'énergie.",
+          "de": "Pflanzen pumpen aktiv Wasser mit speziellen energieverbrauchenden Proteinen von den Wurzeln nach oben.",
+          "ja": "植物は特殊なエネルギー消費タンパク質を使って、根から水を積極的に上方に汲み上げます。"
+        },
+        "feedback": {
+          "en": "While plants have transport mechanisms, the primary driving force for upward water movement over long distances in trees is passive, driven by transpiration (evaporation from leaves), cohesion, and adhesion, not active pumping.",
+          "zh": "虽然植物有运输机制，但树木中长距离水分向上运动的主要驱动力是被动的，由蒸腾作用（叶片蒸发）、内聚力和附着力驱动，而不是主动泵送。",
+          "es": "Aunque las plantas tienen mecanismos de transporte, la fuerza impulsora principal para el movimiento ascendente del agua a largas distancias en los árboles es pasiva, impulsada por la transpiración (evaporación de las hojas), la cohesión y la adhesión, no el bombeo activo.",
+          "fr": "Bien que les plantes aient des mécanismes de transport, la force motrice principale du mouvement ascendant de l'eau sur de longues distances dans les arbres est passive, entraînée par la transpiration (évaporation des feuilles), la cohésion et l'adhérence, et non par un pompage actif.",
+          "de": "Obwohl Pflanzen Transportmechanismen besitzen, ist die primäre treibende Kraft für den aufwärts gerichteten Wassertransport über lange Strecken in Bäumen passiv, angetrieben durch Transpiration (Verdunstung aus Blättern), Kohäsion und Adhäsion, nicht durch aktives Pumpen.",
+          "ja": "植物には輸送メカニズムがありますが、樹木における長距離の水の上方移動の主な駆動力は、能動的なポンプではなく、蒸散（葉からの蒸発）、凝集、付着によって駆動される受動的なものです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The high specific heat of water allows it to be efficiently pushed up from the roots to the leaves.",
+          "zh": "水的高比热使其能够有效地从根部被推向叶片。",
+          "es": "El alto calor específico del agua le permite ser empujada eficientemente desde las raíces hasta las hojas.",
+          "fr": "La chaleur spécifique élevée de l'eau lui permet d'être efficacement poussée des racines vers les feuilles.",
+          "de": "Die hohe spezifische Wärme von Wasser ermöglicht es, dass es effizient von den Wurzeln zu den Blättern gedrückt wird.",
+          "ja": "水の高い比熱により、根から葉へと効率的に押し上げられます。"
+        },
+        "feedback": {
+          "en": "Water's high specific heat is related to temperature moderation, not directly to its upward transport mechanism in plants.",
+          "zh": "水的高比热与温度调节有关，而不是直接与植物中水的向上运输机制有关。",
+          "es": "El alto calor específico del agua está relacionado con la moderación de la temperatura, no directamente con su mecanismo de transporte ascendente en las plantas.",
+          "fr": "La chaleur spécifique élevée de l'eau est liée à la modération de la température, et non directement à son mécanisme de transport ascendant chez les plantes.",
+          "de": "Die hohe spezifische Wärme von Wasser hängt mit der Temperaturregulierung zusammen, nicht direkt mit seinem Aufwärtstransportmechanismus in Pflanzen.",
+          "ja": "水の高い比熱は温度調節に関係しており、植物における水の上方輸送メカニズムとは直接関係ありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Only surface tension at the leaf surface pulls water molecules from the roots.",
+          "zh": "只有叶片表面的表面张力将水分子从根部拉上来。",
+          "es": "Solo la tensión superficial en la superficie de la hoja tira de las moléculas de agua desde las raíces.",
+          "fr": "Seule la tension superficielle à la surface de la feuille tire les molécules d'eau des racines.",
+          "de": "Nur die Oberflächenspannung an der Blattoberfläche zieht Wassermoleküle aus den Wurzeln.",
+          "ja": "葉の表面の表面張力だけが、根から水分子を引き上げます。"
+        },
+        "feedback": {
+          "en": "Surface tension is mentioned as a property of water, but it's not the sole or primary mechanism for water transport in tall trees; cohesion and adhesion play crucial roles in maintaining the water column.",
+          "zh": "表面张力被提及为水的特性，但它不是高大树木中水运输的唯一或主要机制；内聚力和附着力在维持水柱方面起着关键作用。",
+          "es": "La tensión superficial se menciona como una propiedad del agua, pero no es el único ni el principal mecanismo para el transporte de agua en árboles altos; la cohesión y la adhesión juegan roles cruciales en el mantenimiento de la columna de agua.",
+          "fr": "La tension superficielle est mentionnée comme une propriété de l'eau, mais ce n'est pas le seul ou le principal mécanisme de transport de l'eau dans les grands arbres ; la cohésion et l'adhérence jouent un rôle crucial dans le maintien de la colonne d'eau.",
+          "de": "Oberflächenspannung wird als Eigenschaft von Wasser erwähnt, ist aber nicht der einzige oder primäre Mechanismus für den Wassertransport in hohen Bäumen; Kohäsion und Adhäsion spielen eine entscheidende Rolle bei der Aufrechterhaltung der Wassersäule.",
+          "ja": "表面張力は水の特性として言及されていますが、高い木での水の輸送の唯一または主要なメカニズムではありません。凝集力と付着力は水柱を維持する上で重要な役割を果たします。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Evaporation from leaves pulls water upward from the roots through water-conducting cells. Because of the properties of cohesion and adhesion, the tallest trees can transport water more than 100 m upward.' Figure 3.4 visually reinforces this by showing 'Evaporation from leaves pulls water upward,' 'Cohesion due to hydrogen bonds helps hold together the column of water,' and 'Adhesion of the water to cell walls by hydrogen bonds helps resist the downward pull of gravity.'",
+      "zh": "文本明确指出：“叶片蒸发将水从根部通过导水细胞向上拉。由于内聚力和附着力的特性，最高的树木可以将水向上运输100多米。”图3.4通过显示“叶片蒸发将水向上拉”、“氢键引起的内聚力有助于将水柱保持在一起”和“水对细胞壁的附着力通过氢键有助于抵抗重力向下牵引”来直观地强调这一点。",
+      "es": "El texto establece explícitamente: 'La evaporación de las hojas extrae agua hacia arriba desde las raíces a través de las células conductoras de agua. Debido a las propiedades de cohesión y adhesión, los árboles más altos pueden transportar agua más de 100 m hacia arriba.' La Figura 3.4 refuerza visualmente esto mostrando 'La evaporación de las hojas extrae agua hacia arriba', 'La cohesión debida a los enlaces de hidrógeno ayuda a mantener unida la columna de agua', y 'La adhesión del agua a las paredes celulares mediante enlaces de hidrógeno ayuda a resistir la atracción descendente de la gravedad.'",
+      "fr": "Le texte indique explicitement : « L'évaporation des feuilles tire l'eau vers le haut depuis les racines à travers les cellules conductrices d'eau. Grâce aux propriétés de cohésion et d'adhérence, les arbres les plus hauts peuvent transporter l'eau sur plus de 100 m vers le haut. » La Figure 3.4 le renforce visuellement en montrant « L'évaporation des feuilles tire l'eau vers le haut », « La cohésion due aux liaisons hydrogène aide à maintenir la colonne d'eau » et « L'adhérence de l'eau aux parois cellulaires par les liaisons hydrogène aide à résister à la force de gravité descendante. »",
+      "de": "Der Text besagt ausdrücklich: „Die Verdunstung aus den Blättern zieht Wasser von den Wurzeln durch wasserleitende Zellen nach oben. Aufgrund der Eigenschaften von Kohäsion und Adhäsion können die höchsten Bäume Wasser über 100 m nach oben transportieren.“ Abbildung 3.4 untermauert dies visuell, indem sie zeigt: „Verdunstung aus Blättern zieht Wasser nach oben“, „Kohäsion durch Wasserstoffbrückenbindungen hilft, die Wassersäule zusammenzuhalten“ und „Adhäsion des Wassers an Zellwänden durch Wasserstoffbrückenbindungen hilft, den Abwärtszug der Schwerkraft zu widerstehen.“",
+      "ja": "テキストには明確に次のように記載されています。「葉からの蒸発が根から導水細胞を通って水を上方に引き上げます。凝集力と付着力の特性により、最も高い木でも水を100m以上上方に輸送することができます。」図3.4は、「葉からの蒸発が水を上方に引き上げる」、「水素結合による凝集力が水柱を保持するのを助ける」、「水素結合による細胞壁への水の付着が重力による下方への引っ張りに抵抗するのを助ける」と視覚的にこれを裏付けています。"
+    }
+  },
+  {
+    "page_number": 95,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the specific heat of water, and what does this value imply about water's ability to moderate temperature?",
+      "zh": "水的比热是多少？这个值对水调节温度的能力有何含义？",
+      "es": "¿Cuál es el calor específico del agua y qué implica este valor sobre la capacidad del agua para moderar la temperatura?",
+      "fr": "Quelle est la chaleur spécifique de l'eau et qu'implique cette valeur quant à la capacité de l'eau à modérer la température ?",
+      "de": "Was ist die spezifische Wärme von Wasser und was bedeutet dieser Wert für die Fähigkeit von Wasser, die Temperatur zu moderieren?",
+      "ja": "水の比熱はいくつですか？そしてこの値は、水が温度を緩和する能力について何を意味しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The specific heat of water is 0.6 cal/(g°C), indicating it warms up quickly.",
+          "zh": "水的比热是0.6卡/(克·摄氏度)，表明它升温很快。",
+          "es": "El calor específico del agua es 0.6 cal/(g°C), lo que indica que se calienta rápidamente.",
+          "fr": "La chaleur spécifique de l'eau est de 0,6 cal/(g°C), ce qui indique qu'elle se réchauffe rapidement.",
+          "de": "Die spezifische Wärme von Wasser beträgt 0,6 cal/(g°C), was darauf hindeutet, dass es sich schnell erwärmt.",
+          "ja": "水の比熱は0.6 cal/(g°C)であり、これは水が急速に温まることを示しています。"
+        },
+        "feedback": {
+          "en": "0.6 cal/(g°C) is the specific heat of ethyl alcohol, not water. Water has a high specific heat and warms/cools slowly.",
+          "zh": "0.6卡/(克·摄氏度)是乙醇的比热，不是水。水有很高的比热，升温/降温缓慢。",
+          "es": "0.6 cal/(g°C) es el calor específico del alcohol etílico, no del agua. El agua tiene un calor específico alto y se calienta/enfría lentamente.",
+          "fr": "0,6 cal/(g°C) est la chaleur spécifique de l'alcool éthylique, pas de l'eau. L'eau a une chaleur spécifique élevée et se réchauffe/refroidit lentement.",
+          "de": "0,6 cal/(g°C) ist die spezifische Wärme von Ethylalkohol, nicht von Wasser. Wasser hat eine hohe spezifische Wärme und erwärmt/kühlt langsam.",
+          "ja": "0.6 cal/(g°C)はエチルアルコールの比熱であり、水のものではありません。水は高い比熱を持ち、ゆっくりと温まったり冷えたりします。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The specific heat of water is 1 cal/(g°C), meaning it can absorb or release a large amount of heat with only a slight change in its own temperature, acting as a 'heat bank'.",
+          "zh": "水的比热是1卡/(克·摄氏度)，这意味着它在自身温度只有轻微变化的情况下，可以吸收或释放大量热量，起到“热量库”的作用。",
+          "es": "El calor específico del agua es 1 cal/(g°C), lo que significa que puede absorber o liberar una gran cantidad de calor con solo un ligero cambio en su propia temperatura, actuando como un 'banco de calor'.",
+          "fr": "La chaleur spécifique de l'eau est de 1 cal/(g°C), ce qui signifie qu'elle peut absorber ou libérer une grande quantité de chaleur avec seulement un léger changement de sa propre température, agissant comme un 'réservoir de chaleur'.",
+          "de": "Die spezifische Wärme von Wasser beträgt 1 cal/(g°C), was bedeutet, dass es eine große Wärmemenge mit nur einer geringen Temperaturänderung aufnehmen oder abgeben kann und somit als „Wärmespeicher“ fungiert.",
+          "ja": "水の比熱は1 cal/(g°C)であり、これは、水が自身の温度のわずかな変化で大量の熱を吸収または放出でき、「熱貯蔵庫」として機能することを意味します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The specific heat of water is 4.184 J/(g°C), implying it is a poor conductor of heat.",
+          "zh": "水的比热是4.184焦/(克·摄氏度)，这暗示它是热的不良导体。",
+          "es": "El calor específico del agua es 4.184 J/(g°C), lo que implica que es un mal conductor del calor.",
+          "fr": "La chaleur spécifique de l'eau est de 4,184 J/(g°C), ce qui implique qu'elle est un mauvais conducteur de chaleur.",
+          "de": "Die spezifische Wärme von Wasser beträgt 4,184 J/(g°C), was bedeutet, dass es ein schlechter Wärmeleiter ist.",
+          "ja": "水の比熱は4.184 J/(g°C)であり、これは水が熱の不良導体であることを示唆しています。"
+        },
+        "feedback": {
+          "en": "While 4.184 J is equivalent to 1 calorie, the specific heat is usually given as 1 cal/(g°C). More importantly, high specific heat means it resists temperature change, not that it's a poor conductor.",
+          "zh": "虽然4.184焦耳相当于1卡路里，但比热通常以1卡/(克·摄氏度)表示。更重要的是，高比热意味着它抵抗温度变化，而不是导热性差。",
+          "es": "Aunque 4.184 J es equivalente a 1 caloría, el calor específico se suele dar como 1 cal/(g°C). Más importante aún, un calor específico alto significa que resiste el cambio de temperatura, no que sea un mal conductor.",
+          "fr": "Bien que 4,184 J équivaut à 1 calorie, la chaleur spécifique est généralement donnée en 1 cal/(g°C). Plus important encore, une chaleur spécifique élevée signifie qu'elle résiste au changement de température, et non qu'elle est un mauvais conducteur.",
+          "de": "Obwohl 4,184 J 1 Kalorie entspricht, wird die spezifische Wärme üblicherweise als 1 cal/(g°C) angegeben. Wichtiger ist, dass eine hohe spezifische Wärme bedeutet, dass es Temperaturänderungen widersteht, nicht dass es ein schlechter Leiter ist.",
+          "ja": "4.184 Jは1カロリーに相当しますが、比熱は通常1 cal/(g°C)で表されます。より重要なのは、比熱が高いということは温度変化に抵抗するという意味であり、熱伝導性が悪いという意味ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The specific heat of water is 1,000 cal/(kg°C), which is only relevant for large bodies of water like oceans.",
+          "zh": "水的比热是1000卡/(千克·摄氏度)，这只与海洋等大型水体有关。",
+          "es": "El calor específico del agua es 1,000 cal/(kg°C), lo que solo es relevante para grandes cuerpos de agua como los océanos.",
+          "fr": "La chaleur spécifique de l'eau est de 1 000 cal/(kg°C), ce qui n'est pertinent que pour les grandes masses d'eau comme les océans.",
+          "de": "Die spezifische Wärme von Wasser beträgt 1.000 cal/(kg°C), was nur für große Gewässer wie Ozeane relevant ist.",
+          "ja": "水の比熱は1,000 cal/(kg°C)であり、これは海洋のような大きな水体のみに関連します。"
+        },
+        "feedback": {
+          "en": "While 1,000 cal/(kg°C) is technically correct (equivalent to 1 cal/(g°C)), the statement about it being 'only relevant for large bodies of water' is incorrect. High specific heat is a fundamental property that affects all scales.",
+          "zh": "虽然1000卡/(千克·摄氏度)在技术上是正确的（相当于1卡/(克·摄氏度)），但“只与大型水体有关”的说法是不正确的。高比热是一个基本属性，影响所有尺度。",
+          "es": "Aunque 1,000 cal/(kg°C) es técnicamente correcto (equivalente a 1 cal/(g°C)), la afirmación de que es 'solo relevante para grandes cuerpos de agua' es incorrecta. El alto calor específico es una propiedad fundamental que afecta a todas las escalas.",
+          "fr": "Bien que 1 000 cal/(kg°C) soit techniquement correct (équivalent à 1 cal/(g°C)), l'affirmation selon laquelle elle n'est 'pertinente que pour les grandes masses d'eau' est incorrecte. Une chaleur spécifique élevée est une propriété fondamentale qui affecte toutes les échelles.",
+          "de": "Obwohl 1.000 cal/(kg°C) technisch korrekt ist (entspricht 1 cal/(g°C)), ist die Aussage, dass es „nur für große Gewässer relevant“ sei, falsch. Eine hohe spezifische Wärme ist eine grundlegende Eigenschaft, die auf allen Skalen wirkt.",
+          "ja": "1,000 cal/(kg°C)は技術的には正しい（1 cal/(g°C)に相当）ですが、「海洋のような大きな水体のみに関連する」という記述は間違っています。高い比熱はすべての規模に影響を与える基本的な特性です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text defines water's specific heat as '1 calorie per gram and per degree Celsius, abbreviated as 1 cal/(g°C).' It further explains that water 'can absorb or release a relatively large amount of heat with only a slight change in its own temperature,' making it 'effective as a heat bank.'",
+      "zh": "文本将水的比热定义为“每克每摄氏度1卡路里，缩写为1 cal/(g°C)。”它进一步解释说，水“可以在自身温度只有轻微变化的情况下吸收或释放相对大量的热量”，使其“有效地作为热量库”。",
+      "es": "El texto define el calor específico del agua como '1 caloría por gramo y por grado Celsius, abreviado como 1 cal/(g°C)'. Además, explica que el agua 'puede absorber o liberar una cantidad relativamente grande de calor con solo un ligero cambio en su propia temperatura', lo que la hace 'efectiva como banco de calor'.",
+      "fr": "Le texte définit la chaleur spécifique de l'eau comme '1 calorie par gramme et par degré Celsius, abrégée en 1 cal/(g°C)'. Il explique en outre que l'eau 'peut absorber ou libérer une quantité relativement importante de chaleur avec seulement un léger changement de sa propre température', ce qui la rend 'efficace en tant que réservoir de chaleur'.",
+      "de": "Der Text definiert die spezifische Wärme von Wasser als „1 Kalorie pro Gramm und pro Grad Celsius, abgekürzt als 1 cal/(g°C)“. Weiterhin erklärt er, dass Wasser „eine relativ große Wärmemenge mit nur einer geringen Temperaturänderung aufnehmen oder abgeben kann“, wodurch es „als Wärmespeicher wirksam ist.“",
+      "ja": "テキストでは水の比熱を「1グラムあたり、摂氏1度あたり1カロリー、略して1 cal/(g°C)」と定義しています。さらに、「自身の温度のわずかな変化で、比較的多くの熱を吸収または放出できる」ため、「熱貯蔵庫として効果的」であると説明しています。"
+    }
+  },
+  {
+    "page_number": 95,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, which statement correctly compares the energy units calorie (cal) and joule (J)?",
+      "zh": "根据文本，以下哪项陈述正确比较了能量单位卡路里（cal）和焦耳（J）？",
+      "es": "Según el texto, ¿qué afirmación compara correctamente las unidades de energía caloría (cal) y julio (J)?",
+      "fr": "Selon le texte, quelle affirmation compare correctement les unités d'énergie calorie (cal) et joule (J) ?",
+      "de": "Welche Aussage vergleicht laut dem Text die Energieeinheiten Kalorie (cal) und Joule (J) korrekt?",
+      "ja": "テキストによると、エネルギー単位カロリー（cal）とジュール（J）を正しく比較している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "One joule (J) is the amount of heat to raise 1g of water by 1°C, while a calorie (cal) is equivalent to 0.239 joules.",
+          "zh": "一焦耳（J）是将1克水升高1摄氏度所需的热量，而一卡路里（cal）相当于0.239焦耳。",
+          "es": "Un julio (J) es la cantidad de calor para elevar 1g de agua en 1°C, mientras que una caloría (cal) equivale a 0.239 julios.",
+          "fr": "Un joule (J) est la quantité de chaleur nécessaire pour élever 1g d'eau de 1°C, tandis qu'une calorie (cal) équivaut à 0,239 joules.",
+          "de": "Ein Joule (J) ist die Wärmemenge, die benötigt wird, um 1 g Wasser um 1°C zu erhöhen, während eine Kalorie (cal) 0,239 Joule entspricht.",
+          "ja": "1ジュール（J）は水1gを1℃上昇させるのに必要な熱量であり、1カロリー（cal）は0.239ジュールに相当します。"
+        },
+        "feedback": {
+          "en": "The definition of calorie is the amount of heat to raise 1g of water by 1°C. The conversion factor is also inverted.",
+          "zh": "卡路里的定义是将1克水升高1摄氏度所需的热量。转换因子也颠倒了。",
+          "es": "La definición de caloría es la cantidad de calor para elevar 1g de agua en 1°C. El factor de conversión también está invertido.",
+          "fr": "La définition de la calorie est la quantité de chaleur nécessaire pour élever 1g d'eau de 1°C. Le facteur de conversion est également inversé.",
+          "de": "Die Definition einer Kalorie ist die Wärmemenge, die benötigt wird, um 1 g Wasser um 1 °C zu erhöhen. Der Umrechnungsfaktor ist ebenfalls umgekehrt.",
+          "ja": "カロリーの定義は、水1gを1℃上昇させるのに必要な熱量です。また、変換係数も逆になっています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A kilocalorie (kcal) is 1,000 calories, and 'Calories' on food packages are actually kilocalories.",
+          "zh": "一千卡（kcal）是1000卡路里，食物包装上的“卡路里”实际上是千卡。",
+          "es": "Una kilocaloría (kcal) son 1,000 calorías, y las 'Calorías' en los envases de alimentos son en realidad kilocalorías.",
+          "fr": "Une kilocalorie (kcal) représente 1 000 calories, et les 'Calories' sur les emballages alimentaires sont en fait des kilocalories.",
+          "de": "Eine Kilokalorie (kcal) entspricht 1.000 Kalorien, und „Kalorien“ auf Lebensmittelverpackungen sind tatsächlich Kilokalorien.",
+          "ja": "1キロカロリー（kcal）は1,000カロリーであり、食品パッケージに記載されている「カロリー」は実際にはキロカロリーです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "One calorie (cal) equals 4.184 joules (J), and one joule equals 0.239 calories.",
+          "zh": "一卡路里（cal）等于4.184焦耳（J），一焦耳等于0.239卡路里。",
+          "es": "Una caloría (cal) equivale a 4.184 julios (J), y un julio equivale a 0.239 calorías.",
+          "fr": "Une calorie (cal) équivaut à 4,184 joules (J), et un joule équivaut à 0,239 calories.",
+          "de": "Eine Kalorie (cal) entspricht 4,184 Joule (J), und ein Joule entspricht 0,239 Kalorien.",
+          "ja": "1カロリー（cal）は4.184ジュール（J）に等しく、1ジュールは0.239カロリーに等しいです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both B and C are correct.",
+          "zh": "B和C都正确。",
+          "es": "Tanto B como C son correctas.",
+          "fr": "B et C sont toutes les deux correctes.",
+          "de": "Sowohl B als auch C sind korrekt.",
+          "ja": "BとCの両方が正しいです。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "The text states: 'A kilocalorie (kcal), 1,000 cal, is the quantity of heat required to raise the temperature of 1 kilogram (kg) of water by 1°C. (The \"Calories\" on food packages are actually kilocalories.)' And: 'One joule equals 0.239 cal; one calorie equals 4.184 J.' Therefore, both statements B and C are correct based on the provided information.",
+      "zh": "文本中指出：“一千卡（kcal），即1000卡，是使1千克（kg）水温度升高1摄氏度所需的热量。（食物包装上的‘卡路里’实际上是千卡。）”以及：“一焦耳等于0.239卡；一卡路里等于4.184焦耳。”因此，根据所提供的信息，陈述B和C都正确。",
+      "es": "El texto establece: 'Una kilocaloría (kcal), 1,000 cal, es la cantidad de calor necesaria para elevar la temperatura de 1 kilogramo (kg) de agua en 1°C. (Las 'Calorías' en los envases de alimentos son en realidad kilocalorías.)' Y: 'Un julio equivale a 0.239 cal; una caloría equivale a 4.184 J.' Por lo tanto, ambas afirmaciones B y C son correctas según la información proporcionada.",
+      "fr": "Le texte indique : « Une kilocalorie (kcal), 1 000 cal, est la quantité de chaleur nécessaire pour élever la température de 1 kilogramme (kg) d'eau de 1°C. (Les « Calories » sur les emballages alimentaires sont en fait des kilocalories.) » Et : « Un joule équivaut à 0,239 cal ; une calorie équivaut à 4,184 J. » Par conséquent, les affirmations B et C sont toutes deux correctes selon les informations fournies.",
+      "de": "Der Text besagt: „Eine Kilokalorie (kcal), 1.000 cal, ist die Wärmemenge, die benötigt wird, um die Temperatur von 1 Kilogramm (kg) Wasser um 1°C zu erhöhen. (Die „Kalorien“ auf Lebensmittelverpackungen sind tatsächlich Kilokalorien.)“ Und: „Ein Joule entspricht 0,239 cal; eine Kalorie entspricht 4,184 J.“ Daher sind beide Aussagen B und C gemäß den bereitgestellten Informationen korrekt.",
+      "ja": "テキストには次のように記載されています。「1キロカロリー（kcal）、すなわち1,000 calは、水1キログラム（kg）の温度を1℃上昇させるのに必要な熱量です。（食品パッケージの「カロリー」は実際にはキロカロリーです。）」そして、「1ジュールは0.239 calに等しい；1カロリーは4.184 Jに等しい。」したがって、提供された情報に基づくと、BとCの両方の記述が正しいです。"
+    }
+  }
+]

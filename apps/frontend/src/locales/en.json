@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "title": "BioPal — Campbell Biology AI Learning Companion",
+    "description": "An AI study companion for Campbell Biology students."
+  },
+  "questionList": {
+    "title": "Page Questions",
+    "tooltip": {
+      "title": "Question {index} Stats",
+      "accuracy": "Accuracy",
+      "attempts": "Attempts",
+      "correct": "Correct",
+      "incorrect": "Incorrect"
+    },
+    "noQuestions": "No questions available.",
+    "chart": {
+      "correct": "Correct",
+      "incorrect": "Incorrect",
+      "unanswered": "Unanswered"
+    },
+    "accuracy": {
+      "excellent": "Excellent (90%+)",
+      "good": "Good (70-89%)",
+      "average": "Average (50-69%)",
+      "poor": "Poor (30-49%)",
+      "bad": "Needs Improvement (<30%)",
+      "unanswered": "Not Attempted"
+    }
+  },
+  "questionViewer": {
+    "explanation": "Explanation",
+    "selectMultiple": "Multiple Choice",
+    "selectSingle": "Single Choice",
+    "toast": {
+      "correct": "Correct Answer!",
+      "partiallyCorrect": "Partially Correct!",
+      "incorrect": "Incorrect Answer!",
+      "submitError": "Failed to submit answer. Please try again."
+    },
+    "result": {
+      "correct": "Correct",
+      "partiallyCorrect": "Partially Correct",
+      "incorrect": "Incorrect"
+    },
+    "aiExplain": "AI Explain",
+    "aiInitialPrompt": "Please explain this question.",
+    "analysis": {
+      "correctSelections": "Correct selections",
+      "incorrectSelections": "Incorrect selections",
+      "missedAnswers": "Missed answers"
+    },
+    "answeredBy": "Answered by",
+    "socialStats": {
+      "totalAttempts": "Total attempts: {count}",
+      "correctAttempts": "Correct attempts: {count}"
+    },
+    "commentPanel": {
+      "titlePrefix": "Question Comments: ",
+      "description": "View and post comments about this question."
+    }
+  },
+  "header": {
+    "home": "Home",
+    "ai_chat": "AI Chat",
+    "review": "Review",
+    "login": "Login",
+    "language": "Language",
+    "logout": "Logout"
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "switch_to_light": "Switch to light mode",
+    "switch_to_dark": "Switch to dark mode"
+  },
+  "common": {
+    "anonymousUser": "Anonymous User",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "close": "Close",
+    "notAvailable": "N/A",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "comments": {
+    "reply": "Reply",
+    "loading": "Loading comments...",
+    "noComments": "No comments yet, be the first to comment!",
+    "noMoreComments": "No more comments.",
+    "replyingTo": "Replying to",
+    "placeholder": "Share your insights or questions...",
+    "myCommentsOnly": "Show only my comments"
+  },
+  "companionPanel": {
+    "tabs": {
+      "knowledgeGraph": "Knowledge Graph",
+      "questions": "Questions"
+    },
+    "loadingError": "Could not load companion data.",
+    "knowledgeGraph": {
+      "title": "Knowledge Graph View",
+      "description": "A mind map related to the current page will be displayed here.",
+      "noData": "No knowledge graph data available for this page."
+    }
+  },
+  "pdfViewer": {
+    "sheet": {
+      "title": "Page Comments",
+      "description": "View and post comments about this page."
+    },
+    "waitingForPdf": "Waiting for PDF data...",
+    "zoom": {
+      "in": "Zoom In",
+      "out": "Zoom Out",
+      "reset": "Reset Zoom"
+    },
+    "pan": {
+      "holdSpace": "Hold Space to Pan",
+      "toastMessage": "Pro Tip: Hold down the spacebar to pan the document."
+    }
+  },
+  "login": {
+    "welcome_title": "Welcome to Biology Learning Companion",
+    "welcome_subtitle": "Continue with your Google account",
+    "sign_in_with_google": "Sign in with Google",
+    "signing_in": "Signing in..."
+  },
+  "wrongAnswerNotebook": {
+    "title": "Wrong Answer Notebook",
+    "description": "View and review questions you answered incorrectly.",
+    "selectRange": "Select Date Range",
+    "predefinedRanges": "Predefined Ranges",
+    "last1Day": "Last 1 Day",
+    "last3Days": "Last 3 Days",
+    "last7Days": "Last 7 Days",
+    "last30Days": "Last 30 Days",
+    "noWrongAnswers": "Congratulations! You have no wrong answers recently."
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "description": "View user rankings based on various performance metrics.",
+    "sortBy": "Sort By",
+    "sortByOptions": {
+      "totalAttempts": "Total Attempts",
+      "correctAttempts": "Correct Attempts",
+      "accuracy": "Accuracy"
+    },
+    "selectRange": "Select Date Range",
+    "predefinedRanges": "Predefined Ranges",
+    "last1Day": "Last 1 Day",
+    "last7Days": "Last 7 Days",
+    "last30Days": "Last 30 Days",
+    "allTime": "All Time",
+    "noData": "No leaderboard data available.",
+    "tableHeaders": {
+      "user": "User",
+      "totalAttempts": "Total Attempts",
+      "correctAttempts": "Correct Attempts",
+      "accuracy": "Accuracy"
+    }
+  },
+  "graph": {
+    "relatedNodesTitle": "Related Concepts for: {node}",
+    "relatedNodesTitleGeneric": "Related Concepts",
+    "loadingGraphData": "Loading graph data...",
+    "errorFetchingGraphData": "Error fetching graph data: {message}",
+    "toolbar": {
+      "delete": "Delete",
+      "confirmDeleteTitle": "Confirm Deletion",
+      "confirmDeleteDescription": "Are you sure you want to delete concept {nodeId}? This action cannot be undone.",
+      "cancel": "Cancel"
+    }
+  },
+  "graphDataDialog": {
+    "title": "Knowledge Graph",
+    "titleFor": "Knowledge Graph for",
+    "description": "Explore the related concepts and pages.",
+    "noData": "No graph data available for this concept.",
+    "closeButton": "Close"
+  },
+  "aiChat": {
+    "title": "AI Chat",
+    "description": "Chat with an AI assistant to get help with your biology questions.",
+    "noMessages": "No messages yet. Start the conversation!",
+    "inputPlaceholder": "Type your message here...",
+    "inputPlaceholderForNode": "Please explain this concept",
+    "sendButton": "Send",
+    "confirmDeleteMessage": "Are you sure you want to delete this conversation turn? This action cannot be undone.",
+    "messageDeleted": "Conversation turn deleted successfully.",
+    "deleteError": "Failed to delete conversation turn. Please try again.",
+    "confirmDeleteDescription": "This action will permanently delete this conversation turn and cannot be recovered."
+  },
+  "learningView": {
+    "pageTitle": "Page {page} - Campbell Biology",
+    "pageDescription": "Explore content and questions for page {page} of Campbell Biology."
+  },
+  "landing": {
+    "hero": {
+      "badge": "🎓 AI-Powered Learning Platform",
+      "title": "Master Campbell Biology with AI",
+      "subtitle": "Transform your biology learning experience with interactive knowledge graphs, contextual quizzes, and personalized AI tutoring. Built specifically for Campbell Biology textbook.",
+      "cta": "Start Learning with Google",
+      "free_trial": "Free forever",
+      "no_credit_card": "No credit card required"
+    },
+    "stats": {
+      "chapters": "Chapters",
+      "questions": "Practice Questions",
+      "ai_support": "AI Support",
+      "languages": "Languages"
+    },
+    "features": {
+      "badge": "🚀 Core Features",
+      "title": "Everything You Need to Excel",
+      "subtitle": "Comprehensive tools designed to make Campbell Biology accessible and engaging",
+      "new": "New",
+      "coming_soon": "Coming Soon",
+      "one": {
+        "title": "Interactive Knowledge Graphs",
+        "description": "Visualize complex biological relationships and navigate between interconnected concepts with our dynamic knowledge mapping system.",
+        "highlight1": "✨ Visual concept relationships",
+        "highlight2": "🔍 One-click concept exploration"
+      },
+      "two": {
+        "title": "AI-Powered Learning Assistant",
+        "description": "Get instant answers, explanations, and study guidance from our advanced AI tutor trained specifically on Campbell Biology content.",
+        "highlight1": "🤖 24/7 intelligent tutoring",
+        "highlight2": "💬 Contextual study assistance"
+      },
+      "three": {
+        "title": "Smart Review System",
+        "description": "Master difficult concepts with spaced repetition algorithms and personalized review schedules based on your learning progress.",
+        "highlight1": "📊 Performance analytics",
+        "highlight2": "🎯 Adaptive difficulty adjustment"
+      }
+    },
+    "testimonials": {
+      "badge": "💬 Student Success",
+      "title": "Loved by Students Worldwide",
+      "subtitle": "Join thousands of students who've transformed their biology learning experience",
+      "student1": {
+        "name": "Sarah Chen",
+        "role": "Pre-Med Student",
+        "content": "BioPal's knowledge graphs helped me understand complex cellular processes like never before. My exam scores improved by 25%!"
+      },
+      "student2": {
+        "name": "Marcus Johnson",
+        "role": "Biology Major",
+        "content": "The AI tutor is like having a personal biology professor available 24/7. It explains concepts in multiple ways until I understand."
+      },
+      "student3": {
+        "name": "Elena Rodriguez",
+        "role": "Graduate Student",
+        "content": "The multilingual support helped me study in my native language while building English biology vocabulary. Absolutely brilliant!"
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Biology Learning?",
+      "subtitle": "Join thousands of students already mastering Campbell Biology with AI-powered learning tools.",
+      "button": "Get Started Free"
+    },
+    "footer": {
+      "description": "AI-powered learning companion for Campbell Biology students worldwide.",
+      "product": "Product",
+      "features": "Features",
+      "pricing": "Pricing",
+      "roadmap": "Roadmap",
+      "support": "Support",
+      "help_center": "Help Center",
+      "contact": "Contact Us",
+      "community": "Community",
+      "legal": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "rights": "All rights reserved.",
+      "version": "Version"
+    }
+  }
+}

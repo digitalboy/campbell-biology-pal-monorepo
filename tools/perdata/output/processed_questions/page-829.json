@@ -1,0 +1,303 @@
+[
+  {
+    "page_number": 829,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the ABC hypothesis, which genes are expressed in the whorl that develops into petals?",
+      "zh": "根据ABC假说，形成花瓣的轮生体中表达哪些基因？",
+      "es": "Según la hipótesis ABC, ¿qué genes se expresan en el verticilo que se desarrolla en pétalos?",
+      "fr": "Selon l'hypothèse ABC, quels gènes sont exprimés dans le verticille qui se développe en pétales ?",
+      "de": "Gemäß der ABC-Hypothese, welche Gene werden im Blütenblatt-Entwicklungskranz exprimiert?",
+      "ja": "ABC仮説によると、花弁に発達する渦巻きで発現する遺伝子はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Only A",
+          "zh": "只有A",
+          "es": "Solo A",
+          "fr": "Seulement A",
+          "de": "Nur A",
+          "ja": "Aのみ"
+        },
+        "feedback": {
+          "en": "Only A genes are expressed in the outermost whorl, which develops into sepals.",
+          "zh": "只有A基因在外层轮生体中表达，形成萼片。",
+          "es": "Solo los genes A se expresan en el verticilo más externo, que se convierte en sépalos.",
+          "fr": "Seuls les gènes A sont exprimés dans le verticille le plus externe, qui se développe en sépales.",
+          "de": "Nur A-Gene werden im äußersten Kranz exprimiert, der sich zu Kelchblättern entwickelt.",
+          "ja": "A遺伝子のみが最も外側の渦巻きで発現し、萼に発達します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Only B",
+          "zh": "只有B",
+          "es": "Solo B",
+          "fr": "Seulement B",
+          "de": "Nur B",
+          "ja": "Bのみ"
+        },
+        "feedback": {
+          "en": "B genes are always expressed in conjunction with A or C genes to form petals or stamens, respectively.",
+          "zh": "B基因总是与A或C基因共同表达，分别形成花瓣或雄蕊。",
+          "es": "Los genes B siempre se expresan junto con los genes A o C para formar pétalos o estambres, respectivamente.",
+          "fr": "Les gènes B sont toujours exprimés en conjonction avec les gènes A ou C pour former respectivement des pétales ou des étamines.",
+          "de": "B-Gene werden immer in Verbindung mit A- oder C-Genen exprimiert, um jeweils Blütenblätter oder Staubblätter zu bilden.",
+          "ja": "B遺伝子は常にAまたはC遺伝子と組み合わせて発現し、それぞれ花弁または雄しべを形成します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Only C",
+          "zh": "只有C",
+          "es": "Solo C",
+          "fr": "Seulement C",
+          "de": "Nur C",
+          "ja": "Cのみ"
+        },
+        "feedback": {
+          "en": "Only C genes are expressed in the innermost whorl, which develops into carpels.",
+          "zh": "只有C基因在最内层轮生体中表达，形成心皮。",
+          "es": "Solo los genes C se expresan en el verticilo más interno, que se convierte en carpelos.",
+          "fr": "Seuls les gènes C sont exprimés dans le verticille le plus interne, qui se développe en carpelles.",
+          "de": "Nur C-Gene werden im innersten Kranz exprimiert, der sich zu Fruchtblättern entwickelt.",
+          "ja": "C遺伝子のみが最も内側の渦巻きで発現し、心皮に発達します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A and B",
+          "zh": "A和B",
+          "es": "A y B",
+          "fr": "A et B",
+          "de": "A und B",
+          "ja": "AとB"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "B and C",
+          "zh": "B和C",
+          "es": "B y C",
+          "fr": "B et C",
+          "de": "B und C",
+          "ja": "BとC"
+        },
+        "feedback": {
+          "en": "B and C genes are expressed in the third whorl, which develops into stamens.",
+          "zh": "B和C基因在第三层轮生体中表达，形成雄蕊。",
+          "es": "Los genes B y C se expresan en el tercer verticilo, que se convierte en estambres.",
+          "fr": "Les gènes B et C sont exprimés dans le troisième verticille, qui se développe en étamines.",
+          "de": "B- und C-Gene werden im dritten Kranz exprimiert, der sich zu Staubblättern entwickelt.",
+          "ja": "BとCの遺伝子は第三の渦巻きで発現し、雄しべに発達します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "According to the ABC hypothesis, A genes are active in the two outer whorls (sepals and petals), and B genes are active in the two middle whorls (petals and stamens). Therefore, petals develop where both A and B genes are active.",
+      "zh": "根据ABC假说，A基因在两个外层轮生体（萼片和花瓣）中活跃，B基因在两个中间轮生体（花瓣和雄蕊）中活跃。因此，花瓣在A和B基因都活跃的区域发育。",
+      "es": "Según la hipótesis ABC, los genes A están activos en los dos verticilos externos (sépalos y pétalos), y los genes B están activos en los dos verticilos medios (pétalos y estambres). Por lo tanto, los pétalos se desarrollan donde los genes A y B están activos.",
+      "fr": "Selon l'hypothèse ABC, les gènes A sont actifs dans les deux verticilles externes (sépales et pétales), et les gènes B sont actifs dans les deux verticilles médians (pétales et étamines). Par conséquent, les pétales se développent là où les gènes A et B sont actifs.",
+      "de": "Gemäß der ABC-Hypothese sind A-Gene in den beiden äußeren Kranzen (Kelchblätter und Blütenblätter) aktiv, und B-Gene sind in den beiden mittleren Kranzen (Blütenblätter und Staubblätter) aktiv. Daher entwickeln sich Blütenblätter dort, wo sowohl A- als auch B-Gene aktiv sind.",
+      "ja": "ABC仮説によると、A遺伝子は外側の2つの渦巻き（萼と花弁）で活性化し、B遺伝子は中央の2つの渦巻き（花弁と雄しべ）で活性化します。したがって、花弁はAとBの両方の遺伝子が活性化している場所で発達します。"
+    }
+  },
+  {
+    "page_number": 829,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "In some plant species, sepals resemble petals, and both are collectively called 'tepals.' Based on the ABC hypothesis, which genetic alteration would most likely account for the development of tepals?",
+      "zh": "在某些植物物种中，萼片与花瓣相似，两者统称为“花被片”。根据ABC假说，哪种基因改变最有可能解释花被片的形成？",
+      "es": "En algunas especies de plantas, los sépalos se parecen a los pétalos, y ambos se denominan colectivamente 'tépalos'. Según la hipótesis ABC, ¿qué alteración genética explicaría más probablemente el desarrollo de los tépalos?",
+      "fr": "Chez certaines espèces végétales, les sépales ressemblent aux pétales, et les deux sont collectivement appelés « tépales ». Basé sur l'hypothèse ABC, quelle altération génétique expliquerait le plus probablement le développement des tépales ?",
+      "de": "Bei einigen Pflanzenarten ähneln Kelchblätter den Blütenblättern, und beide werden zusammen als 'Tepalen' bezeichnet. Welche genetische Veränderung würde gemäß der ABC-Hypothese am ehesten die Entwicklung von Tepalen erklären?",
+      "ja": "一部の植物種では、萼が花弁に似ており、両者を総称して「花被片」と呼びます。ABC仮説に基づくと、花被片の発達を最もよく説明する遺伝的変化はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Suppression of A gene activity in the first whorl",
+          "zh": "第一轮生体中A基因活性的抑制",
+          "es": "Supresión de la actividad del gen A en el primer verticilo",
+          "fr": "Suppression de l'activité du gène A dans le premier verticille",
+          "de": "Unterdrückung der A-Genaktivität im ersten Kranz",
+          "ja": "第一渦巻きにおけるA遺伝子活性の抑制"
+        },
+        "feedback": {
+          "en": "If A gene activity is suppressed, C gene activity would expand into the first whorl (due to A inhibiting C), leading to carpels, not tepals.",
+          "zh": "如果A基因活性被抑制，C基因活性将扩展到第一轮生体（因为A抑制C），从而导致形成心皮，而不是花被片。",
+          "es": "Si la actividad del gen A se suprime, la actividad del gen C se expandiría al primer verticilo (debido a que A inhibe a C), lo que llevaría a la formación de carpelos, no de tépalos.",
+          "fr": "Si l'activité du gène A est supprimée, l'activité du gène C s'étendrait au premier verticille (du fait que A inhibe C), conduisant à la formation de carpelles, et non de tépales.",
+          "de": "Wenn die A-Genaktivität unterdrückt wird, würde sich die C-Genaktivität in den ersten Kranz ausbreiten (da A C hemmt), was zur Bildung von Fruchtblättern, nicht von Tepalen, führen würde.",
+          "ja": "A遺伝子活性が抑制されると、C遺伝子活性が第一渦巻きに拡大し（AがCを抑制するため）、花被片ではなく心皮が形成されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Extension of B gene activity into the first whorl",
+          "zh": "B基因活性延伸到第一轮生体",
+          "es": "Extensión de la actividad del gen B al primer verticilo",
+          "fr": "Extension de l'activité du gène B au premier verticille",
+          "de": "Ausdehnung der B-Genaktivität in den ersten Kranz",
+          "ja": "B遺伝子活性が第一渦巻きまで延長する"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Suppression of C gene activity throughout the flower",
+          "zh": "整个花中C基因活性的抑制",
+          "es": "Supresión de la actividad del gen C en toda la flor",
+          "fr": "Suppression de l'activité du gène C dans toute la fleur",
+          "de": "Unterdrückung der C-Genaktivität in der gesamten Blüte",
+          "ja": "花全体でのC遺伝子活性の抑制"
+        },
+        "feedback": {
+          "en": "Suppression of C gene activity would lead to the repetition of sepals and petals (sepals, petals, petals, sepals), not tepals where sepals resemble petals.",
+          "zh": "C基因活性的抑制会导致萼片和花瓣的重复（萼片、花瓣、花瓣、萼片），而不是萼片像花瓣的花被片。",
+          "es": "La supresión de la actividad del gen C llevaría a la repetición de sépalos y pétalos (sépalos, pétalos, pétalos, sépalos), no a tépalos donde los sépalos se parecen a los pétalos.",
+          "fr": "La suppression de l'activité du gène C entraînerait la répétition des sépales et des pétales (sépales, pétales, pétales, sépales), et non des tépales où les sépales ressemblent aux pétales.",
+          "de": "Die Unterdrückung der C-Genaktivität würde zur Wiederholung von Kelchblättern und Blütenblättern führen (Kelchblätter, Blütenblätter, Blütenblätter, Kelchblätter), nicht zu Tepalen, bei denen Kelchblätter Blütenblättern ähneln.",
+          "ja": "C遺伝子活性の抑制は、萼と花弁の繰り返し（萼、花弁、花弁、萼）につながり、萼が花弁に似た花被片ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Extension of C gene activity into the second whorl",
+          "zh": "C基因活性延伸到第二轮生体",
+          "es": "Extensión de la actividad del gen C al segundo verticilo",
+          "fr": "Extension de l'activité du gène C au deuxième verticille",
+          "de": "Ausdehnung der C-Genaktivität in den zweiten Kranz",
+          "ja": "C遺伝子活性が第二渦巻きまで延長する"
+        },
+        "feedback": {
+          "en": "Extension of C gene activity into the second whorl would lead to stamens or carpels in that whorl, not petal-like structures, due to C's inhibitory effect on A.",
+          "zh": "C基因活性延伸到第二轮生体将导致该轮生体形成雄蕊或心皮，而不是花瓣状结构，因为C对A有抑制作用。",
+          "es": "La extensión de la actividad del gen C al segundo verticilo conduciría a la formación de estambres o carpelos en ese verticilo, no a estructuras similares a pétalos, debido al efecto inhibidor de C sobre A.",
+          "fr": "L'extension de l'activité du gène C dans le deuxième verticille entraînerait la formation d'étamines ou de carpelles dans ce verticille, et non de structures ressemblant à des pétales, en raison de l'effet inhibiteur de C sur A.",
+          "de": "Die Ausdehnung der C-Genaktivität in den zweiten Kranz würde aufgrund der hemmenden Wirkung von C auf A zur Bildung von Staubblättern oder Fruchtblättern in diesem Kranz führen, nicht zu blütenblattähnlichen Strukturen.",
+          "ja": "C遺伝子活性が第二渦巻きまで延長すると、CのAに対する抑制効果により、その渦巻きに雄しべや心皮が形成され、花弁のような構造にはなりません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Tepals signify that both the outermost (normally sepals) and second (petals) whorls display petal identity. According to the ABC hypothesis, petals develop when both A and B genes are expressed. If B gene activity extends into the first whorl (where A genes are already active), then both the first and second whorls would express A and B genes, resulting in petal-like structures (tepals) in both positions.",
+      "zh": "花被片意味着最外层（通常是萼片）和第二层（花瓣）轮生体都表现出花瓣特征。根据ABC假说，当A和B基因都表达时，花瓣就会发育。如果B基因活性延伸到第一轮生体（A基因已经活跃），那么第一和第二轮生体都将表达A和B基因，从而在两个位置都形成花瓣状结构（花被片）。",
+      "es": "Los tépalos significan que tanto el verticilo más externo (normalmente sépalos) como el segundo (pétalos) muestran identidad de pétalo. Según la hipótesis ABC, los pétalos se desarrollan cuando se expresan los genes A y B. Si la actividad del gen B se extiende al primer verticilo (donde los genes A ya están activos), entonces tanto el primer como el segundo verticilo expresarían los genes A y B, lo que resultaría en estructuras similares a pétalos (tépalos) en ambas posiciones.",
+      "fr": "Les tépales signifient que les deux verticilles, le plus externe (normalement sépales) et le deuxième (pétales), présentent une identité de pétale. Selon l'hypothèse ABC, les pétales se développent lorsque les gènes A et B sont exprimés. Si l'activité du gène B s'étend au premier verticille (où les gènes A sont déjà actifs), alors les premier et deuxième verticilles exprimeraient les gènes A et B, ce qui entraînerait des structures de type pétale (tépales) aux deux positions.",
+      "de": "Tepalen bedeuten, dass sowohl der äußerste (normalerweise Kelchblätter) als auch der zweite (Blütenblätter) Kranz Blütenblattidentität aufweisen. Gemäß der ABC-Hypothese entwickeln sich Blütenblätter, wenn sowohl A- als auch B-Gene exprimiert werden. Wenn die B-Genaktivität in den ersten Kranz (wo A-Gene bereits aktiv sind) ausgedehnt wird, würden sowohl der erste als auch der zweite Kranz A- und B-Gene exprimieren, was zu blütenblattähnlichen Strukturen (Tepalen) an beiden Positionen führen würde.",
+      "ja": "花被片とは、最も外側の（通常は萼）と第二の（花弁）両方の渦巻きが花弁の特性を示すことを意味します。ABC仮説によると、AとBの両方の遺伝子が発現すると花弁が発達します。B遺伝子活性が第一の渦巻き（A遺伝子がすでに活性である場所）にまで拡大すると、第一と第二の渦巻きの両方でAとBの遺伝子が発現し、両方の位置で花弁のような構造（花被片）が形成されます。"
+    }
+  },
+  {
+    "page_number": 829,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "If both A and B genes are suppressed in a flower according to the ABC hypothesis, what would be the expected floral organ arrangement from the outermost to the innermost whorl?",
+      "zh": "如果根据ABC假说，一朵花中的A和B基因都被抑制，那么从最外层到最内层，预期的花器官排列会是怎样的？",
+      "es": "Si tanto el gen A como el gen B están suprimidos en una flor según la hipótesis ABC, ¿cuál sería la disposición esperada de los órganos florales desde el verticilo más externo hasta el más interno?",
+      "fr": "Si les gènes A et B sont tous deux supprimés chez une fleur selon l'hypothèse ABC, quelle serait la disposition attendue des organes floraux du verticille le plus externe au plus interne ?",
+      "de": "Wenn gemäß der ABC-Hypothese sowohl A- als auch B-Gene in einer Blüte unterdrückt werden, wie wäre die erwartete Anordnung der Blütenorgane vom äußersten zum innersten Kranz?",
+      "ja": "ABC仮説によると、花でA遺伝子とB遺伝子の両方が抑制された場合、最も外側から最も内側の渦巻きまで、期待される花器官の配置はどうなりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Sepals, Petals, Stamens, Carpels",
+          "zh": "萼片、花瓣、雄蕊、心皮",
+          "es": "Sépalos, Pétalos, Estambres, Carpelos",
+          "fr": "Sépales, Pétales, Étamines, Carpelles",
+          "de": "Kelchblätter, Blütenblätter, Staubblätter, Fruchtblätter",
+          "ja": "萼、花弁、雄しべ、心皮"
+        },
+        "feedback": {
+          "en": "This arrangement represents a wild-type flower where all ABC genes are functioning normally.",
+          "zh": "这种排列代表了所有ABC基因正常运作的野生型花朵。",
+          "es": "Esta disposición representa una flor de tipo silvestre donde todos los genes ABC funcionan normalmente.",
+          "fr": "Cet arrangement représente une fleur de type sauvage où tous les gènes ABC fonctionnent normalement.",
+          "de": "Diese Anordnung stellt eine Wildtyp-Blüte dar, bei der alle ABC-Gene normal funktionieren.",
+          "ja": "この配置は、すべてのABC遺伝子が正常に機能している野生型の花を表します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Carpels, Stamens, Stamens, Carpels",
+          "zh": "心皮、雄蕊、雄蕊、心皮",
+          "es": "Carpelos, Estambres, Estambres, Carpelos",
+          "fr": "Carpelles, Étamines, Étamines, Carpelles",
+          "de": "Fruchtblätter, Staubblätter, Staubblätter, Fruchtblätter",
+          "ja": "心皮、雄しべ、雄しべ、心皮"
+        },
+        "feedback": {
+          "en": "This arrangement is characteristic of a flower where only the A gene is suppressed, leading to C gene expression in the first two whorls.",
+          "zh": "这种排列是仅A基因被抑制的花朵的特征，导致C基因在前两个轮生体中表达。",
+          "es": "Esta disposición es característica de una flor donde solo el gen A está suprimido, lo que lleva a la expresión del gen C en los dos primeros verticilos.",
+          "fr": "Cet arrangement est caractéristique d'une fleur où seul le gène A est supprimé, entraînant l'expression du gène C dans les deux premiers verticilles.",
+          "de": "Diese Anordnung ist charakteristisch für eine Blüte, bei der nur das A-Gen unterdrückt ist, was zur C-Genexpression in den ersten beiden Kranzen führt.",
+          "ja": "この配置は、A遺伝子のみが抑制され、C遺伝子が最初の2つの渦巻きで発現する花の特徴です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Carpels, Carpels, Carpels, Carpels",
+          "zh": "心皮、心皮、心皮、心皮",
+          "es": "Carpelos, Carpelos, Carpelos, Carpelos",
+          "fr": "Carpelles, Carpelles, Carpelles, Carpelles",
+          "de": "Fruchtblätter, Fruchtblätter, Fruchtblätter, Fruchtblätter",
+          "ja": "心皮、心皮、心皮、心皮"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Petals, Stamens, Stamens, Petals",
+          "zh": "花瓣、雄蕊、雄蕊、花瓣",
+          "es": "Pétalos, Estambres, Estambres, Pétalos",
+          "fr": "Pétales, Étamines, Étamines, Pétales",
+          "de": "Blütenblätter, Staubblätter, Staubblätter, Blütenblätter",
+          "ja": "花弁、雄しべ、雄しべ、花弁"
+        },
+        "feedback": {
+          "en": "This arrangement is characteristic of a flower where only the C gene is suppressed, leading to A gene expression in the innermost two whorls.",
+          "zh": "这种排列是仅C基因被抑制的花朵的特征，导致A基因在最内层两个轮生体中表达。",
+          "es": "Esta disposición es característica de una flor donde solo el gen C está suprimido, lo que lleva a la expresión del gen A en los dos verticilos más internos.",
+          "fr": "Cet arrangement est caractéristique d'une fleur où seul le gène C est supprimé, entraînant l'expression du gène A dans les deux verticilles les plus internes.",
+          "de": "Diese Anordnung ist charakteristisch für eine Blüte, bei der nur das C-Gen unterdrückt ist, was zur A-Genexpression in den innersten beiden Kranzen führt.",
+          "ja": "この配置は、C遺伝子のみが抑制され、A遺伝子が最も内側の2つの渦巻きで発現する花の特徴です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "According to the ABC hypothesis, A gene activity normally inhibits C gene activity. If the A gene is suppressed, C gene activity expands into the first and second whorls. With both A and B genes suppressed, C gene activity would be present and unopposed in all four whorls. Therefore, all whorls (sepals, petals, stamens, and carpels) would develop into carpels, as carpel formation is solely dependent on C gene activity.",
+      "zh": "根据ABC假说，A基因活性通常抑制C基因活性。如果A基因被抑制，C基因活性将扩展到第一和第二轮生体。当A和B基因都被抑制时，C基因活性将在所有四个轮生体中存在且不受抑制。因此，所有轮生体（萼片、花瓣、雄蕊和心皮）都将发育成心皮，因为心皮的形成仅依赖于C基因活性。",
+      "es": "Según la hipótesis ABC, la actividad del gen A normalmente inhibe la actividad del gen C. Si el gen A se suprime, la actividad del gen C se expande a los verticilos primero y segundo. Con la supresión de los genes A y B, la actividad del gen C estaría presente y sin oposición en los cuatro verticilos. Por lo tanto, todos los verticilos (sépalos, pétalos, estambres y carpelos) se desarrollarían en carpelos, ya que la formación de carpelos depende únicamente de la actividad del gen C.",
+      "fr": "Selon l'hypothèse ABC, l'activité du gène A inhibe normalement l'activité du gène C. Si le gène A est supprimé, l'activité du gène C s'étend aux premier et deuxième verticilles. Avec les gènes A et B supprimés, l'activité du gène C serait présente et sans opposition dans les quatre verticilles. Par conséquent, tous les verticilles (sépales, pétales, étamines et carpelles) se développeraient en carpelles, car la formation des carpelles dépend uniquement de l'activité du gène C.",
+      "de": "Gemäß der ABC-Hypothese hemmt die A-Genaktivität normalerweise die C-Genaktivität. Wenn das A-Gen unterdrückt wird, breitet sich die C-Genaktivität in den ersten und zweiten Kranz aus. Wenn sowohl A- als auch B-Gene unterdrückt werden, wäre die C-Genaktivität in allen vier Kranzen vorhanden und ungehindert. Daher würden sich alle Kranze (Kelchblätter, Blütenblätter, Staubblätter und Fruchtblätter) zu Fruchtblättern entwickeln, da die Fruchtblattbildung ausschließlich von der C-Genaktivität abhängt.",
+      "ja": "ABC仮説によると、A遺伝子活性は通常C遺伝子活性を抑制します。A遺伝子が抑制されると、C遺伝子活性は第一と第二の渦巻きに拡大します。A遺伝子とB遺伝子の両方が抑制された場合、C遺伝子活性は4つの渦巻きすべてに存在し、阻害されません。したがって、すべての渦巻き（萼、花弁、雄しべ、心皮）は心皮に発達します。なぜなら、心皮の形成はC遺伝子活性にのみ依存するからです。"
+    }
+  }
+]

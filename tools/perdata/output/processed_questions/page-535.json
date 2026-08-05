@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 535,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which evolutionary mechanism is best described by 'By chance alone, alleles encoding darker color have become more common over several generations.' as depicted in the diagram showing beetle populations?",
+      "zh": "图中描绘的“仅仅凭借偶然，编码深色性状的等位基因在几代内变得更加普遍”最能描述哪种进化机制？",
+      "es": "¿Cuál mecanismo evolutivo se describe mejor con 'Solo por casualidad, los alelos que codifican el color más oscuro se han vuelto más comunes a lo largo de varias generaciones' como se representa en el diagrama que muestra las poblaciones de escarabajos?",
+      "fr": "Quel mécanisme évolutif est le mieux décrit par « Par pur hasard, les allèles codant pour une couleur plus foncée sont devenus plus courants au fil de plusieurs générations », tel que représenté dans le diagramme montrant les populations de coléoptères ?",
+      "de": "Welcher evolutionäre Mechanismus wird am besten durch 'Zufällig sind Allele, die eine dunklere Farbe kodieren, über mehrere Generationen hinweg häufiger geworden' beschrieben, wie im Diagramm der Käferpopulationen dargestellt?",
+      "ja": "カブトムシの個体群を示す図に示されている「偶然によって、より暗い色をコードする対立遺伝子が数世代にわたってより一般的になった」という説明が最もよく表す進化メカニズムはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Natural Selection",
+          "zh": "自然选择",
+          "es": "Selección Natural",
+          "fr": "Sélection Naturelle",
+          "de": "Natürliche Selektion",
+          "ja": "自然選択"
+        },
+        "feedback": {
+          "en": "Natural selection involves differential survival and reproduction based on advantageous traits, not solely by chance.",
+          "zh": "自然选择涉及基于有利性状的差异性生存和繁殖，而非仅仅凭借偶然。",
+          "es": "La selección natural implica supervivencia y reproducción diferencial basadas en rasgos ventajosos, no únicamente por casualidad.",
+          "fr": "La sélection naturelle implique une survie et une reproduction différentielles basées sur des traits avantageux, et non uniquement par hasard.",
+          "de": "Natürliche Selektion beinhaltet differenzielles Überleben und Reproduktion basierend auf vorteilhaften Merkmalen, nicht ausschließlich durch Zufall.",
+          "ja": "自然選択は、有利な形質に基づいた生存と繁殖の差を伴い、単に偶然によるものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Genetic Drift",
+          "zh": "遗传漂变",
+          "es": "Deriva Genética",
+          "fr": "Dérive Génétique",
+          "de": "Gendrift",
+          "ja": "遺伝的浮動"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Gene Flow",
+          "zh": "基因流",
+          "es": "Flujo Genético",
+          "fr": "Flux Génétique",
+          "de": "Genfluss",
+          "ja": "遺伝子流動"
+        },
+        "feedback": {
+          "en": "Gene flow involves the movement of alleles between populations through migration.",
+          "zh": "基因流涉及通过迁移在种群之间移动等位基因。",
+          "es": "El flujo genético implica el movimiento de alelos entre poblaciones a través de la migración.",
+          "fr": "Le flux génétique implique le mouvement d'allèles entre les populations par la migration.",
+          "de": "Genfluss beinhaltet die Bewegung von Allelen zwischen Populationen durch Migration.",
+          "ja": "遺伝子流動は、個体群間の移住を通じて対立遺伝子が移動することを含みます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Mutation",
+          "zh": "突变",
+          "es": "Mutación",
+          "fr": "Mutation",
+          "de": "Mutation",
+          "ja": "突然変異"
+        },
+        "feedback": {
+          "en": "Mutation introduces new alleles, but doesn't describe the change in frequency of existing alleles by chance over generations.",
+          "zh": "突变引入新的等位基因，但并未描述现有等位基因频率因偶然性而在几代内发生的变化。",
+          "es": "La mutación introduce nuevos alelos, pero no describe el cambio en la frecuencia de alelos existentes por casualidad a lo largo de generaciones.",
+          "fr": "La mutation introduit de nouveaux allèles, mais ne décrit pas le changement de fréquence des allèles existants par hasard au fil des générations.",
+          "de": "Mutationen führen neue Allele ein, beschreiben aber nicht die zufällige Veränderung der Häufigkeit bestehender Allele über Generationen hinweg.",
+          "ja": "突然変異は新しい対立遺伝子を導入しますが、既存の対立遺伝子の頻度が偶然によって世代を超えて変化する様子を説明するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Genetic drift refers to random fluctuations in allele frequencies from one generation to the next, often by chance events. The description explicitly mentions 'by chance alone', which is characteristic of genetic drift, as opposed to natural selection (differential survival/reproduction based on traits), gene flow (migration), or mutation (creation of new alleles).",
+      "zh": "遗传漂变是指等位基因频率从一代到下一代随机波动，通常是由于偶然事件。描述中明确提到“仅仅凭借偶然”，这是遗传漂变的特征，与自然选择（基于性状的差异性生存/繁殖）、基因流（迁移）或突变（新等位基因的产生）不同。",
+      "es": "La deriva genética se refiere a las fluctuaciones aleatorias en las frecuencias alélicas de una generación a la siguiente, a menudo por eventos aleatorios. La descripción menciona explícitamente 'solo por casualidad', lo cual es característico de la deriva genética, a diferencia de la selección natural (supervivencia/reproducción diferencial basada en rasgos), el flujo genético (migración) o la mutación (creación de nuevos alelos).",
+      "fr": "La dérive génétique fait référence aux fluctuations aléatoires des fréquences alléliques d'une génération à l'autre, souvent dues à des événements aléatoires. La description mentionne explicitement « par pur hasard », ce qui est caractéristique de la dérive génétique, par opposition à la sélection naturelle (survie/reproduction différentielle basée sur des traits), au flux génétique (migration) ou à la mutation (création de nouveaux allèles).",
+      "de": "Gendrift bezieht sich auf zufällige Schwankungen der Allelfrequenzen von einer Generation zur nächsten, oft durch Zufallsereignisse. Die Beschreibung erwähnt explizit 'zufällig', was charakteristisch für Gendrift ist, im Gegensatz zur natürlichen Selektion (differenzielles Überleben/Reproduktion basierend auf Merkmalen), Genfluss (Migration) oder Mutation (Entstehung neuer Allele).",
+      "ja": "遺伝的浮動は、ある世代から次の世代へと対立遺伝子頻度がランダムに変動することを指し、しばしば偶発的な出来事によって生じます。説明文には「偶然によって」とはっきりと記されており、これは遺伝的浮動の特徴です。自然選択（形質に基づく生存と生殖の差）、遺伝子流動（移入/移出）、または突然変異（新しい対立遺伝子の生成）とは異なります。"
+    }
+  },
+  {
+    "page_number": 535,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on Figure 23.1, what is the most likely evolutionary mechanism responsible for the surviving Geospiza fortis birds having larger, deeper beaks after the 1977 drought?",
+      "zh": "根据图23.1，1977年干旱后幸存的 Geospiza fortis 鸟类拥有更大、更深的喙，最可能的原因是哪种进化机制？",
+      "es": "Según la Figura 23.1, ¿cuál es el mecanismo evolutivo más probable responsable de que las aves Geospiza fortis supervivientes tuvieran picos más grandes y profundos después de la sequía de 1977?",
+      "fr": "Selon la Figure 23.1, quel est le mécanisme évolutif le plus probable responsable du fait que les oiseaux Geospiza fortis survivants aient des becs plus grands et plus profonds après la sécheresse de 1977 ?",
+      "de": "Basierend auf Abbildung 23.1, welcher evolutionäre Mechanismus ist am wahrscheinlichsten dafür verantwortlich, dass die überlebenden Geospiza fortis-Vögel nach der Dürre von 1977 größere, tiefere Schnäbel hatten?",
+      "ja": "図23.1に基づくと、1977年の干ばつ後、生き残った Geospiza fortis がより大きく、より深い嘴を持つようになった最も可能性の高い進化メカニズムは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Natural selection",
+          "zh": "自然选择",
+          "es": "Selección natural",
+          "fr": "Sélection naturelle",
+          "de": "Natürliche Selektion",
+          "ja": "自然選択"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Genetic drift",
+          "zh": "遗传漂变",
+          "es": "Deriva genética",
+          "fr": "Dérive génétique",
+          "de": "Gendrift",
+          "ja": "遺伝的浮動"
+        },
+        "feedback": {
+          "en": "Genetic drift involves random changes in allele frequencies, not a directional change driven by environmental pressure.",
+          "zh": "遗传漂变涉及等位基因频率的随机变化，而非由环境压力驱动的方向性变化。",
+          "es": "La deriva genética implica cambios aleatorios en las frecuencias alélicas, no un cambio direccional impulsado por la presión ambiental.",
+          "fr": "La dérive génétique implique des changements aléatoires dans les fréquences alléliques, et non un changement directionnel entraîné par la pression environnementale.",
+          "de": "Gendrift beinhaltet zufällige Veränderungen der Allelfrequenzen, nicht eine gerichtete Veränderung, die durch Umweltdruck verursacht wird.",
+          "ja": "遺伝的浮動は対立遺伝子頻度のランダムな変化を伴い、環境圧力によって引き起こされる方向性のある変化ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Gene flow",
+          "zh": "基因流",
+          "es": "Flujo genético",
+          "fr": "Flux génétique",
+          "de": "Genfluss",
+          "ja": "遺伝子流動"
+        },
+        "feedback": {
+          "en": "Gene flow involves the movement of individuals or alleles between populations, which is not the primary cause of beak change described here.",
+          "zh": "基因流涉及个体或等位基因在种群之间的移动，这不是此处描述的喙变化的主要原因。",
+          "es": "El flujo genético implica el movimiento de individuos o alelos entre poblaciones, lo cual no es la causa principal del cambio del pico descrito aquí.",
+          "fr": "Le flux génétique implique le mouvement d'individus ou d'allèles entre les populations, ce qui n'est pas la cause principale du changement de bec décrit ici.",
+          "de": "Genfluss beinhaltet die Bewegung von Individuen oder Allelen zwischen Populationen, was hier nicht die Hauptursache für die Schnabelveränderung ist.",
+          "ja": "遺伝子流動は、個体または対立遺伝子が個体群間を移動することを含みますが、ここで記述されている嘴の変化の主要な原因ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Mutation",
+          "zh": "突变",
+          "es": "Mutación",
+          "fr": "Mutation",
+          "de": "Mutation",
+          "ja": "突然変異"
+        },
+        "feedback": {
+          "en": "Mutation creates new genetic variations, but the observed change in the population's average beak size is due to existing variations being selected for, not the sudden appearance of new mutations.",
+          "zh": "突变产生新的遗传变异，但观察到的种群平均喙大小的变化是由于现有变异被选择所致，而非新突变的突然出现。",
+          "es": "La mutación crea nuevas variaciones genéticas, but el cambio observado en el tamaño promedio del pico de la población se debe a que las variaciones existentes fueron seleccionadas, not a la aparición repentina de nuevas mutaciones.",
+          "fr": "La mutation crée de nouvelles variations génétiques, but le changement observé dans la taille moyenne du bec de la population est dû à la sélection des variations existantes, et non à l'apparition soudaine de nouvelles mutations.",
+          "de": "Mutation erzeugt neue genetische Variationen, aber die beobachtete Veränderung der durchschnittlichen Schnabelgröße der Population ist auf die Selektion bestehender Variationen zurückzuführen, nicht auf das plötzliche Auftreten neuer Mutationen.",
+          "ja": "突然変異は新しい遺伝的変異を生み出しますが、個体群の平均嘴サイズに見られる変化は、既存の変異が選択された結果であり、新しい突然変異が突然出現したことによるものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The finch population experienced a drought, which created an environmental pressure. Birds with larger, deeper beaks were better able to consume the available tough seeds and thus survived and reproduced more successfully. This differential survival and reproduction based on an advantageous trait (beak size/depth for seed consumption) is the definition of natural selection.",
+      "zh": "雀鸟种群经历了干旱，这产生了环境压力。拥有更大、更深喙的鸟类能够更好地食用现有的坚硬种子，从而更成功地生存和繁殖。这种基于有利性状（喙的大小/深度以适应种子食用）的差异性生存和繁殖是自然选择的定义。",
+      "es": "La población de pinzones experimentó una sequía, lo que generó una presión ambiental. Las aves con picos más grandes y profundos pudieron consumir mejor las semillas duras disponibles y, por lo tanto, sobrevivieron y se reprodujeron con más éxito. Esta supervivencia y reproducción diferencial basadas en un rasgo ventajoso (tamaño/profundidad del pico para el consumo de semillas) es la definición de selección natural.",
+      "fr": "La population de pinsons a subi une sécheresse, ce qui a créé une pression environnementale. Les oiseaux ayant des becs plus grands et plus profonds étaient mieux capables de consommer les graines dures disponibles et ont donc survécu et se sont reproduits avec plus de succès. Cette survie et reproduction différentielles basées sur un trait avantageux (taille/profondeur du bec para la consommation de graines) est la définition de la sélection naturelle.",
+      "de": "Die Finkpopulation erlebte eine Dürre, die einen Umweltdruck erzeugte. Vögel mit größeren, tieferen Schnäbeln konnten die verfügbaren harten Samen besser fressen und überlebten und reproduzierten sich dadurch erfolgreicher. Dieses differenzielle Überleben und die Fortpflanzung basierend auf einem vorteilhaften Merkmal (Schnabelgröße/-tiefe für den Samenverzehr) ist die Definition der natürlichen Selektion.",
+      "ja": "フィンチの個体群は干ばつを経験し、それが環境的圧力を生み出しました。嘴がより大きく、より深い鳥は、利用可能な硬い種子をよりよく消費できたため、より成功裏に生き残り、繁殖しました。有利な形質（種子の消費のための嘴の大きさ/深さ）に基づいたこの差次的な生存と繁殖は、自然選択の定義です。"
+    }
+  },
+  {
+    "page_number": 535,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the 'Study Tip' table, which of the following is a distinguishing feature of balancing selection?",
+      "zh": "根据“学习建议”表格，以下哪项是平衡选择的显著特征？",
+      "es": "Según la tabla 'Consejo de Estudio', ¿cuál de las siguientes es una característica distintiva de la selección equilibradora?",
+      "fr": "Selon le tableau « Conseil d'étude », laquelle des affirmations suivantes est une caractéristique distinctive de la sélection équilibrante ?",
+      "de": "Laut der Tabelle 'Lerntipp', welches der folgenden Merkmale ist ein Unterscheidungsmerkmal der balancierenden Selektion?",
+      "ja": "「学習のヒント」の表によると、以下のうち平衡選択の際立った特徴はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Leads to the adaptation of a population to its environment.",
+          "zh": "导致种群适应其环境。",
+          "es": "Conduce a la adaptación de una población a su entorno.",
+          "fr": "Conduit à l'adaptation d'une population à son environnement.",
+          "de": "Führt zur Anpassung einer Population an ihre Umgebung.",
+          "ja": "個体群がその環境に適応するよう導く。"
+        },
+        "feedback": {
+          "en": "This describes adaptive evolution, often a result of natural selection, but not specific to balancing selection's mechanism.",
+          "zh": "这描述了适应性进化，通常是自然选择的结果，但并非平衡选择机制的特有描述。",
+          "es": "Esto describe la evolución adaptativa, a menudo resultado de la selección natural, but no es específico del mecanismo de selección equilibradora.",
+          "fr": "Cela décrit l'évolution adaptative, souvent le résultat de la sélection naturelle, but n'est pas spécifique au mécanisme de sélection équilibrante.",
+          "de": "Dies beschreibt adaptive Evolution, oft ein Ergebnis der natürlichen Selektion, aber nicht spezifisch für den Mechanismus der balancierenden Selektion.",
+          "ja": "これは適応進化を説明するもので、しばしば自然選択の結果ですが、平衡選択のメカニズムに特有のものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Involves random changes in allele frequencies.",
+          "zh": "涉及等位基因频率的随机变化。",
+          "es": "Implica cambios aleatorios en las frecuencias alélicas.",
+          "fr": "Implique des changements aléatoires dans les fréquences alléliques.",
+          "de": "Beinhaltet zufällige Veränderungen der Allelfrequenzen.",
+          "ja": "対立遺伝子頻度のランダムな変化を伴う。"
+        },
+        "feedback": {
+          "en": "This describes genetic drift, not balancing selection.",
+          "zh": "这描述了遗传漂变，而非平衡选择。",
+          "es": "Esto describe la deriva genética, no la selección equilibradora.",
+          "fr": "Cela décrit la dérive génétique, pas la sélection équilibrante.",
+          "de": "Dies beschreibt Gendrift, nicht balancierende Selektion.",
+          "ja": "これは遺伝的浮動を説明するもので、平衡選択ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Maintains two or more phenotypes in a population.",
+          "zh": "在一个种群中维持两种或多种表型。",
+          "es": "Mantiene dos o más fenotipos en una población.",
+          "fr": "Maintient deux phénotypes ou plus dans une population.",
+          "de": "Erhält zwei oder mehr Phänotypen in einer Population.",
+          "ja": "個体群内に2つ以上の表現型を維持する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Involves the movement of alleles between populations.",
+          "zh": "涉及等位基因在种群之间的移动。",
+          "es": "Implica el movimiento de alelos entre poblaciones.",
+          "fr": "Implique le mouvement d'allèles entre les populations.",
+          "de": "Beinhaltet die Bewegung von Allelen zwischen Populationen.",
+          "ja": "個体群間で対立遺伝子の移動を伴う。"
+        },
+        "feedback": {
+          "en": "This describes gene flow, not balancing selection.",
+          "zh": "这描述了基因流，而非平衡选择。",
+          "es": "Esto describe el flujo genético, no la selección equilibradora.",
+          "fr": "Cela décrit le flux génétique, pas la sélection équilibrante.",
+          "de": "Dies beschreibt Genfluss, nicht balancierende Selektion.",
+          "ja": "これは遺伝子流動を説明するもので、平衡選択ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The table entry for 'Balancing selection' explicitly states its distinguishing feature as 'Maintains two or more phenotypes in a population; includes frequency-dependent selection and heterozygote advantage'.",
+      "zh": "“平衡选择”的表格条目明确指出其显著特征是“在一个种群中维持两种或多种表型；包括频率依赖性选择和杂合子优势”。",
+      "es": "La entrada de la tabla para 'Selección equilibradora' establece explícitamente su característica distintiva como 'Mantiene dos o más fenotipos en una población; incluye selección dependiente de la frecuencia y ventaja del heterocigoto'.",
+      "fr": "L'entrée du tableau pour la « sélection équilibrante » indique explicitement comme caractéristique distinctive « Maintient deux phénotypes ou plus dans une population ; inclut la sélection dépendante de la fréquence et l'avantage des hétérozygotes ».",
+      "de": "Der Tabelleneintrag für 'Balancierende Selektion' besagt explizit, dass ihr Unterscheidungsmerkmal ist: 'Erhält zwei oder mehr Phänotypen in einer Population; beinhaltet frequenzabhängige Selektion und Heterozygotenvorteil'.",
+      "ja": "「平衡選択」の表の項目は、その際立った特徴を「個体群内に2つ以上の表現型を維持する。頻度依存選択とヘテロ接合体優位性を含む」と明確に述べています。"
+    }
+  }
+]

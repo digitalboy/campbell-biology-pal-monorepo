@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 490,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A paleontologist has recovered a minute tissue sample from an extinct dodo. To obtain enough DNA for comprehensive genetic analysis, which technique would be most effective for increasing the quantity of dodo DNA?",
+      "zh": "一位古生物学家从一只已灭绝的渡渡鸟身上回收了一小块组织样本。为了获得足够的DNA进行全面的基因分析，哪种技术能最有效地增加渡渡鸟DNA的数量？",
+      "es": "Un paleontólogo ha recuperado una minúscula muestra de tejido de un dodo extinto. Para obtener suficiente ADN para un análisis genético exhaustivo, ¿qué técnica sería la más efectiva para aumentar la cantidad de ADN de dodo?",
+      "fr": "Un paléontologue a récupéré un minuscule échantillon de tissu d'un dodo éteint. Pour obtenir suffisamment d'ADN pour une analyse génétique complète, quelle technique serait la plus efficace pour augmenter la quantité d'ADN de dodo?",
+      "de": "Ein Paläontologe hat eine winzige Gewebeprobe eines ausgestorbenen Dodos geborgen. Um genügend DNA für eine umfassende genetische Analyse zu erhalten, welche Technik wäre am effektivsten, um die Menge an Dodo-DNA zu erhöhen?",
+      "ja": "古生物学者が絶滅したドードー鳥から微量の組織サンプルを回収しました。包括的な遺伝子分析のために十分なDNAを得るには、ドードーDNAの量を増やすのに最も効果的な技術は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "SNP analysis",
+          "zh": "SNP分析",
+          "es": "Análisis de SNP",
+          "fr": "Analyse SNP",
+          "de": "SNP-Analyse",
+          "ja": "SNP解析"
+        },
+        "feedback": {
+          "en": "SNP analysis is used to identify variations in DNA sequences, not to amplify the quantity of DNA.",
+          "zh": "SNP分析用于识别DNA序列中的变异，而不是增加DNA的数量。",
+          "es": "El análisis de SNP se utiliza para identificar variaciones en las secuencias de ADN, no para amplificar la cantidad de ADN.",
+          "fr": "L'analyse SNP est utilisée pour identifier les variations des séquences d'ADN, non pour amplifier la quantité d'ADN.",
+          "de": "Die SNP-Analyse wird zur Identifizierung von Variationen in DNA-Sequenzen verwendet, nicht zur Amplifikation der DNA-Menge.",
+          "ja": "SNP解析はDNA配列のバリエーションを特定するために使用され、DNAの量を増幅するためではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Polymerase Chain Reaction (PCR)",
+          "zh": "聚合酶链反应（PCR）",
+          "es": "Reacción en cadena de la polimerasa (PCR)",
+          "fr": "Réaction en chaîne par polymérase (PCR)",
+          "de": "Polymerase-Kettenreaktion (PCR)",
+          "ja": "ポリメラーゼ連鎖反応（PCR）"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Electroporation",
+          "zh": "电穿孔",
+          "es": "Electroporación",
+          "fr": "Électroporation",
+          "de": "Elektroporation",
+          "ja": "エレクトロポレーション"
+        },
+        "feedback": {
+          "en": "Electroporation is a technique used to introduce foreign DNA into cells, not to amplify existing DNA.",
+          "zh": "电穿孔是一种将外源DNA导入细胞的技术，而不是扩增现有DNA。",
+          "es": "La electroporación es una técnica utilizada para introducir ADN extraño en las células, no para amplificar el ADN existente.",
+          "fr": "L'électroporation est une technique utilisée pour introduire de l'ADN étranger dans les cellules, non pour amplifier l'ADN existant.",
+          "de": "Elektroporation ist eine Technik, die verwendet wird, um fremde DNA in Zellen einzubringen, nicht um vorhandene DNA zu amplifizieren.",
+          "ja": "エレクトロポレーションは、外来DNAを細胞に導入するための技術であり、既存のDNAを増幅するためのものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Gel electrophoresis",
+          "zh": "凝胶电泳",
+          "es": "Electroforesis en gel",
+          "fr": "Électrophorèse sur gel",
+          "de": "Gelelektrophorese",
+          "ja": "ゲル電気泳動"
+        },
+        "feedback": {
+          "en": "Gel electrophoresis is used to separate DNA fragments by size, not to increase their quantity.",
+          "zh": "凝胶电泳用于根据大小分离DNA片段，而不是增加它们的数量。",
+          "es": "La electroforesis en gel se utiliza para separar fragmentos de ADN por tamaño, no para aumentar su cantidad.",
+          "fr": "L'électrophorèse sur gel est utilisée pour séparer les fragments d'ADN par taille, non pour augmenter leur quantité.",
+          "de": "Die Gelelektrophorese wird verwendet, um DNA-Fragmente nach Größe zu trennen, nicht um ihre Menge zu erhöhen.",
+          "ja": "ゲル電気泳動はDNA断片をサイズによって分離するために使用され、量を増やすためではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Polymerase Chain Reaction (PCR) is a highly effective technique for amplifying small quantities of DNA into millions or billions of copies, making it indispensable for genetic analysis from limited samples like ancient tissues.",
+      "zh": "聚合酶链反应（PCR）是一种高效的技术，能将少量DNA扩增成数百万或数十亿份拷贝，这使其成为对古老组织等有限样本进行基因分析不可或缺的方法。",
+      "es": "La Reacción en Cadena de la Polimerasa (PCR) es una técnica muy eficaz para amplificar pequeñas cantidades de ADN en millones o miles de millones de copias, lo que la hace indispensable para el análisis genético a partir de muestras limitadas como tejidos antiguos.",
+      "fr": "La Réaction en Chaîne par Polymérase (PCR) est une technique très efficace pour amplifier de petites quantités d'ADN en millions ou milliards de copies, ce qui la rend indispensable pour l'analyse génétique à partir d'échantillons limités comme les tissus anciens.",
+      "de": "Die Polymerase-Kettenreaktion (PCR) ist eine hocheffiziente Technik zur Amplifikation kleiner DNA-Mengen zu Millionen oder Milliarden von Kopien, was sie für die genetische Analyse aus begrenzten Proben wie alten Geweben unerlässlich macht.",
+      "ja": "ポリメラーゼ連鎖反応（PCR）は、少量のDNAを数百万から数十億のコピーに増幅するための非常に効果的な技術であり、古代の組織のような限られたサンプルからの遺伝子分析には不可欠です。"
+    }
+  },
+  {
+    "page_number": 490,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement is true regarding cDNA produced using human brain tissue as the starting material?",
+      "zh": "关于以人脑组织为起始材料生产的cDNA，以下哪项陈述是正确的？",
+      "es": "¿Qué afirmación es verdadera con respecto al ADNc producido utilizando tejido cerebral humano como material de partida?",
+      "fr": "Quelle affirmation est vraie concernant l'ADNc produit à partir de tissu cérébral humain comme matériau de départ?",
+      "de": "Welche Aussage trifft auf cDNA zu, die aus menschlichem Hirngewebe als Ausgangsmaterial hergestellt wurde?",
+      "ja": "ヒト脳組織を出発材料として製造されたcDNAに関して、次の記述のうち正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The procedure to make it requires amplification by the polymerase chain reaction.",
+          "zh": "其制备过程需要通过聚合酶链反应进行扩增。",
+          "es": "El procedimiento para hacerlo requiere amplificación por la reacción en cadena de la polimerasa.",
+          "fr": "Le processus de fabrication nécessite une amplification par réaction en chaîne par polymérase.",
+          "de": "Das Herstellungsverfahren erfordert eine Amplifikation mittels Polymerase-Kettenreaktion.",
+          "ja": "その作成手順には、ポリメラーゼ連鎖反応による増幅が必要です。"
+        },
+        "feedback": {
+          "en": "While cDNA is often amplified by PCR for various applications, the initial synthesis of cDNA from mRNA using reverse transcriptase does not inherently require PCR.",
+          "zh": "尽管cDNA常通过PCR进行扩增以用于各种应用，但利用逆转录酶从mRNA合成cDNA的初始过程本身并不需要PCR。",
+          "es": "Si bien el ADNc a menudo se amplifica mediante PCR para diversas aplicaciones, la síntesis inicial de ADNc a partir de ARNm utilizando transcriptasa inversa no requiere intrínsecamente PCR.",
+          "fr": "Bien que l'ADNc soit souvent amplifié par PCR pour diverses applications, la synthèse initiale de l'ADNc à partir de l'ARNm en utilisant la transcriptase inverse ne nécessite pas intrinsèquement la PCR.",
+          "de": "Obwohl cDNA häufig mittels PCR für verschiedene Anwendungen amplifiziert wird, erfordert die initiale Synthese von cDNA aus mRNA mittels reverser Transkriptase nicht zwangsläufig eine PCR.",
+          "ja": "cDNAは様々なアプリケーションのためにPCRで増幅されることが多いですが、mRNAから逆転写酵素を用いてcDNAを合成する初期の段階では、本質的にPCRは必要ありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It is produced from pre-mRNA using reverse transcriptase.",
+          "zh": "它是利用逆转录酶从前mRNA生产的。",
+          "es": "Se produce a partir de pre-ARNm utilizando transcriptasa inversa.",
+          "fr": "Il est produit à partir de pré-ARNm à l'aide de la transcriptase inverse.",
+          "de": "Sie wird aus prä-mRNA mittels reverser Transkriptase hergestellt.",
+          "ja": "プレmRNAから逆転写酵素を用いて生産されます。"
+        },
+        "feedback": {
+          "en": "cDNA is synthesized from mature mRNA (which has introns removed) using reverse transcriptase, not pre-mRNA.",
+          "zh": "cDNA是利用逆转录酶从成熟mRNA（已去除内含子）合成的，而不是从前mRNA。",
+          "es": "El ADNc se sintetiza a partir de ARNm maduro (al que se le han eliminado los intrones) utilizando transcriptasa inversa, no de pre-ARNm.",
+          "fr": "L'ADNc est synthétisé à partir d'ARNm mature (dont les introns ont été supprimés) à l'aide de la transcriptase inverse, et non du pré-ARNm.",
+          "de": "cDNA wird aus reifer mRNA (deren Introns entfernt wurden) unter Verwendung von reverser Transkriptase synthetisiert, nicht aus prä-mRNA.",
+          "ja": "cDNAは、プレmRNAではなく、逆転写酵素を用いて成熟mRNA（イントロンが除去されたもの）から合成されます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It can be labeled and used as a probe to detect genes expressed in the brain.",
+          "zh": "它可以被标记并用作探针，检测大脑中表达的基因。",
+          "es": "Puede etiquetarse y usarse como sonda para detectar genes expresados en el cerebro.",
+          "fr": "Il peut être marqué et utilisé comme sonde pour détecter les gènes exprimés dans le cerveau.",
+          "de": "Es kann markiert und als Sonde zur Detektion von im Gehirn exprimierten Genen verwendet werden.",
+          "ja": "それは標識され、脳で発現している遺伝子を検出するためのプローブとして使用できます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It includes the introns of the pre-mRNA.",
+          "zh": "它包含前mRNA的内含子。",
+          "es": "Incluye los intrones del pre-ARNm.",
+          "fr": "Il inclut les introns du pré-ARNm.",
+          "de": "Es enthält die Introns der prä-mRNA.",
+          "ja": "プレmRNAのイントロンが含まれています。"
+        },
+        "feedback": {
+          "en": "cDNA is synthesized from mature mRNA, from which introns have already been spliced out, so it does not contain introns.",
+          "zh": "cDNA是从成熟mRNA合成的，而成熟mRNA的内含子已被剪接出去，因此它不包含内含子。",
+          "es": "El ADNc se sintetiza a partir de ARNm maduro, del cual los intrones ya han sido empalmados, por lo que no contiene intrones.",
+          "fr": "L'ADNc est synthétisé à partir de l'ARNm mature, dont les introns ont déjà été épissés, il ne contient donc pas d'introns.",
+          "de": "cDNA wird aus reifer mRNA synthetisiert, aus der Introns bereits herausgespleißt wurden, daher enthält sie keine Introns.",
+          "ja": "cDNAは成熟mRNAから合成され、イントロンはすでにスプライシングで除去されているため、イントロンは含まれていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "cDNA is a DNA copy of mature mRNA, representing the genes that are actively expressed in a particular tissue (like the brain). Because it's a complementary sequence, it can be labeled and used as a probe to identify and locate those specific mRNA sequences (and thus the genes) within a sample.",
+      "zh": "cDNA是成熟mRNA的DNA拷贝，代表在特定组织（如大脑）中活跃表达的基因。由于它是一个互补序列，因此可以被标记并用作探针，以识别和定位样本中的那些特定mRNA序列（以及相应的基因）。",
+      "es": "El ADNc es una copia de ADN del ARNm maduro, que representa los genes que se expresan activamente en un tejido particular (como el cerebro). Debido a que es una secuencia complementaria, puede etiquetarse y usarse como sonda para identificar y localizar esas secuencias específicas de ARNm (y, por lo tanto, los genes) dentro de una muestra.",
+      "fr": "L'ADNc est une copie ADN de l'ARNm mature, représentant les gènes qui sont activement exprimés dans un tissu particulier (comme le cerveau). Étant une séquence complémentaire, il peut être marqué et utilisé comme sonde pour identifier et localiser ces séquences d'ARNm spécifiques (et donc les gènes) au sein d'un échantillon.",
+      "de": "cDNA ist eine DNA-Kopie von reifer mRNA und repräsentiert die Gene, die in einem bestimmten Gewebe (wie dem Gehirn) aktiv exprimiert werden. Da es sich um eine komplementäre Sequenz handelt, kann es markiert und als Sonde verwendet werden, um diese spezifischen mRNA-Sequenzen (und somit die Gene) innerhalb einer Probe zu identifizieren und zu lokalisieren.",
+      "ja": "cDNAは成熟mRNAのDNAコピーであり、特定の組織（脳など）で活発に発現している遺伝子を表します。相補的な配列であるため、標識してプローブとして使用し、サンプル内の特定のmRNA配列（およびその遺伝子）を特定して位置を特定することができます。"
+    }
+  },
+  {
+    "page_number": 490,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which of the following sequences in double-stranded DNA is most likely to be recognized as a cutting site for a restriction enzyme?",
+      "zh": "双链DNA中以下哪一序列最有可能被限制性酶识别并切割？",
+      "es": "¿Cuál de las siguientes secuencias en ADN de doble cadena es más probable que sea reconocida como un sitio de corte por una enzima de restricción?",
+      "fr": "Parmi les séquences suivantes dans l'ADN double brin, laquelle est la plus susceptible d'être reconnue comme un site de coupure par une enzyme de restriction?",
+      "de": "Welche der folgenden Sequenzen in doppelsträngiger DNA wird am wahrscheinlichsten als Schnittstelle für ein Restriktionsenzym erkannt?",
+      "ja": "二本鎖DNAにおいて、次の配列のうち制限酵素の切断部位として認識される可能性が最も高いのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "5'-AAGG-3'\n3'-TTCC-5'",
+          "zh": "5'-AAGG-3'\n3'-TTCC-5'",
+          "es": "5'-AAGG-3'\n3'-TTCC-5'",
+          "fr": "5'-AAGG-3'\n3'-TTCC-5'",
+          "de": "5'-AAGG-3'\n3'-TTCC-5'",
+          "ja": "5'-AAGG-3'\n3'-TTCC-5'"
+        },
+        "feedback": {
+          "en": "Restriction enzyme recognition sites are typically palindromic sequences, meaning they read the same forwards on one strand as backwards on the complementary strand. This sequence is not palindromic.",
+          "zh": "限制酶识别位点通常是回文序列，这意味着它们在一条链上正向读取与在互补链上反向读取相同。此序列不是回文序列。",
+          "es": "Los sitios de reconocimiento de enzimas de restricción son típicamente secuencias palindrómicas, lo que significa que se leen igual de forma directa en una hebra que de forma inversa en la hebra complementaria. Esta secuencia no es palindrómica.",
+          "fr": "Les sites de reconnaissance des enzymes de restriction sont généralement des séquences palindromiques, ce qui signifie qu'elles se lisent de la même manière dans un sens sur un brin et dans le sens inverse sur le brin complémentaire. Cette séquence n'est pas palindromique.",
+          "de": "Restriktionsenzym-Erkennungsstellen sind typischerweise palindromische Sequenzen, was bedeutet, dass sie sich auf dem einen Strang vorwärts und auf dem komplementären Strang rückwärts gleich lesen. Diese Sequenz ist nicht palindromisch.",
+          "ja": "制限酵素の認識部位は通常、パリンドローム配列であり、一方の鎖で順方向に読むのと相補鎖で逆方向に読むのが同じであることを意味します。この配列はパリンドロームではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "5'-GGCC-3'\n3'-CCGG-5'",
+          "zh": "5'-GGCC-3'\n3'-CCGG-5'",
+          "es": "5'-GGCC-3'\n3'-CCGG-5'",
+          "fr": "5'-GGCC-3'\n3'-CCGG-5'",
+          "de": "5'-GGCC-3'\n3'-CCGG-5'",
+          "ja": "5'-GGCC-3'\n3'-CCGG-5'"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "5'-ACCA-3'\n3'-TGGT-5'",
+          "zh": "5'-ACCA-3'\n3'-TGGT-5'",
+          "es": "5'-ACCA-3'\n3'-TGGT-5'",
+          "fr": "5'-ACCA-3'\n3'-TGGT-5'",
+          "de": "5'-ACCA-3'\n3'-TGGT-5'",
+          "ja": "5'-ACCA-3'\n3'-TGGT-5'"
+        },
+        "feedback": {
+          "en": "Restriction enzyme recognition sites are typically palindromic sequences. This sequence is not palindromic.",
+          "zh": "限制酶识别位点通常是回文序列。此序列不是回文序列。",
+          "es": "Los sitios de reconocimiento de enzimas de restricción son típicamente secuencias palindrómicas. Esta secuencia no es palindrómica.",
+          "fr": "Les sites de reconnaissance des enzymes de restriction sont généralement des séquences palindromiques. Cette séquence n'est pas palindromique.",
+          "de": "Restriktionsenzym-Erkennungsstellen sind typischerweise palindromische Sequenzen. Diese Sequenz ist nicht palindromisch.",
+          "ja": "制限酵素の認識部位は通常、パリンドローム配列です。この配列はパリンドロームではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "5'-AAAA-3'\n3'-TTTT-5'",
+          "zh": "5'-AAAA-3'\n3'-TTTT-5'",
+          "es": "5'-AAAA-3'\n3'-TTTT-5'",
+          "fr": "5'-AAAA-3'\n3'-TTTT-5'",
+          "de": "5'-AAAA-3'\n3'-TTTT-5'",
+          "ja": "5'-AAAA-3'\n3'-TTTT-5'"
+        },
+        "feedback": {
+          "en": "Restriction enzyme recognition sites are typically palindromic sequences. This sequence is not palindromic in the way restriction enzymes recognize sites.",
+          "zh": "限制酶识别位点通常是回文序列。此序列不是限制酶识别位点的回文形式。",
+          "es": "Los sitios de reconocimiento de enzimas de restricción son típicamente secuencias palindrómicas. Esta secuencia no es palindrómica en la forma en que las enzimas de restricción reconocen los sitios.",
+          "fr": "Les sites de reconnaissance des enzymes de restriction sont généralement des séquences palindromiques. Cette séquence n'est pas palindromique de la manière dont les enzymes de restriction reconnaissent les sites.",
+          "de": "Restriktionsenzym-Erkennungsstellen sind typischerweise palindromische Sequenzen. Diese Sequenz ist nicht palindromisch in der Art, wie Restriktionsenzyme Erkennungsstellen erkennen.",
+          "ja": "制限酵素の認識部位は通常、パリンドローム配列です。この配列は制限酵素が認識する意味でのパリンドロームではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Restriction enzymes recognize specific DNA sequences, most of which are palindromic. A palindromic sequence reads the same forwards on one strand (5' to 3') as it does backwards on the complementary strand (also 5' to 3'). For option B, reading 5'-GGCC-3' on the top strand and 5'-GGCC-3' on the bottom strand (reading 3'-CCGG-5' from right to left) confirms it is a palindrome.",
+      "zh": "限制酶识别特定的DNA序列，其中大多数是回文序列。回文序列的特征是，一条链（5'到3'方向）上的正向读取与互补链（同样5'到3'方向）上的反向读取相同。对于选项B，顶部链上的5'-GGCC-3'和底部链上的5'-GGCC-3'（从右到左读取3'-CCGG-5'）证实它是一个回文序列。",
+      "es": "Las enzimas de restricción reconocen secuencias de ADN específicas, la mayoría de las cuales son palindrómicas. Una secuencia palindrómica se lee igual hacia adelante en una hebra (de 5' a 3') que hacia atrás en la hebra complementaria (también de 5' a 3'). Para la opción B, leer 5'-GGCC-3' en la hebra superior y 5'-GGCC-3' en la hebra inferior (leyendo 3'-CCGG-5' de derecha a izquierda) confirma que es un palíndromo.",
+      "fr": "Les enzymes de restriction reconnaissent des séquences d'ADN spécifiques, dont la plupart sont palindromiques. Une séquence palindromique se lit de la même manière dans le sens direct sur un brin (de 5' à 3') que dans le sens inverse sur le brin complémentaire (également de 5' à 3'). Pour l'option B, la lecture de 5'-GGCC-3' sur le brin supérieur et de 5'-GGCC-3' sur le brin inférieur (en lisant 3'-CCGG-5' de droite à gauche) confirme qu'il s'agit d'un palindrome.",
+      "de": "Restriktionsenzyme erkennen spezifische DNA-Sequenzen, von denen die meisten palindromisch sind. Eine palindromische Sequenz liest sich auf einem Strang (5' nach 3') vorwärts genauso wie auf dem komplementären Strang (ebenfalls 5' nach 3') rückwärts. Für Option B bestätigt das Lesen von 5'-GGCC-3' auf dem oberen Strang und 5'-GGCC-3' auf dem unteren Strang (3'-CCGG-5' von rechts nach links gelesen), dass es sich um ein Palindrom handelt.",
+      "ja": "制限酵素は特定のDNA配列を認識し、そのほとんどがパリンドローム配列です。パリンドローム配列とは、一方の鎖（5'から3'方向）で順方向に読むのと、相補鎖（これも5'から3'方向）で逆方向に読むのが同じになる配列のことです。選択肢Bの場合、上側の鎖で5'-GGCC-3'と読み、下側の鎖で5'-GGCC-3'（3'-CCGG-5'を右から左に読む）と読むことで、それがパリンドロームであることが確認されます。"
+    }
+  },
+  {
+    "page_number": 490,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The discovery of the bacterium *Thermus aquaticus* in Yellowstone National Park's hot springs revolutionized molecular biology. Which enzyme isolated from this thermophile is crucial for one of the most important DNA-based techniques, and why is its thermophilic origin valuable?",
+      "zh": "黄石国家公园温泉中发现的细菌 *Thermus aquaticus* 彻底改变了分子生物学。从这种嗜热生物中分离出的哪种酶对最重要的DNA基础技术之一至关重要，以及为什么它的嗜热来源如此有价值？",
+      "es": "El descubrimiento de la bacteria *Thermus aquaticus* en las fuentes termales del Parque Nacional de Yellowstone revolucionó la biología molecular. ¿Qué enzima aislada de este termófilo es crucial para una de las técnicas basadas en ADN más importantes, y por qué es valioso su origen termófilo?",
+      "fr": "La découverte de la bactérie *Thermus aquaticus* dans les sources chaudes du Parc National de Yellowstone a révolutionné la biologie moléculaire. Quelle enzyme isolée de ce thermophile est cruciale pour l'une des techniques basées sur l'ADN les plus importantes, et pourquoi son origine thermophile est-elle précieuse?",
+      "de": "Die Entdeckung des Bakteriums *Thermus aquaticus* in den heißen Quellen des Yellowstone-Nationalparks revolutionierte die Molekularbiologie. Welches aus diesem Thermophilen isolierte Enzym ist für eine der wichtigsten DNA-basierten Techniken entscheidend, und warum ist sein thermophiler Ursprung so wertvoll?",
+      "ja": "イエローストーン国立公園の温泉で発見された細菌 *Thermus aquaticus* は、分子生物学に革命をもたらしました。この好熱菌から単離されたどの酵素が、最も重要なDNAベースの技術の1つにとって極めて重要であり、その好熱性起源がなぜ価値があるのでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Reverse transcriptase; its heat stability allows cDNA synthesis at high temperatures.",
+          "zh": "逆转录酶；其热稳定性使其能在高温下进行cDNA合成。",
+          "es": "Transcriptasa inversa; su estabilidad térmica permite la síntesis de ADNc a altas temperaturas.",
+          "fr": "Transcriptase inverse; sa stabilité thermique permet la synthèse de l'ADNc à des températures élevées.",
+          "de": "Reverse Transkriptase; ihre Hitzestabilität ermöglicht die cDNA-Synthese bei hohen Temperaturen.",
+          "ja": "逆転写酵素；その熱安定性により高温でのcDNA合成が可能です。"
+        },
+        "feedback": {
+          "en": "While reverse transcriptase is important for cDNA synthesis, the enzyme from *Thermus aquaticus* is Taq DNA polymerase, not reverse transcriptase. Taq polymerase is crucial for PCR.",
+          "zh": "逆转录酶对cDNA合成很重要，但从*Thermus aquaticus*中分离出的酶是Taq DNA聚合酶，而不是逆转录酶。Taq聚合酶对PCR至关重要。",
+          "es": "Aunque la transcriptasa inversa es importante para la síntesis de ADNc, la enzima de *Thermus aquaticus* es la Taq ADN polimerasa, no la transcriptasa inversa. La polimerasa Taq es crucial para la PCR.",
+          "fr": "Bien que la transcriptase inverse soit importante pour la synthèse de l'ADNc, l'enzyme de *Thermus aquaticus* est l'ADN polymérase Taq, et non la transcriptase inverse. La polymérase Taq est cruciale pour la PCR.",
+          "de": "Obwohl die reverse Transkriptase für die cDNA-Synthese wichtig ist, ist das Enzym aus *Thermus aquaticus* die Taq-DNA-Polymerase, nicht die reverse Transkriptase. Die Taq-Polymerase ist entscheidend für die PCR.",
+          "ja": "逆転写酵素はcDNA合成に重要ですが、*Thermus aquaticus* から単離された酵素はTaq DNAポリメラーゼであり、逆転写酵素ではありません。TaqポリメラーゼはPCRに不可欠です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Restriction endonuclease; its high specificity ensures precise DNA cutting during gene editing.",
+          "zh": "限制性内切酶；其高特异性确保基因编辑过程中DNA的精确切割。",
+          "es": "Endonucleasa de restricción; su alta especificidad asegura un corte preciso del ADN durante la edición genética.",
+          "fr": "Endonucléase de restriction; sa haute spécificité assure une coupure précise de l'ADN lors de l'édition génétique.",
+          "de": "Restriktionsendonuklease; ihre hohe Spezifität gewährleistet präzise DNA-Schnittstellen während der Genbearbeitung.",
+          "ja": "制限エンドヌクレアーゼ；その高い特異性により、遺伝子編集中のDNAの正確な切断が保証されます。"
+        },
+        "feedback": {
+          "en": "The key enzyme from *Thermus aquaticus* is Taq DNA polymerase, not a restriction endonuclease. While restriction enzymes are important tools, their thermophilic origin is not the primary reason for their utility in the most prominent DNA-based techniques like PCR.",
+          "zh": "*Thermus aquaticus* 的关键酶是Taq DNA聚合酶，而不是限制性内切酶。虽然限制酶是重要的工具，但其嗜热来源并非其在PCR等最突出DNA基础技术中发挥作用的主要原因。",
+          "es": "La enzima clave de *Thermus aquaticus* es la Taq ADN polimerasa, no una endonucleasa de restricción. Aunque las enzimas de restricción son herramientas importantes, su origen termófilo no es la razón principal de su utilidad en las técnicas basadas en ADN más destacadas como la PCR.",
+          "fr": "L'enzyme clé de *Thermus aquaticus* est l'ADN polymérase Taq, pas une endonucléase de restriction. Bien que les enzymes de restriction soient des outils importants, leur origine thermophile n'est pas la raison principale de leur utilité dans les techniques basées sur l'ADN les plus importantes comme la PCR.",
+          "de": "Das Schlüsselenzym aus *Thermus aquaticus* ist die Taq-DNA-Polymerase, nicht eine Restriktionsendonuklease. Obwohl Restriktionsenzyme wichtige Werkzeuge sind, ist ihr thermophiler Ursprung nicht der Hauptgrund für ihre Nützlichkeit in den prominentesten DNA-basierten Techniken wie der PCR.",
+          "ja": "*Thermus aquaticus* の主要な酵素はTaq DNAポリメラーゼであり、制限エンドヌクレアーゼではありません。制限酵素は重要なツールですが、その好熱性起源がPCRのような最も重要なDNAベースの技術での有用性の主要な理由ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "DNA ligase; its ability to join DNA fragments at high temperatures enables efficient cloning.",
+          "zh": "DNA连接酶；其在高温下连接DNA片段的能力使其能高效克隆。",
+          "es": "ADN ligasa; su capacidad para unir fragmentos de ADN a altas temperaturas permite una clonación eficiente.",
+          "fr": "ADN ligase; sa capacité à joindre les fragments d'ADN à des températures élevées permet un clonage efficace.",
+          "de": "DNA-Ligase; ihre Fähigkeit, DNA-Fragmente bei hohen Temperaturen zu verbinden, ermöglicht effizientes Klonen.",
+          "ja": "DNAリガーゼ；その高温下でDNA断片を結合する能力が効率的なクローニングを可能にします。"
+        },
+        "feedback": {
+          "en": "The key enzyme from *Thermus aquaticus* is Taq DNA polymerase, not DNA ligase. DNA ligase is used for joining DNA fragments, but it is not typically heat-stable in the context of PCR cycling.",
+          "zh": "*Thermus aquaticus* 的关键酶是Taq DNA聚合酶，而不是DNA连接酶。DNA连接酶用于连接DNA片段，但它在PCR循环中通常不具有热稳定性。",
+          "es": "La enzima clave de *Thermus aquaticus* es la Taq ADN polimerasa, no la ADN ligasa. La ADN ligasa se utiliza para unir fragmentos de ADN, pero no suele ser termoestable en el contexto del ciclado de PCR.",
+          "fr": "L'enzyme clé de *Thermus aquaticus* est l'ADN polymérase Taq, pas l'ADN ligase. L'ADN ligase est utilisée pour joindre les fragments d'ADN, mais elle n'est généralement pas thermostable dans le contexte du cyclage de PCR.",
+          "de": "Das Schlüsselenzym aus *Thermus aquaticus* ist die Taq-DNA-Polymerase, nicht die DNA-Ligase. Die DNA-Ligase wird zum Verbinden von DNA-Fragmenten verwendet, ist aber im Kontext des PCR-Zyklus typischerweise nicht hitzestabil.",
+          "ja": "*Thermus aquaticus* の主要な酵素はTaq DNAポリメラーゼであり、DNAリガーゼではありません。DNAリガーゼはDNA断片を結合するために使用されますが、PCRサイクルにおいて通常熱安定性はありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Taq DNA polymerase; its heat stability allows it to withstand the high temperatures required for DNA denaturation during PCR cycles.",
+          "zh": "Taq DNA聚合酶；其热稳定性使其能够承受PCR循环中DNA变性所需的高温。",
+          "es": "Taq ADN polimerasa; su estabilidad térmica le permite soportar las altas temperaturas requeridas para la desnaturalización del ADN durante los ciclos de PCR.",
+          "fr": "ADN polymérase Taq; sa stabilité thermique lui permet de résister aux températures élevées nécessaires à la dénaturation de l'ADN pendant les cycles de PCR.",
+          "de": "Taq-DNA-Polymerase; ihre Hitzestabilität ermöglicht es ihr, den hohen Temperaturen standzuhalten, die für die DNA-Denaturierung während der PCR-Zyklen erforderlich sind.",
+          "ja": "Taq DNAポリメラーゼ；その熱安定性により、PCRサイクル中のDNA変性に必要な高温に耐えることができます。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "The enzyme isolated from *Thermus aquaticus* that revolutionized molecular biology is Taq DNA polymerase. Its crucial value lies in its heat stability: it can withstand the repeated cycles of high temperatures (around 95°C) needed to denature DNA during PCR without losing activity, which greatly simplified and automated the PCR process.",
+      "zh": "从*Thermus aquaticus*中分离出的彻底改变分子生物学的酶是Taq DNA聚合酶。其关键价值在于其热稳定性：它能承受PCR过程中DNA变性所需的重复高温循环（约95°C）而不失活，这极大地简化并自动化了PCR过程。",
+      "es": "La enzima aislada de *Thermus aquaticus* que revolucionó la biología molecular es la Taq ADN polimerasa. Su valor crucial radica en su estabilidad térmica: puede soportar los ciclos repetidos de altas temperaturas (alrededor de 95°C) necesarios para desnaturalizar el ADN durante la PCR sin perder actividad, lo que simplificó y automatizó enormemente el proceso de PCR.",
+      "fr": "L'enzyme isolée de *Thermus aquaticus* qui a révolutionné la biologie moléculaire est l'ADN polymérase Taq. Sa valeur cruciale réside dans sa stabilité thermique: elle peut supporter les cycles répétés de températures élevées (environ 95°C) nécessaires à la dénaturation de l'ADN pendant la PCR sans perdre son activité, ce qui a considérablement simplifié et automatisé le processus de PCR.",
+      "de": "Das aus *Thermus aquaticus* isolierte Enzym, das die Molekularbiologie revolutionierte, ist die Taq-DNA-Polymerase. Ihr entscheidender Wert liegt in ihrer Hitzestabilität: Sie kann die wiederholten Zyklen hoher Temperaturen (ca. 95°C), die zur Denaturierung der DNA während der PCR erforderlich sind, ohne Aktivitätsverlust überstehen, was den PCR-Prozess erheblich vereinfacht und automatisiert hat.",
+      "ja": "*Thermus aquaticus* から単離され、分子生物学に革命をもたらした酵素はTaq DNAポリメラーゼです。その重要な価値は熱安定性にあり、PCR中にDNAを変性させるために必要な高温（約95℃）の繰り返しサイクルに活性を失うことなく耐えることができるため、PCRプロセスを大幅に簡素化し、自動化しました。"
+    }
+  }
+]

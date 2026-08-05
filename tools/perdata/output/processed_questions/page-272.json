@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 272,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary role of protein phosphatases in cellular signal transduction pathways, as described in the text?",
+      "zh": "根据文中描述，蛋白质磷酸酶在细胞信号转导通路中的主要作用是什么？",
+      "es": "¿Cuál es el papel principal de las proteínas fosfatasas en las vías de transducción de señales celulares, según lo descrito en el texto?",
+      "fr": "Quel est le rôle principal des protéines phosphatases dans les voies de transduction des signaux cellulaires, tel que décrit dans le texte ?",
+      "de": "Welche primäre Rolle spielen Proteine Phosphatasen in zellulären Signaltransduktionswegen, wie im Text beschrieben?",
+      "ja": "本文に記載されている、細胞内シグナル伝達経路におけるプロテインホスファターゼの主な役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Activating protein kinases by adding phosphate groups.",
+          "zh": "通过添加磷酸基团来激活蛋白激酶。",
+          "es": "Activación de proteínas quinasas mediante la adición de grupos fosfato.",
+          "fr": "Activer les protéines kinases en ajoutant des groupes phosphate.",
+          "de": "Aktivierung von Proteinkinasen durch Hinzufügen von Phosphatgruppen.",
+          "ja": "リン酸基を付加してプロテインキナーゼを活性化すること。"
+        },
+        "feedback": {
+          "en": "Protein kinases add phosphate groups; phosphatases remove them.",
+          "zh": "蛋白激酶添加磷酸基团；磷酸酶移除它们。",
+          "es": "Las proteínas quinasas añaden grupos fosfato; las fosfatasas los eliminan.",
+          "fr": "Les protéines kinases ajoutent des groupes phosphate ; les phosphatases les retirent.",
+          "de": "Proteinkinasen fügen Phosphatgruppen hinzu; Phosphatasen entfernen sie.",
+          "ja": "プロテインキナーゼはリン酸基を付加し、ホスファターゼはそれらを除去します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Converting ATP to cAMP to amplify signals.",
+          "zh": "将ATP转化为cAMP以放大信号。",
+          "es": "Convertir ATP en cAMP para amplificar señales.",
+          "fr": "Convertir l'ATP en AMPc pour amplifier les signaux.",
+          "de": "ATP in cAMP umwandeln, um Signale zu verstärken.",
+          "ja": "ATPをcAMPに変換してシグナルを増幅すること。"
+        },
+        "feedback": {
+          "en": "Adenylyl cyclase is responsible for converting ATP to cAMP.",
+          "zh": "腺苷酸环化酶负责将ATP转化为cAMP。",
+          "es": "La adenilil ciclasa es responsable de convertir el ATP en cAMP.",
+          "fr": "L'adénylate cyclase est responsable de la conversion de l'ATP en AMPc.",
+          "de": "Adenylylcyclase ist für die Umwandlung von ATP in cAMP verantwortlich.",
+          "ja": "アデニル酸シクラーゼがATPをcAMPに変換する役割を担っています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Removing phosphate groups from proteins to turn off signal pathways.",
+          "zh": "从蛋白质中移除磷酸基团以关闭信号通路。",
+          "es": "Eliminar grupos fosfato de las proteínas para desactivar las vías de señalización.",
+          "fr": "Retirer les groupes phosphate des protéines pour désactiver les voies de signalisation.",
+          "de": "Entfernen von Phosphatgruppen von Proteinen, um Signalwege abzuschalten.",
+          "ja": "タンパク質からリン酸基を除去してシグナル経路をオフにすること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Functioning as first messengers that bind to membrane receptors.",
+          "zh": "作为与膜受体结合的第一信使发挥作用。",
+          "es": "Funcionar como primeros mensajeros que se unen a receptores de membrana.",
+          "fr": "Fonctionner comme des premiers messagers qui se lient aux récepteurs membranaires.",
+          "de": "Als erste Botenstoffe fungieren, die an Membranrezeptoren binden.",
+          "ja": "膜受容体に結合する第一メッセンジャーとして機能すること。"
+        },
+        "feedback": {
+          "en": "First messengers are extracellular signaling molecules. Protein phosphatases are intracellular enzymes.",
+          "zh": "第一信使是细胞外信号分子。蛋白质磷酸酶是细胞内酶。",
+          "es": "Los primeros mensajeros son moléculas de señalización extracelulares. Las proteínas fosfatasas son enzimas intracelulares.",
+          "fr": "Les premiers messagers sont des molécules de signalisation extracellulaires. Les protéines phosphatases sont des enzymes intracellulaires.",
+          "de": "Erste Botenstoffe sind extrazelluläre Signalmoleküle. Proteine Phosphatasen sind intrazelluläre Enzyme.",
+          "ja": "第一メッセンジャーは細胞外シグナル分子です。プロテインホスファターゼは細胞内酵素です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that protein phosphatases 'remove phosphate groups from proteins, a process called dephosphorylation' and that by 'dephosphorylating and thus inactivating protein kinases, phosphatases provide the mechanism for turning off the signal transduction pathway'.",
+      "zh": "文中提到，蛋白质磷酸酶“从蛋白质中移除磷酸基团，这一过程称为去磷酸化”，并且通过“去磷酸化从而使蛋白激酶失活，磷酸酶提供了关闭信号转导通路的机制”。",
+      "es": "El texto indica que las proteínas fosfatasas 'eliminan grupos fosfato de las proteínas, un proceso llamado desfosforilación' y que al 'desfosforilar y, por lo tanto, inactivar las proteínas quinasas, las fosfatasas proporcionan el mecanismo para desactivar la vía de transducción de señales'.",
+      "fr": "Le texte indique que les protéines phosphatases « retirent les groupes phosphate des protéines, un processus appelé déphosphorylation » et qu'en « déphosphorylant et ainsi inactivant les protéines kinases, les phosphatases fournissent le mécanisme pour désactiver la voie de transduction du signal ».",
+      "de": "Der Text besagt, dass Proteine Phosphatasen „Phosphatgruppen von Proteinen entfernen, ein Prozess, der Dephosphorylierung genannt wird“ und dass durch die „Dephosphorylierung und damit Inaktivierung von Proteinkinasen Phosphatasen den Mechanismus zum Abschalten des Signaltransduktionswegs bereitstellen“.",
+      "ja": "本文には、プロテインホスファターゼが「タンパク質からリン酸基を除去する脱リン酸化と呼ばれるプロセス」であり、「脱リン酸化によってプロテインキナーゼを不活性化することで、シグナル伝達経路をオフにするメカニズムを提供する」と記載されています。"
+    }
+  },
+  {
+    "page_number": 272,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on Figure 11.11 and the accompanying text, what would be the most likely consequence if a molecule that completely inactivates phosphodiesterase were introduced into a cell stimulated by epinephrine?",
+      "zh": "根据图11.11和相关文本，如果在肾上腺素刺激的细胞中引入一种能完全灭活磷酸二酯酶的分子，最可能的结果是什么？",
+      "es": "Basándose en la Figura 11.11 y el texto adjunto, ¿cuál sería la consecuencia más probable si se introdujera una molécula que inactiva completamente la fosfodiesterasa en una célula estimulada por epinefrina?",
+      "fr": "D'après la Figure 11.11 et le texte d'accompagnement, quelle serait la conséquence la plus probable si une molécule qui inactive complètement la phosphodiestérase était introduite dans une cellule stimulée par l'épinéphrine ?",
+      "de": "Basierend auf Abbildung 11.11 und dem begleitenden Text, was wäre die wahrscheinlichste Konsequenz, wenn ein Molekül, das Phosphodiesterase vollständig inaktiviert, in eine durch Epinephrin stimulierte Zelle eingeführt würde?",
+      "ja": "図11.11および関連するテキストに基づいて、エピネフリンによって刺激された細胞にホスホジエステラーゼを完全に不活性化する分子が導入された場合、最も可能性の高い結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The conversion of ATP to cAMP would cease, leading to a rapid decrease in cAMP levels.",
+          "zh": "ATP向cAMP的转化将停止，导致cAMP水平迅速下降。",
+          "es": "La conversión de ATP a cAMP cesaría, lo que llevaría a una rápida disminución de los niveles de cAMP.",
+          "fr": "La conversion de l'ATP en AMPc cesserait, entraînant une diminution rapide des niveaux d'AMPc.",
+          "de": "Die Umwandlung von ATP in cAMP würde aufhören, was zu einem schnellen Rückgang der cAMP-Spiegel führen würde.",
+          "ja": "ATPからcAMPへの変換が停止し、cAMPレベルが急速に低下する。"
+        },
+        "feedback": {
+          "en": "Phosphodiesterase inactivates cAMP, it does not affect adenylyl cyclase activity.",
+          "zh": "磷酸二酯酶灭活cAMP，它不影响腺苷酸环化酶的活性。",
+          "es": "La fosfodiesterasa inactiva el cAMP, no afecta la actividad de la adenilil ciclasa.",
+          "fr": "La phosphodiestérase inactive l'AMPc, elle n'affecte pas l'activité de l'adénylate cyclase.",
+          "de": "Phosphodiesterase inaktiviert cAMP, sie beeinflusst nicht die Adenylylcyclase-Aktivität.",
+          "ja": "ホスホジエステラーゼはcAMPを不活性化し、アデニル酸シクラーゼの活性には影響しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "cAMP levels would remain elevated for a prolonged period, leading to extended activation of protein kinase A and its downstream effects.",
+          "zh": "cAMP水平将长时间保持升高，导致蛋白激酶A及其下游效应的持续激活。",
+          "es": "Los niveles de cAMP permanecerían elevados por un período prolongado, lo que llevaría a una activación extendida de la proteína quinasa A y sus efectos posteriores.",
+          "fr": "Les niveaux d'AMPc resteraient élevés pendant une période prolongée, entraînant une activation prolongée de la protéine kinase A et de ses effets en aval.",
+          "de": "Die cAMP-Spiegel würden für eine längere Zeit erhöht bleiben, was zu einer anhaltenden Aktivierung der Proteinkinase A und ihrer nachgeschalteten Effekte führen würde.",
+          "ja": "cAMPレベルが長期間高値に維持され、プロテインキナーゼAとその下流の効果が持続的に活性化される。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Epinephrine would no longer be able to bind to its GPCR, preventing signal initiation.",
+          "zh": "肾上腺素将无法再与其GPCR结合，从而阻止信号的启动。",
+          "es": "La epinefrina ya no podría unirse a su GPCR, lo que impediría el inicio de la señal.",
+          "fr": "L'épinéphrine ne pourrait plus se lier à son GPCR, empêchant l'initiation du signal.",
+          "de": "Epinephrin könnte nicht mehr an seinen GPCR binden, was die Signalinitiierung verhindern würde.",
+          "ja": "エピネフリンがGPCRに結合できなくなり、シグナル開始が妨げられる。"
+        },
+        "feedback": {
+          "en": "Inactivation of phosphodiesterase occurs downstream of GPCR binding and does not affect it.",
+          "zh": "磷酸二酯酶的灭活发生在GPCR结合的下游，不影响其结合。",
+          "es": "La inactivación de la fosfodiesterasa ocurre aguas abajo de la unión al GPCR y no la afecta.",
+          "fr": "L'inactivation de la phosphodiestérase se produit en aval de la liaison au GPCR et ne l'affecte pas.",
+          "de": "Die Inaktivierung der Phosphodiesterase erfolgt stromabwärts der GPCR-Bindung und beeinflusst diese nicht.",
+          "ja": "ホスホジエステラーゼの不活性化はGPCR結合の下流で起こり、結合自体には影響しません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The activated protein kinase A would dephosphorylate various other proteins, turning off the signal.",
+          "zh": "被激活的蛋白激酶A将使各种其他蛋白质去磷酸化，关闭信号。",
+          "es": "La proteína quinasa A activada desfosforilaría varias otras proteínas, desactivando la señal.",
+          "fr": "La protéine kinase A activée déphosphorylerait diverses autres protéines, désactivant le signal.",
+          "de": "Die aktivierte Proteinkinase A würde verschiedene andere Proteine dephosphorylieren und das Signal ausschalten.",
+          "ja": "活性化されたプロテインキナーゼAは様々な他のタンパク質を脱リン酸化し、シグナルをオフにする。"
+        },
+        "feedback": {
+          "en": "Protein kinase A phosphorylates, it does not dephosphorylate. Furthermore, the signal would be prolonged, not turned off.",
+          "zh": "蛋白激酶A是磷酸化，而不是去磷酸化。此外，信号会被延长，而不是被关闭。",
+          "es": "La proteína quinasa A fosforila, no desfosforila. Además, la señal se prolongaría, no se desactivaría.",
+          "fr": "La protéine kinase A phosphoryle, elle ne déphosphoryle pas. De plus, le signal serait prolongé, non désactivé.",
+          "de": "Proteinkinase A phosphoryliert, sie dephosphoryliert nicht. Außerdem würde das Signal verlängert und nicht ausgeschaltet.",
+          "ja": "プロテインキナーゼAはリン酸化を行い、脱リン酸化は行いません。さらに、シグナルはオフになるのではなく、延長されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that phosphodiesterase converts cAMP to AMP, inactivating cAMP. If phosphodiesterase is inhibited, cAMP would not be broken down as quickly, leading to its sustained high levels. Elevated cAMP levels usually activate protein kinase A, which then phosphorylates downstream targets, prolonging the cellular response.",
+      "zh": "文本指出磷酸二酯酶将cAMP转化为AMP，从而灭活cAMP。如果磷酸二酯酶被抑制，cAMP将不会像平时那样迅速分解，导致其持续保持高水平。升高的cAMP水平通常会激活蛋白激酶A，后者再磷酸化下游靶点，从而延长细胞的反应。",
+      "es": "El texto indica que la fosfodiesterasa convierte el cAMP en AMP, inactivando el cAMP. Si la fosfodiesterasa se inhibe, el cAMP no se descompondría tan rápidamente, lo que llevaría a sus niveles elevados y sostenidos. Los niveles elevados de cAMP suelen activar la proteína quinasa A, que luego fosforila objetivos río abajo, prolongando la respuesta celular.",
+      "fr": "Le texte indique que la phosphodiestérase convertit l'AMPc en AMP, inactivant l'AMPc. Si la phosphodiestérase est inhibée, l'AMPc ne serait pas dégradé aussi rapidement, ce qui entraînerait des niveaux élevés et soutenus. Des niveaux élevés d'AMPc activent généralement la protéine kinase A, qui phosphoryle ensuite les cibles en aval, prolongeant la réponse cellulaire.",
+      "de": "Der Text besagt, dass Phosphodiesterase cAMP in AMP umwandelt und damit cAMP inaktiviert. Wenn Phosphodiesterase gehemmt wird, würde cAMP nicht so schnell abgebaut, was zu anhaltend hohen Spiegeln führen würde. Erhöhte cAMP-Spiegel aktivieren normalerweise die Proteinkinase A, die dann nachgeschaltete Ziele phosphoryliert und die zelluläre Reaktion verlängert.",
+      "ja": "本文によると、ホスホジエステラーゼはcAMPをAMPに変換し、cAMPを不活性化します。もしホスホジエステラーゼが阻害されれば、cAMPは通常のように迅速に分解されなくなり、高レベルが持続します。cAMPレベルの上昇は通常、プロテインキナーゼAを活性化し、それが下流の標的をリン酸化することで、細胞応答が延長されます。"
+    }
+  },
+  {
+    "page_number": 272,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes the characteristics and examples of second messengers, as presented in the text?",
+      "zh": "根据文中描述，以下哪项陈述准确描述了第二信使的特征和例子？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión las características y ejemplos de los segundos mensajeros, según se presenta en el texto?",
+      "fr": "Parmi les affirmations suivantes, laquelle décrit avec précision les caractéristiques et les exemples des seconds messagers, tels que présentés dans le texte ?",
+      "de": "Welche der folgenden Aussagen beschreibt die Eigenschaften und Beispiele von sekundären Botenstoffen, wie im Text dargestellt, korrekt?",
+      "ja": "本文に提示されているセカンドメッセンジャーの特徴と例を正確に記述しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They are large, insoluble proteins that cannot diffuse freely within the cell.",
+          "zh": "它们是大型的、不溶性蛋白质，不能在细胞内自由扩散。",
+          "es": "Son proteínas grandes e insolubles que no pueden difundir libremente dentro de la célula.",
+          "fr": "Ce sont de grandes protéines insolubles qui ne peuvent pas diffuser librement à l'intérieur de la cellule.",
+          "de": "Sie sind große, unlösliche Proteine, die sich nicht frei innerhalb der Zelle ausbreiten können.",
+          "ja": "それらは細胞内で自由に拡散できない、大きくて不溶性のタンパク質である。"
+        },
+        "feedback": {
+          "en": "Second messengers are small, nonprotein, water-soluble molecules or ions.",
+          "zh": "第二信使是小型、非蛋白质、水溶性分子或离子。",
+          "es": "Los segundos mensajeros son moléculas o iones pequeños, no proteicos y solubles en agua.",
+          "fr": "Les seconds messagers sont de petites molécules non protéiques, hydrosolubles ou des ions.",
+          "de": "Sekundäre Botenstoffe sind kleine, nicht-proteinartige, wasserlösliche Moleküle oder Ionen.",
+          "ja": "セカンドメッセンジャーは、小さく、非タンパク質性で、水溶性の分子またはイオンです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They are extracellular signaling molecules that bind to membrane receptors.",
+          "zh": "它们是与膜受体结合的细胞外信号分子。",
+          "es": "Son moléculas de señalización extracelulares que se unen a receptores de membrana.",
+          "fr": "Ce sont des molécules de signalisation extracellulaires qui se lient aux récepteurs membranaires.",
+          "de": "Sie sind extrazelluläre Signalmoleküle, die an Membranrezeptoren binden.",
+          "ja": "それらは膜受容体に結合する細胞外シグナル分子である。"
+        },
+        "feedback": {
+          "en": "This describes first messengers, not second messengers.",
+          "zh": "这描述的是第一信使，而不是第二信使。",
+          "es": "Esto describe a los primeros mensajeros, no a los segundos mensajeros.",
+          "fr": "Cela décrit les premiers messagers, pas les seconds messagers.",
+          "de": "Dies beschreibt erste Botenstoffe, nicht zweite Botenstoffe.",
+          "ja": "これはセカンドメッセンジャーではなく、ファーストメッセンジャーの説明です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cyclic AMP and calcium ions (Ca2+) are common examples, facilitating signal propagation within the cell.",
+          "zh": "环磷酸腺苷（cAMP）和钙离子（Ca2+）是常见例子，它们促进细胞内的信号传播。",
+          "es": "El AMP cíclico y los iones de calcio (Ca2+) son ejemplos comunes, facilitando la propagación de la señal dentro de la célula.",
+          "fr": "L'AMP cyclique et les ions calcium (Ca2+) sont des exemples courants, facilitant la propagation du signal à l'intérieur de la cellule.",
+          "de": "Zyklisches AMP und Calciumionen (Ca2+) sind gängige Beispiele, die die Signalweiterleitung innerhalb der Zelle erleichtern.",
+          "ja": "サイクリックAMPとカルシウムイオン（Ca2+）が一般的な例であり、細胞内でのシグナル伝達を促進する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Their primary function is to directly activate G protein-coupled receptors.",
+          "zh": "它们的主要功能是直接激活G蛋白偶联受体。",
+          "es": "Su función principal es activar directamente los receptores acoplados a proteínas G.",
+          "fr": "Leur fonction principale est d'activer directement les récepteurs couplés aux protéines G.",
+          "de": "Ihre Hauptfunktion ist es, G-Protein-gekoppelte Rezeptoren direkt zu aktivieren.",
+          "ja": "それらの主な機能は、Gタンパク質共役型受容体を直接活性化することである。"
+        },
+        "feedback": {
+          "en": "Second messengers are often produced or released as a result of GPCR activation, but they do not directly activate GPCRs themselves.",
+          "zh": "第二信使通常是GPCR激活后产生或释放的，但它们不直接激活GPCR本身。",
+          "es": "Los segundos mensajeros a menudo se producen o liberan como resultado de la activación del GPCR, pero no activan directamente los GPCRs.",
+          "fr": "Les seconds messagers sont souvent produits ou libérés à la suite de l'activation des GPCR, mais ils n'activent pas directement les GPCR eux-mêmes.",
+          "de": "Sekundäre Botenstoffe werden oft als Ergebnis der GPCR-Aktivierung produziert oder freigesetzt, aber sie aktivieren die GPCRs nicht direkt selbst.",
+          "ja": "セカンドメッセンジャーはしばしばGPCR活性化の結果として生成または放出されますが、それら自身が直接GPCRを活性化することはありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that second messengers are 'small, nonprotein, water-soluble molecules or ions' that 'can readily spread through regions of the cell by diffusion'. It also identifies 'cyclic AMP and calcium ions, Ca2+' as 'the two most common second messengers'.",
+      "zh": "文本明确指出第二信使是“小型、非蛋白质、水溶性分子或离子”，它们“可以通过扩散在细胞区域内轻易传播”。它还指明“环磷酸腺苷和钙离子，Ca2+”是“两种最常见的第二信使”。",
+      "es": "El texto establece explícitamente que los segundos mensajeros son 'pequeñas moléculas o iones no proteicos, hidrosolubles' que 'pueden difundirse fácilmente a través de las regiones de la célula por difusión'. También identifica 'el AMP cíclico y los iones de calcio, Ca2+' como 'los dos segundos mensajeros más comunes'.",
+      "fr": "Le texte indique explicitement que les seconds messagers sont de « petites molécules ou ions non protéiques, hydrosolubles » qui « peuvent se propager facilement à travers les régions de la cellule par diffusion ». Il identifie également « l'AMP cyclique et les ions calcium, Ca2+ » comme « les deux seconds messagers les plus courants ».",
+      "de": "Der Text besagt explizit, dass sekundäre Botenstoffe „kleine, nicht-proteinartige, wasserlösliche Moleküle oder Ionen“ sind, die sich „leicht durch Diffusion in den Zellbereichen ausbreiten können“. Er identifiziert auch „zyklisches AMP und Calciumionen, Ca2+“ als „die beiden häufigsten sekundären Botenstoffe“.",
+      "ja": "本文では、セカンドメッセンジャーが「小型で非タンパク質性の水溶性分子またはイオン」であり、「細胞の領域を拡散によって容易に広がる」ことができると明示されています。また、「サイクリックAMPとカルシウムイオン、Ca2+」が「最も一般的な2つのセカンドメッセンジャー」であると特定しています。"
+    }
+  }
+]

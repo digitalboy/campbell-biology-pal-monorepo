@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 143,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the approximate resolution limit of a standard light microscope (LM), and how much better is the practical resolution of a modern electron microscope (EM) compared to it?",
+      "zh": "标准光学显微镜 (LM) 的近似分辨率极限是多少，以及现代电子显微镜 (EM) 的实际分辨率比它好多少倍？",
+      "es": "Cuál es el límite de resolución aproximado de un microscopio óptico estándar (LM), y cuántas veces mejor es la resolución práctica de un microscopio electrónico (EM) moderno en comparación con este?",
+      "fr": "Quelle est la limite de résolution approximative d'un microscope optique standard (LM), et quelle est l'amélioration de la résolution pratique d'un microscope électronique (EM) moderne par rapport à celui-ci ?",
+      "de": "Was ist die ungefähre Auflösungsgrenze eines Standard-Lichtmikroskops (LM), und wie viel besser ist die praktische Auflösung eines modernen Elektronenmikroskops (EM) im Vergleich dazu?",
+      "ja": "標準的な光学顕微鏡（LM）の分解能の限界はおおよそどのくらいですか。また、現代の電子顕微鏡（EM）の実用的な分解能は、それと比較してどれほど優れていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "0.2 micrometers (µm); 10-fold better",
+          "zh": "0.2 微米 (µm)；好 10 倍",
+          "es": "0.2 micrómetros (µm); 10 veces mejor",
+          "fr": "0,2 micromètre (µm) ; 10 fois mieux",
+          "de": "0,2 Mikrometer (µm); 10-fach besser",
+          "ja": "0.2マイクロメートル（µm）；10倍優れている"
+        },
+        "feedback": {
+          "en": "The resolution limit is correct, but the improvement factor for EM is much higher.",
+          "zh": "分辨率极限正确，但电子显微镜的改进倍数要高得多。",
+          "es": "El límite de resolución es correcto, pero el factor de mejora para el EM es mucho mayor.",
+          "fr": "La limite de résolution est correcte, mais le facteur d'amélioration pour le ME est beaucoup plus élevé.",
+          "de": "Die Auflösungsgrenze ist korrekt, aber der Verbesserungsfaktor für das EM ist viel höher.",
+          "ja": "分解能の限界は正しいですが、電子顕微鏡の改善率はこれよりもはるかに高いです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "200 nanometers (nm); 100-fold better",
+          "zh": "200 纳米 (nm)；好 100 倍",
+          "es": "200 nanómetros (nm); 100 veces mejor",
+          "fr": "200 nanomètres (nm) ; 100 fois mieux",
+          "de": "200 Nanometer (nm); 100-fach besser",
+          "ja": "200ナノメートル（nm）；100倍優れている"
+        },
+        "feedback": {
+          "en": "This is correct. A standard light microscope resolves detail no finer than about 0.2 µm (200 nm), and electron microscopes show a 100-fold improvement in practical resolution (2 nm).",
+          "zh": "这是正确的。标准光学显微镜的分辨率极限约为 0.2 微米（200 纳米），而电子显微镜的实际分辨率提高了 100 倍（2 纳米）。",
+          "es": "Esto es correcto. Un microscopio óptico estándar no puede resolver detalles más finos que aproximadamente 0.2 µm (200 nm), y los microscopios electrónicos muestran una mejora de 100 veces en la resolución práctica (2 nm).",
+          "fr": "C'est correct. Un microscope optique standard ne peut résoudre des détails plus fins qu'environ 0,2 µm (200 nm), et les microscopes électroniques montrent une amélioration de 100 fois de la résolution pratique (2 nm).",
+          "de": "Das ist korrekt. Ein Standard-Lichtmikroskop kann Details nicht feiner als etwa 0,2 µm (200 nm) auflösen, und Elektronenmikroskope zeigen eine 100-fache Verbesserung der praktischen Auflösung (2 nm).",
+          "ja": "これが正しいです。標準的な光学顕微鏡は、約0.2マイクロメートル（200ナノメートル）より細かい詳細を分解できず、電子顕微鏡は実用的な分解能で100倍の改善（2ナノメートル）を示します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "2 nanometers (nm); 100-fold better",
+          "zh": "2 纳米 (nm)；好 100 倍",
+          "es": "2 nanómetros (nm); 100 veces mejor",
+          "fr": "2 nanomètres (nm) ; 100 fois mieux",
+          "de": "2 Nanometer (nm); 100-fach besser",
+          "ja": "2ナノメートル（nm）；100倍優れている"
+        },
+        "feedback": {
+          "en": "2 nm is the practical resolution limit for EM, not LM. The LM limit is 200 nm.",
+          "zh": "2 纳米是电子显微镜的实际分辨率极限，不是光学显微镜。光学显微镜的极限是 200 纳米。",
+          "es": "2 nm es el límite de resolución práctico para el EM, no para el LM. El límite del LM es de 200 nm.",
+          "fr": "2 nm est la limite de résolution pratique pour le ME, pas pour le LM. La limite du LM est de 200 nm.",
+          "de": "2 nm ist die praktische Auflösungsgrenze für das EM, nicht für das LM. Die LM-Grenze beträgt 200 nm.",
+          "ja": "2nmは電子顕微鏡の実用的な分解能の限界であり、光学顕微鏡ではありません。光学顕微鏡の限界は200nmです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "0.002 nanometers (nm); 1000-fold better",
+          "zh": "0.002 纳米 (nm)；好 1000 倍",
+          "es": "0.002 nanómetros (nm); 1000 veces mejor",
+          "fr": "0,002 nanomètres (nm) ; 1000 fois mieux",
+          "de": "0,002 Nanometer (nm); 1000-fach besser",
+          "ja": "0.002ナノメートル（nm）；1000倍優れている"
+        },
+        "feedback": {
+          "en": "0.002 nm is the theoretical resolution of electron microscopes, but in practice it's around 2 nm. The improvement over standard light microscopes is 100-fold, not 1000-fold.",
+          "zh": "0.002 纳米是电子显微镜的理论分辨率，但实际中约为 2 纳米。与标准光学显微镜相比，分辨率提高 100 倍，而不是 1000 倍。",
+          "es": "0.002 nm es la resolución teórica de los microscopios electrónicos, pero en la práctica es de alrededor de 2 nm. La mejora con respecto a los microscopios ópticos estándar es de 100 veces, no de 1000 veces.",
+          "fr": "0,002 nm est la résolution théorique des microscopes électroniques, mais en pratique elle est d'environ 2 nm. L'amélioration par rapport aux microscopes optiques standard est de 100 fois, pas de 1000 fois.",
+          "de": "0,002 nm ist die theoretische Auflösung von Elektronenmikroskopen, aber in der Praxis liegt sie bei etwa 2 nm. Die Verbesserung gegenüber Standard-Lichtmikroskopen beträgt 100-fach, nicht 1000-fach.",
+          "ja": "0.002nmは電子顕微鏡の理論的な分解能ですが、実際には約2nmです。標準的な光学顕微鏡と比較した改善率は100倍であり、1000倍ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that a standard light microscope cannot resolve detail finer than about 0.2 micrometer (µm), or 200 nanometers (nm). It also mentions that modern electron microscopes usually cannot resolve structures smaller than about 2 nm across, which is a 100-fold improvement over the standard light microscope (200 nm / 2 nm = 100).",
+      "zh": "文本指出，标准光学显微镜无法分辨出比约 0.2 微米 (µm) 或 200 纳米 (nm) 更精细的细节。它还提到，现代电子显微镜通常无法分辨小于约 2 纳米的结构，这比标准光学显微镜（200 纳米 / 2 纳米 = 100）提高了 100 倍。",
+      "es": "El texto indica que un microscopio óptico estándar no puede resolver detalles más finos que aproximadamente 0.2 micrómetros (µm), o 200 nanómetros (nm). También menciona que los microscopios electrónicos modernos generalmente no pueden resolver estructuras de menos de 2 nm, lo que representa una mejora de 100 veces con respecto al microscopio óptico estándar (200 nm / 2 nm = 100).",
+      "fr": "Le texte indique qu'un microscope optique standard ne peut résoudre des détails plus fins qu'environ 0,2 micromètre (µm), ou 200 nanomètres (nm). Il mentionne également que les microscopes électroniques modernes ne peuvent généralement pas résoudre des structures de moins d'environ 2 nm, ce qui représente une amélioration de 100 fois par rapport au microscope optique standard (200 nm / 2 nm = 100).",
+      "de": "Der Text besagt, dass ein Standard-Lichtmikroskop Details nicht feiner als etwa 0,2 Mikrometer (µm) oder 200 Nanometer (nm) auflösen kann. Es wird auch erwähnt, dass moderne Elektronenmikroskope Strukturen, die kleiner als etwa 2 nm sind, in der Praxis meist nicht auflösen können, was eine 100-fache Verbesserung gegenüber dem Standard-Lichtmikroskop darstellt (200 nm / 2 nm = 100).",
+      "ja": "本文によると、標準的な光学顕微鏡は、約0.2マイクロメートル（µm）または200ナノメートル（nm）より細かい詳細を分解できません。また、現代の電子顕微鏡は、実際には約2nm未満の構造を分解できないことが多く、これは標準的な光学顕微鏡と比較して100倍の改善（200nm / 2nm = 100）です。"
+    }
+  },
+  {
+    "page_number": 143,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 6.2, which of the following biological entities are generally *not* resolvable by a standard light microscope?",
+      "zh": "根据图 6.2，以下哪种生物实体通常不能被标准光学显微镜分辨？",
+      "es": "Según la Figura 6.2, ¿cuáles de las siguientes entidades biológicas generalmente *no* son resolubles por un microscopio óptico estándar?",
+      "fr": "Selon la Figure 6.2, lesquelles des entités biologiques suivantes ne sont généralement *pas* résolues par un microscope optique standard ?",
+      "de": "Gemäß Abbildung 6.2, welche der folgenden biologischen Entitäten sind im Allgemeinen *nicht* mit einem Standard-Lichtmikroskop auflösbar?",
+      "ja": "図6.2によると、標準的な光学顕微鏡では、以下の生物学的実体のうち、一般的にどれを分解することが*できません*か？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Most bacteria and Mitochondria",
+          "zh": "大多数细菌和线粒体",
+          "es": "La mayoría de las bacterias y las mitocondrias",
+          "fr": "La plupart des bactéries et des mitochondries",
+          "de": "Die meisten Bakterien und Mitochondrien",
+          "ja": "ほとんどの細菌とミトコンドリア"
+        },
+        "feedback": {
+          "en": "Both most bacteria (around 1-10 µm) and mitochondria (around 1 µm) fall within the resolution range of light microscopy.",
+          "zh": "大多数细菌（约 1-10 微米）和线粒体（约 1 微米）都落在光学显微镜的分辨范围之内。",
+          "es": "Tanto la mayoría de las bacterias (alrededor de 1-10 µm) como las mitocondrias (alrededor de 1 µm) caen dentro del rango de resolución de la microscopía óptica.",
+          "fr": "La plupart des bactéries (environ 1-10 µm) et les mitochondries (environ 1 µm) se situent dans la plage de résolution de la microscopie optique.",
+          "de": "Die meisten Bakterien (ca. 1-10 µm) und Mitochondrien (ca. 1 µm) liegen im Auflösungsbereich der Lichtmikroskopie.",
+          "ja": "ほとんどの細菌（約1-10µm）とミトコンドリア（約1µm）は、光学顕微鏡の分解能範囲内にあります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Most plant and animal cells",
+          "zh": "大多数植物和动物细胞",
+          "es": "La mayoría de las células vegetales y animales",
+          "fr": "La plupart des cellules végétales et animales",
+          "de": "Die meisten Pflanzen- und Tierzellen",
+          "ja": "ほとんどの植物細胞と動物細胞"
+        },
+        "feedback": {
+          "en": "Most plant and animal cells (around 10-100 µm) are clearly resolvable by light microscopy.",
+          "zh": "大多数植物和动物细胞（约 10-100 微米）都可以通过光学显微镜清晰地分辨。",
+          "es": "La mayoría de las células vegetales y animales (alrededor de 10-100 µm) son claramente resolubles por microscopía óptica.",
+          "fr": "La plupart des cellules végétales et animales (environ 10-100 µm) sont clairement résolues par microscopie optique.",
+          "de": "Die meisten Pflanzen- und Tierzellen (ca. 10-100 µm) sind mit Lichtmikroskopie klar auflösbar.",
+          "ja": "ほとんどの植物細胞と動物細胞（約10-100µm）は、光学顕微鏡で明確に分解できます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Viruses and Ribosomes",
+          "zh": "病毒和核糖体",
+          "es": "Virus y Ribosomas",
+          "fr": "Virus et Ribosomes",
+          "de": "Viren und Ribosomen",
+          "ja": "ウイルスとリボソーム"
+        },
+        "feedback": {
+          "en": "This is correct. Figure 6.2 shows that viruses (around 10-100 nm) and ribosomes (around 10-20 nm) fall below the practical resolution limit of standard light microscopy (200 nm), requiring super-resolution or electron microscopy.",
+          "zh": "这是正确的。图 6.2 显示病毒（约 10-100 纳米）和核糖体（约 10-20 纳米）低于标准光学显微镜的实际分辨率极限（200 纳米），需要超高分辨率或电子显微镜。",
+          "es": "Esto es correcto. La Figura 6.2 muestra que los virus (alrededor de 10-100 nm) y los ribosomas (alrededor de 10-20 nm) están por debajo del límite de resolución práctico de la microscopía óptica estándar (200 nm), requiriendo superresolución o microscopía electrónica.",
+          "fr": "C'est correct. La figure 6.2 montre que les virus (environ 10-100 nm) et les ribosomes (environ 10-20 nm) sont en dessous de la limite de résolution pratique de la microscopie optique standard (200 nm), nécessitant une super-résolution ou une microscopie électronique.",
+          "de": "Das ist korrekt. Abbildung 6.2 zeigt, dass Viren (ca. 10-100 nm) und Ribosomen (ca. 10-20 nm) unter der praktischen Auflösungsgrenze der Standard-Lichtmikroskopie (200 nm) liegen und daher Super-Resolution- oder Elektronenmikroskopie erfordern.",
+          "ja": "これが正しいです。図6.2によると、ウイルス（約10-100nm）とリボソーム（約10-20nm）は、標準的な光学顕微鏡の実際的な分解能の限界（200nm）を下回っており、超解像度顕微鏡または電子顕微鏡が必要です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Nuclei and Human eggs",
+          "zh": "细胞核和人卵",
+          "es": "Núcleos y óvulos humanos",
+          "fr": "Noyaux et ovules humains",
+          "de": "Zellkerne und menschliche Eizellen",
+          "ja": "細胞核とヒトの卵子"
+        },
+        "feedback": {
+          "en": "Nuclei (around 10 µm) and human eggs (around 100 µm) are both within the observable range of a standard light microscope.",
+          "zh": "细胞核（约 10 微米）和人卵（约 100 微米）都在标准光学显微镜的可观察范围内。",
+          "es": "Los núcleos (alrededor de 10 µm) y los óvulos humanos (alrededor de 100 µm) están ambos dentro del rango observable de un microscopio óptico estándar.",
+          "fr": "Les noyaux (environ 10 µm) et les ovules humains (environ 100 µm) sont tous deux dans la plage observable d'un microscope optique standard.",
+          "de": "Zellkerne (ca. 10 µm) und menschliche Eizellen (ca. 100 µm) liegen beide im beobachtbaren Bereich eines Standard-Lichtmikroskops.",
+          "ja": "細胞核（約10µm）とヒトの卵子（約100µm）は両方とも、標準的な光学顕微鏡で観察可能な範囲内です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 6.2 illustrates the size range of various biological structures and the types of microscopy suitable for observing them. The 'Light microscopy' arrow indicates that objects from human eggs down to most bacteria and mitochondria (roughly 100 µm to 1 µm) are observable. Structures smaller than this, such as viruses and ribosomes (10-100 nm range), fall into the 'Super-resolution microscopy' or 'Electron microscopy' ranges, meaning they are generally not resolvable by a standard light microscope.",
+      "zh": "图 6.2 展示了各种生物结构的大小范围以及适合观察它们的显微镜类型。“光学显微镜”箭头表明，从人卵到大多数细菌和线粒体（大约 100 微米到 1 微米）的物体都是可观察的。比这更小的结构，例如病毒和核糖体（10-100 纳米范围），则属于“超高分辨率显微镜”或“电子显微镜”的范围，这意味着它们通常不能被标准光学显微镜分辨。",
+      "es": "La Figura 6.2 ilustra el rango de tamaño de diversas estructuras biológicas y los tipos de microscopía adecuados para observarlas. La flecha de 'microscopía óptica' indica que objetos desde óvulos humanos hasta la mayoría de bacterias y mitocondrias (aproximadamente de 100 µm a 1 µm) son observables. Las estructuras más pequeñas que esto, como virus y ribosomas (rango de 10-100 nm), caen dentro de los rangos de 'microscopía de superresolución' o 'microscopía electrónica', lo que significa que generalmente no son resolubles por un microscopio óptico estándar.",
+      "fr": "La figure 6.2 illustre la gamme de tailles de diverses structures biologiques et les types de microscopie adaptés à leur observation. La flèche 'microscopie optique' indique que des objets allant de l'ovule humain à la plupart des bactéries et des mitochondries (environ 100 µm à 1 µm) sont observables. Les structures plus petites, telles que les virus et les ribosomes (gamme de 10-100 nm), entrent dans les gammes de 'microscopie à super-résolution' ou de 'microscopie électronique', ce qui signifie qu'elles ne sont généralement pas résolues par un microscope optique standard.",
+      "de": "Abbildung 6.2 veranschaulicht die Größenordnung verschiedener biologischer Strukturen und die zur Beobachtung geeigneten Mikroskoptypen. Der Pfeil 'Lichtmikroskopie' zeigt an, dass Objekte von menschlichen Eizellen bis zu den meisten Bakterien und Mitochondrien (ungefähr 100 µm bis 1 µm) beobachtbar sind. Kleinere Strukturen, wie Viren und Ribosomen (im Bereich von 10-100 nm), fallen in den Bereich der 'Super-Resolution-Mikroskopie' oder 'Elektronenmikroskopie', was bedeutet, dass sie im Allgemeinen nicht mit einem Standard-Lichtmikroskop auflösbar sind.",
+      "ja": "図6.2は、様々な生体構造のサイズ範囲と、それらを観察するのに適した顕微鏡の種類を示しています。「光学顕微鏡」の矢印は、ヒトの卵子からほとんどの細菌やミトコンドリア（およそ100µmから1µm）までの物体が観察可能であることを示しています。これより小さい構造、例えばウイルスやリボソーム（10-100nmの範囲）は、「超解像度顕微鏡」または「電子顕微鏡」の範囲に属し、標準的な光学顕微鏡では一般的に分解できません。"
+    }
+  },
+  {
+    "page_number": 143,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which statement correctly defines one of the three important parameters in microscopy: magnification, resolution, or contrast?",
+      "zh": "以下哪项陈述正确定义了显微镜学中三个重要参数之一：放大倍数、分辨率或对比度？",
+      "es": "¿Qué afirmación define correctamente uno de los tres parámetros importantes en microscopía: aumento, resolución o contraste?",
+      "fr": "Quelle affirmation définit correctement l'un des trois paramètres importants en microscopie : le grossissement, la résolution ou le contraste ?",
+      "de": "Welche Aussage definiert korrekt einen der drei wichtigen Parameter in der Mikroskopie: Vergrößerung, Auflösung oder Kontrast?",
+      "ja": "顕微鏡における3つの重要なパラメータ、すなわち倍率、分解能、コントラストのうち、いずれかを正しく定義している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Magnification is the minimum distance two points can be separated and still be distinguished.",
+          "zh": "放大倍数是两个点可以被分开并仍然可以区分的最小距离。",
+          "es": "El aumento es la distancia mínima a la que dos puntos pueden ser separados y aún así distinguirse.",
+          "fr": "Le grossissement est la distance minimale à laquelle deux points peuvent être séparés tout en restant distincts.",
+          "de": "Vergrößerung ist der minimale Abstand, in dem zwei Punkte voneinander getrennt und dennoch unterschieden werden können.",
+          "ja": "倍率とは、2つの点が分離されていても識別できる最小距離のことである。"
+        },
+        "feedback": {
+          "en": "This definition describes resolution, not magnification.",
+          "zh": "这个定义描述的是分辨率，而不是放大倍数。",
+          "es": "Esta definición describe la resolución, no el aumento.",
+          "fr": "Cette définition décrit la résolution, pas le grossissement.",
+          "de": "Diese Definition beschreibt die Auflösung, nicht die Vergrößerung.",
+          "ja": "この定義は倍率ではなく、分解能を表しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Resolution is the ratio of an object's image size to its real size.",
+          "zh": "分辨率是物体图像尺寸与其真实尺寸之比。",
+          "es": "La resolución es la relación entre el tamaño de la imagen de un objeto y su tamaño real.",
+          "fr": "La résolution est le rapport entre la taille de l'image d'un objet et sa taille réelle.",
+          "de": "Auflösung ist das Verhältnis der Bildgröße eines Objekts zu seiner tatsächlichen Größe.",
+          "ja": "分解能とは、物体の画像サイズと実際のサイズの比率である。"
+        },
+        "feedback": {
+          "en": "This definition describes magnification, not resolution.",
+          "zh": "这个定义描述的是放大倍数，而不是分辨率。",
+          "es": "Esta definición describe el aumento, no la resolución.",
+          "fr": "Cette définition décrit le grossissement, pas la résolution.",
+          "de": "Diese Definition beschreibt die Vergrößerung, nicht die Auflösung.",
+          "ja": "この定義は分解能ではなく、倍率を表しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Contrast is the difference in brightness between the light and dark areas of an image.",
+          "zh": "对比度是图像中明亮区域和黑暗区域之间的亮度差异。",
+          "es": "El contraste es la diferencia de brillo entre las áreas claras y oscuras de una imagen.",
+          "fr": "Le contraste est la différence de luminosité entre les zones claires et sombres d'une image.",
+          "de": "Kontrast ist der Helligkeitsunterschied zwischen den hellen und dunklen Bereichen eines Bildes.",
+          "ja": "コントラストとは、画像の明るい部分と暗い部分の間の明るさの違いである。"
+        },
+        "feedback": {
+          "en": "This is the correct definition of contrast.",
+          "zh": "这是对比度的正确定义。",
+          "es": "Esta es la definición correcta de contraste.",
+          "fr": "C'est la définition correcte du contraste.",
+          "de": "Dies ist die korrekte Definition von Kontrast.",
+          "ja": "これがコントラストの正しい定義です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Light microscopes can effectively magnify up to 10,000 times the actual size.",
+          "zh": "光学显微镜可以有效地将实际尺寸放大 10,000 倍。",
+          "es": "Los microscopios ópticos pueden aumentar efectivamente hasta 10,000 veces el tamaño real.",
+          "fr": "Les microscopes optiques peuvent grossir efficacement jusqu'à 10 000 fois la taille réelle.",
+          "de": "Lichtmikroskope können die tatsächliche Größe effektiv bis zu 10.000-fach vergrößern.",
+          "ja": "光学顕微鏡は、実際のサイズの最大10,000倍まで効果的に拡大できる。"
+        },
+        "feedback": {
+          "en": "Light microscopes can effectively magnify up to about 1,000 times, not 10,000 times.",
+          "zh": "光学显微镜可以有效地放大约 1,000 倍，而不是 10,000 倍。",
+          "es": "Los microscopios ópticos pueden aumentar efectivamente hasta aproximadamente 1,000 veces, no 10,000 veces.",
+          "fr": "Les microscopes optiques peuvent grossir efficacement jusqu'à environ 1 000 fois, pas 10 000 fois.",
+          "de": "Lichtmikroskope können effektiv bis zu etwa 1.000-fach vergrößern, nicht 10.000-fach.",
+          "ja": "光学顕微鏡は、約1,000倍まで効果的に拡大できますが、10,000倍ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly defines contrast as 'the difference in brightness between the light and dark areas of an image'. Magnification is defined as 'the ratio of an object's image size to its real size', and resolution is 'the minimum distance two points can be separated and still be distinguished as separate points'. The effective magnification limit for light microscopes is stated as 'about 1,000 times'.",
+      "zh": "文本明确将对比度定义为“图像中明亮区域和黑暗区域之间的亮度差异”。放大倍数定义为“物体图像尺寸与其真实尺寸之比”，分辨率是“两个点可以被分开并仍然可以区分为独立点的最小距离”。光学显微镜的有效放大倍数极限是“约 1,000 倍”。",
+      "es": "El texto define explícitamente el contraste como 'la diferencia de brillo entre las áreas claras y oscuras de una imagen'. El aumento se define como 'la relación entre el tamaño de la imagen de un objeto y su tamaño real', y la resolución es 'la distancia mínima a la que dos puntos pueden ser separados y aún así distinguirse como puntos separados'. El límite de aumento efectivo para los microscopios ópticos se establece en 'aproximadamente 1,000 veces'.",
+      "fr": "Le texte définit explicitement le contraste comme 'la différence de luminosité entre les zones claires et sombres d'une image'. Le grossissement est défini comme 'le rapport entre la taille de l'image d'un objet et sa taille réelle', et la résolution est 'la distance minimale à laquelle deux points peuvent être séparés tout en restant distincts'. La limite de grossissement efficace pour les microscopes optiques est indiquée comme 'environ 1 000 fois'.",
+      "de": "Der Text definiert den Kontrast explizit als 'den Unterschied in der Helligkeit zwischen den hellen und dunklen Bereichen eines Bildes'. Die Vergrößerung wird als 'das Verhältnis der Bildgröße eines Objekts zu seiner tatsächlichen Größe' definiert, und die Auflösung als 'der minimale Abstand, in dem zwei Punkte voneinander getrennt und dennoch als separate Punkte unterschieden werden können'. Die effektive Vergrößerungsgrenze für Lichtmikroskope wird mit 'etwa 1.000-fach' angegeben.",
+      "ja": "本文では、コントラストを「画像の明るい部分と暗い部分の間の明るさの差」と明示的に定義しています。倍率は「物体の画像サイズとその実寸との比率」、分解能は「2つの点が分離されていても、別々の点として識別できる最小距離」と定義されています。光学顕微鏡の実効倍率限界は「約1,000倍」と述べられています。"
+    }
+  },
+  {
+    "page_number": 143,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A research team wants to study the detailed surface topography of pollen grains and also observe the internal structures of a human fibroblast cell, including its organelles. Which combination of microscopes would be most suitable for these two distinct tasks, respectively?",
+      "zh": "一个研究团队想要研究花粉粒的详细表面形貌，并观察人成纤维细胞的内部结构，包括其细胞器。分别完成这两项不同任务，哪种显微镜组合最合适？",
+      "es": "Un equipo de investigación desea estudiar la topografía detallada de la superficie de los granos de polen y también observar las estructuras internas de una célula fibroblasto humana, incluidos sus orgánulos. ¿Qué combinación de microscopios sería la más adecuada para estas dos tareas distintas, respectivamente?",
+      "fr": "Une équipe de recherche souhaite étudier la topographie de surface détaillée des grains de pollen et observer également les structures internes d'une cellule fibroblaste humaine, y compris ses organites. Quelle combinaison de microscopes serait la plus adaptée à ces deux tâches distinctes, respectivement ?",
+      "de": "Ein Forschungsteam möchte die detaillierte Oberflächentopographie von Pollenkörnern untersuchen und auch die internen Strukturen einer menschlichen Fibroblastenzelle, einschließlich ihrer Organellen, beobachten. Welche Mikroskopkombination wäre für diese beiden unterschiedlichen Aufgaben jeweils am besten geeignet?",
+      "ja": "研究チームが花粉の表面の詳細な形状を研究し、同時にヒト線維芽細胞の細胞小器官を含む内部構造を観察したいと考えています。これら2つの異なるタスクに、それぞれ最適な顕微鏡の組み合わせはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Scanning Electron Microscope (SEM) for topography, Light Microscope (LM) for internal structures.",
+          "zh": "扫描电子显微镜 (SEM) 用于形貌研究，光学显微镜 (LM) 用于内部结构。",
+          "es": "Microscopio electrónico de barrido (MEB) para topografía, microscopio óptico (MO) para estructuras internas.",
+          "fr": "Microscope électronique à balayage (MEB) pour la topographie, microscope optique (MO) pour les structures internes.",
+          "de": "Rasterelektronenmikroskop (REM) für Topographie, Lichtmikroskop (LM) für interne Strukturen.",
+          "ja": "走査型電子顕微鏡（SEM）を表面形状観察に、光学顕微鏡（LM）を内部構造観察に。"
+        },
+        "feedback": {
+          "en": "While SEM is excellent for topography, LM has limited resolution for detailed internal organelles, which are typically in the nanometer range.",
+          "zh": "虽然 SEM 非常适合形貌研究，但 LM 对详细的内部细胞器（通常在纳米级别）的分辨率有限。",
+          "es": "Aunque el MEB es excelente para la topografía, el MO tiene una resolución limitada para los orgánulos internos detallados, que suelen estar en el rango de los nanómetros.",
+          "fr": "Bien que le MEB soit excellent pour la topographie, le MO a une résolution limitée pour les organites internes détaillés, qui sont généralement de l'ordre du nanomètre.",
+          "de": "Obwohl das REM hervorragend für die Topographie geeignet ist, hat das LM eine begrenzte Auflösung für detaillierte interne Organellen, die typischerweise im Nanometerbereich liegen.",
+          "ja": "SEMは表面形状観察に優れていますが、LMは詳細な内部細胞小器官（通常ナノメートル範囲）の分解能が限られています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Transmission Electron Microscope (TEM) for topography, Light Microscope (LM) for internal structures.",
+          "zh": "透射电子显微镜 (TEM) 用于形貌研究，光学显微镜 (LM) 用于内部结构。",
+          "es": "Microscopio electrónico de transmisión (MET) para topografía, microscopio óptico (MO) para estructuras internas.",
+          "fr": "Microscope électronique à transmission (MET) pour la topographie, microscope optique (MO) pour les structures internes.",
+          "de": "Transmissionselektronenmikroskop (TEM) für Topographie, Lichtmikroskop (LM) für interne Strukturen.",
+          "ja": "透過型電子顕微鏡（TEM）を表面形状観察に、光学顕微鏡（LM）を内部構造観察に。"
+        },
+        "feedback": {
+          "en": "TEM is used for internal structures, not surface topography. LM is also limited for detailed organelles.",
+          "zh": "TEM 用于内部结构观察，而不是表面形貌。LM 对详细细胞器也有限制。",
+          "es": "El MET se utiliza para estructuras internas, no para la topografía de la superficie. El MO también está limitado para orgánulos detallados.",
+          "fr": "Le MET est utilisé pour les structures internes, pas pour la topographie de surface. Le MO est également limité pour les organites détaillés.",
+          "de": "Das TEM wird für interne Strukturen verwendet, nicht für die Oberflächentopographie. Das LM ist auch für detaillierte Organellen begrenzt.",
+          "ja": "TEMは内部構造の観察に用いられ、表面形状ではありません。LMも詳細な細胞小器官の観察には限界があります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Scanning Electron Microscope (SEM) for topography, Electron Microscope (EM) for internal structures.",
+          "zh": "扫描电子显微镜 (SEM) 用于形貌研究，电子显微镜 (EM) 用于内部结构。",
+          "es": "Microscopio electrónico de barrido (MEB) para topografía, microscopio electrónico (ME) para estructuras internas.",
+          "fr": "Microscope électronique à balayage (MEB) pour la topographie, microscope électronique (ME) pour les structures internes.",
+          "de": "Rasterelektronenmikroskop (REM) für Topographie, Elektronenmikroskop (EM) für interne Strukturen.",
+          "ja": "走査型電子顕微鏡（SEM）を表面形状観察に、電子顕微鏡（EM）を内部構造観察に。"
+        },
+        "feedback": {
+          "en": "This is the most suitable combination. SEM excels at surface topography, and electron microscopes (specifically TEM, which is a type of EM) are necessary to resolve the fine details of organelles.",
+          "zh": "这是最合适的组合。SEM 擅长表面形貌研究，而电子显微镜（特别是 TEM，它是 EM 的一种）对于分辨细胞器的精细结构是必不可少的。",
+          "es": "Esta es la combinación más adecuada. El MEB destaca en la topografía de la superficie, y los microscopios electrónicos (específicamente el MET, que es un tipo de ME) son necesarios para resolver los detalles finos de los orgánulos.",
+          "fr": "C'est la combinaison la plus appropriée. Le MEB excelle dans la topographie de surface, et les microscopes électroniques (spécifiquement le MET, qui est un type de ME) sont nécessaires pour résoudre les détails fins des organites.",
+          "de": "Dies ist die am besten geeignete Kombination. Das REM ist hervorragend für die Oberflächentopographie geeignet, und Elektronenmikroskope (insbesondere TEM, das eine Art von EM ist) sind notwendig, um die feinen Details von Organellen aufzulösen.",
+          "ja": "これが最も適切な組み合わせです。SEMは表面形状観察に優れており、電子顕微鏡（特にEMの一種であるTEM）は細胞小器官の微細な詳細を分解するために必要です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Light Microscope (LM) for topography, Super-resolution Microscope for internal structures.",
+          "zh": "光学显微镜 (LM) 用于形貌研究，超高分辨率显微镜用于内部结构。",
+          "es": "Microscopio óptico (MO) para topografía, microscopio de superresolución para estructuras internas.",
+          "fr": "Microscope optique (MO) pour la topographie, microscope à super-résolution pour les structures internes.",
+          "de": "Lichtmikroskop (LM) für Topographie, Super-Resolution-Mikroskop für interne Strukturen.",
+          "ja": "光学顕微鏡（LM）を表面形状観察に、超解像度顕微鏡を内部構造観察に。"
+        },
+        "feedback": {
+          "en": "LM is not suitable for detailed topography, and while super-resolution microscopy can resolve some organelles, EM offers superior resolution for comprehensive internal structure study.",
+          "zh": "LM 不适合详细的形貌研究，虽然超高分辨率显微镜可以分辨一些细胞器，但 EM 在全面的内部结构研究方面提供更优越的分辨率。",
+          "es": "El MO no es adecuado para la topografía detallada, y aunque la microscopía de superresolución puede resolver algunos orgánulos, el ME ofrece una resolución superior para el estudio integral de la estructura interna.",
+          "fr": "Le MO n'est pas adapté à la topographie détaillée, et bien que la microscopie à super-résolution puisse résoudre certains organites, le ME offre une résolution supérieure pour une étude complète de la structure interne.",
+          "de": "Das LM ist nicht für detaillierte Topographie geeignet, und obwohl die Super-Resolution-Mikroskopie einige Organellen auflösen kann, bietet das EM eine überlegene Auflösung für umfassende interne Strukturstudien.",
+          "ja": "LMは詳細な表面形状観察には適しておらず、超解像度顕微鏡は一部の細胞小器官を分解できますが、EMは包括的な内部構造の研究においてより優れた分解能を提供します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that the 'scanning electron microscope (SEM) is especially useful for detailed study of the topography of a specimen'. For observing 'internal structures' and 'organelles' in detail, the text mentions that 'to see these structures in any detail required the development of a new instrument' and that 'the electron microscope (EM) was introduced to biology'. While super-resolution microscopy is mentioned for overcoming the resolution barrier for organelles, for comprehensive detailed internal structures, EM (specifically Transmission Electron Microscopy, a type of EM, though not explicitly named TEM) is the gold standard.",
+      "zh": "文本指出，“扫描电子显微镜 (SEM) 特别适用于详细研究标本的形貌”。对于详细观察“内部结构”和“细胞器”，文本提到“要详细观察这些结构需要开发新的仪器”，并且“电子显微镜 (EM) 被引入生物学”。虽然超高分辨率显微镜被提及用于克服细胞器分辨率障碍，但对于全面的详细内部结构，电子显微镜（特别是透射电子显微镜，虽然未明确命名为 TEM，但它是 EM 的一种）是黄金标准。",
+      "es": "El texto afirma que el 'microscopio electrónico de barrido (MEB) es especialmente útil para el estudio detallado de la topografía de una muestra'. Para observar 'estructuras internas' y 'orgánulos' en detalle, el texto menciona que 'para ver estas estructuras con cualquier detalle se requirió el desarrollo de un nuevo instrumento' y que 'el microscopio electrónico (ME) fue introducido en la biología'. Aunque se menciona la microscopía de superresolución para superar la barrera de resolución de los orgánulos, para un estudio exhaustivo y detallado de las estructuras internas, el ME (específicamente la microscopía electrónica de transmisión, un tipo de ME, aunque no se nombra explícitamente TEM) es el estándar de oro.",
+      "fr": "Le texte indique que le 'microscope électronique à balayage (MEB) est particulièrement utile pour l'étude détaillée de la topographie d'un échantillon'. Pour observer les 'structures internes' et les 'organites' en détail, le texte mentionne que 'voir ces structures en détail a nécessité le développement d'un nouvel instrument' et que 'le microscope électronique (ME) a été introduit en biologie'. Bien que la microscopie à super-résolution soit mentionnée pour surmonter la barrière de résolution des organites, pour une étude complète et détaillée des structures internes, le ME (spécifiquement la microscopie électronique à transmission, un type de ME, bien que non explicitement nommée TEM) est la référence.",
+      "de": "Der Text besagt, dass das 'Rasterelektronenmikroskop (REM) besonders nützlich für die detaillierte Untersuchung der Topographie einer Probe ist'. Für die detaillierte Beobachtung von 'internen Strukturen' und 'Organellen' erwähnt der Text, dass 'um diese Strukturen detailliert zu sehen, die Entwicklung eines neuen Instruments erforderlich war' und dass 'das Elektronenmikroskop (EM) in die Biologie eingeführt wurde'. Obwohl die Super-Resolution-Mikroskopie zur Überwindung der Auflösungsgrenze für Organellen erwähnt wird, ist für eine umfassende detaillierte Untersuchung interner Strukturen das EM (insbesondere die Transmissionselektronenmikroskopie, ein Typ von EM, obwohl nicht explizit als TEM benannt) der Goldstandard.",
+      "ja": "本文は、「走査型電子顕微鏡（SEM）は標本の表面形状の詳細な研究に特に有用である」と述べています。「内部構造」や「細胞小器官」を詳細に観察するためには、「これらの構造を詳細に見るためには新しい装置の開発が必要であった」と述べられており、「電子顕微鏡（EM）が生物学に導入された」とあります。超解像度顕微鏡は細胞小器官の分解能の障壁を克服するために言及されていますが、包括的な詳細な内部構造の研究には、EM（具体的には透過型電子顕微鏡、EMの一種であるがTEMと明示されていない）が標準です。"
+    }
+  }
+]

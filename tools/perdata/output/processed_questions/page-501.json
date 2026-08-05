@@ -1,0 +1,364 @@
+[
+  {
+    "page_number": 501,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements about transposable elements (TEs) is NOT accurate according to the provided text?",
+      "zh": "根据提供的文本，以下关于转座元件（TEs）的陈述哪一项不准确？",
+      "es": "Según el texto proporcionado, ¿cuál de las siguientes afirmaciones sobre los elementos transponibles (TEs) NO es precisa?",
+      "fr": "Selon le texte fourni, laquelle des affirmations suivantes concernant les éléments transposables (ETs) n'est PAS exacte ?",
+      "de": "Laut dem bereitgestellten Text, welche der folgenden Aussagen über Transposable Elemente (TEs) ist NICHT zutreffend?",
+      "ja": "提供されたテキストによると、転移因子（TEs）に関する以下の記述のうち、正確ではないものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Some TEs can move independently, while others have lost this ability.",
+          "zh": "一些转座元件可以独立移动，而另一些则已失去这种能力。",
+          "es": "Algunos TEs pueden moverse de forma independiente, mientras que otros han perdido esta capacidad.",
+          "fr": "Certains ETs peuvent se déplacer indépendamment, tandis que d'autres ont perdu cette capacité.",
+          "de": "Einige TEs können sich unabhängig bewegen, während andere diese Fähigkeit verloren haben.",
+          "ja": "一部のTEは独立して移動できますが、他のTEはこの能力を失っています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "TEs are usually hundreds to thousands of base pairs long.",
+          "zh": "转座元件通常有数百到数千个碱基对长。",
+          "es": "Los TEs suelen tener cientos a miles de pares de bases de longitud.",
+          "fr": "Les ETs mesurent généralement des centaines à des milliers de paires de bases.",
+          "de": "TEs sind normalerweise Hunderte bis Tausende von Basenpaaren lang.",
+          "ja": "TEsは通常、数百から数千塩基対の長さです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "TEs typically encode proteins that carry out normal cellular functions.",
+          "zh": "转座元件通常编码执行正常细胞功能的蛋白质。",
+          "es": "Los TEs suelen codificar proteínas que realizan funciones celulares normales.",
+          "fr": "Les ETs codent généralement des protéines qui remplissent des fonctions cellulaires normales.",
+          "de": "TEs kodieren typischerweise Proteine, die normale Zellfunktionen ausführen.",
+          "ja": "TEsは通常、正常な細胞機能を果たすタンパク質をコードしています。"
+        },
+        "feedback": {
+          "en": "The text states that \"Although some transposable elements encode proteins, these proteins do not carry out normal cellular functions.\"",
+          "zh": "文本指出：“尽管一些转座元件编码蛋白质，但这些蛋白质不执行正常的细胞功能。”",
+          "es": "El texto afirma que \"aunque algunos elementos transponibles codifican proteínas, estas proteínas no realizan funciones celulares normales\".",
+          "fr": "Le texte indique que \"bien que certains éléments transposables codent des protéines, ces protéines n'exercent pas des fonctions cellulaires normales.\"",
+          "de": "Der Text besagt, dass \"obwohl einige Transposable Elemente Proteine kodieren, diese Proteine keine normalen Zellfunktionen ausführen.\"",
+          "ja": "テキストには、「一部の転移因子はタンパク質をコードしているものの、これらのタンパク質は通常の細胞機能を果たさない」と記載されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "In corn, transposable elements constitute 85% of the genome.",
+          "zh": "在玉米中，转座元件占基因组的85%。",
+          "es": "En el maíz, los elementos transponibles constituyen el 85% del genoma.",
+          "fr": "Chez le maïs, les éléments transposables constituent 85% du génome.",
+          "de": "Bei Mais machen Transposable Elemente 85% des Genoms aus.",
+          "ja": "トウモロコシでは、転移因子がゲノムの85%を占めています。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Option C is incorrect because the text explicitly states that although some TEs encode proteins, these proteins do not carry out normal cellular functions. Options A, B, and D are all directly supported by the text.",
+      "zh": "选项C不正确，因为文本明确指出，尽管一些转座元件编码蛋白质，但这些蛋白质不执行正常的细胞功能。选项A、B和D都直接得到了文本的支持。",
+      "es": "La opción C es incorrecta porque el texto establece explícitamente que, aunque algunos TEs codifican proteínas, estas proteínas no realizan funciones celulares normales. Las opciones A, B y D están directamente respaldadas por el texto.",
+      "fr": "L'option C est incorrecte car le texte stipule explicitement que bien que certains ETs codent des protéines, ces protéines n'exercent pas des fonctions cellulaires normales. Les options A, B et D sont toutes directement soutenues par le texte.",
+      "de": "Option C ist falsch, da der Text ausdrücklich besagt, dass, obwohl einige TEs Proteine kodieren, diese Proteine keine normalen Zellfunktionen ausführen. Die Optionen A, B und D werden alle direkt durch den Text gestützt.",
+      "ja": "オプションCは不正確です。テキストには、一部の転移因子がタンパク質をコードしているものの、これらのタンパク質は通常の細胞機能を果たさない、と明記されています。オプションA、B、Dはすべてテキストに直接裏付けられています。"
+    }
+  },
+  {
+    "page_number": 501,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the text, what is a key difference between Alu elements and LINE-1 retrotransposons in the human genome?",
+      "zh": "根据文本，人类基因组中的Alu元件和LINE-1逆转座子之间的一个主要区别是什么？",
+      "es": "Según el texto, ¿cuál es una diferencia clave entre los elementos Alu y los retrotransposones LINE-1 en el genoma humano?",
+      "fr": "Selon le texte, quelle est une différence clé entre les éléments Alu et les rétrotransposons LINE-1 dans le génome humain ?",
+      "de": "Basierend auf dem Text, was ist ein Hauptunterschied zwischen Alu-Elementen und LINE-1-Retrotransposons im menschlichen Genom?",
+      "ja": "テキストによると、ヒトゲノムにおけるAluエレメントとLINE-1レトロトランスポゾンの主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Alu elements are significantly longer than LINE-1 retrotransposons.",
+          "zh": "Alu元件比LINE-1逆转座子长得多。",
+          "es": "Los elementos Alu son significativamente más largos que los retrotransposones LINE-1.",
+          "fr": "Les éléments Alu sont significativement plus longs que les rétrotransposons LINE-1.",
+          "de": "Alu-Elemente sind deutlich länger als LINE-1-Retrotransposons.",
+          "ja": "AluエレメントはLINE-1レトロトランスポゾンよりも著しく長い。"
+        },
+        "feedback": {
+          "en": "The text states Alu elements are about 300 nucleotides long, while LINE-1 retrotransposons are about 6,500 base pairs long, making LINE-1 much longer.",
+          "zh": "文本指出Alu元件约300个核苷酸长，而LINE-1逆转座子约6,500个碱基对长，因此LINE-1要长得多。",
+          "es": "El texto indica que los elementos Alu tienen aproximadamente 300 nucleótidos de largo, mientras que los retrotransposones LINE-1 tienen aproximadamente 6.500 pares de bases de largo, lo que hace que LINE-1 sea mucho más largo.",
+          "fr": "Le texte indique que les éléments Alu mesurent environ 300 nucléotides, tandis que les rétrotransposons LINE-1 mesurent environ 6 500 paires de bases, ce qui rend LINE-1 beaucoup plus long.",
+          "de": "Der Text besagt, dass Alu-Elemente etwa 300 Nukleotide lang sind, während LINE-1-Retrotransposons etwa 6.500 Basenpaare lang sind, was LINE-1 deutlich länger macht.",
+          "ja": "テキストによると、Aluエレメントは約300ヌクレオチド長であり、LINE-1レトロトランスポゾンは約6,500塩基対長であるため、LINE-1の方がはるかに長いです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "LINE-1 retrotransposons account for a smaller percentage of the human genome than Alu elements.",
+          "zh": "LINE-1逆转座子在人类基因组中的比例小于Alu元件。",
+          "es": "Los retrotransposones LINE-1 representan un porcentaje menor del genoma humano que los elementos Alu.",
+          "fr": "Les rétrotransposons LINE-1 représentent un pourcentage plus faible du génome humain que les éléments Alu.",
+          "de": "LINE-1-Retrotransposons machen einen kleineren Prozentsatz des menschlichen Genoms aus als Alu-Elemente.",
+          "ja": "LINE-1レトロトランスポゾンは、Aluエレメントよりもヒトゲノムに占める割合が少ない。"
+        },
+        "feedback": {
+          "en": "The text states Alu elements account for 10%, while LINE-1 accounts for 17% of the human genome, making LINE-1's percentage larger.",
+          "zh": "文本指出Alu元件占基因组的10%，而LINE-1占17%，因此LINE-1的比例更大。",
+          "es": "El texto indica que los elementos Alu representan el 10%, mientras que LINE-1 representa el 17% del genoma humano, lo que hace que el porcentaje de LINE-1 sea mayor.",
+          "fr": "Le texte indique que les éléments Alu représentent 10% du génome humain, tandis que LINE-1 en représente 17%, ce qui signifie que le pourcentage de LINE-1 est plus élevé.",
+          "de": "Der Text besagt, dass Alu-Elemente 10% und LINE-1 17% des menschlichen Genoms ausmachen, was den Anteil von LINE-1 größer macht.",
+          "ja": "テキストによると、Aluエレメントはゲノムの10%を占めるのに対し、LINE-1は17%を占めるため、LINE-1の割合の方が大きいです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Alu elements are known to regulate gene expression, whereas LINE-1 transcription is crucial for early embryonic development.",
+          "zh": "Alu元件已知能调节基因表达，而LINE-1的转录对于早期胚胎发育至关重要。",
+          "es": "Se sabe que los elementos Alu regulan la expresión génica, mientras que la transcripción de LINE-1 es crucial para el desarrollo embrionario temprano.",
+          "fr": "Les éléments Alu sont connus pour réguler l'expression génique, tandis que la transcription de LINE-1 est cruciale pour le développement embryonnaire précoce.",
+          "de": "Alu-Elemente regulieren bekanntermaßen die Genexpression, während die LINE-1-Transkription für die frühe embryonale Entwicklung entscheidend ist.",
+          "ja": "Aluエレメントは遺伝子発現を調節することが知られていますが、LINE-1の転写は初期胚発生にとって重要です。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both Alu elements and LINE-1 retrotransposons encode proteins that perform normal cellular functions.",
+          "zh": "Alu元件和LINE-1逆转座子都编码执行正常细胞功能的蛋白质。",
+          "es": "Tanto los elementos Alu como los retrotransposones LINE-1 codifican proteínas que realizan funciones celulares normales.",
+          "fr": "Les éléments Alu et les rétrotransposons LINE-1 codent tous deux des protéines qui remplissent des fonctions cellulaires normales.",
+          "de": "Sowohl Alu-Elemente als auch LINE-1-Retrotransposons kodieren Proteine, die normale Zellfunktionen ausführen.",
+          "ja": "AluエレメントとLINE-1レトロトランスポゾンは両方とも、正常な細胞機能を果たすタンパク質をコードしている。"
+        },
+        "feedback": {
+          "en": "The text states Alu elements do not code for any protein, and while some TEs (like LINE-1) encode proteins, these proteins \"do not carry out normal cellular functions.\"",
+          "zh": "文本指出Alu元件不编码任何蛋白质，尽管一些转座元件（如LINE-1）编码蛋白质，但这些蛋白质“不执行正常的细胞功能”。",
+          "es": "El texto afirma que los elementos Alu no codifican ninguna proteína, y aunque algunos TEs (como LINE-1) codifican proteínas, estas proteínas \"no realizan funciones celulares normales\".",
+          "fr": "Le texte indique que les éléments Alu ne codent aucune protéine, et bien que certains ETs (comme LINE-1) codent des protéines, ces protéines \"n'exercent pas des fonctions cellulaires normales\".",
+          "de": "Der Text besagt, dass Alu-Elemente keine Proteine kodieren und, obwohl einige TEs (wie LINE-1) Proteine kodieren, diese Proteine \"keine normalen Zellfunktionen ausführen\".",
+          "ja": "テキストには、Aluエレメントはタンパク質をコードせず、LINE-1のような一部のTEはタンパク質をコードするものの、これらのタンパク質は「通常の細胞機能を果たさない」と記載されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Option C correctly identifies the specific functions attributed to Alu and LINE-1 in the text: Alu's RNAs regulate gene expression, and LINE-1 transcription is vital for early embryonic development. Option A is incorrect because LINE-1 is much longer than Alu. Option B is incorrect because LINE-1 (17%) accounts for a larger percentage than Alu (10%). Option D is incorrect because Alu does not code for protein, and TEs that do, don't carry out normal cellular functions.",
+      "zh": "选项C正确地识别了文本中归因于Alu和LINE-1的特定功能：Alu的RNA调节基因表达，而LINE-1的转录对早期胚胎发育至关重要。选项A不正确，因为LINE-1比Alu长得多。选项B不正确，因为LINE-1（17%）所占比例大于Alu（10%）。选项D不正确，因为Alu不编码蛋白质，而且编码蛋白质的转座元件也不执行正常的细胞功能。",
+      "es": "La opción C identifica correctamente las funciones específicas atribuidas a Alu y LINE-1 en el texto: los ARN de Alu regulan la expresión génica, y la transcripción de LINE-1 es vital para el desarrollo embrionario temprano. La opción A es incorrecta porque LINE-1 es mucho más largo que Alu. La opción B es incorrecta porque LINE-1 (17%) representa un porcentaje mayor que Alu (10%). La opción D es incorrecta porque Alu no codifica proteínas, y los TEs que lo hacen, no realizan funciones celulares normales.",
+      "fr": "L'option C identifie correctement les fonctions spécifiques attribuées aux éléments Alu et LINE-1 dans le texte : les ARN d'Alu régulent l'expression génique, et la transcription de LINE-1 est vitale pour le développement embryonnaire précoce. L'option A est incorrecte car LINE-1 est beaucoup plus long qu'Alu. L'option B est incorrecte car LINE-1 (17%) représente un pourcentage plus élevé qu'Alu (10%). L'option D est incorrecte car Alu ne code pas de protéines, et les ETs qui le font n'exercent pas de fonctions cellulaires normales.",
+      "de": "Option C identifiziert korrekt die spezifischen Funktionen, die Alu und LINE-1 im Text zugeschrieben werden: Alu-RNAs regulieren die Genexpression, und die LINE-1-Transkription ist entscheidend für die frühe embryonale Entwicklung. Option A ist falsch, da LINE-1 viel länger als Alu ist. Option B ist falsch, da LINE-1 (17%) einen größeren Prozentsatz als Alu (10%) ausmacht. Option D ist falsch, da Alu keine Proteine kodiert und TEs, die dies tun, keine normalen Zellfunktionen ausführen.",
+      "ja": "オプションCは、テキストでAluとLINE-1に帰属する特定の機能を正しく特定しています。AluのRNAは遺伝子発現を調節し、LINE-1の転写は初期胚発生にとって不可欠です。オプションAは、LINE-1がAluよりもはるかに長いため不正確です。オプションBは、LINE-1（17%）の割合がAlu（10%）よりも大きいため不正確です。オプションDは、Aluがタンパク質をコードせず、タンパク質をコードするTEも通常の細胞機能を果たさないため不正確です。"
+    }
+  },
+  {
+    "page_number": 501,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Short tandem repeats (STRs) are a type of simple sequence DNA. Which statement accurately describes STRs or their analysis?",
+      "zh": "短串联重复序列（STRs）是一种简单重复序列DNA。以下哪项陈述准确描述了STRs或其分析？",
+      "es": "Las repeticiones cortas en tándem (STRs) son un tipo de ADN de secuencia simple. ¿Cuál de las siguientes afirmaciones describe con precisión los STRs o su análisis?",
+      "fr": "Les répétitions courtes en tandem (STRs) sont un type d'ADN à séquence simple. Quelle affirmation décrit précisément les STRs ou leur analyse ?",
+      "de": "Kurze Tandem-Repeats (STRs) sind eine Art einfacher Sequenz-DNA. Welche Aussage beschreibt STRs oder ihre Analyse genau?",
+      "ja": "短鎖縦列反復配列（STRs）は単純配列DNAの一種です。STRsまたはその分析を正確に記述している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The repeated unit in an STR typically consists of more than 5 nucleotides.",
+          "zh": "STR中的重复单元通常包含5个以上的核苷酸。",
+          "es": "La unidad repetida en un STR típicamente consta de más de 5 nucleótidos.",
+          "fr": "L'unité répétée dans un STR se compose typiquement de plus de 5 nucléotides.",
+          "de": "Die wiederholte Einheit in einem STR besteht typischerweise aus mehr als 5 Nukleotiden.",
+          "ja": "STRにおける繰り返し単位は通常5ヌクレオチドより多くで構成されています。"
+        },
+        "feedback": {
+          "en": "The text defines STRs as having a repeated unit of 2-5 nucleotides.",
+          "zh": "文本将STR定义为重复单元由2-5个核苷酸组成。",
+          "es": "El texto define los STRs como unidades repetidas de 2 a 5 nucleótidos.",
+          "fr": "Le texte définit les STRs comme ayant une unité répétée de 2 à 5 nucléotides.",
+          "de": "Der Text definiert STRs als eine wiederholte Einheit von 2-5 Nukleotiden.",
+          "ja": "テキストでは、STRの繰り返し単位は2～5ヌクレオチドと定義されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "STR analysis is primarily used to determine the exact number of repeats, which is constant across all individuals.",
+          "zh": "STR分析主要用于确定重复序列的精确数量，该数量在所有个体中都是恒定的。",
+          "es": "El análisis de STR se utiliza principalmente para determinar el número exacto de repeticiones, que es constante en todos los individuos.",
+          "fr": "L'analyse des STRs est principalement utilisée pour déterminer le nombre exact de répétitions, qui est constant chez tous les individus.",
+          "de": "Die STR-Analyse wird hauptsächlich verwendet, um die genaue Anzahl der Wiederholungen zu bestimmen, die bei allen Individuen konstant ist.",
+          "ja": "STR分析は主に繰り返し配列の正確な数を決定するために使用され、その数はすべての個体で一定である。"
+        },
+        "feedback": {
+          "en": "The text states that \"The repeat number varies from person to person\" and contributes to genetic diversity.",
+          "zh": "文本指出“重复次数因人而异”，并有助于遗传多样性。",
+          "es": "El texto afirma que \"el número de repeticiones varía de persona a persona\" y contribuye a la diversidad genética.",
+          "fr": "Le texte indique que \"le nombre de répétitions varie d'une personne à l'autre\" et contribue à la diversité génétique.",
+          "de": "Der Text besagt, dass \"die Wiederholungszahl von Person zu Person variiert\" und zur genetischen Vielfalt beiträgt.",
+          "ja": "テキストには、「繰り返し数は個人によって異なり」、遺伝的多様性に寄与すると記載されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Simple sequence DNA, including STRs, makes up a significant portion (3%) of the human genome and is found at telomeres and centromeres.",
+          "zh": "简单重复序列DNA，包括STRs，占人类基因组的很大一部分（3%），并存在于端粒和着丝粒。",
+          "es": "El ADN de secuencia simple, incluidos los STRs, constituye una porción significativa (3%) del genoma humano y se encuentra en los telómeros y centrómeros.",
+          "fr": "L'ADN à séquence simple, y compris les STRs, constitue une partie significative (3%) du génome humain et se trouve aux télomères et aux centromères.",
+          "de": "Einfache Sequenz-DNA, einschließlich STRs, macht einen erheblichen Teil (3%) des menschlichen Genoms aus und befindet sich an Telomeren und Zentromeren.",
+          "ja": "STRsを含む単純配列DNAは、ヒトゲノムの大部分（3%）を占め、テロメアとセントロメアに存在します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The presence of STRs makes whole-genome sequencing easier due to their uniform nature.",
+          "zh": "STRs的存在由于其均一性使得全基因组测序更加容易。",
+          "es": "La presencia de STRs facilita la secuenciación del genoma completo debido a su naturaleza uniforme.",
+          "fr": "La présence de STRs facilite le séquençage du génome entier en raison de leur nature uniforme.",
+          "de": "Das Vorhandensein von STRs erleichtert die Ganzgenomsequenzierung aufgrund ihrer einheitlichen Natur.",
+          "ja": "STRsの存在は、その均一な性質のため、全ゲノムシーケンシングを容易にします。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that \"Short repetitive sequences like those described here provide a challenge for whole-genome shotgun sequencing because the presence of many short repeats hinders accurate reassembly of fragment sequences by computers.\"",
+          "zh": "文本明确指出：“像这里描述的短重复序列对全基因组鸟枪法测序构成了挑战，因为许多短重复序列的存在阻碍了计算机准确重新组装片段序列。”",
+          "es": "El texto afirma explícitamente que \"las secuencias repetitivas cortas como las aquí descritas plantean un desafío para la secuenciación de escopeta de genoma completo porque la presencia de muchas repeticiones cortas dificulta el reensamblaje preciso de las secuencias de fragmentos por parte de las computadoras.\"",
+          "fr": "Le texte indique explicitement que \"les séquences répétitives courtes comme celles décrites ici posent un défi pour le séquençage par méthode shotgun du génome entier, car la présence de nombreuses répétitions courtes entrave le réassemblage précis des séquences de fragments par les ordinateurs.\"",
+          "de": "Der Text besagt ausdrücklich, dass \"kurze repetitive Sequenzen wie die hier beschriebenen eine Herausforderung für die Ganzgenom-Shotgun-Sequenzierung darstellen, da das Vorhandensein vieler kurzer Repeats die genaue Wiederzusammensetzung von Fragmentsequenzen durch Computer behindert.\"",
+          "ja": "テキストには、「ここで説明されているような短い反復配列は、多くの短い反復配列の存在がコンピュータによる断片配列の正確な再構築を妨げるため、全ゲノムショットガンシーケンシングにとって課題となる」と明記されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Option C is correct as the text mentions simple sequence DNA makes up 3% of the human genome and is located at telomeres and centromeres. Option A is incorrect because STR repeated units are 2-5 nucleotides, not more than 5. Option B is incorrect because repeat numbers vary among individuals. Option D is incorrect as STRs hinder, rather than facilitate, whole-genome sequencing due to reassembly difficulties.",
+      "zh": "选项C是正确的，因为文本提到简单重复序列DNA占人类基因组的3%，并位于端粒和着丝粒。选项A不正确，因为STR重复单元是2-5个核苷酸，而不是5个以上。选项B不正确，因为重复次数在个体之间有所不同。选项D不正确，因为STRs会阻碍而不是促进全基因组测序，因为其重新组装困难。",
+      "es": "La opción C es correcta ya que el texto menciona que el ADN de secuencia simple constituye el 3% del genoma humano y se encuentra en los telómeros y centrómeros. La opción A es incorrecta porque las unidades repetidas de STR son de 2 a 5 nucleótidos, no más de 5. La opción B es incorrecta porque el número de repeticiones varía entre individuos. La opción D es incorrecta ya que los STRs dificultan, en lugar de facilitar, la secuenciación del genoma completo debido a las dificultades de reensamblaje.",
+      "fr": "L'option C est correcte car le texte mentionne que l'ADN à séquence simple représente 3% du génome humain et se trouve aux télomères et aux centromères. L'option A est incorrecte car les unités répétées des STR sont de 2 à 5 nucléotides, pas plus de 5. L'option B est incorrecte car le nombre de répétitions varie d'un individu à l'autre. L'option D est incorrecte car les STRs entravent, plutôt que de faciliter, le séquençage du génome entier en raison des difficultés de réassemblage.",
+      "de": "Option C ist korrekt, da der Text erwähnt, dass einfache Sequenz-DNA 3% des menschlichen Genoms ausmacht und an Telomeren und Zentromeren vorkommt. Option A ist falsch, da die wiederholten Einheiten von STRs 2-5 Nukleotide und nicht mehr als 5 sind. Option B ist falsch, da die Wiederholungszahlen zwischen Individuen variieren. Option D ist falsch, da STRs die Ganzgenomsequenzierung aufgrund von Wiederzusammensetzungsschwierigkeiten eher behindern als erleichtern.",
+      "ja": "オプションCは正しいです。テキストには、単純配列DNAがヒトゲノムの3%を占め、テロメアとセントロメアに存在すると記載されています。オプションAは、STRの繰り返し単位が2〜5ヌクレオチドであり、5ヌクレオチド以上ではないため不正確です。オプションBは、繰り返し数が個人によって異なるため不正確です。オプションDは、STRsがゲノム全体のシーケンシングを容易にするのではなく、再構築の困難さから妨げるとされているため不正確です。"
+    }
+  },
+  {
+    "page_number": 501,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "According to the text, what percentage of the human genome is accounted for by DNA sequences that actually code for proteins or give rise to tRNA or rRNA?",
+      "zh": "根据文本，人类基因组中实际编码蛋白质或产生tRNA或rRNA的DNA序列占多少百分比？",
+      "es": "Según el texto, ¿qué porcentaje del genoma humano corresponde a secuencias de ADN que realmente codifican proteínas o dan lugar a ARNt o ARNr?",
+      "fr": "Selon le texte, quel pourcentage du génome humain est représenté par les séquences d'ADN qui codent réellement des protéines ou donnent naissance à l'ARNm ou à l'ARNr ?",
+      "de": "Laut Text, welcher Prozentsatz des menschlichen Genoms entfällt auf DNA-Sequenzen, die tatsächlich Proteine kodieren oder tRNA oder rRNA hervorbringen?",
+      "ja": "テキストによると、ヒトゲノムのうち、実際にタンパク質をコードするか、tRNAまたはrRNAを生じさせるDNA配列が占める割合はどのくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Approximately 1.5%",
+          "zh": "大约1.5%",
+          "es": "Aproximadamente 1.5%",
+          "fr": "Environ 1.5%",
+          "de": "Ungefähr 1.5%",
+          "ja": "約1.5%"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Approximately 6%",
+          "zh": "大约6%",
+          "es": "Aproximadamente 6%",
+          "fr": "Environ 6%",
+          "de": "Ungefähr 6%",
+          "ja": "約6%"
+        },
+        "feedback": {
+          "en": "6% refers to the proportion of the average gene's length represented in the final gene product (1.5% out of 25%), not the total percentage of coding DNA in the genome.",
+          "zh": "6%是指平均基因长度中最终基因产物所占的比例（25%中的1.5%），而不是基因组中编码DNA的总百分比。",
+          "es": "El 6% se refiere a la proporción de la longitud promedio del gen representada en el producto génico final (1.5% de 25%), no al porcentaje total de ADN codificante en el genoma.",
+          "fr": "6% fait référence à la proportion de la longueur moyenne du gène représentée dans le produit génique final (1.5% des 25%), et non au pourcentage total d'ADN codant dans le génome.",
+          "de": "6% bezieht sich auf den Anteil der Länge des durchschnittlichen Gens, der im endgültigen Genprodukt repräsentiert ist (1,5% von 25%), nicht auf den Gesamtprozentsatz der kodierenden DNA im Genom.",
+          "ja": "6%は、平均的な遺伝子の長さのうち最終的な遺伝子産物に表れる割合（25%中の1.5%）を指し、ゲノム中のコーディングDNAの総割合ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Approximately 10%",
+          "zh": "大约10%",
+          "es": "Aproximadamente 10%",
+          "fr": "Environ 10%",
+          "de": "Ungefähr 10%",
+          "ja": "約10%"
+        },
+        "feedback": {
+          "en": "10% refers to the proportion of the human genome accounted for by Alu elements.",
+          "zh": "10%指人类基因组中Alu元件所占的比例。",
+          "es": "El 10% se refiere a la proporción del genoma humano que corresponde a los elementos Alu.",
+          "fr": "10% fait référence à la proportion du génome humain représentée por les éléments Alu.",
+          "de": "10% bezieht sich auf den Anteil des menschlichen Genoms, der auf Alu-Elemente entfällt.",
+          "ja": "10%は、ヒトゲノムにおけるAluエレメントの割合を指します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Approximately 25%",
+          "zh": "大约25%",
+          "es": "Aproximadamente 25%",
+          "fr": "Environ 25%",
+          "de": "Ungefähr 25%",
+          "ja": "約25%"
+        },
+        "feedback": {
+          "en": "25% refers to the total amount of \"gene-related DNA\" including introns and regulatory sequences, not just the protein/tRNA/rRNA coding sequences.",
+          "zh": "25%指包括内含子和调控序列在内的“基因相关DNA”总量，而不仅仅是蛋白质/tRNA/rRNA编码序列。",
+          "es": "El 25% se refiere a la cantidad total de \"ADN relacionado con genes\", incluyendo intrones y secuencias reguladoras, no solo a las secuencias codificantes de proteínas/ARNt/ARNr.",
+          "fr": "25% fait référence à la quantité totale d'\"ADN lié aux gènes\", y compris les introns et les séquences régulatrices, et non seulement aux séquences codantes pour les protéines/ARNm/ARNr.",
+          "de": "25% bezieht sich auf die Gesamtmenge an \"genbezogener DNA\", einschließlich Introns und regulatorischer Sequenzen, nicht nur auf die Protein-/tRNA-/rRNA-kodierenden Sequenzen.",
+          "ja": "25%は、イントロンや調節配列を含む「遺伝子関連DNA」の総量を指し、タンパク質/tRNA/rRNAをコードする配列のみを指すものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explicitly states in the \"Genes and Multigene Families\" section that \"DNA sequences that code for proteins or give rise to tRNA or rRNA make up only 1.5% of the human genome\". The other percentages (6%, 10%, 25%) refer to different aspects of genome composition as detailed in their respective feedback.",
+      "zh": "文本在“基因和多基因家族”部分明确指出：“编码蛋白质或产生tRNA或rRNA的DNA序列仅占人类基因组的1.5%。” 其他百分比（6%、10%、25%）如各自的反馈所述，指基因组组成的不同方面。",
+      "es": "El texto establece explícitamente en la sección \"Genes y Familias Multigénicas\" que \"las secuencias de ADN que codifican proteínas o dan lugar a ARNt o ARNr constituyen solo el 1.5% del genoma humano\". Los otros porcentajes (6%, 10%, 25%) se refieren a diferentes aspectos de la composición del genoma, como se detalla en sus respectivas retroalimentaciones.",
+      "fr": "Le texte indique explicitement dans la section \"Gènes et Familles Multigéniques\" que \"les séquences d'ADN qui codent des protéines ou donnent naissance à l'ARNm ou à l'ARNr ne représentent que 1.5% du génome humain\". Les autres pourcentages (6%, 10%, 25%) se réfèrent à différents aspects de la composition du génome, comme détaillé dans leurs feedbacks respectifs.",
+      "de": "Der Text besagt ausdrücklich im Abschnitt \"Gene und Multigenfamilien\", dass \"DNA-Sequenzen, die Proteine kodieren oder tRNA oder rRNA hervorbringen, nur 1,5% des menschlichen Genoms ausmachen\". Die anderen Prozentsätze (6%, 10%, 25%) beziehen sich auf verschiedene Aspekte der Genomzusammensetzung, wie in den jeweiligen Rückmeldungen erläutert.",
+      "ja": "テキストの「遺伝子と多重遺伝子ファミリー」のセクションには、「タンパク質をコードするか、tRNAまたはrRNAを生じさせるDNA配列は、ヒトゲノムのわずか1.5%を占めるにすぎない」と明確に述べられています。他のパーセンテージ（6%、10%、25%）は、それぞれのフィードバックに詳述されているように、ゲノム構成の異なる側面を指します。"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 26,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which model of DNA replication is currently accepted, stating that each new DNA molecule consists of one old strand and one newly synthesized strand?",
+      "zh": "目前被接受的DNA复制模型是哪种？该模型指出每个新的DNA分子都由一条旧链和一条新合成的链组成。",
+      "es": "¿Qué modelo de replicación del ADN es el que se acepta actualmente, y establece que cada nueva molécula de ADN consta de una hebra antigua y una hebra recién sintetizada?",
+      "fr": "Quel modèle de réplication de l'ADN est actuellement accepté, stipulant que chaque nouvelle molécule d'ADN est constituée d'un brin ancien et d'un brin nouvellement synthétisé ?",
+      "de": "Welches DNA-Replikationsmodell wird derzeit akzeptiert, das besagt, dass jedes neue DNA-Molekül aus einem alten Strang und einem neu synthetisierten Strang besteht?",
+      "ja": "DNA複製モデルのうち、現在受け入れられているのはどれですか？このモデルでは、各新しいDNA分子が1本の古い鎖と1本の新しく合成された鎖から構成されると述べています。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Conservative",
+          "zh": "全保留式",
+          "es": "Conservador",
+          "fr": "Conservateur",
+          "de": "Konservativ",
+          "ja": "保存的"
+        },
+        "feedback": {
+          "en": "Incorrect. Conservative replication would result in one entirely new DNA molecule and one entirely old DNA molecule.",
+          "zh": "不正确。全保留式复制会产生一个全新的DNA分子和一个完全旧的DNA分子。",
+          "es": "Incorrecto. La replicación conservadora daría como resultado una molécula de ADN completamente nueva y una molécula de ADN completamente antigua.",
+          "fr": "Incorrect. La réplication conservative aboutirait à une molécule d'ADN entièrement nouvelle et une molécule d'ADN entièrement ancienne.",
+          "de": "Falsch. Konservative Replikation würde zu einem vollständig neuen DNA-Molekül und einem vollständig alten DNA-Molekül führen.",
+          "ja": "不正解。保存的複製では、完全に新しいDNA分子が1つと、完全に古いDNA分子が1つ生成されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Semiconservative",
+          "zh": "半保留式",
+          "es": "Semiconservador",
+          "fr": "Semiconservateur",
+          "de": "Semikonservativ",
+          "ja": "半保存的"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Dispersive",
+          "zh": "分散式",
+          "es": "Dispersivo",
+          "fr": "Dispersif",
+          "de": "Dispersiv",
+          "ja": "分散的"
+        },
+        "feedback": {
+          "en": "Incorrect. Dispersive replication would result in DNA molecules with segments of both old and new DNA scattered throughout both strands.",
+          "zh": "不正确。分散式复制会使DNA分子中新旧DNA片段分散在两条链上。",
+          "es": "Incorrecto. La replicación dispersiva daría como resultado moléculas de ADN con segmentos de ADN antiguo y nuevo dispersos a lo largo de ambas hebras.",
+          "fr": "Incorrect. La réplication dispersive aboutirait à des molécules d'ADN avec des segments d'ADN ancien et nouveau dispersés sur les deux brins.",
+          "de": "Falsch. Dispersive Replikation würde zu DNA-Molekülen führen, bei denen Segmente alter und neuer DNA über beide Stränge verteilt sind.",
+          "ja": "不正解。分散的複製では、古いDNAと新しいDNAの断片が両方の鎖全体に散らばったDNA分子が生成されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Progressive",
+          "zh": "渐进式",
+          "es": "Progresivo",
+          "fr": "Progressif",
+          "de": "Progressiv",
+          "ja": "漸進的"
+        },
+        "feedback": {
+          "en": "Incorrect. This is not a recognized model of DNA replication.",
+          "zh": "不正确。这不是一种公认的DNA复制模型。",
+          "es": "Incorrecto. Este no es un modelo reconocido de replicación del ADN.",
+          "fr": "Incorrect. Ce n'est pas un modèle reconnu de réplication de l'ADN.",
+          "de": "Falsch. Dies ist kein anerkanntes Modell der DNA-Replikation.",
+          "ja": "不正解。これは認知されているDNA複製モデルではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The semiconservative model of DNA replication, proposed by Watson and Crick and later confirmed by the Meselson-Stahl experiment, states that each of the two new DNA molecules will have one old strand (from the parent molecule) and one newly synthesized strand. This ensures that genetic information is accurately passed on to daughter cells.",
+      "zh": "由沃森和克里克提出，并由梅塞尔森-施塔勒实验证实的DNA半保留复制模型指出，每个新的DNA分子都将包含一条旧的（来自亲本分子）链和一条新合成的链。这确保了遗传信息能准确传递给子细胞。",
+      "es": "El modelo semiconservador de replicación del ADN, propuesto por Watson y Crick y posteriormente confirmado por el experimento de Meselson-Stahl, establece que cada una de las dos nuevas moléculas de ADN tendrá una hebra antigua (de la molécula parental) y una hebra recién sintetizada. Esto asegura que la información genética se transmita con precisión a las células hijas.",
+      "fr": "Le modèle semi-conservateur de réplication de l'ADN, proposé par Watson et Crick et confirmé plus tard par l'expérience de Meselson-Stahl, stipule que chacune des deux nouvelles molécules d'ADN aura un brin ancien (provenant de la molécule parentale) et un brin nouvellement synthétisé. Cela garantit que l'information génétique est transmise avec précision aux cellules filles.",
+      "de": "Das semikonservative Modell der DNA-Replikation, von Watson und Crick vorgeschlagen und später durch das Meselson-Stahl-Experiment bestätigt, besagt, dass jedes der beiden neuen DNA-Moleküle einen alten Strang (vom Elternmolekül) und einen neu synthetisierten Strang haben wird. Dies stellt sicher, dass die genetische Information präzise an die Tochterzellen weitergegeben wird.",
+      "ja": "DNA複製の半保存的モデルは、ワトソンとクリックによって提案され、後にメセルソン-スタール実験によって確認されました。このモデルは、2つの新しいDNA分子それぞれが、1つの古い鎖（親分子由来）と1つの新しく合成された鎖を持つと述べています。これにより、遺伝情報が正確に娘細胞に受け継がれることが保証されます。"
+    }
+  },
+  {
+    "page_number": 26,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A botanist observes that a plant stem, when inverted, still directs growth upwards, but at a significantly reduced rate. This observation is best explained by which characteristic of auxin transport in plants?",
+      "zh": "一位植物学家观察到，当植物茎倒置时，仍能向上生长，但速度明显减慢。这一观察结果最好由植物生长素运输的哪种特性来解释？",
+      "es": "Un botánico observa que un tallo de planta, cuando se invierte, sigue dirigiendo el crecimiento hacia arriba, pero a una tasa significativamente reducida. ¿Qué característica del transporte de auxina en las plantas explica mejor esta observación?",
+      "fr": "Un botaniste observe qu'une tige de plante, lorsqu'elle est inversée, continue de diriger sa croissance vers le haut, mais à un rythme significativement réduit. Cette observation est mieux expliquée par quelle caractéristique du transport de l'auxine chez les plantes ?",
+      "de": "Ein Botaniker beobachtet, dass ein Pflanzenstiel, wenn er umgedreht wird, immer noch nach oben wächst, aber mit einer deutlich reduzierten Rate. Welche Eigenschaft des Auxintransports in Pflanzen erklärt diese Beobachtung am besten?",
+      "ja": "植物学者が、植物の茎を逆さまにしても、成長は上向きに進むものの、その速度が著しく低下することを確認しました。この観察は、植物のオーキシン輸送のどの特性によって最もよく説明されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Auxin's movement is always against the concentration gradient.",
+          "zh": "生长素的移动总是逆着浓度梯度。",
+          "es": "El movimiento de la auxina siempre va en contra del gradiente de concentración.",
+          "fr": "Le mouvement de l'auxine est toujours contre le gradient de concentration.",
+          "de": "Die Auxinbewegung erfolgt immer entgegen dem Konzentrationsgradienten.",
+          "ja": "オーキシンの移動は常に濃度勾配に逆らう。"
+        },
+        "feedback": {
+          "en": "While active transport is involved, the primary reason for reduced upward growth in an inverted stem is polar transport, which dictates directionality.",
+          "zh": "虽然涉及主动运输，但倒置茎生长减缓的主要原因是极性运输，它决定了方向性。",
+          "es": "Aunque el transporte activo está implicado, la razón principal del crecimiento reducido hacia arriba en un tallo invertido es el transporte polar, que dicta la direccionalidad.",
+          "fr": "Bien que le transport actif soit impliqué, la principale raison de la croissance ascendante réduite dans une tige inversée est le transport polaire, qui dicte la directionnalité.",
+          "de": "Obwohl aktiver Transport beteiligt ist, ist der Hauptgrund für das reduzierte Aufwärtswachstum in einem umgedrehten Stiel der polare Transport, der die Richtung bestimmt.",
+          "ja": "能動輸送が関与している一方で、倒立した茎の成長が減少する主な理由は、方向性を決定する極性輸送です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Auxin's synthesis is inhibited when the stem is inverted.",
+          "zh": "当茎倒置时，生长素的合成受到抑制。",
+          "es": "La síntesis de auxina se inhibe cuando el tallo se invierte.",
+          "fr": "La synthèse de l'auxine est inhibée lorsque la tige est inversée.",
+          "de": "Die Auxinsynthese wird gehemmt, wenn der Stiel umgedreht wird.",
+          "ja": "茎を逆さまにするとオーキシンの合成が阻害される。"
+        },
+        "feedback": {
+          "en": "Auxin synthesis generally occurs in apical meristems and is not directly inhibited by stem inversion, though its distribution is affected.",
+          "zh": "生长素的合成通常发生在顶端分生组织，并不会被茎倒置直接抑制，但其分布会受影响。",
+          "es": "La síntesis de auxina generalmente ocurre en los meristemos apicales y no se inhibe directamente por la inversión del tallo, aunque su distribución sí se ve afectada.",
+          "fr": "La synthèse de l'auxine se produit généralement dans les méristèmes apicaux et n'est pas directement inhibée par l'inversion de la tige, bien que sa distribution soit affectée.",
+          "de": "Die Auxinsynthese findet in der Regel in apikalen Meristemen statt und wird durch das Umdrehen des Stiels nicht direkt gehemmt, obwohl ihre Verteilung beeinträchtigt wird.",
+          "ja": "オーキシンの合成は通常、頂端分裂組織で行われ、茎を逆さまにしても直接阻害されるわけではありませんが、その分布は影響を受けます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Auxin exhibits polar transport, primarily moving unidirectionally from the morphological apex to the base.",
+          "zh": "生长素表现出极性运输，主要从形态学上的顶端向基部单向移动。",
+          "es": "La auxina exhibe transporte polar, moviéndose principalmente de forma unidireccional desde el ápice morfológico hacia la base.",
+          "fr": "L'auxine présente un transport polaire, se déplaçant principalement de manière unidirectionnelle de l'apex morphologique vers la base.",
+          "de": "Auxin zeigt polaren Transport und bewegt sich primär unidirektional von der morphologischen Spitze zur Basis.",
+          "ja": "オーキシンは極性輸送を示し、主に形態学的頂点から基部へ一方向的に移動する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Auxin is primarily transported through the xylem, which is gravity-dependent.",
+          "zh": "生长素主要通过木质部运输，而木质部的运输依赖于重力。",
+          "es": "La auxina se transporta principalmente a través del xilema, que depende de la gravedad.",
+          "fr": "L'auxine est principalement transportée via le xylème, qui dépend de la gravité.",
+          "de": "Auxin wird hauptsächlich durch das Xylem transportiert, welches schwerkraftabhängig ist.",
+          "ja": "オーキシンは主に重力に依存する木部を介して輸送される。"
+        },
+        "feedback": {
+          "en": "Auxin is primarily transported through parenchyma cells in the phloem and cortex, not the xylem, and its polar transport is an active process not solely dependent on gravity.",
+          "zh": "生长素主要通过韧皮部和皮层中的薄壁细胞运输，而不是木质部，且其极性运输是一个不完全依赖重力的主动过程。",
+          "es": "La auxina se transporta principalmente a través de las células parenquimáticas del floema y la corteza, no del xilema, y su transporte polar es un proceso activo que no depende únicamente de la gravedad.",
+          "fr": "L'auxine est principalement transportée par les cellules parenchymateuses du phloème et du cortex, et non par le xylème, et son transport polaire est un processus actif qui ne dépend pas uniquement de la gravité.",
+          "de": "Auxin wird hauptsächlich durch Parenchymzellen im Phloem und Kortex transportiert, nicht durch das Xylem, und sein polarer Transport ist ein aktiver Prozess, der nicht ausschließlich von der Schwerkraft abhängt.",
+          "ja": "オーキシンは主に木部ではなく、篩部や皮層の柔細胞を介して輸送され、その極性輸送は重力のみに依存しない能動的なプロセスです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Auxin's characteristic polar transport, which involves active transport systems within cell membranes, dictates its unidirectional movement from the shoot apex downwards to the base. When a stem is inverted, this polar transport system is still largely intact but becomes much less efficient in moving auxin 'up' the inverted stem, resulting in reduced but still observable upward growth. This is a fundamental aspect of how plants regulate their growth and development.",
+      "zh": "生长素特有的极性运输，涉及细胞膜内的主动运输系统，决定了其从茎尖向下至基部的单向移动。当茎倒置时，这种极性运输系统在很大程度上仍然存在，但在将生长素“向上”运输通过倒置的茎时效率会大大降低，导致生长减缓但仍能观察到向上生长。这是植物调节其生长发育的一个基本方面。",
+      "es": "El transporte polar característico de la auxina, que implica sistemas de transporte activo dentro de las membranas celulares, dicta su movimiento unidireccional desde el ápice del brote hacia la base. Cuando un tallo se invierte, este sistema de transporte polar sigue estando en gran medida intacto, pero se vuelve mucho menos eficiente en el movimiento de auxina 'hacia arriba' del tallo invertido, lo que resulta en un crecimiento hacia arriba reducido pero aún observable. Este es un aspecto fundamental de cómo las plantas regulan su crecimiento y desarrollo.",
+      "fr": "Le transport polaire caractéristique de l'auxine, qui implique des systèmes de transport actif au sein des membranes cellulaires, dicte son mouvement unidirectionnel de l'apex caulinaire vers la base. Lorsqu'une tige est inversée, ce système de transport polaire est en grande partie intact mais devient beaucoup moins efficace pour déplacer l'auxine 'vers le haut' de la tige inversée, ce qui entraîne une croissance vers le haut réduite mais toujours observable. C'est un aspect fondamental de la façon dont les plantes régulent leur croissance et leur développement.",
+      "de": "Der charakteristische polare Transport von Auxin, der aktive Transportsysteme innerhalb der Zellmembranen umfasst, bestimmt seine unidirektionale Bewegung von der Sprossspitze abwärts zur Basis. Wenn ein Stiel umgedreht wird, ist dieses polare Transportsystem immer noch weitgehend intakt, aber es wird viel weniger effizient, Auxin im umgedrehten Stiel 'nach oben' zu bewegen, was zu einem reduzierten, aber immer noch beobachtbaren Aufwärtswachstum führt. Dies ist ein grundlegender Aspekt, wie Pflanzen ihr Wachstum und ihre Entwicklung regulieren.",
+      "ja": "オーキシンの特徴である極性輸送は、細胞膜内の能動輸送システムを介して、茎の先端から基部へと一方向性の移動を規定します。茎を逆さまにすると、この極性輸送システムは大部分が無傷ですが、逆さまになった茎でオーキシンを「上」に移動させる効率が大幅に低下し、結果として上向きの成長は減少しますが、それでも観察可能です。これは植物が成長と発達を調節する基本的な側面です。"
+    }
+  },
+  {
+    "page_number": 26,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary purpose of the Polymerase Chain Reaction (PCR) in molecular biology?",
+      "zh": "聚合酶链式反应（PCR）在分子生物学中的主要目的是什么？",
+      "es": "¿Cuál es el propósito principal de la Reacción en Cadena de la Polimerasa (PCR) en biología molecular?",
+      "fr": "Quel est le but principal de la réaction en chaîne par polymérase (PCR) en biologie moléculaire ?",
+      "de": "Was ist der Hauptzweck der Polymerase-Kettenreaktion (PCR) in der Molekularbiologie?",
+      "ja": "分子生物学におけるポリメラーゼ連鎖反応（PCR）の主な目的は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To separate DNA fragments by size.",
+          "zh": "按大小分离DNA片段。",
+          "es": "Separar fragmentos de ADN por tamaño.",
+          "fr": "Séparer les fragments d'ADN par taille.",
+          "de": "DNA-Fragmente nach Größe trennen.",
+          "ja": "DNA断片をサイズ別に分離する。"
+        },
+        "feedback": {
+          "en": "This describes gel electrophoresis, not PCR.",
+          "zh": "这描述的是凝胶电泳，而不是PCR。",
+          "es": "Esto describe la electroforesis en gel, no la PCR.",
+          "fr": "Cela décrit l'électrophorèse sur gel, pas la PCR.",
+          "de": "Dies beschreibt die Gelelektrophorese, nicht die PCR.",
+          "ja": "これはゲル電気泳動を説明しており、PCRではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To amplify specific DNA sequences.",
+          "zh": "扩增特定的DNA序列。",
+          "es": "Amplificar secuencias específicas de ADN.",
+          "fr": "Amplifier des séquences d'ADN spécifiques.",
+          "de": "Spezifische DNA-Sequenzen amplifizieren.",
+          "ja": "特定のDNA配列を増幅する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To determine the sequence of an entire genome.",
+          "zh": "确定整个基因组的序列。",
+          "es": "Determinar la secuencia de un genoma completo.",
+          "fr": "Déterminer la séquence d'un génome entier.",
+          "de": "Die Sequenz eines gesamten Genoms bestimmen.",
+          "ja": "ゲノム全体の配列を決定する。"
+        },
+        "feedback": {
+          "en": "While PCR can be a step in sequencing workflows, its primary purpose is amplification, not whole-genome sequencing.",
+          "zh": "虽然PCR可以是测序工作流程中的一个步骤，但其主要目的是扩增，而不是全基因组测序。",
+          "es": "Aunque la PCR puede ser un paso en los flujos de trabajo de secuenciación, su propósito principal es la amplificación, no la secuenciación de todo el genoma.",
+          "fr": "Bien que la PCR puisse être une étape dans les workflows de séquençage, son objectif principal est l'amplification, pas le séquençage du génome entier.",
+          "de": "Obwohl PCR ein Schritt in Sequenzierungs-Workflows sein kann, ist ihr Hauptzweck die Amplifikation, nicht die Genomsequenzierung.",
+          "ja": "PCRはシーケンス解析のワークフローの一ステップとなることはありますが、その主な目的は増幅であり、全ゲノムシーケンスではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To produce recombinant proteins.",
+          "zh": "生产重组蛋白。",
+          "es": "Producir proteínas recombinantes.",
+          "fr": "Produire des protéines recombinantes.",
+          "de": "Rekombinante Proteine herstellen.",
+          "ja": "組換えタンパク質を生産する。"
+        },
+        "feedback": {
+          "en": "This describes gene expression in host organisms, often involving cloning, but not PCR's primary role.",
+          "zh": "这描述的是宿主生物体中的基因表达，通常涉及克隆，但不是PCR的主要作用。",
+          "es": "Esto describe la expresión génica en organismos huéspedes, a menudo implicando la clonación, pero no el papel principal de la PCR.",
+          "fr": "Cela décrit l'expression génique dans les organismes hôtes, impliquant souvent le clonage, mais pas le rôle principal de la PCR.",
+          "de": "Dies beschreibt die Genexpression in Wirtsorganismen, oft unter Einbeziehung des Klonierens, aber nicht die Hauptrolle der PCR.",
+          "ja": "これは宿主生物における遺伝子発現を説明するもので、しばしばクローニングを伴いますが、PCRの主な役割ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The Polymerase Chain Reaction (PCR) is a powerful molecular biology technique used to make millions to billions of copies of a specific DNA segment. It is widely used in genetic fingerprinting, disease diagnosis, and various research applications where a large amount of a particular DNA sequence is required.",
+      "zh": "聚合酶链式反应（PCR）是一种强大的分子生物学技术，用于扩增特定DNA片段，使其数量达到百万到十亿级别。它广泛应用于基因指纹图谱、疾病诊断以及各种需要大量特定DNA序列的研究应用中。",
+      "es": "La Reacción en Cadena de la Polimerasa (PCR) es una potente técnica de biología molecular utilizada para hacer millones a miles de millones de copias de un segmento de ADN específico. Se utiliza ampliamente en la identificación genética, el diagnóstico de enfermedades y diversas aplicaciones de investigación donde se requiere una gran cantidad de una secuencia de ADN particular.",
+      "fr": "La réaction en chaîne par polymérase (PCR) est une technique puissante de biologie moléculaire utilisée pour produire des millions à des milliards de copies d'un segment d'ADN spécifique. Elle est largement utilisée dans l'identification génétique, le diagnostic de maladies et diverses applications de recherche où une grande quantité d'une séquence d'ADN particulière est requise.",
+      "de": "Die Polymerase-Kettenreaktion (PCR) ist eine leistungsstarke molekularbiologische Technik, die verwendet wird, um Millionen bis Milliarden von Kopien eines spezifischen DNA-Segments zu erstellen. Sie wird häufig in der genetischen Fingerabdruckanalyse, der Krankheitsdiagnose und verschiedenen Forschungsanwendungen eingesetzt, bei denen eine große Menge einer bestimmten DNA-Sequenz benötigt wird.",
+      "ja": "ポリメラーゼ連鎖反応（PCR）は、特定のDNAセグメントを数百万から数十億コピーに増幅するために使用される強力な分子生物学技術です。遺伝子フィンガープリンティング、疾患診断、および特定のDNA配列が大量に必要とされるさまざまな研究用途で広く使用されています。"
+    }
+  },
+  {
+    "page_number": 26,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which of the following scenarios is *most directly* responsible for the establishment of reproductive isolation between two populations?",
+      "zh": "以下哪种情况是导致两个种群之间建立生殖隔离的*最直接*原因？",
+      "es": "¿Cuál de los siguientes escenarios es *más directamente* responsable del establecimiento del aislamiento reproductivo entre dos poblaciones?",
+      "fr": "Lequel des scénarios suivants est *le plus directement* responsable de l'établissement de l'isolement reproducteur entre deux populations ?",
+      "de": "Welches der folgenden Szenarien ist *am direktesten* für die Etablierung reproduktiver Isolation zwischen zwei Populationen verantwortlich?",
+      "ja": "次のシナリオのうち、2つの集団間に生殖的隔離が確立される*最も直接的な*原因はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Accumulation of genetic differences due to independent evolution in geographically separated populations.",
+          "zh": "地理上分离的种群因独立进化而积累遗传差异。",
+          "es": "Acumulación de diferencias genéticas debido a la evolución independiente en poblaciones geográficamente separadas.",
+          "fr": "Accumulation de différences génétiques due à l'évolution indépendante dans des populations géographiquement séparées.",
+          "de": "Anhäufung genetischer Unterschiede aufgrund unabhängiger Evolution in geografisch getrennten Populationen.",
+          "ja": "地理的に隔離された集団における独立した進化による遺伝的差異の蓄積。"
+        },
+        "feedback": {
+          "en": "This describes the *process* of divergence that often leads to reproductive isolation, but it's not the reproductive isolation itself. Reproductive isolation is the outcome of these accumulated differences making interbreeding impossible or unproductive.",
+          "zh": "这描述了通常导致生殖隔离的*分化过程*，但它本身不是生殖隔离。生殖隔离是这些累积的差异导致无法或无法有效地杂交的结果。",
+          "es": "Esto describe el *proceso* de divergencia que a menudo conduce al aislamiento reproductivo, pero no es el aislamiento reproductivo en sí. El aislamiento reproductivo es el resultado de estas diferencias acumuladas que hacen que el entrecruzamiento sea imposible o improductivo.",
+          "fr": "Cela décrit le *processus* de divergence qui conduit souvent à l'isolement reproducteur, mais ce n'est pas l'isolement reproducteur lui-même. L'isolement reproducteur est le résultat de ces différences accumulées rendant l'interfécondation impossible ou improductive.",
+          "de": "Dies beschreibt den *Divergenzprozess*, der oft zu reproduktiver Isolation führt, aber es ist nicht die reproduktive Isolation selbst. Reproduktive Isolation ist das Ergebnis dieser akkumulierten Unterschiede, die die Kreuzung unmöglich oder unproduktiv machen.",
+          "ja": "これは生殖的隔離につながる*分岐のプロセス*を説明していますが、生殖的隔離そのものではありません。生殖的隔離は、これらの蓄積された差異が交配を不可能または非生産的にする結果です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Formation of physical barriers preventing gene flow between populations.",
+          "zh": "形成阻止种群间基因流动的物理屏障。",
+          "es": "Formación de barreras físicas que impiden el flujo génico entre poblaciones.",
+          "fr": "Formation de barrières physiques empêchant le flux génique entre les populations.",
+          "de": "Bildung physischer Barrieren, die den Genfluss zwischen Populationen verhindern.",
+          "ja": "集団間の遺伝子流動を妨げる物理的障壁の形成。"
+        },
+        "feedback": {
+          "en": "This describes geographic isolation, which is a *precondition* for allopatric speciation and allows divergence, but it is not reproductive isolation itself. Reproductive isolation refers to intrinsic biological barriers.",
+          "zh": "这描述了地理隔离，它是异域物种形成的*前提条件*并允许分化，但它本身不是生殖隔离。生殖隔离指的是内在的生物学障碍。",
+          "es": "Esto describe el aislamiento geográfico, que es una *condición previa* para la especiación alopátrica y permite la divergencia, pero no es el aislamiento reproductivo en sí mismo. El aislamiento reproductivo se refiere a barreras biológicas intrínsecas.",
+          "fr": "Cela décrit l'isolement géographique, qui est une *condition préalable* à la spéciation allopatrique et permet la divergence, mais ce n'est pas l'isolement reproducteur lui-même. L'isolement reproducteur fait référence à des barrières biologiques intrinsèques.",
+          "de": "Dies beschreibt geografische Isolation, die eine *Voraussetzung* für allopatrische Speziation ist und Divergenz ermöglicht, aber es ist nicht die reproduktive Isolation selbst. Reproduktive Isolation bezieht sich auf intrinsische biologische Barrieren.",
+          "ja": "これは地理的隔離を説明しており、それは異所的種分化の*前提条件*であり、分化を可能にしますが、生殖的隔離そのものではありません。生殖的隔離とは、内在的な生物学的障壁を指します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Development of intrinsic pre-zygotic or post-zygotic barriers that prevent successful interbreeding or produce sterile offspring.",
+          "zh": "形成内在的受精前或受精后屏障，阻止成功杂交或产生不育后代。",
+          "es": "Desarrollo de barreras intrínsecas pre-cigóticas o post-cigóticas que impiden el entrecruzamiento exitoso o producen descendencia estéril.",
+          "fr": "Développement de barrières intrinsèques pré-zygotiques ou post-zygotiques qui empêchent la reproduction réussie ou produisent une progéniture stérile.",
+          "de": "Entwicklung intrinsischer präzygotischer oder postzygotischer Barrieren, die eine erfolgreiche Kreuzung verhindern oder unfruchtbare Nachkommen hervorbringen.",
+          "ja": "受精前または受精後の内在的障壁の発達により、正常な異種交配が妨げられたり、不稔の子孫が生まれること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Competition for limited resources within a shared habitat.",
+          "zh": "在共同栖息地内争夺有限资源。",
+          "es": "Competencia por recursos limitados dentro de un hábitat compartido.",
+          "fr": "Compétition pour des ressources limitées au sein d'un habitat partagé.",
+          "de": "Konkurrenz um begrenzte Ressourcen innerhalb eines gemeinsamen Lebensraums.",
+          "ja": "共有された生息地内での限られた資源をめぐる競争。"
+        },
+        "feedback": {
+          "en": "Competition can be a selective pressure that drives divergence, but it does not directly establish the biological inability or unwillingness to interbreed that defines reproductive isolation.",
+          "zh": "竞争可能是一种推动分化的选择压力，但它不会直接建立生殖隔离所定义的生物学上无法或不愿杂交的状态。",
+          "es": "La competencia puede ser una presión selectiva que impulsa la divergencia, pero no establece directamente la incapacidad o falta de voluntad biológica para cruzarse que define el aislamiento reproductivo.",
+          "fr": "La compétition peut être une pression sélective qui entraîne une divergence, mais elle n'établit pas directement l'incapacité ou le refus biologique de se reproduire qui définit l'isolement reproducteur.",
+          "de": "Konkurrenz kann ein Selektionsdruck sein, der zur Divergenz führt, aber sie etabliert nicht direkt die biologische Unfähigkeit oder den Unwillen zur Kreuzung, die die reproduktive Isolation definieren.",
+          "ja": "競争は分化を促進する選択圧となりえますが、生殖的隔離を定義する生物学的な交配不能または交配不本意を直接確立するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Reproductive isolation refers specifically to the existence of biological factors (barriers) that impede members of two species from producing viable, fertile offspring. These barriers can be pre-zygotic (e.g., habitat isolation, behavioral isolation, mechanical isolation, gametic isolation) or post-zygotic (e.g., reduced hybrid viability, reduced hybrid fertility, hybrid breakdown). While genetic divergence, geographic isolation, and competition can all *contribute* to or *precede* reproductive isolation, the *direct* cause is the development of these intrinsic biological mechanisms that prevent successful gene flow.",
+      "zh": "生殖隔离特指阻止两个物种成员产生有活力、可育后代的生物学因素（屏障）。这些屏障可以是受精前的（例如，栖息地隔离、行为隔离、机械隔离、配子隔离）或受精后的（例如，杂种活力降低、杂种育性降低、杂种衰败）。虽然遗传分化、地理隔离和竞争都可能对生殖隔离有所*贡献*或*先于*生殖隔离，但其*直接*原因正是这些阻止成功基因流动的内在生物学机制的形成。",
+      "es": "El aislamiento reproductivo se refiere específicamente a la existencia de factores biológicos (barreras) que impiden que los miembros de dos especies produzcan descendencia viable y fértil. Estas barreras pueden ser precigóticas (p. ej., aislamiento de hábitat, aislamiento conductual, aislamiento mecánico, aislamiento gamético) o postcigóticas (p. ej., viabilidad híbrida reducida, fertilidad híbrida reducida, colapso híbrido). Si bien la divergencia genética, el aislamiento geográfico y la competencia pueden *contribuir* o *preceder* al aislamiento reproductivo, la causa *directa* es el desarrollo de estos mecanismos biológicos intrínsecos que impiden un flujo génico exitoso.",
+      "fr": "L'isolement reproducteur fait spécifiquement référence à l'existence de facteurs biologiques (barrières) qui empêchent les membres de deux espèces de produire une progéniture viable et fertile. Ces barrières peuvent être prézygotiques (par exemple, isolement de l'habitat, isolement comportemental, isolement mécanique, isolement gamétique) ou postzygotiques (par exemple, viabilité hybride réduite, fertilité hybride réduite, effondrement hybride). Bien que la divergence génétique, l'isolement géographique et la compétition puissent tous *contribuer* à ou *précéder* l'isolement reproducteur, la cause *directe* est le développement de ces mécanismes biologiques intrinsèques qui empêchent un flux génique réussi.",
+      "de": "Reproduktive Isolation bezieht sich spezifisch auf die Existenz biologischer Faktoren (Barrieren), die Mitglieder zweier Arten daran hindern, lebensfähige, fruchtbare Nachkommen zu produzieren. Diese Barrieren können präzygotisch (z. B. Habitatisolation, Verhaltensisolation, mechanische Isolation, Gametenisolation) oder postzygotisch (z. B. reduzierte Hybridvitalität, reduzierte Hybridfertilität, Hybridzusammenbruch) sein. Während genetische Divergenz, geografische Isolation und Konkurrenz alle zur reproduktiven Isolation *beitragen* oder dieser *vorausgehen* können, ist die *direkte* Ursache die Entwicklung dieser intrinsischen biologischen Mechanismen, die einen erfolgreichen Genfluss verhindern.",
+      "ja": "生殖的隔離とは、2つの種の個体が生存可能で生殖能力のある子孫を生み出すのを妨げる生物学的要因（障壁）の存在を具体的に指します。これらの障壁は、接合子前（例：生息地隔離、行動隔離、機械的隔離、配偶子隔離）または接合子後（例：雑種生活力低下、雑種不稔、雑種崩壊）である可能性があります。遺伝的分化、地理的隔離、競争はすべて生殖的隔離に*寄与*したり、それに*先行*したりすることはありますが、*直接的な*原因は、成功裡な遺伝子流動を妨げるこれらの内在的な生物学的メカニズムの発達です。"
+    }
+  }
+]

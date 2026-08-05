@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 800,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What does a positive slope (m > 0) in the regression line (y = mx + b) for hominin brain volume versus age indicate about hominin evolution, according to the provided text?",
+      "zh": "根据提供的文本，回归线（y = mx + b）中人科动物脑容量与年龄之间正斜率（m > 0）代表着人科动物进化的什么趋势？",
+      "es": "Según el texto proporcionado, ¿qué indica una pendiente positiva (m > 0) en la línea de regresión (y = mx + b) para el volumen cerebral de los homínidos frente a la edad sobre la evolución de los homínidos?",
+      "fr": "Selon le texte fourni, qu'indique une pente positive (m > 0) dans la ligne de régression (y = mx + b) pour le volume cérébral des hominidés par rapport à l'âge, concernant l'évolution des hominidés ?",
+      "de": "Was bedeutet laut dem bereitgestellten Text eine positive Steigung (m > 0) in der Regressionslinie (y = mx + b) für das Gehirnvolumen von Homininen im Verhältnis zum Alter bezüglich der Homininenentwicklung?",
+      "ja": "提供されたテキストによると、ホミニンの脳容積と年齢に関する回帰直線（y = mx + b）における正の傾き（m > 0）は、ホミニンの進化について何を示していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Mean brain volume decreased as hominin species evolved over time.",
+          "zh": "随着人科动物的进化，平均脑容量随时间减少。",
+          "es": "El volumen cerebral medio disminuyó a medida que las especies de homínidos evolucionaron con el tiempo.",
+          "fr": "Le volume cérébral moyen a diminué à mesure que les espèces d'hominidés ont évolué au fil du temps.",
+          "de": "Das durchschnittliche Gehirnvolumen nahm im Laufe der Evolution der Homininenarten ab.",
+          "ja": "ホミニン種の進化とともに、平均脳容積が時間とともに減少した。"
+        },
+        "feedback": {
+          "en": "A decrease would be indicated by a negative slope (m < 0).",
+          "zh": "减少应由负斜率（m < 0）表示。",
+          "es": "Una disminución sería indicada por una pendiente negativa (m < 0).",
+          "fr": "Une diminution serait indiquée par une pente négative (m < 0).",
+          "de": "Eine Abnahme würde durch eine negative Steigung (m < 0) angezeigt.",
+          "ja": "減少は負の傾き（m < 0）によって示されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Mean brain volume increased as hominin species evolved over time.",
+          "zh": "随着人科动物的进化，平均脑容量随时间增加。",
+          "es": "El volumen cerebral medio aumentó a medida que las especies de homínidos evolucionaron con el tiempo.",
+          "fr": "Le volume cérébral moyen a augmenté à mesure que les espèces d'hominidés ont évolué au fil du temps.",
+          "de": "Das durchschnittliche Gehirnvolumen nahm im Laufe der Evolution der Homininenarten zu.",
+          "ja": "ホミニン種の進化とともに、平均脳容積が時間とともに増加した。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Mean brain volume remained constant regardless of age.",
+          "zh": "无论年龄如何，平均脑容量保持不变。",
+          "es": "El volumen cerebral medio se mantuvo constante independientemente de la edad.",
+          "fr": "Le volume cérébral moyen est resté constant quel que soit l'âge.",
+          "de": "Das durchschnittliche Gehirnvolumen blieb unabhängig vom Alter konstant.",
+          "ja": "平均脳容積は年齢に関わらず一定であった。"
+        },
+        "feedback": {
+          "en": "A constant value would be indicated by a slope of zero (m = 0).",
+          "zh": "一个常数值应由斜率为零（m = 0）表示。",
+          "es": "Un valor constante sería indicado por una pendiente de cero (m = 0).",
+          "fr": "Une valeur constante serait indiquée par une pente nulle (m = 0).",
+          "de": "Ein konstanter Wert würde durch eine Steigung von Null (m = 0) angezeigt.",
+          "ja": "一定の値は傾きがゼロ（m = 0）であることを示します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The relationship between brain volume and age is not linear.",
+          "zh": "脑容量与年龄之间的关系不是线性的。",
+          "es": "La relación entre el volumen cerebral y la edad no es lineal.",
+          "fr": "La relation entre le volume cérébral et l'âge n'est pas linéaire.",
+          "de": "Der Zusammenhang zwischen Gehirnvolumen und Alter ist nicht linear.",
+          "ja": "脳容積と年齢の関係は線形ではない。"
+        },
+        "feedback": {
+          "en": "The question specifically asks about the interpretation of a positive slope in a linear regression, implying a linear relationship is being considered.",
+          "zh": "这个问题是关于线性回归中正斜率的解释，这意味着正在考虑线性关系。",
+          "es": "La pregunta se refiere específicamente a la interpretación de una pendiente positiva en una regresión lineal, lo que implica que se está considerando una relación lineal.",
+          "fr": "La question porte spécifiquement sur l'interprétation d'une pente positive dans une régression linéaire, ce qui implique qu'une relation linéaire est envisagée.",
+          "de": "Die Frage bezieht sich spezifisch auf die Interpretation einer positiven Steigung in einer linearen Regression, was impliziert, dass eine lineare Beziehung betrachtet wird.",
+          "ja": "この質問は、線形回帰における正の傾きの解釈について具体的に尋ねており、線形関係が考慮されていることを意味します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "According to the 'INTERPRET THE DATA' section, 'When m > 0, the line has a positive slope, meaning that the values of y become larger as values of x become larger.' In this context, y represents mean brain volume and x represents age. Therefore, a positive slope indicates that mean brain volume increased as hominin species evolved over time (as age values become less negative or more positive, moving closer to the present).",
+      "zh": "根据“解释数据”部分，“当 m > 0 时，直线具有正斜率，这意味着随着 x 值的增大，y 值也增大。”在此背景下，y 代表平均脑容量，x 代表年龄。因此，正斜率表明随着人科动物的进化（年龄值变得不那么负或更正，更接近现在），平均脑容量增加了。",
+      "es": "Según la sección 'INTERPRET THE DATA', 'Cuando m > 0, la línea tiene una pendiente positiva, lo que significa que los valores de y se hacen más grandes a medida que los valores de x se hacen más grandes.' En este contexto, y representa el volumen cerebral medio y x representa la edad. Por lo tanto, una pendiente positiva indica que el volumen cerebral medio aumentó a medida que las especies de homínidos evolucionaron con el tiempo (a medida que los valores de edad se vuelven menos negativos o más positivos, acercándose al presente).",
+      "fr": "Selon la section 'INTERPRET THE DATA', 'Lorsque m > 0, la ligne a une pente positive, ce qui signifie que les valeurs de y deviennent plus grandes à mesure que les valeurs de x deviennent plus grandes.' Dans ce contexte, y représente le volume cérébral moyen et x représente l'âge. Par conséquent, une pente positive indique que le volume cérébral moyen a augmenté à mesure que les espèces d'hominidés ont évolué au fil du temps (à mesure que les valeurs d'âge deviennent moins négatives ou plus positives, se rapprochant du présent).",
+      "de": "Gemäß dem Abschnitt 'INTERPRET THE DATA' bedeutet 'Wenn m > 0, hat die Linie eine positive Steigung, was bedeutet, dass die Werte von y größer werden, wenn die Werte von x größer werden.' In diesem Kontext repräsentiert y das mittlere Gehirnvolumen und x das Alter. Eine positive Steigung deutet daher darauf hin, dass das mittlere Gehirnvolumen zunahm, während sich die Homininenarten im Laufe der Zeit entwickelten (da die Altersangaben weniger negativ oder positiver werden und sich der Gegenwart nähern).",
+      "ja": "「データの解釈」セクションによると、「m > 0 の場合、線は正の傾きを持ち、x の値が大きくなるにつれて y の値が大きくなることを意味します。」この文脈では、y は平均脳容積を表し、x は年齢を表します。したがって、正の傾きは、ホミニン種が進化するにつれて（年齢の値が負から正に近づくにつれて、現在に近づくにつれて）、平均脳容積が増加したことを示しています。"
+    }
+  },
+  {
+    "page_number": 800,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the provided text, what is the initial step required before calculating the standard deviations (s_x, s_y) and the correlation coefficient (r) for the given data set?",
+      "zh": "根据提供的文本，在计算给定数据集的标准差（s_x, s_y）和相关系数（r）之前，需要执行的初始步骤是什么？",
+      "es": "Según el texto proporcionado, ¿cuál es el paso inicial requerido antes de calcular las desviaciones estándar (s_x, s_y) y el coeficiente de correlación (r) para el conjunto de datos dado?",
+      "fr": "Selon le texte fourni, quelle est l'étape initiale requise avant de calculer les écarts types (s_x, s_y) et le coefficient de corrélation (r) pour l'ensemble de données donné ?",
+      "de": "Was ist laut dem bereitgestellten Text der erste notwendige Schritt, bevor die Standardabweichungen (s_x, s_y) und der Korrelationskoeffizient (r) für den gegebenen Datensatz berechnet werden können?",
+      "ja": "提供されたテキストによると、与えられたデータセットの標準偏差（s_x, s_y）と相関係数（r）を計算する前に必要な最初のステップは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Plotting the regression line on a graph.",
+          "zh": "在图表上绘制回归线。",
+          "es": "Trazar la línea de regresión en un gráfico.",
+          "fr": "Tracer la ligne de régression sur un graphique.",
+          "de": "Die Regressionslinie auf einem Diagramm einzeichnen.",
+          "ja": "回帰直線をグラフにプロットする。"
+        },
+        "feedback": {
+          "en": "Plotting the regression line is typically done after calculating its slope and y-intercept, which depend on r, sx, and sy.",
+          "zh": "绘制回归线通常是在计算其斜率和 y 轴截距之后进行的，这些都取决于 r、sx 和 sy。",
+          "es": "Trazar la línea de regresión se hace normalmente después de calcular su pendiente y su intersección en y, que dependen de r, sx y sy.",
+          "fr": "Le traçage de la ligne de régression est généralement effectué après le calcul de sa pente et de son ordonnée à l'origine, qui dépendent de r, sx et sy.",
+          "de": "Das Einzeichnen der Regressionslinie erfolgt in der Regel, nachdem deren Steigung und y-Achsenabschnitt berechnet wurden, welche von r, sx und sy abhängen.",
+          "ja": "回帰直線のプロットは通常、傾きとy切片の計算後に行われます。これらはr、sx、syに依存します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Calculating the mean age (x̄) and mean brain volume (ȳ).",
+          "zh": "计算平均年龄 (x̄) 和平均脑容量 (ȳ)。",
+          "es": "Calcular la edad media (x̄) y el volumen cerebral medio (ȳ).",
+          "fr": "Calculer l'âge moyen (x̄) et le volume cérébral moyen (ȳ).",
+          "de": "Das mittlere Alter (x̄) und das mittlere Gehirnvolumen (ȳ) berechnen.",
+          "ja": "平均年齢 (x̄) と平均脳容積 (ȳ) を計算する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Determining the expected brain volume for a specific hominin.",
+          "zh": "确定特定人科动物的预期脑容量。",
+          "es": "Determinar el volumen cerebral esperado para un homínido específico.",
+          "fr": "Déterminer le volume cérébral attendu pour un hominidé spécifique.",
+          "de": "Das erwartete Gehirnvolumen für einen bestimmten Homininen bestimmen.",
+          "ja": "特定のホミニンの予想される脳容積を決定する。"
+        },
+        "feedback": {
+          "en": "This is an application of the regression line, which comes after all the initial calculations.",
+          "zh": "这是回归线的应用，它在所有初始计算之后进行。",
+          "es": "Esto es una aplicación de la línea de regresión, que viene después de todos los cálculos iniciales.",
+          "fr": "C'est une application de la ligne de régression, qui intervient après tous les calculs initiaux.",
+          "de": "Dies ist eine Anwendung der Regressionslinie, die nach allen anfänglichen Berechnungen erfolgt.",
+          "ja": "これは回帰線の応用であり、すべての初期計算の後に行われます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Estimating the time for brain volume to increase by 100 cm³.",
+          "zh": "估计脑容量增加 100 立方厘米所需的时间。",
+          "es": "Estimar el tiempo para que el volumen cerebral aumente en 100 cm³.",
+          "fr": "Estimer le temps nécessaire pour que le volume cérébral augmente de 100 cm³.",
+          "de": "Die Zeit schätzen, die das Gehirnvolumen benötigt, um um 100 cm³ zuzunehmen.",
+          "ja": "脳容積が100 cm³増加するのにかかる時間を推定する。"
+        },
+        "feedback": {
+          "en": "This task is presented as question 6 and requires the slope (m) to be known, which depends on prior calculations.",
+          "zh": "此任务作为问题 6 提出，需要知道斜率 (m)，而斜率又取决于先前的计算。",
+          "es": "Esta tarea se presenta como la pregunta 6 y requiere que se conozca la pendiente (m), que depende de cálculos previos.",
+          "fr": "Cette tâche est présentée comme la question 6 et nécessite la connaissance de la pente (m), qui dépend des calculs précédents.",
+          "de": "Diese Aufgabe wird als Frage 6 gestellt und erfordert die Kenntnis der Steigung (m), die wiederum von vorherigen Berechnungen abhängt.",
+          "ja": "このタスクは質問6として提示されており、事前の計算に依存する傾き（m）が既知である必要があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Question 1 explicitly states: 'Calculate the means (x̄ and ȳ) from the n = 8 data points in the table. Next, fill in the (xᵢ – x̄) and (yᵢ – ȳ) columns in the data table, and use those results to calculate the standard deviations sₓ and sᵧ.' Therefore, calculating the means is the very first step.",
+      "zh": "问题 1 明确指出：“从表中 n = 8 个数据点计算平均值（x̄ 和 ȳ）。接下来，填写数据表中的（xᵢ – x̄）和（yᵢ – ȳ）列，并使用这些结果计算标准差 sₓ 和 sᵧ。”因此，计算平均值是第一步。",
+      "es": "La pregunta 1 establece explícitamente: 'Calcule las medias (x̄ e ȳ) a partir de los n = 8 puntos de datos de la tabla. A continuación, rellene las columnas (xᵢ – x̄) y (yᵢ – ȳ) en la tabla de datos, y utilice esos resultados para calcular las desviaciones estándar sₓ y sᵧ.' Por lo tanto, calcular las medias es el primer paso.",
+      "fr": "La question 1 stipule explicitement : 'Calculez les moyennes (x̄ et ȳ) à partir des n = 8 points de données du tableau. Ensuite, remplissez les colonnes (xᵢ – x̄) et (yᵢ – ȳ) dans le tableau de données, et utilisez ces résultats pour calculer les écarts types sₓ et sᵧ.' Par conséquent, le calcul des moyennes est la toute première étape.",
+      "de": "Frage 1 besagt explizit: 'Berechnen Sie die Mittelwerte (x̄ und ȳ) aus den n = 8 Datenpunkten in der Tabelle. Füllen Sie als Nächstes die Spalten (xᵢ – x̄) und (yᵢ – ȳ) in der Datentabelle aus und verwenden Sie diese Ergebnisse zur Berechnung der Standardabweichungen sₓ und sᵧ.' Daher ist die Berechnung der Mittelwerte der allererste Schritt.",
+      "ja": "質問1では、「表のn = 8個のデータポイントから平均（x̄とȳ）を計算します。次に、データ表の（xᵢ – x̄）と（yᵢ – ȳ）の列を埋め、これらの結果を使用して標準偏差sₓとsᵧを計算します。」と明示されています。したがって、平均の計算が最初のステップです。"
+    }
+  },
+  {
+    "page_number": 800,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the introductory text, how does the brain volume of the earliest hominins compare to that of chimpanzees and modern humans?",
+      "zh": "根据导言文本，最早的人科动物的脑容量与黑猩猩和现代人类的脑容量相比如何？",
+      "es": "Según el texto introductorio, ¿cómo se compara el volumen cerebral de los homínidos más tempranos con el de los chimpancés y los humanos modernos?",
+      "fr": "Selon le texte d'introduction, comment le volume cérébral des premiers hominidés se compare-t-il à celui des chimpanzés et des humains modernes ?",
+      "de": "Wie verhält sich das Gehirnvolumen der frühesten Homininen laut dem Einleitungstext im Vergleich zu dem von Schimpansen und modernen Menschen?",
+      "ja": "序文のテキストによると、最も初期のホミニンの脳容積は、チンパンジーや現代人の脳容積と比較してどうでしたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Similar to modern humans and much larger than chimpanzees.",
+          "zh": "与现代人类相似，且远大于黑猩猩。",
+          "es": "Similar a los humanos modernos y mucho mayor que los chimpancés.",
+          "fr": "Similaire aux humains modernes et beaucoup plus grand que les chimpanzés.",
+          "de": "Ähnlich dem modernen Menschen und viel größer als Schimpansen.",
+          "ja": "現代人と同じくらいで、チンパンジーよりもはるかに大きかった。"
+        },
+        "feedback": {
+          "en": "The text states early hominin brain volume was 'similar to the brain volume of chimpanzees' and modern human volumes are much larger (1,200-1,800 cm³ vs. 300-450 cm³).",
+          "zh": "文本指出早期人科动物的脑容量“与黑猩猩的脑容量相似”，而现代人类的脑容量则大得多（1,200-1,800 cm³ 对比 300-450 cm³）。",
+          "es": "El texto afirma que el volumen cerebral de los primeros homínidos era 'similar al volumen cerebral de los chimpancés' y que los volúmenes de los humanos modernos son mucho mayores (1.200-1.800 cm³ frente a 300-450 cm³).",
+          "fr": "Le texte indique que le volume cérébral des premiers hominidés était 'similaire au volume cérébral des chimpanzés' et que les volumes des humains modernes sont beaucoup plus grands (1 200-1 800 cm³ contre 300-450 cm³).",
+          "de": "Der Text besagt, dass das Gehirnvolumen früher Homininen 'ähnlich dem Gehirnvolumen von Schimpansen' war und das Volumen moderner Menschen viel größer ist (1.200-1.800 cm³ gegenüber 300-450 cm³).",
+          "ja": "テキストには、初期のホミニンの脳容積は「チンパンジーの脳容積に似ていた」とあり、現代人の容積ははるかに大きい（1,200-1,800 cm³ 対 300-450 cm³）と述べられています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Similar to chimpanzees, while modern humans have significantly larger brain volumes.",
+          "zh": "与黑猩猩相似，而现代人类的脑容量则显著更大。",
+          "es": "Similar a los chimpancés, mientras que los humanos modernos tienen volúmenes cerebrales significativamente mayores.",
+          "fr": "Similaire aux chimpanzés, tandis que les humains modernes ont des volumes cérébraux significativement plus grands.",
+          "de": "Ähnlich den Schimpansen, während moderne Menschen deutlich größere Gehirnvolumen besitzen.",
+          "ja": "チンパンジーに似ており、現代人は著しく大きな脳容積を持っている。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Much larger than both chimpanzees and modern humans.",
+          "zh": "远大于黑猩猩和现代人类。",
+          "es": "Mucho mayor que los chimpancés y los humanos modernos.",
+          "fr": "Beaucoup plus grand que les chimpanzés et les humains modernes.",
+          "de": "Viel größer als sowohl Schimpansen als auch moderne Menschen.",
+          "ja": "チンパンジーと現代人の両方よりもはるかに大きかった。"
+        },
+        "feedback": {
+          "en": "This contradicts the information provided. Early hominin brain volume was similar to chimpanzees, and significantly smaller than modern humans.",
+          "zh": "这与提供的信息相矛盾。早期人科动物的脑容量与黑猩猩相似，且显著小于现代人类。",
+          "es": "Esto contradice la información proporcionada. El volumen cerebral de los primeros homínidos era similar al de los chimpancés y significativamente menor que el de los humanos modernos.",
+          "fr": "Cela contredit les informations fournies. Le volume cérébral des premiers hominidés était similaire à celui des chimpanzés et significativement plus petit que celui des humains modernes.",
+          "de": "Dies widerspricht den bereitgestellten Informationen. Das Gehirnvolumen früher Homininen war dem von Schimpansen ähnlich und deutlich kleiner als das von modernen Menschen.",
+          "ja": "これは提供された情報と矛盾します。初期のホミニンの脳容積はチンパンジーと似ており、現代人よりも著しく小さかった。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Similar to chimpanzees and also similar to modern humans.",
+          "zh": "与黑猩猩相似，也与现代人类相似。",
+          "es": "Similar a los chimpancés y también similar a los humanos modernos.",
+          "fr": "Similaire aux chimpanzés et aussi similaire aux humains modernes.",
+          "de": "Ähnlich den Schimpansen und auch ähnlich den modernen Menschen.",
+          "ja": "チンパンジーと似ており、現代人とも似ていた。"
+        },
+        "feedback": {
+          "en": "While similar to chimpanzees, early hominin brain volume was considerably smaller than that of modern humans.",
+          "zh": "虽然与黑猩猩相似，但早期人科动物的脑容量远小于现代人类。",
+          "es": "Aunque similar a los chimpancés, el volumen cerebral de los primeros homínidos era considerablemente menor que el de los humanos modernos.",
+          "fr": "Bien que similaire aux chimpanzés, le volume cérébral des premiers hominidés était considérablement plus petit que celui des humains modernes.",
+          "de": "Obwohl das Gehirnvolumen früher Homininen dem von Schimpansen ähnelte, war es deutlich kleiner als das der modernen Menschen.",
+          "ja": "チンパンジーに似ていたとはいえ、初期のホミニンの脳容積は現代人のそれよりもかなり小さかった。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The first paragraph of 'How Has Brain Volume Changed Over Time in the Hominin Lineage?' states: 'the brain volume of the earliest hominins ranged between 300 and 450 cm³, similar to the brain volume of chimpanzees. The brain volumes of modern humans range between 1,200 and 1,800 cm³.' This clearly indicates that early hominin brain volume was similar to chimpanzees but much smaller than modern humans.",
+      "zh": "“人科动物的脑容量如何随时间变化？”的第一段指出：“最早的人科动物的脑容量介于 300 到 450 立方厘米之间，与黑猩猩的脑容量相似。现代人类的脑容量介于 1,200 到 1,800 立方厘米之间。”这清楚地表明，早期人科动物的脑容量与黑猩猩相似，但远小于现代人类。",
+      "es": "El primer párrafo de '¿Cómo ha cambiado el volumen cerebral a lo largo del tiempo en el linaje homínido?' establece: 'el volumen cerebral de los homínidos más tempranos osciló entre 300 y 450 cm³, similar al volumen cerebral de los chimpancés. Los volúmenes cerebrales de los humanos modernos oscilan entre 1.200 y 1.800 cm³.' Esto indica claramente que el volumen cerebral de los primeros homínidos era similar al de los chimpancés pero mucho menor que el de los humanos modernos.",
+      "fr": "Le premier paragraphe de 'Comment le volume cérébral a-t-il changé au fil du temps dans la lignée hominidée ?' indique : 'le volume cérébral des premiers hominidés variait entre 300 et 450 cm³, similaire au volume cérébral des chimpanzés. Les volumes cérébraux des humains modernes varient entre 1 200 et 1 800 cm³.' Cela indique clairement que le volume cérébral des premiers hominidés était similaire à celui des chimpanzés mais beaucoup plus petit que celui des humains modernes.",
+      "de": "Der erste Absatz von 'Wie hat sich das Gehirnvolumen im Laufe der Homininenlinie verändert?' besagt: 'Das Gehirnvolumen der frühesten Homininen lag zwischen 300 und 450 cm³, ähnlich dem Gehirnvolumen von Schimpansen. Das Gehirnvolumen moderner Menschen liegt zwischen 1.200 und 1.800 cm³.' Dies zeigt deutlich, dass das Gehirnvolumen früher Homininen dem von Schimpansen ähnelte, aber viel kleiner war als das von modernen Menschen.",
+      "ja": "「ホミニン系統における脳容積の経時的変化は？」の最初の段落には、「最も初期のホミニンの脳容積は300から450 cm³の範囲であり、チンパンジーの脳容積に似ていました。現代人の脳容積は1,200から1,800 cm³の範囲です。」と記されています。これは、初期のホミニンの脳容積がチンパンジーと似ていたものの、現代人よりもはるかに小さかったことを明確に示しています。"
+    }
+  },
+  {
+    "page_number": 800,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "If a hypothetical linear regression for hominin brain volume (y) versus age (x) yielded a slope (m) of 200 cm³/million years and a y-intercept (b) of 1350 cm³, what would be the expected mean brain volume for a hominin species that lived 3 million years ago (x = -3)?",
+      "zh": "如果人科动物脑容量（y）与年龄（x）的假设线性回归得到斜率（m）为 200 cm³/百万年，y 轴截距（b）为 1350 cm³，那么生活在 300 万年前（x = -3）的人科动物物种的预期平均脑容量是多少？",
+      "es": "Si una regresión lineal hipotética para el volumen cerebral de homínidos (y) versus la edad (x) arrojara una pendiente (m) de 200 cm³/millón de años y una intersección en y (b) de 1350 cm³, ¿cuál sería el volumen cerebral medio esperado para una especie de homínido que vivió hace 3 millones de años (x = -3)?",
+      "fr": "Si une régression linéaire hypothétique pour le volume cérébral des hominidés (y) en fonction de l'âge (x) donnait une pente (m) de 200 cm³/million d'années et une ordonnée à l'origine (b) de 1350 cm³, quel serait le volume cérébral moyen attendu pour une espèce d'hominidé ayant vécu il y a 3 millions d'années (x = -3) ?",
+      "de": "Wenn eine hypothetische lineare Regression für das Gehirnvolumen (y) von Homininen im Verhältnis zum Alter (x) eine Steigung (m) von 200 cm³/Million Jahre und einen y-Achsenabschnitt (b) von 1350 cm³ ergäbe, welches wäre das erwartete mittlere Gehirnvolumen für eine Homininenart, die vor 3 Millionen Jahren lebte (x = -3)?",
+      "ja": "もし、ホミニンの脳容積（y）と年齢（x）の仮想的な線形回帰において、傾き（m）が200 cm³/百万年、y切片（b）が1350 cm³であった場合、300万年前（x = -3）に生息していたホミニン種の平均脳容積はどれくらいと予測されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "750 cm³",
+          "zh": "750 cm³",
+          "es": "750 cm³",
+          "fr": "750 cm³",
+          "de": "750 cm³",
+          "ja": "750 cm³"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "1950 cm³",
+          "zh": "1950 cm³",
+          "es": "1950 cm³",
+          "fr": "1950 cm³",
+          "de": "1950 cm³",
+          "ja": "1950 cm³"
+        },
+        "feedback": {
+          "en": "The calculation should be y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³. This option might result from using a positive x value (3 instead of -3).",
+          "zh": "计算应为 y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³。此选项可能是因为使用了正的 x 值（3 而不是 -3）。",
+          "es": "El cálculo debe ser y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³. Esta opción podría ser el resultado de usar un valor de x positivo (3 en lugar de -3).",
+          "fr": "Le calcul doit être y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³. Cette option pourrait résulter de l'utilisation d'une valeur x positive (3 au lieu de -3).",
+          "de": "Die Berechnung sollte y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³ sein. Diese Option könnte sich ergeben, wenn ein positiver x-Wert (3 statt -3) verwendet wurde.",
+          "ja": "計算は y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³ となります。この選択肢は、正のx値（-3ではなく3）を使用した場合に生じる可能性があります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "1150 cm³",
+          "zh": "1150 cm³",
+          "es": "1150 cm³",
+          "fr": "1150 cm³",
+          "de": "1150 cm³",
+          "ja": "1150 cm³"
+        },
+        "feedback": {
+          "en": "The calculation should be y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³.",
+          "zh": "计算应为 y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³。",
+          "es": "El cálculo debe ser y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³.",
+          "fr": "Le calcul doit être y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³.",
+          "de": "Die Berechnung sollte y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³ sein.",
+          "ja": "計算は y = m*x + b = 200*(-3) + 1350 = -600 + 1350 = 750 cm³ となります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "1400 cm³",
+          "zh": "1400 cm³",
+          "es": "1400 cm³",
+          "fr": "1400 cm³",
+          "de": "1400 cm³",
+          "ja": "1400 cm³"
+        },
+        "feedback": {
+          "en": "This value is present in the data table for Homo neanderthalensis but is not the result of applying the given regression equation.",
+          "zh": "该值存在于尼安德特人（Homo neanderthalensis）的数据表中，但不是应用给定回归方程的结果。",
+          "es": "Este valor está presente en la tabla de datos para Homo neanderthalensis pero no es el resultado de aplicar la ecuación de regresión dada.",
+          "fr": "Cette valeur est présente dans le tableau de données pour Homo neanderthalensis mais n'est pas le résultat de l'application de l'équation de régression donnée.",
+          "de": "Dieser Wert ist in der Datentabelle für Homo neanderthalensis vorhanden, ist aber nicht das Ergebnis der Anwendung der gegebenen Regressionsgleichung.",
+          "ja": "この値はホモ・ネアンデルターレンシスのデータ表に存在しますが、与えられた回帰方程式を適用した結果ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The problem provides the linear regression equation form y = mx + b, along with hypothetical values for m (slope), b (y-intercept), and x (age). The age '3 million years ago' corresponds to x = -3 (as per the definition that negative values represent millions of years before the present). Substituting the values: y = (200 cm³/million years) * (-3 million years) + 1350 cm³ = -600 cm³ + 1350 cm³ = 750 cm³.",
+      "zh": "问题提供了线性回归方程形式 y = mx + b，以及 m（斜率）、b（y 轴截距）和 x（年龄）的假设值。“300 万年前”的年龄对应 x = -3（根据负值代表现在之前百万年的定义）。代入数值：y = (200 cm³/百万年) * (-3 百万年) + 1350 cm³ = -600 cm³ + 1350 cm³ = 750 cm³。",
+      "es": "El problema proporciona la forma de la ecuación de regresión lineal y = mx + b, junto con valores hipotéticos para m (pendiente), b (intersección en y) y x (edad). La edad 'hace 3 millones de años' corresponde a x = -3 (según la definición de que los valores negativos representan millones de años antes del presente). Sustituyendo los valores: y = (200 cm³/millón de años) * (-3 millones de años) + 1350 cm³ = -600 cm³ + 1350 cm³ = 750 cm³.",
+      "fr": "Le problème fournit la forme de l'équation de régression linéaire y = mx + b, ainsi que des valeurs hypothétiques pour m (pente), b (ordonnée à l'origine) et x (âge). L'âge 'il y a 3 millions d'années' correspond à x = -3 (selon la définition selon laquelle les valeurs négatives représentent des millions d'années avant le présent). En substituant les valeurs : y = (200 cm³/million d'années) * (-3 millions d'années) + 1350 cm³ = -600 cm³ + 1350 cm³ = 750 cm³.",
+      "de": "Die Aufgabe liefert die Form der linearen Regressionsgleichung y = mx + b zusammen mit hypothetischen Werten für m (Steigung), b (y-Achsenabschnitt) und x (Alter). Das Alter 'vor 3 Millionen Jahren' entspricht x = -3 (gemäß der Definition, dass negative Werte Millionen Jahre vor der Gegenwart repräsentieren). Einsetzen der Werte: y = (200 cm³/Million Jahre) * (-3 Millionen Jahre) + 1350 cm³ = -600 cm³ + 1350 cm³ = 750 cm³.",
+      "ja": "問題では、線形回帰方程式の形式 y = mx + b と、m（傾き）、b（y切片）、x（年齢）の仮説値が与えられています。「300万年前」という年齢は x = -3 に対応します（負の値が現在より前の数百万年を表すという定義による）。値を代入すると：y = (200 cm³/百万年) * (-3 百万年) + 1350 cm³ = -600 cm³ + 1350 cm³ = 750 cm³。"
+    }
+  }
+]

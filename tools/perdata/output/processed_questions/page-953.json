@@ -1,0 +1,326 @@
+[
+  {
+    "page_number": 953,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the provided text, what is the primary evolutionary adaptation that allows animals to avoid digesting their own cells and tissues?",
+      "zh": "根据提供的文本，动物避免消化自身细胞和组织的主要进化适应性是什么？",
+      "es": "Según el texto proporcionado, ¿cuál es la principal adaptación evolutiva que permite a los animales evitar digerir sus propias células y tejidos?",
+      "fr": "Selon le texte fourni, quelle est la principale adaptation évolutive qui permet aux animaux d'éviter de digérer leurs propres cellules et tissus ?",
+      "de": "Laut dem bereitgestellten Text, welche ist die primäre evolutionäre Anpassung, die es Tieren ermöglicht, ihre eigenen Zellen und Gewebe nicht zu verdauen?",
+      "ja": "提供されたテキストによると、動物が自身の細胞や組織を消化するのを避けるための主な進化的適応は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The process of absorption of nutrients.",
+          "zh": "营养物质的吸收过程。",
+          "es": "El proceso de absorción de nutrientes.",
+          "fr": "Le processus d'absorption des nutriments.",
+          "de": "Der Prozess der Nährstoffaufnahme.",
+          "ja": "栄養素の吸収プロセス。"
+        },
+        "feedback": {
+          "en": "Absorption is the uptake of nutrients after digestion, not the mechanism to prevent self-digestion.",
+          "zh": "吸收是消化后营养物质的摄取，而不是防止自身消化的机制。",
+          "es": "La absorción es la captación de nutrientes después de la digestión, no el mecanismo para prevenir la autodigestión.",
+          "fr": "L'absorption est l'assimilation des nutriments après la digestion, pas le mécanisme pour prévenir l'auto-digestion.",
+          "de": "Absorption ist die Aufnahme von Nährstoffen nach der Verdauung, nicht der Mechanismus zur Verhinderung der Selbstverdauung.",
+          "ja": "吸収は消化後の栄養素の取り込みであり、自己消化を防ぐメカニズムではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The breakdown of food solely through mechanical digestion.",
+          "zh": "食物仅通过机械消化分解。",
+          "es": "La descomposición de los alimentos únicamente a través de la digestión mecánica.",
+          "fr": "La dégradation des aliments uniquement par digestion mécanique.",
+          "de": "Der Abbau von Nahrung ausschließlich durch mechanische Verdauung.",
+          "ja": "食物が機械的消化のみによって分解されること。"
+        },
+        "feedback": {
+          "en": "While mechanical digestion occurs, it alone does not prevent self-digestion, and chemical digestion is also crucial.",
+          "zh": "虽然会发生机械消化，但仅凭它不能防止自身消化，化学消化也至关重要。",
+          "es": "Aunque ocurre la digestión mecánica, por sí sola no previene la autodigestión, y la digestión química también es crucial.",
+          "fr": "Bien que la digestion mécanique se produise, elle seule ne prévient pas l'auto-digestion, et la digestion chimique est également cruciale.",
+          "de": "Obwohl mechanische Verdauung stattfindet, verhindert sie allein nicht die Selbstverdauung, und die chemische Verdauung ist ebenfalls entscheidend.",
+          "ja": "機械的消化は行われますが、それだけでは自己消化を防ぐことはできず、化学的消化も不可欠です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The processing of food within specialized intracellular or extracellular compartments.",
+          "zh": "在特化的细胞内或细胞外腔室中处理食物。",
+          "es": "El procesamiento de alimentos dentro de compartimentos intracelulares o extracelulares especializados.",
+          "fr": "Le traitement des aliments dans des compartiments intracellulaires ou extracellulaires spécialisés.",
+          "de": "Die Verarbeitung von Nahrung in spezialisierten intrazellulären oder extrazellulären Kompartimenten.",
+          "ja": "特殊な細胞内または細胞外の区画で食物を処理すること。"
+        },
+        "feedback": {
+          "en": "Correct. This strategy spatially separates digestive enzymes from the organism's own cells.",
+          "zh": "正确。这种策略将消化酶与生物体自身的细胞空间分隔开来。",
+          "es": "Correcto. Esta estrategia separa espacialmente las enzimas digestivas de las propias células del organismo.",
+          "fr": "Correct. Cette stratégie sépare spatialement les enzymes digestives des propres cellules de l'organisme.",
+          "de": "Korrekt. Diese Strategie trennt Verdauungsenzyme räumlich von den eigenen Zellen des Organismus.",
+          "ja": "正しい。この戦略は、消化酵素を生物自身の細胞から空間的に分離します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The rapid elimination of undigested materials.",
+          "zh": "未消化物质的快速清除。",
+          "es": "La rápida eliminación de materiales no digeridos.",
+          "fr": "L'élimination rapide des matières non digérées.",
+          "de": "Die schnelle Ausscheidung unverdaulicher Materialien.",
+          "ja": "未消化物の迅速な排出。"
+        },
+        "feedback": {
+          "en": "Elimination is the final stage of food processing, removing waste, but does not prevent self-digestion during the digestion phase.",
+          "zh": "排泄是食物处理的最后阶段，旨在清除废物，但不能防止消化阶段的自身消化。",
+          "es": "La eliminación es la etapa final del procesamiento de alimentos, que elimina los desechos, pero no previene la autodigestión durante la fase de digestión.",
+          "fr": "L'élimination est la dernière étape du traitement des aliments, qui élimine les déchets, mais elle n'empêche pas l'auto-digestion pendant la phase de digestion.",
+          "de": "Die Ausscheidung ist die letzte Phase der Nahrungsverarbeitung, bei der Abfallstoffe entfernt werden, verhindert aber nicht die Selbstverdauung während der Verdauungsphase.",
+          "ja": "排泄は食物処理の最終段階であり、老廃物を除去しますが、消化段階での自己消化を防ぐものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: \"The evolutionary adaptation that allows animals to avoid self-digestion is the processing of food within specialized intracellular or extracellular compartments.\" This directly supports option C. Other options describe different aspects of digestion but not the primary adaptation for avoiding self-digestion as stated in the text.",
+      "zh": "文本明确指出：“动物避免自身消化的进化适应性是在特化的细胞内或细胞外腔室中处理食物。”这直接支持了选项 C。其他选项描述了消化的不同方面，但并非文本中指出的避免自身消化的主要适应性。",
+      "es": "El texto establece explícitamente: \"La adaptación evolutiva que permite a los animales evitar la autodigestión es el procesamiento de alimentos dentro de compartimentos intracelulares o extracelulares especializados.\" Esto apoya directamente la opción C. Las otras opciones describen diferentes aspectos de la digestión, pero no la adaptación principal para evitar la autodigestión, como se indica en el texto.",
+      "fr": "Le texte indique explicitement : « L'adaptation évolutive qui permet aux animaux d'éviter l'auto-digestion est le traitement de la nourriture à l'intérieur de compartiments intracellulaires ou extracellulaires spécialisés. » Cela soutient directement l'option C. Les autres options décrivent différents aspects de la digestion mais pas l'adaptation principale pour éviter l'auto-digestion telle que décrite dans le texte.",
+      "de": "Der Text besagt explizit: „Die evolutionäre Anpassung, die es Tieren ermöglicht, die Selbstverdauung zu vermeiden, ist die Verarbeitung von Nahrung in spezialisierten intrazellulären oder extrazellulären Kompartimenten.“ Dies unterstützt direkt Option C. Andere Optionen beschreiben verschiedene Aspekte der Verdauung, aber nicht die primäre Anpassung zur Vermeidung der Selbstverdauung, wie im Text angegeben.",
+      "ja": "テキストには「動物が自己消化を避けることを可能にする進化的適応は、特殊な細胞内または細胞外の区画内での食物処理である」と明示されています。これは直接的にオプションCを支持しています。他の選択肢は消化の異なる側面を記述していますが、テキストに記載されている自己消化を避けるための主要な適応ではありません。"
+    }
+  },
+  {
+    "page_number": 953,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text describes enzymatic hydrolysis as a critical process in chemical digestion. Which statement accurately characterizes enzymatic hydrolysis based on the provided information?",
+      "zh": "文本将酶促水解描述为化学消化中的一个关键过程。根据所提供的信息，哪个陈述准确地描述了酶促水解？",
+      "es": "El texto describe la hidrólisis enzimática como un proceso crítico en la digestión química. ¿Qué afirmación caracteriza con precisión la hidrólisis enzimática basándose en la información proporcionada?",
+      "fr": "Le texte décrit l'hydrolyse enzymatique comme un processus critique dans la digestion chimique. Quelle affirmation caractérise précisément l'hydrolyse enzymatique selon les informations fournies ?",
+      "de": "Der Text beschreibt die enzymatische Hydrolyse als einen kritischen Prozess bei der chemischen Verdauung. Welche Aussage charakterisiert die enzymatische Hydrolyse basierend auf den bereitgestellten Informationen genau?",
+      "ja": "テキストでは、酵素加水分解を化学消化における重要なプロセスとして説明しています。提供された情報に基づくと、酵素加水分解を正確に特徴づける記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It involves the linking together of smaller components with the release of a water molecule.",
+          "zh": "它涉及较小组分的连接并释放水分子。",
+          "es": "Implica la unión de componentes más pequeños con la liberación de una molécula de agua.",
+          "fr": "Cela implique la liaison de composants plus petits avec la libération d'une molécule d'eau.",
+          "de": "Es beinhaltet die Verknüpfung kleinerer Komponenten unter Freisetzung eines Wassermoleküls.",
+          "ja": "より小さな成分が結合し、水分子が放出されるプロセスです。"
+        },
+        "feedback": {
+          "en": "This describes dehydration synthesis or condensation reaction, which is the opposite of hydrolysis.",
+          "zh": "这描述的是脱水合成或缩合反应，与水解相反。",
+          "es": "Esto describe la síntesis por deshidratación o reacción de condensación, que es lo opuesto a la hidrólisis.",
+          "fr": "Ceci décrit la synthèse par déshydratation ou la réaction de condensation, qui est l'opposé de l'hydrolyse.",
+          "de": "Dies beschreibt die Dehydratationssynthese oder Kondensationsreaktion, die das Gegenteil der Hydrolyse ist.",
+          "ja": "これは脱水合成または縮合反応であり、加水分解とは逆のプロセスです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It is the process where bonds in large molecules are broken through the addition of water.",
+          "zh": "它是大分子中的键通过加水而断裂的过程。",
+          "es": "Es el proceso donde los enlaces en moléculas grandes se rompen mediante la adición de agua.",
+          "fr": "C'est le processus par lequel les liaisons des grandes molécules sont rompues par l'ajout d'eau.",
+          "de": "Es ist der Prozess, bei dem Bindungen in großen Molekülen durch die Zugabe von Wasser gebrochen werden.",
+          "ja": "水分子の付加によって、高分子の結合が切断されるプロセスです。"
+        },
+        "feedback": {
+          "en": "Correct. Enzymatic hydrolysis uses water to cleave chemical bonds in macromolecules, breaking them down into smaller units.",
+          "zh": "正确。酶促水解利用水来裂解大分子中的化学键，将其分解成更小的单位。",
+          "es": "Correcto. La hidrólisis enzimática utiliza agua para romper los enlaces químicos en las macromoléculas, descomponiéndolas en unidades más pequeñas.",
+          "fr": "Correct. L'hydrolyse enzymatique utilise l'eau pour cliver les liaisons chimiques des macromolécules, les décomposant en unités plus petites.",
+          "de": "Korrekt. Die enzymatische Hydrolyse nutzt Wasser, um chemische Bindungen in Makromolekülen zu spalten und sie in kleinere Einheiten zu zerlegen.",
+          "ja": "正しい。酵素加水分解は水を利用して高分子の化学結合を切断し、より小さな単位に分解します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is the engulfment of solid food particles by a cell, such as phagocytosis.",
+          "zh": "它是细胞吞噬固体食物颗粒的过程，例如吞噬作用。",
+          "es": "Es la ingestión de partículas de alimentos sólidos por una célula, como la fagocitosis.",
+          "fr": "C'est l'ingestion de particules alimentaires solides par une cellule, comme la phagocytose.",
+          "de": "Es ist die Aufnahme fester Nahrungspartikel durch eine Zelle, wie Phagozytose.",
+          "ja": "食細胞が固形食物粒子を取り込むプロセスであり、食作用などがこれに当たります。"
+        },
+        "feedback": {
+          "en": "This describes a form of ingestion or cellular uptake, not the chemical breakdown process itself.",
+          "zh": "这描述的是摄食或细胞摄取的一种形式，而不是化学分解过程本身。",
+          "es": "Esto describe una forma de ingestión o captación celular, no el proceso de descomposición química en sí mismo.",
+          "fr": "Ceci décrit une forme d'ingestion ou d'absorption cellulaire, et non le processus de dégradation chimique lui-même.",
+          "de": "Dies beschreibt eine Form der Nahrungsaufnahme oder zellulären Aufnahme, nicht den chemischen Abbauprozess selbst.",
+          "ja": "これは摂取または細胞取り込みの一種であり、化学的分解プロセスそのものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It primarily occurs via mechanical grinding of food particles to increase surface area.",
+          "zh": "它主要通过食物颗粒的机械研磨来增加表面积。",
+          "es": "Ocurre principalmente a través de la molienda mecánica de partículas de alimentos para aumentar la superficie.",
+          "fr": "Cela se produit principalement par broyage mécanique des particules alimentaires pour augmenter la surface.",
+          "de": "Es erfolgt hauptsächlich durch mechanisches Zerkleinern von Nahrungspartikeln, um die Oberfläche zu vergrößern.",
+          "ja": "主に食物粒子の機械的粉砕によって表面積を増大させます。"
+        },
+        "feedback": {
+          "en": "Mechanical digestion involves physical grinding, whereas enzymatic hydrolysis is a chemical process involving enzymes and water.",
+          "zh": "机械消化涉及物理研磨，而酶促水解是涉及酶和水的化学过程。",
+          "es": "La digestión mecánica implica la trituración física, mientras que la hidrólisis enzimática es un proceso químico que involucra enzimas y agua.",
+          "fr": "La digestion mécanique implique un broyage physique, tandis que l'hydrolyse enzymatique est un processus chimique impliquant des enzymes et de l'eau.",
+          "de": "Mechanische Verdauung beinhaltet physikalisches Zerkleinern, während enzymatische Hydrolyse ein chemischer Prozess ist, der Enzyme und Wasser involviert.",
+          "ja": "機械的消化は物理的な粉砕を含みますが、酵素加水分解は酵素と水が関与する化学プロセスです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text defines enzymatic hydrolysis as \"breaking bonds through the addition of water.\" This process reverses the synthesis of macromolecules, where water is released. Option B directly reflects this definition.",
+      "zh": "文本将酶促水解定义为“通过加水来断裂键”。这个过程逆转了大分子的合成（合成时会释放水）。选项 B 直接反映了这一定义。",
+      "es": "El texto define la hidrólisis enzimática como \"la ruptura de enlaces mediante la adición de agua\". Este proceso invierte la síntesis de macromoléculas, donde se libera agua. La opción B refleja directamente esta definición.",
+      "fr": "Le texte définit l'hydrolyse enzymatique comme la « rupture de liaisons par l'ajout d'eau ». Ce processus inverse la synthèse des macromolécules, où l'eau est libérée. L'option B reflète directement cette définition.",
+      "de": "Der Text definiert enzymatische Hydrolyse als „Bindungsbruch durch Zugabe von Wasser“. Dieser Prozess kehrt die Synthese von Makromolekülen um, bei der Wasser freigesetzt wird. Option B spiegelt diese Definition direkt wider.",
+      "ja": "テキストでは、酵素加水分解を「水分子の付加によって結合を切断すること」と定義しています。このプロセスは、水が放出される高分子の合成とは逆の反応です。オプションBがこの定義を直接反映しています。"
+    }
+  },
+  {
+    "page_number": 953,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on Figure 41.6 and the accompanying text describing digestion in a hydra, which of the following statements accurately describe its digestive process? (Select all that apply)",
+      "zh": "根据图 41.6 和随附的关于水螅消化的文本，以下哪些陈述准确描述了其消化过程？（选择所有适用项）",
+      "es": "Según la Figura 41.6 y el texto adjunto que describe la digestión en una hidra, ¿cuáles de las siguientes afirmaciones describen con precisión su proceso digestivo? (Seleccione todas las que correspondan)",
+      "fr": "Basé sur la Figure 41.6 et le texte d'accompagnement décrivant la digestion chez une hydre, lesquelles des affirmations suivantes décrivent précisément son processus digestif ? (Sélectionnez toutes les options pertinentes)",
+      "de": "Basierend auf Abbildung 41.6 und dem begleitenden Text zur Verdauung einer Hydra, welche der folgenden Aussagen beschreiben ihren Verdauungsprozess genau? (Wählen Sie alle zutreffenden aus)",
+      "ja": "図41.6と、ヒドラの消化について説明する付随テキストに基づいて、以下の記述のうち、その消化プロセスを正確に説明しているものはどれですか？（当てはまるものをすべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Hydras perform only extracellular digestion within their gastrovascular cavity.",
+          "zh": "水螅仅在其胃血管腔内进行细胞外消化。",
+          "es": "Las hidras realizan únicamente digestión extracelular dentro de su cavidad gastrovascular.",
+          "fr": "Les hydres ne réalisent qu'une digestion extracellulaire au sein de leur cavité gastro-vasculaire.",
+          "de": "Hydren führen nur extrazelluläre Verdauung in ihrer Gastrovaskularhöhle durch.",
+          "ja": "ヒドラは胃水腔内で細胞外消化のみを行います。"
+        },
+        "feedback": {
+          "en": "Incorrect. While digestion begins extracellularly in the gastrovascular cavity, it is completed intracellularly after specialized cells engulf small food particles.",
+          "zh": "不正确。虽然消化始于胃血管腔内的细胞外消化，但在特化细胞吞噬小食物颗粒后，消化在细胞内完成。",
+          "es": "Incorrecto. Si bien la digestión comienza extracelularmente en la cavidad gastrovascular, se completa intracelularmente después de que las células especializadas ingieren pequeñas partículas de alimento.",
+          "fr": "Incorrect. Bien que la digestion commence extracellulairement dans la cavité gastro-vasculaire, elle est complétée intracellulairement après que les cellules spécialisées ingèrent de petites particules alimentaires.",
+          "de": "Falsch. Obwohl die Verdauung extrazellulär in der Gastrovaskularhöhle beginnt, wird sie intrazellulär abgeschlossen, nachdem spezialisierte Zellen kleine Nahrungspartikel aufgenommen haben.",
+          "ja": "間違いです。消化は胃水腔内で細胞外的に始まりますが、特殊な細胞が小さな食物粒子を摂取した後、細胞内で完了します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Digestive enzymes are released from gland cells into the gastrovascular cavity to break down food into smaller particles.",
+          "zh": "消化酶从腺细胞释放到胃血管腔中，将食物分解成更小的颗粒。",
+          "es": "Las enzimas digestivas son liberadas de las células glandulares a la cavidad gastrovascular para descomponer los alimentos en partículas más pequeñas.",
+          "fr": "Les enzymes digestives sont libérées par les cellules glandulaires dans la cavité gastro-vasculaire pour décomposer les aliments en petites particules.",
+          "de": "Verdauungsenzyme werden von Drüsenzellen in die Gastrovaskularhöhle freigesetzt, um Nahrung in kleinere Partikel abzubauen.",
+          "ja": "消化酵素は腺細胞から胃水腔内に放出され、食物をより小さな粒子に分解します。"
+        },
+        "feedback": {
+          "en": "Correct. Figure 41.6 clearly illustrates this as the first two steps of digestion in hydra.",
+          "zh": "正确。图 41.6 清楚地说明了这是水螅消化的前两个步骤。",
+          "es": "Correcto. La Figura 41.6 ilustra claramente esto como los dos primeros pasos de la digestión en hidra.",
+          "fr": "Correct. La Figure 41.6 illustre clairement cela comme les deux premières étapes de la digestion chez l'hydre.",
+          "de": "Korrekt. Abbildung 41.6 veranschaulicht dies deutlich als die ersten beiden Schritte der Verdauung bei der Hydra.",
+          "ja": "正しい。図41.6は、これがヒドラの消化の最初の2つのステップであることを明確に示しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The gastrovascular cavity serves both digestion and nutrient distribution functions.",
+          "zh": "胃血管腔同时具有消化和营养物质分布的功能。",
+          "es": "La cavidad gastrovascular cumple funciones tanto de digestión como de distribución de nutrientes.",
+          "fr": "La cavité gastro-vasculaire remplit à la fois les fonctions de digestion et de distribution des nutriments.",
+          "de": "Die Gastrovaskularhöhle dient sowohl der Verdauung als auch der Nährstoffverteilung.",
+          "ja": "胃水腔は消化と栄養素の分配の両方の機能を果たします。"
+        },
+        "feedback": {
+          "en": "Correct. The text explicitly states that the gastrovascular cavity functions in digestion as well as in the distribution of nutrients.",
+          "zh": "正确。文本明确指出胃血管腔兼具消化和营养物质分布的功能。",
+          "es": "Correcto. El texto afirma explícitamente que la cavidad gastrovascular funciona tanto en la digestión como en la distribución de nutrientes.",
+          "fr": "Correct. Le texte indique explicitement que la cavité gastro-vasculaire fonctionne à la fois pour la digestion et la distribution des nutriments.",
+          "de": "Korrekt. Der Text besagt explizit, dass die Gastrovaskularhöhle sowohl bei der Verdauung als auch bei der Verteilung von Nährstoffen funktioniert.",
+          "ja": "正しい。テキストには、胃水腔が消化だけでなく栄養素の分配にも機能すると明確に記載されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Small food particles are engulfed by specialized cells of the gastrodermis for intracellular digestion in food vacuoles.",
+          "zh": "小食物颗粒被胃皮层特化细胞吞噬，在食物泡中进行细胞内消化。",
+          "es": "Las pequeñas partículas de alimentos son ingeridas por células especializadas de la gastrodermis para la digestión intracelular en vacuolas alimenticias.",
+          "fr": "Les petites particules alimentaires sont ingérées par des cellules spécialisées du gastroderme pour une digestion intracellulaire dans les vacuoles alimentaires.",
+          "de": "Kleine Nahrungspartikel werden von spezialisierten Zellen der Gastrodermis zur intrazellulären Verdauung in Nahrungsvakuolen aufgenommen.",
+          "ja": "小さな食物粒子は、胃腸細胞の特殊な細胞によって取り込まれ、食物液胞内で細胞内消化されます。"
+        },
+        "feedback": {
+          "en": "Correct. Figure 41.6 shows food particles being engulfed into food vacuoles for further digestion, and the text mentions digestion is completed intracellularly.",
+          "zh": "正确。图 41.6 显示食物颗粒被吞噬到食物泡中进行进一步消化，文本也提到消化在细胞内完成。",
+          "es": "Correcto. La Figura 41.6 muestra cómo las partículas de alimentos son ingeridas en las vacuolas alimenticias para una digestión posterior, y el texto menciona que la digestión se completa intracelularmente.",
+          "fr": "Correct. La Figure 41.6 montre que les particules alimentaires sont ingérées dans les vacuoles alimentaires pour une digestion ultérieure, et le texte mentionne que la digestion est complétée intracellulairement.",
+          "de": "Korrekt. Abbildung 41.6 zeigt, wie Nahrungspartikel in Nahrungsvakuolen zur weiteren Verdauung aufgenommen werden, und der Text erwähnt, dass die Verdauung intrazellulär abgeschlossen wird.",
+          "ja": "正しい。図41.6は、食物粒子が食物液胞に取り込まれてさらに消化される様子を示しており、テキストには消化が細胞内で完了すると記載されています。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Digestion in hydra is exclusively intracellular, occurring entirely within food vacuoles.",
+          "zh": "水螅的消化完全是细胞内消化，完全发生在食物泡内。",
+          "es": "La digestión en hidra es exclusivamente intracelular, ocurriendo enteramente dentro de las vacuolas alimenticias.",
+          "fr": "La digestion chez l'hydre est exclusivement intracellulaire, se produisant entièrement à l'intérieur des vacuoles alimentaires.",
+          "de": "Die Verdauung bei der Hydra ist ausschließlich intrazellulär und findet vollständig in Nahrungsvakuolen statt.",
+          "ja": "ヒドラの消化は完全に細胞内で行われ、すべて食物液胞内で起こります。"
+        },
+        "feedback": {
+          "en": "Incorrect. Digestion in hydra is a combination of both extracellular digestion in the gastrovascular cavity and subsequent intracellular digestion.",
+          "zh": "不正确。水螅的消化是胃血管腔内的细胞外消化和随后细胞内消化的结合。",
+          "es": "Incorrecto. La digestión en hidra es una combinación de digestión extracelular en la cavidad gastrovascular y posterior digestión intracelular.",
+          "fr": "Incorrect. La digestion chez l'hydre est une combinaison de digestion extracellulaire dans la cavité gastro-vasculaire et de digestion intracellulaire subséquente.",
+          "de": "Falsch. Die Verdauung bei der Hydra ist eine Kombination aus extrazellulärer Verdauung in der Gastrovaskularhöhle und anschließender intrazellulärer Verdauung.",
+          "ja": "間違いです。ヒドラの消化は、胃水腔での細胞外消化と、それに続く細胞内消化の両方の組み合わせです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": {
+      "en": "Figure 41.6 and its accompanying text describe a two-stage process for digestion in hydra. The text states: \"Digestion begins in the gastrovascular cavity and is completed intracellularly after small food particles are engulfed by specialized cells of the gastrodermis.\" This contradicts options A and E, which claim digestion is solely extracellular or intracellular. Figure 41.6, step 1, shows \"Digestive enzymes are released from a gland cell,\" and step 2 shows \"Enzymes break food down into small particles,\" supporting option B. Figure 41.6, step 3, shows \"Food particles are engulfed and digested in food vacuoles,\" supporting option D. Additionally, the text mentions that the gastrovascular cavity \"functions in digestion as well as in the distribution of nutrients throughout the body,\" confirming option C.",
+      "zh": "图 41.6 及其附带文本描述了水螅消化过程的两个阶段。文本指出：“消化始于胃血管腔，并在特化细胞吞噬小食物颗粒后在细胞内完成。”这与声称消化仅是细胞外或仅是细胞内的选项 A 和 E 相矛盾。图 41.6 的第一步显示“消化酶从腺细胞释放”，第二步显示“酶将食物分解成小颗粒”，支持选项 B。图 41.6 的第三步显示“食物颗粒被吞噬并在食物泡中消化”，支持选项 D。此外，文本还提到胃血管腔“兼具消化和营养物质分布的功能”，证实了选项 C。",
+      "es": "La Figura 41.6 y su texto adjunto describen un proceso de dos etapas para la digestión en hidra. El texto afirma: \"La digestión comienza en la cavidad gastrovascular y se completa intracelularmente después de que las pequeñas partículas de alimentos son ingeridas por células especializadas de la gastrodermis.\" Esto contradice las opciones A y E, que afirman que la digestión es únicamente extracelular o intracelular. La Figura 41.6, paso 1, muestra \"Las enzimas digestivas son liberadas de una célula glandular,\" y el paso 2 muestra \"Las enzimas descomponen los alimentos en partículas pequeñas,\" lo que apoya la opción B. La Figura 41.6, paso 3, muestra \"Las partículas de alimentos son ingeridas y digeridas en vacuolas alimenticias,\" lo que apoya la opción D. Además, el texto menciona que la cavidad gastrovascular \"funciona tanto en la digestión como en la distribución de nutrientes por todo el cuerpo,\" confirmando la opción C.",
+      "fr": "La Figure 41.6 et son texte d'accompagnement décrivent un processus de digestion en deux étapes chez l'hydre. Le texte déclare : « La digestion commence dans la cavité gastro-vasculaire et est complétée intracellulairement après que de petites particules alimentaires soient ingérées par des cellules spécialisées du gastroderme. » Cela contredit les options A et E, qui affirment que la digestion est uniquement extracellulaire ou intracellulaire. La Figure 41.6, étape 1, montre que « les enzymes digestives sont libérées d'une cellule glandulaire », et l'étape 2 montre que « les enzymes décomposent la nourriture en petites particules », soutenant l'option B. La Figure 41.6, étape 3, montre que « les particules alimentaires sont ingérées et digérées dans des vacuoles alimentaires », soutenant l'option D. De plus, le texte mentionne que la cavité gastro-vasculaire « fonctionne à la fois pour la digestion et la distribution des nutriments dans tout le corps », confirmant l'option C.",
+      "de": "Abbildung 41.6 und der begleitende Text beschreiben einen zweistufigen Verdauungsprozess bei der Hydra. Der Text besagt: „Die Verdauung beginnt in der Gastrovaskularhöhle und wird intrazellulär abgeschlossen, nachdem kleine Nahrungspartikel von spezialisierten Zellen der Gastrodermis aufgenommen wurden.“ Dies widerspricht den Optionen A und E, die behaupten, die Verdauung sei ausschließlich extrazellulär oder intrazellulär. Abbildung 41.6, Schritt 1, zeigt „Verdauungsenzyme werden aus einer Drüsenzelle freigesetzt“, und Schritt 2 zeigt „Enzyme zersetzen Nahrung in kleinere Partikel“, was Option B unterstützt. Abbildung 41.6, Schritt 3, zeigt „Nahrungspartikel werden aufgenommen und in Nahrungsvakuolen verdaut“, was Option D unterstützt. Außerdem erwähnt der Text, dass die Gastrovaskularhöhle „sowohl der Verdauung als auch der Verteilung von Nährstoffen im gesamten Körper dient“, was Option C bestätigt.",
+      "ja": "図41.6とそれに付随するテキストは、ヒドラの消化プロセスが二段階であることを説明しています。テキストには「消化は胃水腔で始まり、小さな食物粒子が胃腸細胞の特殊な細胞によって取り込まれた後、細胞内で完了する」と記載されています。これは、消化が細胞外のみである、または細胞内のみであると主張するオプションAとEに矛盾します。図41.6のステップ1では「消化酵素が腺細胞から放出される」と示されており、ステップ2では「酵素が食物を小さな粒子に分解する」と示されており、オプションBを支持しています。図41.6のステップ3では「食物粒子が取り込まれ、食物液胞内で消化される」と示されており、オプションDを支持しています。さらに、テキストには胃水腔が「消化だけでなく、体全体への栄養素の分配にも機能する」と記載されており、オプションCを裏付けています。"
+    }
+  }
+]

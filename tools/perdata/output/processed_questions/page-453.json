@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 453,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary function of the \"spacer DNA\" segments within the CRISPR region of a bacterial genome?",
+      "zh": "细菌基因组 CRISPR 区域内的“间隔 DNA”片段的主要功能是什么？",
+      "es": "¿Cuál es la función principal de los segmentos de \"ADN espaciador\" dentro de la región CRISPR de un genoma bacteriano?",
+      "fr": "Quelle est la fonction principale des segments d'\"ADN espacés\" au sein de la région CRISPR d'un génome bactérien ?",
+      "de": "Was ist die Hauptfunktion der „Spacer-DNA“-Segmente innerhalb der CRISPR-Region eines bakteriellen Genoms?",
+      "ja": "細菌ゲノムのCRISPR領域内の「スペーサーDNA」セグメントの主な機能は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They act as recognition sequences for bacterial DNA replication.",
+          "zh": "它们充当细菌 DNA 复制的识别序列。",
+          "es": "Actúan como secuencias de reconocimiento para la replicación del ADN bacteriano.",
+          "fr": "Ils agissent comme des séquences de reconnaissance pour la réplication de l'ADN bactérien.",
+          "de": "Sie dienen als Erkennungssequenzen für die bakterielle DNA-Replikation.",
+          "ja": "それらは細菌DNA複製の認識配列として機能します。"
+        },
+        "feedback": {
+          "en": "Spacer DNA is related to phage defense, not bacterial DNA replication.",
+          "zh": "间隔 DNA 与噬菌体防御有关，而非细菌 DNA 复制。",
+          "es": "El ADN espaciador está relacionado con la defensa contra fagos, no con la replicación del ADN bacteriano.",
+          "fr": "L'ADN espacé est lié à la défense contre les phages, et non à la réplication de l'ADN bactérien.",
+          "de": "Spacer-DNA ist mit der Phagenabwehr und nicht mit der bakteriellen DNA-Replikation verbunden.",
+          "ja": "スペーサーDNAは細菌DNA複製ではなく、ファージ防御に関連しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They are palindromic repeats that regulate gene expression.",
+          "zh": "它们是调控基因表达的回文重复序列。",
+          "es": "Son repeticiones palindrómicas que regulan la expresión génica.",
+          "fr": "Ce sont des répétitions palindromiques qui régulent l'expression génique.",
+          "de": "Sie sind palindromische Wiederholungen, die die Genexpression regulieren.",
+          "ja": "それらは遺伝子発現を制御する回文配列反復です。"
+        },
+        "feedback": {
+          "en": "While the CRISPR region contains palindromic repeats, spacer DNA refers to the variable sequences between them, derived from phage DNA.",
+          "zh": "尽管 CRISPR 区域包含回文重复序列，但间隔 DNA 是指它们之间来源于噬菌体 DNA 的可变序列。",
+          "es": "Aunque la región CRISPR contiene repeticiones palindrómicas, el ADN espaciador se refiere a las secuencias variables entre ellas, derivadas del ADN del fago.",
+          "fr": "Bien que la région CRISPR contienne des répétitions palindromiques, l'ADN espacé fait référence aux séquences variables entre elles, dérivées de l'ADN de phage.",
+          "de": "Obwohl die CRISPR-Region palindromische Wiederholungen enthält, bezieht sich Spacer-DNA auf die variablen Sequenzen dazwischen, die von Phagen-DNA stammen.",
+          "ja": "CRISPR領域には回文配列反復が含まれますが、スペーサーDNAはそれらの間のファージDNAに由来する可変配列を指します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They are segments of DNA from previous phage infections, providing a \"memory\" for future defense.",
+          "zh": "它们是来自先前噬菌体感染的 DNA 片段，为未来的防御提供“记忆”。",
+          "es": "Son segmentos de ADN de infecciones previas por fagos, que proporcionan una \"memoria\" para futuras defensas.",
+          "fr": "Ce sont des segments d'ADN provenant d'infections phagiques antérieures, offrant une \"mémoire\" pour une défense future.",
+          "de": "Es handelt sich um DNA-Segmente aus früheren Phageninfektionen, die als „Gedächtnis“ für die zukünftige Abwehr dienen.",
+          "ja": "それらは以前のファージ感染からのDNAセグメントであり、将来の防御のための「記憶」を提供します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They encode for Cas proteins, which degrade bacterial DNA.",
+          "zh": "它们编码 Cas 蛋白，这些蛋白会降解细菌 DNA。",
+          "es": "Codifican proteínas Cas, que degradan el ADN bacteriano.",
+          "fr": "Ils codent pour les protéines Cas, qui dégradent l'ADN bactérien.",
+          "de": "Sie kodieren für Cas-Proteine, die bakterielle DNA abbauen.",
+          "ja": "それらは細菌DNAを分解するCasタンパク質をコードします。"
+        },
+        "feedback": {
+          "en": "Spacer DNA provides targeting information for Cas proteins, which degrade invading phage DNA, not bacterial DNA. Cas proteins are encoded elsewhere.",
+          "zh": "间隔 DNA 为 Cas 蛋白提供靶向信息，Cas 蛋白降解入侵的噬菌体 DNA，而不是细菌 DNA。Cas 蛋白的编码基因在其他地方。",
+          "es": "El ADN espaciador proporciona información de direccionamiento para las proteínas Cas, que degradan el ADN del fago invasor, no el ADN bacteriano. Las proteínas Cas se codifican en otro lugar.",
+          "fr": "L'ADN espacé fournit des informations de ciblage pour les protéines Cas, qui dégradent l'ADN du phage envahissant, et non l'ADN bactérien. Les protéines Cas sont codées ailleurs.",
+          "de": "Spacer-DNA liefert Zielinformationen für Cas-Proteine, die eindringende Phagen-DNA abbauen, nicht bakterielle DNA. Cas-Proteine werden an anderer Stelle kodiert.",
+          "ja": "スペーサーDNAはCasタンパク質に標的情報を提供し、Casタンパク質は細菌DNAではなく侵入ファージDNAを分解します。Casタンパク質は別の場所でコードされます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that 'analysis by several research groups showed that each spacer sequence corresponded to DNA from a particular phage that had infected the cell.' This indicates that spacer DNA functions as a 'memory' of past infections, allowing the bacterium to recognize and defend against future attacks by the same phage.",
+      "zh": "文本指出，“多项研究分析表明，每个间隔序列都与感染过细胞的特定噬菌体的 DNA 相对应。”这表明间隔 DNA 充当过去感染的“记忆”，使细菌能够识别并防御同一噬菌体未来的攻击。",
+      "es": "El texto afirma que 'el análisis de varios grupos de investigación demostró que cada secuencia espaciadora correspondía al ADN de un fago particular que había infectado la célula'. Esto indica que el ADN espaciador funciona como una 'memoria' de infecciones pasadas, permitiendo que la bacteria reconozca y se defienda de futuros ataques del mismo fago.",
+      "fr": "Le texte indique que \"l'analyse par plusieurs groupes de recherche a montré que chaque séquence espacée correspondait à l'ADN d'un phage particulier qui avait infecté la cellule\". Cela indique que l'ADN espacé fonctionne comme une \"mémoire\" des infections passées, permettant à la bactérie de reconnaître et de se défendre contre de futures attaques du même phage.",
+      "de": "Der Text besagt, dass „Analysen mehrerer Forschungsgruppen zeigten, dass jede Spacer-Sequenz DNA von einem bestimmten Phagen entsprach, der die Zelle infiziert hatte“. Dies deutet darauf hin, dass die Spacer-DNA als „Gedächtnis“ vergangener Infektionen fungiert, wodurch das Bakterium zukünftige Angriffe desselben Phagen erkennen und sich dagegen verteidigen kann.",
+      "ja": "本文には「複数の研究グループによる分析で、各スペーサー配列が細胞に感染した特定のファージのDNAに対応していることが示された」とあります。これは、スペーサーDNAが過去の感染の「記憶」として機能し、細菌が同じファージによる将来の攻撃を認識し防御できるようにすることを示しています。"
+    }
+  },
+  {
+    "page_number": 453,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 19.7, which event immediately precedes the cutting of phage DNA by the Cas protein complex?",
+      "zh": "根据图 19.7，Cas 蛋白复合体切割噬菌体 DNA 之前紧接着发生的事件是什么？",
+      "es": "Según la Figura 19.7, ¿qué evento precede inmediatamente al corte del ADN del fago por el complejo proteico Cas?",
+      "fr": "Selon la Figure 19.7, quel événement précède immédiatement la coupure de l'ADN du phage par le complexe protéique Cas ?",
+      "de": "Welches Ereignis geht laut Abbildung 19.7 dem Schneiden der Phagen-DNA durch den Cas-Proteinkomplex unmittelbar voraus?",
+      "ja": "図19.7によると、Casタンパク質複合体によるファージDNAの切断直前に起こる出来事は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The entire phage DNA molecule is degraded.",
+          "zh": "整个噬菌体 DNA 分子被降解。",
+          "es": "La molécula de ADN del fago completa se degrada.",
+          "fr": "La molécule d'ADN entière du phage est dégradée.",
+          "de": "Das gesamte Phagen-DNA-Molekül wird abgebaut.",
+          "ja": "ファージDNA分子全体が分解されます。"
+        },
+        "feedback": {
+          "en": "This occurs *after* the cutting of phage DNA (Step 5), not before.",
+          "zh": "这发生在噬菌体 DNA 被切割之后（步骤 5），而不是之前。",
+          "es": "Esto ocurre *después* del corte del ADN del fago (Paso 5), no antes.",
+          "fr": "Cela se produit *après* la coupure de l'ADN du phage (étape 5), et non avant.",
+          "de": "Dies geschieht *nach* dem Schneiden der Phagen-DNA (Schritt 5), nicht davor.",
+          "ja": "これはファージDNAの切断後（ステップ5）に起こるのであって、前ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The RNA transcript is processed into short RNA strands.",
+          "zh": "RNA 转录本被加工成短 RNA 链。",
+          "es": "El transcrito de ARN se procesa en hebras cortas de ARN.",
+          "fr": "Le transcrit d'ARN est traité en courtes brins d'ARN.",
+          "de": "Das RNA-Transkript wird zu kurzen RNA-Strängen verarbeitet.",
+          "ja": "RNA転写産物が短いRNA鎖に加工されます。"
+        },
+        "feedback": {
+          "en": "This is an earlier step (Step 2) in the process, not the immediate precursor to cutting.",
+          "zh": "这是该过程中的一个较早步骤（步骤 2），而非切割的直接前奏。",
+          "es": "Este es un paso anterior (Paso 2) en el proceso, no el precursor inmediato del corte.",
+          "fr": "C'est une étape antérieure (étape 2) du processus, et non le précurseur immédiat de la coupure.",
+          "de": "Dies ist ein früherer Schritt (Schritt 2) im Prozess und nicht der unmittelbare Vorläufer des Schneidens.",
+          "ja": "これはプロセスの初期段階（ステップ2）であり、切断の直前の出来事ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Complementary RNA binds to DNA from the invading phage.",
+          "zh": "互补 RNA 与入侵噬菌体的 DNA 结合。",
+          "es": "El ARN complementario se une al ADN del fago invasor.",
+          "fr": "L'ARN complémentaire se lie à l'ADN du phage envahissant.",
+          "de": "Komplementäre RNA bindet an DNA des eindringenden Phagen.",
+          "ja": "相補的なRNAが侵入ファージのDNAに結合します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Each short RNA strand binds to a Cas protein.",
+          "zh": "每条短 RNA 链都与一个 Cas 蛋白结合。",
+          "es": "Cada hebra corta de ARN se une a una proteína Cas.",
+          "fr": "Chaque court brin d'ARN se lie à une protéine Cas.",
+          "de": "Jeder kurze RNA-Strang bindet an ein Cas-Protein.",
+          "ja": "各短いRNA鎖はCasタンパク質に結合します。"
+        },
+        "feedback": {
+          "en": "This event (Step 3) occurs before the complementary RNA-Cas complex targets and binds to the invading phage DNA (Step 4), which then leads to cutting.",
+          "zh": "此事件（步骤 3）发生在互补 RNA-Cas 复合物靶向并结合入侵噬菌体 DNA（步骤 4）之前，后者随后导致切割。",
+          "es": "Este evento (Paso 3) ocurre antes de que el complejo ARN-Cas complementario se dirija y se una al ADN del fago invasor (Paso 4), lo que luego conduce al corte.",
+          "fr": "Cet événement (étape 3) se produit avant que le complexe ARN-Cas complémentaire ne cible et ne se lie à l'ADN du phage envahissant (étape 4), ce qui entraîne ensuite la coupure.",
+          "de": "Dieses Ereignis (Schritt 3) tritt auf, bevor der komplementäre RNA-Cas-Komplex die eindringende Phagen-DNA (Schritt 4) ansteuert und bindet, was dann zum Schneiden führt.",
+          "ja": "この事象（ステップ3）は、相補的RNA-Cas複合体が侵入ファージDNA（ステップ4）に標的化して結合する前に起こり、その後切断に至ります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 19.7, Step 4, explicitly states: \"Complementary RNA binds to DNA from the invading phage. The Cas protein then cuts the phage DNA.\" This indicates that the binding of complementary RNA to the invading phage DNA is the immediate precursor to the cutting action.",
+      "zh": "图 19.7 步骤 4 明确指出：“互补 RNA 与入侵噬菌体的 DNA 结合。Cas 蛋白随后切割噬菌体 DNA。”这表明互补 RNA 与入侵噬菌体 DNA 的结合是切割作用的直接前奏。",
+      "es": "La Figura 19.7, Paso 4, establece explícitamente: \"El ARN complementario se une al ADN del fago invasor. La proteína Cas luego corta el ADN del fago.\" Esto indica que la unión del ARN complementario al ADN del fago invasor es el precursor inmediato de la acción de corte.",
+      "fr": "La Figure 19.7, étape 4, indique explicitement : \"L'ARN complémentaire se lie à l'ADN du phage envahissant. La protéine Cas coupe ensuite l'ADN du phage.\" Cela indique que la liaison de l'ARN complémentaire à l'ADN du phage envahissant est le précurseur immédiat de l'action de coupure.",
+      "de": "Abbildung 19.7, Schritt 4, besagt ausdrücklich: „Komplementäre RNA bindet an DNA des eindringenden Phagen. Das Cas-Protein schneidet dann die Phagen-DNA.“ Dies zeigt, dass die Bindung von komplementärer RNA an die eindringende Phagen-DNA der unmittelbare Vorläufer des Schneidvorgangs ist.",
+      "ja": "図19.7のステップ4には、「相補的なRNAが侵入ファージのDNAに結合する。その後、Casタンパク質がファージDNAを切断する。」と明記されています。これは、相補的RNAが侵入ファージDNAに結合することが、切断作用の直前の出来事であることを示しています。"
+    }
+  },
+  {
+    "page_number": 453,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The text describes both restriction enzymes and the CRISPR-Cas system as bacterial defenses against phage DNA. Which of the following statements best highlights a key difference that makes the CRISPR-Cas system an example of adaptive immunity?",
+      "zh": "文本将限制酶和 CRISPR-Cas 系统都描述为细菌对抗噬菌体 DNA 的防御机制。以下哪项陈述最能突出 CRISPR-Cas 系统作为适应性免疫的一个关键区别？",
+      "es": "El texto describe tanto las enzimas de restricción como el sistema CRISPR-Cas como defensas bacterianas contra el ADN del fago. ¿Cuál de las siguientes afirmaciones destaca mejor una diferencia clave que hace del sistema CRISPR-Cas un ejemplo de inmunidad adaptativa?",
+      "fr": "Le texte décrit à la fois les enzymes de restriction et le système CRISPR-Cas comme des défenses bactériennes contre l'ADN de phage. Laquelle des affirmations suivantes met le mieux en évidence une différence clé qui fait du système CRISPR-Cas un exemple d'immunité adaptative ?",
+      "de": "Der Text beschreibt sowohl Restriktionsenzyme als auch das CRISPR-Cas-System als bakterielle Abwehrmechanismen gegen Phagen-DNA. Welche der folgenden Aussagen hebt am besten einen wesentlichen Unterschied hervor, der das CRISPR-Cas-System zu einem Beispiel für adaptive Immunität macht?",
+      "ja": "テキストでは、制限酵素とCRISPR-Casシステムの両方がファージDNAに対する細菌の防御として説明されています。以下の記述のうち、CRISPR-Casシステムを適応免疫の例とする主要な違いを最もよく強調しているものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Restriction enzymes degrade all foreign DNA, whereas CRISPR-Cas specifically targets RNA molecules.",
+          "zh": "限制酶降解所有外源 DNA，而 CRISPR-Cas 特异性靶向 RNA 分子。",
+          "es": "Las enzimas de restricción degradan todo el ADN extraño, mientras que CRISPR-Cas se dirige específicamente a las moléculas de ARN.",
+          "fr": "Les enzymes de restriction dégradent tout l'ADN étranger, tandis que CRISPR-Cas cible spécifiquement les molécules d'ARN.",
+          "de": "Restriktionsenzyme bauen alle fremde DNA ab, während CRISPR-Cas spezifisch RNA-Moleküle angreift.",
+          "ja": "制限酵素はすべての外来DNAを分解するのに対し、CRISPR-CasはRNA分子を特異的に標的とします。"
+        },
+        "feedback": {
+          "en": "CRISPR-Cas primarily targets invading phage DNA, guided by complementary RNA, not RNA molecules themselves for degradation. Restriction enzymes recognize specific sequences, not necessarily 'all' foreign DNA indiscriminately.",
+          "zh": "CRISPR-Cas 主要靶向入侵的噬菌体 DNA，通过互补 RNA 引导，而不是降解 RNA 分子本身。限制酶识别特定的序列，并非不加选择地降解“所有”外源 DNA。",
+          "es": "CRISPR-Cas se dirige principalmente al ADN del fago invasor, guiado por ARN complementario, no a las moléculas de ARN en sí para su degradación. Las enzimas de restricción reconocen secuencias específicas, no necesariamente \"todo\" el ADN extraño indiscriminadamente.",
+          "fr": "CRISPR-Cas cible principalement l'ADN de phage envahissant, guidé par l'ARN complémentaire, et non les molécules d'ARN elles-mêmes pour leur dégradation. Les enzymes de restriction reconnaissent des séquences spécifiques, et non nécessairement \"tout\" l'ADN étranger sans distinction.",
+          "de": "CRISPR-Cas zielt hauptsächlich auf eindringende Phagen-DNA ab, geleitet von komplementärer RNA, nicht auf RNA-Moleküle selbst zum Abbau. Restriktionsenzyme erkennen spezifische Sequenzen, nicht unbedingt „jede“ fremde DNA wahllos.",
+          "ja": "CRISPR-Casは主に、相補的RNAによって誘導される侵入ファージDNAを標的とし、RNA分子自体を分解するわけではありません。制限酵素は特定の配列を認識し、必ずしも「すべて」の外来DNAを無差別に分解するわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The CRISPR-Cas system incorporates segments of previously encountered phage DNA into its own genome, providing a targeted defense.",
+          "zh": "CRISPR-Cas 系统将其自身基因组中整合了先前遇到过的噬菌体 DNA 片段，从而提供靶向防御。",
+          "es": "El sistema CRISPR-Cas incorpora segmentos de ADN de fagos previamente encontrados en su propio genoma, proporcionando una defensa dirigida.",
+          "fr": "Le système CRISPR-Cas intègre des segments d'ADN de phages rencontrés précédemment dans son propre génome, offrant une défense ciblée.",
+          "de": "Das CRISPR-Cas-System integriert Segmente zuvor begegneter Phagen-DNA in sein eigenes Genom und bietet so eine gezielte Abwehr.",
+          "ja": "CRISPR-Casシステムは、以前に遭遇したファージDNAのセグメントを自身のゲノムに組み込み、標的防御を提供します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Restriction enzymes are active only after a phage infection, while CRISPR-Cas is constitutively expressed.",
+          "zh": "限制酶仅在噬菌体感染后才活跃，而 CRISPR-Cas 是组成型表达的。",
+          "es": "Las enzimas de restricción están activas solo después de una infección por fagos, mientras que CRISPR-Cas se expresa constitutivamente.",
+          "fr": "Les enzymes de restriction ne sont actives qu'après une infection par un phage, tandis que CRISPR-Cas est exprimé de manière constitutive.",
+          "de": "Restriktionsenzyme sind nur nach einer Phageninfektion aktiv, während CRISPR-Cas konstitutiv exprimiert wird.",
+          "ja": "制限酵素はファージ感染後にのみ活性化されるのに対し、CRISPR-Casは構成的に発現します。"
+        },
+        "feedback": {
+          "en": "The text states that 'any further attempt by the same type of phage to infect this cell... triggers transcription of the CRISPR region.' This indicates induced, not necessarily constitutive, expression for defense. Both systems are involved in defense against existing infections, but CRISPR-Cas's 'memory' is the key adaptive difference.",
+          "zh": "文本指出，“同一类型噬菌体对该细胞的任何进一步尝试感染……都会触发 CRISPR 区域的转录。”这表明防御是诱导性的，不一定是组成型的表达。这两个系统都参与抵御现有感染，但 CRISPR-Cas 的“记忆”是关键的适应性区别。",
+          "es": "El texto afirma que 'cualquier intento posterior del mismo tipo de fago de infectar esta célula... desencadena la transcripción de la región CRISPR'. Esto indica una expresión inducida, no necesariamente constitutiva, para la defensa. Ambos sistemas están involucrados en la defensa contra infecciones existentes, pero la 'memoria' de CRISPR-Cas es la diferencia adaptativa clave.",
+          "fr": "Le texte indique que \"toute tentative ultérieure du même type de phage d'infecter cette cellule... déclenche la transcription de la région CRISPR\". Cela indique une expression induite, et non nécessairement constitutive, pour la défense. Les deux systèmes sont impliqués dans la défense contre les infections existantes, mais la \"mémoire\" du CRISPR-Cas est la différence adaptative clé.",
+          "de": "Der Text besagt, dass „jeder weitere Versuch desselben Phagentyps, diese Zelle zu infizieren, die Transkription der CRISPR-Region auslöst“. Dies deutet auf eine induzierte, nicht unbedingt konstitutive Expression zur Abwehr hin. Beide Systeme sind an der Abwehr bestehender Infektionen beteiligt, aber das „Gedächtnis“ von CRISPR-Cas ist der entscheidende adaptive Unterschied.",
+          "ja": "テキストには「同じ種類のファージがこの細胞にさらに感染しようとすると…CRISPR領域の転写が誘発される」とあります。これは、防御のための発現が誘導性であり、必ずしも構成的ではないことを示しています。両システムは既存の感染に対する防御に関与しますが、CRISPR-Casの「記憶」が適応的な主要な違いです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The CRISPR-Cas system protects bacterial DNA from methylation, a process restriction enzymes cannot perform.",
+          "zh": "CRISPR-Cas 系统保护细菌 DNA 免受甲基化，这是限制酶无法执行的过程。",
+          "es": "El sistema CRISPR-Cas protege el ADN bacteriano de la metilación, un proceso que las enzimas de restricción no pueden realizar.",
+          "fr": "Le système CRISPR-Cas protège l'ADN bactérien de la méthylation, un processus que les enzymes de restriction ne peuvent pas effectuer.",
+          "de": "Das CRISPR-Cas-System schützt bakterielle DNA vor Methylierung, einem Prozess, den Restriktionsenzyme nicht durchführen können.",
+          "ja": "CRISPR-Casシステムは細菌DNAをメチル化から保護しますが、これは制限酵素が行えないプロセスです。"
+        },
+        "feedback": {
+          "en": "Bacterial DNA methylation protects it from *its own* restriction enzymes. The CRISPR-Cas system's function is unrelated to protecting DNA from methylation.",
+          "zh": "细菌 DNA 经甲基化是为了保护其免受 *自身* 限制酶的作用。CRISPR-Cas 系统的功能与保护 DNA 免受甲基化无关。",
+          "es": "El ADN bacteriano se metila para protegerlo de *sus propias* enzimas de restricción. La función del sistema CRISPR-Cas no está relacionada con la protección del ADN contra la metilación.",
+          "fr": "L'ADN bactérien est méthylé pour le protéger de *ses propres* enzymes de restriction. La fonction du système CRISPR-Cas n'est pas liée à la protection de l'ADN contre la méthylation.",
+          "de": "Bakterielle DNA wird methyliert, um sie vor *ihren eigenen* Restriktionsenzymen zu schützen. Die Funktion des CRISPR-Cas-Systems steht nicht im Zusammenhang mit dem Schutz der DNA vor Methylierung.",
+          "ja": "細菌DNAは、*自身の*制限酵素から保護するためにメチル化されます。CRISPR-Casシステムの機能は、DNAをメチル化から保護することとは無関係です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The defining characteristic of adaptive immunity is the ability to 'remember' past infections and mount a more specific and effective response upon re-exposure. The text explicitly states that when a phage infects a bacterial cell with the CRISPR-Cas system, 'the DNA of the invading phage is stored, integrated into the genome between two repeat sequences (Figure 19.7).' This 'spacer DNA' then serves as a 'homing device' for Cas proteins to identify and cut the same invading phage DNA in subsequent infections, which is the hallmark of adaptive immunity.",
+      "zh": "适应性免疫的决定性特征是能够“记住”过去的感染并在再次暴露时产生更特异和有效的反应。文本明确指出，当噬菌体感染具有 CRISPR-Cas 系统的细菌细胞时，“入侵噬菌体的 DNA 被存储，整合到基因组的两个重复序列之间（图 19.7）”。这些“间隔 DNA”随后充当 Cas 蛋白的“归巢装置”，用于在随后的感染中识别和切割相同的入侵噬菌体 DNA，这是适应性免疫的标志。",
+      "es": "La característica definitoria de la inmunidad adaptativa es la capacidad de \"recordar\" infecciones pasadas y montar una respuesta más específica y efectiva al volver a exponerse. El texto establece explícitamente que cuando un fago infecta una célula bacteriana con el sistema CRISPR-Cas, \"el ADN del fago invasor se almacena, integrado en el genoma entre dos secuencias repetidas (Figura 19.7)\". Este \"ADN espaciador\" sirve entonces como un \"dispositivo de búsqueda\" para que las proteínas Cas identifiquen y corten el mismo ADN del fago invasor en infecciones posteriores, lo cual es el sello distintivo de la inmunidad adaptativa.",
+      "fr": "La caractéristique définissant l'immunité adaptative est la capacité de \"se souvenir\" des infections passées et de monter une réponse plus spécifique et efficace lors d'une nouvelle exposition. Le texte indique explicitement que lorsqu'un phage infecte une cellule bactérienne dotée du système CRISPR-Cas, \"l'ADN du phage envahissant est stocké, intégré dans le génome entre deux séquences répétées (Figure 19.7)\". Cet \"ADN espacé\" sert ensuite de \"dispositif de ciblage\" pour que les protéines Cas identifient et coupent le même ADN de phage envahissant lors d'infections ultérieures, ce qui est la marque de l'immunité adaptative.",
+      "de": "Das Kennzeichen der adaptiven Immunität ist die Fähigkeit, sich an frühere Infektionen zu „erinnern“ und bei erneuter Exposition eine spezifischere und effektivere Reaktion hervorzurufen. Der Text besagt ausdrücklich, dass, wenn ein Phage eine Bakterienzelle mit dem CRISPR-Cas-System infiziert, „die DNA des eindringenden Phagen gespeichert und zwischen zwei Wiederholungssequenzen in das Genom integriert wird (Abbildung 19.7)“. Diese „Spacer-DNA“ dient dann als „Zielvorrichtung“ für Cas-Proteine, um dieselbe eindringende Phagen-DNA bei nachfolgenden Infektionen zu identifizieren und zu schneiden, was das Markenzeichen der adaptiven Immunität ist.",
+      "ja": "適応免疫の決定的な特徴は、過去の感染を「記憶」し、再曝露時に特異的かつ効果的な応答を生成する能力です。本文には、ファージがCRISPR-Casシステムを持つ細菌細胞に感染すると、「侵入ファージのDNAがゲノムの2つの繰り返し配列の間（図19.7）に保存、統合される」と明記されています。この「スペーサーDNA」は、その後Casタンパク質が同じ侵入ファージDNAを後の感染で特定し切断するための「ホーミング装置」として機能し、これが適応免疫の際立った特徴です。"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "According to Figure 15.4, the physical basis for Mendel's law of independent assortment is the...",
+      "zh": "根据图 15.4，孟德尔自由组合定律的物理基础是...",
+      "es": "Según la Figura 15.4, la base física de la ley de la distribución independiente de Mendel es la...",
+      "fr": "Selon la figure 15.4, la base physique de la loi de l'assortiment indépendant de Mendel est...",
+      "de": "Nach Abbildung 15.4 ist die physikalische Grundlage für das Mendelsche Gesetz der unabhängigen Verteilung die...",
+      "ja": "図15.4によると、メンデルの独立の法則の物理的基礎は..."
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Separation of homologous chromosomes during anaphase I.",
+          "zh": "减数第一次分裂后期同源染色体的分离。",
+          "es": "Separación de los cromosomas homólogos durante la anafase I.",
+          "fr": "Séparation des chromosomes homologues pendant l'anaphase I.",
+          "de": "Trennung der homologen Chromosomen während der Anaphase I.",
+          "ja": "第一減数分裂後期における相同染色体の分離。"
+        },
+        "feedback": {
+          "en": "The separation of homologous chromosomes in anaphase I is the physical basis for the law of segregation, not independent assortment.",
+          "zh": "减数第一次分裂后期同源染色体的分离是分离定律的物理基础，而不是自由组合定律。",
+          "es": "La separación de los cromosomas homólogos en la anafase I es la base física de la ley de la segregación, no de la distribución independiente.",
+          "fr": "La séparation des chromosomes homologues pendant l'anaphase I est la base physique de la loi de la ségrégation, et non de l'assortiment indépendant.",
+          "de": "Die Trennung homologer Chromosomen in der Anaphase I ist die physikalische Grundlage für das Spaltungsgesetz, nicht für die unabhängige Verteilung.",
+          "ja": "第一減数分裂後期における相同染色体の分離は、独立の法則ではなく、分離の法則の物理的基礎です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Random arrangement of homologous chromosome pairs at metaphase I.",
+          "zh": "减数第一次分裂中期同源染色体对的随机排列。",
+          "es": "Disposición aleatoria de los pares de cromosomas homólogos en la metafase I.",
+          "fr": "Arrangement aléatoire des paires de chromosomes homologues à la métaphase I.",
+          "de": "Zufällige Anordnung der homologen Chromosomenpaare in der Metaphase I.",
+          "ja": "第一減数分裂中期における相同染色体対のランダムな配置。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Separation of sister chromatids during anaphase II.",
+          "zh": "减数第二次分裂后期姐妹染色单体的分离。",
+          "es": "Separación de las cromátidas hermanas durante la anafase II.",
+          "fr": "Séparation des chromatides sœurs pendant l'anaphase II.",
+          "de": "Trennung der Schwesterchromatiden während der Anaphase II.",
+          "ja": "第二減数分裂後期における姉妹染色分体の分離。"
+        },
+        "feedback": {
+          "en": "The separation of sister chromatids in meiosis II does not affect the combination of alleles from different genes.",
+          "zh": "减数第二次分裂中姐妹染色单体的分离不影响来自不同基因的等位基因的组合。",
+          "es": "La separación de las cromátidas hermanas en la meiosis II no afecta la combinación de alelos de diferentes genes.",
+          "fr": "La séparation des chromatides sœurs lors de la méiose II n'affecte pas la combinaison des allèles de différents gènes.",
+          "de": "Die Trennung der Schwesterchromatiden in der Meiose II hat keinen Einfluss auf die Kombination von Allelen verschiedener Gene.",
+          "ja": "第二減数分裂における姉妹染色分体の分離は、異なる遺伝子からの対立遺伝子の組み合わせに影響を与えません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The random nature of fertilization.",
+          "zh": "受精的随机性。",
+          "es": "La naturaleza aleatoria de la fertilización.",
+          "fr": "La nature aléatoire de la fécondation.",
+          "de": "Die zufällige Natur der Befruchtung.",
+          "ja": "受精のランダムな性質。"
+        },
+        "feedback": {
+          "en": "Random fertilization determines which gametes combine, but the independent assortment of alleles into those gametes has already occurred during meiosis.",
+          "zh": "随机受精决定了哪些配子结合，但等位基因在减数分裂期间已经独立分配到这些配子中。",
+          "es": "La fertilización aleatoria determina qué gametos se combinan, pero la distribución independiente de los alelos en esos gametos ya ha ocurrido durante la meiosis.",
+          "fr": "La fécondation aléatoire détermine quels gamètes se combinent, mais l'assortiment indépendant des allèles dans ces gamètes s'est déjà produit pendant la méiose.",
+          "de": "Die zufällige Befruchtung bestimmt, welche Gameten sich verbinden, aber die unabhängige Verteilung der Allele in diesen Gameten hat bereits während der Meiose stattgefunden.",
+          "ja": "ランダムな受精はどの配偶子が結合するかを決定しますが、それらの配偶子への対立遺伝子の独立した分配は減数分裂中にすでに起こっています。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The diagram explicitly shows two equally probable arrangements of the homologous chromosome pairs at metaphase I. This random orientation is what leads to the independent assortment of alleles for genes on different chromosomes, resulting in four different types of gametes in equal proportions.",
+      "zh": "该图明确显示了减数第一次分裂中期同源染色体对的两种等概率排列方式。这种随机朝向导致了位于不同染色体上的基因的等位基因的自由组合，从而产生了四种比例相等的不同类型的配子。",
+      "es": "El diagrama muestra explícitamente dos arreglos igualmente probables de los pares de cromosomas homólogos en la metafase I. Esta orientación aleatoria es lo que conduce a la distribución independiente de los alelos para los genes en diferentes cromosomas, lo que resulta en cuatro tipos diferentes de gametos en proporciones iguales.",
+      "fr": "Le diagramme montre explicitement deux arrangements équiprobables des paires de chromosomes homologues à la métaphase I. Cette orientation aléatoire est ce qui conduit à l'assortiment indépendant des allèles pour les gènes sur différents chromosomes, résultant en quatre types différents de gamètes en proportions égales.",
+      "de": "Das Diagramm zeigt deutlich zwei gleich wahrscheinliche Anordnungen der homologen Chromosomenpaare in der Metaphase I. Diese zufällige Ausrichtung führt zur unabhängigen Verteilung der Allele für Gene auf verschiedenen Chromosomen, was zu vier verschiedenen Arten von Gameten in gleichen Anteilen führt.",
+      "ja": "この図は、第一減数分裂中期における相同染色体対の2つの等しくありそうな配置を明確に示しています。このランダムな配向が、異なる染色体上の遺伝子の対立遺伝子の独立した分配につながり、結果として4つの異なる種類の配偶子が等しい割合で生じます。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In the F1 generation of the dihybrid cross shown in Figure 15.4 (YyRr), how many different types of gametes can one plant produce with respect to these two genes?",
+      "zh": "在图 15.4 所示的双基因杂交的 F1 代（YyRr）中，一株植物就这两个基因可以产生多少种不同类型的配子？",
+      "es": "En la generación F1 del cruce dihíbrido que se muestra en la Figura 15.4 (YyRr), ¿cuántos tipos diferentes de gametos puede producir una planta con respecto a estos dos genes?",
+      "fr": "Dans la génération F1 du croisement dihybride montré à la figure 15.4 (YyRr), combien de types de gamètes différents une plante peut-elle produire par rapport à ces deux gènes ?",
+      "de": "Wie viele verschiedene Arten von Gameten kann eine Pflanze in der F1-Generation der in Abbildung 15.4 gezeigten dihybriden Kreuzung (YyRr) in Bezug auf diese beiden Gene produzieren?",
+      "ja": "図15.4に示す二遺伝子雑種交配のF1世代（YyRr）において、1つの植物はこれら2つの遺伝子に関して何種類の異なる配偶子を生産できますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1",
+          "zh": "1",
+          "es": "1",
+          "fr": "1",
+          "de": "1",
+          "ja": "1"
+        },
+        "feedback": {
+          "en": "A plant can only produce one type of gamete if it is homozygous for all relevant genes (e.g., YYRR).",
+          "zh": "只有当一株植物对所有相关基因都是纯合的（例如 YYRR），它才能只产生一种类型的配子。",
+          "es": "Una planta solo puede producir un tipo de gameto si es homocigota para todos los genes relevantes (p. ej., YYRR).",
+          "fr": "Une plante ne peut produire qu'un seul type de gamète si elle est homozygote pour tous les gènes pertinents (par exemple, YYRR).",
+          "de": "Eine Pflanze kann nur eine Art von Gameten produzieren, wenn sie für alle relevanten Gene homozygot ist (z. B. YYRR).",
+          "ja": "植物が関連するすべての遺伝子についてホモ接合（例：YYRR）である場合にのみ、1種類の配偶子しか生産できません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "2",
+          "zh": "2",
+          "es": "2",
+          "fr": "2",
+          "de": "2",
+          "ja": "2"
+        },
+        "feedback": {
+          "en": "A plant heterozygous for one gene (e.g., YyRR) would produce two types of gametes.",
+          "zh": "一个基因为杂合的植物（例如 YyRR）会产生两种类型的配子。",
+          "es": "Una planta heterocigota para un gen (p. ej., YyRR) produciría dos tipos de gametos.",
+          "fr": "Une plante hétérozygote pour un gène (par exemple, YyRR) produirait deux types de gamètes.",
+          "de": "Eine für ein Gen heterozygote Pflanze (z. B. YyRR) würde zwei Arten von Gameten produzieren.",
+          "ja": "1つの遺伝子についてヘテロ接合の植物（例：YyRR）は、2種類の配偶子を生産します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "4",
+          "zh": "4",
+          "es": "4",
+          "fr": "4",
+          "de": "4",
+          "ja": "4"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "8",
+          "zh": "8",
+          "es": "8",
+          "fr": "8",
+          "de": "8",
+          "ja": "8"
+        },
+        "feedback": {
+          "en": "A plant would produce 8 types of gametes if it were heterozygous for three genes (e.g., YyRrTt).",
+          "zh": "如果一株植物对三个基因都是杂合的（例如 YyRrTt），它会产生 8 种类型的配子。",
+          "es": "Una planta produciría 8 tipos de gametos si fuera heterocigota para tres genes (p. ej., YyRrTt).",
+          "fr": "Une plante produirait 8 types de gamètes si elle était hétérozygote pour trois gènes (par exemple, YyRrTt).",
+          "de": "Eine Pflanze würde 8 Arten von Gameten produzieren, wenn sie für drei Gene heterozygot wäre (z. B. YyRrTt).",
+          "ja": "植物が3つの遺伝子についてヘテロ接合（例：YyRrTt）である場合、8種類の配偶子を生産します。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "Due to the independent assortment of the two chromosome pairs, a YyRr plant produces four types of gametes in equal proportions. The possible combinations of alleles are YR, yr, Yr, and yR, as shown at the bottom of the meiosis diagram.",
+      "zh": "由于两对染色体的自由组合，一株 YyRr 的植物会产生四种比例相等的配子。等位基因的可能组合是 YR、yr、Yr 和 yR，如减数分裂图底部所示。",
+      "es": "Debido a la distribución independiente de los dos pares de cromosomas, una planta YyRr produce cuatro tipos de gametos en proporciones iguales. Las posibles combinaciones de alelos son YR, yr, Yr e yR, como se muestra en la parte inferior del diagrama de la meiosis.",
+      "fr": "En raison de l'assortiment indépendant des deux paires de chromosomes, une plante YyRr produit quatre types de gamètes en proportions égales. Les combinaisons possibles d'allèles sont YR, yr, Yr et yR, comme le montre le bas du schéma de la méiose.",
+      "de": "Aufgrund der unabhängigen Verteilung der beiden Chromosomenpaare produziert eine YyRr-Pflanze vier Arten von Gameten in gleichen Anteilen. Die möglichen Kombinationen von Allelen sind YR, yr, Yr und yR, wie am unteren Rand des Meiose-Diagramms dargestellt.",
+      "ja": "2対の染色体の独立した分配により、YyRr植物は4種類の配偶子を等しい割合で生産します。対立遺伝子の可能な組み合わせは、減数分裂図の下部に示されているように、YR、yr、Yr、およびyRです。"
+    }
+  },
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What process restores the diploid condition, bringing together homologous chromosomes from two different parents?",
+      "zh": "什么过程恢复了二倍体状态，将来自两个不同亲本的同源染色体结合在一起？",
+      "es": "¿Qué proceso restaura la condición diploide, uniendo los cromosomas homólogos de dos padres diferentes?",
+      "fr": "Quel processus restaure la condition diploïde, réunissant les chromosomes homologues de deux parents différents ?",
+      "de": "Welcher Prozess stellt den diploiden Zustand wieder her und bringt homologe Chromosomen von zwei verschiedenen Elternteilen zusammen?",
+      "ja": "2つの異なる親からの相同染色体を一緒にして、二倍体の状態を回復させるプロセスは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Meiosis",
+          "zh": "减数分裂",
+          "es": "Meiosis",
+          "fr": "Méiose",
+          "de": "Meiose",
+          "ja": "減数分裂"
+        },
+        "feedback": {
+          "en": "Meiosis is the process that reduces the chromosome number from diploid to haploid to produce gametes.",
+          "zh": "减数分裂是将染色体数目从二倍体减少到单倍体以产生配子的过程。",
+          "es": "La meiosis es el proceso que reduce el número de cromosomas de diploide a haploide para producir gametos.",
+          "fr": "La méiose est le processus qui réduit le nombre de chromosomes de diploïde à haploïde pour produire des gamètes.",
+          "de": "Meiose ist der Prozess, der die Chromosomenzahl von diploid auf haploid reduziert, um Gameten zu produzieren.",
+          "ja": "減数分裂は、配偶子を生産するために染色体数を二倍体から半数体に減らすプロセスです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Fertilization",
+          "zh": "受精",
+          "es": "Fertilización",
+          "fr": "Fécondation",
+          "de": "Befruchtung",
+          "ja": "受精"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Anaphase I",
+          "zh": "减数第一次分裂后期",
+          "es": "Anafase I",
+          "fr": "Anaphase I",
+          "de": "Anaphase I",
+          "ja": "第一減数分裂後期"
+        },
+        "feedback": {
+          "en": "Anaphase I is a stage within meiosis where homologous chromosomes separate, which is the opposite of bringing them together.",
+          "zh": "减数第一次分裂后期是减数分裂中的一个阶段，同源染色体在此分离，这与将它们结合在一起相反。",
+          "es": "La anafase I es una etapa dentro de la meiosis donde los cromosomas homólogos se separan, que es lo opuesto a unirlos.",
+          "fr": "L'anaphase I est une étape de la méiose où les chromosomes homologues se séparent, ce qui est le contraire de les rassembler.",
+          "de": "Die Anaphase I ist ein Stadium innerhalb der Meiose, in dem sich homologe Chromosomen trennen, was das Gegenteil davon ist, sie zusammenzubringen.",
+          "ja": "第一減数分裂後期は、相同染色体が分離する減数分裂内の段階であり、それらを一緒にするのとは逆です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Metaphase I",
+          "zh": "减数第一次分裂中期",
+          "es": "Metafase I",
+          "fr": "Métaphase I",
+          "de": "Metaphase I",
+          "ja": "第一減数分裂中期"
+        },
+        "feedback": {
+          "en": "Metaphase I is the stage where homologous pairs align at the center of the cell before separating.",
+          "zh": "减数第一次分裂中期是同源染色体对在分离前在细胞中心排列的阶段。",
+          "es": "La metafase I es la etapa donde los pares homólogos se alinean en el centro de la célula antes de separarse.",
+          "fr": "La métaphase I est l'étape où les paires homologues s'alignent au centre de la cellule avant de se séparer.",
+          "de": "Die Metaphase I ist das Stadium, in dem sich homologe Paare im Zentrum der Zelle ausrichten, bevor sie sich trennen.",
+          "ja": "第一減数分裂中期は、相同対が分離する前に細胞の中心に整列する段階です。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The diagram shows that meiosis produces haploid gametes (sperm and egg), and the process of fertilization fuses them, restoring the diploid state with pairs of homologous chromosomes in the F1 generation.",
+      "zh": "图表显示，减数分裂产生单倍体配子（精子和卵子），而受精过程将它们融合，在 F1 代中恢复了具有成对同源染色体的二倍体状态。",
+      "es": "El diagrama muestra que la meiosis produce gametos haploides (espermatozoides y óvulos), y el proceso de fertilización los fusiona, restaurando el estado diploide con pares de cromosomas homólogos en la generación F1.",
+      "fr": "Le diagramme montre que la méiose produit des gamètes haploïdes (spermatozoïdes et ovules), et que le processus de fécondation les fusionne, restaurant l'état diploïde avec des paires de chromosomes homologues dans la génération F1.",
+      "de": "Das Diagramm zeigt, dass die Meiose haploide Gameten (Spermien und Eizellen) produziert und der Prozess der Befruchtung sie verschmilzt, wodurch der diploide Zustand mit Paaren homologer Chromosomen in der F1-Generation wiederhergestellt wird.",
+      "ja": "この図は、減数分裂が半数体の配偶子（精子と卵子）を生産し、受精のプロセスがそれらを融合させ、F1世代で相同染色体のペアを持つ二倍体の状態を回復することを示しています。"
+    }
+  }
+]

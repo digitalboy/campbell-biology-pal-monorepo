@@ -1,0 +1,379 @@
+[
+  {
+    "page_number": 1020,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary mechanism by which an injection of epinephrine helps a person experiencing anaphylactic shock, according to the provided text?",
+      "zh": "根据提供的文本，注射肾上腺素帮助经历过敏性休克的人的主要机制是什么？",
+      "es": "Según el texto proporcionado, ¿cuál es el mecanismo principal por el cual una inyección de epinefrina ayuda a una persona que experimenta shock anafiláctico?",
+      "fr": "Selon le texte fourni, quel est le mécanisme principal par lequel une injection d'épinéphrine aide une personne souffrant de choc anaphylactique ?",
+      "de": "Gemäß dem bereitgestellten Text, was ist der primäre Mechanismus, durch den eine Adrenalin-Injektion einer Person mit anaphylaktischem Schock hilft?",
+      "ja": "提供されたテキストによると、エピネフリン注射がアナフィラキシーショックを経験している人を助ける主なメカニズムは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It blocks receptors for histamine, diminishing allergy symptoms.",
+          "zh": "它阻断组胺受体，减轻过敏症状。",
+          "es": "Bloquea los receptores de histamina, disminuyendo los síntomas de alergia.",
+          "fr": "Elle bloque les récepteurs de l'histamine, diminuant les symptômes d'allergie.",
+          "de": "Es blockiert Histaminrezeptoren und mindert Allergiesymptome.",
+          "ja": "ヒスタミン受容体を遮断し、アレルギー症状を軽減する。"
+        },
+        "feedback": {
+          "en": "Blocking histamine receptors is the mechanism of antihistamines, not epinephrine. Epinephrine acts differently to counteract the severe effects of anaphylaxis.",
+          "zh": "阻断组胺受体是抗组胺药的机制，而不是肾上腺素。肾上腺素以不同的方式作用，以抵消过敏反应的严重影响。",
+          "es": "Bloquear los receptores de histamina es el mecanismo de los antihistamínicos, no de la epinefrina. La epinefrina actúa de manera diferente para contrarrestar los efectos graves de la anafilaxia.",
+          "fr": "Le blocage des récepteurs de l'histamine est le mécanisme des antihistaminiques, pas de l'épinéphrine. L'épinéphrine agit différemment pour contrecarrer les effets graves de l'anaphylaxie.",
+          "de": "Das Blockieren von Histaminrezeptoren ist der Mechanismus von Antihistaminika, nicht von Adrenalin. Adrenalin wirkt anders, um die schwerwiegenden Auswirkungen der Anaphylaxie zu bekämpfen.",
+          "ja": "ヒスタミン受容体の遮断は抗ヒスタミン薬のメカニズムであり、エピネフリンではありません。エピネフリンはアナフィラキシーの重篤な影響に対抗するために異なる作用をします。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It constricts peripheral blood vessels and relaxes muscles in the lungs to help breathing.",
+          "zh": "它收缩外周血管，并放松肺部肌肉以帮助呼吸。",
+          "es": "Contrae los vasos sanguíneos periféricos y relaja los músculos de los pulmones para ayudar a la respiración.",
+          "fr": "Elle contracte les vaisseaux sanguins périphériques et détend les muscles des poumons pour faciliter la respiration.",
+          "de": "Es verengt periphere Blutgefäße und entspannt die Muskeln in der Lunge, um die Atmung zu erleichtern.",
+          "ja": "末梢血管を収縮させ、肺の筋肉を弛緩させて呼吸を助ける。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It enhances the body's self-tolerance, preventing immune attack on its own molecules.",
+          "zh": "它增强身体的自我耐受性，防止免疫系统攻击自身分子。",
+          "es": "Mejora la autotolerancia del cuerpo, previniendo el ataque inmune a sus propias moléculas.",
+          "fr": "Elle améliore l'autotolérance du corps, empêchant l'attaque immunitaire de ses propres molécules.",
+          "de": "Es verbessert die Selbsttoleranz des Körpers und verhindert, dass das Immunsystem eigene Moleküle angreift.",
+          "ja": "体の自己寛容性を高め、自己分子への免疫攻撃を防ぐ。"
+        },
+        "feedback": {
+          "en": "Enhancing self-tolerance is related to preventing autoimmune diseases, not the immediate treatment of anaphylactic shock.",
+          "zh": "增强自我耐受性与预防自身免疫疾病有关，而不是对过敏性休克的即时治疗。",
+          "es": "Mejorar la autotolerancia está relacionado con la prevención de enfermedades autoinmunes, no con el tratamiento inmediato del shock anafiláctico.",
+          "fr": "L'amélioration de l'autotolérance est liée à la prévention des maladies auto-immunes, et non au traitement immédiat du choc anaphylactique.",
+          "de": "Die Verbesserung der Selbsttoleranz steht im Zusammenhang mit der Prävention von Autoimmunerkrankungen, nicht mit der sofortigen Behandlung eines anaphylaktischen Schocks.",
+          "ja": "自己寛容性の向上は、自己免疫疾患の予防に関連しており、アナフィラキシーショックの即時治療とは異なります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It stimulates the production of specific antibodies to neutralize allergens.",
+          "zh": "它刺激特定抗体的产生以中和过敏原。",
+          "es": "Estimula la producción de anticuerpos específicos para neutralizar los alérgenos.",
+          "fr": "Elle stimule la production d'anticorps spécifiques pour neutraliser les allergènes.",
+          "de": "Es stimuliert die Produktion spezifischer Antikörper zur Neutralisierung von Allergenen.",
+          "ja": "特定のアレルギー物質を中和する抗体の産生を刺激する。"
+        },
+        "feedback": {
+          "en": "Epinephrine does not directly stimulate antibody production for allergen neutralization. Its action is rapid and physiological.",
+          "zh": "肾上腺素不直接刺激抗体产生以中和过敏原。其作用是迅速且生理性的。",
+          "es": "La epinefrina no estimula directamente la producción de anticuerpos para la neutralización de alérgenos. Su acción es rápida y fisiológica.",
+          "fr": "L'épinéphrine ne stimule pas directement la production d'anticorps pour la neutralisation des allergènes. Son action est rapide et physiologique.",
+          "de": "Adrenalin stimuliert nicht direkt die Antikörperproduktion zur Allergenneutralisierung. Seine Wirkung ist schnell und physiologisch.",
+          "ja": "エピネフリンはアレルゲンを中和するための抗体産生を直接刺激しません。その作用は迅速で生理的なものです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'An injection of epinephrine rapidly counteracts this allergic response, constricting peripheral blood vessels, reducing swelling in the throat, and relaxing muscles in the lungs to help breathing.'",
+      "zh": "文本指出：“注射肾上腺素能迅速抵消这种过敏反应，收缩外周血管，减轻喉咙肿胀，并放松肺部肌肉以帮助呼吸。”",
+      "es": "El texto afirma: 'Una inyección de epinefrina contrarresta rápidamente esta respuesta alérgica, contrayendo los vasos sanguíneos periféricos, reduciendo la hinchazón en la garganta y relajando los músculos de los pulmones para ayudar a la respiración'.",
+      "fr": "Le texte indique : « Une injection d'épinéphrine contrecarre rapidement cette réponse allergique, en contractant les vaisseaux sanguins périphériques, en réduisant le gonflement dans la gorge et en relaxant les muscles des poumons pour faciliter la respiration. »",
+      "de": "Der Text besagt: „Eine Injektion von Adrenalin wirkt dieser allergischen Reaktion schnell entgegen, indem sie periphere Blutgefäße verengt, Schwellungen im Hals reduziert und die Muskeln in der Lunge entspannt, um die Atmung zu erleichtern.“",
+      "ja": "テキストには、「エピネフリンの注射は、このアレルギー反応に迅速に対抗し、末梢血管を収縮させ、喉の腫れを軽減し、肺の筋肉を弛緩させて呼吸を助ける」と記載されています。"
+    }
+  },
+  {
+    "page_number": 1020,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which of the following statements about autoimmune diseases are correct according to the provided text? (Select all that apply)",
+      "zh": "根据提供的文本，以下关于自身免疫疾病的说法哪些是正确的？（选择所有符合的选项）",
+      "es": "Según el texto proporcionado, ¿cuáles de las siguientes afirmaciones sobre las enfermedades autoinmunes son correctas? (Selecciona todas las que apliquen)",
+      "fr": "Selon le texte fourni, quelles sont les affirmations correctes concernant les maladies auto-immunes ? (Sélectionnez toutes les réponses applicables)",
+      "de": "Welche der folgenden Aussagen über Autoimmunerkrankungen sind laut dem bereitgestellten Text korrekt? (Wählen Sie alle zutreffenden aus)",
+      "ja": "提供されたテキストによると、自己免疫疾患に関する以下の記述のうち、正しいものはどれですか？（当てはまるものをすべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They are characterized by the immune system becoming active against the body's own molecules, a loss of self-tolerance.",
+          "zh": "其特征是免疫系统对自身分子产生活性，即失去自我耐受。",
+          "es": "Se caracterizan por la actividad del sistema inmune contra las propias moléculas del cuerpo, una pérdida de autotolerancia.",
+          "fr": "Elles se caractérisent par l'activation du système immunitaire contre les propres molécules de l'organisme, une perte d'autotolérance.",
+          "de": "Sie sind dadurch gekennzeichnet, dass das Immunsystem gegen die körpereigenen Moleküle aktiv wird, ein Verlust der Selbsttoleranz.",
+          "ja": "自己免疫疾患は、免疫系が自身の分子に対して活性化し、自己寛容が失われることによって特徴付けられる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Systemic lupus erythematosus (lupus) primarily involves the immune system generating antibodies against the myelin sheaths of neurons.",
+          "zh": "系统性红斑狼疮（狼疮）主要涉及免疫系统产生针对神经元髓鞘的抗体。",
+          "es": "El lupus eritematoso sistémico (lupus) implica principalmente que el sistema inmune genere anticuerpos contra las vainas de mielina de las neuronas.",
+          "fr": "Le lupus érythémateux systémique (lupus) implique principalement la production d'anticorps par le système immunitaire contre les gaines de myéline des neurones.",
+          "de": "Systemischer Lupus erythematodes (Lupus) beinhaltet primär, dass das Immunsystem Antikörper gegen die Myelinscheiden von Neuronen bildet.",
+          "ja": "全身性エリテマトーデス（ループス）は、主に免疫系が神経細胞のミエリン鞘に対して抗体を産生することを含む。"
+        },
+        "feedback": {
+          "en": "The text states that lupus involves antibodies against histones and DNA. Autoimmunity against myelin sheaths is characteristic of multiple sclerosis.",
+          "zh": "文本指出狼疮涉及针对组蛋白和DNA的抗体。针对髓鞘的自身免疫是多发性硬化症的特征。",
+          "es": "El texto indica que el lupus implica anticuerpos contra las histonas y el ADN. La autoinmunidad contra las vainas de mielina es característica de la esclerosis múltiple.",
+          "fr": "Le texte indique que le lupus implique des anticorps contre les histones et l'ADN. L'auto-immunité contre les gaines de myéline est caractéristique de la sclérose en plaques.",
+          "de": "Der Text besagt, dass Lupus Antikörper gegen Histone und DNA beinhaltet. Autoimmunität gegen Myelinscheiden ist charakteristisch für Multiple Sklerose.",
+          "ja": "テキストには、ループスがヒストンとDNAに対する抗体を含むと記載されています。ミエリン鞘に対する自己免疫は多発性硬化症の特徴です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Women are nine times more likely than men to have lupus and two to three times as likely to develop rheumatoid arthritis.",
+          "zh": "女性患狼疮的可能性是男性的九倍，患类风湿关节炎的可能性是男性的二到三倍。",
+          "es": "Las mujeres tienen nueve veces más probabilidades que los hombres de tener lupus y de dos a tres veces más probabilidades de desarrollar artritis reumatoide.",
+          "fr": "Les femmes sont neuf fois plus susceptibles que les hommes de souffrir de lupus et deux à trois fois plus susceptibles de développer une polyarthrite rhumatoïde.",
+          "de": "Frauen haben ein neunmal höheres Risiko, an Lupus zu erkranken, und ein zwei- bis dreimal höheres Risiko, an rheumatoider Arthritis zu erkranken, als Männer.",
+          "ja": "女性は男性に比べて、ループスになる可能性が9倍、関節リウマチになる可能性が2〜3倍高い。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Regulatory T cells (Tregs) are an area of current research and help modulate immune system activity to prevent responses to self-antigens.",
+          "zh": "调节性T细胞（Tregs）是当前研究的一个领域，有助于调节免疫系统活动，防止对自身抗原的反应。",
+          "es": "Las células T reguladoras (Tregs) son un área de investigación actual y ayudan a modular la actividad del sistema inmune para prevenir respuestas a autoantígenos.",
+          "fr": "Les lymphocytes T régulateurs (Tregs) sont un domaine de recherche actuel et aident à moduler l'activité du système immunitaire pour prévenir les réponses aux auto-antigènes.",
+          "de": "Regulatorische T-Zellen (Tregs) sind ein aktuelles Forschungsgebiet und helfen, die Aktivität des Immunsystems zu modulieren, um Reaktionen auf Selbstantigene zu verhindern.",
+          "ja": "制御性T細胞（Tregs）は現在の研究分野であり、自己抗原への反応を防ぐために免疫系の活動を調節するのに役立つ。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Type 1 diabetes is an autoimmune disease where the immune system targets the insulin-producing beta cells of the pancreas.",
+          "zh": "1型糖尿病是一种自身免疫疾病，免疫系统攻击胰腺中产生胰岛素的β细胞。",
+          "es": "La diabetes tipo 1 es una enfermedad autoinmune donde el sistema inmune ataca las células beta productoras de insulina del páncreas.",
+          "fr": "Le diabète de type 1 est une maladie auto-immune où le système immunitaire cible les cellules bêta productrices d'insuline du pancréas.",
+          "de": "Typ-1-Diabetes ist eine Autoimmunerkrankung, bei der das Immunsystem die insulinproduzierenden Beta-Zellen der Bauchspeicheldrüse angreift.",
+          "ja": "1型糖尿病は、免疫系が膵臓のインスリン産生β細胞を攻撃する自己免疫疾患である。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": {
+      "en": "Option A, C, D, and E are all directly stated in the text. Option B is incorrect because lupus involves antibodies against histones and DNA, while the myelin sheath target is characteristic of multiple sclerosis.",
+      "zh": "选项A、C、D和E都在文本中直接提及。选项B不正确，因为狼疮涉及针对组蛋白和DNA的抗体，而髓鞘目标是多发性硬化症的特征。",
+      "es": "Las opciones A, C, D y E se mencionan directamente en el texto. La opción B es incorrecta porque el lupus implica anticuerpos contra las histonas y el ADN, mientras que el ataque a la vaina de mielina es característico de la esclerosis múltiple.",
+      "fr": "Les options A, C, D et E sont toutes directement mentionnées dans le texte. L'option B est incorrecte car le lupus implique des anticorps contre les histones et l'ADN, tandis que la cible de la gaine de myéline est caractéristique de la sclérose en plaques.",
+      "de": "Optionen A, C, D und E sind alle direkt im Text genannt. Option B ist falsch, da Lupus Antikörper gegen Histone und DNA beinhaltet, während das Myelinscheiden-Ziel für Multiple Sklerose charakteristisch ist.",
+      "ja": "選択肢A、C、D、Eはすべてテキストに直接記載されています。選択肢Bは、ループスがヒストンとDNAに対する抗体を含むため、誤りです。ミエリン鞘の標的は多発性硬化症の特徴です。"
+    }
+  },
+  {
+    "page_number": 1020,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following scenarios describes an acquired immunodeficiency?",
+      "zh": "以下哪种情况描述的是获得性免疫缺陷？",
+      "es": "De los siguientes escenarios, ¿cuál describe una inmunodeficiencia adquirida?",
+      "fr": "Lequel des scénarios suivants décrit une immunodéficience acquise ?",
+      "de": "Welches der folgenden Szenarien beschreibt eine erworbene Immunschwäche?",
+      "ja": "以下のシナリオのうち、後天性免疫不全を説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A child is born with severe combined immunodeficiency (SCID) due to a genetic defect in lymphocyte production.",
+          "zh": "一名儿童因淋巴细胞产生方面的基因缺陷而患有重症联合免疫缺陷病（SCID）。",
+          "es": "Un niño nace con inmunodeficiencia combinada grave (SCID) debido a un defecto genético en la producción de linfocitos.",
+          "fr": "Un enfant naît avec une immunodéficience combinée sévère (SCID) due à un défaut génétique dans la production de lymphocytes.",
+          "de": "Ein Kind wird mit schwerer kombinierter Immunschwäche (SCID) aufgrund eines genetischen Defekts in der Lymphozytenproduktion geboren.",
+          "ja": "リンパ球産生の遺伝的欠陥により、重症複合免疫不全症（SCID）を抱えて生まれた子供。"
+        },
+        "feedback": {
+          "en": "SCID is explicitly mentioned as an 'inborn immunodeficiency' resulting from a genetic or developmental defect.",
+          "zh": "SCID被明确提及为由基因或发育缺陷导致的“先天性免疫缺陷”。",
+          "es": "El SCID se menciona explícitamente como una 'inmunodeficiencia innata' resultante de un defecto genético o del desarrollo.",
+          "fr": "Le SCID est explicitement mentionné comme une « immunodéficience innée » résultant d'un défaut génétique ou développemental.",
+          "de": "SCID wird ausdrücklich als „angeborene Immunschwäche“ erwähnt, die auf einen genetischen oder entwicklungsbedingten Defekt zurückzuführen ist.",
+          "ja": "SCIDは、遺伝的または発生上の欠陥に起因する「先天性免疫不全」として明示的に述べられています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "An individual experiences frequent infections after undergoing chemotherapy that suppresses the immune system.",
+          "zh": "一个人在接受抑制免疫系统的化疗后，经常出现感染。",
+          "es": "Un individuo experimenta infecciones frecuentes después de someterse a quimioterapia que suprime el sistema inmune.",
+          "fr": "Un individu subit des infections fréquentes après avoir suivi une chimiothérapie qui supprime le système immunitaire.",
+          "de": "Eine Person leidet unter häufigen Infektionen nach einer Chemotherapie, die das Immunsystem unterdrückt.",
+          "ja": "免疫系を抑制する化学療法を受けた後、頻繁な感染症を経験する個人。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A patient develops type 1 diabetes, an autoimmune condition where the immune system attacks pancreatic beta cells.",
+          "zh": "患者患上1型糖尿病，这是一种自身免疫性疾病，免疫系统攻击胰腺β细胞。",
+          "es": "Un paciente desarrolla diabetes tipo 1, una condición autoinmune donde el sistema inmune ataca las células beta del páncreas.",
+          "fr": "Un patient développe un diabète de type 1, une maladie auto-immune où le système immunitaire attaque les cellules bêta pancréatiques.",
+          "de": "Ein Patient entwickelt Typ-1-Diabetes, eine Autoimmunerkrankung, bei der das Immunsystem die Betazellen der Bauchspeicheldrüse angreift.",
+          "ja": "患者が1型糖尿病を発症する。これは、免疫系が膵臓のβ細胞を攻撃する自己免疫疾患である。"
+        },
+        "feedback": {
+          "en": "Type 1 diabetes is an autoimmune disease, not an immunodeficiency, although drugs for autoimmune diseases can *cause* acquired immunodeficiency.",
+          "zh": "1型糖尿病是一种自身免疫性疾病，而不是免疫缺陷，尽管用于自身免疫疾病的药物可能导致获得性免疫缺陷。",
+          "es": "La diabetes tipo 1 es una enfermedad autoinmune, no una inmunodeficiencia, aunque los medicamentos para enfermedades autoinmunes pueden *causar* inmunodeficiencia adquirida.",
+          "fr": "Le diabète de type 1 est une maladie auto-immune, pas une immunodéficience, bien que les médicaments pour les maladies auto-immunes puissent *provoquer* une immunodéficience acquise.",
+          "de": "Typ-1-Diabetes ist eine Autoimmunerkrankung, keine Immunschwäche, obwohl Medikamente gegen Autoimmunerkrankungen eine erworbene Immunschwäche *verursachen* können.",
+          "ja": "1型糖尿病は自己免疫疾患であり、免疫不全ではありませんが、自己免疫疾患の薬が後天性免疫不全を『引き起こす』ことはあります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A newborn is unable to produce specific antibodies due to a developmental defect in the complement system.",
+          "zh": "新生儿因补体系统发育缺陷而无法产生特异性抗体。",
+          "es": "Un recién nacido es incapaz de producir anticuerpos específicos debido a un defecto de desarrollo en el sistema del complemento.",
+          "fr": "Un nouveau-né est incapable de produire des anticorps spécifiques en raison d'un défaut de développement du système du complément.",
+          "de": "Ein Neugeborenes ist aufgrund eines Entwicklungsdefekts im Komplementsystem nicht in der Lage, spezifische Antikörper zu produzieren.",
+          "ja": "新生児が補体システムの発生欠陥により、特定の抗体を産生できない。"
+        },
+        "feedback": {
+          "en": "This describes an 'inborn immunodeficiency' as it results from a developmental defect from birth.",
+          "zh": "这描述的是一种“先天性免疫缺陷”，因为它源于出生时的发育缺陷。",
+          "es": "Esto describe una 'inmunodeficiencia innata' ya que resulta de un defecto de desarrollo desde el nacimiento.",
+          "fr": "Cela décrit une « immunodéficience innée » car elle résulte d'un défaut de développement dès la naissance.",
+          "de": "Dies beschreibt eine „angeborene Immunschwäche“, da sie auf einen Entwicklungsdefekt von Geburt an zurückzuführen ist.",
+          "ja": "これは、出生からの発達上の欠陥に起因するため、「先天性免疫不全」を説明しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that 'Later in life, exposure to chemicals or biological agents can cause an acquired immunodeficiency. Drugs used to fight autoimmune diseases or prevent transplant rejection suppress the immune system, leading to an immunodeficient state.' Chemotherapy is a chemical agent that suppresses the immune system.",
+      "zh": "文本指出：“在生命后期，接触化学物质或生物制剂可能导致获得性免疫缺陷。用于治疗自身免疫疾病或预防移植排斥的药物会抑制免疫系统，导致免疫缺陷状态。”化疗是一种抑制免疫系统的化学制剂。",
+      "es": "El texto afirma que 'más adelante en la vida, la exposición a productos químicos o agentes biológicos puede causar una inmunodeficiencia adquirida. Los medicamentos utilizados para combatir las enfermedades autoinmunes o prevenir el rechazo de trasplantes suprimen el sistema inmune, lo que lleva a un estado de inmunodeficiencia'. La quimioterapia es un agente químico que suprime el sistema inmune.",
+      "fr": "Le texte stipule que « plus tard dans la vie, l'exposition à des produits chimiques ou à des agents biologiques peut provoquer une immunodéficience acquise. Les médicaments utilisés pour lutter contre les maladies auto-immunes ou prévenir le rejet de greffe suppriment le système immunitaire, entraînant un état d'immunodéficience. » La chimiothérapie est un agent chimique qui supprime le système immunitaire.",
+      "de": "Der Text besagt: „Später im Leben kann die Exposition gegenüber Chemikalien oder biologischen Agenzien eine erworbene Immunschwäche verursachen. Medikamente, die zur Bekämpfung von Autoimmunerkrankungen oder zur Verhinderung der Transplantatabstoßung eingesetzt werden, unterdrücken das Immunsystem und führen zu einem immunschwachen Zustand.“ Chemotherapie ist ein chemisches Mittel, das das Immunsystem unterdrückt.",
+      "ja": "テキストには、「後年、化学物質や生物剤への曝露は後天性免疫不全を引き起こす可能性がある。自己免疫疾患と闘うため、または移植拒絶を予防するために使用される薬は、免疫系を抑制し、免疫不全状態を引き起こす」と記載されています。化学療法は免疫系を抑制する化学物質です。"
+    }
+  },
+  {
+    "page_number": 1020,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the provided text, what is the effect of moderate exercise on the immune system?",
+      "zh": "根据提供的文本，适度运动对免疫系统有什么影响？",
+      "es": "Según el texto proporcionado, ¿cuál es el efecto del ejercicio moderado en el sistema inmune?",
+      "fr": "Selon le texte fourni, quel est l'effet de l'exercice modéré sur le système immunitaire ?",
+      "de": "Welche Auswirkung hat mäßige Bewegung laut dem bereitgestellten Text auf das Immunsystem?",
+      "ja": "提供されたテキストによると、適度な運動が免疫系に与える影響は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It leads to more frequent infections and severe symptoms.",
+          "zh": "它导致更频繁的感染和严重的症状。",
+          "es": "Conduce a infecciones más frecuentes y síntomas graves.",
+          "fr": "Cela entraîne des infections plus fréquentes et des symptômes graves.",
+          "de": "Es führt zu häufigeren Infektionen und schwereren Symptomen.",
+          "ja": "より頻繁な感染症と重度の症状につながる。"
+        },
+        "feedback": {
+          "en": "This describes the effect of exercise to the point of exhaustion, not moderate exercise.",
+          "zh": "这描述的是运动至疲惫状态的影响，而不是适度运动的影响。",
+          "es": "Esto describe el efecto del ejercicio hasta el punto de agotamiento, no del ejercicio moderado.",
+          "fr": "Cela décrit l'effet de l'exercice jusqu'à l'épuisement, et non de l'exercice modéré.",
+          "de": "Dies beschreibt die Auswirkung von Erschöpfung durch Sport, nicht von mäßiger Bewegung.",
+          "ja": "これは、適度な運動ではなく、疲労困憊するまでの運動の影響を説明しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It improves immune system function and significantly reduces susceptibility to common infections.",
+          "zh": "它改善免疫系统功能，并显著降低对常见感染的易感性。",
+          "es": "Mejora la función del sistema inmune y reduce significativamente la susceptibilidad a infecciones comunes.",
+          "fr": "Elle améliore la fonction du système immunitaire et réduit significativement la susceptibilité aux infections courantes.",
+          "de": "Es verbessert die Funktion des Immunsystems und reduziert die Anfälligkeit für häufige Infektionen erheblich.",
+          "ja": "免疫系の機能を改善し、一般的な感染症に対する感受性を著しく低下させる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It disrupts immune system regulation by altering hormonal, nervous, and immune system interplay.",
+          "zh": "它通过改变荷尔蒙、神经和免疫系统之间的相互作用来扰乱免疫系统调节。",
+          "es": "Interrumpe la regulación del sistema inmune al alterar la interacción hormonal, nerviosa e inmune.",
+          "fr": "Elle perturbe la régulation du système immunitaire en altérant l'interaction hormonale, nerveuse et immunitaire.",
+          "de": "Es stört die Immunsystemregulation durch Veränderung des Zusammenspiels von Hormon-, Nerven- und Immunsystem.",
+          "ja": "ホルモン、神経、免疫系の相互作用を変化させることにより、免疫系の調節を乱す。"
+        },
+        "feedback": {
+          "en": "This effect is attributed to psychological stress, not moderate exercise.",
+          "zh": "这种影响归因于心理压力，而非适度运动。",
+          "es": "Este efecto se atribuye al estrés psicológico, no al ejercicio moderado.",
+          "fr": "Cet effet est attribué au stress psychologique, et non à l'exercice modéré.",
+          "de": "Dieser Effekt wird psychologischem Stress zugeschrieben, nicht mäßiger Bewegung.",
+          "ja": "この効果は適度な運動ではなく、精神的ストレスに起因するものです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It has no significant impact on the overall immune response.",
+          "zh": "它对整体免疫反应没有显著影响。",
+          "es": "No tiene un impacto significativo en la respuesta inmune general.",
+          "fr": "Elle n'a pas d'impact significatif sur la réponse immunitaire globale.",
+          "de": "Es hat keinen signifikanten Einfluss auf die gesamte Immunantwort.",
+          "ja": "全体的な免疫応答に大きな影響を与えない。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that moderate exercise *improves* immune function.",
+          "zh": "文本明确指出，适度运动会『改善』免疫功能。",
+          "es": "El texto establece explícitamente que el ejercicio moderado *mejora* la función inmune.",
+          "fr": "Le texte indique explicitement que l'exercice modéré *améliore* la fonction immunitaire.",
+          "de": "Der Text besagt ausdrücklich, dass moderate Bewegung die Immunfunktion *verbessert*.",
+          "ja": "テキストには、適度な運動が免疫機能を『改善する』と明記されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'For example, moderate exercise improves immune system function and significantly reduces susceptibility to the common cold and other infections of the upper respiratory tract.'",
+      "zh": "文本指出：“例如，适度运动能改善免疫系统功能，并显著降低对普通感冒和上呼吸道其他感染的易感性。”",
+      "es": "El texto afirma: 'Por ejemplo, el ejercicio moderado mejora la función del sistema inmune y reduce significativamente la susceptibilidad al resfriado común y otras infecciones del tracto respiratorio superior'.",
+      "fr": "Le texte indique : « Par exemple, l'exercice modéré améliore la fonction du système immunitaire et réduit significativement la susceptibilité au rhume et à d'autres infections des voies respiratoires supérieures. »",
+      "de": "Der Text besagt: „Zum Beispiel verbessert mäßige Bewegung die Funktion des Immunsystems und reduziert die Anfälligkeit für Erkältungen und andere Infektionen der oberen Atemwege erheblich.“",
+      "ja": "テキストには、「例えば、適度な運動は免疫系の機能を向上させ、風邪やその他の上気道感染症に対する感受性を著しく低下させる」と記載されています。"
+    }
+  }
+]

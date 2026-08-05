@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 410,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary function of the Cas9 protein's active sites in the CRISPR-Cas9 system as depicted in Figure 17.28, and what are the two possible outcomes for the broken DNA strands?",
+      "zh": "根据图17.28所示，Cas9蛋白的活性位点在CRISPR-Cas9系统中主要功能是什么？断裂的DNA链可能产生哪两种结果？",
+      "es": "Según la Figura 17.28, ¿cuál es la función principal de los sitios activos de la proteína Cas9 en el sistema CRISPR-Cas9, y cuáles son los dos posibles resultados para las hebras de ADN rotas?",
+      "fr": "Quelle est la fonction principale des sites actifs de la protéine Cas9 dans le système CRISPR-Cas9, telle que représentée dans la Figure 17.28, et quelles sont les deux issues possibles pour les brins d'ADN cassés?",
+      "de": "Was ist die Hauptfunktion der aktiven Zentren des Cas9-Proteins im CRISPR-Cas9-System, wie in Abbildung 17.28 dargestellt, und welche zwei möglichen Ergebnisse gibt es für die gebrochenen DNA-Stränge?",
+      "ja": "図17.28に示されているCRISPR-Cas9システムにおいて、Cas9タンパク質の活性部位の主要な機能は何ですか？また、切断されたDNA鎖の2つの可能な結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The active sites synthesize new DNA strands; the broken strands are always repaired to be functional.",
+          "zh": "活性位点合成新的DNA链；断裂的链总是修复成功能性状态。",
+          "es": "Los sitios activos sintetizan nuevas hebras de ADN; las hebras rotas siempre se reparan para ser funcionales.",
+          "fr": "Les sites actifs synthétisent de nouveaux brins d'ADN; les brins cassés sont toujours réparés pour être fonctionnels.",
+          "de": "Die aktiven Zentren synthetisieren neue DNA-Stränge; die gebrochenen Stränge werden immer funktional repariert.",
+          "ja": "活性部位は新しいDNA鎖を合成します。切断された鎖は常に機能するように修復されます。"
+        },
+        "feedback": {
+          "en": "The active sites of Cas9 cut DNA, they do not synthesize new strands. Additionally, one repair pathway results in a nonfunctional gene.",
+          "zh": "Cas9的活性位点是切割DNA的，而不是合成新链的。此外，其中一种修复途径会导致基因失去功能。",
+          "es": "Los sitios activos de Cas9 cortan el ADN, no sintetizan nuevas hebras. Además, una vía de reparación resulta en un gen no funcional.",
+          "fr": "Les sites actifs de Cas9 coupent l'ADN, ils ne synthétisent pas de nouveaux brins. De plus, une voie de réparation aboutit à un gène non fonctionnel.",
+          "de": "Die aktiven Zentren von Cas9 schneiden DNA, sie synthetisieren keine neuen Stränge. Außerdem führt ein Reparaturweg zu einem nicht-funktionalen Gen.",
+          "ja": "Cas9の活性部位はDNAを切断するもので、新しい鎖を合成するものではありません。さらに、修復経路の1つは機能しない遺伝子をもたらします。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The active sites bind to the target gene; the broken strands can either be knocked out or synthesized into a correct sequence.",
+          "zh": "活性位点结合到靶基因；断裂的链可以被敲除或合成正确的序列。",
+          "es": "Los sitios activos se unen al gen objetivo; las hebras rotas pueden ser inactivadas o sintetizadas en una secuencia correcta.",
+          "fr": "Les sites actifs se lient au gène cible; les brins cassés peuvent être inactivés ou synthétisés en une séquence correcte.",
+          "de": "Die aktiven Zentren binden an das Zielgen; die gebrochenen Stränge können entweder ausgeschaltet oder zu einer korrekten Sequenz synthetisiert werden.",
+          "ja": "活性部位は標的遺伝子に結合します。切断された鎖はノックアウトされるか、正しい配列に合成されます。"
+        },
+        "feedback": {
+          "en": "The guide RNA binds to the target gene, while the Cas9 active sites are responsible for cutting the DNA. The repair outcomes are correctly stated, but the initial function is wrong.",
+          "zh": "引导RNA结合到靶基因，而Cas9的活性位点负责切割DNA。修复结果的描述是正确的，但初始功能是错误的。",
+          "es": "El ARN guía se une al gen objetivo, mientras que los sitios activos de Cas9 son responsables de cortar el ADN. Los resultados de la reparación se indican correctamente, pero la función inicial es incorrecta.",
+          "fr": "L'ARN guide se lie au gène cible, tandis que les sites actifs de Cas9 sont responsables de la coupure de l'ADN. Les résultats de réparation sont correctement énoncés, mais la fonction initiale est erronée.",
+          "de": "Die Guide-RNA bindet an das Zielgen, während die Cas9-aktiven Zentren für das Schneiden der DNA verantwortlich sind. Die Reparaturergebnisse sind korrekt angegeben, aber die Anfangsfunktion ist falsch.",
+          "ja": "ガイドRNAが標的遺伝子に結合し、Cas9の活性部位はDNAを切断する役割を担います。修復結果は正しく記述されていますが、初期の機能が誤っています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The active sites cut the DNA on both strands; the broken strands can either be made nonfunctional by random nucleotide insertion/deletion or repaired using a normal gene template.",
+          "zh": "活性位点切割DNA的两条链；断裂的链可以通过随机核苷酸插入/删除而变得无功能，或使用正常基因模板进行修复。",
+          "es": "Los sitios activos cortan el ADN en ambas hebras; las hebras rotas pueden volverse no funcionales mediante la inserción/eliminación aleatoria de nucleótidos o repararse utilizando una plantilla de gen normal.",
+          "fr": "Les sites actifs coupent l'ADN sur les deux brins; les brins cassés peuvent soit être rendus non fonctionnels par insertion/délétion aléatoire de nucléotides, soit réparés en utilisant un modèle de gène normal.",
+          "de": "Die aktiven Zentren schneiden die DNA auf beiden Strängen; die gebrochenen Stränge können entweder durch zufällige Nukleotidinsertion/-deletion nicht-funktional gemacht oder unter Verwendung einer normalen Genvorlage repariert werden.",
+          "ja": "活性部位はDNAの両方の鎖を切断します。切断された鎖は、ランダムなヌクレオチドの挿入/削除によって機能しなくなるか、正常な遺伝子テンプレートを使用して修復されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The active sites guide the RNA to the target gene; the broken strands are immediately discarded by the cell.",
+          "zh": "活性位点引导RNA到靶基因；断裂的链立即被细胞丢弃。",
+          "es": "Los sitios activos guían el ARN al gen objetivo; las hebras rotas son inmediatamente descartadas por la célula.",
+          "fr": "Les sites actifs guident l'ARN vers le gène cible; les brins cassés sont immédiatement éliminés par la cellule.",
+          "de": "Die aktiven Zentren führen die RNA zum Zielgen; die gebrochenen Stränge werden sofort von der Zelle verworfen.",
+          "ja": "活性部位はRNAを標的遺伝子に誘導します。切断された鎖は細胞によってすぐに破棄されます。"
+        },
+        "feedback": {
+          "en": "The active sites of Cas9 cut DNA, they do not guide the RNA. The guide RNA directs the Cas9 protein. Also, the broken strands are repaired, not discarded.",
+          "zh": "Cas9的活性位点是切割DNA的，而不是引导RNA的。引导RNA引导Cas9蛋白。此外，断裂的链会被修复，而不是被丢弃。",
+          "es": "Los sitios activos de Cas9 cortan el ADN, no guían el ARN. El ARN guía dirige la proteína Cas9. Además, las hebras rotas se reparan, no se descartan.",
+          "fr": "Les sites actifs de Cas9 coupent l'ADN, ils ne guident pas l'ARN. L'ARN guide dirige la protéine Cas9. De plus, les brins cassés sont réparés, non éliminés.",
+          "de": "Die aktiven Zentren von Cas9 schneiden DNA, sie führen die RNA nicht. Die Guide-RNA leitet das Cas9-Protein. Außerdem werden die gebrochenen Stränge repariert, nicht verworfen.",
+          "ja": "Cas9の活性部位はDNAを切断するもので、RNAを誘導するものではありません。ガイドRNAがCas9タンパク質を誘導します。また、切断された鎖は修復され、破棄されません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "As shown in Figure 17.28, the Cas9 protein's active sites are explicitly stated to 'cut DNA' (Step 1 and 2). Step 3 details two repair pathways for the broken DNA strands: one where random nucleotides are inserted/deleted, making the gene nonfunctional (knockout), and another where a normal gene copy is used as a template to synthesize the correct gene sequence (repair of mutation).",
+      "zh": "如图17.28所示，Cas9蛋白的活性位点明确表示其功能是“切割DNA”（步骤1和2）。步骤3详细说明了断裂DNA链的两种修复途径：一种是随机插入/删除核苷酸，使基因失去功能（敲除）；另一种是使用正常基因拷贝作为模板合成正确的基因序列（突变修复）。",
+      "es": "Como se muestra en la Figura 17.28, los sitios activos de la proteína Cas9 se indican explícitamente para 'cortar ADN' (Pasos 1 y 2). El Paso 3 detalla dos vías de reparación para las hebras de ADN rotas: una donde se insertan/eliminan nucleótidos aleatorios, haciendo que el gen sea no funcional (knockout), y otra donde se utiliza una copia de gen normal como plantilla para sintetizar la secuencia de gen correcta (reparación de mutación).",
+      "fr": "Comme le montre la Figure 17.28, les sites actifs de la protéine Cas9 sont explicitement indiqués pour 'couper l'ADN' (Étapes 1 et 2). L'étape 3 détaille deux voies de réparation pour les brins d'ADN cassés: l'une où des nucléotides aléatoires sont insérés/délétés, rendant le gène non fonctionnel (knockout), et l'autre où une copie de gène normale est utilisée comme modèle pour synthétiser la séquence génique correcte (réparation de mutation).",
+      "de": "Wie in Abbildung 17.28 gezeigt, wird explizit angegeben, dass die aktiven Zentren des Cas9-Proteins \"DNA schneiden\" (Schritte 1 und 2). Schritt 3 beschreibt zwei Reparaturwege für die gebrochenen DNA-Stränge: einen, bei dem zufällige Nukleotide eingefügt/gelöscht werden, wodurch das Gen nicht funktionsfähig wird (Knockout), und einen anderen, bei dem eine normale Genkopie als Vorlage verwendet wird, um die korrekte Gensequenz zu synthetisieren (Mutationsreparatur).",
+      "ja": "図17.28に示されているように、Cas9タンパク質の活性部位は「DNAを切断する」（ステップ1と2）と明記されています。ステップ3では、切断されたDNA鎖の2つの修復経路が詳述されています。1つはランダムなヌクレオチドの挿入/削除によって遺伝子を機能不全にする（ノックアウト）、もう1つは正常な遺伝子テンプレートを使用して正しい遺伝子配列を合成する（変異の修復）経路です。"
+    }
+  },
+  {
+    "page_number": 410,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The text mentions Jennifer Doudna's ethical concerns regarding CRISPR-Cas9 technology, particularly 'possible effects on genes that are not being targeted.' Considering the various definitions of a gene provided and the mechanism of CRISPR-Cas9, which of the following best explains why off-target effects are a significant ethical concern?",
+      "zh": "文本提到詹妮弗·杜德纳（Jennifer Doudna）对CRISPR-Cas9技术的伦理担忧，特别是“可能对未被靶向的基因产生影响”。考虑到所提供的各种基因定义和CRISPR-Cas9的作用机制，以下哪项最能解释为何脱靶效应是一个重要的伦理问题？",
+      "es": "El texto menciona las preocupaciones éticas de Jennifer Doudna con respecto a la tecnología CRISPR-Cas9, particularmente los 'posibles efectos en genes que no están siendo objetivo'. Considerando las diversas definiciones de un gen proporcionadas y el mecanismo de CRISPR-Cas9, ¿cuál de las siguientes opciones explica mejor por qué los efectos fuera de objetivo son una preocupación ética significativa?",
+      "fr": "Le texte mentionne les préoccupations éthiques de Jennifer Doudna concernant la technologie CRISPR-Cas9, en particulier les 'effets possibles sur les gènes qui ne sont pas ciblés'. Compte tenu des diverses définitions d'un gène fournies et du mécanisme de CRISPR-Cas9, laquelle des affirmations suivantes explique le mieux pourquoi les effets hors cible sont une préoccupation éthique majeure?",
+      "de": "Der Text erwähnt Jennifer Doudnas ethische Bedenken hinsichtlich der CRISPR-Cas9-Technologie, insbesondere die \"möglichen Auswirkungen auf Gene, die nicht gezielt werden\". Unter Berücksichtigung der verschiedenen Definitionen eines Gens und des Mechanismus von CRISPR-Cas9, welche der folgenden Aussagen erklärt am besten, warum Off-Target-Effekte ein erhebliches ethisches Problem darstellen?",
+      "ja": "本文では、ジェニファー・ダウドナがCRISPR-Cas9技術に関して、「標的とされていない遺伝子への影響の可能性」という倫理的懸念を表明していることに言及しています。提供されている様々な遺伝子の定義とCRISPR-Cas9のメカニズムを考慮すると、標的外効果が重大な倫理的懸念である理由を最もよく説明しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Off-target effects primarily disrupt non-coding regulatory regions, making genes nonfunctional without changing their sequence.",
+          "zh": "脱靶效应主要破坏非编码调控区域，使基因失去功能而不改变其序列。",
+          "es": "Los efectos fuera de objetivo principalmente alteran las regiones reguladoras no codificantes, haciendo que los genes sean no funcionales sin cambiar su secuencia.",
+          "fr": "Les effets hors cible perturbent principalement les régions régulatrices non codantes, rendant les gènes non fonctionnels sans modifier leur séquence.",
+          "de": "Off-Target-Effekte stören hauptsächlich nicht-kodierende Regulationsregionen, wodurch Gene funktionsunfähig werden, ohne ihre Sequenz zu ändern.",
+          "ja": "標的外効果は主に非コード調節領域を破壊し、遺伝子の配列を変えることなく機能不全にします。"
+        },
+        "feedback": {
+          "en": "Off-target effects refer to unintended cutting and resulting sequence changes, not just disruption without sequence alteration. They can affect both coding and non-coding regions.",
+          "zh": "脱靶效应指的是意外的切割和随之而来的序列改变，而不仅仅是未改变序列的破坏。它们可以影响编码区和非编码区。",
+          "es": "Los efectos fuera de objetivo se refieren a cortes no deseados y cambios de secuencia resultantes, no solo a la interrupción sin alteración de la secuencia. Pueden afectar tanto a las regiones codificantes como no codificantes.",
+          "fr": "Les effets hors cible désignent des coupures involontaires et des changements de séquence résultants, et non seulement une perturbation sans altération de la séquence. Ils peuvent affecter les régions codantes et non codantes.",
+          "de": "Off-Target-Effekte beziehen sich auf unbeabsichtigtes Schneiden und resultierende Sequenzänderungen, nicht nur auf Störungen ohne Sequenzänderung. Sie können sowohl kodierende als auch nicht-kodierende Regionen betreffen.",
+          "ja": "標的外効果とは、意図しない切断とその結果生じる配列変化を指し、配列変化を伴わない破壊だけではありません。それらはコーディング領域と非コーディング領域の両方に影響を与える可能性があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "CRISPR-Cas9's high efficiency means that even minor off-target cutting can lead to unpredictable changes in essential genes, including those encoding non-polypeptide functional RNAs.",
+          "zh": "CRISPR-Cas9的高效率意味着即使是轻微的脱靶切割也可能导致必需基因的不可预测变化，包括编码非多肽功能性RNA的基因。",
+          "es": "La alta eficiencia de CRISPR-Cas9 significa que incluso un corte fuera de objetivo menor puede llevar a cambios impredecibles en genes esenciales, incluidos aquellos que codifican ARN funcionales no polipeptídicos.",
+          "fr": "La haute efficacité de CRISPR-Cas9 signifie que même une coupure hors cible mineure peut entraîner des changements imprévisibles dans des gènes essentiels, y compris ceux encodant des ARN fonctionnels non polypeptidiques.",
+          "de": "Die hohe Effizienz von CRISPR-Cas9 bedeutet, dass selbst geringfügige Off-Target-Schnitte zu unvorhersehbaren Veränderungen in essentiellen Genen führen können, einschließlich jener, die nicht-polypeptidische funktionelle RNAs kodieren.",
+          "ja": "CRISPR-Cas9の高い効率性は、わずかな標的外切断でも、非ポリペプチド機能性RNAをコードする遺伝子を含む、必須遺伝子に予測不可能な変化をもたらす可能性があることを意味します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The system only targets protein-coding sequences, but off-target effects can introduce random mutations that are easily corrected by the cell.",
+          "zh": "该系统只靶向蛋白质编码序列，但脱靶效应可能引入细胞容易纠正的随机突变。",
+          "es": "El sistema solo se dirige a secuencias codificadoras de proteínas, pero los efectos fuera de objetivo pueden introducir mutaciones aleatorias que la célula corrige fácilmente.",
+          "fr": "Le système ne cible que les séquences codantes de protéines, mais les effets hors cible peuvent introduire des mutations aléatoires facilement corrigées par la cellule.",
+          "de": "Das System zielt nur auf protein-kodierende Sequenzen ab, aber Off-Target-Effekte können zufällige Mutationen hervorrufen, die von der Zelle leicht korrigiert werden können.",
+          "ja": "このシステムはタンパク質コード配列のみを標的としますが、標的外効果によって細胞が容易に修正できるランダムな変異が導入される可能性があります。"
+        },
+        "feedback": {
+          "en": "The CRISPR-Cas9 system targets DNA sequences, which can include both protein-coding and non-coding functional RNA genes. Off-target mutations are not always easily corrected and can have severe consequences.",
+          "zh": "CRISPR-Cas9系统靶向DNA序列，这既包括蛋白质编码基因，也包括非编码功能性RNA基因。脱靶突变并非总是容易纠正，可能导致严重后果。",
+          "es": "El sistema CRISPR-Cas9 se dirige a secuencias de ADN, que pueden incluir tanto genes codificadores de proteínas como genes de ARN funcionales no codificantes. Las mutaciones fuera de objetivo no siempre se corrigen fácilmente y pueden tener consecuencias graves.",
+          "fr": "Le système CRISPR-Cas9 cible les séquences d'ADN, ce qui peut inclure à la fois les gènes codants les protéines et les gènes d'ARN fonctionnels non codants. Les mutations hors cible ne sont pas toujours facilement corrigées et peuvent avoir des conséquences graves.",
+          "de": "Das CRISPR-Cas9-System zielt auf DNA-Sequenzen ab, die sowohl protein-kodierende als auch nicht-kodierende funktionelle RNA-Gene umfassen können. Off-Target-Mutationen sind nicht immer leicht zu korrigieren und können schwerwiegende Folgen haben.",
+          "ja": "CRISPR-Cas9システムはDNA配列を標的とし、これにはタンパク質コード遺伝子と非コード機能性RNA遺伝子の両方が含まれます。標的外変異は常に容易に修正されるわけではなく、深刻な結果をもたらす可能性があります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Ethical concerns are mainly due to the difficulty in delivering the Cas9-guide RNA complex into all target cells effectively, not off-target cutting.",
+          "zh": "伦理担忧主要是由于将Cas9-引导RNA复合物有效递送到所有靶细胞的难度，而非脱靶切割。",
+          "es": "Las preocupaciones éticas se deben principalmente a la dificultad de entregar el complejo Cas9-ARN guía a todas las células objetivo de manera efectiva, no al corte fuera de objetivo.",
+          "fr": "Les préoccupations éthiques sont principalement dues à la difficulté de délivrer efficacement le complexe Cas9-ARN guide dans toutes les cellules cibles, et non à la coupure hors cible.",
+          "de": "Ethische Bedenken sind hauptsächlich auf die Schwierigkeit zurückzuführen, den Cas9-Guide-RNA-Komplex effektiv in alle Zielzellen zu liefern, nicht auf Off-Target-Schnitte.",
+          "ja": "倫理的懸念は主に、Cas9-ガイドRNA複合体をすべての標的細胞に効果的に送達することの困難さに起因し、標的外切断ではありません。"
+        },
+        "feedback": {
+          "en": "While delivery can be a technical challenge, the text explicitly highlights off-target effects as a major ethical concern due to unpredictable consequences on untargeted genes.",
+          "zh": "虽然递送可能是一个技术挑战，但文本明确指出脱靶效应是一个主要的伦理问题，因为它可能对未靶向的基因产生不可预测的后果。",
+          "es": "Aunque la entrega puede ser un desafío técnico, el texto destaca explícitamente los efectos fuera de objetivo como una preocupación ética importante debido a las consecuencias impredecibles en genes no objetivo.",
+          "fr": "Bien que l'administration puisse être un défi technique, le texte met explicitement en évidence les effets hors cible comme une préoccupation éthique majeure en raison des conséquences imprévisibles sur les gènes non ciblés.",
+          "de": "Obwohl die Lieferung eine technische Herausforderung sein kann, hebt der Text explizit Off-Target-Effekte als ein großes ethisches Problem hervor, aufgrund unvorhersehbarer Folgen für nicht-gezielt Gene.",
+          "ja": "送達は技術的な課題であるかもしれませんが、本文では、標的とされていない遺伝子への予測不可能な影響のため、標的外効果が主要な倫理的懸念として明確に強調されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states Doudna's concern about 'possible effects on genes that are not being targeted,' and that this is an 'active area of research.' The discussion around the definition of a gene broadening to include functional RNAs (like rRNA, tRNA) means that off-target cuts in any critical DNA sequence, whether coding for protein or functional RNA, can have severe, unpredictable consequences. The 'high efficiency' of CRISPR-Cas9, while beneficial for its intended purpose, amplifies the risk of unintended modifications elsewhere in the genome.",
+      "zh": "文本明确指出杜德纳对“可能对未被靶向的基因产生影响”的担忧，并称这是“一个活跃的研究领域”。关于基因定义扩展到包括功能性RNA（如rRNA、tRNA）的讨论意味着，对任何关键DNA序列（无论是编码蛋白质还是功能性RNA）的脱靶切割，都可能导致严重的、不可预测的后果。CRISPR-Cas9的“高效率”，虽然对其预期目的有益，但也放大了基因组其他位置发生意外修饰的风险。",
+      "es": "El texto establece explícitamente la preocupación de Doudna por los 'posibles efectos en genes que no están siendo objetivo', y que esta es un 'área activa de investigación'. La discusión en torno a la ampliación de la definición de un gen para incluir ARNs funcionales (como ARNr, ARNt) significa que los cortes fuera de objetivo en cualquier secuencia de ADN crítica, ya sea que codifique proteínas o ARN funcionales, pueden tener consecuencias graves e impredecibles. La 'alta eficiencia' de CRISPR-Cas9, si bien es beneficiosa para su propósito previsto, amplifica el riesgo de modificaciones no deseadas en otras partes del genoma.",
+      "fr": "Le texte indique explicitement la préoccupation de Doudna concernant les 'effets possibles sur les gènes qui ne sont pas ciblés', et que c'est un 'domaine de recherche actif'. La discussion autour de l'élargissement de la définition d'un gène pour inclure les ARN fonctionnels (comme les ARNr, les ARNt) signifie que les coupures hors cible dans toute séquence d'ADN critique, qu'elle code pour une protéine ou un ARN fonctionnel, peuvent avoir des conséquences graves et imprévisibles. La 'haute efficacité' de CRISPR-Cas9, bien que bénéfique pour son objectif prévu, amplifie le risque de modifications involontaires ailleurs dans le génome.",
+      "de": "Der Text erwähnt ausdrücklich Doudnas Bedenken hinsichtlich \"möglicher Auswirkungen auf Gene, die nicht gezielt werden\", und dass dies ein \"aktives Forschungsgebiet\" ist. Die Diskussion um die Erweiterung der Gendefinition zur Einbeziehung funktioneller RNAs (wie rRNA, tRNA) bedeutet, dass Off-Target-Schnitte in jeder kritischen DNA-Sequenz, ob kodierend für Protein oder funktionelle RNA, schwerwiegende, unvorhersehbare Folgen haben können. Die \"hohe Effizienz\" von CRISPR-Cas9, obwohl für den beabsichtigten Zweck vorteilhaft, verstärkt das Risiko unbeabsichtigter Modifikationen an anderer Stelle im Genom.",
+      "ja": "本文は、ダウドナが「標的とされていない遺伝子への影響の可能性」について懸念を表明しており、これが「活発な研究分野である」と明記しています。遺伝子の定義が機能性RNA（rRNA、tRNAなど）を含むように拡大されているという議論は、タンパク質または機能性RNAをコードするかにかかわらず、あらゆる重要なDNA配列における標的外切断が、深刻で予測不可能な結果をもたらす可能性があることを意味します。CRISPR-Cas9の「高効率性」は、その意図された目的には有益である一方で、ゲノムの他の場所での意図しない改変のリスクを高めます。"
+    }
+  },
+  {
+    "page_number": 410,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 17.28, what is the role of the guide RNA in the CRISPR-Cas9 system during the initial stages of gene editing?",
+      "zh": "根据图17.28，在基因编辑的初始阶段，引导RNA在CRISPR-Cas9系统中的作用是什么？",
+      "es": "Según la Figura 17.28, ¿cuál es el papel del ARN guía en el sistema CRISPR-Cas9 durante las etapas iniciales de la edición genética?",
+      "fr": "Selon la Figure 17.28, quel est le rôle de l'ARN guide dans le système CRISPR-Cas9 pendant les étapes initiales de l'édition génétique?",
+      "de": "Gemäß Abbildung 17.28, welche Rolle spielt die Guide-RNA im CRISPR-Cas9-System während der anfänglichen Phasen der Genom-Editierung?",
+      "ja": "図17.28によると、遺伝子編集の初期段階において、CRISPR-Cas9システムにおけるガイドRNAの役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It possesses active sites that directly cut the DNA of the target gene.",
+          "zh": "它具有直接切割靶基因DNA的活性位点。",
+          "es": "Posee sitios activos que cortan directamente el ADN del gen objetivo.",
+          "fr": "Il possède des sites actifs qui coupent directement l'ADN du gène cible.",
+          "de": "Es besitzt aktive Zentren, die die DNA des Zielgens direkt schneiden.",
+          "ja": "標的遺伝子のDNAを直接切断する活性部位を持っています。"
+        },
+        "feedback": {
+          "en": "The Cas9 protein, not the guide RNA, possesses the active sites that cut DNA.",
+          "zh": "是Cas9蛋白而非引导RNA拥有切割DNA的活性位点。",
+          "es": "La proteína Cas9, no el ARN guía, posee los sitios activos que cortan el ADN.",
+          "fr": "C'est la protéine Cas9, et non l'ARN guide, qui possède les sites actifs qui coupent l'ADN.",
+          "de": "Das Cas9-Protein, nicht die Guide-RNA, besitzt die aktiven Zentren, die DNA schneiden.",
+          "ja": "DNAを切断する活性部位を持っているのはガイドRNAではなく、Cas9タンパク質です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It acts as a template for synthesizing the correct gene sequence after DNA is broken.",
+          "zh": "它在DNA断裂后作为合成正确基因序列的模板。",
+          "es": "Actúa como plantilla para sintetizar la secuencia correcta del gen después de que el ADN se rompe.",
+          "fr": "Il sert de modèle pour synthétiser la séquence génique correcte après la rupture de l'ADN.",
+          "de": "Es dient als Vorlage für die Synthese der korrekten Gensequenz, nachdem die DNA gebrochen wurde.",
+          "ja": "DNAが切断された後、正しい遺伝子配列を合成するための鋳型として機能します。"
+        },
+        "feedback": {
+          "en": "A normal copy of the gene serves as a template for synthesis, not the guide RNA.",
+          "zh": "正常基因拷贝作为合成模板，而不是引导RNA。",
+          "es": "Una copia normal del gen sirve como plantilla para la síntesis, no el ARN guía.",
+          "fr": "Une copie normale du gène sert de modèle pour la synthèse, pas l'ARN guide.",
+          "de": "Eine normale Kopie des Gens dient als Vorlage für die Synthese, nicht die Guide-RNA.",
+          "ja": "合成の鋳型となるのはガイドRNAではなく、遺伝子の正常なコピーです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It binds to the Cas9 protein and then directs the complex to a specific complementary sequence on the target gene.",
+          "zh": "它与Cas9蛋白结合，然后将复合物引导到靶基因上特定的互补序列。",
+          "es": "Se une a la proteína Cas9 y luego dirige el complejo a una secuencia complementaria específica en el gen objetivo.",
+          "fr": "Il se lie à la protéine Cas9 puis dirige le complexe vers une séquence complémentaire spécifique sur le gène cible.",
+          "de": "Es bindet an das Cas9-Protein und leitet dann den Komplex zu einer spezifischen komplementären Sequenz auf dem Zielgen.",
+          "ja": "Cas9タンパク質に結合し、その後、複合体を標的遺伝子上の特定の相補配列に誘導します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It randomly inserts or deletes nucleotides to make the target gene nonfunctional.",
+          "zh": "它随机插入或删除核苷酸，使靶基因失去功能。",
+          "es": "Inserta o elimina nucleótidos aleatoriamente para hacer que el gen objetivo sea no funcional.",
+          "fr": "Il insère ou supprime aléatoirement des nucléotides pour rendre le gène cible non fonctionnel.",
+          "de": "Es fügt zufällig Nukleotide ein oder löscht sie, um das Zielgen funktionsunfähig zu machen.",
+          "ja": "標的遺伝子を機能不全にするために、ランダムにヌクレオチドを挿入または削除します。"
+        },
+        "feedback": {
+          "en": "This describes one of the DNA repair outcomes, not the function of the guide RNA.",
+          "zh": "这是DNA修复结果之一，而不是引导RNA的功能。",
+          "es": "Esto describe uno de los resultados de la reparación del ADN, no la función del ARN guía.",
+          "fr": "Ceci décrit l'un des résultats de la réparation de l'ADN, et non la fonction de l'ARN guide.",
+          "de": "Dies beschreibt eines der DNA-Reparaturergebnisse, nicht die Funktion der Guide-RNA.",
+          "ja": "これはDNA修復の結果の1つであり、ガイドRNAの機能ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 17.28 clearly labels the guide RNA as 'engineered to \"guide\" the Cas9 protein to a target gene' and states that 'the complementary sequence of the guide RNA binds to part of the target gene' (Step 1 and 2). This demonstrates its role in directing the Cas9 complex to the specific DNA site for cutting.",
+      "zh": "图17.28清楚地将引导RNA标记为“设计用于“引导”Cas9蛋白到靶基因”，并指出“引导RNA的互补序列与靶基因的一部分结合”（步骤1和2）。这表明其在将Cas9复合物引导至特定的DNA位点进行切割方面的作用。",
+      "es": "La Figura 17.28 etiqueta claramente el ARN guía como 'diseñado para \"guiar\" la proteína Cas9 a un gen objetivo' y afirma que 'la secuencia complementaria del ARN guía se une a parte del gen objetivo' (Pasos 1 y 2). Esto demuestra su papel en la dirección del complejo Cas9 al sitio de ADN específico para el corte.",
+      "fr": "La Figure 17.28 étiquette clairement l'ARN guide comme 'conçu pour \"guider\" la protéine Cas9 vers un gène cible' et indique que 'la séquence complémentaire de l'ARN guide se lie à une partie du gène cible' (Étapes 1 et 2). Cela démontre son rôle dans la direction du complexe Cas9 vers le site d'ADN spécifique pour la coupure.",
+      "de": "Abbildung 17.28 kennzeichnet die Guide-RNA eindeutig als \"entwickelt, um das Cas9-Protein zu einem Zielgen zu 'führen'\" und besagt, dass \"die komplementäre Sequenz der Guide-RNA an einen Teil des Zielgens bindet\" (Schritt 1 und 2). Dies zeigt ihre Rolle bei der Lenkung des Cas9-Komplexes zum spezifischen DNA-Schnittpunkt.",
+      "ja": "図17.28では、ガイドRNAが「Cas9タンパク質を標的遺伝子に『誘導』するように設計されている」と明確に示されており、「ガイドRNAの相補配列が標的遺伝子の一部に結合する」（ステップ1および2）と記述されています。これは、Cas9複合体を特定のDNA切断部位に誘導する役割を示しています。"
+    }
+  },
+  {
+    "page_number": 410,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Figure 17.28 illustrates two distinct pathways for repairing broken DNA strands after Cas9 cleavage. What is the fundamental difference in the outcome of these two pathways for the target gene?",
+      "zh": "图17.28展示了Cas9酶切后修复断裂DNA链的两种不同途径。这两种途径对靶基因的最终结果有何根本区别？",
+      "es": "La Figura 17.28 ilustra dos vías distintas para reparar las hebras de ADN rotas después de la escisión por Cas9. ¿Cuál es la diferencia fundamental en el resultado de estas dos vías para el gen objetivo?",
+      "fr": "La Figure 17.28 illustre deux voies distinctes de réparation des brins d'ADN cassés après le clivage par Cas9. Quelle est la différence fondamentale dans le résultat de ces deux voies pour le gène cible?",
+      "de": "Abbildung 17.28 veranschaulicht zwei unterschiedliche Wege zur Reparatur gebrochener DNA-Stränge nach der Cas9-Spaltung. Was ist der grundlegende Unterschied im Ergebnis dieser beiden Wege für das Zielgen?",
+      "ja": "図17.28は、Cas9切断後の切断されたDNA鎖を修復するための2つの異なる経路を示しています。これら2つの経路における標的遺伝子の結果の根本的な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "One pathway repairs the gene to its original functional state, while the other always results in the deletion of the entire gene.",
+          "zh": "一条途径将基因修复回其原始功能状态，而另一条途径总是导致整个基因的删除。",
+          "es": "Una vía repara el gen a su estado funcional original, mientras que la otra siempre resulta en la eliminación de todo el gen.",
+          "fr": "Une voie répare le gène à son état fonctionnel d'origine, tandis que l'autre entraîne toujours la suppression de l'intégralité du gène.",
+          "de": "Ein Weg repariert das Gen in seinen ursprünglichen funktionalen Zustand, während der andere immer zur Löschung des gesamten Gens führt.",
+          "ja": "一方の経路は遺伝子を元の機能状態に修復しますが、もう一方の経路は常に遺伝子全体の削除を引き起こします。"
+        },
+        "feedback": {
+          "en": "The other pathway makes the gene nonfunctional by random insertion/deletion, not necessarily by deleting the entire gene.",
+          "zh": "另一条途径是通过随机插入/删除使基因失去功能，而不是必定删除整个基因。",
+          "es": "La otra vía hace que el gen sea no funcional mediante la inserción/eliminación aleatoria, no necesariamente eliminando todo el gen.",
+          "fr": "L'autre voie rend le gène non fonctionnel par insertion/délétion aléatoire, pas nécessairement en supprimant l'intégralité du gène.",
+          "de": "Der andere Weg macht das Gen durch zufällige Insertion/Deletion funktionsunfähig, nicht unbedingt durch Löschung des gesamten Gens.",
+          "ja": "もう一方の経路は、ランダムな挿入/削除によって遺伝子を機能不全にするものであり、必ずしも遺伝子全体を削除するわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "One pathway leads to a nonfunctional gene through random nucleotide changes, whereas the other pathway corrects a mutation by synthesizing the proper sequence from a template.",
+          "zh": "一条途径通过随机核苷酸改变导致基因失去功能，而另一条途径则通过模板合成正确序列来纠正突变。",
+          "es": "Una vía conduce a un gen no funcional a través de cambios aleatorios de nucleótidos, mientras que la otra vía corrige una mutación sintetizando la secuencia adecuada a partir de una plantilla.",
+          "fr": "Une voie conduit à un gène non fonctionnel par des changements aléatoires de nucléotides, tandis que l'autre voie corrige une mutation en synthétisant la séquence appropriée à partir d'un modèle.",
+          "de": "Ein Weg führt zu einem nicht-funktionalen Gen durch zufällige Nukleotidveränderungen, während der andere Weg eine Mutation korrigiert, indem er die korrekte Sequenz von einer Vorlage synthetisiert.",
+          "ja": "一方の経路はランダムなヌクレオチドの変化によって機能しない遺伝子につながりますが、もう一方の経路はテンプレートから適切な配列を合成することによって変異を修正します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both pathways lead to a functional gene, but one uses a normal template while the other relies on random insertion.",
+          "zh": "两条途径都导致功能性基因，但一条使用正常模板，另一条依赖随机插入。",
+          "es": "Ambas vías conducen a un gen funcional, pero una utiliza una plantilla normal mientras que la otra se basa en la inserción aleatoria.",
+          "fr": "Les deux voies conduisent à un gène fonctionnel, mais l'une utilise un modèle normal tandis que l'autre repose sur l'insertion aléatoire.",
+          "de": "Beide Wege führen zu einem funktionalen Gen, aber der eine verwendet eine normale Vorlage, während der andere auf zufällige Insertionen angewiesen ist.",
+          "ja": "どちらの経路も機能する遺伝子につながりますが、一方は正常なテンプレートを使用し、もう一方はランダムな挿入に依存します。"
+        },
+        "feedback": {
+          "en": "Only one pathway leads to a functional gene (using a normal template); the other leads to a nonfunctional gene.",
+          "zh": "只有一条途径（使用正常模板）能导致功能性基因；另一条则导致基因失去功能。",
+          "es": "Solo una vía conduce a un gen funcional (usando una plantilla normal); la otra conduce a un gen no funcional.",
+          "fr": "Une seule voie conduit à un gène fonctionnel (en utilisant un modèle normal); l'autre conduit à un gène non fonctionnel.",
+          "de": "Nur ein Weg führt zu einem funktionalen Gen (unter Verwendung einer normalen Vorlage); der andere führt zu einem nicht-funktionalen Gen.",
+          "ja": "機能する遺伝子につながるのは一方の経路（正常なテンプレートを使用する方）のみです。もう一方は機能しない遺伝子につながります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both pathways result in gene knockout, but one is more efficient than the other.",
+          "zh": "两条途径都导致基因敲除，但其中一条比另一条更有效。",
+          "es": "Ambas vías resultan en la inactivación génica, pero una es más eficiente que la otra.",
+          "fr": "Les deux voies entraînent un gène inactivé, mais l'une est plus efficace que l'autre.",
+          "de": "Beide Wege führen zu einem Gen-Knockout, aber der eine ist effizienter als der andere.",
+          "ja": "どちらの経路も遺伝子ノックアウトをもたらしますが、一方がもう一方よりも効率的です。"
+        },
+        "feedback": {
+          "en": "Only one pathway results in a gene knockout (nonfunctional gene); the other pathway corrects the gene.",
+          "zh": "只有一条途径导致基因敲除（基因无功能）；另一条途径是修复基因。",
+          "es": "Solo una vía resulta en una inactivación génica (gen no funcional); la otra vía corrige el gen.",
+          "fr": "Une seule voie entraîne un gène inactivé (gène non fonctionnel); l'autre voie corrige le gène.",
+          "de": "Nur ein Weg führt zu einem Gen-Knockout (nicht-funktionales Gen); der andere Weg korrigiert das Gen.",
+          "ja": "遺伝子ノックアウト（機能しない遺伝子）をもたらすのは一方の経路のみです。もう一方の経路は遺伝子を修正します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 17.28, Step 3, clearly describes two distinct repair pathways. The left pathway states 'repair enzymes insert and/or delete random nucleotides, making the gene nonfunctional' (a gene knockout). The right pathway states 'If the target gene has a mutation, it can be repaired by providing a normal copy of the gene. Repair enzymes use the normal gene as a template and synthesize the correct gene sequence.' This highlights the fundamental difference in outcomes: one leads to a nonfunctional gene, and the other to a corrected, functional gene.",
+      "zh": "图17.28的步骤3清楚地描述了两种不同的修复途径。左侧途径说明“修复酶插入和/或删除随机核苷酸，使基因失去功能”（基因敲除）。右侧途径说明“如果靶基因有突变，可以通过提供正常基因拷贝进行修复。修复酶使用正常基因作为模板合成正确的基因序列。”这突出了结果的根本区别：一个导致无功能基因，另一个导致被纠正的功能性基因。",
+      "es": "La Figura 17.28, Paso 3, describe claramente dos vías de reparación distintas. La vía izquierda indica 'las enzimas de reparación insertan y/o eliminan nucleótidos aleatorios, haciendo que el gen sea no funcional' (un knockout génico). La vía derecha indica 'Si el gen objetivo tiene una mutación, se puede reparar proporcionando una copia normal del gen. Las enzimas de reparación utilizan el gen normal como plantilla y sintetizan la secuencia correcta del gen'. Esto resalta la diferencia fundamental en los resultados: uno conduce a un gen no funcional y el otro a un gen corregido y funcional.",
+      "fr": "La Figure 17.28, étape 3, décrit clairement deux voies de réparation distinctes. La voie de gauche indique 'les enzymes de réparation insèrent et/ou suppriment des nucléotides aléatoires, rendant le gène non fonctionnel' (un knockout génique). La voie de droite indique 'Si le gène cible a une mutation, il peut être réparé en fournissant une copie normale du gène. Les enzymes de réparation utilisent le gène normal comme modèle et synthétisent la séquence génique correcte.' Cela met en évidence la différence fondamentale des résultats: l'un conduit à un gène non fonctionnel, et l'autre à un gène corrigé et fonctionnel.",
+      "de": "Abbildung 17.28, Schritt 3, beschreibt klar zwei unterschiedliche Reparaturwege. Der linke Weg besagt: \"Reparaturenzyme fügen zufällige Nukleotide ein und/oder löschen sie, wodurch das Gen nicht funktionsfähig wird\" (ein Gen-Knockout). Der rechte Weg besagt: \"Wenn das Zielgen eine Mutation hat, kann es durch Bereitstellung einer normalen Genkopie repariert werden. Reparaturenzyme verwenden das normale Gen als Vorlage und synthetisieren die korrekte Gensequenz.\" Dies unterstreicht den fundamentalen Unterschied in den Ergebnissen: Einer führt zu einem nicht-funktionalen Gen, der andere zu einem korrigierten, funktionalen Gen.",
+      "ja": "図17.28のステップ3は、2つの異なる修復経路を明確に記述しています。左側の経路は「修復酵素がランダムなヌクレオチドを挿入および/または削除し、遺伝子を機能不全にする」（遺伝子ノックアウト）と述べています。右側の経路は「標的遺伝子に変異がある場合、正常な遺伝子コピーを提供することで修復できます。修復酵素は正常な遺伝子をテンプレートとして使用し、正しい遺伝子配列を合成します」と述べています。これは、結果の根本的な違いを強調しています。一方は機能しない遺伝子につながり、もう一方は修正された機能する遺伝子につながります。"
+    }
+  }
+]

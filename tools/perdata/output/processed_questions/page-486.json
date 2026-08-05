@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 486,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the STR marker data in Figure 20.24 (b), which individual's DNA profile matches the semen sample found on the victim?",
+      "zh": "根据图 20.24 (b) 中的 STR 标记数据，哪一个体的 DNA 图谱与在受害者身上发现的精液样本相匹配？",
+      "es": "Según los datos del marcador STR en la Figura 20.24 (b), ¿el perfil de ADN de qué individuo coincide con la muestra de semen encontrada en la víctima?",
+      "fr": "Selon les données des marqueurs STR de la Figure 20.24 (b), quel profil ADN d'individu correspond à l'échantillon de sperme trouvé sur la victime ?",
+      "de": "Basierend auf den STR-Marker-Daten in Abbildung 20.24 (b), wessen DNA-Profil stimmt mit der auf dem Opfer gefundenen Samenprobe überein?",
+      "ja": "図20.24 (b)のSTRマーカーデータに基づくと、どの個人のDNAプロファイルが被害者から見つかった精液サンプルと一致しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Earl Washington",
+          "zh": "厄尔·华盛顿",
+          "es": "Earl Washington",
+          "fr": "Earl Washington",
+          "de": "Earl Washington",
+          "ja": "アール・ワシントン"
+        },
+        "feedback": {
+          "en": "Earl Washington's STR profile (16,18; 14,15; 11,12) does not match the semen sample.",
+          "zh": "厄尔·华盛顿的 STR 图谱 (16,18; 14,15; 11,12) 与精液样本不匹配。",
+          "es": "El perfil STR de Earl Washington (16,18; 14,15; 11,12) no coincide con la muestra de semen.",
+          "fr": "Le profil STR d'Earl Washington (16,18; 14,15; 11,12) ne correspond pas à l'échantillon de sperme.",
+          "de": "Earl Washingtons STR-Profil (16,18; 14,15; 11,12) stimmt nicht mit der Samenprobe überein.",
+          "ja": "アール・ワシントンのSTRプロファイル（16,18; 14,15; 11,12）は精液サンプルと一致しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Kenneth Tinsley",
+          "zh": "肯尼斯·廷斯利",
+          "es": "Kenneth Tinsley",
+          "fr": "Kenneth Tinsley",
+          "de": "Kenneth Tinsley",
+          "ja": "ケネス・ティンズリー"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both Earl Washington and Kenneth Tinsley",
+          "zh": "厄尔·华盛顿和肯尼斯·廷斯利都匹配",
+          "es": "Tanto Earl Washington como Kenneth Tinsley",
+          "fr": "Earl Washington et Kenneth Tinsley",
+          "de": "Sowohl Earl Washington als auch Kenneth Tinsley",
+          "ja": "アール・ワシントンとケネス・ティンズリーの両方"
+        },
+        "feedback": {
+          "en": "Only Kenneth Tinsley's profile matches the semen sample.",
+          "zh": "只有肯尼斯·廷斯利的图谱与精液样本匹配。",
+          "es": "Solo el perfil de Kenneth Tinsley coincide con la muestra de semen.",
+          "fr": "Seul le profil de Kenneth Tinsley correspond à l'échantillon de sperme.",
+          "de": "Nur Kenneth Tinsleys Profil stimmt mit der Samenprobe überein.",
+          "ja": "ケネス・ティンズリーのプロファイルのみが精液サンプルと一致します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Neither Earl Washington nor Kenneth Tinsley",
+          "zh": "厄尔·华盛顿和肯尼斯·廷斯利都不匹配",
+          "es": "Ni Earl Washington ni Kenneth Tinsley",
+          "fr": "Ni Earl Washington ni Kenneth Tinsley",
+          "de": "Weder Earl Washington noch Kenneth Tinsley",
+          "ja": "アール・ワシントンもケネス・ティンズリーもどちらも一致しない"
+        },
+        "feedback": {
+          "en": "Kenneth Tinsley's profile matches the semen sample.",
+          "zh": "肯尼斯·廷斯利的图谱与精液样本匹配。",
+          "es": "El perfil de Kenneth Tinsley coincide con la muestra de semen.",
+          "fr": "Le profil de Kenneth Tinsley correspond à l'échantillon de sperme.",
+          "de": "Kenneth Tinsleys Profil stimmt mit der Samenprobe überein.",
+          "ja": "ケネス・ティンズリーのプロファイルは精液サンプルと一致します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The STR marker data in Figure 20.24 (b) shows that the semen sample on the victim has marker values of (17,19), (13,16), and (12,12) for STR marker 1, 2, and 3, respectively. Kenneth Tinsley's STR profile also shows (17,19), (13,16), and (12,12) for the same markers. Earl Washington's profile, however, is (16,18), (14,15), and (11,12), which does not match the semen sample. Therefore, Kenneth Tinsley's DNA profile matches the semen sample.",
+      "zh": "图 20.24 (b) 中的 STR 标记数据显示，受害者身上的精液样本在 STR 标记 1、2 和 3 上的标记值分别为 (17,19)、(13,16) 和 (12,12)。肯尼斯·廷斯利的 STR 图谱在相同标记上也显示为 (17,19)、(13,16) 和 (12,12)。然而，厄尔·华盛顿的图谱是 (16,18)、(14,15) 和 (11,12)，与精液样本不匹配。因此，肯尼斯·廷斯利的 DNA 图谱与精液样本匹配。",
+      "es": "Los datos del marcador STR en la Figura 20.24 (b) muestran que la muestra de semen en la víctima tiene valores de marcador de (17,19), (13,16) y (12,12) para los marcadores STR 1, 2 y 3, respectivamente. El perfil STR de Kenneth Tinsley también muestra (17,19), (13,16) y (12,12) para los mismos marcadores. El perfil de Earl Washington, sin embargo, es (16,18), (14,15) y (11,12), que no coincide con la muestra de semen. Por lo tanto, el perfil de ADN de Kenneth Tinsley coincide con la muestra de semen.",
+      "fr": "Les données des marqueurs STR de la Figure 20.24 (b) montrent que l'échantillon de sperme sur la victime présente des valeurs de marqueurs de (17,19), (13,16) et (12,12) pour les marqueurs STR 1, 2 et 3, respectivement. Le profil STR de Kenneth Tinsley présente également (17,19), (13,16) et (12,12) pour les mêmes marqueurs. Le profil d'Earl Washington, cependant, est (16,18), (14,15) et (11,12), ce qui ne correspond pas à l'échantillon de sperme. Par conséquent, le profil ADN de Kenneth Tinsley correspond à l'échantillon de sperme.",
+      "de": "Die STR-Marker-Daten in Abbildung 20.24 (b) zeigen, dass die Samenprobe auf dem Opfer die Markerwerte (17,19), (13,16) und (12,12) für die STR-Marker 1, 2 und 3 aufweist. Kenneth Tinsleys STR-Profil zeigt ebenfalls (17,19), (13,16) und (12,12) für dieselben Marker. Earl Washingtons Profil ist jedoch (16,18), (14,15) und (11,12), was nicht mit der Samenprobe übereinstimmt. Daher stimmt Kenneth Tinsleys DNA-Profil mit der Samenprobe überein.",
+      "ja": "図20.24 (b)のSTRマーカーデータによると、被害者から見つかった精液サンプルは、STRマーカー1、2、3についてそれぞれ(17,19)、(13,16)、(12,12)のマーカー値を示しています。ケネス・ティンズリーのSTRプロファイルも、同じマーカーについて(17,19)、(13,16)、(12,12)を示しています。しかし、アール・ワシントンのプロファイルは(16,18)、(14,15)、(11,12)であり、精液サンプルとは一致しません。したがって、ケネス・ティンズリーのDNAプロファイルが精液サンプルと一致します。"
+    }
+  },
+  {
+    "page_number": 486,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, what is the approximate probability that two non-identical people will have identical DNA profiles when 13 STR markers are used in forensic analysis?",
+      "zh": "根据文中描述，当法医分析中使用13个STR标记时，两个非同卵双胞胎的人拥有完全相同DNA图谱的大致概率是多少？",
+      "es": "Según el texto, ¿cuál es la probabilidad aproximada de que dos personas no idénticas tengan perfiles de ADN idénticos cuando se utilizan 13 marcadores STR en el análisis forense?",
+      "fr": "Selon le texte, quelle est la probabilité approximative que deux personnes non identiques aient des profils ADN identiques lorsque 13 marqueurs STR sont utilisés dans une analyse forensique ?",
+      "de": "Laut Text, wie hoch ist die ungefähre Wahrscheinlichkeit, dass zwei nicht-identische Personen identische DNA-Profile aufweisen, wenn 13 STR-Marker in der forensischen Analyse verwendet werden?",
+      "ja": "テキストによると、法医学分析で13のSTRマーカーが使用された場合、2人の非同一の人物が同一のDNAプロファイルを持つおおよその確率はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Between one in 7 billion and one in 8 billion.",
+          "zh": "介于七十亿分之一到八十亿分之一之间。",
+          "es": "Entre uno en 7 mil millones y uno en 8 mil millones.",
+          "fr": "Entre un sur 7 milliards et un sur 8 milliards.",
+          "de": "Zwischen eins zu 7 Milliarden und eins zu 8 Milliarden.",
+          "ja": "70億分の1から80億分の1の間。"
+        },
+        "feedback": {
+          "en": "This range refers to the world's population, not the probability of identical DNA profiles.",
+          "zh": "这个范围指的是世界人口，而不是相同DNA图谱的概率。",
+          "es": "Este rango se refiere a la población mundial, no a la probabilidad de perfiles de ADN idénticos.",
+          "fr": "Cette fourchette fait référence à la population mondiale, et non à la probabilité de profils ADN identiques.",
+          "de": "Dieser Bereich bezieht sich auf die Weltbevölkerung, nicht auf die Wahrscheinlichkeit identischer DNA-Profile.",
+          "ja": "この範囲は世界の人口を示しており、同一のDNAプロファイルの確率ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Between one in 10 billion and one in several trillion.",
+          "zh": "介于一百亿分之一到几万亿分之一之间。",
+          "es": "Entre uno en 10 mil millones y uno en varios billones.",
+          "fr": "Entre un sur 10 milliards et un sur plusieurs trillions.",
+          "de": "Zwischen eins zu 10 Milliarden und eins zu mehreren Billionen.",
+          "ja": "100億分の1から数兆分の1の間。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Less than one in a million.",
+          "zh": "少于百万分之一。",
+          "es": "Menos de uno en un millón.",
+          "fr": "Moins d'un sur un million.",
+          "de": "Weniger als eins zu einer Million.",
+          "ja": "100万分の1未満。"
+        },
+        "feedback": {
+          "en": "The probability is much smaller than one in a million, indicating a very unique profile.",
+          "zh": "概率远小于百万分之一，表明图谱的唯一性非常高。",
+          "es": "La probabilidad es mucho menor que uno en un millón, lo que indica un perfil muy único.",
+          "fr": "La probabilité est bien inférieure à un sur un million, ce qui indique un profil très unique.",
+          "de": "Die Wahrscheinlichkeit ist viel geringer als eins zu einer Million, was auf ein sehr einzigartiges Profil hindeutet.",
+          "ja": "確率は100万分の1よりもはるかに小さく、非常にユニークなプロファイルであることを示しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Exactly one in a billion.",
+          "zh": "恰好十亿分之一。",
+          "es": "Exactamente uno en mil millones.",
+          "fr": "Exactement un sur un milliard.",
+          "de": "Genau eins zu einer Milliarde.",
+          "ja": "厳密には10億分の1。"
+        },
+        "feedback": {
+          "en": "While one in a billion is a large number, the text specifies a broader range from one in 10 billion to several trillion.",
+          "zh": "尽管十亿分之一是一个很大的数字，但文中明确指出范围是从一百亿分之一到几万亿分之一。",
+          "es": "Aunque uno en mil millones es un número grande, el texto especifica un rango más amplio de uno en 10 mil millones a varios billones.",
+          "fr": "Bien qu'un milliard soit un grand nombre, le texte spécifie une fourchette plus large, de un sur 10 milliards à plusieurs trillions.",
+          "de": "Obwohl eine Milliarde eine große Zahl ist, gibt der Text einen breiteren Bereich von eins zu 10 Milliarden bis zu mehreren Billionen an.",
+          "ja": "10億分の1は大きな数字ですが、テキストでは100億分の1から数兆分の1というより広い範囲が指定されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: \"In forensic cases using STR analysis with 13 markers, the probability of two people having identical DNA profiles is somewhere between one in 10 billion and one in several trillion.\" Therefore, option B is the correct answer. Option A refers to the world's population, not the probability.",
+      "zh": "文中提到：“在法医分析中使用13个STR标记的案例中，两个人拥有相同DNA图谱的概率大约在一百亿分之一到几万亿分之一之间。” 因此，选项 B 是正确答案。选项 A 指的是世界人口，而非概率。",
+      "es": "El texto establece: \"En casos forenses que utilizan el análisis STR con 13 marcadores, la probabilidad de que dos personas tengan perfiles de ADN idénticos está entre uno en 10 mil millones y uno en varios billones.\" Por lo tanto, la opción B es la respuesta correcta. La opción A se refiere a la población mundial, no a la probabilidad.",
+      "fr": "Le texte indique : « Dans les cas médico-légaux utilisant l'analyse STR avec 13 marqueurs, la probabilité que deux personnes aient des profils ADN identiques se situe entre un sur 10 milliards et un sur plusieurs trillions. » Par conséquent, l'option B est la bonne réponse. L'option A fait référence à la population mondiale, pas à la probabilité.",
+      "de": "Der Text besagt: „In forensischen Fällen, die eine STR-Analyse mit 13 Markern verwenden, liegt die Wahrscheinlichkeit, dass zwei Personen identische DNA-Profile aufweisen, irgendwo zwischen eins zu 10 Milliarden und eins zu mehreren Billionen.“ Daher ist Option B die richtige Antwort. Option A bezieht sich auf die Weltbevölkerung, nicht auf die Wahrscheinlichkeit.",
+      "ja": "テキストには、「13のSTRマーカーを用いた法医学分析では、2人の人物が同一のDNAプロファイルを持つ確率は、100億分の1から数兆分の1の間である」と記載されています。したがって、選択肢Bが正しい答えです。選択肢Aは世界の人口を指しており、確率ではありません。"
+    }
+  },
+  {
+    "page_number": 486,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following is NOT an application of microorganisms in environmental cleanup as described in the text?",
+      "zh": "根据文中描述，下列哪项不是微生物在环境清理中的应用？",
+      "es": "¿Cuál de las siguientes NO es una aplicación de los microorganismos en la limpieza ambiental como se describe en el texto?",
+      "fr": "Parmi les propositions suivantes, laquelle N'EST PAS une application des micro-organismes dans le nettoyage environnemental telle que décrite dans le texte ?",
+      "de": "Welche der folgenden Anwendungen von Mikroorganismen in der Umweltreinigung wird im Text NICHT beschrieben?",
+      "ja": "テキストに記載されている、環境浄化における微生物の応用として、次のうちどれが該当しませんか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Extracting heavy metals from the environment.",
+          "zh": "从环境中提取重金属。",
+          "es": "Extraer metales pesados del medio ambiente.",
+          "fr": "Extraire les métaux lourds de l'environnement.",
+          "de": "Schwermetalle aus der Umwelt extrahieren.",
+          "ja": "環境から重金属を抽出する。"
+        },
+        "feedback": {
+          "en": "The text explicitly states bacteria can extract heavy metals like copper, lead, and nickel.",
+          "zh": "文中明确指出细菌可以提取铜、铅、镍等重金属。",
+          "es": "El texto afirma explícitamente que las bacterias pueden extraer metales pesados como el cobre, el plomo y el níquel.",
+          "fr": "Le texte indique explicitement que les bactéries peuvent extraire les métaux lourds comme le cuivre, le plomb et le nickel.",
+          "de": "Der Text besagt explizit, dass Bakterien Schwermetalle wie Kupfer, Blei und Nickel extrahieren können.",
+          "ja": "テキストには、バクテリアが銅、鉛、ニッケルなどの重金属を抽出できると明記されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Degrading chlorinated hydrocarbons.",
+          "zh": "降解氯代烃。",
+          "es": "Degradar hidrocarburos clorados.",
+          "fr": "Dégrader les hydrocarbures chlorés.",
+          "de": "Chlorierte Kohlenwasserstoffe abbauen.",
+          "ja": "塩素化炭化水素を分解する。"
+        },
+        "feedback": {
+          "en": "Biotechnologists are trying to engineer microorganisms to degrade chlorinated hydrocarbons.",
+          "zh": "生物技术人员正尝试改造微生物以降解氯代烃。",
+          "es": "Los biotecnólogos están intentando diseñar microorganismos para degradar hidrocarburos clorados.",
+          "fr": "Les biotechnologistes essaient de concevoir des micro-organismes pour dégrader les hydrocarburos chlorés.",
+          "de": "Biotechnologen versuchen, Mikroorganismen zu entwickeln, um chlorierte Kohlenwasserstoffe abzubauen.",
+          "ja": "バイオテクノロジストは、塩素化炭化水素を分解する微生物を工学的に設計しようとしています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cleaning up highly toxic mining wastes.",
+          "zh": "清理剧毒采矿废料。",
+          "es": "Limpiar residuos mineros altamente tóxicos.",
+          "fr": "Nettoyer les déchets miniers hautement toxiques.",
+          "de": "Hochgiftige Bergbauabfälle reinigen.",
+          "ja": "毒性の高い鉱業廃棄物を浄化する。"
+        },
+        "feedback": {
+          "en": "Genetically engineered microorganisms may become important in cleaning up highly toxic mining wastes.",
+          "zh": "基因工程微生物可能在清理剧毒采矿废料方面变得重要。",
+          "es": "Los microorganismos genéticamente modificados pueden volverse importantes en la limpieza de residuos mineros altamente tóxicos.",
+          "fr": "Les micro-organismes génétiquement modifiés pourraient devenir importants pour nettoyer les déchets miniers hautement toxiques.",
+          "de": "Gentechnisch veränderte Mikroorganismen könnten bei der Reinigung hochgiftiger Bergbauabfälle wichtig werden.",
+          "ja": "遺伝子組み換え微生物は、毒性の高い鉱業廃棄物の浄化において重要になる可能性があります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Directly converting atmospheric nitrogen into fertilizers for crops.",
+          "zh": "将大气氮直接转化为作物肥料。",
+          "es": "Convertir directamente el nitrógeno atmosférico en fertilizantes para cultivos.",
+          "fr": "Convertir directement l'azote atmosphérique en engrais pour les cultures.",
+          "de": "Atmosphärischen Stickstoff direkt in Dünger für Nutzpflanzen umwandeln.",
+          "ja": "大気中の窒素を直接作物用の肥料に変換する。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "The \"Environmental Cleanup\" section discusses microorganisms' abilities to extract heavy metals, degrade chlorinated hydrocarbons, and clean up toxic mining wastes. There is no mention of directly converting atmospheric nitrogen into fertilizers for crops as an environmental cleanup application within this text.",
+      "zh": "“环境清理”部分讨论了微生物提取重金属、降解氯代烃和清理有毒采矿废料的能力。本文中没有提及将大气氮直接转化为作物肥料作为环境清理的应用。",
+      "es": "La sección \"Limpieza Ambiental\" discute las habilidades de los microorganismos para extraer metales pesados, degradar hidrocarburos clorados y limpiar residuos mineros tóxicos. No se menciona la conversión directa de nitrógeno atmosférico en fertilizantes para cultivos como una aplicación de limpieza ambiental dentro de este texto.",
+      "fr": "La section \"Nettoyage environnemental\" aborde les capacités des micro-organismes à extraire les métaux lourds, à dégrader les hydrocarbures chlorés et à nettoyer les déchets miniers toxiques. Il n'est fait aucune mention de la conversion directe de l'azote atmosphérique en engrais pour les cultures comme application de nettoyage environnemental dans ce texte.",
+      "de": "Der Abschnitt „Umweltreinigung“ behandelt die Fähigkeit von Mikroorganismen, Schwermetalle zu extrahieren, chlorierte Kohlenwasserstoffe abzubauen und toxische Bergbauabfälle zu reinigen. Die direkte Umwandlung von atmosphärischem Stickstoff in Dünger für Nutzpflanzen als Anwendung zur Umweltreinigung wird in diesem Text nicht erwähnt.",
+      "ja": "「環境浄化」のセクションでは、微生物が重金属を抽出したり、塩素化炭化水素を分解したり、有毒な鉱業廃棄物を浄化したりする能力について説明されています。このテキストの中では、大気中の窒素を直接作物用の肥料に変換することが環境浄化の応用として言及されていません。"
+    }
+  }
+]

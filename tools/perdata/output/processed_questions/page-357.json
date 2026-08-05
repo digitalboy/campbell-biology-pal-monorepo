@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A piece of a chromosome breaks off and joins a nonhomologous chromosome. What is this type of structural alteration called?",
+      "zh": "一条染色体的一个片段断裂并连接到一条非同源染色体上。这种类型的结构变异叫什么？",
+      "es": "Un trozo de un cromosoma se rompe y se une a un cromosoma no homólogo. ¿Cómo se llama este tipo de alteración estructural?",
+      "fr": "Un morceau d'un chromosome se détache et se joint à un chromosome non homologue. Comment appelle-t-on ce type d'altération structurelle ?",
+      "de": "Ein Stück eines Chromosoms bricht ab und verbindet sich mit einem nicht-homologen Chromosom. Wie wird diese Art von struktureller Veränderung genannt?",
+      "ja": "染色体の一部が壊れて非相同染色体に結合します。このタイプの構造変化は何と呼ばれますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Deletion",
+          "zh": "缺失",
+          "es": "Deleción",
+          "fr": "Délétion",
+          "de": "Deletion",
+          "ja": "欠失"
+        },
+        "feedback": {
+          "en": "Deletion is the loss of a chromosomal segment.",
+          "zh": "缺失是染色体片段的丢失。",
+          "es": "La deleción es la pérdida de un segmento cromosómico.",
+          "fr": "La délétion est la perte d'un segment chromosomique.",
+          "de": "Deletion ist der Verlust eines Chromosomensegments.",
+          "ja": "欠失は染色体セグメントの喪失です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Duplication",
+          "zh": "重复",
+          "es": "Duplicación",
+          "fr": "Duplication",
+          "de": "Duplikation",
+          "ja": "重複"
+        },
+        "feedback": {
+          "en": "Duplication is the addition of a repeated chromosomal segment.",
+          "zh": "重复是染色体片段的增加。",
+          "es": "La duplicación es la adición de un segmento cromosómico repetido.",
+          "fr": "La duplication est l'ajout d'un segment chromosomique répété.",
+          "de": "Duplikation ist die Hinzufügung eines wiederholten Chromosomensegments.",
+          "ja": "重複は、染色体セグメントの繰り返しが追加されることです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Inversion",
+          "zh": "倒位",
+          "es": "Inversión",
+          "fr": "Inversion",
+          "de": "Inversion",
+          "ja": "逆位"
+        },
+        "feedback": {
+          "en": "Inversion is when a segment reattaches to the same chromosome but in the reverse orientation.",
+          "zh": "倒位是指一个片段以相反的方向重新连接到同一条染色体上。",
+          "es": "La inversión es cuando un segmento se vuelve a unir al mismo cromosoma pero en la orientación inversa.",
+          "fr": "L'inversion se produit lorsqu'un segment se rattache au même chromosome mais dans le sens inverse.",
+          "de": "Inversion ist, wenn sich ein Segment wieder an dasselbe Chromosom anheftet, aber in umgekehrter Ausrichtung.",
+          "ja": "逆位とは、セグメントが同じ染色体に逆向きに再結合することです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Translocation",
+          "zh": "易位",
+          "es": "Translocación",
+          "fr": "Translocation",
+          "de": "Translokation",
+          "ja": "転座"
+        }
+      }
+    ],
+    "correct_answers": ["D"],
+    "explanation": {
+      "en": "Figure 15.14d explicitly defines and illustrates a translocation as an event where a segment from one chromosome moves to a nonhomologous chromosome.",
+      "zh": "图 15.14d 明确定义并图示了易位，即一个染色体片段移动到非同源染色体上的事件。",
+      "es": "La Figura 15.14d define e ilustra explícitamente una translocación como un evento en el que un segmento de un cromosoma se mueve a un cromosoma no homólogo.",
+      "fr": "La figure 15.14d définit et illustre explicitement une translocation comme un événement où un segment d'un chromosome se déplace vers un chromosome non homologue.",
+      "de": "Abbildung 15.14d definiert und veranschaulicht eine Translokation ausdrücklich als ein Ereignis, bei dem sich ein Segment von einem Chromosom auf ein nicht-homologes Chromosom bewegt.",
+      "ja": "図15.14dは、転座を、ある染色体からのセグメントが非相同染色体に移動するイベントとして明確に定義し、図示しています。"
+    }
+  },
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the specific chromosomal abnormality that causes Down syndrome?",
+      "zh": "导致唐氏综合征的特定染色体异常是什么？",
+      "es": "¿Cuál es la anomalía cromosómica específica que causa el síndrome de Down?",
+      "fr": "Quelle est l'anomalie chromosomique spécifique qui cause le syndrome de Down ?",
+      "de": "Was ist die spezifische Chromosomenanomalie, die das Down-Syndrom verursacht?",
+      "ja": "ダウン症候群を引き起こす特定の染色体異常は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A deletion on chromosome 21",
+          "zh": "21 号染色体缺失",
+          "es": "Una deleción en el cromosoma 21",
+          "fr": "Une délétion sur le chromosome 21",
+          "de": "Eine Deletion auf Chromosom 21",
+          "ja": "21番染色体の欠失"
+        },
+        "feedback": {
+          "en": "Down syndrome is caused by an extra copy of chromosome 21, not a deletion.",
+          "zh": "唐氏综合征是由多一条 21 号染色体引起的，而不是缺失。",
+          "es": "El síndrome de Down es causado por una copia extra del cromosoma 21, no por una deleción.",
+          "fr": "Le syndrome de Down est causé par une copie supplémentaire du chromosome 21, et non par une délétion.",
+          "de": "Das Down-Syndrom wird durch eine zusätzliche Kopie von Chromosom 21 verursacht, nicht durch eine Deletion.",
+          "ja": "ダウン症候群は、欠失ではなく、21番染色体の余分なコピーによって引き起こされます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Trisomy 21",
+          "zh": "21 三体综合征",
+          "es": "Trisomía 21",
+          "fr": "Trisomie 21",
+          "de": "Trisomie 21",
+          "ja": "21トリソミー"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "An extra X chromosome (XXY)",
+          "zh": "多一条 X 染色体 (XXY)",
+          "es": "Un cromosoma X extra (XXY)",
+          "fr": "Un chromosome X supplémentaire (XXY)",
+          "de": "Ein zusätzliches X-Chromosom (XXY)",
+          "ja": "余分なX染色体（XXY）"
+        },
+        "feedback": {
+          "en": "This condition is known as Klinefelter syndrome, not Down syndrome.",
+          "zh": "这种情况被称为克氏综合征，而不是唐氏综合征。",
+          "es": "Esta condición se conoce como síndrome de Klinefelter, no síndrome de Down.",
+          "fr": "Cette condition est connue sous le nom de syndrome de Klinefelter, et non de syndrome de Down.",
+          "de": "Dieser Zustand ist als Klinefelter-Syndrom bekannt, nicht als Down-Syndrom.",
+          "ja": "この状態はダウン症候群ではなく、クラインフェルター症候群として知られています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A translocation between chromosome 9 and 22",
+          "zh": "9 号和 22 号染色体之间的易位",
+          "es": "Una translocación entre el cromosoma 9 y el 22",
+          "fr": "Une translocation entre le chromosome 9 et le 22",
+          "de": "Eine Translokation zwischen Chromosom 9 und 22",
+          "ja": "9番染色体と22番染色体の間の転座"
+        },
+        "feedback": {
+          "en": "This specific translocation is associated with certain types of leukemia (the Philadelphia chromosome), not Down syndrome.",
+          "zh": "这种特定的易位与某些类型的白血病（费城染色体）有关，而不是唐氏综合征。",
+          "es": "Esta translocación específica se asocia con ciertos tipos de leucemia (el cromosoma Filadelfia), no con el síndrome de Down.",
+          "fr": "Cette translocation spécifique est associée à certains types de leucémie (le chromosome de Philadelphie), et non au syndrome de Down.",
+          "de": "Diese spezifische Translokation ist mit bestimmten Arten von Leukämie (dem Philadelphia-Chromosom) assoziiert, nicht mit dem Down-Syndrom.",
+          "ja": "この特定の転座は、ダウン症候群ではなく、特定の種類の白血病（フィラデルフィア染色体）に関連しています。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text explicitly states that Down syndrome is 'usually the result of an extra chromosome 21, so that each body cell has a total of 47 chromosomes.' This condition is specifically called trisomy 21, as shown in the karyotype in Figure 15.15.",
+      "zh": "文本明确指出，唐氏综合征“通常是由于多了一条 21 号染色体，因此每个体细胞总共有 47 条染色体。” 这种情况被特称为 21 三体综合征，如图 15.15 的核型图所示。",
+      "es": "El texto establece explícitamente que el síndrome de Down es 'generalmente el resultado de un cromosoma 21 extra, de modo que cada célula del cuerpo tiene un total de 47 cromosomas'. Esta condición se llama específicamente trisomía 21, como se muestra en el cariotipo de la Figura 15.15.",
+      "fr": "Le texte déclare explicitement que le syndrome de Down est « généralement le résultat d'un chromosome 21 supplémentaire, de sorte que chaque cellule du corps a un total de 47 chromosomes ». Cette condition est spécifiquement appelée trisomie 21, comme le montre le caryotype de la figure 15.15.",
+      "de": "Der Text besagt ausdrücklich, dass das Down-Syndrom „normalerweise das Ergebnis eines zusätzlichen Chromosoms 21 ist, sodass jede Körperzelle insgesamt 47 Chromosomen hat.“ Dieser Zustand wird spezifisch als Trisomie 21 bezeichnet, wie im Karyotyp in Abbildung 15.15 gezeigt.",
+      "ja": "本文では、ダウン症候群は「通常、余分な21番染色体の結果であり、各体細胞が合計47本の染色体を持つ」と明確に述べられています。この状態は、図15.15の核型に示すように、特に21トリソミーと呼ばれます。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Even in cases of chromosomal inversion or translocation where the balance of genes is not abnormal (no genes are lost), why can the phenotype still be altered?",
+      "zh": "即使在染色体倒位或易位等基因平衡未受影响（没有基因丢失）的情况下，为什么表型仍然可能被改变？",
+      "es": "Incluso en los casos de inversión o translocación cromosómica donde el equilibrio de los genes no es anormal (no se pierden genes), ¿por qué el fenotipo todavía puede alterarse?",
+      "fr": "Même dans les cas d'inversion ou de translocation chromosomique où l'équilibre des gènes n'est pas anormal (aucun gène n'est perdu), pourquoi le phénotype peut-il encore être modifié ?",
+      "de": "Warum kann der Phänotyp selbst in Fällen von Chromosomeninversion oder -translokation, bei denen das Gleichgewicht der Gene nicht abnormal ist (keine Gene gehen verloren), immer noch verändert werden?",
+      "ja": "遺伝子のバランスが異常でない（遺伝子が失われていない）染色体の逆位や転座の場合でも、なぜ表現型が変化することがあるのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Because the chromosome changes shape.",
+          "zh": "因为染色体的形状改变了。",
+          "es": "Porque el cromosoma cambia de forma.",
+          "fr": "Parce que le chromosome change de forme.",
+          "de": "Weil das Chromosom seine Form ändert.",
+          "ja": "染色体の形が変わるからです。"
+        },
+        "feedback": {
+          "en": "While the shape may change, the phenotypic effect is due to changes in gene expression, not the shape itself.",
+          "zh": "虽然形状可能改变，但表型效应是由于基因表达的改变，而不是形状本身。",
+          "es": "Si bien la forma puede cambiar, el efecto fenotípico se debe a cambios en la expresión génica, no a la forma en sí.",
+          "fr": "Bien que la forme puisse changer, l'effet phénotypique est dû à des changements dans l'expression des gènes, et non à la forme elle-même.",
+          "de": "Obwohl sich die Form ändern kann, ist der phänotypische Effekt auf Veränderungen der Genexpression zurückzuführen, nicht auf die Form selbst.",
+          "ja": "形は変わるかもしれませんが、表現型の効果は形自体ではなく、遺伝子発現の変化によるものです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Because a gene's expression can be influenced by its location among neighboring genes.",
+          "zh": "因为一个基因的表达会受到其与邻近基因的位置关系的影响。",
+          "es": "Porque la expresión de un gen puede verse influenciada por su ubicación entre los genes vecinos.",
+          "fr": "Parce que l'expression d'un gène peut être influencée par son emplacement parmi les gènes voisins.",
+          "de": "Weil die Expression eines Gens von seiner Lage unter benachbarten Genen beeinflusst werden kann.",
+          "ja": "遺伝子の発現は、隣接する遺伝子の中でのその位置に影響される可能性があるためです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Because these alterations always cause nondisjunction in the next meiosis.",
+          "zh": "因为这些变异总是在下一次减数分裂中引起不分离。",
+          "es": "Porque estas alteraciones siempre causan no disyunción en la siguiente meiosis.",
+          "fr": "Parce que ces altérations provoquent toujours une non-disjonction lors de la méiose suivante.",
+          "de": "Weil diese Veränderungen immer zu einer Nondisjunction in der nächsten Meiose führen.",
+          "ja": "これらの変化は、次の減数分裂で常に不分離を引き起こすためです。"
+        },
+        "feedback": {
+          "en": "While some structural changes can lead to problems in meiosis, it is not a guaranteed outcome, nor is it the direct cause of the phenotypic change itself.",
+          "zh": "虽然一些结构变化可能导致减数分裂出现问题，但这并非必然结果，也不是表型变化本身的直接原因。",
+          "es": "Si bien algunos cambios estructurales pueden provocar problemas en la meiosis, no es un resultado garantizado, ni es la causa directa del cambio fenotípico en sí.",
+          "fr": "Bien que certains changements structurels puissent entraîner des problèmes lors de la méiose, ce n'est pas un résultat garanti, ni la cause directe du changement phénotypique lui-même.",
+          "de": "Obwohl einige strukturelle Veränderungen zu Problemen in der Meiose führen können, ist dies kein garantiertes Ergebnis und auch nicht die direkte Ursache der phänotypischen Veränderung selbst.",
+          "ja": "一部の構造変化は減数分裂に問題を引き起こす可能性がありますが、それは保証された結果ではなく、表現型変化自体の直接的な原因でもありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Because the total number of chromosomes in the cell is changed.",
+          "zh": "因为细胞中染色体的总数改变了。",
+          "es": "Porque se cambia el número total de cromosomas en la célula.",
+          "fr": "Parce que le nombre total de chromosomes dans la cellule est modifié.",
+          "de": "Weil die Gesamtzahl der Chromosomen in der Zelle verändert wird.",
+          "ja": "細胞内の染色体の総数が変化するためです。"
+        },
+        "feedback": {
+          "en": "Inversions and reciprocal translocations change the structure of chromosomes but do not change the total number of chromosomes in the cell.",
+          "zh": "倒位和相互易位改变了染色体的结构，但没有改变细胞中染色体的总数。",
+          "es": "Las inversiones y las translocaciones recíprocas cambian la estructura de los cromosomas, pero no cambian el número total de cromosomas en la célula.",
+          "fr": "Les inversions et les translocations réciproques modifient la structure des chromosomes mais ne modifient pas le nombre total de chromosomes dans la cellule.",
+          "de": "Inversionen und reziproke Translokationen verändern die Struktur von Chromosomen, aber nicht die Gesamtzahl der Chromosomen in der Zelle.",
+          "ja": "逆位と相互転座は染色体の構造を変えますが、細胞内の染色体の総数は変えません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text explicitly mentions this phenomenon, known as a position effect: 'translocations and inversions can alter phenotype because a gene's expression can be influenced by its location among neighboring genes, which can have devastating effects.' For example, moving a gene near a different regulatory region can change how it is expressed.",
+      "zh": "文本明确提到了这种被称为位置效应的现象：“易位和倒位可以改变表型，因为一个基因的表达会受到其与邻近基因的位置关系的影响，这可能会产生毁灭性后果。” 例如，将一个基因移动到不同的调控区域附近会改变它的表达方式。",
+      "es": "El texto menciona explícitamente este fenómeno, conocido como efecto de posición: 'las translocaciones e inversiones pueden alterar el fenotipo porque la expresión de un gen puede verse influenciada por su ubicación entre los genes vecinos, lo que puede tener efectos devastadores'. Por ejemplo, mover un gen cerca de una región reguladora diferente puede cambiar la forma en que se expresa.",
+      "fr": "Le texte mentionne explicitement ce phénomène, connu sous le nom d'effet de position : « les translocations et les inversions peuvent modifier le phénotype car l'expression d'un gène peut être influencée par son emplacement parmi les gènes voisins, ce qui peut avoir des effets dévastateurs ». Par exemple, déplacer un gène près d'une région régulatrice différente peut modifier la façon dont il est exprimé.",
+      "de": "Der Text erwähnt dieses Phänomen, das als Positionseffekt bekannt ist, ausdrücklich: „Translokationen und Inversionen können den Phänotyp verändern, da die Expression eines Gens von seiner Lage unter benachbarten Genen beeinflusst werden kann, was verheerende Auswirkungen haben kann.“ Wenn beispielsweise ein Gen in die Nähe einer anderen regulatorischen Region verschoben wird, kann sich seine Expression ändern.",
+      "ja": "本文では、位置効果として知られるこの現象について明確に言及しています。「転座や逆位は、遺伝子の発現が隣接する遺伝子の中でのその位置に影響される可能性があり、壊滅的な影響を与える可能性があるため、表現型を変える可能性があります。」たとえば、遺伝子を異なる調節領域の近くに移動させると、その発現方法が変わる可能性があります。"
+    }
+  }
+]

@@ -1,0 +1,385 @@
+[
+  {
+    "page_number": 423,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary distinction between \"general transcription factors\" and \"specific transcription factors\" in eukaryotic gene regulation, as discussed in the text?",
+      "zh": "根据文本讨论，真核基因调控中“通用转录因子”和“特异性转录因子”的主要区别是什么？",
+      "es": "¿Cuál es la distinción principal entre los \"factores de transcripción generales\" y los \"factores de transcripción específicos\" en la regulación génica eucariota, según lo discutido en el texto?",
+      "fr": "Quelle est la distinction principale entre les « facteurs de transcription généraux » et les « facteurs de transcription spécifiques » dans la régulation génique eucaryote, telle que discutée dans le texte ?",
+      "de": "Worin besteht der Hauptunterschied zwischen „allgemeinen Transkriptionsfaktoren“ und „spezifischen Transkriptionsfaktoren“ in der eukaryotischen Genregulation, wie im Text erörtert?",
+      "ja": "本文で述べられているように、真核生物の遺伝子調節における「一般転写因子」と「特異的転写因子」の主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "General TFs are involved in basal transcription, while specific TFs are responsible for high-level, regulated transcription.",
+          "zh": "通用转录因子参与基础转录，而特异性转录因子负责高水平的、受调控的转录。",
+          "es": "Los FT generales están implicados en la transcripción basal, mientras que los FT específicos son responsables de la transcripción regulada de alto nivel.",
+          "fr": "Les FT généraux sont impliqués dans la transcription basale, tandis que les FT spécifiques sont responsables de la transcription régulée à haut niveau.",
+          "de": "Allgemeine Transkriptionsfaktoren sind an der Basistranskription beteiligt, während spezifische Transkriptionsfaktoren für die hochregulierte Transkription verantwortlich sind.",
+          "ja": "一般転写因子は基礎転写に関与し、特異的転写因子は高レベルの調節された転写を担当する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "General TFs bind to enhancers, while specific TFs bind directly to the promoter.",
+          "zh": "通用转录因子结合到增强子，而特异性转录因子直接结合到启动子。",
+          "es": "Los FT generales se unen a los potenciadores, mientras que los FT específicos se unen directamente al promotor.",
+          "fr": "Les FT généraux se lient aux amplificateurs, tandis que les FT spécifiques se lient directement au promoteur.",
+          "de": "Allgemeine Transkriptionsfaktoren binden an Enhancer, während spezifische Transkriptionsfaktoren direkt an den Promotor binden.",
+          "ja": "一般転写因子はエンハンサーに結合し、特異的転写因子は直接プロモーターに結合する。"
+        },
+        "feedback": {
+          "en": "Incorrect. General TFs primarily interact with the promoter, while specific TFs often bind to enhancers.",
+          "zh": "不正确。通用转录因子主要与启动子相互作用，而特异性转录因子通常结合到增强子。",
+          "es": "Incorrecto. Los FT generales interactúan principalmente con el promotor, mientras que los FT específicos a menudo se unen a los potenciadores.",
+          "fr": "Incorrect. Les FT généraux interagissent principalement avec le promoteur, tandis que les FT spécifiques se lient souvent aux amplificateurs.",
+          "de": "Falsch. Allgemeine Transkriptionsfaktoren interagieren primär mit dem Promotor, während spezifische Transkriptionsfaktoren oft an Enhancer binden.",
+          "ja": "誤り。一般転写因子は主にプロモーターと相互作用し、特異的転写因子はしばしばエンハンサーに結合します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Specific TFs are always expressed, while general TFs are only expressed when needed.",
+          "zh": "特异性转录因子始终表达，而通用转录因子仅在需要时表达。",
+          "es": "Los FT específicos se expresan siempre, mientras que los FT generales solo se expresan cuando son necesarios.",
+          "fr": "Les FT spécifiques sont toujours exprimés, tandis que les FT généraux ne sont exprimés qu'en cas de besoin.",
+          "de": "Spezifische Transkriptionsfaktoren werden immer exprimiert, während allgemeine Transkriptionsfaktoren nur bei Bedarf exprimiert werden.",
+          "ja": "特異的転写因子は常に発現し、一般転写因子は必要なときにのみ発現する。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text implies general TFs are broadly available, and specific TFs are involved in *regulated* expression, not necessarily always expressed.",
+          "zh": "不正确。文本暗示通用转录因子广泛存在，而特异性转录因子参与的是*受调控的*表达，不一定始终表达。",
+          "es": "Incorrecto. El texto implica que los FT generales están ampliamente disponibles, y los FT específicos están involucrados en la expresión *regulada*, no necesariamente siempre expresados.",
+          "fr": "Incorrect. Le texte implique que les FT généraux sont largement disponibles, et les FT spécifiques sont impliqués dans l'expression *régulée*, pas nécessairement toujours exprimés.",
+          "de": "Falsch. Der Text impliziert, dass allgemeine Transkriptionsfaktoren weit verbreitet sind, und spezifische Transkriptionsfaktoren an der *regulierten* Expression beteiligt sind, nicht unbedingt immer exprimiert werden.",
+          "ja": "誤り。本文は、一般転写因子が広く利用可能であり、特異的転写因子は*調節された*発現に関与しており、必ずしも常に発現しているわけではないことを示唆しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "General TFs activate transcription, while specific TFs only repress it.",
+          "zh": "通用转录因子激活转录，而特异性转录因子只抑制转录。",
+          "es": "Los FT generales activan la transcripción, mientras que los FT específicos solo la reprimen.",
+          "fr": "Les FT généraux activent la transcription, tandis que les FT spécifiques ne font que la réprimer.",
+          "de": "Allgemeine Transkriptionsfaktoren aktivieren die Transkription, während spezifische Transkriptionsfaktoren sie nur unterdrücken.",
+          "ja": "一般転写因子は転写を活性化し、特異的転写因子は転写を抑制するのみである。"
+        },
+        "feedback": {
+          "en": "Incorrect. Specific TFs can act as either activators or repressors.",
+          "zh": "不正确。特异性转录因子既可以是激活物也可以是抑制物。",
+          "es": "Incorrecto. Los FT específicos pueden actuar como activadores o represores.",
+          "fr": "Incorrect. Les FT spécifiques peuvent agir comme activateurs ou répresseurs.",
+          "de": "Falsch. Spezifische Transkriptionsfaktoren können sowohl als Aktivatoren als auch als Repressoren wirken.",
+          "ja": "誤り。特異的転写因子は活性化因子としても抑制因子としても機能しうる。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explains that the interaction of general transcription factors and RNA polymerase II typically leads to a low rate of transcription (basal level), while high levels of transcription depend on specific transcription factors.",
+      "zh": "文本解释说，通用转录因子与RNA聚合酶II的相互作用通常导致较低的转录速率（基础水平），而高水平的转录则依赖于特异性转录因子。",
+      "es": "El texto explica que la interacción de los factores de transcripción generales y la ARN polimerasa II suele conducir a una baja tasa de transcripción (nivel basal), mientras que los altos niveles de transcripción dependen de los factores de transcripción específicos.",
+      "fr": "Le texte explique que l'interaction des facteurs de transcription généraux et de l'ARN polymérase II conduit généralement à un faible taux de transcription (niveau basal), tandis que les niveaux élevés de transcription dépendent des facteurs de transcription spécifiques.",
+      "de": "Der Text erklärt, dass die Interaktion allgemeiner Transkriptionsfaktoren und der RNA-Polymerase II typischerweise zu einer niedrigen Transkriptionsrate (Basallevel) führt, während hohe Transkriptionsraten von spezifischen Transkriptionsfaktoren abhängen.",
+      "ja": "本文では、一般転写因子とRNAポリメラーゼIIの相互作用は通常、低い転写速度（基礎レベル）につながるのに対し、高レベルの転写は特異的転写因子に依存すると説明されています。"
+    }
+  },
+  {
+    "page_number": 423,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 18.10 and its accompanying description, which statement accurately describes the MyoD protein?",
+      "zh": "根据图18.10及其附带的描述，以下哪项陈述准确描述了MyoD蛋白？",
+      "es": "Según la Figura 18.10 y su descripción adjunta, ¿qué afirmación describe con precisión la proteína MyoD?",
+      "fr": "Selon la figure 18.10 et sa description, quelle affirmation décrit précisément la protéine MyoD ?",
+      "de": "Entsprechend Abbildung 18.10 und der zugehörigen Beschreibung, welche Aussage beschreibt das MyoD-Protein zutreffend?",
+      "ja": "図18.10とそれに付随する説明によると、MyoDタンパク質を正確に説明している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "MyoD is a transcriptional activator composed of two polypeptide subunits, each possessing both a DNA-binding domain and an activation domain.",
+          "zh": "MyoD是一种转录激活物，由两个多肽亚基组成，每个亚基都具有一个DNA结合域和一个激活域。",
+          "es": "MyoD es un activador transcripcional compuesto por dos subunidades polipeptídicas, cada una con un dominio de unión al ADN y un dominio de activación.",
+          "fr": "MyoD est un activateur transcriptionnel composé de deux sous-unités polypeptidiques, chacune possédant à la fois un domaine de liaison à l'ADN et un domaine d'activation.",
+          "de": "MyoD ist ein Transkriptionsaktivator, der aus zwei Polypeptid-Untereinheiten besteht, von denen jede sowohl eine DNA-Bindungsdomäne als auch eine Aktivierungsdomäne besitzt.",
+          "ja": "MyoDは2つのポリペプチドサブユニットから構成される転写活性化因子であり、各サブユニットはDNA結合ドメインと活性化ドメインの両方を持つ。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The DNA-binding domain of MyoD is located in the upper half of the protein, while the activation domain is in the lower half.",
+          "zh": "MyoD的DNA结合域位于蛋白质的上半部分，而激活域位于下半部分。",
+          "es": "El dominio de unión al ADN de MyoD se encuentra en la mitad superior de la proteína, mientras que el dominio de activación está en la mitad inferior.",
+          "fr": "Le domaine de liaison à l'ADN de MyoD est situé dans la moitié supérieure de la protéine, tandis que le domaine d'activation se trouve dans la moitié inférieure.",
+          "de": "Die DNA-Bindungsdomäne von MyoD befindet sich in der oberen Hälfte des Proteins, während die Aktivierungsdomäne in der unteren Hälfte liegt.",
+          "ja": "MyoDのDNA結合ドメインはタンパク質の上半分に位置し、活性化ドメインは下半分にある。"
+        },
+        "feedback": {
+          "en": "Incorrect. The description states the DNA-binding domain is in the lower half and the activation domain is in the upper half.",
+          "zh": "不正确。描述指出DNA结合域在下半部分，激活域在上半部分。",
+          "es": "Incorrecto. La descripción indica que el dominio de unión al ADN está en la mitad inferior y el dominio de activación en la mitad superior.",
+          "fr": "Incorrect. La description indique que le domaine de liaison à l'ADN est dans la moitié inférieure et le domaine d'activation dans la moitié supérieure.",
+          "de": "Falsch. Die Beschreibung besagt, dass die DNA-Bindungsdomäne in der unteren Hälfte und die Aktivierungsdomäne in der oberen Hälfte liegt.",
+          "ja": "誤り。説明には、DNA結合ドメインが下半分にあり、活性化ドメインが上半部にあると記載されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "MyoD's activation domains primarily bind directly to DNA to initiate transcription.",
+          "zh": "MyoD的激活域主要直接结合到DNA以启动转录。",
+          "es": "Los dominios de activación de MyoD se unen principalmente directamente al ADN para iniciar la transcripción.",
+          "fr": "Les domaines d'activation de MyoD se lient principalement directement à l'ADN pour initier la transcription.",
+          "de": "Die Aktivierungsdomänen von MyoD binden primär direkt an die DNA, um die Transkription zu initiieren.",
+          "ja": "MyoDの活性化ドメインは主に直接DNAに結合し、転写を開始する。"
+        },
+        "feedback": {
+          "en": "Incorrect. Activation domains bind other regulatory proteins or components of the transcription machinery, while DNA-binding domains bind DNA.",
+          "zh": "不正确。激活域结合其他调控蛋白或转录机制的组分，而DNA结合域结合DNA。",
+          "es": "Incorrecto. Los dominios de activación se unen a otras proteínas reguladoras o componentes de la maquinaria de transcripción, mientras que los dominios de unión al ADN se unen al ADN.",
+          "fr": "Incorrect. Les domaines d'activation se lient à d'autres protéines régulatrices ou composants de la machinerie de transcription, tandis que les domaines de liaison à l'ADN se lient à l'ADN.",
+          "de": "Falsch. Aktivierungsdomänen binden andere regulatorische Proteine oder Komponenten des Transkriptionsapparats, während DNA-Bindungsdomänen an DNA binden.",
+          "ja": "誤り。活性化ドメインは他の調節タンパク質や転写機構の構成要素に結合し、DNA結合ドメインがDNAに結合します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "MyoD is a single-subunit protein with separate regions for DNA binding and activation.",
+          "zh": "MyoD是一种单亚基蛋白，具有独立的DNA结合区域和激活区域。",
+          "es": "MyoD es una proteína de una sola subunidad con regiones separadas para la unión al ADN y la activación.",
+          "fr": "MyoD est une protéine à sous-unité unique avec des régions séparées pour la liaison à l'ADN et l'activation.",
+          "de": "MyoD ist ein Einzeluntereinheiten-Protein mit separaten Regionen für die DNA-Bindung und Aktivierung.",
+          "ja": "MyoDはDNA結合と活性化のための独立した領域を持つ単一サブユニットタンパク質である。"
+        },
+        "feedback": {
+          "en": "Incorrect. MyoD is described as being made up of two polypeptide subunits.",
+          "zh": "不正确。MyoD被描述为由两个多肽亚基组成。",
+          "es": "Incorrecto. Se describe que MyoD está compuesto por dos subunidades polipeptídicas.",
+          "fr": "Incorrect. MyoD est décrit comme étant composé de deux sous-unités polypeptidiques.",
+          "de": "Falsch. MyoD wird als aus zwei Polypeptid-Untereinheiten bestehend beschrieben.",
+          "ja": "誤り。MyoDは2つのポリペプチドサブユニットから構成されると説明されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Figure 18.10's description states that MyoD is \"made up of two polypeptide subunits (purple and salmon)\" and that \"Each subunit has one DNA-binding domain (lower half) and one activation domain (upper half).\"",
+      "zh": "图18.10的描述指出，MyoD“由两个多肽亚基（紫色和鲑鱼色）组成”，并且“每个亚基都有一个DNA结合域（下半部分）和一个激活域（上半部分）”。",
+      "es": "La descripción de la Figura 18.10 establece que MyoD está \"compuesto por dos subunidades polipeptídicas (púrpura y salmón)\" y que \"Cada subunidad tiene un dominio de unión al ADN (mitad inferior) y un dominio de activación (mitad superior)\".",
+      "fr": "La description de la figure 18.10 indique que MyoD est « composé de deux sous-unités polypeptidiques (violet et saumon) » et que « Chaque sous-unité possède un domaine de liaison à l'ADN (moitié inférieure) et un domaine d'activation (moitié supérieure) ».",
+      "de": "Die Beschreibung von Abbildung 18.10 besagt, dass MyoD „aus zwei Polypeptid-Untereinheiten (lila und lachsfarben) besteht“ und dass „jede Untereinheit eine DNA-Bindungsdomäne (untere Hälfte) und eine Aktivierungsdomäne (obere Hälfte) besitzt“.",
+      "ja": "図18.10の説明には、MyoDが「2つのポリペプチドサブユニット（紫とサーモン色）から構成されている」こと、そして「各サブユニットが1つのDNA結合ドメイン（下半分）と1つの活性化ドメイン（上半部）を持つ」と記されています。"
+    }
+  },
+  {
+    "page_number": 423,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following are mechanisms by which specific transcription factors, functioning as repressors, can inhibit gene expression in eukaryotes? (Select all that apply)",
+      "zh": "以下哪些是特异性转录因子作为抑制物在真核生物中抑制基因表达的机制？(选择所有适用项)",
+      "es": "¿Cuáles de los siguientes son mecanismos por los cuales los factores de transcripción específicos, que funcionan como represores, pueden inhibir la expresión génica en eucariotas? (Seleccione todas las opciones aplicables)",
+      "fr": "Lesquels des mécanismes suivants permettent aux facteurs de transcription spécifiques, agissant comme répresseurs, d'inhiber l'expression génique chez les eucaryotes ? (Sélectionnez toutes les réponses applicables)",
+      "de": "Welche der folgenden Mechanismen ermöglichen es spezifischen Transkriptionsfaktoren, die als Repressoren fungieren, die Genexpression in Eukaryoten zu hemmen? (Wählen Sie alle zutreffenden Optionen aus)",
+      "ja": "以下のうち、抑制因子として機能する特異的転写因子が真核生物において遺伝子発現を抑制するメカニズムはどれですか？（すべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Binding directly to control element DNA, thereby blocking activator binding.",
+          "zh": "直接结合到调控元件DNA，从而阻断激活物的结合。",
+          "es": "Unión directa al ADN del elemento de control, bloqueando así la unión del activador.",
+          "fr": "Liaison directe à l'ADN de l'élément de contrôle, bloquant ainsi la liaison de l'activateur.",
+          "de": "Direkte Bindung an die DNA des Kontrollelements, wodurch die Aktivatorbindung blockiert wird.",
+          "ja": "制御エレメントDNAに直接結合し、活性化因子の結合を妨げる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Interfering with the activator protein itself, preventing it from binding DNA.",
+          "zh": "干扰激活物蛋白本身，阻止其结合DNA。",
+          "es": "Interferencia con la propia proteína activadora, impidiendo que se una al ADN.",
+          "fr": "Interférer avec la protéine activatrice elle-même, l'empêchant de se lier à l'ADN.",
+          "de": "Interferenz mit dem Aktivatorprotein selbst, wodurch dessen DNA-Bindung verhindert wird.",
+          "ja": "活性化因子タンパク質自体に干渉し、DNAへの結合を妨げる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Recruiting proteins that acetylate histones near gene promoters.",
+          "zh": "招募使基因启动子附近的组蛋白乙酰化的蛋白。",
+          "es": "Reclutamiento de proteínas que acetilan histonas cerca de los promotores génicos.",
+          "fr": "Recruter des protéines qui acétylent les histones près des promoteurs de gènes.",
+          "de": "Rekrutierung von Proteinen, die Histone in der Nähe von Genpromotoren acetylieren.",
+          "ja": "遺伝子プロモーター近くのヒストンをアセチル化するタンパク質をリクルートする。"
+        },
+        "feedback": {
+          "en": "Incorrect. Acetylation of histones promotes transcription and is typically associated with activators, not repressors.",
+          "zh": "不正确。组蛋白乙酰化促进转录，通常与激活物而非抑制物相关。",
+          "es": "Incorrecto. La acetilación de histonas promueve la transcripción y se asocia típicamente con activadores, no con represores.",
+          "fr": "Incorrect. L'acétylation des histones favorise la transcription et est généralement associée aux activateurs, et non aux répresseurs.",
+          "de": "Falsch. Die Acetylierung von Histonen fördert die Transkription und wird typischerweise mit Aktivatoren, nicht mit Repressoren, in Verbindung gebracht.",
+          "ja": "誤り。ヒストンのアセチル化は転写を促進し、通常、抑制因子ではなく活性化因子に関連しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Recruiting proteins that remove acetyl groups from histones.",
+          "zh": "招募从组蛋白中去除乙酰基的蛋白。",
+          "es": "Reclutamiento de proteínas que eliminan grupos acetilo de las histonas.",
+          "fr": "Recruter des protéines qui enlèvent les groupes acétyle des histones.",
+          "de": "Rekrutierung von Proteinen, die Acetylgruppen von Histonen entfernen.",
+          "ja": "ヒストンからアセチル基を除去するタンパク質をリクルートする。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Directly binding to RNA polymerase II, preventing its initiation.",
+          "zh": "直接结合到RNA聚合酶II，阻止其启动。",
+          "es": "Unión directa a la ARN polimerasa II, impidiendo su iniciación.",
+          "fr": "Liaison directe à l'ARN polymérase II, empêchant son initiation.",
+          "de": "Direkte Bindung an die RNA-Polymerase II, wodurch deren Initiierung verhindert wird.",
+          "ja": "RNAポリメラーゼIIに直接結合し、その開始を妨げる。"
+        },
+        "feedback": {
+          "en": "Incorrect. While repressors inhibit transcription, the text does not describe direct binding to RNA polymerase II as a mechanism. It focuses on blocking activator binding or modifying chromatin.",
+          "zh": "不正确。虽然抑制物会抑制转录，但文本并未将直接结合RNA聚合酶II描述为一种机制。它侧重于阻断激活物结合或修饰染色质。",
+          "es": "Incorrecto. Aunque los represores inhiben la transcripción, el texto no describe la unión directa a la ARN polimerasa II como mecanismo. Se centra en bloquear la unión del activador o modificar la cromatina.",
+          "fr": "Incorrect. Bien que les répresseurs inhibent la transcription, le texte ne décrit pas la liaison directe à l'ARN polymérase II comme un mécanisme. Il se concentre sur le blocage de la liaison de l'activateur ou la modification de la chromatine.",
+          "de": "Falsch. Obwohl Repressoren die Transkription hemmen, beschreibt der Text keine direkte Bindung an die RNA-Polymerase II als Mechanismus. Er konzentriert sich auf die Blockierung der Aktivatorbindung oder die Modifikation des Chromatins.",
+          "ja": "誤り。抑制因子は転写を阻害しますが、本文ではRNAポリメラーゼIIへの直接結合をメカニズムとして説明していません。活性化因子の結合を妨げたり、クロマチンを修飾したりすることに焦点を当てています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": {
+      "en": "The text describes several mechanisms: repressors can bind directly to control element DNA (blocking activator binding), interfere with the activator protein itself, or indirectly affect chromatin structure by recruiting proteins that remove acetyl groups from histones (leading to silencing).",
+      "zh": "文本描述了几种机制：抑制物可以直接结合到调控元件DNA（阻断激活物结合），干扰激活物蛋白本身，或者通过招募从组蛋白中去除乙酰基的蛋白（导致沉默）间接影响染色质结构。",
+      "es": "El texto describe varios mecanismos: los represores pueden unirse directamente al ADN del elemento de control (bloqueando la unión del activador), interferir con la propia proteína activadora o afectar indirectamente la estructura de la cromatina reclutando proteínas que eliminan grupos acetilo de las histonas (lo que lleva al silenciamiento).",
+      "fr": "Le texte décrit plusieurs mécanismes : les répresseurs peuvent se lier directement à l'ADN de l'élément de contrôle (bloquant la liaison de l'activateur), interférer avec la protéine activatrice elle-même, ou affecter indirectement la structure de la chromatine en recrutant des protéines qui enlèvent les groupes acétyle des histones (ce qui entraîne le silençage).",
+      "de": "Der Text beschreibt mehrere Mechanismen: Repressoren können direkt an die DNA des Kontrollelements binden (wodurch die Aktivatorbindung blockiert wird), das Aktivatorprotein selbst stören oder indirekt die Chromatin-Struktur beeinflussen, indem sie Proteine rekrutieren, die Acetylgruppen von Histonen entfernen (was zu einer Silencing führt).",
+      "ja": "本文ではいくつかのメカニズムが記述されています。抑制因子は直接制御エレメントDNAに結合して（活性化因子の結合を阻害）、活性化因子タンパク質自体を妨害したり、ヒストンからアセチル基を除去するタンパク質をリクルートすることで間接的にクロマチン構造に影響を与えたりすることができます（これによりサイレンシングが起こります）。"
+    }
+  },
+  {
+    "page_number": 423,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A particular enhancer is located 50,000 nucleotides upstream from its associated gene's promoter. Based on the provided text, what is the most direct mechanism by which this distant enhancer, when bound by activators, is able to influence the gene's transcription?",
+      "zh": "某个增强子位于其相关基因启动子上游50,000个核苷酸处。根据提供的文本，当这个远距离增强子结合了激活物时，它是通过何种最直接的机制来影响基因转录的？",
+      "es": "Un potenciador particular se encuentra a 50.000 nucleótidos corriente arriba del promotor de su gen asociado. Según el texto proporcionado, ¿cuál es el mecanismo más directo por el cual este potenciador distante, cuando se une a activadores, es capaz de influir en la transcripción del gen?",
+      "fr": "Un amplificateur particulier est situé à 50 000 nucléotides en amont du promoteur de son gène associé. Selon le texte fourni, quel est le mécanisme le plus direct par lequel cet amplificateur distant, lorsqu'il est lié par des activateurs, est capable d'influencer la transcription du gène ?",
+      "de": "Ein bestimmter Enhancer befindet sich 50.000 Nukleotide stromaufwärts des Promotors seines zugehörigen Gens. Basierend auf dem bereitgestellten Text, welcher ist der direkteste Mechanismus, durch den dieser entfernte Enhancer, wenn er an Aktivatoren gebunden ist, die Transkription des Gens beeinflussen kann?",
+      "ja": "あるエンハンサーが、関連する遺伝子のプロモーターから50,000ヌクレオチド上流に位置しています。提供されたテキストに基づいて、活性化因子が結合したこの遠隔エンハンサーが遺伝子の転写に影響を与える最も直接的なメカニズムは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The activators bound to the enhancer directly recruit RNA polymerase II to the distant promoter.",
+          "zh": "结合到增强子的激活物直接招募RNA聚合酶II到远处的启动子。",
+          "es": "Los activadores unidos al potenciador reclutan directamente la ARN polimerasa II al promotor distante.",
+          "fr": "Les activateurs liés à l'amplificateur recrutent directement l'ARN polymérase II vers le promoteur distant.",
+          "de": "Die an den Enhancer gebundenen Aktivatoren rekrutieren RNA-Polymerase II direkt zum entfernten Promotor.",
+          "ja": "エンハンサーに結合した活性化因子が、RNAポリメラーゼIIを遠く離れたプロモーターに直接リクルートする。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text describes an indirect mechanism involving DNA bending and mediator proteins to bridge the distance.",
+          "zh": "不正确。文本描述的是一个涉及DNA弯曲和介导蛋白以连接距离的间接机制。",
+          "es": "Incorrecto. El texto describe un mecanismo indirecto que implica la flexión del ADN y proteínas mediadoras para acortar la distancia.",
+          "fr": "Incorrect. Le texte décrit un mécanisme indirect impliquant la courbure de l'ADN et des protéines médiatrices pour combler la distance.",
+          "de": "Falsch. Der Text beschreibt einen indirekten Mechanismus, der DNA-Biegung und Mediatorenproteine zur Überbrückung der Distanz beinhaltet.",
+          "ja": "誤り。本文では、DNAの湾曲とメディエータータンパク質が距離を橋渡しする間接的なメカニズムが説明されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The enhancer region, with bound activators, physically moves along the DNA until it reaches the promoter.",
+          "zh": "增强子区域及其结合的激活物沿DNA物理移动，直到到达启动子。",
+          "es": "La región del potenciador, con los activadores unidos, se mueve físicamente a lo largo del ADN hasta que alcanza el promotor.",
+          "fr": "La région de l'amplificateur, avec les activateurs liés, se déplace physiquement le long de l'ADN jusqu'à atteindre le promoteur.",
+          "de": "Der Enhancer-Bereich mit gebundenen Aktivatoren bewegt sich physikalisch entlang der DNA, bis er den Promotor erreicht.",
+          "ja": "エンハンサー領域と結合した活性化因子が、プロモーターに到達するまでDNAに沿って物理的に移動する。"
+        },
+        "feedback": {
+          "en": "Incorrect. While DNA bending brings distant regions together, it's not described as the entire enhancer moving along the DNA strand.",
+          "zh": "不正确。虽然DNA弯曲使远距离区域靠近，但文本并未描述整个增强子沿DNA链移动。",
+          "es": "Incorrecto. Aunque la flexión del ADN acerca regiones distantes, no se describe que el potenciador entero se mueva a lo largo de la hebra de ADN.",
+          "fr": "Incorrect. Bien que la courbure de l'ADN rapproche des régions éloignées, il n'est pas décrit que l'amplificateur entier se déplace le long du brin d'ADN.",
+          "de": "Falsch. Obwohl die DNA-Biegung entfernte Regionen zusammenführt, wird nicht beschrieben, dass sich der gesamte Enhancer entlang des DNA-Strangs bewegt.",
+          "ja": "誤り。DNAの湾曲が離れた領域を近づけますが、エンハンサー全体がDNA鎖に沿って移動すると説明されていません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Protein-mediated DNA bending brings the enhancer-bound activators into contact with mediator proteins and general transcription factors at the promoter.",
+          "zh": "蛋白质介导的DNA弯曲使增强子结合的激活物与启动子处的介导蛋白和通用转录因子接触。",
+          "es": "La flexión del ADN mediada por proteínas pone en contacto los activadores unidos al potenciador con las proteínas mediadoras y los factores de transcripción generales en el promotor.",
+          "fr": "La courbure de l'ADN médiatisée par des protéines met en contact les activateurs liés à l'amplificateur avec les protéines médiatrices et les facteurs de transcription généraux au niveau du promoteur.",
+          "de": "Protein-vermittelte DNA-Biegung bringt die an den Enhancer gebundenen Aktivatoren in Kontakt mit Mediatorenproteinen und allgemeinen Transkriptionsfaktoren am Promotor.",
+          "ja": "タンパク質を介したDNAの湾曲により、エンハンサーに結合した活性化因子が、プロモーターに存在するメディエータータンパク質や一般転写因子と接触する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The activators bound to the enhancer release signaling molecules that diffuse to the promoter and activate transcription.",
+          "zh": "结合到增强子的激活物释放信号分子，这些分子扩散到启动子并激活转录。",
+          "es": "Los activadores unidos al potenciador liberan moléculas de señalización que se difunden al promotor y activan la transcripción.",
+          "fr": "Les activateurs liés à l'amplificateur libèrent des molécules de signalisation qui diffusent vers le promoteur et activent la transcription.",
+          "de": "Die an den Enhancer gebundenen Aktivatoren setzen Signalmoleküle frei, die zum Promotor diffundieren und die Transkription aktivieren.",
+          "ja": "エンハンサーに結合した活性化因子がシグナル分子を放出し、それがプロモーターに拡散して転写を活性化する。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text describes a physical interaction model through DNA bending, not a diffusing signaling molecule mechanism.",
+          "zh": "不正确。文本描述的是通过DNA弯曲实现的物理相互作用模型，而不是通过信号分子扩散的机制。",
+          "es": "Incorrecto. El texto describe un modelo de interacción física a través de la flexión del ADN, no un mecanismo de moléculas de señalización difusoras.",
+          "fr": "Incorrect. Le texte décrit un modèle d'interaction physique par courbure de l'ADN, et non un mécanisme de molécules de signalisation diffusantes.",
+          "de": "Falsch. Der Text beschreibt ein physikalisches Interaktionsmodell durch DNA-Biegung, keinen Mechanismus mit diffundierenden Signalmolekülen.",
+          "ja": "誤り。本文では、DNAの湾曲を介した物理的な相互作用モデルが説明されており、シグナル分子の拡散メカニズムではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: \"Protein-mediated bending of the DNA brings the bound activators into contact with a group of mediator proteins, which in turn interact with general transcription factors at the promoter. These protein-protein interactions help assemble and position the initiation complex on the promoter.\"",
+      "zh": "文本明确指出：“蛋白质介导的DNA弯曲使结合的激活物与一组介导蛋白接触，这些介导蛋白反过来又与启动子处的通用转录因子相互作用。这些蛋白质-蛋白质相互作用有助于在启动子上组装和定位起始复合体。”",
+      "es": "El texto establece explícitamente: \"La flexión del ADN mediada por proteínas pone en contacto los activadores unidos con un grupo de proteínas mediadoras, que a su vez interactúan con los factores de transcripción generales en el promotor. Estas interacciones proteína-proteína ayudan a ensamblar y posicionar el complejo de iniciación en el promotor.\"",
+      "fr": "Le texte indique explicitement : « La courbure de l'ADN médiatisée par des protéines met les activateurs liés en contact avec un groupe de protéines médiatrices, qui à leur tour interagissent avec les facteurs de transcription généraux au niveau du promoteur. Ces interactions protéine-protéine aident à assembler et à positionner le complexe d'initiation sur le promoteur. »",
+      "de": "Der Text besagt explizit: „Protein-vermittelte Biegung der DNA bringt die gebundenen Aktivatoren in Kontakt mit einer Gruppe von Mediatorenproteinen, die wiederum mit allgemeinen Transkriptionsfaktoren am Promotor interagieren. Diese Protein-Protein-Interaktionen helfen, den Initiationskomplex am Promotor zusammenzusetzen und zu positionieren.“",
+      "ja": "本文には明確に次のように述べられています。「タンパク質を介したDNAの湾曲は、結合した活性化因子をメディエータータンパク質のグループと接触させ、それが今度はプロモーターの一般転写因子と相互作用する。これらのタンパク質間相互作用は、開始複合体をプロモーター上に組み立て、配置するのに役立つ。」"
+    }
+  }
+]

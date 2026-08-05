@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 170,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, which of the following cellular components is correctly matched with its role in a macrophage's process of engulfing and destroying bacteria?",
+      "zh": "根据文本内容，下列哪个细胞器与其在巨噬细胞吞噬和破坏细菌过程中的作用正确匹配？",
+      "es": "Según el texto, ¿cuál de los siguientes componentes celulares se corresponde correctamente con su función en el proceso de una célula macrófaga de engullir y destruir bacterias?",
+      "fr": "Selon le texte, lequel des composants cellulaires suivants est correctement associé à son rôle dans le processus d'ingestion et de destruction des bactéries par un macrophage ?",
+      "de": "Welcher der folgenden Zellkomponenten ist laut Text korrekt seiner Rolle im Prozess des Engulierens und Zerstörens von Bakterien durch einen Makrophagen zugeordnet?",
+      "ja": "本文によると、マクロファージが細菌を貪食・破壊する過程における細胞成分の役割として、以下のどれが正しく対応していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Lysosomes: Synthesize digestive enzymes.",
+          "zh": "溶酶体：合成消化酶。",
+          "es": "Lisosomas: Sintetizan enzimas digestivas.",
+          "fr": "Lysosomes : Synthétisent les enzymes digestives.",
+          "de": "Lysosomen: Synthetisieren Verdauungsenzyme.",
+          "ja": "リソソーム：消化酵素を合成する。"
+        },
+        "feedback": {
+          "en": "Lysosomes contain digestive enzymes, but ribosomes are responsible for synthesizing them.",
+          "zh": "溶酶体含有消化酶，但核糖体负责合成它们。",
+          "es": "Los lisosomas contienen enzimas digestivas, pero los ribosomas son responsables de sintetizarlas.",
+          "fr": "Les lysosomes contiennent des enzymes digestives, mais les ribosomes sont responsables de leur synthèse.",
+          "de": "Lysosomen enthalten Verdauungsenzyme, aber Ribosomen sind für deren Synthese verantwortlich.",
+          "ja": "リソソームは消化酵素を含みますが、それらを合成するのはリボソームです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Endomembrane system: Produces digestive enzymes.",
+          "zh": "内膜系统：产生消化酶。",
+          "es": "Sistema de endomembranas: Produce enzimas digestivas.",
+          "fr": "Système endomembranaire : Produit des enzymes digestives.",
+          "de": "Endomembransystem: Produziert Verdauungsenzyme.",
+          "ja": "内膜系：消化酵素を産生する。"
+        },
+        "feedback": {
+          "en": "The endomembrane system produces lysosomes that contain digestive enzymes, but the enzymes themselves are synthesized by ribosomes.",
+          "zh": "内膜系统产生含有消化酶的溶酶体，但酶本身是由核糖体合成的。",
+          "es": "El sistema de endomembranas produce lisosomas que contienen enzimas digestivas, pero las enzimas en sí son sintetizadas por los ribosomas.",
+          "fr": "Le système endomembranaire produit des lysosomes qui contiennent des enzymes digestives, mais les enzymes elles-mêmes sont synthétisées par les ribosomes.",
+          "de": "Das Endomembransystem produziert Lysosomen, die Verdauungsenzyme enthalten, aber die Enzyme selbst werden von Ribosomen synthetisiert.",
+          "ja": "エンドメンブレン系は消化酵素を含むリソソームを生成しますが、酵素自体はリボソームによって合成されます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Mitochondria: Supply ATP for the entire process.",
+          "zh": "线粒体：为整个过程提供ATP。",
+          "es": "Mitocondrias: Suministran ATP para todo el proceso.",
+          "fr": "Mitochondries : Fournissent l'ATP pour l'ensemble du processus.",
+          "de": "Mitochondrien: Liefern ATP für den gesamten Prozess.",
+          "ja": "ミトコンドリア：プロセス全体にATPを供給する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Ribosomes: Responsible for programming the synthesis of proteins.",
+          "zh": "核糖体：负责蛋白质合成的编程。",
+          "es": "Ribosomas: Responsables de programar la síntesis de proteínas.",
+          "fr": "Ribosomes : Responsables de la programmation de la synthèse des protéines.",
+          "de": "Ribosomen: Verantwortlich für die Programmierung der Proteinsynthese.",
+          "ja": "リボソーム：タンパク質合成のプログラミングを担当する。"
+        },
+        "feedback": {
+          "en": "Ribosomes synthesize proteins, but the genetic messages (programming) for protein synthesis come from the DNA in the nucleus.",
+          "zh": "核糖体合成蛋白质，但蛋白质合成的遗传信息（编程）来自细胞核中的DNA。",
+          "es": "Los ribosomas sintetizan proteínas, pero los mensajes genéticos (programación) para la síntesis de proteínas provienen del ADN en el núcleo.",
+          "fr": "Les ribosomes synthétisent les protéines, mais les messages génétiques (programmation) pour la synthèse des protéines proviennent de l'ADN dans le noyau.",
+          "de": "Ribosomen synthetisieren Proteine, aber die genetischen Botschaften (Programmierung) für die Proteinsynthese stammen aus der DNA im Zellkern.",
+          "ja": "リボソームはタンパク質を合成しますが、タンパク質合成のための遺伝子情報（プログラミング）は核内のDNAから来ます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'All these processes require energy, which mitochondria supply in the form of ATP.' This directly matches the role of mitochondria in providing energy for the macrophage's activities.",
+      "zh": "文本明确指出：“所有这些过程都需要能量，线粒体以ATP的形式提供。”这直接匹配了线粒体在巨噬细胞活动中提供能量的作用。",
+      "es": "El texto establece explícitamente: 'Todos estos procesos requieren energía, la cual las mitocondrias suministran en forma de ATP'. Esto coincide directamente con el papel de las mitocondrias en el suministro de energía para las actividades del macrófago.",
+      "fr": "Le texte stipule explicitement : « Tous ces processus nécessitent de l'énergie, que les mitochondries fournissent sous forme d'ATP. » Cela correspond directement au rôle des mitochondries dans l'apport d'énergie pour les activités du macrophage.",
+      "de": "Der Text besagt ausdrücklich: 'Alle diese Prozesse benötigen Energie, die die Mitochondrien in Form von ATP liefern.' Dies entspricht direkt der Rolle der Mitochondrien bei der Energieversorgung für die Aktivitäten des Makrophagen.",
+      "ja": "本文には「これらすべてのプロセスにはエネルギーが必要であり、ミトコンドリアがATPの形で供給する」と明記されています。これは、マクロファージの活動に必要なエネルギーを供給するミトコンドリアの役割に直接合致します。"
+    }
+  },
+  {
+    "page_number": 170,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on Figure 6.31 and its caption, which biological process is primarily illustrated by the macrophage's interaction with bacteria?",
+      "zh": "根据图6.31及其图注，巨噬细胞与细菌的相互作用主要说明了哪种生物过程？",
+      "es": "Basándose en la Figura 6.31 y su leyenda, ¿qué proceso biológico se ilustra principalmente con la interacción del macrófago con las bacterias?",
+      "fr": "D'après la Figure 6.31 et sa légende, quel processus biologique est principalement illustré par l'interaction du macrophage avec les bactéries ?",
+      "de": "Welcher biologische Prozess wird hauptsächlich durch die Interaktion des Makrophagen mit Bakterien in Abbildung 6.31 und ihrer Bildunterschrift dargestellt?",
+      "ja": "図6.31とその説明文に基づくと、マクロファージと細菌の相互作用は主にどのような生物学的プロセスを示していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Cellular respiration.",
+          "zh": "细胞呼吸。",
+          "es": "Respiración celular.",
+          "fr": "Respiration cellulaire.",
+          "de": "Zellatmung.",
+          "ja": "細胞呼吸。"
+        },
+        "feedback": {
+          "en": "Cellular respiration is a metabolic process to generate ATP, not the engulfment of bacteria.",
+          "zh": "细胞呼吸是产生ATP的代谢过程，而不是吞噬细菌。",
+          "es": "La respiración celular es un proceso metabólico para generar ATP, no el engullimiento de bacterias.",
+          "fr": "La respiration cellulaire est un processus métabolique de production d'ATP, et non l'ingestion de bactéries.",
+          "de": "Zellatmung ist ein Stoffwechselprozess zur ATP-Generierung, nicht die Aufnahme von Bakterien.",
+          "ja": "細胞呼吸はATPを生成する代謝プロセスであり、細菌の貪食ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Photosynthesis.",
+          "zh": "光合作用。",
+          "es": "Fotosíntesis.",
+          "fr": "Photosynthèse.",
+          "de": "Photosynthese.",
+          "ja": "光合成。"
+        },
+        "feedback": {
+          "en": "Photosynthesis is the process by which plants and other organisms convert light energy into chemical energy, which is irrelevant to macrophages.",
+          "zh": "光合作用是植物和其他生物将光能转化为化学能的过程，与巨噬细胞无关。",
+          "es": "La fotosíntesis es el proceso por el cual las plantas y otros organismos convierten la energía luminosa en energía química, lo cual es irrelevante para los macrófagos.",
+          "fr": "La photosynthèse est le processus par lequel les plantes et d'autres organismes convertissent l'énergie lumineuse en énergie chimique, ce qui n'est pas pertinent pour les macrophages.",
+          "de": "Photosynthese ist der Prozess, bei dem Pflanzen und andere Organismen Lichtenergie in chemische Energie umwandeln, was für Makrophagen irrelevant ist.",
+          "ja": "光合成は植物などが光エネルギーを化学エネルギーに変換するプロセスであり、マクロファージとは関係ありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Phagocytosis.",
+          "zh": "吞噬作用。",
+          "es": "Fagocitosis.",
+          "fr": "Phagocytose.",
+          "de": "Phagozytose.",
+          "ja": "食作用。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Cell division.",
+          "zh": "细胞分裂。",
+          "es": "División celular.",
+          "fr": "Division cellulaire.",
+          "de": "Zellteilung.",
+          "ja": "細胞分裂。"
+        },
+        "feedback": {
+          "en": "Cell division is the process by which a parent cell divides into two or more daughter cells, which is not depicted.",
+          "zh": "细胞分裂是亲代细胞分裂成两个或多个子细胞的过程，图中并未显示。",
+          "es": "La división celular es el proceso por el cual una célula progenitora se divide en dos o más células hijas, lo cual no se representa.",
+          "fr": "La division cellulaire est le processus par lequel une cellule mère se divise en deux ou plusieurs cellules filles, ce qui n'est pas représenté.",
+          "de": "Zellteilung ist der Prozess, bei dem eine Mutterzelle sich in zwei oder mehr Tochterzellen teilt, was hier nicht dargestellt wird.",
+          "ja": "細胞分裂は親細胞が2つ以上の娘細胞に分裂するプロセスであり、図には描かれていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 6.31 explicitly shows a macrophage engulfing bacteria, with the caption mentioning 'recognize, apprehend, and destroy bacteria', which are all characteristics of phagocytosis. The text also states that the macrophage defends by 'ingesting bacteria (the smaller cells) into phagocytic vesicles'.",
+      "zh": "图6.31清晰地显示了巨噬细胞吞噬细菌的过程，图注提到“识别、捕获和摧毁细菌”，这些都是吞噬作用的特征。文本也指出巨噬细胞通过“将细菌（较小的细胞）吞噬到吞噬泡中”来防御。",
+      "es": "La Figura 6.31 muestra explícitamente un macrófago engullendo bacterias, con la leyenda mencionando 'reconocer, aprehender y destruir bacterias', todas ellas características de la fagocitosis. El texto también afirma que el macrófago se defiende 'ingiriendo bacterias (las células más pequeñas) en vesículas fagocíticas'.",
+      "fr": "La Figure 6.31 montre explicitement un macrophage ingérant des bactéries, avec la légende mentionnant « reconnaître, appréhender et détruire les bactéries », qui sont toutes des caractéristiques de la phagocytose. Le texte indique également que le macrophage se défend en « ingérant les bactéries (les cellules plus petites) dans des vésicules phagocytaires ».",
+      "de": "Abbildung 6.31 zeigt explizit einen Makrophagen, der Bakterien aufnimmt, wobei die Bildunterschrift 'Erkennen, Erfassen und Zerstören von Bakterien' erwähnt, was alles Merkmale der Phagozytose sind. Der Text besagt auch, dass der Makrophage sich verteidigt, indem er 'Bakterien (die kleineren Zellen) in phagozytische Vesikel aufnimmt'.",
+      "ja": "図6.31ではマクロファージが細菌を貪食する様子が明確に示されており、キャプションには「細菌を認識、捕獲、破壊する」と記載されており、これらすべては食作用の特徴です。本文中にも、マクロファージが「細菌（より小さな細胞）を食胞に取り込むことによって」防御すると述べられています。"
+    }
+  },
+  {
+    "page_number": 170,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following is a key structural difference that typically distinguishes multicellular eukaryotic cells (like plant and animal cells) from single-celled eukaryotes?",
+      "zh": "下列哪项是区分多细胞真核细胞（如植物细胞和动物细胞）与单细胞真核生物的一个主要结构差异？",
+      "es": "¿Cuál de las siguientes es una diferencia estructural clave que típicamente distingue a las células eucariotas multicelulares (como las células vegetales y animales) de los eucariotas unicelulares?",
+      "fr": "Laquelle des différences structurelles suivantes distingue typiquement les cellules eucaryotes multicellulaires (comme les cellules végétales et animales) des eucaryotes unicellulaires ?",
+      "de": "Welcher der folgenden Punkte ist ein wesentlicher struktureller Unterschied, der vielzellige eukaryotische Zellen (wie Pflanzen- und Tierzellen) typischerweise von einzelligen Eukaryoten unterscheidet?",
+      "ja": "多細胞真核細胞（植物細胞や動物細胞など）と単細胞真核生物を区別する主要な構造的違いは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Multicellular eukaryotes exhibit cell specialization and form tissues and organs, unlike single-celled eukaryotes.",
+          "zh": "多细胞真核生物表现出细胞特化并形成组织和器官，而单细胞真核生物则不。",
+          "es": "Los eucariotas multicelulares exhiben especialización celular y forman tejidos y órganos, a diferencia de los eucariotas unicelulares.",
+          "fr": "Les eucaryotes multicellulaires présentent une spécialisation cellulaire et forment des tissus et des organes, contrairement aux eucaryotes unicellulaires.",
+          "de": "Vielzellige Eukaryoten zeigen Zellspezialisierung und bilden Gewebe und Organe, im Gegensatz zu einzelligen Eukaryoten.",
+          "ja": "多細胞真核生物は細胞の特殊化を示し、組織や器官を形成しますが、単細胞真核生物はそうではありません。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Plant cells possess chloroplasts, which are completely absent in all single-celled eukaryotes.",
+          "zh": "植物细胞拥有叶绿体，而所有单细胞真核生物都完全没有。",
+          "es": "Las células vegetales poseen cloroplastos, los cuales están completamente ausentes en todos los eucariotas unicelulares.",
+          "fr": "Les cellules végétales possèdent des chloroplastes, qui sont totalement absents chez tous les eucaryotes unicellulaires.",
+          "de": "Pflanzenzellen besitzen Chloroplasten, die bei allen einzelligen Eukaryoten vollständig fehlen.",
+          "ja": "植物細胞には葉緑体がありますが、すべての単細胞真核生物には全くありません。"
+        },
+        "feedback": {
+          "en": "Many single-celled eukaryotes, such as algae, possess chloroplasts.",
+          "zh": "许多单细胞真核生物，例如藻类，也拥有叶绿体。",
+          "es": "Muchos eucariotas unicelulares, como las algas, poseen cloroplastos.",
+          "fr": "De nombreux eucaryotes unicellulaires, tels que les algues, possèdent des chloroplastes.",
+          "de": "Viele einzellige Eukaryoten, wie zum Beispiel Algen, besitzen Chloroplasten.",
+          "ja": "藻類などの多くの単細胞真核生物も葉緑体を持っています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Animal cells lack cell walls, while all single-celled eukaryotes possess them.",
+          "zh": "动物细胞没有细胞壁，而所有单细胞真核生物都有。",
+          "es": "Las células animales carecen de paredes celulares, mientras que todos los eucariotas unicelulares las poseen.",
+          "fr": "Les cellules animales sont dépourvues de parois cellulaires, tandis que tous les eucaryotes unicellulaires en possèdent.",
+          "de": "Tierzellen fehlen Zellwände, während alle einzelligen Eukaryoten diese besitzen.",
+          "ja": "動物細胞には細胞壁がありませんが、すべての単細胞真核生物には細胞壁があります。"
+        },
+        "feedback": {
+          "en": "Not all single-celled eukaryotes have cell walls (e.g., amoebas), and some have different types of outer coverings.",
+          "zh": "并非所有单细胞真核生物都有细胞壁（例如变形虫），有些有不同类型的外层覆盖物。",
+          "es": "No todos los eucariotas unicelulares tienen paredes celulares (por ejemplo, las amebas), y algunos tienen diferentes tipos de cubiertas externas.",
+          "fr": "Tous les eucaryotes unicellulaires n'ont pas de parois cellulaires (par exemple, les amibes), et certains ont différents types de revêtements externes.",
+          "de": "Nicht alle einzelligen Eukaryoten haben Zellwände (z.B. Amöben), und einige haben andere Arten von äußeren Hüllen.",
+          "ja": "すべての単細胞真核生物が細胞壁を持っているわけではなく（例：アメーバ）、中には異なる種類の外皮を持つものもいます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Only multicellular eukaryotes use mitochondria for energy production.",
+          "zh": "只有多细胞真核生物利用线粒体生产能量。",
+          "es": "Solo los eucariotas multicelulares utilizan las mitocondrias para la producción de energía.",
+          "fr": "Seuls les eucaryotes multicellulaires utilisent les mitochondries pour la production d'énergie.",
+          "de": "Nur vielzellige Eukaryoten nutzen Mitochondrien zur Energieproduktion.",
+          "ja": "多細胞真核生物のみがエネルギー生産のためにミトコンドリアを使用します。"
+        },
+        "feedback": {
+          "en": "Both multicellular and single-celled eukaryotes use mitochondria for energy production through cellular respiration.",
+          "zh": "多细胞和单细胞真核生物都通过细胞呼吸利用线粒体生产能量。",
+          "es": "Tanto los eucariotas multicelulares como los unicelulares utilizan las mitocondrias para la producción de energía a través de la respiración celular.",
+          "fr": "Les eucaryotes multicellulaires et unicellulaires utilisent tous deux les mitochondries pour la production d'énergie par respiration cellulaire.",
+          "de": "Sowohl vielzellige als auch einzellige Eukaryoten nutzen Mitochondrien zur Energieproduktion durch Zellatmung.",
+          "ja": "多細胞真核生物も単細胞真核生物も、細胞呼吸を通じてエネルギー生産のためにミトコンドリアを使用します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The fundamental difference between multicellular organisms and single-celled organisms is the division of labor among cells. Multicellular eukaryotes have specialized cells organized into tissues, organs, and organ systems, which allows for complex functions not possible for a single cell. Single-celled eukaryotes, conversely, must perform all life functions within their single cell.",
+      "zh": "多细胞生物和单细胞生物之间的根本区别在于细胞之间的分工。多细胞真核生物拥有特化细胞，这些细胞组织成组织、器官和器官系统，从而实现单个细胞无法完成的复杂功能。相反，单细胞真核生物必须在单个细胞内完成所有生命功能。",
+      "es": "La diferencia fundamental entre organismos multicelulares y unicelulares radica en la división del trabajo entre las células. Los eucariotas multicelulares tienen células especializadas organizadas en tejidos, órganos y sistemas de órganos, lo que permite funciones complejas imposibles para una sola célula. Los eucariotas unicelulares, por el contrario, deben realizar todas las funciones vitales dentro de su única célula.",
+      "fr": "La différence fondamentale entre les organismes multicellulaires et unicellulaires réside dans la division du travail entre les cellules. Les eucaryotes multicellulaires ont des cellules spécialisées organisées en tissus, organes et systèmes d'organes, ce qui permet des fonctions complexes impossibles pour une seule cellule. Les eucaryotes unicellulaires, en revanche, doivent effectuer toutes les fonctions vitales au sein de leur unique cellule.",
+      "de": "Der grundlegende Unterschied zwischen vielzelligen und einzelligen Organismen liegt in der Arbeitsteilung zwischen den Zellen. Vielzellige Eukaryoten haben spezialisierte Zellen, die zu Geweben, Organen und Organsystemen organisiert sind, was komplexe Funktionen ermöglicht, die für eine einzelne Zelle nicht realisierbar wären. Einzellige Eukaryoten müssen dagegen alle Lebensfunktionen innerhalb ihrer einzelnen Zelle ausführen.",
+      "ja": "多細胞生物と単細胞生物の根本的な違いは、細胞間の分業にあります。多細胞真核生物は、組織、器官、器官系に組織化された特殊な細胞を持ち、単一の細胞では不可能な複雑な機能を実現します。逆に、単細胞真核生物は、すべての生命機能を単一の細胞内で実行しなければなりません。"
+    }
+  },
+  {
+    "page_number": 170,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "If the plant cell wall or the animal extracellular matrix (ECM) were completely impermeable, what significant effect would this have on cell function?",
+      "zh": "如果植物细胞壁或动物细胞外基质（ECM）完全不可渗透，这对细胞功能会有什么重大影响？",
+      "es": "Si la pared celular de una planta o la matriz extracelular (MEC) animal fueran completamente impermeables, ¿qué efecto significativo tendría esto en la función celular?",
+      "fr": "Si la paroi cellulaire végétale ou la matrice extracellulaire (MEC) animale étaient complètement imperméables, quel effet significatif cela aurait-il sur la fonction cellulaire ?",
+      "de": "Welchen wesentlichen Effekt hätte es auf die Zellfunktion, wenn die pflanzliche Zellwand oder die tierische extrazelluläre Matrix (ECM) vollständig undurchlässig wären?",
+      "ja": "植物の細胞壁または動物の細胞外マトリックス（ECM）が完全に不浸透性であった場合、細胞機能にどのような重大な影響がありますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Cells would gain excessive water, leading to lysis.",
+          "zh": "细胞会吸收过多水分，导致细胞溶解。",
+          "es": "Las células ganarían agua en exceso, lo que provocaría la lisis.",
+          "fr": "Les cellules absorberaient trop d'eau, entraînant la lyse.",
+          "de": "Zellen würden übermäßig Wasser aufnehmen, was zur Lyse führen würde.",
+          "ja": "細胞が過剰な水分を取り込み、溶解につながる。"
+        },
+        "feedback": {
+          "en": "Impermeability would prevent the passage of water and solutes in either direction, likely leading to cell death from lack of exchange rather than lysis from excessive water gain specifically.",
+          "zh": "不可渗透性会阻止水分和溶质双向通过，更可能导致因缺乏物质交换而细胞死亡，而不是特指因过多水分进入而溶解。",
+          "es": "La impermeabilidad impediría el paso de agua y solutos en ambas direcciones, lo que probablemente llevaría a la muerte celular por falta de intercambio en lugar de la lisis por una ganancia excesiva de agua específicamente.",
+          "fr": "L'imperméabilité empêcherait le passage de l'eau et des solutés dans les deux directions, entraînant probablement la mort cellulaire par manque d'échanges plutôt que par lyse due à un gain d'eau excessif spécifiquement.",
+          "de": "Undurchlässigkeit würde den Durchtritt von Wasser und gelösten Stoffen in beide Richtungen verhindern, was eher zum Zelltod aufgrund mangelnden Austauschs führen würde als zur Lyse durch spezifisch übermäßige Wasseraufnahme.",
+          "ja": "不浸透性は、水や溶質のどちらの方向への通過も妨げるため、具体的に過剰な水分流入による溶解ではなく、交換不足による細胞死につながる可能性が高いです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Cells would be unable to exchange substances with their environment and with other cells.",
+          "zh": "细胞将无法与环境和其他细胞进行物质交换。",
+          "es": "Las células serían incapaces de intercambiar sustancias con su entorno y con otras células.",
+          "fr": "Les cellules seraient incapables d'échanger des substances avec leur environnement et avec d'autres cellules.",
+          "de": "Zellen wären nicht in der Lage, Substanzen mit ihrer Umgebung und mit anderen Zellen auszutauschen.",
+          "ja": "細胞は周囲の環境や他の細胞との間で物質交換ができなくなる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The structural integrity of the cells would be significantly enhanced.",
+          "zh": "细胞的结构完整性将显著增强。",
+          "es": "La integridad estructural de las células se vería significativamente mejorada.",
+          "fr": "L'intégrité structurelle des cellules serait considérablement améliorée.",
+          "de": "Die strukturelle Integrität der Zellen würde erheblich verbessert.",
+          "ja": "細胞の構造的完全性が著しく向上する。"
+        },
+        "feedback": {
+          "en": "While these structures provide support, complete impermeability would lead to cell death due to lack of vital exchange, making enhanced structural integrity irrelevant in the long run.",
+          "zh": "尽管这些结构提供支持，但完全不可渗透性将因缺乏重要物质交换而导致细胞死亡，从长远来看，增强结构完整性将变得无关紧要。",
+          "es": "Aunque estas estructuras proporcionan soporte, la impermeabilidad completa llevaría a la muerte celular debido a la falta de intercambio vital, haciendo que la integridad estructural mejorada sea irrelevante a largo plazo.",
+          "fr": "Bien que ces structures apportent un soutien, une imperméabilité totale entraînerait la mort cellulaire par manque d'échanges vitaux, rendant l'amélioration de l'intégrité structurelle non pertinente à long terme.",
+          "de": "Obwohl diese Strukturen Unterstützung bieten, würde eine vollständige Undurchlässigkeit zum Zelltod aufgrund mangelnden lebenswichtigen Austauschs führen, wodurch eine verbesserte strukturelle Integrität langfristig irrelevant wird.",
+          "ja": "これらの構造は支持を提供しますが、完全な不浸透性は生命維持に必要な交換の欠如により細胞死につながるため、長期的に見れば構造的完全性の向上は無意味になります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Cellular metabolism would accelerate due to increased internal pressure.",
+          "zh": "细胞代谢会因内部压力增加而加速。",
+          "es": "El metabolismo celular se aceleraría debido al aumento de la presión interna.",
+          "fr": "Le métabolisme cellulaire s'accélérerait en raison de l'augmentation de la pression interne.",
+          "de": "Der Zellstoffwechsel würde sich aufgrund des erhöhten Innendrucks beschleunigen.",
+          "ja": "内部圧力の増加により細胞代謝が加速する。"
+        },
+        "feedback": {
+          "en": "Metabolism would cease or be severely hindered due to the inability to take in nutrients and eliminate waste products.",
+          "zh": "由于无法摄取营养和排出废物，代谢将停止或受到严重阻碍。",
+          "es": "El metabolismo cesaría o se vería gravemente obstaculizado debido a la incapacidad de absorber nutrientes y eliminar productos de desecho.",
+          "fr": "Le métabolisme cesserait ou serait gravement entravé en raison de l'incapacité d'absorber les nutriments et d'éliminer les déchets.",
+          "de": "Der Stoffwechsel würde aufgrund der Unfähigkeit, Nährstoffe aufzunehmen und Abfallprodukte auszuscheiden, zum Stillstand kommen oder stark behindert werden.",
+          "ja": "栄養素の取り込みや老廃物の排出ができないため、代謝は停止するか、著しく阻害されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The plant cell wall and animal extracellular matrix are crucial for regulating the passage of substances into and out of the cell, as well as for cell-cell communication. If they were completely impermeable, essential nutrients could not enter, and waste products could not exit, leading to cell death. Communication between cells would also be blocked.",
+      "zh": "植物细胞壁和动物细胞外基质对于调节物质进出细胞以及细胞间的交流至关重要。如果它们完全不可渗透，必需的营养物质将无法进入，废物也无法排出，从而导致细胞死亡。细胞间的交流也将被阻断。",
+      "es": "La pared celular vegetal y la matriz extracelular animal son cruciales para regular el paso de sustancias dentro y fuera de la célula, así como para la comunicación célula-célula. Si fueran completamente impermeables, los nutrientes esenciales no podrían entrar y los productos de desecho no podrían salir, lo que provocaría la muerte celular. La comunicación entre las células también se bloquearía.",
+      "fr": "La paroi cellulaire végétale et la matrice extracellulaire animale sont cruciales pour réguler le passage des substances à l'intérieur et à l'extérieur de la cellule, ainsi que pour la communication intercellulaire. Si elles étaient complètement imperméables, les nutriments essentiels ne pourraient pas entrer et les déchets ne pourraient pas sortir, entraînant la mort cellulaire. La communication entre les cellules serait également bloquée.",
+      "de": "Die pflanzliche Zellwand und die tierische extrazelluläre Matrix sind entscheidend für die Regulierung des Stofftransports in und aus der Zelle sowie für die Zell-Zell-Kommunikation. Wären sie vollständig undurchlässig, könnten essentielle Nährstoffe nicht eindringen und Abfallprodukte nicht austreten, was zum Zelltod führen würde. Auch die Kommunikation zwischen den Zellen wäre blockiert.",
+      "ja": "植物の細胞壁と動物の細胞外マトリックスは、細胞内外の物質の通過を調節し、細胞間のコミュニケーションにとっても重要です。もしこれらが完全に不浸透性であれば、必須栄養素が細胞内に入れず、老廃物も排出できなくなり、細胞死につながります。細胞間のコミュニケーションも遮断されるでしょう。"
+    }
+  }
+]

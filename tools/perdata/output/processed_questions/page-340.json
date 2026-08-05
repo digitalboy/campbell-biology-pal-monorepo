@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The inheritance of the ABO blood group system demonstrates which two genetic principles listed in the summary table?",
+      "zh": "ABO 血型系统的遗传体现了总结表中的哪两个遗传学原理？",
+      "es": "La herencia del sistema de grupos sanguíneos ABO demuestra ¿cuáles dos principios genéticos enumerados en la tabla de resumen?",
+      "fr": "L'hérédité du système de groupe sanguin ABO démontre quels deux principes génétiques énumérés dans le tableau récapitulatif ?",
+      "de": "Die Vererbung des ABO-Blutgruppensystems demonstriert welche beiden in der Zusammenfassungstabelle aufgeführten genetischen Prinzipien?",
+      "ja": "ABO血液型システムの遺伝は、要約表に記載されているどの2つの遺伝的原理を実証していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Codominance and Pleiotropy",
+          "zh": "共显性和多效性",
+          "es": "Codominancia y Pleiotropía",
+          "fr": "Codominance et Pléiotropie",
+          "de": "Kodominanz und Pleiotropie",
+          "ja": "共優性と多面発現"
+        },
+        "feedback": {
+          "en": "While it correctly identifies codominance (A and B alleles are both expressed), it does not involve pleiotropy (one gene affecting multiple traits).",
+          "zh": "虽然它正确地指出了共显性（A 和 B 等位基因都表达），但它不涉及多效性（一个基因影响多个性状）。",
+          "es": "Si bien identifica correctamente la codominancia (los alelos A y B se expresan), no implica pleiotropía (un gen que afecta a múltiples rasgos).",
+          "fr": "Bien qu'il identifie correctement la codominance (les allèles A et B sont tous deux exprimés), il n'implique pas la pléiotropie (un gène affectant plusieurs traits).",
+          "de": "Obwohl es die Kodominanz korrekt identifiziert (A- und B-Allele werden beide exprimiert), beinhaltet es keine Pleiotropie (ein Gen, das mehrere Merkmale beeinflusst).",
+          "ja": "共優性（AおよびB対立遺伝子の両方が発現する）を正しく特定していますが、多面発現（1つの遺伝子が複数の形質に影響を与える）は含みません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Incomplete Dominance and Epistasis",
+          "zh": "不完全显性和上位性",
+          "es": "Dominancia incompleta y Epistasis",
+          "fr": "Dominance incomplète et Épistasie",
+          "de": "Unvollständige Dominanz und Epistase",
+          "ja": "不完全優性とエピスタシス"
+        },
+        "feedback": {
+          "en": "Neither of these principles applies. The A and B alleles are fully expressed, not blended (incomplete dominance), and it involves one gene, not one gene masking another (epistasis).",
+          "zh": "这两个原则都不适用。A 和 B 等位基因是完全表达的，而不是混合的（不完全显性），它只涉及一个基因，而不是一个基因掩盖另一个基因（上位性）。",
+          "es": "Ninguno de estos principios se aplica. Los alelos A y B se expresan completamente, no se mezclan (dominancia incompleta), e involucra un gen, no un gen que enmascara a otro (epistasis).",
+          "fr": "Aucun de ces principes ne s'applique. Les allèles A et B sont entièrement exprimés, non mélangés (dominance incomplète), et cela implique un seul gène, pas un gène qui en masque un autre (épistasie).",
+          "de": "Keines dieser Prinzipien trifft zu. Die A- und B-Allele werden vollständig exprimiert, nicht gemischt (unvollständige Dominanz), und es handelt sich um ein Gen, nicht um ein Gen, das ein anderes maskiert (Epistase).",
+          "ja": "これらの原則はいずれも適用されません。A対立遺伝子とB対立遺伝子は完全に発現しており、混合（不完全優性）されておらず、1つの遺伝子が別の遺伝子を覆い隠す（エピスタシス）のではなく、1つの遺伝子が関与しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Codominance and Multiple Alleles",
+          "zh": "共显性和复等位基因",
+          "es": "Codominancia y Alelos Múltiples",
+          "fr": "Codominance et Allèles multiples",
+          "de": "Kodominanz und Multiple Allele",
+          "ja": "共優性と多対立遺伝子"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Complete Dominance and Polygenic Inheritance",
+          "zh": "完全显性和多基因遗传",
+          "es": "Dominancia completa y Herencia poligénica",
+          "fr": "Dominance complète et Hérédité polygénique",
+          "de": "Vollständige Dominanz und Polygene Vererbung",
+          "ja": "完全優性と多遺伝子遺伝"
+        },
+        "feedback": {
+          "en": "While complete dominance exists (A and B over i), it is not the only relationship. Also, blood type is determined by a single gene, not multiple genes (polygenic inheritance).",
+          "zh": "虽然存在完全显性（A 和 B 对 i），但这并不是唯一的关系。此外，血型是由单个基因决定的，而不是多个基因（多基因遗传）。",
+          "es": "Si bien existe una dominancia completa (A y B sobre i), no es la única relación. Además, el tipo de sangre está determinado por un solo gen, no por múltiples genes (herencia poligénica).",
+          "fr": "Bien qu'une dominance complète existe (A et B sur i), ce n'est pas la seule relation. De plus, le groupe sanguin est déterminé par un seul gène, et non par plusieurs gènes (hérédité polygénique).",
+          "de": "Obwohl eine vollständige Dominanz besteht (A und B über i), ist dies nicht die einzige Beziehung. Außerdem wird die Blutgruppe durch ein einzelnes Gen bestimmt, nicht durch mehrere Gene (polygene Vererbung).",
+          "ja": "完全優性（iに対するAおよびB）は存在しますが、それが唯一の関係ではありません。また、血液型は複数の遺伝子（多遺伝子遺伝）ではなく、単一の遺伝子によって決定されます。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The ABO system involves three alleles (IA, IB, and i), which is the definition of multiple alleles. It also demonstrates codominance because in an individual with genotype IAIB, both the A and B carbohydrates are expressed on the surface of red blood cells.",
+      "zh": "ABO 系统涉及三个等位基因（IA、IB 和 i），这是复等位基因的定义。它也展示了共显性，因为在基因型为 IAIB 的个体中，A 和 B 两种碳水化合物都会在红细胞表面表达。",
+      "es": "El sistema ABO involucra tres alelos (IA, IB e i), que es la definición de alelos múltiples. También demuestra codominancia porque en un individuo con genotipo IAIB, tanto los carbohidratos A como los B se expresan en la superficie de los glóbulos rojos.",
+      "fr": "Le système ABO implique trois allèles (IA, IB et i), ce qui est la définition des allèles multiples. Il démontre également la codominance car chez un individu de génotype IAIB, les glucides A et B sont tous deux exprimés à la surface des globules rouges.",
+      "de": "Das ABO-System umfasst drei Allele (IA, IB und i), was die Definition von multiplen Allelen ist. Es zeigt auch Kodominanz, da bei einer Person mit dem Genotyp IAIB sowohl die A- als auch die B-Kohlenhydrate auf der Oberfläche der roten Blutkörperchen exprimiert werden.",
+      "ja": "ABOシステムには3つの対立遺伝子（IA、IB、およびi）が関与しており、これが多対立遺伝子の定義です。また、遺伝子型IAIBの個人では、AとBの両方の炭水化物が赤血球の表面に発現するため、共優性も示します。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following pairs of concepts are direct opposites, describing a one-to-many versus a many-to-one relationship between genes and traits?",
+      "zh": "下列哪对概念是直接对立的，描述了基因与性状之间“一对多”与“多对一”的关系？",
+      "es": "¿Cuál de los siguientes pares de conceptos son directamente opuestos, describiendo una relación de uno a muchos versus una de muchos a uno entre genes y rasgos?",
+      "fr": "Laquelle des paires de concepts suivantes est directement opposée, décrivant une relation un-à-plusieurs par rapport à une relation plusieurs-à-un entre les gènes et les traits ?",
+      "de": "Welches der folgenden Begriffspaare ist direkt entgegengesetzt und beschreibt eine Eins-zu-Viele- bzw. eine Viele-zu-Eins-Beziehung zwischen Genen und Merkmalen?",
+      "ja": "次の概念のペアのうち、遺伝子と形質の間の「1対多」対「多対1」の関係を説明する、正反対のものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Codominance and Incomplete Dominance",
+          "zh": "共显性和不完全显性",
+          "es": "Codominancia y Dominancia Incompleta",
+          "fr": "Codominance et Dominance incomplète",
+          "de": "Kodominanz und Unvollständige Dominanz",
+          "ja": "共優性と不完全優性"
+        },
+        "feedback": {
+          "en": "These both describe relationships between alleles of a single gene in a heterozygote, not the number of genes affecting a trait or vice versa.",
+          "zh": "这两者都描述了杂合子中单个基因的等位基因之间的关系，而不是影响一个性状的基因数量，反之亦然。",
+          "es": "Ambos describen las relaciones entre los alelos de un solo gen en un heterocigoto, no el número de genes que afectan un rasgo o viceversa.",
+          "fr": "Ces deux concepts décrivent les relations entre les allèles d'un même gène chez un hétérozygote, et non le nombre de gènes affectant un trait ou vice versa.",
+          "de": "Diese beiden beschreiben Beziehungen zwischen Allelen eines einzelnen Gens in einem Heterozygoten, nicht die Anzahl der Gene, die ein Merkmal beeinflussen, oder umgekehrt.",
+          "ja": "これらは両方とも、形質に影響を与える遺伝子の数やその逆ではなく、ヘテロ接合体における単一遺伝子の対立遺伝子間の関係を説明しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Epistasis and Polygenic Inheritance",
+          "zh": "上位性和多基因遗传",
+          "es": "Epistasis y Herencia Poligénica",
+          "fr": "Épistasie et Hérédité polygénique",
+          "de": "Epistase und Polygene Vererbung",
+          "ja": "エピスタシスと多遺伝子遺伝"
+        },
+        "feedback": {
+          "en": "Both of these involve multiple genes affecting a single trait. Epistasis is an interaction, while polygenic inheritance is additive, but both are many-to-one.",
+          "zh": "这两者都涉及多个基因影响一个性状。上位性是一种相互作用，而多基因遗传是累加的，但两者都是“多对一”。",
+          "es": "Ambos involucran múltiples genes que afectan un solo rasgo. La epistasis es una interacción, mientras que la herencia poligénica es aditiva, pero ambas son de muchos a uno.",
+          "fr": "Ces deux concepts impliquent plusieurs gènes affectant un seul trait. L'épistasie est une interaction, tandis que l'hérédité polygénique est additive, mais les deux sont du type plusieurs-à-un.",
+          "de": "Beide beinhalten, dass mehrere Gene ein einzelnes Merkmal beeinflussen. Epistase ist eine Wechselwirkung, während polygene Vererbung additiv ist, aber beide sind Viele-zu-Eins.",
+          "ja": "これらは両方とも、複数の遺伝子が単一の形質に影響を与えることを含みます。エピスタシスは相互作用であり、多遺伝子遺伝は相加的ですが、どちらも多対1です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Pleiotropy and Polygenic Inheritance",
+          "zh": "多效性和多基因遗传",
+          "es": "Pleiotropía y Herencia Poligénica",
+          "fr": "Pléiotropie et Hérédité polygénique",
+          "de": "Pleiotropie und Polygene Vererbung",
+          "ja": "多面発現と多遺伝子遺伝"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Complete Dominance and Multiple Alleles",
+          "zh": "完全显性和复等位基因",
+          "es": "Dominancia completa y Alelos Múltiples",
+          "fr": "Dominance complète et Allèles multiples",
+          "de": "Vollständige Dominanz und Multiple Allele",
+          "ja": "完全優性と多対立遺伝子"
+        },
+        "feedback": {
+          "en": "These concepts are not opposites. Complete dominance is a relationship between two alleles, while multiple alleles refers to the existence of more than two alleles for a gene in a population.",
+          "zh": "这些概念不是对立的。完全显性是两个等位基因之间的关系，而复等位基因是指一个基因在群体中存在两个以上的等位基因。",
+          "es": "Estos conceptos no son opuestos. La dominancia completa es una relación entre dos alelos, mientras que los alelos múltiples se refieren a la existencia de más de dos alelos para un gen en una población.",
+          "fr": "Ces concepts ne sont pas opposés. La dominance complète est une relation entre deux allèles, tandis que les allèles multiples font référence à l'existence de plus de deux allèles pour un gène dans une population.",
+          "de": "Diese Konzepte sind keine Gegensätze. Vollständige Dominanz ist eine Beziehung zwischen zwei Allelen, während multiple Allele das Vorhandensein von mehr als zwei Allelen für ein Gen in einer Population bezeichnen.",
+          "ja": "これらの概念は反対ではありません。完全優性は2つの対立遺伝子間の関係であり、多対立遺伝子は集団における遺伝子の2つ以上の対立遺伝子の存在を指します。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "Pleiotropy is when one gene affects multiple phenotypic characters (one-to-many). Polygenic inheritance is when a single phenotypic character is affected by two or more genes (many-to-one). The summary table clearly defines these as inverse scenarios.",
+      "zh": "多效性是指一个基因影响多个表型性状（一对多）。多基因遗传是指一个表型性状受两个或多个基因影响（多对一）。总结表明确将这两者定义为相反的情形。",
+      "es": "La pleiotropía es cuando un gen afecta a múltiples caracteres fenotípicos (de uno a muchos). La herencia poligénica es cuando un solo carácter fenotípico se ve afectado por dos o más genes (de muchos a uno). La tabla de resumen define claramente estos como escenarios inversos.",
+      "fr": "La pléiotropie, c'est lorsqu'un gène affecte plusieurs caractères phénotypiques (un-à-plusieurs). L'hérédité polygénique, c'est lorsqu'un seul caractère phénotypique est affecté par deux ou plusieurs gènes (plusieurs-à-un). Le tableau récapitulatif définit clairement ces scénarios comme étant inverses.",
+      "de": "Pleiotropie liegt vor, wenn ein Gen mehrere phänotypische Merkmale beeinflusst (Eins-zu-Viele). Polygene Vererbung liegt vor, wenn ein einzelnes phänotypisches Merkmal von zwei oder mehr Genen beeinflusst wird (Viele-zu-Eins). Die Zusammenfassungstabelle definiert diese eindeutig als umgekehrte Szenarien.",
+      "ja": "多面発現は、1つの遺伝子が複数の表現型形質に影響を与える場合（1対多）です。多遺伝子遺伝は、単一の表現型形質が2つ以上の遺伝子の影響を受ける場合（多対1）です。要約表では、これらを逆のシナリオとして明確に定義しています。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A heterozygous phenotype that is intermediate between the two homozygous phenotypes is an example of what?",
+      "zh": "杂合子的表型介于两种纯合子表型之间，这是什么现象的例子？",
+      "es": "Un fenotipo heterocigoto que es intermedio entre los dos fenotipos homocigotos es un ejemplo de ¿qué?",
+      "fr": "Un phénotype hétérozygote qui est intermédiaire entre les deux phénotypes homozygotes est un exemple de quoi ?",
+      "de": "Ein heterozygoter Phänotyp, der zwischen den beiden homozygoten Phänotypen liegt, ist ein Beispiel für was?",
+      "ja": "2つのホモ接合表現型の中間であるヘテロ接合表現型は何の例ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Codominance",
+          "zh": "共显性",
+          "es": "Codominancia",
+          "fr": "Codominance",
+          "de": "Kodominanz",
+          "ja": "共優性"
+        },
+        "feedback": {
+          "en": "In codominance, both phenotypes are expressed separately, not blended into an intermediate form. For example, the IAIB genotype results in both A and B antigens, not an intermediate antigen.",
+          "zh": "在共显性中，两种表型是分别表达的，而不是混合成中间形式。例如，IAIB 基因型导致同时存在 A 和 B 抗原，而不是一种中间抗原。",
+          "es": "En la codominancia, ambos fenotipos se expresan por separado, no se mezclan en una forma intermedia. Por ejemplo, el genotipo IAIB da como resultado antígenos A y B, no un antígeno intermedio.",
+          "fr": "Dans la codominance, les deux phénotypes sont exprimés séparément, et non mélangés en une forme intermédiaire. Par exemple, le génotype IAIB donne lieu à la fois aux antigènes A et B, et non à un antigène intermédiaire.",
+          "de": "Bei der Kodominanz werden beide Phänotypen getrennt exprimiert, nicht zu einer Zwischenform vermischt. Zum Beispiel führt der Genotyp IAIB zu A- und B-Antigenen, nicht zu einem intermediären Antigen.",
+          "ja": "共優性では、両方の表現型が別々に発現し、中間的な形に混合されることはありません。例えば、IAIB遺伝子型は、中間的な抗原ではなく、A抗原とB抗原の両方をもたらします。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Pleiotropy",
+          "zh": "多效性",
+          "es": "Pleiotropía",
+          "fr": "Pléiotropie",
+          "de": "Pleiotropie",
+          "ja": "多面発現"
+        },
+        "feedback": {
+          "en": "Pleiotropy describes a single gene affecting multiple traits, not the nature of the phenotype in a heterozygote for a single trait.",
+          "zh": "多效性描述的是一个基因影响多个性状，而不是单个杂合子性状的表型性质。",
+          "es": "La pleiotropía describe un solo gen que afecta a múltiples rasgos, no la naturaleza del fenotipo en un heterocigoto para un solo rasgo.",
+          "fr": "La pléiotropie décrit un seul gène affectant plusieurs traits, et non la nature du phénotype chez un hétérozygote pour un seul trait.",
+          "de": "Pleiotropie beschreibt ein einzelnes Gen, das mehrere Merkmale beeinflusst, nicht die Natur des Phänotyps bei einem Heterozygoten für ein einzelnes Merkmal.",
+          "ja": "多面発現は、単一の形質に対するヘテロ接合体の表現型の性質ではなく、単一の遺伝子が複数の形質に影響を与えることを説明します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Incomplete dominance",
+          "zh": "不完全显性",
+          "es": "Dominancia incompleta",
+          "fr": "Dominance incomplète",
+          "de": "Unvollständige Dominanz",
+          "ja": "不完全優性"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Epistasis",
+          "zh": "上位性",
+          "es": "Epistasis",
+          "fr": "Épistasie",
+          "de": "Epistase",
+          "ja": "エピスタシス"
+        },
+        "feedback": {
+          "en": "Epistasis is an interaction between two different genes, where one masks the other. This question describes the interaction between alleles of a single gene.",
+          "zh": "上位性是两个不同基因之间的相互作用，其中一个掩盖了另一个。这个问题描述的是单个基因的等位基因之间的相互作用。",
+          "es": "La epistasis es una interacción entre dos genes diferentes, donde uno enmascara al otro. Esta pregunta describe la interacción entre los alelos de un solo gen.",
+          "fr": "L'épistasie est une interaction entre deux gènes différents, où l'un masque l'autre. Cette question décrit l'interaction entre les allèles d'un même gène.",
+          "de": "Epistase ist eine Wechselwirkung zwischen zwei verschiedenen Genen, bei der eines das andere maskiert. Diese Frage beschreibt die Wechselwirkung zwischen Allelen eines einzelnen Gens.",
+          "ja": "エピスタシスは、一方の遺伝子が他方を覆い隠す、2つの異なる遺伝子間の相互作用です。この質問は、単一遺伝子の対立遺伝子間の相互作用を説明しています。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The summary table for Concept 14.3 provides the exact definition for incomplete dominance: 'Heterozygous phenotype intermediate between the two homozygous phenotypes.' The example given is pink snapdragons (CRCW) from red (CRCR) and white (CWCW) parents.",
+      "zh": "概念 14.3 的总结表给出了不完全显性的准确定义：“杂合子的表型介于两种纯合子表型之间。” 给出的例子是从红色（CRCR）和白色（CWCW）亲本得到的粉色金鱼草（CRCW）。",
+      "es": "La tabla de resumen del Concepto 14.3 proporciona la definición exacta de dominancia incompleta: 'Fenotipo heterocigoto intermedio entre los dos fenotipos homocigotos'. El ejemplo dado son los dragones rosados (CRCW) de padres rojos (CRCR) y blancos (CWCW).",
+      "fr": "Le tableau récapitulatif du concept 14.3 donne la définition exacte de la dominance incomplète : « Phénotype hétérozygote intermédiaire entre les deux phénotypes homozygotes ». L'exemple donné est celui des mufliers roses (CRCW) issus de parents rouges (CRCR) et blancs (CWCW).",
+      "de": "Die Zusammenfassungstabelle für Konzept 14.3 liefert die genaue Definition für unvollständige Dominanz: „Heterozygoter Phänotyp, der zwischen den beiden homozygoten Phänotypen liegt.“ Das angegebene Beispiel sind rosa Löwenmäulchen (CRCW) von roten (CRCR) und weißen (CWCW) Eltern.",
+      "ja": "コンセプト14.3の要約表は、不完全優性の正確な定義を提供しています。「2つのホモ接合表現型の中間であるヘテロ接合表現型」。与えられた例は、赤（CRCR）と白（CWCW）の親からのピンクのキンギョソウ（CRCW）です。"
+    }
+  }
+]

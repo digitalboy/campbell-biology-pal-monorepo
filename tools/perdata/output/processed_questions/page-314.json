@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is independent assortment of chromosomes?",
+      "zh": "什么是染色体的自由组合？",
+      "es": "¿Qué es la distribución independiente de los cromosomas?",
+      "fr": "Qu'est-ce que l'assortiment indépendant des chromosomes ?",
+      "de": "Was ist die unabhängige Sortierung von Chromosomen?",
+      "ja": "染色体の独立した分配とは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The process where homologous chromosomes exchange genetic material.",
+          "zh": "同源染色体交换遗传物质的过程。",
+          "es": "El proceso por el cual los cromosomas homólogos intercambian material genético.",
+          "fr": "Le processus par lequel les chromosomes homologues échangent du matériel génétique.",
+          "de": "Der Prozess, bei dem homologe Chromosomen genetisches Material austauschen.",
+          "ja": "相同染色体が遺伝物質を交換するプロセス。"
+        },
+        "feedback": {
+          "en": "This describes crossing over, another source of genetic variation.",
+          "zh": "这描述的是交换，是遗传变异的另一个来源。",
+          "es": "Esto describe el entrecruzamiento, otra fuente de variación genética.",
+          "fr": "Ceci décrit l'enjambement, une autre source de variation génétique.",
+          "de": "Dies beschreibt das Crossing-over, eine weitere Quelle genetischer Variation.",
+          "ja": "これは遺伝的変異のもう一つの源である交差を説明しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The random orientation of homologous chromosome pairs at the metaphase I plate.",
+          "zh": "减数分裂中期I赤道板上同源染色体对的随机朝向。",
+          "es": "La orientación aleatoria de los pares de cromosomas homólogos en la placa de la metafase I.",
+          "fr": "L'orientation aléatoire des paires de chromosomes homologues sur la plaque de la métaphase I.",
+          "de": "Die zufällige Ausrichtung homologer Chromosomenpaare an der Metaphase-I-Platte.",
+          "ja": "中期Iのプレートにおける相同染色体対のランダムな向き。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The separation of sister chromatids during anaphase II.",
+          "zh": "后期II期间姐妹染色单体的分离。",
+          "es": "La separación de las cromátidas hermanas durante la anafase II.",
+          "fr": "La séparation des chromatides sœurs pendant l'anaphase II.",
+          "de": "Die Trennung der Schwesterchromatiden während der Anaphase II.",
+          "ja": "後期IIにおける姉妹染色分体の分離。"
+        },
+        "feedback": {
+          "en": "This is a standard part of meiosis II but does not describe independent assortment, which occurs in meiosis I.",
+          "zh": "这是减数分裂II的标准部分，但并未描述发生在减数分裂I中的自由组合。",
+          "es": "Esta es una parte estándar de la meiosis II, pero no describe la distribución independiente, que ocurre en la meiosis I.",
+          "fr": "C'est une partie standard de la méiose II mais ne décrit pas l'assortiment indépendant, qui se produit dans la méiose I.",
+          "de": "Dies ist ein Standardteil der Meiose II, beschreibt aber nicht die unabhängige Sortierung, die in der Meiose I stattfindet.",
+          "ja": "これは減数分裂IIの標準的な部分ですが、減数分裂Iで起こる独立した分配を説明するものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The fact that mutations are the original source of all genetic diversity.",
+          "zh": "突变是所有遗传多样性的最初来源这一事实。",
+          "es": "El hecho de que las mutaciones son la fuente original de toda la diversidad genética.",
+          "fr": "Le fait que les mutations sont la source originale de toute la diversité génétique.",
+          "de": "Die Tatsache, dass Mutationen die ursprüngliche Quelle aller genetischen Vielfalt sind.",
+          "ja": "突然変異がすべての遺伝的多様性の元の源であるという事実。"
+        },
+        "feedback": {
+          "en": "While true, this is a statement about the ultimate origin of alleles, not the mechanism of their reshuffling during meiosis.",
+          "zh": "虽然这是事实，但这是关于等位基因最终起源的陈述，而不是它们在减数分裂期间重组的机制。",
+          "es": "Si bien es cierto, esta es una declaración sobre el origen último de los alelos, no sobre el mecanismo de su reorganización durante la meiosis.",
+          "fr": "Bien que vrai, il s'agit d'une déclaration sur l'origine ultime des allèles, et non sur le mécanisme de leur remaniement pendant la méiose.",
+          "de": "Obwohl dies zutrifft, handelt es sich um eine Aussage über den ultimativen Ursprung von Allelen, nicht über den Mechanismus ihrer Neuanordnung während der Meiose.",
+          "ja": "真実ではありますが、これは対立遺伝子の究極の起源に関する記述であり、減数分裂中のそれらの再シャッフルのメカニズムではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text defines independent assortment as 'the random orientation of pairs of homologous chromosomes at metaphase of meiosis I'. Figure 13.11 visually demonstrates how these two equally probable arrangements lead to different combinations of chromosomes in the daughter cells.",
+      "zh": "文本将自由组合定义为“减数分裂中期I同源染色体对的随机朝向”。图13.11直观地展示了这两种等概率的排列如何导致子细胞中产生不同的染色体组合。",
+      "es": "El texto define la distribución independiente como 'la orientación aleatoria de los pares de cromosomas homólogos en la metafase de la meiosis I'. La Figura 13.11 demuestra visualmente cómo estas dos disposiciones igualmente probables conducen a diferentes combinaciones de cromosomas en las células hijas.",
+      "fr": "Le texte définit l'assortiment indépendant comme « l'orientation aléatoire des paires de chromosomes homologues à la métaphase de la méiose I ». La figure 13.11 montre visuellement comment ces deux arrangements également probables conduisent à différentes combinaisons de chromosomes dans les cellules filles.",
+      "de": "Der Text definiert die unabhängige Sortierung als „die zufällige Ausrichtung von Paaren homologer Chromosomen in der Metaphase der Meiose I“. Abbildung 13.11 veranschaulicht visuell, wie diese beiden gleich wahrscheinlichen Anordnungen zu unterschiedlichen Kombinationen von Chromosomen in den Tochterzellen führen.",
+      "ja": "本文では、独立した分配を「減数分裂Iの中期における相同染色体対のランダムな向き」と定義しています。図13.11は、これら2つの等しくありそうな配置が、娘細胞における染色体の異なる組み合わせにどのようにつながるかを視覚的に示しています。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "For a human (n=23), how many possible combinations of maternal and paternal chromosomes can be produced in the gametes by independent assortment alone?",
+      "zh": "对于人类（n=23），仅通过自由组合，配子中可能产生多少种母源和父源染色体的组合？",
+      "es": "Para un ser humano (n=23), ¿cuántas combinaciones posibles de cromosomas maternos y paternos se pueden producir en los gametos solo por distribución independiente?",
+      "fr": "Pour un humain (n=23), combien de combinaisons possibles de chromosomes maternels et paternels peuvent être produites dans les gamètes par assortiment indépendant seul ?",
+      "de": "Wie viele mögliche Kombinationen von mütterlichen und väterlichen Chromosomen können bei einem Menschen (n=23) allein durch unabhängige Sortierung in den Gameten erzeugt werden?",
+      "ja": "ヒト（n=23）の場合、独立した分配だけで、配偶子で生産できる母親由来および父親由来の染色体の可能な組み合わせは何通りですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "23",
+          "zh": "23种",
+          "es": "23",
+          "fr": "23",
+          "de": "23",
+          "ja": "23通り"
+        },
+        "feedback": {
+          "en": "This is the haploid number (n), not the number of combinations.",
+          "zh": "这是单倍体数（n），而不是组合数。",
+          "es": "Este es el número haploide (n), no el número de combinaciones.",
+          "fr": "C'est le nombre haploïde (n), pas le nombre de combinaisons.",
+          "de": "Dies ist die haploide Zahl (n), nicht die Anzahl der Kombinationen.",
+          "ja": "これは単数体の数（n）であり、組み合わせの数ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "46",
+          "zh": "46种",
+          "es": "46",
+          "fr": "46",
+          "de": "46",
+          "ja": "46通り"
+        },
+        "feedback": {
+          "en": "This is the diploid number (2n). The number of combinations is calculated as 2^n.",
+          "zh": "这是二倍体数（2n）。组合数计算为2^n。",
+          "es": "Este es el número diploide (2n). El número de combinaciones se calcula como 2^n.",
+          "fr": "C'est le nombre diploïde (2n). Le nombre de combinaisons est calculé comme 2^n.",
+          "de": "Dies ist die diploide Zahl (2n). Die Anzahl der Kombinationen wird als 2^n berechnet.",
+          "ja": "これは二倍体の数（2n）です。組み合わせの数は2^nとして計算されます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "2^23 (about 8.4 million)",
+          "zh": "2^23 (约840万)",
+          "es": "2^23 (alrededor de 8.4 millones)",
+          "fr": "2^23 (environ 8,4 millions)",
+          "de": "2^23 (etwa 8,4 Millionen)",
+          "ja": "2^23（約840万）"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "23^2 (529)",
+          "zh": "23^2 (529)",
+          "es": "23^2 (529)",
+          "fr": "23^2 (529)",
+          "de": "23^2 (529)",
+          "ja": "23^2（529）"
+        },
+        "feedback": {
+          "en": "The formula is 2^n, not n^2. Each of the n pairs can orient in one of two ways.",
+          "zh": "公式是2^n，而不是n^2。n对染色体中的每一对都可以以两种方式之一朝向。",
+          "es": "La fórmula es 2^n, no n^2. Cada uno de los n pares puede orientarse de una de dos maneras.",
+          "fr": "La formule est 2^n, pas n^2. Chacune des n paires peut s'orienter de l'une des deux manières.",
+          "de": "Die Formel lautet 2^n, nicht n^2. Jedes der n Paare kann sich auf eine von zwei Arten ausrichten.",
+          "ja": "式はn^2ではなく2^nです。n個のペアのそれぞれが2つの方法のいずれかで方向付けできます。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text states that the number of possible combinations is 2^n, where n is the haploid number. For humans, n=23, so the number of combinations is 2^23, which is about 8.4 million.",
+      "zh": "文中指出，可能的组合数为2^n，其中n是单倍体数。对于人类，n=23，所以组合数是2^23，约等于840万。",
+      "es": "El texto indica que el número de combinaciones posibles es 2^n, donde n es el número haploide. Para los humanos, n=23, por lo que el número de combinaciones es 2^23, que es de aproximadamente 8.4 millones.",
+      "fr": "Le texte indique que le nombre de combinaisons possibles est de 2^n, où n est le nombre haploïde. Pour les humains, n=23, donc le nombre de combinaisons est de 2^23, soit environ 8,4 millions.",
+      "de": "Der Text besagt, dass die Anzahl der möglichen Kombinationen 2^n beträgt, wobei n die haploide Zahl ist. Für den Menschen ist n=23, also beträgt die Anzahl der Kombinationen 2^23, was etwa 8,4 Millionen entspricht.",
+      "ja": "本文では、可能な組み合わせの数は2^nであり、nは単数体の数であると述べられています。ヒトの場合、n=23なので、組み合わせの数は2^23、つまり約840万です。"
+    }
+  },
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What are the three mechanisms mentioned that contribute to genetic variation in sexually reproducing species?",
+      "zh": "文中提到的为有性生殖物种的遗传变异做出贡献的三个机制是什么？",
+      "es": "¿Cuáles son los tres mecanismos mencionados que contribuyen a la variación genética en las especies que se reproducen sexualmente?",
+      "fr": "Quels sont les trois mécanismes mentionnés qui contribuent à la variation génétique chez les espèces à reproduction sexuée ?",
+      "de": "Welche drei genannten Mechanismen tragen zur genetischen Variation bei sich sexuell vermehrenden Arten bei?",
+      "ja": "有性生殖種における遺伝的変異に寄与すると述べられている3つのメカニズムは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Mitosis, meiosis, and fertilization.",
+          "zh": "有丝分裂、减数分裂和受精。",
+          "es": "Mitosis, meiosis y fecundación.",
+          "fr": "Mitose, méiose et fécondation.",
+          "de": "Mitose, Meiose und Befruchtung.",
+          "ja": "有糸分裂、減数分裂、および受精。"
+        },
+        "feedback": {
+          "en": "Mitosis produces genetically identical cells and does not contribute to variation.",
+          "zh": "有丝分裂产生基因相同的细胞，对变异没有贡献。",
+          "es": "La mitosis produce células genéticamente idénticas y no contribuye a la variación.",
+          "fr": "La mitose produit des cellules génétiquement identiques et ne contribue pas à la variation.",
+          "de": "Die Mitose produziert genetisch identische Zellen und trägt nicht zur Variation bei.",
+          "ja": "有糸分裂は遺伝的に同一の細胞を生産し、変異には寄与しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Independent assortment, crossing over, and random fertilization.",
+          "zh": "自由组合、交换和随机受精。",
+          "es": "Distribución independiente, entrecruzamiento y fecundación aleatoria.",
+          "fr": "Assortiment indépendant, enjambement et fécondation aléatoire.",
+          "de": "Unabhängige Sortierung, Crossing-over und zufällige Befruchtung.",
+          "ja": "独立した分配、交差、およびランダムな受精。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Mutations, synapsis, and random fertilization.",
+          "zh": "突变、联会和随机受精。",
+          "es": "Mutaciones, sinapsis y fecundación aleatoria.",
+          "fr": "Mutations, synapsis et fécondation aléatoire.",
+          "de": "Mutationen, Synapsis und zufällige Befruchtung.",
+          "ja": "突然変異、シナプシス、およびランダムな受精。"
+        },
+        "feedback": {
+          "en": "Synapsis is the process of pairing, not a source of variation itself, although it facilitates crossing over. Mutations are the ultimate source of new alleles, but the question asks for the mechanisms of reshuffling during sexual reproduction.",
+          "zh": "联会是配对的过程，其本身不是变异的来源，尽管它促进了交换。突变是新等位基因的最终来源，但问题问的是有性生殖期间重组的机制。",
+          "es": "La sinapsis es el proceso de apareamiento, no una fuente de variación en sí misma, aunque facilita el entrecruzamiento. Las mutaciones son la fuente última de nuevos alelos, pero la pregunta se refiere a los mecanismos de reorganización durante la reproducción sexual.",
+          "fr": "La synapsis est le processus d'appariement, pas une source de variation en soi, bien qu'elle facilite l'enjambement. Les mutations sont la source ultime de nouveaux allèles, mais la question porte sur les mécanismes de remaniement pendant la reproduction sexuée.",
+          "de": "Die Synapsis ist der Prozess der Paarung, keine Quelle der Variation an sich, obwohl sie das Crossing-over erleichtert. Mutationen sind die ultimative Quelle für neue Allele, aber die Frage bezieht sich auf die Mechanismen der Neuanordnung während der sexuellen Fortpflanzung.",
+          "ja": "シナプシスは対合のプロセスであり、それ自体が変異の源ではありませんが、交差を促進します。突然変異は新しい対立遺伝子の究極の源ですが、質問は有性生殖中の再シャッフルのメカニズムについて尋ねています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Independent assortment, mitosis, and crossing over.",
+          "zh": "自由组合、有丝分裂和交换。",
+          "es": "Distribución independiente, mitosis y entrecruzamiento.",
+          "fr": "Assortiment indépendant, mitose et enjambement.",
+          "de": "Unabhängige Sortierung, Mitose und Crossing-over.",
+          "ja": "独立した分配、有糸分裂、および交差。"
+        },
+        "feedback": {
+          "en": "Mitosis does not contribute to genetic variation.",
+          "zh": "有丝分裂对遗传变异没有贡献。",
+          "es": "La mitosis no contribuye a la variación genética.",
+          "fr": "La mitose ne contribue pas à la variation génétique.",
+          "de": "Die Mitose trägt nicht zur genetischen Variation bei.",
+          "ja": "有糸分裂は遺伝的変異に寄与しません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text explicitly lists the three mechanisms: 'independent assortment of chromosomes, crossing over, and random fertilization.'",
+      "zh": "文中明确列出了三个机制：“染色体的自由组合、交换和随机受精。”",
+      "es": "El texto enumera explícitamente los tres mecanismos: 'distribución independiente de los cromosomas, entrecruzamiento y fecundación aleatoria'.",
+      "fr": "Le texte énumère explicitement les trois mécanismes : « l'assortiment indépendant des chromosomes, l'enjambement et la fécondation aléatoire ».",
+      "de": "Der Text listet ausdrücklich die drei Mechanismen auf: „unabhängige Sortierung von Chromosomen, Crossing-over und zufällige Befruchtung“.",
+      "ja": "本文では、3つのメカニズムが明記されています。「染色体の独立した分配、交差、およびランダムな受精」"
+    }
+  }
+]

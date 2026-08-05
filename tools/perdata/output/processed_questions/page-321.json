@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following is NOT one of the four related concepts of Mendel's model?",
+      "zh": "以下哪一项不属于孟德尔模型的四个相关概念之一？",
+      "es": "¿Cuál de los siguientes NO es uno de los cuatro conceptos relacionados del modelo de Mendel?",
+      "fr": "Lequel des énoncés suivants n'est PAS l'un des quatre concepts liés du modèle de Mendel ?",
+      "de": "Welches der folgenden ist KEINES der vier verwandten Konzepte von Mendels Modell?",
+      "ja": "次のうち、メンデルのモデルの4つの関連概念の1つではないものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Alternative versions of genes (alleles) account for variations.",
+          "zh": "基因的替代版本（等位基因）导致了变异。",
+          "es": "Las versiones alternativas de los genes (alelos) explican las variaciones.",
+          "fr": "Les versions alternatives des gènes (allèles) expliquent les variations.",
+          "de": "Alternative Versionen von Genen (Allelen) sind für Variationen verantwortlich.",
+          "ja": "遺伝子の代替バージョン（対立遺伝子）が変異の原因です。"
+        },
+        "feedback": {
+          "en": "This is the first concept of Mendel's model mentioned in the text.",
+          "zh": "这是文本中提到的孟德尔模型的第一个概念。",
+          "es": "Este es el primer concepto del modelo de Mendel mencionado en el texto.",
+          "fr": "C'est le premier concept du modèle de Mendel mentionné dans le texte.",
+          "de": "Dies ist das erste im Text erwähnte Konzept von Mendels Modell.",
+          "ja": "これは、本文で言及されているメンデルのモデルの最初の概念です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "For each character, an organism inherits two alleles, one from each parent.",
+          "zh": "对于每个性状，生物体继承两个等位基因，每个亲本各一个。",
+          "es": "Para cada carácter, un organismo hereda dos alelos, uno de cada progenitor.",
+          "fr": "Pour chaque caractère, un organisme hérite de deux allèles, un de chaque parent.",
+          "de": "Für jedes Merkmal erbt ein Organismus zwei Allele, eines von jedem Elternteil.",
+          "ja": "各形質について、生物は各親から1つずつ、2つの対立遺伝子を継承します。"
+        },
+        "feedback": {
+          "en": "This is the second concept of Mendel's model mentioned in the text.",
+          "zh": "这是文本中提到的孟德尔模型的第二个概念。",
+          "es": "Este es el segundo concepto del modelo de Mendel mencionado en el texto.",
+          "fr": "C'est le deuxième concept du modèle de Mendel mentionné dans le texte.",
+          "de": "Dies ist das zweite im Text erwähnte Konzept von Mendels Modell.",
+          "ja": "これは、本文で言及されているメンデルのモデルの2番目の概念です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "If two alleles differ, the dominant allele determines the appearance.",
+          "zh": "如果两个等位基因不同，显性等位基因决定外观。",
+          "es": "Si dos alelos difieren, el alelo dominante determina la apariencia.",
+          "fr": "Si deux allèles diffèrent, l'allèle dominant détermine l'apparence.",
+          "de": "Wenn sich zwei Allele unterscheiden, bestimmt das dominante Allel das Aussehen.",
+          "ja": "2つの対立遺伝子が異なる場合、優性対立遺伝子が外観を決定します。"
+        },
+        "feedback": {
+          "en": "This is the third concept of Mendel's model mentioned in the text.",
+          "zh": "这是文本中提到的孟德尔模型的第三个概念。",
+          "es": "Este es el tercer concepto del modelo de Mendel mencionado en el texto.",
+          "fr": "C'est le troisième concept du modèle de Mendel mentionné dans le texte.",
+          "de": "Dies ist das dritte im Text erwähnte Konzept von Mendels Modell.",
+          "ja": "これは、本文で言及されているメンデルのモデルの3番目の概念です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Alleles for different characters are always inherited together.",
+          "zh": "不同性状的等位基因总是一起被继承。",
+          "es": "Los alelos para diferentes caracteres siempre se heredan juntos.",
+          "fr": "Les allèles de différents caractères sont toujours hérités ensemble.",
+          "de": "Allele für verschiedene Merkmale werden immer zusammen vererbt.",
+          "ja": "異なる形質の対立遺伝子は常に一緒に遺伝します。"
+        }
+      }
+    ],
+    "correct_answers": ["D"],
+    "explanation": {
+      "en": "This statement is incorrect and describes dependent assortment. Mendel's fourth concept is the law of segregation, which states alleles separate. The law of independent assortment (discussed later) states that alleles for different characters are inherited independently, not together.",
+      "zh": "这个陈述是不正确的，描述的是连锁遗传。孟德尔的第四个概念是分离定律，即等位基因会分离。自由组合定律（稍后讨论）指出，不同性状的等位基因是独立继承的，而不是一起继承。",
+      "es": "Esta afirmación es incorrecta y describe la distribución dependiente. El cuarto concepto de Mendel es la ley de la segregación, que establece que los alelos se separan. La ley de la distribución independiente (discutida más adelante) establece que los alelos para diferentes caracteres se heredan de forma independiente, no juntos.",
+      "fr": "Cette affirmation est incorrecte et décrit l'assortiment dépendant. Le quatrième concept de Mendel est la loi de la ségrégation, qui stipule que les allèles se séparent. La loi de l'assortiment indépendant (discutée plus tard) stipule que les allèles de différents caractères sont hérités indépendamment, et non ensemble.",
+      "de": "Diese Aussage ist falsch und beschreibt die abhängige Sortierung. Mendels viertes Konzept ist das Gesetz der Segregation, das besagt, dass sich Allele trennen. Das Gesetz der unabhängigen Sortierung (später diskutiert) besagt, dass Allele für verschiedene Merkmale unabhängig voneinander vererbt werden, nicht zusammen.",
+      "ja": "この記述は誤っており、従属的な分配を説明しています。メンデルの4番目の概念は、対立遺伝子が分離することを示す分離の法則です。独立した分配の法則（後で説明）は、異なる形質の対立遺伝子は一緒ではなく、独立して遺伝することを示しています。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In Table 14.1, which of the following is a recessive trait in pea plants?",
+      "zh": "在表14.1中，以下哪项是豌豆的隐性性状？",
+      "es": "En la Tabla 14.1, ¿cuál de los siguientes es un rasgo recesivo en las plantas de guisantes?",
+      "fr": "Dans le tableau 14.1, lequel des énoncés suivants est un caractère récessif chez les plants de pois ?",
+      "de": "Welches der folgenden ist laut Tabelle 14.1 ein rezessives Merkmal bei Erbsenpflanzen?",
+      "ja": "表14.1において、エンドウ豆の劣性形質は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Yellow seed color",
+          "zh": "黄色种子颜色",
+          "es": "Color de semilla amarillo",
+          "fr": "Couleur de la graine jaune",
+          "de": "Gelbe Samenfarbe",
+          "ja": "黄色の種子の色"
+        },
+        "feedback": {
+          "en": "The table lists Yellow as the dominant trait for seed color, with a 3.01:1 ratio over the recessive green trait.",
+          "zh": "表格将黄色列为种子颜色的显性性状，其与隐性绿色性状的比例为3.01:1。",
+          "es": "La tabla enumera el amarillo como el rasgo dominante para el color de la semilla, con una proporción de 3.01:1 sobre el rasgo recesivo verde.",
+          "fr": "Le tableau indique le jaune comme caractère dominant pour la couleur de la graine, avec un rapport de 3,01:1 sur le caractère récessif vert.",
+          "de": "Die Tabelle listet Gelb als dominantes Merkmal für die Samenfarbe auf, mit einem Verhältnis von 3,01:1 gegenüber dem rezessiven grünen Merkmal.",
+          "ja": "表では、種子の色の優性形質として黄色が記載されており、劣性の緑色の形質に対する比率は3.01：1です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Round seed shape",
+          "zh": "圆形种子形状",
+          "es": "Forma de semilla redonda",
+          "fr": "Forme de la graine ronde",
+          "de": "Runde Samenform",
+          "ja": "丸い種子の形"
+        },
+        "feedback": {
+          "en": "The table lists Round as the dominant trait for seed shape.",
+          "zh": "表格将圆形列为种子形状的显性性状。",
+          "es": "La tabla enumera la forma redonda como el rasgo dominante para la forma de la semilla.",
+          "fr": "Le tableau indique la forme ronde comme caractère dominant pour la forme de la graine.",
+          "de": "Die Tabelle listet Rund als dominantes Merkmal für die Samenform auf.",
+          "ja": "表では、種子の形の優性形質として丸い形が記載されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Constricted pod shape",
+          "zh": "缢缩的豆荚形状",
+          "es": "Forma de vaina constreñida",
+          "fr": "Forme de la gousse resserrée",
+          "de": "Eingeschnürte Hülsenform",
+          "ja": "くびれたさやの形"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Axial flower position",
+          "zh": "轴生花位置",
+          "es": "Posición de la flor axial",
+          "fr": "Position de la fleur axiale",
+          "de": "Axiale Blütenposition",
+          "ja": "軸性の花の位置"
+        },
+        "feedback": {
+          "en": "The table lists Axial as the dominant trait for flower position.",
+          "zh": "表格将轴生列为花位置的显性性状。",
+          "es": "La tabla enumera la posición axial como el rasgo dominante para la posición de la flor.",
+          "fr": "Le tableau indique la position axiale comme caractère dominant pour la position de la fleur.",
+          "de": "Die Tabelle listet Axial als dominantes Merkmal für die Blütenposition auf.",
+          "ja": "表では、花の位置の優性形質として軸性が記載されています。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "In Table 14.1, for the character 'Pod shape', the trait 'Constricted' is listed in the 'Recessive Trait' column, appearing in the F2 generation in a ratio of approximately 2.95:1 against the dominant 'Inflated' trait.",
+      "zh": "在表14.1中，对于“豆荚形状”这一性状，“缢缩”被列在“隐性性状”一栏，在F2代中与显性性状“膨胀”的比例约为2.95:1。",
+      "es": "En la Tabla 14.1, para el carácter 'Forma de la vaina', el rasgo 'Constreñida' se enumera en la columna 'Rasgo recesivo', apareciendo en la generación F2 en una proporción de aproximadamente 2.95:1 frente al rasgo dominante 'Inflada'.",
+      "fr": "Dans le tableau 14.1, pour le caractère « Forme de la gousse », le trait « Resserrée » est répertorié dans la colonne « Trait récessif », apparaissant dans la génération F2 dans un rapport d'environ 2,95:1 par rapport au trait dominant « Gonflée ».",
+      "de": "In Tabelle 14.1 ist für das Merkmal „Hülsenform“ die Eigenschaft „Eingeschnürt“ in der Spalte „Rezessives Merkmal“ aufgeführt und erscheint in der F2-Generation in einem Verhältnis von ungefähr 2,95:1 gegenüber der dominanten Eigenschaft „Aufgeblasen“.",
+      "ja": "表14.1では、「さやの形」という形質について、「くびれた」という特性が「劣性形質」の列に記載されており、F2世代では優性の「膨らんだ」特性に対して約2.95：1の比率で現れます。"
+    }
+  },
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the law of segregation?",
+      "zh": "什么是分离定律？",
+      "es": "¿Qué es la ley de la segregación?",
+      "fr": "Qu'est-ce que la loi de la ségrégation ?",
+      "de": "Was ist das Gesetz der Segregation?",
+      "ja": "分離の法則とは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The two alleles for a heritable character separate from each other during gamete formation.",
+          "zh": "控制一个可遗传性状的两个等位基因在配子形成过程中彼此分离。",
+          "es": "Los dos alelos de un carácter hereditario se separan el uno del otro durante la formación de los gametos.",
+          "fr": "Les deux allèles d'un caractère héréditaire se séparent l'un de l'autre lors de la formation des gamètes.",
+          "de": "Die beiden Allele für ein vererbbares Merkmal trennen sich während der Gametenbildung voneinander.",
+          "ja": "遺伝可能な形質の2つの対立遺伝子は、配偶子形成中に互いに分離します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The dominant allele determines the organism's appearance.",
+          "zh": "显性等位基因决定生物体的外观。",
+          "es": "El alelo dominante determina la apariencia del organismo.",
+          "fr": "L'allèle dominant détermine l'apparence de l'organisme.",
+          "de": "Das dominante Allel bestimmt das Aussehen des Organismus.",
+          "ja": "優性対立遺伝子が生物の外観を決定します。"
+        },
+        "feedback": {
+          "en": "This is the principle of dominance, which is the third part of Mendel's model, but not the law of segregation itself.",
+          "zh": "这是显性原则，是孟德尔模型的第三部分，但不是分离定律本身。",
+          "es": "Este es el principio de dominancia, que es la tercera parte del modelo de Mendel, pero no la ley de la segregación en sí.",
+          "fr": "C'est le principe de la dominance, qui est la troisième partie du modèle de Mendel, mais pas la loi de la ségrégation elle-même.",
+          "de": "Dies ist das Prinzip der Dominanz, das der dritte Teil von Mendels Modell ist, aber nicht das Gesetz der Segregation selbst.",
+          "ja": "これは優性の法則であり、メンデルのモデルの第3部ですが、分離の法則そのものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "An organism inherits two alleles, one from each parent.",
+          "zh": "一个生物体继承两个等位基因，每个亲本各一个。",
+          "es": "Un organismo hereda dos alelos, uno de cada progenitor.",
+          "fr": "Un organisme hérite de deux allèles, un de chaque parent.",
+          "de": "Ein Organismus erbt zwei Allele, eines von jedem Elternteil.",
+          "ja": "生物は各親から1つずつ、2つの対立遺伝子を継承します。"
+        },
+        "feedback": {
+          "en": "This is the second part of Mendel's model, explaining the diploid nature of organisms, but it's not the law of segregation.",
+          "zh": "这是孟德尔模型的第二部分，解释了生物体的二倍体性质，但它不是分离定律。",
+          "es": "Esta es la segunda parte del modelo de Mendel, que explica la naturaleza diploide de los organismos, pero no es la ley de la segregación.",
+          "fr": "C'est la deuxième partie du modèle de Mendel, qui explique la nature diploïde des organismes, mais ce n'est pas la loi de la ségrégation.",
+          "de": "Dies ist der zweite Teil von Mendels Modell, der die diploide Natur von Organismen erklärt, aber es ist nicht das Gesetz der Segregation.",
+          "ja": "これはメンデルのモデルの第2部であり、生物の二倍体の性質を説明していますが、分離の法則ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Alternative versions of genes (alleles) account for variations.",
+          "zh": "基因的替代版本（等位基因）导致了变异。",
+          "es": "Las versiones alternativas de los genes (alelos) explican las variaciones.",
+          "fr": "Les versions alternatives des gènes (allèles) expliquent les variations.",
+          "de": "Alternative Versionen von Genen (Allelen) sind für Variationen verantwortlich.",
+          "ja": "遺伝子の代替バージョン（対立遺伝子）が変異の原因です。"
+        },
+        "feedback": {
+          "en": "This is the first part of Mendel's model, but not the law of segregation.",
+          "zh": "这是孟德尔模型的第一部分，但不是分离定律。",
+          "es": "Esta es la primera parte del modelo de Mendel, pero no la ley de la segregación.",
+          "fr": "C'est la première partie du modèle de Mendel, mais pas la loi de la ségrégation.",
+          "de": "Dies ist der erste Teil von Mendels Modell, aber nicht das Gesetz der Segregation.",
+          "ja": "これはメンデルのモデルの最初の部分ですが、分離の法則ではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "The text explicitly states the law of segregation as 'the two alleles for a heritable character segregate (in other words, separate from each other) during gamete formation and end up in different gametes.'",
+      "zh": "文本明确地将分离定律陈述为“控制一个可遗传性状的两个等位基因在配子形成过程中彼此分离（换句话说，相互分开），并最终进入不同的配子中。”",
+      "es": "El texto establece explícitamente la ley de la segregación como 'los dos alelos de un carácter hereditario se segregan (en otras palabras, se separan el uno del otro) durante la formación de los gametos y terminan en diferentes gametos'.",
+      "fr": "Le texte énonce explicitement la loi de la ségrégation comme suit : « les deux allèles d'un caractère héréditaire se séparent (en d'autres termes, se séparent l'un de l'autre) lors de la formation des gamètes et se retrouvent dans des gamètes différents ».",
+      "de": "Der Text besagt ausdrücklich das Gesetz der Segregation als „die beiden Allele für ein vererbbares Merkmal trennen sich (mit anderen Worten, trennen sich voneinander) während der Gametenbildung und landen in verschiedenen Gameten.“",
+      "ja": "本文では、分離の法則を「遺伝可能な形質の2つの対立遺伝子は、配偶子形成中に（言い換えれば、互いに分離して）分離し、異なる配偶子に行き着く」と明確に述べています。"
+    }
+  }
+]

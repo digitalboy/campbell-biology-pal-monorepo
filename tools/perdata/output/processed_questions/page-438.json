@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 438,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement accurately distinguishes between an oncogene and a tumor-suppressor gene?",
+      "zh": "以下哪项陈述准确区分了致癌基因和肿瘤抑制基因？",
+      "es": "Cuál afirmación distingue con precisión entre un oncogén y un gen supresor de tumores?",
+      "fr": "Quelle affirmation distingue précisément un oncogène d'un gène suppresseur de tumeurs ?",
+      "de": "Welche Aussage unterscheidet präzise zwischen einem Onkogen und einem Tumorsuppressorgen?",
+      "ja": "次の記述のうち、がん遺伝子と腫瘍抑制遺伝子の違いを正確に区別しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Oncogenes typically promote cell division, while tumor-suppressor genes inhibit it.",
+          "zh": "致癌基因通常促进细胞分裂，而肿瘤抑制基因则抑制细胞分裂。",
+          "es": "Los oncogenes suelen promover la división celular, mientras que los genes supresores de tumores la inhiben.",
+          "fr": "Les oncogènes favorisent généralement la division cellulaire, tandis que les gènes suppresseurs de tumeurs l'inhibent.",
+          "de": "Onkogene fördern typischerweise die Zellteilung, während Tumorsuppressorgene diese hemmen.",
+          "ja": "がん遺伝子は通常、細胞分裂を促進しますが、腫瘍抑制遺伝子はそれを抑制します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Oncogenes are always the result of mutations, whereas tumor-suppressor genes are inherently non-mutated.",
+          "zh": "致癌基因总是突变的结果，而肿瘤抑制基因本质上是未突变的。",
+          "es": "Los oncogenes son siempre el resultado de mutaciones, mientras que los genes supresores de tumores son inherentemente no mutados.",
+          "fr": "Les oncogènes sont toujours le résultat de mutations, tandis que les gènes suppresseurs de tumeurs sont intrinsèquement non mutés.",
+          "de": "Onkogene sind immer das Ergebnis von Mutationen, während Tumorsuppressorgene von Natur aus nicht mutiert sind.",
+          "ja": "がん遺伝子は常に変異の結果ですが、腫瘍抑制遺伝子は本質的に変異していません。"
+        },
+        "feedback": {
+          "en": "Proto-oncogenes are normal genes; they become oncogenes when mutated. Tumor-suppressor genes can also be mutated, leading to loss of function.",
+          "zh": "原癌基因是正常基因；当它们发生突变时会变成致癌基因。肿瘤抑制基因也可能发生突变，导致功能丧失。",
+          "es": "Los protooncogenes son genes normales; se convierten en oncogenes cuando mutan. Los genes supresores de tumores también pueden mutar, lo que lleva a la pérdida de función.",
+          "fr": "Les proto-oncogènes sont des gènes normaux ; ils deviennent des oncogènes lorsqu'ils mutent. Les gènes suppresseurs de tumeurs peuvent également muter, entraînant une perte de fonction.",
+          "de": "Proto-Onkogene sind normale Gene; sie werden zu Onkogenen, wenn sie mutieren. Tumorsuppressorgene können ebenfalls mutieren, was zu Funktionsverlust führt.",
+          "ja": "原がん遺伝子は正常な遺伝子です。変異するとがん遺伝子になります。腫瘍抑制遺伝子も変異する可能性があり、機能喪失につながります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Oncogenes are primarily involved in DNA repair, while tumor-suppressor genes regulate cell death.",
+          "zh": "致癌基因主要参与DNA修复，而肿瘤抑制基因则调节细胞死亡。",
+          "es": "Los oncogenes están principalmente involucrados en la reparación del ADN, mientras que los genes supresores de tumores regulan la muerte celular.",
+          "fr": "Les oncogènes sont principalement impliqués dans la réparation de l'ADN, tandis que les gènes suppresseurs de tumeurs régulent la mort cellulaire.",
+          "de": "Onkogene sind hauptsächlich an der DNA-Reparatur beteiligt, während Tumorsuppressorgene den Zelltod regulieren.",
+          "ja": "がん遺伝子は主にDNA修復に関与し、腫瘍抑制遺伝子は細胞死を調節します。"
+        },
+        "feedback": {
+          "en": "Oncogenes stimulate cell growth and division. While p53 (a tumor suppressor) can induce apoptosis, its primary role is cell cycle arrest upon DNA damage.",
+          "zh": "致癌基因刺激细胞生长和分裂。虽然p53（一种肿瘤抑制因子）可以诱导细胞凋亡，但其主要作用是在DNA损伤时阻止细胞周期。",
+          "es": "Los oncogenes estimulan el crecimiento y la división celular. Si bien p53 (un supresor tumoral) puede inducir la apoptosis, su función principal es la detención del ciclo celular ante el daño del ADN.",
+          "fr": "Les oncogènes stimulent la croissance et la division cellulaire. Bien que p53 (un suppresseur de tumeurs) puisse induire l'apoptose, son rôle principal est l'arrêt du cycle cellulaire en cas de dommages à l'ADN.",
+          "de": "Onkogene stimulieren Zellwachstum und -teilung. Während p53 (ein Tumorsuppressor) Apoptose induzieren kann, besteht seine Hauptaufgabe darin, den Zellzyklus bei DNA-Schäden anzuhalten.",
+          "ja": "がん遺伝子は細胞の成長と分裂を刺激します。p53（腫瘍抑制因子）はアポトーシスを誘導できますが、その主な役割はDNA損傷時の細胞周期停止です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Oncogenes are activated by external growth factors, whereas tumor-suppressor genes are activated by internal DNA damage signals.",
+          "zh": "致癌基因由外部生长因子激活，而肿瘤抑制基因由内部DNA损伤信号激活。",
+          "es": "Los oncogenes son activados por factores de crecimiento externos, mientras que los genes supresores de tumores son activados por señales internas de daño del ADN.",
+          "fr": "Les oncogènes sont activés par des facteurs de croissance externes, tandis que les gènes suppresseurs de tumeurs sont activés par des signaux internes de dommages à l'ADN.",
+          "de": "Onkogene werden durch externe Wachstumsfaktoren aktiviert, während Tumorsuppressorgene durch interne DNA-Schadenssignale aktiviert werden.",
+          "ja": "がん遺伝子は外部の成長因子によって活性化されますが、腫瘍抑制遺伝子は内部のDNA損傷信号によって活性化されます。"
+        },
+        "feedback": {
+          "en": "While this describes common activation triggers, it's not the fundamental difference in their *function*. Oncogenes promote proliferation, tumor suppressors halt it.",
+          "zh": "虽然这描述了常见的激活触发因素，但它并非它们功能上的根本区别。致癌基因促进增殖，肿瘤抑制基因则阻止增殖。",
+          "es": "Si bien esto describe desencadenantes de activación comunes, no es la diferencia fundamental en su *función*. Los oncogenes promueven la proliferación, los supresores de tumores la detienen.",
+          "fr": "Bien que cela décrive les déclencheurs d'activation courants, ce n'est pas la différence fondamentale dans leur *fonction*. Les oncogènes favorisent la prolifération, les suppresseurs de tumeurs l'arrêtent.",
+          "de": "Obwohl dies gängige Aktivierungsauslöser beschreibt, ist es nicht der grundlegende Unterschied in ihrer *Funktion*. Onkogene fördern die Proliferation, Tumorsuppressoren hemmen sie.",
+          "ja": "これは一般的な活性化のきっかけを説明していますが、それらの『機能』における根本的な違いではありません。がん遺伝子は増殖を促進し、腫瘍抑制遺伝子はそれを停止させます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Oncogenes (derived from proto-oncogenes) drive cell proliferation and can lead to excessive cell division when activated. Tumor-suppressor genes, like p53, regulate the cell cycle, initiate DNA repair, or induce apoptosis, thereby inhibiting uncontrolled cell growth.",
+      "zh": "致癌基因（来源于原癌基因）驱动细胞增殖，激活后可能导致细胞过度分裂。肿瘤抑制基因（如p53）调节细胞周期，启动DNA修复，或诱导细胞凋亡，从而抑制细胞的无控制生长。",
+      "es": "Los oncogenes (derivados de protooncogenes) impulsan la proliferación celular y pueden conducir a una división celular excesiva cuando se activan. Los genes supresores de tumores, como p53, regulan el ciclo celular, inician la reparación del ADN o inducen la apoptosis, inhibiendo así el crecimiento celular incontrolado.",
+      "fr": "Les oncogènes (dérivés des proto-oncogènes) stimulent la prolifération cellulaire et peuvent entraîner une division cellulaire excessive lorsqu'ils sont activés. Les gènes suppresseurs de tumeurs, comme p53, régulent le cycle cellulaire, initient la réparation de l'ADN ou induisent l'apoptose, inhibant ainsi la croissance cellulaire incontrôlée.",
+      "de": "Onkogene (abgeleitet von Proto-Onkogenen) treiben die Zellproliferation an und können bei Aktivierung zu übermäßiger Zellteilung führen. Tumorsuppressorgene, wie p53, regulieren den Zellzyklus, initiieren die DNA-Reparatur oder induzieren die Apoptose und hemmen so unkontrolliertes Zellwachstum.",
+      "ja": "がん遺伝子（原がん遺伝子に由来）は細胞増殖を促進し、活性化すると過剰な細胞分裂を引き起こす可能性があります。p53のような腫瘍抑制遺伝子は、細胞周期を調節し、DNA修復を開始し、またはアポトーシスを誘導することで、制御されない細胞増殖を抑制します。"
+    }
+  },
+  {
+    "page_number": 438,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 18.23, which of the following genetic changes in a proto-oncogene specifically results in a hyperactive or degradation-resistant protein, rather than just an excess of normal protein?",
+      "zh": "根据图18.23，原癌基因的以下哪种遗传变化具体导致了过度活跃或抗降解的蛋白质，而不仅仅是正常蛋白质的过量产生？",
+      "es": "Según la Figura 18.23, ¿cuál de los siguientes cambios genéticos en un protooncogén resulta específicamente en una proteína hiperactiva o resistente a la degradación, en lugar de solo un exceso de proteína normal?",
+      "fr": "Selon la Figure 18.23, lequel des changements génétiques suivants dans un proto-oncogène entraîne spécifiquement une protéine hyperactive ou résistante à la dégradation, plutôt qu'un simple excès de protéine normale ?",
+      "de": "Gemäß Abbildung 18.23, welcher der folgenden genetischen Veränderungen in einem Proto-Onkogen führt spezifisch zu einem hyperaktiven oder abbauresistenten Protein, anstatt nur zu einem Überschuss an normalem Protein?",
+      "ja": "図18.23によると、原がん遺伝子における以下の遺伝的変化のうち、単に正常なタンパク質の過剰生産ではなく、特に過活動性または分解抵抗性タンパク質をもたらすものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Epigenetic changes causing inappropriate expression.",
+          "zh": "导致不当表达的表观遗传学变化。",
+          "es": "Cambios epigenéticos que causan una expresión inapropiada.",
+          "fr": "Changements épigénétiques entraînant une expression inappropriée.",
+          "de": "Epigenetische Veränderungen, die zu einer unangemessenen Expression führen.",
+          "ja": "不適切な発現を引き起こすエピジェネティックな変化。"
+        },
+        "feedback": {
+          "en": "Epigenetic changes (a) lead to excess *normal* protein due to inappropriate expression.",
+          "zh": "表观遗传学变化（a）导致由于不当表达而产生的过量『正常』蛋白质。",
+          "es": "Los cambios epigenéticos (a) conducen a un exceso de proteína *normal* debido a una expresión inapropiada.",
+          "fr": "Les changements épigénétiques (a) entraînent un excès de protéine *normale* en raison d'une expression inappropriée.",
+          "de": "Epigenetische Veränderungen (a) führen zu einem Überschuss an *normalem* Protein aufgrund unangemessener Expression.",
+          "ja": "エピジェネティックな変化（a）は、不適切な発現により『正常』なタンパク質が過剰に生成されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Translocation or transposition moving the gene under new controls.",
+          "zh": "易位或转座使基因置于新的调控之下。",
+          "es": "Translocación o transposición que mueve el gen bajo nuevos controles.",
+          "fr": "Translocation ou transposition déplaçant le gène sous de nouveaux contrôles.",
+          "de": "Translokation oder Transposition, die das Gen unter neue Kontrollen bringt.",
+          "ja": "遺伝子を新しい制御下に移す転座または転位。"
+        },
+        "feedback": {
+          "en": "Translocation or transposition (b) results in excess *normal* protein due to new regulatory controls.",
+          "zh": "易位或转座（b）由于新的调控机制导致过量『正常』蛋白质。",
+          "es": "La translocación o transposición (b) da como resultado un exceso de proteína *normal* debido a nuevos controles reguladores.",
+          "fr": "La translocation ou la transposition (b) entraîne un excès de protéine *normale* en raison de nouveaux contrôles réglementaires.",
+          "de": "Translokation oder Transposition (b) führt aufgrund neuer regulatorischer Kontrollen zu einem Überschuss an *normalem* Protein.",
+          "ja": "転座または転位（b）は、新しい制御により『正常』なタンパク質が過剰に生成されます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Gene amplification, creating multiple copies of the gene.",
+          "zh": "基因扩增，产生多个基因拷贝。",
+          "es": "Amplificación génica, creando múltiples copias del gen.",
+          "fr": "Amplification génique, créant de multiples copies du gène.",
+          "de": "Genamplifikation, die mehrere Kopien des Gens erzeugt.",
+          "ja": "遺伝子増幅により、遺伝子の複数のコピーが作成されます。"
+        },
+        "feedback": {
+          "en": "Gene amplification (c) leads to excess *normal* protein because more copies of the gene are present.",
+          "zh": "基因扩增（c）导致过量『正常』蛋白质，因为存在更多基因拷贝。",
+          "es": "La amplificación génica (c) conduce a un exceso de proteína *normal* porque hay más copias del gen presentes.",
+          "fr": "L'amplification génique (c) entraîne un excès de protéine *normale* car il y a plus de copies du gène présentes.",
+          "de": "Genamplifikation (c) führt zu einem Überschuss an *normalem* Protein, da mehr Genkopien vorhanden sind.",
+          "ja": "遺伝子増幅（c）は、遺伝子のコピー数が増えるため、『正常』なタンパク質が過剰に生成されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Point mutation within the gene itself.",
+          "zh": "基因内部的点突变。",
+          "es": "Mutación puntual dentro del propio gen.",
+          "fr": "Mutation ponctuelle à l'intérieur du gène lui-même.",
+          "de": "Punktmutation innerhalb des Gens selbst.",
+          "ja": "遺伝子内部の点突然変異。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "Figure 18.23d explicitly shows that a 'Point mutation within the gene' results in a 'Hyperactive or degradation-resistant protein.' Other mechanisms (a, b, c) lead to an 'excess' of *normal* growth-stimulating protein, not altered protein function.",
+      "zh": "图18.23d明确显示，『基因内部的点突变』导致『过度活跃或抗降解的蛋白质』。其他机制（a、b、c）则导致『正常』生长刺激蛋白质的『过量』，而不是蛋白质功能改变。",
+      "es": "La Figura 18.23d muestra explícitamente que una 'Mutación puntual dentro del gen' resulta en una 'Proteína hiperactiva o resistente a la degradación'. Otros mecanismos (a, b, c) conducen a un 'exceso' de proteína estimulante del crecimiento *normal*, no a una alteración de la función proteica.",
+      "fr": "La Figure 18.23d montre explicitement qu'une 'mutation ponctuelle à l'intérieur du gène' entraîne une 'protéine hyperactive ou résistante à la dégradation'. Les autres mécanismes (a, b, c) conduisent à un 'excès' de protéine stimulante de la croissance *normale*, et non à une altération de la fonction protéique.",
+      "de": "Abbildung 18.23d zeigt explizit, dass eine 'Punktmutation innerhalb des Gens' zu einem 'hyperaktiven oder abbauresistenten Protein' führt. Andere Mechanismen (a, b, c) führen zu einem 'Überschuss' an *normalem* wachstumsstimulierendem Protein, nicht zu einer veränderten Proteinfunktion.",
+      "ja": "図18.23dは、「遺伝子内の点変異」が「過活動性または分解抵抗性タンパク質」をもたらすことを明確に示しています。他のメカニズム（a、b、c）は、『正常』な成長刺激タンパク質の『過剰』を招き、タンパク質機能の変化ではありません。"
+    }
+  },
+  {
+    "page_number": 438,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A patient is diagnosed with cancer, and genetic analysis reveals a mutation in their *ras* gene, resulting in a hyperactive Ras protein. Based on the provided text, what is the most likely consequence of this specific mutation on cell signaling?",
+      "zh": "一名患者被诊断患有癌症，基因分析显示其『ras』基因发生突变，导致Ras蛋白过度活跃。根据所提供的文本，这种特定突变对细胞信号传导最可能产生什么影响？",
+      "es": "Un paciente es diagnosticado con cáncer, y el análisis genético revela una mutación en su gen *ras*, resultando en una proteína Ras hiperactiva. Según el texto proporcionado, ¿cuál es la consecuencia más probable de esta mutación específica en la señalización celular?",
+      "fr": "Un patient est diagnostiqué avec un cancer, et l'analyse génétique révèle une mutation dans son gène *ras*, entraînant une protéine Ras hyperactive. Selon le texte fourni, quelle est la conséquence la plus probable de cette mutation spécifique sur la signalisation cellulaire ?",
+      "de": "Bei einem Patienten wird Krebs diagnostiziert, und die genetische Analyse zeigt eine Mutation im *ras*-Gen, die zu einem hyperaktiven Ras-Protein führt. Basierend auf dem bereitgestellten Text, welche ist die wahrscheinlichste Konsequenz dieser spezifischen Mutation auf die Zellsignalisierung?",
+      "ja": "患者ががんと診断され、遺伝子解析によりras遺伝子に変異があり、過活動性のRasタンパク質が生成されていることが判明しました。提供されたテキストに基づくと、この特定の変異が細胞シグナル伝達に及ぼす最も可能性の高い影響は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The cell will produce an excess of cell cycle-inhibiting proteins.",
+          "zh": "细胞将产生过量的细胞周期抑制蛋白。",
+          "es": "La célula producirá un exceso de proteínas inhibidoras del ciclo celular.",
+          "fr": "La cellule produira un excès de protéines inhibitrices du cycle cellulaire.",
+          "de": "Die Zelle wird einen Überschuss an Zellzyklus-hemmenden Proteinen produzieren.",
+          "ja": "細胞は細胞周期阻害タンパク質を過剰に生成します。"
+        },
+        "feedback": {
+          "en": "This is the function of tumor-suppressor genes like p53, not the consequence of a hyperactive Ras protein.",
+          "zh": "这是肿瘤抑制基因（如p53）的功能，而非Ras蛋白过度活跃的后果。",
+          "es": "Esta es la función de los genes supresores de tumores como p53, no la consecuencia de una proteína Ras hiperactiva.",
+          "fr": "C'est la fonction des gènes suppresseurs de tumeurs comme p53, pas la conséquence d'une protéine Ras hyperactive.",
+          "de": "Dies ist die Funktion von Tumorsuppressorgenen wie p53, nicht die Folge eines hyperaktiven Ras-Proteins.",
+          "ja": "これはp53のような腫瘍抑制遺伝子の機能であり、過活動性のRasタンパク質の帰結ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The cells will undergo programmed cell death (apoptosis) at an increased rate.",
+          "zh": "细胞将以更快的速度进行程序性细胞死亡（细胞凋亡）。",
+          "es": "Las células se someterán a muerte celular programada (apoptosis) a una tasa aumentada.",
+          "fr": "Les cellules subiront une mort cellulaire programmée (apoptose) à un rythme accru.",
+          "de": "Die Zellen werden in erhöhtem Maße programmierten Zelltod (Apoptose) durchlaufen.",
+          "ja": "細胞はプログラムされた細胞死（アポトーシス）を増加した速度で経験します。"
+        },
+        "feedback": {
+          "en": "Hyperactive Ras leads to uncontrolled cell division, not increased apoptosis.",
+          "zh": "Ras过度活跃导致细胞无限制分裂，而非细胞凋亡增加。",
+          "es": "La Ras hiperactiva conduce a la división celular incontrolada, no al aumento de la apoptosis.",
+          "fr": "La Ras hyperactive entraîne une division cellulaire incontrôlée, et non une augmentation de l'apoptose.",
+          "de": "Hyperaktives Ras führt zu unkontrollierter Zellteilung, nicht zu erhöhter Apoptose.",
+          "ja": "過活動性のRasは、アポトーシス増加ではなく、制御不能な細胞分裂を引き起こします。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The kinase cascade associated with cell growth will be continuously triggered, even in the absence of growth factors.",
+          "zh": "与细胞生长相关的激酶级联反应将持续被触发，即使在没有生长因子的情况下。",
+          "es": "La cascada de quinasas asociada con el crecimiento celular se activará continuamente, incluso en ausencia de factores de crecimiento.",
+          "fr": "La cascade de kinases associée à la croissance cellulaire sera déclenchée en continu, même en l'absence de facteurs de croissance.",
+          "de": "Die mit dem Zellwachstum verbundene Kinase-Kaskade wird kontinuierlich ausgelöst, selbst in Abwesenheit von Wachstumsfaktoren.",
+          "ja": "細胞増殖に関連するキナーゼカスケードは、成長因子の非存在下でも継続的に活性化されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Chromatin will become more condensed, leading to repression of gene expression for cell cycle proteins.",
+          "zh": "染色质将变得更加浓缩，导致细胞周期蛋白基因表达的抑制。",
+          "es": "La cromatina se condensará más, lo que llevará a la represión de la expresión génica para las proteínas del ciclo celular.",
+          "fr": "La chromatine deviendra plus condensée, entraînant la répression de l'expression génique pour les protéines du cycle cellulaire.",
+          "de": "Chromatin wird stärker kondensiert, was zur Repression der Genexpression für Zellzyklusproteine führt.",
+          "ja": "クロマチンはより凝縮し、細胞周期タンパク質の遺伝子発現抑制につながります。"
+        },
+        "feedback": {
+          "en": "This describes epigenetic regulation, which is a different mechanism for oncogene activation (Figure 18.23a), not a direct effect of a mutated Ras protein.",
+          "zh": "这描述的是表观遗传调控，这是致癌基因激活的一种不同机制（图18.23a），而不是Ras蛋白突变的直接影响。",
+          "es": "Esto describe la regulación epigenética, que es un mecanismo diferente para la activación de oncogenes (Figura 18.23a), no un efecto directo de una proteína Ras mutada.",
+          "fr": "Cela décrit la régulation épigénétique, qui est un mécanisme différent d'activation des oncogènes (Figure 18.23a), et non un effet direct d'une protéine Ras mutée.",
+          "de": "Dies beschreibt die epigenetische Regulation, die ein anderer Mechanismus zur Onkogenaktivierung (Abbildung 18.23a) ist und keine direkte Auswirkung eines mutierten Ras-Proteins.",
+          "ja": "これはエピジェネティックな調節を説明しており、がん遺伝子活性化の別のメカニズム（図18.23a）であり、変異したRasタンパク質の直接的な影響ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that 'certain mutations in the *ras* gene can lead to production of a hyperactive Ras protein that triggers the kinase cascade even in the absence of growth factor, resulting in increased cell division.' This directly leads to uncontrolled cell proliferation.",
+      "zh": "文本指出，『『ras』基因的某些突变可能导致产生过度活跃的Ras蛋白，即使在没有生长因子的情况下也能触发激酶级联反应，从而导致细胞分裂增加。』这直接导致细胞不受控制地增殖。",
+      "es": "El texto establece que 'ciertas mutaciones en el gen *ras* pueden llevar a la producción de una proteína Ras hiperactiva que desencadena la cascada de quinasas incluso en ausencia de factor de crecimiento, lo que resulta en un aumento de la división celular'. Esto conduce directamente a la proliferación celular incontrolada.",
+      "fr": "Le texte indique que « certaines mutations dans le gène *ras* peuvent entraîner la production d'une protéine Ras hyperactive qui déclenche la cascade de kinases même en l'absence de facteur de croissance, entraînant une division cellulaire accrue ». Cela conduit directement à une prolifération cellulaire incontrôlée.",
+      "de": "Der Text besagt, dass „bestimmte Mutationen im *ras*-Gen zur Produktion eines hyperaktiven Ras-Proteins führen können, das die Kinase-Kaskade auch in Abwesenheit von Wachstumsfaktor auslöst, was zu erhöhter Zellteilung führt.“ Dies führt direkt zu unkontrollierter Zellproliferation.",
+      "ja": "テキストには、「ras遺伝子の特定の変異は、成長因子の非存在下でもキナーゼカスケードを誘発する過活動性のRasタンパク質の産生につながり、その結果、細胞分裂が増加する可能性がある」と記載されています。これは直接的に制御不能な細胞増殖を引き起こします。"
+    }
+  },
+  {
+    "page_number": 438,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The *p53* gene is a critical tumor-suppressor gene. Given its function as a transcription factor promoting cell cycle-inhibiting proteins, what is the most significant consequence if a cell has a mutation that 'knocks out' its *p53* gene?",
+      "zh": "『p53』基因是一个关键的肿瘤抑制基因。鉴于其作为促进细胞周期抑制蛋白的转录因子的功能，如果一个细胞的『p53』基因发生『敲除』突变，最显著的后果是什么？",
+      "es": "El gen *p53* es un gen supresor de tumores crítico. Dada su función como factor de transcripción que promueve proteínas inhibidoras del ciclo celular, ¿cuál es la consecuencia más significativa si una célula tiene una mutación que 'elimina' su gen *p53*?",
+      "fr": "Le gène *p53* est un gène suppresseur de tumeurs essentiel. Compte tenu de sa fonction de facteur de transcription favorisant les protéines inhibitrices du cycle cellulaire, quelle est la conséquence la plus significative si une cellule présente une mutation qui 'inactive' son gène *p53* ?",
+      "de": "Das *p53*-Gen ist ein kritisches Tumorsuppressorgen. Angesichts seiner Funktion als Transkriptionsfaktor, der zellzyklushemmende Proteine fördert, was ist die bedeutendste Konsequenz, wenn eine Zelle eine Mutation aufweist, die ihr *p53*-Gen 'ausschaltet'?",
+      "ja": "p53遺伝子は重要な腫瘍抑制遺伝子です。細胞周期を阻害するタンパク質を促進する転写因子としての機能を持つことを考えると、細胞がp53遺伝子を「ノックアウト」する変異を持っている場合、最も重要な結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The cell will immediately undergo apoptosis, preventing tumor formation.",
+          "zh": "细胞将立即发生凋亡，阻止肿瘤形成。",
+          "es": "La célula sufrirá inmediatamente apoptosis, previniendo la formación de tumores.",
+          "fr": "La cellule subira immédiatement l'apoptose, empêchant la formation de tumeurs.",
+          "de": "Die Zelle wird sofort Apoptose durchlaufen, wodurch die Tumorbildung verhindert wird.",
+          "ja": "細胞は直ちにアポトーシスを起こし、腫瘍の形成を防ぎます。"
+        },
+        "feedback": {
+          "en": "The loss of p53 *prevents* the normal response to damage, including potential apoptosis or cell cycle arrest, leading to uncontrolled growth.",
+          "zh": "p53的缺失『阻止』了对损伤的正常反应，包括可能的细胞凋亡或细胞周期停滞，从而导致不受控制的生长。",
+          "es": "La pérdida de p53 *impide* la respuesta normal al daño, incluida la apoptosis potencial o la detención del ciclo celular, lo que lleva a un crecimiento incontrolado.",
+          "fr": "La perte de p53 *empêche* la réponse normale aux dommages, y compris l'apoptose potentielle ou l'arrêt du cycle cellulaire, entraînant une croissance incontrôlée.",
+          "de": "Der Verlust von p53 *verhindert* die normale Reaktion auf Schäden, einschließlich potenzieller Apoptose oder Zellzyklusarrest, was zu unkontrolliertem Wachstum führt.",
+          "ja": "p53の喪失は、損傷に対する正常な応答（アポトーシスや細胞周期停止など）を『妨げ』、制御不能な増殖につながります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The cell will continue its cell cycle despite DNA damage, accumulating further mutations and potentially forming a tumor.",
+          "zh": "即使DNA受损，细胞仍将继续其细胞周期，积累更多突变并可能形成肿瘤。",
+          "es": "La célula continuará su ciclo celular a pesar del daño del ADN, acumulando más mutaciones y potencialmente formando un tumor.",
+          "fr": "La cellule poursuivra son cycle cellulaire malgré les dommages à l'ADN, accumulant d'autres mutations et pouvant potentiellement former une tumeur.",
+          "de": "Die Zelle wird ihren Zellzyklus trotz DNA-Schäden fortsetzen, weitere Mutationen ansammeln und potenziell einen Tumor bilden.",
+          "ja": "細胞はDNA損傷にもかかわらず細胞周期を継続し、さらなる変異を蓄積し、腫瘍を形成する可能性があります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The cell will become hyper-responsive to external growth factors, speeding up its division rate.",
+          "zh": "细胞将对外部生长因子变得高度敏感，加速其分裂速度。",
+          "es": "La célula se volverá hiperreactiva a los factores de crecimiento externos, acelerando su tasa de división.",
+          "fr": "La cellule deviendra hyper-réactive aux facteurs de croissance externes, accélérant son taux de division.",
+          "de": "Die Zelle wird überempfindlich auf externe Wachstumsfaktoren reagieren und ihre Teilungsrate beschleunigen.",
+          "ja": "細胞は外部の成長因子に対して過敏になり、分裂速度が速まります。"
+        },
+        "feedback": {
+          "en": "P53 primarily responds to internal signals like DNA damage, not external growth factors. Hyper-responsiveness to growth factors is more characteristic of oncogene activation.",
+          "zh": "p53主要响应DNA损伤等内部信号，而不是外部生长因子。对生长因子的高度敏感性更像是致癌基因激活的特征。",
+          "es": "P53 responde principalmente a señales internas como el daño del ADN, no a factores de crecimiento externos. La hiperrespuesta a los factores de crecimiento es más característica de la activación de oncogenes.",
+          "fr": "La P53 répond principalement aux signaux internes comme les dommages à l'ADN, et non aux facteurs de croissance externes. L'hyperréactivité aux facteurs de croissance est plus caractéristique de l'activation des oncogènes.",
+          "de": "P53 reagiert hauptsächlich auf interne Signale wie DNA-Schäden, nicht auf externe Wachstumsfaktoren. Eine Überempfindlichkeit gegenüber Wachstumsfaktoren ist eher charakteristisch für die Onkogenaktivierung.",
+          "ja": "P53は主にDNA損傷のような内部信号に応答し、外部の成長因子ではありません。成長因子への過敏性は、がん遺伝子の活性化に特徴的です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The cell's ability to repair DNA will be significantly enhanced, preventing any further mutations.",
+          "zh": "细胞修复DNA的能力将显著增强，防止任何进一步的突变。",
+          "es": "La capacidad de la célula para reparar el ADN se mejorará significativamente, previniendo cualquier mutación adicional.",
+          "fr": "La capacité de la cellule à réparer l'ADN sera considérablement améliorée, empêchant toute mutation ultérieure.",
+          "de": "Die Fähigkeit der Zelle, DNA zu reparieren, wird signifikant verbessert, wodurch weitere Mutationen verhindert werden.",
+          "ja": "細胞のDNA修復能力が大幅に向上し、それ以上の変異を防ぎます。"
+        },
+        "feedback": {
+          "en": "While p53 plays a role in initiating cell cycle arrest *for* DNA repair, its knockout means this critical checkpoint is lost, leading to *accumulation* of mutations, not enhanced repair.",
+          "zh": "虽然p53在启动细胞周期停滞『以进行』DNA修复中发挥作用，但它的敲除意味着这个关键检查点丧失，导致突变的『积累』，而不是修复能力的增强。",
+          "es": "Si bien p53 juega un papel en el inicio de la detención del ciclo celular *para* la reparación del ADN, su eliminación significa que este punto de control crítico se pierde, lo que lleva a la *acumulación* de mutaciones, no a una reparación mejorada.",
+          "fr": "Bien que p53 joue un rôle dans l'initiation de l'arrêt du cycle cellulaire *pour* la réparation de l'ADN, son inactivation signifie que ce point de contrôle critique est perdu, entraînant une *accumulation* de mutations, et non une amélioration de la réparation.",
+          "de": "Während p53 eine Rolle bei der Initiierung des Zellzyklusarrests *für* die DNA-Reparatur spielt, bedeutet sein Ausschalten, dass dieser kritische Checkpoint verloren geht, was zur *Ansammlung* von Mutationen und nicht zur Verbesserung der Reparatur führt.",
+          "ja": "p53はDNA修復のために細胞周期停止を開始する役割を果たしますが、そのノックアウトは、この重要なチェックポイントが失われ、修復能力の向上ではなく、変異の『蓄積』につながることを意味します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that the p53 protein 'promotes the synthesis of cell cycle-inhibiting proteins' and that 'operation of this signaling pathway blocks the cell cycle until the damage has been repaired.' Therefore, a mutation that 'knocks out' the *p53* gene would prevent this cell cycle arrest, allowing damaged cells to proliferate and accumulate further mutations, thus contributing to tumor formation.",
+      "zh": "文本解释说，p53蛋白『促进细胞周期抑制蛋白的合成』，并且『该信号通路的作用是阻止细胞周期，直到损伤被修复』。因此，『敲除』p53基因的突变将阻止这种细胞周期停滞，允许受损细胞增殖并积累更多突变，从而促进肿瘤形成。",
+      "es": "El texto explica que la proteína p53 'promueve la síntesis de proteínas inhibidoras del ciclo celular' y que 'la operación de esta vía de señalización bloquea el ciclo celular hasta que el daño ha sido reparado'. Por lo tanto, una mutación que 'elimina' el gen *p53* evitaría esta detención del ciclo celular, permitiendo que las células dañadas proliferen y acumulen más mutaciones, contribuyendo así a la formación de tumores.",
+      "fr": "Le texte explique que la protéine p53 « favorise la synthèse de protéines inhibitrices du cycle cellulaire » et que « le fonctionnement de cette voie de signalisation bloque le cycle cellulaire jusqu'à ce que les dommages aient été réparés ». Par conséquent, une mutation qui « inactive » le gène *p53* empêcherait cet arrêt du cycle cellulaire, permettant aux cellules endommagées de proliférer et d'accumuler de nouvelles mutations, contribuant ainsi à la formation de tumeurs.",
+      "de": "Der Text erklärt, dass das p53-Protein „die Synthese von Zellzyklus-hemmenden Proteinen fördert“ und dass „die Aktivität dieses Signalwegs den Zellzyklus blockiert, bis der Schaden repariert ist.“ Daher würde eine Mutation, die das *p53*-Gen „ausschaltet“, diesen Zellzyklus-Arrest verhindern, wodurch geschädigte Zellen proliferieren und weitere Mutationen ansammeln können, was zur Tumorbildung beiträgt.",
+      "ja": "テキストでは、p53タンパク質が「細胞周期阻害タンパク質の合成を促進する」と説明されており、「このシグナル経路の作用は、損傷が修復されるまで細胞周期をブロックする」とされています。したがって、p53遺伝子を「ノックアウト」する変異は、この細胞周期の停止を妨げ、損傷した細胞が増殖し、さらなる変異を蓄積することを可能にし、それによって腫瘍形成に寄与します。"
+    }
+  }
+]

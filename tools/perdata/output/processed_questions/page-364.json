@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 364,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 16.2 and the accompanying text regarding Griffith's experiment, which finding most directly supports the conclusion that a heritable substance from dead S cells transformed living R cells?",
+      "zh": "根据图16.2和关于格里菲斯实验的文字描述，哪个发现最直接地支持了死S细胞中可遗传物质使活R细胞发生转化的结论？",
+      "es": "Según la Figura 16.2 y el texto adjunto sobre el experimento de Griffith, ¿qué hallazgo apoya más directamente la conclusión de que una sustancia heredable de las células S muertas transformó las células R vivas?",
+      "fr": "D'après la Figure 16.2 et le texte accompagnant l'expérience de Griffith, quelle découverte soutient le plus directement la conclusion qu'une substance héréditaire des cellules S mortes a transformé les cellules R vivantes ?",
+      "de": "Basierend auf Abbildung 16.2 und dem begleitenden Text zum Griffith-Experiment, welcher Befund stützt am direktesten die Schlussfolgerung, dass eine vererbbare Substanz aus den toten S-Zellen lebende R-Zellen transformiert hat?",
+      "ja": "図16.2とグリフィス実験に関する付属のテキストに基づいて、死んだS細胞からの遺伝性物質が生きたR細胞を形質転換したという結論を最も直接的に支持する発見はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Mice injected with living S cells died.",
+          "zh": "注射活S细胞的小鼠死亡。",
+          "es": "Los ratones inyectados con células S vivas murieron.",
+          "fr": "Les souris injectées avec des cellules S vivantes sont mortes.",
+          "de": "Mäuse, denen lebende S-Zellen injiziert wurden, starben.",
+          "ja": "生きたS細胞を注射されたマウスは死亡した。"
+        },
+        "feedback": {
+          "en": "This is an expected result for pathogenic S cells and serves as a control, but it does not demonstrate transformation from dead S cells.",
+          "zh": "这是病原性S细胞的预期结果，作为对照，但它并未证明死S细胞的转化作用。",
+          "es": "Este es un resultado esperado para las células S patógenas y sirve como control, pero no demuestra la transformación a partir de células S muertas.",
+          "fr": "Ceci est un résultat attendu pour les cellules S pathogènes et sert de contrôle, mais cela ne démontre pas la transformation à partir de cellules S mortes.",
+          "de": "Dies ist ein erwartetes Ergebnis für pathogene S-Zellen und dient als Kontrolle, beweist aber keine Transformation durch tote S-Zellen.",
+          "ja": "これは病原性S細胞の予想される結果であり、対照実験として機能しますが、死んだS細胞からの形質転換を示すものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Mice injected with living R cells survived.",
+          "zh": "注射活R细胞的小鼠存活。",
+          "es": "Los ratones inyectados con células R vivas sobrevivieron.",
+          "fr": "Les souris injectées avec des cellules R vivantes ont survécu.",
+          "de": "Mäuse, denen lebende R-Zellen injiziert wurden, überlebten.",
+          "ja": "生きたR細胞を注射されたマウスは生存した。"
+        },
+        "feedback": {
+          "en": "This is an expected result for nonpathogenic R cells and serves as a control, but it does not demonstrate transformation.",
+          "zh": "这是非病原性R细胞的预期结果，作为对照，但它并未证明转化作用。",
+          "es": "Este es un resultado esperado para las células R no patógenas y sirve como control, pero no demuestra la transformación.",
+          "fr": "Ceci est un résultat attendu pour les cellules R non pathogènes et sert de contrôle, mais cela ne démontre pas la transformation.",
+          "de": "Dies ist ein erwartetes Ergebnis für nicht-pathogene R-Zellen und dient als Kontrolle, beweist aber keine Transformation.",
+          "ja": "これは非病原性R細胞の予想される結果であり、対照実験として機能しますが、形質転換を示すものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Mice injected with heat-killed S cells survived.",
+          "zh": "注射热灭活S细胞的小鼠存活。",
+          "es": "Los ratones inyectados con células S muertas por calor sobrevivieron.",
+          "fr": "Les souris injectées avec des cellules S tuées par la chaleur ont survécu.",
+          "de": "Mäuse, denen hitzeinaktivierte S-Zellen injiziert wurden, überlebten.",
+          "ja": "加熱殺菌されたS細胞を注射されたマウスは生存した。"
+        },
+        "feedback": {
+          "en": "This is an expected result as heat-killed S cells are nonpathogenic on their own, but it does not show transformation.",
+          "zh": "这是预期结果，因为热灭活S细胞本身无致病性，但它并未显示转化作用。",
+          "es": "Este es un resultado esperado ya que las células S muertas por calor no son patógenas por sí solas, pero no muestra transformación.",
+          "fr": "Ceci est un résultat attendu car les cellules S tuées par la chaleur ne sont pas pathogènes seules, mais cela ne montre pas de transformation.",
+          "de": "Dies ist ein erwartetes Ergebnis, da hitzeinaktivierte S-Zellen für sich genommen nicht-pathogen sind, aber es zeigt keine Transformation.",
+          "ja": "これは、加熱殺菌されたS細胞自体は病原性がないため、予想される結果ですが、形質転換を示すものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Mice injected with a mixture of heat-killed S cells and living R cells died, and living S cells were recovered.",
+          "zh": "注射热灭活S细胞和活R细胞混合物的小鼠死亡，并从中回收了活S细胞。",
+          "es": "Los ratones inyectados con una mezcla de células S muertas por calor y células R vivas murieron, y se recuperaron células S vivas.",
+          "fr": "Les souris injectées avec un mélange de cellules S tuées par la chaleur et de cellules R vivantes sont mortes, et des cellules S vivantes ont été récupérées.",
+          "de": "Mäuse, denen eine Mischung aus hitzeinaktivierten S-Zellen und lebenden R-Zellen injiziert wurde, starben, und lebende S-Zellen wurden zurückgewonnen.",
+          "ja": "加熱殺菌されたS細胞と生きたR細胞の混合物を注射されたマウスが死亡し、生きたS細胞が回収された。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "The key finding that demonstrated transformation was when the nonpathogenic living R cells acquired the ability to form capsules and become pathogenic, leading to the mouse's death, after being exposed to genetic material from the heat-killed pathogenic S cells. The recovery of living S cells from the dead mouse confirmed this transformation.",
+      "zh": "证明转化作用的关键发现是：非致病性的活R细胞在接触到热灭活的致病性S细胞的遗传物质后，获得了形成荚膜并致病的能力，导致小鼠死亡。从死亡小鼠体内回收活S细胞进一步证实了这种转化。",
+      "es": "El hallazgo clave que demostró la transformación fue cuando las células R vivas no patógenas adquirieron la capacidad de formar cápsulas y volverse patógenas, lo que llevó a la muerte del ratón, después de haber sido expuestas al material genético de las células S patógenas muertas por calor. La recuperación de células S vivas del ratón muerto confirmó esta transformación.",
+      "fr": "La découverte clé qui a démontré la transformation est que les cellules R vivantes non pathogènes ont acquis la capacité de former des capsules et de devenir pathogènes, entraînant la mort de la souris, après avoir été exposées au matériel génétique des cellules S pathogènes tuées par la chaleur. La récupération de cellules S vivantes de la souris morte a confirmé cette transformation.",
+      "de": "Der Schlüsselfund, der die Transformation demonstrierte, war, als die nicht-pathogenen lebenden R-Zellen die Fähigkeit erwarben, Kapseln zu bilden und pathogen zu werden, was zum Tod der Maus führte, nachdem sie genetischem Material aus den hitzeinaktivierten pathogenen S-Zellen ausgesetzt waren. Die Gewinnung lebender S-Zellen aus der toten Maus bestätigte diese Transformation.",
+      "ja": "形質転換を示した重要な発見は、非病原性の生きたR細胞が、加熱殺菌された病原性S細胞の遺伝物質に曝露された後、莢膜を形成し、病原性となる能力を獲得し、マウスの死につながったことです。死んだマウスから生きたS細胞が回収されたことで、この形質転換が確認されました。"
+    }
+  },
+  {
+    "page_number": 364,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, what is the definition of 'transformation' as observed in Griffith's experiment and later defined?",
+      "zh": "根据文中描述，格里菲斯实验中观察到并随后定义的“转化”（transformation）是指什么？",
+      "es": "Según el texto, ¿cuál es la definición de 'transformación' tal como se observó en el experimento de Griffith y se definió posteriormente?",
+      "fr": "Selon le texte, quelle est la définition de la «transformation» telle qu'observée dans l'expérience de Griffith et définie ultérieurement?",
+      "de": "Laut Text, was ist die Definition von 'Transformation', wie sie im Griffith-Experiment beobachtet und später definiert wurde?",
+      "ja": "テキストによると、グリフィスの実験で観察され、後に定義された「形質転換」とは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A change in genotype and phenotype due to the assimilation of external DNA by a cell.",
+          "zh": "由于细胞同化外部DNA而引起的基因型和表型变化。",
+          "es": "Un cambio en el genotipo y fenotipo debido a la asimilación de ADN externo por una célula.",
+          "fr": "Un changement de génotype et de phénotype dû à l'assimilation d'ADN externe par une cellule.",
+          "de": "Eine Veränderung von Genotyp und Phänotyp aufgrund der Assimilation externer DNA durch eine Zelle.",
+          "ja": "細胞が外部DNAを取り込むことによる遺伝子型と表現型の変化。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The process by which a pathogenic bacterium becomes nonpathogenic.",
+          "zh": "病原菌变为非病原菌的过程。",
+          "es": "El proceso por el cual una bacteria patógena se vuelve no patógena.",
+          "fr": "Le processus par lequel une bactérie pathogène devient non pathogène.",
+          "de": "Der Prozess, durch den ein pathogenes Bakterium nicht-pathogen wird.",
+          "ja": "病原性細菌が非病原性になる過程。"
+        },
+        "feedback": {
+          "en": "Transformation in Griffith's experiment primarily describes the acquisition of pathogenicity by a nonpathogenic strain, not the other way around.",
+          "zh": "格里菲斯实验中的转化主要描述的是非致病菌株获得致病性的过程，而非相反。",
+          "es": "La transformación en el experimento de Griffith describe principalmente la adquisición de patogenicidad por una cepa no patógena, no al revés.",
+          "fr": "La transformation dans l'expérience de Griffith décrit principalement l'acquisition de pathogénicité par une souche non pathogène, et non l'inverse.",
+          "de": "Die Transformation im Griffith-Experiment beschreibt primär die Erlangung von Pathogenität durch einen nicht-pathogenen Stamm, nicht umgekehrt.",
+          "ja": "グリフィスの実験における形質転換は、主に非病原性株が病原性を獲得することを指し、その逆ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The conversion of a non-living substance into a living organism.",
+          "zh": "非生命物质转化为生命有机体。",
+          "es": "La conversión de una sustancia no viva en un organismo vivo.",
+          "fr": "La conversion d'une substance non vivante en un organisme vivant.",
+          "de": "Die Umwandlung einer nicht-lebenden Substanz in einen lebenden Organismus.",
+          "ja": "非生物的物質が生物に変換されること。"
+        },
+        "feedback": {
+          "en": "This definition is too broad and does not specifically refer to the biological process of transformation as described in the text.",
+          "zh": "这个定义过于宽泛，并未特指文中描述的生物转化过程。",
+          "es": "Esta definición es demasiado amplia y no se refiere específicamente al proceso biológico de transformación descrito en el texto.",
+          "fr": "Cette définition est trop large et ne se réfère pas spécifiquement au processus biologique de transformation tel que décrit dans le texte.",
+          "de": "Diese Definition ist zu weit gefasst und bezieht sich nicht spezifisch auf den im Text beschriebenen biologischen Transformationsprozess.",
+          "ja": "この定義は広範すぎ、テキストで説明されている生物学的形質転換のプロセスを具体的に指していません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The ability of a virus to inject its genetic material into a host cell.",
+          "zh": "病毒将其遗传物质注入宿主细胞的能力。",
+          "es": "La capacidad de un virus para inyectar su material genético en una célula huésped.",
+          "fr": "La capacité d'un virus à injecter son matériel génétique dans une cellule hôte.",
+          "de": "Die Fähigkeit eines Virus, sein genetisches Material in eine Wirtszelle zu injizieren.",
+          "ja": "ウイルスが遺伝物質を宿主細胞に注入する能力。"
+        },
+        "feedback": {
+          "en": "This describes viral infection, not bacterial transformation.",
+          "zh": "这描述的是病毒感染，而非细菌转化。",
+          "es": "Esto describe la infección viral, no la transformación bacteriana.",
+          "fr": "Ceci décrit l'infection virale, pas la transformation bactérienne.",
+          "de": "Dies beschreibt eine Virusinfektion, nicht die bakterielle Transformation.",
+          "ja": "これはウイルス感染であり、細菌の形質転換ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explicitly defines transformation as 'a change in genotype and phenotype due to the assimilation of external DNA by a cell.'",
+      "zh": "文中明确将转化定义为“由于细胞同化外部DNA而引起的基因型和表型变化”。",
+      "es": "El texto define explícitamente la transformación como 'un cambio en el genotipo y fenotipo debido a la asimilación de ADN externo por una célula'.",
+      "fr": "Le texte définit explicitement la transformation comme « un changement de génotype et de phénotype dû à l'assimilation d'ADN externe par une cellule ».",
+      "de": "Der Text definiert Transformation explizit als 'eine Veränderung von Genotyp und Phänotyp aufgrund der Assimilation externer DNA durch eine Zelle'.",
+      "ja": "テキストでは、形質転換を「細胞による外部DNAの同化に起因する遺伝子型と表現型の変化」と明確に定義しています。"
+    }
+  },
+  {
+    "page_number": 364,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Before the 1940s, why were proteins generally considered better candidates for genetic material than nucleic acids?",
+      "zh": "在20世纪40年代之前，为什么蛋白质通常被认为是比核酸更好的遗传物质候选者？",
+      "es": "Antes de la década de 1940, ¿por qué las proteínas se consideraban generalmente mejores candidatas para material genético que los ácidos nucleicos?",
+      "fr": "Avant les années 1940, pourquoi les protéines étaient-elles généralement considérées comme de meilleurs candidats pour le matériel génétique que les acides nucléiques?",
+      "de": "Warum galten Proteine vor den 1940er Jahren im Allgemeinen als bessere Kandidaten für genetisches Material als Nukleinsäuren?",
+      "ja": "1940年代以前、なぜタンパク質は一般的に核酸よりも優れた遺伝物質の候補と考えられていたのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Proteins were known to be much more abundant in cells than nucleic acids.",
+          "zh": "已知蛋白质在细胞中的含量远高于核酸。",
+          "es": "Se sabía que las proteínas eran mucho más abundantes en las células que los ácidos nucleicos.",
+          "fr": "Les protéines étaient connues pour être beaucoup plus abondantes dans les cellules que les acides nucléiques.",
+          "de": "Es war bekannt, dass Proteine in Zellen wesentlich häufiger vorkamen als Nukleinsäuren.",
+          "ja": "タンパク質は核酸よりも細胞内に多く存在することが知られていたから。"
+        },
+        "feedback": {
+          "en": "While proteins are abundant, the text does not cite abundance as the primary reason for their preference as genetic material.",
+          "zh": "虽然蛋白质含量丰富，但文中并未提及含量是其被优先考虑为遗传物质的主要原因。",
+          "es": "Aunque las proteínas son abundantes, el texto no cita la abundancia como la razón principal de su preferencia como material genético.",
+          "fr": "Bien que les protéines soient abondantes, le texte ne cite pas l'abondance comme raison principale de leur préférence en tant que matériel génétique.",
+          "de": "Obwohl Proteine reichlich vorhanden sind, wird im Text die Häufigkeit nicht als Hauptgrund für ihre Bevorzugung als genetisches Material genannt.",
+          "ja": "タンパク質は豊富に存在しますが、テキストではその豊富さが遺伝物質としての選好の主な理由として挙げられていません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Nucleic acids were thought to be too uniform in their physical and chemical properties to account for the diversity of inherited traits.",
+          "zh": "核酸的物理和化学性质被认为过于单一，无法解释多种多样的遗传性状。",
+          "es": "Se pensaba que los ácidos nucleicos eran demasiado uniformes en sus propiedades físicas y químicas para explicar la diversidad de los rasgos heredados.",
+          "fr": "Les acides nucléiques étaient considérés comme trop uniformes dans leurs propriétés physiques et chimiques pour expliquer la diversité des traits hérités.",
+          "de": "Nukleinsäuren wurden als zu gleichförmig in ihren physikalischen und chemischen Eigenschaften angesehen, um die Vielfalt der vererbten Merkmale zu erklären.",
+          "ja": "核酸は、その物理的および化学的性質が多様な遺伝形質を説明するには単一すぎると考えられていたから。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Proteins were easier to isolate and study in the laboratory.",
+          "zh": "蛋白质在实验室中更容易分离和研究。",
+          "es": "Las proteínas eran más fáciles de aislar y estudiar en el laboratorio.",
+          "fr": "Les protéines étaient plus faciles à isoler et à étudier en laboratoire.",
+          "de": "Proteine waren im Labor leichter zu isolieren und zu untersuchen.",
+          "ja": "タンパク質は実験室で分離・研究がより容易だったから。"
+        },
+        "feedback": {
+          "en": "The text does not mention ease of isolation or study as a reason for preferring proteins as genetic material.",
+          "zh": "文中并未提及分离或研究的难易程度是优先选择蛋白质作为遗传物质的原因。",
+          "es": "El texto no menciona la facilidad de aislamiento o estudio como razón para preferir las proteínas como material genético.",
+          "fr": "Le texte ne mentionne pas la facilité d'isolement ou d'étude comme raison de préférer les protéines comme matériel génétique.",
+          "de": "Der Text erwähnt die Leichtigkeit der Isolierung oder Untersuchung nicht als Grund für die Bevorzugung von Proteinen als genetisches Material.",
+          "ja": "テキストでは、分離や研究の容易さが遺伝物質としてのタンパク質が好まれた理由として言及されていません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA was believed to be a structural component of chromosomes, not a carrier of genetic information.",
+          "zh": "DNA被认为是染色体的结构成分，而非遗传信息的载体。",
+          "es": "Se creía que el ADN era un componente estructural de los cromosomas, no un portador de información genética.",
+          "fr": "L'ADN était censé être un composant structurel des chromosomes, et non un support d'information génétique.",
+          "de": "Es wurde angenommen, dass DNA ein struktureller Bestandteil von Chromosomen war, kein Träger genetischer Informationen.",
+          "ja": "DNAは染色体の構造成分であり、遺伝情報の担い手ではないと考えられていたから。"
+        },
+        "feedback": {
+          "en": "While DNA is a structural component, the core reason for skepticism was its perceived uniformity, not simply its structural role.",
+          "zh": "虽然DNA是结构成分，但怀疑的核心原因是其被认为过于单一，而不仅仅是结构作用。",
+          "es": "Si bien el ADN es un componente estructural, la razón principal del escepticismo era su uniformidad percibida, no simplemente su papel estructural.",
+          "fr": "Bien que l'ADN soit un composant structurel, la principale raison du scepticisme était sa prétendue uniformité, et non simplement son rôle structurel.",
+          "de": "Obwohl DNA ein struktureller Bestandteil ist, war der Hauptgrund für die Skepsis ihre wahrgenommene Gleichförmigkeit, nicht nur ihre strukturelle Rolle.",
+          "ja": "DNAは構造成分ですが、懐疑論の主な理由は、その均一性にあると認識されていたことであり、単に構造的な役割ではありませんでした。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'Moreover, little was known about nucleic acids, whose physical and chemical properties seemed far too uniform to account for the multitude of specific inherited traits exhibited by every organism.' This contrasts with proteins, which have 'great heterogeneity and specificity of function'.",
+      "zh": "文中指出：“此外，人们对核酸知之甚少，其物理和化学性质似乎过于单一，无法解释每个生物体所表现出的多种多样的特定遗传性状。” 这与具有“极大的异质性和功能特异性”的蛋白质形成了对比。",
+      "es": "El texto afirma: 'Además, poco se sabía sobre los ácidos nucleicos, cuyas propiedades físicas y químicas parecían demasiado uniformes para dar cuenta de la multitud de rasgos hereditarios específicos exhibidos por cada organismo'. Esto contrasta con las proteínas, que poseen 'gran heterogeneidad y especificidad de función'.",
+      "fr": "Le texte indique : « De plus, on savait peu de choses sur les acides nucléiques, dont les propriétés physiques et chimiques semblaient beaucoup trop uniformes pour expliquer la multitude de traits héréditaires spécifiques présentés par chaque organisme. » Ceci contraste avec les protéines, qui possèdent une « grande hétérogénéité et spécificité de fonction ».",
+      "de": "Der Text besagt: 'Zudem war wenig über Nukleinsäuren bekannt, deren physikalische und chemische Eigenschaften als viel zu gleichförmig erschienen, um die Vielzahl spezifischer vererbter Merkmale jedes Organismus zu erklären.' Dies steht im Gegensatz zu Proteinen, die 'große Heterogenität und Funktionsspezifität' aufweisen.",
+      "ja": "テキストには次のように書かれています。「さらに、核酸についてはほとんど知られておらず、その物理的および化学的性質は、あらゆる生物が示す多様な特定の遺伝形質を説明するにはあまりにも均一であるように思われた。」これは、「大きな不均一性と機能特異性」を持つタンパク質とは対照的です。"
+    }
+  },
+  {
+    "page_number": 364,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 16.3 and the accompanying text, which part of a T2 phage enters the bacterial cell during infection to program it to produce more viruses?",
+      "zh": "根据图16.3和 accompanying 文字，T2噬菌体感染细菌细胞时，哪一部分进入细菌细胞以使其产生更多病毒？",
+      "es": "Según la Figura 16.3 y el texto adjunto, ¿qué parte de un fago T2 entra en la célula bacteriana durante la infección para programarla y producir más virus?",
+      "fr": "Selon la Figure 16.3 et le texte accompagnant, quelle partie d'un phage T2 entre dans la cellule bactérienne lors de l'infection pour la programmer à produire plus de virus?",
+      "de": "Laut Abbildung 16.3 und dem begleitenden Text, welcher Teil eines T2-Phagen dringt während der Infektion in die Bakterienzelle ein, um sie zur Produktion weiterer Viren zu programmieren?",
+      "ja": "図16.3と付属のテキストによると、T2ファージが細菌細胞に感染する際、細菌細胞内に入り込み、より多くのウイルスを生産するようにプログラムする部分はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Phage head",
+          "zh": "噬菌体头部",
+          "es": "Cabeza del fago",
+          "fr": "Tête du phage",
+          "de": "Phagenkopf",
+          "ja": "ファージヘッド"
+        },
+        "feedback": {
+          "en": "The phage head contains the genetic material, but the head itself remains outside the bacterial cell.",
+          "zh": "噬菌体头部包含遗传物质，但头部本身停留在细菌细胞外部。",
+          "es": "La cabeza del fago contiene el material genético, pero la cabeza misma permanece fuera de la célula bacteriana.",
+          "fr": "La tête du phage contient le matériel génétique, mais la tête elle-même reste à l'extérieur de la cellule bactérienne.",
+          "de": "Der Phagenkopf enthält das genetische Material, aber der Kopf selbst verbleibt außerhalb der Bakterienzelle.",
+          "ja": "ファージヘッドには遺伝物質が含まれていますが、ヘッド自体は細菌細胞の外側に留まります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Tail sheath",
+          "zh": "尾鞘",
+          "es": "Vaina de la cola",
+          "fr": "Gaine caudale",
+          "de": "Schwanzscheide",
+          "ja": "尾部鞘"
+        },
+        "feedback": {
+          "en": "The tail sheath is a structural component involved in injection, but it does not enter the cell.",
+          "zh": "尾鞘是参与注射的结构组成部分，但它不会进入细胞。",
+          "es": "La vaina de la cola es un componente estructural implicado en la inyección, pero no entra en la célula.",
+          "fr": "La gaine caudale est un composant structurel impliqué dans l'injection, mais elle n'entre pas dans la cellule.",
+          "de": "Die Schwanzscheide ist ein struktureller Bestandteil, der an der Injektion beteiligt ist, aber sie dringt nicht in die Zelle ein.",
+          "ja": "尾部鞘は注入に関与する構造成分ですが、細胞内には入りません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Tail fiber",
+          "zh": "尾纤维",
+          "es": "Fibra de la cola",
+          "fr": "Fibre caudale",
+          "de": "Schwanzfaser",
+          "ja": "尾部繊維"
+        },
+        "feedback": {
+          "en": "Tail fibers are used for attachment to the host cell, but they remain outside.",
+          "zh": "尾纤维用于附着宿主细胞，但它们停留在外部。",
+          "es": "Las fibras de la cola se utilizan para la unión a la célula huésped, pero permanecen fuera.",
+          "fr": "Les fibres caudales sont utilisées pour l'attachement à la cellule hôte, mais elles restent à l'extérieur.",
+          "de": "Schwanzfasern dienen der Anheftung an die Wirtszelle, verbleiben aber außen.",
+          "ja": "尾部繊維は宿主細胞への付着に使用されますが、外側に留まります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Genetic material",
+          "zh": "遗传物质",
+          "es": "Material genético",
+          "fr": "Matériel génétique",
+          "de": "Genetisches Material",
+          "ja": "遺伝物質"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "The text states: 'A phage called T2 attaches to a host cell and injects its genetic material through the plasma membrane, while the head and tail parts remain on the outer bacterial surface.'",
+      "zh": "文中指出：“一种名为T2的噬菌体附着在宿主细胞上，通过质膜注入其遗传物质，而头部和尾部则停留在细菌的外表面。”",
+      "es": "El texto afirma: 'Un fago llamado T2 se une a una célula huésped e inyecta su material genético a través de la membrana plasmática, mientras que la cabeza y las partes de la cola permanecen en la superficie externa de la bacteria'.",
+      "fr": "Le texte indique : « Un phage appelé T2 s'attache à une cellule hôte et injecte son matériel génétique à travers la membrane plasmatique, tandis que la tête et les parties de la queue restent sur la surface bactérienne externe. »",
+      "de": "Der Text besagt: 'Ein Phage namens T2 heftet sich an eine Wirtszelle und injiziert sein genetisches Material durch die Plasmamembran, während Kopf- und Schwanzteile auf der äußeren Bakterienoberfläche verbleiben.'",
+      "ja": "テキストには、「T2と呼ばれるファージが宿主細胞に付着し、その遺伝物質を形質膜を介して注入するが、ヘッドとテール部分は細菌の外面に残る」と記載されています。"
+    }
+  }
+]

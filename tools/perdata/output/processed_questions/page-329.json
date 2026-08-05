@@ -1,0 +1,362 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Tay-Sachs disease is an inherited disorder. At the organismal level, the Tay-Sachs allele is considered recessive. However, at the biochemical level, the activity level of the lipid-metabolizing enzyme in heterozygotes is intermediate. At the molecular level, the normal allele and the Tay-Sachs allele are codominant. This example illustrates that the observed dominant/recessive relationship of alleles depends on what?",
+      "zh": "泰-萨克斯病是一种遗传性疾病。在有机体层面，泰-萨克斯等位基因被认为是隐性的。然而，在生化层面，杂合子中脂质代谢酶的活性水平是中间的。在分子层面，正常等位基因和泰-萨克斯等位基因是共显性的。这个例子说明，观察到的等位基因显性/隐性关系取决于什么？",
+      "es": "La enfermedad de Tay-Sachs es un trastorno hereditario. A nivel del organismo, el alelo de Tay-Sachs se considera recesivo. Sin embargo, a nivel bioquímico, el nivel de actividad de la enzima metabolizadora de lípidos en heterocigotos es intermedio. A nivel molecular, el alelo normal y el alelo de Tay-Sachs son codominantes. Este ejemplo ilustra que la relación dominante/recesiva observada de los alelos depende de qué?",
+      "fr": "La maladie de Tay-Sachs est un trouble héréditaire. Au niveau de l'organisme, l'allèle de Tay-Sachs est considéré comme récessif. Cependant, au niveau biochimique, le niveau d'activité de l'enzyme métabolisant les lipides chez les hétérozygotes est intermédiaire. Au niveau moléculaire, l'allèle normal et l'allèle de Tay-Sachs sont codominants. Cet exemple illustre que la relation dominante/récessive observée des allèles dépend de quoi ?",
+      "de": "Die Tay-Sachs-Krankheit ist eine Erbkrankheit. Auf Organismusebene wird das Tay-Sachs-Allel als rezessiv betrachtet. Auf biochemischer Ebene ist jedoch die Aktivität des lipidmetabolisierenden Enzyms bei Heterozygoten intermediär. Auf molekularer Ebene sind das normale Allel und das Tay-Sachs-Allel kodominant. Dieses Beispiel veranschaulicht, dass die beobachtete Dominanz-/Rezessivitätsbeziehung von Allelen davon abhängt, was?",
+      "ja": "テイ・サックス病は遺伝性疾患です。個体レベルでは、テイ・サックス対立遺伝子は劣性と考えられています。しかし、生化学レベルでは、ヘテロ接合体における脂質代謝酵素の活性レベルは中間です。分子レベルでは、正常対立遺伝子とテイ・サックス対立遺伝子は共優性です。この例は、観察される対立遺伝子の優性/劣性関係が何に依存するかを示していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The specific gene being studied.",
+          "zh": "所研究的特定基因。",
+          "es": "El gen específico que se está estudiando.",
+          "fr": "Le gène spécifique étudié.",
+          "de": "Das spezifische Gen, das untersucht wird.",
+          "ja": "研究されている特定の遺伝子。"
+        },
+        "feedback": {
+          "en": "While the gene is important, the example shows that the relationship changes depending on the *level* of analysis, not the gene itself.",
+          "zh": "虽然基因很重要，但这个例子表明，这种关系会根据分析的*层面*而变化，而不是基因本身。",
+          "es": "Si bien el gen es importante, el ejemplo muestra que la relación cambia según el *nivel* de análisis, no el gen en sí.",
+          "fr": "Bien que le gène soit important, l'exemple montre que la relation change en fonction du *niveau* d'analyse, et non du gène lui-même.",
+          "de": "Obwohl das Gen wichtig ist, zeigt das Beispiel, dass sich die Beziehung je nach *Ebene* der Analyse ändert, nicht das Gen selbst.",
+          "ja": "遺伝子は重要ですが、この例は、関係が遺伝子自体ではなく、分析の*レベル*によって変化することを示しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The level at which the phenotype is analyzed.",
+          "zh": "分析表现型的层面。",
+          "es": "El nivel en el que se analiza el fenotipo.",
+          "fr": "Le niveau auquel le phénotype est analysé.",
+          "de": "Die Ebene, auf der der Phänotyp analysiert wird.",
+          "ja": "表現型が分析されるレベル。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Whether the allele is dominant or recessive.",
+          "zh": "等位基因是显性还是隐性。",
+          "es": "Si el alelo es dominante o recesivo.",
+          "fr": "Si l'allèle est dominant ou récessif.",
+          "de": "Ob das Allel dominant oder rezessiv ist.",
+          "ja": "対立遺伝子が優性か劣性か。"
+        },
+        "feedback": {
+          "en": "The question is about what *determines* whether it's considered dominant or recessive at different levels, not just stating its status.",
+          "zh": "问题是关于在不同层面，什么*决定*它被认为是显性还是隐性，而不仅仅是陈述其状态。",
+          "es": "La pregunta es sobre qué *determina* si se considera dominante o recesivo en diferentes niveles, no solo sobre su estado.",
+          "fr": "La question porte sur ce qui *détermine* si elle est considérée comme dominante ou récessive à différents niveaux, et non seulement sur son statut.",
+          "de": "Die Frage ist, was *bestimmt*, ob es auf verschiedenen Ebenen als dominant oder rezessiv betrachtet wird, nicht nur die Angabe seines Status.",
+          "ja": "この質問は、異なるレベルで優性または劣性と見なされることを*決定する*ものは何かについてであり、単にその状態を述べるものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The frequency of the dominant allele in the population.",
+          "zh": "群体中显性等位基因的频率。",
+          "es": "La frecuencia del alelo dominante en la población.",
+          "fr": "La fréquence de l'allèle dominant dans la population.",
+          "de": "Die Häufigkeit des dominanten Allels in der Population.",
+          "ja": "集団における優性対立遺伝子の頻度。"
+        },
+        "feedback": {
+          "en": "Allele frequency is a separate concept discussed later in the text, not related to the different degrees of dominance.",
+          "zh": "等位基因频率是文本后面讨论的一个独立概念，与显性程度无关。",
+          "es": "La frecuencia alélica es un concepto separado que se discute más adelante en el texto, no relacionado con los diferentes grados de dominancia.",
+          "fr": "La fréquence allélique est un concept distinct abordé plus loin dans le texte, sans rapport avec les différents degrés de dominance.",
+          "de": "Die Allelfrequenz ist ein separates Konzept, das später im Text diskutiert wird und nicht mit den verschiedenen Dominanzgraden zusammenhängt.",
+          "ja": "対立遺伝子頻度は、本文の後半で議論される別の概念であり、優性の程度の違いとは関係ありません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text explicitly states: 'As you can see, whether alleles appear to be completely dominant, incompletely dominant, or codominant depends on the level at which the phenotype is analyzed.' The Tay-Sachs example clearly demonstrates this.",
+      "zh": "文本明确指出：“正如你所看到的，等位基因是完全显性、不完全显性还是共显性，取决于分析表现型的层面。”泰-萨克斯病的例子清楚地证明了这一点。",
+      "es": "El texto establece explícitamente: 'Como puede ver, si los alelos parecen ser completamente dominantes, incompletamente dominantes o codominantes depende del nivel en el que se analiza el fenotipo'. El ejemplo de Tay-Sachs lo demuestra claramente.",
+      "fr": "Le texte indique explicitement : « Comme vous pouvez le constater, la dominance complète, la dominance incomplète ou la codominance des allèles dépend du niveau auquel le phénotype est analysé. » L'exemple de Tay-Sachs le démontre clairement.",
+      "de": "Der Text besagt ausdrücklich: „Wie Sie sehen können, hängt es davon ab, auf welcher Ebene der Phänotyp analysiert wird, ob Allele vollständig dominant, unvollständig dominant oder kodominant erscheinen.“ Das Tay-Sachs-Beispiel demonstriert dies deutlich.",
+      "ja": "本文には、「ご覧のとおり、対立遺伝子が完全優性、不完全優性、または共優性であるかどうかは、表現型が分析されるレベルに依存します」と明記されています。テイ・サックス病の例はこれを明確に示しています。"
+    }
+  },
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What are the three possible alleles for the ABO blood groups in humans?",
+      "zh": "人类ABO血型的三种可能等位基因是什么？",
+      "es": "¿Cuáles son los tres posibles alelos para los grupos sanguíneos ABO en humanos?",
+      "fr": "Quels sont les trois allèles possibles pour les groupes sanguins ABO chez l'homme ?",
+      "de": "Was sind die drei möglichen Allele für die ABO-Blutgruppen beim Menschen?",
+      "ja": "ヒトのABO血液型の3つの可能な対立遺伝子は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A, B, O",
+          "zh": "A, B, O",
+          "es": "A, B, O",
+          "fr": "A, B, O",
+          "de": "A, B, O",
+          "ja": "A, B, O"
+        },
+        "feedback": {
+          "en": "These are the phenotypes (blood types), not the alleles. The alleles are represented by IA, IB, and i.",
+          "zh": "这些是表现型（血型），而不是等位基因。等位基因由IA、IB和i表示。",
+          "es": "Estos son los fenotipos (tipos de sangre), no los alelos. Los alelos están representados por IA, IB e i.",
+          "fr": "Ce sont les phénotypes (groupes sanguins), pas les allèles. Les allèles sont représentés par IA, IB et i.",
+          "de": "Dies sind die Phänotypen (Blutgruppen), nicht die Allele. Die Allele werden durch IA, IB und i dargestellt.",
+          "ja": "これらは表現型（血液型）であり、対立遺伝子ではありません。対立遺伝子はIA、IB、iで表されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "IA, IB, i",
+          "zh": "IA, IB, i",
+          "es": "IA, IB, i",
+          "fr": "IA, IB, i",
+          "de": "IA, IB, i",
+          "ja": "IA, IB, i"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "AA, BB, ii",
+          "zh": "AA, BB, ii",
+          "es": "AA, BB, ii",
+          "fr": "AA, BB, ii",
+          "de": "AA, BB, ii",
+          "ja": "AA, BB, ii"
+        },
+        "feedback": {
+          "en": "These are genotypes, not the individual alleles.",
+          "zh": "这些是基因型，而不是单个等位基因。",
+          "es": "Estos son genotipos, no los alelos individuales.",
+          "fr": "Ce sont des génotypes, pas les allèles individuels.",
+          "de": "Dies sind Genotypen, nicht die einzelnen Allele.",
+          "ja": "これらは遺伝子型であり、個々の対立遺伝子ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "M, N, O",
+          "zh": "M, N, O",
+          "es": "M, N, O",
+          "fr": "M, N, O",
+          "de": "M, N, O",
+          "ja": "M, N, O"
+        },
+        "feedback": {
+          "en": "M and N refer to molecules in the MN blood group, which is a different example of codominance.",
+          "zh": "M和N指的是MN血型中的分子，这是共显性的另一个例子。",
+          "es": "M y N se refieren a moléculas en el grupo sanguíneo MN, que es un ejemplo diferente de codominancia.",
+          "fr": "M et N font référence aux molécules du groupe sanguin MN, qui est un exemple différent de codominance.",
+          "de": "M und N beziehen sich auf Moleküle in der MN-Blutgruppe, was ein anderes Beispiel für Kodominanz ist.",
+          "ja": "MとNはMN血液型における分子を指し、これは共優性の別の例です。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text explicitly states: 'The ABO blood groups in humans, for instance, are determined by the two alleles a person has of the blood group gene; the three possible alleles are IA, IB, and i.'",
+      "zh": "文本明确指出：“例如，人类的ABO血型是由一个人拥有的血型基因的两个等位基因决定的；三种可能的等位基因是IA、IB和i。”",
+      "es": "El texto establece explícitamente: 'Los grupos sanguíneos ABO en humanos, por ejemplo, están determinados por los dos alelos que una persona tiene del gen del grupo sanguíneo; los tres alelos posibles son IA, IB e i'.",
+      "fr": "Le texte indique explicitement : « Les groupes sanguins ABO chez l'homme, par exemple, sont déterminés par les deux allèles qu'une personne possède du gène du groupe sanguin ; les trois allèles possibles sont IA, IB et i. »",
+      "de": "Der Text besagt ausdrücklich: „Die ABO-Blutgruppen beim Menschen werden beispielsweise durch die beiden Allele bestimmt, die eine Person vom Blutgruppengen besitzt; die drei möglichen Allele sind IA, IB und i.“",
+      "ja": "本文には、「例えば、ヒトのABO血液型は、その人が持つ血液型遺伝子の2つの対立遺伝子によって決定されます。3つの可能な対立遺伝子はIA、IB、iです」と明記されています。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 14.11 (b), what are the dominance relationships among the IA, IB, and i alleles for the ABO blood groups?",
+      "zh": "根据图14.11 (b)，ABO血型的IA、IB和i等位基因之间的显性关系是什么？",
+      "es": "Según la Figura 14.11 (b), ¿cuáles son las relaciones de dominancia entre los alelos IA, IB e i para los grupos sanguíneos ABO?",
+      "fr": "D'après la figure 14.11 (b), quelles sont les relations de dominance entre les allèles IA, IB et i pour les groupes sanguins ABO ?",
+      "de": "Was sind laut Abbildung 14.11 (b) die Dominanzbeziehungen zwischen den Allelen IA, IB und i für die ABO-Blutgruppen?",
+      "ja": "図14.11 (b) に基づいて、ABO血液型のIA、IB、i対立遺伝子間の優性関係は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "IA and IB are both dominant over i, and IA and IB are codominant.",
+          "zh": "IA和IB都对i显性，且IA和IB是共显性的。",
+          "es": "IA e IB son ambos dominantes sobre i, e IA e IB son codominantes.",
+          "fr": "IA et IB sont tous deux dominants sur i, et IA et IB sont codominants.",
+          "de": "IA und IB sind beide dominant über i, und IA und IB sind kodominant.",
+          "ja": "IAとIBは両方ともiに対して優性であり、IAとIBは共優性である。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "IA is dominant over IB, and both are dominant over i.",
+          "zh": "IA对IB显性，且两者都对i显性。",
+          "es": "IA es dominante sobre IB, y ambos son dominantes sobre i.",
+          "fr": "IA est dominant sur IB, et les deux sont dominants sur i.",
+          "de": "IA ist dominant über IB, und beide sind dominant über i.",
+          "ja": "IAはIBに対して優性であり、両方ともiに対して優性である。"
+        },
+        "feedback": {
+          "en": "The AB phenotype shows that both A and B carbohydrates are present, indicating codominance between IA and IB.",
+          "zh": "AB表现型表明A和B碳水化合物都存在，这表明IA和IB之间是共显性。",
+          "es": "El fenotipo AB muestra que ambos carbohidratos A y B están presentes, lo que indica codominancia entre IA e IB.",
+          "fr": "Le phénotype AB montre que les deux glucides A et B sont présents, ce qui indique une codominance entre IA et IB.",
+          "de": "Der AB-Phänotyp zeigt, dass sowohl A- als auch B-Kohlenhydrate vorhanden sind, was auf Kodominanz zwischen IA und IB hinweist.",
+          "ja": "AB表現型は、AとBの両方の炭水化物があることを示しており、IAとIBの間の共優性を示しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "i is dominant over IA and IB.",
+          "zh": "i对IA和IB显性。",
+          "es": "i es dominante sobre IA e IB.",
+          "fr": "i est dominant sur IA et IB.",
+          "de": "i ist dominant über IA und IB.",
+          "ja": "iはIAとIBに対して優性である。"
+        },
+        "feedback": {
+          "en": "The i allele is recessive, meaning it is only expressed when two copies are present (ii genotype).",
+          "zh": "i等位基因是隐性的，这意味着它只有在存在两个拷贝时（ii基因型）才会表达。",
+          "es": "El alelo i es recesivo, lo que significa que solo se expresa cuando hay dos copias presentes (genotipo ii).",
+          "fr": "L'allèle i est récessif, ce qui signifie qu'il ne s'exprime que lorsque deux copies sont présentes (génotype ii).",
+          "de": "Das i-Allel ist rezessiv, was bedeutet, dass es nur exprimiert wird, wenn zwei Kopien vorhanden sind (ii-Genotyp).",
+          "ja": "i対立遺伝子は劣性であり、2つのコピーが存在する場合（ii遺伝子型）にのみ発現します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All three alleles are codominant.",
+          "zh": "所有三个等位基因都是共显性的。",
+          "es": "Los tres alelos son codominantes.",
+          "fr": "Les trois allèles sont codominants.",
+          "de": "Alle drei Allele sind kodominant.",
+          "ja": "3つの対立遺伝子すべてが共優性である。"
+        },
+        "feedback": {
+          "en": "The i allele is recessive, not codominant.",
+          "zh": "i等位基因是隐性的，不是共显性的。",
+          "es": "El alelo i es recesivo, no codominante.",
+          "fr": "L'allèle i est récessif, pas codominant.",
+          "de": "Das i-Allel ist rezessiv, nicht kodominant.",
+          "ja": "i対立遺伝子は劣性であり、共優性ではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "Figure 14.11 (b) shows that genotypes IAIA and IAi both result in phenotype A, and IBIB and IBi both result in phenotype B, indicating that IA and IB are dominant over i. The genotype IAIB results in phenotype AB, where both A and B carbohydrates are present, demonstrating codominance between IA and IB.",
+      "zh": "图14.11 (b) 显示，基因型IAIA和IAi都导致表现型A，而IBIB和IBi都导致表现型B，这表明IA和IB对i是显性的。基因型IAIB导致表现型AB，其中A和B碳水化合物都存在，这证明了IA和IB之间的共显性。",
+      "es": "La Figura 14.11 (b) muestra que los genotipos IAIA e IAi resultan en el fenotipo A, y los genotipos IBIB e IBi resultan en el fenotipo B, lo que indica que IA e IB son dominantes sobre i. El genotipo IAIB resulta en el fenotipo AB, donde ambos carbohidratos A y B están presentes, lo que demuestra la codominancia entre IA e IB.",
+      "fr": "La figure 14.11 (b) montre que les génotypes IAIA et IAi donnent tous deux le phénotype A, et que IBIB et IBi donnent tous deux le phénotype B, ce qui indique que IA et IB sont dominants sur i. Le génotype IAIB donne le phénotype AB, où les deux glucides A et B sont présents, démontrant la codominance entre IA et IB.",
+      "de": "Abbildung 14.11 (b) zeigt, dass die Genotypen IAIA und IAi beide zum Phänotyp A führen, und IBIB und IBi beide zum Phänotyp B, was darauf hindeutet, dass IA und IB dominant über i sind. Der Genotyp IAIB führt zum Phänotyp AB, bei dem sowohl A- als auch B-Kohlenhydrate vorhanden sind, was die Kodominanz zwischen IA und IB demonstriert.",
+      "ja": "図14.11 (b) は、遺伝子型IAIAとIAiが両方とも表現型Aをもたらし、IBIBとIBiが両方とも表現型Bをもたらすことを示しており、IAとIBがiに対して優性であることを示しています。遺伝子型IAIBは表現型ABをもたらし、AとBの両方の炭水化物が存在することから、IAとIBの間の共優性を示しています。"
+    }
+  },
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is pleiotropy?",
+      "zh": "什么是多效性？",
+      "es": "¿Qué es la pleiotropía?",
+      "fr": "Qu'est-ce que la pléiotropie ?",
+      "de": "Was ist Pleiotropie?",
+      "ja": "多面発現とは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "When a single gene affects only one phenotypic character.",
+          "zh": "当一个基因只影响一个表现型性状时。",
+          "es": "Cuando un solo gen afecta solo un carácter fenotípico.",
+          "fr": "Lorsqu'un seul gène n'affecte qu'un seul caractère phénotypique.",
+          "de": "Wenn ein einzelnes Gen nur ein phänotypisches Merkmal beeinflusst.",
+          "ja": "単一の遺伝子が1つの表現型形質のみに影響を与える場合。"
+        },
+        "feedback": {
+          "en": "This is the opposite of pleiotropy. Pleiotropy refers to multiple effects.",
+          "zh": "这与多效性相反。多效性指的是多种效应。",
+          "es": "Esto es lo opuesto a la pleiotropía. La pleiotropía se refiere a múltiples efectos.",
+          "fr": "C'est le contraire de la pléiotropie. La pléiotropie fait référence à des effets multiples.",
+          "de": "Dies ist das Gegenteil von Pleiotropie. Pleiotropie bezieht sich auf multiple Effekte.",
+          "ja": "これは多面発現の反対です。多面発現は複数の効果を指します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "When a single gene has multiple phenotypic effects.",
+          "zh": "当一个基因具有多种表现型效应时。",
+          "es": "Cuando un solo gen tiene múltiples efectos fenotípicos.",
+          "fr": "Lorsqu'un seul gène a de multiples effets phénotypiques.",
+          "de": "Wenn ein einzelnes Gen mehrere phänotypische Effekte hat.",
+          "ja": "単一の遺伝子が複数の表現型効果を持つ場合。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "When two or more genes affect a single phenotypic character.",
+          "zh": "当两个或多个基因影响一个单一的表现型性状时。",
+          "es": "Cuando dos o más genes afectan un solo carácter fenotípico.",
+          "fr": "Lorsque deux gènes ou plus affectent un seul caractère phénotypique.",
+          "de": "Wenn zwei oder mehr Gene ein einzelnes phänotypisches Merkmal beeinflussen.",
+          "ja": "2つ以上の遺伝子が単一の表現型形質に影響を与える場合。"
+        },
+        "feedback": {
+          "en": "This describes polygenic inheritance, not pleiotropy.",
+          "zh": "这描述的是多基因遗传，而不是多效性。",
+          "es": "Esto describe la herencia poligénica, no la pleiotropía.",
+          "fr": "Ceci décrit l'hérédité polygénique, pas la pléiotropie.",
+          "de": "Dies beschreibt die polygene Vererbung, nicht die Pleiotropie.",
+          "ja": "これは多面発現ではなく、多遺伝子遺伝を説明しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "When the environment influences the expression of a gene.",
+          "zh": "当环境影响基因的表达时。",
+          "es": "Cuando el ambiente influye en la expresión de un gen.",
+          "fr": "Lorsque l'environnement influence l'expression d'un gène.",
+          "de": "Wenn die Umwelt die Expression eines Gens beeinflusst.",
+          "ja": "環境が遺伝子の発現に影響を与える場合。"
+        },
+        "feedback": {
+          "en": "This describes environmental influence on phenotype, not pleiotropy.",
+          "zh": "这描述的是环境对表现型的影响，而不是多效性。",
+          "es": "Esto describe la influencia ambiental en el fenotipo, no la pleiotropía.",
+          "fr": "Ceci décrit l'influence environnementale sur le phénotype, pas la pléiotropie.",
+          "de": "Dies beschreibt den Umwelteinfluss auf den Phänotyp, nicht die Pleiotropie.",
+          "ja": "これは多面発現ではなく、表現型に対する環境の影響を説明しています。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text defines pleiotropy as 'when a single gene produces multiple phenotypic effects'. It gives examples like the gene for flower color also affecting seed coat color in peas, and the multiple symptoms of cystic fibrosis and sickle-cell disease.",
+      "zh": "文本将多效性定义为“当一个基因产生多种表现型效应时”。它举例说明了花色基因也影响豌豆种皮颜色，以及囊性纤维化和镰状细胞病的多种症状。",
+      "es": "El texto define la pleiotropía como 'cuando un solo gen produce múltiples efectos fenotípicos'. Da ejemplos como el gen del color de la flor que también afecta el color de la cubierta de la semilla en los guisantes, y los múltiples síntomas de la fibrosis quística y la enfermedad de células falciformes.",
+      "fr": "Le texte définit la pléiotropie comme « lorsqu'un seul gène produit de multiples effets phénotypiques ». Il donne des exemples comme le gène de la couleur des fleurs qui affecte également la couleur du tégument des graines chez les pois, et les multiples symptômes de la mucoviscidose et de la drépanocytose.",
+      "de": "Der Text definiert Pleiotropie als „wenn ein einzelnes Gen mehrere phänotypische Effekte hervorruft“. Er nennt Beispiele wie das Gen für die Blütenfarbe, das auch die Farbe der Samenschale bei Erbsen beeinflusst, und die multiplen Symptome von Mukoviszidose und Sichelzellenanämie.",
+      "ja": "本文では、多面発現を「単一の遺伝子が複数の表現型効果を生み出す場合」と定義しています。エンドウ豆の花の色を決定する遺伝子が種皮の色にも影響を与える例や、嚢胞性線維症や鎌状赤血球症の複数の症状を挙げています。"
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 11,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following correctly describes the general flow of electrons in the linear electron transport chain of the light reactions of photosynthesis?",
+      "zh": "下列哪一项正确描述了光合作用光反应线性电子传递链中电子的总体流动方向？",
+      "es": "¿Cuál de las siguientes opciones describe correctamente el flujo general de electrones en la cadena de transporte de electrones lineal de las reacciones luminosas de la fotosíntesis?",
+      "fr": "Laquelle des propositions suivantes décrit correctement le flux général des électrons dans la chaîne de transport d'électrons linéaire des réactions lumineuses de la photosynthèse ?",
+      "de": "Welche der folgenden Aussagen beschreibt den allgemeinen Elektronenfluss in der linearen Elektronentransportkette der Lichtreaktionen der Photosynthese korrekt?",
+      "ja": "光合成の光反応における線形電子伝達系の一般的な電子の流れを正しく説明しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "H2O -> Photosystem I -> Photosystem II -> ATP -> NADPH",
+          "zh": "水 -> 光系统I -> 光系统II -> ATP -> NADPH",
+          "es": "H2O -> Fotosistema I -> Fotosistema II -> ATP -> NADPH",
+          "fr": "H2O -> Photosystème I -> Photosystème II -> ATP -> NADPH",
+          "de": "H2O -> Photosystem I -> Photosystem II -> ATP -> NADPH",
+          "ja": "H2O -> 光化学系I -> 光化学系II -> ATP -> NADPH"
+        },
+        "feedback": {
+          "en": "Incorrect order of photosystems and misplacement of ATP/NADPH.",
+          "zh": "光系统顺序错误，且ATP/NADPH位置不正确。",
+          "es": "Orden incorrecto de los fotosistemas y ubicación errónea de ATP/NADPH.",
+          "fr": "Ordre incorrect des photosystèmes et placement erroné de l'ATP/NADPH.",
+          "de": "Falsche Reihenfolge der Photosysteme und Fehlplatzierung von ATP/NADPH.",
+          "ja": "光化学系の順序が間違っており、ATP/NADPHの配置も不適切です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Photosystem II -> Photosystem I -> H2O -> NADPH -> ATP",
+          "zh": "光系统II -> 光系统I -> 水 -> NADPH -> ATP",
+          "es": "Fotosistema II -> Fotosistema I -> H2O -> NADPH -> ATP",
+          "fr": "Photosystème II -> Photosystème I -> H2O -> NADPH -> ATP",
+          "de": "Photosystem II -> Photosystem I -> H2O -> NADPH -> ATP",
+          "ja": "光化学系II -> 光化学系I -> H2O -> NADPH -> ATP"
+        },
+        "feedback": {
+          "en": "Incorrect initial electron source and reversed order of photosystems.",
+          "zh": "初始电子来源错误，且光系统顺序颠倒。",
+          "es": "Fuente inicial de electrones incorrecta y orden de los fotosistemas invertido.",
+          "fr": "Source d'électrons initiale incorrecte et ordre inversé des photosystèmes.",
+          "de": "Falsche anfängliche Elektronenquelle und umgekehrte Reihenfolge der Photosysteme.",
+          "ja": "初期電子源が間違っており、光化学系の順序が逆です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "H2O -> Photosystem II -> Electron Transport Chain -> Photosystem I -> NADPH",
+          "zh": "水 -> 光系统II -> 电子传递链 -> 光系统I -> NADPH",
+          "es": "H2O -> Fotosistema II -> Cadena de Transporte de Electrones -> Fotosistema I -> NADPH",
+          "fr": "H2O -> Photosystème II -> Chaîne de Transport d'Électrons -> Photosystème I -> NADPH",
+          "de": "H2O -> Photosystem II -> Elektronentransportkette -> Photosystem I -> NADPH",
+          "ja": "H2O -> 光化学系II -> 電子伝達系 -> 光化学系I -> NADPH"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Light -> ATP -> NADPH -> Electron Transport Chain",
+          "zh": "光 -> ATP -> NADPH -> 电子传递链",
+          "es": "Luz -> ATP -> NADPH -> Cadena de Transporte de Electrones",
+          "fr": "Lumière -> ATP -> NADPH -> Chaîne de Transport d'Électrons",
+          "de": "Licht -> ATP -> NADPH -> Elektronentransportkette",
+          "ja": "光 -> ATP -> NADPH -> 電子伝達系"
+        },
+        "feedback": {
+          "en": "Light provides energy, not electrons, and ATP/NADPH are products, not part of the electron flow pathway in this sequence.",
+          "zh": "光提供能量而非电子，ATP/NADPH是产物，不属于此序列中的电子流路径。",
+          "es": "La luz proporciona energía, no electrones, y el ATP/NADPH son productos, no parte de la vía de flujo de electrones en esta secuencia.",
+          "fr": "La lumière fournit de l'énergie, pas des électrons, et l'ATP/NADPH sont des produits, non une partie du cheminement du flux d'électrons dans cette séquence.",
+          "de": "Licht liefert Energie, keine Elektronen, und ATP/NADPH sind Produkte, nicht Teil des Elektronenflusspfades in dieser Sequenz.",
+          "ja": "光はエネルギーを提供し、電子ではありません。ATP/NADPHは生成物であり、このシーケンスの電子の流れの経路の一部ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The linear electron flow starts with water (H2O) being split at Photosystem II (PSII), releasing electrons. These electrons then move through an electron transport chain (including the cytochrome complex) to Photosystem I (PSI). Finally, electrons from PSI are used to reduce NADP+ to NADPH. ATP is generated concurrently as protons are pumped across the thylakoid membrane during electron transport.",
+      "zh": "线性电子流始于水（H2O）在光系统II（PSII）处裂解，释放电子。这些电子随后通过电子传递链（包括细胞色素复合体）到达光系统I（PSI）。最后，来自PSI的电子用于将NADP+还原为NADPH。在电子传递过程中，质子被泵送到类囊体膜上，同时产生ATP。",
+      "es": "El flujo lineal de electrones comienza con la división del agua (H2O) en el Fotosistema II (PSII), liberando electrones. Estos electrones luego se mueven a través de una cadena de transporte de electrones (incluido el complejo citocromo) hacia el Fotosistema I (PSI). Finalmente, los electrones del PSI se utilizan para reducir NADP+ a NADPH. El ATP se genera simultáneamente a medida que los protones son bombeados a través de la membrana tilacoide durante el transporte de electrones.",
+      "fr": "Le flux linéaire d'électrons commence par la scission de l'eau (H2O) au niveau du Photosystème II (PSII), libérant des électrons. Ces électrons se déplacent ensuite à travers une chaîne de transport d'électrons (incluant le complexe cytochrome) vers le Photosystème I (PSI). Enfin, les électrons du PSI sont utilisés pour réduire le NADP+ en NADPH. L'ATP est généré simultanément car les protons sont pompés à travers la membrane thylacoïde pendant le transport des électrons.",
+      "de": "Der lineare Elektronenfluss beginnt mit der Spaltung von Wasser (H2O) im Photosystem II (PSII), wodurch Elektronen freigesetzt werden. Diese Elektronen bewegen sich dann durch eine Elektronentransportkette (einschließlich des Cytochrom-Komplexes) zum Photosystem I (PSI). Schließlich werden Elektronen vom PSI verwendet, um NADP+ zu NADPH zu reduzieren. ATP wird gleichzeitig erzeugt, da Protonen während des Elektronentransports über die Thylakoidmembran gepumpt werden.",
+      "ja": "線形電子伝達は、水（H2O）が光化学系II（PSII）で分解され、電子が放出されることから始まります。これらの電子は、電子伝達系（シトクロム複合体を含む）を介して光化学系I（PSI）に移動します。最終的に、PSIからの電子はNADP+をNADPHに還元するために使用されます。電子伝達中にプロトンがチラコイド膜を介してポンピングされると同時にATPが生成されます。"
+    }
+  },
+  {
+    "page_number": 11,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "In the linear electron flow of the light reactions, what is the direct source of electrons that replenish Photosystem II's reaction center chlorophyll (P680) after it loses electrons to the primary electron acceptor?",
+      "zh": "在光反应的线性电子流中，当光系统II的反应中心叶绿素(P680)将电子传递给初级电子受体后，直接补充其所失电子的来源是什么？",
+      "es": "En el flujo lineal de electrones de las reacciones luminosas, ¿cuál es la fuente directa de electrones que reponen el centro de reacción de la clorofila del Fotosistema II (P680) después de que pierde electrones al aceptor primario de electrones?",
+      "fr": "Dans le flux linéaire d'électrons des réactions lumineuses, quelle est la source directe d'électrons qui reconstituent le chlorophylle du centre de réaction du Photosystème II (P680) après qu'il ait perdu des électrons au profit de l'accepteur primaire d'électrons ?",
+      "de": "Was ist im linearen Elektronenfluss der Lichtreaktionen die direkte Elektronenquelle, die das Reaktionszentrumschlorophyll (P680) von Photosystem II auffüllt, nachdem es Elektronen an den primären Elektronenakzeptor verloren hat?",
+      "ja": "光反応の線形電子伝達において、光化学系IIの反応中心クロロフィル(P680)が一次電子受容体へ電子を失った後、失われた電子を直接補充する供給源は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Electrons from Photosystem I",
+          "zh": "来自光系统I的电子",
+          "es": "Electrones del Fotosistema I",
+          "fr": "Électrons du Photosystème I",
+          "de": "Elektronen aus Photosystem I",
+          "ja": "光化学系Iからの電子"
+        },
+        "feedback": {
+          "en": "Photosystem I receives electrons from PSII, not the other way around for replenishment of PSII.",
+          "zh": "光系统I接收来自光系统II的电子，光系统II的补充不是反向进行。",
+          "es": "El Fotosistema I recibe electrones del Fotosistema II, no al revés para la reposición del Fotosistema II.",
+          "fr": "Le Photosystème I reçoit des électrons du PSII, et non l'inverse pour la reconstitution du PSII.",
+          "de": "Photosystem I empfängt Elektronen von PSII, nicht umgekehrt zur Auffüllung von PSII.",
+          "ja": "光化学系Iは光化学系IIから電子を受け取ります。光化学系IIの補充はその逆ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Electrons released from glucose",
+          "zh": "从葡萄糖释放的电子",
+          "es": "Electrones liberados de la glucosa",
+          "fr": "Électrons libérés du glucose",
+          "de": "Aus Glucose freigesetzte Elektronen",
+          "ja": "グルコースから放出される電子"
+        },
+        "feedback": {
+          "en": "Glucose is used in cellular respiration, not as an electron source for light reactions.",
+          "zh": "葡萄糖用于细胞呼吸，而非光反应的电子来源。",
+          "es": "La glucosa se utiliza en la respiración celular, no como fuente de electrones para las reacciones luminosas.",
+          "fr": "Le glucose est utilisé dans la respiration cellulaire, non comme source d'électrons pour les réactions lumineuses.",
+          "de": "Glucose wird in der Zellatmung verwendet, nicht als Elektronenquelle für Lichtreaktionen.",
+          "ja": "グルコースは細胞呼吸で利用され、光反応の電子源ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Electrons from the splitting of water molecules",
+          "zh": "水分子裂解产生的电子",
+          "es": "Electrones de la división de moléculas de agua",
+          "fr": "Électrons provenant de la scission des molécules d'eau",
+          "de": "Elektronen aus der Spaltung von Wassermolekülen",
+          "ja": "水分子の分解によって生成される電子"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Electrons from the cytochrome complex",
+          "zh": "来自细胞色素复合体的电子",
+          "es": "Electrones del complejo citocromo",
+          "fr": "Électrons du complexe cytochrome",
+          "de": "Elektronen aus dem Cytochrom-Komplex",
+          "ja": "シトクロム複合体からの電子"
+        },
+        "feedback": {
+          "en": "The cytochrome complex is part of the electron transport chain between PSII and PSI; it doesn't donate electrons to PSII.",
+          "zh": "细胞色素复合体是光系统II和光系统I之间电子传递链的一部分；它不向光系统II提供电子。",
+          "es": "El complejo citocromo es parte de la cadena de transporte de electrones entre el Fotosistema II y el Fotosistema I; no dona electrones al Fotosistema II.",
+          "fr": "Le complexe cytochrome fait partie de la chaîne de transport d'électrons entre le PSII et le PSI ; il ne donne pas d'électrons au PSII.",
+          "de": "Der Cytochrom-Komplex ist Teil der Elektronentransportkette zwischen PSII und PSI; er spendet keine Elektronen an PSII.",
+          "ja": "シトクロム複合体は光化学系IIと光化学系Iの間の電子伝達系の一部であり、光化学系IIに電子を供給しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The reaction center chlorophyll of Photosystem II (P680) becomes oxidized after donating electrons to the primary electron acceptor. These lost electrons are directly replenished by the splitting of water molecules (photolysis), which also releases protons and molecular oxygen (O2) as a byproduct.",
+      "zh": "光系统II的反应中心叶绿素(P680)在将电子传递给初级电子受体后被氧化。这些失去的电子直接通过水分子裂解（光解）来补充，光解过程同时释放质子和作为副产品的分子氧（O2）。",
+      "es": "La clorofila del centro de reacción del Fotosistema II (P680) se oxida después de donar electrones al aceptor primario de electrones. Estos electrones perdidos se reponen directamente mediante la división de moléculas de agua (fotólisis), lo que también libera protones y oxígeno molecular (O2) como subproducto.",
+      "fr": "Le chlorophylle du centre de réaction du Photosystème II (P680) s'oxyde après avoir donné des électrons à l'accepteur primaire d'électrons. Ces électrons perdus sont directement reconstitués par la scission des molécules d'eau (photolyse), qui libère également des protons et de l'oxygène moléculaire (O2) en tant que sous-produit.",
+      "de": "Das Reaktionszentrumschlorophyll von Photosystem II (P680) wird nach der Abgabe von Elektronen an den primären Elektronenakzeptor oxidiert. Diese verlorenen Elektronen werden direkt durch die Spaltung von Wassermolekülen (Photolyse) aufgefüllt, wobei auch Protonen und molekularer Sauerstoff (O2) als Nebenprodukt freigesetzt werden.",
+      "ja": "光化学系IIの反応中心クロロフィル(P680)は、一次電子受容体へ電子を供与した後、酸化されます。失われたこれらの電子は、水分子の分解（光分解）によって直接補充され、この過程でプロトンと副産物として分子状酸素（O2）も放出されます。"
+    }
+  },
+  {
+    "page_number": 11,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "If a chemical compound selectively inhibits the function of the cytochrome complex within the electron transport chain of the light reactions, which of the following would be the most direct consequence?",
+      "zh": "如果一种化合物特异性地抑制了光反应电子传递链中细胞色素复合体的功能，那么最直接的后果是什么？",
+      "es": "Si un compuesto químico inhibe selectivamente la función del complejo citocromo dentro de la cadena de transporte de electrones de las reacciones luminosas, ¿cuál de las siguientes sería la consecuencia más directa?",
+      "fr": "Si un composé chimique inhibe sélectivement la fonction du complexe cytochrome au sein de la chaîne de transport d'électrons des réactions lumineuses, quelle serait la conséquence la plus directe ?",
+      "de": "Wenn eine chemische Verbindung die Funktion des Cytochrom-Komplexes innerhalb der Elektronentransportkette der Lichtreaktionen selektiv hemmt, welche der folgenden Konsequenzen wäre die direkteste?",
+      "ja": "もしある化学化合物が光反応の電子伝達系内にあるシトクロム複合体の機能を選択的に阻害した場合、次のうち最も直接的な結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Photosystem II would be unable to absorb light energy.",
+          "zh": "光系统II将无法吸收光能。",
+          "es": "El Fotosistema II sería incapaz de absorber energía lumínica.",
+          "fr": "Le Photosystème II serait incapable d'absorber l'énergie lumineuse.",
+          "de": "Photosystem II wäre nicht in der Lage, Lichtenergie zu absorbieren.",
+          "ja": "光化学系IIは光エネルギーを吸収できなくなるでしょう。"
+        },
+        "feedback": {
+          "en": "Light absorption is an upstream process, not directly affected by cytochrome complex inhibition.",
+          "zh": "光吸收是一个上游过程，不受细胞色素复合体抑制的直接影响。",
+          "es": "La absorción de luz es un proceso anterior, no directamente afectado por la inhibición del complejo citocromo.",
+          "fr": "L'absorption de lumière est un processus en amont, non directement affecté par l'inhibition du complexe cytochrome.",
+          "de": "Die Lichtabsorption ist ein vorgeschalteter Prozess und nicht direkt von der Hemmung des Cytochrom-Komplexes betroffen.",
+          "ja": "光吸収は上流のプロセスであり、シトクロム複合体の阻害によって直接影響されません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Water molecules would no longer be split.",
+          "zh": "水分子将不再裂解。",
+          "es": "Las moléculas de agua ya no se dividirían.",
+          "fr": "Les molécules d'eau ne seraient plus scindées.",
+          "de": "Wassermoleküle würden nicht länger gespalten werden.",
+          "ja": "水分子はもはや分解されなくなるでしょう。"
+        },
+        "feedback": {
+          "en": "Water splitting occurs at Photosystem II, which is upstream of the cytochrome complex.",
+          "zh": "水裂解发生在光系统II，它在细胞色素复合体的上游。",
+          "es": "La división del agua ocurre en el Fotosistema II, que está aguas arriba del complejo citocromo.",
+          "fr": "La scission de l'eau se produit au niveau du Photosystème II, qui est en amont du complexe cytochrome.",
+          "de": "Die Wasserspaltung findet im Photosystem II statt, das dem Cytochrom-Komplex vorgelagert ist.",
+          "ja": "水の分解は光化学系IIで起こり、これはシトクロム複合体の上流です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The proton gradient across the thylakoid membrane would not be established, reducing ATP synthesis.",
+          "zh": "类囊体膜上的质子梯度将无法建立，从而减少ATP的合成。",
+          "es": "El gradiente de protones a través de la membrana tilacoide no se establecería, reduciendo la síntesis de ATP.",
+          "fr": "Le gradient de protons à travers la membrane thylacoïde ne serait pas établi, réduisant la synthèse d'ATP.",
+          "de": "Der Protonengradient über der Thylakoidmembran würde nicht etabliert, wodurch die ATP-Synthese reduziert würde.",
+          "ja": "チラコイド膜を介したプロトン勾配が確立されなくなり、ATP合成が減少します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "NADP+ would be directly reduced to NADPH by electrons from Photosystem I.",
+          "zh": "NADP+将由光系统I的电子直接还原为NADPH。",
+          "es": "El NADP+ se reduciría directamente a NADPH por los electrones del Fotosistema I.",
+          "fr": "Le NADP+ serait directement réduit en NADPH par les électrons du Photosystème I.",
+          "de": "NADP+ würde direkt durch Elektronen aus Photosystem I zu NADPH reduziert werden.",
+          "ja": "NADP+は光化学系Iからの電子によって直接NADPHに還元されるでしょう。"
+        },
+        "feedback": {
+          "en": "NADP+ reduction still requires electrons to pass through PSI and NADP+ reductase; if the cytochrome complex is blocked, electrons won't reach PSI efficiently, thus inhibiting NADPH production as well. However, the most direct consequence of the cytochrome complex specifically is its role in pumping protons for ATP synthesis.",
+          "zh": "NADP+还原仍需要电子通过光系统I和NADP+还原酶；如果细胞色素复合体被阻断，电子将无法有效到达光系统I，从而也抑制了NADPH的产生。然而，细胞色素复合体最直接的后果是其在ATP合成中泵送质子的作用。",
+          "es": "La reducción de NADP+ todavía requiere que los electrones pasen a través del Fotosistema I y la NADP+ reductasa; si el complejo citocromo está bloqueado, los electrones no llegarán al Fotosistema I de manera eficiente, lo que también inhibirá la producción de NADPH. Sin embargo, la consecuencia más directa del complejo citocromo es su papel específico en el bombeo de protones para la síntesis de ATP.",
+          "fr": "La réduction du NADP+ nécessite toujours que les électrons passent par le PSI et la NADP+ réductase ; si le complexe cytochrome est bloqué, les électrons n'atteindront pas le PSI efficacement, inhibant ainsi également la production de NADPH. Cependant, la conséquence la plus directe du complexe cytochrome est spécifiquement son rôle dans le pompage des protons pour la synthèse d'ATP.",
+          "de": "Die NADP+-Reduktion erfordert immer noch, dass Elektronen durch PSI und NADP+-Reduktase gelangen; wenn der Cytochrom-Komplex blockiert ist, erreichen Elektronen PSI nicht effizient, wodurch auch die NADPH-Produktion gehemmt wird. Die direkteste Konsequenz des Cytochrom-Komplexes ist jedoch seine spezifische Rolle beim Pumpen von Protonen für die ATP-Synthese.",
+          "ja": "NADP+の還元には、電子が光化学系IとNADP+還元酵素を通過する必要があります。シトクロム複合体がブロックされると、電子が光化学系Iに効率的に到達せず、NADPHの生成も阻害されます。しかし、シトクロム複合体の最も直接的な結果は、ATP合成のためのプロトンポンプにおけるその役割です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The cytochrome complex (specifically cytochrome b6f complex) plays a crucial role in the electron transport chain between Photosystem II and Photosystem I. As electrons pass through this complex, it pumps protons from the stroma into the thylakoid lumen, establishing a proton gradient. This proton gradient is then used by ATP synthase to generate ATP. Therefore, inhibiting the cytochrome complex would directly prevent the establishment of this gradient and thus inhibit ATP synthesis.",
+      "zh": "细胞色素复合体（特指细胞色素b6f复合体）在光系统II和光系统I之间的电子传递链中发挥着关键作用。当电子通过此复合体时，它将质子从基质泵入类囊体腔，从而建立质子梯度。这个质子梯度随后被ATP合酶用于合成ATP。因此，抑制细胞色素复合体将直接阻止这个梯度的建立，从而抑制ATP的合成。",
+      "es": "El complejo citocromo (específicamente el complejo citocromo b6f) juega un papel crucial en la cadena de transporte de electrones entre el Fotosistema II y el Fotosistema I. A medida que los electrones pasan por este complejo, bombea protones del estroma al lumen del tilacoide, estableciendo un gradiente de protones. Este gradiente de protones es luego utilizado por la ATP sintasa para generar ATP. Por lo tanto, la inhibición del complejo citocromo evitaría directamente el establecimiento de este gradiente y, por ende, inhibiría la síntesis de ATP.",
+      "fr": "Le complexe cytochrome (spécifiquement le complexe cytochrome b6f) joue un rôle crucial dans la chaîne de transport d'électrons entre le Photosystème II et le Photosystème I. Au fur et à mesure que les électrons traversent ce complexe, il pompe des protons du stroma vers le lumen du thylacoïde, établissant un gradient de protons. Ce gradient de protons est ensuite utilisé par l'ATP synthase pour générer de l'ATP. Par conséquent, l'inhibition du complexe cytochrome empêcherait directement l'établissement de ce gradient et, par conséquent, inhiberait la synthèse d'ATP.",
+      "de": "Der Cytochrom-Komplex (insbesondere der Cytochrom b6f-Komplex) spielt eine entscheidende Rolle in der Elektronentransportkette zwischen Photosystem II und Photosystem I. Wenn Elektronen diesen Komplex passieren, pumpt er Protonen vom Stroma in das Thylakoidlumen und etabliert so einen Protonengradienten. Dieser Protonengradient wird dann von der ATP-Synthase zur ATP-Synthese genutzt. Daher würde die Hemmung des Cytochrom-Komplexes direkt die Etablierung dieses Gradienten und somit die ATP-Synthese verhindern.",
+      "ja": "シトクロム複合体（特にシトクロムb6f複合体）は、光化学系IIと光化学系Iの間の電子伝達系において重要な役割を果たします。電子がこの複合体を通過する際に、プロトンをストロマからチラコイドルーメンへポンプ輸送し、プロトン勾配を確立します。このプロトン勾配は、その後ATP合成酵素によってATPの生成に利用されます。したがって、シトクロム複合体を阻害すると、この勾配の確立が直接妨げられ、ATP合成が阻害されることになります。"
+    }
+  }
+]

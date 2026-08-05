@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 443,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the primary role of the BRCA1 and BRCA2 genes in relation to cancer, as described in the text?",
+      "zh": "根据文本描述，BRCA1和BRCA2基因在癌症方面的主要作用是什么？",
+      "es": "¿Cuál es el papel principal de los genes BRCA1 y BRCA2 en relación con el cáncer, según se describe en el texto?",
+      "fr": "Quel est le rôle principal des gènes BRCA1 et BRCA2 en relation avec le cancer, tel que décrit dans le texte ?",
+      "de": "Welche primäre Rolle spielen die Gene BRCA1 und BRCA2 in Bezug auf Krebs, wie im Text beschrieben?",
+      "ja": "テキストに記載されているBRCA1およびBRCA2遺伝子の、がんとの関連における主要な役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They are oncogenes that promote cell growth.",
+          "zh": "它们是促进细胞生长的致癌基因。",
+          "es": "Son oncogenes que promueven el crecimiento celular.",
+          "fr": "Ce sont des oncogènes qui favorisent la croissance cellulaire.",
+          "de": "Sie sind Onkogene, die das Zellwachstum fördern.",
+          "ja": "それらは細胞の成長を促進する癌遺伝子です。"
+        },
+        "feedback": {
+          "en": "BRCA1 and BRCA2 are described as tumor-suppressor genes, not oncogenes. Oncogenes typically promote cell growth when mutated.",
+          "zh": "BRCA1和BRCA2被描述为肿瘤抑制基因，而非致癌基因。致癌基因在突变时通常会促进细胞生长。",
+          "es": "BRCA1 y BRCA2 se describen como genes supresores de tumores, no oncogenes. Los oncogenes suelen promover el crecimiento celular cuando mutan.",
+          "fr": "BRCA1 et BRCA2 sont décrits comme des gènes suppresseurs de tumeurs, et non des oncogènes. Les oncogènes favorisent généralement la croissance cellulaire lorsqu'ils sont mutés.",
+          "de": "BRCA1 und BRCA2 werden als Tumorsuppressorgene beschrieben, nicht als Onkogene. Onkogene fördern typischerweise das Zellwachstum, wenn sie mutiert sind.",
+          "ja": "BRCA1とBRCA2は腫瘍抑制遺伝子であり、癌遺伝子ではありません。癌遺伝子は変異すると通常、細胞の成長を促進します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They are tumor-suppressor genes involved in DNA damage repair.",
+          "zh": "它们是参与DNA损伤修复的肿瘤抑制基因。",
+          "es": "Son genes supresores de tumores implicados en la reparación del daño del ADN.",
+          "fr": "Ce sont des gènes suppresseurs de tumeurs impliqués dans la réparation des dommages de l'ADN.",
+          "de": "Sie sind Tumorsuppressorgene, die an der DNA-Schadensreparatur beteiligt sind.",
+          "ja": "それらはDNA損傷修復に関与する腫瘍抑制遺伝子です。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They primarily regulate cell migration and adhesion.",
+          "zh": "它们主要调节细胞迁移和粘附。",
+          "es": "Regulan principalmente la migración y adhesión celular.",
+          "fr": "Ils régulent principalement la migration et l'adhésion cellulaire.",
+          "de": "Sie regulieren hauptsächlich die Zellmigration und -adhäsion.",
+          "ja": "それらは主に細胞の移動と接着を調節します。"
+        },
+        "feedback": {
+          "en": "The text states that the APC gene (adenomatous polyposis coli) has functions including cell migration and adhesion, not BRCA1 and BRCA2.",
+          "zh": "文本指出APC基因（腺瘤性息肉病大肠杆菌）具有细胞迁移和粘附等功能，而不是BRCA1和BRCA2。",
+          "es": "El texto indica que el gen APC (poliposis adenomatosa coli) tiene funciones que incluyen la migración y adhesión celular, no BRCA1 y BRCA2.",
+          "fr": "Le texte indique que le gène APC (polypose adénomateuse du côlon) a des fonctions incluant la migration et l'adhésion cellulaire, et non BRCA1 et BRCA2.",
+          "de": "Der Text besagt, dass das APC-Gen (Adenomatöse Polyposis Coli) Funktionen wie Zellmigration und -adhäsion hat, nicht BRCA1 und BRCA2.",
+          "ja": "本文では、細胞の移動と接着を含む機能を持つのはAPC遺伝子であり、BRCA1とBRCA2ではないと述べられています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They are tumor viruses that cause breast cancer.",
+          "zh": "它们是导致乳腺癌的肿瘤病毒。",
+          "es": "Son virus tumorales que causan cáncer de mama.",
+          "fr": "Ce sont des virus tumoraux qui provoquent le cancer du sein.",
+          "de": "Sie sind Tumorviren, die Brustkrebs verursachen.",
+          "ja": "それらは乳がんを引き起こす腫瘍ウイルスです。"
+        },
+        "feedback": {
+          "en": "BRCA1 and BRCA2 are human genes, not viruses. The text discusses tumor viruses separately.",
+          "zh": "BRCA1和BRCA2是人类基因，而非病毒。文本中单独讨论了肿瘤病毒。",
+          "es": "BRCA1 y BRCA2 son genes humanos, no virus. El texto discute los virus tumorales por separado.",
+          "fr": "BRCA1 et BRCA2 sont des gènes humains, pas des virus. Le texte aborde les virus tumoraux séparément.",
+          "de": "BRCA1 und BRCA2 sind menschliche Gene, keine Viren. Der Text behandelt Tumorviren separat.",
+          "ja": "BRCA1とBRCA2はヒトの遺伝子であり、ウイルスではありません。テキストでは腫瘍ウイルスは別に議論されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states, 'BRCA1 and BRCA2 are considered tumor-suppressor genes because their wild-type alleles protect against breast cancer and their mutant alleles are recessive.' It also mentions, 'The BRCA1 and BRCA2 proteins both appear to function in the cell's DNA damage repair pathway.'",
+      "zh": "文本指出：“BRCA1和BRCA2被认为是肿瘤抑制基因，因为它们的野生型等位基因可以预防乳腺癌，而它们的突变型等位基因是隐性的。” 它还提到：“BRCA1和BRCA2蛋白似乎都在细胞的DNA损伤修复途径中发挥作用。”",
+      "es": "El texto afirma: \"BRCA1 y BRCA2 se consideran genes supresores de tumores porque sus alelos de tipo salvaje protegen contra el cáncer de mama y sus alelos mutantes son recesivos\". También menciona: \"Las proteínas BRCA1 y BRCA2 parecen funcionar en la vía de reparación del daño del ADN de la célula\".",
+      "fr": "Le texte indique : « BRCA1 et BRCA2 sont considérés comme des gènes suppresseurs de tumeurs car leurs allèles de type sauvage protègent contre le cancer du sein et leurs allèles mutants sont récessifs. » Il mentionne également : « Les protéines BRCA1 et BRCA2 semblent toutes deux fonctionner dans la voie de réparation des dommages de l'ADN de la cellule. »",
+      "de": "Der Text besagt: „BRCA1 und BRCA2 gelten als Tumorsuppressorgene, weil ihre Wildtyp-Allele vor Brustkrebs schützen und ihre mutierten Allele rezessiv sind.“ Es wird auch erwähnt: „Die BRCA1- und BRCA2-Proteine scheinen beide im DNA-Schadensreparaturweg der Zelle zu funktionieren.“",
+      "ja": "本文には「BRCA1とBRCA2は、その野生型アレルが乳がんから保護し、変異アレルが劣性であるため、腫瘍抑制遺伝子と見なされている」と記載されています。また、「BRCA1とBRCA2のタンパク質は両方とも細胞のDNA損傷修復経路で機能するように見える」とも述べられています。"
+    }
+  },
+  {
+    "page_number": 443,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Hereditary nonpolyposis colon cancer (HNPCC), also known as Lynch syndrome, is caused by an autosomal dominant allele affecting which type of genes, according to the text?",
+      "zh": "根据文本，遗传性非息肉病性结肠癌（HNPCC），又称林奇综合征，是由影响哪类基因的常染色体显性等位基因引起的？",
+      "es": "Según el texto, el cáncer colorrectal hereditario no polipósico (HNPCC), también conocido como síndrome de Lynch, es causado por un alelo autosómico dominante que afecta a qué tipo de genes?",
+      "fr": "Selon le texte, le cancer colorectal héréditaire sans polypose (HNPCC), également connu sous le nom de syndrome de Lynch, est causé par un allèle autosomique dominant affectant quel type de gènes ?",
+      "de": "Laut Text wird das hereditäre nicht-polypöse Kolorektalkarzinom (HNPCC), auch bekannt als Lynch-Syndrom, durch ein autosomal dominantes Allel verursacht, das welche Art von Genen betrifft?",
+      "ja": "本文によると、遺伝性非ポリポーシス大腸がん（HNPCC）、別名リンチ症候群は、どの種類の遺伝子に影響を与える常染色体優性対立遺伝子によって引き起こされますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Oncogenes",
+          "zh": "致癌基因",
+          "es": "Oncogenes",
+          "fr": "Oncogènes",
+          "de": "Onkogene",
+          "ja": "癌遺伝子"
+        },
+        "feedback": {
+          "en": "The text specifically states that HNPCC is caused by a mutation in DNA repair genes, not oncogenes.",
+          "zh": "文本明确指出HNPCC是由DNA修复基因突变引起的，而非致癌基因。",
+          "es": "El texto establece específicamente que el HNPCC es causado por una mutación en los genes de reparación del ADN, no en los oncogenes.",
+          "fr": "Le texte indique spécifiquement que le HNPCC est causé par une mutation dans les gènes de réparation de l'ADN, et non par des oncogènes.",
+          "de": "Der Text besagt ausdrücklich, dass HNPCC durch eine Mutation in DNA-Reparaturgenen verursacht wird, nicht durch Onkogene.",
+          "ja": "本文では、HNPCCは癌遺伝子ではなく、DNA修復遺伝子の変異によって引き起こされると明記されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Genes involved in cell migration and adhesion",
+          "zh": "参与细胞迁移和粘附的基因",
+          "es": "Genes implicados en la migración y adhesión celular",
+          "fr": "Gènes impliqués dans la migration et l'adhésion cellulaire",
+          "de": "Gene, die an Zellmigration und -adhäsion beteiligt sind",
+          "ja": "細胞移動と接着に関与する遺伝子"
+        },
+        "feedback": {
+          "en": "While some cancer-related genes (like APC) affect cell migration and adhesion, HNPCC is specifically linked to DNA repair genes.",
+          "zh": "虽然某些与癌症相关的基因（如APC）会影响细胞迁移和粘附，但HNPCC明确与DNA修复基因相关。",
+          "es": "Aunque algunos genes relacionados con el cáncer (como APC) afectan la migración y adhesión celular, el HNPCC está específicamente relacionado con los genes de reparación del ADN.",
+          "fr": "Bien que certains gènes liés au cancer (comme APC) affectent la migration et l'adhésion cellulaire, le HNPCC est spécifiquement lié aux gènes de réparation de l'ADN.",
+          "de": "Während einige krebsbezogene Gene (wie APC) die Zellmigration und -adhäsion beeinflussen, ist HNPCC spezifisch mit DNA-Reparaturgenen verbunden.",
+          "ja": "一部のがん関連遺伝子（APCなど）は細胞の移動と接着に影響を与えますが、HNPCCは具体的にDNA修復遺伝子と関連しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "DNA repair genes",
+          "zh": "DNA修复基因",
+          "es": "Genes de reparación del ADN",
+          "fr": "Gènes de réparation de l'ADN",
+          "de": "DNA-Reparatur-Gene",
+          "ja": "DNA修復遺伝子"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Genes that produce tumor viruses",
+          "zh": "产生肿瘤病毒的基因",
+          "es": "Genes que producen virus tumorales",
+          "fr": "Gènes qui produisent des virus tumoraux",
+          "de": "Gene, die Tumorviren produzieren",
+          "ja": "腫瘍ウイルスを産生する遺伝子"
+        },
+        "feedback": {
+          "en": "HNPCC is a hereditary condition involving human genes, not genes that produce viruses. Viruses themselves can be tumor-causing agents.",
+          "zh": "HNPCC是一种涉及人类基因的遗传性疾病，而非产生病毒的基因。病毒本身可以是致癌剂。",
+          "es": "El HNPCC es una condición hereditaria que involucra genes humanos, no genes que producen virus. Los virus por sí mismos pueden ser agentes causantes de tumores.",
+          "fr": "Le HNPCC est une maladie héréditaire impliquant des gènes humains, et non des gènes qui produisent des virus. Les virus eux-mêmes peuvent être des agents cancérigènes.",
+          "de": "HNPCC ist eine Erbkrankheit, die menschliche Gene betrifft, nicht Gene, die Viren produzieren. Viren selbst können tumorverursachende Agenzien sein.",
+          "ja": "HNPCCはヒトの遺伝子に関わる遺伝性疾患であり、ウイルスを産生する遺伝子ではありません。ウイルス自体は腫瘍を引き起こす因子となる可能性があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states, 'HNPCC, also known as Lynch syndrome, is caused by an autosomal dominant allele of any one of a group of DNA repair genes, underscoring the importance of DNA repair systems.'",
+      "zh": "文本指出：“HNPCC，又称林奇综合征，是由一组DNA修复基因中任一个的常染色体显性等位基因引起的，这突显了DNA修复系统的重要性。”",
+      "es": "El texto afirma: \"El HNPCC, también conocido como síndrome de Lynch, es causado por un alelo autosómico dominante de cualquiera de un grupo de genes de reparación del ADN, lo que subraya la importancia de los sistemas de reparación del ADN.\"",
+      "fr": "Le texte indique : « Le HNPCC, également connu sous le nom de syndrome de Lynch, est causé par un allèle autosomique dominant de l'un des gènes d'un groupe de gènes de réparation de l'ADN, soulignant l'importance des systèmes de réparation de l'ADN. »",
+      "de": "Der Text besagt: „HNPCC, auch bekannt als Lynch-Syndrom, wird durch ein autosomal dominantes Allel eines beliebigen Gens aus einer Gruppe von DNA-Reparaturgenen verursacht, was die Bedeutung von DNA-Reparatursystemen unterstreicht.“",
+      "ja": "本文には、「リンチ症候群としても知られるHNPCCは、DNA修復遺伝子群のいずれかの常染色体優性対立遺伝子によって引き起こされ、DNA修復システムの重要性を強調している」と述べられています。"
+    }
+  },
+  {
+    "page_number": 443,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, approximately what percentage of human cancer cases are attributed to viruses, and which of the following is an example of a virus-linked cancer mentioned?",
+      "zh": "根据文本，人类癌症病例中大约有多少百分比归因于病毒？以下哪项是文中提到的与病毒相关的癌症例子？",
+      "es": "Según el texto, aproximadamente qué porcentaje de casos de cáncer humano se atribuyen a virus, y cuál de los siguientes es un ejemplo de cáncer relacionado con virus mencionado?",
+      "fr": "Selon le texte, quel pourcentage approximatif des cas de cancer humain sont attribués aux virus, et lequel des exemples suivants de cancer lié à un virus est mentionné ?",
+      "de": "Laut Text werden etwa wie viel Prozent der menschlichen Krebsfälle Viren zugeschrieben, und welches der folgenden ist ein im Text erwähntes Beispiel für eine virusbedingte Krebserkrankung?",
+      "ja": "本文によると、ヒトのがん症例のおよそ何パーセントがウイルスに起因するとされており、以下の中でウイルス関連がんの例として言及されているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "5%; Breast cancer",
+          "zh": "5%；乳腺癌",
+          "es": "5%; Cáncer de mama",
+          "fr": "5%; Cancer du sein",
+          "de": "5%; Brustkrebs",
+          "ja": "5%; 乳がん"
+        },
+        "feedback": {
+          "en": "The text states that viruses play a role in about 15% of human cancer cases, and breast cancer is not primarily listed as a virus-linked cancer here.",
+          "zh": "文本指出病毒在大约15%的人类癌症病例中发挥作用，乳腺癌在此处并未主要列为病毒相关癌症。",
+          "es": "El texto indica que los virus desempeñan un papel en aproximadamente el 15% de los casos de cáncer humano, y el cáncer de mama no se menciona principalmente como un cáncer relacionado con virus aquí.",
+          "fr": "Le texte indique que les virus jouent un rôle dans environ 15% des cas de cancer humain, et le cancer du sein n'est pas principalement répertorié comme un cancer lié aux virus ici.",
+          "de": "Der Text besagt, dass Viren bei etwa 15% der menschlichen Krebsfälle eine Rolle spielen, und Brustkrebs wird hier nicht primär als virusbedingte Krebserkrankung aufgeführt.",
+          "ja": "本文によると、ウイルスはヒトのがん症例の約15%に関与しており、乳がんはここでは主にウイルス関連のがんとして挙げられていません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "15%; Burkitt's lymphoma",
+          "zh": "15%；伯基特淋巴瘤",
+          "es": "15%; Linfoma de Burkitt",
+          "fr": "15%; Lymphome de Burkitt",
+          "de": "15%; Burkitt-Lymphom",
+          "ja": "15%; バーキットリンパ腫"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "50-70%; Colorectal cancer",
+          "zh": "50-70%；结直肠癌",
+          "es": "50-70%; Cáncer colorrectal",
+          "fr": "50-70%; Cancer colorectal",
+          "de": "50-70%; Darmkrebs",
+          "ja": "50-70%; 大腸がん"
+        },
+        "feedback": {
+          "en": "50-70% refers to the lifetime risk of colon cancer due to HNPCC, not the overall percentage of human cancers linked to viruses. Colorectal cancer is primarily discussed in the context of inherited mutations, not viruses.",
+          "zh": "50-70%指的是HNPCC引起的结肠癌终生风险，而不是与病毒相关的人类癌症总百分比。结直肠癌主要在遗传突变而非病毒的背景下讨论。",
+          "es": "El 50-70% se refiere al riesgo de por vida de cáncer de colon debido al HNPCC, no al porcentaje general de cánceres humanos relacionados con virus. El cáncer colorrectal se discute principalmente en el contexto de mutaciones heredadas, no de virus.",
+          "fr": "50-70% fait référence au risque à vie de cancer du côlon dû au HNPCC, et non au pourcentage global de cancers humains liés aux virus. Le cancer colorectal est principalement abordé dans le contexte des mutations héréditaires, et non des virus.",
+          "de": "50-70% bezieht sich auf das Lebenszeitrisiko für Darmkrebs aufgrund von HNPCC, nicht auf den Gesamtprozentsatz menschlicher Krebsarten, die mit Viren in Verbindung stehen. Darmkrebs wird hier hauptsächlich im Kontext ererbter Mutationen und nicht von Viren diskutiert.",
+          "ja": "50-70%はHNPCCによる結腸がんの生涯リスクを指しており、ウイルスに関連するヒトがん全体の割合ではありません。大腸がんは主に遺伝性変異の文脈で議論されており、ウイルスではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "60%; Adult leukemia",
+          "zh": "60%；成人白血病",
+          "es": "60%; Leucemia adulta",
+          "fr": "60%; Leucémie adulte",
+          "de": "60%; Erwachsenenleukämie",
+          "ja": "60%; 成人白血病"
+        },
+        "feedback": {
+          "en": "60% refers to the percentage of colorectal cancers with APC gene mutations. While adult leukemia (HTLV-1) is mentioned as virus-linked, the percentage is incorrect for virus-attributed cancers overall.",
+          "zh": "60%指的是APC基因突变结直肠癌的百分比。虽然成人白血病（HTLV-1）被提及与病毒相关，但该百分比对于归因于病毒的癌症总数是不正确的。",
+          "es": "El 60% se refiere al porcentaje de cánceres colorrectales con mutaciones en el gen APC. Aunque la leucemia adulta (HTLV-1) se menciona como ligada a virus, el porcentaje es incorrecto para el total de cánceres atribuidos a virus.",
+          "fr": "60% fait référence au pourcentage de cancers colorectaux présentant des mutations du gène APC. Bien que la leucémie adulte (HTLV-1) soit mentionnée comme liée à un virus, le pourcentage est incorrect pour l'ensemble des cancers attribués aux virus.",
+          "de": "60% bezieht sich auf den Prozentsatz von Darmkrebs mit APC-Genmutationen. Obwohl die adulte Leukämie (HTLV-1) als virusbedingt erwähnt wird, ist der Prozentsatz für insgesamt virusbedingte Krebserkrankungen falsch.",
+          "ja": "60%はAPC遺伝子変異を持つ大腸がんの割合を指します。成人白血病（HTLV-1）はウイルス関連と記載されていますが、ウイルスに起因するがん全体の割合としては誤りです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states, 'Viruses play a role in about 15% of the cases of human cancer.' It also lists, 'the Epstein-Barr virus, which causes infectious mononucleosis, has been linked to several types of cancer in humans, notably Burkitt's lymphoma.'",
+      "zh": "文本指出：“病毒在约15%的人类癌症病例中发挥作用。” 它还列举道：“引起传染性单核细胞增多症的爱泼斯坦-巴尔病毒已与人类的几种癌症相关联，特别是伯基特淋巴瘤。”",
+      "es": "El texto afirma: \"Los virus juegan un papel en aproximadamente el 15% de los casos de cáncer humano\". También enumera: \"el virus de Epstein-Barr, que causa mononucleosis infecciosa, se ha relacionado con varios tipos de cáncer en humanos, notablemente el linfoma de Burkitt.\"",
+      "fr": "Le texte indique : « Les virus jouent un rôle dans environ 15% des cas de cancer humain. » Il énumère également : « le virus d'Epstein-Barr, qui cause la mononucléose infectieuse, a été lié à plusieurs types de cancer chez l'homme, notamment le lymphome de Burkitt. »",
+      "de": "Der Text besagt: „Viren spielen in etwa 15% der menschlichen Krebsfälle eine Rolle.“ Es wird auch aufgeführt: „der Epstein-Barr-Virus, der infektiöse Mononukleose verursacht, wurde mit verschiedenen Arten von Krebs beim Menschen in Verbindung gebracht, insbesondere dem Burkitt-Lymphom.“",
+      "ja": "本文には「ウイルスはヒトのがん症例の約15%に関与している」と述べられています。また、「伝染性単核球症を引き起こすエプスタイン・バーウイルスは、ヒトの数種類のがんと関連付けられており、特にバーキットリンパ腫が挙げられる」とも記載されています。"
+    }
+  },
+  {
+    "page_number": 443,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the information provided, what is a key strategy for lowering the risk of cancer development, particularly concerning DNA damage?",
+      "zh": "根据提供的信息，降低癌症发展风险，特别是与DNA损伤相关的关键策略是什么？",
+      "es": "Según la información proporcionada, ¿cuál es una estrategia clave para reducir el riesgo de desarrollo de cáncer, particularmente en lo que respecta al daño del ADN?",
+      "fr": "Selon les informations fournies, quelle est une stratégie clé pour réduire le risque de développement du cancer, notamment en ce qui concerne les dommages à l'ADN ?",
+      "de": "Basierend auf den bereitgestellten Informationen, welche Schlüsselstrategie gibt es zur Senkung des Krebsrisikos, insbesondere in Bezug auf DNA-Schäden?",
+      "ja": "提供された情報に基づくと、特にDNA損傷に関して、がん発生リスクを低下させるための重要な戦略は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Inheriting a mutant tumor-suppressor gene.",
+          "zh": "继承突变的肿瘤抑制基因。",
+          "es": "Heredar un gen supresor de tumores mutante.",
+          "fr": "Hériter d'un gène suppresseur de tumeurs mutant.",
+          "de": "Ein mutiertes Tumorsuppressorgen erben.",
+          "ja": "変異した腫瘍抑制遺伝子を継承する。"
+        },
+        "feedback": {
+          "en": "Inheriting a mutant tumor-suppressor gene increases an individual's predisposition to cancer, rather than lowering the risk.",
+          "zh": "继承突变的肿瘤抑制基因会增加个体患癌症的易感性，而不是降低风险。",
+          "es": "Heredar un gen supresor de tumores mutante aumenta la predisposición de un individuo al cáncer, en lugar de reducir el riesgo.",
+          "fr": "Hériter d'un gène suppresseur de tumeurs mutant augmente la prédisposition d'un individu au cancer, plutôt que de réduire le risque.",
+          "de": "Das Erben eines mutierten Tumorsuppressorgens erhöht die Anfälligkeit einer Person für Krebs, anstatt das Risiko zu senken.",
+          "ja": "変異した腫瘍抑制遺伝子を継承することは、がんのリスクを下げるのではなく、がんへの素因を高めます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Accumulating multiple genetic changes in a cancer cell.",
+          "zh": "在癌细胞中积累多个基因变化。",
+          "es": "Acumular múltiples cambios genéticos en una célula cancerosa.",
+          "fr": "Accumuler de multiples changements génétiques dans une cellule cancéreuse.",
+          "de": "Akkumulation mehrerer genetischer Veränderungen in einer Krebszelle.",
+          "ja": "がん細胞に複数の遺伝子変化を蓄積する。"
+        },
+        "feedback": {
+          "en": "Accumulating multiple genetic changes is the process by which cancer develops, not a strategy to prevent it.",
+          "zh": "积累多个基因变化是癌症发展的过程，而不是预防癌症的策略。",
+          "es": "La acumulación de múltiples cambios genéticos es el proceso por el cual se desarrolla el cáncer, no una estrategia para prevenirlo.",
+          "fr": "L'accumulation de multiples changements génétiques est le processus par lequel le cancer se développe, et non une stratégie pour le prévenir.",
+          "de": "Die Akkumulation mehrerer genetischer Veränderungen ist der Prozess, durch den Krebs entsteht, keine Strategie zu seiner Verhinderung.",
+          "ja": "複数の遺伝子変化を蓄積することは、がんが発生するプロセスであり、がんを予防する戦略ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Minimizing exposure to DNA-damaging agents.",
+          "zh": "尽量减少接触DNA损伤剂。",
+          "es": "Minimizar la exposición a agentes que dañan el ADN.",
+          "fr": "Minimiser l'exposition aux agents endommageant l'ADN.",
+          "de": "Die Exposition gegenüber DNA-schädigenden Agenzien minimieren.",
+          "ja": "DNA損傷物質への曝露を最小限に抑える。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Increasing the expression of tumor viruses.",
+          "zh": "增加肿瘤病毒的表达。",
+          "es": "Aumentar la expresión de virus tumorales.",
+          "fr": "Augmenter l'expression des virus tumoraux.",
+          "de": "Die Expression von Tumorviren erhöhen.",
+          "ja": "腫瘍ウイルスの発現を増加させる。"
+        },
+        "feedback": {
+          "en": "Tumor viruses contribute to cancer, so increasing their expression would increase cancer risk, not lower it.",
+          "zh": "肿瘤病毒导致癌症，因此增加其表达会增加癌症风险，而不是降低风险。",
+          "es": "Los virus tumorales contribuyen al cáncer, por lo que aumentar su expresión aumentaría el riesgo de cáncer, no lo reduciría.",
+          "fr": "Les virus tumoraux contribuent au cancer, donc augmenter leur expression augmenterait le risque de cancer, et non le diminuerait.",
+          "de": "Tumorviren tragen zu Krebs bei, daher würde eine erhöhte Expression das Krebsrisiko erhöhen, nicht senken.",
+          "ja": "腫瘍ウイルスはがんの原因となるため、その発現を増加させることは、がんのリスクを下げるのではなく、増加させることになります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states, 'Because DNA breakage can contribute to cancer, it makes sense that the risk of cancer can be lowered by minimizing exposure to DNA-damaging agents, such as the ultraviolet radiation in sunlight and chemicals found in cigarette smoke.'",
+      "zh": "文本指出：“由于DNA断裂可能导致癌症，因此通过尽量减少暴露于DNA损伤剂（如阳光中的紫外线辐射和香烟烟雾中的化学物质）来降低癌症风险是合理的。”",
+      "es": "El texto afirma: \"Dado que la rotura del ADN puede contribuir al cáncer, tiene sentido que el riesgo de cáncer pueda reducirse minimizando la exposición a agentes que dañan el ADN, como la radiación ultravioleta de la luz solar y los productos químicos que se encuentran en el humo del cigarrillo.\"",
+      "fr": "Le texte indique : « Étant donné que la rupture de l'ADN peut contribuer au cancer, il est logique que le risque de cancer puisse être réduit en minimisant l'exposition aux agents endommageant l'ADN, tels que le rayonnement ultraviolet de la lumière du soleil et les produits chimiques présents dans la fumée de cigarette. »",
+      "de": "Der Text besagt: „Da DNA-Brüche zu Krebs beitragen können, ist es sinnvoll, dass das Krebsrisiko durch Minimierung der Exposition gegenüber DNA-schädigenden Agenzien, wie der ultravioletten Strahlung im Sonnenlicht und Chemikalien im Zigarettenrauch, gesenkt werden kann.“",
+      "ja": "本文には、「DNAの切断ががんの一因となるため、日光中の紫外線放射やタバコの煙に含まれる化学物質など、DNA損傷剤への曝露を最小限に抑えることでがんのリスクを低減できるのは理にかなっている」と記載されています。"
+    }
+  }
+]

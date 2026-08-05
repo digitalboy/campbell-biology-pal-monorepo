@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 407,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 17.27(a), what is the primary characteristic of a silent mutation caused by a nucleotide-pair substitution?",
+      "zh": "根据图 17.27(a)，由核苷酸对替换引起的沉默突变的主要特征是什么？",
+      "es": "Según la Figura 17.27(a), ¿cuál es la característica principal de una mutación silenciosa causada por una sustitución de pares de nucleótidos?",
+      "fr": "Selon la Figure 17.27(a), quelle est la caractéristique principale d'une mutation silencieuse causée par une substitution de paire de nucléotides?",
+      "de": "Gemäß Abbildung 17.27(a), was ist das Hauptmerkmal einer stillen Mutation, die durch eine Nukleotid-Basenpaar-Substitution verursacht wird?",
+      "ja": "図 17.27(a)によると、ヌクレオチド対置換によって引き起こされるサイレント変異の主な特徴は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It results in a complete loss of protein function.",
+          "zh": "它导致蛋白质功能完全丧失。",
+          "es": "Provoca una pérdida completa de la función proteica.",
+          "fr": "Cela entraîne une perte complète de la fonction protéique.",
+          "de": "Es führt zu einem vollständigen Verlust der Proteinfunktion.",
+          "ja": "それはタンパク質機能の完全な喪失をもたらします。"
+        },
+        "feedback": {
+          "en": "This describes a severe functional impact, not the characteristic of a silent mutation.",
+          "zh": "这描述的是严重的蛋白质功能影响，而非沉默突变的特征。",
+          "es": "Esto describe un impacto funcional grave, no la característica de una mutación silenciosa.",
+          "fr": "Cela décrit un impact fonctionnel grave, pas la caractéristique d'une mutation silencieuse.",
+          "de": "Dies beschreibt eine schwerwiegende funktionale Auswirkung, nicht das Merkmal einer stillen Mutation.",
+          "ja": "これは深刻な機能的影響を説明しており、サイレント変異の特性ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It leads to the premature termination of protein synthesis.",
+          "zh": "它导致蛋白质合成的提前终止。",
+          "es": "Conduce a la terminación prematura de la síntesis de proteínas.",
+          "fr": "Cela conduit à l'arrêt prématuré de la synthèse protéique.",
+          "de": "Es führt zu einem vorzeitigen Abbruch der Proteinsynthese.",
+          "ja": "それはタンパク質合成の早期終結につながります。"
+        },
+        "feedback": {
+          "en": "This describes a nonsense mutation, not a silent mutation.",
+          "zh": "这描述的是无义突变，而非沉默突变。",
+          "es": "Esto describe una mutación sin sentido, no una mutación silenciosa.",
+          "fr": "Cela décrit une mutation non-sens, pas une mutation silencieuse.",
+          "de": "Dies beschreibt eine Nonsense-Mutation, keine stille Mutation.",
+          "ja": "これはナンセンス変異を説明しており、サイレント変異ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It causes a change in the amino acid sequence, but the new amino acid has similar properties to the original.",
+          "zh": "它导致氨基酸序列的改变，但新氨基酸与原始氨基酸具有相似的性质。",
+          "es": "Provoca un cambio en la secuencia de aminoácidos, pero el nuevo aminoácido tiene propiedades similares al original.",
+          "fr": "Cela provoque un changement dans la séquence d'acides aminés, mais le nouvel acide aminé a des propriétés similaires à l'original.",
+          "de": "Es verursacht eine Änderung der Aminosäuresequenz, aber die neue Aminosäure hat ähnliche Eigenschaften wie die ursprüngliche.",
+          "ja": "それはアミノ酸配列の変化を引き起こしますが、新しいアミノ酸は元のものと同様の特性を持っています。"
+        },
+        "feedback": {
+          "en": "This describes a missense mutation, and specifically one with minimal impact, but a silent mutation causes no amino acid change.",
+          "zh": "这描述的是错义突变，特别是影响最小的错义突变，但沉默突变不会导致氨基酸改变。",
+          "es": "Esto describe una mutación de sentido erróneo, y específicamente una con impacto mínimo, pero una mutación silenciosa no causa ningún cambio de aminoácidos.",
+          "fr": "Cela décrit une mutation faux-sens, et spécifiquement une avec un impact minimal, mais une mutation silencieuse n'entraîne aucun changement d'acide aminé.",
+          "de": "Dies beschreibt eine Missense-Mutation, und zwar eine mit minimaler Auswirkung, aber eine stille Mutation führt zu keiner Aminosäureänderung.",
+          "ja": "これはミスセンス変異であり、特に影響が少ないものを説明していますが、サイレント変異はアミノ酸の変化を引き起こしません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It alters the DNA and mRNA sequences but does not change the encoded amino acid sequence.",
+          "zh": "它改变了DNA和mRNA序列，但不会改变编码的氨基酸序列。",
+          "es": "Altera las secuencias de ADN y ARNm pero no cambia la secuencia de aminoácidos codificada.",
+          "fr": "Cela altère les séquences d'ADN et d'ARNm mais ne modifie pas la séquence d'acides aminés codée.",
+          "de": "Es verändert die DNA- und mRNA-Sequenzen, aber nicht die kodierte Aminosäuresequenz.",
+          "ja": "それはDNAおよびmRNA配列を変更しますが、コードされたアミノ酸配列は変更しません。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "A silent mutation is a type of nucleotide-pair substitution that alters the DNA sequence, which in turn leads to an altered mRNA sequence. However, due to the degeneracy of the genetic code, this change does not result in a different amino acid being incorporated into the polypeptide, hence the term 'silent'.",
+      "zh": "沉默突变是一种核苷酸对替换，它改变DNA序列，进而导致mRNA序列的改变。然而，由于遗传密码的简并性，这种改变并不会导致不同的氨基酸掺入多肽链中，因此被称为“沉默”突变。",
+      "es": "Una mutación silenciosa es un tipo de sustitución de pares de nucleótidos que altera la secuencia de ADN, lo que a su vez conduce a una secuencia de ARNm alterada. Sin embargo, debido a la degeneración del código genético, este cambio no resulta en la incorporación de un aminoácido diferente en el polipéptido, de ahí el término 'silenciosa'.",
+      "fr": "Une mutation silencieuse est un type de substitution de paire de nucléotides qui modifie la séquence d'ADN, ce qui entraîne à son tour une modification de la séquence d'ARNm. Cependant, en raison de la dégénérescence du code génétique, ce changement n'entraîne pas l'incorporation d'un acide aminé différent dans le polypeptide, d'où le terme 'silencieuse'.",
+      "de": "Eine stille Mutation ist eine Art der Nukleotid-Basenpaar-Substitution, die die DNA-Sequenz verändert, was wiederum zu einer veränderten mRNA-Sequenz führt. Aufgrund der Degeneration des genetischen Codes führt diese Änderung jedoch nicht dazu, dass eine andere Aminosäure in das Polypeptid eingebaut wird, daher der Begriff 'still'.",
+      "ja": "サイレント変異は、DNA配列を変化させ、結果としてmRNA配列も変化させるヌクレオチド対置換の一種です。しかし、遺伝暗号の縮重性のため、この変化はポリペプチドに異なるアミノ酸が組み込まれることにはつながらず、そのため「サイレント」という用語が使われます。"
+    }
+  },
+  {
+    "page_number": 407,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 17.27(b), how do a 1-nucleotide-pair deletion and a 3-nucleotide-pair deletion primarily differ in their effect on the resulting polypeptide?",
+      "zh": "根据图 17.27(b)，一个核苷酸对缺失和一个三核苷酸对缺失对产生的多肽链的影响主要有何不同？",
+      "es": "Según la Figura 17.27(b), ¿en qué se diferencian principalmente una deleción de un par de nucleótidos y una deleción de tres pares de nucleótidos en su efecto sobre el polipéptido resultante?",
+      "fr": "Selon la Figure 17.27(b), comment une délétion d'une paire de nucléotides et une délétion de trois paires de nucléotides diffèrent-elles principalement dans leur effet sur le polypeptide résultant ?",
+      "de": "Basierend auf Abbildung 17.27(b), wie unterscheiden sich eine 1-Nukleotid-Basenpaar-Deletion und eine 3-Nukleotid-Basenpaar-Deletion hauptsächlich in ihrer Auswirkung auf das resultierende Polypeptid?",
+      "ja": "図17.27(b)に基づくと、1ヌクレオチド対の欠失と3ヌクレオチド対の欠失は、結果として生じるポリペプチドへの影響においてどのように主な違いがありますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Both cause a frameshift, but a 3-nucleotide deletion leads to a shorter polypeptide.",
+          "zh": "两者都会导致移码，但三核苷酸缺失会导致多肽链缩短。",
+          "es": "Ambas causan un cambio en el marco de lectura, pero una deleción de 3 nucleótidos conduce a un polipéptido más corto.",
+          "fr": "Les deux provoquent un décalage du cadre de lecture, mais une délétion de 3 nucléotides entraîne un polypeptide plus court.",
+          "de": "Beide verursachen eine Leserasterverschiebung, aber eine 3-Nukleotid-Deletion führt zu einem kürzeren Polypeptid.",
+          "ja": "どちらもフレームシフトを引き起こしますが、3ヌクレオチド欠失はより短いポリペプチドにつながります。"
+        },
+        "feedback": {
+          "en": "A 3-nucleotide deletion generally does not cause a frameshift, and its effect on length depends on context, but typically one amino acid is missing rather than premature termination.",
+          "zh": "三核苷酸缺失通常不会导致移码，其对长度的影响取决于具体情况，但通常是缺失一个氨基酸而不是提前终止。",
+          "es": "Una deleción de 3 nucleótidos generalmente no causa un cambio de marco de lectura, y su efecto sobre la longitud depende del contexto, pero típicamente falta un aminoácido en lugar de una terminación prematura.",
+          "fr": "Une délétion de 3 nucléotides ne provoque généralement pas de décalage du cadre de lecture, et son effet sur la longueur dépend du contexte, mais en général, un acide aminé est manquant plutôt qu'une terminaison prématurée.",
+          "de": "Eine 3-Nukleotid-Deletion verursacht im Allgemeinen keine Leserasterverschiebung, und ihre Auswirkung auf die Länge hängt vom Kontext ab, aber typischerweise fehlt eine Aminosäure anstatt einer vorzeitigen Termination.",
+          "ja": "3ヌクレオチド欠失は一般的にフレームシフトを引き起こさず、長さへの影響は文脈によりますが、通常は早期終結ではなく1つのアミノ酸が欠落します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A 1-nucleotide deletion causes a frameshift, while a 3-nucleotide deletion typically results in the loss or gain of one amino acid without a frameshift.",
+          "zh": "一个核苷酸缺失会导致移码，而三核苷酸缺失通常会导致一个氨基酸的丢失或增加，但不会导致移码。",
+          "es": "Una deleción de 1 nucleótido causa un cambio en el marco de lectura, mientras que una deleción de 3 nucleótidos típicamente resulta en la pérdida o ganancia de un aminoácido sin un cambio en el marco de lectura.",
+          "fr": "Une délétion d'un nucléotide provoque un décalage du cadre de lecture, tandis qu'une délétion de 3 nucléotides entraîne généralement la perte ou le gain d'un acide aminé sans décalage du cadre de lecture.",
+          "de": "Eine 1-Nukleotid-Deletion verursacht eine Leserasterverschiebung, während eine 3-Nukleotid-Deletion typischerweise zum Verlust oder Gewinn einer Aminosäure ohne Leserasterverschiebung führt.",
+          "ja": "1ヌクレオチドの欠失はフレームシフトを引き起こしますが、3ヌクレオチドの欠失は通常、フレームシフトなしに1つのアミノ酸の喪失または獲得をもたらします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A 3-nucleotide deletion always introduces a premature stop codon, while a 1-nucleotide deletion only changes one amino acid.",
+          "zh": "三核苷酸缺失总是引入一个提前终止密码子，而一个核苷酸缺失只会改变一个氨基酸。",
+          "es": "Una deleción de 3 nucleótidos siempre introduce un codón de parada prematuro, mientras que una deleción de 1 nucleótido solo cambia un aminoácido.",
+          "fr": "Une délétion de 3 nucléotides introduit toujours un codon stop prématuré, tandis qu'une délétion d'un nucléotide ne modifie qu'un seul acide aminé.",
+          "de": "Eine 3-Nukleotid-Deletion führt immer zu einem vorzeitigen Stoppcodon, während eine 1-Nukleotid-Deletion nur eine Aminosäure ändert.",
+          "ja": "3ヌクレオチドの欠失は常に早期終止コドンを導入し、1ヌクレオチドの欠失は1つのアミノ酸のみを変更します。"
+        },
+        "feedback": {
+          "en": "A 3-nucleotide deletion removes an amino acid, not necessarily introducing a stop codon. A 1-nucleotide deletion causes a frameshift, changing multiple amino acids downstream, not just one.",
+          "zh": "三核苷酸缺失是移除一个氨基酸，不一定引入终止密码子。一个核苷酸缺失会导致移码，改变下游多个氨基酸，而非仅仅一个。",
+          "es": "Una deleción de 3 nucleótidos elimina un aminoácido, no necesariamente introduce un codón de parada. Una deleción de 1 nucleótido causa un cambio de marco de lectura, cambiando múltiples aminoácidos aguas abajo, no solo uno.",
+          "fr": "Une délétion de 3 nucléotides supprime un acide aminé, n'introduisant pas nécessairement un codon stop. Une délétion d'un nucléotide provoque un décalage du cadre de lecture, modifiant plusieurs acides aminés en aval, pas un seul.",
+          "de": "Eine 3-Nukleotid-Deletion entfernt eine Aminosäure und führt nicht unbedingt ein Stoppcodon ein. Eine 1-Nukleotid-Deletion verursacht eine Leserasterverschiebung, die mehrere Aminosäuren stromabwärts ändert, nicht nur eine.",
+          "ja": "3ヌクレオチドの欠失はアミノ酸を除去し、必ずしも終止コドンを導入するわけではありません。1ヌクレオチドの欠失はフレームシフトを引き起こし、下流の複数のアミノ酸を変更し、1つだけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both types of deletions only affect the mRNA sequence, not the protein sequence.",
+          "zh": "这两种缺失都只影响mRNA序列，不影响蛋白质序列。",
+          "es": "Ambos tipos de deleciones solo afectan la secuencia de ARNm, no la secuencia de proteínas.",
+          "fr": "Les deux types de délétions n'affectent que la séquence d'ARNm, pas la séquence protéique.",
+          "de": "Beide Arten von Deletionen betreffen nur die mRNA-Sequenz, nicht die Proteinsequenz.",
+          "ja": "どちらのタイプの欠失もmRNA配列のみに影響し、タンパク質配列には影響しません。"
+        },
+        "feedback": {
+          "en": "Both types of deletions profoundly affect the protein sequence, either by changing the reading frame or by removing amino acids.",
+          "zh": "这两种缺失都会深刻影响蛋白质序列，无论是通过改变读码框还是通过移除氨基酸。",
+          "es": "Ambos tipos de deleciones afectan profundamente la secuencia de proteínas, ya sea cambiando el marco de lectura o eliminando aminoácidos.",
+          "fr": "Les deux types de délétions affectent profondément la séquence protéique, soit en modifiant le cadre de lecture, soit en supprimant des acides aminés.",
+          "de": "Beide Arten von Deletionen beeinflussen die Proteinsequenz tiefgreifend, entweder durch eine Änderung des Leserasters oder durch das Entfernen von Aminosäuren.",
+          "ja": "どちらのタイプの欠失も、読み枠を変えるか、アミノ酸を除去することによって、タンパク質配列に深く影響します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "A 1-nucleotide deletion causes a frameshift because it shifts the entire reading frame downstream, altering every subsequent codon and leading to a vastly different polypeptide and often a premature stop. In contrast, a 3-nucleotide deletion removes an entire codon (or multiple codons in multiples of three), which means the reading frame downstream remains intact. This typically results in the loss of one or more specific amino acids, but the rest of the polypeptide sequence is usually unaffected, as stated in the figure notes.",
+      "zh": "一个核苷酸缺失会导致移码突变，因为它会使整个下游的读码框发生位移，从而改变所有后续的密码子，导致产生截然不同的多肽链，并常出现提前终止。相比之下，三核苷酸缺失会移除一个完整的密码子（或多个三的倍数的密码子），这意味着下游的读码框保持不变。这通常会导致一个或多个特定氨基酸的缺失，但多肽链的其余序列通常不受影响，如图注所示。",
+      "es": "Una deleción de 1 nucleótido causa un cambio en el marco de lectura porque desplaza todo el marco de lectura aguas abajo, alterando cada codón subsiguiente y llevando a un polipéptido muy diferente y a menudo a una parada prematura. En contraste, una deleción de 3 nucleótidos elimina un codón completo (o múltiples codones en múltiplos de tres), lo que significa que el marco de lectura aguas abajo permanece intacto. Esto típicamente resulta en la pérdida de uno o más aminoácidos específicos, pero el resto de la secuencia del polipéptido suele no verse afectado, como se indica en las notas de la figura.",
+      "fr": "Une délétion d'un nucléotide provoque un décalage du cadre de lecture car elle décale l'ensemble du cadre de lecture en aval, altérant chaque codon suivant et conduisant à un polypeptide très différent et souvent à un codon stop prématuré. En revanche, une délétion de 3 nucléotides supprime un codon entier (ou plusieurs codons par multiples de trois), ce qui signifie que le cadre de lecture en aval reste intact. Cela entraîne généralement la perte d'un ou plusieurs acides aminés spécifiques, mais le reste de la séquence polypeptidique n'est généralement pas affecté, comme indiqué dans les notes de la figure.",
+      "de": "Eine 1-Nukleotid-Deletion verursacht eine Leserasterverschiebung, da sie das gesamte Leseraster stromabwärts verschiebt, wodurch jeder nachfolgende Codon verändert wird und ein stark abweichendes Polypeptid sowie oft ein vorzeitiger Stopp entstehen. Im Gegensatz dazu entfernt eine 3-Nukleotid-Deletion einen gesamten Codon (oder mehrere Codons in Dreier-Vielfachen), was bedeutet, dass das Leseraster stromabwärts intakt bleibt. Dies führt typischerweise zum Verlust einer oder mehrerer spezifischer Aminosäuren, aber der Rest der Polypeptidsequenz ist in der Regel nicht betroffen, wie in den Abbildungsnotizen angegeben.",
+      "ja": "1ヌクレオチドの欠失は、下流の読み枠全体をシフトさせるためフレームシフトを引き起こし、その後のすべてのコドンを変化させ、大きく異なるポリペプチドや早期終止コドンにつながることがよくあります。対照的に、3ヌクレオチドの欠失はコドン全体（または3の倍数の複数のコドン）を除去するため、下流の読み枠はそのまま維持されます。これにより、通常、1つまたは複数の特定のアミノ酸が失われますが、ポリペプチド配列の残りの部分は通常影響を受けません。これは図の注釈に記載されています。"
+    }
+  },
+  {
+    "page_number": 407,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text describes a mutation in the tyrosinase gene of the Asinara donkey where a C is changed to a G. This leads to an albino phenotype because a histidine is added instead of an aspartic acid, rendering the enzyme nonfunctional. Which type of small-scale mutation best describes this specific change?",
+      "zh": "文本描述了阿西纳拉驴酪氨酸酶基因中的一种突变，其中C被改变为G。这导致了白化病表型，因为组氨酸取代了天冬氨酸，使得酶失去功能。哪种小规模突变最能描述这种特定变化？",
+      "es": "El texto describe una mutación en el gen de la tirosinasa del burro Asinara donde una C se cambia por una G. Esto lleva a un fenotipo albino porque se añade una histidina en lugar de un ácido aspártico, lo que hace que la enzima no sea funcional. ¿Qué tipo de mutación a pequeña escala describe mejor este cambio específico?",
+      "fr": "Le texte décrit une mutation dans le gène de la tyrosinase de l'âne Asinara où un C est changé en G. Cela conduit à un phénotype albinos car une histidine est ajoutée à la place d'un acide aspartique, rendant l'enzyme non fonctionnelle. Quel type de mutation à petite échelle décrit le mieux ce changement spécifique ?",
+      "de": "Der Text beschreibt eine Mutation im Tyrosinase-Gen des Asinara-Esels, bei der ein C zu einem G verändert wird. Dies führt zu einem Albinismus-Phänotyp, weil anstelle einer Asparaginsäure eine Histidin hinzugefügt wird, wodurch das Enzym funktionsunfähig wird. Welche Art von Kleinmutation beschreibt diese spezifische Veränderung am besten?",
+      "ja": "テキストは、アシナラロバのチロシナーゼ遺伝子におけるCがGに変化する突然変異について説明しています。これにより、アスパラギン酸の代わりにヒスチジンが追加され、酵素が機能不全になるため、アルビノの表現型が生じます。この特定の変化を最もよく表す小規模変異の種類は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Silent mutation.",
+          "zh": "沉默突变。",
+          "es": "Mutación silenciosa.",
+          "fr": "Mutation silencieuse.",
+          "de": "Stille Mutation.",
+          "ja": "サイレント変異。"
+        },
+        "feedback": {
+          "en": "A silent mutation results in no change to the amino acid sequence, but here an aspartic acid is replaced by histidine.",
+          "zh": "沉默突变不会导致氨基酸序列的改变，但此例中天冬氨酸被组氨酸取代了。",
+          "es": "Una mutación silenciosa no produce cambios en la secuencia de aminoácidos, pero aquí un ácido aspártico es reemplazado por histidina.",
+          "fr": "Une mutation silencieuse n'entraîne aucun changement dans la séquence d'acides aminés, mais ici un acide aspartique est remplacé par une histidine.",
+          "de": "Eine stille Mutation führt zu keiner Änderung der Aminosäuresequenz, hier wird jedoch Asparaginsäure durch Histidin ersetzt.",
+          "ja": "サイレント変異はアミノ酸配列に変化をもたらしませんが、この例ではアスパラギン酸がヒスチジンに置き換わっています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Nonsense mutation.",
+          "zh": "无义突变。",
+          "es": "Mutación sin sentido.",
+          "fr": "Mutation non-sens.",
+          "de": "Nonsense-Mutation.",
+          "ja": "ナンセンス変異。"
+        },
+        "feedback": {
+          "en": "A nonsense mutation introduces a premature stop codon, but here one amino acid is replaced by another.",
+          "zh": "无义突变会引入提前终止密码子，但此例中一个氨基酸被另一个氨基酸取代了。",
+          "es": "Una mutación sin sentido introduce un codón de parada prematuro, pero aquí un aminoácido es reemplazado por otro.",
+          "fr": "Une mutation non-sens introduit un codon stop prématuré, mais ici un acide aminé est remplacé par un autre.",
+          "de": "Eine Nonsense-Mutation führt zu einem vorzeitigen Stoppcodon, hier wird jedoch eine Aminosäure durch eine andere ersetzt.",
+          "ja": "ナンセンス変異は早期終止コドンを導入しますが、この例では1つのアミノ酸が別のアミノ酸に置き換わっています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Frameshift mutation.",
+          "zh": "移码突变。",
+          "es": "Mutación con cambio de marco de lectura.",
+          "fr": "Mutation avec décalage du cadre de lecture.",
+          "de": "Leserasterverschiebung.",
+          "ja": "フレームシフト変異。"
+        },
+        "feedback": {
+          "en": "A frameshift mutation involves an insertion or deletion of nucleotides not in multiples of three, leading to a shift in the reading frame. This example describes a single base substitution.",
+          "zh": "移码突变涉及非三的倍数的核苷酸插入或缺失，导致读码框的移动。此例描述的是单碱基替换。",
+          "es": "Una mutación con cambio de marco de lectura implica una inserción o deleción de nucleótidos que no son múltiplos de tres, lo que lleva a un cambio en el marco de lectura. Este ejemplo describe una sustitución de una sola base.",
+          "fr": "Une mutation avec décalage du cadre de lecture implique une insertion ou une délétion de nucléotides non multiples de trois, entraînant un décalage du cadre de lecture. Cet exemple décrit une substitution d'une seule base.",
+          "de": "Eine Leserasterverschiebung beinhaltet eine Insertion oder Deletion von Nukleotiden, die keine Vielfachen von drei sind, was zu einer Verschiebung des Leserasters führt. Dieses Beispiel beschreibt eine Einzelbasensubstitution.",
+          "ja": "フレームシフト変異は、3の倍数ではないヌクレオチドの挿入または欠失を含み、読み枠のずれを引き起こします。この例は単一塩基置換を説明しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Missense mutation.",
+          "zh": "错义突变。",
+          "es": "Mutación de sentido erróneo.",
+          "fr": "Mutation faux-sens.",
+          "de": "Missense-Mutation.",
+          "ja": "ミスセンス変異。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that a C is changed to a G, which is a nucleotide-pair substitution. This substitution leads to a different amino acid (histidine instead of aspartic acid) being incorporated into the protein. This change of one amino acid to another due to a single nucleotide substitution is the definition of a missense mutation. The resulting loss of enzyme function and albino phenotype are consequences of this specific missense mutation.",
+      "zh": "文本明确指出C被改变为G，这是一种核苷酸对替换。这种替换导致了不同的氨基酸（组氨酸代替天冬氨酸）被掺入蛋白质中。由于单个核苷酸替换导致一个氨基酸变为另一个氨基酸的这种变化，正是错义突变的定义。酶功能丧失和白化病表型是这种特定错义突变的后果。",
+      "es": "El texto establece explícitamente que una C se cambia por una G, lo cual es una sustitución de pares de nucleótidos. Esta sustitución conduce a la incorporación de un aminoácido diferente (histidina en lugar de ácido aspártico) en la proteína. Este cambio de un aminoácido por otro debido a una sustitución de un solo nucleótido es la definición de una mutación de sentido erróneo. La consiguiente pérdida de la función enzimática y el fenotipo albino son consecuencias de esta mutación de sentido erróneo específica.",
+      "fr": "Le texte indique explicitement qu'un C est changé en G, ce qui est une substitution de paire de nucléotides. Cette substitution conduit à l'incorporation d'un acide aminé différent (l'histidine au lieu de l'acide aspartique) dans la protéine. Ce changement d'un acide aminé par un autre dû à une substitution d'un seul nucléotide est la définition d'une mutation faux-sens. La perte de fonction enzymatique et le phénotype albinos qui en résultent sont des conséquences de cette mutation faux-sens spécifique.",
+      "de": "Der Text besagt ausdrücklich, dass ein C zu einem G verändert wird, was eine Nukleotid-Basenpaar-Substitution ist. Diese Substitution führt dazu, dass eine andere Aminosäure (Histidin anstelle von Asparaginsäure) in das Protein eingebaut wird. Diese Änderung einer Aminosäure in eine andere aufgrund einer einzelnen Nukleotidsubstitution ist die Definition einer Missense-Mutation. Der daraus resultierende Verlust der Enzymfunktion und der Albinismus-Phänotyp sind Folgen dieser spezifischen Missense-Mutation.",
+      "ja": "テキストでは、CがGに変化することが明示されており、これはヌクレオチド対置換です。この置換により、異なるアミノ酸（アスパラギン酸の代わりにヒスチジン）がタンパク質に組み込まれます。単一ヌクレオチド置換により1つのアミノ酸が別のものに変化するこの変化は、ミスセンス変異の定義です。結果として生じる酵素機能の喪失とアルビノの表現型は、この特定のミスセンス変異の結果です。"
+    }
+  }
+]

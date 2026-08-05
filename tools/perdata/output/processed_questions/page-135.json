@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 135,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements correctly highlights a key difference between DNA and RNA molecules as described in the text?",
+      "zh": "以下哪项陈述正确地指出了文本中描述的DNA和RNA分子之间的关键区别？",
+      "es": "¿Cuál de las siguientes afirmaciones resalta correctamente una diferencia clave entre las moléculas de ADN y ARN, tal como se describe en el texto?",
+      "fr": "Laquelle des affirmations suivantes met correctement en évidence une différence clé entre les molécules d'ADN et d'ARN, telle que décrite dans le texte ?",
+      "de": "Welche der folgenden Aussagen hebt eine wesentliche Differenz zwischen DNA- und RNA-Molekülen, wie im Text beschrieben, korrekt hervor?",
+      "ja": "本文に記載されているDNA分子とRNA分子の主な違いを正しく示している記述は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "DNA contains thymine (T) and RNA contains uracil (U), but both utilize adenine (A), guanine (G), and cytosine (C).",
+          "zh": "DNA含有胸腺嘧啶（T），RNA含有尿嘧啶（U），但两者都使用腺嘌呤（A）、鸟嘌呤（G）和胞嘧啶（C）。",
+          "es": "El ADN contiene timina (T) y el ARN contiene uracilo (U), pero ambos utilizan adenina (A), guanina (G) y citosina (C).",
+          "fr": "L'ADN contient de la thymine (T) et l'ARN contient de l'uracile (U), mais tous deux utilisent l'adénine (A), la guanine (G) et la cytosine (C).",
+          "de": "DNA enthält Thymin (T) und RNA enthält Uracil (U), aber beide verwenden Adenin (A), Guanin (G) und Cytosin (C).",
+          "ja": "DNAはチミン（T）を含み、RNAはウラシル（U）を含むが、どちらもアデニン（A）、グアニン（G）、シトシン（C）を利用する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "DNA is typically a single strand, while RNA forms a double helix.",
+          "zh": "DNA通常是单链，而RNA形成双螺旋。",
+          "es": "El ADN es típicamente una sola cadena, mientras que el ARN forma una doble hélice.",
+          "fr": "L'ADN est généralement une seule chaîne, tandis que l'ARN forme une double hélice.",
+          "de": "DNA ist typischerweise ein Einzelstrang, während RNA eine Doppelhelix bildet.",
+          "ja": "DNAは通常一本鎖であり、RNAは二重らせんを形成する。"
+        },
+        "feedback": {
+          "en": "Inaccurate; DNA typically forms a double helix, while RNA is often single-stranded but can form complex 3D shapes through internal base pairing.",
+          "zh": "不准确；DNA通常形成双螺旋，而RNA通常是单链，但可以通过内部碱基配对形成复杂的3D形状。",
+          "es": "Inexacto; el ADN típicamente forma una doble hélice, mientras que el ARN a menudo es monocatenario pero puede formar formas 3D complejas a través del apareamiento de bases interno.",
+          "fr": "Inexact ; l'ADN forme typiquement une double hélice, tandis que l'ARN est souvent monocaténaire mais peut former des formes 3D complexes par appariement interne des bases.",
+          "de": "Ungenau; DNA bildet typischerweise eine Doppelhelix, während RNA oft einzelsträngig ist, aber durch interne Basenpaarung komplexe 3D-Formen annehmen kann.",
+          "ja": "不正確です。DNAは通常二重らせんを形成しますが、RNAは一本鎖であることが多いですが、内部の塩基対形成によって複雑な3D形状を形成できます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "DNA relies on hydrogen bonds for base pairing, whereas RNA does not.",
+          "zh": "DNA依靠氢键进行碱基配对，而RNA不依靠。",
+          "es": "El ADN depende de los enlaces de hidrógeno para el apareamiento de bases, mientras que el ARN no.",
+          "fr": "L'ADN s'appuie sur des liaisons hydrogène pour l'appariement des bases, tandis que l'ARN ne le fait pas.",
+          "de": "DNA ist für die Basenpaarung auf Wasserstoffbrücken angewiesen, während RNA dies nicht ist.",
+          "ja": "DNAは塩基対形成に水素結合を利用するが、RNAは利用しない。"
+        },
+        "feedback": {
+          "en": "Incorrect; both DNA and RNA utilize hydrogen bonds for base pairing, which is crucial for their structures and functions.",
+          "zh": "不正确；DNA和RNA都利用氢键进行碱基配对，这对它们的结构和功能至关重要。",
+          "es": "Incorrecto; tanto el ADN como el ARN utilizan enlaces de hidrógeno para el apareamiento de bases, lo cual es crucial para sus estructuras y funciones.",
+          "fr": "Incorrect ; l'ADN et l'ARN utilisent tous deux des liaisons hydrogène pour l'appariement des bases, ce qui est crucial pour leurs structures et fonctions.",
+          "de": "Falsch; sowohl DNA als auch RNA verwenden Wasserstoffbrückenbindungen zur Basenpaarung, was für ihre Strukturen und Funktionen entscheidend ist.",
+          "ja": "間違いです。DNAとRNAの両方が塩基対形成に水素結合を利用しており、これはその構造と機能にとって不可欠です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA molecules are generally shorter and less variable in shape compared to RNA molecules.",
+          "zh": "与RNA分子相比，DNA分子通常更短且形状变化较小。",
+          "es": "Las moléculas de ADN son generalmente más cortas y menos variables en forma en comparación con las moléculas de ARN.",
+          "fr": "Les molécules d'ADN sont généralement plus courtes et moins variables en forme par rapport aux molécules d'ARN.",
+          "de": "DNA-Moleküle sind im Allgemeinen kürzer und in ihrer Form weniger variabel als RNA-Moleküle.",
+          "ja": "DNA分子はRNA分子と比較して、一般的に短く、形状の変動が少ない。"
+        },
+        "feedback": {
+          "en": "Misleading; DNA molecules are typically very long (thousands to millions of base pairs) and maintain a relatively consistent double helix shape, while RNA molecules are shorter and more variable in shape.",
+          "zh": "误导性；DNA分子通常非常长（数千到数百万个碱基对），并保持相对一致的双螺旋形状，而RNA分子则更短且形状变化更大。",
+          "es": "Engañoso; las moléculas de ADN son típicamente muy largas (miles a millones de pares de bases) y mantienen una forma de doble hélice relativamente consistente, mientras que las moléculas de ARN son más cortas y más variables en forma.",
+          "fr": "Trompeur ; les molécules d'ADN sont typiquement très longues (des milliers à des millions de paires de bases) et conservent une forme de double hélice relativement constante, tandis que les molécules d'ARN sont plus courtes et plus variables en forme.",
+          "de": "Irreführend; DNA-Moleküle sind typischerweise sehr lang (Tausende bis Millionen von Basenpaaren) und behalten eine relativ konsistente Doppelhelixform bei, während RNA-Moleküle kürzer und in ihrer Form variabler sind.",
+          "ja": "誤解を招きます。DNA分子は通常非常に長く（数千から数百万の塩基対）、比較的安定した二重らせん形状を維持する一方、RNA分子はより短く、形状の多様性があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that 'Note that in RNA, adenine (A) pairs with uracil (U); thymine (T) is not present in RNA.' It also mentions that both DNA and RNA use A, G, and C. Therefore, option A accurately describes a key difference.",
+      "zh": "文本明确指出“请注意，在RNA中，腺嘌呤（A）与尿嘧啶（U）配对；RNA中不含胸腺嘧啶（T）。”它还提到DNA和RNA都使用A、G和C。因此，选项A准确地描述了一个关键区别。",
+      "es": "El texto establece explícitamente que 'Tenga en cuenta que en el ARN, la adenina (A) se aparea con el uracilo (U); la timina (T) no está presente en el ARN'. También menciona que tanto el ADN como el ARN utilizan A, G y C. Por lo tanto, la opción A describe con precisión una diferencia clave.",
+      "fr": "Le texte indique explicitement que « Notez que dans l'ARN, l'adénine (A) s'apparie avec l'uracile (U) ; la thymine (T) n'est pas présente dans l'ARN. » Il mentionne également que l'ADN et l'ARN utilisent tous deux A, G et C. Par conséquent, l'option A décrit précisément une différence clé.",
+      "de": "Der Text besagt explizit: „Beachten Sie, dass in der RNA Adenin (A) mit Uracil (U) paart; Thymin (T) ist in der RNA nicht vorhanden.“ Es wird auch erwähnt, dass sowohl DNA als auch RNA A, G und C verwenden. Daher beschreibt Option A eine wesentliche Differenz genau.",
+      "ja": "本文には「RNAではアデニン（A）がウラシル（U）と対になり、チミン（T）はRNAには存在しない」と明記されています。また、DNAとRNAの両方がA、G、Cを使用することも言及されています。したがって、選択肢Aは主要な違いを正確に記述しています。"
+    }
+  },
+  {
+    "page_number": 135,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "If one strand of a DNA molecule has the base sequence 5'-TAGGCCT-3', what would be the sequence of its complementary strand?",
+      "zh": "如果一个DNA分子的其中一条链的碱基序列是5'-TAGGCCT-3'，那么其互补链的序列会是什么？",
+      "es": "Si una hebra de una molécula de ADN tiene la secuencia de bases 5'-TAGGCCT-3', ¿cuál sería la secuencia de su hebra complementaria?",
+      "fr": "Si une chaîne d'une molécule d'ADN a la séquence de bases 5'-TAGGCCT-3', quelle serait la séquence de sa chaîne complémentaire ?",
+      "de": "Wenn ein Strang eines DNA-Moleküls die Basensequenz 5'-TAGGCCT-3' aufweist, wie lautet dann die Sequenz seines komplementären Strangs?",
+      "ja": "DNA分子の一方の鎖の塩基配列が5'-TAGGCCT-3'である場合、その相補鎖の配列は何になりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "3'-ATCCGGA-5'",
+          "zh": "3'-ATCCGGA-5'",
+          "es": "3'-ATCCGGA-5'",
+          "fr": "3'-ATCCGGA-5'",
+          "de": "3'-ATCCGGA-5'",
+          "ja": "3'-ATCCGGA-5'"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "5'-AUCGGAA-3'",
+          "zh": "5'-AUCGGAA-3'",
+          "es": "5'-AUCGGAA-3'",
+          "fr": "5'-AUCGGAA-3'",
+          "de": "5'-AUCGGAA-3'",
+          "ja": "5'-AUCGGAA-3'"
+        },
+        "feedback": {
+          "en": "This sequence contains Uracil (U), which is found in RNA, not DNA. Also, the directionality is incorrect for a complementary strand.",
+          "zh": "这个序列含有尿嘧啶（U），它存在于RNA中，而非DNA。此外，互补链的方向性也不正确。",
+          "es": "Esta secuencia contiene Uracilo (U), que se encuentra en el ARN, no en el ADN. Además, la direccionalidad es incorrecta para una hebra complementaria.",
+          "fr": "Cette séquence contient de l'Uracile (U), que l'on trouve dans l'ARN, pas l'ADN. De plus, la directionnalité est incorrecte pour un brin complémentaire.",
+          "de": "Diese Sequenz enthält Uracil (U), das in RNA, nicht in DNA vorkommt. Auch ist die Polarität für einen komplementären Strang falsch.",
+          "ja": "この配列にはウラシル（U）が含まれていますが、これはDNAではなくRNAに見られる塩基です。また、相補鎖としての方向性も誤っています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "3'-AGGCGGT-5'",
+          "zh": "3'-AGGCGGT-5'",
+          "es": "3'-AGGCGGT-5'",
+          "fr": "3'-AGGCGGT-5'",
+          "de": "3'-AGGCGGT-5'",
+          "ja": "3'-AGGCGGT-5'"
+        },
+        "feedback": {
+          "en": "The base pairing rules (A-T, G-C) are not correctly applied here. For example, A pairs with T, not G.",
+          "zh": "此处未正确应用碱基配对规则（A-T, G-C）。例如，A应与T配对，而非G。",
+          "es": "Las reglas de apareamiento de bases (A-T, G-C) no se aplican correctamente aquí. Por ejemplo, la A se aparea con la T, no con la G.",
+          "fr": "Les règles d'appariement des bases (A-T, G-C) ne sont pas correctement appliquées ici. Par exemple, A s'apparie avec T, pas avec G.",
+          "de": "Die Basenpaarungsregeln (A-T, G-C) werden hier nicht korrekt angewendet. Zum Beispiel paart sich A mit T, nicht mit G.",
+          "ja": "ここでは塩基対形成の規則（A-T、G-C）が正しく適用されていません。例えば、AはGではなくTと対になります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "5'-TAGGCCT-3'",
+          "zh": "5'-TAGGCCT-3'",
+          "es": "5'-TAGGCCT-3'",
+          "fr": "5'-TAGGCCT-3'",
+          "de": "5'-TAGGCCT-3'",
+          "ja": "5'-TAGGCCT-3'"
+        },
+        "feedback": {
+          "en": "This is the original strand, not its complementary counterpart. Complementary strands have paired bases and run in opposite directions.",
+          "zh": "这是原始链，而不是其互补链。互补链具有配对的碱基并以相反方向运行。",
+          "es": "Esta es la hebra original, no su contraparte complementaria. Las hebras complementarias tienen bases apareadas y corren en direcciones opuestas.",
+          "fr": "C'est le brin original, pas son homologue complémentaire. Les brins complémentaires ont des bases appariées et courent dans des directions opposées.",
+          "de": "Dies ist der Originalstrang, nicht sein komplementäres Gegenstück. Komplementäre Stränge haben gepaarte Basen und verlaufen in entgegengesetzte Richtungen.",
+          "ja": "これは元の鎖であり、その相補鎖ではありません。相補鎖は対になった塩基を持ち、逆方向に走ります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "In DNA, adenine (A) pairs with thymine (T), and guanine (G) pairs with cytosine (C). Additionally, the complementary strand runs in the opposite 5' to 3' direction. So, for 5'-TAGGCCT-3', the complementary strand is 3'-ATCCGGA-5'.",
+      "zh": "在DNA中，腺嘌呤（A）与胸腺嘧啶（T）配对，鸟嘌呤（G）与胞嘧啶（C）配对。此外，互补链以相反的5'到3'方向运行。因此，对于5'-TAGGCCT-3'，互补链是3'-ATCCGGA-5'。",
+      "es": "En el ADN, la adenina (A) se aparea con la timina (T), y la guanina (G) se aparea con la citosina (C). Además, la hebra complementaria corre en la dirección opuesta de 5' a 3'. Por lo tanto, para 5'-TAGGCCT-3', la hebra complementaria es 3'-ATCCGGA-5'.",
+      "fr": "Dans l'ADN, l'adénine (A) s'apparie avec la thymine (T), et la guanine (G) s'apparie avec la cytosine (C). De plus, le brin complémentaire court dans la direction opposée de 5' à 3'. Ainsi, pour 5'-TAGGCCT-3', le brin complémentaire est 3'-ATCCGGA-5'.",
+      "de": "In der DNA paart sich Adenin (A) mit Thymin (T) und Guanin (G) mit Cytosin (C). Zudem verläuft der komplementäre Strang in der entgegengesetzten 5'-zu-3'-Richtung. Für 5'-TAGGCCT-3' lautet der komplementäre Strang also 3'-ATCCGGA-5'.",
+      "ja": "DNAでは、アデニン（A）はチミン（T）と対になり、グアニン（G）はシトシン（C）と対になります。さらに、相補鎖は逆の5'から3'方向で走ります。したがって、5'-TAGGCCT-3'に対する相補鎖は3'-ATCCGGA-5'です。"
+    }
+  },
+  {
+    "page_number": 135,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the information provided regarding transfer RNA (tRNA) molecules:",
+      "zh": "根据所提供的关于转运RNA（tRNA）分子的信息：",
+      "es": "Basándose en la información proporcionada sobre las moléculas de ARN de transferencia (tRNA):",
+      "fr": "D'après les informations fournies concernant les molécules d'ARN de transfert (ARNt) :",
+      "de": "Basierend auf den bereitgestellten Informationen zu Transfer-RNA (tRNA)-Molekülen:",
+      "ja": "提供された転移RNA（tRNA）分子に関する情報に基づいて："
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "tRNA molecules are typically very long, composed of thousands of nucleotides.",
+          "zh": "tRNA分子通常很长，由数千个核苷酸组成。",
+          "es": "Las moléculas de tRNA son típicamente muy largas, compuestas por miles de nucleótidos.",
+          "fr": "Les molécules d'ARNt sont typiquement très longues, composées de milliers de nucléotides.",
+          "de": "tRNA-Moleküle sind typischerweise sehr lang und bestehen aus Tausenden von Nukleotiden.",
+          "ja": "tRNA分子は通常非常に長く、数千のヌクレオチドから構成されている。"
+        },
+        "feedback": {
+          "en": "Inaccurate; the text states that a tRNA molecule is about 80 nucleotides in length, which is relatively short compared to DNA.",
+          "zh": "不准确；文本指出tRNA分子长度约为80个核苷酸，这与DNA相比是相对较短的。",
+          "es": "Inexacto; el texto indica que una molécula de tRNA tiene aproximadamente 80 nucleótidos de longitud, lo cual es relativamente corto en comparación con el ADN.",
+          "fr": "Inexact ; le texte indique qu'une molécule d'ARNt mesure environ 80 nucléotides de long, ce qui est relativement court comparé à l'ADN.",
+          "de": "Ungenau; der Text besagt, dass ein tRNA-Molekül etwa 80 Nukleotide lang ist, was im Vergleich zur DNA relativ kurz ist.",
+          "ja": "不正確です。本文にはtRNA分子の長さは約80ヌクレオチドであると記載されており、DNAと比較すると比較的短いです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The L-shaped structure of tRNA is primarily due to complementary base pairing within the single RNA strand.",
+          "zh": "tRNA的L形结构主要是由于单条RNA链内部的互补碱基配对。",
+          "es": "La estructura en forma de L del tRNA se debe principalmente al apareamiento de bases complementarias dentro de la única hebra de ARN.",
+          "fr": "La structure en forme de L de l'ARNt est principalement due à l'appariement complémentaire des bases au sein du brin unique d'ARN.",
+          "de": "Die L-förmige Struktur der tRNA ist hauptsächlich auf die komplementäre Basenpaarung innerhalb des einzelnen RNA-Strangs zurückzuführen.",
+          "ja": "tRNAのL字型構造は、主に単一のRNA鎖内の相補的な塩基対形成によるものである。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "tRNA contains thymine (T) as one of its nitrogenous bases.",
+          "zh": "tRNA含有胸腺嘧啶（T）作为其含氮碱基之一。",
+          "es": "El tRNA contiene timina (T) como una de sus bases nitrogenadas.",
+          "fr": "L'ARNt contient de la thymine (T) comme l'une de ses bases azotées.",
+          "de": "tRNA enthält Thymin (T) als eine ihrer Stickstoffbasen.",
+          "ja": "tRNAには窒素塩基の一つとしてチミン（T）が含まれている。"
+        },
+        "feedback": {
+          "en": "Incorrect; RNA molecules, including tRNA, contain uracil (U) instead of thymine (T).",
+          "zh": "不正确；RNA分子，包括tRNA，含有尿嘧啶（U）而不是胸腺嘧啶（T）。",
+          "es": "Incorrecto; las moléculas de ARN, incluido el tRNA, contienen uracilo (U) en lugar de timina (T).",
+          "fr": "Incorrect ; les molécules d'ARN, y compris l'ARNt, contiennent de l'uracile (U) au lieu de la thymine (T).",
+          "de": "Falsch; RNA-Moleküle, einschließlich tRNA, enthalten Uracil (U) anstelle von Thymin (T).",
+          "ja": "間違いです。tRNAを含むRNA分子は、チミン（T）の代わりにウラシル（U）を含んでいます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The main function of tRNA is to store genetic information in the cell's nucleus.",
+          "zh": "tRNA的主要功能是在细胞核中储存遗传信息。",
+          "es": "La función principal del tRNA es almacenar información genética en el núcleo de la célula.",
+          "fr": "La fonction principale de l'ARNt est de stocker l'information génétique dans le noyau de la cellule.",
+          "de": "Die Hauptfunktion der tRNA besteht darin, genetische Informationen im Zellkern zu speichern.",
+          "ja": "tRNAの主な機能は、細胞核内に遺伝情報を保存することである。"
+        },
+        "feedback": {
+          "en": "Incorrect; tRNA's main function is to bring specific amino acids to the ribosome during protein synthesis, not to store genetic information.",
+          "zh": "不正确；tRNA的主要功能是在蛋白质合成过程中将特定的氨基酸带到核糖体，而不是储存遗传信息。",
+          "es": "Incorrecto; la función principal del tRNA es llevar aminoácidos específicos al ribosoma durante la síntesis de proteínas, no almacenar información genética.",
+          "fr": "Incorrect ; la fonction principale de l'ARNt est d'apporter des acides aminés spécifiques au ribosome pendant la synthèse des protéines, et non de stocker l'information génétique.",
+          "de": "Falsch; die Hauptfunktion der tRNA besteht darin, spezifische Aminosäuren während der Proteinsynthese zum Ribosom zu transportieren, nicht genetische Informationen zu speichern.",
+          "ja": "間違いです。tRNAの主な機能は、タンパク質合成中に特定のアミノ酸をリボソームに運ぶことであり、遺伝情報を保存することではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that 'A tRNA molecule is about 80 nucleotides in length. Its functional shape results from base pairing between nucleotides where complementary stretches of the molecule can run antiparallel to each other (Figure 5.24b).'",
+      "zh": "文本指出“一个tRNA分子大约有80个核苷酸长。它的功能形状是由于分子中互补区域的核苷酸之间可以反平行运行的碱基配对形成的（图5.24b）。”",
+      "es": "El texto afirma que 'Una molécula de tRNA tiene aproximadamente 80 nucleótidos de longitud. Su forma funcional resulta del apareamiento de bases entre nucleótidos donde tramos complementarios de la molécula pueden correr antiparalelos entre sí (Figura 5.24b).'",
+      "fr": "Le texte indique qu'« une molécule d'ARNt mesure environ 80 nucléotides de long. Sa forme fonctionnelle résulte de l'appariement des bases entre les nucléotides où des tronçons complémentaires de la molécule peuvent être antiparallèles les uns aux autres (Figure 5.24b). »",
+      "de": "Der Text besagt: „Ein tRNA-Molekül ist etwa 80 Nukleotide lang. Seine funktionale Form resultiert aus der Basenpaarung zwischen Nukleotiden, wobei komplementäre Abschnitte des Moleküls antiparallel zueinander verlaufen können (Abbildung 5.24b).“",
+      "ja": "本文には「tRNA分子は約80ヌクレオチドの長さである。その機能的な形状は、相補的な分子の部分が互いに逆平行に走るヌクレオチド間の塩基対形成に起因する（図5.24b）。」と記載されています。"
+    }
+  },
+  {
+    "page_number": 135,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text and Figure 5.24a, which statement accurately describes the structure of a DNA double helix?",
+      "zh": "根据文本和图5.24a，哪项陈述准确描述了DNA双螺旋的结构？",
+      "es": "Según el texto y la Figura 5.24a, ¿qué afirmación describe con precisión la estructura de una doble hélice de ADN?",
+      "fr": "Selon le texte et la Figure 5.24a, quelle affirmation décrit précisément la structure d'une double hélice d'ADN ?",
+      "de": "Gemäß dem Text und Abbildung 5.24a, welche Aussage beschreibt die Struktur einer DNA-Doppelhelix präzise?",
+      "ja": "本文と図5.24aによると、DNA二重らせんの構造を正確に記述しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The sugar-phosphate backbones are located on the outside of the helix, and the nitrogenous bases are paired in the interior.",
+          "zh": "糖-磷酸骨架位于螺旋的外部，而含氮碱基在内部配对。",
+          "es": "Los esqueletos de azúcar-fosfato se encuentran en el exterior de la hélice, y las bases nitrogenadas se aparean en el interior.",
+          "fr": "Les squelettes sucre-phosphate sont situés à l'extérieur de l'hélice, et les bases azotées sont appariées à l'intérieur.",
+          "de": "Die Zucker-Phosphat-Rückgrate befinden sich an der Außenseite der Helix, und die stickstoffhaltigen Basen sind im Inneren gepaart.",
+          "ja": "糖リン酸骨格はらせんの外側に位置し、窒素塩基は内部で対を形成している。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The two polynucleotide strands run in parallel directions (both 5' to 3').",
+          "zh": "两条多核苷酸链以平行方向（都从5'到3'）运行。",
+          "es": "Las dos hebras de polinucleótidos corren en direcciones paralelas (ambas de 5' a 3').",
+          "fr": "Les deux brins polynucléotidiques courent dans des directions parallèles (tous deux de 5' à 3').",
+          "de": "Die beiden Polynukleotidstränge verlaufen parallel zueinander (beide von 5' nach 3').",
+          "ja": "2本のポリヌクレオチド鎖は平行な方向（両方とも5'から3'）に走る。"
+        },
+        "feedback": {
+          "en": "Incorrect; the two strands of a DNA double helix run in opposite directions, referred to as antiparallel (one 5'->3' and the other 3'->5').",
+          "zh": "不正确；DNA双螺旋的两条链以相反的方向运行，称为反平行（一条是5'到3'，另一条是3'到5'）。",
+          "es": "Incorrecto; las dos hebras de una doble hélice de ADN corren en direcciones opuestas, denominadas antiparalelas (una de 5' a 3' y la otra de 3' a 5').",
+          "fr": "Incorrect ; les deux brins d'une double hélice d'ADN courent dans des directions opposées, appelées antiparallèles (l'un de 5' à 3' et l'autre de 3' à 5').",
+          "de": "Falsch; die beiden Stränge einer DNA-Doppelhelix verlaufen in entgegengesetzte Richtungen, bekannt als antiparallel (einer von 5' nach 3' und der andere von 3' nach 5').",
+          "ja": "間違いです。DNA二重らせんの2本の鎖は、アンチパラレル（一方が5'から3'、もう一方が3'から5'）と呼ばれる逆方向に走ります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Hydrogen bonds primarily link the sugar-phosphate backbones together.",
+          "zh": "氢键主要连接糖-磷酸骨架。",
+          "es": "Los enlaces de hidrógeno unen principalmente los esqueletos de azúcar-fosfato.",
+          "fr": "Les liaisons hydrogène lient principalement les squelettes sucre-phosphate entre eux.",
+          "de": "Wasserstoffbrückenbindungen verbinden hauptsächlich die Zucker-Phosphat-Rückgrate miteinander.",
+          "ja": "水素結合は主に糖リン酸骨格を結合する。"
+        },
+        "feedback": {
+          "en": "Hydrogen bonds form between the nitrogenous bases that are paired in the interior of the helix, holding the two strands together. The backbones are connected by phosphodiester bonds within each strand.",
+          "zh": "氢键形成于螺旋内部配对的含氮碱基之间，将两条链连接在一起。骨架内部通过磷酸二酯键连接。",
+          "es": "Los enlaces de hidrógeno se forman entre las bases nitrogenadas que están apareadas en el interior de la hélice, manteniendo unidas las dos hebras. Los esqueletos están conectados por enlaces fosfodiéster dentro de cada hebra.",
+          "fr": "Les liaisons hydrogène se forment entre les bases azotées appariées à l'intérieur de l'hélice, maintenant les deux brins ensemble. Les squelettes sont connectés par des liaisons phosphodiester au sein de chaque brin.",
+          "de": "Wasserstoffbrückenbindungen bilden sich zwischen den stickstoffhaltigen Basen, die im Inneren der Helix gepaart sind und die beiden Stränge zusammenhalten. Die Rückgrate sind durch Phosphodiesterbindungen innerhalb jedes Strangs verbunden.",
+          "ja": "水素結合は、らせん内部で対になった窒素塩基間に形成され、2本の鎖を結びつけます。骨格は各鎖内のリン酸ジエステル結合によって結合されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Adenine (A) pairs with cytosine (C), and guanine (G) pairs with thymine (T).",
+          "zh": "腺嘌呤（A）与胞嘧啶（C）配对，鸟嘌呤（G）与胸腺嘧啶（T）配对。",
+          "es": "La adenina (A) se aparea con la citosina (C), y la guanina (G) se aparea con la timina (T).",
+          "fr": "L'adénine (A) s'apparie avec la cytosine (C), et la guanine (G) s'apparie avec la thymine (T).",
+          "de": "Adenin (A) paart sich mit Cytosin (C), und Guanin (G) paart sich mit Thymin (T).",
+          "ja": "アデニン（A）はシトシン（C）と対になり、グアニン（G）はチミン（T）と対になる。"
+        },
+        "feedback": {
+          "en": "Incorrect; in DNA, adenine (A) always pairs with thymine (T), and guanine (G) always pairs with cytosine (C).",
+          "zh": "不正确；在DNA中，腺嘌呤（A）总是与胸腺嘧啶（T）配对，鸟嘌呤（G）总是与胞嘧啶（C）配对。",
+          "es": "Incorrecto; en el ADN, la adenina (A) siempre se aparea con la timina (T), y la guanina (G) siempre se aparea con la citosina (C).",
+          "fr": "Incorrect ; dans l'ADN, l'adénine (A) s'apparie toujours avec la thymine (T), et la guanine (G) s'apparie toujours avec la cytosine (C).",
+          "de": "Falsch; in der DNA paart sich Adenin (A) immer mit Thymin (T), und Guanin (G) paart sich immer mit Cytosin (C).",
+          "ja": "間違いです。DNAでは、アデニン（A）は常にチミン（T）と対になり、グアニン（G）は常にシトシン（C）と対になります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text and Figure 5.24a describe the DNA molecule as having 'sugar-phosphate backbones... on the outside of the helix' and 'nitrogenous bases are paired in the interior of the helix'. Hydrogen bonds hold these paired bases together.",
+      "zh": "文本和图5.24a描述了DNA分子具有“位于螺旋外部的糖-磷酸骨架”和“在螺旋内部配对的含氮碱基”。氢键将这些配对的碱基连接在一起。",
+      "es": "El texto y la Figura 5.24a describen la molécula de ADN con 'esqueletos de azúcar-fosfato... en el exterior de la hélice' y 'bases nitrogenadas apareadas en el interior de la hélice'. Los enlaces de hidrógeno mantienen unidas estas bases apareadas.",
+      "fr": "Le texte et la Figure 5.24a décrivent la molécule d'ADN comme ayant des « squelettes sucre-phosphate... à l'extérieur de l'hélice » et des « bases azotées appariées à l'intérieur de l'hélice ». Les liaisons hydrogène maintiennent ces bases appariées ensemble.",
+      "de": "Der Text und Abbildung 5.24a beschreiben das DNA-Molekül mit „Zucker-Phosphat-Rückgraten… an der Außenseite der Helix“ und „stickstoffhaltigen Basen, die im Inneren der Helix gepaart sind“. Wasserstoffbrückenbindungen halten diese gepaarten Basen zusammen.",
+      "ja": "本文と図5.24aでは、DNA分子は「らせんの外側にある糖リン酸骨格」と「らせん内部で対になった窒素塩基」を持っていると説明されています。水素結合がこれらの対になった塩基を結合しています。"
+    }
+  }
+]

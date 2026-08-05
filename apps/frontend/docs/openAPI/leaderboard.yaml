@@ -1,0 +1,155 @@
+openapi: 3.0.0
+info:
+  title: "Leaderboard API"
+  version: "1.0.0"
+  description: "API for fetching user leaderboard data based on various performance metrics."
+servers:
+  - url: "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1"
+    description: "Production Server"
+  - url: "http://localhost:3000/api/v1"
+    description: "Local Development Server"
+
+paths:
+  /leaderboard:
+    get:
+      tags:
+        - "Social"
+      summary: "Get Leaderboard Data"
+      description: "Retrieves a list of users sorted by various performance metrics (e.g., total questions answered, correct answers, accuracy) within a specified time range."
+      operationId: "getLeaderboard"
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: limit
+          in: query
+          required: false
+          schema:
+            type: integer
+            format: int32
+            minimum: 1
+            default: 10
+          description: "Maximum number of users to return in the leaderboard. Default is 10, max is 100."
+        - name: sortBy
+          in: query
+          required: false
+          schema:
+            type: string
+            enum: [totalAttempts, correctAttempts, accuracy]
+            default: totalAttempts
+          description: "The metric to sort the leaderboard by. 'totalAttempts' (most questions answered), 'correctAttempts' (most correct answers), 'accuracy' (highest correct rate)."
+        - name: startDate
+          in: query
+          required: false
+          schema:
+            type: string
+            format: date-time
+            description: "Filter results to include only answers submitted on or after this date (UTC ISO 8601 format, e.g., '2023-01-01T00:00:00Z')."
+        - name: endDate
+          in: query
+          required: false
+          schema:
+            type: string
+            format: date-time
+            description: "Filter results to include only answers submitted on or before this date (UTC ISO 8601 format, e.g., '2023-01-31T23:59:59Z')."
+      responses:
+        "200":
+          description: "Successfully retrieved leaderboard data."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  data:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/LeaderboardUser"
+              example:
+                ok: true
+                data:
+                  - userId: "user-1"
+                    nickname: "BiologyMaster"
+                    avatarUrl: "https://example.com/avatars/bio_master.png"
+                    totalAttempts: 150
+                    correctAttempts: 140
+                    accuracy: 0.933
+                  - userId: "user-2"
+                    nickname: "QuizWhiz"
+                    avatarUrl: "https://example.com/avatars/quiz_whiz.png"
+                    totalAttempts: 120
+                    correctAttempts: 115
+                    accuracy: 0.958
+                  - userId: "user-3"
+                    nickname: "LearnerX"
+                    avatarUrl: "https://example.com/avatars/learner_x.png"
+                    totalAttempts: 100
+                    correctAttempts: 80
+                    accuracy: 0.8
+        "400":
+          description: "Bad request, e.g., invalid limit or sortBy parameter."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+
+components:
+  schemas:
+    LeaderboardUser:
+      type: object
+      description: "User data for the leaderboard, including performance metrics."
+      properties:
+        userId:
+          type: string
+          description: "Unique ID of the user."
+          example: "user-1"
+        nickname:
+          type: string
+          description: "User's display name."
+          example: "BiologyMaster"
+        avatarUrl:
+          type: string
+          format: uri
+          nullable: true
+          description: "URL of the user's avatar image."
+          example: "https://example.com/avatars/bio_master.png"
+        totalAttempts:
+          type: integer
+          description: "Total number of questions answered by the user."
+          example: 150
+        correctAttempts:
+          type: integer
+          description: "Total number of questions answered correctly by the user."
+          example: 140
+        accuracy:
+          type: number
+          format: float
+          description: "Accuracy rate (correctAttempts / totalAttempts), a value between 0 and 1."
+          example: 0.933
+    ErrorResponse:
+      type: object
+      properties:
+        ok:
+          type: boolean
+          example: false
+        message:
+          type: string
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+      description: "Firebase JWT for API authentication."

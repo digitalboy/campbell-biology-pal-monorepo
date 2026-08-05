@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 405,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following sequences correctly describes the major steps of gene expression in a eukaryotic cell and their respective locations, as depicted in the diagram?",
+      "zh": "根据图示，下列哪项序列正确描述了真核细胞中基因表达的主要步骤及其各自的位置？",
+      "es": "¿Cuál de las siguientes secuencias describe correctamente los pasos principales de la expresión génica en una célula eucariota y sus respectivas ubicaciones, según se representa en el diagrama?",
+      "fr": "Laquelle des séquences suivantes décrit correctement les étapes majeures de l'expression génique dans une cellule eucaryote et leurs emplacements respectifs, tels que représentés dans le diagramme ?",
+      "de": "Welche der folgenden Sequenzen beschreibt korrekt die Hauptschritte der Genexpression in einer eukaryotischen Zelle und ihre jeweiligen Orte, wie im Diagramm dargestellt?",
+      "ja": "図に示されているように、真核細胞における遺伝子発現の主要なステップとそのそれぞれの場所を正しく記述している以下のシーケンスはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Transcription (Cytoplasm) → RNA Processing (Nucleus) → Translation (Cytoplasm)",
+          "zh": "转录（细胞质）→ RNA加工（细胞核）→ 翻译（细胞质）",
+          "es": "Transcripción (Citoplasma) → Procesamiento de ARN (Núcleo) → Traducción (Citoplasma)",
+          "fr": "Transcription (Cytoplasme) → Traitement de l'ARN (Noyau) → Traduction (Cytoplasme)",
+          "de": "Transkription (Zytoplasma) → RNA-Prozessierung (Zellkern) → Translation (Zytoplasma)",
+          "ja": "転写（細胞質）→ RNAプロセシング（核）→ 翻訳（細胞質）"
+        },
+        "feedback": {
+          "en": "Transcription occurs in the nucleus, not the cytoplasm.",
+          "zh": "转录发生在细胞核中，而非细胞质中。",
+          "es": "La transcripción ocurre en el núcleo, no en el citoplasma.",
+          "fr": "La transcription a lieu dans le noyau, pas dans le cytoplasme.",
+          "de": "Die Transkription findet im Zellkern statt, nicht im Zytoplasma.",
+          "ja": "転写は細胞質ではなく、核で起こります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Transcription (Nucleus) → RNA Processing (Nucleus) → Translation (Cytoplasm)",
+          "zh": "转录（细胞核）→ RNA加工（细胞核）→ 翻译（细胞质）",
+          "es": "Transcripción (Núcleo) → Procesamiento de ARN (Núcleo) → Traducción (Citoplasma)",
+          "fr": "Transcription (Noyau) → Traitement de l'ARN (Noyau) → Traduction (Cytoplasme)",
+          "de": "Transkription (Zellkern) → RNA-Prozessierung (Zellkern) → Translation (Zytoplasma)",
+          "ja": "転写（核）→ RNAプロセシング（核）→ 翻訳（細胞質）"
+        },
+        "feedback": {
+          "en": "Correct.",
+          "zh": "正确。",
+          "es": "Correcto.",
+          "fr": "Correct.",
+          "de": "Richtig.",
+          "ja": "正しい。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "RNA Processing (Cytoplasm) → Transcription (Nucleus) → Translation (Nucleus)",
+          "zh": "RNA加工（细胞质）→ 转录（细胞核）→ 翻译（细胞核）",
+          "es": "Procesamiento de ARN (Citoplasma) → Transcripción (Núcleo) → Traducción (Núcleo)",
+          "fr": "Traitement de l'ARN (Cytoplasme) → Transcription (Noyau) → Traduction (Noyau)",
+          "de": "RNA-Prozessierung (Zytoplasma) → Transkription (Zellkern) → Translation (Zellkern)",
+          "ja": "RNAプロセシング（細胞質）→ 転写（核）→ 翻訳（核）"
+        },
+        "feedback": {
+          "en": "RNA processing occurs in the nucleus, and translation occurs in the cytoplasm, not the nucleus.",
+          "zh": "RNA加工发生在细胞核中，翻译发生在细胞质中，而非细胞核中。",
+          "es": "El procesamiento de ARN ocurre en el núcleo, y la traducción ocurre en el citoplasma, no en el núcleo.",
+          "fr": "Le traitement de l'ARN a lieu dans le noyau, et la traduction a lieu dans le cytoplasme, pas dans le noyau.",
+          "de": "Die RNA-Prozessierung findet im Zellkern statt, und die Translation findet im Zytoplasma statt, nicht im Zellkern.",
+          "ja": "RNAプロセシングは細胞質ではなく核で起こり、翻訳は核ではなく細胞質で起こります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Translation (Cytoplasm) → Transcription (Nucleus) → RNA Processing (Cytoplasm)",
+          "zh": "翻译（细胞质）→ 转录（细胞核）→ RNA加工（细胞质）",
+          "es": "Traducción (Citoplasma) → Transcripción (Núcleo) → Procesamiento de ARN (Citoplasma)",
+          "fr": "Traduction (Cytoplasme) → Transcription (Noyau) → Traitement de l'ARN (Cytoplasme)",
+          "de": "Translation (Zytoplasma) → Transkription (Zellkern) → RNA-Prozessierung (Zytoplasma)",
+          "ja": "翻訳（細胞質）→ 転写（核）→ RNAプロセシング（細胞質）"
+        },
+        "feedback": {
+          "en": "The order of processes is incorrect, and RNA processing occurs in the nucleus.",
+          "zh": "过程顺序不正确，且RNA加工发生在细胞核中。",
+          "es": "El orden de los procesos es incorrecto, y el procesamiento de ARN ocurre en el núcleo.",
+          "fr": "L'ordre des processus est incorrect, et le traitement de l'ARN a lieu dans le noyau.",
+          "de": "Die Reihenfolge der Prozesse ist falsch, und die RNA-Prozessierung findet im Zellkern statt.",
+          "ja": "プロセスの順序が誤っており、RNAプロセシングは核で起こります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "In eukaryotic gene expression, transcription occurs in the nucleus, followed by RNA processing (splicing, 5' cap, poly-A tail addition) also in the nucleus. The processed mRNA then moves to the cytoplasm for translation.",
+      "zh": "在真核生物基因表达中，转录发生在细胞核中，随后RNA加工（剪接、5'端帽和Poly-A尾添加）也发生在细胞核中。加工后的mRNA然后移动到细胞质进行翻译。",
+      "es": "En la expresión génica eucariota, la transcripción ocurre en el núcleo, seguida del procesamiento del ARN (empalme, adición de caperuza 5', cola poli-A) también en el núcleo. El ARNm procesado luego se mueve al citoplasma para la traducción.",
+      "fr": "Chez les eucaryotes, la transcription a lieu dans le noyau, suivie du traitement de l'ARN (épissage, ajout de la coiffe 5', de la queue poly-A) également dans le noyau. L'ARNm traité se déplace ensuite vers le cytoplasme pour la traduction.",
+      "de": "Bei der eukaryotischen Genexpression findet die Transkription im Zellkern statt, gefolgt von der RNA-Prozessierung (Spleißen, 5'-Kappe, Poly-A-Schwanz-Addition) ebenfalls im Zellkern. Die prozessierte mRNA wandert dann zur Translation ins Zytoplasma.",
+      "ja": "真核生物の遺伝子発現では、転写は核内で行われ、その後RNAプロセシング（スプライシング、5'キャップ、ポリAテール付加）も核内で行われます。処理されたmRNAはその後、翻訳のために細胞質に移動します。"
+    }
+  },
+  {
+    "page_number": 405,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "According to the diagram and accompanying text, which statement best explains the importance and specific events of RNA processing in eukaryotes?",
+      "zh": "根据图示及附带文本，以下哪项陈述最能解释真核生物中RNA加工的重要性及具体事件？",
+      "es": "Según el diagrama y el texto adjunto, ¿qué afirmación explica mejor la importancia y los eventos específicos del procesamiento de ARN en eucariotas?",
+      "fr": "Selon le diagramme et le texte accompagnant, quelle affirmation explique le mieux l'importance et les événements spécifiques du traitement de l'ARN chez les eucaryotes ?",
+      "de": "Basierend auf dem Diagramm und dem begleitenden Text, welche Aussage erklärt am besten die Bedeutung und die spezifischen Ereignisse der RNA-Prozessierung in Eukaryoten?",
+      "ja": "図と付随するテキストに基づいて、真核生物におけるRNAプロセシングの重要性と特定の事象を最もよく説明している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It involves the removal of exons and joining of introns, occurring in the cytoplasm to prepare mRNA for translation.",
+          "zh": "它涉及外显子的去除和内含子的连接，发生在细胞质中，以准备mRNA进行翻译。",
+          "es": "Implica la eliminación de exones y la unión de intrones, ocurriendo en el citoplasma para preparar el ARNm para la traducción.",
+          "fr": "Il implique l'élimination des exons et la jonction des introns, se produisant dans le cytoplasme pour préparer l'ARNm à la traduction.",
+          "de": "Es beinhaltet die Entfernung von Exons und das Zusammenfügen von Introns, die im Zytoplasma stattfinden, um die mRNA für die Translation vorzubereiten.",
+          "ja": "それはエクソンの除去とイントロンの結合を含み、細胞質で起こり、mRNAを翻訳のために準備します。"
+        },
+        "feedback": {
+          "en": "Exons are joined, and introns are removed. This process occurs in the nucleus, not the cytoplasm.",
+          "zh": "外显子被连接，内含子被去除。此过程发生在细胞核中，而非细胞质中。",
+          "es": "Los exones se unen y los intrones se eliminan. Este proceso ocurre en el núcleo, no en el citoplasma.",
+          "fr": "Les exons sont joints et les introns sont éliminés. Ce processus a lieu dans le noyau, pas dans le cytoplasme.",
+          "de": "Exons werden zusammengefügt und Introns entfernt. Dieser Prozess findet im Zellkern statt, nicht im Zytoplasma.",
+          "ja": "エクソンは結合され、イントロンが除去されます。このプロセスは細胞質ではなく、核で起こります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It modifies the pre-mRNA by adding a 5' cap and a poly-A tail, and splicing out introns, all within the nucleus, before export to the cytoplasm for translation.",
+          "zh": "它通过添加5'端帽和Poly-A尾，并剪接掉内含子来修饰前mRNA，所有这些都在细胞核内完成，然后才导出到细胞质进行翻译。",
+          "es": "Modifica el pre-ARNm añadiendo una caperuza 5' y una cola poli-A, y eliminando los intrones mediante empalme, todo dentro del núcleo, antes de exportarlo al citoplasma para la traducción.",
+          "fr": "Il modifie le pré-ARNm en ajoutant une coiffe 5' et une queue poly-A, et en épissant les introns, tout cela au sein du noyau, avant l'exportation vers le cytoplasme pour la traduction.",
+          "de": "Es modifiziert die prä-mRNA durch Hinzufügen einer 5'-Kappe und eines Poly-A-Schwanzes sowie durch Spleißen von Introns, alles innerhalb des Zellkerns, bevor sie zur Translation ins Zytoplasma exportiert wird.",
+          "ja": "5'キャップとポリAテールを追加し、イントロンをスプライシングして前駆mRNAを修飾するプロセスで、これらはすべて核内で完了し、その後翻訳のために細胞質に輸送されます。"
+        },
+        "feedback": {
+          "en": "Correct.",
+          "zh": "正确。",
+          "es": "Correcto.",
+          "fr": "Correct.",
+          "de": "Richtig.",
+          "ja": "正しい。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is the process where amino acids are added to tRNA molecules in the nucleus, ensuring the correct sequence for protein synthesis.",
+          "zh": "这是在细胞核中将氨基酸添加到tRNA分子的过程，确保蛋白质合成的正确序列。",
+          "es": "Es el proceso donde los aminoácidos se añaden a las moléculas de ARNt en el núcleo, asegurando la secuencia correcta para la síntesis de proteínas.",
+          "fr": "C'est le processus où les acides aminés sont ajoutés aux molécules d'ARNt dans le noyau, assurant la séquence correcte pour la synthèse des protéines.",
+          "de": "Es ist der Prozess, bei dem Aminosäuren zu tRNA-Molekülen im Zellkern hinzugefügt werden, um die korrekte Sequenz für die Proteinsynthese sicherzustellen.",
+          "ja": "アミノ酸が核内のtRNA分子に付加され、タンパク質合成の正しい配列を保証するプロセスです。"
+        },
+        "feedback": {
+          "en": "This describes amino acid activation, not RNA processing, and occurs in the cytoplasm.",
+          "zh": "这描述的是氨基酸活化，而非RNA加工，且发生在细胞质中。",
+          "es": "Esto describe la activación de aminoácidos, no el procesamiento de ARN, y ocurre en el citoplasma.",
+          "fr": "Ceci décrit l'activation des acides aminés, pas le traitement de l'ARN, et cela a lieu dans le cytoplasme.",
+          "de": "Dies beschreibt die Aminosäure-Aktivierung, nicht die RNA-Prozessierung, und findet im Zytoplasma statt.",
+          "ja": "これはRNAプロセシングではなくアミノ酸活性化について説明しており、細胞質で起こります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It primarily functions to degrade excess RNA transcripts in the cytoplasm, preventing wasteful protein synthesis.",
+          "zh": "它主要功能是在细胞质中降解多余的RNA转录本，防止浪费性蛋白质合成。",
+          "es": "Su función principal es degradar los transcritos de ARN en exceso en el citoplasma, evitando la síntesis de proteínas derrochadora.",
+          "fr": "Sa fonction principale est de dégrader les transcrits d'ARN excédentaires dans le cytoplasme, empêchant ainsi une synthèse protéique inutile.",
+          "de": "Es dient hauptsächlich dazu, überschüssige RNA-Transkripte im Zytoplasma abzubauen, um eine verschwenderische Proteinsynthese zu verhindern.",
+          "ja": "主に細胞質内の過剰なRNA転写産物を分解し、無駄なタンパク質合成を防ぐ機能です。"
+        },
+        "feedback": {
+          "en": "RNA processing is about modifying pre-mRNA for function, not degrading excess transcripts to prevent wasteful synthesis.",
+          "zh": "RNA加工是为了功能性地修饰前mRNA，而不是降解多余的转录本以防止浪费性合成。",
+          "es": "El procesamiento de ARN se trata de modificar el pre-ARNm para su función, no de degradar transcritos en exceso para prevenir la síntesis derrochadora.",
+          "fr": "Le traitement de l'ARN vise à modifier le pré-ARNm pour sa fonction, et non à dégrader les transcrits excédentaires pour prévenir une synthèse inutile.",
+          "de": "Bei der RNA-Prozessierung geht es um die funktionelle Modifikation der prä-mRNA, nicht um den Abbau überschüssiger Transkripte, um eine verschwenderische Synthese zu verhindern.",
+          "ja": "RNAプロセシングは、機能のために前駆mRNAを修飾することであり、無駄な合成を防ぐために過剰な転写産物を分解することではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "RNA processing in eukaryotes, specifically described in Step 2, involves splicing out non-coding introns and joining coding exons. Additionally, a 5' cap and a poly-A tail are added to the pre-mRNA. These modifications occur in the nucleus and are crucial for the mRNA's stability, transport, and efficient translation.",
+      "zh": "真核生物中的RNA加工（步骤2）特指剪接掉非编码内含子并连接编码外显子。此外，前mRNA还会添加5'端帽和Poly-A尾。这些修饰都发生在细胞核中，对于mRNA的稳定性、运输和高效翻译至关重要。",
+      "es": "El procesamiento de ARN en eucariotas, específicamente descrito en el Paso 2, implica el empalme de intrones no codificantes y la unión de exones codificantes. Además, se añade una caperuza 5' y una cola poli-A al pre-ARNm. Estas modificaciones ocurren en el núcleo y son cruciales para la estabilidad, el transporte y la traducción eficiente del ARNm.",
+      "fr": "Le traitement de l'ARN chez les eucaryotes, décrit spécifiquement à l'étape 2, implique l'épissage des introns non codants et la jonction des exons codants. De plus, une coiffe 5' et une queue poly-A sont ajoutées au pré-ARNm. Ces modifications se produisent dans le noyau et sont cruciales pour la stabilité, le transport et la traduction efficace de l'ARNm.",
+      "de": "Die RNA-Prozessierung in Eukaryoten, insbesondere in Schritt 2 beschrieben, beinhaltet das Spleißen von nicht-kodierenden Introns und das Zusammenfügen von kodierenden Exons. Zusätzlich werden eine 5'-Kappe und ein Poly-A-Schwanz an die prä-mRNA angefügt. Diese Modifikationen finden im Zellkern statt und sind entscheidend für die Stabilität, den Transport und die effiziente Translation der mRNA.",
+      "ja": "真核生物におけるRNAプロセシング（ステップ2で具体的に説明されている）は、非コード領域であるイントロンをスプライシングで除去し、コード領域であるエクソンを結合させることを含みます。さらに、前駆mRNAには5'キャップとポリAテールが付加されます。これらの修飾は核内で行われ、mRNAの安定性、輸送、効率的な翻訳にとって非常に重要です。"
+    }
+  },
+  {
+    "page_number": 405,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the 'Amino Acid Activation' section (Step 4), what is the primary role of aminoacyl-tRNA synthetase?",
+      "zh": "根据“氨基酸活化”部分（步骤4），氨酰-tRNA合成酶的主要作用是什么？",
+      "es": "Según la sección 'Activación de aminoácidos' (Paso 4), ¿cuál es el papel principal de la aminoacil-tRNA sintetasa?",
+      "fr": "D'après la section 'Activation des acides aminés' (Étape 4), quel est le rôle principal de l'aminoacyl-ARNt synthétase ?",
+      "de": "Basierend auf dem Abschnitt 'Aminosäure-Aktivierung' (Schritt 4), was ist die primäre Rolle der Aminoacyl-tRNA-Synthetase?",
+      "ja": "「アミノ酸活性化」のセクション（ステップ4）に基づいて、アミノアシルtRNAシンテターゼの主な役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To form the peptide bonds between amino acids during polypeptide synthesis.",
+          "zh": "在多肽合成过程中形成氨基酸之间的肽键。",
+          "es": "Formar los enlaces peptídicos entre los aminoácidos durante la síntesis de polipéptidos.",
+          "fr": "Former les liaisons peptidiques entre les acides aminés pendant la synthèse du polypeptide.",
+          "de": "Die Peptidbindungen zwischen Aminosäuren während der Polypeptidsynthese bilden.",
+          "ja": "ポリペプチド合成中にアミノ酸間にペプチド結合を形成すること。"
+        },
+        "feedback": {
+          "en": "Peptide bond formation is a function of the ribosome, not aminoacyl-tRNA synthetase.",
+          "zh": "肽键的形成是核糖体的功能，而非氨酰-tRNA合成酶的功能。",
+          "es": "La formación de enlaces peptídicos es una función del ribosoma, no de la aminoacil-tRNA sintetasa.",
+          "fr": "La formation des liaisons peptidiques est une fonction du ribosome, pas de l'aminoacyl-ARNt synthétase.",
+          "de": "Die Peptidbindung ist eine Funktion des Ribosoms, nicht der Aminoacyl-tRNA-Synthetase.",
+          "ja": "ペプチド結合の形成はリボソームの機能であり、アミノアシルtRNAシンテターゼの機能ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To attach a specific amino acid to its corresponding tRNA molecule, ensuring the accuracy of protein translation.",
+          "zh": "将特定的氨基酸连接到其对应的tRNA分子上，确保蛋白质翻译的准确性。",
+          "es": "Unir un aminoácido específico a su molécula de ARNt correspondiente, asegurando la precisión de la traducción de proteínas.",
+          "fr": "Attacher un acide aminé spécifique à sa molécule d'ARNt correspondante, assurant la précision de la traduction des protéines.",
+          "de": "Eine spezifische Aminosäure an ihr korrespondierendes tRNA-Molekül anzuhängen, um die Genauigkeit der Proteintranslation sicherzustellen.",
+          "ja": "特定のtRNA分子に特定のアミノ酸を結合させ、タンパク質翻訳の正確性を保証すること。"
+        },
+        "feedback": {
+          "en": "Correct.",
+          "zh": "正确。",
+          "es": "Correcto.",
+          "fr": "Correct.",
+          "de": "Richtig.",
+          "ja": "正しい。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To synthesize new tRNA molecules from a DNA template.",
+          "zh": "从DNA模板合成新的tRNA分子。",
+          "es": "Sintetizar nuevas moléculas de ARNt a partir de una plantilla de ADN.",
+          "fr": "Synthétiser de nouvelles molécules d'ARNt à partir d'un modèle d'ADN.",
+          "de": "Neue tRNA-Moleküle aus einer DNA-Vorlage synthetisieren.",
+          "ja": "DNAテンプレートから新しいtRNA分子を合成すること。"
+        },
+        "feedback": {
+          "en": "tRNA synthesis is part of transcription, not amino acid activation.",
+          "zh": "tRNA合成是转录的一部分，而非氨基酸活化。",
+          "es": "La síntesis de ARNt es parte de la transcripción, no de la activación de aminoácidos.",
+          "fr": "La synthèse de l'ARNt fait partie de la transcription, pas de l'activation des acides aminés.",
+          "de": "Die tRNA-Synthese ist Teil der Transkription, nicht der Aminosäure-Aktivierung.",
+          "ja": "tRNAの合成は転写の一部であり、アミノ酸活性化ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To guide the mRNA out of the nucleus and into the cytoplasm.",
+          "zh": "引导mRNA离开细胞核进入细胞质。",
+          "es": "Guiar el ARNm fuera del núcleo y hacia el citoplasma.",
+          "fr": "Guider l'ARNm hors du noyau et vers le cytoplasme.",
+          "de": "Die mRNA aus dem Zellkern in das Zytoplasma leiten.",
+          "ja": "mRNAを核から細胞質へ導くこと。"
+        },
+        "feedback": {
+          "en": "mRNA export is a separate process, not the role of this enzyme.",
+          "zh": "mRNA导出是一个独立的过程，并非此酶的作用。",
+          "es": "La exportación de ARNm es un proceso separado, no el papel de esta enzima.",
+          "fr": "L'exportation de l'ARNm est un processus distinct, et non le rôle de cette enzyme.",
+          "de": "Der mRNA-Export ist ein separater Prozess, nicht die Rolle dieses Enzyms.",
+          "ja": "mRNAの輸送は別のプロセスであり、この酵素の役割ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Aminoacyl-tRNA synthetase is responsible for attaching the correct amino acid to its specific tRNA molecule. This crucial step, known as amino acid activation, ensures that each tRNA carries the appropriate amino acid corresponding to its anticodon, thereby maintaining the fidelity of protein synthesis.",
+      "zh": "氨酰-tRNA合成酶负责将正确的氨基酸连接到其特定的tRNA分子上。这一关键步骤被称为氨基酸活化，它确保每个tRNA都携带与其反密码子相对应的正确氨基酸，从而维持蛋白质合成的忠实性。",
+      "es": "La aminoacil-tRNA sintetasa es responsable de unir el aminoácido correcto a su molécula de ARNt específica. Este paso crucial, conocido como activación de aminoácidos, asegura que cada ARNt lleve el aminoácido apropiado que corresponde a su anticodón, manteniendo así la fidelidad de la síntesis de proteínas.",
+      "fr": "L'aminoacyl-ARNt synthétase est responsable de l'attachement du bon acide aminé à sa molécule d'ARNt spécifique. Cette étape cruciale, appelée activation des acides aminés, garantit que chaque ARNt transporte l'acide aminé approprié correspondant à son anticodon, maintenant ainsi la fidélité de la synthèse des protéines.",
+      "de": "Die Aminoacyl-tRNA-Synthetase ist dafür verantwortlich, die korrekte Aminosäure an ihr spezifisches tRNA-Molekül anzuhängen. Dieser entscheidende Schritt, bekannt als Aminosäure-Aktivierung, stellt sicher, dass jede tRNA die entsprechende Aminosäure trägt, die ihrem Anticodon entspricht, und somit die Genauigkeit der Proteinsynthese aufrechterhält.",
+      "ja": "アミノアシルtRNAシンテターゼは、正しいアミノ酸をその特定のtRNA分子に結合させる役割を担っています。このアミノ酸活性化と呼ばれる重要なステップは、各tRNAがそのアンチコドンに対応する適切なアミノ酸を運ぶことを保証し、それによってタンパク質合成の忠実性を維持します。"
+    }
+  },
+  {
+    "page_number": 405,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "In the 'Translation' section (Step 5), the diagram shows a 'Codon' and an 'Anticodon'. What is their relationship during protein synthesis?",
+      "zh": "在“翻译”部分（步骤5）中，图示显示了“密码子”和“反密码子”。在蛋白质合成过程中，它们之间的关系是什么？",
+      "es": "En la sección 'Traducción' (Paso 5), el diagrama muestra un 'Codón' y un 'Anticodón'. ¿Cuál es su relación durante la síntesis de proteínas?",
+      "fr": "Dans la section 'Traduction' (Étape 5), le diagramme montre un 'Codon' et un 'Anticodon'. Quelle est leur relation pendant la synthèse des protéines ?",
+      "de": "Im Abschnitt 'Translation' (Schritt 5) zeigt das Diagramm ein 'Codon' und ein 'Anticodon'. Welches Verhältnis besteht zwischen ihnen während der Proteinsynthese?",
+      "ja": "「翻訳」のセクション（ステップ5）で、図には「コドン」と「アンチコドン」が示されています。タンパク質合成中のそれらの関係は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The codon is on the tRNA, and the anticodon is on the mRNA; they bind covalently.",
+          "zh": "密码子在tRNA上，反密码子在mRNA上；它们共价结合。",
+          "es": "El codón está en el ARNt, y el anticodón está en el ARNm; se unen covalentemente.",
+          "fr": "Le codon est sur l'ARNt, et l'anticodon est sur l'ARNm ; ils se lient de manière covalente.",
+          "de": "Das Codon befindet sich auf der tRNA und das Anticodon auf der mRNA; sie binden kovalent.",
+          "ja": "コドンはtRNA上にあり、アンチコドンはmRNA上にあります。それらは共有結合します。"
+        },
+        "feedback": {
+          "en": "The codon is on the mRNA, and the anticodon is on the tRNA. They bind via hydrogen bonds, not covalently.",
+          "zh": "密码子在mRNA上，反密码子在tRNA上。它们通过氢键结合，而非共价键。",
+          "es": "El codón está en el ARNm, y el anticodón está en el ARNt. Se unen mediante enlaces de hidrógeno, no covalentemente.",
+          "fr": "Le codon est sur l'ARNm et l'anticodon est sur l'ARNt. Ils se lient par des liaisons hydrogène, et non de manière covalente.",
+          "de": "Das Codon befindet sich auf der mRNA und das Anticodon auf der tRNA. Sie binden über Wasserstoffbrückenbindungen, nicht kovalent.",
+          "ja": "コドンはmRNA上にあり、アンチコドンはtRNA上にあります。それらは共有結合ではなく水素結合で結合します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The codon is on the mRNA, and the anticodon is on the tRNA; they form complementary base pairs.",
+          "zh": "密码子在mRNA上，反密码子在tRNA上；它们形成互补碱基对。",
+          "es": "El codón está en el ARNm, y el anticodón está en el ARNt; forman pares de bases complementarias.",
+          "fr": "Le codon est sur l'ARNm, et l'anticodon est sur l'ARNt ; ils forment des paires de bases complémentaires.",
+          "de": "Das Codon befindet sich auf der mRNA und das Anticodon auf der tRNA; sie bilden komplementäre Basenpaare.",
+          "ja": "コドンはmRNA上にあり、アンチコドンはtRNA上にあります。それらは相補的な塩基対を形成します。"
+        },
+        "feedback": {
+          "en": "Correct.",
+          "zh": "正确。",
+          "es": "Correcto.",
+          "fr": "Correct.",
+          "de": "Richtig.",
+          "ja": "正しい。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both codon and anticodon are on the mRNA, and they help in ribosome binding.",
+          "zh": "密码子和反密码子都在mRNA上，它们有助于核糖体结合。",
+          "es": "Tanto el codón como el anticodón están en el ARNm, y ayudan en la unión del ribosoma.",
+          "fr": "Le codon et l'anticodon sont tous deux sur l'ARNm, et ils aident à la liaison du ribosome.",
+          "de": "Sowohl Codon als auch Anticodon befinden sich auf der mRNA und helfen bei der Ribosomenbindung.",
+          "ja": "コドンとアンチコドンは両方ともmRNA上にあり、リボソームの結合を助けます。"
+        },
+        "feedback": {
+          "en": "The anticodon is on the tRNA, not the mRNA.",
+          "zh": "反密码子在tRNA上，而非mRNA上。",
+          "es": "El anticodón está en el ARNt, no en el ARNm.",
+          "fr": "L'anticodon est sur l'ARNt, pas sur l'ARNm.",
+          "de": "Das Anticodon befindet sich auf der tRNA, nicht auf der mRNA.",
+          "ja": "アンチコドンはmRNAではなくtRNA上にあります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The codon signals the end of translation, while the anticodon initiates it.",
+          "zh": "密码子标志着翻译的结束，而反密码子则启动翻译。",
+          "es": "El codón señala el final de la traducción, mientras que el anticodón la inicia.",
+          "fr": "Le codon signale la fin de la traduction, tandis que l'anticodon l'initie.",
+          "de": "Das Codon signalisiert das Ende der Translation, während das Anticodon diese initiiert.",
+          "ja": "コドンは翻訳の終了を合図し、アンチコドンはそれを開始します。"
+        },
+        "feedback": {
+          "en": "A stop codon signals termination, but neither codon nor anticodon directly initiates translation. The anticodon pairs with a codon to bring in an amino acid.",
+          "zh": "终止密码子标志着终止，但密码子和反密码子都不直接启动翻译。反密码子与密码子配对以带来氨基酸。",
+          "es": "Un codón de terminación señala el final, but neither codon nor anticodon directly initiates translation. El anticodón se empareja con un codón para traer un aminoácido.",
+          "fr": "Un codon stop signale la terminaison, mais ni le codon ni l'anticodon n'initient directement la traduction. L'anticodon s'apparie avec un codon pour apporter un acide aminé.",
+          "de": "Ein Stopp-Codon signalisiert die Termination, aber weder Codon noch Anticodon initiieren die Translation direkt. Das Anticodon paart sich mit einem Codon, um eine Aminosäure zu bringen.",
+          "ja": "終止コドンが終止を合図しますが、コドンもアンチコドンも直接翻訳を開始するわけではありません。アンチコドンはコドンと対合してアミノ酸を運びます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "During protein synthesis, the codon is a three-nucleotide sequence on the mRNA molecule, and the anticodon is a complementary three-nucleotide sequence on the tRNA molecule. They bind to each other through complementary base pairing, ensuring the correct amino acid is brought to the ribosome according to the mRNA sequence.",
+      "zh": "在蛋白质合成过程中，密码子是mRNA分子上的三核苷酸序列，而反密码子是tRNA分子上互补的三核苷酸序列。它们通过互补碱基配对相互结合，确保根据mRNA序列将正确的氨基酸带到核糖体上。",
+      "es": "Durante la síntesis de proteínas, el codón es una secuencia de tres nucleótidos en la molécula de ARNm, y el anticodón es una secuencia complementaria de tres nucleótidos en la molécula de ARNt. Se unen entre sí mediante el emparejamiento de bases complementarias, asegurando que el aminoácido correcto sea llevado al ribosoma según la secuencia de ARNm.",
+      "fr": "Pendant la synthèse des protéines, le codon est une séquence de trois nucléotides sur la molécule d'ARNm, et l'anticodon est une séquence complémentaire de trois nucléotides sur la molécule d'ARNt. Ils se lient l'un à l'autre par appariement de bases complémentaires, assurant que le bon acide aminé est amené au ribosome selon la séquence d'ARNm.",
+      "de": "Während der Proteinsynthese ist das Codon eine Drei-Nukleotid-Sequenz auf dem mRNA-Molekül, und das Anticodon ist eine komplementäre Drei-Nukleotid-Sequenz auf dem tRNA-Molekül. Sie binden über komplementäre Basenpaarung aneinander, wodurch sichergestellt wird, dass die korrekte Aminosäure gemäß der mRNA-Sequenz zum Ribosom gebracht wird.",
+      "ja": "タンパク質合成中、コドンはmRNA分子上の3つのヌクレオチド配列であり、アンチコドンはtRNA分子上の相補的な3つのヌクレオチド配列です。これらは相補的な塩基対形成を介して互いに結合し、mRNA配列に従って正しいアミノ酸がリボソームに運ばれることを保証します。"
+    }
+  }
+]

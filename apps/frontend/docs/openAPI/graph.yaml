@@ -1,0 +1,225 @@
+openapi: 3.0.0
+info:
+  title: "Knowledge Graph API"
+  version: "1.1.0"
+  description: "API for interacting with the knowledge graph, such as fetching related nodes for graph visualization."
+servers:
+  - url: "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1"
+    description: "Production Server"
+  - url: "http://localhost:3000/api/v1"
+    description: "Local Development Server"
+
+paths:
+  /graph/nodes/{uuid}/related:
+    get:
+      tags:
+        - "Knowledge Graph"
+      summary: "Get Related Nodes (1-degree)"
+      description: "Retrieves a subgraph containing a central node (specified by its UUID), all of its 1st-degree neighbor nodes (including Page nodes), and the relationships connecting them."
+      operationId: "getRelatedNodes"
+      
+      parameters:
+        - name: "uuid"
+          in: "path"
+          required: true
+          description: "The UUID of the central node for which to fetch related nodes."
+          schema:
+            type: string
+            format: uuid
+            example: "d095215d-4848-5a19-bbd6-9e21631b5253" # Example for "Metabolic pathway"
+      responses:
+        "200":
+          description: "Successfully retrieved the graph data."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/KnowledgeGraphData"
+              example:
+                nodes:
+                  - id: "d095215d-4848-5a19-bbd6-9e21631b5253"
+                    type: "KnowledgePoint"
+                    raw_id: "d095215d-4848-5a19-bbd6-9e21631b5253"
+                    name_en: "Metabolic pathway"
+                    name_zh: "代谢途径"
+                    definition_en: "A series of chemical reactions in a cell, each catalyzed by a specific enzyme."
+                    definition_zh: "细胞中的一系列化学反应，每个反应由特定酶催化。"
+                  - id: "page_208"
+                    type: "Page"
+                    name: "page_208"
+                    number: 208
+                relationships:
+                  - type: "MENTIONED_ON_PAGE"
+                    source: "d095215d-4848-5a19-bbd6-9e21631b5253"
+                    target: "page_208"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+    delete:
+      tags:
+        - "Knowledge Graph"
+      summary: "Delete Node and Relationships (Admin)"
+      description: "Deletes a node and all of its relationships from the knowledge graph. This is a destructive action and requires administrator privileges."
+      operationId: "deleteNode"
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: "uuid"
+          in: "path"
+          required: true
+          description: "The UUID of the node to delete."
+          schema:
+            type: string
+            format: uuid
+      responses:
+        "200":
+          description: "Successfully deleted the node and its relationships."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  message:
+                    type: string
+                    example: "Node [uuid] and its relationships were successfully deleted."
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "403":
+          description: "Forbidden. Administrator access required."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "404":
+          description: "Node not found for the given UUID."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+
+components:
+  schemas:
+    KnowledgeGraphData:
+      type: object
+      description: "Represents a subgraph with nodes and relationships."
+      properties:
+        nodes:
+          type: array
+          items:
+            $ref: "#/components/schemas/GraphNode"
+        relationships:
+          type: array
+          items:
+            $ref: "#/components/schemas/GraphRelationship"
+      required:
+        - nodes
+        - relationships
+
+    GraphNode:
+      description: "Represents a node in the knowledge graph. It can be a Page or a Concept (KnowledgePoint/Topic)."
+      oneOf:
+        - $ref: '#/components/schemas/PageNode'
+        - $ref: '#/components/schemas/ConceptNode'
+
+    PageNode:
+      type: object
+      description: "Represents a Page node in the graph."
+      required:
+        - id
+        - type
+        - number
+        - name
+      properties:
+        id:
+          type: string
+          description: "The virtual ID for the page (e.g., 'page_192')."
+        type:
+          type: string
+          enum: ["Page"]
+        number:
+          type: integer
+          description: "The physical page number in the PDF."
+        name:
+          type: string
+          description: "The name of the node (e.g., 'page_192')."
+
+    ConceptNode:
+      type: object
+      description: "Represents a concept node (e.g., KnowledgePoint, Topic) in the graph."
+      required:
+        - id
+        - type
+        - raw_id
+        - name_en
+        - name_zh
+      properties:
+        id:
+          type: string
+          format: uuid
+          description: "The deterministic UUID of the node."
+        type:
+          type: string
+          enum: ["KnowledgePoint", "Topic"]
+        raw_id:
+          type: string
+          description: "The human-readable, canonical ID used to generate the UUID."
+        name_en:
+          type: string
+        name_zh:
+          type: string
+        name_es:
+          type: string
+        name_fr:
+          type: string
+        name_ja:
+          type: string
+        name_de:
+          type: string
+        definition_en:
+          type: string
+        definition_zh:
+          type: string
+        definition_es:
+          type: string
+        definition_fr:
+          type: string
+        definition_ja:
+          type: string
+        definition_de:
+          type: string
+
+    GraphRelationship:
+      type: object
+      description: "Represents a relationship between two nodes in the knowledge graph."
+      required:
+        - source
+        - target
+        - type
+      properties:
+        source:
+          type: string
+          description: "The ID of the source node for this relationship."
+        target:
+          type: string
+          description: "The ID of the target node for this relationship."
+        type:
+          type: string
+          description: "The type of the relationship (e.g., IS_A, MENTIONED_ON_PAGE)."
+
+    ErrorResponse:
+      type: object
+      properties:
+        ok:
+          type: boolean
+          example: false
+        message:
+          type: string

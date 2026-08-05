@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 128,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In visualizing protein structure, which type of model is generally considered the easiest for tracing the overall polypeptide backbone and its three-dimensional folds?",
+      "zh": "在蛋白质结构的可视化中，哪种模型通常被认为最容易追踪多肽主链及其三维折叠？",
+      "es": "Al visualizar la estructura de proteínas, ¿qué tipo de modelo se considera generalmente el más fácil para rastrear la cadena principal polipeptídica y sus pliegues tridimensionales?",
+      "fr": "Lors de la visualisation de la structure des protéines, quel type de modèle est généralement considéré comme le plus facile pour suivre la chaîne polypeptidique globale et ses repliements tridimensionnels ?",
+      "de": "Welches Modell wird bei der Visualisierung der Proteinstruktur im Allgemeinen als das einfachste angesehen, um das gesamte Polypeptid-Rückgrat und dessen dreidimensionale Faltung zu verfolgen?",
+      "ja": "タンパク質構造の可視化において、ポリペプチド主鎖とその三次元の折り畳みを追跡するのに最も容易だと一般的に考えられているモデルはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Space-filling model",
+          "zh": "空间填充模型",
+          "es": "Modelo de relleno espacial",
+          "fr": "Modèle à remplissage d'espace",
+          "de": "Raumfüllendes Modell",
+          "ja": "空間充填モデル"
+        },
+        "feedback": {
+          "en": "This model emphasizes the overall globular shape and shows all atoms (except hydrogen), making the backbone difficult to trace.",
+          "zh": "这种模型强调整体球状形状并显示所有原子（氢除外），使得主链难以追踪。",
+          "es": "Este modelo enfatiza la forma globular general y muestra todos los átomos (excepto el hidrógeno), lo que dificulta el rastreo de la cadena principal.",
+          "fr": "Ce modèle met l'accent sur la forme globulaire générale et montre tous les atomes (sauf l'hydrogène), ce qui rend le squelette polypeptidique difficile à suivre.",
+          "de": "Dieses Modell betont die allgemeine Kugelform und zeigt alle Atome (außer Wasserstoff), was das Nachverfolgen des Rückgrats erschwert.",
+          "ja": "このモデルは全体的な球状の形状を強調し、すべての原子（水素を除く）を示しており、主鎖を追跡するのが困難です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Ribbon model",
+          "zh": "带状模型",
+          "es": "Modelo de cinta",
+          "fr": "Modèle en ruban",
+          "de": "Bandmodell",
+          "ja": "リボンモデル"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Wireframe model",
+          "zh": "线框模型",
+          "es": "Modelo de alambre",
+          "fr": "Modèle filaire",
+          "de": "Drahtgittermodell",
+          "ja": "ワイヤーフレームモデル"
+        },
+        "feedback": {
+          "en": "While showing the backbone, the wireframe model also includes side chains, which can obscure the clear tracing of the backbone itself compared to a ribbon model.",
+          "zh": "虽然线框模型显示主链，但它也包括侧链，这与带状模型相比，可能会模糊主链本身的清晰追踪。",
+          "es": "Aunque muestra la cadena principal, el modelo de alambre también incluye cadenas laterales, lo que puede oscurecer el rastreo claro de la propia cadena principal en comparación con un modelo de cinta.",
+          "fr": "Bien qu'il montre le squelette, le modèle filaire inclut également les chaînes latérales, ce qui peut obscurcir le traçage clair du squelette lui-même par rapport à un modèle en ruban.",
+          "de": "Obwohl das Drahtgittermodell das Rückgrat zeigt, enthält es auch Seitenketten, die im Vergleich zu einem Bandmodell das klare Nachverfolgen des Rückgrats selbst verdecken können.",
+          "ja": "ワイヤーフレームモデルは主鎖を示す一方で、側鎖も含まれるため、リボンモデルと比較すると主鎖自体の明確な追跡が不明瞭になることがあります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Simplified diagram",
+          "zh": "简化图",
+          "es": "Diagrama simplificado",
+          "fr": "Diagramme simplifié",
+          "de": "Vereinfachtes Diagramm",
+          "ja": "簡略化された図"
+        },
+        "feedback": {
+          "en": "Simplified diagrams abstract away most structural details to focus on function, not detailed backbone tracing.",
+          "zh": "简化图抽象掉了大部分结构细节，旨在关注功能而非详细的主链追踪。",
+          "es": "Los diagramas simplificados abstraen la mayoría de los detalles estructurales para centrarse en la función, no en el rastreo detallado de la cadena principal.",
+          "fr": "Les diagrammes simplifiés abstraient la plupart des détails structurels pour se concentrer sur la fonction, et non sur un traçage détaillé du squelette.",
+          "de": "Vereinfachte Diagramme abstrahieren die meisten strukturellen Details, um sich auf die Funktion zu konzentrieren, nicht auf die detaillierte Rückgratverfolgung.",
+          "ja": "簡略化された図は、構造の詳細のほとんどを抽象化し、機能に焦点を当てるため、詳細な主鎖の追跡には適していません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The ribbon model is specifically designed to show only the polypeptide backbone, emphasizing how it folds and coils to form a three-dimensional shape. This makes it the clearest for tracing the backbone, as stated in the text.",
+      "zh": "带状模型专门设计来只显示多肽主链，强调它是如何折叠和盘绕以形成三维形状的。根据文本所述，这使得它最适合追踪主链。",
+      "es": "El modelo de cinta está diseñado específicamente para mostrar solo la cadena principal polipeptídica, enfatizando cómo se pliega y enrolla para formar una forma tridimensional. Esto lo hace el más claro para rastrear la cadena principal, como se indica en el texto.",
+      "fr": "Le modèle en ruban est spécifiquement conçu pour montrer uniquement la chaîne polypeptidique, en soulignant comment elle se plie et s'enroule pour former une forme tridimensionnelle. Cela en fait le modèle le plus clair pour suivre le squelette, comme indiqué dans le texte.",
+      "de": "Das Bandmodell ist speziell darauf ausgelegt, nur das Polypeptid-Rückgrat zu zeigen, wobei es betont, wie es sich faltet und wickelt, um eine dreidimensionale Form zu bilden. Dies macht es, wie im Text angegeben, am klarsten für die Verfolgung des Rückgrats.",
+      "ja": "リボンモデルは、ポリペプチド主鎖のみを示し、それがどのように折り畳まれ、巻かれて三次元形状を形成するかを強調するように特別に設計されています。テキストに記載されているように、これにより主鎖の追跡が最も明確になります。"
+    }
+  },
+  {
+    "page_number": 128,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the provided text, what is the primary advantage or purpose of using \"Simplified Diagrams\" for proteins?",
+      "zh": "根据提供的文本，使用蛋白质“简化图”的主要优点或目的是什么？",
+      "es": "Según el texto proporcionado, ¿cuál es la principal ventaja o propósito de utilizar \"Diagramas Simplificados\" para las proteínas?",
+      "fr": "Selon le texte fourni, quel est l'avantage principal ou le but de l'utilisation des \"Diagrammes Simplifiés\" pour les protéines ?",
+      "de": "Laut dem bereitgestellten Text, was ist der Hauptvorteil oder Zweck der Verwendung von \"vereinfachten Diagrammen\" für Proteine?",
+      "ja": "提供されたテキストによると、タンパク質の「簡略化された図」を使用する主な利点または目的は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To provide the most accurate atomic-level representation of the protein.",
+          "zh": "提供蛋白质最精确的原子级别表示。",
+          "es": "Proporcionar la representación más precisa a nivel atómico de la proteína.",
+          "fr": "Fournir la représentation la plus précise au niveau atomique de la protéine.",
+          "de": "Die genaueste atomare Darstellung des Proteins zu liefern.",
+          "ja": "タンパク質の最も正確な原子レベルの表現を提供するため。"
+        },
+        "feedback": {
+          "en": "This is characteristic of detailed computer models like space-filling, not simplified diagrams.",
+          "zh": "这是空间填充模型等详细计算机模型的特征，而非简化图。",
+          "es": "Esto es característico de modelos computacionales detallados como el de relleno espacial, no de diagramas simplificados.",
+          "fr": "Ceci est caractéristique des modèles informatiques détaillés comme les modèles à remplissage d'espace, et non des diagrammes simplifiés.",
+          "de": "Dies ist charakteristisch für detaillierte Computermodelle wie das raumfüllende Modell, nicht für vereinfachte Diagramme.",
+          "ja": "これは、空間充填モデルのような詳細なコンピューターモデルの特徴であり、簡略化された図ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To focus on the protein's overall function rather than intricate structural details.",
+          "zh": "侧重于蛋白质的整体功能而非复杂的结构细节。",
+          "es": "Centrarse en la función general de la proteína en lugar de en los intrincados detalles estructurales.",
+          "fr": "Se concentrer sur la fonction globale de la protéine plutôt que sur les détails structurels complexes.",
+          "de": "Sich auf die Gesamtfunktion des Proteins statt auf komplizierte Strukturdetails zu konzentrieren.",
+          "ja": "タンパク質の複雑な構造の詳細ではなく、全体的な機能に焦点を当てるため。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To precisely illustrate the interactions between side chains and the polypeptide backbone.",
+          "zh": "精确阐明侧链与多肽主链之间的相互作用。",
+          "es": "Ilustrar con precisión las interacciones entre las cadenas laterales y la cadena principal polipeptídica.",
+          "fr": "Illustrer précisément les interactions entre les chaînes latérales et le squelette polypeptidique.",
+          "de": "Die Wechselwirkungen zwischen Seitenketten und dem Polypeptid-Rückgrat präzise zu veranschaulichen.",
+          "ja": "側鎖とポリペプチド主鎖間の相互作用を正確に説明するため。"
+        },
+        "feedback": {
+          "en": "Detailed interactions are shown by models like wireframe, not simplified diagrams which abstract away such detail.",
+          "zh": "详细的相互作用由线框模型等显示，而不是抽象掉此类细节的简化图。",
+          "es": "Las interacciones detalladas se muestran mediante modelos como el de alambre, no por diagramas simplificados que abstraen esos detalles.",
+          "fr": "Les interactions détaillées sont montrées par des modèles comme le filaire, et non par des diagrammes simplifiés qui abstraient de tels détails.",
+          "de": "Detaillierte Interaktionen werden durch Modelle wie das Drahtgittermodell gezeigt, nicht durch vereinfachte Diagramme, die solche Details abstrahieren.",
+          "ja": "詳細な相互作用は、ワイヤーフレームのようなモデルで示され、簡略化された図ではそのような詳細は抽象化されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To accurately represent all disulfide bridges and their stabilizing effects.",
+          "zh": "准确表示所有二硫键及其稳定作用。",
+          "es": "Representar con precisión todos los puentes disulfuro y sus efectos estabilizadores.",
+          "fr": "Représenter avec précision tous les ponts disulfure et leurs effets stabilisateurs.",
+          "de": "Alle Disulfidbrücken und ihre stabilisierenden Effekte genau darzustellen.",
+          "ja": "すべてのジスルフィド結合とその安定化効果を正確に表現するため。"
+        },
+        "feedback": {
+          "en": "While ribbon models can show disulfide bridges, simplified diagrams do not typically show such specific structural elements.",
+          "zh": "虽然带状模型可以显示二硫键，但简化图通常不显示此类具体的结构元素。",
+          "es": "Aunque los modelos de cinta pueden mostrar puentes disulfuro, los diagramas simplificados no suelen mostrar tales elementos estructurales específicos.",
+          "fr": "Bien que les modèles en ruban puissent montrer les ponts disulfure, les diagrammes simplifiés ne représentent généralement pas de tels éléments structurels spécifiques.",
+          "de": "Während Bandmodelle Disulfidbrücken zeigen können, zeigen vereinfachte Diagramme typischerweise keine solch spezifischen Strukturelemente.",
+          "ja": "リボンモデルはジスルフィド結合を示すことができますが、簡略化された図では通常、そのような特定の構造要素は示されません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that \"simplified diagrams are useful when the focus of the figure is on the function of the protein, not the structure.\" They abstract away detailed structural information to highlight functional aspects, as seen in the examples of rhodopsin, generic enzymes, and insulin.",
+      "zh": "文本明确指出，“当图的重点是蛋白质的功能而非结构时”，简化图很有用。它们抽象掉详细的结构信息，以突出功能方面，如视紫红质、通用酶和胰岛素的例子所示。",
+      "es": "El texto afirma explícitamente que \"los diagramas simplificados son útiles cuando el enfoque de la figura está en la función de la proteína, no en la estructura\". Abstraen la información estructural detallada para resaltar los aspectos funcionales, como se ve en los ejemplos de rodopsina, enzimas genéricas e insulina.",
+      "fr": "Le texte stipule explicitement que « les diagrammes simplifiés sont utiles lorsque l'accent de la figure est mis sur la fonction de la protéine, et non sur la structure ». Ils abstraient les informations structurelles détaillées pour mettre en évidence les aspects fonctionnels, comme on le voit dans les exemples de la rhodopsine, des enzymes génériques et de l'insuline.",
+      "de": "Der Text besagt ausdrücklich, dass „vereinfachte Diagramme nützlich sind, wenn der Fokus der Abbildung auf der Funktion des Proteins und nicht auf der Struktur liegt“. Sie abstrahieren detaillierte Strukturinformationen, um funktionale Aspekte hervorzuheben, wie in den Beispielen von Rhodopsin, generischen Enzymen und Insulin zu sehen ist.",
+      "ja": "テキストには、「図の焦点がタンパク質の機能にあり、構造ではない場合」に簡略化された図が有用であると明示されています。ロドプシン、一般的な酵素、インスリンの例に見られるように、詳細な構造情報を抽象化して機能的側面を強調します。"
+    }
+  },
+  {
+    "page_number": 128,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Figure 5.17 presents a computer model of an antibody protein bound to a flu virus protein, generated using X-ray crystallography. What primary insight does this specific visualization technique, especially with the added \"electron density map,\" provide about the interaction between these two proteins?",
+      "zh": "图5.17展示了通过X射线晶体学生成的抗体蛋白与流感病毒蛋白结合的计算机模型。这种特定的可视化技术，特别是增加了“电子密度图”之后，主要揭示了这两种蛋白质之间相互作用的什么关键信息？",
+      "es": "La Figura 5.17 presenta un modelo computarizado de una proteína anticuerpo unida a una proteína del virus de la gripe, generado mediante cristalografía de rayos X. ¿Qué información crucial proporciona esta técnica de visualización específica, especialmente con el \"mapa de densidad electrónica\" añadido, sobre la interacción entre estas dos proteínas?",
+      "fr": "La Figure 5.17 présente un modèle informatique d'une protéine anticorps liée à une protéine du virus de la grippe, généré par cristallographie aux rayons X. Quel aperçu principal cette technique de visualisation spécifique, notamment avec l'ajout de la \"carte de densité électronique\", fournit-elle concernant l'interaction entre ces deux protéines ?",
+      "de": "Abbildung 5.17 zeigt ein Computermodell eines Antikörperproteins, das an ein Grippevirusprotein gebunden ist, erstellt mittels Röntgenkristallographie. Welche primäre Erkenntnis liefert diese spezifische Visualisierungstechnik, insbesondere mit der zusätzlichen \"Elektronendichtekarte\", über die Interaktion zwischen diesen beiden Proteinen?",
+      "ja": "図5.17は、X線結晶構造解析を用いて生成された、抗体タンパク質がインフルエンザウイルス蛋白質に結合したコンピューターモデルを示しています。この特定の視覚化技術、特に「電子密度マップ」が追加されたことで、これら2つのタンパク質間の相互作用についてどのような重要な洞察が得られますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The amino acid sequence of the binding sites on both proteins.",
+          "zh": "两种蛋白质结合位点的氨基酸序列。",
+          "es": "La secuencia de aminoácidos de los sitios de unión en ambas proteínas.",
+          "fr": "La séquence d'acides aminés des sites de liaison sur les deux protéines.",
+          "de": "Die Aminosäuresequenz der Bindungsstellen auf beiden Proteinen.",
+          "ja": "両タンパク質の結合部位のアミノ酸配列。"
+        },
+        "feedback": {
+          "en": "While X-ray crystallography provides structural data, it doesn't directly reveal the amino acid sequence; that's determined by genetic analysis.",
+          "zh": "尽管X射线晶体学提供结构数据，但它不直接揭示氨基酸序列；后者由遗传分析确定。",
+          "es": "Aunque la cristalografía de rayos X proporciona datos estructurales, no revela directamente la secuencia de aminoácidos; eso se determina mediante análisis genético.",
+          "fr": "Bien que la cristallographie aux rayons X fournisse des données structurelles, elle ne révèle pas directement la séquence des acides aminés ; celle-ci est déterminée par analyse génétique.",
+          "de": "Obwohl die Röntgenkristallographie Strukturdaten liefert, offenbart sie nicht direkt die Aminosäuresequenz; diese wird durch genetische Analyse bestimmt.",
+          "ja": "X線結晶構造解析は構造データを提供しますが、アミノ酸配列を直接明らかにするものではありません。それは遺伝子解析によって決定されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The dynamic conformational changes occurring during the binding process.",
+          "zh": "结合过程中发生的动态构象变化。",
+          "es": "Los cambios conformacionales dinámicos que ocurren durante el proceso de unión.",
+          "fr": "Les changements conformationnels dynamiques qui se produisent pendant le processus de liaison.",
+          "de": "Die dynamischen Konformationsänderungen, die während des Bindungsprozesses auftreten.",
+          "ja": "結合プロセス中に生じる動的なコンフォメーション変化。"
+        },
+        "feedback": {
+          "en": "X-ray crystallography provides static snapshots of molecular structures; dynamic processes require different simulation techniques.",
+          "zh": "X射线晶体学提供分子结构的静态快照；动态过程需要不同的模拟技术。",
+          "es": "La cristalografía de rayos X proporciona instantáneas estáticas de las estructuras moleculares; los procesos dinámicos requieren diferentes técnicas de simulación.",
+          "fr": "La cristallographie aux rayons X fournit des clichés statiques des structures moléculaires ; les processus dynamiques nécessitent des techniques de simulation différentes.",
+          "de": "Die Röntgenkristallographie liefert statische Momentaufnahmen von Molekülstrukturen; dynamische Prozesse erfordern andere Simulationstechniken.",
+          "ja": "X線結晶構造解析は分子構造の静的なスナップショットを提供します。動的なプロセスには別のシミュレーション技術が必要です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The precise three-dimensional fit and complementary shapes between the interacting protein surfaces.",
+          "zh": "相互作用蛋白质表面之间精确的三维契合和互补形状。",
+          "es": "El ajuste tridimensional preciso y las formas complementarias entre las superficies proteicas interactuantes.",
+          "fr": "L'ajustement tridimensionnel précis et les formes complémentaires entre les surfaces protéiques en interaction.",
+          "de": "Die präzise dreidimensionale Passung und komplementären Formen zwischen den interagierenden Proteinoberflächen.",
+          "ja": "相互作用するタンパク質表面間の正確な三次元的な適合性と相補的な形状。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The specific types of chemical bonds (e.g., covalent, ionic) formed at the interaction interface.",
+          "zh": "在相互作用界面形成的特定化学键类型（例如，共价键、离子键）。",
+          "es": "Los tipos específicos de enlaces químicos (por ejemplo, covalentes, iónicos) formados en la interfaz de interacción.",
+          "fr": "Les types spécifiques de liaisons chimiques (par exemple, covalentes, ioniques) formées à l'interface d'interaction.",
+          "de": "Die spezifischen Arten chemischer Bindungen (z.B. kovalente, ionische), die an der Interaktionsgrenzfläche gebildet werden.",
+          "ja": "相互作用界面で形成される特定の化学結合の種類（例：共有結合、イオン結合）。"
+        },
+        "feedback": {
+          "en": "While these models imply bond types through proximity and atomic identity, they primarily visualize overall shape complementarity, not directly the nature of individual bonds.",
+          "zh": "尽管这些模型通过原子接近度和身份暗示了键类型，但它们主要可视化整体形状互补性，而不是直接显示单个键的性质。",
+          "es": "Aunque estos modelos implican tipos de enlaces a través de la proximidad y la identidad atómica, visualizan principalmente la complementariedad general de la forma, no directamente la naturaleza de los enlaces individuales.",
+          "fr": "Bien que ces modèles impliquent des types de liaisons par la proximité et l'identité atomique, ils visualisent principalement la complémentarité globale de la forme, et non directement la nature des liaisons individuelles.",
+          "de": "Obwohl diese Modelle Bindungstypen durch Nähe und Atomidentität implizieren, visualisieren sie primär die gesamte Formkomplementarität und nicht direkt die Art der einzelnen Bindungen.",
+          "ja": "これらのモデルは近接性と原子の同一性を通じて結合の種類を示唆しますが、主に全体の形状の相補性を可視化するものであり、個々の結合の性質を直接示すものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 5.17's title is \"Complementarity of shape between two protein surfaces,\" and the description mentions adding an \"electron density map\" in the region where the proteins meet. This clearly indicates that the model's primary purpose is to show the detailed fit and complementary shapes critical for protein-protein interactions.",
+      "zh": "图5.17的标题是“两种蛋白质表面形状的互补性”，描述中提到在蛋白质结合区域添加了“电子密度图”。这清楚地表明，该模型的主要目的是展示对蛋白质间相互作用至关重要的详细契合度和互补形状。",
+      "es": "El título de la Figura 5.17 es \"Complementariedad de forma entre dos superficies proteicas\", y la descripción menciona la adición de un \"mapa de densidad electrónica\" en la región donde las proteínas se encuentran. Esto indica claramente que el propósito principal del modelo es mostrar el ajuste detallado y las formas complementarias críticas para las interacciones proteína-proteína.",
+      "fr": "Le titre de la Figure 5.17 est « Complémentarité de forme entre deux surfaces protéiques », et la description mentionne l'ajout d'une « carte de densité électronique » dans la région où les protéines se rencontrent. Cela indique clairement que le but principal du modèle est de montrer l'ajustement détaillé et les formes complémentaires essentielles aux interactions protéine-protéine.",
+      "de": "Der Titel von Abbildung 5.17 lautet „Komplementarität der Form zwischen zwei Proteinoberflächen“, und die Beschreibung erwähnt das Hinzufügen einer „Elektronendichtekarte“ in der Region, in der sich die Proteine treffen. Dies zeigt klar, dass der Hauptzweck des Modells darin besteht, die detaillierte Passung und komplementären Formen zu zeigen, die für Protein-Protein-Interaktionen entscheidend sind.",
+      "ja": "図5.17のタイトルは「2つのタンパク質表面間の形状の相補性」であり、説明文にはタンパク質が接する領域に「電子密度マップ」を追加すると記載されています。これは、モデルの主な目的が、タンパク質間相互作用に不可欠な詳細な適合性と相補的な形状を示すことであることを明確に示しています。"
+    }
+  }
+]

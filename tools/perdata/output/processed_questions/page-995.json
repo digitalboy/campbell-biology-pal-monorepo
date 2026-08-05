@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 995,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary chemical factor that most strongly influences the depth and rate of human breathing under normal conditions, and which brain region is primarily responsible for detecting this factor?",
+      "zh": "在正常情况下，什么是最强烈影响人类呼吸深度和速率的主要化学因素，哪个大脑区域主要负责检测这个因素？",
+      "es": "¿Cuál es el principal factor químico que más influye en la profundidad y el ritmo de la respiración humana en condiciones normales, y qué región cerebral es la principal responsable de detectar este factor?",
+      "fr": "Quel est le principal facteur chimique qui influence le plus fortement la profondeur et le rythme de la respiration humaine dans des conditions normales, et quelle région du cerveau est principalement responsable de la détection de ce facteur ?",
+      "de": "Welcher chemische Faktor beeinflusst unter normalen Bedingungen am stärksten die Tiefe und Rate der menschlichen Atmung, und welche Hirnregion ist hauptsächlich für die Detektion dieses Faktors verantwortlich?",
+      "ja": "通常の状況下で、人間の呼吸の深さと速さに最も強く影響を与える主要な化学因子は何ですか？また、どの脳領域が主にこの因子の検出を担当していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Oxygen concentration; Pons",
+          "zh": "氧气浓度；脑桥",
+          "es": "Concentración de oxígeno; Puente de Varolio",
+          "fr": "Concentration d'oxygène; Pont",
+          "de": "Sauerstoffkonzentration; Pons",
+          "ja": "酸素濃度；橋（Pons）"
+        },
+        "feedback": {
+          "en": "While oxygen does influence breathing at very low levels, CO2/pH is the primary regulator. Pons modulates, but medulla is the primary center.",
+          "zh": "尽管氧气在极低水平时确实会影响呼吸，但二氧化碳/pH是主要的调节因素。脑桥（Pons）起到调节作用，但延髓（Medulla）是主要的呼吸中枢。",
+          "es": "Aunque el oxígeno influye en la respiración a niveles muy bajos, el CO2/pH es el regulador principal. El puente de Varolio modula, pero la médula es el centro principal.",
+          "fr": "Bien que l'oxygène influence la respiration à des niveaux très bas, le CO2/pH est le régulateur principal. Le pont module, mais la moelle est le centre primaire.",
+          "de": "Obwohl Sauerstoff bei sehr niedrigen Konzentrationen die Atmung beeinflusst, ist CO2/pH der primäre Regulator. Der Pons moduliert, aber die Medulla ist das primäre Zentrum.",
+          "ja": "酸素は非常に低いレベルでは呼吸に影響を与えますが、CO2/pHが主要な調節因子です。橋（Pons）は調節しますが、延髄（Medulla）が主要な中枢です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Carbon dioxide concentration; Medulla oblongata",
+          "zh": "二氧化碳浓度；延髓",
+          "es": "Concentración de dióxido de carbono; Médula oblongada",
+          "fr": "Concentration de dioxyde de carbone; Bulbe rachidien",
+          "de": "Kohlendioxidkonzentration; Medulla oblongata",
+          "ja": "二酸化炭素濃度；延髄"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Blood pH; Cerebellum",
+          "zh": "血液pH值；小脑",
+          "es": "pH sanguíneo; Cerebelo",
+          "fr": "pH sanguin; Cervelet",
+          "de": "Blut-pH-Wert; Kleinhirn",
+          "ja": "血液pH；小脳"
+        },
+        "feedback": {
+          "en": "Blood pH is directly linked to CO2, but the primary detector is the medulla, not cerebellum.",
+          "zh": "血液pH值与二氧化碳直接相关，但主要的检测器是延髓，而不是小脑。",
+          "es": "El pH sanguíneo está directamente relacionado con el CO2, pero el detector principal es la médula, no el cerebelo.",
+          "fr": "Le pH sanguin est directement lié au CO2, mais le détecteur principal est la moelle, pas le cervelet.",
+          "de": "Der Blut-pH-Wert ist direkt mit CO2 verbunden, aber der primäre Detektor ist die Medulla, nicht das Kleinhirn.",
+          "ja": "血液のpHはCO2と直接関連していますが、主要な検出器は小脳ではなく延髄です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Nitrogen concentration; Carotid arteries",
+          "zh": "氮气浓度；颈动脉",
+          "es": "Concentración de nitrógeno; Arterias carótidas",
+          "fr": "Concentration d'azote; Artères carotides",
+          "de": "Stickstoffkonzentration; Halsschlagadern",
+          "ja": "窒素濃度；頸動脈"
+        },
+        "feedback": {
+          "en": "Nitrogen is not a primary chemical stimulus for breathing.",
+          "zh": "氮气不是呼吸的主要化学刺激物。",
+          "es": "El nitrógeno no es un estímulo químico principal para la respiración.",
+          "fr": "L'azote n'est pas un stimulus chimique principal pour la respiration.",
+          "de": "Stickstoff ist kein primärer chemischer Stimulus für die Atmung.",
+          "ja": "窒素は呼吸の主要な化学刺激物ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The medulla oblongata is the primary breathing control center, and it is most sensitive to changes in carbon dioxide concentration in the blood, which directly affects the pH of cerebrospinal fluid. An increase in CO2 lowers pH, stimulating increased breathing.",
+      "zh": "延髓是主要的呼吸控制中枢，它对血液中二氧化碳浓度的变化最为敏感，这种变化直接影响脑脊液的pH值。二氧化碳增加会降低pH值，从而刺激呼吸加快。",
+      "es": "La médula oblongada es el centro de control respiratorio principal, y es más sensible a los cambios en la concentración de dióxido de carbono en la sangre, lo que afecta directamente el pH del líquido cefalorraquídeo. Un aumento de CO2 disminuye el pH, estimulando un aumento de la respiración.",
+      "fr": "Le bulbe rachidien est le principal centre de contrôle de la respiration, et il est le plus sensible aux changements de concentration de dioxyde de carbone dans le sang, ce qui affecte directement le pH du liquide céphalo-rachidien. Une augmentation du CO2 abaisse le pH, stimulant une augmentation de la respiration.",
+      "de": "Die Medulla oblongata ist das primäre Atemkontrollzentrum und am empfindlichsten gegenüber Änderungen der Kohlendioxidkonzentration im Blut, die direkt den pH-Wert der Zerebrospinalflüssigkeit beeinflussen. Ein Anstieg von CO2 senkt den pH-Wert und stimuliert eine erhöhte Atmung.",
+      "ja": "延髄は主要な呼吸制御中枢であり、血液中の二酸化炭素濃度変化に最も敏感です。この変化は脳脊髄液のpHに直接影響を与えます。CO2の増加はpHを低下させ、呼吸の増加を刺激します。"
+    }
+  },
+  {
+    "page_number": 995,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the passage, why do mammals generally function less effectively than birds at high altitudes in terms of oxygen acquisition?",
+      "zh": "根据文章，为什么哺乳动物在氧气获取方面通常不如鸟类在高海拔地区表现有效？",
+      "es": "Según el pasaje, ¿por qué los mamíferos generalmente funcionan menos eficazmente que las aves a grandes altitudes en términos de adquisición de oxígeno?",
+      "fr": "Selon le passage, pourquoi les mammifères fonctionnent-ils généralement moins efficacement que les oiseaux en haute altitude en termes d'acquisition d'oxygène ?",
+      "de": "Warum funktionieren Säugetiere laut dem Text im Hinblick auf die Sauerstoffaufnahme in großer Höhe im Allgemeinen weniger effektiv als Vögel?",
+      "ja": "本文によると、なぜ哺乳類は酸素獲得の点で、高地で鳥類よりも一般的に効率が低いのでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Mammals have a higher metabolic rate requiring more oxygen.",
+          "zh": "哺乳动物的新陈代谢率更高，需要更多氧气。",
+          "es": "Los mamíferos tienen una tasa metabólica más alta que requiere más oxígeno.",
+          "fr": "Les mammifères ont un taux métabolique plus élevé nécessitant plus d'oxygène.",
+          "de": "Säugetiere haben einen höheren Stoffwechsel, der mehr Sauerstoff benötigt.",
+          "ja": "哺乳類は代謝率が高く、より多くの酸素を必要とするため。"
+        },
+        "feedback": {
+          "en": "This reason is not provided in the text as the primary explanation for the difference in altitude performance.",
+          "zh": "文章中没有将此原因作为海拔差异性能的主要解释。",
+          "es": "Esta razón no se proporciona en el texto como la explicación principal de la diferencia en el rendimiento en altitud.",
+          "fr": "Cette raison n'est pas fournie dans le texte comme explication principale de la différence de performance en altitude.",
+          "de": "Dieser Grund wird im Text nicht als primäre Erklärung für den Leistungsunterschied in der Höhe angegeben.",
+          "ja": "この理由は、高地での性能差の主な説明として本文に記載されていません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Birds possess a more flexible diaphragm for increased ventilation.",
+          "zh": "鸟类拥有更灵活的膈肌以增加通气量。",
+          "es": "Las aves poseen un diafragma más flexible para una mayor ventilación.",
+          "fr": "Les oiseaux possèdent un diaphragme plus flexible pour une ventilation accrue.",
+          "de": "Vögel besitzen ein flexibleres Zwerchfell für erhöhte Ventilation.",
+          "ja": "鳥類は換気を増やすためにより柔軟な横隔膜を持っているため。"
+        },
+        "feedback": {
+          "en": "The passage highlights lung structure and airflow, not diaphragm flexibility, as the key difference for altitude efficiency.",
+          "zh": "文章强调的是肺部结构和气流，而不是膈肌的灵活性，是影响高海拔效率的关键差异。",
+          "es": "El pasaje destaca la estructura pulmonar y el flujo de aire, no la flexibilidad del diafragma, como la diferencia clave para la eficiencia en altitud.",
+          "fr": "Le passage met en évidence la structure pulmonaire et le flux d'air, et non la flexibilité du diaphragme, comme différence clé pour l'efficacité en altitude.",
+          "de": "Der Text hebt die Lungenstruktur und den Luftstrom hervor, nicht die Zwerchfellflexibilität, als den Hauptunterschied für die Effizienz in der Höhe.",
+          "ja": "本文では、高地での効率性に関する主要な違いとして、肺の構造と気流が強調されており、横隔膜の柔軟性については言及されていません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Mammalian lungs do not completely empty with each breath, and inhalation mixes fresh air with residual air, leading to lower maximum PO2 in alveoli compared to birds' unidirectional flow.",
+          "zh": "哺乳动物的肺部每次呼吸时不会完全排空，吸入的空气与残余空气混合，导致肺泡中的最大氧分压低于鸟类的单向气流。",
+          "es": "Los pulmones de los mamíferos no se vacían completamente con cada respiración, y la inhalación mezcla aire fresco con aire residual, lo que lleva a una PO2 máxima más baja en los alvéolos en comparación con el flujo unidireccional de las aves.",
+          "fr": "Les poumons des mammifères ne se vident pas complètement à chaque respiration, et l'inhalation mélange l'air frais avec l'air résiduel, ce qui entraîne une PO2 maximale plus faible dans les alvéoles par rapport au flux unidirectionnel des oiseaux.",
+          "de": "Die Lungen von Säugetieren entleeren sich nicht vollständig bei jedem Atemzug, und die Einatmung vermischt Frischluft mit Restluft, was zu einem niedrigeren maximalen PO2 in den Alveolen im Vergleich zum unidirektionalen Fluss der Vögel führt.",
+          "ja": "哺乳類の肺は一回の呼吸で完全に空になることはなく、吸気は残存空気と混ざるため、肺胞内の最大酸素分圧が鳥類の一方向の気流と比較して低くなります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Birds have a larger lung capacity relative to their body size, allowing for greater oxygen storage.",
+          "zh": "鸟类相对于其体型具有更大的肺容量，可以储存更多氧气。",
+          "es": "Las aves tienen una mayor capacidad pulmonar en relación con su tamaño corporal, lo que permite un mayor almacenamiento de oxígeno.",
+          "fr": "Les oiseaux ont une plus grande capacité pulmonaire par rapport à leur taille corporelle, permettant un stockage d'oxygène plus important.",
+          "de": "Vögel haben im Verhältnis zu ihrer Körpergröße eine größere Lungenkapazität, was eine größere Sauerstoffspeicherung ermöglicht.",
+          "ja": "鳥類は体重に対して肺容量が大きく、より多くの酸素を貯蔵できるため。"
+        },
+        "feedback": {
+          "en": "While birds have efficient respiratory systems, the text specifically points to unidirectional airflow and the complete emptying of lungs as key advantages over mammalian mixing of fresh and residual air.",
+          "zh": "尽管鸟类拥有高效的呼吸系统，但文章明确指出单向气流和肺部完全排空是它们相对于哺乳动物新鲜空气与残余空气混合的关键优势。",
+          "es": "Aunque las aves tienen sistemas respiratorios eficientes, el texto señala específicamente el flujo de aire unidireccional y el vaciamiento completo de los pulmones como ventajas clave sobre la mezcla de aire fresco y residual en los mamíferos.",
+          "fr": "Bien que les oiseaux aient des systèmes respiratoires efficaces, le texte souligne spécifiquement le flux d'air unidirectionnel et la vidange complète des poumons comme des avantages clés par rapport au mélange d'air frais et résiduel chez les mammifères.",
+          "de": "Obwohl Vögel effiziente Atmungssysteme haben, verweist der Text spezifisch auf den unidirektionalen Luftstrom und die vollständige Entleerung der Lungen als entscheidende Vorteile gegenüber der Vermischung von Frischluft und Restluft bei Säugetieren.",
+          "ja": "鳥類は効率的な呼吸器系を持っていますが、本文では、一方向の空気の流れと肺の完全な排出が、哺乳類の新鮮な空気と残存空気の混合に対する主要な利点として具体的に指摘されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Mammalian lungs do not completely empty with each breath, leading to mixing of fresh air with oxygen-depleted residual air, which results in a lower maximum PO2 in the alveoli. Birds, however, have a unidirectional flow of air through their lungs, allowing for more efficient oxygen uptake at high altitudes.",
+      "zh": "哺乳动物的肺部在每次呼吸时不会完全排空，导致新鲜空气与缺氧的残余空气混合，这使得肺泡中的最大氧分压较低。而鸟类则通过肺部实现单向气流，从而在高海拔地区能更有效地摄取氧气。",
+      "es": "Los pulmones de los mamíferos no se vacían completamente con cada respiración, lo que lleva a la mezcla de aire fresco con aire residual empobrecido en oxígeno, resultando en una PO2 máxima más baja en los alvéolos. Las aves, sin embargo, tienen un flujo de aire unidireccional a través de sus pulmones, lo que permite una captación de oxígeno más eficiente en altitudes elevadas.",
+      "fr": "Les poumons des mammifères ne se vident pas complètement à chaque respiration, ce qui entraîne un mélange de l'air frais avec l'air résiduel appauvri en oxygène, conduisant à une PO2 maximale plus faible dans les alvéoles. Les oiseaux, en revanche, ont un flux d'air unidirectionnel à travers leurs poumons, permettant une absorption d'oxygène plus efficace en haute altitude.",
+      "de": "Die Lungen von Säugetieren entleeren sich nicht vollständig bei jedem Atemzug, was zu einer Vermischung von Frischluft mit sauerstoffarmer Restluft führt und somit zu einem niedrigeren maximalen PO2 in den Alveolen. Vögel hingegen haben einen unidirektionalen Luftstrom durch ihre Lungen, was eine effizientere Sauerstoffaufnahme in großen Höhen ermöglicht.",
+      "ja": "哺乳類の肺は一回の呼吸で完全に空になることはなく、新鮮な空気が酸素の少ない残存空気と混ざるため、肺胞内の最大酸素分圧が低くなります。一方、鳥類は肺を通して一方向の空気の流れを持つため、高地での酸素摂取がより効率的です。"
+    }
+  },
+  {
+    "page_number": 995,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A person begins exercising intensely. Based on Figure 42.28 and the accompanying text, what is the correct sequence of events that occurs to restore blood pH homeostasis?",
+      "zh": "一个人开始剧烈运动。根据图42.28和随附的文本，为了恢复血液pH值的稳态，发生的正确事件序列是什么？",
+      "es": "Una persona comienza a hacer ejercicio intensamente. Basándose en la Figura 42.28 y el texto adjunto, ¿cuál es la secuencia correcta de eventos que ocurre para restaurar la homeostasis del pH sanguíneo?",
+      "fr": "Une personne commence à faire de l'exercice intense. D'après la Figure 42.28 et le texte l'accompagnant, quelle est la séquence correcte des événements qui se produisent pour restaurer l'homéostasie du pH sanguin ?",
+      "de": "Eine Person beginnt intensiv zu trainieren. Basierend auf Abbildung 42.28 und dem begleitenden Text, welche ist die korrekte Abfolge der Ereignisse, die zur Wiederherstellung der Blut-pH-Homöostase führen?",
+      "ja": "ある人が激しい運動を始めました。図42.28と付随するテキストに基づいて、血液pHのホメオスタシスを回復するために起こる正しい事象のシーケンスは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Increased H+ → Decreased pH → Medulla detects pH drop → Increased breathing rate → Decreased CO2 → Increased pH.",
+          "zh": "H+增加 → pH值降低 → 延髓检测到pH值下降 → 呼吸速率增加 → CO2减少 → pH值升高。",
+          "es": "Aumento de H+ → Disminución del pH → La médula detecta la caída del pH → Aumento de la frecuencia respiratoria → Disminución de CO2 → Aumento del pH.",
+          "fr": "Augmentation de H+ → Diminution du pH → Le bulbe rachidien détecte la baisse du pH → Augmentation du rythme respiratoire → Diminution du CO2 → Augmentation du pH.",
+          "de": "Erhöhung von H+ → Abnahme des pH-Werts → Medulla detektiert pH-Abfall → Erhöhte Atemfrequenz → Reduzierung von CO2 → Erhöhung des pH-Werts.",
+          "ja": "H+増加 → pH低下 → 延髄がpH低下を検出 → 呼吸数増加 → CO2減少 → pH上昇。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Increased O2 → Increased pH → Medulla detects pH rise → Decreased breathing rate → Increased CO2 → Decreased pH.",
+          "zh": "O2增加 → pH值升高 → 延髓检测到pH值升高 → 呼吸速率降低 → CO2增加 → pH值降低。",
+          "es": "Aumento de O2 → Aumento del pH → La médula detecta el aumento del pH → Disminución de la frecuencia respiratoria → Aumento de CO2 → Disminución del pH.",
+          "fr": "Augmentation de O2 → Augmentation du pH → Le bulbe rachidien détecte l'augmentation du pH → Diminution du rythme respiratoire → Augmentation du CO2 → Diminution du pH.",
+          "de": "Erhöhung von O2 → Erhöhung des pH-Werts → Medulla detektiert pH-Anstieg → Reduzierte Atemfrequenz → Erhöhung von CO2 → Abnahme des pH-Werts.",
+          "ja": "O2増加 → pH上昇 → 延髄がpH上昇を検出 → 呼吸数減少 → CO2増加 → pH低下。"
+        },
+        "feedback": {
+          "en": "Intense exercise increases CO2 production, which leads to a *decrease* in pH, not an increase in O2 or pH.",
+          "zh": "剧烈运动会增加二氧化碳的产生，这会导致pH值*降低*，而不是氧气或pH值增加。",
+          "es": "El ejercicio intenso aumenta la producción de CO2, lo que lleva a una *disminución* del pH, no a un aumento de O2 o pH.",
+          "fr": "L'exercice intense augmente la production de CO2, ce qui entraîne une *diminution* du pH, et non une augmentation de l'O2 ou du pH.",
+          "de": "Intensives Training erhöht die CO2-Produktion, was zu einer *Abnahme* des pH-Werts führt, nicht zu einer Zunahme von O2 oder pH.",
+          "ja": "激しい運動はCO2の生成を増加させ、これによりpHが*低下*します。O2やpHが増加することはありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Increased CO2 → Increased pH → Carotid arteries detect pH rise → Decreased breathing rate → Increased CO2 → Decreased pH.",
+          "zh": "CO2增加 → pH值升高 → 颈动脉检测到pH值升高 → 呼吸速率降低 → CO2增加 → pH值降低。",
+          "es": "Aumento de CO2 → Aumento del pH → Las arterias carótidas detectan el aumento del pH → Disminución de la frecuencia respiratoria → Aumento de CO2 → Disminución del pH.",
+          "fr": "Augmentation de CO2 → Augmentation du pH → Les artères carotides détectent l'augmentation du pH → Diminution du rythme respiratoire → Augmentation du CO2 → Diminution du pH.",
+          "de": "Erhöhung von CO2 → Erhöhung des pH-Werts → Halsschlagadern detektieren pH-Anstieg → Reduzierte Atemfrequenz → Erhöhung von CO2 → Abnahme des pH-Werts.",
+          "ja": "CO2増加 → pH上昇 → 頸動脈がpH上昇を検出 → 呼吸数減少 → CO2増加 → pH低下。"
+        },
+        "feedback": {
+          "en": "Increased CO2 leads to a *decrease* in pH (more acidic), not an increase. Sensors detect a *decrease* in pH, not an increase.",
+          "zh": "二氧化碳增加会导致pH值*降低*（酸性更强），而不是升高。传感器检测到的是pH值*降低*，而不是升高。",
+          "es": "El aumento de CO2 conduce a una *disminución* del pH (más ácido), no a un aumento. Los sensores detectan una *disminución* del pH, no un aumento.",
+          "fr": "Une augmentation du CO2 entraîne une *diminution* du pH (plus acide), et non une augmentation. Les capteurs détectent une *diminution* du pH, et non une augmentation.",
+          "de": "Ein Anstieg von CO2 führt zu einer *Abnahme* des pH-Werts (saurer), nicht zu einer Zunahme. Sensoren detektieren eine *Abnahme* des pH-Werts, nicht eine Zunahme.",
+          "ja": "CO2の増加はpHの*低下*（より酸性）につながり、増加ではありません。センサーはpHの*低下*を検出し、増加ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Decreased CO2 → Decreased pH → Medulla detects pH drop → Decreased breathing rate → Increased CO2 → Increased pH.",
+          "zh": "CO2减少 → pH值降低 → 延髓检测到pH值下降 → 呼吸速率降低 → CO2增加 → pH值升高。",
+          "es": "Disminución de CO2 → Disminución del pH → La médula detecta la caída del pH → Disminución de la frecuencia respiratoria → Aumento de CO2 → Aumento del pH.",
+          "fr": "Diminution de CO2 → Diminution du pH → Le bulbe rachidien détecte la baisse du pH → Diminution du rythme respiratoire → Augmentation du CO2 → Augmentation du pH.",
+          "de": "Abnahme von CO2 → Abnahme des pH-Werts → Medulla detektiert pH-Abfall → Reduzierte Atemfrequenz → Erhöhung von CO2 → Erhöhung des pH-Werts.",
+          "ja": "CO2減少 → pH低下 → 延髄がpH低下を検出 → 呼吸数減少 → CO2増加 → pH上昇。"
+        },
+        "feedback": {
+          "en": "Decreased CO2 would *increase* pH. A pH drop (acidosis) triggers an *increase* in breathing rate to expel more CO2 and raise pH, not a decrease.",
+          "zh": "二氧化碳减少会*升高*pH值。pH值下降（酸中毒）会触发呼吸速率*增加*，以排出更多二氧化碳并升高pH值，而不是降低。",
+          "es": "La disminución de CO2 *aumentaría* el pH. Una caída del pH (acidosis) provoca un *aumento* de la frecuencia respiratoria para expulsar más CO2 y elevar el pH, no una disminución.",
+          "fr": "Une diminution du CO2 *augmenterait* le pH. Une baisse du pH (acidose) déclenche une *augmentation* du rythme respiratoire pour expulser plus de CO2 et élever le pH, et non une diminution.",
+          "de": "Ein Abfall des CO2 würde den pH-Wert *erhöhen*. Ein pH-Abfall (Azidose) löst eine *Erhöhung* der Atemfrequenz aus, um mehr CO2 auszuatmen und den pH-Wert zu erhöhen, nicht eine Abnahme.",
+          "ja": "CO2の減少はpHを*上昇*させます。pHの低下（アシドーシス）は、より多くのCO2を排出し、pHを上げるために呼吸数を*増加*させ、低下させるわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Intense exercise increases metabolic activity, producing more CO2. CO2 reacts with water to form carbonic acid (H2CO3), which dissociates into H+ and HCO3-, lowering the blood pH. This decrease in pH is detected by sensors in the medulla and major blood vessels. In response, the medulla increases the depth and rate of breathing, which expels more CO2, thereby reducing H+ concentration and raising the pH back to normal.",
+      "zh": "剧烈运动会增加新陈代谢活动，产生更多二氧化碳。二氧化碳与水反应形成碳酸（H2CO3），碳酸会解离成H+和HCO3-，从而降低血液pH值。pH值的下降被延髓和主要血管中的传感器检测到。作为响应，延髓会增加呼吸的深度和频率，从而排出更多二氧化碳，减少H+浓度，使pH值恢复正常。",
+      "es": "El ejercicio intenso aumenta la actividad metabólica, produciendo más CO2. El CO2 reacciona con el agua para formar ácido carbónico (H2CO3), que se disocia en H+ y HCO3-, disminuyendo el pH sanguíneo. Esta disminución del pH es detectada por sensores en la médula y los principales vasos sanguíneos. En respuesta, la médula aumenta la profundidad y la frecuencia respiratoria, lo que expulsa más CO2, reduciendo así la concentración de H+ y elevando el pH de nuevo a la normalidad.",
+      "fr": "L'exercice intense augmente l'activité métabolique, produisant plus de CO2. Le CO2 réagit avec l'eau pour former de l'acide carbonique (H2CO3), qui se dissocie en H+ et HCO3-, abaissant le pH sanguin. Cette diminution du pH est détectée par des capteurs dans le bulbe rachidien et les principaux vaisseaux sanguins. En réponse, le bulbe augmente la profondeur et le rythme de la respiration, ce qui expulse plus de CO2, réduisant ainsi la concentration de H+ et ramenant le pH à la normale.",
+      "de": "Intensives Training erhöht die Stoffwechselaktivität und produziert mehr CO2. CO2 reagiert mit Wasser zu Kohlensäure (H2CO3), die in H+ und HCO3- dissoziiert und den Blut-pH-Wert senkt. Dieser pH-Abfall wird von Sensoren in der Medulla und den großen Blutgefäßen detektiert. Als Reaktion erhöht die Medulla die Tiefe und Rate der Atmung, wodurch mehr CO2 ausgeatmet wird, die H+-Konzentration reduziert und der pH-Wert wieder normalisiert wird.",
+      "ja": "激しい運動は代謝活動を増加させ、より多くのCO2を生成します。CO2は水と反応して炭酸（H2CO3）を形成し、それがH+とHCO3-に解離して血液のpHを低下させます。このpHの低下は、延髄と主要な血管内のセンサーによって検出されます。これに応答して、延髄は呼吸の深さと速さを増加させ、より多くのCO2を排出することでH+濃度を減少させ、pHを正常に戻します。"
+    }
+  },
+  {
+    "page_number": 995,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "If a small hole were torn in the membranes surrounding a person's lungs (e.g., the pleura), what immediate effect would this likely have on lung function and how might the body's control mechanisms respond?",
+      "zh": "如果一个人肺部周围的膜（例如胸膜）被撕裂了一个小孔，这会对肺功能产生什么直接影响，以及身体的控制机制可能如何响应？",
+      "es": "Si se hiciera un pequeño agujero en las membranas que rodean los pulmones de una persona (por ejemplo, la pleura), ¿qué efecto inmediato tendría esto probablemente en la función pulmonar y cómo podrían responder los mecanismos de control del cuerpo?",
+      "fr": "Si un petit trou était déchiré dans les membranes entourant les poumons d'une personne (par exemple, la plèvre), quel effet immédiat cela aurait-il probablement sur la fonction pulmonaire et comment les mécanismes de contrôle du corps pourraient-ils réagir ?",
+      "de": "Wenn ein kleines Loch in die die Lungen umgebenden Membranen (z.B. das Pleura) gerissen würde, welche unmittelbare Auswirkung hätte dies wahrscheinlich auf die Lungenfunktion, und wie könnten die Kontrollmechanismen des Körpers reagieren?",
+      "ja": "もし人の肺を囲む膜（例えば胸膜）に小さな穴が開いた場合、肺機能にどのような即時的な影響があり、身体の制御機構はどのように反応する可能性がありますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The lung would expand more easily, leading to increased oxygen uptake, and the body would decrease breathing rate.",
+          "zh": "肺部会更容易扩张，导致氧气摄取量增加，身体会降低呼吸速率。",
+          "es": "El pulmón se expandiría más fácilmente, lo que llevaría a un aumento de la captación de oxígeno, y el cuerpo disminuiría la frecuencia respiratoria.",
+          "fr": "Le poumon se dilaterait plus facilement, entraînant une augmentation de l'absorption d'oxygène, et le corps diminuerait le rythme respiratoire.",
+          "de": "Die Lunge würde sich leichter ausdehnen, was zu einer erhöhten Sauerstoffaufnahme führen würde, und der Körper würde die Atemfrequenz reduzieren.",
+          "ja": "肺はより容易に拡張し、酸素摂取量が増加し、体は呼吸数を減少させるでしょう。"
+        },
+        "feedback": {
+          "en": "A hole in the pleura would compromise the negative pressure that keeps the lung inflated, leading to collapse, not easier expansion.",
+          "zh": "胸膜上的孔会损害维持肺部膨胀的负压，导致肺部塌陷，而不是更容易扩张。",
+          "es": "Un agujero en la pleura comprometería la presión negativa que mantiene el pulmón inflado, lo que llevaría al colapso, no a una expansión más fácil.",
+          "fr": "Un trou dans la plèvre compromettrait la pression négative qui maintient le poumon gonflé, entraînant un collapsus, et non une expansion plus facile.",
+          "de": "Ein Loch in der Pleura würde den Unterdruck beeinträchtigen, der die Lunge aufgeblasen hält, was zu einem Kollaps, nicht zu einer leichteren Expansion führen würde.",
+          "ja": "胸膜に穴が開くと、肺が膨張状態を保つための陰圧が損なわれ、肺が虚脱します。より容易な膨張にはなりません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Air would enter the space between the lung and chest wall, collapsing the lung, making inhalation difficult or impossible, and the body would likely increase breathing effort due to reduced gas exchange.",
+          "zh": "空气会进入肺部和胸壁之间的空间，导致肺部塌陷，使吸气困难或不可能，并且由于气体交换减少，身体可能会增加呼吸努力。",
+          "es": "El aire entraría en el espacio entre el pulmón y la pared torácica, colapsando el pulmón, dificultando o imposibilitando la inhalación, y el cuerpo probablemente aumentaría el esfuerzo respiratorio debido a la reducción del intercambio gaseoso.",
+          "fr": "L'air entrerait dans l'espace entre le poumon et la paroi thoracique, provoquant l'affaissement du poumon, rendant l'inhalation difficile voire impossible, et le corps augmenterait probablement l'effort respiratoire en raison de la réduction des échanges gazeux.",
+          "de": "Luft würde in den Raum zwischen Lunge und Brustwand eindringen, was zum Kollaps der Lunge führen würde, das Einatmen erschweren oder unmöglich machen würde, und der Körper würde wahrscheinlich den Atemaufwand aufgrund des reduzierten Gasaustauschs erhöhen.",
+          "ja": "空気は肺と胸壁の間の空間に入り込み、肺が虚脱し、吸気が困難または不可能になり、ガス交換の減少により体が呼吸努力を増す可能性があります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The lung would become overinflated, triggering the negative-feedback mechanism to inhibit inhalation, leading to slower, deeper breaths.",
+          "zh": "肺部会过度膨胀，触发负反馈机制抑制吸气，导致呼吸变得缓慢而深沉。",
+          "es": "El pulmón se inflaría excesivamente, lo que activaría el mecanismo de retroalimentación negativa para inhibir la inhalación, llevando a respiraciones más lentas y profundas.",
+          "fr": "Le poumon deviendrait trop gonflé, déclenchant le mécanisme de rétroaction négative pour inhiber l'inhalation, conduisant à des respirations plus lentes et plus profondes.",
+          "de": "Die Lunge würde überbläht, was den negativen Rückkopplungsmechanismus zur Hemmung der Einatmung auslösen und zu langsameren, tieferen Atemzügen führen würde.",
+          "ja": "肺は過度に膨張し、吸気を抑制する負のフィードバックメカニズムが作動し、呼吸が遅く深くなるでしょう。"
+        },
+        "feedback": {
+          "en": "A hole would prevent the lung from maintaining the negative pressure needed for inflation, leading to collapse rather than overinflation.",
+          "zh": "孔会阻止肺部维持充气所需的负压，导致塌陷而不是过度充气。",
+          "es": "Un agujero impediría que el pulmón mantuviera la presión negativa necesaria para la inflación, lo que llevaría al colapso en lugar de la sobreinflación.",
+          "fr": "Un trou empêcherait le poumon de maintenir la pression négative nécessaire à l'inflation, entraînant un collapsus plutôt qu'une surinflation.",
+          "de": "Ein Loch würde verhindern, dass die Lunge den für die Inflation erforderlichen Unterdruck aufrechterhält, was zu einem Kollaps und nicht zu einer Überblähung führen würde.",
+          "ja": "穴が開くと、肺が膨張に必要な陰圧を維持できなくなり、過膨張ではなく虚脱につながります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Blood flow to the lungs would immediately cease, causing a rapid drop in blood CO2 levels and a compensatory decrease in breathing rate.",
+          "zh": "流向肺部的血液会立即停止，导致血液二氧化碳水平迅速下降，并代偿性地降低呼吸速率。",
+          "es": "El flujo sanguíneo a los pulmones cesaría inmediatamente, provocando una rápida caída en los niveles de CO2 en sangre y una disminución compensatoria de la frecuencia respiratoria.",
+          "fr": "Le flux sanguin vers les poumons cesserait immédiatement, provoquant une chute rapide des niveaux de CO2 sanguin et une diminution compensatoire du rythme respiratoire.",
+          "de": "Der Blutfluss zu den Lungen würde sofort aufhören, was zu einem rapiden Abfall der Blut-CO2-Werte und einer kompensatorischen Abnahme der Atemfrequenz führen würde.",
+          "ja": "肺への血流が直ちに停止し、血液中のCO2レベルが急速に低下し、代償的に呼吸数が減少するでしょう。"
+        },
+        "feedback": {
+          "en": "Blood flow would not cease. Impaired gas exchange due to lung collapse would likely lead to an *increase* in blood CO2 levels and a compensatory *increase* in breathing rate, if possible.",
+          "zh": "血液流动不会停止。肺部塌陷导致的气体交换受损可能会导致血液二氧化碳水平*升高*，并（如果可能的话）代偿性地*增加*呼吸速率。",
+          "es": "El flujo sanguíneo no cesaría. La alteración del intercambio gaseoso debido al colapso pulmonar probablemente conduciría a un *aumento* de los niveles de CO2 en sangre y a un *aumento* compensatorio de la frecuencia respiratoria, si fuera posible.",
+          "fr": "Le flux sanguin ne cesserait pas. Une altération des échanges gazeux due à un collapsus pulmonaire entraînerait probablement une *augmentation* des niveaux de CO2 dans le sang et une *augmentation* compensatoire du rythme respiratoire, si possible.",
+          "de": "Der Blutfluss würde nicht aufhören. Eine beeinträchtigte Gaswechsel aufgrund des Lungenkollapses würde wahrscheinlich zu einem *Anstieg* der Blut-CO2-Werte und, falls möglich, zu einer kompensatorischen *Erhöhung* der Atemfrequenz führen.",
+          "ja": "血流は止まりません。肺虚脱によるガス交換の障害は、血液CO2レベルの*増加*、そして可能であれば代償的な呼吸数の*増加*につながる可能性があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The lungs are held against the chest wall by the negative pressure within the pleural space. A hole in the pleura (pneumothorax) would allow air to enter this space, breaking the negative pressure and causing the lung to collapse. This would severely impair gas exchange (oxygen uptake and carbon dioxide removal). The body's control mechanisms, sensing reduced O2 and/or increased CO2, would attempt to compensate by increasing the rate and depth of breathing, though this would be ineffective if the lung is collapsed.",
+      "zh": "肺部通过胸膜腔内的负压紧贴胸壁。胸膜上的小孔（气胸）会允许空气进入这个空间，破坏负压，导致肺部塌陷。这将严重损害气体交换（氧气摄取和二氧化碳排出）。身体的控制机制在检测到氧气减少和/或二氧化碳增加时，会试图通过增加呼吸的速率和深度来代偿，但如果肺部塌陷，这种代偿将是无效的。",
+      "es": "Los pulmones se mantienen pegados a la pared torácica por la presión negativa dentro del espacio pleural. Un agujero en la pleura (neumotórax) permitiría la entrada de aire en este espacio, rompiendo la presión negativa y haciendo que el pulmón colapse. Esto afectaría gravemente el intercambio de gases (captación de oxígeno y eliminación de dióxido de carbono). Los mecanismos de control del cuerpo, al detectar una reducción de O2 y/o un aumento de CO2, intentarían compensar aumentando la frecuencia y profundidad de la respiración, aunque esto sería ineficaz si el pulmón está colapsado.",
+      "fr": "Les poumons sont maintenus contre la paroi thoracique par la pression négative à l'intérieur de l'espace pleural. Un trou dans la plèvre (pneumothorax) permettrait à l'air d'entrer dans cet espace, brisant la pression négative et provoquant l'affaissement du poumon. Cela altérerait gravement les échanges gazeux (absorption d'oxygène et élimination du dioxyde de carbone). Les mécanismes de contrôle du corps, détectant une réduction d'O2 et/ou une augmentation de CO2, tenteraient de compenser en augmentant le rythme et la profondeur de la respiration, bien que cela serait inefficace si le poumon est affaissé.",
+      "de": "Die Lungen werden durch den Unterdruck im Pleuraspalt an der Brustwand gehalten. Ein Loch in der Pleura (Pneumothorax) würde Luft in diesen Raum eindringen lassen, den Unterdruck aufheben und die Lunge kollabieren lassen. Dies würde den Gasaustausch (Sauerstoffaufnahme und Kohlendioxidentfernung) schwer beeinträchtigen. Die Kontrollmechanismen des Körpers, die eine reduzierte O2- und/oder erhöhte CO2-Konzentration detektieren, würden versuchen, dies durch Erhöhung der Atemtiefe und -frequenz zu kompensieren, obwohl dies bei einem kollabierten Lungenflügel ineffektiv wäre.",
+      "ja": "肺は胸膜腔内の陰圧によって胸壁に保持されています。胸膜に穴が開くと（気胸）、この空間に空気が入り込み、陰圧が破られて肺が虚脱します。これによりガス交換（酸素摂取と二酸化炭素排出）が著しく損なわれます。体内の制御機構は、O2の減少および/またはCO2の増加を感知し、呼吸の速さと深さを増やすことで代償しようとしますが、肺が虚脱している場合はこれは効果がありません。"
+    }
+  }
+]

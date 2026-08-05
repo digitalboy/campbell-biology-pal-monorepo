@@ -1,0 +1,372 @@
+[
+  {
+    "page_number": 454,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements about viral envelopes is correct?",
+      "zh": "以下关于病毒包膜的陈述哪一项是正确的？",
+      "es": "¿Cuál de las siguientes afirmaciones sobre las envolturas virales es correcta?",
+      "fr": "Laquelle des affirmations suivantes concernant les enveloppes virales est correcte ?",
+      "de": "Welche der folgenden Aussagen über Virushüllen ist korrekt?",
+      "ja": "以下のウイルスエンベロープに関する記述のうち、正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Viral envelopes are always directly synthesized by viral genes.",
+          "zh": "病毒包膜总是直接由病毒基因合成的。",
+          "es": "Las envolturas virales siempre son sintetizadas directamente por genes virales.",
+          "fr": "Les enveloppes virales sont toujours directement synthétisées par les gènes viraux.",
+          "de": "Virushüllen werden immer direkt von viralen Genen synthetisiert.",
+          "ja": "ウイルスエンベロープは常にウイルス遺伝子によって直接合成されます。"
+        },
+        "feedback": {
+          "en": "While viral genes specify the glycoproteins, the membrane itself is derived from the host cell.",
+          "zh": "尽管病毒基因编码糖蛋白，但包膜本身源自宿主细胞。",
+          "es": "Aunque los genes virales especifican las glicoproteínas, la membrana en sí se deriva de la célula huésped.",
+          "fr": "Bien que les gènes viraux spécifient les glycoprotéines, la membrane elle-même est dérivée de la cellule hôte.",
+          "de": "Obwohl virale Gene die Glykoproteine spezifizieren, stammt die Membran selbst von der Wirtszelle.",
+          "ja": "ウイルス遺伝子は糖タンパク質を特定しますが、膜自体は宿主細胞に由来します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The viral envelope is primarily composed of host cell membrane and viral glycoproteins.",
+          "zh": "病毒包膜主要由宿主细胞膜和病毒糖蛋白组成。",
+          "es": "La envoltura viral se compone principalmente de la membrana de la célula huésped y glicoproteínas virales.",
+          "fr": "L'enveloppe virale est principalement composée de la membrane de la cellule hôte et de glycoprotéines virales.",
+          "de": "Die Virushülle besteht hauptsächlich aus der Wirtszellmembran und viralen Glykoproteinen.",
+          "ja": "ウイルスエンベロープは主に宿主細胞膜とウイルス糖タンパク質から構成されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "All animal viruses possess an envelope.",
+          "zh": "所有动物病毒都具有包膜。",
+          "es": "Todos los virus animales poseen una envoltura.",
+          "fr": "Tous les virus animaux possèdent une enveloppe.",
+          "de": "Alle tierischen Viren besitzen eine Hülle.",
+          "ja": "すべての動物ウイルスはエンベロープを持っています。"
+        },
+        "feedback": {
+          "en": "The text states that variations exist and \"many\" animal viruses have envelopes, not all.",
+          "zh": "文本指出存在变异，并且“许多”动物病毒具有包膜，而不是所有。",
+          "es": "El texto indica que existen variaciones y que \"muchos\" virus animales tienen envolturas, no todos.",
+          "fr": "Le texte indique qu'il existe des variations et que \"de nombreux\" virus animaux ont des enveloppes, pas tous.",
+          "de": "Der Text besagt, dass es Variationen gibt und \"viele\" tierische Viren Hüllen besitzen, nicht alle.",
+          "ja": "テキストには、変異が存在し、「多くの」動物ウイルスがエンベロープを持つと記載されており、すべてではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Herpesviruses acquire their envelope solely from the host cell's plasma membrane.",
+          "zh": "疱疹病毒的包膜完全来源于宿主细胞的质膜。",
+          "es": "Los herpesvirus adquieren su envoltura únicamente de la membrana plasmática de la célula huésped.",
+          "fr": "Les herpèsvirus acquièrent leur enveloppe uniquement à partir de la membrane plasmique de la cellule hôte.",
+          "de": "Herpesviren erwerben ihre Hülle ausschließlich von der Plasmamembran der Wirtszelle.",
+          "ja": "ヘルペスウイルスは、エンベロープを宿主細胞の形質膜のみから獲得します。"
+        },
+        "feedback": {
+          "en": "Herpesviruses acquire their envelope from the nuclear envelope and later the Golgi apparatus membrane.",
+          "zh": "疱疹病毒的包膜来源于核膜，之后是高尔基体膜。",
+          "es": "Los herpesvirus adquieren su envoltura del núcleo y más tarde de la membrana del aparato de Golgi.",
+          "fr": "Les herpèsvirus acquièrent leur enveloppe à partir de l'enveloppe nucléaire et plus tard de la membrane de l'appareil de Golgi.",
+          "de": "Herpesviren erwerben ihre Hülle von der Kernhülle und später von der Golgi-Apparat-Membran.",
+          "ja": "ヘルペスウイルスは、エンベロープを核膜から獲得し、その後ゴルジ体膜から獲得します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that the viral envelope is usually derived from the host cell's plasma membrane and that viral glycoproteins (specified by viral genes) protrude from its surface. Therefore, it is composed of host membrane and viral glycoproteins. Options A, C, and D are incorrect based on the provided text.",
+      "zh": "文本指出，病毒包膜通常来源于宿主细胞的质膜，并且病毒糖蛋白（由病毒基因编码）从其表面突出。因此，它由宿主膜和病毒糖蛋白组成。选项A、C和D根据所提供的文本是错误的。",
+      "es": "El texto indica que la envoltura viral se deriva generalmente de la membrana plasmática de la célula huésped y que las glicoproteínas virales (especificadas por genes virales) sobresalen de su superficie. Por lo tanto, se compone de membrana huésped y glicoproteínas virales. Las opciones A, C y D son incorrectas según el texto proporcionado.",
+      "fr": "Le texte indique que l'enveloppe virale est généralement dérivée de la membrane plasmique de la cellule hôte et que les glycoprotéines virales (spécifiées par les gènes viraux) dépassent de sa surface. Par conséquent, elle est composée de la membrane hôte et de glycoprotéines virales. Les options A, C et D sont incorrectes d'après le texte fourni.",
+      "de": "Der Text besagt, dass die Virushülle normalerweise von der Plasmamembran der Wirtszelle stammt und dass virale Glykoproteine (durch virale Gene spezifiziert) von ihrer Oberfläche hervorstehen. Daher besteht sie aus Wirtsmembran und viralen Glykoproteinen. Die Optionen A, C und D sind basierend auf dem bereitgestellten Text falsch.",
+      "ja": "本文によると、ウイルスエンベロープは通常、宿主細胞の形質膜に由来し、ウイルス糖タンパク質（ウイルス遺伝子によって指定される）がその表面から突き出ています。したがって、宿主膜とウイルス糖タンパク質で構成されます。提供されたテキストに基づくと、オプションA、C、Dは誤りです。"
+    }
+  },
+  {
+    "page_number": 454,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on Figure 19.8, what are the primary functions of the complementary RNA strands (pink) synthesized during the replicative cycle of this enveloped RNA virus? (Select all that apply)",
+      "zh": "根据图19.8，这种有包膜RNA病毒在复制周期中合成的互补RNA链（粉色）的主要功能是什么？（选择所有适用项）",
+      "es": "Según la Figura 19.8, ¿cuáles son las funciones principales de las cadenas de ARN complementarias (rosas) sintetizadas durante el ciclo replicativo de este virus ARN envuelto? (Seleccione todas las que apliquen)",
+      "fr": "Selon la Figure 19.8, quelles sont les fonctions principales des brins d'ARN complémentaires (roses) synthétisés pendant le cycle de réplication de ce virus à ARN enveloppé ? (Sélectionnez toutes les réponses pertinentes)",
+      "de": "Basierend auf Abbildung 19.8, welche Hauptfunktionen haben die komplementären RNA-Stränge (rosa), die während des Replikationszyklus dieses umhüllten RNA-Virus synthetisiert werden? (Wählen Sie alle zutreffenden Optionen)",
+      "ja": "図19.8に基づくと、このエンベロープRNAウイルスの複製サイクル中に合成される相補的RNA鎖（ピンク色）の主な機能は何ですか？（該当するものをすべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Serving as a template for new copies of the viral genome RNA.",
+          "zh": "作为病毒基因组RNA新拷贝的模板。",
+          "es": "Servir como plantilla para nuevas copias del ARN del genoma viral.",
+          "fr": "Servir de matrice pour de nouvelles copies de l'ARN du génome viral.",
+          "de": "Als Matrize für neue Kopien des viralen Genom-RNAs dienen.",
+          "ja": "ウイルスゲノムRNAの新しいコピーのテンプレートとして機能する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Directly binding to host cell receptors to initiate infection.",
+          "zh": "直接与宿主细胞受体结合以启动感染。",
+          "es": "Unirse directamente a los receptores de la célula huésped para iniciar la infección.",
+          "fr": "Se lier directement aux récepteurs de la cellule hôte pour initier l'infection.",
+          "de": "Direkt an Wirtszellrezeptoren binden, um eine Infektion einzuleiten.",
+          "ja": "宿主細胞受容体に直接結合して感染を開始する。"
+        },
+        "feedback": {
+          "en": "Viral glycoproteins on the envelope bind to host cell receptors, not the RNA strands.",
+          "zh": "是包膜上的病毒糖蛋白与宿主细胞受体结合，而不是RNA链。",
+          "es": "Las glicoproteínas virales en la envoltura se unen a los receptores de la célula huésped, no las cadenas de ARN.",
+          "fr": "Ce sont les glycoprotéines virales de l'enveloppe qui se lient aux récepteurs de la cellule hôte, pas les brins d'ARN.",
+          "de": "Virale Glykoproteine auf der Hülle binden an Wirtszellrezeptoren, nicht die RNA-Stränge.",
+          "ja": "エンベロープ上のウイルス糖タンパク質が宿主細胞受容体に結合するのであり、RNA鎖ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Functioning as mRNA to be translated into viral proteins like capsid proteins and glycoproteins.",
+          "zh": "作为信使RNA（mRNA），翻译成衣壳蛋白和糖蛋白等病毒蛋白。",
+          "es": "Funcionar como ARNm para ser traducido en proteínas virales como proteínas de la cápside y glicoproteínas.",
+          "fr": "Fonctionner comme ARNm pour être traduit en protéines virales comme les protéines de la capside et les glycoprotéines.",
+          "de": "Als mRNA fungieren, um in virale Proteine wie Kapsidproteine und Glykoproteine übersetzt zu werden.",
+          "ja": "mRNAとして機能し、カプシドタンパク質や糖タンパク質などのウイルス性タンパク質に翻訳される。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Being incorporated directly into the new virions as the genetic material.",
+          "zh": "直接作为遗传物质整合到新的病毒颗粒中。",
+          "es": "Ser incorporado directamente en los nuevos viriones como material genético.",
+          "fr": "Être incorporé directement dans les nouveaux virions en tant que matériel génétique.",
+          "de": "Direkt als genetisches Material in die neuen Virionen eingebaut werden.",
+          "ja": "遺伝物質として新しいビリオンに直接組み込まれる。"
+        },
+        "feedback": {
+          "en": "New copies of the *viral genome RNA* (red in diagram) are incorporated into new virions, not the complementary (pink) strands.",
+          "zh": "是病毒基因组RNA的新拷贝（图中红色）被整合到新的病毒颗粒中，而不是互补（粉色）链。",
+          "es": "Nuevas copias del *ARN del genoma viral* (rojo en el diagrama) se incorporan a los nuevos viriones, no las cadenas complementarias (rosas).",
+          "fr": "De nouvelles copies de l'*ARN du génome viral* (rouge dans le diagramme) sont incorporées dans les nouveaux virions, et non les brins complémentaires (roses).",
+          "de": "Neue Kopien der *viralen Genom-RNA* (rot im Diagramm) werden in neue Virionen eingebaut, nicht die komplementären (rosa) Stränge.",
+          "ja": "新しいビリオンに組み込まれるのは、*ウイルスゲノムRNA*（図中の赤色）の新しいコピーであり、相補的（ピンク色）な鎖ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "C"
+    ],
+    "explanation": {
+      "en": "According to Figure 19.8, Step 4 indicates that complementary RNA strands serve as templates for new viral genome RNA copies, and Step 5 states that these complementary RNA strands also function as mRNA for the synthesis of capsid proteins and glycoproteins.",
+      "zh": "根据图19.8，步骤4表明互补RNA链作为病毒基因组RNA新拷贝的模板，步骤5则指出这些互补RNA链也作为信使RNA用于合成衣壳蛋白和糖蛋白。",
+      "es": "Según la Figura 19.8, el Paso 4 indica que las cadenas de ARN complementarias sirven como plantillas para nuevas copias del ARN del genoma viral, y el Paso 5 establece que estas cadenas de ARN complementarias también funcionan como ARNm para la síntesis de proteínas de la cápside y glicoproteínas.",
+      "fr": "Selon la Figure 19.8, l'étape 4 indique que les brins d'ARN complémentaires servent de matrices pour de nouvelles copies de l'ARN du génome viral, et l'étape 5 stipule que ces brins d'ARN complémentaires fonctionnent également comme ARNm pour la synthèse des protéines de la capside et des glycoprotéines.",
+      "de": "Gemäß Abbildung 19.8 besagt Schritt 4, dass komplementäre RNA-Stränge als Matrizen für neue virale Genom-RNA-Kopien dienen, und Schritt 5 besagt, dass diese komplementären RNA-Stränge auch als mRNA für die Synthese von Kapsidproteinen und Glykoproteinen fungieren.",
+      "ja": "図19.8によると、ステップ4は相補的RNA鎖がウイルスゲノムRNAの新しいコピーのテンプレートとして機能することを示し、ステップ5はこれらの相補的RNA鎖がカプシドタンパク質および糖タンパク質の合成のためのmRNAとしても機能することを述べています。"
+    }
+  },
+  {
+    "page_number": 454,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "How does the replicative cycle of the enveloped RNA virus depicted in Figure 19.8 typically differ from the lytic cycles of phages, according to the text?",
+      "zh": "根据文本，图19.8中描绘的有包膜RNA病毒的复制周期与噬菌体的裂解周期通常有何不同？",
+      "es": "Según el texto, ¿cómo difiere típicamente el ciclo replicativo del virus ARN envuelto representado en la Figura 19.8 de los ciclos líticos de los fagos?",
+      "fr": "Selon le texte, en quoi le cycle de réplication du virus à ARN enveloppé illustré dans la Figure 19.8 diffère-t-il typiquement des cycles lytiques des phages ?",
+      "de": "Wie unterscheidet sich der Replikationszyklus des in Abbildung 19.8 dargestellten umhüllten RNA-Virus typischerweise von den lytischen Zyklen von Phagen, laut Text?",
+      "ja": "テキストによると、図19.8に示されているエンベロープRNAウイルスの複製サイクルは、ファージの溶菌サイクルと通常どのように異なりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The enveloped RNA virus cycle necessarily kills the host cell, similar to lytic phages.",
+          "zh": "有包膜RNA病毒的周期必然杀死宿主细胞，类似于裂解性噬菌体。",
+          "es": "El ciclo del virus ARN envuelto necesariamente mata a la célula huésped, de manera similar a los fagos líticos.",
+          "fr": "Le cycle du virus à ARN enveloppé tue nécessairement la cellule hôte, de manière similaire aux phages lytiques.",
+          "de": "Der Zyklus des umhüllten RNA-Virus tötet die Wirtszelle notwendigerweise ab, ähnlich wie lytische Phagen.",
+          "ja": "エンベロープRNAウイルスのサイクルは、溶菌性ファージと同様に、必然的に宿主細胞を殺します。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that this cycle \"does not necessarily kill the host cell.\"",
+          "zh": "文本明确指出，这个周期“不一定会杀死宿主细胞”。",
+          "es": "El texto afirma explícitamente que este ciclo \"no necesariamente mata a la célula huésped\".",
+          "fr": "Le texte indique explicitement que ce cycle \"ne tue pas nécessairement la cellule hôte\".",
+          "de": "Der Text besagt ausdrücklich, dass dieser Zyklus \"die Wirtszelle nicht unbedingt abtötet\".",
+          "ja": "テキストには、このサイクルが「必ずしも宿主細胞を殺すわけではない」と明記されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The enveloped RNA virus cycle primarily focuses on integrating its genome into the host DNA, unlike lytic phages.",
+          "zh": "有包膜RNA病毒的周期主要侧重于将其基因组整合到宿主DNA中，这与裂解性噬菌体不同。",
+          "es": "El ciclo del virus ARN envuelto se centra principalmente en integrar su genoma en el ADN del huésped, a diferencia de los fagos líticos.",
+          "fr": "Le cycle du virus à ARN enveloppé se concentre principalement sur l'intégration de son génome dans l'ADN de l'hôte, contrairement aux phages lytiques.",
+          "de": "Der Zyklus des umhüllten RNA-Virus konzentriert sich hauptsächlich auf die Integration seines Genoms in die Wirts-DNA, im Gegensatz zu lytischen Phagen.",
+          "ja": "エンベロープRNAウイルスのサイクルは、溶菌性ファージとは異なり、主にゲノムを宿主DNAに統合することに焦点を当てています。"
+        },
+        "feedback": {
+          "en": "Integration is not mentioned as a primary characteristic of this enveloped RNA virus's replication cycle, and lytic phages typically do not integrate.",
+          "zh": "整合不是这种有包膜RNA病毒复制周期的主要特征，而且裂解性噬菌体通常不整合。",
+          "es": "La integración no se menciona como una característica principal del ciclo de replicación de este virus ARN envuelto, y los fagos líticos no suelen integrarse.",
+          "fr": "L'intégration n'est pas mentionnée comme une caractéristique principale du cycle de réplication de ce virus à ARN enveloppé, et les phages lytiques ne s'intègrent généralement pas.",
+          "de": "Integration wird nicht als Hauptmerkmal des Replikationszyklus dieses umhüllten RNA-Virus erwähnt, und lytische Phagen integrieren sich typischerweise nicht.",
+          "ja": "統合は、このエンベロープRNAウイルスの複製サイクルの主要な特徴として言及されておらず、溶菌性ファージは通常統合されません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The enveloped RNA virus cycle does not necessarily kill the host cell, whereas lytic phage cycles typically do.",
+          "zh": "有包膜RNA病毒的周期不一定会杀死宿主细胞，而裂解性噬菌体周期通常会。",
+          "es": "El ciclo del virus ARN envuelto no necesariamente mata a la célula huésped, mientras que los ciclos líticos de los fagos sí lo hacen típicamente.",
+          "fr": "Le cycle du virus à ARN enveloppé ne tue pas nécessairement la cellule hôte, tandis que les cycles lytiques des phages le font typiquement.",
+          "de": "Der Zyklus des umhüllten RNA-Virus tötet die Wirtszelle nicht unbedingt ab, während lytische Phagenzyklen dies typischerweise tun.",
+          "ja": "エンベロープRNAウイルスのサイクルは必ずしも宿主細胞を殺すわけではありませんが、溶菌性ファージのサイクルは通常殺します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Lytic phages acquire an envelope from the host cell membrane, which the enveloped RNA virus does not.",
+          "zh": "裂解性噬菌体从宿主细胞膜获取包膜，而有包膜RNA病毒则不。",
+          "es": "Los fagos líticos adquieren una envoltura de la membrana de la célula huésped, lo cual no ocurre con el virus ARN envuelto.",
+          "fr": "Les phages lytiques acquièrent une enveloppe de la membrane de la cellule hôte, ce que le virus à ARN enveloppé ne fait pas.",
+          "de": "Lytische Phagen erwerben eine Hülle von der Wirtszellmembran, was bei dem umhüllten RNA-Virus nicht der Fall ist.",
+          "ja": "溶菌性ファージは宿主細胞膜からエンベロープを獲得しますが、エンベロープRNAウイルスは獲得しません。"
+        },
+        "feedback": {
+          "en": "Lytic phages do not acquire envelopes. The enveloped RNA virus *does* acquire its envelope from the host cell membrane.",
+          "zh": "裂解性噬菌体不获取包膜。有包膜RNA病毒*确实*从宿主细胞膜获取包膜。",
+          "es": "Los fagos líticos no adquieren envolturas. El virus ARN envuelto *sí* adquiere su envoltura de la membrana de la célula huésped.",
+          "fr": "Les phages lytiques n'acquièrent pas d'enveloppes. Le virus à ARN enveloppé *acquiert* bien son enveloppe à partir de la membrane de la cellule hôte.",
+          "de": "Lytische Phagen erwerben keine Hüllen. Das umhüllte RNA-Virus *erwirbt* seine Hülle von der Wirtszellmembran.",
+          "ja": "溶菌性ファージはエンベロープを獲得しません。エンベロープRNAウイルスは宿主細胞膜からエンベロープを*獲得します*。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: \"This replicative cycle does not necessarily kill the host cell, in contrast to the lytic cycles of phages.\" This directly supports option C.",
+      "zh": "文本明确指出：“这个复制周期不一定会杀死宿主细胞，这与噬菌体的裂解周期形成对比。”这直接支持了选项C。",
+      "es": "El texto afirma explícitamente: \"Este ciclo replicativo no necesariamente mata a la célula huésped, a diferencia de los ciclos líticos de los fagos.\" Esto apoya directamente la opción C.",
+      "fr": "Le texte indique explicitement : « Ce cycle de réplication ne tue pas nécessairement la cellule hôte, contrairement aux cycles lytiques des phages. » Cela soutient directement l'option C.",
+      "de": "Der Text besagt ausdrücklich: \"Dieser Replikationszyklus tötet die Wirtszelle nicht unbedingt ab, im Gegensatz zu den lytischen Zyklen von Phagen.\" Dies stützt direkt Option C.",
+      "ja": "テキストには、「この複製サイクルは必ずしも宿主細胞を殺すわけではなく、ファージの溶菌サイクルとは対照的である」と明記されています。これは直接オプションCを支持しています。"
+    }
+  },
+  {
+    "page_number": 454,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "If a drug were developed that specifically inhibits the viral RNA polymerase mentioned in Figure 19.8, which of the following processes would be *most directly* impaired?",
+      "zh": "如果开发出一种药物，专门抑制图19.8中提到的病毒RNA聚合酶，那么以下哪个过程会受到*最直接*的影响？",
+      "es": "Si se desarrollara un fármaco que inhiba específicamente la ARN polimerasa viral mencionada en la Figura 19.8, ¿cuál de los siguientes procesos se vería *más directamente* afectado?",
+      "fr": "Si un médicament était développé pour inhiber spécifiquement l'ARN polymérase virale mentionnée dans la Figure 19.8, lequel des processus suivants serait *le plus directement* affecté ?",
+      "de": "Wenn ein Medikament entwickelt würde, das die in Abbildung 19.8 erwähnte virale RNA-Polymerase spezifisch hemmt, welcher der folgenden Prozesse wäre *am direktesten* beeinträchtigt?",
+      "ja": "図19.8に記載されているウイルスRNAポリメラーゼを特異的に阻害する薬剤が開発された場合、次のプロセスのうち*最も直接的*に阻害されるのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The binding of viral glycoproteins to host cell receptors.",
+          "zh": "病毒糖蛋白与宿主细胞受体的结合。",
+          "es": "La unión de glicoproteínas virales a los receptores de la célula huésped.",
+          "fr": "La liaison des glycoprotéines virales aux récepteurs de la cellule hôte.",
+          "de": "Die Bindung von viralen Glykoproteinen an Wirtszellrezeptoren.",
+          "ja": "ウイルス糖タンパク質と宿主細胞受容体の結合。"
+        },
+        "feedback": {
+          "en": "This process occurs at the very beginning of infection (Step 1) and is not directly dependent on viral RNA polymerase activity, which acts later.",
+          "zh": "这个过程发生在感染的最开始（步骤1），不直接依赖于稍后作用的病毒RNA聚合酶活性。",
+          "es": "Este proceso ocurre al inicio de la infección (Paso 1) y no depende directamente de la actividad de la ARN polimerasa viral, que actúa más tarde.",
+          "fr": "Ce processus se produit au tout début de l'infection (Étape 1) et ne dépend pas directement de l'activité de l'ARN polymérase virale, qui agit plus tard.",
+          "de": "Dieser Prozess findet ganz am Anfang der Infektion statt (Schritt 1) und ist nicht direkt von der viralen RNA-Polymerase-Aktivität abhängig, die später wirkt.",
+          "ja": "このプロセスは感染の非常に初期（ステップ1）に発生し、後で作用するウイルスRNAポリメラーゼの活性に直接依存しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The synthesis of complementary RNA strands from the viral genome.",
+          "zh": "从病毒基因组合成互补RNA链。",
+          "es": "La síntesis de cadenas de ARN complementarias a partir del genoma viral.",
+          "fr": "La synthèse de brins d'ARN complémentaires à partir du génome viral.",
+          "de": "Die Synthese komplementärer RNA-Stränge aus dem viralen Genom.",
+          "ja": "ウイルスゲノムから相補的RNA鎖が合成されること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The assembly of new capsids around viral genome molecules.",
+          "zh": "新衣壳围绕病毒基因组分子的组装。",
+          "es": "El ensamblaje de nuevas cápsides alrededor de las moléculas del genoma viral.",
+          "fr": "L'assemblage de nouvelles capsides autour des molécules du génome viral.",
+          "de": "Der Zusammenbau neuer Kapside um virale Genommoleküle.",
+          "ja": "ウイルスゲノム分子の周りに新しいカプシドが組み立てられること。"
+        },
+        "feedback": {
+          "en": "While new capsid proteins are synthesized using mRNA (which ultimately depends on polymerase activity), the *assembly* step itself is distinct and occurs later. This is an indirect effect.",
+          "zh": "虽然新的衣壳蛋白是通过mRNA合成的（最终依赖于聚合酶活性），但*组装*步骤本身是独立的，并发生在其后。这是一个间接影响。",
+          "es": "Aunque las nuevas proteínas de la cápside se sintetizan usando ARNm (lo que finalmente depende de la actividad de la polimerasa), el paso de *ensamblaje* en sí es distinto y ocurre más tarde. Este es un efecto indirecto.",
+          "fr": "Bien que de nouvelles protéines de la capside soient synthétisées à l'aide d'ARNm (ce qui dépend finalement de l'activité de la polymérase), l'étape d'*assemblage* elle-même est distincte et se produit plus tard. Il s'agit d'un effet indirect.",
+          "de": "Obwohl neue Kapsidproteine unter Verwendung von mRNA synthetisiert werden (was letztendlich von der Polymeraseaktivität abhängt), ist der *Assemblierungsschritt* selbst eigenständig und findet später statt. Dies ist ein indirekter Effekt.",
+          "ja": "新しいカプシドタンパク質はmRNAを用いて合成されますが（これは最終的にポリメラーゼ活性に依存します）、*組み立て*段階自体は異なり、後で発生します。これは間接的な影響です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The budding of new virions from the host cell membrane.",
+          "zh": "新病毒颗粒从宿主细胞膜出芽。",
+          "es": "La gemación de nuevos viriones desde la membrana de la célula huésped.",
+          "fr": "Le bourgeonnement de nouveaux virions à partir de la membrane de la cellule hôte.",
+          "de": "Das Knospen neuer Virionen aus der Wirtszellmembran.",
+          "ja": "宿主細胞膜からの新しいビリオンの出芽。"
+        },
+        "feedback": {
+          "en": "Budding is the final release step (Step 8) and requires fully formed virions and glycoproteins. While polymerase inhibition would prevent new virions from forming, budding itself is not the *most directly* affected process.",
+          "zh": "出芽是最终的释放步骤（步骤8），需要完全形成的病毒颗粒和糖蛋白。虽然聚合酶抑制会阻止新病毒颗粒的形成，但出芽本身并非*最直接*受影响的过程。",
+          "es": "La gemación es el paso final de liberación (Paso 8) y requiere viriones y glicoproteínas completamente formados. Si bien la inhibición de la polimerasa impediría la formación de nuevos viriones, la gemación en sí no es el proceso *más directamente* afectado.",
+          "fr": "Le bourgeonnement est l'étape finale de libération (Étape 8) et nécessite des virions et des glycoprotéines entièrement formés. Bien que l'inhibition de la polymérase empêcherait la formation de nouveaux virions, le bourgeonnement lui-même n'est pas le processus *le plus directement* affecté.",
+          "de": "Das Knospen ist der letzte Freisetzungsschritt (Schritt 8) und erfordert vollständig gebildete Virionen und Glykoproteine. Obwohl die Polymerasehemmung die Bildung neuer Virionen verhindern würde, ist das Knospen selbst nicht der *am direktesten* betroffene Prozess.",
+          "ja": "出芽は最終的な放出ステップ（ステップ8）であり、完全に形成されたビリオンと糖タンパク質を必要とします。ポリメラーゼ阻害は新しいビリオンの形成を妨げますが、出芽自体が*最も直接的*に影響を受けるプロセスではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 19.8, Step 3 explicitly states: \"The viral genome (red) functions as a template for synthesis of complementary RNA strands (pink) by a viral RNA polymerase.\" Therefore, inhibiting this enzyme would directly impair the synthesis of these complementary strands.",
+      "zh": "图19.8的步骤3明确指出：“病毒基因组（红色）作为模板，通过病毒RNA聚合酶合成互补RNA链（粉色）。”因此，抑制这种酶将直接阻碍这些互补链的合成。",
+      "es": "La Figura 19.8, Paso 3, establece explícitamente: \"El genoma viral (rojo) funciona como plantilla para la síntesis de cadenas de ARN complementarias (rosas) por una ARN polimerasa viral.\" Por lo tanto, la inhibición de esta enzima afectaría directamente la síntesis de estas cadenas complementarias.",
+      "fr": "La Figure 19.8, Étape 3, indique explicitement : « Le génome viral (rouge) fonctionne comme matrice pour la synthèse de brins d'ARN complémentaires (roses) par une ARN polymérase virale. » Par conséquent, l'inhibition de cette enzyme altérerait directement la synthèse de ces brins complémentaires.",
+      "de": "Abbildung 19.8, Schritt 3, besagt ausdrücklich: \"Das virale Genom (rot) dient als Matrize für die Synthese komplementärer RNA-Stränge (rosa) durch eine virale RNA-Polymerase.\" Daher würde die Hemmung dieses Enzyms die Synthese dieser komplementären Stränge direkt beeinträchtigen.",
+      "ja": "図19.8のステップ3には、「ウイルスゲノム（赤色）は、ウイルスRNAポリメラーゼによって相補的RNA鎖（ピンク色）の合成のためのテンプレートとして機能する」と明記されています。したがって、この酵素を阻害すると、これらの相補鎖の合成が直接的に妨げられます。"
+    }
+  }
+]

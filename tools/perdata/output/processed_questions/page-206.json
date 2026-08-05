@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 206,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the \"Data from the Experiment\" table, what is the maximum rate of increase in inorganic phosphate (P\ni) concentration observed during the experiment?",
+      "zh": "根据“实验数据”表格，实验中观察到的无机磷酸盐（P\ni）浓度增加的最大速率是多少？",
+      "es": "Según la tabla \"Datos del Experimento\", ¿cuál es la tasa máxima de aumento en la concentración de fosfato inorgánico (P\ni) observada durante el experimento?",
+      "fr": "D'après le tableau « Données de l'expérience », quel est le taux maximal d'augmentation de la concentration de phosphate inorganique (P\ni) observé pendant l'expérience ?",
+      "de": "Basierend auf der Tabelle „Daten aus dem Experiment“, wie hoch ist die maximale Zunahme der Konzentration an anorganischem Phosphat (P\ni), die während des Experiments beobachtet wurde?",
+      "ja": "「実験データ」の表に基づくと、実験中に観察された無機リン酸（P\ni）濃度の増加の最大速度はいくらですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "2 µmol/(mL·min)",
+          "zh": "2 µmol/(mL·min)",
+          "es": "2 µmol/(mL·min)",
+          "fr": "2 µmol/(mL·min)",
+          "de": "2 µmol/(mL·min)",
+          "ja": "2 µmol/(mL·min)"
+        },
+        "feedback": {
+          "en": "This is the rate during the initial 0-5 minute interval, which is much lower than the peak rate.",
+          "zh": "这是初始0-5分钟时间间隔内的速率，远低于峰值速率。",
+          "es": "Esta es la tasa durante el intervalo inicial de 0-5 minutos, que es mucho menor que la tasa máxima.",
+          "fr": "C'est le taux pendant l'intervalle initial de 0 à 5 minutes, qui est bien inférieur au taux maximal.",
+          "de": "Dies ist die Rate im anfänglichen 0-5-Minuten-Intervall, die viel niedriger ist als die Spitzenrate.",
+          "ja": "これは最初の0〜5分間の速度であり、ピーク速度よりもはるかに低いです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "12 µmol/(mL·min)",
+          "zh": "12 µmol/(mL·min)",
+          "es": "12 µmol/(mL·min)",
+          "fr": "12 µmol/(mL·min)",
+          "de": "12 µmol/(mL·min)",
+          "ja": "12 µmol/(mL·min)"
+        },
+        "feedback": {
+          "en": "This is the rate during the 20-25 minute interval, which is lower than the peak rate.",
+          "zh": "这是20-25分钟时间间隔内的速率，低于峰值速率。",
+          "es": "Esta es la tasa durante el intervalo de 20-25 minutos, que es menor que la tasa máxima.",
+          "fr": "C'est le taux pendant l'intervalle de 20 à 25 minutes, qui est inférieur au taux maximal.",
+          "de": "Dies ist die Rate im 20-25-Minuten-Intervall, die niedriger ist als die Spitzenrate.",
+          "ja": "これは20〜25分間の速度であり、ピーク速度よりも低いです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "16 µmol/(mL·min)",
+          "zh": "16 µmol/(mL·min)",
+          "es": "16 µmol/(mL·min)",
+          "fr": "16 µmol/(mL·min)",
+          "de": "16 µmol/(mL·min)",
+          "ja": "16 µmol/(mL·min)"
+        },
+        "feedback": {
+          "en": "This is the rate during the 5-10 minute interval, which is lower than the peak rate.",
+          "zh": "这是5-10分钟时间间隔内的速率，低于峰值速率。",
+          "es": "Esta es la tasa durante el intervalo de 5-10 minutos, que es menor que la tasa máxima.",
+          "fr": "C'est le taux pendant l'intervalle de 5 à 10 minutes, qui est inférieur au taux maximal.",
+          "de": "Dies ist die Rate im 5-10-Minuten-Intervall, die niedriger ist als die Spitzenrate.",
+          "ja": "これは5〜10分間の速度であり、ピーク速度よりも低いです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "18 µmol/(mL·min)",
+          "zh": "18 µmol/(mL·min)",
+          "es": "18 µmol/(mL·min)",
+          "fr": "18 µmol/(mL·min)",
+          "de": "18 µmol/(mL·min)",
+          "ja": "18 µmol/(mL·min)"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "To find the rate, calculate the change in P\ni concentration over each 5-minute interval: (Concentration_final - Concentration_initial) / (Time_final - Time_initial). The highest rates are observed between 10-15 minutes ((180-90)/5 = 18) and 15-20 minutes ((270-180)/5 = 18).",
+      "zh": "要找到速率，计算每5分钟间隔内P\ni浓度的变化量：(最终浓度 - 初始浓度) / (最终时间 - 初始时间)。最高速率出现在10-15分钟((180-90)/5 = 18)和15-20分钟((270-180)/5 = 18)之间。",
+      "es": "Para encontrar la tasa, calcule el cambio en la concentración de P\ni en cada intervalo de 5 minutos: (Concentración_final - Concentración_inicial) / (Tiempo_final - Tiempo_inicial). Las tasas más altas se observan entre los 10-15 minutos ((180-90)/5 = 18) y los 15-20 minutos ((270-180)/5 = 18).",
+      "fr": "Pour trouver le taux, calculez le changement de concentration de P\ni sur chaque intervalle de 5 minutes : (Concentration_finale - Concentration_initiale) / (Temps_final - Temps_initial). Les taux les plus élevés sont observés entre 10-15 minutes ((180-90)/5 = 18) et 15-20 minutes ((270-180)/5 = 18).",
+      "de": "Um die Rate zu ermitteln, berechnen Sie die Änderung der P\ni-Konzentration über jedes 5-Minuten-Intervall: (Konzentration_Ende - Konzentration_Anfang) / (Zeit_Ende - Zeit_Anfang). Die höchsten Raten werden zwischen 10-15 Minuten ((180-90)/5 = 18) und 15-20 Minuten ((270-180)/5 = 18) beobachtet.",
+      "ja": "速度を見つけるには、5分間隔ごとのP\ni濃度の変化を計算します：(最終濃度 - 初期濃度) / (最終時間 - 初期時間)。最も高い速度は10〜15分間（(180-90)/5 = 18）と15〜20分間（(270-180)/5 = 18）で観察されます。"
+    }
+  },
+  {
+    "page_number": 206,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the primary role of Glucose 6-phosphatase in mammalian liver cells, and how do its products affect blood glucose levels?",
+      "zh": "葡萄糖6-磷酸酶在哺乳动物肝细胞中的主要作用是什么？其产物如何影响血糖水平？",
+      "es": "¿Cuál es el papel principal de la glucosa 6-fosfatasa en las células hepáticas de mamíferos y cómo afectan sus productos los niveles de glucosa en sangre?",
+      "fr": "Quel est le rôle principal de la glucose-6-phosphatase dans les cellules hépatiques de mammifères, et comment ses produits affectent-ils les niveaux de glucose sanguin ?",
+      "de": "Welche Hauptrolle spielt die Glucose-6-Phosphatase in Säugetier-Leberzellen, und wie beeinflussen ihre Produkte den Blutzuckerspiegel?",
+      "ja": "哺乳類の肝細胞におけるグルコース6-ホスファターゼの主な役割は何ですか？また、その生成物は血糖値にどのように影響しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It catalyzes the synthesis of glucose 6-phosphate, thereby decreasing blood glucose.",
+          "zh": "它催化葡萄糖6-磷酸的合成，从而降低血糖。",
+          "es": "Cataliza la síntesis de glucosa 6-fosfato, disminuyendo así la glucosa en sangre.",
+          "fr": "Elle catalyse la synthèse du glucose-6-phosphate, diminuant ainsi la glycémie.",
+          "de": "Es katalysiert die Synthese von Glucose-6-Phosphat und senkt dadurch den Blutzucker.",
+          "ja": "グルコース6-リン酸の合成を触媒し、それによって血糖を低下させます。"
+        },
+        "feedback": {
+          "en": "Glucose 6-phosphatase breaks down glucose 6-phosphate, it does not synthesize it, and its action leads to an increase in blood glucose.",
+          "zh": "葡萄糖6-磷酸酶是分解葡萄糖6-磷酸，而不是合成它，并且其作用会导致血糖升高。",
+          "es": "La glucosa 6-fosfatasa descompone la glucosa 6-fosfato, no la sintetiza, y su acción conduce a un aumento de la glucosa en sangre.",
+          "fr": "La glucose-6-phosphatase décompose le glucose-6-phosphate, elle ne le synthétise pas, et son action entraîne une augmentation de la glycémie.",
+          "de": "Glucose-6-Phosphatase baut Glucose-6-Phosphat ab, sie synthetisiert es nicht, und ihre Wirkung führt zu einem Anstieg des Blutzuckerspiegels.",
+          "ja": "グルコース6-ホスファターゼはグルコース6-リン酸を分解する酵素であり、合成するわけではありません。その作用は血糖値の上昇につながります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It catalyzes the breakdown of glucose 6-phosphate into glucose and inorganic phosphate, which are then transported out of cells, increasing blood glucose.",
+          "zh": "它催化葡萄糖6-磷酸分解为葡萄糖和无机磷酸盐，这些产物随后被运出细胞，从而增加血糖。",
+          "es": "Cataliza la descomposición de la glucosa 6-fosfato en glucosa y fosfato inorgánico, que luego son transportados fuera de las células, aumentando la glucosa en sangre.",
+          "fr": "Elle catalyse la dégradation du glucose-6-phosphate en glucose et phosphate inorganique, qui sont ensuite transportés hors des cellules, augmentant ainsi la glycémie.",
+          "de": "Es katalysiert den Abbau von Glucose-6-Phosphat zu Glucose und anorganischem Phosphat, die dann aus den Zellen transportiert werden, wodurch der Blutzucker steigt.",
+          "ja": "グルコース6-リン酸をグルコースと無機リン酸に分解する反応を触媒し、これらの生成物は細胞外に輸送されて血糖を上昇させます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It catalyzes the breakdown of glucose into glucose 6-phosphate, thereby decreasing blood glucose.",
+          "zh": "它催化葡萄糖分解为葡萄糖6-磷酸，从而降低血糖。",
+          "es": "Cataliza la descomposición de la glucosa en glucosa 6-fosfato, disminuyendo así la glucosa en sangre.",
+          "fr": "Elle catalyse la dégradation du glucose en glucose-6-phosphate, diminuant ainsi la glycémie.",
+          "de": "Es katalysiert den Abbau von Glucose zu Glucose-6-Phosphat und senkt dadurch den Blutzucker.",
+          "ja": "グルコースをグルコース6-リン酸に分解する反応を触媒し、それによって血糖を低下させます。"
+        },
+        "feedback": {
+          "en": "The substrate for glucose 6-phosphatase is glucose 6-phosphate, not glucose. Its action increases blood glucose.",
+          "zh": "葡萄糖6-磷酸酶的底物是葡萄糖6-磷酸，而不是葡萄糖。其作用是升高血糖。",
+          "es": "El sustrato para la glucosa 6-fosfatasa es la glucosa 6-fosfato, no la glucosa. Su acción aumenta la glucosa en sangre.",
+          "fr": "Le substrat de la glucose-6-phosphatase est le glucose-6-phosphate, pas le glucose. Son action augmente la glycémie.",
+          "de": "Das Substrat für Glucose-6-Phosphatase ist Glucose-6-Phosphat, nicht Glucose. Ihre Wirkung erhöht den Blutzucker.",
+          "ja": "グルコース6-ホスファターゼの基質はグルコース6-リン酸であり、グルコースではありません。その作用は血糖値を上昇させます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It catalyzes the synthesis of glycogen, thereby stabilizing blood glucose.",
+          "zh": "它催化糖原的合成，从而稳定血糖。",
+          "es": "Cataliza la síntesis de glucógeno, estabilizando así la glucosa en sangre.",
+          "fr": "Elle catalyse la synthèse du glycogène, stabilisant ainsi la glycémie.",
+          "de": "Es katalysiert die Glykogensynthese und stabilisiert dadurch den Blutzucker.",
+          "ja": "グリコーゲンの合成を触媒し、それによって血糖を安定させます。"
+        },
+        "feedback": {
+          "en": "Glucose 6-phosphatase is not directly involved in glycogen synthesis; its role is in glucose release, which increases blood glucose.",
+          "zh": "葡萄糖6-磷酸酶不直接参与糖原合成；它的作用是释放葡萄糖，从而增加血糖。",
+          "es": "La glucosa 6-fosfatasa no está directamente involucrada en la síntesis de glucógeno; su función es liberar glucosa, lo que aumenta la glucosa en sangre.",
+          "fr": "La glucose-6-phosphatase n'est pas directement impliquée dans la synthèse du glycogène ; son rôle est la libération de glucose, ce qui augmente la glycémie.",
+          "de": "Glucose-6-Phosphatase ist nicht direkt an der Glykogensynthese beteiligt; ihre Rolle besteht in der Freisetzung von Glucose, was den Blutzucker erhöht.",
+          "ja": "グルコース6-ホスファターゼはグリコーゲン合成に直接関与していません。その役割はグルコース放出であり、血糖を上昇させます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that Glucose 6-phosphatase catalyzes the breakdown of glucose 6-phosphate into glucose and inorganic phosphate (Pi). These products are then transported out of liver cells into the blood, increasing the blood glucose level.",
+      "zh": "文本指出，葡萄糖6-磷酸酶催化葡萄糖6-磷酸分解为葡萄糖和无机磷酸盐（Pi）。这些产物随后从肝细胞运出到血液中，从而提高血糖水平。",
+      "es": "El texto indica que la glucosa 6-fosfatasa cataliza la descomposición de la glucosa 6-fosfato en glucosa y fosfato inorgánico (Pi). Estos productos son luego transportados desde las células hepáticas a la sangre, aumentando el nivel de glucosa en sangre.",
+      "fr": "Le texte indique que la glucose-6-phosphatase catalyse la dégradation du glucose-6-phosphate en glucose et phosphate inorganique (Pi). Ces produits sont ensuite transportés des cellules hépatiques vers le sang, augmentant le taux de glucose sanguin.",
+      "de": "Der Text besagt, dass Glucose-6-Phosphatase den Abbau von Glucose-6-Phosphat zu Glucose und anorganischem Phosphat (Pi) katalysiert. Diese Produkte werden dann aus den Leberzellen in das Blut transportiert, wodurch der Blutzuckerspiegel steigt.",
+      "ja": "テキストには、グルコース6-ホスファターゼがグルコース6-リン酸をグルコースと無機リン酸（Pi）に分解する反応を触媒すると記載されています。これらの生成物は肝細胞から血液中に輸送され、血糖値を上昇させます。"
+    }
+  },
+  {
+    "page_number": 206,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which of the following statements accurately describes the effect of environmental factors, particularly temperature, on enzyme activity and structure?",
+      "zh": "以下哪项陈述准确描述了环境因素，特别是温度，对酶活性和结构的影响？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión el efecto de los factores ambientales, particularmente la temperatura, en la actividad y estructura enzimática?",
+      "fr": "Parmi les affirmations suivantes, laquelle décrit avec précision l'effet des facteurs environnementaux, en particulier la température, sur l'activité et la structure enzymatiques ?",
+      "de": "Welche der folgenden Aussagen beschreibt präzise die Auswirkungen von Umweltfaktoren, insbesondere der Temperatur, auf die Enzymaktivität und -struktur?",
+      "ja": "以下の記述のうち、環境要因、特に温度が酵素の活性と構造に与える影響について正確に記述しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Enzyme activity continuously increases with temperature until denaturation occurs, which is primarily due to disruption of covalent bonds.",
+          "zh": "酶活性随温度持续增加直至发生变性，这主要是由于共价键的破坏。",
+          "es": "La actividad enzimática aumenta continuamente con la temperatura hasta que ocurre la desnaturalización, lo cual se debe principalmente a la ruptura de enlaces covalentes.",
+          "fr": "L'activité enzymatique augmente continuellement avec la température jusqu'à la dénaturation, qui est principalement due à la rupture des liaisons covalentes.",
+          "de": "Die Enzymaktivität steigt kontinuierlich mit der Temperatur an, bis die Denaturierung eintritt, die hauptsächlich auf die Zerstörung kovalenter Bindungen zurückzuführen ist.",
+          "ja": "酵素活性は温度とともに継続的に増加し、変性が起こるまで続きます。変性は主に共有結合の破壊によって引き起こされます。"
+        },
+        "feedback": {
+          "en": "Enzyme activity increases only up to an optimal temperature, after which it sharply decreases. Denaturation primarily disrupts weak interactions (hydrogen bonds, ionic bonds), not covalent bonds.",
+          "zh": "酶活性只在达到最适温度后才急剧下降。变性主要破坏的是弱相互作用（氢键、离子键），而不是共价键。",
+          "es": "La actividad enzimática solo aumenta hasta una temperatura óptima, después de la cual disminuye drásticamente. La desnaturalización interrumpe principalmente las interacciones débiles (puentes de hidrógeno, enlaces iónicos), no los enlaces covalentes.",
+          "fr": "L'activité enzymatique n'augmente que jusqu'à une température optimale, après quoi elle diminue brusquement. La dénaturation perturbe principalement les interactions faibles (liaisons hydrogène, liaisons ioniques), et non les liaisons covalentes.",
+          "de": "Die Enzymaktivität steigt nur bis zu einer optimalen Temperatur an und fällt danach stark ab. Die Denaturierung stört hauptsächlich schwache Wechselwirkungen (Wasserstoffbrücken, Ionenbindungen), nicht kovalente Bindungen.",
+          "ja": "酵素活性は最適温度までしか増加せず、それ以上になると急激に低下します。変性は主に弱い相互作用（水素結合、イオン結合）を破壊し、共有結合は破壊しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Enzymes function optimally at their denaturation temperature, allowing for the fastest conversion of reactants to products.",
+          "zh": "酶在它们的变性温度下功能最佳，从而实现反应物到产物最快的转化。",
+          "es": "Las enzimas funcionan de manera óptima a su temperatura de desnaturalización, permitiendo la conversión más rápida de reactivos a productos.",
+          "fr": "Les enzymes fonctionnent de manière optimale à leur température de dénaturation, permettant la conversion la plus rapide des réactifs en produits.",
+          "de": "Enzyme funktionieren bei ihrer Denaturierungstemperatur optimal und ermöglichen die schnellste Umwandlung von Reaktanten in Produkte.",
+          "ja": "酵素は変性温度で最適に機能し、反応物を生成物に最も速く変換できます。"
+        },
+        "feedback": {
+          "en": "Denaturation means the enzyme loses its active shape and function, so it cannot function optimally at this temperature. Optimal temperature is when the reaction rate is greatest without denaturing.",
+          "zh": "变性意味着酶失去其活性形状和功能，因此在此温度下无法最佳地发挥作用。最适温度是在不发生变性的情况下反应速率最大的温度。",
+          "es": "La desnaturalización significa que la enzima pierde su forma activa y función, por lo que no puede funcionar de manera óptima a esta temperatura. La temperatura óptima es cuando la tasa de reacción es mayor sin desnaturalizarse.",
+          "fr": "La dénaturation signifie que l'enzyme perd sa forme active et sa fonction, elle ne peut donc pas fonctionner de manière optimale à cette température. La température optimale est celle où le taux de réaction est le plus élevé sans dénaturation.",
+          "de": "Denaturierung bedeutet, dass das Enzym seine aktive Form und Funktion verliert und daher bei dieser Temperatur nicht optimal funktionieren kann. Die optimale Temperatur ist jene, bei der die Reaktionsrate am größten ist, ohne dass das Enzym denaturiert.",
+          "ja": "変性とは、酵素が活性な形状と機能を失うことを意味するため、この温度で最適に機能することはできません。最適温度とは、変性せずに反応速度が最大になる温度です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "High temperatures above the optimum disrupt weak interactions like hydrogen and ionic bonds, leading to denaturation and a sharp decrease in enzyme activity.",
+          "zh": "高于最适温度的高温会破坏氢键和离子键等弱相互作用，导致变性并使酶活性急剧下降。",
+          "es": "Las altas temperaturas por encima del óptimo alteran las interacciones débiles como los enlaces de hidrógeno e iónicos, lo que lleva a la desnaturalización y a una fuerte disminución de la actividad enzimática.",
+          "fr": "Les températures élevées supérieures à l'optimum perturbent les interactions faibles comme les liaisons hydrogène et ioniques, entraînant une dénaturation et une forte diminution de l'activité enzymatique.",
+          "de": "Hohe Temperaturen oberhalb des Optimums stören schwache Wechselwirkungen wie Wasserstoff- und Ionenbindungen, was zur Denaturierung und einem starken Rückgang der Enzymaktivität führt.",
+          "ja": "最適温度を超える高温は、水素結合やイオン結合などの弱い相互作用を破壊し、変性を引き起こして酵素活性を急激に低下させます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "pH primarily affects the overall shape of the enzyme, while temperature only impacts the rate of molecular collisions without affecting enzyme structure.",
+          "zh": "pH主要影响酶的整体形状，而温度仅影响分子碰撞速率，不影响酶的结构。",
+          "es": "El pH afecta principalmente la forma general de la enzima, mientras que la temperatura solo afecta la velocidad de las colisiones moleculares sin afectar la estructura de la enzima.",
+          "fr": "Le pH affecte principalement la forme globale de l'enzyme, tandis que la température n'affecte que le taux de collisions moléculaires sans affecter la structure de l'enzyme.",
+          "de": "Der pH-Wert beeinflusst hauptsächlich die Gesamtform des Enzyms, während die Temperatur nur die Rate der Molekularzusammenstöße beeinflusst, ohne die Enzymstruktur zu beeinträchtigen.",
+          "ja": "pHは主に酵素の全体的な形状に影響を与えますが、温度は分子衝突の速度のみに影響を与え、酵素構造には影響しません。"
+        },
+        "feedback": {
+          "en": "Both pH and temperature can significantly affect the enzyme's 3-D structure. High temperature causes denaturation, directly affecting enzyme structure by disrupting weak bonds.",
+          "zh": "pH和温度都可以显著影响酶的三维结构。高温会导致变性，通过破坏弱键直接影响酶的结构。",
+          "es": "Tanto el pH como la temperatura pueden afectar significativamente la estructura 3-D de la enzima. Las altas temperaturas causan desnaturalización, afectando directamente la estructura de la enzima al romper enlaces débiles.",
+          "fr": "Le pH et la température peuvent tous deux affecter significativement la structure tridimensionnelle de l'enzyme. Les températures élevées provoquent la dénaturation, affectant directement la structure de l'enzyme en perturbant les liaisons faibles.",
+          "de": "Sowohl der pH-Wert als auch die Temperatur können die 3D-Struktur des Enzyms erheblich beeinflussen. Hohe Temperaturen verursachen Denaturierung und beeinflussen die Enzymstruktur direkt, indem sie schwache Bindungen stören.",
+          "ja": "pHと温度の両方が酵素の3D構造に大きく影響します。高温は変性を引き起こし、弱い結合を破壊することによって酵素構造に直接影響を与えます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explains that enzyme activity increases with temperature up to a point, but above that, high temperatures disrupt hydrogen bonds, ionic bonds, and other weak interactions that stabilize the active shape, leading to denaturation and a sharp drop in activity. This describes the mechanism accurately.",
+      "zh": "文本解释说，酶活性随温度升高而增加，但超过某一点后，高温会破坏稳定活性形状的氢键、离子键和其他弱相互作用，导致变性并使活性急剧下降。这准确描述了其机制。",
+      "es": "El texto explica que la actividad enzimática aumenta con la temperatura hasta cierto punto, pero por encima de eso, las altas temperaturas alteran los puentes de hidrógeno, los enlaces iónicos y otras interacciones débiles que estabilizan la forma activa, lo que lleva a la desnaturalización y una fuerte caída en la actividad. Esto describe el mecanismo con precisión.",
+      "fr": "Le texte explique que l'activité enzymatique augmente avec la température jusqu'à un certain point, mais au-delà de cela, les températures élevées perturbent les liaisons hydrogène, les liaisons ioniques et d'autres interactions faibles qui stabilisent la forme active, entraînant une dénaturation et une chute brutale de l'activité. Cela décrit le mécanisme avec précision.",
+      "de": "Der Text erklärt, dass die Enzymaktivität bis zu einem gewissen Punkt mit der Temperatur ansteigt, aber darüber hinaus stören hohe Temperaturen Wasserstoffbrücken, Ionenbindungen und andere schwache Wechselwirkungen, die die aktive Form stabilisieren, was zu Denaturierung und einem starken Abfall der Aktivität führt. Dies beschreibt den Mechanismus präzise.",
+      "ja": "テキストでは、酵素活性は温度とともに一定の点まで増加するが、それを超えると高温が活性な形状を安定させる水素結合、イオン結合、その他の弱い相互作用を破壊し、変性を引き起こして活性が急激に低下すると説明されています。これはそのメカニズムを正確に説明しています。"
+    }
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "page_number": 367,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Chargaff's rules and the provided table, what are the approximate percentages of Guanine (G) and Cytosine (C) in Human DNA?",
+      "zh": "根据查加夫法则和所提供的表格，人类DNA中鸟嘌呤（G）和胞嘧啶（C）的近似百分比是多少？",
+      "es": "Según las reglas de Chargaff y la tabla proporcionada, ¿cuáles son los porcentajes aproximados de Guanina (G) y Citosina (C) en el ADN humano?",
+      "fr": "Selon les règles de Chargaff et le tableau fourni, quels sont les pourcentages approximatifs de Guanine (G) et de Cytosine (C) dans l'ADN humain ?",
+      "de": "Basierend auf Chargaffs Regeln und der bereitgestellten Tabelle, wie hoch sind die ungefähren Prozentsätze von Guanin (G) und Cytosin (C) in menschlicher DNA?",
+      "ja": "シャルガフの法則と提供された表に基づくと、ヒトDNAにおけるグアニン（G）とシトシン（C）のおおよそのパーセンテージはどのくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "G ≈ 19.75%, C ≈ 19.75%",
+          "zh": "G ≈ 19.75%, C ≈ 19.75%",
+          "es": "G ≈ 19.75%, C ≈ 19.75%",
+          "fr": "G ≈ 19.75%, C ≈ 19.75%",
+          "de": "G ≈ 19.75%, C ≈ 19.75%",
+          "ja": "G ≈ 19.75%, C ≈ 19.75%"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "G ≈ 30.4%, C ≈ 30.1%",
+          "zh": "G ≈ 30.4%, C ≈ 30.1%",
+          "es": "G ≈ 30.4%, C ≈ 30.1%",
+          "fr": "G ≈ 30.4%, C ≈ 30.1%",
+          "de": "G ≈ 30.4%, C ≈ 30.1%",
+          "ja": "G ≈ 30.4%, C ≈ 30.1%"
+        },
+        "feedback": {
+          "en": "This option incorrectly swaps the percentages of Adenine and Thymine for Guanine and Cytosine. Chargaff's rules state A≈T and G≈C, not A≈G or C≈T.",
+          "zh": "此选项错误地将腺嘌呤和胸腺嘧啶的百分比与鸟嘌呤和胞嘧啶的百分比混淆。查加夫法则指出A≈T和G≈C，而非A≈G或C≈T。",
+          "es": "Esta opción intercambia incorrectamente los porcentajes de Adenina y Timina por Guanina y Citosina. Las reglas de Chargaff establecen A≈T y G≈C, no A≈G o C≈T.",
+          "fr": "Cette option échange incorrectement les pourcentages d'Adénine et de Thymine avec ceux de Guanine et de Cytosine. Les règles de Chargaff stipulent A≈T et G≈C, non A≈G ou C≈T.",
+          "de": "Diese Option vertauscht fälschlicherweise die Prozentsätze von Adenin und Thymin mit denen von Guanin und Cytosin. Chargaffs Regeln besagen A≈T und G≈C, nicht A≈G oder C≈T.",
+          "ja": "この選択肢は、アデニンとチミンのパーセンテージをグアニンとシトシンのパーセンテージと誤って入れ替えています。シャルガフの法則はA≈T、G≈Cであり、A≈GやC≈Tではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "G ≈ 29.0%, C ≈ 29.0%",
+          "zh": "G ≈ 29.0%, C ≈ 29.0%",
+          "es": "G ≈ 29.0%, C ≈ 29.0%",
+          "fr": "G ≈ 29.0%, C ≈ 29.0%",
+          "de": "G ≈ 29.0%, C ≈ 29.0%",
+          "ja": "G ≈ 29.0%, C ≈ 29.0%"
+        },
+        "feedback": {
+          "en": "This option uses data from Ox DNA, not Human DNA. Always refer to the correct species data.",
+          "zh": "此选项使用了牛DNA的数据，而非人类DNA的数据。请始终参考正确的物种数据。",
+          "es": "Esta opción utiliza datos del ADN de buey, no del ADN humano. Siempre consulte los datos correctos de la especie.",
+          "fr": "Cette option utilise les données de l'ADN de bœuf, et non de l'ADN humain. Référez-vous toujours aux données de l'espèce correcte.",
+          "de": "Diese Option verwendet Daten von Ochsen-DNA, nicht von menschlicher DNA. Beziehen Sie sich immer auf die korrekten Speziesdaten.",
+          "ja": "この選択肢は、ヒトDNAではなくウシDNAのデータを使用しています。常に正しい種のデータを参照してください。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "G ≈ 24.7%, C ≈ 26.0%",
+          "zh": "G ≈ 24.7%, C ≈ 26.0%",
+          "es": "G ≈ 24.7%, C ≈ 26.0%",
+          "fr": "G ≈ 24.7%, C ≈ 26.0%",
+          "de": "G ≈ 24.7%, C ≈ 26.0%",
+          "ja": "G ≈ 24.7%, C ≈ 26.0%"
+        },
+        "feedback": {
+          "en": "This option uses data from E. coli DNA and does not correctly apply Chargaff's rules to balance the percentages. For Human DNA, calculate G and C based on the given A and T percentages.",
+          "zh": "此选项使用了大肠杆菌DNA的数据，并且未正确应用查加夫法则来平衡百分比。对于人类DNA，请根据给定的A和T百分比计算G和C。",
+          "es": "Esta opción utiliza datos del ADN de E. coli y no aplica correctamente las reglas de Chargaff para equilibrar los porcentajes. Para el ADN humano, calcule G y C basándose en los porcentajes de A y T dados.",
+          "fr": "Cette option utilise les données de l'ADN d'E. coli et n'applique pas correctement les règles de Chargaff pour équilibrer les pourcentages. Pour l'ADN humain, calculez G et C en fonction des pourcentages d'A et de T donnés.",
+          "de": "Diese Option verwendet Daten aus der E. coli-DNA und wendet Chargaffs Regeln nicht korrekt an, um die Prozentsätze auszugleichen. Berechnen Sie für menschliche DNA G und C basierend auf den gegebenen A- und T-Prozentsätzen.",
+          "ja": "この選択肢は、大腸菌DNAのデータを使用しており、シャルガフの法則を正しく適用してパーセンテージをバランスさせていません。ヒトDNAの場合、与えられたAとTのパーセンテージに基づいてGとCを計算してください。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "For Human DNA, the percentage of Adenine (A) is 30.4% and Thymine (T) is 30.1%. According to Chargaff's rules, A roughly equals T, and G roughly equals C. The total percentage of all four bases must be 100%. So, A + T + G + C = 100%. Given A=30.4% and T=30.1%, A+T = 60.5%. Therefore, G+C = 100% - 60.5% = 39.5%. Since G roughly equals C, each would be approximately 39.5% / 2 = 19.75%.",
+      "zh": "对于人类DNA，腺嘌呤（A）的百分比为30.4%，胸腺嘧啶（T）的百分比为30.1%。根据查加夫法则，A大致等于T，G大致等于C。所有四种碱基的总百分比必须为100%。因此，A + T + G + C = 100%。已知A=30.4%，T=30.1%，则A+T = 60.5%。所以，G+C = 100% - 60.5% = 39.5%。由于G大致等于C，则每个碱基的百分比大约为39.5% / 2 = 19.75%。",
+      "es": "Para el ADN humano, el porcentaje de Adenina (A) es 30.4% y el de Timina (T) es 30.1%. Según las reglas de Chargaff, A es aproximadamente igual a T, y G es aproximadamente igual a C. El porcentaje total de las cuatro bases debe ser 100%. Por lo tanto, A + T + G + C = 100%. Dado que A=30.4% y T=30.1%, A+T = 60.5%. En consecuencia, G+C = 100% - 60.5% = 39.5%. Como G es aproximadamente igual a C, cada una sería aproximadamente 39.5% / 2 = 19.75%.",
+      "fr": "Pour l'ADN humain, le pourcentage d'Adénine (A) est de 30,4% et celui de Thymine (T) est de 30,1%. Selon les règles de Chargaff, A est approximativement égal à T, et G est approximativement égal à C. Le pourcentage total des quatre bases doit être de 100%. Ainsi, A + T + G + C = 100%. Sachant que A=30,4% et T=30,1%, A+T = 60,5%. Par conséquent, G+C = 100% - 60,5% = 39,5%. Puisque G est approximativement égal à C, chacun serait environ 39,5% / 2 = 19,75%.",
+      "de": "Für menschliche DNA beträgt der Prozentsatz von Adenin (A) 30,4% und von Thymin (T) 30,1%. Gemäß Chargaffs Regeln ist A ungefähr gleich T, und G ungefähr gleich C. Der Gesamtprozentsatz aller vier Basen muss 100% betragen. Also A + T + G + C = 100%. Da A=30,4% und T=30,1% sind, ist A+T = 60,5%. Folglich ist G+C = 100% - 60,5% = 39,5%. Da G ungefähr gleich C ist, würde jeder etwa 39,5% / 2 = 19,75% betragen.",
+      "ja": "ヒトDNAでは、アデニン（A）のパーセンテージが30.4%、チミン（T）が30.1%です。シャルガフの法則によれば、AはTにほぼ等しく、GはCにほぼ等しいです。4つの塩基すべての合計パーセンテージは100%でなければなりません。したがって、A + T + G + C = 100%です。A=30.4%、T=30.1%なので、A+T = 60.5%です。したがって、G+C = 100% - 60.5% = 39.5%です。GがCにほぼ等しいため、それぞれ約39.5% / 2 = 19.75%になります。"
+    }
+  },
+  {
+    "page_number": 367,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements best describes Chargaff's rules as demonstrated by the sea urchin and salmon data in the table?",
+      "zh": "以下哪项陈述最能描述查加夫法则在表格中海胆和鲑鱼数据中所体现的内容？",
+      "es": "¿Cuál de las siguientes afirmaciones describe mejor las reglas de Chargaff tal como se demuestran en los datos de erizo de mar y salmón de la tabla?",
+      "fr": "Laquelle des affirmations suivantes décrit le mieux les règles de Chargaff telles que démontrées par les données sur l'oursin et le saumon dans le tableau ?",
+      "de": "Welche der folgenden Aussagen beschreibt Chargaffs Regeln am besten, wie sie durch die Daten von Seeigel und Lachs in der Tabelle demonstriert werden?",
+      "ja": "表のウニとサケのデータによって示されているシャルガフの法則を最もよく説明しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The percentages of adenine and guanine are always equal, and those of cytosine and thymine are always equal.",
+          "zh": "腺嘌呤和鸟嘌呤的百分比总是相等，胞嘧啶和胸腺嘧啶的百分比也总是相等。",
+          "es": "Los porcentajes de adenina y guanina son siempre iguales, y los de citosina y timina son siempre iguales.",
+          "fr": "Les pourcentages d'adénine et de guanine sont toujours égaux, et ceux de cytosine et de thymine sont toujours égaux.",
+          "de": "Die Prozentsätze von Adenin und Guanin sind immer gleich, und die von Cytosin und Thymin sind immer gleich.",
+          "ja": "アデニンとグアニンのパーセンテージは常に等しく、シトシンとチミンのパーセンテージも常に等しい。"
+        },
+        "feedback": {
+          "en": "Chargaff's rules state that Adenine (A) pairs with Thymine (T) and Guanine (G) pairs with Cytosine (C), meaning A≈T and G≈C, not A≈G.",
+          "zh": "查加夫法则指出腺嘌呤（A）与胸腺嘧啶（T）配对，鸟嘌呤（G）与胞嘧啶（C）配对，这意味着A≈T和G≈C，而不是A≈G。",
+          "es": "Las reglas de Chargaff establecen que la Adenina (A) se empareja con la Timina (T) y la Guanina (G) con la Citosina (C), lo que significa que A≈T y G≈C, no A≈G.",
+          "fr": "Les règles de Chargaff stipulent que l'Adénine (A) s'apparie avec la Thymine (T) et la Guanine (G) avec la Cytosine (C), ce qui signifie A≈T et G≈C, non A≈G.",
+          "de": "Chargaffs Regeln besagen, dass Adenin (A) mit Thymin (T) und Guanin (G) mit Cytosin (C) paart, was bedeutet, dass A≈T und G≈C, nicht A≈G.",
+          "ja": "シャルガフの法則は、アデニン（A）がチミン（T）と対になり、グアニン（G）がシトシン（C）と対になることを示しており、A≈TおよびG≈Cを意味し、A≈Gではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The sum of adenine and thymine percentages equals the sum of guanine and cytosine percentages for all species.",
+          "zh": "对于所有物种，腺嘌呤和胸腺嘧啶的百分比之和等于鸟嘌呤和胞嘧啶的百分比之和。",
+          "es": "La suma de los porcentajes de adenina y timina es igual a la suma de los porcentajes de guanina y citosina para todas las especies.",
+          "fr": "La somme des pourcentages d'adénine et de thymine est égale à la somme des pourcentages de guanine et de cytosine pour toutes les espèces.",
+          "de": "Die Summe der Adenin- und Thymin-Prozentsätze ist für alle Spezies gleich der Summe der Guanin- und Cytosin-Prozentsätze.",
+          "ja": "すべてのアデニンとチミンのパーセンテージの合計は、すべてのグアニンとシトシンのパーセンテージの合計に等しい。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The percentage of adenine approximately equals that of thymine, and the percentage of guanine approximately equals that of cytosine, with these proportions varying among different species.",
+          "zh": "腺嘌呤的百分比大致等于胸腺嘧啶的百分比，鸟嘌呤的百分比大致等于胞嘧啶的百分比，且这些比例在不同物种间有所不同。",
+          "es": "El porcentaje de adenina es aproximadamente igual al de timina, y el porcentaje de guanina es aproximadamente igual al de citosina, variando estas proporciones entre diferentes especies.",
+          "fr": "Le pourcentage d'adénine est approximativement égal à celui de la thymine, et le pourcentage de guanine est approximativement égal à celui de la cytosine, ces proportions variant selon les espèces.",
+          "de": "Der Prozentsatz von Adenin entspricht ungefähr dem von Thymin, und der Prozentsatz von Guanin entspricht ungefähr dem von Cytosin, wobei diese Proportionen zwischen verschiedenen Spezies variieren.",
+          "ja": "アデニンのパーセンテージはチミンのパーセンテージにほぼ等しく、グアニンのパーセンテージはシトシンのパーセンテージにほぼ等しいが、これらの比率は異なる種の間で変動する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA from different species always has the same percentage composition of all four bases.",
+          "zh": "不同物种的DNA总是具有相同的四种碱基百分比组成。",
+          "es": "El ADN de diferentes especies siempre tiene la misma composición porcentual de las cuatro bases.",
+          "fr": "L'ADN de différentes espèces a toujours la même composition en pourcentage des quatre bases.",
+          "de": "Die DNA verschiedener Arten hat immer die gleiche prozentuale Zusammensetzung aller vier Basen.",
+          "ja": "異なる種のDNAは常に4つの塩基すべての同じパーセンテージ組成を持っている。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that 'the percentage of each pair (A-T or C-G) varied from species to species,' contradicting the idea of identical composition across species.",
+          "zh": "文本明确指出“每一对（A-T或C-G）的百分比因物种而异”，这与不同物种间组成相同的说法相矛盾。",
+          "es": "El texto establece explícitamente que 'el porcentaje de cada par (A-T o C-G) variaba de una especie a otra', lo que contradice la idea de una composición idéntica entre especies.",
+          "fr": "Le texte indique explicitement que 'le pourcentage de chaque paire (A-T ou C-G) variait d'une espèce à l'autre', ce qui contredit l'idée d'une composition identique entre les espèces.",
+          "de": "Der Text besagt ausdrücklich, dass 'der Prozentsatz jedes Paares (A-T oder C-G) von Spezies zu Spezies variierte', was der Idee einer identischen Zusammensetzung über Spezies hinweg widerspricht.",
+          "ja": "本文は「各ペア（A-TまたはC-G）のパーセンテージは種によって異なっていた」と明記しており、種間で組成が同一であるという考えに矛盾します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Chargaff's rules, as described and demonstrated by the data, highlight two key points: 1) the amount of adenine (A) is approximately equal to thymine (T), and the amount of guanine (G) is approximately equal to cytosine (C); and 2) these A/T and C/G ratios are consistently 1:1, but the overall percentages of these pairs vary from species to species.",
+      "zh": "查加夫法则，如文本所述并由数据证明，强调了两个关键点：1）腺嘌呤（A）的数量大致等于胸腺嘧啶（T），鸟嘌呤（G）的数量大致等于胞嘧啶（C）；2）这些A/T和C/G的比率始终是1:1，但这些配对的总百分比在不同物种间有所不同。",
+      "es": "Las reglas de Chargaff, como se describen y demuestran en los datos, resaltan dos puntos clave: 1) la cantidad de adenina (A) es aproximadamente igual a la de timina (T), y la cantidad de guanina (G) es aproximadamente igual a la de citosina (C); y 2) estas proporciones A/T y C/G son consistentemente 1:1, pero los porcentajes generales de estos pares varían de una especie a otra.",
+      "fr": "Les règles de Chargaff, telles que décrites et démontrées par les données, mettent en évidence deux points clés : 1) la quantité d'adénine (A) est approximativement égale à celle de la thymine (T), et la quantité de guanine (G) est approximativement égale à celle de la cytosine (C) ; et 2) ces ratios A/T et C/G sont constamment de 1:1, mais les pourcentages globaux de ces paires varient d'une espèce à l'autre.",
+      "de": "Chargaffs Regeln, wie sie beschrieben und durch die Daten demonstriert werden, heben zwei Schlüsselpunkte hervor: 1) die Menge an Adenin (A) ist ungefähr gleich der von Thymin (T), und die Menge an Guanin (G) ist ungefähr gleich der von Cytosin (C); und 2) diese A/T- und C/G-Verhältnisse sind konsistent 1:1, aber die Gesamtprozentsätze dieser Paare variieren von Spezies zu Spezies.",
+      "ja": "シャルガフの法則は、データによって説明され実証されているように、2つの重要な点を強調しています。1) アデニン（A）の量はチミン（T）にほぼ等しく、グアニン（G）の量はシトシン（C）にほぼ等しいこと。2) これらのA/TおよびC/G比率は一貫して1:1ですが、これらのペアの全体的なパーセンテージは種によって異なります。"
+    }
+  },
+  {
+    "page_number": 367,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Rosalind Franklin's X-ray diffraction images were crucial to understanding DNA structure. Which of the following was NOT a key insight derived from her work that contributed to the development of the double helix model?",
+      "zh": "罗莎琳德·富兰克林的X射线衍射图像对理解DNA结构至关重要。以下哪项不是从她的工作中获得的、对双螺旋模型发展做出贡献的关键见解？",
+      "es": "Las imágenes de difracción de rayos X de Rosalind Franklin fueron cruciales para comprender la estructura del ADN. ¿Cuál de las siguientes NO fue una idea clave derivada de su trabajo que contribuyó al desarrollo del modelo de doble hélice?",
+      "fr": "Les images de diffraction des rayons X de Rosalind Franklin ont été cruciales pour la compréhension de la structure de l'ADN. Parmi les éléments suivants, lequel n'était PAS une perspicacité clé dérivée de son travail qui a contribué au développement du modèle en double hélice ?",
+      "de": "Rosalind Franklins Röntgenbeugungsbilder waren entscheidend für das Verständnis der DNA-Struktur. Welches der folgenden war KEIN zentraler Einblick aus ihrer Arbeit, der zur Entwicklung des Doppelhelixmodells beitrug?",
+      "ja": "ロザリンド・フランクリンのX線回折画像は、DNA構造の理解に不可欠でした。彼女の研究から得られた主要な知見のうち、二重らせんモデルの開発に貢献しなかったものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Confirmation that DNA has a helical shape.",
+          "zh": "确认DNA具有螺旋形状。",
+          "es": "Confirmación de que el ADN tiene forma helicoidal.",
+          "fr": "Confirmation que l'ADN a une forme hélicoïdale.",
+          "de": "Bestätigung, dass DNA eine helikale Form hat.",
+          "ja": "DNAがらせん状であることを確認したこと。"
+        },
+        "feedback": {
+          "en": "Franklin's X-ray diffraction photo confirmed that DNA was helical in shape, which was a key contribution.",
+          "zh": "富兰克林的X射线衍射照片证实了DNA呈螺旋形，这是一项关键贡献。",
+          "es": "La foto de difracción de rayos X de Franklin confirmó que el ADN tenía forma helicoidal, lo cual fue una contribución clave.",
+          "fr": "La photo de diffraction des rayons X de Franklin a confirmé que l'ADN avait une forme hélicoïdale, ce qui était une contribution clé.",
+          "de": "Franklins Röntgenbeugungsfoto bestätigte, dass DNA eine helikale Form hatte, was ein wesentlicher Beitrag war.",
+          "ja": "フランクリンのX線回折写真は、DNAがらせん状であることを確認しており、これは重要な貢献でした。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Evidence that the DNA helix is made up of two strands, not three.",
+          "zh": "证据表明DNA螺旋由两条链而非三条链组成。",
+          "es": "Evidencia de que la hélice del ADN está compuesta por dos hebras, no tres.",
+          "fr": "Preuve que l'hélice d'ADN est composée de deux brins, et non de trois.",
+          "de": "Beweise, dass die DNA-Helix aus zwei Strängen besteht, nicht aus drei.",
+          "ja": "DNAらせんが3本ではなく2本の鎖からできているという証拠。"
+        },
+        "feedback": {
+          "en": "Franklin's pattern implied the helix was made up of two strands, which corrected earlier three-stranded models and was crucial for the double helix model.",
+          "zh": "富兰克林的图像模式暗示螺旋由两条链组成，这纠正了早期的三链模型，对双螺旋模型至关重要。",
+          "es": "El patrón de Franklin implicaba que la hélice estaba formada por dos hebras, lo que corrigió modelos anteriores de tres hebras y fue crucial para el modelo de doble hélice.",
+          "fr": "Le modèle de Franklin impliquait que l'hélice était composée de deux brins, ce qui corrigeait les modèles à trois brins antérieurs et était crucial pour le modèle en double hélice.",
+          "de": "Franklins Muster deutete darauf hin, dass die Helix aus zwei Strängen bestand, was frühere Dreistrangmodelle korrigierte und für das Doppelhelixmodell entscheidend war.",
+          "ja": "フランクリンのパターンは、らせんが2本の鎖で構成されていることを示唆しており、これは以前の3本鎖モデルを修正し、二重らせんモデルにとって極めて重要でした。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Determination of the exact sequence of nitrogenous bases along a DNA strand.",
+          "zh": "确定DNA链上氮碱基的精确序列。",
+          "es": "Determinación de la secuencia exacta de las bases nitrogenadas a lo largo de una hebra de ADN.",
+          "fr": "Détermination de la séquence exacte des bases azotées le long d'un brin d'ADN.",
+          "de": "Bestimmung der genauen Sequenz der stickstoffhaltigen Basen entlang eines DNA-Strangs.",
+          "ja": "DNA鎖に沿った窒素塩基の正確な配列の決定。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Information about the width of the helix and the spacing of the nitrogenous bases along it.",
+          "zh": "关于螺旋宽度和其上氮碱基间距的信息。",
+          "es": "Información sobre el ancho de la hélice y el espaciado de las bases nitrogenadas a lo largo de la misma.",
+          "fr": "Informations sur la largeur de l'hélice et l'espacement des bases azotées le long de celle-ci.",
+          "de": "Informationen über die Breite der Helix und den Abstand der Stickstoffbasen entlang dieser.",
+          "ja": "らせんの幅と、そのらせんに沿った窒素塩基の間隔に関する情報。"
+        },
+        "feedback": {
+          "en": "Franklin's X-ray data did provide insights into the width of the helix and the spacing of the bases, which were important for the model.",
+          "zh": "富兰克林的X射线数据确实提供了关于螺旋宽度和碱基间距的见解，这对模型很重要。",
+          "es": "Los datos de rayos X de Franklin proporcionaron información sobre el ancho de la hélice y el espaciado de las bases, lo cual fue importante para el modelo.",
+          "fr": "Les données de rayons X de Franklin ont fourni des informations sur la largeur de l'hélice et l'espacement des bases, ce qui était important pour le modèle.",
+          "de": "Franklins Röntgendaten lieferten Einblicke in die Breite der Helix und den Abstand der Basen, die für das Modell wichtig waren.",
+          "ja": "フランクリンのX線データは、らせんの幅と塩基の間隔に関する洞察を提供し、これはモデルにとって重要でした。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Rosalind Franklin's X-ray diffraction images revealed the helical shape of DNA, implied its two-stranded nature, and provided critical measurements for the helix's width and the spacing of its bases. However, X-ray diffraction cannot determine the specific sequence of nitrogenous bases; that requires other methods like sequencing.",
+      "zh": "罗莎琳德·富兰克林的X射线衍射图像揭示了DNA的螺旋形状，暗示了其双链结构，并为螺旋的宽度和碱基间距提供了关键测量数据。然而，X射线衍射无法确定氮碱基的具体序列；这需要其他方法，如测序。",
+      "es": "Las imágenes de difracción de rayos X de Rosalind Franklin revelaron la forma helicoidal del ADN, implicaron su naturaleza bicatenaria y proporcionaron mediciones críticas para el ancho de la hélice y el espaciado de sus bases. Sin embargo, la difracción de rayos X no puede determinar la secuencia específica de las bases nitrogenadas; eso requiere otros métodos como la secuenciación.",
+      "fr": "Les images de diffraction des rayons X de Rosalind Franklin ont révélé la forme hélicoïdale de l'ADN, ont impliqué sa nature bicaténaire et ont fourni des mesures critiques pour la largeur de l'hélice et l'espacement de ses bases. Cependant, la diffraction des rayons X ne peut pas déterminer la séquence spécifique des bases azotées ; cela nécessite d'autres méthodes comme le séquençage.",
+      "de": "Rosalind Franklins Röntgenbeugungsbilder enthüllten die helikale Form der DNA, implizierten ihre Doppelsträngigkeit und lieferten kritische Messungen für die Breite der Helix und den Abstand ihrer Basen. Die Röntgenbeugung kann jedoch nicht die spezifische Sequenz der Stickstoffbasen bestimmen; dafür sind andere Methoden wie die Sequenzierung erforderlich.",
+      "ja": "ロザリンド・フランクリンのX線回折画像は、DNAのらせん構造を明らかにし、2本鎖であることを示唆し、らせんの幅と塩基の間隔に関する重要な測定値を提供しました。しかし、X線回折では窒素塩基の特定の配列を決定することはできません。それにはシーケンスなどの他の方法が必要です。"
+    }
+  },
+  {
+    "page_number": 367,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, which statement accurately describes a key feature of the DNA double helix model constructed by Watson and Crick?",
+      "zh": "根据文本，以下哪项陈述准确描述了沃森和克里克构建的DNA双螺旋模型的一个关键特征？",
+      "es": "Según el texto, ¿cuál de las siguientes afirmaciones describe con precisión una característica clave del modelo de doble hélice de ADN construido por Watson y Crick?",
+      "fr": "Selon le texte, quelle affirmation décrit avec précision une caractéristique clé du modèle de double hélice d'ADN construit par Watson et Crick ?",
+      "de": "Welche der folgenden Aussagen beschreibt laut Text ein Schlüsselmerkmal des von Watson und Crick konstruierten DNA-Doppelhelixmodells genau?",
+      "ja": "本文によると、ワトソンとクリックが構築したDNA二重らせんモデルの重要な特徴を正確に説明している記述は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The sugar-phosphate backbones are located on the inside of the DNA molecule.",
+          "zh": "糖-磷酸骨架位于DNA分子的内部。",
+          "es": "Los esqueletos de azúcar-fosfato se encuentran en el interior de la molécula de ADN.",
+          "fr": "Les squelettes sucre-phosphate sont situés à l'intérieur de la molécule d'ADN.",
+          "de": "Die Zucker-Phosphat-Rückgrate befinden sich im Inneren des DNA-Moleküls.",
+          "ja": "糖リン酸骨格はDNA分子の内側に位置している。"
+        },
+        "feedback": {
+          "en": "The text states that the 'sugar-phosphate backbones were on the outside of the DNA molecule.'",
+          "zh": "文本指出“糖-磷酸骨架位于DNA分子的外部”。",
+          "es": "El texto indica que 'los esqueletos de azúcar-fosfato estaban en el exterior de la molécula de ADN'.",
+          "fr": "Le texte indique que les 'squelettes sucre-phosphate étaient à l'extérieur de la molécule d'ADN'.",
+          "de": "Der Text besagt, dass die 'Zucker-Phosphat-Rückgrate an der Außenseite des DNA-Moleküls' lagen.",
+          "ja": "本文には「糖リン酸骨格はDNA分子の外側にあった」と記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The nitrogenous bases are exposed to the aqueous surroundings.",
+          "zh": "氮碱基暴露在水环境中。",
+          "es": "Las bases nitrogenadas están expuestas al entorno acuoso.",
+          "fr": "Les bases azotées sont exposées à l'environnement aqueux.",
+          "de": "Die stickstoffhaltigen Basen sind der wässrigen Umgebung ausgesetzt.",
+          "ja": "窒素塩基は水性環境に露出している。"
+        },
+        "feedback": {
+          "en": "The text explains that the 'relatively hydrophobic nitrogenous bases were hidden in the interior.'",
+          "zh": "文本解释说“相对疏水的氮碱基隐藏在内部”。",
+          "es": "El texto explica que las 'bases nitrogenadas relativamente hidrofóbicas estaban escondidas en el interior'.",
+          "fr": "Le texte explique que les 'bases azotées relativement hydrophobes étaient cachées à l'intérieur'.",
+          "de": "Der Text erklärt, dass die 'relativ hydrophoben Stickstoffbasen im Inneren verborgen waren'.",
+          "ja": "本文では「比較的疎水性の窒素塩基は内部に隠されていた」と説明されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The two sugar-phosphate backbones run in opposite directions, making them antiparallel.",
+          "zh": "两条糖-磷酸骨架沿相反方向延伸，使其呈反平行。",
+          "es": "Los dos esqueletos de azúcar-fosfato corren en direcciones opuestas, haciéndolos antiparalelos.",
+          "fr": "Les deux squelettes sucre-phosphate courent dans des directions opposées, les rendant antiparallèles.",
+          "de": "Die beiden Zucker-Phosphat-Rückgrate verlaufen in entgegengesetzte Richtungen, wodurch sie antiparallel sind.",
+          "ja": "2つの糖リン酸骨格は反対方向に走り、逆平行になっている。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Complementary base pairing means A pairs with G, and C pairs with T.",
+          "zh": "互补碱基配对意味着A与G配对，C与T配对。",
+          "es": "El apareamiento de bases complementarias significa que A se empareja con G, y C se empareja con T.",
+          "fr": "L'appariement des bases complémentaires signifie que l'Adénine s'apparie avec la Guanine, et la Cytosine avec la Thymine.",
+          "de": "Komplementäre Basenpaarung bedeutet, dass A mit G paart und C mit T paart.",
+          "ja": "相補的塩基対形成は、AがGと対になり、CがTと対になることを意味する。"
+        },
+        "feedback": {
+          "en": "Complementary base pairing (Chargaff's rules) specifies that Adenine (A) pairs with Thymine (T), and Guanine (G) pairs with Cytosine (C).",
+          "zh": "互补碱基配对（查加夫法则）规定腺嘌呤（A）与胸腺嘧啶（T）配对，鸟嘌呤（G）与胞嘧啶（C）配对。",
+          "es": "El apareamiento de bases complementarias (reglas de Chargaff) especifica que la Adenina (A) se empareja con la Timina (T), y la Guanina (G) con la Citosina (C).",
+          "fr": "L'appariement des bases complémentaires (règles de Chargaff) spécifie que l'Adénine (A) s'apparie avec la Thymine (T), et la Guanine (G) avec la Cytosine (C).",
+          "de": "Die komplementäre Basenpaarung (Chargaffs Regeln) besagt, dass Adenin (A) mit Thymin (T) und Guanin (G) mit Cytosin (C) paart.",
+          "ja": "相補的塩基対形成（シャルガフの法則）は、アデニン（A）がチミン（T）と対になり、グアニン（G）がシトシン（C）と対になることを指定しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Watson constructed such a model, in which the two sugar-phosphate backbones are antiparallel—that is, their subunits run in opposite directions.' This is a fundamental feature of the DNA double helix.",
+      "zh": "文本明确指出：“沃森构建了这样一个模型，其中两条糖-磷酸骨架是反平行的——也就是说，它们的亚基沿相反方向延伸。”这是DNA双螺旋的一个基本特征。",
+      "es": "El texto establece explícitamente: 'Watson construyó un modelo tal, en el que los dos esqueletos de azúcar-fosfato son antiparalelos, es decir, sus subunidades corren en direcciones opuestas.' Esta es una característica fundamental de la doble hélice de ADN.",
+      "fr": "Le texte stipule explicitement : « Watson a construit un tel modèle, dans lequel les deux squelettes sucre-phosphate sont antiparallèles — c'est-à-dire que leurs sous-unités s'étendent dans des directions opposées. » C'est une caractéristique fondamentale de la double hélice d'ADN.",
+      "de": "Der Text besagt ausdrücklich: „Watson konstruierte ein solches Modell, in dem die beiden Zucker-Phosphat-Rückgrate antiparallel sind – das heißt, ihre Untereinheiten verlaufen in entgegengesetzte Richtungen.“ Dies ist ein grundlegendes Merkmal der DNA-Doppelhelix.",
+      "ja": "本文には、「ワトソンは、2つの糖リン酸骨格が逆平行である、つまり、そのサブユニットが逆方向に走るというモデルを構築した」と明記されています。これはDNA二重らせんの基本的な特徴です。"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "How many chromosomes are in a typical human somatic cell?",
+      "zh": "一个典型的人类体细胞中有多少条染色体？",
+      "es": "¿Cuántos cromosomas hay en una célula somática humana típica?",
+      "fr": "Combien de chromosomes y a-t-il dans une cellule somatique humaine typique ?",
+      "de": "Wie viele Chromosomen befinden sich in einer typischen menschlichen somatischen Zelle?",
+      "ja": "典型的なヒトの体細胞にはいくつの染色体がありますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "23",
+          "zh": "23条",
+          "es": "23",
+          "fr": "23",
+          "de": "23",
+          "ja": "23本"
+        },
+        "feedback": {
+          "en": "This is the number of chromosomes in a human gamete (sperm or egg), which is a haploid cell. Somatic cells are diploid.",
+          "zh": "这是人类配子（精子或卵子）中的染色体数目，是单倍体细胞。体细胞是二倍体。",
+          "es": "Este es el número de cromosomas en un gameto humano (espermatozoide u óvulo), que es una célula haploide. Las células somáticas son diploides.",
+          "fr": "C'est le nombre de chromosomes dans un gamète humain (spermatozoïde ou ovule), qui est une cellule haploïde. Les cellules somatiques sont diploïdes.",
+          "de": "Dies ist die Anzahl der Chromosomen in einem menschlichen Gameten (Spermium oder Eizelle), einer haploiden Zelle. Somatische Zellen sind diploid.",
+          "ja": "これはヒトの配偶子（精子または卵子）の染色体数であり、半数体細胞です。体細胞は二倍体です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "46",
+          "zh": "46条",
+          "es": "46",
+          "fr": "46",
+          "de": "46",
+          "ja": "46本"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "92",
+          "zh": "92条",
+          "es": "92",
+          "fr": "92",
+          "de": "92",
+          "ja": "92本"
+        },
+        "feedback": {
+          "en": "This would be the number of chromatids in a human somatic cell after DNA replication (at prophase or metaphase), but not the number of chromosomes.",
+          "zh": "这是人类体细胞在DNA复制后（处于前期或中期）的染色单体数，而不是染色体数。",
+          "es": "Este sería el número de cromátidas en una célula somática humana después de la replicación del ADN (en profase o metafase), pero no el número de cromosomas.",
+          "fr": "Ce serait le nombre de chromatides dans une cellule somatique humaine après la réplication de l'ADN (en prophase ou métaphase), mais pas le nombre de chromosomes.",
+          "de": "Dies wäre die Anzahl der Chromatiden in einer menschlichen somatischen Zelle nach der DNA-Replikation (in Prophase oder Metaphase), aber nicht die Anzahl der Chromosomen.",
+          "ja": "これはDNA複製後のヒトの体細胞の染色分体の数（前期または中期）であり、染色体の数ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It varies depending on the individual.",
+          "zh": "因人而异。",
+          "es": "Varía dependiendo del individuo.",
+          "fr": "Cela varie en fonction de l'individu.",
+          "de": "Es variiert je nach Individuum.",
+          "ja": "個人によって異なります。"
+        },
+        "feedback": {
+          "en": "While abnormal numbers of chromosomes can occur (like in Down syndrome), the text specifies the number for a typical human somatic cell.",
+          "zh": "虽然可能会出现染色体数目异常的情况（如唐氏综合症），但文本明确指出了典型人类体细胞的数目。",
+          "es": "Si bien pueden ocurrir números anormales de cromosomas (como en el síndrome de Down), el texto especifica el número para una célula somática humana típica.",
+          "fr": "Bien que des nombres anormaux de chromosomes puissent survenir (comme dans le syndrome de Down), le texte spécifie le nombre pour une cellule somatique humaine typique.",
+          "de": "Obwohl abnormale Chromosomenzahlen auftreten können (wie beim Down-Syndrom), gibt der Text die Anzahl für eine typische menschliche somatische Zelle an.",
+          "ja": "染色体数の異常（ダウン症候群など）は起こり得ますが、本文では典型的なヒトの体細胞の数を指定しています。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text explicitly states, 'In humans, each somatic cell has 46 chromosomes.'",
+      "zh": "文中明确说明：“在人类中，每个体细胞有46条染色体。”",
+      "es": "El texto dice explícitamente: 'En los humanos, cada célula somática tiene 46 cromosomas'.",
+      "fr": "Le texte indique explicitement : « Chez l'homme, chaque cellule somatique possède 46 chromosomes ».",
+      "de": "Der Text besagt ausdrücklich: „Beim Menschen hat jede somatische Zelle 46 Chromosomen.“",
+      "ja": "本文には、「ヒトでは、各体細胞に46本の染色体があります」と明記されています。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is a karyotype?",
+      "zh": "什么是核型？",
+      "es": "¿Qué es un cariotipo?",
+      "fr": "Qu'est-ce qu'un caryotype ?",
+      "de": "Was ist ein Karyotyp?",
+      "ja": "核型とは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A pair of homologous chromosomes.",
+          "zh": "一对同源染色体。",
+          "es": "Un par de cromosomas homólogos.",
+          "fr": "Une paire de chromosomes homologues.",
+          "de": "Ein Paar homologer Chromosomen.",
+          "ja": "相同染色体の一対。"
+        },
+        "feedback": {
+          "en": "A karyotype is a display of *all* the chromosome pairs, not just one.",
+          "zh": "核型是*所有*染色体对的展示，而不仅仅是一对。",
+          "es": "Un cariotipo es una exhibición de *todos* los pares de cromosomas, no solo uno.",
+          "fr": "Un caryotype est un affichage de *toutes* les paires de chromosomes, pas seulement d'une.",
+          "de": "Ein Karyotyp ist eine Darstellung *aller* Chromosomenpaare, nicht nur eines.",
+          "ja": "核型は、一対だけでなく、すべての染色体対の表示です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The stage in mitosis where chromosomes are most condensed.",
+          "zh": "有丝分裂中染色体最浓缩的阶段。",
+          "es": "La etapa de la mitosis donde los cromosomas están más condensados.",
+          "fr": "Le stade de la mitose où les chromosomes sont les plus condensés.",
+          "de": "Das Stadium der Mitose, in dem die Chromosomen am stärksten kondensiert sind.",
+          "ja": "有糸分裂において染色体が最も凝縮する段階。"
+        },
+        "feedback": {
+          "en": "This stage is metaphase. Cells are arrested in metaphase to *prepare* a karyotype, but it is not the karyotype itself.",
+          "zh": "这个阶段是中期。为了*制备*核型，细胞被停在中期，但这本身并不是核型。",
+          "es": "Esta etapa es la metafase. Las células se detienen en metafase para *preparar* un cariotipo, pero no es el cariotipo en sí.",
+          "fr": "Ce stade est la métaphase. Les cellules sont arrêtées en métaphase pour *préparer* un caryotype, mais ce n'est pas le caryotype lui-même.",
+          "de": "Dieses Stadium ist die Metaphase. Zellen werden in der Metaphase arretiert, um einen Karyotyp zu *erstellen*, aber es ist nicht der Karyotyp selbst.",
+          "ja": "この段階は中期です。核型を準備するために細胞は中期で停止させられますが、それが核型そのものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "An ordered display of chromosome pairs from a cell, arranged by size.",
+          "zh": "来自细胞的染色体对按大小排列的有序展示。",
+          "es": "Una exhibición ordenada de pares de cromosomas de una célula, dispuestos por tamaño.",
+          "fr": "Un affichage ordonné des paires de chromosomes d'une cellule, classées par taille.",
+          "de": "Eine geordnete Darstellung von Chromosomenpaaren aus einer Zelle, nach Größe geordnet.",
+          "ja": "細胞からの染色体対をサイズ順に並べた整然とした表示。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The set of sex chromosomes (X and Y) in an individual.",
+          "zh": "个体中的一组性染色体（X和Y）。",
+          "es": "El conjunto de cromosomas sexuales (X e Y) en un individuo.",
+          "fr": "L'ensemble des chromosomes sexuels (X et Y) chez un individu.",
+          "de": "Der Satz von Geschlechtschromosomen (X und Y) in einem Individuum.",
+          "ja": "個体内の性染色体（XおよびY）のセット。"
+        },
+        "feedback": {
+          "en": "The sex chromosomes are part of a karyotype, but the karyotype includes all 23 pairs of chromosomes.",
+          "zh": "性染色体是核型的一部分，但核型包括所有23对染色体。",
+          "es": "Los cromosomas sexuales son parte de un cariotipo, pero el cariotipo incluye los 23 pares de cromosomas.",
+          "fr": "Les chromosomes sexuels font partie d'un caryotype, mais le caryotype comprend les 23 paires de chromosomes.",
+          "de": "Die Geschlechtschromosomen sind Teil eines Karyotyps, aber der Karyotyp umfasst alle 23 Chromosomenpaare.",
+          "ja": "性染色体は核型の一部ですが、核型には23対すべての染色体が含まれます。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text defines a karyotype as 'The resulting ordered display' when 'images of the chromosomes are arranged in pairs, starting with the longest chromosomes'. Figure 13.3 also visually demonstrates this concept.",
+      "zh": "文中将核型定义为“当染色体的图像按从长到短的顺序成对排列时，所得到的有序展示”。图13.3也直观地展示了这一概念。",
+      "es": "El texto define un cariotipo como 'La exhibición ordenada resultante' cuando 'las imágenes de los cromosomas se disponen en pares, comenzando por los cromosomas más largos'. La Figura 13.3 también demuestra visualmente este concepto.",
+      "fr": "Le texte définit un caryotype comme « l'affichage ordonné résultant » lorsque « les images des chromosomes sont disposées par paires, en commençant par les chromosomes les plus longs ». La figure 13.3 illustre également visuellement ce concept.",
+      "de": "Der Text definiert einen Karyotyp als „Die resultierende geordnete Darstellung“, wenn „Bilder der Chromosomen paarweise angeordnet sind, beginnend mit den längsten Chromosomen“. Abbildung 13.3 veranschaulicht dieses Konzept auch visuell.",
+      "ja": "本文では、核型を「染色体の画像を最も長いものから順にペアで配置した場合の、結果として得られる整然とした表示」と定義しています。図13.3もこの概念を視覚的に示しています。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Homologous chromosomes are described as having the same length, centromere position, and staining pattern. What is the functional significance of them carrying genes for the same inherited characters?",
+      "zh": "同源染色体被描述为具有相同的长度、着丝点位置和染色模式。它们携带控制相同遗传性状的基因，其功能意义是什么？",
+      "es": "Se describe que los cromosomas homólogos tienen la misma longitud, posición del centrómero y patrón de tinción. ¿Cuál es el significado funcional de que porten genes para los mismos caracteres hereditarios?",
+      "fr": "Les chromosomes homologues sont décrits comme ayant la même longueur, la même position du centromère et le même motif de coloration. Quelle est la signification fonctionnelle du fait qu'ils portent des gènes pour les mêmes caractères héréditaires ?",
+      "de": "Homologe Chromosomen werden als gleich lang, mit gleicher Zentromerposition und gleichem Färbemuster beschrieben. Was ist die funktionale Bedeutung davon, dass sie Gene für die gleichen vererbten Merkmale tragen?",
+      "ja": "相同染色体は、同じ長さ、セントロメアの位置、および染色パターンを持つと説明されています。それらが同じ遺伝形質のための遺伝子を運ぶことの機能的な意義は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It ensures that both chromosomes in a pair are identical in every way.",
+          "zh": "它确保一对染色体中的两条在各方面都完全相同。",
+          "es": "Asegura que ambos cromosomas de un par sean idénticos en todos los sentidos.",
+          "fr": "Cela garantit que les deux chromosomes d'une paire sont identiques en tous points.",
+          "de": "Es stellt sicher, dass beide Chromosomen in einem Paar in jeder Hinsicht identisch sind.",
+          "ja": "これにより、一対の染色体の両方があらゆる点で同一であることが保証されます。"
+        },
+        "feedback": {
+          "en": "They are not necessarily identical. They can carry different versions (alleles) of the same gene, for example, one for blue eyes and one for brown eyes.",
+          "zh": "它们不一定完全相同。它们可以携带同一基因的不同版本（等位基因），例如，一个控制蓝眼，一个控制棕眼。",
+          "es": "No son necesariamente idénticos. Pueden portar diferentes versiones (alelos) del mismo gen, por ejemplo, uno para ojos azules y otro para ojos marrones.",
+          "fr": "Ils ne sont pas nécessairement identiques. Ils peuvent porter différentes versions (allèles) du même gène, par exemple, un pour les yeux bleus et un pour les yeux bruns.",
+          "de": "Sie sind nicht unbedingt identisch. Sie können verschiedene Versionen (Allele) desselben Gens tragen, zum Beispiel eines für blaue Augen und eines für braune Augen.",
+          "ja": "それらは必ずしも同一ではありません。同じ遺伝子の異なるバージョン（対立遺伝子）、例えば青い目と茶色の目の遺伝子を運ぶことがあります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It allows for the pairing of these chromosomes during meiosis, which is essential for their correct separation into gametes.",
+          "zh": "它允许这些染色体在减数分裂期间配对，这对于它们正确分离到配子中至关重要。",
+          "es": "Permite el apareamiento de estos cromosomas durante la meiosis, lo cual es esencial para su correcta separación en los gametos.",
+          "fr": "Cela permet l'appariement de ces chromosomes pendant la méiose, ce qui est essentiel pour leur séparation correcte dans les gamètes.",
+          "de": "Es ermöglicht die Paarung dieser Chromosomen während der Meiose, was für ihre korrekte Trennung in die Gameten unerlässlich ist.",
+          "ja": "これにより、減数分裂中にこれらの染色体が対合することが可能になり、それらが配偶子に正しく分離するために不可欠です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It prevents any genetic variation from occurring in the offspring.",
+          "zh": "它防止后代出现任何遗传变异。",
+          "es": "Evita que se produzca cualquier variación genética en la descendencia.",
+          "fr": "Cela empêche toute variation génétique de se produire dans la progéniture.",
+          "de": "Es verhindert, dass bei den Nachkommen genetische Variationen auftreten.",
+          "ja": "これにより、子孫に遺伝的変異が生じるのを防ぎます。"
+        },
+        "feedback": {
+          "en": "The interaction between homologous chromosomes (like crossing over) is actually a major source of genetic variation.",
+          "zh": "同源染色体之间的相互作用（如交换）实际上是遗传变异的一个主要来源。",
+          "es": "La interacción entre cromosomas homólogos (como el entrecruzamiento) es en realidad una fuente importante de variación genética.",
+          "fr": "L'interaction entre les chromosomes homologues (comme le crossing-over) est en fait une source majeure de variation génétique.",
+          "de": "Die Interaktion zwischen homologen Chromosomen (wie das Crossing-over) ist tatsächlich eine Hauptquelle für genetische Variation.",
+          "ja": "相同染色体間の相互作用（交差など）は、実際には遺伝的変異の主要な源です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It ensures that somatic cells are haploid.",
+          "zh": "它确保体细胞是单倍体。",
+          "es": "Asegura que las células somáticas sean haploides.",
+          "fr": "Cela garantit que les cellules somatiques sont haploïdes.",
+          "de": "Es stellt sicher, dass somatische Zellen haploid sind.",
+          "ja": "これにより、体細胞が半数体であることが保証されます。"
+        },
+        "feedback": {
+          "en": "Somatic cells are diploid, meaning they have pairs of homologous chromosomes. Gametes are haploid.",
+          "zh": "体细胞是二倍体，意味着它们有成对的同源染色体。配子是单倍体。",
+          "es": "Las células somáticas son diploides, lo que significa que tienen pares de cromosomas homólogos. Los gametos son haploides.",
+          "fr": "Les cellules somatiques sont diploïdes, ce qui signifie qu'elles ont des paires de chromosomes homologues. Les gamètes sont haploïdes.",
+          "de": "Somatische Zellen sind diploid, was bedeutet, dass sie Paare von homologen Chromosomen haben. Gameten sind haploid.",
+          "ja": "体細胞は二倍体であり、相同染色体のペアを持っています。配偶子は半数体です。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "Having genes for the same characters at the same loci allows homologous chromosomes to recognize each other and pair up precisely during prophase I of meiosis. This pairing is crucial for the subsequent segregation of homologs into different daughter cells, ensuring each gamete receives one complete set of chromosomes.",
+      "zh": "在相同的基因座上拥有控制相同性状的基因，使得同源染色体能够在减数分裂前期I中相互识别并精确配对。这种配对对于随后同源染色体分离到不同的子细胞中至关重要，确保每个配子都能获得一套完整的染色体。",
+      "es": "Tener genes para los mismos caracteres en los mismos loci permite que los cromosomas homólogos se reconozcan y se apareen con precisión durante la profase I de la meiosis. Este apareamiento es crucial para la posterior segregación de los homólogos en diferentes células hijas, asegurando que cada gameto reciba un juego completo de cromosomas.",
+      "fr": "Le fait d'avoir des gènes pour les mêmes caractères aux mêmes loci permet aux chromosomes homologues de se reconnaître et de s'apparier précisément pendant la prophase I de la méiose. Cet appariement est crucial pour la ségrégation ultérieure des homologues dans différentes cellules filles, garantissant que chaque gamète reçoit un jeu complet de chromosomes.",
+      "de": "Gene für die gleichen Merkmale an den gleichen Loci zu haben, ermöglicht es homologen Chromosomen, sich während der Prophase I der Meiose gegenseitig zu erkennen und präzise zu paaren. Diese Paarung ist entscheidend für die anschließende Trennung der Homologen in verschiedene Tochterzellen, um sicherzustellen, dass jeder Gamet einen vollständigen Chromosomensatz erhält.",
+      "ja": "同じ遺伝子座に同じ形質のための遺伝子を持つことにより、相同染色体は減数分裂の前期Iの間に互いを認識し、正確に対合することができます。この対合は、その後の相同染色体の異なる娘細胞への分離に不可欠であり、各配偶子が完全な染色体セットを1つ受け取ることを保証します。"
+    }
+  }
+]

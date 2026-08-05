@@ -1,0 +1,322 @@
+[
+  {
+    "page_number": 1207,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Hamilton's Rule, which of the following conditions must be met for an altruistic act to be favored by natural selection?",
+      "zh": "根据汉密尔顿法则，以下哪个条件必须满足，利他行为才能被自然选择所青睐？",
+      "es": "Según la Regla de Hamilton, ¿cuál de las siguientes condiciones debe cumplirse para que un acto altruista sea favorecido por la selección natural?",
+      "fr": "Selon la règle de Hamilton, laquelle des conditions suivantes doit être remplie pour qu'un acte altruiste soit favorisé par la sélection naturelle ?",
+      "de": "Nach Hamiltons Regel, welche der folgenden Bedingungen muss erfüllt sein, damit ein altruistischer Akt durch natürliche Selektion begünstigt wird?",
+      "ja": "ハミルトンの法則によると、利他的行為が自然選択によって有利になるためには、以下のどの条件が満たされなければなりませんか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "rB < C",
+          "zh": "rB < C",
+          "es": "rB < C",
+          "fr": "rB < C",
+          "de": "rB < C",
+          "ja": "rB < C"
+        },
+        "feedback": {
+          "en": "This condition means the cost outweighs the related benefit, which would not favor altruism.",
+          "zh": "此条件表示成本大于相关利益，不利于利他行为。",
+          "es": "Esta condición significa que el costo supera el beneficio relacionado, lo que no favorecería el altruismo.",
+          "fr": "Cette condition signifie que le coût l'emporte sur le bénéfice lié, ce qui ne favoriserait pas l'altruisme.",
+          "de": "Diese Bedingung bedeutet, dass die Kosten den verwandten Nutzen übersteigen, was Altruismus nicht begünstigen würde.",
+          "ja": "この条件は、コストが関連する利益を上回ることを意味し、利他行動を有利にしません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "rB = C",
+          "zh": "rB = C",
+          "es": "rB = C",
+          "fr": "rB = C",
+          "de": "rB = C",
+          "ja": "rB = C"
+        },
+        "feedback": {
+          "en": "This condition suggests an equal balance between cost and related benefit, not a clear advantage for altruism.",
+          "zh": "此条件表示成本与相关利益之间处于平衡状态，利他行为没有明显优势。",
+          "es": "Esta condición sugiere un equilibrio igual entre el costo y el beneficio relacionado, no una ventaja clara para el altruismo.",
+          "fr": "Cette condition suggère un équilibre égal entre le coût et le bénéfice lié, pas un avantage clair pour l'altruisme.",
+          "de": "Diese Bedingung deutet auf ein gleiches Gleichgewicht zwischen Kosten und verwandtem Nutzen hin, keinen klaren Vorteil für Altruismus.",
+          "ja": "この条件は、コストと関連する利益が等しいバランスにあることを示唆しており、利他行動に明確な利点はありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "rB > C",
+          "zh": "rB > C",
+          "es": "rB > C",
+          "fr": "rB > C",
+          "de": "rB > C",
+          "ja": "rB > C"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "B < C",
+          "zh": "B < C",
+          "es": "B < C",
+          "fr": "B < C",
+          "de": "B < C",
+          "ja": "B < C"
+        },
+        "feedback": {
+          "en": "This condition only compares benefit and cost directly, without considering relatedness (r), which is a crucial part of Hamilton's rule.",
+          "zh": "此条件仅直接比较了利益和成本，未考虑亲缘关系系数 (r)，而这正是汉密尔顿法则的关键部分。",
+          "es": "Esta condición solo compara directamente el beneficio y el costo, sin considerar el parentesco (r), que es una parte crucial de la regla de Hamilton.",
+          "fr": "Cette condition ne compare que directement le bénéfice et le coût, sans prendre en compte le coefficient de parenté (r), qui est une partie cruciale de la règle de Hamilton.",
+          "de": "Diese Bedingung vergleicht nur direkt Nutzen und Kosten, ohne die Verwandtschaft (r) zu berücksichtigen, die ein entscheidender Bestandteil von Hamiltons Regel ist.",
+          "ja": "この条件は、利益とコストを直接比較するだけで、ハミルトンの法則の重要な部分である血縁度 (r) を考慮していません。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "r > C",
+          "zh": "r > C",
+          "es": "r > C",
+          "fr": "r > C",
+          "de": "r > C",
+          "ja": "r > C"
+        },
+        "feedback": {
+          "en": "This condition incorrectly compares the coefficient of relatedness directly with the cost, neglecting the benefit (B).",
+          "zh": "此条件错误地将亲缘关系系数直接与成本比较，忽略了利益 (B)。",
+          "es": "Esta condición compara incorrectamente el coeficiente de parentesco directamente con el costo, ignorando el beneficio (B).",
+          "fr": "Cette condition compare incorrectement le coefficient de parenté directement avec le coût, négligeant le bénéfice (B).",
+          "de": "Diese Bedingung vergleicht den Verwandtschaftsgrad fälschlicherweise direkt mit den Kosten, wobei der Nutzen (B) vernachlässigt wird.",
+          "ja": "この条件は、血縁度をコストと直接比較するもので、利益 (B) を無視しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Hamilton's rule states that natural selection favors altruism when the benefit to the recipient multiplied by the coefficient of relatedness (rB) exceeds the cost to the altruist (C). This means rB > C.",
+      "zh": "汉密尔顿法则指出，当接受者的受益乘以亲缘关系系数 (rB) 大于利他者的成本 (C) 时，自然选择会青睐利他行为。即 rB > C。",
+      "es": "La regla de Hamilton establece que la selección natural favorece el altruismo cuando el beneficio para el receptor multiplicado por el coeficiente de parentesco (rB) excede el costo para el altruista (C). Esto significa rB > C.",
+      "fr": "La règle de Hamilton stipule que la sélection naturelle favorise l'altruisme lorsque le bénéfice pour le bénéficiaire multiplié par le coefficient de parenté (rB) dépasse le coût pour l'altruiste (C). Cela signifie rB > C.",
+      "de": "Hamiltons Regel besagt, dass natürliche Selektion Altruismus begünstigt, wenn der Nutzen für den Empfänger multipliziert mit dem Verwandtschaftsgrad (rB) die Kosten für den Altruisten (C) übersteigt. Das bedeutet rB > C.",
+      "ja": "ハミルトンの法則は、受領者への利益と血縁度 (rB) の積が利他者へのコスト (C) を上回る場合に、自然選択が利他行動を有利にすると述べています。これは rB > C を意味します。"
+    }
+  },
+  {
+    "page_number": 1207,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In the provided text's surf rescue scenario involving a brother and sister, the altruistic act was favored by natural selection. If the same altruistic act were performed by the sister to rescue her first cousin, assuming the surf conditions remain the same (C = 0.5) and the cousin's potential reproductive output is still 2 offspring (B = 2), would natural selection favor this act?",
+      "zh": "在所提供的文本中，关于兄妹冲浪救援的情景，利他行为受到自然选择的青睐。如果同一利他行为是由姐姐为了营救她的表/堂兄弟姐妹而执行的，假设冲浪条件保持不变 (C = 0.5)，并且表/堂兄弟姐妹的潜在繁殖产出仍为 2 个后代 (B = 2)，自然选择还会青睐这种行为吗？",
+      "es": "En el escenario de rescate en el surf del texto proporcionado, que involucra a un hermano y una hermana, el acto altruista fue favorecido por la selección natural. Si el mismo acto altruista fuera realizado por la hermana para rescatar a su primo hermano, asumiendo que las condiciones del surf permanecen iguales (C = 0.5) y la producción reproductiva potencial del primo sigue siendo de 2 descendientes (B = 2), ¿la selección natural favorecería este acto?",
+      "fr": "Dans le scénario de sauvetage en mer du texte fourni, impliquant un frère et une sœur, l'acte altruiste a été favorisé par la sélection naturelle. Si le même acte altruiste était effectué par la sœur pour sauver son cousin germain, en supposant que les conditions de surf restent les mêmes (C = 0,5) et que la production reproductive potentielle du cousin est toujours de 2 descendants (B = 2), la sélection naturelle favoriserait-elle cet acte ?",
+      "de": "Im im Text beschriebenen Szenario der Surf-Rettung, an dem ein Bruder und eine Schwester beteiligt sind, wurde der altruistische Akt durch natürliche Selektion begünstigt. Wenn derselbe altruistische Akt von der Schwester zur Rettung ihres ersten Cousins durchgeführt würde, unter der Annahme, dass die Surfbedingungen gleich bleiben (C = 0,5) und die potenzielle reproduktive Leistung des Cousins immer noch 2 Nachkommen (B = 2) beträgt, würde die natürliche Selektion diesen Akt dann begünstigen?",
+      "ja": "提供されたテキストの、兄と妹によるサーフ救助のシナリオでは、利他的行為は自然選択によって有利になりました。もし妹が彼女のいとこを救助するために同じ利他的行為を行った場合、サーフの状態が同じ（C = 0.5）であり、いとこの潜在的な生殖産出が依然として2匹の子孫（B = 2）であると仮定すると、自然選択はこの行為を有利にするでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Yes, because the rB term (0.125 * 2 = 0.25) is still greater than C (0.5).",
+          "zh": "是的，因为 rB 项 (0.125 * 2 = 0.25) 仍然大于 C (0.5)。",
+          "es": "Sí, porque el término rB (0.125 * 2 = 0.25) sigue siendo mayor que C (0.5).",
+          "fr": "Oui, car le terme rB (0,125 * 2 = 0,25) est toujours supérieur à C (0,5).",
+          "de": "Ja, weil der rB-Term (0,125 * 2 = 0,25) immer noch größer ist als C (0,5).",
+          "ja": "はい、rB の項（0.125 × 2 = 0.25）がまだ C（0.5）よりも大きいからです。"
+        },
+        "feedback": {
+          "en": "The calculation of rB (0.25) is correct, but it is not greater than C (0.5). Therefore, Hamilton's rule is not met.",
+          "zh": "rB 的计算 (0.25) 是正确的，但它并不大于 C (0.5)。因此，汉密尔顿法则不满足。",
+          "es": "El cálculo de rB (0.25) es correcto, pero no es mayor que C (0.5). Por lo tanto, la regla de Hamilton no se cumple.",
+          "fr": "Le calcul de rB (0,25) est correct, mais il n'est pas supérieur à C (0,5). Par conséquent, la règle de Hamilton n'est pas respectée.",
+          "de": "Die Berechnung von rB (0,25) ist korrekt, aber sie ist nicht größer als C (0,5). Daher ist Hamiltons Regel nicht erfüllt.",
+          "ja": "rB の計算（0.25）は正しいですが、C（0.5）より大きくありません。したがって、ハミルトンの法則は満たされません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "No, because the rB term (0.125 * 2 = 0.25) is less than C (0.5).",
+          "zh": "不，因为 rB 项 (0.125 * 2 = 0.25) 小于 C (0.5)。",
+          "es": "No, porque el término rB (0.125 * 2 = 0.25) es menor que C (0.5).",
+          "fr": "Non, car le terme rB (0,125 * 2 = 0,25) est inférieur à C (0,5).",
+          "de": "Nein, weil der rB-Term (0,125 * 2 = 0,25) kleiner ist als C (0,5).",
+          "ja": "いいえ、rB の項（0.125 × 2 = 0.25）が C（0.5）よりも小さいからです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Yes, because the cost C (0.5) is less than the benefit B (2).",
+          "zh": "是的，因为成本 C (0.5) 小于利益 B (2)。",
+          "es": "Sí, porque el costo C (0.5) es menor que el beneficio B (2).",
+          "fr": "Oui, car le coût C (0,5) est inférieur au bénéfice B (2).",
+          "de": "Ja, weil die Kosten C (0,5) kleiner sind als der Nutzen B (2).",
+          "ja": "はい、コスト C（0.5）が利益 B（2）よりも小さいからです。"
+        },
+        "feedback": {
+          "en": "This option incorrectly applies the rule by only comparing B and C, neglecting the crucial coefficient of relatedness (r) that links the benefit to the altruist through shared genes.",
+          "zh": "此选项通过仅比较 B 和 C 而错误地应用了法则，忽略了通过共享基因将利益与利他者联系起来的关键亲缘关系系数 (r)。",
+          "es": "Esta opción aplica incorrectamente la regla al comparar solo B y C, ignorando el coeficiente de parentesco (r) crucial que vincula el beneficio con el altruista a través de genes compartidos.",
+          "fr": "Cette option applique incorrectement la règle en comparant seulement B et C, négligeant le coefficient de parenté (r) crucial qui lie le bénéfice à l'altruiste par le biais de gènes partagés.",
+          "de": "Diese Option wendet die Regel falsch an, indem sie nur B und C vergleicht und den entscheidenden Verwandtschaftsgrad (r) vernachlässigt, der den Nutzen über geteilte Gene mit dem Altruisten verbindet.",
+          "ja": "この選択肢は、B と C のみを比較することで法則を誤って適用しており、利他行動者の利益を共有遺伝子を介して結びつける重要な血縁度（r）を無視しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "No, because Hamilton's rule only applies to direct siblings.",
+          "zh": "不，因为汉密尔顿法则仅适用于亲兄弟姐妹。",
+          "es": "No, porque la regla de Hamilton solo se aplica a hermanos directos.",
+          "fr": "Non, car la règle de Hamilton ne s'applique qu'aux frères et sœurs directs.",
+          "de": "Nein, weil Hamiltons Regel nur für direkte Geschwister gilt.",
+          "ja": "いいえ、ハミルトンの法則は直接の兄弟姉妹にのみ適用されるからです。"
+        },
+        "feedback": {
+          "en": "Hamilton's rule applies to any relatives, but the degree of relatedness (r) changes, affecting whether the condition rB > C is met.",
+          "zh": "汉密尔顿法则适用于任何亲属，但亲缘关系系数 (r) 会发生变化，从而影响是否满足 rB > C 的条件。",
+          "es": "La regla de Hamilton se aplica a cualquier pariente, pero el grado de parentesco (r) cambia, lo que afecta si se cumple la condición rB > C.",
+          "fr": "La règle de Hamilton s'applique à tous les parents, mais le degré de parenté (r) change, ce qui affecte la satisfaction de la condition rB > C.",
+          "de": "Hamiltons Regel gilt für alle Verwandten, aber der Verwandtschaftsgrad (r) ändert sich, was beeinflusst, ob die Bedingung rB > C erfüllt ist.",
+          "ja": "ハミルトンの法則はあらゆる親族に適用されますが、血縁度（r）は変化し、rB > C の条件が満たされるかどうかに影響します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "For first cousins, the coefficient of relatedness (r) is 0.125. Given B=2 and C=0.5, rB = 0.125 * 2 = 0.25. Since 0.25 is not greater than 0.5 (rB < C), Hamilton's rule is not satisfied. Therefore, natural selection would not favor this altruistic act under these specific conditions.",
+      "zh": "对于表/堂兄弟姐妹，亲缘关系系数 (r) 为 0.125。鉴于 B=2 且 C=0.5，rB = 0.125 * 2 = 0.25。由于 0.25 不大于 0.5 (rB < C)，汉密尔顿法则不满足。因此，在这些特定条件下，自然选择不会青睐这种利他行为。",
+      "es": "Para los primos hermanos, el coeficiente de parentesco (r) es 0.125. Dado B=2 y C=0.5, rB = 0.125 * 2 = 0.25. Como 0.25 no es mayor que 0.5 (rB < C), la regla de Hamilton no se satisface. Por lo tanto, la selección natural no favorecería este acto altruista bajo estas condiciones específicas.",
+      "fr": "Pour les cousins germains, le coefficient de parenté (r) est de 0,125. Étant donné B=2 et C=0,5, rB = 0,125 * 2 = 0,25. Puisque 0,25 n'est pas supérieur à 0,5 (rB < C), la règle de Hamilton n'est pas satisfaite. Par conséquent, la sélection naturelle ne favoriserait pas cet acte altruiste dans ces conditions spécifiques.",
+      "de": "Für erste Cousins beträgt der Verwandtschaftsgrad (r) 0,125. Bei B=2 und C=0,5 ist rB = 0,125 * 2 = 0,25. Da 0,25 nicht größer als 0,5 ist (rB < C), ist Hamiltons Regel nicht erfüllt. Daher würde die natürliche Selektion diesen altruistischen Akt unter diesen spezifischen Bedingungen nicht begünstigen.",
+      "ja": "いとこの場合、血縁度（r）は0.125です。B=2、C=0.5 の場合、rB = 0.125 × 2 = 0.25 となります。0.25 は 0.5 より大きくない（rB < C）ため、ハミルトンの法則は満たされません。したがって、これらの特定の条件下では、自然選択はこの利他行動を有利にしません。"
+    }
+  },
+  {
+    "page_number": 1207,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the provided text and Figure 51.26, which statement regarding the coefficient of relatedness (r) and kin selection is INCORRECT?",
+      "zh": "根据所提供的文本和图 51.26，关于亲缘关系系数 (r) 和亲缘选择的哪个陈述是不正确的？",
+      "es": "Según el texto proporcionado y la Figura 51.26, ¿cuál de las siguientes afirmaciones sobre el coeficiente de parentesco (r) y la selección por parentesco es INCORRECTA?",
+      "fr": "D'après le texte fourni et la Figure 51.26, quelle affirmation concernant le coefficient de parenté (r) et la sélection de parenté est INCORRECTE ?",
+      "de": "Basierend auf dem bereitgestellten Text und Abbildung 51.26, welche Aussage bezüglich des Verwandtschaftsgrades (r) und der Verwandtenselektion ist FALSCH?",
+      "ja": "提供されたテキストと図 51.26 に基づいて、血縁度（r）と血縁選択に関する以下の記述のうち、**誤っている**ものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The coefficient of relatedness (r) between full siblings is 0.5.",
+          "zh": "亲兄弟姐妹之间的亲缘关系系数 (r) 为 0.5。",
+          "es": "El coeficiente de parentesco (r) entre hermanos completos es 0.5.",
+          "fr": "Le coefficient de parenté (r) entre frères et sœurs germains est de 0,5.",
+          "de": "Der Verwandtschaftsgrad (r) zwischen Vollgeschwistern beträgt 0,5.",
+          "ja": "実の兄弟姉妹間の血縁度（r）は0.5です。"
+        },
+        "feedback": {
+          "en": "This statement is correct, as explicitly stated and illustrated in the text and Figure 51.26.",
+          "zh": "此陈述是正确的，文本和图 51.26 中明确说明并图示了这一点。",
+          "es": "Esta afirmación es correcta, como se indica explícitamente e ilustra en el texto y la Figura 51.26.",
+          "fr": "Cette affirmation est correcte, comme explicitement indiqué et illustré dans le texte et la Figure 51.26.",
+          "de": "Diese Aussage ist korrekt, wie im Text und in Abbildung 51.26 explizit angegeben und illustriert.",
+          "ja": "この記述は、テキストと図 51.26 で明確に述べられ、図示されている通り、正しいです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The coefficient of relatedness between an aunt and her niece is 0.25.",
+          "zh": "姑姑/姨妈与侄女/外甥女之间的亲缘关系系数为 0.25。",
+          "es": "El coeficiente de parentesco entre una tía y su sobrina es 0.25.",
+          "fr": "Le coefficient de parenté entre une tante et sa nièce est de 0,25.",
+          "de": "Der Verwandtschaftsgrad zwischen einer Tante und ihrer Nichte beträgt 0,25.",
+          "ja": "叔母と姪の間の血縁度は0.25です。"
+        },
+        "feedback": {
+          "en": "This statement is correct, as specified in the section discussing how kin selection weakens with hereditary distance.",
+          "zh": "此陈述是正确的，在讨论亲缘选择如何随遗传距离减弱的部分中有明确说明。",
+          "es": "Esta afirmación es correcta, como se especifica en la sección que discute cómo la selección por parentesco se debilita con la distancia hereditaria.",
+          "fr": "Cette affirmation est correcte, comme spécifié dans la section discutant comment la sélection de parenté s'affaiblit avec la distance héréditaire.",
+          "de": "Diese Aussage ist korrekt, wie im Abschnitt, der erörtert, wie Verwandtenselektion mit zunehmender Erbdistanz schwächer wird, angegeben.",
+          "ja": "この記述は、血縁選択が遺伝的距離によってどのように弱まるかを論じるセクションで具体的に述べられている通り、正しいです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Kin selection is favored when the rB term in Hamilton's inequality decreases due to increased hereditary distance.",
+          "zh": "当汉密尔顿不等式中的 rB 项因遗传距离增加而减小时，亲缘选择受到青睐。",
+          "es": "La selección por parentesco se favorece cuando el término rB en la desigualdad de Hamilton disminuye debido al aumento de la distancia hereditaria.",
+          "fr": "La sélection de parenté est favorisée lorsque le terme rB dans l'inégalité de Hamilton diminue en raison de l'augmentation de la distance héréditaire.",
+          "de": "Verwandtenselektion wird begünstigt, wenn der rB-Term in Hamiltons Ungleichung aufgrund erhöhter Erbdistanz abnimmt.",
+          "ja": "ハミルトンの不等式における rB 項が遺伝的距離の増加によって減少すると、血縁選択が有利になります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The coefficient of relatedness of an individual to a full (nontwin) sibling is equivalent to that with either parent, both being 0.5.",
+          "zh": "个体与其亲兄弟姐妹（非双胞胎）的亲缘关系系数与其父母任一方的亲缘关系系数相同，均为 0.5。",
+          "es": "El coeficiente de parentesco de un individuo con un hermano completo (no gemelo) es equivalente al de cualquiera de sus padres, siendo ambos 0.5.",
+          "fr": "Le coefficient de parenté d'un individu avec un frère ou une sœur germain (non jumeau) est équivalent à celui avec l'un ou l'autre parent, les deux étant de 0,5.",
+          "de": "Der Verwandtschaftsgrad eines Individuums zu einem vollen (nicht-Zwillings-)Geschwister ist gleich dem zu einem der Elternteile, beides 0,5.",
+          "ja": "個体と実の兄弟姉妹（双子ではない）との血縁度は、どちらかの親との血縁度と同じで、どちらも0.5です。"
+        },
+        "feedback": {
+          "en": "This statement is correct, as directly asked and answered in the 'WHAT IF?' section of Figure 51.26.",
+          "zh": "此陈述是正确的，图 51.26 的“WHAT IF?”部分直接提出了这个问题并给出了答案。",
+          "es": "Esta afirmación es correcta, como se pregunta y responde directamente en la sección '¿QUÉ PASARÍA SI?' de la Figura 51.26.",
+          "fr": "Cette affirmation est correcte, comme directement demandé et répondu dans la section 'ET SI ?' de la Figure 51.26.",
+          "de": "Diese Aussage ist korrekt, wie direkt im Abschnitt 'WAS WÄRE WENN?' von Abbildung 51.26 gefragt und geantwortet.",
+          "ja": "この記述は、図 51.26 の「WHAT IF?」セクションで直接問われ、答えられている通り、正しいです。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "The red band in Figure 51.26 represents a particular allele inherited from Parent A.",
+          "zh": "图 51.26 中的红带表示从亲代 A 继承的特定等位基因。",
+          "es": "La banda roja en la Figura 51.26 representa un alelo particular heredado del Padre A.",
+          "fr": "La bande rouge de la Figure 51.26 représente un allèle particulier hérité du Parent A.",
+          "de": "Das rote Band in Abbildung 51.26 stellt ein bestimmtes Allel dar, das von Elternteil A vererbt wurde.",
+          "ja": "図 51.26 の赤帯は、親 A から遺伝した特定の対立遺伝子を表しています。"
+        },
+        "feedback": {
+          "en": "This statement is correct, as described in the caption of Figure 51.26.",
+          "zh": "此陈述是正确的，图 51.26 的图例中对此有描述。",
+          "es": "Esta afirmación es correcta, como se describe en la leyenda de la Figura 51.26.",
+          "fr": "Cette affirmation est correcte, comme décrit dans la légende de la Figure 51.26.",
+          "de": "Diese Aussage ist korrekt, wie in der Bildunterschrift von Abbildung 51.26 beschrieben.",
+          "ja": "この記述は、図 51.26 のキャプションに記載されている通り、正しいです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that 'Kin selection weakens with hereditary distance.' This implies that as hereditary distance increases, the rB term decreases, making it less likely for kin selection to favor the altruistic act, not more. Therefore, the statement 'Kin selection is favored when the rB term in Hamilton's inequality decreases due to increased hereditary distance' is incorrect.",
+      "zh": "文本指出“亲缘选择随遗传距离而减弱”。这意味着随着遗传距离的增加，rB 项会减小，使亲缘选择不太可能青睐利他行为，而不是更有可能。因此，“当汉密尔顿不等式中的 rB 项因遗传距离增加而减小时，亲缘选择受到青睐”的陈述是不正确的。",
+      "es": "El texto afirma que 'la selección por parentesco se debilita con la distancia hereditaria'. Esto implica que a medida que aumenta la distancia hereditaria, el término rB disminuye, lo que hace menos probable que la selección por parentesco favorezca el acto altruista, no más. Por lo tanto, la afirmación 'La selección por parentesco se favorece cuando el término rB en la desigualdad de Hamilton disminuye debido al aumento de la distancia hereditaria' es incorrecta.",
+      "fr": "Le texte indique que « la sélection de parenté s'affaiblit avec la distance héréditaire ». Cela implique qu'à mesure que la distance héréditaire augmente, le terme rB diminue, rendant moins probable, et non plus, que la sélection de parenté favorise l'acte altruiste. Par conséquent, l'affirmation « La sélection de parenté est favorisée lorsque le terme rB dans l'inégalité de Hamilton diminue en raison de l'augmentation de la distance héréditaire » est incorrecte.",
+      "de": "Der Text besagt, dass 'Verwandtenselektion mit zunehmender Erbdistanz schwächer wird'. Dies impliziert, dass mit zunehmender Erbdistanz der rB-Term abnimmt, wodurch die Wahrscheinlichkeit sinkt, dass die Verwandtenselektion den altruistischen Akt begünstigt, und nicht steigt. Daher ist die Aussage 'Verwandtenselektion wird begünstigt, wenn der rB-Term in Hamiltons Ungleichung aufgrund erhöhter Erbdistanz abnimmt' falsch.",
+      "ja": "テキストには「血縁選択は遺伝的距離が離れるほど弱まる」と記載されています。これは、遺伝的距離が増加すると rB 項が減少し、血縁選択が利他行動を有利にする可能性が低くなることを意味します。したがって、「ハミルトンの不等式における rB 項が遺伝的距離の増加によって減少すると、血縁選択が有利になる」という記述は誤りです。"
+    }
+  }
+]

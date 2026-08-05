@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 229,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary role of fermentation in the context of glycolysis?",
+      "zh": "在糖酵解的背景下，发酵的主要作用是什么？",
+      "es": "En el contexto de la glucólisis, ¿cuál es el papel principal de la fermentación?",
+      "fr": "Quel est le rôle principal de la fermentation dans le contexte de la glycolyse ?",
+      "de": "Welche primäre Rolle spielt die Fermentation im Kontext der Glykolyse?",
+      "ja": "解糖系の文脈において、発酵の主要な役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To produce a large amount of ATP directly.",
+          "zh": "直接产生大量的ATP。",
+          "es": "Producir directamente una gran cantidad de ATP.",
+          "fr": "Produire directement une grande quantité d'ATP.",
+          "de": "Direkt eine große Menge ATP zu produzieren.",
+          "ja": "直接大量のATPを生成すること。"
+        },
+        "feedback": {
+          "en": "Fermentation itself does not produce a large amount of ATP; glycolysis produces 2 net ATP, and fermentation regenerates NAD+ for glycolysis to continue.",
+          "zh": "发酵本身不产生大量的ATP；糖酵解产生2个净ATP，发酵则再生NAD+以使糖酵解得以继续。",
+          "es": "La fermentación en sí misma no produce una gran cantidad de ATP; la glucólisis produce 2 ATP netos, y la fermentación regenera NAD+ para que la glucólisis continúe.",
+          "fr": "La fermentation elle-même ne produit pas une grande quantité d'ATP ; la glycolyse produit 2 ATP nets, et la fermentation régénère le NAD+ pour que la glycolyse puisse continuer.",
+          "de": "Die Fermentation selbst produziert keine große Menge ATP; die Glykolyse produziert netto 2 ATP, und die Fermentation regeneriert NAD+, damit die Glykolyse fortgesetzt werden kann.",
+          "ja": "発酵自体は大量のATPを生成しません。解糖系が2つの正味ATPを生成し、発酵は解糖系を継続させるためにNAD+を再生します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To regenerate NAD+ for glycolysis to continue.",
+          "zh": "再生NAD+以使糖酵解得以继续。",
+          "es": "Regenerar NAD+ para que la glucólisis continúe.",
+          "fr": "Régénérer le NAD+ pour que la glycolyse puisse continuer.",
+          "de": "NAD+ für die Fortsetzung der Glykolyse zu regenerieren.",
+          "ja": "解糖系を継続させるためにNAD+を再生すること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To produce oxygen for cellular respiration.",
+          "zh": "为细胞呼吸产生氧气。",
+          "es": "Producir oxígeno para la respiración celular.",
+          "fr": "Produire de l'oxygène pour la respiration cellulaire.",
+          "de": "Sauerstoff für die Zellatmung zu produzieren.",
+          "ja": "細胞呼吸のために酸素を生成すること。"
+        },
+        "feedback": {
+          "en": "Fermentation occurs in the absence of oxygen and is an alternative to cellular respiration, not a process that produces oxygen for it.",
+          "zh": "发酵在缺氧条件下发生，是细胞呼吸的替代途径，而不是为其产生氧气的过程。",
+          "es": "La fermentación ocurre en ausencia de oxígeno y es una alternativa a la respiración celular, no un proceso que produce oxígeno para ella.",
+          "fr": "La fermentation se produit en l'absence d'oxygène et est une alternative à la respiration cellulaire, non un processus qui produit de l'oxygène pour celle-ci.",
+          "de": "Fermentation findet in Abwesenheit von Sauerstoff statt und ist eine Alternative zur Zellatmung, kein Prozess, der Sauerstoff dafür produziert.",
+          "ja": "発酵は酸素の非存在下で起こり、細胞呼吸の代替手段であり、酸素を生成するプロセスではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To completely oxidize glucose.",
+          "zh": "完全氧化葡萄糖。",
+          "es": "Oxidar completamente la glucosa.",
+          "fr": "Oxyder complètement le glucose.",
+          "de": "Glukose vollständig zu oxidieren.",
+          "ja": "グルコースを完全に酸化すること。"
+        },
+        "feedback": {
+          "en": "Fermentation only partially oxidizes glucose. Complete oxidation occurs during cellular respiration.",
+          "zh": "发酵只部分氧化葡萄糖。完全氧化发生在细胞呼吸过程中。",
+          "es": "La fermentación solo oxida parcialmente la glucosa. La oxidación completa ocurre durante la respiración celular.",
+          "fr": "La fermentation n'oxyde que partiellement le glucose. L'oxydation complète se produit pendant la respiration cellulaire.",
+          "de": "Die Fermentation oxidiert Glukose nur teilweise. Die vollständige Oxidation findet während der Zellatmung statt.",
+          "ja": "発酵はグルコースを部分的にのみ酸化します。完全な酸化は細胞呼吸中に起こります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that fermentation is an extension of glycolysis that allows continuous generation of ATP by the substrate-level phosphorylation of glycolysis, and for this to occur, there must be a sufficient supply of NAD+ to accept electrons. Without some mechanism to recycle NAD+ from NADH, glycolysis would shut itself down. Therefore, the primary role of fermentation is to regenerate NAD+.",
+      "zh": "文本指出，发酵是糖酵解的延伸，它允许糖酵解通过底物水平磷酸化持续产生ATP，为此必须有足够的NAD+供应来接受电子。如果没有某种机制将NADH中的NAD+回收，糖酵解就会停止。因此，发酵的主要作用是再生NAD+。",
+      "es": "El texto indica que la fermentación es una extensión de la glucólisis que permite la generación continua de ATP mediante la fosforilación a nivel de sustrato de la glucólisis, y para que esto ocurra, debe haber un suministro suficiente de NAD+ para aceptar electrones. Sin algún mecanismo para reciclar NAD+ a partir de NADH, la glucólisis se detendría. Por lo tanto, el papel principal de la fermentación es regenerar NAD+.",
+      "fr": "Le texte indique que la fermentation est une extension de la glycolyse qui permet la production continue d'ATP par phosphorylation au niveau du substrat de la glycolyse, et pour que cela se produise, il doit y avoir un apport suffisant de NAD+ pour accepter les électrons. Sans un mécanisme de recyclage du NAD+ à partir du NADH, la glycolyse s'arrêterait. Par conséquent, le rôle principal de la fermentation est de régénérer le NAD+.",
+      "de": "Der Text besagt, dass Fermentation eine Erweiterung der Glykolyse ist, die eine kontinuierliche ATP-Generierung durch Substratkettenphosphorylierung der Glykolyse ermöglicht, und dafür muss eine ausreichende Versorgung mit NAD+ vorhanden sein, um Elektronen aufzunehmen. Ohne einen Mechanismus zur Regeneration von NAD+ aus NADH würde die Glykolyse zum Erliegen kommen. Daher ist die primäre Rolle der Fermentation die Regeneration von NAD+.",
+      "ja": "本文によると、発酵は解糖系の延長であり、解糖系の基質レベルリン酸化によってATPが継続的に生成されることを可能にし、そのためには電子を受け入れるのに十分なNAD+の供給が必要です。NADHからNAD+をリサイクルするメカニズムがなければ、解糖系は停止してしまいます。したがって、発酵の主要な役割はNAD+を再生することです。"
+    }
+  },
+  {
+    "page_number": 229,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which statement accurately differentiates alcohol fermentation from lactic acid fermentation based on the provided text and diagrams?",
+      "zh": "根据提供的文本和图表，哪项陈述准确区分了酒精发酵和乳酸发酵？",
+      "es": "¿Qué afirmación diferencia con precisión la fermentación alcohólica de la fermentación láctica basándose en el texto y los diagramas proporcionados?",
+      "fr": "Quelle affirmation différencie avec précision la fermentation alcoolique de la fermentation lactique d'après le texte et les diagrammes fournis ?",
+      "de": "Welche Aussage unterscheidet die alkoholische Gärung von der Milchsäuregärung auf der Grundlage des bereitgestellten Textes und der Diagramme genau?",
+      "ja": "提供されたテキストと図に基づいて、アルコール発酵と乳酸発酵を正確に区別する記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Alcohol fermentation produces more net ATP per glucose molecule than lactic acid fermentation.",
+          "zh": "酒精发酵每分子葡萄糖产生的净ATP比乳酸发酵多。",
+          "es": "La fermentación alcohólica produce más ATP neto por molécula de glucosa que la fermentación láctica.",
+          "fr": "La fermentation alcoolique produit plus d'ATP net par molécule de glucose que la fermentation lactique.",
+          "de": "Die alkoholische Gärung produziert mehr Netto-ATP pro Glukosemolekül als die Milchsäuregärung.",
+          "ja": "アルコール発酵は乳酸発酵よりもグルコース1分子あたりの正味ATP生産量が多い。"
+        },
+        "feedback": {
+          "en": "Both alcohol and lactic acid fermentation rely on glycolysis for ATP production, netting 2 ATP per glucose molecule. The fermentation step regenerates NAD+ but does not produce additional ATP.",
+          "zh": "酒精发酵和乳酸发酵都依赖糖酵解来产生ATP，每分子葡萄糖净产生2个ATP。发酵步骤再生NAD+，但不产生额外的ATP。",
+          "es": "Tanto la fermentación alcohólica como la láctica dependen de la glucólisis para la producción de ATP, produciendo 2 ATP netos por molécula de glucosa. El paso de fermentación regenera NAD+ pero no produce ATP adicional.",
+          "fr": "Les fermentations alcoolique et lactique dépendent toutes deux de la glycolyse pour la production d'ATP, produisant 2 ATP nets par molécule de glucose. L'étape de fermentation régénère le NAD+ mais ne produit pas d'ATP supplémentaire.",
+          "de": "Sowohl die alkoholische als auch die Milchsäuregärung basieren auf der Glykolyse zur ATP-Produktion, wobei netto 2 ATP pro Glukosemolekül entstehen. Der Fermentationsschritt regeneriert NAD+, produziert aber kein zusätzliches ATP.",
+          "ja": "アルコール発酵と乳酸発酵はどちらもATP生産のために解糖系に依存しており、グルコース1分子あたり2つの正味ATPを生成します。発酵の段階はNAD+を再生するだけで、追加のATPを生成しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Lactic acid fermentation releases carbon dioxide as a by-product, while alcohol fermentation does not.",
+          "zh": "乳酸发酵会释放二氧化碳作为副产品，而酒精发酵则不会。",
+          "es": "La fermentación láctica libera dióxido de carbono como subproducto, mientras que la fermentación alcohólica no.",
+          "fr": "La fermentation lactique libère du dioxyde de carbone comme sous-produit, tandis que la fermentation alcoolique ne le fait pas.",
+          "de": "Die Milchsäuregärung setzt Kohlendioxid als Nebenprodukt frei, während die alkoholische Gärung dies nicht tut.",
+          "ja": "乳酸発酵は副産物として二酸化炭素を放出するが、アルコール発酵は放出しない。"
+        },
+        "feedback": {
+          "en": "This statement is incorrect. Alcohol fermentation releases CO2 in the first step of pyruvate conversion to acetaldehyde, as shown in Figure 9.16a. Lactic acid fermentation, as shown in Figure 9.16b, does not release CO2.",
+          "zh": "这个说法是错误的。根据图9.16a所示，酒精发酵在丙酮酸转化为乙醛的第一步中会释放二氧化碳。而图9.16b所示的乳酸发酵则不释放二氧化碳。",
+          "es": "Esta afirmación es incorrecta. La fermentación alcohólica libera CO2 en el primer paso de la conversión de piruvato a acetaldehído, como se muestra en la Figura 9.16a. La fermentación láctica, como se muestra en la Figura 9.16b, no libera CO2.",
+          "fr": "Cette affirmation est incorrecte. La fermentation alcoolique libère du CO2 lors de la première étape de la conversion du pyruvate en acétaldéhyde, comme le montre la figure 9.16a. La fermentation lactique, comme le montre la figure 9.16b, ne libère pas de CO2.",
+          "de": "Diese Aussage ist falsch. Die alkoholische Gärung setzt CO2 im ersten Schritt der Umwandlung von Pyruvat zu Acetaldehyd frei, wie in Abbildung 9.16a gezeigt. Die Milchsäuregärung, wie in Abbildung 9.16b gezeigt, setzt kein CO2 frei.",
+          "ja": "この記述は誤りです。図9.16aに示すように、アルコール発酵はピルビン酸からアセトアルデヒドへの変換の最初の段階でCO2を放出します。図9.16bに示す乳酸発酵はCO2を放出しません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Acetaldehyde is an intermediate in alcohol fermentation, but not in lactic acid fermentation.",
+          "zh": "乙醛是酒精发酵的中间产物，但不是乳酸发酵的中间产物。",
+          "es": "El acetaldehído es un intermediario en la fermentación alcohólica, pero no en la fermentación láctica.",
+          "fr": "L'acétaldéhyde est un intermédiaire dans la fermentation alcoolique, mais pas dans la fermentation lactique.",
+          "de": "Acetaldehyd ist ein Zwischenprodukt der alkoholischen Gärung, aber nicht der Milchsäuregärung.",
+          "ja": "アセトアルデヒドはアルコール発酵の中間体であるが、乳酸発酵の中間体ではない。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both processes require an electron transport chain for NAD+ regeneration.",
+          "zh": "这两个过程都需要电子传递链来再生NAD+。",
+          "es": "Ambos procesos requieren una cadena de transporte de electrones para la regeneración de NAD+.",
+          "fr": "Les deux processus nécessitent une chaîne de transport d'électrons pour la régénération du NAD+.",
+          "de": "Beide Prozesse erfordern eine Elektronentransportkette für die NAD+-Regeneration.",
+          "ja": "両方のプロセスでNAD+の再生に電子伝達系が必要である。"
+        },
+        "feedback": {
+          "en": "Fermentation is defined as occurring without an electron transport chain. NAD+ regeneration in fermentation happens through the direct transfer of electrons from NADH to pyruvate or its derivatives.",
+          "zh": "发酵被定义为在没有电子传递链的情况下发生。发酵中的NAD+再生是通过NADH将电子直接转移给丙酮酸或其衍生物来实现的。",
+          "es": "La fermentación se define como un proceso que ocurre sin una cadena de transporte de electrones. La regeneración de NAD+ en la fermentación ocurre mediante la transferencia directa de electrones de NADH al piruvato o sus derivados.",
+          "fr": "La fermentation est définie comme se produisant sans chaîne de transport d'électrons. La régénération du NAD+ dans la fermentation se fait par le transfert direct d'électrons du NADH au pyruvate ou à ses dérivés.",
+          "de": "Fermentation ist definiert als ein Prozess, der ohne Elektronentransportkette abläuft. Die NAD+-Regeneration bei der Fermentation erfolgt durch die direkte Übertragung von Elektronen von NADH auf Pyruvat oder seine Derivate.",
+          "ja": "発酵は電子伝達系なしで起こると定義されています。発酵におけるNAD+の再生は、NADHからピルビン酸またはその誘導体への電子の直接的な移動によって起こります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "According to the 'In alcohol fermentation' section and Figure 9.16a, pyruvate is converted to acetaldehyde, which is then reduced to ethanol. Acetaldehyde is clearly an intermediate. In contrast, the 'During lactic acid fermentation' section and Figure 9.16b show pyruvate being directly reduced to lactate, with no acetaldehyde intermediate.",
+      "zh": "根据“酒精发酵”部分和图9.16a，丙酮酸先转化为乙醛，然后乙醛被还原为乙醇。乙醛显然是中间产物。相反，“乳酸发酵”部分和图9.16b显示丙酮酸直接被还原为乳酸，没有乙醛作为中间产物。",
+      "es": "Según la sección 'En la fermentación alcohólica' y la Figura 9.16a, el piruvato se convierte en acetaldehído, que luego se reduce a etanol. El acetaldehído es claramente un intermediario. En contraste, la sección 'Durante la fermentación láctica' y la Figura 9.16b muestran que el piruvato se reduce directamente a lactato, sin un intermediario de acetaldehído.",
+      "fr": "Selon la section « En fermentation alcoolique » et la figure 9.16a, le pyruvate est converti en acétaldéhyde, qui est ensuite réduit en éthanol. L'acétaldéhyde est clairement un intermédiaire. En revanche, la section « Pendant la fermentation lactique » et la figure 9.16b montrent que le pyruvate est directement réduit en lactate, sans intermédiaire d'acétaldéhyde.",
+      "de": "Gemäß dem Abschnitt „In der alkoholischen Gärung“ und Abbildung 9.16a wird Pyruvat in Acetaldehyd umgewandelt, welches dann zu Ethanol reduziert wird. Acetaldehyd ist eindeutig ein Zwischenprodukt. Im Gegensatz dazu zeigen der Abschnitt „Während der Milchsäuregärung“ und Abbildung 9.16b, dass Pyruvat direkt zu Lactat reduziert wird, ohne ein Acetaldehyd-Zwischenprodukt.",
+      "ja": "「アルコール発酵において」のセクションと図9.16aによると、ピルビン酸はアセトアルデヒドに変換され、その後エタノールに還元されます。アセトアルデヒドは明確な中間体です。対照的に、「乳酸発酵において」のセクションと図9.16bでは、ピルビン酸が直接乳酸に還元されることが示されており、アセトアルデヒド中間体はありません。"
+    }
+  },
+  {
+    "page_number": 229,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Bread rises due to the production of CO2 during fermentation. Which type of fermentation is primarily responsible for this process in baker's yeast?",
+      "zh": "面包发酵是由于发酵过程中产生了二氧化碳。在面包酵母中，哪种类型的发酵主要负责这一过程？",
+      "es": "El pan sube debido a la producción de CO2 durante la fermentación. ¿Qué tipo de fermentación es el principal responsable de este proceso en la levadura de panadería?",
+      "fr": "Le pain lève grâce à la production de CO2 pendant la fermentation. Quel type de fermentation est principalement responsable de ce processus chez la levure de boulanger ?",
+      "de": "Brot geht durch die CO2-Produktion während der Fermentation auf. Welche Art der Fermentation ist hauptsächlich für diesen Prozess in Bäckerhefe verantwortlich?",
+      "ja": "パンは発酵中にCO2が生成されることによって膨らみます。パン酵母において、このプロセスを主に担う発酵の種類は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Lactic acid fermentation",
+          "zh": "乳酸发酵",
+          "es": "Fermentación láctica",
+          "fr": "Fermentation lactique",
+          "de": "Milchsäuregärung",
+          "ja": "乳酸発酵"
+        },
+        "feedback": {
+          "en": "Lactic acid fermentation does not produce carbon dioxide. It directly reduces pyruvate to lactate.",
+          "zh": "乳酸发酵不产生二氧化碳。它直接将丙酮酸还原为乳酸。",
+          "es": "La fermentación láctica no produce dióxido de carbono. Reduce directamente el piruvato a lactato.",
+          "fr": "La fermentation lactique ne produit pas de dioxyde de carbone. Elle réduit directement le pyruvate en lactate.",
+          "de": "Die Milchsäuregärung produziert kein Kohlendioxid. Sie reduziert Pyruvat direkt zu Laktat.",
+          "ja": "乳酸発酵は二酸化炭素を生成しません。ピルビン酸を直接乳酸に還元します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Alcohol fermentation",
+          "zh": "酒精发酵",
+          "es": "Fermentación alcohólica",
+          "fr": "Fermentation alcoolique",
+          "de": "Alkoholische Gärung",
+          "ja": "アルコール発酵"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Aerobic respiration",
+          "zh": "有氧呼吸",
+          "es": "Respiración aeróbica",
+          "fr": "Respiration aérobie",
+          "de": "Aerobe Atmung",
+          "ja": "好気呼吸"
+        },
+        "feedback": {
+          "en": "While aerobic respiration produces CO2, the rising of bread is primarily due to anaerobic alcohol fermentation by yeast when oxygen becomes limited in the dough.",
+          "zh": "虽然有氧呼吸会产生二氧化碳，但面包的发酵主要是由于面团中氧气受限时，酵母进行的厌氧酒精发酵。",
+          "es": "Aunque la respiración aeróbica produce CO2, la subida del pan se debe principalmente a la fermentación alcohólica anaeróbica por levadura cuando el oxígeno se limita en la masa.",
+          "fr": "Bien que la respiration aérobie produise du CO2, la levée du pain est principalement due à la fermentation alcoolique anaérobie par la levure lorsque l'oxygène devient limité dans la pâte.",
+          "de": "Obwohl die aerobe Atmung CO2 produziert, ist das Aufgehen von Brot hauptsächlich auf die anaerobe alkoholische Gärung durch Hefe zurückzuführen, wenn der Sauerstoff im Teig begrenzt wird.",
+          "ja": "好気呼吸もCO2を生成しますが、パンの膨らみは主に、生地中の酸素が制限されたときに酵母が行う嫌気性アルコール発酵によるものです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Sulfate reduction",
+          "zh": "硫酸盐还原",
+          "es": "Reducción de sulfato",
+          "fr": "Réduction du sulfate",
+          "de": "Sulfatreduktion",
+          "ja": "硫酸塩還元"
+        },
+        "feedback": {
+          "en": "Sulfate reduction is a distinct metabolic process carried out by specific bacteria, unrelated to bread rising.",
+          "zh": "硫酸盐还原是由特定细菌进行的一种独特的代谢过程，与面包发酵无关。",
+          "es": "La reducción de sulfato es un proceso metabólico distinto llevado a cabo por bacterias específicas, no relacionado con la levadura del pan.",
+          "fr": "La réduction du sulfate est un processus métabolique distinct effectué par des bactéries spécifiques, sans rapport avec la levée du pain.",
+          "de": "Sulfatreduktion ist ein eigenständiger Stoffwechselprozess, der von spezifischen Bakterien durchgeführt wird und nicht mit dem Aufgehen von Brot zusammenhängt.",
+          "ja": "硫酸塩還元は、特定の細菌によって行われる独自の代謝プロセスであり、パンの膨らみとは関係ありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'For thousands of years, humans have used yeast in brewing, winemaking, and baking. The CO2 bubbles generated by baker's yeast during alcohol fermentation allow bread to rise.' This directly links alcohol fermentation by yeast to bread rising through CO2 production.",
+      "zh": "文本明确指出：“数千年来，人类一直在酿酒、酿葡萄酒和烘焙中使用酵母。面包酵母在酒精发酵过程中产生的CO2气泡使面包膨胀。” 这直接将酵母的酒精发酵与通过CO2产生使面包膨胀联系起来。",
+      "es": "El texto establece explícitamente: 'Durante miles de años, los humanos han utilizado levadura en la elaboración de cerveza, vino y panadería. Las burbujas de CO2 generadas por la levadura de panadero durante la fermentación alcohólica permiten que el pan suba.' Esto vincula directamente la fermentación alcohólica por levadura con la subida del pan a través de la producción de CO2.",
+      "fr": "Le texte indique explicitement : « Depuis des milliers d'années, les humains utilisent la levure pour le brassage, la vinification et la cuisson. Les bulles de CO2 générées par la levure de boulanger lors de la fermentation alcoolique permettent au pain de lever. » Cela lie directement la fermentation alcoolique par la levure à la levée du pain par la production de CO2.",
+      "de": "Der Text besagt explizit: „Seit Tausenden von Jahren verwenden Menschen Hefe zum Brauen, Weinmachen und Backen. Die CO2-Blasen, die von Bäckerhefe während der alkoholischen Gärung erzeugt werden, lassen Brot aufgehen.“ Dies verbindet die alkoholische Gärung durch Hefe direkt mit dem Aufgehen von Brot durch CO2-Produktion.",
+      "ja": "本文には「何千年もの間、人類は醸造、ワイン製造、パン作りに酵母を使用してきた。パン酵母がアルコール発酵中に生成するCO2の泡が、パンを膨らませる原因となる」と明確に記されています。これにより、酵母によるアルコール発酵がCO2の生成を通じてパンの膨張に直接結びついていることがわかります。"
+    }
+  },
+  {
+    "page_number": 229,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, which of the following is NOT required for fermentation to harvest chemical energy?",
+      "zh": "根据文本，以下哪项不是发酵收获化学能所必需的？",
+      "es": "Según el texto, ¿cuál de los siguientes elementos NO es necesario para que la fermentación obtenga energía química?",
+      "fr": "Selon le texte, lequel des éléments suivants n'est PAS requis pour que la fermentation utilise l'énergie chimique ?",
+      "de": "Laut Text, welche der folgenden Komponenten ist NICHT erforderlich, damit die Fermentation chemische Energie gewinnen kann?",
+      "ja": "本文によると、発酵が化学エネルギーを収穫するために必要とされないものは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Glycolysis",
+          "zh": "糖酵解",
+          "es": "Glucólisis",
+          "fr": "Glycolyse",
+          "de": "Glykolyse",
+          "ja": "解糖系"
+        },
+        "feedback": {
+          "en": "Fermentation is described as an 'extension of glycolysis,' indicating that glycolysis is an integral part of the overall process.",
+          "zh": "发酵被描述为“糖酵解的延伸”，表明糖酵解是整个过程不可或缺的一部分。",
+          "es": "La fermentación se describe como una 'extensión de la glucólisis', lo que indica que la glucólisis es una parte integral del proceso general.",
+          "fr": "La fermentation est décrite comme une 'extension de la glycolyse', ce qui indique que la glycolyse est une partie intégrante du processus global.",
+          "de": "Fermentation wird als 'Erweiterung der Glykolyse' beschrieben, was darauf hinweist, dass die Glykolyse ein integraler Bestandteil des Gesamtprozesses ist.",
+          "ja": "発酵は「解糖系の延長」と説明されており、解糖系が全体的なプロセスの不可欠な部分であることを示しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "NAD+ regeneration",
+          "zh": "NAD+再生",
+          "es": "Regeneración de NAD+",
+          "fr": "Régénération du NAD+",
+          "de": "NAD+-Regeneration",
+          "ja": "NAD+の再生"
+        },
+        "feedback": {
+          "en": "The text explicitly states that 'there must be a sufficient supply of NAD+ to accept electrons' and 'without some mechanism to recycle NAD+ from NADH, glycolysis would soon deplete the cell's pool of NAD+ and would shut itself down.' This makes NAD+ regeneration essential.",
+          "zh": "文本明确指出“必须有足够的NAD+供应来接受电子”，并且“如果没有某种机制将NADH中的NAD+回收，糖酵解很快就会耗尽细胞中的NAD+池并停止”。这使得NAD+再生至关重要。",
+          "es": "El texto establece explícitamente que 'debe haber un suministro suficiente de NAD+ para aceptar electrones' y 'sin algún mecanismo para reciclar NAD+ del NADH, la glucólisis pronto agotaría la reserva de NAD+ de la célula y se detendría.' Esto hace que la regeneración de NAD+ sea esencial.",
+          "fr": "Le texte indique explicitement qu'« il doit y avoir un apport suffisant de NAD+ pour accepter les électrons » et que « sans un mécanisme de recyclage du NAD+ à partir du NADH, la glycolyse épuiserait rapidement la réserve cellulaire de NAD+ et s'arrêterait ». Cela rend la régénération du NAD+ essentielle.",
+          "de": "Der Text besagt explizit, dass „eine ausreichende Versorgung mit NAD+ vorhanden sein muss, um Elektronen aufzunehmen“ und „ohne einen Mechanismus zur Regeneration von NAD+ aus NADH würde die Glykolyse den NAD+-Pool der Zelle schnell erschöpfen und sich abschalten“. Dies macht die NAD+-Regeneration unerlässlich.",
+          "ja": "本文には、「電子を受け取るのに十分なNAD+の供給がなければならない」と明記されており、「NADHからNAD+をリサイクルする何らかのメカニズムがなければ、解糖系はすぐに細胞内のNAD+プールを使い果たし、停止してしまう」と述べています。これにより、NAD+の再生が不可欠であることがわかります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Molecular oxygen",
+          "zh": "分子氧",
+          "es": "Oxígeno molecular",
+          "fr": "Oxygène moléculaire",
+          "de": "Molekularer Sauerstoff",
+          "ja": "分子酸素"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Substrate-level phosphorylation",
+          "zh": "底物水平磷酸化",
+          "es": "Fosforilación a nivel de sustrato",
+          "fr": "Phosphorylation au niveau du substrat",
+          "de": "Substratkettenphosphorylierung",
+          "ja": "基質レベルリン酸化"
+        },
+        "feedback": {
+          "en": "The text states that fermentation allows 'continuous generation of ATP by the substrate-level phosphorylation of glycolysis,' indicating it is the method of ATP synthesis in this process.",
+          "zh": "文本指出，发酵允许“通过糖酵解的底物水平磷酸化持续产生ATP”，表明这是该过程中ATP合成的方式。",
+          "es": "El texto establece que la fermentación permite la 'generación continua de ATP mediante la fosforilación a nivel de sustrato de la glucólisis', lo que indica que es el método de síntesis de ATP en este proceso.",
+          "fr": "Le texte indique que la fermentation permet la « génération continue d'ATP par la phosphorylation au niveau du substrat de la glycolyse », ce qui indique que c'est la méthode de synthèse de l'ATP dans ce processus.",
+          "de": "Der Text besagt, dass die Fermentation eine „kontinuierliche ATP-Generierung durch Substratkettenphosphorylierung der Glykolyse“ ermöglicht, was darauf hinweist, dass dies die Methode der ATP-Synthese in diesem Prozess ist.",
+          "ja": "本文には、発酵が「解糖系の基質レベルリン酸化によるATPの継続的な生成」を可能にすると記されており、これがこのプロセスにおけるATP合成の方法であることを示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The first paragraph introducing fermentation explicitly states: 'Fermentation is a way of harvesting chemical energy without using either O2 or any electron transport chain.' This means molecular oxygen is not required for fermentation.",
+      "zh": "介绍发酵的第一段明确指出：“发酵是一种不使用O2或任何电子传递链来收获化学能的方式。” 这意味着发酵不需要分子氧。",
+      "es": "El primer párrafo que introduce la fermentación establece explícitamente: 'La fermentación es una forma de obtener energía química sin usar O2 ni ninguna cadena de transporte de electrones.' Esto significa que el oxígeno molecular no es necesario para la fermentación.",
+      "fr": "Le premier paragraphe introduisant la fermentation déclare explicitement : « La fermentation est un moyen de récolter l'énergie chimique sans utiliser ni O2 ni aucune chaîne de transport d'électrons. » Cela signifie que l'oxygène moléculaire n'est pas requis pour la fermentation.",
+      "de": "Der erste Absatz, der die Fermentation einführt, besagt explizit: „Fermentation ist eine Methode, chemische Energie zu gewinnen, ohne O2 oder eine Elektronentransportkette zu verwenden.“ Dies bedeutet, dass molekularer Sauerstoff für die Fermentation nicht erforderlich ist.",
+      "ja": "発酵を紹介する最初の段落には、「発酵はO2や電子伝達系を使用せずに化学エネルギーを収穫する方法である」と明確に記されています。これは、発酵に分子酸素が不要であることを意味します。"
+    }
+  }
+]

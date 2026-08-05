@@ -1,0 +1,366 @@
+[
+  {
+    "page_number": 123,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary structural difference between a typical fat molecule (triglyceride) and a phospholipid?",
+      "zh": "典型的脂肪分子（甘油三酯）和磷脂的主要结构区别是什么？",
+      "es": "¿Cuál es la principal diferencia estructural entre una molécula de grasa típica (triglicérido) y un fosfolípido?",
+      "fr": "Quelle est la principale différence structurelle entre une molécule de graisse typique (triglycéride) et un phospholipide ?",
+      "de": "Was ist der primäre strukturelle Unterschied zwischen einem typischen Fettmolekül (Triglycerid) und einem Phospholipid?",
+      "ja": "典型的な脂肪分子（トリグリセリド）とリン脂質の主な構造的違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Fats have a hydrophilic head, while phospholipids have a hydrophobic head.",
+          "zh": "脂肪有一个亲水头部，而磷脂有一个疏水头部。",
+          "es": "Las grasas tienen una cabeza hidrofílica, mientras que los fosfolípidos tienen una cabeza hidrofóbica.",
+          "fr": "Les graisses ont une tête hydrophile, tandis que les phospholipides ont une tête hydrophobe.",
+          "de": "Fette haben einen hydrophilen Kopf, während Phospholipide einen hydrophoben Kopf haben.",
+          "ja": "脂肪には親水性の頭部があり、リン脂質には疎水性の頭部があります。"
+        },
+        "feedback": {
+          "en": "Incorrect. Phospholipid heads are hydrophilic (water-loving), and their tails are hydrophobic (water-fearing). Fats are primarily hydrophobic.",
+          "zh": "不正确。磷脂的头部是亲水性的（亲水），尾部是疏水性的（疏水）。脂肪主要是疏水性的。",
+          "es": "Incorrecto. Las cabezas de los fosfolípidos son hidrofílicas (amantes del agua) y sus colas son hidrofóbicas (que temen al agua). Las grasas son principalmente hidrofóbicas.",
+          "fr": "Incorrect. Les têtes des phospholipides sont hydrophiles (aiment l'eau), et leurs queues sont hydrophobes (craignent l'eau). Les graisses sont principalement hydrophobes.",
+          "de": "Falsch. Phospholipidköpfe sind hydrophil (wasserliebend) und ihre Schwänze sind hydrophob (wasserabweisend). Fette sind hauptsächlich hydrophob.",
+          "ja": "不正解。リン脂質の頭部は親水性（水になじむ）であり、尾部は疎水性（水を嫌う）です。脂肪は主に疎水性です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Phospholipids have three fatty acids, while fats have two.",
+          "zh": "磷脂有三个脂肪酸，而脂肪有两个。",
+          "es": "Los fosfolípidos tienen tres ácidos grasos, mientras que las grasas tienen dos.",
+          "fr": "Les phospholipides ont trois acides gras, tandis que les graisses en ont deux.",
+          "de": "Phospholipide haben drei Fettsäuren, während Fette zwei haben.",
+          "ja": "リン脂質には3つの脂肪酸があり、脂肪には2つあります。"
+        },
+        "feedback": {
+          "en": "Incorrect. The opposite is true: fats have three fatty acids, and phospholipids typically have two.",
+          "zh": "不正确。事实恰好相反：脂肪有三个脂肪酸，而磷脂通常有两个。",
+          "es": "Incorrecto. Lo contrario es cierto: las grasas tienen tres ácidos grasos, y los fosfolípidos típicamente tienen dos.",
+          "fr": "Incorrect. C'est le contraire : les graisses ont trois acides gras, et les phospholipides en ont généralement deux.",
+          "de": "Falsch. Das Gegenteil ist der Fall: Fette haben drei Fettsäuren, und Phospholipide haben typischerweise zwei.",
+          "ja": "不正解。その逆が正しいです。脂肪には3つの脂肪酸があり、リン脂質には通常2つです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Fats contain a phosphate group, whereas phospholipids do not.",
+          "zh": "脂肪含有磷酸基团，而磷脂不含。",
+          "es": "Las grasas contienen un grupo fosfato, mientras que los fosfolípidos no.",
+          "fr": "Les graisses contiennent un groupe phosphate, alors que les phospholipides n'en contiennent pas.",
+          "de": "Fette enthalten eine Phosphatgruppe, während Phospholipide keine enthalten.",
+          "ja": "脂肪にはリン酸基が含まれていますが、リン脂質には含まれていません。"
+        },
+        "feedback": {
+          "en": "Incorrect. Phospholipids are defined by their phosphate group, which fats lack.",
+          "zh": "不正确。磷脂的定义特征是其磷酸基团，而脂肪缺乏该基团。",
+          "es": "Incorrecto. Los fosfolípidos se definen por su grupo fosfato, del cual carecen las grasas.",
+          "fr": "Incorrect. Les phospholipides se définissent par leur groupe phosphate, que les graisses n'ont pas.",
+          "de": "Falsch. Phospholipide sind durch ihre Phosphatgruppe definiert, die Fetten fehlt.",
+          "ja": "不正解。リン脂質はリン酸基によって定義され、脂肪にはありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Phospholipids have two fatty acids and a phosphate group, while fats have three fatty acids.",
+          "zh": "磷脂有两个脂肪酸和一个磷酸基团，而脂肪有三个脂肪酸。",
+          "es": "Los fosfolípidos tienen dos ácidos grasos y un grupo fosfato, mientras que las grasas tienen tres ácidos grasos.",
+          "fr": "Les phospholipides ont deux acides gras et un groupe phosphate, tandis que les graisses ont trois acides gras.",
+          "de": "Phospholipide haben zwei Fettsäuren und eine Phosphatgruppe, während Fette drei Fettsäuren haben.",
+          "ja": "リン脂質には2つの脂肪酸とリン酸基があり、脂肪には3つの脂肪酸があります。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "Phospholipids differ from fats (triglycerides) in that they have only two fatty acid tails attached to glycerol. The third hydroxyl group of glycerol is joined to a phosphate group, which often has an additional charged molecule attached (like choline). Fats, on the other hand, typically consist of a glycerol backbone with three fatty acid tails. This structural difference accounts for their distinct properties and roles in biology.",
+      "zh": "磷脂与脂肪（甘油三酯）的不同之处在于，它们只有两个脂肪酸尾巴连接到甘油上。甘油的第三个羟基连接到一个磷酸基团，该磷酸基团通常还连接着一个额外的带电分子（如胆碱）。而脂肪通常由一个甘油骨架和三个脂肪酸尾巴组成。这种结构差异决定了它们在生物学中独特的性质和作用。",
+      "es": "Los fosfolípidos difieren de las grasas (triglicéridos) en que solo tienen dos colas de ácidos grasos unidas al glicerol. El tercer grupo hidroxilo del glicerol se une a un grupo fosfato, que a menudo tiene una molécula cargada adicional unida (como la colina). Las grasas, por otro lado, suelen consistir en una estructura de glicerol con tres colas de ácidos grasos. Esta diferencia estructural explica sus propiedades y roles distintos en biología.",
+      "fr": "Les phospholipides diffèrent des graisses (triglycérides) en ce qu'ils n'ont que deux queues d'acides gras attachées au glycérol. Le troisième groupe hydroxyle du glycérol est lié à un groupe phosphate, qui a souvent une molécule chargée supplémentaire attachée (comme la choline). Les graisses, en revanche, se composent généralement d'un squelette de glycérol avec trois queues d'acides gras. Cette différence structurelle explique leurs propriétés et rôles distincts en biologie.",
+      "de": "Phospholipide unterscheiden sich von Fetten (Triglyceriden) dadurch, dass sie nur zwei Fettsäureschwänze an Glycerin gebunden haben. Die dritte Hydroxylgruppe des Glycerins ist mit einer Phosphatgruppe verbunden, an die oft ein zusätzliches geladenes Molekül (wie Cholin) gebunden ist. Fette hingegen bestehen typischerweise aus einem Glycerin-Rückgrat mit drei Fettsäureschwänzen. Dieser strukturelle Unterschied erklärt ihre unterschiedlichen Eigenschaften und Rollen in der Biologie.",
+      "ja": "リン脂質は、グリセロールに結合した脂肪酸の尾部が2つしかない点で、脂肪（トリグリセリド）とは異なります。グリセロールの3番目のヒドロキシル基はリン酸基に結合しており、このリン酸基にはしばしば追加の荷電分子（コリンなど）が結合しています。一方、脂肪は通常、3つの脂肪酸の尾部を持つグリセロール骨格から構成されます。この構造的な違いが、生物学におけるそれらの異なる特性と役割を説明しています。"
+    }
+  },
+  {
+    "page_number": 123,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Why do phospholipids spontaneously form a bilayer in an aqueous environment?",
+      "zh": "为什么磷脂在水性环境中会自发形成双层结构？",
+      "es": "¿Por qué los fosfolípidos forman espontáneamente una bicapa en un ambiente acuoso?",
+      "fr": "Pourquoi les phospholipides forment-ils spontanément une bicouche en milieu aqueux ?",
+      "de": "Warum bilden Phospholipide in einer wässrigen Umgebung spontan eine Doppelschicht?",
+      "ja": "リン脂質は水性環境下でなぜ自発的に二重層を形成するのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Their hydrophobic heads are attracted to water, while hydrophilic tails repel water.",
+          "zh": "它们的疏水头部被水吸引，而亲水尾部排斥水。",
+          "es": "Sus cabezas hidrofóbicas son atraídas por el agua, mientras que las colas hidrofílicas repelen el agua.",
+          "fr": "Leurs têtes hydrophobes sont attirées par l'eau, tandis que les queues hydrophiles repoussent l'eau.",
+          "de": "Ihre hydrophoben Köpfe werden vom Wasser angezogen, während hydrophile Schwänze Wasser abstoßen.",
+          "ja": "その疎水性の頭部が水に引き寄せられ、親水性の尾部が水をはじくからです。"
+        },
+        "feedback": {
+          "en": "Incorrect. Phospholipid heads are hydrophilic (water-loving), and their tails are hydrophobic (water-fearing).",
+          "zh": "不正确。磷脂的头部是亲水性的（亲水），尾部是疏水性的（疏水）。",
+          "es": "Incorrecto. Las cabezas de los fosfolípidos son hidrofílicas (amantes del agua) y sus colas son hidrofóbicas (que temen al agua).",
+          "fr": "Incorrect. Les têtes des phospholipides sont hydrophiles (aiment l'eau), et leurs queues sont hydrophobes (craignent l'eau).",
+          "de": "Falsch. Phospholipidköpfe sind hydrophil (wasserliebend) und ihre Schwänze sind hydrophob (wasserabweisend).",
+          "ja": "不正解。リン脂質の頭部は親水性（水になじむ）であり、尾部は疎水性（水を嫌う）です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Their hydrophilic heads cluster together, while hydrophobic tails face the aqueous environment.",
+          "zh": "它们的亲水头部聚集在一起，而疏水尾部面向水性环境。",
+          "es": "Sus cabezas hidrofílicas se agrupan, mientras que las colas hidrofóbicas se enfrentan al ambiente acuoso.",
+          "fr": "Leurs têtes hydrophiles se regroupent, tandis que les queues hydrophobes font face à l'environnement aqueux.",
+          "de": "Ihre hydrophilen Köpfe sammeln sich, während hydrophobe Schwänze der wässrigen Umgebung zugewandt sind.",
+          "ja": "その親水性の頭部が凝集し、疎水性の尾部が水性環境に面するからです。"
+        },
+        "feedback": {
+          "en": "Incorrect. The hydrophobic tails are shielded from water by facing each other in the interior of the bilayer.",
+          "zh": "不正确。疏水性尾部通过在双层内部相互面向而免受水的侵害。",
+          "es": "Incorrecto. Las colas hidrofóbicas se protegen del agua al orientarse entre sí en el interior de la bicapa.",
+          "fr": "Incorrect. Les queues hydrophobes sont protégées de l'eau en se faisant face à l'intérieur de la bicouche.",
+          "de": "Falsch. Die hydrophoben Schwänze werden vor Wasser geschützt, indem sie im Inneren der Doppelschicht einander zugewandt sind.",
+          "ja": "不正解。疎水性の尾部は、二重層の内部で互いに向き合うことで水から保護されます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Their hydrophilic heads are attracted to water, and their hydrophobic tails associate with each other, shielded from water.",
+          "zh": "它们的亲水头部被水吸引，疏水尾部则相互结合，被水隔绝。",
+          "es": "Sus cabezas hidrofílicas son atraídas por el agua, y sus colas hidrofóbicas se asocian entre sí, protegidas del agua.",
+          "fr": "Leurs têtes hydrophiles sont attirées par l'eau, et leurs queues hydrophobes s'associent entre elles, à l'abri de l'eau.",
+          "de": "Ihre hydrophilen Köpfe werden vom Wasser angezogen, und ihre hydrophoben Schwänze assoziieren miteinander, vom Wasser abgeschirmt.",
+          "ja": "その親水性の頭部が水に引き寄せられ、疎水性の尾部が互いに結合し、水から遮蔽されるからです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They form a single layer to maximize exposure of all parts to water.",
+          "zh": "它们形成单层以使所有部分最大程度地暴露于水。",
+          "es": "Forman una sola capa para maximizar la exposición de todas las partes al agua.",
+          "fr": "Elles forment une seule couche pour maximiser l'exposition de toutes les parties à l'eau.",
+          "de": "Sie bilden eine Einzelschicht, um alle Teile maximal dem Wasser auszusetzen.",
+          "ja": "その全ての部分を水に最大限に露出させるために単層を形成するからです。"
+        },
+        "feedback": {
+          "en": "Incorrect. A single layer would expose the hydrophobic tails to water, which is energetically unfavorable. Bilayer formation shields the tails.",
+          "zh": "不正确。单层会将疏水尾部暴露于水，这在能量上是不利的。双层形成可以保护尾部。",
+          "es": "Incorrecto. Una sola capa expondría las colas hidrofóbicas al agua, lo cual es energéticamente desfavorable. La formación de la bicapa protege las colas.",
+          "fr": "Incorrect. Une seule couche exposerait les queues hydrophobes à l'eau, ce qui est énergétiquement défavorable. La formation d'une bicouche protège les queues.",
+          "de": "Falsch. Eine Einzelschicht würde die hydrophoben Schwänze dem Wasser aussetzen, was energetisch ungünstig ist. Die Doppelschichtbildung schirmt die Schwänze ab.",
+          "ja": "不正解。単層では疎水性の尾部が水に露出してしまい、エネルギー的に不利です。二重層の形成は尾部を水から遮蔽します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Phospholipids are amphipathic molecules, meaning they have both hydrophilic (water-loving) and hydrophobic (water-fearing) parts. In an aqueous environment, their hydrophilic phosphate heads are attracted to water, while their hydrophobic fatty acid tails spontaneously associate with each other to minimize contact with water. This arrangement leads to the formation of a bilayer, where the tails are shielded in the interior, and the heads face the aqueous surroundings on both sides, forming a stable structure like a cell membrane.",
+      "zh": "磷脂是两性分子，这意味着它们既有亲水性（亲水）部分也有疏水性（疏水）部分。在水性环境中，它们的亲水性磷酸头部被水吸引，而疏水性脂肪酸尾部则自发地相互结合以最大限度地减少与水的接触。这种排列导致形成双层结构，其中尾部被保护在内部，头部在两侧面向水性环境，形成像细胞膜一样的稳定结构。",
+      "es": "Los fosfolípidos son moléculas anfipáticas, lo que significa que tienen partes tanto hidrofílicas (amantes del agua) como hidrofóbicas (que temen al agua). En un ambiente acuoso, sus cabezas de fosfato hidrofílicas son atraídas por el agua, mientras que sus colas de ácidos grasos hidrofóbicas se asocian espontáneamente entre sí para minimizar el contacto con el agua. Esta disposición lleva a la formación de una bicapa, donde las colas están protegidas en el interior y las cabezas se enfrentan al entorno acuoso en ambos lados, formando una estructura estable como una membrana celular.",
+      "fr": "Les phospholipides sont des molécules amphipathiques, ce qui signifie qu'ils possèdent à la fois des parties hydrophiles (qui aiment l'eau) et hydrophobes (qui craignent l'eau). Dans un environnement aqueux, leurs têtes de phosphate hydrophiles sont attirées par l'eau, tandis que leurs queues d'acides gras hydrophobes s'associent spontanément entre elles pour minimiser le contact avec l'eau. Cet arrangement conduit à la formation d'une bicouche, où les queues sont protégées à l'intérieur, et les têtes font face à l'environnement aqueux des deux côtés, formant une structure stable comme une membrane cellulaire.",
+      "de": "Phospholipide sind amphipathische Moleküle, was bedeutet, dass sie sowohl hydrophile (wasserliebende) als auch hydrophobe (wasserabweisende) Teile haben. In einer wässrigen Umgebung werden ihre hydrophilen Phosphatköpfe vom Wasser angezogen, während ihre hydrophoben Fettsäureschwänze spontan miteinander assoziieren, um den Kontakt mit Wasser zu minimieren. Diese Anordnung führt zur Bildung einer Doppelschicht, bei der die Schwänze im Inneren abgeschirmt sind und die Köpfe auf beiden Seiten der wässrigen Umgebung zugewandt sind, wodurch eine stabile Struktur wie eine Zellmembran entsteht.",
+      "ja": "リン脂質は両親媒性分子であり、親水性（水になじむ）部分と疎水性（水を嫌う）部分の両方を持っています。水性環境下では、その親水性のリン酸頭部が水に引き寄せられ、疎水性の脂肪酸尾部は水との接触を最小限にするために自発的に互いに結合します。この配置により二重層が形成され、尾部は内部で保護され、頭部は両側から水性環境に面するため、細胞膜のような安定した構造を形成します。"
+    }
+  },
+  {
+    "page_number": 123,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the provided text, which of the following statements about trans fats is/are true?",
+      "zh": "根据提供的文本，以下关于反式脂肪的说法哪项是正确的？",
+      "es": "Según el texto proporcionado, ¿cuál de las siguientes afirmaciones sobre las grasas trans es/son verdadera(s)?",
+      "fr": "Selon le texte fourni, laquelle/lesquelles des affirmations suivantes concernant les graisses trans est/sont vraie(s) ?",
+      "de": "Basierend auf dem bereitgestellten Text, welche der folgenden Aussagen über Transfette ist/sind wahr?",
+      "ja": "提供されたテキストに基づいて、以下のトランス脂肪に関する記述のうち、正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Trans fats are exclusively produced by natural processes in plants.",
+          "zh": "反式脂肪只由植物的自然过程产生。",
+          "es": "Las grasas trans se producen exclusivamente por procesos naturales en las plantas.",
+          "fr": "Les graisses trans sont exclusivement produites par des processus naturels chez les plantes.",
+          "de": "Transfette werden ausschließlich durch natürliche Prozesse in Pflanzen produziert.",
+          "ja": "トランス脂肪は植物の自然なプロセスによってのみ生成されます。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text states that 'artificially produced trans fats' result from 'hydrogenating vegetable oils.'",
+          "zh": "不正确。文本指出“人造反式脂肪”是由“植物油氢化”产生的。",
+          "es": "Incorrecto. El texto afirma que las 'grasas trans producidas artificialmente' resultan de la 'hidrogenación de aceites vegetales'.",
+          "fr": "Incorrect. Le texte indique que les « graisses trans produites artificiellement » résultent de « l'hydrogénation des huiles végétales ».",
+          "de": "Falsch. Der Text besagt, dass „künstlich hergestellte Transfette“ durch „Hydrierung von Pflanzenölen“ entstehen.",
+          "ja": "不正解。テキストには「人工的に製造されたトランス脂肪」が「植物油の水素化」によって生じると記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Trans fats are known to contribute to coronary heart disease.",
+          "zh": "反式脂肪已知会增加患冠心病的风险。",
+          "es": "Se sabe que las grasas trans contribuyen a la enfermedad coronaria.",
+          "fr": "Les graisses trans sont connues pour contribuer aux maladies coronariennes.",
+          "de": "Es ist bekannt, dass Transfette zur koronaren Herzkrankheit beitragen.",
+          "ja": "トランス脂肪は冠動脈性心疾患の一因となることが知られています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The U.S. FDA required nutritional labels to include trans fat content and has ordered a ban on their production by 2021.",
+          "zh": "美国食品药品监督管理局（FDA）要求营养标签上注明反式脂肪含量，并已命令在2021年前禁止其生产。",
+          "es": "La FDA de EE. UU. exigió que las etiquetas nutricionales incluyeran el contenido de grasas trans y ordenó la prohibición de su producción para 2021.",
+          "fr": "La FDA américaine a exigé que les étiquettes nutritionnelles incluent la teneur en graisses trans et a ordonné l'interdiction de leur production d'ici 2021.",
+          "de": "Die US-amerikanische FDA forderte die Angabe von Transfetten auf Nährwertkennzeichnungen und hat ein Verbot ihrer Produktion bis 2021 angeordnet.",
+          "ja": "米国FDAは、栄養表示にトランス脂肪酸の含有量を記載するよう義務付け、2021年までにその製造を禁止するよう命じています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Denmark and Switzerland have banned artificially produced trans fats.",
+          "zh": "丹麦和瑞士已禁止人造反式脂肪。",
+          "es": "Dinamarca y Suiza han prohibido las grasas trans producidas artificialmente.",
+          "fr": "Le Danemark et la Suisse ont interdit les graisses trans produites artificiellement.",
+          "de": "Dänemark und die Schweiz haben künstlich hergestellte Transfette verboten.",
+          "ja": "デンマークとスイスは人工的に生成されたトランス脂肪を禁止しています。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that 'trans fats can contribute to coronary heart disease,' confirming option B. It also mentions that the 'FDA requires nutritional labels to include information on trans fat content. In addition, the FDA has ordered U.S. food manufacturers to stop producing trans fats in foods by 2021,' supporting option C. Finally, 'Some countries, such as Denmark and Switzerland, have already banned artificially produced trans fats in foods,' validates option D. Option A is incorrect as the text describes trans fats being produced by 'hydrogenating vegetable oils,' implying an artificial process, and directly contradicts 'artificially produced trans fats.'",
+      "zh": "文本明确指出“反式脂肪会增加患冠心病的风险”，证实了选项B。它还提到“FDA要求营养标签上注明反式脂肪含量。此外，FDA已命令美国食品制造商在2021年前停止生产食品中的反式脂肪”，支持了选项C。最后，“一些国家，如丹麦和瑞士，已经禁止了食品中人造反式脂肪”，证实了选项D。选项A不正确，因为文本描述反式脂肪是通过“植物油氢化”产生的，暗示这是一种人工过程，并直接与“人造反式脂肪”相矛盾。",
+      "es": "El texto establece explícitamente que 'las grasas trans pueden contribuir a la enfermedad coronaria', lo que confirma la opción B. También menciona que la 'FDA exige que las etiquetas nutricionales incluyan información sobre el contenido de grasas trans. Además, la FDA ha ordenado a los fabricantes de alimentos de EE. UU. que dejen de producir grasas trans en los alimentos para 2021', lo que apoya la opción C. Finalmente, 'Algunos países, como Dinamarca y Suiza, ya han prohibido las grasas trans producidas artificialmente en los alimentos', lo que valida la opción D. La opción A es incorrecta, ya que el texto describe que las grasas trans se producen mediante la 'hidrogenación de aceites vegetales', lo que implica un proceso artificial, y contradice directamente las 'grasas trans producidas artificialmente'.",
+      "fr": "Le texte indique explicitement que « les graisses trans peuvent contribuer aux maladies coronariennes », ce qui confirme l'option B. Il mentionne également que la « FDA exige que les étiquettes nutritionnelles incluent des informations sur la teneur en graisses trans. De plus, la FDA a ordonné aux fabricants de produits alimentaires américains de cesser de produire des graisses trans dans les aliments d'ici 2021 », ce qui soutient l'option C. Enfin, « Certains pays, tels que le Danemark et la Suisse, ont déjà interdit les graisses trans produites artificiellement dans les aliments », ce qui valide l'option D. L'option A est incorrecte car le texte décrit les graisses trans comme étant produites par « l'hydrogénation des huiles végétales », impliquant un processus artificiel, et contredit directement les « graisses trans produites artificiellement ».",
+      "de": "Der Text besagt ausdrücklich, dass „Transfette zur koronaren Herzkrankheit beitragen können“, was Option B bestätigt. Er erwähnt auch, dass die „FDA die Angabe von Transfetten auf Nährwertkennzeichnungen vorschreibt. Darüber hinaus hat die FDA US-amerikanischen Lebensmittelherstellern angeordnet, die Produktion von Transfetten in Lebensmitteln bis 2021 einzustellen“, was Option C unterstützt. Schließlich „haben einige Länder, wie Dänemark und die Schweiz, künstlich hergestellte Transfette in Lebensmitteln bereits verboten“, was Option D bestätigt. Option A ist falsch, da der Text beschreibt, dass Transfette durch „Hydrierung von Pflanzenölen“ hergestellt werden, was einen künstlichen Prozess impliziert und direkt den „künstlich hergestellten Transfetten“ widerspricht.",
+      "ja": "テキストには「トランス脂肪は冠動脈性心疾患の一因となる可能性がある」と明記されており、選択肢Bが正しいことを確認しています。また、「FDAは栄養表示にトランス脂肪含有量を含めることを義務付け、さらに2021年までに米国食品メーカーに対し、食品中のトランス脂肪の製造を中止するよう命じた」と述べられており、選択肢Cを裏付けています。最後に、「デンマークやスイスなど一部の国では、人工的に生成されたトランス脂肪が食品で既に禁止されている」という記述は、選択肢Dを裏付けています。選択肢Aは、「植物油の水素化」によってトランス脂肪が生成されると記述されており、これは人工的なプロセスを意味するため、誤りです。また、「人工的に生成されたトランス脂肪」という記述と直接矛盾します。"
+    }
+  },
+  {
+    "page_number": 123,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Animals predominantly store energy in the form of fat rather than polysaccharides like starch. What is the main reason for this difference in energy storage strategy between animals and plants?",
+      "zh": "动物主要以脂肪的形式储存能量，而不是像淀粉这样的多糖。动物和植物之间这种能量储存策略差异的主要原因是什么？",
+      "es": "Los animales almacenan predominantemente energía en forma de grasa en lugar de polisacáridos como el almidón. ¿Cuál es la razón principal de esta diferencia en la estrategia de almacenamiento de energía entre animales y plantas?",
+      "fr": "Les animaux stockent principalement l'énergie sous forme de graisse plutôt que sous forme de polysaccharides comme l'amidon. Quelle est la principale raison de cette différence de stratégie de stockage d'énergie entre animaux et plantes ?",
+      "de": "Tiere speichern Energie überwiegend in Form von Fett anstatt in Polysacchariden wie Stärke. Was ist der Hauptgrund für diesen Unterschied in der Energiespeicherstrategie zwischen Tieren und Pflanzen?",
+      "ja": "動物は主に脂肪の形でエネルギーを貯蔵し、デンプンなどの多糖類の形では貯蔵しません。動物と植物の間で、このエネルギー貯蔵戦略に違いがある主な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Fats are easier for animals to synthesize than polysaccharides.",
+          "zh": "脂肪对动物来说比多糖更容易合成。",
+          "es": "Las grasas son más fáciles de sintetizar para los animales que los polisacáridos.",
+          "fr": "Les graisses sont plus faciles à synthétiser pour les animaux que les polysaccharides.",
+          "de": "Fette sind für Tiere leichter zu synthetisieren als Polysaccharide.",
+          "ja": "動物にとって脂肪は多糖類よりも合成しやすいからです。"
+        },
+        "feedback": {
+          "en": "The text does not provide information about the ease of synthesis; rather, it focuses on the energy density and mobility aspect.",
+          "zh": "文本没有提供关于合成难易程度的信息；相反，它侧重于能量密度和移动性方面。",
+          "es": "El texto no proporciona información sobre la facilidad de síntesis; más bien, se centra en la densidad energética y el aspecto de la movilidad.",
+          "fr": "Le texte ne fournit pas d'informations sur la facilité de synthèse ; il se concentre plutôt sur la densité énergétique et l'aspect de la mobilité.",
+          "de": "Der Text gibt keine Auskunft über die Syntheseleichtigkeit; stattdessen konzentriert er sich auf die Energiedichte und den Mobilitätsaspekt.",
+          "ja": "テキストには合成の容易さに関する情報は提供されていません。むしろ、エネルギー密度と移動性の側面に焦点を当てています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Fats provide more than double the energy per gram compared to polysaccharides, offering a more compact energy reserve for mobile organisms.",
+          "zh": "脂肪每克提供的能量是多糖的两倍多，为移动的生物体提供了更紧凑的能量储备。",
+          "es": "Las grasas proporcionan más del doble de energía por gramo en comparación con los polisacáridos, ofreciendo una reserva de energía más compacta para organismos móviles.",
+          "fr": "Les graisses fournissent plus du double de l'énergie par gramme par rapport aux polysaccharides, offrant une réserve d'énergie plus compacte pour les organismes mobiles.",
+          "de": "Fette liefern mehr als doppelt so viel Energie pro Gramm wie Polysaccharide und bieten eine kompaktere Energiereserve für mobile Organismen.",
+          "ja": "脂肪は多糖類と比較してグラムあたりのエネルギーが2倍以上あり、移動する生物にとってよりコンパクトなエネルギー貯蔵となります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Polysaccharides are toxic to animals when stored in large quantities.",
+          "zh": "大量储存多糖对动物有毒。",
+          "es": "Los polisacáridos son tóxicos para los animales cuando se almacenan en grandes cantidades.",
+          "fr": "Les polysaccharides sont toxiques para animales lorsqu'ils sont stockés en grandes quantités.",
+          "de": "Polysaccharide sind für Tiere in großen Mengen toxisch.",
+          "ja": "多糖類は大量に貯蔵されると動物にとって有毒です。"
+        },
+        "feedback": {
+          "en": "This statement is not supported by the text. Animals store glycogen (a polysaccharide) and it's not toxic.",
+          "zh": "文本不支持此说法。动物储存糖原（一种多糖），它没有毒性。",
+          "es": "Esta afirmación no está respaldada por el texto. Los animales almacenan glucógeno (un polisacárido) y no es tóxico.",
+          "fr": "Cette affirmation n'est pas étayée par le texte. Les animaux stockent du glycogène (un polysaccharide) et ce n'est pas toxique.",
+          "de": "Diese Aussage wird vom Text nicht unterstützt. Tiere speichern Glykogen (ein Polysaccharid) und es ist nicht toxisch.",
+          "ja": "この記述はテキストで裏付けられていません。動物はグリコーゲン（多糖類）を貯蔵しますが、それは毒性はありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Plants cannot synthesize fats, only polysaccharides.",
+          "zh": "植物不能合成脂肪，只能合成多糖。",
+          "es": "Las plantas no pueden sintetizar grasas, solo polisacáridos.",
+          "fr": "Les plantes ne peuvent pas synthétiser les graisses, seulement les polysaccharides.",
+          "de": "Pflanzen können keine Fette synthetisieren, nur Polysaccharide.",
+          "ja": "植物は脂肪を合成できず、多糖類しか合成できません。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text mentions 'Vegetable oils,' which are fats produced by plants, often from seeds.",
+          "zh": "不正确。文本提到“植物油”，这是植物（通常来自种子）产生的脂肪。",
+          "es": "Incorrecto. El texto menciona 'aceites vegetales', que son grasas producidas por las plantas, a menudo a partir de semillas.",
+          "fr": "Incorrect. Le texte mentionne les « huiles végétales », qui sont des graisses produites par les plantes, souvent à partir de graines.",
+          "de": "Falsch. Der Text erwähnt „Pflanzenöle“, die von Pflanzen, oft aus Samen, produzierte Fette sind.",
+          "ja": "不正解。テキストには「植物油」について言及されており、これは植物（多くは種子から）によって生成される脂肪です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states, 'A gram of fat stores more than twice as much energy as a gram of a polysaccharide, such as starch.' It further explains that 'Animals, however, must carry their energy stores with them, so there is an advantage to having a more compact reservoir of fuel—fat.' This highlights the higher energy density of fats, which makes them a more efficient and compact form of energy storage for mobile organisms like animals compared to the bulkier polysaccharides.",
+      "zh": "文本指出：“一克脂肪储存的能量是淀粉等多糖的两倍多。”它进一步解释说：“然而，动物必须随身携带它们的能量储备，因此拥有更紧凑的燃料储存——脂肪——具有优势。”这突出了脂肪更高的能量密度，使其成为移动生物（如动物）相比笨重的多糖更高效、更紧凑的能量储存形式。",
+      "es": "El texto afirma: 'Un gramo de grasa almacena más del doble de energía que un gramo de un polisacárido, como el almidón'. Además, explica que 'los animales, sin embargo, deben llevar consigo sus reservas de energía, por lo que es una ventaja tener un depósito de combustible más compacto: la grasa'. Esto resalta la mayor densidad energética de las grasas, lo que las convierte en una forma de almacenamiento de energía más eficiente y compacta para organismos móviles como los animales, en comparación con los polisacáridos más voluminosos.",
+      "fr": "Le texte indique : « Un gramme de graisse stocke plus de deux fois plus d'énergie qu'un gramme de polysaccharide, tel que l'amidon. » Il explique en outre que « les animaux, cependant, doivent transporter leurs réserves d'énergie avec eux, il est donc avantageux d'avoir un réservoir de carburant plus compact — la graisse. » Cela met en évidence la densité énergétique plus élevée des graisses, ce qui en fait une forme de stockage d'énergie plus efficace et plus compacte pour les organismes mobiles comme les animaux par rapport aux polysaccharides plus volumineux.",
+      "de": "Der Text besagt: „Ein Gramm Fett speichert mehr als doppelt so viel Energie wie ein Gramm eines Polysaccharids wie Stärke.“ Weiter wird erklärt, dass „Tiere jedoch ihre Energiespeicher mit sich führen müssen, sodass es von Vorteil ist, einen kompakteren Kraftstoffspeicher – Fett – zu haben.“ Dies unterstreicht die höhere Energiedichte von Fetten, die sie im Vergleich zu den sperrigeren Polysacchariden zu einer effizienteren und kompakteren Form der Energiespeicherung für mobile Organismen wie Tiere macht.",
+      "ja": "テキストには、「1グラムの脂肪は、デンプンなどの多糖類の1グラムの2倍以上のエネルギーを貯蔵する」と記載されています。さらに、「しかし、動物はエネルギー貯蔵を携帯する必要があるため、よりコンパクトな燃料貯蔵庫である脂肪を持つことは有利である」と説明されています。これは脂肪のより高いエネルギー密度を強調しており、動物のような移動する生物にとって、かさばる多糖類よりも効率的でコンパクトなエネルギー貯蔵形態となっています。"
+    }
+  }
+]

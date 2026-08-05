@@ -1,0 +1,341 @@
+[
+  {
+    "page_number": 250,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In an experiment, isolated chloroplasts are placed in an illuminated solution with appropriate chemicals, allowing them to carry out ATP synthesis. If a compound is added to the solution that makes thylakoid membranes freely permeable to hydrogen ions, what would be the most likely effect on ATP synthesis?",
+      "zh": "在一个实验中，分离出的叶绿体被放置在含有适当化学物质的受光溶液中，使其能够进行ATP合成。如果向溶液中添加一种化合物，使类囊体膜对氢离子自由渗透，那么对ATP合成最可能产生什么影响？",
+      "es": "En un experimento, se colocan cloroplastos aislados en una solución iluminada con los químicos apropiados, permitiéndoles llevar a cabo la síntesis de ATP. Si se añade un compuesto a la solución que hace que las membranas tilacoidales sean libremente permeables a los iones de hidrógeno, ¿cuál sería el efecto más probable sobre la síntesis de ATP?",
+      "fr": "Lors d'une expérience, des chloroplastes isolés sont placés dans une solution éclairée contenant des produits chimiques appropriés, leur permettant de réaliser la synthèse d'ATP. Si un composé est ajouté à la solution qui rend les membranes thylakoïdes librement perméables aux ions hydrogène, quel serait l'effet le plus probable sur la synthèse d'ATP?",
+      "de": "In einem Experiment werden isolierte Chloroplasten in eine beleuchtete Lösung mit geeigneten Chemikalien gegeben, wodurch sie ATP-Synthese durchführen können. Wenn eine Verbindung zu der Lösung hinzugefügt wird, die Thylakoidmembranen für Wasserstoffionen frei permeabel macht, welcher Effekt wäre am wahrscheinlichsten auf die ATP-Synthese zu beobachten?",
+      "ja": "ある実験で、単離された葉緑体が適切な化学物質を含む光を当てられた溶液中に置かれ、ATP合成を行うことができた。もしチラコイド膜を水素イオンに対して自由に透過させる化合物が溶液に添加された場合、ATP合成に最も起こりうる影響は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "ATP synthesis would increase significantly due to enhanced hydrogen ion movement.",
+          "zh": "由于氢离子运动增强，ATP合成会显著增加。",
+          "es": "La síntesis de ATP aumentaría significativamente debido al movimiento mejorado de iones de hidrógeno.",
+          "fr": "La synthèse d'ATP augmenterait significativement en raison d'un mouvement accru des ions hydrogène.",
+          "de": "Die ATP-Synthese würde aufgrund des verstärkten Wasserstoffionenflusses signifikant ansteigen.",
+          "ja": "水素イオンの動きが促進されるため、ATP合成は著しく増加するだろう。"
+        },
+        "feedback": {
+          "en": "ATP synthesis by chemiosmosis relies on a proton gradient; enhanced movement across the membrane without control would dissipate, not enhance, the gradient.",
+          "zh": "通过化学渗透进行的ATP合成依赖于质子梯度；不受控制地增强离子跨膜运动会耗散而非增强梯度。",
+          "es": "La síntesis de ATP por quimiosmosis depende de un gradiente de protones; un movimiento mejorado a través de la membrana sin control disiparía, no aumentaría, el gradiente.",
+          "fr": "La synthèse d'ATP par chimiosmose dépend d'un gradient de protons ; un mouvement amélioré à travers la membrane sans contrôle dissiperait, et non augmenterait, le gradient.",
+          "de": "Die ATP-Synthese durch Chemiosmose hängt von einem Protonengradienten ab; ein verstärkter unkontrollierter Fluss über die Membran würde den Gradienten auflösen, nicht verstärken.",
+          "ja": "化学浸透によるATP合成はプロトン勾配に依存しています。制御なしに膜を横切るイオンの動きが促進されると、勾配は強化されるのではなく散逸します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "ATP synthesis would decrease or cease because the proton gradient across the thylakoid membrane would be dissipated.",
+          "zh": "ATP合成会减少或停止，因为跨类囊体膜的质子梯度会被耗散。",
+          "es": "La síntesis de ATP disminuiría o cesaría porque el gradiente de protones a través de la membrana tilacoidal se disiparía.",
+          "fr": "La synthèse d'ATP diminuerait ou cesserait car le gradient de protons à travers la membrane thylakoïde serait dissipé.",
+          "de": "Die ATP-Synthese würde abnehmen oder aufhören, da der Protonengradient über die Thylakoidmembran aufgelöst würde.",
+          "ja": "チラコイド膜を横切るプロトン勾配が散逸するため、ATP合成は減少または停止するだろう。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "ATP synthesis would be unaffected as it primarily depends on light energy, not hydrogen ion gradients.",
+          "zh": "ATP合成不会受到影响，因为它主要取决于光能，而不是氢离子梯度。",
+          "es": "La síntesis de ATP no se vería afectada ya que depende principalmente de la energía luminosa, no de los gradientes de iones de hidrógeno.",
+          "fr": "La synthèse d'ATP ne serait pas affectée car elle dépend principalement de l'énergie lumineuse, et non des gradients d'ions hydrogène.",
+          "de": "Die ATP-Synthese bliebe unbeeinflusst, da sie hauptsächlich von Lichtenergie und nicht von Wasserstoffionengradienten abhängt.",
+          "ja": "ATP合成は主に光エネルギーに依存し、水素イオン勾配には依存しないため、影響を受けないだろう。"
+        },
+        "feedback": {
+          "en": "While light energy drives the process, it is converted into chemical energy via the establishment and use of a proton (hydrogen ion) gradient, which is crucial for ATP synthase.",
+          "zh": "光能驱动过程，但它通过质子（氢离子）梯度的建立和利用转化为化学能，这对于ATP合酶至关重要。",
+          "es": "Si bien la energía luminosa impulsa el proceso, se convierte en energía química mediante el establecimiento y uso de un gradiente de protones (iones de hidrógeno), que es crucial para la ATP sintasa.",
+          "fr": "Bien que l'énergie lumineuse soit le moteur du processus, elle est convertie en énergie chimique par l'établissement et l'utilisation d'un gradient de protons (ions hydrogène), ce qui est crucial pour l'ATP synthase.",
+          "de": "Obwohl Lichtenergie den Prozess antreibt, wird sie durch die Etablierung und Nutzung eines Protonen-(Wasserstoffionen-)Gradienten in chemische Energie umgewandelt, was für die ATP-Synthase entscheidend ist.",
+          "ja": "光エネルギーがこのプロセスを推進しますが、プロトン（水素イオン）勾配の確立と利用を介して化学エネルギーに変換され、これはATP合成酵素にとって非常に重要です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "ATP synthesis would shift from the thylakoid membrane to the stroma.",
+          "zh": "ATP合成将从类囊体膜转移到基质。",
+          "es": "La síntesis de ATP se desplazaría de la membrana tilacoidal al estroma.",
+          "fr": "La synthèse d'ATP se déplacerait de la membrane thylakoïde vers le stroma.",
+          "de": "Die ATP-Synthese würde von der Thylakoidmembran ins Stroma verlagert.",
+          "ja": "ATP合成はチラコイド膜からストロマに移動するだろう。"
+        },
+        "feedback": {
+          "en": "ATP synthase, the enzyme responsible for ATP synthesis, is embedded in the thylakoid membrane; its location does not shift.",
+          "zh": "负责ATP合成的酶——ATP合酶嵌入在类囊体膜中；其位置不会改变。",
+          "es": "La ATP sintasa, la enzima responsable de la síntesis de ATP, está incrustada en la membrana tilacoidal; su ubicación no cambia.",
+          "fr": "L'ATP synthase, l'enzyme responsable de la synthèse d'ATP, est intégrée dans la membrane thylakoïde ; son emplacement ne se déplace pas.",
+          "de": "Die ATP-Synthase, das für die ATP-Synthese verantwortliche Enzym, ist in die Thylakoidmembran eingebettet; ihr Standort ändert sich nicht.",
+          "ja": "ATP合成に関与する酵素であるATP合成酵素はチラコイド膜に埋め込まれており、その位置は移動しません。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Oxygen production would stop, leading to a halt in ATP synthesis.",
+          "zh": "氧气生产将停止，导致ATP合成停止。",
+          "es": "La producción de oxígeno se detendría, lo que llevaría a una interrupción en la síntesis de ATP.",
+          "fr": "La production d'oxygène cesserait, entraînant l'arrêt de la synthèse d'ATP.",
+          "de": "Die Sauerstoffproduktion würde stoppen, was zu einem Stillstand der ATP-Synthese führen würde.",
+          "ja": "酸素生成が停止し、ATP合成も停止するだろう。"
+        },
+        "feedback": {
+          "en": "Oxygen is a byproduct of the light-dependent reactions, but its production is not directly linked to the integrity of the proton gradient for ATP synthesis in this manner.",
+          "zh": "氧气是光合作用光反应的副产物，但其产生与ATP合成中质子梯度的完整性没有直接关联。",
+          "es": "El oxígeno es un subproducto de las reacciones dependientes de la luz, pero su producción no está directamente ligada a la integridad del gradiente de protones para la síntesis de ATP de esta manera.",
+          "fr": "L'oxygène est un sous-produit des réactions dépendantes de la lumière, mais sa production n'est pas directement liée de cette manière à l'intégrité du gradient de protons pour la synthèse d'ATP.",
+          "de": "Sauerstoff ist ein Nebenprodukt der lichtabhängigen Reaktionen, aber seine Produktion ist in dieser Weise nicht direkt mit der Integrität des Protonengradienten für die ATP-Synthese verbunden.",
+          "ja": "酸素は光依存性反応の副産物ですが、その生成はATP合成のためのプロトン勾配の完全性とは直接関連していません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that a pH gradient across the thylakoid membrane is crucial for ATP synthesis (chemiosmosis) and that turning off lights abolishes it. Making membranes freely permeable to hydrogen ions would dissipate this essential proton gradient, thereby preventing ATP synthase from functioning and leading to a decrease or cessation of ATP synthesis.",
+      "zh": "文本指出，跨类囊体膜的pH梯度对于ATP合成（化学渗透）至关重要，关闭灯光会消除这个梯度。如果膜对氢离子自由渗透，就会耗散这个必需的质子梯度，从而阻止ATP合酶发挥作用，导致ATP合成减少或停止。",
+      "es": "El texto afirma que un gradiente de pH a través de la membrana tilacoidal es crucial para la síntesis de ATP (quimiosmosis) y que apagar las luces lo anula. Hacer que las membranas sean libremente permeables a los iones de hidrógeno disiparía este gradiente de protones esencial, impidiendo así el funcionamiento de la ATP sintasa y provocando una disminución o el cese de la síntesis de ATP.",
+      "fr": "Le texte indique qu'un gradient de pH à travers la membrane thylakoïde est crucial pour la synthèse d'ATP (chimiosmose) et que l'extinction des lumières l'abolit. Rendre les membranes librement perméables aux ions hydrogène dissiperait ce gradient de protons essentiel, empêchant ainsi l'ATP synthase de fonctionner et entraînant une diminution ou un arrêt de la synthèse d'ATP.",
+      "de": "Der Text besagt, dass ein pH-Gradient über die Thylakoidmembran entscheidend für die ATP-Synthese (Chemiosmose) ist und dass das Ausschalten des Lichts diesen Gradienten aufhebt. Wenn Membranen für Wasserstoffionen frei permeabel gemacht werden, würde dieser essenzielle Protonengradient aufgelöst, wodurch die ATP-Synthase nicht mehr funktionieren könnte und die ATP-Synthese abnehmen oder aufhören würde.",
+      "ja": "本文によると、チラコイド膜を横切るpH勾配はATP合成（化学浸透）に不可欠であり、光を消すとこの勾配が消失します。チラコイド膜を水素イオンに対して自由に透過させる化合物が溶液に添加された場合、この不可欠なプロトン勾配が散逸し、ATP合成酵素が機能できなくなり、ATP合成が減少または停止するでしょう。"
+    }
+  },
+  {
+    "page_number": 250,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text compares the Calvin cycle to the citric acid cycle. Which of the following statements accurately describes a key difference between these two processes?",
+      "zh": "文本将卡尔文循环与柠檬酸循环进行了比较。以下哪项陈述准确描述了这两个过程之间的一个关键区别？",
+      "es": "El texto compara el ciclo de Calvin con el ciclo del ácido cítrico. ¿Cuál de las siguientes afirmaciones describe con precisión una diferencia clave entre estos dos procesos?",
+      "fr": "Le texte compare le cycle de Calvin au cycle de l'acide citrique. Parmi les affirmations suivantes, laquelle décrit précisément une différence clé entre ces deux processus?",
+      "de": "Der Text vergleicht den Calvin-Zyklus mit dem Citratzyklus. Welche der folgenden Aussagen beschreibt präzise einen Hauptunterschied zwischen diesen beiden Prozessen?",
+      "ja": "本文では、カルビン回路とクエン酸回路が比較されています。これら2つのプロセスの重要な違いを正確に記述しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The Calvin cycle is catabolic, breaking down molecules, whereas the citric acid cycle is anabolic, building molecules.",
+          "zh": "卡尔文循环是分解代谢，分解分子；而柠檬酸循环是合成代谢，构建分子。",
+          "es": "El ciclo de Calvin es catabólico, descomponiendo moléculas, mientras que el ciclo del ácido cítrico es anabólico, construyendo moléculas.",
+          "fr": "Le cycle de Calvin est catabolique, décomposant les molécules, tandis que le cycle de l'acide citrique est anabolique, construisant les molécules.",
+          "de": "Der Calvin-Zyklus ist katabolisch, bricht Moleküle ab, während der Citratzyklus anabolisch ist und Moleküle aufbaut.",
+          "ja": "カルビン回路は異化作用で分子を分解するが、クエン酸回路は同化作用で分子を構築する。"
+        },
+        "feedback": {
+          "en": "The text states the opposite: Calvin cycle is anabolic, and citric acid cycle is catabolic.",
+          "zh": "文本中陈述的是相反的：卡尔文循环是合成代谢，柠檬酸循环是分解代谢。",
+          "es": "El texto afirma lo contrario: el ciclo de Calvin es anabólico y el ciclo del ácido cítrico es catabólico.",
+          "fr": "Le texte indique le contraire : le cycle de Calvin est anabolique, et le cycle de l'acide citrique est catabolique.",
+          "de": "Der Text besagt das Gegenteil: Der Calvin-Zyklus ist anabolisch, und der Citratzyklus ist katabolisch.",
+          "ja": "本文では逆のことが述べられています。カルビン回路は同化作用、クエン酸回路は異化作用です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The Calvin cycle consumes ATP and NADPH, while the citric acid cycle uses oxygen to produce ATP.",
+          "zh": "卡尔文循环消耗ATP和NADPH，而柠檬酸循环利用氧气产生ATP。",
+          "es": "El ciclo de Calvin consume ATP y NADPH, mientras que el ciclo del ácido cítrico utiliza oxígeno para producir ATP.",
+          "fr": "Le cycle de Calvin consomme de l'ATP et du NADPH, tandis que le cycle de l'acide citrique utilise de l'oxygène pour produire de l'ATP.",
+          "de": "Der Calvin-Zyklus verbraucht ATP und NADPH, während der Citratzyklus Sauerstoff zur ATP-Produktion verwendet.",
+          "ja": "カルビン回路はATPとNADPHを消費するが、クエン酸回路は酸素を利用してATPを生成する。"
+        },
+        "feedback": {
+          "en": "While the Calvin cycle does consume ATP and NADPH, and the citric acid cycle is linked to ATP production, the text's direct comparison highlights the anabolic/catabolic nature and specific energy usage/production rather than the role of oxygen in ATP production for the citric acid cycle.",
+          "zh": "虽然卡尔文循环确实消耗ATP和NADPH，柠檬酸循环也与ATP产生有关，但文本直接比较的重点是它们的合成/分解代谢性质以及具体的能量使用/产生，而不是柠檬酸循环中氧气在ATP产生中的作用。",
+          "es": "Aunque el ciclo de Calvin consume ATP y NADPH, y el ciclo del ácido cítrico está relacionado con la producción de ATP, la comparación directa del texto enfatiza la naturaleza anabólica/catabólica y el uso/producción de energía específica en lugar del papel del oxígeno en la producción de ATP para el ciclo del ácido cítrico.",
+          "fr": "Bien que le cycle de Calvin consomme de l'ATP et du NADPH, et que le cycle de l'acide citrique soit lié à la production d'ATP, la comparaison directe du texte met en évidence la nature anabolique/catabolique et l'utilisation/production spécifique d'énergie plutôt que le rôle de l'oxygène dans la production d'ATP pour le cycle de l'acide citrique.",
+          "de": "Obwohl der Calvin-Zyklus ATP und NADPH verbraucht und der Citratzyklus mit der ATP-Produktion verbunden ist, konzentriert sich der direkte Vergleich im Text auf die anabole/katabole Natur und den spezifischen Energieverbrauch/-produktion, nicht auf die Rolle von Sauerstoff bei der ATP-Produktion für den Citratzyklus.",
+          "ja": "カルビン回路はATPとNADPHを消費し、クエン酸回路はATP生成に関与していますが、本文の直接的な比較は、クエン酸回路におけるATP生成における酸素の役割ではなく、同化作用/異化作用の性質と特定のエネルギー使用/生成に焦点を当てています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The Calvin cycle synthesizes sugar from CO2 and is anabolic, whereas the citric acid cycle oxidizes acetyl CoA and is catabolic.",
+          "zh": "卡尔文循环从CO2合成糖并属于合成代谢，而柠檬酸循环氧化乙酰CoA并属于分解代谢。",
+          "es": "El ciclo de Calvin sintetiza azúcar a partir de CO2 y es anabólico, mientras que el ciclo del ácido cítrico oxida el acetil CoA y es catabólico.",
+          "fr": "Le cycle de Calvin synthétise le sucre à partir du CO2 et est anabolique, tandis que le cycle de l'acide citrique oxyde l'acétyl-CoA et est catabolique.",
+          "de": "Der Calvin-Zyklus synthetisiert Zucker aus CO2 und ist anabolisch, während der Citratzyklus Acetyl-CoA oxidiert und katabolisch ist.",
+          "ja": "カルビン回路はCO2から糖を合成し同化作用であり、クエン酸回路はアセチルCoAを酸化し異化作用である。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both cycles regenerate a starting material, but only the Calvin cycle occurs in the stroma.",
+          "zh": "两个循环都再生起始物质，但只有卡尔文循环发生在基质中。",
+          "es": "Ambos ciclos regeneran un material de partida, pero solo el ciclo de Calvin ocurre en el estroma.",
+          "fr": "Les deux cycles régénèrent une matière de départ, mais seul le cycle de Calvin se déroule dans le stroma.",
+          "de": "Beide Zyklen regenerieren ein Ausgangsmaterial, aber nur der Calvin-Zyklus findet im Stroma statt.",
+          "ja": "両方の回路は出発物質を再生するが、カルビン回路だけがストロマで起こる。"
+        },
+        "feedback": {
+          "en": "While both regenerate a starting material and the Calvin cycle occurs in the stroma, the citric acid cycle does not occur in the stroma. This option focuses on location and partial similarities, missing the core metabolic distinction presented.",
+          "zh": "虽然两者都再生起始物质且卡尔文循环发生在基质中，但柠檬酸循环不发生在基质中。此选项侧重于位置和部分相似之处，未能抓住核心的代谢区别。",
+          "es": "Aunque ambos regeneran un material de partida y el ciclo de Calvin ocurre en el estroma, el ciclo del ácido cítrico no ocurre en el estroma. Esta opción se enfoca en la ubicación y similitudes parciales, omitiendo la distinción metabólica central presentada.",
+          "fr": "Bien que les deux régénèrent un matériau de départ et que le cycle de Calvin se déroule dans le stroma, le cycle de l'acide citrique ne se déroule pas dans le stroma. Cette option se concentre sur l'emplacement et les similarités partielles, manquant la distinction métabolique essentielle présentée.",
+          "de": "Obwohl beide ein Ausgangsmaterial regenerieren und der Calvin-Zyklus im Stroma stattfindet, findet der Citratzyklus nicht im Stroma statt. Diese Option konzentriert sich auf den Ort und partielle Ähnlichkeiten und verfehlt die dargestellte zentrale metabolische Unterscheidung.",
+          "ja": "両方とも出発物質を再生し、カルビン回路がストロマで起こるのは事実ですが、クエン酸回路はストロマでは起こりません。この選択肢は場所と部分的な類似点に焦点を当てており、提示された主要な代謝の違いを見落としています。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "The Calvin cycle produces oxygen as a byproduct, while the citric acid cycle produces carbon dioxide.",
+          "zh": "卡尔文循环以氧气为副产品，而柠檬酸循环产生二氧化碳。",
+          "es": "El ciclo de Calvin produce oxígeno como subproducto, mientras que el ciclo del ácido cítrico produce dióxido de carbono.",
+          "fr": "Le cycle de Calvin produit de l'oxygène comme sous-produit, tandis que le cycle de l'acide citrique produit du dioxyde de carbone.",
+          "de": "Der Calvin-Zyklus produziert Sauerstoff als Nebenprodukt, während der Citratzyklus Kohlendioxid produziert.",
+          "ja": "カルビン回路は副産物として酸素を生成するが、クエン酸回路は二酸化炭素を生成する。"
+        },
+        "feedback": {
+          "en": "Oxygen is a byproduct of the light reactions, not the Calvin cycle. The Calvin cycle produces sugar.",
+          "zh": "氧气是光反应的副产品，而不是卡尔文循环的副产品。卡尔文循环产生糖。",
+          "es": "El oxígeno es un subproducto de las reacciones lumínicas, no del ciclo de Calvin. El ciclo de Calvin produce azúcar.",
+          "fr": "L'oxygène est un sous-produit des réactions lumineuses, pas du cycle de Calvin. Le cycle de Calvin produit du sucre.",
+          "de": "Sauerstoff ist ein Nebenprodukt der Lichtreaktionen, nicht des Calvin-Zyklus. Der Calvin-Zyklus produziert Zucker.",
+          "ja": "酸素は光反応の副産物であり、カルビン回路の副産物ではありません。カルビン回路は糖を生成します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that 'The Calvin cycle is anabolic, building carbohydrates from smaller molecules and consuming energy,' while 'the citric acid cycle is catabolic, oxidizing acetyl CoA and using the energy to synthesize ATP.' This highlights the fundamental difference in their metabolic roles and energy flow.",
+      "zh": "文本明确指出，“卡尔文循环是合成代谢的，从较小的分子构建碳水化合物并消耗能量”，而“柠檬酸循环是分解代谢的，氧化乙酰辅酶A并利用能量合成ATP”。这强调了它们在代谢作用和能量流动方面的根本区别。",
+      "es": "El texto establece explícitamente que 'El ciclo de Calvin es anabólico, construyendo carbohidratos a partir de moléculas más pequeñas y consumiendo energía', mientras que 'el ciclo del ácido cítrico es catabólico, oxidando acetil-CoA y utilizando la energía para sintetizar ATP'. Esto resalta la diferencia fundamental en sus roles metabólicos y el flujo de energía.",
+      "fr": "Le texte déclare explicitement que 'le cycle de Calvin est anabolique, construisant des glucides à partir de petites molécules et consommant de l'énergie', tandis que 'le cycle de l'acide citrique est catabolique, oxydant l'acétyl-CoA et utilisant l'énergie pour synthétiser l'ATP'. Cela met en évidence la différence fondamentale dans leurs rôles métaboliques et leur flux d'énergie.",
+      "de": "Der Text besagt explizit, dass 'der Calvin-Zyklus anabolisch ist, Kohlenhydrate aus kleineren Molekülen aufbaut und Energie verbraucht', während 'der Citratzyklus katabolisch ist, Acetyl-CoA oxidiert und die Energie zur ATP-Synthese nutzt'. Dies unterstreicht den grundlegenden Unterschied in ihren metabolischen Rollen und dem Energiefluss.",
+      "ja": "本文では、「カルビン回路は同化作用であり、より小さな分子から炭水化物を構築し、エネルギーを消費する」と明記されており、一方「クエン酸回路は異化作用であり、アセチルCoAを酸化し、エネルギーを利用してATPを合成する」と述べられています。これは、両者の代謝的役割とエネルギーの流れにおける根本的な違いを強調しています。"
+    }
+  },
+  {
+    "page_number": 250,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "During the Calvin cycle, three molecules of CO2 enter the cycle. Based on the information provided, what is the fate of the carbon atoms from these three CO2 molecules in terms of net carbohydrate gain and regeneration?",
+      "zh": "在卡尔文循环中，三个CO2分子进入循环。根据所提供的信息，这三个CO2分子中的碳原子在净碳水化合物增益和再生方面的命运是什么？",
+      "es": "Durante el ciclo de Calvin, tres moléculas de CO2 entran en el ciclo. Basado en la información proporcionada, ¿cuál es el destino de los átomos de carbono de estas tres moléculas de CO2 en términos de ganancia neta de carbohidratos y regeneración?",
+      "fr": "Au cours du cycle de Calvin, trois molécules de CO2 entrent dans le cycle. D'après les informations fournies, quel est le devenir des atomes de carbone de ces trois molécules de CO2 en termes de gain net de glucides et de régénération?",
+      "de": "Während des Calvin-Zyklus treten drei CO2-Moleküle in den Zyklus ein. Basierend auf den bereitgestellten Informationen, wie ist das Schicksal der Kohlenstoffatome aus diesen drei CO2-Molekülen in Bezug auf den Nettogewinn an Kohlenhydraten und die Regeneration?",
+      "ja": "カルビン回路中、3分子のCO2が回路に入ります。提供された情報に基づき、これら3分子のCO2からの炭素原子が、正味の炭水化物獲得と再生に関してどのような運命をたどるか説明してください。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "All three CO2 molecules are incorporated into a single molecule of glucose, which then exits the cycle.",
+          "zh": "所有三个CO2分子都融入一个葡萄糖分子中，然后离开循环。",
+          "es": "Las tres moléculas de CO2 se incorporan a una sola molécula de glucosa, que luego sale del ciclo.",
+          "fr": "Les trois molécules de CO2 sont incorporées dans une seule molécule de glucose, qui quitte ensuite le cycle.",
+          "de": "Alle drei CO2-Moleküle werden in ein einzelnes Glukosemolekül eingebaut, das dann den Zyklus verlässt.",
+          "ja": "3つのCO2分子すべてが1つのグルコース分子に組み込まれ、その後回路を離れる。"
+        },
+        "feedback": {
+          "en": "The Calvin cycle produces G3P, a three-carbon sugar, not glucose directly. For every three CO2, only one G3P is a net gain.",
+          "zh": "卡尔文循环直接产生的是三碳糖G3P，而不是葡萄糖。每三个CO2分子，只有一分子G3P是净增益。",
+          "es": "El ciclo de Calvin produce G3P, un azúcar de tres carbonos, no glucosa directamente. Por cada tres CO2, solo un G3P es una ganancia neta.",
+          "fr": "Le cycle de Calvin produit du G3P, un sucre à trois carbones, et non directement du glucose. Pour chaque groupe de trois CO2, seul un G3P constitue un gain net.",
+          "de": "Der Calvin-Zyklus produziert G3P, einen Dreikohlenstoffzucker, nicht direkt Glukose. Pro drei CO2-Moleküle ist nur ein G3P ein Nettogewinn.",
+          "ja": "カルビン回路は直接グルコースではなく、3炭糖であるG3Pを生成します。3分子のCO2ごとに、1分子のG3Pが正味の獲得となります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The carbons from three CO2 molecules combine with three RuBP molecules to form six molecules of G3P, with one G3P molecule being a net gain for carbohydrate synthesis and the other five regenerating RuBP.",
+          "zh": "三个CO2分子中的碳与三个RuBP分子结合，形成六个G3P分子，其中一个G3P分子是碳水化合物合成的净增益，其余五个用于再生RuBP。",
+          "es": "Los carbonos de tres moléculas de CO2 se combinan con tres moléculas de RuBP para formar seis moléculas de G3P, siendo una molécula de G3P una ganancia neta para la síntesis de carbohidratos y las otras cinco regenerando RuBP.",
+          "fr": "Les carbones de trois molécules de CO2 se combinent avec trois molécules de RuBP pour former six molécules de G3P, dont une molécule de G3P constitue un gain net pour la synthèse de glucides et les cinq autres servant à régénérer le RuBP.",
+          "de": "Die Kohlenstoffe aus drei CO2-Molekülen verbinden sich mit drei RuBP-Molekülen, um sechs G3P-Moleküle zu bilden, wobei ein G3P-Molekül ein Nettogewinn für die Kohlenhydratsynthese ist und die anderen fünf RuBP regenerieren.",
+          "ja": "3分子のCO2からの炭素は、3分子のRuBPと結合して6分子のG3Pを形成し、そのうち1分子のG3Pは炭水化物合成の正味の獲得であり、残りの5分子はRuBPを再生するために使用される。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Three molecules of CO2 are reduced to form three molecules of G3P, all of which exit the cycle as net carbohydrate.",
+          "zh": "三个CO2分子被还原形成三个G3P分子，所有这些分子都作为净碳水化合物离开循环。",
+          "es": "Tres moléculas de CO2 se reducen para formar tres moléculas de G3P, todas las cuales salen del ciclo como carbohidratos netos.",
+          "fr": "Trois molécules de CO2 sont réduites pour former trois molécules de G3P, toutes sortant du cycle en tant que glucides nets.",
+          "de": "Drei CO2-Moleküle werden zu drei G3P-Molekülen reduziert, die alle als Netto-Kohlenhydrate den Zyklus verlassen.",
+          "ja": "3分子のCO2が還元されて3分子のG3Pを形成し、そのすべてが正味の炭水化物として回路を出る。"
+        },
+        "feedback": {
+          "en": "For every 3 CO2, 6 G3P molecules are formed, not 3. Also, only one G3P is a net gain; the rest are used for regeneration.",
+          "zh": "每3个CO2分子，会形成6个G3P分子，而不是3个。而且，只有一个G3P是净增益；其余的用于再生。",
+          "es": "Por cada 3 CO2, se forman 6 moléculas de G3P, no 3. Además, solo un G3P es una ganancia neta; el resto se utiliza para la regeneración.",
+          "fr": "Pour 3 molécules de CO2, 6 molécules de G3P sont formées, et non 3. De plus, seul un G3P est un gain net ; les autres sont utilisés pour la régénération.",
+          "de": "Pro 3 CO2 werden 6 G3P-Moleküle gebildet, nicht 3. Außerdem ist nur ein G3P ein Nettogewinn; der Rest wird zur Regeneration verwendet.",
+          "ja": "3分子のCO2につき、6分子のG3Pが生成され、3分子ではありません。また、1分子のG3Pのみが正味の獲得であり、残りは再生のために使用されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Each CO2 molecule attaches to RuBP, forming a stable six-carbon intermediate that directly becomes G3P.",
+          "zh": "每个CO2分子附着在RuBP上，形成一个稳定的六碳中间体，然后直接变成G3P。",
+          "es": "Cada molécula de CO2 se une a RuBP, formando un intermedio estable de seis carbonos que directamente se convierte en G3P.",
+          "fr": "Chaque molécule de CO2 s'attache au RuBP, formant un intermédiaire stable à six carbones qui devient directement du G3P.",
+          "de": "Jedes CO2-Molekül bindet an RuBP und bildet ein stabiles Sechskohlenstoff-Zwischenprodukt, das direkt zu G3P wird.",
+          "ja": "各CO2分子はRuBPに結合し、安定した6炭素中間体を形成し、それが直接G3Pになる。"
+        },
+        "feedback": {
+          "en": "The six-carbon intermediate formed by CO2 and RuBP is explicitly stated to be 'short-lived because it is so energetically unstable' and immediately splits into two molecules of 3-phosphoglycerate.",
+          "zh": "CO2和RuBP形成的六碳中间体被明确指出“寿命很短，因为它在能量上非常不稳定”，并立即分裂成两个3-磷酸甘油酸分子。",
+          "es": "Se afirma explícitamente que el intermedio de seis carbonos formado por CO2 y RuBP es 'de vida corta porque es energéticamente inestable' y se divide inmediatamente en dos moléculas de 3-fosfoglicerato.",
+          "fr": "L'intermédiaire à six carbones formé par le CO2 et le RuBP est explicitement décrit comme étant 'de courte durée car il est énergétiquement instable' et se divise immédiatement en deux molécules de 3-phosphoglycérate.",
+          "de": "Das aus CO2 und RuBP gebildete Sechskohlenstoff-Zwischenprodukt wird explizit als 'kurzlebig, weil es energetisch so instabil ist' beschrieben und spaltet sich sofort in zwei Moleküle 3-Phosphoglycerat auf.",
+          "ja": "CO2とRuBPによって形成される6炭素中間体は、「エネルギー的に非常に不安定であるため短命」であり、すぐに2分子の3-ホスホグリセリン酸に分裂すると明記されています。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Rubisco catalyzes the formation of 1,3-bisphosphoglycerate from CO2 and RuBP, which then receives electrons from ATP to form G3P.",
+          "zh": "Rubisco催化CO2和RuBP形成1,3-二磷酸甘油酸，然后它从ATP接收电子形成G3P。",
+          "es": "Rubisco cataliza la formación de 1,3-bifosfoglicerato a partir de CO2 y RuBP, que luego recibe electrones del ATP para formar G3P.",
+          "fr": "La Rubisco catalyse la formation de 1,3-bisphosphoglycérate à partir de CO2 et de RuBP, qui reçoit ensuite des électrons de l'ATP pour former du G3P.",
+          "de": "Rubisco katalysiert die Bildung von 1,3-Bisphosphoglycerat aus CO2 und RuBP, welches dann Elektronen von ATP erhält, um G3P zu bilden.",
+          "ja": "RubiscoはCO2とRuBPから1,3-ビスホスホグリセリン酸の形成を触媒し、その後ATPから電子を受け取ってG3Pを形成する。"
+        },
+        "feedback": {
+          "en": "Rubisco catalyzes the formation of the unstable six-carbon intermediate which immediately splits into two molecules of 3-phosphoglycerate, not 1,3-bisphosphoglycerate. ATP provides a phosphate group, and NADPH provides electrons for reduction.",
+          "zh": "Rubisco催化形成不稳定的六碳中间体，它会立即分裂成两个3-磷酸甘油酸分子，而不是1,3-二磷酸甘油酸。ATP提供磷酸基团，NADPH提供电子用于还原。",
+          "es": "Rubisco cataliza la formación del intermedio inestable de seis carbonos que inmediatamente se divide en dos moléculas de 3-fosfoglicerato, no 1,3-bifosfoglicerato. El ATP proporciona un grupo fosfato y el NADPH proporciona electrones para la reducción.",
+          "fr": "La Rubisco catalyse la formation de l'intermédiaire instable à six carbones qui se divise immédiatement en deux molécules de 3-phosphoglycérate, et non de 1,3-bisphosphoglycérate. L'ATP fournit un groupe phosphate, et le NADPH fournit des électrons pour la réduction.",
+          "de": "Rubisco katalysiert die Bildung des instabilen Sechskohlenstoff-Zwischenprodukts, das sofort in zwei Moleküle 3-Phosphoglycerat und nicht 1,3-Bisphosphoglycerat zerfällt. ATP liefert eine Phosphatgruppe und NADPH liefert Elektronen für die Reduktion.",
+          "ja": "Rubiscoは不安定な6炭素中間体の形成を触媒し、それは直ちに2分子の3-ホスホグリセリン酸に分裂し、1,3-ビスホスホグリセリン酸ではありません。ATPはリン酸基を提供し、NADPHは還元のために電子を提供します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that for every three molecules of CO2 that enter the cycle, six molecules of G3P are formed. However, only one molecule of G3P can be counted as a net gain for carbohydrate synthesis; the other five molecules are recycled to regenerate the three molecules of RuBP, ensuring the cycle continues.",
+      "zh": "文本解释说，每三个CO2分子进入循环，就会形成六个G3P分子。然而，只有一个G3P分子能被算作碳水化合物合成的净增益；其余的五个分子会被循环利用以再生三个RuBP分子，从而确保循环的持续进行。",
+      "es": "El texto explica que por cada tres moléculas de CO2 que entran en el ciclo, se forman seis moléculas de G3P. Sin embargo, solo una molécula de G3P puede considerarse una ganancia neta para la síntesis de carbohidratos; las otras cinco moléculas se reciclan para regenerar las tres moléculas de RuBP, asegurando la continuidad del ciclo.",
+      "fr": "Le texte explique que pour trois molécules de CO2 qui entrent dans le cycle, six molécules de G3P sont formées. Cependant, seule une molécule de G3P peut être considérée comme un gain net pour la synthèse des glucides ; les cinq autres molécules sont recyclées pour régénérer les trois molécules de RuBP, assurant la continuité du cycle.",
+      "de": "Der Text erklärt, dass pro drei CO2-Moleküle, die in den Zyklus eintreten, sechs G3P-Moleküle gebildet werden. Jedoch kann nur ein G3P-Molekül als Nettogewinn für die Kohlenhydratsynthese gezählt werden; die anderen fünf Moleküle werden recycelt, um die drei RuBP-Moleküle zu regenerieren, wodurch der Zyklus fortgesetzt wird.",
+      "ja": "本文によると、3分子のCO2が回路に入ると、6分子のG3Pが生成されます。しかし、炭水化物合成の純利益として数えられるのは1分子のG3Pのみであり、残りの5分子は3分子のRuBPを再生するためにリサイクルされ、回路が継続されます。"
+    }
+  }
+]

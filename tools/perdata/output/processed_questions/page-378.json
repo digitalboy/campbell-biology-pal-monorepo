@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 378,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 16.21 and the accompanying text, which of the following is the primary reason for the shortening of linear DNA molecules with each round of replication?",
+      "zh": "根据图 16.21 和附带的文本，以下哪项是线性 DNA 分子在每次复制后缩短的主要原因？",
+      "es": "Según la Figura 16.21 y el texto adjunto, ¿cuál de las siguientes es la razón principal del acortamiento de las moléculas de ADN lineal con cada ronda de replicación?",
+      "fr": "Selon la Figure 16.21 et le texte d'accompagnement, quelle est la raison principale du raccourcissement des molécules d'ADN linéaire à chaque cycle de réplication ?",
+      "de": "Gemäß Abbildung 16.21 und dem begleitenden Text, welcher der folgenden Gründe ist der Hauptgrund für die Verkürzung linearer DNA-Moleküle bei jeder Replikationsrunde?",
+      "ja": "図16.21および付属のテキストによると、線状DNA分子が複製ごとに短縮する主な理由として、次のうちどれが挙げられますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The leading strand cannot be fully replicated to its 3' end.",
+          "zh": "前导链无法完全复制到其 3' 端。",
+          "es": "La cadena principal no se puede replicar completamente hasta su extremo 3'.",
+          "fr": "Le brin principal ne peut pas être entièrement répliqué jusqu'à son extrémité 3'.",
+          "de": "Der Leitstrang kann nicht vollständig bis zu seinem 3'-Ende repliziert werden.",
+          "ja": "リーディング鎖がその3'末端まで完全に複製できないため。"
+        },
+        "feedback": {
+          "en": "The issue of shortening primarily affects the lagging strand, not the leading strand, due to the removal of its RNA primer.",
+          "zh": "缩短问题主要影响滞后链，而不是前导链，这是由于其 RNA 引物的移除。",
+          "es": "El problema del acortamiento afecta principalmente a la cadena rezagada, no a la principal, debido a la eliminación de su cebador de ARN.",
+          "fr": "Le problème du raccourcissement affecte principalement le brin retardé, et non le brin principal, en raison de l'élimination de son amorce d'ARN.",
+          "de": "Das Problem der Verkürzung betrifft hauptsächlich den Folgestrang, nicht den Leitstrang, aufgrund der Entfernung seines RNA-Primers.",
+          "ja": "短縮の問題は主にラギング鎖に影響を与え、リーディング鎖には影響を与えません。これはRNAプライマーが除去されるためです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "RNA primers are removed from the 5' end of new lagging strands, and there is no 3' end for DNA polymerase to extend.",
+          "zh": "RNA 引物从新滞后链的 5' 端移除后，没有 3' 端可供 DNA 聚合酶延伸。",
+          "es": "Los cebadores de ARN se eliminan del extremo 5' de las nuevas cadenas rezagadas, y no hay un extremo 3' para que la ADN polimerasa lo extienda.",
+          "fr": "Les amorces d'ARN sont retirées de l'extrémité 5' des nouveaux brins retardés, et il n'y a pas d'extrémité 3' disponible pour que l'ADN polymérase l'étende.",
+          "de": "RNA-Primer werden vom 5'-Ende neuer Folgestränge entfernt, und es gibt kein 3'-Ende, das die DNA-Polymerase verlängern könnte.",
+          "ja": "新しいラギング鎖の5'末端からRNAプライマーが除去され、DNAポリメラーゼが伸長するための3'末端がないため。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "DNA polymerase I is unable to synthesize DNA in the 5' to 3' direction.",
+          "zh": "DNA 聚合酶 I 无法以 5' 到 3' 的方向合成 DNA。",
+          "es": "La ADN polimerasa I es incapaz de sintetizar ADN en la dirección 5' a 3'.",
+          "fr": "L'ADN polymérase I est incapable de synthétiser l'ADN dans le sens 5' vers 3'.",
+          "de": "DNA-Polymerase I ist nicht in der Lage, DNA in 5'- nach 3'-Richtung zu synthetisieren.",
+          "ja": "DNAポリメラーゼIが5'から3'方向へのDNA合成ができないため。"
+        },
+        "feedback": {
+          "en": "DNA polymerase I does synthesize DNA in the 5' to 3' direction and is involved in primer replacement, but the issue at the very end of linear DNA is distinct.",
+          "zh": "DNA 聚合酶 I 确实以 5' 到 3' 的方向合成 DNA，并参与引物替换，但线性 DNA 末端的特殊问题是不同的。",
+          "es": "La ADN polimerasa I sí sintetiza ADN en la dirección 5' a 3' y participa en el reemplazo del cebador, pero el problema en el extremo de la ADN lineal es distinto.",
+          "fr": "L'ADN polymérase I synthétise bien l'ADN dans le sens 5' vers 3' et est impliquée dans le remplacement des amorces, mais le problème à l'extrémité de l'ADN linéaire est distinct.",
+          "de": "DNA-Polymerase I synthetisiert DNA sehr wohl in 5'- nach 3'-Richtung und ist am Primer-Ersatz beteiligt, aber das Problem am äußersten Ende linearer DNA ist ein anderes.",
+          "ja": "DNAポリメラーゼIは確かに5'から3'方向へDNAを合成し、プライマーの置換に関与しますが、線状DNAの末端での問題はこれとは異なります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA ligase fails to join the last Okazaki fragment to the rest of the lagging strand.",
+          "zh": "DNA 连接酶未能将最后一个冈崎片段连接到滞后链的其余部分。",
+          "es": "La ADN ligasa no logra unir el último fragmento de Okazaki al resto de la cadena rezagada.",
+          "fr": "L'ADN ligase ne parvient pas à lier le dernier fragment d'Okazaki au reste du brin retardé.",
+          "de": "Die DNA-Ligase versagt beim Verknüpfen des letzten Okazaki-Fragments mit dem Rest des Folgestrangs.",
+          "ja": "DNAリガーゼが最後の岡崎フラグメントをラギング鎖の残りの部分に結合できないため。"
+        },
+        "feedback": {
+          "en": "While DNA ligase joins fragments, the fundamental issue leading to shortening is the inability to fill the gap left by the final RNA primer at the very 5' end of the new strand.",
+          "zh": "虽然 DNA 连接酶连接片段，但导致缩短的根本问题是无法填补新链最 5' 端最后一个 RNA 引物留下的空隙。",
+          "es": "Aunque la ADN ligasa une fragmentos, el problema fundamental que conduce al acortamiento es la incapacidad de llenar el hueco dejado por el último cebador de ARN en el extremo 5' de la nueva cadena.",
+          "fr": "Bien que l'ADN ligase relie les fragments, le problème fondamental menant au raccourcissement est l'incapacité de combler le vide laissé par la dernière amorce d'ARN à l'extrémité 5' du nouveau brin.",
+          "de": "Obwohl die DNA-Ligase Fragmente verbindet, ist das grundlegende Problem, das zur Verkürzung führt, die Unfähigkeit, die Lücke zu füllen, die der letzte RNA-Primer am äußersten 5'-Ende des neuen Strangs hinterlässt.",
+          "ja": "DNAリガーゼはフラグメントを結合しますが、短縮を引き起こす根本的な問題は、新しい鎖の最末端の5'側に残された最終RNAプライマーによるギャップを埋めることができないことです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Linear DNA molecules shorten with each replication because DNA polymerase cannot synthesize DNA without a pre-existing 3' hydroxyl group to add nucleotides. On the lagging strand, after the final RNA primer is removed from the 5' end of the newly synthesized strand, there is no adjacent 3' end available for DNA polymerase to fill this gap, leading to progressive shortening.",
+      "zh": "线性 DNA 分子在每次复制后都会缩短，因为 DNA 聚合酶在没有预先存在的 3' 羟基的情况下无法合成 DNA 来添加核苷酸。在滞后链上，当新合成链 5' 末端的最后一个 RNA 引物被移除后，没有相邻的 3' 端可供 DNA 聚合酶填充此空隙，从而导致进行性缩短。",
+      "es": "Las moléculas de ADN lineal se acortan con cada replicación porque la ADN polimerasa no puede sintetizar ADN sin un grupo hidroxilo 3' preexistente para añadir nucleótidos. En la cadena rezagada, después de que el último cebador de ARN se elimina del extremo 5' de la cadena recién sintetizada, no hay un extremo 3' adyacente disponible para que la ADN polimerasa llene este espacio, lo que lleva a un acortamiento progresivo.",
+      "fr": "Les molécules d'ADN linéaire raccourcissent à chaque réplication car l'ADN polymérase ne peut pas synthétiser l'ADN sans un groupe hydroxyle 3' préexistant pour ajouter des nucléotides. Sur le brin retardé, après que la dernière amorce d'ARN est retirée de l'extrémité 5' du brin nouvellement synthétisé, il n'y a pas d'extrémité 3' adjacente disponible pour que l'ADN polymérase comble cet espace, ce qui entraîne un raccourcissement progressif.",
+      "de": "Lineare DNA-Moleküle verkürzen sich bei jeder Replikation, weil die DNA-Polymerase ohne eine bereits vorhandene 3'-Hydroxylgruppe keine DNA synthetisieren kann, um Nukleotide anzufügen. Am Folgestrang ist nach Entfernung des letzten RNA-Primers vom 5'-Ende des neu synthetisierten Strangs kein angrenzendes 3'-Ende verfügbar, damit die DNA-Polymerase diese Lücke füllen könnte, was zu einer fortschreitenden Verkürzung führt.",
+      "ja": "線状DNA分子は複製ごとに短縮します。これは、DNAポリメラーゼがヌクレオチドを追加するために、既存の3'ヒドロキシル基なしにはDNAを合成できないためです。ラギング鎖では、新しく合成された鎖の5'末端から最後のRNAプライマーが除去された後、DNAポリメラーゼがこのギャップを埋めるための隣接する3'末端が存在しないため、徐々に短縮が進みます。"
+    }
+  },
+  {
+    "page_number": 378,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes the activity and significance of telomerase in eukaryotic cells, as discussed in the text?",
+      "zh": "根据文本讨论，以下哪项陈述准确描述了端粒酶在真核细胞中的活性和重要性？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión la actividad y el significado de la telomerasa en las células eucariotas, según se discute en el texto?",
+      "fr": "Parmi les affirmations suivantes, laquelle décrit avec précision l'activité et l'importance de la télomérase dans les cellules eucaryotes, telles que discutées dans le texte ?",
+      "de": "Welche der folgenden Aussagen beschreibt die Aktivität und Bedeutung der Telomerase in eukaryotischen Zellen, wie im Text besprochen, korrekt?",
+      "ja": "テキストで議論されているように、真核細胞におけるテロメラーゼの活性と重要性について、次の記述のうちどれが正確ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Telomerase is highly active in most human somatic cells, preventing telomere shortening and thus contributing to cellular aging.",
+          "zh": "端粒酶在大多数人体体细胞中高度活跃，阻止端粒缩短，从而导致细胞衰老。",
+          "es": "La telomerasa es altamente activa en la mayoría de las células somáticas humanas, previniendo el acortamiento de los telómeros y contribuyendo así al envejecimiento celular.",
+          "fr": "La télomérase est très active dans la plupart des cellules somatiques humaines, empêchant le raccourcissement des télomères et contribuant ainsi au vieillissement cellulaire.",
+          "de": "Telomerase ist in den meisten menschlichen somatischen Zellen hochaktiv, verhindert die Telomerverkürzung und trägt somit zur Zellalterung bei.",
+          "ja": "テロメラーゼはほとんどのヒト体細胞で非常に活発であり、テロメアの短縮を防ぎ、それによって細胞の老化を促進します。"
+        },
+        "feedback": {
+          "en": "Telomerase is generally *not* active in most human somatic cells. Its *absence* and the resulting telomere shortening are linked to cellular aging.",
+          "zh": "端粒酶在大多数人体体细胞中通常不活跃。它的缺失以及由此导致的端粒缩短与细胞衰老有关。",
+          "es": "La telomerasa generalmente *no* es activa en la mayoría de las células somáticas humanas. Su *ausencia* y el acortamiento resultante de los telómeros están relacionados con el envejecimiento celular.",
+          "fr": "La télomérase n'est généralement *pas* active dans la plupart des cellules somatiques humaines. Son *absence* et le raccourcissement des télomères qui en résulte sont liés au vieillissement cellulaire.",
+          "de": "Telomerase ist in den meisten menschlichen somatischen Zellen im Allgemeinen *nicht* aktiv. Ihre *Abwesenheit* und die daraus resultierende Telomerverkürzung sind mit der Zellalterung verbunden.",
+          "ja": "テロメラーゼは通常、ほとんどのヒト体細胞では活性化していません。その欠如と、それに伴うテロメアの短縮が細胞の老化と関連しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Telomerase ensures that telomeres remain at maximum length in germ cells, which is crucial for passing complete genetic information to offspring.",
+          "zh": "端粒酶确保生殖细胞中的端粒保持最大长度，这对于将完整的遗传信息传递给后代至关重要。",
+          "es": "La telomerasa asegura que los telómeros mantengan su longitud máxima en las células germinales, lo cual es crucial para transmitir información genética completa a la descendencia.",
+          "fr": "La télomérase garantit que les télomères conservent leur longueur maximale dans les cellules germinales, ce qui est crucial pour transmettre des informations génétiques complètes à la descendance.",
+          "de": "Telomerase sorgt dafür, dass die Telomere in Keimzellen maximale Länge behalten, was für die Weitergabe vollständiger genetischer Informationen an Nachkommen entscheidend ist.",
+          "ja": "テロメラーゼは生殖細胞においてテロメアが最大の長さを保つことを保証し、これは完全な遺伝情報を子孫に伝える上で不可欠です。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Telomerase functions by using a DNA template to synthesize new DNA at the 3' end of the lagging strand.",
+          "zh": "端粒酶通过使用 DNA 模板在滞后链的 3' 端合成新 DNA 而发挥作用。",
+          "es": "La telomerasa funciona utilizando una plantilla de ADN para sintetizar ADN nuevo en el extremo 3' de la cadena rezagada.",
+          "fr": "La télomérase fonctionne en utilisant un modèle d'ADN pour synthétiser un nouvel ADN à l'extrémité 3' du brin retardé.",
+          "de": "Telomerase funktioniert, indem sie eine DNA-Vorlage verwendet, um neue DNA am 3'-Ende des Folgestrangs zu synthetisieren.",
+          "ja": "テロメラーゼはDNAテンプレートを使用して、ラギング鎖の3'末端に新しいDNAを合成することで機能します。"
+        },
+        "feedback": {
+          "en": "Telomerase contains and uses an *RNA* template, not a DNA template, to extend the *leading* strand template, which then allows for lagging strand synthesis.",
+          "zh": "端粒酶包含并使用 *RNA* 模板，而不是 DNA 模板，来延伸 *前导链* 模板，从而允许滞后链的合成。",
+          "es": "La telomerasa contiene y utiliza una plantilla de *ARN*, no una plantilla de ADN, para extender la plantilla de la cadena *principal*, lo que luego permite la síntesis de la cadena rezagada.",
+          "fr": "La télomérase contient et utilise un modèle d'*ARN*, non un modèle d'ADN, pour étendre le modèle du brin *principal*, ce qui permet ensuite la synthèse du brin retardé.",
+          "de": "Telomerase enthält und verwendet eine *RNA*-Vorlage, nicht eine DNA-Vorlage, um den *Leitstrang*-Template zu verlängern, was dann die Synthese des Folgestrangs ermöglicht.",
+          "ja": "テロメラーゼはDNAテンプレートではなく*RNA*テンプレートを含み、それを使用して*リーディング*鎖のテンプレートを伸長し、その結果ラギング鎖の合成を可能にします。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The inhibition of telomerase in cancerous somatic cells consistently leads to their self-destruction and is a fully effective cancer therapy.",
+          "zh": "在癌变体细胞中抑制端粒酶会持续导致其自我毁灭，并且是一种完全有效的癌症疗法。",
+          "es": "La inhibición de la telomerasa en las células somáticas cancerosas conduce consistentemente a su autodestrucción y es una terapia contra el cáncer totalmente efectiva.",
+          "fr": "L'inhibition de la télomérase dans les cellules somatiques cancéreuses entraîne systématiquement leur autodestruction et constitue une thérapie anticancéreuse entièrement efficace.",
+          "de": "Die Hemmung der Telomerase in krebsartigen somatischen Zellen führt konsequent zu deren Selbstzerstörung und ist eine vollständig wirksame Krebstherapie.",
+          "ja": "癌化した体細胞におけるテロメラーゼの抑制は、一貫してその自己破壊を引き起こし、完全に効果的な癌治療法です。"
+        },
+        "feedback": {
+          "en": "The text states that telomerase inhibition is an 'area of ongoing research' and notes that cells have restored telomere length by 'an alternative pathway,' implying it's not consistently effective or fully understood as a therapy.",
+          "zh": "文本指出，端粒酶抑制是“一个正在进行的研究领域”，并指出细胞已通过“替代途径”恢复了端粒长度，这意味着它作为一种疗法并非持续有效或完全理解。",
+          "es": "El texto indica que la inhibición de la telomerasa es un 'área de investigación en curso' y señala que las células han restaurado la longitud de los telómeros mediante 'una vía alternativa', lo que implica que no es consistentemente efectiva ni completamente comprendida como terapia.",
+          "fr": "Le texte indique que l'inhibition de la télomérase est un 'domaine de recherche en cours' et note que les cellules ont restauré la longueur des télomères par 'une voie alternative', ce qui implique qu'elle n'est pas toujours efficace ou pleinement comprise comme thérapie.",
+          "de": "Der Text besagt, dass die Telomerase-Hemmung ein 'Bereich der laufenden Forschung' ist und dass Zellen die Telomerlänge durch 'einen alternativen Weg' wiederhergestellt haben, was impliziert, dass sie als Therapie nicht durchgängig wirksam oder vollständig verstanden ist.",
+          "ja": "テキストには、テロメラーゼ抑制が「継続的な研究分野」であると述べられており、細胞が「代替経路」によってテロメアの長さを回復させたことが示されており、治療法として常に効果的であるわけではなく、完全に理解されているわけでもないことを示唆しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'The activity of telomerase in germ cells results in telomeres of maximum length in the zygote.' It also highlights that if germ cell chromosomes shortened, essential genes would be missing from gametes, underscoring the importance of telomerase in maintaining genetic integrity for offspring. Conversely, telomerase is generally not active in most somatic cells, and its inhibition in cancer cells is an active but complex area of research.",
+      "zh": "文本明确指出：“生殖细胞中端粒酶的活性导致受精卵中的端粒达到最大长度。”它还强调，如果生殖细胞染色体缩短，重要的基因将从配子中丢失，这强调了端粒酶在维持后代遗传完整性方面的重要性。相反，端粒酶通常在大多数体细胞中不活跃，其在癌细胞中的抑制是一个活跃但复杂的研究领域。",
+      "es": "El texto establece explícitamente: 'La actividad de la telomerasa en las células germinales resulta en telómeros de máxima longitud en el cigoto'. También destaca que si los cromosomas de las células germinales se acortaran, los genes esenciales faltarían en los gametos, lo que subraya la importancia de la telomerasa para mantener la integridad genética para la descendencia. Por el contrario, la telomerasa generalmente no es activa en la mayoría de las células somáticas, y su inhibición en las células cancerosas es un área de investigación activa pero compleja.",
+      "fr": "Le texte indique explicitement : « L'activité de la télomérase dans les cellules germinales aboutit à des télomères de longueur maximale dans le zygote. » Il souligne également que si les chromosomes des cellules germinales raccourcissaient, des gènes essentiels manqueraient aux gamètes, soulignant l'importance de la télomérase pour maintenir l'intégrité génétique de la descendance. Inversement, la télomérase n'est généralement pas active dans la plupart des cellules somatiques, et son inhibition dans les cellules cancéreuses est un domaine de recherche actif mais complexe.",
+      "de": "Der Text besagt ausdrücklich: 'Die Aktivität der Telomerase in Keimzellen führt zu Telomeren von maximaler Länge in der Zygote.' Er hebt auch hervor, dass bei einer Verkürzung der Keimzellchromosomen essentielle Gene in den Gameten fehlen würden, was die Bedeutung der Telomerase für die Aufrechterhaltung der genetischen Integrität für die Nachkommen unterstreicht. Umgekehrt ist Telomerase in den meisten somatischen Zellen im Allgemeinen nicht aktiv, und ihre Hemmung in Krebszellen ist ein aktives, aber komplexes Forschungsgebiet.",
+      "ja": "本文には「生殖細胞におけるテロメラーゼの活性は、接合子においてテロメアが最大の長さになる結果をもたらす」と明記されています。また、もし生殖細胞の染色体が短縮すれば、重要な遺伝子が配偶子から失われることになり、子孫に遺伝的完全性を維持する上でテロメラーゼがいかに重要であるかを強調しています。対照的に、テロメラーゼは一般的にほとんどの体細胞では活性化しておらず、癌細胞におけるその阻害は活発ではあるものの複雑な研究分野です。"
+    }
+  },
+  {
+    "page_number": 378,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The text posits that 'Normal shortening of telomeres may protect organisms from cancer by limiting the number of divisions that somatic cells can undergo.' Considering this, and the broader discussion on telomeres and telomerase, which of the following statements represents the most accurate synthesis of the information?",
+      "zh": "文本提出：“端粒的正常缩短可能通过限制体细胞分裂的次数来保护生物体免受癌症侵害。”考虑到这一点，以及关于端粒和端粒酶的广泛讨论，以下哪项陈述最准确地综合了这些信息？",
+      "es": "El texto postula que 'El acortamiento normal de los telómeros puede proteger a los organismos del cáncer al limitar el número de divisiones que las células somáticas pueden sufrir'. Considerando esto, y la discusión más amplia sobre telómeros y telomerasa, ¿cuál de las siguientes afirmaciones representa la síntesis más precisa de la información?",
+      "fr": "Le texte postule que « Le raccourcissement normal des télomères pourrait protéger les organismes du cancer en limitant le nombre de divisions que les cellules somatiques peuvent subir. » Compte tenu de cela et de la discussion plus large sur les télomères et la télomérase, laquelle des affirmations suivantes représente la synthèse la plus précise de l'information ?",
+      "de": "Der Text postuliert: 'Die normale Verkürzung der Telomere könnte Organismen vor Krebs schützen, indem sie die Anzahl der Teilungen begrenzt, die somatische Zellen durchlaufen können.' In Anbetracht dessen und der umfassenderen Diskussion über Telomere und Telomerase, welche der folgenden Aussagen stellt die genaueste Synthese der Informationen dar?",
+      "ja": "本文は「テロメアの正常な短縮は、体細胞が分裂できる回数を制限することによって、生物を癌から守る可能性がある」と述べています。これを考慮し、テロメアとテロメラーゼに関するより広範な議論を踏まえて、次の記述のうちどれが最も正確な情報の統合を表していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Telomere shortening serves as a tumor suppressor mechanism in most somatic cells, while telomerase activity in germ cells ensures genomic stability for inheritance.",
+          "zh": "端粒缩短在大多数体细胞中起到肿瘤抑制作用，而生殖细胞中的端粒酶活性则确保了遗传的基因组稳定性。",
+          "es": "El acortamiento de los telómeros sirve como mecanismo supresor de tumores en la mayoría de las células somáticas, mientras que la actividad de la telomerasa en las células germinales asegura la estabilidad genómica para la herencia.",
+          "fr": "Le raccourcissement des télomères sert de mécanisme suppresseur de tumeurs dans la plupart des cellules somatiques, tandis que l'activité de la télomérase dans les cellules germinales assure la stabilité génomique pour l'héritage.",
+          "de": "Die Telomerverkürzung dient in den meisten somatischen Zellen als Tumorsuppressormechanismus, während die Telomeraseaktivität in Keimzellen die genomische Stabilität für die Vererbung gewährleistet.",
+          "ja": "テロメアの短縮はほとんどの体細胞において腫瘍抑制機構として機能し、一方、生殖細胞におけるテロメラーゼ活性は遺伝のためのゲノムの安定性を保証します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "High telomerase activity is always beneficial, promoting cellular longevity and preventing all forms of disease, including cancer.",
+          "zh": "高水平的端粒酶活性总是有益的，可以促进细胞寿命并预防包括癌症在内的所有形式的疾病。",
+          "es": "La alta actividad de la telomerasa siempre es beneficiosa, promoviendo la longevidad celular y previniendo todas las formas de enfermedades, incluido el cáncer.",
+          "fr": "Une activité télomérase élevée est toujours bénéfique, favorisant la longévité cellulaire et prévenant toutes les formes de maladies, y compris le cancer.",
+          "de": "Hohe Telomeraseaktivität ist immer vorteilhaft, fördert die zelluläre Langlebigkeit und beugt allen Krankheiten, einschließlich Krebs, vor.",
+          "ja": "高いテロメラーゼ活性は常に有益であり、細胞の寿命を延ばし、癌を含むあらゆる種類の病気を予防します。"
+        },
+        "feedback": {
+          "en": "The text indicates that 'Telomerase activity is abnormally high in cancerous somatic cells,' suggesting it can be detrimental when uncontrolled, contributing to cancer's persistence.",
+          "zh": "文本指出“癌变体细胞中的端粒酶活性异常高”，这表明它在不受控制时可能是有害的，并导致癌症的持续存在。",
+          "es": "El texto indica que 'La actividad de la telomerasa es anormalmente alta en las células somáticas cancerosas', lo que sugiere que puede ser perjudicial cuando está descontrolada, contribuyendo a la persistencia del cáncer.",
+          "fr": "Le texte indique que « L'activité de la télomérase est anormalement élevée dans les cellules somatiques cancéreuses », suggérant qu'elle peut être préjudiciable lorsqu'elle est incontrôlée, contribuant à la persistance du cancer.",
+          "de": "Der Text weist darauf hin, dass 'Telomeraseaktivität in krebsartigen somatischen Zellen abnormal hoch ist', was darauf hindeutet, dass sie bei unkontrollierter Aktivität schädlich sein und zur Persistenz von Krebs beitragen kann.",
+          "ja": "本文には「癌化した体細胞ではテロメラーゼ活性が異常に高い」と記されており、これは制御不能な場合に有害となり、癌の持続に寄与する可能性があることを示唆しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The primary role of telomeres is to protect the ends of chromosomes from fusion and degradation, independent of cell division.",
+          "zh": "端粒的主要作用是保护染色体末端免受融合和降解，这与细胞分裂无关。",
+          "es": "La función principal de los telómeros es proteger los extremos de los cromosomas de la fusión y la degradación, independientemente de la división celular.",
+          "fr": "Le rôle principal des télomères est de protéger les extrémités des chromosomes de la fusion et de la dégradation, indépendamment de la division cellulaire.",
+          "de": "Die Hauptfunktion von Telomeren besteht darin, die Chromosomenenden vor Fusion und Abbau zu schützen, unabhängig von der Zellteilung.",
+          "ja": "テロメアの主な役割は、細胞分裂とは無関係に、染色体末端を融合や分解から保護することです。"
+        },
+        "feedback": {
+          "en": "While telomeres do protect chromosome ends, the text heavily emphasizes their dynamic nature in relation to *cell division* and its implications for aging and cancer, making the 'independent of cell division' part incorrect in this context.",
+          "zh": "虽然端粒确实保护染色体末端，但文本着重强调了它们与*细胞分裂*相关的动态性质及其对衰老和癌症的影响，因此“与细胞分裂无关”的部分在此语境下是不正确的。",
+          "es": "Si bien los telómeros protegen los extremos de los cromosomas, el texto enfatiza mucho su naturaleza dinámica en relación con la *división celular* y sus implicaciones para el envejecimiento y el cáncer, lo que hace que la parte de 'independiente de la división celular' sea incorrecta en este contexto.",
+          "fr": "Bien que les télomères protègent les extrémités des chromosomes, le texte insiste fortement sur leur nature dynamique en relation avec la *division cellulaire* et ses implications pour le vieillissement et le cancer, rendant la partie « indépendamment de la division cellulaire » incorrecte dans ce contexte.",
+          "de": "Obwohl Telomere die Chromosomenenden schützen, betont der Text stark ihre dynamische Natur in Bezug auf die *Zellteilung* und ihre Auswirkungen auf Alterung und Krebs, was den Teil „unabhängig von der Zellteilung“ in diesem Kontext falsch macht.",
+          "ja": "テロメアが染色体末端を保護する一方で、テキストでは*細胞分裂*との関連性におけるその動的な性質と、それが老化や癌に及ぼす影響が強く強調されており、「細胞分裂とは無関係」という部分は、この文脈においては正しくありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The shortening of telomeres is directly responsible for all age-related diseases and cannot be counteracted by any known biological mechanism.",
+          "zh": "端粒缩短直接导致所有与年龄相关的疾病，并且无法通过任何已知的生物学机制来抵消。",
+          "es": "El acortamiento de los telómeros es directamente responsable de todas las enfermedades relacionadas con la edad y no puede ser contrarrestado por ningún mecanismo biológico conocido.",
+          "fr": "Le raccourcissement des télomères est directement responsable de toutes les maladies liées à l'âge et ne peut être contrecarré par aucun mécanisme biologique connu.",
+          "de": "Die Verkürzung der Telomere ist direkt verantwortlich für alle altersbedingten Krankheiten und kann durch keinen bekannten biologischen Mechanismus aufgehoben werden.",
+          "ja": "テロメアの短縮はすべての加齢関連疾患に直接的な原因であり、既知の生物学的メカニズムによって対抗することはできません。"
+        },
+        "feedback": {
+          "en": "The text states shortening is 'somehow connected' to aging, not solely responsible. Also, telomerase *does* counteract shortening in germ cells, contradicting the second part of the statement.",
+          "zh": "文本指出缩短“某种程度上与”衰老有关，而不是唯一原因。此外，端粒酶确实在生殖细胞中抵消了缩短，这与陈述的后半部分相矛盾。",
+          "es": "El texto afirma que el acortamiento está 'de alguna manera conectado' con el envejecimiento, no es el único responsable. Además, la telomerasa *sí* contrarresta el acortamiento en las células germinales, lo que contradice la segunda parte de la afirmación.",
+          "fr": "Le texte indique que le raccourcissement est « en quelque sorte lié » au vieillissement, et non qu'il en est l'unique responsable. De plus, la télomérase *contrecarre* bien le raccourcissement dans les cellules germinales, ce qui contredit la deuxième partie de l'affirmation.",
+          "de": "Der Text besagt, dass die Verkürzung 'irgendwie mit' dem Altern verbunden ist, nicht ausschließlich dafür verantwortlich. Außerdem *wirkt* die Telomerase der Verkürzung in Keimzellen entgegen, was dem zweiten Teil der Aussage widerspricht.",
+          "ja": "本文では、短縮は老化と「何らかの形で関連している」と述べており、唯一の原因ではないとされています。また、テロメラーゼは生殖細胞において短縮を*打ち消す*働きがあるため、この記述の後半部分と矛盾します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text highlights two critical aspects: (1) 'Normal shortening of telomeres may protect organisms from cancer by limiting the number of divisions that somatic cells can undergo.' This establishes telomere shortening as a natural tumor suppression mechanism. (2) 'An enzyme called telomerase catalyzes the lengthening of telomeres in eukaryotic germ cells, thus restoring their original length and compensating for the shortening that occurs during DNA replication.' This explains how germ cells maintain genomic integrity across generations. Option A accurately combines these two key takeaways.",
+      "zh": "文本强调了两个关键方面：(1)“端粒的正常缩短可能通过限制体细胞分裂的次数来保护生物体免受癌症侵害。”这确立了端粒缩短作为一种天然的肿瘤抑制机制。(2)“一种叫做端粒酶的酶催化真核生殖细胞中端粒的延长，从而恢复其原始长度并补偿 DNA 复制过程中发生的缩短。”这解释了生殖细胞如何世代相传地保持基因组完整性。选项 A 准确地结合了这两个关键点。",
+      "es": "El texto destaca dos aspectos críticos: (1) 'El acortamiento normal de los telómeros puede proteger a los organismos del cáncer al limitar el número de divisiones que las células somáticas pueden sufrir'. Esto establece el acortamiento de los telómeros como un mecanismo natural de supresión de tumores. (2) 'Una enzima llamada telomerasa cataliza el alargamiento de los telómeros en las células germinales eucariotas, restaurando así su longitud original y compensando el acortamiento que ocurre durante la replicación del ADN'. Esto explica cómo las células germinales mantienen la integridad genómica a lo largo de las generaciones. La opción A combina con precisión estas dos ideas clave.",
+      "fr": "Le texte met en évidence deux aspects critiques : (1) « Le raccourcissement normal des télomères pourrait protéger les organismes du cancer en limitant le nombre de divisions que les cellules somatiques peuvent subir. » Cela établit le raccourcissement des télomères comme un mécanisme naturel de suppression des tumeurs. (2) « Une enzyme appelée télomérase catalyse l'allongement des télomères dans les cellules germinales eucaryotes, restaurant ainsi leur longueur originale et compensant le raccourcissement qui se produit pendant la réplication de l'ADN. » Cela explique comment les cellules germinales maintiennent l'intégrité génomique à travers les générations. L'option A combine précisément ces deux points clés.",
+      "de": "Der Text hebt zwei kritische Aspekte hervor: (1) „Die normale Verkürzung der Telomere könnte Organismen vor Krebs schützen, indem sie die Anzahl der Teilungen begrenzt, die somatische Zellen durchlaufen können.“ Dies etabliert die Telomerverkürzung als einen natürlichen Tumorsuppressionsmechanismus. (2) „Ein Enzym namens Telomerase katalysiert die Verlängerung der Telomere in eukaryotischen Keimzellen, wodurch deren ursprüngliche Länge wiederhergestellt und die während der DNA-Replikation auftretende Verkürzung kompensiert wird.“ Dies erklärt, wie Keimzellen die genomische Integrität über Generationen hinweg aufrechterhalten. Option A kombiniert diese beiden wichtigen Erkenntnisse genau.",
+      "ja": "本文は2つの重要な側面を強調しています。(1)「テロメアの正常な短縮は、体細胞が分裂できる回数を制限することによって、生物を癌から守る可能性がある」。これにより、テロメアの短縮が自然な腫瘍抑制メカニズムとして確立されます。(2)「テロメラーゼと呼ばれる酵素は、真核生殖細胞のテロメアの伸長を触媒し、それによって元の長さを回復させ、DNA複製中に起こる短縮を補償する」。これは、生殖細胞が世代を超えてゲノムの完全性を維持する方法を説明しています。選択肢Aは、これら2つの重要なポイントを正確に組み合わせています。"
+    }
+  }
+]

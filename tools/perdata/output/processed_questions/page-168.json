@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 168,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the description in the text, what is the primary composition of a proteoglycan molecule?",
+      "zh": "根据文本描述，蛋白聚糖分子的主要组成是什么？",
+      "es": "Según la descripción del texto, ¿cuál es la composición principal de una molécula de proteoglicano?",
+      "fr": "Selon la description du texte, quelle est la composition principale d'une molécule de protéoglycane?",
+      "de": "Basierend auf der Beschreibung im Text, was ist die Hauptzusammensetzung eines Proteoglykanmoleküls?",
+      "ja": "テキストの記述に基づくと、プロテオグリカン分子の主な組成は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Mostly protein",
+          "zh": "主要由蛋白质组成",
+          "es": "Principalmente proteína",
+          "fr": "Principalement des protéines",
+          "de": "Hauptsächlich Protein",
+          "ja": "主にタンパク質"
+        },
+        "feedback": {
+          "en": "While proteoglycans have a core protein, they are up to 95% carbohydrate.",
+          "zh": "虽然蛋白聚糖有一个核心蛋白质，但它们高达95%由碳水化合物组成。",
+          "es": "Aunque los proteoglicanos tienen una proteína central, son hasta un 95% carbohidratos.",
+          "fr": "Bien que les protéoglycanes aient une protéine centrale, ils sont composés jusqu'à 95% de glucides.",
+          "de": "Obwohl Proteoglykane ein Kernprotein besitzen, bestehen sie zu bis zu 95 % aus Kohlenhydraten.",
+          "ja": "プロテオグリカンはコアタンパク質を持っていますが、最大95%が炭水化物です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Mostly carbohydrate",
+          "zh": "主要由碳水化合物组成",
+          "es": "Principalmente carbohidratos",
+          "fr": "Principalement des glucides",
+          "de": "Hauptsächlich Kohlenhydrate",
+          "ja": "主に炭水化物"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Equal parts protein and lipid",
+          "zh": "蛋白质和脂质各占一半",
+          "es": "Partes iguales de proteína y lípido",
+          "fr": "Parts égales de protéines et de lipides",
+          "de": "Gleiche Teile Protein und Lipid",
+          "ja": "タンパク質と脂質が等量"
+        },
+        "feedback": {
+          "en": "Lipids are not mentioned as a primary component of proteoglycans in this context.",
+          "zh": "在此语境中，脂质并未被提及为蛋白聚糖的主要组成部分。",
+          "es": "Los lípidos no se mencionan como un componente principal de los proteoglicanos en este contexto.",
+          "fr": "Les lipides ne sont pas mentionnés comme un composant principal des protéoglycanes dans ce contexte.",
+          "de": "Lipide werden in diesem Kontext nicht als Hauptbestandteil von Proteoglykanen erwähnt.",
+          "ja": "この文脈では、脂質はプロテオグリカン分子の主要な構成要素として言及されていません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Mostly nucleic acid",
+          "zh": "主要由核酸组成",
+          "es": "Principalmente ácido nucleico",
+          "fr": "Principalement de l'acide nucléique",
+          "de": "Hauptsächlich Nukleinsäure",
+          "ja": "主に核酸"
+        },
+        "feedback": {
+          "en": "Nucleic acids are genetic material, not a primary component of proteoglycans.",
+          "zh": "核酸是遗传物质，不是蛋白聚糖的主要组成部分。",
+          "es": "Los ácidos nucleicos son material genético, no un componente principal de los proteoglicanos.",
+          "fr": "Les acides nucléiques sont du matériel génétique, pas un composant principal des protéoglycanes.",
+          "de": "Nukleinsäuren sind genetisches Material und kein Hauptbestandteil von Proteoglykanen.",
+          "ja": "核酸は遺伝物質であり、プロテオグリカンの主要な構成要素ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'A proteoglycan molecule consists of a small core protein with many carbohydrate chains covalently attached, so that it may be up to 95% carbohydrate.' This clearly indicates that proteoglycans are primarily composed of carbohydrates.",
+      "zh": "文本中提到：“一个蛋白聚糖分子由一个小的核心蛋白质和许多共价连接的碳水化合物链组成，因此它可能高达95%是碳水化合物。” 这清楚地表明蛋白聚糖主要由碳水化合物组成。",
+      "es": "El texto afirma: 'Una molécula de proteoglicano consiste en una pequeña proteína central con muchas cadenas de carbohidratos unidas covalentemente, de modo que puede ser hasta un 95% carbohidrato.' Esto indica claramente que los proteoglicanos están compuestos principalmente de carbohidratos.",
+      "fr": "Le texte indique : « Une molécule de protéoglycane est constituée d'une petite protéine centrale à laquelle de nombreuses chaînes de glucides sont attachées de manière covalente, de sorte qu'elle peut être composée jusqu'à 95% de glucides. » Cela indique clairement que les protéoglycanes sont principalement composés de glucides.",
+      "de": "Der Text besagt: 'Ein Proteoglykanmolekül besteht aus einem kleinen Kernprotein mit vielen kovalent gebundenen Kohlenhydratketten, so dass es bis zu 95 % aus Kohlenhydraten bestehen kann.' Dies zeigt deutlich, dass Proteoglykane hauptsächlich aus Kohlenhydraten bestehen.",
+      "ja": "テキストには「プロテオグリカン分子は、多くの炭水化物鎖が共有結合で付着した小さなコアタンパク質からなり、そのため最大95%が炭水化物である」と記載されています。これは、プロテオグリカンが主に炭水化物で構成されていることを明確に示しています。"
+    }
+  },
+  {
+    "page_number": 168,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A mutation causes integrins in a developing animal embryo to lose their ability to bind to intracellular microfilaments, while their extracellular matrix (ECM) binding remains intact. Which of the following cellular processes would most likely be directly impaired?",
+      "zh": "一个突变导致发育中的动物胚胎中的整合素丧失其与细胞内微丝结合的能力，但其与细胞外基质（ECM）的结合能力仍然完好。以下哪种细胞过程最可能直接受到损害？",
+      "es": "Una mutación hace que las integrinas en un embrión animal en desarrollo pierdan su capacidad de unirse a los microfilamentos intracelulares, mientras que su unión a la matriz extracelular (MEC) permanece intacta. ¿Cuál de los siguientes procesos celulares sería el más probable en verse directamente afectado?",
+      "fr": "Une mutation fait perdre aux intégrines d'un embryon animal en développement leur capacité à se lier aux microfilaments intracellulaires, tandis que leur liaison à la matrice extracellulaire (MEC) reste intacte. Lequel des processus cellulaires suivants serait le plus susceptible d'être directement altéré?",
+      "de": "Eine Mutation führt dazu, dass Integrine in einem sich entwickelnden tierischen Embryo ihre Fähigkeit verlieren, an intrazelluläre Mikrofilamente zu binden, während ihre Bindung an die extrazelluläre Matrix (ECM) intakt bleibt. Welcher der folgenden Zellprozesse wäre am wahrscheinlichsten direkt beeinträchtigt?",
+      "ja": "ある変異により、発生中の動物胚のインテグリンが細胞内微小繊維への結合能力を失ったが、細胞外マトリックス（ECM）への結合能力は無傷のままであった。次の細胞プロセスで、最も直接的に損なわれる可能性が高いのはどれか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Synthesis of new collagen fibers.",
+          "zh": "新胶原纤维的合成。",
+          "es": "Síntesis de nuevas fibras de colágeno.",
+          "fr": "Synthèse de nouvelles fibres de collagène.",
+          "de": "Synthese neuer Kollagenfasern.",
+          "ja": "新しいコラーゲン線維の合成。"
+        },
+        "feedback": {
+          "en": "Collagen synthesis is a separate process by fibroblasts and other cells, not directly dependent on integrin-microfilament binding for its formation.",
+          "zh": "胶原合成是成纤维细胞和其他细胞的一个独立过程，其形成不直接依赖于整合素-微丝结合。",
+          "es": "La síntesis de colágeno es un proceso separado realizado por fibroblastos y otras células, y no depende directamente de la unión integrina-microfilamento para su formación.",
+          "fr": "La synthèse de collagène est un processus distinct réalisé par les fibroblastes et d'autres cellules, qui ne dépend pas directement de la liaison intégrine-microfilament pour sa formation.",
+          "de": "Die Kollagensynthese ist ein separater Prozess von Fibroblasten und anderen Zellen und hängt nicht direkt von der Integrin-Mikrofilament-Bindung für ihre Bildung ab.",
+          "ja": "コラーゲンの合成は、線維芽細胞や他の細胞による別のプロセスであり、その形成はインテグリンと微小繊維の結合に直接依存していません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Transmission of signals from the ECM to the cell's interior, affecting gene expression and cell migration.",
+          "zh": "从细胞外基质向细胞内部传递信号，影响基因表达和细胞迁移。",
+          "es": "Transmisión de señales desde la MEC al interior de la célula, afectando la expresión génica y la migración celular.",
+          "fr": "Transmission des signaux de la MEC vers l'intérieur de la cellule, affectant l'expression génique et la migration cellulaire.",
+          "de": "Signalübertragung von der ECM ins Zellinnere, die Genexpression und Zellmigration beeinflusst.",
+          "ja": "ECMから細胞内部へのシグナル伝達、遺伝子発現および細胞移動への影響。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Formation of plasmodesmata between adjacent plant cells.",
+          "zh": "相邻植物细胞之间胞间连丝的形成。",
+          "es": "Formación de plasmodesmos entre células vegetales adyacentes.",
+          "fr": "Formation de plasmodesmes entre des cellules végétales adjacentes.",
+          "de": "Bildung von Plasmodesmen zwischen benachbarten Pflanzenzellen.",
+          "ja": "隣接する植物細胞間の原形質連絡の形成。"
+        },
+        "feedback": {
+          "en": "Plasmodesmata are structures found in plant cells, not animal cells, and their formation is not directly related to integrin function.",
+          "zh": "胞间连丝是植物细胞中的结构，而非动物细胞，其形成与整合素的功能无直接关系。",
+          "es": "Los plasmodesmos son estructuras encontradas en células vegetales, no en células animales, y su formación no está directamente relacionada con la función de las integrinas.",
+          "fr": "Les plasmodesmes sont des structures présentes dans les cellules végétales, pas animales, et leur formation n'est pas directement liée à la fonction des intégrines.",
+          "de": "Plasmodesmen sind Strukturen in Pflanzenzellen, nicht in Tierzellen, und ihre Bildung steht nicht in direktem Zusammenhang mit der Integrinfunktion.",
+          "ja": "原形質連絡は植物細胞に見られる構造であり、動物細胞には見られず、その形成はインテグリンの機能に直接関係していません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Noncovalent attachment of proteoglycan molecules to polysaccharides.",
+          "zh": "蛋白聚糖分子与多糖的非共价连接。",
+          "es": "Unión no covalente de moléculas de proteoglicanos a polisacáridos.",
+          "fr": "Attachement non covalent des molécules de protéoglycanes aux polysaccharides.",
+          "de": "Nicht-kovalente Anheftung von Proteoglykanmolekülen an Polysaccharide.",
+          "ja": "プロテオグリカン分子と多糖の非共有結合。"
+        },
+        "feedback": {
+          "en": "This describes the formation of proteoglycan complexes, which is a separate process from integrin function.",
+          "zh": "这描述了蛋白聚糖复合物的形成，这是一个独立于整合素功能的过程。",
+          "es": "Esto describe la formación de complejos de proteoglicanos, que es un proceso separado de la función de las integrinas.",
+          "fr": "Cela décrit la formation de complexes de protéoglycanes, qui est un processus distinct de la fonction des intégrines.",
+          "de": "Dies beschreibt die Bildung von Proteoglykan-Komplexen, was ein separater Prozess von der Integrinfunktion ist.",
+          "ja": "これはプロテオグリカン複合体の形成を説明しており、インテグリンの機能とは別のプロセスです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that 'Integrins span the membrane and bind on their cytoplasmic side to associated proteins attached to microfilaments of the cytoskeleton. The name integrin is based on the word integrate: Integrins are in a position to transmit signals between the ECM and the cytoskeleton and thus to integrate changes occurring outside and inside the cell.' It further mentions that this linkage can 'result in changes in cell behavior' and that 'Mechanical signaling involves fibronectin, integrins, and microfilaments of the cytoskeleton' influencing 'cell migration' and 'activity of genes in the nucleus'. Losing the ability to bind to microfilaments would directly disrupt this signal transmission and subsequent cellular responses.",
+      "zh": "文本明确指出：“整合素横跨膜，并在其细胞质侧与附着在细胞骨架微丝上的相关蛋白质结合。整合素（integrin）这个名称来源于单词“integrate”（整合）：整合素能够传递细胞外基质和细胞骨架之间的信号，从而整合细胞内外发生的变化。” 文本还提到，这种连接能够“导致细胞行为的变化”，并且“机械信号传导涉及纤连蛋白、整合素和细胞骨架的微丝”，影响“细胞迁移”和“细胞核中基因的活性”。丧失与微丝结合的能力将直接破坏这种信号传递和随后的细胞响应。",
+      "es": "El texto establece explícitamente que 'las integrinas abarcan la membrana y se unen en su lado citoplasmático a proteínas asociadas adheridas a microfilamentos del citoesqueleto. El nombre integrina se basa en la palabra integrar: las integrinas están en posición de transmitir señales entre la MEC y el citoesqueleto y, por lo tanto, integrar los cambios que ocurren fuera y dentro de la célula.' Además, menciona que este enlace puede 'resultar en cambios en el comportamiento celular' y que 'la señalización mecánica involucra fibronectina, integrinas y microfilamentos del citoesqueleto' influyendo en la 'migración celular' y la 'actividad de los genes en el núcleo'. Perder la capacidad de unirse a microfilamentos interrumpiría directamente esta transmisión de señales y las respuestas celulares subsiguientes.",
+      "fr": "Le texte indique explicitement que « les intégrines traversent la membrane et se lient du côté cytoplasmique aux protéines associées attachées aux microfilaments du cytosquelette. Le nom intégrine est basé sur le mot intégrer : les intégrines sont en position de transmettre des signaux entre la MEC et le cytosquelette et ainsi d'intégrer les changements qui se produisent à l'extérieur et à l'intérieur de la cellule. » Il mentionne en outre que cette liaison peut « entraîner des changements dans le comportement cellulaire » et que « la signalisation mécanique implique la fibronectine, les intégrines et les microfilaments du cytosquelette », influençant la « migration cellulaire » et l'« activité des gènes dans le noyau ». Perdre la capacité de se lier aux microfilaments perturberait directement cette transmission de signaux et les réponses cellulaires subséquentes.",
+      "de": "Der Text besagt explizit, dass 'Integrine die Membran überspannen und auf ihrer zytoplasmatischen Seite an assoziierte Proteine binden, die an Mikrofilamente des Zytoskeletts gebunden sind. Der Name Integrin basiert auf dem Wort Integrieren: Integrine sind in der Lage, Signale zwischen der ECM und dem Zytoskelett zu übertragen und so Veränderungen zu integrieren, die außerhalb und innerhalb der Zelle stattfinden.' Es wird ferner erwähnt, dass diese Verbindung 'zu Veränderungen im Zellverhalten führen' kann und dass 'die mechanische Signalübertragung Fibronectin, Integrine und Mikrofilamente des Zytoskeletts' involviert, die 'Zellmigration' und 'Genaktivität im Zellkern' beeinflussen. Der Verlust der Fähigkeit, an Mikrofilamente zu binden, würde diese Signalübertragung und die nachfolgenden zellulären Reaktionen direkt stören.",
+      "ja": "テキストでは、「インテグリンは膜を横断し、細胞質側では細胞骨格の微小繊維に付着した関連タンパク質に結合する。インテグリンという名称は、『統合する（integrate）』という言葉に由来する。インテグリンは、ECMと細胞骨格の間でシグナルを伝達し、細胞の外部と内部で起こる変化を統合する位置にある」と明記されています。さらに、この結合が「細胞の挙動の変化を引き起こす可能性がある」こと、そして「機械的シグナル伝達には、フィブロネクチン、インテグリン、細胞骨格の微小繊維が関与し、細胞移動」や「核内の遺伝子活性」に影響を与えることが述べられています。微小繊維への結合能力を失うと、このシグナル伝達とその後の細胞応答が直接的に損なわれます。"
+    }
+  },
+  {
+    "page_number": 168,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 6.29 and its description, what do plasmodesmata primarily connect between adjacent plant cells?",
+      "zh": "根据图6.29及其描述，胞间连丝主要连接相邻植物细胞的什么？",
+      "es": "Según la Figura 6.29 y su descripción, ¿qué conectan principalmente los plasmodesmos entre células vegetales adyacentes?",
+      "fr": "Selon la figure 6.29 et sa description, que relient principalement les plasmodesmes entre des cellules végétales adjacentes?",
+      "de": "Laut Abbildung 6.29 und ihrer Beschreibung, was verbinden Plasmodesmen hauptsächlich zwischen benachbarten Pflanzenzellen?",
+      "ja": "図6.29とその説明に基づくと、原形質連絡は隣接する植物細胞間で主に何を接続していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Nuclei",
+          "zh": "细胞核",
+          "es": "Núcleos",
+          "fr": "Noyaux",
+          "de": "Zellkerne",
+          "ja": "核"
+        },
+        "feedback": {
+          "en": "Plasmodesmata connect the cytoplasms, not the nuclei.",
+          "zh": "胞间连丝连接的是细胞质，而不是细胞核。",
+          "es": "Los plasmodesmos conectan los citoplasmas, no los núcleos.",
+          "fr": "Les plasmodesmes relient les cytoplasmes, pas les noyaux.",
+          "de": "Plasmodesmen verbinden das Zytoplasma, nicht die Zellkerne.",
+          "ja": "原形質連絡は細胞質を接続し、核ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Cell walls",
+          "zh": "细胞壁",
+          "es": "Paredes celulares",
+          "fr": "Parois cellulaires",
+          "de": "Zellwände",
+          "ja": "細胞壁"
+        },
+        "feedback": {
+          "en": "Plasmodesmata perforate the cell walls but establish continuity of the cytoplasm.",
+          "zh": "胞间连丝穿透细胞壁，但建立的是细胞质的连续性。",
+          "es": "Los plasmodesmos perforan las paredes celulares pero establecen la continuidad del citoplasma.",
+          "fr": "Les plasmodesmes perforent les parois cellulaires mais établissent la continuité du cytoplasme.",
+          "de": "Plasmodesmen durchdringen die Zellwände, stellen aber die Kontinuität des Zytoplasmas her.",
+          "ja": "原形質連絡は細胞壁を貫通しますが、細胞質の連続性を確立します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cytoplasms",
+          "zh": "细胞质",
+          "es": "Citoplasmas",
+          "fr": "Cytoplasmes",
+          "de": "Zytoplasmen",
+          "ja": "細胞質"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Vacuoles",
+          "zh": "液泡",
+          "es": "Vacuolas",
+          "fr": "Vacuoles",
+          "de": "Vakuolen",
+          "ja": "液胞"
+        },
+        "feedback": {
+          "en": "While vacuoles are within cells, plasmodesmata specifically connect the cytoplasmic channels.",
+          "zh": "虽然液泡在细胞内，但胞间连丝特指连接细胞质通道。",
+          "es": "Aunque las vacuolas están dentro de las células, los plasmodesmos conectan específicamente los canales citoplasmáticos.",
+          "fr": "Bien que les vacuoles soient à l'intérieur des cellules, les plasmodesmes relient spécifiquement les canaux cytoplasmiques.",
+          "de": "Obwohl Vakuolen innerhalb von Zellen sind, verbinden Plasmodesmen spezifisch die zytoplasmatischen Kanäle.",
+          "ja": "液胞は細胞内にありますが、原形質連絡は特に細胞質チャネルを接続します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 6.29 and its description state that 'The cytoplasm of one plant cell is continuous with the cytoplasm of its neighbors via plasmodesmata, cytoplasmic channels through the cell walls (TEM).'",
+      "zh": "图6.29及其描述指出：“一个植物细胞的细胞质通过胞间连丝（通过细胞壁的细胞质通道）与相邻细胞的细胞质连续相连。”",
+      "es": "La Figura 6.29 y su descripción establecen que 'el citoplasma de una célula vegetal es continuo con el citoplasma de sus vecinos a través de plasmodesmos, canales citoplasmáticos a través de las paredes celulares (TEM).'",
+      "fr": "La figure 6.29 et sa description indiquent que « le cytoplasme d'une cellule végétale est continu avec le cytoplasme de ses voisines via les plasmodesmes, des canaux cytoplasmiques traversant les parois cellulaires (MET). »",
+      "de": "Abbildung 6.29 und ihre Beschreibung besagen, dass 'das Zytoplasma einer Pflanzenzelle über Plasmodesmen, zytoplasmatische Kanäle durch die Zellwände (TEM), mit dem Zytoplasma ihrer Nachbarzellen verbunden ist.'",
+      "ja": "図6.29とその説明には、「一つの植物細胞の細胞質は、原形質連絡、すなわち細胞壁を貫通する細胞質チャネルを介して隣接する細胞の細胞質と連続している」と記載されています。"
+    }
+  },
+  {
+    "page_number": 168,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following Extracellular Matrix (ECM) components is described as an ECM protein that attaches the ECM to integrins embedded in the plasma membrane?",
+      "zh": "以下哪种细胞外基质（ECM）组分被描述为一种ECM蛋白，它将ECM连接到嵌入质膜的整合素上？",
+      "es": "¿Cuál de los siguientes componentes de la Matriz Extracelular (MEC) se describe como una proteína de la MEC que une la MEC a las integrinas incrustadas en la membrana plasmática?",
+      "fr": "Lequel des composants suivants de la matrice extracellulaire (MEC) est décrit comme une protéine de la MEC qui attache la MEC aux intégrines insérées dans la membrane plasmique?",
+      "de": "Welcher der folgenden extrazellulären Matrix (ECM)-Komponenten wird als ECM-Protein beschrieben, das die ECM an Integrine bindet, die in der Plasmamembran eingebettet sind?",
+      "ja": "以下の細胞外マトリックス（ECM）構成要素のうち、ECMを形質膜に埋め込まれたインテグリンに結合させるECMタンパク質として記述されているものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Collagen fibers",
+          "zh": "胶原纤维",
+          "es": "Fibras de colágeno",
+          "fr": "Fibres de collagène",
+          "de": "Kollagenfasern",
+          "ja": "コラーゲン線維"
+        },
+        "feedback": {
+          "en": "Collagen fibers provide structural support and strength to the ECM, but fibronectin is specifically described as the link to integrins.",
+          "zh": "胶原纤维为ECM提供结构支持和强度，但纤连蛋白被特别描述为与整合素的连接。",
+          "es": "Las fibras de colágeno proporcionan soporte estructural y resistencia a la MEC, pero la fibronectina se describe específicamente como el enlace a las integrinas.",
+          "fr": "Les fibres de collagène fournissent un soutien structurel et de la résistance à la MEC, mais la fibronectine est spécifiquement décrite comme le lien avec les intégrines.",
+          "de": "Kollagenfasern bieten strukturelle Unterstützung und Festigkeit für die ECM, aber Fibronectin wird spezifisch als Verbindung zu Integrinen beschrieben.",
+          "ja": "コラーゲン線維はECMに構造的な支持と強度を提供しますが、フィブロネクチンが特にインテグリンへのリンクとして記述されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Proteoglycan complexes",
+          "zh": "蛋白聚糖复合物",
+          "es": "Complejos de proteoglicanos",
+          "fr": "Complexes de protéoglycanes",
+          "de": "Proteoglykan-Komplexe",
+          "ja": "プロテオグリカン複合体"
+        },
+        "feedback": {
+          "en": "Proteoglycan complexes contribute to the gel-like consistency of the ECM and trap water, but fibronectin is the protein linking to integrins.",
+          "zh": "蛋白聚糖复合物有助于ECM的凝胶状稠度并捕获水分，但纤连蛋白是连接整合素的蛋白质。",
+          "es": "Los complejos de proteoglicanos contribuyen a la consistencia similar a un gel de la MEC y atrapan agua, pero la fibronectina es la proteína que se une a las integrinas.",
+          "fr": "Les complexes de protéoglycanes contribuent à la consistance gélatineuse de la MEC et piègent l'eau, mais la fibronectine est la protéine qui se lie aux intégrines.",
+          "de": "Proteoglykan-Komplexe tragen zur gelartigen Konsistenz der ECM bei und speichern Wasser, aber Fibronectin ist das Protein, das an Integrine bindet.",
+          "ja": "プロテオグリカン複合体はECMのゲル状の粘稠度に寄与し、水を捕捉しますが、フィブロネクチンがインテグリンに結合するタンパク質です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Fibronectin",
+          "zh": "纤连蛋白",
+          "es": "Fibronectina",
+          "fr": "Fibronectine",
+          "de": "Fibronektin",
+          "ja": "フィブロネクチン"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Microfilaments",
+          "zh": "微丝",
+          "es": "Microfilamentos",
+          "fr": "Microfilaments",
+          "de": "Mikrofilamente",
+          "ja": "微小繊維"
+        },
+        "feedback": {
+          "en": "Microfilaments are part of the cytoskeleton inside the cell, to which integrins bind on their cytoplasmic side, not an ECM component that binds to integrins on the outside.",
+          "zh": "微丝是细胞内细胞骨架的一部分，整合素在其细胞质侧与之结合，而不是在外部与整合素结合的ECM组分。",
+          "es": "Los microfilamentos forman parte del citoesqueleto dentro de la célula, a los que las integrinas se unen en su lado citoplasmático, no son un componente de la MEC que se une a las integrinas por fuera.",
+          "fr": "Les microfilaments font partie du cytosquelette à l'intérieur de la cellule, auxquels les intégrines se lient du côté cytoplasmique, et non un composant de la MEC qui se lie aux intégrines de l'extérieur.",
+          "de": "Mikrofilamente sind Teil des Zytoskeletts innerhalb der Zelle, an die Integrine auf ihrer zytoplasmatischen Seite binden, und kein ECM-Bestandteil, der von außen an Integrine bindet.",
+          "ja": "微小繊維は細胞内の細胞骨格の一部であり、インテグリンが細胞質側で結合するもので、外部からインテグリンに結合するECM成分ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The diagram annotation and text state: 'Fibronectin is one ECM protein that attaches the ECM to integrins embedded in the plasma membrane.' The text further elaborates: 'Some cells are attached to the ECM by ECM glycoproteins such as fibronectin. Fibronectin and other ECM proteins bind to cell-surface receptor proteins called integrins that are built into the plasma membrane.'",
+      "zh": "图示注释和文本都指出：“纤连蛋白是一种ECM蛋白，它将ECM连接到嵌入质膜的整合素上。” 文本进一步阐述：“有些细胞通过ECM糖蛋白（如纤连蛋白）附着在ECM上。纤连蛋白和其他ECM蛋白与称为整合素的细胞表面受体蛋白结合，这些受体蛋白嵌入质膜中。”",
+      "es": "La anotación del diagrama y el texto afirman: 'La fibronectina es una proteína de la MEC que une la MEC a las integrinas incrustadas en la membrana plasmática.' El texto elabora más: 'Algunas células se unen a la MEC mediante glicoproteínas de la MEC como la fibronectina. La fibronectina y otras proteínas de la MEC se unen a proteínas receptoras de la superficie celular llamadas integrinas que están integradas en la membrana plasmática.'",
+      "fr": "L'annotation du diagramme et le texte indiquent : « La fibronectine est une protéine de la MEC qui attache la MEC aux intégrines insérées dans la membrane plasmique. » Le texte développe davantage : « Certaines cellules sont attachées à la MEC par des glycoprotéines de la MEC telles que la fibronectine. La fibronectine et d'autres protéines de la MEC se lient aux protéines réceptrices de surface cellulaire appelées intégrines qui sont intégrées dans la membrane plasmique. »",
+      "de": "Die Diagrammbeschriftung und der Text besagen: 'Fibronektin ist ein ECM-Protein, das die ECM an Integrine bindet, die in die Plasmamembran eingebettet sind.' Der Text führt weiter aus: 'Einige Zellen sind über ECM-Glykoproteine wie Fibronektin an die ECM gebunden. Fibronektin und andere ECM-Proteine binden an Zelloberflächenrezeptorproteine, Integrine genannt, die in die Plasmamembran eingebaut sind.'",
+      "ja": "図の注釈とテキストには、「フィブロネクチンは、ECMを形質膜に埋め込まれたインテグリンに結合させるECMタンパク質の一つである」と記載されています。テキストはさらに、「一部の細胞は、フィブロネクチンなどのECM糖タンパク質によってECMに付着している。フィブロネクチンや他のECMタンパク質は、形質膜に組み込まれたインテグリンと呼ばれる細胞表面受容体タンパク質に結合する」と詳述しています。"
+    }
+  }
+]

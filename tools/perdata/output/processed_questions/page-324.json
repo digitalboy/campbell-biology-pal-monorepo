@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In a testcross, an individual with a dominant phenotype and an unknown genotype is crossed with what?",
+      "zh": "在测交中，一个具有显性表现型和未知基因型的个体会与什么进行杂交？",
+      "es": "En un cruzamiento de prueba, un individuo con un fenotipo dominante y un genotipo desconocido se cruza con ¿qué?",
+      "fr": "Dans un croisement test, un individu avec un phénotype dominant et un génotype inconnu est croisé avec quoi ?",
+      "de": "In einer Testkreuzung wird ein Individuum mit einem dominanten Phänotyp und einem unbekannten Genotyp mit was gekreuzt?",
+      "ja": "検定交雑では、優性表現型で遺伝子型が不明な個体は何と交配されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Another individual with the same dominant phenotype.",
+          "zh": "另一个具有相同显性表现型的个体。",
+          "es": "Otro individuo con el mismo fenotipo dominante.",
+          "fr": "Un autre individu avec le même phénotype dominant.",
+          "de": "Ein anderes Individuum mit demselben dominanten Phänotyp.",
+          "ja": "同じ優性表現型を持つ別の個体。"
+        },
+        "feedback": {
+          "en": "This would not reliably reveal the unknown genotype. For example, a PP x Pp cross would yield all dominant phenotype offspring.",
+          "zh": "这无法可靠地揭示未知的基因型。例如，PP x Pp的杂交会产生所有显性表现型的后代。",
+          "es": "Esto no revelaría de manera confiable el genotipo desconocido. Por ejemplo, un cruce PP x Pp produciría toda la descendencia con fenotipo dominante.",
+          "fr": "Cela ne révélerait pas de manière fiable le génotype inconnu. Par exemple, un croisement PP x Pp donnerait une progéniture entièrement à phénotype dominant.",
+          "de": "Dies würde den unbekannten Genotyp nicht zuverlässig aufdecken. Zum Beispiel würde eine PP x Pp-Kreuzung alle Nachkommen mit dominantem Phänotyp ergeben.",
+          "ja": "これでは、未知の遺伝子型を確実に明らかにすることはできません。たとえば、PP x Ppの交配では、すべての子孫が優性表現型になります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A heterozygous individual.",
+          "zh": "一个杂合子个体。",
+          "es": "Un individuo heterocigoto.",
+          "fr": "Un individu hétérozygote.",
+          "de": "Ein heterozygotes Individuum.",
+          "ja": "ヘテロ接合体の個体。"
+        },
+        "feedback": {
+          "en": "This is only correct if the recessive phenotype is used for the testcross. The key is to cross with a homozygous recessive individual.",
+          "zh": "只有当隐性表现型用于测交时，这才是正确的。关键是与一个隐性纯合子个体进行杂交。",
+          "es": "Esto solo es correcto si se utiliza el fenotipo recesivo para el cruzamiento de prueba. La clave es cruzar con un individuo homocigoto recesivo.",
+          "fr": "Ceci n'est correct que si le phénotype récessif est utilisé pour le croisement test. La clé est de croiser avec un individu homozygote récessif.",
+          "de": "Dies ist nur korrekt, wenn der rezessive Phänotyp für die Testkreuzung verwendet wird. Der Schlüssel ist die Kreuzung mit einem homozygot rezessiven Individuum.",
+          "ja": "これは、検定交雑に劣性表現型が使用される場合にのみ正しいです。重要なのは、ホモ接合性劣性個体と交配することです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A homozygous individual expressing the recessive trait.",
+          "zh": "一个表达隐性性状的纯合子个体。",
+          "es": "Un individuo homocigoto que expresa el rasgo recesivo.",
+          "fr": "Un individu homozygote exprimant le caractère récessif.",
+          "de": "Ein homozygotes Individuum, das das rezessive Merkmal exprimiert.",
+          "ja": "劣性形質を発現するホモ接合体の個体。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Itself (self-pollination).",
+          "zh": "其自身（自花授粉）。",
+          "es": "A sí mismo (autopolinización).",
+          "fr": "Lui-même (autofécondation).",
+          "de": "Sich selbst (Selbstbestäubung).",
+          "ja": "それ自体（自家受粉）。"
+        },
+        "feedback": {
+          "en": "Self-pollination of a heterozygous individual (Pp) would result in a 3:1 phenotypic ratio, which doesn't distinguish it from a self-pollinated homozygous dominant (PP) which gives a 1:0 ratio.",
+          "zh": "杂合子个体（Pp）的自花授粉将导致3:1的表现型比例，这无法将其与自花授粉的纯合显性（PP）区分开来，后者产生1:0的比例。",
+          "es": "La autopolinización de un individuo heterocigoto (Pp) daría como resultado una proporción fenotípica de 3:1, lo que no lo distingue de un homocigoto dominante autopolinizado (PP) que da una proporción de 1:0.",
+          "fr": "L'autofécondation d'un individu hétérozygote (Pp) donnerait un rapport phénotypique de 3:1, ce qui ne le distingue pas d'un homozygote dominant autofécondé (PP) qui donne un rapport de 1:0.",
+          "de": "Die Selbstbestäubung eines heterozygoten Individuums (Pp) würde zu einem phänotypischen Verhältnis von 3:1 führen, was es nicht von einem selbstbestäubten homozygot dominanten (PP) unterscheidet, das ein Verhältnis von 1:0 ergibt.",
+          "ja": "ヘテロ接合個体（Pp）の自家受粉は、3：1の表現型比率をもたらしますが、これは1：0の比率を与える自家受粉したホモ接合性優性（PP）と区別できません。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text explicitly states: 'In a testcross, the individual with the unknown genotype is crossed with a homozygous individual expressing the recessive trait'. This is because the recessive homozygote can only contribute recessive alleles, so the resulting offspring's phenotype directly reflects the alleles contributed by the unknown parent.",
+      "zh": "文本明确说明：“在测交中，具有未知基因型的个体与一个表达隐性性状的纯合子个体进行杂交”。这是因为隐性纯合子只能提供隐性等位基因，因此后代的表现型直接反映了未知亲本提供的等位基因。",
+      "es": "El texto dice explícitamente: 'En un cruzamiento de prueba, el individuo con el genotipo desconocido se cruza con un individuo homocigoto que expresa el rasgo recesivo'. Esto se debe a que el homocigoto recesivo solo puede contribuir con alelos recesivos, por lo que el fenotipo de la descendencia resultante refleja directamente los alelos aportados por el progenitor desconocido.",
+      "fr": "Le texte indique explicitement : « Dans un croisement test, l'individu au génotype inconnu est croisé avec un individu homozygote exprimant le caractère récessif ». C'est parce que l'homozygote récessif ne peut contribuer qu'à des allèles récessifs, de sorte que le phénotype de la progéniture résultante reflète directement les allèles apportés par le parent inconnu.",
+      "de": "Der Text besagt ausdrücklich: „In einer Testkreuzung wird das Individuum mit dem unbekannten Genotyp mit einem homozygoten Individuum gekreuzt, das das rezessive Merkmal exprimiert“. Dies liegt daran, dass der rezessive Homozygot nur rezessive Allele beitragen kann, sodass der Phänotyp der resultierenden Nachkommen direkt die vom unbekannten Elternteil beigesteuerten Allele widerspiegelt.",
+      "ja": "本文では、「検定交雑では、未知の遺伝子型の個体を、劣性形質を発現するホモ接合体の個体と交配する」と明記されています。これは、劣性ホモ接合体は劣性対立遺伝子しか提供できないため、結果として生じる子孫の表現型は、未知の親から提供された対立遺伝子を直接反映するためです。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "If a testcross between a purple-flowered pea plant (unknown genotype) and a white-flowered pea plant (pp) results in offspring that are 1/2 purple and 1/2 white, what is the genotype of the purple-flowered parent?",
+      "zh": "如果一株紫花豌豆（未知基因型）和一株白花豌豆（pp）进行测交，后代中一半是紫色，一半是白色，那么紫花亲本的基因型是什么？",
+      "es": "Si un cruzamiento de prueba entre una planta de guisante de flor púrpura (genotipo desconocido) y una planta de guisante de flor blanca (pp) da como resultado una descendencia que es 1/2 púrpura y 1/2 blanca, ¿cuál es el genotipo del progenitor de flor púrpura?",
+      "fr": "Si un croisement test entre un plant de pois à fleurs violettes (génotype inconnu) et un plant de pois à fleurs blanches (pp) donne une progéniture qui est 1/2 violette et 1/2 blanche, quel est le génotype du parent à fleurs violettes ?",
+      "de": "Wenn eine Testkreuzung zwischen einer lila blühenden Erbsenpflanze (unbekannter Genotyp) und einer weiß blühenden Erbsenpflanze (pp) zu Nachkommen führt, die zu 1/2 lila und zu 1/2 weiß sind, was ist der Genotyp des lila blühenden Elternteils?",
+      "ja": "紫色の花のエンドウ豆（遺伝子型不明）と白色の花のエンドウ豆（pp）の間の検定交雑の結果、子孫が1/2が紫色で1/2が白色になった場合、紫色の花の親の遺伝子型は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "PP",
+          "zh": "PP",
+          "es": "PP",
+          "fr": "PP",
+          "de": "PP",
+          "ja": "PP"
+        },
+        "feedback": {
+          "en": "If the parent were PP, all offspring from a cross with pp would be Pp and have purple flowers.",
+          "zh": "如果亲本是PP，与pp杂交的所有后代都将是Pp，并开紫花。",
+          "es": "Si el progenitor fuera PP, toda la descendencia de un cruce con pp sería Pp y tendría flores púrpuras.",
+          "fr": "Si le parent était PP, toute la progéniture d'un croisement avec pp serait Pp et aurait des fleurs violettes.",
+          "de": "Wenn der Elternteil PP wäre, wären alle Nachkommen aus einer Kreuzung mit pp Pp und hätten lila Blüten.",
+          "ja": "親がPPであった場合、ppとの交配からのすべての子孫はPpとなり、紫色の花を咲かせます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Pp",
+          "zh": "Pp",
+          "es": "Pp",
+          "fr": "Pp",
+          "de": "Pp",
+          "ja": "Pp"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "pp",
+          "zh": "pp",
+          "es": "pp",
+          "fr": "pp",
+          "de": "pp",
+          "ja": "pp"
+        },
+        "feedback": {
+          "en": "The pp genotype results in a white phenotype, but the parent in question has a purple phenotype.",
+          "zh": "pp基因型导致白色表现型，但所讨论的亲本具有紫色表现型。",
+          "es": "El genotipo pp da como resultado un fenotipo blanco, pero el progenitor en cuestión tiene un fenotipo púrpura.",
+          "fr": "Le génotype pp donne un phénotype blanc, mais le parent en question a un phénotype violet.",
+          "de": "Der pp-Genotyp führt zu einem weißen Phänotyp, aber der betreffende Elternteil hat einen lila Phänotyp.",
+          "ja": "pp遺伝子型は白色の表現型をもたらしますが、問題の親は紫色の表現型を持っています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It cannot be determined from this cross.",
+          "zh": "从这次杂交中无法确定。",
+          "es": "No se puede determinar a partir de este cruce.",
+          "fr": "Cela ne peut pas être déterminé à partir de ce croisement.",
+          "de": "Aus dieser Kreuzung kann es nicht bestimmt werden.",
+          "ja": "この交配からは決定できません。"
+        },
+        "feedback": {
+          "en": "The results of a testcross are specifically designed to determine the unknown genotype.",
+          "zh": "测交的结果是专门设计用来确定未知基因型的。",
+          "es": "Los resultados de un cruzamiento de prueba están diseñados específicamente para determinar el genotipo desconocido.",
+          "fr": "Les résultats d'un croisement test sont spécifiquement conçus pour déterminer le génotype inconnu.",
+          "de": "Die Ergebnisse einer Testkreuzung sind speziell darauf ausgelegt, den unbekannten Genotyp zu bestimmen.",
+          "ja": "検定交雑の結果は、未知の遺伝子型を決定するために特別に設計されています。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "As shown in the 'Predictions' part of Figure 14.7, a cross between a Pp parent and a pp parent is expected to produce 1/2 Pp (purple) and 1/2 pp (white) offspring. Therefore, observing this 1:1 ratio reveals the unknown parent's genotype to be heterozygous (Pp).",
+      "zh": "如图14.7的“预测”部分所示，Pp亲本和pp亲本之间的杂交预计会产生1/2的Pp（紫色）和1/2的pp（白色）后代。因此，观察到这种1:1的比例可以揭示未知亲本的基因型是杂合的（Pp）。",
+      "es": "Como se muestra en la parte de 'Predicciones' de la Figura 14.7, se espera que un cruce entre un progenitor Pp y un progenitor pp produzca una descendencia de 1/2 Pp (púrpura) y 1/2 pp (blanca). Por lo tanto, observar esta proporción de 1:1 revela que el genotipo del progenitor desconocido es heterocigoto (Pp).",
+      "fr": "Comme le montre la partie « Prédictions » de la figure 14.7, un croisement entre un parent Pp et un parent pp devrait produire une progéniture 1/2 Pp (violette) et 1/2 pp (blanche). Par conséquent, l'observation de ce rapport 1:1 révèle que le génotype du parent inconnu est hétérozygote (Pp).",
+      "de": "Wie im Teil „Vorhersagen“ von Abbildung 14.7 gezeigt, wird erwartet, dass eine Kreuzung zwischen einem Pp-Elternteil und einem pp-Elternteil Nachkommen mit 1/2 Pp (lila) und 1/2 pp (weiß) hervorbringt. Daher zeigt die Beobachtung dieses 1:1-Verhältnisses, dass der Genotyp des unbekannten Elternteils heterozygot (Pp) ist.",
+      "ja": "図14.7の「予測」部分に示されているように、Ppの親とppの親の間の交配は、1/2がPp（紫色）で1/2がpp（白色）の子孫を生み出すと予想されます。したがって、この1：1の比率を観察すると、未知の親の遺伝子型がヘテロ接合体（Pp）であることが明らかになります。"
+    }
+  },
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the law of independent assortment?",
+      "zh": "什么是自由组合定律？",
+      "es": "¿Qué es la ley de la distribución independiente?",
+      "fr": "Qu'est-ce que la loi de l'assortiment indépendant ?",
+      "de": "Was ist das Gesetz der unabhängigen Sortierung?",
+      "ja": "独立した分配の法則とは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Two or more genes assort independently during gamete formation.",
+          "zh": "两个或多个基因在配子形成过程中自由组合。",
+          "es": "Dos o más genes se distribuyen de forma independiente durante la formación de los gametos.",
+          "fr": "Deux gènes ou plus s'assortissent indépendamment pendant la formation des gamètes.",
+          "de": "Zwei oder mehr Gene sortieren sich während der Gametenbildung unabhängig voneinander.",
+          "ja": "2つ以上の遺伝子は、配偶子形成中に独立して分配されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The two alleles for a single gene separate during gamete formation.",
+          "zh": "单个基因的两个等位基因在配子形成过程中分离。",
+          "es": "Los dos alelos de un solo gen se separan durante la formación de los gametos.",
+          "fr": "Les deux allèles d'un même gène se séparent lors de la formation des gamètes.",
+          "de": "Die beiden Allele für ein einzelnes Gen trennen sich während der Gametenbildung.",
+          "ja": "単一の遺伝子の2つの対立遺伝子は、配偶子形成中に分離します。"
+        },
+        "feedback": {
+          "en": "This is the law of segregation, which applies to a single gene.",
+          "zh": "这是分离定律，适用于单个基因。",
+          "es": "Esta es la ley de la segregación, que se aplica a un solo gen.",
+          "fr": "C'est la loi de la ségrégation, qui s'applique à un seul gène.",
+          "de": "Dies ist das Gesetz der Segregation, das für ein einzelnes Gen gilt.",
+          "ja": "これは、単一の遺伝子に適用される分離の法則です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A dominant allele masks the effect of a recessive allele.",
+          "zh": "显性等位基因掩盖了隐性等位基因的作用。",
+          "es": "Un alelo dominante enmascara el efecto de un alelo recesivo.",
+          "fr": "Un allèle dominant masque l'effet d'un allèle récessif.",
+          "de": "Ein dominantes Allel maskiert die Wirkung eines rezessiven Allels.",
+          "ja": "優性対立遺伝子は、劣性対立遺伝子の効果を覆い隠します。"
+        },
+        "feedback": {
+          "en": "This is the principle of dominance.",
+          "zh": "这是显性原则。",
+          "es": "Este es el principio de dominancia.",
+          "fr": "C'est le principe de la dominance.",
+          "de": "Dies ist das Prinzip der Dominanz.",
+          "ja": "これは優性の法則です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Genes located on the same chromosome are always inherited together.",
+          "zh": "位于同一染色体上的基因总是被一起继承。",
+          "es": "Los genes ubicados en el mismo cromosoma siempre se heredan juntos.",
+          "fr": "Les gènes situés sur le même chromosome sont toujours hérités ensemble.",
+          "de": "Gene, die sich auf demselben Chromosom befinden, werden immer zusammen vererbt.",
+          "ja": "同じ染色体上にある遺伝子は常に一緒に遺伝します。"
+        },
+        "feedback": {
+          "en": "This describes dependent assortment or linkage. The law of independent assortment states the opposite for genes on different chromosomes.",
+          "zh": "这描述的是连锁遗传。自由组合定律对位于不同染色体上的基因陈述了相反的情况。",
+          "es": "Esto describe la distribución dependiente o el ligamiento. La ley de la distribución independiente establece lo contrario para los genes en diferentes cromosomas.",
+          "fr": "Ceci décrit l'assortiment dépendant ou la liaison. La loi de l'assortiment indépendant énonce le contraire pour les gènes situés sur des chromosomes différents.",
+          "de": "Dies beschreibt die abhängige Sortierung oder Kopplung. Das Gesetz der unabhängigen Sortierung besagt das Gegenteil für Gene auf verschiedenen Chromosomen.",
+          "ja": "これは、従属的な分配または連鎖を説明しています。独立した分配の法則は、異なる染色体上の遺伝子については逆のことを述べています。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "The text defines the law of independent assortment as the principle that 'two or more genes assort independently—that is, each pair of alleles segregates independently of any other pair of alleles—during gamete formation.' This law applies to genes on different, nonhomologous chromosomes.",
+      "zh": "文本将自由组合定律定义为“两个或多个基因独立分配——也就是说，在配子形成过程中，每对等位基因与其他任何一对等位基因的分离是相互独立的”这一原则。该定律适用于位于不同非同源染色体上的基因。",
+      "es": "El texto define la ley de la distribución independiente como el principio de que 'dos o más genes se distribuyen de forma independiente, es decir, cada par de alelos se segrega independientemente de cualquier otro par de alelos, durante la formación de los gametos'. Esta ley se aplica a los genes en cromosomas diferentes y no homólogos.",
+      "fr": "Le texte définit la loi de l'assortiment indépendant comme le principe selon lequel « deux gènes ou plus s'assortissent indépendamment, c'est-à-dire que chaque paire d'allèles se sépare indépendamment de toute autre paire d'allèles, lors de la formation des gamètes ». Cette loi s'applique aux gènes situés sur des chromosomes différents et non homologues.",
+      "de": "Der Text definiert das Gesetz der unabhängigen Sortierung als das Prinzip, dass „zwei oder mehr Gene unabhängig voneinander sortieren – das heißt, jedes Allelpaar trennt sich während der Gametenbildung unabhängig von jedem anderen Allelpaar“. Dieses Gesetz gilt für Gene auf verschiedenen, nicht-homologen Chromosomen.",
+      "ja": "本文では、独立した分配の法則を、「2つ以上の遺伝子が独立して分配される、つまり、各対立遺伝子のペアが配偶子形成中に他の対立遺伝子のペアとは独立して分離するという原則」と定義しています。この法則は、異なる非相同染色体上の遺伝子に適用されます。"
+    }
+  }
+]

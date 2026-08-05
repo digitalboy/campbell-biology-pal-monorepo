@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 493,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes metagenomics and its primary advantage?",
+      "zh": "以下哪项陈述准确描述了宏基因组学及其主要优势？",
+      "es": "De las siguientes afirmaciones, ¿cuál describe con precisión la metagenómica y su principal ventaja?",
+      "fr": "Parmi les affirmations suivantes, laquelle décrit avec précision la métagénomique et son principal avantage ?",
+      "de": "Welche der folgenden Aussagen beschreibt die Metagenomik und ihren Hauptvorteil genau?",
+      "ja": "次の記述のうち、メタゲノミクスとその主な利点を正確に説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Collecting DNA from individual cultured species and assembling complete genomes; advantage is high purity.",
+          "zh": "从单个培养物种中收集DNA并组装完整基因组；优势在于高纯度。",
+          "es": "Recolectar ADN de especies cultivadas individuales y ensamblar genomas completos; la ventaja es la alta pureza.",
+          "fr": "Collecter l'ADN d'espèces cultivées individuelles et assembler des génomes complets ; l'avantage est une pureté élevée.",
+          "de": "Sammeln von DNA von einzelnen kultivierten Arten und Zusammenstellen vollständiger Genome; Vorteil ist hohe Reinheit.",
+          "ja": "個々の培養種からDNAを収集し、完全なゲノムを組み立てる；利点は高純度であること。"
+        },
+        "feedback": {
+          "en": "Metagenomics involves collecting DNA from an entire environmental community, not individual cultured species, and its key advantage is avoiding the need for culturing.",
+          "zh": "宏基因组学涉及从整个环境群落中收集DNA，而不是从单个培养物种中收集，其主要优势在于避免了培养的需要。",
+          "es": "La metagenómica implica recolectar ADN de toda una comunidad ambiental, no de especies cultivadas individuales, y su ventaja clave es evitar la necesidad de cultivo.",
+          "fr": "La métagénomique implique la collecte d'ADN à partir d'une communauté environnementale entière, et non d'espèces cultivées individuelles. Son avantage clé est d'éviter la nécessité de cultiver.",
+          "de": "Metagenomik beinhaltet das Sammeln von DNA aus einer gesamten Umweltgemeinschaft, nicht von einzelnen kultivierten Arten, und ihr Hauptvorteil ist die Vermeidung der Kultivierung.",
+          "ja": "メタゲノミクスは、個々の培養種からではなく、環境中の微生物群集全体からDNAを収集するものであり、その主な利点は培養の必要性を排除することです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Collecting DNA from an entire environmental community and sequencing it; advantage is eliminating the need for culturing individual species.",
+          "zh": "从整个环境群落中收集DNA并进行测序；优势在于消除了培养单个物种的需要。",
+          "es": "Recolectar ADN de toda una comunidad ambiental y secuenciarlo; la ventaja es eliminar la necesidad de cultivar especies individuales.",
+          "fr": "Collecter l'ADN d'une communauté environnementale entière et le séquencer ; l'avantage est d'éliminer le besoin de cultiver des espèces individuelles.",
+          "de": "Sammeln von DNA aus einer gesamten Umweltgemeinschaft und Sequenzierung; Vorteil ist die Eliminierung der Notwendigkeit, einzelne Arten zu kultivieren.",
+          "ja": "環境中の微生物群集全体からDNAを収集し、配列決定する；利点は個々の種の培養の必要性を排除することです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Analyzing RNA sequences from mixed microbial populations; advantage is identifying active genes.",
+          "zh": "分析混合微生物群体的RNA序列；优势在于识别活性基因。",
+          "es": "Analizar secuencias de ARN de poblaciones microbianas mixtas; la ventaja es identificar genes activos.",
+          "fr": "Analyser les séquences d'ARN de populations microbiennes mixtes ; l'avantage est d'identifier les gènes actifs.",
+          "de": "Analyse von RNA-Sequenzen aus gemischten mikrobiellen Populationen; Vorteil ist die Identifizierung aktiver Gene.",
+          "ja": "混合微生物集団からのRNA配列を解析する；利点は活性遺伝子の特定です。"
+        },
+        "feedback": {
+          "en": "Metagenomics focuses on DNA from environmental samples and aims to bypass the culturing step, not primarily on RNA analysis.",
+          "zh": "宏基因组学侧重于环境样本中的DNA，旨在绕过培养步骤，而不是主要关注RNA分析。",
+          "es": "La metagenómica se centra en el ADN de muestras ambientales y busca evitar el paso de cultivo, no principalmente en el análisis de ARN.",
+          "fr": "La métagénomique se concentre sur l'ADN des échantillons environnementaux et vise à contourner l'étape de culture, et non principalement sur l'analyse de l'ARN.",
+          "de": "Metagenomik konzentriert sich auf DNA aus Umweltproben und zielt darauf ab, den Kultivierungsschritt zu umgehen, nicht primär auf die RNA-Analyse.",
+          "ja": "メタゲノミクスは環境サンプルからのDNAに焦点を当て、主にRNA解析ではなく、培養ステップを回避することを目的としています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Using computer software to predict protein structures from sequenced genomes; advantage is speeding up drug discovery.",
+          "zh": "使用计算机软件从测序基因组预测蛋白质结构；优势在于加速药物发现。",
+          "es": "Usar software informático para predecir estructuras de proteínas a partir de genomas secuenciados; la ventaja es acelerar el descubrimiento de fármacos.",
+          "fr": "Utiliser un logiciel informatique pour prédire les structures protéiques à partir de génomes séquencés ; l'avantage est d'accélérer la découverte de médicaments.",
+          "de": "Verwendung von Computersoftware zur Vorhersage von Proteinstrukturen aus sequenzierten Genomen; Vorteil ist die Beschleunigung der Arzneimittelentdeckung.",
+          "ja": "配列決定されたゲノムからタンパク質構造を予測するためにコンピュータソフトウェアを使用する；利点は創薬の加速です。"
+        },
+        "feedback": {
+          "en": "This describes a different aspect of bioinformatics, not the definition or primary advantage of metagenomics.",
+          "zh": "这描述了生物信息学的不同方面，而非宏基因组学的定义或主要优势。",
+          "es": "Esto describe un aspecto diferente de la bioinformática, no la definición ni la ventaja principal de la metagenómica.",
+          "fr": "Cela décrit un aspect différent de la bioinformatique, et non la définition ou l'avantage principal de la métagénomique.",
+          "de": "Dies beschreibt einen anderen Aspekt der Bioinformatik, nicht die Definition oder den Hauptvorteil der Metagenomik.",
+          "ja": "これはバイオインフォマティクスとは異なる側面を説明しており、メタゲノミクスの定義や主な利点ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Metagenomics is an approach where DNA from an entire community of species in an environmental sample is collected and sequenced. Its primary advantage is eliminating the need to culture individual species, which has historically limited the study of microorganisms.",
+      "zh": "宏基因组学是一种从环境样本中的整个物种群落中收集和测序DNA的方法。其主要优势在于消除了培养单个物种的需要，这在历史上曾限制了对微生物的研究。",
+      "es": "La metagenómica es un enfoque en el que se recolecta y secuencia el ADN de una comunidad completa de especies en una muestra ambiental. Su principal ventaja es eliminar la necesidad de cultivar especies individuales, lo que históricamente ha limitado el estudio de los microorganismos.",
+      "fr": "La métagénomique est une approche par laquelle l'ADN d'une communauté entière d'espèces dans un échantillon environnemental est collecté et séquencé. Son principal avantage est d'éliminer le besoin de cultiver des espèces individuelles, ce qui a historiquement limité l'étude des microorganismes.",
+      "de": "Metagenomik ist ein Ansatz, bei dem DNA aus einer gesamten Gemeinschaft von Arten in einer Umweltprobe gesammelt und sequenziert wird. Ihr Hauptvorteil ist die Eliminierung der Notwendigkeit, einzelne Arten zu kultivieren, was historisch die Erforschung von Mikroorganismen eingeschränkt hat.",
+      "ja": "メタゲノミクスは、環境サンプル中の全生物群集からDNAを収集し、配列決定する手法です。その主な利点は、個々の種の培養の必要性を排除することであり、これは歴史的に微生物の研究を制限してきました。"
+    }
+  },
+  {
+    "page_number": 493,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following correctly pairs a bioinformatics resource with its primary function as described in the text?",
+      "zh": "以下哪项正确地将生物信息学资源与其在文本中描述的主要功能配对？",
+      "es": "¿Cuál de las siguientes opciones empareja correctamente un recurso bioinformático con su función principal según se describe en el texto?",
+      "fr": "Parmi les éléments suivants, lequel associe correctement une ressource bioinformatique à sa fonction principale telle que décrite dans le texte ?",
+      "de": "Welche der folgenden Optionen ordnet eine bioinformatische Ressource ihrer im Text beschriebenen Hauptfunktion korrekt zu?",
+      "ja": "次のうち、バイオインフォマティクスリソースとその主な機能を本文の記述に従って正しく組み合わせているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "GenBank: Primarily stores experimentally determined three-dimensional protein structures.",
+          "zh": "GenBank：主要存储实验确定的三维蛋白质结构。",
+          "es": "GenBank: Almacena principalmente estructuras proteicas tridimensionales determinadas experimentalmente.",
+          "fr": "GenBank : Stocke principalement les structures protéiques tridimensionnelles déterminées expérimentalement.",
+          "de": "GenBank: Speichert hauptsächlich experimentell bestimmte dreidimensionale Proteinstrukturen.",
+          "ja": "GenBank：主に実験的に決定された3次元タンパク質構造を保存します。"
+        },
+        "feedback": {
+          "en": "GenBank stores DNA and protein sequences, while three-dimensional protein structures are primarily found in the Protein Data Bank (PDB).",
+          "zh": "GenBank存储DNA和蛋白质序列，而三维蛋白质结构主要在蛋白质数据库（PDB）中找到。",
+          "es": "GenBank almacena secuencias de ADN y proteínas, mientras que las estructuras de proteínas tridimensionales se encuentran principalmente en el Protein Data Bank (PDB).",
+          "fr": "GenBank stocke les séquences d'ADN et de protéines, tandis que les structures protéiques tridimensionnelles se trouvent principalement dans la Protein Data Bank (PDB).",
+          "de": "GenBank speichert DNA- und Proteinsequenzen, während dreidimensionale Proteinstrukturen hauptsächlich in der Protein Data Bank (PDB) zu finden sind.",
+          "ja": "GenBankはDNAおよびタンパク質配列を保存しますが、3次元タンパク質構造は主にタンパク質データバンク（PDB）にあります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "BLAST: Compares a given DNA or protein sequence with sequences in a database to find similar regions.",
+          "zh": "BLAST：将给定的DNA或蛋白质序列与数据库中的序列进行比较，以查找相似区域。",
+          "es": "BLAST: Compara una secuencia de ADN o proteína dada con secuencias en una base de datos para encontrar regiones similares.",
+          "fr": "BLAST : Compare une séquence d'ADN ou de protéine donnée avec des séquences dans une base de données pour trouver des régions similaires.",
+          "de": "BLAST: Vergleicht eine gegebene DNA- oder Proteinsequenz mit Sequenzen in einer Datenbank, um ähnliche Regionen zu finden.",
+          "ja": "BLAST：与えられたDNAまたはタンパク質配列をデータベース内の配列と比較し、類似領域を検索します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Protein Data Bank (PDB): Contains 214 million fragments of genomic DNA.",
+          "zh": "蛋白质数据库（PDB）：包含2.14亿个基因组DNA片段。",
+          "es": "Protein Data Bank (PDB): Contiene 214 millones de fragmentos de ADN genómico.",
+          "fr": "Protein Data Bank (PDB) : Contient 214 millions de fragments d'ADN génomique.",
+          "de": "Protein Data Bank (PDB): Enthält 214 Millionen Fragmente genomischer DNA.",
+          "ja": "タンパク質データバンク（PDB）：2億1400万個のゲノムDNA断片を含んでいます。"
+        },
+        "feedback": {
+          "en": "The Protein Data Bank (PDB) stores 3D protein structures, whereas GenBank is the database containing vast amounts of genomic DNA sequences.",
+          "zh": "蛋白质数据库（PDB）存储的是三维蛋白质结构，而GenBank是包含大量基因组DNA序列的数据库。",
+          "es": "El Protein Data Bank (PDB) almacena estructuras proteicas 3D, mientras que GenBank es la base de datos que contiene grandes cantidades de secuencias de ADN genómico.",
+          "fr": "La Protein Data Bank (PDB) stocke les structures protéiques 3D, tandis que GenBank est la base de données contenant de vastes quantités de séquences d'ADN génomique.",
+          "de": "Die Protein Data Bank (PDB) speichert 3D-Proteinstrukturen, während GenBank die Datenbank ist, die große Mengen genomischer DNA-Sequenzen enthält.",
+          "ja": "タンパク質データバンク（PDB）は3次元タンパク質構造を保存しますが、GenBankは大量のゲノムDNA配列を含むデータベースです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "NCBI: Solely focuses on developing software for predicting evolutionary relationships between species.",
+          "zh": "NCBI：仅专注于开发预测物种间进化关系的软件。",
+          "es": "NCBI: Se centra únicamente en el desarrollo de software para predecir relaciones evolutivas entre especies.",
+          "fr": "NCBI : Se concentre uniquement sur le développement de logiciels pour prédire les relations évolutives entre les espèces.",
+          "de": "NCBI: Konzentriert sich ausschließlich auf die Entwicklung von Software zur Vorhersage evolutionärer Beziehungen zwischen Arten.",
+          "ja": "NCBI：種間の進化的関係を予測するためのソフトウェア開発にのみ焦点を当てています。"
+        },
+        "feedback": {
+          "en": "The NCBI (National Center for Biotechnology Information) provides extensive bioinformatics resources, including databases, software, and information on genomics, and is not solely focused on evolutionary relationship software.",
+          "zh": "NCBI（国家生物技术信息中心）提供广泛的生物信息学资源，包括数据库、软件和基因组学信息，并非仅仅专注于进化关系软件。",
+          "es": "El NCBI (Centro Nacional de Información Biotecnológica) proporciona amplios recursos bioinformáticos, incluyendo bases de datos, software e información sobre genómica, y no se centra únicamente en el software de relaciones evolutivas.",
+          "fr": "Le NCBI (National Center for Biotechnology Information) fournit de vastes ressources bioinformatiques, y compris des bases de données, des logiciels et des informations sur la génomique, et ne se concentre pas uniquement sur les logiciels de relations évolutives.",
+          "de": "Das NCBI (National Center for Biotechnology Information) stellt umfangreiche Bioinformatik-Ressourcen bereit, einschließlich Datenbanken, Software und Informationen zur Genomik, und konzentriert sich nicht ausschließlich auf Software für evolutionäre Beziehungen.",
+          "ja": "NCBI（国立生物工学情報センター）は、データベース、ソフトウェア、ゲノミクスに関する情報を含む広範なバイオインフォマティクスリソースを提供しており、進化関係ソフトウェアのみに焦点を当てているわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "BLAST (Basic Local Alignment Search Tool) is explicitly mentioned as a widely used software program on the NCBI website that allows users to compare a DNA sequence with every sequence in GenBank, or compare protein sequences to find similar regions.",
+      "zh": "BLAST（基本局部比对搜索工具）被明确提及为NCBI网站上广泛使用的软件程序，它允许用户将DNA序列与GenBank中的每个序列进行比较，或比较蛋白质序列以查找相似区域。",
+      "es": "BLAST (Basic Local Alignment Search Tool) se menciona explícitamente como un programa de software ampliamente utilizado en el sitio web del NCBI que permite a los usuarios comparar una secuencia de ADN con cada secuencia en GenBank, o comparar secuencias de proteínas para encontrar regiones similares.",
+      "fr": "BLAST (Basic Local Alignment Search Tool) est explicitement mentionné comme un logiciel largement utilisé sur le site web du NCBI qui permet aux utilisateurs de comparer une séquence d'ADN avec chaque séquence de GenBank, ou de comparer des séquences de protéines pour trouver des régions similaires.",
+      "de": "BLAST (Basic Local Alignment Search Tool) wird explizit als weit verbreitetes Softwareprogramm auf der NCBI-Website erwähnt, das Benutzern ermöglicht, eine DNA-Sequenz mit jeder Sequenz in GenBank zu vergleichen oder Proteinsequenzen zu vergleichen, um ähnliche Regionen zu finden.",
+      "ja": "BLAST（Basic Local Alignment Search Tool）は、NCBIウェブサイトで広く使用されているソフトウェアとして明確に言及されており、ユーザーがDNA配列をGenBankのすべての配列と比較したり、タンパク質配列を比較して類似領域を見つけたりすることができます。"
+    }
+  },
+  {
+    "page_number": 493,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A researcher has discovered a new DNA sequence and wants to find out if it is similar to any known sequences in existing public databases. Which tool would be most appropriate for this task according to the text?",
+      "zh": "一位研究人员发现了一条新的DNA序列，并希望找出它是否与现有公共数据库中的任何已知序列相似。根据文本描述，哪种工具最适合这项任务？",
+      "es": "Un investigador ha descubierto una nueva secuencia de ADN y quiere saber si es similar a alguna secuencia conocida en las bases de datos públicas existentes. Según el texto, ¿qué herramienta sería la más apropiada para esta tarea?",
+      "fr": "Un chercheur a découvert une nouvelle séquence d'ADN et souhaite savoir si elle est similaire à des séquences connues dans les bases de données publiques existantes. Selon le texte, quel outil serait le plus approprié pour cette tâche ?",
+      "de": "Ein Forscher hat eine neue DNA-Sequenz entdeckt und möchte herausfinden, ob diese bekannten Sequenzen in öffentlichen Datenbanken ähnelt. Welches Werkzeug wäre laut Text am besten für diese Aufgabe geeignet?",
+      "ja": "ある研究者が新しいDNA配列を発見し、それが既存の公開データベース内の既知の配列と類似しているかどうかを知りたいと考えています。本文によると、この作業に最も適したツールは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Protein Data Bank (PDB)",
+          "zh": "蛋白质数据库（PDB）",
+          "es": "Protein Data Bank (PDB)",
+          "fr": "Protein Data Bank (PDB)",
+          "de": "Protein Data Bank (PDB)",
+          "ja": "タンパク質データバンク（PDB）"
+        },
+        "feedback": {
+          "en": "The Protein Data Bank (PDB) is primarily used for three-dimensional protein structures, not for comparing new DNA sequences.",
+          "zh": "蛋白质数据库（PDB）主要用于三维蛋白质结构，而非用于比较新的DNA序列。",
+          "es": "El Protein Data Bank (PDB) se utiliza principalmente para estructuras proteicas tridimensionales, no para comparar nuevas secuencias de ADN.",
+          "fr": "La Protein Data Bank (PDB) est principalement utilisée pour les structures protéiques tridimensionnelles, et non pour comparer de nouvelles séquences d'ADN.",
+          "de": "Die Protein Data Bank (PDB) wird hauptsächlich für dreidimensionale Proteinstrukturen verwendet, nicht zum Vergleich neuer DNA-Sequenzen.",
+          "ja": "タンパク質データバンク（PDB）は主に3次元タンパク質構造に使用され、新しいDNA配列の比較には使用されません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "BLAST (Basic Local Alignment Search Tool)",
+          "zh": "BLAST（基本局部比对搜索工具）",
+          "es": "BLAST (Basic Local Alignment Search Tool)",
+          "fr": "BLAST (Basic Local Alignment Search Tool)",
+          "de": "BLAST (Basic Local Alignment Search Tool)",
+          "ja": "BLAST（Basic Local Alignment Search Tool）"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Human Genome Project",
+          "zh": "人类基因组计划",
+          "es": "Proyecto Genoma Humano",
+          "fr": "Projet Génome Humain",
+          "de": "Humangenomprojekt",
+          "ja": "ヒトゲノム計画"
+        },
+        "feedback": {
+          "en": "The Human Genome Project was a large-scale research effort to sequence the human genome, not a tool for comparing individual sequences.",
+          "zh": "人类基因组计划是一项大规模的科研工作，旨在测序人类基因组，而不是用于比较单个序列的工具。",
+          "es": "El Proyecto Genoma Humano fue un esfuerzo de investigación a gran escala para secuenciar el genoma humano, no una herramienta para comparar secuencias individuales.",
+          "fr": "Le Projet Génome Humain était un effort de recherche à grande échelle visant à séquencer le génome humain, et non un outil de comparaison de séquences individuelles.",
+          "de": "Das Humangenomprojekt war eine groß angelegte Forschungsanstrengung zur Sequenzierung des menschlichen Genoms, nicht aber ein Werkzeug zum Vergleich einzelner Sequenzen.",
+          "ja": "ヒトゲノム計画は、ヒトゲノムの配列決定を行う大規模な研究プロジェクトであり、個々の配列を比較するためのツールではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Metagenomics",
+          "zh": "宏基因组学",
+          "es": "Metagenómica",
+          "fr": "Métagénomique",
+          "de": "Metagenomik",
+          "ja": "メタゲノミクス"
+        },
+        "feedback": {
+          "en": "Metagenomics is an approach to study genetic material directly from environmental samples, not a specific tool for comparing a newly discovered sequence against a database.",
+          "zh": "宏基因组学是一种直接从环境样本中研究遗传物质的方法，而不是用于将新发现的序列与数据库进行比较的特定工具。",
+          "es": "La metagenómica es un enfoque para estudiar material genético directamente de muestras ambientales, no una herramienta específica para comparar una secuencia recién descubierta con una base de datos.",
+          "fr": "La métagénomique est une approche pour étudier le matériel génétique directement à partir d'échantillons environnementaux, et non un outil spécifique pour comparer une séquence nouvellement découverte à une base de données.",
+          "de": "Metagenomik ist ein Ansatz zur direkten Untersuchung von genetischem Material aus Umweltproben, kein spezifisches Werkzeug zum Vergleich einer neu entdeckten Sequenz mit einer Datenbank.",
+          "ja": "メタゲノミクスは、環境サンプルから直接遺伝物質を研究するアプローチであり、新しく発見された配列をデータベースと比較するための特定のツールではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that BLAST (Basic Local Alignment Search Tool) allows the user to compare a DNA sequence with every sequence in GenBank, making it the most appropriate tool for finding similarities in existing databases.",
+      "zh": "文本指出，BLAST（基本局部比对搜索工具）允许用户将DNA序列与GenBank中的每个序列进行比较，这使其成为在现有数据库中查找相似性的最合适工具。",
+      "es": "El texto establece que BLAST (Basic Local Alignment Search Tool) permite al usuario comparar una secuencia de ADN con cada secuencia en GenBank, lo que lo convierte en la herramienta más apropiada para encontrar similitudes en bases de datos existentes.",
+      "fr": "Le texte indique que BLAST (Basic Local Alignment Search Tool) permet à l'utilisateur de comparer une séquence d'ADN avec chaque séquence de GenBank, ce qui en fait l'outil le plus approprié pour trouver des similitudes dans les bases de données existantes.",
+      "de": "Der Text besagt, dass BLAST (Basic Local Alignment Search Tool) es dem Benutzer ermöglicht, eine DNA-Sequenz mit jeder Sequenz in GenBank zu vergleichen, was es zum geeignetsten Werkzeug zum Auffinden von Ähnlichkeiten in bestehenden Datenbanken macht.",
+      "ja": "本文によると、BLAST（Basic Local Alignment Search Tool）は、GenBankのすべての配列とDNA配列を比較することを可能にするため、既存のデータベース内で類似性を見つけるのに最も適切なツールです。"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Campbell Biology Pal API",
+    "version": "1.0.0",
+    "description": "Main API documentation for the Campbell Biology Pal backend service. Detailed API definitions are split across multiple YAML files, which can be aggregated using an OpenAPI build tool."
+  },
+  "servers": [
+    {
+      "url": "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1",
+      "description": "Production Server"
+    },
+    {
+      "url": "http://localhost:3000/api/v1",
+      "description": "Local Development Server"
+    }
+  ],
+  "paths": {},
+  "components": {
+    "schemas": {},
+    "securitySchemes": {}
+  },
+  "x-external-files": [
+    "./openAPI/ai-chat.yaml",
+    "./openAPI/chat-interactions.yaml",
+    "./openAPI/comments.yaml",
+    "./openAPI/companion-data.yaml",
+    "./openAPI/dashboard.yaml",
+    "./openAPI/graph.yaml",
+    "./openAPI/leaderboard.yaml",
+    "./openAPI/review.yaml",
+    "./openAPI/user.yaml",
+    "./openAPI/提交答案.yaml"
+  ]
+}

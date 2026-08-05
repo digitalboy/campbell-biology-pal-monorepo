@@ -1,0 +1,102 @@
+<!-- 
+  This is a self-contained HTML fragment for the discussion panel.
+  It will be fetched and injected into the main interface by JavaScript.
+-->
+<div class="flex flex-col h-full">
+    <!-- Header -->
+    <div class="flex-shrink-0 pb-4 border-b border-slate-200">
+        <h3 class="text-lg font-semibold text-slate-800">互动讨论</h3>
+        <p class="text-sm text-slate-500">针对 **第192页** 的内容</p>
+    </div>
+
+    <!-- Comment Input Form -->
+    <div class="flex-shrink-0 py-4">
+        <div class="flex items-start space-x-3">
+            <img class="w-9 h-9 rounded-full" src="https://i.pravatar.cc/150?u=a042581f4e29026704d" alt="你的头像">
+            <div class="flex-1">
+                <textarea class="w-full p-3 text-sm border border-slate-200 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition" rows="3" placeholder="发表你的见解或问题..."></textarea>
+                <div class="flex justify-end mt-2">
+                    <button class="px-4 py-2 text-sm font-semibold text-white bg-indigo-600 rounded-lg hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">发表评论</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Comments List -->
+    <div class="flex-grow overflow-y-auto -mr-6 pr-6 space-y-5">
+        <!-- Comment 1 -->
+        <div class="flex items-start space-x-3">
+            <img class="w-9 h-9 rounded-full" src="https://i.pravatar.cc/150?u=a042581f4e29026704a" alt="用户头像">
+            <div class="flex-1">
+                <div class="bg-slate-100 rounded-lg px-4 py-2">
+                    <div class="flex items-center justify-between">
+                        <span class="font-semibold text-sm text-slate-800">生物学霸</span>
+                        <span class="text-xs text-slate-500">3小时前</span>
+                    </div>
+                    <p class="text-sm text-slate-700 mt-1">
+                        关于卡尔文循环，书中提到需要3个ATP和2个NADPH来固定一个CO₂分子，这点在考试中经常作为考点出现。
+                    </p>
+                </div>
+                <div class="mt-1 pl-2">
+                    <button class="text-xs font-semibold text-slate-500 hover:text-indigo-600">回复</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Comment 2 (with a reply) -->
+        <div class="flex items-start space-x-3">
+            <img class="w-9 h-9 rounded-full" src="https://i.pravatar.cc/150?u=a042581f4e29026704b" alt="用户头像">
+            <div class="flex-1">
+                <div class="bg-slate-100 rounded-lg px-4 py-2">
+                    <div class="flex items-center justify-between">
+                        <span class="font-semibold text-sm text-slate-800">追光者</span>
+                        <span class="text-xs text-slate-500">1小时前</span>
+                    </div>
+                    <p class="text-sm text-slate-700 mt-1">
+                        光反应和暗反应的场所和条件有什么区别？我总是记混。
+                    </p>
+                </div>
+                 <div class="mt-1 pl-2">
+                    <button class="text-xs font-semibold text-slate-500 hover:text-indigo-600">回复</button>
+                </div>
+
+                <!-- Reply to Comment 2 -->
+                <div class="mt-3 flex items-start space-x-3 pl-8">
+                    <img class="w-9 h-9 rounded-full" src="https://i.pravatar.cc/150?u=a042581f4e29026704c" alt="用户头像">
+                    <div class="flex-1">
+                        <div class="bg-slate-100 rounded-lg px-4 py-2">
+                            <div class="flex items-center justify-between">
+                                <span class="font-semibold text-sm text-slate-800">细胞的秘密</span>
+                                <span class="text-xs text-slate-500">25分钟前</span>
+                            </div>
+                            <p class="text-sm text-slate-700 mt-1">
+                                简单记：光反应在类囊体薄膜上，需要光；暗反应（卡尔文循环）在叶绿体基质中，不需要光。
+                            </p>
+                        </div>
+                        <div class="mt-1 pl-2">
+                            <button class="text-xs font-semibold text-slate-500 hover:text-indigo-600">回复</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+         <!-- Comment 3 -->
+        <div class="flex items-start space-x-3">
+            <img class="w-9 h-9 rounded-full" src="https://i.pravatar.cc/150?u=a042581f4e29026704e" alt="用户头像">
+            <div class="flex-1">
+                <div class="bg-slate-100 rounded-lg px-4 py-2">
+                    <div class="flex items-center justify-between">
+                        <span class="font-semibold text-sm text-slate-800">分子之舞</span>
+                        <span class="text-xs text-slate-500">10分钟前</span>
+                    </div>
+                    <p class="text-sm text-slate-700 mt-1">
+                        这个页面的思维导图总结得很好，一目了然！
+                    </p>
+                </div>
+                 <div class="mt-1 pl-2">
+                    <button class="text-xs font-semibold text-slate-500 hover:text-indigo-600">回复</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

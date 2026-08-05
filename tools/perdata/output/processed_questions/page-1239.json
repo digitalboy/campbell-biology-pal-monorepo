@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 1239,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following combinations of factors would most likely lead to a significant decrease in population size?",
+      "zh": "以下哪种因素组合最可能导致种群数量显著下降？",
+      "es": "¿Cuál de las siguientes combinaciones de factores tendría más probabilidades de provocar una disminución significativa del tamaño de la población?",
+      "fr": "Quelle est la combinaison de facteurs suivante qui serait la plus susceptible d'entraîner une diminution significative de la taille de la population ?",
+      "de": "Welche der folgenden Faktorenkombinationen würde am wahrscheinlichsten zu einem deutlichen Rückgang der Populationsgröße führen?",
+      "ja": "以下の要因の組み合わせのうち、個体群の規模が大幅に減少する可能性が最も高いのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Increased births and increased immigration.",
+          "zh": "出生率增加和迁入增加。",
+          "es": "Aumento de nacimientos y aumento de inmigración.",
+          "fr": "Augmentation des naissances et augmentation de l'immigration.",
+          "de": "Erhöhte Geburtenrate und erhöhte Zuwanderung.",
+          "ja": "出生数の増加と移入の増加。"
+        },
+        "feedback": {
+          "en": "Both increased births and immigration add individuals, leading to population growth.",
+          "zh": "出生率增加和迁入都会增加个体数量，导致种群增长。",
+          "es": "Tanto el aumento de nacimientos como el de la inmigración añaden individuos, lo que lleva al crecimiento de la población.",
+          "fr": "L'augmentation des naissances et l'immigration ajoutent toutes deux des individus, entraînant une croissance de la population.",
+          "de": "Sowohl erhöhte Geburtenraten als auch Zuwanderung fügen Individuen hinzu, was zu Populationswachstum führt.",
+          "ja": "出生数の増加と移入の増加はともに個体数を増やし、個体群の増加につながります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Increased deaths and increased emigration.",
+          "zh": "死亡率增加和迁出增加。",
+          "es": "Aumento de muertes y aumento de emigración.",
+          "fr": "Augmentation des décès et augmentation de l'émigration.",
+          "de": "Erhöhte Sterberate und erhöhte Abwanderung.",
+          "ja": "死亡数の増加と移出の増加。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Decreased births and decreased deaths.",
+          "zh": "出生率下降和死亡率下降。",
+          "es": "Disminución de nacimientos y disminución de muertes.",
+          "fr": "Diminution des naissances et diminution des décès.",
+          "de": "Verringerte Geburtenrate und verringerte Sterberate.",
+          "ja": "出生数の減少と死亡数の減少。"
+        },
+        "feedback": {
+          "en": "Decreased deaths would lead to more individuals surviving, potentially offsetting the decrease in births or even leading to growth.",
+          "zh": "死亡率下降会导致更多个体存活，可能抵消出生率的下降，甚至导致种群增长。",
+          "es": "La disminución de las muertes llevaría a que más individuos sobrevivan, lo que podría compensar la disminución de los nacimientos o incluso conducir al crecimiento.",
+          "fr": "La diminution des décès entraînerait la survie d'un plus grand nombre d'individus, compensant potentiellement la diminution des naissances ou même conduisant à une croissance.",
+          "de": "Eine verringerte Sterberate würde dazu führen, dass mehr Individuen überleben, was den Rückgang der Geburtenrate potenziell ausgleichen oder sogar zu Wachstum führen könnte.",
+          "ja": "死亡数の減少はより多くの個体が生き残ることにつながり、出生数の減少を相殺するか、あるいは個体群の増加につながる可能性があります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Decreased immigration and increased births.",
+          "zh": "迁入下降和出生率增加。",
+          "es": "Disminución de inmigración y aumento de nacimientos.",
+          "fr": "Diminution de l'immigration et augmentation des naissances.",
+          "de": "Verringerte Zuwanderung und erhöhte Geburtenrate.",
+          "ja": "移入の減少と出生数の増加。"
+        },
+        "feedback": {
+          "en": "Increased births would add individuals, potentially offsetting the decrease in immigration or even leading to growth.",
+          "zh": "出生率增加会增加个体数量，可能抵消迁入的下降，甚至导致种群增长。",
+          "es": "El aumento de nacimientos añadiría individuos, lo que podría compensar la disminución de la inmigración o incluso conducir al crecimiento.",
+          "fr": "L'augmentation des naissances ajouterait des individus, compensant potentiellement la diminution de l'immigration ou même conduisant à une croissance.",
+          "de": "Erhöhte Geburtenraten würden Individuen hinzufügen, was den Rückgang der Zuwanderung potenziell ausgleichen oder sogar zu Wachstum führen könnte.",
+          "ja": "出生数の増加は個体数を増やし、移入の減少を相殺するか、あるいは個体群の増加につながる可能性があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Population size is influenced by four main factors: births and immigration (which increase size) and deaths and emigration (which decrease size). An increase in factors that remove individuals (deaths and emigration) will most directly lead to a decrease in population size.",
+      "zh": "种群规模受四个主要因素影响：出生和迁入（增加规模）以及死亡和迁出（减少规模）。移除个体（死亡和迁出）的因素增加将最直接导致种群规模的下降。",
+      "es": "El tamaño de la población está influenciado por cuatro factores principales: nacimientos e inmigración (que aumentan el tamaño) y muertes y emigración (que disminuyen el tamaño). Un aumento en los factores que eliminan individuos (muertes y emigración) conducirá más directamente a una disminución del tamaño de la población.",
+      "fr": "La taille de la population est influencée par quatre facteurs principaux : les naissances et l'immigration (qui augmentent la taille) et les décès et l'émigration (qui diminuent la taille). Une augmentation des facteurs qui éliminent des individus (décès et émigration) entraînera plus directement une diminution de la taille de la population.",
+      "de": "Die Populationsgröße wird von vier Hauptfaktoren beeinflusst: Geburten und Zuwanderung (die die Größe erhöhen) sowie Todesfälle und Abwanderung (die die Größe verringern). Eine Zunahme der Faktoren, die Individuen entfernen (Todesfälle und Abwanderung), wird am direktesten zu einer Abnahme der Populationsgröße führen.",
+      "ja": "個体群の規模は、出生と移入（規模を増加させる）および死亡と移出（規模を減少させる）の4つの主要な要因によって影響を受けます。個体を排除する要因（死亡と移出）の増加は、個体群規模の減少に最も直接的につながります。"
+    }
+  },
+  {
+    "page_number": 1239,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on the 'Over time, a population may...' diagrams, which of the following describes a population that fluctuates irregularly?",
+      "zh": "根据“随着时间推移，种群可能……”图示，以下哪一项描述了不规则波动的种群？",
+      "es": "Según los diagramas 'Con el tiempo, una población puede...', ¿cuál de los siguientes describe una población que fluctúa irregularmente?",
+      "fr": "Selon les diagrammes « Au fil du temps, une population peut... », lequel des éléments suivants décrit une population qui fluctue irrégulièrement ?",
+      "de": "Basierend auf den Diagrammen „Im Laufe der Zeit kann eine Population...“, welche der folgenden beschreibt eine Population, die unregelmäßig schwankt?",
+      "ja": "「時間の経過とともに、個体群は...」の図に基づいて、以下のうち不規則に変動する個体群を記述しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A graph showing a sigmoid curve, where the population reaches a plateau.",
+          "zh": "显示S形曲线的图表，其中种群达到一个平台期。",
+          "es": "Un gráfico que muestra una curva sigmoide, donde la población alcanza una meseta.",
+          "fr": "Un graphique montrant une courbe sigmoïde, où la population atteint un plateau.",
+          "de": "Ein Diagramm, das eine Sigmoidkurve zeigt, bei der die Population ein Plateau erreicht.",
+          "ja": "個体群がプラトーに達するS字曲線を示すグラフ。"
+        },
+        "feedback": {
+          "en": "This pattern represents reaching a stable size or carrying capacity.",
+          "zh": "这种模式代表达到稳定规模或承载能力。",
+          "es": "Este patrón representa alcanzar un tamaño estable o la capacidad de carga.",
+          "fr": "Ce modèle représente l'atteinte d'une taille stable ou de la capacité de charge.",
+          "de": "Dieses Muster stellt das Erreichen einer stabilen Größe oder der Tragfähigkeit dar.",
+          "ja": "このパターンは、安定した規模または収容力に達することを示します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A graph with jagged, unpredictable ups and downs.",
+          "zh": "具有锯齿状、不可预测的上下波动的图表。",
+          "es": "Un gráfico con altibajos irregulares e impredecibles.",
+          "fr": "Un graphique avec des hauts et des bas irréguliers et imprévisibles.",
+          "de": "Ein Diagramm mit gezackten, unvorhersehbaren Höhen und Tiefen.",
+          "ja": "ギザギザで予測不可能な上下変動を伴うグラフ。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A graph showing consistent, wave-like patterns of increase and decrease.",
+          "zh": "显示持续的、波浪状增长和下降模式的图表。",
+          "es": "Un gráfico que muestra patrones consistentes y ondulantes de aumento y disminución.",
+          "fr": "Un graphique montrant des motifs cohérents, en forme de vagues, d'augmentation et de diminution.",
+          "de": "Ein Diagramm, das konsistente, wellenartige Muster von Zunahme und Abnahme zeigt.",
+          "ja": "増減の波状パターンを一貫して示すグラフ。"
+        },
+        "feedback": {
+          "en": "This pattern represents population growth in regular cycles.",
+          "zh": "这种模式代表种群在规律周期中的增长。",
+          "es": "Este patrón representa el crecimiento de la población en ciclos regulares.",
+          "fr": "Ce modèle représente la croissance de la population en cycles réguliers.",
+          "de": "Dieses Muster stellt Populationswachstum in regelmäßigen Zyklen dar.",
+          "ja": "このパターンは、規則的な周期での個体群の成長を示します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A graph showing a continuous exponential increase.",
+          "zh": "显示持续指数增长的图表。",
+          "es": "Un gráfico que muestra un aumento exponencial continuo.",
+          "fr": "Un graphique montrant une augmentation exponentielle continue.",
+          "de": "Ein Diagramm, das eine kontinuierliche exponentielle Zunahme zeigt.",
+          "ja": "連続的な指数関数的増加を示すグラフ。"
+        },
+        "feedback": {
+          "en": "This pattern is not depicted in the 'Over time, a population may...' section, which specifically illustrates patterns of stable size, irregular fluctuation, or regular cycles.",
+          "zh": "这种模式未在“随着时间推移，种群可能……”部分描绘，该部分特别说明了稳定规模、不规则波动或规律周期的模式。",
+          "es": "Este patrón no está representado en la sección 'Con el tiempo, una población puede...', que ilustra específicamente patrones de tamaño estable, fluctuación irregular o ciclos regulares.",
+          "fr": "Ce modèle n'est pas représenté dans la section « Au fil du temps, une population peut... », qui illustre spécifiquement les modèles de taille stable, de fluctuation irrégulière ou de cycles réguliers.",
+          "de": "Dieses Muster wird nicht im Abschnitt „Im Laufe der Zeit kann eine Population...“ dargestellt, der spezifisch Muster von stabiler Größe, unregelmäßiger Fluktuation oder regelmäßigen Zyklen illustriert.",
+          "ja": "このパターンは、「時間の経過とともに、個体群は...」のセクションには描かれていません。このセクションでは、安定した規模、不規則な変動、または規則的なサイクルのパターンが具体的に示されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The diagrams explicitly show three types of population changes over time: 'reach a stable size', 'fluctuate irregularly', and 'or rise and fall in regular cycles'. The graph corresponding to 'fluctuate irregularly' is characterized by its unpredictable, jagged movements.",
+      "zh": "这些图明确显示了三种随时间推移的种群变化类型：“达到稳定规模”、“不规则波动”和“或规则周期性地增减”。对应于“不规则波动”的图示特点是其不可预测的、锯齿状的运动。",
+      "es": "Los diagramas muestran explícitamente tres tipos de cambios de población a lo largo del tiempo: 'alcanzar un tamaño estable', 'fluctuar irregularmente' y 'o subir y bajar en ciclos regulares'. El gráfico correspondiente a 'fluctuar irregularmente' se caracteriza por sus movimientos impredecibles y dentados.",
+      "fr": "Les diagrammes montrent explicitement trois types de changements de population au fil du temps : « atteindre une taille stable », « fluctuer irrégulièrement » et « ou monter et descendre en cycles réguliers ». Le graphique correspondant à « fluctuer irrégulièrement » se caractérise par ses mouvements imprévisibles et irréguliers.",
+      "de": "Die Diagramme zeigen explizit drei Arten von Populationsänderungen im Laufe der Zeit: „eine stabile Größe erreichen“, „unregelmäßig schwanken“ und „oder in regelmäßigen Zyklen steigen und fallen“. Das Diagramm, das „unregelmäßig schwankt“ darstellt, zeichnet sich durch seine unvorhersehbaren, gezackten Bewegungen aus.",
+      "ja": "図は時間の経過に伴う個体群の変化を明示的に3つのタイプで示しています。「安定した規模に達する」、「不規則に変動する」、「または規則的な周期で増減する」。『不規則に変動する』に対応するグラフは、その予測不可能なギザギザの動きによって特徴付けられます。"
+    }
+  },
+  {
+    "page_number": 1239,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A population of insects is introduced into a new, resource-rich environment. Initially, their numbers grow very rapidly. However, as the population increases, competition for resources intensifies, and the growth rate slows down until the population size stabilizes around a certain maximum. Which sequence of ecological models best describes this population's growth over time, as explained in the 'Key Concepts' section?",
+      "zh": "将一个昆虫种群引入一个新的、资源丰富的环境。最初，它们的数量增长非常迅速。然而，随着种群数量的增加，对资源的竞争加剧，增长速度减缓，直到种群规模稳定在某个最大值附近。根据“关键概念”部分的解释，哪种生态模型序列最能描述该种群随时间推移的增长情况？",
+      "es": "Se introduce una población de insectos en un nuevo entorno rico en recursos. Inicialmente, su número crece muy rápidamente. Sin embargo, a medida que la población aumenta, la competencia por los recursos se intensifica y la tasa de crecimiento disminuye hasta que el tamaño de la población se estabiliza alrededor de un cierto máximo. ¿Qué secuencia de modelos ecológicos describe mejor el crecimiento de esta población a lo largo del tiempo, según se explica en la sección 'Conceptos Clave'?",
+      "fr": "Une population d'insectes est introduite dans un nouvel environnement riche en ressources. Initialement, leur nombre croît très rapidement. Cependant, à mesure que la population augmente, la concurrence pour les ressources s'intensifie et le taux de croissance ralentit jusqu'à ce que la taille de la population se stabilise autour d'un certain maximum. Quelle séquence de modèles écologiques décrit le mieux la croissance de cette population au fil du temps, comme expliqué dans la section « Concepts clés » ?",
+      "de": "Eine Insektenpopulation wird in eine neue, ressourcenreiche Umgebung eingeführt. Anfangs wächst ihre Zahl sehr schnell. Mit zunehmender Populationsgröße verstärkt sich jedoch die Konkurrenz um Ressourcen, und die Wachstumsrate verlangsamt sich, bis die Populationsgröße sich um ein bestimmtes Maximum stabilisiert. Welche Abfolge ökologischer Modelle beschreibt das Wachstum dieser Population im Laufe der Zeit am besten, wie im Abschnitt „Schlüsselkonzepte“ erklärt?",
+      "ja": "昆虫の個体群が資源豊富な新しい環境に導入されました。当初、その数は非常に急速に増加しました。しかし、個体群が増加するにつれて、資源をめぐる競争が激化し、成長率は鈍化し、最終的に個体群の規模はある最大値付近で安定しました。「主要な概念」セクションで説明されているように、時間の経過に伴うこの個体群の成長を最もよく説明する生態学的モデルのシーケンスはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Logistic model, then exponential model.",
+          "zh": "逻辑斯蒂模型，然后是指数模型。",
+          "es": "Modelo logístico, luego modelo exponencial.",
+          "fr": "Modèle logistique, puis modèle exponentiel.",
+          "de": "Logistisches Modell, dann exponentielles Modell.",
+          "ja": "ロジスティックモデル、次に指数モデル。"
+        },
+        "feedback": {
+          "en": "This sequence is incorrect. Exponential growth typically precedes the slowing down phase described by the logistic model.",
+          "zh": "这个序列是错误的。指数增长通常发生在由逻辑斯蒂模型描述的增长减缓阶段之前。",
+          "es": "Esta secuencia es incorrecta. El crecimiento exponencial suele preceder a la fase de desaceleración descrita por el modelo logístico.",
+          "fr": "Cette séquence est incorrecte. La croissance exponentielle précède généralement la phase de ralentissement décrite par le modèle logistique.",
+          "de": "Diese Reihenfolge ist falsch. Exponentielles Wachstum geht typischerweise der Verlangsamungsphase voraus, die durch das logistische Modell beschrieben wird.",
+          "ja": "この順序は誤りです。指数関数的成長は通常、ロジスティックモデルで記述される成長鈍化フェーズの前に起こります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Exponential model, then logistic model.",
+          "zh": "指数模型，然后是逻辑斯蒂模型。",
+          "es": "Modelo exponencial, luego modelo logístico.",
+          "fr": "Modèle exponentiel, puis modèle logistique.",
+          "de": "Exponentielles Modell, dann logistisches Modell.",
+          "ja": "指数モデル、次にロジスティックモデル。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Density-dependent growth, then density-independent growth.",
+          "zh": "密度依赖性增长，然后是密度独立性增长。",
+          "es": "Crecimiento dependiente de la densidad, luego crecimiento independiente de la densidad.",
+          "fr": "Croissance dépendante de la densité, puis croissance indépendante de la densité.",
+          "de": "Dichteabhängiges Wachstum, dann dichteunabhängiges Wachstum.",
+          "ja": "密度依存性成長、次に密度非依存性成長。"
+        },
+        "feedback": {
+          "en": "Density-dependent and independent factors are causes affecting growth, not the models themselves, and this sequence is also reversed in terms of typical population dynamics described.",
+          "zh": "密度依赖性和密度独立性因素是影响增长的原因，而非模型本身，且就描述的典型种群动态而言，这个序列也是颠倒的。",
+          "es": "Los factores dependientes e independientes de la densidad son causas que afectan el crecimiento, no los modelos en sí mismos, y esta secuencia también está invertida en términos de la dinámica poblacional típica descrita.",
+          "fr": "Les facteurs dépendants et indépendants de la densité sont des causes affectant la croissance, et non les modèles eux-mêmes, et cette séquence est également inversée en termes de dynamique de population typique décrite.",
+          "de": "Dichteabhängige und dichteunabhängige Faktoren sind Ursachen, die das Wachstum beeinflussen, nicht die Modelle selbst, und diese Reihenfolge ist auch in Bezug auf die beschriebene typische Populationsdynamik umgekehrt.",
+          "ja": "密度依存性および密度非依存性要因は、成長に影響を与える原因であり、モデルそのものではなく、この順序は典型的な個体群動態の説明においても逆になっています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Human population growth, then stable size.",
+          "zh": "人类种群增长，然后是稳定规模。",
+          "es": "Crecimiento de la población humana, luego tamaño estable.",
+          "fr": "Croissance de la population humaine, puis taille stable.",
+          "de": "Menschliches Populationswachstum, dann stabile Größe.",
+          "ja": "人間個体群の成長、次に安定した規模。"
+        },
+        "feedback": {
+          "en": "While human population growth is a concept, it doesn't describe the general insect population dynamics given, nor does 'stable size' fully encapsulate the preceding growth model.",
+          "zh": "虽然人类种群增长是一个概念，但它不能描述所给出的昆虫种群的一般动态，而且“稳定规模”也不能完全概括先前的增长模型。",
+          "es": "Si bien el crecimiento de la población humana es un concepto, no describe la dinámica general de la población de insectos dada, ni tampoco 'tamaño estable' encapsula completamente el modelo de crecimiento precedente.",
+          "fr": "Bien que la croissance de la population humaine soit un concept, elle ne décrit pas la dynamique générale de la population d'insectes donnée, et la « taille stable » n'englobe pas entièrement le modèle de croissance précédent.",
+          "de": "Obwohl menschliches Populationswachstum ein Konzept ist, beschreibt es nicht die allgemeine Insektenpopulationsdynamik, und „stabile Größe“ fasst das vorangehende Wachstumsmodell nicht vollständig zusammen.",
+          "ja": "人間個体群の成長は概念ですが、与えられた昆虫個体群の一般的な動態を説明するものではなく、「安定した規模」も先行する成長モデルを完全に包含するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The scenario describes initial rapid growth in an ideal environment, characteristic of the exponential model (Key Concept 53.2). As resources become limited and competition increases, the growth rate slows, leading to the population stabilizing around its carrying capacity, which is characteristic of the logistic model (Key Concept 53.3).",
+      "zh": "该情景描述了在理想环境中最初的快速增长，这是指数模型（关键概念 53.2）的特征。随着资源变得有限和竞争加剧，增长速度减缓，导致种群稳定在承载能力附近，这是逻辑斯蒂模型（关键概念 53.3）的特征。",
+      "es": "El escenario describe un crecimiento inicial rápido en un entorno ideal, característico del modelo exponencial (Concepto Clave 53.2). A medida que los recursos se vuelven limitados y la competencia aumenta, la tasa de crecimiento disminuye, lo que lleva a la estabilización de la población alrededor de su capacidad de carga, característica del modelo logístico (Concepto Clave 53.3).",
+      "fr": "Le scénario décrit une croissance rapide initiale dans un environnement idéal, caractéristique du modèle exponentiel (Concept Clé 53.2). À mesure que les ressources deviennent limitées et que la concurrence augmente, le taux de croissance ralentit, ce qui conduit la population à se stabiliser autour de sa capacité de charge, ce qui est caractéristique du modèle logistique (Concept Clé 53.3).",
+      "de": "Das Szenario beschreibt ein anfängliches schnelles Wachstum in einer idealen Umgebung, charakteristisch für das exponentielle Modell (Schlüsselkonzept 53.2). Wenn Ressourcen begrenzt werden und die Konkurrenz zunimmt, verlangsamt sich die Wachstumsrate, was dazu führt, dass sich die Population um ihre Tragfähigkeit herum stabilisiert, was charakteristisch für das logistische Modell ist (Schlüsselkonzept 53.3).",
+      "ja": "このシナリオは、理想的な環境における初期の急速な成長を示しており、これは指数モデル（主要な概念53.2）の特徴です。資源が限られ、競争が増加するにつれて、成長率は鈍化し、個体群はその環境収容力の周りで安定します。これはロジスティックモデル（主要な概念53.3）の特徴です。"
+    }
+  }
+]

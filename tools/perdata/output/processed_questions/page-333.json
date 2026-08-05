@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, why is pedigree analysis used to study human genetics instead of breeding experiments?",
+      "zh": "根据文本，为什么使用谱系分析来研究人类遗传学，而不是进行育种实验？",
+      "es": "Según el texto, ¿por qué se utiliza el análisis de pedigrí para estudiar la genética humana en lugar de experimentos de cría?",
+      "fr": "Selon le texte, pourquoi l'analyse généalogique est-elle utilisée pour étudier la génétique humaine au lieu d'expériences de sélection ?",
+      "de": "Warum wird laut Text die Stammbaumanalyse zur Untersuchung der Humangenetik anstelle von Züchtungsexperimenten verwendet?",
+      "ja": "本文によると、なぜ人間の遺伝学の研究には交配実験ではなく、家系図分析が用いられるのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Human traits are too complex to be studied by breeding.",
+          "zh": "人类的性状过于复杂，无法通过育种来研究。",
+          "es": "Los rasgos humanos son demasiado complejos para ser estudiados mediante la cría.",
+          "fr": "Les traits humains sont trop complexes pour être étudiés par la sélection.",
+          "de": "Menschliche Merkmale sind zu komplex, um durch Züchtung untersucht zu werden.",
+          "ja": "人間の形質は複雑すぎて交配によって研究することができません。"
+        },
+        "feedback": {
+          "en": "While some human traits are complex, the text's primary reasons are logistical and ethical, not complexity.",
+          "zh": "虽然某些人类性状很复杂，但文本给出的主要原因是操作和伦理上的，而不是复杂性。",
+          "es": "Si bien algunos rasgos humanos son complejos, las razones principales del texto son logísticas y éticas, no la complejidad.",
+          "fr": "Bien que certains traits humains soient complexes, les principales raisons du texte sont logistiques et éthiques, et non la complexité.",
+          "de": "Obwohl einige menschliche Merkmale komplex sind, sind die Hauptgründe des Textes logistischer und ethischer Natur, nicht die Komplexität.",
+          "ja": "人間の形質には複雑なものもありますが、本文の主な理由は複雑さではなく、ロジスティクスと倫理です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Long generation span, few offspring, and ethical concerns.",
+          "zh": "生命周期长、后代少以及伦理问题。",
+          "es": "Largo período de generación, poca descendencia y preocupaciones éticas.",
+          "fr": "Longue durée de génération, peu de descendants et préoccupations éthiques.",
+          "de": "Lange Generationsdauer, wenige Nachkommen und ethische Bedenken.",
+          "ja": "世代期間が長く、子孫が少なく、倫理的な懸念があるため。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is impossible to determine the genotype of humans.",
+          "zh": "无法确定人类的基因型。",
+          "es": "Es imposible determinar el genotipo de los humanos.",
+          "fr": "Il est impossible de déterminer le génotype des humains.",
+          "de": "Es ist unmöglich, den Genotyp von Menschen zu bestimmen.",
+          "ja": "人間の遺伝子型を決定することは不可能です。"
+        },
+        "feedback": {
+          "en": "Pedigree analysis is precisely a method used to deduce possible genotypes of humans.",
+          "zh": "谱系分析正是一种用于推断人类可能基因型的方法。",
+          "es": "El análisis de pedigrí es precisamente un método utilizado para deducir posibles genotipos de humanos.",
+          "fr": "L'analyse généalogique est précisément une méthode utilisée pour déduire les génotypes possibles des humains.",
+          "de": "Die Stammbaumanalyse ist genau eine Methode, mit der mögliche Genotypen von Menschen abgeleitet werden.",
+          "ja": "家系図分析は、まさに人間の考えられる遺伝子型を推測するために使用される方法です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Mendelian patterns of inheritance do not apply to humans.",
+          "zh": "孟德尔遗传模式不适用于人类。",
+          "es": "Los patrones de herencia mendeliana no se aplican a los humanos.",
+          "fr": "Les modèles d'hérédité mendélienne ne s'appliquent pas aux humains.",
+          "de": "Mendelsche Vererbungsmuster gelten nicht für den Menschen.",
+          "ja": "メンデルの遺伝パターンは人間には当てはまりません。"
+        },
+        "feedback": {
+          "en": "The entire premise of the section is that many human traits do follow Mendelian patterns, which is why pedigree analysis is a useful tool.",
+          "zh": "本节的整个前提是，许多人类性状确实遵循孟德尔模式，这就是为什么谱系分析是一个有用的工具。",
+          "es": "Toda la premisa de la sección es que muchos rasgos humanos siguen patrones mendelianos, razón por la cual el análisis de pedigrí es una herramienta útil.",
+          "fr": "Toute la prémisse de la section est que de nombreux traits humains suivent des modèles mendéliens, c'est pourquoi l'analyse généalogique est un outil utile.",
+          "de": "Die gesamte Prämisse des Abschnitts ist, dass viele menschliche Merkmale Mendelschen Mustern folgen, weshalb die Stammbaumanalyse ein nützliches Werkzeug ist.",
+          "ja": "このセクション全体の前提は、多くの人間の形質がメンデルのパターンに従うということであり、それが家系図分析が有用なツールである理由です。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text explicitly states three reasons why humans are not convenient subjects for genetic research: 'The human generation span is long (about 20 years), human parents produce many fewer offspring than peas, and breeding experiments would be unethical!'",
+      "zh": "文本明确指出了人类不适合作为遗传学研究对象的三个原因：“人类的生命周期很长（约20年），人类父母产生的后代比豌豆少得多，而且育种实验是不道德的！”",
+      "es": "El texto establece explícitamente tres razones por las que los humanos no son sujetos convenientes para la investigación genética: 'El período de generación humano es largo (alrededor de 20 años), los padres humanos producen muchos menos descendientes que los guisantes y los experimentos de cría no serían éticos'.",
+      "fr": "Le texte énonce explicitement trois raisons pour lesquelles les humains ne sont pas des sujets pratiques pour la recherche génétique : « La durée de la génération humaine est longue (environ 20 ans), les parents humains produisent beaucoup moins de descendants que les pois, et les expériences de sélection seraient contraires à l'éthique ! »",
+      "de": "Der Text nennt ausdrücklich drei Gründe, warum der Mensch kein geeignetes Objekt für die genetische Forschung ist: „Die Generationsdauer des Menschen ist lang (etwa 20 Jahre), menschliche Eltern bringen viel weniger Nachkommen hervor als Erbsen, und Züchtungsexperimente wären unethisch!“",
+      "ja": "本文では、人間が遺伝研究の対象として不便な理由を3つ明確に述べています。「人間の世代期間は長く（約20年）、人間の親はエンドウ豆よりもはるかに少ない子孫しか産まず、交配実験は非倫理的であろう！」"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In the pedigree for widow's peak (Figure 14.15a), the grandparents (1st generation) with widow's peaks must have the genotype Ww. Why can't they be WW?",
+      "zh": "在美人尖的谱系图（图 14.15a）中，有美人尖的祖父母（第一代）的基因型必须是 Ww。为什么他们不可能是 WW？",
+      "es": "En el pedigrí del pico de viuda (Figura 14.15a), los abuelos (1ª generación) con pico de viuda deben tener el genotipo Ww. ¿Por qué no pueden ser WW?",
+      "fr": "Dans le pedigree du pic de veuve (figure 14.15a), les grands-parents (1ère génération) avec un pic de veuve doivent avoir le génotype Ww. Pourquoi ne peuvent-ils pas être WW ?",
+      "de": "Im Stammbaum für den Witwenspitz (Abbildung 14.15a) müssen die Großeltern (1. Generation) mit Witwenspitz den Genotyp Ww haben. Warum können sie nicht WW sein?",
+      "ja": "未亡人ピークの家系図（図14.15a）において、未亡人ピークを持つ祖父母（第1世代）の遺伝子型はWwでなければなりません。なぜ彼らはWWではありえないのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Because they have offspring who are homozygous recessive (ww).",
+          "zh": "因为他们有纯合隐性（ww）的后代。",
+          "es": "Porque tienen descendencia que es homocigota recesiva (ww).",
+          "fr": "Parce qu'ils ont une descendance qui est homozygote récessive (ww).",
+          "de": "Weil sie Nachkommen haben, die homozygot rezessiv sind (ww).",
+          "ja": "彼らにはホモ接合劣性（ww）の子孫がいるからです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Because widow's peak is a recessive trait.",
+          "zh": "因为美人尖是一个隐性性状。",
+          "es": "Porque el pico de viuda es un rasgo recesivo.",
+          "fr": "Parce que le pic de veuve est un trait récessif.",
+          "de": "Weil der Witwenspitz ein rezessives Merkmal ist.",
+          "ja": "未亡人ピークは劣性形質だからです。"
+        },
+        "feedback": {
+          "en": "The text and pedigree analysis show that widow's peak is treated as a dominant trait in this model.",
+          "zh": "文本和谱系分析表明，在这个模型中，美人尖被视为显性性状。",
+          "es": "El texto y el análisis del pedigrí muestran que el pico de viuda se trata como un rasgo dominante en este modelo.",
+          "fr": "Le texte et l'analyse généalogique montrent que le pic de veuve est traité comme un trait dominant dans ce modèle.",
+          "de": "Der Text und die Stammbaumanalyse zeigen, dass der Witwenspitz in diesem Modell als dominantes Merkmal behandelt wird.",
+          "ja": "本文と家系図分析は、このモデルでは未亡人ピークが優性形質として扱われていることを示しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Because all individuals in the second generation have a widow's peak.",
+          "zh": "因为第二代的所有个体都有美人尖。",
+          "es": "Porque todos los individuos de la segunda generación tienen pico de viuda.",
+          "fr": "Parce que tous les individus de la deuxième génération ont un pic de veuve.",
+          "de": "Weil alle Individuen in der zweiten Generation einen Witwenspitz haben.",
+          "ja": "第2世代のすべての個体が未亡人ピークを持っているからです。"
+        },
+        "feedback": {
+          "en": "This is incorrect. Looking at the pedigree, some of their children (e.g., the second son) do not have a widow's peak (ww).",
+          "zh": "这是不正确的。看谱系图，他们的一些孩子（例如，第二个儿子）没有美人尖（ww）。",
+          "es": "Esto es incorrecto. Mirando el pedigrí, algunos de sus hijos (p. ej., el segundo hijo) no tienen pico de viuda (ww).",
+          "fr": "C'est incorrect. En regardant le pedigree, certains de leurs enfants (par exemple, le deuxième fils) n'ont pas de pic de veuve (ww).",
+          "de": "Das ist falsch. Betrachtet man den Stammbaum, haben einige ihrer Kinder (z. B. der zweite Sohn) keinen Witwenspitz (ww).",
+          "ja": "これは正しくありません。家系図を見ると、彼らの子供の一部（例えば、次男）は未亡人ピーク（ww）を持っていません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Because their parents (not shown) did not have widow's peaks.",
+          "zh": "因为他们的父母（未显示）没有美人尖。",
+          "es": "Porque sus padres (no mostrados) no tenían pico de viuda.",
+          "fr": "Parce que leurs parents (non montrés) n'avaient pas de pic de veuve.",
+          "de": "Weil ihre Eltern (nicht abgebildet) keinen Witwenspitz hatten.",
+          "ja": "彼らの両親（図示せず）は未亡人ピークを持っていなかったからです。"
+        },
+        "feedback": {
+          "en": "We cannot make assumptions about the first generation's parents as they are not included in the pedigree.",
+          "zh": "我们不能对第一代的父母做出假设，因为他们没有被包含在谱系图中。",
+          "es": "No podemos hacer suposiciones sobre los padres de la primera generación, ya que no están incluidos en el pedigrí.",
+          "fr": "Nous ne pouvons pas faire d'hypothèses sur les parents de la première génération car ils ne sont pas inclus dans le pedigree.",
+          "de": "Wir können keine Annahmen über die Eltern der ersten Generation treffen, da sie nicht im Stammbaum enthalten sind.",
+          "ja": "第1世代の両親は家系図に含まれていないため、彼らについて仮定することはできません。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "A parent with a dominant phenotype who has an offspring with a recessive phenotype must be heterozygous. If a grandparent were homozygous dominant (WW), they could only pass on a W allele, and all of their children would have a widow's peak. Since they have children with the ww genotype, they must have been able to pass on a w allele.",
+      "zh": "一个具有显性表型的父母，如果有一个具有隐性表型的后代，那么这个父母必须是杂合子。如果祖父母是纯合显性（WW），他们只能传递 W 等位基因，他们所有的孩子都会有美人尖。既然他们有基因型为 ww 的孩子，他们就必须能够传递 w 等位基因。",
+      "es": "Un padre con un fenotipo dominante que tiene un descendiente con un fenotipo recesivo debe ser heterocigoto. Si un abuelo fuera homocigoto dominante (WW), solo podría transmitir un alelo W, y todos sus hijos tendrían pico de viuda. Como tienen hijos con el genotipo ww, deben haber podido transmitir un alelo w.",
+      "fr": "Un parent avec un phénotype dominant qui a un descendant avec un phénotype récessif doit être hétérozygote. Si un grand-parent était homozygote dominant (WW), il ne pourrait transmettre qu'un allèle W, et tous ses enfants auraient un pic de veuve. Puisqu'ils ont des enfants avec le génotype ww, ils devaient pouvoir transmettre un allèle w.",
+      "de": "Ein Elternteil mit einem dominanten Phänotyp, der einen Nachkommen mit einem rezessiven Phänotyp hat, muss heterozygot sein. Wäre ein Großelternteil homozygot dominant (WW), könnte er nur ein W-Allel weitergeben, und alle seine Kinder hätten einen Witwenspitz. Da sie Kinder mit dem Genotyp ww haben, müssen sie in der Lage gewesen sein, ein w-Allel weiterzugeben.",
+      "ja": "劣性表現型の子孫を持つ優性表現型の親は、ヘテロ接合体でなければなりません。祖父母がホモ接合優性（WW）であった場合、彼らはW対立遺伝子しか伝えることができず、その子供たちは全員が未亡人ピークを持つことになります。彼らにはww遺伝子型の子孫がいるので、彼らはw対立遺伝子を伝えることができたに違いありません。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "In Figure 14.15b, two parents who can taste PTC (genotypes Tt) have a daughter who cannot (genotype tt). This pattern, where an offspring exhibits a trait not shown by the parents, is a key indicator for what?",
+      "zh": "在图 14.15b 中，两个能尝出 PTC 味道的父母（基因型 Tt）生了一个尝不出的女儿（基因型 tt）。这种后代表现出父母所没有的性状的模式，是什么的关键标志？",
+      "es": "En la Figura 14.15b, dos padres que pueden saborear el PTC (genotipos Tt) tienen una hija que no puede (genotipo tt). Este patrón, donde un descendiente exhibe un rasgo no mostrado por los padres, ¿es un indicador clave de qué?",
+      "fr": "Dans la figure 14.15b, deux parents qui peuvent goûter le PTC (génotypes Tt) ont une fille qui ne le peut pas (génotype tt). Ce schéma, où un descendant présente un trait non montré par les parents, est un indicateur clé de quoi ?",
+      "de": "In Abbildung 14.15b haben zwei Eltern, die PTC schmecken können (Genotypen Tt), eine Tochter, die es nicht kann (Genotyp tt). Dieses Muster, bei dem ein Nachkomme ein Merkmal aufweist, das die Eltern nicht zeigen, ist ein Schlüsselindikator für was?",
+      "ja": "図14.15bでは、PTCを味わうことができる2人の親（遺伝子型Tt）に、味わうことができない娘（遺伝子型tt）がいます。子孫が親に示されていない形質を示すこのパターンは、何の重要な指標ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "That the trait is caused by a dominant allele.",
+          "zh": "该性状是由显性等位基因引起的。",
+          "es": "Que el rasgo es causado por un alelo dominante.",
+          "fr": "Que le trait est causé par un allèle dominant.",
+          "de": "Dass das Merkmal durch ein dominantes Allel verursacht wird.",
+          "ja": "その形質が優性対立遺伝子によって引き起こされること。"
+        },
+        "feedback": {
+          "en": "This is the opposite. If the trait (inability to taste) were dominant, at least one parent who shows the trait must pass the allele to the affected offspring. Here, neither parent shows the trait.",
+          "zh": "正好相反。如果该性状（无法尝味）是显性的，那么至少有一个表现出该性状的父母必须将该等位基因传给受影响的后代。但在这里，父母双方都没有表现出该性状。",
+          "es": "Esto es lo contrario. Si el rasgo (incapacidad para saborear) fuera dominante, al menos uno de los padres que muestra el rasgo debe pasar el alelo a la descendencia afectada. Aquí, ninguno de los padres muestra el rasgo.",
+          "fr": "C'est le contraire. Si le trait (incapacité à goûter) était dominant, au moins un parent qui présente le trait doit transmettre l'allèle à la descendance affectée. Ici, aucun des parents ne présente le trait.",
+          "de": "Das ist das Gegenteil. Wäre das Merkmal (Unfähigkeit zu schmecken) dominant, müsste mindestens ein Elternteil, der das Merkmal zeigt, das Allel an den betroffenen Nachkommen weitergeben. Hier zeigt keiner der beiden Elternteile das Merkmal.",
+          "ja": "これは逆です。形質（味覚を感じられないこと）が優性である場合、その形質を示す親の少なくとも1人が、影響を受ける子孫に対立遺伝子を渡さなければなりません。ここでは、どちらの親もその形質を示していません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "That the trait is caused by a recessive allele.",
+          "zh": "该性状是由隐性等位基因引起的。",
+          "es": "Que el rasgo es causado por un alelo recesivo.",
+          "fr": "Que le trait est causé par un allèle récessif.",
+          "de": "Dass das Merkmal durch ein rezessives Allel verursacht wird.",
+          "ja": "その形質が劣性対立遺伝子によって引き起こされること。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "That the trait is polygenic.",
+          "zh": "该性状是多基因遗传的。",
+          "es": "Que el rasgo es poligénico.",
+          "fr": "Que le trait est polygénique.",
+          "de": "Dass das Merkmal polygen ist.",
+          "ja": "その形質が多遺伝子性であること。"
+        },
+        "feedback": {
+          "en": "While possible in reality, the pedigree pattern strongly suggests a simple Mendelian inheritance pattern, not a complex polygenic one.",
+          "zh": "虽然在现实中可能，但谱系图模式强烈暗示这是一个简单的孟德尔遗传模式，而不是复杂的多基因遗传。",
+          "es": "Aunque es posible en la realidad, el patrón del pedigrí sugiere fuertemente un patrón de herencia mendeliana simple, no uno poligénico complejo.",
+          "fr": "Bien que possible en réalité, le schéma généalogique suggère fortement un modèle d'hérédité mendélien simple, et non un modèle polygénique complexe.",
+          "de": "Obwohl in der Realität möglich, deutet das Stammbaummuster stark auf ein einfaches Mendelsches Vererbungsmuster hin, nicht auf ein komplexes polygenes.",
+          "ja": "現実には可能ですが、家系図のパターンは、複雑な多遺伝子性のものではなく、単純なメンデル遺伝のパターンを強く示唆しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "That the parents are homozygous dominant.",
+          "zh": "父母是纯合显性。",
+          "es": "Que los padres son homocigotos dominantes.",
+          "fr": "Que les parents sont homozygotes dominants.",
+          "de": "Dass die Eltern homozygot dominant sind.",
+          "ja": "両親がホモ接合優性であること。"
+        },
+        "feedback": {
+          "en": "If the parents were homozygous dominant (TT), they could not produce a homozygous recessive (tt) child.",
+          "zh": "如果父母是纯合显性（TT），他们就不可能生出纯合隐性（tt）的孩子。",
+          "es": "Si los padres fueran homocigotos dominantes (TT), no podrían tener un hijo homocigoto recesivo (tt).",
+          "fr": "Si les parents étaient homozygotes dominants (TT), ils ne pourraient pas produire un enfant homozygote récessif (tt).",
+          "de": "Wenn die Eltern homozygot dominant wären (TT), könnten sie kein homozygot rezessives (tt) Kind bekommen.",
+          "ja": "両親がホモ接合優性（TT）であった場合、ホモ接合劣性（tt）の子供を産むことはできません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The tip for pedigree analysis in Figure 14.15b explains this exact scenario. When two parents who lack a trait have an offspring who expresses it, it demonstrates that the trait must be recessive. The parents are heterozygous carriers of the recessive allele.",
+      "zh": "图 14.15b 中的谱系分析技巧解释了这种情况。当两个没有某种性状的父母生出了表现出该性状的后代时，这表明该性状必定是隐性的。父母是该隐性等位基因的杂合携带者。",
+      "es": "El consejo para el análisis de pedigrí en la Figura 14.15b explica este escenario exacto. Cuando dos padres que carecen de un rasgo tienen un descendiente que lo expresa, demuestra que el rasgo debe ser recesivo. Los padres son portadores heterocigotos del alelo recesivo.",
+      "fr": "L'astuce pour l'analyse généalogique de la figure 14.15b explique ce scénario exact. Lorsque deux parents qui n'ont pas un trait ont un descendant qui l'exprime, cela démontre que le trait doit être récessif. Les parents sont des porteurs hétérozygotes de l'allèle récessif.",
+      "de": "Der Tipp zur Stammbaumanalyse in Abbildung 14.15b erklärt genau dieses Szenario. Wenn zwei Eltern, denen ein Merkmal fehlt, einen Nachkommen haben, der es ausprägt, zeigt dies, dass das Merkmal rezessiv sein muss. Die Eltern sind heterozygote Träger des rezessiven Allels.",
+      "ja": "図14.15bの家系図分析のヒントは、まさにこのシナリオを説明しています。形質を持たない2人の親からその形質を発現する子孫が生まれた場合、その形質は劣性でなければならないことを示しています。両親は劣性対立遺伝子のヘテロ接合保因者です。"
+    }
+  }
+]

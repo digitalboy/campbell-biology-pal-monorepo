@@ -1,0 +1,278 @@
+[
+  {
+    "page_number": 1009,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 43.13 and the surrounding text, which of the following statements accurately describes antigen presentation?",
+      "zh": "根据图43.13及其周围的文字，以下哪项陈述准确描述了抗原呈递？",
+      "es": "Según la Figura 43.13 y el texto circundante, ¿cuál de las siguientes afirmaciones describe con precisión la presentación de antígenos?",
+      "fr": "D'après la Figure 43.13 et le texte environnant, laquelle des affirmations suivantes décrit avec précision la présentation d'antigènes ?",
+      "de": "Basierend auf Abbildung 43.13 und dem umgebenden Text, welche der folgenden Aussagen beschreibt die Antigenpräsentation korrekt?",
+      "ja": "図43.13と周囲の文章に基づき、以下の記述のうち、抗原提示を正確に説明しているものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "An MHC molecule can only display a single, specific antigen fragment throughout its lifetime.",
+          "zh": "MHC分子在其整个生命周期中只能呈递一个单一的、特异性的抗原片段。",
+          "es": "Una molécula de MHC solo puede presentar un fragmento antigénico único y específico durante toda su vida.",
+          "fr": "Une molécule de CMH ne peut présenter qu'un seul fragment antigénique spécifique tout au long de sa vie.",
+          "de": "Ein MHC-Molekül kann während seiner gesamten Lebensdauer nur ein einziges, spezifisches Antigenfragment präsentieren.",
+          "ja": "MHC分子はその生涯を通じて、単一の特定の抗原断片のみを提示することができます。"
+        },
+        "feedback": {
+          "en": "The text states that \"An MHC molecule can display many different antigen fragments.\"",
+          "zh": "文本指出“一个MHC分子可以呈递许多不同的抗原片段。”",
+          "es": "El texto afirma que \"Una molécula de MHC puede mostrar muchos fragmentos antigénicos diferentes.\"",
+          "fr": "Le texte indique qu'« Une molécule de CMH peut présenter de nombreux fragments antigéniques différents. »",
+          "de": "Der Text besagt, dass \"Ein MHC-Molekül viele verschiedene Antigenfragmente präsentieren kann.\"",
+          "ja": "テキストには「MHC分子は様々な異なる抗原断片を提示できる」と記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Antigen presentation primarily functions to hide foreign substances from T cells.",
+          "zh": "抗原呈递的主要功能是隐藏外来物质，使其不被T细胞识别。",
+          "es": "La presentación de antígenos funciona principalmente para ocultar sustancias extrañas de las células T.",
+          "fr": "La présentation d'antigènes sert principalement à cacher les substances étrangères aux cellules T.",
+          "de": "Die Antigenpräsentation dient hauptsächlich dazu, fremde Substanzen vor T-Zellen zu verstecken.",
+          "ja": "抗原提示は主に、異物をT細胞から隠すために機能します。"
+        },
+        "feedback": {
+          "en": "Antigen presentation \"advertises the fact that a host cell contains a foreign substance\" and triggers an immune response.",
+          "zh": "抗原呈递“揭示了宿主细胞含有外来物质的事实”，并触发免疫反应。",
+          "es": "La presentación de antígenos \"publicita el hecho de que una célula huésped contiene una sustancia extraña\" y desencadena una respuesta inmune.",
+          "fr": "La présentation d'antigènes « signale le fait qu'une cellule hôte contient une substance étrangère » et déclenche une réponse immunitaire.",
+          "de": "Die Antigenpräsentation \"wirbt dafür, dass eine Wirtszelle eine fremde Substanz enthält\" und löst eine Immunantwort aus.",
+          "ja": "抗原提示は「宿主細胞が異物を含んでいるという事実を広告する」ものであり、免疫応答を引き起こします。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A T cell receptor is highly specific, binding to a single antigen fragment.",
+          "zh": "T细胞受体具有高度特异性，只能与单一抗原片段结合。",
+          "es": "Un receptor de células T es altamente específico y se une a un único fragmento antigénico.",
+          "fr": "Un récepteur de lymphocyte T est très spécifique et se lie à un seul fragment antigénique.",
+          "de": "Ein T-Zell-Rezeptor ist hochspezifisch und bindet an ein einziges Antigenfragment.",
+          "ja": "T細胞受容体は非常に特異的で、単一の抗原断片に結合します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The interaction between an MHC molecule, an antigen fragment, and a T cell receptor is crucial for an adaptive immune response.",
+          "zh": "MHC分子、抗原片段和T细胞受体之间的相互作用对于适应性免疫反应至关重要。",
+          "es": "La interacción entre una molécula de MHC, un fragmento antigénico y un receptor de células T es crucial para una respuesta inmunitaria adaptativa.",
+          "fr": "L'interaction entre une molécule de CMH, un fragment antigénique et un récepteur de lymphocyte T est cruciale pour une réponse immunitaire adaptative.",
+          "de": "Die Interaktion zwischen einem MHC-Molekül, einem Antigenfragment und einem T-Zell-Rezeptor ist entscheidend für eine adaptive Immunantwort.",
+          "ja": "MHC分子、抗原断片、T細胞受容体の間の相互作用は、適応免疫応答にとって極めて重要です。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "C",
+      "D"
+    ],
+    "explanation": {
+      "en": "Options C and D are both directly supported by the text. The text states that \"the antigen receptor of a T cell is specific for a single antigen fragment\" (supporting C). It also explicitly says: \"This interaction of an MHC molecule, an antigen fragment, and an antigen receptor triggers an adaptive immune response\" (supporting D). Option A is incorrect because an MHC molecule can display many different antigen fragments. Option B is incorrect because antigen presentation serves to \"advertise\" foreign substances, not hide them, to initiate an immune response.",
+      "zh": "选项C和D都直接得到了文本的支持。文本指出“T细胞的抗原受体对单一抗原片段具有特异性”（支持C）。它也明确指出：“MHC分子、抗原片段和抗原受体之间的这种相互作用触发适应性免疫反应”（支持D）。选项A不正确，因为MHC分子可以呈递许多不同的抗原片段。选项B不正确，因为抗原呈递是为了“揭示”外来物质，而不是隐藏它们，以启动免疫反应。",
+      "es": "Las opciones C y D son directamente respaldadas por el texto. El texto afirma que \"el receptor antigénico de una célula T es específico para un solo fragmento antigénico\" (apoyando C). También dice explícitamente: \"Esta interacción de una molécula de MHC, un fragmento antigénico y un receptor antigénico desencadena una respuesta inmunitaria adaptativa\" (apoyando D). La opción A es incorrecta porque una molécula de MHC puede mostrar muchos fragmentos antigénicos diferentes. La opción B es incorrecta porque la presentación de antígenos sirve para \"publicitar\" sustancias extrañas, no para ocultarlas, a fin de iniciar una respuesta inmunitaria.",
+      "fr": "Les options C et D sont toutes deux directement étayées par le texte. Le texte stipule que « le récepteur antigénique d'un lymphocyte T est spécifique d'un seul fragment antigénique » (soutenant C). Il indique également explicitement : « Cette interaction d'une molécule de CMH, d'un fragment antigénique et d'un récepteur antigénique déclenche une réponse immunitaire adaptative » (soutenant D). L'option A est incorrecte car une molécule de CMH peut présenter de nombreux fragments antigéniques différents. L'option B est incorrecte car la présentation d'antigènes sert à « signaler » les substances étrangères, et non à les cacher, afin d'initier une réponse immunitaire.",
+      "de": "Die Optionen C und D werden beide direkt vom Text unterstützt. Der Text besagt, dass \"der Antigenrezeptor einer T-Zelle spezifisch für ein einzelnes Antigenfragment ist\" (unterstützt C). Er sagt auch explizit: \"Diese Interaktion eines MHC-Moleküls, eines Antigenfragments und eines Antigenrezeptors löst eine adaptive Immunantwort aus\" (unterstützt D). Option A ist falsch, da ein MHC-Molekül viele verschiedene Antigenfragmente präsentieren kann. Option B ist falsch, da die Antigenpräsentation dazu dient, fremde Substanzen \"zu bewerben\" und nicht zu verstecken, um eine Immunantwort einzuleiten.",
+      "ja": "選択肢CとDはどちらも本文によって直接裏付けられています。本文には「T細胞の抗原受容体は単一の抗原断片に特異的である」（Cを支持）と記載されています。また、「MHC分子、抗原断片、抗原受容体のこの相互作用が適応免疫応答を誘発する」（Dを支持）と明確に述べられています。選択肢Aは、MHC分子が多くの異なる抗原断片を提示できるため、誤りです。選択肢Bは、抗原提示は免疫応答を開始するために異物を「広告する」ものであり、隠すものではないため、誤りです。"
+    }
+  },
+  {
+    "page_number": 1009,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A human produces more than 1 million different B cell antigen receptors and 10 million different T cell antigen receptors, despite having only about 20,000 protein-coding genes. Which of the following is the primary mechanism described for generating this immense diversity, specifically for a light-chain gene?",
+      "zh": "尽管人类只有大约2万个蛋白质编码基因，但每个人都能产生超过100万种不同的B细胞抗原受体和1000万种不同的T细胞抗原受体。以下哪项是描述的产生这种巨大多样性的主要机制，特别是针对轻链基因？",
+      "es": "Un ser humano produce más de 1 millón de receptores antigénicos de células B diferentes y 10 millones de receptores antigénicos de células T diferentes, a pesar de tener solo unos 20.000 genes codificadores de proteínas. ¿Cuál de los siguientes es el mecanismo principal descrito para generar esta inmensa diversidad, específicamente para un gen de cadena ligera?",
+      "fr": "Un être humain produit plus d'un million de récepteurs antigéniques de cellules B différents et 10 millions de récepteurs antigéniques de cellules T différents, bien qu'il ne possède qu'environ 20 000 gènes codants. Lequel des mécanismes suivants est le principal mécanisme décrit pour générer cette immense diversité, spécifiquement pour un gène de chaîne légère ?",
+      "de": "Ein Mensch produziert mehr als 1 Million verschiedene B-Zell-Antigenrezeptoren und 10 Millionen verschiedene T-Zell-Antigenrezeptoren, obwohl er nur etwa 20.000 proteincodierende Gene besitzt. Welcher der folgenden Mechanismen wird als der primäre Mechanismus zur Erzeugung dieser immensen Vielfalt beschrieben, speziell für ein Leichtketten-Gen?",
+      "ja": "ヒトは、約2万のタンパク質コード遺伝子しか持たないにもかかわらず、100万種類以上のB細胞抗原受容体と1000万種類以上のT細胞抗原受容体を生成します。以下のうち、この膨大な多様性を生成するための主要なメカニズムとして記述されているものはどれですか。特に軽鎖遺伝子について述べてください。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The use of an extremely large number of distinct genes, each encoding a unique receptor.",
+          "zh": "使用数量极其庞大的独立基因，每个基因编码一个独特的受体。",
+          "es": "El uso de un número extremadamente grande de genes distintos, cada uno codificando un receptor único.",
+          "fr": "L'utilisation d'un nombre extrêmement grand de gènes distincts, chacun codant un récepteur unique.",
+          "de": "Die Verwendung einer extrem großen Anzahl verschiedener Gene, von denen jedes einen einzigartigen Rezeptor codiert.",
+          "ja": "膨大な数の異なる遺伝子を使用し、それぞれがユニークな受容体をコードすること。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that there are \"only about 20,000 protein-coding genes\" in the human genome, implying that diversity is not achieved by an extremely large number of *distinct* genes for each receptor.",
+          "zh": "文本明确指出人类基因组中“只有大约2万个蛋白质编码基因”，这意味着多样性不是通过大量独立的受体基因实现的。",
+          "es": "El texto afirma explícitamente que solo hay \"alrededor de 20.000 genes codificadores de proteínas\" en el genoma humano, lo que implica que la diversidad no se logra mediante un número extremadamente grande de genes *distintos* para cada receptor.",
+          "fr": "Le texte stipule explicitement qu'il n'y a « qu'environ 20 000 gènes codant des protéines » dans le génome humain, ce qui implique que la diversité n'est pas obtenue par un nombre extrêmement grand de gènes *distincts* pour chaque récepteur.",
+          "de": "Der Text besagt explizit, dass es im menschlichen Genom \"nur etwa 20.000 proteincodierende Gene\" gibt, was impliziert, dass die Vielfalt nicht durch eine extrem große Anzahl *verschiedener* Gene für jeden Rezeptor erreicht wird.",
+          "ja": "テキストには、ヒトゲノムには「約2万個のタンパク質コード遺伝子しかない」と明確に記載されており、各受容体に対して非常に多数の*異なる*遺伝子を使用することで多様性が達成されるわけではないことを示唆しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Combinatorial joining of multiple gene segments (V, J, C) within a single gene locus.",
+          "zh": "在单一基因座内，多个基因片段（V、J、C）的组合连接。",
+          "es": "La unión combinatoria de múltiples segmentos génicos (V, J, C) dentro de un único locus génico.",
+          "fr": "L'assemblage combinatoire de multiples segments géniques (V, J, C) au sein d'un même locus génique.",
+          "de": "Kombinatorische Verknüpfung mehrerer Gensegmente (V, J, C) innerhalb eines einzelnen Genlokus.",
+          "ja": "単一の遺伝子座内で、複数の遺伝子セグメント（V、J、C）が組み合わされて結合すること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Continuous spontaneous mutations occurring in all gene segments during lymphocyte development.",
+          "zh": "淋巴细胞发育过程中，所有基因片段持续发生自发突变。",
+          "es": "Mutaciones espontáneas continuas que ocurren en todos los segmentos génicos durante el desarrollo de los linfocitos.",
+          "fr": "Mutations spontanées continues se produisant dans tous les segments géniques pendant le développement des lymphocytes.",
+          "de": "Kontinuierliche spontane Mutationen, die in allen Gensegmenten während der Lymphozytenentwicklung auftreten.",
+          "ja": "リンパ球の発達中に、すべての遺伝子セグメントで連続的な自然変異が発生すること。"
+        },
+        "feedback": {
+          "en": "While mutations *do* add additional diversity, the text states this happens \"during VJ recombination,\" and it's presented as an *additional* factor, not the primary mechanism for the \"immense diversity\" from limited genes, which is combinatorial.",
+          "zh": "尽管突变确实增加了额外的多样性，但文本指出这发生在“VJ重组期间”，并且被视为一个*额外*的因素，而不是从有限基因产生“巨大多样性”的主要组合机制。",
+          "es": "Aunque las mutaciones *añaden* diversidad adicional, el texto indica que esto ocurre \"durante la recombinación VJ\", y se presenta como un factor *adicional*, no como el mecanismo principal para la \"inmensa diversidad\" a partir de genes limitados, que es combinatoria.",
+          "fr": "Bien que les mutations *ajoutent* une diversité supplémentaire, le texte indique que cela se produit « pendant la recombinaison VJ » et est présenté comme un facteur *supplémentaire*, et non comme le mécanisme principal de l'« immense diversité » à partir de gènes limités, qui est combinatoire.",
+          "de": "Während Mutationen *zusätzliche* Vielfalt hinzufügen, besagt der Text, dass dies \"während der VJ-Rekombination\" geschieht und als *zusätzlicher* Faktor präsentiert wird, nicht als der primäre Mechanismus für die \"immense Vielfalt\" aus begrenzten Genen, die kombinatorisch ist.",
+          "ja": "変異は追加の多様性を加えることはありますが、テキストではこれが「VJ組換え中」に起こると述べられており、限られた遺伝子からの「膨大な多様性」の主要なメカニズム（組み合わせ）ではなく、*追加*の要因として提示されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The unique folding patterns of each receptor protein, independent of its genetic sequence.",
+          "zh": "每个受体蛋白质独特的折叠模式，与其遗传序列无关。",
+          "es": "Los patrones de plegamiento únicos de cada proteína receptora, independientemente de su secuencia genética.",
+          "fr": "Les schémas de repliement uniques de chaque protéine réceptrice, indépendamment de sa séquence génétique.",
+          "de": "Die einzigartigen Faltungsmuster jedes Rezeptorproteins, unabhängig von seiner genetischen Sequenz.",
+          "ja": "各受容体タンパク質のユニークな折りたたみパターンであり、その遺伝子配列とは無関係であること。"
+        },
+        "feedback": {
+          "en": "Protein folding is determined by genetic sequence, and the text emphasizes gene recombination as the source of diversity, not post-translational folding independent of genes.",
+          "zh": "蛋白质折叠是由基因序列决定的，文本强调基因重组是多样性的来源，而不是独立于基因的翻译后折叠。",
+          "es": "El plegamiento de proteínas está determinado por la secuencia genética, y el texto enfatiza la recombinación génica como la fuente de diversidad, no el plegamiento postraduccional independiente de los genes.",
+          "fr": "Le repliement des protéines est déterminé par la séquence génétique, et le texte met l'accent sur la recombinaison génique comme source de diversité, et non sur un repliement post-traductionnel indépendant des gènes.",
+          "de": "Die Proteinfaltung wird durch die Gensequenz bestimmt, und der Text betont die Genrekombination als Quelle der Vielfalt, nicht die posttranslationale Faltung unabhängig von Genen.",
+          "ja": "タンパク質の折りたたみは遺伝子配列によって決定され、テキストでは遺伝子とは無関係な翻訳後折りたたみではなく、遺伝子組換えが多様性の源であることが強調されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that the vast diversity of antigen receptors is generated by combining a limited number of gene segments. Specifically for the light-chain gene, it states that a receptor light chain is encoded by variable (V), joining (J), and constant (C) segments, and these pieces can be combined in 200 different ways (40 V × 5 J × 1 C). This combinatorial joining is the primary mechanism.",
+      "zh": "文本解释说，抗原受体巨大的多样性是通过组合有限数量的基因片段产生的。特别是对于轻链基因，它指出受体轻链由可变（V）、连接（J）和恒定（C）片段编码，这些片段可以以200种不同的方式组合（40 V × 5 J × 1 C）。这种组合连接是主要机制。",
+      "es": "El texto explica que la vasta diversidad de receptores antigénicos se genera combinando un número limitado de segmentos génicos. Específicamente para el gen de la cadena ligera, afirma que una cadena ligera de receptor está codificada por segmentos variable (V), de unión (J) y constante (C), y que estas piezas pueden combinarse de 200 maneras diferentes (40 V × 5 J × 1 C). Esta unión combinatoria es el mecanismo principal.",
+      "fr": "Le texte explique que la vaste diversité des récepteurs antigéniques est générée en combinant un nombre limité de segments géniques. Spécifiquement pour le gène de la chaîne légère, il stipule qu'une chaîne légère de récepteur est codée par des segments variable (V), de jonction (J) et constant (C), et que ces pièces peuvent être combinées de 200 manières différentes (40 V × 5 J × 1 C). Cet assemblage combinatoire est le mécanisme principal.",
+      "de": "Der Text erklärt, dass die immense Vielfalt der Antigenrezeptoren durch die Kombination einer begrenzten Anzahl von Gensegmenten erzeugt wird. Speziell für das Leichtketten-Gen wird beschrieben, dass eine Rezeptor-Leichtkette von variablen (V), verbindenden (J) und konstanten (C) Segmenten kodiert wird und diese Teile auf 200 verschiedene Weisen kombiniert werden können (40 V × 5 J × 1 C). Diese kombinatorische Verknüpfung ist der primäre Mechanismus.",
+      "ja": "本文は、抗原受容体の膨大な多様性が限られた数の遺伝子セグメントを組み合わせることによって生成されると説明しています。特に軽鎖遺伝子については、受容体軽鎖が可変（V）、連結（J）、定常（C）セグメントによってコードされ、これらの断片が200通りの異なる方法で組み合わせられる（40 V × 5 J × 1 C）と述べています。この組み合わせ連結が主要なメカニズムです。"
+    }
+  },
+  {
+    "page_number": 1009,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements about antigen receptor gene rearrangement is correct?",
+      "zh": "关于抗原受体基因重排，以下哪项陈述是正确的？",
+      "es": "¿Cuál de las siguientes afirmaciones sobre el reordenamiento del gen del receptor de antígeno es correcta?",
+      "fr": "Laquelle des affirmations suivantes concernant le réarrangement du gène du récepteur antigénique est correcte ?",
+      "de": "Welche der folgenden Aussagen zur Antigenrezeptor-Gen-Rearrangement ist korrekt?",
+      "ja": "抗原受容体遺伝子再編成に関する以下の記述のうち、正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The enzyme RNA polymerase is responsible for linking V and J gene segments.",
+          "zh": "RNA聚合酶负责连接V和J基因片段。",
+          "es": "La enzima ARN polimerasa es responsable de la unión de los segmentos genéticos V y J.",
+          "fr": "L'enzyme ARN polymérase est responsable de la liaison des segments géniques V et J.",
+          "de": "Das Enzym RNA-Polymerase ist für die Verknüpfung von V- und J-Gensegmenten verantwortlich.",
+          "ja": "酵素RNAポリメラーゼがVおよびJ遺伝子セグメントの連結を担っています。"
+        },
+        "feedback": {
+          "en": "The text specifies that an enzyme complex called \"recombinase links one light-chain V gene segment to one J gene segment.\" RNA polymerase is involved in transcription.",
+          "zh": "文本明确指出，一种名为“重组酶”的酶复合物“连接一个轻链V基因片段与一个J基因片段”。RNA聚合酶参与转录。",
+          "es": "El texto especifica que un complejo enzimático llamado \"recombinasa une un segmento génico V de cadena ligera a un segmento génico J.\" La ARN polimerasa participa en la transcripción.",
+          "fr": "Le texte précise qu'un complexe enzymatique appelé « recombinase lie un segment génique V de chaîne légère à un segment génique J. » L'ARN polymérase est impliquée dans la transcription.",
+          "de": "Der Text besagt, dass ein Enzymkomplex namens \"Rekombinase ein Leichtketten-V-Gensegment mit einem J-Gensegment verknüpft.\" RNA-Polymerase ist an der Transkription beteiligt.",
+          "ja": "テキストには、「リコンビナーゼと呼ばれる酵素複合体が軽鎖のV遺伝子セグメントとJ遺伝子セグメントを連結する」と明記されています。RNAポリメラーゼは転写に関与します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Gene rearrangements are temporary and reversed after lymphocyte activation.",
+          "zh": "基因重排是暂时的，并在淋巴细胞激活后逆转。",
+          "es": "Los reordenamientos genéticos son temporales y se revierten después de la activación de los linfocitos.",
+          "fr": "Les réarrangements géniques sont temporaires et s'inversent après l'activation des lymphocytes.",
+          "de": "Gen-Rearrangements sind temporär und werden nach Lymphozytenaktivierung rückgängig gemacht.",
+          "ja": "遺伝子再編成は一時的であり、リンパ球活性化後に逆転します。"
+        },
+        "feedback": {
+          "en": "The text states that \"the rearrangements are permanent and are passed on to the daughter cells when the lymphocyte divides.\"",
+          "zh": "文本指出“重排是永久性的，并在淋巴细胞分裂时传递给子细胞。”",
+          "es": "El texto afirma que \"los reordenamientos son permanentes y se transmiten a las células hijas cuando el linfocito se divide.\"",
+          "fr": "Le texte indique que « les réarrangements sont permanents et sont transmis aux cellules filles lorsque le lymphocyte se divise. »",
+          "de": "Der Text besagt, dass \"die Rearrangements permanent sind und bei der Zellteilung an die Tochterzellen weitergegeben werden.\"",
+          "ja": "テキストには、「再編成は永続的であり、リンパ球が分裂する際に娘細胞に受け継がれる」と記載されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "After light-chain and heavy-chain genes are rearranged, the genes are transcribed, and the transcripts are translated into antigen receptors.",
+          "zh": "轻链和重链基因重排后，这些基因被转录，其转录物被翻译成抗原受体。",
+          "es": "Después de que los genes de la cadena ligera y la cadena pesada se reordenan, los genes se transcriben y los transcritos se traducen en receptores de antígenos.",
+          "fr": "Après le réarrangement des gènes des chaînes légère et lourde, les gènes sont transcrits, et les transcrits sont traduits en récepteurs antigéniques.",
+          "de": "Nachdem Leichtketten- und Schwerketten-Gene rearrangiert wurden, werden die Gene transkribiert und die Transkripte in Antigenrezeptoren translatiert.",
+          "ja": "軽鎖および重鎖遺伝子が再編成された後、それらの遺伝子は転写され、転写産物が抗原受容体へと翻訳されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Recombinase randomly links any one of the 5 V gene segments to any one of the 40 J gene segments for the light-chain gene.",
+          "zh": "对于轻链基因，重组酶随机连接5个V基因片段中的任意一个到40个J基因片段中的任意一个。",
+          "es": "La recombinasa une aleatoriamente cualquiera de los 5 segmentos génicos V a cualquiera de los 40 segmentos génicos J para el gen de la cadena ligera.",
+          "fr": "La recombinase lie aléatoirement l'un des 5 segments géniques V à l'un des 40 segments géniques J pour le gène de la chaîne légère.",
+          "de": "Rekombinase verknüpft zufällig eines der 5 V-Gensegmente mit einem der 40 J-Gensegmente für das Leichtketten-Gen.",
+          "ja": "リコンビナーゼは、軽鎖遺伝子の場合、5つのV遺伝子セグメントのいずれか1つを40のJ遺伝子セグメントのいずれか1つにランダムに連結します。"
+        },
+        "feedback": {
+          "en": "The text states that the light-chain gene contains \"40 different V segments and 5 different J segments,\" and recombinase links \"any one of the 40 V gene segments to any one of the 5 J gene segments.\" The numbers in the option are reversed.",
+          "zh": "文本指出轻链基因包含“40个不同的V片段和5个不同的J片段”，重组酶连接“40个V基因片段中的任意一个到5个J基因片段中的任意一个。” 选项中的数字是颠倒的。",
+          "es": "El texto afirma que el gen de la cadena ligera contiene \"40 segmentos V diferentes y 5 segmentos J diferentes\", y la recombinasa une \"cualquiera de los 40 segmentos génicos V a cualquiera de los 5 segmentos génicos J.\" Los números en la opción están invertidos.",
+          "fr": "Le texte indique que le gène de la chaîne légère contient « 40 segments V différents et 5 segments J différents », et que la recombinase lie « l'un des 40 segments géniques V à l'un des 5 segments géniques J. » Les chiffres dans l'option sont inversés.",
+          "de": "Der Text besagt, dass das Leichtketten-Gen \"40 verschiedene V-Segmente und 5 verschiedene J-Segmente\" enthält und Rekombinase \"beliebig eines der 40 V-Gensegmente mit einem der 5 J-Gensegmente\" verknüpft. Die Zahlen in der Option sind vertauscht.",
+          "ja": "テキストには、軽鎖遺伝子には「40種類のVセグメントと5種類のJセグメント」が含まれており、リコンビナーゼが「40のV遺伝子セグメントのいずれか1つを5つのJ遺伝子セグメントのいずれか1つに連結する」と記載されています。選択肢の数字は逆です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: \"After both a light-chain and a heavy-chain gene have been rearranged, antigen receptors can be synthesized. The rearranged genes are transcribed, and the transcripts are processed for translation.\" This sequence of events (rearrangement -> transcription -> translation) correctly describes the process. Option A is incorrect because recombinase, not RNA polymerase, links V and J segments. Option B is incorrect as rearrangements are permanent. Option D reverses the correct numbers of V and J segments for the light-chain gene.",
+      "zh": "文本明确指出：“轻链和重链基因都重排后，抗原受体才能合成。重排的基因被转录，其转录物被加工用于翻译。” 这种事件序列（重排 -> 转录 -> 翻译）正确描述了该过程。选项A不正确，因为是重组酶而不是RNA聚合酶连接V和J片段。选项B不正确，因为重排是永久性的。选项D颠倒了轻链基因V和J片段的正确数量。",
+      "es": "El texto afirma explícitamente: \"Después de que tanto un gen de cadena ligera como un gen de cadena pesada hayan sido reordenados, se pueden sintetizar receptores antigénicos. Los genes reordenados se transcriben, y los transcritos se procesan para su traducción.\" Esta secuencia de eventos (reordenamiento -> transcripción -> traducción) describe correctamente el proceso. La opción A es incorrecta porque la recombinasa, no la ARN polimerasa, une los segmentos V y J. La opción B es incorrecta ya que los reordenamientos son permanentes. La opción D invierte los números correctos de segmentos V y J para el gen de la cadena ligera.",
+      "fr": "Le texte stipule explicitement : « Une fois les gènes des chaînes légère et lourde réarrangés, les récepteurs antigéniques peuvent être synthétisés. Les gènes réarrangés sont transcrits, et les transcrits sont traités pour la traduction. » Cette séquence d'événements (réarrangement -> transcription -> traduction) décrit correctement le processus. L'option A est incorrecte car c'est la recombinase, et non l'ARN polymérase, qui lie les segments V et J. L'option B est incorrecte car les réarrangements sont permanents. L'option D inverse les nombres corrects de segments V et J pour le gène de la chaîne légère.",
+      "de": "Der Text besagt explizit: \"Nachdem sowohl ein Leichtketten- als auch ein Schwerketten-Gen rearrangiert wurden, können Antigenrezeptoren synthetisiert werden. Die rearrangierten Gene werden transkribiert, und die Transkripte werden zur Translation verarbeitet.\" Diese Abfolge von Ereignissen (Rearrangement -> Transkription -> Translation) beschreibt den Prozess korrekt. Option A ist falsch, da Rekombinase, nicht RNA-Polymerase, V- und J-Segmente verknüpft. Option B ist falsch, da Rearrangements permanent sind. Option D vertauscht die korrekten Zahlen der V- und J-Segmente für das Leichtketten-Gen.",
+      "ja": "本文には、「軽鎖および重鎖遺伝子の両方が再編成された後、抗原受容体が合成される。再編成された遺伝子は転写され、その転写産物は翻訳のために処理される」と明示されています。この一連の出来事（再編成→転写→翻訳）は、プロセスを正確に記述しています。選択肢Aは、VおよびJセグメントを結合するのはRNAポリメラーゼではなくリコンビナーゼであるため、誤りです。選択肢Bは、再編成が永続的であるため誤りです。選択肢Dは、軽鎖遺伝子のVおよびJセグメントの正しい数が逆になっています。"
+    }
+  }
+]

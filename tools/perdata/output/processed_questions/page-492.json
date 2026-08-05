@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 492,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following best describes the fundamental principle of the whole-genome shotgun approach to DNA sequencing?",
+      "zh": "以下哪项最能描述全基因组鸟枪法DNA测序的基本原理？",
+      "es": "De las siguientes opciones, ¿cuál describe mejor el principio fundamental del enfoque de escopeta de genoma completo para la secuenciación de ADN?",
+      "fr": "Parmi les propositions suivantes, laquelle décrit le mieux le principe fondamental de l'approche de séquençage « shotgun » du génome entier ?",
+      "de": "Welche der folgenden Aussagen beschreibt am besten das grundlegende Prinzip des Whole-Genome Shotgun-Ansatzes zur DNA-Sequenzierung?",
+      "ja": "次のうち、ゲノムショットガン法によるDNAシーケンシングの基本的な原理を最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Sequencing long DNA molecules directly without fragmentation.",
+          "zh": "直接测序长DNA分子而不进行片段化。",
+          "es": "Secuenciar moléculas largas de ADN directamente sin fragmentación.",
+          "fr": "Séquencer directement de longues molécules d'ADN sans fragmentation.",
+          "de": "Lange DNA-Moleküle direkt ohne Fragmentierung sequenzieren.",
+          "ja": "長いDNA分子を断片化せずに直接シーケンシングする。"
+        },
+        "feedback": {
+          "en": "The whole-genome shotgun approach relies on fragmenting DNA into overlapping short sequences.",
+          "zh": "全基因组鸟枪法依赖于将DNA片段化为重叠的短序列。",
+          "es": "El enfoque de escopeta de genoma completo se basa en fragmentar el ADN en secuencias cortas superpuestas.",
+          "fr": "L'approche de séquençage « shotgun » du génome entier repose sur la fragmentation de l'ADN en courtes séquences se chevauchant.",
+          "de": "Der Whole-Genome Shotgun-Ansatz basiert auf der Fragmentierung von DNA in überlappende kurze Sequenzen.",
+          "ja": "全ゲノムショットガン法は、DNAを重複する短い配列に断片化することに基づいています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Assembling overlapping short DNA sequences from randomly cut fragments using computational software.",
+          "zh": "使用计算软件将随机切割的片段的重叠短DNA序列组装起来。",
+          "es": "Ensamblar secuencias cortas de ADN superpuestas a partir de fragmentos cortados aleatoriamente utilizando software computacional.",
+          "fr": "Assembler de courtes séquences d'ADN se chevauchant à partir de fragments coupés aléatoirement à l'aide de logiciels informatiques.",
+          "de": "Überlappende kurze DNA-Sequenzen aus zufällig geschnittenen Fragmenten mithilfe von Computersoftware zusammensetzen.",
+          "ja": "ランダムに切断された断片からの重複する短いDNA配列を計算ソフトウェアを使用して組み立てる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cloning DNA fragments sequentially based on known genetic markers.",
+          "zh": "根据已知遗传标记按顺序克隆DNA片段。",
+          "es": "Clonar fragmentos de ADN secuencialmente basándose en marcadores genéticos conocidos.",
+          "fr": "Cloner des fragments d'ADN séquentiellement en se basant sur des marqueurs génétiques connus.",
+          "de": "DNA-Fragmente sequenziell basierend auf bekannten genetischen Markern klonen.",
+          "ja": "既知の遺伝子マーカーに基づいてDNA断片を順番にクローニングする。"
+        },
+        "feedback": {
+          "en": "The shotgun approach involves random fragmentation and computational assembly, not sequential cloning based on markers.",
+          "zh": "鸟枪法涉及随机片段化和计算组装，而不是基于标记的顺序克隆。",
+          "es": "El enfoque de escopeta implica fragmentación aleatoria y ensamblaje computacional, no la clonación secuencial basada en marcadores.",
+          "fr": "L'approche « shotgun » implique une fragmentation aléatoire et un assemblage computationnel, et non un clonage séquentiel basé sur des marqueurs.",
+          "de": "Der Shotgun-Ansatz beinhaltet die zufällige Fragmentierung und die computergestützte Zusammenführung, nicht das sequentielle Klonen basierend auf Markern.",
+          "ja": "ショットガン法は、ランダムな断片化とコンピュータによるアセンブリを含み、マーカーに基づくシーケンシャルなクローニングではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Utilizing only dideoxy chain termination for precise single-base pair sequencing.",
+          "zh": "仅使用双脱氧链终止法进行精确的单碱基对测序。",
+          "es": "Utilizar solo la terminación de cadena dideoxi para una secuenciación precisa de pares de bases únicas.",
+          "fr": "Utiliser uniquement la terminaison de chaîne didéoxy pour un séquençage précis par paire de bases unique.",
+          "de": "Ausschließlich die Dideoxy-Kettenabbruchmethode für die präzise Einzelbasenpaar-Sequenzierung verwenden.",
+          "ja": "精密な単一塩基対シーケンシングのために、ジデオキシチェーンターミネーションのみを利用する。"
+        },
+        "feedback": {
+          "en": "While dideoxy chain termination is a sequencing method, it does not describe the overarching principle of the 'shotgun' approach itself.",
+          "zh": "虽然双脱氧链终止法是一种测序方法，但它并未描述“鸟枪法”本身的总体原理。",
+          "es": "Aunque la terminación de cadena dideoxi es un método de secuenciación, no describe el principio general del enfoque de 'escopeta' en sí mismo.",
+          "fr": "Bien que la terminaison de chaîne didéoxy soit une méthode de séquençage, elle ne décrit pas le principe global de l'approche « shotgun » elle-même.",
+          "de": "Obwohl die Dideoxy-Kettenabbruchmethode eine Sequenzierungsmethode ist, beschreibt sie nicht das übergeordnete Prinzip des 'Shotgun'-Ansatzes selbst.",
+          "ja": "ジデオキシチェーンターミネーションはシーケンシング方法の一つですが、ショットガン法全体の原理を説明するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'The whole-genome shotgun approach starts with the cloning and sequencing of DNA fragments from randomly cut DNA. Powerful computer programs then assemble the resulting very large number of overlapping short sequences into a single continuous sequence (Figure 21.2).'",
+      "zh": "文中指出：“全基因组鸟枪法始于对随机切割的DNA片段进行克隆和测序。然后，强大的计算机程序将产生的大量重叠短序列组装成一个单一的连续序列（图21.2）。”",
+      "es": "El texto afirma: 'El enfoque de escopeta de genoma completo comienza con la clonación y secuenciación de fragmentos de ADN de ADN cortado aleatoriamente. Luego, potentes programas informáticos ensamblan el gran número resultante de secuencias cortas superpuestas en una única secuencia continua (Figura 21.2).'",
+      "fr": "Le texte indique : « L'approche de séquençage « shotgun » du génome entier commence par le clonage et le séquençage de fragments d'ADN provenant d'ADN coupé aléatoirement. De puissants programmes informatiques assemblent ensuite le très grand nombre de courtes séquences se chevauchant en une seule séquence continue (Figure 21.2). »",
+      "de": "Der Text besagt: „Der Whole-Genome Shotgun-Ansatz beginnt mit dem Klonen und der Sequenzierung von DNA-Fragmenten aus zufällig geschnittener DNA. Leistungsstarke Computerprogramme setzen dann die resultierende sehr große Anzahl überlappender kurzer Sequenzen zu einer einzigen kontinuierlichen Sequenz zusammen (Abbildung 21.2).“",
+      "ja": "本文には、「全ゲノムショットガン法は、ランダムに切断されたDNAからのDNA断片のクローニングとシーケンシングから始まります。強力なコンピュータプログラムが、結果として得られる非常に多数の重複する短い配列を単一の連続した配列に組み立てます（図21.2）。」と記載されています。"
+    }
+  },
+  {
+    "page_number": 492,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "According to the provided text, which statement accurately reflects the advancements in DNA sequencing technology over time?",
+      "zh": "根据提供的文本，以下哪项陈述准确反映了DNA测序技术随时间的进步？",
+      "es": "Según el texto proporcionado, ¿cuál de las siguientes afirmaciones refleja con precisión los avances en la tecnología de secuenciación de ADN a lo largo del tiempo?",
+      "fr": "Selon le texte fourni, quelle affirmation reflète avec précision les avancées de la technologie de séquençage de l'ADN au fil du temps ?",
+      "de": "Welche Aussage trifft laut dem bereitgestellten Text die Fortschritte in der DNA-Sequenzierungstechnologie im Laufe der Zeit genau wider?",
+      "ja": "提供されたテキストによると、時間の経過とともにDNAシーケンシング技術の進歩を正確に反映している記述は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "By 2000, research centers could sequence 1,000 base pairs per day, a significant increase from the 1980s.",
+          "zh": "到2000年，研究中心每天可以测序1,000个碱基对，这比20世纪80年代有了显著增加。",
+          "es": "Para el año 2000, los centros de investigación podían secuenciar 1,000 pares de bases por día, un aumento significativo desde la década de 1980.",
+          "fr": "En l'an 2000, les centres de recherche pouvaient séquencer 1 000 paires de bases par jour, une augmentation significative par rapport aux années 1980.",
+          "de": "Im Jahr 2000 konnten Forschungszentren 1.000 Basenpaare pro Tag sequenzieren, was eine signifikante Steigerung gegenüber den 1980er Jahren darstellte.",
+          "ja": "2000年までに、研究センターは1日あたり1,000塩基対をシーケンシングできるようになり、1980年代と比較して大幅な増加を示した。"
+        },
+        "feedback": {
+          "en": "The text states that by the year 2000, research centers were sequencing 1,000 base pairs *per second*, not per day.",
+          "zh": "文中提到，到2000年，研究中心每秒能测序1,000个碱基对，而不是每天。",
+          "es": "El texto indica que para el año 2000, los centros de investigación estaban secuenciando 1,000 pares de bases *por segundo*, no por día.",
+          "fr": "Le texte indique qu'en l'an 2000, les centres de recherche séquençaient 1 000 paires de bases *par seconde*, et non par jour.",
+          "de": "Der Text besagt, dass Forschungszentren im Jahr 2000 1.000 Basenpaare *pro Sekunde* sequenzierten, nicht pro Tag.",
+          "ja": "テキストによると、2000年までに研究センターは1日あたりではなく、*1秒あたり*1,000塩基対をシーケンシングしていました。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The cost to sequence the first human genome in 2007 was significantly higher than its initial cost in the 1990s.",
+          "zh": "2007年测序第一个人类基因组的成本比20世纪90年代的初始成本显著更高。",
+          "es": "El costo de secuenciar el primer genoma humano en 2007 fue significativamente más alto que su costo inicial en la década de 1990.",
+          "fr": "Le coût du séquençage du premier génome humain en 2007 était significativement plus élevé que son coût initial dans les années 1990.",
+          "de": "Die Kosten für die Sequenzierung des ersten menschlichen Genoms im Jahr 2007 waren deutlich höher als die ursprünglichen Kosten in den 1990er Jahren.",
+          "ja": "2007年に最初のヒトゲノムをシーケンシングするコストは、1990年代の初期費用よりも大幅に高かった。"
+        },
+        "feedback": {
+          "en": "The text states that the cost plummeted: the first HGP cost between $500 million and $1 billion, while by 2007 the same task cost $1 million.",
+          "zh": "文中指出成本大幅下降：第一个人类基因组计划耗资5亿至10亿美元，而到2007年，相同的任务仅耗资100万美元。",
+          "es": "El texto afirma que el costo se desplomó: el primer PGH costó entre 500 millones y 1000 millones de dólares, mientras que para 2007 la misma tarea costó 1 millón de dólares.",
+          "fr": "Le texte indique que le coût a chuté : le premier HGP a coûté entre 500 millions et 1 milliard de dollars, tandis qu'en 2007, la même tâche a coûté 1 million de dollars.",
+          "de": "Der Text besagt, dass die Kosten drastisch sanken: Das erste HGP kostete zwischen 500 Millionen und 1 Milliarde US-Dollar, während dieselbe Aufgabe im Jahr 2007 1 Million US-Dollar kostete.",
+          "ja": "テキストによると、費用は急落しました。最初のHGPは5億ドルから10億ドルの間でしたが、2007年には同じタスクが100万ドルでした。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Modern \"next-generation\" sequencing machines are capable of sequencing approximately 35 million base pairs per second.",
+          "zh": "现代“下一代”测序机每秒能够测序约3500万个碱基对。",
+          "es": "Las máquinas modernas de secuenciación de \"próxima generación\" son capaces de secuenciar aproximadamente 35 millones de pares de bases por segundo.",
+          "fr": "Les machines de séquençage modernes de « nouvelle génération » sont capables de séquencer environ 35 millions de paires de bases par seconde.",
+          "de": "Moderne „Next-Generation“-Sequenzierungsmaschinen sind in der Lage, etwa 35 Millionen Basenpaare pro Sekunde zu sequenzieren.",
+          "ja": "現代の「次世代」シーケンシングマシンは、1秒あたり約3500万塩基対をシーケンシングできる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "In 2019, sequencing 48 complete human genomes took 44 hours at a cost of $1 million per genome.",
+          "zh": "2019年，测序48个完整人类基因组耗时44小时，每个基因组花费100万美元。",
+          "es": "En 2019, secuenciar 48 genomas humanos completos tomó 44 horas a un costo de $1 millón por genoma.",
+          "fr": "En 2019, le séquençage de 48 génomes humains complets a pris 44 heures pour un coût de 1 million de dollars par génome.",
+          "de": "Im Jahr 2019 dauerte die Sequenzierung von 48 vollständigen menschlichen Genomen 44 Stunden bei Kosten von 1 Million US-Dollar pro Genom.",
+          "ja": "2019年には、48個の完全なヒトゲノムのシーケンシングには44時間かかり、1ゲノムあたり100万ドルの費用がかかった。"
+        },
+        "feedback": {
+          "en": "The text states that the cost was 'under $1,000 per genome', not $1 million per genome.",
+          "zh": "文中指出费用是“每个基因组不到1,000美元”，而不是100万美元。",
+          "es": "El texto indica que el costo fue 'menos de $1,000 por genoma', no $1 millón por genoma.",
+          "fr": "Le texte indique que le coût était « moins de 1 000 dollars par génome », et non 1 million de dollars par génome.",
+          "de": "Der Text besagt, dass die Kosten 'unter 1.000 US-Dollar pro Genom' lagen, nicht 1 Million US-Dollar pro Genom.",
+          "ja": "テキストには、費用が「1ゲノムあたり1,000ドル未満」であり、1ゲノムあたり100万ドルではないと記載されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Currently, the most widely used automated \"next-generation\" sequencing machines can sequence nearly 35 million base pairs per second'. This matches option C directly.",
+      "zh": "文本明确指出：“目前，最广泛使用的自动化‘下一代’测序机每秒可以测序近3500万个碱基对。”这与选项C直接吻合。",
+      "es": "El texto establece explícitamente: 'Actualmente, las máquinas automatizadas de secuenciación de \"próxima generación\" más utilizadas pueden secuenciar casi 35 millones de pares de bases por segundo'. Esto coincide directamente con la opción C.",
+      "fr": "Le texte indique explicitement : « Actuellement, les machines de séquençage automatisées de « nouvelle génération » les plus utilisées peuvent séquencer près de 35 millions de paires de bases par seconde ». Cela correspond directement à l'option C.",
+      "de": "Der Text besagt ausdrücklich: „Derzeit können die am weitesten verbreiteten automatisierten „Next-Generation“-Sequenzierungsmaschinen fast 35 Millionen Basenpaare pro Sekunde sequenzieren“. Dies stimmt direkt mit Option C überein.",
+      "ja": "本文には、「現在、最も広く使用されている自動化された「次世代」シーケンシングマシンは、1秒あたり約3500万塩基対をシーケンシングできます」と明記されています。これは選択肢Cと直接一致します。"
+    }
+  },
+  {
+    "page_number": 492,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following statements correctly defines a term introduced in the text?",
+      "zh": "以下哪项陈述正确定义了文中介绍的一个术语？",
+      "es": "¿Cuál de las siguientes afirmaciones define correctamente un término introducido en el texto?",
+      "fr": "Parmi les affirmations suivantes, laquelle définit correctement un terme introduit dans le texte ?",
+      "de": "Welche der folgenden Aussagen definiert einen im Text eingeführten Begriff korrekt?",
+      "ja": "次の記述のうち、本文で紹介されている用語を正しく定義しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Genomics is the application of computational methods to store and analyze biological data.",
+          "zh": "基因组学是应用计算方法存储和分析生物数据。",
+          "es": "La genómica es la aplicación de métodos computacionales para almacenar y analizar datos biológicos.",
+          "fr": "La génomique est l'application de méthodes computationnelles pour stocker et analyser des données biologiques.",
+          "de": "Genomik ist die Anwendung von rechnergestützten Methoden zur Speicherung und Analyse biologischer Daten.",
+          "ja": "ゲノミクスとは、計算手法を適用して生物学的データを保存・分析することである。"
+        },
+        "feedback": {
+          "en": "This definition describes bioinformatics, not genomics. Genomics is the study of whole sets of genes and their interactions.",
+          "zh": "这个定义描述的是生物信息学，而不是基因组学。基因组学是对整个基因组及其相互作用的研究。",
+          "es": "Esta definición describe la bioinformática, no la genómica. La genómica es el estudio de conjuntos completos de genes y sus interacciones.",
+          "fr": "Cette définition décrit la bioinformatique, pas la génomique. La génomique est l'étude de l'ensemble des gènes et de leurs interactions.",
+          "de": "Diese Definition beschreibt Bioinformatik, nicht Genomik. Genomik ist die Untersuchung ganzer Gengruppen und ihrer Wechselwirkungen.",
+          "ja": "この定義はゲノミクスではなく、バイオインフォマティクスを説明しています。ゲノミクスは、ゲノム全体の遺伝子とその相互作用の研究です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Bioinformatics is the study of whole sets of genes and their interactions.",
+          "zh": "生物信息学是研究整个基因组及其相互作用的学科。",
+          "es": "La bioinformática es el estudio de conjuntos completos de genes y sus interacciones.",
+          "fr": "La bioinformatique est l'étude de l'ensemble des gènes et de leurs interactions.",
+          "de": "Bioinformatik ist die Untersuchung ganzer Gengruppen und ihrer Wechselwirkungen.",
+          "ja": "バイオインフォマティクスとは、遺伝子群全体とその相互作用を研究することである。"
+        },
+        "feedback": {
+          "en": "This definition describes genomics, not bioinformatics. Bioinformatics is the application of computational methods to store and analyze biological data.",
+          "zh": "这个定义描述的是基因组学，而不是生物信息学。生物信息学是应用计算方法存储和分析生物数据。",
+          "es": "Esta definición describe la genómica, no la bioinformática. La bioinformática es la aplicación de métodos computacionales para almacenar y analizar datos biológicos.",
+          "fr": "Cette définition décrit la génomique, pas la bioinformatique. La bioinformatique est l'application de méthodes computationnelles pour stocker et analyser des données biologiques.",
+          "de": "Diese Definition beschreibt Genomik, nicht Bioinformatik. Bioinformatik ist die Anwendung von rechnergestützten Methoden zur Speicherung und Analyse biologischer Daten.",
+          "ja": "この定義はバイオインフォマティクスではなく、ゲノミクスを説明しています。バイオインフォマティクスは、計算手法を適用して生物学的データを保存・分析することです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A \"reference genome\" is a full sequence that represents the genome of a species, serving as a standard.",
+          "zh": "“参考基因组”是一个完整的序列，代表一个物种的基因组，作为标准。",
+          "es": "Un \"genoma de referencia\" es una secuencia completa que representa el genoma de una especie, sirviendo como estándar.",
+          "fr": "Un « génome de référence » est une séquence complète qui représente le génome d'une espèce, servant de standard.",
+          "de": "Ein „Referenzgenom“ ist eine vollständige Sequenz, die das Genom einer Spezies darstellt und als Standard dient.",
+          "ja": "「参照ゲノム」とは、種のゲノムを表す完全な配列であり、標準として機能する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "\"High-throughput\" refers to methods that clone DNA fragments sequentially based on known genetic markers.",
+          "zh": "“高通量”指的是根据已知遗传标记按顺序克隆DNA片段的方法。",
+          "es": "\"Alto rendimiento\" se refiere a métodos que clonan fragmentos de ADN secuencialmente basándose en marcadores genéticos conocidos.",
+          "fr": "Le terme « haut débit » fait référence aux méthodes qui clonent des fragments d'ADN séquentiellement en se basant sur des marqueurs génétiques connus.",
+          "de": "„Hochdurchsatz“ bezieht sich auf Methoden, die DNA-Fragmente sequenziell basierend auf bekannten genetischen Markern klonen.",
+          "ja": "「ハイスループット」とは、既知の遺伝子マーカーに基づいてDNA断片を順次クローニングする方法を指す。"
+        },
+        "feedback": {
+          "en": "\"High-throughput\" refers to methods that can analyze biological materials very rapidly and produce enormous volumes of data.",
+          "zh": "“高通量”指的是能够非常快速地分析生物材料并产生大量数据的方法。",
+          "es": "\"Alto rendimiento\" se refiere a métodos que pueden analizar materiales biológicos muy rápidamente y producir enormes volúmenes de datos.",
+          "fr": "Le terme « haut débit » fait référence aux méthodes capables d'analyser très rapidement des matériaux biologiques et de produire d'énormes volumes de données.",
+          "de": "„Hochdurchsatz“ bezieht sich auf Methoden, die biologische Materialien sehr schnell analysieren und enorme Datenmengen erzeugen können.",
+          "ja": "「ハイスループット」とは、生物学的材料を非常に迅速に分析し、膨大な量のデータを生成できる方法を指します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text defines 'reference genome' as 'a full sequence that best represents the genome of a species'. Option C accurately captures this definition.",
+      "zh": "文中将“参考基因组”定义为“最能代表一个物种基因组的完整序列”。选项C准确地捕捉了这一定义。",
+      "es": "El texto define 'genoma de referencia' como 'una secuencia completa que mejor representa el genoma de una especie'. La opción C capta con precisión esta definición.",
+      "fr": "Le texte définit le « génome de référence » comme « une séquence complète qui représente le mieux le génome d'une espèce ». L'option C capture précisément cette définition.",
+      "de": "Der Text definiert 'Referenzgenom' als 'eine vollständige Sequenz, die das Genom einer Spezies am besten repräsentiert'. Option C trifft diese Definition genau.",
+      "ja": "本文では「参照ゲノム」を「種のゲノムを最もよく表す完全な配列」と定義しています。選択肢Cはこの定義を正確に捉えています。"
+    }
+  }
+]

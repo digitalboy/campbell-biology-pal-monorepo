@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 103,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on the provided scatter plot and the experimental description, which of the following statements correctly identifies the variables and their roles?",
+      "zh": "根据提供的散点图和实验描述，以下哪项陈述正确地识别了变量及其作用？",
+      "es": "Según el diagrama de dispersión proporcionado y la descripción experimental, ¿cuál de las siguientes afirmaciones identifica correctamente las variables y sus funciones?",
+      "fr": "Basé sur le nuage de points fourni et la description expérimentale, quelle affirmation suivante identifie correctement les variables et leurs rôles ?",
+      "de": "Basierend auf dem bereitgestellten Streudiagramm und der experimentellen Beschreibung, welche der folgenden Aussagen identifiziert die Variablen und ihre Rollen korrekt?",
+      "ja": "提供された散布図と実験の説明に基づいて、次の記述のうち、変数とその役割を正しく識別しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The x-axis represents the calcification rate (dependent variable), and the y-axis represents the carbonate ion concentration (independent variable).",
+          "zh": "x轴代表钙化速率（因变量），y轴代表碳酸根离子浓度（自变量）。",
+          "es": "El eje x representa la tasa de calcificación (variable dependiente), y el eje y representa la concentración de iones carbonato (variable independiente).",
+          "fr": "L'axe des x représente le taux de calcification (variable dépendante), et l'axe des y représente la concentration en ions carbonate (variable indépendante).",
+          "de": "Die x-Achse stellt die Kalzifizierungsrate (abhängige Variable) dar, und die y-Achse stellt die Karbonat-Ionen-Konzentration (unabhängige Variable) dar.",
+          "ja": "x軸は石灰化率（従属変数）を表し、y軸は炭酸イオン濃度（独立変数）を表します。"
+        },
+        "feedback": {
+          "en": "The roles of the x-axis and y-axis variables are swapped, and their independent/dependent status is incorrect.",
+          "zh": "x轴和y轴变量的角色被颠倒了，它们的自变量/因变量状态也不正确。",
+          "es": "Los roles de las variables de los ejes x e y están intercambiados, y su estado de independiente/dependiente es incorrecto.",
+          "fr": "Les rôles des variables de l'axe des x et de l'axe des y sont inversés, et leur statut indépendant/dépendant est incorrect.",
+          "de": "Die Rollen der x- und y-Achsenvariablen sind vertauscht, und ihr unabhängiger/abhängiger Status ist falsch.",
+          "ja": "x軸とy軸の変数の役割が入れ替わっており、独立/従属変数の状態も間違っています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The x-axis represents the carbonate ion concentration (independent variable), and the y-axis represents the calcification rate (dependent variable).",
+          "zh": "x轴代表碳酸根离子浓度（自变量），y轴代表钙化速率（因变量）。",
+          "es": "El eje x representa la concentración de iones carbonato (variable independiente), y el eje y representa la tasa de calcificación (variable dependiente).",
+          "fr": "L'axe des x représente la concentration en ions carbonate (variable indépendante), et l'axe des y représente le taux de calcification (variable dépendante).",
+          "de": "Die x-Achse stellt die Karbonat-Ionen-Konzentration (unabhängige Variable) dar, und die y-Achse stellt die Kalzifizierungsrate (abhängige Variable) dar.",
+          "ja": "x軸は炭酸イオン濃度（独立変数）を表し、y軸は石灰化率（従属変数）を表します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both the x-axis and y-axis represent independent variables, showing different environmental factors affecting coral growth.",
+          "zh": "x轴和y轴都代表自变量，显示影响珊瑚生长的不同环境因素。",
+          "es": "Tanto el eje x como el eje y representan variables independientes, mostrando diferentes factores ambientales que afectan el crecimiento de los corales.",
+          "fr": "Les deux axes x et y représentent des variables indépendantes, montrant différents facteurs environnementaux affectant la croissance des coraux.",
+          "de": "Sowohl die x-Achse als auch die y-Achse stellen unabhängige Variablen dar, die verschiedene Umweltfaktoren zeigen, die das Korallenwachstum beeinflussen.",
+          "ja": "x軸とy軸の両方が独立変数を表しており、サンゴの成長に影響を与える異なる環境要因を示しています。"
+        },
+        "feedback": {
+          "en": "In this experiment, one variable is manipulated (independent) and the other is measured in response (dependent), so they are not both independent.",
+          "zh": "在这个实验中，一个变量被操控（自变量），另一个变量被测量作为响应（因变量），所以它们不能都是自变量。",
+          "es": "En este experimento, una variable se manipula (independiente) y la otra se mide como respuesta (dependiente), por lo que no ambas son independientes.",
+          "fr": "Dans cette expérience, une variable est manipulée (indépendante) et l'autre est mesurée en réponse (dépendante), donc elles ne sont pas toutes les deux indépendantes.",
+          "de": "In diesem Experiment wird eine Variable manipuliert (unabhängig) und die andere als Reaktion gemessen (abhängig), daher sind nicht beide unabhängig.",
+          "ja": "この実験では、一方の変数が操作され（独立）、もう一方の変数がその応答として測定される（従属）ため、両方が独立変数ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The x-axis represents the calcium carbonate accumulation (dependent variable), and the y-axis represents the seawater pH (independent variable).",
+          "zh": "x轴代表碳酸钙积累量（因变量），y轴代表海水pH值（自变量）。",
+          "es": "El eje x representa la acumulación de carbonato de calcio (variable dependiente), y el eje y representa el pH del agua de mar (variable independiente).",
+          "fr": "L'axe des x représente l'accumulation de carbonate de calcium (variable dépendante), et l'axe des y représente le pH de l'eau de mer (variable indépendante).",
+          "de": "Die x-Achse stellt die Kalziumkarbonat-Anreicherung (abhängige Variable) dar, und die y-Achse stellt den pH-Wert des Meerwassers (unabhängige Variable) dar.",
+          "ja": "x軸は炭酸カルシウム蓄積量（従属変数）を表し、y軸は海水pH（独立変数）を表します。"
+        },
+        "feedback": {
+          "en": "The variables mentioned do not match what is presented on the graph axes or in the experiment's description.",
+          "zh": "提到的变量与图表轴上或实验描述中呈现的不符。",
+          "es": "Las variables mencionadas no coinciden con lo que se presenta en los ejes del gráfico o en la descripción del experimento.",
+          "fr": "Les variables mentionnées ne correspondent pas à celles présentées sur les axes du graphique ou dans la description de l'expérience.",
+          "de": "Die genannten Variablen stimmen nicht mit den auf den Diagrammachsen oder in der Experimentbeschreibung dargestellten überein.",
+          "ja": "記載されている変数は、グラフの軸または実験の説明に示されているものと一致しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The x-axis shows the carbonate ion concentration ([CO3^2-] µmol/kg of seawater), which was manipulated by the researchers, making it the independent variable. The y-axis shows the calcification rate (mmol CaCO3/(m^2 * day)), which was measured as a response, making it the dependent variable.",
+      "zh": "x轴显示的是碳酸根离子浓度（[CO3^2-] µmol/kg海水），这是研究人员操纵的变量，因此是自变量。y轴显示的是钙化速率（mmol CaCO3/(m^2 * day)），这是作为响应测量的变量，因此是因变量。",
+      "es": "El eje x muestra la concentración de iones carbonato ([CO3^2-] µmol/kg de agua de mar), que fue manipulada por los investigadores, convirtiéndola en la variable independiente. El eje y muestra la tasa de calcificación (mmol CaCO3/(m^2 * día)), que fue medida como respuesta, convirtiéndola en la variable dependiente.",
+      "fr": "L'axe des x représente la concentration en ions carbonate ([CO3^2-] µmol/kg d'eau de mer), qui a été manipulée par les chercheurs, ce qui en fait la variable indépendante. L'axe des y représente le taux de calcification (mmol CaCO3/(m^2 * jour)), qui a été mesuré en réponse, ce qui en fait la variable dépendante.",
+      "de": "Die x-Achse zeigt die Karbonat-Ionen-Konzentration ([CO3^2-] µmol/kg Meerwasser), die von den Forschern manipuliert wurde und somit die unabhängige Variable ist. Die y-Achse zeigt die Kalzifizierungsrate (mmol CaCO3/(m^2 * Tag)), die als Reaktion gemessen wurde und somit die abhängige Variable ist.",
+      "ja": "x軸は炭酸イオン濃度（[CO3^2-] µmol/kg海水）を示しており、これは研究者によって操作された変数であるため、独立変数です。y軸は石灰化率（mmol CaCO3/(m^2 * day)）を示しており、これは応答として測定された変数であるため、従属変数です。"
+    }
+  },
+  {
+    "page_number": 103,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the information provided in the 'Scientific Skills Exercise', how would an increase in atmospheric CO2 likely affect the growth of coral reefs?",
+      "zh": "根据“科学技能练习”中提供的信息，大气中CO2的增加可能会如何影响珊瑚礁的生长？",
+      "es": "Según la información proporcionada en el 'Ejercicio de Habilidades Científicas', ¿cómo afectaría probablemente un aumento en el CO2 atmosférico al crecimiento de los arrecifes de coral?",
+      "fr": "Selon les informations fournies dans l'« Exercice de Compétences Scientifiques », comment une augmentation du CO2 atmosphérique affecterait-elle probablement la croissance des récifs coralliens ?",
+      "de": "Basierend auf den Informationen in der 'Scientific Skills Exercise', wie würde ein Anstieg des atmosphärischen CO2 wahrscheinlich das Wachstum von Korallenriffen beeinflussen?",
+      "ja": "「科学的スキル演習」で提供された情報に基づいて、大気中のCO2の増加はサンゴ礁の成長にどのように影響する可能性がありますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It would increase the calcification rate, leading to faster coral growth, as CO2 is a nutrient for corals.",
+          "zh": "它会增加钙化速率，导致珊瑚生长更快，因为CO2是珊瑚的营养物质。",
+          "es": "Aumentaría la tasa de calcificación, lo que llevaría a un crecimiento más rápido del coral, ya que el CO2 es un nutriente para los corales.",
+          "fr": "Cela augmenterait le taux de calcification, entraînant une croissance plus rapide des coraux, car le CO2 est un nutriment pour les coraux.",
+          "de": "Es würde die Kalzifizierungsrate erhöhen, was zu schnellerem Korallenwachstum führt, da CO2 ein Nährstoff für Korallen ist.",
+          "ja": "CO2はサンゴの栄養素であるため、石灰化率を増加させ、サンゴの成長を速めます。"
+        },
+        "feedback": {
+          "en": "The text states that increased atmospheric CO2 lowers carbonate ion concentration, which slows calcification, not speeds it up.",
+          "zh": "文本指出，大气中CO2的增加会降低碳酸根离子浓度，这会减缓而不是加速钙化作用。",
+          "es": "El texto indica que el aumento de CO2 atmosférico disminuye la concentración de iones carbonato, lo que ralentiza la calcificación, no la acelera.",
+          "fr": "Le texte indique qu'une augmentation du CO2 atmosphérique diminue la concentration en ions carbonate, ce qui ralentit la calcification, au lieu de l'accélérer.",
+          "de": "Der Text besagt, dass ein erhöhter atmosphärischer CO2-Gehalt die Karbonat-Ionen-Konzentration senkt, was die Kalzifizierung verlangsamt, nicht beschleunigt.",
+          "ja": "本文には、大気中のCO2の増加が炭酸イオン濃度を低下させ、石灰化を加速させるのではなく遅らせると述べられています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It would have no significant effect on coral growth, as corals can adapt to varying CO2 levels.",
+          "zh": "它对珊瑚生长没有显著影响，因为珊瑚能够适应不同的CO2水平。",
+          "es": "No tendría un efecto significativo en el crecimiento del coral, ya que los corales pueden adaptarse a los diferentes niveles de CO2.",
+          "fr": "Cela n'aurait aucun effet significatif sur la croissance des coraux, car les coraux peuvent s'adapter à des niveaux de CO2 variés.",
+          "de": "Es hätte keine signifikanten Auswirkungen auf das Korallenwachstum, da Korallen sich an unterschiedliche CO2-Werte anpassen können.",
+          "ja": "サンゴは様々なCO2レベルに適応できるため、サンゴの成長に大きな影響はありません。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that increased atmospheric CO2 will 'lower the concentration of dissolved carbonate ions,' which corals use for structure, implying a negative effect.",
+          "zh": "文本明确指出，大气中CO2的增加会“降低溶解的碳酸根离子浓度”，而珊瑚利用碳酸根离子构建结构，这暗示着负面影响。",
+          "es": "El texto establece explícitamente que el aumento de CO2 atmosférico 'disminuirá la concentración de iones carbonato disueltos', que los corales utilizan para su estructura, lo que implica un efecto negativo.",
+          "fr": "Le texte indique explicitement qu'une augmentation du CO2 atmosphérique « diminuera la concentration d'ions carbonate dissous », que les coraux utilisent pour leur structure, ce qui implique un effet négatif.",
+          "de": "Der Text besagt ausdrücklich, dass ein erhöhter atmosphärischer CO2-Gehalt 'die Konzentration gelöster Karbonat-Ionen senken wird', die Korallen für ihre Struktur nutzen, was einen negativen Effekt impliziert.",
+          "ja": "本文には、大気中のCO2の増加が「溶存炭酸イオンの濃度を低下させる」と明記されており、これはサンゴが構造のために使用するものであり、負の影響を示唆しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It would decrease the concentration of dissolved carbonate ions, leading to a reduced calcification rate and thus slower coral growth.",
+          "zh": "它会降低溶解的碳酸根离子浓度，导致钙化速率降低，从而减缓珊瑚生长。",
+          "es": "Disminuiría la concentración de iones carbonato disueltos, lo que llevaría a una reducción de la tasa de calcificación y, por lo tanto, a un crecimiento más lento del coral.",
+          "fr": "Cela diminuerait la concentration d'ions carbonate dissous, entraînant une réduction du taux de calcification et donc un ralentissement de la croissance des coraux.",
+          "de": "Es würde die Konzentration gelöster Karbonat-Ionen verringern, was zu einer reduzierten Kalzifizierungsrate und somit zu einem langsameren Korallenwachstum führen würde.",
+          "ja": "溶存炭酸イオンの濃度を低下させ、石灰化率を低下させ、その結果サンゴの成長を遅らせます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It would primarily affect the coloration of corals but have little impact on their structural growth.",
+          "zh": "它主要影响珊瑚的颜色，但对其结构生长影响很小。",
+          "es": "Afectaría principalmente la coloración de los corales, pero tendría poco impacto en su crecimiento estructural.",
+          "fr": "Cela affecterait principalement la coloration des coraux, mais aurait peu d'impact sur leur croissance structurelle.",
+          "de": "Es würde hauptsächlich die Färbung der Korallen beeinflussen, hätte aber geringe Auswirkungen auf ihr strukturelles Wachstum.",
+          "ja": "主にサンゴの色彩に影響を与え、構造的な成長にはほとんど影響しません。"
+        },
+        "feedback": {
+          "en": "The exercise focuses on the effect of carbonate ions on calcification rate, which directly relates to structural growth, not coloration.",
+          "zh": "本练习重点关注碳酸根离子对钙化速率的影响，这直接关系到结构生长，而非颜色。",
+          "es": "El ejercicio se centra en el efecto de los iones carbonato en la tasa de calcificación, que se relaciona directamente con el crecimiento estructural, no con la coloración.",
+          "fr": "L'exercice se concentre sur l'effet des ions carbonate sur le taux de calcification, qui est directement lié à la croissance structurelle, et non à la coloration.",
+          "de": "Die Übung konzentriert sich auf den Einfluss von Karbonat-Ionen auf die Kalzifizierungsrate, die direkt mit dem strukturellen Wachstum und nicht mit der Färbung zusammenhängt.",
+          "ja": "この演習は、炭酸イオンが石灰化率に与える影響に焦点を当てており、これは色彩ではなく構造的な成長に直接関連しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that higher levels of atmospheric CO2 lead to lower concentrations of dissolved carbonate ions. The graph shows a positive correlation between carbonate ion concentration and calcification rate. Therefore, a decrease in carbonate ions due to increased CO2 would lead to a reduced calcification rate, slowing coral reef growth.",
+      "zh": "文本指出，大气中CO2水平的升高会导致溶解碳酸根离子浓度降低。图表显示碳酸根离子浓度与钙化速率之间存在正相关。因此，由于CO2增加导致的碳酸根离子减少将导致钙化速率降低，从而减缓珊瑚礁的生长。",
+      "es": "El texto establece que niveles más altos de CO2 atmosférico conducen a concentraciones más bajas de iones carbonato disueltos. El gráfico muestra una correlación positiva entre la concentración de iones carbonato y la tasa de calcificación. Por lo tanto, una disminución en los iones carbonato debido al aumento de CO2 conduciría a una tasa de calcificación reducida, ralentizando el crecimiento de los arrecifes de coral.",
+      "fr": "Le texte indique que des niveaux plus élevés de CO2 atmosphérique entraînent des concentrations plus faibles d'ions carbonate dissous. Le graphique montre une corrélation positive entre la concentration en ions carbonate et le taux de calcification. Par conséquent, une diminution des ions carbonate due à l'augmentation du CO2 entraînerait une réduction du taux de calcification, ralentissant la croissance des récifs coralliens.",
+      "de": "Der Text besagt, dass höhere atmosphärische CO2-Werte zu geringeren Konzentrationen gelöster Karbonat-Ionen führen. Das Diagramm zeigt eine positive Korrelation zwischen der Karbonat-Ionen-Konzentration und der Kalzifizierungsrate. Daher würde eine Abnahme der Karbonat-Ionen aufgrund erhöhter CO2-Werte zu einer reduzierten Kalzifizierungsrate führen und somit das Wachstum von Korallenriffen verlangsamen.",
+      "ja": "本文によると、大気中のCO2濃度が高くなると、溶存炭酸イオンの濃度が低下します。グラフは、炭酸イオン濃度と石灰化率の間に正の相関があることを示しています。したがって、CO2の増加による炭酸イオンの減少は、石灰化率の低下につながり、サンゴ礁の成長を遅らせます。"
+    }
+  },
+  {
+    "page_number": 103,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Regarding water molecules, what is the fundamental difference between a hydrogen bond and a polar covalent bond?",
+      "zh": "关于水分子，氢键和极性共价键的根本区别是什么？",
+      "es": "En relación con las moléculas de agua, ¿cuál es la diferencia fundamental entre un enlace de hidrógeno y un enlace covalente polar?",
+      "fr": "Concernant les molécules d'eau, quelle est la différence fondamentale entre une liaison hydrogène et une liaison covalente polaire ?",
+      "de": "Was ist bei Wassermolekülen der grundlegende Unterschied zwischen einer Wasserstoffbrückenbindung und einer polaren kovalenten Bindung?",
+      "ja": "水分子に関して、水素結合と極性共有結合の根本的な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Both are intramolecular forces, but hydrogen bonds are stronger due to electron sharing.",
+          "zh": "两者都是分子内作用力，但氢键由于电子共享而更强。",
+          "es": "Ambos son fuerzas intramoleculares, pero los enlaces de hidrógeno son más fuertes debido al intercambio de electrones.",
+          "fr": "Les deux sont des forces intramoléculaires, mais les liaisons hydrogène sont plus fortes en raison du partage d'électrons.",
+          "de": "Beide sind intramolekulare Kräfte, aber Wasserstoffbrückenbindungen sind aufgrund der Elektronenpaarbindung stärker.",
+          "ja": "どちらも分子内力ですが、水素結合は電子共有により強度が大きいです。"
+        },
+        "feedback": {
+          "en": "Hydrogen bonds are intermolecular attractions (between molecules), not intramolecular forces, and they do not involve electron sharing.",
+          "zh": "氢键是分子间吸引力（在分子之间），而不是分子内作用力，并且它们不涉及电子共享。",
+          "es": "Los enlaces de hidrógeno son atracciones intermoleculares (entre moléculas), no fuerzas intramoleculares, y no implican intercambio de electrones.",
+          "fr": "Les liaisons hydrogène sont des attractions intermoléculaires (entre molécules), et non des forces intramoléculaires, et elles n'impliquent pas le partage d'électrons.",
+          "de": "Wasserstoffbrückenbindungen sind intermolekulare Anziehungskräfte (zwischen Molekülen), keine intramolekularen Kräfte, und sie beinhalten keine Elektronenpaarbindung.",
+          "ja": "水素結合は分子内力ではなく分子間引力（分子間）であり、電子の共有は関与しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A hydrogen bond is an attraction between different water molecules, while a polar covalent bond is formed by shared electrons within a single water molecule.",
+          "zh": "氢键是不同水分子间的吸引力，而极性共价键是由单个水分子内部共享电子形成的。",
+          "es": "Un enlace de hidrógeno es una atracción entre diferentes moléculas de agua, mientras que un enlace covalente polar se forma por electrones compartidos dentro de una sola molécula de agua.",
+          "fr": "Une liaison hydrogène est une attraction entre différentes molécules d'eau, tandis qu'une liaison covalente polaire est formée par des électrons partagés au sein d'une seule molécule d'eau.",
+          "de": "Eine Wasserstoffbrückenbindung ist eine Anziehung zwischen verschiedenen Wassermolekülen, während eine polare kovalente Bindung durch geteilte Elektronen innerhalb eines einzelnen Wassermoleküls gebildet wird.",
+          "ja": "水素結合は異なる水分子間の引力であり、極性共有結合は単一の水分子内で電子が共有されることによって形成されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both are formed by the transfer of electrons, with hydrogen bonds being weaker than polar covalent bonds.",
+          "zh": "两者都是通过电子转移形成的，其中氢键比极性共价键弱。",
+          "es": "Ambos se forman por la transferencia de electrones, siendo los enlaces de hidrógeno más débiles que los enlaces covalentes polares.",
+          "fr": "Les deux sont formés par le transfert d'électrons, les liaisons hydrogène étant plus faibles que les liaisons covalentes polaires.",
+          "de": "Beide werden durch Elektronenübertragung gebildet, wobei Wasserstoffbrückenbindungen schwächer sind als polare kovalente Bindungen.",
+          "ja": "どちらも電子の移動によって形成され、水素結合は極性共有結合よりも弱いです。"
+        },
+        "feedback": {
+          "en": "Neither hydrogen bonds nor polar covalent bonds are formed by electron transfer; polar covalent bonds involve sharing, and hydrogen bonds are attractions.",
+          "zh": "氢键和极性共价键都不是通过电子转移形成的；极性共价键涉及共享，而氢键是吸引力。",
+          "es": "Ni los enlaces de hidrógeno ni los enlaces covalentes polares se forman por transferencia de electrones; los enlaces covalentes polares implican compartir, y los enlaces de hidrógeno son atracciones.",
+          "fr": "Ni les liaisons hydrogène ni les liaisons covalentes polaires ne sont formées par transfert d'électrons ; les liaisons covalentes polaires impliquent le partage, et les liaisons hydrogène sont des attractions.",
+          "de": "Weder Wasserstoffbrückenbindungen noch polare kovalente Bindungen entstehen durch Elektronenübertragung; polare kovalente Bindungen beinhalten das Teilen, und Wasserstoffbrückenbindungen sind Anziehungen.",
+          "ja": "水素結合も極性共有結合も電子移動によって形成されるものではありません。極性共有結合は共有を伴い、水素結合は引力です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Hydrogen bonds are responsible for water's polarity, while polar covalent bonds give water its high specific heat.",
+          "zh": "氢键负责水的极性，而极性共价键赋予水高比热。",
+          "es": "Los enlaces de hidrógeno son responsables de la polaridad del agua, mientras que los enlaces covalentes polares le dan al agua su alto calor específico.",
+          "fr": "Les liaisons hydrogène sont responsables de la polarité de l'eau, tandis que les liaisons covalentes polaires confèrent à l'eau sa chaleur spécifique élevée.",
+          "de": "Wasserstoffbrückenbindungen sind für die Polarität des Wassers verantwortlich, während polare kovalente Bindungen dem Wasser seine hohe spezifische Wärme verleihen.",
+          "ja": "水素結合は水の極性に関与し、極性共有結合は水の高い比熱をもたらします。"
+        },
+        "feedback": {
+          "en": "Water's polarity arises from polar covalent bonds within the molecule, while hydrogen bonds contribute to properties like high specific heat.",
+          "zh": "水的极性源于分子内部的极性共价键，而氢键有助于高比热等性质。",
+          "es": "La polaridad del agua surge de los enlaces covalentes polares dentro de la molécula, mientras que los enlaces de hidrógeno contribuyen a propiedades como el alto calor específico.",
+          "fr": "La polarité de l'eau provient des liaisons covalentes polaires au sein de la molécule, tandis que les liaisons hydrogène contribuent à des propriétés telles que la chaleur spécifique élevée.",
+          "de": "Die Polarität des Wassers entsteht durch polare kovalente Bindungen innerhalb des Moleküls, während Wasserstoffbrückenbindungen zu Eigenschaften wie hoher spezifischer Wärme beitragen.",
+          "ja": "水の極性は分子内の極性共有結合から生じ、水素結合は高い比熱などの特性に寄与します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Polar covalent bonds are strong bonds formed by the unequal sharing of electrons between oxygen and hydrogen atoms within a single water molecule, leading to the molecule's polarity. Hydrogen bonds are weaker, intermolecular attractions between the partially positive hydrogen of one water molecule and the partially negative oxygen of a nearby water molecule.",
+      "zh": "极性共价键是单个水分子中氧原子和氢原子之间通过不均等共享电子形成的强键，从而导致分子的极性。氢键是较弱的分子间吸引力，发生在其中一个水分子中部分带正电的氢与附近水分子中部分带负电的氧之间。",
+      "es": "Los enlaces covalentes polares son enlaces fuertes formados por el reparto desigual de electrones entre los átomos de oxígeno e hidrógeno dentro de una sola molécula de agua, lo que lleva a la polaridad de la molécula. Los enlaces de hidrógeno son atracciones intermoleculares más débiles entre el hidrógeno parcialmente positivo de una molécula de agua y el oxígeno parcialmente negativo de una molécula de agua cercana.",
+      "fr": "Les liaisons covalentes polaires sont des liaisons fortes formées par le partage inégal d'électrons entre les atomes d'oxygène et d'hydrogène au sein d'une seule molécule d'eau, ce qui confère à la molécule sa polarité. Les liaisons hydrogène sont des attractions intermoléculaires plus faibles entre l'hydrogène partiellement positif d'une molécule d'eau et l'oxygène partiellement négatif d'une molécule d'eau voisine.",
+      "de": "Polare kovalente Bindungen sind starke Bindungen, die durch die ungleiche Aufteilung von Elektronen zwischen Sauerstoff- und Wasserstoffatomen innerhalb eines einzelnen Wassermoleküls entstehen und zur Polarität des Moleküls führen. Wasserstoffbrückenbindungen sind schwächere, intermolekulare Anziehungskräfte zwischen dem partiell positiven Wasserstoff eines Wassermoleküls und dem partiell negativen Sauerstoff eines benachbarten Wassermoleküls.",
+      "ja": "極性共有結合は、単一の水分子内の酸素原子と水素原子の間で電子が不均等に共有されることによって形成される強い結合であり、分子の極性を生じさせます。水素結合は、ある水分子の部分的に陽性な水素と、近くの別の水分子の部分的に陰性な酸素との間の弱い分子間引力です。"
+    }
+  },
+  {
+    "page_number": 103,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Referring to the scatter plot, if the seawater carbonate ion concentration is 250 µmol/kg, what is the approximate rate of calcification, and approximately how many days would it take 1 square meter of reef to accumulate 30 mmol of calcium carbonate (CaCO3)?",
+      "zh": "参照散点图，如果海水碳酸根离子浓度为250 µmol/kg，钙化速率大约是多少？1平方米的珊瑚礁大约需要多少天才能积累30 mmol的碳酸钙（CaCO3）？",
+      "es": "Consultando el diagrama de dispersión, si la concentración de iones carbonato en el agua de mar es de 250 µmol/kg, ¿cuál es la tasa aproximada de calcificación y aproximadamente cuántos días tardaría 1 metro cuadrado de arrecife en acumular 30 mmol de carbonato de calcio (CaCO3)?",
+      "fr": "En vous référant au nuage de points, si la concentration en ions carbonate de l'eau de mer est de 250 µmol/kg, quel est le taux approximatif de calcification, et approximativement combien de jours faudrait-il à 1 mètre carré de récif pour accumuler 30 mmol de carbonate de calcium (CaCO3) ?",
+      "de": "Wenn die Karbonat-Ionen-Konzentration des Meerwassers 250 µmol/kg beträgt, wie hoch ist die ungefähre Kalzifizierungsrate und wie viele Tage würde es ungefähr dauern, bis 1 Quadratmeter Riff 30 mmol Kalziumkarbonat (CaCO3) akkumuliert hat, basierend auf dem Streudiagramm?",
+      "ja": "散布図を参照して、海水炭酸イオン濃度が250 µmol/kgの場合、石灰化率はおよそどのくらいですか？また、1平方メートルのサンゴ礁が30 mmolの炭酸カルシウム（CaCO3）を蓄積するのに、およそ何日かかりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Rate: 10 mmol CaCO3/(m^2 * day); Days: 3 days",
+          "zh": "速率：10 mmol CaCO3/(m^2 * 天)；天数：3天",
+          "es": "Tasa: 10 mmol CaCO3/(m^2 * día); Días: 3 días",
+          "fr": "Taux : 10 mmol CaCO3/(m^2 * jour) ; Jours : 3 jours",
+          "de": "Rate: 10 mmol CaCO3/(m^2 * Tag); Tage: 3 Tage",
+          "ja": "レート：10 mmol CaCO3/(m^2 * 日)；日数：3日"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Rate: 12 mmol CaCO3/(m^2 * day); Days: 2.5 days",
+          "zh": "速率：12 mmol CaCO3/(m^2 * 天)；天数：2.5天",
+          "es": "Tasa: 12 mmol CaCO3/(m^2 * día); Días: 2.5 días",
+          "fr": "Taux : 12 mmol CaCO3/(m^2 * jour) ; Jours : 2,5 jours",
+          "de": "Rate: 12 mmol CaCO3/(m^2 * Tag); Tage: 2,5 Tage",
+          "ja": "レート：12 mmol CaCO3/(m^2 * 日)；日数：2.5日"
+        },
+        "feedback": {
+          "en": "The calcification rate at 250 µmol/kg is lower than 12 mmol CaCO3/(m^2 * day) according to the graph.",
+          "zh": "根据图表，在250 µmol/kg时，钙化速率低于12 mmol CaCO3/(m^2 * 天)。",
+          "es": "La tasa de calcificación a 250 µmol/kg es inferior a 12 mmol CaCO3/(m^2 * día) según el gráfico.",
+          "fr": "Le taux de calcification à 250 µmol/kg est inférieur à 12 mmol CaCO3/(m^2 * jour) selon le graphique.",
+          "de": "Die Kalzifizierungsrate bei 250 µmol/kg liegt laut Diagramm unter 12 mmol CaCO3/(m^2 * Tag).",
+          "ja": "グラフによると、250 µmol/kgにおける石灰化率は12 mmol CaCO3/(m^2 * 日)よりも低いです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Rate: 8 mmol CaCO3/(m^2 * day); Days: 3.75 days",
+          "zh": "速率：8 mmol CaCO3/(m^2 * 天)；天数：3.75天",
+          "es": "Tasa: 8 mmol CaCO3/(m^2 * día); Días: 3.75 días",
+          "fr": "Taux : 8 mmol CaCO3/(m^2 * jour) ; Jours : 3,75 jours",
+          "de": "Rate: 8 mmol CaCO3/(m^2 * Tag); Tage: 3,75 Tage",
+          "ja": "レート：8 mmol CaCO3/(m^2 * 日)；日数：3.75日"
+        },
+        "feedback": {
+          "en": "The calcification rate at 250 µmol/kg is higher than 8 mmol CaCO3/(m^2 * day) according to the graph.",
+          "zh": "根据图表，在250 µmol/kg时，钙化速率高于8 mmol CaCO3/(m^2 * 天)。",
+          "es": "La tasa de calcificación a 250 µmol/kg es superior a 8 mmol CaCO3/(m^2 * día) según el gráfico.",
+          "fr": "Le taux de calcification à 250 µmol/kg est supérieur à 8 mmol CaCO3/(m^2 * jour) selon le graphique.",
+          "de": "Die Kalzifizierungsrate bei 250 µmol/kg liegt laut Diagramm über 8 mmol CaCO3/(m^2 * Tag).",
+          "ja": "グラフによると、250 µmol/kgにおける石灰化率は8 mmol CaCO3/(m^2 * 日)よりも高いです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Rate: 15 mmol CaCO3/(m^2 * day); Days: 2 days",
+          "zh": "速率：15 mmol CaCO3/(m^2 * 天)；天数：2天",
+          "es": "Tasa: 15 mmol CaCO3/(m^2 * día); Días: 2 días",
+          "fr": "Taux : 15 mmol CaCO3/(m^2 * jour) ; Jours : 2 jours",
+          "de": "Rate: 15 mmol CaCO3/(m^2 * Tag); Tage: 2 Tage",
+          "ja": "レート：15 mmol CaCO3/(m^2 * 日)；日数：2日"
+        },
+        "feedback": {
+          "en": "The calcification rate at 250 µmol/kg is significantly lower than 15 mmol CaCO3/(m^2 * day) according to the graph.",
+          "zh": "根据图表，在250 µmol/kg时，钙化速率远低于15 mmol CaCO3/(m^2 * 天)。",
+          "es": "La tasa de calcificación a 250 µmol/kg es significativamente inferior a 15 mmol CaCO3/(m^2 * día) según el gráfico.",
+          "fr": "Le taux de calcification à 250 µmol/kg est significativement inférieur à 15 mmol CaCO3/(m^2 * jour) selon le graphique.",
+          "de": "Die Kalzifizierungsrate bei 250 µmol/kg liegt laut Diagramm deutlich unter 15 mmol CaCO3/(m^2 * Tag).",
+          "ja": "グラフによると、250 µmol/kgにおける石灰化率は15 mmol CaCO3/(m^2 * 日)よりも大幅に低いです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "To solve this, first locate 250 µmol/kg on the x-axis. Follow vertically up to the red regression line, then horizontally to the y-axis to read the calcification rate. The line crosses the y-axis exactly at 10 mmol CaCO3/(m^2 * day). Then, to find the number of days, divide the total desired accumulation (30 mmol) by the rate: 30 mmol / (10 mmol/(m^2 * day)) = 3 days.",
+      "zh": "要解决这个问题，首先在x轴上找到250 µmol/kg。垂直向上找到红色回归线，然后水平向左到y轴读取钙化速率。该线恰好在y轴的10 mmol CaCO3/(m^2 * 天)处相交。然后，要计算天数，将所需的总积累量（30 mmol）除以速率：30 mmol / (10 mmol/(m^2 * 天)) = 3 天。",
+      "es": "Para resolver esto, primero localice 250 µmol/kg en el eje x. Siga verticalmente hasta la línea de regresión roja y luego horizontalmente hasta el eje y para leer la tasa de calcificación. La línea cruza el eje y exactamente en 10 mmol CaCO3/(m^2 * día). Luego, para encontrar el número de días, divida la acumulación total deseada (30 mmol) por la tasa: 30 mmol / (10 mmol/(m^2 * día)) = 3 días.",
+      "fr": "Pour résoudre ceci, localisez d'abord 250 µmol/kg sur l'axe des x. Suivez verticalement jusqu'à la ligne de régression rouge, puis horizontalement jusqu'à l'axe des y pour lire le taux de calcification. La ligne croise l'axe des y exactement à 10 mmol CaCO3/(m^2 * jour). Ensuite, pour trouver le nombre de jours, divisez l'accumulation totale désirée (30 mmol) par le taux : 30 mmol / (10 mmol/(m^2 * jour)) = 3 jours.",
+      "de": "Um dies zu lösen, suchen Sie zuerst 250 µmol/kg auf der x-Achse. Folgen Sie vertikal nach oben zur roten Regressionslinie und dann horizontal zur y-Achse, um die Kalzifizierungsrate abzulesen. Die Linie kreuzt die y-Achse genau bei 10 mmol CaCO3/(m^2 * Tag). Um dann die Anzahl der Tage zu ermitteln, teilen Sie die gewünschte Gesamtakkumulation (30 mmol) durch die Rate: 30 mmol / (10 mmol/(m^2 * Tag)) = 3 Tage.",
+      "ja": "これを解くには、まずx軸上の250 µmol/kgを探します。赤い回帰線まで垂直に上り、そこからy軸まで水平に移動して石灰化率を読み取ります。線はy軸のちょうど10 mmol CaCO3/(m^2 * 日)のところで交わります。次に、日数を求めるには、目標の総蓄積量（30 mmol）をレートで割ります：30 mmol / (10 mmol/(m^2 * 日)) = 3日。"
+    }
+  }
+]

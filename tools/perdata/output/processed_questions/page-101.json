@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 101,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the pH of a solution with a hydrogen ion concentration ([H+]) of 10^-3 M?",
+      "zh": "氢离子浓度 ([H+]) 为 10^-3 M 的溶液的 pH 值是多少？",
+      "es": "¿Cuál es el pH de una solución con una concentración de iones de hidrógeno ([H+]) de 10^-3 M?",
+      "fr": "Quel est le pH d'une solution ayant une concentration en ions hydrogène ([H+]) de 10^-3 M ?",
+      "de": "Welchen pH-Wert hat eine Lösung mit einer Wasserstoffionenkonzentration ([H+]) von 10^-3 M?",
+      "ja": "水素イオン濃度 ([H+]) が 10^-3 M の溶液のpH値はいくつですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "3",
+          "zh": "3",
+          "es": "3",
+          "fr": "3",
+          "de": "3",
+          "ja": "3"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "11",
+          "zh": "11",
+          "es": "11",
+          "fr": "11",
+          "de": "11",
+          "ja": "11"
+        },
+        "feedback": {
+          "en": "This would be the pOH if [H+] was 10^-3 M, as pH + pOH = 14.",
+          "zh": "如果 [H+] 是 10^-3 M，这将是 pOH，因为 pH + pOH = 14。",
+          "es": "Este sería el pOH si [H+] fuera 10^-3 M, ya que pH + pOH = 14.",
+          "fr": "Ce serait le pOH si [H+] était de 10^-3 M, car pH + pOH = 14.",
+          "de": "Dies wäre der pOH-Wert, wenn [H+] 10^-3 M wäre, da pH + pOH = 14 ist.",
+          "ja": "もし[H+]が10^-3 Mであった場合、これはpOHになります。なぜならpH + pOH = 14だからです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "-3",
+          "zh": "-3",
+          "es": "-3",
+          "fr": "-3",
+          "de": "-3",
+          "ja": "-3"
+        },
+        "feedback": {
+          "en": "pH values are typically positive, defined as -log[H+].",
+          "zh": "pH 值通常是正数，定义为 -log[H+]。",
+          "es": "Los valores de pH suelen ser positivos, definidos como -log[H+].",
+          "fr": "Les valeurs de pH sont généralement positives, définies comme -log[H+].",
+          "de": "pH-Werte sind typischerweise positiv und als -log[H+] definiert.",
+          "ja": "pH値は通常正の値であり、-log[H+]として定義されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "7",
+          "zh": "7",
+          "es": "7",
+          "fr": "7",
+          "de": "7",
+          "ja": "7"
+        },
+        "feedback": {
+          "en": "pH 7 indicates a neutral solution where [H+] is 10^-7 M.",
+          "zh": "pH 7 表示中性溶液，其中 [H+] 为 10^-7 M。",
+          "es": "pH 7 indica una solución neutra donde [H+] es 10^-7 M.",
+          "fr": "Un pH de 7 indique une solution neutre où [H+] est de 10^-7 M.",
+          "de": "pH 7 zeigt eine neutrale Lösung an, bei der [H+] 10^-7 M beträgt.",
+          "ja": "pH 7 は中性溶液を示し、その場合 [H+] は 10^-7 M です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The pH of a solution is defined as the negative logarithm (base 10) of the hydrogen ion concentration ([H+]). Therefore, pH = -log[10^-3] = 3.",
+      "zh": "溶液的 pH 值定义为氢离子浓度 ([H+]) 的负常用对数（以 10 为底）。因此，pH = -log[10^-3] = 3。",
+      "es": "El pH de una solución se define como el logaritmo negativo (base 10) de la concentración de iones de hidrógeno ([H+]). Por lo tanto, pH = -log[10^-3] = 3.",
+      "fr": "Le pH d'une solution est défini comme le logarithme négatif (base 10) de la concentration en ions hydrogène ([H+]). Par conséquent, pH = -log[10^-3] = 3.",
+      "de": "Der pH-Wert einer Lösung ist als der negative Logarithmus (zur Basis 10) der Wasserstoffionenkonzentration ([H+]) definiert. Daher gilt: pH = -log[10^-3] = 3.",
+      "ja": "溶液のpH値は、水素イオン濃度([H+])の負の常用対数（底10）として定義されます。したがって、pH = -log[10^-3] = 3です。"
+    }
+  },
+  {
+    "page_number": 101,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, if 0.01 mol of a strong acid is added to a liter of pure water, the pH drops from 7.0 to 2.0. However, if the same amount of acid is added to a liter of human blood, the pH only drops from 7.4 to 7.3. What is the primary reason for this difference in pH change?",
+      "zh": "根据文本，如果将 0.01 摩尔的强酸加入一升纯水，pH 值从 7.0 下降到 2.0。但是，如果将相同量的酸加入一升人血，pH 值仅从 7.4 下降到 7.3。造成这种 pH 值变化差异的主要原因是什么？",
+      "es": "Según el texto, si se añaden 0.01 mol de un ácido fuerte a un litro de agua pura, el pH desciende de 7.0 a 2.0. Sin embargo, si la misma cantidad de ácido se añade a un litro de sangre humana, el pH solo desciende de 7.4 a 7.3. ¿Cuál es la razón principal de esta diferencia en el cambio de pH?",
+      "fr": "Selon le texte, si 0,01 mol d'un acide fort est ajouté à un litre d'eau pure, le pH chute de 7,0 à 2,0. Cependant, si la même quantité d'acide est ajoutée à un litre de sang humain, le pH ne chute que de 7,4 à 7,3. Quelle est la raison principale de cette différence de variation du pH ?",
+      "de": "Laut Text fällt der pH-Wert von reinem Wasser von 7,0 auf 2,0, wenn 0,01 mol einer starken Säure zu einem Liter hinzugefügt werden. Wird jedoch die gleiche Menge Säure zu einem Liter menschlichen Blutes gegeben, fällt der pH-Wert nur von 7,4 auf 7,3. Was ist der Hauptgrund für diesen Unterschied in der pH-Wert-Änderung?",
+      "ja": "本文によると、0.01モルの強酸を1リットルの純水に加えると、pHは7.0から2.0に低下します。しかし、同じ量の酸を1リットルのヒトの血液に加えると、pHは7.4から7.3にしか低下しません。このpH変化の差の主な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Human blood is naturally more acidic than pure water.",
+          "zh": "人血天然比纯水更酸性。",
+          "es": "La sangre humana es naturalmente más ácida que el agua pura.",
+          "fr": "Le sang humain est naturellement plus acide que l'eau pure.",
+          "de": "Menschliches Blut ist von Natur aus saurer als reines Wasser.",
+          "ja": "ヒトの血液は純水よりも本来酸性である。"
+        },
+        "feedback": {
+          "en": "Human blood is described as slightly basic (pH 7.4), while pure water is neutral (pH 7.0).",
+          "zh": "人血被描述为略呈碱性（pH 7.4），而纯水是中性的（pH 7.0）。",
+          "es": "La sangre humana se describe como ligeramente básica (pH 7.4), mientras que el agua pura es neutra (pH 7.0).",
+          "fr": "Le sang humain est décrit comme légèrement basique (pH 7,4), tandis que l'eau pure est neutre (pH 7,0).",
+          "de": "Menschliches Blut wird als leicht basisch (pH 7,4) beschrieben, während reines Wasser neutral (pH 7,0) ist.",
+          "ja": "ヒトの血液はわずかに塩基性（pH 7.4）と記述されており、純水は中性（pH 7.0）です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Human blood contains buffers that resist changes in pH.",
+          "zh": "人血含有抵抗 pH 值变化的缓冲物质。",
+          "es": "La sangre humana contiene amortiguadores que resisten los cambios de pH.",
+          "fr": "Le sang humain contient des tampons qui résistent aux changements de pH.",
+          "de": "Menschliches Blut enthält Puffer, die pH-Wert-Änderungen entgegenwirken.",
+          "ja": "ヒトの血液にはpH変化に抵抗する緩衝液が含まれている。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Pure water has a higher initial pH than human blood.",
+          "zh": "纯水的初始 pH 值高于人血。",
+          "es": "El agua pura tiene un pH inicial más alto que la sangre humana.",
+          "fr": "L'eau pure a un pH initial plus élevé que le sang humain.",
+          "de": "Reines Wasser hat einen höheren Anfangs-pH-Wert als menschliches Blut.",
+          "ja": "純水はヒトの血液よりも初期pHが高い。"
+        },
+        "feedback": {
+          "en": "Pure water (pH 7.0) has a lower initial pH than human blood (pH 7.4).",
+          "zh": "纯水（pH 7.0）的初始 pH 值低于人血（pH 7.4）。",
+          "es": "El agua pura (pH 7.0) tiene un pH inicial más bajo que la sangre humana (pH 7.4).",
+          "fr": "L'eau pure (pH 7,0) a un pH initial inférieur à celui du sang humain (pH 7,4).",
+          "de": "Reines Wasser (pH 7,0) hat einen niedrigeren Anfangs-pH-Wert als menschliches Blut (pH 7,4).",
+          "ja": "純水（pH 7.0）は、ヒトの血液（pH 7.4）よりも初期pHが低い。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The acid reacts differently with the components of water versus blood.",
+          "zh": "酸与水和血液中的成分反应方式不同。",
+          "es": "El ácido reacciona de manera diferente con los componentes del agua en comparación con la sangre.",
+          "fr": "L'acide réagit différemment avec les composants de l'eau par rapport à ceux du sang.",
+          "de": "Die Säure reagiert unterschiedlich mit den Bestandteilen von Wasser im Vergleich zu Blut.",
+          "ja": "酸は水と血液の成分と異なる反応をする。"
+        },
+        "feedback": {
+          "en": "While true, the specific mechanism for resisting large pH changes in blood is the presence of buffer systems, which are explained in the text.",
+          "zh": "虽然这是事实，但血液中抵抗 pH 值大幅变化的具体机制是缓冲系统的存在，这在文本中有所解释。",
+          "es": "Aunque es cierto, el mecanismo específico para resistir grandes cambios de pH en la sangre es la presencia de sistemas amortiguadores, que se explican en el texto.",
+          "fr": "Bien que cela soit vrai, le mécanisme spécifique de résistance aux grands changements de pH dans le sang est la présence de systèmes tampons, qui sont expliqués dans le texte.",
+          "de": "Obwohl dies zutrifft, ist der spezifische Mechanismus zur Widerstandsfähigkeit gegenüber großen pH-Wert-Änderungen im Blut das Vorhandensein von Puffersystemen, die im Text erklärt werden.",
+          "ja": "それは事実ですが、血液中で大きなpH変化に抵抗する具体的なメカニズムは、テキストで説明されている緩衝系の存在です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that 'A buffer is a substance that minimizes changes in the concentrations of H+ and OH- in a solution.' Human blood contains such buffer systems, which are responsible for maintaining its stable pH despite the addition of acids or bases.",
+      "zh": "文本解释说，'缓冲物质是一种能使溶液中 H+ 和 OH- 浓度变化最小化的物质。' 人血含有这样的缓冲系统，它们负责在添加酸或碱的情况下保持其稳定的 pH 值。",
+      "es": "El texto explica que 'Un amortiguador es una sustancia que minimiza los cambios en las concentraciones de H+ y OH- en una solución'. La sangre humana contiene tales sistemas amortiguadores, que son responsables de mantener su pH estable a pesar de la adición de ácidos o bases.",
+      "fr": "Le texte explique qu'«un tampon est une substance qui minimise les changements dans les concentrations de H+ et de OH- dans une solution». Le sang humain contient de tels systèmes tampons, qui sont responsables du maintien de son pH stable malgré l'ajout d'acides ou de bases.",
+      "de": "Der Text erklärt: 'Ein Puffer ist eine Substanz, die Änderungen der H+- und OH--Konzentrationen in einer Lösung minimiert.' Menschliches Blut enthält solche Puffersysteme, die dafür verantwortlich sind, seinen stabilen pH-Wert trotz Zugabe von Säuren oder Basen aufrechtzuerhalten.",
+      "ja": "本文では、「緩衝液とは、溶液中のH+およびOH-の濃度変化を最小限に抑える物質である」と説明されています。ヒトの血液にはそのような緩衝システムが含まれており、酸や塩基が加えられても安定したpHを維持する役割を担っています。"
+    }
+  },
+  {
+    "page_number": 101,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on Figure 3.11, which of the following substances is considered acidic?",
+      "zh": "根据图 3.11，以下哪种物质被认为是酸性的？",
+      "es": "Según la Figura 3.11, ¿cuál de las siguientes sustancias se considera ácida?",
+      "fr": "Selon la Figure 3.11, quelle est la substance suivante considérée comme acide ?",
+      "de": "Basierend auf Abbildung 3.11, welche der folgenden Substanzen wird als sauer betrachtet?",
+      "ja": "図3.11に基づくと、以下の物質のうち酸性であると考えられているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Pure water",
+          "zh": "纯水",
+          "es": "Agua pura",
+          "fr": "Eau pure",
+          "de": "Reines Wasser",
+          "ja": "純水"
+        },
+        "feedback": {
+          "en": "Pure water has a pH of 7, which is neutral.",
+          "zh": "纯水的 pH 值为 7，是中性的。",
+          "es": "El agua pura tiene un pH de 7, que es neutro.",
+          "fr": "L'eau pure a un pH de 7, ce qui est neutre.",
+          "de": "Reines Wasser hat einen pH-Wert von 7, was neutral ist.",
+          "ja": "純水のpHは7で、中性です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Milk of magnesia",
+          "zh": "氢氧化镁乳",
+          "es": "Leche de magnesia",
+          "fr": "Lait de magnésie",
+          "de": "Magnesiummilch",
+          "ja": "水酸化マグネシウム乳"
+        },
+        "feedback": {
+          "en": "Milk of magnesia has a pH of 10-11, which is basic.",
+          "zh": "氢氧化镁乳的 pH 值为 10-11，是碱性的。",
+          "es": "La leche de magnesia tiene un pH de 10-11, lo cual es básico.",
+          "fr": "Le lait de magnésie a un pH de 10-11, ce qui est basique.",
+          "de": "Magnesiummilch hat einen pH-Wert von 10-11, was basisch ist.",
+          "ja": "水酸化マグネシウム乳のpHは10-11で、塩基性です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Gastric juice",
+          "zh": "胃液",
+          "es": "Jugo gástrico",
+          "fr": "Suc gastrique",
+          "de": "Magensaft",
+          "ja": "胃液"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Household ammonia",
+          "zh": "家用氨水",
+          "es": "Amoníaco doméstico",
+          "fr": "Ammoniaque domestique",
+          "de": "Haushaltsammoniak",
+          "ja": "家庭用アンモニア"
+        },
+        "feedback": {
+          "en": "Household ammonia has a pH of 11-12, which is basic.",
+          "zh": "家用氨水的 pH 值为 11-12，是碱性的。",
+          "es": "El amoníaco doméstico tiene un pH de 11-12, lo cual es básico.",
+          "fr": "L'ammoniaque domestique a un pH de 11-12, ce qui est basique.",
+          "de": "Haushaltsammoniak hat einen pH-Wert von 11-12, was basisch ist.",
+          "ja": "家庭用アンモニアのpHは11-12で、塩基性です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 3.11 shows that gastric juice has a pH of about 2, which falls within the acidic range (pH less than 7).",
+      "zh": "图 3.11 显示胃液的 pH 值约为 2，这属于酸性范围（pH 小于 7）。",
+      "es": "La Figura 3.11 muestra que el jugo gástrico tiene un pH de aproximadamente 2, lo cual se encuentra dentro del rango ácido (pH inferior a 7).",
+      "fr": "La Figure 3.11 montre que le suc gastrique a un pH d'environ 2, ce qui se situe dans la plage acide (pH inférieur à 7).",
+      "de": "Abbildung 3.11 zeigt, dass Magensaft einen pH-Wert von etwa 2 hat, was im sauren Bereich liegt (pH unter 7).",
+      "ja": "図3.11によると、胃液のpHは約2であり、これは酸性の範囲（pH 7未満）に属します。"
+    }
+  },
+  {
+    "page_number": 101,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text states that a solution of pH 3 is not twice as acidic as a solution of pH 6, but 1,000 times more acidic. What mathematical feature of the pH scale accounts for this significant difference in acidity?",
+      "zh": "文本指出，pH 3 的溶液的酸性不是 pH 6 溶液的两倍，而是强 1,000 倍。pH 标尺的哪种数学特征解释了酸性上的这种显著差异？",
+      "es": "El texto afirma que una solución con pH 3 no es el doble de ácida que una solución con pH 6, sino 1,000 veces más ácida. ¿Qué característica matemática de la escala de pH explica esta significativa diferencia en acidez?",
+      "fr": "Le texte indique qu'une solution de pH 3 n'est pas deux fois plus acide qu'une solution de pH 6, mais 1 000 fois plus acide. Quelle caractéristique mathématique de l'échelle de pH explique cette différence significative d'acidité ?",
+      "de": "Der Text besagt, dass eine Lösung mit pH 3 nicht doppelt so sauer ist wie eine Lösung mit pH 6, sondern 1.000-mal saurer. Welches mathematische Merkmal der pH-Skala erklärt diesen signifikanten Unterschied in der Säure?",
+      "ja": "本文では、pH 3の溶液はpH 6の溶液の2倍ではなく、1,000倍酸性であると述べられています。pHスケールのどのような数学的特性が、この酸性度の大きな違いを説明していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "pH values are inversely proportional to [H+].",
+          "zh": "pH 值与 [H+] 成反比。",
+          "es": "Los valores de pH son inversamente proporcionales a [H+].",
+          "fr": "Les valeurs de pH sont inversement proportionnelles à [H+].",
+          "de": "pH-Werte sind umgekehrt proportional zu [H+].",
+          "ja": "pH値は[H+]に反比例する。"
+        },
+        "feedback": {
+          "en": "While true that a lower pH corresponds to a higher [H+], this statement doesn't fully explain the tenfold logarithmic relationship between pH units.",
+          "zh": "虽然较低的 pH 值对应于较高的 [H+] 是正确的，但这个表述并不能完全解释 pH 单位之间的十倍对数关系。",
+          "es": "Aunque es cierto que un pH más bajo corresponde a una mayor [H+], esta afirmación no explica completamente la relación logarítmica de diez veces entre las unidades de pH.",
+          "fr": "Bien qu'il soit vrai qu'un pH plus bas corresponde à une [H+] plus élevée, cette affirmation n'explique pas entièrement la relation logarithmique décuple entre les unités de pH.",
+          "de": "Obwohl es stimmt, dass ein niedrigerer pH-Wert einer höheren [H+] entspricht, erklärt diese Aussage nicht vollständig die zehnfache logarithmische Beziehung zwischen pH-Einheiten.",
+          "ja": "pH値が低いほど[H+]が高いのは事実ですが、この説明だけではpH単位間の10倍の対数関係を完全に説明できません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Each pH unit represents a tenfold difference in H+ concentration.",
+          "zh": "每个 pH 单位代表氢离子浓度相差十倍。",
+          "es": "Cada unidad de pH representa una diferencia de diez veces en la concentración de H+.",
+          "fr": "Chaque unité de pH représente une différence de dix fois dans la concentration en H+.",
+          "de": "Jede pH-Einheit stellt eine zehnfache Differenz in der H+-Konzentration dar.",
+          "ja": "各pH単位はH+濃度において10倍の違いを表す。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "pH values are directly proportional to [OH-].",
+          "zh": "pH 值与 [OH-] 成正比。",
+          "es": "Los valores de pH son directamente proporcionales a [OH-].",
+          "fr": "Les valeurs de pH sont directement proportionnelles à [OH-].",
+          "de": "pH-Werte sind direkt proportional zu [OH-].",
+          "ja": "pH値は[OH-]に正比例する。"
+        },
+        "feedback": {
+          "en": "pH is inversely related to [H+] and inversely related to [OH-], not directly proportional to [OH-].",
+          "zh": "pH 值与 [H+] 成反比，与 [OH-] 也成反比，而不是与 [OH-] 成正比。",
+          "es": "El pH está inversamente relacionado con [H+] e inversamente relacionado con [OH-], no directamente proporcional a [OH-].",
+          "fr": "Le pH est inversement lié à [H+] et inversement lié à [OH-], et non directement proportionnel à [OH-].",
+          "de": "Der pH-Wert ist umgekehrt proportional zu [H+] und umgekehrt proportional zu [OH-], nicht direkt proportional zu [OH-].",
+          "ja": "pHは[H+]に反比例し、[OH-]にも反比例します。直接比例ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The pH scale only applies to aqueous solutions.",
+          "zh": "pH 标尺仅适用于水溶液。",
+          "es": "La escala de pH solo se aplica a soluciones acuosas.",
+          "fr": "L'échelle de pH ne s'applique qu'aux solutions aqueuses.",
+          "de": "Die pH-Skala gilt nur für wässrige Lösungen.",
+          "ja": "pHスケールは水溶液にのみ適用される。"
+        },
+        "feedback": {
+          "en": "While this statement is true according to the text, it does not explain the logarithmic relationship between pH units and acidity difference.",
+          "zh": "根据文本，虽然这个表述是正确的，但它并没有解释 pH 单位与酸度差异之间的对数关系。",
+          "es": "Aunque esta afirmación es cierta según el texto, no explica la relación logarítmica entre las unidades de pH y la diferencia de acidez.",
+          "fr": "Bien que cette affirmation soit vraie selon le texte, elle n'explique pas la relation logarithmique entre les unités de pH et la différence d'acidité.",
+          "de": "Obwohl diese Aussage laut Text zutrifft, erklärt sie nicht die logarithmische Beziehung zwischen pH-Einheiten und Säureunterschieden.",
+          "ja": "この記述は本文によると正しいですが、pH単位と酸性度の差の間の対数関係を説明するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The pH scale is logarithmic. A one-unit change in pH represents a tenfold change in the hydrogen ion concentration. Therefore, a solution with pH 3 has 10^(6-3) = 10^3 = 1,000 times higher [H+] than a solution with pH 6, making it 1,000 times more acidic.",
+      "zh": "pH 标尺是对数式的。pH 值每变化一个单位，氢离子浓度就变化十倍。因此，pH 3 的溶液的 [H+] 比 pH 6 的溶液高 10^(6-3) = 10^3 = 1,000 倍，使其酸性强 1,000 倍。",
+      "es": "La escala de pH es logarítmica. Un cambio de una unidad en el pH representa un cambio de diez veces en la concentración de iones de hidrógeno. Por lo tanto, una solución con pH 3 tiene 10^(6-3) = 10^3 = 1,000 veces más [H+] que una solución con pH 6, lo que la hace 1,000 veces más ácida.",
+      "fr": "L'échelle de pH est logarithmique. Un changement d'une unité de pH représente un changement de dix fois de la concentration en ions hydrogène. Par conséquent, une solution avec un pH de 3 a 10^(6-3) = 10^3 = 1 000 fois plus de [H+] qu'une solution avec un pH de 6, ce qui la rend 1 000 fois plus acide.",
+      "de": "Die pH-Skala ist logarithmisch. Eine Änderung von einer pH-Einheit bedeutet eine zehnfache Änderung der Wasserstoffionenkonzentration. Daher hat eine Lösung mit pH 3 eine 10^(6-3) = 10^3 = 1.000-fach höhere [H+] als eine Lösung mit pH 6, was sie 1.000-mal saurer macht.",
+      "ja": "pHスケールは対数です。pHが1単位変化すると、水素イオン濃度が10倍変化します。したがって、pH 3の溶液はpH 6の溶液よりも10^(6-3) = 10^3 = 1,000倍高い[H+]を持ち、1,000倍酸性になります。"
+    }
+  }
+]

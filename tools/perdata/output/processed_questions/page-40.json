@@ -1,0 +1,380 @@
+[
+  {
+    "page_number": 40,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, what are the primary components that define a virus?",
+      "zh": "根据文本，定义病毒的主要组成部分是什么？",
+      "es": "Según el texto, ¿cuáles son los componentes principales que definen un virus?",
+      "fr": "Selon le texte, quels sont les composants principaux qui définissent un virus ?",
+      "de": "Laut dem Text, was sind die Hauptbestandteile, die ein Virus definieren?",
+      "ja": "テキストによると、ウイルスを定義する主要な構成要素は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A nucleic acid and a protein coat.",
+          "zh": "核酸和蛋白质外壳。",
+          "es": "Un ácido nucleico y una cubierta proteica.",
+          "fr": "Un acide nucléique et une capside protéique.",
+          "de": "Eine Nukleinsäure und eine Proteinhülle.",
+          "ja": "核酸とタンパク質外被。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A cell wall and genetic material.",
+          "zh": "细胞壁和遗传物质。",
+          "es": "Una pared celular y material genético.",
+          "fr": "Une paroi cellulaire et du matériel génétique.",
+          "de": "Eine Zellwand und genetisches Material.",
+          "ja": "細胞壁と遺伝物質。"
+        },
+        "feedback": {
+          "en": "A cell wall is typical for bacteria or plants, not viruses.",
+          "zh": "细胞壁是细菌或植物的典型特征，而非病毒。",
+          "es": "Una pared celular es típica de bacterias o plantas, no de virus.",
+          "fr": "Une paroi cellulaire est typique des bactéries ou des plantes, pas des virus.",
+          "de": "Eine Zellwand ist typisch für Bakterien oder Pflanzen, nicht für Viren.",
+          "ja": "細胞壁は細菌や植物に典型的であり、ウイルスにはありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "An outer membrane and cytoplasm.",
+          "zh": "外膜和细胞质。",
+          "es": "Una membrana externa y citoplasma.",
+          "fr": "Une membrane externe et du cytoplasme.",
+          "de": "Eine äußere Membran und Zytoplasma.",
+          "ja": "外膜と細胞質。"
+        },
+        "feedback": {
+          "en": "Cytoplasm is a feature of cells, not viruses.",
+          "zh": "细胞质是细胞的特征，而非病毒。",
+          "es": "El citoplasma es una característica de las células, no de los virus.",
+          "fr": "Le cytoplasme est une caractéristique des cellules, pas des virus.",
+          "de": "Zytoplasma ist ein Merkmal von Zellen, nicht von Viren.",
+          "ja": "細胞質は細胞の特徴であり、ウイルスではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Ribosomes and a nucleus.",
+          "zh": "核糖体和细胞核。",
+          "es": "Ribosomas y un núcleo.",
+          "fr": "Des ribosomes et un noyau.",
+          "de": "Ribosomen und ein Zellkern.",
+          "ja": "リボソームと核。"
+        },
+        "feedback": {
+          "en": "Ribosomes and a nucleus are components of cells, not viruses.",
+          "zh": "核糖体和细胞核是细胞的组成部分，而非病毒。",
+          "es": "Los ribosomas y un núcleo son componentes de las células, no de los virus.",
+          "fr": "Les ribosomes et un noyau sont des composants des cellules, pas des virus.",
+          "de": "Ribosomen und ein Zellkern sind Bestandteile von Zellen, nicht von Viren.",
+          "ja": "リボソームと核は細胞の構成要素であり、ウイルスではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Concept 19.1 states that 'A virus consists of a nucleic acid surrounded by a protein coat.'",
+      "zh": "概念19.1指出“病毒由核酸和蛋白质外壳组成”。",
+      "es": "El Concepto 19.1 establece que 'Un virus consiste en un ácido nucleico rodeado por una cubierta proteica.'",
+      "fr": "Le Concept 19.1 stipule qu'« Un virus se compose d'un acide nucléique entouré d'une capside protéique ».",
+      "de": "Konzept 19.1 besagt: 'Ein Virus besteht aus einer Nukleinsäure, die von einer Proteinhülle umgeben ist.'",
+      "ja": "概念19.1には、「ウイルスは核酸とタンパク質外被から構成される」と述べられています。"
+    }
+  },
+  {
+    "page_number": 40,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the information provided, what distinguishes prions as infectious agents?",
+      "zh": "根据提供的信息，什么区分了朊病毒作为传染性因子？",
+      "es": "Según la información proporcionada, ¿qué distingue a los priones como agentes infecciosos?",
+      "fr": "Selon les informations fournies, qu'est-ce qui distingue les prions en tant qu'agents infectieux ?",
+      "de": "Basierend auf den bereitgestellten Informationen, was zeichnet Prionen als infektiöse Agenzien aus?",
+      "ja": "提供された情報に基づくと、プリオンを感染性因子として区別するものは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They are composed primarily of nucleic acids.",
+          "zh": "它们主要由核酸组成。",
+          "es": "Están compuestos principalmente de ácidos nucleicos.",
+          "fr": "Ils sont principalement composés d'acides nucléiques.",
+          "de": "Sie bestehen hauptsächlich aus Nukleinsäuren.",
+          "ja": "それらは主に核酸で構成されています。"
+        },
+        "feedback": {
+          "en": "This describes viruses, not prions, which are proteins.",
+          "zh": "这描述的是病毒，而非蛋白质组成的朊病毒。",
+          "es": "Esto describe a los virus, no a los priones, que son proteínas.",
+          "fr": "Cela décrit les virus, et non les prions, qui sont des protéines.",
+          "de": "Dies beschreibt Viren, nicht Prionen, die Proteine sind.",
+          "ja": "これはウイルスを説明しており、プリオンはタンパク質です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They are proteins that act as infectious agents.",
+          "zh": "它们是作为传染性因子发挥作用的蛋白质。",
+          "es": "Son proteínas que actúan como agentes infecciosos.",
+          "fr": "Ce sont des protéines qui agissent comme agents infectieux.",
+          "de": "Es sind Proteine, die als infektiöse Agenzien wirken.",
+          "ja": "それらは感染性因子として機能するタンパク質です。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They are multicellular organisms that cause disease.",
+          "zh": "它们是引起疾病的多细胞生物。",
+          "es": "Son organismos multicelulares que causan enfermedades.",
+          "fr": "Ce sont des organismes multicellulaires qui causent des maladies.",
+          "de": "Es sind mehrzellige Organismen, die Krankheiten verursachen.",
+          "ja": "それらは病気を引き起こす多細胞生物です。"
+        },
+        "feedback": {
+          "en": "Prions are not organisms.",
+          "zh": "朊病毒不是生物体。",
+          "es": "Los priones no son organismos.",
+          "fr": "Les prions ne sont pas des organismes.",
+          "de": "Prionen sind keine Organismen.",
+          "ja": "プリオンは生物ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They are bacteria that lack a cell wall.",
+          "zh": "它们是缺乏细胞壁的细菌。",
+          "es": "Son bacterias que carecen de pared celular.",
+          "fr": "Ce sont des bactéries dépourvues de paroi cellulaire.",
+          "de": "Es sind Bakterien, denen eine Zellwand fehlt.",
+          "ja": "それらは細胞壁を欠く細菌です。"
+        },
+        "feedback": {
+          "en": "Prions are not bacteria.",
+          "zh": "朊病毒不是细菌。",
+          "es": "Los priones no son bacterias.",
+          "fr": "Les prions ne sont pas des bactéries.",
+          "de": "Prionen sind keine Bakterien.",
+          "ja": "プリオンは細菌ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Concept 19.3 explicitly mentions 'Prions: Proteins as Infectious Agents'.",
+      "zh": "概念19.3明确提及“朊病毒：作为传染性因子的蛋白质”。",
+      "es": "El Concepto 19.3 menciona explícitamente 'Priones: Proteínas como agentes infecciosos'.",
+      "fr": "Le Concept 19.3 mentionne explicitement « Prions : Protéines en tant qu'agents infectieux ».",
+      "de": "Konzept 19.3 erwähnt explizit 'Prionen: Proteine als infektiöse Agenzien'.",
+      "ja": "概念19.3では、「プリオン：感染性因子としてのタンパク質」が明確に言及されています。"
+    }
+  },
+  {
+    "page_number": 40,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the provided table of contents, which of the following are mentioned as practical applications of DNA-based biotechnology? (Select all that apply)",
+      "zh": "根据提供的目录，以下哪些被提及为基于DNA的生物技术的实际应用？（选择所有适用项）",
+      "es": "Según la tabla de contenidos proporcionada, ¿cuáles de las siguientes se mencionan como aplicaciones prácticas de la biotecnología basada en ADN? (Seleccione todas las que correspondan)",
+      "fr": "Selon la table des matières fournie, lesquelles des applications suivantes sont mentionnées comme des applications pratiques de la biotechnologie basée sur l'ADN ? (Sélectionnez toutes les options applicables)",
+      "de": "Laut dem bereitgestellten Inhaltsverzeichnis, welche der folgenden werden als praktische Anwendungen der DNA-basierten Biotechnologie erwähnt? (Wählen Sie alle zutreffenden aus)",
+      "ja": "提供された目次によると、DNAベースのバイオテクノロジーの実用的な応用として、次のうちどれが挙げられていますか？（該当するものをすべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Medical applications.",
+          "zh": "医疗应用。",
+          "es": "Aplicaciones médicas.",
+          "fr": "Applications médicales.",
+          "de": "Medizinische Anwendungen.",
+          "ja": "医療応用。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Forensic evidence and genetic profiles.",
+          "zh": "法医证据和基因图谱。",
+          "es": "Evidencia forense y perfiles genéticos.",
+          "fr": "Preuves médico-légales et profils génétiques.",
+          "de": "Forensische Beweismittel und genetische Profile.",
+          "ja": "法医学的証拠と遺伝子プロファイル。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Environmental cleanup.",
+          "zh": "环境清理。",
+          "es": "Limpieza ambiental.",
+          "fr": "Nettoyage environnemental.",
+          "de": "Umweltreinigung.",
+          "ja": "環境浄化。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Agricultural applications.",
+          "zh": "农业应用。",
+          "es": "Aplicaciones agrícolas.",
+          "fr": "Applications agricoles.",
+          "de": "Landwirtschaftliche Anwendungen.",
+          "ja": "農業応用。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Direct manipulation of planetary orbits.",
+          "zh": "直接操控行星轨道。",
+          "es": "Manipulación directa de órbitas planetarias.",
+          "fr": "Manipulation directe des orbites planétaires.",
+          "de": "Direkte Manipulation von Planetenbahnen.",
+          "ja": "惑星軌道の直接操作。"
+        },
+        "feedback": {
+          "en": "This is not related to DNA-based biotechnology or mentioned in the text.",
+          "zh": "这与基于DNA的生物技术无关，也未在文本中提及。",
+          "es": "Esto no está relacionado con la biotecnología basada en ADN ni se menciona en el texto.",
+          "fr": "Cela n'est pas lié à la biotechnologie basée sur l'ADN et n'est pas mentionné dans le texte.",
+          "de": "Dies hat keinen Bezug zur DNA-basierten Biotechnologie und wird im Text nicht erwähnt.",
+          "ja": "これはDNAベースのバイオテクノロジーとは関係なく、テキストにも記載されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": {
+      "en": "Concept 20.4 outlines 'The practical applications of DNA-based biotechnology affect our lives in many ways,' followed by subtopics including Medical Applications, Forensic Evidence and Genetic Profiles, Environmental Cleanup, and Agricultural Applications.",
+      "zh": "概念20.4概述了“基于DNA的生物技术的实际应用在许多方面影响着我们的生活”，其后的子主题包括医疗应用、法医证据和基因图谱、环境清理以及农业应用。",
+      "es": "El Concepto 20.4 describe 'Las aplicaciones prácticas de la biotecnología basada en ADN afectan nuestras vidas de muchas maneras', seguido de subtemas que incluyen Aplicaciones Médicas, Evidencia Forense y Perfiles Genéticos, Limpieza Ambiental y Aplicaciones Agrícolas.",
+      "fr": "Le Concept 20.4 décrit « Les applications pratiques de la biotechnologie basée sur l'ADN affectent nos vies de nombreuses manières », suivi de sous-sujets tels que les applications médicales, les preuves médico-légales et les profils génétiques, le nettoyage environnemental et les applications agricoles.",
+      "de": "Konzept 20.4 beschreibt 'Die praktischen Anwendungen der DNA-basierten Biotechnologie beeinflussen unser Leben in vielerlei Hinsicht', gefolgt von Unterthemen wie medizinischen Anwendungen, forensischen Beweismitteln und genetischen Profilen, Umweltreinigung und landwirtschaftlichen Anwendungen.",
+      "ja": "概念20.4は「DNAベースのバイオテクノロジーの実用的な応用は、私たちの生活に多大な影響を与える」と概説しており、医療応用、法医学的証拠と遺伝子プロファイル、環境浄化、農業応用などのサブトピックが続いています。"
+    }
+  },
+  {
+    "page_number": 40,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the text, which of the following processes contribute to genome evolution? (Select all that apply)",
+      "zh": "根据文本，以下哪些过程有助于基因组进化？（选择所有适用项）",
+      "es": "Según el texto, ¿cuáles de los siguientes procesos contribuyen a la evolución del genoma? (Seleccione todas las que correspondan)",
+      "fr": "Selon le texte, lesquels des processus suivants contribuent à l'évolution du génome ? (Sélectionnez toutes les options applicables)",
+      "de": "Basierend auf dem Text, welche der folgenden Prozesse tragen zur Genomentwicklung bei? (Wählen Sie alle zutreffenden aus)",
+      "ja": "テキストによると、次のどのプロセスがゲノム進化に貢献していますか？（該当するものをすべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Duplication of entire chromosome sets.",
+          "zh": "整个染色体组的复制。",
+          "es": "Duplicación de juegos completos de cromosomas.",
+          "fr": "Duplication de jeux entiers de chromosomes.",
+          "de": "Duplikation ganzer Chromosomensätze.",
+          "ja": "全染色体セットの重複。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Alterations of chromosome structure.",
+          "zh": "染色体结构的改变。",
+          "es": "Alteraciones de la estructura cromosómica.",
+          "fr": "Altérations de la structure chromosomique.",
+          "de": "Veränderungen der Chromosomenstruktur.",
+          "ja": "染色体構造の変化。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Rearrangements of parts of genes, including exon duplication and exon shuffling.",
+          "zh": "基因部分的重排，包括外显子重复和外显子改组。",
+          "es": "Reorganizaciones de partes de genes, incluyendo la duplicación de exones y el barajado de exones.",
+          "fr": "Réarrangements de parties de gènes, y compris la duplication d'exons et le brassage d'exons.",
+          "de": "Umlagerungen von Genabschnitten, einschließlich Exon-Duplikation und Exon-Shuffling.",
+          "ja": "エキソンの重複やエキソンシャッフリングを含む、遺伝子部分の再配置。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Contributions from transposable elements.",
+          "zh": "转座因子（跳跃基因）的贡献。",
+          "es": "Contribuciones de elementos transponibles.",
+          "fr": "Contributions des éléments transposables.",
+          "de": "Beiträge von transponierbaren Elementen.",
+          "ja": "転移因子の寄与。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Photosynthesis.",
+          "zh": "光合作用。",
+          "es": "Fotosíntesis.",
+          "fr": "Photosynthèse.",
+          "de": "Photosynthese.",
+          "ja": "光合成。"
+        },
+        "feedback": {
+          "en": "Photosynthesis is a metabolic process, not a mechanism of genome evolution.",
+          "zh": "光合作用是一种代谢过程，而非基因组进化的机制。",
+          "es": "La fotosíntesis es un proceso metabólico, no un mecanismo de evolución del genoma.",
+          "fr": "La photosynthèse est un processus métabolique, et non un mécanisme d'évolution du génome.",
+          "de": "Photosynthese ist ein Stoffwechselprozess, kein Mechanismus der Genomentwicklung.",
+          "ja": "光合成は代謝プロセスであり、ゲノム進化のメカニズムではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": {
+      "en": "Concept 21.5 is titled 'Duplication, rearrangement, and mutation of DNA contribute to genome evolution,' and its subtopics list several relevant processes including duplication of chromosome sets, alterations of chromosome structure, rearrangements of parts of genes (like exon duplication and shuffling), and how transposable elements contribute.",
+      "zh": "概念21.5的标题是“DNA的复制、重排和突变有助于基因组进化”，其子主题列出了几个相关的过程，包括染色体组的复制、染色体结构的改变、基因部分的重排（如外显子复制和改组），以及转座因子如何发挥作用。",
+      "es": "El Concepto 21.5 se titula 'La duplicación, reorganización y mutación del ADN contribuyen a la evolución del genoma', y sus subtemas enumeran varios procesos relevantes, incluida la duplicación de juegos de cromosomas, las alteraciones de la estructura cromosómica, las reorganizaciones de partes de genes (como la duplicación y el barajado de exones) y cómo contribuyen los elementos transponibles.",
+      "fr": "Le Concept 21.5 est intitulé « La duplication, le réarrangement et la mutation de l'ADN contribuent à l'évolution du génome », et ses sous-sujets énumèrent plusieurs processus pertinents, y compris la duplication de jeux de chromosomes, les altérations de la structure chromosomique, les réarrangements de parties de gènes (tels que la duplication et le brassage d'exons), et la façon dont les éléments transposables y contribuent.",
+      "de": "Konzept 21.5 trägt den Titel 'Duplikation, Umlagerung und Mutation der DNA tragen zur Genomentwicklung bei', und seine Unterthemen listen mehrere relevante Prozesse auf, darunter die Duplikation von Chromosomensätzen, Veränderungen der Chromosomenstruktur, Umlagerungen von Genabschnitten (wie Exon-Duplikation und -Shuffling) und wie transponierbare Elemente dazu beitragen.",
+      "ja": "概念21.5は「DNAの重複、再配置、変異がゲノム進化に貢献する」と題されており、そのサブトピックには、染色体セットの重複、染色体構造の変化、遺伝子部分の再配置（エキソン重複とシャッフリングなど）、および転移因子がどのように貢献するかが含まれています。"
+    }
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "page_number": 988,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Nitroglycerin is sometimes prescribed for heart disease patients to relieve chest pain caused by the narrowing of cardiac arteries. Based on the text, what is the primary mechanism by which nitroglycerin achieves its therapeutic effect in the body?",
+      "zh": "硝酸甘油有时被处方给心脏病患者，以缓解由冠状动脉狭窄引起的胸痛。根据文本，硝酸甘油在体内实现其治疗效果的主要机制是什么？",
+      "es": "La nitroglicerina a veces se prescribe a pacientes con enfermedades cardíacas para aliviar el dolor en el pecho causado por el estrechamiento de las arterias coronarias. Según el texto, ¿cuál es el mecanismo principal por el cual la nitroglicerina logra su efecto terapéutico en el cuerpo?",
+      "fr": "La nitroglycérine est parfois prescrite aux patients atteints de maladies cardiaques pour soulager les douleurs thoraciques causées par le rétrécissement des artères coronaires. Selon le texte, quel est le principal mécanisme par lequel la nitroglycérine exerce son effet thérapeutique dans le corps ?",
+      "de": "Nitroglyzerin wird manchmal Herzpatienten verschrieben, um Brustschmerzen zu lindern, die durch die Verengung der Herzkranzgefäße verursacht werden. Basierend auf dem Text, was ist der primäre Mechanismus, durch den Nitroglyzerin seine therapeutische Wirkung im Körper erzielt?",
+      "ja": "ニトログリセリンは、心臓の動脈狭窄による胸痛を緩和するために心疾患患者に処方されることがあります。本文に基づくと、ニトログリセリンが体内で治療効果を発揮する主なメカニズムは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It increases the concentration of O2 in the blood.",
+          "zh": "它增加了血液中氧气的浓度。",
+          "es": "Aumenta la concentración de O2 en la sangre.",
+          "fr": "Elle augmente la concentration d'O2 dans le sang.",
+          "de": "Es erhöht die O2-Konzentration im Blut.",
+          "ja": "血液中の酸素濃度を増加させます。"
+        },
+        "feedback": {
+          "en": "The text does not mention nitroglycerin directly increasing O2 concentration. Its action is related to nitric oxide.",
+          "zh": "文本中没有提到硝酸甘油直接增加氧气浓度。其作用与一氧化氮有关。",
+          "es": "El texto no menciona que la nitroglicerina aumente directamente la concentración de O2. Su acción está relacionada con el óxido nítrico.",
+          "fr": "Le texte ne mentionne pas que la nitroglycérine augmente directement la concentration d'O2. Son action est liée à l'oxyde nitrique.",
+          "de": "Der Text erwähnt nicht, dass Nitroglyzerin die O2-Konzentration direkt erhöht. Seine Wirkung hängt mit Stickoxid zusammen.",
+          "ja": "本文ではニトログリセリンが直接酸素濃度を増加させるとは述べられていません。その作用は一酸化窒素に関連しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It promotes plaque formation in arteries, thereby strengthening them.",
+          "zh": "它促进动脉斑块形成，从而增强动脉。",
+          "es": "Promueve la formación de placa en las arterias, fortaleciéndolas.",
+          "fr": "Elle favorise la formation de plaque dans les artères, les renforçant ainsi.",
+          "de": "Es fördert die Plaquebildung in Arterien und stärkt diese dadurch.",
+          "ja": "動脈のプラーク形成を促進し、それによって動脈を強化します。"
+        },
+        "feedback": {
+          "en": "Plaque formation is associated with hypertension and leads to narrowing, which is the problem nitroglycerin aims to relieve, not promote.",
+          "zh": "斑块形成与高血压有关，并导致狭窄，这是硝酸甘油旨在缓解而非促进的问题。",
+          "es": "La formación de placa está asociada con la hipertensión y conduce al estrechamiento, que es el problema que la nitroglicerina busca aliviar, no promover.",
+          "fr": "La formation de plaque est associée à l'hypertension et entraîne un rétrécissement, ce que la nitroglycérine vise à soulager, et non à promouvoir.",
+          "de": "Plaquebildung ist mit Bluthochdruck verbunden und führt zu Verengungen, die durch Nitroglyzerin gelindert, nicht gefördert werden sollen.",
+          "ja": "プラーク形成は高血圧と関連しており、狭窄を引き起こします。これはニトログリセリンが緩和を目指す問題であり、促進するものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is converted to nitric oxide, which causes the cardiac arteries to widen.",
+          "zh": "它转化为一氧化氮，从而使心脏动脉扩张。",
+          "es": "Se convierte en óxido nítrico, lo que provoca la dilatación de las arterias coronarias.",
+          "fr": "Elle est convertie en oxyde nitrique, ce qui provoque l'élargissement des artères coronaires.",
+          "de": "Es wird in Stickoxid umgewandelt, was eine Erweiterung der Herzkranzgefäße bewirkt.",
+          "ja": "一酸化窒素に変換され、心臓の動脈を拡張させます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It inhibits the inflammatory response, similar to aspirin.",
+          "zh": "它抑制炎症反应，类似于阿司匹林。",
+          "es": "Inhibe la respuesta inflamatoria, similar a la aspirina.",
+          "fr": "Elle inhibe la réponse inflammatoire, similaire à l'aspirine.",
+          "de": "Es hemmt die Entzündungsreaktion, ähnlich wie Aspirin.",
+          "ja": "アスピリンと同様に、炎症反応を抑制します。"
+        },
+        "feedback": {
+          "en": "Aspirin is mentioned as inhibiting inflammatory response, not nitroglycerin.",
+          "zh": "文本中提到阿司匹林抑制炎症反应，而不是硝酸甘油。",
+          "es": "Se menciona que la aspirina inhibe la respuesta inflamatoria, no la nitroglicerina.",
+          "fr": "L'aspirine est mentionnée comme inhibant la réponse inflammatoire, pas la nitroglycérine.",
+          "de": "Aspirin wird als Entzündungshemmer erwähnt, nicht Nitroglyzerin.",
+          "ja": "炎症反応を抑制するのはアスピリンであり、ニトログリセリンではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that nitroglycerin is converted to nitric oxide, and implies that this action relieves chest pain caused by narrowing arteries, which is achieved through vasodilation (widening of blood vessels) by nitric oxide.",
+      "zh": "文本指出硝酸甘油会转化为一氧化氮，并暗示这种作用可以缓解动脉狭窄引起的胸痛，这是通过一氧化氮引起的血管舒张（血管扩张）来实现的。",
+      "es": "El texto indica que la nitroglicerina se convierte en óxido nítrico, y esto implica que esta acción alivia el dolor en el pecho causado por el estrechamiento de las arterias, lo cual se logra mediante la vasodilatación (ensanchamiento de los vasos sanguíneos) por el óxido nítrico.",
+      "fr": "Le texte indique que la nitroglycérine est convertie en oxyde nitrique, et cela implique que cette action soulage les douleurs thoraciques causées par le rétrécissement des artères, ce qui est réalisé par la vasodilatation (élargissement des vaisseaux sanguins) induite par l'oxyde nitrique.",
+      "de": "Der Text besagt, dass Nitroglyzerin in Stickoxid umgewandelt wird, und impliziert, dass diese Wirkung Brustschmerzen, die durch verengte Arterien verursacht werden, lindert, was durch Vasodilatation (Erweiterung der Blutgefäße) durch Stickoxid erreicht wird.",
+      "ja": "本文によると、ニトログリセリンは一酸化窒素に変換され、これにより動脈狭窄による胸痛が緩和されるとされています。これは一酸化窒素による血管拡張によって達成されます。"
+    }
+  },
+  {
+    "page_number": 988,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on Table 42.1 'Comparing Air and Water as Respiratory Media' and the accompanying text, which of the following statements about respiratory media is/are TRUE? (Select all that apply)",
+      "zh": "根据表42.1“比较空气和水作为呼吸介质”以及随附的文本，以下关于呼吸介质的陈述哪些是正确的？(选择所有适用项)",
+      "es": "Según la Tabla 42.1 'Comparación del aire y el agua como medios respiratorios' y el texto adjunto, ¿cuáles de las siguientes afirmaciones sobre los medios respiratorios son VERDADERAS? (Seleccione todas las que correspondan)",
+      "fr": "D'après le tableau 42.1 'Comparaison de l'air et de l'eau comme milieux respiratoires' et le texte d'accompagnement, laquelle (ou lesquelles) des affirmations suivantes concernant les milieux respiratoires est (sont) VRAIE(S) ? (Sélectionnez toutes les options pertinentes)",
+      "de": "Basierend auf Tabelle 42.1 „Vergleich von Luft und Wasser als Atemmedien“ und dem begleitenden Text, welche der folgenden Aussagen zu Atemmedien ist/sind WAHR? (Wählen Sie alle zutreffenden aus)",
+      "ja": "表42.1「呼吸媒体としての空気と水の比較」および関連する本文に基づき、呼吸媒体に関する以下の記述のうち、正しいものはどれですか？（すべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Water is significantly denser and more viscous than air, making it harder for aquatic animals to move and force through respiratory surfaces.",
+          "zh": "水比空气密度大得多，粘度也大得多，这使得水生动物更难移动并通过呼吸表面。",
+          "es": "El agua es significativamente más densa y viscosa que el aire, lo que dificulta que los animales acuáticos se muevan y la impulsen a través de las superficies respiratorias.",
+          "fr": "L'eau est significativement plus dense et plus visqueuse que l'air, ce qui rend plus difficile pour les animaux aquatiques de se déplacer et de la forcer à travers les surfaces respiratoires.",
+          "de": "Wasser ist wesentlich dichter und viskoser als Luft, was es für Wassertiere schwieriger macht, sich zu bewegen und es durch Atemoberflächen zu pressen.",
+          "ja": "水は空気よりも密度が高く、粘度も高いため、水生動物が呼吸表面を介して移動したり強制的に通過させたりするのがより困難です。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "At sea level, the partial pressure of O2 is the same in air and in water when equilibrium is reached, despite differences in O2 concentration.",
+          "zh": "在海平面，当达到平衡时，空气和水中的氧气分压相同，尽管氧气浓度存在差异。",
+          "es": "A nivel del mar, la presión parcial de O2 es la misma en el aire y en el agua cuando se alcanza el equilibrio, a pesar de las diferencias en la concentración de O2.",
+          "fr": "Au niveau de la mer, la pression partielle d'O2 est la même dans l'air et dans l'eau lorsque l'équilibre est atteint, malgré les différences de concentration d'O2.",
+          "de": "Auf Meereshöhe ist der Sauerstoffpartialdruck in Luft und Wasser gleich, wenn das Gleichgewicht erreicht ist, trotz der Unterschiede in der O2-Konzentration.",
+          "ja": "海面では、平衡に達すると、O2濃度の違いにもかかわらず、空気中と水中のO2分圧は同じになります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Air has a much lower O2 concentration than water, requiring animals that breathe air to be highly efficient in O2 extraction.",
+          "zh": "空气中的氧气浓度远低于水，因此呼吸空气的动物需要高效地提取氧气。",
+          "es": "El aire tiene una concentración de O2 mucho más baja que el agua, lo que requiere que los animales que respiran aire sean altamente eficientes en la extracción de O2.",
+          "fr": "L'air a une concentration d'O2 beaucoup plus faible que l'eau, ce qui exige des animaux respirant l'air une grande efficacité dans l'extraction de l'O2.",
+          "de": "Luft hat eine viel geringere O2-Konzentration als Wasser, was von luftatmenden Tieren eine hohe Effizienz bei der O2-Extraktion erfordert.",
+          "ja": "空気中のO2濃度は水よりもはるかに低いため、空気を呼吸する動物はO2抽出において非常に効率的である必要があります。"
+        },
+        "feedback": {
+          "en": "The opposite is true: air has a much higher O2 concentration (210 ml/L) than water (7 ml/L).",
+          "zh": "事实恰恰相反：空气中的氧气浓度（210毫升/升）远高于水（7毫升/升）。",
+          "es": "Lo contrario es cierto: el aire tiene una concentración de O2 mucho mayor (210 ml/L) que el agua (7 ml/L).",
+          "fr": "C'est le contraire : l'air a une concentration d'O2 beaucoup plus élevée (210 ml/L) que l'eau (7 ml/L).",
+          "de": "Das Gegenteil ist der Fall: Luft hat eine viel höhere O2-Konzentration (210 ml/L) als Wasser (7 ml/L).",
+          "ja": "その逆です。空気のO2濃度（210 ml/L）は水（7 ml/L）よりもはるかに高いです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The amount of dissolved O2 in water increases with higher temperature and salinity.",
+          "zh": "水中溶解氧的量随温度和盐度的升高而增加。",
+          "es": "La cantidad de O2 disuelto en el agua aumenta con una mayor temperatura y salinidad.",
+          "fr": "La quantité d'O2 dissous dans l'eau augmente avec une température et une salinité plus élevées.",
+          "de": "Die Menge an gelöstem O2 im Wasser nimmt mit höherer Temperatur und Salzgehalt zu.",
+          "ja": "水中の溶存O2量は、温度と塩分の上昇とともに増加します。"
+        },
+        "feedback": {
+          "en": "The text states that 'the warmer and saltier the water is, the less dissolved O2 it can hold.'",
+          "zh": "文本指出“水越暖和越咸，它能溶解的氧气就越少”。",
+          "es": "El texto afirma que 'cuanto más caliente y salada esté el agua, menos O2 disuelto podrá contener'.",
+          "fr": "Le texte indique que 'plus l'eau est chaude et salée, moins elle peut contenir d'O2 dissous'.",
+          "de": "Der Text besagt, dass 'je wärmer und salziger das Wasser ist, desto weniger gelösten O2 kann es aufnehmen'.",
+          "ja": "本文には「水が暖かく塩分が多いほど、溶存O2が少なくなる」と記載されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B"
+    ],
+    "explanation": {
+      "en": "Statement A is correct: Table 42.1 shows water is much denser (1 kg/L vs 0.0013 kg/L) and more viscous (1 cP vs 0.02 cP) than air, and the text explains this makes gas exchange more demanding for aquatic animals. Statement B is correct: The text explicitly states that 'water exposed to air at sea level has a PO2 of 160 mm Hg, the same as in the atmosphere.' Statement C is incorrect as air has a much higher O2 concentration (210 ml/L) than water (7 ml/L). Statement D is incorrect as the text states that warmer and saltier water holds LESS dissolved O2.",
+      "zh": "陈述A正确：表42.1显示水比空气密度大得多（1千克/升对0.0013千克/升），粘度也大得多（1厘泊对0.02厘泊），文本解释这使得水生动物的气体交换更具挑战性。陈述B正确：文本明确指出“海平面暴露在空气中的水，其O2分压为160毫米汞柱，与大气中的相同”。陈述C不正确，因为空气中的氧气浓度（210毫升/升）远高于水（7毫升/升）。陈述D不正确，因为文本指出温暖和咸的水溶解的氧气更少。",
+      "es": "La afirmación A es correcta: la Tabla 42.1 muestra que el agua es mucho más densa (1 kg/L vs 0,0013 kg/L) y más viscosa (1 cP vs 0,02 cP) que el aire, y el texto explica que esto hace que el intercambio de gases sea más exigente para los animales acuáticos. La afirmación B es correcta: el texto establece explícitamente que 'el agua expuesta al aire a nivel del mar tiene una PO2 de 160 mm Hg, la misma que en la atmósfera'. La afirmación C es incorrecta, ya que el aire tiene una concentración de O2 mucho mayor (210 ml/L) que el agua (7 ml/L). La afirmación D es incorrecta, ya que el texto indica que el agua más cálida y salada contiene MENOS O2 disuelto.",
+      "fr": "L'affirmation A est correcte : le tableau 42.1 montre que l'eau est beaucoup plus dense (1 kg/L contre 0,0013 kg/L) et plus visqueuse (1 cP contre 0,02 cP) que l'air, et le texte explique que cela rend l'échange gazeux plus exigeant pour les animaux aquatiques. L'affirmation B est correcte : le texte stipule explicitement que 'l'eau exposée à l'air au niveau de la mer a une PO2 de 160 mm Hg, la même que dans l'atmosphère'. L'affirmation C est incorrecte car l'air a une concentration d'O2 beaucoup plus élevée (210 ml/L) que l'eau (7 ml/L). L'affirmation D est incorrecte car le texte indique que l'eau plus chaude et plus salée contient MOINS d'O2 dissous.",
+      "de": "Aussage A ist korrekt: Tabelle 42.1 zeigt, dass Wasser viel dichter (1 kg/L vs. 0,0013 kg/L) und viskoser (1 cP vs. 0,02 cP) als Luft ist, und der Text erklärt, dass dies den Gasaustausch für Wassertiere anspruchsvoller macht. Aussage B ist korrekt: Der Text besagt explizit, dass 'Wasser, das auf Meereshöhe der Luft ausgesetzt ist, einen PO2 von 160 mm Hg hat, derselbe wie in der Atmosphäre'. Aussage C ist falsch, da Luft eine viel höhere O2-Konzentration (210 ml/L) als Wasser (7 ml/L) hat. Aussage D ist falsch, da der Text besagt, dass wärmeres und salzigeres Wasser WENIGER gelösten O2 enthält.",
+      "ja": "記述Aは正しいです。表42.1は、水が空気よりもはるかに密度が高く（1 kg/L対0.0013 kg/L）、粘度も高い（1 cP対0.02 cP）ことを示しており、本文ではこれが水生動物にとってガス交換をより困難にすると説明されています。記述Bは正しいです。本文には「海面で空気にさらされた水は160 mm HgのPO2を持ち、大気中のそれと同じである」と明記されています。記述Cは誤りです。空気中のO2濃度（210 ml/L）は水（7 ml/L）よりもはるかに高いからです。記述Dは誤りです。本文には、水温が高く塩分濃度が高いほど溶存O2が少なくなる、と述べられているからです。"
+    }
+  },
+  {
+    "page_number": 988,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "At sea level, the total atmospheric pressure is 760 mm Hg. Given that oxygen (O2) makes up 21% of the atmosphere by volume, what is the partial pressure of O2 (PO2) at sea level, according to the text?",
+      "zh": "根据文本，在海平面，总大气压为760毫米汞柱。鉴于氧气（O2）占大气体积的21%，请问海平面氧气的局部压力（PO2）是多少？",
+      "es": "A nivel del mar, la presión atmosférica total es de 760 mm Hg. Según el texto, dado que el oxígeno (O2) constituye el 21% de la atmósfera en volumen, ¿cuál es la presión parcial de O2 (PO2) a nivel del mar?",
+      "fr": "Au niveau de la mer, la pression atmosphérique totale est de 760 mm Hg. Étant donné que l'oxygène (O2) représente 21 % du volume de l'atmosphère, quelle est la pression partielle d'O2 (PO2) au niveau de la mer, selon le texte ?",
+      "de": "Auf Meereshöhe beträgt der gesamte atmosphärische Druck 760 mm Hg. Da Sauerstoff (O2) 21 % des Atmosphärenvolumens ausmacht, wie hoch ist laut Text der Partialdruck von O2 (PO2) auf Meereshöhe?",
+      "ja": "本文によると、海面における全大気圧は760 mmHgです。酸素（O2）が体積で大気の21%を占める場合、海面におけるO2の分圧（PO2）はいくらですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "760 mm Hg",
+          "zh": "760 毫米汞柱",
+          "es": "760 mm Hg",
+          "fr": "760 mm Hg",
+          "de": "760 mm Hg",
+          "ja": "760 mmHg"
+        },
+        "feedback": {
+          "en": "760 mm Hg is the total atmospheric pressure, not the partial pressure of O2.",
+          "zh": "760毫米汞柱是总大气压，而不是氧气的分压。",
+          "es": "760 mm Hg es la presión atmosférica total, no la presión parcial de O2.",
+          "fr": "760 mm Hg est la pression atmosphérique totale, pas la pression partielle d'O2.",
+          "de": "760 mm Hg ist der gesamte atmosphärische Druck, nicht der Partialdruck von O2.",
+          "ja": "760 mmHgは全大気圧であり、O2の分圧ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "160 mm Hg",
+          "zh": "160 毫米汞柱",
+          "es": "160 mm Hg",
+          "fr": "160 mm Hg",
+          "de": "160 mm Hg",
+          "ja": "160 mmHg"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "0.29 mm Hg",
+          "zh": "0.29 毫米汞柱",
+          "es": "0.29 mm Hg",
+          "fr": "0.29 mm Hg",
+          "de": "0.29 mm Hg",
+          "ja": "0.29 mmHg"
+        },
+        "feedback": {
+          "en": "0.29 mm Hg is the partial pressure of CO2, which is much lower than O2.",
+          "zh": "0.29毫米汞柱是二氧化碳的分压，远低于氧气。",
+          "es": "0.29 mm Hg es la presión parcial de CO2, que es mucho más baja que la de O2.",
+          "fr": "0,29 mm Hg est la pression partielle de CO2, qui est beaucoup plus faible que celle d'O2.",
+          "de": "0,29 mm Hg ist der Partialdruck von CO2, der viel niedriger ist als der von O2.",
+          "ja": "0.29 mmHgはCO2の分圧であり、O2よりもはるかに低いです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "21 mm Hg",
+          "zh": "21 毫米汞柱",
+          "es": "21 mm Hg",
+          "fr": "21 mm Hg",
+          "de": "21 mm Hg",
+          "ja": "21 mmHg"
+        },
+        "feedback": {
+          "en": "21% is the percentage by volume, not the partial pressure in mm Hg.",
+          "zh": "21% 是按体积计算的百分比，而不是以毫米汞柱表示的分压。",
+          "es": "El 21% es el porcentaje por volumen, no la presión parcial en mm Hg.",
+          "fr": "21% est le pourcentage en volume, pas la pression partielle en mm Hg.",
+          "de": "21 % ist der Volumenprozentsatz, nicht der Partialdruck in mm Hg.",
+          "ja": "21%は体積比であり、mmHgでの分圧ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that 'the partial pressure of O2 is 0.21 × 760, or about 160 mm Hg.'",
+      "zh": "文本指出“氧气的局部压力为0.21 × 760，或约160毫米汞柱”。",
+      "es": "El texto establece que 'la presión parcial de O2 es 0,21 × 760, o aproximadamente 160 mm Hg'.",
+      "fr": "Le texte indique que 'la pression partielle d'O2 est de 0,21 × 760, soit environ 160 mm Hg'.",
+      "de": "Der Text besagt, dass 'der Partialdruck von O2 0,21 × 760, also etwa 160 mm Hg, beträgt'.",
+      "ja": "本文には「O2の分圧は0.21 × 760、つまり約160 mmHgである」と記載されています。"
+    }
+  },
+  {
+    "page_number": 988,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, which of the following is the usual definition of hypertension in adults?",
+      "zh": "根据文本，以下哪项是成人高血压的通常定义？",
+      "es": "Según el texto, ¿cuál de las siguientes es la definición habitual de hipertensión en adultos?",
+      "fr": "Selon le texte, laquelle des définitions suivantes est la définition habituelle de l'hypertension chez les adultes ?",
+      "de": "Laut Text, welche der folgenden Definitionen ist die übliche Definition von Bluthochdruck bei Erwachsenen?",
+      "ja": "本文によると、成人における高血圧の通常の定義は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A systolic pressure above 90 mm Hg or a diastolic pressure above 140 mm Hg.",
+          "zh": "收缩压高于90毫米汞柱或舒张压高于140毫米汞柱。",
+          "es": "Una presión sistólica superior a 90 mm Hg o una presión diastólica superior a 140 mm Hg.",
+          "fr": "Une pression systolique supérieure à 90 mm Hg ou une pression diastolique supérieure à 140 mm Hg.",
+          "de": "Ein systolischer Druck über 90 mm Hg oder ein diastolischer Druck über 140 mm Hg.",
+          "ja": "収縮期血圧が90 mmHgを超えるか、拡張期血圧が140 mmHgを超えること。"
+        },
+        "feedback": {
+          "en": "The values for systolic and diastolic pressures are swapped in this option compared to the text.",
+          "zh": "与文本相比，此选项中的收缩压和舒张压值互换了。",
+          "es": "Los valores de presión sistólica y diastólica están intercambiados en esta opción en comparación con el texto.",
+          "fr": "Les valeurs de pression systolique et diastolique sont inversées dans cette option par rapport au texte.",
+          "de": "Die Werte für systolischen und diastolischen Druck sind in dieser Option im Vergleich zum Text vertauscht.",
+          "ja": "本文と比較して、この選択肢では収縮期血圧と拡張期血圧の値が入れ替わっています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A systolic pressure above 140 mm Hg or a diastolic pressure above 90 mm Hg.",
+          "zh": "收缩压高于140毫米汞柱或舒张压高于90毫米汞柱。",
+          "es": "Una presión sistólica superior a 140 mm Hg o una presión diastólica superior a 90 mm Hg.",
+          "fr": "Une pression systolique supérieure à 140 mm Hg ou une pression diastolique supérieure à 90 mm Hg.",
+          "de": "Ein systolischer Druck über 140 mm Hg oder ein diastolischer Druck über 90 mm Hg.",
+          "ja": "収縮期血圧が140 mmHgを超えるか、拡張期血圧が90 mmHgを超えること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Any blood pressure reading that promotes plaque formation in the arteries.",
+          "zh": "任何促进动脉斑块形成的血压读数。",
+          "es": "Cualquier lectura de presión arterial que promueva la formación de placa en las arterias.",
+          "fr": "Toute lecture de tension artérielle qui favorise la formation de plaque dans les artères.",
+          "de": "Jeder Blutdruckwert, der die Plaquebildung in den Arterien fördert.",
+          "ja": "動脈にプラーク形成を促進するあらゆる血圧値。"
+        },
+        "feedback": {
+          "en": "While high blood pressure promotes plaque formation, this is a consequence, not the definition of hypertension itself.",
+          "zh": "高血压确实会促进斑块形成，但这是其后果，而非高血压本身的定义。",
+          "es": "Aunque la presión arterial alta promueve la formación de placa, esto es una consecuencia, no la definición de hipertensión en sí misma.",
+          "fr": "Bien que l'hypertension artérielle favorise la formation de plaque, il s'agit d'une conséquence et non de la définition de l'hypertension elle-même.",
+          "de": "Hoher Blutdruck fördert zwar die Plaquebildung, dies ist jedoch eine Folge und nicht die Definition von Bluthochdruck selbst.",
+          "ja": "高血圧はプラーク形成を促進しますが、これは結果であり、高血圧自体の定義ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A blood pressure level that cannot be controlled by lifestyle changes alone.",
+          "zh": "仅凭生活方式改变无法控制的血压水平。",
+          "es": "Un nivel de presión arterial que no se puede controlar solo con cambios en el estilo de vida.",
+          "fr": "Un niveau de tension artérielle qui ne peut être contrôlé par les seuls changements de mode de vie.",
+          "de": "Ein Blutdruckwert, der nicht allein durch Lebensstiländerungen kontrolliert werden kann.",
+          "ja": "ライフスタイルの変更だけでは制御できない血圧レベル。"
+        },
+        "feedback": {
+          "en": "The text lists various ways hypertension can be prevented and controlled, including lifestyle changes and medication, but this is not its definition.",
+          "zh": "文本列出了预防和控制高血压的各种方法，包括生活方式改变和药物治疗，但这并非其定义。",
+          "es": "El texto enumera varias formas en que la hipertensión se puede prevenir y controlar, incluidos los cambios en el estilo de vida y los medicamentos, pero esta no es su definición.",
+          "fr": "Le texte énumère diverses façons de prévenir et de contrôler l'hypertension, y compris les changements de mode de vie et les médicaments, mais ce n'est pas sa définition.",
+          "de": "Der Text listet verschiedene Wege auf, wie Bluthochdruck verhindert und kontrolliert werden kann, einschließlich Lebensstiländerungen und Medikamenten, aber dies ist nicht seine Definition.",
+          "ja": "本文では高血圧を予防および管理する方法が、ライフスタイルの変更や薬物療法を含めて様々に挙げられていますが、これはその定義ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'The usual definition of hypertension in adults is a systolic pressure above 140 mm Hg or a diastolic pressure above 90 mm Hg.'",
+      "zh": "文本明确指出：“成人高血压的通常定义是收缩压高于140毫米汞柱或舒张压高于90毫米汞柱。”",
+      "es": "El texto establece explícitamente: 'La definición habitual de hipertensión en adultos es una presión sistólica superior a 140 mm Hg o una presión diastólica superior a 90 mm Hg.'",
+      "fr": "Le texte stipule explicitement : 'La définition habituelle de l'hypertension chez l'adulte est une pression systolique supérieure à 140 mm Hg ou une pression diastolique supérieure à 90 mm Hg.'",
+      "de": "Der Text besagt explizit: „Die übliche Definition von Bluthochdruck bei Erwachsenen ist ein systolischer Druck über 140 mm Hg oder ein diastolischer Druck über 90 mm Hg.“",
+      "ja": "本文では「成人における高血圧の通常の定義は、収縮期血圧が140 mmHgを超えるか、拡張期血圧が90 mmHgを超えることである」と明確に述べられています。"
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 296,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 12.17(a), what signal or lack thereof causes a cell to exit the cell cycle and enter the G0 state at the G1 checkpoint?",
+      "zh": "根据图12.17(a)，什么信号（或其缺失）导致细胞在G1检查点退出细胞周期并进入G0期？",
+      "es": "Según la Figura 12.17(a), ¿qué señal o su ausencia hace que una célula salga del ciclo celular y entre en el estado G0 en el punto de control G1?",
+      "fr": "Selon la Figure 12.17(a), quel signal ou son absence amène une cellule à quitter le cycle cellulaire et à entrer dans l'état G0 au point de contrôle G1 ?",
+      "de": "Gemäß Abbildung 12.17(a), welches Signal oder dessen Fehlen führt dazu, dass eine Zelle den Zellzyklus verlässt und am G1-Checkpoint in den G0-Zustand eintritt?",
+      "ja": "図12.17(a)によると、G1チェックポイントで細胞が細胞周期から離脱し、G0期に入る原因となる信号、またはその欠如は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Presence of a stop signal",
+          "zh": "存在停止信号",
+          "es": "Presencia de una señal de detención",
+          "fr": "Présence d'un signal d'arrêt",
+          "de": "Anwesenheit eines Stoppsignals",
+          "ja": "停止信号の存在"
+        },
+        "feedback": {
+          "en": "The figure indicates that the absence of a 'go-ahead signal' leads to exit, not the presence of a 'stop signal' in this specific context.",
+          "zh": "图中表明是“前进信号”的缺失导致退出，而不是特定语境下“停止信号”的存在。",
+          "es": "La figura indica que la ausencia de una 'señal de avance' conduce a la salida, no la presencia de una 'señal de detención' en este contexto específico.",
+          "fr": "La figure indique que l'absence d'un 'signal de feu vert' entraîne la sortie, et non la présence d'un 'signal d'arrêt' dans ce contexte spécifique.",
+          "de": "Die Abbildung zeigt, dass das Fehlen eines 'Go-Ahead-Signals' zum Verlassen führt, nicht die Anwesenheit eines 'Stoppsignals' in diesem spezifischen Kontext.",
+          "ja": "図は、「ゴーアヘッド信号」の欠如が退出につながることを示しており、この特定の文脈では「停止信号」の存在ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Absence of a go-ahead signal",
+          "zh": "前进信号的缺失",
+          "es": "Ausencia de una señal de avance",
+          "fr": "Absence d'un signal de feu vert",
+          "de": "Fehlen eines Go-Ahead-Signals",
+          "ja": "ゴーアヘッド信号の欠如"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Completion of DNA replication",
+          "zh": "DNA复制完成",
+          "es": "Finalización de la replicación del ADN",
+          "fr": "Achèvement de la réplication de l'ADN",
+          "de": "Abschluss der DNA-Replikation",
+          "ja": "DNA複製完了"
+        },
+        "feedback": {
+          "en": "DNA replication occurs during S phase, and its completion is usually monitored at the G2 checkpoint, not G1 for entering G0.",
+          "zh": "DNA复制发生在S期，其完成通常在G2检查点监控，而不是G1期进入G0。",
+          "es": "La replicación del ADN ocurre durante la fase S, y su finalización se monitorea generalmente en el punto de control G2, no en G1 para entrar en G0.",
+          "fr": "La réplication de l'ADN a lieu pendant la phase S, et son achèvement est généralement surveillé au point de contrôle G2, pas au G1 pour l'entrée en G0.",
+          "de": "Die DNA-Replikation findet während der S-Phase statt, und ihr Abschluss wird normalerweise am G2-Checkpoint überwacht, nicht am G1 für den Eintritt in G0.",
+          "ja": "DNA複製はS期に起こり、その完了は通常G2チェックポイントで監視され、G0期に入るためのG1チェックポイントではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Attachment of all chromosomes to spindle fibers",
+          "zh": "所有染色体附着到纺锤体纤维上",
+          "es": "Unión de todos los cromosomas a las fibras del huso",
+          "fr": "Attachement de tous les chromosomes aux fibres du fuseau",
+          "de": "Anheftung aller Chromosomen an die Spindelfasern",
+          "ja": "すべての染色体が紡錘体繊維に付着"
+        },
+        "feedback": {
+          "en": "This event is related to the M checkpoint, not the G1 checkpoint.",
+          "zh": "此事件与M检查点相关，而非G1检查点。",
+          "es": "Este evento está relacionado con el punto de control M, no con el punto de control G1.",
+          "fr": "Cet événement est lié au point de contrôle M, et non au point de contrôle G1.",
+          "de": "Dieses Ereignis ist mit dem M-Checkpoint verbunden, nicht mit dem G1-Checkpoint.",
+          "ja": "このイベントはMチェックポイントに関連しており、G1チェックポイントではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 12.17(a) explicitly states: \"In the absence of a go-ahead signal, a cell exits the cell cycle and enters G0, a nondividing state.\"",
+      "zh": "图12.17(a)明确指出：“在没有前进信号的情况下，细胞退出细胞周期并进入G0期，一个非分裂状态。”",
+      "es": "La Figura 12.17(a) establece explícitamente: \"En ausencia de una señal de avance, una célula sale del ciclo celular y entra en G0, un estado no divisorio.\"",
+      "fr": "La Figure 12.17(a) stipule explicitement : \"En l'absence d'un signal de feu vert, une cellule quitte le cycle cellulaire et entre en G0, un état non-divisant.\"",
+      "de": "Abbildung 12.17(a) besagt ausdrücklich: \"In Abwesenheit eines Go-Ahead-Signals verlässt eine Zelle den Zellzyklus und tritt in G0 ein, einen nicht-teilenden Zustand.\"",
+      "ja": "図12.17(a)には、「ゴーアヘッド信号がない場合、細胞は細胞周期を終了し、非分裂状態であるG0期に入る」と明示されています。"
+    }
+  },
+  {
+    "page_number": 296,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, what is the immediate enzymatic action triggered by the activation of the regulatory protein complex at the M checkpoint, which directly leads to sister chromatid separation?",
+      "zh": "根据文本，在M检查点，调节蛋白复合物激活后，立即触发的酶促作用是什么，它直接导致姐妹染色单体分离？",
+      "es": "Según el texto, ¿cuál es la acción enzimática inmediata que se desencadena por la activación del complejo proteico regulador en el punto de control M, que conduce directamente a la separación de las cromátidas hermanas?",
+      "fr": "Selon le texte, quelle est l'action enzymatique immédiate déclenchée par l'activation du complexe protéique régulateur au point de contrôle M, qui conduit directement à la séparation des chromatides sœurs ?",
+      "de": "Laut Text, welche sofortige enzymatische Aktion wird durch die Aktivierung des regulatorischen Proteinkomplexes am M-Checkpoint ausgelöst, die direkt zur Trennung der Schwesterchromatiden führt?",
+      "ja": "テキストによると、Mチェックポイントで調節タンパク質複合体が活性化された後、直ちに引き起こされる酵素的反応は何であり、それが姉妹染色分体の分離に直接つながりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Cleavage of cohesins by separase",
+          "zh": "分离酶切割黏连蛋白",
+          "es": "Escisión de cohesinas por la separasa",
+          "fr": "Clivage des cohésines par la séparase",
+          "de": "Spaltung von Kohäsinen durch Separase",
+          "ja": "セパラーゼによるコヒーシンの切断"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Attachment of kinetochores to spindle fibers",
+          "zh": "着丝粒附着到纺锤体纤维",
+          "es": "Unión de cinetocoros a las fibras del huso",
+          "fr": "Attachement des kinétochores aux fibres du fuseau",
+          "de": "Anheftung von Kinetochoren an Spindelfasern",
+          "ja": "動原体が紡錘体繊維に付着"
+        },
+        "feedback": {
+          "en": "While kinetochore attachment is crucial for the M checkpoint, it is the event monitored, not the immediate enzymatic action causing separation.",
+          "zh": "虽然着丝粒附着对M检查点至关重要，但它是被监测的事件，而非导致分离的直接酶促作用。",
+          "es": "Aunque la unión del cinetocoro es crucial para el punto de control M, es el evento monitoreado, no la acción enzimática inmediata que causa la separación.",
+          "fr": "Bien que l'attachement des kinétochores soit crucial pour le point de contrôle M, c'est l'événement surveillé, pas l'action enzymatique immédiate qui provoque la séparation.",
+          "de": "Obwohl die Kinetochoranheftung für den M-Checkpoint entscheidend ist, ist sie das überwachte Ereignis, nicht die unmittelbare enzymatische Wirkung, die die Trennung verursacht.",
+          "ja": "動原体の付着はMチェックポイントにとって重要ですが、それは監視されるイベントであり、分離を引き起こす直接的な酵素作用ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Phosphorylation of Cdk proteins",
+          "zh": "Cdk蛋白磷酸化",
+          "es": "Fosforilación de proteínas Cdk",
+          "fr": "Phosphorylation des protéines Cdk",
+          "de": "Phosphorylierung von Cdk-Proteinen",
+          "ja": "Cdkタンパク質のリン酸化"
+        },
+        "feedback": {
+          "en": "Phosphorylation of Cdk proteins is part of cell cycle regulation but not the direct enzymatic action leading to sister chromatid separation at the M checkpoint.",
+          "zh": "Cdk蛋白的磷酸化是细胞周期调节的一部分，但不是M检查点导致姐妹染色单体分离的直接酶促作用。",
+          "es": "La fosforilación de proteínas Cdk es parte de la regulación del ciclo celular, pero no es la acción enzimática directa que conduce a la separación de las cromátidas hermanas en el punto de control M.",
+          "fr": "La phosphorylation des protéines Cdk fait partie de la régulation du cycle cellulaire mais n'est pas l'action enzymatique directe menant à la séparation des chromatides sœurs au point de contrôle M.",
+          "de": "Die Phosphorylierung von Cdk-Proteinen ist Teil der Zellzyklusregulation, aber nicht die direkte enzymatische Wirkung, die zur Trennung der Schwesterchromatiden am M-Checkpoint führt.",
+          "ja": "Cdkタンパク質のリン酸化は細胞周期調節の一部ですが、Mチェックポイントで姉妹染色分体の分離につながる直接的な酵素作用ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Synthesis of new spindle fibers",
+          "zh": "新纺锤体纤维的合成",
+          "es": "Síntesis de nuevas fibras del huso",
+          "fr": "Synthèse de nouvelles fibres du fuseau",
+          "de": "Synthese neuer Spindelfasern",
+          "ja": "新しい紡錘体繊維の合成"
+        },
+        "feedback": {
+          "en": "Spindle fibers are formed earlier in mitosis; this is not the immediate action for chromatid separation.",
+          "zh": "纺锤体纤维在有丝分裂早期形成；这不是染色单体分离的直接作用。",
+          "es": "Las fibras del huso se forman más temprano en la mitosis; esta no es la acción inmediata para la separación de las cromátidas.",
+          "fr": "Les fibres du fuseau se forment plus tôt dans la mitose ; ce n'est pas l'action immédiate pour la séparation des chromatides.",
+          "de": "Spindelfasern werden früher in der Mitose gebildet; dies ist nicht die unmittelbare Aktion zur Chromatidentrennung.",
+          "ja": "紡錘体繊維は有糸分裂の初期に形成されます。これは染色分体分離の直接的な作用ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states: \"Once activated, the complex sets off a chain of molecular events that activates the enzyme separase, which cleaves the cohesins, allowing the sister chromatids to separate.\" Therefore, the immediate enzymatic action is the cleavage of cohesins by separase.",
+      "zh": "文本指出：“一旦激活，该复合物会启动一系列分子事件，激活分离酶，分离酶切割黏连蛋白，从而使姐妹染色单体分离。” 因此，直接的酶促作用是分离酶对黏连蛋白的切割。",
+      "es": "El texto dice: \"Una vez activado, el complejo desencadena una cadena de eventos moleculares que activa la enzima separasa, que escinde las cohesinas, permitiendo que las cromátidas hermanas se separen.\" Por lo tanto, la acción enzimática inmediata es la escisión de las cohesinas por la separasa.",
+      "fr": "Le texte indique : \"Une fois activé, le complexe déclenche une série d'événements moléculaires qui activent l'enzyme séparase, laquelle clive les cohésines, permettant aux chromatides sœurs de se séparer.\" Par conséquent, l'action enzymatique immédiate est le clivage des cohésines par la séparase.",
+      "de": "Der Text besagt: \"Einmal aktiviert, setzt der Komplex eine Kette molekularer Ereignisse in Gang, die das Enzym Separase aktivieren, welches die Kohäsine spaltet und so die Trennung der Schwesterchromatiden ermöglicht.\" Die unmittelbare enzymatische Aktion ist daher die Spaltung der Kohäsine durch die Separase.",
+      "ja": "テキストには、「活性化されると、この複合体は分子イベントの連鎖を引き起こし、セパラーゼという酵素を活性化し、セパラーゼがコヒーシンを切断して姉妹染色分体を分離させる」とあります。したがって、直接的な酵素作用はセパラーゼによるコヒーシンの切断です。"
+    }
+  },
+  {
+    "page_number": 296,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The \"WHAT IF?\" prompt in Figure 12.17 asks about the result if a cell ignored either checkpoint and progressed through the cell cycle. Specifically, if a cell ignored the M checkpoint's stop signal despite chromosomes not being fully attached to spindle fibers, what would be the most likely consequence for the daughter cells?",
+      "zh": "图12.17中的“如果呢？”提示问题是，如果细胞忽略了任何一个检查点并继续进行细胞周期，结果会怎样？具体来说，如果一个细胞在染色体未完全附着到纺锤体纤维的情况下，忽略了M检查点的停止信号并继续进行，那么其子细胞最可能的后果是什么？",
+      "es": "La pregunta \"¿Y SI?\" en la Figura 12.17 interroga sobre el resultado si una célula ignorara cualquiera de los puntos de control y avanzara a través del ciclo celular. Específicamente, si una célula ignorara la señal de parada del punto de control M a pesar de que los cromosomas no estuvieran completamente unidos a las fibras del huso, ¿cuál sería la consecuencia más probable para las células hijas?",
+      "fr": "La question « ET SI ? » de la Figure 12.17 interroge sur le résultat si une cellule ignorait l'un des points de contrôle et progressait dans le cycle cellulaire. Plus précisément, si une cellule ignorait le signal d'arrêt du point de contrôle M alors que les chromosomes n'étaient pas entièrement attachés aux fibres du fuseau, quelle serait la conséquence la plus probable pour les cellules filles ?",
+      "de": "Die „WAS WÄRE WENN?“-Frage in Abbildung 12.17 fragt nach dem Ergebnis, wenn eine Zelle einen der Checkpoints ignorieren und den Zellzyklus fortsetzen würde. Insbesondere, wenn eine Zelle das Stoppsignal des M-Checkpoints ignorieren würde, obwohl die Chromosomen nicht vollständig an die Spindelfasern angeheftet sind, was wäre die wahrscheinlichste Folge für die Tochterzellen?",
+      "ja": "図12.17の「もしも？」の問いは、細胞がどちらかのチェックポイントを無視して細胞周期を進めた場合の結果について尋ねています。具体的には、染色体が紡錘体繊維に完全に付着していないにもかかわらず、細胞がMチェックポイントの停止信号を無視して進んだ場合、娘細胞に最も起こりうる結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The daughter cells would likely receive an abnormal number of chromosomes (aneuploidy).",
+          "zh": "子细胞很可能获得异常数量的染色体（非整倍体）。",
+          "es": "Es probable que las células hijas reciban un número anormal de cromosomas (aneuploidía).",
+          "fr": "Les cellules filles recevraient probablement un nombre anormal de chromosomes (aneuploïdie).",
+          "de": "Die Tochterzellen würden wahrscheinlich eine abnormale Chromosomenanzahl (Aneuploidie) erhalten.",
+          "ja": "娘細胞は異常な数の染色体（異数性）を受け取る可能性が高い。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The cell would undergo apoptosis immediately after ignoring the signal.",
+          "zh": "细胞在忽略信号后会立即发生凋亡。",
+          "es": "La célula sufriría apoptosis inmediatamente después de ignorar la señal.",
+          "fr": "La cellule subirait une apoptose immédiatement après avoir ignoré le signal.",
+          "de": "Die Zelle würde unmittelbar nach dem Ignorieren des Signals Apoptose durchlaufen.",
+          "ja": "細胞は信号を無視した直後にアポトーシスを起こす。"
+        },
+        "feedback": {
+          "en": "While apoptosis can occur in response to severe cell cycle errors, the immediate and most direct consequence of ignoring the M checkpoint, which ensures proper chromosome distribution, is abnormal chromosome numbers in daughter cells, not necessarily immediate apoptosis.",
+          "zh": "虽然细胞周期严重错误可能导致细胞凋亡，但忽略M检查点（该检查点确保染色体正确分布）最直接和即时的后果是子细胞中染色体数量异常，不一定是立即凋亡。",
+          "es": "Aunque la apoptosis puede ocurrir en respuesta a errores graves del ciclo celular, la consecuencia inmediata y más directa de ignorar el punto de control M, que asegura la distribución adecuada de los cromosomas, es un número anormal de cromosomas en las células hijas, no necesariamente la apoptosis inmediata.",
+          "fr": "Bien que l'apoptose puisse survenir en réponse à de graves erreurs du cycle cellulaire, la conséquence immédiate et la plus directe de l'ignorance du point de contrôle M, qui assure une distribution chromosomique correcte, est un nombre anormal de chromosomes dans les cellules filles, pas nécessairement une apoptose immédiate.",
+          "de": "Obwohl Apoptose als Reaktion auf schwere Zellzyklusfehler auftreten kann, ist die unmittelbare und direkteste Folge des Ignorierens des M-Checkpoints, der die korrekte Chromosomenverteilung sicherstellt, eine abnormale Chromosomenanzahl in den Tochterzellen, nicht unbedingt sofortige Apoptose.",
+          "ja": "アポトーシスは重度の細胞周期エラーに応じて発生する可能性がありますが、Mチェックポイント（適切な染色体分布を保証する）を無視した場合の最も直接的な結果は、娘細胞における染色体数の異常であり、必ずしも即座のアポトーシスではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The cell would successfully complete division, but future divisions would be inhibited.",
+          "zh": "细胞会成功完成分裂，但未来的分裂将被抑制。",
+          "es": "La célula completaría exitosamente la división, pero las divisiones futuras serían inhibidas.",
+          "fr": "La cellule achèverait avec succès la division, mais les divisions futures seraient inhibées.",
+          "de": "Die Zelle würde die Teilung erfolgreich abschließen, aber zukünftige Teilungen wären gehemmt.",
+          "ja": "細胞は正常に分裂を完了するが、将来の分裂は阻害される。"
+        },
+        "feedback": {
+          "en": "Ignoring the M checkpoint's integrity check means that chromosomes might not segregate equally or correctly, leading to immediate issues in that division, not just future ones.",
+          "zh": "忽略M检查点的完整性检查意味着染色体可能无法均等或正确分离，从而导致当前分裂的即时问题，而不仅仅是未来的问题。",
+          "es": "Ignorar la verificación de integridad del punto de control M significa que los cromosomas podrían no segregarse de manera equitativa o correcta, lo que provocaría problemas inmediatos en esa división, no solo en las futuras.",
+          "fr": "Ignorer la vérification d'intégrité du point de contrôle M signifie que les chromosomes pourraient ne pas se séparer de manière égale ou correcte, entraînant des problèmes immédiats dans cette division, pas seulement les futures.",
+          "de": "Das Ignorieren der Integritätsprüfung des M-Checkpoints bedeutet, dass Chromosomen möglicherweise nicht gleichmäßig oder korrekt getrennt werden, was zu unmittelbaren Problemen in dieser Teilung führt, nicht nur in zukünftigen.",
+          "ja": "Mチェックポイントの完全性チェックを無視すると、染色体が均等にまたは正しく分離しない可能性があり、将来の分裂だけでなく、その分裂で即座に問題が発生します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The cell would permanently enter the G0 state without dividing.",
+          "zh": "细胞将永久进入G0期而不分裂。",
+          "es": "La célula entraría permanentemente en el estado G0 sin dividirse.",
+          "fr": "La cellule entrerait définitivement en état G0 sans se diviser.",
+          "de": "Die Zelle würde ohne Teilung dauerhaft in den G0-Zustand eintreten.",
+          "ja": "細胞は分裂せずに永久的にG0期に入る。"
+        },
+        "feedback": {
+          "en": "Entering G0 is a result of lacking a go-ahead signal at the G1 checkpoint, or sometimes G2, but not typically a direct outcome of ignoring an M checkpoint stop signal. Ignoring the M checkpoint means proceeding with faulty chromosome segregation.",
+          "zh": "进入G0期是G1检查点（有时是G2）缺乏前进信号的结果，而不是忽略M检查点停止信号的直接结果。忽略M检查点意味着在染色体分离错误的情况下继续进行。",
+          "es": "Entrar en G0 es el resultado de la falta de una señal de avance en el punto de control G1, o a veces G2, pero no suele ser un resultado directo de ignorar una señal de parada del punto de control M. Ignorar el punto de control M significa proceder con una segregación cromosómica defectuosa.",
+          "fr": "L'entrée en G0 résulte d'un manque de signal de feu vert au point de contrôle G1, ou parfois G2, mais ce n'est généralement pas un résultat direct de l'ignorance d'un signal d'arrêt du point de contrôle M. Ignorer le point de contrôle M signifie procéder à une ségrégation chromosomique défectueuse.",
+          "de": "Das Eintreten in G0 ist das Ergebnis des Fehlens eines Go-Ahead-Signals am G1-Checkpoint oder manchmal am G2, aber normalerweise keine direkte Folge des Ignorierens eines M-Checkpoint-Stoppsignals. Das Ignorieren des M-Checkpoints bedeutet, mit einer fehlerhaften Chromosomensegregation fortzufahren.",
+          "ja": "G0期に入るのは、G1チェックポイント（あるいはG2）でのゴーアヘッド信号の欠如の結果であり、Mチェックポイントの停止信号を無視することの直接的な結果ではありません。Mチェックポイントを無視するということは、欠陥のある染色体分離を進めることを意味します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states that the M checkpoint \"ensures anaphase is completed and the chromosomes are well separated before cytokinesis can begin, thus avoiding chromosomal damage\" and that \"this mechanism ensures that daughter cells do not end up with missing or extra chromosomes.\" Therefore, if this checkpoint is ignored when chromosomes are not properly attached, daughter cells will receive an incorrect number of chromosomes (aneuploidy).",
+      "zh": "文本指出，M检查点“确保后期完成且染色体在胞质分裂开始前充分分离，从而避免染色体损伤”，并且“此机制确保子细胞不会出现染色体缺失或多余的情况。” 因此，如果染色体未正确附着时忽略此检查点，子细胞将获得不正确数量的染色体（非整倍体）。",
+      "es": "El texto indica que el punto de control M \"asegura que la anafase se complete y los cromosomas estén bien separados antes de que comience la citocinesis, evitando así el daño cromosómico\" y que \"este mecanismo asegura que las células hijas no terminen con cromosomas faltantes o extra.\" Por lo tanto, si este punto de control se ignora cuando los cromosomas no están correctamente unidos, las células hijas recibirán un número incorrecto de cromosomas (aneuploidía).",
+      "fr": "Le texte indique que le point de contrôle M « assure que l'anaphase est terminée et que les chromosomes sont bien séparés avant que la cytokinèse ne commence, évitant ainsi les dommages chromosomiques » et que « ce mécanisme garantit que les cellules filles ne se retrouvent pas avec des chromosomes manquants ou en excès ». Par conséquent, si ce point de contrôle est ignoré lorsque les chromosomes ne sont pas correctement attachés, les cellules filles recevront un nombre incorrect de chromosomes (aneuploïdie).",
+      "de": "Der Text besagt, dass der M-Checkpoint \"sicherstellt, dass die Anaphase abgeschlossen ist und die Chromosomen vor Beginn der Zytokinese gut getrennt sind, um so Chromosomenschäden zu vermeiden\" und dass \"dieser Mechanismus gewährleistet, dass Tochterzellen nicht mit fehlenden oder zusätzlichen Chromosomen enden.\" Wenn dieser Checkpoint ignoriert wird, obwohl die Chromosomen nicht richtig angeheftet sind, erhalten die Tochterzellen eine falsche Anzahl von Chromosomen (Aneuploidie).",
+      "ja": "テキストには、Mチェックポイントが「分裂後期が完了し、細胞質分裂が始まる前に染色体が十分に分離されていることを確認し、染色体損傷を回避する」とあり、また「このメカニズムは、娘細胞が染色体の欠落や過剰な数を抱えることがないようにする」とあります。したがって、染色体が適切に付着していないにもかかわらずこのチェックポイントが無視された場合、娘細胞は誤った数の染色体（異数性）を受け取ることになります。"
+    }
+  }
+]

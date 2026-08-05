@@ -1,0 +1,305 @@
+[
+  {
+    "page_number": 263,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the 'Your Data' bar chart, which of the following statements accurately describes the effect of the peptides on S. aureus toxin production?",
+      "zh": "根据“您的数据”条形图，以下哪项陈述准确描述了这些肽对金黄色葡萄球菌毒素产生的影响？",
+      "es": "Según el gráfico de barras 'Sus Datos', ¿cuál de las siguientes afirmaciones describe con precisión el efecto de los péptidos en la producción de toxinas de S. aureus?",
+      "fr": "Selon le graphique à barres 'Vos Données', laquelle des affirmations suivantes décrit avec précision l'effet des peptides sur la production de toxines de S. aureus ?",
+      "de": "Basierend auf dem Balkendiagramm „Ihre Daten“, welche der folgenden Aussagen beschreibt die Wirkung der Peptide auf die Toxinproduktion von S. aureus genau?",
+      "ja": "「あなたのデータ」棒グラフに基づいて、以下の記述のうち、S. aureus毒素産生に対するペプチドの効果を正確に説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The control culture produced the lowest concentration of toxin, indicating that the peptides increased toxin production.",
+          "zh": "对照培养物产生的毒素浓度最低，表明这些肽增加了毒素的产生。",
+          "es": "El cultivo de control produjo la concentración más baja de toxinas, lo que indica que los péptidos aumentaron la producción de toxinas.",
+          "fr": "La culture témoin a produit la concentration la plus faible de toxines, ce qui indique que les peptides ont augmenté la production de toxines.",
+          "de": "Die Kontrollkultur produzierte die niedrigste Toxin-Konzentration, was darauf hindeutet, dass die Peptide die Toxinproduktion erhöhten.",
+          "ja": "対照培養は最も低い毒素濃度を産生し、ペプチドが毒素産生を増加させたことを示している。"
+        },
+        "feedback": {
+          "en": "The control culture produced the highest toxin concentration, and all peptides reduced it.",
+          "zh": "对照培养物产生的毒素浓度最高，所有肽都降低了毒素的产生。",
+          "es": "El cultivo de control produjo la concentración de toxinas más alta, y todos los péptidos la redujeron.",
+          "fr": "La culture témoin a produit la concentration de toxines la plus élevée, et tous les peptides l'ont réduite.",
+          "de": "Die Kontrollkultur produzierte die höchste Toxin-Konzentration, und alle Peptide reduzierten sie.",
+          "ja": "対照培養は最も高い毒素濃度を産生しており、すべてのペプチドがそれを減少させた。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Peptide 1 was more effective at reducing toxin production than Peptide 2.",
+          "zh": "肽 1 在降低毒素产生方面比肽 2 更有效。",
+          "es": "El péptido 1 fue más eficaz en la reducción de la producción de toxinas que el péptido 2.",
+          "fr": "Le peptide 1 était plus efficace pour réduire la production de toxines que le peptide 2.",
+          "de": "Peptid 1 war bei der Reduzierung der Toxinproduktion wirksamer als Peptid 2.",
+          "ja": "ペプチド1はペプチド2よりも毒素産生の抑制効果が高かった。"
+        },
+        "feedback": {
+          "en": "The chart shows Peptide 2 resulted in lower toxin concentration (approx. 0.7 µmoles/mL) compared to Peptide 1 (approx. 1.0 µmoles/mL), making Peptide 2 more effective.",
+          "zh": "图表显示，肽 2 产生的毒素浓度（约 0.7 µmoles/mL）低于肽 1（约 1.0 µmoles/mL），这使得肽 2 更有效。",
+          "es": "El gráfico muestra que el péptido 2 resultó en una menor concentración de toxinas (aprox. 0.7 µmoles/mL) en comparación con el péptido 1 (aprox. 1.0 µmoles/mL), lo que hace que el péptido 2 sea más eficaz.",
+          "fr": "Le graphique montre que le peptide 2 a entraîné une concentration de toxines plus faible (environ 0,7 µmoles/mL) par rapport au peptide 1 (environ 1,0 µmoles/mL), ce qui rend le peptide 2 plus efficace.",
+          "de": "Die Tabelle zeigt, dass Peptid 2 zu einer geringeren Toxin-Konzentration (ca. 0,7 µmol/mL) führte als Peptid 1 (ca. 1,0 µmol/mL), wodurch Peptid 2 wirksamer ist.",
+          "ja": "グラフを見ると、ペプチド2はペプチド1（約1.0 µmoles/mL）と比較して毒素濃度が低く（約0.7 µmoles/mL）、ペプチド2の方が効果的であることがわかります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The combination of Peptide 1 and Peptide 2 resulted in the most significant reduction in toxin production.",
+          "zh": "肽 1 和肽 2 的组合导致毒素产生最显著的减少。",
+          "es": "La combinación de Péptido 1 y Péptido 2 resultó en la reducción más significativa de la producción de toxinas.",
+          "fr": "La combinaison du Peptide 1 et du Peptide 2 a entraîné la réduction la plus significative de la production de toxines.",
+          "de": "Die Kombination von Peptid 1 und Peptid 2 führte zur signifikantesten Reduzierung der Toxinproduktion.",
+          "ja": "ペプチド1とペプチド2の組み合わせが、毒素産生を最も顕著に減少させた。"
+        },
+        "feedback": {
+          "en": "Correct. The bar for Peptides 1+2 is the lowest, indicating the greatest reduction in toxin.",
+          "zh": "正确。肽 1+2 的条形图最低，表明毒素减少最多。",
+          "es": "Correcto. La barra de Péptidos 1+2 es la más baja, lo que indica la mayor reducción de toxinas.",
+          "fr": "Correct. La barre pour les Peptides 1+2 est la plus basse, indiquant la plus grande réduction de toxines.",
+          "de": "Richtig. Der Balken für Peptide 1+2 ist der niedrigste, was die größte Reduzierung des Toxins anzeigt.",
+          "ja": "正解です。ペプチド1+2の棒グラフが最も低く、毒素の減少が最も大きいことを示しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All cultures with peptides produced toxin concentrations similar to the control culture.",
+          "zh": "所有含有肽的培养物产生的毒素浓度与对照培养物相似。",
+          "es": "Todos los cultivos con péptidos produjeron concentraciones de toxinas similares a las del cultivo de control.",
+          "fr": "Toutes les cultures avec peptides ont produit des concentrations de toxines similaires à celles de la culture témoin.",
+          "de": "Alle Kulturen mit Peptiden produzierten Toxin-Konzentrationen, die denen der Kontrollkultur ähnlich waren.",
+          "ja": "ペプチドを含むすべての培養は、対照培養と同様の毒素濃度を産生した。"
+        },
+        "feedback": {
+          "en": "The data clearly show that all cultures with peptides resulted in significantly lower toxin concentrations than the control, not similar ones.",
+          "zh": "数据显示，所有含有肽的培养物产生的毒素浓度都显著低于对照组，而不是相似。",
+          "es": "Los datos muestran claramente que todos los cultivos con péptidos resultaron en concentraciones de toxinas significativamente más bajas que el control, no similares.",
+          "fr": "Les données montrent clairement que toutes les cultures avec peptides ont entraîné des concentrations de toxines significativement plus faibles que le contrôle, et non similaires.",
+          "de": "Die Daten zeigen deutlich, dass alle Kulturen mit Peptiden zu signifikant niedrigeren Toxin-Konzentrationen führten als die Kontrolle, nicht zu ähnlichen.",
+          "ja": "データは、ペプチドを含むすべての培養が対照よりも有意に低い毒素濃度を示しており、類似していないことを明確に示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The bar chart visually represents the toxin concentrations. The control culture has the highest bar (approx. 2.2 µmoles/mL). Peptide 1 (approx. 1.0 µmoles/mL) and Peptide 2 (approx. 0.7 µmoles/mL) both show reductions. The combination of Peptides 1+2 results in the lowest bar (approx. 0.3 µmoles/mL), indicating the most substantial reduction in toxin production.",
+      "zh": "条形图直观地表示了毒素浓度。对照培养物的条形图最高（约 2.2 µmoles/mL）。肽 1（约 1.0 µmoles/mL）和肽 2（约 0.7 µmoles/mL）都显示出降低。肽 1+2 的组合导致条形图最低（约 0.3 µmoles/mL），表明毒素产生量减少最显著。",
+      "es": "El gráfico de barras representa visualmente las concentraciones de toxinas. El cultivo de control tiene la barra más alta (aprox. 2.2 µmoles/mL). El péptido 1 (aprox. 1.0 µmoles/mL) y el péptido 2 (aprox. 0.7 µmoles/mL) muestran reducciones. La combinación de péptidos 1+2 resulta en la barra más baja (aprox. 0.3 µmoles/mL), lo que indica la reducción más sustancial en la producción de toxinas.",
+      "fr": "Le graphique à barres représente visuellement les concentrations de toxines. La culture témoin a la barre la plus élevée (environ 2,2 µmoles/mL). Le Peptide 1 (environ 1,0 µmoles/mL) et le Peptide 2 (environ 0,7 µmoles/mL) montrent tous deux des réductions. La combinaison des Peptides 1+2 donne la barre la plus basse (environ 0,3 µmoles/mL), indiquant la réduction la plus substantielle de la production de toxines.",
+      "de": "Das Balkendiagramm zeigt die Toxin-Konzentrationen visuell an. Die Kontrollkultur hat den höchsten Balken (ca. 2,2 µmol/mL). Peptid 1 (ca. 1,0 µmol/mL) und Peptid 2 (ca. 0,7 µmol/mL) zeigen beide Reduzierungen. Die Kombination von Peptid 1+2 führt zum niedrigsten Balken (ca. 0,3 µmol/mL), was die signifikanteste Reduzierung der Toxinproduktion anzeigt.",
+      "ja": "棒グラフは毒素濃度を視覚的に示しています。対照培養は最も高い棒（約2.2 µmoles/mL）を示しています。ペプチド1（約1.0 µmoles/mL）とペプチド2（約0.7 µmoles/mL）はともに減少を示しています。ペプチド1+2の組み合わせは最も低い棒（約0.3 µmoles/mL）となり、毒素産生の最も顕著な減少を示しています。"
+    }
+  },
+  {
+    "page_number": 263,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Considering the 'Your Data' and 'Your Approach' sections, what can be hypothesized about the quorum-sensing pathways based on the combined effect of Peptides 1 and 2, and its implication for treating S. aureus infections?",
+      "zh": "根据“您的数据”和“您的方法”部分，结合肽 1 和肽 2 的联合作用，可以对群体感应通路做出什么假设，以及这对治疗金黄色葡萄球菌感染有何启示？",
+      "es": "Considerando las secciones 'Sus Datos' y 'Su Enfoque', ¿qué se puede hipotetizar sobre las vías de detección de quórum basándose en el efecto combinado de los Péptidos 1 y 2, y su implicación para el tratamiento de infecciones por S. aureus?",
+      "fr": "Compte tenu des sections 'Vos Données' et 'Votre Approche', que peut-on émettre comme hypothèse concernant les voies de détection du quorum basées sur l'effet combiné des Peptides 1 et 2, et quelle est son implication pour le traitement des infections à S. aureus ?",
+      "de": "Unter Berücksichtigung der Abschnitte „Ihre Daten“ und „Ihr Ansatz“, welche Hypothese kann über die Quorum-Sensing-Pfade basierend auf der kombinierten Wirkung von Peptid 1 und 2 aufgestellt werden, und welche Implikationen hat dies für die Behandlung von S. aureus-Infektionen?",
+      "ja": "「あなたのデータ」と「あなたの方法」セクションを考慮して、ペプチド1と2の複合効果に基づいてクオラムセンシング経路についてどのような仮説が立てられ、S. aureus感染症の治療にどのような影響があると考えられますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Peptides 1 and 2 likely act on the same quorum-sensing pathway because their combined effect is less than the sum of their individual effects, suggesting competitive inhibition, which makes them a poor candidate for combined therapy.",
+          "zh": "肽 1 和肽 2 可能作用于相同的群体感应通路，因为它们的联合作用小于它们各自作用的总和，表明存在竞争性抑制，这使得它们不适合联合治疗。",
+          "es": "Es probable que los péptidos 1 y 2 actúen en la misma vía de detección de quórum porque su efecto combinado es menor que la suma de sus efectos individuales, lo que sugiere una inhibición competitiva, lo que los convierte en un mal candidato para la terapia combinada.",
+          "fr": "Les Peptides 1 et 2 agissent probablement sur la même voie de détection du quorum car leur effet combiné est inférieur à la somme de leurs effets individuels, suggérant une inhibition compétitive, ce qui en fait de mauvais candidats pour une thérapie combinée.",
+          "de": "Peptide 1 und 2 wirken wahrscheinlich auf denselben Quorum-Sensing-Pfad, da ihre kombinierte Wirkung geringer ist als die Summe ihrer individuellen Wirkungen, was auf eine kompetitive Hemmung hindeutet und sie zu schlechten Kandidaten für eine kombinierte Therapie macht.",
+          "ja": "ペプチド1と2は同じクオラムセンシング経路に作用する可能性が高い。なぜなら、その複合効果は個々の効果の合計よりも小さく、競合阻害を示唆しているため、併用療法には不向きである。"
+        },
+        "feedback": {
+          "en": "The combined effect is significantly greater than either individual peptide, suggesting they act on different pathways or have a synergistic effect, making them promising for combined therapy. Also, the combined effect is stronger, not weaker, than individual effects.",
+          "zh": "联合作用显著大于任何一个单独的肽，表明它们作用于不同的通路或具有协同作用，这使得它们有望用于联合治疗。此外，联合作用更强，而不是更弱。",
+          "es": "El efecto combinado es significativamente mayor que el de cualquiera de los péptidos individuales, lo que sugiere que actúan en vías diferentes o tienen un efecto sinérgico, lo que los hace prometedores para la terapia combinada. Además, el efecto combinado es más fuerte, no más débil, que los efectos individuales.",
+          "fr": "L'effet combiné est significativement plus important que celui de l'un ou l'autre des peptides individuels, suggérant qu'ils agissent sur des voies différentes ou ont un effet synergique, ce qui les rend prometteurs pour une thérapie combinée. De plus, l'effet combiné est plus fort, et non plus faible, que les effets individuels.",
+          "de": "Die kombinierte Wirkung ist signifikant größer als die jedes einzelnen Peptids, was darauf hindeutet, dass sie auf unterschiedliche Pfade wirken oder einen synergistischen Effekt haben, was sie vielversprechend für eine kombinierte Therapie macht. Außerdem ist die kombinierte Wirkung stärker, nicht schwächer, als die individuellen Wirkungen.",
+          "ja": "複合効果は個々のペプチドよりも有意に大きく、異なる経路に作用するか、相乗効果があることを示唆しており、併用療法に有望です。また、複合効果は個々の効果よりも強く、弱くありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Peptides 1 and 2 likely act on two different quorum-sensing pathways, or on different steps within the same pathway, because their combined effect is substantially greater than either peptide alone, suggesting a synergistic or complementary action. This makes them a promising candidate for treating antibiotic-resistant S. aureus infections.",
+          "zh": "肽 1 和肽 2 可能作用于两个不同的群体感应通路，或同一通路内的不同步骤，因为它们的联合作用明显大于单独使用任一肽的作用，表明存在协同或互补作用。这使得它们成为治疗抗生素耐药性金黄色葡萄球菌感染的 promising 候选药物。",
+          "es": "Es probable que los péptidos 1 y 2 actúen en dos vías de detección de quórum diferentes, o en diferentes pasos dentro de la misma vía, porque su efecto combinado es sustancialmente mayor que el de cualquiera de los péptidos solos, lo que sugiere una acción sinérgica o complementaria. Esto los convierte en un candidato prometedor para tratar infecciones por S. aureus resistentes a los antibióticos.",
+          "fr": "Les Peptides 1 et 2 agissent probablement sur deux voies de détection du quorum différentes, ou sur des étapes différentes au sein de la même voie, car leur effet combiné est substantiellement supérieur à celui de l'un ou l'autre des peptides seuls, suggérant une action synergique ou complémentaire. Cela en fait un candidat prometteur pour le traitement des infections à S. aureus résistantes aux antibiotiques.",
+          "de": "Peptid 1 und 2 wirken wahrscheinlich auf zwei verschiedene Quorum-Sensing-Pfade oder auf verschiedene Schritte innerhalb desselben Pfades, da ihre kombinierte Wirkung wesentlich größer ist als die jedes einzelnen Peptids allein, was eine synergistische oder komplementäre Wirkung nahelegt. Dies macht sie zu vielversprechenden Kandidaten für die Behandlung antibiotikaresistenter S. aureus-Infektionen.",
+          "ja": "ペプチド1と2は、2つの異なるクオラムセンシング経路、または同じ経路内の異なる段階に作用する可能性が高い。なぜなら、その複合効果はどちらかのペプチド単独よりも実質的に大きく、相乗的または補完的な作用を示唆しているからである。これにより、これらは抗生物質耐性S. aureus感染症の治療に有望な候補となる。"
+        },
+        "feedback": {
+          "en": "Correct. The significantly enhanced reduction in toxin when both peptides are present suggests distinct targets or complementary mechanisms, making them effective for combined therapy against a difficult pathogen.",
+          "zh": "正确。当两种肽都存在时，毒素的显著增强的减少表明它们作用于不同的靶点或具有互补机制，使其成为治疗这种顽固病原体的联合疗法的有效药物。",
+          "es": "Correcto. La reducción significativamente mejorada de la toxina cuando ambos péptidos están presentes sugiere objetivos distintos o mecanismos complementarios, lo que los hace efectivos para una terapia combinada contra un patógeno difícil.",
+          "fr": "Correct. La réduction significativement améliorée des toxines lorsque les deux peptides sont présents suggère des cibles distinctes ou des mécanismes complémentaires, les rendant efficaces pour une thérapie combinée contre un pathogène difficile.",
+          "de": "Richtig. Die signifikant verstärkte Reduzierung des Toxins, wenn beide Peptide vorhanden sind, deutet auf unterschiedliche Ziele oder komplementäre Mechanismen hin, was sie für eine kombinierte Therapie gegen einen schwierigen Erreger wirksam macht.",
+          "ja": "正解です。両方のペプチドが存在する場合の毒素の著しい減少は、異なる標的または相補的なメカニズムを示唆しており、難治性病原体に対する併用療法に効果的です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The peptides are only effective individually, and their combination leads to no additional benefit, thus they would not be useful for treating S. aureus infections.",
+          "zh": "这些肽只有单独使用时才有效，它们的组合不会带来额外的好处，因此它们对治疗金黄色葡萄球菌感染没有用。",
+          "es": "Los péptidos solo son efectivos individualmente, y su combinación no produce ningún beneficio adicional, por lo que no serían útiles para tratar infecciones por S. aureus.",
+          "fr": "Les peptides ne sont efficaces qu'individuellement, et leur combinaison n'apporte aucun avantage supplémentaire, ils ne seraient donc pas utiles pour le traitement des infections à S. aureus.",
+          "de": "Die Peptide sind nur einzeln wirksam, und ihre Kombination führt zu keinem zusätzlichen Nutzen, daher wären sie zur Behandlung von S. aureus-Infektionen nicht nützlich.",
+          "ja": "ペプチドは個々には有効であるが、組み合わせても追加的な利益はないため、S. aureus感染症の治療には役立たない。"
+        },
+        "feedback": {
+          "en": "The data clearly shows that the combination of Peptides 1 and 2 yields the greatest reduction in toxin production, indicating a significant additional benefit.",
+          "zh": "数据显示，肽 1 和肽 2 的组合能最大程度地减少毒素的产生，表明有显著的额外益处。",
+          "es": "Los datos muestran claramente que la combinación de Péptido 1 y Péptido 2 produce la mayor reducción en la producción de toxinas, lo que indica un beneficio adicional significativo.",
+          "fr": "Les données montrent clairement que la combinaison des Peptides 1 et 2 entraîne la plus grande réduction de la production de toxines, indiquant un avantage supplémentaire significatif.",
+          "de": "Die Daten zeigen deutlich, dass die Kombination von Peptid 1 und 2 die größte Reduzierung der Toxinproduktion bewirkt, was einen signifikanten zusätzlichen Nutzen anzeigt.",
+          "ja": "データは、ペプチド1とペプチド2の組み合わせが毒素産生を最も大きく減少させることを明確に示しており、これは大きな追加効果があることを示している。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The experiment does not provide enough information to hypothesize about the quorum-sensing pathways, and thus, no conclusions can be drawn regarding their use in treating infections.",
+          "zh": "该实验没有提供足够的信息来假设群体感应通路，因此，无法就它们在治疗感染中的使用得出结论。",
+          "es": "El experimento no proporciona suficiente información para hipotetizar sobre las vías de detección de quórum y, por lo tanto, no se pueden extraer conclusiones sobre su uso en el tratamiento de infecciones.",
+          "fr": "L'expérience ne fournit pas suffisamment d'informations pour émettre des hypothèses sur les voies de détection du quorum, et par conséquent, aucune conclusion ne peut être tirée concernant leur utilisation dans le traitement des infections.",
+          "de": "Das Experiment liefert nicht genügend Informationen, um Hypothesen über die Quorum-Sensing-Pfade aufzustellen, und daher können keine Schlussfolgerungen hinsichtlich ihrer Verwendung bei der Behandlung von Infektionen gezogen werden.",
+          "ja": "この実験では、クオラムセンシング経路について仮説を立てるのに十分な情報が提供されておらず、したがって、感染症の治療におけるそれらの使用に関して結論を導き出すことはできない。"
+        },
+        "feedback": {
+          "en": "While further research is always beneficial, the substantial combined effect observed strongly supports a hypothesis about the peptides acting on different or complementary pathways, leading to a promising treatment strategy.",
+          "zh": "虽然进一步的研究总是有益的，但观察到的显著的联合效应有力地支持了关于肽作用于不同或互补通路的假设，从而形成了一种有前景的治疗策略。",
+          "es": "Si bien la investigación adicional siempre es beneficiosa, el efecto combinado sustancial observado respalda firmemente una hipótesis sobre los péptidos que actúan en vías diferentes o complementarias, lo que lleva a una estrategia de tratamiento prometedora.",
+          "fr": "Bien que des recherches supplémentaires soient toujours bénéfiques, l'effet combiné substantiel observé soutient fortement une hypothèse sur les peptides agissant sur des voies différentes ou complémentaires, conduisant à une stratégie de traitement prometteuse.",
+          "de": "Obwohl weitere Forschung immer von Vorteil ist, stützt der beobachtete erhebliche kombinierte Effekt eine Hypothese über die Wirkung der Peptide auf unterschiedliche oder komplementäre Pfade, was zu einer vielversprechenden Behandlungsstrategie führt.",
+          "ja": "さらなる研究は常に有益ですが、観察された実質的な複合効果は、ペプチドが異なる、または相補的な経路に作用するという仮説を強く支持しており、有望な治療戦略につながります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The problem states that S. aureus quorum sensing involves two separate signal transduction pathways. If peptides 1 and 2 acted on the same pathway, their combined effect might not be significantly greater than the most effective individual peptide, or might even show diminishing returns. However, the data shows that the combined effect of Peptides 1+2 (approx. 0.3 µmoles/mL toxin) is substantially lower than either Peptide 1 alone (approx. 1.0 µmoles/mL) or Peptide 2 alone (approx. 0.7 µmoles/mL). This synergistic effect strongly suggests that the two peptides interfere with different pathways, or different critical steps within the same pathway, leading to a more comprehensive inhibition of toxin production. Given that S. aureus can be antibiotic-resistant, this new approach targeting quorum sensing without directly killing bacteria (and thus reducing selective pressure for resistance) is a promising treatment strategy.",
+      "zh": "问题指出金黄色葡萄球菌的群体感应涉及两个独立的信号转导通路。如果肽 1 和肽 2 作用于相同的通路，它们的联合作用可能不会显著大于最有效的单个肽，甚至可能出现收益递减。然而，数据显示肽 1+2 的联合作用（约 0.3 µmoles/mL 毒素）明显低于单独的肽 1（约 1.0 µmoles/mL）或单独的肽 2（约 0.7 µmoles/mL）。这种协同效应强烈表明这两种肽干扰不同的通路，或同一通路内的不同关键步骤，从而导致毒素产生的更全面抑制。鉴于金黄色葡萄球菌可能对抗生素产生耐药性，这种不直接杀死细菌（从而减少耐药性选择压力）而靶向群体感应的新方法是一种有前景的治疗策略。",
+      "es": "El problema establece que la detección de quórum de S. aureus implica dos vías de transducción de señales separadas. Si los péptidos 1 y 2 actuaran en la misma vía, su efecto combinado podría no ser significativamente mayor que el péptido individual más efectivo, o incluso podría mostrar rendimientos decrecientes. Sin embargo, los datos muestran que el efecto combinado de los Péptidos 1+2 (aprox. 0.3 µmoles/mL de toxina) es sustancialmente menor que el del Péptido 1 solo (aprox. 1.0 µmoles/mL) o el del Péptido 2 solo (aprox. 0.7 µmoles/mL). Este efecto sinérgico sugiere fuertemente que los dos péptidos interfieren con vías diferentes, o con diferentes pasos críticos dentro de la misma vía, lo que lleva a una inhibición más completa de la producción de toxinas. Dado que S. aureus puede ser resistente a los antibióticos, este nuevo enfoque que apunta a la detección de quórum sin matar directamente las bacterias (y así reducir la presión selectiva para la resistencia) es una estrategia de tratamiento prometedora.",
+      "fr": "Le problème indique que la détection du quorum chez S. aureus implique deux voies de transduction de signal distinctes. Si les Peptides 1 et 2 agissaient sur la même voie, leur effet combiné pourrait ne pas être significativement supérieur à celui du peptide individuel le plus efficace, ou pourrait même montrer des rendements décroissants. Cependant, les données montrent que l'effet combiné des Peptides 1+2 (environ 0,3 µmoles/mL de toxine) est substantiellement inférieur à celui du Peptide 1 seul (environ 1,0 µmoles/mL) ou du Peptide 2 seul (environ 0,7 µmoles/mL). Cet effet synergique suggère fortement que les deux peptides interfèrent avec des voies différentes, ou des étapes critiques différentes au sein de la même voie, conduisant à une inhibition plus complète de la production de toxines. Étant donné que S. aureus peut être résistant aux antibiotiques, cette nouvelle approche ciblant la détection du quorum sans tuer directement les bactéries (et réduisant ainsi la pression sélective pour la résistance) est une stratégie de traitement prometteuse.",
+      "de": "Das Problem besagt, dass die Quorum-Sensing von S. aureus zwei separate Signaltransduktionspfade beinhaltet. Wenn Peptid 1 und 2 auf demselben Pfad wirken würden, wäre ihre kombinierte Wirkung möglicherweise nicht signifikant größer als die des effektivsten einzelnen Peptids, oder könnte sogar abnehmende Erträge zeigen. Die Daten zeigen jedoch, dass die kombinierte Wirkung von Peptiden 1+2 (ca. 0,3 µmol/mL Toxin) wesentlich geringer ist als die von Peptid 1 allein (ca. 1,0 µmol/mL) oder Peptid 2 allein (ca. 0,7 µmol/mL). Dieser synergistische Effekt deutet stark darauf hin, dass die beiden Peptide unterschiedliche Pfade oder verschiedene kritische Schritte innerhalb desselben Pfades stören, was zu einer umfassenderen Hemmung der Toxinproduktion führt. Da S. aureus antibiotikaresistent sein kann, ist dieser neue Ansatz, der Quorum-Sensing ohne direkte Abtötung von Bakterien (und somit Verringerung des Selektionsdrucks für Resistenzen) anspricht, eine vielversprechende Behandlungsstrategie.",
+      "ja": "問題文には、S. aureusのクオラムセンシングには2つの独立したシグナル伝達経路が関与していると記載されています。もしペプチド1と2が同じ経路に作用する場合、それらの複合効果は最も効果的な単独ペプチドよりも有意に大きくないか、あるいは収穫逓減を示す可能性もあります。しかし、データはペプチド1+2の複合効果（約0.3 µmoles/mLの毒素）が、ペプチド1単独（約1.0 µmoles/mL）やペプチド2単独（約0.7 µmoles/mL）よりも実質的に低いことを示しています。この相乗効果は、2つのペプチドが異なる経路、または同じ経路内の異なる重要な段階に干渉し、より包括的な毒素産生抑制につながることを強く示唆しています。S. aureusが抗生物質耐性を持つ可能性があることを考えると、細菌を直接殺さずにクオラムセンシングを標的とするこの新しいアプローチ（したがって、耐性に対する選択圧を減少させる）は、有望な治療戦略です。"
+    }
+  },
+  {
+    "page_number": 263,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, how does *Staphylococcus aureus* (S. aureus) cause harm to the human body once it establishes an infection beyond the surface of healthy skin?",
+      "zh": "根据文本，金黄色葡萄球菌（S. aureus）一旦在健康皮肤表面之外建立感染，它是如何对人体造成伤害的？",
+      "es": "Según el texto, ¿cómo causa daño el *Staphylococcus aureus* (S. aureus) al cuerpo humano una vez que establece una infección más allá de la superficie de la piel sana?",
+      "fr": "Selon le texte, comment *Staphylococcus aureus* (S. aureus) cause-t-il des dommages au corps humain une fois qu'il a établi une infection au-delà de la surface de la peau saine ?",
+      "de": "Laut dem Text, wie schädigt *Staphylococcus aureus* (S. aureus) den menschlichen Körper, sobald es eine Infektion jenseits der Oberfläche gesunder Haut etabliert hat?",
+      "ja": "本文によると、健康な皮膚の表面を超えて感染が確立された場合、*Staphylococcus aureus* (S. aureus) はどのように人体に害を及ぼしますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It directly consumes body cells for nutrients, leading to tissue damage.",
+          "zh": "它直接消耗身体细胞获取营养，导致组织损伤。",
+          "es": "Consume directamente las células del cuerpo para obtener nutrientes, lo que lleva a daños tisulares.",
+          "fr": "Il consomme directement les cellules du corps pour ses nutriments, entraînant des lésions tissulaires.",
+          "de": "Es verbraucht direkt Körperzellen zur Nährstoffgewinnung, was zu Gewebeschäden führt.",
+          "ja": "栄養のために直接体細胞を消費し、組織損傷を引き起こす。"
+        },
+        "feedback": {
+          "en": "The text states S. aureus secretes a toxin that kills body cells, not that it directly consumes them.",
+          "zh": "文本指出金黄色葡萄球菌分泌毒素杀死身体细胞，而不是直接消耗它们。",
+          "es": "El texto afirma que S. aureus secreta una toxina que mata las células del cuerpo, no que las consume directamente.",
+          "fr": "Le texte indique que S. aureus sécrète une toxine qui tue les cellules du corps, et non qu'il les consomme directement.",
+          "de": "Der Text besagt, dass S. aureus ein Toxin absondert, das Körperzellen abtötet, nicht dass es sie direkt verbraucht.",
+          "ja": "本文には、S. aureusが体細胞を殺す毒素を分泌すると記載されており、直接消費するとは書かれていません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It reaches a certain population density and then secretes a toxin that kills body cells, contributing to inflammation and damage.",
+          "zh": "它达到一定种群密度后，分泌毒素杀死身体细胞，导致炎症和损伤。",
+          "es": "Alcanza una cierta densidad de población y luego secreta una toxina que mata las células del cuerpo, contribuyendo a la inflamación y el daño.",
+          "fr": "Il atteint une certaine densité de population puis sécrète une toxine qui tue les cellules du corps, contribuant à l'inflammation et aux dommages.",
+          "de": "Es erreicht eine bestimmte Populationsdichte und scheidet dann ein Toxin aus, das Körperzellen abtötet und zu Entzündungen und Schäden beiträgt.",
+          "ja": "ある程度の個体密度に達すると、毒素を分泌して体細胞を殺し、炎症や損傷を引き起こす。"
+        },
+        "feedback": {
+          "en": "Correct. This accurately reflects the description of quorum sensing and toxin production by S. aureus in the provided text.",
+          "zh": "正确。这准确反映了所提供文本中金黄色葡萄球菌群体感应和毒素产生的描述。",
+          "es": "Correcto. Esto refleja con precisión la descripción de la detección de quórum y la producción de toxinas por S. aureus en el texto proporcionado.",
+          "fr": "Correct. Cela reflète fidèlement la description de la détection du quorum et de la production de toxines par S. aureus dans le texte fourni.",
+          "de": "Richtig. Dies spiegelt die Beschreibung der Quorum-Sensing und Toxinproduktion durch S. aureus im bereitgestellten Text genau wider.",
+          "ja": "正しいです。これは、提供されたテキストにおけるS. aureusのクオラムセンシングと毒素産生の説明を正確に反映しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It forms large colonies that physically block blood flow and nutrient delivery to tissues.",
+          "zh": "它形成大菌落，物理性地阻碍血液流动和营养物质向组织输送。",
+          "es": "Forma grandes colonias que bloquean físicamente el flujo sanguíneo y el suministro de nutrientes a los tejidos.",
+          "fr": "Il forme de grandes colonies qui bloquent physiquement le flux sanguin et l'apport de nutriments aux tissus.",
+          "de": "Es bildet große Kolonien, die den Blutfluss und die Nährstoffversorgung des Gewebes physisch blockieren.",
+          "ja": "大きなコロニーを形成し、血流や組織への栄養供給を物理的に阻害する。"
+        },
+        "feedback": {
+          "en": "While some bacteria can form biofilms, the text specifically highlights toxin secretion as the primary mechanism of harm for S. aureus.",
+          "zh": "虽然有些细菌可以形成生物膜，但文本明确指出毒素分泌是金黄色葡萄球菌造成伤害的主要机制。",
+          "es": "Aunque algunas bacterias pueden formar biopelículas, el texto destaca específicamente la secreción de toxinas como el principal mecanismo de daño para S. aureus.",
+          "fr": "Bien que certaines bactéries puissent former des biofilms, le texte met spécifiquement en évidence la sécrétion de toxines comme mécanisme principal de dommage pour S. aureus.",
+          "de": "Obwohl einige Bakterien Biofilme bilden können, hebt der Text ausdrücklich die Toxinsekretion als primären Schädigungsmechanismus für S. aureus hervor.",
+          "ja": "一部の細菌はバイオフィルムを形成する可能性がありますが、本文ではS. aureusの主要な損傷メカニズムとして毒素分泌が特に強調されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It directly triggers an autoimmune response that causes the body to attack its own cells.",
+          "zh": "它直接引发自身免疫反应，导致身体攻击自身细胞。",
+          "es": "Desencadena directamente una respuesta autoinmune que hace que el cuerpo ataque sus propias células.",
+          "fr": "Il déclenche directement une réponse auto-immune qui amène le corps à attaquer ses propres cellules.",
+          "de": "Es löst direkt eine Autoimmunreaktion aus, die den Körper dazu bringt, seine eigenen Zellen anzugreifen.",
+          "ja": "自己免疫反応を直接引き起こし、体が自身の細胞を攻撃するように仕向ける。"
+        },
+        "feedback": {
+          "en": "The text describes direct cell killing by a toxin, not an autoimmune response.",
+          "zh": "文本描述的是毒素直接杀死细胞，而不是自身免疫反应。",
+          "es": "El texto describe la muerte celular directa por una toxina, no una respuesta autoinmune.",
+          "fr": "Le texte décrit la destruction directe de cellules par une toxine, et non une réponse auto-immune.",
+          "de": "Der Text beschreibt das direkte Abtöten von Zellen durch ein Toxin, nicht eine Autoimmunreaktion.",
+          "ja": "本文は毒素による直接的な細胞死について述べており、自己免疫反応ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The introductory paragraph clearly states: 'Once S. aureus cells enter the body and reach a certain density, they secrete a toxin that kills body cells and contributes significantly to inflammation and damage.' This process is later identified as being regulated by quorum sensing, where cells 'sense their own population density by quorum sensing, and at a certain density they start to secrete toxin.'",
+      "zh": "介绍段落明确指出：“一旦金黄色葡萄球菌细胞进入人体并达到一定密度，它们就会分泌一种毒素，杀死身体细胞，并显著导致炎症和损伤。” 这一过程后来被确认为受群体感应调节，细胞“通过群体感应感知自己的种群密度，并在达到一定密度时开始分泌毒素。”",
+      "es": "El párrafo introductorio establece claramente: 'Una vez que las células de S. aureus entran al cuerpo y alcanzan una cierta densidad, secretan una toxina que mata las células del cuerpo y contribuye significativamente a la inflamación y el daño.' Este proceso se identifica más tarde como regulado por la detección de quórum, donde las células 'perciben su propia densidad de población mediante la detección de quórum, y a cierta densidad comienzan a secretar toxinas.'",
+      "fr": "Le paragraphe d'introduction indique clairement : « Une fois que les cellules de S. aureus pénètrent dans le corps et atteignent une certaine densité, elles sécrètent une toxine qui tue les cellules du corps et contribue de manière significative à l'inflammation et aux dommages. » Ce processus est ensuite identifié comme étant régulé par la détection du quorum, où les cellules « détectent leur propre densité de population par détection du quorum, et à une certaine densité, elles commencent à sécréter des toxines. »",
+      "de": "Der Einleitungsparagraph besagt klar: „Sobald S. aureus-Zellen in den Körper gelangen und eine bestimmte Dichte erreichen, sondern sie ein Toxin ab, das Körperzellen abtötet und erheblich zu Entzündungen und Schäden beiträgt.“ Dieser Prozess wird später als durch Quorum-Sensing reguliert identifiziert, wobei Zellen „ihre eigene Populationsdichte durch Quorum-Sensing wahrnehmen und ab einer bestimmten Dichte beginnen, Toxin abzusondern.“",
+      "ja": "冒頭の段落には、「S. aureusの細胞が体内に入り、ある程度の密度に達すると、体細胞を殺し、炎症と損傷に大きく寄与する毒素を分泌する」と明確に述べられています。このプロセスは後にクオラムセンシングによって調節されると特定されており、細胞は「クオラムセンシングによって自身の個体密度を感知し、ある密度に達すると毒素を分泌し始める」とされています。"
+    }
+  }
+]

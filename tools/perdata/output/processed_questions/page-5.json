@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 5,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the Library of Congress Cataloging-in-Publication Data, what is the primary subject heading assigned to this textbook?",
+      "zh": "根据美国国会图书馆出版编目数据，这本教科书被指定的主要主题是什么？",
+      "es": "Según los datos de catalogación en publicación de la Biblioteca del Congreso, ¿cuál es el encabezamiento de materia principal asignado a este libro de texto?",
+      "fr": "Selon les données de catalogage avant publication de la Bibliothèque du Congrès, quel est le sujet principal attribué à ce manuel ?",
+      "de": "Gemäß den Katalogisierungsdaten der Library of Congress ist, welches das Hauptsachgebiet, das diesem Lehrbuch zugewiesen wurde?",
+      "ja": "米国議会図書館の出版物目録データによると、この教科書に割り当てられている主要な主題は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Life Sciences",
+          "zh": "生命科学",
+          "es": "Ciencias de la Vida",
+          "fr": "Sciences de la vie",
+          "de": "Biowissenschaften",
+          "ja": "生命科学"
+        },
+        "feedback": {
+          "en": "While related, 'Life Sciences' is too broad and not the specific subject heading listed. The Library of Congress Subject Headings (LCSH) specifically lists 'Biology'.",
+          "zh": "虽然相关，但“生命科学”过于宽泛，并非所列的具体主题词。美国国会图书馆主题词（LCSH）明确列出的是“生物学”。",
+          "es": "Aunque está relacionado, 'Ciencias de la Vida' es demasiado amplio y no es el encabezamiento de materia específico listado. Los Encabezamientos de Materia de la Biblioteca del Congreso (LCSH) listan específicamente 'Biología'.",
+          "fr": "Bien que lié, 'Sciences de la vie' est trop général et n'est pas le sujet spécifique listé. Les vedettes-matière de la Bibliothèque du Congrès (LCSH) listent spécifiquement 'Biologie'.",
+          "de": "Obwohl verwandt, ist 'Biowissenschaften' zu weit gefasst und nicht der spezifische Sachgebietseintrag. Die Library of Congress Subject Headings (LCSH) listen explizit 'Biologie'.",
+          "ja": "関連していますが、「生命科学」は広範すぎ、特定の件名ではありません。米国議会図書館件名標目表（LCSH）には具体的に「生物学」と記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Genetics",
+          "zh": "遗传学",
+          "es": "Genética",
+          "fr": "Génétique",
+          "de": "Genetik",
+          "ja": "遺伝学"
+        },
+        "feedback": {
+          "en": "Genetics is a sub-discipline of biology, not the overarching primary subject heading for this general biology textbook as listed in the cataloging data.",
+          "zh": "遗传学是生物学的一个子学科，并非编目数据中列出的这本普通生物学教科书的首要主题。",
+          "es": "La genética es una subdisciplina de la biología, no el encabezamiento de materia principal que abarca todo este libro de texto de biología general, como se indica en los datos de catalogación.",
+          "fr": "La génétique est une sous-discipline de la biologie, et non le sujet principal global de ce manuel général de biologie tel que listé dans les données de catalogage.",
+          "de": "Genetik ist eine Teildisziplin der Biologie, nicht das übergreifende Hauptsachgebiet für dieses allgemeine Biologie-Lehrbuch, wie in den Katalogisierungsdaten aufgeführt.",
+          "ja": "遺伝学は生物学の下位分野であり、目録データに記載されているこの一般生物学教科書の主要な主題ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Environmental Science",
+          "zh": "环境科学",
+          "es": "Ciencias Ambientales",
+          "fr": "Sciences de l'environnement",
+          "de": "Umweltwissenschaften",
+          "ja": "環境科学"
+        },
+        "feedback": {
+          "en": "Environmental Science is a distinct field and not the primary subject heading for this textbook as indicated by the Library of Congress data. The correct subject is 'Biology'.",
+          "zh": "环境科学是一个独立的领域，并非国会图书馆数据显示的本教科书的主要主题。正确的主题是“生物学”。",
+          "es": "Las Ciencias Ambientales son un campo distinto y no el encabezamiento de materia principal para este libro de texto, según lo indicado por los datos de la Biblioteca del Congreso. El tema correcto es 'Biología'.",
+          "fr": "Les Sciences de l'environnement sont un domaine distinct et non le sujet principal de ce manuel tel qu'indiqué par les données de la Bibliothèque du Congrès. Le sujet correct est 'Biologie'.",
+          "de": "Umweltwissenschaften sind ein eigenständiges Fachgebiet und nicht das Hauptsachgebiet dieses Lehrbuchs, wie aus den Daten der Library of Congress hervorgeht. Das korrekte Thema ist 'Biologie'.",
+          "ja": "環境科学は別の分野であり、米国議会図書館のデータが示すこの教科書の主要な主題ではありません。正しい主題は「生物学」です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Biology",
+          "zh": "生物学",
+          "es": "Biología",
+          "fr": "Biologie",
+          "de": "Biologie",
+          "ja": "生物学"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "The 'Library of Congress Cataloging-in-Publication Data' section explicitly lists 'Subjects: LCSH: Biology.' indicating that 'Biology' is the primary subject heading.",
+      "zh": "“美国国会图书馆出版编目数据”部分明确列出“主题：LCSH：生物学”，表明“生物学”是主要主题词。",
+      "es": "La sección 'Library of Congress Cataloging-in-Publication Data' lista explícitamente 'Subjects: LCSH: Biology.', indicando que 'Biología' es el encabezamiento de materia principal.",
+      "fr": "La section 'Library of Congress Cataloging-in-Publication Data' liste explicitement 'Subjects: LCSH: Biology.', indiquant que 'Biologie' est le sujet principal.",
+      "de": "Der Abschnitt 'Library of Congress Cataloging-in-Publication Data' listet explizit 'Subjects: LCSH: Biology.' auf, was darauf hinweist, dass 'Biologie' das Hauptsachgebiet ist.",
+      "ja": "「米国議会図書館出版物目録データ」セクションには、「Subjects: LCSH: Biology.」と明示されており、「生物学」が主要な主題であることを示しています。"
+    }
+  },
+  {
+    "page_number": 5,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following ISBN 13 values is explicitly identified as an 'Instructor Review Copy'?",
+      "zh": "以下哪个 ISBN 13 值明确标识为“教师审阅副本”？",
+      "es": "De los siguientes valores de ISBN 13, ¿cuál está explícitamente identificado como una 'Copia de Revisión para el Instructor'?",
+      "fr": "Parmi les valeurs ISBN 13 suivantes, laquelle est explicitement identifiée comme une 'Copie d'examen pour l'instructeur' ?",
+      "de": "Welcher der folgenden ISBN 13-Werte ist explizit als 'Instructor Review Copy' (Lehrerprüfexemplar) gekennzeichnet?",
+      "ja": "以下のISBN 13値のうち、どの値が「教員用見本」として明示されていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "978-0-135-18874-3",
+          "zh": "978-0-135-18874-3",
+          "es": "978-0-135-18874-3",
+          "fr": "978-0-135-18874-3",
+          "de": "978-0-135-18874-3",
+          "ja": "978-0-135-18874-3"
+        },
+        "feedback": {
+          "en": "This ISBN 13 corresponds to the 'Rental Edition', not the 'Instructor Review Copy'.",
+          "zh": "这个 ISBN 13 对应的是“租赁版”，而不是“教师审阅副本”。",
+          "es": "Este ISBN 13 corresponde a la 'Edición de Alquiler', no a la 'Copia de Revisión para el Instructor'.",
+          "fr": "Cet ISBN 13 correspond à l'édition de location ('Rental Edition'), et non à la 'Copie d'examen pour l'instructeur'.",
+          "de": "Diese ISBN 13 entspricht der 'Rental Edition' (Mietversion), nicht der 'Instructor Review Copy'.",
+          "ja": "このISBN 13は「レンタル版」に対応しており、「教員用見本」ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "978-0-136-62344-1",
+          "zh": "978-0-136-62344-1",
+          "es": "978-0-136-62344-1",
+          "fr": "978-0-136-62344-1",
+          "de": "978-0-136-62344-1",
+          "ja": "978-0-136-62344-1"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "9780135188743",
+          "zh": "9780135188743",
+          "es": "9780135188743",
+          "fr": "9780135188743",
+          "de": "9780135188743",
+          "ja": "9780135188743"
+        },
+        "feedback": {
+          "en": "This ISBN 13 corresponds to the 'hardcover' edition, not the 'Instructor Review Copy'.",
+          "zh": "这个 ISBN 13 对应的是“精装版”，而不是“教师审阅副本”。",
+          "es": "Este ISBN 13 corresponde a la edición de 'tapa dura', no a la 'Copia de Revisión para el Instructor'.",
+          "fr": "Cet ISBN 13 correspond à l'édition 'reliée' (hardcover), et non à la 'Copie d'examen pour l'instructeur'.",
+          "de": "Diese ISBN 13 entspricht der 'Hardcover'-Ausgabe, nicht der 'Instructor Review Copy'.",
+          "ja": "このISBN 13は「ハードカバー版」に対応しており、「教員用見本」ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "9780135988046",
+          "zh": "9780135988046",
+          "es": "9780135988046",
+          "fr": "9780135988046",
+          "de": "9780135988046",
+          "ja": "9780135988046"
+        },
+        "feedback": {
+          "en": "This ISBN 13 corresponds to the 'ebook' edition, not the 'Instructor Review Copy'.",
+          "zh": "这个 ISBN 13 对应的是“电子书”版，而不是“教师审阅副本”。",
+          "es": "Este ISBN 13 corresponde a la edición de 'libro electrónico', no a la 'Copia de Revisión para el Instructor'.",
+          "fr": "Cet ISBN 13 correspond à l'édition 'ebook', et non à la 'Copie d'examen pour l'instructeur'.",
+          "de": "Diese ISBN 13 entspricht der 'eBook'-Ausgabe, nicht der 'Instructor Review Copy'.",
+          "ja": "このISBN 13は「電子書籍版」に対応しており、「教員用見本」ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The bottom right corner of the page explicitly lists 'ISBN 13: 978-0-136-62344-1 (Instructor Review Copy)', making it the correct answer.",
+      "zh": "页面右下角明确列出“ISBN 13: 978-0-136-62344-1 (教师审阅副本)”，因此这是正确答案。",
+      "es": "La parte inferior derecha de la página lista explícitamente 'ISBN 13: 978-0-136-62344-1 (Instructor Review Copy)', lo que la convierte en la respuesta correcta.",
+      "fr": "Le coin inférieur droit de la page liste explicitement 'ISBN 13: 978-0-136-62344-1 (Instructor Review Copy)', ce qui en fait la bonne réponse.",
+      "de": "Die untere rechte Ecke der Seite listet explizit 'ISBN 13: 978-0-136-62344-1 (Instructor Review Copy)' auf, was sie zur richtigen Antwort macht.",
+      "ja": "ページの右下には「ISBN 13: 978-0-136-62344-1 (教員用見本)」と明記されており、これが正解です。"
+    }
+  },
+  {
+    "page_number": 5,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "If a user wishes to obtain permission to reproduce content from this publication, what is the recommended first step according to the copyright notice?",
+      "zh": "如果用户希望获得复制本出版物内容的许可，根据版权声明，推荐的第一步是什么？",
+      "es": "Si un usuario desea obtener permiso para reproducir contenido de esta publicación, ¿cuál es el primer paso recomendado según el aviso de derechos de autor?",
+      "fr": "Si un utilisateur souhaite obtenir l'autorisation de reproduire du contenu de cette publication, quelle est la première étape recommandée selon l'avis de droit d'auteur ?",
+      "de": "Wenn ein Benutzer die Erlaubnis zur Reproduktion von Inhalten dieser Publikation einholen möchte, was ist laut Urheberrechtshinweis der empfohlene erste Schritt?",
+      "ja": "ユーザーがこの出版物のコンテンツを複製する許可を得たい場合、著作権表示によると、推奨される最初のステップは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Contact the authors directly for their consent.",
+          "zh": "直接联系作者征求他们的同意。",
+          "es": "Contactar directamente a los autores para obtener su consentimiento.",
+          "fr": "Contacter directement les auteurs pour obtenir leur consentement.",
+          "de": "Die Autoren direkt kontaktieren, um deren Zustimmung einzuholen.",
+          "ja": "著作者に直接連絡して同意を得る。"
+        },
+        "feedback": {
+          "en": "While authors have rights, the copyright notice directs users to the publisher, Pearson Education, for permissions regarding reproduction, not directly to the authors.",
+          "zh": "虽然作者拥有权利，但版权声明指示用户就复制许可事宜联系出版商培生教育，而不是直接联系作者。",
+          "es": "Aunque los autores tienen derechos, el aviso de derechos de autor dirige a los usuarios a la editorial, Pearson Education, para permisos de reproducción, no directamente a los autores.",
+          "fr": "Bien que les auteurs aient des droits, l'avis de droit d'auteur dirige les utilisateurs vers l'éditeur, Pearson Education, pour les autorisations de reproduction, et non directement vers les auteurs.",
+          "de": "Obwohl Autoren Rechte haben, verweist der Urheberrechtshinweis Benutzer bezüglich Reproduktionsgenehmigungen an den Verlag, Pearson Education, nicht direkt an die Autoren.",
+          "ja": "著作者には権利がありますが、著作権表示は複製許可に関して著作者に直接ではなく、出版元であるピアソン・エデュケーションに問い合わせるよう指示しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Refer to the Credits section for third-party content information.",
+          "zh": "查阅致谢部分获取第三方内容信息。",
+          "es": "Consultar la sección de Créditos para obtener información sobre contenido de terceros.",
+          "fr": "Se référer à la section Crédits pour les informations sur le contenu tiers.",
+          "de": "Den Abschnitt 'Credits' für Informationen zu Inhalten Dritter konsultieren.",
+          "ja": "第三者コンテンツの情報については、クレジットセクションを参照する。"
+        },
+        "feedback": {
+          "en": "The Credits section acknowledges existing third-party content. It does not provide instructions or a mechanism for a user to *obtain* new permissions for reproduction.",
+          "zh": "致谢部分是对现有第三方内容的确认。它不提供用户获取新复制许可的说明或机制。",
+          "es": "La sección de Créditos reconoce el contenido de terceros existente. No proporciona instrucciones ni un mecanismo para que un usuario *obtenga* nuevos permisos de reproducción.",
+          "fr": "La section Crédits reconnaît le contenu tiers existant. Elle ne fournit pas d'instructions ou de mécanisme permettant à un utilisateur d'*obtenir* de nouvelles autorisations de reproduction.",
+          "de": "Der Abschnitt 'Credits' würdigt bestehende Inhalte Dritter. Er bietet keine Anweisungen oder einen Mechanismus, wie ein Benutzer neue Genehmigungen zur Reproduktion *einholen* kann.",
+          "ja": "クレジットセクションは既存の第三者コンテンツを謝辞するものであり、ユーザーが新たに複製許可を*取得する*ための指示や仕組みは提供していません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Visit the Pearson Education Global Rights and Permissions department website.",
+          "zh": "访问培生教育全球版权与许可部门网站。",
+          "es": "Visitar el sitio web del departamento de Derechos y Permisos Globales de Pearson Education.",
+          "fr": "Visiter le site web du département des Droits et Permissions Globales de Pearson Education.",
+          "de": "Die Website der Pearson Education Global Rights and Permissions Abteilung besuchen.",
+          "ja": "ピアソン・エデュケーションのグローバル著作権・許可部門のウェブサイトを訪問する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Assume fair use applies for academic purposes.",
+          "zh": "假设合理使用条款适用于学术用途。",
+          "es": "Asumir que el uso justo se aplica para fines académicos.",
+          "fr": "Présumer que l'utilisation équitable s'applique à des fins académiques.",
+          "de": "Annehmen, dass die Fair-Use-Bestimmung für akademische Zwecke gilt.",
+          "ja": "学術目的にはフェアユースが適用されると仮定する。"
+        },
+        "feedback": {
+          "en": "The copyright notice explicitly states that 'permission should be obtained from the publisher prior to any prohibited reproduction', indicating that fair use should not be assumed without prior permission.",
+          "zh": "版权声明明确指出“在任何禁止的复制之前，应从出版商处获得许可”，表明在未获得事先许可的情况下，不应假定合理使用。",
+          "es": "El aviso de derechos de autor establece explícitamente que 'se debe obtener permiso del editor antes de cualquier reproducción prohibida', indicando que el uso justo no debe asumirse sin permiso previo.",
+          "fr": "L'avis de droit d'auteur stipule explicitement que 'l'autorisation doit être obtenue de l'éditeur avant toute reproduction interdite', indiquant que l'utilisation équitable ne doit pas être présumée sans autorisation préalable.",
+          "de": "Der Urheberrechtshinweis besagt explizit, dass 'vor jeder verbotenen Reproduktion die Erlaubnis des Verlags eingeholt werden sollte', was darauf hindeutet, dass Fair Use nicht ohne vorherige Genehmigung angenommen werden sollte.",
+          "ja": "著作権表示には「禁止された複製を行う前に、出版社から許可を得るべきである」と明確に記載されており、事前の許可なくフェアユースが適用されると仮定すべきではないことを示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The copyright section states, 'For information regarding permissions, request forms, and the appropriate contacts within the Pearson Education Global Rights and Permissions department, please visit www.pearsoned.com/permissions/.' This directly answers the question.",
+      "zh": "版权部分说明：“有关许可、申请表以及培生教育全球版权与许可部门内适当联系人的信息，请访问 www.pearsoned.com/permissions/。”这直接回答了问题。",
+      "es": "La sección de derechos de autor establece: 'Para obtener información sobre permisos, formularios de solicitud y los contactos apropiados dentro del departamento de Derechos y Permisos Globales de Pearson Education, visite www.pearsoned.com/permissions/.' Esto responde directamente a la pregunta.",
+      "fr": "La section sur le droit d'auteur indique : 'Pour des informations concernant les autorisations, les formulaires de demande et les contacts appropriés au sein du département des Droits et Permissions Globales de Pearson Education, veuillez visiter www.pearsoned.com/permissions/.' Cela répond directement à la question.",
+      "de": "Der Copyright-Abschnitt besagt: 'For information regarding permissions, request forms, and the appropriate contacts within the Pearson Education Global Rights and Permissions department, please visit www.pearsoned.com/permissions/.' Dies beantwortet die Frage direkt.",
+      "ja": "著作権のセクションには、「許可、申請書、およびピアソン・エデュケーションのグローバル著作権・許可部門内の適切な連絡先に関する情報については、www.pearsoned.com/permissions/ を参照してください。」と記載されています。これが質問に直接答えるものです。"
+    }
+  },
+  {
+    "page_number": 5,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Who is listed as the 'Senior Product Marketing Manager' for this publication?",
+      "zh": "本出版物的“高级产品营销经理”是谁？",
+      "es": "¿Quién figura como 'Gerente Senior de Marketing de Producto' para esta publicación?",
+      "fr": "Qui est répertorié comme 'Directeur principal du marketing produit' pour cette publication ?",
+      "de": "Wer ist als 'Senior Product Marketing Manager' (Leitender Produktmarketingmanager) für diese Publikation aufgeführt?",
+      "ja": "本出版物の「シニアプロダクトマーケティングマネージャー」として記載されているのは誰ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Mark Ong",
+          "zh": "Mark Ong",
+          "es": "Mark Ong",
+          "fr": "Mark Ong",
+          "de": "Mark Ong",
+          "ja": "マーク・オン"
+        },
+        "feedback": {
+          "en": "Mark Ong is the 'Design Manager', not the 'Senior Product Marketing Manager'.",
+          "zh": "Mark Ong 是“设计经理”，不是“高级产品营销经理”。",
+          "es": "Mark Ong es el 'Gerente de Diseño', no el 'Gerente Senior de Marketing de Producto'.",
+          "fr": "Mark Ong est le 'Directeur du design', et non le 'Directeur principal du marketing produit'.",
+          "de": "Mark Ong ist der 'Design Manager', nicht der 'Senior Product Marketing Manager'.",
+          "ja": "マーク・オンは「デザインマネージャー」であり、「シニアプロダクトマーケティングマネージャー」ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Alysun Estes",
+          "zh": "Alysun Estes",
+          "es": "Alysun Estes",
+          "fr": "Alysun Estes",
+          "de": "Alysun Estes",
+          "ja": "アリソン・エステス"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Katie Cook",
+          "zh": "Katie Cook",
+          "es": "Katie Cook",
+          "fr": "Katie Cook",
+          "de": "Katie Cook",
+          "ja": "ケイティ・クック"
+        },
+        "feedback": {
+          "en": "Katie Cook is the 'Project Manager', not the 'Senior Product Marketing Manager'.",
+          "zh": "Katie Cook 是“项目经理”，不是“高级产品营销经理”。",
+          "es": "Katie Cook es la 'Gerente de Proyecto', no la 'Gerente Senior de Marketing de Producto'.",
+          "fr": "Katie Cook est la 'Directrice de projet', et non la 'Directrice principal du marketing produit'.",
+          "de": "Katie Cook ist der 'Project Manager', nicht der 'Senior Product Marketing Manager'.",
+          "ja": "ケイティ・クックは「プロジェクトマネージャー」であり、「シニアプロダクトマーケティングマネージャー」ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Stacey Weinberger",
+          "zh": "Stacey Weinberger",
+          "es": "Stacey Weinberger",
+          "fr": "Stacey Weinberger",
+          "de": "Stacey Weinberger",
+          "ja": "ステイシー・ワインバーガー"
+        },
+        "feedback": {
+          "en": "Stacey Weinberger is the 'Manufacturing Buyer', not the 'Senior Product Marketing Manager'.",
+          "zh": "Stacey Weinberger 是“制造采购员”，不是“高级产品营销经理”。",
+          "es": "Stacey Weinberger es la 'Compradora de Fabricación', no la 'Gerente Senior de Marketing de Producto'.",
+          "fr": "Stacey Weinberger est l'« Acheteur de fabrication », et non le « Directeur principal du marketing produit ».",
+          "de": "Stacey Weinberger ist der 'Manufacturing Buyer', nicht der 'Senior Product Marketing Manager'.",
+          "ja": "ステイシー・ワインバーガーは「製造バイヤー」であり、「シニアプロダクトマーケティングマネージャー」ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Under the 'Project Manager' section, the role 'Senior Product Marketing Manager' is listed directly with 'Alysun Estes' next to it.",
+      "zh": "在“项目经理”部分下，“高级产品营销经理”一职直接列出了“Alysun Estes”的名字。",
+      "es": "Bajo la sección 'Project Manager', el rol 'Senior Product Marketing Manager' está listado directamente con 'Alysun Estes' al lado.",
+      "fr": "Sous la section 'Chef de projet', le rôle de 'Directeur principal du marketing produit' est directement répertorié avec 'Alysun Estes' à côté.",
+      "de": "Im Abschnitt 'Project Manager' ist die Rolle 'Senior Product Marketing Manager' direkt mit 'Alysun Estes' daneben aufgeführt.",
+      "ja": "「プロジェクトマネージャー」のセクションで、「シニアプロダクトマーケティングマネージャー」の役割が「アリソン・エステス」と共に直接記載されています。"
+    }
+  }
+]

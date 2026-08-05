@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A man with type A blood marries a woman with type B blood. Their first child has type O blood. What are the genotypes of the man, the woman, and the child?",
+      "zh": "一个血型为 A 型的男人与一个血型为 B 型的女人结婚。他们的第一个孩子是 O 型血。这三人的基因型分别是什么？",
+      "es": "Un hombre con sangre tipo A se casa con una mujer con sangre tipo B. Su primer hijo tiene sangre tipo O. ¿Cuáles son los genotipos de estos tres individuos?",
+      "fr": "Un homme de groupe sanguin A épouse une femme de groupe sanguin B. Leur premier enfant est de groupe sanguin O. Quels sont les génotypes de ces trois individus ?",
+      "de": "Ein Mann mit Blutgruppe A heiratet eine Frau mit Blutgruppe B. Ihr erstes Kind hat Blutgruppe O. Was sind die Genotypen dieser drei Personen?",
+      "ja": "A型の血液を持つ男性がB型の血液を持つ女性と結婚します。彼らの最初の子供はO型の血液です。これら3人の個人の遺伝子型は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Man: IAIA, Woman: IBIB, Child: ii",
+          "zh": "男: IAIA, 女: IBIB, 孩子: ii",
+          "es": "Hombre: IAIA, Mujer: IBIB, Niño: ii",
+          "fr": "Homme : IAIA, Femme : IBIB, Enfant : ii",
+          "de": "Mann: IAIA, Frau: IBIB, Kind: ii",
+          "ja": "男性：IAIA、女性：IBIB、子供：ii"
+        },
+        "feedback": {
+          "en": "If the parents were homozygous (IAIA and IBIB), they could only produce children with genotype IAIB (type AB blood), not type O.",
+          "zh": "如果父母是纯合子（IAIA 和 IBIB），他们只能生出基因型为 IAIB（AB 型血）的孩子，而不能生出 O 型血的孩子。",
+          "es": "Si los padres fueran homocigotos (IAIA e IBIB), solo podrían tener hijos con el genotipo IAIB (sangre tipo AB), no tipo O.",
+          "fr": "Si les parents étaient homozygotes (IAIA et IBIB), ils ne pourraient avoir que des enfants de génotype IAIB (groupe sanguin AB), et non de groupe O.",
+          "de": "Wenn die Eltern homozygot wären (IAIA und IBIB), könnten sie nur Kinder mit dem Genotyp IAIB (Blutgruppe AB) bekommen, nicht Blutgruppe O.",
+          "ja": "両親がホモ接合体（IAIAおよびIBIB）であった場合、彼らはO型ではなく、遺伝子型IAIB（AB型血液）の子供しか産むことができません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Man: IAi, Woman: IBi, Child: ii",
+          "zh": "男: IAi, 女: IBi, 孩子: ii",
+          "es": "Hombre: IAi, Mujer: IBi, Niño: ii",
+          "fr": "Homme : IAi, Femme : IBi, Enfant : ii",
+          "de": "Mann: IAi, Frau: IBi, Kind: ii",
+          "ja": "男性：IAi、女性：IBi、子供：ii"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Man: IAi, Woman: IBIB, Child: ii",
+          "zh": "男: IAi, 女: IBIB, 孩子: ii",
+          "es": "Hombre: IAi, Mujer: IBIB, Niño: ii",
+          "fr": "Homme : IAi, Femme : IBIB, Enfant : ii",
+          "de": "Mann: IAi, Frau: IBIB, Kind: ii",
+          "ja": "男性：IAi、女性：IBIB、子供：ii"
+        },
+        "feedback": {
+          "en": "For the child to be type O (ii), they must inherit a recessive i allele from both parents. A woman with genotype IBIB cannot pass on an i allele.",
+          "zh": "要使孩子成为 O 型（ii），他们必须从父母双方那里都遗传一个隐性 i 等位基因。基因型为 IBIB 的女性无法传递 i 等位基因。",
+          "es": "Para que el niño sea tipo O (ii), debe heredar un alelo recesivo i de ambos padres. Una mujer con el genotipo IBIB no puede transmitir un alelo i.",
+          "fr": "Pour que l'enfant soit de groupe O (ii), il doit hériter d'un allèle récessif i de ses deux parents. Une femme de génotype IBIB ne peut pas transmettre d'allèle i.",
+          "de": "Damit das Kind Blutgruppe O (ii) hat, muss es von beiden Eltern ein rezessives i-Allel erben. Eine Frau mit dem Genotyp IBIB kann kein i-Allel weitergeben.",
+          "ja": "子供がO型（ii）になるためには、両親から劣性i対立遺伝子を受け継ぐ必要があります。遺伝子型IBIBの女性はi対立遺伝子を伝えることができません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Man: IAIA, Woman: IBi, Child: ii",
+          "zh": "男: IAIA, 女: IBi, 孩子: ii",
+          "es": "Hombre: IAIA, Mujer: IBi, Niño: ii",
+          "fr": "Homme : IAIA, Femme : IBi, Enfant : ii",
+          "de": "Mann: IAIA, Frau: IBi, Kind: ii",
+          "ja": "男性：IAIA、女性：IBi、子供：ii"
+        },
+        "feedback": {
+          "en": "For the child to be type O (ii), they must inherit a recessive i allele from both parents. A man with genotype IAIA cannot pass on an i allele.",
+          "zh": "要使孩子成为 O 型（ii），他们必须从父母双方那里都遗传一个隐性 i 等位基因。基因型为 IAIA 的男性无法传递 i 等位基因。",
+          "es": "Para que el niño sea tipo O (ii), debe heredar un alelo recesivo i de ambos padres. Un hombre con el genotipo IAIA no puede transmitir un alelo i.",
+          "fr": "Pour que l'enfant soit de groupe O (ii), il doit hériter d'un allèle récessif i de ses deux parents. Un homme de génotype IAIA ne peut pas transmettre d'allèle i.",
+          "de": "Damit das Kind Blutgruppe O (ii) hat, muss es von beiden Eltern ein rezessives i-Allel erben. Ein Mann mit dem Genotyp IAIA kann kein i-Allel weitergeben.",
+          "ja": "子供がO型（ii）になるためには、両親から劣性i対立遺伝子を受け継ぐ必要があります。遺伝子型IAIAの男性はi対立遺伝子を伝えることができません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The child has type O blood, which means their genotype is ii. To have this genotype, the child must inherit one i allele from each parent. Since the man has type A blood, his genotype must be IAi. Since the woman has type B blood, her genotype must be IBi. Both parents must be heterozygous to produce a type O child.",
+      "zh": "孩子是 O 型血，这意味着他们的基因型是 ii。要拥有这个基因型，孩子必须从每个父母那里遗传一个 i 等位基因。由于该男子是 A 型血，他的基因型必须是 IAi。由于该女子是 B 型血，她的基因型必须是 IBi。父母双方都必须是杂合子才能生出 O 型血的孩子。",
+      "es": "El niño tiene sangre tipo O, lo que significa que su genotipo es ii. Para tener este genotipo, el niño debe heredar un alelo i de cada padre. Como el hombre tiene sangre tipo A, su genotipo debe ser IAi. Como la mujer tiene sangre tipo B, su genotipo debe ser IBi. Ambos padres deben ser heterocigotos para tener un hijo de tipo O.",
+      "fr": "L'enfant est de groupe sanguin O, ce qui signifie que son génotype est ii. Pour avoir ce génotype, l'enfant doit hériter d'un allèle i de chaque parent. Comme l'homme est de groupe sanguin A, son génotype doit être IAi. Comme la femme est de groupe sanguin B, son génotype doit être IBi. Les deux parents doivent être hétérozygotes pour avoir un enfant de groupe O.",
+      "de": "Das Kind hat Blutgruppe O, was bedeutet, dass sein Genotyp ii ist. Um diesen Genotyp zu haben, muss das Kind von jedem Elternteil ein i-Allel erben. Da der Mann Blutgruppe A hat, muss sein Genotyp IAi sein. Da die Frau Blutgruppe B hat, muss ihr Genotyp IBi sein. Beide Eltern müssen heterozygot sein, um ein Kind mit Blutgruppe O zu zeugen.",
+      "ja": "子供はO型の血液を持っているので、その遺伝子型はiiです。この遺伝子型を持つためには、子供は各親からi対立遺伝子を1つずつ受け継ぐ必要があります。男性はA型の血液を持っているので、彼の遺伝子型はIAiでなければなりません。女性はB型の血液を持っているので、彼女の遺伝子型はIBiでなければなりません。O型の子供を産むためには、両親ともヘテロ接合体でなければなりません。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A plant that is heterozygous for three independently assorting genes (flower position, stem length, seed shape) with genotypes AaBbCc is allowed to self-fertilize. What proportion of the offspring would be expected to be homozygous for all three recessive traits (aabbcc)?",
+      "zh": "一株对三个独立分配的基因（花位置、茎长度、种子形状）均为杂合的植物（基因型为 AaBbCc）进行自交。预期后代中三个性状都为纯合隐性（aabbcc）的比例是多少？",
+      "es": "Se permite que una planta heterocigota para tres genes de distribución independiente (posición de la flor, longitud del tallo, forma de la semilla) con genotipos AaBbCc se autofecunde. ¿Qué proporción de la descendencia se esperaría que fuera homocigota para los tres rasgos recesivos (aabbcc)?",
+      "fr": "Une plante hétérozygote pour trois gènes à assortiment indépendant (position de la fleur, longueur de la tige, forme de la graine) de génotypes AaBbCc est autorisée à s'autoféconder. Quelle proportion de la descendance devrait être homozygote pour les trois caractères récessifs (aabbcc) ?",
+      "de": "Eine Pflanze, die für drei unabhängig voneinander vererbte Gene (Blütenposition, Stammlänge, Samenform) mit den Genotypen AaBbCc heterozygot ist, darf sich selbst befruchten. Welcher Anteil der Nachkommen wäre voraussichtlich für alle drei rezessiven Merkmale homozygot (aabbcc)?",
+      "ja": "3つの独立して分離する遺伝子（花の位置、茎の長さ、種子の形）に対してヘテロ接合である植物（遺伝子型AaBbCc）を自家受精させます。子孫のうち、3つの劣性形質すべてについてホモ接合（aabbcc）であると予想される割合はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1/64",
+          "zh": "1/64",
+          "es": "1/64",
+          "fr": "1/64",
+          "de": "1/64",
+          "ja": "1/64"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "1/32",
+          "zh": "1/32",
+          "es": "1/32",
+          "fr": "1/32",
+          "de": "1/32",
+          "ja": "1/32"
+        },
+        "feedback": {
+          "en": "This is not the correct probability. Re-calculate the probability for each gene separately and then multiply them.",
+          "zh": "这不是正确的概率。请重新分别计算每个基因的概率，然后将它们相乘。",
+          "es": "Esta no es la probabilidad correcta. Vuelva a calcular la probabilidad para cada gen por separado y luego multiplíquelas.",
+          "fr": "Ce n'est pas la bonne probabilité. Recalculez la probabilité pour chaque gène séparément, puis multipliez-les.",
+          "de": "Dies ist nicht die korrekte Wahrscheinlichkeit. Berechnen Sie die Wahrscheinlichkeit für jedes Gen separat neu und multiplizieren Sie sie dann.",
+          "ja": "これは正しい確率ではありません。各遺伝子の確率を個別に再計算し、それらを乗算してください。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "1/16",
+          "zh": "1/16",
+          "es": "1/16",
+          "fr": "1/16",
+          "de": "1/16",
+          "ja": "1/16"
+        },
+        "feedback": {
+          "en": "This would be the probability of being homozygous recessive for two genes (e.g., aabb), not three.",
+          "zh": "这可能是两个基因（例如 aabb）为纯合隐性的概率，而不是三个。",
+          "es": "Esta sería la probabilidad de ser homocigoto recesivo para dos genes (p. ej., aabb), no tres.",
+          "fr": "Ce serait la probabilité d'être homozygote récessif pour deux gènes (par exemple, aabb), et non trois.",
+          "de": "Dies wäre die Wahrscheinlichkeit, für zwei Gene (z. B. aabb) homozygot rezessiv zu sein, nicht für drei.",
+          "ja": "これは、3つではなく2つの遺伝子（例：aabb）についてホモ接合劣性である確率です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "1/8",
+          "zh": "1/8",
+          "es": "1/8",
+          "fr": "1/8",
+          "de": "1/8",
+          "ja": "1/8"
+        },
+        "feedback": {
+          "en": "This might be the probability of being heterozygous for all three genes (AaBbCc).",
+          "zh": "这可能是三个基因都为杂合子（AaBbCc）的概率。",
+          "es": "Esta podría ser la probabilidad de ser heterocigoto para los tres genes (AaBbCc).",
+          "fr": "Ce pourrait être la probabilité d'être hétérozygote pour les trois gènes (AaBbCc).",
+          "de": "Dies könnte die Wahrscheinlichkeit sein, für alle drei Gene heterozygot zu sein (AaBbCc).",
+          "ja": "これは、3つの遺伝子すべてについてヘテロ接合（AaBbCc）である確率かもしれません。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "For each gene, the cross is Aa x Aa. The probability of getting a homozygous recessive offspring (aa) from this cross is 1/4. Since the three genes assort independently, we can use the multiplication rule. The probability of getting aabbcc is P(aa) * P(bb) * P(cc) = (1/4) * (1/4) * (1/4) = 1/64.",
+      "zh": "对于每个基因，杂交都是 Aa x Aa。从这个杂交中获得纯合隐性后代（aa）的概率是 1/4。由于这三个基因是独立分配的，我们可以使用乘法法则。获得 aabbcc 的概率是 P(aa) * P(bb) * P(cc) = (1/4) * (1/4) * (1/4) = 1/64。",
+      "es": "Para cada gen, el cruce es Aa x Aa. La probabilidad de obtener una descendencia homocigota recesiva (aa) de este cruce es 1/4. Como los tres genes se distribuyen de forma independiente, podemos usar la regla de la multiplicación. La probabilidad de obtener aabbcc es P(aa) * P(bb) * P(cc) = (1/4) * (1/4) * (1/4) = 1/64.",
+      "fr": "Pour chaque gène, le croisement est Aa x Aa. La probabilité d'obtenir une descendance homozygote récessive (aa) à partir de ce croisement est de 1/4. Puisque les trois gènes s'assortissent indépendamment, nous pouvons utiliser la règle de multiplication. La probabilité d'obtenir aabbcc est P(aa) * P(bb) * P(cc) = (1/4) * (1/4) * (1/4) = 1/64.",
+      "de": "Für jedes Gen ist die Kreuzung Aa x Aa. Die Wahrscheinlichkeit, aus dieser Kreuzung einen homozygot rezessiven Nachkommen (aa) zu erhalten, beträgt 1/4. Da die drei Gene unabhängig voneinander vererbt werden, können wir die Multiplikationsregel anwenden. Die Wahrscheinlichkeit, aabbcc zu erhalten, ist P(aa) * P(bb) * P(cc) = (1/4) * (1/4) * (1/4) = 1/64.",
+      "ja": "各遺伝子について、交配はAa x Aaです。この交配からホモ接合劣性の子孫（aa）を得る確率は1/4です。3つの遺伝子は独立して分離するため、乗法の法則を使用できます。aabbccを得る確率は、P（aa）* P（bb）* P（cc）=（1/4）*（1/4）*（1/4）= 1/64です。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Hemochromatosis is a recessive inherited disease. A husband and wife are both carriers. If they have three children, what is the probability that one or more of the children will have the disease?",
+      "zh": "血色沉着病是一种隐性遗传病。一对夫妇都是携带者。如果他们有三个孩子，那么一个或多个孩子患有该病的概率是多少？",
+      "es": "La hemocromatosis es una enfermedad hereditaria recesiva. Un esposo y una esposa son ambos portadores. Si tienen tres hijos, ¿cuál es la probabilidad de que uno o más de los hijos tengan la enfermedad?",
+      "fr": "L'hémochromatose est une maladie héréditaire récessive. Un mari et sa femme sont tous deux porteurs. S'ils ont trois enfants, quelle est la probabilité qu'un ou plusieurs des enfants soient atteints de la maladie ?",
+      "de": "Hämochromatose ist eine rezessiv vererbte Krankheit. Ein Ehemann und eine Ehefrau sind beide Träger. Wenn sie drei Kinder haben, wie hoch ist die Wahrscheinlichkeit, dass eines oder mehrere der Kinder die Krankheit haben?",
+      "ja": "ヘモクロマトーシスは劣性遺伝性疾患です。夫婦はどちらも保因者です。彼らに3人の子供がいる場合、1人以上の子供がその病気にかかる確率はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "27/64",
+          "zh": "27/64",
+          "es": "27/64",
+          "fr": "27/64",
+          "de": "27/64",
+          "ja": "27/64"
+        },
+        "feedback": {
+          "en": "This is the probability that all three children are of normal phenotype (3/4 * 3/4 * 3/4). The question asks for the opposite outcome.",
+          "zh": "这是三个孩子表型都正常（3/4 * 3/4 * 3/4）的概率。问题问的是相反的结果。",
+          "es": "Esta es la probabilidad de que los tres hijos tengan un fenotipo normal (3/4 * 3/4 * 3/4). La pregunta pide el resultado opuesto.",
+          "fr": "C'est la probabilité que les trois enfants soient de phénotype normal (3/4 * 3/4 * 3/4). La question demande le résultat opposé.",
+          "de": "Dies ist die Wahrscheinlichkeit, dass alle drei Kinder einen normalen Phänotyp haben (3/4 * 3/4 * 3/4). Die Frage fragt nach dem gegenteiligen Ergebnis.",
+          "ja": "これは、3人の子供全員が正常な表現型である確率（3/4 * 3/4 * 3/4）です。質問は反対の結果を尋ねています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "1/64",
+          "zh": "1/64",
+          "es": "1/64",
+          "fr": "1/64",
+          "de": "1/64",
+          "ja": "1/64"
+        },
+        "feedback": {
+          "en": "This is the probability that all three children have the disease (1/4 * 1/4 * 1/4).",
+          "zh": "这是三个孩子都患有该病（1/4 * 1/4 * 1/4）的概率。",
+          "es": "Esta es la probabilidad de que los tres hijos tengan la enfermedad (1/4 * 1/4 * 1/4).",
+          "fr": "C'est la probabilité que les trois enfants soient atteints de la maladie (1/4 * 1/4 * 1/4).",
+          "de": "Dies ist die Wahrscheinlichkeit, dass alle drei Kinder die Krankheit haben (1/4 * 1/4 * 1/4).",
+          "ja": "これは、3人の子供全員がその病気にかかる確率（1/4 * 1/4 * 1/4）です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "3/4",
+          "zh": "3/4",
+          "es": "3/4",
+          "fr": "3/4",
+          "de": "3/4",
+          "ja": "3/4"
+        },
+        "feedback": {
+          "en": "This is the probability that a single child is of normal phenotype.",
+          "zh": "这是一个孩子表型正常的概率。",
+          "es": "Esta es la probabilidad de que un solo niño tenga un fenotipo normal.",
+          "fr": "C'est la probabilité qu'un seul enfant soit de phénotype normal.",
+          "de": "Dies ist die Wahrscheinlichkeit, dass ein einzelnes Kind einen normalen Phänotyp hat.",
+          "ja": "これは、1人の子供が正常な表現型である確率です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "37/64",
+          "zh": "37/64",
+          "es": "37/64",
+          "fr": "37/64",
+          "de": "37/64",
+          "ja": "37/64"
+        }
+      }
+    ],
+    "correct_answers": ["D"],
+    "explanation": {
+      "en": "This is a complementary probability problem. First, calculate the probability of the opposite event: that ALL three children are of normal phenotype. For each child, the probability of being normal is 3/4. So, the probability of all three being normal is (3/4) * (3/4) * (3/4) = 27/64. The probability of at least one child having the disease is 1 minus the probability that none have it. So, P(at least one affected) = 1 - P(all normal) = 1 - 27/64 = 37/64.",
+      "zh": "这是一个互补概率问题。首先，计算相反事件的概率：即所有三个孩子表型都正常。对于每个孩子，表型正常的概率是 3/4。所以，所有三个孩子都正常的概率是 (3/4) * (3/4) * (3/4) = 27/64。至少一个孩子患病的概率是 1 减去所有孩子都正常的概率。所以，P(至少一个患病) = 1 - P(全部正常) = 1 - 27/64 = 37/64。",
+      "es": "Este es un problema de probabilidad complementaria. Primero, calcule la probabilidad del evento opuesto: que TODOS los tres hijos tengan un fenotipo normal. Para cada hijo, la probabilidad de ser normal es 3/4. Entonces, la probabilidad de que los tres sean normales es (3/4) * (3/4) * (3/4) = 27/64. La probabilidad de que al menos un hijo tenga la enfermedad es 1 menos la probabilidad de que ninguno la tenga. Entonces, P(al menos un afectado) = 1 - P(todos normales) = 1 - 27/64 = 37/64.",
+      "fr": "C'est un problème de probabilité complémentaire. Tout d'abord, calculez la probabilité de l'événement opposé : que TOUS les trois enfants soient de phénotype normal. Pour chaque enfant, la probabilité d'être normal est de 3/4. Ainsi, la probabilité que les trois soient normaux est de (3/4) * (3/4) * (3/4) = 27/64. La probabilité qu'au moins un enfant soit atteint de la maladie est de 1 moins la probabilité qu'aucun ne l'ait. Donc, P(au moins un atteint) = 1 - P(tous normaux) = 1 - 27/64 = 37/64.",
+      "de": "Dies ist ein komplementäres Wahrscheinlichkeitsproblem. Berechnen Sie zunächst die Wahrscheinlichkeit des gegenteiligen Ereignisses: dass ALLE drei Kinder einen normalen Phänotyp haben. Für jedes Kind beträgt die Wahrscheinlichkeit, normal zu sein, 3/4. Die Wahrscheinlichkeit, dass alle drei normal sind, beträgt also (3/4) * (3/4) * (3/4) = 27/64. Die Wahrscheinlichkeit, dass mindestens ein Kind die Krankheit hat, ist 1 minus der Wahrscheinlichkeit, dass keines sie hat. Also, P(mindestens ein Betroffener) = 1 - P(alle normal) = 1 - 27/64 = 37/64.",
+      "ja": "これは補完的な確率の問題です。まず、反対の事象の確率を計算します。つまり、3人の子供全員が正常な表現型である確率です。各子供について、正常である確率は3/4です。したがって、3人全員が正常である確率は（3/4）*（3/4）*（3/4）= 27/64です。少なくとも1人の子供が病気にかかる確率は、誰もかからない確率を1から引いたものです。したがって、P（少なくとも1人が罹患）= 1 - P（全員が正常）= 1 - 27/64 = 37/64です。"
+    }
+  }
+]

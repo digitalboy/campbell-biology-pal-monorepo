@@ -1,0 +1,182 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In snapdragons, the F1 generation from a cross between a red-flowered plant (CRCR) and a white-flowered plant (CWCW) has pink flowers. What is the phenotypic ratio when these F1 hybrids are interbred?",
+      "zh": "在金鱼草中，红花植株（CRCR）和白花植株（CWCW）杂交产生的F1代是粉红色的。当这些F1代杂合子自交时，表现型比例是多少？",
+      "es": "En los dragones, la generación F1 de un cruce entre una planta de flores rojas (CRCR) y una planta de flores blancas (CWCW) tiene flores rosadas. ¿Cuál es la proporción fenotípica cuando estos híbridos F1 se cruzan entre sí?",
+      "fr": "Chez les mufliers, la génération F1 issue d'un croisement entre une plante à fleurs rouges (CRCR) et une plante à fleurs blanches (CWCW) a des fleurs roses. Quel est le rapport phénotypique lorsque ces hybrides F1 sont croisés entre eux ?",
+      "de": "Bei Löwenmäulchen hat die F1-Generation aus einer Kreuzung zwischen einer rotblühenden Pflanze (CRCR) und einer weißblühenden Pflanze (CWCW) rosa Blüten. Wie ist das phänotypische Verhältnis, wenn diese F1-Hybriden gekreuzt werden?",
+      "ja": "キンギョソウでは、赤い花の植物（CRCR）と白い花の植物（CWCW）の交配から得られるF1世代はピンク色の花を持ちます。これらのF1雑種を自家交配した場合の表現型の比率はどうなりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "3 red : 1 white",
+          "zh": "3 红色 : 1 白色",
+          "es": "3 rojo : 1 blanco",
+          "fr": "3 rouge : 1 blanc",
+          "de": "3 rot : 1 weiß",
+          "ja": "3 赤 : 1 白"
+        },
+        "feedback": {
+          "en": "This ratio is characteristic of complete dominance, not incomplete dominance.",
+          "zh": "这个比例是完全显性的特征，而不是不完全显性。",
+          "es": "Esta proporción es característica de la dominancia completa, no de la dominancia incompleta.",
+          "fr": "Ce rapport est caractéristique de la dominance complète, et non de la dominance incomplète.",
+          "de": "Dieses Verhältnis ist charakteristisch für vollständige Dominanz, nicht für unvollständige Dominanz.",
+          "ja": "この比率は、不完全優性ではなく、完全優性の特徴です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "1 red : 2 pink : 1 white",
+          "zh": "1 红色 : 2 粉色 : 1 白色",
+          "es": "1 rojo : 2 rosa : 1 blanco",
+          "fr": "1 rouge : 2 rose : 1 blanc",
+          "de": "1 rot : 2 rosa : 1 weiß",
+          "ja": "1 赤 : 2 ピンク : 1 白"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "All pink",
+          "zh": "全部粉色",
+          "es": "Todo rosa",
+          "fr": "Tout rose",
+          "de": "Alles rosa",
+          "ja": "すべてピンク"
+        },
+        "feedback": {
+          "en": "All pink flowers are seen in the F1 generation. The F2 generation shows segregation of the red and white alleles.",
+          "zh": "所有粉红色的花都出现在F1代。F2代显示出红色和白色等位基因的分离。",
+          "es": "Todas las flores rosadas se ven en la generación F1. La generación F2 muestra la segregación de los alelos rojo y blanco.",
+          "fr": "Toutes les fleurs roses sont observées dans la génération F1. La génération F2 montre une ségrégation des allèles rouges et blancs.",
+          "de": "Alle rosa Blüten sind in der F1-Generation zu sehen. Die F2-Generation zeigt die Segregation der roten und weißen Allele.",
+          "ja": "すべてのピンク色の花はF1世代で見られます。F2世代では、赤と白の対立遺伝子の分離が見られます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "1 red : 1 white",
+          "zh": "1 红色 : 1 白色",
+          "es": "1 rojo : 1 blanco",
+          "fr": "1 rouge : 1 blanc",
+          "de": "1 rot : 1 weiß",
+          "ja": "1 赤 : 1 白"
+        },
+        "feedback": {
+          "en": "This ratio would be expected from a testcross (e.g., CRCW x CWCW), not an interbreeding of F1 hybrids.",
+          "zh": "这个比例是测交（例如CRCW x CWCW）的预期结果，而不是F1代杂合子自交的结果。",
+          "es": "Esta proporción se esperaría de un cruzamiento de prueba (p. ej., CRCW x CWCW), no de un entrecruzamiento de híbridos F1.",
+          "fr": "Ce rapport serait attendu d'un croisement test (par exemple, CRCW x CWCW), et non d'un croisement entre hybrides F1.",
+          "de": "Dieses Verhältnis wäre von einer Testkreuzung (z. B. CRCW x CWCW) zu erwarten, nicht von einer Kreuzung von F1-Hybriden.",
+          "ja": "この比率は、F1雑種の自家交配ではなく、検定交雑（例：CRCW x CWCW）から期待されます。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text and Figure 14.10 show that for incomplete dominance, the F2 generation has a phenotypic ratio of 1 red (CRCR) : 2 pink (CRCW) : 1 white (CWCW). This is because the heterozygote has a distinct, intermediate phenotype.",
+      "zh": "文本和图14.10显示，对于不完全显性，F2代的表现型比例为1红色（CRCR）: 2粉色（CRCW）: 1白色（CWCW）。这是因为杂合子具有独特的中间表现型。",
+      "es": "El texto y la Figura 14.10 muestran que para la dominancia incompleta, la generación F2 tiene una proporción fenotípica de 1 rojo (CRCR) : 2 rosa (CRCW) : 1 blanco (CWCW). Esto se debe a que el heterocigoto tiene un fenotipo distinto e intermedio.",
+      "fr": "Le texte et la figure 14.10 montrent que pour la dominance incomplète, la génération F2 a un rapport phénotypique de 1 rouge (CRCR) : 2 rose (CRCW) : 1 blanc (CWCW). C'est parce que l'hétérozygote a un phénotype distinct et intermédiaire.",
+      "de": "Der Text und Abbildung 14.10 zeigen, dass bei unvollständiger Dominanz die F2-Generation ein phänotypisches Verhältnis von 1 rot (CRCR) : 2 rosa (CRCW) : 1 weiß (CWCW) aufweist. Dies liegt daran, dass der Heterozygot einen ausgeprägten, intermediären Phänotyp hat.",
+      "ja": "本文と図14.10は、不完全優性の場合、F2世代の表現型比が1赤（CRCR）：2ピンク（CRCW）：1白（CWCW）になることを示しています。これは、ヘテロ接合体が明確な中間表現型を持つためです。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "How does codominance differ from incomplete dominance?",
+      "zh": "共显性与不完全显性有何不同？",
+      "es": "¿En qué se diferencia la codominancia de la dominancia incompleta?",
+      "fr": "En quoi la codominance diffère-t-elle de la dominance incomplète ?",
+      "de": "Wie unterscheidet sich Kodominanz von unvollständiger Dominanz?",
+      "ja": "共優性は不完全優性とどのように異なりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "In codominance, the heterozygote phenotype is intermediate between the two parental phenotypes; in incomplete dominance, both parental phenotypes are exhibited.",
+          "zh": "在共显性中，杂合子的表现型介于两个亲本表现型之间；在不完全显性中，两个亲本的表现型都表现出来。",
+          "es": "En la codominancia, el fenotipo heterocigoto es intermedio entre los dos fenotipos parentales; en la dominancia incompleta, se exhiben ambos fenotipos parentales.",
+          "fr": "Dans la codominance, le phénotype hétérozygote est intermédiaire entre les deux phénotypes parentaux ; dans la dominance incomplète, les deux phénotypes parentaux sont exprimés.",
+          "de": "Bei der Kodominanz ist der heterozygote Phänotyp intermediär zwischen den beiden elterlichen Phänotypen; bei unvollständiger Dominanz werden beide elterlichen Phänotypen ausgeprägt.",
+          "ja": "共優性では、ヘテロ接合体の表現型は両親の表現型の中間です。不完全優性では、両親の表現型の両方が現れます。"
+        },
+        "feedback": {
+          "en": "This statement reverses the definitions of the two terms.",
+          "zh": "这个陈述颠倒了这两个术语的定义。",
+          "es": "Esta afirmación invierte las definiciones de los dos términos.",
+          "fr": "Cette déclaration inverse les définitions des deux termes.",
+          "de": "Diese Aussage kehrt die Definitionen der beiden Begriffe um.",
+          "ja": "この記述は、2つの用語の定義を逆にしています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "In incomplete dominance, the heterozygote phenotype is intermediate; in codominance, both parental phenotypes are exhibited separately.",
+          "zh": "在不完全显性中，杂合子的表现型是中间类型；在共显性中，两个亲本的表现型分别都表现出来。",
+          "es": "En la dominancia incompleta, el fenotipo heterocigoto es intermedio; en la codominancia, ambos fenotipos parentales se exhiben por separado.",
+          "fr": "Dans la dominance incomplète, le phénotype hétérozygote est intermédiaire ; dans la codominance, les deux phénotypes parentaux sont exprimés séparément.",
+          "de": "Bei unvollständiger Dominanz ist der heterozygote Phänotyp intermediär; bei Kodominanz werden beide elterlichen Phänotypen getrennt ausgeprägt.",
+          "ja": "不完全優性では、ヘテロ接合体の表現型は中間です。共優性では、両親の表現型の両方が別々に現れます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Codominance occurs in plants, while incomplete dominance occurs in animals.",
+          "zh": "共显性发生在植物中，而不完全显性发生在动物中。",
+          "es": "La codominancia ocurre en las plantas, mientras que la dominancia incompleta ocurre en los animales.",
+          "fr": "La codominance se produit chez les plantes, tandis que la dominance incomplète se produit chez les animaux.",
+          "de": "Kodominanz tritt bei Pflanzen auf, während unvollständige Dominanz bei Tieren auftritt.",
+          "ja": "共優性は植物で起こり、不完全優性は動物で起こります。"
+        },
+        "feedback": {
+          "en": "The examples given (snapdragons for incomplete dominance, human blood groups for codominance) show that this is not a correct distinction.",
+          "zh": "所给的例子（金鱼草的不完全显性，人类血型的共显性）表明这不是一个正确的区分。",
+          "es": "Los ejemplos dados (dragones para la dominancia incompleta, grupos sanguíneos humanos para la codominancia) muestran que esta no es una distinción correcta.",
+          "fr": "Les exemples donnés (mufliers pour la dominance incomplète, groupes sanguins humains pour la codominance) montrent que ce n'est pas une distinction correcte.",
+          "de": "Die angegebenen Beispiele (Löwenmäulchen für unvollständige Dominanz, menschliche Blutgruppen für Kodominanz) zeigen, dass dies keine korrekte Unterscheidung ist.",
+          "ja": "与えられた例（不完全優性のキンギョソウ、共優性のヒトの血液型）は、これが正しい区別ではないことを示しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "There is no difference; they are two terms for the same phenomenon.",
+          "zh": "没有区别；它们是同一现象的两个术语。",
+          "es": "No hay diferencia; son dos términos para el mismo fenómeno.",
+          "fr": "Il n'y a pas de différence ; ce sont deux termes pour le même phénomène.",
+          "de": "Es gibt keinen Unterschied; es sind zwei Begriffe für dasselbe Phänomen.",
+          "ja": "違いはありません。それらは同じ現象を表す2つの用語です。"
+        },
+        "feedback": {
+          "en": "The text clearly defines them as two different variations on dominance relationships.",
+          "zh": "文本明确地将它们定义为显性关系的两种不同变体。",
+          "es": "El texto los define claramente como dos variaciones diferentes en las relaciones de dominancia.",
+          "fr": "Le texte les définit clairement comme deux variations différentes des relations de dominance.",
+          "de": "Der Text definiert sie klar als zwei verschiedene Variationen von Dominanzbeziehungen.",
+          "ja": "本文では、それらを優性関係の2つの異なるバリエーションとして明確に定義しています。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text defines incomplete dominance as when the F1 hybrid has a phenotype 'somewhere between' the parents (e.g., pink flowers from red and white). It defines codominance as when 'the two alleles each affect the phenotype in separate, distinguishable ways' (e.g., both M and N molecules are present in the MN blood group).",
+      "zh": "文本将不完全显性定义为F1代杂合子具有介于亲本之间的表现型（例如，红色和白色产生粉色花）。它将共显性定义为“两个等位基因以分离、可区分的方式各自影响表现型”（例如，MN血型中同时存在M和N分子）。",
+      "es": "El texto define la dominancia incompleta como cuando el híbrido F1 tiene un fenotipo 'en algún punto intermedio' entre los padres (p. ej., flores rosadas de rojo y blanco). Define la codominancia como cuando 'los dos alelos afectan cada uno al fenotipo de maneras separadas y distinguibles' (p. ej., ambas moléculas M y N están presentes en el grupo sanguíneo MN).",
+      "fr": "Le texte définit la dominance incomplète comme le cas où l'hybride F1 a un phénotype « quelque part entre » les parents (par exemple, des fleurs roses à partir de rouge et de blanc). Il définit la codominance comme le cas où « les deux allèles affectent chacun le phénotype de manière distincte et reconnaissable » (par exemple, les molécules M et N sont toutes deux présentes dans le groupe sanguin MN).",
+      "de": "Der Text definiert unvollständige Dominanz als wenn der F1-Hybrid einen Phänotyp „irgendwo zwischen“ den Eltern hat (z. B. rosa Blüten aus rot und weiß). Er definiert Kodominanz als wenn „die beiden Allele jeweils den Phänotyp auf getrennte, unterscheidbare Weise beeinflussen“ (z. B. sind sowohl M- als auch N-Moleküle in der MN-Blutgruppe vorhanden).",
+      "ja": "本文では、不完全優性を、F1雑種が両親の「中間」の表現型を持つ場合（例：赤と白からピンクの花）と定義しています。共優性は、「2つの対立遺伝子がそれぞれ別個の、区別可能な方法で表現型に影響を与える」場合（例：MN血液型ではMとNの両方の分子が存在する）と定義しています。"
+    }
+  }
+]

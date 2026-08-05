@@ -1,0 +1,359 @@
+[
+  {
+    "page_number": 629,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which component is primarily responsible for the initial attachment between E. coli donor and recipient cells during bacterial conjugation, and what specific genetic element enables the donor cell to form this structure?",
+      "zh": "在细菌接合过程中，大肠杆菌供体细胞和受体细胞之间初始附着的主要负责组件是什么？以及哪个特定的遗传元件使供体细胞能够形成这种结构？",
+      "es": "¿Qué componente es el principal responsable de la unión inicial entre las células donante y receptora de E. coli durante la conjugación bacteriana, y qué elemento genético específico permite a la célula donante formar esta estructura?",
+      "fr": "Quel composant est principalement responsable de l'attachement initial entre les cellules donneuse et receveuse d'E. coli pendant la conjugaison bactérienne, et quel élément génétique spécifique permet à la cellule donneuse de former cette structure ?",
+      "de": "Welche Komponente ist hauptsächlich für die anfängliche Anheftung zwischen E. coli-Donor- und Rezipientenzellen während der bakteriellen Konjugation verantwortlich, und welches spezifische genetische Element ermöglicht der Donor Zelle, diese Struktur zu bilden?",
+      "ja": "細菌の接合中に、大腸菌のドナー細胞とレシピエント細胞間の初期の付着を主に担うコンポーネントは何ですか？また、ドナー細胞がこの構造を形成することを可能にする特定の遺伝要素は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Pilus; F factor",
+          "zh": "菌毛；F因子",
+          "es": "Pili; Factor F",
+          "fr": "Pilier; Facteur F",
+          "de": "Pilus; F-Faktor",
+          "ja": "線毛; F因子"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Flagellum; plasmid",
+          "zh": "鞭毛；质粒",
+          "es": "Flagelo; plásmido",
+          "fr": "Flagelle; plasmide",
+          "de": "Flagellum; Plasmid",
+          "ja": "鞭毛; プラスミド"
+        },
+        "feedback": {
+          "en": "Flagella are primarily for motility, not attachment in conjugation. While the F factor is a plasmid, 'plasmid' is too general.",
+          "zh": "鞭毛主要用于运动，而不是接合中的附着。虽然F因子是一种质粒，但“质粒”这个词过于笼统。",
+          "es": "Los flagelos son principalmente para la motilidad, no para la unión en la conjugación. Aunque el factor F es un plásmido, 'plásmido' es demasiado general.",
+          "fr": "Les flagelles sont principalement destinés à la motilité, pas à l'attachement lors de la conjugaison. Bien que le facteur F soit un plasmide, 'plasmide' est trop général.",
+          "de": "Geißeln dienen hauptsächlich der Motilität, nicht der Anheftung bei der Konjugation. Obwohl der F-Faktor ein Plasmid ist, ist 'Plasmid' zu allgemein.",
+          "ja": "鞭毛は主に運動のためであり、接合における付着のためではありません。F因子はプラスミドですが、「プラスミド」は広範すぎます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Mating bridge; bacterial chromosome",
+          "zh": "接合桥；细菌染色体",
+          "es": "Puente de apareamiento; cromosoma bacteriano",
+          "fr": "Pont de conjugaison; chromosome bactérien",
+          "de": "Konjugationsbrücke; Bakterienchromosom",
+          "ja": "接合橋; 細菌染色体"
+        },
+        "feedback": {
+          "en": "The mating bridge forms after pilus retraction, and the bacterial chromosome is the main genetic material, not the element responsible for pilus formation.",
+          "zh": "接合桥是在菌毛收缩后形成的，细菌染色体是主要的遗传物质，而不是负责菌毛形成的元件。",
+          "es": "El puente de apareamiento se forma después de la retracción del pili, y el cromosoma bacteriano es el principal material genético, no el elemento responsable de la formación del pili.",
+          "fr": "Le pont de conjugaison se forme après la rétraction du pilus, et le chromosome bactérien est le principal matériel génétique, non l'élément responsable de la formation du pilus.",
+          "de": "Die Konjugationsbrücke bildet sich nach dem Rückzug des Pilus, und das Bakterienchromosom ist das Hauptgenmaterial, nicht das Element, das für die Pilusbildung verantwortlich ist.",
+          "ja": "接合橋は線毛の収縮後に形成され、細菌染色体は主要な遺伝物質であり、線毛形成を担う要素ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Cell wall; R plasmid",
+          "zh": "细胞壁；R质粒",
+          "es": "Pared celular; plásmido R",
+          "fr": "Paroi cellulaire; plasmide R",
+          "de": "Zellwand; R-Plasmid",
+          "ja": "細胞壁; Rプラスミド"
+        },
+        "feedback": {
+          "en": "The cell wall is a structural component, not directly involved in active attachment for DNA transfer. R plasmids confer antibiotic resistance, not necessarily pilus formation.",
+          "zh": "细胞壁是结构组件，不直接参与DNA转移的主动附着。R质粒赋予抗生素抗性，不一定形成菌毛。",
+          "es": "La pared celular es un componente estructural, no directamente involucrado en la unión activa para la transferencia de ADN. Los plásmidos R confieren resistencia a los antibióticos, no necesariamente la formación de pili.",
+          "fr": "La paroi cellulaire est un composant structurel, non directement impliqué dans l'attachement actif pour le transfert d'ADN. Les plasmides R confèrent une résistance aux antibiotiques, pas nécessairement la formation de pilus.",
+          "de": "Die Zellwand ist eine strukturelle Komponente, die nicht direkt an der aktiven Anheftung für den DNA-Transfer beteiligt ist. R-Plasmide verleihen Antibiotikaresistenz, nicht unbedingt die Pilusbildung.",
+          "ja": "細胞壁は構造コンポーネントであり、DNA転送のための能動的な付着に直接関与しません。Rプラスミドは抗生物質耐性を付与しますが、線毛形成とは限りません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Figure 27.12 and the accompanying text state that the pilus extends from the donor cell to attach to the recipient cell, and that the F factor (F for fertility) is responsible for the ability to form pili and donate DNA during conjugation.",
+      "zh": "图27.12及相关文本指出，菌毛从供体细胞伸出并附着到受体细胞，并且F因子（F代表生育力）负责在接合过程中形成菌毛和捐献DNA的能力。",
+      "es": "La Figura 27.12 y el texto adjunto indican que el pili se extiende desde la célula donante para unirse a la célula receptora, y que el factor F (F de fertilidad) es responsable de la capacidad de formar pili y donar ADN durante la conjugación.",
+      "fr": "La figure 27.12 et le texte accompagnant indiquent que le pilus s'étend de la cellule donneuse pour s'attacher à la cellule receveuse, et que le facteur F (F pour fertilité) est responsable de la capacité à former des pilis et à donner de l'ADN pendant la conjugaison.",
+      "de": "Abbildung 27.12 und der begleitende Text besagen, dass der Pilus von der Donor Zelle ausgeht, um sich an die Rezipientenzelle anzuheften, und dass der F-Faktor (F für Fruchtbarkeit) für die Fähigkeit zur Pilusbildung und DNA-Spende während der Konjugation verantwortlich ist.",
+      "ja": "図27.12および付随するテキストによると、線毛はドナー細胞から伸びてレシピエント細胞に付着し、F因子（Fは生殖能力のF）が接合中の線毛形成とDNA供与の能力を担っています。"
+    }
+  },
+  {
+    "page_number": 629,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "How do the typical outcomes for the recipient cell differ between F plasmid conjugation (Figure 27.13a) and Hfr conjugation (Figure 27.13b)?",
+      "zh": "F质粒接合（图27.13a）和Hfr接合（图27.13b）对受体细胞的典型结果有何不同？",
+      "es": "¿Cómo difieren los resultados típicos para la célula receptora entre la conjugación del plásmido F (Figura 27.13a) y la conjugación Hfr (Figura 27.13b)?",
+      "fr": "Comment les résultats typiques pour la cellule receveuse diffèrent-ils entre la conjugaison du plasmide F (Figure 27.13a) et la conjugaison Hfr (Figure 27.13b) ?",
+      "de": "Wie unterscheiden sich die typischen Ergebnisse für die Rezipientenzelle zwischen der F-Plasmid-Konjugation (Abbildung 27.13a) und der Hfr-Konjugation (Abbildung 27.13b)?",
+      "ja": "Fプラスミド接合（図27.13a）とHfr接合（図27.13b）では、レシピエント細胞に対する典型的な結果はどのように異なりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "In F plasmid conjugation, the recipient typically becomes F+, while in Hfr conjugation, it usually remains F- but acquires new chromosomal genes.",
+          "zh": "在F质粒接合中，受体通常变为F+；而在Hfr接合中，受体通常保持F-，但获得新的染色体基因。",
+          "es": "En la conjugación del plásmido F, la receptora normalmente se convierte en F+, mientras que en la conjugación Hfr, generalmente permanece F- pero adquiere nuevos genes cromosómicos.",
+          "fr": "Dans la conjugaison du plasmide F, la cellule receveuse devient typiquement F+, tandis que dans la conjugaison Hfr, elle reste généralement F- mais acquiert de nouveaux gènes chromosomiques.",
+          "de": "Bei der F-Plasmid-Konjugation wird die Rezipientenzelle typischerweise F+, während sie bei der Hfr-Konjugation normalerweise F- bleibt, aber neue chromosomale Gene erwirbt.",
+          "ja": "Fプラスミド接合では、レシピエントは通常F+になりますが、Hfr接合では、通常F-のままで、新しい染色体遺伝子を獲得します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Both F plasmid and Hfr conjugation consistently result in the recipient cell becoming F+.",
+          "zh": "F质粒接合和Hfr接合都会使受体细胞始终变为F+。",
+          "es": "Ambas conjugaciones, la del plásmido F y la Hfr, resultan consistentemente en que la célula receptora se vuelve F+.",
+          "fr": "Les conjugaisons du plasmide F et Hfr entraînent toutes deux systématiquement la transformation de la cellule receveuse en F+.",
+          "de": "Sowohl die F-Plasmid- als auch die Hfr-Konjugation führen konsequent dazu, dass die Rezipientenzelle F+ wird.",
+          "ja": "Fプラスミド接合とHfr接合の両方が、レシピエント細胞がF+になるという結果を一貫して引き起こします。"
+        },
+        "feedback": {
+          "en": "Hfr conjugation rarely transfers the complete F factor, so the recipient usually remains F-.",
+          "zh": "Hfr接合很少能完整转移F因子，因此受体通常保持F-。",
+          "es": "La conjugación Hfr rara vez transfiere el factor F completo, por lo que la receptora generalmente permanece F-.",
+          "fr": "La conjugaison Hfr transfère rarement le facteur F complet, de sorte que la cellule receveuse reste généralement F-.",
+          "de": "Die Hfr-Konjugation überträgt selten den vollständigen F-Faktor, daher bleibt die Rezipientenzelle in der Regel F-.",
+          "ja": "Hfr接合では完全なF因子が転送されることは稀であるため、レシピエントは通常F-のままです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "In F plasmid conjugation, only bacterial chromosome genes are transferred, whereas in Hfr conjugation, only the F factor is transferred.",
+          "zh": "在F质粒接合中，只转移细菌染色体基因；而在Hfr接合中，只转移F因子。",
+          "es": "En la conjugación del plásmido F, solo se transfieren genes del cromosoma bacteriano, mientras que en la conjugación Hfr, solo se transfiere el factor F.",
+          "fr": "Dans la conjugaison du plasmide F, seuls les gènes du chromosome bactérien sont transférés, tandis que dans la conjugaison Hfr, seul le facteur F est transféré.",
+          "de": "Bei der F-Plasmid-Konjugation werden nur bakterielle Chromosomengene übertragen, während bei der Hfr-Konjugation nur der F-Faktor übertragen wird.",
+          "ja": "Fプラスミド接合では細菌染色体遺伝子のみが転送され、Hfr接合ではF因子のみが転送されます。"
+        },
+        "feedback": {
+          "en": "This statement reverses the roles; F plasmid conjugation transfers the F plasmid, and Hfr conjugation transfers part of the bacterial chromosome (which includes part of the F factor).",
+          "zh": "这个说法颠倒了角色；F质粒接合转移的是F质粒，而Hfr接合转移的是细菌染色体的一部分（其中包含部分F因子）。",
+          "es": "Esta afirmación invierte los roles; la conjugación del plásmido F transfiere el plásmido F, y la conjugación Hfr transfiere parte del cromosoma bacteriano (que incluye parte del factor F).",
+          "fr": "Cette affirmation inverse les rôles ; la conjugaison du plasmide F transfère le plasmide F, et la conjugaison Hfr transfère une partie du chromosome bactérien (qui inclut une partie du facteur F).",
+          "de": "Diese Aussage kehrt die Rollen um; die F-Plasmid-Konjugation überträgt das F-Plasmid, und die Hfr-Konjugation überträgt einen Teil des Bakterienchromosoms (der einen Teil des F-Faktors enthält).",
+          "ja": "この記述は役割を逆転させています。Fプラスミド接合はFプラスミドを転送し、Hfr接合は細菌染色体の一部（F因子の一部を含む）を転送します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both types of conjugation lead to the complete transfer of the donor cell's entire chromosome.",
+          "zh": "两种类型的接合都会导致供体细胞的整个染色体完全转移。",
+          "es": "Ambos tipos de conjugación conducen a la transferencia completa de todo el cromosoma de la célula donante.",
+          "fr": "Les deux types de conjugaison conduisent au transfert complet de l'intégralité du chromosome de la cellule donneuse.",
+          "de": "Beide Konjugationsarten führen zur vollständigen Übertragung des gesamten Chromosoms der Donor Zelle.",
+          "ja": "両方の種類の接合は、ドナー細胞の全染色体の完全な転送につながります。"
+        },
+        "feedback": {
+          "en": "Complete chromosome transfer is not typical for either F plasmid or Hfr conjugation; Hfr transfers only a portion due to mating bridge breakage.",
+          "zh": "对于F质粒或Hfr接合来说，完整的染色体转移都不是典型的；Hfr由于接合桥断裂通常只转移一部分。",
+          "es": "La transferencia completa del cromosoma no es típica ni para la conjugación del plásmido F ni para la Hfr; la Hfr transfiere solo una porción debido a la rotura del puente de apareamiento.",
+          "fr": "Le transfert complet du chromosome n'est typique ni pour la conjugaison du plasmide F ni pour la conjugaison Hfr ; la Hfr ne transfère qu'une partie en raison de la rupture du pont de conjugaison.",
+          "de": "Die vollständige Chromosomenübertragung ist weder für die F-Plasmid- noch für die Hfr-Konjugation typisch; Hfr überträgt aufgrund des Bruchs der Konjugationsbrücke nur einen Teil.",
+          "ja": "完全な染色体転送は、Fプラスミド接合やHfr接合のいずれにおいても典型的ではありません。Hfrは接合橋の破断により一部のみを転送します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Figure 27.13a shows that in F plasmid conjugation, the recipient F- cell receives the F plasmid and becomes a recombinant F+ cell. Figure 27.13b explains that in Hfr conjugation, only part of the Hfr bacterial chromosome (including part of the F factor) is usually transferred, and the mating bridge often breaks before the entire F factor is transferred, leading to the recipient typically remaining F- but acquiring new chromosomal genes through recombination.",
+      "zh": "图27.13a显示，在F质粒接合中，受体F-细胞接收F质粒并成为重组F+细胞。图27.13b解释说，在Hfr接合中，通常只有部分Hfr细菌染色体（包括部分F因子）被转移，并且接合桥通常在整个F因子转移完毕之前断裂，导致受体通常保持F-状态，但通过重组获得新的染色体基因。",
+      "es": "La Figura 27.13a muestra que en la conjugación del plásmido F, la célula F- receptora recibe el plásmido F y se convierte en una célula F+ recombinante. La Figura 27.13b explica que en la conjugación Hfr, solo una parte del cromosoma bacteriano Hfr (incluyendo parte del factor F) se transfiere usualmente, y el puente de apareamiento a menudo se rompe antes de que se transfiera el factor F completo, lo que lleva a que la receptora generalmente permanezca F- pero adquiera nuevos genes cromosómicos a través de la recombinación.",
+      "fr": "La figure 27.13a montre que lors de la conjugaison du plasmide F, la cellule F- receveuse reçoit le plasmide F et devient une cellule F+ recombinante. La figure 27.13b explique que lors de la conjugaison Hfr, seule une partie du chromosome bactérien Hfr (y compris une partie du facteur F) est généralement transférée, et que le pont de conjugaison se rompt souvent avant que la totalité du facteur F ne soit transférée, ce qui fait que la cellule receveuse reste typiquement F- mais acquiert de nouveaux gènes chromosomiques par recombinaison.",
+      "de": "Abbildung 27.13a zeigt, dass bei der F-Plasmid-Konjugation die Rezipientenzelle F- das F-Plasmid empfängt und zu einer rekombinanten F+-Zelle wird. Abbildung 27.13b erklärt, dass bei der Hfr-Konjugation in der Regel nur ein Teil des Hfr-Bakterienchromosoms (einschließlich eines Teils des F-Faktors) übertragen wird, und die Konjugationsbrücke oft bricht, bevor der gesamte F-Faktor übertragen wurde, was dazu führt, dass die Rezipientenzelle typischerweise F- bleibt, aber durch Rekombination neue chromosomale Gene erwirbt.",
+      "ja": "図27.13aは、Fプラスミド接合において、レシピエントF-細胞がFプラスミドを受け取り、組み換えF+細胞になることを示しています。図27.13bは、Hfr接合では通常、Hfr細菌染色体の一部（F因子の一部を含む）のみが転送され、接合橋がF因子全体が転送される前に切断されることが多いため、レシピエントは通常F-のままでありながら、組み換えによって新しい染色体遺伝子を獲得することを説明しています。"
+    }
+  },
+  {
+    "page_number": 629,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "During F plasmid conjugation (Figure 27.13a), a single strand of the plasmid DNA is transferred to the recipient cell. What would be the most likely consequence if the recipient cell lacked the necessary enzymes to synthesize a new complementary DNA strand on this transferred single strand?",
+      "zh": "在F质粒接合（图27.13a）过程中，质粒DNA的一条单链被转移到受体细胞。如果受体细胞缺乏在已转移的这条单链上合成新互补DNA链所需的酶，最可能的结果是什么？",
+      "es": "Durante la conjugación del plásmido F (Figura 27.13a), una sola hebra del ADN del plásmido se transfiere a la célula receptora. ¿Cuál sería la consecuencia más probable si la célula receptora careciera de las enzimas necesarias para sintetizar una nueva hebra de ADN complementaria en esta hebra sencilla transferida?",
+      "fr": "Lors de la conjugaison du plasmide F (Figure 27.13a), un seul brin d'ADN plasmidique est transféré à la cellule receveuse. Quelle serait la conséquence la plus probable si la cellule receveuse manquait des enzymes nécessaires pour synthétiser un nouveau brin d'ADN complémentaire sur ce brin simple transféré ?",
+      "de": "Während der F-Plasmid-Konjugation (Abbildung 27.13a) wird ein einzelner Strang der Plasmid-DNA auf die Rezipientenzelle übertragen. Was wäre die wahrscheinlichste Konsequenz, wenn die Rezipientenzelle die notwendigen Enzyme zum Synthetisieren eines neuen komplementären DNA-Strangs auf diesem übertragenen Einzelstrang fehlen würden?",
+      "ja": "Fプラスミド接合（図27.13a）中、プラスミドDNAの一本鎖がレシピエント細胞に転送されます。もしレシピエント細胞が、転送された一本鎖上で新しい相補的なDNA鎖を合成するために必要な酵素を欠いていた場合、最も可能性の高い結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The transferred DNA would immediately be degraded by cellular enzymes without forming a stable genetic element.",
+          "zh": "转移的DNA将立即被细胞酶降解，无法形成稳定的遗传元件。",
+          "es": "El ADN transferido sería degradado inmediatamente por las enzimas celulares sin formar un elemento genético estable.",
+          "fr": "L'ADN transféré serait immédiatement dégradé par les enzymes cellulaires sans former d'élément génétique stable.",
+          "de": "Die übertragene DNA würde sofort von zellulären Enzymen abgebaut, ohne ein stabiles genetisches Element zu bilden.",
+          "ja": "転送されたDNAは、安定した遺伝要素を形成することなく、細胞酵素によって直ちに分解されるでしょう。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The donor cell would be unable to initiate the rolling circle replication process.",
+          "zh": "供体细胞将无法启动滚环复制过程。",
+          "es": "La célula donante no podría iniciar el proceso de replicación en círculo rodante.",
+          "fr": "La cellule donneuse serait incapable d'initier le processus de réplication en cercle roulant.",
+          "de": "Die Donor Zelle wäre nicht in der Lage, den Rolling-Circle-Replikationsprozess einzuleiten.",
+          "ja": "ドナー細胞はローリングサークル複製プロセスを開始できなくなるでしょう。"
+        },
+        "feedback": {
+          "en": "The donor cell's ability to initiate replication is independent of the recipient cell's enzymatic capabilities for synthesis.",
+          "zh": "供体细胞启动复制的能力与受体细胞的合成酶能力无关。",
+          "es": "La capacidad de la célula donante para iniciar la replicación es independiente de las capacidades enzimáticas de la célula receptora para la síntesis.",
+          "fr": "La capacité de la cellule donneuse à initier la réplication est indépendante des capacités enzymatiques de la cellule receveuse pour la synthèse.",
+          "de": "Die Fähigkeit der Donor Zelle, die Replikation einzuleiten, ist unabhängig von den enzymatischen Fähigkeiten der Rezipientenzelle zur Synthese.",
+          "ja": "ドナー細胞の複製を開始する能力は、レシピエント細胞の合成酵素能力とは独立しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The recipient cell would still become F+ by incorporating the single-stranded DNA directly into its chromosome.",
+          "zh": "受体细胞仍将通过将其单链DNA直接整合到其染色体中而变为F+。",
+          "es": "La célula receptora aún se convertiría en F+ al incorporar directamente el ADN de cadena simple en su cromosoma.",
+          "fr": "La cellule receveuse deviendrait toujours F+ en incorporant l'ADN simple brin directement dans son chromosome.",
+          "de": "Die Rezipientenzelle würde dennoch F+ werden, indem sie die einzelsträngige DNA direkt in ihr Chromosom integriert.",
+          "ja": "レシピエント細胞は、一本鎖DNAを直接染色体に取り込むことでF+になるでしょう。"
+        },
+        "feedback": {
+          "en": "F+ status requires a functional, circular double-stranded F plasmid. A single-stranded fragment is unlikely to be stably incorporated into the chromosome, especially if it cannot be made double-stranded.",
+          "zh": "F+状态需要一个功能性、环状的双链F质粒。单链片段不太可能稳定地整合到染色体中，特别是如果它不能变成双链。",
+          "es": "El estado F+ requiere un plásmido F funcional y circular de doble cadena. Es poco probable que un fragmento de una sola hebra se incorpore de manera estable en el cromosoma, especialmente si no puede convertirse en doble hebra.",
+          "fr": "Le statut F+ nécessite un plasmide F fonctionnel, circulaire et bicaténaire. Il est peu probable qu'un fragment monocaténaire soit incorporé de manière stable dans le chromosome, surtout s'il ne peut pas être rendu bicaténaire.",
+          "de": "Der F+-Status erfordert ein funktionsfähiges, zirkuläres Doppelstrang-F-Plasmid. Ein einzelsträngiges Fragment wird wahrscheinlich nicht stabil in das Chromosom integriert, insbesondere wenn es nicht doppelsträngig gemacht werden kann.",
+          "ja": "F+の状態には、機能的で環状の二本鎖Fプラスミドが必要です。一本鎖の断片が安定して染色体に取り込まれる可能性は低く、特に二本鎖にできない場合はそうです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "For the F plasmid to become a stable genetic element in the recipient cell and confer F+ status, it must be converted from a single-stranded linear form into a double-stranded circular form. If the necessary enzymes for complementary strand synthesis are absent, this conversion cannot occur, leaving the DNA as an unstable linear single strand, which is typically degraded by cellular nucleases.",
+      "zh": "为了使F质粒在受体细胞中成为一个稳定的遗传元件并赋予F+状态，它必须从单链线性形式转化为双链环状形式。如果缺乏合成互补链所需的酶，这种转化就无法发生，DNA将保持不稳定的线性单链状态，通常会被细胞核酸酶降解。",
+      "es": "Para que el plásmido F se convierta en un elemento genético estable en la célula receptora y confiera el estado F+, debe convertirse de una forma lineal de una sola hebra a una forma circular de doble hebra. Si las enzimas necesarias para la síntesis de la hebra complementaria están ausentes, esta conversión no puede ocurrir, dejando el ADN como una hebra lineal inestable, que normalmente es degradada por las nucleasas celulares.",
+      "fr": "Pour que le plasmide F devienne un élément génétique stable dans la cellule receveuse et confère le statut F+, il doit être converti d'une forme linéaire monocaténaire en une forme circulaire bicaténaire. Si les enzymes nécessaires à la synthèse du brin complémentaire sont absentes, cette conversion ne peut pas se produire, laissant l'ADN sous forme de brin simple linéaire instable, qui est généralement dégradé par les nucléases cellulaires.",
+      "de": "Damit das F-Plasmid zu einem stabilen genetischen Element in der Rezipientenzelle wird und den F+-Status verleiht, muss es von einer einzelsträngigen linearen Form in eine doppelsträngige zirkuläre Form umgewandelt werden. Wenn die notwendigen Enzyme für die komplementäre Strangsynthese fehlen, kann diese Umwandlung nicht stattfinden, wodurch die DNA als instabiler linearer Einzelstrang verbleibt, der typischerweise von zellulären Nukleasen abgebaut wird.",
+      "ja": "Fプラスミドがレシピエント細胞内で安定した遺伝要素となり、F+の状態を付与するためには、一本鎖の線形形態から二本鎖の環状形態に変換される必要があります。相補鎖合成に必要な酵素が欠損している場合、この変換は起こらず、DNAは不安定な一本鎖線形として残され、通常は細胞内ヌクレアーゼによって分解されます。"
+    }
+  },
+  {
+    "page_number": 629,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 27.13b, what is the primary reason the recipient cell in Hfr conjugation typically remains F- despite receiving genetic material from the donor?",
+      "zh": "根据图27.13b，Hfr接合中的受体细胞尽管从供体接收了遗传物质，但为什么通常仍保持F-状态？",
+      "es": "Según la Figura 27.13b, ¿cuál es la razón principal por la que la célula receptora en la conjugación Hfr típicamente permanece F- a pesar de recibir material genético del donante?",
+      "fr": "Selon la Figure 27.13b, quelle est la raison principale pour laquelle la cellule receveuse en conjugaison Hfr reste typiquement F- malgré la réception de matériel génétique du donneur ?",
+      "de": "Gemäß Abbildung 27.13b, was ist der Hauptgrund, warum die Rezipientenzelle bei der Hfr-Konjugation typischerweise F- bleibt, obwohl sie genetisches Material vom Spender erhält?",
+      "ja": "図27.13bによると、Hfr接合においてレシピエント細胞がドナーから遺伝物質を受け取ったにもかかわらず、通常F-のままである主な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The transferred F factor is immediately inactivated upon entering the recipient cell.",
+          "zh": "转移的F因子在进入受体细胞后立即被灭活。",
+          "es": "El factor F transferido se inactiva inmediatamente al entrar en la célula receptora.",
+          "fr": "Le facteur F transféré est immédiatement inactivé dès son entrée dans la cellule receveuse.",
+          "de": "Der übertragene F-Faktor wird sofort inaktiviert, sobald er in die Rezipientenzelle gelangt.",
+          "ja": "転送されたF因子は、レシピエント細胞に入ると直ちに不活性化されます。"
+        },
+        "feedback": {
+          "en": "The text does not state that the F factor is inactivated, but rather that the entire F factor is rarely transferred.",
+          "zh": "文本中没有提到F因子被灭活，而是指整个F因子很少被转移。",
+          "es": "El texto no indica que el factor F se inactive, sino que el factor F completo rara vez se transfiere.",
+          "fr": "Le texte n'indique pas que le facteur F est inactivé, mais plutôt que l'intégralité du facteur F est rarement transférée.",
+          "de": "Der Text besagt nicht, dass der F-Faktor inaktiviert wird, sondern dass der gesamte F-Faktor selten übertragen wird.",
+          "ja": "本文にはF因子が不活性化されるとは記載されておらず、むしろF因子全体が転送されることは稀であるとされています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The recipient cell lacks the necessary machinery to integrate the transferred F factor into its chromosome.",
+          "zh": "受体细胞缺乏将转移的F因子整合到其染色体中的必要机制。",
+          "es": "La célula receptora carece de la maquinaria necesaria para integrar el factor F transferido en su cromosoma.",
+          "fr": "La cellule receveuse manque de la machinerie nécessaire pour intégrer le facteur F transféré dans son chromosome.",
+          "de": "Der Rezipientenzelle fehlt die notwendige Maschinerie, um den übertragenen F-Faktor in ihr Chromosom zu integrieren.",
+          "ja": "レシピエント細胞は、転送されたF因子を染色体に統合するために必要な機構を欠いています。"
+        },
+        "feedback": {
+          "en": "The recipient cell *can* integrate transferred DNA if it's homologous and a complete F factor is not transferred for integration.",
+          "zh": "如果转移的DNA是同源的，并且没有完整的F因子被转移以供整合，受体细胞是可以整合转移的DNA的。",
+          "es": "La célula receptora *puede* integrar ADN transferido si es homólogo y no se transfiere un factor F completo para su integración.",
+          "fr": "La cellule receveuse *peut* intégrer l'ADN transféré s'il est homologue et si un facteur F complet n'est pas transféré pour l'intégration.",
+          "de": "Die Rezipientenzelle *kann* übertragene DNA integrieren, wenn sie homolog ist und kein vollständiger F-Faktor zur Integration übertragen wird.",
+          "ja": "レシピエント細胞は、相同性があり、完全なF因子が統合のために転送されない場合、転送されたDNAを統合できます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The mating bridge typically breaks before the entire F factor (integrated into the donor chromosome) has been transferred.",
+          "zh": "接合桥通常在整个F因子（整合到供体染色体中）转移完毕之前就断裂了。",
+          "es": "El puente de apareamiento se rompe típicamente antes de que se haya transferido el factor F completo (integrado en el cromosoma donante).",
+          "fr": "Le pont de conjugaison se rompt généralement avant que la totalité du facteur F (intégré dans le chromosome donneur) n'ait été transférée.",
+          "de": "Die Konjugationsbrücke bricht typischerweise ab, bevor der gesamte F-Faktor (in das Donor-Chromosom integriert) übertragen wurde.",
+          "ja": "接合橋は、通常、F因子全体（ドナー染色体に統合されている）が転送される前に切断されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The recipient cell already possesses its own F factor, making the transferred one redundant.",
+          "zh": "受体细胞本身已经拥有F因子，使得转移过来的F因子变得多余。",
+          "es": "La célula receptora ya posee su propio factor F, lo que hace que el transferido sea redundante.",
+          "fr": "La cellule receveuse possède déjà son propre facteur F, ce qui rend le facteur transféré superflu.",
+          "de": "Die Rezipientenzelle besitzt bereits einen eigenen F-Faktor, wodurch der übertragene überflüssig wird.",
+          "ja": "レシピエント細胞はすでに独自のF因子を持っており、転送されたF因子は不要になります。"
+        },
+        "feedback": {
+          "en": "By definition, F- cells do not possess an F factor. If they did, they would be F+ or Hfr.",
+          "zh": "根据定义，F-细胞不包含F因子。如果它们包含，它们将是F+或Hfr。",
+          "es": "Por definición, las células F- no poseen un factor F. Si lo tuvieran, serían F+ o Hfr.",
+          "fr": "Par définition, les cellules F- ne possèdent pas de facteur F. Si elles en possédaient un, elles seraient F+ ou Hfr.",
+          "de": "Per Definition besitzen F--Zellen keinen F-Faktor. Wenn sie dies täten, wären sie F+ oder Hfr.",
+          "ja": "定義上、F-細胞はF因子を持っていません。もし持っていれば、F+またはHfrになります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 27.13b, step 3, explicitly states: 'The mating bridge usually breaks before the entire chromosome is transferred.' Since the F factor is integrated into the chromosome in Hfr cells, and transfer begins from within the F factor, a complete F factor is rarely transferred. Therefore, the recipient typically remains F- because it does not receive the complete F factor.",
+      "zh": "图27.13b的第3步明确指出：“接合桥通常在整个染色体转移完毕之前就断裂了。”由于F因子在Hfr细胞中整合到染色体中，并且转移从F因子内部开始，因此完整的F因子很少被转移。所以，受体通常保持F-状态，因为它没有接收到完整的F因子。",
+      "es": "La Figura 27.13b, paso 3, establece explícitamente: 'El puente de apareamiento se rompe típicamente antes de que se transfiera el cromosoma completo.' Dado que el factor F está integrado en el cromosoma en las células Hfr, y la transferencia comienza desde dentro del factor F, es raro que se transfiera un factor F completo. Por lo tanto, la receptora generalmente permanece F- porque no recibe el factor F completo.",
+      "fr": "La figure 27.13b, étape 3, stipule explicitement : 'Le pont de conjugaison se rompt généralement avant que le chromosome entier ne soit transféré.' Puisque le facteur F est intégré dans le chromosome des cellules Hfr, et que le transfert commence à l'intérieur du facteur F, un facteur F complet est rarement transféré. Par conséquent, la cellule receveuse reste typiquement F- car elle ne reçoit pas le facteur F complet.",
+      "de": "Abbildung 27.13b, Schritt 3, besagt explizit: 'Die Konjugationsbrücke bricht typischerweise ab, bevor das gesamte Chromosom übertragen wurde.' Da der F-Faktor in Hfr-Zellen in das Chromosom integriert ist und die Übertragung innerhalb des F-Faktors beginnt, wird ein vollständiger F-Faktor selten übertragen. Daher bleibt die Rezipientenzelle typischerweise F-, weil sie den vollständigen F-Faktor nicht erhält.",
+      "ja": "図27.13bのステップ3には、「接合橋は通常、染色体全体が転送される前に切断されます」と明記されています。Hfr細胞ではF因子が染色体に統合されており、転送がF因子の内部から始まるため、完全なF因子が転送されることは稀です。したがって、レシピエントは完全なF因子を受け取らないため、通常F-のままです。"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 190,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following is a key difference between active transport and facilitated diffusion?",
+      "zh": "以下哪项是主动运输和协助扩散之间的关键区别？",
+      "es": "Cuál de las siguientes es una diferencia clave entre el transporte activo y la difusión facilitada?",
+      "fr": "Laquelle des affirmations suivantes est une différence clé entre le transport actif et la diffusion facilitée?",
+      "de": "Welcher der folgenden Punkte ist ein wesentlicher Unterschied zwischen aktivem Transport und erleichterter Diffusion?",
+      "ja": "次のうち、能動輸送と促進拡散の主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Active transport moves substances down their concentration gradient, while facilitated diffusion moves them against.",
+          "zh": "主动运输是顺着浓度梯度移动物质，而协助扩散是逆着浓度梯度移动。",
+          "es": "El transporte activo mueve sustancias a favor de su gradiente de concentración, mientras que la difusión facilitada las mueve en contra.",
+          "fr": "Le transport actif déplace les substances selon leur gradient de concentration, tandis que la diffusion facilitée les déplace contre.",
+          "de": "Aktiver Transport bewegt Substanzen entlang ihres Konzentrationsgradienten, während erleichterte Diffusion sie entgegen bewegt.",
+          "ja": "能動輸送は物質を濃度勾配に従って移動させますが、促進拡散は濃度勾配に逆らって移動させます。"
+        },
+        "feedback": {
+          "en": "This statement is incorrect. Active transport moves substances against their concentration gradient, and facilitated diffusion moves them down their concentration gradient.",
+          "zh": "此说法不正确。主动运输是逆着浓度梯度移动物质，而协助扩散是顺着浓度梯度移动。",
+          "es": "Esta afirmación es incorrecta. El transporte activo mueve sustancias en contra de su gradiente de concentración, y la difusión facilitada las mueve a favor de su gradiente de concentración.",
+          "fr": "Cette affirmation est incorrecte. Le transport actif déplace les substances contre leur gradient de concentration, et la diffusion facilitée les déplace selon leur gradient de concentration.",
+          "de": "Diese Aussage ist falsch. Aktiver Transport bewegt Substanzen entgegen ihres Konzentrationsgradienten, während erleichterte Diffusion sie entlang ihres Konzentrationsgradienten bewegt.",
+          "ja": "この記述は誤りです。能動輸送は物質を濃度勾配に逆らって移動させ、促進拡散は濃度勾配に従って移動させます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Active transport always requires direct ATP hydrolysis, while facilitated diffusion does not.",
+          "zh": "主动运输总是需要直接的水解ATP，而协助扩散不需要。",
+          "es": "El transporte activo siempre requiere hidrólisis directa de ATP, mientras que la difusión facilitada no.",
+          "fr": "Le transport actif nécessite toujours l'hydrolyse directe de l'ATP, tandis que la diffusion facilitée non.",
+          "de": "Aktiver Transport erfordert immer direkte ATP-Hydrolyse, während erleichterte Diffusion dies nicht tut.",
+          "ja": "能動輸送は常に直接的なATP加水分解を必要としますが、促進拡散は必要としません。"
+        },
+        "feedback": {
+          "en": "While facilitated diffusion does not use ATP, active transport does not always require *direct* ATP hydrolysis (e.g., cotransport uses energy from another gradient established by direct ATP use).",
+          "zh": "虽然协助扩散不使用ATP，但主动运输并非总是需要直接的水解ATP（例如，协同运输利用由直接ATP使用建立的另一个梯度的能量）。",
+          "es": "Aunque la difusión facilitada no utiliza ATP, el transporte activo no siempre requiere hidrólisis *directa* de ATP (p. ej., el cotransporte utiliza energía de otro gradiente establecido por el uso directo de ATP).",
+          "fr": "Bien que la diffusion facilitée n'utilise pas d'ATP, le transport actif ne nécessite pas toujours une hydrolyse *directe* de l'ATP (par exemple, le cotransport utilise l'énergie d'un autre gradient établi par l'utilisation directe de l'ATP).",
+          "de": "Während die erleichterte Diffusion kein ATP verwendet, erfordert der aktive Transport nicht immer eine *direkte* ATP-Hydrolyse (z.B. verwendet der Cotransport Energie aus einem anderen Gradienten, der durch direkten ATP-Verbrauch aufgebaut wurde).",
+          "ja": "促進拡散はATPを使用しませんが、能動輸送が常に*直接的*なATP加水分解を必要とするわけではありません（例：共輸送は直接的なATP使用によって確立された別の勾配からのエネルギーを利用します）。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Active transport requires energy and moves solutes against their concentration gradient, whereas facilitated diffusion does not require energy and moves solutes down their concentration gradient.",
+          "zh": "主动运输需要能量并逆着浓度梯度移动溶质，而协助扩散不需要能量并顺着浓度梯度移动溶质。",
+          "es": "El transporte activo requiere energía y mueve solutos contra su gradiente de concentración, mientras que la difusión facilitada no requiere energía y mueve solutos a favor de su gradiente de concentración.",
+          "fr": "Le transport actif nécessite de l'énergie et déplace les solutés contre leur gradient de concentration, tandis que la diffusion facilitée ne nécessite pas d'énergie et déplace les solutés selon leur gradient de concentration.",
+          "de": "Aktiver Transport erfordert Energie und bewegt gelöste Stoffe entgegen ihres Konzentrationsgradienten, während erleichterte Diffusion keine Energie erfordert und gelöste Stoffe entlang ihres Konzentrationsgradienten bewegt.",
+          "ja": "能動輸送はエネルギーを必要とし、溶質を濃度勾配に逆らって移動させますが、促進拡散はエネルギーを必要とせず、溶質を濃度勾配に従って移動させます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Only facilitated diffusion involves membrane proteins, while active transport does not.",
+          "zh": "只有协助扩散涉及膜蛋白，而主动运输不涉及。",
+          "es": "Solo la difusión facilitada involucra proteínas de membrana, mientras que el transporte activo no.",
+          "fr": "Seule la diffusion facilitée implique des protéines membranaires, tandis que le transport actif non.",
+          "de": "Nur die erleichterte Diffusion beinhaltet Membranproteine, während aktiver Transport dies nicht tut.",
+          "ja": "促進拡散のみが膜タンパク質を関与させ、能動輸送は関与させません。"
+        },
+        "feedback": {
+          "en": "Both active transport and facilitated diffusion rely on specific membrane proteins for solute movement.",
+          "zh": "主动运输和协助扩散都依赖特定的膜蛋白进行溶质移动。",
+          "es": "Tanto el transporte activo como la difusión facilitada dependen de proteínas de membrana específicas para el movimiento de solutos.",
+          "fr": "Le transport actif et la diffusion facilitée reposent tous deux sur des protéines membranaires spécifiques pour le mouvement des solutés.",
+          "de": "Sowohl aktiver Transport als auch erleichterte Diffusion sind auf spezifische Membranproteine für den Soluttransport angewiesen.",
+          "ja": "能動輸送と促進拡散の両方が、溶質の移動に特定の膜タンパク質に依存しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Active transport is characterized by its requirement for energy (often from ATP) to move substances against their concentration gradient. In contrast, facilitated diffusion is a type of passive transport that does not require metabolic energy and moves substances down their concentration gradient with the help of transport proteins.",
+      "zh": "主动运输的特点是需要能量（通常来自ATP）才能将物质逆着浓度梯度移动。相比之下，协助扩散是一种被动运输，不需代谢能量，并在转运蛋白的帮助下将物质顺着浓度梯度移动。",
+      "es": "El transporte activo se caracteriza por su necesidad de energía (a menudo del ATP) para mover sustancias contra su gradiente de concentración. En contraste, la difusión facilitada es un tipo de transporte pasivo que no requiere energía metabólica y mueve sustancias a favor de su gradiente de concentración con la ayuda de proteínas de transporte.",
+      "fr": "Le transport actif se caractérise par son besoin d'énergie (souvent de l'ATP) pour déplacer des substances contre leur gradient de concentration. En revanche, la diffusion facilitée est un type de transport passif qui ne nécessite pas d'énergie métabolique et déplace les substances selon leur gradient de concentration avec l'aide de protéines de transport.",
+      "de": "Aktiver Transport zeichnet sich durch seinen Energiebedarf (oft aus ATP) aus, um Substanzen entgegen ihres Konzentrationsgradienten zu bewegen. Im Gegensatz dazu ist die erleichterte Diffusion eine Form des passiven Transports, die keine metabolische Energie benötigt und Substanzen mithilfe von Transportproteinen entlang ihres Konzentrationsgradienten bewegt.",
+      "ja": "能動輸送は、物質を濃度勾配に逆らって移動させるためにエネルギー（しばしばATPから）を必要とすることが特徴です。対照的に、促進拡散は代謝エネルギーを必要としない受動輸送の一種であり、輸送タンパク質の助けを借りて物質を濃度勾配に従って移動させます。"
+    }
+  },
+  {
+    "page_number": 190,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "As a cell grows and its plasma membrane expands, which cellular process is primarily responsible for adding new membrane material?",
+      "zh": "当细胞生长且其质膜扩张时，哪种细胞过程主要负责添加新的膜材料？",
+      "es": "A medida que una célula crece y su membrana plasmática se expande, ¿cuál proceso celular es el principal responsable de añadir nuevo material de membrana?",
+      "fr": "Lorsqu'une cellule grandit et que sa membrane plasmique se dilate, quel processus cellulaire est principalement responsable de l'ajout de nouveau matériau membranaire?",
+      "de": "Welcher zelluläre Prozess ist primär für die Hinzufügung von neuem Membranmaterial verantwortlich, wenn eine Zelle wächst und ihre Plasmamembran sich ausdehnt?",
+      "ja": "細胞が成長し、その形質膜が拡大するにつれて、新しい膜材料の追加を主に担当する細胞プロセスは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Endocytosis",
+          "zh": "内吞作用",
+          "es": "Endocitosis",
+          "fr": "Endocytose",
+          "de": "Endozytose",
+          "ja": "エンドサイトーシス"
+        },
+        "feedback": {
+          "en": "Endocytosis involves the intake of substances by forming vesicles from the plasma membrane, thus *removing* membrane material.",
+          "zh": "内吞作用涉及通过质膜形成囊泡来摄取物质，从而*移除*膜材料。",
+          "es": "La endocitosis implica la entrada de sustancias mediante la formación de vesículas a partir de la membrana plasmática, lo que *elimina* material de la membrana.",
+          "fr": "L'endocytose implique l'ingestion de substances par la formation de vésicules à partir de la membrane plasmique, ce qui *retire* du matériel membranaire.",
+          "de": "Endozytose beinhaltet die Aufnahme von Substanzen durch Vesikelbildung aus der Plasmamembran, wodurch Membranmaterial *entfernt* wird.",
+          "ja": "エンドサイトーシスは、形質膜から小胞を形成して物質を取り込むプロセスであり、膜材料を*除去*します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Exocytosis",
+          "zh": "外排作用",
+          "es": "Exocitosis",
+          "fr": "Exocytose",
+          "de": "Exozytose",
+          "ja": "エキソサイトーシス"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Osmosis",
+          "zh": "渗透作用",
+          "es": "Ósmosis",
+          "fr": "Osmose",
+          "de": "Osmose",
+          "ja": "浸透"
+        },
+        "feedback": {
+          "en": "Osmosis is the diffusion of water across a selectively permeable membrane, which affects cell volume but does not add membrane material.",
+          "zh": "渗透作用是水分子跨选择性渗透膜的扩散，它影响细胞体积但不添加膜材料。",
+          "es": "La ósmosis es la difusión de agua a través de una membrana selectivamente permeable, lo que afecta el volumen celular pero no añade material de membrana.",
+          "fr": "L'osmose est la diffusion de l'eau à travers une membrane sélectivement perméable, ce qui affecte le volume cellulaire mais n'ajoute pas de matériel membranaire.",
+          "de": "Osmose ist die Diffusion von Wasser durch eine selektiv permeable Membran, die das Zellvolumen beeinflusst, aber kein Membranmaterial hinzufügt.",
+          "ja": "浸透は選択的透過性膜を介した水の拡散であり、細胞の体積に影響を与えますが、膜材料を追加するものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Facilitated diffusion",
+          "zh": "协助扩散",
+          "es": "Difusión facilitada",
+          "fr": "Diffusion facilitée",
+          "de": "Erleichterte Diffusion",
+          "ja": "促進拡散"
+        },
+        "feedback": {
+          "en": "Facilitated diffusion is a type of passive transport for specific solutes that does not involve the addition or removal of membrane material.",
+          "zh": "协助扩散是一种特定溶质的被动运输类型，不涉及膜材料的添加或移除。",
+          "es": "La difusión facilitada es un tipo de transporte pasivo para solutos específicos que no implica la adición o eliminación de material de membrana.",
+          "fr": "La diffusion facilitée est un type de transport passif pour des solutés spécifiques qui n'implique ni l'ajout ni l'élimination de matériel membranaire.",
+          "de": "Erleichterte Diffusion ist eine Art des passiven Transports für spezifische gelöste Stoffe, die weder die Zugabe noch die Entfernung von Membranmaterial beinhaltet.",
+          "ja": "促進拡散は特定の溶質に対する受動輸送の一種であり、膜材料の追加や除去は伴いません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "As stated in the text, 'Endocytosis and exocytosis also provide mechanisms for rejuvenating or remodeling the plasma membrane. These processes occur continually in most eukaryotic cells, yet the amount of plasma membrane in a nongrowing cell remains fairly constant. The addition of membrane by one process appears to offset the loss of membrane by the other.' Exocytosis is the process by which vesicles fuse with the plasma membrane, releasing their contents outside the cell and adding the vesicle membrane to the plasma membrane, thus expanding it.",
+      "zh": "文本中指出：“内吞作用和外排作用也提供了更新或重塑质膜的机制。这些过程在大多数真核细胞中持续发生，但在非生长细胞中质膜的数量保持相对恒定。一个过程添加的膜似乎抵消了另一个过程损失的膜。” 外排作用是囊泡与质膜融合，释放其内容物到细胞外，并将囊泡膜添加到质膜中，从而使其扩张的过程。",
+      "es": "Como se indica en el texto, 'La endocitosis y la exocitosis también proporcionan mecanismos para rejuvenecer o remodelar la membrana plasmática. Estos procesos ocurren continuamente en la mayoría de las células eucariotas, sin embargo, la cantidad de membrana plasmática en una célula que no está en crecimiento permanece bastante constante. La adición de membrana por un proceso parece compensar la pérdida de membrana por el otro.' La exocitosis es el proceso por el cual las vesículas se fusionan con la membrana plasmática, liberando su contenido fuera de la célula y añadiendo la membrana de la vesícula a la membrana plasmática, expandiéndola así.",
+      "fr": "Comme indiqué dans le texte, « l'endocytose et l'exocytose fournissent également des mécanismes pour rajeunir ou remodeler la membrane plasmique. Ces processus se produisent continuellement dans la plupart des cellules eucaryotes, mais la quantité de membrane plasmique dans une cellule non en croissance reste assez constante. L'ajout de membrane par un processus semble compenser la perte de membrane par l'autre. » L'exocytose est le processus par lequel les vésicules fusionnent avec la membrane plasmique, libérant leur contenu à l'extérieur de la cellule et ajoutant la membrane de la vésicule à la membrane plasmique, l'élargissant ainsi.",
+      "de": "Wie im Text beschrieben: „Endozytose und Exozytose bieten auch Mechanismen zur Verjüngung oder Umgestaltung der Plasmamembran. Diese Prozesse finden in den meisten eukaryotischen Zellen kontinuierlich statt, doch die Menge an Plasmamembran in einer nicht wachsenden Zelle bleibt ziemlich konstant. Die Zugabe von Membran durch einen Prozess scheint den Verlust von Membran durch den anderen auszugleichen.“ Exozytose ist der Prozess, bei dem Vesikel mit der Plasmamembran verschmelzen, ihren Inhalt außerhalb der Zelle freisetzen und die Vesikelmembran zur Plasmamembran hinzufügen, wodurch diese erweitert wird.",
+      "ja": "本文に記載されているように、「エンドサイトーシスとエキソサイトーシスも、形質膜の若返りや再構築のメカニズムを提供します。これらのプロセスはほとんどの真核細胞で継続的に発生しますが、成長していない細胞の形質膜の量はかなり一定に保たれています。あるプロセスによる膜の追加は、別のプロセスによる膜の損失を相殺しているようです。」 エキソサイトーシスは、小胞が形質膜と融合し、その内容物を細胞外に放出し、小胞膜を形質膜に追加することで、形質膜を拡大するプロセスです。"
+    }
+  },
+  {
+    "page_number": 190,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A red blood cell is placed in a hypertonic solution. What will be the immediate effect on the cell, and how does the free water concentration inside and outside the cell compare?",
+      "zh": "一个红细胞被置于高渗溶液中。对细胞会立即产生什么影响，以及细胞内外自由水浓度如何比较？",
+      "es": "Un glóbulo rojo se coloca en una solución hipertónica. ¿Cuál será el efecto inmediato en la célula y cómo se compara la concentración de agua libre dentro y fuera de la célula?",
+      "fr": "Un globule rouge est placé dans une solution hypertonique. Quel sera l'effet immédiat sur la cellule, et comment se compare la concentration d'eau libre à l'intérieur et à l'extérieur de la cellule?",
+      "de": "Eine rote Blutzelle wird in eine hypertonische Lösung gelegt. Welcher Effekt tritt sofort an der Zelle auf und wie verhält sich die Konzentration des freien Wassers innerhalb und außerhalb der Zelle?",
+      "ja": "赤血球が高張液に入れられました。細胞にどのような即時的な影響があり、細胞内外の自由水濃度はどのように比較されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The cell will swell as water moves in; the free water concentration outside is higher than inside.",
+          "zh": "细胞会膨胀，因为水会进入；外部的自由水浓度高于内部。",
+          "es": "La célula se hinchará a medida que el agua entre; la concentración de agua libre fuera es mayor que dentro.",
+          "fr": "La cellule va gonfler à mesure que l'eau y pénètre; la concentration d'eau libre à l'extérieur est plus élevée qu'à l'intérieur.",
+          "de": "Die Zelle wird anschwellen, da Wasser eindringt; die freie Wasserkonzentration außerhalb ist höher als innerhalb.",
+          "ja": "水が流入するため細胞は膨張します。外部の自由水濃度は内部よりも高いです。"
+        },
+        "feedback": {
+          "en": "In a hypertonic solution, water moves *out* of the cell, causing it to shrink. Also, a hypertonic solution has a *lower* free water concentration (due to high solute concentration) outside.",
+          "zh": "在高渗溶液中，水会*流出*细胞，导致细胞萎缩。此外，高渗溶液的外部自由水浓度*较低*（由于溶质浓度高）。",
+          "es": "En una solución hipertónica, el agua *sale* de la célula, provocando que se encoja. Además, una solución hipertónica tiene una concentración de agua libre *menor* (debido a la alta concentración de solutos) en el exterior.",
+          "fr": "Dans une solution hypertonique, l'eau *sort* de la cellule, la faisant rétrécir. De plus, une solution hypertonique a une concentration d'eau libre *inférieure* (en raison de la forte concentration de solutés) à l'extérieur.",
+          "de": "In einer hypertonischen Lösung bewegt sich Wasser *aus* der Zelle, wodurch sie schrumpft. Außerdem hat eine hypertonische Lösung eine *niedrigere* freie Wasserkonzentration (aufgrund der hohen Solutkonzentration) außen.",
+          "ja": "高張液では、水は細胞から*流出*し、細胞が収縮します。また、高張液は外部の自由水濃度が*低い*です（溶質濃度が高いため）。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The cell will shrink as water moves out; the free water concentration outside is lower than inside.",
+          "zh": "细胞会萎缩，因为水会流出；外部的自由水浓度低于内部。",
+          "es": "La célula se encogerá a medida que el agua salga; la concentración de agua libre fuera es menor que dentro.",
+          "fr": "La cellule va rétrécir à mesure que l'eau en sort; la concentration d'eau libre à l'extérieur est plus faible qu'à l'intérieur.",
+          "de": "Die Zelle wird schrumpfen, da Wasser austritt; die freie Wasserkonzentration außerhalb ist niedriger als innerhalb.",
+          "ja": "水が流出するため細胞は収縮します。外部の自由水濃度は内部よりも低いです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The cell will remain unchanged; the free water concentrations inside and outside are equal.",
+          "zh": "细胞将保持不变；细胞内外自由水浓度相等。",
+          "es": "La célula permanecerá inalterada; las concentraciones de agua libre dentro y fuera son iguales.",
+          "fr": "La cellule restera inchangée; les concentrations d'eau libre à l'intérieur et à l'extérieur sont égales.",
+          "de": "Die Zelle bleibt unverändert; die freien Wasserkonzentrationen innerhalb und außerhalb sind gleich.",
+          "ja": "細胞は変化しません。細胞内外の自由水濃度は等しいです。"
+        },
+        "feedback": {
+          "en": "This describes a cell in an isotonic solution, not a hypertonic solution.",
+          "zh": "这描述的是细胞处于等渗溶液中的情况，而非高渗溶液。",
+          "es": "Esto describe una célula en una solución isotónica, no en una solución hipertónica.",
+          "fr": "Ceci décrit une cellule dans une solution isotonique, et non une solution hypertonique.",
+          "de": "Dies beschreibt eine Zelle in einer isotonischen Lösung, nicht in einer hypertonischen Lösung.",
+          "ja": "これは等張液中の細胞の状態を説明しており、高張液中の細胞の状態ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The cell will burst as water moves in; the free water concentration inside is higher than outside.",
+          "zh": "细胞会破裂，因为水会进入；内部的自由水浓度高于外部。",
+          "es": "La célula explotará a medida que el agua entre; la concentración de agua libre dentro es mayor que fuera.",
+          "fr": "La cellule va éclater à mesure que l'eau y pénètre; la concentration d'eau libre à l'intérieur est plus élevée qu'à l'extérieur.",
+          "de": "Die Zelle wird platzen, da Wasser eindringt; die freie Wasserkonzentration innerhalb ist höher als außerhalb.",
+          "ja": "水が流入するため細胞は破裂します。内部の自由水濃度は外部よりも高いです。"
+        },
+        "feedback": {
+          "en": "This describes a cell in a hypotonic solution, which causes water to move into the cell and potentially burst it.",
+          "zh": "这描述的是细胞处于低渗溶液中的情况，导致水进入细胞并可能使其破裂。",
+          "es": "Esto describe una célula en una solución hipotónica, lo que provoca que el agua entre en la célula y posiblemente la reviente.",
+          "fr": "Ceci décrit une cellule dans une solution hypotonique, ce qui provoque l'entrée d'eau dans la cellule et potentiellement son éclatement.",
+          "de": "Dies beschreibt eine Zelle in einer hypotonischen Lösung, die dazu führt, dass Wasser in die Zelle gelangt und sie möglicherweise zum Platzen bringt.",
+          "ja": "これは、水が細胞内に入り込み、破裂させる可能性のある低張液中の細胞の状態を説明しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "In a hypertonic solution, the concentration of nonpenetrating solutes outside the cell is higher than inside. This means the free water concentration outside the cell is lower than inside. Water will move by osmosis from the area of higher free water concentration (inside the cell) to the area of lower free water concentration (outside the cell). As water leaves the red blood cell, it will shrink or crenate.",
+      "zh": "在高渗溶液中，细胞外不可渗透溶质的浓度高于细胞内。这意味着细胞外的自由水浓度低于细胞内。水将通过渗透作用从自由水浓度较高（细胞内）的区域移动到自由水浓度较低（细胞外）的区域。随着水分子离开红细胞，细胞会萎缩或皱缩。",
+      "es": "En una solución hipertónica, la concentración de solutos no penetrantes fuera de la célula es mayor que dentro. Esto significa que la concentración de agua libre fuera de la célula es menor que dentro. El agua se moverá por ósmosis desde el área de mayor concentración de agua libre (dentro de la célula) al área de menor concentración de agua libre (fuera de la célula). A medida que el agua sale del glóbulo rojo, este se encogerá o crenará.",
+      "fr": "Dans une solution hypertonique, la concentration de solutés non pénétrants à l'extérieur de la cellule est plus élevée qu'à l'intérieur. Cela signifie que la concentration d'eau libre à l'extérieur de la cellule est plus faible qu'à l'intérieur. L'eau se déplacera par osmose de la zone de concentration d'eau libre plus élevée (à l'intérieur de la cellule) vers la zone de concentration d'eau libre plus faible (à l'extérieur de la cellule). À mesure que l'eau quitte le globule rouge, il va rétrécir ou se créneler.",
+      "de": "In einer hypertonischen Lösung ist die Konzentration der nicht eindringenden gelösten Stoffe außerhalb der Zelle höher als innerhalb. Dies bedeutet, dass die freie Wasserkonzentration außerhalb der Zelle niedriger ist als innerhalb. Wasser bewegt sich durch Osmose von dem Bereich höherer freier Wasserkonzentration (innerhalb der Zelle) in den Bereich niedrigerer freier Wasserkonzentration (außerhalb der Zelle). Wenn Wasser die rote Blutzelle verlässt, schrumpft sie oder kreiert.",
+      "ja": "高張液では、細胞外の非透過性溶質の濃度が細胞内よりも高くなります。これは、細胞外の自由水濃度が細胞内よりも低いことを意味します。水は浸透によって、自由水濃度が高い領域（細胞内）から自由水濃度が低い領域（細胞外）へ移動します。赤血球から水が移動すると、細胞は収縮またはしぼみます。"
+    }
+  },
+  {
+    "page_number": 190,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Cotransport is a type of active transport where ATP is not directly hydrolyzed by the cotransporter protein. Why is cotransport still considered a form of active transport?",
+      "zh": "协同运输是一种主动运输，其中ATP不被协同转运蛋白直接水解。为什么协同运输仍然被认为是主动运输的一种形式？",
+      "es": "El cotransporte es un tipo de transporte activo donde el ATP no es hidrolizado directamente por la proteína cotransportadora. ¿Por qué el cotransporte todavía se considera una forma de transporte activo?",
+      "fr": "Le cotransport est un type de transport actif où l'ATP n'est pas directement hydrolysé par la protéine de cotransport. Pourquoi le cotransport est-il toujours considéré comme une forme de transport actif?",
+      "de": "Cotransport ist eine Art des aktiven Transports, bei dem ATP nicht direkt durch das Cotransporter-Protein hydrolysiert wird. Warum wird Cotransport dennoch als eine Form des aktiven Transports angesehen?",
+      "ja": "共輸送は、ATPが共輸送タンパク質によって直接加水分解されない能動輸送の一種です。なぜ共輸送は依然として能動輸送の一種と見なされるのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Because it relies on the diffusion of a substance down its concentration gradient.",
+          "zh": "因为它依赖于物质顺着浓度梯度的扩散。",
+          "es": "Porque se basa en la difusión de una sustancia a favor de su gradiente de concentración.",
+          "fr": "Parce qu'il repose sur la diffusion d'une substance selon son gradient de concentration.",
+          "de": "Weil es auf der Diffusion einer Substanz entlang ihres Konzentrationsgradienten beruht.",
+          "ja": "濃度勾配に従った物質の拡散に依存しているためです。"
+        },
+        "feedback": {
+          "en": "While the 'downhill' movement of one solute drives cotransport, this movement itself is passive. The 'active' nature comes from how that gradient was established.",
+          "zh": "尽管一个溶质的“顺坡”移动驱动协同运输，但这种移动本身是被动的。“主动”性质来自于该梯度是如何建立的。",
+          "es": "Aunque el movimiento 'cuesta abajo' de un soluto impulsa el cotransporte, este movimiento en sí mismo es pasivo. La naturaleza 'activa' proviene de cómo se estableció ese gradiente.",
+          "fr": "Bien que le mouvement 'en aval' d'un soluté entraîne le cotransport, ce mouvement est lui-même passif. La nature 'active' provient de la manière dont ce gradient a été établi.",
+          "de": "Während die „bergab“-Bewegung eines gelösten Stoffes den Cotransport antreibt, ist diese Bewegung selbst passiv. Der „aktive“ Charakter ergibt sich daraus, wie dieser Gradient aufgebaut wurde.",
+          "ja": "ある溶質の「下り坂」の動きが共輸送を推進しますが、この動き自体は受動的です。「能動的」な性質は、その勾配がどのように確立されたかに由来します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Because it moves both solutes against their concentration gradients simultaneously.",
+          "zh": "因为它同时将两种溶质逆着浓度梯度移动。",
+          "es": "Porque mueve ambos solutos contra sus gradientes de concentración simultáneamente.",
+          "fr": "Parce qu'il déplace les deux solutés contre leurs gradients de concentration simultanément.",
+          "de": "Weil es beide gelösten Stoffe gleichzeitig entgegen ihrer Konzentrationsgradienten bewegt.",
+          "ja": "両方の溶質を同時に濃度勾配に逆らって移動させるためです。"
+        },
+        "feedback": {
+          "en": "In cotransport, only one solute (the one being 'pulled') moves against its gradient. The other solute moves down its gradient to provide energy.",
+          "zh": "在协同运输中，只有一个溶质（被“拉动”的那个）逆着其梯度移动。另一个溶质顺着其梯度移动以提供能量。",
+          "es": "En el cotransporte, solo un soluto (el que está siendo 'tirado') se mueve en contra de su gradiente. El otro soluto se mueve a favor de su gradiente para proporcionar energía.",
+          "fr": "Dans le cotransport, un seul soluté (celui qui est 'tiré') se déplace contre son gradient. L'autre soluté se déplace selon son gradient pour fournir de l'énergie.",
+          "de": "Beim Cotransport bewegt sich nur ein gelöster Stoff (derjenige, der „gezogen“ wird) entgegen seines Gradienten. Der andere gelöste Stoff bewegt sich entlang seines Gradienten, um Energie bereitzustellen.",
+          "ja": "共輸送では、片方の溶質（「引っ張られる」溶質）だけが勾配に逆らって移動します。もう一方の溶質は、エネルギーを供給するために勾配に沿って移動します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Because the 'downhill' diffusion of one solute, which provides the energy, was established by a primary active transport process that *did* directly use ATP.",
+          "zh": "因为提供能量的一个溶质的“顺坡”扩散，是由一个直接使用ATP的初级主动运输过程建立的。",
+          "es": "Porque la difusión 'cuesta abajo' de un soluto, que proporciona la energía, fue establecida por un proceso de transporte activo primario que *sí* utilizó directamente ATP.",
+          "fr": "Parce que la diffusion 'en aval' d'un soluté, qui fournit l'énergie, a été établie par un processus de transport actif primaire qui *a* directement utilisé l'ATP.",
+          "de": "Weil die „bergab“-Diffusion eines gelösten Stoffes, die die Energie liefert, durch einen primären aktiven Transportprozess etabliert wurde, der *direkt* ATP verbraucht hat.",
+          "ja": "エネルギーを供給するある溶質の「下り坂」の拡散は、*直接*ATPを使用した一次能動輸送プロセスによって確立されたためです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Because it is a form of facilitated diffusion that uses two different solutes.",
+          "zh": "因为它是一种使用两种不同溶质的协助扩散形式。",
+          "es": "Porque es una forma de difusión facilitada que utiliza dos solutos diferentes.",
+          "fr": "Parce qu'il s'agit d'une forme de diffusion facilitée qui utilise deux solutés différents.",
+          "de": "Weil es eine Form der erleichterten Diffusion ist, die zwei verschiedene gelöste Stoffe verwendet.",
+          "ja": "2種類の異なる溶質を使用する促進拡散の一種であるためです。"
+        },
+        "feedback": {
+          "en": "Cotransport is a form of active transport, not facilitated diffusion. Facilitated diffusion is passive and moves substances only down their gradients.",
+          "zh": "协同运输是一种主动运输，而不是协助扩散。协助扩散是被动的，并且只将物质顺着它们的梯度移动。",
+          "es": "El cotransporte es una forma de transporte activo, no de difusión facilitada. La difusión facilitada es pasiva y mueve sustancias solo a favor de sus gradientes.",
+          "fr": "Le cotransport est une forme de transport actif, pas de diffusion facilitée. La diffusion facilitée est passive et ne déplace les substances que selon leurs gradients.",
+          "de": "Cotransport ist eine Form des aktiven Transports, nicht der erleichterten Diffusion. Erleichterte Diffusion ist passiv und bewegt Substanzen nur entlang ihrer Gradienten.",
+          "ja": "共輸送は能動輸送の一種であり、促進拡散ではありません。促進拡散は受動的であり、物質を勾配に沿ってのみ移動させます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Cotransport is considered active transport because the 'downhill' diffusion of one solute, which provides the energy for the 'uphill' transport of the other, was itself established by a primary active transport mechanism that directly consumed ATP. Thus, the energy for cotransport is indirectly derived from ATP hydrolysis.",
+      "zh": "协同运输被认为是主动运输，因为一个溶质的“顺坡”扩散（它为另一个溶质的“逆坡”运输提供了能量）本身是由直接消耗ATP的初级主动运输机制建立的。因此，协同运输的能量是间接来源于ATP水解的。",
+      "es": "El cotransporte se considera transporte activo porque la difusión 'cuesta abajo' de un soluto, que proporciona la energía para el transporte 'cuesta arriba' del otro, fue establecida por un mecanismo de transporte activo primario que consumió directamente ATP. Por lo tanto, la energía para el cotransporte se deriva indirectamente de la hidrólisis de ATP.",
+      "fr": "Le cotransport est considéré comme un transport actif parce que la diffusion 'en aval' d'un soluté, qui fournit l'énergie pour le transport 'en amont' de l'autre, a été elle-même établie par un mécanisme de transport actif primaire qui a directement consommé de l'ATP. Ainsi, l'énergie pour le cotransport est indirectement dérivée de l'hydrolyse de l'ATP.",
+      "de": "Cotransport wird als aktiver Transport angesehen, da die „bergab“-Diffusion eines gelösten Stoffes, die die Energie für den „bergauf“-Transport des anderen liefert, selbst durch einen primären aktiven Transportmechanismus etabliert wurde, der direkt ATP verbrauchte. Die Energie für den Cotransport wird somit indirekt aus der ATP-Hydrolyse gewonnen.",
+      "ja": "共輸送は能動輸送と見なされます。なぜなら、一方の溶質の「下り坂」の拡散（もう一方の「上り坂」輸送にエネルギーを供給する）が、ATPを直接消費する一次能動輸送メカニズムによって確立されたからです。したがって、共輸送のエネルギーはATP加水分解から間接的に得られます。"
+    }
+  }
+]

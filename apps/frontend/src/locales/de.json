@@ -1,0 +1,279 @@
+{
+    "meta": {
+        "title": "BioPal — KI-Lernbegleiter für Campbell-Biologie",
+        "description": "Ein KI-Lernbegleiter für Studierende der Campbell-Biologie."
+    },
+    "questionList": {
+        "title": "Seitenfragen",
+        "tooltip": {
+            "title": "Frage {index} Statistiken",
+            "accuracy": "Genauigkeit",
+            "attempts": "Versuche",
+            "correct": "Richtig",
+            "incorrect": "Falsch"
+        },
+        "noQuestions": "Keine Fragen verfügbar.",
+        "chart": {
+            "correct": "Richtig",
+            "incorrect": "Falsch",
+            "unanswered": "Unbeantwortet"
+        },
+        "accuracy": {
+            "excellent": "Ausgezeichnet (90%+)",
+            "good": "Gut (70-89%)",
+            "average": "Durchschnittlich (50-69%)",
+            "poor": "Schwach (30-49%)",
+            "bad": "Verbesserungsbedarf (<30%)",
+            "unanswered": "Nicht versucht"
+        }
+    },
+    "questionViewer": {
+        "explanation": "Erklärung",
+        "selectMultiple": "Mehrfachauswahl",
+        "selectSingle": "Einzelauswahl",
+        "toast": {
+            "correct": "Richtige Antwort!",
+            "partiallyCorrect": "Teilweise richtig!",
+            "incorrect": "Falsche Antwort!",
+            "submitError": "Antwort konnte nicht gesendet werden. Bitte erneut versuchen."
+        },
+        "result": {
+            "correct": "Richtig",
+            "partiallyCorrect": "Teilweise richtig",
+            "incorrect": "Falsch"
+        },
+        "aiExplain": "KI-Erklärung",
+        "aiInitialPrompt": "Bitte erkläre diese Frage.",
+        "analysis": {
+            "correctSelections": "Korrekte Auswahl",
+            "incorrectSelections": "Falsche Auswahl",
+            "missedAnswers": "Verpasste Antworten"
+        },
+        "answeredBy": "Beantwortet von",
+        "socialStats": {
+            "totalAttempts": "Gesamtversuche: {count}",
+            "correctAttempts": "Korrekte Versuche: {count}"
+        },
+        "commentPanel": {
+            "titlePrefix": "Fragekommentare: ",
+            "description": "Kommentare zu dieser Frage anzeigen und posten."
+        }
+    },
+    "header": {
+        "home": "Start",
+        "ai_chat": "KI-Chat",
+        "review": "Wiederholung",
+        "login": "Anmelden",
+        "language": "Sprache",
+        "logout": "Abmelden"
+    },
+    "theme": {
+        "toggle": "Thema umschalten",
+        "switch_to_light": "Zum hellen Modus wechseln",
+        "switch_to_dark": "Zum dunklen Modus wechseln"
+    },
+    "common": {
+        "anonymousUser": "Anonymer Benutzer",
+        "submit": "Absenden",
+        "submitting": "Wird gesendet...",
+        "close": "Schließen",
+        "notAvailable": "N/V",
+        "cancel": "Abbrechen",
+        "delete": "Löschen"
+    },
+    "comments": {
+        "reply": "Antworten",
+        "loading": "Kommentare werden geladen...",
+        "noComments": "Noch keine Kommentare, sei der Erste!",
+        "noMoreComments": "Keine weiteren Kommentare.",
+        "replyingTo": "Antwortet auf",
+        "placeholder": "Teile deine Erkenntnisse oder Fragen...",
+        "myCommentsOnly": "Nur meine Kommentare anzeigen"
+    },
+    "companionPanel": {
+        "tabs": {
+            "knowledgeGraph": "Wissensgraph",
+            "questions": "Fragen"
+        },
+        "loadingError": "Begleiterdaten konnten nicht geladen werden.",
+        "knowledgeGraph": {
+            "title": "Wissensgraph-Ansicht",
+            "description": "Eine Mindmap zur aktuellen Seite wird hier angezeigt.",
+            "noData": "Keine Wissensgraph-Daten für diese Seite verfügbar."
+        }
+    },
+    "pdfViewer": {
+        "sheet": {
+            "title": "Seitenkommentare",
+            "description": "Kommentare zu dieser Seite anzeigen und posten."
+        },
+        "waitingForPdf": "Warten auf PDF-Daten...",
+        "zoom": {
+            "in": "Vergrößern",
+            "out": "Verkleinern",
+            "reset": "Zoom zurücksetzen"
+        },
+        "pan": {
+            "holdSpace": "Halte Leertaste zum Verschieben",
+            "toastMessage": "Tipp: Halte die Leertaste gedrückt, um das Dokument zu verschieben."
+        }
+    },
+    "login": {
+        "welcome_title": "Willkommen beim Biologie-Lernbegleiter",
+        "welcome_subtitle": "Mit deinem Google-Konto fortfahren",
+        "sign_in_with_google": "Mit Google anmelden",
+        "signing_in": "Anmeldung..."
+    },
+    "wrongAnswerNotebook": {
+        "title": "Fehlerheft",
+        "description": "Fragen ansehen und wiederholen, die du falsch beantwortet hast.",
+        "selectRange": "Datumsbereich auswählen",
+        "predefinedRanges": "Vordefinierte Bereiche",
+        "last1Day": "Letzte 1 Tag",
+        "last3Days": "Letzte 3 Tage",
+        "last7Days": "Letzte 7 Tage",
+        "last30Days": "Letzte 30 Tage",
+        "noWrongAnswers": "Glückwunsch! Du hast kürzlich keine falschen Antworten."
+    },
+    "leaderboard": {
+        "title": "Bestenliste",
+        "description": "Benutzer-Rankings basierend auf verschiedenen Leistungskennzahlen ansehen.",
+        "sortBy": "Sortieren nach",
+        "sortByOptions": {
+            "totalAttempts": "Gesamtversuche",
+            "correctAttempts": "Korrekte Versuche",
+            "accuracy": "Genauigkeit"
+        },
+        "selectRange": "Datumsbereich auswählen",
+        "predefinedRanges": "Vordefinierte Bereiche",
+        "last1Day": "Letzte 1 Tag",
+        "last7Days": "Letzte 7 Tage",
+        "last30Days": "Letzte 30 Tage",
+        "allTime": "Alle Zeiten",
+        "noData": "Keine Daten für die Bestenliste verfügbar.",
+        "tableHeaders": {
+            "user": "Benutzer",
+            "totalAttempts": "Gesamtversuche",
+            "correctAttempts": "Korrekte Versuche",
+            "accuracy": "Genauigkeit"
+        }
+    },
+    "graph": {
+        "relatedNodesTitle": "Verwandte Konzepte: {node}",
+        "relatedNodesTitleGeneric": "Verwandte Konzepte",
+        "loadingGraphData": "Lade Graphdaten...",
+        "errorFetchingGraphData": "Fehler beim Laden der Graphdaten: {message}",
+        "toolbar": {
+            "delete": "Löschen",
+            "confirmDeleteTitle": "Löschen bestätigen",
+            "confirmDeleteDescription": "Sind Sie sicher, dass Sie das Konzept {nodeId} löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
+            "cancel": "Abbrechen"
+        }
+    },
+    "graphDataDialog": {
+        "title": "Wissensgraph",
+        "titleFor": "Wissensgraph für",
+        "description": "Erkunde die zugehörigen Konzepte und Seiten.",
+        "noData": "Für dieses Konzept sind keine Graphdaten verfügbar.",
+        "closeButton": "Schließen"
+    },
+    "aiChat": {
+        "title": "KI-Chat",
+        "description": "Chatte mit einer KI, um Hilfe bei Biologiefragen zu erhalten.",
+        "noMessages": "Noch keine Nachrichten. Starte die Konversation!",
+        "inputPlaceholder": "Gib deine Nachricht hier ein...",
+        "inputPlaceholderForNode": "Bitte erklären Sie dieses Konzept",
+        "sendButton": "Senden",
+        "confirmDeleteMessage": "Möchten Sie diesen Gesprächszug wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.",
+        "messageDeleted": "Gesprächszug erfolgreich gelöscht.",
+        "deleteError": "Fehler beim Löschen des Gesprächszugs. Bitte versuchen Sie es erneut.",
+        "confirmDeleteDescription": "Diese Aktion löscht diesen Gesprächszug dauerhaft und kann nicht wiederhergestellt werden."
+    },
+    "learningView": {
+        "pageTitle": "Seite {page} - Campbell Biologie",
+        "pageDescription": "Erkunde Inhalte und Fragen für Seite {page} der Campbell Biologie."
+    },
+    "landing": {
+        "hero": {
+            "badge": "🎓 KI-gesteuerte Lernplattform",
+            "title": "Campbell Biology mit KI meistern",
+            "subtitle": "Transformieren Sie Ihre Biologie-Lernerfahrung mit interaktiven Wissensgraphen, kontextuellen Quiz und personalisiertem KI-Tutoring. Speziell für das Campbell Biology Lehrbuch entwickelt.",
+            "cta": "Mit Google Lernen Beginnen",
+            "free_trial": "Kostenlos für immer",
+            "no_credit_card": "Keine Kreditkarte erforderlich"
+        },
+        "stats": {
+            "chapters": "Kapitel",
+            "questions": "Übungsfragen",
+            "ai_support": "KI-Support",
+            "languages": "Sprachen"
+        },
+        "features": {
+            "badge": "🚀 Kernfunktionen",
+            "title": "Alles, Was Sie Zum Erfolg Brauchen",
+            "subtitle": "Umfassende Werkzeuge, die Campbell Biology zugänglich und ansprechend machen",
+            "new": "Neu",
+            "coming_soon": "Demnächst",
+            "one": {
+                "title": "Interaktive Wissensgraphen",
+                "description": "Visualisieren Sie komplexe biologische Beziehungen und navigieren Sie zwischen vernetzten Konzepten mit unserem dynamischen Wissenskartierungssystem.",
+                "highlight1": "✨ Visuelle Konzeptbeziehungen",
+                "highlight2": "🔍 Ein-Klick-Konzeptexploration"
+            },
+            "two": {
+                "title": "KI-gesteuerter Lernassistent",
+                "description": "Erhalten Sie sofortige Antworten, Erklärungen und Lernberatung von unserem fortschrittlichen KI-Tutor, der speziell auf Campbell Biology Inhalte trainiert wurde.",
+                "highlight1": "🤖 24/7 intelligentes Tutoring",
+                "highlight2": "💬 Kontextuelle Lernunterstützung"
+            },
+            "three": {
+                "title": "Intelligentes Wiederholungssystem",
+                "description": "Meistern Sie schwierige Konzepte mit Algorithmen für verteilte Wiederholung und personalisierten Wiederholungsplänen basierend auf Ihrem Lernfortschritt.",
+                "highlight1": "📊 Leistungsanalysen",
+                "highlight2": "🎯 Adaptive Schwierigkeitsanpassung"
+            }
+        },
+        "testimonials": {
+            "badge": "💬 Studenten-Erfolg",
+            "title": "Geliebt von Studenten Weltweit",
+            "subtitle": "Schließen Sie sich Tausenden von Studenten an, die ihre Biologie-Lernerfahrung transformiert haben",
+            "student1": {
+                "name": "Sarah Chen",
+                "role": "Vorklinik-Studentin",
+                "content": "BioPals Wissensgraphen halfen mir, komplexe zelluläre Prozesse zu verstehen wie nie zuvor. Meine Prüfungsnoten verbesserten sich um 25%!"
+            },
+            "student2": {
+                "name": "Marcus Johnson",
+                "role": "Biologie-Student",
+                "content": "Der KI-Tutor ist wie ein persönlicher Biologie-Professor, der 24/7 verfügbar ist. Er erklärt Konzepte auf mehrere Arten, bis ich es verstehe."
+            },
+            "student3": {
+                "name": "Elena Rodriguez",
+                "role": "Graduierten-Studentin",
+                "content": "Die mehrsprachige Unterstützung half mir, in meiner Muttersprache zu studieren und gleichzeitig englisches Biologie-Vokabular aufzubauen. Absolut brillant!"
+            }
+        },
+        "cta": {
+            "title": "Bereit, Ihr Biologie-Lernen zu Transformieren?",
+            "subtitle": "Schließen Sie sich Tausenden von Studenten an, die Campbell Biology bereits mit KI-gesteuerten Lernwerkzeugen meistern.",
+            "button": "Kostenlos Starten"
+        },
+        "footer": {
+            "description": "KI-gesteuerter Lernbegleiter für Campbell Biology Studenten weltweit.",
+            "product": "Produkt",
+            "features": "Funktionen",
+            "pricing": "Preise",
+            "roadmap": "Roadmap",
+            "support": "Support",
+            "help_center": "Hilfezentrum",
+            "contact": "Kontakt",
+            "community": "Community",
+            "legal": "Rechtliches",
+            "privacy": "Datenschutzrichtlinie",
+            "terms": "Nutzungsbedingungen",
+            "cookies": "Cookie-Richtlinie",
+            "rights": "Alle Rechte vorbehalten.",
+            "version": "Version"
+        }
+    }
+}

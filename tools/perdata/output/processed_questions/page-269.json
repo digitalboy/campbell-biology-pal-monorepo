@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 269,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following accurately describes the sequence of events for a ligand-gated ion channel, as depicted in Figure 11.8?",
+      "zh": "以下哪项准确描述了配体门控离子通道的事件序列，如图 11.8 所示？",
+      "es": "¿Cuál de las siguientes describe con precisión la secuencia de eventos para un canal iónico regulado por ligando, como se muestra en la Figura 11.8?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision la séquence d'événements pour un canal ionique ligand-dépendant, tel que représenté sur la Figure 11.8 ?",
+      "de": "Welche der folgenden Aussagen beschreibt die Abfolge der Ereignisse für einen Liganden-gesteuerten Ionenkanal, wie in Abbildung 11.8 dargestellt, korrekt?",
+      "ja": "図11.8に示されているように、リガンド作動性イオンチャネルの事象のシーケンスを正確に記述しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Ligand binds to receptor → Channel closes → Ions enter cell.",
+          "zh": "配体与受体结合 → 通道关闭 → 离子进入细胞。",
+          "es": "El ligando se une al receptor → El canal se cierra → Los iones entran en la célula.",
+          "fr": "Le ligand se lie au récepteur → Le canal se ferme → Les ions entrent dans la cellule.",
+          "de": "Ligand bindet an Rezeptor → Kanal schließt → Ionen treten in die Zelle ein.",
+          "ja": "リガンドが受容体に結合 → チャネルが閉じる → イオンが細胞に入る。"
+        },
+        "feedback": {
+          "en": "Binding of a ligand to a ligand-gated channel typically causes it to open, not close, allowing ions to enter.",
+          "zh": "配体与配体门控通道结合通常会使其打开，而不是关闭，从而允许离子进入。",
+          "es": "La unión de un ligando a un canal regulado por ligando típicamente hace que se abra, no que se cierre, permitiendo la entrada de iones.",
+          "fr": "La liaison d'un ligand à un canal ligand-dépendant provoque généralement son ouverture, et non sa fermeture, permettant aux ions d'entrer.",
+          "de": "Die Bindung eines Liganden an einen Liganden-gesteuerten Kanal bewirkt typischerweise dessen Öffnung, nicht dessen Schließung, wodurch Ionen eintreten können.",
+          "ja": "リガンドがリガンド作動性チャネルに結合すると、通常は閉じずに開き、イオンが流入します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Channel is closed → Ligand binds and channel opens → Ions flow in, triggering cellular response → Ligand dissociates and channel closes.",
+          "zh": "通道关闭 → 配体结合且通道打开 → 离子流入，触发细胞反应 → 配体解离且通道关闭。",
+          "es": "El canal está cerrado → El ligando se une y el canal se abre → Los iones fluyen, desencadenando una respuesta celular → El ligando se disocia y el canal se cierra.",
+          "fr": "Le canal est fermé → Le ligand se lie et le canal s'ouvre → Les ions entrent, déclenchant une réponse cellulaire → Le ligand se dissocie et le canal se ferme.",
+          "de": "Kanal ist geschlossen → Ligand bindet und Kanal öffnet sich → Ionen strömen ein, was eine zelluläre Reaktion auslöst → Ligand dissoziiert und Kanal schließt sich.",
+          "ja": "チャネルは閉じている → リガンドが結合してチャネルが開く → イオンが流入し、細胞応答を誘発 → リガンドが解離し、チャネルが閉じる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Ions flow into cell → Channel opens → Ligand binds to receptor.",
+          "zh": "离子进入细胞 → 通道打开 → 配体与受体结合。",
+          "es": "Los iones fluyen hacia la célula → El canal se abre → El ligando se une al receptor.",
+          "fr": "Les ions entrent dans la cellule → Le canal s'ouvre → Le ligand se lie au récepteur.",
+          "de": "Ionen strömen in die Zelle → Kanal öffnet sich → Ligand bindet an Rezeptor.",
+          "ja": "イオンが細胞に流入 → チャネルが開く → リガンドが受容体に結合。"
+        },
+        "feedback": {
+          "en": "Ligand binding is the initial trigger for the channel to open and allow ion flow, not the other way around.",
+          "zh": "配体结合是通道打开并允许离子流动的最初触发因素，而不是反过来。",
+          "es": "La unión del ligando es el desencadenante inicial para que el canal se abra y permita el flujo de iones, no al revés.",
+          "fr": "La liaison du ligand est le déclencheur initial de l'ouverture du canal et du flux d'ions, et non l'inverse.",
+          "de": "Die Ligandenbindung ist der anfängliche Auslöser für die Öffnung des Kanals und den Ionenfluss, nicht umgekehrt.",
+          "ja": "リガンド結合が、チャネルが開いてイオンが流入する最初の引き金であり、その逆ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Ligand dissociates → Channel opens → Ions flow out.",
+          "zh": "配体解离 → 通道打开 → 离子流出。",
+          "es": "El ligando se disocia → El canal se abre → Los iones fluyen hacia afuera.",
+          "fr": "Le ligand se dissocie → Le canal s'ouvre → Les ions sortent.",
+          "de": "Ligand dissoziiert → Kanal öffnet sich → Ionen strömen aus.",
+          "ja": "リガンドが解離 → チャネルが開く → イオンが流出。"
+        },
+        "feedback": {
+          "en": "When the ligand dissociates, the channel closes, and ions no longer enter the cell. The question describes inflow, not outflow.",
+          "zh": "当配体解离时，通道关闭，离子不再进入细胞。题目描述的是流入，而非流出。",
+          "es": "Cuando el ligando se disocia, el canal se cierra y los iones ya no entran en la célula. La pregunta describe la entrada, no la salida.",
+          "fr": "Lorsque le ligand se dissocie, le canal se ferme et les ions n'entrent plus dans la cellule. La question décrit un afflux, et non un efflux.",
+          "de": "Wenn der Ligand dissoziiert, schließt sich der Kanal, und Ionen treten nicht mehr in die Zelle ein. Die Frage beschreibt den Einstrom, nicht den Ausstrom.",
+          "ja": "リガンドが解離すると、チャネルは閉じ、イオンは細胞に入らなくなります。質問は流入についてであり、流出ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 11.8 clearly illustrates three sequential steps: (1) The channel is initially closed. (2) Ligand binds, causing the channel to open and ions to flow in, leading to a cellular response. (3) The ligand dissociates, and the channel closes, stopping ion flow. Option B accurately captures this entire sequence.",
+      "zh": "图 11.8 清晰地展示了三个连续的步骤：(1) 通道最初是关闭的。(2) 配体结合，导致通道打开，离子流入，从而产生细胞反应。(3) 配体解离，通道关闭，停止离子流动。选项 B 准确地概括了整个序列。",
+      "es": "La Figura 11.8 ilustra claramente tres pasos secuenciales: (1) El canal está inicialmente cerrado. (2) El ligando se une, lo que provoca la apertura del canal y el flujo de iones, lo que lleva a una respuesta celular. (3) El ligando se disocia y el canal se cierra, deteniendo el flujo de iones. La opción B captura con precisión toda esta secuencia.",
+      "fr": "La Figure 11.8 illustre clairement trois étapes séquentielles : (1) Le canal est initialement fermé. (2) Le ligand se lie, provoquant l'ouverture du canal et l'entrée des ions, entraînant une réponse cellulaire. (3) Le ligand se dissocie, et le canal se ferme, arrêtant le flux d'ions. L'option B décrit précisément l'ensemble de cette séquence.",
+      "de": "Abbildung 11.8 veranschaulicht deutlich drei aufeinanderfolgende Schritte: (1) Der Kanal ist anfänglich geschlossen. (2) Ligand bindet, wodurch sich der Kanal öffnet und Ionen einströmen, was zu einer zellulären Reaktion führt. (3) Der Ligand dissoziiert, und der Kanal schließt sich, wodurch der Ionenfluss gestoppt wird. Option B erfasst diese gesamte Abfolge genau.",
+      "ja": "図11.8は、3つの連続するステップを明確に示しています。(1) チャネルは最初は閉じている。(2) リガンドが結合すると、チャネルが開き、イオンが流入し、細胞応答につながる。(3) リガンドが解離すると、チャネルが閉じ、イオンの流れが止まる。選択肢Bは、この一連の流れ全体を正確に捉えています。"
+    }
+  },
+  {
+    "page_number": 269,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which of the following statements most accurately highlights a key difference between ligand-gated ion channels and intracellular receptors?",
+      "zh": "以下哪项最准确地突出了配体门控离子通道和细胞内受体之间的关键区别？",
+      "es": "¿Cuál de las siguientes afirmaciones destaca con mayor precisión una diferencia clave entre los canales iónicos regulados por ligando y los receptores intracelulares?",
+      "fr": "Laquelle des affirmations suivantes met en évidence, avec le plus de précision, une différence clé entre les canaux ioniques ligand-dépendants et les récepteurs intracellulaires ?",
+      "de": "Welche der folgenden Aussagen hebt am genauesten einen wesentlichen Unterschied zwischen Liganden-gesteuerten Ionenkanälen und intrazellulären Rezeptoren hervor?",
+      "ja": "次の記述のうち、リガンド作動性イオンチャネルと細胞内受容体の主要な違いを最も正確に示しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Ligand-gated ion channels primarily bind hydrophobic ligands, while intracellular receptors bind hydrophilic ligands.",
+          "zh": "配体门控离子通道主要结合疏水性配体，而细胞内受体结合亲水性配体。",
+          "es": "Los canales iónicos regulados por ligando unen principalmente ligandos hidrofóbicos, mientras que los receptores intracelulares unen ligandos hidrofílicos.",
+          "fr": "Les canaux ioniques ligand-dépendants se lient principalement à des ligands hydrophobes, tandis que les récepteurs intracellulaires se lient à des ligands hydrophiles.",
+          "de": "Liganden-gesteuerte Ionenkanäle binden hauptsächlich hydrophobe Liganden, während intrazelluläre Rezeptoren hydrophile Liganden binden.",
+          "ja": "リガンド作動性イオンチャネルは主に疎水性リガンドに結合し、細胞内受容体は親水性リガンドに結合します。"
+        },
+        "feedback": {
+          "en": "The opposite is generally true for intracellular receptors, which bind hydrophobic or small ligands that can cross the membrane. Ligand-gated ion channel ligands can be hydrophilic as they don't need to cross the membrane.",
+          "zh": "对于细胞内受体而言，情况通常相反，它们结合可以穿过膜的疏水或小分子配体。配体门控离子通道的配体可以是亲水的，因为它们不需要穿过膜。",
+          "es": "Lo contrario es generalmente cierto para los receptores intracelulares, que unen ligandos hidrofóbicos o pequeños que pueden cruzar la membrana. Los ligandos de los canales iónicos regulados por ligando pueden ser hidrofílicos ya que no necesitan cruzar la membrana.",
+          "fr": "C'est généralement l'inverse pour les récepteurs intracellulaires, qui se lient à des ligands hydrophobes ou de petite taille pouvant traverser la membrane. Les ligands des canaux ioniques ligand-dépendants peuvent être hydrophiles car ils n'ont pas besoin de traverser la membrane.",
+          "de": "Für intrazelluläre Rezeptoren trifft im Allgemeinen das Gegenteil zu; sie binden hydrophobe oder kleine Liganden, die die Membran durchqueren können. Liganden von Liganden-gesteuerten Ionenkanälen können hydrophil sein, da sie die Membran nicht durchqueren müssen.",
+          "ja": "細胞内受容体の場合、膜を通過できる疎水性または小分子のリガンドが結合するのが一般的です。リガンド作動性イオンチャネルのリガンドは、膜を通過する必要がないため、親水性である可能性があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Ligand-gated ion channels are located in the cytoplasm or nucleus, whereas intracellular receptors are embedded in the plasma membrane.",
+          "zh": "配体门控离子通道位于细胞质或细胞核中，而细胞内受体嵌入质膜中。",
+          "es": "Los canales iónicos regulados por ligando se encuentran en el citoplasma o el núcleo, mientras que los receptores intracelulares están incrustados en la membrana plasmática.",
+          "fr": "Les canaux ioniques ligand-dépendants sont situés dans le cytoplasme ou le noyau, tandis que les récepteurs intracellulaires sont intégrés dans la membrane plasmatique.",
+          "de": "Liganden-gesteuerte Ionenkanäle befinden sich im Zytoplasma oder Zellkern, während intrazelluläre Rezeptoren in die Plasmamembran eingebettet sind.",
+          "ja": "リガンド作動性イオンチャネルは細胞質または核に位置し、一方、細胞内受容体は形質膜に埋め込まれている。"
+        },
+        "feedback": {
+          "en": "This statement reverses the correct locations. Ligand-gated ion channels are membrane receptors, and intracellular receptors are in the cytoplasm or nucleus.",
+          "zh": "此说法颠倒了正确的位置。配体门控离子通道是膜受体，而细胞内受体位于细胞质或细胞核中。",
+          "es": "Esta afirmación invierte las ubicaciones correctas. Los canales iónicos regulados por ligando son receptores de membrana, y los receptores intracelulares están en el citoplasma o el núcleo.",
+          "fr": "Cette affirmation inverse les emplacements corrects. Les canaux ioniques ligand-dépendants sont des récepteurs membranaires, et les récepteurs intracellulaires se trouvent dans le cytoplasme ou le noyau.",
+          "de": "Diese Aussage kehrt die korrekten Standorte um. Liganden-gesteuerte Ionenkanäle sind Membranrezeptoren, und intrazelluläre Rezeptoren befinden sich im Zytoplasma oder Zellkern.",
+          "ja": "この記述は正しい位置を逆転させています。リガンド作動性イオンチャネルは膜受容体であり、細胞内受容体は細胞質または核に存在します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Ligand-gated ion channels directly regulate ion flow across the membrane, while intracellular receptors typically alter gene expression.",
+          "zh": "配体门控离子通道直接调节跨膜的离子流动，而细胞内受体通常改变基因表达。",
+          "es": "Los canales iónicos regulados por ligando regulan directamente el flujo de iones a través de la membrana, mientras que los receptores intracelulares típicamente alteran la expresión génica.",
+          "fr": "Les canaux ioniques ligand-dépendants régulent directement le flux d'ions à travers la membrane, tandis que les récepteurs intracellulaires modifient typiquement l'expression génique.",
+          "de": "Liganden-gesteuerte Ionenkanäle regulieren direkt den Ionenfluss über die Membran, während intrazelluläre Rezeptoren typischerweise die Genexpression verändern.",
+          "ja": "リガンド作動性イオンチャネルは膜を介したイオンの流れを直接調節しますが、細胞内受容体は通常、遺伝子発現を変化させます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both receptor types require ATP hydrolysis for ligand binding and activation.",
+          "zh": "这两种受体类型都需要 ATP 水解才能进行配体结合和激活。",
+          "es": "Ambos tipos de receptores requieren hidrólisis de ATP para la unión y activación del ligando.",
+          "fr": "Les deux types de récepteurs nécessitent l'hydrolyse de l'ATP pour la liaison du ligand et l'activation.",
+          "de": "Beide Rezeptortypen erfordern ATP-Hydrolyse für die Ligandenbindung und -aktivierung.",
+          "ja": "両方の受容体タイプは、リガンド結合と活性化のためにATP加水分解を必要とします。"
+        },
+        "feedback": {
+          "en": "Neither ligand-gated ion channels nor intracellular receptors typically require ATP hydrolysis for ligand binding or activation. Ion flow through channels is passive transport.",
+          "zh": "配体门控离子通道和细胞内受体通常都不需要 ATP 水解来进行配体结合或激活。通过通道的离子流动是被动运输。",
+          "es": "Ni los canales iónicos regulados por ligando ni los receptores intracelulares requieren típicamente hidrólisis de ATP para la unión del ligando o la activación. El flujo de iones a través de los canales es transporte pasivo.",
+          "fr": "Ni les canaux ioniques ligand-dépendants ni les récepteurs intracellulaires ne nécessitent généralement l'hydrolyse de l'ATP pour la liaison du ligand ou l'activation. Le flux d'ions à travers les canaux est un transport passif.",
+          "de": "Weder Liganden-gesteuerte Ionenkanäle noch intrazelluläre Rezeptoren benötigen typischerweise ATP-Hydrolyse für die Ligandenbindung oder Aktivierung. Der Ionenfluss durch Kanäle ist passiver Transport.",
+          "ja": "リガンド作動性イオンチャネルも細胞内受容体も、通常、リガンド結合や活性化にATP加水分解を必要としません。チャネルを介したイオンの流れは受動輸送です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Ligand-gated ion channels are membrane proteins that form a pore, allowing specific ions to pass through when activated by a ligand, directly affecting ion concentrations and electrical signals. In contrast, intracellular receptors bind ligands that have crossed the plasma membrane, and the resulting hormone-receptor complex often acts as a transcription factor in the nucleus, directly altering gene expression. This represents their primary functional difference.",
+      "zh": "配体门控离子通道是膜蛋白，当被配体激活时，它们会形成一个孔道，允许特定离子通过，直接影响离子浓度和电信号。相比之下，细胞内受体结合已穿过质膜的配体，由此产生的激素-受体复合物通常在细胞核中充当转录因子，直接改变基因表达。这代表了它们主要的功​​能差异。",
+      "es": "Los canales iónicos regulados por ligando son proteínas de membrana que forman un poro, permitiendo que iones específicos pasen cuando son activados por un ligando, afectando directamente las concentraciones de iones y las señales eléctricas. En contraste, los receptores intracelulares unen ligandos que han cruzado la membrana plasmática, y el complejo hormona-receptor resultante a menudo actúa como factor de transcripción en el núcleo, alterando directamente la expresión génica. Esto representa su principal diferencia funcional.",
+      "fr": "Les canaux ioniques ligand-dépendants sont des protéines membranaires qui forment un pore, permettant à des ions spécifiques de passer lorsqu'ils sont activés par un ligand, affectant directement les concentrations ioniques et les signaux électriques. En revanche, les récepteurs intracellulaires se lient à des ligands ayant traversé la membrane plasmatique, et le complexe hormone-récepteur résultant agit souvent comme un facteur de transcription dans le noyau, modifiant directement l'expression génique. Cela représente leur principale différence fonctionnelle.",
+      "de": "Liganden-gesteuerte Ionenkanäle sind Membranproteine, die eine Pore bilden, die es spezifischen Ionen ermöglicht, bei Aktivierung durch einen Liganden hindurchzutreten, wodurch Ionenkonzentrationen und elektrische Signale direkt beeinflusst werden. Im Gegensatz dazu binden intrazelluläre Rezeptoren Liganden, die die Plasmamembran durchquert haben, und der resultierende Hormon-Rezeptor-Komplex fungiert oft als Transkriptionsfaktor im Zellkern, wodurch die Genexpression direkt verändert wird. Dies stellt ihren primären funktionellen Unterschied dar.",
+      "ja": "リガンド作動性イオンチャネルは、リガンドによって活性化されると特定のイオンが通過できるように孔を形成する膜タンパク質であり、イオン濃度と電気信号に直接影響を与えます。対照的に、細胞内受容体は形質膜を通過したリガンドと結合し、その結果生じるホルモン-受容体複合体は、多くの場合、核内で転写因子として機能し、遺伝子発現を直接変化させます。これがそれらの主要な機能的違いを表しています。"
+    }
+  },
+  {
+    "page_number": 269,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Aldosterone is a hormone that circulates throughout the body but only affects kidney cells. Based on the information about intracellular receptors, what is the most logical explanation for this specificity?",
+      "zh": "醛固酮是一种在全身循环但只影响肾细胞的激素。基于关于细胞内受体的信息，对这种特异性最合乎逻辑的解释是什么？",
+      "es": "La aldosterona es una hormona que circula por todo el cuerpo pero solo afecta a las células renales. Basándose en la información sobre los receptores intracelulares, ¿cuál es la explicación más lógica para esta especificidad?",
+      "fr": "L'aldostérone est une hormone qui circule dans tout le corps mais n'affecte que les cellules rénales. D'après les informations sur les récepteurs intracellulaires, quelle est l'explication la plus logique de cette spécificité ?",
+      "de": "Aldosteron ist ein Hormon, das im gesamten Körper zirkuliert, aber nur die Nierenzellen beeinflusst. Basierend auf den Informationen über intrazelluläre Rezeptoren, was ist die logischste Erklärung für diese Spezifität?",
+      "ja": "アルドステロンは体内を循環するホルモンですが、腎臓の細胞にのみ影響を与えます。細胞内受容体に関する情報に基づくと、この特異性の最も論理的な説明は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Aldosterone is a very large molecule and can only enter kidney cells.",
+          "zh": "醛固酮是一个非常大的分子，只能进入肾细胞。",
+          "es": "La aldosterona es una molécula muy grande y solo puede entrar en las células renales.",
+          "fr": "L'aldostérone est une très grande molécule et ne peut entrer que dans les cellules rénales.",
+          "de": "Aldosteron ist ein sehr großes Molekül und kann nur in Nierenzellen gelangen.",
+          "ja": "アルドステロンは非常に大きな分子であり、腎臓の細胞にしか入ることができません。"
+        },
+        "feedback": {
+          "en": "Aldosterone is a steroid hormone, which means it is a small, hydrophobic molecule capable of crossing the plasma membrane of most cells. Its size is not a limiting factor for cell entry.",
+          "zh": "醛固酮是一种类固醇激素，这意味着它是一种小而疏水的分子，能够穿过大多数细胞的质膜。其大小不是细胞进入的限制因素。",
+          "es": "La aldosterona es una hormona esteroidea, lo que significa que es una molécula pequeña e hidrofóbica capaz de cruzar la membrana plasmática de la mayoría de las células. Su tamaño no es un factor limitante para la entrada celular.",
+          "fr": "L'aldostérone est une hormone stéroïde, ce qui signifie qu'il s'agit d'une petite molécule hydrophobe capable de traverser la membrane plasmatique de la plupart des cellules. Sa taille n'est pas un facteur limitant pour l'entrée dans la cellule.",
+          "de": "Aldosteron ist ein Steroidhormon, was bedeutet, dass es ein kleines, hydrophobes Molekül ist, das die Plasmamembran der meisten Zellen durchqueren kann. Seine Größe ist kein limitierender Faktor für den Zelleintritt.",
+          "ja": "アルドステロンはステロイドホルモンであり、これはほとんどの細胞の形質膜を通過できる小さな疎水性分子であることを意味します。そのサイズは細胞への侵入の制限要因ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Kidney cells are the only cells that produce aldosterone.",
+          "zh": "肾细胞是唯一产生醛固酮的细胞。",
+          "es": "Las células renales son las únicas células que producen aldosterona.",
+          "fr": "Les cellules rénales sont les seules cellules à produire de l'aldostérone.",
+          "de": "Nierenzellen sind die einzigen Zellen, die Aldosteron produzieren.",
+          "ja": "腎臓の細胞だけがアルドステロンを産生します。"
+        },
+        "feedback": {
+          "en": "The text states that aldosterone is secreted by cells of the adrenal gland, not kidney cells.",
+          "zh": "文本指出醛固酮由肾上腺细胞分泌，而不是肾细胞。",
+          "es": "El texto indica que la aldosterona es secretada por las células de la glándula suprarrenal, no por las células renales.",
+          "fr": "Le texte indique que l'aldostérone est sécrétée par les cellules de la glande surrénale, et non par les cellules rénales.",
+          "de": "Der Text besagt, dass Aldosteron von Zellen der Nebenniere, nicht von Nierenzellen, ausgeschüttet wird.",
+          "ja": "本文には、アルドステロンは副腎の細胞によって分泌されると書かれており、腎臓の細胞ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Only kidney cells possess the specific intracellular receptors for aldosterone.",
+          "zh": "只有肾细胞拥有醛固酮的特异性细胞内受体。",
+          "es": "Solo las células renales poseen los receptores intracelulares específicos para la aldosterona.",
+          "fr": "Seules les cellules rénales possèdent les récepteurs intracellulaires spécifiques de l'aldostérone.",
+          "de": "Nur Nierenzellen besitzen die spezifischen intrazellulären Rezeptoren für Aldosteron.",
+          "ja": "腎臓の細胞だけがアルドステロンの特定の細胞内受容体を持っています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Aldosterone is rapidly degraded in all other cell types before it can exert an effect.",
+          "zh": "醛固酮在所有其他细胞类型中在发挥作用之前迅速降解。",
+          "es": "La aldosterona se degrada rápidamente en todos los demás tipos de células antes de que pueda ejercer un efecto.",
+          "fr": "L'aldostérone est rapidement dégradée dans tous les autres types de cellules avant de pouvoir exercer un effet.",
+          "de": "Aldosteron wird in allen anderen Zelltypen schnell abgebaut, bevor es eine Wirkung entfalten kann.",
+          "ja": "アルドステロンは、他のすべての細胞型で効果を発揮する前に急速に分解されます。"
+        },
+        "feedback": {
+          "en": "The text explicitly states, 'However, a response occurs only in kidney cells because they alone contain receptors for aldosterone,' making the presence of the specific receptor the key factor, not rapid degradation.",
+          "zh": "文本明确指出：“然而，只有肾细胞才会产生反应，因为它们单独含有醛固酮受体”，因此特异性受体的存在是关键因素，而不是快速降解。",
+          "es": "El texto afirma explícitamente: 'Sin embargo, la respuesta ocurre solo en las células renales porque solo ellas contienen receptores para la aldosterona', lo que hace que la presencia del receptor específico sea el factor clave, no la rápida degradación.",
+          "fr": "Le texte indique explicitement : 'Cependant, une réponse ne se produit que dans les cellules rénales parce qu'elles seules contiennent des récepteurs pour l'aldostérone', ce qui fait de la présence du récepteur spécifique le facteur clé, et non une dégradation rapide.",
+          "de": "Der Text besagt ausdrücklich: 'Eine Reaktion tritt jedoch nur in Nierenzellen auf, weil nur diese Rezeptoren für Aldosteron enthalten', was das Vorhandensein des spezifischen Rezeptors zum Schlüsselfaktor macht, nicht den schnellen Abbau.",
+          "ja": "本文には、「ただし、アルドステロン受容体を持つのは腎臓の細胞だけであるため、応答は腎臓の細胞でのみ発生する」と明記されており、特異的受容体の存在が重要な要素であり、急速な分解ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text clearly states that aldosterone travels throughout the body, but a response occurs only in kidney cells 'because they alone contain receptors for aldosterone.' This highlights the principle of receptor specificity: a cell can only respond to a signaling molecule if it possesses the specific receptor to which that molecule can bind.",
+      "zh": "文本明确指出，醛固酮在全身循环，但只有肾细胞才会产生反应，“因为它们单独含有醛固酮受体”。这强调了受体特异性原则：细胞只有拥有该信号分子能够结合的特异性受体时，才能对其做出反应。",
+      "es": "El texto establece claramente que la aldosterona viaja por todo el cuerpo, pero una respuesta ocurre solo en las células renales 'porque solo ellas contienen receptores para la aldosterona'. Esto resalta el principio de especificidad del receptor: una célula solo puede responder a una molécula de señalización si posee el receptor específico al que esa molécula puede unirse.",
+      "fr": "Le texte indique clairement que l'aldostérone circule dans tout le corps, mais qu'une réponse ne se produit que dans les cellules rénales 'parce qu'elles seules contiennent des récepteurs pour l'aldostérone'. Cela souligne le principe de spécificité du récepteur : une cellule ne peut répondre à une molécule de signalisation que si elle possède le récepteur spécifique auquel cette molécule peut se lier.",
+      "de": "Der Text besagt deutlich, dass Aldosteron im gesamten Körper zirkuliert, aber eine Reaktion tritt nur in Nierenzellen auf, 'weil nur diese Rezeptoren für Aldosteron enthalten'. Dies unterstreicht das Prinzip der Rezeptorspezifität: Eine Zelle kann nur auf ein Signalmolekül reagieren, wenn sie den spezifischen Rezeptor besitzt, an den dieses Molekül binden kann.",
+      "ja": "本文は、アルドステロンが体内を循環するが、腎臓の細胞にのみ応答が起こる理由として、「腎臓の細胞だけがアルドステロンの受容体を含んでいるから」と明確に述べています。これは受容体特異性の原理を強調しており、細胞は、その分子が結合できる特定の受容体を持っている場合にのみ、シグナル分子に応答できます。"
+    }
+  }
+]

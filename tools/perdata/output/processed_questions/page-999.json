@@ -1,0 +1,372 @@
+[
+  {
+    "page_number": 999,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the diagram and text on mammalian double circulation, which sequence correctly describes the flow of oxygenated blood from the lungs through the systemic circuit and back to the heart?",
+      "zh": "根据图表和关于哺乳动物双循环的文本，以下哪个序列正确描述了氧合血从肺部通过体循环流回心脏的路径？",
+      "es": "Según el diagrama y el texto sobre la doble circulación en mamíferos, ¿qué secuencia describe correctamente el flujo de sangre oxigenada desde los pulmones a través de la circulación sistémica y de vuelta al corazón?",
+      "fr": "Selon le diagramme et le texte sur la double circulation chez les mammifères, quelle séquence décrit correctement le flux sanguin oxygéné des poumons à travers la circulation systémique et de retour vers le cœur ?",
+      "de": "Gemäß dem Diagramm und dem Text zur doppelten Zirkulation bei Säugetieren, welche Reihenfolge beschreibt korrekt den Fluss von sauerstoffreichem Blut von der Lunge durch den systemischen Kreislauf und zurück zum Herzen?",
+      "ja": "図と哺乳類の二重循環に関する記述に基づき、肺から体循環を経て心臓に戻る酸素化された血液の流れを正しく記述しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Lungs → Pulmonary veins → Left atrium → Left ventricle → Systemic arteries → Body tissues → Systemic veins → Right atrium",
+          "zh": "肺 → 肺静脉 → 左心房 → 左心室 → 体动脉 → 身体组织 → 体静脉 → 右心房",
+          "es": "Pulmones → Venas pulmonares → Aurícula izquierda → Ventrículo izquierdo → Arterias sistémicas → Tejidos corporales → Venas sistémicas → Aurícula derecha",
+          "fr": "Poumons → Veines pulmonaires → Oreillette gauche → Ventricule gauche → Artères systémiques → Tissus corporels → Veines systémiques → Oreillette droite",
+          "de": "Lunge → Lungenvenen → Linker Vorhof → Linke Kammer → Systemische Arterien → Körpergewebe → Systemische Venen → Rechter Vorhof",
+          "ja": "肺 → 肺静脈 → 左心房 → 左心室 → 体動脈 → 身体組織 → 体静脈 → 右心房"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Lungs → Pulmonary arteries → Right atrium → Right ventricle → Systemic arteries → Body tissues → Systemic veins → Left atrium",
+          "zh": "肺 → 肺动脉 → 右心房 → 右心室 → 体动脉 → 身体组织 → 体静脉 → 左心房",
+          "es": "Pulmones → Arterias pulmonares → Aurícula derecha → Ventrículo derecho → Arterias sistémicas → Tejidos corporales → Venas sistémicas → Aurícula izquierda",
+          "fr": "Poumons → Artères pulmonaires → Oreillette droite → Ventricule droit → Artères systémiques → Tissus corporels → Veines systémiques → Oreillette gauche",
+          "de": "Lunge → Lungenarterien → Rechter Vorhof → Rechte Kammer → Systemische Arterien → Körpergewebe → Systemische Venen → Linker Vorhof",
+          "ja": "肺 → 肺動脈 → 右心房 → 右心室 → 体動脈 → 身体組織 → 体静脈 → 左心房"
+        },
+        "feedback": {
+          "en": "Pulmonary arteries carry deoxygenated blood away from the heart, not oxygenated blood from the lungs to the heart.",
+          "zh": "肺动脉携带的是去氧血离开心脏，而不是氧合血从肺部流向心脏。",
+          "es": "Las arterias pulmonares transportan sangre desoxigenada lejos del corazón, no sangre oxigenada de los pulmones al corazón.",
+          "fr": "Les artères pulmonaires transportent le sang désoxygéné loin du cœur, et non le sang oxygéné des poumons vers le cœur.",
+          "de": "Lungenarterien transportieren sauerstoffarmes Blut vom Herzen weg, nicht sauerstoffreiches Blut von der Lunge zum Herzen.",
+          "ja": "肺動脈は脱酸素化された血液を心臓から運び去るものであり、肺から心臓へ酸素化された血液を運ぶものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Body tissues → Systemic veins → Right atrium → Right ventricle → Pulmonary arteries → Lungs → Pulmonary veins → Left atrium",
+          "zh": "身体组织 → 体静脉 → 右心房 → 右心室 → 肺动脉 → 肺 → 肺静脉 → 左心房",
+          "es": "Tejidos corporales → Venas sistémicas → Aurícula derecha → Ventrículo derecho → Arterias pulmonares → Pulmones → Venas pulmonares → Aurícula izquierda",
+          "fr": "Tissus corporels → Veines systémiques → Oreillette droite → Ventricule droit → Artères pulmonaires → Poumons → Veines pulmonaires → Oreillette gauche",
+          "de": "Körpergewebe → Systemische Venen → Rechter Vorhof → Rechte Kammer → Lungenarterien → Lunge → Lungenvenen → Linker Vorhof",
+          "ja": "身体組織 → 体静脈 → 右心房 → 右心室 → 肺動脈 → 肺 → 肺静脈 → 左心房"
+        },
+        "feedback": {
+          "en": "This sequence describes the path of deoxygenated blood returning from the body, not the flow of oxygenated blood starting from the lungs through the systemic circuit.",
+          "zh": "这个序列描述的是去氧血从身体返回的路径，而不是氧合血从肺部通过体循环开始的路径。",
+          "es": "Esta secuencia describe el camino de la sangre desoxigenada que regresa del cuerpo, no el flujo de sangre oxigenada que comienza en los pulmones a través de la circulación sistémica.",
+          "fr": "Cette séquence décrit le trajet du sang désoxygéné revenant du corps, et non le flux de sang oxygéné partant des poumons à travers la circulation systémique.",
+          "de": "Diese Reihenfolge beschreibt den Weg des sauerstoffarmen Blutes, das vom Körper zurückkehrt, nicht den Fluss von sauerstoffreichem Blut, das von der Lunge durch den systemischen Kreislauf fließt.",
+          "ja": "このシーケンスは、身体から戻ってくる脱酸素化された血液の経路を記述しており、肺から体循環を経て流れる酸素化された血液の経路ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Left ventricle → Systemic arteries → Body tissues → Systemic veins → Right atrium → Right ventricle → Pulmonary arteries → Lungs",
+          "zh": "左心室 → 体动脉 → 身体组织 → 体静脉 → 右心房 → 右心室 → 肺动脉 → 肺",
+          "es": "Ventrículo izquierdo → Arterias sistémicas → Tejidos corporales → Venas sistémicas → Aurícula derecha → Ventrículo derecho → Arterias pulmonares → Pulmones",
+          "fr": "Ventricule gauche → Artères systémiques → Tissus corporels → Veines systémiques → Oreillette droite → Ventricule droit → Artères pulmonaires → Poumons",
+          "de": "Linke Kammer → Systemische Arterien → Körpergewebe → Systemische Venen → Rechter Vorhof → Rechte Kammer → Lungenarterien → Lunge",
+          "ja": "左心室 → 体動脈 → 身体組織 → 体静脈 → 右心房 → 右心室 → 肺動脈 → 肺"
+        },
+        "feedback": {
+          "en": "While this sequence correctly describes the flow starting from the left ventricle, it does not begin with the oxygenated blood's journey *from the lungs* as specified in the question.",
+          "zh": "虽然这个序列正确描述了从左心室开始的血流，但它没有按照问题要求从“肺部”开始氧合血的路径。",
+          "es": "Aunque esta secuencia describe correctamente el flujo que comienza en el ventrículo izquierdo, no empieza con el viaje de la sangre oxigenada *desde los pulmones* como se especifica en la pregunta.",
+          "fr": "Bien que cette séquence décrive correctement le flux partant du ventricule gauche, elle ne commence pas par le trajet du sang oxygéné *depuis les poumons* comme spécifié dans la question.",
+          "de": "Obwohl diese Reihenfolge den Fluss korrekt vom linken Ventrikel aus beschreibt, beginnt sie nicht mit dem Weg des sauerstoffreichen Blutes *von der Lunge*, wie in der Frage spezifiziert.",
+          "ja": "このシーケンスは左心室からの血液の流れを正しく記述していますが、質問で指定されている「肺から」の酸素化された血液の旅路から始まっていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Oxygen-rich blood from the lungs enters the left atrium via the pulmonary veins. From the left atrium, it moves to the left ventricle, which then pumps it into the systemic arteries to reach the body tissues. After oxygen is delivered, deoxygenated blood returns via systemic veins to the right atrium, completing the cycle as described in option A.",
+      "zh": "富含氧气的血液从肺部经肺静脉进入左心房。从左心房，它进入左心室，左心室再将它泵入体动脉以到达身体组织。氧气输送后，去氧血经体静脉返回右心房，完成选项 A 中描述的循环。",
+      "es": "La sangre rica en oxígeno de los pulmones entra en la aurícula izquierda a través de las venas pulmonares. Desde la aurícula izquierda, pasa al ventrículo izquierdo, que luego la bombea a las arterias sistémicas para llegar a los tejidos corporales. Después de la entrega de oxígeno, la sangre desoxigenada regresa a través de las venas sistémicas a la aurícula derecha, completando el ciclo como se describe en la opción A.",
+      "fr": "Le sang riche en oxygène provenant des poumons entre dans l'oreillette gauche via les veines pulmonaires. De l'oreillette gauche, il passe au ventricule gauche, qui le pompe ensuite dans les artères systémiques pour atteindre les tissus corporels. Après la livraison de l'oxygène, le sang désoxygéné retourne via les veines systémiques à l'oreillette droite, complétant le cycle tel que décrit dans l'option A.",
+      "de": "Sauerstoffreiches Blut gelangt von der Lunge über die Lungenvenen in den linken Vorhof. Vom linken Vorhof gelangt es in die linke Kammer, die es dann in die systemischen Arterien pumpt, um die Körpergewebe zu erreichen. Nachdem Sauerstoff abgegeben wurde, kehrt sauerstoffarmes Blut über die systemischen Venen in den rechten Vorhof zurück und schließt so den in Option A beschriebenen Kreislauf ab.",
+      "ja": "肺からの酸素を豊富に含む血液は、肺静脈を介して左心房に入ります。左心房から左心室へ移動し、その後、体動脈に送り出されて身体組織に到達します。酸素が供給された後、脱酸素化された血液は体静脈を介して右心房に戻り、選択肢Aで記述されているサイクルを完了します。"
+    }
+  },
+  {
+    "page_number": 999,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the text, which of the following statements about breathing mechanisms in vertebrates is correct?",
+      "zh": "根据文本，以下关于脊椎动物呼吸机制的说法哪一项是正确的？",
+      "es": "Según el texto, ¿cuál de las siguientes afirmaciones sobre los mecanismos de respiración en los vertebrados es correcta?",
+      "fr": "Selon le texte, laquelle des affirmations suivantes concernant les mécanismes de respiration chez les vertébrés est correcte ?",
+      "de": "Basierend auf dem Text, welche der folgenden Aussagen über Atemmechanismen bei Wirbeltieren ist korrekt?",
+      "ja": "本文に基づくと、脊椎動物の呼吸メカニズムに関する以下の記述のうち、正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Mammals ventilate their lungs using positive pressure, similar to amphibians.",
+          "zh": "哺乳动物使用正压呼吸来通气肺部，这与两栖动物相似。",
+          "es": "Los mamíferos ventilan sus pulmones usando presión positiva, similar a los anfibios.",
+          "fr": "Les mammifères ventilent leurs poumons en utilisant une pression positive, similaire aux amphibiens.",
+          "de": "Säugetiere belüften ihre Lungen mittels Überdruckatmung, ähnlich wie Amphibien.",
+          "ja": "哺乳類は両生類と同様に、陽圧呼吸を用いて肺を換気します。"
+        },
+        "feedback": {
+          "en": "Mammals use negative pressure breathing, while amphibians use positive pressure breathing.",
+          "zh": "哺乳动物使用负压呼吸，而两栖动物使用正压呼吸。",
+          "es": "Los mamíferos usan respiración por presión negativa, mientras que los anfibios usan respiración por presión positiva.",
+          "fr": "Les mammifères utilisent la respiration à pression négative, tandis que les amphibiens utilisent la respiration à pression positive.",
+          "de": "Säugetiere nutzen die Unterdruckatmung, während Amphibien die Überdruckatmung nutzen.",
+          "ja": "哺乳類は陰圧呼吸を使用し、両生類は陽圧呼吸を使用します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Birds use air sacs to ensure unidirectional airflow through their lungs.",
+          "zh": "鸟类利用气囊确保空气单向流经肺部。",
+          "es": "Las aves usan sacos aéreos para asegurar un flujo de aire unidireccional a través de sus pulmones.",
+          "fr": "Les oiseaux utilisent des sacs aériens pour assurer un flux d'air unidirectionnel à travers leurs poumons.",
+          "de": "Vögel nutzen Luftsäcke, um einen unidirektionalen Luftstrom durch ihre Lungen zu gewährleisten.",
+          "ja": "鳥類は気嚢を使用して、肺を通る空気の流れを一方向に保ちます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Amphibians primarily rely on negative pressure breathing for gas exchange.",
+          "zh": "两栖动物主要依靠负压呼吸进行气体交换。",
+          "es": "Los anfibios dependen principalmente de la respiración por presión negativa para el intercambio de gases.",
+          "fr": "Les amphibiens dépendent principalement de la respiration à pression négative pour les échanges gazeux.",
+          "de": "Amphibien verlassen sich hauptsächlich auf Unterdruckatmung für den Gasaustausch.",
+          "ja": "両生類は主に陰圧呼吸に依存してガス交換を行います。"
+        },
+        "feedback": {
+          "en": "Amphibians ventilate their lungs by positive pressure breathing.",
+          "zh": "两栖动物通过正压呼吸来通气肺部。",
+          "es": "Los anfibios ventilan sus pulmones mediante respiración por presión positiva.",
+          "fr": "Les amphibiens ventilent leurs poumons par respiration à pression positive.",
+          "de": "Amphibien belüften ihre Lungen mittels Überdruckatmung.",
+          "ja": "両生類は陽圧呼吸によって肺を換気します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The efficiency of ventilation in mammals is increased due to the mixing of incoming and outgoing air.",
+          "zh": "哺乳动物的通气效率因吸入和呼出空气的混合而提高。",
+          "es": "La eficiencia de la ventilación en mamíferos se incrementa debido a la mezcla de aire entrante y saliente.",
+          "fr": "L'efficacité de la ventilation chez les mammifères est augmentée grâce au mélange de l'air entrant et sortant.",
+          "de": "Die Effizienz der Belüftung bei Säugetieren wird durch die Mischung von ein- und ausgehender Luft erhöht.",
+          "ja": "哺乳類の換気効率は、吸入空気と呼出空気の混合によって向上します。"
+        },
+        "feedback": {
+          "en": "In mammals, the mixing of incoming and outgoing air actually decreases the efficiency of ventilation.",
+          "zh": "在哺乳动物中，吸入和呼出空气的混合实际上会降低通气效率。",
+          "es": "En los mamíferos, la mezcla de aire entrante y saliente en realidad disminuye la eficiencia de la ventilación.",
+          "fr": "Chez les mammifères, le mélange de l'air entrant et sortant diminue en fait l'efficacité de la ventilation.",
+          "de": "Bei Säugetieren verringert die Mischung von ein- und ausgehender Luft tatsächlich die Effizienz der Belüftung.",
+          "ja": "哺乳類において、吸入空気と呼出空気の混合は、実際には換気効率を低下させます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that 'Birds use a system of air sacs as bellows to keep air flowing through the lungs in one direction only, preventing the mixing of incoming and outgoing air.' This directly supports option B. Mammals use negative pressure breathing, and this process leads to mixing of air, which decreases efficiency, contrary to options A and D. Amphibians use positive pressure breathing, making option C incorrect.",
+      "zh": "文本指出“鸟类使用气囊系统作为风箱，使空气仅沿一个方向流经肺部，防止吸入和呼出空气的混合。”这直接支持了选项 B。哺乳动物使用负压呼吸，此过程会导致空气混合，从而降低效率，与选项 A 和 D 相悖。两栖动物使用正压呼吸，因此选项 C 不正确。",
+      "es": "El texto afirma que 'Las aves usan un sistema de sacos aéreos como fuelles para mantener el aire fluyendo a través de los pulmones en una sola dirección, impidiendo la mezcla de aire entrante y saliente'. Esto apoya directamente la opción B. Los mamíferos usan respiración por presión negativa, y este proceso lleva a la mezcla de aire, lo que disminuye la eficiencia, contrariamente a las opciones A y D. Los anfibios usan respiración por presión positiva, haciendo que la opción C sea incorrecta.",
+      "fr": "Le texte indique que « Les oiseaux utilisent un système de sacs aériens comme soufflets pour maintenir l'air circulant dans les poumons dans une seule direction, empêchant le mélange de l'air entrant et sortant. » Cela soutient directement l'option B. Les mammifères utilisent la respiration à pression négative, et ce processus entraîne un mélange de l'air, ce qui diminue l'efficacité, contrairement aux options A et D. Les amphibiens utilisent la respiration à pression positive, rendant l'option C incorrecte.",
+      "de": "Der Text besagt: „Vögel nutzen ein System von Luftsäcken als Balg, um die Luft nur in eine Richtung durch die Lungen strömen zu lassen und so die Vermischung von ein- und ausgehender Luft zu verhindern.“ Dies stützt direkt Option B. Säugetiere nutzen die Unterdruckatmung, und dieser Prozess führt zu einer Vermischung der Luft, was die Effizienz verringert, im Gegensatz zu den Optionen A und D. Amphibien nutzen die Überdruckatmung, was Option C falsch macht.",
+      "ja": "本文には「鳥類は気嚢のシステムをふいごとして利用し、肺を通る空気の流れを一方向に保ち、吸入空気と呼出空気の混合を防ぐ」と記載されています。これは選択肢Bを直接支持します。哺乳類は陰圧呼吸を使用し、この過程で空気が混合され、効率が低下します。これは選択肢AとDに反します。両生類は陽圧呼吸を使用するため、選択肢Cは誤りです。"
+    }
+  },
+  {
+    "page_number": 999,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following statements accurately describe the functions of specific components found in human blood, according to the provided text? Select all that apply.",
+      "zh": "根据提供的文本，以下关于人体血液中特定成分功能的说法，哪些是准确的？请选择所有符合的选项。",
+      "es": "Según el texto proporcionado, ¿cuáles de las siguientes afirmaciones describen con precisión las funciones de componentes específicos encontrados en la sangre humana? Selecciona todas las que apliquen.",
+      "fr": "Selon le texte fourni, lesquelles des affirmations suivantes décrivent précisément les fonctions de composants spécifiques trouvés dans le sang humain ? Sélectionnez toutes les options applicables.",
+      "de": "Welche der folgenden Aussagen beschreiben laut dem bereitgestellten Text die Funktionen spezifischer Komponenten im menschlichen Blut genau? Wählen Sie alle zutreffenden aus.",
+      "ja": "提供されたテキストによると、ヒトの血液中に見られる特定の成分の機能を正確に記述しているのは、以下の記述のうちどれですか？該当するものをすべて選択してください。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Platelets are primarily responsible for transporting oxygen throughout the body.",
+          "zh": "血小板主要负责在全身运输氧气。",
+          "es": "Las plaquetas son las principales responsables del transporte de oxígeno por todo el cuerpo.",
+          "fr": "Les plaquettes sont principalement responsables du transport de l'oxygène dans tout le corps.",
+          "de": "Blutplättchen sind hauptsächlich für den Sauerstofftransport im Körper verantwortlich.",
+          "ja": "血小板は主に体内への酸素輸送を担っています。"
+        },
+        "feedback": {
+          "en": "Erythrocytes (red blood cells) transport oxygen. Platelets are involved in blood clotting.",
+          "zh": "红细胞（红血球）负责运输氧气。血小板参与血液凝固。",
+          "es": "Los eritrocitos (glóbulos rojos) transportan oxígeno. Las plaquetas están involucradas en la coagulación de la sangre.",
+          "fr": "Les érythrocytes (globules rouges) transportent l'oxygène. Les plaquettes sont impliquées dans la coagulation sanguine.",
+          "de": "Erythrozyten (rote Blutkörperchen) transportieren Sauerstoff. Blutplättchen sind an der Blutgerinnung beteiligt.",
+          "ja": "赤血球は酸素を運びます。血小板は血液凝固に関与します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Plasma proteins contribute to blood pH regulation and osmotic pressure.",
+          "zh": "血浆蛋白有助于血液 pH 值调节和渗透压。",
+          "es": "Las proteínas plasmáticas contribuyen a la regulación del pH sanguíneo y a la presión osmótica.",
+          "fr": "Les protéines plasmatiques contribuent à la régulation du pH sanguin et à la pression osmotique.",
+          "de": "Plasmaproteine tragen zur Blut-pH-Regulierung und zum osmotischen Druck bei.",
+          "ja": "血漿タンパク質は血液のpH調節と浸透圧に寄与します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Leukocytes are crucial for defending the body against microorganisms.",
+          "zh": "白细胞对身体抵抗微生物至关重要。",
+          "es": "Los leucocitos son cruciales para defender el cuerpo contra los microorganismos.",
+          "fr": "Les leucocytes sont cruciaux pour défendre l'organisme contre les micro-organismes.",
+          "de": "Leukozyten sind entscheidend für die Abwehr des Körpers gegen Mikroorganismen.",
+          "ja": "白血球は、微生物から体を防御するために不可欠です。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Erythrocytes play a significant role in blood clotting.",
+          "zh": "红细胞在血液凝固中扮演重要角色。",
+          "es": "Los eritrocitos desempeñan un papel importante en la coagulación de la sangre.",
+          "fr": "Les érythrocytes jouent un rôle important dans la coagulation sanguine.",
+          "de": "Erythrozyten spielen eine wichtige Rolle bei der Blutgerinnung.",
+          "ja": "赤血球は血液凝固に重要な役割を果たします。"
+        },
+        "feedback": {
+          "en": "Platelets and plasma proteins (like fibrinogen) are primarily involved in blood clotting, not erythrocytes.",
+          "zh": "血小板和血浆蛋白（如纤维蛋白原）主要参与血液凝固，而不是红细胞。",
+          "es": "Las plaquetas y las proteínas plasmáticas (como el fibrinógeno) están principalmente involucradas en la coagulación de la sangre, no los eritrocitos.",
+          "fr": "Les plaquettes et les protéines plasmatiques (comme le fibrinogène) sont principalement impliquées dans la coagulation sanguine, et non les érythrocytes.",
+          "de": "Blutplättchen und Plasmaproteine (wie Fibrinogen) sind primär an der Blutgerinnung beteiligt, nicht Erythrozyten.",
+          "ja": "血小板と血漿タンパク質（フィブリノーゲンなど）が主に血液凝固に関与し、赤血球ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B",
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Plasma proteins influence blood pH, osmotic pressure, and viscosity' and 'Leukocytes... function in defense against microorganisms and foreign substances in the blood.' This confirms options B and C. Platelets, not erythrocytes, function in blood clotting, and erythrocytes transport oxygen, making options A and D incorrect.",
+      "zh": "文本明确指出：“血浆蛋白影响血液 pH 值、渗透压和粘度”以及“白细胞……在血液中起到防御微生物和外来物质的作用”。这证实了选项 B 和 C。血小板而不是红细胞在血液凝固中起作用，红细胞运输氧气，因此选项 A 和 D 不正确。",
+      "es": "El texto establece explícitamente: 'Las proteínas plasmáticas influyen en el pH de la sangre, la presión osmótica y la viscosidad' y 'Los leucocitos... funcionan en la defensa contra microorganismos y sustancias extrañas en la sangre'. Esto confirma las opciones B y C. Las plaquetas, no los eritrocitos, funcionan en la coagulación de la sangre, y los eritrocitos transportan oxígeno, lo que hace que las opciones A y D sean incorrectas.",
+      "fr": "Le texte indique explicitement : « Les protéines plasmatiques influencent le pH sanguin, la pression osmotique et la viscosité » et « Les leucocytes… fonctionnent dans la défense contre les micro-organismes et les substances étrangères dans le sang. » Cela confirme les options B et C. Les plaquettes, et non les érythrocytes, fonctionnent dans la coagulation sanguine, et les érythrocytes transportent l'oxygène, rendant les options A et D incorrectes.",
+      "de": "Der Text besagt explizit: „Plasmaproteine beeinflussen den Blut-pH-Wert, den osmotischen Druck und die Viskosität“ und „Leukozyten... funktionieren bei der Abwehr von Mikroorganismen und Fremdstoffen im Blut.“ Dies bestätigt die Optionen B und C. Blutplättchen, nicht Erythrozyten, sind an der Blutgerinnung beteiligt, und Erythrozyten transportieren Sauerstoff, wodurch die Optionen A und D falsch sind.",
+      "ja": "本文には「血漿タンパク質は血液のpH、浸透圧、粘度に影響を与える」と「白血球は...血液中の微生物や異物に対する防御機能を持つ」と明記されています。これは選択肢BとCを裏付けています。血小板は血液凝固に関与し、赤血球は酸素を輸送するため、選択肢AとDは誤りです。"
+    }
+  },
+  {
+    "page_number": 999,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A patient undergoes surgical replacement of a defective heart valve. Based on your understanding of the cardiac cycle, which of the following is the most likely expected positive change in cardiac function after a successful valve replacement?",
+      "zh": "一名患者接受了缺陷心脏瓣膜的置换手术。根据您对心脏周期的理解，成功置换瓣膜后，心脏功能最可能出现的积极变化是以下哪一项？",
+      "es": "Un paciente se somete a un reemplazo quirúrgico de una válvula cardíaca defectuosa. Basándose en su comprensión del ciclo cardíaco, ¿cuál de los siguientes es el cambio positivo más probable esperado en la función cardíaca después de un reemplazo exitoso de la válvula?",
+      "fr": "Un patient subit un remplacement chirurgical d'une valvule cardiaque défectueuse. Selon votre compréhension du cycle cardiaque, quel est le changement positif le plus probable attendu dans la fonction cardiaque après un remplacement réussi de la valvule ?",
+      "de": "Ein Patient unterzieht sich einem chirurgischen Ersatz einer defekten Herzklappe. Basierend auf Ihrem Verständnis des Herzzyklus, welche der folgenden ist die wahrscheinlichste positive Veränderung der Herzfunktion nach einem erfolgreichen Klappenersatz?",
+      "ja": "患者が欠陥のある心臓弁の外科的置換術を受けました。心臓周期に関する理解に基づくと、成功した弁置換術後に心機能で最も期待される肯定的な変化は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A significant decrease in the overall cardiac output.",
+          "zh": "心输出量总体显著下降。",
+          "es": "Una disminución significativa del gasto cardíaco general.",
+          "fr": "Une diminution significative du débit cardiaque global.",
+          "de": "Eine signifikante Abnahme des gesamten Herzzeitvolumens.",
+          "ja": "心拍出量全体の著しい減少。"
+        },
+        "feedback": {
+          "en": "A defective valve typically reduces cardiac output. A successful replacement should improve, not decrease, cardiac output by restoring efficient blood flow.",
+          "zh": "缺陷瓣膜通常会降低心输出量。成功的置换手术应通过恢复有效的血液流动来改善而非降低心输出量。",
+          "es": "Una válvula defectuosa generalmente reduce el gasto cardíaco. Un reemplazo exitoso debería mejorar, no disminuir, el gasto cardíaco al restaurar un flujo sanguíneo eficiente.",
+          "fr": "Une valvule défectueuse réduit généralement le débit cardiaque. Un remplacement réussi devrait améliorer, et non diminuer, le débit cardiaque en restaurant un flux sanguin efficace.",
+          "de": "Eine defekte Klappe reduziert typischerweise das Herzzeitvolumen. Ein erfolgreicher Ersatz sollte das Herzzeitvolumen verbessern, nicht verringern, indem er einen effizienten Blutfluss wiederherstellt.",
+          "ja": "欠陥のある弁は通常、心拍出量を低下させます。成功した置換術は、効率的な血液の流れを回復させることで心拍出量を改善し、低下させるものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Improved efficiency of blood flow and reduced backflow within the heart.",
+          "zh": "心脏内血流效率提高，并减少血液反流。",
+          "es": "Mejora de la eficiencia del flujo sanguíneo y reducción del reflujo dentro del corazón.",
+          "fr": "Amélioration de l'efficacité du flux sanguin et réduction du reflux à l'intérieur du cœur.",
+          "de": "Verbesserte Effizienz des Blutflusses und reduzierter Rückfluss innerhalb des Herzens.",
+          "ja": "心臓内の血流効率の向上と逆流の減少。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A decrease in the pulse rate due to reduced workload on the SA node.",
+          "zh": "由于窦房结工作负荷减少导致脉搏率下降。",
+          "es": "Una disminución de la frecuencia del pulso debido a la reducción de la carga de trabajo del nódulo SA.",
+          "fr": "Une diminution de la fréquence du pouls due à une charge de travail réduite sur le nœud sinusal.",
+          "de": "Eine Abnahme der Pulsfrequenz aufgrund reduzierter Arbeitslast auf den SA-Knoten.",
+          "ja": "洞房結節の負担軽減による脈拍数の減少。"
+        },
+        "feedback": {
+          "en": "While workload may change, the primary positive outcome is related to restored flow dynamics. Pulse rate adjustment is a regulatory response, not the direct primary benefit of valve replacement.",
+          "zh": "虽然工作负荷可能会改变，但主要的积极结果与恢复的血流动力学有关。脉搏率调整是一种调节反应，而非瓣膜置换的直接主要益处。",
+          "es": "Aunque la carga de trabajo puede cambiar, el principal resultado positivo está relacionado con la restauración de la dinámica del flujo. El ajuste de la frecuencia del pulso es una respuesta reguladora, no el beneficio principal directo del reemplazo valvular.",
+          "fr": "Bien que la charge de travail puisse changer, le principal résultat positif est lié à la restauration de la dynamique du flux. L'ajustement de la fréquence du pouls est une réponse régulatrice, et non le bénéfice principal direct du remplacement valvulaire.",
+          "de": "Obwohl sich die Arbeitslast ändern kann, ist das primäre positive Ergebnis auf die Wiederherstellung der Flussdynamik zurückzuführen. Die Anpassung der Pulsfrequenz ist eine Regulationsreaktion, nicht der direkte primäre Nutzen des Klappenersatzes.",
+          "ja": "仕事量が変わる可能性はありますが、主要な肯定的な結果は、回復した血流動態に関連しています。脈拍数の調整は調節反応であり、弁置換の直接的な主要な利点ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "An increase in the mixing of oxygenated and deoxygenated blood.",
+          "zh": "氧合血和去氧血混合增加。",
+          "es": "Un aumento en la mezcla de sangre oxigenada y desoxigenada.",
+          "fr": "Une augmentation du mélange de sang oxygéné et désoxygéné.",
+          "de": "Eine Zunahme der Mischung von sauerstoffreichem und sauerstoffarmem Blut.",
+          "ja": "酸素化された血液と脱酸素化された血液の混合の増加。"
+        },
+        "feedback": {
+          "en": "Heart valves prevent mixing of blood between chambers or vessels. Repairing a defective valve would prevent, not increase, such mixing.",
+          "zh": "心脏瓣膜防止心腔或血管之间血液的混合。修复缺陷瓣膜会阻止而不是增加这种混合。",
+          "es": "Las válvulas cardíacas previenen la mezcla de sangre entre las cámaras o los vasos. Reparar una válvula defectuosa prevendría, no aumentaría, dicha mezcla.",
+          "fr": "Les valvules cardiaques empêchent le mélange du sang entre les cavités ou les vaisseaux. La réparation d'une valvule défectueuse empêcherait, et non augmenterait, un tel mélange.",
+          "de": "Herzklappen verhindern die Vermischung von Blut zwischen Kammern oder Gefäßen. Die Reparatur einer defekten Klappe würde eine solche Vermischung verhindern, nicht erhöhen.",
+          "ja": "心臓弁は、心臓の部屋や血管間で血液が混ざるのを防ぎます。欠陥のある弁を修復することで、そのような混合は増加するのではなく防止されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Defective heart valves often lead to inefficient blood flow, either by not opening fully (stenosis) or not closing completely (regurgitation/insufficiency), causing blood to backflow. Replacing a defective valve would restore proper unidirectional blood flow, thus significantly improving the efficiency of the heart's pumping action and preventing backflow. This directly translates to improved cardiac function.",
+      "zh": "缺陷的心脏瓣膜通常会导致血流效率低下，无论是由于未能完全打开（狭窄）还是未能完全关闭（反流/关闭不全），从而导致血液反流。更换缺陷瓣膜将恢复正常的单向血流，从而显著提高心脏泵血的效率并防止反流。这直接意味着心脏功能的改善。",
+      "es": "Las válvulas cardíacas defectuosas a menudo conducen a un flujo sanguíneo ineficiente, ya sea por no abrirse completamente (estenosis) o por no cerrarse por completo (regurgitación/insuficiencia), lo que provoca un reflujo de sangre. El reemplazo de una válvula defectuosa restauraría el flujo sanguíneo unidireccional adecuado, mejorando así significativamente la eficiencia de la acción de bombeo del corazón y previniendo el reflujo. Esto se traduce directamente en una mejora de la función cardíaca.",
+      "fr": "Les valvules cardiaques défectueuses entraînent souvent un flux sanguin inefficace, soit en ne s'ouvrant pas complètement (sténose), soit en ne se fermant pas complètement (régurgitation/insuffisance), provoquant un reflux sanguin. Le remplacement d'une valvule défectueuse rétablirait un flux sanguin unidirectionnel approprié, améliorant ainsi significativement l'efficacité de l'action de pompage du cœur et prévenant le reflux. Cela se traduit directement par une amélioration de la fonction cardiaque.",
+      "de": "Defekte Herzklappen führen oft zu ineffizientem Blutfluss, entweder durch unvollständiges Öffnen (Stenose) oder unvollständiges Schließen (Regurgitation/Insuffizienz), was zu Blutrückfluss führt. Der Ersatz einer defekten Klappe würde den ordnungsgemäßen unidirektionalen Blutfluss wiederherstellen und somit die Effizienz der Pumpfunktion des Herzens erheblich verbessern und Rückfluss verhindern. Dies führt direkt zu einer verbesserten Herzfunktion.",
+      "ja": "欠陥のある心臓弁は、完全に開かない（狭窄）か、完全に閉じない（逆流/不全）ことで、血液の逆流を引き起こし、非効率な血流につながることがよくあります。欠陥のある弁を交換することで、適切な一方向の血流が回復し、心臓のポンプ作用の効率が大幅に向上し、逆流が防がれます。これは心機能の改善に直結します。"
+    }
+  }
+]

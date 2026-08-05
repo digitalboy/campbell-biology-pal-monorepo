@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 155,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which statement correctly describes the structural and functional characteristics of the Golgi apparatus?",
+      "zh": "以下哪项陈述正确描述了高尔基体的结构和功能特征？",
+      "es": "De las siguientes afirmaciones, ¿cuál describe correctamente las características estructurales y funcionales del aparato de Golgi?",
+      "fr": "Quelle affirmation décrit correctement les caractéristiques structurelles et fonctionnelles de l'appareil de Golgi ?",
+      "de": "Welche Aussage beschreibt korrekt die strukturellen und funktionellen Eigenschaften des Golgi-Apparats?",
+      "ja": "ゴルジ装置の構造的および機能的特徴を正しく説明している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The cis face is the shipping side, and the trans face is the receiving side.",
+          "zh": "顺面是运输侧，反面是接收侧。",
+          "es": "La cara cis es el lado de envío y la cara trans es el lado de recepción.",
+          "fr": "La face cis est le côté d'expédition, et la face trans est le côté de réception.",
+          "de": "Die Cis-Seite ist die Versandseite, und die Trans-Seite ist die Empfangsseite.",
+          "ja": "シス面は輸送側であり、トランス面は受容側である。"
+        },
+        "feedback": {
+          "en": "The roles are reversed; the cis face is the receiving side, and the trans face is the shipping side.",
+          "zh": "角色颠倒了；顺面是接收侧，反面是运输侧。",
+          "es": "Los roles están invertidos; la cara cis es el lado de recepción y la cara trans es el lado de envío.",
+          "fr": "Les rôles sont inversés ; la face cis est le côté de réception, et la face trans est le côté d'expédition.",
+          "de": "Die Rollen sind vertauscht; die Cis-Seite ist die Empfangsseite und die Trans-Seite ist die Versandseite.",
+          "ja": "役割が逆です。シス面が受容側、トランス面が輸送側です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Golgi cisternae are physically connected, similar to ER cisternae.",
+          "zh": "高尔基体囊泡物理连接，类似于内质网囊泡。",
+          "es": "Las cisternas del Golgi están físicamente conectadas, similar a las cisternas del RE.",
+          "fr": "Les citernes golgiennes sont physiquement connectées, à l'instar des citernes du RE.",
+          "de": "Golgi-Zisternen sind physikalisch miteinander verbunden, ähnlich wie ER-Zisternen.",
+          "ja": "ゴルジ槽はER槽と同様に物理的に接続されています。"
+        },
+        "feedback": {
+          "en": "Unlike ER cisternae, Golgi cisternae are not physically connected.",
+          "zh": "与内质网囊泡不同，高尔基体囊泡没有物理连接。",
+          "es": "A diferencia de las cisternas del RE, las cisternas del Golgi no están físicamente conectadas.",
+          "fr": "Contrairement aux citernes du RE, les citernes golgiennes ne sont pas physiquement connectées.",
+          "de": "Im Gegensatz zu ER-Zisternen sind Golgi-Zisternen nicht physikalisch miteinander verbunden.",
+          "ja": "ER槽とは異なり、ゴルジ槽は物理的に接続されていません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The cis face receives vesicles from the ER, acting as the receiving department.",
+          "zh": "顺面接收来自内质网的囊泡，充当接收部门。",
+          "es": "La cara cis recibe vesículas del RE, actuando como el departamento de recepción.",
+          "fr": "La face cis reçoit des vésicules du RE, agissant comme le département de réception.",
+          "de": "Die Cis-Seite empfängt Vesikel vom ER und fungiert als Empfangsstation.",
+          "ja": "シス面はERからの小胞を受け取り、受容部門として機能します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The Golgi apparatus primarily synthesizes proteins from amino acids.",
+          "zh": "高尔基体主要从氨基酸合成蛋白质。",
+          "es": "El aparato de Golgi sintetiza principalmente proteínas a partir de aminoácidos.",
+          "fr": "L'appareil de Golgi synthétise principalement des protéines à partir d'acides aminés.",
+          "de": "Der Golgi-Apparat synthetisiert Proteine hauptsächlich aus Aminosäuren.",
+          "ja": "ゴルジ装置は主にアミノ酸からタンパク質を合成します。"
+        },
+        "feedback": {
+          "en": "Protein synthesis primarily occurs on ribosomes and in the ER; the Golgi modifies, sorts, and packages them.",
+          "zh": "蛋白质合成主要发生在核糖体和内质网中；高尔基体对其进行修饰、分类和包装。",
+          "es": "La síntesis de proteínas ocurre principalmente en los ribosomas y en el RE; el Golgi las modifica, clasifica y empaqueta.",
+          "fr": "La synthèse des protéines a lieu principalement sur les ribosomes et dans le RE ; le Golgi les modifie, les trie et les emballe.",
+          "de": "Die Proteinsynthese findet hauptsächlich an Ribosomen und im ER statt; der Golgi modifiziert, sortiert und verpackt sie.",
+          "ja": "タンパク質合成は主にリボソームとERで行われます。ゴルジ装置はそれらを修飾、選別、包装します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that the cis face acts as the 'receiving' department and is usually located near the ER, receiving vesicles from it. The trans face is the 'shipping' department. Unlike ER cisternae, Golgi cisternae are not physically connected. The Golgi's main role is to modify, sort, and package proteins and lipids, not synthesize proteins from amino acids.",
+      "zh": "文本指出顺面作为“接收”部门，通常位于内质网附近，接收来自内质网的囊泡。反面是“运输”部门。与内质网囊泡不同，高尔基体囊泡没有物理连接。高尔基体的主要作用是修饰、分类和包装蛋白质和脂质，而不是从氨基酸合成蛋白质。",
+      "es": "El texto indica que la cara cis actúa como el departamento de 'recepción' y generalmente se encuentra cerca del RE, recibiendo vesículas de él. La cara trans es el departamento de 'envío'. A diferencia de las cisternas del RE, las cisternas del Golgi no están físicamente conectadas. La función principal del Golgi es modificar, clasificar y empaquetar proteínas y lípidos, no sintetizar proteínas a partir de aminoácidos.",
+      "fr": "Le texte indique que la face cis agit comme le département de 'réception' et est généralement située près du RE, recevant des vésicules de celui-ci. La face trans est le département d''expédition'. Contrairement aux citernes du RE, les citernes golgiennes ne sont pas physiquement connectées. Le rôle principal du Golgi est de modifier, trier et emballer les protéines et les lipides, et non de synthétiser des protéines à partir d'acides aminés.",
+      "de": "Der Text besagt, dass die Cis-Seite als 'Empfangs'-Abteilung fungiert und sich normalerweise in der Nähe des ER befindet, von wo sie Vesikel empfängt. Die Trans-Seite ist die 'Versand'-Abteilung. Im Gegensatz zu ER-Zisternen sind Golgi-Zisternen nicht physikalisch miteinander verbunden. Die Hauptaufgabe des Golgi besteht darin, Proteine und Lipide zu modifizieren, zu sortieren und zu verpacken, nicht Proteine aus Aminosäuren zu synthetisieren.",
+      "ja": "本文によると、シス面は「受容」部門として機能し、通常ERの近くに位置し、そこから小胞を受け取ります。トランス面は「輸送」部門です。ER槽とは異なり、ゴルジ槽は物理的に接続されていません。ゴルジ装置の主な役割は、タンパク質をアミノ酸から合成することではなく、タンパク質や脂質を修飾、選別、包装することです。"
+    }
+  },
+  {
+    "page_number": 155,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the cisternal maturation model, what is the primary mechanism by which materials move through the Golgi apparatus?",
+      "zh": "根据囊泡成熟模型，物质通过高尔基体移动的主要机制是什么？",
+      "es": "Según el modelo de maduración cisternal, ¿cuál es el mecanismo principal por el cual los materiales se mueven a través del aparato de Golgi?",
+      "fr": "Selon le modèle de maturation des citernes, quel est le mécanisme principal par lequel les matériaux se déplacent à travers l'appareil de Golgi ?",
+      "de": "Welcher ist nach dem Zisternenreifungsmodell der primäre Mechanismus, durch den Materialien den Golgi-Apparat durchlaufen?",
+      "ja": "槽の成熟モデルによると、ゴルジ装置内を物質が移動する主要なメカニズムは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Vesicles continuously shuttle materials between static cisternae.",
+          "zh": "囊泡在静态囊泡之间持续穿梭物质。",
+          "es": "Las vesículas transportan continuamente materiales entre cisternas estáticas.",
+          "fr": "Les vésicules transportent continuellement des matériaux entre les citernes statiques.",
+          "de": "Vesikel befördern Materialien kontinuierlich zwischen statischen Zisternen hin und her.",
+          "ja": "小胞は静止した槽の間で物質を継続的にシャトル輸送する。"
+        },
+        "feedback": {
+          "en": "This describes the older, static model of the Golgi, not the cisternal maturation model.",
+          "zh": "这描述的是旧的、静态的高尔基体模型，而不是囊泡成熟模型。",
+          "es": "Esto describe el modelo estático más antiguo del Golgi, no el modelo de maduración cisternal.",
+          "fr": "Ceci décrit l'ancien modèle statique du Golgi, et non le modèle de maturation des citernes.",
+          "de": "Dies beschreibt das ältere, statische Modell des Golgi, nicht das Zisternenreifungsmodell.",
+          "ja": "これは古い静止モデルであり、槽の成熟モデルではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Golgi cisternae themselves mature and progress forward from the cis to the trans face, carrying their cargo.",
+          "zh": "高尔基体囊泡本身成熟并从顺面向前进展到反面，携带其货物。",
+          "es": "Las cisternas del Golgi maduran y progresan de la cara cis a la cara trans, transportando su carga.",
+          "fr": "Les citernes golgiennes elles-mêmes mûrissent et progressent de la face cis à la face trans, transportant leur cargaison.",
+          "de": "Golgi-Zisternen selbst reifen und bewegen sich von der Cis- zur Trans-Seite vorwärts, wobei sie ihre Fracht transportieren.",
+          "ja": "ゴルジ槽自体が成熟し、シス面からトランス面へと前進し、その貨物を運びます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Materials are directly transported through channels connecting different cisternae.",
+          "zh": "物质通过连接不同囊泡的通道直接运输。",
+          "es": "Los materiales son transportados directamente a través de canales que conectan diferentes cisternas.",
+          "fr": "Les matériaux sont directement transportés par des canaux reliant différentes citernes.",
+          "de": "Materialien werden direkt durch Kanäle transportiert, die verschiedene Zisternen verbinden.",
+          "ja": "物質は異なる槽を接続するチャネルを介して直接輸送されます。"
+        },
+        "feedback": {
+          "en": "Golgi cisternae are not physically connected by channels.",
+          "zh": "高尔基体囊泡之间没有物理连接的通道。",
+          "es": "Las cisternas del Golgi no están físicamente conectadas por canales.",
+          "fr": "Les citernes golgiennes ne sont pas physiquement connectées par des canaux.",
+          "de": "Golgi-Zisternen sind nicht physikalisch durch Kanäle verbunden.",
+          "ja": "ゴルジ槽はチャネルによって物理的に接続されていません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Enzymes are transported forward to different cisternae, while cargo remains stationary.",
+          "zh": "酶被向前运输到不同的囊泡，而货物保持静止。",
+          "es": "Las enzimas son transportadas hacia adelante a diferentes cisternas, mientras que la carga permanece estacionaria.",
+          "fr": "Les enzymes sont transportées vers l'avant vers différentes citernes, tandis que la cargaison reste stationnaire.",
+          "de": "Enzyme werden vorwärts zu verschiedenen Zisternen transportiert, während die Ladung stationär bleibt.",
+          "ja": "酵素は前方に異なる槽へ輸送されますが、貨物は静止したままです。"
+        },
+        "feedback": {
+          "en": "In the cisternal maturation model, the cisternae themselves, along with their cargo, progress.",
+          "zh": "在囊泡成熟模型中，囊泡本身及其货物都会向前进展。",
+          "es": "En el modelo de maduración cisternal, las cisternas mismas, junto con su carga, progresan.",
+          "fr": "Dans le modèle de maturation des citernes, les citernes elles-mêmes, ainsi que leur cargaison, progressent.",
+          "de": "Im Zisternenreifungsmodell bewegen sich die Zisternen selbst zusammen mit ihrer Fracht vorwärts.",
+          "ja": "槽の成熟モデルでは、槽自体が貨物とともに進行します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The cisternal maturation model proposes that the Golgi cisternae themselves 'mature,' moving from the cis to the trans face while carrying and modifying their cargo as they move. This is distinct from the older model where vesicles move cargo between static cisternae.",
+      "zh": "囊泡成熟模型提出，高尔基体囊泡本身会“成熟”，从顺面移动到反面，同时在移动过程中携带并修饰其货物。这与旧模型中囊泡在静态囊泡之间移动货物的方式不同。",
+      "es": "El modelo de maduración cisternal propone que las cisternas del Golgi 'maduran' y se mueven de la cara cis a la cara trans, transportando y modificando su carga a medida que avanzan. Esto difiere del modelo antiguo donde las vesículas movían la carga entre cisternas estáticas.",
+      "fr": "Le modèle de maturation des citernes propose que les citernes golgiennes elles-mêmes 'mûrissent', se déplaçant de la face cis à la face trans tout en transportant et en modifiant leur cargaison. Ceci est distinct de l'ancien modèle où les vésicules déplaçaient la cargaison entre des citernes statiques.",
+      "de": "Das Zisternenreifungsmodell schlägt vor, dass die Golgi-Zisternen selbst 'reifen', indem sie sich von der Cis- zur Trans-Seite bewegen und dabei ihre Fracht transportieren und modifizieren. Dies unterscheidet sich vom älteren Modell, bei dem Vesikel Fracht zwischen statischen Zisternen transportierten.",
+      "ja": "槽の成熟モデルは、ゴルジ槽自体が「成熟」し、シス面からトランス面へと移動しながら、その移動中に貨物を運び、修飾すると提案しています。これは、小胞が静止した槽の間で貨物を移動させる古いモデルとは異なります。"
+    }
+  },
+  {
+    "page_number": 155,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A newly synthesized enzyme, E, is crucial for a specific modification that occurs only in the cis cisternae of the Golgi apparatus. If, due to a cellular malfunction, enzyme E is accidentally carried forward to a more trans region of the Golgi along with maturing cisternae, how would the cell most likely restore its proper function according to the cisternal maturation model?",
+      "zh": "一种新合成的酶E对高尔基体顺式囊泡中发生的特定修饰至关重要。如果由于细胞故障，酶E意外地随着成熟的囊泡被带到高尔基体更远的顺式区域，根据囊泡成熟模型，细胞最可能如何恢复其正常功能？",
+      "es": "Una enzima recién sintetizada, E, es crucial para una modificación específica que ocurre solo en las cisternas cis del aparato de Golgi. Si, debido a un mal funcionamiento celular, la enzima E es transportada accidentalmente hacia una región más trans del Golgi junto con las cisternas en maduración, ¿cómo restauraría la célula su función adecuada según el modelo de maduración cisternal?",
+      "fr": "Une enzyme nouvellement synthétisée, E, est cruciale pour une modification spécifique qui n'a lieu que dans les citernes cis de l'appareil de Golgi. Si, en raison d'un dysfonctionnement cellulaire, l'enzyme E est accidentellement transportée vers une région plus trans du Golgi avec les citernes en maturation, comment la cellule rétablirait-elle le plus probablement sa fonction propre selon le modèle de maturation des citernes ?",
+      "de": "Ein neu synthetisiertes Enzym E ist entscheidend für eine spezifische Modifikation, die nur in den Cis-Zisternen des Golgi-Apparats stattfindet. Wenn Enzym E aufgrund einer zellulären Fehlfunktion versehentlich zusammen mit reifenden Zisternen in einen Trans-Bereich des Golgi transportiert wird, wie würde die Zelle ihre ordnungsgemäße Funktion nach dem Zisternenreifungsmodell am wahrscheinlichsten wiederherstellen?",
+      "ja": "新しく合成された酵素Eは、ゴルジ装置のシス槽でのみ発生する特定の修飾に不可欠です。もし細胞の機能不全により、酵素Eが成熟する槽と共に誤ってゴルジのよりトランス領域に運ばれた場合、槽の成熟モデルによると、細胞はどのようにしてその適切な機能を回復する可能性が最も高いですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Enzyme E would be degraded and new enzyme E synthesized in the cis region.",
+          "zh": "酶E将被降解，并在顺式区域合成新的酶E。",
+          "es": "La enzima E sería degradada y se sintetizaría una nueva enzima E en la región cis.",
+          "fr": "L'enzyme E serait dégradée et une nouvelle enzyme E synthétisée dans la région cis.",
+          "de": "Enzym E würde abgebaut und neues Enzym E in der Cis-Region synthetisiert.",
+          "ja": "酵素Eは分解され、シス領域で新しい酵素Eが合成されます。"
+        },
+        "feedback": {
+          "en": "While degradation and resynthesis can occur, the cisternal maturation model describes a specific recycling mechanism for misplaced enzymes.",
+          "zh": "虽然降解和再合成可能发生，但囊泡成熟模型描述了对错位酶的特定回收机制。",
+          "es": "Si bien la degradación y la resíntesis pueden ocurrir, el modelo de maduración cisternal describe un mecanismo de reciclaje específico para las enzimas mal ubicadas.",
+          "fr": "Bien que la dégradation et la resynthèse puissent se produire, le modèle de maturation des citernes décrit un mécanisme de recyclage spécifique pour les enzymes mal placées.",
+          "de": "Obwohl Abbau und Neusynthese stattfinden können, beschreibt das Zisternenreifungsmodell einen spezifischen Recyclingmechanismus für fehlplatzierte Enzyme.",
+          "ja": "分解と再合成は起こり得ますが、槽の成熟モデルは、誤って配置された酵素に対する特定の再循環メカニズムを記述しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Enzyme E would be transported 'backward' to less mature Golgi cisternae via recycling vesicles.",
+          "zh": "酶E将通过回收囊泡“反向”运输到不成熟的高尔基体囊泡。",
+          "es": "La enzima E sería transportada 'hacia atrás' a cisternas del Golgi menos maduras a través de vesículas de reciclaje.",
+          "fr": "L'enzyme E serait transportée 'en arrière' vers des citernes golgiennes moins matures via des vésicules de recyclage.",
+          "de": "Enzym E würde über Recycling-Vesikel 'rückwärts' zu weniger reifen Golgi-Zisternen transportiert werden.",
+          "ja": "酵素Eは、リサイクル小胞を介して、より未熟なゴルジ槽へと「逆方向」に輸送されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The affected trans cisterna would revert back to a cis cisterna.",
+          "zh": "受影响的反式囊泡将恢复为顺式囊泡。",
+          "es": "La cisterna trans afectada volvería a ser una cisterna cis.",
+          "fr": "La citerne trans affectée redeviendrait une citerne cis.",
+          "de": "Die betroffene Trans-Zisterne würde sich wieder in eine Cis-Zisterne umwandeln.",
+          "ja": "影響を受けたトランス槽はシス槽に戻ります。"
+        },
+        "feedback": {
+          "en": "Cisternae mature and progress forward; they do not revert to an earlier stage.",
+          "zh": "囊泡成熟并向前进展；它们不会恢复到早期阶段。",
+          "es": "Las cisternas maduran y progresan; no vuelven a una etapa anterior.",
+          "fr": "Les citernes mûrissent et progressent vers l'avant ; elles ne reviennent pas à un stade antérieur.",
+          "de": "Zisternen reifen und bewegen sich vorwärts; sie kehren nicht in ein früheres Stadium zurück.",
+          "ja": "槽は成熟して前進し、以前の段階に戻ることはありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Enzyme E would remain in the trans region, and the modification would simply occur there.",
+          "zh": "酶E将保留在反式区域，修饰将简单地在那里发生。",
+          "es": "La enzima E permanecería en la región trans y la modificación simplemente ocurriría allí.",
+          "fr": "L'enzyme E resterait dans la région trans, et la modification y aurait simplement lieu.",
+          "de": "Enzym E würde in der Trans-Region verbleiben, und die Modifikation würde einfach dort stattfinden.",
+          "ja": "酵素Eはトランス領域に留まり、修飾はそこで行われることになります。"
+        },
+        "feedback": {
+          "en": "The problem states the enzyme is crucial for a modification occurring 'only' in the cis cisternae, implying location-specific function.",
+          "zh": "问题指出该酶对“仅”发生在顺式囊泡中的修饰至关重要，这意味着功能是特定于位置的。",
+          "es": "El problema indica que la enzima es crucial para una modificación que ocurre 'solo' en las cisternas cis, lo que implica una función específica de ubicación.",
+          "fr": "Le problème indique que l'enzyme est cruciale pour une modification se produisant 'uniquement' dans les citernes cis, ce qui implique une fonction spécifique à l'emplacement.",
+          "de": "Die Aufgabe besagt, dass das Enzym entscheidend für eine Modifikation ist, die 'nur' in den Cis-Zisternen stattfindet, was auf eine ortsspezifische Funktion hinweist.",
+          "ja": "問題文では、酵素がシス槽で「のみ」発生する修飾に不可欠であると述べており、これは機能が場所に特異的であることを意味します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text and Figure 6.12 (specifically step 5) explicitly state that 'some vesicles recycle enzymes that had been carried forward in moving cisternae, transporting them 'backward' to a less mature region where their functions are needed.' This mechanism ensures that enzymes are returned to their proper functional location.",
+      "zh": "文本和图6.12（特别是步骤5）明确指出，“一些囊泡会回收那些在移动的囊泡中被带到前面去的酶，将它们‘反向’运输到其功能所需的较不成熟的区域。”这种机制确保酶被送回其正确的发挥功能的地点。",
+      "es": "El texto y la Figura 6.12 (específicamente el paso 5) afirman explícitamente que 'algunas vesículas reciclan enzimas que habían sido transportadas hacia adelante en cisternas en movimiento, transportándolas 'hacia atrás' a una región menos madura donde se necesitan sus funciones.' Este mecanismo asegura que las enzimas sean devueltas a su ubicación funcional adecuada.",
+      "fr": "Le texte et la Figure 6.12 (en particulier l'étape 5) déclarent explicitement que « certaines vésicules recyclent les enzymes qui ont été transportées vers l'avant dans les citernes en mouvement, les transportant 'en arrière' vers une région moins mature où leurs fonctions sont nécessaires ». Ce mécanisme garantit que les enzymes sont renvoyées à leur emplacement fonctionnel approprié.",
+      "de": "Der Text und Abbildung 6.12 (insbesondere Schritt 5) besagen explizit, dass 'einige Vesikel Enzyme recyceln, die in sich bewegenden Zisternen vorwärts transportiert wurden, und sie 'rückwärts' in eine weniger reife Region transportieren, wo ihre Funktionen benötigt werden.' Dieser Mechanismus stellt sicher, dass Enzyme an ihren richtigen Funktionsort zurückgeführt werden.",
+      "ja": "本文と図6.12（特にステップ5）では、「移動する槽で前方に運ばれた酵素を、その機能が必要とされるより未熟な領域へ『後方』に輸送する小胞が存在する」と明示されています。このメカニズムにより、酵素は適切な機能部位に戻されます。"
+    }
+  },
+  {
+    "page_number": 155,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Besides modifying existing molecules, which of the following macromolecules are primarily synthesized by the Golgi apparatus in plant cells?",
+      "zh": "除了修饰现有分子外，植物细胞中高尔基体主要合成以下哪种大分子？",
+      "es": "Además de modificar moléculas existentes, ¿cuáles de las siguientes macromoléculas son sintetizadas principalmente por el aparato de Golgi en células vegetales?",
+      "fr": "Outre la modification des molécules existantes, quelles sont les macromolécules suivantes principalement synthétisées par l'appareil de Golgi dans les cellules végétales ?",
+      "de": "Welche der folgenden Makromoleküle werden in Pflanzenzellen neben der Modifikation bestehender Moleküle hauptsächlich vom Golgi-Apparat synthetisiert?",
+      "ja": "既存の分子を修飾する以外に、植物細胞のゴルジ装置が主に合成する高分子は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Cellulose and starch.",
+          "zh": "纤维素和淀粉。",
+          "es": "Celulosa y almidón.",
+          "fr": "Cellulose et amidon.",
+          "de": "Zellulose und Stärke.",
+          "ja": "セルロースとデンプン。"
+        },
+        "feedback": {
+          "en": "Cellulose is synthesized at the plasma membrane, and starch is synthesized in plastids.",
+          "zh": "纤维素在质膜处合成，淀粉在质体中合成。",
+          "es": "La celulosa se sintetiza en la membrana plasmática y el almidón se sintetiza en los plastos.",
+          "fr": "La cellulose est synthétisée au niveau de la membrane plasmique, et l'amidon est synthétisé dans les plastes.",
+          "de": "Zellulose wird an der Plasmamembran synthetisiert, und Stärke wird in Plastiden synthetisiert.",
+          "ja": "セルロースは細胞膜で合成され、デンプンは色素体で合成されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Pectins and noncellulose polysaccharides.",
+          "zh": "果胶和非纤维素多糖。",
+          "es": "Pectinas y polisacáridos no celulósicos.",
+          "fr": "Pectines et polysaccharides non cellulosiques.",
+          "de": "Pektine und Nicht-Zellulose-Polysaccharide.",
+          "ja": "ペクチンと非セルロース性多糖類。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "All types of secretory proteins.",
+          "zh": "所有类型的分泌蛋白。",
+          "es": "Todo tipo de proteínas secretoras.",
+          "fr": "Tous types de protéines sécrétoires.",
+          "de": "Alle Arten von sezernierenden Proteinen.",
+          "ja": "すべての種類の分泌タンパク質。"
+        },
+        "feedback": {
+          "en": "Secretory proteins are synthesized in the ER and ribosomes, then processed and packaged by the Golgi.",
+          "zh": "分泌蛋白在内质网和核糖体中合成，然后由高尔基体加工和包装。",
+          "es": "Las proteínas secretoras se sintetizan en el RE y los ribosomas, luego son procesadas y empaquetadas por el Golgi.",
+          "fr": "Les protéines sécrétoires sont synthétisées dans le RE et les ribosomes, puis traitées et emballées par le Golgi.",
+          "de": "Sekretorische Proteine werden im ER und an Ribosomen synthetisiert und dann vom Golgi verarbeitet und verpackt.",
+          "ja": "分泌タンパク質はERとリボソームで合成され、その後ゴルジ装置によって加工・包装されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Membrane phospholipids and cholesterol.",
+          "zh": "膜磷脂和胆固醇。",
+          "es": "Fosfolípidos de membrana y colesterol.",
+          "fr": "Phospholipides membranaires et cholestérol.",
+          "de": "Membranphospholipide und Cholesterin.",
+          "ja": "膜リン脂質とコレステロール。"
+        },
+        "feedback": {
+          "en": "Membrane phospholipids may be altered in the Golgi, but their primary synthesis, along with cholesterol, largely occurs in the ER.",
+          "zh": "膜磷脂可能在高尔基体中被改变，但它们和胆固醇的初级合成主要发生在内质网中。",
+          "es": "Los fosfolípidos de membrana pueden ser alterados en el Golgi, pero su síntesis primaria, junto con el colesterol, ocurre en gran medida en el RE.",
+          "fr": "Les phospholipides membranaires peuvent être altérés dans le Golgi, mais leur synthèse primaire, ainsi que celle du cholestérol, a lieu en grande partie dans le RE.",
+          "de": "Membranphospholipide können im Golgi verändert werden, aber ihre primäre Synthese sowie die von Cholesterin finden größtenteils im ER statt.",
+          "ja": "膜リン脂質はゴルジ装置で修飾されることがありますが、コレステロールと共にその主要な合成はERで大部分が行われます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text clearly states, 'Many polysaccharides secreted by cells are Golgi products. For example, pectins and certain other noncellulose polysaccharides are made in the Golgi of plant cells and then incorporated along with cellulose into their cell walls.' While the Golgi modifies other molecules, these polysaccharides are specifically mentioned as being 'made' there.",
+      "zh": "文本明确指出：“许多由细胞分泌的多糖是高尔基体产物。例如，果胶和某些其他非纤维素多糖是在植物细胞的高尔基体中合成的，然后与纤维素一起被整合到它们的细胞壁中。”虽然高尔基体修饰其他分子，但这些多糖被明确提及为在那里“制造”的。",
+      "es": "El texto establece claramente: 'Muchos polisacáridos secretados por las células son productos del Golgi. Por ejemplo, las pectinas y ciertos otros polisacáridos no celulósicos se fabrican en el Golgi de las células vegetales y luego se incorporan junto con la celulosa en sus paredes celulares.' Aunque el Golgi modifica otras moléculas, estos polisacáridos se mencionan específicamente como 'hechos' allí.",
+      "fr": "Le texte indique clairement : « De nombreux polysaccharides sécrétés par les cellules sont des produits du Golgi. Par exemple, les pectines et certains autres polysaccharides non cellulosiques sont fabriqués dans le Golgi des cellules végétales, puis incorporés avec la cellulose dans leurs parois cellulaires. » Bien que le Golgi modifie d'autres molécules, ces polysaccharides sont spécifiquement mentionnés comme étant « fabriqués » à cet endroit.",
+      "de": "Der Text besagt eindeutig: 'Viele von Zellen sezernierte Polysaccharide sind Golgi-Produkte. Zum Beispiel werden Pektine und bestimmte andere Nicht-Zellulose-Polysaccharide im Golgi von Pflanzenzellen hergestellt und dann zusammen mit Zellulose in deren Zellwände eingebaut.' Obwohl der Golgi andere Moleküle modifiziert, werden diese Polysaccharide spezifisch als dort 'hergestellt' erwähnt.",
+      "ja": "本文には、「細胞によって分泌される多くの多糖類はゴルジ装置の産物である。例えば、ペクチンや他のいくつかの非セルロース性多糖類は、植物細胞のゴルジ装置で作られ、その後セルロースと共に細胞壁に組み込まれる」と明確に記載されています。ゴルジ装置は他の分子を修飾しますが、これらの多糖類は特にそこで「作られる」と述べられています。"
+    }
+  }
+]

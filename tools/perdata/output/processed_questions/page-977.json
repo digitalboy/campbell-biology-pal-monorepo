@@ -1,0 +1,291 @@
+[
+  {
+    "page_number": 977,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following sequences correctly describes the path of electrical impulses through the heart during a normal heartbeat, starting from the primary pacemaker?",
+      "zh": "以下哪一序列正确描述了在正常心跳期间，电脉冲从主要起搏点开始穿过心脏的路径？",
+      "es": "¿Cuál de las siguientes secuencias describe correctamente la trayectoria de los impulsos eléctricos a través del corazón durante un latido normal, comenzando desde el marcapasos primario?",
+      "fr": "Laquelle des séquences suivantes décrit correctement le cheminement des impulsions électriques à travers le cœur lors d'un battement normal, en partant du stimulateur cardiaque principal ?",
+      "de": "Welche der folgenden Sequenzen beschreibt den Weg der elektrischen Impulse durch das Herz während eines normalen Herzschlags, beginnend am primären Schrittmacher, korrekt?",
+      "ja": "以下のシーケンスのうち、主要なペースメーカーから始まる正常な心拍中の心臓を通る電気的インパルスの経路を正しく記述しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "SA node → AV node → Bundle branches → Purkinje fibers → Ventricular walls",
+          "zh": "窦房结 → 房室结 → 房室束分支 → 浦肯野纤维 → 心室壁",
+          "es": "Nodo SA → Nodo AV → Ramas del haz → Fibras de Purkinje → Paredes ventriculares",
+          "fr": "Nœud SA → Nœud AV → Branches du faisceau → Fibres de Purkinje → Parois ventriculaires",
+          "de": "SA-Knoten → AV-Knoten → His-Bündel → Purkinje-Fasern → Ventrikelwände",
+          "ja": "洞房結節 → 房室結節 → ヒス束枝 → プルキンエ繊維 → 心室壁"
+        },
+        "feedback": {
+          "en": "Misses the initial spread through the atria from the SA node before reaching the AV node.",
+          "zh": "遗漏了电脉冲从窦房结到房室结之前，首先通过心房的初始传播。",
+          "es": "Omite la propagación inicial a través de las aurículas desde el nodo SA antes de llegar al nodo AV.",
+          "fr": "Omet la propagation initiale à travers les oreillettes depuis le nœud SA avant d'atteindre le nœud AV.",
+          "de": "Fehlt die anfängliche Ausbreitung durch die Vorhöfe vom SA-Knoten, bevor der AV-Knoten erreicht wird.",
+          "ja": "洞房結節から房室結節に到達する前の、心房を通る最初の伝播が抜けています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "SA node → Atria → AV node → Bundle branches → Purkinje fibers → Ventricular walls",
+          "zh": "窦房结 → 心房 → 房室结 → 房室束分支 → 浦肯野纤维 → 心室壁",
+          "es": "Nodo SA → Aurículas → Nodo AV → Ramas del haz → Fibras de Purkinje → Paredes ventriculares",
+          "fr": "Nœud SA → Oreillettes → Nœud AV → Branches du faisceau → Fibres de Purkinje → Parois ventriculaires",
+          "de": "SA-Knoten → Vorhöfe → AV-Knoten → His-Bündel → Purkinje-Fasern → Ventrikelwände",
+          "ja": "洞房結節 → 心房 → 房室結節 → ヒス束枝 → プルキンエ繊維 → 心室壁"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "AV node → SA node → Atria → Bundle branches → Purkinje fibers → Ventricular walls",
+          "zh": "房室结 → 窦房结 → 心房 → 房室束分支 → 浦肯野纤维 → 心室壁",
+          "es": "Nodo AV → Nodo SA → Aurículas → Ramas del haz → Fibras de Purkinje → Paredes ventriculares",
+          "fr": "Nœud AV → Nœud SA → Oreillettes → Branches du faisceau → Fibres de Purkinje → Parois ventriculaires",
+          "de": "AV-Knoten → SA-Knoten → Vorhöfe → His-Bündel → Purkinje-Fasern → Ventrikelwände",
+          "ja": "房室結節 → 洞房結節 → 心房 → ヒス束枝 → プルキンエ繊維 → 心室壁"
+        },
+        "feedback": {
+          "en": "Incorrect starting point; the SA node is the primary pacemaker.",
+          "zh": "起始点不正确；窦房结是主要起搏点。",
+          "es": "Punto de partida incorrecto; el nodo SA es el marcapasos primario.",
+          "fr": "Point de départ incorrect ; le nœud SA est le stimulateur cardiaque principal.",
+          "de": "Falscher Startpunkt; der SA-Knoten ist der primäre Schrittmacher.",
+          "ja": "開始点が誤っています。洞房結節が主要なペースメーカーです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "SA node → Atria → Purkinje fibers → Bundle branches → Ventricular walls",
+          "zh": "窦房结 → 心房 → 浦肯野纤维 → 房室束分支 → 心室壁",
+          "es": "Nodo SA → Aurículas → Fibras de Purkinje → Ramas del haz → Paredes ventriculares",
+          "fr": "Nœud SA → Oreillettes → Fibres de Purkinje → Branches du faisceau → Parois ventriculaires",
+          "de": "SA-Knoten → Vorhöfe → Purkinje-Fasern → His-Bündel → Ventrikelwände",
+          "ja": "洞房結節 → 心房 → プルキンエ繊維 → ヒス束枝 → 心室壁"
+        },
+        "feedback": {
+          "en": "Incorrect order for bundle branches and Purkinje fibers, and also misses the AV node delay.",
+          "zh": "房室束分支和浦肯野纤维的顺序不正确，并且也遗漏了房室结的延迟。",
+          "es": "Orden incorrecto para las ramas del haz y las fibras de Purkinje, y también omite el retraso del nodo AV.",
+          "fr": "Ordre incorrect pour les branches du faisceau et les fibres de Purkinje, et omet également le délai du nœud AV.",
+          "de": "Falsche Reihenfolge für His-Bündel und Purkinje-Fasern, und der AV-Knoten-Delay fehlt ebenfalls.",
+          "ja": "ヒス束枝とプルキンエ繊維の順序が誤っており、房室結節の遅延も抜けています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The electrical impulses originate in the SA node, spread through the atria, are delayed at the AV node, then pass to the bundle branches, which conduct them to the heart apex and then throughout the ventricular walls via Purkinje fibers. This sequence is explicitly described in the text and illustrated in Figure 42.8.",
+      "zh": "电脉冲起源于窦房结，然后扩散到心房，在房室结处延迟，然后传到房室束分支，再通过浦肯野纤维传导到心尖并遍布整个心室壁。这一序列在文本中明确描述并由图42.8进行了说明。",
+      "es": "Los impulsos eléctricos se originan en el nodo SA, se propagan a través de las aurículas, se retrasan en el nodo AV, luego pasan a las ramas del haz, que los conducen al vértice del corazón y luego por todas las paredes ventriculares a través de las fibras de Purkinje. Esta secuencia se describe explícitamente en el texto y se ilustra en la Figura 42.8.",
+      "fr": "Les impulsions électriques proviennent du nœud SA, se propagent à travers les oreillettes, sont retardées au niveau du nœud AV, puis passent aux branches du faisceau, qui les conduisent à l'apex du cœur et ensuite à travers toutes les parois ventriculaires via les fibres de Purkinje. Cette séquence est explicitement décrite dans le texte et illustrée à la Figure 42.8.",
+      "de": "Die elektrischen Impulse entstehen im SA-Knoten, breiten sich über die Vorhöfe aus, werden am AV-Knoten verzögert und gelangen dann zu den His-Bündeln, die sie zum Herzspitzenbereich und dann über die Purkinje-Fasern in die gesamte Ventrikelwand leiten. Diese Abfolge wird im Text explizit beschrieben und in Abbildung 42.8 dargestellt.",
+      "ja": "電気インパルスは洞房結節で発生し、心房全体に広がり、房室結節で遅延し、その後ヒス束枝を介して心尖に、さらにプルキンエ繊維を介して心室壁全体に伝導されます。このシーケンスは本文で明示的に説明され、図42.8で示されています。"
+    }
+  },
+  {
+    "page_number": 977,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the provided text, which of the following statements about the regulation of heart rate is FALSE?",
+      "zh": "根据提供的文本，以下关于心率调节的陈述哪一项是错误的？",
+      "es": "Según el texto proporcionado, ¿cuál de las siguientes afirmaciones sobre la regulación de la frecuencia cardíaca es FALSA?",
+      "fr": "D'après le texte fourni, laquelle des affirmations suivantes concernant la régulation du rythme cardiaque est FAUSSE ?",
+      "de": "Basierend auf dem bereitgestellten Text, welche der folgenden Aussagen zur Regulierung der Herzfrequenz ist FALSCH?",
+      "ja": "提供されたテキストに基づくと、心拍数調節に関する以下の記述のうち、誤っているものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "An increase in body temperature by 1°C typically causes a decrease of about 10 beats per minute in heart rate.",
+          "zh": "体温升高1°C通常会导致心率每分钟减少约10次。",
+          "es": "Un aumento de la temperatura corporal en 1°C típicamente causa una disminución de aproximadamente 10 latidos por minuto en la frecuencia cardíaca.",
+          "fr": "Une augmentation de la température corporelle de 1°C entraîne généralement une diminution d'environ 10 battements par minute du rythme cardiaque.",
+          "de": "Eine Erhöhung der Körpertemperatur um 1°C führt typischerweise zu einer Abnahme der Herzfrequenz um etwa 10 Schläge pro Minute.",
+          "ja": "体温が1°C上昇すると、通常、心拍数が毎分約10拍減少します。"
+        },
+        "feedback": {
+          "en": "The text states that \"An increase of only 1°C raises the heart rate by about 10 beats per minute,\" meaning it *increases* the heart rate, not decreases it.",
+          "zh": "文本指出“体温仅升高1°C就能使心率每分钟增加约10次”，这意味着它会*增加*心率，而不是减少。",
+          "es": "El texto afirma que \"un aumento de solo 1°C eleva la frecuencia cardíaca en aproximadamente 10 latidos por minuto\", lo que significa que *aumenta* la frecuencia cardíaca, no la disminuye.",
+          "fr": "Le texte indique qu'\"une augmentation de seulement 1°C élève le rythme cardiaque d'environ 10 battements par minute\", ce qui signifie qu'il *augmente* le rythme cardiaque, et non le diminue.",
+          "de": "Der Text besagt, dass „eine Erhöhung um nur 1°C die Herzfrequenz um etwa 10 Schläge pro Minute erhöht“, was bedeutet, dass sie die Herzfrequenz *erhöht*, nicht senkt.",
+          "ja": "テキストには「体温がわずか1°C上昇するだけで心拍数が毎分約10拍増加する」と記載されており、これは心拍数を*増加させる*ことを意味し、減少させるものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The sympathetic division of the nervous system can increase heart rate, while the parasympathetic division can decrease it.",
+          "zh": "神经系统的交感神经部分可以增加心率，而副交感神经部分可以降低心率。",
+          "es": "La división simpática del sistema nervioso puede aumentar la frecuencia cardíaca, mientras que la división parasimpática puede disminuirla.",
+          "fr": "La division sympathique du système nerveux peut augmenter le rythme cardiaque, tandis que la division parasympathique peut le diminuer.",
+          "de": "Der sympathische Teil des Nervensystems kann die Herzfrequenz erhöhen, während der parasympathische Teil sie senken kann.",
+          "ja": "神経系の交感神経系は心拍数を増加させることができ、副交感神経系は心拍数を減少させることができます。"
+        },
+        "feedback": {
+          "en": "This statement is correct, describing the accelerator and brake analogy.",
+          "zh": "该陈述是正确的，它描述了加速器和刹车的类比。",
+          "es": "Esta afirmación es correcta, describiendo la analogía del acelerador y el freno.",
+          "fr": "Cette affirmation est correcte, décrivant l'analogie de l'accélérateur et du frein.",
+          "de": "Diese Aussage ist korrekt und beschreibt die Analogie von Gaspedal und Bremse.",
+          "ja": "この記述は正しく、アクセルとブレーキの類推を説明しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Hormones like epinephrine, secreted by the adrenal glands, can speed up the pacemaker.",
+          "zh": "肾上腺分泌的肾上腺素等激素可以加速起搏点。",
+          "es": "Hormonas como la epinefrina, secretadas por las glándulas suprarrenales, pueden acelerar el marcapasos.",
+          "fr": "Des hormones comme l'épinéphrine, sécrétées par les glandes surrénales, peuvent accélérer le stimulateur cardiaque.",
+          "de": "Hormone wie Epinephrin, die von den Nebennieren ausgeschüttet werden, können den Schrittmacher beschleunigen.",
+          "ja": "副腎から分泌されるエピネフリンなどのホルモンは、ペースメーカーを加速させることができます。"
+        },
+        "feedback": {
+          "en": "This statement is correct, referring to epinephrine as the \"fight-or-flight\" hormone speeding up the pacemaker.",
+          "zh": "该陈述是正确的，它提到肾上腺素作为“战斗或逃跑”激素能加速起搏点。",
+          "es": "Esta afirmación es correcta, refiriéndose a la epinefrina como la hormona de \"lucha o huida\" que acelera el marcapasos.",
+          "fr": "Cette affirmation est correcte, faisant référence à l'épinéphrine comme l'hormone de \"lutte ou fuite\" qui accélère le stimulateur cardiaque.",
+          "de": "Diese Aussage ist korrekt und bezieht sich auf Epinephrin als das „Kampf-oder-Flucht“-Hormon, das den Schrittmacher beschleunigt.",
+          "ja": "この記述は正しく、エピネフリンが「闘争か逃走か」ホルモンとしてペースメーカーを加速させることを指しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Autorhythmic cells can contract without external signals, but their coordination in an intact heart relies on specialized nodes.",
+          "zh": "自律细胞可以在没有外部信号的情况下收缩，但它们在完整心脏中的协调依赖于特殊的结点。",
+          "es": "Las células autorrítmicas pueden contraerse sin señales externas, pero su coordinación en un corazón intacto depende de nodos especializados.",
+          "fr": "Les cellules autorhytmiques peuvent se contracter sans signaux externes, mais leur coordination dans un cœur intact dépend de nœuds spécialisés.",
+          "de": "Autorhythmische Zellen können sich ohne externe Signale zusammenziehen, aber ihre Koordination in einem intakten Herzen beruht auf spezialisierten Knoten.",
+          "ja": "自己律細胞は外部信号なしで収縮できますが、完全な心臓内でのそれらの協調は特殊な結節に依存しています。"
+        },
+        "feedback": {
+          "en": "This statement is correct; autorhythmic cells have intrinsic rhythm, but the SA and AV nodes coordinate the intact heart.",
+          "zh": "该陈述是正确的；自律细胞具有内在节律，但窦房结和房室结协调完整心脏的功能。",
+          "es": "Esta afirmación es correcta; las células autorrítmicas tienen ritmo intrínseco, pero los nodos SA y AV coordinan el corazón intacto.",
+          "fr": "Cette affirmation est correcte ; les cellules autorhytmiques ont un rythme intrinsèque, mais les nœuds SA et AV coordonnent le cœur intact.",
+          "de": "Diese Aussage ist korrekt; autorhythmische Zellen haben einen intrinsischen Rhythmus, aber der SA- und AV-Knoten koordinieren das intakte Herz.",
+          "ja": "この記述は正しいです。自己律細胞は固有のリズムを持っていますが、洞房結節と房室結節が完全な心臓の協調を司っています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'An increase of only 1°C raises the heart rate by about 10 beats per minute.' Therefore, a 1°C increase in body temperature leads to an *increase* in heart rate, not a decrease.",
+      "zh": "文本明确指出：“体温仅升高1°C就能使心率每分钟增加约10次。”因此，体温升高1°C会导致心率*增加*，而不是减少。",
+      "es": "El texto afirma explícitamente: 'Un aumento de solo 1°C eleva la frecuencia cardíaca en aproximadamente 10 latidos por minuto'. Por lo tanto, un aumento de 1°C en la temperatura corporal conduce a un *aumento* de la frecuencia cardíaca, no a una disminución.",
+      "fr": "Le texte indique explicitement : « Une augmentation de seulement 1°C élève le rythme cardiaque d'environ 10 battements par minute. » Par conséquent, une augmentation de 1°C de la température corporelle entraîne une *augmentation* du rythme cardiaque, et non une diminution.",
+      "de": "Der Text besagt explizit: „Eine Erhöhung um nur 1°C erhöht die Herzfrequenz um etwa 10 Schläge pro Minute.“ Daher führt eine Erhöhung der Körpertemperatur um 1°C zu einer *Erhöhung* der Herzfrequenz, nicht zu einer Abnahme.",
+      "ja": "本文には「体温がわずか1°C上昇するだけで心拍数が毎分約10拍増加する」と明記されています。したがって、体温が1°C上昇すると心拍数は*増加*し、減少することはありません。"
+    }
+  },
+  {
+    "page_number": 977,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following accurately describes the primary function of the atrioventricular (AV) node in the heart's electrical conduction system?",
+      "zh": "以下哪一项准确描述了房室结（AV结）在心脏电传导系统中的主要功能？",
+      "es": "¿Cuál de las siguientes describe con precisión la función principal del nodo auriculoventricular (AV) en el sistema de conducción eléctrica del corazón?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision la fonction principale du nœud auriculo-ventriculaire (AV) dans le système de conduction électrique du cœur ?",
+      "de": "Welche der folgenden Aussagen beschreibt die Hauptfunktion des Atrioventrikularknotens (AV-Knoten) im elektrischen Leitungssystem des Herzens genau?",
+      "ja": "以下のうち、心臓の電気伝導系における房室結節（AV結節）の主な機能を正確に説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It acts as the primary pacemaker, setting the rate and timing for all cardiac muscle cells.",
+          "zh": "它作为主要起搏点，设定所有心肌细胞的跳动速率和时间。",
+          "es": "Actúa como el marcapasos primario, estableciendo la frecuencia y el ritmo para todas las células del músculo cardíaco.",
+          "fr": "Il agit comme le stimulateur cardiaque principal, fixant le rythme et la synchronisation de toutes les cellules musculaires cardiaques.",
+          "de": "Es fungiert als primärer Schrittmacher und legt die Frequenz und den Zeitpunkt für alle Herzmuskelzellen fest.",
+          "ja": "それは主要なペースメーカーとして機能し、すべての心筋細胞の拍動速度とタイミングを設定します。"
+        },
+        "feedback": {
+          "en": "This describes the function of the SA node, not the AV node.",
+          "zh": "这描述的是窦房结的功能，而不是房室结的功能。",
+          "es": "Esto describe la función del nodo SA, no del nodo AV.",
+          "fr": "Cela décrit la fonction du nœud SA, et non celle du nœud AV.",
+          "de": "Dies beschreibt die Funktion des SA-Knotens, nicht des AV-Knotens.",
+          "ja": "これは洞房結節の機能であり、房室結節の機能ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It delays the electrical impulses for approximately 0.1 second, allowing the atria to empty completely before the ventricles contract.",
+          "zh": "它将电脉冲延迟约0.1秒，使心房在心室收缩之前完全排空。",
+          "es": "Retrasa los impulsos eléctricos aproximadamente 0.1 segundos, permitiendo que las aurículas se vacíen completamente antes de que los ventrículos se contraigan.",
+          "fr": "Il retarde les impulsions électriques d'environ 0,1 seconde, permettant aux oreillettes de se vider complètement avant que les ventricules ne se contractent.",
+          "de": "Es verzögert die elektrischen Impulse um etwa 0,1 Sekunden, wodurch sich die Vorhöfe vollständig entleeren können, bevor sich die Ventrikel zusammenziehen.",
+          "ja": "電気インパルスを約0.1秒遅らせ、心房が心室収縮の前に完全に空になるのを可能にします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It directly conducts signals throughout the ventricular walls via Purkinje fibers.",
+          "zh": "它通过浦肯野纤维直接将信号传导到整个心室壁。",
+          "es": "Conduce directamente las señales a través de las paredes ventriculares a través de las fibras de Purkinje.",
+          "fr": "Il conduit directement les signaux à travers les parois ventriculaires via les fibres de Purkinje.",
+          "de": "Es leitet Signale direkt über Purkinje-Fasern durch die Ventrikelwände.",
+          "ja": "プルキンエ繊維を介して心室壁全体に信号を直接伝導します。"
+        },
+        "feedback": {
+          "en": "While it passes signals to bundle branches and Purkinje fibers, its *primary* unique function highlighted is the delay, and the direct conduction throughout ventricular walls is done by Purkinje fibers after receiving signals from bundle branches (which come from AV node).",
+          "zh": "虽然它将信号传递给房室束分支和浦肯野纤维，但其被强调的*主要*独特功能是延迟，并且遍布心室壁的直接传导是由浦肯野纤维在接收到房室束分支（来自房室结）的信号后完成的。",
+          "es": "Aunque transmite señales a las ramas del haz y a las fibras de Purkinje, su *función principal* única destacada es el retraso, y la conducción directa a través de las paredes ventriculares la realizan las fibras de Purkinje después de recibir señales de las ramas del haz (que provienen del nodo AV).",
+          "fr": "Bien qu'il transmette des signaux aux branches du faisceau et aux fibres de Purkinje, sa *fonction principale* unique mise en évidence est le délai, et la conduction directe à travers les parois ventriculaires est effectuée par les fibres de Purkinje après avoir reçu des signaux des branches du faisceau (qui proviennent du nœud AV).",
+          "de": "Obwohl es Signale an His-Bündel und Purkinje-Fasern weiterleitet, ist seine *primäre* einzigartige Funktion die Verzögerung, und die direkte Leitung durch die Ventrikelwände erfolgt durch Purkinje-Fasern, nachdem sie Signale von den His-Bündeln (die vom AV-Knoten kommen) erhalten haben.",
+          "ja": "ヒス束枝やプルキンエ繊維に信号を送るものの、その*主な*独自の機能として強調されているのは遅延であり、心室壁全体への直接伝導は、ヒス束枝（房室結節から来る）から信号を受け取った後にプルキンエ繊維によって行われます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It receives signals from the sympathetic division to accelerate the heart rate.",
+          "zh": "它接收来自交感神经的信号以加速心率。",
+          "es": "Recibe señales de la división simpática para acelerar la frecuencia cardíaca.",
+          "fr": "Il reçoit des signaux de la division sympathique pour accélérer le rythme cardiaque.",
+          "de": "Es empfängt Signale vom sympathischen Nervensystem, um die Herzfrequenz zu beschleunigen.",
+          "ja": "心拍数を加速させるために交感神経系から信号を受け取ります。"
+        },
+        "feedback": {
+          "en": "While the nervous system affects the pacemaker, the AV node's primary function is a relay point with a delay, not directly receiving sympathetic signals for acceleration as its primary function.",
+          "zh": "尽管神经系统影响起搏点，但房室结的主要功能是具有延迟的接力点，而不是其主要功能是直接接收交感神经信号以加速。",
+          "es": "Si bien el sistema nervioso afecta al marcapasos, la función principal del nodo AV es ser un punto de relevo con un retraso, no recibir directamente señales simpáticas para la aceleración como su función principal.",
+          "fr": "Bien que le système nerveux affecte le stimulateur cardiaque, la fonction principale du nœud AV est d'être un point de relais avec un délai, et non de recevoir directement des signaux sympathiques pour l'accélération comme sa fonction principale.",
+          "de": "Während das Nervensystem den Schrittmacher beeinflusst, ist die Hauptfunktion des AV-Knotens eine Relaisstation mit Verzögerung, nicht die direkte Aufnahme sympathischer Signale zur Beschleunigung als dessen Hauptfunktion.",
+          "ja": "神経系がペースメーカーに影響を与える一方で、房室結節の主な機能は遅延を伴う中継点であり、加速のための交感神経信号を直接受け取ることがその主な機能ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that the atrioventricular (AV) node is a relay point where \"the impulses are delayed for about 0.1 second before spreading to the heart apex. This delay allows the atria to empty completely before the ventricles contract.\"",
+      "zh": "文本明确指出房室结（AV结）是一个接力点，其中“冲动被延迟约0.1秒，然后才传播到心尖。这种延迟使得心房能够在心室收缩之前完全排空。”",
+      "es": "El texto establece explícitamente que el nodo auriculoventricular (AV) es un punto de relevo donde \"los impulsos se retrasan aproximadamente 0.1 segundos antes de extenderse al vértice del corazón. Este retraso permite que las aurículas se vacíen completamente antes de que los ventrículos se contraigan.\"",
+      "fr": "Le texte indique explicitement que le nœud auriculo-ventriculaire (AV) est un point de relais où « les impulsions sont retardées d'environ 0,1 seconde avant de se propager vers l'apex du cœur. Ce délai permet aux oreillettes de se vider complètement avant que les ventricules ne se contractent. »",
+      "de": "Der Text besagt explizit, dass der Atrioventrikularknoten (AV-Knoten) ein Relaispunkt ist, an dem „die Impulse etwa 0,1 Sekunden verzögert werden, bevor sie sich zur Herzspitze ausbreiten. Diese Verzögerung ermöglicht es den Vorhöfen, sich vollständig zu entleeren, bevor sich die Ventrikel zusammenziehen.“",
+      "ja": "本文には、房室結節（AV結節）が「インパルスが心尖に広がる前に約0.1秒間遅延する」中継点であり、「この遅延により心室が収縮する前に心房が完全に空になる」と明確に述べられています。"
+    }
+  }
+]

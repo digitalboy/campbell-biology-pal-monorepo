@@ -1,0 +1,366 @@
+[
+  {
+    "page_number": 881,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, why is seed dispersal crucial for a plant's survival and success?",
+      "zh": "根据文本，为什么种子传播对植物的生存和成功至关重要？",
+      "es": "Según el texto, ¿por qué es crucial la dispersión de semillas para la supervivencia y el éxito de una planta?",
+      "fr": "Selon le texte, pourquoi la dispersion des graines est-elle cruciale pour la survie et le succès d'une plante ?",
+      "de": "Laut Text, warum ist die Samenverbreitung für das Überleben und den Erfolg einer Pflanze entscheidend?",
+      "ja": "本文によると、なぜ種の散布は植物の生存と成功にとって重要なのでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To prevent competition for nutrients with the parent plant.",
+          "zh": "为了防止与母株争夺养分。",
+          "es": "Para evitar la competencia por nutrientes con la planta madre.",
+          "fr": "Pour éviter la concurrence pour les nutriments avec la plante mère.",
+          "de": "Um Konkurrenz um Nährstoffe mit der Mutterpflanze zu vermeiden.",
+          "ja": "親植物との栄養分の競合を防ぐため。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To ensure the seed remains close to the parent plant for protection.",
+          "zh": "为了确保种子留在母株附近以获得保护。",
+          "es": "Para asegurar que la semilla permanezca cerca de la planta madre para su protección.",
+          "fr": "Pour s'assurer que la graine reste proche de la plante mère pour sa protection.",
+          "de": "Um sicherzustellen, dass der Samen zum Schutz in der Nähe der Mutterpflanze bleibt.",
+          "ja": "種子が保護のために親植物の近くに留まるようにするため。"
+        },
+        "feedback": {
+          "en": "The text states that staying close leads to poor chances of success due to competition.",
+          "zh": "文本指出，留在附近会因竞争导致成功机会渺茫。",
+          "es": "El texto indica que quedarse cerca conlleva pocas posibilidades de éxito debido a la competencia.",
+          "fr": "Le texte indique que rester à proximité réduit les chances de succès en raison de la concurrence.",
+          "de": "Der Text besagt, dass das Verbleiben in der Nähe aufgrund von Konkurrenz geringe Erfolgsaussichten hat.",
+          "ja": "テキストによると、近くに留まると競合のため成功の可能性が低くなると述べられています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To increase the chances of the seed being eaten by animals.",
+          "zh": "为了增加种子被动物吃掉的机会。",
+          "es": "Para aumentar las posibilidades de que la semilla sea comida por animales.",
+          "fr": "Pour augmenter les chances que la graine soit mangée par les animaux.",
+          "de": "Um die Wahrscheinlichkeit zu erhöhen, dass der Samen von Tieren gefressen wird.",
+          "ja": "種子が動物に食べられる可能性を高めるため。"
+        },
+        "feedback": {
+          "en": "While some dispersal mechanisms involve animals consuming fruits, the primary goal of dispersal is to find fertile ground and avoid competition, not merely to be eaten.",
+          "zh": "虽然某些传播机制涉及动物食用果实，但传播的主要目的是寻找肥沃的土地并避免竞争，而不仅仅是被吃掉。",
+          "es": "Aunque algunos mecanismos de dispersión implican el consumo de frutos por animales, el objetivo principal de la dispersión es encontrar terreno fértil y evitar la competencia, no simplemente ser comido.",
+          "fr": "Bien que certains mécanismes de dispersion impliquent que les animaux consomment des fruits, le but principal de la dispersion est de trouver un sol fertile et d'éviter la concurrence, pas simplement d'être mangé.",
+          "de": "Obwohl einige Verbreitungsmechanismen das Fressen von Früchten durch Tiere beinhalten, ist das Hauptziel der Verbreitung, fruchtbaren Boden zu finden und Konkurrenz zu vermeiden, nicht bloß gefressen zu werden.",
+          "ja": "一部の散布メカニズムには動物による果実の摂取が含まれますが、散布の主な目的は肥沃な土地を見つけ、競合を避けることであり、単に食べられることではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To help the seed absorb more sunlight.",
+          "zh": "帮助种子吸收更多的阳光。",
+          "es": "Para ayudar a la semilla a absorber más luz solar.",
+          "fr": "Pour aider la graine à absorber plus de lumière solaire.",
+          "de": "Um dem Samen zu helfen, mehr Sonnenlicht zu absorbieren.",
+          "ja": "種子がより多くの日光を吸収するのを助けるため。"
+        },
+        "feedback": {
+          "en": "Sunlight absorption is critical for photosynthesis in the plant, but not the direct reason for seed dispersal.",
+          "zh": "阳光吸收对植物的光合作用至关重要，但不是种子传播的直接原因。",
+          "es": "La absorción de luz solar es crítica para la fotosíntesis en la planta, pero no es la razón directa de la dispersión de semillas.",
+          "fr": "L'absorption de la lumière du soleil est essentielle pour la photosynthèse chez la plante, mais ce n'est pas la raison directe de la dispersion des graines.",
+          "de": "Sonnenlichtabsorption ist entscheidend für die Photosynthese in der Pflanze, aber nicht der direkte Grund für die Samenverbreitung.",
+          "ja": "日光吸収は植物の光合成にとって重要ですが、種の散布の直接的な理由ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states: 'A seed that falls and sprouts beneath the parent plant will stand little chance of competing successfully for nutrients. To prosper, seeds must be widely dispersed.' This highlights the need to avoid competition with the parent plant.",
+      "zh": "文本指出：“落在母株下并萌芽的种子，成功竞争养分的机会很小。为了繁衍，种子必须广泛传播。”这强调了避免与母株竞争的必要性。",
+      "es": "El texto afirma: 'Una semilla que cae y brota debajo de la planta madre tendrá pocas posibilidades de competir con éxito por los nutrientes. Para prosperar, las semillas deben dispersarse ampliamente'. Esto subraya la necesidad de evitar la competencia con la planta madre.",
+      "fr": "Le texte indique : « Une graine qui tombe et germe sous la plante mère aura peu de chances de réussir à rivaliser pour les nutriments. Pour prospérer, les graines doivent être largement dispersées. » Cela souligne la nécessité d'éviter la concurrence avec la plante mère.",
+      "de": "Der Text besagt: 'Ein Samen, der unter der Mutterpflanze fällt und keimt, hat wenig Chancen, erfolgreich um Nährstoffe zu konkurrieren. Um zu gedeihen, müssen Samen weit verbreitet werden.' Dies unterstreicht die Notwendigkeit, Konkurrenz mit der Mutterpflanze zu vermeiden.",
+      "ja": "本文には「親植物の下に落ちて発芽した種子は、栄養素を求めて競争する機会がほとんどありません。繁栄するためには、種子は広く散布されなければなりません。」と記載されており、親植物との競合を避ける必要性が強調されています。"
+    }
+  },
+  {
+    "page_number": 881,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following describes a unique mechanism of wind dispersal where the entire plant breaks off and tumbles across the terrain?",
+      "zh": "以下哪项描述了一种独特的风力传播机制，即整个植物断裂并随风滚动穿过地形？",
+      "es": "¿Cuál de los siguientes describe un mecanismo único de dispersión por el viento donde toda la planta se rompe y rueda por el terreno?",
+      "fr": "Lequel des éléments suivants décrit un mécanisme unique de dispersion par le vent où la plante entière se détache et roule à travers le terrain ?",
+      "de": "Welche der folgenden Beschreibungen beschreibt einen einzigartigen Windverbreitungsmechanismus, bei dem die gesamte Pflanze abbricht und über das Gelände rollt?",
+      "ja": "次のうち、植物全体が地面からちぎれて地形を転がり、種子を散布する独特な風散布のメカニズムを説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Maple fruit, which spins like a helicopter blade.",
+          "zh": "枫树果实，像直升机叶片一样旋转。",
+          "es": "Fruto de arce, que gira como una hélice de helicóptero.",
+          "fr": "Fruit de l'érable, qui tourne comme une hélice d'hélicoptère.",
+          "de": "Ahornfrucht, die sich wie ein Hubschrauberrotor dreht.",
+          "ja": "ヘリコプターの羽根のように回転するカエデの果実。"
+        },
+        "feedback": {
+          "en": "Maple fruits spin, but the entire plant does not break off and tumble.",
+          "zh": "枫树果实会旋转，但整个植物不会断裂并滚动。",
+          "es": "Los frutos de arce giran, pero la planta entera no se rompe ni rueda.",
+          "fr": "Les fruits de l'érable tournent, mais la plante entière ne se détache pas et ne roule pas.",
+          "de": "Ahornfrüchte drehen sich, aber die ganze Pflanze bricht nicht ab und rollt nicht.",
+          "ja": "カエデの果実は回転しますが、植物全体がちぎれて転がるわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Dandelion fruit, carried by umbrella-like parachutes.",
+          "zh": "蒲公英果实，由伞状降落伞携带。",
+          "es": "Fruto de diente de león, transportado por paracaídas en forma de paraguas.",
+          "fr": "Fruit de pissenlit, transporté par des parachutes en forme de parapluie.",
+          "de": "Löwenzahnfrucht, die von schirmähnlichen Fallschirmen getragen wird.",
+          "ja": "傘のようなパラシュートで運ばれるタンポポの果実。"
+        },
+        "feedback": {
+          "en": "Dandelion seeds use parachutes, but the plant itself does not tumble.",
+          "zh": "蒲公英种子使用降落伞，但植物本身不会滚动。",
+          "es": "Las semillas de diente de león usan paracaídas, pero la planta en sí no rueda.",
+          "fr": "Les graines de pissenlit utilisent des parachutes, mais la plante elle-même ne roule pas.",
+          "de": "Löwenzahnsamen nutzen Fallschirme, aber die Pflanze selbst rollt nicht.",
+          "ja": "タンポポの種子はパラシュートを利用しますが、植物自体が転がるわけではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Tumbleweeds, which break off and scatter seeds as they roll.",
+          "zh": "风滚草，断裂后边滚动边散布种子。",
+          "es": "Plantas rodadoras, que se desprenden y dispersan semillas mientras ruedan.",
+          "fr": "Tumbleweeds, qui se détachent et dispersent les graines en roulant.",
+          "de": "Tumbleweeds, die abbrechen und beim Rollen Samen verstreuen.",
+          "ja": "地面からちぎれて転がりながら種子を散布するタンブルウィード（回転草）。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Alsomitra macrocarpa, which glides through the air with a large wingspan.",
+          "zh": "大果翅子藤，以巨大的翼展在空中滑翔。",
+          "es": "Alsomitra macrocarpa, que se desliza por el aire con una gran envergadura.",
+          "fr": "Alsomitra macrocarpa, qui plane dans l'air avec une grande envergure.",
+          "de": "Alsomitra macrocarpa, die mit großer Flügelspannweite durch die Luft gleitet.",
+          "ja": "大きな翼幅で空中を滑空するアルソミトラ・マクロカルパ。"
+        },
+        "feedback": {
+          "en": "Alsomitra macrocarpa seeds glide, but the plant does not tumble.",
+          "zh": "大果翅子藤的种子滑翔，但植物不会滚动。",
+          "es": "Las semillas de Alsomitra macrocarpa se deslizan, pero la planta no rueda.",
+          "fr": "Les graines d'Alsomitra macrocarpa planent, mais la plante ne roule pas.",
+          "de": "Alsomitra macrocarpa-Samen gleiten, aber die Pflanze rollt nicht.",
+          "ja": "アルソミトラ・マクロカルパの種子は滑空しますが、植物が転がるわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly mentions: 'Tumbleweeds break off at the ground and tumble across the terrain, scattering their seeds.' This is a unique form of wind dispersal involving the whole plant.",
+      "zh": "文本明确提到：“风滚草在地面折断，随风滚动穿过地形，散布它们的种子。”这是一种涉及整个植物的独特风力传播形式。",
+      "es": "El texto menciona explícitamente: 'Los tumbleweeds se desprenden del suelo y ruedan por el terreno, dispersando sus semillas.' Esta es una forma única de dispersión por el viento que involucra a toda la planta.",
+      "fr": "Le texte mentionne explicitement : « Les tumbleweeds se détachent du sol et roulent sur le terrain, dispersant leurs graines. » C'est une forme unique de dispersion par le vent impliquant la plante entière.",
+      "de": "Der Text erwähnt explizit: 'Tumbleweeds brechen am Boden ab und rollen über das Gelände, wobei sie ihre Samen verstreuen.' Dies ist eine einzigartige Form der Windverbreitung, die die gesamte Pflanze betrifft.",
+      "ja": "本文には「タンブルウィードは地面からちぎれて地形を転がり、種子を散布する。」と明確に述べられています。これは植物全体が関与する独特な風散布の形態です。"
+    }
+  },
+  {
+    "page_number": 881,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the provided information on 'Dispersal by Animals', which of the following statements are true about animal-mediated seed dispersal mechanisms? (Select all that apply)",
+      "zh": "根据提供的关于“动物传播”的信息，以下关于动物介导的种子传播机制的说法中，哪些是正确的？（选择所有适用项）",
+      "es": "Según la información proporcionada sobre la 'Dispersión por animales', ¿cuáles de las siguientes afirmaciones son verdaderas sobre los mecanismos de dispersión de semillas mediada por animales? (Selecciona todas las que apliquen)",
+      "fr": "D'après les informations fournies sur la 'Dispersion par les animaux', lesquelles des affirmations suivantes sont vraies concernant les mécanismes de dispersion des graines médiatisés par les animaux ? (Sélectionnez toutes les réponses pertinentes)",
+      "de": "Basierend auf den bereitgestellten Informationen zur 'Verbreitung durch Tiere', welche der folgenden Aussagen treffen auf tiervermittelte Samenverbreitungsmechanismen zu? (Wählen Sie alle zutreffenden aus)",
+      "ja": "「動物による散布」に関する提供された情報に基づくと、動物媒介による種子散布メカニズムについて、以下の記述のうちどれが正しいですか？（当てはまるものをすべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Seeds can be dispersed through an animal's digestive system after consuming edible fruits.",
+          "zh": "种子在动物食用可食果实后，可以通过动物的消化系统传播。",
+          "es": "Las semillas pueden dispersarse a través del sistema digestivo de un animal después de consumir frutos comestibles.",
+          "fr": "Les graines peuvent être dispersées par le système digestif d'un animal après avoir consommé des fruits comestibles.",
+          "de": "Samen können nach dem Verzehr essbarer Früchte durch das Verdauungssystem eines Tieres verbreitet werden.",
+          "ja": "動物が食用果実を摂取した後、種子は動物の消化器系を介して散布されることがある。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Some seeds possess structures like sharp spines that allow them to attach to animals for transportation.",
+          "zh": "有些种子具有尖锐的刺状结构，使其能够附着在动物身上进行运输。",
+          "es": "Algunas semillas poseen estructuras como espinas afiladas que les permiten adherirse a los animales para su transporte.",
+          "fr": "Certaines graines possèdent des structures comme des épines acérées qui leur permettent de s'attacher aux animaux pour le transport.",
+          "de": "Einige Samen besitzen Strukturen wie scharfe Stacheln, die es ihnen ermöglichen, sich zur Transport an Tieren festzuheften.",
+          "ja": "一部の種子は、動物に付着して運ばれるための鋭いとげのような構造を持っている。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Animals may inadvertently aid in dispersal by burying seeds for storage, which can later germinate if forgotten.",
+          "zh": "动物可能通过埋藏种子以供储存而无意中帮助传播，如果被遗忘，这些种子以后可能会萌芽。",
+          "es": "Los animales pueden ayudar inadvertidamente en la dispersión al enterrar semillas para su almacenamiento, las cuales pueden germinar más tarde si se olvidan.",
+          "fr": "Les animaux peuvent aider par inadvertance à la dispersion en enfouissant des graines pour le stockage, qui peuvent ensuite germer si elles sont oubliées.",
+          "de": "Tiere können unbeabsichtigt bei der Verbreitung helfen, indem sie Samen zur Lagerung vergraben, die später keimen können, wenn sie vergessen werden.",
+          "ja": "動物は、貯蔵のために種子を埋めることで、意図せず散布を助けることがあり、忘れられた場合、後で発芽する可能性がある。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Ants are primarily attracted to seeds by their hard, protective outer coatings, which they use for nest building.",
+          "zh": "蚂蚁主要被种子的坚硬、保护性外壳吸引，它们用这些外壳来筑巢。",
+          "es": "Las hormigas se sienten atraídas principalmente por los recubrimientos externos duros y protectores de las semillas, que utilizan para la construcción de nidos.",
+          "fr": "Les fourmis sont principalement attirées par les revêtements extérieurs durs et protecteurs des graines, qu'elles utilisent pour la construction de nids.",
+          "de": "Ameisen werden hauptsächlich von den harten, schützenden äußeren Hüllen von Samen angezogen, die sie zum Nestbau verwenden.",
+          "ja": "アリは主に、巣作りに使う種子の硬くて保護的な外皮に引き寄せられる。"
+        },
+        "feedback": {
+          "en": "Ants are attracted to 'food bodies' rich in fatty acids, amino acids, and sugars, not primarily by hard coatings for nest building. The hard coating might make the seed unwieldy, causing it to be left in the nest.",
+          "zh": "蚂蚁被富含脂肪酸、氨基酸和糖的“食物体”吸引，而不是主要被用于筑巢的坚硬外壳吸引。坚硬的外壳可能会使种子难以搬运，导致其留在巢中。",
+          "es": "Las hormigas se sienten atraídas por los 'cuerpos alimenticios' ricos en ácidos grasos, aminoácidos y azúcares, no principalmente por los recubrimientos duros para la construcción de nidos. El recubrimiento duro podría hacer que la semilla fuera difícil de manejar, lo que provocaría que se dejara en el nido.",
+          "fr": "Les fourmis sont attirées par les « corps nourriciers » riches en acides gras, acides aminés et sucres, et non principalement par les revêtements durs pour la construction de nids. Le revêtement dur pourrait rendre la graine difficile à manipuler, la laissant ainsi dans le nid.",
+          "de": "Ameisen werden von 'Nahrungskörpern' angezogen, die reich an Fettsäuren, Aminosäuren und Zuckern sind, nicht primär von harten Überzügen für den Nestbau. Die harte Hülle könnte den Samen unhandlich machen, so dass er im Nest zurückbleibt.",
+          "ja": "アリは主に、脂肪酸、アミノ酸、糖分が豊富な「食物体」に引き寄せられるのであって、巣作りのための硬い外皮に引き寄せられるわけではありません。硬い外皮は種子を扱いにくくし、巣の中に残される原因となることがあります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": {
+      "en": "The text describes: (A) seeds in edible fruits dispersed in feces (e.g., black bear); (B) sharp, tack-like spines on puncture vine fruits that attach to animals; and (C) animals like squirrels hoarding seeds in caches, which can germinate if forgotten. Option D is incorrect because ants are attracted by nutrient-rich 'food bodies,' not the hard coating itself.",
+      "zh": "文本描述了：(A) 可食果实中的种子通过粪便传播（例如黑熊）；(B) 蒺藜果实上尖锐的刺状物附着在动物身上；(C) 松鼠等动物将种子储藏在藏匿处，如果被遗忘，这些种子可能会萌芽。选项D不正确，因为蚂蚁是被富含营养的“食物体”吸引，而不是坚硬的外壳本身。",
+      "es": "El texto describe: (A) semillas en frutos comestibles dispersadas en las heces (p. ej., oso negro); (B) espinas afiladas y punzantes en los frutos de la vid punzante que se adhieren a los animales; y (C) animales como las ardillas que almacenan semillas en escondites, las cuales pueden germinar si se olvidan. La opción D es incorrecta porque las hormigas son atraídas por 'cuerpos alimenticios' ricos en nutrientes, no por el revestimiento duro en sí.",
+      "fr": "Le texte décrit : (A) des graines dans des fruits comestibles dispersées dans les fèces (ex : ours noir) ; (B) des épines acérées et piquantes sur les fruits de la vigne ponctuelle qui s'attachent aux animaux ; et (C) des animaux comme les écureuils qui thésaurisent des graines dans des caches, qui peuvent germer si elles sont oubliées. L'option D est incorrecte car les fourmis sont attirées par des « corps nourriciers » riches en nutriments, et non par le revêtement dur lui-même.",
+      "de": "Der Text beschreibt: (A) Samen in essbaren Früchten, die im Kot (z.B. Schwarzbär) verbreitet werden; (B) scharfe, tack-ähnliche Stacheln an Erdspornfrüchten, die an Tieren haften; und (C) Tiere wie Eichhörnchen, die Samen in Verstecken horten, die keimen können, wenn sie vergessen werden. Option D ist falsch, da Ameisen von nährstoffreichen 'Nahrungskörpern' angezogen werden, nicht von der harten Hülle selbst.",
+      "ja": "本文には、(A) 食用果実の種子が排泄物（例：クロクマの糞）を通じて散布されること、(B) トゲのような鋭い構造を持つハマビシの果実が動物に付着すること、そして (C) リスのような動物が種子を貯蔵するために埋め、忘れられた場合に発芽する可能性があることが記載されています。選択肢Dは、アリが硬い外皮自体ではなく、栄養豊富な「食物体」に引き寄せられるため、誤りです。"
+    }
+  },
+  {
+    "page_number": 881,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What specific characteristic allows the coconut seed to survive for extended periods at sea?",
+      "zh": "什么特定的特性使椰子种子能够在海上长时间存活？",
+      "es": "¿Qué característica específica permite que la semilla de coco sobreviva por períodos prolongados en el mar?",
+      "fr": "Quelle caractéristique spécifique permet à la graine de noix de coco de survivre pendant de longues périodes en mer ?",
+      "de": "Welche spezifische Eigenschaft ermöglicht es dem Kokosnusssamen, lange Zeit auf See zu überleben?",
+      "ja": "ココナッツの種子が海上で長期間生存できる特定の特性は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Its hard inner endocarp that protects the embryo.",
+          "zh": "其坚硬的内果皮保护胚胎。",
+          "es": "Su endocarpio interno duro que protege el embrión.",
+          "fr": "Son endocarpe interne dur qui protège l'embryon.",
+          "de": "Sein hartes inneres Endokarp, das den Embryo schützt.",
+          "ja": "胚を保護する硬い内果皮。"
+        },
+        "feedback": {
+          "en": "While the hard endocarp protects the embryo, it's the fibrous husk that provides buoyancy for sea dispersal.",
+          "zh": "虽然坚硬的内果皮保护胚胎，但提供海上漂浮能力的是纤维状外壳。",
+          "es": "Aunque el endocarpio duro protege el embrión, es la cáscara fibrosa la que proporciona flotabilidad para la dispersión marina.",
+          "fr": "Bien que l'endocarpe dur protège l'embryon, c'est la cosse fibreuse qui assure la flottabilité pour la dispersion marine.",
+          "de": "Obwohl das harte Endokarp den Embryo schützt, ist es die faserige Schale, die den Auftrieb für die Meeresverbreitung liefert.",
+          "ja": "硬い内果皮は胚を保護しますが、海流散布に必要な浮力は繊維質の外皮によって提供されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The fleshy white endosperm, which provides nutrients.",
+          "zh": "提供养分的白色肉质胚乳。",
+          "es": "El endospermo blanco y carnoso, que proporciona nutrientes.",
+          "fr": "L'endosperme blanc et charnu, qui fournit des nutriments.",
+          "de": "Das fleischige weiße Endosperm, das Nährstoffe liefert.",
+          "ja": "栄養分を提供する白い肉質の胚乳。"
+        },
+        "feedback": {
+          "en": "The endosperm provides nutrients for germination, but it's not the primary feature for survival at sea.",
+          "zh": "胚乳为发芽提供养分，但它不是海上存活的主要特征。",
+          "es": "El endospermo proporciona nutrientes para la germinación, pero no es la característica principal para la supervivencia en el mar.",
+          "fr": "L'endosperme fournit des nutriments pour la germination, mais ce n'est pas la caractéristique principale pour la survie en mer.",
+          "de": "Das Endosperm liefert Nährstoffe für die Keimung, ist aber nicht das Hauptmerkmal für das Überleben auf See.",
+          "ja": "胚乳は発芽のための栄養を提供しますが、海上での生存の主要な特徴ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Its thick and buoyant fibrous husk.",
+          "zh": "其厚实且浮力强的纤维状外壳。",
+          "es": "Su cáscara fibrosa gruesa y flotante.",
+          "fr": "Sa coque fibreuse épaisse et flottante.",
+          "de": "Seine dicke und schwimmfähige faserige Hülle.",
+          "ja": "その厚くて浮力のある繊維状の殻。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Its ability to absorb large amounts of seawater without rotting.",
+          "zh": "它能够吸收大量海水而不腐烂的能力。",
+          "es": "Su capacidad para absorber grandes cantidades de agua de mar sin pudrirse.",
+          "fr": "Sa capacité à absorber de grandes quantités d'eau de mer sans pourrir.",
+          "de": "Seine Fähigkeit, große Mengen Meerwasser ohne Fäulnis aufzunehmen.",
+          "ja": "腐敗することなく大量の海水を吸収する能力。"
+        },
+        "feedback": {
+          "en": "The coconut's structure is designed to resist water absorption to maintain buoyancy, not to absorb water.",
+          "zh": "椰子的结构旨在抵抗水分吸收以保持浮力，而不是吸收水分。",
+          "es": "La estructura del coco está diseñada para resistir la absorción de agua y mantener la flotabilidad, no para absorberla.",
+          "fr": "La structure de la noix de coco est conçue pour résister à l'absorption d'eau afin de maintenir sa flottabilité, et non pour absorber l'eau.",
+          "de": "Die Struktur der Kokosnuss ist darauf ausgelegt, Wasseraufnahme zu widerstehen, um den Auftrieb zu erhalten, nicht um Wasser aufzunehmen.",
+          "ja": "ココナッツの構造は、浮力を維持するために水分吸収に抵抗するように設計されており、水を吸収するためではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states regarding coconuts: 'the seed embryo and fleshy white \"meat\" (endosperm) are within a hard layer (endocarp) surrounded by a thick and buoyant fibrous husk.' This husk is key to its long-term survival and dispersal by water.",
+      "zh": "文本明确指出关于椰子：“种子胚胎和白色肉质‘果肉’（胚乳）位于坚硬的内果皮内，内果皮又被厚实且浮力强的纤维状外壳包围。”这种外壳是其在水中长期存活和传播的关键。",
+      "es": "El texto afirma explícitamente sobre los cocos: 'el embrión de la semilla y la 'carne' blanca y carnosa (endospermo) están dentro de una capa dura (endocarpio) rodeada por una cáscara fibrosa gruesa y flotante'. Esta cáscara es clave para su supervivencia a largo plazo y su dispersión por el agua.",
+      "fr": "Le texte indique explicitement à propos des noix de coco : « l'embryon de la graine et la 'chair' blanche et charnue (endosperme) sont enfermés dans une couche dure (endocarpe) entourée d'une coque fibreuse épaisse et flottante. » Cette coque est essentielle à sa survie à long terme et à sa dispersion par l'eau.",
+      "de": "Der Text besagt explizit über Kokosnüsse: 'Der Samenembryo und das fleischige weiße 'Fleisch' (Endosperm) befinden sich in einer harten Schicht (Endokarp), umgeben von einer dicken und schwimmfähigen faserigen Hülle.' Diese Hülle ist entscheidend für ihr langfristiges Überleben und ihre Verbreitung durch Wasser.",
+      "ja": "本文はココナッツについて明確に述べています。「種子の胚と白い肉質の「果肉」（胚乳）は、硬い内果皮の中にあり、それが厚くて浮力のある繊維質の殻に囲まれている。」この殻が、水による長期的な生存と散布の鍵となります。"
+    }
+  }
+]

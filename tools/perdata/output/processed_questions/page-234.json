@@ -1,0 +1,385 @@
+[
+  {
+    "page_number": 234,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The immediate energy source that directly drives ATP synthesis by ATP synthase during oxidative phosphorylation is the:",
+      "zh": "在氧化磷酸化过程中，直接驱动ATP合酶合成ATP的即时能量来源是：",
+      "es": "La fuente de energía inmediata que impulsa directamente la síntesis de ATP por la ATP sintasa durante la fosforilación oxidativa es:",
+      "fr": "La source d'énergie immédiate qui entraîne directement la synthèse d'ATP par l'ATP synthase lors de la phosphorylation oxydative est :",
+      "de": "Die unmittelbare Energiequelle, die die ATP-Synthese durch die ATP-Synthase während der oxidativen Phosphorylierung direkt antreibt, ist:",
+      "ja": "酸化的リン酸化において、ATP合成酵素によるATP合成を直接駆動する即時的なエネルギー源は何か？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "oxidation of glucose and other organic compounds.",
+          "zh": "葡萄糖和其他有机化合物的氧化。",
+          "es": "la oxidación de glucosa y otros compuestos orgánicos.",
+          "fr": "l'oxydation du glucose et d'autres composés organiques.",
+          "de": "die Oxidation von Glukose und anderen organischen Verbindungen.",
+          "ja": "グルコースやその他の有機化合物の酸化。"
+        },
+        "feedback": {
+          "en": "While glucose oxidation initiates the process, it's not the immediate energy source for ATP synthase itself.",
+          "zh": "虽然葡萄糖氧化启动了这一过程，但它不是ATP合酶本身的直接能量来源。",
+          "es": "Aunque la oxidación de la glucosa inicia el proceso, no es la fuente de energía inmediata para la propia ATP sintasa.",
+          "fr": "Bien que l'oxydation du glucose initie le processus, ce n'est pas la source d'énergie immédiate pour l'ATP synthase elle-même.",
+          "de": "Obwohl die Glukoseoxidation den Prozess initiiert, ist sie nicht die unmittelbare Energiequelle für die ATP-Synthase selbst.",
+          "ja": "グルコースの酸化はプロセスを開始しますが、ATP合成酵素自体の直接的なエネルギー源ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "flow of electrons down the electron transport chain.",
+          "zh": "电子沿电子传递链的流动。",
+          "es": "el flujo de electrones a lo largo de la cadena de transporte de electrones.",
+          "fr": "le flux d'électrons le long de la chaîne de transport d'électrons.",
+          "de": "der Elektronenfluss entlang der Elektronentransportkette.",
+          "ja": "電子伝達系における電子の流れ。"
+        },
+        "feedback": {
+          "en": "The flow of electrons drives the pumping of H+ ions, which then creates the gradient, but it's not the direct energy for the synthase.",
+          "zh": "电子流动驱动H+离子泵出，从而产生梯度，但它不是合酶的直接能量。",
+          "es": "El flujo de electrones impulsa el bombeo de iones H+, lo que luego crea el gradiente, pero no es la energía directa para la sintasa.",
+          "fr": "Le flux d'électrons entraîne le pompage des ions H+, ce qui crée ensuite le gradient, mais ce n'est pas l'énergie directe pour la synthase.",
+          "de": "Der Elektronenfluss treibt das Pumpen von H+-Ionen an, was dann den Gradienten erzeugt, aber es ist nicht die direkte Energie für die Synthase.",
+          "ja": "電子の流れはH+イオンのポンプを駆動し、それによって勾配が生成されますが、それは合成酵素の直接的なエネルギーではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "H+ concentration gradient across the membrane holding ATP synthase.",
+          "zh": "ATP合酶所在膜两侧的H+浓度梯度。",
+          "es": "el gradiente de concentración de H+ a través de la membrana que contiene la ATP sintasa.",
+          "fr": "le gradient de concentration de H+ à travers la membrane contenant l'ATP synthase.",
+          "de": "der H+-Konzentrationsgradient über die Membran, die die ATP-Synthase enthält.",
+          "ja": "ATP合成酵素が存在する膜を挟んだH+濃度勾配。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "transfer of phosphate to ADP.",
+          "zh": "磷酸基团转移到ADP。",
+          "es": "la transferencia de fosfato a ADP.",
+          "fr": "le transfert de phosphate à l'ADP.",
+          "de": "die Übertragung von Phosphat auf ADP.",
+          "ja": "リン酸のADPへの転移。"
+        },
+        "feedback": {
+          "en": "This describes the reaction catalyzed by ATP synthase, not the energy source that drives it.",
+          "zh": "这描述了ATP合酶催化的反应，而不是驱动该反应的能量来源。",
+          "es": "Esto describe la reacción catalizada por la ATP sintasa, no la fuente de energía que la impulsa.",
+          "fr": "Cela décrit la réaction catalysée par l'ATP synthase, et non la source d'énergie qui la met en mouvement.",
+          "de": "Dies beschreibt die von der ATP-Synthase katalysierte Reaktion, nicht die Energiequelle, die sie antreibt.",
+          "ja": "これはATP合成酵素によって触媒される反応を説明しており、それを駆動するエネルギー源ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "ATP synthase functions by utilizing the potential energy stored in the H+ (proton) concentration gradient (proton-motive force) across the membrane. As H+ ions flow down their electrochemical gradient through ATP synthase, the energy released drives the phosphorylation of ADP to form ATP.",
+      "zh": "ATP合酶通过利用储存在膜两侧H+（质子）浓度梯度（质子动力势）中的势能来发挥作用。当H+离子沿着其电化学梯度通过ATP合酶流动时，释放的能量驱动ADP磷酸化形成ATP。",
+      "es": "La ATP sintasa funciona utilizando la energía potencial almacenada en el gradiente de concentración de H+ (protones) (fuerza protón-motriz) a través de la membrana. A medida que los iones H+ fluyen a favor de su gradiente electroquímico a través de la ATP sintasa, la energía liberada impulsa la fosforilación de ADP para formar ATP.",
+      "fr": "L'ATP synthase fonctionne en utilisant l'énergie potentielle stockée dans le gradient de concentration de H+ (protons) (force proton-motrice) à travers la membrane. Lorsque les ions H+ s'écoulent le long de leur gradient électrochimique à travers l'ATP synthase, l'énergie libérée entraîne la phosphorylation de l'ADP pour former de l'ATP.",
+      "de": "Die ATP-Synthase funktioniert, indem sie die potentielle Energie nutzt, die im H+ (Protonen-)Konzentrationsgradienten (Protonen-Motor-Kraft) über die Membran gespeichert ist. Wenn H+-Ionen ihrem elektrochemischen Gradienten durch die ATP-Synthase folgen, treibt die freigesetzte Energie die Phosphorylierung von ADP zur ATP-Bildung an.",
+      "ja": "ATP合成酵素は、膜を挟んだH+（プロトン）濃度勾配（プロトン駆動カ）に蓄えられた位置エネルギーを利用して機能します。H+イオンがATP合成酵素を通ってその電気化学的勾配を下流に流れるにつれて、放出されるエネルギーがADPのリン酸化を駆動し、ATPを形成します。"
+    }
+  },
+  {
+    "page_number": 234,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which statement accurately compares the ATP yield of fermentation and anaerobic respiration?",
+      "zh": "以下哪项陈述准确比较了发酵和无氧呼吸的ATP产量？",
+      "es": "¿Qué afirmación compara con precisión el rendimiento de ATP de la fermentación y la respiración anaeróbica?",
+      "fr": "Quelle affirmation compare précisément le rendement en ATP de la fermentation et de la respiration anaérobie ?",
+      "de": "Welche Aussage vergleicht die ATP-Ausbeute von Fermentation und anaerober Atmung genau?",
+      "ja": "発酵と嫌気呼吸のATP収量を正確に比較しているのはどの記述か？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Both processes yield the same amount of ATP because neither uses oxygen.",
+          "zh": "这两种过程产生相同数量的ATP，因为它们都不使用氧气。",
+          "es": "Ambos procesos producen la misma cantidad de ATP porque ninguno utiliza oxígeno.",
+          "fr": "Les deux processus produisent la même quantité d'ATP car aucun n'utilise d'oxygène.",
+          "de": "Beide Prozesse ergeben die gleiche Menge ATP, da keiner von beiden Sauerstoff verbraucht.",
+          "ja": "どちらのプロセスも酸素を使用しないため、同じ量のATPを生成する。"
+        },
+        "feedback": {
+          "en": "This is incorrect. Anaerobic respiration, unlike fermentation, utilizes an electron transport chain, leading to a much higher ATP yield.",
+          "zh": "这是不正确的。无氧呼吸与发酵不同，它利用电子传递链，因此ATP产量高得多。",
+          "es": "Esto es incorrecto. La respiración anaeróbica, a diferencia de la fermentación, utiliza una cadena de transporte de electrones, lo que resulta en un rendimiento de ATP mucho mayor.",
+          "fr": "C'est incorrect. La respiration anaérobie, contrairement à la fermentation, utilise une chaîne de transport d'électrons, ce qui entraîne un rendement en ATP beaucoup plus élevé.",
+          "de": "Dies ist falsch. Anaerobe Atmung nutzt im Gegensatz zur Fermentation eine Elektronentransportkette, was zu einer viel höheren ATP-Ausbeute führt.",
+          "ja": "これは正しくありません。嫌気呼吸は発酵とは異なり、電子伝達系を利用するため、ATP収量がはるかに高くなります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Anaerobic respiration typically yields significantly more ATP than fermentation.",
+          "zh": "无氧呼吸通常比发酵产生更多的ATP。",
+          "es": "La respiración anaeróbica generalmente produce significativamente más ATP que la fermentación.",
+          "fr": "La respiration anaérobie produit généralement beaucoup plus d'ATP que la fermentation.",
+          "de": "Anaerobe Atmung liefert typischerweise deutlich mehr ATP als Fermentation.",
+          "ja": "嫌気呼吸は通常、発酵よりもはるかに多くのATPを生成する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Fermentation yields more ATP than anaerobic respiration because it regenerates NAD+ faster.",
+          "zh": "发酵比无氧呼吸产生更多的ATP，因为它更快地再生NAD+。",
+          "es": "La fermentación produce más ATP que la respiración anaeróbica porque regenera el NAD+ más rápidamente.",
+          "fr": "La fermentation produit plus d'ATP que la respiration anaérobie car elle régénère le NAD+ plus rapidement.",
+          "de": "Fermentation liefert mehr ATP als anaerobe Atmung, weil sie NAD+ schneller regeneriert.",
+          "ja": "発酵はNAD+をより速く再生するため、嫌気呼吸よりも多くのATPを生成する。"
+        },
+        "feedback": {
+          "en": "NAD+ regeneration is crucial for glycolysis in fermentation but does not result in a higher ATP yield compared to anaerobic respiration, which uses an ETC.",
+          "zh": "NAD+再生对于发酵中的糖酵解至关重要，但与利用电子传递链的无氧呼吸相比，并不会导致更高的ATP产量。",
+          "es": "La regeneración de NAD+ es crucial para la glucólisis en la fermentación, pero no resulta en un mayor rendimiento de ATP en comparación con la respiración anaeróbica, que utiliza una cadena de transporte de electrones.",
+          "fr": "La régénération du NAD+ est cruciale pour la glycolyse dans la fermentation, mais elle n'entraîne pas un rendement en ATP plus élevé par rapport à la respiration anaérobie, qui utilise une chaîne de transport d'électrons.",
+          "de": "Die NAD+-Regeneration ist für die Glykolyse bei der Fermentation entscheidend, führt aber nicht zu einer höheren ATP-Ausbeute im Vergleich zur anaeroben Atmung, die eine Elektronentransportkette nutzt.",
+          "ja": "NAD+の再生は発酵における解糖系にとって重要ですが、電子伝達系を利用する嫌気呼吸と比較して、より高いATP収量をもたらすわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The ATP yield depends on the type of fermentation, but is always less than anaerobic respiration.",
+          "zh": "ATP产量取决于发酵类型，但总是低于无氧呼吸。",
+          "es": "El rendimiento de ATP depende del tipo de fermentación, pero siempre es menor que el de la respiración anaeróbica.",
+          "fr": "Le rendement en ATP dépend du type de fermentation, mais il est toujours inférieur à celui de la respiration anaérobie.",
+          "de": "Die ATP-Ausbeute hängt von der Art der Fermentation ab, ist aber immer geringer als bei der anaeroben Atmung.",
+          "ja": "ATP収量は発酵の種類に依存するが、嫌気呼吸よりは常に少ない。"
+        },
+        "feedback": {
+          "en": "While fermentation always yields less ATP than anaerobic respiration (which uses an ETC), the primary reason for anaerobic respiration's higher yield is the electron transport chain, not solely the type of fermentation.",
+          "zh": "虽然发酵产生的ATP总是少于无氧呼吸（无氧呼吸使用电子传递链），但无氧呼吸产量更高的主要原因是电子传递链，而不仅仅是发酵类型。",
+          "es": "Aunque la fermentación siempre produce menos ATP que la respiración anaeróbica (que utiliza una cadena de transporte de electrones), la razón principal del mayor rendimiento de la respiración anaeróbica es la cadena de transporte de electrones, no solo el tipo de fermentación.",
+          "fr": "Bien que la fermentation produise toujours moins d'ATP que la respiration anaérobie (qui utilise une chaîne de transport d'électrons), la principale raison du rendement plus élevé de la respiration anaérobie est la chaîne de transport d'électrons, et non uniquement le type de fermentation.",
+          "de": "Obwohl die Fermentation immer weniger ATP als die anaerobe Atmung (die eine Elektronentransportkette nutzt) liefert, ist der Hauptgrund für die höhere Ausbeute der anaeroben Atmung die Elektronentransportkette und nicht ausschließlich die Art der Fermentation.",
+          "ja": "発酵は嫌気呼吸（電子伝達系を使用する）よりも常に少ないATPを生成しますが、嫌気呼吸の収量が高い主な理由は電子伝達系であり、発酵の種類だけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Anaerobic respiration involves an electron transport chain with a final electron acceptor other than oxygen, which allows for a significantly higher ATP yield compared to fermentation. Fermentation produces ATP only via glycolysis (2 ATP per glucose molecule) through substrate-level phosphorylation, regenerating NAD+ without an electron transport chain.",
+      "zh": "无氧呼吸涉及电子传递链，其最终电子受体不是氧气，这使得ATP产量远高于发酵。发酵仅通过糖酵解（每分子葡萄糖2个ATP）以底物水平磷酸化产生ATP，并在没有电子传递链的情况下再生NAD+。",
+      "es": "La respiración anaeróbica implica una cadena de transporte de electrones con un aceptor final de electrones diferente del oxígeno, lo que permite un rendimiento de ATP significativamente mayor en comparación con la fermentación. La fermentación produce ATP solo a través de la glucólisis (2 ATP por molécula de glucosa) mediante fosforilación a nivel de sustrato, regenerando NAD+ sin una cadena de transporte de electrones.",
+      "fr": "La respiration anaérobie implique une chaîne de transport d'électrons avec un accepteur final d'électrons autre que l'oxygène, ce qui permet un rendement en ATP significativement plus élevé par rapport à la fermentation. La fermentation ne produit de l'ATP que via la glycolyse (2 ATP par molécule de glucose) par phosphorylation au niveau du substrat, en régénérant le NAD+ sans chaîne de transport d'électrons.",
+      "de": "Die anaerobe Atmung beinhaltet eine Elektronentransportkette mit einem anderen Elektronenakzeptor als Sauerstoff, was zu einer deutlich höheren ATP-Ausbeute im Vergleich zur Fermentation führt. Die Fermentation produziert ATP nur über die Glykolyse (2 ATP pro Glukosemolekül) durch Substratkettenphosphorylierung, wobei NAD+ ohne eine Elektronentransportkette regeneriert wird.",
+      "ja": "嫌気呼吸は、酸素以外の最終電子受容体を持つ電子伝達系を含み、これにより発酵と比較してはるかに高いATP収量が得られます。発酵は、電子伝達系なしでNAD+を再生しながら、解糖系（グルコース分子あたり2ATP）を介した基質レベルのリン酸化によってのみATPを生成します。"
+    }
+  },
+  {
+    "page_number": 234,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the diagram of the Citric Acid Cycle in Concept 9.3, for every 2 molecules of pyruvate processed, which of the following statements about the outputs is **incorrect**?",
+      "zh": "根据概念9.3中柠檬酸循环的图示，每处理2分子丙酮酸，关于其产物的以下哪项陈述是**不正确**的？",
+      "es": "Según el diagrama del Ciclo del Ácido Cítrico en el Concepto 9.3, por cada 2 moléculas de piruvato procesadas, ¿cuál de las siguientes afirmaciones sobre los productos es **incorrecta**?",
+      "fr": "Selon le diagramme du cycle de l'acide citrique dans le concept 9.3, pour chaque 2 molécules de pyruvate traitées, quelle affirmation suivante concernant les produits est **incorrecte** ?",
+      "de": "Gemäß dem Diagramm des Citratzyklus in Konzept 9.3, welche der folgenden Aussagen zu den Produkten ist für jeweils 2 verarbeitete Pyruvatmoleküle **falsch**?",
+      "ja": "概念9.3のクエン酸回路の図によると、2分子のピルビン酸が処理されるごとに、生成物に関する以下の記述のうち、**誤っている**ものはどれか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "2 molecules of ATP are produced.",
+          "zh": "产生2分子ATP。",
+          "es": "Se producen 2 moléculas de ATP.",
+          "fr": "2 molécules d'ATP sont produites.",
+          "de": "Es werden 2 ATP-Moleküle produziert.",
+          "ja": "2分子のATPが生成される。"
+        },
+        "feedback": {
+          "en": "The diagram explicitly shows 2 ATP as an output for every 2 pyruvate.",
+          "zh": "图表明确显示每2分子丙酮酸产生2分子ATP。",
+          "es": "El diagrama muestra explícitamente 2 ATP como producto por cada 2 piruvatos.",
+          "fr": "Le diagramme montre explicitement 2 ATP comme produit pour 2 pyruvates.",
+          "de": "Das Diagramm zeigt explizit 2 ATP als Ausgabe für jeweils 2 Pyruvat.",
+          "ja": "図には、2分子のピルビン酸ごとに2分子のATPが生成されると明示されている。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "8 molecules of NADH are produced.",
+          "zh": "产生8分子NADH。",
+          "es": "Se producen 8 moléculas de NADH.",
+          "fr": "8 molécules de NADH sont produites.",
+          "de": "Es werden 8 NADH-Moleküle produziert.",
+          "ja": "8分子のNADHが生成される。"
+        },
+        "feedback": {
+          "en": "The diagram explicitly shows 8 NADH as an output for every 2 pyruvate.",
+          "zh": "图表明确显示每2分子丙酮酸产生8分子NADH。",
+          "es": "El diagrama muestra explícitamente 8 NADH como producto por cada 2 piruvatos.",
+          "fr": "Le diagramme montre explicitement 8 NADH comme produit pour 2 pyruvates.",
+          "de": "Das Diagramm zeigt explizit 8 NADH als Ausgabe für jeweils 2 Pyruvat.",
+          "ja": "図には、2分子のピルビン酸ごとに8分子のNADHが生成されると明示されている。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "6 molecules of CO2 are produced.",
+          "zh": "产生6分子CO2。",
+          "es": "Se producen 6 moléculas de CO2.",
+          "fr": "6 molécules de CO2 sont produites.",
+          "de": "Es werden 6 CO2-Moleküle produziert.",
+          "ja": "6分子のCO2が生成される。"
+        },
+        "feedback": {
+          "en": "The diagram explicitly shows 6 CO2 as an output for every 2 pyruvate.",
+          "zh": "图表明确显示每2分子丙酮酸产生6分子CO2。",
+          "es": "El diagrama muestra explícitamente 6 CO2 como producto por cada 2 piruvatos.",
+          "fr": "Le diagramme montre explicitement 6 CO2 comme produit pour 2 pyruvates.",
+          "de": "Das Diagramm zeigt explizit 6 CO2 als Ausgabe für jeweils 2 Pyruvat.",
+          "ja": "図には、2分子のピルビン酸ごとに6分子のCO2が生成されると明示されている。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "4 molecules of FADH2 are produced.",
+          "zh": "产生4分子FADH2。",
+          "es": "Se producen 4 moléculas de FADH2.",
+          "fr": "4 molécules de FADH2 sont produites.",
+          "de": "Es werden 4 FADH2-Moleküle produziert.",
+          "ja": "4分子のFADH2が生成される。"
+        },
+        "feedback": {
+          "en": "The diagram indicates that 2 molecules of FADH2 are produced for every 2 molecules of pyruvate, not 4.",
+          "zh": "图表显示每2分子丙酮酸产生2分子FADH2，而不是4分子。",
+          "es": "El diagrama indica que se producen 2 moléculas de FADH2 por cada 2 moléculas de piruvato, no 4.",
+          "fr": "Le diagramme indique que 2 molécules de FADH2 sont produites pour 2 molécules de pyruvate, et non 4.",
+          "de": "Das Diagramm zeigt, dass für jeweils 2 Pyruvatmoleküle 2 FADH2-Moleküle produziert werden, nicht 4.",
+          "ja": "図によると、2分子のピルビン酸ごとに2分子のFADH2が生成され、4分子ではない。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "The diagram clearly labels the outputs of the citric acid cycle for 2 pyruvate as 2 ATP, 8 NADH, 6 CO2, and 2 FADH2. Therefore, stating that 4 FADH2 molecules are produced is incorrect.",
+      "zh": "图表明确标注了2分子丙酮酸进入柠檬酸循环的产物为2分子ATP、8分子NADH、6分子CO2和2分子FADH2。因此，声称产生4分子FADH2是错误的。",
+      "es": "El diagrama etiqueta claramente los productos del ciclo del ácido cítrico para 2 piruvatos como 2 ATP, 8 NADH, 6 CO2 y 2 FADH2. Por lo tanto, afirmar que se producen 4 moléculas de FADH2 es incorrecto.",
+      "fr": "Le diagramme étiquette clairement les produits du cycle de l'acide citrique pour 2 pyruvates comme 2 ATP, 8 NADH, 6 CO2 et 2 FADH2. Par conséquent, affirmer que 4 molécules de FADH2 sont produites est incorrect.",
+      "de": "Das Diagramm beschriftet die Produkte des Citratzyklus für 2 Pyruvat klar mit 2 ATP, 8 NADH, 6 CO2 und 2 FADH2. Daher ist die Aussage, dass 4 FADH2-Moleküle produziert werden, falsch.",
+      "ja": "図では、2分子のピルビン酸に対するクエン酸回路の生成物が2ATP、8NADH、6CO2、2FADH2と明確に示されています。したがって、4分子のFADH2が生成されるという記述は誤りです。"
+    }
+  },
+  {
+    "page_number": 234,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Cellular respiration is a central metabolic pathway, but it also intersects with other pathways. Which statement best describes how catabolic and anabolic pathways intersect through glycolysis and the citric acid cycle?",
+      "zh": "细胞呼吸是中心代谢途径，但也与其他途径交叉。以下哪项陈述最能描述分解代谢和合成代谢途径如何通过糖酵解和柠檬酸循环相互交叉？",
+      "es": "La respiración celular es una vía metabólica central, pero también se cruza con otras vías. ¿Qué afirmación describe mejor cómo las vías catabólicas y anabólicas se cruzan a través de la glucólisis y el ciclo del ácido cítrico?",
+      "fr": "La respiration cellulaire est une voie métabolique centrale, mais elle croise également d'autres voies. Quelle affirmation décrit le mieux comment les voies cataboliques et anaboliques se croisent par la glycolyse et le cycle de l'acide citrique ?",
+      "de": "Die Zellatmung ist ein zentraler Stoffwechselweg, der sich jedoch auch mit anderen Wegen überschneidet. Welche Aussage beschreibt am besten, wie sich katabolische und anabolische Wege über die Glykolyse und den Citratzyklus kreuzen?",
+      "ja": "細胞呼吸は中心的な代謝経路であるが、他の経路とも交差する。解糖系とクエン酸回路を介して、異化経路と同化経路がどのように交差するかを最もよく説明しているのはどの記述か？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Glycolysis and the citric acid cycle exclusively function in catabolic processes, never providing intermediates for anabolism.",
+          "zh": "糖酵解和柠檬酸循环仅在分解代谢过程中发挥作用，从不为合成代谢提供中间产物。",
+          "es": "La glucólisis y el ciclo del ácido cítrico funcionan exclusivamente en procesos catabólicos, nunca proporcionando intermediarios para el anabolismo.",
+          "fr": "La glycolyse et le cycle de l'acide citrique fonctionnent exclusivement dans les processus cataboliques, ne fournissant jamais d'intermédiaires pour l'anabolisme.",
+          "de": "Glykolyse und Citratzyklus funktionieren ausschließlich in katabolischen Prozessen und liefern niemals Zwischenprodukte für den Anabolismus.",
+          "ja": "解糖系とクエン酸回路は異化プロセスでのみ機能し、同化作用のための中間体を提供することはない。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The text explicitly states that \"Anabolic pathways can use small molecules from food directly or build other substances using intermediates of glycolysis or the citric acid cycle.\"",
+          "zh": "这是不正确的。文本明确指出“合成代谢途径可以直接利用食物中的小分子，或利用糖酵解或柠檬酸循环的中间产物构建其他物质。”",
+          "es": "Esto es incorrecto. El texto establece explícitamente que \"Las vías anabólicas pueden utilizar pequeñas moléculas de los alimentos directamente o construir otras sustancias utilizando intermediarios de la glucólisis o el ciclo del ácido cítrico.\"",
+          "fr": "C'est incorrect. Le texte indique explicitement que « les voies anaboliques peuvent utiliser directement de petites molécules provenant de la nourriture ou construire d'autres substances à l'aide d'intermédiaires de la glycolyse ou du cycle de l'acide citrique. »",
+          "de": "Dies ist falsch. Der Text besagt ausdrücklich, dass „Anabolische Wege kleine Moleküle direkt aus der Nahrung nutzen oder andere Substanzen unter Verwendung von Zwischenprodukten der Glykolyse oder des Citratzyklus aufbauen können.“",
+          "ja": "これは正しくありません。本文には「同化経路は食物から直接小分子を使用したり、解糖系またはクエン酸回路の中間体を使用して他の物質を構築したりできる」と明示されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Intermediates from glycolysis and the citric acid cycle can be diverted to synthesize other organic molecules, serving anabolic pathways.",
+          "zh": "糖酵解和柠檬酸循环的中间产物可以被转移，用于合成其他有机分子，服务于合成代谢途径。",
+          "es": "Los intermediarios de la glucólisis y el ciclo del ácido cítrico pueden desviarse para sintetizar otras moléculas orgánicas, sirviendo a las vías anabólicas.",
+          "fr": "Les intermédiaires de la glycolyse et du cycle de l'acide citrique peuvent être détournés pour synthétiser d'autres molécules organiques, servant ainsi les voies anaboliques.",
+          "de": "Zwischenprodukte aus der Glykolyse und dem Citratzyklus können zur Synthese anderer organischer Moleküle umgeleitet werden und dienen somit anabolischen Wegen.",
+          "ja": "解糖系とクエン酸回路の中間体は、他の有機分子の合成に転用され、同化経路に役立つ。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Anabolic pathways feed directly into glycolysis and the citric acid cycle as primary energy sources.",
+          "zh": "合成代谢途径直接作为主要能量来源进入糖酵解和柠檬酸循环。",
+          "es": "Las vías anabólicas alimentan directamente la glucólisis y el ciclo del ácido cítrico como fuentes de energía primarias.",
+          "fr": "Les voies anaboliques alimentent directement la glycolyse et le cycle de l'acide citrique en tant que principales sources d'énergie.",
+          "de": "Anabolische Wege speisen direkt in die Glykolyse und den Citratzyklus als primäre Energiequellen ein.",
+          "ja": "同化経路は主要なエネルギー源として直接解糖系とクエン酸回路に供給される。"
+        },
+        "feedback": {
+          "en": "This reverses the relationship. Catabolic pathways feed into these cycles by breaking down molecules, while anabolic pathways use their intermediates for synthesis.",
+          "zh": "这颠倒了关系。分解代谢途径通过分解分子进入这些循环，而合成代谢途径则利用它们的中间产物进行合成。",
+          "es": "Esto invierte la relación. Las vías catabólicas alimentan estos ciclos al descomponer moléculas, mientras que las vías anabólicas utilizan sus intermediarios para la síntesis.",
+          "fr": "Ceci inverse la relation. Les voies cataboliques alimentent ces cycles en décomposant les molécules, tandis que les voies anaboliques utilisent leurs intermédiaires pour la synthèse.",
+          "de": "Dies kehrt die Beziehung um. Katabolische Wege speisen diese Zyklen durch den Abbau von Molekülen, während anabolische Wege ihre Zwischenprodukte für die Synthese nutzen.",
+          "ja": "これは関係を逆転させています。異化経路は分子を分解してこれらのサイクルに供給しますが、同化経路はそれらの中間体を使用して合成を行います。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Catabolic pathways primarily serve to build complex molecules, while anabolic pathways break them down for energy, with minimal overlap in these cycles.",
+          "zh": "分解代谢途径主要用于构建复杂分子，而合成代谢途径则将其分解以获取能量，这些循环之间重叠最小。",
+          "es": "Las vías catabólicas sirven principalmente para construir moléculas complejas, mientras que las vías anabólicas las descomponen para obtener energía, con una superposición mínima en estos ciclos.",
+          "fr": "Les voies cataboliques servent principalement à construire des molécules complexes, tandis que les voies anaboliques les décomposent pour l'énergie, avec un chevauchement minimal dans ces cycles.",
+          "de": "Katabolische Wege dienen hauptsächlich dem Aufbau komplexer Moleküle, während anabolische Wege diese zur Energiegewinnung abbauen, wobei die Überschneidungen in diesen Zyklen minimal sind.",
+          "ja": "異化経路は主に複雑な分子を構築するのに役立ち、同化経路はエネルギーのためにそれらを分解し、これらのサイクルにおける重複は最小限である。"
+        },
+        "feedback": {
+          "en": "This statement incorrectly defines catabolic and anabolic pathways. Catabolic pathways break down molecules, and anabolic pathways build them up. There is significant overlap as intermediates are shared.",
+          "zh": "该陈述错误地定义了分解代谢和合成代谢途径。分解代谢途径分解分子，而合成代谢途径合成分子。由于中间产物是共享的，因此存在显著的重叠。",
+          "es": "Esta afirmación define incorrectamente las vías catabólicas y anabólicas. Las vías catabólicas descomponen las moléculas, y las vías anabólicas las construyen. Hay una superposición significativa ya que los intermediarios son compartidos.",
+          "fr": "Cette affirmation définit incorrectement les voies cataboliques et anaboliques. Les voies cataboliques décomposent les molécules, et les voies anaboliques les construisent. Il y a un chevauchement significatif car les intermédiaires sont partagés.",
+          "de": "Diese Aussage definiert katabolische und anabolische Wege falsch. Katabolische Wege bauen Moleküle ab, und anabolische Wege bauen sie auf. Es gibt eine erhebliche Überschneidung, da Zwischenprodukte geteilt werden.",
+          "ja": "この記述は、異化経路と同化経路を誤って定義しています。異化経路は分子を分解し、同化経路は分子を構築します。中間体は共有されるため、かなりの重複があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Glycolysis and the citric acid cycle are central to metabolism. While primarily catabolic, they produce intermediates that can be siphoned off and used as precursors for anabolic pathways (e.g., synthesizing amino acids, fatty acids, or nucleotides), demonstrating a crucial intersection where molecules can be built up or broken down.",
+      "zh": "糖酵解和柠檬酸循环是代谢的核心。虽然它们主要是分解代谢的，但它们产生的中间产物可以被分流并用作合成代谢途径（例如，合成氨基酸、脂肪酸或核苷酸）的前体，这表明了分子可以被构建或分解的关键交叉点。",
+      "es": "La glucólisis y el ciclo del ácido cítrico son centrales para el metabolismo. Aunque son principalmente catabólicos, producen intermediarios que pueden ser desviados y utilizados como precursores para vías anabólicas (por ejemplo, sintetizar aminoácidos, ácidos grasos o nucleótidos), lo que demuestra una intersección crucial donde las moléculas pueden ser construidas o descompuestas.",
+      "fr": "La glycolyse et le cycle de l'acide citrique sont centraux pour le métabolisme. Bien que principalement cataboliques, ils produisent des intermédiaires qui peuvent être détournés et utilisés comme précurseurs pour les voies anaboliques (par exemple, la synthèse d'acides aminés, d'acides gras ou de nucléotides), démontrant une intersection cruciale où les molécules peuvent être construites ou décomposées.",
+      "de": "Glykolyse und Citratzyklus sind zentral für den Stoffwechsel. Obwohl sie hauptsächlich katabolisch sind, produzieren sie Zwischenprodukte, die abgezweigt und als Vorläufer für anabolische Wege (z.B. Synthese von Aminosäuren, Fettsäuren oder Nukleotiden) verwendet werden können, was eine entscheidende Schnittstelle zeigt, an der Moleküle aufgebaut oder abgebaut werden können.",
+      "ja": "解糖系とクエン酸回路は代謝の中心です。これらは主に異化作用ですが、中間体を生成し、それが同化経路（例えばアミノ酸、脂肪酸、ヌクレオチドの合成）の前駆体として利用されることがあります。これは、分子が構築されたり分解されたりする重要な交差地点を示しています。"
+    }
+  }
+]

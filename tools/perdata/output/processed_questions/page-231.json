@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 231,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 9.18, which of the following statements about the catabolism of macromolecules is correct?",
+      "zh": "根据图9.18，关于大分子分解代谢的以下哪项陈述是正确的？",
+      "es": "Según la Figura 9.18, ¿cuál de las siguientes afirmaciones sobre el catabolismo de macromoléculas es correcta?",
+      "fr": "Selon la Figure 9.18, quelle des affirmations suivantes concernant le catabolisme des macromolécules est correcte ?",
+      "de": "Basierend auf Abbildung 9.18, welche der folgenden Aussagen über den Katabolismus von Makromolekülen ist korrekt?",
+      "ja": "図9.18に基づくと、高分子の異化に関する以下の記述のうち、正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Proteins directly enter the citric acid cycle without prior modification.",
+          "zh": "蛋白质未经预先修饰直接进入柠檬酸循环。",
+          "es": "Las proteínas entran directamente en el ciclo del ácido cítrico sin modificación previa.",
+          "fr": "Les protéines entrent directement dans le cycle de l'acide citrique sans modification préalable.",
+          "de": "Proteine treten ohne vorherige Modifikation direkt in den Citratzyklus ein.",
+          "ja": "タンパク質は事前の修飾なしに直接クエン酸回路に入ります。"
+        },
+        "feedback": {
+          "en": "Proteins must first be digested into amino acids, and their amino groups removed (deamination) before entering glycolysis or the citric acid cycle.",
+          "zh": "蛋白质必须首先被消化成氨基酸，并去除氨基（脱氨基作用）后才能进入糖酵解或柠檬酸循环。",
+          "es": "Las proteínas deben digerirse primero en aminoácidos y eliminar sus grupos amino (desaminación) antes de entrar en la glucólisis o el ciclo del ácido cítrico.",
+          "fr": "Les protéines doivent d'abord être digérées en acides aminés, et leurs groupes aminés retirés (désamination) avant d'entrer dans la glycolyse ou le cycle de l'acide citrique.",
+          "de": "Proteine müssen zuerst in Aminosäuren verdaut und ihre Aminogruppen entfernt werden (Desaminierung), bevor sie in die Glykolyse oder den Citratzyklus eintreten können.",
+          "ja": "タンパク質はまずアミノ酸に消化され、アミノ基が除去（脱アミノ）されてから解糖系またはクエン酸回路に入ります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Fats are primarily broken down into glycerol and fatty acids, both of which enter glycolysis.",
+          "zh": "脂肪主要分解为甘油和脂肪酸，两者都进入糖酵解。",
+          "es": "Las grasas se descomponen principalmente en glicerol y ácidos grasos, ambos entran en la glucólisis.",
+          "fr": "Les graisses sont principalement décomposées en glycérol et acides gras, tous deux entrant dans la glycolyse.",
+          "de": "Fette werden hauptsächlich in Glycerin und Fettsäuren zerlegt, die beide in die Glykolyse eintreten.",
+          "ja": "脂肪は主にグリセロールと脂肪酸に分解され、両方とも解糖系に入ります。"
+        },
+        "feedback": {
+          "en": "While glycerol enters glycolysis, fatty acids are converted to acetyl CoA and enter the citric acid cycle directly, not glycolysis.",
+          "zh": "虽然甘油进入糖酵解，但脂肪酸会转化为乙酰辅酶A，直接进入柠檬酸循环，而不是糖酵解。",
+          "es": "Mientras que el glicerol entra en la glucólisis, los ácidos grasos se convierten en acetil-CoA y entran directamente en el ciclo del ácido cítrico, no en la glucólisis.",
+          "fr": "Alors que le glycérol entre dans la glycolyse, les acides gras sont convertis en acétyl-CoA et entrent directement dans le cycle de l'acide citrique, et non dans la glycolyse.",
+          "de": "Während Glycerin in die Glykolyse eintritt, werden Fettsäuren in Acetyl-CoA umgewandelt und treten direkt in den Citratzyklus ein, nicht in die Glykolyse.",
+          "ja": "グリセロールは解糖系に入りますが、脂肪酸はアセチルCoAに変換され、解糖系ではなくクエン酸回路に直接入ります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Carbohydrates are first converted to sugars, which then enter glycolysis as glucose.",
+          "zh": "碳水化合物首先转化为糖类，然后以葡萄糖的形式进入糖酵解。",
+          "es": "Los carbohidratos se convierten primero en azúcares, que luego entran en la glucólisis como glucosa.",
+          "fr": "Les glucides sont d'abord convertis en sucres, qui entrent ensuite dans la glycolyse sous forme de glucose.",
+          "de": "Kohlenhydrate werden zuerst in Zucker umgewandelt, die dann als Glukose in die Glykolyse eintreten.",
+          "ja": "炭水化物はまず糖に変換され、その後グルコースとして解糖系に入ります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All breakdown products directly enter oxidative phosphorylation.",
+          "zh": "所有分解产物都直接进入氧化磷酸化。",
+          "es": "Todos los productos de descomposición entran directamente en la fosforilación oxidativa.",
+          "fr": "Tous les produits de dégradation entrent directement dans la phosphorylation oxydative.",
+          "de": "Alle Abbauprodukte treten direkt in die oxidative Phosphorylierung ein.",
+          "ja": "すべての分解産物は直接酸化的リン酸化に入ります。"
+        },
+        "feedback": {
+          "en": "Breakdown products flow through glycolysis and the citric acid cycle before their electrons are used in oxidative phosphorylation.",
+          "zh": "分解产物在它们的电子用于氧化磷酸化之前，会流经糖酵解和柠檬酸循环。",
+          "es": "Los productos de descomposición fluyen a través de la glucólisis y el ciclo del ácido cítrico antes de que sus electrones se utilicen en la fosforilación oxidativa.",
+          "fr": "Les produits de dégradation passent par la glycolyse et le cycle de l'acide citrique avant que leurs électrons ne soient utilisés dans la phosphorylation oxydative.",
+          "de": "Abbauprodukte durchlaufen die Glykolyse und den Citratzyklus, bevor ihre Elektronen in der oxidativen Phosphorylierung verwendet werden.",
+          "ja": "分解産物は、電子が酸化的リン酸化で使用される前に、解糖系とクエン酸回路を通過します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 9.18 illustrates that carbohydrates are broken down into sugars, which then primarily enter glycolysis as glucose. Proteins are converted to amino acids and then to intermediates of glycolysis or the citric acid cycle after deamination. Fats are broken into glycerol (which enters glycolysis) and fatty acids (which enter as acetyl CoA into the citric acid cycle). The entire process funnels through glycolysis and the citric acid cycle before oxidative phosphorylation.",
+      "zh": "图9.18说明碳水化合物分解为糖类，然后主要以葡萄糖的形式进入糖酵解。蛋白质在脱氨基后转化为氨基酸，再转化为糖酵解或柠檬酸循环的中间产物。脂肪分解为甘油（进入糖酵解）和脂肪酸（以乙酰辅酶A的形式进入柠檬酸循环）。整个过程在氧化磷酸化之前，都通过糖酵解和柠檬酸循环进行。",
+      "es": "La Figura 9.18 ilustra que los carbohidratos se descomponen en azúcares, que luego entran principalmente en la glucólisis como glucosa. Las proteínas se convierten en aminoácidos y luego en intermediarios de la glucólisis o el ciclo del ácido cítrico después de la desaminación. Las grasas se descomponen en glicerol (que entra en la glucólisis) y ácidos grasos (que entran como acetil-CoA en el ciclo del ácido cítrico). Todo el proceso se canaliza a través de la glucólisis y el ciclo del ácido cítrico antes de la fosforilación oxidativa.",
+      "fr": "La Figure 9.18 illustre que les glucides sont décomposés en sucres, qui entrent ensuite principalement dans la glycolyse sous forme de glucose. Les protéines sont converties en acides aminés puis en intermédiaires de la glycolyse ou du cycle de l'acide citrique après désamination. Les graisses sont décomposées en glycérol (qui entre dans la glycolyse) et en acides gras (qui entrent sous forme d'acétyl-CoA dans le cycle de l'acide citrique). L'ensemble du processus passe par la glycolyse et le cycle de l'acide citrique avant la phosphorylation oxydative.",
+      "de": "Abbildung 9.18 zeigt, dass Kohlenhydrate in Zucker zerlegt werden, die dann hauptsächlich als Glukose in die Glykolyse eintreten. Proteine werden nach der Desaminierung in Aminosäuren und dann in Zwischenprodukte der Glykolyse oder des Citratzyklus umgewandelt. Fette werden in Glycerin (das in die Glykolyse eintritt) und Fettsäuren (die als Acetyl-CoA in den Citratzyklus eintreten) zerlegt. Der gesamte Prozess führt über die Glykolyse und den Citratzyklus, bevor die oxidative Phosphorylierung stattfindet.",
+      "ja": "図9.18は、炭水化物が糖に分解され、その後主にグルコースとして解糖系に入ること illustrates。タンパク質はアミノ酸に変換され、脱アミノ化後に解糖系またはクエン酸回路の中間体となります。脂肪はグリセロール（解糖系に入る）と脂肪酸（アセチルCoAとしてクエン酸回路に入る）に分解されます。全プロセスは酸化的リン酸化の前に解糖系とクエン酸回路を経由します。"
+    }
+  },
+  {
+    "page_number": 231,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In cellular respiration and fermentation, what is the final electron acceptor for NADH electrons during (1) fermentation, (2) aerobic respiration, and (3) anaerobic respiration, respectively?",
+      "zh": "在细胞呼吸和发酵过程中，NADH电子的最终电子受体分别是什么：(1)发酵，(2)有氧呼吸，(3)无氧呼吸？",
+      "es": "En la respiración celular y la fermentación, ¿cuál es el aceptor final de electrones para los electrones del NADH durante (1) la fermentación, (2) la respiración aeróbica y (3) la respiración anaeróbica, respectivamente?",
+      "fr": "Dans la respiration cellulaire et la fermentation, quel est l'accepteur final d'électrons pour les électrons du NADH pendant (1) la fermentation, (2) la respiration aérobie et (3) la respiration anaérobie, respectivement ?",
+      "de": "Was ist bei der Zellatmung und Fermentation der endgültige Elektronenakzeptor für NADH-Elektronen während (1) der Fermentation, (2) der aeroben Atmung und (3) der anaeroben Atmung?",
+      "ja": "細胞呼吸と発酵において、NADH電子の最終電子受容体はそれぞれ(1)発酵時、(2)好気呼吸時、(3)嫌気呼吸時で何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "(1) Pyruvate or an organic molecule; (2) O2; (3) an inorganic molecule other than O2.",
+          "zh": "(1)丙酮酸或有机分子；(2)O2；(3)除O2以外的无机分子。",
+          "es": "(1)Piruvato o una molécula orgánica; (2)O2; (3)una molécula inorgánica distinta de O2.",
+          "fr": "(1)Pyruvate ou une molécule organique ; (2)O2 ; (3)une molécule inorganique autre que O2.",
+          "de": "(1)Pyruvat oder ein organisches Molekül; (2)O2; (3)ein anorganisches Molekül außer O2.",
+          "ja": "(1)ピルビン酸または有機分子；(2)O2；(3)O2以外の無機分子。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "(1) O2; (2) Pyruvate or an organic molecule; (3) an inorganic molecule other than O2.",
+          "zh": "(1)O2；(2)丙酮酸或有机分子；(3)除O2以外的无机分子。",
+          "es": "(1)O2; (2)Piruvato o una molécula orgánica; (3)una molécula inorgánica distinta de O2.",
+          "fr": "(1)O2 ; (2)Pyruvate ou une molécule organique ; (3)une molécule inorganique autre que O2.",
+          "de": "(1)O2; (2)Pyruvat oder ein organisches Molekül; (3)ein anorganisches Molekül außer O2.",
+          "ja": "(1)O2；(2)ピルビン酸または有機分子；(3)O2以外の無機分子。"
+        },
+        "feedback": {
+          "en": "The final electron acceptor for fermentation is pyruvate or another organic molecule, not O2. O2 is the acceptor for aerobic respiration.",
+          "zh": "发酵的最终电子受体是丙酮酸或其他有机分子，而不是O2。O2是有氧呼吸的受体。",
+          "es": "El aceptor final de electrones para la fermentación es el piruvato u otra molécula orgánica, no el O2. El O2 es el aceptor para la respiración aeróbica.",
+          "fr": "L'accepteur final d'électrons pour la fermentation est le pyruvate ou une autre molécule organique, pas l'O2. L'O2 est l'accepteur pour la respiration aérobie.",
+          "de": "Der endgültige Elektronenakzeptor für die Fermentation ist Pyruvat oder ein anderes organisches Molekül, nicht O2. O2 ist der Akzeptor für die aerobe Atmung.",
+          "ja": "発酵の最終電子受容体はピルビン酸または他の有機分子であり、O2ではありません。O2は好気呼吸の受容体です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "(1) An inorganic molecule other than O2; (2) O2; (3) Pyruvate or an organic molecule.",
+          "zh": "(1)除O2以外的无机分子；(2)O2；(3)丙酮酸或有机分子。",
+          "es": "(1)Una molécula inorgánica distinta de O2; (2)O2; (3)Piruvato o una molécula orgánica.",
+          "fr": "(1)Une molécule inorganique autre que O2 ; (2)O2 ; (3)Pyruvate ou une molécule organique.",
+          "de": "(1)Ein anorganisches Molekül außer O2; (2)O2; (3)Pyruvat oder ein organisches Molekül.",
+          "ja": "(1)O2以外の無機分子；(2)O2；(3)ピルビン酸または有機分子。"
+        },
+        "feedback": {
+          "en": "The final electron acceptor for fermentation is an organic molecule (like pyruvate), while for anaerobic respiration it is an inorganic molecule other than O2.",
+          "zh": "发酵的最终电子受体是有机分子（如丙酮酸），而无氧呼吸是除O2以外的无机分子。",
+          "es": "El aceptor final de electrones para la fermentación es una molécula orgánica (como el piruvato), mientras que para la respiración anaeróbica es una molécula inorgánica distinta de O2.",
+          "fr": "L'accepteur final d'électrons pour la fermentation est une molécule organique (comme le pyruvate), tandis que pour la respiration anaérobie, c'est une molécule inorganique autre que l'O2.",
+          "de": "Der endgültige Elektronenakzeptor für die Fermentation ist ein organisches Molekül (wie Pyruvat), während es bei der anaeroben Atmung ein anorganisches Molekül außer O2 ist.",
+          "ja": "発酵の最終電子受容体は有機分子（ピルビン酸など）であり、嫌気呼吸ではO2以外の無機分子です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "(1) Pyruvate or an organic molecule; (2) an inorganic molecule other than O2; (3) O2.",
+          "zh": "(1)丙酮酸或有机分子；(2)除O2以外的无机分子；(3)O2。",
+          "es": "(1)Piruvato o una molécula orgánica; (2)una molécula inorgánica distinta de O2; (3)O2.",
+          "fr": "(1)Pyruvate ou une molécule organique ; (2)une molécule inorganique autre que O2 ; (3)O2.",
+          "de": "(1)Pyruvat oder ein organisches Molekül; (2)ein anorganisches Molekül außer O2; (3)O2.",
+          "ja": "(1)ピルビン酸または有機分子；(2)O2以外の無機分子；(3)O2。"
+        },
+        "feedback": {
+          "en": "O2 is the final electron acceptor for aerobic respiration, not anaerobic respiration. The final electron acceptor for anaerobic respiration is an inorganic molecule other than O2.",
+          "zh": "O2是有氧呼吸的最终电子受体，而不是无氧呼吸。无氧呼吸的最终电子受体是除O2以外的无机分子。",
+          "es": "El O2 es el aceptor final de electrones para la respiración aeróbica, no para la anaeróbica. El aceptor final de electrones para la respiración anaeróbica es una molécula inorgánica distinta de O2.",
+          "fr": "L'O2 est l'accepteur final d'électrons pour la respiration aérobie, et non anaérobie. L'accepteur final d'électrons pour la respiration anaérobie est une molécule inorganique autre que l'O2.",
+          "de": "O2 ist der endgültige Elektronenakzeptor für die aerobe Atmung, nicht für die anaerobe Atmung. Der endgültige Elektronenakzeptor für die anaerobe Atmung ist ein anorganisches Molekül außer O2.",
+          "ja": "O2は好気呼吸の最終電子受容体であり、嫌気呼吸ではありません。嫌気呼吸の最終電子受容体はO2以外の無機分子です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "During fermentation, the final electron acceptor for NADH is an organic molecule, often pyruvate or a derivative. In aerobic respiration, oxygen (O2) serves as the final electron acceptor. In anaerobic respiration, an inorganic molecule other than O2 (e.g., nitrate or sulfate) acts as the final electron acceptor.",
+      "zh": "在发酵过程中，NADH的最终电子受体是有机分子，通常是丙酮酸或其衍生物。在有氧呼吸中，氧气（O2）作为最终电子受体。在无氧呼吸中，除O2以外的无机分子（如硝酸盐或硫酸盐）充当最终电子受体。",
+      "es": "Durante la fermentación, el aceptor final de electrones para el NADH es una molécula orgánica, a menudo piruvato o un derivado. En la respiración aeróbica, el oxígeno (O2) sirve como aceptor final de electrones. En la respiración anaeróbica, una molécula inorgánica distinta de O2 (por ejemplo, nitrato o sulfato) actúa como aceptor final de electrones.",
+      "fr": "Pendant la fermentation, l'accepteur final d'électrons pour le NADH est une molécule organique, souvent le pyruvate ou un dérivé. Dans la respiration aérobie, l'oxygène (O2) sert d'accepteur final d'électrons. Dans la respiration anaérobie, une molécule inorganique autre que l'O2 (par exemple, le nitrate ou le sulfate) agit comme accepteur final d'électrons.",
+      "de": "Während der Fermentation ist der endgültige Elektronenakzeptor für NADH ein organisches Molekül, oft Pyruvat oder ein Derivat. Bei der aeroben Atmung dient Sauerstoff (O2) als endgültiger Elektronenakzeptor. Bei der anaeroben Atmung fungiert ein anorganisches Molekül außer O2 (z. B. Nitrat oder Sulfat) als endgültiger Elektronenakzeptor.",
+      "ja": "発酵中、NADHの最終電子受容体は有機分子であり、多くの場合ピルビン酸またはその誘導体です。好気呼吸では、酸素（O2）が最終電子受容体として機能します。嫌気呼吸では、O2以外の無機分子（硝酸塩や硫酸塩など）が最終電子受容体として機能します。"
+    }
+  },
+  {
+    "page_number": 231,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A glucose-fed yeast cell is transferred from an aerobic environment to an anaerobic one. If the cell needs to generate ATP at the same rate, how would its rate of glucose consumption change, and why?",
+      "zh": "一个以葡萄糖为食的酵母细胞从有氧环境转移到无氧环境。如果细胞需要以相同的速率生成ATP，其葡萄糖消耗速率将如何变化，为什么？",
+      "es": "Una célula de levadura alimentada con glucosa se transfiere de un ambiente aeróbico a uno anaeróbico. Si la célula necesita generar ATP a la misma velocidad, ¿cómo cambiaría su tasa de consumo de glucosa y por qué?",
+      "fr": "Une cellule de levure nourrie au glucose est transférée d'un environnement aérobie à un environnement anaérobie. Si la cellule doit générer de l'ATP au même rythme, comment son taux de consommation de glucose changerait-il, et pourquoi ?",
+      "de": "Eine glukosefütternde Hefezelle wird von einer aeroben Umgebung in eine anaerobe Umgebung überführt. Wenn die Zelle ATP mit der gleichen Rate erzeugen muss, wie würde sich ihre Glukoseverbrauchsrate ändern und warum?",
+      "ja": "グルコースを栄養源とする酵母細胞を好気的環境から嫌気的環境に移した場合、細胞が同じ速度でATPを生成する必要があるとしたら、グルコース消費速度はどのように変化し、その理由は？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It would increase, because anaerobic respiration (fermentation) is less efficient at producing ATP per glucose molecule than aerobic respiration.",
+          "zh": "它会增加，因为无氧呼吸（发酵）每葡萄糖分子产生的ATP效率低于有氧呼吸。",
+          "es": "Aumentaría, porque la respiración anaeróbica (fermentación) es menos eficiente en la producción de ATP por molécula de glucosa que la respiración aeróbica.",
+          "fr": "Il augmenterait, car la respiration anaérobie (fermentation) est moins efficace pour produire de l'ATP par molécule de glucose que la respiration aérobie.",
+          "de": "Sie würde zunehmen, da die anaerobe Atmung (Fermentation) pro Glukosemolekül weniger effizient ATP produziert als die aerobe Atmung.",
+          "ja": "増加します。なぜなら、嫌気呼吸（発酵）は、好気呼吸に比べてグルコース1分子あたりのATP生産効率が低いためです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It would decrease, because anaerobic respiration is more efficient at producing ATP.",
+          "zh": "它会减少，因为无氧呼吸产生ATP的效率更高。",
+          "es": "Disminuiría, porque la respiración anaeróbica es más eficiente en la producción de ATP.",
+          "fr": "Il diminuerait, car la respiration anaérobie est plus efficace pour produire de l'ATP.",
+          "de": "Sie würde abnehmen, da die anaerobe Atmung effizienter ATP produziert.",
+          "ja": "減少します。嫌気呼吸の方がATP生産効率が高いためです。"
+        },
+        "feedback": {
+          "en": "Anaerobic respiration (fermentation) is significantly less efficient at producing ATP from glucose compared to aerobic respiration.",
+          "zh": "与有氧呼吸相比，无氧呼吸（发酵）从葡萄糖中产生ATP的效率显著降低。",
+          "es": "La respiración anaeróbica (fermentación) es significativamente menos eficiente en la producción de ATP a partir de glucosa en comparación con la respiración aeróbica.",
+          "fr": "La respiration anaérobie (fermentation) est significativement moins efficace pour produire de l'ATP à partir du glucose par rapport à la respiration aérobie.",
+          "de": "Die anaerobe Atmung (Fermentation) ist im Vergleich zur aeroben Atmung deutlich weniger effizient bei der ATP-Produktion aus Glukose.",
+          "ja": "嫌気呼吸（発酵）は、好気呼吸と比較してグルコースからのATP生産効率が著しく低いです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It would remain the same, as ATP production rate is constant.",
+          "zh": "它会保持不变，因为ATP生产速率是恒定的。",
+          "es": "Permanecería igual, ya que la tasa de producción de ATP es constante.",
+          "fr": "Il resterait le même, car le taux de production d'ATP est constant.",
+          "de": "Sie würde gleich bleiben, da die ATP-Produktionsrate konstant ist.",
+          "ja": "ATP生産速度は一定なので、変化しません。"
+        },
+        "feedback": {
+          "en": "To maintain the same ATP production rate, a facultative anaerobe must adjust its glucose consumption based on the efficiency of the pathway.",
+          "zh": "为了维持相同的ATP生产速率，兼性厌氧生物必须根据代谢途径的效率调整其葡萄糖消耗。",
+          "es": "Para mantener la misma tasa de producción de ATP, un anaerobio facultativo debe ajustar su consumo de glucosa en función de la eficiencia de la vía.",
+          "fr": "Pour maintenir le même taux de production d'ATP, un anaérobie facultatif doit ajuster sa consommation de glucose en fonction de l'efficacité de la voie.",
+          "de": "Um die gleiche ATP-Produktionsrate aufrechtzuerhalten, muss ein fakultativer Anaerobier seinen Glukoseverbrauch an die Effizienz des Stoffwechselweges anpassen.",
+          "ja": "同じATP生産速度を維持するためには、通性嫌気性生物は経路の効率に基づいてグルコース消費量を調整する必要があります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It would decrease initially, then increase, due to metabolic shock.",
+          "zh": "它会先减少，然后增加，因为代谢休克。",
+          "es": "Disminuiría inicialmente, luego aumentaría, debido al choque metabólico.",
+          "fr": "Il diminuerait initialement, puis augmenterait, en raison d'un choc métabolique.",
+          "de": "Sie würde anfänglich abnehmen, dann zunehmen, aufgrund eines metabolischen Schocks.",
+          "ja": "代謝ショックのため、最初は減少し、その後増加します。"
+        },
+        "feedback": {
+          "en": "The primary factor is the difference in ATP yield per glucose molecule between aerobic respiration and fermentation, not transient metabolic shock in this context.",
+          "zh": "主要因素是有氧呼吸和发酵之间每葡萄糖分子ATP产量的差异，而不是本语境下的暂时性代谢休克。",
+          "es": "El factor principal es la diferencia en el rendimiento de ATP por molécula de glucosa entre la respiración aeróbica y la fermentación, no un choque metabólico transitorio en este contexto.",
+          "fr": "Le facteur principal est la différence de rendement en ATP par molécule de glucose entre la respiration aérobie et la fermentation, et non un choc métabolique transitoire dans ce contexte.",
+          "de": "Der Hauptfaktor ist der Unterschied in der ATP-Ausbeute pro Glukosemolekül zwischen aerober Atmung und Fermentation, nicht ein vorübergehender metabolischer Schock in diesem Kontext.",
+          "ja": "主な要因は、好気呼吸と発酵の間でのグルコース1分子あたりのATP収量の差であり、この文脈での一時的な代謝ショックではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states that 'To make the same amount of ATP, a facultative anaerobe has to consume sugar at a much faster rate when fermenting than when respiring.' This is because fermentation (the anaerobic pathway yeast uses) produces far less ATP per molecule of glucose than aerobic respiration. Therefore, to compensate for the lower efficiency and maintain the same ATP output, the cell must increase its rate of glucose consumption.",
+      "zh": "文本指出，“为了产生相同数量的ATP，兼性厌氧生物在发酵时必须比呼吸时以快得多的速度消耗糖。”这是因为发酵（酵母使用的无氧途径）每分子葡萄糖产生的ATP远少于有氧呼吸。因此，为了弥补效率的降低并维持相同的ATP输出，细胞必须提高其葡萄糖消耗速率。",
+      "es": "El texto afirma que 'Para producir la misma cantidad de ATP, un anaerobio facultativo tiene que consumir azúcar a una velocidad mucho más rápida cuando fermenta que cuando respira'. Esto se debe a que la fermentación (la vía anaeróbica que utiliza la levadura) produce mucho menos ATP por molécula de glucosa que la respiración aeróbica. Por lo tanto, para compensar la menor eficiencia y mantener la misma producción de ATP, la célula debe aumentar su tasa de consumo de glucosa.",
+      "fr": "Le texte indique que « Pour produire la même quantité d'ATP, un anaérobie facultatif doit consommer du sucre à un rythme beaucoup plus rapide lors de la fermentation que lors de la respiration ». C'est parce que la fermentation (la voie anaérobie utilisée par la levure) produit beaucoup moins d'ATP par molécule de glucose que la respiration aérobie. Par conséquent, pour compenser la moindre efficacité et maintenir la même production d'ATP, la cellule doit augmenter son taux de consommation de glucose.",
+      "de": "Der Text besagt, dass „Um die gleiche Menge ATP zu produzieren, muss ein fakultativer Anaerobier Zucker beim Fermentieren mit einer viel höheren Rate verbrauchen als beim Atmen.“ Dies liegt daran, dass die Fermentation (der anaerobe Weg, den Hefe nutzt) pro Glukosemolekül weitaus weniger ATP produziert als die aerobe Atmung. Um die geringere Effizienz auszugleichen und die gleiche ATP-Produktion aufrechtzuerhalten, muss die Zelle daher ihre Glukoseverbrauchsrate erhöhen.",
+      "ja": "テキストには「同じ量のATPを生成するために、通性嫌気性生物は呼吸時よりも発酵時の方がはるかに速い速度で糖を消費しなければならない」と述べられています。これは、発酵（酵母が利用する嫌気性経路）が好気呼吸よりもグルコース1分子あたりに生成するATPがはるかに少ないためです。したがって、効率の低さを補い、同じATP出力を維持するために、細胞はグルコース消費速度を増加させる必要があります。"
+    }
+  },
+  {
+    "page_number": 231,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following statements best explains the evolutionary significance of glycolysis?",
+      "zh": "以下哪项陈述最能解释糖酵解的进化意义？",
+      "es": "¿Cuál de las siguientes afirmaciones explica mejor la importancia evolutiva de la glucólisis?",
+      "fr": "Quelle des affirmations suivantes explique le mieux la signification évolutive de la glycolyse ?",
+      "de": "Welche der folgenden Aussagen erklärt am besten die evolutionäre Bedeutung der Glykolyse?",
+      "ja": "以下の記述のうち、解糖系の進化的意義を最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Glycolysis requires membrane-enclosed organelles, indicating its evolution alongside eukaryotes.",
+          "zh": "糖酵解需要膜结合细胞器，这表明它与真核生物同时进化。",
+          "es": "La glucólisis requiere orgánulos unidos a membranas, lo que indica su evolución junto con los eucariotas.",
+          "fr": "La glycolyse nécessite des organelles à membrane, ce qui indique son évolution aux côtés des eucaryotes.",
+          "de": "Die Glykolyse benötigt membranumschlossene Organellen, was auf ihre Evolution zusammen mit Eukaryoten hindeutet.",
+          "ja": "解糖系は膜結合性オルガネラを必要とし、真核生物と並行して進化してきたことを示しています。"
+        },
+        "feedback": {
+          "en": "The text states that the cytosolic location of glycolysis 'implies great antiquity; the pathway does not require any of the membrane-enclosed organelles of the eukaryotic cell'.",
+          "zh": "文本指出，糖酵解的胞质位置“暗示着其悠久的历史；该途径不需要真核细胞的任何膜结合细胞器”。",
+          "es": "El texto afirma que la ubicación citosólica de la glucólisis 'implica una gran antigüedad; la vía no requiere ninguno de los orgánulos unidos a la membrana de la célula eucariota'.",
+          "fr": "Le texte indique que la localisation cytosolique de la glycolyse « implique une grande antiquité ; la voie ne nécessite aucun des organelles délimités par une membrane de la cellule eucaryote ».",
+          "de": "Der Text besagt, dass die zytosolische Lage der Glykolyse „ein hohes Alter impliziert; der Weg erfordert keine der membranumschlossenen Organellen der eukaryotischen Zelle“.",
+          "ja": "本文は、解糖系の細胞質内局在が「非常に古くから存在していたことを示唆しており、この経路は真核細胞の膜で囲まれたオルガネラを必要としない」と述べています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Its widespread presence among Earth's organisms and cytosolic location suggest it is an ancient metabolic pathway, predating significant atmospheric oxygen.",
+          "zh": "它在地球生物中的广泛存在和胞质位置表明它是一种古老的代谢途径，早于大气中大量氧气的出现。",
+          "es": "Su presencia generalizada entre los organismos de la Tierra y su ubicación citosólica sugieren que es una vía metabólica antigua, anterior a la aparición significativa de oxígeno atmosférico.",
+          "fr": "Sa présence généralisée parmi les organismes terrestres et sa localisation cytosolique suggèrent qu'il s'agit d'une ancienne voie métabolique, antérieure à l'apparition significative d'oxygène atmosphérique.",
+          "de": "Ihre weite Verbreitung unter den Organismen der Erde und ihre zytosolische Lage deuten darauf hin, dass es sich um einen alten Stoffwechselweg handelt, der dem signifikanten atmosphärischen Sauerstoff vorausging.",
+          "ja": "地球上の生物に広く存在し、細胞質に位置することから、大気中の酸素が大量に出現する前の古代の代謝経路であることが示唆されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Glycolysis evolved primarily as a pathway for anaerobic respiration to consume oxygen.",
+          "zh": "糖酵解主要作为无氧呼吸消耗氧气的途径而进化。",
+          "es": "La glucólisis evolucionó principalmente como una vía para que la respiración anaeróbica consumiera oxígeno.",
+          "fr": "La glycolyse a évolué principalement comme une voie de respiration anaérobie pour consommer de l'oxygène.",
+          "de": "Die Glykolyse entwickelte sich primär als Weg für die anaerobe Atmung, um Sauerstoff zu verbrauchen.",
+          "ja": "解糖系は主に嫌気呼吸が酸素を消費するための経路として進化しました。"
+        },
+        "feedback": {
+          "en": "Glycolysis predates significant atmospheric oxygen, and fermentation (anaerobic) does not consume oxygen; instead, it occurs in the absence of oxygen.",
+          "zh": "糖酵解早于大气中大量氧气的出现，并且发酵（无氧）不消耗氧气；相反，它是在没有氧气的情况下发生的。",
+          "es": "La glucólisis es anterior a la aparición significativa de oxígeno atmosférico, y la fermentación (anaeróbica) no consume oxígeno; en cambio, ocurre en ausencia de oxígeno.",
+          "fr": "La glycolyse précède l'oxygène atmosphérique significatif, et la fermentation (anaérobie) ne consomme pas d'oxygène ; au lieu de cela, elle se produit en l'absence d'oxygène.",
+          "de": "Die Glykolyse geht dem signifikanten atmosphärischen Sauerstoff voraus, und die Fermentation (anaerob) verbraucht keinen Sauerstoff; stattdessen findet sie in Abwesenheit von Sauerstoff statt.",
+          "ja": "解糖系は、大気中の酸素が大量に出現する以前から存在しており、発酵（嫌気性）は酸素を消費しません。むしろ、酸素がない状況で起こります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It is exclusively found in prokaryotes, demonstrating its primitive nature.",
+          "zh": "它仅存在于原核生物中，证明了其原始性。",
+          "es": "Se encuentra exclusivamente en procariotas, lo que demuestra su naturaleza primitiva.",
+          "fr": "Elle se trouve exclusivement chez les procaryotes, démontrant sa nature primitive.",
+          "de": "Sie kommt ausschließlich bei Prokaryoten vor und beweist ihre primitive Natur.",
+          "ja": "原核生物にのみ見られ、その原始的な性質を示しています。"
+        },
+        "feedback": {
+          "en": "Glycolysis is the 'most widespread metabolic pathway among Earth's organisms', meaning it is found in both prokaryotes and eukaryotes.",
+          "zh": "糖酵解是“地球生物中最普遍的代谢途径”，这意味着它存在于原核生物和真核生物中。",
+          "es": "La glucólisis es la 'vía metabólica más extendida entre los organismos de la Tierra', lo que significa que se encuentra tanto en procariotas como en eucariotas.",
+          "fr": "La glycolyse est la « voie métabolique la plus répandue parmi les organismes terrestres », ce qui signifie qu'elle se trouve à la fois chez les procaryotes et les eucaryotes.",
+          "de": "Die Glykolyse ist der „weitverbreitetste Stoffwechselweg unter den Organismen der Erde“, was bedeutet, dass sie sowohl bei Prokaryoten als auch bei Eukaryoten vorkommt.",
+          "ja": "解糖系は「地球上の生物の間で最も広く普及している代謝経路」であり、原核生物と真核生物の両方に見られます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text highlights that glycolysis is the 'most widespread metabolic pathway among Earth's organisms' and its 'cytosolic location also implies great antiquity; the pathway does not require any of the membrane-enclosed organelles of the eukaryotic cell, which evolved approximately 1 billion years after the first prokaryotic cell.' This suggests that glycolysis evolved very early, before the significant accumulation of atmospheric oxygen and the evolution of eukaryotic organelles, making it a fundamental and ancient pathway.",
+      "zh": "文本强调糖酵解是“地球生物中最普遍的代谢途径”，并且其“胞质位置也暗示着其悠久的历史；该途径不需要真核细胞的任何膜结合细胞器，而真核细胞的膜结合细胞器在大约第一批原核细胞出现10亿年后才进化出来。”这表明糖酵解进化得很早，在大气中大量氧气积累和真核细胞器进化之前，使其成为一个基本而古老的途径。",
+      "es": "El texto destaca que la glucólisis es la 'vía metabólica más extendida entre los organismos de la Tierra' y su 'ubicación citosólica también implica una gran antigüedad; la vía no requiere ninguno de los orgánulos unidos a la membrana de la célula eucariota, que evolucionaron aproximadamente 1 billón de años después de la primera célula procariota'. Esto sugiere que la glucólisis evolucionó muy temprano, antes de la acumulación significativa de oxígeno atmosférico y la evolución de los orgánulos eucariotas, lo que la convierte en una vía fundamental y antigua.",
+      "fr": "Le texte souligne que la glycolyse est la « voie métabolique la plus répandue parmi les organismes terrestres » et que sa « localisation cytosolique implique également une grande antiquité ; la voie ne nécessite aucun des organelles membranaires de la cellule eucaryote, qui ont évolué environ 1 milliard d'années après la première cellule procaryote. » Cela suggère que la glycolyse a évolué très tôt, avant l'accumulation significative d'oxygène atmosphérique et l'évolution des organelles eucaryotes, ce qui en fait une voie fondamentale et ancienne.",
+      "de": "Der Text hebt hervor, dass die Glykolyse der „weitverbreitetste Stoffwechselweg unter den Organismen der Erde“ ist und ihre „zytosolische Lage auch ein hohes Alter impliziert; der Weg erfordert keine der membranumschlossenen Organellen der eukaryotischen Zelle, die sich etwa 1 Milliarde Jahre nach der ersten prokaryotischen Zelle entwickelten.“ Dies deutet darauf hin, dass die Glykolyse sehr früh entstand, vor der signifikanten Ansammlung von atmosphärischem Sauerstoff und der Evolution eukaryotischer Organellen, was sie zu einem grundlegenden und alten Weg macht.",
+      "ja": "テキストでは、解糖系が「地球上の生物の間で最も広く普及している代謝経路」であり、「細胞質内局在もまた、その大きな古さを意味する。この経路は、最初の原核細胞から約10億年後に進化した真核細胞の膜に囲まれたオルガネラを必要としない」と強調されています。これは、解糖系が、大気中の酸素の著しい蓄積や真核生物のオルガネラの進化よりもはるか以前に進化し、それが基本的で古代の経路であることを示唆しています。"
+    }
+  }
+]

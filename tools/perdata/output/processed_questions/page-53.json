@@ -1,0 +1,277 @@
+[
+  {
+    "page_number": 53,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 1.3, which sequence correctly represents the levels of biological organization from largest to smallest?",
+      "zh": "根据图1.3，下列哪一序列正确表示了从大到小的生物组织层次？",
+      "es": "Según la Figura 1.3, ¿qué secuencia representa correctamente los niveles de organización biológica de mayor a menor?",
+      "fr": "D'après la Figure 1.3, quelle séquence représente correctement les niveaux d'organisation biologique du plus grand au plus petit ?",
+      "de": "Basierend auf Abbildung 1.3, welche Reihenfolge stellt die Ebenen der biologischen Organisation von der größten zur kleinsten korrekt dar?",
+      "ja": "図1.3に基づき、生物組織のレベルを大きい方から小さい方へ正しく表しているのはどの順番ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Biosphere → Ecosystem → Community → Population → Organism",
+          "zh": "生物圈 → 生态系统 → 群落 → 种群 → 生物个体",
+          "es": "Biosfera → Ecosistema → Comunidad → Población → Organismo",
+          "fr": "Biosphère → Écosystème → Communauté → Population → Organisme",
+          "de": "Biosphäre → Ökosystem → Gemeinschaft → Population → Organismus",
+          "ja": "生物圏 → 生態系 → 群集 → 個体群 → 生物体"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Organism → Population → Community → Ecosystem → Biosphere",
+          "zh": "生物个体 → 种群 → 群落 → 生态系统 → 生物圈",
+          "es": "Organismo → Población → Comunidad → Ecosistema → Biosfera",
+          "fr": "Organisme → Population → Communauté → Écosystème → Biosphère",
+          "de": "Organismus → Population → Gemeinschaft → Ökosystem → Biosphäre",
+          "ja": "生物体 → 個体群 → 群集 → 生態系 → 生物圏"
+        },
+        "feedback": {
+          "en": "This sequence is from smallest to largest, not largest to smallest.",
+          "zh": "这个序列是从小到大排列的，而不是从大到小。",
+          "es": "Esta secuencia va de menor a mayor, no de mayor a menor.",
+          "fr": "Cette séquence va du plus petit au plus grand, et non du plus grand au plus petit.",
+          "de": "Diese Reihenfolge ist von der kleinsten zur größten, nicht von der größten zur kleinsten.",
+          "ja": "この順序は小さい方から大きい方へのもので、大きい方から小さい方へのものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Ecosystem → Biosphere → Community → Population → Organism",
+          "zh": "生态系统 → 生物圈 → 群落 → 种群 → 生物个体",
+          "es": "Ecosistema → Biosfera → Comunidad → Población → Organismo",
+          "fr": "Écosystème → Biosphère → Communauté → Population → Organisme",
+          "de": "Ökosystem → Biosphäre → Gemeinschaft → Population → Organismus",
+          "ja": "生態系 → 生物圏 → 群集 → 個体群 → 生物体"
+        },
+        "feedback": {
+          "en": "The biosphere encompasses ecosystems, so ecosystems should be placed after the biosphere in a largest-to-smallest sequence.",
+          "zh": "生物圈包含生态系统，因此在从大到小的序列中，生态系统应排在生物圈之后。",
+          "es": "La biosfera abarca los ecosistemas, por lo que los ecosistemas deberían ir después de la biosfera en una secuencia de mayor a menor.",
+          "fr": "La biosphère englobe les écosystèmes, donc les écosystèmes devraient être placés après la biosphère dans une séquence du plus grand au plus petit.",
+          "de": "Die Biosphäre umfasst Ökosysteme, daher sollten Ökosysteme in einer Größt-zu-Kleinst-Reihenfolge nach der Biosphäre platziert werden.",
+          "ja": "生物圏は生態系を含んでいるため、大きい方から小さい方への順序では、生態系は生物圏の後に置かれるべきです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Biosphere → Community → Ecosystem → Population → Organism",
+          "zh": "生物圈 → 群落 → 生态系统 → 种群 → 生物个体",
+          "es": "Biosfera → Comunidad → Ecosistema → Población → Organismo",
+          "fr": "Biosphère → Communauté → Écosystème → Population → Organisme",
+          "de": "Biosphäre → Gemeinschaft → Ökosystem → Population → Organismus",
+          "ja": "生物圏 → 群集 → 生態系 → 個体群 → 生物体"
+        },
+        "feedback": {
+          "en": "An ecosystem includes communities, so community should follow ecosystem in a largest-to-smallest sequence.",
+          "zh": "生态系统包含群落，因此在从大到小的序列中，群落应排在生态系统之后。",
+          "es": "Un ecosistema incluye comunidades, por lo que la comunidad debería ir después del ecosistema en una secuencia de mayor a menor.",
+          "fr": "Un écosystème inclut des communautés, donc la communauté devrait suivre l'écosystème dans une séquence du plus grand au plus petit.",
+          "de": "Ein Ökosystem umfasst Gemeinschaften, daher sollte die Gemeinschaft in einer Größt-zu-Kleinst-Reihenfolge dem Ökosystem folgen.",
+          "ja": "生態系は群集を含んでいるため、大きい方から小さい方への順序では、群集は生態系の後に置かれるべきです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Figure 1.3 explicitly shows the progression from the biosphere down to individual organisms, illustrating the hierarchy of biological organization: Biosphere > Ecosystems > Communities > Populations > Organisms.",
+      "zh": "图1.3明确展示了从生物圈到个体生物的层次结构，即生物圈 > 生态系统 > 群落 > 种群 > 生物个体。",
+      "es": "La Figura 1.3 muestra explícitamente la progresión desde la biosfera hasta los organismos individuales, ilustrando la jerarquía de la organización biológica: Biosfera > Ecosistemas > Comunidades > Poblaciones > Organismos.",
+      "fr": "La Figure 1.3 montre explicitement la progression de la biosphère aux organismes individuels, illustrant la hiérarchie de l'organisation biologique : Biosphère > Écosystèmes > Communautés > Populations > Organismes.",
+      "de": "Abbildung 1.3 zeigt explizit die Progression von der Biosphäre bis zu einzelnen Organismen und illustriert die Hierarchie der biologischen Organisation: Biosphäre > Ökosysteme > Gemeinschaften > Populationen > Organismen.",
+      "ja": "図1.3は、生物圏から個々の生物への進行を明確に示しており、生物学的組織の階層、すなわち生物圏 > 生態系 > 群集 > 個体群 > 生物体を表しています。"
+    }
+  },
+  {
+    "page_number": 53,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary difference between a biological community and a population, as described in the text?",
+      "zh": "根据文本描述，生物群落和种群之间的主要区别是什么？",
+      "es": "Según el texto, ¿cuál es la principal diferencia entre una comunidad biológica y una población?",
+      "fr": "Selon le texte, quelle est la principale différence entre une communauté biologique et une population ?",
+      "de": "Was ist laut Text der Hauptunterschied zwischen einer biologischen Gemeinschaft und einer Population?",
+      "ja": "テキストに記述されているように、生物群集と個体群の主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A community includes all living and nonliving components, while a population only includes living components.",
+          "zh": "群落包含所有生物和非生物成分，而种群只包含生物成分。",
+          "es": "Una comunidad incluye todos los componentes vivos y no vivos, mientras que una población solo incluye componentes vivos.",
+          "fr": "Une communauté inclut tous les composants vivants et non vivants, tandis qu'une population n'inclut que les composants vivants.",
+          "de": "Eine Gemeinschaft umfasst alle lebenden und nicht lebenden Komponenten, während eine Population nur lebende Komponenten umfasst.",
+          "ja": "群集はすべての生物的および非生物的構成要素を含み、個体群は生物的構成要素のみを含みます。"
+        },
+        "feedback": {
+          "en": "This describes the difference between an ecosystem and a community, not a community and a population.",
+          "zh": "这描述的是生态系统和群落之间的区别，而不是群落和种群之间的区别。",
+          "es": "Esto describe la diferencia entre un ecosistema y una comunidad, no entre una comunidad y una población.",
+          "fr": "Ceci décrit la différence entre un écosystème et une communauté, et non entre une communauté et une population.",
+          "de": "Dies beschreibt den Unterschied zwischen einem Ökosystem und einer Gemeinschaft, nicht zwischen einer Gemeinschaft und einer Population.",
+          "ja": "これは生態系と群集の違いを説明しており、群集と個体群の違いではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A population consists of individuals of multiple species, whereas a community consists of individuals of a single species.",
+          "zh": "种群由多个物种的个体组成，而群落由单个物种的个体组成。",
+          "es": "Una población consiste en individuos de múltiples especies, mientras que una comunidad consiste en individuos de una sola especie.",
+          "fr": "Une population se compose d'individus de plusieurs espèces, tandis qu'une communauté se compose d'individus d'une seule espèce.",
+          "de": "Eine Population besteht aus Individuen mehrerer Arten, während eine Gemeinschaft aus Individuen einer einzelnen Art besteht.",
+          "ja": "個体群は複数の種の個体から構成され、群集は単一種の個体から構成されます。"
+        },
+        "feedback": {
+          "en": "This statement reverses the definitions; a population is single-species, and a community is multiple species.",
+          "zh": "这个陈述颠倒了定义；种群是单一物种，而群落是多个物种。",
+          "es": "Esta afirmación invierte las definiciones; una población es de una sola especie, y una comunidad es de múltiples especies.",
+          "fr": "Cette affirmation inverse les définitions ; une population est monospécifique, et une communauté est multispécifique.",
+          "de": "Diese Aussage verkehrt die Definitionen; eine Population ist eine Einzelart, und eine Gemeinschaft besteht aus mehreren Arten.",
+          "ja": "この記述は定義が逆です。個体群は単一の種から成り、群集は複数の種から成ります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A community comprises all the populations of different species in an area, while a population consists of all individuals of a single species in an area.",
+          "zh": "群落包含一个区域内不同物种的所有种群，而种群由一个区域内单个物种的所有个体组成。",
+          "es": "Una comunidad comprende todas las poblaciones de diferentes especies en un área, mientras que una población consiste en todos los individuos de una sola especie en un área.",
+          "fr": "Une communauté comprend toutes les populations de différentes espèces dans une zone, tandis qu'une population se compose de tous les individus d'une seule espèce dans une zone.",
+          "de": "Eine Gemeinschaft umfasst alle Populationen verschiedener Arten in einem Gebiet, während eine Population aus allen Individuen einer einzelnen Art in einem Gebiet besteht.",
+          "ja": "群集はある地域の異なる種のすべての個体群から構成され、個体群はある地域の単一の種のすべての個体から構成されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A population is a set of communities, and a community is a set of organisms.",
+          "zh": "种群是群落的集合，而群落是生物个体的集合。",
+          "es": "Una población es un conjunto de comunidades, y una comunidad es un conjunto de organismos.",
+          "fr": "Une population est un ensemble de communautés, et une communauté est un ensemble d'organismes.",
+          "de": "Eine Population ist eine Menge von Gemeinschaften, und eine Gemeinschaft ist eine Menge von Organismen.",
+          "ja": "個体群は群集の集合であり、群集は生物の集合です。"
+        },
+        "feedback": {
+          "en": "This statement incorrectly describes the hierarchical relationship between populations, communities, and organisms.",
+          "zh": "这个陈述错误地描述了种群、群落和生物个体之间的层次关系。",
+          "es": "Esta afirmación describe incorrectamente la relación jerárquica entre poblaciones, comunidades y organismos.",
+          "fr": "Cette affirmation décrit incorrectement la relation hiérarchique entre les populations, les communautés et les organismes.",
+          "de": "Diese Aussage beschreibt die hierarchische Beziehung zwischen Populationen, Gemeinschaften und Organismen falsch.",
+          "ja": "この記述は、個体群、群集、生物間の階層的な関係を誤って説明しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states: \"A population consists of all the individuals of a species living within the bounds of a specified area that interbreed with each other.\" And \"The array of organisms inhabiting a particular ecosystem is called a biological community... A community is therefore the set of populations that inhabit a particular area.\" This clearly distinguishes a single species (population) from multiple species (community).",
+      "zh": "文本指出：“种群由居住在特定区域内、能够相互繁殖的同一物种的所有个体组成。” 并且“栖息在特定生态系统中的生物群体被称为生物群落……因此，群落是栖息在特定区域内的所有种群的集合。” 这明确区分了单一物种（种群）和多个物种（群落）。",
+      "es": "El texto establece: \"Una población consiste en todos los individuos de una especie que viven dentro de los límites de un área especificada y que se interrelacionan entre sí.\" Y \"El conjunto de organismos que habitan un ecosistema particular se llama comunidad biológica... Por lo tanto, una comunidad es el conjunto de poblaciones que habitan un área particular.\" Esto distingue claramente una sola especie (población) de múltiples especies (comunidad).",
+      "fr": "Le texte indique : « Une population se compose de tous les individus d'une espèce vivant dans les limites d'une zone spécifiée et qui se reproduisent entre eux. » Et « L'ensemble des organismes habitant un écosystème particulier est appelé une communauté biologique... Une communauté est donc l'ensemble des populations qui habitent une zone particulière. » Cela distingue clairement une seule espèce (population) de plusieurs espèces (communauté).",
+      "de": "Der Text besagt: „Eine Population besteht aus allen Individuen einer Art, die innerhalb eines bestimmten Gebiets leben und sich miteinander fortpflanzen.“ Und „Die Ansammlung von Organismen, die ein bestimmtes Ökosystem bewohnen, wird als biologische Gemeinschaft bezeichnet... Eine Gemeinschaft ist daher die Menge von Populationen, die ein bestimmtes Gebiet bewohnen.“ Dies unterscheidet eindeutig eine einzelne Art (Population) von mehreren Arten (Gemeinschaft).",
+      "ja": "テキストには、「個体群とは、特定の地域内に生息し、互いに繁殖する同一種のすべての個体からなる」とあります。また、「特定の生態系に生息する生物の集まりは生物群集と呼ばれます...したがって、群集とは特定の地域に生息する個体群の集合体です。」これは、単一の種（個体群）と複数の種（群集）を明確に区別しています。"
+    }
+  },
+  {
+    "page_number": 53,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The text introduces \"reductionism\" and \"emergent properties\" as two perspectives in biological study. Which statement best describes the relationship between these two concepts based on the provided information?",
+      "zh": "文本介绍了“还原论”和“涌现特性”作为生物学研究的两种视角。根据所提供的信息，哪一句话最能描述这两个概念之间的关系？",
+      "es": "El texto introduce el \"reduccionismo\" y las \"propiedades emergentes\" como dos perspectivas en el estudio biológico. ¿Qué afirmación describe mejor la relación entre estos dos conceptos basándose en la información proporcionada?",
+      "fr": "Le texte introduit le « réductionnisme » et les « propriétés émergentes » comme deux perspectives en étude biologique. Quelle affirmation décrit le mieux la relation entre ces deux concepts d'après les informations fournies ?",
+      "de": "Der Text führt „Reduktionismus“ und „emergente Eigenschaften“ als zwei Perspektiven in der biologischen Forschung ein. Welche Aussage beschreibt die Beziehung zwischen diesen beiden Konzepten basierend auf den bereitgestellten Informationen am besten?",
+      "ja": "テキストでは、生物学研究の2つの視点として「還元論」と「創発特性」が導入されています。提供された情報に基づき、これら2つの概念間の関係を最もよく説明しているのはどの記述ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Reductionism emphasizes studying simple components, while emergent properties highlight novel characteristics appearing at higher organizational levels that are absent at lower ones.",
+          "zh": "还原论强调研究简单组分，而涌现特性则强调在较高组织层次上出现而较低层次所没有的新颖特征。",
+          "es": "El reduccionismo enfatiza el estudio de componentes simples, mientras que las propiedades emergentes resaltan características novedosas que aparecen en niveles organizacionales superiores y que están ausentes en los inferiores.",
+          "fr": "Le réductionnisme met l'accent sur l'étude des composants simples, tandis que les propriétés émergentes mettent en évidence les caractéristiques nouvelles apparaissant aux niveaux d'organisation supérieurs qui sont absentes aux niveaux inférieurs.",
+          "de": "Reduktionismus betont das Studium einfacher Komponenten, während emergente Eigenschaften neuartige Merkmale hervorheben, die auf höheren Organisationsebenen erscheinen und auf niedrigeren Ebenen fehlen.",
+          "ja": "還元論は単純な構成要素の研究を重視し、創発特性はより高次の組織レベルで現れ、下位レベルには存在しない新しい特性を強調します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Both reductionism and emergent properties are different names for the same biological approach of breaking down complex systems.",
+          "zh": "还原论和涌现特性都是将复杂系统分解的同一种生物学方法的不同名称。",
+          "es": "Tanto el reduccionismo como las propiedades emergentes son nombres diferentes para el mismo enfoque biológico de descomponer sistemas complejos.",
+          "fr": "Le réductionnisme et les propriétés émergentes sont deux noms différents pour la même approche biologique de décomposition des systèmes complexes.",
+          "de": "Sowohl Reduktionismus als auch emergente Eigenschaften sind unterschiedliche Namen für denselben biologischen Ansatz der Zerlegung komplexer Systeme.",
+          "ja": "還元論と創発特性は、複雑なシステムを分解するという同じ生物学的手法に対する異なる名称である。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Emergent properties are a limitation of reductionism, as reductionism itself cannot fully explain these higher-level characteristics.",
+          "zh": "涌现特性是还原论的局限性，因为还原论本身无法完全解释这些高层次特征。",
+          "es": "Las propiedades emergentes son una limitación del reduccionismo, ya que el reduccionismo por sí mismo no puede explicar completamente estas características de nivel superior.",
+          "fr": "Les propriétés émergentes sont une limite du réductionnisme, car le réductionnisme lui-même ne peut pas expliquer pleinement ces caractéristiques de niveau supérieur.",
+          "de": "Emergente Eigenschaften sind eine Einschränkung des Reduktionismus, da der Reduktionismus selbst diese höherstufigen Merkmale nicht vollständig erklären kann.",
+          "ja": "創発特性は還元論の限界であり、還元論自体ではこれらの高次レベルの特性を完全に説明することはできない。"
+        },
+        "feedback": {
+          "en": "While emergent properties do highlight a limitation of reductionism, this option doesn't fully describe both concepts or their distinct focuses as well as option A. Option A provides a more complete definition of both terms and their distinct focuses.",
+          "zh": "虽然涌现特性确实突出了还原论的局限性，但此选项未能像选项A那样全面描述这两个概念及其各自的侧重点。选项A提供了这两个术语及其各自侧重点更完整的定义。",
+          "es": "Aunque las propiedades emergentes resaltan una limitación del reduccionismo, esta opción no describe completamente ambos conceptos o sus enfoques distintos tan bien como la opción A. La opción A proporciona una definición más completa de ambos términos y sus enfoques distintos.",
+          "fr": "Bien que les propriétés émergentes mettent en évidence une limite du réductionnisme, cette option ne décrit pas pleinement les deux concepts ou leurs orientations distinctes aussi bien que l'option A. L'option A fournit une définition plus complète des deux termes et de leurs orientations distinctes.",
+          "de": "Obwohl emergente Eigenschaften eine Einschränkung des Reduktionismus hervorheben, beschreibt diese Option nicht beide Konzepte oder deren unterschiedliche Schwerpunkte so umfassend wie Option A. Option A bietet eine vollständigere Definition beider Begriffe und ihrer unterschiedlichen Schwerpunkte.",
+          "ja": "創発特性は還元論の限界を浮き彫りにしますが、この選択肢は両方の概念またはそれらの異なる焦点をAの選択肢ほど完全に説明していません。Aの選択肢は、両方の用語とその異なる焦点のより完全な定義を提供しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Reductionism is about zooming out from molecules to the biosphere, whereas emergent properties focus on zooming in.",
+          "zh": "还原论是从分子放大到生物圈，而涌现特性侧重于缩小。",
+          "es": "El reduccionismo consiste en alejarse de las moléculas hacia la biosfera, mientras que las propiedades emergentes se centran en acercarse.",
+          "fr": "Le réductionnisme consiste à dézoomer des molécules à la biosphère, tandis que les propriétés émergentes se concentrent sur le zoom avant.",
+          "de": "Reduktionismus bedeutet, von Molekülen zur Biosphäre herauszuzoomen, während emergente Eigenschaften das Hineinzoomen betreffen.",
+          "ja": "還元論は分子から生物圏へとズームアウトすることであり、創発特性はズームインすることに焦点を当てています。"
+        },
+        "feedback": {
+          "en": "Reductionism involves breaking down complex systems into simpler components, not necessarily zooming out. Emergent properties relate to what appears when levels are *combined* or built up, rather than just zooming in.",
+          "zh": "还原论涉及将复杂系统分解为更简单的组分，不一定是放大。涌现特性与各层次被*组合*或构建时出现的新特性有关，而不仅仅是缩小。",
+          "es": "El reduccionismo implica descomponer sistemas complejos en componentes más simples, no necesariamente alejarse. Las propiedades emergentes se relacionan con lo que aparece cuando los niveles se *combinan* o se construyen, en lugar de solo acercarse.",
+          "fr": "Le réductionnisme implique la décomposition de systèmes complexes en composants plus simples, et non nécessairement un dézoomage. Les propriétés émergentes sont liées à ce qui apparaît lorsque les niveaux sont *combinés* ou construits, plutôt qu'à un simple zoom avant.",
+          "de": "Reduktionismus beinhaltet die Zerlegung komplexer Systeme in einfachere Komponenten, nicht unbedingt das Herauszoomen. Emergente Eigenschaften beziehen sich auf das, was erscheint, wenn Ebenen *kombiniert* oder aufgebaut werden, anstatt nur hineinzuzoomen.",
+          "ja": "還元論は複雑なシステムを単純な構成要素に分解することであり、必ずしもズームアウトすることではありません。創発特性は、レベルが組み合わされたり構築されたりしたときに現れるものに関連しており、単にズームインするだけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text defines reductionism as \"an approach that reduces complex systems to simpler components\" and states that \"novel properties emerge at each level that are absent\" at lower ones. This highlights that reductionism focuses on breaking down, while emergent properties describe new features that appear when parts are put together at higher levels, suggesting a complementary but distinct perspective.",
+      "zh": "文本将还原论定义为“一种将复杂系统简化为更简单组件的方法”，并指出“在每个层面都会出现下级层面所不具备的新特性”。这表明还原论侧重于分解，而涌现特性描述的是当组成部分在更高层面结合时出现的新特征，这表明了它们是互补但不同的视角。",
+      "es": "El texto define el reduccionismo como \"un enfoque que reduce los sistemas complejos a componentes más simples\" y establece que \"surgen propiedades novedosas en cada nivel que están ausentes\" en los inferiores. Esto destaca que el reduccionismo se centra en la descomposición, mientras que las propiedades emergentes describen nuevas características que aparecen cuando las partes se unen en niveles superiores, sugiriendo una perspectiva complementaria pero distinta.",
+      "fr": "Le texte définit le réductionnisme comme « une approche qui réduit les systèmes complexes à des composants plus simples » et indique que « de nouvelles propriétés émergent à chaque niveau qui sont absentes » aux niveaux inférieurs. Cela souligne que le réductionnisme se concentre sur la décomposition, tandis que les propriétés émergentes décrivent de nouvelles caractéristiques qui apparaissent lorsque les parties sont assemblées à des niveaux supérieurs, suggérant une perspective complémentaire mais distincte.",
+      "de": "Der Text definiert Reduktionismus als „einen Ansatz, der komplexe Systeme auf einfachere Komponenten reduziert“ und besagt, dass „neue Eigenschaften auf jeder Ebene entstehen, die auf niedrigeren Ebenen fehlen“. Dies verdeutlicht, dass Reduktionismus sich auf die Zerlegung konzentriert, während emergente Eigenschaften neue Merkmale beschreiben, die entstehen, wenn Teile auf höheren Ebenen zusammengefügt werden, was eine komplementäre, aber unterschiedliche Perspektive nahelegt.",
+      "ja": "テキストでは、還元論を「複雑なシステムをより単純な構成要素に還元するアプローチ」と定義し、「下位のレベルには存在しない新しい特性が各レベルで出現する」と述べています。これは、還元論が分解に焦点を当てる一方、創発特性が上位レベルで部品が組み合わされることで現れる新しい特徴を説明していることを示しており、補完的でありながらも異なる視点を示唆しています。"
+    }
+  }
+]

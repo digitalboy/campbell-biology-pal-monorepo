@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 54,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement best describes emergent properties in biological systems?",
+      "zh": "以下哪项描述最能阐释生物系统中的涌现特性？",
+      "es": "Según el texto, ¿cuál de las siguientes afirmaciones describe mejor las propiedades emergentes en los sistemas biológicos?",
+      "fr": "Quelle affirmation décrit le mieux les propriétés émergentes dans les systèmes biologiques ?",
+      "de": "Welche Aussage beschreibt emergente Eigenschaften in biologischen Systemen am besten?",
+      "ja": "生物システムにおける創発特性を最もよく説明しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Properties that arise from the arrangement and interaction of parts as complexity increases.",
+          "zh": "随着复杂性增加，由部件的排列和相互作用而产生的特性。",
+          "es": "Propiedades que surgen de la disposición e interacción de las partes a medida que aumenta la complejidad.",
+          "fr": "Propriétés qui résultent de l'arrangement et de l'interaction des parties à mesure que la complexité augmente.",
+          "de": "Eigenschaften, die aus der Anordnung und Interaktion von Teilen entstehen, wenn die Komplexität zunimmt.",
+          "ja": "複雑さが増すにつれて、部品の配置と相互作用から生じる特性。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Properties of individual components, regardless of their organization.",
+          "zh": "独立部件的特性，与其组织方式无关。",
+          "es": "Propiedades de los componentes individuales, independientemente de su organización.",
+          "fr": "Propriétés des composants individuels, quelle que soit leur organisation.",
+          "de": "Eigenschaften einzelner Komponenten, unabhängig von ihrer Organisation.",
+          "ja": "個々のコンポーネントの特性であり、それらの構成とは無関係である。"
+        },
+        "feedback": {
+          "en": "Emergent properties specifically depend on the organization and interaction of parts, not just individual components.",
+          "zh": "涌现特性特别取决于部件的组织和相互作用，而不仅仅是单个部件。",
+          "es": "Las propiedades emergentes dependen específicamente de la organización e interacción de las partes, no solo de los componentes individuales.",
+          "fr": "Les propriétés émergentes dépendent spécifiquement de l'organisation et de l'interaction des parties, et non seulement des composants individuels.",
+          "de": "Emergente Eigenschaften hängen spezifisch von der Organisation und Interaktion der Teile ab, nicht nur von einzelnen Komponenten.",
+          "ja": "創発特性は、個々のコンポーネントだけでなく、部品の組織と相互作用に特異的に依存します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Properties that only appear in non-living systems.",
+          "zh": "只出现在非生物系统中的特性。",
+          "es": "Propiedades que solo aparecen en sistemas no vivos.",
+          "fr": "Propriétés qui n'apparaissent que dans les systèmes non vivants.",
+          "de": "Eigenschaften, die nur in nicht-lebenden Systemen auftreten.",
+          "ja": "非生物システムにのみ現れる特性。"
+        },
+        "feedback": {
+          "en": "While non-living systems can exhibit emergent properties (like bicycle parts), the text emphasizes their complexity and importance in biological systems.",
+          "zh": "虽然非生物系统也能表现出涌现特性（如自行车零件），但文本强调了它们在生物系统中的复杂性和重要性。",
+          "es": "Aunque los sistemas no vivos pueden exhibir propiedades emergentes (como las piezas de bicicleta), el texto enfatiza su complejidad e importancia en los sistemas biológicos.",
+          "fr": "Bien que les systèmes non vivants puissent présenter des propriétés émergentes (comme les pièces de vélo), le texte souligne leur complexité et leur importance dans les systèmes biologiques.",
+          "de": "Obwohl nicht-lebende Systeme emergente Eigenschaften aufweisen können (wie Fahrradteile), betont der Text ihre Komplexität und Bedeutung in biologischen Systemen.",
+          "ja": "非生物システム（自転車の部品など）も創発特性を示すことができますが、本文では生物システムにおけるそれらの複雑さと重要性が強調されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Properties that are identical whether the components are isolated or integrated.",
+          "zh": "无论是分离还是整合，部件的特性都保持不变。",
+          "es": "Propiedades que son idénticas ya sea que los componentes estén aislados o integrados.",
+          "fr": "Propriétés qui sont identiques que les composants soient isolés ou intégrés.",
+          "de": "Eigenschaften, die identisch sind, unabhängig davon, ob die Komponenten isoliert oder integriert sind.",
+          "ja": "コンポーネントが分離されているか統合されているかに関わらず、同一の特性。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that isolated components 'lack a number of significant properties that emerge at higher levels of organization'.",
+          "zh": "文本明确指出，分离的部件“缺乏在更高组织层面涌现的许多重要特性”。",
+          "es": "El texto establece explícitamente que los componentes aislados 'carecen de una serie de propiedades significativas que emergen en niveles superiores de organización'.",
+          "fr": "Le texte indique explicitement que les composants isolés 'manquent un certain nombre de propriétés significatives qui émergent à des niveaux d'organisation supérieurs'.",
+          "de": "Der Text besagt explizit, dass isolierten Komponenten 'eine Reihe signifikanter Eigenschaften fehlen, die auf höheren Organisationsebenen entstehen'.",
+          "ja": "本文は、分離されたコンポーネントが「より高い組織レベルで出現する多くの重要な特性を欠いている」と明示的に述べています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text defines emergent properties as those that 'arise from the arrangement and interactions of parts as complexity increases,' giving examples like photosynthesis requiring organized molecules in a chloroplast.",
+      "zh": "文本将涌现特性定义为“随着复杂性增加，由部件的排列和相互作用而产生的特性”，并举例说明光合作用需要叶绿体中分子的有序组织。",
+      "es": "El texto define las propiedades emergentes como aquellas que 'surgen de la disposición e interacción de las partes a medida que aumenta la complejidad', dando ejemplos como la fotosíntesis que requiere moléculas organizadas en un cloroplasto.",
+      "fr": "Le texte définit les propriétés émergentes comme celles qui « résultent de l'arrangement et des interactions des parties à mesure que la complexité augmente », en donnant des exemples comme la photosynthèse nécessitant des molécules organisées dans un chloroplaste.",
+      "de": "Der Text definiert emergente Eigenschaften als solche, die 'aus der Anordnung und den Wechselwirkungen von Teilen entstehen, wenn die Komplexität zunimmt', und nennt Beispiele wie die Photosynthese, die organisierte Moleküle in einem Chloroplasten erfordert.",
+      "ja": "本文では、創発特性を「複雑さが増すにつれて、部品の配置と相互作用から生じる」ものと定義しており、葉緑体内の組織化された分子を必要とする光合成などを例に挙げています。"
+    }
+  },
+  {
+    "page_number": 54,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, which of the following statements about the structures within a leaf is correct?",
+      "zh": "根据文本，以下关于叶片内部结构的陈述哪一项是正确的？",
+      "es": "Según el texto, ¿cuál de las siguientes afirmaciones sobre las estructuras dentro de una hoja es correcta?",
+      "fr": "Selon le texte, laquelle des affirmations suivantes concernant les structures à l'intérieur d'une feuille est correcte ?",
+      "de": "Welche der folgenden Aussagen über die Strukturen in einem Blatt ist laut Text korrekt?",
+      "ja": "本文によると、葉の中の構造に関する次の記述のうち、正しいのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The epidermis tissue is primarily responsible for photosynthesis in the leaf.",
+          "zh": "表皮组织主要负责叶片中的光合作用。",
+          "es": "El tejido de la epidermis es el principal responsable de la fotosíntesis en la hoja.",
+          "fr": "Le tissu épidermique est principalement responsable de la photosynthèse dans la feuille.",
+          "de": "Das Epidermisgewebe ist hauptsächlich für die Photosynthese im Blatt verantwortlich.",
+          "ja": "表皮組織は主に葉の光合成を担当しています。"
+        },
+        "feedback": {
+          "en": "The text states the honeycombed tissue in the interior of the leaf is the main location of photosynthesis, while the epidermis is for gas exchange.",
+          "zh": "文本指出叶片内部的蜂窝状组织是光合作用的主要场所，而表皮用于气体交换。",
+          "es": "El texto afirma que el tejido alveolar en el interior de la hoja es la principal ubicación de la fotosíntesis, mientras que la epidermis es para el intercambio de gases.",
+          "fr": "Le texte indique que le tissu en nid d'abeille à l'intérieur de la feuille est le principal lieu de la photosynthèse, tandis que l'épiderme est destiné aux échanges gazeux.",
+          "de": "Der Text besagt, dass das wabenförmige Gewebe im Inneren des Blattes der Hauptort der Photosynthese ist, während die Epidermis für den Gasaustausch zuständig ist.",
+          "ja": "本文には、葉の内部にあるハニカム状の組織が光合成の主要な場所であり、表皮はガス交換のためであると記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Chloroplasts are organelles within leaf cells responsible for photosynthesis.",
+          "zh": "叶绿体是叶片细胞内的细胞器，负责光合作用。",
+          "es": "Los cloroplastos son orgánulos dentro de las células de la hoja responsables de la fotosíntesis.",
+          "fr": "Les chloroplastes sont des organites à l'intérieur des cellules de la feuille responsables de la photosynthèse.",
+          "de": "Chloroplasten sind Organellen in Blätterzellen, die für die Photosynthese verantwortlich sind.",
+          "ja": "葉緑体は葉の細胞内のオルガネラであり、光合成を担当しています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A single leaf cell is typically about 500 micrometers across.",
+          "zh": "单个叶片细胞通常直径约为500微米。",
+          "es": "Una sola célula de hoja suele tener aproximadamente 500 micrómetros de diámetro.",
+          "fr": "Une seule cellule de feuille mesure généralement environ 500 micromètres de diamètre.",
+          "de": "Eine einzelne Blattzelle ist typischerweise etwa 500 Mikrometer groß.",
+          "ja": "単一の葉の細胞は通常、直径約500マイクロメートルです。"
+        },
+        "feedback": {
+          "en": "The text states a leaf cell is about 40 micrometers (µm) across; 500 of them would reach across a small coin.",
+          "zh": "文本指出一个叶片细胞直径约40微米（µm）；500个叶片细胞才能铺满一枚小硬币。",
+          "es": "El texto indica que una célula de hoja tiene aproximadamente 40 micrómetros (µm) de diámetro; 500 de ellas se extenderían a lo largo de una moneda pequeña.",
+          "fr": "Le texte indique qu'une cellule de feuille mesure environ 40 micromètres (µm) de diamètre ; 500 d'entre elles s'étendraient sur une petite pièce de monnaie.",
+          "de": "Der Text besagt, dass eine Blattzelle etwa 40 Mikrometer (µm) groß ist; 500 davon würden über eine kleine Münze reichen.",
+          "ja": "本文には、葉の細胞の直径は約40マイクロメートル（µm）であり、500個で小さなコインの幅に達すると記載されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Molecules are the largest structures described in the leaf hierarchy.",
+          "zh": "分子是叶片层次结构中描述的最大的结构。",
+          "es": "Las moléculas son las estructuras más grandes descritas en la jerarquía de la hoja.",
+          "fr": "Les molécules sont les plus grandes structures décrites dans la hiérarchie de la feuille.",
+          "de": "Moleküle sind die größten Strukturen, die in der Blatthierarchie beschrieben werden.",
+          "ja": "分子は葉の階層構造で説明されている最大の構造です。"
+        },
+        "feedback": {
+          "en": "Molecules are described as the smallest scale, consisting of atoms, while organs are the largest structures mentioned in the hierarchy.",
+          "zh": "分子被描述为最小的尺度，由原子组成，而器官是层次结构中提及的最大的结构。",
+          "es": "Las moléculas se describen como la escala más pequeña, que consisten en átomos, mientras que los órganos son las estructuras más grandes mencionadas en la jerarquía.",
+          "fr": "Les molécules sont décrites comme la plus petite échelle, composées d'atomes, tandis que les organes sont les plus grandes structures mentionnées dans la hiérarchie.",
+          "de": "Moleküle werden als die kleinste Ebene beschrieben, die aus Atomen besteht, während Organe die größten in der Hierarchie erwähnten Strukturen sind.",
+          "ja": "分子は原子から構成される最小のスケールとして記述されており、器官は階層で言及されている最大の構造です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states under '9 Organelles' that 'Chloroplasts are examples of organelles... which are responsible for photosynthesis' and are found 'within these tiny cells'.",
+      "zh": "文本在“9 细胞器”部分明确指出，“叶绿体是细胞器的一个例子……它们负责光合作用”，并且存在于“这些微小细胞内部”。",
+      "es": "El texto establece explícitamente bajo '9 Orgánulos' que 'Los cloroplastos son ejemplos de orgánulos... que son responsables de la fotosíntesis' y se encuentran 'dentro de estas pequeñas células'.",
+      "fr": "Le texte indique explicitement sous '9 Organites' que « les chloroplastes sont des exemples d'organites... qui sont responsables de la photosynthèse » et se trouvent « à l'intérieur de ces minuscules cellules ».",
+      "de": "Der Text besagt unter '9 Organellen' explizit, dass 'Chloroplasten Beispiele für Organellen sind... die für die Photosynthese verantwortlich sind' und 'innerhalb dieser winzigen Zellen' gefunden werden.",
+      "ja": "本文の「9 オルガネラ」の項で、「葉緑体はオルガネラの例であり、…光合成を担当している」と明記されており、「これらの微小な細胞内に存在する」と述べられています。"
+    }
+  },
+  {
+    "page_number": 54,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "How does 'systems biology' complement a reductionist approach in studying biological systems, according to the text?",
+      "zh": "根据文本，‘系统生物学’如何补充还原论方法来研究生物系统？",
+      "es": "Según el texto, ¿cómo complementa la 'biología de sistemas' un enfoque reduccionista en el estudio de los sistemas biológicos?",
+      "fr": "Selon le texte, comment la « biologie des systèmes » complète-t-elle une approche réductionniste dans l'étude des systèmes biologiques ?",
+      "de": "Wie ergänzt die 'Systembiologie' laut Text einen reduktionistischen Ansatz beim Studium biologischer Systeme?",
+      "ja": "本文によると、「システム生物学」は生物システムの研究における還元主義的アプローチをどのように補完しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "By focusing solely on individual components in isolation to identify their basic functions.",
+          "zh": "通过仅仅孤立地关注单个组分以识别它们的基本功能。",
+          "es": "Al centrarse únicamente en componentes individuales de forma aislada para identificar sus funciones básicas.",
+          "fr": "En se concentrant uniquement sur les composants individuels isolés pour identifier leurs fonctions de base.",
+          "de": "Indem sie sich ausschließlich auf einzelne Komponenten isoliert konzentriert, um deren grundlegende Funktionen zu identifizieren.",
+          "ja": "基本的な機能を特定するために、個々のコンポーネントを単独で研究することにのみ焦点を当てることによって。"
+        },
+        "feedback": {
+          "en": "This describes the reductionist approach itself, which systems biology aims to complement by looking at interactions.",
+          "zh": "这描述了还原论方法本身，而系统生物学旨在通过研究相互作用来补充它。",
+          "es": "Esto describe el enfoque reduccionista en sí mismo, que la biología de sistemas busca complementar al observar las interacciones.",
+          "fr": "Ceci décrit l'approche réductionniste elle-même, que la biologie des systèmes vise à compléter en examinant les interactions.",
+          "de": "Dies beschreibt den reduktionistischen Ansatz selbst, den die Systembiologie durch die Betrachtung von Wechselwirkungen ergänzen soll.",
+          "ja": "これは還元主義的アプローチそのものを記述しており、システム生物学は相互作用を考察することでそれを補完しようとしています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It analyzes the interactions among parts to understand the dynamic behavior of an integrated network, addressing emergent properties.",
+          "zh": "它通过分析部件之间的相互作用，理解整合网络的动态行为，从而解决涌现特性问题。",
+          "es": "Analiza las interacciones entre las partes para comprender el comportamiento dinámico de una red integrada, abordando las propiedades emergentes.",
+          "fr": "Elle analyse les interactions entre les parties pour comprendre le comportement dynamique d'un réseau intégré, en abordant les propriétés émergentes.",
+          "de": "Sie analysiert die Wechselwirkungen zwischen den Teilen, um das dynamische Verhalten eines integrierten Netzwerks zu verstehen und emergente Eigenschaften anzugehen.",
+          "ja": "統合されたネットワークの動的な振る舞いを理解し、創発特性に対処するために、部品間の相互作用を分析します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "By studying only non-living systems to simplify complex biological interactions.",
+          "zh": "通过仅研究非生物系统来简化复杂的生物相互作用。",
+          "es": "Estudiando solo sistemas no vivos para simplificar interacciones biológicas complejas.",
+          "fr": "En étudiant uniquement les systèmes non vivants pour simplifier les interactions biologiques complexes.",
+          "de": "Indem sie nur nicht-lebende Systeme untersucht, um komplexe biologische Wechselwirkungen zu vereinfachen.",
+          "ja": "複雑な生物学的相互作用を単純化するために、非生物システムのみを研究することによって。"
+        },
+        "feedback": {
+          "en": "Systems biology is applied to biological systems (e.g., leaf cell, frog, ecosystem), not primarily non-living ones.",
+          "zh": "系统生物学应用于生物系统（例如叶片细胞、青蛙、生态系统），而不是主要应用于非生物系统。",
+          "es": "La biología de sistemas se aplica a sistemas biológicos (p. ej., célula de hoja, rana, ecosistema), no principalmente a los no vivos.",
+          "fr": "La biologie des systèmes s'applique aux systèmes biologiques (ex : cellule de feuille, grenouille, écosystème), et non principalement aux systèmes non vivants.",
+          "de": "Systembiologie wird auf biologische Systeme angewendet (z. B. Blattzelle, Frosch, Ökosystem), nicht primär auf nicht-lebende Systeme.",
+          "ja": "システム生物学は、主に非生物システムではなく、生物システム（例：葉の細胞、カエル、生態系）に適用されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "By primarily categorizing organisms based on their external morphology without considering internal mechanisms.",
+          "zh": "通过主要根据生物体的外部形态对其进行分类，而不考虑内部机制。",
+          "es": "Categorizando principalmente organismos basados en su morfología externa sin considerar los mecanismos internos.",
+          "fr": "En catégorisant principalement les organismes en fonction de leur morphologie externe sans considérer les mécanismes internes.",
+          "de": "Indem sie Organismen primär nach ihrer externen Morphologie kategorisiert, ohne interne Mechanismen zu berücksichtigen.",
+          "ja": "主に内部メカニズムを考慮せずに、生物をその外部形態に基づいて分類することによって。"
+        },
+        "feedback": {
+          "en": "This is irrelevant to the definition of systems biology provided in the text.",
+          "zh": "这与文本中提供的系统生物学定义无关。",
+          "es": "Esto es irrelevante para la definición de biología de sistemas proporcionada en el texto.",
+          "fr": "Ceci est sans rapport avec la définition de la biologie des systèmes fournie dans le texte.",
+          "de": "Dies ist irrelevant für die im Text gegebene Definition der Systembiologie.",
+          "ja": "これは、本文で提供されているシステム生物学の定義とは無関係です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that biologists 'complement reductionism with systems biology, the exploration of a biological system by analyzing the interactions among its parts' and by 'examining and modeling the dynamic behavior of an integrated network of components'. This approach specifically helps in understanding emergent properties.",
+      "zh": "文本指出，生物学家“用系统生物学来补充还原论，通过分析其各部分之间的相互作用来探索生物系统”，并通过“检查和建模组成部分的整合网络的动态行为”。这种方法特别有助于理解涌现特性。",
+      "es": "El texto afirma que los biólogos 'complementan el reduccionismo con la biología de sistemas, la exploración de un sistema biológico analizando las interacciones entre sus partes' y 'examinando y modelando el comportamiento dinámico de una red integrada de componentes'. Este enfoque ayuda específicamente a comprender las propiedades emergentes.",
+      "fr": "Le texte indique que les biologistes « complètent le réductionnisme par la biologie des systèmes, l'exploration d'un système biologique en analysant les interactions entre ses parties » et en « examinant et modélisant le comportement dynamique d'un réseau intégré de composants ». Cette approche aide spécifiquement à comprendre les propriétés émergentes.",
+      "de": "Der Text besagt, dass Biologen 'den Reduktionismus mit der Systembiologie ergänzen, der Erforschung eines biologischen Systems durch Analyse der Wechselwirkungen zwischen seinen Teilen' und durch 'Untersuchung und Modellierung des dynamischen Verhaltens eines integrierten Komponentennetzwerks'. Dieser Ansatz hilft speziell beim Verständnis emergenter Eigenschaften.",
+      "ja": "本文は、生物学者が「還元主義をシステム生物学で補完する」と述べており、それは「その部分間の相互作用を分析することによって生物システムを探索すること」と、「統合されたコンポーネントネットワークの動的な振る舞いを調査およびモデル化すること」です。このアプローチは、創発特性の理解に特に役立ちます。"
+    }
+  },
+  {
+    "page_number": 54,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the primary role of chlorophyll, as described in the text?",
+      "zh": "根据文本描述，叶绿素的主要作用是什么？",
+      "es": "Según el texto, ¿cuál es el papel principal de la clorofila?",
+      "fr": "Selon le texte, quel est le rôle principal de la chlorophylle ?",
+      "de": "Was ist laut Text die primäre Rolle von Chlorophyll?",
+      "ja": "本文に記載されている葉緑素の主な役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It forms the structural framework of the cell wall.",
+          "zh": "它构成细胞壁的结构骨架。",
+          "es": "Forma el marco estructural de la pared celular.",
+          "fr": "Elle forme la charpente structurelle de la paroi cellulaire.",
+          "de": "Es bildet das strukturelle Gerüst der Zellwand.",
+          "ja": "細胞壁の構造的枠組みを形成します。"
+        },
+        "feedback": {
+          "en": "The text describes chlorophyll as a pigment involved in energy conversion, not structural support.",
+          "zh": "文本将叶绿素描述为一种参与能量转换的色素，而不是结构支持。",
+          "es": "El texto describe la clorofila como un pigmento implicado en la conversión de energía, no en el soporte estructural.",
+          "fr": "Le texte décrit la chlorophylle comme un pigment impliqué dans la conversion d'énergie, et non dans le support structurel.",
+          "de": "Der Text beschreibt Chlorophyll als ein Pigment, das an der Energieumwandlung beteiligt ist, nicht an der strukturellen Unterstützung.",
+          "ja": "本文は葉緑素をエネルギー変換に関与する色素として説明しており、構造支持とは関係ありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It regulates gas exchange through the pores in the epidermis.",
+          "zh": "它通过表皮上的气孔调节气体交换。",
+          "es": "Regula el intercambio de gases a través de los poros en la epidermis.",
+          "fr": "Elle régule les échanges gazeux à travers les pores de l'épiderme.",
+          "de": "Es reguliert den Gasaustausch durch die Poren in der Epidermis.",
+          "ja": "表皮の孔を通してガス交換を調節します。"
+        },
+        "feedback": {
+          "en": "Gas exchange is regulated by the pores (stomata) in the epidermis, not directly by chlorophyll.",
+          "zh": "气体交换是由表皮中的气孔调节的，而不是叶绿素直接调节的。",
+          "es": "El intercambio de gases es regulado por los poros (estomas) en la epidermis, no directamente por la clorofila.",
+          "fr": "Les échanges gazeux sont régulés par les pores (stomates) de l'épiderme, et non directement par la chlorophylle.",
+          "de": "Der Gasaustausch wird durch die Poren (Stomata) in der Epidermis reguliert, nicht direkt durch Chlorophyll.",
+          "ja": "ガス交換は表皮の孔（気孔）によって調節され、葉緑素が直接行うわけではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is a pigment that absorbs sunlight to convert light energy into chemical energy during photosynthesis.",
+          "zh": "它是一种色素，在光合作用中吸收阳光，将光能转化为化学能。",
+          "es": "Es un pigmento que absorbe la luz solar para convertir la energía lumínica en energía química durante la fotosíntesis.",
+          "fr": "C'est un pigment qui absorbe la lumière du soleil pour convertir l'énergie lumineuse en énergie chimique pendant la photosynthèse.",
+          "de": "Es ist ein Pigment, das Sonnenlicht absorbiert, um Lichtenergie während der Photosynthese in chemische Energie umzuwandeln.",
+          "ja": "光合成中に太陽光を吸収し、光エネルギーを化学エネルギーに変換する色素です。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It acts as a primary storage molecule for excess sugar in the plant.",
+          "zh": "它作为植物体内多余糖分的主要储存分子。",
+          "es": "Actúa como una molécula de almacenamiento principal para el exceso de azúcar en la planta.",
+          "fr": "Elle agit comme une molécule de stockage primaire pour l'excès de sucre dans la plante.",
+          "de": "Es dient als primäres Speichermolekül für überschüssigen Zucker in der Pflanze.",
+          "ja": "植物における余剰糖の主要な貯蔵分子として機能します。"
+        },
+        "feedback": {
+          "en": "Chlorophyll's role is in the production of sugar (chemical energy), not its storage.",
+          "zh": "叶绿素的作用是生产糖（化学能），而不是储存糖。",
+          "es": "El papel de la clorofila es en la producción de azúcar (energía química), no en su almacenamiento.",
+          "fr": "Le rôle de la chlorophylle est la production de sucre (énergie chimique), et non son stockage.",
+          "de": "Die Rolle von Chlorophyll liegt in der Produktion von Zucker (chemische Energie), nicht in dessen Speicherung.",
+          "ja": "葉緑素の役割は糖（化学エネルギー）の生成であり、貯蔵ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Under '10 Molecules', the text states: 'Chlorophyll is the pigment that makes a leaf green, and it absorbs sunlight during photosynthesis. Within each chloroplast, millions of chlorophyll molecules are organized into systems that convert light energy to the chemical energy of food.'",
+      "zh": "在“10 分子”部分，文本指出：“叶绿素是使叶片呈绿色的色素，它在光合作用中吸收阳光。在每个叶绿体中，数百万个叶绿素分子组织成系统，将光能转化为食物的化学能。”",
+      "es": "Bajo '10 Moléculas', el texto afirma: 'La clorofila es el pigmento que hace que una hoja sea verde, y absorbe la luz solar durante la fotosíntesis. Dentro de cada cloroplasto, millones de moléculas de clorofila se organizan en sistemas que convierten la energía lumínica en la energía química de los alimentos.'",
+      "fr": "Sous « 10 Molécules », le texte indique : « La chlorophylle est le pigment qui rend une feuille verte, et elle absorbe la lumière du soleil pendant la photosynthèse. Dans chaque chloroplaste, des millions de molécules de chlorophylle sont organisées en systèmes qui convertissent l'énergie lumineuse en énergie chimique des aliments. »",
+      "de": "Unter '10 Moleküle' heißt es im Text: 'Chlorophyll ist das Pigment, das ein Blatt grün macht, und es absorbiert Sonnenlicht während der Photosynthese. Innerhalb jedes Chloroplasten sind Millionen von Chlorophyllmolekülen zu Systemen organisiert, die Lichtenergie in die chemische Energie der Nahrung umwandeln.'",
+      "ja": "「10 分子」の項で、本文は次のように述べています。「葉緑素は葉を緑にする色素であり、光合成中に太陽光を吸収します。各葉緑体内に、何百万もの葉緑素分子が、光エネルギーを食物の化学エネルギーに変換するシステムに組織されています。」"
+    }
+  }
+]

@@ -1,0 +1,190 @@
+openapi: 3.1.0
+info:
+  title: "AI Service API"
+  version: "1.1.0"
+  description: "API for interacting with AI models, supporting text, multi-modal, streaming, and structured JSON output."
+servers:
+  - url: "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1"
+    description: "Production Server"
+  - url: "http://localhost:3000/api/v1"
+    description: "Local Development Server"
+
+paths:
+  /ai/completions:
+    post:
+      tags:
+        - "AI"
+      summary: "AI Completion"
+      description: |
+        Provides access to various AI models (text, vision, etc.).
+        The structure of the `messages` array depends on the model being used.
+      operationId: "aiCompletion"
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/AiCompletionRequest"
+            examples:
+              text_only_request:
+                summary: "Example for a text-only model"
+                value:
+                  model: "qwen-turbo"
+                  messages:
+                    - role: "user"
+                      content: "What is the function of mitochondria?"
+              multi_modal_request:
+                summary: "Example for a vision model"
+                value:
+                  model: "qwen-vl-plus-latest"
+                  messages:
+                    - role: "user"
+                      content:
+                        - type: "text"
+                          text: "What process is shown in this image?"
+                        - type: "image_url"
+                          image_url:
+                            url: "https://example.com/image.jpg"
+      responses:
+        "200":
+          description: |
+            Successful response. The format depends on the `stream` parameter.
+            - If `stream` is `false` or omitted, the response is a standard JSON object (`application/json`).
+            - If `stream` is `true`, the response is a stream of text chunks (`text/event-stream`).
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/AiCompletionResponse"
+            text/event-stream:
+              schema:
+                type: string
+                description: A stream of text chunks from the AI model.
+        "400":
+          $ref: "#/components/responses/BadRequest"
+        "401":
+          $ref: "#/components/responses/Unauthorized"
+        "500":
+          $ref: "#/components/responses/InternalServerError"
+
+components:
+  schemas:
+    AiCompletionRequest:
+      type: object
+      required:
+        - model
+        - messages
+      properties:
+        model:
+          type: string
+          description: "The ID of the model to use for this request."
+          example: "qwen-turbo"
+        messages:
+          type: array
+          description: "An array of message objects that form the conversation history or the prompt."
+          items:
+            $ref: "#/components/schemas/AiMessage"
+        system_prompt:
+          type: string
+          description: "An optional instruction that defines the AI's role or personality."
+          example: "You are a helpful biology assistant for high school students."
+        response_format:
+          type: object
+          description: "An optional parameter to force the output to be a specific format."
+          properties:
+            type:
+              type: string
+              enum: ["text", "json_object"]
+          example: { "type": "json_object" }
+        stream:
+          type: boolean
+          description: "If true, the response will be a stream of text chunks. Defaults to false."
+          example: false
+
+    AiMessage:
+      type: object
+      required:
+        - role
+        - content
+      properties:
+        role:
+          type: string
+          enum: ["user", "assistant", "system"]
+          description: "The role of the message author."
+        content:
+          oneOf:
+            - type: string
+              description: "The text content of the message (for text-only models)."
+            - type: array
+              description: "An array of content parts (for multi-modal models)."
+              items:
+                $ref: "#/components/schemas/ContentPart"
+
+    ContentPart:
+      type: object
+      required:
+        - type
+      properties:
+        type:
+          type: string
+          enum: ["text", "image_url"]
+        text:
+          type: string
+          description: "The text content, required if type is 'text'."
+        image_url:
+          type: object
+          description: "The image content, required if type is 'image_url'."
+          properties:
+            url:
+              type: string
+              format: uri
+              description: "The URL of the image to process."
+
+    AiCompletionResponse:
+      type: object
+      properties:
+        ok:
+          type: boolean
+          example: true
+        response:
+          oneOf:
+            - type: string
+            - type: object
+          description: "The AI's response. Can be a string or a JSON object if `json_object` format was requested."
+          example: "Mitochondria are known as the powerhouses of the cell..."
+
+    ErrorResponse:
+      type: object
+      properties:
+        ok:
+          type: boolean
+          example: false
+        message:
+          type: string
+
+  responses:
+    BadRequest:
+      description: "Bad request, e.g., missing required fields."
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorResponse"
+    Unauthorized:
+      description: "Unauthorized."
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorResponse"
+    InternalServerError:
+      description: "Internal server error or AI service failure."
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorResponse"
+
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT

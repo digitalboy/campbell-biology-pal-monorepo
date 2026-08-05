@@ -1,0 +1,277 @@
+[
+  {
+    "page_number": 1026,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement accurately describes the state of a cell and its environment if the cell is experiencing a net flow of water out of it?",
+      "zh": "如果细胞正在经历水分子净流出，以下哪项陈述准确描述了该细胞及其环境的状态？",
+      "es": "¿Qué afirmación describe con precisión el estado de una célula y su entorno si la célula está experimentando un flujo neto de agua hacia afuera?",
+      "fr": "Quelle affirmation décrit avec précision l'état d'une cellule et de son environnement si la cellule subit un flux net d'eau vers l'extérieur ?",
+      "de": "Welche Aussage beschreibt den Zustand einer Zelle und ihrer Umgebung genau, wenn die Zelle einen Nettofluss von Wasser aus sich heraus erfährt?",
+      "ja": "細胞から純水が流出している場合、その細胞とその周囲の状態を正確に記述している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The cell is hyperosmotic to its surroundings, and will lyse.",
+          "zh": "细胞对其周围环境呈高渗状态，并将发生溶解。",
+          "es": "La célula es hiperosmótica respecto a su entorno y se lisará.",
+          "fr": "La cellule est hyperosmotique par rapport à son environnement et lysera.",
+          "de": "Die Zelle ist hyperosmotisch gegenüber ihrer Umgebung und wird lysieren.",
+          "ja": "細胞は周囲に対して高張性であり、溶解します。"
+        },
+        "feedback": {
+          "en": "A hyperosmotic cell has a lower free H2O concentration than its surroundings, leading to water flowing into the cell, causing it to lyse.",
+          "zh": "高渗细胞的自由水浓度低于其周围环境，导致水流入细胞，使其溶解。",
+          "es": "Una célula hiperosmótica tiene una menor concentración de H2O libre que su entorno, lo que provoca que el agua fluya hacia la célula, causándola lisis.",
+          "fr": "Une cellule hyperosmotique a une concentration d'H2O libre inférieure à celle de son environnement, ce qui entraîne un flux d'eau vers l'intérieur de la cellule, provoquant sa lyse.",
+          "de": "Eine hyperosmotische Zelle hat eine geringere freie H2O-Konzentration als ihre Umgebung, was zu einem Wassereinstrom in die Zelle führt und sie lysieren lässt.",
+          "ja": "高張性の細胞は周囲よりも自由水の濃度が低いため、水が細胞内へ流入し、溶解します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The cell is isoosmotic to its surroundings, and will be in osmotic balance.",
+          "zh": "细胞对其周围环境呈等渗状态，并将处于渗透平衡。",
+          "es": "La célula es isoosmótica respecto a su entorno y estará en equilibrio osmótico.",
+          "fr": "La cellule est isoosmotique par rapport à son environnement et sera en équilibre osmotique.",
+          "de": "Die Zelle ist isoosmotisch gegenüber ihrer Umgebung und wird sich im osmotischen Gleichgewicht befinden.",
+          "ja": "細胞は周囲に対して等張性であり、浸透圧平衡状態になります。"
+        },
+        "feedback": {
+          "en": "An isoosmotic cell has the same solute concentration as its surroundings, resulting in no net water movement and osmotic balance.",
+          "zh": "等渗细胞的溶质浓度与其周围环境相同，导致没有净水分子运动，处于渗透平衡。",
+          "es": "Una célula isoosmótica tiene la misma concentración de solutos que su entorno, lo que no produce un movimiento neto de agua y un equilibrio osmótico.",
+          "fr": "Une cellule isoosmotique a la même concentration de solutés que son environnement, ce qui n'entraîne aucun mouvement net d'eau et un équilibre osmotique.",
+          "de": "Eine isoosmotische Zelle hat die gleiche Solutkonzentration wie ihre Umgebung, was zu keiner Nettobewegung von Wasser und einem osmotischen Gleichgewicht führt.",
+          "ja": "等張性の細胞は周囲と同じ溶質濃度であるため、水の純移動がなく、浸透圧平衡状態になります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The cell is hypoosmotic to its surroundings, and will shrivel.",
+          "zh": "细胞对其周围环境呈低渗状态，并将发生皱缩。",
+          "es": "La célula es hipoosmótica respecto a su entorno y se encogerá.",
+          "fr": "La cellule est hypoosmotique par rapport à son environnement et se ratatinera.",
+          "de": "Die Zelle ist hypoosmotisch gegenüber ihrer Umgebung und wird schrumpfen.",
+          "ja": "細胞は周囲に対して低張性であり、しわくちゃになります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The cell has a higher free H2O concentration than its surroundings, and will swell.",
+          "zh": "细胞的自由水浓度高于其周围环境，并将发生膨胀。",
+          "es": "La célula tiene una mayor concentración de H2O libre que su entorno y se hinchará.",
+          "fr": "La cellule a une concentration d'H2O libre supérieure à celle de son environnement et gonflera.",
+          "de": "Die Zelle hat eine höhere freie H2O-Konzentration als ihre Umgebung und wird anschwellen.",
+          "ja": "細胞は周囲よりも自由水の濃度が高く、膨張します。"
+        },
+        "feedback": {
+          "en": "A higher free H2O concentration than surroundings means the cell is hypoosmotic, leading to water flowing *out* of the cell, causing it to shrivel, not swell. Swelling occurs when water flows in.",
+          "zh": "细胞的自由水浓度高于周围环境意味着细胞处于低渗状态，导致水分子净流出细胞，使其皱缩，而不是膨胀。膨胀发生在水分子流入细胞时。",
+          "es": "Una mayor concentración de H2O libre que el entorno significa que la célula es hipoosmótica, lo que provoca que el agua fluya *fuera* de la célula, causando que se encoja, no que se hinche. El hinchamiento ocurre cuando el agua fluye hacia adentro.",
+          "fr": "Une concentration d'H2O libre supérieure à celle de l'environnement signifie que la cellule est hypoosmotique, ce qui entraîne un flux d'eau *hors* de la cellule, la faisant se ratatiner, et non gonfler. Le gonflement se produit lorsque l'eau entre.",
+          "de": "Eine höhere freie H2O-Konzentration als die Umgebung bedeutet, dass die Zelle hypoosmotisch ist, was zu einem Wasserausstrom aus der Zelle führt und sie schrumpfen lässt, nicht anschwellen. Anschwellen tritt auf, wenn Wasser in die Zelle fließt.",
+          "ja": "周囲よりも自由水の濃度が高いということは、細胞が低張性であることを意味し、水が細胞から*外へ*流出し、しわくちゃになり、膨張しません。膨張は水が流入するときに起こります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The diagrams illustrate that a net flow of water out of a cell occurs when the cell is hypoosmotic to its surroundings. This means the cell has a higher free H2O concentration (lower solute concentration) than its environment. Consequently, water moves from the area of higher free H2O concentration (inside the cell) to the area of lower free H2O concentration (outside the cell), causing the cell to shrivel.",
+      "zh": "图表显示，当细胞对其周围环境呈低渗状态时，会发生水分子净流出细胞。这意味着细胞的自由水浓度（溶质浓度较低）高于其环境。因此，水从自由水浓度较高区域（细胞内）流向自由水浓度较低区域（细胞外），导致细胞皱缩。",
+      "es": "Los diagramas ilustran que un flujo neto de agua hacia afuera de una célula ocurre cuando la célula es hipoosmótica con respecto a su entorno. Esto significa que la célula tiene una concentración de H2O libre (menor concentración de solutos) mayor que su entorno. Consecuentemente, el agua se mueve del área de mayor concentración de H2O libre (dentro de la célula) al área de menor concentración de H2O libre (fuera de la célula), causando que la célula se encoja.",
+      "fr": "Les schémas illustrent qu'un flux net d'eau hors d'une cellule se produit lorsque la cellule est hypoosmotique par rapport à son environnement. Cela signifie que la cellule a une concentration d'H2O libre (concentration de solutés plus faible) supérieure à celle de son environnement. En conséquence, l'eau se déplace de la zone de concentration d'H2O libre plus élevée (à l'intérieur de la cellule) vers la zone de concentration d'H2O libre plus faible (à l'extérieur de la cellule), ce qui fait que la cellule se ratatine.",
+      "de": "Die Diagramme zeigen, dass ein Nettofluss von Wasser aus einer Zelle auftritt, wenn die Zelle hypoosmotisch gegenüber ihrer Umgebung ist. Dies bedeutet, dass die Zelle eine höhere freie H2O-Konzentration (niedrigere Solutkonzentration) als ihre Umgebung hat. Folglich bewegt sich Wasser aus dem Bereich höherer freier H2O-Konzentration (innerhalb der Zelle) in den Bereich niedrigerer freier H2O-Konzentration (außerhalb der Zelle), wodurch die Zelle schrumpft.",
+      "ja": "図は、細胞が周囲に対して低張性である場合に、細胞からの純水流出が起こることを示しています。これは、細胞内の自由水の濃度（溶質濃度が低い）が周囲よりも高いことを意味します。結果として、水は自由水濃度が高い領域（細胞内）から低い領域（細胞外）へ移動し、細胞はしわくちゃになります。"
+    }
+  },
+  {
+    "page_number": 1026,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The wandering albatross (Diomedea exulans) drinks only seawater but maintains its body salts and water in balance. This suggests that the albatross possesses adaptations to:",
+      "zh": "漂泊信天翁（Diomedea exulans）只饮用海水，但能保持体内盐分和水的平衡。这表明信天翁具有适应性，能够：",
+      "es": "El albatros errante (Diomedea exulans) solo bebe agua de mar, pero mantiene sus sales corporales y el agua en equilibrio. Esto sugiere que el albatros posee adaptaciones para:",
+      "fr": "L'albatros hurleur (Diomedea exulans) ne boit que de l'eau de mer mais maintient l'équilibre de ses sels corporels et de son eau. Cela suggère que l'albatros possède des adaptations pour :",
+      "de": "Der Wanderalbatros (Diomedea exulans) trinkt ausschließlich Meerwasser, hält aber seinen Körper-Salz- und Wasserhaushalt im Gleichgewicht. Dies deutet darauf hin, dass der Albatros Anpassungen besitzt, um:",
+      "ja": "ワタリアホウドリ（Diomedea exulans）は海水しか飲まないにもかかわらず、体内の塩分と水のバランスを保っています。これは、アホウドリが以下のような適応を持っていることを示唆しています。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Actively transport excess salt into its cells, causing them to swell.",
+          "zh": "将多余的盐分主动转运到细胞内，使其膨胀。",
+          "es": "Transportar activamente el exceso de sal a sus células, provocando que se hinchen.",
+          "fr": "Transporter activement l'excès de sel dans ses cellules, les faisant gonfler.",
+          "de": "Überschüssiges Salz aktiv in seine Zellen transportieren, wodurch diese anschwellen.",
+          "ja": "過剰な塩分を積極的に細胞内に輸送し、細胞を膨張させる。"
+        },
+        "feedback": {
+          "en": "Actively transporting excess salt *into* cells would increase intracellular solute concentration, leading to water influx and cell swelling, which is detrimental. Albatrosses excrete excess salt, often through salt glands, not into cells.",
+          "zh": "将多余的盐分主动转运到细胞内会增加细胞内溶质浓度，导致水流入细胞并使其膨胀，这是有害的。信天翁通过盐腺等方式排出多余的盐分，而不是将其转运到细胞内。",
+          "es": "Transportar activamente el exceso de sal *hacia* las células aumentaría la concentración de solutos intracelulares, lo que provocaría la entrada de agua y el hinchamiento celular, lo cual es perjudicial. Los albatros excretan el exceso de sal, a menudo a través de glándulas de sal, no hacia las células.",
+          "fr": "Transporter activement l'excès de sel *dans* les cellules augmenterait la concentration de solutés intracellulaires, entraînant un afflux d'eau et un gonflement cellulaire, ce qui est préjudiciable. Les albatros excrètent l'excès de sel, souvent par le biais de glandes à sel, et non dans les cellules.",
+          "de": "Der aktive Transport von überschüssigem Salz *in* die Zellen würde die intrazelluläre Solutkonzentration erhöhen, was zu Wassereinstrom und Zellschwellung führen würde, was schädlich ist. Albatrosse scheiden überschüssiges Salz aus, oft über Salzdrüsen, nicht in die Zellen.",
+          "ja": "過剰な塩分を積極的に細胞内に輸送すると、細胞内溶質濃度が上昇し、水が流入して細胞が膨張し、有害です。アホウドリは塩分腺などを介して過剰な塩分を排出するのであって、細胞内には輸送しません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Minimize water loss through excretion of highly concentrated urine and secrete excess salt.",
+          "zh": "通过排出高度浓缩的尿液来最大程度地减少水分流失，并分泌多余的盐分。",
+          "es": "Minimizar la pérdida de agua mediante la excreción de orina altamente concentrada y secretar el exceso de sal.",
+          "fr": "Minimiser la perte d'eau par l'excrétion d'urine très concentrée et sécréter l'excès de sel.",
+          "de": "Wasserverlust durch Ausscheidung von stark konzentriertem Urin minimieren und überschüssiges Salz absondern.",
+          "ja": "高濃度尿の排出により水分損失を最小限に抑え、過剰な塩分を分泌する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Absorb fresh water directly from the air, avoiding the need to process seawater.",
+          "zh": "直接从空气中吸收淡水，避免处理海水的需要。",
+          "es": "Absorber agua dulce directamente del aire, evitando la necesidad de procesar agua de mar.",
+          "fr": "Absorber l'eau douce directement de l'air, évitant ainsi le besoin de traiter l'eau de mer.",
+          "de": "Süßwasser direkt aus der Luft aufnehmen, um die Verarbeitung von Meerwasser zu vermeiden.",
+          "ja": "空気から直接淡水を吸収し、海水を処理する必要を避ける。"
+        },
+        "feedback": {
+          "en": "While some animals can absorb water from air, marine birds like albatrosses primarily deal with ingested saltwater. This doesn't address the salt balance issue.",
+          "zh": "尽管有些动物可以从空气中吸收水分，但像信天翁这样的海鸟主要处理的是摄入的咸水。这并未解决盐分平衡问题。",
+          "es": "Si bien algunos animales pueden absorber agua del aire, las aves marinas como los albatros tratan principalmente con agua salada ingerida. Esto no aborda el problema del equilibrio salino.",
+          "fr": "Bien que certains animaux puissent absorber l'eau de l'air, les oiseaux marins comme les albatros traitent principalement l'eau salée ingérée. Cela ne résout pas le problème de l'équilibre salin.",
+          "de": "Während einige Tiere Wasser aus der Luft aufnehmen können, beschäftigen sich Seevögel wie Albatrosse hauptsächlich mit aufgenommenem Salzwasser. Dies löst nicht das Problem des Salzhaushalts.",
+          "ja": "一部の動物は空気から水を吸収できますが、アホウドリのような海鳥は主に摂取した塩水に対処します。これは塩分バランスの問題を解決しません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Convert seawater into fresh water internally using specialized enzymes.",
+          "zh": "利用特殊的酶在体内将海水转化为淡水。",
+          "es": "Convertir el agua de mar en agua dulce internamente utilizando enzimas especializadas.",
+          "fr": "Convertir l'eau de mer en eau douce à l'intérieur du corps à l'aide d'enzymes spécialisées.",
+          "de": "Meerwasser intern mit speziellen Enzymen in Süßwasser umwandeln.",
+          "ja": "特殊な酵素を用いて海水から体内で淡水を生成する。"
+        },
+        "feedback": {
+          "en": "Animals do not possess enzymes to convert seawater into fresh water internally. Osmoregulation involves physiological processes to excrete excess salt and conserve water.",
+          "zh": "动物不具备在体内将海水转化为淡水的酶。渗透调节涉及通过生理过程排出多余盐分和节约用水。",
+          "es": "Los animales no poseen enzimas para convertir el agua de mar en agua dulce internamente. La osmorregulación implica procesos fisiológicos para excretar el exceso de sal y conservar el agua.",
+          "fr": "Les animaux ne possèdent pas d'enzymes pour convertir l'eau de mer en eau douce en interne. L'osmorégulation implique des processus physiologiques pour excréter l'excès de sel et conserver l'eau.",
+          "de": "Tiere besitzen keine Enzyme, um Meerwasser intern in Süßwasser umzuwandeln. Osmoregulation beinhaltet physiologische Prozesse zur Ausscheidung von überschüssigem Salz und zur Wasserkonservierung.",
+          "ja": "動物は体内で海水を淡水に変換する酵素を持っていません。浸透圧調節は、過剰な塩分を排出し、水を保持するための生理学的プロセスを含みます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Marine birds like the albatross face the challenge of ingesting large amounts of salt with seawater. Their adaptations for osmoregulation include highly efficient kidneys that produce very concentrated urine to minimize water loss, and specialized salt glands (often located near the eyes or nostrils) that excrete excess salt. This allows them to maintain their internal water and salt balance despite consuming saline water.",
+      "zh": "像信天翁这样的海鸟面临着摄入大量海水盐分的挑战。它们的渗透调节适应性包括高效的肾脏，能够产生高度浓缩的尿液以最大限度地减少水分流失，以及专门的盐腺（通常位于眼睛或鼻孔附近），用于排出多余的盐分。这使得它们即使饮用含盐水也能保持体内的水盐平衡。",
+      "es": "Las aves marinas como el albatros se enfrentan al desafío de ingerir grandes cantidades de sal con el agua de mar. Sus adaptaciones para la osmorregulación incluyen riñones altamente eficientes que producen orina muy concentrada para minimizar la pérdida de agua, y glándulas de sal especializadas (a menudo ubicadas cerca de los ojos o las fosas nasales) que excretan el exceso de sal. Esto les permite mantener su equilibrio interno de agua y sal a pesar de consumir agua salada.",
+      "fr": "Les oiseaux marins comme l'albatros sont confrontés au défi d'ingérer de grandes quantités de sel avec l'eau de mer. Leurs adaptations pour l'osmorégulation incluent des reins très efficaces qui produisent une urine très concentrée pour minimiser la perte d'eau, et des glandes à sel spécialisées (souvent situées près des yeux ou des narines) qui excrètent l'excès de sel. Cela leur permet de maintenir leur équilibre hydrique et salin interne malgré la consommation d'eau saline.",
+      "de": "Seevögel wie der Albatros stehen vor der Herausforderung, große Mengen Salz mit Meerwasser aufzunehmen. Ihre Anpassungen an die Osmoregulation umfassen hochwirksame Nieren, die sehr konzentrierten Urin produzieren, um Wasserverlust zu minimieren, sowie spezialisierte Salzdrüsen (oft in der Nähe der Augen oder Nasenlöcher gelegen), die überschüssiges Salz ausscheiden. Dies ermöglicht es ihnen, ihren inneren Wasser- und Salzhaushalt trotz des Konsums von Salzwasser aufrechtzuerhalten.",
+      "ja": "アホウドリのような海鳥は、海水とともに大量の塩分を摂取するという課題に直面しています。彼らの浸透圧調節の適応には、水分損失を最小限に抑えるために非常に濃縮された尿を生成する高効率の腎臓と、余分な塩分を排出する特殊な塩腺（通常、目や鼻の近くに位置）が含まれます。これにより、塩分を含んだ水を摂取しても、体内の水分と塩分のバランスを維持することができます。"
+    }
+  },
+  {
+    "page_number": 1026,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the \"Study Tip\" that suggests categorizing nitrogenous wastes by \"high,\" \"medium,\" or \"low\" for Toxicity, Energy cost to produce, and Water loss during excretion, which statement accurately compares these properties?",
+      "zh": "根据“学习技巧”中建议的将含氮废物按毒性、产生能耗和排泄过程中的失水程度分为“高”、“中”或“低”的分类，以下哪项陈述准确比较了这些性质？",
+      "es": "Basándose en el \"Consejo de estudio\" que sugiere categorizar los desechos nitrogenados como \"altos\", \"medios\" o \"bajos\" en cuanto a Toxicidad, Costo energético de producción y Pérdida de agua durante la excreción, ¿qué afirmación compara con precisión estas propiedades?",
+      "fr": "Basé sur le \"Conseil d'étude\" qui suggère de catégoriser les déchets azotés par \"élevé\", \"moyen\" ou \"faible\" pour la toxicité, le coût énergétique de production et la perte d'eau pendant l'excétion, quelle affirmation compare avec précision ces propriétés ?",
+      "de": "Basierend auf dem \"Lerntipp\", der vorschlägt, stickstoffhaltige Abfälle nach \"hoch\", \"mittel\" oder \"niedrig\" für Toxizität, Energieaufwand für die Produktion und Wasserverlust während der Ausscheidung zu kategorisieren, welche Aussage vergleicht diese Eigenschaften genau?",
+      "ja": "「学習のヒント」で提案されている、窒素性廃棄物を毒性、生産エネルギーコスト、排泄中の水分損失について「高」「中」「低」で分類する考え方に基づいて、これらの性質を正確に比較している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Ammonia typically requires the lowest energy cost to produce, but results in the highest water loss during excretion.",
+          "zh": "氨通常需要最低的生产能耗，但排泄过程中会导致最高的失水。",
+          "es": "El amoníaco generalmente requiere el menor costo energético de producción, pero resulta en la mayor pérdida de agua durante la excreción.",
+          "fr": "L'ammoniac nécessite généralement le coût énergétique de production le plus faible, mais entraîne la perte d'eau la plus élevée lors de l'excrétion.",
+          "de": "Ammoniak erfordert typischerweise den geringsten Energieaufwand für die Produktion, führt aber zum höchsten Wasserverlust während der Ausscheidung.",
+          "ja": "アンモニアは通常、生産に最も低いエネルギーコストしかかかりませんが、排泄中に最も高い水分損失をもたらします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Uric acid is generally the most toxic, requiring significant dilution and thus high water loss.",
+          "zh": "尿酸通常毒性最高，需要大量稀释，因此失水高。",
+          "es": "El ácido úrico es generalmente el más tóxico, requiriendo una dilución significativa y, por lo tanto, una alta pérdida de agua.",
+          "fr": "L'acide urique est généralement le plus toxique, nécessitant une dilution significative et donc une perte d'eau élevée.",
+          "de": "Harnsäure ist im Allgemeinen am toxischsten, erfordert eine erhebliche Verdünnung und somit einen hohen Wasserverlust.",
+          "ja": "尿酸は一般的に最も毒性が高く、大量の希釈が必要なため、水分損失が大きいです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Urea represents a compromise, being less toxic than ammonia but more costly to produce than uric acid.",
+          "zh": "尿素代表一种折衷，其毒性低于氨，但生产成本高于尿酸。",
+          "es": "La urea representa un compromiso, siendo menos tóxica que el amoníaco pero más costosa de producir que el ácido úrico.",
+          "fr": "L'urée représente un compromis, étant moins toxique que l'ammoniac mais plus coûteuse à produire que l'acide urique.",
+          "de": "Harnstoff stellt einen Kompromiss dar, ist weniger toxisch als Ammoniak, aber teurer in der Produktion als Harnsäure.",
+          "ja": "尿素は妥協点であり、アンモニアより毒性は低いですが、尿酸より生産コストが高いです。"
+        },
+        "feedback": {
+          "en": "Urea is less toxic than ammonia, true, but it is *less* costly to produce than uric acid, not more. Uric acid is energetically the most expensive to synthesize.",
+          "zh": "尿素毒性确实低于氨，但其生产成本*低于*尿酸，而非更高。尿酸在能量上是合成成本最高的。",
+          "es": "La urea es menos tóxica que el amoníaco, lo cual es cierto, pero es *menos* costosa de producir que el ácido úrico, no más. El ácido úrico es energéticamente el más caro de sintetizar.",
+          "fr": "L'urée est moins toxique que l'ammoniac, c'est vrai, mais elle est *moins* coûteuse à produire que l'acide urique, et non plus. L'acide urique est énergétiquement le plus cher à synthétiser.",
+          "de": "Harnstoff ist weniger toxisch als Ammoniak, das stimmt, aber er ist *weniger* kostspielig in der Produktion als Harnsäure, nicht mehr. Harnsäure ist energetisch am teuersten zu synthetisieren.",
+          "ja": "尿素はアンモニアより毒性は低いですが、尿酸より生産コストは*低い*です。尿酸はエネルギー的に合成するのに最も高価です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Organisms excreting uric acid are typically aquatic, due to the high solubility of this compound.",
+          "zh": "排泄尿酸的生物通常是水生的，因为这种化合物溶解度高。",
+          "es": "Los organismos que excretan ácido úrico son típicamente acuáticos, debido a la alta solubilidad de este compuesto.",
+          "fr": "Les organismes excrétant de l'acide urique sont généralement aquatiques, en raison de la haute solubilité de ce composé.",
+          "de": "Organismen, die Harnsäure ausscheiden, sind typischerweise aquatisch, aufgrund der hohen Löslichkeit dieser Verbindung.",
+          "ja": "尿酸を排泄する生物は、この化合物の溶解度が高いため、通常は水生です。"
+        },
+        "feedback": {
+          "en": "Uric acid is largely insoluble and requires very little water for excretion, making it ideal for terrestrial or arid-adapted animals, not aquatic ones. Aquatic animals typically excrete ammonia.",
+          "zh": "尿酸基本不溶于水，排泄所需水分极少，因此非常适合陆生或适应干旱环境的动物，而非水生动物。水生动物通常排泄氨。",
+          "es": "El ácido úrico es en gran parte insoluble y requiere muy poca agua para su excreción, lo que lo hace ideal para animales terrestres o adaptados a ambientes áridos, no acuáticos. Los animales acuáticos suelen excretar amoníaco.",
+          "fr": "L'acide urique est largement insoluble et nécessite très peu d'eau pour son excrétion, ce qui le rend idéal pour les animaux terrestres ou adaptés aux environnements arides, et non aquatiques. Les animaux aquatiques excrètent généralement de l'ammoniac.",
+          "de": "Harnsäure ist weitgehend unlöslich und erfordert sehr wenig Wasser für die Ausscheidung, wodurch sie ideal für Land- oder an trockene Umgebungen angepasste Tiere ist, nicht für aquatische. Aquatische Tiere scheiden typischerweise Ammoniak aus.",
+          "ja": "尿酸は大部分が不溶性で、排泄にはごく少量の水しか必要としないため、陸生動物や乾燥地に適応した動物に理想的であり、水生動物には適していません。水生動物は通常アンモニアを排泄します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Ammonia is the most toxic nitrogenous waste and thus requires a large amount of water for dilution and excretion, making it common in aquatic animals. However, its synthesis requires very little energy. Urea is less toxic than ammonia and requires moderate water for excretion, serving as a compromise for many terrestrial vertebrates. Its production is more energy-intensive than ammonia but less than uric acid. Uric acid is the least toxic and requires the least water for excretion due to its low solubility, making it suitable for animals in arid environments (e.g., birds, reptiles, insects). Its synthesis is the most energetically costly.",
+      "zh": "氨是毒性最强的含氮废物，因此需要大量水进行稀释和排泄，这在水生动物中很常见。然而，它的合成能耗非常低。尿素毒性低于氨，排泄需要中等量的水，是许多陆生脊椎动物的折衷选择。其生产比氨更耗能，但比尿酸低。尿酸毒性最低，且因溶解度低而排泄所需水分最少，适用于干旱环境中的动物（例如鸟类、爬行动物、昆虫）。其合成能耗最高。",
+      "es": "El amoníaco es el desecho nitrogenado más tóxico y, por lo tanto, requiere una gran cantidad de agua para su dilución y excreción, lo que lo hace común en animales acuáticos. Sin embargo, su síntesis requiere muy poca energía. La urea es menos tóxica que el amoníaco y requiere una cantidad moderada de agua para su excreción, sirviendo como un compromiso para muchos vertebrados terrestres. Su producción es más intensiva en energía que el amoníaco pero menos que el ácido úrico. El ácido úrico es el menos tóxico y requiere la menor cantidad de agua para su excreción debido a su baja solubilidad, lo que lo hace adecuado para animales en ambientes áridos (ej. aves, reptiles, insectos). Su síntesis es la más costosa energéticamente.",
+      "fr": "L'ammoniac est le déchet azoté le plus toxique et nécessite donc une grande quantité d'eau pour sa dilution et son excrétion, ce qui le rend courant chez les animaux aquatiques. Cependant, sa synthèse ne demande que très peu d'énergie. L'urée est moins toxique que l'ammoniac et nécessite une quantité modérée d'eau pour son excrétion, servant de compromis pour de nombreux vertébrés terrestres. Sa production est plus énergivore que celle de l'ammoniac mais moins que celle de l'acide urique. L'acide urique est le moins toxique et nécessite le moins d'eau pour son excrétion en raison de sa faible solubilité, ce qui le rend adapté aux animaux des environnements arides (ex. oiseaux, reptiles, insectes). Sa synthèse est la plus coûteuse énergétiquement.",
+      "de": "Ammoniak ist der toxischste stickstoffhaltige Abfall und erfordert daher eine große Menge Wasser zur Verdünnung und Ausscheidung, was bei Wassertieren üblich ist. Seine Synthese erfordert jedoch sehr wenig Energie. Harnstoff ist weniger toxisch als Ammoniak und erfordert mäßig viel Wasser zur Ausscheidung, was für viele terrestrische Wirbeltiere einen Kompromiss darstellt. Seine Produktion ist energieintensiver als Ammoniak, aber weniger als Harnsäure. Harnsäure ist am wenigsten toxisch und erfordert aufgrund ihrer geringen Löslichkeit am wenigsten Wasser zur Ausscheidung, wodurch sie für Tiere in trockenen Umgebungen (z. B. Vögel, Reptilien, Insekten) geeignet ist. Ihre Synthese ist energetisch am aufwendigsten.",
+      "ja": "アンモニアは最も毒性の高い窒素性廃棄物であり、希釈と排泄に大量の水を必要とするため、水生動物によく見られます。しかし、その合成にはごくわずかなエネルギーしか必要としません。尿素はアンモニアよりも毒性が低く、排泄に中程度の水を必要とし、多くの陸生脊椎動物にとって妥協点となります。その生産はアンモニアよりもエネルギー集約型ですが、尿酸よりは低いです。尿酸は最も毒性が低く、溶解度が低いため排泄に最も少ない水しか必要とせず、乾燥環境の動物（例：鳥類、爬虫類、昆虫）に適しています。その合成はエネルギー的に最も高価です。"
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 401,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes a step or component involved in the initiation of translation, as illustrated and described in the provided text and Figure 17.19?",
+      "zh": "以下哪项陈述准确描述了翻译起始过程中所涉及的一个步骤或组成部分，如所提供的文本和图 17.19 所示？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión un paso o componente involucrado en el inicio de la traducción, como se ilustra y describe en el texto proporcionado y la Figura 17.19?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision une étape ou un composant impliqué dans l'initiation de la traduction, tel qu'illustré et décrit dans le texte fourni et la Figure 17.19 ?",
+      "de": "Welche der folgenden Aussagen beschreibt einen Schritt oder eine Komponente, die an der Initiierung der Translation beteiligt ist, wie im bereitgestellten Text und in Abbildung 17.19 illustriert und beschrieben, genau?",
+      "ja": "以下の記述のうち、提供されたテキストと図 17.19 に示され、記述されている翻訳開始の段階または構成要素を正確に説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "In bacteria, the mRNA binding site on the small ribosomal subunit recognizes a specific nucleotide sequence *downstream* of the start codon.",
+          "zh": "在细菌中，小核糖体亚基上的 mRNA 结合位点识别起始密码子*下游*的特定核苷酸序列。",
+          "es": "En bacterias, el sitio de unión al ARNm en la subunidad ribosomal pequeña reconoce una secuencia de nucleótidos específica *corriente abajo* del codón de inicio.",
+          "fr": "Chez les bactéries, le site de liaison à l'ARNm sur la petite sous-unité ribosomale reconnaît une séquence nucléotidique spécifique *en aval* du codon d'initiation.",
+          "de": "Bei Bakterien erkennt die mRNA-Bindungsstelle an der kleinen ribosomalen Untereinheit eine spezifische Nukleotidsequenz *stromabwärts* des Startcodons.",
+          "ja": "バクテリアにおいて、小リボソームサブユニット上のmRNA結合部位は、開始コドン*下流*の特定のヌクレオチド配列を認識します。"
+        },
+        "feedback": {
+          "en": "The text states that in bacteria, the mRNA binding site recognizes a specific nucleotide sequence *upstream* of the start codon.",
+          "zh": "文本指出，在细菌中，mRNA 结合位点识别起始密码子*上游*的特定核苷酸序列。",
+          "es": "El texto indica que en bacterias, el sitio de unión al ARNm reconoce una secuencia de nucleótidos específica *corriente arriba* del codón de inicio.",
+          "fr": "Le texte indique que chez les bactéries, le site de liaison à l'ARNm reconnaît une séquence nucléotidique spécifique *en amont* du codon d'initiation.",
+          "de": "Der Text besagt, dass bei Bakterien die mRNA-Bindungsstelle eine spezifische Nukleotidsequenz *stromaufwärts* des Startcodons erkennt.",
+          "ja": "テキストには、バクテリアにおいてmRNA結合部位が開始コドン*上流*の特定のヌクレオチド配列を認識すると記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The initiator tRNA carries the amino acid methionine and its anticodon (UAC) base-pairs with the AUG start codon.",
+          "zh": "起始 tRNA 携带氨基酸甲硫氨酸，其反密码子（UAC）与 AUG 起始密码子碱基配对。",
+          "es": "El ARNt iniciador transporta el aminoácido metionina y su anticodón (UAC) se aparea con el codón de inicio AUG.",
+          "fr": "L'ARNt initiateur transporte l'acide aminé méthionine et son anticodon (UAC) s'apparie par complémentarité avec le codon d'initiation AUG.",
+          "de": "Die Initiator-tRNA trägt die Aminosäure Methionin und ihr Anticodon (UAC) paart sich mit dem AUG-Startcodon.",
+          "ja": "開始tRNAはアミノ酸メチオニンを運び、そのアンチコドン（UAC）はAUG開始コドンと塩基対を形成します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The formation of the translation initiation complex is completed by the attachment of the large ribosomal subunit *before* the small ribosomal subunit binds to mRNA.",
+          "zh": "翻译起始复合物的形成是通过大核糖体亚基的附着来完成的，而大亚基的附着发生在小核糖体亚基与 mRNA 结合*之前*。",
+          "es": "La formación del complejo de iniciación de la traducción se completa con la unión de la subunidad ribosomal grande *antes* de que la subunidad ribosomal pequeña se una al ARNm.",
+          "fr": "La formation du complexe d'initiation de la traduction est achevée par la fixation de la grande sous-unité ribosomale *avant* que la petite sous-unité ribosomale ne se lie à l'ARNm.",
+          "de": "Die Bildung des Translationsinitiationskomplexes wird durch die Anlagerung der großen ribosomalen Untereinheit *bevor* die kleine ribosomale Untereinheit an die mRNA bindet, abgeschlossen.",
+          "ja": "翻訳開始複合体の形成は、大リボソームサブユニットがmRNAに結合する*前*に小リボソームサブユニットがmRNAに結合することで完了します。"
+        },
+        "feedback": {
+          "en": "The text states that the small ribosomal subunit binds to the mRNA first, followed by the attachment of the large ribosomal subunit.",
+          "zh": "文本指出，小核糖体亚基首先与 mRNA 结合，随后才是大核糖体亚基的附着。",
+          "es": "El texto indica que la subunidad ribosomal pequeña se une primero al ARNm, seguida de la unión de la subunidad ribosomal grande.",
+          "fr": "Le texte indique que la petite sous-unité ribosomale se lie d'abord à l'ARNm, suivie de la fixation de la grande sous-unité ribosomale.",
+          "de": "Der Text besagt, dass die kleine ribosomale Untereinheit zuerst an die mRNA bindet, gefolgt von der Anlagerung der großen ribosomalen Untereinheit.",
+          "ja": "テキストには、まず小リボソームサブユニットがmRNAに結合し、その後に大リボソームサブユニットが結合すると記載されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Hydrolysis of ATP provides the energy for the assembly of the translation initiation complex.",
+          "zh": "ATP 水解为翻译起始复合物的组装提供能量。",
+          "es": "La hidrólisis de ATP proporciona la energía para el ensamblaje del complejo de iniciación de la traducción.",
+          "fr": "L'hydrolyse de l'ATP fournit l'énergie nécessaire à l'assemblage du complexe d'initiation de la traduction.",
+          "de": "Die Hydrolyse von ATP liefert die Energie für den Aufbau des Translationsinitiationskomplexes.",
+          "ja": "ATPの加水分解が翻訳開始複合体の組み立てにエネルギーを供給します。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that hydrolysis of *GTP* provides the energy for the assembly of the initiation complex.",
+          "zh": "文本明确指出，是 *GTP* 的水解为起始复合物的组装提供能量。",
+          "es": "El texto indica explícitamente que la hidrólisis de *GTP* proporciona la energía para el ensamblaje del complejo de iniciación.",
+          "fr": "Le texte indique explicitement que l'hydrolyse du *GTP* fournit l'énergie nécessaire à l'assemblage du complexe d'initiation.",
+          "de": "Der Text besagt ausdrücklich, dass die Hydrolyse von *GTP* die Energie für den Aufbau des Initiationskomplexes liefert.",
+          "ja": "テキストには、開始複合体の組み立てにエネルギーを供給するのは*GTP*の加水分解であると明記されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The initiation of translation involves several key steps. The initiator tRNA carries methionine and its anticodon (UAC) base-pairs with the AUG start codon on the mRNA. In bacterial cells, the small ribosomal subunit binds to a specific sequence *upstream* of the start codon on the mRNA. The formation of the complete initiation complex requires the sequential attachment of the small and then the large ribosomal subunits, and this process is fueled by the hydrolysis of GTP, not ATP.",
+      "zh": "翻译的起始涉及几个关键步骤。起始 tRNA 携带甲硫氨酸，其反密码子（UAC）与 mRNA 上的 AUG 起始密码子碱基配对。在细菌细胞中，小核糖体亚基与 mRNA 上起始密码子*上游*的特定序列结合。完整的起始复合物的形成需要小核糖体亚基先附着，然后是大核糖体亚基的附着，这个过程由 GTP 的水解提供能量，而不是 ATP。",
+      "es": "El inicio de la traducción implica varios pasos clave. El ARNt iniciador transporta metionina y su anticodón (UAC) se aparea con el codón de inicio AUG en el ARNm. En las células bacterianas, la subunidad ribosomal pequeña se une a una secuencia específica *corriente arriba* del codón de inicio en el ARNm. La formación del complejo de iniciación completo requiere la unión secuencial de la subunidad ribosomal pequeña y luego la subunidad ribosomal grande, y este proceso es impulsado por la hidrólisis de GTP, no de ATP.",
+      "fr": "L'initiation de la traduction implique plusieurs étapes clés. L'ARNt initiateur transporte la méthionine et son anticodon (UAC) s'apparie par complémentarité avec le codon d'initiation AUG sur l'ARNm. Dans les cellules bactériennes, la petite sous-unité ribosomale se lie à une séquence spécifique *en amont* du codon d'initiation sur l'ARNm. La formation du complexe d'initiation complet nécessite la fixation séquentielle des petites puis grandes sous-unités ribosomales, et ce processus est alimenté par l'hydrolyse du GTP, et non de l'ATP.",
+      "de": "Die Initiierung der Translation umfasst mehrere wichtige Schritte. Die Initiator-tRNA trägt Methionin, und ihr Anticodon (UAC) paart sich mit dem AUG-Startcodon auf der mRNA. In Bakterienzellen bindet die kleine ribosomale Untereinheit an eine spezifische Sequenz *stromaufwärts* des Startcodons auf der mRNA. Die Bildung des vollständigen Initiationskomplexes erfordert die sequentielle Anlagerung der kleinen und dann der großen ribosomalen Untereinheiten, und dieser Prozess wird durch die Hydrolyse von GTP, nicht ATP, angetrieben.",
+      "ja": "翻訳の開始にはいくつかの重要なステップがあります。開始tRNAはメチオニンを運び、そのアンチコドン（UAC）はmRNA上のAUG開始コドンと塩基対を形成します。細菌細胞では、小リボソームサブユニットがmRNA上の開始コドン*上流*の特定の配列に結合します。完全な開始複合体の形成には、小リボソームサブユニットが先に結合し、次に大リボソームサブユニットが結合する必要があります。このプロセスはATPではなくGTPの加水分解によってエネルギー供給されます。"
+    }
+  },
+  {
+    "page_number": 401,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which statement accurately describes aspects of polypeptide chain elongation during translation?",
+      "zh": "关于翻译过程中多肽链延伸的方面，哪项陈述是准确的？",
+      "es": "¿Qué afirmación describe con precisión los aspectos de la elongación de la cadena polipeptídica durante la traducción?",
+      "fr": "Quelle affirmation décrit avec précision les aspects de l'élongation de la chaîne polypeptidique pendant la traduction ?",
+      "de": "Welche Aussage beschreibt die Aspekte der Polypeptidkettenverlängerung während der Translation genau?",
+      "ja": "翻訳中のポリペプチド鎖伸長に関する記述として、正確なものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Amino acids are added one by one to the N-terminus of the growing chain.",
+          "zh": "氨基酸一个接一个地添加到生长中链的 N-末端。",
+          "es": "Los aminoácidos se añaden uno a uno al extremo N de la cadena en crecimiento.",
+          "fr": "Les acides aminés sont ajoutés un par un à l'extrémité N-terminale de la chaîne en croissance.",
+          "de": "Aminosäuren werden einzeln an das N-Terminus der wachsenden Kette angefügt.",
+          "ja": "アミノ酸は成長中の鎖のN末端に一つずつ追加されます。"
+        },
+        "feedback": {
+          "en": "Polypeptide synthesis occurs from the N-terminus toward the C-terminus, meaning amino acids are added to the C-terminus of the growing chain.",
+          "zh": "多肽合成是从 N-末端向 C-末端进行的，这意味着氨基酸是添加到生长中链的 C-末端。",
+          "es": "La síntesis de polipéptidos ocurre desde el extremo N hacia el extremo C, lo que significa que los aminoácidos se añaden al extremo C de la cadena en crecimiento.",
+          "fr": "La synthèse des polypeptides se produit de l'extrémité N-terminale vers l'extrémité C-terminale, ce qui signifie que les acides aminés sont ajoutés à l'extrémité C-terminale de la chaîne en croissance.",
+          "de": "Die Polypeptidsynthese erfolgt vom N-Terminus zum C-Terminus, d.h. Aminosäuren werden an das C-Terminus der wachsenden Kette angefügt.",
+          "ja": "ポリペプチド合成はN末端からC末端に向かって行われるため、アミノ酸は成長中の鎖のC末端に追加されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The mRNA is moved through the ribosome in a 3' to 5' direction.",
+          "zh": "mRNA 以 3' 到 5' 的方向通过核糖体。",
+          "es": "El ARNm se mueve a través del ribosoma en dirección 3' a 5'.",
+          "fr": "L'ARNm se déplace à travers le ribosome dans le sens 3' vers 5'.",
+          "de": "Die mRNA bewegt sich im Ribosom in 3'-nach-5'-Richtung.",
+          "ja": "mRNAはリボソーム内を3'から5'の方向に移動します。"
+        },
+        "feedback": {
+          "en": "The text states that the mRNA is moved through the ribosome in a 5' end first direction, which is equivalent to the ribosome moving 5' -> 3' on the mRNA.",
+          "zh": "文本指出 mRNA 以 5' 端在前的方式通过核糖体，这相当于核糖体在 mRNA 上沿 5' -> 3' 方向移动。",
+          "es": "El texto indica que el ARNm se mueve a través del ribosoma primero por el extremo 5', lo que es equivalente a que el ribosoma se mueva de 5' a 3' sobre el ARNm.",
+          "fr": "Le texte indique que l'ARNm se déplace à travers le ribosome en commençant par l'extrémité 5', ce qui équivaut à un mouvement du ribosome de 5' vers 3' sur l'ARNm.",
+          "de": "Der Text besagt, dass die mRNA 5'-Ende zuerst durch das Ribosom bewegt wird, was der Bewegung des Ribosoms von 5' nach 3' auf der mRNA entspricht.",
+          "ja": "テキストには、mRNAは5'端が最初になるようにリボソーム内を移動すると記載されており、これはリボソームがmRNA上を5'から3'の方向に移動するのと同等です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Energy for codon recognition and translocation during elongation is primarily provided by the hydrolysis of GTP.",
+          "zh": "延伸过程中密码子识别和易位所需的能量主要由 GTP 水解提供。",
+          "es": "La energía para el reconocimiento de codones y la translocación durante la elongación es proporcionada principalmente por la hidrólisis de GTP.",
+          "fr": "L'énergie pour la reconnaissance des codons et la translocation pendant l'élongation est principalement fournie par l'hydrolyse du GTP.",
+          "de": "Die Energie für die Codon-Erkennung und Translokation während der Elongation wird hauptsächlich durch die Hydrolyse von GTP bereitgestellt.",
+          "ja": "伸長中のコドン認識と転座のためのエネルギーは、主にGTPの加水分解によって供給されます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The entire elongation cycle in bacteria takes approximately one second per amino acid added.",
+          "zh": "细菌中整个延伸周期每添加一个氨基酸大约需要一秒钟。",
+          "es": "El ciclo de elongación completo en bacterias tarda aproximadamente un segundo por cada aminoácido añadido.",
+          "fr": "Le cycle d'élongation entier chez les bactéries dure environ une seconde par acide aminé ajouté.",
+          "de": "Der gesamte Elongationszyklus bei Bakterien dauert ungefähr eine Sekunde pro hinzugefügter Aminosäure.",
+          "ja": "バクテリアにおける伸長サイクルの全体は、追加されるアミノ酸ごとに約1秒かかります。"
+        },
+        "feedback": {
+          "en": "The text states that the elongation cycle takes less than a tenth of a second in bacteria.",
+          "zh": "文本指出，细菌中的延伸周期不到十分之一秒。",
+          "es": "El texto indica que el ciclo de elongación en bacterias tarda menos de una décima de segundo.",
+          "fr": "Le texte indique que le cycle d'élongation prend moins d'un dixième de seconde chez les bactéries.",
+          "de": "Der Text besagt, dass der Elongationszyklus bei Bakterien weniger als eine Zehntelsekunde dauert.",
+          "ja": "テキストには、バクテリアにおける伸長サイクルは10分の1秒未満であると記載されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "During elongation, amino acids are added to the C-terminus of the growing polypeptide chain. The mRNA moves through the ribosome in a 5' end first manner. Both codon recognition and translocation steps require energy, which is provided by the hydrolysis of GTP. In bacteria, the elongation cycle is very rapid, taking less than a tenth of a second per amino acid addition.",
+      "zh": "在延伸过程中，氨基酸被添加到生长中的多肽链的 C-末端。mRNA 以 5' 端在前的方式通过核糖体。密码子识别和易位步骤都需要能量，这些能量由 GTP 的水解提供。在细菌中，延伸周期非常迅速，每次添加氨基酸不到十分之一秒。",
+      "es": "Durante la elongación, los aminoácidos se añaden al extremo C de la cadena polipeptídica en crecimiento. El ARNm se mueve a través del ribosoma con el extremo 5' primero. Tanto el reconocimiento del codón como los pasos de translocación requieren energía, la cual es proporcionada por la hidrólisis de GTP. En bacterias, el ciclo de elongación es muy rápido, tomando menos de una décima de segundo por cada adición de aminoácido.",
+      "fr": "Pendant l'élongation, les acides aminés sont ajoutés à l'extrémité C-terminale de la chaîne polypeptidique en croissance. L'ARNm se déplace à travers le ribosome en commençant par l'extrémité 5'. La reconnaissance des codons et les étapes de translocation nécessitent de l'énergie, qui est fournie par l'hydrolyse du GTP. Chez les bactéries, le cycle d'élongation est très rapide, prenant moins d'un dixième de seconde par addition d'acide aminé.",
+      "de": "Während der Elongation werden Aminosäuren an das C-Terminus der wachsenden Polypeptidkette angefügt. Die mRNA bewegt sich mit dem 5'-Ende zuerst durch das Ribosom. Sowohl die Codon-Erkennung als auch die Translokationsschritte erfordern Energie, die durch die Hydrolyse von GTP bereitgestellt wird. Bei Bakterien ist der Elongationszyklus sehr schnell und dauert weniger als eine Zehntelsekunde pro Aminosäureaddition.",
+      "ja": "伸長中、アミノ酸は成長中のポリペプチド鎖のC末端に追加されます。mRNAは5'末端が先になるようにリボソーム内を移動します。コドン認識と転座の両方のステップにはエネルギーが必要であり、これはGTPの加水分解によって供給されます。バクテリアでは、伸長サイクルは非常に速く、アミノ酸の追加ごとに10分の1秒未満です。"
+    }
+  },
+  {
+    "page_number": 401,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which of the following is an accurate description of the termination of translation?",
+      "zh": "以下哪项准确描述了翻译的终止？",
+      "es": "¿Cuál de las siguientes es una descripción precisa de la terminación de la traducción?",
+      "fr": "Laquelle des affirmations suivantes est une description précise de la terminaison de la traduction ?",
+      "de": "Welche der folgenden Aussagen beschreibt die Beendigung der Translation genau?",
+      "ja": "以下のうち、翻訳の終結を正確に記述しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Stop codons (UAG, UAA, UGA) code for specific amino acids that signal the end of translation.",
+          "zh": "终止密码子（UAG、UAA、UGA）编码特定的氨基酸，这些氨基酸发出翻译结束的信号。",
+          "es": "Los codones de parada (UAG, UAA, UGA) codifican aminoácidos específicos que señalan el final de la traducción.",
+          "fr": "Les codons stop (UAG, UAA, UGA) codent pour des acides aminés spécifiques qui signalent la fin de la traduction.",
+          "de": "Stoppcodons (UAG, UAA, UGA) codieren für spezifische Aminosäuren, die das Ende der Translation signalisieren.",
+          "ja": "終止コドン（UAG、UAA、UGA）は、翻訳の終了を合図する特定のアミノ酸をコードします。"
+        },
+        "feedback": {
+          "en": "Stop codons do not code for any amino acids; they act as signals to stop translation.",
+          "zh": "终止密码子不编码任何氨基酸；它们是停止翻译的信号。",
+          "es": "Los codones de parada no codifican ningún aminoácido; actúan como señales para detener la traducción.",
+          "fr": "Les codons stop ne codent pour aucun acide aminé ; ils agissent comme des signaux pour arrêter la traduction.",
+          "de": "Stoppcodons codieren keine Aminosäuren; sie dienen als Signale zur Beendigung der Translation.",
+          "ja": "終止コドンはアミノ酸をコードせず、翻訳停止の信号として機能します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A release factor, which is a protein shaped like an aminoacyl tRNA, binds directly to the stop codon in the A site.",
+          "zh": "释放因子是一种形状类似氨酰 tRNA 的蛋白质，它直接结合到 A 位点的终止密码子。",
+          "es": "Un factor de liberación, que es una proteína con forma de ARNt aminoacilado, se une directamente al codón de parada en el sitio A.",
+          "fr": "Un facteur de libération, qui est une protéine dont la forme ressemble à celle d'un ARNt aminoacylé, se lie directement au codon stop dans le site A.",
+          "de": "Ein Freisetzungsfaktor, ein Protein, das wie eine Aminoacyl-tRNA geformt ist, bindet direkt an das Stoppcodon in der A-Stelle.",
+          "ja": "アミノアシルtRNAのような形をしたタンパク質であるリリース因子が、A部位の終止コドンに直接結合します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Termination involves the addition of a hydroxyl group to the polypeptide chain, releasing it from the tRNA in the P site.",
+          "zh": "终止涉及向多肽链添加一个羟基，使其从 P 位点的 tRNA 上释放。",
+          "es": "La terminación implica la adición de un grupo hidroxilo a la cadena polipeptídica, liberándola del ARNt en el sitio P.",
+          "fr": "La terminaison implique l'ajout d'un groupe hydroxyle à la chaîne polypeptidique, la libérant de l'ARNt au site P.",
+          "de": "Die Beendigung beinhaltet die Addition einer Hydroxylgruppe an die Polypeptidkette, wodurch diese von der tRNA an der P-Stelle freigesetzt wird.",
+          "ja": "終結は、ポリペプチド鎖にヒドロキシル基を追加し、P部位のtRNAからそれを放出することを含みます。"
+        },
+        "feedback": {
+          "en": "Termination involves the addition of a *water molecule* (hydrolysis), not a hydroxyl group, which cleaves the bond between the polypeptide and the tRNA.",
+          "zh": "终止涉及添加一个*水分子*（水解），而不是羟基，水分子会切断多肽与 tRNA 之间的键。",
+          "es": "La terminación implica la adición de una *molécula de agua* (hidrólisis), no un grupo hidroxilo, que rompe el enlace entre el polipéptido y el ARNt.",
+          "fr": "La terminaison implique l'ajout d'une *molécule d'eau* (hydrolyse), et non d'un groupe hydroxyle, ce qui clive la liaison entre le polypeptide et l'ARNt.",
+          "de": "Die Beendigung beinhaltet die Addition eines *Wassermoleküls* (Hydrolyse), nicht einer Hydroxylgruppe, das die Bindung zwischen dem Polypeptid und der tRNA spaltet.",
+          "ja": "終結は、ヒドロキシル基ではなく*水分子*の追加（加水分解）を含み、これによりポリペプチドとtRNA間の結合が切断されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Breakdown of the translation assembly requires the hydrolysis of only one GTP molecule.",
+          "zh": "翻译组装体的分解仅需要水解一个 GTP 分子。",
+          "es": "La desintegración del ensamblaje de traducción requiere la hidrólisis de un solo GTP.",
+          "fr": "La décomposition de l'assemblage de traduction ne nécessite l'hydrolyse que d'une seule molécule de GTP.",
+          "de": "Der Abbau des Translations-Assemblats erfordert die Hydrolyse von nur einem GTP-Molekül.",
+          "ja": "翻訳複合体の分解には、GTP分子1つの加水分解のみが必要です。"
+        },
+        "feedback": {
+          "en": "The text states that the breakdown of the translation assembly requires the hydrolysis of *two more* GTP molecules.",
+          "zh": "文本指出，翻译组装体的分解需要水解*另外两个* GTP 分子。",
+          "es": "El texto indica que la desintegración del ensamblaje de traducción requiere la hidrólisis de *dos* moléculas de GTP *adicionales*.",
+          "fr": "Le texte indique que la décomposition de l'assemblage de traduction nécessite l'hydrolyse de *deux molécules de GTP supplémentaires*.",
+          "de": "Der Text besagt, dass der Abbau des Translations-Assemblats die Hydrolyse von *zwei weiteren* GTP-Molekülen erfordert.",
+          "ja": "テキストには、翻訳複合体の分解には*さらに2つ*のGTP分子の加水分解が必要であると記載されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Termination of translation occurs when a stop codon (UAG, UAA, or UGA) enters the A site. These codons do not code for amino acids. Instead, a release factor, a protein resembling an aminoacyl tRNA, binds to the stop codon. This binding leads to the addition of a water molecule to the polypeptide chain, hydrolyzing the bond between the polypeptide and the tRNA in the P site, thereby releasing the completed polypeptide. The subsequent breakdown of the translation assembly requires the hydrolysis of two additional GTP molecules.",
+      "zh": "当终止密码子（UAG、UAA 或 UGA）进入 A 位点时，翻译终止。这些密码子不编码氨基酸。相反，一个形状类似氨酰 tRNA 的释放因子会结合到终止密码子。这种结合导致向多肽链添加一个水分子，水解多肽与 P 位点 tRNA 之间的键，从而释放已完成的多肽。随后翻译组装体的分解需要额外水解两个 GTP 分子。",
+      "es": "La terminación de la traducción ocurre cuando un codón de parada (UAG, UAA o UGA) entra en el sitio A. Estos codones no codifican aminoácidos. En su lugar, un factor de liberación, una proteína que se asemeja a un ARNt aminoacilado, se une al codón de parada. Esta unión conduce a la adición de una molécula de agua a la cadena polipeptídica, hidrolizando el enlace entre el polipéptido y el ARNt en el sitio P, liberando así el polipéptido completado. La posterior desintegración del ensamblaje de traducción requiere la hidrólisis de dos moléculas adicionales de GTP.",
+      "fr": "La terminaison de la traduction se produit lorsqu'un codon stop (UAG, UAA ou UGA) entre dans le site A. Ces codons ne codent pas pour des acides aminés. Au lieu de cela, un facteur de libération, une protéine ressemblant à un ARNt aminoacylé, se lie au codon stop. Cette liaison entraîne l'ajout d'une molécule d'eau à la chaîne polypeptidique, hydrolysant la liaison entre le polypeptide et l'ARNt au site P, libérant ainsi le polypeptide achevé. La décomposition ultérieure de l'assemblage de traduction nécessite l'hydrolyse de deux molécules de GTP supplémentaires.",
+      "de": "Die Beendigung der Translation tritt ein, wenn ein Stoppcodon (UAG, UAA oder UGA) in die A-Stelle gelangt. Diese Codons codieren keine Aminosäuren. Stattdessen bindet ein Freisetzungsfaktor, ein Protein, das einer Aminoacyl-tRNA ähnelt, an das Stoppcodon. Diese Bindung führt zur Addition eines Wassermoleküls an die Polypeptidkette, wodurch die Bindung zwischen dem Polypeptid und der tRNA an der P-Stelle hydrolysiert und somit das fertiggestellte Polypeptid freigesetzt wird. Der anschließende Abbau des Translations-Assemblats erfordert die Hydrolyse von zwei weiteren GTP-Molekülen.",
+      "ja": "翻訳の終結は、終止コドン（UAG、UAA、またはUGA）がA部位に入ると発生します。これらのコドンはアミノ酸をコードしません。代わりに、アミノアシルtRNAに似たタンパク質であるリリース因子が終止コドンに結合します。この結合により、ポリペプチド鎖に水分子が追加され、P部位のポリペプチドとtRNA間の結合が加水分解され、完成したポリペプチドが放出されます。その後の翻訳複合体の分解には、さらに2つのGTP分子の加水分解が必要です。"
+    }
+  }
+]

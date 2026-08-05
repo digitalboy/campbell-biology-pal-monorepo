@@ -1,0 +1,364 @@
+[
+  {
+    "page_number": 223,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 9.12 and the associated text, which statement accurately describes the flow of electrons and the concept of electron affinity in the electron transport chain?",
+      "zh": "根据图 9.12 和相关文本，哪个陈述准确描述了电子在电子传递链中的流动以及电子亲和力的概念？",
+      "es": "Según la Figura 9.12 y el texto asociado, ¿qué afirmación describe con precisión el flujo de electrones y el concepto de afinidad electrónica en la cadena de transporte de electrones?",
+      "fr": "D'après la Figure 9.12 et le texte associé, quelle affirmation décrit avec précision le flux d'électrons et le concept d'affinité électronique dans la chaîne de transport d'électrons ?",
+      "de": "Basierend auf Abbildung 9.12 und dem zugehörigen Text, welche Aussage beschreibt den Elektronenfluss und das Konzept der Elektronenaffinität in der Elektronentransportkette korrekt?",
+      "ja": "図9.12と関連するテキストに基づいて、電子伝達系における電子の流れと電子親和性の概念を正確に記述している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Electrons travel from carriers with higher affinity to those with lower affinity, releasing energy.",
+          "zh": "电子从亲和力较高的载体流向亲和力较低的载体，释放能量。",
+          "es": "Los electrones viajan de transportadores con mayor afinidad a aquellos con menor afinidad, liberando energía.",
+          "fr": "Les électrons voyagent des transporteurs ayant une affinité plus élevée vers ceux ayant une affinité plus faible, libérant de l'énergie.",
+          "de": "Elektronen wandern von Trägern mit höherer Affinität zu solchen mit geringerer Affinität und setzen dabei Energie frei.",
+          "ja": "電子は親和性の高いキャリアから親和性の低いキャリアへと移動し、エネルギーを放出する。"
+        },
+        "feedback": {
+          "en": "Incorrect. Electrons move from lower affinity to higher affinity carriers, like rolling downhill, releasing free energy.",
+          "zh": "不正确。电子从亲和力较低的载体移动到亲和力较高的载体，如同下坡般，释放自由能。",
+          "es": "Incorrecto. Los electrones se mueven de transportadores de menor afinidad a transportadores de mayor afinidad, como rodando cuesta abajo, liberando energía libre.",
+          "fr": "Incorrect. Les électrons se déplacent des transporteurs à affinité plus faible vers ceux à affinité plus élevée, comme en roulant en descente, libérant de l'énergie libre.",
+          "de": "Falsch. Elektronen bewegen sich von Trägern mit geringerer Affinität zu solchen mit höherer Affinität, ähnlich einem Abwärtsrollen, wobei freie Energie freigesetzt wird.",
+          "ja": "誤り。電子は親和性の低いキャリアから親和性の高いキャリアへと移動し、自由エネルギーを放出します。これは坂道を転がり落ちるようなものです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "NADH has the lowest affinity for electrons, and O2 has the highest affinity, driving electron flow down the chain.",
+          "zh": "NADH 对电子的亲和力最低，而 O2 对电子的亲和力最高，这驱动了电子沿着链向下流动。",
+          "es": "El NADH tiene la afinidad más baja por los electrones, y el O2 tiene la afinidad más alta, impulsando el flujo de electrones a lo largo de la cadena.",
+          "fr": "Le NADH a la plus faible affinité pour les électrons, et l'O2 a la plus forte affinité, ce qui entraîne le flux d'électrons le long de la chaîne.",
+          "de": "NADH hat die geringste Affinität für Elektronen, und O2 hat die höchste Affinität, was den Elektronenfluss entlang der Kette antreibt.",
+          "ja": "NADHは電子に対する親和性が最も低く、O2は最も高く、これが電子の流れを鎖に沿って下流に駆動します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Complexes I-IV solely consist of coenzymes, without any protein components.",
+          "zh": "复合体 I-IV 仅由辅酶组成，不含任何蛋白质成分。",
+          "es": "Los complejos I-IV consisten únicamente en coenzimas, sin componentes proteicos.",
+          "fr": "Les complexes I-IV sont uniquement constitués de coenzymes, sans aucun composant protéique.",
+          "de": "Die Komplexe I-IV bestehen ausschließlich aus Coenzymen, ohne jegliche Proteinkomponenten.",
+          "ja": "複合体I-IVは、タンパク質成分を含まず、補酵素のみで構成されています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The overall energy drop for electrons traveling from NADH to oxygen is approximately 40 kcal/mol.",
+          "zh": "电子从 NADH 传递到氧气的总能量下降约为 40 kcal/mol。",
+          "es": "La caída de energía total para los electrones que viajan del NADH al oxígeno es de aproximadamente 40 kcal/mol.",
+          "fr": "La chute d'énergie totale pour les électrons voyageant du NADH à l'oxygène est d'environ 40 kcal/mol.",
+          "de": "Der gesamte Energieabfall für Elektronen, die von NADH zu Sauerstoff wandern, beträgt ungefähr 40 kcal/mol.",
+          "ja": "NADHから酸素へ移動する電子の総エネルギー低下は約40 kcal/molです。"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 9.12 and the accompanying text clearly state that NADH has the lowest affinity for electrons and O2 has the highest affinity (being very electronegative), which drives the 'downhill' flow of electrons. The overall energy drop is 53 kcal/mol, and complexes I-IV consist of multiple proteins with electron carriers, including prosthetic groups like coenzymes, not solely coenzymes.",
+      "zh": "图 9.12 和随附的文本明确指出，NADH 对电子的亲和力最低，而 O2 对电子的亲和力最高（因为它具有很强的电负性），这驱动了电子的“下坡”流动。总能量下降为 53 kcal/mol，复合体 I-IV 由多个含有电子载体（包括辅酶等辅基）的蛋白质组成，而不仅仅是辅酶。",
+      "es": "La Figura 9.12 y el texto adjunto establecen claramente que el NADH tiene la afinidad más baja por los electrones y el O2 tiene la afinidad más alta (siendo muy electronegativo), lo que impulsa el flujo 'cuesta abajo' de electrones. La caída de energía total es de 53 kcal/mol, y los complejos I-IV consisten en múltiples proteínas con transportadores de electrones, incluyendo grupos prostéticos como coenzimas, no solo coenzimas.",
+      "fr": "La Figure 9.12 et le texte l'accompagnant indiquent clairement que le NADH a la plus faible affinité pour les électrons et l'O2 la plus forte affinité (étant très électronégatif), ce qui entraîne le flux 'en descente' des électrons. La chute d'énergie totale est de 53 kcal/mol, et les complexes I-IV sont constitués de multiples protéines avec des transporteurs d'électrons, y compris des groupes prosthétiques comme les coenzymes, et non uniquement des coenzymes.",
+      "de": "Abbildung 9.12 und der begleitende Text besagen eindeutig, dass NADH die geringste Affinität für Elektronen und O2 die höchste Affinität (da es sehr elektronegativ ist) hat, was den 'bergab' gerichteten Elektronenfluss antreibt. Der gesamte Energieabfall beträgt 53 kcal/mol, und die Komplexe I-IV bestehen aus mehreren Proteinen mit Elektronenträgern, einschließlich prosthetischer Gruppen wie Coenzymen, nicht ausschließlich aus Coenzymen.",
+      "ja": "図9.12および付随するテキストは、NADHが電子に対して最も低い親和性を持ち、O2が最も高い親和性を持つ（非常に電気陰性であるため）ことを明確に示しており、これが電子の「下り坂」の流れを駆動します。全体のエネルギー降下は53 kcal/molであり、複合体I-IVは、補酵素などの補欠分子族を含む複数の電子キャリアタンパク質で構成されており、補酵素のみで構成されているわけではありません。"
+    }
+  },
+  {
+    "page_number": 223,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, what is the net ATP yield from glycolysis and the citric acid cycle combined through substrate-level phosphorylation per glucose molecule?",
+      "zh": "根据文本，每个葡萄糖分子通过底物水平磷酸化，糖酵解和柠檬酸循环合计产生的净 ATP 是多少？",
+      "es": "Según el texto, ¿cuál es el rendimiento neto de ATP de la glucólisis y el ciclo del ácido cítrico combinados a través de la fosforilación a nivel de sustrato por molécula de glucosa?",
+      "fr": "Selon le texte, quel est le rendement net en ATP de la glycolyse et du cycle de l'acide citrique combinés par phosphorylation au niveau du substrat par molécule de glucose ?",
+      "de": "Laut Text, wie hoch ist der Netto-ATP-Ertrag aus Glykolyse und Zitronensäurezyklus zusammen durch Substratstufenphosphorylierung pro Glukosemolekül?",
+      "ja": "本文によると、グルコース分子1個あたりの、解糖系とクエン酸回路を合わせた基質レベルリン酸化による正味のATP産生量はいくつですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "2 ATP",
+          "zh": "2 个 ATP",
+          "es": "2 ATP",
+          "fr": "2 ATP",
+          "de": "2 ATP",
+          "ja": "2 ATP"
+        },
+        "feedback": {
+          "en": "Incorrect. 2 net ATP are produced from glycolysis, but the question asks for the combined total from glycolysis and the citric acid cycle.",
+          "zh": "不正确。糖酵解净产生 2 个 ATP，但问题询问的是糖酵解和柠檬酸循环的总和。",
+          "es": "Incorrecto. Se producen 2 ATP netos de la glucólisis, pero la pregunta pide el total combinado de la glucólisis y el ciclo del ácido cítrico.",
+          "fr": "Incorrect. 2 ATP nets sont produits par la glycolyse, mais la question porte sur le total combiné de la glycolyse et du cycle de l'acide citrique.",
+          "de": "Falsch. 2 Netto-ATP werden durch Glykolyse produziert, aber die Frage bezieht sich auf die kombinierte Gesamtmenge aus Glykolyse und Zitronensäurezyklus.",
+          "ja": "誤り。解糖系からは正味2つのATPが産生されますが、質問は解糖系とクエン酸回路を合わせた総量について尋ねています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "4 ATP",
+          "zh": "4 个 ATP",
+          "es": "4 ATP",
+          "fr": "4 ATP",
+          "de": "4 ATP",
+          "ja": "4 ATP"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "30-32 ATP",
+          "zh": "30-32 个 ATP",
+          "es": "30-32 ATP",
+          "fr": "30-32 ATP",
+          "de": "30-32 ATP",
+          "ja": "30-32 ATP"
+        },
+        "feedback": {
+          "en": "Incorrect. This range represents the total ATP produced by cellular respiration, primarily from oxidative phosphorylation, not just substrate-level phosphorylation.",
+          "zh": "不正确。这个范围代表的是细胞呼吸产生的总 ATP，主要来自氧化磷酸化，而非仅仅底物水平磷酸化。",
+          "es": "Incorrecto. Este rango representa el ATP total producido por la respiración celular, principalmente por fosforilación oxidativa, no solo por fosforilación a nivel de sustrato.",
+          "fr": "Incorrect. Cette fourchette représente l'ATP total produit par la respiration cellulaire, principalement par phosphorylation oxydative, et non seulement par phosphorylation au niveau du substrat.",
+          "de": "Falsch. Dieser Bereich repräsentiert die gesamte ATP-Produktion der Zellatmung, hauptsächlich durch oxidative Phosphorylierung, nicht nur durch Substratstufenphosphorylierung.",
+          "ja": "誤り。この範囲は、細胞呼吸によって産生されるATPの総量であり、主に酸化的リン酸化によるもので、基質レベルリン酸化だけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "53 kcal/mol",
+          "zh": "53 kcal/mol",
+          "es": "53 kcal/mol",
+          "fr": "53 kcal/mol",
+          "de": "53 kcal/mol",
+          "ja": "53 kcal/mol"
+        },
+        "feedback": {
+          "en": "Incorrect. 53 kcal/mol is the overall free energy drop for electrons in the electron transport chain, not the number of ATP molecules.",
+          "zh": "不正确。53 kcal/mol 是电子传递链中电子的总自由能下降值，而不是 ATP 分子的数量。",
+          "es": "Incorrecto. 53 kcal/mol es la caída total de energía libre para los electrones en la cadena de transporte de electrones, no el número de moléculas de ATP.",
+          "fr": "Incorrect. 53 kcal/mol est la chute d'énergie libre totale pour les électrons dans la chaîne de transport d'électrons, et non le nombre de molécules d'ATP.",
+          "de": "Falsch. 53 kcal/mol ist der gesamte Freie-Energie-Abfall für Elektronen in der Elektronentransportkette, nicht die Anzahl der ATP-Moleküle.",
+          "ja": "誤り。53 kcal/molは電子伝達系における電子の総自由エネルギー降下量であり、ATP分子の数ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'glycolysis and the citric acid cycle, produce only 4 ATP molecules per glucose molecule, all by substrate-level phosphorylation: 2 net ATP from glycolysis and 2 ATP from the citric acid cycle.' Therefore, the combined net yield is 2 + 2 = 4 ATP.",
+      "zh": "文本指出：“糖酵解和柠檬酸循环，每个葡萄糖分子仅通过底物水平磷酸化产生 4 个 ATP 分子：糖酵解净产生 2 个 ATP，柠檬酸循环产生 2 个 ATP。”因此，合计净产量为 2 + 2 = 4 个 ATP。",
+      "es": "El texto afirma: 'la glucólisis y el ciclo del ácido cítrico producen solo 4 moléculas de ATP por molécula de glucosa, todas por fosforilación a nivel de sustrato: 2 ATP netos de la glucólisis y 2 ATP del ciclo del ácido cítrico'. Por lo tanto, el rendimiento neto combinado es 2 + 2 = 4 ATP.",
+      "fr": "Le texte indique : 'la glycolyse et le cycle de l'acide citrique produisent seulement 4 molécules d'ATP par molécule de glucose, toutes par phosphorylation au niveau du substrat : 2 ATP nets de la glycolyse et 2 ATP du cycle de l'acide citrique.' Par conséquent, le rendement net combiné est de 2 + 2 = 4 ATP.",
+      "de": "Der Text besagt: 'Glykolyse und der Zitronensäurezyklus produzieren pro Glukosemolekül nur 4 ATP-Moleküle, alle durch Substratstufenphosphorylierung: 2 Netto-ATP aus der Glykolyse und 2 ATP aus dem Zitronensäurezyklus.' Der kombinierte Nettoertrag beträgt daher 2 + 2 = 4 ATP.",
+      "ja": "テキストには「解糖系とクエン酸回路は、基質レベルリン酸化によってグルコース分子あたりわずか4つのATP分子を生成する。内訳は、解糖系から正味2つのATP、クエン酸回路から2つのATPである」と記載されています。したがって、合計の正味産生量は2 + 2 = 4 ATPです。"
+    }
+  },
+  {
+    "page_number": 223,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The inner mitochondrial membrane's extensive folding into cristae is crucial for the efficiency of the electron transport chain. If a mitochondrion had a significantly reduced number of cristae, how would this primarily impact oxidative phosphorylation?",
+      "zh": "线粒体内膜广泛折叠形成嵴对电子传递链的效率至关重要。如果线粒体的嵴数量显著减少，这将如何主要影响氧化磷酸化？",
+      "es": "El extenso plegamiento de la membrana mitocondrial interna en crestas es crucial para la eficiencia de la cadena de transporte de electrones. Si una mitocondria tuviera un número significativamente reducido de crestas, ¿cómo afectaría esto principalmente a la fosforilación oxidativa?",
+      "fr": "Le repliement extensif de la membrane mitochondriale interne en crêtes est crucial pour l'efficacité de la chaîne de transport d'électrons. Si une mitochondrie avait un nombre significativement réduit de crêtes, comment cela impacterait-il principalement la phosphorylation oxydative ?",
+      "de": "Die extensive Faltung der inneren Mitochondrienmembran zu Cristae ist entscheidend für die Effizienz der Elektronentransportkette. Wenn ein Mitochondrium eine signifikant reduzierte Anzahl von Cristae hätte, wie würde sich dies hauptsächlich auf die oxidative Phosphorylierung auswirken?",
+      "ja": "ミトコンドリア内膜がクリステに広範に折り畳まれていることは、電子伝達系の効率にとって非常に重要です。もしミトコンドリアのクリステの数が著しく減少した場合、これは酸化的リン酸化にどのように影響するでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It would increase the rate of glycolysis in the cytoplasm to compensate for reduced ATP.",
+          "zh": "它会增加细胞质中糖酵解的速度，以补偿 ATP 的减少。",
+          "es": "Aumentaría la tasa de glucólisis en el citoplasma para compensar la reducción de ATP.",
+          "fr": "Cela augmenterait le taux de glycolyse dans le cytoplasme pour compenser la réduction d'ATP.",
+          "de": "Es würde die Glykolyserate im Zytoplasma erhöhen, um den reduzierten ATP-Gehalt auszugleichen.",
+          "ja": "ATP減少を補うために、細胞質での解糖系の速度が増加する。"
+        },
+        "feedback": {
+          "en": "Incorrect. While reduced ATP might stimulate glycolysis, the primary impact of reduced cristae is on oxidative phosphorylation, not directly glycolysis.",
+          "zh": "不正确。虽然 ATP 减少可能会刺激糖酵解，但嵴减少的主要影响是氧化磷酸化，而不是直接影响糖酵解。",
+          "es": "Incorrecto. Aunque la reducción de ATP podría estimular la glucólisis, el impacto principal de la reducción de crestas es sobre la fosforilación oxidativa, no directamente sobre la glucólisis.",
+          "fr": "Incorrect. Bien qu'une réduction de l'ATP puisse stimuler la glycolyse, l'impact principal d'une réduction des crêtes est sur la phosphorylation oxydative, et non directement sur la glycolyse.",
+          "de": "Falsch. Obwohl ein reduzierter ATP-Spiegel die Glykolyse stimulieren könnte, ist der primäre Einfluss reduzierter Cristae auf die oxidative Phosphorylierung, nicht direkt auf die Glykolyse.",
+          "ja": "誤り。ATPの減少が解糖系を刺激する可能性はありますが、クリステの減少が直接影響するのは酸化的リン酸化であり、解糖系ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The decreased surface area would limit the number of electron transport chain components, reducing ATP synthesis.",
+          "zh": "表面积的减少会限制电子传递链组分的数量，从而减少 ATP 的合成。",
+          "es": "La disminución de la superficie limitaría el número de componentes de la cadena de transporte de electrones, reduciendo la síntesis de ATP.",
+          "fr": "La diminution de la surface limiterait le nombre de composants de la chaîne de transport d'électrons, réduisant la synthèse d'ATP.",
+          "de": "Die verringerte Oberfläche würde die Anzahl der Elektronentransportkettenkomponenten begrenzen und so die ATP-Synthese reduzieren.",
+          "ja": "表面積の減少は電子伝達系構成要素の数を制限し、ATP合成を減少させるでしょう。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It would enhance the diffusion of oxygen into the mitochondrion, speeding up the electron transport chain.",
+          "zh": "它会增强氧气进入线粒体的扩散，加速电子传递链。",
+          "es": "Mejoraría la difusión de oxígeno en la mitocondria, acelerando la cadena de transporte de electrones.",
+          "fr": "Cela améliorerait la diffusion de l'oxygène dans la mitochondrie, accélérant la chaîne de transport d'électrons.",
+          "de": "Es würde die Diffusion von Sauerstoff in das Mitochondrium verbessern und die Elektronentransportkette beschleunigen.",
+          "ja": "ミトコンドリアへの酸素拡散が促進され、電子伝達系が加速される。"
+        },
+        "feedback": {
+          "en": "Incorrect. The purpose of cristae is to increase surface area for embedding ETC components, not primarily for oxygen diffusion. Reduced cristae would hinder, not enhance, ETC function.",
+          "zh": "不正确。嵴的目的是增加嵌入电子传递链组分的表面积，而不是主要为了氧气扩散。嵴减少会阻碍而非增强电子传递链功能。",
+          "es": "Incorrecto. El propósito de las crestas es aumentar la superficie para incrustar componentes de la ETC, no principalmente para la difusión de oxígeno. La reducción de crestas obstaculizaría, no mejoraría, la función de la ETC.",
+          "fr": "Incorrect. Le but des crêtes est d'augmenter la surface pour l'intégration des composants de la chaîne de transport d'électrons, et non principalement pour la diffusion de l'oxygène. Des crêtes réduites entraveraient, et non amélioreraient, la fonction de la CTE.",
+          "de": "Falsch. Der Zweck der Cristae ist die Vergrößerung der Oberfläche für die Einbettung von ETK-Komponenten, nicht primär für die Sauerstoffdiffusion. Reduzierte Cristae würden die ETK-Funktion behindern, nicht verbessern.",
+          "ja": "誤り。クリステの目的は、主に酸素拡散のためではなく、電子伝達系構成要素を埋め込むための表面積を増やすことです。クリステの減少は、電子伝達系の機能を阻害し、促進しません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Substrate-level phosphorylation would increase to make up for the lack of space for the electron transport chain.",
+          "zh": "底物水平磷酸化会增加，以弥补电子传递链空间不足。",
+          "es": "La fosforilación a nivel de sustrato aumentaría para compensar la falta de espacio para la cadena de transporte de electrones.",
+          "fr": "La phosphorylation au niveau du substrat augmenterait pour compenser le manque d'espace pour la chaîne de transport d'électrons.",
+          "de": "Die Substratstufenphosphorylierung würde zunehmen, um den Platzmangel für die Elektronentransportkette auszugleichen.",
+          "ja": "電子伝達系のためのスペース不足を補うため、基質レベルリン酸化が増加する。"
+        },
+        "feedback": {
+          "en": "Incorrect. Substrate-level phosphorylation occurs in the cytoplasm and mitochondrial matrix, independent of cristae surface area. While overall ATP demand might affect metabolic pathways, this is not a direct consequence of cristae reduction on substrate-level phosphorylation itself.",
+          "zh": "不正确。底物水平磷酸化发生在细胞质和线粒体基质中，与嵴表面积无关。虽然总的 ATP 需求可能影响代谢途径，但这并非嵴减少对底物水平磷酸化本身的直接结果。",
+          "es": "Incorrecto. La fosforilación a nivel de sustrato ocurre en el citoplasma y la matriz mitocondrial, independientemente de la superficie de las crestas. Aunque la demanda total de ATP podría afectar las vías metabólicas, esto no es una consecuencia directa de la reducción de crestas sobre la fosforilación a nivel de sustrato en sí.",
+          "fr": "Incorrect. La phosphorylation au niveau du substrat se produit dans le cytoplasme et la matrice mitochondriale, indépendamment de la surface des crêtes. Bien que la demande globale en ATP puisse affecter les voies métaboliques, ce n'est pas une conséquence directe de la réduction des crêtes sur la phosphorylation au niveau du substrat elle-même.",
+          "de": "Falsch. Die Substratstufenphosphorylierung findet im Zytoplasma und der mitochondrialen Matrix statt, unabhängig von der Cristae-Oberfläche. Obwohl der gesamte ATP-Bedarf Stoffwechselwege beeinflussen könnte, ist dies keine direkte Folge der Cristae-Reduktion auf die Substratstufenphosphorylierung selbst.",
+          "ja": "誤り。基質レベルリン酸化は細胞質とミトコンドリアマトリックスで起こり、クリステの表面積とは無関係です。全体のATP需要が代謝経路に影響を与える可能性はありますが、これはクリステの減少が基質レベルリン酸化自体に直接影響する結果ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that 'The folding of the inner membrane to form cristae increases its surface area, providing space for thousands of copies of each component of the electron transport chain in a mitochondrion. Structure fits function: The infolded membrane with its concentration of electron carrier molecules is well-suited for the series of sequential redox reactions that take place along the electron transport chain.' A reduced number of cristae would mean less surface area, thus fewer electron transport chain components and lower capacity for ATP synthesis.",
+      "zh": "文本明确指出：“内膜折叠形成嵴增加了其表面积，为线粒体中电子传递链的每个组分提供了数千个拷贝的空间。结构与功能相符：内折叠的膜及其电子载体分子的集中，非常适合沿着电子传递链发生的一系列顺序氧化还原反应。”嵴数量的减少将意味着更小的表面积，从而限制电子传递链组分的数量，降低 ATP 的合成能力。",
+      "es": "El texto establece explícitamente que 'El plegamiento de la membrana interna para formar crestas aumenta su superficie, proporcionando espacio para miles de copias de cada componente de la cadena de transporte de electrones en una mitocondria. La estructura se adapta a la función: la membrana plegada con su concentración de moléculas portadoras de electrones es muy adecuada para la serie de reacciones redox secuenciales que tienen lugar a lo largo de la cadena de transporte de electrones.' Una reducción en el número de crestas significaría menos superficie, por lo tanto, menos componentes de la cadena de transporte de electrones y menor capacidad para la síntesis de ATP.",
+      "fr": "Le texte indique explicitement que 'Le repliement de la membrane interne pour former des crêtes augmente sa surface, offrant de l'espace pour des milliers de copies de chaque composant de la chaîne de transport d'électrons dans une mitochondrie. La structure correspond à la fonction : la membrane repliée avec sa concentration de molécules porteuses d'électrons est bien adaptée à la série de réactions redox séquentielles qui ont lieu le long de la chaîne de transport d'électrons.' Un nombre réduit de crêtes signifierait moins de surface, donc moins de composants de la chaîne de transport d'électrons et une capacité de synthèse d'ATP réduite.",
+      "de": "Der Text besagt explizit: 'Die Faltung der inneren Membran zu Cristae vergrößert deren Oberfläche und bietet Platz für Tausende von Kopien jeder Komponente der Elektronentransportkette in einem Mitochondrium. Struktur passt zur Funktion: Die eingefaltete Membran mit ihrer Konzentration an Elektronenträgermolekülen ist gut geeignet für die Reihe sequenzieller Redoxreaktionen, die entlang der Elektronentransportkette stattfinden.' Eine reduzierte Anzahl von Cristae würde eine geringere Oberfläche bedeuten und somit weniger Komponenten der Elektronentransportkette und eine geringere Kapazität für die ATP-Synthese.",
+      "ja": "本文には、「内膜がクリステを形成するために広範に折り畳まれることで表面積が増加し、ミトコンドリア内の電子伝達系の各構成要素が何千ものコピーを持つためのスペースを提供する。構造は機能に適している：電子キャリア分子が集中した内膜の折り畳みは、電子伝達系に沿って起こる一連の連続したレドックス反応に非常に適している」と明記されています。クリステの数が減少すると、表面積が少なくなり、その結果、電子伝達系の構成要素の数が制限され、ATP合成能力が低下します。"
+    }
+  },
+  {
+    "page_number": 223,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Besides proteins, what nonprotein components are described as \"prosthetic groups\" tightly bound to the electron transport chain proteins, essential for their catalytic functions?",
+      "zh": "除了蛋白质，还有哪些非蛋白质成分被描述为紧密结合在电子传递链蛋白质上的“辅基”，对它们的催化功能至关重要？",
+      "es": "Además de las proteínas, ¿qué componentes no proteicos se describen como \"grupos prostéticos\" fuertemente unidos a las proteínas de la cadena de transporte de electrones, esenciales para sus funciones catalíticas?",
+      "fr": "Outre les protéines, quels composants non protéiques sont décrits comme des « groupes prosthétiques » étroitement liés aux protéines de la chaîne de transport d'électrons, essentiels à leurs fonctions catalytiques ?",
+      "de": "Neben Proteinen, welche nicht-proteinischen Komponenten werden als „prosthetische Gruppen“ beschrieben, die fest an die Proteine der Elektronentransportkette gebunden sind und für deren katalytische Funktionen essentiell sind?",
+      "ja": "タンパク質以外に、電子伝達系タンパク質に強固に結合し、その触媒機能に不可欠であると説明されている「補欠分子族」とは、どのような非タンパク質成分ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Glucose and fatty acids",
+          "zh": "葡萄糖和脂肪酸",
+          "es": "Glucosa y ácidos grasos",
+          "fr": "Glucose et acides gras",
+          "de": "Glukose und Fettsäuren",
+          "ja": "グルコースと脂肪酸"
+        },
+        "feedback": {
+          "en": "Incorrect. Glucose and fatty acids are fuel molecules, not prosthetic groups of the electron transport chain.",
+          "zh": "不正确。葡萄糖和脂肪酸是燃料分子，不是电子传递链的辅基。",
+          "es": "Incorrecto. La glucosa y los ácidos grasos son moléculas combustibles, no grupos prostéticos de la cadena de transporte de electrones.",
+          "fr": "Incorrect. Le glucose et les acides gras sont des molécules combustibles, et non des groupes prosthétiques de la chaîne de transport d'électrons.",
+          "de": "Falsch. Glukose und Fettsäuren sind Brennstoffmoleküle, keine prosthetischen Gruppen der Elektronentransportkette.",
+          "ja": "誤り。グルコースと脂肪酸は燃料分子であり、電子伝達系の補欠分子族ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Water and carbon dioxide",
+          "zh": "水和二氧化碳",
+          "es": "Agua y dióxido de carbono",
+          "fr": "Eau et dioxyde de carbone",
+          "de": "Wasser und Kohlendioxid",
+          "ja": "水と二酸化炭素"
+        },
+        "feedback": {
+          "en": "Incorrect. Water and carbon dioxide are products or reactants in cellular respiration, but not prosthetic groups.",
+          "zh": "不正确。水和二氧化碳是细胞呼吸中的产物或反应物，但不是辅基。",
+          "es": "Incorrecto. El agua y el dióxido de carbono son productos o reactivos en la respiración celular, pero no grupos prostéticos.",
+          "fr": "Incorrect. L'eau et le dioxyde de carbone sont des produits ou des réactifs de la respiration cellulaire, mais pas des groupes prosthétiques.",
+          "de": "Falsch. Wasser und Kohlendioxid sind Produkte oder Reaktanten der Zellatmung, aber keine prosthetischen Gruppen.",
+          "ja": "誤り。水と二酸化炭素は細胞呼吸における生成物または反応物であり、補欠分子族ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cofactors and coenzymes",
+          "zh": "辅因子和辅酶",
+          "es": "Cofactores y coenzimas",
+          "fr": "Cofacteurs et coenzymes",
+          "de": "Kofaktoren und Koenzyme",
+          "ja": "補因子と補酵素"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Amino acids and nucleotides",
+          "zh": "氨基酸和核苷酸",
+          "es": "Aminoácidos y nucleótidos",
+          "fr": "Acides aminés et nucléotides",
+          "de": "Aminosäuren und Nukleotide",
+          "ja": "アミノ酸とヌクレオチド"
+        },
+        "feedback": {
+          "en": "Incorrect. Amino acids are building blocks of proteins, and nucleotides are building blocks of nucleic acids, not prosthetic groups of the ETC.",
+          "zh": "不正确。氨基酸是蛋白质的组成单位，核苷酸是核酸的组成单位，它们不是电子传递链的辅基。",
+          "es": "Incorrecto. Los aminoácidos son bloques de construcción de proteínas, y los nucleótidos son bloques de construcción de ácidos nucleicos, no grupos prostéticos de la ETC.",
+          "fr": "Incorrect. Les acides aminés sont les éléments constitutifs des protéines, et les nucléotides sont les éléments constitutifs des acides nucléiques, et non des groupes prosthétiques de la CTE.",
+          "de": "Falsch. Aminosäuren sind Bausteine von Proteinen, und Nukleotide sind Bausteine von Nukleinsäuren, keine prosthetischen Gruppen der ETK.",
+          "ja": "誤り。アミノ酸はタンパク質の構成要素であり、ヌクレオチドは核酸の構成要素であり、電子伝達系の補欠分子族ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states: 'Tightly bound to these proteins are prosthetic groups, nonprotein components such as cofactors and coenzymes essential for the catalytic functions of certain enzymes.'",
+      "zh": "文本指出：“紧密结合在这些蛋白质上的辅基，是非蛋白质成分，如辅因子和辅酶，它们对某些酶的催化功能至关重要。”",
+      "es": "El texto afirma: 'Estrechamente unidos a estas proteínas hay grupos prostéticos, componentes no proteicos como cofactores y coenzimas esenciales para las funciones catalíticas de ciertas enzimas.'",
+      "fr": "Le texte indique : 'Étroitement liés à ces protéines se trouvent des groupes prosthétiques, des composants non protéiques tels que les cofacteurs et les coenzymes essentiels aux fonctions catalytiques de certaines enzymes.'",
+      "de": "Der Text besagt: 'Fest an diese Proteine gebunden sind prosthetische Gruppen, nicht-proteinische Komponenten wie Kofaktoren und Koenzyme, die für die katalytischen Funktionen bestimmter Enzyme unerlässlich sind.'",
+      "ja": "テキストには、「これらのタンパク質に強固に結合しているのは補欠分子族であり、補因子や補酵素のような非タンパク質成分で、特定の酵素の触媒機能に不可欠である」と記載されています。"
+    }
+  }
+]

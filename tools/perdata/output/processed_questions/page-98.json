@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 98,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement best describes water's role as a solvent based on the provided text?",
+      "zh": "根据所提供的文本，哪项陈述最能描述水作为溶剂的作用？",
+      "es": "Según el texto proporcionado, ¿qué afirmación describe mejor el papel del agua como solvente?",
+      "fr": "Selon le texte fourni, quelle affirmation décrit le mieux le rôle de l'eau en tant que solvant ?",
+      "de": "Welche Aussage beschreibt die Rolle des Wassers als Lösungsmittel gemäß dem bereitgestellten Text am besten?",
+      "ja": "提供されたテキストに基づいて、水が溶媒として果たす役割を最もよく説明している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Water is a universal solvent because it can dissolve all known substances.",
+          "zh": "水是一种通用溶剂，因为它能溶解所有已知物质。",
+          "es": "El agua es un solvente universal porque puede disolver todas las sustancias conocidas.",
+          "fr": "L'eau est un solvant universel car elle peut dissoudre toutes les substances connues.",
+          "de": "Wasser ist ein universelles Lösungsmittel, da es alle bekannten Substanzen auflösen kann.",
+          "ja": "水はすべての既知の物質を溶解できるため、万能溶媒です。"
+        },
+        "feedback": {
+          "en": "\"Universal\" is an overstatement; it can't dissolve all substances.",
+          "zh": "“通用”一词过于夸大；它不能溶解所有物质。",
+          "es": "\"Universal\" es una exageración; no puede disolver todas las sustancias.",
+          "fr": "« Universel » est une exagération ; il ne peut pas dissoudre toutes les substances.",
+          "de": "„Universell“ ist eine Übertreibung; es kann nicht alle Substanzen auflösen.",
+          "ja": "「万能」は誇張であり、すべての物質を溶解できるわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Water's versatility as a solvent is primarily due to its ability to form strong covalent bonds with solutes.",
+          "zh": "水作为溶剂的多功能性主要归因于其与溶质形成强共价键的能力。",
+          "es": "La versatilidad del agua como solvente se debe principalmente a su capacidad para formar fuertes enlaces covalentes con los solutos.",
+          "fr": "La polyvalence de l'eau en tant que solvant est principalement due à sa capacité à former de fortes liaisons covalentes avec les solutés.",
+          "de": "Die Vielseitigkeit von Wasser als Lösungsmittel ist hauptsächlich auf seine Fähigkeit zurückzuführen, starke kovalente Bindungen mit gelösten Stoffen einzugehen.",
+          "ja": "水が溶媒として多用途であるのは、主に溶質と強力な共有結合を形成する能力によるものです。"
+        },
+        "feedback": {
+          "en": "Water primarily dissolves solutes through hydrogen bonds or ion-dipole interactions, not strong covalent bonds with the solute itself.",
+          "zh": "水主要通过氢键或离子-偶极相互作用溶解溶质，而不是与溶质本身形成强共价键。",
+          "es": "El agua disuelve los solutos principalmente a través de enlaces de hidrógeno o interacciones ion-dipolo, no mediante enlaces covalentes fuertes con el soluto mismo.",
+          "fr": "L'eau dissout principalement les solutés par des liaisons hydrogène ou des interactions ion-dipôle, et non par de fortes liaisons covalentes avec le soluté lui-même.",
+          "de": "Wasser löst gelöste Stoffe hauptsächlich durch Wasserstoffbrückenbindungen oder Ion-Dipol-Wechselwirkungen auf, nicht durch starke kovalente Bindungen mit dem gelösten Stoff selbst.",
+          "ja": "水は主に水素結合やイオン-双極子相互作用を介して溶質を溶解し、溶質自体と強い共有結合を形成するわけではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Water's polarity allows it to form hydration shells around ionic solutes and hydrogen bonds with nonionic polar solutes, making it a versatile solvent.",
+          "zh": "水的极性使其能够围绕离子溶质形成水合层，并与非离子极性溶质形成氢键，从而使其成为一种多功能溶剂。",
+          "es": "La polaridad del agua le permite formar capas de hidratación alrededor de los solutos iónicos y enlaces de hidrógeno con los solutos polares no iónicos, lo que la convierte en un solvente versátil.",
+          "fr": "La polarité de l'eau lui permet de former des couches d'hydratation autour des solutés ioniques et des liaisons hydrogène avec les solutés polaires non ioniques, ce qui en fait un solvant polyvalent.",
+          "de": "Die Polarität von Wasser ermöglicht es ihm, Hydratationshüllen um ionische gelöste Stoffe und Wasserstoffbrückenbindungen mit nichtionischen polaren gelösten Stoffen zu bilden, was es zu einem vielseitigen Lösungsmittel macht.",
+          "ja": "水の極性により、イオン性溶質には水和殻を、非イオン性極性溶質には水素結合を形成することができ、これにより多用途な溶媒となります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Only ionic compounds can dissolve in water, forming aqueous solutions.",
+          "zh": "只有离子化合物才能溶于水，形成水溶液。",
+          "es": "Solo los compuestos iónicos pueden disolverse en agua, formando soluciones acuosas.",
+          "fr": "Seuls les composés ioniques peuvent se dissoudre dans l'eau, formant des solutions aqueuses.",
+          "de": "Nur ionische Verbindungen können sich in Wasser lösen und wässrige Lösungen bilden.",
+          "ja": "イオン性化合物のみが水に溶解し、水溶液を形成します。"
+        },
+        "feedback": {
+          "en": "Nonionic polar molecules like sugar and proteins also dissolve in water.",
+          "zh": "糖和蛋白质等非离子极性分子也溶于水。",
+          "es": "Las moléculas polares no iónicas como el azúcar y las proteínas también se disuelven en agua.",
+          "fr": "Les molécules polaires non ioniques comme le sucre et les protéines se dissolvent également dans l'eau.",
+          "de": "Nichtionische polare Moleküle wie Zucker und Proteine lösen sich ebenfalls in Wasser.",
+          "ja": "砂糖やタンパク質のような非イオン性極性分子も水に溶解します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explains that water's polarity is key to its versatility as a solvent. It forms hydration shells around ions like Na+ and Cl- due to ion-dipole interactions, and forms hydrogen bonds with nonionic polar molecules like sugar and proteins. This allows a wide variety of substances to dissolve in water.",
+      "zh": "文本解释说，水的极性是其作为溶剂多功能性的关键。由于离子-偶极相互作用，水能围绕 Na+ 和 Cl- 等离子形成水合层，并与糖和蛋白质等非离子极性分子形成氢键。这使得多种物质能够溶解在水中。",
+      "es": "El texto explica que la polaridad del agua es clave para su versatilidad como solvente. Forma capas de hidratación alrededor de iones como Na+ y Cl- debido a interacciones ion-dipolo, y forma enlaces de hidrógeno con moléculas polares no iónicas como el azúcar y las proteínas. Esto permite que una amplia variedad de sustancias se disuelvan en agua.",
+      "fr": "Le texte explique que la polarité de l'eau est essentielle à sa polyvalence en tant que solvant. Elle forme des couches d'hydratation autour des ions comme Na+ et Cl- en raison des interactions ion-dipôle, et forme des liaisons hydrogène avec les molécules polaires non ioniques comme le sucre et les protéines. Cela permet à une grande variété de substances de se dissoudre dans l'eau.",
+      "de": "Der Text erklärt, dass die Polarität von Wasser entscheidend für seine Vielseitigkeit als Lösungsmittel ist. Es bildet Hydratationshüllen um Ionen wie Na+ und Cl- aufgrund von Ion-Dipol-Wechselwirkungen und bildet Wasserstoffbrückenbindungen mit nichtionischen polaren Molekülen wie Zucker und Proteinen. Dies ermöglicht es einer Vielzahl von Substanzen, sich in Wasser zu lösen.",
+      "ja": "テキストでは、水の極性が溶媒としての多用途性の鍵であると説明されています。イオン-双極子相互作用により、Na+やCl-などのイオンの周りに水和殻を形成し、砂糖やタンパク質のような非イオン性極性分子とは水素結合を形成します。これにより、さまざまな物質が水に溶解できます。"
+    }
+  },
+  {
+    "page_number": 98,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 3.8 and the surrounding text, how do water molecules orient themselves around sodium cations (Na+) and chloride anions (Cl-) during the dissolution of table salt?",
+      "zh": "根据图 3.8 及周围文本，在食盐溶解过程中，水分子如何围绕钠阳离子 (Na+) 和氯阴离子 (Cl-) 排列？",
+      "es": "Según la Figura 3.8 y el texto circundante, ¿cómo se orientan las moléculas de agua alrededor de los cationes de sodio (Na+) y los aniones de cloruro (Cl-) durante la disolución de la sal de mesa?",
+      "fr": "Selon la Figure 3.8 et le texte environnant, comment les molécules d'eau s'orientent-elles autour des cations sodium (Na+) et des anions chlorure (Cl-) pendant la dissolution du sel de table ?",
+      "de": "Gemäß Abbildung 3.8 und dem umgebenden Text, wie richten sich Wassermoleküle während der Auflösung von Kochsalz um Natriumkationen (Na+) und Chloridanionen (Cl-) aus?",
+      "ja": "図3.8および関連するテキストによると、食塩が溶解する際、水分子はナトリウム陽イオン（Na+）と塩化物陰イオン（Cl-）の周りにどのように配向しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The positively charged hydrogen regions of water molecules are attracted to Na+, and the negatively charged oxygen regions are attracted to Cl-.",
+          "zh": "水分子的带正电氢区域吸引 Na+，带负电氧区域吸引 Cl-。",
+          "es": "Las regiones de hidrógeno cargadas positivamente de las moléculas de agua son atraídas por el Na+, y las regiones de oxígeno cargadas negativamente son atraídas por el Cl-.",
+          "fr": "Les régions d'hydrogène chargées positivement des molécules d'eau sont attirées par les Na+, et les régions d'oxygène chargées négativement sont attirées par les Cl-.",
+          "de": "Die positiv geladenen Wasserstoffregionen der Wassermoleküle werden von Na+ angezogen, und die negativ geladenen Sauerstoffregionen werden von Cl- angezogen.",
+          "ja": "水分子の正に帯電した水素領域がNa+に引き寄せられ、負に帯電した酸素領域がCl-に引き寄せられます。"
+        },
+        "feedback": {
+          "en": "This statement reverses the attraction; opposite charges attract.",
+          "zh": "此陈述颠倒了吸引方向；异性相吸。",
+          "es": "Esta afirmación invierte la atracción; las cargas opuestas se atraen.",
+          "fr": "Cette affirmation inverse l'attraction ; les charges opposées s'attirent.",
+          "de": "Diese Aussage kehrt die Anziehung um; entgegengesetzte Ladungen ziehen sich an.",
+          "ja": "この記述は引力を逆転させています。異なった電荷が引き合います。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The negatively charged oxygen regions of water molecules are attracted to Na+, and the positively charged hydrogen regions are attracted to Cl-.",
+          "zh": "水分子的带负电氧区域吸引 Na+，带正电氢区域吸引 Cl-。",
+          "es": "Las regiones de oxígeno cargadas negativamente de las moléculas de agua son atraídas por el Na+, y las regiones de hidrógeno cargadas positivamente son atraídas por el Cl-.",
+          "fr": "Les régions d'oxygène chargées négativement des molécules d'eau sont attirées par les Na+, et les régions d'hydrogène chargées positivement sont attirées par les Cl-.",
+          "de": "Die negativ geladenen Sauerstoffregionen der Wassermoleküle werden von Na+ angezogen, und die positiv geladenen Wasserstoffregionen werden von Cl- angezogen.",
+          "ja": "水分子の負に帯電した酸素領域がNa+に引き寄せられ、正に帯電した水素領域がCl-に引き寄せられます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Water molecules surround both Na+ and Cl- ions randomly, without any specific orientation.",
+          "zh": "水分子随机围绕 Na+ 和 Cl- 离子，没有特定方向。",
+          "es": "Las moléculas de agua rodean tanto los iones Na+ como los Cl- al azar, sin ninguna orientación específica.",
+          "fr": "Les molécules d'eau entourent les ions Na+ et Cl- de manière aléatoire, sans aucune orientation spécifique.",
+          "de": "Wassermoleküle umgeben sowohl Na+- als auch Cl--Ionen zufällig, ohne spezifische Ausrichtung.",
+          "ja": "水分子はNa+イオンとCl-イオンの両方を、特定の配向なくランダムに取り囲みます。"
+        },
+        "feedback": {
+          "en": "Water molecules orient specifically due to their polarity and the ions' charges.",
+          "zh": "水分子因其极性和离子的电荷而特定方向排列。",
+          "es": "Las moléculas de agua se orientan específicamente debido a su polaridad y las cargas de los iones.",
+          "fr": "Les molécules d'eau s'orientent spécifiquement en raison de leur polarité et des charges des ions.",
+          "de": "Wassermoleküle richten sich aufgrund ihrer Polarität und der Ladungen der Ionen spezifisch aus.",
+          "ja": "水分子は、その極性とイオンの電荷により特定の方法で配向します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Water molecules form covalent bonds with both Na+ and Cl- ions, dissolving them.",
+          "zh": "水分子与 Na+ 和 Cl- 离子形成共价键，从而溶解它们。",
+          "es": "Las moléculas de agua forman enlaces covalentes con los iones Na+ y Cl-, disolviéndolos.",
+          "fr": "Les molécules d'eau forment des liaisons covalentes avec les ions Na+ et Cl-, les dissolvant.",
+          "de": "Wassermoleküle bilden kovalente Bindungen mit sowohl Na+- als auch Cl--Ionen und lösen diese dadurch auf.",
+          "ja": "水分子はNa+イオンとCl-イオンの両方と共有結合を形成し、それらを溶解します。"
+        },
+        "feedback": {
+          "en": "Water forms ion-dipole interactions and hydration shells, not covalent bonds, with the ions.",
+          "zh": "水与离子形成离子-偶极相互作用和水合层，而不是共价键。",
+          "es": "El agua forma interacciones ion-dipolo y capas de hidratación, no enlaces covalentes, con los iones.",
+          "fr": "L'eau forme des interactions ion-dipôle et des couches d'hydratation, et non des liaisons covalentes, avec les ions.",
+          "de": "Wasser bildet Ion-Dipol-Wechselwirkungen und Hydratationshüllen, keine kovalente Bindungen, mit den Ionen.",
+          "ja": "水はイオンと共有結合ではなく、イオン-双極子相互作用と水和殻を形成します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 3.8 and the text clearly state that the negatively charged oxygen regions of water molecules are attracted to positively charged sodium cations (Na+), and the positively charged hydrogen regions are attracted to negatively charged chloride anions (Cl-). This specific orientation leads to the formation of hydration shells.",
+      "zh": "图 3.8 和文本清楚地指出，水分子带负电的氧区域被带正电的钠阳离子 (Na+) 吸引，而带正电的氢区域则被带负电的氯阴离子 (Cl-) 吸引。这种特定的排列导致了水合层的形成。",
+      "es": "La Figura 3.8 y el texto establecen claramente que las regiones de oxígeno cargadas negativamente de las moléculas de agua son atraídas por los cationes de sodio (Na+) cargados positivamente, y las regiones de hidrógeno cargadas positivamente son atraídas por los aniones de cloruro (Cl-) cargados negativamente. Esta orientación específica lleva a la formación de capas de hidratación.",
+      "fr": "La Figure 3.8 et le texte indiquent clairement que les régions d'oxygène chargées négativement des molécules d'eau sont attirées par les cations sodium (Na+) chargés positivement, et que les régions d'hydrogène chargées positivement sont attirées par les anions chlorure (Cl-) chargés négativement. Cette orientation spécifique conduit à la formation de couches d'hydratation.",
+      "de": "Abbildung 3.8 und der Text zeigen deutlich, dass die negativ geladenen Sauerstoffregionen der Wassermoleküle von positiv geladenen Natriumkationen (Na+) angezogen werden und die positiv geladenen Wasserstoffregionen von negativ geladenen Chloridanionen (Cl-) angezogen werden. Diese spezifische Ausrichtung führt zur Bildung von Hydratationshüllen.",
+      "ja": "図3.8およびテキストは、水分子の負に帯電した酸素領域が正に帯電したナトリウム陽イオン（Na+）に引き寄せられ、正に帯電した水素領域が負に帯電した塩化物陰イオン（Cl-）に引き寄せられることを明確に示しています。この特定の配向が水和殻の形成につながります。"
+    }
+  },
+  {
+    "page_number": 98,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The text describes cotton as a hydrophilic substance that does not dissolve in water. Which of the following best explains why cotton, despite being hydrophilic, does not dissolve?",
+      "zh": "文本描述棉花是一种亲水性物质，但不溶于水。以下哪项最能解释为什么棉花尽管亲水却不溶解？",
+      "es": "El texto describe el algodón como una sustancia hidrofílica que no se disuelve en agua. ¿Cuál de las siguientes opciones explica mejor por qué el algodón, a pesar de ser hidrofílico, no se disuelve?",
+      "fr": "Le texte décrit le coton comme une substance hydrophile qui ne se dissout pas dans l'eau. Parmi les affirmations suivantes, laquelle explique le mieux pourquoi le coton, bien qu'hydrophile, ne se dissout pas ?",
+      "de": "Der Text beschreibt Baumwolle als eine hydrophile Substanz, die sich nicht in Wasser löst. Welche der folgenden Erklärungen beschreibt am besten, warum Baumwolle, obwohl hydrophil, sich nicht auflöst?",
+      "ja": "テキストでは、綿が親水性物質でありながら水に溶解しないと説明されています。以下のうち、綿が親水性であるにもかかわらず溶解しない理由を最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Cotton molecules are nonionic and nonpolar, thus repelling water.",
+          "zh": "棉花分子是非离子和非极性的，因此排斥水。",
+          "es": "Las moléculas de algodón no son iónicas ni polares, por lo tanto, repelen el agua.",
+          "fr": "Les molécules de coton sont non ioniques et non polaires, repoussant ainsi l'eau.",
+          "de": "Baumwollmoleküle sind nicht-ionisch und unpolar und stoßen daher Wasser ab.",
+          "ja": "綿の分子は非イオン性で非極性であり、水をはじきます。"
+        },
+        "feedback": {
+          "en": "The text explicitly states cotton is hydrophilic, meaning it has an affinity for water, and has partial charges allowing hydrogen bonds.",
+          "zh": "文本明确指出棉花是亲水的，这意味着它对水有亲和力，并具有允许形成氢键的部分电荷。",
+          "es": "El texto establece explícitamente que el algodón es hidrofílico, lo que significa que tiene afinidad por el agua y tiene cargas parciales que permiten enlaces de hidrógeno.",
+          "fr": "Le texte indique explicitement que le coton est hydrophile, ce qui signifie qu'il a une affinité pour l'eau et qu'il possède des charges partielles permettant les liaisons hydrogène.",
+          "de": "Der Text besagt ausdrücklich, dass Baumwolle hydrophil ist, was bedeutet, dass sie eine Affinität zu Wasser hat und Teilladungen besitzt, die Wasserstoffbrückenbindungen ermöglichen.",
+          "ja": "テキストには、綿が親水性であり、水に対する親和性があり、水素結合を可能にする部分電荷を持っていると明記されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Cotton consists of giant molecules of cellulose, and while it has regions that can form hydrogen bonds with water, its large size prevents complete dissolution.",
+          "zh": "棉花由巨大的纤维素分子组成，尽管它有区域可以与水形成氢键，但其巨大的尺寸阻止了完全溶解。",
+          "es": "El algodón se compone de moléculas gigantes de celulosa, y aunque tiene regiones que pueden formar enlaces de hidrógeno con el agua, su gran tamaño impide la disolución completa.",
+          "fr": "Le coton est constitué de molécules géantes de cellulose, et bien qu'il possède des régions capables de former des liaisons hydrogène avec l'eau, sa grande taille empêche une dissolution complète.",
+          "de": "Baumwolle besteht aus riesigen Cellulosemolekülen, und obwohl sie Regionen besitzt, die Wasserstoffbrückenbindungen mit Wasser eingehen können, verhindert ihre große Größe eine vollständige Auflösung.",
+          "ja": "綿は巨大なセルロース分子で構成されており、水と水素結合を形成できる領域があるにもかかわらず、その巨大なサイズが完全な溶解を妨げています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cotton's fibers are too tightly packed for water molecules to penetrate and interact with them.",
+          "zh": "棉花的纤维过于紧密，水分子无法穿透并与其相互作用。",
+          "es": "Las fibras de algodón están demasiado apretadas para que las moléculas de agua puedan penetrarlas e interactuar con ellas.",
+          "fr": "Les fibres de coton sont trop serrées pour que les molécules d'eau puissent les pénétrer et interagir avec elles.",
+          "de": "Die Fasern von Baumwolle sind zu dicht gepackt, als dass Wassermoleküle eindringen und mit ihnen interagieren könnten.",
+          "ja": "綿の繊維は水分子が浸透して相互作用するには密に詰まりすぎています。"
+        },
+        "feedback": {
+          "en": "The text indicates water adheres to cellulose fibers, which contradicts the idea of water not being able to penetrate. The primary reason given is molecular size.",
+          "zh": "文本指出水会附着在纤维素纤维上，这与水无法穿透的说法相矛盾。给出的主要原因是分子大小。",
+          "es": "El texto indica que el agua se adhiere a las fibras de celulosa, lo que contradice la idea de que el agua no puede penetrar. La razón principal dada es el tamaño molecular.",
+          "fr": "Le texte indique que l'eau adhère aux fibres de cellulose, ce qui contredit l'idée que l'eau ne pourrait pas les pénétrer. La raison principale donnée est la taille moléculaire.",
+          "de": "Der Text besagt, dass Wasser an Cellulosefasern haftet, was der Vorstellung widerspricht, dass Wasser nicht eindringen kann. Der Hauptgrund ist die Molekülgröße.",
+          "ja": "テキストは、水がセルロース繊維に付着すると示しており、水が浸透できないという考えに矛盾します。主な理由は分子サイズです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Cotton forms strong covalent bonds with water, making it insoluble.",
+          "zh": "棉花与水形成强共价键，使其不溶。",
+          "es": "El algodón forma fuertes enlaces covalentes con el agua, lo que lo hace insoluble.",
+          "fr": "Le coton forme de fortes liaisons covalentes avec l'eau, le rendant insoluble.",
+          "de": "Baumwolle bildet starke kovalente Bindungen mit Wasser, wodurch sie unlöslich wird.",
+          "ja": "綿は水と強い共有結合を形成するため、不溶性です。"
+        },
+        "feedback": {
+          "en": "Water forms hydrogen bonds with cotton, not strong covalent bonds, and hydrogen bonds promote solubility, but in this case, the molecular size is the limiting factor for dissolution.",
+          "zh": "水与棉花形成氢键，而不是强共价键；氢键促进溶解，但在本例中，分子大小是溶解的限制因素。",
+          "es": "El agua forma enlaces de hidrógeno con el algodón, no enlaces covalentes fuertes, y los enlaces de hidrógeno promueven la solubilidad, pero en este caso, el tamaño molecular es el factor limitante para la disolución.",
+          "fr": "L'eau forme des liaisons hydrogène avec le coton, et non des liaisons covalentes fortes ; les liaisons hydrogène favorisent la solubilité, mais dans ce cas, la taille moléculaire est le facteur limitant pour la dissolution.",
+          "de": "Wasser bildet Wasserstoffbrückenbindungen mit Baumwolle, keine starken kovalente Bindungen. Wasserstoffbrückenbindungen fördern die Löslichkeit, aber in diesem Fall ist die Molekülgröße der limitierende Faktor für die Auflösung.",
+          "ja": "水は綿と強い共有結合ではなく水素結合を形成し、水素結合は溶解度を促進しますが、この場合、分子サイズが溶解の制限要因です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that cotton is hydrophilic due to numerous regions of partial positive and negative charges that can form hydrogen bonds with water. However, it also states that cotton consists of 'giant molecules of cellulose', implying that its large molecular size is the reason it does not dissolve, even though water adheres to its fibers.",
+      "zh": "文本解释说，棉花之所以亲水，是因为其存在大量能够与水形成氢键的部分正电荷和负电荷区域。但它也指出，棉花由“巨大的纤维素分子”组成，这意味着其巨大的分子尺寸是其不溶解的原因，即使水会附着在它的纤维上。",
+      "es": "El texto explica que el algodón es hidrofílico debido a numerosas regiones de cargas parciales positivas y negativas que pueden formar enlaces de hidrógeno con el agua. Sin embargo, también afirma que el algodón consiste en 'moléculas gigantes de celulosa', lo que implica que su gran tamaño molecular es la razón por la que no se disuelve, aunque el agua se adhiera a sus fibras.",
+      "fr": "Le texte explique que le coton est hydrophile en raison de nombreuses régions de charges partielles positives et négatives qui peuvent former des liaisons hydrogène avec l'eau. Cependant, il indique également que le coton est constitué de « molécules géantes de cellulose », ce qui implique que sa grande taille moléculaire est la raison pour laquelle il ne se dissout pas, même si l'eau adhère à ses fibres.",
+      "de": "Der Text erklärt, dass Baumwolle aufgrund zahlreicher Regionen mit partiellen positiven und negativen Ladungen, die Wasserstoffbrückenbindungen mit Wasser eingehen können, hydrophil ist. Es wird jedoch auch erwähnt, dass Baumwolle aus „riesigen Cellulosemolekülen“ besteht, was impliziert, dass ihre große Molekülgröße der Grund dafür ist, dass sie sich nicht auflöst, obwohl Wasser an ihren Fasern haftet.",
+      "ja": "テキストでは、綿が水と水素結合を形成できる部分的な正および負電荷の多数の領域を持つため、親水性であると説明されています。しかし、綿が「巨大なセルロース分子」で構成されているとも述べており、水が繊維に付着するにもかかわらず、その巨大な分子サイズが溶解しない理由であることを示唆しています。"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 1162,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which sequence correctly describes the transmission of sound vibrations through the bones of the middle ear?",
+      "zh": "以下哪个序列正确描述了声波振动通过中耳骨骼的传导过程？",
+      "es": "Qué secuencia describe correctamente la transmisión de las vibraciones sonoras a través de los huesos del oído medio?",
+      "fr": "Quelle séquence décrit correctement la transmission des vibrations sonores à travers les os de l'oreille moyenne?",
+      "de": "Welche Reihenfolge beschreibt korrekt die Übertragung von Schallschwingungen durch die Knochen des Mittelohrs?",
+      "ja": "中耳の骨を介した音の振動の伝達を正しく説明している順序はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Malleus → Incus → Stapes",
+          "zh": "锤骨 → 砧骨 → 镫骨",
+          "es": "Martillo → Yunque → Estribo",
+          "fr": "Marteau → Enclume → Étrier",
+          "de": "Hammer → Amboss → Steigbügel",
+          "ja": "ツチ骨 → キヌタ骨 → アブミ骨"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Incus → Malleus → Stapes",
+          "zh": "砧骨 → 锤骨 → 镫骨",
+          "es": "Yunque → Martillo → Estribo",
+          "fr": "Enclume → Marteau → Étrier",
+          "de": "Amboss → Hammer → Steigbügel",
+          "ja": "キヌタ骨 → ツチ骨 → アブミ骨"
+        },
+        "feedback": {
+          "en": "The malleus (hammer) is the first bone to receive vibrations from the tympanic membrane, followed by the incus and then the stapes.",
+          "zh": "锤骨（hammer）是第一个从中耳鼓膜接收振动的骨骼，接着是砧骨，然后是镫骨。",
+          "es": "El martillo es el primer hueso en recibir vibraciones de la membrana timpánica, seguido por el yunque y luego el estribo.",
+          "fr": "Le marteau est le premier os à recevoir les vibrations de la membrane tympanique, suivi de l'enclume puis de l'étrier.",
+          "de": "Der Hammer ist der erste Knochen, der Schwingungen vom Trommelfell empfängt, gefolgt vom Amboss und dann dem Steigbügel.",
+          "ja": "ツチ骨（hammer）は鼓膜から振動を受け取る最初の骨で、次にキヌタ骨、そしてアブミ骨が続きます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Stapes → Incus → Malleus",
+          "zh": "镫骨 → 砧骨 → 锤骨",
+          "es": "Estribo → Yunque → Martillo",
+          "fr": "Étrier → Enclume → Marteau",
+          "de": "Steigbügel → Amboss → Hammer",
+          "ja": "アブミ骨 → キヌタ骨 → ツチ骨"
+        },
+        "feedback": {
+          "en": "The transmission of vibrations goes from the malleus to the incus, and finally to the stapes, which transmits them to the oval window.",
+          "zh": "振动的传导路径是从锤骨到砧骨，最后到镫骨，镫骨再将振动传递到卵圆窗。",
+          "es": "La transmisión de vibraciones va del martillo al yunque y finalmente al estribo, que las transmite a la ventana oval.",
+          "fr": "La transmission des vibrations va du marteau à l'enclume, et enfin à l'étrier, qui les transmet à la fenêtre ovale.",
+          "de": "Die Übertragung von Schwingungen erfolgt vom Hammer zum Amboss und schließlich zum Steigbügel, der sie an das ovale Fenster weiterleitet.",
+          "ja": "振動の伝達はツチ骨からキヌタ骨へ、そして最終的にアブミ骨へと進み、アブミ骨が卵円窓に伝達します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Malleus → Stapes → Incus",
+          "zh": "锤骨 → 镫骨 → 砧骨",
+          "es": "Martillo → Estribo → Yunque",
+          "fr": "Marteau → Étrier → Enclume",
+          "de": "Hammer → Steigbügel → Amboss",
+          "ja": "ツチ骨 → アブミ骨 → キヌタ骨"
+        },
+        "feedback": {
+          "en": "The correct order of the ossicles is malleus, then incus, then stapes.",
+          "zh": "正确的听小骨顺序是锤骨、砧骨，然后是镫骨。",
+          "es": "El orden correcto de los huesecillos es martillo, luego yunque y luego estribo.",
+          "fr": "L'ordre correct des osselets est marteau, puis enclume, puis étrier.",
+          "de": "Die richtige Reihenfolge der Gehörknöchelchen ist Hammer, dann Amboss, dann Steigbügel.",
+          "ja": "耳小骨の正しい順序はツチ骨、次にキヌタ骨、そしてアブミ骨です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Sound vibrations are first collected by the outer ear and channeled to the tympanic membrane. The tympanic membrane's vibrations are then transmitted sequentially through the three small bones of the middle ear: the malleus (hammer), followed by the incus (anvil), and finally the stapes (stirrup), which transmits them to the oval window of the inner ear.",
+      "zh": "声波振动首先由外耳收集并传导至鼓膜。鼓膜的振动随后依次通过中耳的三块小骨进行传导：锤骨（hammer），接着是砧骨（anvil），最后是镫骨（stirrup），镫骨再将振动传递到内耳的卵圆窗。",
+      "es": "Las vibraciones sonoras son primero recogidas por el oído externo y canalizadas a la membrana timpánica. Las vibraciones de la membrana timpánica se transmiten luego secuencialmente a través de los tres pequeños huesos del oído medio: el martillo, seguido por el yunque y finalmente el estribo, que las transmite a la ventana oval del oído interno.",
+      "fr": "Les vibrations sonores sont d'abord collectées par l'oreille externe et canalisées vers la membrane tympanique. Les vibrations de la membrane tympanique sont ensuite transmises séquentiellement à travers les trois petits os de l'oreille moyenne: le marteau, suivi de l'enclume, et enfin l'étrier, qui les transmet à la fenêtre ovale de l'oreille interne.",
+      "de": "Schallschwingungen werden zuerst vom Außenohr gesammelt und zum Trommelfell geleitet. Die Schwingungen des Trommelfells werden dann nacheinander durch die drei kleinen Knochen des Mittelohrs übertragen: den Hammer, gefolgt vom Amboss und schließlich dem Steigbügel, der sie an das ovale Fenster des Innenohrs weiterleitet.",
+      "ja": "音の振動はまず外耳によって集められ、鼓膜に伝達されます。鼓膜の振動は、中耳の3つの小骨、すなわちツチ骨（hammer）、キヌタ骨（anvil）、アブミ骨（stirrup）を介して順次伝達され、アブミ骨がそれらを内耳の卵円窓に伝えます。"
+    }
+  },
+  {
+    "page_number": 1162,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In the human cochlea, the Organ of Corti, which contains the mechanoreceptors for hearing, is primarily located on which structure and within which larger canal?",
+      "zh": "在人耳的耳蜗中，包含听觉机械感受器的科蒂器主要位于哪个结构上以及哪个较大的管道内？",
+      "es": "En la cóclea humana, el Órgano de Corti, que contiene los mecanorreceptores para la audición, se localiza principalmente en qué estructura y dentro de qué canal más grande?",
+      "fr": "Dans la cochlée humaine, l'organe de Corti, qui contient les mécanorécepteurs de l'audition, est principalement situé sur quelle structure et à l'intérieur de quel canal plus grand?",
+      "de": "Im menschlichen Gehörgang, wo sich das Corti-Organ mit den Mechanorezeptoren für das Hören befindet, auf welcher Struktur und in welchem größeren Kanal ist es hauptsächlich lokalisiert?",
+      "ja": "人間の蝸牛において、聴覚のための機械受容器を含むコルチ器は、主にどの構造上に、どのより大きな管内に位置していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "On the basilar membrane, within the cochlear duct.",
+          "zh": "位于基底膜上，耳蜗管内。",
+          "es": "En la membrana basilar, dentro del conducto coclear.",
+          "fr": "Sur la membrane basilaire, à l'intérieur du conduit cochléaire.",
+          "de": "Auf der Basilarmembran, innerhalb des Cochleargangs.",
+          "ja": "基底膜上、蝸牛管内。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "On the tectorial membrane, within the vestibular canal.",
+          "zh": "位于盖膜上，前庭阶内。",
+          "es": "En la membrana tectorial, dentro del canal vestibular.",
+          "fr": "Sur la membrane tectoriale, à l'intérieur du canal vestibulaire.",
+          "de": "Auf der Tektorialmembran, innerhalb des Vestibulargangs.",
+          "ja": "蓋膜上、前庭階内。"
+        },
+        "feedback": {
+          "en": "The tectorial membrane hangs over the Organ of Corti, and the vestibular canal is one of the fluid-filled canals, not where the Organ of Corti rests directly.",
+          "zh": "盖膜悬挂在科蒂器上方，前庭阶是充满液体的管道之一，科蒂器并非直接位于其内。",
+          "es": "La membrana tectorial cuelga sobre el Órgano de Corti, y el canal vestibular es uno de los canales llenos de líquido, no donde el Órgano de Corti descansa directamente.",
+          "fr": "La membrane tectoriale est suspendue au-dessus de l'organe de Corti, et le canal vestibulaire est l'un des canaux remplis de liquide, pas l'endroit où l'organe de Corti repose directement.",
+          "de": "Die Tektorialmembran hängt über dem Corti-Organ, und der Vestibulargang ist einer der flüssigkeitsgefüllten Gänge, nicht der Ort, an dem das Corti-Organ direkt liegt.",
+          "ja": "蓋膜はコルチ器の上にぶら下がっており、前庭階は液体で満たされた管の一つであり、コルチ器が直接存在する場所ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "On the tympanic membrane, within the tympanic canal.",
+          "zh": "位于鼓膜上，鼓阶内。",
+          "es": "En la membrana timpánica, dentro del canal timpánico.",
+          "fr": "Sur la membrane tympanique, à l'intérieur du canal tympanique.",
+          "de": "Auf der Trommelfellmembran, innerhalb des Tympanalgangs.",
+          "ja": "鼓膜上、鼓室階内。"
+        },
+        "feedback": {
+          "en": "The tympanic membrane is the eardrum, separating the outer and middle ear, and is not located within the cochlea. The tympanic canal is part of the cochlea, but the Organ of Corti is not on the tympanic membrane.",
+          "zh": "鼓膜是耳鼓，将外耳和中耳分开，不位于耳蜗内。鼓阶是耳蜗的一部分，但科蒂器不在鼓膜上。",
+          "es": "La membrana timpánica es el tímpano, que separa el oído externo y medio, y no se encuentra dentro de la cóclea. El canal timpánico es parte de la cóclea, pero el Órgano de Corti no está en la membrana timpánica.",
+          "fr": "La membrane tympanique est le tympan, séparant l'oreille externe et moyenne, et n'est pas située à l'intérieur de la cochlée. Le canal tympanique fait partie de la cochlée, mais l'organe de Corti n'est pas sur la membrane tympanique.",
+          "de": "Das Trommelfell ist das Ohrläppchen, das das äußere und mittlere Ohr trennt und sich nicht innerhalb der Cochlea befindet. Der Tympanalgang ist Teil der Cochlea, aber das Corti-Organ befindet sich nicht auf dem Trommelfell.",
+          "ja": "鼓膜は外耳と中耳を隔てる鼓膜であり、蝸牛内にはありません。鼓室階は蝸牛の一部ですが、コルチ器は鼓膜上にはありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "On the oval window, within the semicircular canals.",
+          "zh": "位于卵圆窗上，半规管内。",
+          "es": "En la ventana oval, dentro de los canales semicirculares.",
+          "fr": "Sur la fenêtre ovale, à l'intérieur des canaux semi-circulaires.",
+          "de": "Auf dem ovalen Fenster, innerhalb der Bogengänge.",
+          "ja": "卵円窓上、半規管内。"
+        },
+        "feedback": {
+          "en": "The oval window receives vibrations from the stapes, and the semicircular canals are primarily involved in equilibrium, not hearing, and do not contain the Organ of Corti.",
+          "zh": "卵圆窗接收来自镫骨的振动，而半规管主要参与平衡而非听觉，且不包含科蒂器。",
+          "es": "La ventana oval recibe vibraciones del estribo, y los canales semicirculares están principalmente involucrados en el equilibrio, no en la audición, y no contienen el Órgano de Corti.",
+          "fr": "La fenêtre ovale reçoit les vibrations de l'étrier, et les canaux semi-circulaires sont principalement impliqués dans l'équilibre, pas l'audition, et ne contiennent pas l'organe de Corti.",
+          "de": "Das ovale Fenster empfängt Schwingungen vom Steigbügel, und die Bogengänge sind hauptsächlich am Gleichgewicht beteiligt, nicht am Hören, und enthalten nicht das Corti-Organ.",
+          "ja": "卵円窓はアブミ骨から振動を受け取り、半規管は主に平衡感覚に関与しており、聴覚には関与しておらず、コルチ器を含んでいません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The Organ of Corti is situated on the basilar membrane, which forms the floor of the cochlear duct. This arrangement is crucial for its function as the mechanoreceptor for hearing within the coiled cochlea.",
+      "zh": "科蒂器位于基底膜上，基底膜构成了耳蜗管的底部。这种结构对于其作为耳蜗内听觉机械感受器的功能至关重要。",
+      "es": "El Órgano de Corti está situado en la membrana basilar, que forma el suelo del conducto coclear. Esta disposición es crucial para su función como mecanorreceptor de la audición dentro de la cóclea en espiral.",
+      "fr": "L'organe de Corti est situé sur la membrane basilaire, qui forme le plancher du conduit cochléaire. Cette disposition est cruciale pour sa fonction de mécanorécepteur de l'audition au sein de la cochlée en spirale.",
+      "de": "Das Corti-Organ befindet sich auf der Basilarmembran, die den Boden des Cochleargangs bildet. Diese Anordnung ist entscheidend für seine Funktion als Mechanorezeptor für das Hören innerhalb der gewundenen Cochlea.",
+      "ja": "コルチ器は、蝸牛管の床を形成する基底膜上に位置しています。この配置は、らせん状の蝸牛内での聴覚の機械受容器としての機能にとって非常に重要です。"
+    }
+  },
+  {
+    "page_number": 1162,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "How do hair cells in the Organ of Corti convert mechanical vibrations into electrical signals that can be interpreted by the brain?",
+      "zh": "科蒂器中的毛细胞如何将机械振动转换为大脑可以解读的电信号？",
+      "es": "Cómo las células ciliadas del Órgano de Corti convierten las vibraciones mecánicas en señales eléctricas que pueden ser interpretadas por el cerebro?",
+      "fr": "Comment les cellules ciliées de l'organe de Corti convertissent-elles les vibrations mécaniques en signaux électriques interprétables par le cerveau?",
+      "de": "Wie wandeln Haarzellen im Corti-Organ mechanische Schwingungen in elektrische Signale um, die vom Gehirn interpretiert werden können?",
+      "ja": "コルチ器の有毛細胞は、機械的な振動を脳が解釈できる電気信号にどのように変換しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Vibration of the basilar membrane causes hair bundles to bend against the tectorial membrane, leading to a change in the hair cell's membrane potential.",
+          "zh": "基底膜的振动导致毛束弯曲触碰盖膜，从而引起毛细胞膜电位的变化。",
+          "es": "La vibración de la membrana basilar hace que los haces de cilios se doblen contra la membrana tectorial, lo que provoca un cambio en el potencial de membrana de la célula ciliada.",
+          "fr": "La vibration de la membrane basilaire provoque la flexion des faisceaux de cils contre la membrane tectoriale, entraînant un changement du potentiel de membrane de la cellule ciliée.",
+          "de": "Die Schwingung der Basilarmembran führt dazu, dass die Haarbündel gegen die Tektorialmembran gebogen werden, was eine Änderung des Membranpotenzials der Haarzelle bewirkt.",
+          "ja": "基底膜の振動により、有毛細胞の毛束が蓋膜に押し付けられて曲がり、有毛細胞の膜電位が変化します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The tectorial membrane directly vibrates, stimulating the hair cells to release neurotransmitters.",
+          "zh": "盖膜直接振动，刺激毛细胞释放神经递质。",
+          "es": "La membrana tectorial vibra directamente, estimulando a las células ciliadas para que liberen neurotransmisores.",
+          "fr": "La membrane tectoriale vibre directement, stimulant les cellules ciliées à libérer des neurotransmetteurs.",
+          "de": "Die Tektorialmembran schwingt direkt, wodurch die Haarzellen zur Freisetzung von Neurotransmittern stimuliert werden.",
+          "ja": "蓋膜が直接振動し、有毛細胞を刺激して神経伝達物質を放出します。"
+        },
+        "feedback": {
+          "en": "The tectorial membrane itself does not vibrate directly; rather, it serves as a surface against which the hair bundles bend when the basilar membrane vibrates.",
+          "zh": "盖膜本身不直接振动；相反，当基底膜振动时，它作为毛束弯曲的表面。",
+          "es": "La membrana tectorial no vibra directamente; más bien, sirve como una superficie contra la cual los haces de cilios se doblan cuando vibra la membrana basilar.",
+          "fr": "La membrane tectoriale ne vibre pas directement; elle sert plutôt de surface contre laquelle les faisceaux de cils se plient lorsque la membrane basilaire vibre.",
+          "de": "Die Tektorialmembran vibriert nicht direkt; sie dient vielmehr als Oberfläche, an der sich die Haarbündel biegen, wenn die Basilarmembran schwingt.",
+          "ja": "蓋膜自体が直接振動するわけではなく、基底膜が振動したときに有毛細胞の毛束が曲がる対象となる表面として機能します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Fluid movement in the semicircular canals directly stimulates hair cells in the cochlea.",
+          "zh": "半规管中的液体运动直接刺激耳蜗中的毛细胞。",
+          "es": "El movimiento del líquido en los canales semicirculares estimula directamente las células ciliadas de la cóclea.",
+          "fr": "Le mouvement du liquide dans les canaux semi-circulaires stimule directement les cellules ciliées de la cochlée.",
+          "de": "Die Flüssigkeitsbewegung in den Bogengängen stimuliert direkt die Haarzellen in der Cochlea.",
+          "ja": "半規管内の液体の動きが直接、蝸牛の有毛細胞を刺激します。"
+        },
+        "feedback": {
+          "en": "Semicircular canals are involved in sensing head movements and maintaining equilibrium, not in hearing; sound transduction occurs specifically within the cochlea.",
+          "zh": "半规管参与感知头部运动和维持平衡，与听觉无关；声音的转导特异性地发生在耳蜗内。",
+          "es": "Los canales semicirculares están involucrados en la detección de los movimientos de la cabeza y el mantenimiento del equilibrio, no en la audición; la transducción del sonido ocurre específicamente dentro de la cóclea.",
+          "fr": "Les canaux semi-circulaires sont impliqués dans la détection des mouvements de la tête et le maintien de l'équilibre, et non dans l'audition; la transduction sonore se produit spécifiquement dans la cochlée.",
+          "de": "Bogengänge sind an der Wahrnehmung von Kopfbewegungen und der Aufrechterhaltung des Gleichgewichts beteiligt, nicht am Hören; die Schalltransduktion findet spezifisch innerhalb der Cochlea statt.",
+          "ja": "半規管は頭の動きを感知し平衡を保つことに関与しており、聴覚には関与していません。音の変換は蝸牛内で特異的に起こります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The oval window's vibration directly creates action potentials in the hair cells without intermediate steps.",
+          "zh": "卵圆窗的振动直接在毛细胞中产生动作电位，没有中间步骤。",
+          "es": "La vibración de la ventana oval crea directamente potenciales de acción en las células ciliadas sin pasos intermedios.",
+          "fr": "La vibration de la fenêtre ovale crée directement des potentiels d'action dans les cellules ciliées sans étapes intermédiaires.",
+          "de": "Die Schwingung des ovalen Fensters erzeugt direkt Aktionspotenziale in den Haarzellen ohne Zwischenschritte.",
+          "ja": "卵円窓の振動が中間段階なしに直接有毛細胞に活動電位を発生させます。"
+        },
+        "feedback": {
+          "en": "The oval window transmits vibrations to the fluid within the cochlea, which then causes the basilar membrane to vibrate, leading to the bending of hair cells and changes in their membrane potential.",
+          "zh": "卵圆窗将振动传递到耳蜗内的液体，液体再引起基底膜振动，从而导致毛细胞弯曲并改变其膜电位。",
+          "es": "La ventana oval transmite vibraciones al líquido dentro de la cóclea, lo que luego hace que la membrana basilar vibre, lo que lleva a la flexión de las células ciliadas y cambios en su potencial de membrana.",
+          "fr": "La fenêtre ovale transmet les vibrations au liquide dans la cochlée, ce qui fait vibrer la membrane basilaire, entraînant la flexion des cellules ciliées et des changements de leur potentiel de membrane.",
+          "de": "Das ovale Fenster überträgt Schwingungen auf die Flüssigkeit in der Cochlea, was dann die Basilarmembran zum Schwingen bringt, was wiederum zum Biegen der Haarzellen und Änderungen ihres Membranpotenzials führt.",
+          "ja": "卵円窓は蝸牛内の液体に振動を伝え、その液体が基底膜を振動させ、それによって有毛細胞が曲がり、膜電位が変化します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The process of sound transduction by hair cells involves the vibration of the basilar membrane, which causes the hair cells to move and their bundles of 'hairs' to bend against the relatively static tectorial membrane. This mechanical bending leads to a change in the membrane potential of the hair cell, initiating the electrical signal that will be sent to the brain via the auditory nerve.",
+      "zh": "毛细胞的声音转导过程包括基底膜的振动，这导致毛细胞移动，其“毛发”束弯曲触碰相对静止的盖膜。这种机械弯曲导致毛细胞膜电位的变化，从而启动通过听觉神经发送到大脑的电信号。",
+      "es": "El proceso de transducción del sonido por las células ciliadas implica la vibración de la membrana basilar, lo que hace que las células ciliadas se muevan y sus haces de 'pelos' se doblen contra la membrana tectorial relativamente estática. Este doblamiento mecánico conduce a un cambio en el potencial de membrana de la célula ciliada, iniciando la señal eléctrica que será enviada al cerebro a través del nervio auditivo.",
+      "fr": "Le processus de transduction sonore par les cellules ciliées implique la vibration de la membrane basilaire, ce qui provoque le mouvement des cellules ciliées et la flexion de leurs faisceaux de 'poils' contre la membrane tectoriale relativement statique. Cette flexion mécanique entraîne un changement du potentiel de membrane de la cellule ciliée, initiant le signal électrique qui sera envoyé au cerveau via le nerf auditif.",
+      "de": "Der Prozess der Schalltransduktion durch Haarzellen beinhaltet die Schwingung der Basilarmembran, wodurch sich die Haarzellen bewegen und ihre Haarbündel gegen die relativ statische Tektorialmembran gebogen werden. Diese mechanische Biegung führt zu einer Änderung des Membranpotenzials der Haarzelle, wodurch das elektrische Signal initiiert wird, das über den Hörnerv an das Gehirn gesendet wird.",
+      "ja": "有毛細胞による音の変換プロセスには、基底膜の振動が含まれます。これにより有毛細胞が動き、「毛」の束が比較的静止している蓋膜に押し付けられて曲がります。この機械的な曲げが有毛細胞の膜電位の変化を引き起こし、聴神経を介して脳に送られる電気信号を開始させます。"
+    }
+  },
+  {
+    "page_number": 1162,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A patient reports experiencing sudden, severe vertigo and difficulty maintaining balance, but their hearing remains unimpaired. Based on the functions of the inner ear structures, which part is most likely malfunctioning?",
+      "zh": "一位患者报告突然出现严重的眩晕和平衡困难，但听力未受影响。根据内耳结构的各项功能，最可能是哪个部位出现故障？",
+      "es": "Un paciente informa haber experimentado un vértigo repentino y severo y dificultad para mantener el equilibrio, pero su audición permanece intacta. Basándose en las funciones de las estructuras del oído interno, ¿qué parte es la que probablemente está funcionando mal?",
+      "fr": "Un patient signale des vertiges soudains et sévères et des difficultés à maintenir l'équilibre, mais son audition reste intacte. D'après les fonctions des structures de l'oreille interne, quelle partie est la plus susceptible de mal fonctionner?",
+      "de": "Ein Patient berichtet über plötzlichen, starken Schwindel und Schwierigkeiten, das Gleichgewicht zu halten, aber sein Gehör ist unbeeinträchtigt. Basierend auf den Funktionen der Innenohrstrukturen, welcher Teil ist höchstwahrscheinlich gestört?",
+      "ja": "ある患者が突然の重度のめまいと平衡感覚の維持困難を訴えていますが、聴覚には異常がありません。内耳の構造の機能に基づいて、どの部分が最も機能不全を起こしている可能性が高いですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Semicircular canals",
+          "zh": "半规管",
+          "es": "Canales semicirculares",
+          "fr": "Canaux semi-circulaires",
+          "de": "Bogengänge",
+          "ja": "半規管"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Cochlea",
+          "zh": "耳蜗",
+          "es": "Cóclea",
+          "fr": "Cochlée",
+          "de": "Cochlea",
+          "ja": "蝸牛"
+        },
+        "feedback": {
+          "en": "The cochlea is primarily responsible for hearing. If it were malfunctioning, the patient would likely experience hearing loss or distortion, not primarily balance issues.",
+          "zh": "耳蜗主要负责听觉。如果耳蜗功能失常，患者可能会出现听力损失或失真，而不是主要的平衡问题。",
+          "es": "La cóclea es la principal responsable de la audición. Si estuviera funcionando mal, el paciente probablemente experimentaría pérdida o distorsión auditiva, no principalmente problemas de equilibrio.",
+          "fr": "La cochlée est principalement responsable de l'audition. Si elle fonctionnait mal, le patient subirait probablement une perte auditive ou une distorsion, et non principalement des problèmes d'équilibre.",
+          "de": "Die Cochlea ist hauptsächlich für das Hören verantwortlich. Wäre sie gestört, würde der Patient wahrscheinlich Hörverlust oder -verzerrungen erfahren, nicht primär Gleichgewichtsprobleme.",
+          "ja": "蝸牛は主に聴覚を担当しています。もし機能不全を起こしている場合、患者は主に平衡感覚の問題ではなく、聴力低下や歪みを経験するでしょう。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Tympanic membrane",
+          "zh": "鼓膜",
+          "es": "Membrana timpánica",
+          "fr": "Membrane tympanique",
+          "de": "Trommelfell",
+          "ja": "鼓膜"
+        },
+        "feedback": {
+          "en": "The tympanic membrane (eardrum) is part of the outer/middle ear and is crucial for transmitting sound vibrations. Its malfunction would primarily affect hearing, not balance.",
+          "zh": "鼓膜是外耳/中耳的一部分，对传递声波振动至关重要。它的功能障碍主要影响听力，而非平衡。",
+          "es": "La membrana timpánica es parte del oído externo/medio y es crucial para transmitir las vibraciones sonoras. Su mal funcionamiento afectaría principalmente la audición, no el equilibrio.",
+          "fr": "La membrane tympanique (tympan) fait partie de l'oreille externe/moyenne et est cruciale pour la transmission des vibrations sonores. Son dysfonctionnement affecterait principalement l'audition, pas l'équilibre.",
+          "de": "Das Trommelfell ist Teil des äußeren/mittleren Ohrs und entscheidend für die Übertragung von Schallschwingungen. Eine Fehlfunktion würde primär das Gehör beeinträchtigen, nicht das Gleichgewicht.",
+          "ja": "鼓膜は外耳・中耳の一部であり、音の振動を伝達するのに不可欠です。その機能不全は主に聴覚に影響を及ぼし、平衡感覚には影響しません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Eustachian tube",
+          "zh": "咽鼓管",
+          "es": "Trompa de Eustaquio",
+          "fr": "Trompe d'Eustache",
+          "de": "Eustachische Röhre",
+          "ja": "耳管"
+        },
+        "feedback": {
+          "en": "The Eustachian tube's primary role is to equalize pressure between the middle ear and the atmosphere. While issues with it can cause discomfort and minor hearing changes, they are not typically associated with severe vertigo and loss of balance without hearing impairment.",
+          "zh": "咽鼓管的主要作用是平衡中耳与大气之间的压力。虽然其问题可能导致不适和轻微听力变化，但通常与无听力障碍的严重眩晕和平衡失调无关。",
+          "es": "El papel principal de la trompa de Eustaquio es igualar la presión entre el oído medio y la atmósfera. Aunque los problemas con ella pueden causar molestias y cambios menores en la audición, no suelen asociarse con vértigo severo y pérdida de equilibrio sin deterioro auditivo.",
+          "fr": "Le rôle principal de la trompe d'Eustache est d'égaliser la pression entre l'oreille moyenne et l'atmosphère. Bien que des problèmes puissent causer de l'inconfort et des changements auditifs mineurs, ils ne sont généralement pas associés à des vertiges sévères et une perte d'équilibre sans déficience auditive.",
+          "de": "Die Hauptaufgabe der Eustachischen Röhre ist der Druckausgleich zwischen Mittelohr und Atmosphäre. Obwohl Probleme damit Unbehagen und geringfügige Hörveränderungen verursachen können, sind sie typischerweise nicht mit schwerem Schwindel und Gleichgewichtsverlust ohne Hörbeeinträchtigung verbunden.",
+          "ja": "耳管の主な役割は、中耳と大気圧の間の圧力を均等にすることです。耳管の問題は不快感や軽度の聴覚変化を引き起こす可能性がありますが、通常、聴覚障害を伴わない重度のめまいや平衡感覚の喪失とは関連付けられません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The semicircular canals are fluid-filled chambers within the inner ear specifically designed to detect head movements and maintain equilibrium (balance). The cochlea, on the other hand, is dedicated to hearing. Therefore, a malfunction primarily affecting balance without impacting hearing strongly points to the semicircular canals.",
+      "zh": "半规管是内耳内充满液体的腔室，专门用于检测头部运动和维持平衡。而耳蜗则专注于听觉。因此，如果主要影响平衡而不影响听力，则强烈指向半规管的功能障碍。",
+      "es": "Los canales semicirculares son cámaras llenas de líquido dentro del oído interno diseñadas específicamente para detectar los movimientos de la cabeza y mantener el equilibrio. La cóclea, por otro lado, se dedica a la audición. Por lo tanto, un mal funcionamiento que afecta principalmente el equilibrio sin afectar la audición apunta fuertemente a los canales semicirculares.",
+      "fr": "Les canaux semi-circulaires sont des chambres remplies de liquide situées dans l'oreille interne, spécifiquement conçues pour détecter les mouvements de la tête et maintenir l'équilibre. La cochlée, en revanche, est dédiée à l'audition. Par conséquent, un dysfonctionnement affectant principalement l'équilibre sans impacter l'audition pointe fortement vers les canaux semi-circulaires.",
+      "de": "Die Bogengänge sind flüssigkeitsgefüllte Kammern im Innenohr, die speziell dazu dienen, Kopfbewegungen zu erkennen und das Gleichgewicht zu halten. Die Cochlea hingegen ist für das Hören zuständig. Eine Funktionsstörung, die primär das Gleichgewicht beeinträchtigt, ohne das Gehör zu beeinflussen, deutet daher stark auf die Bogengänge hin.",
+      "ja": "半規管は内耳にある液体で満たされた管で、頭の動きを感知し、平衡（バランス）を維持するために特化しています。一方、蝸牛は聴覚専用です。したがって、聴覚に影響を与えずに主に平衡感覚に影響を与える機能不全は、強く半規管を示唆しています。"
+    }
+  }
+]

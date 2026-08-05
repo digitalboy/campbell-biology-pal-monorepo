@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 280,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements correctly describes a mechanism or key component involved in the initiation of apoptosis as described in the text?",
+      "zh": "以下哪项陈述正确描述了文本中提及的细胞凋亡启动机制或关键组成部分？",
+      "es": "¿Cuál de las siguientes afirmaciones describe correctamente un mecanismo o componente clave involucrado en el inicio de la apoptosis, según se describe en el texto?",
+      "fr": "Laquelle des affirmations suivantes décrit correctement un mécanisme ou un composant clé impliqué dans l'initiation de l'apoptose, tel que décrit dans le texte ?",
+      "de": "Welche der folgenden Aussagen beschreibt korrekt einen Mechanismus oder eine Schlüsselkomponente, die an der Initiierung der Apoptose beteiligt ist, wie im Text beschrieben?",
+      "ja": "本文で説明されているアポトーシスの開始に関与するメカニズムまたは主要なコンポーネントを正しく説明しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Apoptosis can only be triggered by external signals, such as death-signaling ligands binding to cell-surface receptors.",
+          "zh": "细胞凋亡只能由外部信号触发，例如死亡信号配体与细胞表面受体结合。",
+          "es": "La apoptosis solo puede ser desencadenada por señales externas, como la unión de ligandos de señalización de muerte a receptores de superficie celular.",
+          "fr": "L'apoptose ne peut être déclenchée que par des signaux externes, tels que la liaison de ligands de signalisation de la mort aux récepteurs de la surface cellulaire.",
+          "de": "Apoptose kann nur durch externe Signale ausgelöst werden, wie z.B. das Binden von Todes-Signal-Liganden an Zelloberflächenrezeptoren.",
+          "ja": "アポトーシスは、細胞表面受容体に結合する死シグナルリガンドなどの外部シグナルによってのみ引き起こされることがあります。"
+        },
+        "feedback": {
+          "en": "Apoptosis can also be triggered by internal signals, such as DNA damage or excessive protein misfolding.",
+          "zh": "细胞凋亡也可以由内部信号触发，例如DNA损伤或蛋白质错误折叠过多。",
+          "es": "La apoptosis también puede ser desencadenada por señales internas, como el daño al ADN o el plegamiento incorrecto excesivo de proteínas.",
+          "fr": "L'apoptose peut également être déclenchée par des signaux internes, tels que des dommages à l'ADN ou un repliement excessif des protéines.",
+          "de": "Apoptose kann auch durch interne Signale ausgelöst werden, wie z.B. DNA-Schäden oder übermäßige Proteinfaltungsprobleme.",
+          "ja": "アポトーシスは、DNA損傷や過剰なタンパク質ミスフォールディングなどの内部シグナルによっても引き起こされることがあります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The mitochondrial pathway is always involved in the activation of caspases during apoptosis.",
+          "zh": "在细胞凋亡过程中，线粒体途径总是参与半胱天冬酶的激活。",
+          "es": "La vía mitocondrial siempre está involucrada en la activación de las caspasas durante la apoptosis.",
+          "fr": "La voie mitochondriale est toujours impliquée dans l'activation des caspases pendant l'apoptose.",
+          "de": "Der mitochondriale Weg ist immer an der Aktivierung von Caspasen während der Apoptose beteiligt.",
+          "ja": "アポトーシス中のカスパーゼの活性化には、常にミトコンドリア経路が関与しています。"
+        },
+        "feedback": {
+          "en": "External death-signaling ligands can activate caspases without involving the mitochondrial pathway.",
+          "zh": "外部死亡信号配体可以在不涉及线粒体途径的情况下激活半胱天冬酶。",
+          "es": "Los ligandos de señalización de muerte externos pueden activar las caspasas sin involucrar la vía mitocondrial.",
+          "fr": "Les ligands de signalisation de mort externes peuvent activer les caspases sans impliquer la voie mitochondriale.",
+          "de": "Externe Todes-Signal-Liganden können Caspasen aktivieren, ohne den mitochondrialen Weg zu involvieren.",
+          "ja": "外部死シグナルリガンドは、ミトコンドリア経路を介さずにカスパーゼを活性化することができます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Proteins like Ced-3, Ced-4, and Ced-9 are involved in relaying the apoptotic signal in both nematodes and mammals.",
+          "zh": "Ced-3、Ced-4和Ced-9等蛋白质参与线虫和哺乳动物细胞凋亡信号的传递。",
+          "es": "Proteínas como Ced-3, Ced-4 y Ced-9 están involucradas en la transmisión de la señal apoptótica tanto en nematodos como en mamíferos.",
+          "fr": "Des protéines comme Ced-3, Ced-4 et Ced-9 sont impliquées dans la transmission du signal apoptotique chez les nématodes et les mammifères.",
+          "de": "Proteine wie Ced-3, Ced-4 und Ced-9 sind sowohl bei Nematoden als auch bei Säugetieren an der Weiterleitung des apoptotischen Signals beteiligt.",
+          "ja": "Ced-3、Ced-4、Ced-9などのタンパク質は、線虫と哺乳類の両方でアポトーシスシグナルの伝達に関与しています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA damage and excessive protein misfolding primarily trigger apoptosis by activating cell-surface receptors.",
+          "zh": "DNA损伤和蛋白质错误折叠过多主要通过激活细胞表面受体来触发细胞凋亡。",
+          "es": "El daño al ADN y el plegamiento incorrecto excesivo de proteínas desencadenan principalmente la apoptosis activando los receptores de superficie celular.",
+          "fr": "Les dommages à l'ADN et le repliement excessif des protéines déclenchent principalement l'apoptose en activant les récepteurs de surface cellulaire.",
+          "de": "DNA-Schäden und übermäßige Proteinfaltungsprobleme lösen Apoptose hauptsächlich durch die Aktivierung von Zelloberflächenrezeptoren aus.",
+          "ja": "DNA損傷と過剰なタンパク質ミスフォールディングは、主に細胞表面受容体を活性化することによってアポトーシスを引き起こします。"
+        },
+        "feedback": {
+          "en": "DNA damage and protein misfolding are internal signals that do not directly activate cell-surface receptors; they originate from the nucleus or endoplasmic reticulum, respectively.",
+          "zh": "DNA损伤和蛋白质错误折叠是内部信号，不直接激活细胞表面受体；它们分别来源于细胞核或内质网。",
+          "es": "El daño al ADN y el plegamiento incorrecto de proteínas son señales internas que no activan directamente los receptores de superficie celular; se originan en el núcleo o el retículo endoplasmático, respectivamente.",
+          "fr": "Les dommages à l'ADN et le repliement des protéines sont des signaux internes qui n'activent pas directement les récepteurs de surface cellulaire ; ils proviennent respectivement du noyau ou du réticulum endoplasmique.",
+          "de": "DNA-Schäden und Proteinfaltungsprobleme sind interne Signale, die Zelloberflächenrezeptoren nicht direkt aktivieren; sie stammen jeweils aus dem Zellkern oder dem endoplasmatischen Retikulum.",
+          "ja": "DNA損傷とタンパク質ミスフォールディングは、細胞表面受容体を直接活性化しない内部シグナルであり、それぞれ核または小胞体から発生します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that Ced-3, Ced-4, and Ced-9 proteins in mammals are similar to those in nematodes and are involved in relaying the apoptotic signal. It also clarifies that apoptosis can be triggered by external signals (like death-signaling ligands) or internal signals (DNA damage from the nucleus, protein misfolding from the ER), meaning option A and D are incorrect. Option B is incorrect because external signals can activate caspases without involving the mitochondrial pathway.",
+      "zh": "文本指出，哺乳动物中的Ced-3、Ced-4和Ced-9蛋白质与线虫中的类似，并参与凋亡信号的传递。文本还阐明，细胞凋亡可以由外部信号（如死亡信号配体）或内部信号（来自细胞核的DNA损伤、来自内质网的蛋白质错误折叠）触发，这意味着选项A和D是错误的。选项B错误是因为外部信号可以在不涉及线粒体途径的情况下激活半胱天冬酶。",
+      "es": "El texto establece que las proteínas Ced-3, Ced-4 y Ced-9 en mamíferos son similares a las de los nematodos y están involucradas en la transmisión de la señal apoptótica. También aclara que la apoptosis puede ser desencadenada por señales externas (como los ligandos de señalización de muerte) o internas (daño al ADN del núcleo, plegamiento incorrecto de proteínas del RE), lo que significa que las opciones A y D son incorrectas. La opción B es incorrecta porque las señales externas pueden activar las caspasas sin involucrar la vía mitocondrial.",
+      "fr": "Le texte indique que les protéines Ced-3, Ced-4 et Ced-9 chez les mammifères sont similaires à celles des nématodes et sont impliquées dans la transmission du signal apoptotique. Il précise également que l'apoptose peut être déclenchée par des signaux externes (comme les ligands de signalisation de la mort) ou internes (dommages à l'ADN du noyau, repliement des protéines du RE), ce qui signifie que les options A et D sont incorrectes. L'option B est incorrecte car les signaux externes peuvent activer les caspases sans impliquer la voie mitochondriale.",
+      "de": "Der Text besagt, dass Ced-3-, Ced-4- und Ced-9-Proteine bei Säugetieren denen bei Nematoden ähneln und an der Weiterleitung des apoptotischen Signals beteiligt sind. Es wird auch klargestellt, dass Apoptose sowohl durch externe Signale (wie Todes-Signal-Liganden) als auch durch interne Signale (DNA-Schäden aus dem Zellkern, Proteinfaltungsprobleme aus dem ER) ausgelöst werden kann, was bedeutet, dass Option A und D falsch sind. Option B ist falsch, da externe Signale Caspasen aktivieren können, ohne den mitochondrialen Weg zu involvieren.",
+      "ja": "本文では、哺乳類のCed-3、Ced-4、Ced-9タンパク質が線虫のものと類似しており、アポトーシスシグナルの伝達に関与していると述べています。また、アポトーシスは外部シグナル（死シグナルリガンドなど）または内部シグナル（核からのDNA損傷、ERからのタンパク質ミスフォールディング）によって引き起こされる可能性があることも明確にされており、これはオプションAとDが誤りであることを意味します。オプションBは、外部シグナルがミトコンドリア経路を介さずにカスパーゼを活性化できるため誤りです。"
+    }
+  },
+  {
+    "page_number": 280,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the information provided, what are the likely consequences if apoptosis is dysregulated, specifically if it fails to occur when it should or occurs when it should not, and which protein defects could be implicated?",
+      "zh": "根据所提供的信息，如果细胞凋亡失调，特别是在应该发生时未发生或不应该发生时却发生，可能会产生什么后果？哪些蛋白质缺陷可能与此有关？",
+      "es": "Según la información proporcionada, ¿cuáles son las probables consecuencias si la apoptosis está desregulada, específicamente si no ocurre cuando debería o si ocurre cuando no debería, y qué defectos proteicos podrían estar implicados?",
+      "fr": "D'après les informations fournies, quelles sont les conséquences probables si l'apoptose est dérégulée, notamment si elle ne se produit pas quand elle le devrait ou si elle se produit quand elle ne le devrait pas, et quels défauts protéiques pourraient être impliqués ?",
+      "de": "Basierend auf den bereitgestellten Informationen, welche wahrscheinlichen Folgen hat eine Fehlregulation der Apoptose, insbesondere wenn sie nicht eintritt, wenn sie sollte, oder eintritt, wenn sie nicht sollte, und welche Proteindefekte könnten dabei eine Rolle spielen?",
+      "ja": "提供された情報に基づくと、アポトーシスが調節不全に陥った場合、特に起こるべき時に起こらない場合や起こるべきでない時に起こる場合、どのような結果が考えられ、どのようなタンパク質欠陥が関与している可能性がありますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "If apoptosis fails to occur when it should, it could lead to the persistence of webbed digits or contribute to cancer due to cell suicide failure; defects in proteins like Ced-4 are implicated.",
+          "zh": "如果细胞凋亡在应该发生时未发生，可能导致蹼指趾的持续存在或因细胞自杀失败而导致癌症；Ced-4等蛋白质的缺陷可能与此有关。",
+          "es": "Si la apoptosis no ocurre cuando debería, podría llevar a la persistencia de dedos palmeados o contribuir al cáncer debido a la falla del suicidio celular; se implican defectos en proteínas como Ced-4.",
+          "fr": "Si l'apoptose ne se produit pas quand elle le devrait, cela pourrait entraîner la persistance de doigts palmés ou contribuer au cancer en raison de l'échec du suicide cellulaire ; des défauts dans des protéines comme Ced-4 sont impliqués.",
+          "de": "Wenn Apoptose nicht eintritt, wenn sie sollte, könnte dies zur Persistenz von Schwimmhäuten oder zu Krebs aufgrund eines Scheiterns des Zelltods führen; Defekte in Proteinen wie Ced-4 sind dabei involviert.",
+          "ja": "アポトーシスが起こるべき時に起こらない場合、水かき状の指の持続につながるか、細胞自殺の失敗により癌に寄与する可能性があります。Ced-4などのタンパク質の欠陥が関与しているとされています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "If apoptosis occurs when it should not, it could result in Parkinson's or Alzheimer's disease due to neuronal cell loss; defects in proteins involved in DNA repair might be the cause.",
+          "zh": "如果细胞凋亡在不应该发生时发生，可能导致帕金森病或阿尔茨海默病，因为神经元细胞损失；DNA修复相关蛋白质的缺陷可能是原因。",
+          "es": "Si la apoptosis ocurre cuando no debería, podría resultar en la enfermedad de Parkinson o Alzheimer debido a la pérdida de células neuronales; los defectos en las proteínas involucradas en la reparación del ADN podrían ser la causa.",
+          "fr": "Si l'apoptose se produit quand elle ne le devrait pas, cela pourrait entraîner la maladie de Parkinson ou d'Alzheimer en raison de la perte de cellules neuronales ; des défauts dans les protéines impliquées dans la réparation de l'ADN pourraient en être la cause.",
+          "de": "Wenn Apoptose eintritt, wenn sie nicht sollte, könnte dies zu Parkinson oder Alzheimer aufgrund von neuronalem Zellverlust führen; Defekte in Proteinen, die an der DNA-Reparatur beteiligt sind, könnten die Ursache sein.",
+          "ja": "アポトーシスが起こるべきでない時に起こる場合、神経細胞の損失によりパーキンソン病やアルツハイマー病を引き起こす可能性があります。DNA修復に関与するタンパク質の欠陥が原因である可能性があります。"
+        },
+        "feedback": {
+          "en": "While inappropriate apoptosis can lead to neuronal loss in these diseases, the text links DNA repair defects to apoptosis triggered by irreparable DNA damage (failure of apoptosis to occur when cells should die), not directly to causing Parkinson's or Alzheimer's through 'occurs when it shouldn't'. Alzheimer's is specifically linked to aggregated proteins triggering apoptosis.",
+          "zh": "虽然不当的细胞凋亡可能导致这些疾病中的神经元损失，但文本将DNA修复缺陷与不可修复的DNA损伤触发的细胞凋亡（细胞应死亡时未发生凋亡）联系起来，而不是直接通过“不应该发生时发生”导致帕金森病或阿尔茨海默病。阿尔茨海默病特别与聚集的蛋白质触发细胞凋亡有关。",
+          "es": "Aunque la apoptosis inapropiada puede llevar a la pérdida neuronal en estas enfermedades, el texto vincula los defectos de reparación del ADN con la apoptosis desencadenada por daño irreparable al ADN (fallo de la apoptosis cuando las células deberían morir), no directamente a causar Parkinson o Alzheimer a través de 'ocurre cuando no debería'. El Alzheimer se vincula específicamente con proteínas agregadas que desencadenan la apoptosis.",
+          "fr": "Bien que l'apoptose inappropriée puisse entraîner une perte neuronale dans ces maladies, le texte relie les défauts de réparation de l'ADN à l'apoptose déclenchée par des dommages irréparables à l'ADN (échec de l'apoptose lorsque les cellules devraient mourir), et non directement à la cause de la maladie de Parkinson ou d'Alzheimer par 'se produit quand elle ne le devrait pas'. La maladie d'Alzheimer est spécifiquement liée à l'agrégation de protéines déclenchant l'apoptose.",
+          "de": "Obwohl unangemessene Apoptose zum neuronalen Zellverlust bei diesen Krankheiten führen kann, verknüpft der Text DNA-Reparaturdefekte mit Apoptose, die durch irreparable DNA-Schäden ausgelöst wird (Versagen der Apoptose, wenn Zellen sterben sollten), nicht direkt mit der Verursachung von Parkinson oder Alzheimer durch 'tritt ein, wenn sie nicht sollte'. Alzheimer ist spezifisch mit aggregierten Proteinen verbunden, die Apoptose auslösen.",
+          "ja": "不適切なアポトーシスがこれらの疾患における神経細胞の損失につながる可能性はありますが、本文ではDNA修復の欠陥を、修復不能なDNA損傷によって引き起こされるアポトーシス（細胞が死ぬべき時にアポトーシスが起こらないこと）と関連付けており、「起こるべきでない時に起こる」ことによって直接パーキンソン病やアルツハイマー病を引き起こすとはしていません。アルツハイマー病は特に凝集したタンパク質がアポトーシスを引き起こすことと関連付けられています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both failure of apoptosis and inappropriate apoptosis always involve faulty cell-surface receptors, leading to autoimmune disorders.",
+          "zh": "细胞凋亡的失败和不当凋亡总是涉及有缺陷的细胞表面受体，从而导致自身免疫性疾病。",
+          "es": "Tanto el fallo de la apoptosis como la apoptosis inapropiada siempre implican receptores de superficie celular defectuosos, lo que lleva a trastornos autoinmunes.",
+          "fr": "L'échec de l'apoptose et l'apoptose inappropriée impliquent toujours des récepteurs de surface cellulaire défectueux, entraînant des troubles auto-immuns.",
+          "de": "Sowohl das Versagen der Apoptose als auch unangemessene Apoptose beinhalten immer fehlerhafte Zelloberflächenrezeptoren, was zu Autoimmunerkrankungen führt.",
+          "ja": "アポトーシスの失敗と不適切なアポトーシスは、常に細胞表面受容体の欠陥を伴い、自己免疫疾患につながります。"
+        },
+        "feedback": {
+          "en": "Apoptosis can also be triggered by internal signals (DNA damage, protein misfolding) that do not involve cell-surface receptors. The text does not explicitly link apoptosis dysregulation to autoimmune disorders.",
+          "zh": "细胞凋亡也可以由不涉及细胞表面受体的内部信号（DNA损伤、蛋白质错误折叠）触发。文本并未明确将细胞凋亡失调与自身免疫性疾病联系起来。",
+          "es": "La apoptosis también puede ser desencadenada por señales internas (daño al ADN, plegamiento incorrecto de proteínas) que no involucran receptores de superficie celular. El texto no vincula explícitamente la desregulación de la apoptosis con trastornos autoinmunes.",
+          "fr": "L'apoptose peut également être déclenchée par des signaux internes (dommages à l'ADN, repliement des protéines) qui n'impliquent pas les récepteurs de surface cellulaire. Le texte ne lie pas explicitement la dérégulation de l'apoptose aux troubles auto-immuns.",
+          "de": "Apoptose kann auch durch interne Signale (DNA-Schäden, Proteinfaltungsprobleme) ausgelöst werden, die keine Zelloberflächenrezeptoren involvieren. Der Text verknüpft Apoptose-Fehlregulation nicht explizit mit Autoimmunerkrankungen.",
+          "ja": "アポトーシスは、細胞表面受容体を介さない内部シグナル（DNA損傷、タンパク質ミスフォールディング）によっても引き起こされることがあります。本文は、アポトーシスの調節不全と自己免疫疾患を明確に結びつけていません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Abnormal apoptosis solely affects embryonic development, leading to conditions like syndactyly, but has no role in adult degenerative diseases.",
+          "zh": "异常细胞凋亡仅影响胚胎发育，导致并指/趾等病症，但在成人退行性疾病中没有作用。",
+          "es": "La apoptosis anormal afecta únicamente el desarrollo embrionario, lo que lleva a afecciones como la sindactilia, pero no tiene ningún papel en las enfermedades degenerativas del adulto.",
+          "fr": "L'apoptose anormale n'affecte que le développement embryonnaire, entraînant des affections comme la syndactylie, mais n'a aucun rôle dans les maladies dégénératives de l'adulte.",
+          "de": "Abnormale Apoptose betrifft ausschließlich die embryonale Entwicklung und führt zu Zuständen wie Syndaktylie, spielt aber keine Rolle bei degenerativen Erkrankungen im Erwachsenenalter.",
+          "ja": "異常なアポトーシスは胚発生のみに影響を及ぼし、合指症などの症状を引き起こしますが、成人退行性疾患には関与しません。"
+        },
+        "feedback": {
+          "en": "The text clearly states that apoptosis is involved in degenerative diseases of the nervous system, such as Parkinson's and Alzheimer's disease, and that cancer can result from a failure of cell suicide.",
+          "zh": "文本明确指出，细胞凋亡与神经系统的退行性疾病（如帕金森病和阿尔茨海默病）有关，并且癌症可能由细胞自杀失败引起。",
+          "es": "El texto establece claramente que la apoptosis está involucrada en enfermedades degenerativas del sistema nervioso, como la enfermedad de Parkinson y Alzheimer, y que el cáncer puede resultar de una falla del suicidio celular.",
+          "fr": "Le texte indique clairement que l'apoptose est impliquée dans les maladies dégénératives du système nerveux, telles que la maladie de Parkinson et d'Alzheimer, et que le cancer peut résulter d'un échec du suicide cellulaire.",
+          "de": "Der Text besagt eindeutig, dass Apoptose an degenerativen Erkrankungen des Nervensystems, wie Parkinson und Alzheimer, beteiligt ist und dass Krebs aus einem Versagen des Zelltods resultieren kann.",
+          "ja": "本文は、アポトーシスがパーキンソン病やアルツハイマー病などの神経系の変性疾患に関与していること、そして細胞自殺の失敗が癌を引き起こす可能性があることを明確に述べています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that 'in the case of humans, the failure of appropriate apoptosis can result in webbed fingers and toes,' and that 'cancer can result from a failure of cell suicide; some cases of human melanoma, for example, have been linked to faulty forms of the human version of the C. elegans Ced-4 protein.' This directly supports option A. Other options contain inaccuracies or statements not supported by the provided text.",
+      "zh": "文本明确指出，“就人类而言，适当的细胞凋亡失败可能导致蹼指趾”，并且“癌症可能由细胞自杀失败引起；例如，某些人类黑色素瘤病例与人源线虫Ced-4蛋白的缺陷形式有关”。这直接支持了选项A。其他选项包含不准确或文本不支持的陈述。",
+      "es": "El texto establece explícitamente que 'en el caso de los humanos, el fracaso de la apoptosis apropiada puede resultar en dedos y pies palmeados', y que 'el cáncer puede resultar de un fallo del suicidio celular; algunos casos de melanoma humano, por ejemplo, se han relacionado con formas defectuosas de la versión humana de la proteína Ced-4 de C. elegans'. Esto apoya directamente la opción A. Otras opciones contienen imprecisiones o afirmaciones no respaldadas por el texto proporcionado.",
+      "fr": "Le texte indique explicitement que « chez l'homme, l'échec de l'apoptose appropriée peut entraîner des doigts et des orteils palmés », et que « le cancer peut résulter d'un échec du suicide cellulaire ; certains cas de mélanome humain, par exemple, ont été liés à des formes défectueuses de la version humaine de la protéine Ced-4 de C. elegans ». Cela soutient directement l'option A. Les autres options contiennent des inexactitudes ou des affirmations non étayées par le texte fourni.",
+      "de": "Der Text besagt ausdrücklich, dass „im Falle von Menschen das Versagen angemessener Apoptose zu Schwimmhäuten an Fingern und Zehen führen kann“ und dass „Krebs aus einem Versagen des Zelltods resultieren kann; einige Fälle von menschlichem Melanom wurden beispielsweise mit fehlerhaften Formen der menschlichen Version des C. elegans Ced-4-Proteins in Verbindung gebracht“. Dies unterstützt direkt Option A. Andere Optionen enthalten Ungenauigkeiten oder Aussagen, die nicht durch den bereitgestellten Text gestützt werden.",
+      "ja": "本文には「ヒトの場合、適切なアポトーシスの失敗は、水かき状の指や足の指につながる可能性がある」と明記されており、さらに「癌は細胞自殺の失敗から生じる可能性があり、例えば一部のヒトのメラノーマの症例は、C. elegans Ced-4タンパク質のヒト版の欠陥のある形態と関連付けられている」と述べられています。これはオプションAを直接支持しています。他の選択肢には不正確な記述や、提供された本文によって裏付けられていない記述が含まれています。"
+    }
+  },
+  {
+    "page_number": 280,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 11.21 and its caption, what is the primary role of apoptosis during paw development in mammals?",
+      "zh": "根据图11.21及其图注，细胞凋亡在哺乳动物爪子发育过程中的主要作用是什么？",
+      "es": "Según la Figura 11.21 y su leyenda, ¿cuál es el papel principal de la apoptosis durante el desarrollo de la pata en mamíferos?",
+      "fr": "Selon la figure 11.21 et sa légende, quel est le rôle principal de l'apoptose pendant le développement de la patte chez les mammifères ?",
+      "de": "Gemäß Abbildung 11.21 und ihrer Beschriftung, welche primäre Rolle spielt die Apoptose während der Pfotenentwicklung bei Säugetieren?",
+      "ja": "図11.21とその説明文によると、哺乳動物の足の発達におけるアポトーシスの主な役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To stimulate cell proliferation, increasing the size of the paw.",
+          "zh": "刺激细胞增殖，增加爪子的大小。",
+          "es": "Estimular la proliferación celular, aumentando el tamaño de la pata.",
+          "fr": "Stimuler la prolifération cellulaire, augmentant la taille de la patte.",
+          "de": "Zellproliferation stimulieren, um die Größe der Pfote zu erhöhen.",
+          "ja": "細胞増殖を刺激し、足のサイズを大きくする。"
+        },
+        "feedback": {
+          "en": "Apoptosis eliminates cells, it does not stimulate proliferation to increase paw size. That would be cell division.",
+          "zh": "细胞凋亡是消除细胞，而不是刺激增殖以增加爪子的大小。那是细胞分裂的作用。",
+          "es": "La apoptosis elimina células, no estimula la proliferación para aumentar el tamaño de la pata. Eso sería división celular.",
+          "fr": "L'apoptose élimine les cellules, elle ne stimule pas la prolifération pour augmenter la taille de la patte. Cela relèverait de la division cellulaire.",
+          "de": "Apoptose eliminiert Zellen, sie stimuliert nicht die Proliferation zur Vergrößerung der Pfote. Das wäre Zellteilung.",
+          "ja": "アポトーシスは細胞を除去するものであり、足のサイズを大きくするために増殖を刺激するものではありません。それは細胞分裂の役割です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To form a solid, platelike structure for the paw.",
+          "zh": "形成爪子的坚实板状结构。",
+          "es": "Formar una estructura sólida y en forma de placa para la pata.",
+          "fr": "Former une structure solide et en forme de plaque pour la patte.",
+          "de": "Eine feste, plattenartige Struktur für die Pfote bilden.",
+          "ja": "足のしっかりした板状構造を形成する。"
+        },
+        "feedback": {
+          "en": "Apoptosis eliminates cells from the initial solid platelike structure to form digits, it does not form the structure itself.",
+          "zh": "细胞凋亡是从最初的坚实板状结构中消除细胞以形成指/趾，而不是形成结构本身。",
+          "es": "La apoptosis elimina las células de la estructura inicial sólida y en forma de placa para formar los dedos, no forma la estructura en sí misma.",
+          "fr": "L'apoptose élimine les cellules de la structure initiale solide en forme de plaque pour former les doigts, elle ne forme pas la structure elle-même.",
+          "de": "Apoptose eliminiert Zellen aus der anfänglichen festen, plattenartigen Struktur, um Zehen zu bilden; sie bildet nicht die Struktur selbst.",
+          "ja": "アポトーシスは、最初のしっかりした板状構造から細胞を除去して指を形成するものであり、構造自体を形成するものではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To eliminate cells in the interdigital regions, forming individual digits.",
+          "zh": "消除指间区域的细胞，形成独立的指/趾。",
+          "es": "Eliminar las células en las regiones interdigitales, formando dígitos individuales.",
+          "fr": "Éliminer les cellules des régions interdigitales, formant des doigts individuels.",
+          "de": "Zellen in den Zehenzwischenräumen eliminieren, um einzelne Zehen zu bilden.",
+          "ja": "指間の細胞を除去し、個々の指を形成する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To stain the cells a yellowish-green color for observation.",
+          "zh": "将细胞染成黄绿色以便观察。",
+          "es": "Teñir las células de color verde amarillento para su observación.",
+          "fr": "Teindre les cellules en une couleur vert jaunâtre pour l'observation.",
+          "de": "Die Zellen zur Beobachtung gelblich-grün färben.",
+          "ja": "細胞を黄緑色に染色して観察する。"
+        },
+        "feedback": {
+          "en": "Staining is a method used for visualization and observation of cells undergoing apoptosis, not the biological function of apoptosis itself.",
+          "zh": "染色是一种用于观察凋亡细胞的可视化方法，而不是细胞凋亡本身的生物学功能。",
+          "es": "La tinción es un método utilizado para la visualización y observación de las células que experimentan apoptosis, no la función biológica de la apoptosis en sí.",
+          "fr": "La coloration est une méthode utilisée pour la visualisation et l'observation des cellules subissant l'apoptose, et non la fonction biologique de l'apoptose elle-même.",
+          "de": "Färbung ist eine Methode zur Visualisierung und Beobachtung von Zellen, die Apoptose durchlaufen, nicht die biologische Funktion der Apoptose selbst.",
+          "ja": "染色は、アポトーシス undergoing の細胞の視覚化と観察に使用される方法であり、アポトーシス自体の生物学的機能ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The caption for Figure 11.21 explicitly states: 'Apoptosis eliminates the cells in the interdigital regions, thus forming the digits.' This directly aligns with option C.",
+      "zh": "图11.21的图注明确指出：“细胞凋亡消除了指间区域的细胞，从而形成了指/趾。” 这与选项C直接吻合。",
+      "es": "La leyenda de la Figura 11.21 establece explícitamente: 'La apoptosis elimina las células en las regiones interdigitales, formando así los dígitos'. Esto se alinea directamente con la opción C.",
+      "fr": "La légende de la figure 11.21 indique explicitement : « L'apoptose élimine les cellules des régions interdigitales, formant ainsi les doigts. » Cela correspond directement à l'option C.",
+      "de": "Die Beschriftung zu Abbildung 11.21 besagt explizit: „Apoptose eliminiert die Zellen in den Zehenzwischenräumen und bildet so die Zehen.“ Dies stimmt direkt mit Option C überein.",
+      "ja": "図11.21のキャプションには、「アポトーシスは指間の細胞を除去し、それによって指を形成する」と明確に記載されています。これはオプションCと直接一致します。"
+    }
+  },
+  {
+    "page_number": 280,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text suggests that the basic mechanism of apoptosis evolved early in the evolution of eukaryotes. Which of the following observations supports this conclusion?",
+      "zh": "文本表明，细胞凋亡的基本机制在真核生物进化早期就已形成。以下哪项观察结果支持这一结论？",
+      "es": "El texto sugiere que el mecanismo básico de la apoptosis evolucionó temprano en la evolución de los eucariotas. ¿Cuál de las siguientes observaciones apoya esta conclusión?",
+      "fr": "Le texte suggère que le mécanisme de base de l'apoptose a évolué tôt dans l'évolution des eucaryotes. Laquelle des observations suivantes soutient cette conclusion ?",
+      "de": "Der Text legt nahe, dass der grundlegende Mechanismus der Apoptose früh in der Evolution der Eukaryoten entstand. Welche der folgenden Beobachtungen stützt diese Schlussfolgerung?",
+      "ja": "本文は、アポトーシスの基本的なメカニズムが真核生物の進化の初期に形成されたことを示唆しています。次の観察結果のうち、この結論を支持しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Apoptosis in mammals relies on proteins identical to those found in single-celled yeasts.",
+          "zh": "哺乳动物的细胞凋亡依赖于与单细胞酵母中发现的相同蛋白质。",
+          "es": "La apoptosis en mamíferos depende de proteínas idénticas a las que se encuentran en levaduras unicelulares.",
+          "fr": "L'apoptose chez les mammifères repose sur des protéines identiques à celles trouvées chez les levures unicellulaires.",
+          "de": "Apoptose bei Säugetieren beruht auf Proteinen, die identisch mit denen in einzelligen Hefen sind.",
+          "ja": "哺乳動物のアポトーシスは、単細胞酵母に見られるものと同一のタンパク質に依存している。"
+        },
+        "feedback": {
+          "en": "The text states that the apoptosis genes in nematodes and mammals show 'similarities', not that mammalian proteins are 'identical' to those in single-celled yeasts.",
+          "zh": "文本指出线虫和哺乳动物的细胞凋亡基因存在“相似性”，而不是说哺乳动物的蛋白质与单细胞酵母中的蛋白质“相同”。",
+          "es": "El texto establece que los genes de la apoptosis en nematodos y mamíferos muestran 'similitudes', no que las proteínas de los mamíferos sean 'idénticas' a las que se encuentran en levaduras unicelulares.",
+          "fr": "Le texte indique que les gènes de l'apoptose chez les nématodes et les mammifères présentent des « similitudes », et non que les protéines mammaliennes sont « identiques » à celles trouvées chez les levures unicellulaires.",
+          "de": "Der Text besagt, dass die Apoptose-Gene bei Nematoden und Säugetieren „Ähnlichkeiten“ aufweisen, nicht dass Säugetierproteine „identisch“ mit denen in einzelligen Hefen sind.",
+          "ja": "本文では、線虫と哺乳動物のアポトーシス遺伝子には「類似性」があると述べており、哺乳動物のタンパク質が単細胞酵母のものと「同一」であるとはしていません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Apoptosis occurs in nematodes, mammals, multicellular fungi, and single-celled yeasts, indicating a conserved mechanism across diverse taxa.",
+          "zh": "细胞凋亡发生在线虫、哺乳动物、多细胞真菌和单细胞酵母中，这表明在不同生物类群中存在保守的机制。",
+          "es": "La apoptosis ocurre en nematodos, mamíferos, hongos multicelulares y levaduras unicelulares, lo que indica un mecanismo conservado en diversos taxones.",
+          "fr": "L'apoptose se produit chez les nématodes, les mammifères, les champignons multicellulaires et les levures unicellulaires, ce qui indique un mécanisme conservé à travers divers taxons.",
+          "de": "Apoptose tritt bei Nematoden, Säugetieren, vielzelligen Pilzen und einzelligen Hefen auf, was auf einen konservierten Mechanismus über verschiedene Taxa hinweist.",
+          "ja": "アポトーシスは線虫、哺乳動物、多細胞真菌、単細胞酵母で起こり、多様な分類群にわたる保存されたメカニズムを示唆しています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The complexity of apoptotic signaling pathways in humans implies a recent evolutionary origin.",
+          "zh": "人类细胞凋亡信号通路的复杂性暗示着其进化起源较晚。",
+          "es": "La complejidad de las vías de señalización apoptótica en humanos implica un origen evolutivo reciente.",
+          "fr": "La complexité des voies de signalisation apoptotique chez l'homme implique une origine évolutive récente.",
+          "de": "Die Komplexität der apoptotischen Signalwege beim Menschen deutet auf einen jüngeren evolutionären Ursprung hin.",
+          "ja": "ヒトのアポトーシスシグナル伝達経路の複雑さは、進化の起源が最近であることを示唆している。"
+        },
+        "feedback": {
+          "en": "The text states that the basic mechanism evolved early, and while human pathways are elaborate, complexity does not necessarily imply a recent origin when the core mechanism is ancient.",
+          "zh": "文本指出基本机制进化较早，虽然人类的通路很复杂，但在核心机制古老的情况下，复杂性不一定意味着起源较晚。",
+          "es": "El texto establece que el mecanismo básico evolucionó temprano, y aunque las vías humanas son elaboradas, la complejidad no implica necesariamente un origen reciente cuando el mecanismo central es antiguo.",
+          "fr": "Le texte indique que le mécanisme de base a évolué tôt, et bien que les voies humaines soient élaborées, la complexité n'implique pas nécessairement une origine récente lorsque le mécanisme central est ancien.",
+          "de": "Der Text besagt, dass der grundlegende Mechanismus früh in der Evolution entstand, und obwohl die menschlichen Signalwege komplex sind, bedeutet Komplexität nicht unbedingt einen jüngeren Ursprung, wenn der Kernmechanismus alt ist.",
+          "ja": "本文は、基本的なメカニズムが早期に進化し、ヒトの経路は精巧であると述べていますが、中心的なメカニズムが古くても、複雑さが必ずしも最近の起源を意味するわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Apoptosis is essential for normal nervous system development only in vertebrates, not in simpler organisms.",
+          "zh": "细胞凋亡仅对脊椎动物的正常神经系统发育至关重要，对简单生物体则不重要。",
+          "es": "La apoptosis es esencial para el desarrollo normal del sistema nervioso solo en vertebrados, no en organismos más simples.",
+          "fr": "L'apoptose est essentielle au développement normal du système nerveux uniquement chez les vertébrés, et non chez les organismes plus simples.",
+          "de": "Apoptose ist nur für die normale Entwicklung des Nervensystems bei Wirbeltieren unerlässlich, nicht bei einfacheren Organismen.",
+          "ja": "アポトーシスは脊椎動物の正常な神経系発達にのみ不可欠であり、より単純な生物には不可欠ではない。"
+        },
+        "feedback": {
+          "en": "The text states that apoptosis is essential for development and maintenance in 'all animals' and for the normal operation of the immune system in vertebrates, but its basic mechanism evolved early across diverse eukaryotes, indicating broader importance than just vertebrate nervous system.",
+          "zh": "文本指出，细胞凋亡对“所有动物”的发育和维持以及脊椎动物免疫系统的正常运作至关重要，但其基本机制在各种真核生物的早期进化中就已经形成，这表明其重要性远不止于脊椎动物神经系统。",
+          "es": "El texto establece que la apoptosis es esencial para el desarrollo y mantenimiento en 'todos los animales' y para el funcionamiento normal del sistema inmunológico en vertebrados, pero su mecanismo básico evolucionó temprano en diversos eucariotas, lo que indica una importancia más amplia que solo el sistema nervioso de los vertebrados.",
+          "fr": "Le texte indique que l'apoptose est essentielle au développement et au maintien chez « tous les animaux » et au fonctionnement normal du système immunitaire chez les vertébrés, mais que son mécanisme de base a évolué tôt chez divers eucaryotes, ce qui indique une importance plus large que le seul système nerveux des vertébrés.",
+          "de": "Der Text besagt, dass Apoptose für die Entwicklung und Erhaltung bei 'allen Tieren' und für die normale Funktion des Immunsystems bei Wirbeltieren unerlässlich ist, aber ihr grundlegender Mechanismus entwickelte sich früh bei verschiedenen Eukaryoten, was auf eine breitere Bedeutung als nur das Nervensystem von Wirbeltieren hinweist.",
+          "ja": "本文では、アポトーシスは「すべての動物」の発生と維持、および脊椎動物の免疫システムの正常な機能に不可欠であると述べていますが、その基本的なメカニズムは多様な真核生物の進化の初期に形成されたため、脊椎動物の神経系だけでなく、より広範な重要性を示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'The similarities between apoptosis genes in nematodes and those in mammals, as well as the observation that apoptosis occurs in multicellular fungi and even in single-celled yeasts, indicate that the basic mechanism evolved early in the evolution of eukaryotes.' This directly supports option B.",
+      "zh": "文本明确指出：“线虫和哺乳动物细胞凋亡基因之间的相似性，以及在多细胞真菌甚至单细胞酵母中也观察到细胞凋亡，表明其基本机制在真核生物的早期进化中就已形成。” 这直接支持了选项B。",
+      "es": "El texto establece explícitamente: 'Las similitudes entre los genes de apoptosis en nematodos y los de mamíferos, así como la observación de que la apoptosis ocurre en hongos multicelulares e incluso en levaduras unicelulares, indican que el mecanismo básico evolucionó temprano en la evolución de los eucariotas'. Esto apoya directamente la opción B.",
+      "fr": "Le texte indique explicitement : « Les similitudes entre les gènes de l'apoptose chez les nématodes et ceux des mammifères, ainsi que l'observation que l'apoptose se produit chez les champignons multicellulaires et même chez les levures unicellulaires, indiquent que le mécanisme de base a évolué tôt dans l'évolution des eucaryotes. » Cela soutient directement l'option B.",
+      "de": "Der Text besagt ausdrücklich: „Die Ähnlichkeiten zwischen Apoptose-Genen bei Nematoden und denen bei Säugetieren sowie die Beobachtung, dass Apoptose bei vielzelligen Pilzen und sogar bei einzelligen Hefen auftritt, deuten darauf hin, dass der grundlegende Mechanismus früh in der Evolution der Eukaryoten entstand.“ Dies unterstützt direkt Option B.",
+      "ja": "本文には、「線虫と哺乳動物のアポトーシス遺伝子間の類似性、ならびに多細胞真菌や単細胞酵母でもアポトーシスが起こるという観察結果は、その基本的なメカニズムが真核生物の進化の初期に形成されたことを示している」と明確に記載されています。これはオプションBを直接支持しています。"
+    }
+  }
+]

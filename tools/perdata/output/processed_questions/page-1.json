@@ -1,0 +1,305 @@
+[
+  {
+    "page_number": 1,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the full title of the textbook displayed on the cover, including its edition?",
+      "zh": "封面上显示的教科书的完整书名，包括其版本是什么？",
+      "es": "¿Cuál es el título completo del libro de texto que aparece en la portada, incluida su edición?",
+      "fr": "Quel est le titre complet du manuel affiché sur la couverture, y compris son édition ?",
+      "de": "Wie lautet der vollständige Titel des auf dem Umschlag gezeigten Lehrbuchs, einschließlich seiner Auflage?",
+      "ja": "表紙に表示されている教科書の完全なタイトル（版を含む）は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Campbell Biology",
+          "zh": "坎贝尔生物学",
+          "es": "Biología de Campbell",
+          "fr": "Biologie de Campbell",
+          "de": "Campbell Biologie",
+          "ja": "キャンベル生物学"
+        },
+        "feedback": {
+          "en": "Incorrect. While \"Campbell Biology\" is the main title, the question asks for the \"full title, including its edition.\"",
+          "zh": "错误。虽然“坎贝尔生物学”是主标题，但问题要求的是“包括其版本在内的完整书名”。",
+          "es": "Incorrecto. Aunque \"Biología de Campbell\" es el título principal, la pregunta pide el \"título completo, incluida su edición\".",
+          "fr": "Incorrect. Bien que « Biologie de Campbell » soit le titre principal, la question demande le « titre complet, y compris son édition ».",
+          "de": "Falsch. Obwohl \"Campbell Biology\" der Haupttitel ist, fragt die Frage nach dem \"vollständigen Titel, einschließlich seiner Auflage.\"",
+          "ja": "不正解です。「キャンベル生物学」が主要なタイトルですが、質問は「版を含む完全なタイトル」を尋ねています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Campbell Biology: Twelfth Edition",
+          "zh": "坎贝尔生物学：第十二版",
+          "es": "Biología de Campbell: Duodécima Edición",
+          "fr": "Biologie de Campbell : Douzième Édition",
+          "de": "Campbell Biologie: Zwölfte Auflage",
+          "ja": "キャンベル生物学：第12版"
+        },
+        "feedback": {
+          "en": "Incorrect. The edition is listed separately as \"TWELFTH EDITION\" above the main title, but the main title itself is just \"CAMPBELL BIOLOGY\".",
+          "zh": "错误。版本信息是单独列在主标题上方的“TWELFTH EDITION”，但主标题本身只是“CAMPBELL BIOLOGY”。",
+          "es": "Incorrecto. La edición se lista por separado como \"DUODÉCIMA EDICIÓN\" encima del título principal, pero el título principal en sí es solo \"BIOLOGÍA DE CAMPBELL\".",
+          "fr": "Incorrect. L'édition est listée séparément comme « TWELFTH EDITION » au-dessus du titre principal, mais le titre principal lui-même est simplement « CAMPBELL BIOLOGY ».",
+          "de": "Falsch. Die Auflage ist separat als \"TWELFTH EDITION\" über dem Haupttitel aufgeführt, aber der Haupttitel selbst lautet nur \"CAMPBELL BIOLOGY\".",
+          "ja": "不正解です。版は「TWELFTH EDITION」としてメインタイトルの上に別に記載されていますが、メインタイトル自体は「CAMPBELL BIOLOGY」のみです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Campbell Biology, Twelfth Edition",
+          "zh": "坎贝尔生物学，第十二版",
+          "es": "Biología de Campbell, Duodécima Edición",
+          "fr": "Biologie de Campbell, Douzième Édition",
+          "de": "Campbell Biologie, Zwölfte Auflage",
+          "ja": "キャンベル生物学、第12版"
+        },
+        "feedback": {
+          "en": "Correct. This option correctly combines the main title and the edition information as presented on the cover.",
+          "zh": "正确。此选项正确地结合了封面上呈现的主标题和版本信息。",
+          "es": "Correcto. Esta opción combina correctamente el título principal y la información de la edición tal como se presenta en la portada.",
+          "fr": "Correct. Cette option combine correctement le titre principal et les informations sur l'édition tels qu'ils sont présentés sur la couverture.",
+          "de": "Richtig. Diese Option kombiniert korrekt den Haupttitel und die Auflageinformationen, wie sie auf dem Umschlag dargestellt sind.",
+          "ja": "正解です。この選択肢は、表紙に示されているメインタイトルと版の情報を正しく組み合わせています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Biology by Campbell, Twelfth Edition",
+          "zh": "坎贝尔的生物学，第十二版",
+          "es": "Biología por Campbell, Duodécima Edición",
+          "fr": "Biologie par Campbell, Douzième Édition",
+          "de": "Biologie von Campbell, Zwölfte Auflage",
+          "ja": "キャンベルによる生物学、第12版"
+        },
+        "feedback": {
+          "en": "Incorrect. The authors are listed, but \"by Campbell\" is not part of the official title structure shown.",
+          "zh": "错误。作者确实列出了，但“by Campbell”不是所示官方标题结构的一部分。",
+          "es": "Incorrecto. Los autores están listados, pero \"por Campbell\" no forma parte de la estructura oficial del título que se muestra.",
+          "fr": "Incorrect. Les auteurs sont listés, mais « par Campbell » ne fait pas partie de la structure officielle du titre indiquée.",
+          "de": "Falsch. Die Autoren sind aufgeführt, aber \"von Campbell\" ist nicht Teil der gezeigten offiziellen Titelstruktur.",
+          "ja": "不正解です。著者は記載されていますが、「by Campbell」は示されている公式タイトル構造の一部ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The cover clearly states \"TWELFTH EDITION\" and \"CAMPBELL BIOLOGY\" as the main title. Combining these yields \"Campbell Biology, Twelfth Edition\" as the full title.",
+      "zh": "封面上清楚地表明“TWELFTH EDITION”和“CAMPBELL BIOLOGY”是主标题。将这两者结合起来就是完整的书名“坎贝尔生物学，第十二版”。",
+      "es": "La portada indica claramente \"DUODÉCIMA EDICIÓN\" y \"BIOLOGÍA DE CAMPBELL\" como título principal. Combinando estos, se obtiene \"Biología de Campbell, Duodécima Edición\" como el título completo.",
+      "fr": "La couverture indique clairement « TWELFTH EDITION » et « CAMPBELL BIOLOGY » comme titre principal. En combinant ces éléments, on obtient « Campbell Biology, Douzième Édition » comme titre complet.",
+      "de": "Das Cover weist eindeutig \"TWELFTH EDITION\" und \"CAMPBELL BIOLOGY\" als Haupttitel aus. Die Kombination dieser ergibt \"Campbell Biology, Twelfth Edition\" als vollständigen Titel.",
+      "ja": "表紙には「TWELFTH EDITION」と「CAMPBELL BIOLOGY」が明確にメインタイトルとして記載されています。これらを組み合わせると、「キャンベル生物学、第12版」が完全なタイトルとなります。"
+    }
+  },
+  {
+    "page_number": 1,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the cover of 'Campbell Biology, Twelfth Edition', which of the following individuals is listed as an author?",
+      "zh": "根据《坎贝尔生物学，第十二版》的封面，下列哪位是列出的作者？",
+      "es": "Según la portada de 'Biología de Campbell, Duodécima Edición', ¿cuál de las siguientes personas figura como autora?",
+      "fr": "Selon la couverture de 'Campbell Biology, Douzième Édition', laquelle des personnes suivantes est répertoriée comme auteur ?",
+      "de": "Basierend auf dem Umschlag von 'Campbell Biology, Twelfth Edition', welche der folgenden Personen wird als Autor aufgeführt?",
+      "ja": "『キャンベル生物学 第12版』の表紙に基づくと、次のうちどの人物が著者として記載されていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Miller",
+          "zh": "米勒",
+          "es": "Miller",
+          "fr": "Miller",
+          "de": "Miller",
+          "ja": "ミラー"
+        },
+        "feedback": {
+          "en": "Incorrect. Miller is not listed among the authors on this cover.",
+          "zh": "错误。米勒并未列于此封面上的作者名单中。",
+          "es": "Incorrecto. Miller no figura entre los autores en esta portada.",
+          "fr": "Incorrect. Miller n'est pas répertorié parmi les auteurs sur cette couverture.",
+          "de": "Falsch. Miller ist nicht unter den Autoren auf diesem Umschlag aufgeführt.",
+          "ja": "不正解です。ミラーはこの表紙の著者リストには記載されていません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Minorsky",
+          "zh": "米诺斯基",
+          "es": "Minorsky",
+          "fr": "Minorsky",
+          "de": "Minorsky",
+          "ja": "ミノルスキー"
+        },
+        "feedback": {
+          "en": "Correct. Minorsky is clearly listed as one of the authors.",
+          "zh": "正确。米诺斯基明确列为其中一位作者。",
+          "es": "Correcto. Minorsky figura claramente como uno de los autores.",
+          "fr": "Correct. Minorsky est clairement répertorié comme l'un des auteurs.",
+          "de": "Richtig. Minorsky ist eindeutig als einer der Autoren aufgeführt.",
+          "ja": "正解です。ミノルスキーは著者の一人として明確に記載されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Reece",
+          "zh": "里斯",
+          "es": "Reece",
+          "fr": "Reece",
+          "de": "Reece",
+          "ja": "リース"
+        },
+        "feedback": {
+          "en": "Incorrect. While Reece was a key author in previous editions, they are not listed on *this* Twelfth Edition cover.",
+          "zh": "错误。虽然里斯是早期版本的重要作者，但在此《第十二版》封面上并未列出。",
+          "es": "Incorrecto. Aunque Reece fue un autor clave en ediciones anteriores, no figura en la portada de *esta* Duodécima Edición.",
+          "fr": "Incorrect. Bien que Reece ait été un auteur clé dans les éditions précédentes, il n'est pas listé sur la couverture de *cette* Douzième Édition.",
+          "de": "Falsch. Obwohl Reece in früheren Ausgaben ein Hauptautor war, ist er auf *diesem* Umschlag der zwölften Auflage nicht aufgeführt.",
+          "ja": "不正解です。リースは以前の版では主要な著者でしたが、この第12版の表紙には記載されていません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Raven",
+          "zh": "雷文",
+          "es": "Raven",
+          "fr": "Raven",
+          "de": "Raven",
+          "ja": "レイブン"
+        },
+        "feedback": {
+          "en": "Incorrect. Raven is associated with another major biology textbook, not this one.",
+          "zh": "错误。雷文与另一本主要的生物学教科书有关，而非此书。",
+          "es": "Incorrecto. Raven está asociado con otro libro de texto importante de biología, no con este.",
+          "fr": "Incorrect. Raven est associé à un autre manuel de biologie majeur, pas à celui-ci.",
+          "de": "Falsch. Raven ist mit einem anderen großen Biologie-Lehrbuch verbunden, nicht mit diesem.",
+          "ja": "不正解です。レイブンは別の主要な生物学の教科書と関連があり、本書とは異なります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The authors explicitly listed on the cover are URRY, CAIN, WASSERMAN, MINORSKY, and ORR. Minorsky is among them.",
+      "zh": "封面上明确列出的作者是URRY、CAIN、WASSERMAN、MINORSKY和ORR。米诺斯基位列其中。",
+      "es": "Los autores explícitamente listados en la portada son URRY, CAIN, WASSERMAN, MINORSKY y ORR. Minorsky está entre ellos.",
+      "fr": "Les auteurs explicitement listés sur la couverture sont URRY, CAIN, WASSERMAN, MINORSKY et ORR. Minorsky en fait partie.",
+      "de": "Die auf dem Umschlag explizit genannten Autoren sind URRY, CAIN, WASSERMAN, MINORSKY und ORR. Minorsky ist darunter.",
+      "ja": "表紙に明記されている著者は、URRY、CAIN、WASSERMAN、MINORSKY、ORRです。ミノルスキーはその中に含まれています。"
+    }
+  },
+  {
+    "page_number": 1,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The cover of 'Campbell Biology, Twelfth Edition' prominently features a blue water lily (Nymphaea sp.). From a broad biological perspective, which of the following is the *most compelling reason* for selecting such an image for a comprehensive biology textbook?",
+      "zh": "《坎贝尔生物学，第十二版》的封面突出展示了一朵蓝色睡莲（Nymphaea sp.）。从广义的生物学角度来看，选择这样一幅图像作为综合生物学教科书封面的*最令人信服的原因*是什么？",
+      "es": "La portada de 'Biología de Campbell, Duodécima Edición' presenta prominentemente un lirio de agua azul (Nymphaea sp.). Desde una perspectiva biológica amplia, ¿cuál de las siguientes es la *razón más convincente* para seleccionar dicha imagen para un libro de texto de biología integral?",
+      "fr": "La couverture de 'Campbell Biology, Douzième Édition' présente en évidence un nénuphar bleu (Nymphaea sp.). D'un point de vue biologique large, laquelle des raisons suivantes est la *plus convaincante* pour avoir choisi une telle image pour un manuel de biologie complet ?",
+      "de": "Das Cover von 'Campbell Biology, Twelfth Edition' zeigt prominent eine blaue Seerose (Nymphaea sp.). Aus einer breiten biologischen Perspektive, welcher der folgenden Gründe ist der *überzeugendste* für die Auswahl eines solchen Bildes für ein umfassendes Biologie-Lehrbuch?",
+      "ja": "『キャンベル生物学 第12版』の表紙には、青いスイレン（Nymphaea sp.）が大きく描かれています。広範な生物学的観点から見て、このような画像を総合的な生物学教科書の表紙に選ぶ*最も説得力のある理由*は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Water lilies are endangered species, highlighting conservation biology.",
+          "zh": "睡莲是濒危物种，突显了保护生物学。",
+          "es": "Los lirios de agua son especies en peligro de extinción, destacando la biología de la conservación.",
+          "fr": "Les nénuphars sont des espèces menacées, soulignant la biologie de la conservation.",
+          "de": "Seerosen sind bedrohte Arten, was die Naturschutzbiologie hervorhebt.",
+          "ja": "スイレンは絶滅危惧種であり、保全生物学を強調している。"
+        },
+        "feedback": {
+          "en": "Incorrect. While some species may be threatened, water lilies are generally widespread, and their primary role on a general biology cover is unlikely to be solely focused on conservation, though biology encompasses it.",
+          "zh": "错误。虽然有些物种可能受到威胁，但睡莲通常分布广泛，其在普通生物学封面上的主要作用不太可能是仅仅关注保护，尽管生物学确实包含这一点。",
+          "es": "Incorrecto. Aunque algunas especies pueden estar amenazadas, los lirios de agua son generalmente extendidos, y su papel principal en una portada de biología general es poco probable que se centre únicamente en la conservación, aunque la biología la abarca.",
+          "fr": "Incorrect. Bien que certaines espèces puissent être menacées, les nénuphars sont généralement répandus, et leur rôle principal sur une couverture de biologie générale n'est probablement pas uniquement axé sur la conservation, même si la biologie l'englobe.",
+          "de": "Falsch. Obwohl einige Arten bedroht sein mögen, sind Seerosen im Allgemeinen weit verbreitet, und ihre Hauptrolle auf einem allgemeinen Biologie-Cover konzentriert sich wahrscheinlich nicht ausschließlich auf den Naturschutz, obwohl die Biologie ihn umfasst.",
+          "ja": "誤りです。一部の種は脅威にさらされているかもしれませんが、スイレンは一般的に広く分布しており、総合生物学の表紙における主な役割が、生物学が保護を包含しているとはいえ、単に保護に焦点を当てることである可能性は低いです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The vibrant blue color demonstrates complex pigment chemistry.",
+          "zh": "鲜艳的蓝色展示了复杂的色素化学。",
+          "es": "El vibrante color azul demuestra la compleja química de los pigmentos.",
+          "fr": "La couleur bleue vibrante démontre la chimie complexe des pigments.",
+          "de": "Die lebendige blaue Farbe demonstriert komplexe Pigmentchemie.",
+          "ja": "鮮やかな青色は複雑な色素化学を示している。"
+        },
+        "feedback": {
+          "en": "Incorrect. While pigment chemistry is part of biology, focusing solely on color is too narrow a reason for a comprehensive textbook cover. The overall biological significance is broader.",
+          "zh": "错误。虽然色素化学是生物学的一部分，但仅仅关注颜色对于一本综合性教科书的封面来说过于狭隘。其整体生物学意义更为广泛。",
+          "es": "Incorrecto. Si bien la química de los pigmentos es parte de la biología, centrarse únicamente en el color es una razón demasiado estrecha para la portada de un libro de texto completo. El significado biológico general es más amplio.",
+          "fr": "Incorrect. Bien que la chimie des pigments fasse partie de la biologie, se concentrer uniquement sur la couleur est une raison trop étroite pour la couverture d'un manuel complet. La signification biologique globale est plus large.",
+          "de": "Falsch. Obwohl Pigmentchemie Teil der Biologie ist, ist eine ausschließliche Konzentration auf die Farbe ein zu enger Grund für ein umfassendes Lehrbuch-Cover. Die allgemeine biologische Bedeutung ist breiter.",
+          "ja": "誤りです。色素化学は生物学の一部ですが、色だけに焦点を当てるのは、包括的な教科書の表紙としては理由が狭すぎます。全体的な生物学的意義はもっと広範です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Water lilies, as complex organisms adapted to aquatic environments, represent diversity, adaptation, and fundamental life processes like photosynthesis and reproduction.",
+          "zh": "睡莲作为适应水生环境的复杂生物，代表着多样性、适应性以及光合作用和繁殖等基本生命过程。",
+          "es": "Los lirios de agua, como organismos complejos adaptados a ambientes acuáticos, representan diversidad, adaptación y procesos vitales fundamentales como la fotosíntesis y la reproducción.",
+          "fr": "Les nénuphars, en tant qu'organismes complexes adaptés aux environnements aquatiques, représentent la diversité, l'adaptation et les processus vitaux fondamentaux comme la photosynthèse et la reproduction.",
+          "de": "Seerosen repräsentieren als komplexe, an aquatische Umgebungen angepasste Organismen Vielfalt, Anpassung und grundlegende Lebensprozesse wie Photosynthese und Fortpflanzung.",
+          "ja": "スイレンは水生環境に適応した複雑な生物として、多様性、適応、そして光合成や生殖などの基本的な生命プロセスを象徴しています。"
+        },
+        "feedback": {
+          "en": "Correct. This option encompasses multiple core biological themes (diversity, adaptation, fundamental processes, ecosystems) that are central to a comprehensive biology textbook.",
+          "zh": "正确。此选项涵盖了多个核心生物学主题（多样性、适应性、基本生命过程、生态系统），这些都是综合生物学教科书的核心内容。",
+          "es": "Correcto. Esta opción abarca múltiples temas biológicos centrales (diversidad, adaptación, procesos fundamentales, ecosistemas) que son fundamentales para un libro de texto de biología integral.",
+          "fr": "Correct. Cette option englobe plusieurs thèmes biologiques fondamentaux (diversité, adaptation, processus fondamentaux, écosystèmes) qui sont centraux pour un manuel de biologie complet.",
+          "de": "Richtig. Diese Option umfasst mehrere zentrale biologische Themen (Diversität, Anpassung, grundlegende Prozesse, Ökosysteme), die für ein umfassendes Biologie-Lehrbuch von zentraler Bedeutung sind.",
+          "ja": "正しいです。この選択肢は、総合的な生物学の教科書にとって中心となる複数の生物学的テーマ（多様性、適応、基本的な生命過程、生態系）を網羅しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Their floating leaves are a unique example of surface tension in plants.",
+          "zh": "它们的浮叶是植物表面张力的独特例子。",
+          "es": "Sus hojas flotantes son un ejemplo único de tensión superficial en las plantas.",
+          "fr": "Leurs feuilles flottantes sont un exemple unique de tension superficielle chez les plantes.",
+          "de": "Ihre schwimmenden Blätter sind ein einzigartiges Beispiel für Oberflächenspannung bei Pflanzen.",
+          "ja": "その浮葉は植物における表面張力のユニークな例である。"
+        },
+        "feedback": {
+          "en": "Incorrect. While true that floating leaves interact with surface tension, this is a very specific and minor point compared to the broad concepts a general biology textbook aims to cover.",
+          "zh": "错误。虽然浮叶确实与表面张力相互作用，但与一本普通生物学教科书旨在涵盖的广泛概念相比，这是一个非常具体和次要的观点。",
+          "es": "Incorrecto. Si bien es cierto que las hojas flotantes interactúan con la tensión superficial, este es un punto muy específico y menor en comparación con los conceptos amplios que un libro de texto de biología general pretende cubrir.",
+          "fr": "Incorrect. Bien qu'il soit vrai que les feuilles flottantes interagissent avec la tension superficielle, c'est un point très spécifique et mineur par rapport aux concepts larges qu'un manuel de biologie générale vise à couvrir.",
+          "de": "Falsch. Obwohl schwimmende Blätter tatsächlich mit der Oberflächenspannung interagieren, ist dies ein sehr spezifischer und kleiner Punkt im Vergleich zu den breiten Konzepten, die ein allgemeines Biologie-Lehrbuch abdecken soll.",
+          "ja": "誤りです。浮葉が表面張力と相互作用するのは事実ですが、これは一般的な生物学の教科書が扱う広範な概念に比べて、非常に限定的で些細な点です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Water lilies exhibit a wide range of biological features relevant to a general biology textbook: they are flowering plants (plant biology), adapted to an aquatic environment (ecology, adaptation), perform photosynthesis (cell biology, metabolism), and have complex reproductive structures (reproduction). This makes them an excellent symbol for the breadth of biology.",
+      "zh": "睡莲展现了与普通生物学教科书相关的广泛生物学特征：它们是开花植物（植物生物学），适应水生环境（生态学、适应性），进行光合作用（细胞生物学、新陈代谢），并具有复杂的生殖结构（繁殖）。这使其成为生物学广度的绝佳象征。",
+      "es": "Los lirios de agua exhiben una amplia gama de características biológicas relevantes para un libro de texto de biología general: son plantas con flores (biología vegetal), adaptadas a un ambiente acuático (ecología, adaptación), realizan fotosíntesis (biología celular, metabolismo) y tienen estructuras reproductivas complejas (reproducción). Esto los convierte en un excelente símbolo de la amplitud de la biología.",
+      "fr": "Les nénuphars présentent un large éventail de caractéristiques biologiques pertinentes pour un manuel de biologie générale : ce sont des plantes à fleurs (biologie végétale), adaptées à un environnement aquatique (écologie, adaptation), effectuent la photosynthèse (biologie cellulaire, métabolisme) et possèdent des structures reproductives complexes (reproduction). Cela en fait un excellent symbole de l'étendue de la biologie.",
+      "de": "Seerosen weisen eine breite Palette biologischer Merkmale auf, die für ein allgemeines Biologie-Lehrbuch relevant sind: Sie sind Blütenpflanzen (Pflanzenbiologie), an eine aquatische Umgebung angepasst (Ökologie, Anpassung), führen Photosynthese durch (Zellbiologie, Stoffwechsel) und besitzen komplexe Fortpflanzungsstrukturen (Fortpflanzung). Dies macht sie zu einem hervorragenden Symbol für die Breite der Biologie.",
+      "ja": "スイレンは、一般的な生物学の教科書に関連する幅広い生物学的特徴を示しています。例えば、被子植物（植物学）、水生環境への適応（生態学、適応）、光合成の実行（細胞生物学、代謝）、複雑な生殖構造（生殖）などです。これにより、スイレンは生物学の広範な領域を示す優れた象徴となります。"
+    }
+  }
+]

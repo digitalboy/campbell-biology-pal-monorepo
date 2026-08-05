@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 1121,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 48.10 and the \"Visual Skills\" prompt, why is there a net ion movement across the membrane when the voltage-gated channel opens?",
+      "zh": "根据图 48.10 和“视觉技能”提示，当电压门控通道打开时，为什么会有离子净移动穿过细胞膜？",
+      "es": "Según la Figura 48.10 y la indicación de \"Habilidades Visuales\", ¿por qué hay un movimiento neto de iones a través de la membrana cuando el canal dependiente de voltaje se abre?",
+      "fr": "Selon la figure 48.10 et l'invite \"Compétences Visuelles\", pourquoi y a-t-il un mouvement net d'ions à travers la membrane lorsque le canal voltage-dépendant s'ouvre ?",
+      "de": "Gemäß Abbildung 48.10 und der Aufforderung „Visuelle Fertigkeiten“, warum gibt es eine Netto-Ionenbewegung über die Membran, wenn der spannungsgesteuerte Kanal öffnet?",
+      "ja": "図48.10と「視覚スキル」の指示に基づくと、電圧依存性チャネルが開いたときに膜を介したイオンの正味の移動が生じるのはなぜですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The channel actively pumps ions against their electrochemical gradient.",
+          "zh": "通道主动将离子泵送逆电化学梯度。",
+          "es": "El canal bombea activamente iones en contra de su gradiente electroquímico.",
+          "fr": "Le canal pompe activement les ions contre leur gradient électrochimique.",
+          "de": "Der Kanal pumpt Ionen aktiv gegen ihren elektrochemischen Gradienten.",
+          "ja": "チャネルはイオンを電気化学的勾配に逆らって能動的に輸送する。"
+        },
+        "feedback": {
+          "en": "Voltage-gated channels facilitate passive movement, not active pumping.",
+          "zh": "电压门控通道促进被动移动，而非主动泵送。",
+          "es": "Los canales dependientes de voltaje facilitan el movimiento pasivo, no el bombeo activo.",
+          "fr": "Les canaux voltage-dépendants facilitent le mouvement passif, et non le pompage actif.",
+          "de": "Spannungsgesteuerte Kanäle erleichtern die passive Bewegung, nicht das aktive Pumpen.",
+          "ja": "電圧依存性チャネルは受動的な移動を促進し、能動的なポンピングではない。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The channel creates a new electrical gradient that pulls ions across.",
+          "zh": "通道产生一个新的电梯度，将离子拉过。",
+          "es": "El canal crea un nuevo gradiente eléctrico que atrae los iones a través.",
+          "fr": "Le canal crée un nouveau gradient électrique qui attire les ions.",
+          "de": "Der Kanal erzeugt einen neuen elektrischen Gradienten, der Ionen anzieht.",
+          "ja": "チャネルが新しい電位勾配を作り出し、イオンを引き込む。"
+        },
+        "feedback": {
+          "en": "The channel opens a pathway, allowing ions to move down pre-existing electrochemical gradients.",
+          "zh": "通道打开一个通路，允许离子顺着预先存在的电化学梯度移动。",
+          "es": "El canal abre una vía, permitiendo que los iones se muevan a favor de los gradientes electroquímicos preexistentes.",
+          "fr": "Le canal ouvre une voie, permettant aux ions de se déplacer le long des gradients électrochimiques préexistants.",
+          "de": "Der Kanal öffnet einen Weg, der es Ionen ermöglicht, sich entlang bereits bestehender elektrochemischer Gradienten zu bewegen.",
+          "ja": "チャネルは経路を開き、イオンが既存の電気化学的勾配に従って移動できるようにする。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Ions move down their pre-existing electrochemical gradient.",
+          "zh": "离子顺着它们预先存在的电化学梯度移动。",
+          "es": "Los iones se mueven a favor de su gradiente electroquímico preexistente.",
+          "fr": "Les ions se déplacent le long de leur gradient électrochimique préexistant.",
+          "de": "Ionen bewegen sich entlang ihres bereits bestehenden elektrochemischen Gradienten.",
+          "ja": "イオンは既存の電気化学的勾配に従って移動する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The channel converts chemical energy into kinetic energy for ion movement.",
+          "zh": "通道将化学能转化为离子运动的动能。",
+          "es": "El canal convierte la energía química en energía cinética para el movimiento de los iones.",
+          "fr": "Le canal convertit l'énergie chimique en énergie cinétique pour le mouvement des ions.",
+          "de": "Der Kanal wandelt chemische Energie in kinetische Energie für die Ionenbewegung um.",
+          "ja": "チャネルが化学エネルギーをイオン移動のための運動エネルギーに変換する。"
+        },
+        "feedback": {
+          "en": "Ion channels facilitate passive diffusion, relying on existing gradients, not energy conversion.",
+          "zh": "离子通道促进被动扩散，依赖现有梯度，不涉及能量转换。",
+          "es": "Los canales iónicos facilitan la difusión pasiva, dependiendo de los gradientes existentes, no de la conversión de energía.",
+          "fr": "Les canaux ioniques facilitent la diffusion passive, en s'appuyant sur les gradients existants, et non sur la conversion d'énergie.",
+          "de": "Ionenkanäle erleichtern die passive Diffusion und verlassen sich auf bestehende Gradienten, nicht auf Energieumwandlung.",
+          "ja": "イオンチャネルは受動拡散を促進し、既存の勾配に依存するため、エネルギー変換は行わない。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Voltage-gated ion channels open to allow ions to flow across the membrane. This movement occurs passively, driven by the pre-existing electrochemical gradient (both concentration and electrical gradients) across the membrane, leading to a net ion movement.",
+      "zh": "电压门控离子通道打开以允许离子穿过细胞膜。这种移动是被动的，由膜两侧预先存在的电化学梯度（包括浓度梯度和电梯度）驱动，从而导致离子净移动。",
+      "es": "Los canales iónicos dependientes de voltaje se abren para permitir el flujo de iones a través de la membrana. Este movimiento ocurre pasivamente, impulsado por el gradiente electroquímico preexistente (tanto gradientes de concentración como eléctricos) a través de la membrana, lo que lleva a un movimiento neto de iones.",
+      "fr": "Les canaux ioniques voltage-dépendants s'ouvrent pour permettre aux ions de traverser la membrane. Ce mouvement se produit passivement, entraîné par le gradient électrochimique préexistant (à la fois les gradients de concentration et électriques) à travers la membrane, conduisant à un mouvement net d'ions.",
+      "de": "Spannungsgesteuerte Ionenkanäle öffnen sich, um Ionen den Durchtritt durch die Membran zu ermöglichen. Diese Bewegung erfolgt passiv, angetrieben durch den bereits bestehenden elektrochemischen Gradienten (sowohl Konzentrations- als auch elektrische Gradienten) über die Membran, was zu einer Netto-Ionenbewegung führt.",
+      "ja": "電圧依存性イオンチャネルは、イオンが膜を横切って流れるのを可能にするために開く。この動きは、膜を介した既存の電気化学的勾配（濃度勾配と電気的勾配の両方）によって受動的に駆動され、正味のイオン移動を引き起こす。"
+    }
+  },
+  {
+    "page_number": 1121,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, what is the primary cause of hyperpolarization in a resting neuron?",
+      "zh": "根据文本，静息神经元发生超极化的主要原因是什么？",
+      "es": "Según el texto, ¿cuál es la causa principal de la hiperpolarización en una neurona en reposo?",
+      "fr": "Selon le texte, quelle est la cause principale de l'hyperpolarisation dans un neurone au repos ?",
+      "de": "Laut Text, was ist die Hauptursache der Hyperpolarisation in einem ruhenden Neuron?",
+      "ja": "テキストによると、静止ニューロンにおける過分極の主な原因は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Increased inflow of Na+ ions.",
+          "zh": "Na+ 离子内流增加。",
+          "es": "Aumento del influjo de iones Na+.",
+          "fr": "Augmentation de l'afflux d'ions Na+.",
+          "de": "Erhöhter Einstrom von Na+-Ionen.",
+          "ja": "Na+イオンの流入増加。"
+        },
+        "feedback": {
+          "en": "Increased Na+ inflow causes depolarization, making the membrane potential less negative (more positive).",
+          "zh": "Na+ 内流增加会导致去极化，使膜电位变得不那么负（更正）。",
+          "es": "El aumento del influjo de Na+ causa despolarización, haciendo que el potencial de membrana sea menos negativo (más positivo).",
+          "fr": "L'augmentation de l'afflux de Na+ provoque une dépolarisation, rendant le potentiel membranaire moins négatif (plus positif).",
+          "de": "Ein erhöhter Na+-Einstrom führt zur Depolarisation, wodurch das Membranpotential weniger negativ (positiver) wird.",
+          "ja": "Na+の流入増加は脱分極を引き起こし、膜電位をより負ではない（より正の）方向へ変化させる。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Increased outflow of K+ ions.",
+          "zh": "K+ 离子外流增加。",
+          "es": "Aumento del eflujo de iones K+.",
+          "fr": "Augmentation de la sortie des ions K+.",
+          "de": "Erhöhter Ausstrom von K+-Ionen.",
+          "ja": "K+イオンの流出増加。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Decreased permeability to Cl- ions.",
+          "zh": "Cl- 离子通透性降低。",
+          "es": "Disminución de la permeabilidad a los iones Cl-.",
+          "fr": "Diminution de la perméabilité aux ions Cl-.",
+          "de": "Verringerte Permeabilität für Cl--Ionen.",
+          "ja": "Cl-イオン透過性の減少。"
+        },
+        "feedback": {
+          "en": "While Cl- ions can affect membrane potential, the text specifically identifies increased K+ outflow as a primary cause of hyperpolarization.",
+          "zh": "虽然 Cl- 离子会影响膜电位，但文本明确指出 K+ 外流增加是超极化的主要原因。",
+          "es": "Aunque los iones Cl- pueden afectar el potencial de membrana, el texto identifica específicamente el aumento del eflujo de K+ como una causa principal de hiperpolarización.",
+          "fr": "Bien que les ions Cl- puissent affecter le potentiel membranaire, le texte identifie spécifiquement l'augmentation de la sortie de K+ comme une cause principale de l'hyperpolarisation.",
+          "de": "Obwohl Cl--Ionen das Membranpotential beeinflussen können, identifiziert der Text explizit einen erhöhten K+-Ausstrom als Hauptursache der Hyperpolarisation.",
+          "ja": "Cl-イオンは膜電位に影響を与える可能性がありますが、テキストでは過分極の主な原因としてK+の流出増加を具体的に挙げています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Activation of the Na+/K+ pump.",
+          "zh": "Na+/K+ 泵的激活。",
+          "es": "Activación de la bomba Na+/K+.",
+          "fr": "Activation de la pompe Na+/K+.",
+          "de": "Aktivierung der Na+/K+-Pumpe.",
+          "ja": "Na+/K+ポンプの活性化。"
+        },
+        "feedback": {
+          "en": "The Na+/K+ pump helps maintain the resting potential but is not described as the primary cause of a *shift* to hyperpolarization in response to a stimulus.",
+          "zh": "Na+/K+ 泵有助于维持静息电位，但它不是响应刺激引起超极化“转变”的主要原因。",
+          "es": "La bomba Na+/K+ ayuda a mantener el potencial de reposo, pero no se describe como la causa principal de un *cambio* hacia la hiperpolarización en respuesta a un estímulo.",
+          "fr": "La pompe Na+/K+ aide à maintenir le potentiel de repos, mais n'est pas décrite comme la cause principale d'un *changement* vers l'hyperpolarisation en réponse à un stimulus.",
+          "de": "Die Na+/K+-Pumpe trägt zur Aufrechterhaltung des Ruhepotentials bei, wird aber nicht als Hauptursache einer *Verschiebung* zur Hyperpolarisation als Reaktion auf einen Reiz beschrieben.",
+          "ja": "Na+/K+ポンプは静止電位の維持に役立ちますが、刺激に応じた過分極への「シフト」の主な原因とは記述されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that if gated potassium channels in a resting neuron open, the membrane's permeability to K+ increases. As a result, net diffusion of K+ out of the neuron increases, shifting the membrane potential toward EK (-90 mV) and causing hyperpolarization.",
+      "zh": "文本指出，如果静息神经元中的门控钾通道打开，膜对 K+ 的通透性会增加。结果，K+ 净扩散出神经元增加，使膜电位向 EK（-90 mV）移动，并导致超极化。",
+      "es": "El texto indica que si los canales de potasio dependientes de voltaje en una neurona en reposo se abren, la permeabilidad de la membrana a K+ aumenta. Como resultado, la difusión neta de K+ fuera de la neurona se incrementa, desplazando el potencial de membrana hacia EK (-90 mV) y causando hiperpolarización.",
+      "fr": "Le texte indique que si les canaux potassiques voltage-dépendants dans un neurone au repos s'ouvrent, la perméabilité de la membrane au K+ augmente. En conséquence, la diffusion nette de K+ hors du neurone augmente, décalant le potentiel membranaire vers EK (-90 mV) et provoquant une hyperpolarisation.",
+      "de": "Der Text besagt, dass, wenn spannungsgesteuerte Kaliumkanäle in einem ruhenden Neuron öffnen, die Permeabilität der Membran für K+ zunimmt. Infolgedessen nimmt die Netto-Diffusion von K+ aus dem Neuron zu, wodurch das Membranpotential in Richtung EK (-90 mV) verschoben und eine Hyperpolarisation verursacht wird.",
+      "ja": "テキストには、静止ニューロンのゲート付きカリウムチャネルが開くと、膜のK+に対する透過性が増加すると記載されています。その結果、K+のニューロンからの純粋な拡散が増加し、膜電位がEK（-90 mV）に向かってシフトし、過分極が引き起こされます。"
+    }
+  },
+  {
+    "page_number": 1121,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A neuron's membrane potential shifts from -70 mV to -50 mV. Which of the following changes in ion permeability would most likely cause this shift, and why?",
+      "zh": "一个神经元的膜电位从 -70 mV 变为 -50 mV。以下哪种离子通透性变化最可能导致这种转变，为什么？",
+      "es": "El potencial de membrana de una neurona cambia de -70 mV a -50 mV. ¿Cuál de los siguientes cambios en la permeabilidad iónica causaría más probablemente este cambio, y por qué?",
+      "fr": "Le potentiel de membrane d'un neurone passe de -70 mV à -50 mV. Lequel des changements suivants de perméabilité ionique serait le plus susceptible de provoquer ce changement, et pourquoi ?",
+      "de": "Das Membranpotential eines Neurons verschiebt sich von -70 mV auf -50 mV. Welche der folgenden Änderungen der Ionenpermeabilität würde diese Verschiebung höchstwahrscheinlich verursachen und warum?",
+      "ja": "あるニューロンの膜電位が-70 mVから-50 mVに変化しました。この変化を引き起こす可能性が最も高いイオン透過性の変化は次のうちどれで、その理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Increased K+ permeability, because K+ ions would flow out, making the inside more negative.",
+          "zh": "K+ 离子通透性增加，因为 K+ 离子会流出，使内部更负。",
+          "es": "Aumento de la permeabilidad al K+, porque los iones K+ saldrían, haciendo el interior más negativo.",
+          "fr": "Perméabilité accrue au K+, car les ions K+ sortiraient, rendant l'intérieur plus négatif.",
+          "de": "Erhöhte K+-Permeabilität, da K+-Ionen ausströmen würden, was das Innere negativer macht.",
+          "ja": "K+透過性の増加、K+イオンが流出し、内部がより負になるため。"
+        },
+        "feedback": {
+          "en": "Increased K+ outflow causes hyperpolarization (making the inside more negative), which is the opposite of the observed shift (-70 mV to -50 mV is depolarization).",
+          "zh": "K+ 外流增加会导致超极化（使内部更负），这与观察到的转变相反（-70 mV 到 -50 mV 是去极化）。",
+          "es": "El aumento del eflujo de K+ causa hiperpolarización (haciendo el interior más negativo), lo cual es lo opuesto al cambio observado (-70 mV a -50 mV es despolarización).",
+          "fr": "L'augmentation de la sortie de K+ provoque une hyperpolarisation (rendant l'intérieur plus négatif), ce qui est l'opposé du changement observé (-70 mV à -50 mV est une dépolarisation).",
+          "de": "Ein erhöhter K+-Ausstrom führt zu Hyperpolarisation (macht das Innere negativer), was dem beobachteten Wechsel entgegenwirkt (-70 mV zu -50 mV ist Depolarisation).",
+          "ja": "K+の流出増加は過分極（内部をより負にする）を引き起こし、これは観察された変化（-70mVから-50mVへの変化は脱分極）とは逆である。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Decreased Na+ permeability, because fewer Na+ ions would enter, making the inside less positive.",
+          "zh": "Na+ 离子通透性降低，因为更少的 Na+ 离子进入，使内部不那么正。",
+          "es": "Disminución de la permeabilidad al Na+, porque menos iones Na+ entrarían, haciendo el interior menos positivo.",
+          "fr": "Diminution de la perméabilité au Na+, car moins d'ions Na+ entreraient, rendant l'intérieur moins positif.",
+          "de": "Verringerte Na+-Permeabilität, da weniger Na+-Ionen eintreten würden, was das Innere weniger positiv macht.",
+          "ja": "Na+透過性の減少、より少ないNa+イオンが流入し、内部がより正にならなくなるため。"
+        },
+        "feedback": {
+          "en": "Decreased Na+ permeability would tend to make the membrane potential more negative or maintain hyperpolarization, not depolarize it.",
+          "zh": "Na+ 通透性降低会使膜电位变得更负或维持超极化，而不会使其去极化。",
+          "es": "La disminución de la permeabilidad al Na+ tendería a hacer el potencial de membrana más negativo o mantener la hiperpolarización, no despolarizarlo.",
+          "fr": "Une diminution de la perméabilité au Na+ tendrait à rendre le potentiel de membrane plus négatif ou à maintenir l'hyperpolarisation, et non à le dépolariser.",
+          "de": "Eine verringerte Na+-Permeabilität würde dazu neigen, das Membranpotential negativer zu machen oder eine Hyperpolarisation aufrechtzuerhalten, nicht es zu depolarisieren.",
+          "ja": "Na+透過性の減少は、膜電位をより負にするか、過分極を維持する傾向があり、脱分極は引き起こさない。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Increased Na+ permeability, because Na+ ions would flow in, making the inside more positive.",
+          "zh": "Na+ 离子通透性增加，因为 Na+ 离子会流入，使内部更正。",
+          "es": "Aumento de la permeabilidad al Na+, porque los iones Na+ entrarían, haciendo el interior más positivo.",
+          "fr": "Perméabilité accrue au Na+, car les ions Na+ entreraient, rendant l'intérieur plus positif.",
+          "de": "Erhöhte Na+-Permeabilität, da Na+-Ionen einströmen würden, was das Innere positiver macht.",
+          "ja": "Na+透過性の増加、Na+イオンが流入し、内部がより正になるため。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Increased Cl- permeability, because Cl- ions would flow in, making the inside more negative.",
+          "zh": "Cl- 离子通透性增加，因为 Cl- 离子会流入，使内部更负。",
+          "es": "Aumento de la permeabilidad al Cl-, porque los iones Cl- entrarían, haciendo el interior más negativo.",
+          "fr": "Perméabilité accrue au Cl-, car les ions Cl- entreraient, rendant l'intérieur plus négatif.",
+          "de": "Erhöhte Cl--Permeabilität, da Cl--Ionen einströmen würden, was das Innere negativer macht.",
+          "ja": "Cl-透過性の増加、Cl-イオンが流入し、内部がより負になるため。"
+        },
+        "feedback": {
+          "en": "Increased Cl- influx would typically lead to hyperpolarization (making the inside more negative), which is the opposite of the observed shift.",
+          "zh": "Cl- 内流增加通常会导致超极化（使内部更负），这与观察到的转变相反。",
+          "es": "El aumento del influjo de Cl- normalmente llevaría a la hiperpolarización (haciendo el interior más negativo), lo cual es lo opuesto al cambio observado.",
+          "fr": "L'augmentation de l'afflux de Cl- entraînerait typiquement une hyperpolarisation (rendant l'intérieur plus négatif), ce qui est l'opposé du changement observé.",
+          "de": "Ein erhöhter Cl--Einstrom würde typischerweise zu Hyperpolarisation führen (was das Innere negativer macht), was dem beobachteten Wechsel entgegenwirkt.",
+          "ja": "Cl-の流入増加は通常、過分極（内部をより負にする）を引き起こし、これは観察された変化とは逆である。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "A shift from -70 mV to -50 mV represents a depolarization (the inside becomes less negative). This typically occurs due to an increase in permeability to ions like Na+, which have a positive charge and a higher concentration outside the cell. When Na+ channels open, Na+ flows into the cell, making the inside more positive (less negative).",
+      "zh": "从 -70 mV 到 -50 mV 的转变表示去极化（内部变得不那么负）。这通常是由于对 Na+ 等离子的通透性增加引起的，这些离子带正电，并且在细胞外浓度较高。当 Na+ 通道打开时，Na+ 流入细胞，使内部更正（不那么负）。",
+      "es": "Un cambio de -70 mV a -50 mV representa una despolarización (el interior se vuelve menos negativo). Esto ocurre típicamente debido a un aumento en la permeabilidad a iones como el Na+, que tienen una carga positiva y una concentración más alta fuera de la célula. Cuando los canales de Na+ se abren, el Na+ fluye hacia la célula, haciendo el interior más positivo (menos negativo).",
+      "fr": "Un passage de -70 mV à -50 mV représente une dépolarisation (l'intérieur devient moins négatif). Cela se produit généralement en raison d'une augmentation de la perméabilité aux ions comme le Na+, qui ont une charge positive et une concentration plus élevée à l'extérieur de la cellule. Lorsque les canaux Na+ s'ouvrent, le Na+ entre dans la cellule, rendant l'intérieur plus positif (moins négatif).",
+      "de": "Eine Verschiebung von -70 mV auf -50 mV stellt eine Depolarisation dar (das Innere wird weniger negativ). Dies tritt typischerweise aufgrund einer erhöhten Permeabilität für Ionen wie Na+ auf, die eine positive Ladung und eine höhere Konzentration außerhalb der Zelle aufweisen. Wenn Na+-Kanäle öffnen, strömt Na+ in die Zelle, wodurch das Innere positiver (weniger negativ) wird.",
+      "ja": "-70mVから-50mVへの変化は脱分極を表します（内部がより負でなくなる）。これは通常、正の電荷を持ち、細胞外で高濃度であるNa+のようなイオンへの透過性増加によって起こります。Na+チャネルが開くと、Na+が細胞内に流入し、内部がより正（より負ではない）になります。"
+    }
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 554,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "If the nucleotide variability of a specific gene locus in a population is 0%, what can be inferred about the gene variability and the number of alleles at that locus?",
+      "zh": "如果某个种群中特定基因座的核苷酸变异性为0%，那么关于该基因座的基因变异性以及等位基因数量可以推断出什么？",
+      "es": "Si la variabilidad de nucleótidos de un locus génico específico en una población es del 0%, ¿qué se puede inferir sobre la variabilidad génica y el número de alelos en ese locus?",
+      "fr": "Si la variabilité nucléotidique d'un locus génique spécifique dans une population est de 0%, que peut-on en déduire sur la variabilité génique et le nombre d'allèles à ce locus?",
+      "de": "Wenn die Nukleotidvariabilität eines spezifischen Genlocus in einer Population 0% beträgt, was kann dann über die Genvariabilität und die Anzahl der Allele an diesem Locus abgeleitet werden?",
+      "ja": "ある集団における特定の遺伝子座のヌクレオチド多様性が0%である場合、その遺伝子座の遺伝子多様性と対立遺伝子の数について何が推論できますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Gene variability = 0%; number of alleles = 0",
+          "zh": "基因变异性 = 0%；等位基因数量 = 0",
+          "es": "Variabilidad génica = 0%; número de alelos = 0",
+          "fr": "Variabilité génique = 0%; nombre d'allèles = 0",
+          "de": "Genvariabilität = 0%; Anzahl der Allele = 0",
+          "ja": "遺伝子多様性 = 0%; 対立遺伝子の数 = 0"
+        },
+        "feedback": {
+          "en": "Zero alleles would imply the gene is absent, which is not what 0% nucleotide variability suggests. It means no variation, but the gene is still present.",
+          "zh": "等位基因数量为零意味着该基因不存在，这与0%的核苷酸变异性所暗示的不同。它表示没有变异，但基因仍然存在。",
+          "es": "Cero alelos implicaría que el gen está ausente, lo cual no es lo que sugiere una variabilidad de nucleótidos del 0%. Significa que no hay variación, pero el gen sigue presente.",
+          "fr": "Zéro allèle impliquerait que le gène est absent, ce qui n'est pas ce que suggère une variabilité nucléotidique de 0%. Cela signifie l'absence de variation, mais le gène est toujours présent.",
+          "de": "Null Allele würde bedeuten, dass das Gen nicht vorhanden ist, was bei 0% Nukleotidvariabilität nicht der Fall ist. Es bedeutet keine Variation, aber das Gen ist immer noch vorhanden.",
+          "ja": "対立遺伝子の数がゼロということは、遺伝子が存在しないことを意味し、ヌクレオチド多様性が0%であることとは異なります。これは多様性がないことを意味しますが、遺伝子は依然として存在します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Gene variability = 0%; number of alleles = 1",
+          "zh": "基因变异性 = 0%；等位基因数量 = 1",
+          "es": "Variabilidad génica = 0%; número de alelos = 1",
+          "fr": "Variabilité génique = 0%; nombre d'allèles = 1",
+          "de": "Genvariabilität = 0%; Anzahl der Allele = 1",
+          "ja": "遺伝子多様性 = 0%; 対立遺伝子の数 = 1"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Gene variability = 0%; number of alleles = 2",
+          "zh": "基因变异性 = 0%；等位基因数量 = 2",
+          "es": "Variabilidad génica = 0%; número de alelos = 2",
+          "fr": "Variabilité génique = 0%; nombre d'allèles = 2",
+          "de": "Genvariabilität = 0%; Anzahl der Allele = 2",
+          "ja": "遺伝子多様性 = 0%; 対立遺伝子の数 = 2"
+        },
+        "feedback": {
+          "en": "If there were two alleles, there would be nucleotide variability due to differences between the alleles. 0% nucleotide variability implies only one allele type.",
+          "zh": "如果存在两个等位基因，那么由于等位基因之间的差异，就会存在核苷酸变异性。0%的核苷酸变异性意味着只有一种等位基因类型。",
+          "es": "Si hubiera dos alelos, habría variabilidad de nucleótidos debido a las diferencias entre ellos. El 0% de variabilidad de nucleótidos implica solo un tipo de alelo.",
+          "fr": "S'il y avait deux allèles, il y aurait une variabilité nucléotidique due aux différences entre les allèles. 0% de variabilité nucléotidique implique un seul type d'allèle.",
+          "de": "Wenn es zwei Allele gäbe, gäbe es aufgrund der Unterschiede zwischen den Allelen Nukleotidvariabilität. 0% Nukleotidvariabilität impliziert nur einen Alleltyp.",
+          "ja": "もし2つの対立遺伝子があった場合、それらの間の差異によりヌクレオチド多様性が生じます。ヌクレオチド多様性が0%であるということは、対立遺伝子のタイプが1つしかないことを意味します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Gene variability > 0%; number of alleles = 2",
+          "zh": "基因变异性 > 0%；等位基因数量 = 2",
+          "es": "Variabilidad génica > 0%; número de alelos = 2",
+          "fr": "Variabilité génique > 0%; nombre d'allèles = 2",
+          "de": "Genvariabilität > 0%; Anzahl der Allele = 2",
+          "ja": "遺伝子多様性 > 0%; 対立遺伝子の数 = 2"
+        },
+        "feedback": {
+          "en": "0% nucleotide variability means no variation in DNA sequence, thus gene variability must also be 0%, and only one allele type is present.",
+          "zh": "0%的核苷酸变异性意味着DNA序列没有变异，因此基因变异性也必须是0%，并且只存在一种等位基因类型。",
+          "es": "El 0% de variabilidad de nucleótidos significa que no hay variación en la secuencia de ADN, por lo que la variabilidad génica también debe ser del 0%, y solo hay un tipo de alelo presente.",
+          "fr": "0% de variabilité nucléotidique signifie aucune variation dans la séquence d'ADN, donc la variabilité génique doit aussi être de 0%, et un seul type d'allèle est présent.",
+          "de": "0% Nukleotidvariabilität bedeutet keine Variation in der DNA-Sequenz, daher muss die Genvariabilität ebenfalls 0% betragen, und es ist nur ein Alleltyp vorhanden.",
+          "ja": "ヌクレオチド多様性が0%であるということは、DNA配列に多様性がないことを意味します。したがって、遺伝子多様性も0%であり、対立遺伝子のタイプは1つしか存在しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Nucleotide variability refers to variation at the DNA sequence level. If it's 0%, it means all individuals in the population have exactly the same DNA sequence at that locus. This implies there is only one type of allele for that gene, hence no gene variability either. So, gene variability is 0%, and the number of alleles is 1.",
+      "zh": "核苷酸变异性是指DNA序列层面的变异。如果其为0%，则意味着该种群中所有个体在该基因座上的DNA序列完全相同。这表明该基因只有一种等位基因类型，因此也没有基因变异性。所以，基因变异性为0%，等位基因数量为1。",
+      "es": "La variabilidad de nucleótidos se refiere a la variación a nivel de la secuencia de ADN. Si es del 0%, significa que todos los individuos de la población tienen exactamente la misma secuencia de ADN en ese locus. Esto implica que solo hay un tipo de alelo para ese gen, por lo tanto, tampoco hay variabilidad génica. Así, la variabilidad génica es del 0% y el número de alelos es 1.",
+      "fr": "La variabilité nucléotidique fait référence à la variation au niveau de la séquence d'ADN. Si elle est de 0%, cela signifie que tous les individus de la population ont exactement la même séquence d'ADN à ce locus. Cela implique qu'il n'y a qu'un seul type d'allèle pour ce gène, d'où l'absence de variabilité génique. Ainsi, la variabilité génique est de 0% et le nombre d'allèles est de 1.",
+      "de": "Nukleotidvariabilität bezieht sich auf Variationen auf DNA-Sequenzebene. Wenn sie 0% beträgt, bedeutet dies, dass alle Individuen in der Population an diesem Locus exakt dieselbe DNA-Sequenz aufweisen. Dies impliziert, dass es nur einen Alleltyp für dieses Gen gibt, folglich auch keine Genvariabilität. Die Genvariabilität beträgt also 0%, und die Anzahl der Allele ist 1.",
+      "ja": "ヌクレオチド多様性とは、DNA配列レベルでの多様性を指します。これが0%である場合、集団内のすべての個体がその遺伝子座で全く同じDNA配列を持っていることを意味します。これは、その遺伝子には1種類の対立遺伝子しか存在しないことを示唆しており、したがって遺伝子多様性もありません。よって、遺伝子多様性は0%で、対立遺伝子の数は1です。"
+    }
+  },
+  {
+    "page_number": 554,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "In a fruit fly population that is in Hardy-Weinberg equilibrium, tests show that 70% of the gametes produced contain the A1 allele for a particular gene. What proportion of the flies in this population are expected to carry both the A1 and A2 alleles?",
+      "zh": "在一个处于哈迪-温伯格平衡的果蝇种群中，测试显示所产生的配子中有70%含有特定基因的A1等位基因。预计该种群中，携带A1和A2两种等位基因的果蝇比例是多少？",
+      "es": "En una población de mosca de la fruta que se encuentra en equilibrio de Hardy-Weinberg, las pruebas muestran que el 70% de los gametos producidos contienen el alelo A1 para un gen particular. ¿Qué proporción de las moscas en esta población se espera que porten ambos alelos A1 y A2?",
+      "fr": "Dans une population de drosophiles en équilibre de Hardy-Weinberg, des tests montrent que 70% des gamètes produits contiennent l'allèle A1 pour un gène particulier. Quelle proportion des drosophiles de cette population est censée porter à la fois les allèles A1 et A2?",
+      "de": "In einer Fruchtfliegenpopulation, die sich im Hardy-Weinberg-Gleichgewicht befindet, zeigen Tests, dass 70% der produzierten Gameten das A1-Allel für ein bestimmtes Gen enthalten. Welcher Anteil der Fliegen in dieser Population trägt voraussichtlich sowohl das A1- als auch das A2-Allel?",
+      "ja": "ハーディー・ワインバーグ平衡状態にあるショウジョウバエ集団において、特定の遺伝子のA1対立遺伝子を持つ配子が、生成される配子の70%を占めることがテストで示されました。この集団において、A1対立遺伝子とA2対立遺伝子の両方を保有するハエの割合はどのくらいと予想されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "0.70",
+          "zh": "0.70",
+          "es": "0.70",
+          "fr": "0.70",
+          "de": "0.70",
+          "ja": "0.70"
+        },
+        "feedback": {
+          "en": "0.70 is the frequency of the A1 allele (p), not the frequency of heterozygotes (2pq).",
+          "zh": "0.70是A1等位基因的频率（p），而不是杂合子（2pq）的频率。",
+          "es": "0.70 es la frecuencia del alelo A1 (p), no la frecuencia de los heterocigotos (2pq).",
+          "fr": "0.70 est la fréquence de l'allèle A1 (p), pas la fréquence des hétérozygotes (2pq).",
+          "de": "0,70 ist die Frequenz des A1-Allels (p), nicht die Frequenz der Heterozygoten (2pq).",
+          "ja": "0.70はA1対立遺伝子の頻度（p）であり、ヘテロ接合体（2pq）の頻度ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "0.49",
+          "zh": "0.49",
+          "es": "0.49",
+          "fr": "0.49",
+          "de": "0.49",
+          "ja": "0.49"
+        },
+        "feedback": {
+          "en": "0.49 is the frequency of homozygous A1A1 individuals (p^2), not heterozygotes (2pq).",
+          "zh": "0.49是A1A1纯合子（p^2）的频率，而不是杂合子（2pq）的频率。",
+          "es": "0.49 es la frecuencia de individuos homocigotos A1A1 (p^2), no de heterocigotos (2pq).",
+          "fr": "0.49 est la fréquence des individus homozygotes A1A1 (p^2), et non des hétérozygotes (2pq).",
+          "de": "0,49 ist die Häufigkeit von homozygoten A1A1-Individuen (p^2), nicht die von Heterozygoten (2pq).",
+          "ja": "0.49はA1A1ホモ接合体（p^2）の頻度であり、ヘテロ接合体（2pq）の頻度ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "0.42",
+          "zh": "0.42",
+          "es": "0.42",
+          "fr": "0.42",
+          "de": "0.42",
+          "ja": "0.42"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "0.21",
+          "zh": "0.21",
+          "es": "0.21",
+          "fr": "0.21",
+          "de": "0.21",
+          "ja": "0.21"
+        },
+        "feedback": {
+          "en": "0.21 is half of the correct heterozygote frequency (2pq/2), or the frequency of homozygous A2A2 (q^2) if q were 0.7 and p were 0.3, which is incorrect.",
+          "zh": "0.21是正确杂合子频率（2pq）的一半，或者是A2A2纯合子（q^2）的频率（如果q是0.7而p是0.3），这是不正确的。",
+          "es": "0.21 es la mitad de la frecuencia correcta de heterocigotos (2pq/2), o la frecuencia de homocigotos A2A2 (q^2) si q fuera 0.7 y p fuera 0.3, lo cual es incorrecto.",
+          "fr": "0.21 est la moitié de la fréquence correcte des hétérozygotes (2pq/2), ou la fréquence des homozygotes A2A2 (q^2) si q était 0.7 et p était 0.3, ce qui est incorrect.",
+          "de": "0,21 ist die Hälfte der korrekten Heterozygotenfrequenz (2pq/2) oder die Frequenz der homozygoten A2A2 (q^2), wenn q 0,7 und p 0,3 wäre, was falsch ist.",
+          "ja": "0.21は正しいヘテロ接合体頻度（2pq）の半分、またはqが0.7でpが0.3の場合のホモ接合体A2A2（q^2）の頻度であり、これは誤りです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "In Hardy-Weinberg equilibrium, if p is the frequency of allele A1 and q is the frequency of allele A2, then p + q = 1. We are given p = 0.70. Therefore, q = 1 - 0.70 = 0.30. The proportion of flies carrying both A1 and A2 alleles are the heterozygotes (A1A2), whose frequency is represented by 2pq. So, 2pq = 2 * 0.70 * 0.30 = 2 * 0.21 = 0.42.",
+      "zh": "在哈迪-温伯格平衡中，如果p是A1等位基因的频率，q是A2等位基因的频率，那么p + q = 1。我们已知p = 0.70。因此，q = 1 - 0.70 = 0.30。携带A1和A2两种等位基因的果蝇比例是杂合子（A1A2），其频率由2pq表示。所以，2pq = 2 * 0.70 * 0.30 = 2 * 0.21 = 0.42。",
+      "es": "En el equilibrio de Hardy-Weinberg, si p es la frecuencia del alelo A1 y q es la frecuencia del alelo A2, entonces p + q = 1. Se nos da p = 0.70. Por lo tanto, q = 1 - 0.70 = 0.30. La proporción de moscas que portan ambos alelos A1 y A2 son los heterocigotos (A1A2), cuya frecuencia se representa por 2pq. Así, 2pq = 2 * 0.70 * 0.30 = 2 * 0.21 = 0.42.",
+      "fr": "En équilibre de Hardy-Weinberg, si p est la fréquence de l'allèle A1 et q est la fréquence de l'allèle A2, alors p + q = 1. On nous donne p = 0.70. Par conséquent, q = 1 - 0.70 = 0.30. La proportion de drosophiles portant à la fois les allèles A1 et A2 sont les hétérozygotes (A1A2), dont la fréquence est représentée par 2pq. Ainsi, 2pq = 2 * 0.70 * 0.30 = 2 * 0.21 = 0.42.",
+      "de": "Im Hardy-Weinberg-Gleichgewicht gilt: Wenn p die Frequenz des Allels A1 und q die Frequenz des Allels A2 ist, dann ist p + q = 1. Gegeben ist p = 0,70. Daher ist q = 1 - 0,70 = 0,30. Der Anteil der Fliegen, die sowohl das A1- als auch das A2-Allel tragen, sind die Heterozygoten (A1A2), deren Frequenz durch 2pq repräsentiert wird. Also, 2pq = 2 * 0,70 * 0,30 = 2 * 0,21 = 0,42.",
+      "ja": "ハーディー・ワインバーグ平衡において、A1対立遺伝子の頻度をp、A2対立遺伝子の頻度をqとすると、p + q = 1です。A1対立遺伝子の頻度pは0.70と与えられています。したがって、q = 1 - 0.70 = 0.30です。A1対立遺伝子とA2対立遺伝子の両方を保有するハエの割合はヘテロ接合体（A1A2）であり、その頻度は2pqで表されます。したがって、2pq = 2 × 0.70 × 0.30 = 2 × 0.21 = 0.42です。"
+    }
+  },
+  {
+    "page_number": 554,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Refer to the provided figure showing the allele frequencies of `lap94` and other `lap` alleles in *Mytilus edulis* mussels. How does the frequency of the `lap94` allele generally change as salinity increases from Long Island Sound towards the open Atlantic Ocean, and what evolutionary mechanism best explains this pattern, considering the information provided?",
+      "zh": "请参照提供的图表，该图显示了贻贝（*Mytilus edulis*）中`lap94`等位基因和其他`lap`等位基因的频率。从长岛湾向开阔大西洋盐度增加的方向，`lap94`等位基因的频率通常如何变化？考虑到所提供的信息，哪种进化机制最能解释这种模式？",
+      "es": "Consulte la figura proporcionada que muestra las frecuencias alélicas de `lap94` y otros alelos `lap` en mejillones *Mytilus edulis*. ¿Cómo cambia generalmente la frecuencia del alelo `lap94` a medida que la salinidad aumenta desde Long Island Sound hacia el Océano Atlántico abierto, y qué mecanismo evolutivo explica mejor este patrón, considerando la información proporcionada?",
+      "fr": "Reportez-vous à la figure fournie montrant les fréquences alléliques de `lap94` et d'autres allèles `lap` chez les moules *Mytilus edulis*. Comment la fréquence de l'allèle `lap94` change-t-elle généralement à mesure que la salinité augmente du détroit de Long Island vers l'océan Atlantique ouvert, et quel mécanisme évolutif explique le mieux ce schéma, compte tenu des informations fournies?",
+      "de": "Beziehen Sie sich auf die bereitgestellte Abbildung, die die Allelfrequenzen von `lap94` und anderen `lap`-Allelen bei Miesmuscheln (*Mytilus edulis*) zeigt. Wie ändert sich die Frequenz des `lap94`-Allels im Allgemeinen, wenn die Salinität vom Long Island Sound zum offenen Atlantik hin zunimmt, und welcher Evolutionsmechanismus erklärt dieses Muster am besten, unter Berücksichtigung der bereitgestellten Informationen?",
+      "ja": "提供された図を参照し、イガイ（*Mytilus edulis*）における`lap94`対立遺伝子とその他の`lap`対立遺伝子の頻度を示しています。ロングアイランド湾から外洋の大西洋に向かって塩分濃度が増加するにつれて、`lap94`対立遺伝子の頻度は一般的にどのように変化しますか？提供された情報を考慮すると、このパターンを最もよく説明する進化メカニズムは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The `lap94` allele frequency decreases; explained by genetic drift, as less selective pressure exists in higher salinity.",
+          "zh": "`lap94`等位基因频率降低；由遗传漂变解释，因为在高盐度环境下选择压力较小。",
+          "es": "La frecuencia del alelo `lap94` disminuye; explicado por la deriva genética, ya que hay menos presión selectiva en salinidad más alta.",
+          "fr": "La fréquence de l'allèle `lap94` diminue; expliqué par la dérive génétique, car il y a moins de pression sélective en salinité plus élevée.",
+          "de": "Die `lap94`-Allel-Frequenz nimmt ab; erklärt durch Gendrift, da in höherer Salinität weniger Selektionsdruck besteht.",
+          "ja": "`lap94`対立遺伝子頻度が減少します。これは遺伝的浮動によって説明され、高塩分環境では選択圧が低いからです。"
+        },
+        "feedback": {
+          "en": "The `lap94` allele frequency generally increases with salinity, and genetic drift is less likely to be the primary explanation for such a consistent directional pattern across many sites, especially when selective pressures are known.",
+          "zh": "`lap94`等位基因频率通常随盐度增加而增加，而且遗传漂变不太可能是许多地点这种一致方向性模式的主要解释，特别是在已知存在选择压力的情况下。",
+          "es": "La frecuencia del alelo `lap94` generalmente aumenta con la salinidad, y la deriva genética es menos probable que sea la explicación principal para un patrón direccional tan consistente en muchos sitios, especialmente cuando se conocen las presiones selectivas.",
+          "fr": "La fréquence de l'allèle `lap94` augmente généralement avec la salinité, et la dérive génétique est moins susceptible d'être l'explication principale d'un tel schéma directionnel cohérent sur de nombreux sites, surtout lorsque des pressions sélectives sont connues.",
+          "de": "Die `lap94`-Allel-Frequenz nimmt generell mit der Salinität zu, und Gendrift ist weniger wahrscheinlich die primäre Erklärung für ein solch konsistentes gerichtetes Muster über viele Standorte hinweg, insbesondere wenn Selektionsdrücke bekannt sind.",
+          "ja": "`lap94`対立遺伝子頻度は一般的に塩分濃度とともに増加します。また、多くの地点でこのような一貫した方向性パターンを説明する主要な要因として遺伝的浮動は考えにくいです。特に選択圧が知られている場合はなおさらです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The `lap94` allele frequency increases; explained by natural selection, as this allele is advantageous in high-salinity environments.",
+          "zh": "`lap94`等位基因频率增加；由自然选择解释，因为该等位基因在高盐度环境中具有优势。",
+          "es": "La frecuencia del alelo `lap94` aumenta; explicado por la selección natural, ya que este alelo es ventajoso en ambientes de alta salinidad.",
+          "fr": "La fréquence de l'allèle `lap94` augmente; expliqué par la sélection naturelle, car cet allèle est avantageux dans les environnements à forte salinité.",
+          "de": "Die `lap94`-Allel-Frequenz nimmt zu; erklärt durch natürliche Selektion, da dieses Allel in Umgebungen mit hoher Salinität vorteilhaft ist.",
+          "ja": "`lap94`対立遺伝子頻度が増加します。これは自然選択によって説明され、この対立遺伝子が高塩分環境で有利だからです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The `lap94` allele frequency increases; explained by gene flow from the open ocean into Long Island Sound.",
+          "zh": "`lap94`等位基因频率增加；由基因流动解释，从开阔大洋流入长岛湾。",
+          "es": "La frecuencia del alelo `lap94` aumenta; explicado por el flujo génico desde el océano abierto hacia Long Island Sound.",
+          "fr": "La fréquence de l'allèle `lap94` augmente; expliqué par le flux génique de l'océan ouvert vers le détroit de Long Island.",
+          "de": "Die `lap94`-Allel-Frequenz nimmt zu; erklärt durch Genfluss vom offenen Ozean in den Long Island Sound.",
+          "ja": "`lap94`対立遺伝子頻度が増加します。これは外洋からロングアイランド湾への遺伝子流動によって説明されます。"
+        },
+        "feedback": {
+          "en": "While gene flow from the open ocean occurs, the *reason* for the increasing frequency of `lap94` is its selective advantage in high-salinity water, making natural selection the primary driver of this pattern, not just passive gene flow.",
+          "zh": "虽然存在从开阔大洋来的基因流动，但`lap94`频率增加的根本原因在于其在高盐度水中的选择优势，因此自然选择是这种模式的主要驱动力，而不仅仅是被动的基因流动。",
+          "es": "Aunque ocurre flujo génico desde el océano abierto, la *razón* del aumento de la frecuencia de `lap94` es su ventaja selectiva en agua de alta salinidad, lo que convierte a la selección natural en el motor principal de este patrón, no solo un flujo génico pasivo.",
+          "fr": "Bien qu'il y ait un flux génique depuis l'océan ouvert, la *raison* de l'augmentation de la fréquence de `lap94` est son avantage sélectif dans l'eau à forte salinité, faisant de la sélection naturelle le principal moteur de ce schéma, et non pas seulement un flux génique passif.",
+          "de": "Obwohl Genfluss vom offenen Ozean stattfindet, ist der *Grund* für die zunehmende Frequenz von `lap94` dessen selektiver Vorteil in salzreichem Wasser, was die natürliche Selektion zum Haupttreiber dieses Musters macht, nicht nur passiver Genfluss.",
+          "ja": "外洋からの遺伝子流動は起こりますが、`lap94`の頻度が増加する*理由*は、高塩分水におけるその選択的有利性であり、受動的な遺伝子流動だけでなく、自然選択がこのパターンの主な原動力です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The `lap94` allele frequency decreases; explained by directional selection favoring other `lap` alleles in higher salinity.",
+          "zh": "`lap94`等位基因频率降低；由定向选择解释，在高盐度环境下偏向于其他`lap`等位基因。",
+          "es": "La frecuencia del alelo `lap94` disminuye; explicado por la selección direccional que favorece a otros alelos `lap` en salinidad más alta.",
+          "fr": "La fréquence de l'allèle `lap94` diminue; expliqué par la sélection directionnelle favorisant d'autres allèles `lap` en salinité plus élevée.",
+          "de": "Die `lap94`-Allel-Frequenz nimmt ab; erklärt durch gerichtete Selektion, die andere `lap`-Allele in höherer Salinität begünstigt.",
+          "ja": "`lap94`対立遺伝子頻度が減少します。これは方向性選択によって説明され、高塩分環境では他の`lap`対立遺伝子が有利だからです。"
+        },
+        "feedback": {
+          "en": "The `lap94` allele frequency actually increases with salinity, and the provided information states it is beneficial in high salt concentration.",
+          "zh": "`lap94`等位基因频率实际上随盐度增加而增加，并且所提供的信息表明它在高盐度环境中是有益的。",
+          "es": "La frecuencia del alelo `lap94` en realidad aumenta con la salinidad, y la información proporcionada indica que es beneficioso en alta concentración de sal.",
+          "fr": "La fréquence de l'allèle `lap94` augmente en fait avec la salinité, et les informations fournies indiquent qu'il est bénéfique en forte concentration de sel.",
+          "de": "Die `lap94`-Allel-Frequenz nimmt tatsächlich mit der Salinität zu, und die bereitgestellten Informationen besagen, dass sie bei hoher Salzkonzentration vorteilhaft ist.",
+          "ja": "`lap94`対立遺伝子頻度は実際には塩分濃度とともに増加しており、提供された情報によると、高塩分濃度で有利であるとされています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The map indicates that salinity increases towards the open ocean (from Long Island Sound to the Atlantic Ocean). Observing the pie charts from site 1 through 11, the purple section representing `lap94` alleles generally becomes larger as you move from left to right (increasing salinity). The text explicitly states that 'The `lap94` allele helps mussels maintain osmotic balance in water with a high salt concentration.' This suggests a selective advantage for `lap94` in high-salinity environments, making natural selection the most fitting evolutionary mechanism to explain its increasing frequency with increasing salinity.",
+      "zh": "地图显示盐度从长岛湾向开阔大洋（大西洋方向）增加。观察从站点1到11的饼图，代表`lap94`等位基因的紫色部分通常从左向右（盐度增加方向）变得更大。文本明确指出，“`lap94`等位基因有助于贻贝在高盐度水中维持渗透平衡。” 这表明`lap94`在高盐度环境中具有选择优势，因此自然选择是解释其频率随盐度增加而增加的最合适的进化机制。",
+      "es": "El mapa indica que la salinidad aumenta hacia el océano abierto (desde Long Island Sound hasta el Océano Atlántico). Observando los gráficos circulares de los sitios 1 a 11, la sección morada que representa los alelos `lap94` generalmente se hace más grande a medida que se avanza de izquierda a derecha (aumentando la salinidad). El texto establece explícitamente que 'El alelo `lap94` ayuda a los mejillones a mantener el equilibrio osmótico en agua con una alta concentración de sal'. Esto sugiere una ventaja selectiva para `lap94` en ambientes de alta salinidad, lo que convierte a la selección natural en el mecanismo evolutivo más adecuado para explicar su frecuencia creciente con el aumento de la salinidad.",
+      "fr": "La carte indique que la salinité augmente vers l'océan ouvert (du détroit de Long Island vers l'océan Atlantique). En observant les diagrammes circulaires des sites 1 à 11, la section violette représentant les allèles `lap94` devient généralement plus grande à mesure que l'on se déplace de gauche à droite (salinité croissante). Le texte indique explicitement que 'L'allèle `lap94` aide les moules à maintenir l'équilibre osmotique dans l'eau à forte concentration de sel'. Cela suggère un avantage sélectif pour `lap94` dans les environnements à forte salinité, faisant de la sélection naturelle le mécanisme évolutif le plus approprié pour expliquer sa fréquence croissante avec l'augmentation de la salinité.",
+      "de": "Die Karte zeigt, dass die Salinität zum offenen Ozean hin zunimmt (vom Long Island Sound zum Atlantischen Ozean). Bei Betrachtung der Tortendiagramme von Standort 1 bis 11 wird der lila Bereich, der `lap94`-Allele darstellt, im Allgemeinen größer, je weiter man sich von links nach rechts bewegt (zunehmende Salinität). Der Text besagt explizit, dass 'Das `lap94`-Allel Muscheln hilft, das osmotische Gleichgewicht in Wasser mit hoher Salzkonzentration aufrechtzuerhalten.' Dies deutet auf einen selektiven Vorteil für `lap94` in Umgebungen mit hoher Salinität hin, was die natürliche Selektion zum am besten passenden Evolutionsmechanismus macht, um die Zunahme seiner Frequenz mit steigender Salinität zu erklären.",
+      "ja": "地図は、ロングアイランド湾から外洋の大西洋に向かって塩分濃度が増加することを示しています。サイト1から11までの円グラフを見ると、`lap94`対立遺伝子を表す紫色の部分は、左から右へ（塩分濃度が増加する方向へ）進むにつれて、一般的に大きくなっています。本文には、「`lap94`対立遺伝子は、高塩分濃度の水中でムール貝が浸透圧バランスを維持するのに役立つ」と明記されています。これは、高塩分環境における`lap94`の選択的有利性を示唆しており、塩分濃度の上昇に伴うその頻度の増加を説明するのに最も適した進化メカニズムは自然選択です。"
+    }
+  },
+  {
+    "page_number": 554,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Heterozygotes for the sickle-cell locus produce both normal and abnormal hemoglobin. When hemoglobin molecules in these individuals are packed into red blood cells, some cells receive relatively large quantities of abnormal hemoglobin, making them prone to sickling. This sickling can lead to various symptoms at the individual level (e.g., pain, anemia) and affect population dynamics (e.g., resistance to malaria). This phenomenon illustrates emergent properties across different levels of biological organization. Which of the following sequences best represents the progression of emergent properties in this scenario, from the lowest to the highest level?",
+      "zh": "镰状细胞基因座的杂合子会同时产生正常和异常的血红蛋白。当这些个体红细胞中的血红蛋白分子堆积时，一些细胞会接收到相对大量的异常血红蛋白，使其容易发生镰状化。这种镰状化可以在个体层面导致各种症状（如疼痛、贫血），并影响种群动态（如对疟疾的抵抗力）。这种现象说明了生物组织不同层次的涌现特性。以下哪一序列最能代表这种情景中从最低到最高层次的涌现特性发展过程？",
+      "es": "Los heterocigotos para el locus de la anemia falciforme producen tanto hemoglobina normal como anormal. Cuando las moléculas de hemoglobina en estos individuos se empaquetan en los glóbulos rojos, algunas células reciben cantidades relativamente grandes de hemoglobina anormal, lo que las hace propensas a la falciformación. Esta falciformación puede conducir a varios síntomas a nivel individual (por ejemplo, dolor, anemia) y afectar la dinámica de la población (por ejemplo, resistencia a la malaria). Este fenómeno ilustra propiedades emergentes a través de diferentes niveles de organización biológica. ¿Cuál de las siguientes secuencias representa mejor la progresión de las propiedades emergentes en este escenario, del nivel más bajo al más alto?",
+      "fr": "Les hétérozygotes pour le locus drépanocytaire produisent à la fois de l'hémoglobine normale et anormale. Lorsque les molécules d'hémoglobine chez ces individus sont conditionnées dans les globules rouges, certaines cellules reçoivent des quantités relativement importantes d'hémoglobine anormale, ce qui les rend sujettes à la falciformation. Cette falciformation peut entraîner divers symptômes au niveau individuel (par exemple, douleur, anémie) et affecter la dynamique des populations (par exemple, résistance au paludisme). Ce phénomène illustre des propriétés émergentes à travers différents niveaux d'organisation biologique. Laquelle des séquences suivantes représente le mieux la progression des propriétés émergentes dans ce scénario, du niveau le plus bas au niveau le plus élevé?",
+      "de": "Heterozygote für den Sichelzell-Locus produzieren sowohl normales als auch abnormales Hämoglobin. Wenn Hämoglobinmoleküle in diesen Individuen in roten Blutkörperchen verpackt werden, erhalten einige Zellen relativ große Mengen an abnormalem Hämoglobin, was sie anfällig für Sichelbildung macht. Diese Sichelbildung kann zu verschiedenen Symptomen auf individueller Ebene (z.B. Schmerzen, Anämie) führen und die Populationsdynamik beeinflussen (z.B. Resistenz gegen Malaria). Dieses Phänomen veranschaulicht emergente Eigenschaften auf verschiedenen Ebenen der biologischen Organisation. Welche der folgenden Sequenzen stellt die Progression emergenter Eigenschaften in diesem Szenario, von der niedrigsten zur höchsten Ebene, am besten dar?",
+      "ja": "鎌状赤血球遺伝子座のヘテロ接合体は、正常なヘモグロビンと異常なヘモグロビンの両方を生成します。これらの個体の赤血球にヘモグロビン分子が詰め込まれると、一部の細胞は比較的大量の異常なヘモグロビンを受け取り、鎌状化しやすくなります。この鎌状化は、個体レベルでさまざまな症状（例：痛み、貧血）を引き起こし、集団の動態（例：マラリア耐性）に影響を与える可能性があります。この現象は、生物学的組織の異なるレベルにわたる創発的特性を示しています。このシナリオにおける創発的特性の進行を、最も低いレベルから最も高いレベルへと最もよく表す配列は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Molecular -> Cellular -> Tissue -> Organ -> Individual",
+          "zh": "分子 -> 细胞 -> 组织 -> 器官 -> 个体",
+          "es": "Molecular -> Celular -> Tejido -> Órgano -> Individual",
+          "fr": "Moléculaire -> Cellulaire -> Tissu -> Organe -> Individu",
+          "de": "Molekular -> Zellular -> Gewebe -> Organ -> Individuum",
+          "ja": "分子 -> 細胞 -> 組織 -> 器官 -> 個体"
+        },
+        "feedback": {
+          "en": "While tissue and organ levels exist, they are not explicitly mentioned as emergent properties in this specific description of sickle cell's progression from molecular to population level. The direct jump from cellular effects to individual symptoms is highlighted.",
+          "zh": "虽然存在组织和器官层面，但在此镰状细胞从分子到种群层面的特定描述中，并未明确提及它们是涌现特性。此处强调的是从细胞效应到个体症状的直接跳跃。",
+          "es": "Aunque existen los niveles tisular y orgánico, no se mencionan explícitamente como propiedades emergentes en esta descripción específica de la progresión de la anemia falciforme desde el nivel molecular hasta el poblacional. Se destaca el salto directo de los efectos celulares a los síntomas individuales.",
+          "fr": "Bien que les niveaux tissulaire et organique existent, ils ne sont pas explicitement mentionnés comme propriétés émergentes dans cette description spécifique de la progression de la drépanocytose du niveau moléculaire au niveau de la population. Le saut direct des effets cellulaires aux symptômes individuels est mis en évidence.",
+          "de": "Obwohl Gewebe- und Organebenen existieren, werden sie in dieser spezifischen Beschreibung der Sichelzellenanämie-Progression von der molekularen bis zur Populationsebene nicht explizit als emergente Eigenschaften erwähnt. Der direkte Sprung von zellulären Effekten zu individuellen Symptomen wird hervorgehoben.",
+          "ja": "組織レベルや器官レベルは存在しますが、この鎌状赤血球病の分子から個体、集団レベルへの進行に関する特定の記述では、それらが創発的特性として明示的に言及されていません。ここでは細胞効果から個体症状への直接的な飛躍が強調されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Molecular -> Cellular -> Individual -> Population",
+          "zh": "分子 -> 细胞 -> 个体 -> 种群",
+          "es": "Molecular -> Celular -> Individual -> Población",
+          "fr": "Moléculaire -> Cellulaire -> Individu -> Population",
+          "de": "Molekular -> Zellular -> Individuum -> Population",
+          "ja": "分子 -> 細胞 -> 個体 -> 集団"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cellular -> Tissue -> Individual -> Population",
+          "zh": "细胞 -> 组织 -> 个体 -> 种群",
+          "es": "Celular -> Tejido -> Individual -> Población",
+          "fr": "Cellulaire -> Tissu -> Individu -> Population",
+          "de": "Zellular -> Gewebe -> Individuum -> Population",
+          "ja": "細胞 -> 組織 -> 個体 -> 集団"
+        },
+        "feedback": {
+          "en": "This sequence skips the molecular level, which is where the problem (abnormal hemoglobin molecules) originates.",
+          "zh": "该序列跳过了分子层面，而问题（异常血红蛋白分子）正是在分子层面产生的。",
+          "es": "Esta secuencia omite el nivel molecular, que es donde se origina el problema (moléculas de hemoglobina anormales).",
+          "fr": "Cette séquence ignore le niveau moléculaire, qui est l'origine du problème (molécules d'hémoglobine anormales).",
+          "de": "Diese Sequenz überspringt die molekulare Ebene, auf der das Problem (abnorme Hämoglobinmoleküle) entsteht.",
+          "ja": "このシーケンスは分子レベルをスキップしており、問題（異常なヘモグロビン分子）の起源を説明していません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Molecular -> Individual -> Population -> Ecosystem",
+          "zh": "分子 -> 个体 -> 种群 -> 生态系统",
+          "es": "Molecular -> Individual -> Población -> Ecosistema",
+          "fr": "Moléculaire -> Individu -> Population -> Écosystème",
+          "de": "Molekular -> Individuum -> Population -> Ökosystem",
+          "ja": "分子 -> 個体 -> 集団 -> 生態系"
+        },
+        "feedback": {
+          "en": "This sequence skips the cellular level, where the abnormal hemoglobin directly causes the cells to sickle before affecting the whole individual. Also, 'ecosystem' is not directly addressed in the provided context about sickle cell.",
+          "zh": "该序列跳过了细胞层面，异常血红蛋白直接导致细胞镰状化，然后才影响到整个个体。此外，所提供的关于镰状细胞的语境中并未直接涉及“生态系统”这一概念。",
+          "es": "Esta secuencia omite el nivel celular, donde la hemoglobina anormal causa directamente la falciformación de las células antes de afectar al individuo completo. Además, el 'ecosistema' no se aborda directamente en el contexto proporcionado sobre la anemia falciforme.",
+          "fr": "Cette séquence ignore le niveau cellulaire, où l'hémoglobine anormale provoque directement la falciformation des cellules avant d'affecter l'individu entier. De plus, 'écosystème' n'est pas directement abordé dans le contexte fourni sur la drépanocytose.",
+          "de": "Diese Sequenz überspringt die zelluläre Ebene, auf der das abnormale Hämoglobin direkt die Sichelbildung der Zellen verursacht, bevor es das gesamte Individuum betrifft. Zudem wird das 'Ökosystem' im bereitgestellten Kontext zur Sichelzellanämie nicht direkt behandelt.",
+          "ja": "このシーケンスは細胞レベルをスキップしており、異常なヘモグロビンが個体全体に影響を与える前に直接細胞を鎌状化させます。また、「生態系」は鎌状赤血球に関する提供された文脈では直接扱われていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The explanation starts with the abnormal *hemoglobin molecules* (molecular level). These molecules are packed into red blood *cells*, leading to the sickling of cells (cellular level). The sickling of cells causes various symptoms in the *individual* (individual level). Finally, the impact on individuals, such as resistance to malaria, affects the trait's prevalence and dynamics within a *population* (population level). This progression accurately follows the emergent properties described.",
+      "zh": "解释从异常的*血红蛋白分子*（分子层面）开始。这些分子被装入红血*细胞*中，导致细胞镰状化（细胞层面）。细胞的镰状化在*个体*层面引起各种症状（个体层面）。最后，对个体的影响，例如对疟疾的抵抗力，会影响该性状在*种群*中的流行和动态（种群层面）。这一演进过程准确地遵循了所描述的涌现特性。",
+      "es": "La explicación comienza con las *moléculas de hemoglobina* anormales (nivel molecular). Estas moléculas se empaquetan en los *glóbulos rojos*, lo que lleva a la falciformación de las células (nivel celular). La falciformación de las células causa diversos síntomas en el *individuo* (nivel individual). Finalmente, el impacto en los individuos, como la resistencia a la malaria, afecta la prevalencia y la dinámica del rasgo dentro de una *población* (nivel de población). Esta progresión sigue con precisión las propiedades emergentes descritas.",
+      "fr": "L'explication commence avec les *molécules d'hémoglobine* anormales (niveau moléculaire). Ces molécules sont conditionnées dans les *globules rouges*, entraînant la falciformation des cellules (niveau cellulaire). La falciformation des cellules provoque divers symptômes chez l'*individu* (niveau individuel). Enfin, l'impact sur les individus, tel que la résistance au paludisme, affecte la prévalence et la dynamique du trait au sein d'une *population* (niveau de population). Cette progression suit précisément les propriétés émergentes décrites.",
+      "de": "Die Erklärung beginnt mit den abnormalen *Hämoglobinmolekülen* (molekulare Ebene). Diese Moleküle werden in roten Blut*zellen* verpackt, was zur Sichelbildung der Zellen führt (zelluläre Ebene). Die Sichelbildung der Zellen verursacht verschiedene Symptome beim *Individuum* (individuelle Ebene). Schließlich beeinflusst der Einfluss auf Individuen, wie die Resistenz gegen Malaria, die Prävalenz und Dynamik des Merkmals innerhalb einer *Population* (Populationsebene). Diese Progression folgt genau den beschriebenen emergenten Eigenschaften.",
+      "ja": "説明は異常な*ヘモグロビン分子*（分子レベル）から始まります。これらの分子は赤血*細胞*に詰め込まれ、細胞の鎌状化を引き起こします（細胞レベル）。細胞の鎌状化は*個体*にさまざまな症状を引き起こします（個体レベル）。最後に、マラリア耐性などの個体への影響は、*集団*内での形質の有病率と動態に影響を与えます（集団レベル）。この進行は、説明されている創発的特性を正確にたどっています。"
+    }
+  }
+]

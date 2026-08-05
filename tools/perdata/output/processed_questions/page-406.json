@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 406,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary difference between a silent mutation and a missense mutation?",
+      "zh": "无义突变和错义突变的主要区别是什么？",
+      "es": "Cuál es la principal diferencia entre una mutación silenciosa y una mutación de sentido erróneo?",
+      "fr": "Quelle est la principale différence entre une mutation silencieuse et une mutation faux-sens ?",
+      "de": "Was ist der Hauptunterschied zwischen einer stillen Mutation und einer Missense-Mutation?",
+      "ja": "サイレント変異とミスセンス変異の主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A silent mutation changes the DNA sequence but not the mRNA, while a missense mutation changes both.",
+          "zh": "无义突变改变DNA序列但不改变mRNA，而错义突变则两者都改变。",
+          "es": "Una mutación silenciosa cambia la secuencia de ADN pero no el ARNm, mientras que una mutación de sentido erróneo cambia ambos.",
+          "fr": "Une mutation silencieuse modifie la séquence d'ADN mais pas l'ARNm, tandis qu'une mutation faux-sens modifie les deux.",
+          "de": "Eine stille Mutation ändert die DNA-Sequenz, aber nicht die mRNA, während eine Missense-Mutation beides ändert.",
+          "ja": "サイレント変異はDNA配列を変化させるがmRNAは変化させず、ミスセンス変異は両方を変化させる。"
+        },
+        "feedback": {
+          "en": "Silent mutations still change the mRNA codon, but due to redundancy, the amino acid may not change.",
+          "zh": "无义突变仍会改变mRNA密码子，但由于遗传密码的冗余性，氨基酸可能不会改变。",
+          "es": "Las mutaciones silenciosas aún cambian el codón de ARNm, pero debido a la redundancia, el aminoácido puede no cambiar.",
+          "fr": "Les mutations silencieuses modifient toujours le codon d'ARNm, mais en raison de la redondance, l'acide aminé peut ne pas changer.",
+          "de": "Stille Mutationen ändern zwar das mRNA-Codon, aber aufgrund der Redundanz kann die Aminosäure unverändert bleiben.",
+          "ja": "サイレント変異はmRNAコドンを変化させますが、冗長性のためアミノ酸は変化しない場合があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A silent mutation results in no change to the amino acid sequence, whereas a missense mutation results in a change to a different amino acid.",
+          "zh": "无义突变不导致氨基酸序列的改变，而错义突变导致氨基酸序列的改变，产生不同的氨基酸。",
+          "es": "Una mutación silenciosa no produce ningún cambio en la secuencia de aminoácidos, mientras que una mutación de sentido erróneo produce un cambio a un aminoácido diferente.",
+          "fr": "Une mutation silencieuse n'entraîne aucun changement dans la séquence d'acides aminés, tandis qu'une mutation faux-sens entraîne un changement vers un acide aminé différent.",
+          "de": "Eine stille Mutation führt zu keiner Änderung der Aminosäuresequenz, während eine Missense-Mutation zu einer Änderung zu einer anderen Aminosäure führt.",
+          "ja": "サイレント変異はアミノ酸配列の変化を引き起こさないのに対し、ミスセンス変異は異なるアミノ酸への変化を引き起こします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Silent mutations are always beneficial, while missense mutations are always harmful.",
+          "zh": "无义突变总是有益的，而错义突变总是有害的。",
+          "es": "Las mutaciones silenciosas siempre son beneficiosas, mientras que las mutaciones de sentido erróneo siempre son dañinas.",
+          "fr": "Les mutations silencieuses sont toujours bénéfiques, tandis que les mutations faux-sens sont toujours nocives.",
+          "de": "Stille Mutationen sind immer vorteilhaft, während Missense-Mutationen immer schädlich sind.",
+          "ja": "サイレント変異は常に有益であり、ミスセンス変異は常に有害です。"
+        },
+        "feedback": {
+          "en": "The impact of mutations is not always simple; silent mutations have no observable phenotypic effect, but aren't necessarily beneficial, and missense can have varied effects.",
+          "zh": "突变的影响并非总是简单的；无义突变没有可观察到的表型效应，但不一定有益，而错义突变可能产生各种不同的影响。",
+          "es": "El impacto de las mutaciones no siempre es simple; las mutaciones silenciosas no tienen un efecto fenotípico observable, pero no son necesariamente beneficiosas, y las de sentido erróneo pueden tener efectos variados.",
+          "fr": "L'impact des mutations n'est pas toujours simple ; les mutations silencieuses n'ont pas d'effet phénotypique observable, mais ne sont pas nécessairement bénéfiques, et les mutations faux-sens peuvent avoir des effets variés.",
+          "de": "Die Auswirkungen von Mutationen sind nicht immer einfach; stille Mutationen haben keinen beobachtbaren phänotypischen Effekt, sind aber nicht unbedingt vorteilhaft, und Missense-Mutationen können unterschiedliche Auswirkungen haben.",
+          "ja": "変異の影響は常に単純ではありません。サイレント変異は観察可能な表現型効果はありませんが、必ずしも有益であるとは限りません。ミスセンス変異は様々な影響を及ぼす可能性があります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Silent mutations occur in non-coding regions, while missense mutations occur in coding regions.",
+          "zh": "无义突变发生在非编码区，而错义突变发生在编码区。",
+          "es": "Las mutaciones silenciosas ocurren en regiones no codificantes, mientras que las mutaciones de sentido erróneo ocurren en regiones codificantes.",
+          "fr": "Les mutations silencieuses se produisent dans les régions non codantes, tandis que les mutations faux-sens se produisent dans les régions codantes.",
+          "de": "Stille Mutationen treten in nicht-kodierenden Regionen auf, während Missense-Mutationen in kodierenden Regionen auftreten.",
+          "ja": "サイレント変異は非コード領域で発生し、ミスセンス変異はコード領域で発生します。"
+        },
+        "feedback": {
+          "en": "Both silent and missense mutations discussed in the text occur within protein-coding regions of a gene.",
+          "zh": "文本中讨论的无义突变和错义突变都发生在一个基因的蛋白质编码区内。",
+          "es": "Tanto las mutaciones silenciosas como las de sentido erróneo discutidas en el texto ocurren dentro de las regiones codificantes de proteínas de un gen.",
+          "fr": "Les mutations silencieuses et faux-sens discutées dans le texte se produisent toutes deux dans les régions codantes de protéines d'un gène.",
+          "de": "Sowohl stille als auch Missense-Mutationen, die im Text besprochen werden, treten innerhalb der protein-kodierenden Regionen eines Gens auf.",
+          "ja": "本文で議論されているサイレント変異とミスセンス変異は、どちらも遺伝子のタンパク質コード領域内で発生します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Silent mutations are nucleotide-pair substitutions that, due to the redundancy of the genetic code, do not change the amino acid sequence of the protein. Missense mutations, on the other hand, are nucleotide-pair substitutions that change one amino acid to another. While silent mutations typically have no observable phenotypic effect, missense mutations can have varied effects depending on the nature of the amino acid change and its location in the protein.",
+      "zh": "无义突变是核苷酸对替换，由于遗传密码的冗余性，它们不会改变蛋白质的氨基酸序列。另一方面，错义突变是核苷酸对替换，它们将一个氨基酸改变为另一个。虽然无义突变通常没有可观察到的表型效应，但错义突变可能根据氨基酸变化的性质及其在蛋白质中的位置而产生各种不同的影响。",
+      "es": "Las mutaciones silenciosas son sustituciones de pares de nucleótidos que, debido a la redundancia del código genético, no cambian la secuencia de aminoácidos de la proteína. Las mutaciones de sentido erróneo, por otro lado, son sustituciones de pares de nucleótidos que cambian un aminoácido por otro. Mientras que las mutaciones silenciosas típicamente no tienen un efecto fenotípico observable, las mutaciones de sentido erróneo pueden tener efectos variados dependiendo de la naturaleza del cambio de aminoácidos y su ubicación en la proteína.",
+      "fr": "Les mutations silencieuses sont des substitutions de paires de nucléotides qui, en raison de la redondance du code génétique, ne modifient pas la séquence d'acides aminés de la protéine. Les mutations faux-sens, en revanche, sont des substitutions de paires de nucléotides qui changent un acide aminé en un autre. Alors que les mutations silencieuses n'ont généralement aucun effet phénotypique observable, les mutations faux-sens peuvent avoir des effets variés en fonction de la nature du changement d'acide aminé et de son emplacement dans la protéine.",
+      "de": "Stille Mutationen sind Nukleotidpaar-Substitutionen, die aufgrund der Redundanz des genetischen Codes die Aminosäuresequenz des Proteins nicht verändern. Missense-Mutationen hingegen sind Nukleotidpaar-Substitutionen, die eine Aminosäure in eine andere umwandeln. Während stille Mutationen typischerweise keine beobachtbaren phänotypischen Effekte haben, können Missense-Mutationen je nach Art der Aminosäureänderung und ihrer Position im Protein unterschiedliche Auswirkungen haben.",
+      "ja": "サイレント変異は、遺伝暗号の冗長性により、タンパク質のアミノ酸配列を変化させないヌクレオチド対置換です。一方、ミスセンス変異は、あるアミノ酸を別のアミノ酸に変化させるヌクレオチド対置換です。サイレント変異は通常、目に見える表現型効果を示しませんが、ミスセンス変異はアミノ酸変化の性質とそのタンパク質内の位置に応じて、様々な効果をもたらす可能性があります。"
+    }
+  },
+  {
+    "page_number": 406,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 17.26, what is the specific change in the β-globin gene's template strand DNA and the resulting amino acid alteration that leads to sickle-cell disease?",
+      "zh": "根据图17.26，导致镰状细胞病的β-珠蛋白基因模板链DNA的具体变化和由此产生的氨基酸改变是什么？",
+      "es": "Según la Figura 17.26, ¿cuál es el cambio específico en la cadena molde de ADN del gen de la β-globina y la alteración de aminoácidos resultante que conduce a la enfermedad de células falciformes?",
+      "fr": "Selon la Figure 17.26, quel est le changement spécifique dans le brin matriciel de l'ADN du gène de la β-globine et l'altération d'acide aminé résultante qui conduit à la drépanocytose ?",
+      "de": "Gemäß Abbildung 17.26, welche spezifische Änderung tritt im Template-Strang der DNA des β-Globin-Gens auf und welche resultierende Aminosäureveränderung führt zur Sichelzellenanämie?",
+      "ja": "図17.26によると、鎌状赤血球症を引き起こすβ-グロビン遺伝子の鋳型鎖DNAにおける具体的な変化と、その結果として生じるアミノ酸の変化は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A change from CTC to GAG on the template strand, leading to Valine (Val) instead of Glutamic acid (Glu).",
+          "zh": "模板链从CTC变为GAG，导致缬氨酸（Val）取代谷氨酸（Glu）。",
+          "es": "Un cambio de CTC a GAG en la cadena molde, lo que lleva a Valina (Val) en lugar de Ácido glutámico (Glu).",
+          "fr": "Un changement de CTC à GAG sur le brin matrice, conduisant à la valine (Val) au lieu de l'acide glutamique (Glu).",
+          "de": "Eine Änderung von CTC zu GAG auf dem Template-Strang, was zu Valin (Val) anstelle von Glutaminsäure (Glu) führt.",
+          "ja": "鋳型鎖のCTCからGAGへの変化により、グルタミン酸（Glu）の代わりにバリン（Val）が生じる。"
+        },
+        "feedback": {
+          "en": "The template strand change is from CTC to CAC, and GAG is an mRNA codon, not a template strand sequence.",
+          "zh": "模板链的变化是从CTC到CAC，GAG是mRNA密码子，而不是模板链序列。",
+          "es": "El cambio en la cadena molde es de CTC a CAC, y GAG es un codón de ARNm, no una secuencia de cadena molde.",
+          "fr": "Le changement sur le brin matriciel est de CTC à CAC, et GAG est un codon d'ARNm, pas une séquence de brin matriciel.",
+          "de": "Die Änderung auf dem Template-Strang ist von CTC zu CAC, und GAG ist ein mRNA-Codon, keine Template-Strang-Sequenz.",
+          "ja": "鋳型鎖の変化はCTCからCACであり、GAGはmRNAコドンであって鋳型鎖配列ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A change from GAG to GUG on the template strand, leading to Glutamic acid (Glu) instead of Valine (Val).",
+          "zh": "模板链从GAG变为GUG，导致谷氨酸（Glu）取代缬氨酸（Val）。",
+          "es": "Un cambio de GAG a GUG en la cadena molde, lo que lleva a Ácido glutámico (Glu) en lugar de Valina (Val).",
+          "fr": "Un changement de GAG à GUG sur le brin matrice, conduisant à l'acide glutamique (Glu) au lieu de la valine (Val).",
+          "de": "Eine Änderung von GAG zu GUG auf dem Template-Strang, was zu Glutaminsäure (Glu) anstelle von Valin (Val) führt.",
+          "ja": "鋳型鎖のGAGからGUGへの変化により、バリン（Val）の代わりにグルタミン酸（Glu）が生じる。"
+        },
+        "feedback": {
+          "en": "GAG and GUG are mRNA codons, not template strand DNA. Also, the amino acid change is Glu to Val, not vice versa.",
+          "zh": "GAG和GUG是mRNA密码子，而不是模板链DNA。此外，氨基酸的变化是Glu变为Val，而不是反过来。",
+          "es": "GAG y GUG son codones de ARNm, no ADN de la cadena molde. Además, el cambio de aminoácidos es de Glu a Val, no al revés.",
+          "fr": "GAG et GUG sont des codons d'ARNm, pas de l'ADN du brin matriciel. De plus, le changement d'acide aminé est de Glu à Val, et non l'inverse.",
+          "de": "GAG und GUG sind mRNA-Codons, nicht Template-Strang-DNA. Außerdem ist die Aminosäureänderung von Glu zu Val, nicht umgekehrt.",
+          "ja": "GAGとGUGはmRNAコドンであり、鋳型鎖DNAではありません。また、アミノ酸の変化はGluからValであり、逆ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A change from CTC to CAC on the template strand, leading to Valine (Val) instead of Glutamic acid (Glu).",
+          "zh": "模板链从CTC变为CAC，导致缬氨酸（Val）取代谷氨酸（Glu）。",
+          "es": "Un cambio de CTC a CAC en la cadena molde, lo que lleva a Valina (Val) en lugar de Ácido glutámico (Glu).",
+          "fr": "Un changement de CTC à CAC sur le brin matrice, conduisant à la valine (Val) au lieu de l'acide glutamique (Glu).",
+          "de": "Eine Änderung von CTC zu CAC auf dem Template-Strang, was zu Valin (Val) anstelle von Glutaminsäure (Glu) führt.",
+          "ja": "鋳型鎖のCTCからCACへの変化により、グルタミン酸（Glu）の代わりにバリン（Val）が生じる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A change from CAC to CTC on the template strand, leading to Glutamic acid (Glu) instead of Valine (Val).",
+          "zh": "模板链从CAC变为CTC，导致谷氨酸（Glu）取代缬氨酸（Val）。",
+          "es": "Un cambio de CAC a CTC en la cadena molde, lo que lleva a Ácido glutámico (Glu) en lugar de Valina (Val).",
+          "fr": "Un changement de CAC à CTC sur le brin matrice, conduisant à l'acide glutamique (Glu) au lieu de la valine (Val).",
+          "de": "Eine Änderung von CAC zu CTC auf dem Template-Strang, was zu Glutaminsäure (Glu) anstelle von Valin (Val) führt.",
+          "ja": "鋳型鎖のCACからCTCへの変化により、バリン（Val）の代わりにグルタミン酸（Glu）が生じる。"
+        },
+        "feedback": {
+          "en": "The change is from CTC to CAC on the template strand, not the other way around, and it results in Valine replacing Glutamic acid.",
+          "zh": "模板链的变化是从CTC到CAC，而不是反过来，它导致缬氨酸取代谷氨酸。",
+          "es": "El cambio es de CTC a CAC en la cadena molde, no al revés, y resulta en la sustitución de Glutamic acid por Valina.",
+          "fr": "Le changement est de CTC à CAC sur le brin matrice, et non l'inverse, et il en résulte le remplacement de l'acide glutamique par la valine.",
+          "de": "Die Änderung erfolgt von CTC zu CAC auf dem Template-Strang, nicht umgekehrt, und führt dazu, dass Valin Glutaminsäure ersetzt.",
+          "ja": "変化は鋳型鎖のCTCからCACであり、逆ではありません。そして、グルタミン酸がバリンに置き換わります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 17.26 clearly illustrates that in sickle-cell disease, the wild-type β-globin DNA template strand's CTC sequence is changed to CAC. This single nucleotide-pair substitution results in the mRNA codon changing from GAG to GUG. Consequently, the amino acid Glutamic acid (Glu) is replaced by Valine (Val), leading to the altered hemoglobin structure characteristic of sickle-cell disease.",
+      "zh": "图17.26清楚地表明，在镰状细胞病中，野生型β-珠蛋白DNA模板链的CTC序列变为CAC。这种单核苷酸对替换导致mRNA密码子从GAG变为GUG。结果，谷氨酸（Glu）被缬氨酸（Val）取代，从而导致了镰状细胞病的特征性血红蛋白结构改变。",
+      "es": "La Figura 17.26 ilustra claramente que en la enfermedad de células falciformes, la secuencia CTC de la cadena molde de ADN de la β-globina de tipo salvaje cambia a CAC. Esta sustitución de un solo par de nucleótidos da como resultado que el codón de ARNm cambie de GAG a GUG. En consecuencia, el aminoácido Ácido glutámico (Glu) es reemplazado por Valina (Val), lo que lleva a la estructura de hemoglobina alterada característica de la enfermedad de células falciformes.",
+      "fr": "La Figure 17.26 illustre clairement que dans la drépanocytose, la séquence CTC du brin matriciel de l'ADN de la β-globine de type sauvage est modifiée en CAC. Cette substitution d'une seule paire de nucléotides entraîne un changement du codon d'ARNm de GAG à GUG. En conséquence, l'acide aminé acide glutamique (Glu) est remplacé par la valine (Val), ce qui conduit à la structure d'hémoglobine altérée caractéristique de la drépanocytose.",
+      "de": "Abbildung 17.26 zeigt deutlich, dass bei der Sichelzellenanämie die CTC-Sequenz des Wildtyp-β-Globin-DNA-Template-Strangs zu CAC verändert wird. Diese einzelne Nukleotidpaar-Substitution führt dazu, dass sich das mRNA-Codon von GAG zu GUG ändert. Infolgedessen wird die Aminosäure Glutaminsäure (Glu) durch Valin (Val) ersetzt, was zur veränderten Hämoglobin-Struktur führt, die für die Sichelzellenanämie charakteristisch ist.",
+      "ja": "図17.26は、鎌状赤血球症において、野生型β-グロビン遺伝子DNA鋳型鎖のCTC配列がCACに変化することを示しています。この単一ヌクレオチド対置換により、mRNAコドンがGAGからGUGに変化します。結果として、アミノ酸のグルタミン酸（Glu）がバリン（Val）に置き換わり、鎌状赤血球症に特徴的なヘモグロビン構造の変化を引き起こします。"
+    }
+  },
+  {
+    "page_number": 406,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Small-scale mutations within a gene are divided into two general categories. What are these categories, and which type is exemplified by the cause of sickle-cell disease?",
+      "zh": "基因内部的小规模突变分为两大类。这些类别是什么？导致镰状细胞病的突变属于哪一类？",
+      "es": "Las mutaciones a pequeña escala dentro de un gen se dividen en dos categorías generales. ¿Cuáles son estas categorías y qué tipo es el ejemplo de la causa de la enfermedad de células falciformes?",
+      "fr": "Les mutations à petite échelle au sein d'un gène sont divisées en deux catégories générales. Quelles sont ces catégories, et quel type est exemplifié par la cause de la drépanocytose ?",
+      "de": "Kleinräumige Mutationen innerhalb eines Gens werden in zwei allgemeine Kategorien unterteilt. Welche Kategorien sind das, und welcher Typ ist beispielhaft für die Ursache der Sichelzellenkrankheit?",
+      "ja": "遺伝子内の小規模な変異は、大きく2つのカテゴリーに分けられます。これらのカテゴリーは何ですか、また鎌状赤血球症の原因として例示されるのはどのタイプですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Deletions and insertions; sickle-cell disease is caused by a deletion.",
+          "zh": "缺失和插入；镰状细胞病是由缺失引起的。",
+          "es": "Deleciones e inserciones; la enfermedad de células falciformes es causada por una deleción.",
+          "fr": "Délétions et insertions ; la drépanocytose est causée par une délétion.",
+          "de": "Deletionen und Insertionen; Sichelzellenanämie wird durch eine Deletion verursacht.",
+          "ja": "欠失と挿入；鎌状赤血球症は欠失によって引き起こされる。"
+        },
+        "feedback": {
+          "en": "Deletions and insertions are sub-types of the second general category. Sickle-cell disease is caused by a substitution, not a deletion.",
+          "zh": "缺失和插入是第二大类的子类型。镰状细胞病是由替换引起的，而不是缺失。",
+          "es": "Las deleciones e inserciones son subtipos de la segunda categoría general. La enfermedad de células falciformes es causada por una sustitución, no una deleción.",
+          "fr": "Les délétions et insertions sont des sous-types de la deuxième catégorie générale. La drépanocytose est causée par une substitution, et non par une délétion.",
+          "de": "Deletionen und Insertionen sind Untertypen der zweiten allgemeinen Kategorie. Sichelzellenanämie wird durch eine Substitution verursacht, nicht durch eine Deletion.",
+          "ja": "欠失と挿入は、第二の主要なカテゴリーのサブタイプです。鎌状赤血球症は置換によって引き起こされ、欠失ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Substitutions and translocations; sickle-cell disease is caused by a translocation.",
+          "zh": "替换和易位；镰状细胞病是由易位引起的。",
+          "es": "Sustituciones y translocaciones; la enfermedad de células falciformes es causada por una translocación.",
+          "fr": "Substitutions et translocations ; la drépanocytose est causée par une translocation.",
+          "de": "Substitutionen und Translokationen; Sichelzellenanämie wird durch eine Translokation verursacht.",
+          "ja": "置換と転座；鎌状赤血球症は転座によって引き起こされる。"
+        },
+        "feedback": {
+          "en": "Translocations are large-scale chromosomal rearrangements, not small-scale mutations within a gene. Sickle-cell disease is caused by a substitution.",
+          "zh": "易位是大规模的染色体重排，而不是基因内部的小规模突变。镰状细胞病是由替换引起的。",
+          "es": "Las translocaciones son reordenamientos cromosómicos a gran escala, no mutaciones a pequeña escala dentro de un gen. La enfermedad de células falciformes es causada por una sustitución.",
+          "fr": "Les translocations sont des réarrangements chromosomiques à grande échelle, non des mutations à petite échelle au sein d'un gène. La drépanocytose est causée par une substitution.",
+          "de": "Translokationen sind großräumige Chromosomen-Rearrangements, keine kleinräumigen Mutationen innerhalb eines Gens. Sichelzellenanämie wird durch eine Substitution verursacht.",
+          "ja": "転座は大規模な染色体再配列であり、遺伝子内の小規模な変異ではありません。鎌状赤血球症は置換によって引き起こされます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Substitutions and nucleotide-pair insertions/deletions; sickle-cell disease is caused by a nucleotide-pair substitution.",
+          "zh": "替换和核苷酸对插入/缺失；镰状细胞病是由核苷酸对替换引起的。",
+          "es": "Sustituciones e inserciones/deleciones de pares de nucleótidos; la enfermedad de células falciformes es causada por una sustitución de pares de nucleótidos.",
+          "fr": "Substitutions et insertions/délétions de paires de nucléotides ; la drépanocytose est causée par une substitution de paires de nucléotides.",
+          "de": "Substitutionen und Nukleotidpaar-Insertionen/Deletionen; Sichelzellenanämie wird durch eine Nukleotidpaar-Substitution verursacht.",
+          "ja": "置換とヌクレオチド対挿入/欠失；鎌状赤血球症はヌクレオチド対置換によって引き起こされる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Frameshift mutations and point mutations; sickle-cell disease is caused by a frameshift mutation.",
+          "zh": "移码突变和点突变；镰状细胞病是由移码突变引起的。",
+          "es": "Mutaciones de cambio de marco y mutaciones puntuales; la enfermedad de células falciformes es causada por una mutación de cambio de marco.",
+          "fr": "Mutations par décalage du cadre de lecture et mutations ponctuelles ; la drépanocytose est causée par une mutation par décalage du cadre de lecture.",
+          "de": "Frameshift-Mutationen und Punktmutationen; Sichelzellenanämie wird durch eine Frameshift-Mutation verursacht.",
+          "ja": "フレームシフト変異と点変異；鎌状赤血球症はフレームシフト変異によって引き起こされる。"
+        },
+        "feedback": {
+          "en": "Frameshift mutations are a consequence of insertions or deletions, not a primary category of small-scale mutations. Sickle-cell disease is a point mutation, specifically a substitution, but not a frameshift.",
+          "zh": "移码突变是插入或缺失的后果，而不是小规模突变的主要类别。镰状细胞病是点突变，具体来说是替换，但不是移码突变。",
+          "es": "Las mutaciones de cambio de marco son una consecuencia de inserciones o deleciones, no una categoría principal de mutaciones a pequeña escala. La enfermedad de células falciformes es una mutación puntual, específicamente una sustitución, pero no un cambio de marco.",
+          "fr": "Les mutations par décalage du cadre de lecture sont une conséquence des insertions ou délétions, et non une catégorie principale de mutations à petite échelle. La drépanocytose est une mutation ponctuelle, spécifiquement une substitution, mais pas un décalage du cadre de lecture.",
+          "de": "Frameshift-Mutationen sind eine Folge von Insertionen oder Deletionen, keine primäre Kategorie von Kleinraum-Mutationen. Sichelzellenanämie ist eine Punktmutation, genauer gesagt eine Substitution, aber keine Frameshift-Mutation.",
+          "ja": "フレームシフト変異は挿入または欠失の結果であり、小規模変異の主要なカテゴリーではありません。鎌状赤血球症は点変異であり、具体的には置換ですが、フレームシフトではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that 'Small-scale mutations within a gene can be divided into two general categories: (1) single nucleotide-pair substitutions and (2) nucleotide-pair insertions or deletions.' It further clarifies that sickle-cell disease is caused by 'a mutation of a single nucleotide pair in the gene that encodes hemoglobin,' which is a classic example of a nucleotide-pair substitution, specifically changing a C to an A on the template strand (CTC to CAC). Therefore, the correct categories are substitutions and nucleotide-pair insertions/deletions, with sickle-cell disease being a substitution.",
+      "zh": "文本指出，“基因内部的小规模突变可分为两大类：(1) 单个核苷酸对替换和 (2) 核苷酸对插入或缺失。”它进一步明确指出，镰状细胞病是由“编码血红蛋白的基因中单个核苷酸对的突变”引起的，这是核苷酸对替换的典型例子，具体来说，是在模板链上将C变为A（CTC变为CAC）。因此，正确的类别是替换以及核苷酸对插入/缺失，而镰状细胞病属于替换。",
+      "es": "El texto establece que 'Las mutaciones a pequeña escala dentro de un gen se dividen en dos categorías generales: (1) sustituciones de un solo par de nucleótidos y (2) inserciones o deleciones de pares de nucleótidos'. Además, aclara que la enfermedad de células falciformes es causada por 'una mutación de un solo par de nucleótidos en el gen que codifica la hemoglobina', lo cual es un ejemplo clásico de una sustitución de par de nucleótidos, específicamente cambiando una C por una A en la cadena molde (CTC a CAC). Por lo tanto, las categorías correctas son sustituciones e inserciones/deleciones de pares de nucleótidos, siendo la enfermedad de células falciformes una sustitución.",
+      "fr": "Le texte indique que « les mutations à petite échelle au sein d'un gène peuvent être divisées en deux catégories générales : (1) les substitutions d'une seule paire de nucléotides et (2) les insertions ou délétions de paires de nucléotides ». Il précise en outre que la drépanocytose est causée par « une mutation d'une seule paire de nucléotides dans le gène qui code l'hémoglobine », ce qui est un exemple classique de substitution de paire de nucléotides, changeant spécifiquement un C en A sur le brin matriciel (CTC en CAC). Par conséquent, les catégories correctes sont les substitutions et les insertions/délétions de paires de nucléotides, la drépanocytose étant une substitution.",
+      "de": "Der Text besagt, dass 'kleinräumige Mutationen innerhalb eines Gens in zwei allgemeine Kategorien unterteilt werden können: (1) einzelne Nukleotidpaar-Substitutionen und (2) Nukleotidpaar-Insertionen oder -Deletionen.' Weiterhin wird klargestellt, dass Sichelzellenanämie durch 'eine Mutation eines einzelnen Nukleotidpaares im Gen, das Hämoglobin kodiert,' verursacht wird, was ein klassisches Beispiel für eine Nukleotidpaar-Substitution ist, die spezifisch ein C auf dem Template-Strang in ein A ändert (CTC zu CAC). Daher sind die korrekten Kategorien Substitutionen und Nukleotidpaar-Insertionen/-Deletionen, wobei die Sichelzellenanämie eine Substitution ist.",
+      "ja": "本文には「遺伝子内の小規模変異は、(1)単一ヌクレオチド対置換と(2)ヌクレオチド対挿入または欠失の2つの一般的なカテゴリーに分けられる」と記載されています。さらに、鎌状赤血球症は「ヘモグロビンをコードする遺伝子の単一ヌクレオチド対の変異」によって引き起こされることが明確にされており、これはヌクレオチド対置換の典型的な例であり、特に鋳型鎖のCがAに変化する（CTCからCAC）ことを指します。したがって、正しいカテゴリーは置換とヌクレオチド対挿入/欠失であり、鎌状赤血球症は置換に分類されます。"
+    }
+  }
+]

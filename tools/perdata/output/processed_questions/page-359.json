@@ -1,0 +1,182 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the defining characteristic of genomic imprinting?",
+      "zh": "基因组印记的决定性特征是什么？",
+      "es": "¿Cuál es la característica definitoria de la impronta genómica?",
+      "fr": "Quelle est la caractéristique déterminante de l'empreinte génomique ?",
+      "de": "Was ist das entscheidende Merkmal der genomischen Prägung?",
+      "ja": "ゲノムインプリンティングの決定的な特徴は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It only affects genes located on sex chromosomes.",
+          "zh": "它只影响位于性染色体上的基因。",
+          "es": "Solo afecta a los genes ubicados en los cromosomas sexuales.",
+          "fr": "Elle n'affecte que les gènes situés sur les chromosomes sexuels.",
+          "de": "Es betrifft nur Gene, die sich auf Geschlechtschromosomen befinden.",
+          "ja": "性染色体上にある遺伝子にのみ影響します。"
+        },
+        "feedback": {
+          "en": "The text explicitly notes that unlike sex-linked genes, most imprinted genes are on autosomes.",
+          "zh": "文本明确指出，与伴性基因不同，大多数印记基因位于常染色体上。",
+          "es": "El texto señala explícitamente que, a diferencia de los genes ligados al sexo, la mayoría de los genes impresos se encuentran en los autosomas.",
+          "fr": "Le texte note explicitement que, contrairement aux gènes liés au sexe, la plupart des gènes soumis à empreinte se trouvent sur des autosomes.",
+          "de": "Der Text stellt ausdrücklich fest, dass im Gegensatz zu geschlechtsgebundenen Genen die meisten geprägten Gene auf Autosomen liegen.",
+          "ja": "本文では、性連鎖遺伝子とは異なり、ほとんどのインプリント遺伝子は常染色体上にあると明記されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The expression of an allele depends on whether it is inherited from the male or female parent.",
+          "zh": "一个等位基因的表达取决于它是从父方还是母方遗传的。",
+          "es": "La expresión de un alelo depende de si se hereda del padre o de la madre.",
+          "fr": "L'expression d'un allèle dépend de son héritage du parent mâle ou femelle.",
+          "de": "Die Expression eines Allels hängt davon ab, ob es vom männlichen oder weiblichen Elternteil vererbt wird.",
+          "ja": "対立遺伝子の発現は、それが男性の親から受け継がれたか女性の親から受け継がれたかによって決まります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It involves the physical loss of a gene from one parent's chromosome.",
+          "zh": "它涉及从一个亲本的染色体上物理性地丢失一个基因。",
+          "es": "Implica la pérdida física de un gen del cromosoma de uno de los padres.",
+          "fr": "Cela implique la perte physique d'un gène du chromosome d'un des parents.",
+          "de": "Es beinhaltet den physischen Verlust eines Gens vom Chromosom eines Elternteils.",
+          "ja": "それは、一方の親の染色体から遺伝子が物理的に失われることを含みます。"
+        },
+        "feedback": {
+          "en": "Genomic imprinting involves the silencing of an allele (usually by methylation), not its deletion.",
+          "zh": "基因组印记涉及一个等位基因的沉默（通常通过甲基化），而不是它的缺失。",
+          "es": "La impronta genómica implica el silenciamiento de un alelo (generalmente por metilación), no su deleción.",
+          "fr": "L'empreinte génomique implique le silençage d'un allèle (généralement par méthylation), et non sa délétion.",
+          "de": "Genomische Prägung beinhaltet die Stilllegung eines Allels (normalerweise durch Methylierung), nicht dessen Deletion.",
+          "ja": "ゲノムインプリンティングは、対立遺伝子の欠失ではなく、サイレンシング（通常はメチル化による）を伴います。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It causes heterozygotes to have a phenotype intermediate between the two homozygotes.",
+          "zh": "它导致杂合子的表型介于两种纯合子之间。",
+          "es": "Hace que los heterocigotos tengan un fenotipo intermedio entre los dos homocigotos.",
+          "fr": "Il fait en sorte que les hétérozygotes aient un phénotype intermédiaire entre les deux homozygotes.",
+          "de": "Es bewirkt, dass Heterozygote einen Phänotyp haben, der zwischen den beiden Homozygoten liegt.",
+          "ja": "それは、ヘテロ接合体が2つのホモ接合体の中間の表現型を持つ原因となります。"
+        },
+        "feedback": {
+          "en": "This describes incomplete dominance. In genomic imprinting, the heterozygote's phenotype depends entirely on which parent contributed the active allele.",
+          "zh": "这描述的是不完全显性。在基因组印记中，杂合子的表型完全取决于哪个亲本贡献了活性等位基因。",
+          "es": "Esto describe la dominancia incompleta. En la impronta genómica, el fenotipo del heterocigoto depende completamente de qué padre contribuyó con el alelo activo.",
+          "fr": "Ceci décrit la dominance incomplète. Dans l'empreinte génomique, le phénotype de l'hétérozygote dépend entièrement du parent qui a contribué à l'allèle actif.",
+          "de": "Dies beschreibt eine unvollständige Dominanz. Bei der genomischen Prägung hängt der Phänotyp des Heterozygoten vollständig davon ab, welcher Elternteil das aktive Allel beigesteuert hat.",
+          "ja": "これは不完全優性を説明しています。ゲノムインプリンティングでは、ヘテロ接合体の表現型は、どちらの親が活性な対立遺伝子を提供したかに完全に依存します。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text defines genomic imprinting as a 'variation in phenotype depending on whether an allele is inherited from the male or female parent.' This is a non-Mendelian pattern because it violates the assumption that the parental origin of an allele does not affect its expression.",
+      "zh": "文本将基因组印记定义为“表型的变异取决于一个等位基因是从雄性还是雌性亲本遗传的”。这是一种非孟德尔模式，因为它违反了等位基因的亲本来源不影响其表达的假设。",
+      "es": "El texto define la impronta genómica como una 'variación en el fenotipo que depende de si un alelo se hereda del padre o de la madre'. Este es un patrón no mendeliano porque viola la suposición de que el origen parental de un alelo no afecta su expresión.",
+      "fr": "Le texte définit l'empreinte génomique comme une « variation du phénotype selon qu'un allèle est hérité du parent mâle ou femelle ». Il s'agit d'un schéma non mendélien car il viole l'hypothèse selon laquelle l'origine parentale d'un allèle n'affecte pas son expression.",
+      "de": "Der Text definiert die genomische Prägung als eine „Variation des Phänotyps, die davon abhängt, ob ein Allel vom männlichen oder weiblichen Elternteil vererbt wird.“ Dies ist ein nicht-Mendelsches Muster, da es die Annahme verletzt, dass der elterliche Ursprung eines Allels seine Expression nicht beeinflusst.",
+      "ja": "本文では、ゲノムインプリンティングを「対立遺伝子が男性の親から受け継がれたか女性の親から受け継がれたかによって表現型が変化すること」と定義しています。これは、対立遺伝子の親の由来がその発現に影響を与えないという仮定に違反するため、非メンデルのパターンです。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "In the case of the mouse Igf2 gene, a heterozygote mouse inherits a normal allele from its mother and a mutant (dwarf) allele from its father. What will be the phenotype of this mouse?",
+      "zh": "以小鼠 Igf2 基因为例，一只杂合子小鼠从其母亲那里遗传了一个正常等位基因，从其父亲那里遗传了一个突变（矮小）等位基因。这只小鼠的表型会是什么？",
+      "es": "En el caso del gen Igf2 del ratón, un ratón heterocigoto hereda un alelo normal de su madre y un alelo mutante (enano) de su padre. ¿Cuál será el fenotipo de este ratón?",
+      "fr": "Dans le cas du gène Igf2 de la souris, une souris hétérozygote hérite d'un allèle normal de sa mère et d'un allèle mutant (nain) de son père. Quel sera le phénotype de cette souris ?",
+      "de": "Im Fall des Maus-Igf2-Gens erbt eine heterozygote Maus ein normales Allel von ihrer Mutter und ein mutiertes (Zwerg-)Allel von ihrem Vater. Was wird der Phänotyp dieser Maus sein?",
+      "ja": "マウスのIgf2遺伝子の場合、ヘテロ接合のマウスは母親から正常な対立遺伝子を、父親から突然変異（矮性）対立遺伝子を受け継ぎます。このマウスの表現型はどうなりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Normal-sized",
+          "zh": "正常大小",
+          "es": "De tamaño normal",
+          "fr": "De taille normale",
+          "de": "Normal groß",
+          "ja": "通常のサイズ"
+        },
+        "feedback": {
+          "en": "This would be the case if the mutant allele came from the mother and the normal allele from the father. The paternal allele is the one that is expressed.",
+          "zh": "如果突变等位基因来自母亲，而正常等位基因来自父亲，情况会是这样。表达的是父源等位基因。",
+          "es": "Este sería el caso si el alelo mutante proviniera de la madre y el alelo normal del padre. El alelo paterno es el que se expresa.",
+          "fr": "Ce serait le cas si l'allèle mutant venait de la mère et l'allèle normal du père. L'allèle paternel est celui qui est exprimé.",
+          "de": "Dies wäre der Fall, wenn das mutierte Allel von der Mutter und das normale Allel vom Vater käme. Das väterliche Allel ist dasjenige, das exprimiert wird.",
+          "ja": "これは、突然変異対立遺伝子が母親から、正常な対立遺伝子が父親から来た場合に当てはまります。発現するのは父方の対立遺伝子です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Dwarf",
+          "zh": "矮小",
+          "es": "Enano",
+          "fr": "Nain",
+          "de": "Zwerg",
+          "ja": "矮性"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Intermediate-sized",
+          "zh": "中等大小",
+          "es": "De tamaño intermedio",
+          "fr": "De taille intermédiaire",
+          "de": "Mittelgroß",
+          "ja": "中間のサイズ"
+        },
+        "feedback": {
+          "en": "Genomic imprinting results in the silencing of one allele, not a blending of phenotypes like in incomplete dominance.",
+          "zh": "基因组印记导致一个等位基因的沉默，而不是像不完全显性那样表型混合。",
+          "es": "La impronta genómica da como resultado el silenciamiento de un alelo, no una mezcla de fenotipos como en la dominancia incompleta.",
+          "fr": "L'empreinte génomique entraîne le silençage d'un allèle, et non un mélange de phénotypes comme dans la dominance incomplète.",
+          "de": "Genomische Prägung führt zur Stilllegung eines Allels, nicht zu einer Vermischung von Phänotypen wie bei unvollständiger Dominanz.",
+          "ja": "ゲノムインプリンティングは、不完全優性のように表現型が混ざるのではなく、一方の対立遺伝子のサイレンシングをもたらします。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The phenotype cannot be determined.",
+          "zh": "无法确定表型。",
+          "es": "El fenotipo no se puede determinar.",
+          "fr": "Le phénotype ne peut pas être déterminé.",
+          "de": "Der Phänotyp kann nicht bestimmt werden.",
+          "ja": "表現型は決定できません。"
+        },
+        "feedback": {
+          "en": "The rules of genomic imprinting for the Igf2 gene allow for a precise prediction of the phenotype.",
+          "zh": "Igf2 基因的基因组印记规则允许对表型进行精确预测。",
+          "es": "Las reglas de la impronta genómica para el gen Igf2 permiten una predicción precisa del fenotipo.",
+          "fr": "Les règles de l'empreinte génomique pour le gène Igf2 permettent une prédiction précise du phénotype.",
+          "de": "Die Regeln der genomischen Prägung für das Igf2-Gen ermöglichen eine genaue Vorhersage des Phänotyps.",
+          "ja": "Igf2遺伝子のゲノムインプリンティングのルールにより、表現型を正確に予測できます。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "According to Figure 15.17, only the paternal allele of the Igf2 gene is expressed, while the maternal allele is silenced. In this case, the mouse inherited the mutant (dwarf) allele from its father. Therefore, only the mutant allele will be expressed, resulting in a dwarf mouse.",
+      "zh": "根据图 15.17，只有父源的 Igf2 等位基因被表达，而母源的等位基因被沉默。在这种情况下，小鼠从其父亲那里遗传了突变（矮小）等位基因。因此，只有突变等位基因会被表达，导致小鼠表型为矮小。",
+      "es": "Según la Figura 15.17, solo se expresa el alelo paterno del gen Igf2, mientras que el alelo materno se silencia. En este caso, el ratón heredó el alelo mutante (enano) de su padre. Por lo tanto, solo se expresará el alelo mutante, lo que dará como resultado un ratón enano.",
+      "fr": "Selon la figure 15.17, seul l'allèle paternel du gène Igf2 est exprimé, tandis que l'allèle maternel est réduit au silence. Dans ce cas, la souris a hérité de l'allèle mutant (nain) de son père. Par conséquent, seul l'allèle mutant sera exprimé, ce qui donnera une souris naine.",
+      "de": "Nach Abbildung 15.17 wird nur das väterliche Allel des Igf2-Gens exprimiert, während das mütterliche Allel stillgelegt wird. In diesem Fall hat die Maus das mutierte (Zwerg-)Allel von ihrem Vater geerbt. Daher wird nur das mutierte Allel exprimiert, was zu einer Zwergmaus führt.",
+      "ja": "図15.17によると、Igf2遺伝子の父方の対立遺伝子のみが発現し、母方の対立遺伝子はサイレンシングされます。この場合、マウスは父親から突然変異（矮性）対立遺伝子を受け継ぎました。したがって、突然変異対立遺伝子のみが発現し、結果として矮性のマウスになります。"
+    }
+  }
+]

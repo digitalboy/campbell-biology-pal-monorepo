@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 993,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Mary Ellen Avery's experiment and findings presented in Figure 42.25, what is the primary cause of Respiratory Distress Syndrome (RDS) in preterm infants?",
+      "zh": "根据玛丽·艾伦·艾弗里的实验和图 42.25 中呈现的发现，早产儿呼吸窘迫综合征 (RDS) 的主要原因是什么？",
+      "es": "Según el experimento y los hallazgos de Mary Ellen Avery presentados en la Figura 42.25, ¿cuál es la causa principal del Síndrome de Dificultad Respiratoria (SDR) en bebés prematuros?",
+      "fr": "D'après l'expérience et les résultats de Mary Ellen Avery présentés dans la Figure 42.25, quelle est la cause principale du syndrome de détresse respiratoire (SDR) chez les nourrissons prématurés ?",
+      "de": "Basierend auf Mary Ellen Averys Experiment und den in Abbildung 42.25 dargestellten Ergebnissen, was ist die Hauptursache des Atemnotsyndroms (RDS) bei Frühgeborenen?",
+      "ja": "マリー・エレン・エイブリーの実験と図 42.25 に示された知見に基づくと、未熟児における呼吸窮迫症候群（RDS）の主な原因は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A viral infection causing lung inflammation and fluid buildup.",
+          "zh": "导致肺部炎症和液体积聚的病毒感染。",
+          "es": "Una infección viral que causa inflamación pulmonar y acumulación de líquido.",
+          "fr": "Une infection virale provoquant une inflammation pulmonaire et une accumulation de liquide.",
+          "de": "Eine Virusinfektion, die Lungenentzündung und Flüssigkeitsansammlung verursacht.",
+          "ja": "肺の炎症と体液貯留を引き起こすウイルス感染。"
+        },
+        "feedback": {
+          "en": "The text specifies the cause is related to surface tension, not a viral infection.",
+          "zh": "文本明确指出病因与表面张力有关，而非病毒感染。",
+          "es": "El texto especifica que la causa está relacionada con la tensión superficial, no con una infección viral.",
+          "fr": "Le texte précise que la cause est liée à la tension superficielle, et non à une infection virale.",
+          "de": "Der Text besagt, dass die Ursache mit der Oberflächenspannung zusammenhängt, nicht mit einer Virusinfektion.",
+          "ja": "本文では、原因はウイルス感染ではなく、表面張力に関連していると明記されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The lack of a surface-tension-reducing substance (surfactant) in the alveoli, leading to higher surface tension.",
+          "zh": "肺泡中缺乏降低表面张力的物质（表面活性物质），导致表面张力增高。",
+          "es": "La falta de una sustancia reductora de la tensión superficial (surfactante) en los alvéolos, lo que lleva a una mayor tensión superficial.",
+          "fr": "Le manque d'une substance réduisant la tension superficielle (surfactant) dans les alvéoles, entraînant une tension superficielle plus élevée.",
+          "de": "Der Mangel an einer oberflächenspannungsreduzierenden Substanz (Surfactant) in den Alveolen, der zu einer höheren Oberflächenspannung führt.",
+          "ja": "肺胞内の表面張力を低下させる物質（界面活性剤）の不足により、表面張力が高くなること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Premature lung development causing an inability to inhale sufficient air.",
+          "zh": "肺部过早发育导致无法吸入足够空气。",
+          "es": "El desarrollo pulmonar prematuro que causa una incapacidad para inhalar suficiente aire.",
+          "fr": "Un développement pulmonaire prématuré entraînant une incapacité à inhaler suffisamment d'air.",
+          "de": "Vorzeitige Lungenentwicklung, die zu einer Unfähigkeit führt, ausreichend Luft einzuatmen.",
+          "ja": "肺の過早発達により、十分な空気を吸い込む能力が失われること。"
+        },
+        "feedback": {
+          "en": "While related to prematurity, the specific mechanism identified is the lack of surfactant and resulting high surface tension, not just general inability to inhale.",
+          "zh": "虽与早产有关，但确定的具体机制是表面活性物质的缺乏和由此导致的高表面张力，而非仅仅是无法吸入空气。",
+          "es": "Aunque relacionado con la prematuridad, el mecanismo específico identificado es la falta de surfactante y la alta tensión superficial resultante, no solo la incapacidad general para inhalar.",
+          "fr": "Bien que lié à la prématurité, le mécanisme spécifique identifié est le manque de surfactant et la tension superficielle élevée qui en résulte, et non une incapacité générale à inhaler.",
+          "de": "Obwohl mit Frühgeburtlichkeit verbunden, ist der spezifische Mechanismus der Mangel an Surfactant und die daraus resultierende hohe Oberflächenspannung, nicht nur eine allgemeine Unfähigkeit, ausreichend Luft einzuatmen.",
+          "ja": "未熟児であることと関連はありますが、特定されたメカニズムは、単に空気を吸い込めないことではなく、界面活性剤の欠乏とその結果としての高い表面張力です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "An excess amount of surfactant leading to lung collapse.",
+          "zh": "过量的表面活性物质导致肺部塌陷。",
+          "es": "Una cantidad excesiva de surfactante que provoca el colapso pulmonar.",
+          "fr": "Un excès de surfactant entraînant un collapsus pulmonaire.",
+          "de": "Eine übermäßige Menge an Surfactant, die zum Lungenkollaps führt.",
+          "ja": "過剰な界面活性剤が肺虚脱を引き起こすこと。"
+        },
+        "feedback": {
+          "en": "The text clearly states that RDS is due to a *lack* of surfactant, not an excess.",
+          "zh": "文本明确指出 RDS 是由于表面活性物质的*缺乏*而非过量引起的。",
+          "es": "El texto establece claramente que el SDR se debe a la *falta* de surfactante, no a un exceso.",
+          "fr": "Le texte indique clairement que le SDR est dû à un *manque* de surfactant, et non à un excès.",
+          "de": "Der Text besagt eindeutig, dass RDS auf einen *Mangel* an Surfactant zurückzuführen ist, nicht auf einen Überschuss.",
+          "ja": "本文には、RDSは界面活性剤の*不足*が原因であり、過剰ではないと明記されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Mary Ellen Avery's experiment concluded that RDS in infants is caused by the lack of a substance (later identified as surfactant) that reduces surface tension in the alveoli. The graph supports this by showing higher surface tension in infants who died of RDS, especially those with larger body mass who should have developed surfactant.",
+      "zh": "玛丽·艾伦·艾弗里的实验得出结论，婴儿 RDS 是由于肺泡中缺乏降低表面张力的物质（后来被确定为表面活性物质）所致。图表通过显示死于 RDS 的婴儿（特别是那些体重较大、本应已产生表面活性物质的婴儿）具有更高的表面张力来支持这一观点。",
+      "es": "El experimento de Mary Ellen Avery concluyó que el SDR en bebés es causado por la falta de una sustancia (luego identificada como surfactante) que reduce la tensión superficial en los alvéolos. El gráfico apoya esto al mostrar una mayor tensión superficial en los bebés que murieron de SDR, especialmente aquellos con mayor masa corporal que deberían haber desarrollado surfactante.",
+      "fr": "L'expérience de Mary Ellen Avery a conclu que le SDR chez les nourrissons est causé par le manque d'une substance (identifiée plus tard comme le surfactant) qui réduit la tension superficielle dans les alvéoles. Le graphique le confirme en montrant une tension superficielle plus élevée chez les nourrissons décédés du SDR, en particulier ceux ayant une masse corporelle plus importante qui auraient dû développer du surfactant.",
+      "de": "Mary Ellen Averys Experiment kam zu dem Schluss, dass RDS bei Säuglingen durch den Mangel einer Substanz (später als Surfactant identifiziert) verursacht wird, die die Oberflächenspannung in den Alveolen reduziert. Die Grafik unterstützt dies, indem sie eine höhere Oberflächenspannung bei Säuglingen zeigt, die an RDS starben, insbesondere bei denen mit größerer Körpermasse, die Surfactant hätten entwickeln sollen.",
+      "ja": "マリー・エレン・エイブリーの実験は、乳児のRDSが肺胞の表面張力を低下させる物質（後に界面活性剤と特定される）の欠乏によって引き起こされると結論付けました。グラフは、RDSで死亡した乳児、特に界面活性剤が発達しているはずのより大きな体質量の乳児において、より高い表面張力が示されていることで、この結論を裏付けています。"
+    }
+  },
+  {
+    "page_number": 993,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes a difference in breathing mechanisms among the animals discussed in the text?",
+      "zh": "以下哪项陈述准确描述了文本中讨论的动物呼吸机制的差异？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión una diferencia en los mecanismos de respiración entre los animales discutidos en el texto?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision une différence dans les mécanismes respiratoires parmi les animaux abordés dans le texte ?",
+      "de": "Welche der folgenden Aussagen beschreibt zutreffend einen Unterschied in den Atemmechanismen der im Text besprochenen Tiere?",
+      "ja": "本文で議論されている動物の呼吸メカニズムの相違を正確に説明しているのは、次の記述のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Mammals, like amphibians, primarily use positive pressure breathing to inflate their lungs.",
+          "zh": "哺乳动物与两栖动物一样，主要利用正压呼吸来充气肺部。",
+          "es": "Los mamíferos, al igual que los anfibios, utilizan principalmente la respiración de presión positiva para inflar sus pulmones.",
+          "fr": "Les mammifères, comme les amphibiens, utilisent principalement la respiration à pression positive pour gonfler leurs poumons.",
+          "de": "Säugetiere nutzen, wie Amphibien, hauptsächlich die Positive-Druck-Atmung, um ihre Lungen aufzublasen.",
+          "ja": "哺乳類は両生類と同様に、主に陽圧呼吸を用いて肺を膨らませます。"
+        },
+        "feedback": {
+          "en": "Mammals use negative pressure breathing, while amphibians use positive pressure breathing.",
+          "zh": "哺乳动物使用负压呼吸，而两栖动物使用正压呼吸。",
+          "es": "Los mamíferos utilizan la respiración de presión negativa, mientras que los anfibios utilizan la respiración de presión positiva.",
+          "fr": "Les mammifères utilisent la respiration à pression négative, tandis que les amphibiens utilisent la respiration à pression positive.",
+          "de": "Säugetiere nutzen die Unterdruckatmung, während Amphibien die Überdruckatmung nutzen.",
+          "ja": "哺乳類は陰圧呼吸を使用しますが、両生類は陽圧呼吸を使用します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Birds exhibit a highly efficient breathing system with unidirectional airflow through their lungs, unlike amphibians and mammals.",
+          "zh": "鸟类展现出高效的呼吸系统，其肺部气流是单向的，这与两栖动物和哺乳动物不同。",
+          "es": "Las aves exhiben un sistema respiratorio altamente eficiente con flujo de aire unidireccional a través de sus pulmones, a diferencia de los anfibios y mamíferos.",
+          "fr": "Les oiseaux présentent un système respiratoire très efficace avec un flux d'air unidirectionnel à travers leurs poumons, contrairement aux amphibiens et aux mammifères.",
+          "de": "Vögel zeigen ein hocheffizientes Atemsystem mit unidirektionalem Luftstrom durch ihre Lungen, anders als Amphibien und Säugetiere.",
+          "ja": "鳥類は、両生類や哺乳類とは異なり、肺を通して空気が一方向に流れる非常に効率的な呼吸システムを示します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Amphibian breathing relies solely on skin gas exchange, with lungs playing a minor role.",
+          "zh": "两栖动物的呼吸完全依赖皮肤气体交换，肺部作用很小。",
+          "es": "La respiración de los anfibios se basa únicamente en el intercambio gaseoso cutáneo, con los pulmones desempeñando un papel menor.",
+          "fr": "La respiration des amphibiens repose uniquement sur les échanges gazeux cutanés, les poumons jouant un rôle mineur.",
+          "de": "Die Atmung von Amphibien beruht ausschließlich auf dem Gasaustausch über die Haut, wobei die Lunge nur eine untergeordnete Rolle spielt.",
+          "ja": "両生類の呼吸は皮膚のガス交換のみに依存し、肺の役割は小さい。"
+        },
+        "feedback": {
+          "en": "The text describes lung ventilation in amphibians using positive pressure breathing, indicating lungs play a significant role.",
+          "zh": "文本描述了两栖动物利用正压呼吸进行肺通气，表明肺部发挥着重要作用。",
+          "es": "El texto describe la ventilación pulmonar en anfibios utilizando la respiración de presión positiva, lo que indica que los pulmones desempeñan un papel significativo.",
+          "fr": "Le texte décrit la ventilation pulmonaire chez les amphibiens utilisant la respiration à pression positive, ce qui indique que les poumons jouent un rôle significatif.",
+          "de": "Der Text beschreibt die Lungenbelüftung bei Amphibien mittels Positive-Druck-Atmung, was darauf hindeutet, dass die Lungen eine wichtige Rolle spielen.",
+          "ja": "本文では、両生類が陽圧呼吸を用いて肺換気を行うと説明されており、肺が重要な役割を果たすことを示しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All terrestrial vertebrates mentioned use a diaphragm to facilitate breathing.",
+          "zh": "所有提及的陆生脊椎动物都使用横膈膜辅助呼吸。",
+          "es": "Todos los vertebrados terrestres mencionados utilizan un diafragma para facilitar la respiración.",
+          "fr": "Tous les vertébrés terrestres mentionnés utilisent un diaphragme pour faciliter la respiration.",
+          "de": "Alle genannten Landwirbeltiere nutzen ein Zwerchfell zur Unterstützung der Atmung.",
+          "ja": "言及されているすべての陸生脊椎動物は横隔膜を使って呼吸を促進します。"
+        },
+        "feedback": {
+          "en": "The text implies mammals use lungs similarly to fish in needing ventilation, but only mammals have a diaphragm. Birds and amphibians have different mechanisms.",
+          "zh": "文本暗示哺乳动物与鱼类一样需要肺通气，但只有哺乳动物有横膈膜。鸟类和两栖动物有不同的机制。",
+          "es": "El texto implica que los mamíferos usan los pulmones de manera similar a los peces en cuanto a la necesidad de ventilación, pero solo los mamíferos tienen diafragma. Las aves y los anfibios tienen mecanismos diferentes.",
+          "fr": "Le texte implique que les mammifères utilisent les poumons de manière similaire aux poissons pour la ventilation, mais seuls les mammifères possèdent un diaphragme. Les oiseaux et les amphibiens ont des mécanismes différents.",
+          "de": "Der Text impliziert, dass Säugetiere die Lungen ähnlich wie Fische zur Belüftung nutzen, aber nur Säugetiere haben ein Zwerchfell. Vögel und Amphibien haben andere Mechanismen.",
+          "ja": "本文では、哺乳類は魚類と同様に換気のために肺を使用すると示唆されていますが、横隔膜を持つのは哺乳類のみです。鳥類や両生類は異なるメカニズムを持っています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that birds pass air over the gas exchange surface in only one direction, making their ventilation highly efficient. Amphibians use positive pressure breathing, inflating lungs with forced airflow, which is different from mammals (who use negative pressure breathing, though not explicitly detailed for mammals here, it's implied by the general \"breathing ventilates the lungs\" context).",
+      "zh": "文本明确指出鸟类在气体交换表面上只进行单向气流，使其通气效率极高。两栖动物使用正压呼吸，强制气流充气肺部，这与哺乳动物不同（哺乳动物使用负压呼吸，尽管文本中未详细说明，但在“呼吸使肺部通气”的总体语境下有所暗示）。",
+      "es": "El texto establece explícitamente que las aves pasan el aire sobre la superficie de intercambio gaseoso en una sola dirección, lo que hace que su ventilación sea altamente eficiente. Los anfibios utilizan la respiración de presión positiva, inflando los pulmones con flujo de aire forzado, lo cual es diferente de los mamíferos (quienes usan la respiración de presión negativa, aunque no se detalla explícitamente para los mamíferos aquí, se infiere del contexto general de \"la respiración ventila los pulmones\").",
+      "fr": "Le texte indique explicitement que les oiseaux font passer l'air sur la surface d'échange gazeux dans une seule direction, ce qui rend leur ventilation très efficace. Les amphibiens utilisent la respiration à pression positive, gonflant les poumons avec un flux d'air forcé, ce qui est différent des mammifères (qui utilisent la respiration à pression négative, bien que cela ne soit pas explicitement détaillé pour les mammifères ici, c'est implicite dans le contexte général de « la respiration ventile les poumons »).",
+      "de": "Der Text besagt explizit, dass Vögel die Luft nur in eine Richtung über die Gasaustauschfläche leiten, was ihre Belüftung hocheffizient macht. Amphibien nutzen die Überdruckatmung, um die Lungen mit erzwungenem Luftstrom zu füllen, was sich von Säugetieren unterscheidet (die Unterdruckatmung nutzen, obwohl dies für Säugetiere hier nicht explizit detailliert ist, ist es im allgemeinen Kontext von „Atmung belüftet die Lungen“ impliziert).",
+      "ja": "本文では、鳥類がガス交換面を空気が一方向に流れることで換気効率が非常に高いと明確に述べられています。両生類は陽圧呼吸を用いて肺に強制的に空気を送り込みますが、これは哺乳類とは異なります（哺乳類は陰圧呼吸を使用しますが、ここでは明確には詳述されていませんが、「呼吸が肺を換気する」という一般的な文脈から示唆されています）。"
+    }
+  },
+  {
+    "page_number": 993,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Considering the \"WHAT IF?\" question and the overall conclusion of Avery's study, what relationship would you expect between the amount of surfactant in infant lung samples and infant body mass, especially concerning preterm infants?",
+      "zh": "综合考虑“如果...会怎样？”这个问题以及艾弗里研究的总体结论，你期望婴儿肺部样本中表面活性物质的含量与婴儿体重之间存在怎样的关系，特别是在早产儿方面？",
+      "es": "Considerando la pregunta \"¿Y si...?\" y la conclusión general del estudio de Avery, ¿qué relación esperaría entre la cantidad de surfactante en las muestras pulmonares de los bebés y la masa corporal del bebé, especialmente en lo que respecta a los bebés prematuros?",
+      "fr": "Compte tenu de la question « ET SI ? » et de la conclusion générale de l'étude d'Avery, quelle relation vous attendriez-vous à trouver entre la quantité de surfactant dans les échantillons pulmonaires de nourrissons et la masse corporelle des nourrissons, en particulier chez les prématurés ?",
+      "de": "Unter Berücksichtigung der „WAS WÄRE WENN?“-Frage und der Gesamtschlussfolgerung von Averys Studie, welche Beziehung würden Sie zwischen der Menge an Surfactant in Lungenproben von Säuglingen und der Körpermasse der Säuglinge erwarten, insbesondere bei Frühgeborenen?",
+      "ja": "「もしも？」の問いとエイブリーの研究全体の結論を考慮すると、乳児の肺サンプル中の界面活性剤の量と乳児の体重の間にはどのような関係が予想されますか？特に未熟児に関して。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The amount of surfactant would be inversely proportional to body mass, meaning larger infants would have less surfactant.",
+          "zh": "表面活性物质的含量将与体重成反比，这意味着体重较大的婴儿表面活性物质含量会较少。",
+          "es": "La cantidad de surfactante sería inversamente proporcional a la masa corporal, lo que significa que los bebés más grandes tendrían menos surfactante.",
+          "fr": "La quantité de surfactant serait inversement proportionnelle à la masse corporelle, ce qui signifie que les nourrissons plus grands auraient moins de surfactant.",
+          "de": "Die Menge an Surfactant wäre umgekehrt proportional zur Körpermasse, was bedeutet, dass größere Säuglinge weniger Surfactant hätten.",
+          "ja": "界面活性剤の量は体重に反比例し、体重の大きい乳児ほど界面活性剤が少ないことを意味します。"
+        },
+        "feedback": {
+          "en": "The text states surfactant is not normally produced until a fetus reaches a certain size, suggesting a direct, not inverse, relationship.",
+          "zh": "文本指出表面活性物质通常直到胎儿达到一定大小才开始产生，这表明是正比关系，而非反比。",
+          "es": "El texto indica que el surfactante normalmente no se produce hasta que el feto alcanza un cierto tamaño, lo que sugiere una relación directa, no inversa.",
+          "fr": "Le texte indique que le surfactant n'est normalement pas produit avant qu'un fœtus n'atteigne une certaine taille, suggérant une relation directe, et non inverse.",
+          "de": "Der Text besagt, dass Surfactant normalerweise erst produziert wird, wenn ein Fötus eine bestimmte Größe erreicht hat, was eine direkte, nicht umgekehrte Beziehung nahelegt.",
+          "ja": "本文には、界面活性剤は通常、胎児が特定のサイズに達するまで産生されないと記載されており、これは逆の関係ではなく、直接的な関係を示唆しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Surfactant levels would be consistently high across all body masses, as it's essential for lung function regardless of size.",
+          "zh": "表面活性物质水平在所有体重范围内都将保持一致的高水平，因为无论大小，它对肺功能都至关重要。",
+          "es": "Los niveles de surfactante serían consistentemente altos en todas las masas corporales, ya que es esencial para la función pulmonar independientemente del tamaño.",
+          "fr": "Les niveaux de surfactant seraient constamment élevés pour toutes les masses corporelles, car il est essentiel à la fonction pulmonaire quelle que soit la taille.",
+          "de": "Die Surfactant-Spiegel wären über alle Körpermassen hinweg konstant hoch, da es für die Lungenfunktion unabhängig von der Größe essentiell ist.",
+          "ja": "界面活性剤レベルは、そのサイズに関わらず肺機能に不可欠であるため、すべての体重において一貫して高い水準を維持するでしょう。"
+        },
+        "feedback": {
+          "en": "The study's conclusion and the bar graph clearly show a difference in surface tension (and thus implied surfactant levels) based on body mass.",
+          "zh": "研究结论和柱状图清楚地显示，表面张力（以及隐含的表面活性物质水平）因体重而异。",
+          "es": "La conclusión del estudio y el gráfico de barras muestran claramente una diferencia en la tensión superficial (y, por lo tanto, en los niveles de surfactante implícitos) según la masa corporal.",
+          "fr": "La conclusion de l'étude et le graphique à barres montrent clairement une différence de tension superficielle (et donc de niveaux de surfactant implicites) en fonction de la masse corporelle.",
+          "de": "Die Schlussfolgerung der Studie und das Balkendiagramm zeigen deutlich einen Unterschied in der Oberflächenspannung (und somit implizit den Surfactant-Spiegeln) basierend auf der Körpermasse.",
+          "ja": "研究の結論と棒グラフは、体質量に基づいて表面張力（および示唆される界面活性剤レベル）に明確な違いがあることを示しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "There would be a direct correlation: infants with larger body mass (especially above 1,200 g or born after 33 weeks) would tend to have higher amounts of surfactant.",
+          "zh": "会存在正相关：体重较大的婴儿（特别是体重超过 1,200 克或孕周超过 33 周的婴儿）往往会含有更高量的表面活性物质。",
+          "es": "Habría una correlación directa: los bebés con mayor masa corporal (especialmente por encima de 1.200 g o nacidos después de las 33 semanas) tenderían a tener mayores cantidades de surfactante.",
+          "fr": "Il y aurait une corrélation directe : les nourrissons ayant une masse corporelle plus importante (en particulier au-dessus de 1 200 g ou nés après 33 semaines) auraient tendance à avoir des quantités plus élevées de surfactant.",
+          "de": "Es gäbe eine direkte Korrelation: Säuglinge mit größerer Körpermasse (insbesondere über 1.200 g oder nach 33 Wochen geboren) hätten tendenziell höhere Mengen an Surfactant.",
+          "ja": "直接的な相関関係があるでしょう。体重が大きい乳児（特に1,200g以上または生後33週以降に生まれた乳児）は、より多くの界面活性剤を持つ傾向があります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The amount of surfactant would only be measurable in infants who died of RDS, as it's a disease-specific marker.",
+          "zh": "表面活性物质的含量只能在死于 RDS 的婴儿中测量，因为它是一种疾病特异性标志物。",
+          "es": "La cantidad de surfactante solo sería medible en bebés que murieron de SDR, ya que es un marcador específico de la enfermedad.",
+          "fr": "La quantité de surfactant ne serait mesurable que chez les nourrissons décédés du SDR, car il s'agit d'un marqueur spécifique de la maladie.",
+          "de": "Die Menge an Surfactant wäre nur bei Säuglingen messbar, die an RDS gestorben sind, da es ein krankheitsspezifischer Marker ist.",
+          "ja": "界面活性剤の量はRDSで死亡した乳児でのみ測定可能であり、それは疾患特異的なマーカーであるため。"
+        },
+        "feedback": {
+          "en": "The text implies that surfactant is a normal substance in healthy lungs and its *lack* causes RDS.",
+          "zh": "文本暗示表面活性物质是健康肺部中存在的正常物质，其*缺乏*会导致 RDS。",
+          "es": "El texto implica que el surfactante es una sustancia normal en los pulmones sanos y su *falta* causa el SDR.",
+          "fr": "Le texte implique que le surfactant est une substance normale dans les poumons sains et que son *manque* provoque le SDR.",
+          "de": "Der Text impliziert, dass Surfactant eine normale Substanz in gesunden Lungen ist und dessen *Mangel* RDS verursacht.",
+          "ja": "本文は、界面活性剤が健康な肺に存在する正常な物質であり、その*不足*がRDSを引き起こすと示唆しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that surfactant is \"not normally produced until a fetus reaches this size\" (referring to ≥1,200 g and after 33 weeks of gestation). This implies that as body mass increases (especially reaching a certain developmental stage), the amount of surfactant produced also increases, leading to lower surface tension and better lung function.",
+      "zh": "文本指出，表面活性物质“通常直到胎儿达到这个大小”（指 ≥1,200 克和妊娠 33 周后）才开始产生。这意味着随着体重的增加（特别是达到某个发育阶段），表面活性物质的产生量也会增加，从而导致较低的表面张力和更好的肺功能。",
+      "es": "El texto afirma que el surfactante \"normalmente no se produce hasta que el feto alcanza este tamaño\" (refiriéndose a ≥1.200 g y después de las 33 semanas de gestación). Esto implica que a medida que aumenta la masa corporal (especialmente al alcanzar una cierta etapa de desarrollo), la cantidad de surfactante producido también aumenta, lo que lleva a una menor tensión superficial y una mejor función pulmonar.",
+      "fr": "Le texte indique que le surfactant « n'est normalement pas produit avant qu'un fœtus n'atteigne cette taille » (faisant référence à ≥1 200 g et après 33 semaines de gestation). Cela implique qu'à mesure que la masse corporelle augmente (en particulier en atteignant un certain stade de développement), la quantité de surfactant produite augmente également, entraînant une tension superficielle plus faible et une meilleure fonction pulmonaire.",
+      "de": "Der Text besagt, dass Surfactant „normalerweise erst produziert wird, wenn ein Fötus diese Größe erreicht“ (bezieht sich auf ≥1.200 g und nach 33 Wochen Schwangerschaft). Dies impliziert, dass mit zunehmender Körpermasse (insbesondere beim Erreichen eines bestimmten Entwicklungsstadiums) auch die produzierte Menge an Surfactant zunimmt, was zu einer geringeren Oberflächenspannung und einer besseren Lungenfunktion führt.",
+      "ja": "本文には、界面活性剤は「胎児がこのサイズに達するまで（1,200g以上、または妊娠33週以降）通常は生成されない」と記載されています。これは、体重が増加するにつれて（特に特定の発生段階に達すると）、生成される界面活性剤の量も増加し、その結果、表面張力が低下し、肺機能が向上することを示唆しています。"
+    }
+  }
+]

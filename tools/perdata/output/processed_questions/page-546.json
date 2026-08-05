@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 546,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In what sense is natural selection more \"predictable\" than genetic drift?",
+      "zh": "从哪方面来说，自然选择比遗传漂变更“可预测”？",
+      "es": "¿En qué sentido la selección natural es más \"predecible\" que la deriva genética?",
+      "fr": "En quel sens la sélection naturelle est-elle plus \"prévisible\" que la dérive génétique ?",
+      "de": "Inwiefern ist natürliche Selektion \"vorhersagbarer\" als Gendrift?",
+      "ja": "自然選択は遺伝的浮動と比較して、どのような点で「予測可能」と言えますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Natural selection leads to random changes, while genetic drift has a specific direction.",
+          "zh": "自然选择导致随机变化，而遗传漂变有特定方向。",
+          "es": "La selección natural conduce a cambios aleatorios, mientras que la deriva genética tiene una dirección específica.",
+          "fr": "La sélection naturelle entraîne des changements aléatoires, tandis que la dérive génétique a une direction spécifique.",
+          "de": "Natürliche Selektion führt zu zufälligen Veränderungen, während Gendrift eine spezifische Richtung hat.",
+          "ja": "自然選択はランダムな変化をもたらし、遺伝的浮動には特定の方向性があります。"
+        },
+        "feedback": {
+          "en": "Natural selection is non-random; genetic drift is random.",
+          "zh": "自然选择是非随机的；遗传漂变是随机的。",
+          "es": "La selección natural no es aleatoria; la deriva genética sí lo es.",
+          "fr": "La sélection naturelle n'est pas aléatoire ; la dérive génétique est aléatoire.",
+          "de": "Natürliche Selektion ist nicht zufällig; Gendrift ist zufällig.",
+          "ja": "自然選択は非ランダムであり、遺伝的浮動はランダムです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Natural selection consistently increases the frequencies of alleles that provide a reproductive advantage, whereas genetic drift causes random fluctuations in allele frequencies.",
+          "zh": "自然选择持续地增加提供繁殖优势的等位基因频率，而遗传漂变则导致等位基因频率的随机波动。",
+          "es": "La selección natural aumenta consistentemente las frecuencias de los alelos que proporcionan una ventaja reproductiva, mientras que la deriva genética causa fluctuaciones aleatorias en las frecuencias alélicas.",
+          "fr": "La sélection naturelle augmente constamment les fréquences des allèles qui confèrent un avantage reproductif, tandis que la dérive génétique provoque des fluctuations aléatoires des fréquences alléliques.",
+          "de": "Natürliche Selektion erhöht konsequent die Frequenzen von Allelen, die einen Fortpflanzungsvorteil bieten, während Gendrift zufällige Schwankungen der Allelfrequenzen verursacht.",
+          "ja": "自然選択は生殖上の有利さをもたらす対立遺伝子の頻度を一貫して増加させる一方、遺伝的浮動は対立遺伝子頻度のランダムな変動を引き起こします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Genetic drift always results in adaptation, while natural selection does not.",
+          "zh": "遗传漂变总是导致适应，而自然选择则不然。",
+          "es": "La deriva genética siempre resulta en adaptación, mientras que la selección natural no.",
+          "fr": "La dérive génétique entraîne toujours une adaptation, alors que la sélection naturelle non.",
+          "de": "Gendrift führt immer zur Anpassung, während natürliche Selektion dies nicht tut.",
+          "ja": "遺伝的浮動は常に適応をもたらし、自然選択はそうではありません。"
+        },
+        "feedback": {
+          "en": "Natural selection leads to adaptation; genetic drift does not necessarily.",
+          "zh": "自然选择导致适应；遗传漂变不一定。",
+          "es": "La selección natural conduce a la adaptación; la deriva genética no necesariamente.",
+          "fr": "La sélection naturelle mène à l'adaptation ; la dérive génétique non nécessairement.",
+          "de": "Natürliche Selektion führt zur Anpassung; Gendrift nicht unbedingt.",
+          "ja": "自然選択は適応をもたらしますが、遺伝的浮動は必ずしもそうではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both are equally predictable, as they both lead to adaptive evolution.",
+          "zh": "两者都同样可预测，因为它们都导致适应性进化。",
+          "es": "Ambos son igualmente predecibles, ya que ambos conducen a la evolución adaptativa.",
+          "fr": "Les deux sont également prévisibles, car ils mènent tous deux à l'évolution adaptative.",
+          "de": "Beide sind gleichermaßen vorhersagbar, da sie beide zu adaptiver Evolution führen.",
+          "ja": "両者ともに適応進化をもたらすため、等しく予測可能です。"
+        },
+        "feedback": {
+          "en": "Only natural selection consistently leads to adaptive evolution.",
+          "zh": "只有自然选择才能持续地导致适应性进化。",
+          "es": "Solo la selección natural conduce consistentemente a la evolución adaptativa.",
+          "fr": "Seule la sélection naturelle mène constamment à l'évolution adaptative.",
+          "de": "Nur natürliche Selektion führt konsequent zu adaptiver Evolution.",
+          "ja": "適応進化を一貫して引き起こすのは自然選択だけです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that natural selection is 'not random' and 'consistently increases the frequencies of alleles that provide reproductive advantage, thus leading to adaptive evolution.' In contrast, genetic drift refers to random fluctuations in allele frequencies due to chance events.",
+      "zh": "文本指出，自然选择“不是随机的”，并且“持续地增加提供繁殖优势的等位基因频率，从而导致适应性进化”。相反，遗传漂变是指由于偶然事件导致的等位基因频率的随机波动。",
+      "es": "El texto afirma que la selección natural 'no es aleatoria' y 'aumenta consistentemente las frecuencias de los alelos que proporcionan una ventaja reproductiva, lo que lleva a la evolución adaptativa'. En contraste, la deriva genética se refiere a fluctuaciones aleatorias en las frecuencias alélicas debido a eventos fortuitos.",
+      "fr": "Le texte indique que la sélection naturelle 'n'est pas aléatoire' et 'augmente constamment les fréquences des allèles qui confèrent un avantage reproductif, conduisant ainsi à l'évolution adaptative'. En revanche, la dérive génétique fait référence aux fluctuations aléatoires des fréquences alléliques dues au hasard.",
+      "de": "Der Text besagt, dass natürliche Selektion 'nicht zufällig' ist und 'konsequent die Frequenzen von Allelen erhöht, die einen Fortpflanzungsvorteil bieten, wodurch adaptive Evolution entsteht'. Im Gegensatz dazu bezieht sich Gendrift auf zufällige Schwankungen der Allelfrequenzen aufgrund von Zufallsereignissen.",
+      "ja": "テキストには、自然選択が「ランダムではない」こと、そして「生殖上の有利さをもたらす対立遺伝子の頻度を一貫して増加させ、適応進化につながる」と記載されています。対照的に、遺伝的浮動は偶然の出来事による対立遺伝子頻度のランダムな変動を指します。"
+    }
+  },
+  {
+    "page_number": 546,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the text, why do water snakes on islands still have banded individuals despite natural selection favoring unbanded snakes for camouflage?",
+      "zh": "根据文本，尽管自然选择有利于无斑水蛇以进行伪装，为什么岛屿上的水蛇仍然有带斑的个体？",
+      "es": "Según el texto, ¿por qué las culebras de agua en las islas todavía tienen individuos con bandas a pesar de que la selección natural favorece a las culebras sin bandas para el camuflaje?",
+      "fr": "Selon le texte, pourquoi les serpents d'eau des îles ont-ils encore des individus rayés, malgré la sélection naturelle favorisant les serpents non rayés pour le camouflage ?",
+      "de": "Warum gibt es laut Text auf Inseln immer noch gestreifte Wassernattern, obwohl die natürliche Selektion ungestreifte Nattern zur Tarnung bevorzugt?",
+      "ja": "テキストによると、カモフラージュのために無帯のヘビが自然選択によって有利であるにもかかわらず、島嶼の水ヘビにはなぜまだ帯状の個体が存在するのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The unbanded trait is recessive and rarely expressed.",
+          "zh": "无斑性状是隐性的，很少表达。",
+          "es": "El rasgo sin bandas es recesivo y rara vez se expresa.",
+          "fr": "Le trait non rayé est récessif et rarement exprimé.",
+          "de": "Das ungestreifte Merkmal ist rezessiv und selten ausgeprägt.",
+          "ja": "無帯の形質は劣性で、めったに発現しません。"
+        },
+        "feedback": {
+          "en": "The text states banding is dominant, and unbanded is favored, but the issue is gene flow, not expression of recessive traits.",
+          "zh": "文本指出条纹是显性的，无斑受青睐，但问题是基因流，而非隐性性状的表达。",
+          "es": "El texto indica que las bandas son dominantes y que la ausencia de bandas es favorecida, pero el problema es el flujo génico, no la expresión de rasgos recesivos.",
+          "fr": "Le texte indique que les rayures sont dominantes et que l'absence de rayures est favorisée, mais le problème est le flux génétique, et non l'expression des traits récessifs.",
+          "de": "Der Text besagt, dass Bänder dominant sind und Ungestreift bevorzugt wird, aber das Problem ist der Genfluss, nicht die Expression rezessiver Merkmale.",
+          "ja": "テキストによると、帯状の形質は優性で、無帯が有利とされていますが、問題は遺伝子流動であり、劣性形質の発現ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Predators on the islands prefer banded snakes, increasing their survival.",
+          "zh": "岛上的捕食者更喜欢带斑的蛇，从而增加了它们的生存率。",
+          "es": "Los depredadores en las islas prefieren las culebras con bandas, lo que aumenta su supervivencia.",
+          "fr": "Les prédateurs des îles préfèrent les serpents rayés, ce qui augmente leur survie.",
+          "de": "Raubtiere auf den Inseln bevorzugen gestreifte Nattern, was deren Überleben erhöht.",
+          "ja": "島の捕食者は帯状のヘビを好み、それによって生存率が増加します。"
+        },
+        "feedback": {
+          "en": "The text explicitly states unbanded snakes survive at higher rates on islands due to better camouflage.",
+          "zh": "文本明确指出，由于伪装效果更好，无斑蛇在岛屿上的生存率更高。",
+          "es": "El texto establece explícitamente que las culebras sin bandas sobreviven a tasas más altas en las islas debido a un mejor camuflaje.",
+          "fr": "Le texte indique explicitement que les serpents non rayés survivent à des taux plus élevés sur les îles grâce à un meilleur camouflage.",
+          "de": "Der Text besagt explizit, dass ungestreifte Nattern auf Inseln aufgrund besserer Tarnung höhere Überlebensraten haben.",
+          "ja": "テキストには、無帯のヘビがより優れたカモフラージュのため、島嶼で高い生存率を示すと明記されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Gene flow from the mainland introduces banded alleles, counteracting the effects of natural selection on the islands.",
+          "zh": "来自大陆的基因流引入了带斑等位基因，抵消了岛上自然选择的影响。",
+          "es": "El flujo génico del continente introduce alelos con bandas, contrarrestando los efectos de la selección natural en las islas.",
+          "fr": "Le flux génétique du continent introduit des allèles rayés, contrecarrant les effets de la sélection naturelle sur les îles.",
+          "de": "Genfluss vom Festland führt gestreifte Allele ein, was den Auswirkungen der natürlichen Selektion auf den Inseln entgegenwirkt.",
+          "ja": "本土からの遺伝子流動が帯状の対立遺伝子を導入し、島での自然選択の影響を打ち消しています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The island environment is changing, making banded snakes more camouflaged.",
+          "zh": "岛屿环境正在变化，使得带斑的蛇更具伪装性。",
+          "es": "El entorno de la isla está cambiando, haciendo que las culebras con bandas estén más camufladas.",
+          "fr": "L'environnement insulaire est en train de changer, rendant les serpents rayés mieux camouflés.",
+          "de": "Die Inselumgebung verändert sich, wodurch gestreifte Nattern besser getarnt sind.",
+          "ja": "島の環境が変化しており、帯状のヘビの方がカモフラージュしやすくなっています。"
+        },
+        "feedback": {
+          "en": "The text states unbanded snakes are better camouflaged in island habitats, and the problem is explicitly attributed to gene flow, not environmental change.",
+          "zh": "文本指出无斑蛇在岛屿栖息地伪装得更好，并且问题明确归因于基因流，而非环境变化。",
+          "es": "El texto indica que las culebras sin bandas están mejor camufladas en los hábitats insulares, y el problema se atribuye explícitamente al flujo génico, no al cambio ambiental.",
+          "fr": "Le texte indique que les serpents non rayés sont mieux camouflés dans les habitats insulaires, et le problème est explicitement attribué au flux génétique, et non au changement environnemental.",
+          "de": "Der Text besagt, dass ungestreifte Nattern in Inselhabitaten besser getarnt sind, und das Problem wird explizit dem Genfluss zugeschrieben, nicht Umweltveränderungen.",
+          "ja": "テキストには、無帯のヘビが島の生息地でより優れたカモフラージュであると述べられており、問題は環境変化ではなく遺伝子流動に明確に起因しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The passage explains that while unbanded snakes are favored on islands, gene flow from the mainland (where banded snakes are common) continuously introduces alleles for banded coloration into the island populations, preventing natural selection from completely eliminating them.",
+      "zh": "文章解释说，尽管无斑蛇在岛屿上受到青睐，但来自大陆（带斑蛇常见）的基因流不断将带斑等位基因引入岛屿种群，阻止了自然选择完全消除它们。",
+      "es": "El pasaje explica que, si bien las culebras sin bandas son favorecidas en las islas, el flujo génico del continente (donde las culebras con bandas son comunes) introduce continuamente alelos para la coloración con bandas en las poblaciones isleñas, impidiendo que la selección natural las elimine por completo.",
+      "fr": "Le passage explique que, bien que les serpents non rayés soient favorisés sur les îles, le flux génétique provenant du continent (où les serpents rayés sont courants) introduit continuellement des allèles pour la coloration rayée dans les populations insulaires, empêchant la sélection naturelle de les éliminer complètement.",
+      "de": "Der Abschnitt erklärt, dass, obwohl ungestreifte Nattern auf Inseln bevorzugt werden, der Genfluss vom Festland (wo gestreifte Nattern häufig sind) ständig Allele für die gestreifte Färbung in die Inselpopulationen einführt, was verhindert, dass die natürliche Selektion sie vollständig eliminiert.",
+      "ja": "この箇所では、島では無帯のヘビが有利であるにもかかわらず、本土（帯状のヘビが一般的）からの遺伝子流動が継続的に帯状の対立遺伝子を島嶼集団に導入し、自然選択による完全な排除を防いでいると説明されています。"
+    }
+  },
+  {
+    "page_number": 546,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Distinguish genetic drift from gene flow in terms of (a) how they occur and (b) their implications for future genetic variation in a population.",
+      "zh": "从 (a) 发生方式和 (b) 对种群未来遗传变异的影响方面区分遗传漂变和基因流。",
+      "es": "Distinga la deriva genética del flujo génico en términos de (a) cómo ocurren y (b) sus implicaciones para la futura variación genética en una población.",
+      "fr": "Distinguez la dérive génétique du flux génétique en termes (a) de leur mode d'occurrence et (b) de leurs implications pour la variation génétique future dans une population.",
+      "de": "Unterscheiden Sie Gendrift von Genfluss hinsichtlich (a) ihrer Entstehung und (b) ihrer Auswirkungen auf die zukünftige genetische Variation in einer Population.",
+      "ja": "遺伝的浮動と遺伝子流動を、(a) それらがどのように発生するか、(b) 集団における将来の遺伝的変異に対する影響という点で区別してください。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Genetic drift occurs due to random chance events, reducing genetic variation, while gene flow involves allele transfer between populations, often increasing variation within a population and reducing differences between populations.",
+          "zh": "遗传漂变是由于随机偶然事件发生的，会减少遗传变异；而基因流涉及种群间等位基因的转移，通常会增加种群内的变异并减少种群间的差异。",
+          "es": "La deriva genética ocurre debido a eventos aleatorios, reduciendo la variación genética, mientras que el flujo génico implica la transferencia de alelos entre poblaciones, a menudo aumentando la variación dentro de una población y reduciendo las diferencias entre poblaciones.",
+          "fr": "La dérive génétique se produit en raison d'événements aléatoires, réduisant la variation génétique, tandis que le flux génétique implique le transfert d'allèles entre populations, augmentant souvent la variation au sein d'une population et réduisant les différences entre les populations.",
+          "de": "Gendrift tritt aufgrund zufälliger Ereignisse auf und reduziert die genetische Variation, während Genfluss den Alleltransfer zwischen Populationen beinhaltet, oft die Variation innerhalb einer Population erhöht und die Unterschiede zwischen Populationen reduziert.",
+          "ja": "遺伝的浮動はランダムな偶然の出来事によって生じ、遺伝的変異を減少させます。一方、遺伝子流動は集団間の対立遺伝子の移動を含み、しばしば集団内の変異を増加させ、集団間の差を減少させます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Genetic drift increases genetic variation through mutation, while gene flow consistently reduces it.",
+          "zh": "遗传漂变通过突变增加遗传变异，而基因流持续减少遗传变异。",
+          "es": "La deriva genética aumenta la variación genética a través de la mutación, mientras que el flujo génico la reduce consistentemente.",
+          "fr": "La dérive génétique augmente la variation génétique par mutation, tandis que le flux génétique la réduit constamment.",
+          "de": "Gendrift erhöht die genetische Variation durch Mutation, während Genfluss diese konsequent reduziert.",
+          "ja": "遺伝的浮動は突然変異を通じて遺伝的変異を増加させ、遺伝子流動はそれを一貫して減少させます。"
+        },
+        "feedback": {
+          "en": "Genetic drift usually reduces variation within a population, and it's not directly caused by mutation. Gene flow can increase or decrease variation depending on context.",
+          "zh": "遗传漂变通常会减少种群内的变异，且并非直接由突变引起。基因流可以根据具体情况增加或减少变异。",
+          "es": "La deriva genética suele reducir la variación dentro de una población y no es causada directamente por mutaciones. El flujo génico puede aumentar o disminuir la variación dependiendo del contexto.",
+          "fr": "La dérive génétique réduit généralement la variation au sein d'une population, et elle n'est pas directement causée par la mutation. Le flux génétique peut augmenter ou diminuer la variation selon le contexte.",
+          "de": "Gendrift reduziert normalerweise die Variation innerhalb einer Population und wird nicht direkt durch Mutation verursacht. Genfluss kann die Variation je nach Kontext erhöhen oder verringern.",
+          "ja": "遺伝的浮動は通常、集団内の変異を減少させ、突然変異によって直接引き起こされるわけではありません。遺伝子流動は、状況に応じて変異を増加させたり減少させたりすることがあります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Gene flow is always adaptive, whereas genetic drift is always maladaptive.",
+          "zh": "基因流总是适应性的，而遗传漂变总是适应不良的。",
+          "es": "El flujo génico es siempre adaptativo, mientras que la deriva genética siempre es desadaptativa.",
+          "fr": "Le flux génétique est toujours adaptatif, tandis que la dérive génétique est toujours inadaptée.",
+          "de": "Genfluss ist immer adaptiv, während Gendrift immer maladaptiv ist.",
+          "ja": "遺伝子流動は常に適応的であり、遺伝的浮動は常に不適応的です。"
+        },
+        "feedback": {
+          "en": "Neither is always adaptive or maladaptive. Gene flow can introduce beneficial or harmful alleles, or simply maintain diversity. Genetic drift is random and not necessarily maladaptive.",
+          "zh": "两者并非总是适应性或适应不良的。基因流可以引入有利或有害的等位基因，或仅维持多样性。遗传漂变是随机的，不一定适应不良。",
+          "es": "Ninguno de los dos es siempre adaptativo o desadaptativo. El flujo génico puede introducir alelos beneficiosos o dañinos, o simplemente mantener la diversidad. La deriva genética es aleatoria y no necesariamente desadaptativa.",
+          "fr": "Aucun des deux n'est toujours adaptatif ou inadapté. Le flux génétique peut introduire des allèles bénéfiques ou nocifs, ou simplement maintenir la diversité. La dérive génétique est aléatoire et pas nécessairement inadaptée.",
+          "de": "Keines von beiden ist immer adaptiv oder maladaptiv. Genfluss kann vorteilhafte oder schädliche Allele einführen oder einfach die Diversität erhalten. Gendrift ist zufällig und nicht notwendigerweise maladaptiv.",
+          "ja": "どちらも常に適応的である、あるいは不適応的であるとは限りません。遺伝子流動は、有利または有害な対立遺伝子を導入したり、単に多様性を維持したりすることができます。遺伝的浮動はランダムであり、必ずしも不適応的ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both genetic drift and gene flow are mechanisms that consistently lead to adaptive evolution.",
+          "zh": "遗传漂变和基因流都是持续导致适应性进化的机制。",
+          "es": "Tanto la deriva genética como el flujo génico son mecanismos que conducen consistentemente a la evolución adaptativa.",
+          "fr": "La dérive génétique et le flux génétique sont tous deux des mécanismes qui mènent constamment à l'évolution adaptative.",
+          "de": "Sowohl Gendrift als auch Genfluss sind Mechanismen, die konsequent zu adaptiver Evolution führen.",
+          "ja": "遺伝的浮動と遺伝子流動はともに、一貫して適応進化につながるメカニズムです。"
+        },
+        "feedback": {
+          "en": "Only natural selection consistently leads to adaptive evolution. Genetic drift is random, and gene flow can prevent or facilitate adaptation.",
+          "zh": "只有自然选择才能持续地导致适应性进化。遗传漂变是随机的，基因流可以阻止或促进适应。",
+          "es": "Solo la selección natural conduce consistentemente a la evolución adaptativa. La deriva genética es aleatoria y el flujo génico puede prevenir o facilitar la adaptación.",
+          "fr": "Seule la sélection naturelle mène constamment à l'évolution adaptative. La dérive génétique est aléatoire, et le flux génétique peut empêcher ou faciliter l'adaptation.",
+          "de": "Nur natürliche Selektion führt konsequent zu adaptiver Evolution. Gendrift ist zufällig, und Genfluss kann Anpassung verhindern oder erleichtern.",
+          "ja": "適応進化を一貫して引き起こすのは自然選択だけです。遺伝的浮動はランダムであり、遺伝子流動は適応を妨げたり促進したりする可能性があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Genetic drift is a random process, especially significant in small populations, causing allele frequencies to fluctuate unpredictably and potentially leading to a loss of genetic variation. Gene flow, on the other hand, is the movement of alleles between populations (e.g., via migration of individuals or gametes). It tends to make populations more similar genetically and can introduce new alleles, thus increasing variation within a population while reducing differentiation between populations.",
+      "zh": "遗传漂变是一个随机过程，在小种群中尤为显著，它会导致等位基因频率的不可预测波动，并可能导致遗传变异的丧失。而基因流是指等位基因在种群之间的移动（例如，通过个体或配子的迁移）。它倾向于使种群在基因上更相似，并可以引入新的等位基因，从而增加种群内的变异，同时减少种群之间的分化。",
+      "es": "La deriva genética es un proceso aleatorio, especialmente significativo en poblaciones pequeñas, que causa que las frecuencias alélicas fluctúen impredeciblemente y potencialmente lleven a una pérdida de variación genética. El flujo génico, por otro lado, es el movimiento de alelos entre poblaciones (por ejemplo, mediante la migración de individuos o gametos). Tiende a hacer que las poblaciones sean genéticamente más similares y puede introducir nuevos alelos, aumentando así la variación dentro de una población mientras reduce la diferenciación entre poblaciones.",
+      "fr": "La dérive génétique est un processus aléatoire, particulièrement significatif dans les petites populations, qui provoque des fluctuations imprévisibles des fréquences alléliques et peut entraîner une perte de variation génétique. Le flux génétique, quant à lui, est le mouvement des allèles entre les populations (par exemple, par la migration d'individus ou de gamètes). Il tend à rendre les populations génétiquement plus similaires et peut introduire de nouveaux allèles, augmentant ainsi la variation au sein d'une population tout en réduisant la différenciation entre les populations.",
+      "de": "Gendrift ist ein zufälliger Prozess, besonders bedeutsam in kleinen Populationen, der dazu führt, dass Allelfrequenzen unvorhersehbar schwanken und potenziell zu einem Verlust genetischer Variation führen kann. Genfluss hingegen ist die Bewegung von Allelen zwischen Populationen (z.B. durch Migration von Individuen oder Gameten). Er tendiert dazu, Populationen genetisch ähnlicher zu machen und kann neue Allele einführen, wodurch die Variation innerhalb einer Population erhöht und gleichzeitig die Differenzierung zwischen Populationen reduziert wird.",
+      "ja": "遺伝的浮動はランダムなプロセスであり、特に小集団で顕著です。対立遺伝子頻度を予測不能に変動させ、遺伝的変異の喪失につながる可能性があります。一方、遺伝子流動は、集団間の対立遺伝子の移動（例：個体や配偶子の移動による）です。これは集団を遺伝的に類似させる傾向があり、新しい対立遺伝子を導入することで、集団内の変異を増加させつつ、集団間の分化を減少させることができます。"
+    }
+  },
+  {
+    "page_number": 546,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Suppose two plant populations exchange pollen and seeds. In one population, individuals of genotype AA are most common (9,000 AA, 900 Aa, 100 aa), while the opposite is true in the other population (100 AA, 900 Aa, 9,000 aa). If neither allele has a selective advantage, what will happen over time to the allele and genotype frequencies of these populations?",
+      "zh": "假设两个植物种群交换花粉和种子。一个种群中，AA基因型个体最常见 (9,000 AA, 900 Aa, 100 aa)，而另一个种群中情况相反 (100 AA, 900 Aa, 9,000 aa)。如果两个等位基因都没有选择优势，随着时间推移，这些种群的等位基因和基因型频率会发生什么变化？",
+      "es": "Suponga que dos poblaciones de plantas intercambian polen y semillas. En una población, los individuos con genotipo AA son los más comunes (9,000 AA, 900 Aa, 100 aa), mientras que en la otra población ocurre lo contrario (100 AA, 900 Aa, 9,000 aa). Si ningún alelo tiene una ventaja selectiva, ¿qué sucederá con las frecuencias alélicas y genotípicas de estas poblaciones con el tiempo?",
+      "fr": "Supposons que deux populations végétales échangent pollen et graines. Dans une population, les individus de génotype AA sont les plus courants (9 000 AA, 900 Aa, 100 aa), tandis que l'inverse est vrai dans l'autre population (100 AA, 900 Aa, 9 000 aa). Si aucun allèle n'a d'avantage sélectif, que se passera-t-il au fil du temps pour les fréquences alléliques et génotypiques de ces populations ?",
+      "de": "Angenommen, zwei Pflanzenpopulationen tauschen Pollen und Samen aus. In einer Population sind Individuen des Genotyps AA am häufigsten (9.000 AA, 900 Aa, 100 aa), während in der anderen Population das Gegenteil der Fall ist (100 AA, 900 Aa, 9.000 aa). Wenn keiner der Allele einen Selektionsvorteil hat, was wird mit der Zeit mit den Allel- und Genotypfrequenzen dieser Populationen geschehen?",
+      "ja": "2つの植物集団が花粉と種子を交換すると仮定します。ある集団では遺伝子型AAの個体が最も一般的であり（9,000 AA、900 Aa、100 aa）、別の集団では逆の場合（100 AA、900 Aa、9,000 aa）です。どちらの対立遺伝子にも選択的有利性がない場合、これらの集団の対立遺伝子頻度と遺伝子型頻度は時間とともにどうなりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The allele and genotype frequencies in both populations will remain constant due to the absence of selective advantage.",
+          "zh": "由于没有选择优势，两个种群的等位基因和基因型频率将保持不变。",
+          "es": "Las frecuencias alélicas y genotípicas en ambas poblaciones permanecerán constantes debido a la ausencia de ventaja selectiva.",
+          "fr": "Les fréquences alléliques et génotypiques des deux populations resteront constantes en raison de l'absence d'avantage sélectif.",
+          "de": "Die Allel- und Genotypfrequenzen in beiden Populationen bleiben aufgrund des fehlenden Selektionsvorteils konstant.",
+          "ja": "選択的有利性がないため、両集団の対立遺伝子頻度と遺伝子型頻度は一定のままです。"
+        },
+        "feedback": {
+          "en": "Gene flow (exchange of pollen/seeds) will alter frequencies even without selection, as alleles are being transferred between populations with different initial frequencies.",
+          "zh": "即使没有选择，基因流（花粉/种子的交换）也会改变频率，因为等位基因在具有不同初始频率的种群之间转移。",
+          "es": "El flujo génico (intercambio de polen/semillas) alterará las frecuencias incluso sin selección, ya que los alelos se transfieren entre poblaciones con diferentes frecuencias iniciales.",
+          "fr": "Le flux génétique (échange de pollen/graines) modifiera les fréquences même sans sélection, car les allèles sont transférés entre des populations ayant des fréquences initiales différentes.",
+          "de": "Genfluss (Austausch von Pollen/Samen) wird die Frequenzen auch ohne Selektion verändern, da Allele zwischen Populationen mit unterschiedlichen Ausgangsfrequenzen übertragen werden.",
+          "ja": "花粉や種子の交換による遺伝子流動は、選択がなくても頻度を変化させます。異なる初期頻度を持つ集団間で対立遺伝子が転移するためです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The allele frequencies will diverge further, leading to increased genetic differentiation between the populations.",
+          "zh": "等位基因频率将进一步分化，导致种群间的遗传分化增加。",
+          "es": "Las frecuencias alélicas divergirán aún más, lo que llevará a una mayor diferenciación genética entre las poblaciones.",
+          "fr": "Les fréquences alléliques divergeront davantage, entraînant une différenciation génétique accrue entre les populations.",
+          "de": "Die Allelfrequenzen werden weiter auseinandergehen, was zu einer erhöhten genetischen Differenzierung zwischen den Populationen führt.",
+          "ja": "対立遺伝子頻度はさらに分岐し、集団間の遺伝的差異が増加します。"
+        },
+        "feedback": {
+          "en": "Gene flow tends to reduce genetic differentiation between populations by homogenizing allele frequencies.",
+          "zh": "基因流通过均化等位基因频率，倾向于减少种群间的遗传分化。",
+          "es": "El flujo génico tiende a reducir la diferenciación genética entre poblaciones al homogeneizar las frecuencias alélicas.",
+          "fr": "Le flux génétique tend à réduire la différenciation génétique entre les populations en homogénéisant les fréquences alléliques.",
+          "de": "Genfluss tendiert dazu, die genetische Differenzierung zwischen Populationen durch Homogenisierung der Allelfrequenzen zu reduzieren.",
+          "ja": "遺伝子流動は、対立遺伝子頻度を均一化することにより、集団間の遺伝的差異を減少させる傾向があります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The allele and genotype frequencies in both populations will become more similar over time, eventually equilibrating due to gene flow.",
+          "zh": "随着时间的推移，两个种群的等位基因和基因型频率将变得更加相似，最终因基因流而达到平衡。",
+          "es": "Las frecuencias alélicas y genotípicas en ambas poblaciones se volverán más similares con el tiempo, eventualmente equilibrándose debido al flujo génico.",
+          "fr": "Les fréquences alléliques et génotypiques des deux populations deviendront plus similaires au fil du temps, s'équilibrant finalement grâce au flux génétique.",
+          "de": "Die Allel- und Genotypfrequenzen in beiden Populationen werden sich mit der Zeit ähnlicher werden und schließlich aufgrund des Genflusses ausgleichen.",
+          "ja": "時間とともに両集団の対立遺伝子頻度と遺伝子型頻度はより類似し、最終的には遺伝子流動によって平衡状態に達します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The less common alleles (aa in the first, AA in the second) will be eliminated from each population due to random drift.",
+          "zh": "较不常见的等位基因（第一个种群中的aa，第二个种群中的AA）将因随机漂变而从各自的种群中被消除。",
+          "es": "Los alelos menos comunes (aa en la primera, AA en la segunda) serán eliminados de cada población debido a la deriva aleatoria.",
+          "fr": "Les allèles moins courants (aa dans la première, AA dans la seconde) seront éliminés de chaque population en raison de la dérive aléatoire.",
+          "de": "Die selteneren Allele (aa in der ersten, AA in der zweiten) werden aufgrund von zufälliger Drift aus jeder Population eliminiert.",
+          "ja": "（最初の集団ではaa、2番目の集団ではAAの）あまり一般的ではない対立遺伝子は、ランダムな浮動によって各集団から排除されます。"
+        },
+        "feedback": {
+          "en": "While drift can cause elimination, the continuous gene flow between populations will counteract this by reintroducing alleles. Also, the large population sizes (9000, 900, 100) minimize the impact of random drift compared to gene flow.",
+          "zh": "虽然漂变可能导致消除，但种群之间持续的基因流会通过重新引入等位基因来抵消这种影响。此外，与基因流相比，较大的种群规模（9000、900、100）会最大限度地减少随机漂变的影响。",
+          "es": "Aunque la deriva puede causar la eliminación, el flujo génico continuo entre poblaciones lo contrarrestará reintroduciendo alelos. Además, los grandes tamaños de población (9000, 900, 100) minimizan el impacto de la deriva aleatoria en comparación con el flujo génico.",
+          "fr": "Bien que la dérive puisse entraîner l'élimination, le flux génétique continu entre les populations contrera cet effet en réintroduisant les allèles. De plus, les grandes tailles de population (9000, 900, 100) minimisent l'impact de la dérive aléatoire par rapport au flux génétique.",
+          "de": "Obwohl Drift zur Eliminierung führen kann, wird der kontinuierliche Genfluss zwischen Populationen dies durch Wiedereinführung von Allelen ausgleichen. Außerdem minimieren die großen Populationsgrößen (9000, 900, 100) den Einfluss zufälliger Drift im Vergleich zum Genfluss.",
+          "ja": "浮動によって対立遺伝子が排除される可能性はありますが、集団間の継続的な遺伝子流動は、対立遺伝子を再導入することでこれを相殺します。また、大規模な集団サイズ（9000、900、100）は、遺伝子流動と比較してランダムな浮動の影響を最小限に抑えます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Gene flow, the exchange of alleles between populations, acts to reduce genetic differences between them. Even in the absence of selective advantage, if populations are exchanging genetic material, their allele and genotype frequencies will tend to converge and become more uniform over time. The large population numbers given suggest that genetic drift (random elimination of alleles, more impactful in small populations) would be less significant than the consistent gene flow.",
+      "zh": "基因流是种群之间等位基因的交换，它能减少种群间的遗传差异。即使没有选择优势，如果种群之间存在遗传物质的交换，它们的等位基因和基因型频率将趋于收敛并随时间变得更加均匀。给出的较大种群数量表明，遗传漂变（随机的等位基因消除，对小种群影响更大）的影响将小于持续的基因流。",
+      "es": "El flujo génico, el intercambio de alelos entre poblaciones, actúa para reducir las diferencias genéticas entre ellas. Incluso en ausencia de ventaja selectiva, si las poblaciones intercambian material genético, sus frecuencias alélicas y genotípicas tenderán a converger y volverse más uniformes con el tiempo. Los grandes números de población dados sugieren que la deriva genética (eliminación aleatoria de alelos, más impactante en poblaciones pequeñas) sería menos significativa que el flujo génico constante.",
+      "fr": "Le flux génétique, l'échange d'allèles entre populations, agit pour réduire les différences génétiques entre elles. Même en l'absence d'avantage sélectif, si les populations échangent du matériel génétique, leurs fréquences alléliques et génotypiques tendront à converger et à devenir plus uniformes au fil du temps. Les grands nombres de population indiqués suggèrent que la dérive génétique (élimination aléatoire des allèles, plus impactante dans les petites populations) serait moins significative que le flux génétique constant.",
+      "de": "Genfluss, der Austausch von Allelen zwischen Populationen, wirkt darauf hin, genetische Unterschiede zwischen ihnen zu reduzieren. Auch ohne Selektionsvorteil werden sich die Allel- und Genotypfrequenzen von Populationen, die genetisches Material austauschen, mit der Zeit angleichen und homogener werden. Die angegebenen großen Populationszahlen deuten darauf hin, dass die Gendrift (zufällige Eliminierung von Allelen, die in kleinen Populationen größere Auswirkungen hat) weniger signifikant wäre als der konstante Genfluss.",
+      "ja": "遺伝子流動、つまり集団間の対立遺伝子の交換は、集団間の遺伝的差異を減少させる働きがあります。選択的有利性がない場合でも、集団間で遺伝物質が交換されている場合、対立遺伝子頻度と遺伝子型頻度は時間とともに収束し、より均一になる傾向があります。与えられた大規模な個体数は、遺伝的浮動（対立遺伝子のランダムな消失、小集団でより影響が大きい）が継続的な遺伝子流動よりも重要ではないことを示唆しています。"
+    }
+  }
+]

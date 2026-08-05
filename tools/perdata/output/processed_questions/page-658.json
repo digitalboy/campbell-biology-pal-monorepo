@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 658,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is a distinguishing characteristic of chlorarachniophytes, according to the provided text?",
+      "zh": "根据提供的文本，氯虫藻类的一个显著特征是什么？",
+      "es": "¿Cuál es una característica distintiva de las cloraracniófitas, según el texto proporcionado?",
+      "fr": "Quelle est une caractéristique distinctive des chlorarachniophytes, selon le texte fourni ?",
+      "de": "Was ist laut dem bereitgestellten Text ein Alleinstellungsmerkmal der Chlorarachniophyten?",
+      "ja": "提供されたテキストによると、クロララクニオフィタの際立った特徴は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They are exclusively heterotrophic parasites.",
+          "zh": "它们是纯粹的异养寄生物。",
+          "es": "Son exclusivamente parásitos heterótrofos.",
+          "fr": "Ce sont exclusivement des parasites hétérotrophes.",
+          "de": "Sie sind ausschließlich heterotrophe Parasiten.",
+          "ja": "それらはもっぱら従属栄養性の寄生生物です。"
+        },
+        "feedback": {
+          "en": "Chlorarachniophytes are mixotrophic, meaning they also perform photosynthesis, not exclusively heterotrophic.",
+          "zh": "氯虫藻类是混合营养的，这意味着它们也进行光合作用，并非纯粹的异养生物。",
+          "es": "Las cloraracniófitas son mixotróficas, lo que significa que también realizan fotosíntesis, no son exclusivamente heterótrofas.",
+          "fr": "Les chlorarachniophytes sont mixotrophes, ce qui signifie qu'elles effectuent également la photosynthèse, et ne sont pas exclusivement hétérotrophes.",
+          "de": "Chlorarachniophyten sind mixotroph, was bedeutet, dass sie auch Photosynthese betreiben und nicht ausschließlich heterotroph sind.",
+          "ja": "クロララクニオフィタは混合栄養性であり、光合成も行うため、もっぱら従属栄養性ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They obtain their photosynthetic apparatus directly from cyanobacteria.",
+          "zh": "它们直接从蓝细菌获得光合作用装置。",
+          "es": "Obtienen su aparato fotosintético directamente de cianobacterias.",
+          "fr": "Elles obtiennent leur appareil photosynthétique directement des cyanobactéries.",
+          "de": "Sie beziehen ihren Photosyntheseapparat direkt von Cyanobakterien.",
+          "ja": "それらはシアノバクテリアから直接光合成装置を獲得します。"
+        },
+        "feedback": {
+          "en": "This characteristic is attributed to Paulinella chromatophora, not chlorarachniophytes, which gained their plastids through secondary endosymbiosis.",
+          "zh": "这个特征归因于Pauline chromatophora，而不是氯虫藻类，后者通过次生内共生获得质体。",
+          "es": "Esta característica se atribuye a Paulinella chromatophora, no a las cloraracniófitas, que obtuvieron sus plastos a través de endosimbiosis secundaria.",
+          "fr": "Cette caractéristique est attribuée à Paulinella chromatophora, et non aux chlorarachniophytes, qui ont acquis leurs plastes par endosymbiose secondaire.",
+          "de": "Dieses Merkmal wird Paulinella chromatophora zugeschrieben, nicht den Chlorarachniophyten, die ihre Plastiden durch sekundäre Endosymbiose erlangten.",
+          "ja": "この特徴はパウリネラ・クロマタフォラに帰属し、クロララクニオフィタには当てはまりません。クロララクニオフィタは二次共生によって色素体を得ました。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They ingest smaller protists and bacteria while also performing photosynthesis.",
+          "zh": "它们摄食较小的原生生物和细菌，同时也能进行光合作用。",
+          "es": "Ingieren protistas y bacterias más pequeños mientras también realizan fotosíntesis.",
+          "fr": "Elles ingèrent de plus petits protistes et bactéries tout en effectuant également la photosynthèse.",
+          "de": "Sie nehmen kleinere Protisten und Bakterien auf und betreiben gleichzeitig Photosynthese.",
+          "ja": "それらはより小さな原生生物やバクテリアを摂取し、同時に光合成も行います。"
+        },
+        "feedback": {
+          "en": "This accurately describes the mixotrophic nature of chlorarachniophytes, combining heterotrophic ingestion with autotrophic photosynthesis.",
+          "zh": "这准确描述了氯虫藻类的混合营养性质，结合了异养摄食和自养光合作用。",
+          "es": "Esto describe con precisión la naturaleza mixotrófica de las cloraracniófitas, combinando la ingestión heterótrofa con la fotosíntesis autótrofa.",
+          "fr": "Cela décrit précisément la nature mixotrophe des chlorarachniophytes, combinant l'ingestion hétérotrophe avec la photosynthèse autotrophe.",
+          "de": "Dies beschreibt genau die mixotrophe Natur der Chlorarachniophyten, die heterotrophe Nahrungsaufnahme mit autotropher Photosynthese verbinden.",
+          "ja": "これは、従属栄養的な摂取と独立栄養的な光合成を組み合わせたクロララクニオフィタの混合栄養的な性質を正確に説明しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They only consume bacteria in aquatic ecosystems.",
+          "zh": "它们只在水生生态系统中消耗细菌。",
+          "es": "Solo consumen bacterias en ecosistemas acuáticos.",
+          "fr": "Elles ne consomment que des bactéries dans les écosystèmes aquatiques.",
+          "de": "Sie verzehren nur Bakterien in aquatischen Ökosystemen.",
+          "ja": "それらは水生生態系でバクテリアのみを消費します。"
+        },
+        "feedback": {
+          "en": "While they do consume bacteria, they also ingest smaller protists and perform photosynthesis, so they do not 'only' consume bacteria.",
+          "zh": "虽然它们确实消耗细菌，但它们也摄食较小的原生生物并进行光合作用，因此它们并非“只”消耗细菌。",
+          "es": "Aunque consumen bacterias, también ingieren protistas más pequeños y realizan fotosíntesis, por lo que no consumen 'solo' bacterias.",
+          "fr": "Bien qu'elles consomment des bactéries, elles ingèrent également de plus petits protistes et effectuent la photosynthèse, donc elles ne consomment pas 'seulement' des bactéries.",
+          "de": "Obwohl sie Bakterien verzehren, nehmen sie auch kleinere Protisten auf und betreiben Photosynthese, sodass sie nicht 'nur' Bakterien verzehren.",
+          "ja": "バクテリアを消費する一方で、より小さな原生生物も摂取し、光合成も行うため、バクテリア『のみ』を消費するわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that chlorarachniophytes 'ingest smaller protists and bacteria as well as perform photosynthesis,' which defines their mixotrophic nature.",
+      "zh": "文本指出，氯虫藻类“摄食较小的原生生物和细菌，同时也能进行光合作用”，这定义了它们的混合营养性质。",
+      "es": "El texto afirma que las cloraracniófitas 'ingieren protistas y bacterias más pequeños, además de realizar fotosíntesis', lo que define su naturaleza mixotrófica.",
+      "fr": "Le texte indique que les chlorarachniophytes « ingèrent de plus petits protistes et bactéries tout en effectuant également la photosynthèse », ce qui définit leur nature mixotrophe.",
+      "de": "Der Text besagt, dass Chlorarachniophyten 'kleinere Protisten und Bakterien aufnehmen und Photosynthese betreiben', was ihre mixotrophe Natur definiert.",
+      "ja": "テキストには、クロララクニオフィタが「より小さな原生生物やバクテリアを摂取し、光合成も行う」と記載されており、これがそれらの混合栄養的性質を定義しています。"
+    }
+  },
+  {
+    "page_number": 658,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the 'Red Algae' section, how does the amount of phycoerythrin affect the color of red algae at different water depths?",
+      "zh": "根据“红藻”部分，藻红素的含量如何影响红藻在不同水深处的颜色？",
+      "es": "Según la sección 'Algas Rojas', ¿cómo afecta la cantidad de ficoeritrina al color de las algas rojas a diferentes profundidades del agua?",
+      "fr": "Selon la section « Algues rouges », comment la quantité de phycoérythrine affecte-t-elle la couleur des algues rouges à différentes profondeurs d'eau ?",
+      "de": "Wie beeinflusst laut dem Abschnitt 'Rotalgen' die Menge an Phycoerythrin die Farbe der Rotalgen in unterschiedlichen Wassertiefen?",
+      "ja": "「紅藻」のセクションによると、フィコエリトリンの量が水深の違いによって紅藻の色にどのように影響しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Higher phycoerythrin concentration makes them appear greener in shallow water.",
+          "zh": "藻红素浓度越高，它们在浅水中显得越绿。",
+          "es": "Una mayor concentración de ficoeritrina las hace parecer más verdes en aguas poco profundas.",
+          "fr": "Une concentration plus élevée de phycoérythrine les rend plus vertes en eau peu profonde.",
+          "de": "Eine höhere Phycoerythrin-Konzentration lässt sie in seichtem Wasser grüner erscheinen.",
+          "ja": "フィコエリトリンの濃度が高いほど、浅い水域ではより緑色に見えます。"
+        },
+        "feedback": {
+          "en": "Less phycoerythrin in shallow water species causes them to appear greenish red, as chlorophyll's green is less masked, not that higher concentration makes them greener.",
+          "zh": "浅水物种的藻红素较少，导致它们呈现绿红色，因为叶绿素的绿色较少被掩盖，而不是浓度越高越绿。",
+          "es": "Menos ficoeritrina en las especies de aguas poco profundas hace que aparezcan de color rojo verdoso, ya que el verde de la clorofila está menos enmascarado, no que una mayor concentración las haga más verdes.",
+          "fr": "Moins de phycoérythrine chez les espèces d'eau peu profonde les rend rouge verdâtre, car le vert de la chlorophylle est moins masqué, et non qu'une concentration plus élevée les rend plus vertes.",
+          "de": "Weniger Phycoerythrin bei Flachwasserarten führt dazu, dass sie grünlich-rot erscheinen, da das Grün des Chlorophylls weniger maskiert ist, und nicht, dass eine höhere Konzentration sie grüner macht.",
+          "ja": "浅い水域の種ではフィコエリトリンが少ないため、クロロフィルの緑がマスクされにくくなり、緑がかった赤色に見えます。濃度が高いほど緑色になるわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Species in shallow water have less phycoerythrin and can appear greenish red.",
+          "zh": "浅水中的物种藻红素较少，可能呈现绿红色。",
+          "es": "Las especies en aguas poco profundas tienen menos ficoeritrina y pueden aparecer de color rojo verdoso.",
+          "fr": "Les espèces en eau peu profonde ont moins de phycoérythrine et peuvent apparaître rouge verdâtre.",
+          "de": "Arten in seichtem Wasser haben weniger Phycoerythrin und können grünlich-rot erscheinen.",
+          "ja": "浅い水域の種はフィコエリトリンが少なく、緑がかった赤色に見えることがあります。"
+        },
+        "feedback": {
+          "en": "This statement is directly supported by the text: 'However, other species (those adapted to shallow water) have less phycoerythrin. As a result, red algal species may be greenish red in very shallow water.'",
+          "zh": "这一说法直接得到文本支持：“然而，其他物种（适应浅水的那些）藻红素较少。结果，红藻物种在非常浅的水中可能呈现绿红色。”",
+          "es": "Esta afirmación está directamente respaldada por el texto: 'Sin embargo, otras especies (las adaptadas a aguas poco profundas) tienen menos ficoeritrina. Como resultado, las especies de algas rojas pueden ser de color rojo verdoso en aguas muy poco profundas.'",
+          "fr": "Cette affirmation est directement étayée par le texte : « Cependant, d'autres espèces (celles adaptées aux eaux peu profondes) ont moins de phycoérythrine. En conséquence, les espèces d'algues rouges peuvent être rouge verdâtre en eaux très peu profondes. »",
+          "de": "Diese Aussage wird direkt durch den Text gestützt: 'Andere Arten (solche, die an seichtes Wasser angepasst sind) haben jedoch weniger Phycoerythrin. Infolgedessen können Rotalgenarten in sehr seichtem Wasser grünlich-rot sein.'",
+          "ja": "この記述はテキストに直接裏付けられています。「しかし、他の種（浅瀬に適応した種）はフィコエリトリンが少ない。その結果、紅藻類は非常に浅い水域では緑がかった赤色に見えることがある。」"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Red algae in deep water maintain their bright red color due to high phycoerythrin.",
+          "zh": "深水中的红藻由于藻红素含量高而保持鲜红色。",
+          "es": "Las algas rojas en aguas profundas mantienen su color rojo brillante debido a la alta ficoeritrina.",
+          "fr": "Les algues rouges en eau profonde conservent leur couleur rouge vif grâce à une forte teneur en phycoérythrine.",
+          "de": "Rotalgen in tiefem Wasser behalten aufgrund des hohen Phycoerythrin-Gehalts ihre leuchtend rote Farbe bei.",
+          "ja": "深海に生息する紅藻は、フィコエリトリンの含有量が高いため、鮮やかな赤色を保ちます。"
+        },
+        "feedback": {
+          "en": "The text states that red algae in deep water are 'almost black', not bright red.",
+          "zh": "文本指出深水中的红藻“几乎是黑色的”，而不是鲜红色。",
+          "es": "El texto afirma que las algas rojas en aguas profundas son 'casi negras', no de color rojo brillante.",
+          "fr": "Le texte indique que les algues rouges en eau profonde sont « presque noires », et non rouge vif.",
+          "de": "Der Text besagt, dass Rotalgen in tiefem Wasser 'fast schwarz' sind, nicht leuchtend rot.",
+          "ja": "テキストには、深海の紅藻は鮮やかな赤色ではなく「ほとんど黒」であると記載されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Some species lack pigmentation entirely and are never red, regardless of depth.",
+          "zh": "有些物种完全没有色素，无论水深如何，都不会呈现红色。",
+          "es": "Algunas especies carecen completamente de pigmentación y nunca son rojas, independientemente de la profundidad.",
+          "fr": "Certaines espèces manquent entièrement de pigmentation et ne sont jamais rouges, quelle que soit la profondeur.",
+          "de": "Einige Arten haben überhaupt keine Pigmentierung und sind unabhängig von der Tiefe niemals rot.",
+          "ja": "一部の種は色素を完全に欠いており、深さに関わらず決して赤色になりません。"
+        },
+        "feedback": {
+          "en": "While some species do lack pigmentation entirely, the question asks about the effect of phycoerythrin on color variation, implying species that do have the pigment.",
+          "zh": "虽然有些物种确实完全没有色素，但问题询问的是藻红素对颜色变化的影响，这暗示的是含有色素的物种。",
+          "es": "Aunque algunas especies carecen completamente de pigmentación, la pregunta se refiere al efecto de la ficoeritrina en la variación del color, lo que implica especies que sí tienen el pigmento.",
+          "fr": "Bien que certaines espèces manquent entièrement de pigmentation, la question porte sur l'effet de la phycoérythrine sur la variation de couleur, ce qui implique des espèces qui possèdent le pigment.",
+          "de": "Obwohl einige Arten überhaupt keine Pigmentierung aufweisen, fragt die Frage nach der Wirkung von Phycoerythrin auf die Farbvariation, was Arten impliziert, die das Pigment besitzen.",
+          "ja": "色素を完全に欠く種もいますが、この質問はフィコエリトリンが色の変化に与える影響について尋ねており、色素を持つ種を前提としています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'However, other species (those adapted to shallow water) have less phycoerythrin. As a result, red algal species may be greenish red in very shallow water, bright red at moderate depths, and almost black in deep water.' This confirms that lower phycoerythrin in shallow water leads to greenish-red hues.",
+      "zh": "文本明确指出：“然而，其他物种（适应浅水的那些）藻红素较少。结果，红藻物种在非常浅的水中可能呈现绿红色，在中等深度呈鲜红色，在深水中几乎呈黑色。”这证实了浅水中较低的藻红素含量会导致绿红色调。",
+      "es": "El texto afirma explícitamente: 'Sin embargo, otras especies (las adaptadas a aguas poco profundas) tienen menos ficoeritrina. Como resultado, las especies de algas rojas pueden ser de color rojo verdoso en aguas muy poco profundas, de color rojo brillante a profundidades moderadas y casi negras en aguas profundas.' Esto confirma que una menor cantidad de ficoeritrina en aguas poco profundas conduce a tonos rojo verdosos.",
+      "fr": "Le texte indique explicitement : « Cependant, d'autres espèces (celles adaptées aux eaux peu profondes) ont moins de phycoérythrine. En conséquence, les espèces d'algues rouges peuvent être rouge verdâtre en eaux très peu profondes, rouge vif à des profondeurs modérées et presque noires en eaux profondes. » Cela confirme qu'une teneur plus faible en phycoérythrine en eau peu profonde conduit à des teintes rouge verdâtre.",
+      "de": "Der Text besagt ausdrücklich: 'Andere Arten (solche, die an seichtes Wasser angepasst sind) haben jedoch weniger Phycoerythrin. Infolgedessen können Rotalgenarten in sehr seichtem Wasser grünlich-rot sein, in mittleren Tiefen leuchtend rot und in tiefem Wasser fast schwarz.' Dies bestätigt, dass weniger Phycoerythrin in seichtem Wasser zu grünlich-roten Farbtönen führt.",
+      "ja": "テキストには「しかし、他の種（浅瀬に適応した種）はフィコエリトリンが少ない。その結果、紅藻類は非常に浅い水域では緑がかった赤色に見え、中程度の深さでは鮮やかな赤色に、深い水域ではほとんど黒色に見えることがある。」と明記されています。これは、浅い水域でのフィコエリトリンの減少が、緑がかった赤色の色合いにつながることを確認しています。"
+    }
+  },
+  {
+    "page_number": 658,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the 'CONCEPT 28.4' section and the accompanying phylogenetic diagram, which statement best describes the Archaeplastida supergroup?",
+      "zh": "根据“概念 28.4”部分和随附的系统发育图，以下哪一项陈述最能描述古光合生物（Archaeplastida）超类群？",
+      "es": "Según la sección 'CONCEPTO 28.4' y el diagrama filogenético adjunto, ¿qué afirmación describe mejor el supergrupo Archaeplastida?",
+      "fr": "Selon la section « CONCEPT 28.4 » et le diagramme phylogénétique l'accompagnant, quelle affirmation décrit le mieux le supergroupe Archaeplastida ?",
+      "de": "Basierend auf dem Abschnitt 'KONZEPT 28.4' und dem begleitenden phylogenetischen Diagramm, welche Aussage beschreibt die Supergruppe Archaeplastida am besten?",
+      "ja": "「CONCEPT 28.4」のセクションと付属の系統樹図に基づくと、アーケプラスチダ超群を最もよく説明しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Archaeplastida is composed of Excavata, SAR, and Unikonta.",
+          "zh": "古光合生物由掘亚门、SAR超群和单鞭毛生物组成。",
+          "es": "Archaeplastida está compuesto por Excavata, SAR y Unikonta.",
+          "fr": "Archaeplastida est composé d'Excavata, de SAR et d'Unikonta.",
+          "de": "Archaeplastida besteht aus Excavata, SAR und Unikonta.",
+          "ja": "アーケプラスチダはエクスカバータ、SAR、およびユニコンタで構成されています。"
+        },
+        "feedback": {
+          "en": "Excavata, SAR, and Unikonta are other distinct eukaryotic supergroups, not components of Archaeplastida.",
+          "zh": "掘亚门、SAR超群和单鞭毛生物是其他独立的真核生物超类群，不是古光合生物的组成部分。",
+          "es": "Excavata, SAR y Unikonta son otros supergrupos eucariotas distintos, no componentes de Archaeplastida.",
+          "fr": "Excavata, SAR et Unikonta sont d'autres supergroupes eucaryotes distincts, non des composants d'Archaeplastida.",
+          "de": "Excavata, SAR und Unikonta sind andere eigenständige eukaryotische Supergruppen, keine Bestandteile der Archaeplastida.",
+          "ja": "エクスカバータ、SAR、ユニコンタは他の異なる真核生物超群であり、アーケプラスチダの構成要素ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It is a monophyletic group including red algae, green algae (Chlorophytes and Charophytes), and plants, originating from an ancient protist that engulfed a cyanobacterium.",
+          "zh": "它是一个包括红藻、绿藻（绿藻植物和轮藻植物）和植物的单系群，起源于吞噬蓝细菌的古老原生生物。",
+          "es": "Es un grupo monofilético que incluye algas rojas, algas verdes (Clorofitas y Carofitas) y plantas, originado a partir de un protista antiguo que engulló una cianobacteria.",
+          "fr": "C'est un groupe monophylétique comprenant les algues rouges, les algues vertes (Chlorophytes et Charophytes) et les plantes, issu d'un protiste ancien qui a englouti une cyanobactérie.",
+          "de": "Es ist eine monophyletische Gruppe, die Rotalgen, Grünalgen (Chlorophyten und Charophyten) und Pflanzen umfasst, entstanden aus einem alten Protisten, der ein Cyanobakterium verschlang.",
+          "ja": "それは紅藻、緑藻（緑藻植物とシャジクモ植物）、および植物を含む単系統群であり、シアノバクテリアを取り込んだ古代の原生生物に由来します。"
+        },
+        "feedback": {
+          "en": "This statement accurately synthesizes the definition and origin of Archaeplastida as described in the text and illustrated in the diagram.",
+          "zh": "这一陈述准确地综合了文本中描述并在图表中说明的古光合生物的定义和起源。",
+          "es": "Esta afirmación sintetiza con precisión la definición y el origen de Archaeplastida tal como se describe en el texto y se ilustra en el diagrama.",
+          "fr": "Cette affirmation synthétise avec précision la définition et l'origine d'Archaeplastida telles que décrites dans le texte et illustrées dans le diagramme.",
+          "de": "Diese Aussage fasst die Definition und den Ursprung der Archaeplastida, wie sie im Text beschrieben und im Diagramm dargestellt werden, präzise zusammen.",
+          "ja": "この記述は、テキストで説明され、図に示されているアーケプラスチダの定義と起源を正確に統合しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The plastids of Archaeplastida evolved from a heterotrophic protist acquiring a eukaryotic endosymbiont.",
+          "zh": "古光合生物的质体是由异养原生生物获得真核内共生体而进化的。",
+          "es": "Los plastos de Archaeplastida evolucionaron a partir de un protista heterótrofo que adquirió un endosimbionte eucariota.",
+          "fr": "Les plastes des Archaeplastida ont évolué à partir d'un protiste hétérotrophe acquérant un endosymbionte eucaryote.",
+          "de": "Die Plastiden der Archaeplastida entwickelten sich aus einem heterotrophen Protisten, der einen eukaryotischen Endosymbionten aufnahm.",
+          "ja": "アーケプラスチダの色素体は、従属栄養性の原生生物が真核生物の共生体を取り込むことで進化しました。"
+        },
+        "feedback": {
+          "en": "The text states that plastids arose from a heterotrophic protist acquiring a *cyanobacterial* endosymbiont, not a eukaryotic one.",
+          "zh": "文本指出，质体是由异养原生生物获得“蓝细菌”内共生体，而不是真核生物内共生体而产生的。",
+          "es": "El texto afirma que los plastos surgieron de un protista heterótrofo que adquirió un endosimbionte *cianobacteriano*, no eucariota.",
+          "fr": "Le texte indique que les plastes sont apparus à partir d'un protiste hétérotrophe ayant acquis un endosymbionte *cyanobactérien*, et non un eucaryote.",
+          "de": "Der Text besagt, dass Plastiden aus einem heterotrophen Protisten entstanden, der einen *cyanobakteriellen* Endosymbionten aufnahm, nicht einen eukaryotischen.",
+          "ja": "テキストによると、色素体は、従属栄養性の原生生物が『シアノバクテリア』の共生体を取り込むことで生じたのであり、真核生物ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Green algae within Archaeplastida gave rise to red algae.",
+          "zh": "古光合生物中的绿藻产生了红藻。",
+          "es": "Las algas verdes dentro de Archaeplastida dieron origen a las algas rojas.",
+          "fr": "Les algues vertes au sein des Archaeplastida ont donné naissance aux algues rouges.",
+          "de": "Grünalgen innerhalb der Archaeplastida entwickelten sich zu Rotalgen.",
+          "ja": "アーケプラスチダ内の緑藻が紅藻を生じさせました。"
+        },
+        "feedback": {
+          "en": "The text indicates that photosynthetic descendants evolved into both red algae and green algae, and then the lineage producing green algae gave rise to plants, not green algae giving rise to red algae.",
+          "zh": "文本指出，光合作用后代进化成了红藻和绿藻，然后产生绿藻的谱系又产生了植物，而不是绿藻产生了红藻。",
+          "es": "El texto indica que los descendientes fotosintéticos evolucionaron tanto en algas rojas como en algas verdes, y luego el linaje que produjo algas verdes dio origen a las plantas, no las algas verdes a las algas rojas.",
+          "fr": "Le texte indique que les descendants photosynthétiques ont évolué à la fois en algues rouges et en algues vertes, puis la lignée produisant des algues vertes a donné naissance aux plantes, et non les algues vertes aux algues rouges.",
+          "de": "Der Text weist darauf hin, dass photosynthetische Nachfahren sowohl zu Rotalgen als auch zu Grünalgen entwickelten, und dann die Linie, die Grünalgen produzierte, Pflanzen hervorbrachte, nicht aber Grünalgen, die Rotalgen hervorbrachten.",
+          "ja": "テキストによると、光合成性の末裔は紅藻と緑藻の両方に進化し、その後、緑藻を生み出した系統が植物を生じさせたとされており、緑藻が紅藻を生じさせたわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'red algae, green algae, and plants make up our third eukaryotic supergroup, which is called Archaeplastida. Archaeplastida is a monophyletic group that descended from the ancient protist that engulfed a cyanobacterium.' The diagram visually supports the grouping of red algae, chlorophytes, charophytes, and plants under Archaeplastida.",
+      "zh": "文本指出：“红藻、绿藻和植物构成了我们的第三个真核生物超类群，称为古光合生物。古光合生物是一个单系群，起源于吞噬蓝细菌的古老原生生物。”该图表直观地支持了红藻、绿藻植物、轮藻植物和植物被归类为古光合生物的说法。",
+      "es": "El texto afirma: 'las algas rojas, las algas verdes y las plantas constituyen nuestro tercer supergrupo eucariota, que se llama Archaeplastida. Archaeplastida es un grupo monofilético que descendió del antiguo protista que engulló una cianobacteria.' El diagrama apoya visualmente la agrupación de algas rojas, clorofitas, carofitas y plantas bajo Archaeplastida.",
+      "fr": "Le texte déclare : « les algues rouges, les algues vertes et les plantes constituent notre troisième supergroupe eucaryote, appelé Archaeplastida. Archaeplastida est un groupe monophylétique descendant de l'ancien protiste qui a englouti une cyanobactérie. » Le diagramme soutient visuellement le regroupement des algues rouges, des chlorophytes, des charophytes et des plantes sous Archaeplastida.",
+      "de": "Der Text besagt: 'Rotalgen, Grünalgen und Pflanzen bilden unsere dritte eukaryotische Supergruppe, die Archaeplastida genannt wird. Archaeplastida ist eine monophyletische Gruppe, die von dem alten Protisten abstammt, der ein Cyanobakterium verschlang.' Das Diagramm unterstützt visuell die Gruppierung von Rotalgen, Chlorophyten, Charophyten und Pflanzen unter Archaeplastida.",
+      "ja": "テキストには、「紅藻、緑藻、および植物は、アーケプラスチダと呼ばれる私たちの第三の真核生物超群を構成します。アーケプラスチダは、シアノバクテリアを取り込んだ古代の原生生物に由来する単系統群です。」と記されています。この図は、紅藻、緑藻植物、シャジクモ植物、および植物がアーケプラスチダの下にグループ化されていることを視覚的に裏付けています。"
+    }
+  },
+  {
+    "page_number": 658,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which red alga is explicitly mentioned as the source of 'nori,' a traditional Japanese food used for sushi?",
+      "zh": "哪种红藻被明确提及是“海苔”（一种用于寿司的传统日本食品）的来源？",
+      "es": "¿Qué alga roja se menciona explícitamente como la fuente de 'nori', un alimento tradicional japonés utilizado para el sushi?",
+      "fr": "Quelle algue rouge est explicitement mentionnée comme la source de « nori », un aliment traditionnel japonais utilisé pour les sushis ?",
+      "de": "Welche Rotalge wird explizit als Quelle von 'Nori' erwähnt, einem traditionellen japanischen Lebensmittel, das für Sushi verwendet wird?",
+      "ja": "寿司に使われる伝統的な日本食「海苔」の原料として明示されている紅藻は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Bonnemaisonia hamifera",
+          "zh": "哈氏骨条藻",
+          "es": "Bonnemaisonia hamifera",
+          "fr": "Bonnemaisonia hamifera",
+          "de": "Bonnemaisonia hamifera",
+          "ja": "ボネメゾニア・ハミフェラ"
+        },
+        "feedback": {
+          "en": "Bonnemaisonia hamifera is a red alga with a filamentous form, but it is not described as the source of nori.",
+          "zh": "哈氏骨条藻是一种丝状红藻，但它没有被描述为海苔的来源。",
+          "es": "Bonnemaisonia hamifera es un alga roja con forma filamentosa, pero no se describe como la fuente de nori.",
+          "fr": "Bonnemaisonia hamifera est une algue rouge filamenteuse, mais elle n'est pas décrite comme la source du nori.",
+          "de": "Bonnemaisonia hamifera ist eine Rotalge mit fadenförmiger Struktur, wird aber nicht als Quelle von Nori beschrieben.",
+          "ja": "ボネメゾニア・ハミフェラは糸状の紅藻ですが、海苔の原料とは記述されていません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Dulse (Palmaria palmata)",
+          "zh": "掌状红皮藻（Dulse）",
+          "es": "Dulse (Palmaria palmata)",
+          "fr": "Dulse (Palmaria palmata)",
+          "de": "Dulse (Palmaria palmata)",
+          "ja": "ダルス（パルマリア・パルマタ）"
+        },
+        "feedback": {
+          "en": "Dulse (Palmaria palmata) is an edible red alga with a leafy form, but it is not the source of nori for sushi.",
+          "zh": "掌状红皮藻（Dulse）是一种可食用的叶状红藻，但它不是寿司海苔的来源。",
+          "es": "Dulse (Palmaria palmata) es un alga roja comestible con forma de hoja, pero no es la fuente de nori para sushi.",
+          "fr": "Le Dulse (Palmaria palmata) est une algue rouge comestible de forme feuillue, mais ce n'est pas la source du nori pour les sushis.",
+          "de": "Dulse (Palmaria palmata) ist eine essbare, blättrige Rotalge, aber nicht die Quelle von Nori für Sushi.",
+          "ja": "ダルス（パルマリア・パルマタ）は食用で葉状の紅藻ですが、寿司海苔の原料ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Porphyra",
+          "zh": "紫菜（Porphyra）",
+          "es": "Porphyra",
+          "fr": "Porphyra",
+          "de": "Porphyra",
+          "ja": "ポルフィラ"
+        },
+        "feedback": {
+          "en": "The text explicitly states: 'Nori. The red alga Porphyra is the source of a traditional Japanese food.'",
+          "zh": "文本明确指出：“海苔。红藻紫菜（Porphyra）是一种传统日本食品的来源。”",
+          "es": "El texto afirma explícitamente: 'Nori. El alga roja Porphyra es la fuente de un alimento tradicional japonés.'",
+          "fr": "Le texte déclare explicitement : « Nori. L'algue rouge Porphyra est la source d'un aliment japonais traditionnel. »",
+          "de": "Der Text besagt ausdrücklich: 'Nori. Die Rotalge Porphyra ist die Quelle eines traditionellen japanischen Lebensmittels.'",
+          "ja": "テキストには「海苔。紅藻ポルフィラは、日本の伝統的な食品の原料である。」と明記されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Paulinella chromatophora",
+          "zh": "嗜色类囊藻",
+          "es": "Paulinella chromatophora",
+          "fr": "Paulinella chromatophora",
+          "de": "Paulinella chromatophora",
+          "ja": "パウリネラ・クロマタフォラ"
+        },
+        "feedback": {
+          "en": "Paulinella chromatophora is a cercozoan, not a red alga, and is known for its unique plastid origin, not as a food source.",
+          "zh": "嗜色类囊藻是一种氯虫藻，不是红藻，它以其独特的质体起源而闻名，并非作为食物来源。",
+          "es": "Paulinella chromatophora es un cercozoo, no un alga roja, y es conocida por el origen único de su plasto, no como fuente de alimento.",
+          "fr": "Paulinella chromatophora est une cercozoaire, non une algue rouge, et est connue pour son origine unique de plaste, non comme source de nourriture.",
+          "de": "Paulinella chromatophora ist ein Cercozoon, keine Rotalge, und ist für ihre einzigartige Plastidenherkunft bekannt, nicht als Nahrungsquelle.",
+          "ja": "パウリネラ・クロマタフォラは紅藻ではなくセルコゾアンであり、食用ではなく、そのユニークな色素体の起源で知られています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The figure caption for 'Nori' explicitly states: 'The red alga Porphyra is the source of a traditional Japanese food.'",
+      "zh": "“海苔”的图例明确指出：“红藻紫菜（Porphyra）是一种传统日本食品的来源。”",
+      "es": "El pie de figura para 'Nori' afirma explícitamente: 'El alga roja Porphyra es la fuente de un alimento tradicional japonés.'",
+      "fr": "La légende de la figure pour « Nori » indique explicitement : « L'algue rouge Porphyra est la source d'un aliment japonais traditionnel. »",
+      "de": "Die Bildunterschrift für 'Nori' besagt explizit: 'Die Rotalge Porphyra ist die Quelle eines traditionellen japanischen Lebensmittels.'",
+      "ja": "「海苔」の図のキャプションには、「紅藻ポルフィラは日本の伝統的な食品の原料である」と明記されています。"
+    }
+  }
+]

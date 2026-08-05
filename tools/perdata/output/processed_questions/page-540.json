@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 540,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the \"DRAW IT\" section and Figure 23.7, if a bin contains six white balls (representing CW alleles) and the frequency of CR alleles needs to remain 0.8 (80%), how many red balls (representing CR alleles) should be in the bin?",
+      "zh": "根据“DRAW IT”部分和图23.7，如果一个箱子包含六个白球（代表CW等位基因），并且CR等位基因的频率需要保持在0.8（80%），那么箱子中应该有多少个红球（代表CR等位基因）？",
+      "es": "Según la sección \"DRAW IT\" y la Figura 23.7, si un contenedor tiene seis bolas blancas (que representan los alelos CW) y la frecuencia de los alelos CR debe permanecer en 0.8 (80%), ¿cuántas bolas rojas (que representan los alelos CR) debería haber en el contenedor?",
+      "fr": "D'après la section \"DRAW IT\" et la Figure 23.7, si un bac contient six billes blanches (représentant les allèles CW) et que la fréquence des allèles CR doit rester de 0,8 (80%), combien de billes rouges (représentant les allèles CR) ce bac devrait-il contenir ?",
+      "de": "Basierend auf dem Abschnitt „DRAW IT“ und Abbildung 23.7: Wenn ein Behälter sechs weiße Kugeln (die CW-Allele repräsentieren) enthält und die Frequenz der CR-Allele 0,8 (80%) bleiben soll, wie viele rote Kugeln (die CR-Allele repräsentieren) sollten sich in dem Behälter befinden?",
+      "ja": "「DRAW IT」のセクションと図23.7に基づき、もしビンに6つの白いボール（CW対立遺伝子を表す）が含まれており、CR対立遺伝子の頻度を0.8（80%）に維持する必要がある場合、ビンには何個の赤いボール（CR対立遺伝子を表す）があるべきですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "18",
+          "zh": "18",
+          "es": "18",
+          "fr": "18",
+          "de": "18",
+          "ja": "18"
+        },
+        "feedback": {
+          "en": "This is incorrect. Recheck your calculation for the total number of balls and the proportion of red balls.",
+          "zh": "这是不正确的。请重新检查您对球总数和红球比例的计算。",
+          "es": "Esto es incorrecto. Vuelva a comprobar su cálculo del número total de bolas y la proporción de bolas rojas.",
+          "fr": "Ceci est incorrect. Vérifiez à nouveau votre calcul du nombre total de billes et de la proportion de billes rouges.",
+          "de": "Das ist falsch. Überprüfen Sie Ihre Berechnung der Gesamtzahl der Kugeln und des Anteils der roten Kugeln erneut.",
+          "ja": "これは正しくありません。ボールの総数と赤いボールの割合の計算を再確認してください。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "24",
+          "zh": "24",
+          "es": "24",
+          "fr": "24",
+          "de": "24",
+          "ja": "24"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "30",
+          "zh": "30",
+          "es": "30",
+          "fr": "30",
+          "de": "30",
+          "ja": "30"
+        },
+        "feedback": {
+          "en": "This represents the total number of balls, not just the red ones.",
+          "zh": "这代表的是球的总数，而不仅仅是红球。",
+          "es": "Esto representa el número total de bolas, no solo las rojas.",
+          "fr": "Ceci représente le nombre total de billes, pas seulement les rouges.",
+          "de": "Dies stellt die Gesamtzahl der Kugeln dar, nicht nur die roten.",
+          "ja": "これは赤いボールだけでなく、ボールの総数を表しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "4",
+          "zh": "4",
+          "es": "4",
+          "fr": "4",
+          "de": "4",
+          "ja": "4"
+        },
+        "feedback": {
+          "en": "This is the original number of white balls in Figure 23.7, not relevant to the modified problem.",
+          "zh": "这是图23.7中白球的原始数量，与修改后的问题无关。",
+          "es": "Este es el número original de bolas blancas en la Figura 23.7, no es relevante para el problema modificado.",
+          "fr": "C'est le nombre original de billes blanches dans la Figure 23.7, sans rapport avec le problème modifié.",
+          "de": "Dies ist die ursprüngliche Anzahl der weißen Kugeln in Abbildung 23.7, was für das modifizierte Problem nicht relevant ist.",
+          "ja": "これは図23.7の白いボールの元の数であり、修正された問題とは関係ありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "If there are 6 white balls (CW alleles) and they represent 20% (0.2) of the total alleles, then the total number of balls (N) can be calculated as 6 / 0.2 = 30. If CR alleles constitute 80% (0.8) of the total, then the number of red balls (CR alleles) should be 0.8 * 30 = 24.",
+      "zh": "如果有6个白球（CW等位基因），它们占总等位基因的20%（0.2），那么球的总数（N）可以计算为6 / 0.2 = 30。如果CR等位基因占总数的80%（0.8），那么红球（CR等位基因）的数量应该是0.8 * 30 = 24。",
+      "es": "Si hay 6 bolas blancas (alelos CW) y representan el 20% (0.2) del total de alelos, entonces el número total de bolas (N) se puede calcular como 6 / 0.2 = 30. Si los alelos CR constituyen el 80% (0.8) del total, entonces el número de bolas rojas (alelos CR) debería ser 0.8 * 30 = 24.",
+      "fr": "S'il y a 6 billes blanches (allèles CW) et qu'elles représentent 20% (0,2) du total des allèles, alors le nombre total de billes (N) peut être calculé comme 6 / 0,2 = 30. Si les allèles CR constituent 80% (0,8) du total, alors le nombre de billes rouges (allèles CR) devrait être de 0,8 * 30 = 24.",
+      "de": "Wenn es 6 weiße Kugeln (CW-Allele) gibt und diese 20% (0,2) der gesamten Allele repräsentieren, dann kann die Gesamtzahl der Kugeln (N) als 6 / 0,2 = 30 berechnet werden. Wenn CR-Allele 80% (0,8) der Gesamtzahl ausmachen, dann sollte die Anzahl der roten Kugeln (CR-Allele) 0,8 * 30 = 24 betragen.",
+      "ja": "6個の白いボール（CW対立遺伝子）があり、それらが対立遺伝子の総数の20%（0.2）を占める場合、ボールの総数（N）は6 / 0.2 = 30と計算できます。CR対立遺伝子が総数の80%（0.8）を占める場合、赤いボール（CR対立遺伝子）の数は0.8 * 30 = 24であるべきです。"
+    }
+  },
+  {
+    "page_number": 540,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "In a population in Hardy-Weinberg equilibrium, if the frequency of the CR allele (p) is 0.8 and the CW allele (q) is 0.2, what are the expected frequencies of the CRCR, CRCW, and CWCW genotypes in the next generation, respectively?",
+      "zh": "在一个处于哈迪-温伯格平衡的群体中，如果CR等位基因（p）的频率为0.8，CW等位基因（q）的频率为0.2，那么下一代中CRCR、CRCW和CWCW基因型的预期频率分别是什么？",
+      "es": "En una población en equilibrio de Hardy-Weinberg, si la frecuencia del alelo CR (p) es 0.8 y la del alelo CW (q) es 0.2, ¿cuáles son las frecuencias esperadas de los genotipos CRCR, CRCW y CWCW en la siguiente generación, respectivamente?",
+      "fr": "Dans une population en équilibre de Hardy-Weinberg, si la fréquence de l'allèle CR (p) est de 0,8 et celle de l'allèle CW (q) est de 0,2, quelles sont les fréquences attendues des génotypes CRCR, CRCW et CWCW dans la génération suivante, respectivement ?",
+      "de": "In einer Population im Hardy-Weinberg-Gleichgewicht, wenn die Frequenz des CR-Allels (p) 0,8 und die des CW-Allels (q) 0,2 beträgt, welche sind dann die erwarteten Frequenzen der CRCR-, CRCW- und CWCW-Genotypen in der nächsten Generation, jeweils?",
+      "ja": "ハーディ・ワインバーグ平衡にある集団において、CR対立遺伝子（p）の頻度が0.8、CW対立遺伝子（q）の頻度が0.2である場合、次世代におけるCRCR、CRCW、CWCWの各遺伝子型の予想頻度はそれぞれどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "80% CRCR, 20% CWCW, 0% CRCW",
+          "zh": "80% CRCR, 20% CWCW, 0% CRCW",
+          "es": "80% CRCR, 20% CWCW, 0% CRCW",
+          "fr": "80% CRCR, 20% CWCW, 0% CRCW",
+          "de": "80% CRCR, 20% CWCW, 0% CRCW",
+          "ja": "CRCR 80%、CWCW 20%、CRCW 0%"
+        },
+        "feedback": {
+          "en": "These are allele frequencies, not genotype frequencies. Remember to consider heterozygotes.",
+          "zh": "这些是等位基因频率，而不是基因型频率。请记住要考虑杂合子。",
+          "es": "Estas son frecuencias alélicas, no frecuencias genotípicas. Recuerde considerar los heterocigotos.",
+          "fr": "Ce sont des fréquences alléliques, pas des fréquences génotypiques. N'oubliez pas de considérer les hétérozygotes.",
+          "de": "Dies sind Allelfrequenzen, nicht Genotypfrequenzen. Denken Sie daran, Heterozygote zu berücksichtigen.",
+          "ja": "これらは対立遺伝子頻度であり、遺伝子型頻度ではありません。ヘテロ接合体を考慮してください。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "64% CRCR, 32% CRCW, 4% CWCW",
+          "zh": "64% CRCR, 32% CRCW, 4% CWCW",
+          "es": "64% CRCR, 32% CRCW, 4% CWCW",
+          "fr": "64% CRCR, 32% CRCW, 4% CWCW",
+          "de": "64% CRCR, 32% CRCW, 4% CWCW",
+          "ja": "CRCR 64%、CRCW 32%、CWCW 4%"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "64% CRCR, 16% CRCW, 4% CWCW",
+          "zh": "64% CRCR, 16% CRCW, 4% CWCW",
+          "es": "64% CRCR, 16% CRCW, 4% CWCW",
+          "fr": "64% CRCR, 16% CRCW, 4% CWCW",
+          "de": "64% CRCR, 16% CRCW, 4% CWCW",
+          "ja": "CRCR 64%、CRCW 16%、CWCW 4%"
+        },
+        "feedback": {
+          "en": "The frequency of heterozygotes is 2pq, not just pq. Remember to account for both ways CRCW can form.",
+          "zh": "杂合子的频率是2pq，而不仅仅是pq。请记住要考虑CRCW形成的两种方式。",
+          "es": "La frecuencia de los heterocigotos es 2pq, no solo pq. Recuerde considerar ambas formas en que puede formarse CRCW.",
+          "fr": "La fréquence des hétérozygotes est 2pq, et non seulement pq. N'oubliez pas de prendre en compte les deux façons dont CRCW peut se former.",
+          "de": "Die Häufigkeit von Heterozygoten ist 2pq, nicht nur pq. Denken Sie daran, beide Wege zu berücksichtigen, auf denen CRCW entstehen kann.",
+          "ja": "ヘテロ接合体の頻度はpqだけでなく2pqです。CRCWが形成される両方の方法を考慮することを忘れないでください。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "32% CRCR, 64% CRCW, 4% CWCW",
+          "zh": "32% CRCR, 64% CRCW, 4% CWCW",
+          "es": "32% CRCR, 64% CRCW, 4% CWCW",
+          "fr": "32% CRCR, 64% CRCW, 4% CWCW",
+          "de": "32% CRCR, 64% CRCW, 4% CWCW",
+          "ja": "CRCR 32%、CRCW 64%、CWCW 4%"
+        },
+        "feedback": {
+          "en": "The calculation for homozygous dominant (p^2) is incorrect.",
+          "zh": "纯合显性（p^2）的计算不正确。",
+          "es": "El cálculo para el homocigoto dominante (p^2) es incorrecto.",
+          "fr": "Le calcul pour l'homozygote dominant (p^2) est incorrect.",
+          "de": "Die Berechnung für den homozygot dominanten (p^2) ist falsch.",
+          "ja": "ホモ接合型優性（p^2）の計算が間違っています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "According to the Hardy-Weinberg principle, the genotype frequencies are calculated as: CRCR = p² = (0.8)² = 0.64 (64%); CRCW = 2pq = 2 * 0.8 * 0.2 = 0.32 (32%); CWCW = q² = (0.2)² = 0.04 (4%).",
+      "zh": "根据哈迪-温伯格原理，基因型频率计算如下：CRCR = p² = (0.8)² = 0.64 (64%)；CRCW = 2pq = 2 * 0.8 * 0.2 = 0.32 (32%)；CWCW = q² = (0.2)² = 0.04 (4%)。",
+      "es": "Según el principio de Hardy-Weinberg, las frecuencias genotípicas se calculan como: CRCR = p² = (0.8)² = 0.64 (64%); CRCW = 2pq = 2 * 0.8 * 0.2 = 0.32 (32%); CWCW = q² = (0.2)² = 0.04 (4%).",
+      "fr": "Selon le principe de Hardy-Weinberg, les fréquences génotypiques sont calculées comme suit : CRCR = p² = (0,8)² = 0,64 (64%) ; CRCW = 2pq = 2 * 0,8 * 0,2 = 0,32 (32%) ; CWCW = q² = (0,2)² = 0,04 (4%).",
+      "de": "Gemäß dem Hardy-Weinberg-Prinzip werden die Genotypfrequenzen wie folgt berechnet: CRCR = p² = (0,8)² = 0,64 (64%); CRCW = 2pq = 2 * 0,8 * 0,2 = 0,32 (32%); CWCW = q² = (0,2)² = 0,04 (4%).",
+      "ja": "ハーディ・ワインバーグの原理によると、遺伝子型頻度は以下のように計算されます。CRCR = p² = (0.8)² = 0.64 (64%)。CRCW = 2pq = 2 * 0.8 * 0.2 = 0.32 (32%)。CWCW = q² = (0.2)² = 0.04 (4%)。"
+    }
+  },
+  {
+    "page_number": 540,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Referring to the \"WHAT IF?\" section and assuming a population is in Hardy-Weinberg equilibrium, if the frequency of the CR allele (p) were 0.6, what would be the predicted frequencies of the CRCR, CRCW, and CWCW genotypes?",
+      "zh": "参考“WHAT IF?”部分并假设一个群体处于哈迪-温伯格平衡，如果CR等位基因（p）的频率为0.6，那么CRCR、CRCW和CWCW基因型的预测频率将是多少？",
+      "es": "Refiriéndose a la sección \"¿Y SI?\" y asumiendo que una población está en equilibrio de Hardy-Weinberg, si la frecuencia del alelo CR (p) fuera 0.6, ¿cuáles serían las frecuencias predichas de los genotipos CRCR, CRCW y CWCW?",
+      "fr": "En vous référant à la section « ET SI ? » et en supposant qu'une population est en équilibre de Hardy-Weinberg, si la fréquence de l'allèle CR (p) était de 0,6, quelles seraient les fréquences prédites des génotypes CRCR, CRCW et CWCW ?",
+      "de": "Unter Bezugnahme auf den Abschnitt „WAS WÄRE WENN?“ und unter Annahme, dass eine Population im Hardy-Weinberg-Gleichgewicht ist: Wenn die Frequenz des CR-Allels (p) 0,6 betragen würde, welche wären dann die vorhergesagten Frequenzen der CRCR-, CRCW- und CWCW-Genotypen?",
+      "ja": "「もしも？」のセクションを参照し、集団がハーディ・ワインバーグ平衡にあると仮定して、CR対立遺伝子（p）の頻度が0.6であった場合、CRCR、CRCW、CWCWの遺伝子型の予測される頻度はそれぞれどうなりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "36% CRCR, 48% CRCW, 16% CWCW",
+          "zh": "36% CRCR, 48% CRCW, 16% CWCW",
+          "es": "36% CRCR, 48% CRCW, 16% CWCW",
+          "fr": "36% CRCR, 48% CRCW, 16% CWCW",
+          "de": "36% CRCR, 48% CRCW, 16% CWCW",
+          "ja": "CRCR 36%、CRCW 48%、CWCW 16%"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "60% CRCR, 40% CRCW, 0% CWCW",
+          "zh": "60% CRCR, 40% CRCW, 0% CWCW",
+          "es": "60% CRCR, 40% CRCW, 0% CWCW",
+          "fr": "60% CRCR, 40% CRCW, 0% CWCW",
+          "de": "60% CRCR, 40% CRCW, 0% CWCW",
+          "ja": "CRCR 60%、CRCW 40%、CWCW 0%"
+        },
+        "feedback": {
+          "en": "This answer incorrectly uses allele frequencies as genotype frequencies and neglects the homozygous recessive genotype.",
+          "zh": "此答案错误地将等位基因频率用作基因型频率，并忽略了纯合隐性基因型。",
+          "es": "Esta respuesta utiliza incorrectamente las frecuencias alélicas como frecuencias genotípicas y descuida el genotipo homocigótico recesivo.",
+          "fr": "Cette réponse utilise incorrectement les fréquences alléliques comme fréquences génotypiques et néglige le génotype homozygote récessif.",
+          "de": "Diese Antwort verwendet Allelfrequenzen fälschlicherweise als Genotypfrequenzen und vernachlässigt den homozygot rezessiven Genotyp.",
+          "ja": "この回答は、対立遺伝子頻度を遺伝子型頻度として誤って使用しており、ホモ接合体劣性遺伝子型を無視しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "36% CRCR, 16% CRCW, 48% CWCW",
+          "zh": "36% CRCR, 16% CRCW, 48% CWCW",
+          "es": "36% CRCR, 16% CRCW, 48% CWCW",
+          "fr": "36% CRCR, 16% CRCW, 48% CWCW",
+          "de": "36% CRCR, 16% CRCW, 48% CWCW",
+          "ja": "CRCR 36%、CRCW 16%、CWCW 48%"
+        },
+        "feedback": {
+          "en": "The frequency of heterozygotes (2pq) and homozygous recessive (q^2) are swapped.",
+          "zh": "杂合子（2pq）和纯合隐性（q^2）的频率颠倒了。",
+          "es": "Las frecuencias de heterocigotos (2pq) y homocigotos recesivos (q^2) están intercambiadas.",
+          "fr": "Les fréquences des hétérozygotes (2pq) et des homozygotes récessifs (q^2) sont inversées.",
+          "de": "Die Häufigkeit von Heterozygoten (2pq) und Homozygoten rezessiv (q^2) ist vertauscht.",
+          "ja": "ヘテロ接合体（2pq）とホモ接合体劣性（q^2）の頻度が入れ替わっています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "24% CRCR, 48% CRCW, 28% CWCW",
+          "zh": "24% CRCR, 48% CRCW, 28% CWCW",
+          "es": "24% CRCR, 48% CRCW, 28% CWCW",
+          "fr": "24% CRCR, 48% CRCW, 28% CWCW",
+          "de": "24% CRCR, 48% CRCW, 28% CWCW",
+          "ja": "CRCR 24%、CRCW 48%、CWCW 28%"
+        },
+        "feedback": {
+          "en": "There are calculation errors in the frequencies of both homozygous genotypes.",
+          "zh": "两种纯合基因型的频率计算都存在错误。",
+          "es": "Hay errores de cálculo en las frecuencias de ambos genotipos homocigóticos.",
+          "fr": "Il y a des erreurs de calcul dans les fréquences des deux génotypes homozygotes.",
+          "de": "Es liegen Berechnungsfehler bei den Frequenzen beider homozygoter Genotypen vor.",
+          "ja": "両方のホモ接合体遺伝子型の頻度計算に誤りがあります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "If the frequency of the CR allele (p) is 0.6, then the frequency of the CW allele (q) must be 1 - 0.6 = 0.4. Using the Hardy-Weinberg equations:\nCRCR = p² = (0.6)² = 0.36 (36%)\nCRCW = 2pq = 2 * 0.6 * 0.4 = 0.48 (48%)\nCWCW = q² = (0.4)² = 0.16 (16%)",
+      "zh": "如果CR等位基因（p）的频率为0.6，那么CW等位基因（q）的频率必须是1 - 0.6 = 0.4。使用哈迪-温伯格方程：\nCRCR = p² = (0.6)² = 0.36 (36%)\nCRCW = 2pq = 2 * 0.6 * 0.4 = 0.48 (48%)\nCWCW = q² = (0.4)² = 0.16 (16%)",
+      "es": "Si la frecuencia del alelo CR (p) es 0.6, entonces la frecuencia del alelo CW (q) debe ser 1 - 0.6 = 0.4. Usando las ecuaciones de Hardy-Weinberg:\nCRCR = p² = (0.6)² = 0.36 (36%)\nCRCW = 2pq = 2 * 0.6 * 0.4 = 0.48 (48%)\nCWCW = q² = (0.4)² = 0.16 (16%)",
+      "fr": "Si la fréquence de l'allèle CR (p) est de 0,6, alors la fréquence de l'allèle CW (q) doit être de 1 - 0,6 = 0,4. En utilisant les équations de Hardy-Weinberg :\nCRCR = p² = (0,6)² = 0,36 (36%)\nCRCW = 2pq = 2 * 0,6 * 0,4 = 0,48 (48%)\nCWCW = q² = (0,4)² = 0,16 (16%)",
+      "de": "Wenn die Frequenz des CR-Allels (p) 0,6 beträgt, dann muss die Frequenz des CW-Allels (q) 1 - 0,6 = 0,4 betragen. Mit den Hardy-Weinberg-Gleichungen:\nCRCR = p² = (0,6)² = 0,36 (36%)\nCRCW = 2pq = 2 * 0,6 * 0,4 = 0,48 (48%)\nCWCW = q² = (0,4)² = 0,16 (16%)",
+      "ja": "CR対立遺伝子（p）の頻度が0.6の場合、CW対立遺伝子（q）の頻度は1 - 0.6 = 0.4でなければなりません。ハーディ・ワインバーグの式を使用すると、以下のようになります。\nCRCR = p² = (0.6)² = 0.36 (36%)\nCRCW = 2pq = 2 * 0.6 * 0.4 = 0.48 (48%)\nCWCW = q² = (0.4)² = 0.16 (16%)"
+    }
+  }
+]

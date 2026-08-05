@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 513,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the primary function of the homeodomain protein?",
+      "zh": "同源结构域蛋白的主要功能是什么？",
+      "es": "¿Cuál es la función principal de la proteína homeodominio?",
+      "fr": "Quelle est la fonction principale de la protéine homéodomaine ?",
+      "de": "Was ist die Hauptfunktion des Homöodomänenproteins?",
+      "ja": "ホメオドメインタンパク質の主な機能は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Catalyzing metabolic reactions.",
+          "zh": "催化代谢反应。",
+          "es": "Catalizar reacciones metabólicas.",
+          "fr": "Catalyser les réactions métaboliques.",
+          "de": "Stoffwechselreaktionen katalysieren.",
+          "ja": "代謝反応を触媒すること。"
+        },
+        "feedback": {
+          "en": "The homeodomain is a DNA-binding domain, not an enzyme for metabolic reactions.",
+          "zh": "同源结构域是DNA结合域，而非代谢反应的酶。",
+          "es": "El homeodominio es un dominio de unión al ADN, no una enzima para reacciones metabólicas.",
+          "fr": "L'homéodomaine est un domaine de liaison à l'ADN, pas une enzyme pour les réactions métaboliques.",
+          "de": "Die Homöodomäne ist eine DNA-bindende Domäne, kein Enzym für Stoffwechselreaktionen.",
+          "ja": "ホメオドメインはDNA結合ドメインであり、代謝反応の酵素ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Transporting oxygen in the blood.",
+          "zh": "在血液中运输氧气。",
+          "es": "Transportar oxígeno en la sangre.",
+          "fr": "Transporter l'oxygène dans le sang.",
+          "de": "Sauerstoff im Blut transportieren.",
+          "ja": "血液中の酸素を運搬すること。"
+        },
+        "feedback": {
+          "en": "Oxygen transport is primarily carried out by proteins like hemoglobin, not homeodomain proteins.",
+          "zh": "氧气运输主要由血红蛋白等蛋白质完成，而非同源结构域蛋白。",
+          "es": "El transporte de oxígeno es realizado principalmente por proteínas como la hemoglobina, no por proteínas homeodominio.",
+          "fr": "Le transport de l'oxygène est principalement effectué par des protéines comme l'hémoglobine, et non par des protéines homéodomaines.",
+          "de": "Der Sauerstofftransport wird hauptsächlich von Proteinen wie Hämoglobin durchgeführt, nicht von Homöodomänenproteinen.",
+          "ja": "酸素輸送は主にヘモグロビンなどのタンパク質によって行われ、ホメオドメインタンパク質ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Binding to DNA to regulate gene transcription.",
+          "zh": "结合DNA以调节基因转录。",
+          "es": "Unirse al ADN para regular la transcripción génica.",
+          "fr": "Se lier à l'ADN pour réguler la transcription des gènes.",
+          "de": "An DNA binden, um die Gentranskription zu regulieren.",
+          "ja": "DNAに結合して遺伝子転写を調節すること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Forming the structural components of cell membranes.",
+          "zh": "形成细胞膜的结构组分。",
+          "es": "Formar los componentes estructurales de las membranas celulares.",
+          "fr": "Former les composants structurels des membranes cellulaires.",
+          "de": "Die Strukturkomponenten von Zellmembranen bilden.",
+          "ja": "細胞膜の構造的構成要素を形成すること。"
+        },
+        "feedback": {
+          "en": "Cell membranes are primarily composed of lipids and various proteins, none of which are homeodomain proteins in this context.",
+          "zh": "细胞膜主要由脂质和各种蛋白质组成，本语境下不包括同源结构域蛋白。",
+          "es": "Las membranas celulares se componen principalmente de lípidos y diversas proteínas, ninguna de las cuales son proteínas homeodominio en este contexto.",
+          "fr": "Les membranes cellulaires sont principalement composées de lipides et de diverses protéines, dont aucune n'est une protéine homéodomaine dans ce contexte.",
+          "de": "Zellmembranen bestehen hauptsächlich aus Lipiden und verschiedenen Proteinen, von denen keine in diesem Kontext Homöodomänenproteine sind.",
+          "ja": "細胞膜は主に脂質と様々なタンパク質で構成されており、この文脈においてホメオドメインタンパク質は含まれません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The homeodomain is the part of the protein that binds to DNA when the protein functions as a transcription factor, thereby regulating gene expression.",
+      "zh": "同源结构域是蛋白质中与DNA结合的部分，当蛋白质作为转录因子发挥功能时，通过这种结合来调节基因表达。",
+      "es": "El homeodominio es la parte de la proteína que se une al ADN cuando la proteína funciona como factor de transcripción, regulando así la expresión génica.",
+      "fr": "L'homéodomaine est la partie de la protéine qui se lie à l'ADN lorsque la protéine fonctionne comme facteur de transcription, régulant ainsi l'expression génique.",
+      "de": "Die Homöodomäne ist der Teil des Proteins, der an die DNA bindet, wenn das Protein als Transkriptionsfaktor fungiert, wodurch die Genexpression reguliert wird.",
+      "ja": "ホメオドメインは、タンパク質が転写因子として機能する際にDNAに結合する部分であり、それによって遺伝子発現を調節します。"
+    }
+  },
+  {
+    "page_number": 513,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 21.20 and the accompanying text, what is a key difference in how Hox genes specify segment identity between the brine shrimp Artemia and the grasshopper?",
+      "zh": "根据图21.20及相关文本，卤虫和蝗虫的Hox基因在指定节段身份方面的主要区别是什么？",
+      "es": "Según la Figura 21.20 y el texto adjunto, ¿cuál es una diferencia clave en cómo los genes Hox especifican la identidad de los segmentos entre el camarón de salmuera Artemia y el saltamontes?",
+      "fr": "D'après la Figure 21.20 et le texte d'accompagnement, quelle est une différence clé dans la manière dont les gènes Hox spécifient l'identité des segments entre l'artémie (Artemia) et le criquet ?",
+      "de": "Basierend auf Abbildung 21.20 und dem begleitenden Text, was ist ein wesentlicher Unterschied in der Art und Weise, wie Hox-Gene die Segmentidentität bei der Salinenkrebsart Artemia und dem Grashüpfer bestimmen?",
+      "ja": "図21.20および付随するテキストに基づくと、ブラインシュリンプ（アルテミア）とバッタの間で、Hox遺伝子がどのようにセグメントの同一性を指定するかにおける主要な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "In Artemia, Hox genes are expressed in discrete regions, while in grasshoppers, they are expressed together in one region.",
+          "zh": "在卤虫中，Hox基因在离散区域表达，而在蝗虫中，它们在一个区域内共同表达。",
+          "es": "En Artemia, los genes Hox se expresan en regiones discretas, mientras que en los saltamontes, se expresan juntos en una región.",
+          "fr": "Chez Artemia, les gènes Hox sont exprimés dans des régions discrètes, tandis que chez les criquets, ils sont exprimés ensemble dans une seule région.",
+          "de": "Bei Artemia werden Hox-Gene in diskreten Regionen exprimiert, während sie bei Grashüpfern zusammen in einer Region exprimiert werden.",
+          "ja": "アルテミアではHox遺伝子は離散的な領域で発現するが、バッタではそれらが一つの領域で一緒に発現する。"
+        },
+        "feedback": {
+          "en": "This statement is the opposite of what is described in the figure and text. In Artemia, Hox genes are expressed together, and in grasshoppers, they are discrete.",
+          "zh": "此说法与图文描述相反。在卤虫中，Hox基因共同表达；而在蝗虫中，它们在离散区域表达。",
+          "es": "Esta afirmación es lo opuesto a lo descrito en la figura y el texto. En Artemia, los genes Hox se expresan juntos, y en los saltamontes, son discretos.",
+          "fr": "Cette affirmation est l'inverse de ce qui est décrit dans la figure et le texte. Chez Artemia, les gènes Hox sont exprimés ensemble, et chez les criquets, ils sont discrets.",
+          "de": "Diese Aussage ist das Gegenteil dessen, was in der Abbildung und im Text beschrieben wird. Bei Artemia werden Hox-Gene zusammen exprimiert, und bei Grashüpfern sind sie diskret.",
+          "ja": "この記述は図とテキストで説明されている内容と逆です。アルテミアではHox遺伝子はまとめて発現し、バッタでは離散的に発現します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "In both organisms, each Hox gene specifies the identity of a large, continuous body region.",
+          "zh": "在这两种生物中，每个Hox基因都指定一个大而连续的身体区域的身份。",
+          "es": "En ambos organismos, cada gen Hox especifica la identidad de una región corporal grande y continua.",
+          "fr": "Chez les deux organismes, chaque gène Hox spécifie l'identité d'une grande région corporelle continue.",
+          "de": "Bei beiden Organismen spezifiziert jedes Hox-Gen die Identität einer großen, zusammenhängenden Körperregion.",
+          "ja": "両方の生物において、各Hox遺伝子が大きく連続した体領域の同一性を指定する。"
+        },
+        "feedback": {
+          "en": "While Hox genes specify regions, the grasshopper shows discrete expression for each gene, not necessarily a large continuous region for each.",
+          "zh": "尽管Hox基因指定区域，但蝗虫显示每个基因是离散表达的，不一定是每个基因都指定一个大而连续的区域。",
+          "es": "Si bien los genes Hox especifican regiones, el saltamontes muestra una expresión discreta para cada gen, no necesariamente una región continua grande para cada uno.",
+          "fr": "Bien que les gènes Hox spécifient des régions, le criquet montre une expression discrète pour chaque gène, pas nécessairement une grande région continue pour chacun.",
+          "de": "Obwohl Hox-Gene Regionen spezifizieren, zeigt der Grashüpfer eine diskrete Expression für jedes Gen, nicht unbedingt eine große, zusammenhängende Region für jedes.",
+          "ja": "Hox遺伝子は領域を指定するものの、バッタでは各遺伝子が離散的に発現しており、必ずしも各遺伝子が大きくて連続した領域を指定するわけではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "In Artemia, multiple Hox genes are expressed together to define segments (e.g., swimmerets), whereas in grasshoppers, individual Hox genes define discrete segments.",
+          "zh": "在卤虫中，多个Hox基因共同表达以定义节段（如游泳足），而在蝗虫中，单个Hox基因定义离散的节段。",
+          "es": "En Artemia, múltiples genes Hox se expresan juntos para definir segmentos (por ejemplo, los pleópodos), mientras que en los saltamontes, los genes Hox individuales definen segmentos discretos.",
+          "fr": "Chez Artemia, plusieurs gènes Hox sont exprimés ensemble pour définir des segments (par exemple, les pléopodes), tandis que chez les criquets, les gènes Hox individuels définissent des segments discrets.",
+          "de": "Bei Artemia werden mehrere Hox-Gene zusammen exprimiert, um Segmente (z.B. Schwimmbeine) zu definieren, während bei Grashüpfern einzelne Hox-Gene diskrete Segmente definieren.",
+          "ja": "アルテミアでは複数のHox遺伝子が一緒に発現してセグメント（例：遊泳肢）を定義するが、バッタでは個々のHox遺伝子が離散的なセグメントを定義する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Hox genes only control limb development in Artemia, but entire body segments in grasshoppers.",
+          "zh": "Hox基因在卤虫中仅控制肢体发育，但在蝗虫中控制整个身体节段。",
+          "es": "Los genes Hox solo controlan el desarrollo de las extremidades en Artemia, pero segmentos corporales completos en los saltamontes.",
+          "fr": "Les gènes Hox ne contrôlent le développement des membres que chez Artemia, mais des segments corporels entiers chez les criquets.",
+          "de": "Hox-Gene steuern nur die Gliedmaßenentwicklung bei Artemia, aber ganze Körpersegmente bei Grashüpfern.",
+          "ja": "Hox遺伝子はアルテミアでは肢の発達のみを制御するが、バッタでは全身のセグメントを制御する。"
+        },
+        "feedback": {
+          "en": "Hox genes define segment identity, which can include limb-bearing segments, but their role is broader than just limb development and the statement incorrectly restricts their function.",
+          "zh": "Hox基因定义节段身份，其中可能包括带肢的节段，但它们的作用远不止肢体发育，此说法不正确地限制了其功能。",
+          "es": "Los genes Hox definen la identidad del segmento, lo que puede incluir segmentos con extremidades, pero su función es más amplia que solo el desarrollo de las extremidades y la afirmación restringe incorrectamente su función.",
+          "fr": "Les gènes Hox définissent l'identité des segments, ce qui peut inclure les segments porteurs de membres, mais leur rôle est plus large que le simple développement des membres et l'affirmation restreint incorrectement leur fonction.",
+          "de": "Hox-Gene definieren die Segmentidentität, die auch gliedmaßentragende Segmente umfassen kann, aber ihre Rolle ist breiter als nur die Gliedmaßenentwicklung, und die Aussage schränkt ihre Funktion fälschlicherweise ein.",
+          "ja": "Hox遺伝子はセグメントの同一性を定義し、これには肢を持つセグメントも含まれますが、その役割は単なる肢の発達よりも広く、この記述は機能を不正確に制限しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Figure 21.20 and its caption explain that in Artemia, three Hox genes are expressed together in one region to specify swimmerets, while the fourth (teal) specifies genital segments. In the grasshopper, each Hox gene is expressed in a discrete region and specifies the identity of that region, illustrating a difference in their expression patterns leading to different body plans.",
+      "zh": "图21.20及其图注解释道，在卤虫中，三个Hox基因在一个区域内共同表达以指定游泳足，而第四个（青色）基因指定生殖节段。在蝗虫中，每个Hox基因都在一个离散区域内表达并指定该区域的身份，这说明它们表达模式的不同导致了不同的身体结构。",
+      "es": "La Figura 21.20 y su leyenda explican que en Artemia, tres genes Hox se expresan juntos en una región para especificar los pleópodos, mientras que el cuarto (cian) especifica los segmentos genitales. En el saltamontes, cada gen Hox se expresa en una región discreta y especifica la identidad de esa región, lo que ilustra una diferencia en sus patrones de expresión que conduce a diferentes planes corporales.",
+      "fr": "La Figure 21.20 et sa légende expliquent que chez Artemia, trois gènes Hox sont exprimés ensemble dans une région pour spécifier les pléopodes, tandis que le quatrième (vert-bleu) spécifie les segments génitaux. Chez le criquet, chaque gène Hox est exprimé dans une région discrète et spécifie l'identité de cette région, illustrant une différence dans leurs profils d'expression menant à des plans corporels différents.",
+      "de": "Abbildung 21.20 und ihre Beschriftung erklären, dass bei Artemia drei Hox-Gene zusammen in einer Region exprimiert werden, um die Schwimmbeine zu spezifizieren, während das vierte (türkis) die Genitalsegmente spezifiziert. Beim Grashüpfer wird jedes Hox-Gen in einer diskreten Region exprimiert und spezifiziert die Identität dieser Region, was einen Unterschied in ihren Expressionsmustern zeigt, der zu unterschiedlichen Körperbauplänen führt.",
+      "ja": "図21.20とその説明文によると、アルテミアでは3つのHox遺伝子が1つの領域で一緒に発現して遊泳肢を特定し、一方、4番目の（ティール色の）遺伝子は生殖セグメントを特定します。バッタでは、各Hox遺伝子が離散的な領域で発現し、その領域の同一性を特定することで、発現パターンが異なり、異なる体の構造につながることが示されています。"
+    }
+  },
+  {
+    "page_number": 513,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The text states that 'small changes in regulatory sequences of particular genes cause changes in gene expression patterns that can lead to major changes in body form.' Which of the following examples from the text best exemplifies this principle in the context of evolutionary diversification?",
+      "zh": "文本指出，'特定基因调控序列的微小变化会导致基因表达模式的改变，从而引发身体形态的重大变化。' 以下文本中的哪个例子最能体现这一原则在进化多样性方面的体现？",
+      "es": "El texto afirma que 'pequeños cambios en las secuencias reguladoras de genes particulares provocan cambios en los patrones de expresión génica que pueden conducir a grandes cambios en la forma del cuerpo.' ¿Cuál de los siguientes ejemplos del texto mejor ejemplifica este principio en el contexto de la diversificación evolutiva?",
+      "fr": "Le texte indique que 'de petits changements dans les séquences régulatrices de gènes particuliers entraînent des changements dans les profils d'expression génique qui peuvent conduire à des changements majeurs dans la forme du corps.' Lequel des exemples suivants tirés du texte illustre le mieux ce principe dans le contexte de la diversification évolutive ?",
+      "de": "Der Text besagt, dass 'kleine Veränderungen in den regulatorischen Sequenzen bestimmter Gene Änderungen in den Genexpressionsmustern verursachen, die zu großen Veränderungen der Körpergestalt führen können.' Welches der folgenden Beispiele aus dem Text veranschaulicht dieses Prinzip am besten im Kontext der evolutionären Diversifizierung?",
+      "ja": "テキストには「特定の遺伝子の調節配列における小さな変化が遺伝子発現パターンを変化させ、それが身体形態の大きな変化につながる可能性がある」と述べられています。進化的多様性の文脈において、以下のテキストからのどの例がこの原則を最もよく例示していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The conservation of the homeodomain sequence across diverse animal species, ensuring identical body plans.",
+          "zh": "同源结构域序列在不同动物物种间的保守性，确保了相同的身体结构。",
+          "es": "La conservación de la secuencia del homeodominio en diversas especies animales, asegurando planes corporales idénticos.",
+          "fr": "La conservation de la séquence de l'homéodomaine chez diverses espèces animales, assurant des plans corporels identiques.",
+          "de": "Die Konservierung der Homöodomänensequenz über verschiedene Tierarten hinweg, die identische Körperbaupläne gewährleistet.",
+          "ja": "多様な動物種間でのホメオドメイン配列の保存により、同一の体の構造が保証されること。"
+        },
+        "feedback": {
+          "en": "While the homeodomain sequence is conserved, this conservation typically reflects a fundamental function, not necessarily identical body plans, especially when regulatory sequences change. It is the *change* in expression, not conservation leading to *identical* forms, that the question is about.",
+          "zh": "虽然同源结构域序列是保守的，但这种保守性通常反映的是基本功能，而不是必然导致相同的身体结构，尤其当调控序列发生变化时。问题关注的是表达的*变化*，而非导致*相同*形态的保守性。",
+          "es": "Aunque la secuencia del homeodominio está conservada, esta conservación típicamente refleja una función fundamental, no necesariamente planes corporales idénticos, especialmente cuando las secuencias reguladoras cambian. La pregunta se refiere al *cambio* en la expresión, no a la conservación que conduce a formas *idénticas*.",
+          "fr": "Bien que la séquence de l'homéodomaine soit conservée, cette conservation reflète généralement une fonction fondamentale, et non nécessairement des plans corporels identiques, surtout lorsque les séquences régulatrices changent. La question porte sur le *changement* d'expression, et non sur la conservation menant à des formes *identiques*.",
+          "de": "Obwohl die Homöodomänensequenz konserviert ist, spiegelt diese Konservierung typischerweise eine grundlegende Funktion wider, nicht unbedingt identische Körperbaupläne, insbesondere wenn sich regulatorische Sequenzen ändern. Die Frage bezieht sich auf die *Veränderung* der Expression, nicht auf die Konservierung, die zu *identischen* Formen führt.",
+          "ja": "ホメオドメイン配列は保存されているものの、この保存は通常、基本的な機能を反映するものであり、特に調節配列が変化した場合に必ずしも同一の体の構造を保証するものではありません。質問は、同一の形態につながる保存ではなく、発現の*変化*についてです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The presence of identical Hox genes in both segmented insects and nonsegmented sea urchins, yet resulting in vastly different body structures.",
+          "zh": "分节昆虫和不分节海胆都具有相同的Hox基因，但却产生了截然不同的身体结构。",
+          "es": "La presencia de genes Hox idénticos tanto en insectos segmentados como en erizos de mar no segmentados, que, sin embargo, resultan en estructuras corporales muy diferentes.",
+          "fr": "La présence de gènes Hox identiques chez les insectes segmentés et les oursins non segmentés, entraînant pourtant des structures corporelles très différentes.",
+          "de": "Das Vorhandensein identischer Hox-Gene sowohl bei segmentierten Insekten als auch bei unsegmentierten Seeigeln, was jedoch zu sehr unterschiedlichen Körperstrukturen führt.",
+          "ja": "節足動物の昆虫と非節足動物のウニの両方に同一のHox遺伝子が存在するにもかかわらず、それが非常に異なる身体構造をもたらすこと。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The role of homeobox genes in coordinating the transcription of developmental gene batteries, leading to complex organ formation.",
+          "zh": "同源框基因在协调发育基因群转录中的作用，导致复杂器官的形成。",
+          "es": "El papel de los genes homeobox en la coordinación de la transcripción de las baterías de genes de desarrollo, lo que lleva a la formación de órganos complejos.",
+          "fr": "Le rôle des gènes homéoboîtes dans la coordination de la transcription des batteries de gènes de développement, conduisant à la formation d'organes complexes.",
+          "de": "Die Rolle der Homöobox-Gene bei der Koordination der Transkription von Entwicklungsgenbatterien, die zur Bildung komplexer Organe führt.",
+          "ja": "ホメオボックス遺伝子が発達遺伝子群の転写を協調させ、複雑な器官形成を導く役割。"
+        },
+        "feedback": {
+          "en": "This statement describes a general function of homeobox genes but does not specifically address how small regulatory changes lead to major body form changes or evolutionary diversification.",
+          "zh": "此说法描述了同源框基因的一般功能，但并未具体说明微小的调控变化如何导致身体形态的重大变化或进化多样性。",
+          "es": "Esta afirmación describe una función general de los genes homeobox, pero no aborda específicamente cómo los pequeños cambios reguladores conducen a cambios importantes en la forma del cuerpo o a la diversificación evolutiva.",
+          "fr": "Cette affirmation décrit une fonction générale des gènes homéoboîtes, mais ne traite pas spécifiquement de la façon dont de petits changements régulateurs conduisent à des changements majeurs dans la forme du corps ou à la diversification évolutive.",
+          "de": "Diese Aussage beschreibt eine allgemeine Funktion von Homöobox-Genen, geht aber nicht speziell darauf ein, wie kleine regulatorische Veränderungen zu großen Veränderungen der Körpergestalt oder der evolutionären Diversifizierung führen.",
+          "ja": "この記述はホメオボックス遺伝子の一般的な機能を示していますが、小さな調節の変化がどのようにして身体形態の大きな変化や進化的多様性につながるかを具体的に扱っていません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The ability of homeodomain-containing proteins to recognize specific enhancers, which remain unchanged during evolution.",
+          "zh": "含有同源结构域的蛋白质识别特定增强子的能力，这些增强子在进化过程中保持不变。",
+          "es": "La capacidad de las proteínas que contienen homeodominio para reconocer potenciadores específicos, que permanecen inalterados durante la evolución.",
+          "fr": "La capacité des protéines contenant un homéodomaine à reconnaître des amplificateurs spécifiques, qui restent inchangés au cours de l'évolution.",
+          "de": "Die Fähigkeit von Homöodomänen-haltigen Proteinen, spezifische Enhancer zu erkennen, die sich während der Evolution nicht verändern.",
+          "ja": "ホメオドメイン含有タンパク質が特定のエンハンサーを認識する能力であり、それらは進化の過程で変化しない。"
+        },
+        "feedback": {
+          "en": "Enhancers, which are regulatory sequences, can and do change during evolution, and these changes are precisely what can lead to significant morphological differences.",
+          "zh": "增强子作为调控序列，在进化过程中可以且确实会发生变化，正是这些变化可能导致显著的形态差异。",
+          "es": "Los potenciadores, que son secuencias reguladoras, pueden cambiar y de hecho cambian durante la evolución, y estos cambios son precisamente los que pueden conducir a diferencias morfológicas significativas.",
+          "fr": "Les amplificateurs, qui sont des séquences régulatrices, peuvent changer et changent effectivement au cours de l'évolution, et ce sont précisément ces changements qui peuvent entraîner des différences morphologiques significatives.",
+          "de": "Enhancer, die regulatorische Sequenzen sind, können und ändern sich tatsächlich während der Evolution, und genau diese Änderungen können zu signifikanten morphologischen Unterschieden führen.",
+          "ja": "調節配列であるエンハンサーは進化の過程で変化する可能性があり、実際に変化します。これらの変化こそが、形態学的に大きな違いをもたらす可能性があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly mentions that sea urchins, despite having Hox genes, have a nonsegmented body plan quite different from insects and mice. This highlights how similar underlying genes, through changes in their regulatory control and expression patterns (implied by 'small changes in regulatory sequences'), can lead to significant morphological divergence.",
+      "zh": "文本明确提到，海胆尽管拥有Hox基因，但其身体结构却是非分节的，与昆虫和老鼠截然不同。这强调了相似的底层基因，通过其调控控制和表达模式的变化（由“调控序列的微小变化”所暗示），如何能够导致显著的形态学分歧。",
+      "es": "El texto menciona explícitamente que los erizos de mar, a pesar de tener genes Hox, tienen un plan corporal no segmentado bastante diferente al de insectos y ratones. Esto resalta cómo genes subyacentes similares, a través de cambios en su control regulador y patrones de expresión (implícito por 'pequeños cambios en las secuencias reguladoras'), pueden conducir a una divergencia morfológica significativa.",
+      "fr": "Le texte mentionne explicitement que les oursins, bien qu'ils possèdent des gènes Hox, ont un plan corporel non segmenté très différent de celui des insectes et des souris. Cela souligne comment des gènes sous-jacents similaires, par des changements dans leur contrôle régulateur et leurs profils d'expression (impliqués par les 'petits changements dans les séquences régulatrices'), peuvent conduire à une divergence morphologique significative.",
+      "de": "Der Text erwähnt explizit, dass Seeigel, obwohl sie Hox-Gene besitzen, einen nicht segmentierten Körperbauplan haben, der sich deutlich von dem von Insekten und Mäusen unterscheidet. Dies verdeutlicht, wie ähnliche zugrundeliegende Gene durch Änderungen in ihrer regulatorischen Kontrolle und ihren Expressionsmustern (impliziert durch 'kleine Veränderungen in regulatorischen Sequenzen') zu einer signifikanten morphologischen Divergenz führen können.",
+      "ja": "テキストでは、ウニがHox遺伝子を持っているにもかかわらず、昆虫やマウスとはかなり異なる非分節の体の構造を持っていることが明示されています。これは、類似の基礎となる遺伝子が、その調節制御と発現パターンの変化（「特定の遺伝子の調節配列における小さな変化」によって示唆される）を通じて、いかにして形態学的に大きな分岐につながるかを示しています。"
+    }
+  }
+]

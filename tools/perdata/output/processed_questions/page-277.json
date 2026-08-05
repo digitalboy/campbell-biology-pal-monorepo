@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 277,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which cell(s) in Figure 11.17 illustrate a signaling pathway where two separate signals converge to modulate a single response?",
+      "zh": "图 11.17 中的哪个或哪些细胞展示了一条信号通路，其中两个独立的信号汇聚以调节单个响应？",
+      "es": "¿Qué célula(s) en la Figura 11.17 ilustra(n) una vía de señalización donde dos señales separadas convergen para modular una única respuesta?",
+      "fr": "Quelle(s) cellule(s) de la Figure 11.17 illustre(nt) une voie de signalisation où deux signaux distincts convergent pour moduler une seule réponse ?",
+      "de": "Welche Zelle(n) in Abbildung 11.17 veranschaulicht/veranschaulichen einen Signalweg, bei dem zwei separate Signale konvergieren, um eine einzige Antwort zu modulieren?",
+      "ja": "図11.17のどの細胞が、2つの異なる信号が収束して単一の応答を調節するシグナル伝達経路を示していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Cell A only",
+          "zh": "仅细胞 A",
+          "es": "Solo la célula A",
+          "fr": "Cellule A uniquement",
+          "de": "Nur Zelle A",
+          "ja": "細胞Aのみ"
+        },
+        "feedback": {
+          "en": "Cell A shows a single pathway leading to a single response from one signal, not convergence of two signals.",
+          "zh": "细胞 A 展示的是一条信号导致一个单一响应的通路，而不是两个信号的汇聚。",
+          "es": "La célula A muestra una única vía que conduce a una única respuesta a partir de una señal, no la convergencia de dos señales.",
+          "fr": "La cellule A montre une seule voie menant à une réponse unique à partir d'un seul signal, sans convergence de deux signaux.",
+          "de": "Zelle A zeigt einen einzelnen Signalweg, der zu einer einzigen Antwort von einem Signal führt, nicht die Konvergenz von zwei Signalen.",
+          "ja": "細胞Aは、1つの信号から単一の応答につながる単一の経路を示しており、2つの信号の収束ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Cell B only",
+          "zh": "仅细胞 B",
+          "es": "Solo la célula B",
+          "fr": "Cellule B uniquement",
+          "de": "Nur Zelle B",
+          "ja": "細胞Bのみ"
+        },
+        "feedback": {
+          "en": "Cell B demonstrates pathway branching from a single signal, leading to two responses, not convergence of two separate signals.",
+          "zh": "细胞 B 展示的是一条信号分支出导致两个响应，而不是两个独立信号的汇聚。",
+          "es": "La célula B demuestra la ramificación de la vía a partir de una única señal, lo que lleva a dos respuestas, no la convergencia de dos señales separadas.",
+          "fr": "La cellule B démontre une ramification de la voie à partir d'un seul signal, menant à deux réponses, et non la convergence de deux signaux séparés.",
+          "de": "Zelle B zeigt eine Signalwegverzweigung von einem einzigen Signal, die zu zwei Antworten führt, und nicht die Konvergenz von zwei separaten Signalen.",
+          "ja": "細胞Bは、単一の信号から経路が分岐して2つの応答につながることを示しており、2つの異なる信号の収束ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Cell C only",
+          "zh": "仅细胞 C",
+          "es": "Solo la célula C",
+          "fr": "Cellule C uniquement",
+          "de": "Nur Zelle C",
+          "ja": "細胞Cのみ"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Cell A and Cell B",
+          "zh": "细胞 A 和 细胞 B",
+          "es": "Célula A y Célula B",
+          "fr": "Cellules A et B",
+          "de": "Zelle A und Zelle B",
+          "ja": "細胞Aと細胞B"
+        },
+        "feedback": {
+          "en": "Neither Cell A nor Cell B demonstrates the convergence of two separate signals; Cell A shows a single response, and Cell B shows branching.",
+          "zh": "细胞 A 和细胞 B 都没有展示两个独立信号的汇聚；细胞 A 展示的是单一响应，而细胞 B 展示的是分支。",
+          "es": "Ni la célula A ni la célula B demuestran la convergencia de dos señales separadas; la célula A muestra una única respuesta y la célula B muestra ramificación.",
+          "fr": "Ni la cellule A ni la cellule B ne démontrent la convergence de deux signaux séparés ; la cellule A montre une réponse unique, et la cellule B montre une ramification.",
+          "de": "Weder Zelle A noch Zelle B zeigen die Konvergenz von zwei separaten Signalen; Zelle A zeigt eine einzelne Antwort und Zelle B zeigt Verzweigung.",
+          "ja": "細胞Aも細胞Bも、2つの異なる信号の収束を示していません。細胞Aは単一の応答を示し、細胞Bは分岐を示しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states for Cell C: 'In cell C, two pathways triggered by separate signals converge to modulate a single response.' This describes the convergence of two separate signals to a single outcome.",
+      "zh": "文本明确指出细胞 C：“在细胞 C 中，由独立信号触发的两条通路汇聚以调节单个响应。”这描述了两个独立信号汇聚到单个结果的情况。",
+      "es": "El texto establece explícitamente para la célula C: 'En la célula C, dos vías desencadenadas por señales separadas convergen para modular una única respuesta'. Esto describe la convergencia de dos señales separadas hacia un único resultado.",
+      "fr": "Le texte indique explicitement pour la cellule C : « Dans la cellule C, deux voies déclenchées par des signaux distincts convergent pour moduler une seule réponse. » Cela décrit la convergence de deux signaux distincts vers un seul résultat.",
+      "de": "Der Text besagt explizit für Zelle C: 'In Zelle C konvergieren zwei durch separate Signale ausgelöste Signalwege, um eine einzige Antwort zu modulieren.' Dies beschreibt die Konvergenz zweier separater Signale zu einem einzigen Ergebnis.",
+      "ja": "テキストでは細胞Cについて「細胞Cでは、別々の信号によってトリガーされた2つの経路が収束して単一の応答を調節する」と明確に述べられています。これは、2つの異なる信号が1つの結果に収束することを説明しています。"
+    }
+  },
+  {
+    "page_number": 277,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "According to the text, what is the most significant advantage conferred by scaffolding proteins in cellular signaling pathways?",
+      "zh": "根据文本，支架蛋白在细胞信号通路中赋予的最显著优势是什么？",
+      "es": "Según el texto, ¿cuál es la ventaja más significativa que confieren las proteínas andamio en las vías de señalización celular?",
+      "fr": "Selon le texte, quel est l'avantage le plus significatif conféré par les protéines d'échafaudage dans les voies de signalisation cellulaire ?",
+      "de": "Was ist laut Text der bedeutendste Vorteil, den Gerüstproteine in zellulären Signalwegen bieten?",
+      "ja": "本文によると、細胞シグナル伝達経路における足場タンパク質によってもたらされる最も重要な利点は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They allow a cell to respond to a broader range of extracellular signaling molecules by diversifying receptor types.",
+          "zh": "它们通过使受体类型多样化，使细胞能够响应更广泛的细胞外信号分子。",
+          "es": "Permiten que una célula responda a una gama más amplia de moléculas de señalización extracelulares al diversificar los tipos de receptores.",
+          "fr": "Elles permettent à une cellule de répondre à un plus large éventail de molécules de signalisation extracellulaires en diversifiant les types de récepteurs.",
+          "de": "Sie ermöglichen es einer Zelle, auf ein breiteres Spektrum extrazellulärer Signalmoleküle zu reagieren, indem sie die Rezeptortypen diversifizieren.",
+          "ja": "これらは受容体タイプを多様化させることで、細胞がより広範囲の細胞外シグナル分子に応答できるようにします。"
+        },
+        "feedback": {
+          "en": "Scaffolding proteins enhance the efficiency of existing pathways, rather than diversifying receptor types or the range of signaling molecules a cell can respond to.",
+          "zh": "支架蛋白是提高现有通路的效率，而不是使受体类型或细胞可响应的信号分子范围多样化。",
+          "es": "Las proteínas andamio mejoran la eficiencia de las vías existentes, en lugar de diversificar los tipos de receptores o el rango de moléculas de señalización a las que una célula puede responder.",
+          "fr": "Les protéines d'échafaudage améliorent l'efficacité des voies existantes, plutôt que de diversifier les types de récepteurs ou la gamme de molécules de signalisation auxquelles une cellule peut répondre.",
+          "de": "Gerüstproteine erhöhen die Effizienz bestehender Signalwege, anstatt Rezeptortypen oder die Bandbreite der Signalmoleküle, auf die eine Zelle reagieren kann, zu diversifizieren.",
+          "ja": "足場タンパク質は既存の経路の効率を高めるものであり、受容体タイプや細胞が応答できるシグナル分子の範囲を多様化するものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They increase the overall efficiency and accuracy of signal transduction by physically bringing together relevant relay proteins.",
+          "zh": "它们通过物理方式将相关的中继蛋白聚集在一起，从而提高信号转导的整体效率和准确性。",
+          "es": "Aumentan la eficiencia y precisión general de la transducción de señales al reunir físicamente las proteínas relé relevantes.",
+          "fr": "Elles augmentent l'efficacité et la précision globales de la transduction du signal en rassemblant physiquement les protéines relais pertinentes.",
+          "de": "Sie erhöhen die Gesamteffizienz und Genauigkeit der Signaltransduktion, indem sie relevante Relaisproteine physisch zusammenführen.",
+          "ja": "関連する中継タンパク質を物理的に結合させることで、シグナル伝達の全体的な効率と精度を高めます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "They directly activate primary membrane receptors, thus bypassing the need for a signaling molecule.",
+          "zh": "它们直接激活主要膜受体，从而绕过了信号分子的需求。",
+          "es": "Activan directamente los receptores de membrana primarios, evitando así la necesidad de una molécula de señalización.",
+          "fr": "Elles activent directement les récepteurs membranaires primaires, contournant ainsi le besoin d'une molécule de signalisation.",
+          "de": "Sie aktivieren primäre Membranrezeptoren direkt und umgehen so die Notwendigkeit eines Signalmoleküls.",
+          "ja": "これらは一次膜受容体を直接活性化するため、シグナル分子の必要性を回避します。"
+        },
+        "feedback": {
+          "en": "Scaffolding proteins bind to activated receptors and other relay proteins, but they do not typically bypass the initial signaling molecule or directly activate primary receptors.",
+          "zh": "支架蛋白与活化的受体和其他中继蛋白结合，但它们通常不会绕过初始信号分子或直接激活主要受体。",
+          "es": "Las proteínas andamio se unen a receptores activados y a otras proteínas relé, pero normalmente no evitan la molécula de señalización inicial ni activan directamente los receptores primarios.",
+          "fr": "Les protéines d'échafaudage se lient aux récepteurs activés et à d'autres protéines relais, mais elles ne contournent généralement pas la molécule de signalisation initiale ni n'activent directement les récepteurs primaires.",
+          "de": "Gerüstproteine binden an aktivierte Rezeptoren und andere Relaisproteine, aber sie umgehen normalerweise nicht das anfängliche Signalmolekül oder aktivieren primäre Rezeptoren direkt.",
+          "ja": "足場タンパク質は活性化された受容体や他の中継タンパク質に結合しますが、通常、初期のシグナル分子を迂回したり、一次受容体を直接活性化したりすることはありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They facilitate the immediate breakdown of relay molecules after signal transmission, preventing prolonged responses.",
+          "zh": "它们促进信号传导后中继分子的立即分解，防止响应持续过长。",
+          "es": "Facilitan la descomposición inmediata de las moléculas relé después de la transmisión de la señal, previniendo respuestas prolongadas.",
+          "fr": "Elles facilitent la dégradation immédiate des molécules relais après la transmission du signal, prévenant les réponses prolongées.",
+          "de": "Sie erleichtern den sofortigen Abbau von Relaismolekülen nach der Signalübertragung und verhindern so verlängerte Reaktionen.",
+          "ja": "シグナル伝達後の中継分子の即時分解を促進し、持続的な応答を防ぎます。"
+        },
+        "feedback": {
+          "en": "The primary role described for scaffolding proteins is to enhance signal transfer speed and accuracy, not to regulate the termination of the signal through molecule breakdown.",
+          "zh": "支架蛋白描述的主要作用是提高信号传输速度和准确性，而不是通过分子分解来调节信号的终止。",
+          "es": "El papel principal descrito para las proteínas andamio es mejorar la velocidad y precisión de la transferencia de señales, no regular la terminación de la señal mediante la descomposición molecular.",
+          "fr": "Le rôle principal décrit pour les protéines d'échafaudage est d'améliorer la vitesse et la précision du transfert de signal, et non de réguler la terminaison du signal par la dégradation des molécules.",
+          "de": "Die primäre Rolle von Gerüstproteinen besteht darin, die Geschwindigkeit und Genauigkeit der Signalübertragung zu verbessern, nicht die Beendigung des Signals durch Molekülabbau zu regulieren.",
+          "ja": "足場タンパク質に記述されている主な役割は、シグナル伝達の速度と精度を高めることであり、分子分解を通じてシグナル終結を調節することではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'the efficiency of signal transduction is apparently increased by the presence of scaffolding proteins, large relay proteins to which several other relay proteins are simultaneously attached (Figure 11.18). ...This hardwiring enhances the speed and accuracy of signal transfer between cells because the rate of protein-protein interaction is not limited by diffusion.' This clearly highlights increased efficiency and accuracy as the main advantages.",
+      "zh": "文本指出：“信号转导的效率显然因支架蛋白的存在而提高，这些大型中继蛋白同时附着有其他几个中继蛋白（图 11.18）。……这种硬连接通过使蛋白质-蛋白质相互作用速率不受扩散限制，从而增强了细胞间信号传递的速度和准确性。”这清楚地强调了提高效率和准确性是主要优势。",
+      "es": "El texto afirma: 'la eficiencia de la transducción de señales aparentemente aumenta por la presencia de proteínas andamio, grandes proteínas relé a las que varias otras proteínas relé están unidas simultáneamente (Figura 11.18). ...Esta conexión fija mejora la velocidad y la precisión de la transferencia de señales entre las células porque la tasa de interacción proteína-proteína no está limitada por la difusión'. Esto destaca claramente el aumento de la eficiencia y la precisión como las principales ventajas.",
+      "fr": "Le texte indique : « l'efficacité de la transduction du signal est apparemment augmentée par la présence de protéines d'échafaudage, de grandes protéines relais auxquelles plusieurs autres protéines relais sont simultanément attachées (Figure 11.18). ...Ce câblage rigide améliore la vitesse et la précision du transfert de signal entre les cellules car le taux d'interaction protéine-protéine n'est pas limité par la diffusion. » Cela met clairement en évidence l'augmentation de l'efficacité et de la précision comme principaux avantages.",
+      "de": "Der Text besagt: 'die Effizienz der Signaltransduktion wird anscheinend durch das Vorhandensein von Gerüstproteinen erhöht, große Relaisproteine, an die mehrere andere Relaisproteine gleichzeitig gebunden sind (Abbildung 11.18). ...Diese feste Verdrahtung erhöht die Geschwindigkeit und Genauigkeit der Signalübertragung zwischen Zellen, da die Rate der Protein-Protein-Interaktion nicht durch Diffusion begrenzt ist.' Dies hebt deutlich die erhöhte Effizienz und Genauigkeit als Hauptvorteile hervor.",
+      "ja": "本文には、「シグナル伝達の効率は、足場タンパク質の存在によって明らかに向上する。これらの大きな中継タンパク質には、他のいくつかの中継タンパク質が同時に結合している（図11.18）。…この固定された配線は、タンパク質間の相互作用速度が拡散によって制限されないため、細胞間のシグナル伝達の速度と精度を高める」と述べられています。これは、効率と精度の向上が主な利点であることを明確に示しています。"
+    }
+  },
+  {
+    "page_number": 277,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Figure 11.17 demonstrates that the same signaling molecule can elicit different cellular responses. What is the fundamental reason for this specificity as explained in the accompanying text?",
+      "zh": "图 11.17 表明相同的信号分子可以引起不同的细胞响应。根据随附文本的解释，这种特异性的根本原因是什么？",
+      "es": "La Figura 11.17 demuestra que la misma molécula señalizadora puede provocar diferentes respuestas celulares. ¿Cuál es la razón fundamental de esta especificidad, según se explica en el texto adjunto?",
+      "fr": "La Figure 11.17 démontre que la même molécule de signalisation peut provoquer différentes réponses cellulaires. Quelle est la raison fondamentale de cette spécificité, telle qu'expliquée dans le texte d'accompagnement ?",
+      "de": "Abbildung 11.17 zeigt, dass dasselbe Signalmolekül unterschiedliche zelluläre Reaktionen hervorrufen kann. Was ist laut Begleittext der grundlegende Grund für diese Spezifität?",
+      "ja": "図11.17は、同じシグナル分子が異なる細胞応答を引き起こす可能性を示しています。付属のテキストで説明されている、この特異性の根本的な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Each cell possesses a unique set of receptors that bind to distinct signaling molecules.",
+          "zh": "每个细胞都拥有一套独特的受体，这些受体与不同的信号分子结合。",
+          "es": "Cada célula posee un conjunto único de receptores que se unen a moléculas señalizadoras distintas.",
+          "fr": "Chaque cellule possède un ensemble unique de récepteurs qui se lient à des molécules de signalisation distinctes.",
+          "de": "Jede Zelle besitzt einen einzigartigen Satz von Rezeptoren, die an unterschiedliche Signalmoleküle binden.",
+          "ja": "各細胞は、異なるシグナル分子に結合する独自の受容体セットを持っています。"
+        },
+        "feedback": {
+          "en": "The figure explicitly states that all four cells respond to the 'same signaling molecule (red)', disproving the idea of distinct receptors for different molecules.",
+          "zh": "图中明确指出所有四个细胞都对“相同的信号分子（红色）”作出响应，这与不同分子具有不同受体的观点相矛盾。",
+          "es": "La figura establece explícitamente que las cuatro células responden a la 'misma molécula señalizadora (roja)', lo que refuta la idea de receptores distintos para diferentes moléculas.",
+          "fr": "La figure indique explicitement que les quatre cellules répondent à la 'même molécule de signalisation (rouge)', réfutant l'idée de récepteurs distincts pour différentes molécules.",
+          "de": "Die Abbildung besagt ausdrücklich, dass alle vier Zellen auf dasselbe Signalmolekül (rot) reagieren, was die Annahme widerlegt, dass es unterschiedliche Rezeptoren für verschiedene Moleküle gibt.",
+          "ja": "図には、4つの細胞すべてが「同じシグナル分子（赤）」に応答すると明記されており、異なる分子に異なる受容体があるという考えを否定しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The particular proteins a cell possesses determine what signaling molecules it responds to and the nature of the response.",
+          "zh": "细胞所拥有的特定蛋白质决定了它对哪些信号分子做出响应以及响应的性质。",
+          "es": "Las proteínas particulares que posee una célula determinan a qué moléculas señalizadoras responde y la naturaleza de la respuesta.",
+          "fr": "Les protéines particulières qu'une cellule possède déterminent aux molécules de signalisation auxquelles elle répond et la nature de la réponse.",
+          "de": "Die spezifischen Proteine, die eine Zelle besitzt, bestimmen, auf welche Signalmoleküle sie reagiert und die Art der Reaktion.",
+          "ja": "細胞が持つ特定のタンパク質が、どのシグナル分子に応答するか、および応答の性質を決定します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Different cells have varying capacities to synthesize and release secondary messengers.",
+          "zh": "不同的细胞在合成和释放第二信使方面具有不同的能力。",
+          "es": "Las diferentes células tienen capacidades variables para sintetizar y liberar segundos mensajeros.",
+          "fr": "Différentes cellules ont des capacités variables à synthétiser et à libérer des messagers secondaires.",
+          "de": "Verschiedene Zellen haben unterschiedliche Kapazitäten zur Synthese und Freisetzung von sekundären Botenstoffen.",
+          "ja": "異なる細胞は、セカンドメッセンジャーを合成および放出する能力が異なります。"
+        },
+        "feedback": {
+          "en": "While secondary messengers are involved in signaling, the text specifically attributes the specificity of response to the 'particular proteins a cell possesses', not directly to varying capacities for secondary messenger synthesis/release.",
+          "zh": "尽管第二信使参与信号传导，但文本明确将响应的特异性归因于“细胞所拥有的特定蛋白质”，而不是直接归因于第二信使合成/释放能力的不同。",
+          "es": "Aunque los segundos mensajeros están involucrados en la señalización, el texto atribuye específicamente la especificidad de la respuesta a las 'proteínas particulares que posee una célula', no directamente a las diferentes capacidades de síntesis/liberación de segundos mensajeros.",
+          "fr": "Bien que les messagers secondaires soient impliqués dans la signalisation, le texte attribue spécifiquement la spécificité de la réponse aux 'protéines particulières qu'une cellule possède', et non directement aux capacités variables de synthèse/libération des messagers secondaires.",
+          "de": "Obwohl sekundäre Botenstoffe an der Signalübertragung beteiligt sind, führt der Text die Spezifität der Reaktion ausdrücklich auf die 'spezifischen Proteine, die eine Zelle besitzt' zurück, nicht direkt auf unterschiedliche Kapazitäten für die Synthese/Freisetzung von sekundären Botenstoffen.",
+          "ja": "セカンドメッセンジャーはシグナル伝達に関与していますが、本文では応答の特異性を「細胞が持つ特定のタンパク質」に特に帰しており、セカンドメッセンジャーの合成/放出能力の差異に直接帰しているわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The intensity of the signaling molecule determines the specific cellular outcome.",
+          "zh": "信号分子的强度决定了特定的细胞结果。",
+          "es": "La intensidad de la molécula señalizadora determina el resultado celular específico.",
+          "fr": "L'intensité de la molécule de signalisation détermine le résultat cellulaire spécifique.",
+          "de": "Die Intensität des Signalmoleküls bestimmt das spezifische zelluläre Ergebnis.",
+          "ja": "シグナル分子の強度が特定の細胞結果を決定します。"
+        },
+        "feedback": {
+          "en": "The text focuses on the internal protein composition of the cell as the determinant of specificity, not the intensity of the external signaling molecule.",
+          "zh": "文本强调细胞的内部蛋白质组成是特异性的决定因素，而不是外部信号分子的强度。",
+          "es": "El texto se centra en la composición proteica interna de la célula como determinante de la especificidad, no en la intensidad de la molécula señalizadora externa.",
+          "fr": "Le texte se concentre sur la composition protéique interne de la cellule comme déterminant de la spécificité, et non sur l'intensité de la molécule de signalisation externe.",
+          "de": "Der Text konzentriert sich auf die interne Proteinzusammensetzung der Zelle als Bestimmungsfaktor für die Spezifität, nicht auf die Intensität des externen Signalmoleküls.",
+          "ja": "本文は、細胞の内部タンパク質組成が特異性の決定因子であると強調しており、外部シグナル分子の強度ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The caption for Figure 11.17 states: 'The particular proteins a cell possesses determine what signaling molecules it responds to and the nature of the response. The four cells in these diagrams respond to the same signaling molecule (red) in different ways because each has a different set of proteins (purple and teal).' This directly explains the basis of specificity.",
+      "zh": "图 11.17 的图注说明：“细胞所拥有的特定蛋白质决定了它对哪些信号分子做出响应以及响应的性质。这些图中的四个细胞以不同方式响应相同的信号分子（红色），因为每个细胞都拥有一套不同的蛋白质（紫色和青色）。”这直接解释了特异性的基础。",
+      "es": "El pie de la Figura 11.17 dice: 'Las proteínas particulares que posee una célula determinan a qué moléculas señalizadoras responde y la naturaleza de la respuesta. Las cuatro células en estos diagramas responden a la misma molécula señalizadora (roja) de diferentes maneras porque cada una tiene un conjunto diferente de proteínas (púrpura y verde azulado)'. Esto explica directamente la base de la especificidad.",
+      "fr": "La légende de la Figure 11.17 stipule : « Les protéines particulières qu'une cellule possède déterminent aux molécules de signalisation auxquelles elle répond et la nature de la réponse. Les quatre cellules de ces schémas répondent à la même molécule de signalisation (rouge) de différentes manières car chacune possède un ensemble différent de protéines (violettes et sarcelle). » Cela explique directement la base de la spécificité.",
+      "de": "Die Bildunterschrift zu Abbildung 11.17 besagt: 'Die spezifischen Proteine, die eine Zelle besitzt, bestimmen, auf welche Signalmoleküle sie reagiert und die Art der Reaktion. Die vier Zellen in diesen Diagrammen reagieren auf dasselbe Signalmolekül (rot) auf unterschiedliche Weise, da jede einen anderen Satz von Proteinen (lila und blaugrün) besitzt.' Dies erklärt direkt die Grundlage der Spezifität.",
+      "ja": "図11.17のキャプションには、「細胞が持つ特定のタンパク質が、どのシグナル分子に応答するか、および応答の性質を決定する。これらの図の4つの細胞は、それぞれ異なるタンパク質セット（紫とティール）を持っているため、同じシグナル分子（赤）に異なる方法で応答する」と記載されています。これが特異性の根拠を直接説明しています。"
+    }
+  }
+]

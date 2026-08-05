@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What was Alfred Sturtevant's key hypothesis for constructing a genetic map?",
+      "zh": "阿尔弗雷德·斯特蒂文特构建遗传图谱的关键假说是什么？",
+      "es": "¿Cuál fue la hipótesis clave de Alfred Sturtevant para construir un mapa genético?",
+      "fr": "Quelle était l'hypothèse clé d'Alfred Sturtevant pour construire une carte génétique ?",
+      "de": "Was war Alfred Sturtevants Schlüsselhypothese für die Erstellung einer Genkarte?",
+      "ja": "遺伝的地図を作成するためのアルフレッド・スターテバントの重要な仮説は何でしたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The frequency of recombination between two genes is proportional to the distance between them.",
+          "zh": "两个基因之间的重组频率与它们之间的距离成正比。",
+          "es": "La frecuencia de recombinación entre dos genes es proporcional a la distancia entre ellos.",
+          "fr": "La fréquence de recombinaison entre deux gènes est proportionnelle à la distance qui les sépare.",
+          "de": "Die Rekombinationsfrequenz zwischen zwei Genen ist proportional zum Abstand zwischen ihnen.",
+          "ja": "2つの遺伝子間の組換え頻度は、それらの間の距離に比例します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "All genes on a chromosome are completely linked and cannot be separated.",
+          "zh": "一条染色体上的所有基因都是完全连锁的，无法分离。",
+          "es": "Todos los genes de un cromosoma están completamente ligados y no se pueden separar.",
+          "fr": "Tous les gènes d'un chromosome sont complètement liés et ne peuvent pas être séparés.",
+          "de": "Alle Gene auf einem Chromosom sind vollständig gekoppelt und können nicht getrennt werden.",
+          "ja": "染色体上のすべての遺伝子は完全に連鎖しており、分離することはできません。"
+        },
+        "feedback": {
+          "en": "This contradicts the observation of recombinant offspring. Sturtevant's work was motivated by the fact that linkage is incomplete.",
+          "zh": "这与观察到的重组后代相矛盾。斯特蒂文特的研究动机正是连锁不完全这一事实。",
+          "es": "Esto contradice la observación de la descendencia recombinante. El trabajo de Sturtevant fue motivado por el hecho de que el ligamiento es incompleto.",
+          "fr": "Cela contredit l'observation de la descendance recombinante. Le travail de Sturtevant était motivé par le fait que la liaison est incomplète.",
+          "de": "Dies widerspricht der Beobachtung von rekombinanten Nachkommen. Sturtevants Arbeit wurde durch die Tatsache motiviert, dass die Kopplung unvollständig ist.",
+          "ja": "これは組換え子孫の観察と矛盾します。スターテバントの研究は、連鎖が不完全であるという事実によって動機付けられました。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The closer two genes are, the higher the recombination frequency.",
+          "zh": "两个基因越近，重组频率越高。",
+          "es": "Cuanto más cerca están dos genes, mayor es la frecuencia de recombinación.",
+          "fr": "Plus deux gènes sont proches, plus la fréquence de recombinaison est élevée.",
+          "de": "Je näher zwei Gene beieinander liegen, desto höher ist die Rekombinationsfrequenz.",
+          "ja": "2つの遺伝子が近いほど、組換え頻度は高くなります。"
+        },
+        "feedback": {
+          "en": "This is the opposite of his reasoning. He predicted that the farther apart two genes are, the higher the recombination frequency.",
+          "zh": "这与他的推理正好相反。他预测两个基因相距越远，重组频率越高。",
+          "es": "Esto es lo contrario de su razonamiento. Predijo que cuanto más separados estuvieran dos genes, mayor sería la frecuencia de recombinación.",
+          "fr": "C'est le contraire de son raisonnement. Il a prédit que plus deux gènes sont éloignés, plus la fréquence de recombinaison est élevée.",
+          "de": "Dies ist das Gegenteil seiner Argumentation. Er sagte voraus, dass je weiter zwei Gene voneinander entfernt sind, desto höher ist die Rekombinationsfrequenz.",
+          "ja": "これは彼の推論とは逆です。彼は、2つの遺伝子が離れているほど、組換え頻度が高くなると予測しました。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "One map unit is equivalent to a 10% recombination frequency.",
+          "zh": "一个图距单位等于 10% 的重组频率。",
+          "es": "Una unidad de mapa equivale a una frecuencia de recombinación del 10%.",
+          "fr": "Une unité de carte équivaut à une fréquence de recombinaison de 10 %.",
+          "de": "Eine Karteneinheit entspricht einer Rekombinationsfrequenz von 10 %.",
+          "ja": "1マップ単位は10％の組換え頻度に相当します。"
+        },
+        "feedback": {
+          "en": "Sturtevant defined one map unit as equivalent to a 1% recombination frequency.",
+          "zh": "斯特蒂文特将一个图距单位定义为等于 1% 的重组频率。",
+          "es": "Sturtevant definió una unidad de mapa como equivalente a una frecuencia de recombinación del 1%.",
+          "fr": "Sturtevant a défini une unité de carte comme équivalente à une fréquence de recombinaison de 1 %.",
+          "de": "Sturtevant definierte eine Karteneinheit als äquivalent zu einer Rekombinationsfrequenz von 1 %.",
+          "ja": "スターテバントは、1マップ単位を1％の組換え頻度に相当すると定義しました。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "The text states that Sturtevant predicted that 'the farther apart two genes are, the higher the probability that a crossover will occur between them and therefore the higher the recombination frequency.' This direct proportionality is the foundational principle of linkage mapping.",
+      "zh": "文本指出，斯特蒂文特预测“两个基因相距越远，它们之间发生交换的概率就越高，因此重组频率也越高”。这种正比关系是连锁图绘制的基本原则。",
+      "es": "El texto dice que Sturtevant predijo que 'cuanto más separados estén dos genes, mayor será la probabilidad de que ocurra un entrecruzamiento entre ellos y, por lo tanto, mayor será la frecuencia de recombinación'. Esta proporcionalidad directa es el principio fundamental del mapeo de ligamiento.",
+      "fr": "Le texte indique que Sturtevant a prédit que « plus deux gènes sont éloignés, plus la probabilité qu'un enjambement se produise entre eux est élevée et donc plus la fréquence de recombinaison est élevée ». Cette proportionnalité directe est le principe fondamental de la cartographie de liaison.",
+      "de": "Der Text besagt, dass Sturtevant voraussagte, dass „je weiter zwei Gene voneinander entfernt sind, desto höher ist die Wahrscheinlichkeit, dass ein Crossover zwischen ihnen stattfindet, und desto höher ist daher die Rekombinationsfrequenz.“ Diese direkte Proportionalität ist das Grundprinzip der Kopplungskartierung.",
+      "ja": "本文では、スターテバントが「2つの遺伝子が離れているほど、それらの間で交差が起こる確率が高くなり、したがって組換え頻度も高くなる」と予測したと述べられています。この正比例が連鎖地図作成の基本原則です。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Three genes (b, cn, vg) are on the same chromosome. The recombination frequencies are: b-cn = 9%, cn-vg = 9.5%, and b-vg = 17%. What is the most likely order of these genes on the chromosome?",
+      "zh": "三个基因（b, cn, vg）位于同一条染色体上。重组频率为：b-cn = 9%，cn-vg = 9.5%，b-vg = 17%。这些基因在染色体上最可能的顺序是什么？",
+      "es": "Tres genes (b, cn, vg) están en el mismo cromosoma. Las frecuencias de recombinación son: b-cn = 9%, cn-vg = 9.5% y b-vg = 17%. ¿Cuál es el orden más probable de estos genes en el cromosoma?",
+      "fr": "Trois gènes (b, cn, vg) se trouvent sur le même chromosome. Les fréquences de recombinaison sont : b-cn = 9 %, cn-vg = 9,5 % et b-vg = 17 %. Quel est l'ordre le plus probable de ces gènes sur le chromosome ?",
+      "de": "Drei Gene (b, cn, vg) liegen auf demselben Chromosom. Die Rekombinationsfrequenzen sind: b-cn = 9 %, cn-vg = 9,5 % und b-vg = 17 %. Was ist die wahrscheinlichste Reihenfolge dieser Gene auf dem Chromosom?",
+      "ja": "3つの遺伝子（b、cn、vg）は同じ染色体上にあります。組換え頻度は、b-cn = 9％、cn-vg = 9.5％、b-vg = 17％です。染色体上のこれらの遺伝子の最も可能性の高い順序は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "b - cn - vg",
+          "zh": "b - cn - vg",
+          "es": "b - cn - vg",
+          "fr": "b - cn - vg",
+          "de": "b - cn - vg",
+          "ja": "b - cn - vg"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "cn - b - vg",
+          "zh": "cn - b - vg",
+          "es": "cn - b - vg",
+          "fr": "cn - b - vg",
+          "de": "cn - b - vg",
+          "ja": "cn - b - vg"
+        },
+        "feedback": {
+          "en": "If this were the order, the distance between cn and vg would be the sum of the other two distances (9% + 17% = 26%), which does not match the given 9.5%.",
+          "zh": "如果顺序是这样，cn 和 vg 之间的距离将是另外两个距离的总和（9% + 17% = 26%），这与给定的 9.5% 不符。",
+          "es": "Si este fuera el orden, la distancia entre cn y vg sería la suma de las otras dos distancias (9% + 17% = 26%), lo que no coincide con el 9.5% dado.",
+          "fr": "Si tel était l'ordre, la distance entre cn et vg serait la somme des deux autres distances (9 % + 17 % = 26 %), ce qui ne correspond pas aux 9,5 % donnés.",
+          "de": "Wenn dies die Reihenfolge wäre, wäre der Abstand zwischen cn und vg die Summe der beiden anderen Abstände (9 % + 17 % = 26 %), was nicht mit den angegebenen 9,5 % übereinstimmt.",
+          "ja": "この順序であった場合、cnとvgの間の距離は他の2つの距離の合計（9％+ 17％= 26％）となり、与えられた9.5％とは一致しません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "b - vg - cn",
+          "zh": "b - vg - cn",
+          "es": "b - vg - cn",
+          "fr": "b - vg - cn",
+          "de": "b - vg - cn",
+          "ja": "b - vg - cn"
+        },
+        "feedback": {
+          "en": "If this were the order, the distance between b and cn would be the sum of the other two distances (17% + 9.5% = 26.5%), which does not match the given 9%.",
+          "zh": "如果顺序是这样，b 和 cn 之间的距离将是另外两个距离的总和（17% + 9.5% = 26.5%），这与给定的 9% 不符。",
+          "es": "Si este fuera el orden, la distancia entre b y cn sería la suma de las otras dos distancias (17% + 9.5% = 26.5%), lo que no coincide con el 9% dado.",
+          "fr": "Si tel était l'ordre, la distance entre b et cn serait la somme des deux autres distances (17 % + 9,5 % = 26,5 %), ce qui ne correspond pas aux 9 % donnés.",
+          "de": "Wenn dies die Reihenfolge wäre, wäre der Abstand zwischen b und cn die Summe der beiden anderen Abstände (17 % + 9,5 % = 26,5 %), was nicht mit den angegebenen 9 % übereinstimmt.",
+          "ja": "この順序であった場合、bとcnの間の距離は他の2つの距離の合計（17％+ 9.5％= 26.5％）となり、与えられた9％とは一致しません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The order cannot be determined from this data.",
+          "zh": "从这些数据中无法确定顺序。",
+          "es": "El orden no se puede determinar a partir de estos datos.",
+          "fr": "L'ordre ne peut pas être déterminé à partir de ces données.",
+          "de": "Die Reihenfolge kann aus diesen Daten nicht bestimmt werden.",
+          "ja": "このデータから順序を決定することはできません。"
+        },
+        "feedback": {
+          "en": "The data is consistent and allows for a single linear order to be deduced.",
+          "zh": "数据是一致的，可以推断出唯一的线性顺序。",
+          "es": "Los datos son consistentes y permiten deducir un único orden lineal.",
+          "fr": "Les données sont cohérentes et permettent de déduire un seul ordre linéaire.",
+          "de": "Die Daten sind konsistent und ermöglichen die Ableitung einer einzigen linearen Reihenfolge.",
+          "ja": "データは一貫しており、単一の線形順序を推測できます。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "To determine the gene order, find the largest recombination frequency (17% for b-vg). This means b and vg are the farthest apart and are at the ends. The third gene, cn, must be in the middle. The distances confirm this: the distance from b to vg (17%) is approximately the sum of the distances from b to cn (9%) and cn to vg (9.5%).",
+      "zh": "要确定基因顺序，请找到最大的重组频率（b-vg 为 17%）。这意味着 b 和 vg 相距最远，位于两端。第三个基因 cn 必须在中间。距离证实了这一点：从 b 到 vg 的距离（17%）约等于从 b 到 cn 的距离（9%）和从 cn 到 vg 的距离（9.5%）之和。",
+      "es": "Para determinar el orden de los genes, encuentre la frecuencia de recombinación más grande (17% para b-vg). Esto significa que b y vg son los más alejados y están en los extremos. El tercer gen, cn, debe estar en el medio. Las distancias lo confirman: la distancia de b a vg (17%) es aproximadamente la suma de las distancias de b a cn (9%) y de cn a vg (9.5%).",
+      "fr": "Pour déterminer l'ordre des gènes, trouvez la plus grande fréquence de recombinaison (17 % pour b-vg). Cela signifie que b et vg sont les plus éloignés et se trouvent aux extrémités. Le troisième gène, cn, doit se trouver au milieu. Les distances le confirment : la distance de b à vg (17 %) est approximativement la somme des distances de b à cn (9 %) et de cn à vg (9,5 %).",
+      "de": "Um die Genreihenfolge zu bestimmen, suchen Sie die größte Rekombinationsfrequenz (17 % für b-vg). Das bedeutet, dass b und vg am weitesten voneinander entfernt sind und an den Enden liegen. Das dritte Gen, cn, muss in der Mitte liegen. Die Abstände bestätigen dies: Der Abstand von b nach vg (17 %) ist ungefähr die Summe der Abstände von b nach cn (9 %) und von cn nach vg (9,5 %).",
+      "ja": "遺伝子の順序を決定するには、最大の組換え頻度（b-vgの場合は17％）を見つけます。これは、bとvgが最も離れており、両端にあることを意味します。3番目の遺伝子cnは中央にある必要があります。距離はこれを確認します。bからvgまでの距離（17％）は、bからcnまでの距離（9％）とcnからvgまでの距離（9.5％）の合計にほぼ等しくなります。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Why is the observed recombination frequency between two distant genes (like b and vg at 17%) often slightly less than the sum of the frequencies between them and an intermediate gene (b-cn at 9% + cn-vg at 9.5% = 18.5%)?",
+      "zh": "为什么两个相距较远的基因（如 b 和 vg，17%）之间观察到的重组频率，通常会略小于它们与一个中间基因之间频率的总和（b-cn 9% + cn-vg 9.5% = 18.5%）？",
+      "es": "¿Por qué la frecuencia de recombinación observada entre dos genes distantes (como b y vg al 17%) es a menudo ligeramente menor que la suma de las frecuencias entre ellos y un gen intermedio (b-cn al 9% + cn-vg al 9.5% = 18.5%)?",
+      "fr": "Pourquoi la fréquence de recombinaison observée entre deux gènes distants (comme b et vg à 17 %) est-elle souvent légèrement inférieure à la somme des fréquences entre eux et un gène intermédiaire (b-cn à 9 % + cn-vg à 9,5 % = 18,5 %) ?",
+      "de": "Warum ist die beobachtete Rekombinationsfrequenz zwischen zwei entfernten Genen (wie b und vg bei 17 %) oft etwas geringer als die Summe der Frequenzen zwischen ihnen und einem intermediären Gen (b-cn bei 9 % + cn-vg bei 9,5 % = 18,5 %)?",
+      "ja": "なぜ、2つの遠い遺伝子（bとvg、17％）間で観察される組換え頻度は、それらと中間遺伝子（b-cn、9％+ cn-vg、9.5％= 18.5％）間の頻度の合計よりもわずかに少なくなることが多いのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The experimental data must be incorrect.",
+          "zh": "实验数据肯定有误。",
+          "es": "Los datos experimentales deben ser incorrectos.",
+          "fr": "Les données expérimentales doivent être incorrectes.",
+          "de": "Die experimentellen Daten müssen falsch sein.",
+          "ja": "実験データは間違っているに違いありません。"
+        },
+        "feedback": {
+          "en": "This is a consistent and predictable phenomenon in genetics, not an error.",
+          "zh": "这是遗传学中一个一致且可预测的现象，并非错误。",
+          "es": "Este es un fenómeno consistente y predecible en genética, no un error.",
+          "fr": "C'est un phénomène cohérent et prévisible en génétique, pas une erreur.",
+          "de": "Dies ist ein konsistentes und vorhersagbares Phänomen in der Genetik, kein Fehler.",
+          "ja": "これは遺伝学において一貫性のある予測可能な現象であり、エラーではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The presence of the intermediate gene (cn) physically blocks some crossovers.",
+          "zh": "中间基因（cn）的存在物理上阻碍了一些交换的发生。",
+          "es": "La presencia del gen intermedio (cn) bloquea físicamente algunos entrecruzamientos.",
+          "fr": "La présence du gène intermédiaire (cn) bloque physiquement certains enjambements.",
+          "de": "Das Vorhandensein des intermediären Gens (cn) blockiert physikalisch einige Crossovers.",
+          "ja": "中間遺伝子（cn）の存在が、一部の交差を物理的に妨げます。"
+        },
+        "feedback": {
+          "en": "Genes are just segments of DNA; they don't physically block the process of crossing over.",
+          "zh": "基因只是 DNA 的片段；它们不会物理上阻碍交换过程。",
+          "es": "Los genes son solo segmentos de ADN; no bloquean físicamente el proceso de entrecruzamiento.",
+          "fr": "Les gènes ne sont que des segments d'ADN ; ils ne bloquent pas physiquement le processus d'enjambement.",
+          "de": "Gene sind nur DNA-Abschnitte; sie blockieren den Prozess des Crossing-overs nicht physikalisch.",
+          "ja": "遺伝子は単なるDNAの断片であり、交差のプロセスを物理的に妨げることはありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Double crossovers between the two distant genes can occur, which restores the parental combination of alleles.",
+          "zh": "两个相距较远的基因之间可能发生双交换，这会恢复亲本的等位基因组合。",
+          "es": "Pueden ocurrir dobles entrecruzamientos entre los dos genes distantes, lo que restaura la combinación parental de alelos.",
+          "fr": "Des doubles enjambements peuvent se produire entre les deux gènes distants, ce qui restaure la combinaison parentale d'allèles.",
+          "de": "Doppelte Crossovers zwischen den beiden entfernten Genen können auftreten, wodurch die elterliche Allelkombination wiederhergestellt wird.",
+          "ja": "2つの遠い遺伝子間で二重交差が起こり、親の対立遺伝子の組み合わせが復元されることがあります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The distance in map units is not directly proportional to recombination frequency.",
+          "zh": "图距单位与重组频率不成正比。",
+          "es": "La distancia en unidades de mapa no es directamente proporcional a la frecuencia de recombinación.",
+          "fr": "La distance en unités de carte n'est pas directement proportionnelle à la fréquence de recombinaison.",
+          "de": "Der Abstand in Karteneinheiten ist nicht direkt proportional zur Rekombinationsfrequenz.",
+          "ja": "マップ単位の距離は、組換え頻度に直接比例しません。"
+        },
+        "feedback": {
+          "en": "The very definition of a map unit is based on this proportionality (1 map unit = 1% recombination). The discrepancy arises from a specific meiotic event.",
+          "zh": "图距单位的定义正是基于这种比例关系（1 图距 = 1% 重组率）。差异是由一个特定的减数分裂事件引起的。",
+          "es": "La definición misma de una unidad de mapa se basa en esta proporcionalidad (1 unidad de mapa = 1% de recombinación). La discrepancia surge de un evento meiótico específico.",
+          "fr": "La définition même d'une unité de carte est basée sur cette proportionnalité (1 unité de carte = 1 % de recombinaison). L'écart provient d'un événement méiotique spécifique.",
+          "de": "Die Definition einer Karteneinheit basiert auf dieser Proportionalität (1 Karteneinheit = 1 % Rekombination). Die Diskrepanz ergibt sich aus einem spezifischen meiotischen Ereignis.",
+          "ja": "マップ単位の定義自体がこの比例に基づいています（1マップ単位= 1％の組換え）。不一致は、特定の減数分裂イベントから生じます。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text explains that the b-vg frequency (17%) is less than the sum (18.5%) because of double crossovers. A double crossover event (one between b and cn, and another between cn and vg) would swap the middle segment, but leave the alleles for b and vg on the same chromatid as they started. This event produces a parental-type chromosome and is therefore not counted as a recombinant for the b-vg pair, leading to an underestimation of the true genetic distance.",
+      "zh": "文本解释说，b-vg 的频率（17%）小于总和（18.5%）是由于双交换造成的。一个双交换事件（一个在 b 和 cn 之间，另一个在 cn 和 vg 之间）会交换中间片段，但会使 b 和 vg 的等位基因留在它们开始时所在的同一条染色单体上。这个事件产生了一个亲本型的染色体，因此不被计为 b-vg 对的重组体，从而导致对真实遗传距离的低估。",
+      "es": "El texto explica que la frecuencia de b-vg (17%) es menor que la suma (18.5%) debido a los dobles entrecruzamientos. Un evento de doble entrecruzamiento (uno entre b y cn, y otro entre cn y vg) intercambiaría el segmento medio, pero dejaría los alelos para b y vg en la misma cromátida en la que comenzaron. Este evento produce un cromosoma de tipo parental y, por lo tanto, no se cuenta como un recombinante para el par b-vg, lo que lleva a una subestimación de la distancia genética real.",
+      "fr": "Le texte explique que la fréquence b-vg (17 %) est inférieure à la somme (18,5 %) en raison des doubles enjambements. Un événement de double enjambement (un entre b et cn, et un autre entre cn et vg) échangerait le segment du milieu, mais laisserait les allèles pour b et vg sur la même chromatide que celle où ils ont commencé. Cet événement produit un chromosome de type parental et n'est donc pas compté comme un recombinant pour la paire b-vg, ce qui conduit à une sous-estimation de la distance génétique réelle.",
+      "de": "Der Text erklärt, dass die b-vg-Frequenz (17 %) aufgrund von doppelten Crossovers geringer ist als die Summe (18,5 %). Ein doppeltes Crossover-Ereignis (eines zwischen b und cn und ein weiteres zwischen cn und vg) würde das mittlere Segment austauschen, aber die Allele für b und vg auf derselben Chromatide belassen, auf der sie begonnen haben. Dieses Ereignis erzeugt ein elterliches Chromosom und wird daher nicht als Rekombinante für das b-vg-Paar gezählt, was zu einer Unterschätzung des wahren genetischen Abstands führt.",
+      "ja": "本文では、b-vgの頻度（17％）が合計（18.5％）よりも低いのは、二重交差のためであると説明されています。二重交差イベント（bとcnの間、およびcnとvgの間のもう1つ）は、中央のセグメントを交換しますが、bとvgの対立遺伝子を開始したのと同じ染色分体上に残します。このイベントは親型の染色体を生み出すため、b-vgペアの組換え体としてカウントされず、真の遺伝的距離の過小評価につながります。"
+    }
+  }
+]

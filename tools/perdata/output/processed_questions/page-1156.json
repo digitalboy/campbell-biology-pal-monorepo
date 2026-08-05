@@ -1,0 +1,385 @@
+[
+  {
+    "page_number": 1156,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the diagram \"What steps link sensory stimuli to animal activity?\", what is the correct sequence of information flow in the nervous system from sensory input to motor output?",
+      "zh": "根据图表“感觉刺激如何与动物活动关联？”，从感觉输入到运动输出的神经系统信息流动的正确顺序是什么？",
+      "es": "Según el diagrama \"¿Qué pasos vinculan los estímulos sensoriales con la actividad animal?\", ¿cuál es la secuencia correcta del flujo de información en el sistema nervioso desde la entrada sensorial hasta la salida motora?",
+      "fr": "Selon le diagramme \"Quelles étapes relient les stimuli sensoriels à l'activité animale ?\", quelle est la séquence correcte du flux d'informations dans le système nerveux, de l'entrée sensorielle à la sortie motrice ?",
+      "de": "Gemäß dem Diagramm \"Welche Schritte verbinden sensorische Reize mit tierischer Aktivität?\", was ist die korrekte Reihenfolge des Informationsflusses im Nervensystem von sensorischem Input zu motorischem Output?",
+      "ja": "図「感覚刺激が動物の活動にどのように関連するか？」によると、感覚入力から運動出力までの神経系における情報伝達の正しい順序は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Sensory receptors -> Central nervous system -> Motor output",
+          "zh": "感觉受体 -> 中枢神经系统 -> 运动输出",
+          "es": "Receptores sensoriales -> Sistema nervioso central -> Salida motora",
+          "fr": "Récepteurs sensoriels -> Système nerveux central -> Sortie motrice",
+          "de": "Sensorische Rezeptoren -> Zentralnervensystem -> Motorische Ausgabe",
+          "ja": "感覚受容器 -> 中枢神経系 -> 運動出力"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Motor output -> Central nervous system -> Sensory receptors",
+          "zh": "运动输出 -> 中枢神经系统 -> 感觉受体",
+          "es": "Salida motora -> Sistema nervioso central -> Receptores sensoriales",
+          "fr": "Sortie motrice -> Système nerveux central -> Récepteurs sensoriels",
+          "de": "Motorische Ausgabe -> Zentralnervensystem -> Sensorische Rezeptoren",
+          "ja": "運動出力 -> 中枢神経系 -> 感覚受容器"
+        },
+        "feedback": {
+          "en": "This sequence is incorrect; information flows from sensory input to motor output, not the reverse.",
+          "zh": "这个顺序不正确；信息流是从感觉输入到运动输出，而不是反向。",
+          "es": "Esta secuencia es incorrecta; la información fluye desde la entrada sensorial a la salida motora, no al revés.",
+          "fr": "Cette séquence est incorrecte ; l'information circule de l'entrée sensorielle vers la sortie motrice, et non l'inverse.",
+          "de": "Diese Reihenfolge ist falsch; Informationen fließen vom sensorischen Input zum motorischen Output, nicht umgekehrt.",
+          "ja": "この順序は不正確です。情報は感覚入力から運動出力へと流れます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Central nervous system -> Sensory receptors -> Motor output",
+          "zh": "中枢神经系统 -> 感觉受体 -> 运动输出",
+          "es": "Sistema nervioso central -> Receptores sensoriales -> Salida motora",
+          "fr": "Système nerveux central -> Récepteurs sensoriels -> Sortie motrice",
+          "de": "Zentralnervensystem -> Sensorische Rezeptoren -> Motorische Ausgabe",
+          "ja": "中枢神経系 -> 感覚受容器 -> 運動出力"
+        },
+        "feedback": {
+          "en": "This sequence is incorrect; sensory receptors are the initial point of input, not the central nervous system.",
+          "zh": "这个顺序不正确；感觉受体是输入的起始点，而不是中枢神经系统。",
+          "es": "Esta secuencia es incorrecta; los receptores sensoriales son el punto inicial de entrada, no el sistema nervioso central.",
+          "fr": "Cette séquence est incorrecte ; les récepteurs sensoriels sont le point initial de l'entrée, pas le système nerveux central.",
+          "de": "Diese Reihenfolge ist falsch; sensorische Rezeptoren sind der ursprüngliche Eingabepunkt, nicht das Zentralnervensystem.",
+          "ja": "この順序は不正確です。感覚受容器は入力の最初の点であり、中枢神経系ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Sensory receptors -> Motor output -> Central nervous system",
+          "zh": "感觉受体 -> 运动输出 -> 中枢神经系统",
+          "es": "Receptores sensoriales -> Salida motora -> Sistema nervioso central",
+          "fr": "Récepteurs sensoriels -> Sortie motrice -> Système nerveux central",
+          "de": "Sensorische Rezeptoren -> Motorische Ausgabe -> Zentralnervensystem",
+          "ja": "感覚受容器 -> 運動出力 -> 中枢神経系"
+        },
+        "feedback": {
+          "en": "This sequence is incorrect; the central nervous system processes information *before* motor output.",
+          "zh": "这个顺序不正确；中枢神经系统在运动输出*之前*处理信息。",
+          "es": "Esta secuencia es incorrecta; el sistema nervioso central procesa la información *antes* de la salida motora.",
+          "fr": "Cette séquence est incorrecte ; le système nerveux central traite les informations *avant* la sortie motrice.",
+          "de": "Diese Reihenfolge ist falsch; das Zentralnervensystem verarbeitet Informationen *vor* der motorischen Ausgabe.",
+          "ja": "この順序は不正確です。中枢神経系は運動出力の*前に*情報を処理します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The diagram clearly illustrates that sensory receptors receive stimuli and transmit signals to the central nervous system (processing center), which then decodes and processes these signals, leading to a motor output via muscles or glands. This represents the basic flow of information in a reflex arc or sensory-motor pathway.",
+      "zh": "图表清楚地说明，感觉受体接收刺激并将信号传输到中枢神经系统（处理中心），然后中枢神经系统解码并处理这些信号，通过肌肉或腺体产生运动输出。这代表了反射弧或感觉-运动通路中信息流的基本过程。",
+      "es": "El diagrama ilustra claramente que los receptores sensoriales reciben estímulos y transmiten señales al sistema nervioso central (centro de procesamiento), que luego decodifica y procesa estas señales, lo que lleva a una salida motora a través de músculos o glándulas. Esto representa el flujo básico de información en un arco reflejo o vía sensorial-motora.",
+      "fr": "Le diagramme illustre clairement que les récepteurs sensoriels reçoivent des stimuli et transmettent des signaux au système nerveux central (centre de traitement), qui ensuite décode et traite ces signaux, conduisant à une sortie motrice via les muscles ou les glandes. Cela représente le flux d'informations de base dans un arc réflexe ou une voie sensorimotrice.",
+      "de": "Das Diagramm veranschaulicht deutlich, dass sensorische Rezeptoren Reize empfangen und Signale an das Zentralnervensystem (Verarbeitungszentrum) senden, welches diese Signale dann entschlüsselt und verarbeitet, was zu einer motorischen Ausgabe über Muskeln oder Drüsen führt. Dies stellt den grundlegenden Informationsfluss in einem Reflexbogen oder sensorisch-motorischen Pfad dar.",
+      "ja": "図は、感覚受容器が刺激を受け取り、信号を中枢神経系（処理センター）に伝達し、その後中枢神経系がこれらの信号を解読・処理し、筋肉や腺を介して運動出力につながることを明確に示しています。これは、反射弓または感覚運動経路における情報の基本的な流れを表しています。"
+    }
+  },
+  {
+    "page_number": 1156,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the information presented in the diagram \"What steps link sensory stimuli to animal activity?\", which of the following pairings of sensory receptor type and its primary stimulus is INCORRECT?",
+      "zh": "根据图表“感觉刺激如何与动物活动关联？”中提供的信息，以下哪组感觉受体类型及其主要刺激的配对是**不正确**的？",
+      "es": "Basándose en la información presentada en el diagrama \"¿Qué pasos vinculan los estímulos sensoriales con la actividad animal?\", ¿cuál de los siguientes pares de tipo de receptor sensorial y su estímulo principal es **INCORRECTO**?",
+      "fr": "D'après les informations présentées dans le diagramme \"Quelles étapes relient les stimuli sensoriels à l'activité animale ?\", lequel des appariements suivants entre le type de récepteur sensoriel et son stimulus principal est **INCORRECT** ?",
+      "de": "Basierend auf den im Diagramm \"Welche Schritte verbinden sensorische Reize mit tierischer Aktivität?\" dargestellten Informationen, welche der folgenden Paarungen von sensorischem Rezeptortyp und seinem primären Stimulus ist **FALSCH**?",
+      "ja": "図「感覚刺激が動物の活動にどのように関連するか？」に示されている情報に基づき、以下の感覚受容器の種類とその主な刺激の組み合わせで**正しくない**ものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Mechanoreceptors: Sound, touch, motion",
+          "zh": "机械感受器：声音、触觉、运动",
+          "es": "Mecanorreceptores: Sonido, tacto, movimiento",
+          "fr": "Mécanorécepteurs : Son, toucher, mouvement",
+          "de": "Mechanorezeptoren: Schall, Berührung, Bewegung",
+          "ja": "機械受容器：音、触覚、運動"
+        },
+        "feedback": {
+          "en": "This pairing is correct according to the diagram.",
+          "zh": "根据图表，此配对是正确的。",
+          "es": "Este par es correcto según el diagrama.",
+          "fr": "Cet appariement est correct selon le diagramme.",
+          "de": "Diese Paarung ist laut Diagramm korrekt.",
+          "ja": "この組み合わせは図によると正しいです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Electromagnetic receptors: Light, electricity",
+          "zh": "电磁感受器：光、电",
+          "es": "Receptores electromagnéticos: Luz, electricidad",
+          "fr": "Récepteurs électromagnétiques : Lumière, électricité",
+          "de": "Elektromagnetische Rezeptoren: Licht, Elektrizität",
+          "ja": "電磁受容器：光、電気"
+        },
+        "feedback": {
+          "en": "This pairing is correct according to the diagram.",
+          "zh": "根据图表，此配对是正确的。",
+          "es": "Este par es correcto según el diagrama.",
+          "fr": "Cet appariement est correct selon le diagramme.",
+          "de": "Diese Paarung ist laut Diagramm korrekt.",
+          "ja": "この組み合わせは図によると正しいです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Chemoreceptors: Heat, cold",
+          "zh": "化学感受器：热、冷",
+          "es": "Quimiorreceptores: Calor, frío",
+          "fr": "Chimiorécepteurs : Chaleur, froid",
+          "de": "Chemorezeptoren: Hitze, Kälte",
+          "ja": "化学受容器：熱、冷"
+        },
+        "feedback": {
+          "en": "Incorrect. Chemoreceptors detect solutes, tastes, and smells. Heat and cold are detected by Thermoreceptors.",
+          "zh": "不正确。化学感受器检测溶质、味觉和嗅觉。热和冷是由温度感受器检测的。",
+          "es": "Incorrecto. Los quimiorreceptores detectan solutos, sabores y olores. El calor y el frío son detectados por los termorreceptores.",
+          "fr": "Incorrect. Les chimiorécepteurs détectent les solutés, les goûts et les odeurs. La chaleur et le froid sont détectés par les thermorécepteurs.",
+          "de": "Falsch. Chemorezeptoren detektieren gelöste Stoffe, Geschmäcker und Gerüche. Hitze und Kälte werden von Thermorezeptoren detektiert.",
+          "ja": "不正解。化学受容器は溶質、味覚、嗅覚を感知します。熱と冷たさは温覚受容器によって感知されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Pain receptors: Noxious chemicals, temperatures",
+          "zh": "痛觉感受器：有害化学物质、温度",
+          "es": "Receptores del dolor: Sustancias químicas nocivas, temperaturas",
+          "fr": "Récepteurs de la douleur : Produits chimiques nocifs, températures",
+          "de": "Schmerzrezeptoren: Schädliche Chemikalien, Temperaturen",
+          "ja": "痛覚受容器：有害な化学物質、温度"
+        },
+        "feedback": {
+          "en": "This pairing is correct according to the diagram.",
+          "zh": "根据图表，此配对是正确的。",
+          "es": "Este par es correcto según el diagrama.",
+          "fr": "Cet appariement est correct selon le diagramme.",
+          "de": "Diese Paarung ist laut Diagramm korrekt.",
+          "ja": "この組み合わせは図によると正しいです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The diagram clearly labels Chemoreceptors as detecting 'Solutes, tastes, smells' and Thermoreceptors as detecting 'Heat, cold'. Therefore, the pairing of 'Chemoreceptors: Heat, cold' is incorrect.",
+      "zh": "图表明确标示化学感受器检测“溶质、味觉、嗅觉”，而温度感受器检测“热、冷”。因此，“化学感受器：热、冷”的配对是不正确的。",
+      "es": "El diagrama etiqueta claramente a los quimiorreceptores como detectores de 'Solutos, sabores, olores' y a los termorreceptores como detectores de 'Calor, frío'. Por lo tanto, el emparejamiento de 'Quimiorreceptores: Calor, frío' es incorrecto.",
+      "fr": "Le diagramme étiquette clairement les chimiorécepteurs comme détectant les « Solutés, goûts, odeurs » et les thermorécepteurs comme détectant la « Chaleur, le froid ». Par conséquent, l'appariement « Chimiorécepteurs : Chaleur, froid » est incorrect.",
+      "de": "Das Diagramm beschriftet Chemorezeptoren eindeutig als Detektoren für 'gelöste Stoffe, Geschmäcker, Gerüche' und Thermorezeptoren als Detektoren für 'Hitze, Kälte'. Daher ist die Paarung 'Chemorezeptoren: Hitze, Kälte' falsch.",
+      "ja": "図には、化学受容器が「溶質、味覚、嗅覚」を感知し、温覚受容器が「熱、冷たさ」を感知すると明確に記されています。したがって、「化学受容器：熱、冷たさ」の組み合わせは正しくありません。"
+    }
+  },
+  {
+    "page_number": 1156,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The star-nosed mole (*Condylura cristata*) is described as relying on 25,000 touch-sensitive receptors on its star-shaped appendages to find prey in total darkness. Which type of sensory receptor is primarily responsible for detecting the presence of prey through touch, and what form does the sensory information take as it travels to the brain?",
+      "zh": "星鼻鼹鼠（*Condylura cristata*）被描述为依靠其星形附肢上的25,000个触敏感受器在完全黑暗中寻找猎物。哪种感觉受体类型主要负责通过触觉检测猎物的存在，以及感觉信息在传输到大脑时采取何种形式？",
+      "es": "Se describe que el topo de nariz estrellada (*Condylura cristata*) depende de 25.000 receptores sensibles al tacto en sus apéndices en forma de estrella para encontrar presas en la oscuridad total. ¿Qué tipo de receptor sensorial es el principal responsable de detectar la presencia de presas a través del tacto, y qué forma adopta la información sensorial a medida que viaja al cerebro?",
+      "fr": "La taupe à nez étoilé (*Condylura cristata*) est décrite comme s'appuyant sur 25 000 récepteurs tactiles sur ses appendices en forme d'étoile pour trouver ses proies dans l'obscurité totale. Quel type de récepteur sensoriel est principalement responsable de la détection de la présence de proies par le toucher, et quelle forme prend l'information sensorielle lorsqu'elle se déplace vers le cerveau ?",
+      "de": "Der Sternmull (*Condylura cristata*) wird so beschrieben, dass er sich auf 25.000 berührungsempfindliche Rezeptoren an seinen sternförmigen Anhängseln verlässt, um Beute in völliger Dunkelheit zu finden. Welcher Typ von sensorischem Rezeptor ist hauptsächlich für die Detektion von Beute durch Berührung verantwortlich, und welche Form nimmt die sensorische Information an, wenn sie zum Gehirn gelangt?",
+      "ja": "ホシバナモグラ（*Condylura cristata*）は、完全に暗闇の中で獲物を見つけるために、星形付属肢にある25,000個の触覚受容器に依存していると説明されています。触覚を通して獲物の存在を感知する主な感覚受容器の種類は何であり、感覚情報は脳に伝達される際にどのような形をとりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Chemoreceptors; electrical signals",
+          "zh": "化学感受器；电信号",
+          "es": "Quimiorreceptores; señales eléctricas",
+          "fr": "Chimiorécepteurs ; signaux électriques",
+          "de": "Chemorezeptoren; elektrische Signale",
+          "ja": "化学受容器；電気信号"
+        },
+        "feedback": {
+          "en": "Chemoreceptors are for taste and smell, not touch. While neural signals are electrical, this is not the primary receptor type for touch.",
+          "zh": "化学感受器用于味觉和嗅觉，而非触觉。虽然神经信号是电信号，但这并非触觉的主要受体类型。",
+          "es": "Los quimiorreceptores son para el gusto y el olfato, no para el tacto. Si bien las señales neurales son eléctricas, este no es el tipo de receptor principal para el tacto.",
+          "fr": "Les chimiorécepteurs sont pour le goût et l'odorat, pas le toucher. Bien que les signaux neuronaux soient électriques, ce n'est pas le type de récepteur principal pour le toucher.",
+          "de": "Chemorezeptoren sind für Geschmack und Geruch zuständig, nicht für Berührung. Obwohl neuronale Signale elektrisch sind, ist dies nicht der primäre Rezeptortyp für Berührung.",
+          "ja": "化学受容器は味覚と嗅覚のためのもので、触覚ではありません。神経信号は電気信号ですが、これは触覚の主要な受容器ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Mechanoreceptors; action potentials",
+          "zh": "机械感受器；动作电位",
+          "es": "Mecanorreceptores; potenciales de acción",
+          "fr": "Mécanorécepteurs ; potentiels d'action",
+          "de": "Mechanorezeptoren; Aktionspotenziale",
+          "ja": "機械受容器；活動電位"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Thermoreceptors; chemical signals",
+          "zh": "温度感受器；化学信号",
+          "es": "Termorreceptores; señales químicas",
+          "fr": "Thermorécepteurs ; signaux chimiques",
+          "de": "Thermorezeptoren; chemische Signale",
+          "ja": "温覚受容器；化学信号"
+        },
+        "feedback": {
+          "en": "Thermoreceptors detect heat and cold, not touch. Sensory information is transmitted as electrical (action potential) signals, not chemical signals, for long-distance communication.",
+          "zh": "温度感受器检测热和冷，而非触觉。感觉信息以电（动作电位）信号形式传输，而非化学信号，用于远距离通信。",
+          "es": "Los termorreceptores detectan el calor y el frío, no el tacto. La información sensorial se transmite como señales eléctricas (potencial de acción), no químicas, para la comunicación a larga distancia.",
+          "fr": "Les thermorécepteurs détectent la chaleur et le froid, pas le toucher. L'information sensorielle est transmise sous forme de signaux électriques (potentiels d'action), et non chimiques, pour la communication à longue distance.",
+          "de": "Thermorezeptoren detektieren Hitze und Kälte, nicht Berührung. Sensorische Informationen werden für die Fernkommunikation als elektrische (Aktionspotenzial-) Signale übertragen, nicht als chemische Signale.",
+          "ja": "温覚受容器は熱と冷たさを感知するもので、触覚ではありません。感覚情報は長距離伝達のために化学信号ではなく電気信号（活動電位）として伝達されます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Electromagnetic receptors; nerve impulses",
+          "zh": "电磁感受器；神经冲动",
+          "es": "Receptores electromagnéticos; impulsos nerviosos",
+          "fr": "Récepteurs électromagnétiques ; impulsions nerveuses",
+          "de": "Elektromagnetische Rezeptoren; Nervenimpulse",
+          "ja": "電磁受容器；神経インパルス"
+        },
+        "feedback": {
+          "en": "Electromagnetic receptors detect light and electricity, not touch. While 'nerve impulses' is a general term, 'action potentials' is more precise, and the receptor type is incorrect for touch.",
+          "zh": "电磁感受器检测光和电，而非触觉。虽然“神经冲动”是一个通用术语，“动作电位”更精确，且此受体类型不适用于触觉。",
+          "es": "Los receptores electromagnéticos detectan luz y electricidad, no el tacto. Aunque 'impulsos nerviosos' es un término general, 'potenciales de acción' es más preciso, y el tipo de receptor es incorrecto para el tacto.",
+          "fr": "Les récepteurs électromagnétiques détectent la lumière et l'électricité, pas le toucher. Bien que « impulsions nerveuses » soit un terme général, « potentiels d'action » est plus précis, et le type de récepteur est incorrect pour le toucher.",
+          "de": "Elektromagnetische Rezeptoren detektieren Licht und Elektrizität, nicht Berührung. Obwohl 'Nervenimpulse' ein allgemeiner Begriff ist, ist 'Aktionspotenziale' präziser, und der Rezeptortyp ist für Berührung falsch.",
+          "ja": "電磁受容器は光と電気を感知するもので、触覚ではありません。「神経インパルス」は一般的な用語ですが、「活動電位」はより正確であり、触覚に対する受容器の種類としては不適切です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The description of the mole's receptors as 'touch-sensitive' directly points to Mechanoreceptors, which detect touch, sound, and motion. The diagram also states that 'Sensory information encoded as action potentials is sent along specific paths (axons)', confirming the form of transmission to the brain.",
+      "zh": "对鼹鼠受体“触敏”的描述直接指向机械感受器，它们检测触觉、声音和运动。图表还指出“感觉信息以动作电位形式编码，并沿特定路径（轴突）发送”，这证实了信息传输到大脑的形式。",
+      "es": "La descripción de los receptores del topo como 'sensibles al tacto' apunta directamente a los mecanorreceptores, que detectan el tacto, el sonido y el movimiento. El diagrama también establece que la 'información sensorial codificada como potenciales de acción se envía a lo largo de caminos específicos (axones)', confirmando la forma de transmisión al cerebro.",
+      "fr": "La description des récepteurs de la taupe comme « sensibles au toucher » désigne directement les mécanorécepteurs, qui détectent le toucher, le son et le mouvement. Le diagramme indique également que « l'information sensorielle encodée sous forme de potentiels d'action est envoyée le long de chemins spécifiques (axones) », confirmant la forme de transmission au cerveau.",
+      "de": "Die Beschreibung der Rezeptoren des Molls als 'berührungsempfindlich' weist direkt auf Mechanorezeptoren hin, die Berührung, Schall und Bewegung detektieren. Das Diagramm besagt auch, dass 'sensorische Informationen als Aktionspotenziale kodiert und entlang spezifischer Pfade (Axone) gesendet werden', was die Form der Übertragung zum Gehirn bestätigt.",
+      "ja": "モグラの受容器が「触覚に敏感」であるという記述は、触覚、音、運動を感知する機械受容器を直接指しています。また、図には「感覚情報は活動電位として符号化され、特定の経路（軸索）を介して送信される」とあり、脳への伝達形式が確認されます。"
+    }
+  },
+  {
+    "page_number": 1156,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The diagram indicates that both sensory information and motor commands are \"encoded as action potentials\" and sent along specific paths (axons). What does this imply about the nature of neural communication?",
+      "zh": "图表显示，感觉信息和运动指令都被“编码为动作电位”并通过特定路径（轴突）发送。这暗示了神经通信的本质是什么？",
+      "es": "El diagrama indica que tanto la información sensorial como los comandos motores están \"codificados como potenciales de acción\" y se envían a lo largo de rutas específicas (axones). ¿Qué implica esto sobre la naturaleza de la comunicación neural?",
+      "fr": "Le diagramme indique que l'information sensorielle et les commandes motrices sont toutes deux « encodées sous forme de potentiels d'action » et envoyées le long de chemins spécifiques (axones). Qu'est-ce que cela implique quant à la nature de la communication neurale ?",
+      "de": "Das Diagramm zeigt, dass sowohl sensorische Informationen als auch motorische Befehle \"als Aktionspotenziale kodiert\" und entlang spezifischer Pfade (Axone) gesendet werden. Was bedeutet dies für die Natur der neuronalen Kommunikation?",
+      "ja": "図は、感覚情報と運動指令の両方が「活動電位として符号化」され、特定の経路（軸索）に沿って送信されることを示しています。これは神経伝達の性質について何を意味しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "All neural signals are processed by chemical neurotransmitters directly at the processing center.",
+          "zh": "所有神经信号都直接在处理中心通过化学神经递质处理。",
+          "es": "Todas las señales neurales son procesadas por neurotransmisores químicos directamente en el centro de procesamiento.",
+          "fr": "Tous les signaux neuronaux sont traités directement par des neurotransmetteurs chimiques au centre de traitement.",
+          "de": "Alle neuronalen Signale werden direkt im Verarbeitungszentrum durch chemische Neurotransmitter verarbeitet.",
+          "ja": "すべての神経信号は、処理センターで直接化学神経伝達物質によって処理されます。"
+        },
+        "feedback": {
+          "en": "While neurotransmitters are crucial for synaptic communication, long-distance transmission within neurons themselves is electrical (action potentials).",
+          "zh": "虽然神经递质对突触通信至关重要，但神经元内部的长距离传输是电信号（动作电位）。",
+          "es": "Aunque los neurotransmisores son cruciales para la comunicación sináptica, la transmisión a larga distancia dentro de las propias neuronas es eléctrica (potenciales de acción).",
+          "fr": "Bien que les neurotransmetteurs soient cruciaux pour la communication synaptique, la transmission à longue distance au sein des neurones eux-mêmes est électrique (potentiels d'action).",
+          "de": "Obwohl Neurotransmitter für die synaptische Kommunikation entscheidend sind, ist die Fernübertragung innerhalb der Neuronen selbst elektrisch (Aktionspotenziale).",
+          "ja": "神経伝達物質はシナプス伝達に重要ですが、ニューロン内の長距離伝達自体は電気的（活動電位）です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The nervous system primarily uses a universal electrical signal (action potential) for long-distance communication.",
+          "zh": "神经系统主要使用一种通用的电信号（动作电位）进行长距离通信。",
+          "es": "El sistema nervioso utiliza principalmente una señal eléctrica universal (potencial de acción) para la comunicación a larga distancia.",
+          "fr": "Le système nerveux utilise principalement un signal électrique universel (potentiel d'action) pour la communication à longue distance.",
+          "de": "Das Nervensystem verwendet hauptsächlich ein universelles elektrisches Signal (Aktionspotenzial) für die Fernkommunikation.",
+          "ja": "神経系は主に、長距離通信のために普遍的な電気信号（活動電位）を使用します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Sensory and motor pathways use different encoding mechanisms, despite both being called \"action potentials.\"",
+          "zh": "感觉和运动通路使用不同的编码机制，尽管都被称为“动作电位”。",
+          "es": "Las vías sensoriales y motoras utilizan diferentes mecanismos de codificación, a pesar de que ambos se denominan \"potenciales de acción\".",
+          "fr": "Les voies sensorielles et motrices utilisent des mécanismes de codage différents, bien qu'elles soient toutes deux appelées « potentiels d'action ».",
+          "de": "Sensorische und motorische Bahnen verwenden unterschiedliche Kodierungsmechanismen, obwohl beide als \"Aktionspotenziale\" bezeichnet werden.",
+          "ja": "感覚経路と運動経路は、両方が「活動電位」と呼ばれていても、異なる符号化メカニズムを使用します。"
+        },
+        "feedback": {
+          "en": "The diagram explicitly states that *both* sensory information and motor commands are 'encoded as action potentials', implying a common electrical language for neural signaling.",
+          "zh": "图表明确指出*感觉信息和运动指令都被*“编码为动作电位”，这意味着神经信号传递使用共同的电学语言。",
+          "es": "El diagrama establece explícitamente que *tanto* la información sensorial como los comandos motores están 'codificados como potenciales de acción', lo que implica un lenguaje eléctrico común para la señalización neuronal.",
+          "fr": "Le diagramme stipule explicitement que *à la fois* l'information sensorielle et les commandes motrices sont « encodées sous forme de potentiels d'action », ce qui implique un langage électrique commun pour la signalisation neuronale.",
+          "de": "Das Diagramm besagt explizit, dass *sowohl* sensorische Informationen als auch motorische Befehle als 'Aktionspotenziale kodiert' werden, was eine gemeinsame elektrische Sprache für die neuronale Signalgebung impliziert.",
+          "ja": "図は、*感覚情報と運動指令の両方*が「活動電位として符号化」されると明示しており、神経信号伝達のための共通の電気的言語を示唆しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The speed of information transmission in the nervous system depends solely on the strength of the initial stimulus.",
+          "zh": "神经系统中信息传输的速度仅取决于初始刺激的强度。",
+          "es": "La velocidad de transmisión de la información en el sistema nervioso depende únicamente de la fuerza del estímulo inicial.",
+          "fr": "La vitesse de transmission de l'information dans le système nerveux dépend uniquement de la force du stimulus initial.",
+          "de": "Die Geschwindigkeit der Informationsübertragung im Nervensystem hängt ausschließlich von der Stärke des anfänglichen Reizes ab.",
+          "ja": "神経系における情報伝達の速度は、初期刺激の強度のみに依存します。"
+        },
+        "feedback": {
+          "en": "While stimulus strength affects the *frequency* of action potentials, the *speed* of transmission (conduction velocity) is primarily determined by axon characteristics (e.g., myelination, diameter).",
+          "zh": "虽然刺激强度影响动作电位的*频率*，但传输的*速度*（传导速度）主要由轴突特性（例如，髓鞘化、直径）决定。",
+          "es": "Aunque la fuerza del estímulo afecta la *frecuencia* de los potenciales de acción, la *velocidad* de transmisión (velocidad de conducción) está determinada principalmente por las características del axón (por ejemplo, mielinización, diámetro).",
+          "fr": "Bien que la force du stimulus affecte la *fréquence* des potentiels d'action, la *vitesse* de transmission (vitesse de conduction) est principalement déterminée par les caractéristiques de l'axone (ex : myélinisation, diamètre).",
+          "de": "Obwohl die Reizstärke die *Frequenz* der Aktionspotenziale beeinflusst, wird die *Geschwindigkeit* der Übertragung (Leitungsgeschwindigkeit) hauptsächlich durch Axonmerkmale (z.B. Myelinisierung, Durchmesser) bestimmt.",
+          "ja": "刺激の強度は活動電位の*頻度*に影響しますが、伝達の*速度*（伝導速度）は主に軸索の特性（例：髄鞘化、直径）によって決定されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The statement that both sensory information and motor commands are 'encoded as action potentials' and sent along 'axons' highlights that action potentials serve as the primary, standardized electrical signal for long-distance communication throughout the nervous system, regardless of the specific information being conveyed (sensory input or motor output).",
+      "zh": "图表指出感觉信息和运动指令都“编码为动作电位”并通过“轴突”发送，这强调了动作电位作为神经系统内长距离通信的主要、标准化电信号，无论传递的具体信息是感觉输入还是运动输出。",
+      "es": "La afirmación de que tanto la información sensorial como los comandos motores están 'codificados como potenciales de acción' y se envían a lo largo de 'axones' resalta que los potenciales de acción sirven como la señal eléctrica principal y estandarizada para la comunicación a larga distancia en todo el sistema nervioso, independientemente de la información específica que se transmita (entrada sensorial o salida motora).",
+      "fr": "L'affirmation selon laquelle l'information sensorielle et les commandes motrices sont toutes deux « encodées sous forme de potentiels d'action » et envoyées le long des « axones » souligne que les potentiels d'action servent de signal électrique primaire et standardisé pour la communication à longue distance dans tout le système nerveux, quelle que soit l'information spécifique transmise (entrée sensorielle ou sortie motrice).",
+      "de": "Die Aussage, dass sowohl sensorische Informationen als auch motorische Befehle 'als Aktionspotenziale kodiert' und entlang 'Axonen' gesendet werden, unterstreicht, dass Aktionspotenziale als primäres, standardisiertes elektrisches Signal für die Fernkommunikation im gesamten Nervensystem dienen, unabhängig von der spezifischen übertragenen Information (sensorischer Input oder motorischer Output).",
+      "ja": "感覚情報と運動指令の両方が「活動電位として符号化」され、「軸索」に沿って送信されるという記述は、活動電位が神経系全体における長距離通信のための主要で標準化された電気信号として機能することを示しており、伝達される特定の情報（感覚入力または運動出力）にかかわらずこれが当てはまります。"
+    }
+  }
+]

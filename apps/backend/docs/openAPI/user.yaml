@@ -1,0 +1,186 @@
+openapi: 3.1.0
+info:
+  title: "User Management API"
+  version: "1.0.0"
+  description: "API for user synchronization and profile management."
+servers:
+  - url: "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1"
+    description: "Production Server"
+  - url: "http://localhost:3000/api/v1"
+    description: "Local Development Server"
+paths:
+  /users/sync:
+    post:
+      tags:
+        - "User"
+      summary: "Synchronize User"
+      description: "Creates or updates a user profile in the application's database based on Firebase authentication data. This endpoint is typically called after a user signs in or signs up via Firebase."
+      operationId: "syncUser"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/SyncUserPayload"
+      responses:
+        "200":
+          description: "User synchronized successfully."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  message:
+                    type: string
+                    example: "User synchronized successfully."
+        "400":
+          description: "Bad request, e.g., missing user ID or email."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+  /users/me:
+    get:
+      tags:
+        - "User"
+      summary: "Get User Profile"
+      description: "Retrieves the profile of the currently authenticated user."
+      operationId: "getUserProfile"
+      security:
+        - bearerAuth: []
+      responses:
+        "200":
+          description: "Successfully retrieved user profile."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/UserProfile"
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "404":
+          description: "User profile not found."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+    put:
+      tags:
+        - "User"
+      summary: "Update User Profile"
+      description: "Updates the profile of the currently authenticated user."
+      operationId: "updateUserProfile"
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/UpdateUserProfilePayload"
+      responses:
+        "200":
+          description: "User profile updated successfully."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/UserProfile"
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+
+components:
+  schemas:
+    SyncUserPayload:
+      type: object
+      required:
+        - id
+        - email
+      properties:
+        id:
+          type: string
+          description: "User's unique ID from Firebase."
+        email:
+          type: string
+          format: email
+          description: "User's email address."
+        nickname:
+          type: string
+          description: "User's nickname. If not provided, it will be generated from the email."
+        avatar_url:
+          type: string
+          format: uri
+          description: "URL of the user's avatar."
+    UpdateUserProfilePayload:
+      type: object
+      properties:
+        nickname:
+          type: string
+          description: "User's new nickname."
+        avatar_url:
+          type: string
+          format: uri
+          description: "New URL of the user's avatar."
+    UserProfile:
+      type: object
+      properties:
+        id:
+          type: string
+        email:
+          type: string
+        nickname:
+          type: string
+        avatar_url:
+          type: string
+        created_at:
+          type: string
+          format: date-time
+        updated_at:
+          type: string
+          format: date-time
+        roles:
+          type: array
+          items:
+            type: string
+          description: "A list of roles assigned to the user."
+          example: ["admin"]
+    ErrorResponse:
+      type: object
+      properties:
+        ok:
+          type: boolean
+          example: false
+        message:
+          type: string
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT

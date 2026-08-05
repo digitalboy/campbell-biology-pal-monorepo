@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 221,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "What is the direct ATP equivalent yield from one turn of the citric acid cycle, considering the stated differences in animal tissues versus plant/bacterial cells?",
+      "zh": "考虑到动物组织与植物/细菌细胞之间存在的差异，柠檬酸循环一次循环直接产生的 ATP 等效物产量是多少？",
+      "es": "¿Cuál es el rendimiento directo equivalente de ATP de una vuelta del ciclo del ácido cítrico, considerando las diferencias declaradas en los tejidos animales versus las células vegetales/bacterianas?",
+      "fr": "Quel est le rendement direct équivalent en ATP d'un cycle de l'acide citrique, compte tenu des différences énoncées entre les tissus animaux et les cellules végétales/bactériennes ?",
+      "de": "Wie hoch ist der direkte ATP-Äquivalent-Ertrag aus einer Umdrehung des Zitronensäurezyklus, unter Berücksichtigung der genannten Unterschiede in tierischen Geweben im Vergleich zu pflanzlichen/bakteriellen Zellen?",
+      "ja": "動物組織と植物・細菌細胞における違いを考慮した場合、クエン酸回路の1回の回転で直接生成されるATP等価物の収量はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1 ATP directly in all cells.",
+          "zh": "所有细胞都直接产生 1 个 ATP。",
+          "es": "1 ATP directamente en todas las células.",
+          "fr": "1 ATP directement dans toutes les cellules.",
+          "de": "Überall in allen Zellen direkt 1 ATP.",
+          "ja": "すべての細胞で直接1つのATPが生成されます。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The text specifies a difference: animal tissues produce GTP, while plants/bacteria/some animals produce ATP directly.",
+          "zh": "这是不正确的。文本明确指出存在差异：动物组织产生 GTP，而植物/细菌/某些动物直接产生 ATP。",
+          "es": "Esto es incorrecto. El texto especifica una diferencia: los tejidos animales producen GTP, mientras que las plantas/bacterias/algunos animales producen ATP directamente.",
+          "fr": "C'est incorrect. Le texte spécifie une différence : les tissus animaux produisent du GTP, tandis que les plantes/bactéries/certains animaux produisent directement de l'ATP.",
+          "de": "Das ist falsch. Der Text gibt einen Unterschied an: Tierische Gewebe produzieren GTP, während Pflanzen/Bakterien/einige Tiere direkt ATP produzieren.",
+          "ja": "これは誤りです。本文には違いが明記されています。動物組織はGTPを生成しますが、植物・細菌・一部の動物は直接ATPを生成します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "1 GTP in animal cells, which is similar to ATP, and 1 ATP directly in plant/bacterial cells.",
+          "zh": "动物细胞中产生 1 个 GTP（类似于 ATP），而植物/细菌细胞中直接产生 1 个 ATP。",
+          "es": "1 GTP en células animales, que es similar al ATP, y 1 ATP directamente en células vegetales/bacterianas.",
+          "fr": "1 GTP dans les cellules animales, qui est similaire à l'ATP, et 1 ATP directement dans les cellules végétales/bactériennes.",
+          "de": "1 GTP in tierischen Zellen, das ATP ähnlich ist, und 1 ATP direkt in Pflanzen-/Bakterienzellen.",
+          "ja": "動物細胞ではATPに似た1つのGTPが生成され、植物・細菌細胞では直接1つのATPが生成されます。"
+        },
+        "feedback": {
+          "en": "This is correct. The text states: 'In many animal tissue cells, the reaction in step 5 produces a guanosine triphosphate (GTP) molecule by substrate-level phosphorylation.' and 'In the cells of plants, bacteria, and some animal tissues, step 5 forms an ATP molecule directly by substrate-level phosphorylation.'",
+          "zh": "这是正确的。文本指出：“在许多动物组织细胞中，第 5 步的反应通过底物水平磷酸化产生一个鸟苷三磷酸 (GTP) 分子。”以及“在植物、细菌和某些动物组织的细胞中，第 5 步直接形成一个 ATP 分子，通过底物水平磷酸化。”",
+          "es": "Esto es correcto. El texto indica: 'En muchas células de tejidos animales, la reacción en el paso 5 produce una molécula de guanosín trifosfato (GTP) por fosforilación a nivel de sustrato.' y 'En las células de plantas, bacterias y algunos tejidos animales, el paso 5 forma una molécula de ATP directamente por fosforilación a nivel de sustrato.'",
+          "fr": "C'est exact. Le texte indique : « Dans de nombreuses cellules de tissus animaux, la réaction de l'étape 5 produit une molécule de guanosine triphosphate (GTP) par phosphorylation au niveau du substrat. » et « Dans les cellules de plantes, de bactéries et de certains tissus animaux, l'étape 5 forme directement une molécule d'ATP par phosphorylation au niveau du substrat. »",
+          "de": "Das ist richtig. Der Text besagt: „In vielen tierischen Gewebezellen erzeugt die Reaktion in Schritt 5 ein Guanosintriphosphat (GTP)-Molekül durch Substratkettenphosphorylierung.“ und „In den Zellen von Pflanzen, Bakterien und einigen tierischen Geweben bildet Schritt 5 direkt ein ATP-Molekül durch Substratkettenphosphorylierung.“",
+          "ja": "これは正しいです。本文には「多くの動物組織細胞では、ステップ5の反応で基質レベルのリン酸化によってグアノシン三リン酸（GTP）分子が生成されます。」とあり、「植物、細菌、一部の動物組織の細胞では、ステップ5で基質レベルのリン酸化によって直接ATP分子が生成されます。」と述べられています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "1 ATP in animal cells, and 1 GTP in plant/bacterial cells.",
+          "zh": "动物细胞中产生 1 个 ATP，而植物/细菌细胞中产生 1 个 GTP。",
+          "es": "1 ATP en células animales y 1 GTP en células vegetales/bacterianas.",
+          "fr": "1 ATP dans les cellules animales, et 1 GTP dans les cellules végétales/bactériennes.",
+          "de": "1 ATP in tierischen Zellen und 1 GTP in Pflanzen-/Bakterienzellen.",
+          "ja": "動物細胞では1つのATPが生成され、植物・細菌細胞では1つのGTPが生成されます。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The roles of ATP and GTP production are reversed from what the text states.",
+          "zh": "这是不正确的。ATP 和 GTP 的生产角色与文本所述相反。",
+          "es": "Esto es incorrecto. Los roles de producción de ATP y GTP están invertidos con respecto a lo que el texto indica.",
+          "fr": "C'est incorrect. Les rôles de production d'ATP et de GTP sont inversés par rapport à ce que le texte indique.",
+          "de": "Das ist falsch. Die Rollen der ATP- und GTP-Produktion sind im Vergleich zum Text vertauscht.",
+          "ja": "これは誤りです。ATPとGTPの生成における役割が、本文に記載されているものと逆になっています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "No direct ATP or GTP is produced; all energy is in NADH and FADH2.",
+          "zh": "不直接产生 ATP 或 GTP；所有能量都以 NADH 和 FADH2 的形式存在。",
+          "es": "No se produce ATP o GTP directo; toda la energía está en NADH y FADH2.",
+          "fr": "Aucun ATP ou GTP direct n'est produit ; toute l'énergie est sous forme de NADH et de FADH2.",
+          "de": "Es wird kein direktes ATP oder GTP produziert; die gesamte Energie liegt in NADH und FADH2 vor.",
+          "ja": "直接ATPまたはGTPは生成されません。すべてのエネルギーはNADHとFADH2に存在します。"
+        },
+        "feedback": {
+          "en": "This is incorrect. The text explicitly mentions the production of GTP (or ATP) via substrate-level phosphorylation in step 5.",
+          "zh": "这是不正确的。文本明确提到了在第 5 步通过底物水平磷酸化产生 GTP（或 ATP）。",
+          "es": "Esto es incorrecto. El texto menciona explícitamente la producción de GTP (o ATP) mediante fosforilación a nivel de sustrato en el paso 5.",
+          "fr": "C'est incorrect. Le texte mentionne explicitement la production de GTP (ou d'ATP) par phosphorylation au niveau du substrat à l'étape 5.",
+          "de": "Das ist falsch. Der Text erwähnt ausdrücklich die Produktion von GTP (oder ATP) durch Substratkettenphosphorylierung in Schritt 5.",
+          "ja": "これは誤りです。本文には、ステップ5で基質レベルのリン酸化によってGTP（またはATP）が生成されることが明記されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'In many animal tissue cells, the reaction in step 5 produces a guanosine triphosphate (GTP) molecule by substrate-level phosphorylation.' and 'In the cells of plants, bacteria, and some animal tissues, step 5 forms an ATP molecule directly by substrate-level phosphorylation.' GTP is noted to be similar to ATP in structure and function, acting as an ATP equivalent. Therefore, the direct yield is 1 GTP (equivalent to ATP) in animal cells or 1 ATP in plant/bacterial cells.",
+      "zh": "文本指出：“在许多动物组织细胞中，第 5 步的反应通过底物水平磷酸化产生一个鸟苷三磷酸 (GTP) 分子。”以及“在植物、细菌和某些动物组织的细胞中，第 5 步直接形成一个 ATP 分子，通过底物水平磷酸化。”GTP 在结构和功能上与 ATP 相似，可作为 ATP 的等效物。因此，直接产量为动物细胞中的 1 个 GTP（等同于 ATP）或植物/细菌细胞中的 1 个 ATP。",
+      "es": "El texto indica: 'En muchas células de tejidos animales, la reacción en el paso 5 produce una molécula de guanosín trifosfato (GTP) por fosforilación a nivel de sustrato.' y 'En las células de plantas, bacterias y algunos tejidos animales, el paso 5 forma una molécula de ATP directamente por fosforilación a nivel de sustrato.' Se señala que el GTP es similar al ATP en estructura y función, actuando como un equivalente de ATP. Por lo tanto, el rendimiento directo es 1 GTP (equivalente a ATP) en células animales o 1 ATP en células vegetales/bacterianas.",
+      "fr": "Le texte indique : « Dans de nombreuses cellules de tissus animaux, la réaction de l'étape 5 produit une molécule de guanosine triphosphate (GTP) par phosphorylation au niveau du substrat. » et « Dans les cellules de plantes, de bactéries et de certains tissus animaux, l'étape 5 forme directement une molécule d'ATP par phosphorylation au niveau du substrat. » Le GTP est noté comme étant similaire à l'ATP en structure et en fonction, agissant comme un équivalent ATP. Par conséquent, le rendement direct est de 1 GTP (équivalent à l'ATP) dans les cellules animales ou de 1 ATP dans les cellules végétales/bactériennes.",
+      "de": "Der Text besagt: „In vielen tierischen Gewebezellen erzeugt die Reaktion in Schritt 5 ein Guanosintriphosphat (GTP)-Molekül durch Substratkettenphosphorylierung.“ und „In den Zellen von Pflanzen, Bakterien und einigen tierischen Geweben bildet Schritt 5 direkt ein ATP-Molekül durch Substratkettenphosphorylierung.“ GTP wird als ATP in Struktur und Funktion ähnlich beschrieben und fungiert als ATP-Äquivalent. Daher beträgt der direkte Ertrag 1 GTP (entspricht ATP) in tierischen Zellen oder 1 ATP in Pflanzen-/Bakterienzellen.",
+      "ja": "本文には、「多くの動物組織細胞では、ステップ5の反応で基質レベルのリン酸化によってグアノシン三リン酸（GTP）分子が生成されます。」とあり、「植物、細菌、一部の動物組織の細胞では、ステップ5で基質レベルのリン酸化によって直接ATP分子が生成されます。」と述べられています。GTPはATPと構造および機能が似ており、ATP等価物として機能します。したがって、直接の収量は動物細胞では1つのGTP（ATPに相当）、植物・細菌細胞では1つのATPです。"
+    }
+  },
+  {
+    "page_number": 221,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Figure 9.10 and the text, which of the following are the immediate products of pyruvate oxidation per molecule of pyruvate?",
+      "zh": "根据图 9.10 和文本，以下哪项是每个丙酮酸分子氧化后立即产生的产物？",
+      "es": "Según la Figura 9.10 y el texto, ¿cuáles de los siguientes son los productos inmediatos de la oxidación del piruvato por molécula de piruvato?",
+      "fr": "Selon la figure 9.10 et le texte, lesquels des éléments suivants sont les produits immédiats de l'oxydation du pyruvate par molécule de pyruvate ?",
+      "de": "Gemäß Abbildung 9.10 und dem Text, welche der folgenden sind die unmittelbaren Produkte der Pyruvatoxidation pro Pyruvatmolekül?",
+      "ja": "図9.10および本文によると、ピルビン酸分子あたりのピルビン酸酸化の直接的な生成物は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Acetyl CoA, CO2, NADH + H+",
+          "zh": "乙酰 CoA、CO2、NADH + H+",
+          "es": "Acetil CoA, CO2, NADH + H+",
+          "fr": "Acétyl CoA, CO2, NADH + H+",
+          "de": "Acetyl-CoA, CO2, NADH + H+",
+          "ja": "アセチルCoA、CO2、NADH + H+"
+        },
+        "feedback": {
+          "en": "This is correct. Figure 9.10 clearly shows these three as outputs from pyruvate oxidation, and the text describes their formation.",
+          "zh": "这是正确的。图 9.10 清晰地显示这三者是丙酮酸氧化的产物，文本也描述了它们的形成。",
+          "es": "Esto es correcto. La Figura 9.10 muestra claramente estos tres como productos de la oxidación del piruvato, y el texto describe su formación.",
+          "fr": "C'est exact. La figure 9.10 montre clairement ces trois éléments comme des produits de l'oxydation du pyruvate, et le texte décrit leur formation.",
+          "de": "Das ist richtig. Abbildung 9.10 zeigt diese drei deutlich als Produkte der Pyruvatoxidation, und der Text beschreibt ihre Bildung.",
+          "ja": "これは正しいです。図9.10にはこれら3つがピルビン酸酸化の産物として明確に示されており、本文でもその形成が説明されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Citrate, CO2, ATP",
+          "zh": "柠檬酸、CO2、ATP",
+          "es": "Citrato, CO2, ATP",
+          "fr": "Citrate, CO2, ATP",
+          "de": "Citrat, CO2, ATP",
+          "ja": "クエン酸、CO2、ATP"
+        },
+        "feedback": {
+          "en": "Citrate and some ATP are products of the citric acid cycle, not directly of pyruvate oxidation.",
+          "zh": "柠檬酸和一些 ATP 是柠檬酸循环的产物，而不是丙酮酸氧化的直接产物。",
+          "es": "El citrato y algo de ATP son productos del ciclo del ácido cítrico, no directamente de la oxidación del piruvato.",
+          "fr": "Le citrate et une partie de l'ATP sont des produits du cycle de l'acide citrique, non directement de l'oxydation du pyruvate.",
+          "de": "Citrat und etwas ATP sind Produkte des Zitronensäurezyklus, nicht direkt der Pyruvatoxidation.",
+          "ja": "クエン酸と一部のATPはクエン酸回路の産物であり、ピルビン酸酸化の直接的な産物ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Pyruvate, NADH, ATP",
+          "zh": "丙酮酸、NADH、ATP",
+          "es": "Piruvato, NADH, ATP",
+          "fr": "Pyruvate, NADH, ATP",
+          "de": "Pyruvat, NADH, ATP",
+          "ja": "ピルビン酸、NADH、ATP"
+        },
+        "feedback": {
+          "en": "Pyruvate is a reactant, not a product, of pyruvate oxidation. ATP is not a direct product.",
+          "zh": "丙酮酸是丙酮酸氧化的反应物，而不是产物。ATP 不是直接产物。",
+          "es": "El piruvato es un reactivo, no un producto, de la oxidación del piruvato. El ATP no es un producto directo.",
+          "fr": "Le pyruvate est un réactif, pas un produit, de l'oxydation du pyruvate. L'ATP n'est pas un produit direct.",
+          "de": "Pyruvat ist ein Reaktant, kein Produkt, der Pyruvatoxidation. ATP ist kein direktes Produkt.",
+          "ja": "ピルビン酸はピルビン酸酸化の反応物であり、生成物ではありません。ATPは直接の生成物ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "FADH2, CO2, Acetyl CoA",
+          "zh": "FADH2、CO2、乙酰 CoA",
+          "es": "FADH2, CO2, Acetil CoA",
+          "fr": "FADH2, CO2, Acétyl CoA",
+          "de": "FADH2, CO2, Acetyl-CoA",
+          "ja": "FADH2、CO2、アセチルCoA"
+        },
+        "feedback": {
+          "en": "FADH2 is a product of the citric acid cycle, not directly of pyruvate oxidation.",
+          "zh": "FADH2 是柠檬酸循环的产物，而不是丙酮酸氧化的直接产物。",
+          "es": "El FADH2 es un producto del ciclo del ácido cítrico, no directamente de la oxidación del piruvato.",
+          "fr": "Le FADH2 est un produit du cycle de l'acide citrique, non directement de l'oxydation du pyruvate.",
+          "de": "FADH2 ist ein Produkt des Zitronensäurezyklus, nicht direkt der Pyruvatoxidation.",
+          "ja": "FADH2はクエン酸回路の産物であり、ピルビン酸酸化の直接的な産物ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Figure 9.10 and the accompanying text describe pyruvate oxidation as the process where pyruvate is converted to acetyl CoA, with the release of CO2 and the reduction of NAD+ to NADH + H+. These are the immediate products shown leaving the 'Pyruvate Oxidation' box.",
+      "zh": "图 9.10 和随附文本将丙酮酸氧化描述为丙酮酸转化为乙酰 CoA 的过程，伴随着 CO2 的释放以及 NAD+ 还原为 NADH + H+。这些是图中从“丙酮酸氧化”框中出来的立即产物。",
+      "es": "La Figura 9.10 y el texto adjunto describen la oxidación del piruvato como el proceso en el que el piruvato se convierte en acetil CoA, con la liberación de CO2 y la reducción de NAD+ a NADH + H+. Estos son los productos inmediatos que se muestran saliendo del cuadro 'Oxidación del Piruvato'.",
+      "fr": "La figure 9.10 et le texte accompagnant décrivent l'oxydation du pyruvate comme le processus par lequel le pyruvate est converti en acétyl-CoA, avec la libération de CO2 et la réduction du NAD+ en NADH + H+. Ce sont les produits immédiats montrés sortant de la boîte 'Oxydation du pyruvate'.",
+      "de": "Abbildung 9.10 und der begleitende Text beschreiben die Pyruvatoxidation als den Prozess, bei dem Pyruvat in Acetyl-CoA umgewandelt wird, unter Freisetzung von CO2 und Reduktion von NAD+ zu NADH + H+. Dies sind die unmittelbaren Produkte, die aus dem Feld 'Pyruvatoxidation' austreten.",
+      "ja": "図9.10および付随するテキストは、ピルビン酸酸化を、ピルビン酸がアセチルCoAに変換され、CO2が放出され、NAD+がNADH + H+に還元されるプロセスと説明しています。これらは、「ピルビン酸酸化」のボックスから出てくる直接的な生成物として示されています。"
+    }
+  },
+  {
+    "page_number": 221,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The citric acid cycle is also known as the Krebs cycle. Which of the following best describes its primary function and why it's named after citrate?",
+      "zh": "柠檬酸循环又称克雷布斯循环。以下哪项最能描述其主要功能以及它为何以柠檬酸命名？",
+      "es": "El ciclo del ácido cítrico también se conoce como ciclo de Krebs. ¿Cuál de las siguientes opciones describe mejor su función principal y por qué se nombra así por el citrato?",
+      "fr": "Le cycle de l'acide citrique est également connu sous le nom de cycle de Krebs. Lequel des énoncés suivants décrit le mieux sa fonction principale et pourquoi il est nommé d'après le citrate ?",
+      "de": "Der Zitronensäurezyklus ist auch als Krebs-Zyklus bekannt. Welche der folgenden Beschreibungen charakterisiert am besten seine Hauptfunktion und warum er nach Citrat benannt ist?",
+      "ja": "クエン酸回路はクレブス回路とも呼ばれています。以下のうち、その主な機能とクエン酸にちなんで名付けられた理由を最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It's named after Hans Krebs who discovered it, and its main function is to produce large amounts of ATP directly.",
+          "zh": "它以发现者汉斯·克雷布斯命名，其主要功能是直接产生大量 ATP。",
+          "es": "Se nombra así por Hans Krebs, quien lo descubrió, y su función principal es producir grandes cantidades de ATP directamente.",
+          "fr": "Il est nommé d'après Hans Krebs qui l'a découvert, et sa fonction principale est de produire directement de grandes quantités d'ATP.",
+          "de": "Es ist nach Hans Krebs benannt, der es entdeckte, und seine Hauptfunktion ist die direkte Produktion großer Mengen ATP.",
+          "ja": "これは発見者であるハンス・クレブスにちなんで名付けられ、その主な機能は大量のATPを直接生産することです。"
+        },
+        "feedback": {
+          "en": "While named after Krebs, the cycle's direct ATP production is relatively small; most ATP is generated later via oxidative phosphorylation.",
+          "zh": "虽然以克雷布斯命名，但该循环直接产生的 ATP 相对较少；大部分 ATP 是通过氧化磷酸化后续产生的。",
+          "es": "Aunque lleva el nombre de Krebs, la producción directa de ATP del ciclo es relativamente pequeña; la mayor parte del ATP se genera más tarde a través de la fosforilación oxidativa.",
+          "fr": "Bien que nommé d'après Krebs, la production directe d'ATP par le cycle est relativement faible ; la plupart de l'ATP est générée ultérieurement via la phosphorylation oxydative.",
+          "de": "Obwohl nach Krebs benannt, ist die direkte ATP-Produktion des Zyklus relativ gering; der größte Teil des ATP wird später durch oxidative Phosphorylierung erzeugt.",
+          "ja": "クレブスにちなんで名付けられていますが、この回路のATP直接生産量は比較的小さく、ほとんどのATPは後の酸化的リン酸化によって生成されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It's named after citrate, which is the first compound formed when acetyl CoA enters the cycle, and it further oxidizes organic fuel.",
+          "zh": "它以柠檬酸命名，柠檬酸是乙酰 CoA 进入循环时形成的第一个化合物，并且它进一步氧化有机燃料。",
+          "es": "Se nombra así por el citrato, que es el primer compuesto que se forma cuando el acetil CoA entra en el ciclo, y oxida aún más el combustible orgánico.",
+          "fr": "Il est nommé d'après le citrate, qui est le premier composé formé lorsque l'acétyl CoA entre dans le cycle, et il oxyde davantage le carburant organique.",
+          "de": "Es ist nach Citrat benannt, das die erste Verbindung ist, die gebildet wird, wenn Acetyl-CoA in den Zyklus eintritt, und es oxidiert organische Brennstoffe weiter.",
+          "ja": "アセチルCoAが回路に入るときに最初に形成される化合物であるクエン酸にちなんで名付けられ、有機燃料をさらに酸化します。"
+        },
+        "feedback": {
+          "en": "This is correct. The text states: 'Citrate is the ionized form of citric acid, for which the cycle is named.' and 'The citric acid cycle functions as a metabolic furnace that further oxidizes organic fuel derived from pyruvate.'",
+          "zh": "这是正确的。文本指出：“柠檬酸是柠檬酸的离子形式，该循环因此得名。”以及“柠檬酸循环作为代谢炉，进一步氧化来自丙酮酸的有机燃料。”",
+          "es": "Esto es correcto. El texto dice: 'El citrato es la forma ionizada del ácido cítrico, por el cual el ciclo lleva su nombre.' y 'El ciclo del ácido cítrico funciona como un horno metabólico que oxida aún más el combustible orgánico derivado del piruvato.'",
+          "fr": "C'est exact. Le texte indique : « Le citrate est la forme ionisée de l'acide citrique, d'où le nom du cycle. » et « Le cycle de l'acide citrique fonctionne comme une fournaise métabolique qui oxyde davantage le carburant organique dérivé du pyruvate. »",
+          "de": "Das ist richtig. Der Text besagt: „Citrat ist die ionisierte Form der Zitronensäure, nach der der Zyklus benannt ist.“ und „Der Zitronensäurezyklus fungiert als Stoffwechselofen, der organischen Brennstoff, der aus Pyruvat gewonnen wird, weiter oxidiert.“",
+          "ja": "これは正しいです。本文には、「クエン酸はクエン酸のイオン化された形であり、それにちなんで回路が名付けられています。」とあり、「クエン酸回路は、ピルビン酸由来の有機燃料をさらに酸化する代謝炉として機能します。」と述べられています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It's named after Krebs and citrate, and its primary function is to regenerate glucose.",
+          "zh": "它以克雷布斯和柠檬酸命名，其主要功能是再生葡萄糖。",
+          "es": "Se nombra así por Krebs y el citrato, y su función principal es regenerar glucosa.",
+          "fr": "Il est nommé d'après Krebs et le citrate, et sa fonction principale est de régénérer le glucose.",
+          "de": "Es ist nach Krebs und Citrat benannt, und seine Hauptfunktion ist die Regeneration von Glukose.",
+          "ja": "クレブスとクエン酸にちなんで名付けられ、その主な機能はブドウ糖を再生することです。"
+        },
+        "feedback": {
+          "en": "The cycle regenerates oxaloacetate to keep the cycle going, not glucose.",
+          "zh": "该循环再生的是草酰乙酸以使循环持续进行，而不是葡萄糖。",
+          "es": "El ciclo regenera oxalacetato para mantener el ciclo en funcionamiento, no glucosa.",
+          "fr": "Le cycle régénère l'oxaloacétate pour maintenir le cycle en marche, pas le glucose.",
+          "de": "Der Zyklus regeneriert Oxalacetat, um den Zyklus am Laufen zu halten, nicht Glukose.",
+          "ja": "この回路は、グルコースではなくオキサロ酢酸を再生して回路を継続させます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It's named because it uses citric acid as its main input, and it reduces FADH2 to FAD.",
+          "zh": "它之所以得名，是因为它使用柠檬酸作为主要输入，并且将 FADH2 还原为 FAD。",
+          "es": "Se nombra así porque utiliza ácido cítrico como su entrada principal, y reduce FADH2 a FAD.",
+          "fr": "Il est nommé parce qu'il utilise l'acide citrique comme entrée principale, et il réduit le FADH2 en FAD.",
+          "de": "Es ist benannt, weil es Zitronensäure als Haupteingabe verwendet und FADH2 zu FAD reduziert.",
+          "ja": "クエン酸を主な入力として使用することにちなんで名付けられ、FADH2をFADに還元します。"
+        },
+        "feedback": {
+          "en": "Acetyl CoA is the main input, combining with oxaloacetate to form citrate. The cycle oxidizes FAD to FADH2, not reduces FADH2 to FAD.",
+          "zh": "乙酰 CoA 是主要的输入，它与草酰乙酸结合形成柠檬酸。该循环是将 FAD 氧化为 FADH2，而不是将 FADH2 还原为 FAD。",
+          "es": "El acetil CoA es la entrada principal, combinándose con el oxalacetato para formar citrato. El ciclo oxida FAD a FADH2, no reduce FADH2 a FAD.",
+          "fr": "L'acétyl-CoA est l'entrée principale, se combinant avec l'oxaloacétate pour former du citrate. Le cycle oxyde le FAD en FADH2, et ne réduit pas le FADH2 en FAD.",
+          "de": "Acetyl-CoA ist der Haupteingang, der sich mit Oxalacetat verbindet, um Citrat zu bilden. Der Zyklus oxidiert FAD zu FADH2, nicht umgekehrt.",
+          "ja": "アセチルCoAが主な入力であり、オキサロ酢酸と結合してクエン酸を形成します。この回路はFADをFADH2に酸化するものであり、FADH2をFADに還元するものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that citrate is the ionized form of citric acid, 'for which the cycle is named.' It also describes the citric acid cycle as a 'metabolic furnace that further oxidizes organic fuel derived from pyruvate.' Hans Krebs discovered the pathway, giving it the alternative name, but the question asks why it's named after citrate.",
+      "zh": "文本解释说，柠檬酸是柠檬酸的离子形式，“该循环因此得名”。它还将柠檬酸循环描述为“一个代谢熔炉，进一步氧化来自丙酮酸的有机燃料”。汉斯·克雷布斯发现了该途径，从而有了另一个名称，但问题是问它为什么以柠檬酸命名。",
+      "es": "El texto explica que el citrato es la forma ionizada del ácido cítrico, 'por el cual el ciclo lleva su nombre'. También describe el ciclo del ácido cítrico como un 'horno metabólico que oxida aún más el combustible orgánico derivado del piruvato'. Hans Krebs descubrió la vía, dándole el nombre alternativo, pero la pregunta es por qué se nombra así por el citrato.",
+      "fr": "Le texte explique que le citrate est la forme ionisée de l'acide citrique, « d'où le nom du cycle ». Il décrit également le cycle de l'acide citrique comme une « fournaise métabolique qui oxyde davantage le carburant organique dérivé du pyruvate ». Hans Krebs a découvert la voie, lui donnant le nom alternatif, mais la question demande pourquoi il est nommé d'après le citrate.",
+      "de": "Der Text erklärt, dass Citrat die ionisierte Form der Zitronensäure ist, „nach der der Zyklus benannt ist.“ Er beschreibt den Zitronensäurezyklus auch als „Stoffwechselofen, der organischen Brennstoff, der aus Pyruvat gewonnen wird, weiter oxidiert.“ Hans Krebs entdeckte den Stoffwechselweg und gab ihm den Alternativnamen, aber die Frage fragt, warum er nach Citrat benannt ist.",
+      "ja": "本文は、クエン酸がクエン酸のイオン化された形であり、「それにちなんで回路が名付けられています」と説明しています。また、クエン酸回路を「ピルビン酸由来の有機燃料をさらに酸化する代謝炉」と説明しています。ハンス・クレブスがこの経路を発見し、別の名前を与えましたが、質問はなぜクエン酸にちなんで名付けられたかを尋ねています。"
+    }
+  },
+  {
+    "page_number": 221,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "What is the total yield of high-energy molecules (NADH, FADH2, and ATP equivalent) produced by the citric acid cycle for each molecule of glucose that enters cellular respiration?",
+      "zh": "进入细胞呼吸的每个葡萄糖分子，柠檬酸循环总共产生多少高能分子（NADH、FADH2 和 ATP 等效物）？",
+      "es": "¿Cuál es el rendimiento total de moléculas de alta energía (NADH, FADH2 y ATP equivalente) producidas por el ciclo del ácido cítrico por cada molécula de glucosa que entra en la respiración celular?",
+      "fr": "Quel est le rendement total en molécules à haute énergie (NADH, FADH2 et équivalent ATP) produites par le cycle de l'acide citrique pour chaque molécule de glucose entrant dans la respiration cellulaire ?",
+      "de": "Wie hoch ist der Gesamtertrag an energiereichen Molekülen (NADH, FADH2 und ATP-Äquivalent), die der Zitronensäurezyklus pro Glukosemolekül, das in die Zellatmung eintritt, produziert?",
+      "ja": "細胞呼吸に入るグルコース分子ごとに、クエン酸回路によって生成される高エネルギー分子（NADH、FADH2、およびATP等価物）の総収量はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "3 NADH, 1 FADH2, 1 ATP",
+          "zh": "3 个 NADH、1 个 FADH2、1 个 ATP",
+          "es": "3 NADH, 1 FADH2, 1 ATP",
+          "fr": "3 NADH, 1 FADH2, 1 ATP",
+          "de": "3 NADH, 1 FADH2, 1 ATP",
+          "ja": "NADH 3個、FADH2 1個、ATP 1個"
+        },
+        "feedback": {
+          "en": "This represents the yield per acetyl group, not per glucose molecule.",
+          "zh": "这代表的是每个乙酰基的产量，而不是每个葡萄糖分子的产量。",
+          "es": "Esto representa el rendimiento por grupo acetilo, no por molécula de glucosa.",
+          "fr": "Cela représente le rendement par groupe acétyle, et non par molécule de glucose.",
+          "de": "Dies stellt den Ertrag pro Acetylgruppe dar, nicht pro Glukosemolekül.",
+          "ja": "これはアセチル基あたりの収量であり、グルコース分子あたりの収量ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "6 NADH, 2 FADH2, 2 ATP",
+          "zh": "6 个 NADH、2 个 FADH2、2 个 ATP",
+          "es": "6 NADH, 2 FADH2, 2 ATP",
+          "fr": "6 NADH, 2 FADH2, 2 ATP",
+          "de": "6 NADH, 2 FADH2, 2 ATP",
+          "ja": "NADH 6個、FADH2 2個、ATP 2個"
+        },
+        "feedback": {
+          "en": "This is correct. The text states: 'Because the numbers noted earlier are obtained from a single acetyl group entering the pathway, the total yield per glucose from the citric acid cycle turns out to be doubled, or 6 NADH, 2 FADH2, and the equivalent of 2 ATP.'",
+          "zh": "这是正确的。文本指出：“由于前面提到的数字是根据单个乙酰基进入该途径而获得的，因此每个葡萄糖分子通过柠檬酸循环的总产量将翻倍，即 6 个 NADH、2 个 FADH2 和相当于 2 个 ATP。”",
+          "es": "Esto es correcto. El texto afirma: 'Debido a que los números mencionados anteriormente se obtienen de un solo grupo acetilo que ingresa a la vía, el rendimiento total por glucosa del ciclo del ácido cítrico resulta ser el doble, es decir, 6 NADH, 2 FADH2 y el equivalente de 2 ATP.'",
+          "fr": "C'est exact. Le texte indique : « Étant donné que les chiffres mentionnés précédemment sont obtenus à partir d'un seul groupe acétyle entrant dans la voie, le rendement total par glucose du cycle de l'acide citrique s'avère être doublé, soit 6 NADH, 2 FADH2, et l'équivalent de 2 ATP. »",
+          "de": "Das ist richtig. Der Text besagt: „Da die zuvor genannten Zahlen von einer einzelnen Acetylgruppe stammen, die in den Stoffwechselweg eintritt, verdoppelt sich der Gesamtertrag pro Glukose aus dem Zitronensäurezyklus auf 6 NADH, 2 FADH2 und das Äquivalent von 2 ATP.“",
+          "ja": "これは正しいです。本文には「以前に記された数字は、単一のアセチル基が経路に入ることから得られるため、クエン酸回路からのグルコースあたりの総収量は2倍になり、NADH 6個、FADH2 2個、そしてATPに相当する2個となります。」と述べられています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "4 NADH, 1 FADH2, 2 ATP",
+          "zh": "4 个 NADH、1 个 FADH2、2 个 ATP",
+          "es": "4 NADH, 1 FADH2, 2 ATP",
+          "fr": "4 NADH, 1 FADH2, 2 ATP",
+          "de": "4 NADH, 1 FADH2, 2 ATP",
+          "ja": "NADH 4個、FADH2 1個、ATP 2個"
+        },
+        "feedback": {
+          "en": "This combination of numbers is not consistent with the text's description of citric acid cycle output.",
+          "zh": "这些数字组合与文本对柠檬酸循环产量的描述不一致。",
+          "es": "Esta combinación de números no es consistente con la descripción del texto sobre la producción del ciclo del ácido cítrico.",
+          "fr": "Cette combinaison de chiffres n'est pas cohérente avec la description de la production du cycle de l'acide citrique fournie par le texte.",
+          "de": "Diese Zahlenkombination stimmt nicht mit der Beschreibung des Zitronensäurezyklus-Outputs im Text überein.",
+          "ja": "この数字の組み合わせは、本文のクエン酸回路の出力に関する説明と一致しません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "12 NADH, 4 FADH2, 4 ATP",
+          "zh": "12 个 NADH、4 个 FADH2、4 个 ATP",
+          "es": "12 NADH, 4 FADH2, 4 ATP",
+          "fr": "12 NADH, 4 FADH2, 4 ATP",
+          "de": "12 NADH, 4 FADH2, 4 ATP",
+          "ja": "NADH 12個、FADH2 4個、ATP 4個"
+        },
+        "feedback": {
+          "en": "This would be an overestimation for the citric acid cycle's direct output per glucose.",
+          "zh": "这对于柠檬酸循环每个葡萄糖的直接产量来说是高估了。",
+          "es": "Esto sería una sobreestimación para la producción directa del ciclo del ácido cítrico por glucosa.",
+          "fr": "Ce serait une surestimation pour le rendement direct du cycle de l'acide citrique par glucose.",
+          "de": "Dies wäre eine Überschätzung des direkten Ertrags des Zitronensäurezyklus pro Glukose.",
+          "ja": "これはグルコースあたりのクエン酸回路の直接出力としては過大評価です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'For each acetyl group entering the cycle, 3 NAD+ are reduced to NADH (steps 3, 4, and 8). In step 6, electrons are transferred not to NAD+, but to FAD, which accepts 2 electrons and 2 protons to become FADH2. In many animal tissue cells, the reaction in step 5 produces a guanosine triphosphate (GTP) molecule by substrate-level phosphorylation... The output from step 5 represents the only ATP generated during the citric acid cycle.' It then clarifies for glucose: 'Recall that each glucose gives rise to two molecules of acetyl CoA that enter the cycle. Because the numbers noted earlier are obtained from a single acetyl group entering the pathway, the total yield per glucose from the citric acid cycle turns out to be doubled, or 6 NADH, 2 FADH2, and the equivalent of 2 ATP.'",
+      "zh": "文本明确指出：“对于进入循环的每个乙酰基，3 个 NAD+ 被还原为 NADH（步骤 3、4 和 8）。在步骤 6 中，电子不转移到 NAD+，而是转移到 FAD，FAD 接受 2 个电子和 2 个质子以成为 FADH2。在许多动物组织细胞中，第 5 步的反应通过底物水平磷酸化产生一个鸟苷三磷酸 (GTP) 分子……第 5 步的产物代表了柠檬酸循环中唯一产生的 ATP。”然后它为葡萄糖澄清道：“请记住，每个葡萄糖分子会产生两个乙酰 CoA 分子进入循环。由于前面提到的数字是根据单个乙酰基进入该途径而获得的，因此每个葡萄糖分子通过柠檬酸循环的总产量将翻倍，即 6 个 NADH、2 个 FADH2 和相当于 2 个 ATP。”",
+      "es": "El texto establece explícitamente: 'Por cada grupo acetilo que entra en el ciclo, 3 NAD+ se reducen a NADH (pasos 3, 4 y 8). En el paso 6, los electrones no se transfieren a NAD+, sino a FAD, que acepta 2 electrones y 2 protones para convertirse en FADH2. En muchas células de tejidos animales, la reacción en el paso 5 produce una molécula de guanosín trifosfato (GTP) por fosforilación a nivel de sustrato... La producción del paso 5 representa el único ATP generado durante el ciclo del ácido cítrico.' Luego aclara para la glucosa: 'Recuerde que cada glucosa da lugar a dos moléculas de acetil CoA que entran en el ciclo. Debido a que los números mencionados anteriormente se obtienen de un solo grupo acetilo que ingresa a la vía, el rendimiento total por glucosa del ciclo del ácido cítrico resulta ser el doble, es decir, 6 NADH, 2 FADH2 y el equivalente de 2 ATP.'",
+      "fr": "Le texte indique explicitement : « Pour chaque groupe acétyle entrant dans le cycle, 3 NAD+ sont réduits en NADH (étapes 3, 4 et 8). À l'étape 6, les électrons ne sont pas transférés au NAD+, mais au FAD, qui accepte 2 électrons et 2 protons pour devenir FADH2. Dans de nombreuses cellules de tissus animaux, la réaction de l'étape 5 produit une molécule de guanosine triphosphate (GTP) par phosphorylation au niveau du substrat... La production de l'étape 5 représente le seul ATP généré pendant le cycle de l'acide citrique. » Il clarifie ensuite pour le glucose : « Rappelez-vous que chaque glucose donne naissance à deux molécules d'acétyl-CoA qui entrent dans le cycle. Étant donné que les chiffres mentionnés précédemment sont obtenus à partir d'un seul groupe acétyle entrant dans la voie, le rendement total par glucose du cycle de l'acide citrique s'avère être doublé, soit 6 NADH, 2 FADH2, et l'équivalent de 2 ATP. »",
+      "de": "Der Text besagt explizit: „Für jede Acetylgruppe, die in den Zyklus eintritt, werden 3 NAD+ zu NADH (Schritte 3, 4 und 8) reduziert. In Schritt 6 werden Elektronen nicht auf NAD+, sondern auf FAD übertragen, das 2 Elektronen und 2 Protonen aufnimmt, um FADH2 zu werden. In vielen tierischen Gewebezellen erzeugt die Reaktion in Schritt 5 ein Guanosintriphosphat (GTP)-Molekül durch Substratkettenphosphorylierung... Der Ertrag aus Schritt 5 stellt das einzige während des Zitronensäurezyklus erzeugte ATP dar.“ Anschließend wird für Glukose klargestellt: „Beachten Sie, dass jede Glukose zwei Acetyl-CoA-Moleküle hervorbringt, die in den Zyklus eintreten. Da die zuvor genannten Zahlen von einer einzelnen Acetylgruppe stammen, die in den Stoffwechselweg eintritt, verdoppelt sich der Gesamtertrag pro Glukose aus dem Zitronensäurezyklus auf 6 NADH, 2 FADH2 und das Äquivalent von 2 ATP.“",
+      "ja": "本文には明確に記載されています。「回路に入るアセチル基ごとに、3つのNAD+がNADHに還元されます（ステップ3、4、8）。ステップ6では、電子はNAD+ではなくFADに転送され、FADは2つの電子と2つのプロトンを受け取りFADH2となります。多くの動物組織細胞では、ステップ5の反応で基質レベルのリン酸化によってグアノシン三リン酸（GTP）分子が生成されます...ステップ5からの出力は、クエン酸回路中に生成される唯一のATPを表します。」そして、グルコースについては次のように説明しています。「各グルコースは2分子のアセチルCoAを生成し、それが回路に入ります。先に述べた数字は単一のアセチル基が経路に入ることから得られているため、クエン酸回路からのグルコースあたりの総収量は2倍になり、NADH 6個、FADH2 2個、そしてATPに相当する2個となります。」"
+    }
+  }
+]

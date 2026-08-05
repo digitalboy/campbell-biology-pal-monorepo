@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 176,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following best describes an amphipathic molecule, such as a phospholipid, in the context of a cellular membrane?",
+      "zh": "在细胞膜的语境下，以下哪项最能描述两亲分子（如磷脂）？",
+      "es": "¿Cuál de las siguientes opciones describe mejor una molécula anfipática, como un fosfolípido, en el contexto de una membrana celular?",
+      "fr": "Laquelle des propositions suivantes décrit le mieux une molécule amphipathique, telle qu'un phospholipide, dans le contexte d'une membrane cellulaire ?",
+      "de": "Welche der folgenden Aussagen beschreibt am besten ein amphipatisches Molekül, wie ein Phospholipid, im Kontext einer Zellmembran?",
+      "ja": "細胞膜の文脈において、リン脂質のような両親媒性分子を最もよく説明しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Contains only hydrophilic regions that interact with water.",
+          "zh": "只包含与水相互作用的亲水区域。",
+          "es": "Contiene solo regiones hidrofílicas que interactúan con el agua.",
+          "fr": "Ne contient que des régions hydrophiles qui interagissent avec l'eau.",
+          "de": "Enthält nur hydrophile Bereiche, die mit Wasser interagieren.",
+          "ja": "水と相互作用する親水性領域のみを含む。"
+        },
+        "feedback": {
+          "en": "Amphipathic molecules have both hydrophilic and hydrophobic regions.",
+          "zh": "两亲分子同时具有亲水区域和疏水区域。",
+          "es": "Las moléculas anfipáticas tienen regiones hidrofílicas e hidrofóbicas.",
+          "fr": "Les molécules amphipathiques possèdent à la fois des régions hydrophiles et hydrophobes.",
+          "de": "Amphipatische Moleküle besitzen sowohl hydrophile als auch hydrophobe Bereiche.",
+          "ja": "両親媒性分子は、親水性領域と疎水性領域の両方を持っています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Contains both a hydrophilic (\"water-loving\") region and a hydrophobic (\"water-fearing\") region.",
+          "zh": "包含亲水（“亲水”）区域和疏水（“疏水”）区域。",
+          "es": "Contiene tanto una región hidrofílica (\"amante del agua\") como una región hidrofóbica (\"que teme al agua\").",
+          "fr": "Contient à la fois une région hydrophile (« qui aime l'eau ») et une région hydrophobe (« qui craint l'eau »).",
+          "de": "Enthält sowohl einen hydrophilen (\"wasserliebenden\") Bereich als auch einen hydrophoben (\"wasserabweisenden\") Bereich.",
+          "ja": "親水性（「水好き」）領域と疎水性（「水を恐れる」）領域の両方を含む。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Is exclusively found on the extracellular side of the membrane.",
+          "zh": "仅存在于细胞膜的外侧。",
+          "es": "Se encuentra exclusivamente en el lado extracelular de la membrana.",
+          "fr": "Se trouve exclusivement du côté extracellulaire de la membrane.",
+          "de": "Befindet sich ausschließlich auf der extrazellulären Seite der Membran.",
+          "ja": "膜の細胞外側にのみ存在する。"
+        },
+        "feedback": {
+          "en": "Phospholipids form the entire bilayer, with heads on both sides interacting with water.",
+          "zh": "磷脂形成整个双层，其头部在两侧与水相互作用。",
+          "es": "Los fosfolípidos forman la bicapa completa, con las cabezas en ambos lados interactuando con el agua.",
+          "fr": "Les phospholipides forment l'ensemble de la bicouche, leurs têtes interagissant avec l'eau des deux côtés.",
+          "de": "Phospholipide bilden die gesamte Doppelschicht, wobei die Köpfe auf beiden Seiten mit Wasser interagieren.",
+          "ja": "リン脂質は二重層全体を形成し、両側の頭部が水と相互作用します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Primarily provides structural support for the cytoskeleton.",
+          "zh": "主要为细胞骨架提供结构支持。",
+          "es": "Proporciona principalmente soporte estructural al citoesqueleto.",
+          "fr": "Fournit principalement un soutien structurel au cytosquelette.",
+          "de": "Bietet hauptsächlich strukturelle Unterstützung für das Zytoskelett.",
+          "ja": "主に細胞骨格の構造的支持を提供する。"
+        },
+        "feedback": {
+          "en": "While components like microfilaments of the cytoskeleton are associated, phospholipids' primary role is membrane formation due to their amphipathic nature.",
+          "zh": "细胞骨架微丝等成分虽然与磷脂相关，但磷脂的主要作用是由于其两亲性而形成细胞膜。",
+          "es": "Aunque componentes como los microfilamentos del citoesqueleto están asociados, el papel principal de los fosfolípidos es la formación de membranas debido a su naturaleza anfipática.",
+          "fr": "Bien que des composants comme les microfilaments du cytosquelette soient associés, le rôle principal des phospholipides est la formation de la membrane en raison de leur nature amphipathique.",
+          "de": "Obwohl Komponenten wie Mikrofilamente des Zytoskeletts assoziiert sind, besteht die primäre Rolle von Phospholipiden in der Membranbildung aufgrund ihrer amphipatischen Natur.",
+          "ja": "細胞骨格の微細線維のような成分は関連していますが、リン脂質の主な役割は、その両親媒性のため膜形成です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "An amphipathic molecule, such as a phospholipid, possesses both a hydrophilic (\"water-loving\") region (the head) and a hydrophobic (\"water-fearing\") region (the tail). This dual nature is crucial for their ability to spontaneously form stable bilayers in aqueous environments, with hydrophilic heads facing water and hydrophobic tails sheltered inside.",
+      "zh": "两亲分子，如磷脂，同时具有亲水（“亲水”）区域（头部）和疏水（“疏水”）区域（尾部）。这种双重性质对于它们在水环境中自发形成稳定双层的能力至关重要，亲水头部朝向水，疏水尾部则被保护在内部。",
+      "es": "Una molécula anfipática, como un fosfolípido, posee tanto una región hidrofílica (\"amante del agua\") (la cabeza) como una región hidrofóbica (\"que teme al agua\") (la cola). Esta doble naturaleza es crucial para su capacidad de formar espontáneamente bicapas estables en ambientes acuosos, con las cabezas hidrofílicas mirando hacia el agua y las colas hidrofóbicas protegidas en el interior.",
+      "fr": "Une molécule amphipathique, telle qu'un phospholipide, possède à la fois une région hydrophile (« qui aime l'eau ») (la tête) et une région hydrophobe (« qui craint l'eau ») (la queue). Cette double nature est cruciale pour leur capacité à former spontanément des bicouches stables en milieux aqueux, avec les têtes hydrophiles tournées vers l'eau et les queues hydrophobes abritées à l'intérieur.",
+      "de": "Ein amphipatisches Molekül, wie ein Phospholipid, besitzt sowohl einen hydrophilen (\"wasserliebenden\") Bereich (den Kopf) als auch einen hydrophoben (\"wasserabweisenden\") Bereich (den Schwanz). Diese duale Natur ist entscheidend für ihre Fähigkeit, in wässrigen Umgebungen spontan stabile Doppelschichten zu bilden, wobei die hydrophilen Köpfe dem Wasser zugewandt sind und die hydrophoben Schwänze im Inneren geschützt sind.",
+      "ja": "リン脂質のような両親媒性分子は、親水性（「水好き」）領域（頭部）と疎水性（「水を恐れる」）領域（尾部）の両方を持っています。この二重の性質は、水中で自発的に安定した二重層を形成する能力にとって重要であり、親水性の頭部は水に面し、疎水性の尾部は内部に保護されます。"
+    }
+  },
+  {
+    "page_number": 176,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 7.3, which statement about the components of the animal cell plasma membrane is correct?",
+      "zh": "根据图 7.3，关于动物细胞质膜成分的哪项描述是正确的？",
+      "es": "Según la Figura 7.3, ¿qué afirmación sobre los componentes de la membrana plasmática de la célula animal es correcta?",
+      "fr": "D'après la Figure 7.3, quelle affirmation concernant les composants de la membrane plasmique de la cellule animale est correcte ?",
+      "de": "Basierend auf Abbildung 7.3, welche Aussage über die Bestandteile der Plasmamembran einer tierischen Zelle ist korrekt?",
+      "ja": "図7.3に基づくと、動物細胞の細胞膜の構成要素に関する次の記述のうち、正しいのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Proteins are primarily located on the cytoplasmic side and are colored green.",
+          "zh": "蛋白质主要位于细胞质侧，并被染成绿色。",
+          "es": "Las proteínas se encuentran principalmente en el lado citoplasmático y están coloreadas de verde.",
+          "fr": "Les protéines sont principalement situées du côté cytoplasmique et sont colorées en vert.",
+          "de": "Proteine befinden sich hauptsächlich auf der zytoplasmatischen Seite und sind grün gefärbt.",
+          "ja": "タンパク質は主に細胞質側に位置し、緑色に着色されています。"
+        },
+        "feedback": {
+          "en": "Proteins are purple, and both integral and peripheral proteins are shown on both sides or embedded. Carbohydrates are green.",
+          "zh": "蛋白质是紫色的，并且整合蛋白和外周蛋白都显示在两侧或嵌入其中。碳水化合物是绿色的。",
+          "es": "Las proteínas son de color púrpura, y tanto las proteínas integrales como las periféricas se muestran en ambos lados o incrustadas. Los carbohidratos son verdes.",
+          "fr": "Les protéines sont violettes, et les protéines intégrales et périphériques sont représentées des deux côtés ou enchâssées. Les glucides sont verts.",
+          "de": "Proteine sind lila, und sowohl integrale als auch periphere Proteine sind auf beiden Seiten oder eingebettet dargestellt. Kohlenhydrate sind grün.",
+          "ja": "タンパク質は紫色で、内在性タンパク質と末梢タンパク質の両方が両側または埋め込まれて示されています。炭水化物は緑色です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Lipids (phospholipids and cholesterol) are colored gray and gold, forming the bilayer.",
+          "zh": "脂质（磷脂和胆固醇）被染成灰色和金色，形成双层。",
+          "es": "Los lípidos (fosfolípidos y colesterol) están coloreados de gris y dorado, formando la bicapa.",
+          "fr": "Les lipides (phospholipides et cholestérol) sont colorés en gris et or, formant la bicouche.",
+          "de": "Lipide (Phospholipide und Cholesterin) sind grau und goldfarben, bilden die Doppelschicht.",
+          "ja": "脂質（リン脂質とコレステロール）は灰色と金色に着色され、二重層を形成しています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Glycolipids and glycoproteins are primarily involved in providing structural support via the cytoskeleton.",
+          "zh": "糖脂和糖蛋白主要通过细胞骨架提供结构支持。",
+          "es": "Los glucolípidos y las glucoproteínas están principalmente involucrados en proporcionar soporte estructural a través del citoesqueleto.",
+          "fr": "Les glycolipides et les glycoprotéines sont principalement impliqués dans le soutien structurel via le cytosquelette.",
+          "de": "Glykolipide und Glykoproteine sind hauptsächlich an der Bereitstellung struktureller Unterstützung über das Zytoskelett beteiligt.",
+          "ja": "糖脂質と糖タンパク質は、主に細胞骨格を介した構造的支持に関与しています。"
+        },
+        "feedback": {
+          "en": "Glycolipids and glycoproteins contain carbohydrates (green) and are involved in cell recognition/signaling, not primarily cytoskeleton support. Cytoskeleton microfilaments provide structural support.",
+          "zh": "糖脂和糖蛋白含有碳水化合物（绿色），主要参与细胞识别/信号传导，而不是细胞骨架支持。细胞骨架微丝提供结构支持。",
+          "es": "Los glucolípidos y las glucoproteínas contienen carbohidratos (verdes) y están involucrados en el reconocimiento/señalización celular, no principalmente en el soporte del citoesqueleto. Los microfilamentos del citoesqueleto proporcionan soporte estructural.",
+          "fr": "Les glycolipides et glycoprotéines contiennent des glucides (verts) et sont impliqués dans la reconnaissance/signalisation cellulaire, et non principalement dans le soutien du cytosquelette. Les microfilaments du cytosquelette fournissent un soutien structurel.",
+          "de": "Glykolipide und Glykoproteine enthalten Kohlenhydrate (grün) und sind an der Zellerkennung/-signalübertragung beteiligt, nicht primär an der Unterstützung des Zytoskeletts. Die Mikrofilamente des Zytoskeletts bieten strukturelle Unterstützung.",
+          "ja": "糖脂質と糖タンパク質は炭水化物（緑色）を含み、細胞認識/シグナル伝達に関与しており、主に細胞骨格の支持ではありません。細胞骨格微細線維が構造的支持を提供します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The extracellular matrix (ECM) is located on the cytoplasmic side of the membrane.",
+          "zh": "细胞外基质（ECM）位于膜的细胞质侧。",
+          "es": "La matriz extracelular (ECM) se encuentra en el lado citoplasmático de la membrana.",
+          "fr": "La matrice extracellulaire (ECM) est située du côté cytoplasmique de la membrane.",
+          "de": "Die extrazelluläre Matrix (EZM) befindet sich auf der zytoplasmatischen Seite der Membran.",
+          "ja": "細胞外マトリックス（ECM）は膜の細胞質側に位置しています。"
+        },
+        "feedback": {
+          "en": "ECM is located on the extracellular side, as its name suggests. The cytoplasmic side interacts with the cytoskeleton.",
+          "zh": "顾名思义，细胞外基质（ECM）位于细胞外侧。细胞质侧与细胞骨架相互作用。",
+          "es": "La ECM se encuentra en el lado extracelular, como su nombre indica. El lado citoplasmático interactúa con el citoesqueleto.",
+          "fr": "L'ECM est située du côté extracellulaire, comme son nom l'indique. Le côté cytoplasmique interagit avec le cytosquelette.",
+          "de": "Die EZM befindet sich, wie der Name schon sagt, auf der extrazellulären Seite. Die zytoplasmatische Seite interagiert mit dem Zytoskelett.",
+          "ja": "ECMは、その名前が示すように、細胞外側に位置しています。細胞質側は細胞骨格と相互作用します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 7.3 explicitly states and shows that lipids (phospholipids and cholesterol) are colored gray and gold, forming the fundamental bilayer structure of the plasma membrane. Proteins are purple, and carbohydrates are green. The ECM is on the extracellular side, and the cytoskeleton is on the cytoplasmic side.",
+      "zh": "图7.3明确指出并显示脂质（磷脂和胆固醇）被染成灰色和金色，构成了质膜的基本双层结构。蛋白质是紫色的，碳水化合物是绿色的。细胞外基质位于细胞外侧，细胞骨架位于细胞质侧。",
+      "es": "La Figura 7.3 establece y muestra explícitamente que los lípidos (fosfolípidos y colesterol) están coloreados de gris y dorado, formando la estructura fundamental de la bicapa de la membrana plasmática. Las proteínas son de color púrpura y los carbohidratos son verdes. La ECM se encuentra en el lado extracelular y el citoesqueleto en el lado citoplasmático.",
+      "fr": "La Figure 7.3 indique et montre explicitement que les lipides (phospholipides et cholestérol) sont colorés en gris et or, formant la structure fondamentale de la bicouche de la membrane plasmique. Les protéines sont violettes et les glucides sont verts. La MEC est du côté extracellulaire et le cytosquelette est du côté cytoplasmique.",
+      "de": "Abbildung 7.3 zeigt und besagt explizit, dass Lipide (Phospholipide und Cholesterin) grau und goldfarben sind und die grundlegende Doppelschichtstruktur der Plasmamembran bilden. Proteine sind lila und Kohlenhydrate sind grün. Die EZM befindet sich auf der extrazellulären Seite, und das Zytoskelett befindet sich auf der zytoplasmatischen Seite.",
+      "ja": "図7.3では、脂質（リン脂質とコレステロール）が灰色と金色に着色され、細胞膜の基本的な二重層構造を形成していることが明示されています。タンパク質は紫色、炭水化物は緑色です。ECMは細胞外側にあり、細胞骨格は細胞質側にあります。"
+    }
+  },
+  {
+    "page_number": 176,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The \"fluid mosaic model\" describes the plasma membrane as a mosaic of protein molecules bobbing in a fluid bilayer of phospholipids. What key property of the membrane is highlighted by the term \"fluid\"?",
+      "zh": "“流动镶嵌模型”将质膜描述为蛋白质分子在磷脂流体双层中漂浮的镶嵌体。其中“流动”一词强调了膜的哪个关键特性？",
+      "es": "El \"modelo de mosaico fluido\" describe la membrana plasmática como un mosaico de moléculas proteicas flotando en una bicapa fluida de fosfolípidos. ¿Qué propiedad clave de la membrana se destaca con el término \"fluido\"?",
+      "fr": "Le « modèle de la mosaïque fluide » décrit la membrane plasmique comme une mosaïque de molécules protéiques flottant dans une bicouche fluide de phospholipides. Quelle propriété clé de la membrane est mise en évidence par le terme « fluide » ?",
+      "de": "Das \"Fluid-Mosaik-Modell\" beschreibt die Plasmamembran als ein Mosaik von Proteinmolekülen, die in einer fluiden Doppelschicht von Phospholipiden schwimmen. Welche Schlüsseleigenschaft der Membran wird durch den Begriff \"fluid\" hervorgehoben?",
+      "ja": "「流動モザイクモデル」は、細胞膜をリン脂質の流動性二重層に浮かぶタンパク質分子のモザイクとして記述しています。「流動性」という用語によって強調される膜の主要な特性は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The membrane is rigid and static, maintaining a fixed structure.",
+          "zh": "膜是刚性且静态的，保持固定结构。",
+          "es": "La membrana es rígida y estática, manteniendo una estructura fija.",
+          "fr": "La membrane est rigide et statique, maintenant une structure fixe.",
+          "de": "Die Membran ist starr und statisch und behält eine feste Struktur bei.",
+          "ja": "膜は硬直かつ静的であり、固定された構造を維持している。"
+        },
+        "feedback": {
+          "en": "The term \"fluid\" directly contradicts rigidity and static nature, indicating dynamic movement of components.",
+          "zh": "“流动”一词直接与刚性和静态性质相矛盾，表明组分是动态移动的。",
+          "es": "El término \"fluido\" contradice directamente la rigidez y la naturaleza estática, indicando el movimiento dinámico de los componentes.",
+          "fr": "Le terme « fluide » contredit directement la rigidité et la nature statique, indiquant un mouvement dynamique des composants.",
+          "de": "Der Begriff \"fluid\" widerspricht direkt der Starrheit und statischen Natur und weist auf die dynamische Bewegung der Komponenten hin.",
+          "ja": "「流動性」という用語は、硬直性や静的性質とは直接的に矛盾し、構成要素の動的な動きを示します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Components like phospholipids and proteins can move laterally within the membrane.",
+          "zh": "磷脂和蛋白质等组分可以在膜内横向移动。",
+          "es": "Componentes como fosfolípidos y proteínas pueden moverse lateralmente dentro de la membrana.",
+          "fr": "Des composants comme les phospholipides et les protéines peuvent se déplacer latéralement au sein de la membrane.",
+          "de": "Komponenten wie Phospholipide und Proteine können sich lateral innerhalb der Membran bewegen.",
+          "ja": "リン脂質やタンパク質などの構成要素は、膜内で横方向に移動できる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The membrane is permeable to all substances, allowing free passage.",
+          "zh": "膜对所有物质都具有渗透性，允许自由通过。",
+          "es": "La membrana es permeable a todas las sustancias, permitiendo el paso libre.",
+          "fr": "La membrane est perméable à toutes les substances, permettant un passage libre.",
+          "de": "Die Membran ist für alle Substanzen durchlässig und ermöglicht freien Durchgang.",
+          "ja": "膜はすべての物質に対して透過性があり、自由な通過を許容する。"
+        },
+        "feedback": {
+          "en": "While membranes are selectively permeable, \"fluidity\" refers to the movement of its components, not its permeability characteristics.",
+          "zh": "膜虽然具有选择性渗透性，“流动性”指的是其组分的移动，而非其渗透性特征。",
+          "es": "Si bien las membranas son selectivamente permeables, la \"fluidez\" se refiere al movimiento de sus componentes, no a sus características de permeabilidad.",
+          "fr": "Bien que les membranes soient sélectivement perméables, la « fluidité » fait référence au mouvement de leurs composants, et non à leurs caractéristiques de perméabilité.",
+          "de": "Während Membranen selektiv permeabel sind, bezieht sich \"Fluidität\" auf die Bewegung ihrer Komponenten, nicht auf ihre Permeabilitätseigenschaften.",
+          "ja": "膜は選択的透過性を持っていますが、「流動性」とはその構成要素の動きを指し、透過性の特性ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The membrane can easily be dissolved in water.",
+          "zh": "膜很容易溶于水。",
+          "es": "La membrana puede disolverse fácilmente en agua.",
+          "fr": "La membrane peut être facilement dissoute dans l'eau.",
+          "de": "Die Membran lässt sich leicht in Wasser auflösen.",
+          "ja": "膜は水に容易に溶解する。"
+        },
+        "feedback": {
+          "en": "The amphipathic nature of phospholipids leads to bilayer formation *in* water, not dissolution. A stable boundary is formed.",
+          "zh": "磷脂的两亲性导致在水中形成双层，而非溶解。形成的是一个稳定的边界。",
+          "es": "La naturaleza anfipática de los fosfolípidos conduce a la formación de bicapas *en* el agua, no a su disolución. Se forma un límite estable.",
+          "fr": "La nature amphipathique des phospholipides conduit à la formation de bicouches *dans* l'eau, et non à leur dissolution. Une barrière stable est formée.",
+          "de": "Die amphipatische Natur der Phospholipide führt zur Bildung einer Doppelschicht *in* Wasser, nicht zur Auflösung. Es wird eine stabile Grenze gebildet.",
+          "ja": "リン脂質の両親媒性により、水中での二重層形成が促され、溶解するわけではありません。安定した境界が形成されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The term \"fluid\" in the fluid mosaic model refers to the dynamic nature of the membrane, where phospholipids and proteins are not rigidly fixed but can move laterally within the plane of the membrane. This fluidity allows for various cellular processes like cell growth, movement, and division.",
+      "zh": "流动镶嵌模型中的“流动”一词指的是膜的动态性质，其中磷脂和蛋白质不是刚性固定的，而可以在膜平面内横向移动。这种流动性使得各种细胞过程，如细胞生长、运动和分裂得以进行。",
+      "es": "El término \"fluido\" en el modelo de mosaico fluido se refiere a la naturaleza dinámica de la membrana, donde los fosfolípidos y las proteínas no están rígidamente fijos, sino que pueden moverse lateralmente dentro del plano de la membrana. Esta fluidez permite varios procesos celulares como el crecimiento celular, el movimiento y la división.",
+      "fr": "Le terme « fluide » dans le modèle de la mosaïque fluide fait référence à la nature dynamique de la membrane, où les phospholipides et les protéines ne sont pas rigidement fixés mais peuvent se déplacer latéralement dans le plan de la membrane. Cette fluidité permet divers processus cellulaires tels que la croissance cellulaire, le mouvement et la division.",
+      "de": "Der Begriff \"fluid\" im Fluid-Mosaik-Modell bezieht sich auf die dynamische Natur der Membran, in der Phospholipide und Proteine nicht starr fixiert sind, sondern sich lateral innerhalb der Membranfläche bewegen können. Diese Fluidität ermöglicht verschiedene zelluläre Prozesse wie Zellwachstum, Bewegung und Teilung.",
+      "ja": "流動モザイクモデルにおける「流動性」という用語は、膜の動的な性質を指します。この性質により、リン脂質やタンパク質は rigidly fixed ではなく、膜の平面内で横方向に移動することができます。この流動性により、細胞の成長、移動、分裂など、さまざまな細胞プロセスが可能になります。"
+    }
+  }
+]

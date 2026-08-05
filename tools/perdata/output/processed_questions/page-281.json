@@ -1,0 +1,285 @@
+[
+  {
+    "page_number": 281,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the provided diagram and text in Concept 11.1, which of the following accurately describes the general three-stage cell-signaling pathway?",
+      "zh": "根据概念11.1中提供的图表和文本，以下哪项准确描述了一般的三阶段细胞信号传导途径？",
+      "es": "Según el diagrama y el texto proporcionados en el Concepto 11.1, ¿cuál de las siguientes opciones describe con precisión la vía general de señalización celular de tres etapas?",
+      "fr": "Selon le diagramme et le texte fournis dans le Concept 11.1, laquelle des propositions suivantes décrit avec précision la voie générale de signalisation cellulaire en trois étapes ?",
+      "de": "Gemäß dem bereitgestellten Diagramm und Text in Konzept 11.1, welche der folgenden Aussagen beschreibt den allgemeinen dreistufigen Zellsignalweg korrekt?",
+      "ja": "コンセプト11.1の図とテキストに基づいて、次のうち一般的な3段階の細胞シグナル伝達経路を正確に記述しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Signal Transduction -> Reception -> Cellular Response",
+          "zh": "信号转导 -> 信号接收 -> 细胞反应",
+          "es": "Transducción de Señales -> Recepción -> Respuesta Celular",
+          "fr": "Transduction du Signal -> Réception -> Réponse Cellulaire",
+          "de": "Signaltransduktion -> Empfang -> Zelluläre Reaktion",
+          "ja": "シグナル伝達 -> 受容 -> 細胞応答"
+        },
+        "feedback": {
+          "en": "The correct order begins with reception, followed by transduction, and finally cellular response.",
+          "zh": "正确的顺序是先接收，接着是转导，最后是细胞反应。",
+          "es": "El orden correcto comienza con la recepción, seguida de la transducción y, finalmente, la respuesta celular.",
+          "fr": "L'ordre correct commence par la réception, suivie de la transduction, et enfin de la réponse cellulaire.",
+          "de": "Die richtige Reihenfolge beginnt mit der Rezeption, gefolgt von der Transduktion und schließlich der zellulären Reaktion.",
+          "ja": "正しい順序は、受容、シグナル伝達、細胞応答です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Cellular Response -> Reception -> Signal Transduction",
+          "zh": "细胞反应 -> 信号接收 -> 信号转导",
+          "es": "Respuesta Celular -> Recepción -> Transducción de Señales",
+          "fr": "Réponse Cellulaire -> Réception -> Transduction du Signal",
+          "de": "Zelluläre Reaktion -> Empfang -> Signaltransduktion",
+          "ja": "細胞応答 -> 受容 -> シグナル伝達"
+        },
+        "feedback": {
+          "en": "The correct order begins with reception, followed by transduction, and finally cellular response.",
+          "zh": "正确的顺序是先接收，接着是转导，最后是细胞反应。",
+          "es": "El orden correcto comienza con la recepción, seguida de la transducción y, finalmente, la respuesta celular.",
+          "fr": "L'ordre correct commence par la réception, suivie de la transduction, et enfin de la réponse cellulaire.",
+          "de": "Die richtige Reihenfolge beginnt mit der Rezeption, gefolgt von der Transduktion und schließlich der zellulären Reaktion.",
+          "ja": "正しい順序は、受容、シグナル伝達、細胞応答です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Reception -> Signal Transduction -> Cellular Response",
+          "zh": "信号接收 -> 信号转导 -> 细胞反应",
+          "es": "Recepción -> Transducción de Señales -> Respuesta Celular",
+          "fr": "Réception -> Transduction du Signal -> Réponse Cellulaire",
+          "de": "Empfang -> Signaltransduktion -> Zelluläre Reaktion",
+          "ja": "受容 -> シグナル伝達 -> 細胞応答"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Signaling Molecule -> Receptor -> Activation of Cellular Response",
+          "zh": "信号分子 -> 受体 -> 细胞反应激活",
+          "es": "Molécula Señalizadora -> Receptor -> Activación de la Respuesta Celular",
+          "fr": "Molécule Signalétique -> Récepteur -> Activation de la Réponse Cellulaire",
+          "de": "Signalmolekül -> Rezeptor -> Aktivierung der zellulären Reaktion",
+          "ja": "シグナル分子 -> 受容体 -> 細胞応答の活性化"
+        },
+        "feedback": {
+          "en": "This option is too simplistic and omits the crucial signal transduction stage involving relay molecules.",
+          "zh": "此选项过于简化，遗漏了涉及中继分子的关键信号转导阶段。",
+          "es": "Esta opción es demasiado simplista y omite la etapa crucial de transducción de señales que involucra moléculas de relevo.",
+          "fr": "Cette option est trop simpliste et omet l'étape cruciale de transduction du signal impliquant les molécules relais.",
+          "de": "Diese Option ist zu vereinfacht und lässt die entscheidende Signaltransduktionsphase, die Relaismoleküle beinhaltet, aus.",
+          "ja": "この選択肢は単純化しすぎており、中継分子を介する重要なシグナル伝達段階を省略しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The three-stage cell-signaling pathway consists of: 1) Signal reception, where a signaling molecule binds to a receptor; 2) Signal transduction, where the signal is relayed through a series of relay molecules; and 3) Cellular response, leading to an activation of cellular activity.",
+      "zh": "细胞信号传导的三阶段途径包括：1) 信号接收，信号分子与受体结合；2) 信号转导，信号通过一系列中继分子进行传递；以及 3) 细胞反应，导致细胞活动的激活。",
+      "es": "La vía de señalización celular de tres etapas consiste en: 1) Recepción de la señal, donde una molécula señalizadora se une a un receptor; 2) Transducción de la señal, donde la señal se transmite a través de una serie de moléculas de relevo; y 3) Respuesta celular, que conduce a la activación de la actividad celular.",
+      "fr": "La voie de signalisation cellulaire en trois étapes comprend : 1) La réception du signal, où une molécule de signalisation se lie à un récepteur ; 2) La transduction du signal, où le signal est relayé par une série de molécules relais ; et 3) La réponse cellulaire, conduisant à une activation de l'activité cellulaire.",
+      "de": "Der dreistufige Zellsignalweg besteht aus: 1) Signalempfang, bei dem ein Signalmolekül an einen Rezeptor bindet; 2) Signaltransduktion, bei der das Signal über eine Reihe von Relaismolekülen weitergeleitet wird; und 3) Zelluläre Reaktion, die zu einer Aktivierung der Zellaktivität führt.",
+      "ja": "細胞シグナル伝達の3段階経路は、1) シグナル受容（シグナル分子が受容体に結合する）、2) シグナル伝達（シグナルが一連の伝達分子を介して中継される）、3) 細胞応答（細胞活動の活性化につながる）から構成されます。"
+    }
+  },
+  {
+    "page_number": 281,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on Concept 11.3, which statement accurately distinguishes between a protein kinase and a second messenger in a signal transduction pathway?",
+      "zh": "根据概念11.3，以下哪项陈述准确区分了信号转导途径中的蛋白激酶和第二信使？",
+      "es": "Según el Concepto 11.3, ¿qué afirmación distingue con precisión entre una proteína quinasa y un segundo mensajero en una vía de transducción de señales?",
+      "fr": "Selon le Concept 11.3, quelle affirmation distingue précisément une protéine kinase d'un second messager dans une voie de transduction du signal ?",
+      "de": "Basierend auf Konzept 11.3, welche Aussage unterscheidet präzise zwischen einer Proteinkinase und einem sekundären Botenstoff in einem Signaltransduktionsweg?",
+      "ja": "コンセプト11.3に基づいて、シグナル伝達経路におけるプロテインキナーゼとセカンドメッセンジャーの違いを正確に説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A protein kinase amplifies the signal by adding phosphate groups, while a second messenger directly binds to and activates the receptor.",
+          "zh": "蛋白激酶通过添加磷酸基团来放大信号，而第二信使直接与受体结合并激活受体。",
+          "es": "Una proteína quinasa amplifica la señal añadiendo grupos fosfato, mientras que un segundo mensajero se une directamente al receptor y lo activa.",
+          "fr": "Une protéine kinase amplifie le signal en ajoutant des groupes phosphate, tandis qu'un second messager se lie directement au récepteur et l'active.",
+          "de": "Eine Proteinkinase verstärkt das Signal durch das Anfügen von Phosphatgruppen, während ein sekundärer Botenstoff direkt an den Rezeptor bindet und diesen aktiviert.",
+          "ja": "プロテインキナーゼはリン酸基を追加することでシグナルを増幅しますが、セカンドメッセンジャーは直接受容体に結合して活性化します。"
+        },
+        "feedback": {
+          "en": "Second messengers do not directly bind to and activate the initial receptor; rather, they are produced or released in response to receptor activation and diffuse to target proteins.",
+          "zh": "第二信使不直接与初始受体结合并激活它；相反，它们是响应受体激活而产生或释放的，并扩散到靶蛋白。",
+          "es": "Los segundos mensajeros no se unen directamente ni activan el receptor inicial; más bien, se producen o liberan en respuesta a la activación del receptor y se difunden a las proteínas diana.",
+          "fr": "Les seconds messagers ne se lient pas directement aux récepteurs initiaux pour les activer ; ils sont plutôt produits ou libérés en réponse à l'activation du récepteur et diffusent vers les protéines cibles.",
+          "de": "Sekundäre Botenstoffe binden nicht direkt an den initialen Rezeptor und aktivieren diesen; stattdessen werden sie als Reaktion auf die Rezeptoraktivierung produziert oder freigesetzt und diffundieren zu Zielproteinen.",
+          "ja": "セカンドメッセンジャーは初期受容体に直接結合して活性化するわけではありません。受容体活性化に応答して生成または放出され、標的タンパク質に拡散します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A protein kinase is typically a large protein that phosphorylates other proteins, whereas a second messenger is a small, nonprotein, water-soluble molecule or ion that diffuses rapidly.",
+          "zh": "蛋白激酶通常是使其他蛋白质磷酸化的较大蛋白质，而第二信使是小型的、非蛋白质的、水溶性的分子或离子，能够迅速扩散。",
+          "es": "Una proteína quinasa es típicamente una proteína grande que fosforila otras proteínas, mientras que un segundo mensajero es una molécula o ion pequeño, no proteico y soluble en agua que se difunde rápidamente.",
+          "fr": "Une protéine kinase est typiquement une grande protéine qui phosphoryle d'autres protéines, tandis qu'un second messager est une petite molécule ou un ion non protéique, soluble dans l'eau, qui se diffuse rapidement.",
+          "de": "Eine Proteinkinase ist typischerweise ein großes Protein, das andere Proteine phosphoryliert, während ein sekundärer Botenstoff ein kleines, nicht-proteinisches, wasserlösliches Molekül oder Ion ist, das sich schnell ausbreitet.",
+          "ja": "プロテインキナーゼは通常、他のタンパク質をリン酸化する大きなタンパク質であり、一方セカンドメッセンジャーは小さく、非タンパク質性の水溶性分子またはイオンで、迅速に拡散します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Protein kinases are only involved in nuclear responses, while second messengers are only involved in cytoplasmic responses.",
+          "zh": "蛋白激酶只参与核反应，而第二信使只参与细胞质反应。",
+          "es": "Las proteínas quinasas solo están involucradas en respuestas nucleares, mientras que los segundos mensajeros solo lo están en respuestas citoplasmáticas.",
+          "fr": "Les protéines kinases ne sont impliquées que dans les réponses nucléaires, tandis que les seconds messagers ne sont impliqués que dans les réponses cytoplasmiques.",
+          "de": "Proteinkinasen sind nur an nukleären Reaktionen beteiligt, während sekundäre Botenstoffe nur an zytoplasmatischen Reaktionen beteiligt sind.",
+          "ja": "プロテインキナーゼは核内応答にのみ関与し、セカンドメッセンジャーは細胞質応答にのみ関与します。"
+        },
+        "feedback": {
+          "en": "Both protein kinases (through phosphorylation cascades) and second messengers can be involved in pathways leading to both nuclear and cytoplasmic responses.",
+          "zh": "蛋白激酶（通过磷酸化级联）和第二信使都可以参与导致核反应和细胞质反应的途径。",
+          "es": "Tanto las proteínas quinasas (a través de cascadas de fosforilación) como los segundos mensajeros pueden estar involucrados en vías que conducen tanto a respuestas nucleares como citoplasmáticas.",
+          "fr": "Les protéines kinases (par le biais de cascades de phosphorylation) et les seconds messagers peuvent être impliqués dans des voies menant à des réponses nucléaires et cytoplasmiques.",
+          "de": "Sowohl Proteinkinasen (durch Phosphorylierungskaskaden) als auch sekundäre Botenstoffe können an Signalwegen beteiligt sein, die sowohl zu nukleären als auch zu zytoplasmatischen Reaktionen führen.",
+          "ja": "プロテインキナーゼ（リン酸化カスケードを介して）もセカンドメッセンジャーも、核応答と細胞質応答の両方につながる経路に関与することができます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both protein kinases and second messengers are always activated by G protein-coupled receptors.",
+          "zh": "蛋白激酶和第二信使总是由G蛋白偶联受体激活。",
+          "es": "Tanto las proteínas quinasas como los segundos mensajeros siempre son activados por receptores acoplados a proteínas G.",
+          "fr": "Les protéines kinases et les seconds messagers sont toujours activés par les récepteurs couplés aux protéines G.",
+          "de": "Sowohl Proteinkinasen als auch sekundäre Botenstoffe werden immer durch G-Protein-gekoppelte Rezeptoren aktiviert.",
+          "ja": "プロテインキナーゼとセカンドメッセンジャーの両方が、常にGタンパク質共役受容体によって活性化されます。"
+        },
+        "feedback": {
+          "en": "While GPCRs are one common activator, RTKs can also activate pathways involving second messengers (e.g., Ca2+ via IP3) and various protein kinases.",
+          "zh": "虽然G蛋白偶联受体是常见的激活剂之一，但受体酪氨酸激酶(RTK)也可以激活涉及第二信使（如通过IP3的Ca2+）和各种蛋白激酶的途径。",
+          "es": "Aunque los GPCR son un activador común, los RTK también pueden activar vías que involucran segundos mensajeros (p. ej., Ca2+ a través de IP3) y diversas proteínas quinasas.",
+          "fr": "Bien que les GPCR soient un activateur courant, les RTK peuvent également activer des voies impliquant des seconds messagers (par exemple, le Ca2+ via l'IP3) et diverses protéines kinases.",
+          "de": "Obwohl GPCRs ein häufiger Aktivator sind, können RTKs auch Signalwege aktivieren, die sekundäre Botenstoffe (z. B. Ca2+ über IP3) und verschiedene Proteinkinasen involvieren.",
+          "ja": "GPCRは一般的な活性化因子の一つですが、RTKもセカンドメッセンジャー（例：IP3を介したCa2+）や様々なプロテインキナーゼを含む経路を活性化することができます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Protein kinases are enzymes, typically large proteins, that add phosphate groups to other proteins in phosphorylation cascades, thereby changing their activity. Second messengers, in contrast, are small, nonprotein, water-soluble molecules or ions (like cAMP, Ca2+, DAG, IP3) that diffuse rapidly through the cytosol to broadcast signals.",
+      "zh": "蛋白激酶是酶，通常是大型蛋白质，在磷酸化级联中向其他蛋白质添加磷酸基团，从而改变它们的活性。相比之下，第二信使是小型、非蛋白质、水溶性分子或离子（如cAMP、Ca2+、DAG、IP3），它们通过细胞质迅速扩散以传播信号。",
+      "es": "Las proteínas quinasas son enzimas, típicamente proteínas grandes, que añaden grupos fosfato a otras proteínas en cascadas de fosforilación, cambiando así su actividad. Los segundos mensajeros, en contraste, son moléculas o iones pequeños, no proteicos y solubles en agua (como cAMP, Ca2+, DAG, IP3) que se difunden rápidamente por el citosol para difundir señales.",
+      "fr": "Les protéines kinases sont des enzymes, typiquement de grandes protéines, qui ajoutent des groupes phosphate à d'autres protéines dans les cascades de phosphorylation, modifiant ainsi leur activité. Les seconds messagers, en revanche, sont de petites molécules ou ions non protéiques et solubles dans l'eau (comme l'AMPc, le Ca2+, le DAG, l'IP3) qui diffusent rapidement à travers le cytosol pour propager les signaux.",
+      "de": "Proteinkinasen sind Enzyme, typischerweise große Proteine, die in Phosphorylierungskaskaden Phosphatgruppen an andere Proteine anfügen und dadurch deren Aktivität verändern. Sekundäre Botenstoffe hingegen sind kleine, nicht-proteinöse, wasserlösliche Moleküle oder Ionen (wie cAMP, Ca2+, DAG, IP3), die schnell durch das Zytosol diffundieren, um Signale zu verbreiten.",
+      "ja": "プロテインキナーゼは、リン酸化カスケードにおいて他のタンパク質にリン酸基を付加することでその活性を変化させる酵素であり、通常は大きなタンパク質です。対照的に、セカンドメッセンジャーは、細胞質内を迅速に拡散してシグナルを伝達する、小さく、非タンパク質性の水溶性分子またはイオン（cAMP、Ca2+、DAG、IP3など）です。"
+    }
+  },
+  {
+    "page_number": 281,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Concept 11.3, which of the following statements about second messengers are true? (Select all that apply)",
+      "zh": "根据概念11.3，以下关于第二信使的陈述哪些是正确的？（选择所有适用项）",
+      "es": "Según el Concepto 11.3, ¿cuáles de las siguientes afirmaciones sobre los segundos mensajeros son verdaderas? (Seleccione todas las que correspondan)",
+      "fr": "Selon le Concept 11.3, lesquelles des affirmations suivantes concernant les seconds messagers sont vraies ? (Sélectionnez toutes les options applicables)",
+      "de": "Gemäß Konzept 11.3, welche der folgenden Aussagen über sekundäre Botenstoffe sind wahr? (Wählen Sie alle zutreffenden aus)",
+      "ja": "コンセプト11.3によると、セカンドメッセンジャーに関する以下の記述のうち、正しいものはどれですか？（すべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "They are typically small, nonprotein, water-soluble molecules or ions.",
+          "zh": "它们通常是小型、非蛋白质、水溶性分子或离子。",
+          "es": "Suelen ser moléculas o iones pequeños, no proteicos y solubles en agua.",
+          "fr": "Ce sont typiquement de petites molécules ou ions non protéiques, solubles dans l'eau.",
+          "de": "Es handelt sich typischerweise um kleine, nicht-proteinöse, wasserlösliche Moleküle oder Ionen.",
+          "ja": "それらは通常、小さく、非タンパク質性の水溶性分子またはイオンです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "They facilitate rapid broadcast of signals throughout the cell.",
+          "zh": "它们促进信号在整个细胞内的快速广播。",
+          "es": "Facilitan la rápida difusión de señales por toda la célula.",
+          "fr": "Ils facilitent la diffusion rapide des signaux dans toute la cellule.",
+          "de": "Sie ermöglichen die schnelle Verbreitung von Signalen durch die Zelle.",
+          "ja": "それらは細胞全体にシグナルを迅速に広めるのを促進します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Examples include cyclic AMP (cAMP), Ca2+, diacylglycerol (DAG), and inositol trisphosphate (IP3).",
+          "zh": "例子包括环磷酸腺苷(cAMP)、Ca2+、二酰甘油(DAG)和三磷酸肌醇(IP3)。",
+          "es": "Ejemplos incluyen el AMP cíclico (cAMP), Ca2+, diacilglicerol (DAG) y trifosfato de inositol (IP3).",
+          "fr": "Des exemples incluent l'AMP cyclique (AMPc), le Ca2+, le diacylglycérol (DAG) et l'inositol trisphosphate (IP3).",
+          "de": "Beispiele sind cyclisches AMP (cAMP), Ca2+, Diacylglycerin (DAG) und Inositoltrisphosphat (IP3).",
+          "ja": "例としては、サイクリックAMP（cAMP）、Ca2+、ジアシルグリセロール（DAG）、イノシトール三リン酸（IP3）があります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "They are often activated by enzymes like adenylyl cyclase.",
+          "zh": "它们常被腺苷酸环化酶等酶激活。",
+          "es": "A menudo son activados por enzimas como la adenilil ciclasa.",
+          "fr": "Ils sont souvent activés par des enzymes comme l'adénylate cyclase.",
+          "de": "Sie werden oft durch Enzyme wie Adenylylcyclase aktiviert.",
+          "ja": "それらはアデニル酸シクラーゼなどの酵素によって活性化されることが多いです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "They are always large proteins that phosphorylate other molecules.",
+          "zh": "它们总是能磷酸化其他分子的巨大蛋白质。",
+          "es": "Siempre son proteínas grandes que fosforilan otras moléculas.",
+          "fr": "Ce sont toujours de grandes protéines qui phosphorylent d'autres molécules.",
+          "de": "Es handelt sich immer um große Proteine, die andere Moleküle phosphorylieren.",
+          "ja": "それらは常に他の分子をリン酸化する大きなタンパク質です。"
+        },
+        "feedback": {
+          "en": "This describes protein kinases, not second messengers. Second messengers are small, nonprotein molecules or ions.",
+          "zh": "这描述的是蛋白激酶，而不是第二信使。第二信使是小型、非蛋白质分子或离子。",
+          "es": "Esto describe a las proteínas quinasas, no a los segundos mensajeros. Los segundos mensajeros son moléculas o iones pequeños y no proteicos.",
+          "fr": "Ceci décrit les protéines kinases, et non les seconds messagers. Les seconds messagers sont de petites molécules ou ions non protéiques.",
+          "de": "Dies beschreibt Proteinkinasen, nicht sekundäre Botenstoffe. Sekundäre Botenstoffe sind kleine, nicht-proteinöse Moleküle oder Ionen.",
+          "ja": "これはプロテインキナーゼの説明であり、セカンドメッセンジャーではありません。セカンドメッセンジャーは、小さく、非タンパク質性の分子またはイオンです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": {
+      "en": "Second messengers are crucial in signal transduction, characterized by being small, nonprotein, water-soluble molecules or ions that can diffuse quickly throughout the cell to broadcast signals. Key examples mentioned are cyclic AMP (cAMP), Ca2+, diacylglycerol (DAG), and inositol trisphosphate (IP3). Enzymes like adenylyl cyclase play a role in their production (e.g., cAMP from ATP). The statement that they are always large proteins that phosphorylate other molecules describes protein kinases, not second messengers.",
+      "zh": "第二信使在信号转导中至关重要，其特点是它们是小型、非蛋白质、水溶性分子或离子，能够迅速扩散到整个细胞中以传播信号。文中提到的关键例子是环磷酸腺苷(cAMP)、Ca2+、二酰甘油(DAG)和三磷酸肌醇(IP3)。腺苷酸环化酶等酶在它们的产生中发挥作用（例如，从ATP生成cAMP）。而关于它们总是能磷酸化其他分子的巨大蛋白质的说法描述的是蛋白激酶，而不是第二信使。",
+      "es": "Los segundos mensajeros son cruciales en la transducción de señales, caracterizados por ser moléculas o iones pequeños, no proteicos y solubles en agua que pueden difundirse rápidamente por toda la célula para difundir señales. Ejemplos clave mencionados son el AMP cíclico (cAMP), Ca2+, diacilglicerol (DAG) y trifosfato de inositol (IP3). Enzimas como la adenilil ciclasa desempeñan un papel en su producción (p. ej., cAMP a partir de ATP). La afirmación de que siempre son proteínas grandes que fosforilan otras moléculas describe a las proteínas quinasas, no a los segundos mensajeros.",
+      "fr": "Les seconds messagers sont cruciaux dans la transduction du signal, caractérisés par être de petites molécules ou ions non protéiques et solubles dans l'eau qui peuvent diffuser rapidement dans toute la cellule pour propager les signaux. Les exemples clés mentionnés sont l'AMP cyclique (AMPc), le Ca2+, le diacylglycérol (DAG) et l'inositol trisphosphate (IP3). Des enzymes comme l'adénylate cyclase jouent un rôle dans leur production (par exemple, l'AMPc à partir de l'ATP). L'affirmation selon laquelle ce sont toujours de grandes protéines qui phosphorylent d'autres molécules décrit les protéines kinases, et non les seconds messagers.",
+      "de": "Sekundäre Botenstoffe sind entscheidend für die Signaltransduktion und zeichnen sich dadurch aus, dass sie kleine, nicht-proteinöse, wasserlösliche Moleküle oder Ionen sind, die sich schnell durch das Zytosol der Zelle ausbreiten können, um Signale zu verbreiten. Schlüsselbeispiele sind cyclisches AMP (cAMP), Ca2+, Diacylglycerin (DAG) und Inositoltrisphosphat (IP3). Enzyme wie Adenylylcyclase spielen eine Rolle bei ihrer Produktion (z. B. cAMP aus ATP). Die Aussage, dass es sich immer um große Proteine handelt, die andere Moleküle phosphorylieren, beschreibt Proteinkinasen, nicht sekundäre Botenstoffe.",
+      "ja": "セカンドメッセンジャーは、シグナル伝達において重要であり、小さく、非タンパク質性で水溶性の分子またはイオンであり、細胞全体に迅速に拡散してシグナルを伝達できるという特徴があります。言及されている主要な例には、サイクリックAMP（cAMP）、Ca2+、ジアシルグリセロール（DAG）、イノシトール三リン酸（IP3）があります。アデニル酸シクラーゼのような酵素は、それらの生成（例：ATPからのcAMP）において役割を果たします。常に他の分子をリン酸化する大きなタンパク質であるという記述は、プロテインキナーゼを説明するものであり、セカンドメッセンジャーではありません。"
+    }
+  }
+]

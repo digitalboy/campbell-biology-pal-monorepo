@@ -1,0 +1,291 @@
+[
+  {
+    "page_number": 377,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following sequences correctly describes the steps involved in nucleotide excision repair of DNA damage, as depicted in Figure 16.20?",
+      "zh": "根据图16.20所示，以下哪一序列正确描述了核苷酸切除修复DNA损伤的步骤？",
+      "es": "¿Cuál de las siguientes secuencias describe correctamente los pasos involucrados en la reparación por escisión de nucleótidos del daño del ADN, como se representa en la Figura 16.20?",
+      "fr": "Laquelle des séquences suivantes décrit correctement les étapes impliquées dans la réparation par excision de nucléotides des dommages à l'ADN, comme représenté dans la Figure 16.20 ?",
+      "de": "Welche der folgenden Sequenzen beschreibt die Schritte der Nukleotidexzisionsreparatur von DNA-Schäden, wie in Abbildung 16.20 dargestellt, korrekt?",
+      "ja": "図16.20に示されているように、DNA損傷のヌクレオチド除去修復に関与する段階を正しく説明しているのは、次のうちどの順序ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Detection by enzymes → DNA ligase seals → Nuclease cuts → DNA polymerase fills.",
+          "zh": "酶检测 → DNA连接酶封闭 → 核酸酶切割 → DNA聚合酶填充。",
+          "es": "Detección por enzimas → ADN ligasa sella → Nucleasa corta → ADN polimerasa rellena.",
+          "fr": "Détection par des enzymes → ADN ligase scelle → Nucléase coupe → ADN polymérase comble.",
+          "de": "Erkennung durch Enzyme → DNA-Ligase versiegelt → Nuklease schneidet → DNA-Polymerase füllt.",
+          "ja": "酵素による検出 → DNAリガーゼが封鎖 → ヌクレアーゼが切断 → DNAポリメラーゼが充填。"
+        },
+        "feedback": {
+          "en": "Incorrect order. DNA ligase seals the strand at the final step, and nuclease cutting precedes DNA polymerase activity.",
+          "zh": "顺序不正确。DNA连接酶在最后一步进行封闭，核酸酶的切割发生在DNA聚合酶填充之前。",
+          "es": "Orden incorrecto. La ADN ligasa sella la hebra en el paso final, y el corte de la nucleasa precede a la actividad de la ADN polimerasa.",
+          "fr": "Ordre incorrect. L'ADN ligase scelle le brin à la dernière étape, et la coupure par la nucléase précède l'activité de l'ADN polymérase.",
+          "de": "Falsche Reihenfolge. Die DNA-Ligase versiegelt den Strang im letzten Schritt, und das Schneiden durch die Nuklease geht der DNA-Polymerase-Aktivität voraus.",
+          "ja": "順序が正しくありません。DNAリガーゼは最終ステップで鎖を封鎖し、ヌクレアーゼによる切断はDNAポリメラーゼの活性に先行します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Nuclease cuts → Detection by enzymes → DNA polymerase fills → DNA ligase seals.",
+          "zh": "核酸酶切割 → 酶检测 → DNA聚合酶填充 → DNA连接酶封闭。",
+          "es": "Nucleasa corta → Detección por enzimas → ADN polimerasa rellena → ADN ligasa sella.",
+          "fr": "Nucléase coupe → Détection par des enzymes → ADN polymérase comble → ADN ligase scelle.",
+          "de": "Nuklease schneidet → Erkennung durch Enzyme → DNA-Polymerase füllt → DNA-Ligase versiegelt.",
+          "ja": "ヌクレアーゼが切断 → 酵素による検出 → DNAポリメラーゼが充填 → DNAリガーゼが封鎖。"
+        },
+        "feedback": {
+          "en": "Incorrect order. The initial step is the detection of damaged DNA by enzymes, not nuclease cutting.",
+          "zh": "顺序不正确。最初的步骤是酶检测到受损DNA，而不是核酸酶的切割。",
+          "es": "Orden incorrecto. El paso inicial es la detección del ADN dañado por las enzimas, no el corte de la nucleasa.",
+          "fr": "Ordre incorrect. L'étape initiale est la détection de l'ADN endommagé par les enzymes, et non la coupure par la nucléase.",
+          "de": "Falsche Reihenfolge. Der erste Schritt ist die Erkennung der geschädigten DNA durch Enzyme, nicht das Schneiden durch die Nuklease.",
+          "ja": "順序が正しくありません。最初のステップは、酵素による損傷DNAの検出であり、ヌクレアーゼによる切断ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Detection by enzymes → Nuclease cuts → DNA polymerase fills → DNA ligase seals.",
+          "zh": "酶检测 → 核酸酶切割 → DNA聚合酶填充 → DNA连接酶封闭。",
+          "es": "Detección por enzimas → Nucleasa corta → ADN polimerasa rellena → ADN ligasa sella.",
+          "fr": "Détection par des enzymes → Nucléase coupe → ADN polymérase comble → ADN ligase scelle.",
+          "de": "Erkennung durch Enzyme → Nuklease schneidet → DNA-Polymerase füllt → DNA-Ligase versiegelt.",
+          "ja": "酵素による検出 → ヌクレアーゼが切断 → DNAポリメラーゼが充填 → DNAリガーゼが封鎖。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA polymerase fills → Nuclease cuts → Detection by enzymes → DNA ligase seals.",
+          "zh": "DNA聚合酶填充 → 核酸酶切割 → 酶检测 → DNA连接酶封闭。",
+          "es": "ADN polimerasa rellena → Nucleasa corta → Detección por enzimas → ADN ligasa sella.",
+          "fr": "ADN polymérase comble → Nucléase coupe → Détection par des enzymes → ADN ligase scelle.",
+          "de": "DNA-Polymerase füllt → Nuklease schneidet → Erkennung durch Enzyme → DNA-Ligase versiegelt.",
+          "ja": "DNAポリメラーゼが充填 → ヌクレアーゼが切断 → 酵素による検出 → DNAリガーゼが封鎖。"
+        },
+        "feedback": {
+          "en": "Incorrect order. DNA polymerase fills the gap after the damaged section is removed, and detection is the first step.",
+          "zh": "顺序不正确。DNA聚合酶在受损片段被移除后才填充缺口，而检测是第一个步骤。",
+          "es": "Orden incorrecto. La ADN polimerasa llena el hueco después de que se haya eliminado la sección dañada, y la detección es el primer paso.",
+          "fr": "Ordre incorrect. L'ADN polymérase comble l'espace après que la section endommagée ait été retirée, et la détection est la toute première étape.",
+          "de": "Falsche Reihenfolge. Die DNA-Polymerase füllt die Lücke, nachdem der beschädigte Abschnitt entfernt wurde, und die Erkennung ist der allererste Schritt.",
+          "ja": "順序が正しくありません。DNAポリメラーゼは損傷した部分が除去された後にギャップを埋め、検出が最初のステップです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Nucleotide excision repair begins with enzymes detecting the damaged DNA (Step 1). A nuclease then cuts the damaged strand and removes the section (Step 2). DNA polymerase synthesizes new DNA to fill the gap using the undamaged strand as a template (Step 3). Finally, DNA ligase seals the newly synthesized DNA to the old DNA, completing the repair (Step 4). This sequence is clearly illustrated in Figure 16.20.",
+      "zh": "核苷酸切除修复首先由酶检测到受损DNA（步骤1）。然后，核酸酶切割受损链并移除该片段（步骤2）。DNA聚合酶以未受损链为模板合成新的DNA以填充空隙（步骤3）。最后，DNA连接酶将新合成的DNA与旧DNA连接起来，完成修复（步骤4）。这一序列在图16.20中清晰地说明。",
+      "es": "La reparación por escisión de nucleótidos comienza con las enzimas detectando el ADN dañado (Paso 1). Luego, una nucleasa corta la hebra dañada y elimina la sección (Paso 2). La ADN polimerasa sintetiza nuevo ADN para llenar el hueco usando la hebra no dañada como molde (Paso 3). Finalmente, la ADN ligasa sella el ADN recién sintetizado al ADN antiguo, completando la reparación (Paso 4). Esta secuencia se ilustra claramente en la Figura 16.20.",
+      "fr": "La réparation par excision de nucléotides commence par la détection de l'ADN endommagé par des enzymes (Étape 1). Ensuite, une nucléase coupe le brin endommagé et enlève la section (Étape 2). L'ADN polymérase synthétise de l'ADN nouveau pour combler l'espace en utilisant le brin non endommagé comme matrice (Étape 3). Enfin, l'ADN ligase scelle l'ADN nouvellement synthétisé à l'ancien ADN, complétant la réparation (Étape 4). Cette séquence est clairement illustrée dans la Figure 16.20.",
+      "de": "Die Nukleotidexzisionsreparatur beginnt mit der Erkennung der geschädigten DNA durch Enzyme (Schritt 1). Eine Nuklease schneidet dann den beschädigten Strang und entfernt den Abschnitt (Schritt 2). Die DNA-Polymerase synthesisiert neue DNA, um die Lücke unter Verwendung des unbeschädigten Strangs als Vorlage zu füllen (Schritt 3). Schließlich versiegelt die DNA-Ligase die neu synthetisierte DNA mit der alten DNA, wodurch die Reparatur abgeschlossen wird (Schritt 4). Diese Abfolge ist in Abbildung 16.20 deutlich dargestellt.",
+      "ja": "ヌクレオチド除去修復は、酵素が損傷したDNAを検出することから始まります（ステップ1）。次に、ヌクレアーゼが損傷した鎖を切断し、その部分を除去します（ステップ2）。DNAポリメラーゼは、損傷していない鎖を鋳型として、ギャップを埋めるために新しいDNAを合成します（ステップ3）。最後に、DNAリガーゼが新しく合成されたDNAを古いDNAに結合させ、修復を完了します（ステップ4）。このシーケンスは図16.20に明確に示されています。"
+    }
+  },
+  {
+    "page_number": 377,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements about telomeres and DNA replication are correct? (Select all that apply)",
+      "zh": "关于端粒和DNA复制，以下哪些陈述是正确的？（选择所有适用项）",
+      "es": "¿Cuáles de las siguientes afirmaciones sobre los telómeros y la replicación del ADN son correctas? (Seleccione todas las que apliquen)",
+      "fr": "Quelles sont les affirmations correctes concernant les télomères et la réplication de l'ADN ? (Sélectionnez toutes les options applicables)",
+      "de": "Welche der folgenden Aussagen über Telomere und DNA-Replikation sind korrekt? (Wählen Sie alle zutreffenden aus)",
+      "ja": "テロメアとDNA複製に関する次の記述のうち、正しいものはどれですか？（すべて選択してください）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Telomeres are found at the ends of linear eukaryotic chromosomes and protect genes from shortening.",
+          "zh": "端粒位于线性真核染色体的末端，并保护基因免于缩短。",
+          "es": "Los telómeros se encuentran en los extremos de los cromosomas eucariotas lineales y protegen los genes del acortamiento.",
+          "fr": "Les télomères se trouvent aux extrémités des chromosomes eucaryotes linéaires et protègent les gènes du raccourcissement.",
+          "de": "Telomere befinden sich an den Enden linearer eukaryotischer Chromosomen und schützen Gene vor Verkürzung.",
+          "ja": "テロメアは線状真核生物染色体の末端にあり、遺伝子が短くなるのを防ぎます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Prokaryotic chromosomes, being circular, do not experience the shortening issue that linear eukaryotic chromosomes face during replication.",
+          "zh": "原核染色体是环状的，因此在复制过程中不会遇到线性真核染色体面临的缩短问题。",
+          "es": "Los cromosomas procariotas, al ser circulares, no experimentan el problema de acortamiento que enfrentan los cromosomas eucariotas lineales durante la replicación.",
+          "fr": "Les chromosomes procaryotes, étant circulaires, ne rencontrent pas le problème de raccourcissement auquel sont confrontés les chromosomes eucaryotes linéaires pendant la réplication.",
+          "de": "Prokaryotische Chromosomen sind zirkulär und erfahren daher nicht das Verkürzungsproblem, das lineare eukaryotische Chromosomen während der Replikation aufweisen.",
+          "ja": "原核生物の染色体は環状であるため、線状真核生物染色体が複製中に直面する短縮問題は発生しません。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Telomeres primarily consist of protein sequences that prevent DNA from unraveling.",
+          "zh": "端粒主要由蛋白质序列组成，可防止DNA解开。",
+          "es": "Los telómeros consisten principalmente en secuencias de proteínas que evitan que el ADN se desenrolle.",
+          "fr": "Les télomères sont principalement constitués de séquences protéiques qui empêchent l'ADN de se dérouler.",
+          "de": "Telomere bestehen hauptsächlich aus Proteinsequenzen, die das Entwirren der DNA verhindern.",
+          "ja": "テロメアは主に、DNAがほどけるのを防ぐタンパク質配列で構成されています。"
+        },
+        "feedback": {
+          "en": "Telomeres are specific DNA sequences, not primarily protein sequences, although they are associated with proteins.",
+          "zh": "端粒是特定的DNA序列，虽然与蛋白质相关联，但它们主要不是蛋白质序列。",
+          "es": "Los telómeros son secuencias de ADN específicas, no principalmente secuencias de proteínas, aunque estén asociados a proteínas.",
+          "fr": "Les télomères sont des séquences d'ADN spécifiques, et non principalement des séquences de protéines, bien qu'ils soient associés à des protéines.",
+          "de": "Telomere sind spezifische DNA-Sequenzen, nicht primär Proteinsequenzen, obwohl sie mit Proteinen assoziiert sind.",
+          "ja": "テロメアは特定のDNA配列であり、主にタンパク質配列ではありませんが、タンパク質と関連しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA polymerase cannot complete the 5' ends of daughter DNA strands due to the absence of a 3' end for nucleotide addition after primer removal.",
+          "zh": "由于引物移除后缺乏用于核苷酸添加的3'端，DNA聚合酶无法完成子代DNA链的5'端。",
+          "es": "La ADN polimerasa no puede completar los extremos 5' de las hebras de ADN hijas debido a la ausencia de un extremo 3' para la adición de nucleótidos después de la eliminación del cebador.",
+          "fr": "L'ADN polymérase ne peut pas compléter les extrémités 5' des brins d'ADN filles en raison de l'absence d'une extrémité 3' pour l'ajout de nucléotides après l'élimination de l'amorce.",
+          "de": "Die DNA-Polymerase kann die 5'-Enden der Tochter-DNA-Stränge nicht vollständig synthetisieren, da nach der Primerentfernung kein 3'-Ende für die Nukleotidaddition vorhanden ist.",
+          "ja": "プライマー除去後、ヌクレオチド付加のための3'末端が存在しないため、DNAポリメラーゼは娘DNA鎖の5'末端を完成させることができません。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Telomeres contain essential genes that are replicated faithfully to ensure proper cell function.",
+          "zh": "端粒包含必需基因，这些基因被忠实复制以确保细胞正常功能。",
+          "es": "Los telómeros contienen genes esenciales que se replican fielmente para asegurar la función celular adecuada.",
+          "fr": "Les télomères contiennent des gènes essentiels qui sont répliqués fidèlement pour assurer le bon fonctionnement cellulaire.",
+          "de": "Telomere enthalten essentielle Gene, die getreu repliziert werden, um eine ordnungsgemäße Zellfunktion zu gewährleisten.",
+          "ja": "テロメアには、細胞の適切な機能を確保するために忠実に複製される必須遺伝子が含まれています。"
+        },
+        "feedback": {
+          "en": "Telomeres do not contain genes; they are composed of multiple repetitions of a short, non-coding nucleotide sequence.",
+          "zh": "端粒不含基因；它们由短的、非编码核苷酸序列的多次重复组成。",
+          "es": "Los telómeros no contienen genes; están compuestos por múltiples repeticiones de una secuencia corta y no codificante de nucleótidos.",
+          "fr": "Les télomères ne contiennent pas de gènes ; ils sont composés de multiples répétitions d'une courte séquence de nucléotides non codante.",
+          "de": "Telomere enthalten keine Gene; sie bestehen aus multiplen Wiederholungen einer kurzen, nicht-kodierenden Nukleotidsequenz.",
+          "ja": "テロメアには遺伝子が含まれていません。短い非コードヌクレオチド配列の多数の繰り返しで構成されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": {
+      "en": "A is correct because telomeres are indeed at the ends of linear eukaryotic chromosomes and help protect against gene shortening. B is correct as circular prokaryotic chromosomes do not face the same end-replication problem. D is correct as the lack of a 3' end for DNA polymerase is the fundamental reason for telomere shortening. C is incorrect because telomeres are DNA sequences, not primarily protein sequences. E is incorrect because telomeres do not contain genes; they are composed of repetitive non-coding sequences.",
+      "zh": "A是正确的，因为端粒确实位于线性真核染色体的末端，有助于防止基因缩短。B是正确的，因为环状原核染色体没有同样的末端复制问题。D是正确的，因为DNA聚合酶缺乏用于核苷酸添加的3'端是端粒缩短的根本原因。C不正确，因为端粒是DNA序列，主要不是蛋白质序列。E不正确，因为端粒不含基因；它们由重复的非编码序列组成。",
+      "es": "A es correcta porque los telómeros se encuentran en los extremos de los cromosomas eucariotas lineales y ayudan a proteger contra el acortamiento genético. B es correcta ya que los cromosomas procariotas circulares no enfrentan el mismo problema de replicación en los extremos. D es correcta ya que la falta de un extremo 3' para la ADN polimerasa es la razón fundamental del acortamiento de los telómeros. C es incorrecta porque los telómeros son secuencias de ADN, no principalmente secuencias de proteínas. E es incorrecta porque los telómeros no contienen genes; están compuestos por secuencias repetitivas no codificantes.",
+      "fr": "A est correcte car les télomères se trouvent bien aux extrémités des chromosomes eucaryotes linéaires et aident à protéger contre le raccourcissement des gènes. B est correcte car les chromosomes procaryotes circulaires ne rencontrent pas le même problème de réplication des extrémités. D est correcte car l'absence d'une extrémité 3' pour l'ADN polymérase est la raison fondamentale du raccourcissement des télomères. C est incorrecte car les télomères sont des séquences d'ADN, et non principalement des séquences de protéines. E est incorrecte car les télomères ne contiennent pas de gènes ; ils sont composés de séquences répétitives non codantes.",
+      "de": "A ist korrekt, da Telomere tatsächlich an den Enden linearer eukaryotischer Chromosomen vorkommen und dazu beitragen, die Verkürzung von Genen zu verhindern. B ist korrekt, da ringförmige prokaryotische Chromosomen nicht das gleiche Endreplikationsproblem haben. D ist korrekt, da das Fehlen eines 3'-Endes für die DNA-Polymerase der grundlegende Grund für die Telomerverkürzung ist. C ist inkorrekt, da Telomere DNA-Sequenzen sind und nicht primär Proteinsequenzen. E ist inkorrekt, da Telomere keine Gene enthalten; sie bestehen aus repetitiven, nicht-kodierenden Sequenzen.",
+      "ja": "Aは、テロメアが線状真核生物染色体の末端に存在し、遺伝子の短縮を防ぐのに役立つため、正しいです。Bは、環状原核生物染色体には同じ末端複製問題がないため、正しいです。Dは、DNAポリメラーゼの3'末端がないことがテロメア短縮の根本的な理由であるため、正しいです。Cは、テロメアがDNA配列であり、主にタンパク質配列ではないため、間違っています。Eは、テロメアに遺伝子が含まれていないため、間違っています。それらは反復的な非コード配列で構成されています。"
+    }
+  },
+  {
+    "page_number": 377,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A child is diagnosed with Xeroderma Pigmentosum (XP), an inherited disorder. Based on the information provided, what is the most direct consequence of this disorder regarding DNA repair, and what would be a crucial protective measure for this child?",
+      "zh": "一名儿童被诊断出患有遗传性疾病着色性干皮病（XP）。根据所提供的信息，关于DNA修复，这种疾病最直接的后果是什么？对于这名儿童来说，最关键的保护措施是什么？",
+      "es": "Un niño es diagnosticado con Xeroderma Pigmentosum (XP), un trastorno hereditario. Basándose en la información proporcionada, ¿cuál es la consecuencia más directa de este trastorno en relación con la reparación del ADN, y cuál sería una medida protectora crucial para este niño?",
+      "fr": "Un enfant est diagnostiqué avec le Xeroderma Pigmentosum (XP), une maladie héréditaire. Selon les informations fournies, quelle est la conséquence la plus directe de ce trouble concernant la réparation de l'ADN, et quelle serait une mesure protectrice cruciale pour cet enfant ?",
+      "de": "Bei einem Kind wird Xeroderma Pigmentosum (XP), eine Erbkrankheit, diagnostiziert. Basierend auf den bereitgestellten Informationen, was ist die direkteste Konsequenz dieser Störung in Bezug auf die DNA-Reparatur, und welche wäre eine entscheidende Schutzmaßnahme für dieses Kind?",
+      "ja": "ある子供が遺伝性疾患である色素性乾皮症（XP）と診断されました。提供された情報に基づくと、DNA修復に関してこの疾患の最も直接的な結果は何であり、この子供にとって最も重要な保護措置は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Defective DNA ligase activity, leading to stalled replication forks; crucial measure is dietary supplements.",
+          "zh": "DNA连接酶活性缺陷，导致复制叉停滞；关键措施是饮食补充剂。",
+          "es": "Actividad defectuosa de la ADN ligasa, lo que lleva a horquillas de replicación estancadas; la medida crucial son los suplementos dietéticos.",
+          "fr": "Activité défectueuse de l'ADN ligase, entraînant des fourches de réplication bloquées ; la mesure cruciale est la supplémentation alimentaire.",
+          "de": "Defekte DNA-Ligase-Aktivität, die zu gestockten Replikationsgabeln führt; entscheidende Maßnahme sind Nahrungsergänzungsmittel.",
+          "ja": "DNAリガーゼ活性の欠陥により、複製フォークが停止します。重要な対策は栄養補助食品です。"
+        },
+        "feedback": {
+          "en": "XP is due to a defect in nucleotide excision repair enzymes, not primarily DNA ligase, and the main consequence is uncorrected UV damage, not stalled replication forks. Dietary supplements are not the crucial protective measure.",
+          "zh": "XP是核苷酸切除修复酶缺陷导致的，而非主要与DNA连接酶有关；主要后果是紫外线损伤无法修复，而非复制叉停滞。饮食补充也不是关键保护措施。",
+          "es": "El XP se debe a un defecto en las enzimas de reparación por escisión de nucleótidos, no principalmente en la ADN ligasa, y la consecuencia principal es el daño por UV no corregido, no las horquillas de replicación detenidas. Los suplementos dietéticos no son la medida protectora crucial.",
+          "fr": "Le XP est dû à un défaut des enzymes de réparation par excision de nucléotides, non principalement de l'ADN ligase, et la conséquence principale est un dommage UV non corrigé, et non des fourches de réplication bloquées. Les compléments alimentaires ne sont pas la mesure de protection cruciale.",
+          "de": "XP ist auf einen Defekt in Nukleotidexzisionsreparaturenzymen zurückzuführen, nicht primär auf die DNA-Ligase, und die Hauptfolge ist unkorrigierter UV-Schaden, nicht gestockte Replikationsgabeln. Nahrungsergänzungsmittel sind nicht die entscheidende Schutzmaßnahme.",
+          "ja": "XPはヌクレオチド除去修復酵素の欠陥によるものであり、主にDNAリガーゼによるものではありません。主な結果は修復されていないUV損傷であり、複製フォークの停止ではありません。食事サプリメントは重要な保護措置ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Inability to repair thymine dimers caused by UV radiation, resulting in high risk of skin cancer; crucial measure is strict sun protection.",
+          "zh": "无法修复紫外线引起的胸腺嘧啶二聚体，导致皮肤癌高风险；关键措施是严格防晒。",
+          "es": "Incapacidad para reparar dímeros de timina causados por la radiación UV, lo que resulta en un alto riesgo de cáncer de piel; la medida crucial es la protección solar estricta.",
+          "fr": "Incapacité à réparer les dimères de thymine causés par les radiations UV, entraînant un risque élevé de cancer de la peau ; la mesure cruciale est une protection solaire stricte.",
+          "de": "Unfähigkeit, durch UV-Strahlung verursachte Thymin-Dimere zu reparieren, was zu einem hohen Hautkrebsrisiko führt; entscheidende Maßnahme ist strenger Sonnenschutz.",
+          "ja": "紫外線によるチミン二量体を修復できないため、皮膚がんのリスクが高くなります。重要な対策は厳密な日焼け止めです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Defective telomere replication, leading to premature cell aging; crucial measure is gene therapy.",
+          "zh": "端粒复制缺陷，导致细胞过早老化；关键措施是基因治疗。",
+          "es": "Replicación defectuosa de los telómeros, lo que lleva al envejecimiento celular prematuro; la medida crucial es la terapia génica.",
+          "fr": "Réplication défectueuse des télomères, entraînant un vieillissement cellulaire prématuré ; la mesure cruciale est la thérapie génique.",
+          "de": "Defekte Telomerreplikation, die zu vorzeitiger Zellalterung führt; entscheidende Maßnahme ist Gentherapie.",
+          "ja": "テロメアの複製欠陥により、細胞の早期老化が引き起こされます。重要な対策は遺伝子治療です。"
+        },
+        "feedback": {
+          "en": "XP is a defect in nucleotide excision repair, not telomere replication. While gene therapy is a potential future treatment, strict sun protection is the primary and most crucial measure mentioned.",
+          "zh": "XP是核苷酸切除修复缺陷，而非端粒复制缺陷。虽然基因治疗是遗传病的一种理论方法，但严格的防晒是目前最关键的保护措施。",
+          "es": "El XP es un defecto en la reparación por escisión de nucleótidos, no en la replicación de los telómeros. Aunque la terapia génica es un enfoque teórico para los trastornos genéticos, la protección solar estricta es la medida crucial inmediata.",
+          "fr": "Le XP est un défaut de réparation par excision de nucléotides, et non de réplication des télomères. Bien que la thérapie génique soit une approche théorique pour les troubles génétiques, une protection solaire stricte est la mesure cruciale immédiate.",
+          "de": "XP ist ein Defekt in der Nukleotidexzisionsreparatur, nicht in der Telomerreplikation. Obwohl Gentherapie ein theoretischer Ansatz für genetische Störungen ist, ist strenger Sonnenschutz die unmittelbar entscheidende Maßnahme.",
+          "ja": "XPはヌクレオチド除去修復の欠陥であり、テロメアの複製ではありません。遺伝子治療は遺伝性疾患の理論的なアプローチですが、厳密な日焼け止めが最も重要な保護措置です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Impaired proofreading by DNA polymerase, leading to increased mutation rates; crucial measure is antibiotic treatment.",
+          "zh": "DNA聚合酶校对功能受损，导致突变率增加；关键措施是抗生素治疗。",
+          "es": "Corrección de pruebas deteriorada por la ADN polimerasa, lo que lleva a un aumento de las tasas de mutación; la medida crucial es el tratamiento con antibióticos.",
+          "fr": "Relecture altérée par l'ADN polymérase, entraînant une augmentation des taux de mutation ; la mesure cruciale est le traitement antibiotique.",
+          "de": "Beeinträchtigtes Proofreading durch DNA-Polymerase, was zu erhöhten Mutationsraten führt; entscheidende Maßnahme ist Antibiotikabehandlung.",
+          "ja": "DNAポリメラーゼによる校正機能が損なわれ、突然変異率が増加します。重要な対策は抗生物質治療です。"
+        },
+        "feedback": {
+          "en": "XP affects nucleotide excision repair, not primarily DNA polymerase proofreading. Antibiotic treatment is not relevant for XP.",
+          "zh": "XP影响的是核苷酸切除修复，而非主要影响DNA聚合酶的校对功能。抗生素治疗与XP无关。",
+          "es": "El XP afecta la reparación por escisión de nucleótidos, no principalmente la corrección de pruebas de la ADN polimerasa. El tratamiento con antibióticos no es relevante para el XP.",
+          "fr": "Le XP affecte la réparation par excision de nucléotides, et non principalement la relecture par l'ADN polymérase. Le traitement antibiotique n'est pas pertinent pour le XP.",
+          "de": "XP betrifft die Nukleotidexzisionsreparatur, nicht primär das Proofreading der DNA-Polymerase. Eine Antibiotikabehandlung ist für XP nicht relevant.",
+          "ja": "XPはヌクレオチド除去修復に影響を与え、主にDNAポリメラーゼの校正機能には影響しません。抗生物質治療はXPには関係ありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text clearly states that Xeroderma Pigmentosum (XP) is caused by an inherited defect in a nucleotide excision repair enzyme, leading to uncorrected mutations in skin cells caused by ultraviolet light, which often results in skin cancer. Therefore, strict sun protection is a crucial measure for individuals with XP.",
+      "zh": "文本明确指出，着色性干皮病（XP）是由于核苷酸切除修复酶的遗传缺陷引起的，导致皮肤细胞中由紫外线引起的突变无法得到纠正，从而经常导致皮肤癌。因此，严格的防晒是XP患者的关键保护措施。",
+      "es": "El texto establece claramente que el Xeroderma Pigmentosum (XP) es causado por un defecto hereditario en una enzima de reparación por escisión de nucleótidos, lo que lleva a mutaciones no corregidas en las células de la piel causadas por la luz ultravioleta, lo que a menudo resulta en cáncer de piel. Por lo tanto, una protección solar estricta es una medida crucial para los individuos con XP.",
+      "fr": "Le texte indique clairement que le Xeroderma Pigmentosum (XP) est causé par un défaut héréditaire d'une enzyme de réparation par excision de nucléotides, entraînant des mutations non corrigées dans les cellules de la peau causées par la lumière ultraviolette, ce qui conduit souvent au cancer de la peau. Par conséquent, une protection solaire stricte est une mesure cruciale pour les individus atteints de XP.",
+      "de": "Der Text besagt eindeutig, dass Xeroderma Pigmentosum (XP) durch einen erblichen Defekt in einem Nukleotidexzisionsreparaturenzym verursacht wird, was zu unkorrigierten Mutationen in Hautzellen führt, die durch ultraviolettes Licht verursacht werden, was häufig zu Hautkrebs führt. Daher ist strenger Sonnenschutz eine entscheidende Maßnahme für Personen mit XP.",
+      "ja": "テキストには、色素性乾皮症（XP）がヌクレオチド除去修復酵素の遺伝性欠陥によって引き起こされ、紫外線によって引き起こされる皮膚細胞の突然変異が修復されず、しばしば皮膚がんを引き起こすと明確に述べられています。したがって、厳密な日焼け止めはXP患者にとって重要な対策です。"
+    }
+  }
+]

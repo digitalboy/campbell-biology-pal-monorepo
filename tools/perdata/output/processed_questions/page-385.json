@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 385,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the provided text, what is the definition of gene expression?",
+      "zh": "根据提供的文本，基因表达的定义是什么？",
+      "es": "Según el texto proporcionado, ¿cuál es la definición de expresión génica?",
+      "fr": "Selon le texte fourni, quelle est la définition de l'expression génique ?",
+      "de": "Gemäß dem bereitgestellten Text, was ist die Definition von Genexpression?",
+      "ja": "提供されたテキストによると、遺伝子発現の定義は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The process by which DNA directs the synthesis of proteins (or, in some cases, just RNAs).",
+          "zh": "DNA 指导蛋白质（或在某些情况下，仅 RNA）合成的过程。",
+          "es": "El proceso por el cual el ADN dirige la síntesis de proteínas (o, en algunos casos, solo ARN).",
+          "fr": "Le processus par lequel l'ADN dirige la synthèse des protéines (ou, dans certains cas, seulement des ARN).",
+          "de": "Der Prozess, durch den DNA die Synthese von Proteinen (oder in einigen Fällen nur RNAs) steuert.",
+          "ja": "DNAがタンパク質（または場合によってはRNAのみ）の合成を指示するプロセス。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The process of DNA replication, where DNA is copied.",
+          "zh": "DNA 复制的过程，即 DNA 被复制。",
+          "es": "El proceso de replicación del ADN, donde el ADN es copiado.",
+          "fr": "Le processus de réplication de l'ADN, où l'ADN est copié.",
+          "de": "Der Prozess der DNA-Replikation, bei dem DNA kopiert wird.",
+          "ja": "DNAが複製されるプロセス、すなわちDNA複製。"
+        },
+        "feedback": {
+          "en": "DNA replication is the process of copying DNA, not its expression into proteins or RNA.",
+          "zh": "DNA 复制是 DNA 拷贝的过程，而不是其表达为蛋白质或 RNA。",
+          "es": "La replicación del ADN es el proceso de copiar el ADN, no su expresión en proteínas o ARN.",
+          "fr": "La réplication de l'ADN est le processus de copie de l'ADN, et non son expression en protéines ou en ARN.",
+          "de": "DNA-Replikation ist der Prozess des Kopierens von DNA, nicht deren Expression in Proteine oder RNA.",
+          "ja": "DNA複製はDNAをコピーするプロセスであり、タンパク質やRNAへの発現ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The process by which organisms inherit traits from their parents.",
+          "zh": "生物体从父母那里继承性状的过程。",
+          "es": "El proceso por el cual los organismos heredan rasgos de sus padres.",
+          "fr": "Le processus par lequel les organismes héritent des traits de leurs parents.",
+          "de": "Der Prozess, durch den Organismen Merkmale von ihren Eltern erben.",
+          "ja": "生物が親から形質を受け継ぐプロセス。"
+        },
+        "feedback": {
+          "en": "Inheritance refers to the passing of traits, while gene expression is the molecular mechanism by which genes manifest these traits.",
+          "zh": "遗传是指性状的传递，而基因表达是基因表现这些性状的分子机制。",
+          "es": "La herencia se refiere a la transmisión de rasgos, mientras que la expresión génica es el mecanismo molecular por el cual los genes manifiestan estos rasgos.",
+          "fr": "L'hérédité fait référence à la transmission des traits, tandis que l'expression génique est le mécanisme moléculaire par lequel les gènes manifestent ces traits.",
+          "de": "Vererbung bezieht sich auf die Weitergabe von Merkmalen, während Genexpression der molekulare Mechanismus ist, durch den Gene diese Merkmale manifestieren.",
+          "ja": "遺伝とは形質が伝わることを指しますが、遺伝子発現は遺伝子がこれらの形質を発現させる分子メカニズムです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The process of breaking down complex molecules into simpler ones for energy.",
+          "zh": "将复杂分子分解成简单分子以获取能量的过程。",
+          "es": "El proceso de descomponer moléculas complejas en otras más simples para obtener energía.",
+          "fr": "Le processus de décomposition des molécules complexes en molécules plus simples pour l'énergie.",
+          "de": "Der Prozess des Abbaus komplexer Moleküle zu einfacheren zur Energiegewinnung.",
+          "ja": "エネルギーを得るために複雑な分子をより単純な分子に分解するプロセス。"
+        },
+        "feedback": {
+          "en": "This describes catabolism, a metabolic process, not gene expression.",
+          "zh": "这描述的是分解代谢，一种代谢过程，而不是基因表达。",
+          "es": "Esto describe el catabolismo, un proceso metabólico, no la expresión génica.",
+          "fr": "Cela décrit le catabolisme, un processus métabolique, et non l'expression génique.",
+          "de": "Dies beschreibt Katabolismus, einen Stoffwechselprozess, nicht Genexpression.",
+          "ja": "これは異化作用、代謝プロセスを記述しており、遺伝子発現ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: \"Gene expression is the process by which DNA directs the synthesis of proteins (or, in some cases, just RNAs).\" Options B, C, and D describe other biological processes.",
+      "zh": "文本明确指出：“基因表达是DNA指导蛋白质（或在某些情况下，仅RNA）合成的过程。” 选项 B、C 和 D 描述了其他生物学过程。",
+      "es": "El texto establece explícitamente: \"La expresión génica es el proceso por el cual el ADN dirige la síntesis de proteínas (o, en algunos casos, solo ARN)\". Las opciones B, C y D describen otros procesos biológicos.",
+      "fr": "Le texte indique explicitement : « L'expression génique est le processus par lequel l'ADN dirige la synthèse des protéines (ou, dans certains cas, seulement des ARN). » Les options B, C et D décrivent d'autres processus biologiques.",
+      "de": "Der Text besagt explizit: „Genexpression ist der Prozess, durch den DNA die Synthese von Proteinen (oder in einigen Fällen nur RNAs) steuert.“ Die Optionen B, C und D beschreiben andere biologische Prozesse.",
+      "ja": "テキストには「遺伝子発現とは、DNAがタンパク質（または場合によってはRNAのみ）の合成を指示するプロセスである」と明記されています。選択肢B、C、Dは他の生物学的プロセスを説明しています。"
+    }
+  },
+  {
+    "page_number": 385,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Archibald Garrod's work on \"inborn errors of metabolism\" and the example of alkaptonuria, what was his primary reasoning for the disease's symptoms?",
+      "zh": "根据阿奇博尔德·加罗德（Archibald Garrod）关于“先天性代谢缺陷”的研究以及尿黑酸症的例子，他对于该疾病症状的主要推断是什么？",
+      "es": "Basándose en el trabajo de Archibald Garrod sobre los \"errores innatos del metabolismo\" y el ejemplo de la alcaptonuria, ¿cuál fue su razonamiento principal para los síntomas de la enfermedad?",
+      "fr": "Basé sur les travaux d'Archibald Garrod sur les « erreurs innées du métabolisme » et l'exemple de l'alcaptonurie, quel était son raisonnement principal pour les symptômes de la maladie ?",
+      "de": "Basierend auf Archibald Garrods Arbeit über „angeborene Stoffwechselstörungen“ und dem Beispiel der Alkaptonurie, was war seine primäre Begründung für die Symptome der Krankheit?",
+      "ja": "アーチボルド・ガロッドの「先天性代謝異常」に関する研究とアルカプトン尿症の例に基づき、彼の疾患症状に対する主な推論は何でしたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The inability to produce a specific enzyme required to break down alkapton.",
+          "zh": "无法产生分解尿黑酸所需的特定酶。",
+          "es": "La incapacidad de producir una enzima específica necesaria para descomponer el alcapton.",
+          "fr": "L'incapacité à produire une enzyme spécifique nécessaire pour décomposer l'alcapton.",
+          "de": "Die Unfähigkeit, ein spezifisches Enzym zu produzieren, das für den Abbau von Alkapton benötigt wird.",
+          "ja": "アルカプトンを分解するために必要な特定の酵素を生成できないこと。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The presence of too much alkapton in the diet, leading to its accumulation.",
+          "zh": "饮食中尿黑酸过多，导致其积累。",
+          "es": "La presencia de demasiado alcapton en la dieta, lo que lleva a su acumulación.",
+          "fr": "La présence de trop d'alcapton dans l'alimentation, entraînant son accumulation.",
+          "de": "Die Anwesenheit von zu viel Alkapton in der Nahrung, was zu dessen Akkumulation führt.",
+          "ja": "食事中のアルカプトンが多すぎることによる蓄積。"
+        },
+        "feedback": {
+          "en": "The text implies an inherited metabolic defect, not an external dietary issue. The problem is internal processing.",
+          "zh": "文本暗示的是遗传性代谢缺陷，而非外部饮食问题。问题在于内部处理。",
+          "es": "El texto implica un defecto metabólico heredado, no un problema dietético externo. El problema es el procesamiento interno.",
+          "fr": "Le texte implique un défaut métabolique héréditaire, et non un problème alimentaire externe. Le problème est un traitement interne.",
+          "de": "Der Text impliziert einen erblichen Stoffwechseldefekt, nicht ein externes Ernährungsproblem. Das Problem liegt in der internen Verarbeitung.",
+          "ja": "テキストは遺伝性の代謝異常を示唆しており、外部からの食事の問題ではありません。問題は体内の処理にあります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A bacterial infection causing the dark urine and other symptoms.",
+          "zh": "细菌感染导致黑尿及其他症状。",
+          "es": "Una infección bacteriana que causa la orina oscura y otros síntomas.",
+          "fr": "Une infection bactérienne causant l'urine foncée et d'autres symptômes.",
+          "de": "Eine bakterielle Infektion, die dunklen Urin und andere Symptome verursacht.",
+          "ja": "細菌感染により尿が黒くなり、その他の症状が引き起こされること。"
+        },
+        "feedback": {
+          "en": "Garrod's work focused on 'inborn errors,' meaning inherited conditions, not infections.",
+          "zh": "加罗德的研究侧重于“先天性缺陷”，即遗传性疾病，而非感染。",
+          "es": "El trabajo de Garrod se centró en 'errores innatos', es decir, condiciones hereditarias, no infecciones.",
+          "fr": "Les travaux de Garrod se sont concentrés sur les « erreurs innées », c'est-à-dire les affections héréditaires, et non les infections.",
+          "de": "Garrods Arbeit konzentrierte sich auf „angeborene Fehler“, d.h. erbliche Zustände, nicht Infektionen.",
+          "ja": "ガロッドの研究は「先天性エラー」、つまり遺伝性疾患に焦点を当てており、感染症ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A faulty gene directly producing the black pigment in the urine.",
+          "zh": "一个有缺陷的基因直接在尿液中产生黑色素。",
+          "es": "Un gen defectuoso que produce directamente el pigmento negro en la orina.",
+          "fr": "Un gène défectueux produisant directement le pigment noir dans l'urine.",
+          "de": "Ein fehlerhaftes Gen, das direkt das schwarze Pigment im Urin produziert.",
+          "ja": "欠陥のある遺伝子が尿中に黒い色素を直接生成すること。"
+        },
+        "feedback": {
+          "en": "The faulty gene causes the *inability* to break down alkapton, which then accumulates and darkens upon exposure to air, leading to black urine. The gene doesn't directly produce the pigment.",
+          "zh": "缺陷基因导致无法分解尿黑酸，尿黑酸随后积累并在暴露于空气中变黑，导致黑尿。基因不直接产生色素。",
+          "es": "El gen defectuoso causa la *incapacidad* de descomponer el alcapton, que luego se acumula y se oscurece al exponerse al aire, lo que lleva a la orina negra. El gen no produce directamente el pigmento.",
+          "fr": "Le gène défectueux entraîne l'*incapacité* à décomposer l'alcapton, qui s'accumule ensuite et noircit au contact de l'air, entraînant l'urine noire. Le gène ne produit pas directement le pigment.",
+          "de": "Das fehlerhafte Gen führt zur *Unfähigkeit*, Alkapton abzubauen, das sich dann ansammelt und bei Exposition an der Luft verdunkelt, was zu schwarzem Urin führt. Das Gen produziert das Pigment nicht direkt.",
+          "ja": "欠陥のある遺伝子がアルカプトンを分解する*能力の欠如*を引き起こし、それが蓄積して空気に触れると黒くなり、黒い尿につながります。遺伝子が色素を直接生成するわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Garrod's reasoning was that alkaptonuria patients could not make the enzyme that breaks down alkapton, leading to its accumulation and excretion in urine. This formed the basis of his 'inborn errors of metabolism' concept.",
+      "zh": "加罗德的推论是尿黑酸症患者无法产生分解尿黑酸的酶，导致其在尿液中积累并排出。这构成了他“先天性代谢缺陷”概念的基础。",
+      "es": "El razonamiento de Garrod fue que los pacientes con alcaptonuria no podían producir la enzima que descompone el alcapton, lo que lleva a su acumulación y excreción en la orina. Esto sentó las bases de su concepto de 'errores innatos del metabolismo'.",
+      "fr": "Le raisonnement de Garrod était que les patients atteints d'alcaptonurie ne pouvaient pas produire l'enzyme qui décompose l'alcapton, ce qui entraînait son accumulation et son excrétion dans l'urine. Cela a formé la base de son concept d'« erreurs innées du métabolisme ».",
+      "de": "Garrods Begründung war, dass Alkaptonurie-Patienten das Enzym, das Alkapton abbaut, nicht herstellen konnten, was zu dessen Ansammlung und Ausscheidung im Urin führte. Dies bildete die Grundlage seines Konzepts der „angeborenen Stoffwechselstörungen“.",
+      "ja": "ガロッドの推論は、アルカプトン尿症患者がアルカプトンを分解する酵素を生成できないため、アルカプトンが尿中に蓄積・排泄されるというものでした。これが「先天性代謝異常」の概念の基礎となりました。"
+    }
+  },
+  {
+    "page_number": 385,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A Neurospora mutant is obtained following Beadle and Tatum's experimental approach. When this mutant is grown on minimal medium supplemented with valine, lysine, or arginine, it only shows growth on the minimal medium supplemented with arginine. Based on Figure 17.2 and the accompanying text, what can be concluded about this specific mutant?",
+      "zh": "根据比德尔和塔特姆的实验方法获得了一个脉孢菌突变体。当该突变体在添加了缬氨酸、赖氨酸或精氨酸的最小培养基上培养时，它只在添加了精氨酸的最小培养基上表现出生长。根据图 17.2 及相关文本，关于这个特定突变体，可以得出什么结论？",
+      "es": "Se obtiene un mutante de Neurospora siguiendo el enfoque experimental de Beadle y Tatum. Cuando este mutante se cultiva en medio mínimo suplementado con valina, lisina o arginina, solo muestra crecimiento en el medio mínimo suplementado con arginina. Basándose en la Figura 17.2 y el texto adjunto, ¿qué se puede concluir sobre este mutante específico?",
+      "fr": "Un mutant de Neurospora est obtenu en suivant l'approche expérimentale de Beadle et Tatum. Lorsque ce mutant est cultivé sur un milieu minimal supplémenté en valine, lysine ou arginine, il ne montre de croissance que sur le milieu minimal supplémenté en arginine. Basé sur la Figure 17.2 et le texte accompagnant, que peut-on conclure à propos de ce mutant spécifique ?",
+      "de": "Ein Neurospora-Mutant wird nach Beadle und Tatums experimentellem Ansatz gewonnen. Wenn dieser Mutant auf Minimalmedium, das mit Valin, Lysin oder Arginin supplementiert ist, kultiviert wird, zeigt er nur Wachstum auf dem Minimalmedium, das mit Arginin supplementiert ist. Basierend auf Abbildung 17.2 und dem begleitenden Text, was kann über diesen spezifischen Mutanten geschlussfolgert werden?",
+      "ja": "ビードルとテイタムの実験アプローチに従ってNeurospora変異体が得られました。この変異体をバリン、リジン、またはアルギニンを添加した最小培地で培養すると、アルギニンを添加した最小培地でのみ成長を示しました。図17.2と付随するテキストに基づいて、この特定の変異体についてどのような結論が導き出されますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "This mutant has a defective gene for synthesizing arginine.",
+          "zh": "该突变体合成精氨酸的基因存在缺陷。",
+          "es": "Este mutante tiene un gen defectuoso para sintetizar arginina.",
+          "fr": "Ce mutant a un gène défectueux pour la synthèse de l'arginine.",
+          "de": "Dieser Mutant hat ein defektes Gen für die Arginin-Synthese.",
+          "ja": "この変異体はアルギニン合成に関する遺伝子に欠陥がある。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "This mutant is wild-type and can synthesize all necessary nutrients.",
+          "zh": "该突变体是野生型，可以合成所有必需的营养物质。",
+          "es": "Este mutante es de tipo salvaje y puede sintetizar todos los nutrientes necesarios.",
+          "fr": "Ce mutant est de type sauvage et peut synthétiser tous les nutriments nécessaires.",
+          "de": "Dieser Mutant ist Wildtyp und kann alle notwendigen Nährstoffe synthetisieren.",
+          "ja": "この変異体は野生型であり、必要なすべての栄養素を合成できる。"
+        },
+        "feedback": {
+          "en": "Wild-type Neurospora would grow on minimal medium alone, as stated in the text. This mutant requires arginine, indicating it's not wild-type.",
+          "zh": "文本中提到，野生型脉孢菌在单独的最小培养基上即可生长。此突变体需要精氨酸，表明它不是野生型。",
+          "es": "El Neurospora de tipo salvaje crecería solo en medio mínimo, como se indica en el texto. Este mutante requiere arginina, lo que indica que no es de tipo salvaje.",
+          "fr": "Le Neurospora de type sauvage pousserait sur un milieu minimal seul, comme indiqué dans le texte. Ce mutant nécessite de l'arginine, ce qui indique qu'il n'est pas de type sauvage.",
+          "de": "Wildtyp-Neurospora würde laut Text allein auf Minimalmedium wachsen. Dieser Mutant benötigt Arginin, was darauf hinweist, dass er kein Wildtyp ist.",
+          "ja": "テキストに記載されているように、野生型のNeurosporaは最小培地だけで増殖します。この変異体はアルギニンを必要とするため、野生型ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "This mutant requires all three amino acids (valine, lysine, and arginine) for growth.",
+          "zh": "该突变体生长需要所有三种氨基酸（缬氨酸、赖氨酸和精氨酸）。",
+          "es": "Este mutante requiere los tres aminoácidos (valina, lisina y arginina) para crecer.",
+          "fr": "Ce mutant nécessite les trois acides aminés (valine, lysine et arginine) pour sa croissance.",
+          "de": "Dieser Mutant benötigt alle drei Aminosäuren (Valin, Lysin und Arginin) zum Wachstum.",
+          "ja": "この変異体は、増殖のためにこれら3つのアミノ酸（バリン、リジン、アルギニン）すべてを必要とする。"
+        },
+        "feedback": {
+          "en": "The mutant only grew when arginine was supplemented. If it needed valine or lysine, it would not have grown without them.",
+          "zh": "突变体只在补充精氨酸时生长。如果它需要缬氨酸或赖氨酸，在没有它们的情况下就不会生长。",
+          "es": "El mutante solo creció cuando se suplementó con arginina. Si hubiera necesitado valina o lisina, no habría crecido sin ellas.",
+          "fr": "Le mutant n'a poussé que lorsque l'arginine a été supplémentée. S'il avait eu besoin de valine ou de lysine, il n'aurait pas poussé sans eux.",
+          "de": "Der Mutant wuchs nur, wenn Arginin ergänzt wurde. Hätte er Valin oder Lysin benötigt, wäre er ohne diese nicht gewachsen.",
+          "ja": "変異体はアルギニンが補給された場合にのみ増殖しました。バリンやリジンが必要であれば、それらがなければ増殖しなかったでしょう。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "This mutant is missing the enzyme for synthesizing valine.",
+          "zh": "该突变体缺少合成缬氨酸的酶。",
+          "es": "A este mutante le falta la enzima para sintetizar valina.",
+          "fr": "Il manque à ce mutant l'enzyme de synthèse de la valine.",
+          "de": "Diesem Mutanten fehlt das Enzym zur Synthese von Valin.",
+          "ja": "この変異体はバリン合成酵素を欠損している。"
+        },
+        "feedback": {
+          "en": "If the mutant were missing the enzyme for synthesizing valine, it would have shown growth on minimal medium + valine, which it did not.",
+          "zh": "如果突变体缺少合成缬氨酸的酶，它应该在最小培养基+缬氨酸的条件下表现出生长，但它没有。",
+          "es": "Si al mutante le faltara la enzima para sintetizar valina, habría mostrado crecimiento en medio mínimo + valina, lo cual no ocurrió.",
+          "fr": "Si le mutant avait manqué de l'enzyme de synthèse de la valine, il aurait montré une croissance sur un milieu minimal + valine, ce qui n'a pas été le cas.",
+          "de": "Wenn dem Mutanten das Enzym zur Valin-Synthese fehlen würde, hätte er Wachstum auf Minimalmedium + Valin gezeigt, was nicht der Fall war.",
+          "ja": "もしこの変異体がバリン合成酵素を欠損していたら、最小培地+バリンで増殖を示したはずですが、そうではありませんでした。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "According to step 6 of Figure 17.2, if a mutant grows only on minimal medium supplemented with a specific nutrient (e.g., arginine), it indicates that the mutant is missing the enzyme for the synthesis of that particular nutrient. Thus, the mutant has a defective gene for synthesizing arginine.",
+      "zh": "根据图 17.2 的第 6 步，如果一个突变体只在补充了特定营养物质（例如精氨酸）的最小培养基上生长，则表明该突变体缺少合成该特定营养物质的酶。因此，该突变体合成精氨酸的基因存在缺陷。",
+      "es": "Según el paso 6 de la Figura 17.2, si un mutante crece solo en medio mínimo suplementado con un nutriente específico (por ejemplo, arginina), indica que al mutante le falta la enzima para la síntesis de ese nutriente en particular. Por lo tanto, el mutante tiene un gen defectuoso para sintetizar arginina.",
+      "fr": "Selon l'étape 6 de la Figure 17.2, si un mutant ne pousse que sur un milieu minimal supplémenté en un nutriment spécifique (par exemple, l'arginine), cela indique que le mutant manque de l'enzyme nécessaire à la synthèse de ce nutriment particulier. Ainsi, le mutant possède un gène défectueux pour la synthèse de l'arginine.",
+      "de": "Gemäß Schritt 6 von Abbildung 17.2, wenn ein Mutant nur auf Minimalmedium wächst, das mit einem spezifischen Nährstoff (z.B. Arginin) supplementiert ist, deutet dies darauf hin, dass dem Mutanten das Enzym für die Synthese dieses bestimmten Nährstoffs fehlt. Folglich hat der Mutant ein defektes Gen für die Arginin-Synthese.",
+      "ja": "図17.2のステップ6によると、変異体が特定の栄養素（例：アルギニン）を添加した最小培地でのみ増殖する場合、それはその変異体がその特定の栄養素の合成に必要な酵素を欠損していることを示します。したがって、この変異体はアルギニン合成に関する遺伝子に欠陥があると言えます。"
+    }
+  }
+]

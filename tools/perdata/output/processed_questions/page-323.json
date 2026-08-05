@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the term for an organism that has two identical alleles for a gene?",
+      "zh": "一个生物体对某个基因拥有两个相同的等位基因，该术语是什么？",
+      "es": "¿Cuál es el término para un organismo que tiene dos alelos idénticos para un gen?",
+      "fr": "Quel est le terme désignant un organisme qui possède deux allèles identiques pour un gène ?",
+      "de": "Was ist der Begriff für einen Organismus, der zwei identische Allele für ein Gen hat?",
+      "ja": "遺伝子に対して2つの同一の対立遺伝子を持つ生物を指す用語は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Heterozygote",
+          "zh": "杂合子",
+          "es": "Heterocigoto",
+          "fr": "Hétérozygote",
+          "de": "Heterozygot",
+          "ja": "ヘテロ接合体"
+        },
+        "feedback": {
+          "en": "A heterozygote has two different alleles for a gene.",
+          "zh": "杂合子对一个基因拥有两个不同的等位基因。",
+          "es": "Un heterocigoto tiene dos alelos diferentes para un gen.",
+          "fr": "Un hétérozygote a deux allèles différents pour un gène.",
+          "de": "Ein Heterozygot hat zwei verschiedene Allele für ein Gen.",
+          "ja": "ヘテロ接合体は、遺伝子に対して2つの異なる対立遺伝子を持っています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Homozygote",
+          "zh": "纯合子",
+          "es": "Homocigoto",
+          "fr": "Homozygote",
+          "de": "Homozygot",
+          "ja": "ホモ接合体"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Phenotype",
+          "zh": "表现型",
+          "es": "Fenotipo",
+          "fr": "Phénotype",
+          "de": "Phänotyp",
+          "ja": "表現型"
+        },
+        "feedback": {
+          "en": "Phenotype refers to the organism's observable traits, not its genetic makeup.",
+          "zh": "表现型是指生物体可观察的性状，而不是其基因构成。",
+          "es": "El fenotipo se refiere a los rasgos observables de un organismo, no a su composición genética.",
+          "fr": "Le phénotype fait référence aux caractères observables d'un organisme, et non à sa constitution génétique.",
+          "de": "Der Phänotyp bezieht sich auf die beobachtbaren Merkmale eines Organismus, nicht auf seine genetische Ausstattung.",
+          "ja": "表現型は、生物の観察可能な形質を指し、その遺伝的構成ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Genotype",
+          "zh": "基因型",
+          "es": "Genotipo",
+          "fr": "Génotype",
+          "de": "Genotyp",
+          "ja": "遺伝子型"
+        },
+        "feedback": {
+          "en": "Genotype is the general term for the genetic makeup. An organism with two identical alleles is more specifically called a homozygote.",
+          "zh": "基因型是遗传构成的通用术语。拥有两个相同等位基因的生物体更具体地被称为纯合子。",
+          "es": "El genotipo es el término general para la composición genética. Un organismo con dos alelos idénticos se llama más específicamente homocigoto.",
+          "fr": "Le génotype est le terme général pour la constitution génétique. Un organisme avec deux allèles identiques est plus spécifiquement appelé homozygote.",
+          "de": "Der Genotyp ist der allgemeine Begriff für die genetische Ausstattung. Ein Organismus mit zwei identischen Allelen wird spezifischer als Homozygot bezeichnet.",
+          "ja": "遺伝子型は、遺伝的構成の一般的な用語です。2つの同一の対立遺伝子を持つ生物は、より具体的にはホモ接合体と呼ばれます。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text defines a homozygote as 'An organism that has a pair of identical alleles for a gene'.",
+      "zh": "文本将纯合子定义为“对一个基因拥有一对相同等位基因的生物体”。",
+      "es": "El texto define un homocigoto como 'Un organismo que tiene un par de alelos idénticos para un gen'.",
+      "fr": "Le texte définit un homozygote comme « un organisme qui possède une paire d'allèles identiques pour un gène ».",
+      "de": "Der Text definiert ein Homozygot als „Ein Organismus, der ein Paar identischer Allele für ein Gen hat“.",
+      "ja": "本文では、ホモ接合体を「遺伝子に対して一対の同一の対立遺伝子を持つ生物」と定義しています。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Why do organisms with genotypes PP and Pp have the same phenotype (purple flowers)?",
+      "zh": "为什么基因型为PP和Pp的生物体具有相同的表现型（紫花）？",
+      "es": "¿Por qué los organismos con genotipos PP y Pp tienen el mismo fenotipo (flores púrpuras)?",
+      "fr": "Pourquoi les organismes de génotypes PP et Pp ont-ils le même phénotype (fleurs violettes) ?",
+      "de": "Warum haben Organismen mit den Genotypen PP und Pp denselben Phänotyp (lila Blüten)?",
+      "ja": "なぜPPとPpの遺伝子型を持つ生物は同じ表現型（紫色の花）を持つのでしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Because the P allele is dominant and the p allele is recessive.",
+          "zh": "因为P等位基因是显性的，p等位基因是隐性的。",
+          "es": "Porque el alelo P es dominante y el alelo p es recesivo.",
+          "fr": "Parce que l'allèle P est dominant et l'allèle p est récessif.",
+          "de": "Weil das P-Allel dominant und das p-Allel rezessiv ist.",
+          "ja": "P対立遺伝子が優性で、p対立遺伝子が劣性だからです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Because both genotypes produce the same amount of purple pigment.",
+          "zh": "因为两种基因型都产生相同数量的紫色色素。",
+          "es": "Porque ambos genotipos producen la misma cantidad de pigmento púrpura.",
+          "fr": "Parce que les deux génotypes produisent la même quantité de pigment violet.",
+          "de": "Weil beide Genotypen die gleiche Menge an lila Pigment produzieren.",
+          "ja": "両方の遺伝子型が同じ量の紫色色素を生成するためです。"
+        },
+        "feedback": {
+          "en": "While both result in purple flowers, the underlying reason is the dominance of the P allele, not necessarily the amount of pigment.",
+          "zh": "虽然两者都开紫花，但根本原因是P等位基因的显性，而不一定是色素的量。",
+          "es": "Si bien ambos dan como resultado flores púrpuras, la razón subyacente es la dominancia del alelo P, no necesariamente la cantidad de pigmento.",
+          "fr": "Bien que les deux donnent des fleurs violettes, la raison sous-jacente est la dominance de l'allèle P, pas nécessairement la quantité de pigment.",
+          "de": "Obwohl beide zu lila Blüten führen, ist der zugrunde liegende Grund die Dominanz des P-Allels, nicht unbedingt die Menge des Pigments.",
+          "ja": "両方とも紫色の花になりますが、根本的な理由は色素の量ではなく、P対立遺伝子の優性です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Because phenotype is determined by the number of alleles, not their type.",
+          "zh": "因为表现型由等位基因的数量决定，而不是其类型。",
+          "es": "Porque el fenotipo está determinado por el número de alelos, no por su tipo.",
+          "fr": "Parce que le phénotype est déterminé par le nombre d'allèles, et non par leur type.",
+          "de": "Weil der Phänotyp durch die Anzahl der Allele bestimmt wird, nicht durch ihren Typ.",
+          "ja": "表現型は、その種類ではなく、対立遺伝子の数によって決定されるためです。"
+        },
+        "feedback": {
+          "en": "The type of alleles (dominant vs. recessive) is crucial in determining the phenotype.",
+          "zh": "等位基因的类型（显性与隐性）在决定表现型中至关重要。",
+          "es": "El tipo de alelos (dominante frente a recesivo) es crucial para determinar el fenotipo.",
+          "fr": "Le type d'allèles (dominant ou récessif) est crucial pour déterminer le phénotype.",
+          "de": "Die Art der Allele (dominant vs. rezessiv) ist entscheidend für die Bestimmung des Phänotyps.",
+          "ja": "対立遺伝子の種類（優性対劣性）は、表現型を決定する上で重要です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Because they are both true-breeding.",
+          "zh": "因为它们都是纯种。",
+          "es": "Porque ambos son de raza pura.",
+          "fr": "Parce qu'ils sont tous les deux de lignée pure.",
+          "de": "Weil sie beide reinerbig sind.",
+          "ja": "両方とも純系だからです。"
+        },
+        "feedback": {
+          "en": "Only the PP genotype is true-breeding. The Pp genotype is heterozygous and not true-breeding.",
+          "zh": "只有PP基因型是纯种。Pp基因型是杂合的，不是纯种。",
+          "es": "Solo el genotipo PP es de raza pura. El genotipo Pp es heterocigoto y no de raza pura.",
+          "fr": "Seul le génotype PP est de lignée pure. Le génotype Pp est hétérozygote et non de lignée pure.",
+          "de": "Nur der PP-Genotyp ist reinerbig. Der Pp-Genotyp ist heterozygot und nicht reinerbig.",
+          "ja": "PP遺伝子型のみが純系です。Pp遺伝子型はヘテロ接合体であり、純系ではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["A"],
+    "explanation": {
+      "en": "This is the principle of dominance. The text states, 'if the two alleles at a locus differ, then one, the dominant allele, determines the organism's appearance; the other, the recessive allele, has no noticeable effect'. Since P (purple) is dominant, both PP and Pp genotypes result in the purple phenotype.",
+      "zh": "这是显性原则。文本指出，“如果一个基因座上的两个等位基因不同，那么其中一个，即显性等位基因，决定了生物体的外观；另一个，即隐性等位基因，则没有明显效果。”由于P（紫色）是显性，因此PP和Pp基因型都会产生紫色表现型。",
+      "es": "Este es el principio de dominancia. El texto dice: 'si los dos alelos en un locus difieren, entonces uno, el alelo dominante, determina la apariencia del organismo; el otro, el alelo recesivo, no tiene un efecto notable'. Dado que P (púrpura) es dominante, tanto los genotipos PP como los Pp dan como resultado el fenotipo púrpura.",
+      "fr": "C'est le principe de la dominance. Le texte dit : « si les deux allèles d'un locus diffèrent, alors l'un, l'allèle dominant, détermine l'apparence de l'organisme ; l'autre, l'allèle récessif, n'a aucun effet notable ». Puisque P (violet) est dominant, les génotypes PP et Pp donnent tous deux le phénotype violet.",
+      "de": "Dies ist das Prinzip der Dominanz. Der Text besagt: „Wenn sich die beiden Allele an einem Locus unterscheiden, bestimmt eines, das dominante Allel, das Aussehen des Organismus; das andere, das rezessive Allel, hat keine merkliche Wirkung.“ Da P (lila) dominant ist, führen sowohl die Genotypen PP als auch Pp zum lila Phänotyp.",
+      "ja": "これが優性の法則です。本文には、「遺伝子座の2つの対立遺伝子が異なる場合、一方の優性対立遺伝子が生物の外観を決定し、もう一方の劣性対立遺伝子は目立った効果がない」と記載されています。P（紫色）が優性であるため、PPとPpの両方の遺伝子型が紫色の表現型になります。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the purpose of a testcross?",
+      "zh": "测交的目的是什么？",
+      "es": "¿Cuál es el propósito de un cruzamiento de prueba?",
+      "fr": "Quel est le but d'un croisement test ?",
+      "de": "Was ist der Zweck einer Testkreuzung?",
+      "ja": "検定交雑の目的は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To produce a new true-breeding variety.",
+          "zh": "为了产生一个新的纯种品系。",
+          "es": "Producir una nueva variedad de raza pura.",
+          "fr": "Produire une nouvelle variété de lignée pure.",
+          "de": "Eine neue reinerbige Sorte zu produzieren.",
+          "ja": "新しい純系の品種を作り出すため。"
+        },
+        "feedback": {
+          "en": "A testcross is used for genetic analysis, not for breeding new varieties.",
+          "zh": "测交用于遗传分析，而不是培育新品种。",
+          "es": "Un cruzamiento de prueba se utiliza para el análisis genético, no para la cría de nuevas variedades.",
+          "fr": "Un croisement test est utilisé pour l'analyse génétique, pas pour la sélection de nouvelles variétés.",
+          "de": "Eine Testkreuzung wird für die genetische Analyse verwendet, nicht für die Züchtung neuer Sorten.",
+          "ja": "検定交雑は、新しい品種の育種ではなく、遺伝分析に使用されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To determine the genotype of an organism with a dominant phenotype.",
+          "zh": "为了确定具有显性表现型的生物体的基因型。",
+          "es": "Determinar el genotipo de un organismo con un fenotipo dominante.",
+          "fr": "Déterminer le génotype d'un organisme avec un phénotype dominant.",
+          "de": "Den Genotyp eines Organismus mit einem dominanten Phänotyp zu bestimmen.",
+          "ja": "優性表現型を持つ生物の遺伝子型を決定するため。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To create a hybrid organism with two different traits.",
+          "zh": "为了创造一个具有两种不同特征的杂交生物体。",
+          "es": "Crear un organismo híbrido con dos rasgos diferentes.",
+          "fr": "Créer un organisme hybride avec deux caractères différents.",
+          "de": "Einen hybriden Organismus mit zwei verschiedenen Merkmalen zu schaffen.",
+          "ja": "2つの異なる形質を持つ雑種生物を作成するため。"
+        },
+        "feedback": {
+          "en": "This describes a dihybrid cross, not a testcross.",
+          "zh": "这描述的是双基因杂交，而不是测交。",
+          "es": "Esto describe un cruce dihíbrido, no un cruce de prueba.",
+          "fr": "Ceci décrit un croisement dihybride, pas un croisement test.",
+          "de": "Dies beschreibt eine dihybride Kreuzung, keine Testkreuzung.",
+          "ja": "これは検定交雑ではなく、二遺伝子雑種交配を説明しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To observe the 3:1 phenotypic ratio in the offspring.",
+          "zh": "为了在后代中观察到3:1的表现型比例。",
+          "es": "Observar la proporción fenotípica de 3:1 en la descendencia.",
+          "fr": "Observer le rapport phénotypique de 3:1 dans la progéniture.",
+          "de": "Das phänotypische Verhältnis von 3:1 bei den Nachkommen zu beobachten.",
+          "ja": "子孫における3：1の表現型比を観察するため。"
+        },
+        "feedback": {
+          "en": "A 3:1 ratio is expected from a monohybrid cross (e.g., Pp x Pp). A testcross (e.g., Pp x pp) is expected to yield a 1:1 ratio if the unknown parent is heterozygous.",
+          "zh": "3:1的比例是单基因杂交（例如Pp x Pp）的预期结果。如果未知亲本是杂合的，测交（例如Pp x pp）预计会产生1:1的比例。",
+          "es": "Se espera una proporción de 3:1 de un cruce monohíbrido (p. ej., Pp x Pp). Se espera que un cruce de prueba (p. ej., Pp x pp) produzca una proporción de 1:1 si el progenitor desconocido es heterocigoto.",
+          "fr": "Un rapport de 3:1 est attendu d'un croisement monohybride (par exemple, Pp x Pp). Un croisement test (par exemple, Pp x pp) devrait donner un rapport de 1:1 si le parent inconnu est hétérozygote.",
+          "de": "Ein 3:1-Verhältnis wird von einer monohybriden Kreuzung (z. B. Pp x Pp) erwartet. Eine Testkreuzung (z. B. Pp x pp) wird voraussichtlich ein 1:1-Verhältnis ergeben, wenn der unbekannte Elternteil heterozygot ist.",
+          "ja": "3：1の比率は、単性雑種交配（例：Pp x Pp）から期待されます。未知の親がヘテロ接合体である場合、検定交雑（例：Pp x pp）は1：1の比率を生み出すと予想されます。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text defines a testcross as 'Breeding an organism of unknown genotype with a recessive homozygote... because it can reveal the genotype of that organism.' It is used when an organism displays a dominant phenotype and could be either homozygous dominant (PP) or heterozygous (Pp).",
+      "zh": "文本将测交定义为“将一个未知基因型的生物体与一个隐性纯合子进行繁殖……因为它可以揭示该生物体的基因型。”当一个生物体表现出显性表型，其基因型可能是显性纯合（PP）或杂合（Pp）时，使用测交。",
+      "es": "El texto define un cruzamiento de prueba como 'Cruzar un organismo de genotipo desconocido con un homocigoto recesivo... porque puede revelar el genotipo de ese organismo'. Se utiliza cuando un organismo muestra un fenotipo dominante y podría ser homocigoto dominante (PP) o heterocigoto (Pp).",
+      "fr": "Le texte définit un croisement test comme « le croisement d'un organisme de génotype inconnu avec un homozygote récessif... car il peut révéler le génotype de cet organisme ». Il est utilisé lorsqu'un organisme présente un phénotype dominant et pourrait être soit homozygote dominant (PP), soit hétérozygote (Pp).",
+      "de": "Der Text definiert eine Testkreuzung als „Kreuzung eines Organismus mit unbekanntem Genotyp mit einem rezessiven Homozygoten... weil sie den Genotyp dieses Organismus aufdecken kann.“ Sie wird verwendet, wenn ein Organismus einen dominanten Phänotyp aufweist und entweder homozygot dominant (PP) oder heterozygot (Pp) sein könnte.",
+      "ja": "本文では、検定交雑を「未知の遺伝子型の生物を劣性ホモ接合体と交配すること...なぜなら、その生物の遺伝子型を明らかにすることができるからです」と定義しています。これは、生物が優性表現型を示し、それがホモ接合性優性（PP）またはヘテロ接合性（Pp）のいずれかである可能性がある場合に使用されます。"
+    }
+  }
+]

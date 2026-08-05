@@ -1,0 +1,279 @@
+{
+    "meta": {
+        "title": "BioPal — Compañero de aprendizaje IA de Biología de Campbell",
+        "description": "Un compañero de estudio IA para estudiantes de Biología de Campbell."
+    },
+    "questionList": {
+        "title": "Preguntas de la página",
+        "tooltip": {
+            "title": "Estadísticas de la pregunta {index}",
+            "accuracy": "Precisión",
+            "attempts": "Intentos",
+            "correct": "Correctas",
+            "incorrect": "Incorrectas"
+        },
+        "noQuestions": "No hay preguntas disponibles.",
+        "chart": {
+            "correct": "Correcto",
+            "incorrect": "Incorrecto",
+            "unanswered": "Sin responder"
+        },
+        "accuracy": {
+            "excellent": "Excelente (90%+)",
+            "good": "Bien (70-89%)",
+            "average": "Promedio (50-69%)",
+            "poor": "Débil (30-49%)",
+            "bad": "Necesita mejorar (<30%)",
+            "unanswered": "No intentado"
+        }
+    },
+    "questionViewer": {
+        "explanation": "Explicación",
+        "selectMultiple": "Selección múltiple",
+        "selectSingle": "Selección única",
+        "toast": {
+            "correct": "¡Respuesta correcta!",
+            "partiallyCorrect": "¡Parcialmente correcta!",
+            "incorrect": "¡Respuesta incorrecta!",
+            "submitError": "No se pudo enviar la respuesta. Por favor, inténtalo de nuevo."
+        },
+        "result": {
+            "correct": "Correcto",
+            "partiallyCorrect": "Parcialmente correcto",
+            "incorrect": "Incorrecto"
+        },
+        "aiExplain": "Explicación IA",
+        "aiInitialPrompt": "Por favor, explica esta pregunta.",
+        "analysis": {
+            "correctSelections": "Selecciones correctas",
+            "incorrectSelections": "Selecciones incorrectas",
+            "missedAnswers": "Respuestas omitidas"
+        },
+        "answeredBy": "Respondido por",
+        "socialStats": {
+            "totalAttempts": "Intentos totales: {count}",
+            "correctAttempts": "Intentos correctos: {count}"
+        },
+        "commentPanel": {
+            "titlePrefix": "Comentarios de la pregunta: ",
+            "description": "Ver y publicar comentarios sobre esta pregunta."
+        }
+    },
+    "header": {
+        "home": "Inicio",
+        "ai_chat": "Chat IA",
+        "review": "Revisión",
+        "login": "Iniciar sesión",
+        "language": "Idioma",
+        "logout": "Cerrar sesión"
+    },
+    "theme": {
+        "toggle": "Alternar tema",
+        "switch_to_light": "Cambiar a modo claro",
+        "switch_to_dark": "Cambiar a modo oscuro"
+    },
+    "common": {
+        "anonymousUser": "Usuario anónimo",
+        "submit": "Enviar",
+        "submitting": "Enviando...",
+        "close": "Cerrar",
+        "notAvailable": "N/D",
+        "cancel": "Cancelar",
+        "delete": "Eliminar"
+    },
+    "comments": {
+        "reply": "Responder",
+        "loading": "Cargando comentarios...",
+        "noComments": "Aún no hay comentarios, ¡sé el primero!",
+        "noMoreComments": "No hay más comentarios.",
+        "replyingTo": "Respondiendo a",
+        "placeholder": "Comparte tus ideas o preguntas...",
+        "myCommentsOnly": "Mostrar solo mis comentarios"
+    },
+    "companionPanel": {
+        "tabs": {
+            "knowledgeGraph": "Grafo de conocimiento",
+            "questions": "Preguntas"
+        },
+        "loadingError": "No se pudieron cargar los datos del acompañante.",
+        "knowledgeGraph": {
+            "title": "Vista del grafo de conocimiento",
+            "description": "Un mapa mental relacionado con la página actual se mostrará aquí.",
+            "noData": "No hay datos del grafo de conocimiento para esta página."
+        }
+    },
+    "pdfViewer": {
+        "sheet": {
+            "title": "Comentarios de la página",
+            "description": "Ver y publicar comentarios sobre esta página."
+        },
+        "waitingForPdf": "Esperando datos del PDF...",
+        "zoom": {
+            "in": "Acercar",
+            "out": "Alejar",
+            "reset": "Restablecer zoom"
+        },
+        "pan": {
+            "holdSpace": "Mantén presionada la barra espaciadora para desplazar",
+            "toastMessage": "Consejo: Mantén presionada la barra espaciadora para desplazar el documento."
+        }
+    },
+    "login": {
+        "welcome_title": "Bienvenido al Compañero de Aprendizaje de Biología",
+        "welcome_subtitle": "Continúa con tu cuenta de Google",
+        "sign_in_with_google": "Iniciar sesión con Google",
+        "signing_in": "Iniciando sesión..."
+    },
+    "wrongAnswerNotebook": {
+        "title": "Cuaderno de respuestas incorrectas",
+        "description": "Ver y repasar preguntas que respondiste incorrectamente.",
+        "selectRange": "Seleccionar rango de fechas",
+        "predefinedRanges": "Rangos predefinidos",
+        "last1Day": "Último 1 día",
+        "last3Days": "Últimos 3 días",
+        "last7Days": "Últimos 7 días",
+        "last30Days": "Últimos 30 días",
+        "noWrongAnswers": "¡Felicidades! No tienes respuestas incorrectas recientemente."
+    },
+    "leaderboard": {
+        "title": "Tabla de clasificación",
+        "description": "Ver la clasificación de usuarios basada en varias métricas de rendimiento.",
+        "sortBy": "Ordenar por",
+        "sortByOptions": {
+            "totalAttempts": "Intentos totales",
+            "correctAttempts": "Intentos correctos",
+            "accuracy": "Precisión"
+        },
+        "selectRange": "Seleccionar rango de fechas",
+        "predefinedRanges": "Rangos predefinidos",
+        "last1Day": "Último 1 día",
+        "last7Days": "Últimos 7 días",
+        "last30Days": "Últimos 30 días",
+        "allTime": "Todo el tiempo",
+        "noData": "No hay datos de clasificación disponibles.",
+        "tableHeaders": {
+            "user": "Usuario",
+            "totalAttempts": "Intentos totales",
+            "correctAttempts": "Intentos correctos",
+            "accuracy": "Precisión"
+        }
+    },
+    "graph": {
+        "relatedNodesTitle": "Conceptos relacionados: {node}",
+        "relatedNodesTitleGeneric": "Conceptos relacionados",
+        "loadingGraphData": "Cargando datos del grafo...",
+        "errorFetchingGraphData": "Error al obtener datos del grafo: {message}",
+        "toolbar": {
+            "delete": "Eliminar",
+            "confirmDeleteTitle": "Confirmar eliminación",
+            "confirmDeleteDescription": "¿Estás seguro de que deseas eliminar el concepto {nodeId}? Esta acción no se puede deshacer.",
+            "cancel": "Cancelar"
+        }
+    },
+    "graphDataDialog": {
+        "title": "Grafo de Conocimientos",
+        "titleFor": "Grafo de Conocimientos para",
+        "description": "Explora los conceptos y páginas relacionadas.",
+        "noData": "No hay datos de grafo disponibles para este concepto.",
+        "closeButton": "Cerrar"
+    },
+    "aiChat": {
+        "title": "Chat IA",
+        "description": "Chatea con un asistente IA para obtener ayuda con tus preguntas de biología.",
+        "noMessages": "Aún no hay mensajes. ¡Inicia la conversación!",
+        "inputPlaceholder": "Escribe tu mensaje aquí...",
+        "inputPlaceholderForNode": "Por favor, explique este concepto",
+        "sendButton": "Enviar",
+        "confirmDeleteMessage": "¿Estás seguro de que quieres eliminar este turno de conversación? Esta acción no se puede deshacer.",
+        "messageDeleted": "Turno de conversación eliminado correctamente.",
+        "deleteError": "Error al eliminar el turno de conversación. Por favor, inténtalo de nuevo.",
+        "confirmDeleteDescription": "Esta acción eliminará permanentemente este turno de conversación y no se podrá recuperar."
+    },
+    "learningView": {
+        "pageTitle": "Página {page} - Biología de Campbell",
+        "pageDescription": "Explora el contenido y las preguntas de la página {page} de Biología de Campbell."
+    },
+    "landing": {
+        "hero": {
+            "badge": "🎓 Plataforma de Aprendizaje con IA",
+            "title": "Domina Campbell Biología con IA",
+            "subtitle": "Transforma tu experiencia de aprendizaje de biología con gráficos de conocimiento interactivos, cuestionarios contextuales y tutoría personalizada con IA. Construido específicamente para el libro de texto Campbell Biology.",
+            "cta": "Comenzar a Aprender con Google",
+            "free_trial": "Gratis para siempre",
+            "no_credit_card": "No se requiere tarjeta de crédito"
+        },
+        "stats": {
+            "chapters": "Capítulos",
+            "questions": "Preguntas de Práctica",
+            "ai_support": "Soporte IA",
+            "languages": "Idiomas"
+        },
+        "features": {
+            "badge": "🚀 Funciones Principales",
+            "title": "Todo lo que Necesitas para Sobresalir",
+            "subtitle": "Herramientas integrales diseñadas para hacer Campbell Biology accesible y atractivo",
+            "new": "Nuevo",
+            "coming_soon": "Próximamente",
+            "one": {
+                "title": "Gráficos de Conocimiento Interactivos",
+                "description": "Visualiza relaciones biológicas complejas y navega entre conceptos interconectados con nuestro sistema dinámico de mapeo de conocimientos.",
+                "highlight1": "✨ Relaciones conceptuales visuales",
+                "highlight2": "🔍 Exploración de conceptos con un clic"
+            },
+            "two": {
+                "title": "Asistente de Aprendizaje con IA",
+                "description": "Obtén respuestas instantáneas, explicaciones y orientación de estudio de nuestro tutor de IA avanzado entrenado específicamente en el contenido de Campbell Biology.",
+                "highlight1": "🤖 Tutoría inteligente 24/7",
+                "highlight2": "💬 Asistencia de estudio contextual"
+            },
+            "three": {
+                "title": "Sistema de Revisión Inteligente",
+                "description": "Domina conceptos difíciles con algoritmos de repetición espaciada y horarios de revisión personalizados basados en tu progreso de aprendizaje.",
+                "highlight1": "📊 Análisis de rendimiento",
+                "highlight2": "🎯 Ajuste de dificultad adaptativo"
+            }
+        },
+        "testimonials": {
+            "badge": "💬 Éxito Estudiantil",
+            "title": "Amado por Estudiantes de Todo el Mundo",
+            "subtitle": "Únete a miles de estudiantes que han transformado su experiencia de aprendizaje de biología",
+            "student1": {
+                "name": "Sarah Chen",
+                "role": "Estudiante Pre-Medicina",
+                "content": "Los gráficos de conocimiento de BioPal me ayudaron a entender procesos celulares complejos como nunca antes. ¡Mis calificaciones mejoraron un 25%!"
+            },
+            "student2": {
+                "name": "Marcus Johnson",
+                "role": "Estudiante de Biología",
+                "content": "El tutor de IA es como tener un profesor personal de biología disponible 24/7. Explica conceptos de múltiples maneras hasta que entiendo."
+            },
+            "student3": {
+                "name": "Elena Rodriguez",
+                "role": "Estudiante de Postgrado",
+                "content": "El soporte multilingüe me ayudó a estudiar en mi idioma nativo mientras construía vocabulario de biología en inglés. ¡Absolutamente brillante!"
+            }
+        },
+        "cta": {
+            "title": "¿Listo para Transformar tu Aprendizaje de Biología?",
+            "subtitle": "Únete a miles de estudiantes que ya están dominando Campbell Biology con herramientas de aprendizaje con IA.",
+            "button": "Comenzar Gratis"
+        },
+        "footer": {
+            "description": "Compañero de aprendizaje con IA para estudiantes de Campbell Biology en todo el mundo.",
+            "product": "Producto",
+            "features": "Funciones",
+            "pricing": "Precios",
+            "roadmap": "Hoja de Ruta",
+            "support": "Soporte",
+            "help_center": "Centro de Ayuda",
+            "contact": "Contáctanos",
+            "community": "Comunidad",
+            "legal": "Legal",
+            "privacy": "Política de Privacidad",
+            "terms": "Términos de Servicio",
+            "cookies": "Política de Cookies",
+            "rights": "Todos los derechos reservados.",
+            "version": "Versión"
+        }
+    }
+}

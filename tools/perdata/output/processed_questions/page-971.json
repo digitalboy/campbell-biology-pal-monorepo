@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 971,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the provided text, which statement accurately describes the relationship between diffusion distance and time?",
+      "zh": "根据提供的文本，哪个陈述准确地描述了扩散距离与时间之间的关系？",
+      "es": "Según el texto proporcionado, ¿qué afirmación describe con precisión la relación entre la distancia de difusión y el tiempo?",
+      "fr": "D'après le texte fourni, quelle affirmation décrit avec précision la relation entre la distance de diffusion et le temps ?",
+      "de": "Basierend auf dem bereitgestellten Text, welche Aussage beschreibt genau die Beziehung zwischen Diffusionsdistanz und Zeit?",
+      "ja": "提供されたテキストに基づき、拡散距離と時間の関係を正確に説明している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The time it takes for a substance to diffuse is directly proportional to the distance.",
+          "zh": "物质扩散所需的时间与距离成正比。",
+          "es": "El tiempo que tarda una sustancia en difundirse es directamente proporcional a la distancia.",
+          "fr": "Le temps nécessaire à la diffusion d'une substance est directement proportionnel à la distance.",
+          "de": "Die Zeit, die eine Substanz zum Diffundieren benötigt, ist direkt proportional zur Distanz.",
+          "ja": "物質が拡散するのにかかる時間は、距離に正比例します。"
+        },
+        "feedback": {
+          "en": "The text states that the time is proportional to the 'square' of the distance, not directly proportional.",
+          "zh": "文本指出时间与距离的“平方”成正比，而非直接成正比。",
+          "es": "El texto afirma que el tiempo es proporcional al 'cuadrado' de la distancia, no directamente proporcional.",
+          "fr": "Le texte indique que le temps est proportionnel au 'carré' de la distance, et non directement proportionnel.",
+          "de": "Der Text besagt, dass die Zeit proportional zum 'Quadrat' der Distanz ist, nicht direkt proportional.",
+          "ja": "テキストでは、時間は距離に正比例するのではなく、「二乗」に比例すると述べられています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A quantity of glucose takes 1 second to diffuse 100 µm, but 100 seconds to diffuse 1 mm.",
+          "zh": "一定量的葡萄糖扩散100微米需要1秒，但扩散1毫米需要100秒。",
+          "es": "Una cantidad de glucosa tarda 1 segundo en difundirse 100 µm, pero 100 segundos en difundirse 1 mm.",
+          "fr": "Une quantité de glucose prend 1 seconde pour diffuser 100 µm, mais 100 secondes pour diffuser 1 mm.",
+          "de": "Eine Menge Glukose benötigt 1 Sekunde, um 100 µm zu diffundieren, aber 100 Sekunden, um 1 mm zu diffundieren.",
+          "ja": "一定量のグルコースは100 µm拡散するのに1秒かかりますが、1 mm拡散するには100秒かかります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Diffusion is rapid over very long distances, making it efficient for all animal cells.",
+          "zh": "扩散在非常远的距离上是快速的，这使得它对所有动物细胞都是有效的。",
+          "es": "La difusión es rápida en distancias muy largas, lo que la hace eficiente para todas las células animales.",
+          "fr": "La diffusion est rapide sur de très longues distances, ce qui la rend efficace pour toutes les cellules animales.",
+          "de": "Diffusion ist über sehr lange Distanzen schnell, was sie für alle Tierzellen effizient macht.",
+          "ja": "拡散は非常に長い距離でも迅速であるため、すべての動物細胞にとって効率的です。"
+        },
+        "feedback": {
+          "en": "The text states that net movement by diffusion is very slow for distances of more than a few millimeters.",
+          "zh": "文本指出，扩散的净运动在超过几毫米的距离上非常缓慢。",
+          "es": "El texto afirma que el movimiento neto por difusión es muy lento para distancias de más de unos pocos milímetros.",
+          "fr": "Le texte indique que le mouvement net par diffusion est très lent pour des distances de plus de quelques millimètres.",
+          "de": "Der Text besagt, dass die Nettobewegung durch Diffusion über Entfernungen von mehr als wenigen Millimetern sehr langsam ist.",
+          "ja": "テキストには、拡散による正味の移動は数ミリメートル以上の距離では非常に遅いと記載されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "If it takes 1 second to diffuse 1 cm, it will take 3 hours to diffuse 100 µm.",
+          "zh": "如果扩散1厘米需要1秒，那么扩散100微米将需要3小时。",
+          "es": "Si se tarda 1 segundo en difundir 1 cm, se tardarán 3 horas en difundir 100 µm.",
+          "fr": "S'il faut 1 seconde pour diffuser 1 cm, il faudra 3 heures pour diffuser 100 µm.",
+          "de": "Wenn es 1 Sekunde dauert, um 1 cm zu diffundieren, wird es 3 Stunden dauern, um 100 µm zu diffundieren.",
+          "ja": "1 cm拡散するのに1秒かかる場合、100 µm拡散するのに3時間かかります。"
+        },
+        "feedback": {
+          "en": "This statement reverses the relationship: 100 µm takes 1 second, while 1 cm takes almost 3 hours. Also, the time and distance values are mixed up and incorrect.",
+          "zh": "这个陈述颠倒了关系：100微米需要1秒，而1厘米需要将近3小时。而且，时间和距离值混淆且不正确。",
+          "es": "Esta afirmación invierte la relación: 100 µm tardan 1 segundo, mientras que 1 cm tarda casi 3 horas. Además, los valores de tiempo y distancia están mezclados y son incorrectos.",
+          "fr": "Cette affirmation inverse la relation : 100 µm prennent 1 seconde, tandis que 1 cm prend près de 3 heures. De plus, les valeurs de temps et de distance sont mélangées et incorrectes.",
+          "de": "Diese Aussage kehrt die Beziehung um: 100 µm dauern 1 Sekunde, während 1 cm fast 3 Stunden dauert. Außerdem sind die Zeit- und Distanzwerte vertauscht und inkorrekt.",
+          "ja": "この記述は関係を逆転させています。100 µmは1秒かかりますが、1 cmはほぼ3時間かかります。また、時間と距離の値が混同されており、不正確です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'For example, a quantity of glucose that takes 1 second to diffuse 100 µm will take 100 seconds to diffuse 1 mm and almost 3 hours to diffuse 1 cm.' Option B directly quotes part of this example.",
+      "zh": "文本明确指出：“例如，一定量的葡萄糖扩散100微米需要1秒，扩散1毫米需要100秒，扩散1厘米需要将近3小时。” 选项B直接引用了该例子的一部分。",
+      "es": "El texto establece explícitamente: 'Por ejemplo, una cantidad de glucosa que tarda 1 segundo en difundirse 100 µm tardará 100 segundos en difundirse 1 mm y casi 3 horas en difundirse 1 cm.' La opción B cita directamente parte de este ejemplo.",
+      "fr": "Le texte indique explicitement : 'Par exemple, une quantité de glucose qui prend 1 seconde pour diffuser 100 µm prendra 100 secondes pour diffuser 1 mm et près de 3 heures pour diffuser 1 cm.' L'option B cite directement une partie de cet exemple.",
+      "de": "Der Text besagt explizit: 'Zum Beispiel benötigt eine Menge Glukose, die 1 Sekunde für die Diffusion von 100 µm benötigt, 100 Sekunden für die Diffusion von 1 mm und fast 3 Stunden für die Diffusion von 1 cm.' Option B zitiert direkt einen Teil dieses Beispiels.",
+      "ja": "テキストには明確に次のように記載されています。「例えば、100 µm拡散するのに1秒かかるグルコースの量は、1 mm拡散するのに100秒、1 cm拡散するのにほぼ3時間かかります。」 選択肢Bはこの例の一部を直接引用しています。"
+    }
+  },
+  {
+    "page_number": 971,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text discusses two basic adaptations that permit efficient exchange for all of an animal's cells. Which of the following statements correctly describes one of these adaptations?",
+      "zh": "文本讨论了两种基本适应，它们允许动物所有细胞进行有效物质交换。以下哪个陈述正确描述了其中一种适应？",
+      "es": "El texto discute dos adaptaciones básicas que permiten un intercambio eficiente para todas las células de un animal. ¿Cuál de las siguientes afirmaciones describe correctamente una de estas adaptaciones?",
+      "fr": "Le texte aborde deux adaptations fondamentales qui permettent un échange efficace pour toutes les cellules d'un animal. Laquelle des affirmations suivantes décrit correctement l'une de ces adaptations ?",
+      "de": "Der Text beschreibt zwei grundlegende Anpassungen, die einen effizienten Austausch für alle Zellen eines Tieres ermöglichen. Welche der folgenden Aussagen beschreibt eine dieser Anpassungen korrekt?",
+      "ja": "本文は、動物のすべての細胞が効率的な交換を可能にする2つの基本的な適応について論じています。次の記述のうち、これらの適応の1つを正しく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Unicellular organisms rely on a complex circulatory system for material exchange with the external environment.",
+          "zh": "单细胞生物依靠复杂的循环系统与外部环境进行物质交换。",
+          "es": "Los organismos unicelulares dependen de un sistema circulatorio complejo para el intercambio de materiales con el entorno externo.",
+          "fr": "Les organismes unicellulaires dépendent d'un système circulatoire complexe pour l'échange de matières avec l'environnement externe.",
+          "de": "Einzellige Organismen verlassen sich auf ein komplexes Kreislaufsystem für den Materialaustausch mit der äußeren Umgebung.",
+          "ja": "単細胞生物は、外部環境との物質交換に複雑な循環器系に依存しています。"
+        },
+        "feedback": {
+          "en": "Unicellular organisms exchange materials directly with the external environment via diffusion across the plasma membrane, not a complex circulatory system.",
+          "zh": "单细胞生物通过质膜扩散直接与外部环境进行物质交换，而非依靠复杂的循环系统。",
+          "es": "Los organismos unicelulares intercambian materiales directamente con el entorno externo a través de la difusión a través de la membrana plasmática, no de un sistema circulatorio complejo.",
+          "fr": "Les organismes unicellulaires échangent des matières directement avec l'environnement externe par diffusion à travers la membrane plasmique, et non via un système circulatoire complexe.",
+          "de": "Einzellige Organismen tauschen Materialien direkt mit der äußeren Umgebung über Diffusion durch die Plasmamembran aus, nicht über ein komplexes Kreislaufsystem.",
+          "ja": "単細胞生物は、複雑な循環器系ではなく、細胞膜を介した拡散によって外部環境と直接物質を交換します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Animals with a simple body plan, like cnidarians and flatworms, place many or all cells in direct contact with the environment.",
+          "zh": "具有简单身体结构的动物，如刺胞动物和扁形动物，将许多或所有细胞直接置于与环境接触的位置。",
+          "es": "Los animales con un plan corporal simple, como los cnidarios y los platelmintos, colocan muchas o todas sus células en contacto directo con el entorno.",
+          "fr": "Les animaux dotés d'un plan corporel simple, tels que les cnidaires et les plathelminthes, mettent de nombreuses, voire toutes leurs cellules en contact direct avec l'environnement.",
+          "de": "Tiere mit einem einfachen Körperbau, wie Nesseltiere und Plattwürmer, bringen viele oder alle Zellen in direkten Kontakt mit der Umgebung.",
+          "ja": "刺胞動物や扁形動物のような単純な体構造を持つ動物は、多くの細胞またはすべての細胞を環境と直接接触させます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Multicellular organisms primarily use diffusion over long distances to exchange materials with their environment.",
+          "zh": "多细胞生物主要通过长距离扩散与环境进行物质交换。",
+          "es": "Los organismos multicelulares utilizan principalmente la difusión a largas distancias para intercambiar materiales con su entorno.",
+          "fr": "Les organismes multicellulaires utilisent principalement la diffusion sur de longues distances pour échanger des matières avec leur environnement.",
+          "de": "Mehrzellige Organismen nutzen hauptsächlich Diffusion über weite Strecken, um Materialien mit ihrer Umgebung auszutauschen.",
+          "ja": "多細胞生物は主に長距離拡散を利用して環境と物質交換を行います。"
+        },
+        "feedback": {
+          "en": "Net movement by diffusion is very slow for distances of more than a few millimeters, making it inefficient for long-distance exchange in most multicellular organisms.",
+          "zh": "扩散的净运动在超过几毫米的距离上非常缓慢，因此对于大多数多细胞生物的长距离交换而言效率低下。",
+          "es": "El movimiento neto por difusión es muy lento para distancias de más de unos pocos milímetros, lo que lo hace ineficiente para el intercambio a larga distancia en la mayoría de los organismos multicelulares.",
+          "fr": "Le mouvement net par diffusion est très lent sur des distances de plus de quelques millimètres, ce qui le rend inefficace pour les échanges à longue distance chez la plupart des organismes multicellulaires.",
+          "de": "Die Nettobewegung durch Diffusion ist über Entfernungen von mehr als wenigen Millimetern sehr langsam, was sie für den Langstreckenaustausch bei den meisten mehrzelligen Organismen ineffizient macht.",
+          "ja": "拡散による正味の移動は数ミリメートル以上の距離では非常に遅く、ほとんどの多細胞生物における長距離交換には非効率的です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Circulatory systems allow exchange with the environment and body tissues to occur over very long distances.",
+          "zh": "循环系统允许与环境和身体组织在非常远的距离上进行交换。",
+          "es": "Los sistemas circulatorios permiten que el intercambio con el medio ambiente y los tejidos corporales ocurra a distancias muy largas.",
+          "fr": "Les systèmes circulatoires permettent l'échange avec l'environnement et les tissus corporels sur de très longues distances.",
+          "de": "Kreislaufsysteme ermöglichen den Austausch mit der Umgebung und den Körpergeweben über sehr große Entfernungen.",
+          "ja": "循環器系は、環境や身体組織との交換を非常に長い距離で行うことを可能にします。"
+        },
+        "feedback": {
+          "en": "Circulatory systems facilitate exchange over very 'short' distances to individual cells' immediate surroundings, not very long distances.",
+          "zh": "循环系统促进与单个细胞的直接周围环境进行“短距离”交换，而非非常长的距离。",
+          "es": "Los sistemas circulatorios facilitan el intercambio a distancias muy 'cortas' en el entorno inmediato de las células individuales, no a distancias muy largas.",
+          "fr": "Les systèmes circulatoires facilitent les échanges sur de très 'courtes' distances avec l'environnement immédiat des cellules individuelles, et non sur de très longues distances.",
+          "de": "Kreislaufsysteme erleichtern den Austausch über sehr 'kurze' Distanzen zur unmittelbaren Umgebung einzelner Zellen, nicht über sehr lange Distanzen.",
+          "ja": "循環器系は、個々の細胞の周囲環境との間で「非常に短い」距離での交換を促進し、非常に長い距離ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'One adaptation for efficient exchange is a simple body plan that places many or all cells in direct contact with the environment. Each cell can thus exchange materials directly with the surrounding medium. Such an arrangement is characteristic of certain invertebrates, including cnidarians and flatworms.' Option B accurately reflects this adaptation.",
+      "zh": "文本指出：“一种有效交换的适应是简单的身体结构，它使许多或所有细胞直接与环境接触。每个细胞因此可以直接与周围介质交换物质。这种排列是某些无脊椎动物（包括刺胞动物和扁形动物）的特征。” 选项B准确反映了这种适应。",
+      "es": "El texto afirma: 'Una adaptación para el intercambio eficiente es un plan corporal simple que coloca muchas o todas las células en contacto directo con el medio ambiente. Cada célula puede así intercambiar materiales directamente con el medio circundante. Tal disposición es característica de ciertos invertebrados, incluidos los cnidarios y los platelmintos.' La opción B refleja con precisión esta adaptación.",
+      "fr": "Le texte indique : 'Une adaptation pour un échange efficace est un plan corporel simple qui met de nombreuses, voire toutes les cellules en contact direct avec l'environnement. Chaque cellule peut ainsi échanger des matières directement avec le milieu environnant. Un tel arrangement est caractéristique de certains invertébrés, y compris les cnidaires et les plathelminthes.' L'option B reflète fidèlement cette adaptation.",
+      "de": "Der Text besagt: 'Eine Anpassung für einen effizienten Austausch ist ein einfacher Körperbau, der viele oder alle Zellen in direkten Kontakt mit der Umgebung bringt. Jede Zelle kann so Materialien direkt mit dem umgebenden Medium austauschen. Eine solche Anordnung ist charakteristisch für bestimmte Wirbellose, einschließlich Nesseltiere und Plattwürmer.' Option B spiegelt diese Anpassung korrekt wider.",
+      "ja": "本文には次のように記載されています。「効率的な交換のための適応の一つは、多くの細胞またはすべての細胞を環境と直接接触させる単純な体構造です。これにより、各細胞は周囲の媒体と直接物質を交換できます。このような配置は、刺胞動物や扁形動物を含む特定の無脊椎動物の特徴です。」 選択肢Bはこの適応を正確に反映しています。"
+    }
+  },
+  {
+    "page_number": 971,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A gastrovascular cavity typically serves both digestion and substance distribution. Based on the text and the 'WHAT IF?' prompt, if a gastrovascular cavity were open at two ends, allowing fluid to enter one end and leave the other, what would be the most significant impact on its functions?",
+      "zh": "胃血管腔通常兼具消化和物质分布功能。根据文本和“如果……会怎样？”的提示，如果胃血管腔两端开放，允许液体从一端进入并从另一端流出，对其功能将产生什么最显著的影响？",
+      "es": "Una cavidad gastrovascular generalmente sirve tanto para la digestión como para la distribución de sustancias. Según el texto y la pregunta '¿QUÉ PASARÍA SI?', si una cavidad gastrovascular estuviera abierta por ambos extremos, permitiendo que el fluido entrara por un extremo y saliera por el otro, ¿cuál sería el impacto más significativo en sus funciones?",
+      "fr": "Une cavité gastro-vasculaire remplit généralement des fonctions de digestion et de distribution des substances. D'après le texte et la question 'ET SI ?', si une cavité gastro-vasculaire était ouverte aux deux extrémités, permettant au fluide d'entrer par une extrémité et de sortir par l'autre, quel serait l'impact le plus significatif sur ses fonctions ?",
+      "de": "Eine Gastrovaskularhöhle dient typischerweise sowohl der Verdauung als auch der Stoffverteilung. Basierend auf dem Text und der 'WAS WÄRE WENN?'-Frage, wenn eine Gastrovaskularhöhle an beiden Enden offen wäre und Flüssigkeit an einem Ende eintreten und am anderen Ende austreten könnte, was wäre die signifikanteste Auswirkung auf ihre Funktionen?",
+      "ja": "胃水管腔は通常、消化と物質分布の両方の機能を持っています。本文と「もしも？」の問いに基づいて、もし胃水管腔が両端で開いており、液体が一端から入り、もう一端から出る場合、その機能に最も大きな影響を与えるのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Digestion would become more efficient as food particles could be continuously flushed through the system, preventing accumulation.",
+          "zh": "消化会变得更有效，因为食物颗粒可以持续通过系统冲刷，防止积聚。",
+          "es": "La digestión sería más eficiente ya que las partículas de alimento podrían ser continuamente arrastradas a través del sistema, evitando la acumulación.",
+          "fr": "La digestion deviendrait plus efficace car les particules alimentaires pourraient être continuellement rincées à travers le système, empêchant l'accumulation.",
+          "de": "Die Verdauung würde effizienter, da Nahrungspartikel kontinuierlich durch das System gespült werden könnten, was eine Ansammlung verhindern würde.",
+          "ja": "食物粒子がシステムを通して継続的に排出されるため、蓄積が防がれ、消化がより効率的になるでしょう。"
+        },
+        "feedback": {
+          "en": "Continuous flushing would remove digestive enzymes and partially digested food before complete digestion could occur, making digestion less efficient.",
+          "zh": "持续的冲刷会在完全消化发生之前清除消化酶和部分消化的食物，从而降低消化效率。",
+          "es": "El lavado continuo eliminaría las enzimas digestivas y los alimentos parcialmente digeridos antes de que pudiera ocurrir la digestión completa, lo que haría que la digestión fuera menos eficiente.",
+          "fr": "Un rinçage continu éliminerait les enzymes digestives et les aliments partiellement digérés avant que la digestion complète ne puisse avoir lieu, rendant la digestion moins efficace.",
+          "de": "Kontinuierliches Spülen würde Verdauungsenzyme und teilweise verdaute Nahrung entfernen, bevor eine vollständige Verdauung stattfinden könnte, wodurch die Verdauung weniger effizient würde.",
+          "ja": "継続的な洗い流しは、完全な消化が行われる前に消化酵素や部分的に消化された食物を除去するため、消化の効率が低下します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Gas exchange would be enhanced due to constant unidirectional flow, but digestion would be compromised as digestive enzymes and nutrients would be flushed out.",
+          "zh": "由于持续的单向流动，气体交换会得到增强，但消化会受到损害，因为消化酶和营养物质会被冲出。",
+          "es": "El intercambio de gases se mejoraría debido al flujo unidireccional constante, pero la digestión se vería comprometida ya que las enzimas digestivas y los nutrientes serían arrastrados.",
+          "fr": "L'échange gazeux serait amélioré grâce à un flux unidirectionnel constant, mais la digestion serait compromise car les enzymes digestives et les nutriments seraient emportés.",
+          "de": "Der Gasaustausch würde durch konstanten, unidirektionalen Fluss verbessert, aber die Verdauung würde beeinträchtigt, da Verdauungsenzyme und Nährstoffe ausgespült würden.",
+          "ja": "一方向の定常的な流れによりガス交換は促進されますが、消化酵素や栄養素が洗い流されるため、消化は損なわれます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both gas exchange and digestion would significantly improve because fresh water would continuously flow through the cavity.",
+          "zh": "气体交换和消化都会显著改善，因为新鲜水会持续流经腔体。",
+          "es": "Tanto el intercambio de gases como la digestión mejorarían significativamente porque el agua dulce fluiría continuamente a través de la cavidad.",
+          "fr": "L'échange gazeux et la digestion s'amélioreraient considérablement car de l'eau douce circulerait continuellement à travers la cavité.",
+          "de": "Sowohl der Gasaustausch als auch die Verdauung würden sich erheblich verbessern, da ständig frisches Wasser durch die Höhle fließen würde.",
+          "ja": "新鮮な水が腔内を継続的に流れるため、ガス交換と消化の両方が大幅に改善されます。"
+        },
+        "feedback": {
+          "en": "While gas exchange might improve, digestion would be negatively impacted by the continuous flushing of enzymes and digested food.",
+          "zh": "虽然气体交换可能会改善，但消化会因酶和消化食物的持续冲刷而受到负面影响。",
+          "es": "Aunque el intercambio de gases podría mejorar, la digestión se vería afectada negativamente por el lavado continuo de enzimas y alimentos digeridos.",
+          "fr": "Bien que l'échange gazeux puisse s'améliorer, la digestion serait négativement affectée par le rinçage continu des enzymes et des aliments digérés.",
+          "de": "Während der Gasaustausch sich verbessern könnte, würde die Verdauung durch das kontinuierliche Ausspülen von Enzymen und verdauter Nahrung negativ beeinflusst.",
+          "ja": "ガス交換は改善するかもしれませんが、消化は酵素や消化された食物の継続的な洗い流しによって悪影響を受けます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The primary function of substance distribution would be lost, as the cavity would no longer act as a closed system for internal circulation.",
+          "zh": "物质分布的主要功能将丧失，因为腔体将不再作为内部循环的封闭系统。",
+          "es": "La función principal de distribución de sustancias se perdería, ya que la cavidad ya no actuaría como un sistema cerrado para la circulación interna.",
+          "fr": "La fonction principale de distribution des substances serait perdue, car la cavité ne fonctionnerait plus comme un système fermé pour la circulation interne.",
+          "de": "Die primäre Funktion der Stoffverteilung ginge verloren, da die Höhle nicht mehr als geschlossenes System für die interne Zirkulation dienen würde.",
+          "ja": "腔が内部循環の閉鎖系として機能しなくなるため、物質分布の主要な機能は失われるでしょう。"
+        },
+        "feedback": {
+          "en": "A gastrovascular cavity is not a closed circulatory system; it's open to the environment at one end. While internal distribution might be altered, the most direct and significant impact of a two-way opening would be on digestion.",
+          "zh": "胃血管腔不是一个封闭的循环系统；它在一端与环境开放。虽然内部分布可能会改变，但两端开放最直接和显著的影响将是对消化。",
+          "es": "Una cavidad gastrovascular no es un sistema circulatorio cerrado; está abierta al medio ambiente en un extremo. Aunque la distribución interna podría alterarse, el impacto más directo y significativo de una apertura bidireccional sería sobre la digestión.",
+          "fr": "Une cavité gastro-vasculaire n'est pas un système circulatoire fermé ; elle est ouverte à l'environnement à une extrémité. Bien que la distribution interne puisse être altérée, l'impact le plus direct et significatif d'une ouverture bidirectionnelle serait sur la digestion.",
+          "de": "Eine Gastrovaskularhöhle ist kein geschlossenes Kreislaufsystem; sie ist an einem Ende zur Umgebung hin offen. Während die interne Verteilung verändert werden könnte, wäre die direkteste und signifikanteste Auswirkung einer zweiseitigen Öffnung auf die Verdauung.",
+          "ja": "胃水管腔は閉鎖循環系ではなく、一端は環境に開いています。内部の分布は変化するかもしれませんが、両端が開くことによる最も直接的で重要な影響は消化にあります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The 'WHAT IF?' prompt asks how having the cavity open at two ends, with fluid entering one and leaving the other, would affect its functions in gas exchange and digestion. A constant unidirectional flow would likely enhance gas exchange by continuously bringing in fresh oxygenated water. However, for digestion, the cavity relies on retaining food and digestive enzymes for sufficient time. A continuous flow-through system would flush out digestive enzymes and partially digested food before full nutrient absorption, thus severely compromising digestion.",
+      "zh": "“如果……会怎样？”的提示询问，如果腔体两端开放，液体从一端进入并从另一端流出，将如何影响其在气体交换和消化方面的功能。持续的单向流动可能会通过不断引入新鲜的含氧水来增强气体交换。然而，对于消化而言，腔体依赖于保留食物和消化酶足够长的时间。持续的流通系统会在营养物质完全吸收之前将消化酶和部分消化的食物冲走，从而严重损害消化功能。",
+      "es": "La pregunta '¿QUÉ PASARÍA SI?' plantea cómo el hecho de que la cavidad esté abierta por ambos extremos, con el fluido entrando por uno y saliendo por el otro, afectaría sus funciones en el intercambio de gases y la digestión. Un flujo unidireccional constante probablemente mejoraría el intercambio de gases al introducir continuamente agua fresca oxigenada. Sin embargo, para la digestión, la cavidad depende de retener los alimentos y las enzimas digestivas durante el tiempo suficiente. Un sistema de flujo continuo arrastraría las enzimas digestivas y los alimentos parcialmente digeridos antes de la absorción completa de nutrientes, comprometiendo así gravemente la digestión.",
+      "fr": "La question 'ET SI ?' demande comment le fait d'avoir la cavité ouverte aux deux extrémités, avec le fluide entrant par l'une et sortant par l'autre, affecterait ses fonctions d'échange gazeux et de digestion. Un flux unidirectionnel constant améliorerait probablement l'échange gazeux en apportant continuellement de l'eau fraîche oxygénée. Cependant, pour la digestion, la cavité dépend de la rétention des aliments et des enzymes digestives pendant un temps suffisant. Un système à flux continu évacuerait les enzymes digestives et les aliments partiellement digérés avant l'absorption complète des nutriments, compromettant ainsi gravement la digestion.",
+      "de": "Die 'WAS WÄRE WENN?'-Frage fragt, wie die Funktionen des Gasaustauschs und der Verdauung beeinträchtigt würden, wenn die Höhle an beiden Enden offen wäre und Flüssigkeit an einem Ende eintreten und am anderen Ende austreten könnte. Ein konstanter, unidirektionaler Fluss würde den Gasaustausch wahrscheinlich verbessern, indem ständig frisches, sauerstoffreiches Wasser zugeführt wird. Für die Verdauung ist die Höhle jedoch darauf angewiesen, Nahrung und Verdauungsenzyme für eine ausreichende Zeit zurückzuhalten. Ein kontinuierliches Durchflusssystem würde Verdauungsenzyme und teilweise verdaute Nahrung ausspülen, bevor die vollständige Nährstoffaufnahme erfolgen könnte, wodurch die Verdauung schwerwiegend beeinträchtigt würde.",
+      "ja": "「もしも？」の問いは、腔が両端で開いていて、液体が一端から入り、もう一端から出る場合に、ガス交換と消化の機能がどのように影響を受けるかを尋ねています。一定の一方向の流れは、新鮮な酸素水が継続的に供給されることでガス交換を促進するでしょう。しかし、消化のためには、腔は食物と消化酵素を十分な時間保持する必要があります。継続的な流動システムでは、栄養素が完全に吸収される前に消化酵素や部分的に消化された食物が洗い流されてしまうため、消化が著しく損なわれます。"
+    }
+  }
+]

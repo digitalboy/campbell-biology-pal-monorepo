@@ -1,0 +1,408 @@
+[
+  {
+    "page_number": 199,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Cellular respiration uses glucose and O2, which have high levels of free energy, and releases CO2 and H2O, which have low levels of free energy. Based on this, which of the following statements about cellular respiration is correct?",
+      "zh": "细胞呼吸利用具有高自由能的葡萄糖和O2，并释放具有低自由能的CO2和H2O。基于此，关于细胞呼吸的以下哪项说法是正确的？",
+      "es": "La respiración celular utiliza glucosa y O2, que tienen altos niveles de energía libre, y libera CO2 y H2O, que tienen bajos niveles de energía libre. Basado en esto, ¿cuál de las siguientes afirmaciones sobre la respiración celular es correcta?",
+      "fr": "La respiration cellulaire utilise du glucose et de l'O2, qui ont des niveaux élevés d'énergie libre, et libère du CO2 et de l'H2O, qui ont de faibles niveaux d'énergie libre. Sur cette base, laquelle des affirmations suivantes concernant la respiration cellulaire est correcte ?",
+      "de": "Die Zellatmung nutzt Glukose und O2, die hohe freie Energielevels aufweisen, und setzt CO2 und H2O frei, die niedrige freie Energielevels aufweisen. Basierend darauf, welche der folgenden Aussagen zur Zellatmung ist korrekt?",
+      "ja": "細胞呼吸は、高レベルの自由エネルギーを持つグルコースとO2を利用し、低レベルの自由エネルギーを持つCO2とH2Oを放出します。これに基づいて、細胞呼吸に関する以下の記述のうち、正しいものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It is non-spontaneous and endergonic.",
+          "zh": "它是非自发的，并且是吸能的。",
+          "es": "Es no espontánea y endergónica.",
+          "fr": "Elle est non spontanée et endergonique.",
+          "de": "Sie ist nicht spontan und endergonisch.",
+          "ja": "非自発的で吸エルゴン反応です。"
+        },
+        "feedback": {
+          "en": "Non-spontaneous and endergonic reactions require energy input. Cellular respiration releases energy.",
+          "zh": "非自发和吸能反应需要能量输入。细胞呼吸是释放能量的。",
+          "es": "Las reacciones no espontáneas y endergónicas requieren entrada de energía. La respiración celular libera energía.",
+          "fr": "Les réactions non spontanées et endergoniques nécessitent un apport d'énergie. La respiration cellulaire libère de l'énergie.",
+          "de": "Nicht-spontane und endergonische Reaktionen erfordern Energieeinsatz. Die Zellatmung setzt Energie frei.",
+          "ja": "非自発的で吸エルゴン反応はエネルギー入力を必要とします。細胞呼吸はエネルギーを放出します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It is spontaneous and exergonic.",
+          "zh": "它是自发的，并且是放能的。",
+          "es": "Es espontánea y exergónica.",
+          "fr": "Elle est spontanée et exergonique.",
+          "de": "Sie ist spontan und exergonisch.",
+          "ja": "自発的で発エルゴン反応です。"
+        },
+        "feedback": {
+          "en": "Correct. Exergonic reactions release free energy and are spontaneous.",
+          "zh": "正确。放能反应释放自由能，是自发的。",
+          "es": "Correcto. Las reacciones exergónicas liberan energía libre y son espontáneas.",
+          "fr": "Correct. Les réactions exergoniques libèrent de l'énergie libre et sont spontanées.",
+          "de": "Richtig. Exergonische Reaktionen setzen freie Energie frei und sind spontan.",
+          "ja": "正解です。発エルゴン反応は自由エネルギーを放出し、自発的に進行します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is spontaneous and endergonic.",
+          "zh": "它是自发的，并且是吸能的。",
+          "es": "Es espontánea y endergónica.",
+          "fr": "Elle est spontanée et endergonique.",
+          "de": "Sie ist spontan und endergonisch.",
+          "ja": "自発的で吸エルゴン反応です。"
+        },
+        "feedback": {
+          "en": "Endergonic reactions are non-spontaneous and require energy input.",
+          "zh": "吸能反应是非自发的，需要能量输入。",
+          "es": "Las reacciones endergónicas no son espontáneas y requieren entrada de energía.",
+          "fr": "Les réactions endergoniques sont non spontanées et nécessitent un apport d'énergie.",
+          "de": "Endergonische Reaktionen sind nicht-spontan und erfordern Energieeinsatz.",
+          "ja": "吸エルゴン反応は非自発的で、エネルギー入力を必要とします。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It is non-spontaneous and exergonic.",
+          "zh": "它是非自发的，并且是放能的。",
+          "es": "Es no espontánea y exergónica.",
+          "fr": "Elle est non spontanée et exergonique.",
+          "de": "Sie ist nicht spontan und exergonisch.",
+          "ja": "非自発的で発エルゴン反応です。"
+        },
+        "feedback": {
+          "en": "An exergonic reaction is by definition spontaneous, as it releases energy.",
+          "zh": "放能反应根据定义是自发的，因为它会释放能量。",
+          "es": "Una reacción exergónica es, por definición, espontánea, ya que libera energía.",
+          "fr": "Une réaction exergonique est par définition spontanée, car elle libère de l'énergie.",
+          "de": "Eine exergonische Reaktion ist definitionsgemäß spontan, da sie Energie freisetzt.",
+          "ja": "発エルゴン反応は、エネルギーを放出するため、定義上、自発的です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Cellular respiration breaks down glucose and oxygen, which are high in free energy, to produce carbon dioxide and water, which are low in free energy. This process involves a net release of free energy, making it an exergonic reaction. Exergonic reactions are by definition spontaneous, meaning they proceed without continuous energy input.",
+      "zh": "细胞呼吸将高自由能的葡萄糖和氧气分解，产生低自由能的二氧化碳和水。这个过程涉及自由能的净释放，使其成为一个放能反应。放能反应根据定义是自发的，这意味着它们无需持续的能量输入即可进行。",
+      "es": "La respiración celular descompone la glucosa y el oxígeno, que son ricos en energía libre, para producir dióxido de carbono y agua, que son bajos en energía libre. Este proceso implica una liberación neta de energía libre, lo que la convierte en una reacción exergónica. Las reacciones exergónicas son por definición espontáneas, lo que significa que proceden sin una entrada continua de energía.",
+      "fr": "La respiration cellulaire décompose le glucose et l'oxygène, qui sont riches en énergie libre, pour produire du dioxyde de carbone et de l'eau, qui sont pauvres en énergie libre. Ce processus implique une libération nette d'énergie libre, ce qui en fait une réaction exergonique. Les réactions exergoniques sont par définition spontanées, ce qui signifie qu'elles se déroulent sans apport continu d'énergie.",
+      "de": "Die Zellatmung zerlegt Glukose und Sauerstoff, die reich an freier Energie sind, um Kohlendioxid und Wasser zu produzieren, die arm an freier Energie sind. Dieser Prozess beinhaltet eine Nettofreisetzung von freier Energie, was ihn zu einer exergonischen Reaktion macht. Exergonische Reaktionen sind definitionsgemäß spontan, was bedeutet, dass sie ohne kontinuierliche Energiezufuhr ablaufen.",
+      "ja": "細胞呼吸は、自由エネルギーが高いグルコースと酸素を分解し、自由エネルギーが低い二酸化炭素と水を生成します。このプロセスは自由エネルギーの正味放出を伴うため、発エルゴン反応です。発エルゴン反応は定義上、自発的であり、継続的なエネルギー入力を必要とせずに進行します。"
+    }
+  },
+  {
+    "page_number": 199,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Figure 8.8b illustrates a multistep open hydroelectric system, which is analogous to cellular respiration. Which statement best explains how this system (and cellular respiration) avoids reaching equilibrium?",
+      "zh": "图8.8b展示了一个多步骤的开放式水电系统，这与细胞呼吸类似。以下哪项陈述最能解释该系统（和细胞呼吸）如何避免达到平衡？",
+      "es": "La Figura 8.8b ilustra un sistema hidroeléctrico abierto de múltiples pasos, análogo a la respiración celular. ¿Qué afirmación explica mejor cómo este sistema (y la respiración celular) evita alcanzar el equilibrio?",
+      "fr": "La Figure 8.8b illustre un système hydroélectrique ouvert à plusieurs étapes, qui est analogue à la respiration cellulaire. Quelle affirmation explique le mieux comment ce système (et la respiration cellulaire) évite d'atteindre l'équilibre ?",
+      "de": "Abbildung 8.8b zeigt ein mehrstufiges offenes hydroelektrisches System, das der Zellatmung analog ist. Welche Aussage erklärt am besten, wie dieses System (und die Zellatmung) das Erreichen des Gleichgewichts vermeidet?",
+      "ja": "図8.8bは、細胞呼吸に類似する多段階開放型水力発電システムを示しています。このシステム（および細胞呼吸）が平衡に達するのを避ける方法を最もよく説明しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Waste products are rapidly expelled, preventing their accumulation and reversal of reactions.",
+          "zh": "废产物被迅速排出，防止其积累和反应的逆转。",
+          "es": "Los productos de desecho son expulsados rápidamente, evitando su acumulación y la reversión de las reacciones.",
+          "fr": "Les déchets sont rapidement expulsés, empêchant leur accumulation et l'inversion des réactions.",
+          "de": "Abfallprodukte werden schnell ausgeschieden, wodurch deren Anreicherung und die Umkehrung von Reaktionen verhindert werden.",
+          "ja": "老廃物が迅速に排出され、蓄積と反応の逆転を防ぎます。"
+        },
+        "feedback": {
+          "en": "While waste products are expelled, the primary mechanism for avoiding equilibrium in a multistep pathway is the immediate use of products as reactants.",
+          "zh": "虽然废产物会被排出，但多步骤途径中避免达到平衡的主要机制是产物立即被用作反应物。",
+          "es": "Aunque los productos de desecho son expulsados, el mecanismo principal para evitar el equilibrio en una vía de múltiples pasos es el uso inmediato de los productos como reactivos.",
+          "fr": "Bien que les déchets soient expulsés, le mécanisme principal pour éviter l'équilibre dans une voie à plusieurs étapes est l'utilisation immédiate des produits comme réactifs.",
+          "de": "Obwohl Abfallprodukte ausgeschieden werden, ist der primäre Mechanismus zur Vermeidung des Gleichgewichts in einem mehrstufigen Stoffwechselweg die sofortige Verwendung von Produkten als Reaktanten.",
+          "ja": "老廃物は排出されますが、多段階経路で平衡状態に達するのを避ける主なメカニズムは、生成物が次の反応の反応物としてすぐに使用されることです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Each reaction's product serves as a reactant for the subsequent reaction, preventing product accumulation.",
+          "zh": "每个反应的产物都作为后续反应的反应物，从而阻止产物积累。",
+          "es": "El producto de cada reacción sirve como reactivo para la reacción subsiguiente, impidiendo la acumulación de productos.",
+          "fr": "Le produit de chaque réaction sert de réactif pour la réaction suivante, empêchant l'accumulation de produits.",
+          "de": "Das Produkt jeder Reaktion dient als Reaktant für die nachfolgende Reaktion, wodurch die Produktakkumulation verhindert wird.",
+          "ja": "各反応の生成物が次の反応の反応物として機能し、生成物の蓄積を防ぎます。"
+        },
+        "feedback": {
+          "en": "Correct. This continuous flow prevents any single reaction from reaching equilibrium by removing its products.",
+          "zh": "正确。这种连续流动通过移除产物来阻止任何单一反应达到平衡。",
+          "es": "Correcto. Este flujo continuo evita que cualquier reacción individual alcance el equilibrio al eliminar sus productos.",
+          "fr": "Correct. Ce flux continu empêche toute réaction unique d'atteindre l'équilibre en éliminant ses produits.",
+          "de": "Richtig. Dieser kontinuierliche Fluss verhindert, dass eine einzelne Reaktion das Gleichgewicht erreicht, indem er deren Produkte entfernt.",
+          "ja": "正解です。この連続的な流れは、生成物を取り除くことで、個々の反応が平衡に達するのを防ぎます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The system operates in a closed environment, allowing reactants to be continuously recycled.",
+          "zh": "该系统在封闭环境中运行，允许反应物持续回收。",
+          "es": "El sistema opera en un entorno cerrado, permitiendo que los reactivos se reciclen continuamente.",
+          "fr": "Le système fonctionne dans un environnement fermé, permettant aux réactifs d'être continuellement recyclés.",
+          "de": "Das System arbeitet in einer geschlossenen Umgebung, wodurch Reaktanten kontinuierlich recycelt werden können.",
+          "ja": "このシステムは閉鎖環境で動作し、反応物が継続的にリサイクルされます。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that organisms are open systems, meaning they exchange matter and energy with their surroundings, not operate in a closed environment.",
+          "zh": "文本明确指出生物体是开放系统，这意味着它们与周围环境交换物质和能量，而不是在封闭环境中运行。",
+          "es": "El texto establece explícitamente que los organismos son sistemas abiertos, lo que significa que intercambian materia y energía con su entorno, no operan en un entorno cerrado.",
+          "fr": "Le texte indique explicitement que les organismes sont des systèmes ouverts, ce qui signifie qu'ils échangent matière et énergie avec leur environnement, et non qu'ils fonctionnent dans un environnement fermé.",
+          "de": "Der Text besagt ausdrücklich, dass Organismen offene Systeme sind, was bedeutet, dass sie Materie und Energie mit ihrer Umgebung austauschen und nicht in einer geschlossenen Umgebung arbeiten.",
+          "ja": "本文は、生物が開放系であり、周囲と物質やエネルギーを交換することを明示しており、閉鎖環境で機能するわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The free energy difference between the initial reactants and final products is minimal, promoting constant forward movement.",
+          "zh": "初始反应物和最终产物之间的自由能差异很小，促进持续的正向运动。",
+          "es": "La diferencia de energía libre entre los reactivos iniciales y los productos finales es mínima, lo que promueve un movimiento constante hacia adelante.",
+          "fr": "La différence d'énergie libre entre les réactifs initiaux et les produits finaux est minimale, ce qui favorise un mouvement constant vers l'avant.",
+          "de": "Der freie Energieunterschied zwischen den Ausgangsreaktanten und Endprodukten ist minimal, was eine konstante Vorwärtsbewegung fördert.",
+          "ja": "初期反応物と最終生成物の自由エネルギー差が最小限であるため、一定の前方運動が促進されます。"
+        },
+        "feedback": {
+          "en": "The text states there's a 'huge free-energy difference' between glucose/O2 and CO2/H2O, which drives the reactions and prevents equilibrium, not a minimal difference.",
+          "zh": "文本指出葡萄糖/O2和CO2/H2O之间存在“巨大的自由能差异”，这驱动了反应并阻止了平衡，而不是差异很小。",
+          "es": "El texto afirma que hay una 'enorme diferencia de energía libre' entre la glucosa/O2 y el CO2/H2O, lo que impulsa las reacciones y previene el equilibrio, no una diferencia mínima.",
+          "fr": "Le texte indique qu'il y a une 'énorme différence d'énergie libre' entre le glucose/O2 et le CO2/H2O, ce qui entraîne les réactions et empêche l'équilibre, et non une différence minimale.",
+          "de": "Der Text besagt, dass es einen 'gewaltigen Unterschied in der freien Energie' zwischen Glukose/O2 und CO2/H2O gibt, der die Reaktionen antreibt und das Gleichgewicht verhindert, nicht einen minimalen Unterschied.",
+          "ja": "本文では、グルコース/O2とCO2/H2Oの間に「巨大な自由エネルギー差」があり、それが反応を駆動し、平衡を防ぐと述べており、最小限の差ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The key to maintaining the non-equilibrium state in a multistep pathway, like cellular respiration, is that the product of one reaction immediately becomes the reactant for the next. This continuous consumption of products prevents them from accumulating and thus prevents the reactions from reaching equilibrium.",
+      "zh": "在像细胞呼吸这样的多步骤途径中，维持非平衡状态的关键在于一个反应的产物会立即成为下一个反应的反应物。这种对产物的持续消耗阻止了它们的积累，从而阻止了反应达到平衡。",
+      "es": "La clave para mantener el estado de no equilibrio en una vía de múltiples pasos, como la respiración celular, es que el producto de una reacción se convierte inmediatamente en el reactivo para la siguiente. Este consumo continuo de productos evita que se acumulen y, por lo tanto, evita que las reacciones alcancen el equilibrio.",
+      "fr": "La clé pour maintenir l'état de non-équilibre dans une voie à plusieurs étapes, comme la respiration cellulaire, est que le produit d'une réaction devient immédiatement le réactif pour la suivante. Cette consommation continue des produits les empêche de s'accumuler et, par conséquent, empêche les réactions d'atteindre l'équilibre.",
+      "de": "Der Schlüssel zur Aufrechterhaltung des Nicht-Gleichgewichtszustands in einem mehrstufigen Stoffwechselweg, wie der Zellatmung, ist, dass das Produkt einer Reaktion sofort zum Reaktanten für die nächste wird. Dieser kontinuierliche Verbrauch von Produkten verhindert deren Akkumulation und somit, dass die Reaktionen das Gleichgewicht erreichen.",
+      "ja": "細胞呼吸のような多段階経路で非平衡状態を維持する鍵は、ある反応の生成物が直ちに次の反応の反応物となることです。この生成物の継続的な消費は、それらが蓄積するのを防ぎ、したがって反応が平衡に達するのを防ぎます。"
+    }
+  },
+  {
+    "page_number": 199,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Glow-in-the-dark necklaces emit light after being \"activated\" by snapping, which allows two chemicals to react. This process is called chemiluminescence. Given that light energy is emitted during this reaction, how would you classify this reaction?",
+      "zh": "夜光项链通过折断“激活”后发光，这使得两种化学物质发生反应。这个过程被称为化学发光。考虑到反应过程中会发出光能，您会如何分类这种反应？",
+      "es": "Los collares que brillan en la oscuridad emiten luz después de ser \"activados\" al romperse, lo que permite que dos sustancias químicas reaccionen. Este proceso se llama quimioluminiscencia. Dado que se emite energía luminosa durante esta reacción, ¿cómo clasificaría esta reacción?",
+      "fr": "Les colliers phosphorescents émettent de la lumière après avoir été \"activés\" en les cassant, ce qui permet à deux produits chimiques de réagir. Ce processus est appelé chimiluminescence. Étant donné que de l'énergie lumineuse est émise pendant cette réaction, comment classeriez-vous cette réaction ?",
+      "de": "Leuchtende Halsketten emittieren Licht, nachdem sie durch Knicken „aktiviert“ wurden, wodurch zwei Chemikalien reagieren können. Dieser Prozess wird Chemilumineszenz genannt. Angesichts der Tatsache, dass während dieser Reaktion Lichtenergie emittiert wird, wie würden Sie diese Reaktion klassifizieren?",
+      "ja": "暗闇で光るネックレスは、折ることで「活性化」された後に光を発します。これにより2つの化学物質が反応します。このプロセスは化学発光と呼ばれます。この反応中に光エネルギーが放出されることを考慮すると、この反応をどのように分類しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Endergonic, because it requires an initial \"activation\" (snapping).",
+          "zh": "吸能的，因为它需要初始的“激活”（折断）。",
+          "es": "Endergónica, porque requiere una \"activación\" inicial (romperse).",
+          "fr": "Endergonique, car elle nécessite une \"activation\" initiale (craquement).",
+          "de": "Endergonisch, weil sie eine anfängliche „Aktivierung“ (Knicken) erfordert.",
+          "ja": "吸エルゴン反応、なぜなら初期の「活性化」（折ること）が必要だからです。"
+        },
+        "feedback": {
+          "en": "The \"activation\" is a trigger that initiates the reaction, not an energy input that makes the overall reaction endergonic. The overall energy change determines exergonic/endergonic.",
+          "zh": "“激活”是引发反应的触发器，而不是使整个反应吸能的能量输入。总体的能量变化决定了反应是放能还是吸能。",
+          "es": "La \"activación\" es un disparador que inicia la reacción, no una entrada de energía que haga que la reacción general sea endergónica. El cambio de energía general determina si es exergónica o endergónica.",
+          "fr": "L'\"activation\" est un déclencheur qui initie la réaction, pas un apport d'énergie qui rendrait la réaction globale endergonique. Le changement énergétique global détermine si elle est exergonique ou endergonique.",
+          "de": "Die „Aktivierung“ ist ein Auslöser, der die Reaktion in Gang setzt, keine Energiezufuhr, die die Gesamtreaktion endergonisch macht. Die Gesamtenergieänderung bestimmt, ob sie exergonisch oder endergonisch ist.",
+          "ja": "「活性化」は反応を開始させるきっかけであり、反応全体を吸エルゴン反応にするためのエネルギー入力ではありません。全体的なエネルギー変化が発エルゴンか吸エルゴンかを決定します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Exergonic, because it releases free energy in the form of light.",
+          "zh": "放能的，因为它以光的形式释放自由能。",
+          "es": "Exergónica, porque libera energía libre en forma de luz.",
+          "fr": "Exergonique, car elle libère de l'énergie libre sous forme de lumière.",
+          "de": "Exergonisch, weil sie freie Energie in Form von Licht freisetzt.",
+          "ja": "発エルゴン反応、なぜなら光の形で自由エネルギーを放出するからです。"
+        },
+        "feedback": {
+          "en": "Correct. Reactions that release energy (like light or heat) are exergonic reactions, as they involve a decrease in free energy.",
+          "zh": "正确。释放能量（如光或热）的反应是放能反应，因为它们涉及自由能的减少。",
+          "es": "Correcto. Las reacciones que liberan energía (como luz o calor) son reacciones exergónicas, ya que implican una disminución de la energía libre.",
+          "fr": "Correct. Les réactions qui libèrent de l'énergie (comme la lumière ou la chaleur) sont des réactions exergoniques, car elles impliquent une diminution de l'énergie libre.",
+          "de": "Richtig. Reaktionen, die Energie (wie Licht oder Wärme) freisetzen, sind exergonische Reaktionen, da sie eine Abnahme der freien Energie beinhalten.",
+          "ja": "正解です。光や熱のようなエネルギーを放出する反応は、自由エネルギーが減少するため、発エルゴン反応です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both exergonic and endergonic, depending on the specific chemicals involved.",
+          "zh": "既是放能的又是吸能的，取决于所涉及的具体化学物质。",
+          "es": "Tanto exergónica como endergónica, dependiendo de los químicos específicos involucrados.",
+          "fr": "À la fois exergonique et endergonique, selon les produits chimiques spécifiques impliqués.",
+          "de": "Sowohl exergonisch als auch endergonisch, abhängig von den beteiligten Chemikalien.",
+          "ja": "関与する特定の化学物質に応じて、発エルゴン反応と吸エルゴン反応の両方。"
+        },
+        "feedback": {
+          "en": "A single net reaction is either exergonic (releases energy) or endergonic (requires energy), not both simultaneously in its overall outcome.",
+          "zh": "一个单一的净反应要么是放能的（释放能量），要么是吸能的（需要能量），其总体结果不会同时是两者。",
+          "es": "Una reacción neta única es exergónica (libera energía) o endergónica (requiere energía), no ambas simultáneamente en su resultado general.",
+          "fr": "Une seule réaction nette est soit exergonique (libère de l'énergie), soit endergonique (nécessite de l'énergie), mais pas les deux simultanément dans son résultat global.",
+          "de": "Eine einzelne Nettoreaktion ist entweder exergonisch (setzt Energie frei) oder endergonisch (erfordert Energie), nicht beides gleichzeitig in ihrem Gesamtergebnis.",
+          "ja": "単一の正味反応は、発エルゴン反応（エネルギーを放出する）か、吸エルゴン反応（エネルギーを必要とする）のどちらかであり、全体として同時に両方であることはありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Neither, as light emission is not directly related to free energy changes.",
+          "zh": "都不是，因为发光与自由能变化没有直接关系。",
+          "es": "Ninguna de las dos, ya que la emisión de luz no está directamente relacionada con los cambios de energía libre.",
+          "fr": "Aucune des deux, car l'émission de lumière n'est pas directement liée aux changements d'énergie libre.",
+          "de": "Keines von beidem, da die Lichtemission nicht direkt mit freien Energieänderungen zusammenhängt.",
+          "ja": "どちらでもない、なぜなら光の放出は自由エネルギー変化と直接関係がないからです。"
+        },
+        "feedback": {
+          "en": "Light emission is a form of energy release, which directly indicates a decrease in free energy, characteristic of an exergonic reaction.",
+          "zh": "发光是能量释放的一种形式，它直接表明自由能减少，这是放能反应的特征。",
+          "es": "La emisión de luz es una forma de liberación de energía, lo que indica directamente una disminución de la energía libre, característica de una reacción exergónica.",
+          "fr": "L'émission de lumière est une forme de libération d'énergie, ce qui indique directement une diminution de l'énergie libre, caractéristique d'une réaction exergonique.",
+          "de": "Lichtemission ist eine Form der Energiefreisetzung, die direkt eine Abnahme der freien Energie anzeigt, was für eine exergonische Reaktion charakteristisch ist.",
+          "ja": "光の放出はエネルギー放出の一形態であり、自由エネルギーの減少を直接的に示しています。これは発エルゴン反応の特徴です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Chemiluminescence is a process where a chemical reaction emits light. The emission of light is a form of energy release. Reactions that release free energy are defined as exergonic. Therefore, the chemiluminescent reaction is exergonic, as it involves a net decrease in free energy.",
+      "zh": "化学发光是化学反应发光的过程。光的发射是能量释放的一种形式。释放自由能的反应被定义为放能反应。因此，化学发光反应是放能的，因为它涉及自由能的净减少。",
+      "es": "La quimioluminiscencia es un proceso en el que una reacción química emite luz. La emisión de luz es una forma de liberación de energía. Las reacciones que liberan energía libre se definen como exergónicas. Por lo tanto, la reacción quimioluminiscente es exergónica, ya que implica una disminución neta de la energía libre.",
+      "fr": "La chimiluminescence est un processus où une réaction chimique émet de la lumière. L'émission de lumière est une forme de libération d'énergie. Les réactions qui libèrent de l'énergie libre sont définies comme exergoniques. Par conséquent, la réaction chimiluminescente est exergonique, car elle implique une diminution nette de l'énergie libre.",
+      "de": "Chemilumineszenz ist ein Prozess, bei dem eine chemische Reaktion Licht emittiert. Die Emission von Licht ist eine Form der Energiefreisetzung. Reaktionen, die freie Energie freisetzen, werden als exergonisch definiert. Daher ist die chemilumineszente Reaktion exergonisch, da sie eine Nettoabnahme der freien Energie beinhaltet.",
+      "ja": "化学発光は、化学反応が光を放出するプロセスです。光の放出はエネルギー放出の一形態です。自由エネルギーを放出する反応は発エルゴン反応と定義されます。したがって、化学発光反応は自由エネルギーの正味減少を伴うため、発エルゴン反応です。"
+    }
+  },
+  {
+    "page_number": 199,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A cell performs three main kinds of work, each powered by energy coupling, primarily through ATP. Which of the following examples correctly matches the type of cellular work with its description? Select all that apply.",
+      "zh": "细胞进行三种主要的工作，每种工作都由能量偶联（主要通过ATP）提供动力。以下哪个例子正确地将细胞工作的类型与其描述相匹配？选择所有符合的选项。",
+      "es": "Una célula realiza tres tipos principales de trabajo, cada uno impulsado por el acoplamiento energético, principalmente a través del ATP. ¿Cuál de los siguientes ejemplos relaciona correctamente el tipo de trabajo celular con su descripción? Selecciona todas las que apliquen.",
+      "fr": "Une cellule effectue trois types principaux de travail, chacun étant alimenté par le couplage énergétique, principalement via l'ATP. Lequel des exemples suivants correspond correctement au type de travail cellulaire avec sa description ? Sélectionnez toutes les réponses applicables.",
+      "de": "Eine Zelle führt drei Hauptarten von Arbeit aus, die jeweils durch Energiekopplung, hauptsächlich über ATP, angetrieben werden. Welches der folgenden Beispiele ordnet die Art der Zellarbeit ihrer Beschreibung korrekt zu? Wählen Sie alle zutreffenden Optionen.",
+      "ja": "細胞は主にATPを介したエネルギー共役によって駆動される3種類の主要な仕事を果たします。以下の例のうち、細胞の仕事の種類とその説明が正しく一致しているものはどれですか？該当するものをすべて選択してください。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Chemical work: synthesis of polymers from monomers.",
+          "zh": "化学功：单体合成聚合物。",
+          "es": "Trabajo químico: síntesis de polímeros a partir de monómeros.",
+          "fr": "Travail chimique : synthèse de polymères à partir de monomères.",
+          "de": "Chemische Arbeit: Synthese von Polymeren aus Monomeren.",
+          "ja": "化学的仕事：モノマーからのポリマー合成。"
+        },
+        "feedback": {
+          "en": "Correct. This is explicitly stated as an example of chemical work, which involves pushing endergonic reactions.",
+          "zh": "正确。这明确指出是化学功的一个例子，涉及推动吸能反应。",
+          "es": "Correcto. Esto se indica explícitamente como un ejemplo de trabajo químico, que implica impulsar reacciones endergónicas.",
+          "fr": "Correct. Ceci est explicitement indiqué comme un exemple de travail chimique, qui implique de pousser des réactions endergoniques.",
+          "de": "Richtig. Dies ist ausdrücklich als Beispiel für chemische Arbeit genannt, die das Antreiben endergonischer Reaktionen beinhaltet.",
+          "ja": "正解です。これは、吸エルゴン反応を促進する化学的仕事の例として明示されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Transport work: pumping substances across membranes against their spontaneous movement.",
+          "zh": "运输功：逆着物质自发运动方向跨膜泵送物质。",
+          "es": "Trabajo de transporte: bombeo de sustancias a través de las membranas en contra de su movimiento espontáneo.",
+          "fr": "Travail de transport : pompage de substances à travers les membranes contre leur mouvement spontané.",
+          "de": "Transportarbeit: Pumpen von Substanzen durch Membranen gegen deren spontane Bewegung.",
+          "ja": "輸送的仕事：物質の自発的な移動に逆らって膜を越えて物質をポンプ輸送すること。"
+        },
+        "feedback": {
+          "en": "Correct. This is the definition of transport work, which requires energy to move substances against their concentration or electrochemical gradients.",
+          "zh": "正确。这是运输功的定义，需要能量来逆着浓度或电化学梯度运输物质。",
+          "es": "Correcto. Esta es la definición de trabajo de transporte, que requiere energía para mover sustancias en contra de sus gradientes de concentración o electroquímicos.",
+          "fr": "Correct. C'est la définition du travail de transport, qui nécessite de l'énergie pour déplacer des substances contre leur gradient de concentration ou électrochimique.",
+          "de": "Richtig. Dies ist die Definition von Transportarbeit, die Energie benötigt, um Substanzen entgegen ihres Konzentrations- oder elektrochemischen Gradienten zu bewegen.",
+          "ja": "正解です。これは輸送的仕事の定義であり、物質を濃度勾配や電気化学的勾配に逆らって移動させるためにエネルギーを必要とします。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Mechanical work: contraction of muscle cells.",
+          "zh": "机械功：肌肉细胞的收缩。",
+          "es": "Trabajo mecánico: contracción de las células musculares.",
+          "fr": "Travail mécanique : contraction des cellules musculaires.",
+          "de": "Mechanische Arbeit: Kontraktion von Muskelzellen.",
+          "ja": "機械的仕事：筋細胞の収縮。"
+        },
+        "feedback": {
+          "en": "Correct. Muscle contraction and the beating of cilia are examples of mechanical work, involving cellular movement.",
+          "zh": "正确。肌肉收缩和纤毛摆动是机械功的例子，涉及细胞运动。",
+          "es": "Correcto. La contracción muscular y el batido de los cilios son ejemplos de trabajo mecánico, que implican el movimiento celular.",
+          "fr": "Correct. La contraction musculaire et le battement des cils sont des exemples de travail mécanique, impliquant le mouvement cellulaire.",
+          "de": "Richtig. Muskelkontraktion und der Schlag von Zilien sind Beispiele für mechanische Arbeit, die Zellbewegung beinhalten.",
+          "ja": "正解です。筋収縮や繊毛の拍動は、細胞の動きを伴う機械的仕事の例です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Transport work: movement of chromosomes during cellular reproduction.",
+          "zh": "运输功：细胞生殖过程中染色体的运动。",
+          "es": "Trabajo de transporte: movimiento de cromosomas durante la reproducción celular.",
+          "fr": "Travail de transport : mouvement des chromosomes pendant la reproduction cellulaire.",
+          "de": "Transportarbeit: Bewegung von Chromosomen während der Zellreproduktion.",
+          "ja": "輸送的仕事：細胞増殖中の染色体の動き。"
+        },
+        "feedback": {
+          "en": "The movement of chromosomes during cellular reproduction is listed as an example of mechanical work, not transport work.",
+          "zh": "细胞生殖过程中染色体的运动被列为机械功的例子，而不是运输功。",
+          "es": "El movimiento de los cromosomas durante la reproducción celular se enumera como un ejemplo de trabajo mecánico, no de trabajo de transporte.",
+          "fr": "Le mouvement des chromosomes pendant la reproduction cellulaire est répertorié comme un exemple de travail mécanique, et non de travail de transport.",
+          "de": "Die Bewegung von Chromosomen während der Zellreproduktion wird als Beispiel für mechanische Arbeit aufgeführt, nicht für Transportarbeit.",
+          "ja": "細胞増殖中の染色体の動きは、輸送的仕事ではなく、機械的仕事の例として挙げられています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": {
+      "en": "The text defines three types of cellular work: Chemical work involves pushing endergonic reactions (like polymer synthesis). Transport work involves pumping substances across membranes against their spontaneous movement. Mechanical work involves physical movement, such as muscle contraction, cilia beating, and chromosome movement during cell reproduction. Option D incorrectly categorizes chromosome movement as transport work when it is mechanical work.",
+      "zh": "文本定义了三种细胞功：化学功涉及推动吸能反应（如聚合物合成）。运输功涉及逆着物质自发运动方向跨膜泵送物质。机械功涉及物理运动，例如肌肉收缩、纤毛摆动和细胞生殖过程中染色体的运动。选项D错误地将染色体运动归类为运输功，而它实际上是机械功。",
+      "es": "El texto define tres tipos de trabajo celular: El trabajo químico implica impulsar reacciones endergónicas (como la síntesis de polímeros). El trabajo de transporte implica bombear sustancias a través de las membranas en contra de su movimiento espontáneo. El trabajo mecánico implica movimiento físico, como la contracción muscular, el batido de los cilios y el movimiento de los cromosomas durante la reproducción celular. La opción D clasifica incorrectamente el movimiento de los cromosomas como trabajo de transporte cuando es trabajo mecánico.",
+      "fr": "Le texte définit trois types de travail cellulaire : Le travail chimique implique de pousser des réactions endergoniques (comme la synthèse de polymères). Le travail de transport implique le pompage de substances à travers les membranes contre leur mouvement spontané. Le travail mécanique implique un mouvement physique, tel que la contraction musculaire, le battement des cils et le mouvement des chromosomes pendant la reproduction cellulaire. L'option D classe incorrectement le mouvement des chromosomes comme travail de transport alors qu'il s'agit de travail mécanique.",
+      "de": "Der Text definiert drei Arten zellulärer Arbeit: Chemische Arbeit umfasst das Antreiben endergonischer Reaktionen (wie die Polymersynthese). Transportarbeit beinhaltet das Pumpen von Substanzen durch Membranen entgegen ihrer spontanen Bewegung. Mechanische Arbeit umfasst physikalische Bewegung, wie Muskelkontraktion, Zilienschlag und Chromosomenbewegung während der Zellreproduktion. Option D kategorisiert die Chromosomenbewegung fälschlicherweise als Transportarbeit, obwohl es mechanische Arbeit ist.",
+      "ja": "本文では、細胞の仕事として3つのタイプが定義されています。化学的仕事は、吸エルゴン反応（ポリマー合成など）を促進することを含みます。輸送的仕事は、物質の自発的な移動に逆らって膜を越えて物質をポンプ輸送することを含みます。機械的仕事は、筋収縮、繊毛の拍動、細胞増殖中の染色体の動きなど、物理的な動きを含みます。選択肢Dは、染色体の動きを輸送的仕事として誤って分類していますが、それは機械的仕事です。"
+    }
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What is the primary reason for X chromosome inactivation in female mammals?",
+      "zh": "雌性哺乳动物中 X 染色体失活的主要原因是什么？",
+      "es": "¿Cuál es la razón principal de la inactivación del cromosoma X en las hembras de los mamíferos?",
+      "fr": "Quelle est la principale raison de l'inactivation du chromosome X chez les mammifères femelles ?",
+      "de": "Was ist der Hauptgrund für die X-Chromosomen-Inaktivierung bei weiblichen Säugetieren?",
+      "ja": "雌の哺乳類におけるX染色体不活性化の主な理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "To prevent the expression of harmful Y-linked genes.",
+          "zh": "为了阻止有害的 Y 连锁基因的表达。",
+          "es": "Para prevenir la expresión de genes dañinos ligados al cromosoma Y.",
+          "fr": "Pour empêcher l'expression de gènes nocifs liés à l'Y.",
+          "de": "Um die Expression schädlicher Y-chromosomaler Gene zu verhindern.",
+          "ja": "有害なY連鎖遺伝子の発現を防ぐため。"
+        },
+        "feedback": {
+          "en": "X inactivation occurs in females (XX), who do not have a Y chromosome.",
+          "zh": "X 染色体失活发生在没有 Y 染色体的雌性（XX）中。",
+          "es": "La inactivación del cromosoma X ocurre en las hembras (XX), que no tienen un cromosoma Y.",
+          "fr": "L'inactivation du chromosome X se produit chez les femelles (XX), qui n'ont pas de chromosome Y.",
+          "de": "Die X-Inaktivierung findet bei Weibchen (XX) statt, die kein Y-Chromosom haben.",
+          "ja": "X染色体の不活性化は、Y染色体を持たない女性（XX）で起こります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "To ensure that females and males have the same effective dose of most X-linked genes.",
+          "zh": "为了确保雌性和雄性拥有相同有效剂量的 X 连锁基因。",
+          "es": "Para asegurar que las hembras y los machos tengan la misma dosis efectiva de la mayoría de los genes ligados al cromosoma X.",
+          "fr": "Pour s'assurer que les femelles et les mâles ont la même dose efficace de la plupart des gènes liés à l'X.",
+          "de": "Um sicherzustellen, dass Weibchen und Männchen die gleiche effektive Dosis der meisten X-chromosomalen Gene haben.",
+          "ja": "女性と男性がほとんどのX連鎖遺伝子の同じ有効量を持つようにするため。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "To allow for the expression of different alleles in different cells, creating mosaicism.",
+          "zh": "为了允许不同细胞中不同等位基因的表达，从而产生镶嵌现象。",
+          "es": "Para permitir la expresión de diferentes alelos en diferentes células, creando mosaicismo.",
+          "fr": "Pour permettre l'expression de différents allèles dans différentes cellules, créant ainsi un mosaïcisme.",
+          "de": "Um die Expression verschiedener Allele in verschiedenen Zellen zu ermöglichen und so einen Mosaizismus zu schaffen.",
+          "ja": "異なる細胞で異なる対立遺伝子の発現を可能にし、モザイク現象を生み出すため。"
+        },
+        "feedback": {
+          "en": "Mosaicism is a consequence of X inactivation, not its primary purpose. The purpose is dose compensation.",
+          "zh": "镶嵌现象是 X 染色体失活的结果，而不是其主要目的。其目的是剂量补偿。",
+          "es": "El mosaicismo es una consecuencia de la inactivación del cromosoma X, no su propósito principal. El propósito es la compensación de dosis.",
+          "fr": "Le mosaïcisme est une conséquence de l'inactivation du chromosome X, et non son objectif principal. Le but est la compensation de dose.",
+          "de": "Mosaizismus ist eine Folge der X-Inaktivierung, nicht ihr Hauptzweck. Der Zweck ist die Dosiskompensation.",
+          "ja": "モザイク現象はX染色体不活性化の結果であり、その主な目的ではありません。目的は線量補償です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "To create a Barr body, which is necessary for meiosis in females.",
+          "zh": "为了形成巴氏小体，这对于雌性的减数分裂是必需的。",
+          "es": "Para crear un cuerpo de Barr, que es necesario para la meiosis en las hembras.",
+          "fr": "Pour créer un corpuscule de Barr, qui est nécessaire à la méiose chez les femelles.",
+          "de": "Um einen Barr-Körper zu schaffen, der für die Meiose bei Weibchen notwendig ist.",
+          "ja": "女性の減数分裂に必要なバー小体を作成するため。"
+        },
+        "feedback": {
+          "en": "The Barr body is the inactive X chromosome itself. The text states that Barr bodies are reactivated in the cells that give rise to eggs, so every egg has an active X.",
+          "zh": "巴氏小体就是失活的 X 染色体本身。文本指出，巴氏小体在形成卵细胞的细胞中会重新激活，因此每个卵细胞都有一个活性的 X 染色体。",
+          "es": "El cuerpo de Barr es el propio cromosoma X inactivo. El texto indica que los cuerpos de Barr se reactivan en las células que dan lugar a los óvulos, por lo que cada óvulo tiene un cromosoma X activo.",
+          "fr": "Le corpuscule de Barr est le chromosome X inactif lui-même. Le texte indique que les corpuscules de Barr sont réactivés dans les cellules qui donnent naissance aux ovules, de sorte que chaque ovule possède un chromosome X actif.",
+          "de": "Der Barr-Körper ist das inaktive X-Chromosom selbst. Der Text besagt, dass Barr-Körper in den Zellen, die Eizellen hervorbringen, reaktiviert werden, sodass jede Eizelle ein aktives X hat.",
+          "ja": "バー小体は不活性なX染色体そのものです。本文では、バー小体は卵子を生み出す細胞で再活性化され、すべての卵子が活性なX染色体を持つと述べられています。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "This concept is known as dose compensation. The text explains that since females (XX) have twice the number of X chromosomes as males (XY), almost all of one X chromosome is inactivated so that 'the cells of females and males have the same effective dose (one active copy) of most X-linked genes.'",
+      "zh": "这个概念被称为剂量补偿。文本解释说，由于雌性（XX）的 X 染色体数量是雄性（XY）的两倍，因此一条 X 染色体几乎全部失活，以便“雌性和雄性的细胞拥有相同有效剂量（一个活性副本）的大多数 X 连锁基因”。",
+      "es": "Este concepto se conoce como compensación de dosis. El texto explica que, dado que las hembras (XX) tienen el doble de cromosomas X que los machos (XY), casi todo un cromosoma X se inactiva para que 'las células de las hembras y los machos tengan la misma dosis efectiva (una copia activa) de la mayoría de los genes ligados al cromosoma X'.",
+      "fr": "Ce concept est connu sous le nom de compensation de dose. Le texte explique que, comme les femelles (XX) ont deux fois plus de chromosomes X que les mâles (XY), la quasi-totalité d'un chromosome X est inactivée afin que « les cellules des femelles et des mâles aient la même dose efficace (une copie active) de la plupart des gènes liés à l'X ».",
+      "de": "Dieses Konzept ist als Dosiskompensation bekannt. Der Text erklärt, dass, da Weibchen (XX) doppelt so viele X-Chromosomen haben wie Männchen (XY), fast das gesamte eine X-Chromosom inaktiviert wird, damit „die Zellen von Weibchen und Männchen die gleiche effektive Dosis (eine aktive Kopie) der meisten X-chromosomalen Gene haben.“",
+      "ja": "この概念は線量補償として知られています。本文では、女性（XX）は男性（XY）の2倍のX染色体を持っているため、ほとんどのX連鎖遺伝子の「女性と男性の細胞が同じ有効量（1つの活性コピー）を持つ」ように、1つのX染色体のほぼすべてが不活性化されると説明されています。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Why are tortoiseshell cats almost always female?",
+      "zh": "为什么三花猫几乎总是雌性？",
+      "es": "¿Por qué los gatos carey son casi siempre hembras?",
+      "fr": "Pourquoi les chattes écaille de tortue sont-elles presque toujours des femelles ?",
+      "de": "Warum sind Schildpattkatzen fast immer weiblich?",
+      "ja": "なぜサビ猫はほとんど常にメスなのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The gene for coat color is on the Y chromosome.",
+          "zh": "控制毛色的基因位于 Y 染色体上。",
+          "es": "El gen del color del pelaje está en el cromosoma Y.",
+          "fr": "Le gène de la couleur du pelage se trouve sur le chromosome Y.",
+          "de": "Das Gen für die Fellfarbe liegt auf dem Y-Chromosom.",
+          "ja": "被毛の色を決定する遺伝子はY染色体上にあります。"
+        },
+        "feedback": {
+          "en": "Figure 15.8 explicitly states the tortoiseshell gene is on the X chromosome.",
+          "zh": "图 15.8 明确指出三花猫的基因位于 X 染色体上。",
+          "es": "La Figura 15.8 establece explícitamente que el gen carey está en el cromosoma X.",
+          "fr": "La figure 15.8 indique explicitement que le gène écaille de tortue se trouve sur le chromosome X.",
+          "de": "Abbildung 15.8 besagt ausdrücklich, dass das Schildpatt-Gen auf dem X-Chromosom liegt.",
+          "ja": "図15.8は、サビ猫の遺伝子がX染色体上にあることを明確に述べています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The tortoiseshell phenotype requires being heterozygous for an X-linked gene, which is only possible in XX females.",
+          "zh": "三花猫的表型要求一个 X 连锁基因为杂合状态，这只有在 XX 雌性中才可能。",
+          "es": "El fenotipo carey requiere ser heterocigoto para un gen ligado al cromosoma X, lo que solo es posible en las hembras XX.",
+          "fr": "Le phénotype écaille de tortue nécessite d'être hétérozygote pour un gène lié à l'X, ce qui n'est possible que chez les femelles XX.",
+          "de": "Der Schildpatt-Phänotyp erfordert, dass man für ein X-chromosomales Gen heterozygot ist, was nur bei XX-Weibchen möglich ist.",
+          "ja": "サビ猫の表現型は、X連鎖遺伝子についてヘテロ接合であることが必要であり、これはXXのメスでのみ可能です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Male cats with both black and orange fur are sterile.",
+          "zh": "同时具有黑色和橘色毛的雄猫是不育的。",
+          "es": "Los gatos machos con pelaje negro y naranja son estériles.",
+          "fr": "Les chats mâles au pelage noir et orange sont stériles.",
+          "de": "Männliche Katzen mit schwarzem und orangefarbenem Fell sind steril.",
+          "ja": "黒とオレンジの両方の毛を持つ雄猫は不妊です。"
+        },
+        "feedback": {
+          "en": "While rare male tortoiseshells (e.g., XXY) are often sterile, this doesn't explain why the phenotype is rare in males in the first place.",
+          "zh": "虽然罕见的雄性三花猫（例如 XXY）通常是不育的，但这并不能解释为什么这种表型首先在雄性中就很少见。",
+          "es": "Si bien los raros machos carey (p. ej., XXY) suelen ser estériles, esto no explica por qué el fenotipo es raro en los machos en primer lugar.",
+          "fr": "Bien que les rares mâles écaille de tortue (par exemple, XXY) soient souvent stériles, cela n'explique pas pourquoi le phénotype est rare chez les mâles en premier lieu.",
+          "de": "Obwohl seltene männliche Schildpattkatzen (z. B. XXY) oft steril sind, erklärt dies nicht, warum der Phänotyp bei Männchen überhaupt selten ist.",
+          "ja": "まれな雄のサビ猫（例：XXY）はしばしば不妊ですが、これはそもそもなぜ雄でその表現型がまれなのかを説明するものではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The orange fur allele is lethal in males.",
+          "zh": "橘色毛等位基因在雄性中是致死的。",
+          "es": "El alelo del pelaje naranja es letal en los machos.",
+          "fr": "L'allèle de la fourrure orange est létal chez les mâles.",
+          "de": "Das Allel für orangefarbenes Fell ist bei Männchen tödlich.",
+          "ja": "オレンジ色の毛の対立遺伝子はオスでは致死です。"
+        },
+        "feedback": {
+          "en": "This is incorrect. Male cats can be orange (genotype XOY). The tortoiseshell pattern is about having both alleles present.",
+          "zh": "这是不正确的。雄猫可以是橘色的（基因型 XOY）。三花猫图案的关键在于同时存在两种等位基因。",
+          "es": "Esto es incorrecto. Los gatos machos pueden ser naranjas (genotipo XOY). El patrón carey se trata de tener ambos alelos presentes.",
+          "fr": "C'est incorrect. Les chats mâles peuvent être orange (génotype XOY). Le motif écaille de tortue consiste à avoir les deux allèles présents.",
+          "de": "Das ist falsch. Männliche Katzen können orange sein (Genotyp XOY). Beim Schildpattmuster geht es darum, dass beide Allele vorhanden sind.",
+          "ja": "これは正しくありません。雄猫はオレンジ色になることができます（遺伝子型XOY）。サビ猫の模様は、両方の対立遺伝子が存在することに関するものです。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "As explained in Figure 15.8, the tortoiseshell phenotype requires the presence of two different alleles for coat color (one for orange, one for black) on the X chromosome. Since males are XY, they normally only have one X chromosome and thus can only have one of these alleles (being either all black or all orange). Only females (XX) can have two different alleles and be heterozygous. The patchy pattern then results from random X inactivation in different cell populations.",
+      "zh": "如图 15.8 所解释，三花猫的表型需要在 X 染色体上同时存在两种不同的毛色等位基因（一个控制橘色，一个控制黑色）。由于雄性是 XY，他们通常只有一个 X 染色体，因此只能拥有其中一个等位基因（要么是全黑，要么是全橘）。只有雌性（XX）才能拥有两个不同的等位基因并且是杂合的。然后，斑块状的图案是由不同细胞群中随机的 X 染色体失活造成的。",
+      "es": "Como se explica en la Figura 15.8, el fenotipo carey requiere la presencia de dos alelos diferentes para el color del pelaje (uno para el naranja, otro para el negro) en el cromosoma X. Dado que los machos son XY, normalmente solo tienen un cromosoma X y, por lo tanto, solo pueden tener uno de estos alelos (siendo todo negro o todo naranja). Solo las hembras (XX) pueden tener dos alelos diferentes y ser heterocigotas. El patrón de parches resulta entonces de la inactivación aleatoria de X en diferentes poblaciones de células.",
+      "fr": "Comme expliqué dans la figure 15.8, le phénotype écaille de tortue nécessite la présence de deux allèles différents pour la couleur du pelage (un pour l'orange, un pour le noir) sur le chromosome X. Comme les mâles sont XY, ils n'ont normalement qu'un seul chromosome X et ne peuvent donc avoir qu'un seul de ces allèles (étant soit tout noir, soit tout orange). Seules les femelles (XX) peuvent avoir deux allèles différents et être hétérozygotes. Le motif en taches résulte alors de l'inactivation aléatoire de l'X dans différentes populations de cellules.",
+      "de": "Wie in Abbildung 15.8 erklärt, erfordert der Schildpatt-Phänotyp das Vorhandensein von zwei verschiedenen Allelen für die Fellfarbe (eines für Orange, eines für Schwarz) auf dem X-Chromosom. Da Männchen XY sind, haben sie normalerweise nur ein X-Chromosom und können daher nur eines dieser Allele haben (entweder ganz schwarz oder ganz orange). Nur Weibchen (XX) können zwei verschiedene Allele haben und heterozygot sein. Das fleckige Muster resultiert dann aus der zufälligen X-Inaktivierung in verschiedenen Zellpopulationen.",
+      "ja": "図15.8で説明されているように、サビ猫の表現型には、X染色体上に2つの異なる毛色の対立遺伝子（1つはオレンジ色、もう1つは黒色）が存在する必要があります。オスはXYであるため、通常はX染色体を1つしか持たず、したがってこれらの対立遺伝子のうち1つしか持つことができません（すべて黒色またはすべてオレンジ色）。メス（XX）だけが2つの異なる対立遺伝子を持ち、ヘテロ接合になることができます。まだら模様は、異なる細胞集団におけるランダムなX不活性化の結果として生じます。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A white-eyed female Drosophila is mated with a red-eyed (wild-type) male. What are the expected phenotypes of their offspring?",
+      "zh": "一只白眼雌性果蝇与一只红眼（野生型）雄性果蝇交配。他们的后代预期会有哪些表型？",
+      "es": "Se aparea una hembra de Drosophila de ojos blancos con un macho de ojos rojos (tipo salvaje). ¿Cuáles son los fenotipos esperados de su descendencia?",
+      "fr": "Une drosophile femelle aux yeux blancs est accouplée avec un mâle aux yeux rouges (type sauvage). Quels sont les phénotypes attendus de leur progéniture ?",
+      "de": "Ein weißäugiges Drosophila-Weibchen wird mit einem rotäugigen (Wildtyp-)Männchen gekreuzt. Was sind die erwarteten Phänotypen ihrer Nachkommen?",
+      "ja": "白眼のメスのショウジョウバエを赤眼（野生型）のオスと交配させます。彼らの子孫の予想される表現型は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "All offspring will have red eyes.",
+          "zh": "所有后代都将是红眼。",
+          "es": "Toda la descendencia tendrá los ojos rojos.",
+          "es": "Toda la descendencia tendrá los ojos rojos.",
+          "fr": "Toute la progéniture aura les yeux rouges.",
+          "de": "Alle Nachkommen werden rote Augen haben.",
+          "ja": "すべての子孫は赤い目をしています。"
+        },
+        "feedback": {
+          "en": "This is incorrect. Consider what chromosome the sons inherit from their white-eyed mother.",
+          "zh": "这是不正确的。想一想儿子们从他们白眼的母亲那里遗传了哪条染色体。",
+          "es": "Esto es incorrecto. Considere qué cromosoma heredan los hijos de su madre de ojos blancos.",
+          "fr": "C'est incorrect. Considérez quel chromosome les fils héritent de leur mère aux yeux blancs.",
+          "de": "Das ist falsch. Bedenken Sie, welches Chromosom die Söhne von ihrer weißäugigen Mutter erben.",
+          "ja": "これは正しくありません。息子たちが白眼の母親からどの染色体を受け継ぐか考えてみてください。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "All offspring will have white eyes.",
+          "zh": "所有后代都将是白眼。",
+          "es": "Toda la descendencia tendrá los ojos blancos.",
+          "fr": "Toute la progéniture aura les yeux blancs.",
+          "de": "Alle Nachkommen werden weiße Augen haben.",
+          "ja": "すべての子孫は白い目をしています。"
+        },
+        "feedback": {
+          "en": "This is incorrect. Consider what chromosome the daughters inherit from their red-eyed father.",
+          "zh": "这是不正确的。想一想女儿们从她们红眼的父亲那里遗传了哪条染色体。",
+          "es": "Esto es incorrecto. Considere qué cromosoma heredan las hijas de su padre de ojos rojos.",
+          "fr": "C'est incorrect. Considérez quel chromosome les filles héritent de leur père aux yeux rouges.",
+          "de": "Das ist falsch. Bedenken Sie, welches Chromosom die Töchter von ihrem rotäugigen Vater erben.",
+          "ja": "これは正しくありません。娘たちが赤眼の父親からどの染色体を受け継ぐか考えてみてください。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "All females will have red eyes, and all males will have white eyes.",
+          "zh": "所有雌性都将是红眼，所有雄性都将是白眼。",
+          "es": "Todas las hembras tendrán los ojos rojos y todos los machos tendrán los ojos blancos.",
+          "fr": "Toutes les femelles auront les yeux rouges et tous les mâles auront les yeux blancs.",
+          "de": "Alle Weibchen werden rote Augen haben, und alle Männchen werden weiße Augen haben.",
+          "ja": "すべてのメスは赤い目を持ち、すべてのオスは白い目を持ちます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All females will have white eyes, and all males will have red eyes.",
+          "zh": "所有雌性都将是白眼，所有雄性都将是红眼。",
+          "es": "Todas las hembras tendrán los ojos blancos y todos los machos tendrán los ojos rojos.",
+          "fr": "Toutes les femelles auront les yeux blancs et tous les mâles auront les yeux rouges.",
+          "de": "Alle Weibchen werden weiße Augen haben, und alle Männchen werden rote Augen haben.",
+          "ja": "すべてのメスは白い目を持ち、すべてのオスは赤い目を持ちます。"
+        },
+        "feedback": {
+          "en": "This is the reverse of the correct outcome. Remember that daughters get an X from the father, and sons get an X from the mother.",
+          "zh": "这与正确的结果相反。请记住，女儿从父亲那里得到一条 X 染色体，儿子从母亲那里得到一条 X 染色体。",
+          "es": "Este es el reverso del resultado correcto. Recuerde que las hijas obtienen un cromosoma X del padre y los hijos obtienen un cromosoma X de la madre.",
+          "fr": "C'est l'inverse du résultat correct. N'oubliez pas que les filles reçoivent un chromosome X du père et les fils un chromosome X de la mère.",
+          "de": "Dies ist das Gegenteil des korrekten Ergebnisses. Denken Sie daran, dass Töchter ein X-Chromosom vom Vater und Söhne ein X-Chromosom von der Mutter erhalten.",
+          "ja": "これは正しい結果の逆です。娘は父親からX染色体を受け取り、息子は母親からX染色体を受け取ることを忘れないでください。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "This is the reciprocal cross to Morgan's original experiment. The female's genotype is XwXw and the male's is Xw+Y. All daughters inherit one Xw from their mother and the Xw+ from their father, making them Xw+Xw (red-eyed carriers). All sons inherit one Xw from their mother and the Y from their father, making them XwY (white-eyed).",
+      "zh": "这是摩尔根原始实验的反交。雌性的基因型是 XwXw，雄性是 Xw+Y。所有女儿都从母亲那里遗传一条 Xw，从父亲那里遗传 Xw+，使她们的基因型为 Xw+Xw（红眼携带者）。所有儿子都从母亲那里遗传一条 Xw，从父亲那里遗传 Y，使他们的基因型为 XwY（白眼）。",
+      "es": "Este es el cruce recíproco al experimento original de Morgan. El genotipo de la hembra es XwXw y el del macho es Xw+Y. Todas las hijas heredan un Xw de su madre y el Xw+ de su padre, lo que las convierte en Xw+Xw (portadoras de ojos rojos). Todos los hijos heredan un Xw de su madre y el Y de su padre, lo que los convierte en XwY (ojos blancos).",
+      "fr": "C'est le croisement réciproque de l'expérience originale de Morgan. Le génotype de la femelle est XwXw et celui du mâle est Xw+Y. Toutes les filles héritent d'un Xw de leur mère et du Xw+ de leur père, ce qui les rend Xw+Xw (porteuses aux yeux rouges). Tous les fils héritent d'un Xw de leur mère et du Y de leur père, ce qui les rend XwY (yeux blancs).",
+      "de": "Dies ist die reziproke Kreuzung zu Morgans ursprünglichem Experiment. Der Genotyp des Weibchens ist XwXw und der des Männchens ist Xw+Y. Alle Töchter erben ein Xw von ihrer Mutter und das Xw+ von ihrem Vater, was sie zu Xw+Xw macht (rotäugige Trägerinnen). Alle Söhne erben ein Xw von ihrer Mutter und das Y von ihrem Vater, was sie zu XwY macht (weißäugig).",
+      "ja": "これはモーガンの元の実験の相互交配です。メスの遺伝子型はXwXwで、オスはXw+Yです。すべての娘は母親からXwを1つ、父親からXw+を1つ受け継ぎ、Xw+Xw（赤眼の保因者）になります。すべての息子は母親からXwを1つ、父親からYを1つ受け継ぎ、XwY（白眼）になります。"
+    }
+  }
+]

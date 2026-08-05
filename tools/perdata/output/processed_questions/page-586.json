@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 586,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 25.14, how many speciation and extinction events occurred for Lineage A and Lineage B, respectively, during the period from 2 million years ago to time 0?",
+      "zh": "根据图 25.14，在从 200 万年前到时间 0 的这段时期，谱系 A 和谱系 B 分别发生了多少次物种形成事件和灭绝事件？",
+      "es": "Según la Figura 25.14, ¿cuántos eventos de especiación y extinción ocurrieron para el Linaje A y el Linaje B, respectivamente, durante el período desde hace 2 millones de años hasta el tiempo 0?",
+      "fr": "D'après la Figure 25.14, combien d'événements de spéciation et d'extinction se sont produits respectivement pour la Lignée A et la Lignée B, durant la période allant de 2 millions d'années à l'instant 0?",
+      "de": "Basierend auf Abbildung 25.14, wie viele Speziations- und Aussterbeereignisse traten jeweils für Linie A und Linie B in der Zeitspanne von vor 2 Millionen Jahren bis Zeitpunkt 0 auf?",
+      "ja": "図 25.14 に基づき、200万年前から時間0までの期間に、系統Aと系統Bでそれぞれいくつの種分化イベントと絶滅イベントが発生しましたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Lineage A: 0 speciation, 3 extinction; Lineage B: 4 speciation, 0 extinction.",
+          "zh": "谱系 A: 0 次物种形成, 3 次灭绝; 谱系 B: 4 次物种形成, 0 次灭绝。",
+          "es": "Linaje A: 0 especiación, 3 extinción; Linaje B: 4 especiación, 0 extinción.",
+          "fr": "Lignée A: 0 spéciation, 3 extinctions; Lignée B: 4 spéciations, 0 extinction.",
+          "de": "Linie A: 0 Speziation, 3 Aussterbeereignisse; Linie B: 4 Speziationen, 0 Aussterbeereignisse.",
+          "ja": "系統A: 種分化0回、絶滅3回; 系統B: 種分化4回、絶滅0回。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Lineage A: 1 speciation, 2 extinction; Lineage B: 3 speciation, 1 extinction.",
+          "zh": "谱系 A: 1 次物种形成, 2 次灭绝; 谱系 B: 3 次物种形成, 1 次灭绝。",
+          "es": "Linaje A: 1 especiación, 2 extinción; Linaje B: 3 especiación, 1 extinción.",
+          "fr": "Lignée A: 1 spéciation, 2 extinctions; Lignée B: 3 spéciations, 1 extinction.",
+          "de": "Linie A: 1 Speziation, 2 Aussterbeereignisse; Linie B: 3 Speziationen, 1 Aussterbeereignis.",
+          "ja": "系統A: 種分化1回、絶滅2回; 系統B: 種分化3回、絶滅1回。"
+        },
+        "feedback": {
+          "en": "This option miscounts the number of speciation and extinction events for both lineages. Lineage A has no new branches, but three extinctions. Lineage B has 4 speciations and no extinctions.",
+          "zh": "该选项对两个谱系的物种形成和灭绝事件计数有误。谱系 A 没有新分支形成，但有三次灭绝。谱系 B 有四次物种形成，没有灭绝。",
+          "es": "Esta opción cuenta erróneamente el número de eventos de especiación y extinción para ambos linajes. El Linaje A no tiene nuevas ramas, pero sí tres extinciones. El Linaje B tiene 4 especiaciones y ninguna extinción.",
+          "fr": "Cette option compte mal le nombre d'événements de spéciation et d'extinction pour les deux lignées. La Lignée A n'a pas de nouvelles branches, mais trois extinctions. La Lignée B a 4 spéciations et aucune extinction.",
+          "de": "Diese Option zählt die Anzahl der Speziations- und Aussterbeereignisse für beide Linien falsch. Linie A hat keine neuen Äste, aber drei Aussterbeereignisse. Linie B hat 4 Speziationen und keine Aussterbeereignisse.",
+          "ja": "この選択肢は、両系統の種分化と絶滅の数を間違って数えています。系統Aには新しい枝がなく、3回の絶滅があります。系統Bには4回の種分化があり、絶滅はありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Lineage A: 0 speciation, 1 extinction; Lineage B: 8 speciation, 0 extinction.",
+          "zh": "谱系 A: 0 次物种形成, 1 次灭绝; 谱系 B: 8 次物种形成, 0 次灭绝。",
+          "es": "Linaje A: 0 especiación, 1 extinción; Linaje B: 8 especiación, 0 extinción.",
+          "fr": "Lignée A: 0 spéciation, 1 extinction; Lignée B: 8 spéciations, 0 extinction.",
+          "de": "Linie A: 0 Speziation, 1 Aussterbeereignis; Linie B: 8 Speziationen, 0 Aussterbeereignisse.",
+          "ja": "系統A: 種分化0回、絶滅1回; 系統B: 種分化8回、絶滅0回。"
+        },
+        "feedback": {
+          "en": "This option underestimates the number of extinctions for Lineage A and overestimates speciation for Lineage B. Lineage A had 3 extinctions, and Lineage B went from 4 to 8 species (4 speciations).",
+          "zh": "该选项低估了谱系 A 的灭绝次数，高估了谱系 B 的物种形成次数。谱系 A 发生了 3 次灭绝，谱系 B 从 4 个物种变为 8 个物种（4 次物种形成）。",
+          "es": "Esta opción subestima el número de extinciones para el Linaje A y sobreestima la especiación para el Linaje B. El Linaje A tuvo 3 extinciones, y el Linaje B pasó de 4 a 8 especies (4 especiaciones).",
+          "fr": "Cette option sous-estime le nombre d'extinctions pour la Lignée A et surestime la spéciation pour la Lignée B. La Lignée A a connu 3 extinctions, et la Lignée B est passée de 4 à 8 espèces (4 spéciations).",
+          "de": "Diese Option unterschätzt die Anzahl der Aussterbeereignisse für Linie A und überschätzt die Speziation für Linie B. Linie A hatte 3 Aussterbeereignisse, und Linie B entwickelte sich von 4 zu 8 Arten (4 Speziationen).",
+          "ja": "この選択肢は、系統Aの絶滅数を過小評価し、系統Bの種分化数を過大評価しています。系統Aでは3回の絶滅があり、系統Bは4種から8種になりました（4回の種分化）。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Lineage A: 3 speciation, 0 extinction; Lineage B: 0 speciation, 3 extinction.",
+          "zh": "谱系 A: 3 次物种形成, 0 次灭绝; 谱系 B: 0 次物种形成, 3 次灭绝。",
+          "es": "Linaje A: 3 especiación, 0 extinción; Linaje B: 0 especiación, 3 extinción.",
+          "fr": "Lignée A: 3 spéciations, 0 extinction; Lignée B: 0 spéciation, 3 extinctions.",
+          "de": "Linie A: 3 Speziationen, 0 Aussterbeereignisse; Linie B: 0 Speziation, 3 Aussterbeereignisse.",
+          "ja": "系統A: 種分化3回、絶滅0回; 系統B: 種分化0回、絶滅3回。"
+        },
+        "feedback": {
+          "en": "This option completely reverses the outcomes for Lineage A and Lineage B and provides incorrect counts.",
+          "zh": "该选项完全颠倒了谱系 A 和谱系 B 的结果，并提供了不正确的计数。",
+          "es": "Esta opción invierte completamente los resultados para el Linaje A y el Linaje B y proporciona recuentos incorrectos.",
+          "fr": "Cette option inverse complètement les résultats pour la Lignée A et la Lignée B et fournit des comptages incorrects.",
+          "de": "Diese Option kehrt die Ergebnisse für Linie A und Linie B vollständig um und liefert falsche Zählwerte.",
+          "ja": "この選択肢は、系統Aと系統Bの結果を完全に逆転させており、カウントも間違っています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "For Lineage A, starting with 4 species at 2 million years ago and ending with 1 species at time 0, there are no new branches formed (0 speciation) but three dagger symbols (†) indicating extinction events. For Lineage B, starting with 4 species at 2 million years ago and ending with 8 species at time 0, there are 4 new branches formed through splitting (4 speciation) and no dagger symbols, indicating 0 extinction events.",
+      "zh": "对于谱系 A，从 200 万年前的 4 个物种开始，到时间 0 剩下 1 个物种，期间没有形成新的分支（0 次物种形成），但有三个匕首符号（†）表示灭绝事件。对于谱系 B，从 200 万年前的 4 个物种开始，到时间 0 增加到 8 个物种，期间通过分支形成了 4 个新物种（4 次物种形成），且没有匕首符号，表示没有灭绝事件。",
+      "es": "Para el Linaje A, comenzando con 4 especies hace 2 millones de años y terminando con 1 especie en el tiempo 0, no se forman nuevas ramas (0 especiación) pero hay tres símbolos de daga (†) que indican eventos de extinción. Para el Linaje B, comenzando con 4 especies hace 2 millones de años y terminando con 8 especies en el tiempo 0, se forman 4 nuevas ramas por división (4 especiaciones) y no hay símbolos de daga, lo que indica 0 eventos de extinción.",
+      "fr": "Pour la Lignée A, partant de 4 espèces il y a 2 millions d'années et se terminant avec 1 espèce à l'instant 0, il n'y a pas de nouvelles branches formées (0 spéciation) mais trois symboles de dague (†) indiquant des événements d'extinction. Pour la Lignée B, partant de 4 espèces il y a 2 millions d'années et se terminant avec 8 espèces à l'instant 0, il y a 4 nouvelles branches formées par division (4 spéciations) et aucun symbole de dague, indiquant 0 événement d'extinction.",
+      "de": "Für Linie A, beginnend mit 4 Arten vor 2 Millionen Jahren und endend mit 1 Art zu Zeitpunkt 0, gibt es keine neuen Äste (0 Speziation), aber drei Dolchsymbole (†), die Aussterbeereignisse anzeigen. Für Linie B, beginnend mit 4 Arten vor 2 Millionen Jahren und endend mit 8 Arten zu Zeitpunkt 0, bilden sich 4 neue Äste durch Aufspaltung (4 Speziationen) und es gibt keine Dolchsymbole, was 0 Aussterbeereignisse anzeigt.",
+      "ja": "系統Aの場合、200万年前には4種でしたが、時間0には1種になりました。この間に新しい枝の形成はなく（種分化0回）、3つのダガー記号（†）が絶滅イベントを示しています。系統Bの場合、200万年前には4種でしたが、時間0には8種になりました。この間に分岐によって4つの新しい枝が形成され（種分化4回）、ダガー記号はなく、絶滅イベントは0回です。"
+    }
+  },
+  {
+    "page_number": 586,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately matches a major evolutionary event with its approximate timing, according to the provided text?",
+      "zh": "根据提供的文本，以下哪项陈述准确地将一个主要的进化事件与其近似时间相匹配？",
+      "es": "¿Cuál de las siguientes afirmaciones relaciona con precisión un evento evolutivo importante con su momento aproximado, según el texto proporcionado?",
+      "fr": "Selon le texte fourni, laquelle des affirmations suivantes associe correctement un événement évolutif majeur à sa chronologie approximative ?",
+      "de": "Welche der folgenden Aussagen ordnet ein wichtiges evolutionäres Ereignis gemäß dem bereitgestellten Text korrekt seiner ungefähren Zeitspanne zu?",
+      "ja": "提供されたテキストによると、以下の記述のうち、主要な進化イベントとそのおおよその時期を正確に結びつけているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Earliest tetrapods appeared approximately 450 million years ago.",
+          "zh": "最早的四足动物大约出现在 4.5 亿年前。",
+          "es": "Los tetrápodos más antiguos aparecieron hace aproximadamente 450 millones de años.",
+          "fr": "Les premiers tétrapodes sont apparus il y a environ 450 millions d'années.",
+          "de": "Die frühesten Tetrapoden erschienen vor etwa 450 Millionen Jahren.",
+          "ja": "最も初期の四肢動物は約4億5000万年前に出現した。"
+        },
+        "feedback": {
+          "en": "Arthropods colonized land roughly 450 million years ago, not the earliest tetrapods. Earliest tetrapods lived about 365 million years ago.",
+          "zh": "节肢动物大约在 4.5 亿年前殖民陆地，而不是最早的四足动物。最早的四足动物生活在约 3.65 亿年前。",
+          "es": "Los artrópodos colonizaron la tierra hace aproximadamente 450 millones de años, no los tetrápodos más antiguos. Los tetrápodos más antiguos vivieron hace unos 365 millones de años.",
+          "fr": "Les arthropodes ont colonisé la terre il y a environ 450 millions d'années, pas les premiers tétrapodes. Les premiers tétrapodes ont vécu il y a environ 365 millions d'années.",
+          "de": "Gliedertiere besiedelten das Land vor etwa 450 Millionen Jahren, nicht die frühesten Tetrapoden. Die frühesten Tetrapoden lebten vor etwa 365 Millionen Jahren.",
+          "ja": "約4億5000万年前に陸上を植民したのは節足動物であり、初期の四肢動物ではありません。初期の四肢動物は約3億6500万年前に生息していました。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Arthropods were among the first animals to colonize land around 365 million years ago.",
+          "zh": "节肢动物是大约 3.65 亿年前最早殖民陆地的动物之一。",
+          "es": "Los artrópodos fueron uno de los primeros animales en colonizar la tierra hace unos 365 millones de años.",
+          "fr": "Les arthropodes furent parmi les premiers animaux à coloniser la terre il y a environ 365 millions d'années.",
+          "de": "Gliedertiere gehörten zu den ersten Tieren, die vor etwa 365 Millionen Jahren das Land besiedelten.",
+          "ja": "節足動物は約3億6500万年前に陸上を植民した最初の動物の一つだった。"
+        },
+        "feedback": {
+          "en": "Arthropods colonized land roughly 450 million years ago. 365 million years ago is when the earliest tetrapods appeared.",
+          "zh": "节肢动物大约在 4.5 亿年前殖民陆地。3.65 亿年前是最早的四足动物出现的时间。",
+          "es": "Los artrópodos colonizaron la tierra hace aproximadamente 450 millones de años. Hace 365 millones de años fue cuando aparecieron los tetrápodos más antiguos.",
+          "fr": "Les arthropodes ont colonisé la terre il y a environ 450 millions d'années. Il y a 365 millions d'années est la date d'apparition des premiers tétrapodes.",
+          "de": "Gliedertiere besiedelten das Land vor etwa 450 Millionen Jahren. Vor 365 Millionen Jahren traten die frühesten Tetrapoden auf.",
+          "ja": "節足動物が陸上を植民したのは約4億5000万年前です。3億6500万年前は、最も初期の四肢動物が出現した時期です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The human lineage diverged from other primates about 6-7 million years ago.",
+          "zh": "人类谱系大约在 600-700 万年前与其他灵长类动物分化。",
+          "es": "El linaje humano divergió de otros primates hace unos 6-7 millones de años.",
+          "fr": "La lignée humaine a divergé des autres primates il y a environ 6-7 millions d'années.",
+          "de": "Die menschliche Abstammungslinie spaltete sich vor etwa 6-7 Millionen Jahren von anderen Primaten ab.",
+          "ja": "人類の系統は、約600万〜700万年前に他の霊長類から分岐した。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Our species (Homo sapiens) originated approximately 6-7 million years ago.",
+          "zh": "我们人类（智人）大约在 600-700 万年前起源。",
+          "es": "Nuestra especie (Homo sapiens) se originó hace aproximadamente 6-7 millones de años.",
+          "fr": "Notre espèce (Homo sapiens) est apparue il y a environ 6-7 millions d'années.",
+          "de": "Unsere Spezies (Homo sapiens) entstand vor etwa 6-7 Millionen Jahren.",
+          "ja": "我々の種（ホモ・サピエンス）は約600万〜700万年前に誕生した。"
+        },
+        "feedback": {
+          "en": "The human lineage diverged from other primates 6-7 million years ago, but our species originated only about 195,000 years ago.",
+          "zh": "人类谱系在大约 600-700 万年前与其他灵长类动物分化，但我们人类物种起源于大约 19.5 万年前。",
+          "es": "El linaje humano divergió de otros primates hace 6-7 millones de años, pero nuestra especie se originó hace solo unos 195.000 años.",
+          "fr": "La lignée humaine a divergé des autres primates il y a 6-7 millions d'années, mais notre espèce n'est apparue qu'il y a environ 195 000 ans.",
+          "de": "Die menschliche Abstammungslinie spaltete sich vor 6-7 Millionen Jahren von anderen Primaten ab, aber unsere Spezies entstand erst vor etwa 195.000 Jahren.",
+          "ja": "人類の系統は600万〜700万年前に他の霊長類から分岐しましたが、我々の種は約19万5000年前に誕生しました。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that 'The human lineage diverged from other primates around 6-7 million years ago'. It also mentions that 'Arthropods were among the first animals to colonize land, roughly 450 million years ago' and 'The earliest tetrapods found in the fossil record lived about 365 million years ago'. Finally, 'our species originated only about 195,000 years ago'. Therefore, option C is the only accurate match.",
+      "zh": "文本中提到“人类谱系大约在 600-700 万年前与其他灵长类动物分化”。它还提到“节肢动物大约在 4.5 亿年前是第一批殖民陆地的动物”和“在化石记录中发现的最早的四足动物生活在约 3.65 亿年前”。最后，“我们人类物种起源于大约 19.5 万年前”。因此，选项 C 是唯一准确的匹配。",
+      "es": "El texto afirma que 'El linaje humano divergió de otros primates hace unos 6-7 millones de años'. También menciona que 'Los artrópodos fueron de los primeros animales en colonizar la tierra, hace aproximadamente 450 millones de años' y 'Los tetrápodos más antiguos encontrados en el registro fósil vivieron hace unos 365 millones de años'. Finalmente, 'nuestra especie se originó hace solo unos 195.000 años'. Por lo tanto, la opción C es la única coincidencia precisa.",
+      "fr": "Le texte indique que « La lignée humaine a divergé des autres primates il y a environ 6-7 millions d'années ». Il mentionne également que « Les arthropodes furent parmi les premiers animaux à coloniser la terre, il y a environ 450 millions d'années » et « Les premiers tétrapodes trouvés dans le registre fossile vécurent il y a environ 365 millions d'années ». Enfin, « notre espèce n'est apparue qu'il y a environ 195 000 ans ». Par conséquent, l'option C est la seule correspondance exacte.",
+      "de": "Der Text besagt, dass 'Die menschliche Abstammungslinie sich vor etwa 6-7 Millionen Jahren von anderen Primaten abspaltete'. Es wird auch erwähnt, dass 'Gliedertiere zu den ersten Tieren gehörten, die das Land besiedelten, vor etwa 450 Millionen Jahren' und 'Die frühesten im Fossilbericht gefundenen Tetrapoden lebten vor etwa 365 Millionen Jahren'. Schließlich entstand 'unsere Spezies erst vor etwa 195.000 Jahren'. Daher ist Option C die einzig genaue Übereinstimmung.",
+      "ja": "テキストには、「人類の系統は、約600万〜700万年前に他の霊長類から分岐した」と記載されています。また、「節足動物は、約4億5000万年前に陸上を植民した最初の動物の一つであった」および「化石記録に見られる最も初期の四肢動物は約3億6500万年前に生息していた」と述べられています。最後に、「私たちの種は約19万5000年前に誕生したにすぎない」とあります。したがって、Cが唯一正確な一致です。"
+    }
+  },
+  {
+    "page_number": 586,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "The 405-million-year-old fossil of *Aglaophyton major* (Figure 25.13) provides significant insight into early life. What is its primary significance as described in the text and figure?",
+      "zh": "4.05 亿年前的 *Aglaophyton major* 化石（图 25.13）为早期生命提供了重要见解。根据文本和图示，它的主要意义是什么？",
+      "es": "El fósil de *Aglaophyton major* de 405 millones de años (Figura 25.13) proporciona una visión significativa de la vida temprana. ¿Cuál es su importancia principal según lo descrito en el texto y la figura?",
+      "fr": "Le fossile d'*Aglaophyton major* vieux de 405 millions d'années (Figure 25.13) fournit des informations importantes sur les premières formes de vie. Quelle est sa signification principale telle que décrite dans le texte et la figure ?",
+      "de": "Das 405 Millionen Jahre alte Fossil von *Aglaophyton major* (Abbildung 25.13) liefert wichtige Einblicke in frühes Leben. Was ist seine primäre Bedeutung, wie im Text und in der Abbildung beschrieben?",
+      "ja": "4億500万年前のAglaophyton major（図25.13）の化石は、初期の生命に関する重要な洞察を提供しています。テキストと図に記載されている主な意義は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It represents the earliest known terrestrial vertebrate, demonstrating early land colonization by animals.",
+          "zh": "它代表了已知最早的陆生脊椎动物，展示了动物早期对陆地的殖民。",
+          "es": "Representa el vertebrado terrestre más antiguo conocido, demostrando la colonización temprana de la tierra por los animales.",
+          "fr": "Il représente le plus ancien vertébré terrestre connu, démontrant la colonisation précoce des terres par les animaux.",
+          "de": "Es stellt das früheste bekannte Landwirbeltier dar und demonstriert die frühe Landbesiedlung durch Tiere.",
+          "ja": "これは、動物による初期の陸上進出を示す、既知で最古の陸生脊椎動物を表しています。"
+        },
+        "feedback": {
+          "en": "*Aglaophyton major* is an ancient plant, not a vertebrate. The figure and text focus on plant-fungal symbiosis.",
+          "zh": "*Aglaophyton major* 是一种古老的植物，而不是脊椎动物。该图和文本主要关注植物与真菌的共生关系。",
+          "es": "*Aglaophyton major* es una planta antigua, no un vertebrado. La figura y el texto se centran en la simbiosis planta-hongo.",
+          "fr": "*Aglaophyton major* est une plante ancienne, pas un vertébré. La figure et le texte se concentrent sur la symbiose plante-champignon.",
+          "de": "*Aglaophyton major* ist eine alte Pflanze, kein Wirbeltier. Die Abbildung und der Text konzentrieren sich auf die Pflanzen-Pilz-Symbiose.",
+          "ja": "Aglaophyton major は古代の植物であり、脊椎動物ではありません。この図とテキストは、植物と菌類の共生関係に焦点を当てています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It documents the existence of mycorrhizae in early plants, suggesting an ancient plant-fungal symbiosis crucial for land plant evolution.",
+          "zh": "它记录了早期植物中菌根的存在，表明了一种对陆生植物进化至关重要的古老植物-真菌共生关系。",
+          "es": "Documenta la existencia de micorrizas en plantas tempranas, sugiriendo una antigua simbiosis planta-hongo crucial para la evolución de las plantas terrestres.",
+          "fr": "Il documente l'existence de mycorhizes chez les premières plantes, suggérant une symbiose plante-champignon ancienne cruciale pour l'évolution des plantes terrestres.",
+          "de": "Es dokumentiert die Existenz von Mykorrhiza in frühen Pflanzen, was auf eine alte Pflanzen-Pilz-Symbiose hindeutet, die für die Evolution der Landpflanzen entscheidend war.",
+          "ja": "初期の植物における菌根の存在を記録しており、陸上植物の進化に不可欠な古代の植物と菌類の共生関係を示唆している。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It shows the first evidence of eukaryotic cells with both mitochondria and plastids, supporting the endosymbiotic theory.",
+          "zh": "它展示了同时含有线粒体和质体的真核细胞的第一个证据，支持了内共生理论。",
+          "es": "Muestra la primera evidencia de células eucariotas con mitocondrias y plastos, apoyando la teoría endosimbiótica.",
+          "fr": "Il montre la première preuve de cellules eucaryotes possédant à la fois des mitochondries et des plastes, soutenant la théorie endosymbiotique.",
+          "de": "Es zeigt den ersten Nachweis von eukaryotischen Zellen mit Mitochondrien und Plastiden, was die Endosymbiontentheorie stützt.",
+          "ja": "ミトコンドリアと葉緑体の両方を持つ真核細胞の最初の証拠を示し、細胞内共生説を支持している。"
+        },
+        "feedback": {
+          "en": "While related to early life, the figure and text specifically focus on the ancient mycorrhizal symbiosis in plants, not the general evolution of eukaryotic organelles like mitochondria and plastids.",
+          "zh": "尽管与早期生命有关，但图示和文本明确关注植物中的古老菌根共生关系，而非真核细胞器（如线粒体和质体）的普遍进化。",
+          "es": "Aunque está relacionado con la vida temprana, la figura y el texto se centran específicamente en la antigua simbiosis micorrícica en plantas, no en la evolución general de los orgánulos eucariotas como las mitocondrias y los plastos.",
+          "fr": "Bien que lié à la vie primitive, la figure et le texte se concentrent spécifiquement sur l'ancienne symbiose mycorhizienne chez les plantes, et non sur l'évolution générale des organites eucaryotes comme les mitochondries et les plastes.",
+          "de": "Obwohl es sich auf frühes Leben bezieht, konzentrieren sich die Abbildung und der Text speziell auf die alte Mykorrhiza-Symbiose bei Pflanzen und nicht auf die allgemeine Entwicklung eukaryotischer Organellen wie Mitochondrien und Plastiden.",
+          "ja": "初期の生命に関連していますが、この図とテキストは特に植物における古代の菌根共生に焦点を当てており、ミトコンドリアや葉緑体のような真核生物の細胞小器官の一般的な進化については言及していません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It illustrates the diversification of lobe-finned fishes, which later gave rise to tetrapods.",
+          "zh": "它说明了肉鳍鱼类的多样化，这些鱼类后来演变为四足动物。",
+          "es": "Ilustra la diversificación de los peces de aletas lobuladas, que más tarde dieron origen a los tetrápodos.",
+          "fr": "Il illustre la diversification des poissons à nageoires lobées, qui ont ensuite donné naissance aux tétrapodes.",
+          "de": "Es illustriert die Diversifizierung der Fleischflosser, die später die Tetrapoden hervorbrachten.",
+          "ja": "これは、後に四肢動物に発展した肉鰭魚類の多様化を示している。"
+        },
+        "feedback": {
+          "en": "*Aglaophyton major* is a plant, and the figure depicts its internal structure related to fungal symbiosis, not the evolution of fish or tetrapods. The text mentions lobe-finned fishes in a different context.",
+          "zh": "*Aglaophyton major* 是一种植物，该图描绘了其与真菌共生相关的内部结构，而不是鱼类或四足动物的进化。文本在不同语境中提及了肉鳍鱼类。",
+          "es": "*Aglaophyton major* es una planta, y la figura representa su estructura interna relacionada con la simbiosis fúngica, no la evolución de peces o tetrápodos. El texto menciona a los peces de aletas lobuladas en un contexto diferente.",
+          "fr": "*Aglaophyton major* est une plante, et la figure représente sa structure interne liée à la symbiose fongique, non l'évolution des poissons ou des tétrapodes. Le texte mentionne les poissons à nageoires lobées dans un contexte différent.",
+          "de": "*Aglaophyton major* ist eine Pflanze, und die Abbildung zeigt ihre innere Struktur im Zusammenhang mit der Pilzsymbiose, nicht die Evolution von Fischen oder Tetrapoden. Der Text erwähnt Fleischflosser in einem anderen Kontext.",
+          "ja": "Aglaophyton major は植物であり、この図は菌類との共生に関連する内部構造を描写しており、魚類や四肢動物の進化ではありません。テキストは肉鰭魚類を別の文脈で言及しています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 25.13 and its accompanying text specifically describe *Aglaophyton major* as documenting 'mycorrhizae in the early plant' and showing 'a branched fungal structure called an arbuscule; the fossil arbuscule resembles those seen in plant cells today.' This highlights its significance in providing evidence for ancient plant-fungal symbiosis, which was crucial for plants colonizing land.",
+      "zh": "图 25.13 及其附带文本明确描述 *Aglaophyton major* 记录了“早期植物中的菌根”，并展示了“一种称为丛枝的、分枝的真菌结构；该化石丛枝类似于今天植物细胞中观察到的结构”。这突显了它在提供古代植物-真菌共生证据方面的重要性，这种共生对植物殖民陆地至关重要。",
+      "es": "La Figura 25.13 y su texto adjunto describen específicamente a *Aglaophyton major* como un documento de 'micorrizas en la planta temprana' y mostrando 'una estructura fúngica ramificada llamada arbúsculo; el arbúsculo fósil se asemeja a los que se ven en las células vegetales hoy en día'. Esto resalta su importancia al proporcionar evidencia de una antigua simbiosis planta-hongo, que fue crucial para que las plantas colonizaran la tierra.",
+      "fr": "La Figure 25.13 et son texte d'accompagnement décrivent spécifiquement *Aglaophyton major* comme documentant « les mycorhizes chez les premières plantes » et montrant « une structure fongique ramifiée appelée arbuscule ; l'arbuscule fossile ressemble à ceux observés dans les cellules végétales aujourd'hui ». Cela souligne son importance en fournissant des preuves d'une ancienne symbiose plante-champignon, qui était cruciale pour la colonisation terrestre par les plantes.",
+      "de": "Abbildung 25.13 und der begleitende Text beschreiben *Aglaophyton major* explizit als Dokumentation von 'Mykorrhiza in der frühen Pflanze' und zeigen 'eine verzweigte Pilzstruktur, Arbuskel genannt; der fossile Arbuskel ähnelt denen, die heute in Pflanzenzellen zu sehen sind.' Dies unterstreicht seine Bedeutung als Beleg für eine alte Pflanzen-Pilz-Symbiose, die für die Besiedlung des Landes durch Pflanzen entscheidend war.",
+      "ja": "図25.13とそれに付随するテキストは、Aglaophyton majorが「初期植物の菌根」を記録し、「樹状体と呼ばれる分岐した菌類構造を示している。この化石樹状体は今日の植物細胞に見られるものに似ている」と具体的に説明しています。これは、古代の植物と菌類の共生の証拠を提供することにおけるその重要性を強調しており、これは植物が陸上を植民する上で不可欠でした。"
+    }
+  }
+]

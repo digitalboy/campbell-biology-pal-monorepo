@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 384,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on the provided page, which statement accurately describes the central dogma of molecular biology as illustrated?",
+      "zh": "根据所提供的页面，哪个陈述准确描述了所示的分子生物学中心法则？",
+      "es": "Según la página proporcionada, ¿qué afirmación describe con precisión el dogma central de la biología molecular tal como se ilustra?",
+      "fr": "D'après la page fournie, quelle affirmation décrit avec précision le dogme central de la biologie moléculaire tel qu'illustré ?",
+      "de": "Basierend auf der bereitgestellten Seite, welche Aussage beschreibt das illustrierte zentrale Dogma der Molekularbiologie genau?",
+      "ja": "提供されたページに基づくと、示されている分子生物学のセントラルドグマを正確に説明している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "DNA is directly translated into proteins.",
+          "zh": "DNA 直接翻译成蛋白质。",
+          "es": "El ADN se traduce directamente en proteínas.",
+          "fr": "L'ADN est directement traduit en protéines.",
+          "de": "DNA wird direkt in Proteine übersetzt.",
+          "ja": "DNA は直接タンパク質に翻訳される。"
+        },
+        "feedback": {
+          "en": "This is incorrect. DNA is first transcribed into RNA before being translated into proteins.",
+          "zh": "这是不正确的。DNA 首先被转录成 RNA，然后才能翻译成蛋白质。",
+          "es": "Esto es incorrecto. El ADN primero se transcribe en ARN antes de ser traducido a proteínas.",
+          "fr": "Ceci est incorrect. L'ADN est d'abord transcrit en ARN avant d'être traduit en protéines.",
+          "de": "Das ist falsch. DNA wird zuerst in RNA transkribiert, bevor sie in Proteine übersetzt wird.",
+          "ja": "これは正しくありません。DNA はまず RNA に転写され、その後にタンパク質に翻訳されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "RNA is transcribed from DNA, and then translated into proteins.",
+          "zh": "RNA 从 DNA 转录，然后翻译成蛋白质。",
+          "es": "El ARN se transcribe del ADN y luego se traduce en proteínas.",
+          "fr": "L'ARN est transcrit à partir de l'ADN, puis traduit en protéines.",
+          "de": "RNA wird von DNA transkribiert und dann in Proteine übersetzt.",
+          "ja": "RNA は DNA から転写され、その後タンパク質に翻訳される。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Proteins are transcribed from RNA, which is then translated from DNA.",
+          "zh": "蛋白质从 RNA 转录，然后 RNA 从 DNA 翻译。",
+          "es": "Las proteínas se transcriben del ARN, que luego se traduce del ADN.",
+          "fr": "Les protéines sont transcrites à partir de l'ARN, qui est ensuite traduit à partir de l'ADN.",
+          "de": "Proteine werden von RNA transkribiert, die dann von DNA übersetzt wird.",
+          "ja": "タンパク質は RNA から転写され、その後 RNA は DNA から翻訳される。"
+        },
+        "feedback": {
+          "en": "This statement uses the terms transcription and translation in the wrong order and context.",
+          "zh": "这个陈述错误地使用了转录和翻译的顺序和语境。",
+          "es": "Esta afirmación utiliza los términos transcripción y traducción en el orden y contexto incorrectos.",
+          "fr": "Cette affirmation utilise les termes transcription et traduction dans le désordre et le contexte erronés.",
+          "de": "Diese Aussage verwendet die Begriffe Transkription und Translation in der falschen Reihenfolge und im falschen Kontext.",
+          "ja": "この記述は、転写と翻訳という用語を誤った順序と文脈で使用しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA is replicated, then transcribed into proteins.",
+          "zh": "DNA 复制后，再转录成蛋白质。",
+          "es": "El ADN se replica y luego se transcribe en proteínas.",
+          "fr": "L'ADN est répliqué, puis transcrit en protéines.",
+          "de": "DNA wird repliziert und dann in Proteine transkribiert.",
+          "ja": "DNA は複製され、その後タンパク質に転写される。"
+        },
+        "feedback": {
+          "en": "DNA replication is a separate process from gene expression, and DNA is not directly transcribed into proteins.",
+          "zh": "DNA 复制是与基因表达不同的过程，而且 DNA 不会直接转录成蛋白质。",
+          "es": "La replicación del ADN es un proceso separado de la expresión génica, y el ADN no se transcribe directamente en proteínas.",
+          "fr": "La réplication de l'ADN est un processus distinct de l'expression génique, et l'ADN n'est pas directement transcrit en protéines.",
+          "de": "Die DNA-Replikation ist ein separater Prozess von der Genexpression, und DNA wird nicht direkt in Proteine transkribiert.",
+          "ja": "DNA 複製は遺伝子発現とは別のプロセスであり、DNA が直接タンパク質に転写されるわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The central dogma of molecular biology, as depicted in the diagram, states that genetic information flows from DNA to RNA (via transcription) and then from RNA to protein (via translation).",
+      "zh": "分子生物学的中心法则，如图所示，指出遗传信息从 DNA 流向 RNA（通过转录），然后从 RNA 流向蛋白质（通过翻译）。",
+      "es": "El dogma central de la biología molecular, tal como se muestra en el diagrama, establece que la información genética fluye del ADN al ARN (a través de la transcripción) y luego del ARN a la proteína (a través de la traducción).",
+      "fr": "Le dogme central de la biologie moléculaire, tel que représenté dans le diagramme, stipule que l'information génétique circule de l'ADN à l'ARN (par transcription) puis de l'ARN à la protéine (par traduction).",
+      "de": "Das zentrale Dogma der Molekularbiologie, wie im Diagramm dargestellt, besagt, dass genetische Informationen von DNA zu RNA (durch Transkription) und dann von RNA zu Protein (durch Translation) fließen.",
+      "ja": "図に示されている分子生物学のセントラルドグマは、遺伝情報がDNAからRNAへ（転写を介して）、そしてRNAからタンパク質へ（翻訳を介して）流れることを示しています。"
+    }
+  },
+  {
+    "page_number": 384,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the diagram illustrating how DNA change results in altered appearance, what is the direct product of transcription that then carries the genetic information to be translated into the pigment-synthesizing enzyme?",
+      "zh": "根据图示DNA变化如何导致外观改变的示意图，转录的直接产物是什么，它随后携带遗传信息被翻译成色素合成酶？",
+      "es": "Según el diagrama que ilustra cómo un cambio en el ADN resulta en una apariencia alterada, ¿cuál es el producto directo de la transcripción que luego transporta la información genética para ser traducida a la enzima sintetizadora de pigmento?",
+      "fr": "Selon le diagramme illustrant comment un changement dans l'ADN entraîne une altération de l'apparence, quel est le produit direct de la transcription qui transporte ensuite l'information génétique à traduire en enzyme de synthèse du pigment ?",
+      "de": "Gemäß dem Diagramm, das zeigt, wie eine DNA-Veränderung zu einem veränderten Aussehen führt, was ist das direkte Produkt der Transkription, das dann die genetische Information trägt, um in das Pigment-synthetisierende Enzym übersetzt zu werden?",
+      "ja": "DNA の変化が外見の変化をもたらす仕組みを示す図によると、転写の直接的な産物は何であり、それが遺伝情報を運んで色素合成酵素に翻訳されるのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "DNA",
+          "zh": "DNA",
+          "es": "ADN",
+          "fr": "ADN",
+          "de": "DNA",
+          "ja": "DNA"
+        },
+        "feedback": {
+          "en": "DNA is the template for transcription, not its direct product that is translated.",
+          "zh": "DNA 是转录的模板，而不是被翻译的直接产物。",
+          "es": "El ADN es el molde para la transcripción, no su producto directo que se traduce.",
+          "fr": "L'ADN est le modèle pour la transcription, pas son produit direct qui est traduit.",
+          "de": "DNA ist die Matrize für die Transkription, nicht ihr direktes Produkt, das übersetzt wird.",
+          "ja": "DNA は転写の鋳型であり、翻訳される直接的な産物ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "mRNA",
+          "zh": "mRNA",
+          "es": "ARNm",
+          "fr": "ARNm",
+          "de": "mRNA",
+          "ja": "mRNA"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Protein",
+          "zh": "蛋白质",
+          "es": "Proteína",
+          "fr": "Protéine",
+          "de": "Protein",
+          "ja": "タンパク質"
+        },
+        "feedback": {
+          "en": "Protein is the final product of translation, not the direct product of transcription.",
+          "zh": "蛋白质是翻译的最终产物，而不是转录的直接产物。",
+          "es": "La proteína es el producto final de la traducción, no el producto directo de la transcripción.",
+          "fr": "La protéine est le produit final de la traduction, pas le produit direct de la transcription.",
+          "de": "Protein ist das Endprodukt der Translation, nicht das direkte Produkt der Transkription.",
+          "ja": "タンパク質は翻訳の最終産物であり、転写の直接的な産物ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Enzyme",
+          "zh": "酶",
+          "es": "Enzima",
+          "fr": "Enzyme",
+          "de": "Enzym",
+          "ja": "酵素"
+        },
+        "feedback": {
+          "en": "An enzyme is a type of protein, which is the product of translation, not the direct product of transcription that serves as the template for translation.",
+          "zh": "酶是一种蛋白质，它是翻译的产物，而不是作为翻译模板的转录直接产物。",
+          "es": "Una enzima es un tipo de proteína, que es el producto de la traducción, no el producto directo de la transcripción que sirve como molde para la traducción.",
+          "fr": "Une enzyme est un type de protéine, qui est le produit de la traduction, et non le produit direct de la transcription qui sert de modèle pour la traduction.",
+          "de": "Ein Enzym ist eine Art Protein, das das Produkt der Translation ist, nicht das direkte Produkt der Transkription, das als Matrize für die Translation dient.",
+          "ja": "酵素はタンパク質の一種であり、翻訳の産物であって、翻訳の鋳型となる転写の直接的な産物ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The diagram clearly shows that DNA undergoes 'TRANSCRIPTION' to produce 'mRNA', which then undergoes 'TRANSLATION' to produce the 'Protein: Enzyme required for pigment synthesis'. Thus, mRNA is the direct product of transcription that carries the genetic information to be translated.",
+      "zh": "图示清楚地表明，DNA 经过“转录”产生“mRNA”，然后 mRNA 经过“翻译”产生“蛋白质：色素合成所需的酶”。因此，mRNA 是转录的直接产物，它携带遗传信息进行翻译。",
+      "es": "El diagrama muestra claramente que el ADN sufre 'TRANSCRIPCIÓN' para producir 'ARNm', que luego sufre 'TRADUCCIÓN' para producir la 'Proteína: enzima necesaria para la síntesis de pigmento'. Por lo tanto, el ARNm es el producto directo de la transcripción que lleva la información genética para ser traducida.",
+      "fr": "Le diagramme montre clairement que l'ADN subit la 'TRANSCRIPTION' pour produire l''ARNm', qui subit ensuite la 'TRADUCTION' pour produire la 'Protéine : Enzyme nécessaire à la synthèse des pigments'. Ainsi, l'ARNm est le produit direct de la transcription qui transporte l'information génétique à traduire.",
+      "de": "Das Diagramm zeigt deutlich, dass DNA 'TRANSKRIPTION' durchläuft, um 'mRNA' zu produzieren, die dann 'TRANSLATION' durchläuft, um das 'Protein: Enzym für die Pigmentsynthese' zu produzieren. Daher ist mRNA das direkte Produkt der Transkription, das die genetische Information zur Übersetzung trägt.",
+      "ja": "図は、DNA が「転写」を経て「mRNA」を生成し、その後「翻訳」を経て「タンパク質：色素合成に必要な酵素」を生成することを明確に示しています。したがって、mRNA は転写の直接的な産物であり、翻訳されるべき遺伝情報を運びます。"
+    }
+  },
+  {
+    "page_number": 384,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the \"How can one change in DNA result in such a dramatic change in appearance?\" diagram, what is the consequence of the mutation in the gene for pigmentation?",
+      "zh": "根据“DNA 的一个改变如何导致外观如此巨大的变化？”的图示，色素基因突变的结果是什么？",
+      "es": "Según el diagrama \"¿Cómo un cambio en el ADN puede resultar en un cambio tan dramático en la apariencia?\", ¿cuál es la consecuencia de la mutación en el gen de la pigmentación?",
+      "fr": "Selon le diagramme « Comment un changement dans l'ADN peut-il entraîner un changement aussi spectaculaire de l'apparence ? », quelle est la conséquence de la mutation dans le gène de la pigmentation ?",
+      "de": "Basierend auf dem Diagramm „Wie kann eine Veränderung in der DNA zu einer so dramatischen Veränderung des Aussehens führen?“, welche Konsequenz hat die Mutation im Gen für die Pigmentierung?",
+      "ja": "「DNA の変化がどのようにして外見の劇的な変化をもたらすのか？」の図に基づくと、色素沈着遺伝子の突然変異の結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The mutation directly alters the phenotype to \"No pigment\" without affecting the protein.",
+          "zh": "突变直接将表型改变为“无色素”，而不影响蛋白质。",
+          "es": "La mutación altera directamente el fenotipo a \"Sin pigmento\" sin afectar la proteína.",
+          "fr": "La mutation modifie directement le phénotype en « Pas de pigment » sans affecter la protéine.",
+          "de": "Die Mutation verändert den Phänotyp direkt zu „Kein Pigment“, ohne das Protein zu beeinflussen.",
+          "ja": "突然変異は、タンパク質に影響を与えることなく、表現型を直接「色素なし」に変える。"
+        },
+        "feedback": {
+          "en": "The diagram shows that the mutation affects the protein, causing it to be non-functional, which then leads to the phenotype change.",
+          "zh": "图示表明，突变会影响蛋白质，使其失去功能，从而导致表型变化。",
+          "es": "El diagrama muestra que la mutación afecta la proteína, haciendo que sea no funcional, lo que luego conduce al cambio de fenotipo.",
+          "fr": "Le diagramme montre que la mutation affecte la protéine, la rendant non fonctionnelle, ce qui entraîne ensuite le changement de phénotype.",
+          "de": "Das Diagramm zeigt, dass die Mutation das Protein beeinflusst und es funktionsunfähig macht, was dann zur Phänotypänderung führt.",
+          "ja": "図は、突然変異がタンパク質に影響を与え、機能不全に陥らせ、それが表現型の変化につながることを示しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The mutation leads to the production of a non-functional enzyme, resulting in \"No pigment.\"",
+          "zh": "突变导致产生功能失调的酶，从而导致“无色素”。",
+          "es": "La mutación conduce a la producción de una enzima no funcional, lo que resulta en \"Sin pigmento\".",
+          "fr": "La mutation entraîne la production d'une enzyme non fonctionnelle, ce qui aboutit à l'absence de pigment.",
+          "de": "Die Mutation führt zur Produktion eines nicht funktionellen Enzyms, was zu „Kein Pigment“ führt.",
+          "ja": "突然変異により機能しない酵素が生成され、「色素なし」となる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The mutation causes the gene to be transcribed into a different type of DNA, leading to \"No pigment.\"",
+          "zh": "突变导致基因被转录成不同类型的 DNA，从而导致“无色素”。",
+          "es": "La mutación hace que el gen se transcriba en un tipo diferente de ADN, lo que lleva a \"Sin pigmento\".",
+          "fr": "La mutation entraîne la transcription du gène en un type d'ADN différent, ce qui aboutit à l'absence de pigment.",
+          "de": "Die Mutation bewirkt, dass das Gen in eine andere Art von DNA transkribiert wird, was zu „Kein Pigment“ führt.",
+          "ja": "突然変異により、遺伝子が異なる種類の DNA に転写され、「色素なし」となる。"
+        },
+        "feedback": {
+          "en": "Transcription produces RNA from DNA, not a different type of DNA. The issue is with the protein's function.",
+          "zh": "转录是从 DNA 产生 RNA，而不是产生不同类型的 DNA。问题出在蛋白质的功能。",
+          "es": "La transcripción produce ARN a partir del ADN, no un tipo diferente de ADN. El problema radica en la función de la proteína.",
+          "fr": "La transcription produit de l'ARN à partir de l'ADN, et non un type d'ADN différent. Le problème est lié à la fonction de la protéine.",
+          "de": "Transkription produziert RNA aus DNA, nicht eine andere Art von DNA. Das Problem liegt in der Funktion des Proteins.",
+          "ja": "転写は DNA から RNA を生成するのであって、異なる種類の DNA を生成するわけではありません。問題はタンパク質の機能にあります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The mutation prevents transcription altogether, leading to \"No pigment.\"",
+          "zh": "突变完全阻止了转录，从而导致“无色素”。",
+          "es": "La mutación impide la transcripción por completo, lo que lleva a \"Sin pigmento\".",
+          "fr": "La mutation empêche complètement la transcription, ce qui aboutit à l'absence de pigment.",
+          "de": "Die Mutation verhindert die Transkription vollständig, was zu „Kein Pigment“ führt.",
+          "ja": "突然変異により転写が完全に阻害され、「色素なし」となる。"
+        },
+        "feedback": {
+          "en": "The diagram indicates that transcription occurs ('mRNA' is shown), but the resulting protein is non-functional.",
+          "zh": "图示表明转录发生了（显示有‘mRNA’），但产生的蛋白质是功能失调的。",
+          "es": "El diagrama indica que la transcripción ocurre (se muestra 'ARNm'), pero la proteína resultante no es funcional.",
+          "fr": "Le diagramme indique que la transcription a lieu (le « ARNm » est montré), mais la protéine résultante est non fonctionnelle.",
+          "de": "Das Diagramm zeigt, dass Transkription stattfindet ('mRNA' ist dargestellt), aber das resultierende Protein ist nicht funktionsfähig.",
+          "ja": "図は転写が起こっていること（「mRNA」が示されている）を示していますが、結果として生成されるタンパク質は機能しません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The diagram clearly illustrates that a mutation in the 'Gene for pigmentation' leads to the production of a 'Protein: Enzyme required for pigment synthesis does not work'. This non-functional enzyme then results in the 'Phenotype: No pigment'.",
+      "zh": "图示清晰地表明，“色素基因”中的突变导致产生“蛋白质：色素合成所需的酶不起作用”。这种功能失调的酶随后导致了“表型：无色素”。",
+      "es": "El diagrama ilustra claramente que una mutación en el 'Gen para la pigmentación' conduce a la producción de una 'Proteína: enzima necesaria para la síntesis de pigmento que no funciona'. Esta enzima no funcional resulta entonces en el 'Fenotipo: Sin pigmento'.",
+      "fr": "Le diagramme illustre clairement qu'une mutation dans le « Gène de pigmentation » conduit à la production d'une « Protéine : Enzyme nécessaire à la synthèse des pigments ne fonctionne pas ». Cette enzyme non fonctionnelle entraîne alors le « Phénotype : Pas de pigment ».",
+      "de": "Das Diagramm zeigt deutlich, dass eine Mutation im „Gen für die Pigmentierung“ zur Produktion eines „Proteins: Enzym, das für die Pigmentsynthese benötigt wird, funktioniert nicht“ führt. Dieses nicht funktionierende Enzym führt dann zum „Phänotyp: Kein Pigment“.",
+      "ja": "図は、「色素沈着遺伝子」の突然変異が「タンパク質：色素合成に必要な酵素が機能しない」ことを引き起こし、この機能しない酵素が「表現型：色素なし」をもたらすことを明確に示しています。"
+    }
+  },
+  {
+    "page_number": 384,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The \"Study Tip\" on the page instructs to assume all processes take place in a eukaryotic cell. Considering this, and Key Concept 17.3, which of the following processes is characteristic of gene expression specifically in eukaryotic cells that modifies RNA after transcription?",
+      "zh": "页面上的“学习提示”指出，假设所有过程都在真核细胞中进行。考虑到这一点以及关键概念 17.3，下列哪个过程是真核细胞基因表达的特征，它在转录后修饰 RNA？",
+      "es": "La \"Consejo de estudio\" en la página indica que se asuma que todos los procesos tienen lugar en una célula eucariota. Considerando esto, y el Concepto Clave 17.3, ¿cuál de los siguientes procesos es característico de la expresión génica específicamente en células eucariotas que modifica el ARN después de la transcripción?",
+      "fr": "Le « Conseil d'étude » de la page indique de supposer que tous les processus ont lieu dans une cellule eucaryote. Compte tenu de cela et du concept clé 17.3, lequel des processus suivants est caractéristique de l'expression génique spécifiquement dans les cellules eucaryotes qui modifie l'ARN après la transcription ?",
+      "de": "Der „Lerntipp“ auf der Seite weist darauf hin, anzunehmen, dass alle Prozesse in einer eukaryotischen Zelle stattfinden. Unter Berücksichtigung dessen und des Schlüsselkonzepts 17.3, welcher der folgenden Prozesse ist charakteristisch für die Genexpression speziell in eukaryotischen Zellen, die RNA nach der Transkription modifiziert?",
+      "ja": "ページの「学習のヒント」には、すべてのプロセスが真核細胞で行われると仮定するよう指示されています。これを考慮し、主要概念 17.3 に基づくと、転写後に RNA を修飾する、真核細胞の遺伝子発現に特有のプロセスは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Transcription of DNA into mRNA occurs in the cytoplasm.",
+          "zh": "DNA 转录成 mRNA 发生在细胞质中。",
+          "es": "La transcripción del ADN a ARNm ocurre en el citoplasma.",
+          "fr": "La transcription de l'ADN en ARNm se produit dans le cytoplasme.",
+          "de": "Die Transkription von DNA in mRNA findet im Zytoplasma statt.",
+          "ja": "DNA から mRNA への転写は細胞質で起こる。"
+        },
+        "feedback": {
+          "en": "In eukaryotic cells, transcription occurs in the nucleus, not the cytoplasm.",
+          "zh": "在真核细胞中，转录发生在细胞核中，而不是细胞质中。",
+          "es": "En las células eucariotas, la transcripción ocurre en el núcleo, no en el citoplasma.",
+          "fr": "Dans les cellules eucaryotes, la transcription a lieu dans le noyau, et non dans le cytoplasme.",
+          "de": "In eukaryotischen Zellen findet die Transkription im Zellkern statt, nicht im Zytoplasma.",
+          "ja": "真核細胞では、転写は細胞質ではなく核で行われます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Ribosomes directly translate DNA into proteins.",
+          "zh": "核糖体直接将 DNA 翻译成蛋白质。",
+          "es": "Los ribosomas traducen directamente el ADN en proteínas.",
+          "fr": "Les ribosomes traduisent directement l'ADN en protéines.",
+          "de": "Ribosomen übersetzen DNA direkt in Proteine.",
+          "ja": "リボソームは DNA を直接タンパク質に翻訳する。"
+        },
+        "feedback": {
+          "en": "Ribosomes translate mRNA into proteins, not DNA directly.",
+          "zh": "核糖体将 mRNA 翻译成蛋白质，而不是直接翻译 DNA。",
+          "es": "Los ribosomas traducen el ARNm en proteínas, no el ADN directamente.",
+          "fr": "Les ribosomes traduisent l'ARNm en protéines, et non l'ADN directement.",
+          "de": "Ribosomen übersetzen mRNA in Proteine, nicht DNA direkt.",
+          "ja": "リボソームは mRNA をタンパク質に翻訳し、DNA を直接翻訳するわけではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "RNA splicing removes introns from pre-mRNA.",
+          "zh": "RNA 剪接将内含子从前 mRNA 中去除。",
+          "es": "El empalme de ARN elimina los intrones del pre-ARNm.",
+          "fr": "L'épissage de l'ARN élimine les introns du pré-ARNm.",
+          "de": "RNA-Spleißen entfernt Introns aus der prä-mRNA.",
+          "ja": "RNA スプライシングは、プレ mRNA からイントロンを除去する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA replication is a crucial step immediately following transcription.",
+          "zh": "DNA 复制是紧随转录后的关键步骤。",
+          "es": "La replicación del ADN es un paso crucial inmediatamente después de la transcripción.",
+          "fr": "La réplication de l'ADN est une étape cruciale qui suit immédiatement la transcription.",
+          "de": "Die DNA-Replikation ist ein entscheidender Schritt unmittelbar nach der Transkription.",
+          "ja": "DNA 複製は転写直後の重要なステップである。"
+        },
+        "feedback": {
+          "en": "DNA replication is separate from gene expression and does not immediately follow transcription.",
+          "zh": "DNA 复制与基因表达是独立的，并不紧随转录之后。",
+          "es": "La replicación del ADN es independiente de la expresión génica y no sigue inmediatamente a la transcripción.",
+          "fr": "La réplication de l'ADN est distincte de l'expression génique et ne suit pas immédiatement la transcription.",
+          "de": "Die DNA-Replikation ist von der Genexpression getrennt und folgt nicht unmittelbar auf die Transkription.",
+          "ja": "DNA 複製は遺伝子発現とは別のものであり、転写の直後には起こりません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Key Concept 17.3 explicitly states: 'Eukaryotic cells modify RNA after transcription'. RNA splicing, the process of removing non-coding introns and joining coding exons from pre-mRNA, is a hallmark of post-transcriptional modification in eukaryotes, which is essential for forming mature mRNA that can be translated.",
+      "zh": "关键概念 17.3 明确指出：“真核细胞在转录后修饰 RNA”。RNA 剪接是将非编码内含子从前 mRNA 中去除并连接编码外显子的过程，是真核生物转录后修饰的标志性特征，对于形成可翻译的成熟 mRNA 至关重要。",
+      "es": "El Concepto Clave 17.3 establece explícitamente: 'Las células eucariotas modifican el ARN después de la transcripción'. El empalme de ARN, el proceso de eliminación de intrones no codificantes y la unión de exones codificantes del pre-ARNm, es un sello distintivo de la modificación post-transcripcional en eucariotas, que es esencial para formar un ARNm maduro que pueda ser traducido.",
+      "fr": "Le concept clé 17.3 stipule explicitement : « Les cellules eucaryotes modifient l'ARN après la transcription ». L'épissage de l'ARN, processus de suppression des introns non codants et de jonction des exons codants de l'ARNm précurseur, est une caractéristique de la modification post-transcriptionnelle chez les eucaryotes, essentielle à la formation d'ARNm mature pouvant être traduit.",
+      "de": "Schlüsselkonzept 17.3 besagt ausdrücklich: „Eukaryotische Zellen modifizieren RNA nach der Transkription“. RNA-Spleißen, der Prozess des Entfernens von nicht-kodierenden Introns und des Verbindens von kodierenden Exons aus prä-mRNA, ist ein Kennzeichen der posttranskriptionellen Modifikation in Eukaryoten, das für die Bildung von reifer mRNA, die übersetzt werden kann, unerlässlich ist.",
+      "ja": "主要概念 17.3 では、「真核細胞は転写後に RNA を修飾する」と明示されています。RNA スプライシングは、非コードイントロンを除去し、コードするエクソンをプレ mRNA から結合させるプロセスであり、真核生物における転写後修飾の特徴であり、翻訳可能な成熟 mRNA の形成に不可欠です。"
+    }
+  }
+]

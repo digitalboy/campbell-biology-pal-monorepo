@@ -1,0 +1,385 @@
+[
+  {
+    "page_number": 369,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes a structural feature of the DNA double helix, as presented in the text?",
+      "zh": "根据文本描述，以下哪项陈述准确地描述了DNA双螺旋的结构特征？",
+      "es": "Según el texto, ¿cuál de las siguientes afirmaciones describe con precisión una característica estructural de la doble hélice de ADN?",
+      "fr": "Selon le texte, laquelle des affirmations suivantes décrit avec précision une caractéristique structurelle de la double hélice d'ADN ?",
+      "de": "Welche der folgenden Aussagen beschreibt gemäß dem Text eine strukturelle Eigenschaft der DNA-Doppelhelix genau?",
+      "ja": "テキストに記載されているように、DNA二重らせんの構造的特徴を正確に記述しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Each full turn of the helix is 0.34 nm long and contains 10 base pairs.",
+          "zh": "螺旋的每个完整转圈长0.34纳米，包含10个碱基对。",
+          "es": "Cada vuelta completa de la hélice mide 0.34 nm de largo y contiene 10 pares de bases.",
+          "fr": "Chaque tour complet de l'hélice mesure 0,34 nm de long et contient 10 paires de bases.",
+          "de": "Jede volle Windung der Helix ist 0,34 nm lang und enthält 10 Basenpaare.",
+          "ja": "らせんの各完全なターンは0.34 nmの長さで、10個の塩基対を含んでいます。"
+        },
+        "feedback": {
+          "en": "A full turn is 3.4 nm long, while 0.34 nm is the distance between stacked base pairs.",
+          "zh": "一个完整转圈长3.4纳米，而0.34纳米是堆叠碱基对之间的距离。",
+          "es": "Una vuelta completa mide 3.4 nm de largo, mientras que 0.34 nm es la distancia entre pares de bases apilados.",
+          "fr": "Un tour complet mesure 3,4 nm de long, tandis que 0,34 nm est la distance entre les paires de bases empilées.",
+          "de": "Eine volle Windung ist 3,4 nm lang, während 0,34 nm der Abstand zwischen gestapelten Basenpaaren ist.",
+          "ja": "完全なターンは3.4 nmの長さであり、0.34 nmは積み重ねられた塩基対間の距離です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The sugar-phosphate backbones form the 'rungs' of the ladder, while nitrogenous bases form the 'sides'.",
+          "zh": "糖-磷酸骨架构成梯子的“横档”，而含氮碱基构成“侧边”。",
+          "es": "Las cadenas de azúcar-fosfato forman los 'peldaños' de la escalera, mientras que las bases nitrogenadas forman los 'lados'.",
+          "fr": "Les squelettes sucre-phosphate forment les 'barreaux' de l'échelle, tandis que les bases azotées forment les 'côtés'.",
+          "de": "Die Zucker-Phosphat-Rückgrate bilden die „Sprossen“ der Leiter, während die stickstoffhaltigen Basen die „Seiten“ bilden.",
+          "ja": "糖リン酸骨格がはしごの「横木」を形成し、窒素塩基が「側面」を形成します。"
+        },
+        "feedback": {
+          "en": "The sugar-phosphate backbones form the sides, and nitrogenous bases form the rungs.",
+          "zh": "糖-磷酸骨架形成侧边，含氮碱基形成横档。",
+          "es": "Las cadenas de azúcar-fosfato forman los lados, y las bases nitrogenadas forman los peldaños.",
+          "fr": "Les squelettes sucre-phosphate forment les côtés, et les bases azotées forment les barreaux.",
+          "de": "Die Zucker-Phosphat-Rückgrate bilden die Seiten und die stickstoffhaltigen Basen die Sprossen.",
+          "ja": "糖リン酸骨格が側面を形成し、窒素塩基が横木を形成します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The double helix has a uniform diameter because a purine always pairs with a pyrimidine.",
+          "zh": "双螺旋具有均匀的直径，因为一个嘌呤总是与一个嘧啶配对。",
+          "es": "La doble hélice tiene un diámetro uniforme porque una purina siempre se empareja con una pirimidina.",
+          "fr": "La double hélice a un diamètre uniforme car une purine s'apparie toujours avec une pyrimidine.",
+          "de": "Die Doppelhelix hat einen gleichmäßigen Durchmesser, weil sich eine Purinbase immer mit einer Pyrimidinbase paart.",
+          "ja": "二重らせんは、プリンが常にピリミジンと対になるため、均一な直径を持っています。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "There are 3.4 base pairs per full turn of the helix.",
+          "zh": "螺旋的每个完整转圈有3.4个碱基对。",
+          "es": "Hay 3.4 pares de bases por cada vuelta completa de la hélice.",
+          "fr": "Il y a 3,4 paires de bases par tour complet de l'hélice.",
+          "de": "Es gibt 3,4 Basenpaare pro voller Windung der Helix.",
+          "ja": "らせんの完全なターンごとに3.4個の塩基対があります。"
+        },
+        "feedback": {
+          "en": "There are ten base pairs per full turn, not 3.4.",
+          "zh": "每个完整转圈有10个碱基对，而不是3.4个。",
+          "es": "Hay diez pares de bases por vuelta completa, no 3.4.",
+          "fr": "Il y a dix paires de bases par tour complet, et non 3,4.",
+          "de": "Es gibt zehn Basenpaare pro voller Windung, nicht 3,4.",
+          "ja": "完全なターンごとに10個の塩基対があり、3.4個ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states that 'Pairing a purine with a pyrimidine is the only combination that results in a uniform diameter for the double helix'. This is why initial 'like-with-like' pairing models (e.g., A with A, C with C) did not fit X-ray data. A full turn is 3.4 nm long, contains 10 base pairs, and the sugar-phosphate backbones form the sides, with nitrogenous bases forming the rungs.",
+      "zh": "文本指出“嘌呤与嘧啶配对是唯一能使双螺旋保持均匀直径的组合”。这就是为什么最初的“同类相配”模型（例如，A与A、C与C）不符合X射线数据的原因。一个完整转圈长3.4纳米，包含10个碱基对，糖-磷酸骨架构成侧边，含氮碱基构成横档。",
+      "es": "El texto afirma que 'El emparejamiento de una purina con una pirimidina es la única combinación que resulta en un diámetro uniforme para la doble hélice'. Por eso, los modelos iniciales de emparejamiento 'similar con similar' (por ejemplo, A con A, C con C) no encajaban con los datos de rayos X. Una vuelta completa mide 3.4 nm de largo, contiene 10 pares de bases, y los esqueletos de azúcar-fosfato forman los lados, con las bases nitrogenadas formando los peldaños.",
+      "fr": "Le texte indique que 'L'appariement d'une purine avec une pyrimidine est la seule combinaison qui donne un diamètre uniforme à la double hélice'. C'est pourquoi les modèles initiaux d'appariement 'semblable avec semblable' (par exemple, A avec A, C avec C) ne correspondaient pas aux données de rayons X. Un tour complet mesure 3,4 nm de long, contient 10 paires de bases, et les squelettes sucre-phosphate forment les côtés, les bases azotées formant les barreaux.",
+      "de": "Der Text besagt, dass „die Paarung einer Purinbase mit einer Pyrimidinbase die einzige Kombination ist, die zu einem gleichmäßigen Durchmesser der Doppelhelix führt“. Aus diesem Grund passten anfängliche „Gleich-mit-Gleich“-Paarungsmodelle (z. B. A mit A, C mit C) nicht zu den Röntgenstrahlendaten. Eine volle Windung ist 3,4 nm lang, enthält 10 Basenpaare, und die Zucker-Phosphat-Rückgrate bilden die Seiten, wobei die stickstoffhaltigen Basen die Sprossen bilden.",
+      "ja": "テキストには、「プリンとピリミジンのペアリングが、二重らせんに均一な直径をもたらす唯一の組み合わせである」と記載されています。これが、初期の「同種間」のペアリングモデル（例：AとA、CとC）がX線データに適合しなかった理由です。完全なターンは3.4 nmの長さで、10個の塩基対を含み、糖リン酸骨格が側面を形成し、窒素塩基が横木を形成します。"
+    }
+  },
+  {
+    "page_number": 369,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, which of the following correctly classifies the nitrogenous bases found in DNA?",
+      "zh": "根据文本，以下哪项正确地分类了DNA中发现的含氮碱基？",
+      "es": "Según el texto, ¿cuál de las siguientes clasificaciones de las bases nitrogenadas encontradas en el ADN es correcta?",
+      "fr": "Selon le texte, laquelle des classifications suivantes des bases azotées trouvées dans l'ADN est correcte ?",
+      "de": "Welche der folgenden Klassifizierungen der im DNA gefundenen stickstoffhaltigen Basen ist laut Text korrekt?",
+      "ja": "テキストによると、DNAに見られる窒素塩基を正しく分類しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Purines: Adenine (A) and Cytosine (C); Pyrimidines: Guanine (G) and Thymine (T)",
+          "zh": "嘌呤：腺嘌呤(A)和胞嘧啶(C)；嘧啶：鸟嘌呤(G)和胸腺嘧啶(T)",
+          "es": "Purinas: Adenina (A) y Citosina (C); Pirimidinas: Guanina (G) y Timina (T)",
+          "fr": "Purines : Adénine (A) et Cytosine (C) ; Pyrimidines : Guanine (G) et Thymine (T)",
+          "de": "Purine: Adenin (A) und Cytosin (C); Pyrimidine: Guanin (G) und Thymin (T)",
+          "ja": "プリン: アデニン (A) およびシトシン (C); ピリミジン: グアニン (G) およびチミン (T)"
+        },
+        "feedback": {
+          "en": "Cytosine is a pyrimidine, and Guanine is a purine.",
+          "zh": "胞嘧啶是嘧啶，鸟嘌呤是嘌呤。",
+          "es": "La citosina es una pirimidina y la guanina es una purina.",
+          "fr": "La cytosine est une pyrimidine et la guanine est une purine.",
+          "de": "Cytosin ist ein Pyrimidin und Guanin ist ein Purin.",
+          "ja": "シトシンはピリミジンであり、グアニンはプリンです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Purines: Guanine (G) and Thymine (T); Pyrimidines: Adenine (A) and Cytosine (C)",
+          "zh": "嘌呤：鸟嘌呤(G)和胸腺嘧啶(T)；嘧啶：腺嘌呤(A)和胞嘧啶(C)",
+          "es": "Purinas: Guanina (G) y Timina (T); Pirimidinas: Adenina (A) y Citosina (C)",
+          "fr": "Purines : Guanine (G) et Thymine (T) ; Pyrimidines : Adénine (A) et Cytosine (C)",
+          "de": "Purine: Guanin (G) und Thymin (T); Pyrimidine: Adenin (A) und Cytosin (C)",
+          "ja": "プリン: グアニン (G) およびチミン (T); ピリミジン: アデニン (A) およびシトシン (C)"
+        },
+        "feedback": {
+          "en": "Thymine is a pyrimidine, and Adenine is a purine.",
+          "zh": "胸腺嘧啶是嘧啶，腺嘌呤是嘌呤。",
+          "es": "La timina es una pirimidina y la adenina es una purina.",
+          "fr": "La thymine est une pyrimidine et l'adénine est une purine.",
+          "de": "Thymin ist ein Pyrimidin und Adenin ist ein Purin.",
+          "ja": "チミンはピリミジンであり、アデニンはプリンです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Purines: Adenine (A) and Guanine (G); Pyrimidines: Cytosine (C) and Thymine (T)",
+          "zh": "嘌呤：腺嘌呤(A)和鸟嘌呤(G)；嘧啶：胞嘧啶(C)和胸腺嘧啶(T)",
+          "es": "Purinas: Adenina (A) y Guanina (G); Pirimidinas: Citosina (C) y Timina (T)",
+          "fr": "Purines : Adénine (A) et Guanine (G) ; Pyrimidines : Cytosine (C) et Thymine (T)",
+          "de": "Purine: Adenin (A) und Guanin (G); Pyrimidine: Cytosin (C) und Thymin (T)",
+          "ja": "プリン: アデニン (A) およびグアニン (G); ピリミジン: シトシン (C) およびチミン (T)"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Purines: Cytosine (C) and Thymine (T); Pyrimidines: Adenine (A) and Guanine (G)",
+          "zh": "嘌呤：胞嘧啶(C)和胸腺嘧啶(T)；嘧啶：腺嘌呤(A)和鸟嘌呤(G)",
+          "es": "Purinas: Citosina (C) y Timina (T); Pirimidinas: Adenina (A) y Guanina (G)",
+          "fr": "Purines : Cytosine (C) et Thymine (T) ; Pyrimidines : Adénine (A) et Guanine (G)",
+          "de": "Purine: Cytosin (C) und Thymin (T); Pyrimidine: Adenin (A) und Guanin (G)",
+          "ja": "プリン: シトシン (C) およびチミン (T); ピリミジン: アデニン (A) およびグアニン (G)"
+        },
+        "feedback": {
+          "en": "This classification is incorrect. Cytosine and Thymine are pyrimidines, while Adenine and Guanine are purines.",
+          "zh": "这种分类是错误的。胞嘧啶和胸腺嘧啶是嘧啶，而腺嘌呤和鸟嘌呤是嘌呤。",
+          "es": "Esta clasificación es incorrecta. La citosina y la timina son pirimidinas, mientras que la adenina y la guanina son purinas.",
+          "fr": "Cette classification est incorrecte. La cytosine et la thymine sont des pyrimidines, tandis que l'adénine et la guanine sont des purines.",
+          "de": "Diese Klassifizierung ist falsch. Cytosin und Thymin sind Pyrimidine, während Adenin und Guanin Purine sind.",
+          "ja": "この分類は正しくありません。シトシンとチミンはピリミジンであり、アデニンとグアニンはプリンです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Adenine and guanine are purines, nitrogenous bases with two organic rings, while cytosine and thymine are nitrogenous bases called pyrimidines, which have a single ring.'",
+      "zh": "文本明确指出：“腺嘌呤和鸟嘌呤是嘌呤，是具有两个有机环的含氮碱基；而胞嘧啶和胸腺嘧啶是嘧啶，是具有一个环的含氮碱基。”",
+      "es": "El texto establece explícitamente: 'La adenina y la guanina son purinas, bases nitrogenadas con dos anillos orgánicos, mientras que la citosina y la timina son bases nitrogenadas llamadas pirimidinas, que tienen un solo anillo.'",
+      "fr": "Le texte indique explicitement : 'L'adénine et la guanine sont des purines, des bases azotées avec deux anneaux organiques, tandis que la cytosine et la thymine sont des bases azotées appelées pyrimidines, qui ont un seul anneau.'",
+      "de": "Der Text besagt explizit: „Adenin und Guanin sind Purine, stickstoffhaltige Basen mit zwei organischen Ringen, während Cytosin und Thymin stickstoffhaltige Basen sind, die Pyrimidine genannt werden und einen einzelnen Ring besitzen.“",
+      "ja": "テキストには、「アデニンとグアニンは2つの有機環を持つ窒素塩基であるプリンであり、シトシンとチミンは単一の環を持つピリミジンと呼ばれる窒素塩基である」と明示的に述べられています。"
+    }
+  },
+  {
+    "page_number": 369,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 16.9 and the accompanying text, what is the primary difference in hydrogen bonding between Adenine-Thymine (A-T) pairs and Guanine-Cytosine (G-C) pairs?",
+      "zh": "根据图16.9及附带文本，腺嘌呤-胸腺嘧啶(A-T)配对和鸟嘌呤-胞嘧啶(G-C)配对在氢键数量上的主要区别是什么？",
+      "es": "Basándose en la Figura 16.9 y el texto adjunto, ¿cuál es la principal diferencia en el enlace de hidrógeno entre los pares de Adenina-Timina (A-T) y los pares de Guanina-Citosina (G-C)?",
+      "fr": "D'après la Figure 16.9 et le texte d'accompagnement, quelle est la principale différence en termes de liaisons hydrogène entre les paires Adénine-Thymine (A-T) et les paires Guanine-Cytosine (G-C) ?",
+      "de": "Basierend auf Abbildung 16.9 und dem begleitenden Text, was ist der Hauptunterschied in der Wasserstoffbrückenbindung zwischen Adenin-Thymin (A-T)-Paaren und Guanin-Cytosin (G-C)-Paaren?",
+      "ja": "図16.9と付随するテキストに基づくと、アデニン-チミン（A-T）対とグアニン-シトシン（G-C）対の水素結合における主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A-T pairs form three hydrogen bonds, while G-C pairs form two.",
+          "zh": "A-T配对形成三个氢键，而G-C配对形成两个。",
+          "es": "Los pares A-T forman tres enlaces de hidrógeno, mientras que los pares G-C forman dos.",
+          "fr": "Les paires A-T forment trois liaisons hydrogène, tandis que les paires G-C en forment deux.",
+          "de": "A-T-Paare bilden drei Wasserstoffbrückenbindungen, während G-C-Paare zwei bilden.",
+          "ja": "A-T対は3つの水素結合を形成し、G-C対は2つの水素結合を形成します。"
+        },
+        "feedback": {
+          "en": "The numbers are reversed. A-T forms two, G-C forms three.",
+          "zh": "数字颠倒了。A-T形成两个，G-C形成三个。",
+          "es": "Los números están invertidos. A-T forma dos, G-C forma tres.",
+          "fr": "Les nombres sont inversés. A-T en forme deux, G-C en forme trois.",
+          "de": "Die Zahlen sind vertauscht. A-T bildet zwei, G-C bildet drei.",
+          "ja": "数が逆です。A-Tは2つ、G-Cは3つです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A-T pairs and G-C pairs both form two hydrogen bonds.",
+          "zh": "A-T配对和G-C配对都形成两个氢键。",
+          "es": "Tanto los pares A-T como los G-C forman dos enlaces de hidrógeno.",
+          "fr": "Les paires A-T et les paires G-C forment toutes deux deux liaisons hydrogène.",
+          "de": "A-T-Paare und G-C-Paare bilden beide zwei Wasserstoffbrückenbindungen.",
+          "ja": "A-T対とG-C対はどちらも2つの水素結合を形成します。"
+        },
+        "feedback": {
+          "en": "G-C pairs form three hydrogen bonds.",
+          "zh": "G-C配对形成三个氢键。",
+          "es": "Los pares G-C forman tres enlaces de hidrógeno.",
+          "fr": "Les paires G-C forment trois liaisons hydrogène.",
+          "de": "G-C-Paare bilden drei Wasserstoffbrückenbindungen.",
+          "ja": "G-C対は3つの水素結合を形成します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A-T pairs form two hydrogen bonds, while G-C pairs form three.",
+          "zh": "A-T配对形成两个氢键，而G-C配对形成三个。",
+          "es": "Los pares A-T forman dos enlaces de hidrógeno, mientras que los pares G-C forman tres.",
+          "fr": "Les paires A-T forment deux liaisons hydrogène, tandis que les paires G-C en forment trois.",
+          "de": "A-T-Paare bilden zwei Wasserstoffbrückenbindungen, während G-C-Paare drei bilden.",
+          "ja": "A-T対は2つの水素結合を形成し、G-C対は3つの水素結合を形成します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A-T pairs form one hydrogen bond, while G-C pairs form two.",
+          "zh": "A-T配对形成一个氢键，而G-C配对形成两个。",
+          "es": "Los pares A-T forman un enlace de hidrógeno, mientras que los pares G-C forman dos.",
+          "fr": "Les paires A-T forment une liaison hydrogène, tandis que les paires G-C en forment deux.",
+          "de": "A-T-Paare bilden eine Wasserstoffbrückenbindung, während G-C-Paare zwei bilden.",
+          "ja": "A-T対は1つの水素結合を形成し、G-C対は2つの水素結合を形成します。"
+        },
+        "feedback": {
+          "en": "Both A-T and G-C pairs form more than one hydrogen bond.",
+          "zh": "A-T和G-C配对都形成不止一个氢键。",
+          "es": "Ambos pares A-T y G-C forman más de un enlace de hidrógeno.",
+          "fr": "Les paires A-T et G-C forment toutes deux plus d'une liaison hydrogène.",
+          "de": "Sowohl A-T- als auch G-C-Paare bilden mehr als eine Wasserstoffbrückenbindung.",
+          "ja": "A-T対とG-C対はどちらも複数の水素結合を形成します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Adenine can form two hydrogen bonds with thymine and only thymine; guanine forms three hydrogen bonds with cytosine and only cytosine.' Figure 16.9 visually confirms these numbers.",
+      "zh": "文本明确指出：“腺嘌呤可以与胸腺嘧啶形成两个氢键，且只能与胸腺嘧啶；鸟嘌呤与胞嘧啶形成三个氢键，且只能与胞嘧啶。” 图16.9也视觉上证实了这些数量。",
+      "es": "El texto establece explícitamente: 'La adenina puede formar dos enlaces de hidrógeno con la timina y solo con la timina; la guanina forma tres enlaces de hidrógeno con la citosina y solo con la citosina.' La Figura 16.9 confirma visualmente estos números.",
+      "fr": "Le texte indique explicitement : 'L'adénine peut former deux liaisons hydrogène avec la thymine et seulement la thymine ; la guanine forme trois liaisons hydrogène avec la cytosine et seulement la cytosine.' La Figure 16.9 confirme visuellement ces chiffres.",
+      "de": "Der Text besagt explizit: „Adenin kann zwei Wasserstoffbrückenbindungen mit Thymin und nur Thymin bilden; Guanin bildet drei Wasserstoffbrückenbindungen mit Cytosin und nur Cytosin.“ Abbildung 16.9 bestätigt diese Zahlen visuell.",
+      "ja": "テキストには、「アデニンはチミンと、そしてチミンとのみ2つの水素結合を形成する。グアニンはシトシンと、そしてシトシンとのみ3つの水素結合を形成する」と明確に記載されています。図16.9はこれらの数値を視覚的に確認しています。"
+    }
+  },
+  {
+    "page_number": 369,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A double-stranded DNA molecule is analyzed, and it is found that 22% of its nitrogenous bases are Cytosine (C). Based on Chargaff's rules as described in the text, what percentage of the bases in this DNA molecule would be Adenine (A)?",
+      "zh": "分析一个双链DNA分子，发现其22%的含氮碱基是胞嘧啶(C)。根据文本中描述的查加夫法则，该DNA分子中腺嘌呤(A)的百分比是多少？",
+      "es": "Se analiza una molécula de ADN de doble cadena y se encuentra que el 22% de sus bases nitrogenadas son Citosina (C). Según las reglas de Chargaff descritas en el texto, ¿qué porcentaje de las bases en esta molécula de ADN sería Adenina (A)?",
+      "fr": "Une molécule d'ADN double brin est analysée, et il est constaté que 22% de ses bases azotées sont de la Cytosine (C). Selon les règles de Chargaff telles que décrites dans le texte, quel pourcentage des bases de cette molécule d'ADN serait de l'Adénine (A) ?",
+      "de": "Ein doppelsträngiges DNA-Molekül wird analysiert, und es wird festgestellt, dass 22% seiner stickstoffhaltigen Basen Cytosin (C) sind. Basierend auf Chargaffs Regeln, wie im Text beschrieben, welcher Prozentsatz der Basen in diesem DNA-Molekül wäre Adenin (A)?",
+      "ja": "二本鎖DNA分子を分析したところ、その窒素塩基の22%がシトシン（C）であることが判明しました。テキストに記載されているシャルガフの法則に基づくと、このDNA分子中のアデニン（A）の割合は何パーセントですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "22%",
+          "zh": "22%",
+          "es": "22%",
+          "fr": "22%",
+          "de": "22%",
+          "ja": "22%"
+        },
+        "feedback": {
+          "en": "22% would be Guanine, as C pairs with G. You need to calculate the percentage of A.",
+          "zh": "22%将是鸟嘌呤，因为C与G配对。你需要计算A的百分比。",
+          "es": "El 22% sería Guanina, ya que C se empareja con G. Debes calcular el porcentaje de A.",
+          "fr": "22% serait la Guanine, car C s'apparie avec G. Vous devez calculer le pourcentage de A.",
+          "de": "22% wäre Guanin, da C mit G paart. Sie müssen den Prozentsatz von A berechnen.",
+          "ja": "CはGと対になるため、22%はグアニンになります。Aの割合を計算する必要があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "28%",
+          "zh": "28%",
+          "es": "28%",
+          "fr": "28%",
+          "de": "28%",
+          "ja": "28%"
+        },
+        "feedback": {
+          "en": "28% is the correct answer. The total of G and C is 44%, leaving 56% for A and T. Since A=T, A would be 56%/2 = 28%.",
+          "zh": "28%是正确答案。G和C的总和是44%，剩下56%给A和T。因为A=T，所以A将是56%/2 = 28%。",
+          "es": "El 28% es la respuesta correcta. El total de G y C es 44%, dejando 56% para A y T. Como A=T, A sería 56%/2 = 28%.",
+          "fr": "28% est la bonne réponse. Le total de G et C est de 44%, laissant 56% pour A et T. Puisque A=T, A serait 56%/2 = 28%.",
+          "de": "28% ist die richtige Antwort. Die Summe von G und C beträgt 44%, was 56% für A und T übrig lässt. Da A=T, wäre A 56%/2 = 28%.",
+          "ja": "28%が正解です。GとCの合計は44%で、AとTに56%が残ります。A=Tなので、Aは56%/2 = 28%になります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "44%",
+          "zh": "44%",
+          "es": "44%",
+          "fr": "44%",
+          "de": "44%",
+          "ja": "44%"
+        },
+        "feedback": {
+          "en": "44% would be the combined percentage of Guanine and Cytosine (22% G + 22% C).",
+          "zh": "44%将是鸟嘌呤和胞嘧啶的总百分比（22% G + 22% C）。",
+          "es": "El 44% sería el porcentaje combinado de Guanina y Citosina (22% G + 22% C).",
+          "fr": "44% serait le pourcentage combiné de Guanine et de Cytosine (22% G + 22% C).",
+          "de": "44% wäre der kombinierte Prozentsatz von Guanin und Cytosin (22% G + 22% C).",
+          "ja": "44%はグアニンとシトシンの合計パーセンテージ（22% G + 22% C）になります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "56%",
+          "zh": "56%",
+          "es": "56%",
+          "fr": "56%",
+          "de": "56%",
+          "ja": "56%"
+        },
+        "feedback": {
+          "en": "56% would be the combined percentage of Adenine and Thymine. You need to find the percentage of Adenine alone.",
+          "zh": "56%将是腺嘌呤和胸腺嘧啶的总百分比。你需要单独找出腺嘌呤的百分比。",
+          "es": "El 56% sería el porcentaje combinado de Adenina y Timina. Necesitas encontrar el porcentaje de Adenina sola.",
+          "fr": "56% serait le pourcentage combiné d'Adénine et de Thymine. Vous devez trouver le pourcentage d'Adénine seule.",
+          "de": "56% wäre der kombinierte Prozentsatz von Adenin und Thymin. Sie müssen den Prozentsatz von Adenin allein finden.",
+          "ja": "56%はアデニンとチミンの合計パーセンテージです。アデニンのみのパーセンテージを見つける必要があります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Chargaff's rules state that in DNA, the amount of adenine equals the amount of thymine (A=T), and the amount of guanine equals the amount of cytosine (G=C). If C = 22%, then G must also be 22%. The total percentage of G and C is 22% + 22% = 44%. The remaining percentage must be for A and T: 100% - 44% = 56%. Since A = T, Adenine would be 56% / 2 = 28%.",
+      "zh": "查加夫法则指出，在DNA中，腺嘌呤的量等于胸腺嘧啶的量（A=T），鸟嘌呤的量等于胞嘧啶的量（G=C）。如果C = 22%，那么G也必须是22%。G和C的总百分比是22% + 22% = 44%。剩下的百分比必须是A和T：100% - 44% = 56%。由于A = T，所以腺嘌呤将是56% / 2 = 28%。",
+      "es": "Las reglas de Chargaff establecen que en el ADN, la cantidad de adenina es igual a la cantidad de timina (A=T), y la cantidad de guanina es igual a la cantidad de citosina (G=C). Si C = 22%, entonces G también debe ser 22%. El porcentaje total de G y C es 22% + 22% = 44%. El porcentaje restante debe ser para A y T: 100% - 44% = 56%. Dado que A = T, la Adenina sería 56% / 2 = 28%.",
+      "fr": "Les règles de Chargaff stipulent que dans l'ADN, la quantité d'adénine est égale à la quantité de thymine (A=T), et la quantité de guanine est égale à la quantité de cytosine (G=C). Si C = 22%, alors G doit également être 22%. Le pourcentage total de G et C est de 22% + 22% = 44%. Le pourcentage restant doit être pour A et T : 100% - 44% = 56%. Puisque A = T, l'Adénine serait 56% / 2 = 28%.",
+      "de": "Chargaffs Regeln besagen, dass im DNA die Menge an Adenin der Menge an Thymin (A=T) entspricht und die Menge an Guanin der Menge an Cytosin (G=C). Wenn C = 22%, dann muss G ebenfalls 22% sein. Der Gesamtprozentsatz von G und C beträgt 22% + 22% = 44%. Der verbleibende Prozentsatz muss für A und T sein: 100% - 44% = 56%. Da A = T, wäre Adenin 56% / 2 = 28%.",
+      "ja": "シャルガフの法則によると、DNAではアデニンの量がチミンの量と等しく（A=T）、グアニンの量がシトシンの量と等しい（G=C）。もしCが22%なら、Gも22%でなければなりません。GとCの合計パーセンテージは22% + 22% = 44%です。残りのパーセンテージはAとTに割り当てられます：100% - 44% = 56%。A=Tなので、アデニンは56% / 2 = 28%になります。"
+    }
+  }
+]

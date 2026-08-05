@@ -1,0 +1,272 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the 'Data from the Experiment' table, what happens to the average amount of DNA per cell between 1.0 and 5.0 hours after the induction of meiosis?",
+      "zh": "根据“实验数据”表，在诱导减数分裂后的1.0到5.0小时之间，每个细胞的平均DNA含量发生了什么变化？",
+      "es": "Según la tabla 'Datos del experimento', ¿qué sucede con la cantidad promedio de ADN por célula entre 1.0 y 5.0 horas después de la inducción de la meiosis?",
+      "fr": "D'après le tableau « Données de l'expérience », qu'advient-il de la quantité moyenne d'ADN par cellule entre 1,0 et 5,0 heures après l'induction de la méiose ?",
+      "de": "Was geschieht laut der Tabelle „Daten aus dem Experiment“ mit der durchschnittlichen DNA-Menge pro Zelle zwischen 1,0 und 5,0 Stunden nach der Induktion der Meiose?",
+      "ja": "「実験データ」表によると、減数分裂誘導後1.0時間から5.0時間の間に、細胞あたりの平均DNA量はどうなりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It decreases by half.",
+          "zh": "减少了一半。",
+          "es": "Disminuye a la mitad.",
+          "fr": "Elle diminue de moitié.",
+          "de": "Sie nimmt um die Hälfte ab.",
+          "ja": "半分に減少する。"
+        },
+        "feedback": {
+          "en": "This describes a reduction, but the data shows a significant increase in this time frame.",
+          "zh": "这描述的是减少，但数据显示在此时间范围内有显著增加。",
+          "es": "Esto describe una reducción, pero los datos muestran un aumento significativo en este período de tiempo.",
+          "fr": "Ceci décrit une réduction, mais les données montrent une augmentation significative dans ce laps de temps.",
+          "de": "Dies beschreibt eine Reduzierung, aber die Daten zeigen in diesem Zeitraum einen signifikanten Anstieg.",
+          "ja": "これは減少を表していますが、データはこの期間に大幅な増加を示しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It remains constant.",
+          "zh": "保持不变。",
+          "es": "Permanece constante.",
+          "fr": "Elle reste constante.",
+          "de": "Sie bleibt konstant.",
+          "ja": "一定に保たれる。"
+        },
+        "feedback": {
+          "en": "The value changes from 24.0 fg to 48.0 fg, which is not constant.",
+          "zh": "数值从24.0 fg变为48.0 fg，不是恒定的。",
+          "es": "El valor cambia de 24.0 fg a 48.0 fg, lo cual no es constante.",
+          "fr": "La valeur passe de 24,0 fg à 48,0 fg, ce qui n'est pas constant.",
+          "de": "Der Wert ändert sich von 24,0 fg auf 48,0 fg, was nicht konstant ist.",
+          "ja": "値は24.0 fgから48.0 fgに変化しており、一定ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It approximately doubles.",
+          "zh": "大约增加了一倍。",
+          "es": "Se duplica aproximadamente.",
+          "fr": "Elle double approximativement.",
+          "de": "Sie verdoppelt sich ungefähr.",
+          "ja": "約2倍になる。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It fluctuates randomly.",
+          "zh": "随机波动。",
+          "es": "Fluctúa aleatoriamente.",
+          "fr": "Elle fluctue de manière aléatoire.",
+          "de": "Sie schwankt zufällig.",
+          "ja": "ランダムに変動する。"
+        },
+        "feedback": {
+          "en": "The data shows a clear, steady increase, not a random fluctuation.",
+          "zh": "数据显示出清晰、稳定的增长，而非随机波动。",
+          "es": "Los datos muestran un aumento claro y constante, no una fluctuación aleatoria.",
+          "fr": "Les données montrent une augmentation claire et régulière, et non une fluctuation aléatoire.",
+          "de": "Die Daten zeigen einen klaren, stetigen Anstieg, keine zufällige Schwankung.",
+          "ja": "データはランダムな変動ではなく、明確で着実な増加を示しています。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "At 1.0 hour, the average DNA amount is 24.0 fg. It increases steadily until it reaches a peak of 48.0 fg at 5.0 hours. This doubling of DNA content corresponds to the S phase (DNA synthesis) of the cell cycle, which precedes meiosis.",
+      "zh": "在1.0小时，平均DNA含量为24.0 fg。它稳步增加，直到在5.0小时达到峰值48.0 fg。DNA含量的这种加倍对应于细胞周期的S期（DNA合成），它发生在减数分裂之前。",
+      "es": "A la 1.0 hora, la cantidad promedio de ADN es de 24.0 fg. Aumenta de manera constante hasta que alcanza un pico de 48.0 fg a las 5.0 horas. Esta duplicación del contenido de ADN corresponde a la fase S (síntesis de ADN) del ciclo celular, que precede a la meiosis.",
+      "fr": "À 1,0 heure, la quantité moyenne d'ADN est de 24,0 fg. Elle augmente régulièrement jusqu'à atteindre un pic de 48,0 fg à 5,0 heures. Ce doublement de la teneur en ADN correspond à la phase S (synthèse de l'ADN) du cycle cellulaire, qui précède la méiose.",
+      "de": "Nach 1,0 Stunde beträgt die durchschnittliche DNA-Menge 24,0 fg. Sie steigt stetig an, bis sie nach 5,0 Stunden einen Höchstwert von 48,0 fg erreicht. Diese Verdopplung des DNA-Gehalts entspricht der S-Phase (DNA-Synthese) des Zellzyklus, die der Meiose vorausgeht.",
+      "ja": "1.0時間で、平均DNA量は24.0 fgです。それは着実に増加し、5.0時間で48.0 fgのピークに達します。このDNA量の倍増は、減数分裂に先行する細胞周期のS期（DNA合成）に対応します。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The data shows a sharp drop in DNA content starting around 7.0 hours. What specific event in meiosis does this 'corner' in the graph, where the downward slope begins, most likely represent?",
+      "zh": "数据显示DNA含量在7.0小时左右开始急剧下降。图表中这个下降斜率开始的“拐点”最可能代表了减数分裂中的哪个特定事件？",
+      "es": "Los datos muestran una fuerte caída en el contenido de ADN a partir de las 7.0 horas. ¿Qué evento específico en la meiosis representa más probablemente esta 'esquina' en el gráfico, donde comienza la pendiente descendente?",
+      "fr": "Les données montrent une forte baisse de la teneur en ADN à partir d'environ 7,0 heures. Quel événement spécifique de la méiose ce « coin » du graphique, où la pente descendante commence, représente-t-il le plus probablement ?",
+      "de": "Die Daten zeigen einen starken Abfall des DNA-Gehalts ab etwa 7,0 Stunden. Welches spezifische Ereignis in der Meiose stellt diese „Ecke“ im Diagramm, an der die abfallende Steigung beginnt, am wahrscheinlichsten dar?",
+      "ja": "データは、7.0時間あたりからDNA含有量が急激に減少することを示しています。グラフのこの「角」、つまり下降勾配が始まる点は、減数分裂におけるどの特定のイベントを最もよく表していますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The beginning of Prophase I.",
+          "zh": "前期I的开始。",
+          "es": "El comienzo de la Profase I.",
+          "fr": "Le début de la prophase I.",
+          "de": "Der Beginn der Prophase I.",
+          "ja": "前期Iの始まり。"
+        },
+        "feedback": {
+          "en": "Prophase I occurs when DNA content is at its peak (4C), before any reduction.",
+          "zh": "前期I发生在DNA含量达到峰值（4C）时，在任何减少发生之前。",
+          "es": "La Profase I ocurre cuando el contenido de ADN está en su punto máximo (4C), antes de cualquier reducción.",
+          "fr": "La prophase I se produit lorsque la teneur en ADN est à son maximum (4C), avant toute réduction.",
+          "de": "Die Prophase I findet statt, wenn der DNA-Gehalt seinen Höhepunkt (4C) erreicht hat, bevor eine Reduktion stattfindet.",
+          "ja": "前期Iは、DNA含有量がピーク（4C）にあるとき、つまり減少が起こる前に発生します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The separation of homologous chromosomes in Anaphase I.",
+          "zh": "后期I中同源染色体的分离。",
+          "es": "La separación de los cromosomas homólogos en la Anafase I.",
+          "fr": "La séparation des chromosomes homologues en anaphase I.",
+          "de": "Die Trennung homologer Chromosomen in der Anaphase I.",
+          "ja": "後期Iにおける相同染色体の分離。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The separation of sister chromatids in Anaphase II.",
+          "zh": "后期II中姐妹染色单体的分离。",
+          "es": "La separación de las cromátidas hermanas en la Anafase II.",
+          "fr": "La séparation des chromatides sœurs en anaphase II.",
+          "de": "Die Trennung der Schwesterchromatiden in der Anaphase II.",
+          "ja": "後期IIにおける姉妹染色分体の分離。"
+        },
+        "feedback": {
+          "en": "This would cause the second drop in DNA content, from 2C to 1C, which occurs later in the timeline (around 9.0 hours).",
+          "zh": "这会导致DNA含量的第二次下降，从2C到1C，这发生在时间线的后期（大约9.0小时）。",
+          "es": "Esto causaría la segunda caída en el contenido de ADN, de 2C a 1C, que ocurre más tarde en la línea de tiempo (alrededor de las 9.0 horas).",
+          "fr": "Cela provoquerait la deuxième baisse de la teneur en ADN, de 2C à 1C, qui se produit plus tard dans la chronologie (vers 9,0 heures).",
+          "de": "Dies würde den zweiten Abfall des DNA-Gehalts von 2C auf 1C verursachen, der später in der Zeitachse (um 9,0 Stunden) auftritt.",
+          "ja": "これにより、DNA含有量の2回目の減少（2Cから1Cへ）が引き起こされ、これはタイムラインの後半（約9.0時間）に発生します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The completion of DNA synthesis (S phase).",
+          "zh": "DNA合成（S期）的完成。",
+          "es": "La finalización de la síntesis de ADN (fase S).",
+          "fr": "L'achèvement de la synthèse de l'ADN (phase S).",
+          "de": "Der Abschluss der DNA-Synthese (S-Phase).",
+          "ja": "DNA合成（S期）の完了。"
+        },
+        "feedback": {
+          "en": "This corresponds to the peak of the graph (around 5.0-6.0 hours), not the beginning of the decline.",
+          "zh": "这对应于图表的峰值（大约5.0-6.0小时），而不是下降的开始。",
+          "es": "Esto corresponde al pico del gráfico (alrededor de 5.0-6.0 horas), no al comienzo del declive.",
+          "fr": "Cela correspond au pic du graphique (environ 5,0-6,0 heures), et non au début de la baisse.",
+          "de": "Dies entspricht dem Höhepunkt des Graphen (ca. 5,0-6,0 Stunden), nicht dem Beginn des Abfalls.",
+          "ja": "これは、下降の始まりではなく、グラフのピーク（約5.0〜6.0時間）に対応します。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The peak DNA content (approx. 48.0 fg) represents the 4C value in G2/Metaphase I. The first major drop in DNA content, where the amount is halved, represents the division of the cell into two haploid cells, each with duplicated chromosomes (2C). This halving is the result of homologous chromosomes separating during Anaphase I and the subsequent cytokinesis.",
+      "zh": "DNA含量的峰值（约48.0 fg）代表G2/中期I的4C值。DNA含量的第一次大幅下降，即数量减半，代表细胞分裂成两个单倍体细胞，每个细胞都带有复制的染色体（2C）。这次减半是同源染色体在后期I分离及随后的胞质分裂的结果。",
+      "es": "El contenido máximo de ADN (aprox. 48.0 fg) representa el valor 4C en G2/Metafase I. La primera caída importante en el contenido de ADN, donde la cantidad se reduce a la mitad, representa la división de la célula en dos células haploides, cada una con cromosomas duplicados (2C). Esta reducción a la mitad es el resultado de la separación de los cromosomas homólogos durante la Anafase I y la posterior citocinesis.",
+      "fr": "Le pic de teneur en ADN (environ 48,0 fg) représente la valeur 4C en G2/Métaphase I. La première baisse importante de la teneur en ADN, où la quantité est réduite de moitié, représente la division de la cellule en deux cellules haploïdes, chacune avec des chromosomes dupliqués (2C). Cette réduction de moitié est le résultat de la séparation des chromosomes homologues pendant l'anaphase I et de la cytokinèse qui s'ensuit.",
+      "de": "Der maximale DNA-Gehalt (ca. 48,0 fg) stellt den 4C-Wert in G2/Metaphase I dar. Der erste große Abfall des DNA-Gehalts, bei dem die Menge halbiert wird, stellt die Teilung der Zelle in zwei haploide Zellen dar, jede mit duplizierten Chromosomen (2C). Diese Halbierung ist das Ergebnis der Trennung homologer Chromosomen während der Anaphase I und der anschließenden Zytokinese.",
+      "ja": "DNA含有量のピーク（約48.0 fg）は、G2/中期Iの4C値を表します。DNA含有量の最初の大幅な減少、つまり量が半分になることは、細胞が2つの単数体細胞に分裂することを表し、それぞれが複製された染色体（2C）を持っています。この半減は、後期I中の相同染色体の分離とその後の細胞質分裂の結果です。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Using the provided data, calculate the approximate number of base pairs in the haploid yeast genome. (1 fg of DNA = 9.78 x 10^5 base pairs).",
+      "zh": "使用提供的数据，计算单倍体酵母基因组中碱基对的大致数量。(1 fg DNA = 9.78 x 10^5 碱基对)。",
+      "es": "Usando los datos proporcionados, calcule el número aproximado de pares de bases en el genoma de levadura haploide. (1 fg de ADN = 9.78 x 10^5 pares de bases).",
+      "fr": "En utilisant les données fournies, calculez le nombre approximatif de paires de bases dans le génome de levure haploïde. (1 fg d'ADN = 9,78 x 10^5 paires de bases).",
+      "de": "Berechnen Sie anhand der angegebenen Daten die ungefähre Anzahl der Basenpaare im haploiden Hefegenom. (1 fg DNA = 9,78 x 10^5 Basenpaare).",
+      "ja": "提供されたデータを使用して、単数体酵母ゲノムのおおよその塩基対数を計算してください。(1 fgのDNA = 9.78 x 10^5 塩基対)。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "23.5 million base pairs (Mb)",
+          "zh": "2350万碱基对 (Mb)",
+          "es": "23.5 millones de pares de bases (Mb)",
+          "fr": "23,5 millions de paires de bases (Mb)",
+          "de": "23,5 Millionen Basenpaare (Mb)",
+          "ja": "2350万塩基対 (Mb)"
+        },
+        "feedback": {
+          "en": "This value corresponds to the DNA content after Meiosis I (2C), not the haploid genome (1C).",
+          "zh": "该值对应于减数分裂I后（2C）的DNA含量，而不是单倍体基因组（1C）。",
+          "es": "Este valor corresponde al contenido de ADN después de la Meiosis I (2C), no al genoma haploide (1C).",
+          "fr": "Cette valeur correspond à la teneur en ADN après la méiose I (2C), et non au génome haploïde (1C).",
+          "de": "Dieser Wert entspricht dem DNA-Gehalt nach der Meiose I (2C), nicht dem haploiden Genom (1C).",
+          "ja": "この値は、単数体ゲノム（1C）ではなく、減数分裂I後（2C）のDNA含有量に対応します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "46.9 million base pairs (Mb)",
+          "zh": "4690万碱基对 (Mb)",
+          "es": "46.9 millones de pares de bases (Mb)",
+          "fr": "46,9 millions de paires de bases (Mb)",
+          "de": "46,9 Millionen Basenpaare (Mb)",
+          "ja": "4690万塩基対 (Mb)"
+        },
+        "feedback": {
+          "en": "This value corresponds to the diploid genome after replication (4C). The haploid genome is the 1C value.",
+          "zh": "该值对应于复制后的二倍体基因组（4C）。单倍体基因组是1C值。",
+          "es": "Este valor corresponde al genoma diploide después de la replicación (4C). El genoma haploide es el valor 1C.",
+          "fr": "Cette valeur correspond au génome diploïde après réplication (4C). Le génome haploïde est la valeur 1C.",
+          "de": "Dieser Wert entspricht dem diploiden Genom nach der Replikation (4C). Das haploide Genom ist der 1C-Wert.",
+          "ja": "この値は、複製後の二倍体ゲノム（4C）に対応します。単数体ゲノムは1C値です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "11.7 million base pairs (Mb)",
+          "zh": "1170万碱基对 (Mb)",
+          "es": "11.7 millones de pares de bases (Mb)",
+          "fr": "11,7 millions de paires de bases (Mb)",
+          "de": "11,7 Millionen Basenpaare (Mb)",
+          "ja": "1170万塩基対 (Mb)"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "2.35 million base pairs (Mb)",
+          "zh": "235万碱基对 (Mb)",
+          "es": "2.35 millones de pares de bases (Mb)",
+          "fr": "2,35 millions de paires de bases (Mb)",
+          "de": "2,35 Millionen Basenpaare (Mb)",
+          "ja": "235万塩基対 (Mb)"
+        },
+        "feedback": {
+          "en": "This value is too low. Check your calculation for the haploid (1C) DNA amount.",
+          "zh": "这个值太低了。请检查您对单倍体（1C）DNA含量的计算。",
+          "es": "Este valor es demasiado bajo. Verifique su cálculo para la cantidad de ADN haploide (1C).",
+          "fr": "Cette valeur est trop faible. Vérifiez votre calcul pour la quantité d'ADN haploïde (1C).",
+          "de": "Dieser Wert ist zu niedrig. Überprüfen Sie Ihre Berechnung für die haploide (1C) DNA-Menge.",
+          "ja": "この値は低すぎます。単数体（1C）DNA量の計算を確認してください。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The haploid genome (1C) corresponds to the DNA content after Meiosis II. From the table, this is approximately 12.0 fg. Calculation: 12.0 fg * (9.78 x 10^5 base pairs / 1 fg) = 11,736,000 base pairs, which is approximately 11.7 million base pairs (Mb).",
+      "zh": "单倍体基因组（1C）对应于减数分裂II后的DNA含量。从表中可知，这大约是12.0 fg。计算：12.0 fg * (9.78 x 10^5 碱基对 / 1 fg) = 11,736,000 碱基对，约等于1170万碱基对（Mb）。",
+      "es": "El genoma haploide (1C) corresponde al contenido de ADN después de la Meiosis II. De la tabla, esto es aproximadamente 12.0 fg. Cálculo: 12.0 fg * (9.78 x 10^5 pares de bases / 1 fg) = 11,736,000 pares de bases, que es aproximadamente 11.7 millones de pares de bases (Mb).",
+      "fr": "Le génome haploïde (1C) correspond à la teneur en ADN après la méiose II. D'après le tableau, cela représente environ 12,0 fg. Calcul : 12,0 fg * (9,78 x 10^5 paires de bases / 1 fg) = 11 736 000 paires de bases, soit environ 11,7 millions de paires de bases (Mb).",
+      "de": "Das haploide Genom (1C) entspricht dem DNA-Gehalt nach der Meiose II. Aus der Tabelle ergibt sich ein Wert von ca. 12,0 fg. Berechnung: 12,0 fg * (9,78 x 10^5 Basenpaare / 1 fg) = 11.736.000 Basenpaare, was ungefähr 11,7 Millionen Basenpaaren (Mb) entspricht.",
+      "ja": "単数体ゲノム（1C）は、減数分裂II後のDNA含有量に対応します。表から、これは約12.0 fgです。計算：12.0 fg * (9.78 x 10^5 塩基対 / 1 fg) = 11,736,000 塩基対、これは約1170万塩基対（Mb）です。"
+    }
+  }
+]

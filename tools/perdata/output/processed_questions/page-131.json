@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 131,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the primary cause of sickle-cell disease, as described in the text?",
+      "zh": "根据文本描述，镰状细胞病的主要原因是什么？",
+      "es": "¿Cuál es la causa principal de la enfermedad de células falciformes, según se describe en el texto?",
+      "fr": "Quelle est la cause principale de la drépanocytose, telle que décrite dans le texte ?",
+      "de": "Was ist die Hauptursache der Sichelzellenanämie, wie im Text beschrieben?",
+      "ja": "テキストに記載されている鎌状赤血球症の主な原因は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A substitution of glutamic acid for valine at the sixth amino acid position in hemoglobin.",
+          "zh": "血红蛋白第六位氨基酸由谷氨酸替换为缬氨酸。",
+          "es": "Una sustitución de ácido glutámico por valina en la sexta posición de aminoácido de la hemoglobina.",
+          "fr": "Une substitution de l'acide glutamique par la valine à la sixième position d'acide aminé de l'hémoglobine.",
+          "de": "Eine Substitution von Glutaminsäure durch Valin an der sechsten Aminosäureposition im Hämoglobin.",
+          "ja": "ヘモグロビン中の6番目のアミノ酸位置で、グルタミン酸がバリンに置換されること。"
+        },
+        "feedback": {
+          "en": "This option reverses the correct amino acid substitution.",
+          "zh": "此选项颠倒了正确的氨基酸替换。",
+          "es": "Esta opción invierte la sustitución correcta de aminoácidos.",
+          "fr": "Cette option inverse la substitution correcte d'acides aminés.",
+          "de": "Diese Option kehrt die korrekte Aminosäuresubstitution um.",
+          "ja": "この選択肢は正しいアミノ酸置換を逆転させています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A substitution of valine for glutamic acid at the sixth amino acid position in hemoglobin.",
+          "zh": "血红蛋白第六位氨基酸由缬氨酸替换为谷氨酸。",
+          "es": "Una sustitución de valina por ácido glutámico en la sexta posición de aminoácido de la hemoglobina.",
+          "fr": "Une substitution de la valine par l'acide glutamique à la sixième position d'acide aminé de l'hémoglobine.",
+          "de": "Eine Substitution von Valin durch Glutaminsäure an der sechsten Aminosäureposition im Hämoglobin.",
+          "ja": "ヘモグロビン中の6番目のアミノ酸位置で、バリンがグルタミン酸に置換されること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "An addition of an extra amino acid to the hemoglobin primary structure.",
+          "zh": "血红蛋白一级结构中增加了一个额外的氨基酸。",
+          "es": "Una adición de un aminoácido extra a la estructura primaria de la hemoglobina.",
+          "fr": "L'ajout d'un acide aminé supplémentaire à la structure primaire de l'hémoglobine.",
+          "de": "Eine zusätzliche Aminosäure in der primären Hämoglobin-Struktur.",
+          "ja": "ヘモグロビン一次構造に余分なアミノ酸が追加されること。"
+        },
+        "feedback": {
+          "en": "Sickle-cell disease is caused by a substitution, not an addition.",
+          "zh": "镰状细胞病是由替换引起的，而不是增加。",
+          "es": "La enfermedad de células falciformes es causada por una sustitución, no por una adición.",
+          "fr": "La drépanocytose est causée par une substitution, pas par un ajout.",
+          "de": "Sichelzellenanämie wird durch eine Substitution und nicht durch eine Addition verursacht.",
+          "ja": "鎌状赤血球症は置換によって引き起こされ、追加ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A deletion of an amino acid from the hemoglobin primary structure.",
+          "zh": "血红蛋白一级结构中缺失了一个氨基酸。",
+          "es": "Una eliminación de un aminoácido de la estructura primaria de la hemoglobina.",
+          "fr": "Une délétion d'un acide aminé de la structure primaire de l'hémoglobine.",
+          "de": "Eine Deletion einer Aminosäure aus der primären Hämoglobin-Struktur.",
+          "ja": "ヘモグロビン一次構造からアミノ酸が欠失すること。"
+        },
+        "feedback": {
+          "en": "Sickle-cell disease is caused by a substitution, not a deletion.",
+          "zh": "镰状细胞病是由替换引起的，而不是缺失。",
+          "es": "La enfermedad de células falciformes es causada por una sustitución, no por una eliminación.",
+          "fr": "La drépanocytose est causée par une substitution, pas par une délétion.",
+          "de": "Sichelzellenanämie wird durch eine Substitution und nicht durch eine Deletion verursacht.",
+          "ja": "鎌状赤血球症は置換によって引き起こされ、欠失ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Sickle-cell disease is caused by a single amino acid substitution where valine replaces glutamic acid at the sixth position in the primary structure of hemoglobin. This seemingly minor change has profound effects on the protein's function and the shape of red blood cells.",
+      "zh": "镰状细胞病是由血红蛋白一级结构中第六位氨基酸由谷氨酸被缬氨酸取代引起的。这种看似微小的改变对蛋白质的功能和红细胞的形状产生了深远影响。",
+      "es": "La enfermedad de células falciformes es causada por una única sustitución de aminoácidos donde la valina reemplaza al ácido glutámico en la sexta posición de la estructura primaria de la hemoglobina. Este cambio aparentemente menor tiene efectos profundos en la función de la proteína y la forma de los glóbulos rojos.",
+      "fr": "La drépanocytose est causée par une seule substitution d'acide aminé où la valine remplace l'acide glutamique à la sixième position dans la structure primaire de l'hémoglobine. Ce changement apparemment mineur a des effets profonds sur la fonction de la protéine et la forme des globules rouges.",
+      "de": "Die Sichelzellenanämie wird durch eine einzelne Aminosäuresubstitution verursacht, bei der Valin die Glutaminsäure an der sechsten Position in der Primärstruktur des Hämoglobins ersetzt. Diese scheinbar geringfügige Änderung hat tiefgreifende Auswirkungen auf die Proteinfunktion und die Form der roten Blutkörperchen.",
+      "ja": "鎌状赤血球症は、ヘモグロビンの一次構造の6番目の位置で、バリンがグルタミン酸に置換されるという単一のアミノ酸置換によって引き起こされます。この一見些細な変化は、タンパク質の機能と赤血球の形状に深刻な影響を及ぼします。"
+    }
+  },
+  {
+    "page_number": 131,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 5.19 and the accompanying text, which of the following statements accurately describes a difference between normal hemoglobin and sickle-cell hemoglobin?",
+      "zh": "根据图5.19和相关文本，以下哪项陈述准确描述了正常血红蛋白和镰状细胞血红蛋白之间的区别？",
+      "es": "Basándose en la Figura 5.19 y el texto adjunto, ¿cuál de las siguientes afirmaciones describe con precisión una diferencia entre la hemoglobina normal y la hemoglobina falciforme?",
+      "fr": "Basé sur la Figure 5.19 et le texte qui l'accompagne, laquelle des affirmations suivantes décrit avec précision une différence entre l'hémoglobine normale et l'hémoglobine falciforme ?",
+      "de": "Basierend auf Abbildung 5.19 und dem begleitenden Text, welche der folgenden Aussagen beschreibt zutreffend einen Unterschied zwischen normalem Hämoglobin und Sichelzell-Hämoglobin?",
+      "ja": "図5.19と関連するテキストに基づくと、正常なヘモグロビンと鎌状赤血球ヘモグロビンとの違いを正確に説明しているのは、次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Normal hemoglobin proteins aggregate into fibers, while sickle-cell hemoglobin proteins do not.",
+          "zh": "正常血红蛋白蛋白质聚集成纤维，而镰状细胞血红蛋白蛋白质则不聚集成纤维。",
+          "es": "Las proteínas de hemoglobina normal se agregan en fibras, mientras que las proteínas de hemoglobina falciforme no.",
+          "fr": "Les protéines d'hémoglobine normale s'agrègent en fibres, tandis que les protéines d'hémoglobine falciforme ne le font pas.",
+          "de": "Normale Hämoglobinproteine aggregieren zu Fasern, während Sichelzell-Hämoglobinproteine dies nicht tun.",
+          "ja": "正常なヘモグロビンタンパク質は繊維に凝集しますが、鎌状赤血球ヘモグロビンタンパク質は凝集しません。"
+        },
+        "feedback": {
+          "en": "This statement is incorrect; it is sickle-cell hemoglobin that aggregates into fibers, not normal hemoglobin.",
+          "zh": "此说法不正确；是镰状细胞血红蛋白聚集成纤维，而不是正常血红蛋白。",
+          "es": "Esta afirmación es incorrecta; es la hemoglobina falciforme la que se agrega en fibras, no la hemoglobina normal.",
+          "fr": "Cette affirmation est incorrecte ; c'est l'hémoglobine falciforme qui s'agrège en fibres, pas l'hémoglobine normale.",
+          "de": "Diese Aussage ist falsch; es ist Sichelzell-Hämoglobin, das zu Fasern aggregiert, nicht normales Hämoglobin.",
+          "ja": "この記述は誤りです。繊維に凝集するのは鎌状赤血球ヘモグロビンであり、正常なヘモグロビンではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Sickle-cell hemoglobin has a reduced capacity to carry oxygen due to aggregation, unlike normal hemoglobin.",
+          "zh": "镰状细胞血红蛋白由于聚集，其携氧能力降低，这与正常血红蛋白不同。",
+          "es": "La hemoglobina falciforme tiene una capacidad reducida para transportar oxígeno debido a la agregación, a diferencia de la hemoglobina normal.",
+          "fr": "L'hémoglobine falciforme a une capacité réduite de transport d'oxygène en raison de l'agrégation, contrairement à l'hémoglobine normale.",
+          "de": "Sichelzell-Hämoglobin hat aufgrund der Aggregation eine reduzierte Kapazität zum Sauerstofftransport, im Gegensatz zu normalem Hämoglobin.",
+          "ja": "鎌状赤血球ヘモグロビンは、凝集のために酸素運搬能力が低下しており、正常なヘモグロビンとは異なります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Normal red blood cells are sickle-shaped, whereas sickle-cell red blood cells are disk-shaped.",
+          "zh": "正常红细胞呈镰刀状，而镰状细胞红细胞呈盘状。",
+          "es": "Los glóbulos rojos normales tienen forma de hoz, mientras que los glóbulos rojos falciformes tienen forma de disco.",
+          "fr": "Les globules rouges normaux ont une forme de faucille, tandis que les globules rouges falciformes ont une forme de disque.",
+          "de": "Normale rote Blutkörperchen sind sichelförmig, während Sichelzell-rote Blutkörperchen scheibenförmig sind.",
+          "ja": "正常な赤血球は鎌状であり、鎌状赤血球は円盤状です。"
+        },
+        "feedback": {
+          "en": "This statement reverses the correct shapes; normal red blood cells are disk-shaped, and sickle-cell red blood cells are sickle-shaped.",
+          "zh": "此说法颠倒了正确的形状；正常红细胞呈盘状，而镰状细胞红细胞呈镰刀状。",
+          "es": "Esta afirmación invierte las formas correctas; los glóbulos rojos normales tienen forma de disco y los glóbulos rojos falciformes tienen forma de hoz.",
+          "fr": "Cette affirmation inverse les formes correctes ; les globules rouges normaux ont une forme de disque et les globules rouges falciformes ont une forme de faucille.",
+          "de": "Diese Aussage kehrt die korrekten Formen um; normale rote Blutkörperchen sind scheibenförmig und Sichelzell-rote Blutkörperchen sind sichelförmig.",
+          "ja": "この記述は正しい形状を逆転させています。正常な赤血球は円盤状であり、鎌状赤血球は鎌状です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Only sickle-cell hemoglobin exhibits a quaternary structure.",
+          "zh": "只有镰状细胞血红蛋白才表现出四级结构。",
+          "es": "Solo la hemoglobina falciforme exhibe una estructura cuaternaria.",
+          "fr": "Seule l'hémoglobine falciforme présente une structure quaternaire.",
+          "de": "Nur Sichelzell-Hämoglobin weist eine Quartärstruktur auf.",
+          "ja": "鎌状赤血球ヘモグロビンのみが四次構造を示します。"
+        },
+        "feedback": {
+          "en": "Both normal and sickle-cell hemoglobin exhibit a quaternary structure, though the latter's is altered, leading to aggregation.",
+          "zh": "正常和镰状细胞血红蛋白都表现出四级结构，尽管后者发生了改变，导致了聚集。",
+          "es": "Tanto la hemoglobina normal como la falciforme exhiben una estructura cuaternaria, aunque la de esta última está alterada, lo que lleva a la agregación.",
+          "fr": "L'hémoglobine normale et l'hémoglobine falciforme présentent toutes deux une structure quaternaire, bien que celle de la dernière soit altérée, ce qui conduit à l'agrégation.",
+          "de": "Sowohl normales als auch Sichelzell-Hämoglobin weisen eine Quartärstruktur auf, wobei letztere verändert ist, was zur Aggregation führt.",
+          "ja": "正常なヘモグロビンと鎌状赤血球ヘモグロビンはどちらも四次構造を示しますが、後者は変化しており、凝集につながります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Normal hemoglobin proteins do not associate with one another and efficiently carry oxygen, resulting in disk-shaped red blood cells. In contrast, sickle-cell hemoglobin proteins aggregate into long fibers due to hydrophobic interactions, which severely reduces their oxygen-carrying capacity and deforms the red blood cells into a sickle shape.",
+      "zh": "正常血红蛋白蛋白质彼此不结合，能有效携带氧气，从而形成盘状红细胞。相反，镰状细胞血红蛋白蛋白质由于疏水相互作用聚集成长的纤维，这严重降低了它们的携氧能力，并使红细胞变形为镰刀状。",
+      "es": "Las proteínas de hemoglobina normal no se asocian entre sí y transportan oxígeno de manera eficiente, lo que resulta en glóbulos rojos en forma de disco. Por el contrario, las proteínas de hemoglobina falciforme se agregan en fibras largas debido a interacciones hidrofóbicas, lo que reduce severamente su capacidad de transporte de oxígeno y deforma los glóbulos rojos en forma de hoz.",
+      "fr": "Les protéines d'hémoglobine normale ne s'associent pas entre elles et transportent efficacement l'oxygène, ce qui donne des globules rouges en forme de disque. En revanche, les protéines d'hémoglobine falciforme s'agrègent en longues fibres en raison d'interactions hydrophobes, ce qui réduit considérablement leur capacité de transport d'oxygène et déforme les globules rouges en forme de faucille.",
+      "de": "Normale Hämoglobinproteine assoziieren nicht miteinander und transportieren Sauerstoff effizient, was zu scheibenförmigen roten Blutkörperchen führt. Im Gegensatz dazu aggregieren Sichelzell-Hämoglobinproteine aufgrund hydrophober Wechselwirkungen zu langen Fasern, was ihre Sauerstofftransportkapazität stark reduziert und die roten Blutkörperchen sichelförmig deformiert.",
+      "ja": "正常なヘモグロビンタンパク質は互いに結合せず、効率的に酸素を運び、円盤状の赤血球をもたらします。対照的に、鎌状赤血球ヘモグロビンタンパク質は疎水性相互作用のために長い繊維に凝集し、その結果、酸素運搬能力が著しく低下し、赤血球が鎌状に変形します。"
+    }
+  },
+  {
+    "page_number": 131,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the text, which of the following conditions can lead to the denaturation of a protein, causing it to lose its native shape and function?",
+      "zh": "根据文本，以下哪种条件会导致蛋白质变性，使其失去原有形状和功能？",
+      "es": "Según el texto, ¿cuál de las siguientes condiciones puede llevar a la desnaturalización de una proteína, haciendo que pierda su forma y función nativas?",
+      "fr": "Selon le texte, laquelle des conditions suivantes peut entraîner la dénaturation d'une protéine, lui faisant perdre sa forme et sa fonction natives ?",
+      "de": "Welche der folgenden Bedingungen kann laut Text zur Denaturierung eines Proteins führen, wodurch es seine native Form und Funktion verliert?",
+      "ja": "テキストによると、タンパク質が変性し、その本来の形状と機能を失う原因となるのは、次のうちどの条件ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Increased synthesis of the protein within the cell.",
+          "zh": "细胞内蛋白质合成增加。",
+          "es": "Aumento de la síntesis de la proteína dentro de la célula.",
+          "fr": "Augmentation de la synthèse de la protéine à l'intérieur de la cellule.",
+          "de": "Erhöhte Synthese des Proteins innerhalb der Zelle.",
+          "ja": "細胞内でのタンパク質合成の増加。"
+        },
+        "feedback": {
+          "en": "Protein synthesis is the process of building proteins, not causing their denaturation.",
+          "zh": "蛋白质合成是构建蛋白质的过程，不会导致其变性。",
+          "es": "La síntesis de proteínas es el proceso de construcción de proteínas, no la causa de su desnaturalización.",
+          "fr": "La synthèse des protéines est le processus de construction des protéines, et non la cause de leur dénaturation.",
+          "de": "Die Proteinsynthese ist der Prozess des Aufbaus von Proteinen und führt nicht zu deren Denaturierung.",
+          "ja": "タンパク質合成はタンパク質を構築するプロセスであり、変性の原因ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Transfer to an aqueous environment from a nonpolar solvent.",
+          "zh": "从非极性溶剂转移到水性环境。",
+          "es": "Transferencia a un ambiente acuoso desde un solvente no polar.",
+          "fr": "Transfert vers un environnement aqueux à partir d'un solvant non polaire.",
+          "de": "Übertragung aus einer unpolaren Lösung in eine wässrige Umgebung.",
+          "ja": "非極性溶媒から水性環境への移動。"
+        },
+        "feedback": {
+          "en": "This condition can lead to renaturation (refolding) of a denatured protein, not denaturation.",
+          "zh": "这种情况可以导致变性蛋白质的复性（重新折叠），而不是变性。",
+          "es": "Esta condición puede llevar a la renaturalización (replegamiento) de una proteína desnaturalizada, no a la desnaturalización.",
+          "fr": "Cette condition peut entraîner la renaturation (repliement) d'une protéine dénaturée, et non la dénaturation.",
+          "de": "Diese Bedingung kann zur Renaturierung (Wiederfaltung) eines denaturierten Proteins führen, nicht zur Denaturierung.",
+          "ja": "この条件は、変性したタンパク質の再自然化（再折りたたみ）につながる可能性があり、変性ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Alterations in pH, salt concentration, or temperature.",
+          "zh": "pH值、盐浓度或温度的改变。",
+          "es": "Alteraciones en el pH, la concentración de sal o la temperatura.",
+          "fr": "Altérations du pH, de la concentration en sel ou de la température.",
+          "de": "Veränderungen des pH-Werts, der Salzkonzentration oder der Temperatur.",
+          "ja": "pH、塩濃度、または温度の変化。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Formation of strong covalent bonds between different protein chains.",
+          "zh": "不同蛋白质链之间形成强大的共价键。",
+          "es": "Formación de fuertes enlaces covalentes entre diferentes cadenas proteicas.",
+          "fr": "Formation de liaisons covalentes fortes entre différentes chaînes protéiques.",
+          "de": "Bildung starker kovalenter Bindungen zwischen verschiedenen Proteinketten.",
+          "ja": "異なるタンパク質鎖間に強い共有結合が形成されること。"
+        },
+        "feedback": {
+          "en": "Denaturation typically involves the disruption of weak chemical bonds and interactions, not the formation of new strong covalent bonds.",
+          "zh": "变性通常涉及弱化学键和相互作用的破坏，而不是形成新的强共价键。",
+          "es": "La desnaturalización generalmente implica la interrupción de enlaces químicos débiles e interacciones, no la formación de nuevos enlaces covalentes fuertes.",
+          "fr": "La dénaturation implique généralement la rupture de liaisons chimiques faibles et d'interactions, et non la formation de nouvelles liaisons covalentes fortes.",
+          "de": "Denaturierung beinhaltet typischerweise die Störung schwacher chemischer Bindungen und Wechselwirkungen, nicht die Bildung neuer starker kovalenter Bindungen.",
+          "ja": "変性は通常、弱い化学結合や相互作用の破壊を伴い、新しい強い共有結合の形成ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that 'If the pH, salt concentration, temperature, or other aspects of its environment are altered, the weak chemical bonds and interactions within a protein may be destroyed, causing the protein to unravel and lose its native shape, a change called denaturation'.",
+      "zh": "文本明确指出，“如果pH值、盐浓度、温度或其环境的其他方面发生改变，蛋白质内部的弱化学键和相互作用可能会被破坏，导致蛋白质解开并失去其原有形状，这种变化称为变性”。",
+      "es": "El texto establece explícitamente que 'Si el pH, la concentración de sal, la temperatura u otros aspectos de su entorno se alteran, los enlaces químicos débiles y las interacciones dentro de una proteína pueden destruirse, lo que hace que la proteína se desenrede y pierda su forma nativa, un cambio llamado desnaturalización'.",
+      "fr": "Le texte indique explicitement que 'Si le pH, la concentration en sel, la température ou d'autres aspects de son environnement sont altérés, les liaisons chimiques faibles et les interactions au sein d'une protéine peuvent être détruites, provoquant le déroulement de la protéine et la perte de sa forme native, un changement appelé dénaturation'.",
+      "de": "Der Text besagt ausdrücklich: 'Wenn der pH-Wert, die Salzkonzentration, die Temperatur oder andere Aspekte ihrer Umgebung verändert werden, können die schwachen chemischen Bindungen und Wechselwirkungen innerhalb eines Proteins zerstört werden, was dazu führt, dass das Protein sich entfaltet und seine native Form verliert, eine Änderung, die als Denaturierung bezeichnet wird'.",
+      "ja": "テキストには、「pH、塩濃度、温度、またはその環境の他の側面が変化すると、タンパク質内の弱い化学結合や相互作用が破壊され、タンパク質がほどけて本来の形状を失う可能性があり、この変化を変性という」と明示されています。"
+    }
+  },
+  {
+    "page_number": 131,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The 'MAKE CONNECTIONS' section prompts us to consider the chemical characteristics of valine and glutamic acid. Given that normal glutamic acid is replaced by valine in sickle-cell hemoglobin, and observing the 'Function' column for sickle-cell hemoglobin, what is the most likely chemical reason for the aggregation of sickle-cell hemoglobin proteins into fibers?",
+      "zh": "“MAKE CONNECTIONS”部分提示我们考虑缬氨酸和谷氨酸的化学特性。鉴于正常血红蛋白中的谷氨酸被缬氨酸取代，并且观察到镰状细胞血红蛋白的“功能”栏，镰状细胞血红蛋白蛋白质聚集成纤维最可能的化学原因是什么？",
+      "es": "La sección 'MAKE CONNECTIONS' nos pide considerar las características químicas de la valina y el ácido glutámico. Dado que el ácido glutámico normal es reemplazado por valina en la hemoglobina falciforme, y observando la columna 'Función' para la hemoglobina falciforme, ¿cuál es la razón química más probable para la agregación de las proteínas de hemoglobina falciforme en fibras?",
+      "fr": "La section 'MAKE CONNECTIONS' nous invite à considérer les caractéristiques chimiques de la valine et de l'acide glutamique. Étant donné que l'acide glutamique normal est remplacé par la valine dans l'hémoglobine falciforme, et en observant la colonne 'Fonction' pour l'hémoglobine falciforme, quelle est la raison chimique la plus probable de l'agrégation des protéines d'hémoglobine falciforme en fibres ?",
+      "de": "Der Abschnitt 'MAKE CONNECTIONS' fordert uns auf, die chemischen Eigenschaften von Valin und Glutaminsäure zu berücksichtigen. Angesichts der Tatsache, dass normale Glutaminsäure durch Valin in Sichelzell-Hämoglobin ersetzt wird und unter Beobachtung der Spalte 'Funktion' für Sichelzell-Hämoglobin, was ist der wahrscheinlichste chemische Grund für die Aggregation von Sichelzell-Hämoglobinproteinen zu Fasern?",
+      "ja": "「MAKE CONNECTIONS」のセクションでは、バリンとグルタミン酸の化学的特性を考慮するよう促しています。正常なグルタミン酸が鎌状赤血球ヘモグロビンでバリンに置換されることを踏まえ、鎌状赤血球ヘモグロビンの「機能」欄を観察すると、鎌状赤血球ヘモグロビンタンパク質が繊維に凝集する最も可能性の高い化学的理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Glutamic acid is hydrophobic, and its replacement by hydrophilic valine causes protein aggregation.",
+          "zh": "谷氨酸是疏水的，其被亲水的缬氨酸取代导致蛋白质聚集。",
+          "es": "El ácido glutámico es hidrofóbico, y su reemplazo por valina hidrofílica causa la agregación de proteínas.",
+          "fr": "L'acide glutamique est hydrophobe, et son remplacement par la valine hydrophile provoque l'agrégation des protéines.",
+          "de": "Glutaminsäure ist hydrophob, und ihr Ersatz durch hydrophiles Valin verursacht die Proteinaggregation.",
+          "ja": "グルタミン酸は疎水性であり、親水性バリンに置換されることでタンパク質の凝集が起こります。"
+        },
+        "feedback": {
+          "en": "Glutamic acid is typically hydrophilic (charged), and valine is hydrophobic. This option reverses their properties.",
+          "zh": "谷氨酸通常是亲水的（带电荷），而缬氨酸是疏水的。此选项颠倒了它们的性质。",
+          "es": "El ácido glutámico es típicamente hidrofílico (cargado), y la valina es hidrofóbica. Esta opción invierte sus propiedades.",
+          "fr": "L'acide glutamique est typiquement hydrophile (chargé), et la valine est hydrophobe. Cette option inverse leurs propriétés.",
+          "de": "Glutaminsäure ist typischerweise hydrophil (geladen), und Valin ist hydrophob. Diese Option kehrt ihre Eigenschaften um.",
+          "ja": "グルタミン酸は一般的に親水性（荷電）であり、バリンは疎水性です。この選択肢はそれらの特性を逆転させています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Valine is a larger amino acid than glutamic acid, leading to steric hindrance and aggregation.",
+          "zh": "缬氨酸比谷氨酸更大，导致空间位阻和聚集。",
+          "es": "La valina es un aminoácido más grande que el ácido glutámico, lo que lleva a un impedimento estérico y agregación.",
+          "fr": "La valine est un acide aminé plus grand que l'acide glutamique, ce qui entraîne un encombrement stérique et une agrégation.",
+          "de": "Valin ist eine größere Aminosäure als Glutaminsäure, was zu sterischer Hinderung und Aggregation führt.",
+          "ja": "バリンはグルタミン酸よりも大きなアミノ酸であるため、立体障害と凝集を引き起こします。"
+        },
+        "feedback": {
+          "en": "While size can play a role, the text and general knowledge emphasize the change in hydrophobicity as the key factor for aggregation.",
+          "zh": "虽然大小可能起作用，但文本和一般知识强调疏水性变化是导致聚集的关键因素。",
+          "es": "Aunque el tamaño puede influir, el texto y el conocimiento general enfatizan el cambio en la hidrofobicidad como el factor clave para la agregación.",
+          "fr": "Bien que la taille puisse jouer un rôle, le texte et les connaissances générales soulignent le changement d'hydrophobie comme facteur clé de l'agrégation.",
+          "de": "Obwohl die Größe eine Rolle spielen kann, betonen der Text und das allgemeine Wissen die Veränderung der Hydrophobizität als Schlüsselfaktor für die Aggregation.",
+          "ja": "サイズも役割を果たすことがありますが、テキストと一般的な知識は、凝集の主要な要因として疎水性の変化を強調しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Valine is hydrophobic, and its substitution for the hydrophilic glutamic acid exposes a hydrophobic patch, leading to hydrophobic interactions and aggregation.",
+          "zh": "缬氨酸是疏水的，其取代亲水性谷氨酸暴露了一个疏水区域，导致疏水相互作用和聚集。",
+          "es": "La valina es hidrofóbica, y su sustitución por el ácido glutámico hidrofílico expone una región hidrofóbica, lo que lleva a interacciones hidrofóbicas y agregación.",
+          "fr": "La valine est hydrophobe, et sa substitution à l'acide glutamique hydrophile expose un patch hydrophobe, entraînant des interactions hydrophobes et une agrégation.",
+          "de": "Valin ist hydrophob, und sein Ersatz durch die hydrophile Glutaminsäure legt eine hydrophobe Stelle frei, was zu hydrophoben Wechselwirkungen und Aggregation führt.",
+          "ja": "バリンは疎水性であり、親水性グルタミン酸との置換により疎水性パッチが露出し、疎水性相互作用と凝集につながります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The substitution leads to the formation of new disulfide bonds, causing the proteins to clump together.",
+          "zh": "该取代导致形成新的二硫键，使蛋白质聚集在一起。",
+          "es": "La sustitución conduce a la formación de nuevos enlaces disulfuro, lo que hace que las proteínas se agrupen.",
+          "fr": "La substitution entraîne la formation de nouvelles liaisons disulfures, provoquant l'agglutination des protéines.",
+          "de": "Die Substitution führt zur Bildung neuer Disulfidbindungen, wodurch die Proteine verklumpen.",
+          "ja": "置換により新しいジスルフィド結合が形成され、タンパク質が凝集します。"
+        },
+        "feedback": {
+          "en": "The text highlights 'hydrophobic interactions' as the cause of aggregation, not disulfide bond formation.",
+          "zh": "文本强调“疏水相互作用”是聚集的原因，而不是二硫键的形成。",
+          "es": "El texto destaca las 'interacciones hidrofóbicas' como la causa de la agregación, no la formación de enlaces disulfuro.",
+          "fr": "Le texte met en évidence les 'interactions hydrophobes' comme cause de l'agrégation, et non la formation de liaisons disulfures.",
+          "de": "Der Text hebt 'hydrophobe Wechselwirkungen' als Ursache der Aggregation hervor, nicht die Bildung von Disulfidbindungen.",
+          "ja": "テキストは凝集の原因として「疎水性相互作用」を強調しており、ジスルフィド結合の形成ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Glutamic acid is a hydrophilic, negatively charged amino acid. Valine, on the other hand, is a hydrophobic amino acid. When hydrophilic glutamic acid is replaced by hydrophobic valine at the surface of the hemoglobin protein, this creates a hydrophobic patch. These hydrophobic patches on different hemoglobin molecules tend to interact with each other to avoid water, leading to the aggregation of hemoglobin into long fibers, as described in the 'Function' column for sickle-cell hemoglobin.",
+      "zh": "谷氨酸是一种亲水、带负电荷的氨基酸。而缬氨酸是一种疏水氨基酸。当血红蛋白表面亲水性谷氨酸被疏水性缬氨酸取代时，会形成一个疏水区域。这些在不同血红蛋白分子上的疏水区域倾向于彼此相互作用以避免水，从而导致血红蛋白聚集成长的纤维，正如镰状细胞血红蛋白的“功能”栏中描述的那样。",
+      "es": "El ácido glutámico es un aminoácido hidrofílico y cargado negativamente. La valina, por otro lado, es un aminoácido hidrofóbico. Cuando el ácido glutámico hidrofílico es reemplazado por la valina hidrofóbica en la superficie de la proteína de hemoglobina, esto crea un parche hidrofóbico. Estos parches hidrofóbicos en diferentes moléculas de hemoglobina tienden a interactuar entre sí para evitar el agua, lo que lleva a la agregación de la hemoglobina en largas fibras, como se describe en la columna 'Función' para la hemoglobina falciforme.",
+      "fr": "L'acide glutamique est un acide aminé hydrophile, chargé négativement. La valine, en revanche, est un acide aminé hydrophobe. Lorsque l'acide glutamique hydrophile est remplacé par la valine hydrophobe à la surface de la protéine d'hémoglobine, cela crée un patch hydrophobe. Ces patchs hydrophobes sur différentes molécules d'hémoglobine ont tendance à interagir entre eux pour éviter l'eau, entraînant l'agrégation de l'hémoglobine en longues fibres, comme décrit dans la colonne 'Fonction' pour l'hémoglobine falciforme.",
+      "de": "Glutaminsäure ist eine hydrophile, negativ geladene Aminosäure. Valin hingegen ist eine hydrophobe Aminosäure. Wenn die hydrophile Glutaminsäure an der Oberfläche des Hämoglobinproteins durch hydrophobes Valin ersetzt wird, entsteht eine hydrophobe Stelle. Diese hydrophoben Stellen auf verschiedenen Hämoglobinmolekülen neigen dazu, miteinander zu wechselwirken, um Wasser zu vermeiden, was zur Aggregation des Hämoglobins zu langen Fasern führt, wie in der Spalte 'Funktion' für Sichelzell-Hämoglobin beschrieben.",
+      "ja": "グルタミン酸は親水性で負に帯電したアミノ酸です。一方、バリンは疎水性アミノ酸です。ヘモグロビンタンパク質の表面で親水性グルタミン酸が疎水性バリンに置換されると、疎水性パッチが形成されます。異なるヘモグロビン分子上のこれらの疎水性パッチは、水を避けるために互いに相互作用する傾向があり、鎌状赤血球ヘモグロビンの「機能」欄に記載されているように、ヘモグロビンが長い繊維に凝集します。"
+    }
+  }
+]

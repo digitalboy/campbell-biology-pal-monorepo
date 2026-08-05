@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 57,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following correctly describes the sequence of processes involved in gene expression, as illustrated in Figure 1.8?",
+      "zh": "图1.8中所示的基因表达过程的正确顺序是下列哪一项？",
+      "es": "¿Cuál de las siguientes opciones describe correctamente la secuencia de procesos involucrados en la expresión génica, según se ilustra en la Figura 1.8?",
+      "fr": "Parmi les propositions suivantes, laquelle décrit correctement la séquence des processus impliqués dans l'expression génique, telle qu'illustrée dans la Figure 1.8 ?",
+      "de": "Welche der folgenden Aussagen beschreibt die Reihenfolge der Prozesse, die an der Genexpression beteiligt sind, wie in Abbildung 1.8 dargestellt, korrekt?",
+      "ja": "図1.8に示されている遺伝子発現に関わるプロセスの正しい順序はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Transcription → Translation → Protein Folding",
+          "zh": "转录 → 翻译 → 蛋白质折叠",
+          "es": "Transcripción → Traducción → Plegamiento de Proteínas",
+          "fr": "Transcription → Traduction → Repliement des Protéines",
+          "de": "Transkription → Translation → Proteinfaltung",
+          "ja": "転写 → 翻訳 → タンパク質フォールディング"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Translation → Transcription → Protein Folding",
+          "zh": "翻译 → 转录 → 蛋白质折叠",
+          "es": "Traducción → Transcripción → Plegamiento de Proteínas",
+          "fr": "Traduction → Transcription → Repliement des Protéines",
+          "de": "Translation → Transkription → Proteinfaltung",
+          "ja": "翻訳 → 転写 → タンパク質フォールディング"
+        },
+        "feedback": {
+          "en": "Transcription must occur before translation to produce mRNA.",
+          "zh": "转录必须在翻译之前发生以产生mRNA。",
+          "es": "La transcripción debe ocurrir antes de la traducción para producir ARNm.",
+          "fr": "La transcription doit avoir lieu avant la traduction pour produire l'ARNm.",
+          "de": "Die Transkription muss vor der Translation stattfinden, um mRNA zu produzieren.",
+          "ja": "mRNAを生成するためには、転写が翻訳の前に起こる必要があります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Protein Folding → Transcription → Translation",
+          "zh": "蛋白质折叠 → 转录 → 翻译",
+          "es": "Plegamiento de Proteínas → Transcripción → Traducción",
+          "fr": "Repliement des Protéines → Transcription → Traduction",
+          "de": "Proteinfaltung → Transkription → Translation",
+          "ja": "タンパク質フォールディング → 転写 → 翻訳"
+        },
+        "feedback": {
+          "en": "Protein folding is the final step, occurring after translation.",
+          "zh": "蛋白质折叠是最后一步，发生在翻译之后。",
+          "es": "El plegamiento de proteínas es el paso final, que ocurre después de la traducción.",
+          "fr": "Le repliement des protéines est l'étape finale, qui a lieu après la traduction.",
+          "de": "Die Proteinfaltung ist der letzte Schritt, der nach der Translation erfolgt.",
+          "ja": "タンパク質の折り畳みは最後のステップであり、翻訳の後に起こります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "DNA Replication → Transcription → Translation",
+          "zh": "DNA复制 → 转录 → 翻译",
+          "es": "Replicación de ADN → Transcripción → Traducción",
+          "fr": "Réplication de l'ADN → Transcription → Traduction",
+          "de": "DNA-Replikation → Transkription → Translation",
+          "ja": "DNA複製 → 転写 → 翻訳"
+        },
+        "feedback": {
+          "en": "DNA replication is for cell division and inheritance, not a direct part of gene expression to synthesize a specific protein.",
+          "zh": "DNA复制是为了细胞分裂和遗传，不是合成特定蛋白质的基因表达的直接部分。",
+          "es": "La replicación del ADN es para la división celular y la herencia, no es una parte directa de la expresión génica para sintetizar una proteína específica.",
+          "fr": "La réplication de l'ADN est pour la division cellulaire et l'hérédité, et non une partie directe de l'expression génique pour synthétiser une protéine spécifique.",
+          "de": "Die DNA-Replikation dient der Zellteilung und Vererbung und ist kein direkter Teil der Genexpression zur Synthese eines spezifischen Proteins.",
+          "ja": "DNA複製は細胞分裂と遺伝のためであり、特定のタンパク質を合成するための遺伝子発現の直接的な部分ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Figure 1.8 illustrates the central dogma of molecular biology, showing DNA being transcribed into mRNA, which is then translated into a chain of amino acids, which subsequently folds into a functional protein. This sequence is Transcription → Translation → Protein Folding.",
+      "zh": "图1.8阐释了分子生物学的中心法则，展示了DNA转录成mRNA，然后mRNA翻译成氨基酸链，氨基酸链随后折叠成具有功能的蛋白质。这个顺序是转录 → 翻译 → 蛋白质折叠。",
+      "es": "La Figura 1.8 ilustra el dogma central de la biología molecular, mostrando el ADN transcribiéndose a ARNm, que luego se traduce en una cadena de aminoácidos, la cual posteriormente se pliega en una proteína funcional. Esta secuencia es Transcripción → Traducción → Plegamiento de Proteínas.",
+      "fr": "La Figure 1.8 illustre le dogme central de la biologie moléculaire, montrant l'ADN transcrit en ARNm, qui est ensuite traduit en une chaîne d'acides aminés, laquelle se replie ensuite en une protéine fonctionnelle. Cette séquence est Transcription → Traduction → Repliement des Protéines.",
+      "de": "Abbildung 1.8 veranschaulicht das zentrale Dogma der Molekularbiologie, das zeigt, wie DNA in mRNA transkribiert wird, die dann in eine Aminosäurekette übersetzt wird, welche anschließend zu einem funktionellen Protein gefaltet wird. Diese Reihenfolge ist Transkription → Translation → Proteinfaltung.",
+      "ja": "図1.8は分子生物学のセントラルドグマを示しており、DNAがmRNAに転写され、次にmRNAがアミノ酸鎖に翻訳され、その後機能的なタンパク質にフォールディングされる過程を示しています。この順序は転写 → 翻訳 → タンパク質フォールディングです。"
+    }
+  },
+  {
+    "page_number": 57,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 1.8, if a segment of the crystallin gene DNA has the template strand sequence 3'-ACCAAACCGAGT-5', what would be the sequence of the corresponding mRNA molecule produced during transcription?",
+      "zh": "根据图1.8，如果结晶蛋白基因DNA的一段模板链序列是3'-ACCAAACCGAGT-5'，那么在转录过程中产生的相应mRNA分子的序列会是什么？",
+      "es": "Según la Figura 1.8, si un segmento del ADN del gen de la cristalina tiene la secuencia de la hebra molde 3'-ACCAAACCGAGT-5', ¿cuál sería la secuencia de la molécula de ARNm correspondiente producida durante la transcripción?",
+      "fr": "D'après la Figure 1.8, si un segment de l'ADN du gène de la cristalline a la séquence du brin matrice 3'-ACCAAACCGAGT-5', quelle serait la séquence de la molécule d'ARNm correspondante produite pendant la transcription ?",
+      "de": "Basierend auf Abbildung 1.8, wenn ein Segment der Kristallin-Gen-DNA die Matrizenstrangsequenz 3'-ACCAAACCGAGT-5' aufweist, welche Sequenz hätte dann das entsprechende mRNA-Molekül, das während der Transkription produziert wird?",
+      "ja": "図1.8に基づき、クリスタリン遺伝子のDNAセグメントの鋳型鎖配列が3'-ACCAAACCGAGT-5'である場合、転写中に生成される対応するmRNA分子の配列は何になりますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "5'-UGGGUUUGGCUCA-3'",
+          "zh": "5'-UGGGUUUGGCUCA-3'",
+          "es": "5'-UGGGUUUGGCUCA-3'",
+          "fr": "5'-UGGGUUUGGCUCA-3'",
+          "de": "5'-UGGGUUUGGCUCA-3'",
+          "ja": "5'-UGGGUUUGGCUCA-3'"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "5'-ACCAAACCGAGT-3'",
+          "zh": "5'-ACCAAACCGAGT-3'",
+          "es": "5'-ACCAAACCGAGT-3'",
+          "fr": "5'-ACCAAACCGAGT-3'",
+          "de": "5'-ACCAAACCGAGT-3'",
+          "ja": "5'-ACCAAACCGAGT-3'"
+        },
+        "feedback": {
+          "en": "This is the sequence of the non-template DNA strand, not the mRNA. mRNA contains U instead of T.",
+          "zh": "这是非模板DNA链的序列，而不是mRNA的。mRNA包含U而不是T。",
+          "es": "Esta es la secuencia de la hebra de ADN no molde, no del ARNm. El ARNm contiene U en lugar de T.",
+          "fr": "C'est la séquence du brin d'ADN non-matrice, pas de l'ARNm. L'ARNm contient de l'uracile (U) à la place de la thymine (T).",
+          "de": "Dies ist die Sequenz des Nicht-Matrizen-DNA-Strangs, nicht der mRNA. mRNA enthält U anstelle von T.",
+          "ja": "これは非鋳型DNA鎖の配列であり、mRNAではありません。mRNAはTの代わりにUを含みます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "5'-TGGTTTGGCTCA-3'",
+          "zh": "5'-TGGTTTGGCTCA-3'",
+          "es": "5'-TGGTTTGGCTCA-3'",
+          "fr": "5'-TGGTTTGGCTCA-3'",
+          "de": "5'-TGGTTTGGCTCA-3'",
+          "ja": "5'-TGGTTTGGCTCA-3'"
+        },
+        "feedback": {
+          "en": "This is the complementary DNA strand, not the mRNA. mRNA contains U instead of T.",
+          "zh": "这是互补的DNA链，而不是mRNA。mRNA包含U而不是T。",
+          "es": "Esta es la hebra de ADN complementaria, no el ARNm. El ARNm contiene U en lugar de T.",
+          "fr": "C'est le brin d'ADN complémentaire, pas l'ARNm. L'ARNm contient de l'uracile (U) à la place de la thymine (T).",
+          "de": "Dies ist der komplementäre DNA-Strang, nicht die mRNA. mRNA enthält U anstelle von T.",
+          "ja": "これは相補的なDNA鎖であり、mRNAではありません。mRNAはTの代わりにUを含みます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "3'-UGGGUUUGGCUCA-5'",
+          "zh": "3'-UGGGUUUGGCUCA-5'",
+          "es": "3'-UGGGUUUGGCUCA-5'",
+          "fr": "3'-UGGGUUUGGCUCA-5'",
+          "de": "3'-UGGGUUUGGCUCA-5'",
+          "ja": "3'-UGGGUUUGGCUCA-5'"
+        },
+        "feedback": {
+          "en": "The mRNA sequence is synthesized in the 5' to 3' direction, antiparallel to the template strand.",
+          "zh": "mRNA序列以5'到3'方向合成，与模板链反平行。",
+          "es": "La secuencia de ARNm se sintetiza en la dirección 5' a 3', antiparalela a la hebra molde.",
+          "fr": "La séquence d'ARNm est synthétisée dans le sens 5' à 3', antiparallèle au brin matrice.",
+          "de": "Die mRNA-Sequenz wird in 5'- nach 3'-Richtung synthetisiert, antiparallel zum Matrizenstrang.",
+          "ja": "mRNA配列は5'から3'方向に合成され、鋳型鎖と逆平行です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "During transcription, RNA polymerase synthesizes an mRNA molecule that is complementary to the DNA template strand and antiparallel to it. In RNA, uracil (U) replaces thymine (T). Thus, for the template strand 3'-ACCAAACCGAGT-5', the mRNA sequence will be 5'-UGGGUUUGGCUCA-3'.",
+      "zh": "在转录过程中，RNA聚合酶合成一个与DNA模板链互补且反平行的mRNA分子。在RNA中，尿嘧啶（U）取代了胸腺嘧啶（T）。因此，对于模板链3'-ACCAAACCGAGT-5'，mRNA序列将是5'-UGGGUUUGGCUCA-3'。",
+      "es": "Durante la transcripción, la ARN polimerasa sintetiza una molécula de ARNm que es complementaria a la hebra molde de ADN y antiparalela a ella. En el ARN, el uracilo (U) reemplaza a la timina (T). Por lo tanto, para la hebra molde 3'-ACCAAACCGAGT-5', la secuencia de ARNm será 5'-UGGGUUUGGCUCA-3'.",
+      "fr": "Pendant la transcription, l'ARN polymérase synthétise une molécule d'ARNm complémentaire au brin d'ADN matrice et antiparallèle à celui-ci. Dans l'ARN, l'uracile (U) remplace la thymine (T). Ainsi, pour le brin matrice 3'-ACCAAACCGAGT-5', la séquence d'ARNm sera 5'-UGGGUUUGGCUCA-3'.",
+      "de": "Während der Transkription synthetisiert die RNA-Polymerase ein mRNA-Molekül, das komplementär zum DNA-Matrizenstrang und antiparallel zu diesem ist. In der RNA ersetzt Uracil (U) Thymin (T). Daher wird für den Matrizenstrang 3'-ACCAAACCGAGT-5' die mRNA-Sequenz 5'-UGGGUUUGGCUCA-3' sein.",
+      "ja": "転写中、RNAポリメラーゼはDNA鋳型鎖に相補的で逆平行なmRNA分子を合成します。RNAではチミン（T）の代わりにウラシル（U）が使われます。したがって、鋳型鎖3'-ACCAAACCGAGT-5'の場合、mRNA配列は5'-UGGGUUUGGCUCA-3'となります。"
+    }
+  },
+  {
+    "page_number": 57,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "The text states, “This universality of the genetic code is a strong piece of evidence that all life is related.” What is the most significant implication of this statement regarding gene expression across different species?",
+      "zh": "文本指出：“这种遗传密码的普遍性是所有生命都相关的有力证据。”关于不同物种间基因表达，这一论述最重大的含义是什么？",
+      "es": "El texto afirma: “Esta universalidad del código genético es una fuerte prueba de que toda la vida está relacionada.” ¿Cuál es la implicación más significativa de esta afirmación con respecto a la expresión génica en diferentes especies?",
+      "fr": "Le texte indique : « Cette universalité du code génétique est une preuve solide que toute vie est liée. » Quelle est l'implication la plus significative de cette affirmation concernant l'expression génique à travers différentes espèces ?",
+      "de": "Der Text besagt: „Diese Universalität des genetischen Codes ist ein starker Beweis dafür, dass alles Leben miteinander verwandt ist.“ Was ist die bedeutendste Implikation dieser Aussage hinsichtlich der Genexpression bei verschiedenen Arten?",
+      "ja": "テキストには「この遺伝コードの普遍性は、すべての生命が関連しているという強力な証拠である」と記載されています。異なる種間での遺伝子発現に関して、この記述が持つ最も重要な意味は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Genes from one organism can often be expressed and produce functional proteins in another organism.",
+          "zh": "一个生物体的基因通常可以在另一个生物体中表达并产生功能性蛋白质。",
+          "es": "Los genes de un organismo a menudo pueden expresarse y producir proteínas funcionales en otro organismo.",
+          "fr": "Les gènes d'un organisme peuvent souvent être exprimés et produire des protéines fonctionnelles dans un autre organisme.",
+          "de": "Gene eines Organismus können oft in einem anderen Organismus exprimiert werden und funktionelle Proteine produzieren.",
+          "ja": "ある生物の遺伝子は、しばしば別の生物でも発現し、機能的なタンパク質を生産することができます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "All organisms have identical DNA sequences for their genes.",
+          "zh": "所有生物体的基因都有相同的DNA序列。",
+          "es": "Todos los organismos tienen secuencias de ADN idénticas para sus genes.",
+          "fr": "Tous les organismes ont des séquences d'ADN identiques pour leurs gènes.",
+          "de": "Alle Organismen haben identische DNA-Sequenzen für ihre Gene.",
+          "ja": "すべての生物が遺伝子に対して同一のDNA配列を持っています。"
+        },
+        "feedback": {
+          "en": "While the code is universal, the specific nucleotide sequences of genes differ between organisms, leading to different traits and variations. The text explicitly states 'Differences between organisms reflect differences between their nucleotide sequences rather than between their genetic codes.'",
+          "zh": "尽管密码是普遍的，但不同生物体的基因特异性核苷酸序列是不同的，这导致了不同的性状和变异。文本明确指出“生物体之间的差异反映了其核苷酸序列的差异，而不是其遗传密码的差异”。",
+          "es": "Si bien el código es universal, las secuencias de nucleótidos específicas de los genes difieren entre organismos, lo que lleva a diferentes rasgos y variaciones. El texto afirma explícitamente: 'Las diferencias entre organismos reflejan diferencias entre sus secuencias de nucleótidos en lugar de entre sus códigos genéticos.'",
+          "fr": "Bien que le code soit universel, les séquences nucléotidiques spécifiques des gènes diffèrent entre les organismes, entraînant des traits et des variations distincts. Le texte indique explicitement : « Les différences entre les organismes reflètent des différences dans leurs séquences de nucléotides plutôt que dans leurs codes génétiques. »",
+          "de": "Obwohl der Code universell ist, unterscheiden sich die spezifischen Nukleotidsequenzen der Gene zwischen Organismen, was zu unterschiedlichen Merkmalen und Variationen führt. Der Text besagt ausdrücklich: „Unterschiede zwischen Organismen spiegeln Unterschiede in ihren Nukleotidsequenzen wider und nicht in ihren genetischen Codes.“",
+          "ja": "コードは普遍的ですが、遺伝子の特定のヌクレオチド配列は生物によって異なり、異なる形質や変異につながります。テキストには「生物間の違いは、遺伝コードではなく、ヌクレオチド配列の違いを反映している」と明確に記載されています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Genetic mutations occur at the same rate in all species.",
+          "zh": "所有物种的基因突变发生率相同。",
+          "es": "Las mutaciones genéticas ocurren a la misma tasa en todas las especies.",
+          "fr": "Les mutations génétiques se produisent au même rythme dans toutes les espèces.",
+          "de": "Genetische Mutationen treten bei allen Arten mit der gleichen Rate auf.",
+          "ja": "すべての種で遺伝子変異が同じ速度で発生します。"
+        },
+        "feedback": {
+          "en": "The universality of the genetic code does not imply uniform mutation rates. Mutation rates vary widely among species and even within different regions of a genome.",
+          "zh": "遗传密码的普遍性并不意味着所有物种的突变率都是相同的。突变率在不同物种之间甚至基因组的不同区域之间都有很大差异。",
+          "es": "La universalidad del código genético no implica tasas de mutación uniformes. Las tasas de mutación varían ampliamente entre especies e incluso dentro de diferentes regiones de un genoma.",
+          "fr": "L'universalité du code génétique n'implique pas des taux de mutation uniformes. Les taux de mutation varient considérablement entre les espèces et même au sein de différentes régions d'un génome.",
+          "de": "Die Universalität des genetischen Codes impliziert keine einheitlichen Mutationsraten. Mutationsraten variieren stark zwischen Arten und sogar innerhalb verschiedener Regionen eines Genoms.",
+          "ja": "遺伝コードの普遍性は、すべての種で突然変異率が同じであることを意味しません。突然変異率は種間、さらにはゲノムの異なる領域内でも大きく異なります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All proteins produced by different organisms have the same function.",
+          "zh": "不同生物体产生的所有蛋白质都具有相同的功能。",
+          "es": "Todas las proteínas producidas por diferentes organismos tienen la misma función.",
+          "fr": "Toutes les protéines produites par différents organismes ont la même fonction.",
+          "de": "Alle von verschiedenen Organismen produzierten Proteine haben die gleiche Funktion.",
+          "ja": "異なる生物によって生産されるすべてのタンパク質は同じ機能を持っています。"
+        },
+        "feedback": {
+          "en": "While the genetic code is universal, different genes and nucleotide sequences lead to the production of diverse proteins with varied functions in different organisms.",
+          "zh": "尽管遗传密码是普遍的，但不同的基因和核苷酸序列导致不同生物体产生具有不同功能的多种蛋白质。",
+          "es": "Si bien el código genético es universal, diferentes genes y secuencias de nucleótidos conducen a la producción de diversas proteínas con funciones variadas en diferentes organismos.",
+          "fr": "Bien que le code génétique soit universel, des gènes et des séquences nucléotidiques différents mènent à la production de protéines diverses avec des fonctions variées chez différents organismes.",
+          "de": "Obwohl der genetische Code universell ist, führen unterschiedliche Gene und Nukleotidsequenzen zur Produktion vielfältiger Proteine mit unterschiedlichen Funktionen in verschiedenen Organismen.",
+          "ja": "遺伝コードは普遍的ですが、異なる遺伝子やヌクレオチド配列は、異なる生物で多様な機能を持つさまざまなタンパク質の生産につながります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The universality of the genetic code means that a specific sequence of nucleotides (a codon) codes for the same amino acid in nearly all living organisms. This implies that if a gene from one organism is introduced into another, the recipient organism's cellular machinery will be able to read that gene and produce the same protein, provided the regulatory mechanisms are compatible. This forms the basis for genetic engineering and supports the idea of common ancestry.",
+      "zh": "遗传密码的普遍性意味着特定的核苷酸序列（密码子）在几乎所有生物体中都编码相同的氨基酸。这意味着如果将一个生物体的基因导入另一个生物体中，只要调控机制兼容，受体生物体的细胞机制就能够读取该基因并产生相同的蛋白质。这构成了基因工程的基础，并支持了共同祖先的观点。",
+      "es": "La universalidad del código genético significa que una secuencia específica de nucleótidos (un codón) codifica el mismo aminoácido en casi todos los organismos vivos. Esto implica que si un gen de un organismo se introduce en otro, la maquinaria celular del organismo receptor podrá leer ese gen y producir la misma proteína, siempre que los mecanismos reguladores sean compatibles. Esto forma la base de la ingeniería genética y apoya la idea de un ancestro común.",
+      "fr": "L'universalité du code génétique signifie qu'une séquence spécifique de nucléotides (un codon) code pour le même acide aminé chez presque tous les organismes vivants. Cela implique que si un gène d'un organisme est introduit dans un autre, la machinerie cellulaire de l'organisme receveur sera capable de lire ce gène et de produire la même protéine, à condition que les mécanismes régulateurs soient compatibles. Cela constitue la base de l'ingénierie génétique et soutient l'idée d'une ascendance commune.",
+      "de": "Die Universalität des genetischen Codes bedeutet, dass eine spezifische Nukleotidsequenz (ein Codon) in nahezu allen lebenden Organismen für dieselbe Aminosäure kodiert. Dies impliziert, dass, wenn ein Gen von einem Organismus in einen anderen eingeführt wird, die Zellmaschinerie des Empfängerorganismus in der Lage sein wird, dieses Gen abzulesen und dasselbe Protein zu produzieren, vorausgesetzt, die Regulationsmechanismen sind kompatibel. Dies bildet die Grundlage für die Gentechnik und unterstützt die Idee eines gemeinsamen Ursprungs.",
+      "ja": "遺伝コードの普遍性は、特定のヌクレオチド配列（コドン）が、ほぼすべての生物で同じアミノ酸をコードすることを意味します。これは、ある生物の遺伝子が別の生物に導入された場合、調節メカニズムが適合していれば、受け入れ側の生物の細胞機構がその遺伝子を読み取り、同じタンパク質を生産できることを示唆しています。これは遺伝子工学の基礎を形成し、共通の祖先の考えを支持します。"
+    }
+  }
+]

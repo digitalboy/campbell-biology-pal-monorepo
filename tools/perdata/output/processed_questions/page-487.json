@@ -1,0 +1,305 @@
+[
+  {
+    "page_number": 487,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, what is the most accurate definition of a Genetically Modified Organism (GMO)?",
+      "zh": "根据文本，对基因改造生物（GMO）最准确的定义是什么？",
+      "es": "Según el texto, ¿cuál es la definición más precisa de un Organismo Genéticamente Modificado (OGM)?",
+      "fr": "Selon le texte, quelle est la définition la plus précise d'un Organisme Génétiquement Modifié (OGM) ?",
+      "de": "Gemäß dem Text, was ist die genaueste Definition eines gentechnisch veränderten Organismus (GVO)?",
+      "ja": "テキストによると、遺伝子組み換え生物（GMO）の最も正確な定義は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "An organism that has been bred through traditional selective breeding methods to express desirable traits.",
+          "zh": "通过传统选择性育种方法培育以表达所需性状的生物。",
+          "es": "Un organismo que ha sido criado mediante métodos de cría selectiva tradicionales para expresar rasgos deseables.",
+          "fr": "Un organisme qui a été élevé par des méthodes de sélection traditionnelles pour exprimer des traits souhaitables.",
+          "de": "Ein Organismus, der durch traditionelle Züchtungsmethoden gezüchtet wurde, um erwünschte Merkmale auszudrücken.",
+          "ja": "伝統的な選択的育種法によって望ましい形質を発現するように育種された生物。"
+        },
+        "feedback": {
+          "en": "This describes traditional breeding, not a GMO, which involves acquiring genes from another species or variety.",
+          "zh": "这描述的是传统育种，而不是基因改造生物，后者涉及从其他物种或变种获得基因。",
+          "es": "Esto describe la cría tradicional, no un OGM, que implica la adquisición de genes de otra especie o variedad.",
+          "fr": "Cela décrit l'élevage traditionnel, pas un OGM, qui implique l'acquisition de gènes d'une autre espèce ou variété.",
+          "de": "Dies beschreibt traditionelle Züchtung, nicht einen GVO, der die Aufnahme von Genen einer anderen Art oder Sorte beinhaltet.",
+          "ja": "これは従来の育種を説明しており、GMOではありません。GMOは別の種または品種から遺伝子を獲得することを含みます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "An organism whose own genes have been modified using technologies like CRISPR-Cas9.",
+          "zh": "使用CRISPR-Cas9等技术修改自身基因的生物。",
+          "es": "Un organismo cuyos propios genes han sido modificados utilizando tecnologías como CRISPR-Cas9.",
+          "fr": "Un organisme dont les propres gènes ont été modifiés à l'aide de technologies comme CRISPR-Cas9.",
+          "de": "Ein Organismus, dessen eigene Gene mit Technologien wie CRISPR-Cas9 modifiziert wurden.",
+          "ja": "CRISPR-Cas9などの技術を用いて自身の遺伝子が改変された生物。"
+        },
+        "feedback": {
+          "en": "While CRISPR-Cas9 can modify genes, the text specifically defines a GMO as having acquired genes from another species/variety, not just modified its own.",
+          "zh": "尽管CRISPR-Cas9可以修改基因，但文本特别将GMO定义为从其他物种/变种获得基因，而不仅仅是修改自身基因。",
+          "es": "Aunque CRISPR-Cas9 puede modificar genes, el texto define específicamente un OGM como aquel que ha adquirido genes de otra especie/variedad, no solo modificado sus propios genes.",
+          "fr": "Bien que CRISPR-Cas9 puisse modifier des gènes, le texte définit spécifiquement un OGM comme ayant acquis des gènes d'une autre espèce/variété, et non pas seulement modifié ses propres gènes.",
+          "de": "Während CRISPR-Cas9 Gene modifizieren kann, definiert der Text einen GVO speziell als einen Organismus, der Gene von einer anderen Art/Sorte erworben hat, nicht nur seine eigenen modifiziert hat.",
+          "ja": "CRISPR-Cas9が遺伝子を改変できる一方で、テキストではGMOを、自身の遺伝子を改変するだけでなく、別の種や品種から遺伝子を獲得した生物として具体的に定義しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A transgenic organism that has acquired one or more genes from another species or from another variety of the same species.",
+          "zh": "从其他物种或同物种的其他变种获得一个或多个基因的转基因生物。",
+          "es": "Un organismo transgénico que ha adquirido uno o más genes de otra especie o de otra variedad de la misma especie.",
+          "fr": "Un organisme transgénique qui a acquis un ou plusieurs gènes d'une autre espèce ou d'une autre variété de la même espèce.",
+          "de": "Ein transgener Organismus, der ein oder mehrere Gene von einer anderen Art oder von einer anderen Sorte derselben Art erworben hat.",
+          "ja": "他の種または同種の別の品種から1つ以上の遺伝子を獲得したトランスジェニック生物。"
+        },
+        "feedback": {
+          "en": "This is the correct definition directly from the text.",
+          "zh": "这是直接来自文本的正确定义。",
+          "es": "Esta es la definición correcta directamente del texto.",
+          "fr": "C'est la définition correcte directement du texte.",
+          "de": "Dies ist die korrekte Definition direkt aus dem Text.",
+          "ja": "これはテキストから直接引用された正しい定義です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Any microorganism that has been engineered in a laboratory to be genetically crippled.",
+          "zh": "在实验室中被基因改造以致基因缺陷的任何微生物。",
+          "es": "Cualquier microorganismo que ha sido diseñado en un laboratorio para ser genéticamente lisiado.",
+          "fr": "Tout microorganisme qui a été conçu en laboratoire pour être génétiquement handicapé.",
+          "de": "Jeder Mikroorganismus, der im Labor gentechnisch so verändert wurde, dass er genetisch geschwächt ist.",
+          "ja": "研究室で遺伝子的に無力化されるように設計されたあらゆる微生物。"
+        },
+        "feedback": {
+          "en": "This refers to a safety measure for engineered microorganisms, not the general definition of a GMO used as food.",
+          "zh": "这指的是对工程微生物的一种安全措施，而不是用于食品的GMO的通用定义。",
+          "es": "Esto se refiere a una medida de seguridad para microorganismos diseñados, no a la definición general de un OGM utilizado como alimento.",
+          "fr": "Cela fait référence à une mesure de sécurité pour les microorganismes modifiés, et non à la définition générale d'un OGM utilisé comme aliment.",
+          "de": "Dies bezieht sich auf eine Sicherheitsmaßnahme für gentechnisch veränderte Mikroorganismen, nicht auf die allgemeine Definition eines als Lebensmittel verwendeten GVO.",
+          "ja": "これは、工学的に改変された微生物の安全対策に言及しており、食品として使用されるGMOの一般的な定義ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly defines a GMO as 'a transgenic organism that has acquired one or more genes from another species or from another variety of the same species.'",
+      "zh": "文本明确将GMO定义为“从其他物种或同物种的其他变种获得一个或多个基因的转基因生物”。",
+      "es": "El texto define explícitamente un OGM como 'un organismo transgénico que ha adquirido uno o más genes de otra especie o de otra variedad de la misma especie'.",
+      "fr": "Le texte définit explicitement un OGM comme 'un organisme transgénique qui a acquis un ou plusieurs gènes d'une autre espèce ou d'une autre variété de la même espèce'.",
+      "de": "Der Text definiert einen GVO explizit als „einen transgenen Organismus, der ein oder mehrere Gene von einer anderen Art oder von einer anderen Sorte derselben Art erworben hat“.",
+      "ja": "テキストでは、GMOを「他の種または同種の別の品種から1つ以上の遺伝子を獲得したトランスジェニック生物」と明確に定義しています。"
+    }
+  },
+  {
+    "page_number": 487,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the information provided, which of the following statements about genetically modified (GM) crops is TRUE?",
+      "zh": "根据提供的信息，以下关于基因改造（GM）作物叙述哪项是**正确**的？",
+      "es": "Basándose en la información proporcionada, ¿cuál de las siguientes afirmaciones sobre los cultivos genéticamente modificados (GM) es VERDADERA?",
+      "fr": "D'après les informations fournies, quelle est l'affirmation VRAIE concernant les cultures génétiquement modifiées (GM) ?",
+      "de": "Basierend auf den bereitgestellten Informationen, welche der folgenden Aussagen über gentechnisch veränderte (GV) Pflanzen ist WAHR?",
+      "ja": "提供された情報に基づくと、遺伝子組み換え（GM）作物に関する次の記述のうち、**正しい**ものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The majority of GMOs that contribute to the world's food supply are animals, such as salmon.",
+          "zh": "对全球粮食供应做出贡献的GMO多数是动物，例如鲑鱼。",
+          "es": "La mayoría de los OGM que contribuyen al suministro mundial de alimentos son animales, como el salmón.",
+          "fr": "La majorité des OGM qui contribuent à l'approvisionnement alimentaire mondial sont des animaux, tels que le saumon.",
+          "de": "Die Mehrheit der GVO, die zur weltweiten Lebensmittelversorgung beitragen, sind Tiere, wie zum Beispiel Lachs.",
+          "ja": "世界の食料供給に貢献するGMOの大部分は、サケなどの動物である。"
+        },
+        "feedback": {
+          "en": "The text states that 'the majority of the GMOs that contribute to our food supply are not animals, but crop plants.'",
+          "zh": "文本指出“对我们粮食供应做出贡献的GMO多数不是动物，而是作物”。",
+          "es": "El texto indica que 'la mayoría de los OGM que contribuyen a nuestro suministro de alimentos no son animales, sino plantas de cultivo'.",
+          "fr": "Le texte indique que 'la majorité des OGM qui contribuent à notre approvisionnement alimentaire ne sont pas des animaux, mais des plantes cultivées'.",
+          "de": "Der Text besagt, dass „die Mehrheit der GVO, die zu unserer Lebensmittelversorgung beitragen, keine Tiere, sondern Nutzpflanzen sind“.",
+          "ja": "テキストには「食料供給に貢献するGMOの大部分は動物ではなく、作物である」と記載されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "GM crops are widely accepted and grown in large quantities across all European Union member states.",
+          "zh": "基因改造作物在所有欧盟成员国都得到广泛接受并大量种植。",
+          "es": "Los cultivos GM son ampliamente aceptados y cultivados en grandes cantidades en todos los estados miembros de la Unión Europea.",
+          "fr": "Les cultures GM sont largement acceptées et cultivées en grandes quantités dans tous les États membres de l'Union européenne.",
+          "de": "GV-Pflanzen werden in allen Mitgliedstaaten der Europäischen Union weitgehend akzeptiert und in großen Mengen angebaut.",
+          "ja": "遺伝子組み換え作物は、欧州連合の全加盟国で広く受け入れられ、大量に栽培されている。"
+        },
+        "feedback": {
+          "en": "The text states there is 'strong opposition' to GM foods in Europe and 'individual member states may ban either the growing or importing of GM crops,' indicating limited acceptance.",
+          "zh": "文本指出，欧洲对基因改造食品存在“强烈反对”，并且“个别成员国可能会禁止其种植或进口”，这表明接受度有限。",
+          "es": "El texto afirma que existe una 'fuerte oposición' a los alimentos GM en Europa y que 'los estados miembros individuales pueden prohibir el cultivo o la importación de cultivos GM', lo que indica una aceptación limitada.",
+          "fr": "Le texte indique qu'il existe une 'forte opposition' aux aliments GM en Europe et que 'les États membres individuels peuvent interdire la culture ou l'importation de cultures GM', ce qui indique une acceptation limitée.",
+          "de": "Der Text besagt, dass es in Europa „starken Widerstand“ gegen GV-Lebensmittel gibt und „einzelne Mitgliedstaaten den Anbau oder Import von GV-Pflanzen verbieten können“, was auf eine begrenzte Akzeptanz hindeutet.",
+          "ja": "テキストには、ヨーロッパではGM食品に対する「強い反対」があり、「個々の加盟国がGM作物の栽培または輸入を禁止する可能性がある」と記載されており、これは受け入れが限定的であることを示しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The United States, Argentina, and Brazil together account for over 80% of the world's acreage devoted to GM crops.",
+          "zh": "美国、阿根廷和巴西合计占世界基因改造作物种植面积的80%以上。",
+          "es": "Estados Unidos, Argentina y Brasil juntos representan más del 80% de la superficie mundial dedicada a cultivos transgénicos.",
+          "fr": "Les États-Unis, l'Argentine et le Brésil représentent ensemble plus de 80 % de la superficie mondiale consacrée aux cultures GM.",
+          "de": "Die Vereinigten Staaten, Argentinien und Brasilien machen zusammen über 80% der weltweiten Anbaufläche für GV-Pflanzen aus.",
+          "ja": "米国、アルゼンチン、ブラジルが合わせて世界のGM作物作付面積の80%以上を占めている。"
+        },
+        "feedback": {
+          "en": "This statement is directly supported by the text: 'GM crops are widespread in the United States, Argentina, and Brazil; together, these countries account for over 80% of the world's acreage devoted to such crops.'",
+          "zh": "该陈述直接得到文本支持：“基因改造作物在美国、阿根廷和巴西广泛种植；这些国家合计占世界用于此类作物的种植面积的80%以上。”",
+          "es": "Esta afirmación está directamente respaldada por el texto: 'Los cultivos GM están muy extendidos en Estados Unidos, Argentina y Brasil; juntos, estos países representan más del 80% de la superficie mundial dedicada a dichos cultivos'.",
+          "fr": "Cette affirmation est directement étayée par le texte : « Les cultures GM sont largement répandues aux États-Unis, en Argentine et au Brésil ; ensemble, ces pays représentent plus de 80 % de la superficie mondiale consacrée à ces cultures. »",
+          "de": "Diese Aussage wird direkt vom Text gestützt: „GV-Pflanzen sind in den Vereinigten Staaten, Argentinien und Brasilien weit verbreitet; zusammen machen diese Länder über 80% der weltweiten Anbaufläche für solche Pflanzen aus.“",
+          "ja": "この記述はテキストによって直接裏付けられています。「GM作物は米国、アルゼンチン、ブラジルで広く普及しており、これらの国々は合わせて世界のGM作物作付面積の80%以上を占めている。」"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A recent law in the United States requires optional labeling of GM products.",
+          "zh": "美国最近的一项法律要求对基因改造产品进行可选标签。",
+          "es": "Una ley reciente en Estados Unidos exige el etiquetado opcional de los productos transgénicos.",
+          "fr": "Une loi récente aux États-Unis exige l'étiquetage facultatif des produits GM.",
+          "de": "Ein kürzlich erlassenes Gesetz in den Vereinigten Staaten verlangt eine optionale Kennzeichnung von GV-Produkten.",
+          "ja": "米国では最近の法律で、GM製品の任意の表示が義務付けられている。"
+        },
+        "feedback": {
+          "en": "The text states a recent law requires 'labeling of GM products,' implying mandatory, not optional, labeling.",
+          "zh": "文本指出，最近一项法律要求对“GM产品进行标签”，这暗示是强制性的，而非可选的标签。",
+          "es": "El texto afirma que una ley reciente exige el 'etiquetado de los productos GM', lo que implica que es obligatorio, no opcional.",
+          "fr": "Le texte indique qu'une loi récente exige « l'étiquetage des produits GM », ce qui implique un étiquetage obligatoire, et non facultatif.",
+          "de": "Der Text besagt, dass ein kürzlich erlassenes Gesetz die „Kennzeichnung von GV-Produkten“ vorschreibt, was eine obligatorische, nicht optionale Kennzeichnung impliziert.",
+          "ja": "テキストには最近の法律で「GM製品の表示」が義務付けられているとあり、これは任意ではなく必須であることを意味します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'GM crops are widespread in the United States, Argentina, and Brazil; together, these countries account for over 80% of the world's acreage devoted to such crops.'",
+      "zh": "文本明确指出：“基因改造作物在美国、阿根廷和巴西广泛种植；这些国家合计占世界用于此类作物的种植面积的80%以上。”",
+      "es": "El texto establece explícitamente: 'Los cultivos GM están muy extendidos en Estados Unidos, Argentina y Brasil; juntos, estos países representan más del 80% de la superficie mundial dedicada a dichos cultivos'.",
+      "fr": "Le texte déclare explicitement : « Les cultures GM sont largement répandues aux États-Unis, en Argentine et au Brésil ; ensemble, ces pays représentent plus de 80 % de la superficie mondiale consacrée à ces cultures. »",
+      "de": "Der Text besagt explizit: „GV-Pflanzen sind in den Vereinigten Staaten, Argentinien und Brasilien weit verbreitet; zusammen machen diese Länder über 80% der weltweiten Anbaufläche für solche Pflanzen aus.“",
+      "ja": "テキストには「GM作物は米国、アルゼンチン、ブラジルで広く普及しており、これらの国々が合わせて世界のGM作物作付面積の80%以上を占めている」と明確に記載されています。"
+    }
+  },
+  {
+    "page_number": 487,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "One significant concern regarding the environmental impact of genetically modified (GM) crops, as mentioned in the text, is the potential creation of 'super weeds.' Which of the following scenarios best describes how 'super weeds' could arise?",
+      "zh": "文本中提到，关于基因改造（GM）作物对环境影响的一个重要担忧是可能产生“超级杂草”。以下哪种情况最能描述“超级杂草”可能如何产生？",
+      "es": "Una preocupación significativa con respecto al impacto ambiental de los cultivos genéticamente modificados (GM), como se menciona en el texto, es la posible creación de \"supermalezas\". ¿Cuál de los siguientes escenarios describe mejor cómo podrían surgir las \"supermalezas\"?",
+      "fr": "L'une des principales préoccupations concernant l'impact environnemental des cultures génétiquement modifiées (GM), tel que mentionné dans le texte, est la création potentielle de « super mauvaises herbes ». Lequel des scénarios suivants décrit le mieux comment les « super mauvaises herbes » pourraient apparaître ?",
+      "de": "Eine erhebliche Besorgnis bezüglich der Umweltauswirkungen gentechnisch veränderter (GV) Pflanzen, wie im Text erwähnt, ist die potenzielle Entstehung von „Super-Unkräutern“. Welches der folgenden Szenarien beschreibt am besten, wie „Super-Unkräuter“ entstehen könnten?",
+      "ja": "テキストに記載されている、遺伝子組み換え（GM）作物の環境への影響に関する重要な懸念の1つは、「スーパー雑草」が生成される可能性です。「スーパー雑草」がどのように発生するかを最もよく説明しているのは、次のシナリオのどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "GM crops engineered for pest resistance develop new mutations that allow them to grow uncontrollably without pests.",
+          "zh": "基因改造作物因抗虫性而产生新的突变，使其在没有害虫的情况下也能不受控制地生长。",
+          "es": "Los cultivos transgénicos diseñados para la resistencia a plagas desarrollan nuevas mutaciones que les permiten crecer sin control sin la presencia de plagas.",
+          "fr": "Les cultures GM conçues pour la résistance aux ravageurs développent de nouvelles mutations qui leur permettent de croître de manière incontrôlable sans ravageurs.",
+          "de": "GV-Pflanzen, die für Schädlingsresistenz entwickelt wurden, entwickeln neue Mutationen, die ihnen ein unkontrolliertes Wachstum ohne Schädlinge ermöglichen.",
+          "ja": "害虫耐性を持つように遺伝子組み換えされたGM作物が、害虫がいなくても制御不能に成長する新たな突然変異を起こす。"
+        },
+        "feedback": {
+          "en": "While mutations can occur, the text specifies 'super weeds' arise from gene transfer to wild relatives, not solely from spontaneous mutations making GM crops uncontrollable.",
+          "zh": "尽管可能发生突变，但文本明确指出“超级杂草”是由于基因转移到野生近缘种而产生的，并非仅由GM作物自发突变导致其失控生长。",
+          "es": "Aunque pueden ocurrir mutaciones, el texto especifica que las 'supermalezas' surgen de la transferencia de genes a parientes silvestres, no únicamente de mutaciones espontáneas que hacen que los cultivos transgénicos crezcan incontrolablemente.",
+          "fr": "Bien que des mutations puissent survenir, le texte précise que les « super mauvaises herbes » proviennent du transfert de gènes à des plantes sauvages apparentées, et non uniquement de mutations spontanées rendant les cultures GM incontrôlables.",
+          "de": "Obwohl Mutationen auftreten können, besagt der Text, dass „Super-Unkräuter“ durch Gentransfer auf wilde Verwandte entstehen, nicht ausschließlich durch spontane Mutationen, die GV-Pflanzen unkontrollierbar machen.",
+          "ja": "突然変異は起こり得るものの、テキストでは「スーパー雑草」が、GM作物自身の自発的な突然変異によって制御不能になるのではなく、野生の近縁種への遺伝子導入によって生じると具体的に述べています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "GM crops pass their genes for traits like herbicide resistance to close wild relatives through pollen transfer, making the offspring difficult to control.",
+          "zh": "基因改造作物通过花粉传播将其除草剂抗性等性状基因传递给近缘野生植物，导致其后代难以控制。",
+          "es": "Los cultivos transgénicos transfieren sus genes de rasgos como la resistencia a herbicidas a parientes silvestres cercanos a través de la transferencia de polen, lo que dificulta el control de la descendencia.",
+          "fr": "Les cultures GM transmettent leurs gènes pour des traits tels que la résistance aux herbicides à leurs proches parents sauvages par transfert de pollen, rendant la descendance difficile à contrôler.",
+          "de": "GV-Pflanzen geben ihre Gene für Eigenschaften wie Herbizidresistenz durch Pollenübertragung an nahe wilde Verwandte weiter, wodurch die Nachkommen schwer zu kontrollieren sind.",
+          "ja": "遺伝子組み換え作物が、除草剤耐性などの形質を持つ遺伝子を、花粉媒介によって近縁の野生種に伝え、その子孫が制御困難になる。"
+        },
+        "feedback": {
+          "en": "This is the precise mechanism described in the text for the creation of 'super weeds,' where crop plants carrying resistance genes pollinate wild ones, making the offspring difficult to control.",
+          "zh": "这正是文本中描述的“超级杂草”产生的精确机制，即携带抗性基因的作物通过花粉为野生植物授粉，导致其后代难以控制。",
+          "es": "Este es el mecanismo preciso descrito en el texto para la creación de 'supermalezas', donde las plantas de cultivo que llevan genes de resistencia polinizan a las silvestres, lo que hace que la descendencia sea difícil de controlar.",
+          "fr": "C'est le mécanisme précis décrit dans le texte pour la création de « super mauvaises herbes », où les plantes cultivées portant des gènes de résistance pollinisent les plantes sauvages, rendant la descendance difficile à contrôler.",
+          "de": "Dies ist der im Text beschriebene genaue Mechanismus für die Entstehung von „Super-Unkräutern“, bei dem Kulturpflanzen mit Resistenzgenen wilde Pflanzen bestäuben, wodurch die Nachkommen schwer zu kontrollieren sind.",
+          "ja": "これは、テキストに記載されている「スーパー雑草」が生成される正確なメカニズムであり、耐性遺伝子を持つ作物植物が野生植物に受粉することで、その子孫が制御困難になるというものです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Farmers overuse herbicides on GM crops, leading to the evolution of herbicide-resistant weeds through natural selection, unrelated to gene transfer.",
+          "zh": "农民过度使用除草剂在基因改造作物上，导致杂草通过自然选择进化出除草剂抗性，这与基因转移无关。",
+          "es": "Los agricultores abusan de los herbicidas en los cultivos transgénicos, lo que lleva a la evolución de malezas resistentes a los herbicidas mediante selección natural, sin relación con la transferencia de genes.",
+          "fr": "Les agriculteurs abusent des herbicides sur les cultures GM, ce qui entraîne l'évolution de mauvaises herbes résistantes aux herbicides par sélection naturelle, sans rapport avec le transfert de gènes.",
+          "de": "Landwirte setzen Herbizide bei GV-Pflanzen übermäßig ein, was zur Entwicklung herbizidresistenter Unkräuter durch natürliche Selektion führt, unabhängig vom Gentransfer.",
+          "ja": "農家がGM作物に除草剤を過剰に使用することで、遺伝子導入とは関係なく、自然選択によって除草剤耐性を持つ雑草が進化する。"
+        },
+        "feedback": {
+          "en": "While overuse of herbicides can lead to resistance, the text specifically attributes 'super weeds' to gene transfer from GM crops to wild relatives, not just natural selection in wild weeds.",
+          "zh": "尽管过度使用除草剂会导致抗性，但文本明确将“超级杂草”归因于基因改造作物向野生近缘种的基因转移，而非仅仅是野生杂草的自然选择。",
+          "es": "Si bien el uso excesivo de herbicidas puede llevar a la resistencia, el texto atribuye específicamente las 'supermalezas' a la transferencia de genes de los cultivos transgénicos a parientes silvestres, no solo a la selección natural en malezas silvestres.",
+          "fr": "Bien que l'utilisation excessive d'herbicides puisse entraîner une résistance, le texte attribue spécifiquement les « super mauvaises herbes » au transfert de gènes des cultures GM aux plantes sauvages apparentées, et non seulement à la sélection naturelle chez les mauvaises herbes sauvages.",
+          "de": "Während der übermäßige Einsatz von Herbiziden zu Resistenzen führen kann, schreibt der Text „Super-Unkräuter“ speziell dem Gentransfer von GV-Pflanzen auf wilde Verwandte zu, nicht nur der natürlichen Selektion bei wilden Unkräutern.",
+          "ja": "除草剤の過剰使用が耐性を引き起こす可能性はあるものの、テキストでは「スーパー雑草」は、野生雑草の自然選択だけでなく、GM作物から野生の近縁種への遺伝子導入に起因すると具体的に述べています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Genetically engineered insects, released to control pests, cross-breed with native insect populations, creating hybrid 'super pests.'",
+          "zh": "为控制害虫而释放的转基因昆虫与本地昆虫种群杂交，产生杂交“超级害虫”。",
+          "es": "Los insectos genéticamente modificados, liberados para controlar plagas, se cruzan con poblaciones de insectos nativas, creando \"superplagas\" híbridas.",
+          "fr": "Les insectes génétiquement modifiés, libérés pour lutter contre les ravageurs, se croisent avec les populations d'insectes indigènes, créant des « super ravageurs » hybrides.",
+          "de": "Gentechnisch veränderte Insekten, die zur Schädlingsbekämpfung freigesetzt werden, kreuzen sich mit einheimischen Insektenpopulationen und erzeugen hybride „Super-Schädlinge“.",
+          "ja": "害虫駆除のために放たれた遺伝子組み換え昆虫が、在来の昆虫個体群と交配し、ハイブリッドな「スーパー害虫」を作り出す。"
+        },
+        "feedback": {
+          "en": "The text discusses 'super weeds' in the context of plant gene transfer, not 'super pests' from insect cross-breeding.",
+          "zh": "文本讨论的是植物基因转移背景下的“超级杂草”，而非昆虫杂交产生的“超级害虫”。",
+          "es": "El texto habla de 'supermalezas' en el contexto de la transferencia de genes en plantas, no de 'superplagas' por el cruce de insectos.",
+          "fr": "Le texte aborde les « super mauvaises herbes » dans le contexte du transfert de gènes chez les plantes, et non les « super ravageurs » issus du croisement d'insectes.",
+          "de": "Der Text bespricht „Super-Unkräuter“ im Kontext des Pflanzengentransfers, nicht „Super-Schädlinge“ durch Insektenkreuzung.",
+          "ja": "テキストでは、植物の遺伝子導入に関連する「スーパー雑草」について議論しており、昆虫の異種交配による「スーパー害虫」については言及していません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states: 'If crop plants carrying genes for resistance to herbicides, diseases, or insect pests pollinated wild ones, the offspring might become 'super weeds' that are very difficult to control.' This directly describes the gene transfer via pollen.",
+      "zh": "文本指出：“如果携带抗除草剂、抗病或抗虫害基因的作物植物与野生植物授粉，其后代可能会成为非常难以控制的‘超级杂草’。”这直接描述了通过花粉进行的基因转移。",
+      "es": "El texto afirma: 'Si las plantas de cultivo que portan genes de resistencia a herbicidas, enfermedades o plagas de insectos polinizaran a las silvestres, la descendencia podría convertirse en 'supermalezas' muy difíciles de controlar'. Esto describe directamente la transferencia de genes a través del polen.",
+      "fr": "Le texte déclare : « Si des plantes cultivées portant des gènes de résistance aux herbicides, aux maladies ou aux ravageurs pollinisent des plantes sauvages, la descendance pourrait devenir des 'super mauvaises herbes' très difficiles à contrôler. » Cela décrit directement le transfert de gènes par le pollen.",
+      "de": "Der Text besagt: „Wenn Kulturpflanzen, die Gene für die Resistenz gegen Herbizide, Krankheiten oder Insektenschädlinge tragen, wilde Pflanzen bestäuben, könnten die Nachkommen zu 'Super-Unkräutern' werden, die sehr schwer zu kontrollieren sind.“ Dies beschreibt direkt den Gentransfer über Pollen.",
+      "ja": "テキストには、「除草剤、病気、または害虫に対する耐性遺伝子を持つ作物植物が野生植物に受粉した場合、その子孫は非常に制御が難しい『スーパー雑草』になる可能性がある」と記載されています。これは、花粉を介した遺伝子転移を直接説明しています。"
+    }
+  }
+]

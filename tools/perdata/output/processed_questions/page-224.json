@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 224,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 9.13, which of the following sequences accurately describes the process by which ATP synthase produces ATP?",
+      "zh": "根据图 9.13，以下哪个序列准确描述了 ATP 合酶产生 ATP 的过程？",
+      "es": "Según la Figura 9.13, ¿cuál de las siguientes secuencias describe con precisión el proceso por el cual la ATP sintasa produce ATP?",
+      "fr": "Selon la Figure 9.13, laquelle des séquences suivantes décrit avec précision le processus par lequel l'ATP synthase produit de l'ATP ?",
+      "de": "Basierend auf Abbildung 9.13, welche der folgenden Sequenzen beschreibt genau den Prozess, durch den die ATP-Synthase ATP produziert?",
+      "ja": "図9.13に基づき、ATP合成酵素がATPを生成するプロセスを正確に説明する以下のシーケンスはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "H+ ions enter the catalytic knob, causing the rotor to spin, which then activates the stator to produce ATP.",
+          "zh": "H+ 离子进入催化旋钮，导致转子旋转，进而激活定子产生 ATP。",
+          "es": "Los iones H+ entran en el pomo catalítico, haciendo que el rotor gire, lo que luego activa el estator para producir ATP.",
+          "fr": "Les ions H+ entrent dans le bouton catalytique, faisant tourner le rotor, ce qui active ensuite le stator pour produire de l'ATP.",
+          "de": "H+-Ionen gelangen in den Katalytik-Knopf, wodurch der Rotor sich dreht, was dann den Stator zur ATP-Produktion aktiviert.",
+          "ja": "H+イオンが触媒ノブに入り、ローターが回転し、その後ステーターを活性化してATPを生成する。"
+        },
+        "feedback": {
+          "en": "Incorrect. H+ enters stator/rotor, not catalytic knob directly. The stator is stationary.",
+          "zh": "不正确。H+ 离子进入定子/转子，而不是直接进入催化旋钮。定子是固定的。",
+          "es": "Incorrecto. Los iones H+ entran en el estator/rotor, no directamente en el pomo catalítico. El estator es estacionario.",
+          "fr": "Incorrect. Les ions H+ entrent dans le stator/rotor, pas directement dans le bouton catalytique. Le stator est stationnaire.",
+          "de": "Falsch. H+ gelangt in den Stator/Rotor, nicht direkt in den Katalytik-Knopf. Der Stator ist stationär.",
+          "ja": "不正解。H+は触媒ノブに直接入るのではなく、ステーター/ローターに入ります。ステーターは静止しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "H+ ions bind to binding sites within a rotor, causing it to spin, which in turn causes the internal rod to spin and activate catalytic sites in the knob.",
+          "zh": "H+ 离子结合到转子内的结合位点，使其旋转，进而导致内部杆旋转并激活旋钮中的催化位点。",
+          "es": "Los iones H+ se unen a los sitios de unión dentro de un rotor, lo que hace que gire, lo que a su vez hace que la varilla interna gire y active los sitios catalíticos en el pomo.",
+          "fr": "Les ions H+ se lient aux sites de liaison à l'intérieur d'un rotor, le faisant tourner, ce qui à son tour entraîne la rotation de la tige interne et l'activation des sites catalytiques dans le bouton.",
+          "de": "H+-Ionen binden an Bindungsstellen innerhalb eines Rotors, wodurch dieser sich dreht, was wiederum dazu führt, dass sich der innere Stab dreht und katalytische Stellen im Knopf aktiviert werden.",
+          "ja": "H+イオンがローター内の結合部位に結合し、ローターを回転させ、それによって内部ロッドが回転し、ノブ内の触媒部位を活性化させる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The stator spins due to H+ flow, which then rotates the internal rod, activating the catalytic knob to synthesize ATP.",
+          "zh": "定子因 H+ 流动而旋转，进而带动内部杆旋转，激活催化旋钮合成 ATP。",
+          "es": "El estator gira debido al flujo de H+, lo que luego rota la varilla interna, activando el pomo catalítico para sintetizar ATP.",
+          "fr": "Le stator tourne en raison du flux de H+, ce qui fait ensuite tourner la tige interne, activant le bouton catalytique pour synthétiser l'ATP.",
+          "de": "Der Stator dreht sich aufgrund des H+-Flusses, wodurch sich dann der innere Stab dreht und den Katalytik-Knopf zur ATP-Synthese aktiviert.",
+          "ja": "ステーターがH+の流れによって回転し、内部ロッドを回転させ、触媒ノブを活性化してATPを合成する。"
+        },
+        "feedback": {
+          "en": "Incorrect. The stator is stationary; it does not spin.",
+          "zh": "不正确。定子是固定的，它不旋转。",
+          "es": "Incorrecto. El estator es estacionario; no gira.",
+          "fr": "Incorrect. Le stator est stationnaire ; il ne tourne pas.",
+          "de": "Falsch. Der Stator ist stationär; er dreht sich nicht.",
+          "ja": "不正解。ステーターは静止しており、回転しません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "H+ ions flow directly into the mitochondrial matrix through the internal rod, leading to ATP synthesis.",
+          "zh": "H+ 离子通过内部杆直接流入线粒体基质，导致 ATP 合成。",
+          "es": "Los iones H+ fluyen directamente a la matriz mitocondrial a través de la varilla interna, lo que lleva a la síntesis de ATP.",
+          "fr": "Les ions H+ s'écoulent directement dans la matrice mitochondriale à travers la tige interne, conduisant à la synthèse d'ATP.",
+          "de": "H+-Ionen fließen direkt über den inneren Stab in die mitochondriale Matrix, was zur ATP-Synthese führt.",
+          "ja": "H+イオンが内部ロッドを通って直接ミトコンドリアマトリックスに流れ込み、ATP合成につながる。"
+        },
+        "feedback": {
+          "en": "Incorrect. H+ ions flow through stator channels and rotor binding sites, not directly through the internal rod.",
+          "zh": "不正确。H+ 离子通过定子通道和转子结合位点流动，而不是直接通过内部杆。",
+          "es": "Incorrecto. Los iones H+ fluyen a través de los canales del estator y los sitios de unión del rotor, no directamente a través de la varilla interna.",
+          "fr": "Incorrect. Les ions H+ s'écoulent à travers les canaux du stator et les sites de liaison du rotor, pas directement à travers la tige interne.",
+          "de": "Falsch. H+-Ionen fließen durch Stator-Kanäle und Rotor-Bindungsstellen, nicht direkt durch den inneren Stab.",
+          "ja": "不正解。H+イオンは内部ロッドを直接通過するのではなく、ステーターチャネルとローター結合部位を介して流れます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 9.13 details the steps: H+ ions flow down their gradient, enter a channel in a stator, then enter binding sites within a rotor, changing its shape and causing it to spin. This spinning of the rotor causes an internal rod to spin, which then activates catalytic sites in the knob to produce ATP.",
+      "zh": "图 9.13 详细描述了这些步骤：H+ 离子顺着其梯度流动，进入定子中的通道，然后进入转子内的结合位点，改变其形状并使其旋转。转子的这种旋转导致内部杆旋转，进而激活旋钮中的催化位点以产生 ATP。",
+      "es": "La Figura 9.13 detalla los pasos: los iones H+ fluyen a favor de su gradiente, entran en un canal del estator, luego entran en los sitios de unión dentro de un rotor, cambiando su forma y haciendo que gire. Este giro del rotor hace que una varilla interna gire, lo que luego activa los sitios catalíticos en el pomo para producir ATP.",
+      "fr": "La Figure 9.13 détaille les étapes : les ions H+ s'écoulent selon leur gradient, entrent dans un canal du stator, puis entrent dans les sites de liaison à l'intérieur d'un rotor, changeant sa forme et le faisant tourner. Cette rotation du rotor entraîne la rotation d'une tige interne, ce qui active ensuite les sites catalytiques dans le bouton pour produire de l'ATP.",
+      "de": "Abbildung 9.13 beschreibt die Schritte: H+-Ionen fließen entlang ihres Gradienten, treten in einen Kanal in einem Stator ein, dann in Bindungsstellen innerhalb eines Rotors, wodurch dieser seine Form ändert und sich dreht. Diese Rotation des Rotors führt dazu, dass sich ein innerer Stab dreht, der dann die katalytischen Stellen im Knopf aktiviert, um ATP zu produzieren.",
+      "ja": "図9.13は、H+イオンが勾配に従って流れ、ステーターのチャネルに入り、ローター内の結合部位に入ってその形状を変化させ、回転するプロセスを詳述しています。ローターのこの回転により内部ロッドが回転し、ノブ内の触媒部位を活性化してATPを生成します。"
+    }
+  },
+  {
+    "page_number": 224,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements correctly distinguishes ubiquinone from cytochromes in the electron transport chain?",
+      "zh": "以下哪项陈述正确区分了电子传递链中的泛醌和细胞色素？",
+      "es": "¿Cuál de las siguientes afirmaciones distingue correctamente la ubiquinona de los citocromos en la cadena de transporte de electrones?",
+      "fr": "Laquelle des affirmations suivantes distingue correctement l'ubiquinone des cytochromes dans la chaîne de transport d'électrons ?",
+      "de": "Welche der folgenden Aussagen unterscheidet Ubichinon korrekt von Cytochromen in der Elektronentransportkette?",
+      "ja": "電子伝達系におけるユビキノンとチトクロームを正しく区別する記述は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Ubiquinone is a protein with a heme group, whereas cytochromes are small, hydrophobic, non-protein molecules.",
+          "zh": "泛醌是一种含血红素基团的蛋白质，而细胞色素是小的、疏水的非蛋白分子。",
+          "es": "La ubiquinona es una proteína con un grupo hemo, mientras que los citocromos son moléculas pequeñas, hidrofóbicas y no proteicas.",
+          "fr": "L'ubiquinone est une protéine avec un groupe hème, tandis que les cytochromes sont de petites molécules hydrophobes non protéiques.",
+          "de": "Ubichinon ist ein Protein mit einer Häm-Gruppe, während Cytochrome kleine, hydrophobe, nicht-proteinartige Moleküle sind.",
+          "ja": "ユビキノンはヘム基を持つタンパク質であり、チトクロームは小さく疎水性の非タンパク質分子である。"
+        },
+        "feedback": {
+          "en": "Incorrect. Ubiquinone is not a protein; cytochromes are proteins with heme groups.",
+          "zh": "不正确。泛醌不是蛋白质；细胞色素是含有血红素基团的蛋白质。",
+          "es": "Incorrecto. La ubiquinona no es una proteína; los citocromos son proteínas con grupos hemo.",
+          "fr": "Incorrect. L'ubiquinone n'est pas une protéine ; les cytochromes sont des protéines avec des groupes hème.",
+          "de": "Falsch. Ubichinon ist kein Protein; Cytochrome sind Proteine mit Häm-Gruppen.",
+          "ja": "不正解。ユビキノンはタンパク質ではありません。チトクロームはヘム基を持つタンパク質です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Ubiquinone is mobile within the membrane and is not a protein, while cytochromes are proteins containing an iron atom in a heme group.",
+          "zh": "泛醌在膜内是可移动的，且不是蛋白质，而细胞色素是含有血红素基团中铁原子的蛋白质。",
+          "es": "La ubiquinona es móvil dentro de la membrana y no es una proteína, mientras que los citocromos son proteínas que contienen un átomo de hierro en un grupo hemo.",
+          "fr": "L'ubiquinone est mobile dans la membrane et n'est pas une protéine, tandis que les cytochromes sont des protéines contenant un atome de fer dans un groupe hème.",
+          "de": "Ubichinon ist in der Membran beweglich und kein Protein, während Cytochrome Proteine sind, die ein Eisenatom in einer Häm-Gruppe enthalten.",
+          "ja": "ユビキノンは膜内で移動可能でありタンパク質ではないが、チトクロームはヘム基に鉄原子を含むタンパク質である。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both ubiquinone and cytochromes are proteins, but only cytochromes contain iron for electron transport.",
+          "zh": "泛醌和细胞色素都是蛋白质，但只有细胞色素含有用于电子传递的铁。",
+          "es": "Tanto la ubiquinona como los citocromos son proteínas, pero solo los citocromos contienen hierro para el transporte de electrones.",
+          "fr": "L'ubiquinone et les cytochromes sont tous deux des protéines, mais seuls les cytochromes contiennent du fer pour le transport des électrons.",
+          "de": "Sowohl Ubichinon als auch Cytochrome sind Proteine, aber nur Cytochrome enthalten Eisen für den Elektronentransport.",
+          "ja": "ユビキノンとチトクロームはどちらもタンパク質であるが、電子伝達に鉄を含むのはチトクロームだけである。"
+        },
+        "feedback": {
+          "en": "Incorrect. Ubiquinone is not a protein. It is a small, hydrophobic molecule.",
+          "zh": "不正确。泛醌不是蛋白质。它是一种小的、疏水性分子。",
+          "es": "Incorrecto. La ubiquinona no es una proteína. Es una molécula pequeña e hidrofóbica.",
+          "fr": "Incorrect. L'ubiquinone n'est pas une protéine. C'est une petite molécule hydrophobe.",
+          "de": "Falsch. Ubichinon ist kein Protein. Es ist ein kleines, hydrophobes Molekül.",
+          "ja": "不正解。ユビキノンはタンパク質ではありません。それは小さな疎水性分子です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Cytochromes directly pass electrons to oxygen, while ubiquinone only accepts electrons from NADH.",
+          "zh": "细胞色素直接将电子传递给氧气，而泛醌只从 NADH 接受电子。",
+          "es": "Los citocromos pasan los electrones directamente al oxígeno, mientras que la ubiquinona solo acepta electrones del NADH.",
+          "fr": "Les cytochromes passent directement les électrons à l'oxygène, tandis que l'ubiquinone n'accepte les électrons que du NADH.",
+          "de": "Cytochrome geben Elektronen direkt an Sauerstoff weiter, während Ubichinon Elektronen nur von NADH akzeptiert.",
+          "ja": "チトクロームは電子を直接酸素に渡すが、ユビキノンはNADHからしか電子を受け取らない。"
+        },
+        "feedback": {
+          "en": "Incorrect. Ubiquinone accepts electrons from both Complex I (via NADH) and Complex II (via FADH2). While cyt a3 passes to oxygen, this option's ubiquinone part is incorrect.",
+          "zh": "不正确。泛醌从复合体 I（通过 NADH）和复合体 II（通过 FADH2）都接受电子。虽然 cyt a3 传递给氧气，但此选项中关于泛醌的部分不正确。",
+          "es": "Incorrecto. La ubiquinona acepta electrones tanto del Complejo I (vía NADH) como del Complejo II (vía FADH2). Aunque el cit a3 pasa al oxígeno, la parte de la ubiquinona de esta opción es incorrecta.",
+          "fr": "Incorrect. L'ubiquinone accepte les électrons du complexe I (via NADH) et du complexe II (via FADH2). Bien que le cyt a3 passe à l'oxygène, la partie de cette option concernant l'ubiquinone est incorrecte.",
+          "de": "Falsch. Ubichinon akzeptiert Elektronen sowohl von Komplex I (über NADH) als auch von Komplex II (über FADH2). Während Cyt a3 Elektronen an Sauerstoff weitergibt, ist der Ubichinon-Teil dieser Option falsch.",
+          "ja": "不正解。ユビキノンは複合体I（NADH経由）と複合体II（FADH2経由）の両方から電子を受け取ります。cyt a3が酸素に電子を渡すのは正しいですが、この選択肢のユビキノンに関する記述は誤りです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text states that ubiquinone is a small, hydrophobic molecule and the only member of the electron transport chain that is not a protein. It is mobile within the membrane. Cytochromes, on the other hand, are proteins with a heme group containing an iron atom that accepts and donates electrons.",
+      "zh": "文本指出泛醌是一种小的、疏水性分子，是电子传递链中唯一不是蛋白质的成员。它在膜内是可移动的。而细胞色素是含有血红素基团中铁原子的蛋白质，负责接受和传递电子。",
+      "es": "El texto afirma que la ubiquinona es una molécula pequeña, hidrofóbica y el único miembro de la cadena de transporte de electrones que no es una proteína. Es móvil dentro de la membrana. Los citocromos, por otro lado, son proteínas con un grupo hemo que contiene un átomo de hierro que acepta y dona electrones.",
+      "fr": "Le texte indique que l'ubiquinone est une petite molécule hydrophobe et le seul membre de la chaîne de transport d'électrons qui n'est pas une protéine. Elle est mobile dans la membrane. Les cytochromes, en revanche, sont des protéines avec un groupe hème contenant un atome de fer qui accepte et donne des électrons.",
+      "de": "Der Text besagt, dass Ubichinon ein kleines, hydrophobes Molekül und das einzige nicht-proteinartige Mitglied der Elektronentransportkette ist. Es ist innerhalb der Membran beweglich. Cytochrome hingegen sind Proteine mit einer Häm-Gruppe, die ein Eisenatom enthält, das Elektronen aufnimmt und abgibt.",
+      "ja": "テキストによると、ユビキノンは小さく疎水性の分子であり、電子伝達系の中で唯一タンパク質ではない成分です。膜内で移動可能です。一方、チトクロームはヘム基に鉄原子を含むタンパク質であり、電子を受け取ったり渡したりします。"
+    }
+  },
+  {
+    "page_number": 224,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, what is the direct power source that drives ATP synthesis by ATP synthase?",
+      "zh": "根据文本，驱动 ATP 合酶合成 ATP 的直接能量来源是什么？",
+      "es": "Según el texto, ¿cuál es la fuente de energía directa que impulsa la síntesis de ATP por la ATP sintasa?",
+      "fr": "Selon le texte, quelle est la source d'énergie directe qui alimente la synthèse d'ATP par l'ATP synthase ?",
+      "de": "Gemäß dem Text, was ist die direkte Energiequelle, die die ATP-Synthese durch die ATP-Synthase antreibt?",
+      "ja": "本文によると、ATP合成酵素によるATP合成を駆動する直接的な動力源は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Hydrolysis of ATP.",
+          "zh": "ATP 的水解。",
+          "es": "Hidrólisis del ATP.",
+          "fr": "Hydrolyse de l'ATP.",
+          "de": "Hydrolyse von ATP.",
+          "ja": "ATPの加水分解。"
+        },
+        "feedback": {
+          "en": "Incorrect. ATP synthase produces ATP; it does not use ATP hydrolysis as its primary energy source in cellular respiration. It works like an ion pump running in reverse.",
+          "zh": "不正确。ATP 合酶产生 ATP；在细胞呼吸中，它不以 ATP 水解作为其主要的能量来源。它像一个反向运行的离子泵。",
+          "es": "Incorrecto. La ATP sintasa produce ATP; no utiliza la hidrólisis de ATP como su fuente de energía principal en la respiración celular. Funciona como una bomba de iones en reversa.",
+          "fr": "Incorrect. L'ATP synthase produit de l'ATP ; elle n'utilise pas l'hydrolyse de l'ATP comme source d'énergie principale dans la respiration cellulaire. Elle fonctionne comme une pompe ionique inversée.",
+          "de": "Falsch. Die ATP-Synthase produziert ATP; sie nutzt ATP-Hydrolyse nicht als primäre Energiequelle in der Zellatmung. Sie funktioniert wie eine umgekehrte Ionenpumpe.",
+          "ja": "不正解。ATP合成酵素はATPを生成するものであり、細胞呼吸における主要なエネルギー源としてATP加水分解を使用しません。これは逆向きに動作するイオンポンプのようなものです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The movement of electrons along the electron transport chain.",
+          "zh": "电子沿着电子传递链的移动。",
+          "es": "El movimiento de electrones a lo largo de la cadena de transporte de electrones.",
+          "fr": "Le mouvement des électrons le long de la chaîne de transport d'électrons.",
+          "de": "Die Bewegung von Elektronen entlang der Elektronentransportkette.",
+          "ja": "電子伝達系に沿った電子の移動。"
+        },
+        "feedback": {
+          "en": "Incorrect. Electron transport powers the H+ gradient, but the gradient itself is the direct power source for ATP synthase.",
+          "zh": "不正确。电子传递为 H+ 梯度提供能量，但梯度本身才是 ATP 合酶的直接能量来源。",
+          "es": "Incorrecto. El transporte de electrones impulsa el gradiente de H+, pero el gradiente en sí mismo es la fuente de energía directa para la ATP sintasa.",
+          "fr": "Incorrect. Le transport d'électrons alimente le gradient de H+, mais le gradient lui-même est la source d'énergie directe pour l'ATP synthase.",
+          "de": "Falsch. Der Elektronentransport treibt den H+-Gradienten an, aber der Gradient selbst ist die direkte Energiequelle für die ATP-Synthase.",
+          "ja": "不正解。電子伝達はH+勾配の動力を供給しますが、勾配そのものがATP合成酵素の直接的な動力源です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A difference in the concentration of H+ (a pH difference) across the inner mitochondrial membrane.",
+          "zh": "线粒体内膜两侧 H+ 浓度（pH 差异）的差异。",
+          "es": "Una diferencia en la concentración de H+ (una diferencia de pH) a través de la membrana mitocondrial interna.",
+          "fr": "Une différence de concentration de H+ (une différence de pH) à travers la membrane mitochondriale interne.",
+          "de": "Ein Unterschied in der H+-Konzentration (ein pH-Unterschied) über die innere Mitochondrienmembran hinweg.",
+          "ja": "ミトコンドリア内膜を横切るH+濃度（pH差）の差。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The direct transfer of phosphate from a substrate molecule.",
+          "zh": "磷酸基团从底物分子直接转移。",
+          "es": "La transferencia directa de fosfato de una molécula de sustrato.",
+          "fr": "Le transfert direct de phosphate d'une molécule de substrat.",
+          "de": "Die direkte Übertragung von Phosphat von einem Substratmolekül.",
+          "ja": "基質分子からのリン酸の直接転移。"
+        },
+        "feedback": {
+          "en": "Incorrect. This describes substrate-level phosphorylation, which is a different mechanism of ATP synthesis.",
+          "zh": "不正确。这描述的是底物水平磷酸化，这是一种不同的 ATP 合成机制。",
+          "es": "Incorrecto. Esto describe la fosforilación a nivel de sustrato, que es un mecanismo diferente de síntesis de ATP.",
+          "fr": "Incorrect. Ceci décrit la phosphorylation au niveau du substrat, qui est un mécanisme différent de synthèse d'ATP.",
+          "de": "Falsch. Dies beschreibt die Substratkettenphosphorylierung, einen anderen Mechanismus der ATP-Synthese.",
+          "ja": "不正解。これは基質レベルリン酸化を説明しており、ATP合成の異なるメカニズムです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'The power source for ATP synthase is a difference in the concentration of H+ (a pH difference) on opposite sides of the inner mitochondrial membrane.' This process is called chemiosmosis.",
+      "zh": "文本明确指出：“ATP 合酶的动力来源是线粒体内膜两侧 H+ 浓度（pH 差异）的差异。” 这个过程被称为化学渗透。",
+      "es": "El texto afirma explícitamente: 'La fuente de energía para la ATP sintasa es una diferencia en la concentración de H+ (una diferencia de pH) en lados opuestos de la membrana mitocondrial interna.' Este proceso se llama quimiosmosis.",
+      "fr": "Le texte indique explicitement : « La source d'énergie pour l'ATP synthase est une différence de concentration de H+ (une différence de pH) des deux côtés de la membrane mitochondriale interne. » Ce processus est appelé chimiosmose.",
+      "de": "Der Text besagt explizit: „Die Energiequelle für die ATP-Synthase ist ein Unterschied in der Konzentration von H+ (ein pH-Unterschied) auf gegenüberliegenden Seiten der inneren Mitochondrienmembran.“ Dieser Prozess wird Chemiosmose genannt.",
+      "ja": "本文には、「ATP合成酵素の動力源は、ミトコンドリア内膜の反対側にあるH+濃度の差（pH差）である」と明示されています。このプロセスは化学浸透と呼ばれます。"
+    }
+  },
+  {
+    "page_number": 224,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Why does FADH2 contribute less energy for ATP synthesis compared to NADH, despite both donating an equivalent number of electrons (2) for oxygen reduction?",
+      "zh": "为什么尽管 NADH 和 FADH2 都为氧还原提供了等量的电子（2个），但 FADH2 对 ATP 合成的能量贡献却比 NADH 少？",
+      "es": "¿Por qué el FADH2 contribuye con menos energía para la síntesis de ATP en comparación con el NADH, a pesar de que ambos donan un número equivalente de electrones (2) para la reducción de oxígeno?",
+      "fr": "Pourquoi le FADH2 contribue-t-il moins d'énergie pour la synthèse d'ATP que le NADH, bien que tous deux donnent un nombre équivalent d'électrons (2) pour la réduction de l'oxygène ?",
+      "de": "Warum trägt FADH2 weniger Energie zur ATP-Synthese bei als NADH, obwohl beide eine äquivalente Anzahl von Elektronen (2) zur Sauerstoffreduktion spenden?",
+      "ja": "NADHとFADH2はどちらも酸素還元に等量の電子（2個）を提供しますが、なぜFADH2はNADHに比べてATP合成へのエネルギー貢献が少ないのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "FADH2 adds its electrons at a lower energy level within complex II, bypassing complex I, leading to fewer protons pumped.",
+          "zh": "FADH2 在复合体 II 中以较低的能量水平添加其电子，绕过复合体 I，导致泵出的质子更少。",
+          "es": "El FADH2 añade sus electrones a un nivel de energía más bajo dentro del complejo II, evitando el complejo I, lo que lleva a un menor bombeo de protones.",
+          "fr": "Le FADH2 ajoute ses électrons à un niveau d'énergie plus bas au sein du complexe II, contournant le complexe I, ce qui entraîne le pompage de moins de protons.",
+          "de": "FADH2 gibt seine Elektronen auf einem niedrigeren Energieniveau innerhalb von Komplex II ab, wodurch Komplex I umgangen wird, was zu weniger gepumpten Protonen führt.",
+          "ja": "FADH2は複合体Iをバイパスして複合体II内でより低いエネルギーレベルで電子を供給するため、より少ないプロトンしかポンピングされない。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "NADH is more electronegative than FADH2, allowing it to donate electrons more efficiently.",
+          "zh": "NADH 比 FADH2 更具电负性，使其能更有效地传递电子。",
+          "es": "El NADH es más electronegativo que el FADH2, lo que le permite donar electrones de manera más eficiente.",
+          "fr": "Le NADH est plus électronégatif que le FADH2, ce qui lui permet de donner des électrons plus efficacement.",
+          "de": "NADH ist elektronegativer als FADH2, wodurch es Elektronen effizienter abgeben kann.",
+          "ja": "NADHはFADH2よりも電気陰性度が高く、より効率的に電子を供与できるため。"
+        },
+        "feedback": {
+          "en": "Incorrect. While NADH enters the electron transport chain at a higher energy level, the direct reason for the lower ATP yield of FADH2 is its entry point.",
+          "zh": "不正确。虽然 NADH 在电子传递链中进入的能量水平更高，但 FADH2 产生较少 ATP 的直接原因是其进入点。",
+          "es": "Incorrecto. Aunque el NADH entra en la cadena de transporte de electrones a un nivel de energía más alto, la razón directa del menor rendimiento de ATP del FADH2 es su punto de entrada.",
+          "fr": "Incorrect. Bien que le NADH entre dans la chaîne de transport d'électrons à un niveau d'énergie plus élevé, la raison directe du rendement ATP plus faible du FADH2 est son point d'entrée.",
+          "de": "Falsch. Obwohl NADH auf einem höheren Energieniveau in die Elektronentransportkette eintritt, ist der direkte Grund für die geringere ATP-Ausbeute von FADH2 sein Eintrittspunkt.",
+          "ja": "不正解。NADHは電子伝達系により高いエネルギーレベルで入りますが、FADH2のATP収量が低い直接的な理由は、その進入点にあります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "FADH2 directly passes its electrons to oxygen without going through the entire electron transport chain.",
+          "zh": "FADH2 直接将其电子传递给氧气，而不经过整个电子传递链。",
+          "es": "El FADH2 pasa directamente sus electrones al oxígeno sin pasar por toda la cadena de transporte de electrones.",
+          "fr": "Le FADH2 passe directement ses électrons à l'oxygène sans passer par toute la chaîne de transport d'électrons.",
+          "de": "FADH2 gibt seine Elektronen direkt an Sauerstoff weiter, ohne die gesamte Elektronentransportkette zu durchlaufen.",
+          "ja": "FADH2は電子伝達系全体を経由せずに、電子を直接酸素に渡すため。"
+        },
+        "feedback": {
+          "en": "Incorrect. FADH2 passes electrons to complex II, not directly to oxygen. Only cyt a3 passes electrons to oxygen at the end of the chain.",
+          "zh": "不正确。FADH2 将电子传递给复合体 II，而不是直接传递给氧气。只有 cyt a3 在链的末端将电子传递给氧气。",
+          "es": "Incorrecto. El FADH2 pasa electrones al complejo II, no directamente al oxígeno. Solo el cit a3 pasa electrones al oxígeno al final de la cadena.",
+          "fr": "Incorrect. Le FADH2 passe les électrons au complexe II, pas directement à l'oxygène. Seul le cyt a3 passe les électrons à l'oxygène à la fin de la chaîne.",
+          "de": "Falsch. FADH2 gibt Elektronen an Komplex II weiter, nicht direkt an Sauerstoff. Nur Cyt a3 gibt Elektronen am Ende der Kette an Sauerstoff weiter.",
+          "ja": "不正解。FADH2は電子を直接酸素に渡すのではなく、複合体IIに渡します。鎖の末端で電子を酸素に渡すのはcyt a3だけです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "NADH transports fewer protons across the membrane than FADH2.",
+          "zh": "NADH 跨膜运输的质子比 FADH2 少。",
+          "es": "El NADH transporta menos protones a través de la membrana que el FADH2.",
+          "fr": "Le NADH transporte moins de protons à travers la membrane que le FADH2.",
+          "de": "NADH transportiert weniger Protonen über die Membran als FADH2.",
+          "ja": "NADHはFADH2よりも膜を横切るプロトンを少なく輸送するため。"
+        },
+        "feedback": {
+          "en": "Incorrect. NADH contributes to pumping *more* protons than FADH2 because it enters at Complex I, which precedes more proton-pumping steps.",
+          "zh": "不正确。NADH 比 FADH2 泵送更多的质子，因为它在复合体 I 处进入，该复合体在更多的质子泵送步骤之前。",
+          "es": "Incorrecto. El NADH contribuye a bombear *más* protones que el FADH2 porque entra en el Complejo I, que precede a más pasos de bombeo de protones.",
+          "fr": "Incorrect. Le NADH contribue à pomper *plus* de protons que le FADH2 car il entre au Complexe I, qui précède plus d'étapes de pompage de protons.",
+          "de": "Falsch. NADH trägt dazu bei, *mehr* Protonen zu pumpen als FADH2, da es in Komplex I eintritt, der vor weiteren Protonenpumpen-Schritten liegt.",
+          "ja": "不正解。NADHは複合体Iから入り、より多くのプロトンポンプ段階に先行するため、FADH2よりも*多くの*プロトンをポンピングすることに貢献します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The text states: 'FADH2 adds its electrons from within complex II, at a lower energy level than NADH does.' Since it enters at a lower energy point, it bypasses some of the proton-pumping complexes that NADH passes through, resulting in fewer protons being pumped and thus less ATP synthesis.",
+      "zh": "文本指出：“FADH2 在复合体 II 内部以低于 NADH 的能量水平添加其电子。” 由于它在较低能量点进入，它绕过了一些 NADH 经过的质子泵复合体，导致泵出的质子更少，从而合成的 ATP 更少。",
+      "es": "El texto afirma: 'El FADH2 añade sus electrones desde el complejo II, a un nivel de energía más bajo que el NADH.' Dado que entra en un punto de energía más bajo, omite algunos de los complejos de bombeo de protones por los que pasa el NADH, lo que resulta en un menor bombeo de protones y, por lo tanto, en una menor síntesis de ATP.",
+      "fr": "Le texte indique : « Le FADH2 ajoute ses électrons depuis le complexe II, à un niveau d'énergie plus bas que le NADH. » Puisqu'il entre à un point d'énergie plus bas, il contourne certains des complexes de pompage de protons par lesquels le NADH passe, ce qui entraîne le pompage de moins de protons et donc moins de synthèse d'ATP.",
+      "de": "Der Text besagt: „FADH2 gibt seine Elektronen von Komplex II aus ab, auf einem niedrigeren Energieniveau als NADH.“ Da es an einem niedrigeren Energiepunkt eintritt, umgeht es einige der Protonenpumpenkomplexe, die NADH durchläuft, was zu weniger gepumpten Protonen und somit zu weniger ATP-Synthese führt.",
+      "ja": "本文は、「FADH2は複合体II内から電子を供給し、NADHよりも低いエネルギーレベルである」と述べています。FADH2はより低いエネルギー地点で入るため、NADHが通過する一部のプロトンポンプ複合体をバイパスし、結果としてポンプされるプロトンの数が少なくなり、ATP合成も少なくなります。"
+    }
+  }
+]

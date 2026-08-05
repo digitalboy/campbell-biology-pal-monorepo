@@ -1,0 +1,261 @@
+openapi: 3.1.0
+info:
+  title: "Review API"
+  version: "1.0.0"
+  description: "API for fetching review materials, including due questions and past incorrect answers."
+servers:
+  - url: "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1"
+    description: "Production Server"
+  - url: "http://localhost:3000/api/v1"
+    description: "Local Development Server"
+paths:
+  /users/me/reviews/due:
+    get:
+      tags:
+        - "Review"
+      summary: "Get Due Review Questions"
+      description: "Retrieves a list of questions that are due for review for the authenticated user based on the spaced repetition schedule."
+      operationId: "getDueReviews"
+      security:
+        - bearerAuth: []
+      responses:
+        "200":
+          description: "Successfully retrieved due review questions."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  data:
+                    $ref: "#/components/schemas/DueReviewsResponse"
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+  /users/me/wrong-answers:
+    get:
+      tags:
+        - "Review"
+      summary: "Get Wrongly Answered Questions"
+      description: "Retrieves a list of questions that the authenticated user has answered incorrectly at least once, enriched with social data about who else has answered the question."
+      operationId: "getWrongAnswers"
+      security:
+        - bearerAuth: []
+      parameters:
+        - name: startDate
+          in: query
+          required: false
+          description: "筛选起始日期（UTC ISO 8601 格式），例如 '2023-01-01T00:00:00Z'。如果提供，将只返回在此日期之后回答的问题。"
+          schema:
+            type: string
+            format: date-time
+            example: "2023-01-01T00:00:00Z"
+        - name: endDate
+          in: query
+          required: false
+          description: "筛选结束日期（UTC ISO 8601 格式），例如 '2023-01-31T23:59:59Z'。如果提供，将只返回在此日期之前回答的问题。"
+          schema:
+            type: string
+            format: date-time
+            example: "2023-01-31T23:59:59Z"
+      responses:
+        "200":
+          description: "Successfully retrieved wrongly answered questions."
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  ok:
+                    type: boolean
+                    example: true
+                  data:
+                    type: object
+                    properties:
+                      wrong_answers:
+                        type: array
+                        items:
+                          $ref: "#/components/schemas/Question"
+              example:
+                ok: true
+                data:
+                  wrong_answers:
+                    - id: "q-chp5-001"
+                      page_number: 55
+                      difficulty: "hard"
+                      choice_type: "multiple_choice"
+                      question_text:
+                        en: "Which of these are not found in prokaryotic cells?"
+                        zh: "原核细胞中不存在以下哪些结构？"
+                      options:
+                        - id: "A"
+                          text: { en: "Ribosomes", zh: "核糖体" }
+                        - id: "B"
+                          text: { en: "Mitochondria", zh: "线粒体" }
+                        - id: "C"
+                          text: { en: "Endoplasmic Reticulum", zh: "内质网" }
+                      correct_answers: ["B", "C"]
+                      explanation:
+                        en: "Prokaryotic cells lack membrane-bound organelles like mitochondria and the ER."
+                        zh: "原核细胞缺少膜结合的细胞器，如线粒体和内质网。"
+                      created_at: "2023-11-01T10:00:00Z"
+                      updated_at: "2023-11-01T11:00:00Z"
+                      userStats: null
+                      answeredByUsers:
+                        - userId: "user-xyz-789"
+                          nickname: "细胞生物学博士"
+                          avatarUrl: "https://example.com/avatar3.png"
+                          totalAttempts: 2
+                          correctAttempts: 2
+                        - userId: "user-ghi-012"
+                          nickname: "小白"
+                          avatarUrl: "https://example.com/avatar4.png"
+                          totalAttempts: 5
+                          correctAttempts: 1
+        "401":
+          description: "Unauthorized."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "500":
+          description: "Internal server error."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+
+components:
+  schemas:
+    DueReviewsResponse:
+      type: object
+      properties:
+        due_questions:
+          type: array
+          items:
+            $ref: "#/components/schemas/DueReviewQuestion"
+    DueReviewQuestion:
+      allOf:
+        - $ref: "#/components/schemas/Question"
+        - type: object
+          properties:
+            last_reviewed_at:
+              type: string
+              format: date-time
+              nullable: true
+              description: "上次复习的时间。如果从未复习过，则为 null。"
+            review_stage:
+              type: integer
+              description: "当前所处的复习阶段 (例如，0-8对应不同的间隔)。"
+    Question:
+      type: object
+      properties:
+        id:
+          type: string
+        page_number:
+          type: integer
+        difficulty:
+          type: string
+          enum: [easy, medium, hard]
+        choice_type:
+          type: string
+          enum: [single_choice, multiple_choice]
+          description: "问题的选项类型。'single_choice' 表示单选，'multiple_choice' 表示多选。"
+        question_text:
+          $ref: '#/components/schemas/MultilingualText'
+        options:
+          type: array
+          items:
+            $ref: '#/components/schemas/QuizOption'
+        correct_answers:
+          type: array
+          items:
+            type: string
+        explanation:
+          $ref: '#/components/schemas/MultilingualText'
+        created_at:
+          type: string
+          format: date-time
+        updated_at:
+          type: string
+          format: date-time
+        userStats:
+          $ref: '#/components/schemas/QuestionUserStats'
+          nullable: true
+          description: "当前用户的答题统计。如果用户从未回答过该问题，则此字段不存在。"
+        answeredByUsers:
+          type: array
+          items:
+            $ref: '#/components/schemas/QuestionSocialStats'
+          description: "回答过此题的用户列表及其统计信息。如果无人回答，则为空数组。"
+    QuestionUserStats:
+      type: object
+      description: "用户对该问题的个人答题统计。"
+      properties:
+        totalAttempts:
+          type: integer
+          description: "用户对该问题的总答题次数。"
+        correctAttempts:
+          type: integer
+          description: "用户对该问题回答正确的次数。"
+    QuestionSocialStats:
+      type: object
+      description: "某个问题上，单个用户的公开答题统计信息。"
+      properties:
+        userId:
+          type: string
+          description: "用户的唯一标识符。"
+        nickname:
+          type: string
+          description: "用户的昵称。"
+        avatarUrl:
+          type: string
+          format: uri
+          description: "用户头像的 URL。"
+        totalAttempts:
+          type: integer
+          description: "该用户对该问题的总答题次数。"
+        correctAttempts:
+          type: integer
+          description: "该用户对该问题回答正确的次数。"
+    QuizOption:
+      type: object
+      properties:
+        id:
+          type: string
+        text:
+          $ref: '#/components/schemas/MultilingualText'
+    MultilingualText:
+      type: object
+      description: "代表多语言文本内容。"
+      properties:
+        en:
+          type: string
+        zh:
+          type: string
+      additionalProperties:
+        type: string
+    ErrorResponse:
+      type: object
+      properties:
+        ok:
+          type: boolean
+          example: false
+        message:
+          type: string
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT

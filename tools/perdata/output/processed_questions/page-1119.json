@@ -1,0 +1,399 @@
+[
+  {
+    "page_number": 1119,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements about the resting potential of a neuron is FALSE?",
+      "zh": "关于神经元静息电位的以下哪项陈述是错误的？",
+      "es": "De las siguientes afirmaciones sobre el potencial de reposo de una neurona, ¿cuál es FALSA?",
+      "fr": "Parmi les affirmations suivantes concernant le potentiel de repos d'un neurone, laquelle est FAUSSE ?",
+      "de": "Welche der folgenden Aussagen über das Ruhepotential eines Neurons ist FALSCH?",
+      "ja": "ニューロンの静止電位に関する以下の記述のうち、誤っているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The Na+/K+ pump actively transports 3 Na+ out and 2 K+ into the cell.",
+          "zh": "Na+/K+ 泵主动将 3 个 Na+ 运出细胞，将 2 个 K+ 运入细胞。",
+          "es": "La bomba de Na+/K+ transporta activamente 3 Na+ fuera y 2 K+ dentro de la célula.",
+          "fr": "La pompe Na+/K+ transporte activement 3 Na+ hors de la cellule et 2 K+ vers l'intérieur.",
+          "de": "Die Na+/K+-Pumpe transportiert aktiv 3 Na+ aus der Zelle heraus und 2 K+ in die Zelle hinein.",
+          "ja": "Na+/K+ポンプは、3つのNa+を細胞外へ、2つのK+を細胞内へ能動輸送します。"
+        },
+        "feedback": {
+          "en": "This statement is true and accurately describes the stoichiometry of the sodium-potassium pump as mentioned in the text and Figure 48.6.",
+          "zh": "这个陈述是正确的，它准确地描述了文本和图 48.6 中提到的钠钾泵的化学计量。",
+          "es": "Esta afirmación es verdadera y describe con precisión la estequiometría de la bomba de sodio-potasio como se menciona en el texto y la Figura 48.6.",
+          "fr": "Cette affirmation est vraie et décrit avec précision la stœchiométrie de la pompe sodium-potassium, comme mentionné dans le texte et la Figure 48.6.",
+          "de": "Diese Aussage ist korrekt und beschreibt die Stöchiometrie der Natrium-Kalium-Pumpe, wie im Text und in Abbildung 48.6 erwähnt, genau.",
+          "ja": "この記述は正しく、テキストと図48.6に記載されているナトリウム-カリウムポンプの化学量論を正確に表しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "At rest, K+ concentration is higher inside the cell, while Na+ concentration is higher outside.",
+          "zh": "静息时，K+ 浓度在细胞内较高，而 Na+ 浓度在细胞外较高。",
+          "es": "En reposo, la concentración de K+ es mayor dentro de la célula, mientras que la concentración de Na+ es mayor fuera.",
+          "fr": "Au repos, la concentration de K+ est plus élevée à l'intérieur de la cellule, tandis que la concentration de Na+ est plus élevée à l'extérieur.",
+          "de": "Im Ruhezustand ist die K+-Konzentration innerhalb der Zelle höher, während die Na+-Konzentration außerhalb höher ist.",
+          "ja": "静止時には、細胞内のK+濃度が高く、細胞外のNa+濃度が高くなります。"
+        },
+        "feedback": {
+          "en": "This statement is true, as indicated by Table 48.1 and the accompanying text. These concentration gradients are critical for the resting potential.",
+          "zh": "这个陈述是正确的，如表 48.1 和相关文本所示。这些浓度梯度对于静息电位至关重要。",
+          "es": "Esta afirmación es verdadera, como lo indica la Tabla 48.1 y el texto adjunto. Estos gradientes de concentración son críticos para el potencial de reposo.",
+          "fr": "Cette affirmation est vraie, comme l'indiquent le Tableau 48.1 et le texte accompagnant. Ces gradients de concentration sont cruciaux pour le potentiel de repos.",
+          "de": "Diese Aussage ist wahr, wie aus Tabelle 48.1 und dem begleitenden Text hervorgeht. Diese Konzentrationsgradienten sind entscheidend für das Ruhepotential.",
+          "ja": "この記述は正しく、表48.1と関連するテキストに示されています。これらの濃度勾配は静止電位にとって極めて重要です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The membrane is much more permeable to Na+ than to K+ at rest, leading to a net Na+ influx.",
+          "zh": "静息时，膜对 Na+ 的渗透性远高于 K+，导致 Na+ 净流入。",
+          "es": "En reposo, la membrana es mucho más permeable al Na+ que al K+, lo que lleva a un flujo neto de Na+.",
+          "fr": "Au repos, la membrane est beaucoup plus perméable au Na+ qu'au K+, ce qui entraîne un afflux net de Na+.",
+          "de": "Im Ruhezustand ist die Membran viel durchlässiger für Na+ als für K+, was zu einem Netto-Na+-Einstrom führt.",
+          "ja": "静止時には、膜はK+よりもNa+に対してはるかに透過性が高く、Na+の正味の流入が起こります。"
+        },
+        "feedback": {
+          "en": "This statement is FALSE. The text explicitly states that 'very few sodium channels are open' in a resting neuron, while 'many open potassium channels allow a significant net outflow of K+'. The membrane is only weakly permeable to chloride and other anions. This net outflow of K+ creates the negative charge inside the cell, not Na+ influx.",
+          "zh": "这个陈述是错误的。文本明确指出，在静息神经元中，“很少有钠通道开放”，而“许多开放的钾通道允许 K+ 显著净流出”。膜对氯离子和其他阴离子只有微弱的渗透性。K+ 的这种净流出在细胞内产生负电荷，而不是 Na+ 的流入。",
+          "es": "Esta afirmación es FALSA. El texto establece explícitamente que 'muy pocos canales de sodio están abiertos' en una neurona en reposo, mientras que 'muchos canales de potasio abiertos permiten un flujo neto significativo de K+'. La membrana es solo débilmente permeable al cloruro y otros aniones. Este flujo neto de K+ crea la carga negativa dentro de la célula, no el influjo de Na+.",
+          "fr": "Cette affirmation est FAUSSE. Le texte indique explicitement que « très peu de canaux sodiques sont ouverts » dans un neurone au repos, tandis que « de nombreux canaux potassiques ouverts permettent une sortie nette significative de K+ ». La membrane n'est que faiblement perméable au chlorure et à d'autres anions. Cette sortie nette de K+ crée la charge négative à l'intérieur de la cellule, et non l'afflux de Na+.",
+          "de": "Diese Aussage ist FALSCH. Der Text besagt explizit, dass in einem ruhenden Neuron 'sehr wenige Natriumkanäle offen sind', während 'viele offene Kaliumkanäle einen signifikanten Nettoausstrom von K+ ermöglichen'. Die Membran ist nur schwach permeabel für Chlorid und andere Anionen. Dieser Nettoausstrom von K+ erzeugt die negative Ladung im Zellinneren, nicht der Na+-Einstrom.",
+          "ja": "この記述は誤りです。テキストには、静止ニューロンでは「ナトリウムチャネルはごくわずかしか開いていない」一方で、「多くのカリウムチャネルが開いており、K+の有意な純流出を可能にしている」と明確に述べられています。膜は塩化物イオンやその他の陰イオンに対しては透過性が低いだけです。このK+の純流出が細胞内に負の電荷を生成するのであり、Na+の流入ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Potassium channels that are always open (leak channels) are crucial for establishing the resting potential.",
+          "zh": "始终开放的钾通道（泄漏通道）对于建立静息电位至关重要。",
+          "es": "Los canales de potasio que siempre están abiertos (canales de fuga) son cruciales para establecer el potencial de reposo.",
+          "fr": "Les canaux potassiques toujours ouverts (canaux de fuite) sont cruciaux pour l'établissement du potentiel de repos.",
+          "de": "Kaliumkanäle, die immer offen sind (Leckkanäle), sind entscheidend für die Etablierung des Ruhepotentials.",
+          "ja": "常に開いているカリウムチャネル（リークチャネル）は、静止電位の確立に不可欠です。"
+        },
+        "feedback": {
+          "en": "This statement is true. The text explicitly mentions that 'Diffusion of K+ through potassium channels that are always open (sometimes called leak channels) is critical for establishing the resting potential'.",
+          "zh": "这个陈述是正确的。文本明确提到，“K+通过始终开放的钾通道（有时称为泄漏通道）的扩散对于建立静息电位至关重要”。",
+          "es": "Esta afirmación es verdadera. El texto menciona explícitamente que 'la difusión de K+ a través de los canales de potasio que siempre están abiertos (a veces llamados canales de fuga) es crítica para establecer el potencial de reposo'.",
+          "fr": "Cette affirmation est vraie. Le texte mentionne explicitement que « la diffusion de K+ à travers les canaux potassiques toujours ouverts (parfois appelés canaux de fuite) est essentielle à l'établissement du potentiel de repos ».",
+          "de": "Diese Aussage ist wahr. Der Text erwähnt explizit, dass 'die Diffusion von K+ durch Kaliumkanäle, die immer offen sind (manchmal als Leckkanäle bezeichnet), entscheidend für die Etablierung des Ruhepotentials ist'.",
+          "ja": "この記述は正しく、テキストには「常に開いているカリウムチャネル（リークチャネルと呼ばれることもある）を介したK+の拡散は、静止電位の確立に不可欠である」と明確に述べられています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The resting membrane potential is primarily established by the significant net outflow of K+ through always-open potassium leak channels, coupled with the action of the sodium-potassium pump. The membrane has low permeability to Na+ at rest, and Na+ influx is minimal, contributing little to the resting potential's negative charge.",
+      "zh": "静息膜电位主要由 K+ 通过常开钾泄漏通道的大量净流出以及钠钾泵的作用共同建立。静息时膜对 Na+ 的渗透性很低，Na+ 流入量极小，对静息电位的负电荷贡献很小。",
+      "es": "El potencial de membrana en reposo se establece principalmente por el flujo neto significativo de K+ a través de los canales de fuga de potasio siempre abiertos, junto con la acción de la bomba de sodio-potasio. La membrana tiene una baja permeabilidad al Na+ en reposo, y el influjo de Na+ es mínimo, contribuyendo poco a la carga negativa del potencial de reposo.",
+      "fr": "Le potentiel de membrane au repos est principalement établi par la sortie nette significative de K+ à travers les canaux de fuite potassiques toujours ouverts, associée à l'action de la pompe sodium-potassium. La membrane a une faible perméabilité au Na+ au repos, et l'afflux de Na+ est minimal, contribuant peu à la charge négative du potentiel de repos.",
+      "de": "Das Ruhemembranpotential wird hauptsächlich durch den signifikanten Nettoausstrom von K+ durch immer offene Kalium-Leckkanäle in Verbindung mit der Wirkung der Natrium-Kalium-Pumpe etabliert. Die Membran hat im Ruhezustand eine geringe Permeabilität für Na+, und der Na+-Einstrom ist minimal, was wenig zur negativen Ladung des Ruhepotentials beiträgt.",
+      "ja": "静止膜電位は主に、常に開いているカリウムリークチャネルを通じたK+の有意な純流出と、ナトリウム-カリウムポンプの作用によって確立されます。静止時には膜のNa+透過性は低く、Na+の流入は最小限であり、静止電位の負電荷への寄与はわずかです。"
+    }
+  },
+  {
+    "page_number": 1119,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The text states that ion channels exhibit 'selective permeability.' Given that potassium and sodium channels have similar overall structures, how do these proteins most likely differ to allow passage of only a particular ion?",
+      "zh": "文本指出离子通道表现出“选择性渗透性”。考虑到钾通道和钠通道具有相似的整体结构，这些蛋白质最可能如何不同，以允许只有特定离子通过？",
+      "es": "El texto afirma que los canales iónicos exhiben 'permeabilidad selectiva'. Dado que los canales de potasio y sodio tienen estructuras generales similares, ¿cómo difieren más probablemente estas proteínas para permitir el paso de solo un ion particular?",
+      "fr": "Le texte indique que les canaux ioniques présentent une « perméabilité sélective ». Étant donné que les canaux potassiques et sodiques ont des structures globales similaires, comment ces protéines diffèrent-elles le plus probablement pour permettre le passage d'un seul ion particulier ?",
+      "de": "Der Text besagt, dass Ionenkanäle 'selektive Permeabilität' aufweisen. Angesichts der Tatsache, dass Kalium- und Natriumkanäle ähnliche Gesamtstrukturen haben, wie unterscheiden sich diese Proteine höchstwahrscheinlich, um den Durchgang nur eines bestimmten Ions zu ermöglichen?",
+      "ja": "テキストには、イオンチャネルが「選択的透過性」を示すと述べられています。カリウムチャネルとナトリウムチャネルが全体的に似た構造を持っていることを考えると、これらのタンパク質はどのように異なっており、特定のイオンのみの通過を可能にしている可能性が最も高いですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "By having different overall sizes that only fit specific ions.",
+          "zh": "通过具有只适合特定离子的不同整体大小。",
+          "es": "Al tener diferentes tamaños generales que solo encajan con iones específicos.",
+          "fr": "En ayant des tailles globales différentes qui ne conviennent qu'à des ions spécifiques.",
+          "de": "Indem sie unterschiedliche Gesamtgrößen haben, die nur zu bestimmten Ionen passen.",
+          "ja": "特定のイオンにのみ適合する異なる全体サイズを持つことによって。"
+        },
+        "feedback": {
+          "en": "While ion size plays a role, the text explicitly mentions 'similar rough overall structure,' suggesting that simple overall size difference is not the primary distinguishing factor. Selective permeability is more nuanced.",
+          "zh": "虽然离子大小确实有影响，但文本明确提到“相似的整体粗略结构”，这表明简单的整体大小差异不是主要的区别因素。选择性渗透性更加微妙。",
+          "es": "Aunque el tamaño del ion juega un papel, el texto menciona explícitamente 'estructura general similar', lo que sugiere que una simple diferencia de tamaño general no es el factor distintivo principal. La permeabilidad selectiva es más matizada.",
+          "fr": "Bien que la taille des ions joue un rôle, le texte mentionne explicitement une « structure globale approximativement similaire », ce qui suggère qu'une simple différence de taille globale n'est pas le facteur distinctif principal. La perméabilité sélective est plus nuancée.",
+          "de": "Obwohl die Ionengröße eine Rolle spielt, erwähnt der Text explizit 'ähnliche grobe Gesamtstruktur', was darauf hindeutet, dass einfache Größenunterschiede nicht der primäre Unterscheidungsfaktor sind. Die selektive Permeabilität ist nuancierter.",
+          "ja": "イオンサイズも役割を果たしますが、テキストには「全体的に似た構造」と明記されており、単純な全体サイズの違いが主要な識別要因ではないことを示唆しています。選択的透過性はより微妙なものです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "By possessing different charges within their pore, repelling ions of the wrong charge.",
+          "zh": "通过在其孔内具有不同的电荷，排斥错误电荷的离子。",
+          "es": "Al poseer diferentes cargas dentro de su poro, repeliendo iones de la carga incorrecta.",
+          "fr": "En possédant différentes charges à l'intérieur de leur pore, repoussant les ions de charge incorrecte.",
+          "de": "Indem sie unterschiedliche Ladungen in ihrer Pore besitzen, die Ionen mit der falschen Ladung abstoßen.",
+          "ja": "細孔内に異なる電荷を持ち、誤った電荷のイオンを反発させることによって。"
+        },
+        "feedback": {
+          "en": "While charge is critical for ion movement, selective permeability often involves more specific interactions than simple electrostatic repulsion of wrong-charge ions. Both Na+ and K+ are positive ions, so this explanation doesn't fully account for distinguishing between them.",
+          "zh": "虽然电荷对离子运动至关重要，但选择性渗透性通常涉及比简单地排斥错误电荷离子更具体的相互作用。Na+ 和 K+ 都是正离子，因此这种解释不能完全解释它们之间的区分。",
+          "es": "Aunque la carga es crítica para el movimiento de iones, la permeabilidad selectiva a menudo implica interacciones más específicas que la simple repulsión electrostática de iones de carga incorrecta. Tanto Na+ como K+ son iones positivos, por lo que esta explicación no explica completamente la distinción entre ellos.",
+          "fr": "Bien que la charge soit essentielle au mouvement des ions, la perméabilité sélective implique souvent des interactions plus spécifiques que la simple répulsion électrostatique des ions de charge incorrecte. Le Na+ et le K+ sont tous deux des ions positifs, donc cette explication ne rend pas pleinement compte de la distinction entre eux.",
+          "de": "Obwohl Ladung für die Ionenbewegung entscheidend ist, beinhaltet selektive Permeabilität oft spezifischere Interaktionen als einfache elektrostatische Abstoßung von Ionen mit falscher Ladung. Sowohl Na+ als auch K+ sind positive Ionen, daher erklärt diese Erklärung die Unterscheidung zwischen ihnen nicht vollständig.",
+          "ja": "電荷はイオンの動きに不可欠ですが、選択的透過性には、誤った電荷のイオンの単純な静電反発よりも、より特異的な相互作用が関与することがよくあります。Na+とK+はどちらも正イオンであるため、この説明だけでは両者を区別するのに十分ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "By having different arrangements of amino acid side chains lining the pore, creating specific binding sites or steric hindrance for different ions.",
+          "zh": "通过在其孔内壁排列不同的氨基酸侧链，为不同的离子创造特定的结合位点或空间位阻。",
+          "es": "Al tener diferentes arreglos de cadenas laterales de aminoácidos revistiendo el poro, creando sitios de unión específicos o impedimento estérico para diferentes iones.",
+          "fr": "En ayant des arrangements différents de chaînes latérales d'acides aminés tapissant le pore, créant des sites de liaison spécifiques ou un encombrement stérique pour différents ions.",
+          "de": "Indem sie unterschiedliche Anordnungen von Aminosäureseitenketten im Poreninneren aufweisen, die spezifische Bindungsstellen oder sterische Hinderung für verschiedene Ionen schaffen.",
+          "ja": "細孔の内壁に沿って異なるアミノ酸側鎖の配置を持つことで、異なるイオンに対して特定の結合部位や立体障害を作り出すことによって。"
+        },
+        "feedback": {
+          "en": "This is the most accurate explanation. Protein function, especially highly specific functions like ion selectivity, is determined by the precise 3D arrangement of amino acids. Even subtle differences in the pore lining can create highly specific interactions or physical constraints that allow only certain ions to pass.",
+          "zh": "这是最准确的解释。蛋白质的功能，特别是像离子选择性这样的高度特异性功能，是由氨基酸精确的 3D 排列决定的。即使是孔内衬的微小差异，也可以产生高度特异性的相互作用或物理限制，只允许某些离子通过。",
+          "es": "Esta es la explicación más precisa. La función de las proteínas, especialmente funciones altamente específicas como la selectividad iónica, está determinada por el arreglo 3D preciso de los aminoácidos. Incluso sutiles diferencias en el revestimiento del poro pueden crear interacciones altamente específicas o restricciones físicas que permiten el paso solo de ciertos iones.",
+          "fr": "C'est l'explication la plus précise. La fonction des protéines, en particulier les fonctions hautement spécifiques comme la sélectivité ionique, est déterminée par l'arrangement 3D précis des acides aminés. Même de subtiles différences dans le revêtement des pores peuvent créer des interactions hautement spécifiques ou des contraintes physiques qui ne permettent le passage qu'à certains ions.",
+          "de": "Dies ist die genaueste Erklärung. Die Proteinfunktion, insbesondere hochspezifische Funktionen wie die Ionenselektivität, wird durch die präzise 3D-Anordnung der Aminosäuren bestimmt. Selbst geringfügige Unterschiede in der Porenauskleidung können hochspezifische Wechselwirkungen oder physikalische Einschränkungen erzeugen, die nur bestimmten Ionen den Durchgang ermöglichen.",
+          "ja": "これが最も正確な説明です。タンパク質の機能、特にイオン選択性のような高度に特異的な機能は、アミノ酸の正確な3D配置によって決定されます。細孔の内壁のわずかな違いでも、特定のイオンのみが通過できるような非常に特異的な相互作用や物理的制約を生み出すことができます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "By being activated by different types of neurotransmitters.",
+          "zh": "通过被不同类型的神经递质激活。",
+          "es": "Al ser activados por diferentes tipos de neurotransmisores.",
+          "fr": "En étant activés par différents types de neurotransmetteurs.",
+          "de": "Indem sie durch verschiedene Arten von Neurotransmittern aktiviert werden.",
+          "ja": "異なる種類の神経伝達物質によって活性化されることによって。"
+        },
+        "feedback": {
+          "en": "This describes how some channels are 'gated' (opened or closed), but it does not explain their inherent selectivity for specific ion types when they are open. The question is about which ions can pass once the channel is available.",
+          "zh": "这描述了某些通道如何“门控”（打开或关闭），但它并没有解释它们在开放时对特定离子类型的固有选择性。问题是关于通道可用后，哪些离子可以通过。",
+          "es": "Esto describe cómo se 'compuerta' (abre o cierra) algunos canales, pero no explica su selectividad inherente para tipos de iones específicos cuando están abiertos. La pregunta trata sobre qué iones pueden pasar una vez que el canal está disponible.",
+          "fr": "Cela décrit comment certains canaux sont « régulés » (ouverts ou fermés), mais cela n'explique pas leur sélectivité inhérente pour des types d'ions spécifiques lorsqu'ils sont ouverts. La question porte sur les ions qui peuvent passer une fois que le canal est disponible.",
+          "de": "Dies beschreibt, wie einige Kanäle 'gesteuert' (geöffnet oder geschlossen) werden, erklärt aber nicht ihre inhärente Selektivität für spezifische Ionentypen, wenn sie offen sind. Die Frage bezieht sich darauf, welche Ionen passieren können, sobald der Kanal verfügbar ist.",
+          "ja": "これは、一部のチャネルがどのように「ゲーティング」（開閉）されるかを示していますが、開いているときに特定のイオンタイプに対する固有の選択性を説明するものではありません。この質問は、チャネルが利用可能になった後、どのイオンが通過できるかについてです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Ion channel selectivity, even for ions of similar charge and size, is primarily determined by the precise atomic arrangement of the amino acid residues that line the channel pore. These residues interact differently with specific ions, allowing some to pass while excluding others, often involving dehydration and rehydration steps specific to ion size and charge, and the fit within the 'selectivity filter'.",
+      "zh": "离子通道的选择性，即使对于电荷和大小相似的离子，也主要由构成通道孔内壁的氨基酸残基的精确原子排列决定。这些残基与特定离子以不同方式相互作用，允许某些离子通过，同时排除其他离子，这通常涉及与离子大小和电荷相关的脱水和再水合步骤，以及在“选择性过滤器”内的适配。",
+      "es": "La selectividad de los canales iónicos, incluso para iones de carga y tamaño similares, está determinada principalmente por la disposición atómica precisa de los residuos de aminoácidos que revisten el poro del canal. Estos residuos interactúan de manera diferente con iones específicos, permitiendo que algunos pasen mientras excluyen a otros, lo que a menudo implica pasos de deshidratación y rehidratación específicos para el tamaño y la carga del ion, y el ajuste dentro del 'filtro de selectividad'.",
+      "fr": "La sélectivité des canaux ioniques, même pour des ions de charge et de taille similaires, est principalement déterminée par l'agencement atomique précis des résidus d'acides aminés qui tapissent le pore du canal. Ces résidus interagissent différemment avec des ions spécifiques, permettant à certains de passer tout en excluant d'autres, impliquant souvent des étapes de déshydratation et de réhydratation spécifiques à la taille et à la charge de l'ion, et l'ajustement dans le « filtre de sélectivité ».",
+      "de": "Die Selektivität von Ionenkanälen, selbst für Ionen ähnlicher Ladung und Größe, wird hauptsächlich durch die präzise atomare Anordnung der Aminosäurereste bestimmt, die die Kanalpore auskleiden. Diese Reste interagieren unterschiedlich mit spezifischen Ionen, wodurch einige passieren können, während andere ausgeschlossen werden, oft unter Einbeziehung von Dehydrierungs- und Rehydrierungsphasen, die spezifisch für Ionengröße und -ladung sind, und der Passung innerhalb des 'Selektivitätsfilters'.",
+      "ja": "イオンチャネルの選択性は、電荷やサイズが似たイオンの場合でも、主にチャネル孔の内壁を構成するアミノ酸残基の正確な原子配列によって決定されます。これらの残基は特定のイオンと異なって相互作用し、一部のイオンは通過させ、他のイオンは排除します。これは、イオンのサイズと電荷に特有の脱水および再水和の段階、そして「選択性フィルター」内での適合性を含むことがよくあります。"
+    }
+  },
+  {
+    "page_number": 1119,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Table 48.1 and the description of the sodium-potassium pump, which statement correctly describes the ion concentrations and pump action?",
+      "zh": "根据表 48.1 和钠钾泵的描述，以下哪项陈述正确描述了离子浓度和泵的作用？",
+      "es": "Basándose en la Tabla 48.1 y la descripción de la bomba de sodio-potasio, ¿qué afirmación describe correctamente las concentraciones iónicas y la acción de la bomba?",
+      "fr": "D'après le Tableau 48.1 et la description de la pompe sodium-potassium, quelle affirmation décrit correctement les concentrations ioniques et l'action de la pompe ?",
+      "de": "Basierend auf Tabelle 48.1 und der Beschreibung der Natrium-Kalium-Pumpe, welche Aussage beschreibt die Ionenkonzentrationen und die Pumpenaktion korrekt?",
+      "ja": "表48.1とナトリウム-カリウムポンプの説明に基づき、イオン濃度とポンプの作用を正しく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Intracellular K+ concentration is 5 mM, and the pump moves K+ out of the cell.",
+          "zh": "细胞内 K+ 浓度为 5 mM，泵将 K+ 移出细胞。",
+          "es": "La concentración intracelular de K+ es de 5 mM, y la bomba mueve K+ fuera de la célula.",
+          "fr": "La concentration intracellulaire de K+ est de 5 mM, et la pompe déplace le K+ hors de la cellule.",
+          "de": "Die intrazelluläre K+-Konzentration beträgt 5 mM, und die Pumpe befördert K+ aus der Zelle heraus.",
+          "ja": "細胞内K+濃度は5 mMであり、ポンプはK+を細胞外へ移動させます。"
+        },
+        "feedback": {
+          "en": "According to Table 48.1, intracellular K+ is 140 mM. The pump actively transports K+ INTO the cell.",
+          "zh": "根据表 48.1，细胞内 K+ 浓度为 140 mM。该泵主动将 K+ 运入细胞。",
+          "es": "Según la Tabla 48.1, la concentración intracelular de K+ es de 140 mM. La bomba transporta activamente K+ HACIA la célula.",
+          "fr": "Selon le Tableau 48.1, la concentration intracellulaire de K+ est de 140 mM. La pompe transporte activement le K+ VERS l'intérieur de la cellule.",
+          "de": "Gemäß Tabelle 48.1 beträgt die intrazelluläre K+-Konzentration 140 mM. Die Pumpe transportiert K+ aktiv IN die Zelle.",
+          "ja": "表48.1によると、細胞内K+濃度は140 mMです。ポンプはK+を細胞内へ能動輸送します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Extracellular Na+ concentration is 15 mM, and the pump moves Na+ into the cell.",
+          "zh": "细胞外 Na+ 浓度为 15 mM，泵将 Na+ 移入细胞。",
+          "es": "La concentración extracelular de Na+ es de 15 mM, y la bomba mueve Na+ hacia el interior de la célula.",
+          "fr": "La concentration extracellulaire de Na+ est de 15 mM, et la pompe déplace le Na+ vers l'intérieur de la cellule.",
+          "de": "Die extrazelluläre Na+-Konzentration beträgt 15 mM, und die Pumpe befördert Na+ in die Zelle.",
+          "ja": "細胞外Na+濃度は15 mMであり、ポンプはNa+を細胞内へ移動させます。"
+        },
+        "feedback": {
+          "en": "According to Table 48.1, extracellular Na+ is 150 mM. The pump actively transports Na+ OUT of the cell.",
+          "zh": "根据表 48.1，细胞外 Na+ 浓度为 150 mM。该泵主动将 Na+ 运出细胞。",
+          "es": "Según la Tabla 48.1, la concentración extracelular de Na+ es de 150 mM. La bomba transporta activamente Na+ FUERA de la célula.",
+          "fr": "Selon le Tableau 48.1, la concentration extracellulaire de Na+ est de 150 mM. La pompe transporte activement le Na+ HORS de la cellule.",
+          "de": "Gemäß Tabelle 48.1 beträgt die extrazelluläre Na+-Konzentration 150 mM. Die Pumpe transportiert Na+ aktiv AUS der Zelle heraus.",
+          "ja": "表48.1によると、細胞外Na+濃度は150 mMです。ポンプはNa+を細胞外へ能動輸送します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The sodium-potassium pump transports 3 Na+ ions out of the cell for every 2 K+ ions transported in.",
+          "zh": "钠钾泵每将 3 个 Na+ 离子运出细胞，同时将 2 个 K+ 离子运入细胞。",
+          "es": "La bomba de sodio-potasio transporta 3 iones de Na+ fuera de la célula por cada 2 iones de K+ transportados hacia el interior.",
+          "fr": "La pompe sodium-potassium transporte 3 ions Na+ hors de la cellule pour chaque 2 ions K+ transportés vers l'intérieur.",
+          "de": "Die Natrium-Kalium-Pumpe transportiert 3 Na+-Ionen aus der Zelle heraus für jeweils 2 K+-Ionen, die hineintransportiert werden.",
+          "ja": "ナトリウム-カリウムポンプは、3つのNa+イオンを細胞外へ、2つのK+イオンを細胞内へ輸送します。"
+        },
+        "feedback": {
+          "en": "This statement is correct, as explicitly stated in the text and illustrated in Figure 48.6.",
+          "zh": "这个陈述是正确的，正如文本中明确说明并在图 48.6 中所示。",
+          "es": "Esta afirmación es correcta, como se indica explícitamente en el texto y se ilustra en la Figura 48.6.",
+          "fr": "Cette affirmation est correcte, comme cela est explicitement indiqué dans le texte et illustré à la Figure 48.6.",
+          "de": "Diese Aussage ist korrekt, wie im Text explizit angegeben und in Abbildung 48.6 dargestellt.",
+          "ja": "この記述は正しく、テキストに明示され、図48.6に示されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Chloride ions are actively pumped out of the cell to maintain their high extracellular concentration.",
+          "zh": "氯离子被主动泵出细胞以维持其高细胞外浓度。",
+          "es": "Los iones cloruro son bombeados activamente fuera de la célula para mantener su alta concentración extracelular.",
+          "fr": "Les ions chlorure sont activement pompés hors de la cellule pour maintenir leur forte concentration extracellulaire.",
+          "de": "Chloridionen werden aktiv aus der Zelle gepumpt, um ihre hohe extrazelluläre Konzentration aufrechtzuerhalten.",
+          "ja": "塩化物イオンは、高細胞外濃度を維持するために積極的に細胞外に排出されます。"
+        },
+        "feedback": {
+          "en": "The text mentions chloride gradients but does not state that they are actively pumped out by the sodium-potassium pump. The question specifically asks about the sodium-potassium pump and ion concentrations as described.",
+          "zh": "文本提到了氯离子梯度，但没有说明它们被钠钾泵主动泵出。问题明确询问的是根据描述的钠钾泵和离子浓度。",
+          "es": "El texto menciona los gradientes de cloruro pero no afirma que sean bombeados activamente por la bomba de sodio-potasio. La pregunta se refiere específicamente a la bomba de sodio-potasio y las concentraciones iónicas según lo descrito.",
+          "fr": "Le texte mentionne les gradients de chlorure mais n'indique pas qu'ils sont activement pompés par la pompe sodium-potassium. La question porte spécifiquement sur la pompe sodium-potassium et les concentrations ioniques telles que décrites.",
+          "de": "Der Text erwähnt Chloridgradienten, besagt aber nicht, dass sie aktiv durch die Natrium-Kalium-Pumpe herausgepumpt werden. Die Frage bezieht sich speziell auf die Natrium-Kalium-Pumpe und die Ionenkonzentrationen, wie beschrieben.",
+          "ja": "テキストには塩化物イオンの勾配が言及されていますが、ナトリウム-カリウムポンプによって能動的に排出されるとは述べられていません。質問は、記述されているナトリウム-カリウムポンプとイオン濃度について具体的に尋ねています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Table 48.1 shows the ion concentrations, with high K+ inside and high Na+ outside. The text explicitly states that the sodium-potassium pump transports 'three Na+ out of the cell for every two K+ that it transports in' (Figure 48.6), using ATP to maintain these gradients.",
+      "zh": "表 48.1 显示了离子浓度，细胞内 K+ 浓度高，细胞外 Na+ 浓度高。文本明确指出，钠钾泵“每将 3 个 Na+ 运出细胞，同时将 2 个 K+ 运入细胞”（图 48.6），利用 ATP 来维持这些梯度。",
+      "es": "La Tabla 48.1 muestra las concentraciones de iones, con alta concentración de K+ dentro y alta concentración de Na+ fuera. El texto establece explícitamente que la bomba de sodio-potasio transporta 'tres Na+ fuera de la célula por cada dos K+ que transporta hacia el interior' (Figura 48.6), utilizando ATP para mantener estos gradientes.",
+      "fr": "Le Tableau 48.1 montre les concentrations ioniques, avec une concentration élevée de K+ à l'intérieur et une concentration élevée de Na+ à l'extérieur. Le texte indique explicitement que la pompe sodium-potassium transporte « trois Na+ hors de la cellule pour chaque deux K+ qu'elle transporte vers l'intérieur » (Figure 48.6), utilisant l'ATP pour maintenir ces gradients.",
+      "de": "Tabelle 48.1 zeigt die Ionenkonzentrationen, mit hohem K+ innen und hohem Na+ außen. Der Text besagt explizit, dass die Natrium-Kalium-Pumpe 'drei Na+ aus der Zelle für jeweils zwei K+ hineintransportiert' (Abbildung 48.6), wobei ATP zur Aufrechterhaltung dieser Gradienten verwendet wird.",
+      "ja": "表48.1はイオン濃度を示しており、細胞内K+が高く、細胞外Na+が高いです。テキストには、ナトリウム-カリウムポンプが「3つのNa+を細胞外へ、2つのK+を細胞内へ」輸送することが明確に述べられており（図48.6）、これらの勾配を維持するためにATPを使用しています。"
+    }
+  },
+  {
+    "page_number": 1119,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Why is the significant net outflow of K+ through open potassium channels (leak channels) crucial for establishing the resting membrane potential?",
+      "zh": "为什么通过开放的钾通道（泄漏通道）K+ 的显著净流出对于建立静息膜电位至关重要？",
+      "es": "¿Por qué el flujo neto significativo de K+ a través de los canales de potasio abiertos (canales de fuga) es crucial para establecer el potencial de membrana en reposo?",
+      "fr": "Pourquoi la sortie nette significative de K+ à travers les canaux potassiques ouverts (canaux de fuite) est-elle cruciale pour l'établissement du potentiel de membrane au repos ?",
+      "de": "Warum ist der signifikante Nettoausstrom von K+ durch offene Kaliumkanäle (Leckkanäle) entscheidend für die Etablierung des Ruhemembranpotentials?",
+      "ja": "開いているカリウムチャネル（リークチャネル）を介したK+の有意な純流出が、静止膜電位の確立に不可欠であるのはなぜですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It directly causes the influx of Na+ ions, balancing the charge.",
+          "zh": "它直接导致 Na+ 离子内流，平衡电荷。",
+          "es": "Causa directamente la afluencia de iones Na+, equilibrando la carga.",
+          "fr": "Elle provoque directement l'afflux d'ions Na+, équilibrant la charge.",
+          "de": "Sie verursacht direkt den Einstrom von Na+-Ionen, wodurch die Ladung ausgeglichen wird.",
+          "ja": "それはNa+イオンの流入を直接引き起こし、電荷をバランスさせます。"
+        },
+        "feedback": {
+          "en": "At rest, Na+ influx is minimal due to very few open Na+ channels. K+ outflow contributes to the negative charge, not balanced by Na+ influx in this context.",
+          "zh": "静息时，由于开放的 Na+ 通道很少，Na+ 流入量极小。K+ 流出有助于产生负电荷，在这种情况下与 Na+ 流入不平衡。",
+          "es": "En reposo, el influjo de Na+ es mínimo debido a la escasa cantidad de canales de Na+ abiertos. El flujo de salida de K+ contribuye a la carga negativa, no equilibrada por el influjo de Na+ en este contexto.",
+          "fr": "Au repos, l'afflux de Na+ est minimal en raison du très petit nombre de canaux Na+ ouverts. La sortie de K+ contribue à la charge négative, non équilibrée par l'afflux de Na+ dans ce contexte.",
+          "de": "Im Ruhezustand ist der Na+-Einstrom aufgrund sehr weniger offener Na+-Kanäle minimal. Der K+-Ausstrom trägt zur negativen Ladung bei und wird in diesem Kontext nicht durch den Na+-Einstrom ausgeglichen.",
+          "ja": "静止時には、開いているNa+チャネルが非常に少ないため、Na+の流入は最小限です。K+の流出は負の電荷に寄与しますが、この文脈ではNa+の流入によってバランスされるわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "K+ outflow creates a net negative charge inside the cell because the membrane is weakly permeable to other anions.",
+          "zh": "K+ 流出在细胞内产生净负电荷，因为膜对其他阴离子渗透性较弱。",
+          "es": "El flujo de salida de K+ crea una carga neta negativa dentro de la célula porque la membrana es débilmente permeable a otros aniones.",
+          "fr": "La sortie de K+ crée une charge nette négative à l'intérieur de la cellule car la membrane est faiblement perméable aux autres anions.",
+          "de": "Der K+-Ausstrom erzeugt eine negative Nettoladung im Zellinneren, da die Membran für andere Anionen schwach permeabel ist.",
+          "ja": "K+の流出は、膜が他の陰イオンに対して透過性が低いため、細胞内に正味の負の電荷を生成します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It consumes ATP to maintain the K+ gradient.",
+          "zh": "它消耗 ATP 来维持 K+ 梯度。",
+          "es": "Consume ATP para mantener el gradiente de K+.",
+          "fr": "Elle consomme de l'ATP pour maintenir le gradient de K+.",
+          "de": "Sie verbraucht ATP, um den K+-Gradienten aufrechtzuerhalten.",
+          "ja": "K+勾配を維持するためにATPを消費します。"
+        },
+        "feedback": {
+          "en": "Leak channels facilitate passive diffusion and do not directly consume ATP. The sodium-potassium pump consumes ATP to establish the gradients, but the leak channels operate passively.",
+          "zh": "泄漏通道促进被动扩散，不直接消耗 ATP。钠钾泵消耗 ATP 来建立梯度，但泄漏通道是被动操作的。",
+          "es": "Los canales de fuga facilitan la difusión pasiva y no consumen ATP directamente. La bomba de sodio-potasio consume ATP para establecer los gradientes, pero los canales de fuga operan pasivamente.",
+          "fr": "Les canaux de fuite facilitent la diffusion passive et ne consomment pas directement d'ATP. La pompe sodium-potassium consomme de l'ATP pour établir les gradients, mais les canaux de fuite fonctionnent passivement.",
+          "de": "Leckkanäle ermöglichen passive Diffusion und verbrauchen nicht direkt ATP. Die Natrium-Kalium-Pumpe verbraucht ATP, um die Gradienten zu etablieren, aber die Leckkanäle arbeiten passiv.",
+          "ja": "リークチャネルは受動拡散を促進し、ATPを直接消費しません。ナトリウム-カリウムポンプは勾配を確立するためにATPを消費しますが、リークチャネルは受動的に機能します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It prevents the accumulation of large anions inside the cell.",
+          "zh": "它阻止了细胞内大阴离子的积累。",
+          "es": "Evita la acumulación de grandes aniones dentro de la célula.",
+          "fr": "Elle empêche l'accumulation de gros anions à l'intérieur de la cellule.",
+          "de": "Sie verhindert die Ansammlung großer Anionen im Zellinneren.",
+          "ja": "それは細胞内に大きな陰イオンが蓄積するのを防ぎます。"
+        },
+        "feedback": {
+          "en": "Large anions (like proteins) are largely impermeable to the membrane and remain inside the cell, contributing to the negative charge. K+ outflow works with this impermeability to establish the resting potential, but K+ outflow itself does not prevent their accumulation.",
+          "zh": "大阴离子（如蛋白质）对膜基本不渗透，并保留在细胞内，有助于负电荷。K+ 流出与这种不渗透性共同作用以建立静息电位，但 K+ 流出本身并不能阻止它们的积累。",
+          "es": "Los aniones grandes (como las proteínas) son en gran medida impermeables a la membrana y permanecen dentro de la célula, contribuyendo a la carga negativa. El flujo de salida de K+ trabaja con esta impermeabilidad para establecer el potencial de reposo, pero el flujo de salida de K+ en sí mismo no evita su acumulación.",
+          "fr": "Les gros anions (comme les protéines) sont largement imperméables à la membrane et restent à l'intérieur de la cellule, contribuant à la charge négative. La sortie de K+ agit avec cette imperméabilité pour établir le potentiel de repos, mais la sortie de K+ elle-même n'empêche pas leur accumulation.",
+          "de": "Große Anionen (wie Proteine) sind weitgehend membranimpermeabel und verbleiben im Zellinneren, wo sie zur negativen Ladung beitragen. Der K+-Ausstrom wirkt mit dieser Impermeabilität zusammen, um das Ruhepotential zu etablieren, aber der K+-Ausstrom selbst verhindert nicht ihre Akkumulation.",
+          "ja": "大きな陰イオン（タンパク質など）は膜に対してほとんど不透過性であり、細胞内に留まり、負の電荷に寄与します。K+の流出は、この不透過性と共に静止電位を確立するのに働きますが、K+の流出自体がその蓄積を防ぐわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that while the sodium-potassium pump establishes the ion gradients, the large net outflow of K+ through many open potassium leak channels is crucial. Because the membrane is only 'weakly permeable to chloride and other anions' (which are negatively charged and trapped inside), this outflow of K+ (positive charge) results in a net negative charge inside the cell, creating the resting potential.",
+      "zh": "文本解释说，虽然钠钾泵建立了离子梯度，但通过许多开放的钾泄漏通道 K+ 的大量净流出至关重要。由于膜对“氯离子和其他阴离子”（它们带负电荷并被困在细胞内）只有“微弱的渗透性”，这种 K+（正电荷）的流出导致细胞内出现净负电荷，从而产生静息电位。",
+      "es": "El texto explica que, si bien la bomba de sodio-potasio establece los gradientes iónicos, el gran flujo neto de K+ a través de muchos canales de fuga de potasio abiertos es crucial. Debido a que la membrana es solo 'débilmente permeable al cloruro y otros aniones' (que tienen carga negativa y están atrapados dentro), este flujo de salida de K+ (carga positiva) resulta en una carga neta negativa dentro de la célula, creando el potencial de reposo.",
+      "fr": "Le texte explique que, bien que la pompe sodium-potassium établisse les gradients ioniques, la sortie nette importante de K+ via de nombreux canaux potassiques de fuite ouverts est cruciale. Comme la membrane n'est que « faiblement perméable au chlorure et aux autres anions » (qui sont chargés négativement et piégés à l'intérieur), cette sortie de K+ (charge positive) entraîne une charge nette négative à l'intérieur de la cellule, créant ainsi le potentiel de repos.",
+      "de": "Der Text erklärt, dass, während die Natrium-Kalium-Pumpe die Ionengradienten etabliert, der große Nettoausstrom von K+ durch viele offene Kalium-Leckkanäle entscheidend ist. Da die Membran nur 'schwach permeabel für Chlorid und andere Anionen' ist (die negativ geladen sind und im Zellinneren gefangen sind), führt dieser K+-Ausstrom (positive Ladung) zu einer negativen Nettoladung im Zellinneren, wodurch das Ruhepotential entsteht.",
+      "ja": "テキストによると、ナトリウム-カリウムポンプがイオン勾配を確立しますが、多くの開いたカリウムリークチャネルを介したK+の大規模な純流出が不可欠です。膜は「塩化物イオンやその他の陰イオン」（負に帯電しており細胞内に閉じ込められている）に対しては「透過性が低い」ため、このK+（正電荷）の流出が細胞内に正味の負の電荷を生み出し、静止電位を形成します。"
+    }
+  }
+]

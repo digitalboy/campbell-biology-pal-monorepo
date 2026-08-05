@@ -1,0 +1,273 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In the Z-W system of sex determination, found in birds, what determines the sex of the offspring?",
+      "zh": "在鸟类中发现的 Z-W 性别决定系统中，什么决定了后代的性别？",
+      "es": "En el sistema Z-W de determinación del sexo, que se encuentra en las aves, ¿qué determina el sexo de la descendencia?",
+      "fr": "Dans le système Z-W de détermination du sexe, présent chez les oiseaux, qu'est-ce qui détermine le sexe de la progéniture ?",
+      "de": "Was bestimmt im Z-W-System der Geschlechtsbestimmung, das bei Vögeln vorkommt, das Geschlecht der Nachkommen?",
+      "ja": "鳥類に見られるZ-W性の決定システムでは、何が子孫の性を決定しますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The sperm cell, which can carry either a Z or a W chromosome.",
+          "zh": "精子，它可以携带 Z 或 W 染色体。",
+          "es": "El espermatozoide, que puede portar un cromosoma Z o W.",
+          "fr": "Le spermatozoïde, qui peut porter un chromosome Z ou W.",
+          "de": "Die Samenzelle, die entweder ein Z- oder ein W-Chromosom tragen kann.",
+          "ja": "Z染色体またはW染色体のいずれかを運ぶことができる精子。"
+        },
+        "feedback": {
+          "en": "This describes the X-Y system, but with different letters. In the Z-W system, the male is the homogametic sex (ZZ), so all sperm carry a Z chromosome.",
+          "zh": "这描述的是 X-Y 系统，只是字母不同。在 Z-W 系统中，雄性是同配性别（ZZ），所以所有精子都携带 Z 染色体。",
+          "es": "Esto describe el sistema X-Y, pero con diferentes letras. En el sistema Z-W, el macho es el sexo homogamético (ZZ), por lo que todos los espermatozoides portan un cromosoma Z.",
+          "fr": "Ceci décrit le système X-Y, mais avec des lettres différentes. Dans le système Z-W, le mâle est le sexe homogamétique (ZZ), donc tous les spermatozoïdes portent un chromosome Z.",
+          "de": "Dies beschreibt das X-Y-System, aber mit anderen Buchstaben. Im Z-W-System ist das Männchen das homogametische Geschlecht (ZZ), daher tragen alle Spermien ein Z-Chromosom.",
+          "ja": "これはX-Yシステムを説明していますが、文字が異なります。Z-Wシステムでは、オスが同型配偶子性（ZZ）であるため、すべての精子がZ染色体を運びます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The egg cell, which can carry either a Z or a W chromosome.",
+          "zh": "卵细胞，它可以携带 Z 或 W 染色体。",
+          "es": "El óvulo, que puede portar un cromosoma Z o W.",
+          "fr": "L'ovule, qui peut porter un chromosome Z ou W.",
+          "de": "Die Eizelle, die entweder ein Z- oder ein W-Chromosom tragen kann.",
+          "ja": "Z染色体またはW染色体のいずれかを運ぶことができる卵細胞。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The temperature at which the egg is incubated.",
+          "zh": "卵孵化的温度。",
+          "es": "La temperatura a la que se incuba el huevo.",
+          "fr": "La température à laquelle l'œuf est incubé.",
+          "de": "Die Temperatur, bei der das Ei bebrütet wird.",
+          "ja": "卵が孵化する温度。"
+        },
+        "feedback": {
+          "en": "While some species (like certain reptiles) have temperature-dependent sex determination, this is not the case for the Z-W system in birds.",
+          "zh": "虽然有些物种（如某些爬行动物）的性别由温度决定，但鸟类的 Z-W 系统并非如此。",
+          "es": "Si bien algunas especies (como ciertos reptiles) tienen una determinación del sexo dependiente de la temperatura, este no es el caso del sistema Z-W en las aves.",
+          "fr": "Bien que certaines espèces (comme certains reptiles) aient une détermination du sexe dépendante de la température, ce n'est pas le cas pour le système Z-W chez les oiseaux.",
+          "de": "Obwohl einige Arten (wie bestimmte Reptilien) eine temperaturabhängige Geschlechtsbestimmung haben, ist dies beim Z-W-System bei Vögeln nicht der Fall.",
+          "ja": "一部の種（特定の爬虫類など）は温度依存性の性決定を行いますが、鳥類のZ-Wシステムではそうではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Whether the egg is fertilized or not.",
+          "zh": "卵是否受精。",
+          "es": "Si el óvulo es fertilizado o no.",
+          "fr": "Si l'œuf est fécondé ou non.",
+          "de": "Ob das Ei befruchtet wird oder nicht.",
+          "ja": "卵が受精したかどうか。"
+        },
+        "feedback": {
+          "en": "This describes the haplo-diploid system found in bees and ants, not the Z-W system.",
+          "zh": "这描述的是在蜜蜂和蚂蚁中发现的单-双倍体系统，而不是 Z-W 系统。",
+          "es": "Esto describe el sistema haplo-diploide que se encuentra en las abejas y las hormigas, no el sistema Z-W.",
+          "fr": "Ceci décrit le système haplo-diploïde trouvé chez les abeilles et les fourmis, et non le système Z-W.",
+          "de": "Dies beschreibt das haplo-diploide System, das bei Bienen und Ameisen vorkommt, nicht das Z-W-System.",
+          "ja": "これは、Z-Wシステムではなく、ハチやアリに見られる半数二倍性システムを説明しています。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "In the Z-W system, females are the heterogametic sex (ZW) and males are the homogametic sex (ZZ). This means that all sperm cells carry a Z chromosome, while egg cells can carry either a Z or a W. Therefore, the sex of the offspring is determined by the sex chromosome present in the egg.",
+      "zh": "在 Z-W 系统中，雌性是异配性别（ZW），雄性是同配性别（ZZ）。这意味着所有精子都携带 Z 染色体，而卵细胞可以携带 Z 或 W。因此，后代的性别由卵细胞中的性染色体决定。",
+      "es": "En el sistema Z-W, las hembras son el sexo heterogamético (ZW) y los machos son el sexo homogamético (ZZ). Esto significa que todos los espermatozoides portan un cromosoma Z, mientras que los óvulos pueden portar un Z o un W. Por lo tanto, el sexo de la descendencia está determinado por el cromosoma sexual presente en el óvulo.",
+      "fr": "Dans le système Z-W, les femelles sont le sexe hétérogamétique (ZW) et les mâles sont le sexe homogamétique (ZZ). Cela signifie que tous les spermatozoïdes portent un chromosome Z, tandis que les ovules peuvent porter un Z ou un W. Par conséquent, le sexe de la progéniture est déterminé par le chromosome sexuel présent dans l'ovule.",
+      "de": "Im Z-W-System sind Weibchen das heterogametische Geschlecht (ZW) und Männchen das homogametische Geschlecht (ZZ). Das bedeutet, dass alle Samenzellen ein Z-Chromosom tragen, während Eizellen entweder ein Z oder ein W tragen können. Daher wird das Geschlecht der Nachkommen durch das in der Eizelle vorhandene Geschlechtschromosom bestimmt.",
+      "ja": "Z-Wシステムでは、メスが異型配偶子性（ZW）であり、オスが同型配偶子性（ZZ）です。これは、すべての精子がZ染色体を運ぶのに対し、卵細胞はZまたはWのいずれかを運ぶことができることを意味します。したがって、子孫の性は卵細胞に存在する性染色体によって決定されます。"
+    }
+  },
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the role of the SRY gene in human sex determination?",
+      "zh": "SRY 基因在人类性别决定中扮演什么角色？",
+      "es": "¿Cuál es el papel del gen SRY en la determinación del sexo humano?",
+      "fr": "Quel est le rôle du gène SRY dans la détermination du sexe humain ?",
+      "de": "Welche Rolle spielt das SRY-Gen bei der menschlichen Geschlechtsbestimmung?",
+      "ja": "人間の性決定におけるSRY遺伝子の役割は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It is required for the development of ovaries.",
+          "zh": "它是卵巢发育所必需的。",
+          "es": "Es necesario para el desarrollo de los ovarios.",
+          "fr": "Il est nécessaire au développement des ovaires.",
+          "de": "Es ist für die Entwicklung der Eierstöcke erforderlich.",
+          "ja": "卵巣の発達に必要です。"
+        },
+        "feedback": {
+          "en": "This is the opposite of its function. In the absence of SRY, the gonads develop into ovaries.",
+          "zh": "这与它的功能相反。在没有 SRY 的情况下，性腺会发育成卵巢。",
+          "es": "Esto es lo opuesto a su función. En ausencia de SRY, las gónadas se convierten en ovarios.",
+          "fr": "C'est le contraire de sa fonction. En l'absence de SRY, les gonades se développent en ovaires.",
+          "de": "Dies ist das Gegenteil seiner Funktion. In Abwesenheit von SRY entwickeln sich die Gonaden zu Eierstöcken.",
+          "ja": "これはその機能の反対です。SRYがない場合、生殖腺は卵巣に発達します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It is located on the X chromosome and determines female traits.",
+          "zh": "它位于 X 染色体上，决定女性性状。",
+          "es": "Se encuentra en el cromosoma X y determina los rasgos femeninos.",
+          "fr": "Il est situé sur le chromosome X et détermine les caractères féminins.",
+          "de": "Es befindet sich auf dem X-Chromosom und bestimmt weibliche Merkmale.",
+          "ja": "それはX染色体上にあり、女性の形質を決定します。"
+        },
+        "feedback": {
+          "en": "The SRY gene is specifically located on the Y chromosome and is associated with male development.",
+          "zh": "SRY 基因明确位于 Y 染色体上，并与男性发育相关。",
+          "es": "El gen SRY se encuentra específicamente en el cromosoma Y y está asociado con el desarrollo masculino.",
+          "fr": "Le gène SRY est spécifiquement situé sur le chromosome Y et est associé au développement masculin.",
+          "de": "Das SRY-Gen befindet sich spezifisch auf dem Y-Chromosom und ist mit der männlichen Entwicklung verbunden.",
+          "ja": "SRY遺伝子は特にY染色体上にあり、男性の発達に関連しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is required for the development of testes.",
+          "zh": "它是睾丸发育所必需的。",
+          "es": "Es necesario para el desarrollo de los testículos.",
+          "fr": "Il est nécessaire au développement des testicules.",
+          "de": "Es ist für die Entwicklung der Hoden erforderlich.",
+          "ja": "精巣の発達に必要です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It ensures the fifty-fifty chance of having a male or female offspring.",
+          "zh": "它确保了生出男性或女性后代的概率是 50/50。",
+          "es": "Asegura la probabilidad de cincuenta y cincuenta de tener descendencia masculina o femenina.",
+          "fr": "Il assure une chance sur deux d'avoir une progéniture masculine ou féminine.",
+          "de": "Es sichert die Fünfzig-fünfzig-Chance, männliche oder weibliche Nachkommen zu haben.",
+          "ja": "それは、男性または女性の子孫を持つ確率が50/50であることを保証します。"
+        },
+        "feedback": {
+          "en": "The 50/50 chance is due to the segregation of X and Y chromosomes into sperm, not the function of the SRY gene itself.",
+          "zh": "50/50 的概率是由于 X 和 Y 染色体在精子中的分离，而不是 SRY 基因本身的功能。",
+          "es": "La probabilidad de 50/50 se debe a la segregación de los cromosomas X e Y en los espermatozoides, no a la función del gen SRY en sí.",
+          "fr": "La chance 50/50 est due à la ségrégation des chromosomes X et Y dans les spermatozoïdes, et non à la fonction du gène SRY lui-même.",
+          "de": "Die 50/50-Chance beruht auf der Segregation von X- und Y-Chromosomen in Spermien, nicht auf der Funktion des SRY-Gens selbst.",
+          "ja": "50/50の確率は、SRY遺伝子自体の機能ではなく、精子へのX染色体とY染色体の分離によるものです。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "The text explicitly states, 'A gene on the Y chromosome—called SRY, for sex-determining region of Y—is required for the development of testes.' In the absence of SRY, the generic embryonic gonads develop into ovaries.",
+      "zh": "文本明确指出：“Y 染色体上的一个基因——称为 SRY，即 Y 的性别决定区——是睾丸发育所必需的。” 在没有 SRY 的情况下，未分化的胚胎性腺会发育成卵巢。",
+      "es": "El texto establece explícitamente: 'Un gen en el cromosoma Y, llamado SRY, para la región determinante del sexo de Y, es necesario para el desarrollo de los testículos'. En ausencia de SRY, las gónadas embrionarias genéricas se convierten en ovarios.",
+      "fr": "Le texte déclare explicitement : « Un gène sur le chromosome Y — appelé SRY, pour la région de détermination du sexe de Y — est nécessaire au développement des testicules. » En l'absence de SRY, les gonades embryonnaires génériques se développent en ovaires.",
+      "de": "Der Text besagt ausdrücklich: „Ein Gen auf dem Y-Chromosom – SRY genannt, für die geschlechtsbestimmende Region von Y – ist für die Entwicklung der Hoden erforderlich.“ In Abwesenheit von SRY entwickeln sich die generischen embryonalen Gonaden zu Eierstöcken.",
+      "ja": "本文では、「Y染色体上の遺伝子であるSRY（Yの性決定領域）は、精巣の発達に必要である」と明確に述べられています。SRYがない場合、未分化の胚性生殖腺は卵巣に発達します。"
+    }
+  },
+  {
+    "difficulty": "hard",
+    "question_text": {
+      "en": "In the haplo-diploid system of bees, how does a male bee develop, and what is a key consequence of this for his genetic relationship to his mother?",
+      "zh": "在蜜蜂的单-双倍体系统中，雄蜂是如何发育的？这对其与蜂后的遗传关系有何关键影响？",
+      "es": "En el sistema haplo-diploide de las abejas, ¿cómo se desarrolla un zángano y cuál es una consecuencia clave de esto para su relación genética con su madre?",
+      "fr": "Dans le système haplo-diploïde des abeilles, comment un faux-bourdon se développe-t-il, et quelle est la conséquence clé de cela pour sa relation génétique avec sa mère ?",
+      "de": "Wie entwickelt sich eine männliche Biene im haplo-diploiden System der Bienen, und was ist eine wesentliche Folge davon für ihre genetische Beziehung zu ihrer Mutter?",
+      "ja": "ミツバチの半数二倍性システムでは、雄バチはどのように発生し、これが母親との遺伝的関係にどのような重要な結果をもたらしますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "He develops from a fertilized egg and shares 50% of his genes with his mother.",
+          "zh": "他由受精卵发育而来，与母亲共享 50% 的基因。",
+          "es": "Se desarrolla a partir de un óvulo fertilizado y comparte el 50% de sus genes con su madre.",
+          "fr": "Il se développe à partir d'un œuf fécondé et partage 50 % de ses gènes avec sa mère.",
+          "de": "Er entwickelt sich aus einem befruchteten Ei und teilt 50 % seiner Gene mit seiner Mutter.",
+          "ja": "彼は受精卵から発生し、母親と遺伝子の50％を共有します。"
+        },
+        "feedback": {
+          "en": "This describes the development of a female bee. Males develop from unfertilized eggs.",
+          "zh": "这描述的是雌蜂的发育过程。雄蜂由未受精卵发育而来。",
+          "es": "Esto describe el desarrollo de una abeja hembra. Los machos se desarrollan a partir de óvulos no fertilizados.",
+          "fr": "Ceci décrit le développement d'une abeille femelle. Les mâles se développent à partir d'œufs non fécondés.",
+          "de": "Dies beschreibt die Entwicklung einer weiblichen Biene. Männchen entwickeln sich aus unbefruchteten Eiern.",
+          "ja": "これは雌バチの発達を説明しています。雄バチは未受精卵から発生します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "He develops from an unfertilized egg and shares 100% of his genes with his mother.",
+          "zh": "他由未受精卵发育而来，与母亲共享 100% 的基因。",
+          "es": "Se desarrolla a partir de un óvulo no fertilizado y comparte el 100% de sus genes con su madre.",
+          "fr": "Il se développe à partir d'un œuf non fécondé et partage 100 % de ses gènes avec sa mère.",
+          "de": "Er entwickelt sich aus einem unbefruchteten Ei und teilt 100 % seiner Gene mit seiner Mutter.",
+          "ja": "彼は未受精卵から発生し、母親と遺伝子の100％を共有します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "He develops from an unfertilized egg and is genetically identical to his mother.",
+          "zh": "他由未受精卵发育而来，在遗传上与他的母亲完全相同。",
+          "es": "Se desarrolla a partir de un óvulo no fertilizado y es genéticamente idéntico a su madre.",
+          "fr": "Il se développe à partir d'un œuf non fécondé et est génétiquement identique à sa mère.",
+          "de": "Er entwickelt sich aus einem unbefruchteten Ei und ist genetisch identisch mit seiner Mutter.",
+          "ja": "彼は未受精卵から発生し、母親と遺伝的に同一です。"
+        },
+        "feedback": {
+          "en": "He is not identical. The mother is diploid and produces haploid eggs through meiosis. The male develops from one of these haploid eggs, so he only has half of his mother's genetic information.",
+          "zh": "他不是完全相同的。母亲是二倍体，通过减数分裂产生单倍体卵。雄性由其中一个单倍体卵发育而来，所以他只拥有母亲一半的遗传信息。",
+          "es": "No es idéntico. La madre es diploide y produce óvulos haploides a través de la meiosis. El macho se desarrolla a partir de uno de estos óvulos haploides, por lo que solo tiene la mitad de la información genética de su madre.",
+          "fr": "Il n'est pas identique. La mère est diploïde et produit des ovules haploïdes par méiose. Le mâle se développe à partir de l'un de ces ovules haploïdes, il n'a donc que la moitié de l'information génétique de sa mère.",
+          "de": "Er ist nicht identisch. Die Mutter ist diploid und produziert durch Meiose haploide Eier. Das Männchen entwickelt sich aus einer dieser haploiden Eier, hat also nur die Hälfte der genetischen Information seiner Mutter.",
+          "ja": "彼は同一ではありません。母親は二倍体であり、減数分裂によって半数体の卵を生産します。オスはこれらの半数体の卵の1つから発生するため、母親の遺伝情報の半分しか持っていません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "He develops from a fertilized egg and has no father.",
+          "zh": "他由受精卵发育而来，并且没有父亲。",
+          "es": "Se desarrolla a partir de un óvulo fertilizado y no tiene padre.",
+          "fr": "Il se développe à partir d'un œuf fécondé et n'a pas de père.",
+          "de": "Er entwickelt sich aus einem befruchteten Ei und hat keinen Vater.",
+          "de": "Er entwickelt sich aus einem befruchteten Ei und hat keinen Vater.",
+          "ja": "彼は受精卵から発生し、父親がいません。"
+        },
+        "feedback": {
+          "en": "These two statements are contradictory. If he developed from a fertilized egg, he would have a father (the source of the sperm). Males develop from unfertilized eggs.",
+          "zh": "这两个陈述是矛盾的。如果他由受精卵发育而来，他就会有父亲（精子的来源）。雄性是由未受精卵发育的。",
+          "es": "Estas dos afirmaciones son contradictorias. Si se desarrollara a partir de un óvulo fertilizado, tendría un padre (la fuente del esperma). Los machos se desarrollan a partir de óvulos no fertilizados.",
+          "fr": "Ces deux affirmations sont contradictoires. S'il se développait à partir d'un œuf fécondé, il aurait un père (la source du sperme). Les mâles se développent à partir d'œufs non fécondés.",
+          "de": "Diese beiden Aussagen sind widersprüchlich. Wenn er sich aus einem befruchteten Ei entwickeln würde, hätte er einen Vater (die Quelle des Spermas). Männchen entwickeln sich aus unbefruchteten Eiern.",
+          "ja": "これら2つの記述は矛盾しています。彼が受精卵から発生した場合、彼には父親（精子の供給源）がいることになります。オスは未受精卵から発生します。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The text states that in the haplo-diploid system, males develop from unfertilized eggs and are haploid. Since the egg is produced by the diploid queen via meiosis, it contains exactly half of her genes. Because the male develops directly from this haploid egg without any genetic contribution from a father, he shares 100% of his genetic material with the set of genes present in that specific egg from his mother.",
+      "zh": "文本指出，在单-双倍体系统中，雄性由未受精卵发育而来，是单倍体。由于卵是由二倍体蜂后通过减数分裂产生的，它精确地包含了她一半的基因。因为雄性直接由这个单倍体卵发育而来，没有任何来自父亲的遗传贡献，所以他与来自母亲的那个特定卵中的那套基因共享 100% 的遗传物质。",
+      "es": "El texto establece que en el sistema haplo-diploide, los machos se desarrollan a partir de óvulos no fertilizados y son haploides. Dado que el óvulo es producido por la reina diploide a través de la meiosis, contiene exactamente la mitad de sus genes. Debido a que el macho se desarrolla directamente a partir de este óvulo haploide sin ninguna contribución genética de un padre, comparte el 100% de su material genético con el conjunto de genes presentes en ese óvulo específico de su madre.",
+      "fr": "Le texte indique que dans le système haplo-diploïde, les mâles se développent à partir d'œufs non fécondés et sont haploïdes. Puisque l'œuf est produit par la reine diploïde par méiose, il contient exactement la moitié de ses gènes. Parce que le mâle se développe directement à partir de cet œuf haploïde sans aucune contribution génétique d'un père, il partage 100 % de son matériel génétique avec l'ensemble des gènes présents dans cet œuf spécifique de sa mère.",
+      "de": "Der Text besagt, dass sich im haplo-diploiden System Männchen aus unbefruchteten Eiern entwickeln und haploid sind. Da das Ei von der diploiden Königin durch Meiose produziert wird, enthält es genau die Hälfte ihrer Gene. Da sich das Männchen direkt aus diesem haploiden Ei ohne genetischen Beitrag eines Vaters entwickelt, teilt es 100 % seines genetischen Materials mit dem Genset, das in diesem spezifischen Ei seiner Mutter vorhanden ist.",
+      "ja": "本文では、半数二倍性システムでは、オスは未受精卵から発生し、半数体であると述べられています。卵は二倍体の女王によって減数分裂を介して生産されるため、女王の遺伝子のちょうど半分を含んでいます。オスは父親からの遺伝的貢献なしにこの半数体の卵から直接発生するため、母親からのその特定の卵に存在する遺伝子セットと遺伝物質の100％を共有します。"
+    }
+  }
+]

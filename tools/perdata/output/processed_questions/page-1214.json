@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 1214,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which level of ecology would primarily study the impact of a newly introduced invasive plant species on the native insect population in a specific forest area, considering their interactions like competition for resources?",
+      "zh": "在某个特定森林区域，主要研究新引入的入侵植物物种对本地昆虫种群的影响（考虑它们之间如资源竞争等相互作用）属于哪个生态学层次？",
+      "es": "Según el texto, ¿qué nivel de ecología estudiaría principalmente el impacto de una especie de planta invasora recién introducida en la población de insectos nativos de un área forestal específica, considerando sus interacciones como la competencia por los recursos?",
+      "fr": "Quel niveau d'écologie étudierait principalement l'impact d'une espèce de plante envahissante nouvellement introduite sur la population d'insectes indigènes dans une zone forestière spécifique, en tenant compte de leurs interactions comme la compétition pour les ressources ?",
+      "de": "Welche Ebene der Ökologie würde hauptsächlich die Auswirkungen einer neu eingeführten invasiven Pflanzenart auf die heimische Insektenpopulation in einem bestimmten Waldgebiet untersuchen, unter Berücksichtigung ihrer Wechselwirkungen wie der Konkurrenz um Ressourcen?",
+      "ja": "特定の森林地域において、新たに導入された外来植物種が在来の昆虫個体群に与える影響（資源競争などの相互作用を含む）を主に研究する生態学のレベルはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Organismal Ecology",
+          "zh": "个体生态学",
+          "es": "Ecología organísmica",
+          "fr": "Écologie des organismes",
+          "de": "Organismenökologie",
+          "ja": "個体生態学"
+        },
+        "feedback": {
+          "en": "This level focuses on how an individual organism meets environmental challenges, not interspecies interactions.",
+          "zh": "该层次关注的是个体生物如何应对环境挑战，而不是物种间的相互作用。",
+          "es": "Este nivel se centra en cómo un organismo individual se enfrenta a los desafíos ambientales, no en las interacciones interespecíficas.",
+          "fr": "Ce niveau se concentre sur la manière dont un organisme individuel fait face aux défis environnementaux, et non sur les interactions interspécifiques.",
+          "de": "Diese Ebene konzentriert sich darauf, wie ein einzelner Organismus Umweltanforderungen bewältigt, nicht auf Wechselwirkungen zwischen Arten.",
+          "ja": "このレベルは、個々の生物が環境の課題にどう対処するかを研究するものであり、種間相互作用は扱いません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Population Ecology",
+          "zh": "种群生态学",
+          "es": "Ecología de poblaciones",
+          "fr": "Écologie des populations",
+          "de": "Populationsökologie",
+          "ja": "個体群生態学"
+        },
+        "feedback": {
+          "en": "This level analyzes factors affecting the size and changes of a single species' population, not interactions between different species.",
+          "zh": "该层次分析影响单一物种种群大小和变化的因素，而不是不同物种间的相互作用。",
+          "es": "Este nivel analiza los factores que afectan el tamaño y los cambios de la población de una sola especie, no las interacciones entre diferentes especies.",
+          "fr": "Ce niveau analyse les facteurs affectant la taille et les changements d'une population d'une seule espèce, et non les interactions entre différentes espèces.",
+          "de": "Diese Ebene analysiert Faktoren, die die Größe und Veränderungen der Population einer einzelnen Art beeinflussen, nicht die Wechselwirkungen zwischen verschiedenen Arten.",
+          "ja": "このレベルは、単一の種の個体群のサイズと変化に影響を与える要因を分析するものであり、異なる種間の相互作用は扱いません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Community Ecology",
+          "zh": "群落生态学",
+          "es": "Ecología de comunidades",
+          "fr": "Écologie des communautés",
+          "de": "Gemeinschaftsökologie",
+          "ja": "群集生態学"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Ecosystem Ecology",
+          "zh": "生态系统生态学",
+          "es": "Ecología de ecosistemas",
+          "fr": "Écologie des écosystèmes",
+          "de": "Ökosystemökologie",
+          "ja": "生態系生態学"
+        },
+        "feedback": {
+          "en": "While related, ecosystem ecology emphasizes energy flow and chemical cycling within an area, and interactions between the community and physical factors, rather than primarily interspecies competition.",
+          "zh": "虽然相关，但生态系统生态学侧重于区域内的能量流和化学循环，以及群落与物理因素之间的相互作用，而非主要关注物种间的竞争。",
+          "es": "Aunque relacionado, la ecología de ecosistemas enfatiza el flujo de energía y el ciclo químico dentro de un área, y las interacciones entre la comunidad y los factores físicos, en lugar de centrarse principalmente en la competencia interespecífica.",
+          "fr": "Bien que liée, l'écologie des écosystèmes met l'accent sur le flux d'énergie et le cycle chimique au sein d'une zone, et les interactions entre la communauté et les facteurs physiques, plutôt que principalement sur la compétition interspécifique.",
+          "de": "Obwohl verwandt, betont die Ökosystemökologie den Energiefluss und das chemische Recycling innerhalb eines Gebiets sowie die Wechselwirkungen zwischen der Gemeinschaft und physikalischen Faktoren, und nicht primär die zwischenartliche Konkurrenz.",
+          "ja": "関連性はあるものの、生態系生態学は、ある地域内でのエネルギーの流れと物質循環、および群集と物理的要因間の相互作用を強調するものであり、主に種間競争を扱うものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Community ecology examines how interactions between *different species*, such as predation and competition, affect community structure and organization. An invasive plant interacting with a native insect population involves different species competing for resources, which is a core aspect of community ecology.",
+      "zh": "群落生态学研究不同物种间（如捕食和竞争）的相互作用如何影响群落结构和组织。入侵植物与本地昆虫种群之间的相互作用涉及不同物种争夺资源，这是群落生态学的核心方面。",
+      "es": "La ecología de comunidades examina cómo las interacciones entre *diferentes especies*, como la depredación y la competencia, afectan la estructura y organización de la comunidad. Una planta invasora que interactúa con una población de insectos nativos implica que diferentes especies compiten por recursos, lo cual es un aspecto central de la ecología de comunidades.",
+      "fr": "L'écologie des communautés examine comment les interactions entre différentes espèces, telles que la prédation et la compétition, affectent la structure et l'organisation des communautés. Une plante envahissante interagissant avec une population d'insectes indigènes implique différentes espèces en compétition pour les ressources, ce qui est un aspect central de l'écologie des communautés.",
+      "de": "Die Gemeinschaftsökologie untersucht, wie Wechselwirkungen zwischen *verschiedenen Arten*, wie Prädation und Konkurrenz, die Gemeinschaftsstruktur und -organisation beeinflussen. Eine invasive Pflanze, die mit einer heimischen Insektenpopulation interagiert, beinhaltet verschiedene Arten, die um Ressourcen konkurrieren, was ein Kernaspekt der Gemeinschaftsökologie ist.",
+      "ja": "群集生態学は、捕食や競争などの異なる種間の相互作用が、群集の構造と組織にどのように影響するかを研究します。外来植物が在来の昆虫個体群と相互作用する場合、異なる種が資源をめぐって競争しており、これは群集生態学の核心的な側面です。"
+    }
+  },
+  {
+    "page_number": 1214,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, which field of ecology is concerned with how an organism's structure, physiology, and behavior meet the challenges posed by its environment?",
+      "zh": "根据文本，哪个生态学领域关注生物体的结构、生理和行为如何应对环境带来的挑战？",
+      "es": "Según el texto, ¿qué campo de la ecología se ocupa de cómo la estructura, la fisiología y el comportamiento de un organismo se adaptan a los desafíos planteados por su entorno?",
+      "fr": "Selon le texte, quel domaine de l'écologie se préoccupe de la manière dont la structure, la physiologie et le comportement d'un organisme répondent aux défis posés par son environnement ?",
+      "de": "Gemäß dem Text, welcher Bereich der Ökologie befasst sich damit, wie die Struktur, Physiologie und das Verhalten eines Organismus den Herausforderungen seiner Umgebung begegnen?",
+      "ja": "本文によると、生物の構造、生理機能、行動が環境によってもたらされる課題にどのように対応するかに関心がある生態学の分野は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Population Ecology",
+          "zh": "种群生态学",
+          "es": "Ecología de poblaciones",
+          "fr": "Écologie des populations",
+          "de": "Populationsökologie",
+          "ja": "個体群生態学"
+        },
+        "feedback": {
+          "en": "This focuses on the factors affecting the size and changes of a single species' population.",
+          "zh": "这主要关注影响单一物种种群大小和变化的因素。",
+          "es": "Esto se centra en los factores que afectan el tamaño y los cambios de la población de una sola especie.",
+          "fr": "Cela se concentre sur les facteurs affectant la taille et les changements de la population d'une seule espèce.",
+          "de": "Dies konzentriert sich auf die Faktoren, die die Größe und Veränderungen einer einzelnen Artenpopulation beeinflussen.",
+          "ja": "これは単一の種の個体群のサイズと変化に影響を与える要因に焦点を当てています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Community Ecology",
+          "zh": "群落生态学",
+          "es": "Ecología de comunidades",
+          "fr": "Écologie des communautés",
+          "de": "Gemeinschaftsökologie",
+          "ja": "群集生態学"
+        },
+        "feedback": {
+          "en": "This focuses on interactions between different species within an area.",
+          "zh": "这主要关注区域内不同物种间的相互作用。",
+          "es": "Esto se centra en las interacciones entre diferentes especies dentro de un área.",
+          "fr": "Cela se concentre sur les interactions entre différentes espèces au sein d'une zone.",
+          "de": "Dies konzentriert sich auf die Wechselwirkungen zwischen verschiedenen Arten innerhalb eines Gebiets.",
+          "ja": "これは、ある地域内での異なる種間の相互作用に焦点を当てています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Organismal Ecology",
+          "zh": "个体生态学",
+          "es": "Ecología organísmica",
+          "fr": "Écologie des organismes",
+          "de": "Organismenökologie",
+          "ja": "個体生態学"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Ecosystem Ecology",
+          "zh": "生态系统生态学",
+          "es": "Ecología de ecosistemas",
+          "fr": "Écologie des écosystèmes",
+          "de": "Ökosystemökologie",
+          "ja": "生態系生態学"
+        },
+        "feedback": {
+          "en": "This focuses on energy flow and chemical cycling between organisms and the physical environment.",
+          "zh": "这主要关注生物与物理环境之间的能量流和化学循环。",
+          "es": "Esto se centra en el flujo de energía y el ciclo químico entre los organismos y el medio ambiente físico.",
+          "fr": "Cela se concentre sur le flux d'énergie et le cycle chimique entre les organismes et l'environnement physique.",
+          "de": "Dies konzentriert sich auf den Energiefluss und den chemischen Kreislauf zwischen Organismen und der physikalischen Umwelt.",
+          "ja": "これは、生物と物理環境間のエネルギーの流れと物質循環に焦点を当てています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Organismal ecology, which includes the subdisciplines of physiological, evolutionary, and behavioral ecology, is concerned with how an organism's structure, physiology, and behavior meet the challenges posed by its environment.'",
+      "zh": "文本明确指出：“个体生态学，包括生理生态学、进化生态学和行为生态学等亚学科，关注生物体的结构、生理和行为如何应对环境带来的挑战。”",
+      "es": "El texto establece explícitamente: 'La ecología organísmica, que incluye las subdisciplinas de la ecología fisiológica, evolutiva y del comportamiento, se ocupa de cómo la estructura, la fisiología y el comportamiento de un organismo se adaptan a los desafíos planteados por su entorno.'",
+      "fr": "Le texte indique explicitement : « L'écologie des organismes, qui inclut les sous-disciplines de l'écologie physiologique, évolutive et comportementale, s'intéresse à la manière dont la structure, la physiologie et le comportement d'un organisme répondent aux défis posés par son environnement. »",
+      "de": "Der Text besagt explizit: „Die Organismenökologie, die die Teildisziplinen physiologische, evolutionäre und Verhaltensökologie umfasst, befasst sich damit, wie Struktur, Physiologie und Verhalten eines Organismus den Herausforderungen seiner Umgebung begegnen.“",
+      "ja": "本文には明確に「個体生態学は、生理生態学、進化生態学、行動生態学などの下位分野を含み、生物の構造、生理機能、行動が環境によってもたらされる課題にどのように対応するかに関心があります」と記されています。"
+    }
+  },
+  {
+    "page_number": 1214,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A research project investigates how large-scale oceanic current shifts, influenced by melting polar ice caps, impact the dispersal patterns and overall distribution of microscopic marine algae (phytoplankton) across vast ocean regions, potentially affecting global carbon cycles. This study most closely aligns with which level of ecological research described in the text?",
+      "zh": "一项研究项目调查了受极地冰盖融化影响的大规模洋流变化，如何影响微观海洋藻类（浮游植物）在广阔海洋区域的扩散模式和整体分布，并可能影响全球碳循环。这项研究最符合文本中描述的哪个生态学研究层次？",
+      "es": "Un proyecto de investigación investiga cómo los cambios a gran escala en las corrientes oceánicas, influenciados por el derretimiento de los casquetes polares, afectan los patrones de dispersión y la distribución general de las algas marinas microscópicas (fitoplancton) a través de vastas regiones oceánicas, afectando potencialmente los ciclos globales de carbono. ¿Este estudio se alinea más estrechamente con qué nivel de investigación ecológica descrito en el texto?",
+      "fr": "Un projet de recherche étudie comment les changements à grande échelle des courants océaniques, influencés par la fonte des calottes glaciaires polaires, impactent les schémas de dispersion et la distribution globale des algues marines microscopiques (phytoplancton) à travers de vastes régions océaniques, affectant potentiellement les cycles mondiaux du carbone. Cette étude s'aligne le plus étroitement avec quel niveau de recherche écologique décrit dans le texte ?",
+      "de": "Ein Forschungsprojekt untersucht, wie großräumige ozeanische Strömungsverschiebungen, beeinflusst durch schmelzende polare Eiskappen, die Ausbreitungsmuster und die Gesamtverteilung von mikroskopischen Meeresalgen (Phytoplankton) über weite Ozeanregionen beeinflussen und möglicherweise globale Kohlenstoffkreisläufe betreffen. Welche Ebene der im Text beschriebenen ökologischen Forschung entspricht dieser Studie am ehesten?",
+      "ja": "極地の氷冠融解に影響された大規模な海洋循環の変化が、広大な海洋地域における微細な海洋藻類（植物プランクトン）の分散パターンと全体的な分布にどのように影響し、地球規模の炭素循環に影響を与えるかを調査する研究プロジェクトは、本文で説明されている生態学研究のどのレベルに最も近いですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Ecosystem Ecology",
+          "zh": "生态系统生态学",
+          "es": "Ecología de ecosistemas",
+          "fr": "Écologie des écosystèmes",
+          "de": "Ökosystemökologie",
+          "ja": "生態系生態学"
+        },
+        "feedback": {
+          "en": "While energy flow and chemical cycling are mentioned, ecosystem ecology typically focuses on a specific area and its physical factors, not global patterns.",
+          "zh": "虽然提到了能量流和化学循环，但生态系统生态学通常侧重于特定区域及其物理因素，而非全球模式。",
+          "es": "Aunque se mencionan el flujo de energía y el ciclo químico, la ecología de ecosistemas se enfoca típicamente en un área específica y sus factores físicos, no en patrones globales.",
+          "fr": "Bien que le flux d'énergie et le cycle chimique soient mentionnés, l'écologie des écosystèmes se concentre généralement sur une zone spécifique et ses facteurs physiques, et non sur les modèles mondiaux.",
+          "de": "Obwohl Energiefluss und chemisches Recycling erwähnt werden, konzentriert sich die Ökosystemökologie typischerweise auf ein spezifisches Gebiet und seine physikalischen Faktoren, nicht auf globale Muster.",
+          "ja": "エネルギーの流れと物質循環は言及されているものの、生態系生態学は通常、特定の地域とその物理的要因に焦点を当てるものであり、地球規模のパターンではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Landscape Ecology",
+          "zh": "景观生态学",
+          "es": "Ecología del paisaje",
+          "fr": "Écologie du paysage",
+          "de": "Landschaftsökologie",
+          "ja": "景観生態学"
+        },
+        "feedback": {
+          "en": "This level focuses on a mosaic of connected ecosystems and exchanges across them, which is a regional scale, but less encompassing than global patterns affecting the entire biosphere.",
+          "zh": "该层次关注相互连接的生态系统镶嵌体及其间的交换，这属于区域尺度，但不如影响整个生物圈的全球模式那样全面。",
+          "es": "Este nivel se centra en un mosaico de ecosistemas conectados y los intercambios entre ellos, lo cual es una escala regional, pero menos abarcadora que los patrones globales que afectan toda la biosfera.",
+          "fr": "Ce niveau se concentre sur une mosaïque d'écosystèmes connectés et les échanges entre eux, ce qui est une échelle régionale, mais moins englobant que les modèles mondiaux affectant l'ensemble de la biosphère.",
+          "de": "Diese Ebene konzentriert sich auf ein Mosaik verbundener Ökosysteme und den Austausch zwischen ihnen, was ein regionaler Maßstab ist, aber weniger umfassend als globale Muster, die die gesamte Biosphäre betreffen.",
+          "ja": "このレベルは、つながった生態系のモザイクとその間の交換に焦点を当てるもので、地域スケールですが、生物圏全体に影響を与える地球規模のパターンよりも包括的ではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Global Ecology",
+          "zh": "全球生态学",
+          "es": "Ecología global",
+          "fr": "Écologie globale",
+          "de": "Globale Ökologie",
+          "ja": "地球生態学"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Population Ecology",
+          "zh": "种群生态学",
+          "es": "Ecología de poblaciones",
+          "fr": "Écologie des populations",
+          "de": "Populationsökologie",
+          "ja": "個体群生態学"
+        },
+        "feedback": {
+          "en": "This level focuses on factors affecting the size and changes of a single species' population within an area, which is too narrow for the described research scope involving global patterns and multiple regions.",
+          "zh": "该层次关注影响区域内单一物种种群大小和变化的因素，对于涉及全球模式和多个区域的研究范围来说过于狭窄。",
+          "es": "Este nivel se centra en los factores que afectan el tamaño y los cambios de la población de una sola especie dentro de un área, lo cual es demasiado limitado para el alcance de la investigación descrita que involucra patrones globales y múltiples regiones.",
+          "fr": "Ce niveau se concentre sur les facteurs affectant la taille et les changements de la population d'une seule espèce dans une zone, ce qui est trop restreint pour l'étendue de la recherche décrite impliquant des modèles mondiaux et de multiples régions.",
+          "de": "Diese Ebene konzentriert sich auf Faktoren, die die Größe und Veränderungen der Population einer einzelnen Art innerhalb eines Gebiets beeinflussen, was für den beschriebenen Forschungsbereich, der globale Muster und mehrere Regionen umfasst, zu eng gefasst ist.",
+          "ja": "このレベルは、ある地域内での単一種の個体群のサイズと変化に影響を与える要因に焦点を当てるものであり、地球規模のパターンと複数の地域を含む研究範囲としては狭すぎます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Global ecology examines how regional exchanges of energy and materials influence the functioning and distribution of organisms across the *biosphere* (the global ecosystem). The scale described in the question (large-scale oceanic current shifts, global distribution of plankton, global carbon cycles across vast ocean regions) fits perfectly with global ecology, which considers the sum of all the planet's ecosystems and landscapes.",
+      "zh": "全球生态学研究能量和物质的区域交换如何影响生物在生物圈（全球生态系统）中的功能和分布。问题中描述的尺度（大规模洋流变化、浮游生物在全球广阔海洋区域的分布、全球碳循环）与全球生态学完美契合，后者考虑了地球所有生态系统和景观的总和。",
+      "es": "La ecología global examina cómo los intercambios regionales de energía y materiales influyen en el funcionamiento y la distribución de los organismos a través de la *biosfera* (el ecosistema global). La escala descrita en la pregunta (cambios a gran escala en las corrientes oceánicas, distribución global de plancton, ciclos globales de carbono en vastas regiones oceánicas) encaja perfectamente con la ecología global, que considera la suma de todos los ecosistemas y paisajes del planeta.",
+      "fr": "L'écologie globale examine comment les échanges régionaux d'énergie et de matériaux influencent le fonctionnement et la distribution des organismes à travers la *biosphère* (l'écosystème global). L'échelle décrite dans la question (changements à grande échelle des courants océaniques, distribution mondiale du plancton, cycles mondiaux du carbone à travers de vastes régions océaniques) correspond parfaitement à l'écologie globale, qui considère la somme de tous les écosystèmes et paysages de la planète.",
+      "de": "Die globale Ökologie untersucht, wie der regionale Austausch von Energie und Materialien die Funktion und Verteilung von Organismen in der *Biosphäre* (dem globalen Ökosystem) beeinflusst. Der in der Frage beschriebene Maßstab (großräumige ozeanische Strömungsverschiebungen, globale Verteilung von Plankton, globale Kohlenstoffkreisläufe über weite Ozeanregionen) passt perfekt zur globalen Ökologie, die die Summe aller Ökosysteme und Landschaften des Planeten betrachtet.",
+      "ja": "地球生態学は、エネルギーと物質の地域的な交換が、生物圏（地球全体の生態系）における生物の機能と分布にどのように影響するかを研究します。設問で記述されているスケール（大規模な海洋循環の変化、広大な海洋地域におけるプランクトンの地球規模の分布、地球規模の炭素循環）は、地球上のすべての生態系と景観の総和を考慮する地球生態学に完全に合致します。"
+    }
+  }
+]

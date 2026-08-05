@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 411,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which statement correctly describes codons in mRNA?",
+      "zh": "关于mRNA中的密码子，哪项描述是正确的？",
+      "es": "Según el diagrama de una unidad de transcripción, ¿qué enzima es responsable de sintetizar el transcrito de ARN?",
+      "fr": "Quelle affirmation décrit correctement les codons dans l'ARNm ?",
+      "de": "Welche Aussage beschreibt Codons in mRNA korrekt?",
+      "ja": "mRNAにおけるコドンについて、正しい記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Codons are sequences of overlapping nucleotide triplets.",
+          "zh": "密码子是重叠的核苷酸三联体序列。",
+          "es": "Los codones son secuencias de tripletes de nucleótidos superpuestos.",
+          "fr": "Les codons sont des séquences de triplets de nucléotides chevauchants.",
+          "de": "Codons sind Sequenzen überlappender Nukleotid-Tripletts.",
+          "ja": "コドンは重なり合うヌクレオチド三つ組の配列である。"
+        },
+        "feedback": {
+          "en": "Genetic information is encoded as a sequence of nonoverlapping nucleotide triplets.",
+          "zh": "遗传信息是以非重叠的核苷酸三联体序列编码的。",
+          "es": "La información genética se codifica como una secuencia de tripletes de nucleótidos no superpuestos.",
+          "fr": "L'information génétique est codée sous forme de séquences de triplets de nucléotides non chevauchants.",
+          "de": "Genetische Informationen werden als eine Abfolge nicht überlappender Nukleotid-Tripletts codiert.",
+          "ja": "遺伝情報は、非重複するヌクレオチド三つ組の配列として符号化される。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "All 64 possible codons code for specific amino acids.",
+          "zh": "所有64种可能的密码子都编码特定的氨基酸。",
+          "es": "Los 64 codones posibles codifican aminoácidos específicos.",
+          "fr": "Les 64 codons possibles codent tous pour des acides aminés spécifiques.",
+          "de": "Alle 64 möglichen Codons codieren für spezifische Aminosäuren.",
+          "ja": "可能な64種類のコドンすべてが特定のアミノ酸をコードする。"
+        },
+        "feedback": {
+          "en": "61 of the 64 codons translate into amino acids, while 3 codons serve as stop signals.",
+          "zh": "64个密码子中有61个翻译成氨基酸，而3个密码子作为终止信号。",
+          "es": "61 de los 64 codones se traducen en aminoácidos, mientras que 3 codones sirven como señales de parada.",
+          "fr": "61 des 64 codons se traduisent en acides aminés, tandis que 3 codons servent de signaux d'arrêt.",
+          "de": "61 der 64 Codons werden in Aminosäuren übersetzt, während 3 Codons als Stoppsignale dienen.",
+          "ja": "64種類のコドンのうち61種類がアミノ酸に翻訳され、残りの3種類は終止シグナルとして機能する。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Codons must be read in the correct reading frame for proper protein synthesis.",
+          "zh": "为了正确的蛋白质合成，密码子必须在正确的阅读框内读取。",
+          "es": "Los codones deben leerse en el marco de lectura correcto para una síntesis proteica adecuada.",
+          "fr": "Les codons doivent être lus dans le cadre de lecture correct pour une synthèse protéique appropriée.",
+          "de": "Codons müssen im korrekten Leserahmen gelesen werden, um eine ordnungsgemäße Proteinsynthese zu gewährleisten.",
+          "ja": "正しいタンパク質合成のためには、コドンは正しい読み枠で読まれなければならない。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A single codon can specify multiple different amino acids.",
+          "zh": "一个密码子可以指定多种不同的氨基酸。",
+          "es": "Un solo codón puede especificar múltiples aminoácidos diferentes.",
+          "fr": "Un seul codon peut spécifier plusieurs acides aminés différents.",
+          "de": "Ein einzelnes Codon kann mehrere verschiedene Aminosäuren spezifizieren.",
+          "ja": "単一のコドンが複数の異なるアミノ酸を指定することができる。"
+        },
+        "feedback": {
+          "en": "While the genetic code is degenerate (multiple codons can specify the same amino acid), a single codon typically specifies only one amino acid.",
+          "zh": "尽管遗传密码是简并的（多个密码子可以指定相同的氨基酸），但一个单一密码子通常只指定一个氨基酸。",
+          "es": "Si bien el código genético es degenerado (múltiples codones pueden especificar el mismo aminoácido), un solo codón suele especificar solo un aminoácido.",
+          "fr": "Bien que le code génétique soit dégénéré (plusieurs codons peuvent spécifier le même acide aminé), un seul codon ne spécifie généralement qu'un seul acide aminé.",
+          "de": "Obwohl der genetische Code degeneriert ist (mehrere Codons können dieselbe Aminosäure spezifizieren), spezifiziert ein einzelnes Codon typischerweise nur eine Aminosäure.",
+          "ja": "遺伝暗号は縮重している（複数のコドンが同じアミノ酸を指定できる）が、単一のコドンは通常、1つのアミノ酸のみを指定する。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The passage states that 'Codons must be read in the correct reading frame.' This is crucial because a shift in the reading frame due to an insertion or deletion can drastically alter the resulting protein. Also, genetic information is encoded as nonoverlapping triplets, and not all 64 codons specify amino acids (3 are stop codons).",
+      "zh": "文章指出“密码子必须在正确的阅读框内读取”。这一点至关重要，因为插入或删除导致的阅读框移位会极大地改变所产生的蛋白质。此外，遗传信息是以非重叠的三联体编码的，并非所有64个密码子都指定氨基酸（其中3个是终止密码子）。",
+      "es": "El pasaje afirma que 'Los codones deben leerse en el marco de lectura correcto'. Esto es crucial porque un cambio en el marco de lectura debido a una inserción o deleción puede alterar drásticamente la proteína resultante. Además, la información genética se codifica como tripletes no superpuestos, y no todos los 64 codones especifican aminoácidos (3 son codones de parada).",
+      "fr": "Le passage indique que « les codons doivent être lus dans le cadre de lecture correct ». C'est crucial car un décalage du cadre de lecture dû à une insertion ou une délétion peut drastiquement altérer la protéine résultante. De plus, l'information génétique est encodée sous forme de triplets non chevauchants, et tous les 64 codons ne spécifient pas des acides aminés (3 sont des codons stop).",
+      "de": "Der Text besagt, dass 'Codons im korrekten Leserahmen gelesen werden müssen'. Dies ist entscheidend, da eine Verschiebung des Leserahmens aufgrund einer Insertion oder Deletion das resultierende Protein drastisch verändern kann. Außerdem werden genetische Informationen als nicht überlappende Tripletts codiert, und nicht alle 64 Codons spezifizieren Aminosäuren (3 sind Stoppcodons).",
+      "ja": "本文には「コドンは正しい読み枠で読まれなければならない」と述べられています。これは、挿入や欠失による読み枠のシフトが、結果として生じるタンパク質を劇的に変化させる可能性があるため、非常に重要です。また、遺伝情報は非重複の三つ組として符号化されており、64種類のコドンすべてがアミノ酸を指定するわけではありません（3種類は終止コドンです）。"
+    }
+  },
+  {
+    "page_number": 411,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to the diagram of a transcription unit, which enzyme is responsible for synthesizing the RNA transcript?",
+      "zh": "根据转录单位的图示，哪种酶负责合成RNA转录本？",
+      "es": "Según el diagrama de una unidad de transcripción, ¿qué enzima es responsable de sintetizar el transcrito de ARN?",
+      "fr": "Selon le diagramme d'une unité de transcription, quelle enzyme est responsable de la synthèse du transcrit d'ARN ?",
+      "de": "Gemäß dem Diagramm einer Transkriptionseinheit, welches Enzym ist für die Synthese des RNA-Transkripts verantwortlich?",
+      "ja": "転写単位の図によると、RNA転写産物の合成を担当する酵素はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "DNA ligase",
+          "zh": "DNA连接酶",
+          "es": "ADN ligasa",
+          "fr": "ADN ligase",
+          "de": "DNA-Ligase",
+          "ja": "DNAリガーゼ"
+        },
+        "feedback": {
+          "en": "DNA ligase is involved in joining DNA strands, typically in DNA replication or repair, not RNA synthesis.",
+          "zh": "DNA连接酶参与连接DNA链，通常在DNA复制或修复中，而不是RNA合成。",
+          "es": "La ADN ligasa está involucrada en la unión de hebras de ADN, generalmente en la replicación o reparación del ADN, no en la síntesis de ARN.",
+          "fr": "L'ADN ligase est impliquée dans la liaison des brins d'ADN, généralement lors de la réplication ou de la réparation de l'ADN, et non dans la synthèse d'ARN.",
+          "de": "DNA-Ligase ist am Verknüpfen von DNA-Strängen beteiligt, typischerweise bei der DNA-Replikation oder -Reparatur, nicht bei der RNA-Synthese.",
+          "ja": "DNAリガーゼは、DNA鎖の結合に関与し、通常、DNA複製や修復で機能し、RNA合成には関与しない。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "DNA polymerase",
+          "zh": "DNA聚合酶",
+          "es": "ADN polimerasa",
+          "fr": "ADN polymérase",
+          "de": "DNA-Polymerase",
+          "ja": "DNAポリメラーゼ"
+        },
+        "feedback": {
+          "en": "DNA polymerase is involved in DNA replication, synthesizing DNA, not RNA.",
+          "zh": "DNA聚合酶参与DNA复制，合成的是DNA，而不是RNA。",
+          "es": "La ADN polimerasa está involucrada en la replicación del ADN, sintetizando ADN, no ARN.",
+          "fr": "L'ADN polymérase est impliquée dans la réplication de l'ADN, synthétisant l'ADN, pas l'ARN.",
+          "de": "DNA-Polymerase ist an der DNA-Replikation beteiligt und synthetisiert DNA, nicht RNA.",
+          "ja": "DNAポリメラーゼはDNA複製に関与し、DNAを合成する酵素であり、RNAを合成する酵素ではない。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "RNA polymerase",
+          "zh": "RNA聚合酶",
+          "es": "ARN polimerasa",
+          "fr": "ARN polymérase",
+          "de": "RNA-Polymerase",
+          "ja": "RNAポリメラーゼ"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Reverse transcriptase",
+          "zh": "逆转录酶",
+          "es": "Transcriptasa inversa",
+          "fr": "Transcriptase inverse",
+          "de": "Reverse Transkriptase",
+          "ja": "逆転写酵素"
+        },
+        "feedback": {
+          "en": "Reverse transcriptase synthesizes DNA from an RNA template, which is the reverse of transcription.",
+          "zh": "逆转录酶从RNA模板合成DNA，这与转录的方向相反。",
+          "es": "La transcriptasa inversa sintetiza ADN a partir de una plantilla de ARN, lo cual es lo inverso de la transcripción.",
+          "fr": "La transcriptase inverse synthétise l'ADN à partir d'un modèle d'ARN, ce qui est l'inverse de la transcription.",
+          "de": "Reverse Transkriptase synthetisiert DNA aus einer RNA-Matrize, was das Gegenteil der Transkription ist.",
+          "ja": "逆転写酵素はRNAテンプレートからDNAを合成する酵素であり、転写とは逆の過程である。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The diagram clearly labels 'RNA polymerase' as the enzyme responsible for synthesizing the RNA transcript within the transcription unit. The text also states that 'RNA synthesis is catalyzed by RNA polymerase'.",
+      "zh": "图中清晰地将“RNA聚合酶”标记为在转录单位内合成RNA转录本的酶。文中也提到“RNA合成由RNA聚合酶催化”。",
+      "es": "El diagrama etiqueta claramente 'ARN polimerasa' como la enzima responsable de sintetizar el transcrito de ARN dentro de la unidad de transcripción. El texto también establece que 'la síntesis de ARN es catalizada por la ARN polimerasa'.",
+      "fr": "Le diagramme identifie clairement l'« ARN polymérase » comme l'enzyme responsable de la synthèse du transcrit d'ARN au sein de l'unité de transcription. Le texte indique également que « la synthèse d'ARN est catalysée par l'ARN polymérase ».",
+      "de": "Das Diagramm kennzeichnet 'RNA-Polymerase' deutlich als das Enzym, das für die Synthese des RNA-Transkripts innerhalb der Transkriptionseinheit verantwortlich ist. Der Text besagt auch, dass 'die RNA-Synthese durch RNA-Polymerase katalysiert wird'.",
+      "ja": "図には、転写単位内でRNA転写産物を合成する酵素として「RNAポリメラーゼ」が明確に示されています。本文中にも「RNA合成はRNAポリメラーゼによって触媒される」と記載されています。"
+    }
+  },
+  {
+    "page_number": 411,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "What is the most likely consequence if a single nucleotide pair is lost from the middle of the coding sequence of a gene?",
+      "zh": "如果一个基因编码序列的中间丢失了一个核苷酸对，最可能的结果是什么？",
+      "es": "¿Cuál es la consecuencia más probable si se pierde un solo par de nucleótidos del medio de la secuencia codificante de un gen?",
+      "fr": "Quelle est la conséquence la plus probable si une seule paire de nucléotides est perdue au milieu de la séquence codante d'un gène ?",
+      "de": "Was ist die wahrscheinlichste Folge, wenn ein einzelnes Nukleotidpaar aus der Mitte der codierenden Sequenz eines Gens verloren geht?",
+      "ja": "遺伝子のコード配列の途中で単一のヌクレオチド対が失われた場合、最も起こりやすい結果は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A silent mutation, resulting in no change to the amino acid sequence.",
+          "zh": "一种沉默突变，导致氨基酸序列没有变化。",
+          "es": "Una mutación silenciosa, que no produce cambios en la secuencia de aminoácidos.",
+          "fr": "Une mutation silencieuse, n'entraînant aucune modification de la séquence d'acides aminés.",
+          "de": "Eine stille Mutation, die zu keiner Veränderung der Aminosäuresequenz führt.",
+          "ja": "サイレント変異であり、アミノ酸配列に変化はない。"
+        },
+        "feedback": {
+          "en": "A deletion of a single nucleotide pair will shift the reading frame, affecting all subsequent codons. Silent mutations result from base substitutions that do not change the amino acid.",
+          "zh": "单个核苷酸对的缺失会使阅读框发生移位，影响所有后续密码子。沉默突变是由碱基替换引起的，不会改变氨基酸。",
+          "es": "La eliminación de un solo par de nucleótidos desplazará el marco de lectura, afectando a todos los codones posteriores. Las mutaciones silenciosas resultan de sustituciones de bases que no cambian el aminoácido.",
+          "fr": "Une délétion d'une seule paire de nucléotides décalera le cadre de lecture, affectant tous les codons suivants. Les mutations silencieuses résultent de substitutions de bases qui ne modifient pas l'acide aminé.",
+          "de": "Der Verlust eines einzelnen Nukleotidpaares verschiebt den Leserahmen und beeinflusst alle nachfolgenden Codons. Stille Mutationen resultieren aus Basensubstitutionen, die die Aminosäure nicht verändern.",
+          "ja": "単一ヌクレオチド対の欠失は読み枠をずらし、その後のすべてのコドンに影響を与える。サイレント変異は、アミノ酸を変化させない塩基置換によって生じる。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A missense mutation, changing only one amino acid in the resulting polypeptide.",
+          "zh": "一种错义突变，只改变所生成的多肽中的一个氨基酸。",
+          "es": "Una mutación de sentido erróneo, que cambia solo un aminoácido en el polipéptido resultante.",
+          "fr": "Une mutation faux-sens, ne modifiant qu'un seul acide aminé dans le polypeptide résultant.",
+          "de": "Eine Missense-Mutation, die nur eine Aminosäure im resultierenden Polypeptid verändert.",
+          "ja": "ミスセンス変異であり、結果として生じるポリペプチド中の1つのアミノ酸のみが変化する。"
+        },
+        "feedback": {
+          "en": "A missense mutation typically results from a single base substitution that changes one amino acid codon to another. A single nucleotide deletion causes a frameshift, affecting multiple amino acids downstream.",
+          "zh": "错义突变通常是由单个碱基替换引起的，它将一个氨基酸密码子改变为另一个。单个核苷酸缺失会导致移码，影响下游的多个氨基酸。",
+          "es": "Una mutación de sentido erróneo generalmente resulta de una única sustitución de base que cambia un codón de aminoácido por otro. La eliminación de un solo nucleótido provoca un cambio de marco, afectando a múltiples aminoácidos río abajo.",
+          "fr": "Une mutation faux-sens résulte généralement d'une substitution d'une seule base qui change un codon d'acide aminé en un autre. Une délétion d'un seul nucléotide provoque un décalage du cadre de lecture, affectant plusieurs acides aminés en aval.",
+          "de": "Eine Missense-Mutation resultiert typischerweise aus einer einzelnen Basensubstitution, die ein Aminosäure-Codon in ein anderes umwandelt. Eine einzelne Nukleotid-Deletion verursacht eine Frameshift-Mutation, die mehrere nachfolgende Aminosäuren beeinflusst.",
+          "ja": "ミスセンス変異は通常、単一の塩基置換によって引き起こされ、1つのアミノ酸コドンが別のコドンに変化する。単一ヌクレオチドの欠失はフレームシフトを引き起こし、下流の複数のアミノ酸に影響を与える。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A frameshift mutation, leading to extensive changes in the amino acid sequence downstream and potentially a premature stop codon.",
+          "zh": "一种移码突变，导致下游氨基酸序列发生广泛变化，并可能产生过早的终止密码子。",
+          "es": "Una mutación de cambio de marco, que provoca cambios extensos en la secuencia de aminoácidos río abajo y potencialmente un codón de parada prematuro.",
+          "fr": "Une mutation par décalage du cadre de lecture, entraînant des modifications étendues de la séquence d'acides aminés en aval et potentiellement un codon stop prématuré.",
+          "de": "Eine Frameshift-Mutation, die zu umfassenden Veränderungen in der Aminosäuresequenz stromabwärts und möglicherweise zu einem vorzeitigen Stoppcodon führt.",
+          "ja": "フレームシフト変異であり、下流のアミノ酸配列に広範な変化をもたらし、場合によっては早期終止コドンが生じる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A nonsense mutation, immediately causing a premature stop codon without any preceding amino acid changes.",
+          "zh": "一种无义突变，立即引起过早的终止密码子，而没有先前的氨基酸变化。",
+          "es": "Una mutación sin sentido, que causa inmediatamente un codón de parada prematuro sin cambios previos en los aminoácidos.",
+          "fr": "Une mutation non-sens, provoquant immédiatement un codon stop prématuré sans aucune modification préalable des acides aminés.",
+          "de": "Eine Nonsense-Mutation, die sofort ein vorzeitiges Stoppcodon verursacht, ohne vorherige Aminosäureveränderungen.",
+          "ja": "ナンセンス変異であり、先行するアミノ酸変化なしに直ちに早期終止コドンが生じる。"
+        },
+        "feedback": {
+          "en": "While a premature stop codon can result from a frameshift, it's not necessarily 'immediately' or 'without any preceding amino acid changes' when the deletion occurs in the middle of the coding sequence. A nonsense mutation is specifically a base substitution that converts an amino acid codon into a stop codon.",
+          "zh": "尽管移码突变可能导致过早的终止密码子，但当缺失发生在编码序列中间时，不一定会“立即”发生或“没有任何先前氨基酸变化”。无义突变特指将氨基酸密码子转换为终止密码子的碱基替换。",
+          "es": "Aunque un codón de parada prematuro puede resultar de un cambio de marco, no es necesariamente 'inmediatamente' o 'sin cambios previos de aminoácidos' cuando la eliminación ocurre en el medio de la secuencia codificante. Una mutación sin sentido es específicamente una sustitución de base que convierte un codón de aminoácido en un codón de parada.",
+          "fr": "Bien qu'un codon stop prématuré puisse résulter d'un décalage du cadre de lecture, il n'est pas nécessairement 'immédiatement' ou 'sans aucune modification préalable des acides aminés' lorsque la délétion se produit au milieu de la séquence codante. Une mutation non-sens est spécifiquement une substitution de base qui convertit un codon d'acide aminé en un codon stop.",
+          "de": "Obwohl ein vorzeitiges Stoppcodon aus einer Frameshift-Mutation resultieren kann, tritt es nicht notwendigerweise 'sofort' oder 'ohne vorherige Aminosäureveränderungen' auf, wenn die Deletion in der Mitte der codierenden Sequenz erfolgt. Eine Nonsense-Mutation ist spezifisch eine Basensubstitution, die ein Aminosäure-Codon in ein Stoppcodon umwandelt.",
+          "ja": "フレームシフトによって早期終止コドンが生じることはあるが、コーディング配列の途中で欠失が発生した場合、「直ちに」または「先行するアミノ酸変化なしに」生じるわけではない。ナンセンス変異は、アミノ酸コドンを終止コドンに変換する塩基置換を指す。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The passage highlights the importance of the 'correct reading frame' for codons. Losing a single nucleotide pair from the middle of a coding sequence would cause a frameshift mutation, where all subsequent codons are read incorrectly. This typically leads to a drastically altered amino acid sequence and often results in a premature stop codon, producing a truncated, non-functional protein.",
+      "zh": "文章强调了密码子“正确阅读框”的重要性。在编码序列中间丢失一个核苷酸对会导致移码突变，使所有后续密码子被错误读取。这通常会导致氨基酸序列的剧烈改变，并常常产生一个过早的终止密码子，从而生成一个截短的、无功能的蛋白质。",
+      "es": "El pasaje subraya la importancia del 'marco de lectura correcto' para los codones. Perder un solo par de nucleótidos del medio de una secuencia codificante causaría una mutación de cambio de marco, donde todos los codones posteriores se leerían incorrectamente. Esto típicamente conduce a una secuencia de aminoácidos drásticamente alterada y a menudo resulta en un codón de parada prematuro, produciendo una proteína truncada y no funcional.",
+      "fr": "Le passage souligne l'importance du « cadre de lecture correct » pour les codons. La perte d'une seule paire de nucléotides au milieu d'une séquence codante provoquerait une mutation par décalage du cadre de lecture, où tous les codons ultérieurs seraient lus incorrectement. Cela entraîne généralement une séquence d'acides aminés radicalement altérée et aboutit souvent à un codon stop prématuré, produisant une protéine tronquée et non fonctionnelle.",
+      "de": "Der Abschnitt betont die Bedeutung des 'korrekten Leserahmens' für Codons. Der Verlust eines einzelnen Nukleotidpaares aus der Mitte einer codierenden Sequenz würde eine Frameshift-Mutation verursachen, bei der alle nachfolgenden Codons falsch gelesen werden. Dies führt typischerweise zu einer drastisch veränderten Aminosäuresequenz und oft zu einem vorzeitigen Stoppcodon, wodurch ein verkürztes, nicht-funktionsfähiges Protein entsteht.",
+      "ja": "本文は、コドンの「正しい読み枠」の重要性を強調しています。コード配列の途中で単一のヌクレオチド対が失われると、フレームシフト変異が発生し、その後のすべてのコドンが誤って読み取られます。これは通常、アミノ酸配列の劇的な変化を引き起こし、多くの場合、早期終止コドンが生じ、切断された機能不全のタンパク質が生成されます。"
+    }
+  },
+  {
+    "page_number": 411,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following modifications is NOT typically part of RNA processing in eukaryotic cells?",
+      "zh": "以下哪项修饰通常不属于真核细胞RNA加工的一部分？",
+      "es": "¿Cuál de las siguientes modificaciones NO es típicamente parte del procesamiento de ARN en células eucariotas?",
+      "fr": "Laquelle des modifications suivantes ne fait PAS typiquement partie du traitement de l'ARN dans les cellules eucaryotes ?",
+      "de": "Welche der folgenden Modifikationen ist typischerweise KEIN Teil der RNA-Prozessierung in eukaryotischen Zellen?",
+      "ja": "次の修飾のうち、真核細胞におけるRNAプロセシングの典型的な一部ではないものはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Addition of a modified nucleotide 5' cap to the 5' end.",
+          "zh": "在5'端添加修饰的核苷酸5'帽。",
+          "es": "Adición de una caperuza 5' de nucleótido modificado al extremo 5'.",
+          "fr": "Ajout d'une coiffe 5' de nucléotide modifié à l'extrémité 5'.",
+          "de": "Addition einer modifizierten Nukleotid-5'-Kappe am 5'-Ende.",
+          "ja": "5'末端への修飾ヌクレオチド5'キャップの付加。"
+        },
+        "feedback": {
+          "en": "This is a key step in eukaryotic RNA processing, as mentioned in the text: 'addition of a modified nucleotide 5' cap to the 5' end'.",
+          "zh": "这是真核RNA加工的关键步骤，文中提到：“在5'端添加修饰的核苷酸5'帽”。",
+          "es": "Este es un paso clave en el procesamiento de ARN eucariota, como se menciona en el texto: 'adición de una caperuza 5' de nucleótido modificado al extremo 5''.",
+          "fr": "C'est une étape clé du traitement de l'ARN eucaryote, comme mentionné dans le texte : « l'ajout d'une coiffe 5' de nucléotide modifié à l'extrémité 5' ».",
+          "de": "Dies ist ein Schlüsselschritt in der eukaryotischen RNA-Prozessierung, wie im Text erwähnt: 'Addition einer modifizierten Nukleotid-5'-Kappe am 5'-Ende'.",
+          "ja": "これは真核生物のRNAプロセシングにおける重要なステップであり、テキストに「5'末端への修飾ヌクレオチド5'キャップの付加」と記載されている。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Addition of a poly-A tail to the 3' end.",
+          "zh": "在3'端添加poly-A尾巴。",
+          "es": "Adición de una cola poli-A al extremo 3'.",
+          "fr": "Ajout d'une queue poly-A à l'extrémité 3'.",
+          "de": "Addition eines Poly-A-Schwanzes am 3'-Ende.",
+          "ja": "3'末端へのポリAテールの付加。"
+        },
+        "feedback": {
+          "en": "This is a key step in eukaryotic RNA processing, as mentioned in the text: 'addition of a poly-A tail to the 3' end'.",
+          "zh": "这是真核RNA加工的关键步骤，文中提到：“在3'端添加poly-A尾巴”。",
+          "es": "Este es un paso clave en el procesamiento de ARN eucariota, como se menciona en el texto: 'adición de una cola poli-A al extremo 3''.",
+          "fr": "C'est une étape clé du traitement de l'ARN eucaryote, comme mentionné dans le texte : « l'ajout d'une queue poly-A à l'extrémité 3' ».",
+          "de": "Dies ist ein Schlüsselschritt in der eukaryotischen RNA-Prozessierung, wie im Text erwähnt: 'Addition eines Poly-A-Schwanzes am 3'-Ende'.",
+          "ja": "これは真核生物のRNAプロセシングにおける重要なステップであり、テキストに「3'末端へのポリAテールの付加」と記載されている。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Removal of exons and joining of introns.",
+          "zh": "去除外显子并连接内含子。",
+          "es": "Eliminación de exones y unión de intrones.",
+          "fr": "Suppression des exons et jonction des introns.",
+          "de": "Entfernung von Exons und Verknüpfung von Introns.",
+          "ja": "エキソンの除去とイントロンの結合。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "RNA splicing to remove introns.",
+          "zh": "RNA剪接以去除内含子。",
+          "es": "Empalme de ARN para eliminar intrones.",
+          "fr": "Épissage de l'ARN pour supprimer les introns.",
+          "de": "RNA-Splicing zur Entfernung von Introns.",
+          "ja": "イントロンを除去するためのRNAスプライシング。"
+        },
+        "feedback": {
+          "en": "RNA splicing is a crucial part of RNA processing where introns are removed and exons are joined. This option accurately describes half of the process, but the full process is removal of introns and joining of exons.",
+          "zh": "RNA剪接是RNA加工的关键部分，其中内含子被去除，外显子被连接。这个选项准确地描述了过程的一半，但完整的过程是去除内含子并连接外显子。",
+          "es": "El empalme de ARN es una parte crucial del procesamiento de ARN donde se eliminan los intrones y se unen los exones. Esta opción describe con precisión la mitad del proceso, pero el proceso completo es la eliminación de intrones y la unión de exones.",
+          "fr": "L'épissage de l'ARN est une partie cruciale du traitement de l'ARN où les introns sont retirés et les exons sont liés. Cette option décrit avec précision la moitié du processus, mais le processus complet est l'élimination des introns et la jonction des exons.",
+          "de": "RNA-Splicing ist ein entscheidender Teil der RNA-Prozessierung, bei dem Introns entfernt und Exons zusammengefügt werden. Diese Option beschreibt die Hälfte des Prozesses genau, aber der vollständige Prozess ist die Entfernung von Introns und das Zusammenfügen von Exons.",
+          "ja": "RNAスプライシングは、イントロンが除去され、エキソンが結合されるRNAプロセシングの重要な部分である。この選択肢はプロセスの半分を正確に記述しているが、完全なプロセスはイントロンの除去とエキソンの結合である。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The passage states: 'In RNA splicing, introns are removed and exons joined.' Option C incorrectly states 'Removal of exons and joining of introns', which is the reverse of what happens. Options A, B, and D all describe correct parts of eukaryotic RNA processing.",
+      "zh": "文中指出：“在RNA剪接中，内含子被去除，外显子被连接。”选项C错误地表述为“去除外显子并连接内含子”，这与实际情况相反。选项A、B和D都描述了真核RNA加工的正确部分。",
+      "es": "El pasaje afirma: 'En el empalme de ARN, los intrones se eliminan y los exones se unen'. La opción C establece incorrectamente 'Eliminación de exones y unión de intrones', que es lo contrario de lo que sucede. Las opciones A, B y D describen partes correctas del procesamiento de ARN eucariota.",
+      "fr": "Le passage indique : « Lors de l'épissage de l'ARN, les introns sont retirés et les exons sont joints. » L'option C énonce incorrectement « Suppression des exons et jonction des introns », ce qui est l'inverse de ce qui se passe. Les options A, B et D décrivent toutes des étapes correctes du traitement de l'ARN eucaryote.",
+      "de": "Der Abschnitt besagt: 'Beim RNA-Splicing werden Introns entfernt und Exons verbunden.' Option C besagt fälschlicherweise 'Entfernung von Exons und Verknüpfung von Introns', was das Gegenteil dessen ist, was passiert. Die Optionen A, B und D beschreiben alle korrekte Teile der eukaryotischen RNA-Prozessierung.",
+      "ja": "本文には「RNAスプライシングでは、イントロンが除去され、エキソンが結合される」と記載されています。選択肢Cは「エキソンの除去とイントロンの結合」と誤って述べており、これは実際の逆の出来事です。選択肢A、B、およびDはすべて、真核生物のRNAプロセシングの正しい部分を記述しています。"
+    }
+  }
+]

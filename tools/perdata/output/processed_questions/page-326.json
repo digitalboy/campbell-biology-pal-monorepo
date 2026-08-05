@@ -1,0 +1,182 @@
+[
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In a monohybrid cross between two F1 heterozygotes (Rr), what is the probability of an F2 offspring having the genotype RR?",
+      "zh": "在两个F1代杂合子（Rr）的单基因杂交中，F2代后代出现RR基因型的概率是多少？",
+      "es": "En un cruce monohíbrido entre dos heterocigotos F1 (Rr), ¿cuál es la probabilidad de que una descendencia F2 tenga el genotipo RR?",
+      "fr": "Dans un croisement monohybride entre deux hétérozygotes F1 (Rr), quelle est la probabilité qu'un descendant F2 ait le génotype RR ?",
+      "de": "Wie hoch ist bei einer monohybriden Kreuzung zwischen zwei F1-Heterozygoten (Rr) die Wahrscheinlichkeit, dass ein F2-Nachkomme den Genotyp RR hat?",
+      "ja": "2つのF1ヘテロ接合体（Rr）間の単性雑種交配において、F2の子孫がRRの遺伝子型を持つ確率はどれくらいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "1/2",
+          "zh": "1/2",
+          "es": "1/2",
+          "fr": "1/2",
+          "de": "1/2",
+          "ja": "1/2"
+        },
+        "feedback": {
+          "en": "1/2 is the probability of an egg or sperm carrying the R allele, but to get RR, both egg and sperm must carry R. You need to use the multiplication rule.",
+          "zh": "1/2是卵子或精子携带R等位基因的概率，但要得到RR，卵子和精子都必须携带R。你需要使用乘法法则。",
+          "es": "1/2 es la probabilidad de que un óvulo o un espermatozoide porte el alelo R, pero para obtener RR, tanto el óvulo como el espermatozoide deben portar R. Debe usar la regla de la multiplicación.",
+          "fr": "1/2 est la probabilité qu'un ovule ou un spermatozoïde porte l'allèle R, mais pour obtenir RR, l'ovule et le spermatozoïde doivent tous deux porter R. Vous devez utiliser la règle de multiplication.",
+          "de": "1/2 ist die Wahrscheinlichkeit, dass eine Eizelle oder ein Spermium das R-Allel trägt, aber um RR zu erhalten, müssen sowohl Eizelle als auch Spermium R tragen. Sie müssen die Multiplikationsregel anwenden.",
+          "ja": "1/2は卵子または精子がR対立遺伝子を持つ確率ですが、RRを得るには卵子と精子の両方がRを持つ必要があります。乗法の法則を使用する必要があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "1/4",
+          "zh": "1/4",
+          "es": "1/4",
+          "fr": "1/4",
+          "de": "1/4",
+          "ja": "1/4"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "3/4",
+          "zh": "3/4",
+          "es": "3/4",
+          "fr": "3/4",
+          "de": "3/4",
+          "ja": "3/4"
+        },
+        "feedback": {
+          "en": "This is the probability of the dominant phenotype (purple flowers), which includes both RR and Rr genotypes.",
+          "zh": "这是显性表现型（紫花）的概率，它包括RR和Rr两种基因型。",
+          "es": "Esta es la probabilidad del fenotipo dominante (flores púrpuras), que incluye los genotipos RR y Rr.",
+          "fr": "C'est la probabilité du phénotype dominant (fleurs violettes), qui inclut les génotypes RR et Rr.",
+          "de": "Dies ist die Wahrscheinlichkeit des dominanten Phänotyps (lila Blüten), der sowohl die Genotypen RR als auch Rr umfasst.",
+          "ja": "これは、RRとRrの両方の遺伝子型を含む優性表現型（紫色の花）の確率です。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "1",
+          "zh": "1",
+          "es": "1",
+          "fr": "1",
+          "de": "1",
+          "ja": "1"
+        },
+        "feedback": {
+          "en": "A probability of 1 means the event is certain. It is not certain that an offspring will have the RR genotype.",
+          "zh": "概率为1意味着事件必然发生。后代拥有RR基因型并非必然事件。",
+          "es": "Una probabilidad de 1 significa que el evento es seguro. No es seguro que una descendencia tenga el genotipo RR.",
+          "fr": "Une probabilité de 1 signifie que l'événement est certain. Il n'est pas certain qu'un descendant aura le génotype RR.",
+          "de": "Eine Wahrscheinlichkeit von 1 bedeutet, dass das Ereignis sicher ist. Es ist nicht sicher, dass ein Nachkomme den Genotyp RR haben wird.",
+          "ja": "確率1は、イベントが確実であることを意味します。子孫がRR遺伝子型を持つことは確実ではありません。"
+        }
+      }
+    ],
+    "correct_answers": ["B"],
+    "explanation": {
+      "en": "The probability of an egg carrying the R allele is 1/2, and the probability of a sperm carrying the R allele is 1/2. Using the multiplication rule for independent events, the probability of an RR offspring is 1/2 * 1/2 = 1/4.",
+      "zh": "卵子携带R等位基因的概率是1/2，精子携带R等位基因的概率也是1/2。根据独立事件的乘法法则，RR后代的概率是 1/2 * 1/2 = 1/4。",
+      "es": "La probabilidad de que un óvulo porte el alelo R es de 1/2, y la probabilidad de que un espermatozoide porte el alelo R es de 1/2. Usando la regla de la multiplicación para eventos independientes, la probabilidad de una descendencia RR es 1/2 * 1/2 = 1/4.",
+      "fr": "La probabilité qu'un ovule porte l'allèle R est de 1/2, et la probabilité qu'un spermatozoïde porte l'allèle R est de 1/2. En utilisant la règle de multiplication pour les événements indépendants, la probabilité d'un descendant RR est de 1/2 * 1/2 = 1/4.",
+      "de": "Die Wahrscheinlichkeit, dass eine Eizelle das R-Allel trägt, beträgt 1/2, und die Wahrscheinlichkeit, dass ein Spermium das R-Allel trägt, beträgt 1/2. Unter Anwendung der Multiplikationsregel für unabhängige Ereignisse beträgt die Wahrscheinlichkeit eines RR-Nachkommen 1/2 * 1/2 = 1/4.",
+      "ja": "卵子がR対立遺伝子を持つ確率は1/2であり、精子がR対立遺伝子を持つ確率も1/2です。独立した事象の乗法の法則を使用すると、RRの子孫の確率は1/2 * 1/2 = 1/4になります。"
+    }
+  },
+  {
+    "difficulty": "medium",
+    "question_text": {
+      "en": "To calculate the probability of an F2 offspring being heterozygous (Rr), which rule of probability should be used and why?",
+      "zh": "要计算F2代后代是杂合子（Rr）的概率，应该使用哪个概率法则，为什么？",
+      "es": "Para calcular la probabilidad de que una descendencia F2 sea heterocigota (Rr), ¿qué regla de probabilidad se debe usar y por qué?",
+      "fr": "Pour calculer la probabilité qu'un descendant F2 soit hétérozygote (Rr), quelle règle de probabilité faut-il utiliser et pourquoi ?",
+      "de": "Welche Wahrscheinlichkeitsregel sollte verwendet werden, um die Wahrscheinlichkeit zu berechnen, dass ein F2-Nachkomme heterozygot (Rr) ist, und warum?",
+      "ja": "F2の子孫がヘテロ接合体（Rr）である確率を計算するには、どの確率の法則を使用すべきですか？また、その理由は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The multiplication rule, because the egg and sperm must both carry the same allele.",
+          "zh": "乘法法则，因为卵子和精子都必须携带相同的等位基因。",
+          "es": "La regla de la multiplicación, porque tanto el óvulo como el espermatozoide deben portar el mismo alelo.",
+          "fr": "La règle de multiplication, car l'ovule et le spermatozoïde doivent tous deux porter le même allèle.",
+          "de": "Die Multiplikationsregel, da sowohl Eizelle als auch Spermium dasselbe Allel tragen müssen.",
+          "ja": "乗法の法則。なぜなら、卵子と精子の両方が同じ対立遺伝子を持つ必要があるからです。"
+        },
+        "feedback": {
+          "en": "For a heterozygous offspring, the egg and sperm must carry different alleles.",
+          "zh": "对于杂合子后代，卵子和精子必须携带不同的等位基因。",
+          "es": "Para una descendencia heterocigota, el óvulo y el espermatozoide deben portar alelos diferentes.",
+          "fr": "Pour un descendant hétérozygote, l'ovule et le spermatozoïde doivent porter des allèles différents.",
+          "de": "Für einen heterozygoten Nachkommen müssen Eizelle und Spermium unterschiedliche Allele tragen.",
+          "ja": "ヘテロ接合体の子孫の場合、卵子と精子は異なる対立遺伝子を持つ必要があります。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The addition rule, because there is only one way to form a heterozygous offspring.",
+          "zh": "加法法则，因为只有一种方式可以形成杂合子后代。",
+          "es": "La regla de la suma, porque solo hay una forma de formar una descendencia heterocigota.",
+          "fr": "La règle de l'addition, car il n'y a qu'une seule façon de former un descendant hétérozygote.",
+          "de": "Die Additionsregel, da es nur eine Möglichkeit gibt, einen heterozygoten Nachkommen zu bilden.",
+          "ja": "加法の法則。なぜなら、ヘテロ接合体の子孫を形成する方法は1つしかないからです。"
+        },
+        "feedback": {
+          "en": "There are two mutually exclusive ways: the dominant allele can come from the egg and the recessive from the sperm, OR vice versa.",
+          "zh": "有两种互斥的方式：显性等位基因可以来自卵子，隐性等位基因来自精子，反之亦然。",
+          "es": "Hay dos formas mutuamente excluyentes: el alelo dominante puede provenir del óvulo y el recesivo del espermatozoide, O viceversa.",
+          "fr": "Il existe deux manières mutuellement exclusives : l'allèle dominant peut provenir de l'ovule et le récessif du spermatozoïde, OU vice versa.",
+          "de": "Es gibt zwei sich gegenseitig ausschließende Möglichkeiten: Das dominante Allel kann von der Eizelle und das rezessive vom Spermium stammen ODER umgekehrt.",
+          "ja": "相互に排他的な2つの方法があります。優性対立遺伝子は卵子から、劣性対立遺伝子は精子から来る場合、またはその逆の場合です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The addition rule, because a heterozygous offspring can be formed in two mutually exclusive ways.",
+          "zh": "加法法则，因为杂合子后代可以通过两种互斥的方式形成。",
+          "es": "La regla de la suma, porque una descendencia heterocigota se puede formar de dos maneras mutuamente excluyentes.",
+          "fr": "La règle de l'addition, car un descendant hétérozygote peut être formé de deux manières mutuellement exclusives.",
+          "de": "Die Additionsregel, da ein heterozygoter Nachkomme auf zwei sich gegenseitig ausschließende Weisen gebildet werden kann.",
+          "ja": "加法の法則。なぜなら、ヘテロ接合体の子孫は2つの相互に排他的な方法で形成できるからです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The multiplication rule, because the events are not independent.",
+          "zh": "乘法法则，因为事件不是独立的。",
+          "es": "La regla de la multiplicación, porque los eventos no son independientes.",
+          "fr": "La règle de multiplication, car les événements ne sont pas indépendants.",
+          "de": "Die Multiplikationsregel, da die Ereignisse nicht unabhängig sind.",
+          "ja": "乗法の法則。なぜなら、イベントは独立していないからです。"
+        },
+        "feedback": {
+          "en": "The multiplication rule applies to independent events. The formation of egg and sperm gametes are considered independent events.",
+          "zh": "乘法法则适用于独立事件。卵子和精子配子的形成被认为是独立事件。",
+          "es": "La regla de la multiplicación se aplica a eventos independientes. La formación de gametos de óvulos y espermatozoides se consideran eventos independientes.",
+          "fr": "La règle de multiplication s'applique aux événements indépendants. La formation des gamètes ovules et spermatozoïdes est considérée comme des événements indépendants.",
+          "de": "Die Multiplikationsregel gilt für unabhängige Ereignisse. Die Bildung von Eizellen- und Spermiengameten wird als unabhängige Ereignisse betrachtet.",
+          "ja": "乗法の法則は、独立した事象に適用されます。卵子と精子の配偶子の形成は、独立した事象と見なされます。"
+        }
+      }
+    ],
+    "correct_answers": ["C"],
+    "explanation": {
+      "en": "A heterozygous offspring (Rr) can be formed in two ways: the egg is R (prob 1/2) AND the sperm is r (prob 1/2), OR the egg is r (prob 1/2) AND the sperm is R (prob 1/2). The probability of the first way is 1/4 (multiplication rule). The probability of the second way is also 1/4. Since these are mutually exclusive events, we use the addition rule to find the total probability: 1/4 + 1/4 = 1/2.",
+      "zh": "杂合子后代（Rr）可以通过两种方式形成：卵子是R（概率1/2）且精子是r（概率1/2），或者卵子是r（概率1/2）且精子是R（概率1/2）。第一种方式的概率是1/4（乘法法则）。第二种方式的概率也是1/4。由于这些是互斥事件，我们使用加法法则来计算总概率：1/4 + 1/4 = 1/2。",
+      "es": "Una descendencia heterocigota (Rr) se puede formar de dos maneras: el óvulo es R (prob 1/2) Y el espermatozoide es r (prob 1/2), O el óvulo es r (prob 1/2) Y el espermatozoide es R (prob 1/2). La probabilidad de la primera forma es 1/4 (regla de la multiplicación). La probabilidad de la segunda forma también es 1/4. Como estos son eventos mutuamente excluyentes, usamos la regla de la suma para encontrar la probabilidad total: 1/4 + 1/4 = 1/2.",
+      "fr": "Un descendant hétérozygote (Rr) peut être formé de deux manières : l'ovule est R (prob 1/2) ET le spermatozoïde est r (prob 1/2), OU l'ovule est r (prob 1/2) ET le spermatozoïde est R (prob 1/2). La probabilité de la première manière est de 1/4 (règle de multiplication). La probabilité de la deuxième manière est également de 1/4. Comme ce sont des événements mutuellement exclusifs, nous utilisons la règle de l'addition pour trouver la probabilité totale : 1/4 + 1/4 = 1/2.",
+      "de": "Ein heterozygoter Nachkomme (Rr) kann auf zwei Arten gebildet werden: Die Eizelle ist R (Wahrscheinlichkeit 1/2) UND das Spermium ist r (Wahrscheinlichkeit 1/2), ODER die Eizelle ist r (Wahrscheinlichkeit 1/2) UND das Spermium ist R (Wahrscheinlichkeit 1/2). Die Wahrscheinlichkeit der ersten Möglichkeit beträgt 1/4 (Multiplikationsregel). Die Wahrscheinlichkeit der zweiten Möglichkeit beträgt ebenfalls 1/4. Da dies sich gegenseitig ausschließende Ereignisse sind, verwenden wir die Additionsregel, um die Gesamtwahrscheinlichkeit zu ermitteln: 1/4 + 1/4 = 1/2.",
+      "ja": "ヘテロ接合体の子孫（Rr）は2つの方法で形成できます。卵子がR（確率1/2）で精子がr（確率1/2）である場合、または卵子がr（確率1/2）で精子がR（確率1/2）である場合です。最初の方法の確率は1/4（乗法の法則）です。2番目の方法の確率も1/4です。これらは相互に排他的な事象であるため、加法の法則を使用して合計確率を求めます：1/4 + 1/4 = 1/2。"
+    }
+  }
+]

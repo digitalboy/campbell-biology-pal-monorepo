@@ -1,0 +1,385 @@
+[
+  {
+    "page_number": 449,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describe a structural or genomic feature of the viruses discussed in the provided text?",
+      "zh": "以下哪项陈述准确描述了所提供文本中讨论的病毒的结构或基因组特征？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión una característica estructural o genómica de los virus discutidos en el texto proporcionado?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision une caractéristique structurelle ou génomique des virus abordés dans le texte fourni ?",
+      "de": "Welche der folgenden Aussagen beschreibt zutreffend ein strukturelles oder genomisches Merkmal der im bereitgestellten Text besprochenen Viren?",
+      "ja": "提供されたテキストで議論されているウイルス構造またはゲノムの特徴を正確に説明しているのは、次の記述のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Tobacco mosaic virus (TMV) is characterized by a rod-shaped, helical capsid and a single helical RNA molecule.",
+          "zh": "烟草花叶病毒（TMV）的特征是棒状螺旋衣壳和单一螺旋RNA分子。",
+          "es": "El virus del mosaico del tabaco (TMV) se caracteriza por una cápside helicoidal en forma de varilla y una única molécula de ARN helicoidal.",
+          "fr": "Le virus de la mosaïque du tabac (TMV) est caractérisé par une capside hélicoïdale en forme de bâtonnet et une seule molécule d'ARN hélicoïdal.",
+          "de": "Das Tabakmosaikvirus (TMV) zeichnet sich durch ein stäbchenförmiges, helikales Kapsid und ein einzelnes helikales RNA-Molekül aus.",
+          "ja": "タバコモザイクウイルス（TMV）は、棒状のらせん状カプシドと一本のらせん状RNA分子を特徴とします。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Adenoviruses have an icosahedral capsid and contain double-stranded DNA.",
+          "zh": "腺病毒具有二十面体衣壳，并含有双链DNA。",
+          "es": "Los adenovirus tienen una cápside icosaédrica y contienen ADN de doble cadena.",
+          "fr": "Les adénovirus ont une capside icosaédrique et contiennent de l'ADN double brin.",
+          "de": "Adenoviren besitzen ein ikosaedrisches Kapsid und enthalten doppelsträngige DNA.",
+          "ja": "アデノウイルスは二十面体カプシドを持ち、二本鎖DNAを含みます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Influenza viruses acquire a membranous envelope, containing both host cell phospholipids and viral glycoproteins, from the host cell.",
+          "zh": "流感病毒从宿主细胞获取膜性包膜，其中包含宿主细胞磷脂和病毒糖蛋白。",
+          "es": "Los virus de la gripe adquieren una envoltura membranosa, que contiene tanto fosfolípidos de la célula huésped como glicoproteínas virales, de la célula huésped.",
+          "fr": "Les virus de la grippe acquièrent une enveloppe membranaire, contenant à la fois des phospholipides de la cellule hôte et des glycoprotéines virales, de la cellule hôte.",
+          "de": "Influenzaviren erwerben eine Membranhülle von der Wirtszelle, die sowohl Wirtszell-Phospholipide als auch virale Glykoproteine enthält.",
+          "ja": "インフルエンザウイルスは、宿主細胞から宿主細胞リン脂質とウイルス糖タンパク質の両方を含む膜状エンベロープを獲得します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Bacteriophage T4 possesses a simple, rod-shaped capsid and uses single-stranded RNA as its genetic material.",
+          "zh": "T4噬菌体具有简单的棒状衣壳，并使用单链RNA作为其遗传物质。",
+          "es": "El bacteriófago T4 posee una cápside simple en forma de varilla y utiliza ARN de cadena simple como su material genético.",
+          "fr": "Le bactériophage T4 possède une capside simple en forme de bâtonnet et utilise de l'ARN simple brin comme matériel génétique.",
+          "de": "Bakteriophage T4 besitzt ein einfaches, stäbchenförmiges Kapsid und verwendet einzelsträngige RNA als genetisches Material.",
+          "ja": "バクテリオファージT4は、単純な棒状カプシドを持ち、一本鎖RNAを遺伝物質として使用します。"
+        },
+        "feedback": {
+          "en": "Bacteriophage T4 has a complex capsid, not a simple rod-shaped one, and its genetic material is double-stranded DNA, not single-stranded RNA.",
+          "zh": "T4噬菌体拥有复杂的衣壳，而非简单的棒状衣壳；其遗传物质是双链DNA，而非单链RNA。",
+          "es": "El bacteriófago T4 tiene una cápside compleja, no una simple en forma de varilla, y su material genético es ADN de doble cadena, no ARN de cadena simple.",
+          "fr": "Le bactériophage T4 possède une capside complexe, et non une capside simple en forme de bâtonnet, et son matériel génétique est de l'ADN double brin, non de l'ARN simple brin.",
+          "de": "Bakteriophage T4 besitzt ein komplexes Kapsid, kein einfaches stäbchenförmiges, und sein genetisches Material ist doppelsträngige DNA, keine einzelsträngige RNA.",
+          "ja": "バクテリオファージT4は、単純な棒状ではなく複雑なカプシドを持ち、その遺伝物質は一本鎖RNAではなく二本鎖DNAです。"
+        }
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "The individual protein subunits that make up a viral capsid are referred to as virions.",
+          "zh": "构成病毒衣壳的单个蛋白质亚基被称为病毒粒子（virions）。",
+          "es": "Las subunidades proteicas individuales que componen una cápside viral se denominan viriones.",
+          "fr": "Les sous-unités protéiques individuelles qui composent une capside virale sont appelées virions.",
+          "de": "Die einzelnen Proteineinheiten, aus denen ein virales Kapsid besteht, werden als Virionen bezeichnet.",
+          "ja": "ウイルスのカプシドを構成する個々のタンパク質サブユニットはビリオンと呼ばれます。"
+        },
+        "feedback": {
+          "en": "The individual protein subunits making up the capsid are called capsomeres. A virion refers to a complete, infective virus particle.",
+          "zh": "构成衣壳的单个蛋白质亚基称为衣壳粒。病毒粒子（virion）是指一个完整、具有感染性的病毒颗粒。",
+          "es": "Las subunidades proteicas individuales que forman la cápside se llaman capsómeros. Un virión se refiere a una partícula viral completa e infecciosa.",
+          "fr": "Les sous-unités protéiques individuelles constituant la capside sont appelées capsomères. Un virion fait référence à une particule virale complète et infectieuse.",
+          "de": "Die einzelnen Proteineinheiten, aus denen das Kapsid besteht, werden Kapsomere genannt. Ein Virion ist ein vollständiges, infektiöses Viruspartikel.",
+          "ja": "カプシドを構成する個々のタンパク質サブユニットはカプソメアと呼ばれます。ビリオンは完全な感染性ウイルス粒子を指します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that Tobacco mosaic virus (TMV) has a rigid, rod-shaped (helical) capsid made of protein molecules arranged around a single helical RNA molecule. Adenoviruses are described as having an icosahedral capsid and containing double-stranded DNA. Influenza viruses are noted to have a membranous envelope derived from the host cell, which contains host cell phospholipids, membrane proteins, and viral proteins/glycoproteins. Bacteriophage T4 has a complex capsid (not simple rod-shaped) and contains double-stranded DNA (not single-stranded RNA). The individual protein subunits making up the capsid are called capsomeres, not virions (a virion is a complete virus particle).",
+      "zh": "文本明确指出，烟草花叶病毒（TMV）具有由围绕单一螺旋RNA分子排列的蛋白质分子组成的刚性棒状（螺旋）衣壳。腺病毒被描述为具有二十面体衣壳并含有双链DNA。流感病毒被指出具有源自宿主细胞的膜性包膜，其中包含宿主细胞磷脂、膜蛋白和病毒蛋白/糖蛋白。T4噬菌体具有复杂的衣壳（非简单的棒状），其遗传物质是双链DNA（非单链RNA）。构成衣壳的单个蛋白质亚基称为衣壳粒，而不是病毒粒子（病毒粒子是一个完整的病毒颗粒）。",
+      "es": "El texto establece explícitamente que el virus del mosaico del tabaco (TMV) tiene una cápside helicoidal (en forma de varilla) rígida compuesta por moléculas de proteína dispuestas alrededor de una única molécula de ARN helicoidal. Los adenovirus se describen como poseedores de una cápside icosaédrica y conteniendo ADN de doble cadena. Los virus de la gripe se caracterizan por tener una envoltura membranosa derivada de la célula huésped, que contiene fosfolípidos de la célula huésped, proteínas de membrana y proteínas/glicoproteínas virales. El bacteriófago T4 tiene una cápside compleja (no simple en forma de varilla) y contiene ADN de doble cadena (no ARN de cadena simple). Las subunidades proteicas individuales que forman la cápside se llaman capsómeros, no viriones (un virión es una partícula viral completa).",
+      "fr": "Le texte indique explicitement que le virus de la mosaïque du tabac (TMV) possède une capside rigide en forme de bâtonnet (hélicoïdale) composée de molécules de protéines disposées autour d'une seule molécule d'ARN hélicoïdal. Les adénovirus sont décrits comme ayant une capside icosaédrique et contenant de l'ADN double brin. Les virus de la grippe sont connus pour posséder une enveloppe membranaire dérivée de la cellule hôte, qui contient des phospholipides de la cellule hôte, des protéines membranaires et des protéines/glycoprotéines virales. Le bactériophage T4 a une capside complexe (non simple en forme de bâtonnet) et contient de l'ADN double brin (non de l'ARN simple brin). Les sous-unités protéiques individuelles constituant la capside sont appelées capsomères, et non virions (un virion est une particule virale complète).",
+      "de": "Der Text besagt explizit, dass das Tabakmosaikvirus (TMV) ein starres, stäbchenförmiges (helikales) Kapsid besitzt, das aus Proteinmolekülen besteht, die um ein einzelnes helikales RNA-Molekül angeordnet sind. Adenoviren werden als Viren mit einem ikosaedrischen Kapsid und doppelsträngiger DNA beschrieben. Influenzaviren besitzen eine membranöse Hülle, die von der Wirtszelle stammt und sowohl Wirtszell-Phospholipide und Membranproteine als auch virale Proteine/Glykoproteine enthält. Bakteriophage T4 hat ein komplexes Kapsid (nicht einfach stäbchenförmig) und enthält doppelsträngige DNA (nicht einzelsträngige RNA). Die einzelnen Proteineinheiten, aus denen das Kapsid besteht, werden Kapsomere genannt, nicht Virionen (ein Virion ist ein vollständiges Viruspartikel).",
+      "ja": "本文では、タバコモザイクウイルス（TMV）は、一本のらせん状RNA分子の周りに配置されたタンパク質分子からなる、棒状のらせん状カプシドを持つと明記されています。アデノウイルスは二十面体カプシドを持ち、二本鎖DNAを含むと説明されています。インフルエンザウイルスは、宿主細胞から得られる膜状エンベロープを持ち、これには宿主細胞のリン脂質、膜タンパク質、およびウイルス由来のタンパク質/糖タンパク質が含まれると記されています。バクテリオファージT4は、単純な棒状ではなく複雑なカプシドを持ち、遺伝物質は一本鎖RNAではなく二本鎖DNAです。カプシドを構成する個々のタンパク質サブユニットはカプソメアと呼ばれ、ビリオン（ビリオンは完全な感染性ウイルス粒子を指します）ではありません。"
+    }
+  },
+  {
+    "page_number": 449,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What are the individual protein subunits that make up the protein coat (capsid) of a virus called?",
+      "zh": "构成病毒蛋白质外壳（衣壳）的单个蛋白质亚基叫什么？",
+      "es": "¿Cómo se llaman las subunidades proteicas individuales que forman la capa proteica (cápside) de un virus?",
+      "fr": "Comment appelle-t-on les sous-unités protéiques individuelles qui constituent l'enveloppe protéique (capside) d'un virus ?",
+      "de": "Wie werden die einzelnen Proteinuntereinheiten genannt, die die Proteinhülle (Kapsid) eines Virus bilden?",
+      "ja": "ウイルスのタンパク質外被（カプシド）を構成する個々のタンパク質サブユニットは何と呼ばれますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Virions",
+          "zh": "病毒粒子",
+          "es": "Viriones",
+          "fr": "Virions",
+          "de": "Virionen",
+          "ja": "ビリオン"
+        },
+        "feedback": {
+          "en": "A virion is a complete, infective virus particle, not an individual protein subunit.",
+          "zh": "病毒粒子是一个完整、具有感染性的病毒颗粒，而不是单个蛋白质亚基。",
+          "es": "Un virión es una partícula viral completa e infecciosa, no una subunidad proteica individual.",
+          "fr": "Un virion est une particule virale complète et infectieuse, et non une sous-unité protéique individuelle.",
+          "de": "Ein Virion ist ein vollständiges, infektiöses Viruspartikel, nicht eine einzelne Proteinuntereinheit.",
+          "ja": "ビリオンは完全な感染性ウイルス粒子であり、個々のタンパク質サブユニットではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Genomes",
+          "zh": "基因组",
+          "es": "Genomas",
+          "fr": "Génomes",
+          "de": "Genome",
+          "ja": "ゲノム"
+        },
+        "feedback": {
+          "en": "The genome refers to the genetic material (DNA or RNA) of the virus, not its protein subunits.",
+          "zh": "基因组指的是病毒的遗传物质（DNA或RNA），而不是其蛋白质亚基。",
+          "es": "El genoma se refiere al material genético (ADN o ARN) del virus, no a sus subunidades proteicas.",
+          "fr": "Le génome fait référence au matériel génétique (ADN ou ARN) du virus, et non à ses sous-unités protéiques.",
+          "de": "Das Genom bezieht sich auf das genetische Material (DNA oder RNA) des Virus, nicht auf seine Proteinuntereinheiten.",
+          "ja": "ゲノムとはウイルスの遺伝物質（DNAまたはRNA）のことであり、そのタンパク質サブユニットではありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Capsomeres",
+          "zh": "衣壳粒",
+          "es": "Capsómeros",
+          "fr": "Capsomères",
+          "de": "Kapsomere",
+          "ja": "カプソメア"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Glycoproteins",
+          "zh": "糖蛋白",
+          "es": "Glicoproteínas",
+          "fr": "Glycoprotéines",
+          "de": "Glykoproteine",
+          "ja": "糖タンパク質"
+        },
+        "feedback": {
+          "en": "Glycoproteins are specific types of proteins with carbohydrates, often found on viral envelopes or spikes, not the basic building blocks of the capsid.",
+          "zh": "糖蛋白是带有碳水化合物的特定类型的蛋白质，通常存在于病毒包膜或突起上，而非衣壳的基本组成单元。",
+          "es": "Las glicoproteínas son tipos específicos de proteínas con carbohidratos, a menudo encontradas en las envolturas o espículas virales, no los bloques de construcción básicos de la cápside.",
+          "fr": "Les glycoprotéines sont des types spécifiques de protéines avec des glucides, souvent trouvées sur les enveloppes virales ou les spicules, et non les blocs de construction de base de la capside.",
+          "de": "Glykoproteine sind spezifische Arten von Proteinen mit Kohlenhydraten, die oft auf viralen Hüllen oder Spikes vorkommen, aber nicht die grundlegenden Bausteine des Kapsids sind.",
+          "ja": "糖タンパク質は炭水化物を持つ特定の種類のタンパク質であり、ウイルスエンベロープやスパイクにしばしば見られますが、カプシドの基本的な構成要素ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text states, \"The individual protein subunits making up the capsid are called capsomeres.\" Virions refer to complete, infective virus particles. Genomes are the genetic material. Glycoproteins are specific types of proteins, often found on viral envelopes/spikes.",
+      "zh": "文本指出：“构成衣壳的单个蛋白质亚基称为衣壳粒。”病毒粒子是指完整、具有感染性的病毒颗粒。基因组是遗传物质。糖蛋白是特定类型的蛋白质，常存在于病毒包膜/突起上。",
+      "es": "El texto establece: \"Las subunidades proteicas individuales que forman la cápside se llaman capsómeros.\" Los viriones se refieren a partículas virales completas e infecciosas. Los genomas son el material genético. Las glicoproteínas son tipos específicos de proteínas, a menudo encontradas en las envolturas/espículas virales.",
+      "fr": "Le texte indique : « Les sous-unités protéiques individuelles constituant la capside sont appelées capsomères. » Les virions désignent des particules virales complètes et infectieuses. Les génomes sont le matériel génétique. Les glycoprotéines sont des types spécifiques de protéines, souvent trouvées sur les enveloppes/spicules virales.",
+      "de": "Der Text besagt: „Die einzelnen Proteineinheiten, aus denen das Kapsid besteht, werden Kapsomere genannt.“ Virionen bezeichnen vollständige, infektiöse Viruspartikel. Genome sind das genetische Material. Glykoproteine sind spezifische Proteintypen, die oft auf viralen Hüllen/Spikes vorkommen.",
+      "ja": "本文には「カプシドを構成する個々のタンパク質サブユニットはカプソメアと呼ばれる」と記載されています。ビリオンは完全な感染性ウイルス粒子を指します。ゲノムは遺伝物質です。糖タンパク質は特定の種類のタンパク質で、ウイルスのエンベロープやスパイクによく見られます。"
+    }
+  },
+  {
+    "page_number": 449,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 19.3 and its accompanying captions, which virus has a complex capsid structure consisting of an icosahedral head and a tail apparatus, with its genetic material enclosed in the head?",
+      "zh": "根据图19.3及其附带的说明，哪种病毒具有由二十面体头部和尾部装置组成的复杂衣壳结构，其遗传物质封闭在头部中？",
+      "es": "Según la Figura 19.3 y sus leyendas adjuntas, ¿qué virus tiene una estructura de cápside compleja que consiste en una cabeza icosaédrica y un aparato de cola, con su material genético encerrado en la cabeza?",
+      "fr": "Selon la Figure 19.3 et ses légendes, quel virus possède une structure de capside complexe composée d'une tête icosaédrique et d'un appareil caudal, avec son matériel génétique enfermé dans la tête ?",
+      "de": "Basierend auf Abbildung 19.3 und den dazugehörigen Bildunterschriften, welches Virus hat eine komplexe Kapsidstruktur, bestehend aus einem ikosaedrischen Kopf und einem Schwanzapparat, wobei sein genetisches Material im Kopf eingeschlossen ist?",
+      "ja": "図19.3とその付随するキャプションに基づくと、どのウイルスが二十面体頭部と尾部装置からなる複雑なカプシド構造を持ち、その遺伝物質が頭部に包まれていますか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Tobacco mosaic virus",
+          "zh": "烟草花叶病毒",
+          "es": "Virus del mosaico del tabaco",
+          "fr": "Virus de la mosaïque du tabac",
+          "de": "Tabakmosaikvirus",
+          "ja": "タバコモザイクウイルス"
+        },
+        "feedback": {
+          "en": "Tobacco mosaic virus has a rod-shaped, helical capsid, not a complex structure with a head and tail apparatus.",
+          "zh": "烟草花叶病毒是棒状螺旋衣壳，不具有头部和尾部装置的复杂结构。",
+          "es": "El virus del mosaico del tabaco tiene una cápside helicoidal en forma de varilla, no una estructura compleja con cabeza y aparato de cola.",
+          "fr": "Le virus de la mosaïque du tabac a une capside hélicoïdale en forme de bâtonnet, et non une structure complexe avec une tête et un appareil caudal.",
+          "de": "Das Tabakmosaikvirus hat ein stäbchenförmiges, helikales Kapsid, keine komplexe Struktur mit Kopf- und Schwanzapparat.",
+          "ja": "タバコモザイクウイルスは棒状のらせん状カプシドであり、頭部と尾部装置を持つ複雑な構造ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Adenovirus",
+          "zh": "腺病毒",
+          "es": "Adenovirus",
+          "fr": "Adénovirus",
+          "de": "Adenovirus",
+          "ja": "アデノウイルス"
+        },
+        "feedback": {
+          "en": "Adenoviruses have an icosahedral capsid but lack a tail apparatus.",
+          "zh": "腺病毒具有二十面体衣壳，但没有尾部装置。",
+          "es": "Los adenovirus tienen una cápside icosaédrica pero carecen de aparato de cola.",
+          "fr": "Les adénovirus ont une capside icosaédrique mais ne possèdent pas d'appareil caudal.",
+          "de": "Adenoviren besitzen ein ikosaedrisches Kapsid, aber keinen Schwanzapparat.",
+          "ja": "アデノウイルスは二十面体カプシドを持っていますが、尾部装置はありません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Influenza virus",
+          "zh": "流感病毒",
+          "es": "Virus de la gripe",
+          "fr": "Virus de la grippe",
+          "de": "Influenzavirus",
+          "ja": "インフルエンザウイルス"
+        },
+        "feedback": {
+          "en": "Influenza viruses are enveloped and do not have a head and tail apparatus.",
+          "zh": "流感病毒是带包膜的，没有头部和尾部装置。",
+          "es": "Los virus de la gripe están envueltos y no tienen cabeza ni aparato de cola.",
+          "fr": "Les virus de la grippe sont enveloppés et n'ont pas de tête ni d'appareil caudal.",
+          "de": "Influenzaviren sind umhüllt und haben keinen Kopf- und Schwanzapparat.",
+          "ja": "インフルエンザウイルスはエンベロープを持ち、頭部と尾部装置はありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Bacteriophage T4",
+          "zh": "T4噬菌体",
+          "es": "Bacteriófago T4",
+          "fr": "Bactériophage T4",
+          "de": "Bakteriophage T4",
+          "ja": "バクテリオファージT4"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "D"
+    ],
+    "explanation": {
+      "en": "Figure 19.3d explicitly describes Bacteriophage T4 as having \"a complex capsid consisting of an icosahedral head and a tail apparatus. T4's double-stranded DNA is enclosed in the head.\" Tobacco mosaic virus has a helical, rod-shaped capsid (Figure 19.3a). Adenoviruses have an icosahedral capsid but no tail apparatus (Figure 19.3b). Influenza viruses have an outer envelope surrounding their capsid (Figure 19.3c).",
+      "zh": "图19.3d明确描述T4噬菌体具有“由二十面体头部和尾部装置组成的复杂衣壳。T4的双链DNA封闭在头部中。”烟草花叶病毒具有螺旋状的棒状衣壳（图19.3a）。腺病毒具有二十面体衣壳但没有尾部装置（图19.3b）。流感病毒的衣壳外部有包膜（图19.3c）。",
+      "es": "La Figura 19.3d describe explícitamente al Bacteriófago T4 como poseedor de \"una cápside compleja que consiste en una cabeza icosaédrica y un aparato de cola. El ADN de doble cadena de T4 está encerrado en la cabeza.\" El virus del mosaico del tabaco tiene una cápside helicoidal en forma de varilla (Figura 19.3a). Los adenovirus tienen una cápside icosaédrica pero no un aparato de cola (Figura 19.3b). Los virus de la gripe tienen una envoltura exterior que rodea su cápside (Figura 19.3c).",
+      "fr": "La Figure 19.3d décrit explicitement le bactériophage T4 comme ayant « une capside complexe composée d'une tête icosaédrique et d'un appareil caudal. L'ADN double brin du T4 est enfermé dans la tête. » Le virus de la mosaïque du tabac a une capside hélicoïdale en forme de bâtonnet (Figure 19.3a). Les adénovirus ont une capside icosaédrique mais pas d'appareil caudal (Figure 19.3b). Les virus de la grippe ont une enveloppe externe entourant leur capside (Figure 19.3c).",
+      "de": "Abbildung 19.3d beschreibt Bakteriophage T4 explizit als Virus mit „einem komplexen Kapsid, das aus einem ikosaedrischen Kopf und einem Schwanzapparat besteht. Die doppelsträngige DNA von T4 ist im Kopf eingeschlossen.“ Das Tabakmosaikvirus hat ein helikales, stäbchenförmiges Kapsid (Abbildung 19.3a). Adenoviren haben ein ikosaedrisches Kapsid, aber keinen Schwanzapparat (Abbildung 19.3b). Influenzaviren haben eine äußere Hülle, die ihr Kapsid umgibt (Abbildung 19.3c).",
+      "ja": "図19.3dでは、バクテリオファージT4が「二十面体頭部と尾部装置からなる複雑なカプシドを持ち、T4の二本鎖DNAは頭部に包まれている」と明示的に説明されています。タバコモザイクウイルスはらせん状の棒状カプシドを持ち（図19.3a）、アデノウイルスは二十面体カプシドを持っていますが尾部装置はありません（図19.3b）。インフルエンザウイルスはカプシドを囲む外側のエンベロープを持っています（図19.3c）。"
+    }
+  },
+  {
+    "page_number": 449,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A new virus is discovered and extensively studied. Researchers confirm that this virus possesses a membranous envelope. Based on the information provided in the text, which of the following is the most accurate inference regarding this virus's envelope?",
+      "zh": "发现并广泛研究了一种新病毒。研究人员证实这种病毒具有膜性包膜。根据文本中提供的信息，关于这种病毒包膜最准确的推断是以下哪项？",
+      "es": "Se descubre y estudia exhaustivamente un nuevo virus. Los investigadores confirman que este virus posee una envoltura membranosa. Basándose en la información proporcionada en el texto, ¿cuál de las siguientes es la inferencia más precisa con respecto a la envoltura de este virus?",
+      "fr": "Un nouveau virus est découvert et étudié de manière approfondie. Les chercheurs confirment que ce virus possède une enveloppe membranaire. D'après les informations fournies dans le texte, laquelle des inférences suivantes est la plus précise concernant l'enveloppe de ce virus ?",
+      "de": "Ein neues Virus wird entdeckt und ausgiebig untersucht. Forscher bestätigen, dass dieses Virus eine membranöse Hülle besitzt. Basierend auf den im Text bereitgestellten Informationen, welche der folgenden Schlussfolgerungen ist die genaueste bezüglich der Hülle dieses Virus?",
+      "ja": "新しいウイルスが発見され、広範な研究が行われました。研究者たちは、このウイルスが膜状エンベロープを持っていることを確認しました。テキストで提供された情報に基づいて、このウイルスのエンベロープに関する最も正確な推論は次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It is exclusively composed of proteins encoded by the viral genome.",
+          "zh": "它完全由病毒基因组编码的蛋白质组成。",
+          "es": "Está compuesto exclusivamente por proteínas codificadas por el genoma viral.",
+          "fr": "Elle est exclusivement composée de protéines encodées par le génome viral.",
+          "de": "Sie besteht ausschließlich aus Proteinen, die vom viralen Genom kodiert werden.",
+          "ja": "それはウイルスゲノムによってコードされたタンパク質のみで構成されています。"
+        },
+        "feedback": {
+          "en": "The text states that viral envelopes contain both host cell phospholipids and membrane proteins, in addition to viral proteins and glycoproteins. So, it's not exclusively viral proteins.",
+          "zh": "文本指出病毒包膜除了病毒蛋白和糖蛋白外，还包含宿主细胞磷脂和膜蛋白。因此，它并非完全由病毒蛋白组成。",
+          "es": "El texto establece que las envolturas virales contienen tanto fosfolípidos y proteínas de membrana de la célula huésped, además de proteínas y glicoproteínas virales. Por lo tanto, no está compuesta exclusivamente por proteínas virales.",
+          "fr": "Le texte indique que les enveloppes virales contiennent à la fois des phospholipides et des protéines membranaires de la cellule hôte, en plus des protéines et glycoprotéines virales. Elle n'est donc pas exclusivement composée de protéines virales.",
+          "de": "Der Text besagt, dass virale Hüllen neben viralen Proteinen und Glykoproteinen auch Wirtszell-Phospholipide und Membranproteine enthalten. Sie besteht also nicht ausschließlich aus viralen Proteinen.",
+          "ja": "本文では、ウイルスエンベロープにはウイルス由来のタンパク質や糖タンパク質の他に、宿主細胞のリン脂質や膜タンパク質も含まれると述べています。したがって、ウイルス由来のタンパク質のみで構成されているわけではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Its formation is independent of the host cell's cellular machinery.",
+          "zh": "它的形成与宿主细胞的细胞机制无关。",
+          "es": "Su formación es independiente de la maquinaria celular de la célula huésped.",
+          "fr": "Sa formation est indépendante de la machinerie cellulaire de la cellule hôte.",
+          "de": "Ihre Bildung ist unabhängig von der zellulären Maschinerie der Wirtszelle.",
+          "ja": "その形成は宿主細胞の細胞機構とは無関係です。"
+        },
+        "feedback": {
+          "en": "The envelope is derived from host cell membranes, meaning its formation is directly dependent on the host cell's existing structures and processes.",
+          "zh": "包膜来源于宿主细胞膜，这意味着其形成直接依赖于宿主细胞现有的结构和过程。",
+          "es": "La envoltura se deriva de las membranas de la célula huésped, lo que significa que su formación depende directamente de las estructuras y procesos existentes de la célula huésped.",
+          "fr": "L'enveloppe est dérivée des membranes de la cellule hôte, ce qui signifie que sa formation dépend directement des structures et processus existants de la cellule hôte.",
+          "de": "Die Hülle stammt von Wirtszellmembranen ab, was bedeutet, dass ihre Bildung direkt von den bestehenden Strukturen und Prozessen der Wirtszelle abhängt.",
+          "ja": "エンベロープは宿主細胞膜に由来するため、その形成は宿主細胞の既存の構造とプロセスに直接依存します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is primarily derived from the membranes of the host cell it previously infected.",
+          "zh": "它主要来源于其先前感染的宿主细胞的细胞膜。",
+          "es": "Se deriva principalmente de las membranas de la célula huésped que infectó previamente.",
+          "fr": "Elle est principalement dérivée des membranes de la cellule hôte qu'elle a précédemment infectée.",
+          "de": "Sie stammt hauptsächlich von den Membranen der Wirtszelle ab, die sie zuvor infiziert hat.",
+          "ja": "それは主に、以前に感染した宿主細胞の膜に由来します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Its presence typically limits the virus to infecting only bacterial cells.",
+          "zh": "它的存在通常将病毒限制为仅感染细菌细胞。",
+          "es": "Su presencia típicamente limita al virus a infectar solo células bacterianas.",
+          "fr": "Sa présence limite typiquement le virus à n'infecter que les cellules bactériennes.",
+          "de": "Ihre Anwesenheit beschränkt das Virus typischerweise darauf, nur Bakterienzellen zu infizieren.",
+          "ja": "その存在は通常、ウイルスが細菌細胞のみを感染させるように制限します。"
+        },
+        "feedback": {
+          "en": "The text mentions influenza viruses (which infect animals) as having envelopes. Enveloped viruses infect a wide range of hosts, not just bacteria. Bacteriophages (which infect bacteria) are described as having complex capsids but no envelopes.",
+          "zh": "文本提到流感病毒（感染动物）具有包膜。有包膜的病毒感染多种宿主，不限于细菌。感染细菌的噬菌体被描述为具有复杂衣壳但没有包膜。",
+          "es": "El texto menciona a los virus de la gripe (que infectan animales) como poseedores de envolturas. Los virus envueltos infectan una amplia gama de huéspedes, no solo bacterias. Los bacteriófagos (que infectan bacterias) se describen como poseedores de cápsides complejas pero sin envolturas.",
+          "fr": "Le texte mentionne les virus de la grippe (qui infectent les animaux) comme ayant des enveloppes. Les virus enveloppés infectent une large gamme d'hôtes, pas seulement les bactéries. Les bactériophages (qui infectent les bactéries) sont décrits comme ayant des capsides complexes mais pas d'enveloppes.",
+          "de": "Der Text erwähnt Influenzaviren (die Tiere infizieren) als Viren mit Hüllen. Umhüllte Viren infizieren eine Vielzahl von Wirten, nicht nur Bakterien. Bakteriophagen (die Bakterien infizieren) werden als Viren mit komplexen Kapsiden, aber ohne Hüllen beschrieben.",
+          "ja": "本文では、インフルエンザウイルス（動物に感染）がエンベロープを持つと述べられています。エンベロープを持つウイルスは細菌だけでなく、幅広い宿主に感染します。バクテリオファージ（細菌に感染）は複雑なカプシドを持つがエンベロープは持たないと説明されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states that \"These viral envelopes, which are derived from the membranes of the host cell, contain host cell phospholipids and membrane proteins. They also contain proteins and glycoproteins of viral origin.\" Therefore, the envelope is primarily derived from the host cell's membranes, incorporating some viral components. Options A, B, and D are incorrect as they contradict this understanding. The envelope is not exclusively viral proteins, its formation is dependent on host machinery (to acquire host membranes), and envelopes are characteristic of many animal viruses, not typically limiting infection to bacteria.",
+      "zh": "文本明确指出：“这些病毒包膜源自宿主细胞的细胞膜，包含宿主细胞磷脂和膜蛋白。它们还包含病毒来源的蛋白质和糖蛋白。”因此，包膜主要来源于宿主细胞的细胞膜，并融入了一些病毒成分。选项A、B和D不正确，因为它们与此理解相悖。包膜并非完全由病毒蛋白质组成，其形成依赖于宿主机制（以获取宿主膜），而且包膜是许多动物病毒的特征，通常不限于感染细菌。",
+      "es": "El texto establece explícitamente que \"Estas envolturas virales, que se derivan de las membranas de la célula huésped, contienen fosfolípidos y proteínas de membrana de la célula huésped. También contienen proteínas y glicoproteínas de origen viral.\" Por lo tanto, la envoltura se deriva principalmente de las membranas de la célula huésped, incorporando algunos componentes virales. Las opciones A, B y D son incorrectas ya que contradicen esta comprensión. La envoltura no está compuesta exclusivamente por proteínas virales, su formación depende de la maquinaria del huésped (para adquirir membranas del huésped), y las envolturas son características de muchos virus animales, no limitando típicamente la infección a bacterias.",
+      "fr": "Le texte indique explicitement que « Ces enveloppes virales, qui sont dérivées des membranes de la cellule hôte, contiennent des phospholipides et des protéines membranaires de la cellule hôte. Elles contiennent également des protéines et des glycoprotéines d'origine virale. » Par conséquent, l'enveloppe est principalement dérivée des membranes de la cellule hôte, incorporant certains composants viraux. Les options A, B et D sont incorrectes car elles contredisent cette compréhension. L'enveloppe n'est pas exclusivement composée de protéines virales, sa formation dépend de la machinerie de l'hôte (pour acquérir les membranes de l'hôte), et les enveloppes sont caractéristiques de nombreux virus animaux, ne limitant généralement pas l'infection aux bactéries.",
+      "de": "Der Text besagt explizit, dass „Diese viralen Hüllen, die von den Membranen der Wirtszelle abgeleitet sind, Wirtszell-Phospholipide und Membranproteine enthalten. Sie enthalten auch Proteine und Glykoproteine viralen Ursprungs.“ Daher stammt die Hülle hauptsächlich von den Membranen der Wirtszelle und enthält einige virale Komponenten. Die Optionen A, B und D sind falsch, da sie diesem Verständnis widersprechen. Die Hülle besteht nicht ausschließlich aus viralen Proteinen, ihre Bildung hängt von der Wirtsmaschinerie ab (um Wirtsmembranen zu erhalten), und Hüllen sind charakteristisch für viele Tierviren, nicht typischerweise auf die Infektion von Bakterien beschränkt.",
+      "ja": "本文には「これらのウイルスエンベロープは宿主細胞の膜に由来し、宿主細胞のリン脂質と膜タンパク質を含んでいます。また、ウイルス由来のタンパク質と糖タンパク質も含まれています」と明示されています。したがって、エンベロープは主に宿主細胞の膜に由来し、一部のウイルス成分を組み込んでいます。選択肢A、B、Dはこの理解と矛盾するため不正確です。エンベロープはウイルス由来のタンパク質のみで構成されているわけではなく、その形成は宿主の仕組み（宿主膜の獲得のため）に依存しており、エンベロープは多くの動物ウイルスの特徴であり、通常は細菌への感染に限定されるものではありません。"
+    }
+  }
+]

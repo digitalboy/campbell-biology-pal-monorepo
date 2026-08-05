@@ -1,0 +1,406 @@
+[
+  {
+    "page_number": 390,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes the genetic code as presented in the text?",
+      "zh": "以下哪项陈述准确描述了文本中遗传密码的特征？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión el código genético tal como se presenta en el texto?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision le code génétique tel que présenté dans le texte ?",
+      "de": "Welche der folgenden Aussagen beschreibt den im Text dargestellten genetischen Code genau?",
+      "ja": "次の記述のうち、本文に示されている遺伝暗号を正確に記述しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "All 64 codons specify unique amino acids, ensuring no ambiguity.",
+          "zh": "所有 64 个密码子都指定独特的氨基酸，确保没有歧义。",
+          "es": "Los 64 codones especifican aminoácidos únicos, asegurando que no haya ambigüedad.",
+          "fr": "Les 64 codons spécifient des acides aminés uniques, garantissant l'absence d'ambiguïté.",
+          "de": "Alle 64 Codons spezifizieren einzigartige Aminosäuren und gewährleisten so keine Ambiguität.",
+          "ja": "64個すべてのコドンは独自のL-アミノ酸を指定し、曖昧さがないことを保証します。"
+        },
+        "feedback": {
+          "en": "Incorrect. Three codons are stop signals, and there is redundancy (multiple codons for one amino acid).",
+          "zh": "不正确。文本指出有3个终止密码子，并且存在冗余性（一个氨基酸可以由多个密码子编码）。",
+          "es": "Incorrecto. El texto indica que 3 codones son señales de parada y que existe redundancia, lo que significa que múltiples codones pueden especificar el mismo aminoácido.",
+          "fr": "Incorrect. Le texte indique que 3 codons sont des signaux d'arrêt et qu'il y a redondance, ce qui signifie que plusieurs codons peuvent spécifier le même acide aminé.",
+          "de": "Falsch. Der Text besagt, dass 3 Codons Stoppsignale sind und es Redundanz gibt, was bedeutet, dass mehrere Codons dieselbe Aminosäure spezifizieren können.",
+          "ja": "不正確です。本文では、3つのコドンが終止コドンであり、冗長性があるため、複数のコドンが同じアミノ酸を指定できると述べられています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The codon AUG serves solely as a start signal for protein synthesis.",
+          "zh": "密码子 AUG 仅作为蛋白质合成的起始信号。",
+          "es": "El codón AUG sirve únicamente como señal de inicio para la síntesis de proteínas.",
+          "fr": "Le codon AUG ne sert uniquement que de signal de démarrage pour la synthèse des protéines.",
+          "de": "Das Codon AUG dient ausschließlich als Startsignal für die Proteinsynthese.",
+          "ja": "コドンAUGは、タンパク質合成の開始信号としてのみ機能します。"
+        },
+        "feedback": {
+          "en": "Incorrect. AUG has a dual function; it also codes for methionine.",
+          "zh": "不正确。AUG 具有双重功能；它也编码甲硫氨酸。",
+          "es": "Incorrecto. El AUG tiene una doble función; también codifica para metionina.",
+          "fr": "Incorrect. L'AUG a une double fonction ; il code également pour la méthionine.",
+          "de": "Falsch. AUG hat eine Doppelfunktion; es kodiert auch für Methionin.",
+          "ja": "不正確です。AUGは二重の機能を持ち、メチオニンもコードします。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The genetic code exhibits redundancy, meaning multiple codons can specify the same amino acid, but it is unambiguous, meaning one codon specifies only one amino acid.",
+          "zh": "遗传密码表现出冗余性，意味着多个密码子可以指定相同的氨基酸，但它是无歧义的，意味着一个密码子只指定一个氨基酸。",
+          "es": "El código genético exhibe redundancia, lo que significa que múltiples codones pueden especificar el mismo aminoácido, pero es inequívoco, lo que significa que un codón especifica solo un aminoácido.",
+          "fr": "Le code génétique présente une redondance, ce qui signifie que plusieurs codons peuvent spécifier le même acide aminé, mais il est non ambigu, ce qui signifie qu'un codon ne spécifie qu'un seul acide aminé.",
+          "de": "Der genetische Code weist Redundanz auf, was bedeutet, dass mehrere Codons dieselbe Aminosäure spezifizieren können, aber er ist eindeutig, was bedeutet, dass ein Codon nur eine Aminosäure spezifiziert.",
+          "ja": "遺伝暗号は冗長性を示し、複数のコドンが同じアミノ酸を指定できますが、曖昧性はなく、1つのコドンは1つのアミノ酸のみを指定します。"
+        },
+        "feedback": {
+          "en": "Correct. This statement perfectly summarizes the described properties of redundancy and unambiguity, as explained in the text.",
+          "zh": "正确。此陈述完美总结了文本中描述的冗余性和无歧义性特征。",
+          "es": "Correcto. Esta afirmación resume perfectamente las propiedades de redundancia e inequívoco descritas en el texto.",
+          "fr": "Correct. Cette affirmation résume parfaitement les propriétés de redondance et de non-ambiguïté décrites dans le texte.",
+          "de": "Richtig. Diese Aussage fasst die im Text beschriebenen Eigenschaften von Redundanz und Eindeutigkeit perfekt zusammen.",
+          "ja": "正しい。この記述は、本文で説明されている冗長性と非曖昧性の特性を完璧に要約しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The genetic code is universal, applying only to simpler organisms like bacteria.",
+          "zh": "遗传密码是普遍的，只适用于细菌等较简单的生物体。",
+          "es": "El código genético es universal, aplicable solo a organismos más simples como las bacterias.",
+          "fr": "Le code génétique est universel, s'appliquant uniquement aux organismes plus simples comme les bactéries.",
+          "de": "Der genetische Code ist universell und gilt nur für einfachere Organismen wie Bakterien.",
+          "ja": "遺伝暗号は普遍的であり、細菌のような単純な生物にのみ適用されます。"
+        },
+        "feedback": {
+          "en": "Incorrect. The text states the genetic code is nearly universal, applying to both simple and complex organisms.",
+          "zh": "不正确。文本指出遗传密码是几乎普遍的，适用于简单和复杂的生物体。",
+          "es": "Incorrecto. El texto indica que el código genético es casi universal, aplicándose tanto a organismos simples como complejos.",
+          "fr": "Incorrect. Le texte indique que le code génétique est presque universel, s'appliquant aux organismes simples et complexes.",
+          "de": "Falsch. Der Text besagt, dass der genetische Code nahezu universell ist und sowohl für einfache als auch für komplexe Organismen gilt.",
+          "ja": "不正確です。本文では、遺伝暗号はほぼ普遍的であり、単純な生物から複雑な生物にまで適用されると述べられています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Notice in Figure 17.6 that there is redundancy in the genetic code, but no ambiguity. For example, although codons GAA and GAG both specify glutamic acid (redundancy), neither of them ever specifies any other amino acid (no ambiguity).' It also mentions that the genetic code is 'nearly universal, shared by organisms from the simplest bacteria to the most complex plants and animals,' and that AUG also functions as a start signal, not solely as a start signal.",
+      "zh": "文本明确指出：“请注意图17.6，遗传密码存在冗余性，但没有歧义。例如，虽然密码子GAA和GAG都指定谷氨酸（冗余性），但它们都不会指定任何其他氨基酸（无歧义）。”它还提到遗传密码“几乎是普遍的，从最简单的细菌到最复杂的植物和动物都共享”，并且AUG也作为起始信号，而不仅仅是起始信号。",
+      "es": "El texto establece explícitamente: 'Observe en la Figura 17.6 que existe redundancia en el código genético, pero no ambigüedad. Por ejemplo, aunque los codones GAA y GAG especifican ambos el ácido glutámico (redundancia), ninguno de ellos especifica ningún otro aminoácido (sin ambigüedad).' También menciona que el código genético es 'casi universal, compartido por organismos desde las bacterias más simples hasta las plantas y animales más complejos', y que el AUG también funciona como señal de inicio, no solo como señal de inicio.",
+      "fr": "Le texte indique explicitement : « Notez dans la Figure 17.6 qu'il y a redondance dans le code génétique, mais pas d'ambiguïté. Par exemple, bien que les codons GAA et GAG spécifient tous deux l'acide glutamique (redondance), aucun d'eux ne spécifie jamais un autre acide aminé (pas d'ambiguïté). » Il mentionne également que le code génétique est « presque universel, partagé par des organismes allant des bactéries les plus simples aux plantes et animaux les plus complexes », et que l'AUG fonctionne également comme un signal de démarrage, pas uniquement comme un signal de démarrage.",
+      "de": "Der Text besagt explizit: „Beachten Sie in Abbildung 17.6, dass es Redundanz im genetischen Code gibt, aber keine Ambiguität. Zum Beispiel, obwohl die Codons GAA und GAG beide Glutaminsäure spezifizieren (Redundanz), spezifiziert keines von ihnen jemals eine andere Aminosäure (keine Ambiguität).“ Es wird auch erwähnt, dass der genetische Code „nahezu universell ist, von den einfachsten Bakterien bis zu den komplexesten Pflanzen und Tieren geteilt wird“ und dass AUG auch als Startsignal fungiert, nicht ausschließlich als Startsignal.",
+      "ja": "本文には明確に「図17.6に示すように、遺伝暗号には冗長性がありますが、曖昧性はありません。例えば、コドンGAAとGAGはどちらもグルタミン酸を指定しますが（冗長性）、どちらも他のアミノ酸を指定することはありません（曖昧性なし）」と記載されています。また、遺伝暗号が「最も単純な細菌から最も複雑な植物や動物まで、生物間で共有されるほぼ普遍的なものである」こと、そしてAUGが開始信号としても機能し、単に開始信号としてのみ機能するわけではないことも言及されています。"
+    }
+  },
+  {
+    "page_number": 390,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 17.6, which amino acid is specified by the mRNA codon GAU?",
+      "zh": "根据图 17.6，mRNA 密码子 GAU 指定哪种氨基酸？",
+      "es": "Según la Figura 17.6, ¿qué aminoácido es especificado por el codón de ARNm GAU?",
+      "fr": "Selon la Figure 17.6, quel acide aminé est spécifié par le codon ARNm GAU ?",
+      "de": "Gemäß Abbildung 17.6, welche Aminosäure wird durch das mRNA-Codon GAU spezifiziert?",
+      "ja": "図17.6によると、mRNAコドンGAUによって指定されるアミノ酸は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Valine (Val)",
+          "zh": "缬氨酸 (Val)",
+          "es": "Valina (Val)",
+          "fr": "Valine (Val)",
+          "de": "Valin (Val)",
+          "ja": "バリン (Val)"
+        },
+        "feedback": {
+          "en": "Incorrect. Valine is coded by GUU, GUC, GUA, or GUG.",
+          "zh": "不正确。缬氨酸由 GUU、GUC、GUA 或 GUG 编码。",
+          "es": "Incorrecto. La valina es codificada por GUU, GUC, GUA o GUG.",
+          "fr": "Incorrect. La valine est codée par GUU, GUC, GUA ou GUG.",
+          "de": "Falsch. Valin wird durch GUU, GUC, GUA oder GUG kodiert.",
+          "ja": "不正確です。バリンはGUU、GUC、GUA、またはGUGによってコードされます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Aspartate (Asp)",
+          "zh": "天冬氨酸 (Asp)",
+          "es": "Aspartato (Asp)",
+          "fr": "Aspartate (Asp)",
+          "de": "Aspartat (Asp)",
+          "ja": "アスパラギン酸 (Asp)"
+        },
+        "feedback": {
+          "en": "Correct. GAU codes for Aspartate (Asp or D) in the codon table.",
+          "zh": "正确。根据密码子表，GAU 编码天冬氨酸 (Asp 或 D)。",
+          "es": "Correcto. GAU codifica para Aspartato (Asp o D) en la tabla de codones.",
+          "fr": "Correct. GAU code pour l'aspartate (Asp ou D) dans le tableau des codons.",
+          "de": "Richtig. GAU kodiert für Aspartat (Asp oder D) in der Codon-Tabelle.",
+          "ja": "正しい。コドン表によると、GAUはアスパラギン酸（AspまたはD）をコードします。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Alanine (Ala)",
+          "zh": "丙氨酸 (Ala)",
+          "es": "Alanina (Ala)",
+          "fr": "Alanine (Ala)",
+          "de": "Alanin (Ala)",
+          "ja": "アラニン (Ala)"
+        },
+        "feedback": {
+          "en": "Incorrect. Alanine is coded by GCU, GCC, GCA, or GCG.",
+          "zh": "不正确。丙氨酸由 GCU、GCC、GCA 或 GCG 编码。",
+          "es": "Incorrecto. La alanina es codificada por GCU, GCC, GCA o GCG.",
+          "fr": "Incorrect. L'alanine est codée par GCU, GCC, GCA ou GCG.",
+          "de": "Falsch. Alanin wird durch GCU, GCC, GCA oder GCG kodiert.",
+          "ja": "不正確です。アラニンはGCU、GCC、GCA、またはGCGによってコードされます。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Glutamic acid (Glu)",
+          "zh": "谷氨酸 (Glu)",
+          "es": "Ácido glutámico (Glu)",
+          "fr": "Acide glutamique (Glu)",
+          "de": "Glutaminsäure (Glu)",
+          "ja": "グルタミン酸 (Glu)"
+        },
+        "feedback": {
+          "en": "Incorrect. Glutamic acid is coded by GAA or GAG.",
+          "zh": "不正确。谷氨酸由 GAA 或 GAG 编码。",
+          "es": "Incorrecto. El ácido glutámico es codificado por GAA o GAG.",
+          "fr": "Incorrect. L'acide glutamique est codé par GAA ou GAG.",
+          "de": "Falsch. Glutaminsäure wird durch GAA oder GAG kodiert.",
+          "ja": "不正確です。グルタミン酸はGAAまたはGAGによってコードされます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Locating GAU in Figure 17.6: The first base is G (left column), the second base is A (top row), and the third base is U (right column). The intersection of these three leads to 'Asp (D)', which stands for Aspartate.",
+      "zh": "在图 17.6 中找到 GAU：第一个碱基是 G（左列），第二个碱基是 A（顶行），第三个碱基是 U（右列）。这三者的交汇处显示为“Asp (D)”，即天冬氨酸。",
+      "es": "Para localizar GAU en la Figura 17.6: La primera base es G (columna izquierda), la segunda base es A (fila superior) y la tercera base es U (columna derecha). La intersección de estas tres conduce a 'Asp (D)', que significa Aspartato.",
+      "fr": "Pour localiser GAU dans la Figure 17.6 : La première base est G (colonne de gauche), la deuxième base est A (rangée du haut), et la troisième base est U (colonne de droite). L'intersection de ces trois éléments mène à « Asp (D) », qui correspond à l'aspartate.",
+      "de": "Um GAU in Abbildung 17.6 zu finden: Die erste Base ist G (linke Spalte), die zweite Base ist A (obere Reihe) und die dritte Base ist U (rechte Spalte). Der Schnittpunkt dieser drei führt zu 'Asp (D)', was für Aspartat steht.",
+      "ja": "図17.6でGAUを探します。最初の塩基はG（左列）、2番目の塩基はA（上段）、3番目の塩基はU（右列）です。これら3つの交点に「Asp (D)」とあり、これはアスパラギン酸を意味します。"
+    }
+  },
+  {
+    "page_number": 390,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on the information provided, what is the dual function of the mRNA codon AUG?",
+      "zh": "根据所提供的信息，mRNA 密码子 AUG 的双重功能是什么？",
+      "es": "Según la información proporcionada, ¿cuál es la doble función del codón de ARNm AUG?",
+      "fr": "D'après les informations fournies, quelle est la double fonction du codon ARNm AUG ?",
+      "de": "Basierend auf den bereitgestellten Informationen, was ist die Doppelfunktion des mRNA-Codons AUG?",
+      "ja": "提供された情報に基づくと、mRNAコドンAUGの二重の機能は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It codes for the amino acid Glutamine (Gln) and acts as a stop signal.",
+          "zh": "它编码氨基酸谷氨酰胺 (Gln) 并作为终止信号。",
+          "es": "Codifica el aminoácido glutamina (Gln) y actúa como señal de parada.",
+          "fr": "Il code pour l'acide aminé glutamine (Gln) et agit comme un signal d'arrêt.",
+          "de": "Es kodiert für die Aminosäure Glutamin (Gln) und dient als Stoppsignal.",
+          "ja": "アミノ酸グルタミン（Gln）をコードし、停止信号として機能します。"
+        },
+        "feedback": {
+          "en": "Incorrect. AUG codes for Methionine, not Glutamine, and is a start signal.",
+          "zh": "不正确。AUG 编码甲硫氨酸而不是谷氨酰胺，并且是起始信号。",
+          "es": "Incorrecto. El AUG codifica para metionina, no para glutamina, y es una señal de inicio.",
+          "fr": "Incorrect. L'AUG code pour la méthionine, pas la glutamine, et c'est un signal de démarrage.",
+          "de": "Falsch. AUG kodiert für Methionin, nicht für Glutamin, und ist ein Startsignal.",
+          "ja": "不正確です。AUGはグルタミンではなくメチオニンをコードし、開始信号です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It codes for the amino acid Methionine (Met) and acts as an initiation (start) codon.",
+          "zh": "它编码氨基酸甲硫氨酸 (Met) 并作为起始密码子。",
+          "es": "Codifica el aminoácido metionina (Met) y actúa como codón de inicio.",
+          "fr": "Il code pour l'acide aminé méthionine (Met) et agit comme un codon d'initiation (démarrage).",
+          "de": "Es kodiert für die Aminosäure Methionin (Met) und dient als Initiations-(Start-)Codon.",
+          "ja": "アミノ酸メチオニン（Met）をコードし、開始コドンとして機能します。"
+        },
+        "feedback": {
+          "en": "Correct. The text explicitly states that AUG codes for methionine (Met) and also functions as a \"start\" signal.",
+          "zh": "正确。文本明确指出 AUG 编码甲硫氨酸 (Met)，并且也作为“起始”信号。",
+          "es": "Correcto. El texto establece explícitamente que el AUG codifica para metionina (Met) y también funciona como una señal de \"inicio\".",
+          "fr": "Correct. Le texte indique explicitement que l'AUG code pour la méthionine (Met) et fonctionne également comme un signal de \"démarrage\".",
+          "de": "Richtig. Der Text besagt explizit, dass AUG für Methionin (Met) kodiert und auch als \"Start\"-Signal fungiert.",
+          "ja": "正しい。本文では、AUGがメチオニン（Met）をコードし、また「開始」信号としても機能すると明示的に述べられています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It codes for the amino acid Alanine (Ala) and also for Glycine (Gly).",
+          "zh": "它编码氨基酸丙氨酸 (Ala) 和甘氨酸 (Gly)。",
+          "es": "Codifica el aminoácido alanina (Ala) y también la glicina (Gly).",
+          "fr": "Il code pour l'acide aminé alanine (Ala) et aussi pour la glycine (Gly).",
+          "de": "Es kodiert für die Aminosäure Alanin (Ala) und auch für Glycin (Gly).",
+          "ja": "アミノ酸アラニン（Ala）とグリシン（Gly）をコードします。"
+        },
+        "feedback": {
+          "en": "Incorrect. AUG codes for Methionine, not Alanine or Glycine.",
+          "zh": "不正确。AUG 编码甲硫氨酸，而不是丙氨酸或甘氨酸。",
+          "es": "Incorrecto. El AUG codifica para metionina, no para alanina ni glicina.",
+          "fr": "Incorrect. L'AUG code pour la méthionine, pas l'alanine ni la glycine.",
+          "de": "Falsch. AUG kodiert für Methionin, nicht für Alanin oder Glycin.",
+          "ja": "不正確です。AUGはアラニンやグリシンではなくメチオニンをコードします。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It codes for the amino acid Tryptophan (Trp) and functions as a termination codon.",
+          "zh": "它编码氨基酸色氨酸 (Trp) 并作为终止密码子。",
+          "es": "Codifica el aminoácido triptófano (Trp) y funciona como codón de terminación.",
+          "fr": "Il code pour l'acide aminé tryptophane (Trp) et fonctionne comme un codon de terminaison.",
+          "de": "Es kodiert für die Aminosäure Tryptophan (Trp) und fungiert als Terminationscodon.",
+          "ja": "アミノ酸トリプトファン（Trp）をコードし、終止コドンとして機能します。"
+        },
+        "feedback": {
+          "en": "Incorrect. AUG is a start codon, not a termination codon, and codes for Methionine.",
+          "zh": "不正确。AUG 是起始密码子，不是终止密码子，并且编码甲硫氨酸。",
+          "es": "Incorrecto. El AUG es un codón de inicio, no un codón de terminación, y codifica para metionina.",
+          "fr": "Incorrect. L'AUG est un codon de démarrage, pas un codon de terminaison, et code pour la méthionine.",
+          "de": "Falsch. AUG ist ein Startcodon, kein Terminationscodon, und kodiert für Methionin.",
+          "ja": "不正確です。AUGは終止コドンではなく開始コドンであり、メチオニンをコードします。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'Notice that the codon AUG has a dual function: It codes for the amino acid methionine (Met, or M) and also functions as a \"start\" signal, or initiation codon.'",
+      "zh": "文本明确指出：“请注意，密码子 AUG 具有双重功能：它编码氨基酸甲硫氨酸 (Met, or M)，并且也作为“起始”信号或起始密码子。”",
+      "es": "El texto establece explícitamente: 'Observe que el codón AUG tiene una doble función: codifica para el aminoácido metionina (Met, o M) y también funciona como una señal de \"inicio\", o codón de iniciación.'",
+      "fr": "Le texte indique explicitement : « Notez que le codon AUG a une double fonction : il code pour l'acide aminé méthionine (Met, ou M) et fonctionne également comme un signal de « démarrage », ou codon d'initiation. »",
+      "de": "Der Text besagt explizit: „Beachten Sie, dass das Codon AUG eine Doppelfunktion hat: Es kodiert für die Aminosäure Methionin (Met oder M) und fungiert auch als „Start“-Signal oder Initiationscodon.“",
+      "ja": "本文には明確に「コドンAUGには二重の機能があることに注意してください。それはアミノ酸メチオニン（Met、またはM）をコードし、また『開始』信号、すなわち開始コドンとしても機能します」と記載されています。"
+    }
+  },
+  {
+    "page_number": 390,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "A segment of an mRNA sequence is given as 5'-AGAGAACCGCGA-3'. Assuming translation starts from the very first nucleotide and proceeds in non-overlapping triplets, what is the sequence of amino acids coded by this segment?",
+      "zh": "给出一段 mRNA 序列：5'-AGAGAACCGCGA-3'。假设翻译从第一个核苷酸开始，并以非重叠的三联体形式进行，请问这段序列编码的氨基酸序列是什么？",
+      "es": "Se da un segmento de una secuencia de ARNm como 5'-AGAGAACCGCGA-3'. Suponiendo que la traducción comienza desde el primer nucleótido y procede en tripletes no superpuestos, ¿cuál es la secuencia de aminoácidos codificada por este segmento?",
+      "fr": "Un segment d'une séquence d'ARNm est donné comme 5'-AGAGAACCGCGA-3'. En supposant que la traduction commence à partir du tout premier nucléotide et se déroule en triplets non chevauchants, quelle est la séquence d'acides aminés codée par ce segment ?",
+      "de": "Ein Segment einer mRNA-Sequenz ist gegeben als 5'-AGAGAACCGCGA-3'. Unter der Annahme, dass die Translation vom ersten Nukleotid an beginnt und in nicht überlappenden Tripletts abläuft, wie lautet die Aminosäuresequenz, die von diesem Segment kodiert wird?",
+      "ja": "mRNA配列の一部が5'-AGAGAACCGCGA-3'と与えられています。翻訳が最初のヌクレオチドから始まり、重複しない3つ組で進行すると仮定した場合、このセグメントによってコードされるアミノ酸配列は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Arg-Glu-Pro-Arg",
+          "zh": "精氨酸-谷氨酸-脯氨酸-精氨酸",
+          "es": "Arg-Glu-Pro-Arg",
+          "fr": "Arg-Glu-Pro-Arg",
+          "de": "Arg-Glu-Pro-Arg",
+          "ja": "アルギニン-グルタミン酸-プロリン-アルギニン"
+        },
+        "feedback": {
+          "en": "Correct. Breaking the sequence into triplets (AGA, GAA, CCG, CGA) and using the codon table yields Arg-Glu-Pro-Arg.",
+          "zh": "正确。将序列分解为三联体（AGA、GAA、CCG、CGA）并使用密码子表，得到精氨酸-谷氨酸-脯氨酸-精氨酸。",
+          "es": "Correcto. Desglosar la secuencia en tripletes (AGA, GAA, CCG, CGA) y usar la tabla de codones produce Arg-Glu-Pro-Arg.",
+          "fr": "Correct. En décomposant la séquence en triplets (AGA, GAA, CCG, CGA) et en utilisant le tableau des codons, on obtient Arg-Glu-Pro-Arg.",
+          "de": "Richtig. Die Aufteilung der Sequenz in Tripletts (AGA, GAA, CCG, CGA) und die Verwendung der Codon-Tabelle ergibt Arg-Glu-Pro-Arg.",
+          "ja": "正しい。配列を3つ組（AGA、GAA、CCG、CGA）に分解し、コドン表を使用すると、アルギニン-グルタミン酸-プロリン-アルギニンが得られます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Arg-Asp-Pro-Arg",
+          "zh": "精氨酸-天冬氨酸-脯氨酸-精氨酸",
+          "es": "Arg-Asp-Pro-Arg",
+          "fr": "Arg-Asp-Pro-Arg",
+          "de": "Arg-Asp-Pro-Arg",
+          "ja": "アルギニン-アスパラギン酸-プロリン-アルギニン"
+        },
+        "feedback": {
+          "en": "Incorrect. GAA codes for Glutamic acid (Glu), not Aspartate (Asp).",
+          "zh": "不正确。GAA 编码谷氨酸 (Glu)，而不是天冬氨酸 (Asp)。",
+          "es": "Incorrecto. GAA codifica para ácido glutámico (Glu), no para aspartato (Asp).",
+          "fr": "Incorrect. GAA code pour l'acide glutamique (Glu), pas l'aspartate (Asp).",
+          "de": "Falsch. GAA kodiert für Glutaminsäure (Glu), nicht für Aspartat (Asp).",
+          "ja": "不正確です。GAAはアスパラギン酸（Asp）ではなく、グルタミン酸（Glu）をコードします。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Ser-Glu-Pro-Ala",
+          "zh": "丝氨酸-谷氨酸-脯氨酸-丙氨酸",
+          "es": "Ser-Glu-Pro-Ala",
+          "fr": "Ser-Glu-Pro-Ala",
+          "de": "Ser-Glu-Pro-Ala",
+          "ja": "セリン-グルタミン酸-プロリン-アラニン"
+        },
+        "feedback": {
+          "en": "Incorrect. AGA codes for Arginine (Arg), not Serine (Ser), and CGA codes for Arginine (Arg), not Alanine (Ala).",
+          "zh": "不正确。AGA 编码精氨酸 (Arg)，而不是丝氨酸 (Ser)，CGA 编码精氨酸 (Arg)，而不是丙氨酸 (Ala)。",
+          "es": "Incorrecto. AGA codifica para arginina (Arg), no para serina (Ser), y CGA codifica para arginina (Arg), no para alanina (Ala).",
+          "fr": "Incorrect. AGA code pour l'arginine (Arg), pas la sérine (Ser), et CGA code pour l'arginine (Arg), pas l'alanine (Ala).",
+          "de": "Falsch. AGA kodiert für Arginin (Arg), nicht für Serin (Ser), und CGA kodiert für Arginin (Arg), nicht für Alanin (Ala).",
+          "ja": "不正確です。AGAはセリン（Ser）ではなくアルギニン（Arg）をコードし、CGAはアラニン（Ala）ではなくアルギニン（Arg）をコードします。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Arg-Lys-Pro-Arg",
+          "zh": "精氨酸-赖氨酸-脯氨酸-精氨酸",
+          "es": "Arg-Lys-Pro-Arg",
+          "fr": "Arg-Lys-Pro-Arg",
+          "de": "Arg-Lys-Pro-Arg",
+          "ja": "アルギニン-リジン-プロリン-アルギニン"
+        },
+        "feedback": {
+          "en": "Incorrect. GAA codes for Glutamic acid (Glu), not Lysine (Lys).",
+          "zh": "不正确。GAA 编码谷氨酸 (Glu)，而不是赖氨酸 (Lys)。",
+          "es": "Incorrecto. GAA codifica para ácido glutámico (Glu), no para lisina (Lys).",
+          "fr": "Incorrect. GAA code pour l'acide glutamique (Glu), pas la lysine (Lys).",
+          "de": "Falsch. GAA kodiert für Glutaminsäure (Glu), nicht für Lysin (Lys).",
+          "ja": "不正確です。GAAはリジン（Lys）ではなくグルタミン酸（Glu）をコードします。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "To translate the mRNA sequence 5'-AGAGAACCGCGA-3', it must be read in non-overlapping triplets (codons) from 5' to 3'. This breaks the sequence into: AGA, GAA, CCG, CGA. Using the codon table (Figure 17.6):\n- AGA codes for Arginine (Arg)\n- GAA codes for Glutamic acid (Glu)\n- CCG codes for Proline (Pro)\n- CGA codes for Arginine (Arg)\nThus, the resulting amino acid sequence is Arg-Glu-Pro-Arg.",
+      "zh": "要翻译 mRNA 序列 5'-AGAGAACCGCGA-3'，必须以 5' 到 3' 的方向读取非重叠的三联体（密码子）。这会将序列分解为：AGA、GAA、CCG、CGA。使用密码子表（图 17.6）：\n- AGA 编码精氨酸 (Arg)\n- GAA 编码谷氨酸 (Glu)\n- CCG 编码脯氨酸 (Pro)\n- CGA 编码精氨酸 (Arg)\n因此，产生的氨基酸序列是 精氨酸-谷氨酸-脯氨酸-精氨酸。",
+      "es": "Para traducir la secuencia de ARNm 5'-AGAGAACCGCGA-3', debe leerse en tripletes (codones) no superpuestos de 5' a 3'. Esto divide la secuencia en: AGA, GAA, CCG, CGA. Usando la tabla de codones (Figura 17.6):\n- AGA codifica para Arginina (Arg)\n- GAA codifica para Ácido glutámico (Glu)\n- CCG codifica para Prolina (Pro)\n- CGA codifica para Arginina (Arg)\nPor lo tanto, la secuencia de aminoácidos resultante es Arg-Glu-Pro-Arg.",
+      "fr": "Pour traduire la séquence d'ARNm 5'-AGAGAACCGCGA-3', elle doit être lue en triplets (codons) non chevauchants de 5' vers 3'. Cela divise la séquence en : AGA, GAA, CCG, CGA. En utilisant le tableau des codons (Figure 17.6) :\n- AGA code pour l'Arginine (Arg)\n- GAA code pour l'Acide glutamique (Glu)\n- CCG code pour la Proline (Pro)\n- CGA code pour l'Arginine (Arg)\nAinsi, la séquence d'acides aminés résultante est Arg-Glu-Pro-Arg.",
+      "de": "Um die mRNA-Sequenz 5'-AGAGAACCGCGA-3' zu übersetzen, muss sie in nicht überlappenden Tripletts (Codons) von 5' nach 3' gelesen werden. Dies zerlegt die Sequenz in: AGA, GAA, CCG, CGA. Unter Verwendung der Codon-Tabelle (Abbildung 17.6):\n- AGA kodiert für Arginin (Arg)\n- GAA kodiert für Glutaminsäure (Glu)\n- CCG kodiert für Prolin (Pro)\n- CGA kodiert für Arginin (Arg)\nDie resultierende Aminosäuresequenz ist somit Arg-Glu-Pro-Arg.",
+      "ja": "mRNA配列5'-AGAGAACCGCGA-3'を翻訳するには、5'から3'の方向で重複しない3つ組（コドン）として読み取る必要があります。これにより、配列はAGA、GAA、CCG、CGAに分割されます。コドン表（図17.6）を使用すると：\n- AGAはアルギニン（Arg）をコードします\n- GAAはグルタミン酸（Glu）をコードします\n- CCGはプロリン（Pro）をコードします\n- CGAはアルギニン（Arg）をコードします\nしたがって、結果として得られるアミノ酸配列はアルギニン-グルタミン酸-プロリン-アルギニンです。"
+    }
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "difficulty": "easy",
+    "question_text": {
+      "en": "When you hold your breath, which of the following blood gas changes first leads to the urge to breathe?",
+      "zh": "当你屏住呼吸时，以下哪种血液气体变化首先导致呼吸冲动？",
+      "es": "Cuando contienes la respiración, ¿cuál de los siguientes cambios en los gases sanguíneos es el primero en provocar la necesidad de respirar?",
+      "fr": "Lorsque vous retenez votre souffle, quel est le premier changement dans les gaz sanguins qui déclenche l'envie de respirer ?",
+      "de": "Wenn Sie den Atem anhalten, welche der folgenden Blutgasveränderungen führt zuerst zum Drang zu atmen?",
+      "ja": "息を止めたとき、以下の血液ガス変化のうち、最初に呼吸の衝動を引き起こすのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Rising O2",
+          "zh": "氧气升高",
+          "es": "Aumento de O2",
+          "fr": "Augmentation de l'O2",
+          "de": "Steigender O2",
+          "ja": "酸素の上昇"
+        },
+        "feedback": {
+          "en": "Incorrect. Holding breath leads to falling O2, not rising.",
+          "zh": "不正确。屏住呼吸会导致氧气下降，而不是升高。",
+          "es": "Incorrecto. Contener la respiración provoca una disminución de O2, no un aumento.",
+          "fr": "Incorrect. Retenir son souffle entraîne une diminution de l'O2, et non une augmentation.",
+          "de": "Falsch. Das Anhalten des Atems führt zu fallendem O2, nicht zu steigendem.",
+          "ja": "不正解。息を止めると酸素は減少し、上昇することはありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Falling O2",
+          "zh": "氧气下降",
+          "es": "Disminución de O2",
+          "fr": "Diminution de l'O2",
+          "de": "Fallender O2",
+          "ja": "酸素の下降"
+        },
+        "feedback": {
+          "en": "Incorrect. While O2 does fall, it's the rising CO2 (and subsequent drop in pH) that is the primary trigger for the urge to breathe.",
+          "zh": "不正确。虽然氧气确实会下降，但引起呼吸冲动的主要原因是二氧化碳的升高（以及随之而来的pH值下降）。",
+          "es": "Incorrecto. Aunque el O2 disminuye, el aumento de CO2 (y la subsiguiente caída del pH) es el principal desencadenante de la necesidad de respirar.",
+          "fr": "Incorrect. Bien que l'O2 diminue, c'est l'augmentation du CO2 (et la baisse subséquente du pH) qui est le déclencheur principal de l'envie de respirer.",
+          "de": "Falsch. Während O2 tatsächlich fällt, ist der steigende CO2-Wert (und der daraus resultierende pH-Abfall) der primäre Auslöser für den Drang zu atmen.",
+          "ja": "不正解。酸素は減少しますが、呼吸衝動の主要な引き金となるのは二酸化炭素の上昇（およびそれに続くpHの低下）です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Rising CO2",
+          "zh": "二氧化碳升高",
+          "es": "Aumento de CO2",
+          "fr": "Augmentation du CO2",
+          "de": "Steigender CO2",
+          "ja": "二酸化炭素の上昇"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Falling CO2",
+          "zh": "二氧化碳下降",
+          "es": "Disminución de CO2",
+          "fr": "Diminution du CO2",
+          "de": "Fallender CO2",
+          "ja": "二酸化炭素の下降"
+        },
+        "feedback": {
+          "en": "Incorrect. Holding breath leads to rising CO2, not falling.",
+          "zh": "不正确。屏住呼吸会导致二氧化碳升高，而不是下降。",
+          "es": "Incorrecto. Contener la respiración provoca un aumento de CO2, no una disminución.",
+          "fr": "Incorrect. Retenir son souffle entraîne une augmentation du CO2, et non une diminution.",
+          "de": "Falsch. Das Anhalten des Atems führt zu steigendem CO2, nicht zu fallendem.",
+          "ja": "不正解。息を止めると二酸化炭素は上昇し、下降することはありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The urge to breathe is primarily triggered by an increase in carbon dioxide (CO2) levels in the blood, which leads to a decrease in blood pH. Chemoreceptors detect this change and signal the respiratory control center.",
+      "zh": "呼吸冲动主要由血液中二氧化碳（CO2）水平的升高引发，这会导致血液pH值下降。化学感受器检测到这一变化并向呼吸控制中心发出信号。",
+      "es": "La necesidad de respirar es provocada principalmente por un aumento en los niveles de dióxido de carbono (CO2) en la sangre, lo que lleva a una disminución del pH sanguíneo. Los quimiorreceptores detectan este cambio y envían señales al centro de control respiratorio.",
+      "fr": "L'envie de respirer est principalement déclenchée par une augmentation des niveaux de dioxyde de carbone (CO2) dans le sang, ce qui entraîne une diminution du pH sanguin. Les chimiorécepteurs détectent ce changement et signalent le centre de contrôle respiratoire.",
+      "de": "Der Drang zu atmen wird hauptsächlich durch einen Anstieg des Kohlendioxidgehalts (CO2) im Blut ausgelöst, der zu einem Abfall des Blut-pH-Wertes führt. Chemorezeptoren erkennen diese Veränderung und signalisieren das Atemzentrum.",
+      "ja": "呼吸の衝動は、主に血液中の二酸化炭素（CO2）レベルの増加によって引き起こされ、これにより血液のpHが低下します。化学受容器がこの変化を感知し、呼吸中枢に信号を送ります。"
+    }
+  },
+  {
+    "page_number": 1000,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the provided graph illustrating O2 saturation of hemoglobin (%), which statement accurately describes the difference between fetal and adult hemoglobin dissociation curves and its physiological significance?",
+      "zh": "根据提供的血红蛋白氧饱和度（%）图表，哪项陈述准确描述了胎儿血红蛋白和成人血红蛋白解离曲线之间的差异及其生理学意义？",
+      "es": "Basándose en el gráfico proporcionado que ilustra la saturación de O2 de la hemoglobina (%), ¿qué afirmación describe con precisión la diferencia entre las curvas de disociación de la hemoglobina fetal y adulta y su significado fisiológico?",
+      "fr": "Basée sur le graphique fourni illustrant la saturation en O2 de l'hémoglobine (%), quelle affirmation décrit précisément la différence entre les courbes de dissociation de l'hémoglobine fœtale et adulte et sa signification physiologique ?",
+      "de": "Basierend auf der bereitgestellten Grafik, die die O2-Sättigung von Hämoglobin (%) darstellt, welche Aussage beschreibt die Unterschiede zwischen fetaler und erwachsener Hämoglobin-Dissoziationskurve und deren physiologische Bedeutung genau?",
+      "ja": "提示されたヘモグロビン酸素飽和度（%）を示すグラフに基づいて、胎児ヘモグロビンと成人ヘモグロビンの解離曲線の違いとその生理学的意義を正確に説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Fetal hemoglobin has a lower affinity for O2 than adult hemoglobin, facilitating O2 release to the fetus.",
+          "zh": "胎儿血红蛋白对氧气的亲和力低于成人血红蛋白，这有利于氧气释放给胎儿。",
+          "es": "La hemoglobina fetal tiene menor afinidad por el O2 que la hemoglobina adulta, facilitando la liberación de O2 al feto.",
+          "fr": "L'hémoglobine fœtale a une affinité plus faible pour l'O2 que l'hémoglobine adulte, facilitant la libération d'O2 vers le fœtus.",
+          "de": "Fetales Hämoglobin hat eine geringere O2-Affinität als adultes Hämoglobin, was die O2-Freisetzung an den Fötus erleichtert.",
+          "ja": "胎児ヘモグロビンは成人ヘモグロビンよりも酸素親和性が低く、胎児への酸素放出を促進する。"
+        },
+        "feedback": {
+          "en": "Incorrect. The graph shows the fetal curve is to the left of the adult curve, indicating higher O2 affinity. Lower affinity would hinder O2 uptake by the fetus.",
+          "zh": "不正确。图表显示胎儿曲线位于成人曲线的左侧，表明氧气亲和力更高。亲和力较低会阻碍胎儿吸收氧气。",
+          "es": "Incorrecto. El gráfico muestra que la curva fetal está a la izquierda de la curva adulta, lo que indica una mayor afinidad por el O2. Una menor afinidad dificultaría la captación de O2 por parte del feto.",
+          "fr": "Incorrect. Le graphique montre que la courbe fœtale est à gauche de la courbe adulte, indiquant une affinité plus élevée pour l'O2. Une affinité plus faible entraverait l'absorption d'O2 par le fœtus.",
+          "de": "Falsch. Das Diagramm zeigt, dass die fetale Kurve links von der adulten Kurve liegt, was auf eine höhere O2-Affinität hindeutet. Eine geringere Affinität würde die O2-Aufnahme durch den Fötus behindern.",
+          "ja": "不正解。グラフは胎児の曲線が成人の曲線よりも左側にあることを示しており、これは酸素親和性が高いことを意味します。親和性が低いと胎児による酸素の取り込みが妨げられます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Fetal hemoglobin has a higher affinity for O2 than adult hemoglobin, allowing it to extract O2 from the mother's blood.",
+          "zh": "胎儿血红蛋白对氧气的亲和力高于成人血红蛋白，使其能够从母亲血液中提取氧气。",
+          "es": "La hemoglobina fetal tiene mayor afinidad por el O2 que la hemoglobina adulta, lo que le permite extraer O2 de la sangre materna.",
+          "fr": "L'hémoglobine fœtale a une affinité plus élevée pour l'O2 que l'hémoglobine adulte, ce qui lui permet d'extraire l'O2 du sang de la mère.",
+          "de": "Fetales Hämoglobin hat eine höhere O2-Affinität als adultes Hämoglobin, wodurch es O2 aus dem mütterlichen Blut aufnehmen kann.",
+          "ja": "胎児ヘモグロビンは成人ヘモグロビンよりも酸素親和性が高く、母親の血液から酸素を抽出することを可能にする。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Adult hemoglobin has a higher affinity for O2 than fetal hemoglobin, ensuring the mother retains sufficient O2.",
+          "zh": "成人血红蛋白对氧气的亲和力高于胎儿血红蛋白，确保母亲保留足够的氧气。",
+          "es": "La hemoglobina adulta tiene mayor afinidad por el O2 que la hemoglobina fetal, asegurando que la madre retenga suficiente O2.",
+          "fr": "L'hémoglobine adulte a une affinité plus élevée pour l'O2 que l'hémoglobine fœtale, garantissant que la mère conserve suffisamment d'O2.",
+          "de": "Adultes Hämoglobin hat eine höhere O2-Affinität als fetales Hämoglobin, wodurch sichergestellt wird, dass die Mutter ausreichend O2 behält.",
+          "ja": "成人ヘモグロビンは胎児ヘモグロビンよりも酸素親和性が高く、母親が十分な酸素を保持できるようにする。"
+        },
+        "feedback": {
+          "en": "Incorrect. The graph shows the opposite; fetal hemoglobin has a higher affinity.",
+          "zh": "不正确。图表显示情况正好相反；胎儿血红蛋白具有更高的亲和力。",
+          "es": "Incorrecto. El gráfico muestra lo contrario; la hemoglobina fetal tiene una mayor afinidad.",
+          "fr": "Incorrect. Le graphique montre le contraire ; l'hémoglobine fœtale a une affinité plus élevée.",
+          "de": "Falsch. Das Diagramm zeigt das Gegenteil; fetales Hämoglobin hat eine höhere Affinität.",
+          "ja": "不正解。グラフは逆を示しています。胎児ヘモグロビンの方が酸素親和性が高いです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Both hemoglobins have the same O2 affinity, and the difference in O2 transfer is due to a pH gradient.",
+          "zh": "两种血红蛋白对氧气的亲和力相同，氧气转移的差异是由于pH梯度。",
+          "es": "Ambas hemoglobinas tienen la misma afinidad por el O2, y la diferencia en la transferencia de O2 se debe a un gradiente de pH.",
+          "fr": "Les deux hémoglobines ont la même affinité pour l'O2, et la différence de transfert d'O2 est due à un gradient de pH.",
+          "de": "Beide Hämoglobine haben die gleiche O2-Affinität, und der Unterschied in der O2-Übertragung ist auf einen pH-Gradienten zurückzuführen.",
+          "ja": "両方のヘモグロビンは同じ酸素親和性を持ち、酸素移動の差はpH勾配によるものである。"
+        },
+        "feedback": {
+          "en": "Incorrect. The graph clearly shows different O2 affinities for fetal and adult hemoglobin. While pH gradients play a role in O2 release, the primary difference highlighted by the curves is the intrinsic affinity.",
+          "zh": "不正确。图表清楚地显示了胎儿和成人血红蛋白对氧气的亲和力不同。虽然pH梯度在氧气释放中发挥作用，但曲线所突出的主要差异是内在亲和力。",
+          "es": "Incorrecto. El gráfico muestra claramente diferentes afinidades de O2 para la hemoglobina fetal y adulta. Aunque los gradientes de pH juegan un papel en la liberación de O2, la diferencia principal destacada por las curvas es la afinidad intrínseca.",
+          "fr": "Incorrect. Le graphique montre clairement des affinités différentes pour l'O2 entre l'hémoglobine fœtale et adulte. Bien que les gradients de pH jouent un rôle dans la libération d'O2, la différence principale mise en évidence par les courbes est l'affinité intrinsèque.",
+          "de": "Falsch. Das Diagramm zeigt deutlich unterschiedliche O2-Affinitäten für fetales und adultes Hämoglobin. Während pH-Gradienten bei der O2-Freisetzung eine Rolle spielen, ist der Hauptunterschied, der durch die Kurven hervorgehoben wird, die intrinsische Affinität.",
+          "ja": "不正解。グラフは胎児ヘモグロビンと成人ヘモグロビンで酸素親和性が明らかに異なることを示しています。pH勾配は酸素放出に役割を果たしますが、曲線が示す主な違いは固有の親和性です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The fetal hemoglobin dissociation curve is shifted to the left compared to the adult curve, indicating that fetal hemoglobin has a higher affinity for oxygen. This higher affinity allows the fetus to effectively extract oxygen from the mother's blood, which has a lower partial pressure of oxygen (PO2) after passing through the placenta.",
+      "zh": "胎儿血红蛋白解离曲线相对于成人曲线向左移动，表明胎儿血红蛋白对氧气具有更高的亲和力。这种更高的亲和力使得胎儿能够有效地从母体血液中提取氧气，即使母体血液在通过胎盘后氧分压（PO2）较低。",
+      "es": "La curva de disociación de la hemoglobina fetal está desplazada hacia la izquierda en comparación con la curva adulta, lo que indica que la hemoglobina fetal tiene una mayor afinidad por el oxígeno. Esta mayor afinidad permite al feto extraer oxígeno de la sangre materna de manera efectiva, incluso con una menor presión parcial de oxígeno (PO2) después de pasar por la placenta.",
+      "fr": "La courbe de dissociation de l'hémoglobine fœtale est décalée vers la gauche par rapport à la courbe adulte, indiquant que l'hémoglobine fœtale a une affinité plus élevée pour l'oxygène. Cette affinité plus élevée permet au fœtus d'extraire efficacement l'oxygène du sang maternel, qui a une pression partielle d'oxygène (PO2) plus faible après avoir traversé le placenta.",
+      "de": "Die Dissoziationskurve des fetalen Hämoglobins ist im Vergleich zur Erwachsenenkurve nach links verschoben, was darauf hinweist, dass fetales Hämoglobin eine höhere Affinität zu Sauerstoff hat. Diese höhere Affinität ermöglicht es dem Fötus, Sauerstoff auch bei einem niedrigeren Sauerstoffpartialdruck (PO2) nach der Passage durch die Plazenta effektiv aus dem mütterlichen Blut aufzunehmen.",
+      "ja": "胎児ヘモグロビンの解離曲線は成人曲線よりも左にシフトしており、これは胎児ヘモグロビンが酸素に対してより高い親和性を持っていることを示しています。この高い親和性により、胎児は胎盤を通過した後の酸素分圧（PO2）が低い母親の血液から効率的に酸素を抽出することができます。"
+    }
+  },
+  {
+    "page_number": 1000,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which feature is common to the circulatory systems of both amphibians and humans?",
+      "zh": "两栖动物和人类的循环系统有何共同特征？",
+      "es": "¿Qué característica es común a los sistemas circulatorios de anfibios y humanos?",
+      "fr": "Quelle caractéristique est commune aux systèmes circulatoires des amphibiens et des humains ?",
+      "de": "Welches Merkmal ist den Kreislaufsystemen von Amphibien und Menschen gemeinsam?",
+      "ja": "両生類とヒトの循環系に共通する特徴は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The number of heart chambers.",
+          "zh": "心室的数量。",
+          "es": "El número de cámaras cardíacas.",
+          "fr": "Le nombre de cavités cardiaques.",
+          "de": "Die Anzahl der Herzkammern.",
+          "ja": "心臓の部屋の数。"
+        },
+        "feedback": {
+          "en": "Incorrect. Amphibians typically have three heart chambers (two atria, one ventricle), while humans have four.",
+          "zh": "不正确。两栖动物通常有三个心室（两个心房，一个心室），而人类有四个。",
+          "es": "Incorrecto. Los anfibios suelen tener tres cámaras cardíacas (dos aurículas, un ventrículo), mientras que los humanos tienen cuatro.",
+          "fr": "Incorrect. Les amphibiens ont généralement trois cavités cardiaques (deux oreillettes, un ventricule), tandis que les humains en ont quatre.",
+          "de": "Falsch. Amphibien haben typischerweise drei Herzkammern (zwei Vorhöfe, eine Kammer), während Menschen vier haben.",
+          "ja": "不正解。両生類は通常3つの心臓の部屋（2心房、1心室）を持つ一方、ヒトは4つです。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A complete separation of circuits for circulation.",
+          "zh": "循环回路的完全分离。",
+          "es": "Una separación completa de los circuitos para la circulación.",
+          "fr": "Une séparation complète des circuits de circulation.",
+          "de": "Eine vollständige Trennung der Kreisläufe für die Zirkulation.",
+          "ja": "循環回路の完全な分離。"
+        },
+        "feedback": {
+          "en": "Incorrect. Humans have a complete separation of pulmonary and systemic circuits; amphibians have an incomplete separation (mixing of oxygenated and deoxygenated blood in the single ventricle).",
+          "zh": "不正确。人类的肺循环和体循环是完全分离的；两栖动物的循环是不完全分离的（氧合血和脱氧血在单个心室中混合）。",
+          "es": "Incorrecto. Los humanos tienen una separación completa de los circuitos pulmonar y sistémico; los anfibios tienen una separación incompleta (mezcla de sangre oxigenada y desoxigenada en el único ventrículo).",
+          "fr": "Incorrect. Les humains ont une séparation complète des circuits pulmonaire et systémique ; les amphibiens ont une séparation incomplète (mélange de sang oxygéné et désoxygéné dans le ventricule unique).",
+          "de": "Falsch. Menschen haben eine vollständige Trennung von Lungen- und Körperkreislauf; Amphibien haben eine unvollständige Trennung (Mischung von sauerstoffreichem und sauerstoffarmem Blut in der einzigen Herzkammer).",
+          "ja": "不正解。ヒトは肺循環と体循環が完全に分離していますが、両生類は不完全な分離（単一の心室で酸素化された血液と脱酸素化された血液が混ざる）をしています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The number of circuits for circulation.",
+          "zh": "循环回路的数量。",
+          "es": "El número de circuitos para la circulación.",
+          "fr": "Le nombre de circuits de circulation.",
+          "de": "Die Anzahl der Kreisläufe für die Zirkulation.",
+          "ja": "循環回路の数。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A low blood pressure in the systemic circuit.",
+          "zh": "体循环中的低血压。",
+          "es": "Una baja presión arterial en el circuito sistémico.",
+          "fr": "Une faible pression sanguine dans le circuit systémique.",
+          "de": "Ein niedriger Blutdruck im systemischen Kreislauf.",
+          "ja": "体循環における低血圧。"
+        },
+        "feedback": {
+          "en": "Incorrect. While amphibians might have lower pressure compared to mammals, the common feature is not the *level* of pressure but the *number* of circuits (double circulation). Humans maintain high systemic pressure.",
+          "zh": "不正确。虽然两栖动物的血压可能低于哺乳动物，但共同特征并非血压的*水平*，而是循环回路的*数量*（双循环）。人类维持较高的体循环血压。",
+          "es": "Incorrecto. Si bien los anfibios pueden tener una presión más baja en comparación con los mamíferos, la característica común no es el *nivel* de presión sino el *número* de circuitos (circulación doble). Los humanos mantienen una presión sistémica alta.",
+          "fr": "Incorrect. Bien que les amphibiens puissent avoir une pression plus basse que les mammifères, la caractéristique commune n'est pas le *niveau* de pression mais le *nombre* de circuits (double circulation). Les humains maintiennent une pression systémique élevée.",
+          "de": "Falsch. Während Amphibien möglicherweise einen niedrigeren Druck als Säugetiere haben, ist das gemeinsame Merkmal nicht das *Niveau* des Drucks, sondern die *Anzahl* der Kreisläufe (doppelter Kreislauf). Menschen halten einen hohen Systemdruck aufrecht.",
+          "ja": "不正解。両生類は哺乳類と比較して血圧が低いかもしれませんが、共通の特徴は血圧の*レベル*ではなく、循環回路の*数*（二重循環）です。ヒトは高い体循環圧を維持します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "Both amphibians and humans possess a double circulatory system, meaning blood passes through the heart twice during one complete circuit of the body. Amphibians have an incomplete double circulation with a three-chambered heart (two atria, one ventricle), while humans have a complete double circulation with a four-chambered heart.",
+      "zh": "两栖动物和人类都具有双循环系统，这意味着血液在体内完成一次完整循环时两次通过心脏。两栖动物具有不完全的双循环系统和三腔心脏（两个心房，一个心室），而人类具有完全的双循环系统和四腔心脏。",
+      "es": "Tanto los anfibios como los humanos poseen un sistema circulatorio doble, lo que significa que la sangre pasa por el corazón dos veces durante un circuito completo del cuerpo. Los anfibios tienen una circulación doble incompleta con un corazón de tres cámaras (dos aurículas, un ventrículo), mientras que los humanos tienen una circulación doble completa con un corazón de cuatro cámaras.",
+      "fr": "Les amphibiens et les humains possèdent tous deux un système circulatoire double, ce qui signifie que le sang passe deux fois par le cœur au cours d'un cycle complet du corps. Les amphibiens ont une double circulation incomplète avec un cœur à trois cavités (deux oreillettes, un ventricule), tandis que les humains ont une double circulation complète avec un cœur à quatre cavités.",
+      "de": "Sowohl Amphibien als auch Menschen besitzen ein doppeltes Kreislaufsystem, was bedeutet, dass das Blut während eines vollständigen Körperkreislaufs zweimal das Herz passiert. Amphibien haben einen unvollständigen doppelten Kreislauf mit einem dreikammerigen Herzen (zwei Vorhöfe, eine Kammer), während Menschen einen vollständigen doppelten Kreislauf mit einem vierkammerigen Herzen haben.",
+      "ja": "両生類とヒトはともに二重循環系を持っており、これは血液が体内を一周する間に心臓を2回通過することを意味します。両生類は3つの部屋を持つ心臓（2心房、1心室）を持つ不完全な二重循環であり、ヒトは4つの部屋を持つ心臓を持つ完全な二重循環です。"
+    }
+  },
+  {
+    "page_number": 1000,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Focusing on respiration and gas exchange, explain why it is improbable for insects to achieve the giant sizes seen in fictional monsters like Mothra.",
+      "zh": "着眼于呼吸和气体交换，解释为什么昆虫不可能达到像魔斯拉这样虚构怪物般的巨大体型。",
+      "es": "Centrándose en la respiración y el intercambio de gases, explique por qué es improbable que los insectos alcancen los tamaños gigantes vistos en monstruos ficticios como Mothra.",
+      "fr": "En se concentrant sur la respiration et les échanges gazeux, expliquez pourquoi il est improbable que les insectes atteignent les tailles gigantesques observées chez des monstres de fiction comme Mothra.",
+      "de": "Konzentrieren Sie sich auf Atmung und Gasaustausch und erklären Sie, warum es unwahrscheinlich ist, dass Insekten die riesigen Größen fiktiver Monster wie Mothra erreichen.",
+      "ja": "呼吸とガス交換に焦点を当てて、なぜ昆虫がモスラのような架空の怪獣に見られるような巨大なサイズに達することがあり得ないのかを説明してください。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Insect exoskeletons would become too heavy to support large bodies, hindering movement.",
+          "zh": "昆虫的外骨骼会变得太重，无法支撑庞大的身体，从而阻碍运动。",
+          "es": "Los exoesqueletos de los insectos se volverían demasiado pesados para soportar cuerpos grandes, dificultando el movimiento.",
+          "fr": "Les exosquelettes des insectes deviendraient trop lourds pour supporter de grands corps, entravant le mouvement.",
+          "de": "Insekten-Exoskelette würden zu schwer werden, um große Körper zu tragen, was die Bewegung behindert.",
+          "ja": "昆虫の外骨格は大きすぎると体を支えきれず、動きを妨げるほど重くなるだろう。"
+        },
+        "feedback": {
+          "en": "While exoskeleton weight is a factor for large size, the question specifically asks to focus on *respiration and gas exchange*.",
+          "zh": "虽然外骨骼的重量是影响体型大小的一个因素，但问题明确要求侧重于*呼吸和气体交换*。",
+          "es": "Aunque el peso del exoesqueleto es un factor para el tamaño grande, la pregunta pide específicamente centrarse en la *respiración y el intercambio de gases*.",
+          "fr": "Bien que le poids de l'exosquelette soit un facteur limitant pour la taille, la question demande spécifiquement de se concentrer sur la *respiration et les échanges gazeux*.",
+          "de": "Während das Gewicht des Exoskeletts ein Faktor für die Größe ist, fragt die Frage speziell nach *Atmung und Gasaustausch*.",
+          "ja": "外骨格の重量は大型化の要因ですが、この問題は特に*呼吸とガス交換*に焦点を当てるように求めています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The tracheal system, which relies on diffusion for gas transport, would be inefficient over long distances.",
+          "zh": "昆虫的气管系统依赖扩散进行气体运输，在长距离上效率低下。",
+          "es": "El sistema traqueal, que depende de la difusión para el transporte de gases, sería ineficiente a largas distancias.",
+          "fr": "Le système trachéal, qui repose sur la diffusion pour le transport des gaz, serait inefficace sur de longues distances.",
+          "de": "Das Tracheensystem, das für den Gastransport auf Diffusion angewiesen ist, wäre über lange Strecken ineffizient.",
+          "ja": "ガス輸送を拡散に頼る気管系は、長距離では非効率になるだろう。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Their open circulatory systems are incapable of supplying enough nutrients to very large tissues.",
+          "zh": "它们的开放式循环系统无法为非常大的组织提供足够的营养。",
+          "es": "Sus sistemas circulatorios abiertos son incapaces de suministrar suficientes nutrientes a tejidos muy grandes.",
+          "fr": "Leurs systèmes circulatoires ouverts sont incapables de fournir suffisamment de nutriments aux tissus très volumineux.",
+          "de": "Ihre offenen Kreislaufsysteme sind nicht in der Lage, sehr große Gewebe mit ausreichend Nährstoffen zu versorgen.",
+          "ja": "彼らの開放循環系は、非常に大きな組織に十分な栄養を供給することができない。"
+        },
+        "feedback": {
+          "en": "While open circulatory systems are less efficient than closed ones, the primary limitation for *gas exchange* in insects at large sizes is the tracheal system's diffusion-based nature, not solely nutrient transport.",
+          "zh": "虽然开放式循环系统不如闭合式循环系统高效，但昆虫体型增大时*气体交换*的主要限制在于气管系统基于扩散的特性，而不仅仅是营养运输。",
+          "es": "Aunque los sistemas circulatorios abiertos son menos eficientes que los cerrados, la limitación principal para el *intercambio de gases* en insectos de gran tamaño es la naturaleza de difusión del sistema traqueal, no solo el transporte de nutrientes.",
+          "fr": "Bien que les systèmes circulatoires ouverts soient moins efficaces que les systèmes fermés, la principale limitation pour les *échanges gazeux* chez les insectes de grande taille est la nature du système trachéal basé sur la diffusion, et non uniquement le transport des nutriments.",
+          "de": "Obwohl offene Kreislaufsysteme weniger effizient sind als geschlossene, liegt die primäre Einschränkung für den *Gasaustausch* bei großen Insekten in der diffusionsbasierten Natur des Tracheensystems und nicht nur im Nährstofftransport.",
+          "ja": "開放循環系は閉鎖循環系よりも効率が悪いですが、昆虫が大型化する際の*ガス交換*における主な制約は、栄養輸送だけでなく、気管系が拡散に依存している性質にあります。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Giant insects would generate too much metabolic heat, leading to overheating without specialized cooling mechanisms.",
+          "zh": "巨型昆虫会产生过多的代谢热量，如果没有专门的冷却机制，会导致过热。",
+          "es": "Los insectos gigantes generarían demasiado calor metabólico, lo que llevaría al sobrecalentamiento sin mecanismos de enfriamiento especializados.",
+          "fr": "Les insectes géants généreraient trop de chaleur métabolique, entraînant une surchauffe sans mécanismes de refroidissement spécialisés.",
+          "de": "Riesige Insekten würden zu viel Stoffwechselwärme erzeugen, was ohne spezielle Kühlmechanismen zur Überhitzung führen würde.",
+          "ja": "巨大な昆虫は代謝熱を過剰に発生させ、特殊な冷却機構がなければ過熱につながるだろう。"
+        },
+        "feedback": {
+          "en": "While metabolic heat can be an issue, the fundamental limitation for *gas exchange* in insects at large sizes is the reliance on diffusion through tracheae.",
+          "zh": "虽然代谢热量可能是一个问题，但昆虫体型增大时*气体交换*的根本限制在于其通过气管进行扩散的依赖性。",
+          "es": "Aunque el calor metabólico puede ser un problema, la limitación fundamental para el *intercambio de gases* en insectos de gran tamaño es la dependencia de la difusión a través de las tráqueas.",
+          "fr": "Bien que la chaleur métabolique puisse être un problème, la limitation fondamentale pour les *échanges gazeux* chez les insectes de grande taille est la dépendance à la diffusion à travers les trachées.",
+          "de": "Obwohl Stoffwechselwärme ein Problem sein kann, liegt die grundlegende Einschränkung für den *Gasaustausch* bei großen Insekten in der Abhängigkeit von der Diffusion durch die Tracheen.",
+          "ja": "代謝熱は問題になることがありますが、大型昆虫における*ガス交換*の根本的な限界は、気管を通じた拡散への依存です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Insects primarily use a tracheal system for gas exchange, which consists of a network of tubes that extend throughout the body. This system relies heavily on diffusion to transport gases, especially in smaller insects. For larger organisms, the distance over which gases would need to diffuse becomes too great for this method to be efficient enough to meet metabolic demands. This is a fundamental physiological limitation that makes giant insect sizes improbable.",
+      "zh": "昆虫主要通过气管系统进行气体交换，该系统由遍布全身的管网组成。这个系统在气体运输上严重依赖扩散，尤其是在小型昆虫中。对于较大的生物体来说，气体需要扩散的距离变得过长，使得这种方法无法有效满足代谢需求。这是使得巨型昆虫体型变得不可能的根本生理限制。",
+      "es": "Los insectos utilizan principalmente un sistema traqueal para el intercambio de gases, que consiste en una red de tubos que se extienden por todo el cuerpo. Este sistema depende en gran medida de la difusión para transportar gases, especialmente en insectos más pequeños. Para organismos más grandes, la distancia a la que los gases tendrían que difundirse se vuelve demasiado grande para que este método sea lo suficientemente eficiente como para satisfacer las demandas metabólicas. Esta es una limitación fisiológica fundamental que hace improbables los tamaños gigantes de los insectos.",
+      "fr": "Les insectes utilisent principalement un système trachéal pour les échanges gazeux, qui consiste en un réseau de tubes s'étendant dans tout le corps. Ce système repose fortement sur la diffusion pour transporter les gaz, surtout chez les petits insectes. Pour les organismes plus grands, la distance sur laquelle les gaz devraient diffuser deviendrait trop importante pour que cette méthode soit suffisamment efficace pour répondre aux besoins métaboliques. C'est une limitation physiologique fondamentale qui rend les tailles géantes d'insectes improbables.",
+      "de": "Insekten nutzen hauptsächlich ein Tracheensystem für den Gasaustausch, das aus einem Netzwerk von Röhren besteht, die sich durch den gesamten Körper erstrecken. Dieses System ist stark auf Diffusion angewiesen, um Gase zu transportieren, insbesondere bei kleineren Insekten. Bei größeren Organismen wird die Strecke, über die Gase diffundieren müssten, zu groß, als dass diese Methode effizient genug wäre, um den Stoffwechselbedarf zu decken. Dies ist eine grundlegende physiologische Einschränkung, die riesige Insektengrößen unwahrscheinlich macht.",
+      "ja": "昆虫は主に気管系を介してガス交換を行います。このシステムは、特に小型の昆虫において、ガス輸送を拡散に大きく依存しています。大型の生物の場合、ガスが拡散する必要がある距離が長くなりすぎ、この方法では代謝要求を満たすのに十分な効率が得られません。これが巨大昆虫のサイズを不可能にする根本的な生理学的限界です。"
+    }
+  }
+]

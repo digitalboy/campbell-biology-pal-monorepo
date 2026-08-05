@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 402,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements accurately describes the process of peptide bond formation during translation elongation, as depicted in Figure 17.20?",
+      "zh": "根据图 17.20 所示，下列哪项陈述准确描述了翻译延伸过程中肽键的形成？",
+      "es": "¿Cuál de las siguientes afirmaciones describe con precisión el proceso de formación de enlaces peptídicos durante la elongación de la traducción, como se muestra en la Figura 17.20?",
+      "fr": "Laquelle des affirmations suivantes décrit avec précision le processus de formation des liaisons peptidiques pendant l'élongation de la traduction, tel que représenté dans la Figure 17.20 ?",
+      "de": "Welche der folgenden Aussagen beschreibt den Prozess der Peptidbindung während der Translationsverlängerung, wie in Abbildung 17.20 dargestellt, genau?",
+      "ja": "図17.20に示されている翻訳伸長中のペプチド結合形成過程を正確に説明している記述はどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "An rRNA molecule in the large ribosomal subunit catalyzes the formation of the peptide bond.",
+          "zh": "大核糖体亚基中的 rRNA 分子催化肽键的形成。",
+          "es": "Una molécula de ARNr en la subunidad ribosomal grande cataliza la formación del enlace peptídico.",
+          "fr": "Une molécule d'ARNr dans la grande sous-unité ribosomale catalyse la formation de la liaison peptidique.",
+          "de": "Ein rRNA-Molekül in der großen ribosomalen Untereinheit katalysiert die Bildung der Peptidbindung.",
+          "ja": "大リボソームサブユニット内のrRNA分子がペプチド結合の形成を触媒する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The growing polypeptide chain is transferred from the A site tRNA to the P site tRNA.",
+          "zh": "正在生长的多肽链从 A 位点的 tRNA 转移到 P 位点的 tRNA。",
+          "es": "La cadena polipeptídica en crecimiento se transfiere del ARNt del sitio A al ARNt del sitio P.",
+          "fr": "La chaîne polypeptidique en croissance est transférée du ARNt du site A au ARNt du site P.",
+          "de": "Die wachsende Polypeptidkette wird von der A-Stellen-tRNA auf die P-Stellen-tRNA übertragen.",
+          "ja": "伸長中のポリペプチド鎖はA部位のtRNAからP部位のtRNAへ転移する。"
+        },
+        "feedback": {
+          "en": "This describes the wrong direction of transfer. The polypeptide is transferred from the P site to the amino acid on the A site tRNA.",
+          "zh": "这描述了错误的转移方向。多肽链是从 P 位点转移到 A 位点 tRNA 上的氨基酸。",
+          "es": "Esto describe la dirección de transferencia incorrecta. El polipéptido se transfiere del sitio P al aminoácido en el ARNt del sitio A.",
+          "fr": "Ceci décrit la mauvaise direction de transfert. Le polypeptide est transféré du site P vers l'acide aminé sur l'ARNt du site A.",
+          "de": "Dies beschreibt die falsche Übertragungsrichtung. Das Polypeptid wird von der P-Stelle auf die Aminosäure an der A-Stellen-tRNA übertragen.",
+          "ja": "これは転移の方向が間違っています。ポリペプチドはP部位からA部位のtRNA上のアミノ酸に転移します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Hydrolysis of GTP is required to form the peptide bond.",
+          "zh": "肽键的形成需要 GTP 的水解。",
+          "es": "La hidrólisis de GTP es necesaria para formar el enlace peptídico.",
+          "fr": "L'hydrolyse du GTP est nécessaire pour former la liaison peptidique.",
+          "de": "Die Hydrolyse von GTP ist für die Bildung der Peptidbindung erforderlich.",
+          "ja": "ペプチド結合の形成にはGTPの加水分解が必要です。"
+        },
+        "feedback": {
+          "en": "GTP hydrolysis is involved in codon recognition and translocation, but the peptide bond formation itself is catalyzed by rRNA, not directly powered by GTP hydrolysis.",
+          "zh": "GTP 水解参与密码子识别和易位，但肽键的形成本身是由 rRNA 催化的，并非直接由 GTP 水解提供能量。",
+          "es": "La hidrólisis de GTP está involucrada en el reconocimiento de codones y la translocación, pero la formación del enlace peptídico en sí misma es catalizada por el ARNr, no directamente impulsada por la hidrólisis de GTP.",
+          "fr": "L'hydrolyse du GTP est impliquée dans la reconnaissance des codons et la translocation, mais la formation de la liaison peptidique elle-même est catalysée par l'ARNr et non directement alimentée par l'hydrolyse du GTP.",
+          "de": "Die GTP-Hydrolyse ist an der Codon-Erkennung und Translokation beteiligt, die Peptidbindung selbst wird jedoch durch rRNA katalysiert und nicht direkt durch GTP-Hydrolyse angetrieben.",
+          "ja": "GTP加水分解はコドン認識と転座に関与しますが、ペプチド結合の形成自体はrRNAによって触媒され、GTP加水分解によって直接エネルギーが供給されるわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A protein enzyme catalyzes the peptide bond formation.",
+          "zh": "一种蛋白质酶催化肽键的形成。",
+          "es": "Una enzima proteica cataliza la formación del enlace peptídico.",
+          "fr": "Une enzyme protéique catalyse la formation de la liaison peptidique.",
+          "de": "Ein Proteinenzym katalysiert die Bildung der Peptidbindung.",
+          "ja": "タンパク質酵素がペプチド結合の形成を触媒する。"
+        },
+        "feedback": {
+          "en": "This is incorrect; rRNA (ribozyme) is the catalyst for peptide bond formation.",
+          "zh": "这是不正确的；rRNA（核酶）是肽键形成的催化剂。",
+          "es": "Esto es incorrecto; el ARNr (ribozima) es el catalizador para la formación del enlace peptídico.",
+          "fr": "C'est incorrect ; l'ARNr (ribozyme) est le catalyseur de la formation de la liaison peptidique.",
+          "de": "Dies ist falsch; rRNA (Ribozym) ist der Katalysator für die Peptidbindung.",
+          "ja": "これは間違っています。rRNA（リボザイム）がペプチド結合形成の触媒です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "As stated in Figure 17.20, step 2, \"An rRNA molecule of the large ribosomal subunit catalyzes the formation of a peptide bond...\"",
+      "zh": "根据图 17.20 步骤 2 所述，“大核糖体亚基的 rRNA 分子催化肽键的形成……”。",
+      "es": "Según lo establecido en la Figura 17.20, paso 2, \"Una molécula de ARNr de la subunidad ribosomal grande cataliza la formación de un enlace peptídico...\".",
+      "fr": "Comme indiqué dans la Figure 17.20, étape 2, « Une molécule d'ARNr de la grande sous-unité ribosomale catalyse la formation d'une liaison peptidique... ».",
+      "de": "Wie in Abbildung 17.20, Schritt 2, angegeben, \"katalysiert ein rRNA-Molekül der großen ribosomalen Untereinheit die Bildung einer Peptidbindung...\".",
+      "ja": "図17.20のステップ2に記載されている通り、「大リボソームサブユニットのrRNA分子がペプチド結合の形成を触媒する...」"
+    }
+  },
+  {
+    "page_number": 402,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following events correctly describes the translocation step during translation elongation?",
+      "zh": "下列哪项事件准确描述了翻译延伸过程中的易位步骤？",
+      "es": "¿Cuál de los siguientes eventos describe correctamente el paso de translocación durante la elongación de la traducción?",
+      "fr": "Lequel des événements suivants décrit correctement l'étape de translocation pendant l'élongation de la traduction ?",
+      "de": "Welches der folgenden Ereignisse beschreibt den Translokationsschritt während der Translationsverlängerung korrekt?",
+      "ja": "翻訳伸長中の転座ステップを正確に説明しているイベントはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The ribosome moves along the mRNA, shifting the tRNA from the A site to the P site and the empty tRNA from the P site to the E site for release.",
+          "zh": "核糖体沿着 mRNA 移动，将 A 位点的 tRNA 移到 P 位点，并将 P 位点的空 tRNA 移到 E 位点以供释放。",
+          "es": "El ribosoma se mueve a lo largo del ARNm, desplazando el ARNt del sitio A al sitio P y el ARNt vacío del sitio P al sitio E para su liberación.",
+          "fr": "Le ribosome se déplace le long de l'ARNm, déplaçant l'ARNt du site A vers le site P et l'ARNt vide du site P vers le site E pour sa libération.",
+          "de": "Das Ribosom bewegt sich entlang der mRNA, verschiebt die tRNA von der A-Stelle zur P-Stelle und die leere tRNA von der P-Stelle zur E-Stelle zur Freisetzung.",
+          "ja": "リボソームがmRNAに沿って移動し、A部位のtRNAをP部位へ、空のP部位のtRNAをE部位へ移動させて放出する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "An aminoacyl tRNA binds to the A site, forming a peptide bond with the growing polypeptide.",
+          "zh": "一个氨酰-tRNA 结合到 A 位点，与正在生长的多肽形成肽键。",
+          "es": "Un aminoacil ARNt se une al sitio A, formando un enlace peptídico con el polipéptido en crecimiento.",
+          "fr": "Un ARNt aminoacyl se lie au site A, formant une liaison peptidique avec le polypeptide en croissance.",
+          "de": "Eine Aminoacyl-tRNA bindet an die A-Stelle und bildet eine Peptidbindung mit dem wachsenden Polypeptid.",
+          "ja": "アミノアシルtRNAがA部位に結合し、伸長中のポリペプチドとペプチド結合を形成する。"
+        },
+        "feedback": {
+          "en": "This describes codon recognition and peptide bond formation, which precede translocation.",
+          "zh": "这描述了密码子识别和肽键形成，这些步骤在易位之前发生。",
+          "es": "Esto describe el reconocimiento de codones y la formación de enlaces peptídicos, que preceden a la translocación.",
+          "fr": "Ceci décrit la reconnaissance des codons et la formation des liaisons peptidiques, qui précèdent la translocation.",
+          "de": "Dies beschreibt die Codon-Erkennung und Peptidbindung, die der Translokation vorausgehen.",
+          "ja": "これはコドン認識とペプチド結合形成を説明しており、これらは転座に先行するステップです。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The polypeptide chain is released from the ribosome.",
+          "zh": "多肽链从核糖体释放。",
+          "es": "La cadena polipeptídica se libera del ribosoma.",
+          "fr": "La chaîne polypeptidique est libérée du ribosome.",
+          "de": "Die Polypeptidkette wird vom Ribosom freigesetzt.",
+          "ja": "ポリペプチド鎖がリボソームから放出される。"
+        },
+        "feedback": {
+          "en": "This describes the termination step of translation.",
+          "zh": "这描述了翻译的终止步骤。",
+          "es": "Esto describe el paso de terminación de la traducción.",
+          "fr": "Ceci décrit l'étape de terminaison de la traduction.",
+          "de": "Dies beschreibt den Terminationsschritt der Translation.",
+          "ja": "これは翻訳の終結ステップを説明しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The two ribosomal subunits dissociate from the mRNA.",
+          "zh": "两个核糖体亚基从 mRNA 上解离。",
+          "es": "Las dos subunidades ribosomales se disocian del ARNm.",
+          "fr": "Les deux sous-unités ribosomales se dissocient de l'ARNm.",
+          "de": "Die beiden ribosomalen Untereinheiten dissoziieren von der mRNA.",
+          "ja": "2つのリボソームサブユニットがmRNAから解離する。"
+        },
+        "feedback": {
+          "en": "This describes a late event in the termination step, not translocation.",
+          "zh": "这描述了终止步骤中的一个后期事件，而不是易位。",
+          "es": "Esto describe un evento tardío en el paso de terminación, no la translocación.",
+          "fr": "Ceci décrit un événement tardif de l'étape de terminaison, et non la translocation.",
+          "de": "Dies beschreibt ein spätes Ereignis im Terminationsschritt, nicht die Translokation.",
+          "ja": "これは終結ステップの後期のイベントであり、転座ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "As described in Figure 17.20, step 3, \"The ribosome translocates the tRNA in the A site to the P site. At the same time, the empty tRNA in the P site is moved to the E site, where it is released. The mRNA moves along with its bound tRNAs, bringing the next codon to be translated into the A site.\"",
+      "zh": "正如图 17.20 步骤 3 所述，“核糖体将 A 位点的 tRNA 易位到 P 位点。同时，P 位点的空 tRNA 被移到 E 位点并释放。mRNA 连同其结合的 tRNA 一起移动，将下一个待翻译的密码子带入 A 位点。”",
+      "es": "Como se describe en la Figura 17.20, paso 3, \"El ribosoma transloca el ARNt del sitio A al sitio P. Al mismo tiempo, el ARNt vacío del sitio P se mueve al sitio E, donde es liberado. El ARNm se mueve junto con sus ARNt unidos, llevando el siguiente codón a traducir al sitio A.\"",
+      "fr": "Comme décrit dans la Figure 17.20, étape 3, « Le ribosome transpose l'ARNt du site A au site P. En même temps, l'ARNt vide du site P est déplacé vers le site E, où il est libéré. L'ARNm se déplace avec ses ARNt liés, amenant le codon suivant à être traduit dans le site A. »",
+      "de": "Wie in Abbildung 17.20, Schritt 3, beschrieben: \"Das Ribosom translokiert die tRNA an der A-Stelle zur P-Stelle. Gleichzeitig wird die leere tRNA an der P-Stelle zur E-Stelle bewegt, wo sie freigesetzt wird. Die mRNA bewegt sich zusammen mit ihren gebundenen tRNAs, wodurch das nächste zu übersetzende Codon in die A-Stelle gebracht wird.\"",
+      "ja": "図17.20のステップ3に記載されている通り、「リボソームはA部位のtRNAをP部位へ転座させる。同時に、P部位の空のtRNAはE部位へ移動し、そこで放出される。mRNAは結合したtRNAと共に移動し、次に翻訳されるコドンをA部位に移動させる。」"
+    }
+  },
+  {
+    "page_number": 402,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Which of the following is a key difference between the elongation and termination phases of translation, as illustrated in Figures 17.20 and 17.21?",
+      "zh": "根据图 17.20 和图 17.21 所示，翻译的延伸阶段和终止阶段之间的关键区别是什么？",
+      "es": "¿Cuál de las siguientes es una diferencia clave entre las fases de elongación y terminación de la traducción, como se ilustra en las Figuras 17.20 y 17.21?",
+      "fr": "Quelle est la principale différence entre les phases d'élongation et de terminaison de la traduction, telles qu'illustrées dans les Figures 17.20 et 17.21 ?",
+      "de": "Welcher der folgenden Punkte ist ein wesentlicher Unterschied zwischen der Elongations- und der Terminationsphase der Translation, wie in den Abbildungen 17.20 und 17.21 dargestellt?",
+      "ja": "図17.20および図17.21に示されている翻訳の伸長段階と終結段階の主な違いはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "In termination, a release factor binds to the A site instead of an aminoacyl tRNA, whereas in elongation, aminoacyl tRNAs always bind to the A site.",
+          "zh": "在终止阶段，释放因子而非氨酰 tRNA 结合到 A 位点，而在延伸阶段，氨酰 tRNA 始终结合到 A 位点。",
+          "es": "En la terminación, un factor de liberación se une al sitio A en lugar de un ARNt aminoacil, mientras que en la elongación, los ARNt aminoaciles siempre se unen al sitio A.",
+          "fr": "En terminaison, un facteur de libération se lie au site A à la place d'un ARNt aminoacyl, alors qu'en élongation, les ARNt aminoacyl se lient toujours au site A.",
+          "de": "Bei der Termination bindet ein Freisetzungsfaktor an die A-Stelle anstelle einer Aminoacyl-tRNA, während bei der Elongation Aminoacyl-tRNAs immer an die A-Stelle binden.",
+          "ja": "終結時にはアミノアシルtRNAの代わりに放出因子がA部位に結合するのに対し、伸長時には常にアミノアシルtRNAがA部位に結合する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Elongation requires GTP hydrolysis for each step, while termination does not require any GTP hydrolysis.",
+          "zh": "延伸阶段的每一步都需要 GTP 水解，而终止阶段不需要任何 GTP 水解。",
+          "es": "La elongación requiere hidrólisis de GTP para cada paso, mientras que la terminación no requiere ninguna hidrólisis de GTP.",
+          "fr": "L'élongation nécessite l'hydrolyse du GTP à chaque étape, tandis que la terminaison ne nécessite aucune hydrolyse du GTP.",
+          "de": "Die Elongation erfordert in jedem Schritt eine GTP-Hydrolyse, während die Termination keine GTP-Hydrolyse erfordert.",
+          "ja": "伸長は各ステップでGTP加水分解を必要とするが、終結はGTP加水分解を一切必要としない。"
+        },
+        "feedback": {
+          "en": "Both elongation and termination require GTP hydrolysis. Termination specifically requires hydrolysis of two GTP molecules for dissociation.",
+          "zh": "延伸和终止都涉及 GTP 水解。终止阶段明确指出需要水解两个 GTP 分子用于解离。",
+          "es": "Tanto la elongación como la terminación requieren hidrólisis de GTP. La terminación requiere específicamente la hidrólisis de dos moléculas de GTP para la disociación.",
+          "fr": "L'élongation et la terminaison nécessitent toutes deux l'hydrolyse du GTP. La terminaison nécessite spécifiquement l'hydrolyse de deux molécules de GTP pour la dissociation.",
+          "de": "Sowohl die Elongation als auch die Termination erfordern GTP-Hydrolyse. Die Termination erfordert speziell die Hydrolyse von zwei GTP-Molekülen zur Dissoziation.",
+          "ja": "伸長と終結の両方でGTP加水分解が必要です。終結では、特に解離のために2分子のGTP加水分解が必要です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Termination leads to the formation of a peptide bond, while elongation releases the polypeptide.",
+          "zh": "终止阶段导致肽键的形成，而延伸阶段释放多肽。",
+          "es": "La terminación lleva a la formación de un enlace peptídico, mientras que la elongación libera el polipéptido.",
+          "fr": "La terminaison conduit à la formation d'une liaison peptidique, tandis que l'élongation libère le polypeptide.",
+          "de": "Die Termination führt zur Bildung einer Peptidbindung, während die Elongation das Polypeptid freisetzt.",
+          "ja": "終結はペプチド結合の形成につながるが、伸長はポリペプチドを放出する。"
+        },
+        "feedback": {
+          "en": "This statement reverses the outcomes. Elongation forms peptide bonds, and termination releases the polypeptide.",
+          "zh": "这个陈述颠倒了结果。延伸阶段形成肽键，终止阶段释放多肽。",
+          "es": "Esta afirmación invierte los resultados. La elongación forma enlaces peptídicos y la terminación libera el polipéptido.",
+          "fr": "Cette affirmation inverse les résultats. L'élongation forme des liaisons peptidiques, et la terminaison libère le polypeptide.",
+          "de": "Diese Aussage kehrt die Ergebnisse um. Die Elongation bildet Peptidbindungen, und die Termination setzt das Polypeptid frei.",
+          "ja": "この記述は結果を逆転させています。伸長はペプチド結合を形成し、終結はポリペプチドを放出します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Stop codons are recognized by specific tRNAs in termination, whereas regular codons are recognized by specific tRNAs in elongation.",
+          "zh": "终止阶段中，终止密码子由特定的 tRNA 识别，而延伸阶段中，普通密码子由特定的 tRNA 识别。",
+          "es": "Los codones de parada son reconocidos por ARNt específicos en la terminación, mientras que los codones regulares son reconocidos por ARNt específicos en la elongación.",
+          "fr": "Les codons stop sont reconnus par des ARNt spécifiques en terminaison, tandis que les codons réguliers sont reconnus par des ARNt spécifiques en élongation.",
+          "de": "Stoppcodons werden bei der Termination von spezifischen tRNAs erkannt, während reguläre Codons bei der Elongation von spezifischen tRNAs erkannt werden.",
+          "ja": "終結時には特定のtRNAによって終止コドンが認識されるが、伸長時には特定のtRNAによって通常のコドンが認識される。"
+        },
+        "feedback": {
+          "en": "Stop codons are recognized by release factors, not tRNAs, during termination.",
+          "zh": "终止密码子在终止过程中由释放因子识别，而不是 tRNA。",
+          "es": "Los codones de parada son reconocidos por factores de liberación, no por ARNt, durante la terminación.",
+          "fr": "Les codons stop sont reconnus par des facteurs de libération, et non par des ARNt, pendant la terminaison.",
+          "de": "Stoppcodons werden während der Termination von Freisetzungsfaktoren erkannt, nicht von tRNAs.",
+          "ja": "終結時には終止コドンはtRNAではなく放出因子によって認識されます。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Figure 17.21, step 1 clearly states that a release factor, shaped like a tRNA, binds to the A site when a stop codon is reached, instead of an aminoacyl tRNA. In contrast, Figure 17.20 shows aminoacyl tRNAs binding to the A site during elongation.",
+      "zh": "图 17.21 步骤 1 明确指出，当核糖体到达终止密码子时，一个形状像 tRNA 的“释放因子”会结合到 A 位点，而不是氨酰 tRNA。相反，图 17.20 显示在延伸过程中氨酰 tRNA 结合到 A 位点。",
+      "es": "La Figura 17.21, paso 1, establece claramente que un factor de liberación, con forma de ARNt, se une al sitio A cuando se alcanza un codón de parada, en lugar de un ARNt aminoacil. En contraste, la Figura 17.20 muestra ARNt aminoaciles uniéndose al sitio A durante la elongación.",
+      "fr": "La Figure 17.21, étape 1, indique clairement qu'un facteur de libération, de forme similaire à un ARNt, se lie au site A lorsqu'un codon stop est atteint, au lieu d'un ARNt aminoacyl. En revanche, la Figure 17.20 montre des ARNt aminoacyliques se liant au site A pendant l'élongation.",
+      "de": "Abbildung 17.21, Schritt 1, zeigt deutlich, dass ein Freisetzungsfaktor, der wie eine tRNA geformt ist, an die A-Stelle bindet, wenn ein Stoppcodon erreicht wird, anstelle einer Aminoacyl-tRNA. Im Gegensatz dazu zeigt Abbildung 17.20, dass Aminoacyl-tRNAs während der Elongation an die A-Stelle binden.",
+      "ja": "図17.21のステップ1では、終止コドンに達した際にアミノアシルtRNAの代わりにtRNAの形をした放出因子がA部位に結合すると明確に述べられています。対照的に、図17.20では伸長中にアミノアシルtRNAがA部位に結合することが示されています。"
+    }
+  }
+]

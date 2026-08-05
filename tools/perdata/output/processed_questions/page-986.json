@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 986,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "What is the primary cause of a heart attack (myocardial infarction) as described in the text?",
+      "zh": "根据文本描述，心肌梗死（heart attack）的主要原因是什么？",
+      "es": "Según el texto, ¿cuál es la causa principal de un ataque al corazón (infarto de miocardio)?",
+      "fr": "Selon le texte, quelle est la cause principale d'une crise cardiaque (infarctus du myocarde) ?",
+      "de": "Was ist laut Text die Hauptursache eines Herzinfarkts (Myokardinfarkt)?",
+      "ja": "本文によると、心臓発作（心筋梗塞）の主な原因は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Insufficient anti-clotting factors in the blood.",
+          "zh": "血液中抗凝血因子不足。",
+          "es": "Insuficiencia de factores anticoagulantes en la sangre.",
+          "fr": "Insuffisance de facteurs anticoagulants dans le sang.",
+          "de": "Unzureichende gerinnungshemmende Faktoren im Blut.",
+          "ja": "血液中の抗凝固因子が不足していること。"
+        },
+        "feedback": {
+          "en": "This refers to general clotting issues, not the specific cause of a heart attack described.",
+          "zh": "这指的是一般的凝血问题，而非文本中描述的心脏病发作的特定原因。",
+          "es": "Esto se refiere a problemas generales de coagulación, no a la causa específica de un ataque al corazón descrita.",
+          "fr": "Cela fait référence à des problèmes de coagulation généraux, et non à la cause spécifique d'une crise cardiaque décrite.",
+          "de": "Dies bezieht sich auf allgemeine Gerinnungsprobleme, nicht auf die spezifische Ursache eines beschriebenen Herzinfarkts.",
+          "ja": "これは一般的な凝固の問題を指しており、記述されている心臓発作の特定の原因ではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Blockage of one or more coronary arteries, leading to damage or death of cardiac muscle tissue.",
+          "zh": "一条或多条冠状动脉阻塞，导致心肌组织损伤或坏死。",
+          "es": "Obstrucción de una o más arterias coronarias, lo que provoca daño o muerte del tejido muscular cardíaco.",
+          "fr": "L'obstruction d'une ou plusieurs artères coronaires, entraînant des lésions ou la mort du tissu musculaire cardiaque.",
+          "de": "Verstopfung einer oder mehrerer Koronararterien, die zu Schäden oder zum Absterben von Herzmuskelgewebe führt.",
+          "ja": "1つ以上の冠状動脈の閉塞により、心筋組織が損傷または壊死すること。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Rupture or blockage of arteries in the neck or head, causing death of nervous tissue.",
+          "zh": "颈部或头部动脉破裂或阻塞，导致神经组织坏死。",
+          "es": "Ruptura u obstrucción de arterias en el cuello o la cabeza, causando la muerte del tejido nervioso.",
+          "fr": "Rupture ou obstruction des artères du cou ou de la tête, entraînant la mort du tissu nerveux.",
+          "de": "Ruptur oder Verstopfung von Arterien im Nacken oder Kopf, die zum Absterben von Nervengewebe führt.",
+          "ja": "首や頭の動脈が破裂または閉塞し、神経組織が壊死すること。"
+        },
+        "feedback": {
+          "en": "This describes a stroke, not a heart attack.",
+          "zh": "这描述的是中风，而非心肌梗死。",
+          "es": "Esto describe un derrame cerebral, no un ataque al corazón.",
+          "fr": "Cela décrit un AVC, pas une crise cardiaque.",
+          "de": "Dies beschreibt einen Schlaganfall, keinen Herzinfarkt.",
+          "ja": "これは脳卒中を説明しており、心臓発作ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Accumulation of fatty deposits in arteries, causing them to harden.",
+          "zh": "动脉中脂肪沉积物堆积，导致动脉硬化。",
+          "es": "Acumulación de depósitos grasos en las arterias, provocando su endurecimiento.",
+          "fr": "Accumulation de dépôts graisseux dans les artères, les faisant durcir.",
+          "de": "Ansammlung von Fettablagerungen in den Arterien, die zu deren Verhärtung führt.",
+          "ja": "動脈に脂肪沈着物が蓄積し、動脈が硬化すること。"
+        },
+        "feedback": {
+          "en": "This describes atherosclerosis, which can lead to blockages, but is not the direct cause of the heart attack itself as defined.",
+          "zh": "这描述的是动脉粥样硬化，它可能导致阻塞，但并非心肌梗死本身的直接原因。",
+          "es": "Esto describe la aterosclerosis, que puede llevar a bloqueos, pero no es la causa directa del ataque al corazón según la definición.",
+          "fr": "Cela décrit l'athérosclérose, qui peut entraîner des blocages, mais ce n'est pas la cause directe de la crise cardiaque telle que définie.",
+          "de": "Dies beschreibt Arteriosklerose, die zu Verstopfungen führen kann, aber nicht die direkte Ursache des Herzinfarkts selbst ist, wie definiert.",
+          "ja": "これはアテローム性動脈硬化を説明しており、閉塞を引き起こす可能性がありますが、定義されている心臓発作自体の直接的な原因ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: 'A heart attack, also called a myocardial infarction, is the damage or death of cardiac muscle tissue resulting from blockage of one or more coronary arteries, which supply oxygen-rich blood to the heart muscle.'",
+      "zh": "文本明确指出：“心脏病发作，也称为心肌梗塞，是指一条或多条冠状动脉阻塞导致心肌组织受损或坏死，这些冠状动脉负责向心肌供应富氧血液。”",
+      "es": "El texto establece explícitamente: 'Un ataque al corazón, también llamado infarto de miocardio, es el daño o la muerte del tejido muscular cardíaco resultante del bloqueo de una o más arterias coronarias, que suministran sangre rica en oxígeno al músculo cardíaco.'",
+      "fr": "Le texte indique explicitement : « Une crise cardiaque, également appelée infarctus du myocarde, est l'endommagement ou la mort du tissu musculaire cardiaque résultant de l'obstruction d'une ou plusieurs artères coronaires, qui fournissent du sang riche en oxygène au muscle cardiaque. »",
+      "de": "Der Text besagt ausdrücklich: „Ein Herzinfarkt, auch als Myokardinfarkt bezeichnet, ist die Schädigung oder das Absterben von Herzmuskelgewebe, das aus der Verstopfung einer oder mehrerer Koronararterien resultiert, die den Herzmuskel mit sauerstoffreichem Blut versorgen.“",
+      "ja": "本文には「心臓発作、または心筋梗塞は、心筋に酸素が豊富な血液を供給する冠状動脈の1本または複数が閉塞することによって引き起こされる心筋組織の損傷または壊死である」と明確に記載されています。"
+    }
+  },
+  {
+    "page_number": 986,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 42.20, what is the correct sequence of events when inserting a stent to widen an obstructed artery?",
+      "zh": "根据图42.20，插入支架以扩张阻塞动脉的正确步骤顺序是什么？",
+      "es": "Según la Figura 42.20, ¿cuál es la secuencia correcta de eventos al insertar un stent para ensanchar una arteria obstruida?",
+      "fr": "Selon la Figure 42.20, quelle est la séquence correcte des événements lors de l'insertion d'un stent pour élargir une artère obstruée ?",
+      "de": "Was ist laut Abbildung 42.20 die richtige Reihenfolge der Schritte beim Einsetzen eines Stents zur Erweiterung einer verstopften Arterie?",
+      "ja": "図42.20によると、閉塞した動脈を広げるためにステントを挿入する際の正しい手順は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Balloon inflation, stent insertion, balloon removal.",
+          "zh": "气囊充气，支架植入，气囊取出。",
+          "es": "Inflación del globo, inserción del stent, extracción del globo.",
+          "fr": "Gonflage du ballon, insertion du stent, retrait du ballon.",
+          "de": "Ballon aufblasen, Stent einsetzen, Ballon entfernen.",
+          "ja": "バルーン拡張、ステント挿入、バルーン除去。"
+        },
+        "feedback": {
+          "en": "This sequence is incorrect; the stent and balloon are inserted together first.",
+          "zh": "这个顺序不正确；支架和气囊是首先一起插入的。",
+          "es": "Esta secuencia es incorrecta; el stent y el globo se insertan juntos primero.",
+          "fr": "Cette séquence est incorrecte ; le stent et le ballon sont d'abord insérés ensemble.",
+          "de": "Diese Reihenfolge ist falsch; Stent und Ballon werden zuerst gemeinsam eingesetzt.",
+          "ja": "この順序は誤りです。まずステントとバルーンが一緒に挿入されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Stent and balloon inserted, balloon inflated, balloon removed leaving stent.",
+          "zh": "支架和气囊插入，气囊充气，气囊取出留下支架。",
+          "es": "Stent y globo insertados, globo inflado, globo retirado dejando el stent.",
+          "fr": "Stent et ballonnet insérés, ballonnet gonflé, ballonnet retiré laissant le stent.",
+          "de": "Stent und Ballon eingesetzt, Ballon aufgeblasen, Ballon entfernt, Stent bleibt liegen.",
+          "ja": "ステントとバルーンを挿入、バルーンを拡張、バルーンを抜去しステントを留置。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Stent inserted, balloon removed, balloon inflated.",
+          "zh": "支架植入，气囊取出，气囊充气。",
+          "es": "Stent insertado, globo retirado, globo inflado.",
+          "fr": "Stent inséré, ballonnet retiré, ballonnet gonflé.",
+          "de": "Stent eingesetzt, Ballon entfernt, Ballon aufgeblasen.",
+          "ja": "ステント挿入、バルーン除去、バルーン拡張。"
+        },
+        "feedback": {
+          "en": "This sequence is incorrect and does not reflect the process shown.",
+          "zh": "这个顺序不正确，与所示过程不符。",
+          "es": "Esta secuencia es incorrecta y no refleja el proceso mostrado.",
+          "fr": "Cette séquence est incorrecte et ne reflète pas le processus montré.",
+          "de": "Diese Reihenfolge ist falsch und spiegelt den gezeigten Prozess nicht wider.",
+          "ja": "この順序は誤っており、図に示されたプロセスを反映していません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Balloon removed, stent inflated, balloon and stent inserted.",
+          "zh": "气囊取出，支架充气，气囊和支架插入。",
+          "es": "Globo retirado, stent inflado, globo y stent insertados.",
+          "fr": "Ballonnet retiré, stent gonflé, ballonnet et stent insérés.",
+          "de": "Ballon entfernt, Stent aufgeblasen, Ballon und Stent eingesetzt.",
+          "ja": "バルーン除去、ステント拡張、バルーンとステント挿入。"
+        },
+        "feedback": {
+          "en": "This sequence is completely reversed and incorrect.",
+          "zh": "这个顺序完全颠倒且不正确。",
+          "es": "Esta secuencia está completamente invertida y es incorrecta.",
+          "fr": "Cette séquence est complètement inversée et incorrecte.",
+          "de": "Diese Reihenfolge ist vollständig vertauscht und falsch.",
+          "ja": "この順序は完全に逆で間違っています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Figure 42.20 clearly shows the steps: 1) A stent and a balloon are inserted into an obstructed artery. 2) Inflating the balloon expands the stent, widening the artery. 3) The balloon is removed, leaving the stent in place.",
+      "zh": "图42.20清晰地展示了这些步骤：1) 将支架和气囊插入阻塞的动脉。2) 充气气囊扩张支架，使动脉变宽。3) 气囊被取出，支架留在原位。",
+      "es": "La Figura 42.20 muestra claramente los pasos: 1) Se insertan un stent y un globo en una arteria obstruida. 2) La inflación del globo expande el stent, ensanchando la arteria. 3) Se retira el globo, dejando el stent en su lugar.",
+      "fr": "La Figure 42.20 montre clairement les étapes : 1) Un stent et un ballon sont insérés dans une artère obstruée. 2) Le gonflage du ballonnet dilate le stent, élargissant l'artère. 3) Le ballonnet est retiré, laissant le stent en place.",
+      "de": "Abbildung 42.20 zeigt deutlich die Schritte: 1) Ein Stent und ein Ballon werden in eine verstopfte Arterie eingesetzt. 2) Das Aufblasen des Ballons dehnt den Stent aus und erweitert die Arterie. 3) Der Ballon wird entfernt, wobei der Stent an Ort und Stelle bleibt.",
+      "ja": "図42.20には、手順が明確に示されています。1) ステントとバルーンが閉塞した動脈に挿入されます。2) バルーンを拡張することでステントが広がり、動脈が拡張します。3) バルーンは抜去され、ステントは所定の位置に残されます。"
+    }
+  },
+  {
+    "page_number": 986,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which of the following statements best describes the progression and potential consequence of atherosclerosis according to the text?",
+      "zh": "根据文本，以下哪项陈述最能描述动脉粥样硬化的进展及其潜在后果？",
+      "es": "Según el texto, ¿cuál de las siguientes afirmaciones describe mejor la progresión y las posibles consecuencias de la aterosclerosis?",
+      "fr": "Selon le texte, quelle est l'affirmation qui décrit le mieux la progression et les conséquences potentielles de l'athérosclérose ?",
+      "de": "Welche der folgenden Aussagen beschreibt laut Text am besten den Verlauf und die potenziellen Folgen der Atherosklerose?",
+      "ja": "本文によると、アテローム性動脈硬化の進行と潜在的な結果を最もよく説明しているのは次のうちどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It begins with smooth arterial lining, followed by an immediate heart attack.",
+          "zh": "它始于动脉内壁光滑，随后立即发生心肌梗死。",
+          "es": "Comienza con un revestimiento arterial liso, seguido de un ataque cardíaco inmediato.",
+          "fr": "Elle commence par une paroi artérielle lisse, suivie d'une crise cardiaque immédiate.",
+          "de": "Es beginnt mit einer glatten Arterienauskleidung, gefolgt von einem sofortigen Herzinfarkt.",
+          "ja": "滑らかな動脈内膜から始まり、直ちに心臓発作が起こる。"
+        },
+        "feedback": {
+          "en": "Atherosclerosis starts with damage that roughens the lining, and a heart attack is a potential later consequence, not immediate.",
+          "zh": "动脉粥样硬化始于损伤导致内壁粗糙，心脏病发作是后期可能的后果，而非立即发生。",
+          "es": "La aterosclerosis comienza con daños que endurecen el revestimiento, y un ataque al corazón es una posible consecuencia posterior, no inmediata.",
+          "fr": "L'athérosclérose commence par des lésions qui rougissent la paroi, et une crise cardiaque est une conséquence potentielle ultérieure, non immédiate.",
+          "de": "Atherosklerose beginnt mit Schäden, die die Auskleidung aufrauen, und ein Herzinfarkt ist eine mögliche spätere Folge, nicht sofort.",
+          "ja": "アテローム性動脈硬化は内膜を粗くする損傷から始まり、心臓発作は後期の潜在的な結果であり、即座に起こるものではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It involves the hardening of arteries due to fatty deposits, and if a plaque ruptures, a thrombus can form, potentially leading to a heart attack or stroke.",
+          "zh": "它涉及动脉因脂肪沉积物而硬化，如果斑块破裂，可能会形成血栓，潜在地导致心肌梗死或中风。",
+          "es": "Implica el endurecimiento de las arterias debido a los depósitos de grasa, y si una placa se rompe, se puede formar un trombo, lo que potencialmente lleva a un ataque al corazón o un derrame cerebral.",
+          "fr": "Elle implique le durcissement des artères dû aux dépôts graisseux, et si une plaque se rompt, un thrombus peut se former, pouvant entraîner une crise cardiaque ou un AVC.",
+          "de": "Sie beinhaltet die Verhärtung der Arterien durch Fettablagerungen, und wenn eine Plaque reißt, kann sich ein Thrombus bilden, der potenziell zu einem Herzinfarkt oder Schlaganfall führt.",
+          "ja": "脂肪沈着物による動脈の硬化を伴い、プラークが破裂すると血栓が形成され、心臓発作や脳卒中を引き起こす可能性があります。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It is primarily caused by anti-clotting factors, leading to improved blood flow.",
+          "zh": "它主要由抗凝血因子引起，导致血流改善。",
+          "es": "Es causada principalmente por factores anticoagulantes, lo que lleva a un mejor flujo sanguíneo.",
+          "fr": "Elle est principalement causée par des facteurs anticoagulants, ce qui améliore la circulation sanguine.",
+          "de": "Sie wird hauptsächlich durch gerinnungshemmende Faktoren verursacht, was zu einem verbesserten Blutfluss führt.",
+          "ja": "主に抗凝固因子によって引き起こされ、血流が改善される。"
+        },
+        "feedback": {
+          "en": "Anti-clotting factors prevent clotting; atherosclerosis leads to reduced blood flow and is not caused by these factors.",
+          "zh": "抗凝血因子是防止凝血的；动脉粥样硬化导致血流减少，并非由这些因子引起。",
+          "es": "Los factores anticoagulantes previenen la coagulación; la aterosclerosis conduce a una reducción del flujo sanguíneo y no es causada por estos factores.",
+          "fr": "Les facteurs anticoagulants préviennent la coagulation ; l'athérosclérose entraîne une réduction du flux sanguin et n'est pas causée par ces facteurs.",
+          "de": "Gerinnungshemmende Faktoren verhindern die Gerinnung; Atherosklerose führt zu vermindertem Blutfluss und wird nicht durch diese Faktoren verursacht.",
+          "ja": "抗凝固因子は凝固を防ぎます。アテローム性動脈硬化は血流の低下につながり、これらの因子によって引き起こされるわけではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Its only symptom is angina pectoris, which always indicates immediate cardiac arrest.",
+          "zh": "其唯一症状是心绞痛，这总是预示着立即心脏骤停。",
+          "es": "Su único síntoma es la angina de pecho, que siempre indica un paro cardíaco inmediato.",
+          "fr": "Son seul symptôme est l'angine de poitrine, qui indique toujours un arrêt cardiaque immédiat.",
+          "de": "Ihr einziges Symptom ist Angina pectoris, die immer einen sofortigen Herzstillstand anzeigt.",
+          "ja": "唯一の症状は狭心症であり、常に即時の心停止を示します。"
+        },
+        "feedback": {
+          "en": "Angina pectoris is a warning sign of partial blockage, not necessarily the only symptom, and does not always indicate immediate cardiac arrest.",
+          "zh": "心绞痛是部分阻塞的警告信号，不一定是唯一症状，并且不总是预示着立即心脏骤停。",
+          "es": "La angina de pecho es un signo de advertencia de un bloqueo parcial, no necesariamente el único síntoma, y no siempre indica un paro cardíaco inmediato.",
+          "fr": "L'angine de poitrine est un signe avant-coureur d'un blocage partiel, pas nécessairement le seul symptôme, et n'indique pas toujours un arrêt cardiaque immédiat.",
+          "de": "Angina pectoris ist ein Warnzeichen für eine teilweise Verstopfung, nicht unbedingt das einzige Symptom, und deutet nicht immer auf einen sofortigen Herzstillstand hin.",
+          "ja": "狭心症は部分的な閉塞の警告サインであり、必ずしも唯一の症状ではなく、常に即時の心停止を示すわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explains that atherosclerosis is the 'hardening of the arteries by accumulation of fatty deposits.' It further states that 'If the plaque ruptures, a thrombus can form in the artery (Figure 42.19), potentially triggering a heart attack or a stroke.'",
+      "zh": "文本解释说，动脉粥样硬化是“因脂肪沉积物堆积导致动脉硬化”。它进一步指出，“如果斑块破裂，动脉中可能会形成血栓（图42.19），潜在地引发心肌梗死或中风”。",
+      "es": "El texto explica que la aterosclerosis es el 'endurecimiento de las arterias por acumulación de depósitos grasos'. Además, afirma que 'Si la placa se rompe, se puede formar un trombo en la arteria (Figura 42.19), lo que potencialmente desencadena un ataque al corazón o un derrame cerebral.'",
+      "fr": "Le texte explique que l'athérosclérose est le « durcissement des artères par accumulation de dépôts graisseux ». Il précise en outre que « si la plaque se rompt, un thrombus peut se former dans l'artère (Figure 42.19), déclenchant potentiellement une crise cardiaque ou un AVC. »",
+      "de": "Der Text erklärt, dass Atherosklerose die „Verhärtung der Arterien durch Ansammlung von Fettablagerungen“ ist. Er besagt weiter: „Wenn die Plaque reißt, kann sich in der Arterie ein Thrombus bilden (Abbildung 42.19), der potenziell einen Herzinfarkt oder Schlaganfall auslöst.“",
+      "ja": "本文は、アテローム性動脈硬化が「脂肪沈着物の蓄積による動脈の硬化」であると説明しています。さらに、「プラークが破裂すると、動脈に血栓が形成され（図42.19）、心臓発作や脳卒中を引き起こす可能性がある」と述べています。"
+    }
+  },
+  {
+    "page_number": 986,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the text, what is the primary difference in function between low-density lipoprotein (LDL) and high-density lipoprotein (HDL)?",
+      "zh": "根据文本，低密度脂蛋白（LDL）和高密度脂蛋白（HDL）在功能上的主要区别是什么？",
+      "es": "Según el texto, ¿cuál es la principal diferencia funcional entre la lipoproteína de baja densidad (LDL) y la lipoproteína de alta densidad (HDL)?",
+      "fr": "Selon le texte, quelle est la principale différence de fonction entre les lipoprotéines de basse densité (LDL) et les lipoprotéines de haute densité (HDL) ?",
+      "de": "Was ist laut Text der Hauptunterschied in der Funktion zwischen Low-Density-Lipoprotein (LDL) und High-Density-Lipoprotein (HDL)?",
+      "ja": "本文によると、低密度リポタンパク質（LDL）と高密度リポタンパク質（HDL）の機能における主な違いは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "LDL scavenges excess cholesterol, while HDL delivers cholesterol to cells.",
+          "zh": "LDL 清除多余胆固醇，而 HDL 将胆固醇输送到细胞。",
+          "es": "Las LDL eliminan el exceso de colesterol, mientras que las HDL entregan colesterol a las células.",
+          "fr": "Les LDL éliminent l'excès de cholestérol, tandis que les HDL livrent le cholestérol aux cellules.",
+          "de": "LDL fängt überschüssiges Cholesterin ab, während HDL Cholesterin an Zellen liefert.",
+          "ja": "LDLは過剰なコレステロールを回収し、HDLはコレステロールを細胞に運搬する。"
+        },
+        "feedback": {
+          "en": "The roles described are swapped; LDL delivers cholesterol, and HDL scavenges it.",
+          "zh": "所描述的角色颠倒了；LDL 输送胆固醇，而 HDL 清除胆固醇。",
+          "es": "Los roles descritos están intercambiados; las LDL entregan colesterol y las HDL lo eliminan.",
+          "fr": "Les rôles décrits sont inversés ; les LDL livrent le cholestérol et les HDL le récupèrent.",
+          "de": "Die beschriebenen Rollen sind vertauscht; LDL liefert Cholesterin, und HDL fängt es ab.",
+          "ja": "説明されている役割が逆です。LDLはコレステロールを運搬し、HDLはそれを回収します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "LDL delivers cholesterol to cells for membrane production, while HDL scavenges excess cholesterol.",
+          "zh": "LDL 将胆固醇输送到细胞用于膜的生产，而 HDL 清除多余的胆固醇。",
+          "es": "Las LDL entregan colesterol a las células para la producción de membranas, mientras que las HDL eliminan el exceso de colesterol.",
+          "fr": "Les LDL livrent le cholestérol aux cellules pour la production de membranes, tandis que les HDL éliminent l'excès de cholestérol.",
+          "de": "LDL liefert Cholesterin an Zellen für die Membranproduktion, während HDL überschüssiges Cholesterin abfängt.",
+          "ja": "LDLはコレステロールを細胞に運搬して膜を生成し、HDLは過剰なコレステロールを回収する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both LDL and HDL are types of fatty deposits that harden arteries.",
+          "zh": "LDL 和 HDL 都是使动脉硬化的脂肪沉积物。",
+          "es": "Tanto las LDL como las HDL son tipos de depósitos grasos que endurecen las arterias.",
+          "fr": "Les LDL et les HDL sont toutes deux des types de dépôts graisseux qui durcissent les artères.",
+          "de": "Sowohl LDL als auch HDL sind Arten von Fettablagerungen, die Arterien verhärten.",
+          "ja": "LDLもHDLも動脈を硬化させる脂肪沈着物の一種である。"
+        },
+        "feedback": {
+          "en": "LDL and HDL are particles that transport cholesterol, not fatty deposits themselves.",
+          "zh": "LDL 和 HDL 是运输胆固醇的颗粒，而不是脂肪沉积物本身。",
+          "es": "Las LDL y las HDL son partículas que transportan colesterol, no depósitos grasos en sí mismas.",
+          "fr": "Les LDL et les HDL sont des particules qui transportent le cholestérol, et non des dépôts graisseux eux-mêmes.",
+          "de": "LDL und HDL sind Partikel, die Cholesterin transportieren, keine Fettablagerungen selbst.",
+          "ja": "LDLとHDLはコレステロールを運搬する粒子であり、脂肪沈着物自体ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "LDL causes angina pectoris, while HDL prevents strokes.",
+          "zh": "LDL 引起心绞痛，而 HDL 预防中风。",
+          "es": "Las LDL causan angina de pecho, mientras que las HDL previenen los derrames cerebrales.",
+          "fr": "Les LDL provoquent l'angine de poitrine, tandis que les HDL préviennent les AVC.",
+          "de": "LDL verursacht Angina pectoris, während HDL Schlaganfälle verhindert.",
+          "ja": "LDLは狭心症を引き起こし、HDLは脳卒中を予防する。"
+        },
+        "feedback": {
+          "en": "These are not the primary functions described for LDL and HDL.",
+          "zh": "这些不是文本中描述的 LDL 和 HDL 的主要功能。",
+          "es": "Estas no son las funciones principales descritas para las LDL y las HDL.",
+          "fr": "Ce ne sont pas les fonctions principales décrites pour les LDL et les HDL.",
+          "de": "Dies sind nicht die primären Funktionen, die für LDL und HDL beschrieben werden.",
+          "ja": "これらはLDLとHDLに記述されている主要な機能ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text clearly defines their roles: 'low-density lipoprotein (LDL)—delivers cholesterol to cells for membrane production. Another type—high-density lipoprotein (HDL)—scavenges excess cholesterol.'",
+      "zh": "文本明确定义了它们的作用：“低密度脂蛋白（LDL）——将胆固醇输送到细胞用于膜的生产。另一种类型——高密度脂蛋白（HDL）——清除多余的胆固醇。”",
+      "es": "El texto define claramente sus roles: 'lipoproteína de baja densidad (LDL)—entrega colesterol a las células para la producción de membranas. Otro tipo—lipoproteína de alta densidad (HDL)—elimina el exceso de colesterol.'",
+      "fr": "Le texte définit clairement leurs rôles : « les lipoprotéines de basse densité (LDL) — livrent le cholestérol aux cellules pour la production de membranes. Un autre type — les lipoprotéines de haute densité (HDL) — récupèrent l'excès de cholestérol. »",
+      "de": "Der Text definiert ihre Rollen klar: „Low-Density-Lipoprotein (LDL) – liefert Cholesterin an Zellen für die Membranproduktion. Eine andere Art – High-Density-Lipoprotein (HDL) – fängt überschüssiges Cholesterin ab.“",
+      "ja": "本文はそれらの役割を明確に定義しています。「低密度リポタンパク質（LDL）—コレステロールを細胞に運搬して膜を生成する。もう一つの種類—高密度リポタンパク質（HDL）—過剰なコレステロールを回収する。」"
+    }
+  }
+]

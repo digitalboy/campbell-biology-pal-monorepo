@@ -1,0 +1,378 @@
+[
+  {
+    "page_number": 211,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Which of the following statements is TRUE regarding the effect of an enzyme on a chemical reaction, as depicted in the provided free energy diagram (Concept 8.4)?",
+      "zh": "根据提供的自由能图（概念8.4），以下关于酶对化学反应影响的陈述哪项是正确的？",
+      "es": "De acuerdo con el diagrama de energía libre proporcionado (Concepto 8.4), ¿cuál de las siguientes afirmaciones es VERDADERA con respecto al efecto de una enzima en una reacción química?",
+      "fr": "Selon le diagramme d'énergie libre fourni (Concept 8.4), laquelle des affirmations suivantes est VRAIE concernant l'effet d'une enzyme sur une réaction chimique ?",
+      "de": "Gemäß dem bereitgestellten Freie-Energie-Diagramm (Konzept 8.4), welche der folgenden Aussagen trifft auf die Wirkung eines Enzyms auf eine chemische Reaktion ZU?",
+      "ja": "提供された自由エネルギー図（コンセプト8.4）に示されている酵素が化学反応に及ぼす影響について、次の記述のうち正しいのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Enzymes increase the activation energy (EA) of the reaction.",
+          "zh": "酶会增加反应的活化能（EA）。",
+          "es": "Las enzimas aumentan la energía de activación (EA) de la reacción.",
+          "fr": "Les enzymes augmentent l'énergie d'activation (EA) de la réaction.",
+          "de": "Enzyme erhöhen die Aktivierungsenergie (EA) der Reaktion.",
+          "ja": "酵素は反応の活性化エネルギー（EA）を増加させる。"
+        },
+        "feedback": {
+          "en": "Enzymes lower the activation energy, they do not increase it.",
+          "zh": "酶会降低活化能，而不是增加它。",
+          "es": "Las enzimas disminuyen la energía de activación, no la aumentan.",
+          "fr": "Les enzymes abaissent l'énergie d'activation, elles ne l'augmentent pas.",
+          "de": "Enzyme senken die Aktivierungsenergie, sie erhöhen sie nicht.",
+          "ja": "酵素は活性化エネルギーを増加させるのではなく、低下させます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Enzymes change the overall free energy change (ΔG) of the reaction.",
+          "zh": "酶会改变反应的总自由能变化（ΔG）。",
+          "es": "Las enzimas cambian el cambio total de energía libre (ΔG) de la reacción.",
+          "fr": "Les enzymes modifient le changement global d'énergie libre (ΔG) de la réaction.",
+          "de": "Enzyme verändern die gesamte freie Energieänderung (ΔG) der Reaktion.",
+          "ja": "酵素は反応の総自由エネルギー変化（ΔG）を変化させる。"
+        },
+        "feedback": {
+          "en": "Enzymes affect the reaction rate by lowering activation energy but do not change the overall free energy change (ΔG).",
+          "zh": "酶通过降低活化能来影响反应速率，但不会改变总自由能变化（ΔG）。",
+          "es": "Las enzimas afectan la velocidad de reacción al disminuir la energía de activación, pero no cambian el cambio total de energía libre (ΔG).",
+          "fr": "Les enzymes affectent la vitesse de réaction en abaissant l'énergie d'activation, mais elles ne modifient pas le changement global d'énergie libre (ΔG).",
+          "de": "Enzyme beeinflussen die Reaktionsgeschwindigkeit, indem sie die Aktivierungsenergie senken, aber sie ändern nicht die gesamte freie Energieänderung (ΔG).",
+          "ja": "酵素は活性化エネルギーを低下させることで反応速度に影響を与えますが、総自由エネルギー変化（ΔG）は変化させません。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Enzymes facilitate the reaction by lowering the activation energy (EA).",
+          "zh": "酶通过降低活化能（EA）来促进反应。",
+          "es": "Las enzimas facilitan la reacción al disminuir la energía de activación (EA).",
+          "fr": "Les enzymes facilitent la réaction en abaissant l'énergie d'activation (EA).",
+          "de": "Enzyme erleichtern die Reaktion, indem sie die Aktivierungsenergie (EA) senken.",
+          "ja": "酵素は活性化エネルギー（EA）を低下させることで反応を促進する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Enzymes are consumed during the reaction.",
+          "zh": "酶在反应过程中被消耗。",
+          "es": "Las enzimas se consumen durante la reacción.",
+          "fr": "Les enzymes sont consommées pendant la réaction.",
+          "de": "Enzyme werden während der Reaktion verbraucht.",
+          "ja": "酵素は反応中に消費される。"
+        },
+        "feedback": {
+          "en": "Enzymes are not consumed in the reactions they catalyze; they can be reused.",
+          "zh": "酶在其催化的反应中不会被消耗；它们可以被重复利用。",
+          "es": "Las enzimas no se consumen en las reacciones que catalizan; pueden reutilizarse.",
+          "fr": "Les enzymes ne sont pas consommées dans les réactions qu'elles catalysent ; elles peuvent être réutilisées.",
+          "de": "Enzyme werden bei den von ihnen katalysierten Reaktionen nicht verbraucht; sie können wiederverwendet werden.",
+          "ja": "酵素は触媒する反応中に消費されません。再利用が可能です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The free energy diagram clearly shows that the 'Course of reaction with enzyme' curve has a lower peak (lower EA) compared to the 'Course of reaction without enzyme' curve, while the initial and final free energy levels (and thus ΔG) remain the same. Enzymes function by lowering the activation energy barrier, thereby speeding up the reaction rate without being consumed or altering the overall energy change.",
+      "zh": "自由能图清楚地显示，与“无酶反应过程”曲线相比，“有酶反应过程”曲线的峰值更低（EA更低），而起始和最终自由能水平（以及ΔG）保持不变。酶通过降低活化能屏障来发挥作用，从而加速反应速率，同时自身不被消耗也不改变总能量变化。",
+      "es": "El diagrama de energía libre muestra claramente que la curva de 'Curso de reacción con enzima' tiene un pico más bajo (EA más baja) en comparación con la curva de 'Curso de reacción sin enzima', mientras que los niveles de energía libre inicial y final (y por lo tanto ΔG) permanecen iguales. Las enzimas funcionan disminuyendo la barrera de energía de activación, acelerando así la velocidad de reacción sin ser consumidas ni alterar el cambio de energía total.",
+      "fr": "Le diagramme d'énergie libre montre clairement que la courbe du « cours de la réaction avec enzyme » a un pic plus bas (EA plus faible) par rapport à la courbe du « cours de la réaction sans enzyme », tandis que les niveaux d'énergie libre initiaux et finaux (et donc ΔG) restent les mêmes. Les enzymes fonctionnent en abaissant la barrière de l'énergie d'activation, accélérant ainsi la vitesse de réaction sans être consommées ni altérer le changement global d'énergie.",
+      "de": "Das Freie-Energie-Diagramm zeigt deutlich, dass die Kurve des „Reaktionsverlaufs mit Enzym“ einen niedrigeren Peak (niedrigere EA) aufweist als die Kurve des „Reaktionsverlaufs ohne Enzym“, während die anfänglichen und endgültigen Freie-Energie-Niveaus (und somit ΔG) gleich bleiben. Enzyme wirken, indem sie die Aktivierungsenergiebarriere senken, wodurch die Reaktionsgeschwindigkeit beschleunigt wird, ohne dass sie verbraucht werden oder die gesamte Energieänderung verändert wird.",
+      "ja": "自由エネルギー図は、「酵素ありの反応経路」曲線が「酵素なしの反応経路」曲線と比較して低いピーク（低いEA）を示していることを明確に示しており、一方、初期および最終の自由エネルギーレベル（したがってΔG）は同じままです。酵素は活性化エネルギー障壁を低下させることによって機能し、それにより反応速度を速め、自身は消費されず、全体のエネルギー変化も変化させません。"
+    }
+  },
+  {
+    "page_number": 211,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "In biological systems, which of the following best describes an exergonic reaction?",
+      "zh": "在生物系统中，以下哪项最能描述放能反应（exergonic reaction）？",
+      "es": "En los sistemas biológicos, ¿cuál de las siguientes opciones describe mejor una reacción exergónica?",
+      "fr": "Dans les systèmes biologiques, laquelle des affirmations suivantes décrit le mieux une réaction exergonique ?",
+      "de": "Welche der folgenden Aussagen beschreibt in biologischen Systemen am besten eine exergonische Reaktion?",
+      "ja": "生体システムにおいて、次のうち発エルゴン反応を最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It requires an input of energy and has a positive ΔG.",
+          "zh": "它需要能量输入，并且ΔG为正。",
+          "es": "Requiere una entrada de energía y tiene un ΔG positivo.",
+          "fr": "Elle nécessite un apport d'énergie et a un ΔG positif.",
+          "de": "Sie erfordert eine Energiezufuhr und hat einen positiven ΔG-Wert.",
+          "ja": "エネルギー入力が必要で、ΔGが正である。"
+        },
+        "feedback": {
+          "en": "This describes an endergonic reaction, not an exergonic one.",
+          "zh": "这描述的是吸能反应，而不是放能反应。",
+          "es": "Esto describe una reacción endergónica, no una exergónica.",
+          "fr": "Cela décrit une réaction endergonique, pas une réaction exergonique.",
+          "de": "Dies beschreibt eine endergonische Reaktion, keine exergonische.",
+          "ja": "これは発エルゴン反応ではなく、吸エルゴン反応の説明です。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It releases energy and has a negative ΔG.",
+          "zh": "它释放能量，并且ΔG为负。",
+          "es": "Libera energía y tiene un ΔG negativo.",
+          "fr": "Elle libère de l'énergie et a un ΔG négatif.",
+          "de": "Sie setzt Energie frei und hat einen negativen ΔG-Wert.",
+          "ja": "エネルギーを放出し、ΔGが負である。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It occurs only when coupled with an endergonic reaction.",
+          "zh": "它只在与吸能反应耦合时发生。",
+          "es": "Ocurre solo cuando se acopla con una reacción endergónica.",
+          "fr": "Elle ne se produit que lorsqu'elle est couplée à une réaction endergonique.",
+          "de": "Sie tritt nur auf, wenn sie mit einer endergonischen Reaktion gekoppelt ist.",
+          "ja": "吸エルゴン反応と共役する場合にのみ発生する。"
+        },
+        "feedback": {
+          "en": "Exergonic reactions can occur independently; coupling with endergonic reactions allows the latter to proceed.",
+          "zh": "放能反应可以独立发生；与吸能反应耦合是为了使后者能够进行。",
+          "es": "Las reacciones exergónicas pueden ocurrir de forma independiente; el acoplamiento con reacciones endergónicas permite que estas últimas procedan.",
+          "fr": "Les réactions exergoniques peuvent se produire indépendamment ; le couplage avec des réactions endergoniques permet à ces dernières de se dérouler.",
+          "de": "Exergonische Reaktionen können unabhängig voneinander ablaufen; die Kopplung mit endergonischen Reaktionen ermöglicht es letzteren, abzulaufen.",
+          "ja": "発エルゴン反応は独立して起こりえます。吸エルゴン反応との共役は、後者が進行できるようにするためです。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It leads to a decrease in the stability of the system.",
+          "zh": "它导致系统稳定性下降。",
+          "es": "Conduce a una disminución de la estabilidad del sistema.",
+          "fr": "Elle entraîne une diminution de la stabilité du système.",
+          "de": "Sie führt zu einer Abnahme der Systemstabilität.",
+          "ja": "システムの安定性が低下する。"
+        },
+        "feedback": {
+          "en": "Spontaneous (exergonic) reactions lead to an increase in the stability of the system.",
+          "zh": "自发（放能）反应会增加系统的稳定性。",
+          "es": "Las reacciones espontáneas (exergónicas) conducen a un aumento de la estabilidad del sistema.",
+          "fr": "Les réactions spontanées (exergoniques) entraînent une augmentation de la stabilité du système.",
+          "de": "Spontane (exergonische) Reaktionen führen zu einer Erhöhung der Systemstabilität.",
+          "ja": "自発的な（発エルゴン）反応は、システムの安定性の増加につながります。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "An exergonic reaction is a spontaneous chemical reaction that releases energy, meaning the products have less free energy than the reactants. This is indicated by a negative change in free energy (–ΔG). Such reactions increase the stability of the system.",
+      "zh": "放能反应是释放能量的自发化学反应，意味着产物的自由能低于反应物。这通过负的自由能变化（–ΔG）来表示。这类反应会增加系统的稳定性。",
+      "es": "Una reacción exergónica es una reacción química espontánea que libera energía, lo que significa que los productos tienen menos energía libre que los reactivos. Esto se indica con un cambio negativo en la energía libre (–ΔG). Tales reacciones aumentan la estabilidad del sistema.",
+      "fr": "Une réaction exergonique est une réaction chimique spontanée qui libère de l'énergie, ce qui signifie que les produits ont moins d'énergie libre que les réactifs. Cela est indiqué par un changement négatif de l'énergie libre (–ΔG). De telles réactions augmentent la stabilité du système.",
+      "de": "Eine exergonische Reaktion ist eine spontane chemische Reaktion, die Energie freisetzt, was bedeutet, dass die Produkte weniger freie Energie haben als die Reaktanten. Dies wird durch eine negative Änderung der freien Energie (–ΔG) angezeigt. Solche Reaktionen erhöhen die Stabilität des Systems.",
+      "ja": "発エルゴン反応は、エネルギーを放出する自発的な化学反応であり、生成物が反応物よりも少ない自由エネルギーを持つことを意味します。これは自由エネルギーの負の変化（–ΔG）によって示されます。このような反応はシステムの安定性を高めます。"
+    }
+  },
+  {
+    "page_number": 211,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Which statement accurately distinguishes between competitive and noncompetitive enzyme inhibitors (Concept 8.4)?",
+      "zh": "哪项陈述准确区分了竞争性酶抑制剂和非竞争性酶抑制剂（概念8.4）？",
+      "es": "¿Qué afirmación distingue con precisión entre inhibidores enzimáticos competitivos y no competitivos (Concepto 8.4)?",
+      "fr": "Quelle affirmation distingue avec précision les inhibiteurs enzymatiques compétitifs et non compétitifs (Concept 8.4) ?",
+      "de": "Welche Aussage unterscheidet kompetitive und nicht-kompetitive Enzyminhibitoren (Konzept 8.4) genau?",
+      "ja": "競争的酵素阻害剤と非競争的酵素阻害剤（コンセプト8.4）を正確に区別しているのはどの記述ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Competitive inhibitors bind to the allosteric site, while noncompetitive inhibitors bind to the active site.",
+          "zh": "竞争性抑制剂结合到变构位点，而非竞争性抑制剂结合到活性位点。",
+          "es": "Los inhibidores competitivos se unen al sitio alostérico, mientras que los inhibidores no competitivos se unen al sitio activo.",
+          "fr": "Les inhibiteurs compétitifs se lient au site allostérique, tandis que les inhibiteurs non compétitifs se lient au site actif.",
+          "de": "Kompetitive Inhibitoren binden an die allosterische Stelle, während nicht-kompetitive Inhibitoren an die aktive Stelle binden.",
+          "ja": "競争的阻害剤はアロステリック部位に結合し、非競争的阻害剤は活性部位に結合する。"
+        },
+        "feedback": {
+          "en": "This statement reverses the binding sites; competitive inhibitors bind to the active site, and noncompetitive inhibitors typically bind to an allosteric site.",
+          "zh": "此陈述颠倒了结合位点；竞争性抑制剂结合到活性位点，而非竞争性抑制剂通常结合到变构位点。",
+          "es": "Esta afirmación invierte los sitios de unión; los inhibidores competitivos se unen al sitio activo y los inhibidores no competitivos se unen típicamente a un sitio alostérico.",
+          "fr": "Cette affirmation inverse les sites de liaison ; les inhibiteurs compétitifs se lient au site actif, et les inhibiteurs non compétitifs se lient généralement à un site allostérique.",
+          "de": "Diese Aussage vertauscht die Bindungsstellen; kompetitive Inhibitoren binden an die aktive Stelle, während nicht-kompetitive Inhibitoren typischerweise an eine allosterische Stelle binden.",
+          "ja": "この記述は結合部位が逆です。競争的阻害剤は活性部位に結合し、非競争的阻害剤は通常アロステリック部位に結合します。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Competitive inhibitors mimic the substrate and bind to the active site, whereas noncompetitive inhibitors bind to a different site on the enzyme, changing its shape.",
+          "zh": "竞争性抑制剂模仿底物并结合到活性位点，而非竞争性抑制剂则结合到酶上一个不同的位点，改变其形状。",
+          "es": "Los inhibidores competitivos imitan el sustrato y se unen al sitio activo, mientras que los inhibidores no competitivos se unen a un sitio diferente en la enzima, cambiando su forma.",
+          "fr": "Les inhibiteurs compétitifs imitent le substrat et se lient au site actif, tandis que les inhibiteurs non compétitifs se lient à un site différent de l'enzyme, modifiant sa forme.",
+          "de": "Kompetitive Inhibitoren imitieren das Substrat und binden an die aktive Stelle, während nicht-kompetitive Inhibitoren an eine andere Stelle des Enzyms binden und dessen Form verändern.",
+          "ja": "競争的阻害剤は基質を模倣して活性部位に結合し、非競争的阻害剤は酵素の別の部位に結合してその形状を変化させる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both types of inhibitors bind to the active site but affect the enzyme differently.",
+          "zh": "这两种抑制剂都结合到活性位点，但以不同方式影响酶。",
+          "es": "Ambos tipos de inhibidores se unen al sitio activo pero afectan a la enzima de manera diferente.",
+          "fr": "Les deux types d'inhibiteurs se lient au site actif mais affectent l'enzyme différemment.",
+          "de": "Beide Inhibitortypen binden an die aktive Stelle, beeinflussen das Enzym aber unterschiedlich.",
+          "ja": "両方のタイプの阻害剤が活性部位に結合するが、酵素に異なる影響を与える。"
+        },
+        "feedback": {
+          "en": "Only competitive inhibitors bind to the active site; noncompetitive inhibitors bind to a different site.",
+          "zh": "只有竞争性抑制剂结合到活性位点；非竞争性抑制剂结合到不同的位点。",
+          "es": "Solo los inhibidores competitivos se unen al sitio activo; los inhibidores no competitivos se unen a un sitio diferente.",
+          "fr": "Seuls les inhibiteurs compétitifs se lient au site actif ; les inhibiteurs non compétitifs se lient à un site différent.",
+          "de": "Nur kompetitive Inhibitoren binden an die aktive Stelle; nicht-kompetitive Inhibitoren binden an eine andere Stelle.",
+          "ja": "競争的阻害剤のみが活性部位に結合し、非競争的阻害剤は別の部位に結合します。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Noncompetitive inhibitors can be overcome by increasing substrate concentration, but competitive inhibitors cannot.",
+          "zh": "非竞争性抑制剂可以通过增加底物浓度来克服，但竞争性抑制剂不能。",
+          "es": "Los inhibidores no competitivos pueden superarse aumentando la concentración de sustrato, pero los inhibidores competitivos no.",
+          "fr": "Les inhibiteurs non compétitifs peuvent être surmontés en augmentant la concentration de substrat, mais les inhibiteurs compétitifs ne le peuvent pas.",
+          "de": "Nicht-kompetitive Inhibitoren können durch Erhöhung der Substratkonzentration überwunden werden, kompetitive Inhibitoren jedoch nicht.",
+          "ja": "非競争的阻害剤は基質濃度を増加させることで克服できるが、競争的阻害剤はできない。"
+        },
+        "feedback": {
+          "en": "This statement is reversed; competitive inhibition can often be overcome by increasing substrate concentration, while noncompetitive inhibition usually cannot.",
+          "zh": "此陈述颠倒了；竞争性抑制通常可以通过增加底物浓度来克服，而非竞争性抑制通常不能。",
+          "es": "Esta afirmación está invertida; la inhibición competitiva a menudo puede superarse aumentando la concentración de sustrato, mientras que la inhibición no competitiva generalmente no puede.",
+          "fr": "Cette affirmation est inversée ; l'inhibition compétitive peut souvent être surmontée en augmentant la concentration de substrat, tandis que l'inhibition non compétitive ne le peut généralement pas.",
+          "de": "Diese Aussage ist umgekehrt; kompetitive Hemmung kann oft durch Erhöhung der Substratkonzentration überwunden werden, während nicht-kompetitive Hemmung dies in der Regel nicht kann.",
+          "ja": "この記述は逆です。競争的阻害は基質濃度を増加させることで克服できることが多いですが、非競争的阻害は通常克服できません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Competitive inhibitors mimic the natural substrate and compete for the active site, thus blocking substrate binding. Noncompetitive inhibitors, on the other hand, bind to a different site on the enzyme (an allosteric site), causing a conformational change that makes the active site less effective, even if substrate is bound. Due to this difference in binding, competitive inhibition can often be overcome by increasing substrate concentration, whereas noncompetitive inhibition generally cannot.",
+      "zh": "竞争性抑制剂模仿天然底物并竞争活性位点，从而阻止底物结合。非竞争性抑制剂则结合到酶上一个不同的位点（变构位点），引起构象变化，即使底物结合，也会使活性位点效率降低。由于结合方式的这种差异，竞争性抑制通常可以通过增加底物浓度来克服，而非竞争性抑制通常不能。",
+      "es": "Los inhibidores competitivos imitan el sustrato natural y compiten por el sitio activo, bloqueando así la unión del sustrato. Los inhibidores no competitivos, por otro lado, se unen a un sitio diferente en la enzima (un sitio alostérico), causando un cambio conformacional que hace que el sitio activo sea menos efectivo, incluso si el sustrato está unido. Debido a esta diferencia en la unión, la inhibición competitiva a menudo puede superarse aumentando la concentración de sustrato, mientras que la inhibición no competitiva generalmente no puede.",
+      "fr": "Les inhibiteurs compétitifs imitent le substrat naturel et sont en compétition pour le site actif, bloquant ainsi la liaison du substrat. Les inhibiteurs non compétitifs, quant à eux, se lient à un site différent de l'enzyme (un site allostérique), provoquant un changement conformationnel qui rend le site actif moins efficace, même si le substrat est lié. En raison de cette différence de liaison, l'inhibition compétitive peut souvent être levée en augmentant la concentration du substrat, tandis que l'inhibition non compétitive ne le peut généralement pas.",
+      "de": "Kompetitive Inhibitoren ahmen das natürliche Substrat nach und konkurrieren um die aktive Stelle, wodurch die Substratbindung blockiert wird. Nicht-kompetitive Inhibitoren hingegen binden an eine andere Stelle des Enzyms (eine allosterische Stelle), was eine Konformationsänderung bewirkt, die die aktive Stelle weniger effektiv macht, selbst wenn Substrat gebunden ist. Aufgrund dieses Unterschieds in der Bindung kann die kompetitive Hemmung oft durch Erhöhung der Substratkonzentration überwunden werden, während die nicht-kompetitive Hemmung dies in der Regel nicht kann.",
+      "ja": "競争的阻害剤は天然の基質を模倣し、活性部位を競合するため、基質の結合を妨げます。一方、非競争的阻害剤は酵素の異なる部位（アロステリック部位）に結合し、たとえ基質が結合していても、活性部位の効果を低下させる立体構造変化を引き起こします。この結合の違いにより、競争的阻害は基質濃度を増加させることで克服できることが多いですが、非競争的阻害は通常克服できません。"
+    }
+  },
+  {
+    "page_number": 211,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "A metabolic pathway is regulated by feedback inhibition. What is the typical mechanism of this regulation (Concept 8.5)?",
+      "zh": "一个代谢途径受到反馈抑制的调控。这种调控的典型机制是什么（概念8.5）？",
+      "es": "Una vía metabólica está regulada por inhibición por retroalimentación. ¿Cuál es el mecanismo típico de esta regulación (Concepto 8.5)?",
+      "fr": "Une voie métabolique est régulée par rétro-inhibition. Quel est le mécanisme typique de cette régulation (Concept 8.5) ?",
+      "de": "Ein Stoffwechselweg wird durch Rückkopplungshemmung reguliert. Was ist der typische Mechanismus dieser Regulation (Konzept 8.5)?",
+      "ja": "代謝経路はフィードバック阻害によって制御されています。この制御の典型的なメカニズムは何ですか（コンセプト8.5）？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The initial substrate of the pathway binds to and activates an enzyme later in the pathway.",
+          "zh": "途径的初始底物结合并激活途径后期的一个酶。",
+          "es": "El sustrato inicial de la vía se une y activa una enzima más adelante en la vía.",
+          "fr": "Le substrat initial de la voie se lie et active une enzyme plus tard dans la voie.",
+          "de": "Das Ausgangssubstrat des Stoffwechselwegs bindet an ein später im Weg befindliches Enzym und aktiviert es.",
+          "ja": "経路の初期基質が、経路の後の段階にある酵素に結合して活性化する。"
+        },
+        "feedback": {
+          "en": "Feedback inhibition typically involves the end product inhibiting an enzyme early in the pathway, not activating a later one.",
+          "zh": "反馈抑制通常涉及终产物抑制途径早期的一个酶，而不是激活后期的一个酶。",
+          "es": "La inhibición por retroalimentación típicamente implica que el producto final inhibe una enzima al principio de la vía, no que activa una posterior.",
+          "fr": "La rétro-inhibition implique généralement que le produit final inhibe une enzyme au début de la voie, et non qu'il active une enzyme plus tardive.",
+          "de": "Rückkopplungshemmung beinhaltet typischerweise, dass das Endprodukt ein Enzym am Anfang des Stoffwechselwegs hemmt, nicht ein späteres aktiviert.",
+          "ja": "フィードバック阻害は通常、最終産物が経路の初期の酵素を阻害することを含み、後の酵素を活性化することではありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The end product of the pathway allosterically inhibits an enzyme at an earlier step in the pathway.",
+          "zh": "途径的终产物变构抑制途径早期的一个酶。",
+          "es": "El producto final de la vía inhibe alostéricamente una enzima en un paso anterior de la vía.",
+          "fr": "Le produit final de la voie inhibe allostériquement une enzyme à une étape antérieure de la voie.",
+          "de": "Das Endprodukt des Stoffwechselwegs hemmt allosterisch ein Enzym in einem früheren Schritt des Stoffwechselwegs.",
+          "ja": "経路の最終産物が、経路の初期段階の酵素をアロステリックに阻害する。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "An enzyme in the pathway is irreversibly denatured by the accumulation of a product.",
+          "zh": "途径中的一个酶被产物积累不可逆地变性。",
+          "es": "Una enzima en la vía es desnaturalizada irreversiblemente por la acumulación de un producto.",
+          "fr": "Une enzyme de la voie est irréversiblement dénaturée par l'accumulation d'un produit.",
+          "de": "Ein Enzym im Stoffwechselweg wird durch die Akkumulation eines Produkts irreversibel denaturiert.",
+          "ja": "経路内の酵素が、生成物の蓄積によって不可逆的に変性する。"
+        },
+        "feedback": {
+          "en": "Feedback inhibition is usually a reversible allosteric regulation, not irreversible denaturation.",
+          "zh": "反馈抑制通常是可逆的变构调控，而不是不可逆的变性。",
+          "es": "La inhibición por retroalimentación suele ser una regulación alostérica reversible, no una desnaturalización irreversible.",
+          "fr": "La rétro-inhibition est généralement une régulation allostérique réversible, et non une dénaturation irréversible.",
+          "de": "Rückkopplungshemmung ist normalerweise eine reversible allosterische Regulation, keine irreversible Denaturierung.",
+          "ja": "フィードバック阻害は通常、可逆的なアロステリック制御であり、不可逆的な変性ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Multiple enzymes in the pathway bind to each other, forming a complex that speeds up the reaction.",
+          "zh": "途径中的多个酶相互结合，形成一个加速反应的复合物。",
+          "es": "Múltiples enzimas en la vía se unen entre sí, formando un complejo que acelera la reacción.",
+          "fr": "Plusieurs enzymes de la voie se lient les unes aux autres, formant un complexe qui accélère la réaction.",
+          "de": "Mehrere Enzyme im Stoffwechselweg binden aneinander und bilden einen Komplex, der die Reaktion beschleunigt.",
+          "ja": "経路内の複数の酵素が互いに結合し、反応を促進する複合体を形成する。"
+        },
+        "feedback": {
+          "en": "While enzyme complexes can increase efficiency, this describes a structural organization, not the mechanism of feedback inhibition.",
+          "zh": "虽然酶复合物可以提高效率，但这描述的是结构组织，而不是反馈抑制的机制。",
+          "es": "Aunque los complejos enzimáticos pueden aumentar la eficiencia, esto describe una organización estructural, no el mecanismo de inhibición por retroalimentación.",
+          "fr": "Bien que les complexes enzymatiques puissent augmenter l'efficacité, cela décrit une organisation structurelle, et non le mécanisme de la rétro-inhibition.",
+          "de": "Obwohl Enzymkomplexe die Effizienz erhöhen können, beschreibt dies eine strukturelle Organisation und nicht den Mechanismus der Rückkopplungshemmung.",
+          "ja": "酵素複合体は効率を高めることができますが、これは構造的な組織化を説明しており、フィードバック阻害のメカニズムではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "Feedback inhibition is a common mode of metabolic regulation where the end product of a metabolic pathway acts as an allosteric inhibitor of an enzyme earlier in the pathway. This prevents the cell from wasting resources by synthesizing more product than is needed, effectively turning off the pathway when the product accumulates.",
+      "zh": "反馈抑制是代谢调控的一种常见模式，其中代谢途径的终产物作为变构抑制剂作用于途径早期的一个酶。这可以防止细胞通过合成过多的产物而浪费资源，当产物积累时有效地关闭该途径。",
+      "es": "La inhibición por retroalimentación es un modo común de regulación metabólica donde el producto final de una vía metabólica actúa como un inhibidor alostérico de una enzima al principio de la vía. Esto evita que la célula desperdicie recursos al sintetizar más producto del necesario, desactivando efectivamente la vía cuando el producto se acumula.",
+      "fr": "La rétro-inhibition est un mode courant de régulation métabolique où le produit final d'une voie métabolique agit comme un inhibiteur allostérique d'une enzyme située plus tôt dans la voie. Cela empêche la cellule de gaspiller des ressources en synthétisant plus de produit que nécessaire, désactivant efficacement la voie lorsque le produit s'accumule.",
+      "de": "Rückkopplungshemmung ist eine gängige Form der Stoffwechselregulation, bei der das Endprodukt eines Stoffwechselwegs als allosterischer Inhibitor eines Enzyms fungiert, das früher im Stoffwechselweg liegt. Dies verhindert, dass die Zelle Ressourcen verschwendet, indem sie mehr Produkt synthetisiert, als benötigt wird, und schaltet den Stoffwechselweg effektiv ab, wenn sich das Produkt ansammelt.",
+      "ja": "フィードバック阻害は、代謝経路の最終産物が経路の初期の酵素に対するアロステリック阻害剤として作用する、代謝制御の一般的なモードです。これにより、細胞は必要以上の産物を合成して資源を浪費するのを防ぎ、産物が蓄積すると経路を効果的に停止させます。"
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 425,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the provided data and graph, which of the following statements correctly describes the effect of deleting a control element and its inferred normal role?",
+      "zh": "根据提供的数据和图表，以下哪项陈述正确描述了删除控制元件的效果及其推断的正常作用？",
+      "es": "Según los datos y el gráfico proporcionados, ¿cuál de las siguientes afirmaciones describe correctamente el efecto de eliminar un elemento de control y su función normal inferida?",
+      "fr": "D'après les données et le graphique fournis, quelle affirmation suivante décrit correctement l'effet de la suppression d'un élément de contrôle et son rôle normal inféré ?",
+      "de": "Basierend auf den bereitgestellten Daten und der Grafik, welche der folgenden Aussagen beschreibt korrekt die Auswirkung der Löschung eines Kontrollelements und dessen abgeleitete normale Rolle?",
+      "ja": "提供されたデータとグラフに基づき、以下の記述のうち、制御要素の削除効果とその推測される通常の役割を正しく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Deletion of control element 1 leads to a reduction in reporter gene expression, indicating it normally functions as an activator.",
+          "zh": "删除控制元件1导致报告基因表达减少，表明其通常起激活剂作用。",
+          "es": "La eliminación del elemento de control 1 conduce a una reducción en la expresión del gen reportero, indicando que normalmente funciona como activador.",
+          "fr": "La suppression de l'élément de contrôle 1 entraîne une réduction de l'expression du gène rapporteur, ce qui indique qu'il fonctionne normalement comme activateur.",
+          "de": "Die Löschung von Kontrollelement 1 führt zu einer Reduzierung der Reportergenexpression, was darauf hindeutet, dass es normalerweise als Aktivator fungiert.",
+          "ja": "制御要素1の削除はレポーター遺伝子発現の減少を引き起こし、これは通常アクチベーターとして機能することを示します。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Deletion of control element 2 leads to an increase in reporter gene expression, indicating it normally functions as an activator.",
+          "zh": "删除控制元件2导致报告基因表达增加，表明其通常起激活剂作用。",
+          "es": "La eliminación del elemento de control 2 conduce a un aumento en la expresión del gen reportero, indicando que normalmente funciona como activador.",
+          "fr": "La suppression de l'élément de contrôle 2 entraîne une augmentation de l'expression du gène rapporteur, ce qui indique qu'il fonctionne normalement comme activateur.",
+          "de": "Die Löschung von Kontrollelement 2 führt zu einer Erhöhung der Reportergenexpression, was darauf hindeutet, dass es normalerweise als Aktivator fungiert.",
+          "ja": "制御要素2の削除はレポーター遺伝子発現の増加を引き起こし、これは通常アクチベーターとして機能することを示します。"
+        },
+        "feedback": {
+          "en": "An increase in expression upon deletion suggests the element normally represses gene expression, not activates it.",
+          "zh": "删除后表达增加表明该元件通常抑制基因表达，而非激活。",
+          "es": "Un aumento en la expresión tras la eliminación sugiere que el elemento normalmente reprime la expresión génica, no la activa.",
+          "fr": "Une augmentation de l'expression après la suppression suggère que l'élément réprime normalement l'expression génique, et non qu'il l'active.",
+          "de": "Eine Erhöhung der Expression nach der Löschung deutet darauf hin, dass das Element normalerweise die Genexpression unterdrückt und nicht aktiviert.",
+          "ja": "削除後に発現が増加するということは、その要素が通常遺伝子発現を抑制するのであり、活性化するのではないことを示唆しています。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Deletion of control element 3 leads to a reduction in reporter gene expression, indicating it normally functions as a repressor.",
+          "zh": "删除控制元件3导致报告基因表达减少，表明其通常起抑制剂作用。",
+          "es": "La eliminación del elemento de control 3 conduce a una reducción en la expresión del gen reportero, indicando que normalmente funciona como represor.",
+          "fr": "La suppression de l'élément de contrôle 3 entraîne une réduction de l'expression du gène rapporteur, ce qui indique qu'il fonctionne normalement comme répresseur.",
+          "de": "Die Löschung von Kontrollelement 3 führt zu einer Reduzierung der Reportergenexpression, was darauf hindeutet, dass es normalerweise als Repressor fungiert.",
+          "ja": "制御要素3の削除はレポーター遺伝子発現の減少を引き起こし、これは通常リプレッサーとして機能することを示します。"
+        },
+        "feedback": {
+          "en": "Deletion of element 3 causes an increase in expression, not a reduction. An increase upon deletion suggests it's a repressor.",
+          "zh": "删除元件3导致表达增加，而非减少。删除后表达增加表明它是抑制剂。",
+          "es": "La eliminación del elemento 3 causa un aumento en la expresión, no una reducción. Un aumento tras la eliminación sugiere que es un represor.",
+          "fr": "La suppression de l'élément 3 entraîne une augmentation de l'expression, pas une réduction. Une augmentation après la suppression suggère qu'il s'agit d'un répresseur.",
+          "de": "Die Löschung von Element 3 führt zu einer Erhöhung der Expression, nicht zu einer Reduzierung. Eine Erhöhung bei Löschung deutet darauf hin, dass es ein Repressor ist.",
+          "ja": "要素3の削除は発現の増加を引き起こし、減少ではありません。削除後の増加はそれがリプレッサーであることを示唆しています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Deletion of control element 2 leads to a reduction in reporter gene expression, indicating it normally functions as a repressor.",
+          "zh": "删除控制元件2导致报告基因表达减少，表明其通常起抑制剂作用。",
+          "es": "La eliminación del elemento de control 2 conduce a una reducción en la expresión del gen reportero, indicando que normalmente funciona como represor.",
+          "fr": "La suppression de l'élément de contrôle 2 entraîne une réduction de l'expression du gène rapporteur, ce qui indique qu'il fonctionne normalement comme répresseur.",
+          "de": "Die Löschung von Kontrollelement 2 führt zu einer Reduzierung der Reportergenexpression, was darauf hindeutet, dass es normalerweise als Repressor fungiert.",
+          "ja": "制御要素2の削除はレポーター遺伝子発現の減少を引き起こし、これは通常リプレッサーとして機能することを示します。"
+        },
+        "feedback": {
+          "en": "Deletion of element 2 leads to an increase in expression, not a reduction.",
+          "zh": "删除元件2导致表达增加，而非减少。",
+          "es": "La eliminación del elemento 2 conduce a un aumento en la expresión, no a una reducción.",
+          "fr": "La suppression de l'élément 2 entraîne une augmentation de l'expression, et non une réduction.",
+          "de": "Die Löschung von Element 2 führt zu einer Erhöhung der Expression, nicht zu einer Reduzierung.",
+          "ja": "要素2の削除は発現の増加を引き起こし、減少ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The bar graph shows that deleting control element 1 results in reporter gene expression dropping to approximately 20-30% of the control level. This reduction indicates that element 1 normally promotes (activates) gene expression. If an activator is removed, expression decreases. Conversely, deleting elements 2 and 3 causes an increase in expression (to about 140-150%), suggesting they normally repress gene expression. If a repressor is removed, expression increases.",
+      "zh": "条形图显示，删除控制元件1导致报告基因表达降至对照水平的约20-30%。这种减少表明元件1通常促进（激活）基因表达。如果激活剂被移除，表达就会减少。相反，删除元件2和3导致表达增加（至约140-150%），这表明它们通常抑制基因表达。如果抑制剂被移除，表达就会增加。",
+      "es": "El gráfico de barras muestra que la eliminación del elemento de control 1 resulta en que la expresión del gen reportero cae aproximadamente al 20-30% del nivel de control. Esta reducción indica que el elemento 1 normalmente promueve (activa) la expresión génica. Si se elimina un activador, la expresión disminuye. Por el contrario, la eliminación de los elementos 2 y 3 provoca un aumento en la expresión (hasta aproximadamente 140-150%), lo que sugiere que normalmente reprimen la expresión génica. Si se elimina un represor, la expresión aumenta.",
+      "fr": "Le graphique à barres montre que la suppression de l'élément de contrôle 1 entraîne une chute de l'expression du gène rapporteur à environ 20-30 % du niveau de contrôle. Cette réduction indique que l'élément 1 promeut (active) normalement l'expression génique. Si un activateur est retiré, l'expression diminue. Inversement, la suppression des éléments 2 et 3 provoque une augmentation de l'expression (jusqu'à environ 140-150 %), suggérant qu'ils répriment normalement l'expression génique. Si un répresseur est retiré, l'expression augmente.",
+      "de": "Das Balkendiagramm zeigt, dass die Löschung von Kontrollelement 1 dazu führt, dass die Reportergenexpression auf etwa 20-30% des Kontrollniveaus sinkt. Diese Reduzierung deutet darauf hin, dass Element 1 normalerweise die Genexpression fördert (aktiviert). Wenn ein Aktivator entfernt wird, nimmt die Expression ab. Umgekehrt führt die Löschung der Elemente 2 und 3 zu einer Erhöhung der Expression (auf etwa 140-150%), was darauf hindeutet, dass sie normalerweise die Genexpression unterdrücken. Wenn ein Repressor entfernt wird, erhöht sich die Expression.",
+      "ja": "棒グラフは、制御要素1の削除がレポーター遺伝子発現を対照レベルの約20-30%に低下させることを示しています。この減少は、要素1が通常遺伝子発現を促進（活性化）することを示します。アクチベーターが除去されると、発現は減少します。逆に、要素2と3の削除は発現を増加させ（約140-150%まで）、これらは通常遺伝子発現を抑制することを示唆しています。リプレッサーが除去されると、発現は増加します。"
+    }
+  },
+  {
+    "page_number": 425,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Why did the researchers choose to use a 'reporter gene' instead of directly measuring the expression of the mPGES-1 gene itself in this experiment?",
+      "zh": "为什么研究人员选择使用“报告基因”而不是直接测量mPGES-1基因本身的表达？",
+      "es": "¿Por qué los investigadores eligieron utilizar un 'gen reportero' en lugar de medir directamente la expresión del gen mPGES-1 en este experimento?",
+      "fr": "Pourquoi les chercheurs ont-ils choisi d'utiliser un 'gène rapporteur' au lieu de mesurer directement l'expression du gène mPGES-1 lui-même dans cette expérience ?",
+      "de": "Warum entschieden sich die Forscher in diesem Experiment dafür, ein 'Reportergen' zu verwenden, anstatt die Expression des mPGES-1-Gens direkt zu messen?",
+      "ja": "なぜ研究者たちは、この実験でmPGES-1遺伝子自体の発現を直接測定する代わりに、「レポーター遺伝子」を使用することを選択したのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The mPGES-1 gene is too difficult to isolate from human cells.",
+          "zh": "mPGES-1基因太难从人体细胞中分离。",
+          "es": "El gen mPGES-1 es demasiado difícil de aislar de las células humanas.",
+          "fr": "Le gène mPGES-1 est trop difficile à isoler des cellules humaines.",
+          "de": "Das mPGES-1-Gen ist zu schwer aus menschlichen Zellen zu isolieren.",
+          "ja": "mPGES-1遺伝子をヒト細胞から分離するのは困難すぎるからです。"
+        },
+        "feedback": {
+          "en": "The text does not state that the mPGES-1 gene is difficult to isolate. The reason given is related to endogenous expression.",
+          "zh": "文中没有提及mPGES-1基因难以分离。给出的原因是与内源性表达有关。",
+          "es": "El texto no indica que el gen mPGES-1 sea difícil de aislar. La razón dada está relacionada con la expresión endógena.",
+          "fr": "Le texte n'indique pas que le gène mPGES-1 est difficile à isoler. La raison donnée est liée à l'expression endogène.",
+          "de": "Der Text gibt nicht an, dass das mPGES-1-Gen schwer zu isolieren ist. Der angegebene Grund hängt mit der endogenen Expression zusammen.",
+          "ja": "本文にはmPGES-1遺伝子の単離が困難であるとは記載されていません。提示された理由は内因性発現に関連しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The cells used in the experiment already express their own mPGES-1 gene, which could confuse the results.",
+          "zh": "实验中使用的细胞已经表达其自身的mPGES-1基因，这可能会混淆结果。",
+          "es": "Las células utilizadas en el experimento ya expresan su propio gen mPGES-1, lo que podría confundir los resultados.",
+          "fr": "Les cellules utilisées dans l'expérience expriment déjà leur propre gène mPGES-1, ce qui pourrait brouiller les résultats.",
+          "de": "Die in dem Experiment verwendeten Zellen exprimieren bereits ihr eigenes mPGES-1-Gen, was die Ergebnisse verfälschen könnte.",
+          "ja": "実験で使用された細胞はすでに自身のmPGES-1遺伝子を発現しており、それが結果を混乱させる可能性があるためです。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "The reporter gene mRNA product is more stable than mPGES-1 mRNA.",
+          "zh": "报告基因mRNA产物比mPGES-1 mRNA更稳定。",
+          "es": "El producto de ARNm del gen reportero es más estable que el ARNm de mPGES-1.",
+          "fr": "Le produit ARNm du gène rapporteur est plus stable que l'ARNm de mPGES-1.",
+          "de": "Das mRNA-Produkt des Reportergens ist stabiler als die mPGES-1-mRNA.",
+          "ja": "レポーター遺伝子mRNA産物はmPGES-1 mRNAよりも安定しているためです。"
+        },
+        "feedback": {
+          "en": "While stability can be a factor in choosing reporter genes, the text specifically states the reason is to avoid confusion with endogenous mPGES-1 expression.",
+          "zh": "虽然稳定性可能是选择报告基因的一个因素，但文本明确指出原因是避免与内源性mPGES-1表达混淆。",
+          "es": "Si bien la estabilidad puede ser un factor en la elección de genes reporteros, el texto especifica que la razón es evitar la confusión con la expresión endógena de mPGES-1.",
+          "fr": "Bien que la stabilité puisse être un facteur dans le choix des gènes rapporteurs, le texte indique spécifiquement que la raison est d'éviter la confusion avec l'expression endogène de mPGES-1.",
+          "de": "Obwohl Stabilität ein Faktor bei der Auswahl von Reportergenen sein kann, besagt der Text ausdrücklich, dass der Grund darin liegt, Verwechslungen mit der endogenen mPGES-1-Expression zu vermeiden.",
+          "ja": "安定性はレポーター遺伝子を選択する際の要因となることはありますが、本文では内因性のmPGES-1発現との混同を避けることが具体的な理由として挙げられています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The reporter gene is directly responsible for synthesizing prostaglandin.",
+          "zh": "报告基因直接负责合成前列腺素。",
+          "es": "El gen reportero es directamente responsable de la síntesis de prostaglandina.",
+          "fr": "Le gène rapporteur est directement responsable de la synthèse de prostaglandine.",
+          "de": "Das Reportergen ist direkt für die Synthese von Prostaglandin verantwortlich.",
+          "ja": "レポーター遺伝子が直接プロスタグランジン合成に関与しているためです。"
+        },
+        "feedback": {
+          "en": "The mPGES-1 gene codes for an enzyme that synthesizes prostaglandin. The reporter gene product is merely 'easily measured experimentally' and does not directly synthesize prostaglandin.",
+          "zh": "mPGES-1基因编码合成前列腺素的酶。报告基因产物只是“易于实验测量”，并不直接合成前列腺素。",
+          "es": "El gen mPGES-1 codifica una enzima que sintetiza prostaglandina. El producto del gen reportero es simplemente 'fácil de medir experimentalmente' y no sintetiza directamente prostaglandina.",
+          "fr": "Le gène mPGES-1 code pour une enzyme qui synthétise la prostaglandine. Le produit du gène rapporteur est simplement 'facilement mesurable expérimentalement' et ne synthétise pas directement la prostaglandine.",
+          "de": "Das mPGES-1-Gen kodiert für ein Enzym, das Prostaglandin synthetisiert. Das Produkt des Reportergens ist lediglich 'experimentell leicht messbar' und synthetisiert kein Prostaglandin direkt.",
+          "ja": "mPGES-1遺伝子がプロスタグランジンを合成する酵素をコードしています。レポーター遺伝子産物は単に「実験的に簡単に測定できる」だけであり、直接プロスタグランジンを合成するわけではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "The text explicitly states: '(The mPGES-1 gene itself couldn't be used to measure expression levels because the cells express their own mPGES-1 gene, and the mRNA from that gene would confuse the results.)' This indicates that using a reporter gene avoids confounding results from endogenous gene expression.",
+      "zh": "文本明确指出：“（mPGES-1基因本身不能用于测量表达水平，因为细胞表达其自身的mPGES-1基因，来自该基因的mRNA会混淆结果。）”这表明使用报告基因可以避免内源性基因表达对结果的干扰。",
+      "es": "El texto establece explícitamente: '(El gen mPGES-1 en sí mismo no pudo usarse para medir los niveles de expresión porque las células expresan su propio gen mPGES-1, y el ARNm de ese gen confundiría los resultados.)' Esto indica que el uso de un gen reportero evita la confusión de resultados debido a la expresión génica endógena.",
+      "fr": "Le texte déclare explicitement : '(Le gène mPGES-1 lui-même ne pouvait pas être utilisé pour mesurer les niveaux d'expression parce que les cellules expriment leur propre gène mPGES-1, et l'ARNm de ce gène aurait confondu les résultats.)' Cela indique que l'utilisation d'un gène rapporteur permet d'éviter les résultats confus dus à l'expression génique endogène.",
+      "de": "Der Text besagt ausdrücklich: '(Das mPGES-1-Gen selbst konnte nicht zur Messung der Expressionsniveaus verwendet werden, da die Zellen ihr eigenes mPGES-1-Gen exprimieren und die mRNA dieses Gens die Ergebnisse verwechseln würde.)' Dies deutet darauf hin, dass die Verwendung eines Reportergens die Verfälschung der Ergebnisse durch endogene Genexpression vermeidet.",
+      "ja": "本文には「（細胞が自身のmPGES-1遺伝子を発現するため、mPGES-1遺伝子自体を発現レベルの測定に用いることはできず、その遺伝子からのmRNAが結果を混乱させるだろう）」と明記されています。これは、レポーター遺伝子を使用することで内因性遺伝子発現による結果の混乱を避けることを示しています。"
+    }
+  },
+  {
+    "page_number": 425,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "In this DNA deletion experiment, identify the independent variable, the dependent variable, and the control treatment.",
+      "zh": "在此DNA删除实验中，识别自变量、因变量和对照处理。",
+      "es": "En este experimento de eliminación de ADN, identifique la variable independiente, la variable dependiente y el tratamiento de control.",
+      "fr": "Dans cette expérience de suppression d'ADN, identifiez la variable indépendante, la variable dépendante et le traitement de contrôle.",
+      "de": "Identifizieren Sie in diesem DNA-Deletions-Experiment die unabhängige Variable, die abhängige Variable und die Kontrollbehandlung.",
+      "ja": "このDNA削除実験において、独立変数、従属変数、および対照処理を特定してください。"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Independent Variable: The specific control element(s) deleted in the DNA constructs. Dependent Variable: The relative level of reporter mRNA. Control Treatment: The DNA construct with the intact enhancer region.",
+          "zh": "自变量：DNA构建体中删除的特定控制元件。因变量：报告mRNA的相对水平。对照处理：具有完整增强子区域的DNA构建体。",
+          "es": "Variable Independiente: El/los elemento(s) de control específico(s) eliminado(s) en los constructos de ADN. Variable Dependiente: El nivel relativo de ARNm reportero. Tratamiento de Control: El constructo de ADN con la región potenciadora intacta.",
+          "fr": "Variable Indépendante : Le(s) élément(s) de contrôle spécifique(s) supprimé(s) dans les constructions d'ADN. Variable Dépendante : Le niveau relatif d'ARNm rapporteur. Traitement de Contrôle : La construction d'ADN avec la région d'enhancer intacte.",
+          "de": "Unabhängige Variable: Die spezifischen Kontrollelemente, die in den DNA-Konstrukten gelöscht wurden. Abhängige Variable: Der relative mRNA-Spiegel des Reportergens. Kontrollbehandlung: Das DNA-Konstrukt mit der intakten Enhancer-Region.",
+          "ja": "独立変数：DNA構築物で削除された特定の制御要素。従属変数：レポーターmRNAの相対レベル。対照処理：エンハンサー領域がそのままのDNA構築物。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Independent Variable: The relative level of reporter mRNA. Dependent Variable: The specific control element(s) deleted. Control Treatment: The DNA construct with element 1 deleted.",
+          "zh": "自变量：报告mRNA的相对水平。因变量：删除的特定控制元件。对照处理：删除元件1的DNA构建体。",
+          "es": "Variable Independiente: El nivel relativo de ARNm reportero. Variable Dependiente: El/los elemento(s) de control específico(s) eliminado(s). Tratamiento de Control: El constructo de ADN con el elemento 1 eliminado.",
+          "fr": "Variable Indépendante : Le niveau relatif d'ARNm rapporteur. Variable Dépendante : Le(s) élément(s) de contrôle spécifique(s) supprimé(s). Traitement de Contrôle : La construction d'ADN avec l'élément 1 supprimé.",
+          "de": "Unabhängige Variable: Der relative mRNA-Spiegel des Reportergens. Abhängige Variable: Die spezifischen Kontrollelemente, die gelöscht wurden. Kontrollbehandlung: Das DNA-Konstrukt, bei dem Element 1 gelöscht wurde.",
+          "ja": "独立変数：レポーターmRNAの相対レベル。従属変数：削除された特定の制御要素。対照処理：要素1が削除されたDNA構築物。"
+        },
+        "feedback": {
+          "en": "The roles of independent and dependent variables are swapped. The control treatment is the intact construct, not one with a deletion.",
+          "zh": "自变量和因变量的角色互换了。对照处理是完整的构建体，而不是有删除的构建体。",
+          "es": "Los roles de las variables independiente y dependiente están invertidos. El tratamiento de control es el constructo intacto, no uno con una eliminación.",
+          "fr": "Les rôles des variables indépendante et dépendante sont inversés. Le traitement de contrôle est la construction intacte, pas celle avec une suppression.",
+          "de": "Die Rollen der unabhängigen und abhängigen Variablen sind vertauscht. Die Kontrollbehandlung ist das intakte Konstrukt, nicht eines mit einer Löschung.",
+          "ja": "独立変数と従属変数の役割が入れ替わっています。対照処理は削除されたものではなく、無傷の構築物です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Independent Variable: The human cell culture. Dependent Variable: The amount of DNA constructs introduced. Control Treatment: Cells not exposed to any DNA constructs.",
+          "zh": "自变量：人细胞培养。因变量：引入的DNA构建体数量。对照处理：未暴露于任何DNA构建体的细胞。",
+          "es": "Variable Independiente: El cultivo de células humanas. Variable Dependiente: La cantidad de constructos de ADN introducidos. Tratamiento de Control: Células no expuestas a ningún constructo de ADN.",
+          "fr": "Variable Indépendante : La culture de cellules humaines. Variable Dépendante : La quantité de constructions d'ADN introduites. Traitement de Contrôle : Cellules non exposées à aucune construction d'ADN.",
+          "de": "Unabhängige Variable: Die menschliche Zellkultur. Abhängige Variable: Die Menge der eingeführten DNA-Konstrukte. Kontrollbehandlung: Zellen, die keinen DNA-Konstrukten ausgesetzt waren.",
+          "ja": "独立変数：ヒト細胞培養。従属変数：導入されたDNA構築物の量。対照処理：DNA構築物に曝露されていない細胞。"
+        },
+        "feedback": {
+          "en": "The human cell culture and amount of DNA constructs are part of the experimental setup, not the variables being tested. The control is defined by the graph and experimental description.",
+          "zh": "人细胞培养和DNA构建体数量是实验设置的一部分，而不是被测试的变量。对照由图表和实验描述定义。",
+          "es": "El cultivo de células humanas y la cantidad de constructos de ADN forman parte de la configuración experimental, no son las variables que se están probando. El control se define por el gráfico y la descripción experimental.",
+          "fr": "La culture de cellules humaines et la quantité de constructions d'ADN font partie de la configuration expérimentale, ce ne sont pas les variables testées. Le contrôle est défini par le graphique et la description expérimentale.",
+          "de": "Die menschliche Zellkultur und die Menge der DNA-Konstrukte sind Teil des experimentellen Aufbaus, nicht die getesteten Variablen. Die Kontrolle wird durch das Diagramm und die experimentelle Beschreibung definiert.",
+          "ja": "ヒト細胞培養とDNA構築物の量は実験設定の一部であり、テストされている変数ではありません。対照はグラフと実験説明によって定義されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Independent Variable: The approximate 8 kb of DNA region. Dependent Variable: The promoter gene. Control Treatment: The mPGES-1 gene.",
+          "zh": "自变量：约8 kb的DNA区域。因变量：启动子基因。对照处理：mPGES-1基因。",
+          "es": "Variable Independiente: La región de ADN de aproximadamente 8 kb. Variable Dependiente: El gen promotor. Tratamiento de Control: El gen mPGES-1.",
+          "fr": "Variable Indépendante : La région d'ADN d'environ 8 kb. Variable Dépendante : Le gène promoteur. Traitement de Contrôle : Le gène mPGES-1.",
+          "de": "Unabhängige Variable: Die ungefähr 8 kb große DNA-Region. Abhängige Variable: Das Promotorgen. Kontrollbehandlung: Das mPGES-1-Gen.",
+          "ja": "独立変数：約8kbのDNA領域。従属変数：プロモーター遺伝子。対照処理：mPGES-1遺伝子。"
+        },
+        "feedback": {
+          "en": "The 8kb region is a fixed characteristic of the constructs, not a variable. The promoter is part of the construct, not the dependent variable. The mPGES-1 gene itself is what is being studied indirectly, not the control treatment.",
+          "zh": "8kb区域是构建体的固定特征，不是变量。启动子是构建体的一部分，不是因变量。mPGES-1基因本身是被间接研究的对象，而不是对照处理。",
+          "es": "La región de 8kb es una característica fija de los constructos, no una variable. El promotor es parte del constructo, no la variable dependiente. El gen mPGES-1 en sí es lo que se está estudiando indirectamente, no el tratamiento de control.",
+          "fr": "La région de 8kb est une caractéristique fixe des constructions, pas une variable. Le promoteur fait partie de la construction, pas la variable dépendante. Le gène mPGES-1 lui-même est ce qui est étudié indirectement, et non le traitement de contrôle.",
+          "de": "Die 8kb-Region ist eine feste Eigenschaft der Konstrukte, keine Variable. Der Promotor ist Teil des Konstrukts, nicht die abhängige Variable. Das mPGES-1-Gen selbst wird indirekt untersucht, ist aber nicht die Kontrollbehandlung.",
+          "ja": "8kb領域は構築物の固定された特性であり、変数ではありません。プロモーターは構築物の一部であり、従属変数ではありません。mPGES-1遺伝子自体は間接的に研究されている対象であり、対照処理ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The independent variable is what the researchers manipulate, which is the specific control element(s) deleted in the DNA constructs (elements 1, 2, or 3, or none for the control). The dependent variable is what is measured in response, which is the relative level of reporter mRNA. The control treatment is the condition where no manipulation occurs, which is the DNA construct with the intact enhancer region, serving as the baseline (100% expression).",
+      "zh": "自变量是研究人员操纵的因素，即DNA构建体中删除的特定控制元件（元件1、2或3，或对照组不删除任何元件）。因变量是响应操纵而测量的结果，即报告mRNA的相对水平。对照处理是未进行任何操纵的条件，即具有完整增强子区域的DNA构建体，作为基线（100%表达）。",
+      "es": "La variable independiente es lo que los investigadores manipulan, que es el/los elemento(s) de control específico(s) eliminado(s) en los constructos de ADN (elementos 1, 2 o 3, o ninguno para el control). La variable dependiente es lo que se mide en respuesta, que es el nivel relativo de ARNm reportero. El tratamiento de control es la condición en la que no ocurre manipulación, que es el constructo de ADN con la región potenciadora intacta, sirviendo como línea base (100% de expresión).",
+      "fr": "La variable indépendante est ce que les chercheurs manipulent, c'est-à-dire le ou les éléments de contrôle spécifiques supprimés dans les constructions d'ADN (éléments 1, 2 ou 3, ou aucun pour le contrôle). La variable dépendante est ce qui est mesuré en réponse, c'est-à-dire le niveau relatif d'ARNm rapporteur. Le traitement de contrôle est la condition dans laquelle aucune manipulation ne se produit, c'est-à-dire la construction d'ADN avec la région d'enhancer intacte, servant de référence (100 % d'expression).",
+      "de": "Die unabhängige Variable ist das, was die Forscher manipulieren, nämlich die spezifischen Kontrollelemente, die in den DNA-Konstrukten gelöscht wurden (Elemente 1, 2 oder 3, oder keine für die Kontrolle). Die abhängige Variable ist das, was als Reaktion gemessen wird, nämlich der relative mRNA-Spiegel des Reportergens. Die Kontrollbehandlung ist der Zustand, in dem keine Manipulation erfolgt, d.h. das DNA-Konstrukt mit der intakten Enhancer-Region, das als Basis (100% Expression) dient.",
+      "ja": "独立変数とは研究者が操作するものであり、DNA構築物中で削除された特定の制御要素（要素1、2、または3、あるいは対照のための削除なし）です。従属変数とはそれに反応して測定されるものであり、レポーターmRNAの相対レベルです。対照処理とは操作が行われない状態であり、無傷のエンハンサー領域を持つDNA構築物がこれに該当し、基準（100%の発現）として機能します。"
+    }
+  }
+]

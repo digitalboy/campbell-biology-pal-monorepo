@@ -1,0 +1,366 @@
+[
+  {
+    "page_number": 606,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "What does it mean for a phylogenetic tree to be \"rooted,\" and what is a \"basal taxon\" within such a tree?",
+      "zh": "一个系统发育树“有根”意味着什么，以及在这种树中的“基底类群”是什么？",
+      "es": "¿Qué significa que un árbol filogenético esté \"arraigado\" y qué es un \"taxón basal\" dentro de dicho árbol?",
+      "fr": "Que signifie pour un arbre phylogénétique d'être \"enraciné\", et qu'est-ce qu'un \"taxon basal\" au sein d'un tel arbre ?",
+      "de": "Was bedeutet es, wenn ein phylogenetischer Baum „verwurzelt“ ist, und was ist ein „basales Taxon“ innerhalb eines solchen Baumes?",
+      "ja": "系統樹が「根ざしている（rooted）」とはどういう意味ですか？また、そのような樹における「基底分類群（basal taxon）」とは何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "A rooted tree indicates the exact time of divergence, and a basal taxon is the most phenotypically similar organism.",
+          "zh": "一个有根树指示精确的分歧时间，而基底类群是表型上最相似的生物。",
+          "es": "Un árbol arraigado indica el tiempo exacto de divergencia, y un taxón basal es el organismo fenotípicamente más similar.",
+          "fr": "Un arbre enraciné indique le moment exact de la divergence, et un taxon basal est l'organisme le plus similaire phénotypiquement.",
+          "de": "Ein verwurzelter Baum gibt den genauen Zeitpunkt der Divergenz an, und ein basales Taxon ist der phänotypisch ähnlichste Organismus.",
+          "ja": "根ざした樹は分岐の正確な時期を示し、基底分類群は表現型が最も類似した生物である。"
+        },
+        "feedback": {
+          "en": "Rooted trees don't necessarily indicate exact divergence times unless branch lengths are specified to represent time. Basal taxons are defined by early divergence, not phenotypic similarity.",
+          "zh": "除非枝长明确表示时间，否则有根树不一定指示精确的分歧时间。基底类群由早期分化定义，而非表型相似性。",
+          "es": "Los árboles arraigados no necesariamente indican tiempos de divergencia exactos a menos que las longitudes de las ramas estén especificadas para representar el tiempo. Los taxones basales se definen por una divergencia temprana, no por la similitud fenotípica.",
+          "fr": "Les arbres enracinés n'indiquent pas nécessairement les temps de divergence exacts, sauf si les longueurs des branches sont spécifiées pour représenter le temps. Les taxons basaux sont définis par une divergence précoce, et non par la similarité phénotypique.",
+          "de": "Verwurzelte Bäume geben nicht unbedingt genaue Divergenzzeiten an, es sei denn, die Astlängen sind so definiert, dass sie die Zeit repräsentieren. Basale Taxa werden durch frühe Divergenz definiert, nicht durch phänotypische Ähnlichkeit.",
+          "ja": "根ざした樹は、枝の長さが時間を表すように指定されていない限り、正確な分岐時期を示すとは限りません。基底分類群は表現型の類似性ではなく、初期の分岐によって定義されます。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "A rooted tree has a branch point representing the most recent common ancestor of all taxa, and a basal taxon is a lineage that diverges early from other members.",
+          "zh": "一个有根树有一个代表所有类群最近共同祖先的分支点，而基底类群是一个早期与其他成员分化的谱系。",
+          "es": "Un árbol arraigado tiene un punto de ramificación que representa el ancestro común más reciente de todos los taxones, y un taxón basal es un linaje que diverge tempranamente de otros miembros.",
+          "fr": "Un arbre enraciné possède un point de branchement représentant l'ancêtre commun le plus récent de tous les taxons, et un taxon basal est une lignée qui diverge précocement des autres membres.",
+          "de": "Ein verwurzelter Baum hat einen Verzweigungspunkt, der den jüngsten gemeinsamen Vorfahren aller Taxa repräsentiert, und ein basales Taxon ist eine Linie, die sich früh von anderen Mitgliedern abspaltet.",
+          "ja": "根ざした樹にはすべての分類群の最新の共通祖先を表す分岐点があり、基底分類群は他のメンバーから早期に分岐した系統です。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "A rooted tree means its branches cannot be rotated, and a basal taxon is always the oldest living species in the group.",
+          "zh": "一个有根树意味着其分支不能旋转，而基底类群总是群体中最古老的现存物种。",
+          "es": "Un árbol arraigado significa que sus ramas no pueden rotarse, y un taxón basal es siempre la especie viva más antigua del grupo.",
+          "fr": "Un arbre enraciné signifie que ses branches ne peuvent pas être tournées, et un taxon basal est toujours la plus ancienne espèce vivante du groupe.",
+          "de": "Ein verwurzelter Baum bedeutet, dass seine Äste nicht gedreht werden können, und ein basales Taxon ist immer die älteste lebende Art in der Gruppe.",
+          "ja": "根ざした樹とはその枝が回転できないことを意味し、基底分類群は常にその群で最も古い現存種である。"
+        },
+        "feedback": {
+          "en": "The branches of a phylogenetic tree can be rotated around branch points without changing the relationships. A basal taxon is about the pattern of divergence, not necessarily the oldest living species.",
+          "zh": "系统发育树的枝点可以旋转，而不会改变其关系。基底类群关乎分化模式，不一定是最古老的现存物种。",
+          "es": "Las ramas de un árbol filogenético pueden rotarse alrededor de los puntos de ramificación sin cambiar las relaciones. Un taxón basal se refiere al patrón de divergencia, no necesariamente a la especie viva más antigua.",
+          "fr": "Les branches d'un arbre phylogénétique peuvent être tournées autour des points de branchement sans modifier les relations. Un taxon basal concerne le modèle de divergence, pas nécessairement l'espèce vivante la plus ancienne.",
+          "de": "Die Äste eines phylogenetischen Baumes können um Verzweigungspunkte gedreht werden, ohne die Beziehungen zu ändern. Ein basales Taxon bezieht sich auf das Divergenzmuster, nicht unbedingt auf die älteste lebende Art.",
+          "ja": "系統樹の枝は分岐点を中心に回転させても、その関係性は変わりません。基底分類群は分岐パターンに関するものであり、必ずしも群で最も古い現存種であるとは限りません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "A rooted tree implies a sequence of evolution from left to right, and a basal taxon is the most recently evolved species.",
+          "zh": "一个有根树暗示着从左到右的进化顺序，而基底类群是最近进化的物种。",
+          "es": "Un árbol arraigado implica una secuencia de evolución de izquierda a derecha, y un taxón basal es la especie más recientemente evolucionada.",
+          "fr": "Un arbre enraciné implique une séquence d'évolution de gauche à droite, et un taxon basal est l'espèce la plus récemment évoluée.",
+          "de": "Ein verwurzelter Baum impliziert eine Evolutionssequenz von links nach rechts, und ein basales Taxon ist die jüngste entwickelte Art.",
+          "ja": "根ざした樹は左から右への進化の順序を示唆し、基底分類群は最も新しく進化した種である。"
+        },
+        "feedback": {
+          "en": "The order of taxa on the tree does not represent a sequence of evolution. A basal taxon diverges early, making it an older lineage, not the most recently evolved.",
+          "zh": "树上类群的顺序不代表进化序列。基底类群是早期分化的，使其成为一个较古老的谱系，而不是最近进化的。",
+          "es": "El orden de los taxones en el árbol no representa una secuencia de evolución. Un taxón basal diverge temprano, lo que lo convierte en un linaje más antiguo, no en el más recientemente evolucionado.",
+          "fr": "L'ordre des taxons sur l'arbre ne représente pas une séquence d'évolution. Un taxon basal diverge précocement, ce qui en fait une lignée plus ancienne, et non la plus récemment évoluée.",
+          "de": "Die Reihenfolge der Taxa am Baum stellt keine Evolutionssequenz dar. Ein basales Taxon spaltet sich früh ab und ist somit eine ältere Linie, nicht die jüngst entwickelte.",
+          "ja": "樹上の分類群の順序は進化の順序を表すものではありません。基底分類群は早期に分岐するため、より古い系統であり、最も新しく進化したものではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "As stated in the text, a 'rooted' phylogenetic tree has a branch point representing the most recent common ancestor of all taxa in the tree. A 'basal taxon' is defined as a lineage that diverges from all other members of its group early in the history of the group.",
+      "zh": "如文本所述，“有根”的系统发育树有一个分支点代表树中所有类群的最近共同祖先。“基底类群”被定义为一个在其群体历史早期就与其他成员分化的谱系。",
+      "es": "Según el texto, un árbol filogenético 'arraigado' tiene un punto de ramificación que representa el ancestro común más reciente de todos los taxones del árbol. Un 'taxón basal' se define como un linaje que diverge temprano de todos los demás miembros de su grupo en la historia del grupo.",
+      "fr": "Comme indiqué dans le texte, un arbre phylogénétique 'enraciné' possède un point de branchement représentant l'ancêtre commun le plus récent de tous les taxons de l'arbre. Un 'taxon basal' est défini comme une lignée qui diverge précocement de tous les autres membres de son groupe au début de l'histoire du groupe.",
+      "de": "Wie im Text beschrieben, hat ein „verwurzelter“ phylogenetischer Baum einen Verzweigungspunkt, der den jüngsten gemeinsamen Vorfahren aller Taxa im Baum repräsentiert. Ein „basales Taxon“ ist definiert als eine Linie, die sich früh in der Geschichte der Gruppe von allen anderen Mitgliedern abspaltet.",
+      "ja": "テキストに記載されている通り、「根ざした（rooted）」系統樹には、樹中のすべての分類群の最新の共通祖先を表す分岐点があります。「基底分類群（basal taxon）」は、その群の歴史の早い段階で、その群の他のすべてのメンバーから分岐した系統と定義されています。"
+    }
+  },
+  {
+    "page_number": 606,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to the text, why might crocodiles, which are more closely related to birds than to lizards, still look more like lizards?",
+      "zh": "根据文本，为什么鳄鱼虽然与鸟类的亲缘关系比与蜥蜴的更近，但看起来仍然更像蜥蜴？",
+      "es": "Según el texto, ¿por qué los cocodrilos, que están más estrechamente relacionados con las aves que con los lagartos, siguen pareciéndose más a los lagartos?",
+      "fr": "Selon le texte, pourquoi les crocodiles, qui sont plus étroitement liés aux oiseaux qu'aux lézards, ressemblent-ils toujours davantage aux lézards ?",
+      "de": "Warum sehen Krokodile, die laut Text enger mit Vögeln als mit Eidechsen verwandt sind, immer noch eher wie Eidechsen aus?",
+      "ja": "本文によると、ワニはトカゲよりも鳥類と近縁であるにもかかわらず、なぜトカゲによく似ているように見えるのですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The phylogenetic tree incorrectly groups crocodiles with lizards.",
+          "zh": "系统发育树错误地将鳄鱼与蜥蜴归为一组。",
+          "es": "El árbol filogenético agrupa incorrectamente a los cocodrilos con los lagartos.",
+          "fr": "L'arbre phylogénétique regroupe incorrectement les crocodiles avec les lézards.",
+          "de": "Der phylogenetische Baum gruppiert Krokodile fälschlicherweise mit Eidechsen.",
+          "ja": "系統樹が誤ってワニをトカゲと同じグループに分類しているからである。"
+        },
+        "feedback": {
+          "en": "The text explicitly states that crocodiles are more closely related to birds, implying the phylogenetic relationship is correct.",
+          "zh": "文本明确指出鳄鱼与鸟类亲缘关系更近，这暗示系统发育关系是正确的。",
+          "es": "El texto establece explícitamente que los cocodrilos están más estrechamente relacionados con las aves, lo que implica que la relación filogenética es correcta.",
+          "fr": "Le texte indique explicitement que les crocodiles sont plus étroitement liés aux oiseaux, ce qui implique que la relation phylogénétique est correcte.",
+          "de": "Der Text besagt ausdrücklich, dass Krokodile enger mit Vögeln verwandt sind, was darauf hindeutet, dass die phylogenetische Beziehung korrekt ist.",
+          "ja": "本文では、ワニが鳥類とより近縁であると明確に述べられており、系統関係が正しいことを示唆しています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Crocodiles and lizards share a more recent common ancestor.",
+          "zh": "鳄鱼和蜥蜴共享一个更近的共同祖先。",
+          "es": "Los cocodrilos y los lagartos comparten un ancestro común más reciente.",
+          "fr": "Les crocodiles et les lézards partagent un ancêtre commun plus récent.",
+          "de": "Krokodile und Eidechsen teilen sich einen jüngeren gemeinsamen Vorfahren.",
+          "ja": "ワニとトカゲはより新しい共通の祖先を共有しているからである。"
+        },
+        "feedback": {
+          "en": "The text indicates that crocodiles are more closely related to birds, meaning they share a more recent common ancestor with birds than with lizards.",
+          "zh": "文本指出鳄鱼与鸟类亲缘关系更近，这意味着它们与鸟类共享一个比与蜥蜴更近的共同祖先。",
+          "es": "El texto indica que los cocodrilos están más estrechamente relacionados con las aves, lo que significa que comparten un ancestro común más reciente con las aves que con los lagartos.",
+          "fr": "Le texte indique que les crocodiles sont plus étroitement liés aux oiseaux, ce qui signifie qu'ils partagent un ancêtre commun plus récent avec les oiseaux qu'avec les lézards.",
+          "de": "Der Text weist darauf hin, dass Krokodile enger mit Vögeln verwandt sind, was bedeutet, dass sie einen jüngeren gemeinsamen Vorfahren mit Vögeln als mit Eidechsen teilen.",
+          "ja": "本文は、ワニが鳥類とより近縁であることを示しており、これはワニがトカゲよりも鳥類と新しい共通祖先を共有していることを意味します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Morphology has changed dramatically in the bird lineage, making birds appear less like their close crocodile relatives.",
+          "zh": "鸟类谱系的形态发生了巨大变化，使得鸟类看起来与它们的近亲鳄鱼不太相似。",
+          "es": "La morfología ha cambiado drásticamente en el linaje de las aves, haciendo que las aves se parezcan menos a sus parientes cercanos, los cocodrilos.",
+          "fr": "La morphologie a considérablement changé dans la lignée des oiseaux, rendant les oiseaux moins semblables à leurs proches parents, les crocodiles.",
+          "de": "Die Morphologie hat sich in der Vogellinie dramatisch verändert, wodurch Vögel ihren engen Krokodilverwandten weniger ähneln.",
+          "ja": "鳥類の系統で形態が劇的に変化したため、鳥類は近縁のワニとの類似性が低くなったからである。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Crocodiles evolved from lizards, inheriting their morphological traits.",
+          "zh": "鳄鱼从蜥蜴进化而来，继承了它们的形态特征。",
+          "es": "Los cocodrilos evolucionaron de los lagartos, heredando sus rasgos morfológicos.",
+          "fr": "Les crocodiles ont évolué à partir des lézards, héritant de leurs traits morphologiques.",
+          "de": "Krokodile entwickelten sich aus Eidechsen und erbten deren morphologische Merkmale.",
+          "ja": "ワニはトカゲから進化し、その形態的特徴を受け継いだからである。"
+        },
+        "feedback": {
+          "en": "The text warns against assuming that a taxon evolved from the taxon next to it. Instead, they share a common ancestor. Also, crocodiles are more closely related to birds.",
+          "zh": "文本警告不要假设一个类群是从其相邻类群进化而来。相反，它们共享一个共同祖先。而且，鳄鱼与鸟类亲缘关系更近。",
+          "es": "El texto advierte contra la suposición de que un taxón evolucionó del taxón contiguo. En cambio, comparten un ancestro común. Además, los cocodrilos están más estrechamente relacionados con las aves.",
+          "fr": "Le texte met en garde contre l'hypothèse qu'un taxon a évolué à partir du taxon voisin. Au lieu de cela, ils partagent un ancêtre commun. De plus, les crocodiles sont plus étroitement liés aux oiseaux.",
+          "de": "Der Text warnt davor, anzunehmen, dass sich ein Taxon aus dem danebenliegenden Taxon entwickelt hat. Stattdessen teilen sie sich einen gemeinsamen Vorfahren. Außerdem sind Krokodile enger mit Vögeln verwandt.",
+          "ja": "本文では、ある分類群が隣接する分類群から進化したと仮定することに注意を促しています。むしろ、それらは共通の祖先を共有しています。また、ワニは鳥類とより近縁です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The text explains that even though crocodiles are more closely related to birds than to lizards, they look more like lizards because 'morphology has changed dramatically in the bird lineage'. This illustrates that phylogenetic trees show patterns of descent, not phenotypic similarity.",
+      "zh": "文本解释说，尽管鳄鱼与鸟类的亲缘关系比与蜥蜴的更近，但它们看起来更像蜥蜴，因为“鸟类谱系的形态发生了巨大变化”。这说明系统发育树显示的是谱系模式，而非表型相似性。",
+      "es": "El texto explica que, aunque los cocodrilos están más estrechamente relacionados con las aves que con los lagartos, se parecen más a los lagartos porque 'la morfología ha cambiado drásticamente en el linaje de las aves'. Esto ilustra que los árboles filogenéticos muestran patrones de descendencia, no similitud fenotípica.",
+      "fr": "Le texte explique que, même si les crocodiles sont plus étroitement liés aux oiseaux qu'aux lézards, ils ressemblent davantage aux lézards parce que 'la morphologie a considérablement changé dans la lignée des oiseaux'. Cela illustre que les arbres phylogénétiques montrent des modèles de descendance, et non une similarité phénotypique.",
+      "de": "Der Text erklärt, dass Krokodile, obwohl sie enger mit Vögeln als mit Eidechsen verwandt sind, Eidechsen ähnlicher sehen, weil sich 'die Morphologie in der Vogellinie dramatisch verändert hat'. Dies veranschaulicht, dass phylogenetische Bäume Abstammungsmuster zeigen, nicht phänotypische Ähnlichkeit.",
+      "ja": "本文では、ワニがトカゲよりも鳥類と近縁であるにもかかわらず、トカゲによく似ているのは、「鳥類の系統で形態が劇的に変化した」ためであると説明しています。これは、系統樹が表現型の類似性ではなく、系統のパターンを示すことを示しています。"
+    }
+  },
+  {
+    "page_number": 606,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on Figure 26.6 and its conclusion, which unknown mtDNA samples were most likely illegally harvested?",
+      "zh": "根据图 26.6 及其结论，哪些未知 mtDNA 样本最有可能被非法捕捞？",
+      "es": "Según la Figura 26.6 y su conclusión, ¿cuáles muestras de mtDNA desconocidas fueron probablemente obtenidas ilegalmente?",
+      "fr": "D'après la Figure 26.6 et sa conclusion, quels échantillons d'ADNmt inconnus ont été le plus probablement récoltés illégalement ?",
+      "de": "Basierend auf Abbildung 26.6 und ihrer Schlussfolgerung, welche der unbekannten mtDNA-Proben wurden höchstwahrscheinlich illegal geerntet?",
+      "ja": "図26.6とその結論に基づくと、どの未知のmtDNAサンプルが最も違法に漁獲された可能性が高いですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Unknown mtDNA #1a, 2, 3, 4, 5, 6, 7, 8",
+          "zh": "未知 mtDNA #1a, 2, 3, 4, 5, 6, 7, 8",
+          "es": "mtDNA desconocido #1a, 2, 3, 4, 5, 6, 7, 8",
+          "fr": "ADNmt inconnu n°1a, 2, 3, 4, 5, 6, 7, 8",
+          "de": "Unbekannte mtDNA #1a, 2, 3, 4, 5, 6, 7, 8",
+          "ja": "未知のmtDNA #1a, 2, 3, 4, 5, 6, 7, 8"
+        },
+        "feedback": {
+          "en": "These samples are grouped with Minke (Southern Hemisphere) mtDNA, which the text explicitly states can be sold legally in Japan.",
+          "zh": "这些样本与小须鲸（南半球）mtDNA 分组，文本明确指出这些在日本可以合法销售。",
+          "es": "Estas muestras están agrupadas con mtDNA de Minke (Hemisferio Sur), que el texto establece explícitamente que se puede vender legalmente en Japón.",
+          "fr": "Ces échantillons sont regroupés avec l'ADNmt du rorqual de Minke (Hémisphère Sud), dont le texte indique explicitement qu'il peut être vendu légalement au Japon.",
+          "de": "Diese Proben sind mit Minke (Südhalbkugel) mtDNA gruppiert, welche laut Text in Japan legal verkauft werden darf.",
+          "ja": "これらのサンプルは、本文で日本で合法的に販売できると明示されているミンククジラ（南半球）mtDNAとグループ化されています。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Unknown mtDNA #9",
+          "zh": "未知 mtDNA #9",
+          "es": "mtDNA desconocido #9",
+          "fr": "ADNmt inconnu n°9",
+          "de": "Unbekannte mtDNA #9",
+          "ja": "未知のmtDNA #9"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Unknown mtDNA #1b",
+          "zh": "未知 mtDNA #1b",
+          "es": "mtDNA desconocido #1b",
+          "fr": "ADNmt inconnu n°1b",
+          "de": "Unbekannte mtDNA #1b",
+          "ja": "未知のmtDNA #1b"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Unknown mtDNA #10, 11, 12, 13",
+          "zh": "未知 mtDNA #10, 11, 12, 13",
+          "es": "mtDNA desconocido #10, 11, 12, 13",
+          "fr": "ADNmt inconnu n°10, 11, 12, 13",
+          "de": "Unbekannte mtDNA #10, 11, 12, 13",
+          "ja": "未知のmtDNA #10, 11, 12, 13"
+        },
+        "feedback": null
+      }
+    ],
+    "correct_answers": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": {
+      "en": "The conclusion states that 'mtDNA sequences of six of the unknown samples (in red) were most closely related to mtDNA sequences of whales that are not legal to harvest.' From the diagram, Unknown mtDNA #9 clusters with Minke (North Atlantic) mtDNA, Unknown mtDNA #1b with Humpback mtDNA, and Unknown mtDNA #10, 11, 12, 13 with Blue mtDNA. Since only Southern Hemisphere Minke can be legally sold, these three groups of unknown samples represent illegally harvested whale meat.",
+      "zh": "结论指出，“六个未知样本（红色）的 mtDNA 序列与不合法捕捞的鲸鱼的 mtDNA 序列关系最密切。”从图中可以看出，未知 mtDNA #9 与小须鲸（北大西洋）mtDNA 聚类，未知 mtDNA #1b 与座头鲸 mtDNA 聚类，未知 mtDNA #10, 11, 12, 13 与蓝鲸 mtDNA 聚类。由于只有南半球的小须鲸可以合法销售，因此这三组未知样本代表了非法捕捞的鲸肉。",
+      "es": "La conclusión establece que 'las secuencias de mtDNA de seis de las muestras desconocidas (en rojo) estaban más estrechamente relacionadas con las secuencias de mtDNA de ballenas que no son legales para cosechar'. Del diagrama, el mtDNA desconocido #9 se agrupa con el mtDNA de Minke (Atlántico Norte), el mtDNA desconocido #1b con el mtDNA de Jorobada, y el mtDNA desconocido #10, 11, 12, 13 con el mtDNA de la Ballena Azul. Dado que solo el Minke del Hemisferio Sur puede venderse legalmente, estos tres grupos de muestras desconocidas representan carne de ballena cosechada ilegalmente.",
+      "fr": "La conclusion indique que 'les séquences d'ADNmt de six des échantillons inconnus (en rouge) étaient les plus étroitement liées aux séquences d'ADNmt de baleines dont la pêche est illégale'. D'après le diagramme, l'ADNmt inconnu n°9 se regroupe avec l'ADNmt du rorqual de Minke (Atlantique Nord), l'ADNmt inconnu n°1b avec l'ADNmt du rorqual à bosse, et l'ADNmt inconnu n°10, 11, 12, 13 avec l'ADNmt du rorqual bleu. Puisque seul le rorqual de Minke de l'hémisphère sud peut être légalement vendu, ces trois groupes d'échantillons inconnus représentent de la viande de baleine illégalement pêchée.",
+      "de": "Die Schlussfolgerung besagt, dass „die mtDNA-Sequenzen von sechs der unbekannten Proben (in Rot) am engsten mit mtDNA-Sequenzen von Walen verwandt waren, deren Fang nicht legal ist.“ Aus dem Diagramm geht hervor, dass die unbekannte mtDNA Nr. 9 mit der Minke (Nordatlantik) mtDNA, die unbekannte mtDNA Nr. 1b mit der Buckelwal-mtDNA und die unbekannte mtDNA Nr. 10, 11, 12, 13 mit der Blauwal-mtDNA gruppiert ist. Da nur der Minke der südlichen Hemisphäre legal verkauft werden darf, stellen diese drei Gruppen unbekannter Proben illegal gefangenes Walfleisch dar.",
+      "ja": "結論には「6つの未知のサンプル（赤色）のmtDNA配列は、捕獲が合法ではないクジラのmtDNA配列と最も近縁であった」とあります。図から、未知のmtDNA #9はミンククジラ（北大西洋）mtDNAと、未知のmtDNA #1bはザトウクジラmtDNAと、未知のmtDNA #10, 11, 12, 13はシロナガスクジラmtDNAとクラスターを形成しています。南半球のミンククジラのみが合法的に販売できるため、これらの3つの未知のサンプルグループは違法に漁獲されたクジラ肉を表しています。"
+    }
+  },
+  {
+    "page_number": 606,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "The \"WHAT IF?\" section asks what different results would indicate that all whale meat samples were harvested legally. Based on the \"Results\" and \"Conclusion\" of the experiment, what would be the key finding?",
+      "zh": "“如果呢？”部分询问，如果所有鲸肉样本均系合法捕捞，则实验结果会有何不同。根据实验的“结果”和“结论”，关键发现会是什么？",
+      "es": "La sección \"¿Y SI?\" pregunta qué resultados diferentes indicarían que todas las muestras de carne de ballena fueron obtenidas legalmente. Basándose en los \"Resultados\" y la \"Conclusión\" del experimento, ¿cuál sería el hallazgo clave?",
+      "fr": "La section « ET SI ? » demande quels résultats différents indiqueraient que tous les échantillons de viande de baleine ont été récoltés légalement. Basé sur les « Résultats » et la « Conclusion » de l'expérience, quelle serait la découverte clé ?",
+      "de": "Der Abschnitt „WAS WÄRE WENN?“ fragt, welche anderen Ergebnisse darauf hingedeutet hätten, dass alle Walfleischproben legal geerntet worden wären. Basierend auf den „Ergebnissen“ und der „Schlussfolgerung“ des Experiments, was wäre die Schlüsselerkenntnis?",
+      "ja": "「もしも？」のセクションでは、すべてのクジラ肉サンプルが合法的に捕獲されたことを示す異なる結果とは何かを問うています。実験の「結果」と「結論」に基づいて、主要な発見は何でしょうか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "All unknown mtDNA samples would cluster with Fin mtDNA.",
+          "zh": "所有未知 mtDNA 样本都将与长须鲸 mtDNA 聚类。",
+          "es": "Todas las muestras de mtDNA desconocidas se agruparían con el mtDNA de la ballena de aleta.",
+          "fr": "Tous les échantillons d'ADNmt inconnus se regrouperaient avec l'ADNmt du rorqual commun.",
+          "de": "Alle unbekannten mtDNA-Proben würden mit Fin-mtDNA gruppiert sein.",
+          "ja": "すべての未知のmtDNAサンプルがナガスクジラのmtDNAとクラスターを形成するだろう。"
+        },
+        "feedback": {
+          "en": "The text does not state that Fin whales are a species that can be legally harvested in Japan.",
+          "zh": "文本中没有说明长须鲸是在日本可以合法捕捞的物种。",
+          "es": "El texto no indica que las ballenas de aleta sean una especie que pueda ser capturada legalmente en Japón.",
+          "fr": "Le texte n'indique pas que le rorqual commun est une espèce qui peut être légalement pêchée au Japon.",
+          "de": "Der Text besagt nicht, dass Finnwale eine Art sind, die in Japan legal geerntet werden darf.",
+          "ja": "本文中には、ナガスクジラが日本で合法的に捕獲できる種であるとは記載されていません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "All unknown mtDNA samples would show high genetic diversity.",
+          "zh": "所有未知 mtDNA 样本都将显示出高遗传多样性。",
+          "es": "Todas las muestras de mtDNA desconocidas mostrarían una alta diversidad genética.",
+          "fr": "Tous les échantillons d'ADNmt inconnus présenteraient une grande diversité génétique.",
+          "de": "Alle unbekannten mtDNA-Proben würden eine hohe genetische Vielfalt aufweisen.",
+          "ja": "すべての未知のmtDNAサンプルが高い遺伝的多様性を示すだろう。"
+        },
+        "feedback": {
+          "en": "While genetic diversity is a biological concept, the legality of harvest is determined by species identification, not simply by diversity levels.",
+          "zh": "虽然遗传多样性是一个生物学概念，但捕捞的合法性由物种识别决定，而不仅仅是多样性水平。",
+          "es": "Si bien la diversidad genética es un concepto biológico, la legalidad de la cosecha se determina por la identificación de especies, no simplemente por los niveles de diversidad.",
+          "fr": "Bien que la diversité génétique soit un concept biologique, la légalité de la récolte est déterminée par l'identification des espèces, et non simplement par les niveaux de diversité.",
+          "de": "Obwohl genetische Vielfalt ein biologisches Konzept ist, wird die Legalität der Ernte durch die Artenidentifizierung bestimmt, nicht einfach durch Diversitätsgrade.",
+          "ja": "遺伝的多様性は生物学的概念ですが、捕獲の合法性は単純な多様性レベルではなく、種同定によって決定されます。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "All unknown mtDNA samples would be identified as Minke whales from the Southern Hemisphere.",
+          "zh": "所有未知 mtDNA 样本都将被识别为来自南半球的小须鲸。",
+          "es": "Todas las muestras de mtDNA desconocidas serían identificadas como ballenas Minke del Hemisferio Sur.",
+          "fr": "Tous les échantillons d'ADNmt inconnus seraient identifiés comme des rorquals de Minke de l'hémisphère sud.",
+          "de": "Alle unbekannten mtDNA-Proben würden als Minke-Wale der Südhalbkugel identifiziert werden.",
+          "ja": "すべての未知のmtDNAサンプルが南半球のミンククジラと同定されるだろう。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "All unknown mtDNA samples would be identical to Blue Whale mtDNA.",
+          "zh": "所有未知 mtDNA 样本都将与蓝鲸 mtDNA 完全相同。",
+          "es": "Todas las muestras de mtDNA desconocidas serían idénticas al mtDNA de la ballena azul.",
+          "fr": "Tous les échantillons d'ADNmt inconnus seraient identiques à l'ADNmt de la baleine bleue.",
+          "de": "Alle unbekannten mtDNA-Proben wären identisch mit der mtDNA des Blauwals.",
+          "ja": "すべての未知のmtDNAサンプルがシロナガスクジラのmtDNAと同一であるだろう。"
+        },
+        "feedback": {
+          "en": "The conclusion explicitly states that Blue Whale mtDNA (via Unknown mtDNA #10-13) was among the species not legal to harvest.",
+          "zh": "结论明确指出，蓝鲸 mtDNA（通过未知 mtDNA #10-13）属于不合法捕捞的物种。",
+          "es": "La conclusión establece explícitamente que el mtDNA de la ballena azul (a través de mtDNA desconocido #10-13) se encontraba entre las especies cuya cosecha no era legal.",
+          "fr": "La conclusion indique explicitement que l'ADNmt du rorqual bleu (via l'ADNmt inconnu n°10-13) faisait partie des espèces dont la récolte n'était pas légale.",
+          "de": "Die Schlussfolgerung besagt ausdrücklich, dass die Blauwal-mtDNA (über die unbekannte mtDNA Nr. 10-13) zu den Arten gehörte, deren Fang nicht legal war.",
+          "ja": "結論では、シロナガスクジラmtDNA（未知のmtDNA #10-13を介して）が合法的に捕獲できない種の中に含まれていたと明示されています。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "C"
+    ],
+    "explanation": {
+      "en": "The 'Results' section states, 'Of the species in the resulting gene tree, only Minke whales caught in the Southern Hemisphere can be sold legally in Japan.' Therefore, for all samples to be legally harvested, they would all need to be identified as Minke whales from the Southern Hemisphere.",
+      "zh": "“结果”部分指出，“在所得基因树中的物种中，只有在南半球捕获的小须鲸可以在日本合法销售。”因此，要使所有样本都是合法捕捞的，它们都需要被识别为来自南半球的小须鲸。",
+      "es": "La sección 'Resultados' establece: 'De las especies en el árbol genético resultante, solo las ballenas Minke capturadas en el Hemisferio Sur pueden venderse legalmente en Japón'. Por lo tanto, para que todas las muestras fueran recolectadas legalmente, todas tendrían que ser identificadas como ballenas Minke del Hemisferio Sur.",
+      "fr": "La section « Résultats » stipule : « Parmi les espèces de l'arbre génique résultant, seuls les rorquals de Minke capturés dans l'hémisphère sud peuvent être légalement vendus au Japon. » Par conséquent, pour que tous les échantillons soient légalement récoltés, ils devraient tous être identifiés comme des rorquals de Minke de l'hémisphère sud.",
+      "de": "Der Abschnitt „Ergebnisse“ besagt: „Von den Arten im resultierenden Genbaum dürfen nur in der südlichen Hemisphäre gefangene Minkewale legal in Japan verkauft werden.“ Damit alle Proben legal geerntet werden, müssten sie alle als Minkewale der südlichen Hemisphäre identifiziert werden.",
+      "ja": "「結果」のセクションには、「得られた遺伝子樹の種のうち、南半球で捕獲されたミンククジラのみが日本で合法的に販売できる」と述べられています。したがって、すべてのサンプルが合法的に捕獲されたものであるためには、すべて南半球のミンククジラとして識別される必要があります。"
+    }
+  }
+]

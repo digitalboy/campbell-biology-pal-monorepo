@@ -1,0 +1,279 @@
+[
+  {
+    "page_number": 1002,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the provided text, which of the following statements best describes the characteristics of innate immunity?",
+      "zh": "根据提供的文本，以下哪项陈述最能描述先天免疫的特征？",
+      "es": "Según el texto proporcionado, ¿cuál de las siguientes afirmaciones describe mejor las características de la inmunidad innata?",
+      "fr": "Selon le texte fourni, laquelle des affirmations suivantes décrit le mieux les caractéristiques de l'immunité innée ?",
+      "de": "Basierend auf dem bereitgestellten Text, welche der folgenden Aussagen beschreibt am besten die Merkmale der angeborenen Immunität?",
+      "ja": "提供されたテキストに基づくと、以下の記述のうち、先天性免疫の特徴を最もよく説明しているのはどれですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "It involves specific recognition of a broad class of pathogens and rapid, general responses.",
+          "zh": "它涉及对广泛病原体的特异性识别和快速、普遍的反应。",
+          "es": "Implica el reconocimiento específico de una amplia clase de patógenos y respuestas rápidas y generales.",
+          "fr": "Elle implique la reconnaissance spécifique d'une large classe de pathogènes et des réponses rapides et générales.",
+          "de": "Sie beinhaltet die spezifische Erkennung einer breiten Klasse von Krankheitserregern und schnelle, allgemeine Reaktionen.",
+          "ja": "それは、広範な病原体の特定認識と迅速で一般的な反応を含みます。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "It is a set of molecular and cellular defenses found only among vertebrates.",
+          "zh": "它是一组仅在脊椎动物中发现的分子和细胞防御。",
+          "es": "Es un conjunto de defensas moleculares y celulares que se encuentran solo entre los vertebrados.",
+          "fr": "C'est un ensemble de défenses moléculaires et cellulaires que l'on ne trouve que chez les vertébrés.",
+          "de": "Es ist eine Reihe von molekularen und zellulären Abwehrmechanismen, die nur bei Wirbeltieren vorkommen.",
+          "ja": "それは脊椎動物にのみ見られる分子および細胞防御の集合体です。"
+        },
+        "feedback": {
+          "en": "This describes adaptive immunity, which is distinct from innate immunity.",
+          "zh": "这描述的是适应性免疫，它与先天免疫不同。",
+          "es": "Esto describe la inmunidad adaptativa, que es distinta de la inmunidad innata.",
+          "fr": "Ceci décrit l'immunité adaptative, qui est distincte de l'immunité innée.",
+          "de": "Dies beschreibt die adaptive Immunität, die sich von der angeborenen Immunität unterscheidet.",
+          "ja": "これは適応免疫を記述しており、先天性免疫とは異なります。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "It primarily relies on the production of antibodies to target specific pathogens.",
+          "zh": "它主要依靠产生抗体来靶向特定病原体。",
+          "es": "Se basa principalmente en la producción de anticuerpos para atacar patógenos específicos.",
+          "fr": "Elle repose principalement sur la production d'anticorps pour cibler des pathogènes spécifiques.",
+          "de": "Sie beruht hauptsächlich auf der Produktion von Antikörpern, um spezifische Krankheitserreger anzugreifen.",
+          "ja": "それは主に特定の病原体を標的とする抗体の産生に依存します。"
+        },
+        "feedback": {
+          "en": "Antibody production is a characteristic of adaptive immunity, not innate immunity.",
+          "zh": "抗体产生是适应性免疫的特征，而非先天免疫。",
+          "es": "La producción de anticuerpos es una característica de la inmunidad adaptativa, no de la inmunidad innata.",
+          "fr": "La production d'anticorps est une caractéristique de l'immunité adaptative, et non de l'immunité innée.",
+          "de": "Die Antikörperproduktion ist ein Merkmal der adaptiven Immunität, nicht der angeborenen Immunität.",
+          "ja": "抗体産生は適応免疫の特徴であり、先天性免疫ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "It develops memory after exposure to a pathogen, leading to a faster secondary response.",
+          "zh": "它在接触病原体后产生记忆，导致更快的二次反应。",
+          "es": "Desarrolla memoria después de la exposición a un patógeno, lo que lleva a una respuesta secundaria más rápida.",
+          "fr": "Elle développe une mémoire après l'exposition à un pathogène, ce qui entraîne une réponse secondaire plus rapide.",
+          "de": "Sie entwickelt nach Exposition gegenüber einem Krankheitserreger ein Gedächtnis, was zu einer schnelleren Sekundärreaktion führt.",
+          "ja": "それは病原体への曝露後に記憶を発達させ、より速い二次応答につながります。"
+        },
+        "feedback": {
+          "en": "Immune memory is a hallmark of adaptive immunity.",
+          "zh": "免疫记忆是适应性免疫的标志。",
+          "es": "La memoria inmunológica es un sello distintivo de la inmunidad adaptativa.",
+          "fr": "La mémoire immunitaire est une caractéristique de l'immunité adaptative.",
+          "de": "Immunologisches Gedächtnis ist ein Kennzeichen der adaptiven Immunität.",
+          "ja": "免疫記憶は適応免疫の典型的な特徴です。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Innate immunity involves recognition proteins that bind to molecules common to broad classes of pathogens (molecular recognition). It provides rapid, general responses as the first line of defense, distinguishing nonself from self. The other options describe characteristics of adaptive immunity, which is presented as distinct from innate immunity in the text.",
+      "zh": "先天免疫涉及识别与广泛病原体共同分子结合的识别蛋白（分子识别）。它作为第一道防线提供快速、普遍的反应，区分非己与自我。其他选项描述的是适应性免疫的特征，这在文本中被呈现为与先天免疫不同的概念。",
+      "es": "La inmunidad innata implica proteínas de reconocimiento que se unen a moléculas comunes a clases amplias de patógenos (reconocimiento molecular). Proporciona respuestas rápidas y generales como primera línea de defensa, distinguiendo lo propio de lo ajeno. Las otras opciones describen características de la inmunidad adaptativa, que se presenta como distinta de la inmunidad innata en el texto.",
+      "fr": "L'immunité innée implique des protéines de reconnaissance qui se lient aux molécules communes à de larges classes de pathogènes (reconnaissance moléculaire). Elle fournit des réponses rapides et générales en tant que première ligne de défense, distinguant le non-soi du soi. Les autres options décrivent les caractéristiques de l'immunité adaptative, qui est présentée comme distincte de l'immunité innée dans le texte.",
+      "de": "Die angeborene Immunität beinhaltet Erkennungsproteine, die an Moleküle binden, die bei breiten Klassen von Krankheitserregern (molekulare Erkennung) üblich sind. Sie bietet schnelle, allgemeine Reaktionen als erste Verteidigungslinie, die Nicht-Selbst von Selbst unterscheidet. Die anderen Optionen beschreiben Merkmale der adaptiven Immunität, die im Text als von der angeborenen Immunität verschieden dargestellt wird.",
+      "ja": "先天性免疫は、広範な病原体に共通の分子に結合する認識タンパク質（分子認識）を含みます。それは第一線の防御として迅速で一般的な応答を提供し、非自己と自己を区別します。他の選択肢は、本文中で先天性免疫とは異なるものとして提示されている適応免疫の特性を記述しています。"
+    }
+  },
+  {
+    "page_number": 1002,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "According to Figure 43.2, what is the correct sequence of events during phagocytosis by a typical phagocytic cell?",
+      "zh": "根据图 43.2，典型的吞噬细胞在吞噬过程中事件的正确顺序是什么？",
+      "es": "Según la Figura 43.2, ¿cuál es la secuencia correcta de eventos durante la fagocitosis por una célula fagocítica típica?",
+      "fr": "Selon la Figure 43.2, quelle est la séquence correcte des événements lors de la phagocytose par une cellule phagocytaire typique ?",
+      "de": "Gemäß Abbildung 43.2, welche ist die korrekte Abfolge der Ereignisse während der Phagozytose durch eine typische phagozytische Zelle?",
+      "ja": "図43.2によると、典型的な食細胞による食作用中の出来事の正しい順序は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Pseudopodia surround pathogens → Pathogens are engulfed by endocytosis → Vacuole forms → Vacuole and lysosome fuse → Toxic compounds and lysosomal enzymes destroy pathogens → Debris from pathogens is released by exocytosis.",
+          "zh": "伪足包围病原体 → 病原体通过内吞作用被吞噬 → 空泡形成 → 空泡和溶酶体融合 → 有毒化合物和溶酶体酶破坏病原体 → 病原体碎片通过胞吐作用释放。",
+          "es": "Los pseudópodos rodean a los patógenos → Los patógenos son engullidos por endocitosis → Se forma una vacuola → La vacuola y el lisosoma se fusionan → Los compuestos tóxicos y las enzimas lisosomales destruyen a los patógenos → Los restos de los patógenos son liberados por exocitosis.",
+          "fr": "Les pseudopodes entourent les pathogènes → Les pathogènes sont engloutis par endocytose → La vacuole se forme → La vacuole et le lysosome fusionnent → Les composés toxiques et les enzymes lysosomales détruisent les pathogènes → Les débris des pathogènes sont libérés par exocytose.",
+          "de": "Pseudopodien umgeben Krankheitserreger → Krankheitserreger werden durch Endozytose aufgenommen → Vakuole bildet sich → Vakuole und Lysosom verschmelzen → Toxische Verbindungen und lysosomale Enzyme zerstören Krankheitserreger → Zelltrümmer von Krankheitserregern werden durch Exozytose freigesetzt.",
+          "ja": "仮足が病原体を取り囲む → 病原体がエンドサイトーシスによって取り込まれる → 液胞が形成される → 液胞とリソソームが融合する → 有毒化合物とリソソーム酵素が病原体を破壊する → 病原体の残骸がエキソサイトーシスによって放出される。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Pathogens are engulfed by endocytosis → Pseudopodia surround pathogens → Vacuole forms → Vacuole and lysosome fuse → Debris from pathogens is released by exocytosis → Toxic compounds and lysosomal enzymes destroy pathogens.",
+          "zh": "病原体通过内吞作用被吞噬 → 伪足包围病原体 → 空泡形成 → 空泡和溶酶体融合 → 病原体碎片通过胞吐作用释放 → 有毒化合物和溶酶体酶破坏病原体。",
+          "es": "Los patógenos son engullidos por endocitosis → Los pseudópodos rodean a los patógenos → Se forma una vacuola → La vacuola y el lisosoma se fusionan → Los restos de los patógenos son liberados por exocitosis → Los compuestos tóxicos y las enzimas lisosomales destruyen a los patógenos.",
+          "fr": "Les pathogènes sont engloutis par endocytose → Les pseudopodes entourent les pathogènes → La vacuole se forme → La vacuole et le lysosome fusionnent → Les débris des pathogènes sont libérés par exocytose → Les composés toxiques et les enzymes lysosomales détruisent les pathogènes.",
+          "de": "Krankheitserreger werden durch Endozytose aufgenommen → Pseudopodien umgeben Krankheitserreger → Vakuole bildet sich → Vakuole und Lysosom verschmelzen → Zelltrümmer von Krankheitserregern werden durch Exozytose freigesetzt → Toxische Verbindungen und lysosomale Enzyme zerstören Krankheitserreger.",
+          "ja": "病原体がエンドサイトーシスによって取り込まれる → 仮足が病原体を取り囲む → 液胞が形成される → 液胞とリソソームが融合する → 病原体の残骸がエキソサイトーシスによって放出される → 有毒化合物とリソソーム酵素が病原体を破壊する。"
+        },
+        "feedback": {
+          "en": "The initial steps are incorrect, and the destruction step occurs before debris release.",
+          "zh": "初始步骤不正确，且破坏步骤发生在碎片释放之前。",
+          "es": "Los pasos iniciales son incorrectos, y el paso de destrucción ocurre antes de la liberación de restos.",
+          "fr": "Les étapes initiales sont incorrectes, et l'étape de destruction a lieu avant la libération des débris.",
+          "de": "Die Anfangsschritte sind falsch, und der Zerstörungsschritt erfolgt vor der Freisetzung von Trümmern.",
+          "ja": "最初のステップが間違っており、破壊ステップは破片の放出より前に発生します。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Vacuole forms → Pseudopodia surround pathogens → Vacuole and lysosome fuse → Pathogens are engulfed by endocytosis → Toxic compounds and lysosomal enzymes destroy pathogens → Debris from pathogens is released by exocytosis.",
+          "zh": "空泡形成 → 伪足包围病原体 → 空泡和溶酶体融合 → 病原体通过内吞作用被吞噬 → 有毒化合物和溶酶体酶破坏病原体 → 病原体碎片通过胞吐作用释放。",
+          "es": "Se forma una vacuola → Los pseudópodos rodean a los patógenos → La vacuola y el lisosoma se fusionan → Los patógenos son engullidos por endocitosis → Los compuestos tóxicos y las enzimas lisosomales destruyen a los patógenos → Los restos de los patógenos son liberados por exocitosis.",
+          "fr": "La vacuole se forme → Les pseudopodes entourent les pathogènes → La vacuole et le lysosome fusionnent → Les pathogènes sont engloutis par endocytose → Les composés toxiques et les enzymes lysosomales détruisent les pathogènes → Les débris des pathogènes sont libérés par exocytose.",
+          "de": "Vakuole bildet sich → Pseudopodien umgeben Krankheitserreger → Vakuole und Lysosom verschmelzen → Krankheitserreger werden durch Endozytose aufgenommen → Toxische Verbindungen und lysosomale Enzyme zerstören Krankheitserreger → Zelltrümmer von Krankheitserregern werden durch Exozytose freigesetzt.",
+          "ja": "液胞が形成される → 仮足が病原体を取り囲む → 液胞とリソソームが融合する → 病原体がエンドサイトーシスによって取り込まれる → 有毒化合物とリソソーム酵素が病原体を破壊する → 病原体の残骸がエキソサイトーシスによって放出される。"
+        },
+        "feedback": {
+          "en": "The initial step of vacuole formation occurs later in the process.",
+          "zh": "空泡形成的初始步骤发生在过程的后期。",
+          "es": "El paso inicial de formación de vacuolas ocurre más tarde en el proceso.",
+          "fr": "L'étape initiale de formation de la vacuole a lieu plus tard dans le processus.",
+          "de": "Der anfängliche Schritt der Vakuolenbildung erfolgt später im Prozess.",
+          "ja": "液胞形成の初期ステップはプロセスの後半で発生します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Figure 43.2 clearly labels the sequence of events during phagocytosis: 1) Pseudopodia surround pathogens, 2) Pathogens are engulfed by endocytosis, 3) Vacuole forms, enclosing pathogens, 4) Vacuole and lysosome fuse, 5) Toxic compounds and lysosomal enzymes destroy pathogens, and 6) Debris from pathogens is released by exocytosis.",
+      "zh": "图 43.2 清晰地标注了吞噬作用过程中的事件顺序：1) 伪足包围病原体，2) 病原体通过内吞作用被吞噬，3) 形成吞噬泡（空泡），4) 吞噬泡与溶酶体融合，5) 有毒化合物和溶酶体酶破坏病原体，6) 病原体碎片通过胞吐作用释放。",
+      "es": "La Figura 43.2 etiqueta claramente la secuencia de eventos durante la fagocitosis: 1) Los pseudópodos rodean a los patógenos, 2) Los patógenos son engullidos por endocitosis, 3) Se forma una vacuola, encerrando a los patógenos, 4) La vacuola y el lisosoma se fusionan, 5) Los compuestos tóxicos y las enzimas lisosomales destruyen a los patógenos, y 6) Los restos de los patógenos son liberados por exocitosis.",
+      "fr": "La Figure 43.2 étiquette clairement la séquence des événements lors de la phagocytose : 1) Les pseudopodes entourent les pathogènes, 2) Les pathogènes sont engloutis par endocytose, 3) Une vacuole se forme, enfermant les pathogènes, 4) La vacuole et le lysosome fusionnent, 5) Les composés toxiques et les enzymes lysosomales détruisent les pathogènes, et 6) Les débris des pathogènes sont libérés par exocytose.",
+      "de": "Abbildung 43.2 beschreibt eindeutig die Reihenfolge der Ereignisse während der Phagozytose: 1) Pseudopodien umgeben Krankheitserreger, 2) Krankheitserreger werden durch Endozytose aufgenommen, 3) Vakuole bildet sich, Krankheitserreger einschließend, 4) Vakuole und Lysosom verschmelzen, 5) Toxische Verbindungen und lysosomale Enzyme zerstören Krankheitserreger, und 6) Zelltrümmer von Krankheitserregern werden durch Exozytose freigesetzt.",
+      "ja": "図43.2は、食作用中のイベントのシーケンスを明確に示しています：1) 仮足が病原体を取り囲む、2) 病原体がエンドサイトーシスによって取り込まれる、3) 液胞が形成され、病原体を包み込む、4) 液胞とリソソームが融合する、5) 有毒化合物とリソソーム酵素が病原体を破壊する、6) 病原体の残骸がエキソサイトーシスによって放出される。"
+    }
+  },
+  {
+    "page_number": 1002,
+    "difficulty": "hard",
+    "question_text": {
+      "en": "Based on the section 'Innate Immunity of Invertebrates', which of the following components are described as part of the innate immune defense system in insects? (Select all that apply)",
+      "zh": "根据“无脊椎动物的先天免疫”一节，以下哪些组分被描述为昆虫先天免疫防御系统的一部分？（选择所有符合项）",
+      "es": "Según la sección 'Inmunidad Innata de Invertebrados', ¿cuáles de los siguientes componentes se describen como parte del sistema de defensa inmunológica innata en insectos? (Selecciona todas las que apliquen)",
+      "fr": "Selon la section 'Immunité innée des invertébrés', lesquels des composants suivants sont décrits comme faisant partie du système de défense immunitaire innée chez les insectes ? (Sélectionnez toutes les réponses pertinentes)",
+      "de": "Basierend auf dem Abschnitt 'Angeborene Immunität von Wirbellosen', welche der folgenden Komponenten werden als Teil des angeborenen Immunsystems bei Insekten beschrieben? (Wählen Sie alle zutreffenden)",
+      "ja": "「無脊椎動物の先天性免疫」のセクションに基づくと、昆虫の先天性免疫防御システムの一部として記述されている以下の成分はどれですか？（該当するものをすべて選択）"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Chitin exoskeleton",
+          "zh": "几丁质外骨骼",
+          "es": "Exoesqueleto de quitina",
+          "fr": "Exosquelette de chitine",
+          "de": "Chitin-Exoskelett",
+          "ja": "キチン質の外骨格"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Lysozyme",
+          "zh": "溶菌酶",
+          "es": "Lisozima",
+          "fr": "Lysozyme",
+          "de": "Lysozym",
+          "ja": "リゾチーム"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Hemocytes",
+          "zh": "血细胞",
+          "es": "Hemocitos",
+          "fr": "Hémocytes",
+          "de": "Hämozyten",
+          "ja": "血球"
+        },
+        "feedback": null
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Antimicrobial peptides",
+          "zh": "抗菌肽",
+          "es": "Péptidos antimicrobianos",
+          "fr": "Peptides antimicrobiens",
+          "de": "Antimikrobielle Peptide",
+          "ja": "抗菌ペプチド"
+        },
+        "feedback": null
+      },
+      {
+        "id": "E",
+        "text": {
+          "en": "Toll receptor",
+          "zh": "Toll 受体",
+          "es": "Receptor Toll",
+          "fr": "Récepteur Toll",
+          "de": "Toll-Rezeptor",
+          "ja": "Toll受容体"
+        },
+        "feedback": null
+      },
+      {
+        "id": "F",
+        "text": {
+          "en": "Antibodies",
+          "zh": "抗体",
+          "es": "Anticuerpos",
+          "fr": "Anticorps",
+          "de": "Antikörper",
+          "ja": "抗体"
+        },
+        "feedback": {
+          "en": "Antibodies are a key component of adaptive immunity, which is found in vertebrates, not typically described as part of invertebrate innate immunity in the text.",
+          "zh": "抗体是适应性免疫的关键组成部分，适应性免疫存在于脊椎动物中，在文本中通常不被描述为无脊椎动物先天免疫的一部分。",
+          "es": "Los anticuerpos son un componente clave de la inmunidad adaptativa, que se encuentra en los vertebrados, y no se describen típicamente como parte de la inmunidad innata de los invertebrados en el texto.",
+          "fr": "Les anticorps sont un composant clé de l'immunité adaptative, que l'on trouve chez les vertébrés, et ne sont pas typiquement décrits comme faisant partie de l'immunité innée des invertébrés dans le texte.",
+          "de": "Antikörper sind eine Schlüsselkomponente der adaptiven Immunität, die bei Wirbeltieren vorkommt und im Text typischerweise nicht als Teil der angeborenen Immunität von Wirbellosen beschrieben wird.",
+          "ja": "抗体は適応免疫の主要な構成要素であり、脊椎動物に見られますが、本文では無脊椎動物の先天性免疫の一部としては通常記述されていません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": {
+      "en": "The section 'Innate Immunity of Invertebrates' explicitly mentions the insect exoskeleton (composed of chitin) and chitin lining the intestine as barrier defenses. It also names lysozyme as a chemical barrier. For internal defenses, hemocytes (which perform phagocytosis and release antimicrobial peptides) and the Toll receptor (involved in activating antimicrobial peptide production) are all described as key components of insect innate immunity. Antibodies are associated with adaptive immunity, primarily found in vertebrates, and are not mentioned in this context for invertebrates.",
+      "zh": "“无脊椎动物的先天免疫”一节明确提到了昆虫的外骨骼（由几丁质组成）和内衬肠道的几丁质作为屏障防御。它还将溶菌酶列为化学屏障。对于内部防御，血细胞（执行吞噬作用并释放抗菌肽）和Toll受体（参与激活抗菌肽的产生）都被描述为昆虫先天免疫的关键组成部分。抗体与适应性免疫相关，主要存在于脊椎动物中，在无脊椎动物的此语境中未被提及。",
+      "es": "La sección 'Inmunidad Innata de Invertebrados' menciona explícitamente el exoesqueleto de insectos (compuesto de quitina) y la quitina que recubre el intestino como defensas de barrera. También nombra a la lisozima como una barrera química. Para las defensas internas, los hemocitos (que realizan fagocitosis y liberan péptidos antimicrobianos) y el receptor Toll (implicado en la activación de la producción de péptidos antimicrobianos) se describen como componentes clave de la inmunidad innata de los insectos. Los anticuerpos están asociados con la inmunidad adaptativa, que se encuentra principalmente en los vertebrados, y no se mencionan en este contexto para los invertebrados.",
+      "fr": "La section 'Immunité innée des invertébrés' mentionne explicitement l'exosquelette des insectes (composé de chitine) et la chitine recouvrant l'intestin comme défenses de barrière. Elle nomme également le lysozyme comme barrière chimique. Pour les défenses internes, les hémocytes (qui effectuent la phagocytose et libèrent des peptides antimicrobiens) et le récepteur Toll (impliqué dans l'activation de la production de peptides antimicrobiens) sont tous décrits comme des composants clés de l'immunité innée des insectes. Les anticorps sont associés à l'immunité adaptative, principalement trouvée chez les vertébrés, et ne sont pas mentionnés dans ce contexte pour les invertébrés.",
+      "de": "Der Abschnitt 'Angeborene Immunität von Wirbellosen' erwähnt explizit das Insektenexoskelett (bestehend aus Chitin) und die Chitin-Auskleidung des Darms als Barriereabwehr. Es nennt auch Lysozym als chemische Barriere. Für die inneren Abwehrmechanismen werden Hämozyten (die Phagozytose durchführen und antimikrobielle Peptide freisetzen) und der Toll-Rezeptor (der an der Aktivierung der antimikrobiellen Peptidproduktion beteiligt ist) als Schlüsselkomponenten der angeborenen Immunität von Insekten beschrieben. Antikörper sind mit der adaptiven Immunität verbunden, die hauptsächlich bei Wirbeltieren vorkommt, und werden im Text typischerweise nicht als Teil der angeborenen Immunität von Wirbellosen beschrieben.",
+      "ja": "「無脊椎動物の先天性免疫」のセクションでは、昆虫の外骨格（キチン質からなる）と腸内を覆うキチン質がバリア防御として明示的に言及されています。また、リゾチームを化学バリアとして挙げています。内部防御については、血球（食作用を行い、抗菌ペプチドを放出する）とToll受容体（抗菌ペプチドの産生を活性化する）が、昆虫の先天性免疫の主要な構成要素として記述されています。抗体は適応免疫に関連しており、主に脊椎動物に見られ、この文脈では無脊椎動物については言及されていません。"
+    }
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "page_number": 366,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "Based on the Hershey-Chase experiment described, what was the primary conclusion about the nature of the hereditary material?",
+      "zh": "根据描述的赫尔希-蔡斯实验，关于遗传物质的性质，主要结论是什么？",
+      "es": "Según el experimento de Hershey-Chase descrito, ¿cuál fue la conclusión principal sobre la naturaleza del material hereditario?",
+      "fr": "D'après l'expérience de Hershey-Chase décrite, quelle a été la conclusion principale concernant la nature du matériel héréditaire ?",
+      "de": "Basierend auf dem beschriebenen Hershey-Chase-Experiment, was war die primäre Schlussfolgerung bezüglich der Natur des Erbschaftsmaterials?",
+      "ja": "記載されているハーシー・チェイスの実験に基づくと、遺伝物質の性質に関する主要な結論は何でしたか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "DNA is the hereditary material.",
+          "zh": "DNA是遗传物质。",
+          "es": "El ADN es el material hereditario.",
+          "fr": "L'ADN est le matériel héréditaire.",
+          "de": "DNA ist das Erbschaftsmaterial.",
+          "ja": "DNAが遺伝物質である。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Protein is the hereditary material.",
+          "zh": "蛋白质是遗传物质。",
+          "es": "La proteína es el material hereditario.",
+          "fr": "La protéine est le matériel héréditaire.",
+          "de": "Protein ist das Erbschaftsmaterial.",
+          "ja": "タンパク質が遺伝物質である。"
+        },
+        "feedback": {
+          "en": "The experiment specifically showed that phage DNA, not protein, entered the host cells and played an ongoing role in infection.",
+          "zh": "实验明确显示噬菌体DNA而非蛋白质进入宿主细胞并在感染过程中发挥作用。",
+          "es": "El experimento demostró específicamente que el ADN del fago, no la proteína, entró en las células huésped y desempeñó un papel continuo en la infección.",
+          "fr": "L'expérience a spécifiquement montré que l'ADN du phage, et non les protéines, pénétrait dans les cellules hôtes et jouait un rôle continu dans l'infection.",
+          "de": "Das Experiment zeigte spezifisch, dass Phagen-DNA, nicht Protein, in die Wirtszellen eindrang und eine fortlaufende Rolle bei der Infektion spielte.",
+          "ja": "実験は、ファージDNAが宿主細胞に入り、感染過程で継続的な役割を果たしたことを明確に示しており、タンパク質ではありませんでした。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Both DNA and protein are equally important for heredity.",
+          "zh": "DNA和蛋白质对遗传同样重要。",
+          "es": "Tanto el ADN como la proteína son igualmente importantes para la herencia.",
+          "fr": "L'ADN et les protéines sont tous deux également importants pour l'hérédité.",
+          "de": "Sowohl DNA als auch Protein sind gleichermaßen wichtig für die Vererbung.",
+          "ja": "DNAとタンパク質の双方が遺伝に等しく重要である。"
+        },
+        "feedback": {
+          "en": "The experiment distinguished between the roles of DNA and protein, concluding DNA was the primary hereditary material.",
+          "zh": "实验区分了DNA和蛋白质的作用，得出DNA是主要的遗传物质的结论。",
+          "es": "El experimento distinguió entre los roles del ADN y la proteína, concluyendo que el ADN era el material hereditario principal.",
+          "fr": "L'expérience a distingué les rôles de l'ADN et des protéines, concluant que l'ADN était le matériel héréditaire principal.",
+          "de": "Das Experiment unterschied zwischen den Rollen von DNA und Protein und kam zu dem Schluss, dass DNA das primäre Erbschaftsmaterial war.",
+          "ja": "実験はDNAとタンパク質の役割を区別し、DNAが主要な遺伝物質であると結論付けました。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Neither DNA nor protein is the hereditary material.",
+          "zh": "DNA和蛋白质都不是遗传物质。",
+          "es": "Ni el ADN ni la proteína son el material hereditario.",
+          "fr": "Ni l'ADN ni les protéines ne sont le matériel héréditaire.",
+          "de": "Weder DNA noch Protein ist das Erbschaftsmaterial.",
+          "ja": "DNAもタンパク質も遺伝物質ではない。"
+        },
+        "feedback": {
+          "en": "This contradicts the fundamental conclusion of the experiment, which identified DNA as the hereditary material.",
+          "zh": "这与实验识别DNA为遗传物质的基本结论相矛盾。",
+          "es": "Esto contradice la conclusión fundamental del experimento, que identificó al ADN como el material hereditario.",
+          "fr": "Cela contredit la conclusion fondamentale de l'expérience, qui a identifié l'ADN comme le matériel héréditaire.",
+          "de": "Dies widerspricht der grundlegenden Schlussfolgerung des Experiments, das DNA als Erbschaftsmaterial identifizierte.",
+          "ja": "これは、DNAを遺伝物質として特定した実験の根本的な結論と矛盾します。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "The Hershey-Chase experiment provided powerful evidence that DNA, not protein, is the hereditary material in phages, as phage DNA entered the host cells and directed the production of new viral components.",
+      "zh": "赫尔希-蔡斯实验提供了强有力的证据，表明DNA而非蛋白质是噬菌体中的遗传物质，因为噬菌体DNA进入宿主细胞并指导了新病毒成分的产生。",
+      "es": "El experimento de Hershey-Chase proporcionó pruebas contundentes de que el ADN, y no la proteína, es el material hereditario en los fagos, ya que el ADN del fago entró en las células huésped y dirigió la producción de nuevos componentes virales.",
+      "fr": "L'expérience de Hershey-Chase a fourni des preuves solides que l'ADN, et non les protéines, est le matériel héréditaire chez les phages, car l'ADN du phage est entré dans les cellules hôtes et a dirigé la production de nouveaux composants viraux.",
+      "de": "Das Hershey-Chase-Experiment lieferte starke Beweise dafür, dass DNA, nicht Protein, das Erbschaftsmaterial in Phagen ist, da Phagen-DNA in die Wirtszellen eindrang und die Produktion neuer viraler Komponenten steuerte.",
+      "ja": "ハーシー・チェイスの実験は、DNAがファージの遺伝物質であり、タンパク質ではないという強力な証拠を提供しました。なぜなら、ファージDNAが宿主細胞に入り、新しいウイルス成分の産生を指示したからです。"
+    }
+  },
+  {
+    "page_number": 366,
+    "difficulty": "medium",
+    "question_text": {
+      "en": "According to Chargaff's rules, which of the following statements is true regarding the base composition of DNA?",
+      "zh": "根据查加夫法则，关于DNA碱基组成，以下哪项陈述是正确的？",
+      "es": "Según las reglas de Chargaff, ¿cuál de las siguientes afirmaciones es verdadera con respecto a la composición de bases del ADN?",
+      "fr": "Selon les règles de Chargaff, laquelle des affirmations suivantes est vraie concernant la composition des bases de l'ADN ?",
+      "de": "Gemäß Chargaffs Regeln, welche der folgenden Aussagen trifft bezüglich der Basenzusammensetzung von DNA zu?",
+      "ja": "シャルガフの法則によると、DNAの塩基組成に関して、以下の記述のうちどれが正しいですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "The percentage of adenine (A) always equals the percentage of guanine (G).",
+          "zh": "腺嘌呤（A）的百分比总是等于鸟嘌呤（G）的百分比。",
+          "es": "El porcentaje de adenina (A) siempre es igual al porcentaje de guanina (G).",
+          "fr": "Le pourcentage d'adénine (A) est toujours égal au pourcentage de guanine (G).",
+          "de": "Der Prozentsatz von Adenin (A) ist immer gleich dem Prozentsatz von Guanin (G).",
+          "ja": "アデニン（A）の割合は常にグアニン（G）の割合と等しい。"
+        },
+        "feedback": {
+          "en": "Chargaff's rules state that A is roughly equal to T, and G is roughly equal to C, not A to G. The text provides an example for sea urchin DNA where A (32.8%) is not equal to G (17.7%).",
+          "zh": "查加夫法则指出A大致等于T，G大致等于C，而不是A等于G。文本提供了海胆DNA的例子，其中A（32.8%）不等于G（17.7%）。",
+          "es": "Las reglas de Chargaff establecen que A es aproximadamente igual a T, y G es aproximadamente igual a C, no A a G. El texto proporciona un ejemplo de ADN de erizo de mar donde A (32.8%) no es igual a G (17.7%).",
+          "fr": "Les règles de Chargaff stipulent que A est approximativement égal à T, et G est approximativement égal à C, et non A à G. Le texte fournit un exemple pour l'ADN d'oursin où A (32,8%) n'est pas égal à G (17,7%).",
+          "de": "Chargaffs Regeln besagen, dass A ungefähr T entspricht und G ungefähr C, nicht A gleich G. Der Text liefert ein Beispiel für Seeigel-DNA, bei der A (32,8%) nicht gleich G (17,7%) ist.",
+          "ja": "シャルガフの法則では、AがTとほぼ等しく、GがCとほぼ等しいとされており、AがGと等しいわけではありません。本文にはウニのDNAの例が示されており、A（32.8%）はG（17.7%）と等しくありません。"
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "The base composition of DNA varies significantly between different species.",
+          "zh": "DNA的碱基组成在不同物种之间差异显著。",
+          "es": "La composición de bases del ADN varía significativamente entre diferentes especies.",
+          "fr": "La composition des bases de l'ADN varie significativement entre les différentes espèces.",
+          "de": "Die Basenzusammensetzung von DNA variiert erheblich zwischen verschiedenen Spezies.",
+          "ja": "DNAの塩基組成は、異なる種間で大きく異なる。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "In any given species, the percentages of all four bases (A, T, G, C) are always exactly equal.",
+          "zh": "在任何给定物种中，四种碱基（A、T、G、C）的百分比总是精确相等。",
+          "es": "En cualquier especie dada, los porcentajes de las cuatro bases (A, T, G, C) siempre son exactamente iguales.",
+          "fr": "Chez toute espèce donnée, les pourcentages des quatre bases (A, T, G, C) sont toujours exactement égaux.",
+          "de": "Bei jeder gegebenen Spezies sind die Prozentsätze aller vier Basen (A, T, G, C) immer exakt gleich.",
+          "ja": "どの種においても、4つの塩基（A, T, G, C）の割合は常に完全に等しい。"
+        },
+        "feedback": {
+          "en": "Chargaff's rules state that A is roughly equal to T, and G is roughly equal to C, but not that all four are equal. The text explicitly mentions \"The percentages are not exactly the same because of limitations in Chargaff's techniques.\"",
+          "zh": "查加夫法则指出A大致等于T，G大致等于C，但并未说所有四种碱基都相等。文本明确提到“这些百分比并不完全相同，因为查加夫技术的局限性”。",
+          "es": "Las reglas de Chargaff establecen que A es aproximadamente igual a T, y G es aproximadamente igual a C, pero no que las cuatro sean iguales. El texto menciona explícitamente \"Los porcentajes no son exactamente iguales debido a las limitaciones de las técnicas de Chargaff\".",
+          "fr": "Les règles de Chargaff stipulent que A est approximativement égal à T, et G est approximativement égal à C, mais pas que les quatre sont égaux. Le texte mentionne explicitement \"Les pourcentages ne sont pas exactement les mêmes en raison des limitations des techniques de Chargaff.\"",
+          "de": "Chargaffs Regeln besagen, dass A ungefähr T entspricht und G ungefähr C, aber nicht, dass alle vier gleich sind. Der Text erwähnt explizit: \"Die Prozentsätze sind nicht exakt gleich aufgrund von Einschränkungen in Chargaffs Techniken.\"",
+          "ja": "シャルガフの法則では、AがTとほぼ等しく、GがCとほぼ等しいとされており、4つすべてが等しいわけではありません。本文には「これらの割合は、シャルガフの技術の限界のため、完全に同じではありません」と明記されています。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "The total percentage of purines (A+G) is always different from the total percentage of pyrimidines (C+T).",
+          "zh": "嘌呤（A+G）的总百分比总是与嘧啶（C+T）的总百分比不同。",
+          "es": "El porcentaje total de purinas (A+G) siempre es diferente del porcentaje total de pirimidinas (C+T).",
+          "fr": "Le pourcentage total des purines (A+G) est toujours différent du pourcentage total des pyrimidines (C+T).",
+          "de": "Der Gesamtprozentsatz von Purinen (A+G) ist immer unterschiedlich vom Gesamtprozentsatz von Pyrimidinen (C+T).",
+          "ja": "プリン（A+G）の総割合は、常にピリミジン（C+T）の総割合と異なる。"
+        },
+        "feedback": {
+          "en": "Since A≈T and G≈C, it implies that A+G should be roughly equal to T+C. Thus, purines (A+G) and pyrimidines (C+T) should be in roughly equal proportions in double-stranded DNA.",
+          "zh": "由于A≈T和G≈C，这意味着A+G应该大致等于T+C。因此，在双链DNA中，嘌呤（A+G）和嘧啶（C+T）应该大致相等。",
+          "es": "Dado que A≈T y G≈C, esto implica que A+G debería ser aproximadamente igual a T+C. Por lo tanto, las purinas (A+G) y las pirimidinas (C+T) deberían estar en proporciones aproximadamente iguales en el ADN de doble cadena.",
+          "fr": "Puisque A≈T et G≈C, cela implique que A+G devrait être approximativement égal à T+C. Ainsi, les purines (A+G) et les pyrimidines (C+T) devraient être en proportions approximativement égales dans l'ADN double brin.",
+          "de": "Da A≈T und G≈C sind, bedeutet dies, dass A+G ungefähr T+C entsprechen sollte. Daher sollten Purine (A+G) und Pyrimidine (C+T) in doppelsträngiger DNA in ungefähr gleichen Anteilen vorhanden sein.",
+          "ja": "A≈T、G≈Cであるため、A+GはT+Cとほぼ等しくなるはずです。したがって、二本鎖DNAでは、プリン（A+G）とピリミジン（C+T）の割合はほぼ等しくなるはずです。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "B"
+    ],
+    "explanation": {
+      "en": "One of Chargaff's rules states that DNA base composition varies between species. For example, sea urchin DNA has 32.8% A, while E. coli DNA has 24.7% A, demonstrating species-specific variation.",
+      "zh": "查加夫法则之一指出，DNA的碱基组成在不同物种之间存在差异。例如，海胆DNA含有32.8%的A，而大肠杆菌DNA含有24.7%的A，这表明了物种特异性差异。",
+      "es": "Una de las reglas de Chargaff establece que la composición de bases del ADN varía entre especies. Por ejemplo, el ADN de erizo de mar tiene un 32.8% de A, mientras que el ADN de E. coli tiene un 24.7% de A, lo que demuestra la variación específica de la especie.",
+      "fr": "L'une des règles de Chargaff stipule que la composition des bases de l'ADN varie entre les espèces. Par exemple, l'ADN d'oursin contient 32,8 % d'A, tandis que l'ADN d'E. coli contient 24,7 % d'A, ce qui démontre une variation spécifique à l'espèce.",
+      "de": "Eine von Chargaffs Regeln besagt, dass die Basenzusammensetzung von DNA zwischen Spezies variiert. Zum Beispiel hat die DNA von Seeigeln 32,8% A, während die DNA von E. coli 24,7% A hat, was eine artspezifische Variation demonstriert.",
+      "ja": "シャルガフの法則の1つは、DNAの塩基組成が種間で異なることを示しています。例えば、ウニのDNAはAを32.8%含み、大腸菌のDNAはAを24.7%含んでおり、種特異的な多様性を示しています。"
+    }
+  },
+  {
+    "page_number": 366,
+    "difficulty": "easy",
+    "question_text": {
+      "en": "Based on Figure 16.5, what are the three main components that make up a DNA nucleotide?",
+      "zh": "根据图16.5，构成DNA核苷酸的三个主要组成部分是什么？",
+      "es": "Según la Figura 16.5, ¿cuáles son los tres componentes principales que forman un nucleótido de ADN?",
+      "fr": "D'après la Figure 16.5, quels sont les trois principaux composants d'un nucléotide d'ADN ?",
+      "de": "Basierend auf Abbildung 16.5, welche sind die drei Hauptkomponenten, die ein DNA-Nukleotid bilden?",
+      "ja": "図16.5に基づくと、DNAヌクレオチドを構成する3つの主要な要素は何ですか？"
+    },
+    "options": [
+      {
+        "id": "A",
+        "text": {
+          "en": "Sugar, phosphate group, and nitrogenous base.",
+          "zh": "糖、磷酸基团和含氮碱基。",
+          "es": "Azúcar, grupo fosfato y base nitrogenada.",
+          "fr": "Sucre, groupe phosphate et base azotée.",
+          "de": "Zucker, Phosphatgruppe und Stickstoffbase.",
+          "ja": "糖、リン酸基、窒素塩基。"
+        },
+        "feedback": null
+      },
+      {
+        "id": "B",
+        "text": {
+          "en": "Deoxyribose, protein, and nitrogenous base.",
+          "zh": "脱氧核糖、蛋白质和含氮碱基。",
+          "es": "Desoxirribosa, proteína y base nitrogenada.",
+          "fr": "Désoxyribose, protéine et base azotée.",
+          "de": "Desoxyribose, Protein und Stickstoffbase.",
+          "ja": "デオキシリボース、タンパク質、窒素塩基。"
+        },
+        "feedback": {
+          "en": "Protein is not a component of a DNA nucleotide. Deoxyribose is the specific type of sugar.",
+          "zh": "蛋白质不是DNA核苷酸的组成部分。脱氧核糖是糖的特定类型。",
+          "es": "La proteína no es un componente de un nucleótido de ADN. La desoxirribosa es el tipo específico de azúcar.",
+          "fr": "Les protéines ne sont pas un composant d'un nucléotide d'ADN. Le désoxyribose est le type spécifique de sucre.",
+          "de": "Protein ist kein Bestandteil eines DNA-Nukleotids. Desoxyribose ist die spezifische Art von Zucker.",
+          "ja": "タンパク質はDNAヌクレオチドの構成要素ではありません。デオキシリボースは特定の種類の糖です。"
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "en": "Sugar, fatty acid, and amino acid.",
+          "zh": "糖、脂肪酸和氨基酸。",
+          "es": "Azúcar, ácido graso y aminoácido.",
+          "fr": "Sucre, acide gras et acide aminé.",
+          "de": "Zucker, Fettsäure und Aminosäure.",
+          "ja": "糖、脂肪酸、アミノ酸。"
+        },
+        "feedback": {
+          "en": "Fatty acids and amino acids are components of lipids and proteins, respectively, not DNA nucleotides.",
+          "zh": "脂肪酸和氨基酸分别是脂质和蛋白质的组成部分，而不是DNA核苷酸的组成部分。",
+          "es": "Los ácidos grasos y los aminoácidos son componentes de lípidos y proteínas, respectivamente, no de los nucleótidos de ADN.",
+          "fr": "Les acides gras et les acides aminés sont des composants des lipides et des protéines, respectivement, et non des nucléotides d'ADN.",
+          "de": "Fettsäuren und Aminosäuren sind Bestandteile von Lipiden bzw. Proteinen, nicht von DNA-Nukleotiden.",
+          "ja": "脂肪酸とアミノ酸は、それぞれ脂質とタンパク質の構成要素であり、DNAヌクレオチドの構成要素ではありません。"
+        }
+      },
+      {
+        "id": "D",
+        "text": {
+          "en": "Phosphate group, nitrogenous base, and ribosome.",
+          "zh": "磷酸基团、含氮碱基和核糖体。",
+          "es": "Grupo fosfato, base nitrogenada y ribosoma.",
+          "fr": "Groupe phosphate, base azotée et ribosome.",
+          "de": "Phosphatgruppe, Stickstoffbase und Ribosom.",
+          "ja": "リン酸基、窒素塩基、リボソーム。"
+        },
+        "feedback": {
+          "en": "Ribosomes are cellular organelles involved in protein synthesis, not a component of a single DNA nucleotide.",
+          "zh": "核糖体是参与蛋白质合成的细胞器，而不是单个DNA核苷酸的组成部分。",
+          "es": "Los ribosomas son orgánulos celulares involucrados en la síntesis de proteínas, no un componente de un solo nucleótido de ADN.",
+          "fr": "Les ribosomes sont des organites cellulaires impliqués dans la synthèse des protéines, et non un composant d'un seul nucléotide d'ADN.",
+          "de": "Ribosomen sind Zellorganellen, die an der Proteinsynthese beteiligt sind, kein Bestandteil eines einzelnen DNA-Nukleotids.",
+          "ja": "リボソームはタンパク質合成に関与する細胞小器官であり、単一のDNAヌクレオチドの構成要素ではありません。"
+        }
+      }
+    ],
+    "correct_answers": [
+      "A"
+    ],
+    "explanation": {
+      "en": "Figure 16.5 explicitly labels the three components of a DNA nucleotide as the phosphate group (yellow), the sugar (deoxyribose, blue), and a nitrogenous base (A, T, G, or C).",
+      "zh": "图16.5明确标注了DNA核苷酸的三个组成部分：磷酸基团（黄色）、糖（脱氧核糖，蓝色）和含氮碱基（A、T、G或C）。",
+      "es": "La Figura 16.5 etiqueta explícitamente los tres componentes de un nucleótido de ADN como el grupo fosfato (amarillo), el azúcar (desoxirribosa, azul) y una base nitrogenada (A, T, G o C).",
+      "fr": "La Figure 16.5 étiquette explicitement les trois composants d'un nucléotide d'ADN comme le groupe phosphate (jaune), le sucre (désoxyribose, bleu) et une base azotée (A, T, G ou C).",
+      "de": "Abbildung 16.5 beschriftet explizit die drei Komponenten eines DNA-Nukleotids als Phosphatgruppe (gelb), Zucker (Desoxyribose, blau) und eine Stickstoffbase (A, T, G oder C).",
+      "ja": "図16.5では、DNAヌクレオチドの3つの構成要素がリン酸基（黄色）、糖（デオキシリボース、青色）、および窒素塩基（A、T、G、またはC）として明示的に示されています。"
+    }
+  }
+]
