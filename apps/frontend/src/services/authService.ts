@@ -41,7 +41,8 @@ googleProvider.setCustomParameters({
 });
 
 // Google One Tap Web Client ID (来自 Firebase 项目 beike-e6301)
-const GOOGLE_CLIENT_ID = import.meta.env.VITE_GOOGLE_CLIENT_ID || '889627047453-e6301.apps.googleusercontent.com';
+// 经验教训: 必须使用来自 Firebase Console -> Auth -> Sign-in Method -> Google -> Web SDK 配置中的真实完整 Web 客户端 ID
+const GOOGLE_CLIENT_ID = import.meta.env.VITE_GOOGLE_CLIENT_ID || '889627047453-3bt8tf71lbvn43utlnq5bmvjmlu8gutc.apps.googleusercontent.com';
 
 /**
  * 初始化并智能提示 Google One Tap 快捷登录
