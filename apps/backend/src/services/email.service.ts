@@ -215,7 +215,7 @@ export const sendReviewReminderEmail = async (
   try {
     const result = await emailBinding.send({
       to: [{ email: recipient.email, name: recipient.nickname }],
-      from: { email: 'noreply@beikee.org', name: 'Campbell Biology PAL' },
+      from: { email: 'biopal-campbell-noreply@beikee.org', name: 'Campbell Biology PAL' },
       subject,
       text: textContent,
       html: htmlContent,

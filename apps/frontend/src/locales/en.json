@@ -275,5 +275,15 @@
       "rights": "All rights reserved.",
       "version": "Version"
     }
+  },
+  "graphModal": {
+    "subTitle": "Knowledge Graph 1-Hop Local Topology Network & Authoritative Definition",
+    "authoritativeDefinition": "Campbell Biology Authoritative Definition",
+    "topologyTitle": "1-Hop Topology Network (Click node to switch center)",
+    "topologyStats": "Includes {nodes} node{nodes === 1 ? '' : 's'} and {relations} relationship{relations === 1 ? '' : 's'}",
+    "loadingTopology": "Retrieving 1-Hop topology from D1 graph database...",
+    "noRelatedNodes": "No related nodes found",
+    "defaultNodeTitle": "Concept Node",
+    "noDefinition": "No authoritative definition description available."
   }
 }

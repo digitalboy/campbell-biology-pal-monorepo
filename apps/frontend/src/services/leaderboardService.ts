@@ -23,8 +23,8 @@ export const leaderboardService = {
    */
   async getLeaderboard(params?: GetLeaderboardParams): Promise<LeaderboardUser[]> {
     try {
-      const response = await api.getLeaderboard(params);
-      return response.data; // Assuming API returns { ok: true, data: LeaderboardUser[] }
+      const response: any = await api.getLeaderboard(params);
+      return response.data || (Array.isArray(response) ? response : []);
     } catch (error) {
       console.error('Error fetching leaderboard:', error);
       throw error;

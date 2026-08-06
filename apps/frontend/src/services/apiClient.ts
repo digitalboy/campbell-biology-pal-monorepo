@@ -23,6 +23,8 @@ import type {
   CreateAiInteractionPayload,
   AiInteraction,
   GraphData,
+  LeaderboardUser,
+  DueReviewsResponse,
 } from '@/types/api';
 
 class ApiClient {
@@ -78,11 +80,11 @@ class ApiClient {
   public submitQuizAnswer = (questionId: string, payload: QuestionSubmissionPayload): Promise<QuestionSubmissionResult> =>
     this.axiosInstance.post(`/questions/${questionId}/submit`, payload).then(res => res.data.data || res.data);
 
-  public getDueReviews = (): Promise<CompanionData[]> =>
+  public getDueReviews = (): Promise<DueReviewsResponse> =>
     this.axiosInstance.get('/users/me/reviews/due').then(res => res.data.data || res.data);
 
-  public getWrongAnswers = (): Promise<{ wrongAnswers: any[] }> =>
-    this.axiosInstance.get('/users/me/wrong-answers').then(res => res.data.data || res.data);
+  public getWrongAnswers = (params?: { startDate?: string; endDate?: string }): Promise<any> =>
+    this.axiosInstance.get('/users/me/wrong-answers', { params }).then(res => res.data);
 
   public getRelatedNodes = (uuid: string): Promise<GraphData> =>
     this.axiosInstance.get(`/graph/nodes/${uuid}/related`).then(res => res.data.data || res.data);
@@ -111,6 +113,9 @@ class ApiClient {
 
   public deleteComment = (commentId: string): Promise<{ ok: boolean; message: string }> =>
     this.axiosInstance.delete(`/comments/${commentId}`).then(res => res.data);
+
+  public getLeaderboard = (params?: any): Promise<{ ok: boolean; data: LeaderboardUser[] }> =>
+    this.axiosInstance.get('/leaderboard', { params }).then(res => res.data);
 
   public saveAiInteraction = (payload: CreateAiInteractionPayload): Promise<{ ok: boolean; data: AiInteraction }> =>
     this.axiosInstance.post('/ai/interactions', payload).then(res => res.data);

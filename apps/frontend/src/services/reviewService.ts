@@ -14,8 +14,8 @@ export const reviewService = {
    */
   async getDueReviews(): Promise<DueReviewsResponse> {
     try {
-      const response = await api.getDueReviews();
-      return response; // Assuming API returns { ok: true, data: DueReviewsResponse }
+      const response: any = await api.getDueReviews();
+      return response.data || response; // Assuming API returns { ok: true, data: DueReviewsResponse }
     } catch (error) {
       console.error('Error fetching due reviews:', error);
       throw error;
@@ -30,8 +30,17 @@ export const reviewService = {
    */
   async getWrongAnswers(params?: { startDate?: string; endDate?: string }): Promise<Question[]> {
     try {
-      const response = await api.getWrongAnswers(params);
-      return response.data.wrong_answers;
+      const response: any = await api.getWrongAnswers(params);
+      if (response && response.data && Array.isArray(response.data.wrong_answers)) {
+        return response.data.wrong_answers;
+      }
+      if (response && Array.isArray(response.wrong_answers)) {
+        return response.wrong_answers;
+      }
+      if (Array.isArray(response)) {
+        return response;
+      }
+      return [];
     } catch (error) {
       console.error('Error fetching wrong answers:', error);
       throw error;

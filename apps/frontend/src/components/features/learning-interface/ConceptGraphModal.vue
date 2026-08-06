@@ -17,7 +17,7 @@ import type { ConceptNode } from '@/types/api';
 import PdfGraphViewer from './PdfGraphViewer.vue';
 
 const graphStore = useGraphStore();
-const { locale } = useI18n();
+const { t, locale } = useI18n();
 
 const isOpen = computed(() => graphStore.isModalOpen);
 const isLoading = computed(() => graphStore.isLoading);
@@ -40,7 +40,7 @@ const centerNode = computed<ConceptNode | null>(() => {
 
 // 计算当前语言下的概念名称
 const conceptNameInfo = computed(() => {
-  if (!centerNode.value) return { name: '知识概念节点', isFallback: false, sourceLang: 'zh' };
+  if (!centerNode.value) return { name: t('graphModal.defaultNodeTitle'), isFallback: false, sourceLang: 'zh' };
 
   const node = centerNode.value;
   const currentLang = locale.value;
@@ -54,12 +54,12 @@ const conceptNameInfo = computed(() => {
     return { name: node.name_en, isFallback: currentLang !== 'en', sourceLang: 'en' };
   }
 
-  return { name: node.name_zh || '概念节点', isFallback: true, sourceLang: 'zh' };
+  return { name: node.name_zh || t('graphModal.defaultNodeTitle'), isFallback: true, sourceLang: 'zh' };
 });
 
 // 计算当前语言下的概念定义
 const conceptDefinitionInfo = computed(() => {
-  if (!centerNode.value) return { definition: '暂无相关定义描述。', isFallback: false };
+  if (!centerNode.value) return { definition: t('graphModal.noDefinition'), isFallback: false };
 
   const node = centerNode.value;
   const currentLang = locale.value;
@@ -73,7 +73,7 @@ const conceptDefinitionInfo = computed(() => {
     return { definition: node.definition_en, isFallback: currentLang !== 'en' };
   }
 
-  return { definition: node.definition_zh || '暂无权威定义描述。', isFallback: true };
+  return { definition: node.definition_zh || t('graphModal.noDefinition'), isFallback: true };
 });
 
 const closeModal = () => {
@@ -124,7 +124,7 @@ const handleNodeClick = (event: any) => {
                   </span>
                 </div>
                 <p class="text-xs text-muted-foreground mt-1">
-                  知识图谱 1-Hop 局部拓扑网络与权威定义
+                  {{ t('graphModal.subTitle') }}
                 </p>
               </div>
             </div>
@@ -145,18 +145,15 @@ const handleNodeClick = (event: any) => {
             <!-- Loading 状态 -->
             <div v-if="isLoading" class="flex flex-col items-center justify-center py-24 space-y-4">
               <div class="w-10 h-10 border-4 border-primary border-t-transparent rounded-full animate-spin"></div>
-              <p class="text-sm text-muted-foreground">正在检索 D1 图数据库 1-Hop 拓扑关系...</p>
+              <p class="text-sm text-muted-foreground">{{ t('graphModal.loadingTopology') }}</p>
             </div>
 
             <template v-else>
-              <!-- 概念定义卡片 -->
+              <!-- 概念定义卡片 (年级标签已移除) -->
               <div class="p-5 rounded-2xl bg-muted/40 border border-border space-y-2">
                 <div class="flex items-center justify-between">
                   <span class="text-xs font-bold uppercase tracking-wider text-primary">
-                    Campbell Biology 权威定义
-                  </span>
-                  <span v-if="centerNode?.grade" class="text-xs px-2.5 py-0.5 rounded-md bg-primary/10 text-primary font-medium">
-                    {{ centerNode.grade }}
+                    {{ t('graphModal.authoritativeDefinition') }}
                   </span>
                 </div>
                 <p class="text-base text-foreground leading-relaxed font-normal">
@@ -168,11 +165,8 @@ const handleNodeClick = (event: any) => {
               <div class="space-y-3">
                 <div class="flex items-center justify-between">
                   <h4 class="text-base font-bold text-foreground">
-                    1-Hop 拓扑关联图 (点击节点切换中心点)
+                    {{ t('graphModal.topologyTitle') }}
                   </h4>
-                  <span class="text-xs text-muted-foreground">
-                    包含 {{ graphData?.nodes.length || 0 }} 个节点与 {{ graphData?.relationships.length || 0 }} 条关系
-                  </span>
                 </div>
 
                 <div class="h-[520px] w-full rounded-2xl border border-border bg-background overflow-hidden relative shadow-inner">
@@ -182,7 +176,7 @@ const handleNodeClick = (event: any) => {
                     @node-click="handleNodeClick"
                   />
                   <div v-else class="flex flex-col items-center justify-center h-full text-muted-foreground text-sm">
-                    暂无关联节点
+                    {{ t('graphModal.noRelatedNodes') }}
                   </div>
                 </div>
               </div>

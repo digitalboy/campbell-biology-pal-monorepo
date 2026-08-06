@@ -10,7 +10,6 @@
  */
 
 import { api } from './apiClient';
-import type { ConceptNode } from '@/types/api';
 
 export interface ConceptMatchItem {
   uuid: string;
@@ -81,7 +80,31 @@ class ConceptDictionaryService {
     });
   }
 
-  public findConceptsInText(text: string, currentLang: string = 'zh'): Array<{ name: string; uuid: string; index: number }> {
+  /**
+   * 判断字符是否为英文/拉丁字母或数字（用于单词边界校验）
+   */
+  private isWordChar(char: string | undefined): boolean {
+    if (!char) return false;
+    return /[a-zA-Z0-9_]/.test(char);
+  }
+
+  /**
+   * 判断关键词是否为纯英文/拉丁短语（由英文字母、数字、空格、连字符组成）
+   */
+  private isLatinText(text: string): boolean {
+    return /^[a-zA-Z0-9_\s-]+$/.test(text);
+  }
+
+  /**
+   * 查找文本中包含的知识节点词汇。
+   * 
+   * 备注 (重大 BUG 修复与经验教训):
+   * 原先逻辑直接使用 indexOf 进行子串盲匹配，导致英文单词被错误切割打断
+   * (例如 "several" 被错切成 "sev" + "er" + "al"，"generations" 被错切成 "gene" + "rat" + "io" + "ns")。
+   * 现为纯英文/拉丁词汇引入严格的【单词边界校验 (Word Boundary Check)】：
+   * 匹配项的前一个字符与后一个字符不得为英文字母或数字，确保 100% 不打断拆分完整的英文单词。
+   */
+  public findConceptsInText(text: string, _currentLang: string = 'zh'): Array<{ name: string; uuid: string; index: number }> {
     if (!text) return [];
 
     const matches: Array<{ name: string; uuid: string; index: number }> = [];
@@ -89,22 +112,40 @@ class ConceptDictionaryService {
 
     this.conceptMap.forEach((uuid, keyword) => {
       if (keyword.length < 2) return;
-      
+
+      const isLatin = this.isLatinText(keyword);
       let searchPos = 0;
+
       while ((searchPos = lowerText.indexOf(keyword, searchPos)) !== -1) {
-        const originalName = text.slice(searchPos, searchPos + keyword.length);
+        const matchEnd = searchPos + keyword.length;
+
+        // 对英文/拉丁词汇执行严格的 Word Boundary (单词边界) 校验
+        if (isLatin) {
+          const charBefore = searchPos > 0 ? text[searchPos - 1] : undefined;
+          const charAfter = matchEnd < text.length ? text[matchEnd] : undefined;
+
+          // 若前一个或后一个字符是字母/数字，说明该匹配项处于一个更大单词的内部，予以排除！
+          if (this.isWordChar(charBefore) || this.isWordChar(charAfter)) {
+            searchPos++;
+            continue;
+          }
+        }
+
+        const originalName = text.slice(searchPos, matchEnd);
         matches.push({
           name: originalName,
           uuid,
           index: searchPos
         });
-        searchPos += keyword.length;
+
+        searchPos = matchEnd;
       }
     });
 
-    // 最长词匹配优先策略
+    // 排序规则：优先按在文本中的位置，位置相同则优先选择匹配长度更长的词汇 (最长匹配优先)
     matches.sort((a, b) => a.index - b.index || b.name.length - a.name.length);
 
+    // 过滤互相重叠的匹配项，防止重复高亮
     const filtered: Array<{ name: string; uuid: string; index: number }> = [];
     let lastEnd = 0;
 
