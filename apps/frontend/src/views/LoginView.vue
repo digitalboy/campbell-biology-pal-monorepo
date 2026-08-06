@@ -81,8 +81,12 @@ const testimonials = [
   }
 ];
 
-// 视差滚动效果
+// 视差滚动与 Google One Tap 初始化
 onMounted(() => {
+  if (!authStore.isLoggedIn) {
+    authService.initGoogleOneTap();
+  }
+
   const handleScroll = () => {
     if (heroRef.value) {
       const scrolled = window.scrollY;
