@@ -12,7 +12,7 @@ import { Env } from './index';
 import { syncUserHandler, getDashboardStatsHandler, getUserProfileHandler, updateUserProfileHandler } from './handlers/user.handler';
 import { getPageCompanionDataHandler } from './handlers/content.handler'; 
 import { submitAnswerHandler } from './handlers/quiz.handler';
-import { getDueReviewsHandler, getWrongAnswersHandler } from './handlers/review.handler';
+import { getDueReviewsHandler, getWrongAnswersHandler, triggerReviewRemindersHandler } from './handlers/review.handler';
 import { getRelatedNodesHandler, getGraphDictionaryHandler, deleteNodeHandler } from './handlers/graph.handler';
 import { handleCreateComment, handleGetComments, handleDeleteComment, handleGetCommentById, getLeaderboardHandler } from './handlers/social.handler';
 import { aiCompletionHandler, saveAiInteractionHandler, getRecentAiInteractionsHandler, deleteAiInteractionHandler } from './handlers/ai.handler';
@@ -54,6 +54,9 @@ router.put('/api/v1/users/me', authMiddleware, updateUserProfileHandler);
 router.get('/api/v1/users/me/reviews/due', authMiddleware, getDueReviewsHandler);
 router.get('/api/v1/users/me/dashboard-stats', authMiddleware, getDashboardStatsHandler);
 router.get('/api/v1/users/me/wrong-answers', authMiddleware, getWrongAnswersHandler);
+
+// --- Admin / Review Notification Routes ---
+router.post('/api/v1/admin/trigger-reminders', authMiddleware, adminMiddleware, triggerReviewRemindersHandler);
 
 // --- Content & Quiz Routes ---
 router.get('/api/v1/pages/:pageNumber/companion-data', authMiddleware, getPageCompanionDataHandler);

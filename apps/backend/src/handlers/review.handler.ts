@@ -55,3 +55,20 @@ export const getWrongAnswersHandler = async (
     return c.json({ ok: false, message: 'Failed to fetch wrong answers.', error: error.message }, 500);
   }
 };
+
+/**
+ * Handles manually triggering the scheduled review reminders (Admin mode / Testing).
+ */
+export const triggerReviewRemindersHandler = async (
+  c: Context<{ Bindings: Env; Variables: HonoContextVariables }>
+) => {
+  try {
+    const { processScheduledReviewReminders } = await import('../services/cron.service');
+    const result = await processScheduledReviewReminders(c.env);
+    return c.json({ ok: true, message: 'Scheduled review reminders triggered manually.', data: result });
+  } catch (error: any) {
+    console.error('Error triggering review reminders manually:', error);
+    return c.json({ ok: false, message: 'Failed to trigger review reminders.', error: error.message }, 500);
+  }
+};
+

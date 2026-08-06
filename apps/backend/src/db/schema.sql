@@ -3,6 +3,8 @@ CREATE TABLE UserProfiles (
     email TEXT UNIQUE NOT NULL,
     nickname TEXT NOT NULL,
     avatar_url TEXT,
+    last_review_notified_at TIMESTAMP, -- 格式遵循 ISO 8601: 2026-03-13T14:11:00.000Z
+    email_notifications_enabled BOOLEAN DEFAULT 1, -- 是否开启邮件提醒
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );

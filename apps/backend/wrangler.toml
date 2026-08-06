@@ -14,6 +14,14 @@ database_name = "campbell-biology-pal-db"
 database_id = "d290662f-8b6e-4234-8ab6-afecdda04c5b"
 preview_database_id = "d290662f-8b6e-4234-8ab6-afecdda04c5b"
 
+# 绑定 Cloudflare 原生 Email Sending 服务
+[[send_email]]
+name = "EMAIL"
+
+# 定时触发器配置 (每日 UTC 00:00 执行复习提醒巡检)
+[triggers]
+crons = [ "0 0 * * *" ]
+
 [vars]
 ENVIRONMENT = "development"
 FIREBASE_PROJECT_ID = "beike-e6301"
