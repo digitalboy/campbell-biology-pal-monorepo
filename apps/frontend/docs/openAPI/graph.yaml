@@ -1,8 +1,8 @@
 openapi: 3.0.0
 info:
   title: "Knowledge Graph API"
-  version: "1.1.0"
-  description: "API for interacting with the knowledge graph, such as fetching related nodes for graph visualization."
+  version: "1.2.0"
+  description: "API for interacting with the knowledge graph stored in Cloudflare D1 (SQLite), fetching 1-degree related nodes for visualization and managing nodes."
 servers:
   - url: "https://campbell-biology-pal-v2.digitalboyzone.workers.dev/api/v1"
     description: "Production Server"
@@ -15,18 +15,17 @@ paths:
       tags:
         - "Knowledge Graph"
       summary: "Get Related Nodes (1-degree)"
-      description: "Retrieves a subgraph containing a central node (specified by its UUID), all of its 1st-degree neighbor nodes (including Page nodes), and the relationships connecting them."
+      description: "Retrieves a subgraph containing a central node (specified by its UUID or concept name), all of its 1st-degree neighbor nodes (including Page nodes), and the relationships connecting them."
       operationId: "getRelatedNodes"
       
       parameters:
         - name: "uuid"
           in: "path"
           required: true
-          description: "The UUID of the central node for which to fetch related nodes."
+          description: "The UUID or canonical concept name of the central node."
           schema:
             type: string
-            format: uuid
-            example: "d095215d-4848-5a19-bbd6-9e21631b5253" # Example for "Metabolic pathway"
+            example: "d095215d-4848-5a19-bbd6-9e21631b5253"
       responses:
         "200":
           description: "Successfully retrieved the graph data."
@@ -37,20 +36,36 @@ paths:
               example:
                 nodes:
                   - id: "d095215d-4848-5a19-bbd6-9e21631b5253"
-                    type: "KnowledgePoint"
                     raw_id: "d095215d-4848-5a19-bbd6-9e21631b5253"
+                    type: "KnowledgePoint"
                     name_en: "Metabolic pathway"
                     name_zh: "代谢途径"
                     definition_en: "A series of chemical reactions in a cell, each catalyzed by a specific enzyme."
                     definition_zh: "细胞中的一系列化学反应，每个反应由特定酶催化。"
+                    aliases: ["代谢通路", "Metabolic Process"]
+                    grade: "高中必修一"
+                    publisher: "人民教育出版社"
+                    subject: "生物"
+                    createdAt: "2026-03-13T14:11:00.000Z"
+                    updatedAt: "2026-03-13T14:11:00.000Z"
                   - id: "page_208"
                     type: "Page"
                     name: "page_208"
                     number: 208
                 relationships:
-                  - type: "MENTIONED_ON_PAGE"
+                  - id: "rel_12345"
+                    type: "MENTIONED_ON_PAGE"
                     source: "d095215d-4848-5a19-bbd6-9e21631b5253"
                     target: "page_208"
+                    label_zh: "提及于"
+                    label_en: "Mentioned on"
+                    createdAt: "2026-03-13T14:11:00.000Z"
+        "404":
+          description: "Node not found for the given UUID or concept name."
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
         "500":
           description: "Internal server error."
           content:
@@ -61,7 +76,7 @@ paths:
       tags:
         - "Knowledge Graph"
       summary: "Delete Node and Relationships (Admin)"
-      description: "Deletes a node and all of its relationships from the knowledge graph. This is a destructive action and requires administrator privileges."
+      description: "Deletes a node and all of its relationships from the knowledge graph in Cloudflare D1. Requires administrator privileges."
       operationId: "deleteNode"
       security:
         - bearerAuth: []
@@ -158,8 +173,6 @@ components:
       required:
         - id
         - type
-        - raw_id
-        - name_en
         - name_zh
       properties:
         id:
@@ -168,13 +181,13 @@ components:
           description: "The deterministic UUID of the node."
         type:
           type: string
-          enum: ["KnowledgePoint", "Topic"]
+          enum: ["KnowledgePoint", "Topic", "Person", "Event"]
         raw_id:
           type: string
           description: "The human-readable, canonical ID used to generate the UUID."
-        name_en:
-          type: string
         name_zh:
+          type: string
+        name_en:
           type: string
         name_es:
           type: string
@@ -184,9 +197,9 @@ components:
           type: string
         name_de:
           type: string
-        definition_en:
-          type: string
         definition_zh:
+          type: string
+        definition_en:
           type: string
         definition_es:
           type: string
@@ -196,6 +209,28 @@ components:
           type: string
         definition_de:
           type: string
+        aliases:
+          type: array
+          items:
+            type: string
+          description: "List of alternative names or aliases."
+        grade:
+          type: string
+          description: "Target grade or syllabus stage."
+        publisher:
+          type: string
+          description: "Book publisher."
+        subject:
+          type: string
+          description: "Academic subject."
+        createdAt:
+          type: string
+          format: date-time
+          description: "Strict ISO 8601 timestamp."
+        updatedAt:
+          type: string
+          format: date-time
+          description: "Strict ISO 8601 timestamp."
 
     GraphRelationship:
       type: object
@@ -205,6 +240,9 @@ components:
         - target
         - type
       properties:
+        id:
+          type: string
+          description: "Unique identifier of the relationship edge."
         source:
           type: string
           description: "The ID of the source node for this relationship."
@@ -213,7 +251,23 @@ components:
           description: "The ID of the target node for this relationship."
         type:
           type: string
-          description: "The type of the relationship (e.g., IS_A, MENTIONED_ON_PAGE)."
+          description: "The type of the relationship (e.g., IS_A, MENTIONED_ON_PAGE, PRODUCES)."
+        label_zh:
+          type: string
+          description: "Chinese label for the relationship."
+        label_en:
+          type: string
+          description: "English label for the relationship."
+        description_zh:
+          type: string
+          description: "Detailed Chinese description of the relationship."
+        description_en:
+          type: string
+          description: "Detailed English description of the relationship."
+        createdAt:
+          type: string
+          format: date-time
+          description: "Strict ISO 8601 timestamp."
 
     ErrorResponse:
       type: object
