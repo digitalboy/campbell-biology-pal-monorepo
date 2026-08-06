@@ -173,6 +173,7 @@ const handleNodeClick = (event: any) => {
                   <PdfGraphViewer
                     v-if="graphData && graphData.nodes.length > 0"
                     :graph-data="graphData"
+                    :center-node-uuid="graphStore.activeNodeUuid"
                     @node-click="handleNodeClick"
                   />
                   <div v-else class="flex flex-col items-center justify-center h-full text-muted-foreground text-sm">

@@ -86,8 +86,8 @@ class ApiClient {
   public getWrongAnswers = (params?: { startDate?: string; endDate?: string }): Promise<any> =>
     this.axiosInstance.get('/users/me/wrong-answers', { params }).then(res => res.data);
 
-  public getRelatedNodes = (uuid: string): Promise<GraphData> =>
-    this.axiosInstance.get(`/graph/nodes/${uuid}/related`).then(res => res.data.data || res.data);
+  public getRelatedNodes = (uuid: string, lang?: string): Promise<GraphData> =>
+    this.axiosInstance.get(`/graph/nodes/${uuid}/related`, { params: { lang } }).then(res => res.data.data || res.data);
 
   public getGraphDictionary = (): Promise<{ ok: boolean; dictionary: any[] }> =>
     this.axiosInstance.get('/graph/dictionary').then(res => res.data);

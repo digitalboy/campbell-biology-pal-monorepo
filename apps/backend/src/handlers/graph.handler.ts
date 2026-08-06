@@ -6,6 +6,8 @@ import { GraphDataDTO } from '@campbell/shared';
 
 /**
  * Handles the request to get nodes related to a specific node UUID from Cloudflare D1.
+ * Supports multilingual query via ?lang=ja parameter.
+ * 
  * @param c Hono context
  * @returns JSON response with the knowledge graph data or an error.
  */
@@ -13,13 +15,14 @@ export const getRelatedNodesHandler = async (
   c: Context<{ Bindings: Env; Variables: HonoContextVariables }>
 ) => {
   const { uuid } = c.req.param();
+  const lang = c.req.query('lang') || 'zh';
 
   if (!uuid) {
     return c.json({ ok: false, message: 'Node UUID is required.' }, 400);
   }
 
   try {
-    const graphData: GraphDataDTO | null = await getRelatedNodesFromD1(c.env, uuid);
+    const graphData: GraphDataDTO | null = await getRelatedNodesFromD1(c.env, uuid, lang);
 
     if (!graphData) {
       return c.json({ ok: false, message: 'No data found for the given UUID.' }, 404);
@@ -42,6 +45,7 @@ export const getRelatedNodesHandler = async (
 
 /**
  * 获取全量知识图谱词典 (用于前端全图文本概念自动高亮与词树索引)
+ * 支持多语言词条汇聚
  * @param c Hono context
  */
 export const getGraphDictionaryHandler = async (
@@ -49,29 +53,35 @@ export const getGraphDictionaryHandler = async (
 ) => {
   try {
     const { results } = await c.env.DB.prepare(
-      `SELECT uuid, node_name_zh, node_name_en, multilingual_names, aliases FROM GraphNodes;`
+      `SELECT n.uuid, n.canonical_name_en, t.lang_code, t.name, t.aliases
+       FROM GraphNodes n
+       LEFT JOIN GraphNodeTranslations t ON n.uuid = t.node_uuid;`
     ).all<any>();
 
-    const dictionary = (results || []).map((n: any) => {
-      let aliases: string[] = [];
-      if (n.aliases) {
-        try { aliases = JSON.parse(n.aliases); } catch (e) {}
+    const dictionaryMap = new Map<string, any>();
+
+    (results || []).forEach((row: any) => {
+      if (!dictionaryMap.has(row.uuid)) {
+        dictionaryMap.set(row.uuid, {
+          uuid: row.uuid,
+          name_en: row.canonical_name_en,
+          aliases: [],
+        });
       }
-      let multiNames: Record<string, string> = {};
-      if (n.multilingual_names) {
-        try { multiNames = JSON.parse(n.multilingual_names); } catch (e) {}
+      const item = dictionaryMap.get(row.uuid)!;
+
+      if (row.lang_code) {
+        item[`name_${row.lang_code}`] = row.name;
+        if (row.aliases) {
+          try {
+            const parsedAliases = JSON.parse(row.aliases);
+            item.aliases = Array.from(new Set([...item.aliases, ...parsedAliases]));
+          } catch (e) {}
+        }
       }
-      return {
-        uuid: n.uuid,
-        name_zh: n.node_name_zh,
-        name_en: n.node_name_en,
-        name_es: multiNames.es,
-        name_fr: multiNames.fr,
-        name_de: multiNames.de,
-        name_ja: multiNames.ja,
-        aliases,
-      };
     });
+
+    const dictionary = Array.from(dictionaryMap.values());
 
     return c.json({ ok: true, dictionary });
   } catch (error: any) {

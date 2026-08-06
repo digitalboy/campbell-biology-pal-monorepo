@@ -24,6 +24,10 @@ const props = defineProps({
     type: Object as PropType<GraphData>,
     required: true,
   },
+  centerNodeUuid: {
+    type: String,
+    default: null,
+  },
 });
 
 const emit = defineEmits<{
@@ -100,7 +104,9 @@ const initializeGraphState = () => {
     return;
   }
 
-  const centerApiNode = allApiNodes.find(n => n.type === 'Page') || allApiNodes[0];
+  const centerApiNode = (props.centerNodeUuid ? allApiNodes.find(n => n.id === props.centerNodeUuid || (n as ConceptNode).raw_id === props.centerNodeUuid) : null)
+    || allApiNodes.find(n => n.type === 'Page') 
+    || allApiNodes[0];
 
   const initialNodes = allApiNodes.map(node => {
     const isCenter = node.id === centerApiNode.id;

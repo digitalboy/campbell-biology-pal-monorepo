@@ -30,13 +30,13 @@ export const useGraphStore = defineStore('graph', () => {
    * 调取以指定 Node UUID 为中心的 1-Hop 拓扑网络
    * @param uuid 中心节点 UUID
    */
-  async function fetchRelatedNodes(uuid: string) {
+  async function fetchRelatedNodes(uuid: string, lang?: string) {
     isLoading.value = true;
     error.value = null;
     activeNodeUuid.value = uuid;
 
     try {
-      const response = await graphService.getRelatedNodes(uuid);
+      const response = await graphService.getRelatedNodes(uuid, lang);
       graphData.value = response;
     } catch (e) {
       const apiError = e as any;
@@ -51,9 +51,9 @@ export const useGraphStore = defineStore('graph', () => {
    * 打开指定概念节点的 1-Hop 图谱弹窗
    * @param uuid 概念节点 UUID
    */
-  async function openConceptModal(uuid: string) {
+  async function openConceptModal(uuid: string, lang?: string) {
     isModalOpen.value = true;
-    await fetchRelatedNodes(uuid);
+    await fetchRelatedNodes(uuid, lang);
   }
 
   /**
