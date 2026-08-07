@@ -43,12 +43,13 @@ const parseQuestionFromDb = <T extends Question>(q: any): T => {
  */
 export const getDueReviewQuestions = async (env: Env, userId: string): Promise<DueQuestion[]> => {
   const { DB } = env;
+  const nowIso = new Date().toISOString();
   const stmt = DB.prepare(`
     SELECT q.*, srs.last_reviewed_at, srs.review_stage
     FROM Questions q
     JOIN SpacedRepetitionSchedule srs ON q.id = srs.question_id
-    WHERE srs.user_id = ? AND srs.next_review_at <= CURRENT_TIMESTAMP AND srs.status = 'active'
-  `).bind(userId);
+    WHERE srs.user_id = ? AND srs.next_review_at <= ? AND srs.status = 'active'
+  `).bind(userId, nowIso);
   const { results } = await stmt.all<any>();
   return results ? results.map(q => parseQuestionFromDb<DueQuestion>(q)) : [];
 };

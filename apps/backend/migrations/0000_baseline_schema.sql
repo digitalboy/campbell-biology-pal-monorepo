@@ -164,14 +164,15 @@ CREATE INDEX IF NOT EXISTS idx_node_translations_node ON GraphNodeTranslations(n
 CREATE INDEX IF NOT EXISTS idx_edge_translations_lang ON GraphEdgeTranslations(edge_id, lang_code);
 CREATE INDEX IF NOT EXISTS idx_edge_translations_search ON GraphEdgeTranslations(lang_code, label);
 
+-- 备注 (经验教训与规范): 触发器中必须使用 strftime('%Y-%m-%dT%H:%M:%S.000Z', 'now') 保证 updated_at 自动更新时 100% 为严格 ISO 8601 格式，防止原生 CURRENT_TIMESTAMP 的空格破坏格式归一化
 CREATE TRIGGER IF NOT EXISTS trigger_userprofiles_updated_at 
 AFTER UPDATE ON UserProfiles FOR EACH ROW 
 BEGIN 
-    UPDATE UserProfiles SET updated_at = CURRENT_TIMESTAMP WHERE id = OLD.id; 
+    UPDATE UserProfiles SET updated_at = strftime('%Y-%m-%dT%H:%M:%S.000Z', 'now') WHERE id = OLD.id; 
 END;
 
 CREATE TRIGGER IF NOT EXISTS trigger_srs_updated_at 
 AFTER UPDATE ON SpacedRepetitionSchedule FOR EACH ROW 
 BEGIN 
-    UPDATE SpacedRepetitionSchedule SET updated_at = CURRENT_TIMESTAMP WHERE id = OLD.id; 
+    UPDATE SpacedRepetitionSchedule SET updated_at = strftime('%Y-%m-%dT%H:%M:%S.000Z', 'now') WHERE id = OLD.id; 
 END;

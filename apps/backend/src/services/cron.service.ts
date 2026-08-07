@@ -3,8 +3,9 @@
  * @description Cloudflare Scheduled Handler (Cron Triggers) 复习提醒定时任务服务。
  * 
  * 备注 (经验教训与规范):
- * 1. 严格遵守用户全局规范，时间戳写入与比对统一采用严格 ISO 8601 格式 (如: 2026-03-13T14:11:00.000Z)。
- * 2. 防骚扰打扰策略：针对每位用户，24 小时内最多发送 1 封汇总提醒邮件。
+ * 1. 【核心教训与时间归一化】严格遵守用户全局规范，时间戳写入与比对统一采用严格 ISO 8601 格式 (如: 2026-03-13T14:11:00.000Z)。
+ *    避免在 SQLite 中直接使用 CURRENT_TIMESTAMP 与 ISO 8601 字符串比较，消除 ASCII 字符序导致的查询倒置隐患。
+ * 2. 【防骚扰与冷却策略】针对每位用户，24 小时内最多发送 1 封汇总提醒邮件。
  */
 
 import { Env } from '../index';
@@ -40,14 +41,15 @@ const isCooldownSatisfied = (lastNotifiedAt: string | null, cooldownHours: numbe
  * @param env Cloudflare 环境变量绑定
  */
 export const processScheduledReviewReminders = async (env: Env): Promise<{ processed: number; sent: number; errors: number }> => {
-  console.log(`[CronService] Starting scheduled review reminder process at ${new Date().toISOString()}`);
+  const nowIso = new Date().toISOString();
+  console.log(`[CronService] Starting scheduled review reminder process at ${nowIso}`);
   
   let processed = 0;
   let sent = 0;
   let errors = 0;
 
   try {
-    // 1. 查询所有拥有到期且未复习错题的用户列表及对应的到期题目总数
+    // 1. 查询所有拥有到期且未复习错题的用户列表及对应的到期题目总数 (绑定严格 ISO 8601 时间戳)
     const query = `
       SELECT 
         up.id AS user_id, 
@@ -58,13 +60,13 @@ export const processScheduledReviewReminders = async (env: Env): Promise<{ proce
         COUNT(srs.id) AS due_count
       FROM SpacedRepetitionSchedule srs
       JOIN UserProfiles up ON srs.user_id = up.id
-      WHERE srs.next_review_at <= CURRENT_TIMESTAMP
+      WHERE srs.next_review_at <= ?
         AND srs.status = 'active'
       GROUP BY up.id, up.email, up.nickname, up.last_review_notified_at, up.email_notifications_enabled;
     `;
 
     const stmt = env.DB.prepare(query);
-    const { results } = await stmt.all<DueUserRecord>();
+    const { results } = await stmt.bind(nowIso).all<DueUserRecord>();
 
     if (!results || results.length === 0) {
       console.log('[CronService] No users with due review questions found at this time.');
@@ -105,13 +107,13 @@ export const processScheduledReviewReminders = async (env: Env): Promise<{ proce
       if (emailResult.success) {
         sent++;
         // 3. 成功后用严格 ISO 8601 时间戳更新用户的 last_review_notified_at
-        const nowIso = new Date().toISOString();
+        const updateTimeIso = new Date().toISOString();
         try {
           const updateStmt = env.DB.prepare(
-            'UPDATE UserProfiles SET last_review_notified_at = ?, updated_at = CURRENT_TIMESTAMP WHERE id = ?'
+            'UPDATE UserProfiles SET last_review_notified_at = ?, updated_at = ? WHERE id = ?'
           );
-          await updateStmt.bind(nowIso, record.user_id).run();
-          console.log(`[CronService] Updated last_review_notified_at for user ${record.user_id} to ${nowIso}`);
+          await updateStmt.bind(updateTimeIso, updateTimeIso, record.user_id).run();
+          console.log(`[CronService] Updated last_review_notified_at for user ${record.user_id} to ${updateTimeIso}`);
         } catch (dbErr) {
           console.error(`[CronService] Failed to update last_review_notified_at for user ${record.user_id}:`, dbErr);
         }
