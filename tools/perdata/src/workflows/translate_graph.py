@@ -23,7 +23,10 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 # 备注 (经验教训与规范):
-# 自动寻找并加载 tools/perdata/.env 中的私密 API 凭证，严禁将明文密钥硬编码写入代码提交 GitHub。
+# 1. 增量断点续传 (Checkpoint/Resume): 每次脚本启动时查询 D1 数据库中 target_lang 已存在的主键集合；
+#    在比对 UUID / ID 时必须显式强类型转换为 str(node_uuid) / int(edge_id)，规避 SQLite API JSON 返回数据类型混淆引发的漏检重翻译。
+# 2. 数据库写入 Upsert 规范: 统一使用 INSERT OR REPLACE INTO 语法，保障重复插入时做覆写更新，不造成脏数据。
+# 3. API 异常防护: 当 LLM 翻译失败时，返回 None 绝不出库，保障 0 假英文假伪脏数据落盘。
 ENV_PATH = Path(__file__).resolve().parent.parent.parent / ".env"
 if ENV_PATH.exists():
     load_dotenv(ENV_PATH)
@@ -70,12 +73,14 @@ def execute_d1_sql(sql_content: str, is_select: bool = False) -> List[Dict[str, 
     temp_sql_path = Path(__file__).resolve().parent / "temp_query.sql"
     
     if is_select:
+        # 在 Windows 命令行下处理单引号转义，防止 WHERE lang_code = 'ja' 被剥离单引号
+        safe_command = sql_content.replace("'", '"')
         cmd = [
             "npx.cmd" if sys.platform == "win32" else "npx",
             "cross-env", "HTTP_PROXY=http://127.0.0.1:7890", "HTTPS_PROXY=http://127.0.0.1:7890",
             "wrangler", "d1", "execute", "DB",
             "--remote",
-            f"--command={sql_content}",
+            f"--command={safe_command}",
             "--json"
         ]
     else:
@@ -108,8 +113,12 @@ def execute_d1_sql(sql_content: str, is_select: bool = False) -> List[Dict[str, 
         if start_idx != -1 and end_idx != -1 and end_idx >= start_idx:
             json_str = stdout_str[start_idx:end_idx + 1]
             data = json.loads(json_str)
-            if is_select and isinstance(data, list) and len(data) > 0:
-                return data[0].get("results", [])
+            if is_select and isinstance(data, list):
+                for entry in data:
+                    results_list = entry.get("results", [])
+                    if results_list and isinstance(results_list, list) and len(results_list) > 0:
+                        if "Total queries executed" not in results_list[0]:
+                            return results_list
         return []
     except Exception as e:
         logging.error(f"执行 D1 命令发生异常: {e}")
@@ -118,16 +127,16 @@ def execute_d1_sql(sql_content: str, is_select: bool = False) -> List[Dict[str, 
         return []
 
 def get_existing_node_translations(target_lang: str) -> set:
-    """获取目前在 D1 数据库中已存在目标语言翻译的 Node UUID 集合"""
+    """获取目前在 D1 数据库中已存在目标语言翻译的 Node UUID 集合 (强类型转换为 str 避免匹配漏失)"""
     sql = f"SELECT node_uuid FROM GraphNodeTranslations WHERE lang_code = '{target_lang}'"
     results = execute_d1_sql(sql, is_select=True)
-    return {r["node_uuid"] for r in results if "node_uuid" in r}
+    return {str(r["node_uuid"]) for r in results if "node_uuid" in r}
 
 def get_existing_edge_translations(target_lang: str) -> set:
-    """获取目前在 D1 数据库中已存在目标语言翻译的 Edge ID 集合"""
+    """获取目前在 D1 数据库中已存在目标语言翻译的 Edge ID 集合 (强类型转换为 str 避免匹配漏失)"""
     sql = f"SELECT edge_id FROM GraphEdgeTranslations WHERE lang_code = '{target_lang}'"
     results = execute_d1_sql(sql, is_select=True)
-    return {r["edge_id"] for r in results if "edge_id" in r}
+    return {str(r["edge_id"]) for r in results if "edge_id" in r and r["edge_id"] is not None}
 
 def translate_node(node: Dict[str, Any], target_lang: str) -> Optional[Dict[str, Any]]:
     """使用 DeepSeek API 翻译单个生物学概念节点"""
@@ -233,7 +242,7 @@ def process_node_translations(target_lang: str, batch_size: int = 50, limit: int
     raw_nodes = execute_d1_sql(sql, is_select=True)
     logging.info(f"📊 从 GraphNodes 读取到 {len(raw_nodes)} 个节点。")
     
-    untranslated_nodes = [n for n in raw_nodes if n.get("node_uuid") and n.get("node_uuid") not in existing_uuids]
+    untranslated_nodes = [n for n in raw_nodes if n.get("node_uuid") and str(n.get("node_uuid")) not in existing_uuids]
     total_untranslated = len(untranslated_nodes)
     logging.info(f"💡 共有 {total_untranslated} 个节点待翻译。")
     
@@ -290,15 +299,15 @@ def process_edge_translations(target_lang: str, batch_size: int = 100, limit: in
     logging.info(f"📊 已有 {len(existing_ids)} 条边存在 [{target_lang}] 翻译。")
     
     sql = (
-        "SELECT e.edge_id, e.rel_desc_en, "
+        "SELECT e.id AS edge_id, e.canonical_description_en AS rel_desc_en, "
         "sn.canonical_name_en AS source_name_en, tn.canonical_name_en AS target_name_en "
         "FROM GraphEdges e "
-        "JOIN GraphNodes sn ON e.source_uuid = sn.uuid "
-        "JOIN GraphNodes tn ON e.target_uuid = tn.uuid"
+        "JOIN GraphNodes sn ON e.start_uuid = sn.uuid "
+        "JOIN GraphNodes tn ON e.end_uuid = tn.uuid"
     )
     raw_edges = execute_d1_sql(sql, is_select=True)
     
-    untranslated_edges = [e for e in raw_edges if e.get("edge_id") and e.get("edge_id") not in existing_ids]
+    untranslated_edges = [e for e in raw_edges if e.get("edge_id") is not None and str(e.get("edge_id")) not in existing_ids]
     total_untranslated = len(untranslated_edges)
     logging.info(f"💡 共有 {total_untranslated} 条关系边待翻译。")
     
@@ -334,7 +343,7 @@ def process_edge_translations(target_lang: str, batch_size: int = 100, limit: in
             safe_desc = t["rel_desc"].replace("'", "''")
             sql = (
                 f"INSERT OR REPLACE INTO GraphEdgeTranslations (edge_id, lang_code, rel_desc) "
-                f"VALUES ({t['edge_id']}, '{t['lang_code']}', '{safe_desc}');"
+                f"VALUES ('{t['edge_id']}', '{t['lang_code']}', '{safe_desc}');"
             )
             update_sqls.append(sql)
             
