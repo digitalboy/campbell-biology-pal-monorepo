@@ -24,6 +24,10 @@ const props = defineProps({
     type: Boolean,
     default: false,
   },
+  targetQuestionId: {
+    type: String,
+    default: null,
+  },
 });
 
 const emit = defineEmits<{
@@ -54,7 +58,7 @@ watch(
           {{ $t('companionPanel.loadingError') }}
         </div>
         <template v-else>
-          <QuestionList :questions="data.questions" :is-loading="isLoading" />
+          <QuestionList :questions="data.questions" :is-loading="isLoading" :target-question-id="targetQuestionId" />
         </template>
       </div>
     </div>

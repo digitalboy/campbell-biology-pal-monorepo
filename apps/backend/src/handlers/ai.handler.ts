@@ -1,12 +1,11 @@
 // file: src/handlers/ai.handler.ts
 import { Context } from 'hono';
-import { streamSSE } from 'hono/streaming'; // 导入 streamSSE
+import { streamSSE } from 'hono/streaming';
 import { HonoContextVariables } from '../router';
 import { Env } from '../index';
-import { createCompletion, createCompletionStream, saveAiInteraction, getRecentAiInteractions, deleteAiInteraction, AiCompletionPayload } from '../services/ai.service';
+import { createCompletion, createCompletionStream, saveAiInteraction, getRecentAiInteractions, deleteAiInteraction, AiCompletionPayload, sanitizeModelName } from '../services/ai.service';
 import { CreateAiInteractionPayload } from '../models/ai.models';
 
-// The request body is now more generic to support various models.
 interface AiCompletionRequestBody extends AiCompletionPayload {}
 
 export const aiCompletionHandler = async (
@@ -14,34 +13,48 @@ export const aiCompletionHandler = async (
 ) => {
   try {
     const body = await c.req.json<AiCompletionRequestBody>();
+    if (!body.model) {
+      body.model = c.env.DEEPSEEK_MODEL || 'deepseek-v4-flash';
+    }
+    // 自动清洗模型标示符
+    body.model = sanitizeModelName(body.model);
+
     const { model, messages, stream: useStream } = body;
 
-    if (!model || !messages || !Array.isArray(messages) || messages.length === 0) {
-      return c.json({ ok: false, message: 'Invalid payload. `model` and a non-empty `messages` array are required.' }, 400);
+    if (!messages || !Array.isArray(messages) || messages.length === 0) {
+      return c.json({ ok: false, message: 'Invalid payload. A non-empty `messages` array is required.' }, 400);
     }
 
-    // --- Streaming Response Logic ---
+    // --- 流式响应逻辑 (带有容错防假死机制) ---
     if (useStream) {
       return streamSSE(c, async (stream) => {
-        // Pass the entire body payload to the service
-        const aiStream = await createCompletionStream(c.env, body);
+        try {
+          const aiStream = await createCompletionStream(c.env, body);
 
-        for await (const chunk of aiStream) {
-          const content = chunk.choices[0]?.delta?.content;
-          if (content) {
-            const jsonPayload = JSON.stringify({ content });
-            await stream.writeSSE({ data: jsonPayload });
+          for await (const chunk of aiStream) {
+            const content = chunk.choices[0]?.delta?.content;
+            if (content) {
+              const jsonPayload = JSON.stringify({ content });
+              await stream.writeSSE({ data: jsonPayload });
+            }
           }
-        }
 
-        await stream.writeSSE({
-          event: 'end',
-          data: JSON.stringify('[DONE]'),
-        });
+          await stream.writeSSE({
+            event: 'end',
+            data: JSON.stringify('[DONE]'),
+          });
+        } catch (streamErr: any) {
+          console.error('[AI Handler] Streaming Exception:', streamErr);
+          const errorMsg = streamErr?.message || String(streamErr);
+          await stream.writeSSE({
+            event: 'error',
+            data: JSON.stringify({ error: `[AI Error] ${errorMsg}` }),
+          });
+        }
       });
     }
 
-    // --- Non-Streaming Response Logic ---
+    // --- 非流式响应逻辑 ---
     const aiResponse = await createCompletion(c.env, body);
 
     if (aiResponse) {
@@ -60,7 +73,7 @@ export const aiCompletionHandler = async (
     }
 
   } catch (error: any) {
-    console.error('[AI Handler] Error:', error);
+    console.error('[AI Handler] Exception:', error);
     return c.json(
       {
         ok: false,
@@ -87,7 +100,6 @@ export const saveAiInteractionHandler = async (
 
     const payload: CreateAiInteractionPayload = await c.req.json();
 
-    // Updated validation to check for the 'messages' array.
     if (!payload.messages || !Array.isArray(payload.messages) || payload.messages.length === 0 || !payload.response) {
       return c.json({ ok: false, message: 'A non-empty messages array and a response are required.' }, 400);
     }
@@ -160,8 +172,6 @@ export const deleteAiInteractionHandler = async (
     if (deleted) {
       return c.json({ ok: true, message: 'AI interaction deleted successfully.' });
     } else {
-      // Return 404 if not found or 403 if not authorized (user doesn't own it)
-      // For security, it's better not to distinguish between these two cases.
       return c.json({ ok: false, message: 'AI interaction not found or unauthorized.' }, 404);
     }
   } catch (error: any) {

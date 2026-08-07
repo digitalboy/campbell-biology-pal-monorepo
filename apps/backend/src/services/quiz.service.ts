@@ -54,3 +54,22 @@ export const processAnswerSubmission = async (
     explanation,
   };
 };
+
+/**
+ * 根据 ID 查询单道题目的完整详情
+ */
+export const getQuestionById = async (env: Env, questionId: string): Promise<any | null> => {
+  const stmt = env.DB.prepare('SELECT * FROM Questions WHERE id = ?');
+  const q = await stmt.bind(questionId).first<any>();
+  if (!q) return null;
+
+  const correctAnswers = JSON.parse(q.correct_answers);
+  return {
+    ...q,
+    choice_type: correctAnswers.length > 1 ? 'multiple_choice' : 'single_choice',
+    question_text: JSON.parse(q.question_text),
+    options: JSON.parse(q.options),
+    correct_answers: correctAnswers,
+    explanation: JSON.parse(q.explanation),
+  };
+};

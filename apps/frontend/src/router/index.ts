@@ -13,6 +13,12 @@ const routes = [
     meta: { requiresAuth: true },
   },
   {
+    path: '/questions/:id',
+    name: 'QuestionDetail',
+    component: LearningView,
+    meta: { requiresAuth: true },
+  },
+  {
     path: '/login',
     name: 'Login',
     component: LoginView,

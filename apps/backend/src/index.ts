@@ -15,9 +15,10 @@ export interface Env {
   // Vars from wrangler.toml
   ENVIRONMENT: string;
   FIREBASE_PROJECT_ID: string;
-  // Dashscope (OpenAI-compatible) Credentials
-  DASHSCOPE_BASE_URL: string;
-  DASHSCOPE_API_KEY: string;
+  // DeepSeek API Credentials
+  DEEPSEEK_API_KEY?: string;
+  DEEPSEEK_BASE_URL?: string;
+  DEEPSEEK_MODEL?: string;
 }
 
 export default {

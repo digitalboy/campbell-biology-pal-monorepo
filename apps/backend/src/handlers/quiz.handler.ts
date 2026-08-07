@@ -47,3 +47,30 @@ export const submitAnswerHandler = async (
     return c.json({ ok: false, message: 'Failed to process answer submission.', error: error.message }, 500);
   }
 };
+
+/**
+ * Handles fetching a single question details by its ID.
+ * GET /api/v1/questions/:id
+ */
+export const getQuestionByIdHandler = async (
+  c: Context<{ Bindings: Env; Variables: HonoContextVariables }>
+) => {
+  const questionId = c.req.param('id');
+  if (!questionId) {
+    return c.json({ ok: false, message: 'Question ID is required.' }, 400);
+  }
+
+  try {
+    const { getQuestionById } = await import('../services/quiz.service');
+    const question = await getQuestionById(c.env, questionId);
+
+    if (!question) {
+      return c.json({ ok: false, message: 'Question not found.' }, 404);
+    }
+
+    return c.json({ ok: true, data: question });
+  } catch (error: any) {
+    console.error(`Error fetching question ${questionId}:`, error);
+    return c.json({ ok: false, message: 'Failed to fetch question.', error: error.message }, 500);
+  }
+};

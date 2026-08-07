@@ -1,6 +1,7 @@
 <!-- filepath: c:\DavidCode\campbell-biology-pal-v2-frontend\src\components\features\learning-interface\QuestionList.vue -->
 <script setup lang="ts">
-import { ref, computed } from 'vue';
+// 备注 (经验教训与规范): Vue 3 script setup 中必须显式从 'vue' 导入 watch，避免运行时报 ReferenceError: watch is not defined。
+import { ref, computed, watch } from 'vue';
 import { useI18n } from 'vue-i18n';
 import type { PropType } from 'vue';
 import type { Question } from '@/types/api';
@@ -32,11 +33,32 @@ const props = defineProps({
     type: Boolean,
     default: false,
   },
+  targetQuestionId: {
+    type: String,
+    default: null,
+  },
 });
 
 const currentQuestionIndex = ref(0);
+const isSheetOpen = ref(false);
 
 const currentQuestion = computed(() => props.questions[currentQuestionIndex.value]);
+
+// 监听 targetQuestionId 或 questions 变动，全自动定位目标题目并打开评论抽屉 Sheet
+watch(
+  [() => props.targetQuestionId, () => props.questions],
+  ([targetId, qList]) => {
+    if (targetId && qList && qList.length > 0) {
+      const idx = qList.findIndex((q) => q.id === targetId);
+      if (idx !== -1) {
+        currentQuestionIndex.value = idx;
+        // 核心：自动展开右侧评论抽屉组件
+        isSheetOpen.value = true;
+      }
+    }
+  },
+  { immediate: true }
+);
 
 function getQuestionAccuracy(question: Question): number {
   if (!question.userStats || question.userStats.totalAttempts === 0) {
@@ -267,8 +289,8 @@ function handleAnswerSubmitted(payload: { questionId: string; isCorrect: boolean
         <QuestionViewer :key="currentQuestion.id" :question="currentQuestion"
           @answer-submitted="handleAnswerSubmitted" />
 
-        <!-- Floating Comment Button -->
-        <Sheet>
+        <!-- Floating Comment Button & Drawer Sheet -->
+        <Sheet v-model:open="isSheetOpen">
           <SheetTrigger as-child>
             <Button variant="default" size="icon" class="absolute bottom-4 right-4 rounded-full shadow-lg">
               <MessageCirclePlus class="w-6 h-6" />

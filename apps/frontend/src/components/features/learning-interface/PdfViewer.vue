@@ -39,8 +39,24 @@ const props = defineProps({
   totalPages: {
     type: Number,
     default: 1,
-  }
+  },
+  openPdfComment: {
+    type: Boolean,
+    default: false,
+  },
 });
+
+const isSheetOpen = ref(false);
+
+watch(
+  () => props.openPdfComment,
+  (val) => {
+    if (val) {
+      isSheetOpen.value = true;
+    }
+  },
+  { immediate: true }
+);
 
 const emit = defineEmits(['update:pageNumber']);
 
@@ -262,8 +278,8 @@ function endPan() {
       </Button>
     </div>
 
-    <!-- Floating Comment Button -->
-    <Sheet>
+    <!-- Floating Comment Button & Left Drawer Sheet -->
+    <Sheet v-model:open="isSheetOpen">
       <SheetTrigger as-child>
         <Button variant="default" size="icon" class="absolute bottom-6 left-4 rounded-full shadow-lg">
           <MessageCirclePlus class="w-6 h-6" />

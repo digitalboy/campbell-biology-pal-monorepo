@@ -11,12 +11,13 @@ import { Hono } from 'hono';
 import { Env } from './index';
 import { syncUserHandler, getDashboardStatsHandler, getUserProfileHandler, updateUserProfileHandler } from './handlers/user.handler';
 import { getPageCompanionDataHandler } from './handlers/content.handler'; 
-import { submitAnswerHandler } from './handlers/quiz.handler';
+import { submitAnswerHandler, getQuestionByIdHandler } from './handlers/quiz.handler';
 import { getDueReviewsHandler, getWrongAnswersHandler, triggerReviewRemindersHandler } from './handlers/review.handler';
 import { getRelatedNodesHandler, getGraphDictionaryHandler, deleteNodeHandler } from './handlers/graph.handler';
 import { handleCreateComment, handleGetComments, handleDeleteComment, handleGetCommentById, getLeaderboardHandler } from './handlers/social.handler';
 import { aiCompletionHandler, saveAiInteractionHandler, getRecentAiInteractionsHandler, deleteAiInteractionHandler } from './handlers/ai.handler';
 import { getPageContentHandler, upsertPageContentHandler } from './handlers/pdfcontent.handler';
+import { getRobotsTxtHandler, getSitemapXmlHandler } from './handlers/seo.handler';
 import { cors } from 'hono/cors';
 import { authMiddleware } from './middleware/auth.middleware';
 import { adminMiddleware } from './middleware/admin.middleware';
@@ -30,7 +31,10 @@ const router = new Hono<{ Bindings: Env; Variables: HonoContextVariables }>();
 // --- Middlewares ---
 router.use('*', cors());
 
-// 根路由
+// SEO & 根路由
+router.get('/robots.txt', getRobotsTxtHandler);
+router.get('/sitemap.xml', getSitemapXmlHandler);
+
 router.get('/', (c) => {
   return c.json({
     ok: true,
@@ -60,7 +64,10 @@ router.post('/api/v1/admin/trigger-reminders', authMiddleware, adminMiddleware, 
 
 // --- Content & Quiz Routes ---
 router.get('/api/v1/pages/:pageNumber/companion-data', authMiddleware, getPageCompanionDataHandler);
-router.post('/api/v1/questions/:questionId/submit', authMiddleware, submitAnswerHandler);
+
+// --- Question Routes ---
+router.get('/api/v1/questions/:id', getQuestionByIdHandler);
+router.post('/api/v1/questions/:questionId/answers', authMiddleware, submitAnswerHandler);
 
 // --- Knowledge Graph Routes ---
 router.get('/api/v1/graph/dictionary', getGraphDictionaryHandler);

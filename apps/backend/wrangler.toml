@@ -22,10 +22,12 @@ name = "EMAIL"
 [triggers]
 crons = [ "0 0 * * *" ]
 
+# 备注 (经验教训与规范): DEEPSEEK_API_KEY 使用 wrangler secret put 统一存储，严禁在 wrangler.toml 中写入明文密钥
 [vars]
 ENVIRONMENT = "development"
 FIREBASE_PROJECT_ID = "beike-e6301"
-DASHSCOPE_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1" 
+DEEPSEEK_BASE_URL = "https://api.deepseek.com"
+DEEPSEEK_MODEL = "deepseek-v4-flash" 
 
 [observability.logs]
 enabled = true

@@ -1,13 +1,17 @@
-<!-- filepath: c:\...\learning-interface\LearningView.vue -->
 <script setup lang="ts">
-import { ref, watchEffect, watch } from 'vue';
+import { ref, watchEffect, watch, onMounted } from 'vue';
+import { useRoute } from 'vue-router';
+import { useI18n } from 'vue-i18n';
 import PdfViewer from '@/components/features/learning-interface/PdfViewer.vue';
 import CompanionPanel from '@/components/features/learning-interface/CompanionPanel.vue';
 
 import 'vue-sonner/style.css';
 
 import { useCompanionStore } from '@/stores/companionStore';
+import { api } from '@/services/apiClient';
 
+const route = useRoute();
+const { locale } = useI18n();
 const companionStore = useCompanionStore();
 
 const LAST_VISITED_PAGE_KEY = 'lastVisitedPage';
@@ -15,7 +19,6 @@ const TOTAL_PAGES = 1488; // Hardcoded total pages for now
 
 // Helper function to read the initial page from localStorage synchronously
 const getInitialPage = (): number => {
-  // Check if localStorage is available (for SSR or test environments)
   if (typeof window === 'undefined' || typeof window.localStorage === 'undefined') {
     return 1;
   }
@@ -27,57 +30,100 @@ const getInitialPage = (): number => {
       return pageNum;
     } 
   }
-  return 1; // Default to 1 if nothing valid is found
+  return 1;
 };
 
 const currentPage = ref(getInitialPage());
+const targetQuestionId = ref<string | null>(null);
+const openPdfComment = ref<boolean>(false);
 
 // Watch for changes in currentPage to save to localStorage
 watch(currentPage, (newPage) => {
   localStorage.setItem(LAST_VISITED_PAGE_KEY, newPage.toString());
 });
 
+// 处理深层链接路由 /questions/:id 以及 URL Query (?page=554&openPdfComment=true&lang=zh)
+const processQuestionDeepLink = async () => {
+  // 0. 检查 URL 多语言参数 ?lang=zh/en/es/fr/de/ja
+  const langQuery = (route.query.lang as string || '').toLowerCase();
+  if (langQuery && ['en', 'zh', 'es', 'fr', 'de', 'ja'].includes(langQuery)) {
+    locale.value = langQuery;
+  }
+
+  // 1. 检查路由参数 /questions/:id
+  const questionId = route.params.id as string;
+  if (questionId) {
+    targetQuestionId.value = questionId;
+    try {
+      const res = await api.getQuestionById(questionId);
+      if (res.ok && res.data && res.data.page_number) {
+        currentPage.value = res.data.page_number;
+      }
+    } catch (e) {
+      console.error('Failed to resolve question deep link page:', e);
+    }
+    return;
+  }
+
+  // 2. 检查 URL Query (?page=554&openPdfComment=true)
+  const pageQuery = route.query.page as string;
+  if (pageQuery) {
+    const pageNum = parseInt(pageQuery, 10);
+    if (!isNaN(pageNum) && pageNum > 0 && pageNum <= TOTAL_PAGES) {
+      currentPage.value = pageNum;
+    }
+  }
+
+  if (route.query.openPdfComment === 'true' || route.query.openComment === 'true') {
+    openPdfComment.value = true;
+  }
+};
+
+onMounted(() => {
+  processQuestionDeepLink();
+});
+
+watch(
+  () => [route.params.id, route.query.page, route.query.openPdfComment],
+  () => {
+    processQuestionDeepLink();
+  }
+);
+
 // Fetch companion data whenever the currentPage changes
 watchEffect(async () => {
-  // console.log('LearningView: watchEffect triggered for page', currentPage.value);
   await companionStore.fetchCompanionData(currentPage.value);
 });
 
 function handlePageChange(newPage: number) {
-  // console.log('LearningView: handlePageChange called with newPage', newPage);
   currentPage.value = newPage;
 }
 </script>
 
 <template>
-  <!-- 
-    【最终方案】: 使用 Flexbox 替代 Grid
-    - h-full: 让这个容器撑满父级 <main> 的高度。
-    - flex, lg:flex-row: 在大屏幕上是水平排列，在小屏幕上是垂直排列（移动端优先）。
-    - p-6, gap-6: 内边距和间距。
-  -->
   <div class="flex flex-col lg:flex-row h-full p-6 gap-6">
 
-    <!-- 
-      左侧面板容器
-      - flex-1: 让它占据可用空间的一半。
-      - min-w-0: 这是 Flexbox 的一个关键技巧，防止内部内容（如很宽的图片）撑破布局。
-    -->
+    <!-- 左侧面板容器 (PDF 阅读器 + 自动开启左侧评论抽屉) -->
     <div class="flex-1 min-w-0">
-      <PdfViewer :page-number="currentPage" :pdf-url="companionStore.companionData?.pageImageUrl"
+      <PdfViewer
+        :page-number="currentPage"
+        :pdf-url="companionStore.companionData?.pageImageUrl"
         :total-pages="1488"
-        @update:page-number="handlePageChange" />
+        :open-pdf-comment="openPdfComment"
+        @update:page-number="handlePageChange"
+      />
     </div>
 
-    <!-- 
-      右侧面板容器
-      - flex-1: 让它也占据可用空间的一半。
-      - min-w-0: 同样用于防止内容溢出。
-    -->
+    <!-- 右侧面板容器 (伴侣工作台 + 自动展开评论抽屉) -->
     <div class="flex-1 min-w-0">
-      <CompanionPanel :data="companionStore.companionData" :is-loading="companionStore.isLoading" @page-selected="handlePageChange" @request-graph-refresh="companionStore.fetchCompanionData(currentPage)" />
+      <CompanionPanel
+        :data="companionStore.companionData"
+        :is-loading="companionStore.isLoading"
+        :target-question-id="targetQuestionId"
+        @page-selected="handlePageChange"
+        @request-graph-refresh="companionStore.fetchCompanionData(currentPage)"
+      />
     </div>
-
 
   </div>
 </template>

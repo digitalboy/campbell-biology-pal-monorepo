@@ -47,10 +47,15 @@ export const commentService = {
    */
   async getComments(params: GetCommentsParams): Promise<PaginatedCommentsResponse['data']> {
     try {
-      // apiClient's getComments returns the full { ok, data } object.
-      // We extract and return the `data` property which contains items, total, etc.
-      const response = await api.getComments(params);
-      return response.data;
+      const response = await api.getComments(params) as any;
+      // apiClient 已自动剥离层级，兼容处理 response.items 或 response.data.items
+      if (response && Array.isArray(response.items)) {
+        return response;
+      }
+      if (response && response.data && Array.isArray(response.data.items)) {
+        return response.data;
+      }
+      return { items: [], total: 0, nextCursor: null };
     } catch (error) {
       console.error('Error fetching comments:', error);
       throw error;

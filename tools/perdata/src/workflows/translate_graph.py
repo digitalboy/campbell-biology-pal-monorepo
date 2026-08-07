@@ -6,7 +6,7 @@ translate_graph.py
 1. 全量断点续传 (Checkpoint/Resume): 自动查询 Cloudflare D1，跳过已翻译节点/边，0 重复消费。
 2. 节点与关系边双轮翻译: 全量覆盖 3,212 个概念节点与 12,090 条拓扑关系边。
 3. 批次安全入库 (Batch Commit): 每完成配置数量 (如 50 条) 自动保存提交至 D1 数据库。
-4. 强类型 JSON 约束: 自动生成目标语言专属学术名称、定义、同义别名与关系描述。
+4. 强类型 JSON 约束与失败防护: 当 API 失败时，绝不把原英文假冒目标语言写入数据库。
 """
 
 import os
@@ -17,16 +17,30 @@ import argparse
 import subprocess
 import time
 import httpx
-from typing import List, Dict, Any
+from pathlib import Path
+from typing import List, Dict, Any, Optional
 from openai import OpenAI
+from dotenv import load_dotenv
+
+# 备注 (经验教训与规范):
+# 自动寻找并加载 tools/perdata/.env 中的私密 API 凭证，严禁将明文密钥硬编码写入代码提交 GitHub。
+ENV_PATH = Path(__file__).resolve().parent.parent.parent / ".env"
+if ENV_PATH.exists():
+    load_dotenv(ENV_PATH)
+else:
+    load_dotenv()
 
 # 日志配置
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
-# 默认配置 (从环境变量安全读取 DEEPSEEK_API_KEY)
-DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
-DEEPSEEK_BASE_URL = "https://api.deepseek.com"
-DEEPSEEK_MODEL = "deepseek-chat"
+# 默认配置 (自动从环境变量 / .env 读取)
+DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "").strip()
+DEEPSEEK_BASE_URL = os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com").strip()
+DEEPSEEK_MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-v4-flash").strip()
+
+if not DEEPSEEK_API_KEY:
+    logging.error("❌ 错误: 未检测到 DEEPSEEK_API_KEY 环境变量，请在 .env 中设置或通过环境变量传入！")
+    sys.exit(1)
 
 # 配置带有本地 7890 代理的 HTTP 客户端以稳健访问 DeepSeek API
 http_client = httpx.Client(
@@ -53,40 +67,55 @@ LANG_NAMES = {
 
 def execute_d1_sql(sql_content: str, is_select: bool = False) -> List[Dict[str, Any]]:
     """在远程 Cloudflare D1 上安全执行 SQL"""
-    sql_file = None
+    temp_sql_path = Path(__file__).resolve().parent / "temp_query.sql"
+    
     if is_select:
-        clean_sql = sql_content.replace("\n", " ").strip()
-        cmd = f'npx cross-env HTTP_PROXY=http://127.0.0.1:7890 HTTPS_PROXY=http://127.0.0.1:7890 wrangler d1 execute campbell-biology-pal-db --remote --command="{clean_sql}" --json'
+        cmd = [
+            "npx.cmd" if sys.platform == "win32" else "npx",
+            "cross-env", "HTTP_PROXY=http://127.0.0.1:7890", "HTTPS_PROXY=http://127.0.0.1:7890",
+            "wrangler", "d1", "execute", "DB",
+            "--remote",
+            f"--command={sql_content}",
+            "--json"
+        ]
     else:
-        sql_file = "c:\\DavidCode\\campbell-biology-pal-monorepo\\apps\\backend\\src\\db\\temp_exec.sql"
-        with open(sql_file, "w", encoding="utf-8") as f:
+        with open(temp_sql_path, "w", encoding="utf-8") as f:
             f.write(sql_content)
-        cmd = f'npx cross-env HTTP_PROXY=http://127.0.0.1:7890 HTTPS_PROXY=http://127.0.0.1:7890 wrangler d1 execute campbell-biology-pal-db --remote --file="{sql_file}" --json'
-
+            
+        cmd = [
+            "npx.cmd" if sys.platform == "win32" else "npx",
+            "cross-env", "HTTP_PROXY=http://127.0.0.1:7890", "HTTPS_PROXY=http://127.0.0.1:7890",
+            "wrangler", "d1", "execute", "DB",
+            "--remote",
+            f"--file={temp_sql_path}",
+            "--json"
+        ]
+    
     try:
-        result = subprocess.run(
-            cmd, capture_output=True, text=True,
-            cwd="c:\\DavidCode\\campbell-biology-pal-monorepo\\apps\\backend", shell=True
-        )
+        curr_dir = Path(__file__).resolve()
+        while curr_dir.name != "campbell-biology-pal-monorepo" and curr_dir.parent != curr_dir:
+            curr_dir = curr_dir.parent
+        backend_dir = curr_dir / "apps" / "backend"
         
-        stdout = result.stdout.strip()
-        start_idx = stdout.find("[")
-        end_idx = stdout.rfind("]")
+        res = subprocess.run(cmd, cwd=backend_dir, capture_output=True, text=True, encoding="utf-8")
         
-        if start_idx == -1 or end_idx == -1 or end_idx <= start_idx:
-            return []
-        
-        json_str = stdout[start_idx:end_idx + 1]
-        parsed = json.loads(json_str)
-        if parsed and isinstance(parsed, list) and "results" in parsed[0]:
-            return parsed[0]["results"]
+        if temp_sql_path.exists():
+            temp_sql_path.unlink()
+            
+        stdout_str = (res.stdout or "").strip()
+        start_idx = stdout_str.find('[')
+        end_idx = stdout_str.rfind(']')
+        if start_idx != -1 and end_idx != -1 and end_idx >= start_idx:
+            json_str = stdout_str[start_idx:end_idx + 1]
+            data = json.loads(json_str)
+            if is_select and isinstance(data, list) and len(data) > 0:
+                return data[0].get("results", [])
         return []
     except Exception as e:
-        logging.error(f"解析 D1 JSON 输出失败: {e}")
+        logging.error(f"执行 D1 命令发生异常: {e}")
+        if temp_sql_path.exists():
+            temp_sql_path.unlink()
         return []
-    finally:
-        if sql_file and os.path.exists(sql_file):
-            os.remove(sql_file)
 
 def get_existing_node_translations(target_lang: str) -> set:
     """获取目前在 D1 数据库中已存在目标语言翻译的 Node UUID 集合"""
@@ -100,7 +129,7 @@ def get_existing_edge_translations(target_lang: str) -> set:
     results = execute_d1_sql(sql, is_select=True)
     return {r["edge_id"] for r in results if "edge_id" in r}
 
-def translate_node(node: Dict[str, Any], target_lang: str) -> Dict[str, Any]:
+def translate_node(node: Dict[str, Any], target_lang: str) -> Optional[Dict[str, Any]]:
     """使用 DeepSeek API 翻译单个生物学概念节点"""
     lang_name = LANG_NAMES.get(target_lang, target_lang)
     
@@ -135,42 +164,38 @@ def translate_node(node: Dict[str, Any], target_lang: str) -> Dict[str, Any]:
         parsed = json.loads(content)
         
         node_uuid = node.get("uuid") or node.get("node_uuid")
+        translated_name = parsed.get("name")
+        if not translated_name:
+            return None
+
         return {
             "node_uuid": node_uuid,
             "lang_code": target_lang,
-            "name": parsed.get("name", node.get("canonical_name_en")),
-            "definition": parsed.get("definition", node.get("canonical_def_en")),
+            "name": translated_name,
+            "definition": parsed.get("definition", ""),
             "aliases": json.dumps(parsed.get("aliases", []), ensure_ascii=False)
         }
     except Exception as e:
         node_uuid = node.get("uuid") or node.get("node_uuid")
-        logging.error(f"翻译节点 {node_uuid} 失败: {e}")
-        return {
-            "node_uuid": node_uuid,
-            "lang_code": target_lang,
-            "name": node.get("canonical_name_en"),
-            "definition": node.get("canonical_def_en"),
-            "aliases": "[]"
-        }
+        logging.error(f"❌ 翻译节点 {node_uuid} 失败: {e}")
+        return None
 
-def translate_edge(edge: Dict[str, Any], target_lang: str) -> Dict[str, Any]:
-    """使用 DeepSeek API 翻译单个拓扑关系边"""
+def translate_edge(edge: Dict[str, Any], target_lang: str) -> Optional[Dict[str, Any]]:
+    """使用 DeepSeek API 翻译两条节点之间的拓扑关系边"""
     lang_name = LANG_NAMES.get(target_lang, target_lang)
     
     sys_prompt = (
-        f"You are a biological domain knowledge graph expert. "
-        f"Translate the provided relationship label and detailed biological description into {lang_name}. "
-        f"Return strictly valid JSON with no extra markdown in the following format:\n"
+        f"You are a biology education expert. Translate the biological relationship description into {lang_name}.\n"
+        f"Return strictly valid JSON:\n"
         f"{{\n"
-        f'  "label": "Concise relationship label in {lang_name} (e.g. Function, Causality, Composition)",\n'
-        f'  "description": "Detailed explanation of the relationship in {lang_name}"\n'
-        f"}}\n"
+        f'  "relation_description": "Translated relationship in {lang_name}"\n'
+        f"}}"
     )
     
     user_prompt = (
-        f"Edge Type: {edge.get('edge_type')}\n"
-        f"English Label: {edge.get('canonical_label_en') or edge.get('edge_type')}\n"
-        f"English Description: {edge.get('canonical_description_en') or ''}"
+        f"Subject: {edge.get('source_name_en')}\n"
+        f"Object: {edge.get('target_name_en')}\n"
+        f"Relationship (EN): {edge.get('rel_desc_en')}"
     )
     
     try:
@@ -185,23 +210,18 @@ def translate_edge(edge: Dict[str, Any], target_lang: str) -> Dict[str, Any]:
         )
         content = response.choices[0].message.content.strip()
         parsed = json.loads(content)
-        
-        edge_id = edge.get("id") or edge.get("edge_id")
+        rel_desc = parsed.get("relation_description")
+        if not rel_desc:
+            return None
+
         return {
-            "edge_id": edge_id,
+            "edge_id": edge.get("edge_id"),
             "lang_code": target_lang,
-            "label": parsed.get("label", edge.get("canonical_label_en") or edge.get("edge_type")),
-            "description": parsed.get("description", edge.get("canonical_description_en") or "")
+            "rel_desc": rel_desc
         }
     except Exception as e:
-        edge_id = edge.get("id") or edge.get("edge_id")
-        logging.error(f"翻译关系边 {edge_id} 失败: {e}")
-        return {
-            "edge_id": edge_id,
-            "lang_code": target_lang,
-            "label": edge.get("canonical_label_en") or edge.get("edge_type"),
-            "description": edge.get("canonical_description_en") or ""
-        }
+        logging.error(f"❌ 翻译关系边 {edge.get('edge_id')} 失败: {e}")
+        return None
 
 def process_node_translations(target_lang: str, batch_size: int = 50, limit: int = 0):
     """批量处理概念节点翻译与断点续传增量导入"""
@@ -209,10 +229,11 @@ def process_node_translations(target_lang: str, batch_size: int = 50, limit: int
     existing_uuids = get_existing_node_translations(target_lang)
     logging.info(f"📊 已有 {len(existing_uuids)} 个节点存在 [{target_lang}] 翻译。")
     
-    sql = "SELECT uuid, canonical_name_en, canonical_def_en FROM GraphNodes"
+    sql = "SELECT uuid AS node_uuid, canonical_name_en, canonical_def_en FROM GraphNodes"
     raw_nodes = execute_d1_sql(sql, is_select=True)
+    logging.info(f"📊 从 GraphNodes 读取到 {len(raw_nodes)} 个节点。")
     
-    untranslated_nodes = [n for n in raw_nodes if n.get("uuid") and n.get("uuid") not in existing_uuids]
+    untranslated_nodes = [n for n in raw_nodes if n.get("node_uuid") and n.get("node_uuid") not in existing_uuids]
     total_untranslated = len(untranslated_nodes)
     logging.info(f"💡 共有 {total_untranslated} 个节点待翻译。")
     
@@ -223,7 +244,6 @@ def process_node_translations(target_lang: str, batch_size: int = 50, limit: int
     target_nodes = untranslated_nodes[:limit] if limit > 0 else untranslated_nodes
     logging.info(f"🚀 本次计划处理 {len(target_nodes)} 个节点 (批次大小: {batch_size})")
 
-    # 分批处理 (Batching)
     for i in range(0, len(target_nodes), batch_size):
         batch = target_nodes[i:i + batch_size]
         batch_num = (i // batch_size) + 1
@@ -235,10 +255,16 @@ def process_node_translations(target_lang: str, batch_size: int = 50, limit: int
         for idx, node in enumerate(batch, 1):
             name_en = node.get('canonical_name_en')
             trans = translate_node(node, target_lang)
-            translations.append(trans)
-            logging.info(f"  └─ [{idx}/{len(batch)}] {name_en} -> {trans['name']}")
+            if trans:
+                translations.append(trans)
+                logging.info(f"  └─ [{idx}/{len(batch)}] {name_en} -> {trans['name']}")
+            else:
+                logging.warning(f"  └─ [{idx}/{len(batch)}] {name_en} -> [翻译失败，跳过写入]")
         
-        # 批量写入 D1
+        if not translations:
+            logging.warning(f"⚠️ 批次 [{batch_num}/{total_batches}] 无有效翻译结果，跳过提交。")
+            continue
+
         update_sqls = []
         for t in translations:
             safe_name = t["name"].replace("'", "''")
@@ -263,72 +289,77 @@ def process_edge_translations(target_lang: str, batch_size: int = 100, limit: in
     existing_ids = get_existing_edge_translations(target_lang)
     logging.info(f"📊 已有 {len(existing_ids)} 条边存在 [{target_lang}] 翻译。")
     
-    sql = "SELECT id, edge_type, canonical_label_en, canonical_description_en FROM GraphEdges"
+    sql = (
+        "SELECT e.edge_id, e.rel_desc_en, "
+        "sn.canonical_name_en AS source_name_en, tn.canonical_name_en AS target_name_en "
+        "FROM GraphEdges e "
+        "JOIN GraphNodes sn ON e.source_uuid = sn.uuid "
+        "JOIN GraphNodes tn ON e.target_uuid = tn.uuid"
+    )
     raw_edges = execute_d1_sql(sql, is_select=True)
     
-    untranslated_edges = [e for e in raw_edges if e.get("id") and e.get("id") not in existing_ids]
+    untranslated_edges = [e for e in raw_edges if e.get("edge_id") and e.get("edge_id") not in existing_ids]
     total_untranslated = len(untranslated_edges)
     logging.info(f"💡 共有 {total_untranslated} 条关系边待翻译。")
     
     if total_untranslated == 0:
-        logging.info("🎉 全量关系边已完成翻译，无需处理！")
+        logging.info("🎉 全量拓扑关系边已完成翻译，无需处理！")
         return
 
     target_edges = untranslated_edges[:limit] if limit > 0 else untranslated_edges
-    logging.info(f"🚀 本次计划处理 {len(target_edges)} 条关系边 (批次大小: {batch_size})")
+    logging.info(f"🚀 本次计划处理 {len(target_edges)} 条边 (批次大小: {batch_size})")
 
-    # 分批处理 (Batching)
     for i in range(0, len(target_edges), batch_size):
         batch = target_edges[i:i + batch_size]
         batch_num = (i // batch_size) + 1
         total_batches = (len(target_edges) + batch_size - 1) // batch_size
         
-        logging.info(f"📦 启动关系边批次 [{batch_num}/{total_batches}] (包含 {len(batch)} 条边)...")
+        logging.info(f"📦 启动批次 [{batch_num}/{total_batches}] (包含 {len(batch)} 条边)...")
         translations = []
         
         for idx, edge in enumerate(batch, 1):
-            label_en = edge.get('canonical_label_en') or edge.get('edge_type')
             trans = translate_edge(edge, target_lang)
-            translations.append(trans)
-            if idx % 10 == 0 or idx == len(batch):
-                logging.info(f"  └─ [{idx}/{len(batch)}] {label_en} -> {trans['label']}")
+            if trans:
+                translations.append(trans)
+                logging.info(f"  └─ [{idx}/{len(batch)}] Edge #{edge.get('edge_id')} -> {trans['rel_desc']}")
+            else:
+                logging.warning(f"  └─ [{idx}/{len(batch)}] Edge #{edge.get('edge_id')} -> [翻译失败，跳过写入]")
         
-        # 批量写入 D1
+        if not translations:
+            logging.warning(f"⚠️ 批次 [{batch_num}/{total_batches}] 无有效翻译结果，跳过提交。")
+            continue
+
         update_sqls = []
         for t in translations:
-            safe_label = t["label"].replace("'", "''")
-            safe_desc = (t["description"] or "").replace("'", "''")
-            desc_val = f"'{safe_desc}'" if safe_desc else "NULL"
-            
+            safe_desc = t["rel_desc"].replace("'", "''")
             sql = (
-                f"INSERT OR REPLACE INTO GraphEdgeTranslations (edge_id, lang_code, label, description) "
-                f"VALUES ('{t['edge_id']}', '{t['lang_code']}', '{safe_label}', {desc_val});"
+                f"INSERT OR REPLACE INTO GraphEdgeTranslations (edge_id, lang_code, rel_desc) "
+                f"VALUES ({t['edge_id']}, '{t['lang_code']}', '{safe_desc}');"
             )
             update_sqls.append(sql)
             
         import_sql = "\n".join(update_sqls)
-        logging.info(f"💾 正在将关系边批次 [{batch_num}/{total_batches}] 提交保存至 Cloudflare D1...")
+        logging.info(f"💾 正在将批次 [{batch_num}/{total_batches}] 提交保存至 Cloudflare D1...")
         execute_d1_sql(import_sql, is_select=False)
-        logging.info(f"✅ 关系边批次 [{batch_num}/{total_batches}] 保存成功！")
+        logging.info(f"✅ 批次 [{batch_num}/{total_batches}] 保存成功！")
 
 def main():
-    parser = argparse.ArgumentParser(description="多语言知识图谱 DeepSeek-V4 AI 自动翻译与 D1 全量写入引擎")
-    parser.add_argument("--target-lang", type=str, default="es", help="目标语言代码 (如: es, fr, ja, de)")
-    parser.add_argument("--type", type=str, choices=["nodes", "edges", "all"], default="all", help="翻译对象: nodes, edges 或 all")
-    parser.add_argument("--batch-size", type=int, default=50, help="每批次提交入库数量")
-    parser.add_argument("--limit", type=int, default=0, help="限制最大处理条数 (0 表示不限制，全量处理)")
+    parser = argparse.ArgumentParser(description="DeepSeek-V4 多语言知识图谱 AI 翻译工作流")
+    parser.add_argument("--target-lang", type=str, required=True, help="目标语言代码 (如: es, fr, ja, de)")
+    parser.add_argument("--batch-size", type=int, default=50, help="批次 Commit 大小")
+    parser.add_argument("--type", type=str, choices=["nodes", "edges", "all"], default="all", help="翻译类型 (nodes/edges/all)")
+    parser.add_argument("--limit", type=int, default=0, help="限制翻译条目数量 (0 为无限制)")
+    
     args = parser.parse_args()
-
-    logging.info(f"🌟 启动 DeepSeek-V4-Flash 知识图谱全量自动翻译引擎...")
-    logging.info(f"目标语言: {args.target_lang} ({LANG_NAMES.get(args.target_lang, '未知')}), 翻译模式: {args.type}")
-
+    
+    logging.info("🌟 启动 DeepSeek-V4-Flash 知识图谱全量自动翻译引擎...")
+    logging.info(f"目标语言: {args.target_lang} ({LANG_NAMES.get(args.target_lang, '未指定')}), 翻译模式: {args.type}")
+    
     if args.type in ["nodes", "all"]:
         process_node_translations(target_lang=args.target_lang, batch_size=args.batch_size, limit=args.limit)
-
+        
     if args.type in ["edges", "all"]:
-        process_edge_translations(target_lang=args.target_lang, batch_size=100, limit=args.limit)
-
-    logging.info(f"✨ 目标语言 [{args.target_lang}] 全量知识图谱翻译与 D1 导入全部圆满完成！")
+        process_edge_translations(target_lang=args.target_lang, batch_size=args.batch_size, limit=args.limit)
 
 if __name__ == "__main__":
     main()

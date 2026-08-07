@@ -2,9 +2,10 @@ import { Context } from 'hono';
 import { Env } from '../index';
 import { HonoContextVariables } from '../router';
 import { SocialService } from '../services/social.service';
-import { Comment, LeaderboardUser } from '../models/social.models'; // Import Comment interface
+import { getUserProfile } from '../services/user.service';
+import { sendCommentReplyEmail } from '../services/email.service';
+import { Comment, LeaderboardUser } from '../models/social.models';
 
-// Define the expected request body for creating a comment
 interface CreateCommentPayload {
     parentType: 'page' | 'question';
     parentId: string;
@@ -12,7 +13,6 @@ interface CreateCommentPayload {
     parentCommentId?: string | null;
 }
 
-// Define a generic PaginatedResponse structure for consistency
 interface PaginatedResponse<T> {
     ok: boolean;
     data: {
@@ -25,22 +25,27 @@ interface PaginatedResponse<T> {
 /**
  * Handles the creation of a new comment.
  * POST /api/v1/comments
+ * 
+ * 备注 (经验教训与规范):
+ * 1. 评论回复触发 Cloudflare Native Email Sending (`c.env.EMAIL`)。
+ * 2. 规则：无论是他人回复我，还是我自己回复我，均使用 c.executionCtx.waitUntil 进行异步非阻塞邮件发送，
+ *    确保 API 毫秒级极速响应，不影响前端 UI。
  */
 export async function handleCreateComment(c: Context<{ Bindings: Env; Variables: HonoContextVariables }>) {
     try {
-        const userId = c.get('userId'); // Get userId from authMiddleware
+        const userId = c.get('userId');
         if (!userId) {
             return c.json({ ok: false, message: 'Unauthorized: User ID not found in context.' }, 401);
         }
 
         const payload: CreateCommentPayload = await c.req.json();
 
-        // Basic validation
         if (!payload.parentType || !payload.parentId || !payload.content) {
             return c.json({ ok: false, message: 'Missing required fields: parentType, parentId, and content are required.' }, 400);
         }
 
         const socialService = new SocialService(c.env.DB);
+
         const newComment: Comment = await socialService.createComment(
             userId,
             payload.parentType,
@@ -49,11 +54,64 @@ export async function handleCreateComment(c: Context<{ Bindings: Env; Variables:
             payload.parentCommentId
         );
 
+        // --- 异步触发评论回复邮件通知 ---
+        if (payload.parentCommentId && c.env.EMAIL) {
+            c.executionCtx.waitUntil((async () => {
+                try {
+                    // 查询被回复的父评论记录
+                    const parentComment = await socialService.getCommentTreeById(payload.parentCommentId!);
+                    if (!parentComment) return;
+
+                    // 查询被回复人 UserProfile 与 当前回复人 UserProfile
+                    const [parentUser, currentUser] = await Promise.all([
+                        getUserProfile(c.env, parentComment.user_id),
+                        getUserProfile(c.env, userId),
+                    ]);
+
+                    const replierName = currentUser?.nickname || 'A fellow biology learner';
+                    const targetLink = payload.parentType === 'question'
+                        ? `https://biopal-campbell.beikee.org/questions/${payload.parentId}`
+                        : `https://biopal-campbell.beikee.org/?page=${encodeURIComponent(payload.parentId)}&openPdfComment=true`;
+
+                    // 构建收件人清单 (去重 Set):
+                    // 1. 被回复者 parentUser (若有 email)
+                    // 2. 当前回复者 currentUser (依据需求：“我自己回复的，也会收到邮件”)
+                    const recipientsMap = new Map<string, { email: string; nickname: string }>();
+                    if (parentUser?.email) {
+                        recipientsMap.set(parentUser.email.toLowerCase(), {
+                            email: parentUser.email,
+                            nickname: parentUser.nickname || 'Learner',
+                        });
+                    }
+                    if (currentUser?.email) {
+                        recipientsMap.set(currentUser.email.toLowerCase(), {
+                            email: currentUser.email,
+                            nickname: currentUser.nickname || 'Learner',
+                        });
+                    }
+
+                    // 批量触发非阻塞邮件发送
+                    for (const recipient of recipientsMap.values()) {
+                        await sendCommentReplyEmail(
+                            c.env.EMAIL,
+                            recipient,
+                            replierName,
+                            parentComment.content,
+                            payload.content,
+                            targetLink
+                        );
+                    }
+                } catch (emailErr) {
+                    console.error('[SocialHandler] Failed to dispatch reply email notification:', emailErr);
+                }
+            })());
+        }
+
         return c.json({
             ok: true,
             message: 'Comment created successfully.',
             comment: newComment,
-        }, 201); // 201 Created
+        }, 201);
     } catch (error: any) {
         console.error('Error creating comment:', error);
         return c.json({ ok: false, message: 'Failed to create comment.', error: error.message }, 500);

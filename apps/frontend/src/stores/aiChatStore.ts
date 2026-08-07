@@ -1,13 +1,14 @@
 import { ref } from 'vue';
 import { defineStore } from 'pinia';
 import { aiChatService } from '@/services/aiChatService';
-import { useAiInteractionStore } from './aiInteractionHistoryStore'; // Import the new store
+import { useAiInteractionStore } from './aiInteractionHistoryStore';
 import type { AiCompletionRequest, AiCompletionResponse, CreateAiInteractionPayload } from '@/types/api';
 
 interface ChatMessage {
   role: 'user' | 'assistant';
   content: string;
-  interactionId?: string; // Add this optional property
+  interactionId?: string;
+  isError?: boolean;
 }
 
 export const useAiChatStore = defineStore('aiChat', () => {
@@ -17,39 +18,25 @@ export const useAiChatStore = defineStore('aiChat', () => {
   const error = ref<string | null>(null);
 
   // --- Actions ---
-
-  /**
-   * Adds a message to the chat history.
-   * @param role The role of the message sender ('user' or 'assistant').
-   * @param content The content of the message.
-   */
-  function addMessage(role: 'user' | 'assistant', content: string, interactionId?: string) {
-    messages.value.push({ role, content, interactionId });
+  function addMessage(role: 'user' | 'assistant', content: string, interactionId?: string, isError: boolean = false) {
+    messages.value.push({ role, content, interactionId, isError });
   }
 
-  /**
-   * Sends a message to the AI model and handles the response.
-   * @param prompt The user's prompt.
-   * @param systemPrompt An optional system prompt.
-   * @param stream Whether to stream the response.
-   */
-  async function sendMessage(prompt: string, systemPrompt?: string, stream: boolean = false, contextData?: any) {
+  async function sendMessage(prompt: string, systemPrompt?: string, stream: boolean = true, contextData?: any) {
     isLoading.value = true;
     error.value = null;
-    // The user message is the 'prompt', and it's added to our local history.
     addMessage('user', prompt);
 
     const aiInteractionStore = useAiInteractionStore();
 
     try {
-      // The new API expects the full conversation history.
-      // We map our local message history to the format required by the API.
       const apiMessages = messages.value.map(({ role, content }) => ({
         role,
-        content: content as any, // Content is just string for now
+        content: content as any,
       }));
 
-      const model = 'qwen-turbo'; // Text-only model
+      // 使用 DeepSeek 官方最新的 deepseek-v4-flash (DeepSeek-V4-Flash-0731)
+      const model = 'deepseek-v4-flash';
 
       const payload: AiCompletionRequest = {
         model,
@@ -58,43 +45,68 @@ export const useAiChatStore = defineStore('aiChat', () => {
         stream,
       };
 
-      // Call the updated service method
       const response = await aiChatService.aiCompletion(payload);
-
-      let assistantResponseContent = ''; // To store the full assistant response for saving
+      let assistantResponseContent = '';
 
       if (stream) {
-        // Handle Server-Sent Events (SSE)
         const reader = (response as ReadableStream<Uint8Array>).getReader();
         const decoder = new TextDecoder();
         addMessage('assistant', '');
         let buffer = '';
+        let currentEvent = '';
 
         while (true) {
           const { done, value } = await reader.read();
-          if (done) {
-            break;
-          }
+          if (done) break;
 
           buffer += decoder.decode(value, { stream: true });
           const lines = buffer.split('\n');
-          buffer = lines.pop() || ''; // Keep the last, possibly incomplete, line in the buffer
+          buffer = lines.pop() || '';
 
           for (const line of lines) {
-            if (line.startsWith('data:')) {
-              const data = line.substring(5).trim();
-              if (data === '[DONE]') {
-                // End of stream signal from the server, exit the loop
-                break;
+            const trimmed = line.trim();
+            if (trimmed.startsWith('event:')) {
+              currentEvent = trimmed.substring(6).trim();
+              continue;
+            }
+
+            if (trimmed.startsWith('data:')) {
+              const dataStr = trimmed.substring(5).trim();
+              if (dataStr === '[DONE]') break;
+
+              try {
+                const parsed = JSON.parse(dataStr);
+                
+                // 处理后端传递的错误事件
+                if (currentEvent === 'error' || parsed.error) {
+                  const errMsg = parsed.error || 'AI 服务响应异常';
+                  error.value = errMsg;
+                  messages.value[messages.value.length - 1].content = `⚠️ ${errMsg}`;
+                  messages.value[messages.value.length - 1].isError = true;
+                  break;
+                }
+
+                if (parsed.content) {
+                  assistantResponseContent += parsed.content;
+                  messages.value[messages.value.length - 1].content = assistantResponseContent;
+                }
+              } catch {
+                // 如果不是 JSON，直接拼接字符串 chunk
+                assistantResponseContent += dataStr;
+                messages.value[messages.value.length - 1].content = assistantResponseContent;
               }
-              // Per OpenAPI spec, the data is a string chunk
-              assistantResponseContent += data;
-              messages.value[messages.value.length - 1].content = assistantResponseContent;
             }
           }
         }
+
+        // 防隐形死机容错：如果流结束但未收到任何有效内容，弹出可感知 UI 提示
+        if (!assistantResponseContent && !error.value) {
+          const fallbackErr = '未能获取到 AI 回答，请检查网络或配置。';
+          error.value = fallbackErr;
+          messages.value[messages.value.length - 1].content = `⚠️ ${fallbackErr}`;
+          messages.value[messages.value.length - 1].isError = true;
+        }
       } else {
-        // Handle non-streaming response
         const aiResponse = response as AiCompletionResponse;
         if (aiResponse.ok) {
           assistantResponseContent = typeof aiResponse.response === 'object'
@@ -103,27 +115,19 @@ export const useAiChatStore = defineStore('aiChat', () => {
           addMessage('assistant', assistantResponseContent);
         } else {
           error.value = (aiResponse as any).message || 'AI response not OK.';
-          addMessage('assistant', `Error: ${error.value}`);
+          addMessage('assistant', `⚠️ ${error.value}`, undefined, true);
         }
       }
 
-      // Save AI interaction after successful response
-      if (assistantResponseContent) {
-        // FIX: The /ai/interactions endpoint expects message.content to be an object/array,
-        // not a plain string, due to an inconsistency in the OpenAPI specs.
-        // We transform the messages array here to match the required format for saving.
-        const messagesForHistory = apiMessages.map(msg => {
-          if (typeof msg.content === 'string') {
-            return {
-              role: msg.role,
-              content: [{ type: 'text', text: msg.content }],
-            };
-          }
-          return msg; // Should not happen in text-only chat, but good practice
-        });
+      // 保存成功交互历史
+      if (assistantResponseContent && !error.value) {
+        const messagesForHistory = apiMessages.map(msg => ({
+          role: msg.role,
+          content: typeof msg.content === 'string' ? [{ type: 'text', text: msg.content }] : msg.content,
+        }));
 
         const interactionPayload: CreateAiInteractionPayload = {
-          messages: messagesForHistory as any, // Pass the transformed messages
+          messages: messagesForHistory as any,
           response: assistantResponseContent,
           model_used: model,
         };
@@ -132,36 +136,31 @@ export const useAiChatStore = defineStore('aiChat', () => {
           if (contextData.type === 'node' && contextData.nodeId) {
             interactionPayload.parent_type = 'node';
             interactionPayload.parent_id = contextData.nodeId;
-          } else if (contextData.type === 'question' && contextData.questionId) { // Assuming questionId exists
+          } else if (contextData.type === 'question' && contextData.questionId) {
             interactionPayload.parent_type = 'question';
             interactionPayload.parent_id = contextData.questionId;
-          } else if (contextData.type === 'page' && contextData.pageNumber) { // Assuming pageNumber exists
-            interactionPayload.parent_type = 'pdf'; // OpenAPI uses 'pdf' for page
+          } else if (contextData.type === 'page' && contextData.pageNumber) {
+            interactionPayload.parent_type = 'pdf';
             interactionPayload.parent_id = String(contextData.pageNumber);
           }
         }
+
         const newInteraction = await aiInteractionStore.saveInteraction(interactionPayload);
-        // Find the assistant's message that was just added and update its interactionId
         const lastAssistantMessage = messages.value[messages.value.length - 1];
         if (lastAssistantMessage && lastAssistantMessage.role === 'assistant') {
           lastAssistantMessage.interactionId = newInteraction.id;
         }
       }
 
-    } catch (e) {
-      const apiError = e as any;
-      error.value = apiError.message || 'Failed to get AI response.';
-      addMessage('assistant', `Error: ${error.value}`);
+    } catch (e: any) {
+      error.value = e?.message || '请求 AI 服务失败，请重试。';
+      addMessage('assistant', `⚠️ ${error.value}`, undefined, true);
       console.error('Error sending message to AI:', e);
-    }
-    finally {
+    } finally {
       isLoading.value = false;
     }
   }
 
-  /**
-   * Clears the chat history.
-   */
   function clearChat() {
     messages.value = [];
     error.value = null;

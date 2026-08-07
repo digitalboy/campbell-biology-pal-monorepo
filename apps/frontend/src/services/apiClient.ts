@@ -126,6 +126,9 @@ class ApiClient {
   public deleteAiInteraction = (id: string): Promise<{ ok: boolean; message: string }> =>
     this.axiosInstance.delete(`/ai/interactions/${id}`).then(res => res.data);
 
+  public getQuestionById = (questionId: string): Promise<{ ok: boolean; data: Question }> =>
+    this.axiosInstance.get(`/questions/${questionId}`).then(res => res.data);
+
   public search = (query: string): Promise<SearchResults> =>
     this.axiosInstance.get('/search', { params: { q: query } }).then(res => res.data);
 }

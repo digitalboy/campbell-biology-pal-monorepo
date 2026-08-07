@@ -15,6 +15,8 @@ export const useCommentStore = defineStore('comment', () => {
 
   // --- Actions ---
 
+  // 备注 (经验教训与规范):
+  // 必须使用 responseData?.items 安全防空解构，防止 api 层二次解构 response.data 时导致 responseData 变为 undefined 引发 TypeError: Cannot read properties of undefined (reading 'items')。
   async function fetchComments(parentType: 'page' | 'question', parentId: string, limit: number = 10, cursor: string | null = null, myComments: boolean = false) {
     isLoading.value = true;
     error.value = null;
@@ -27,15 +29,19 @@ export const useCommentStore = defineStore('comment', () => {
         myComments, // Pass the new parameter
       });
 
+      const items = responseData?.items || [];
+      const total = responseData?.total || 0;
+      const nextCursorVal = responseData?.nextCursor || null;
+
       if (cursor === null) {
         // First load, replace comments
-        comments.value = responseData.items;
+        comments.value = items;
       } else {
         // Subsequent load, append comments
-        comments.value = [...comments.value, ...responseData.items];
+        comments.value = [...comments.value, ...items];
       }
-      totalComments.value = responseData.total;
-      nextCursor.value = responseData.nextCursor;
+      totalComments.value = total;
+      nextCursor.value = nextCursorVal;
 
     } catch (e) {
       const apiError = e as any;
