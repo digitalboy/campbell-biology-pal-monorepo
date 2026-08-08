@@ -68,6 +68,8 @@ router.get('/api/v1/pages/:pageNumber/companion-data', authMiddleware, getPageCo
 // --- Question Routes ---
 router.get('/api/v1/questions/:id', getQuestionByIdHandler);
 router.post('/api/v1/questions/:questionId/answers', authMiddleware, submitAnswerHandler);
+// 备注 (经验教训): 兼容前端 apiClient.ts 发起的 /submit 路径，防止后端只绑定 /answers 导致 404 Not Found
+router.post('/api/v1/questions/:questionId/submit', authMiddleware, submitAnswerHandler);
 
 // --- Knowledge Graph Routes ---
 router.get('/api/v1/graph/dictionary', getGraphDictionaryHandler);
