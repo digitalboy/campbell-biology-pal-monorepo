@@ -14,7 +14,7 @@ import { syncUserHandler, getDashboardStatsHandler, getUserProfileHandler, updat
 import { getPageCompanionDataHandler } from './handlers/content.handler'; 
 import { submitAnswerHandler, getQuestionByIdHandler } from './handlers/quiz.handler';
 import { getDueReviewsHandler, getWrongAnswersHandler, triggerReviewRemindersHandler } from './handlers/review.handler';
-import { getRelatedNodesHandler, getGraphDictionaryHandler, deleteNodeHandler } from './handlers/graph.handler';
+import { getRelatedNodesHandler, getGraphDictionaryHandler, deleteNodeHandler, searchGraphHandler } from './handlers/graph.handler';
 import { handleCreateComment, handleGetComments, handleDeleteComment, handleGetCommentById, getLeaderboardHandler } from './handlers/social.handler';
 import { aiCompletionHandler, saveAiInteractionHandler, getRecentAiInteractionsHandler, deleteAiInteractionHandler } from './handlers/ai.handler';
 import { getPageContentHandler, upsertPageContentHandler } from './handlers/pdfcontent.handler';
@@ -71,6 +71,9 @@ router.get('/api/v1/questions/:id', getQuestionByIdHandler);
 router.post('/api/v1/questions/:questionId/answers', authMiddleware, submitAnswerHandler);
 // 备注 (经验教训): 兼容前端 apiClient.ts 发起的 /submit 路径，防止后端只绑定 /answers 导致 404 Not Found
 router.post('/api/v1/questions/:questionId/submit', authMiddleware, submitAnswerHandler);
+
+// --- Global Search Routes ---
+router.get('/api/v1/search', searchGraphHandler);
 
 // --- Knowledge Graph Routes ---
 router.get('/api/v1/graph/dictionary', getGraphDictionaryHandler);

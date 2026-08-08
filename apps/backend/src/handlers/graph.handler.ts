@@ -131,3 +131,41 @@ export const deleteNodeHandler = async (
     );
   }
 };
+
+/**
+ * 全局关键词模糊搜索 Handler (适配 apiClient.ts 的 /search 接口)
+ */
+export const searchGraphHandler = async (
+  c: Context<{ Bindings: Env; Variables: HonoContextVariables }>
+) => {
+  const query = (c.req.query('q') || '').trim();
+  if (!query) {
+    return c.json({ ok: true, nodes: [], questions: [] });
+  }
+
+  try {
+    const safeQ = `%${query}%`;
+    const { results: nodeResults } = await c.env.DB.prepare(
+      `SELECT n.uuid, n.canonical_name_en AS name
+       FROM GraphNodes n
+       WHERE n.canonical_name_en LIKE ? OR n.uuid LIKE ?
+       LIMIT 10;`
+    ).bind(safeQ, safeQ).all<any>();
+
+    const { results: questionResults } = await c.env.DB.prepare(
+      `SELECT q.id, q.stem_zh AS stem
+       FROM Questions q
+       WHERE q.stem_zh LIKE ? OR q.stem_en LIKE ?
+       LIMIT 10;`
+    ).bind(safeQ, safeQ).all<any>();
+
+    return c.json({
+      ok: true,
+      nodes: nodeResults || [],
+      questions: questionResults || [],
+    });
+  } catch (error: any) {
+    console.error('[Search Handler] Search error:', error);
+    return c.json({ ok: false, message: 'Search failed', error: error.message }, 500);
+  }
+};
