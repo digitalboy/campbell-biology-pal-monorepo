@@ -1,10 +1,11 @@
 /**
  * @file router.ts
- * @description 后端 Hono API 路由定义文件。
+ * @description 后端 Hono API 路由全量注册与契约对齐文件。
  * 
- * 备注 (经验教训):
- * 修正了原先 `router.route('/api/v1/users/me', meRouter)` 在 Hono 框架中因未匹配末尾斜杠导致 `GET /api/v1/users/me` 报 501/404 错误的重大 BUG。
- * 现全量改用显式路径声明，确保 RESTful 规范与 100% 路由兼容。
+ * 备注 (经验教训与规范):
+ * 1. RESTful 端点契约对齐: 必须确保所有核心业务 API 端点统一以 /api/v1 为前缀，并与前端 apiClient.ts 及 Domain Service 100% 精确映射。
+ * 2. 答题提交双向兼容 (Anti-404 Pattern): 同时绑定 /api/v1/questions/:questionId/submit 与 /api/v1/questions/:questionId/answers，彻底杜绝契约不一致导致的 404 Not Found。
+ * 3. 显式路径声明: 全量使用完整 URL 显式路径注册，严禁使用带有通配符的子 Router route()，消除 Hono 框架因末尾斜杠匹配失败导致的 501/404。
  */
 
 import { Hono } from 'hono';
