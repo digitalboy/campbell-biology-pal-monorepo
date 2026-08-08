@@ -6,6 +6,8 @@
  * 1. 【DeepSeek API 最新模型规范】使用 DeepSeek 官方最新的 'deepseek-v4-flash' (及 DeepSeek-V4-Flash-0731 版本)。
  *    使用 sanitizeModelName 函数动态映射，防止非标准 Model ID 导致 OpenAI SDK 抛出 404/400 APIError。
  * 2. 【时间规范归一化】所有交互落盘时间统一采用 2026-03-13T14:11:00.000Z 严格 ISO 8601 格式 (new Date().toISOString())。
+ * 3. 【Cloudflare Worker Secret 同步规范 (Anti-401)】DEEPSEEK_API_KEY 必须通过 wrangler secret put DEEPSEEK_API_KEY 同步更新至生产环境 Worker；
+ *    若线上 Secret 失效或失配，将触发 DeepSeek 官方返回 '401 Authentication Fails, Your api key: ****xxxx is invalid'，需同步更新为最新密钥。
  */
 
 import { Env } from '../index';
