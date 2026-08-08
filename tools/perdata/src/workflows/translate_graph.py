@@ -68,19 +68,23 @@ LANG_NAMES = {
     "ar": "Arabic (阿拉伯语)",
 }
 
+def safe_sql_str(text: str) -> str:
+    """将文本转换为 SQLite char(...) 格式，规避 Windows 命令行单双引号剥离 Bug"""
+    if not text:
+        return "''"
+    return f"char({','.join(str(ord(c)) for c in text)})"
+
 def execute_d1_sql(sql_content: str, is_select: bool = False) -> List[Dict[str, Any]]:
     """在远程 Cloudflare D1 上安全执行 SQL"""
     temp_sql_path = Path(__file__).resolve().parent / "temp_query.sql"
     
     if is_select:
-        # 在 Windows 命令行下处理单引号转义，防止 WHERE lang_code = 'ja' 被剥离单引号
-        safe_command = sql_content.replace("'", '"')
         cmd = [
             "npx.cmd" if sys.platform == "win32" else "npx",
             "cross-env", "HTTP_PROXY=http://127.0.0.1:7890", "HTTPS_PROXY=http://127.0.0.1:7890",
             "wrangler", "d1", "execute", "DB",
             "--remote",
-            f"--command={safe_command}",
+            f"--command={sql_content}",
             "--json"
         ]
     else:
@@ -113,12 +117,8 @@ def execute_d1_sql(sql_content: str, is_select: bool = False) -> List[Dict[str, 
         if start_idx != -1 and end_idx != -1 and end_idx >= start_idx:
             json_str = stdout_str[start_idx:end_idx + 1]
             data = json.loads(json_str)
-            if is_select and isinstance(data, list):
-                for entry in data:
-                    results_list = entry.get("results", [])
-                    if results_list and isinstance(results_list, list) and len(results_list) > 0:
-                        if "Total queries executed" not in results_list[0]:
-                            return results_list
+            if is_select and isinstance(data, list) and len(data) > 0:
+                return data[0].get("results", [])
         return []
     except Exception as e:
         logging.error(f"执行 D1 命令发生异常: {e}")
@@ -128,13 +128,13 @@ def execute_d1_sql(sql_content: str, is_select: bool = False) -> List[Dict[str, 
 
 def get_existing_node_translations(target_lang: str) -> set:
     """获取目前在 D1 数据库中已存在目标语言翻译的 Node UUID 集合 (强类型转换为 str 避免匹配漏失)"""
-    sql = f"SELECT node_uuid FROM GraphNodeTranslations WHERE lang_code = '{target_lang}'"
+    sql = f"SELECT node_uuid FROM GraphNodeTranslations WHERE lang_code = {safe_sql_str(target_lang)}"
     results = execute_d1_sql(sql, is_select=True)
     return {str(r["node_uuid"]) for r in results if "node_uuid" in r}
 
 def get_existing_edge_translations(target_lang: str) -> set:
     """获取目前在 D1 数据库中已存在目标语言翻译的 Edge ID 集合 (强类型转换为 str 避免匹配漏失)"""
-    sql = f"SELECT edge_id FROM GraphEdgeTranslations WHERE lang_code = '{target_lang}'"
+    sql = f"SELECT edge_id FROM GraphEdgeTranslations WHERE lang_code = {safe_sql_str(target_lang)}"
     results = execute_d1_sql(sql, is_select=True)
     return {str(r["edge_id"]) for r in results if "edge_id" in r and r["edge_id"] is not None}
 

@@ -12,15 +12,20 @@ from typing import Dict, Any, List
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
+def safe_sql_str(text: str) -> str:
+    """将文本转换为 SQLite char(...) 格式，规避 Windows 命令行单双引号剥离 Bug"""
+    if not text:
+        return "''"
+    return f"char({','.join(str(ord(c)) for c in text)})"
+
 def execute_d1_sql(sql_content: str) -> List[Dict[str, Any]]:
     """在 Cloudflare D1 远程数据库安全执行 SQL"""
-    safe_command = sql_content.replace("'", '"')
     cmd = [
         "npx.cmd" if sys.platform == "win32" else "npx",
         "cross-env", "HTTP_PROXY=http://127.0.0.1:7890", "HTTPS_PROXY=http://127.0.0.1:7890",
         "wrangler", "d1", "execute", "DB",
         "--remote",
-        f"--command={safe_command}",
+        f"--command={sql_content}",
         "--json"
     ]
     
@@ -38,12 +43,8 @@ def execute_d1_sql(sql_content: str) -> List[Dict[str, Any]]:
         if start_idx != -1 and end_idx != -1 and end_idx >= start_idx:
             json_str = stdout_str[start_idx:end_idx + 1]
             data = json.loads(json_str)
-            if isinstance(data, list):
-                for entry in data:
-                    results = entry.get("results", [])
-                    if results and isinstance(results, list) and len(results) > 0:
-                        if "Total queries executed" not in results[0]:
-                            return results
+            if isinstance(data, list) and len(data) > 0:
+                return data[0].get("results", [])
         return []
     except Exception as e:
         logging.error(f"❌ SQL 执行异常: {e}")
@@ -68,7 +69,7 @@ def run_audit():
     logging.info(f"📌 [基准表] GraphNodes 总节点数: {total_base_count}")
     
     # 2. 查日语翻译表 GraphNodeTranslations 数据
-    sql_ja = "SELECT node_uuid, name, definition, aliases FROM GraphNodeTranslations WHERE lang_code = 'ja';"
+    sql_ja = f"SELECT node_uuid, name, definition, aliases FROM GraphNodeTranslations WHERE lang_code = {safe_sql_str('ja')};"
     ja_records = execute_d1_sql(sql_ja)
     total_ja_count = len(ja_records)
     logging.info(f"📌 [翻译表] GraphNodeTranslations (lang=ja) 总翻译记录数: {total_ja_count}")
