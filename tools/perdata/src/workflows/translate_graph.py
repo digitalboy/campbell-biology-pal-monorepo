@@ -36,8 +36,11 @@ from dotenv import load_dotenv
 #    在比对 Node UUID 和 Edge ID 时，必须统一显式转换为 str(...) 类型进行 not in 集合检索，保障断点识别精准率 100%。
 # 5. 数据库写入 Upsert 规范:
 #    统一使用 INSERT OR REPLACE INTO 语法，保障重复插入时做覆写更新，不造成脏数据。
-# 6. GraphEdgeTranslations 表 Schema 规范:
-#    写入列名必须为 (edge_id, lang_code, label, description)，严禁误写为不存在的 rel_desc，并在 execute_d1_sql 中强校验 stderr/stdout 中的 error 报错，确保无静默写库失败。
+# 6. GraphEdgeTranslations 表 Schema 列名死穴与静默写库拦截 (经验教训):
+#    原本在 SQL 中误使用了 rel_desc 作为插入列名，而 D1 中真实的 Schema 列名是 (edge_id, lang_code, label, description)；
+#    这导致 SQL 被 D1 拒绝提示 'table GraphEdgeTranslations has no column named rel_desc'，但由于早期 execute_d1_sql 未强校验 stdout 中的 error 错误，
+#    导致看似显示 '批次保存成功' 但实质没有一条边被成功写入，引发云端边数据一直误判为 0。
+#    经验教训: 写入必须严格与 Schema 对齐，且 execute_d1_sql 必须拦截 stdout 中的 error 关键字防静默失败。
 ENV_PATH = Path(__file__).resolve().parent.parent.parent / ".env"
 if ENV_PATH.exists():
     load_dotenv(ENV_PATH)
@@ -359,6 +362,7 @@ def process_edge_translations(target_lang: str, batch_size: int = 100, limit: in
         update_sqls = []
         for t in translations:
             safe_desc = t["rel_desc"].replace("'", "''")
+            # 备注 (经验教训与规范): 必须使用真实的 Schema 列名 (label, description)，避免误用 rel_desc 造成 D1 执行拒绝
             sql = (
                 f"INSERT OR REPLACE INTO GraphEdgeTranslations (edge_id, lang_code, label, description) "
                 f"VALUES ('{t['edge_id']}', '{t['lang_code']}', '{safe_desc}', '{safe_desc}');"
