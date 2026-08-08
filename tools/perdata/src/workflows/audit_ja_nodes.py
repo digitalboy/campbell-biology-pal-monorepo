@@ -1,5 +1,11 @@
 """
 日语 (ja) 知识图谱节点翻译法医级完整性与重复性数据质量审计工具
+
+备注 (经验教训与规范):
+1. 规避 Windows Quote Stripping Bug:
+   使用 safe_sql_str() 将字符串转化成 char(...)，杜绝 Cmd/Powershell 脚本传参破坏单引号引起 'no such column: ja' 导致的误判。
+2. 统一 SELECT --command 执行模式:
+   D1 命令行对于 --command 模式能完备序列化结果集列表；--file 批处理模式下只返回 Meta 汇总。
 """
 
 import json
@@ -13,7 +19,11 @@ from typing import Dict, Any, List
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
 def safe_sql_str(text: str) -> str:
-    """将文本转换为 SQLite char(...) 格式，规避 Windows 命令行单双引号剥离 Bug"""
+    """
+    备注 (经验教训与规范):
+    将文本转换为 SQLite char(...) 表达 (例如 'ja' -> char(106, 97))，
+    此格式包含 0 个单引号与 0 个双引号，100% 规避 Windows 命令行单双引号被剥离导致的 D1 SQL 语法与无列报错 Bug。
+    """
     if not text:
         return "''"
     return f"char({','.join(str(ord(c)) for c in text)})"

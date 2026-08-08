@@ -23,10 +23,19 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 # 备注 (经验教训与规范):
-# 1. 增量断点续传 (Checkpoint/Resume): 每次脚本启动时查询 D1 数据库中 target_lang 已存在的主键集合；
-#    在比对 UUID / ID 时必须显式强类型转换为 str(node_uuid) / int(edge_id)，规避 SQLite API JSON 返回数据类型混淆引发的漏检重翻译。
-# 2. 数据库写入 Upsert 规范: 统一使用 INSERT OR REPLACE INTO 语法，保障重复插入时做覆写更新，不造成脏数据。
-# 3. API 异常防护: 当 LLM 翻译失败时，返回 None 绝不出库，保障 0 假英文假伪脏数据落盘。
+# 1. Windows CLI 引号剥离隐患 (Windows Quote Stripping & SQLITE_ERROR):
+#    在 Windows PowerShell / CMD 环境下通过 wrangler d1 execute DB --remote --command="..." 执行包含单引号的 SQL 字符串字面量（如 WHERE lang_code = 'ja'）时，
+#    终端脚本会自动剥离单引号，导致发往 D1 的 SQL 误变为 WHERE lang_code = ja，引发 SQLITE_ERROR: no such column: ja 报错并返回空结果。
+# 2. 零引号 safe_sql_str() 转换算法:
+#    对于 SELECT 查询中的字符串过滤条件，必须统一调用 safe_sql_str(text) 函数将文本转化为 SQLite 原生的 char(...) 表达 (如 'ja' -> char(106, 97))。
+#    char(...) 包含零单引号与零双引号，100% 绝对免疫 Windows 终端引号剥离。
+# 3. Wrangler CLI 模式分流 (--command vs --file):
+#    Wrangler 执行 --file 批处理文件模式时，控制台 JSON 输出会隐藏 SELECT 数据行仅显示 Meta 统计卡片 (Total queries executed)；
+#    因此 SELECT 数据查询必须走 safe_sql_str() + --command 模式，而大批量 INSERT / REPLACE 写入则使用 --file 模式。
+# 4. 强类型增量断点续传 (Checkpoint/Resume):
+#    在比对 Node UUID 和 Edge ID 时，必须统一显式转换为 str(...) 类型进行 not in 集合检索，保障断点识别精准率 100%。
+# 5. 数据库写入 Upsert 规范:
+#    统一使用 INSERT OR REPLACE INTO 语法，保障重复插入时做覆写更新，不造成脏数据。
 ENV_PATH = Path(__file__).resolve().parent.parent.parent / ".env"
 if ENV_PATH.exists():
     load_dotenv(ENV_PATH)
@@ -69,7 +78,11 @@ LANG_NAMES = {
 }
 
 def safe_sql_str(text: str) -> str:
-    """将文本转换为 SQLite char(...) 格式，规避 Windows 命令行单双引号剥离 Bug"""
+    """
+    备注 (经验教训与规范):
+    将文本转换为 SQLite 原生 char(...) 表达 (例如 'ja' -> char(106, 97))，
+    此格式包含 0 个单引号与 0 个双引号，100% 规避 Windows 命令行单双引号被剥离导致的 D1 SQL 语法与无列报错 Bug。
+    """
     if not text:
         return "''"
     return f"char({','.join(str(ord(c)) for c in text)})"
