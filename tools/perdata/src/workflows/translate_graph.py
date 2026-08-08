@@ -36,6 +36,8 @@ from dotenv import load_dotenv
 #    在比对 Node UUID 和 Edge ID 时，必须统一显式转换为 str(...) 类型进行 not in 集合检索，保障断点识别精准率 100%。
 # 5. 数据库写入 Upsert 规范:
 #    统一使用 INSERT OR REPLACE INTO 语法，保障重复插入时做覆写更新，不造成脏数据。
+# 6. GraphEdgeTranslations 表 Schema 规范:
+#    写入列名必须为 (edge_id, lang_code, label, description)，严禁误写为不存在的 rel_desc，并在 execute_d1_sql 中强校验 stderr/stdout 中的 error 报错，确保无静默写库失败。
 ENV_PATH = Path(__file__).resolve().parent.parent.parent / ".env"
 if ENV_PATH.exists():
     load_dotenv(ENV_PATH)
@@ -125,6 +127,9 @@ def execute_d1_sql(sql_content: str, is_select: bool = False) -> List[Dict[str, 
             temp_sql_path.unlink()
             
         stdout_str = (res.stdout or "").strip()
+        if not is_select and ("error" in stdout_str.lower() or "failed" in stdout_str.lower()):
+            logging.error(f"❌ D1 执行写入 SQL 发生错误: {stdout_str[:300]}")
+            
         start_idx = stdout_str.find('[')
         end_idx = stdout_str.rfind(']')
         if start_idx != -1 and end_idx != -1 and end_idx >= start_idx:
@@ -355,8 +360,8 @@ def process_edge_translations(target_lang: str, batch_size: int = 100, limit: in
         for t in translations:
             safe_desc = t["rel_desc"].replace("'", "''")
             sql = (
-                f"INSERT OR REPLACE INTO GraphEdgeTranslations (edge_id, lang_code, rel_desc) "
-                f"VALUES ('{t['edge_id']}', '{t['lang_code']}', '{safe_desc}');"
+                f"INSERT OR REPLACE INTO GraphEdgeTranslations (edge_id, lang_code, label, description) "
+                f"VALUES ('{t['edge_id']}', '{t['lang_code']}', '{safe_desc}', '{safe_desc}');"
             )
             update_sqls.append(sql)
             
