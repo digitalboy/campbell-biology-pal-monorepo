@@ -9,7 +9,7 @@
  */
 
 import { Env } from '../index';
-import { sendReviewReminderEmail } from './email.service';
+import { sendReviewReminderEmail, parseQuestionSnippet, DueQuestionPreview } from './email.service';
 
 interface DueUserRecord {
   user_id: string;
@@ -97,11 +97,38 @@ export const processScheduledReviewReminders = async (env: Env): Promise<{ proce
         continue;
       }
 
+      // 1.5 提取该用户最优先到期的前 3 道题目及题干摘要
+      // 备注 (经验教训与规范): 用户惯用语言偏好暂未设计接入，提取题干时统一采用英文 (en) 作为默认/兜底语言。
+      let previews: DueQuestionPreview[] = [];
+      try {
+        const previewsQuery = `
+          SELECT q.id, q.question_text
+          FROM SpacedRepetitionSchedule srs
+          JOIN Questions q ON srs.question_id = q.id
+          WHERE srs.user_id = ? AND srs.next_review_at <= ? AND srs.status = 'active'
+          ORDER BY srs.next_review_at ASC
+          LIMIT 3;
+        `;
+        const previewsStmt = env.DB.prepare(previewsQuery);
+        const { results: dueQResults } = await previewsStmt.bind(record.user_id, nowIso).all<{ id: string; question_text: string }>();
+
+        if (dueQResults && dueQResults.length > 0) {
+          previews = dueQResults.map(q => ({
+            id: q.id,
+            text: parseQuestionSnippet(q.question_text, 80),
+          }));
+        }
+      } catch (previewErr) {
+        console.error(`[CronService] Failed to fetch due question previews for user ${record.user_id}:`, previewErr);
+        // 抓取题干错误时不抛出异常中断流程，降级发送无预览的统计邮件
+      }
+
       // 2. 发送复习提醒邮件
       const emailResult = await sendReviewReminderEmail(
         env.EMAIL,
         { email: record.email, nickname: record.nickname || 'Learner' },
-        record.due_count
+        record.due_count,
+        previews
       );
 
       if (emailResult.success) {

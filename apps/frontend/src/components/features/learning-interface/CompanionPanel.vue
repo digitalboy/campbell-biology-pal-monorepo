@@ -25,7 +25,7 @@ const props = defineProps({
     default: false,
   },
   targetQuestionId: {
-    type: String,
+    type: String as PropType<string | null>,
     default: null,
   },
 });
@@ -33,6 +33,8 @@ const props = defineProps({
 const emit = defineEmits<{
   (e: 'pageSelected', pageNumber: number): void;
   (e: 'nodeClicked', nodeId: string): void;
+  (e: 'questionSelected', questionId: string): void;
+  (e: 'requestGraphRefresh'): void;
 }>();
 
 // 监听页面 CompanionData 加载，自动将本页图谱节点注册进概念高亮词典
@@ -49,7 +51,7 @@ watch(
 
 <template>
   <section class="bg-card text-card-foreground rounded-2xl shadow-lg flex flex-col h-full overflow-hidden">
-    <div class="flex-grow overflow-y-auto px-6 py-4 min-h-0 relative">
+    <div class="grow overflow-y-auto px-6 py-4 min-h-0 relative">
       <div v-if="isLoading" class="absolute inset-0 flex justify-center items-center bg-background/80 z-20 rounded-xl">
         <LoadingIndicator />
       </div>
@@ -58,7 +60,12 @@ watch(
           {{ $t('companionPanel.loadingError') }}
         </div>
         <template v-else>
-          <QuestionList :questions="data.questions" :is-loading="isLoading" :target-question-id="targetQuestionId" />
+          <QuestionList
+            :questions="data.questions"
+            :is-loading="isLoading"
+            :target-question-id="targetQuestionId"
+            @question-selected="(id) => emit('questionSelected', id)"
+          />
         </template>
       </div>
     </div>

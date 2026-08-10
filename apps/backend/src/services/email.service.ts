@@ -42,14 +42,100 @@ export interface SendEmailBinding {
   send(message: EmailMessageBuilder): Promise<EmailSendResult>;
 }
 
+export interface DueQuestionPreview {
+  id: string;
+  text: string;
+}
+
 // 统一品牌常量
 const BRAND_LOGO_URL = 'https://biopal-campbell.beikee.org/logo.svg';
 const BRAND_SITE_URL = 'https://biopal-campbell.beikee.org';
 
 /**
- * 渲染精美的响应式 HTML 复习提醒邮件 (品牌统一版)
+ * 转义 HTML 敏感字符，防止题干特殊字符破坏邮件 DOM
  */
-export const renderReviewReminderHtml = (nickname: string, dueCount: number, lang: string = 'en'): string => {
+const escapeHtml = (str: string): string => {
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+};
+
+/**
+ * 从题干原始 JSON 字符串中提取纯文本摘要。
+ * 
+ * 备注 (经验教训与规范):
+ * 1. 用户习惯语言目前尚未接入 UserProfiles，因此依据要求，默认统一采用英文 (en) 作为主要/兜底语言。
+ *    提取顺序为 en -> zh -> 第一个非空字符串，并在注释中保留该设计说明。
+ * 2. 剥离任何潜在的 HTML 标签，且截断限制在 maxLength (默认 80 字) 以内，保证邮件卡片精简整洁。
+ */
+export const parseQuestionSnippet = (rawQuestionText: string, maxLength: number = 80): string => {
+  let text = '';
+  try {
+    const parsed = typeof rawQuestionText === 'string' ? JSON.parse(rawQuestionText) : rawQuestionText;
+    if (typeof parsed === 'string') {
+      text = parsed;
+    } else if (parsed && typeof parsed === 'object') {
+      // 按照用户约定：优先采用英文 (en) 做兜底，英文缺失时回退中文 (zh) 或其他可用文本
+      text = parsed.en || parsed.zh || Object.values(parsed).find((val) => typeof val === 'string') || 'Question details';
+    }
+  } catch (e) {
+    text = String(rawQuestionText || '');
+  }
+
+  // 剥离 HTML 标签并清理空白
+  text = text.replace(/<[^>]*>/g, '').trim();
+
+  if (!text) {
+    text = 'Biology Question';
+  }
+
+  if (text.length > maxLength) {
+    text = text.substring(0, maxLength).trim() + '...';
+  }
+
+  return text;
+};
+
+/**
+ * 渲染精美的响应式 HTML 复习提醒邮件 (支持题干预览与卡片式跳转)
+ * 
+ * 备注 (经验教训与规范):
+ * 1. 采用项目统一的主色调 Emerald Green (#43664E / #10b981) 与 Logo。
+ * 2. 题干单题直达链接统一使用 RESTful 规范路由: ${BRAND_SITE_URL}/questions/${q.id}。
+ */
+export const renderReviewReminderHtml = (
+  nickname: string,
+  dueCount: number,
+  previews: DueQuestionPreview[] = [],
+  lang: string = 'en'
+): string => {
+  let previewsHtml = '';
+  if (previews && previews.length > 0) {
+    const cardItems = previews.map((p, idx) => `
+      <div class="preview-card">
+        <div class="preview-title">Question Preview #${idx + 1}</div>
+        <a href="${BRAND_SITE_URL}/questions/${p.id}" class="preview-text-link" target="_blank">
+          ${escapeHtml(p.text)} &rarr;
+        </a>
+      </div>
+    `).join('');
+
+    const remainingCount = dueCount - previews.length;
+    const moreNoteHtml = remainingCount > 0
+      ? `<div class="more-count-note">...and ${remainingCount} more question${remainingCount > 1 ? 's' : ''} ready for review.</div>`
+      : '';
+
+    previewsHtml = `
+      <div class="preview-card-list">
+        ${cardItems}
+        ${moreNoteHtml}
+      </div>
+    `;
+  }
+
   return `
 <!DOCTYPE html>
 <html lang="en">
@@ -122,9 +208,9 @@ export const renderReviewReminderHtml = (nickname: string, dueCount: number, lan
       background-color: #f0fdf4;
       border: 1.5px solid #bbf7d0;
       border-radius: 12px;
-      padding: 24px;
+      padding: 20px;
       text-align: center;
-      margin: 24px 0;
+      margin: 20px 0;
     }
     .stat-number {
       font-size: 42px;
@@ -138,10 +224,49 @@ export const renderReviewReminderHtml = (nickname: string, dueCount: number, lan
       margin-top: 8px;
       font-weight: 600;
     }
+    .preview-card-list {
+      margin: 20px 0;
+    }
+    .preview-card {
+      background-color: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-left: 4px solid #10b981;
+      border-radius: 8px;
+      padding: 14px 16px;
+      margin-bottom: 10px;
+      text-align: left;
+    }
+    .preview-title {
+      font-size: 11px;
+      font-weight: 700;
+      color: #059669;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .preview-text-link {
+      font-size: 14px;
+      color: #0f172a;
+      text-decoration: none;
+      font-weight: 500;
+      line-height: 1.4;
+      display: block;
+    }
+    .preview-text-link:hover {
+      color: #10b981;
+      text-decoration: underline;
+    }
+    .more-count-note {
+      font-size: 13px;
+      color: #64748b;
+      font-style: italic;
+      text-align: center;
+      margin-top: 10px;
+    }
     .cta-button {
       display: block;
       width: 240px;
-      margin: 32px auto 0 auto;
+      margin: 28px auto 0 auto;
       padding: 14px 0;
       background-color: #10b981;
       color: #ffffff !important;
@@ -179,6 +304,8 @@ export const renderReviewReminderHtml = (nickname: string, dueCount: number, lan
           <div class="stat-number">${dueCount}</div>
           <div class="stat-label">Question${dueCount > 1 ? 's' : ''} Due for Review</div>
         </div>
+
+        ${previewsHtml}
 
         <p>Reviewing on time reinforces your long-term memory retention. Ready for today's biology challenge?</p>
 
@@ -379,7 +506,8 @@ export const renderCommentReplyHtml = (
 export const sendReviewReminderEmail = async (
   emailBinding: SendEmailBinding,
   recipient: { email: string; nickname: string },
-  dueCount: number
+  dueCount: number,
+  previews: DueQuestionPreview[] = []
 ): Promise<{ success: boolean; messageId?: string; error?: string }> => {
   if (!emailBinding) {
     console.error('[EmailService] Cloudflare send_email binding is undefined.');
@@ -391,8 +519,20 @@ export const sendReviewReminderEmail = async (
   }
 
   const subject = `📚 Review Reminder: ${recipient.nickname}, you have ${dueCount} question${dueCount > 1 ? 's' : ''} ready for review!`;
-  const textContent = `Hi ${recipient.nickname},\n\nAccording to your spaced repetition schedule, you have ${dueCount} question(s) ready for review today. Please visit Campbell Biology PAL to start your review: ${BRAND_SITE_URL}/review\n\nBest,\nCampbell Biology PAL Team`;
-  const htmlContent = renderReviewReminderHtml(recipient.nickname, dueCount, 'en');
+  
+  let textContent = `Hi ${recipient.nickname},\n\nAccording to your spaced repetition schedule, you have ${dueCount} question(s) ready for review today.\n`;
+  if (previews && previews.length > 0) {
+    textContent += `\nHere are previews of your due questions:\n`;
+    previews.forEach((p, idx) => {
+      textContent += `${idx + 1}. ${p.text}\n   Link: ${BRAND_SITE_URL}/questions/${p.id}\n`;
+    });
+    if (dueCount > previews.length) {
+      textContent += `...and ${dueCount - previews.length} more question(s).\n`;
+    }
+  }
+  textContent += `\nPlease visit Campbell Biology PAL to start your review: ${BRAND_SITE_URL}/review\n\nBest,\nCampbell Biology PAL Team`;
+
+  const htmlContent = renderReviewReminderHtml(recipient.nickname, dueCount, previews, 'en');
 
   try {
     const result = await emailBinding.send({

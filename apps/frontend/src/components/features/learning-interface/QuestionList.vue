@@ -34,7 +34,7 @@ const props = defineProps({
     default: false,
   },
   targetQuestionId: {
-    type: String,
+    type: String as PropType<string | null>,
     default: null,
   },
 });
@@ -59,6 +59,10 @@ watch(
   },
   { immediate: true }
 );
+
+const emit = defineEmits<{
+  (e: 'questionSelected', questionId: string): void;
+}>();
 
 function getQuestionAccuracy(question: Question): number {
   if (!question.userStats || question.userStats.totalAttempts === 0) {
@@ -168,6 +172,10 @@ const valueFormatter = (tick: number): string => `${tick}%`;
 
 function selectQuestion(index: number) {
   currentQuestionIndex.value = index;
+  const q = props.questions[index];
+  if (q) {
+    emit('questionSelected', q.id);
+  }
 }
 
 function handleAnswerSubmitted(payload: { questionId: string; isCorrect: boolean }) {

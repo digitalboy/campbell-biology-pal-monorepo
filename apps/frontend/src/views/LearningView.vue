@@ -1,6 +1,20 @@
 <script setup lang="ts">
+/**
+ * @file LearningView.vue
+ * @description 核心主学习视图，结合 PDF 阅读器与伴侣工作台。
+ * 
+ * 备注 (经验教训与规范):
+ * 1. 【地址栏 Question 参数同步与分享】
+ *    地址栏 URL 包含 ?page=XXX&question=YYY，支持复制全量深层链接直接分享定位给他人。
+ * 2. 【翻页默认第一题与无题目降级】
+ *    - 翻页时若新页面包含题目，自动选中首题 (Index 0) 并同步至 URL 地址栏；
+ *    - 若新页面无题目，自动从地址栏 URL Query 中安全清理 question 参数，只保留 ?page=XXX，右侧提示“本页暂无题目”。
+ * 3. 【无刷新无抖动导航】
+ *    使用 router.replace 替代 router.push，防止用户频繁点选题目时破坏浏览器的历史回退栈。
+ */
+
 import { ref, watchEffect, watch, onMounted } from 'vue';
-import { useRoute } from 'vue-router';
+import { useRoute, useRouter } from 'vue-router';
 import { useI18n } from 'vue-i18n';
 import PdfViewer from '@/components/features/learning-interface/PdfViewer.vue';
 import CompanionPanel from '@/components/features/learning-interface/CompanionPanel.vue';
@@ -11,6 +25,7 @@ import { useCompanionStore } from '@/stores/companionStore';
 import { api } from '@/services/apiClient';
 
 const route = useRoute();
+const router = useRouter();
 const { locale } = useI18n();
 const companionStore = useCompanionStore();
 
@@ -42,7 +57,24 @@ watch(currentPage, (newPage) => {
   localStorage.setItem(LAST_VISITED_PAGE_KEY, newPage.toString());
 });
 
-// 处理深层链接路由 /questions/:id 以及 URL Query (?page=554&openPdfComment=true&lang=zh)
+/**
+ * 安全地同步当前页码与题目 ID 到浏览器的 URL Query 参数中
+ */
+const syncUrlQueryParams = (page: number, questionId: string | null) => {
+  const newQuery: Record<string, string> = { ...route.query as Record<string, string>, page: page.toString() };
+  if (questionId) {
+    newQuery.question = questionId;
+  } else {
+    delete newQuery.question;
+  }
+
+  // 避免冗余触发 router.replace
+  if (route.query.page !== newQuery.page || route.query.question !== newQuery.question) {
+    router.replace({ query: newQuery });
+  }
+};
+
+// 处理深层链接路由 /questions/:id 以及 URL Query (?page=554&question=q_123&openPdfComment=true&lang=zh)
 const processQuestionDeepLink = async () => {
   // 0. 检查 URL 多语言参数 ?lang=zh/en/es/fr/de/ja
   const langQuery = (route.query.lang as string || '').toLowerCase();
@@ -50,22 +82,25 @@ const processQuestionDeepLink = async () => {
     locale.value = langQuery;
   }
 
-  // 1. 检查路由参数 /questions/:id
-  const questionId = route.params.id as string;
-  if (questionId) {
-    targetQuestionId.value = questionId;
-    try {
-      const res = await api.getQuestionById(questionId);
-      if (res.ok && res.data && res.data.page_number) {
-        currentPage.value = res.data.page_number;
+  // 1. 检查路由路径参数 /questions/:id 或 URL query ?question=id
+  const questionIdParam = (route.params.id as string) || (route.query.question as string);
+  if (questionIdParam) {
+    targetQuestionId.value = questionIdParam;
+    
+    // 如果没有显示的 page 参数，通过后端 API 反查该题目所在的 page_number
+    if (!route.query.page) {
+      try {
+        const res = await api.getQuestionById(questionIdParam);
+        if (res.ok && res.data && res.data.page_number) {
+          currentPage.value = res.data.page_number;
+        }
+      } catch (e) {
+        console.error('Failed to resolve question deep link page:', e);
       }
-    } catch (e) {
-      console.error('Failed to resolve question deep link page:', e);
     }
-    return;
   }
 
-  // 2. 检查 URL Query (?page=554&openPdfComment=true)
+  // 2. 检查 URL Query ?page=554
   const pageQuery = route.query.page as string;
   if (pageQuery) {
     const pageNum = parseInt(pageQuery, 10);
@@ -84,10 +119,35 @@ onMounted(() => {
 });
 
 watch(
-  () => [route.params.id, route.query.page, route.query.openPdfComment],
+  () => [route.params.id, route.query.page, route.query.question, route.query.openPdfComment],
   () => {
     processQuestionDeepLink();
   }
+);
+
+// 监听 Companion 数据变化：处理翻页默认首题与无题目时的 URL 安全清理
+watch(
+  () => companionStore.companionData,
+  (data) => {
+    if (!data) return;
+    const questions = data.questions || [];
+    if (questions.length > 0) {
+      // 如果当前已有指定的 targetQuestionId 且属于本页题目，保留；否则翻页默认选中第一题 (Index 0)
+      const isTargetInCurrentPage = targetQuestionId.value
+        ? questions.some((q) => q.id === targetQuestionId.value)
+        : false;
+
+      if (!isTargetInCurrentPage) {
+        targetQuestionId.value = questions[0].id;
+      }
+      syncUrlQueryParams(currentPage.value, targetQuestionId.value);
+    } else {
+      // 本页没有题目：清理 URL 中的 question 参数，保持 ?page=XXX
+      targetQuestionId.value = null;
+      syncUrlQueryParams(currentPage.value, null);
+    }
+  },
+  { deep: true }
 );
 
 // Fetch companion data whenever the currentPage changes
@@ -97,6 +157,13 @@ watchEffect(async () => {
 
 function handlePageChange(newPage: number) {
   currentPage.value = newPage;
+  // 切换页面时先将 targetQuestionId 清空，由 companionData 监听器选择首题或清除参数
+  targetQuestionId.value = null;
+}
+
+function handleQuestionSelected(questionId: string) {
+  targetQuestionId.value = questionId;
+  syncUrlQueryParams(currentPage.value, questionId);
 }
 </script>
 
@@ -121,6 +188,7 @@ function handlePageChange(newPage: number) {
         :is-loading="companionStore.isLoading"
         :target-question-id="targetQuestionId"
         @page-selected="handlePageChange"
+        @question-selected="handleQuestionSelected"
         @request-graph-refresh="companionStore.fetchCompanionData(currentPage)"
       />
     </div>
