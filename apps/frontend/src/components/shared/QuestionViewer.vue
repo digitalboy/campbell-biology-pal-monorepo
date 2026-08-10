@@ -36,9 +36,12 @@ import {
 import { CheckCircle, XCircle } from 'lucide-vue-next';
 
 import { useQuestionStore } from '@/stores/questionStore';
+import { useAuthStore } from '@/stores/authStore';
+import AuthPromptModal from '@/components/shared/AuthPromptModal.vue';
 
 const { t, locale } = useI18n();
 const questionStore = useQuestionStore();
+const authStore = useAuthStore();
 const { isLoading, submissionResult, isAnswered } = storeToRefs(questionStore);
 
 const props = defineProps({
@@ -52,6 +55,9 @@ const emit = defineEmits(['answer-submitted']);
 
 const selectedAnswers = ref<Set<string>>(new Set());
 const isAiChatOpen = ref(false);
+const isAuthPromptOpen = ref(false);
+const isConceptGraphOpen = ref(false);
+const selectedConceptName = ref('');
 const aiChatContext = ref({});
 const aiInitialPrompt = ref('');
 
@@ -86,15 +92,27 @@ function toggleOption(optionId: string) {
 async function submitAnswer() {
   if (isAnswered.value || isLoading.value || selectedAnswers.value.size === 0) return;
 
+  // 校验未登录拦截：平滑弹出 Auth 引导对话框，替代粗暴报错
+  if (!authStore.user) {
+    isAuthPromptOpen.value = true;
+    selectedAnswers.value.clear();
+    return;
+  }
+
   try {
     const result = await questionStore.submitAnswer(props.question.id, {
       selectedAnswers: Array.from(selectedAnswers.value)
     });
 
     emit('answer-submitted', { questionId: props.question.id, isCorrect: result.isCorrect });
-  } catch (error) {
+  } catch (error: any) {
     console.error('Failed to submit answer:', error);
-    toast.error(t('questionViewer.toast.submitError'));
+    // 若捕获 401 状态，调起登录引导
+    if (error?.response?.status === 401 || !authStore.user) {
+      isAuthPromptOpen.value = true;
+    } else {
+      toast.error(t('questionViewer.toast.submitError'));
+    }
     selectedAnswers.value.clear();
   }
 }
@@ -337,5 +355,6 @@ function handleAiExplain() {
 
   <!-- AI Chat 对话框与 1-Hop 动态拓扑图谱弹窗 -->
   <AiChatDialog v-model:isOpen="isAiChatOpen" :context-data="aiChatContext" :initial-prompt="aiInitialPrompt" />
-  <ConceptGraphModal />
+  <ConceptGraphModal v-model="isConceptGraphOpen" :concept-name="selectedConceptName" />
+  <AuthPromptModal v-model="isAuthPromptOpen" />
 </template>

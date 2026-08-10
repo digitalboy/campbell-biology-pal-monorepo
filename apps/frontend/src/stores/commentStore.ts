@@ -45,8 +45,13 @@ export const useCommentStore = defineStore('comment', () => {
 
     } catch (e) {
       const apiError = e as any;
-      error.value = apiError.message || 'Failed to fetch comments.';
-      console.error(error.value);
+      // 避免向用户显示生硬的技术 401 字符
+      if (apiError?.response?.status === 401 || apiError?.status === 401) {
+        error.value = null;
+      } else {
+        error.value = apiError.message || 'Failed to fetch comments.';
+      }
+      console.error(e);
     }
     finally {
       isLoading.value = false;

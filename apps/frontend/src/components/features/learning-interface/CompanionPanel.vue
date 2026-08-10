@@ -10,10 +10,19 @@
 
 import { watch } from 'vue';
 import type { PropType } from 'vue';
+import { useRouter } from 'vue-router';
+import { useI18n } from 'vue-i18n';
 import type { CompanionData } from '@/types/api';
 import QuestionList from './QuestionList.vue';
 import LoadingIndicator from '@/components/shared/LoadingIndicator.vue';
 import { conceptDictionary } from '@/services/conceptDictionary';
+import { useAuthStore } from '@/stores/authStore';
+import { Button } from '@/components/ui/button';
+import { Sparkles, LogIn } from 'lucide-vue-next';
+
+const { t } = useI18n();
+const authStore = useAuthStore();
+const router = useRouter();
 
 const props = defineProps({
   data: {
@@ -51,6 +60,23 @@ watch(
 
 <template>
   <section class="bg-card text-card-foreground rounded-2xl shadow-lg flex flex-col h-full overflow-hidden">
+    <!-- 未登录游客模式引导 Banner -->
+    <div v-if="!authStore.user" class="bg-linear-to-r from-emerald-500/10 via-teal-500/10 to-sky-500/10 border-b border-emerald-500/20 px-4 py-2.5 flex items-center justify-between gap-2 shrink-0">
+      <div class="flex items-center gap-2 text-xs text-foreground font-medium truncate">
+        <Sparkles class="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+        <span class="truncate">{{ t('guest.bannerHint') }}</span>
+      </div>
+      <Button 
+        size="sm" 
+        variant="default"
+        class="h-7 text-xs px-2.5 bg-emerald-600 hover:bg-emerald-700 text-white font-medium shrink-0 shadow-sm"
+        @click="router.push('/login')"
+      >
+        <LogIn class="w-3.5 h-3.5 mr-1" />
+        {{ t('guest.loginRegister') }}
+      </Button>
+    </div>
+
     <div class="grow overflow-y-auto px-6 py-4 min-h-0 relative">
       <div v-if="isLoading" class="absolute inset-0 flex justify-center items-center bg-background/80 z-20 rounded-xl">
         <LoadingIndicator />

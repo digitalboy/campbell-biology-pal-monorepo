@@ -15,14 +15,10 @@ export const getPageCompanionDataHandler = async (
 ) => {
   const pageParam = c.req.param('pageNumber');
   const pageNumber = parseInt(pageParam || '', 10);
-  const userId = c.get('userId');
+  const userId = c.get('userId') || '';
 
   if (isNaN(pageNumber)) {
     return c.json({ ok: false, message: 'Invalid page number provided.' }, 400);
-  }
-
-  if (!userId) {
-    return c.json({ ok: false, message: 'Authentication error: User ID not found.' }, 401);
   }
 
   try {

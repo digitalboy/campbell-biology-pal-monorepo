@@ -100,6 +100,7 @@ export interface Question {
   updated_at: string; // ISO 8601 date string
   userStats?: QuestionUserStats | null;
   answeredByUsers?: QuestionSocialStats[];
+  concept_nodes?: (ConceptNode | string | any)[];
 }
 
 /**

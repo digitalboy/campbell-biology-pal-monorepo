@@ -64,7 +64,8 @@ router.get('/api/v1/users/me/wrong-answers', authMiddleware, getWrongAnswersHand
 router.post('/api/v1/admin/trigger-reminders', authMiddleware, adminMiddleware, triggerReviewRemindersHandler);
 
 // --- Content & Quiz Routes ---
-router.get('/api/v1/pages/:pageNumber/companion-data', authMiddleware, getPageCompanionDataHandler);
+// 备注 (经验教训): 解绑 authMiddleware，允许未登录访客与搜索引擎爬虫 (Googlebot) 公开只读访问页面伴侣数据
+router.get('/api/v1/pages/:pageNumber/companion-data', getPageCompanionDataHandler);
 
 // --- Question Routes ---
 router.get('/api/v1/questions/:id', getQuestionByIdHandler);
@@ -82,15 +83,16 @@ router.delete('/api/v1/graph/nodes/:uuid', authMiddleware, adminMiddleware, dele
 
 // --- Social (Comments) Routes ---
 router.post('/api/v1/comments', authMiddleware, handleCreateComment);
-router.get('/api/v1/comments', authMiddleware, handleGetComments);
-router.get('/api/v1/comments/:commentId', authMiddleware, handleGetCommentById);
+router.get('/api/v1/comments', handleGetComments);
+router.get('/api/v1/comments/:commentId', handleGetCommentById);
 router.delete('/api/v1/comments/:commentId', authMiddleware, handleDeleteComment);
 
 // --- Social (Leaderboard) Routes ---
 router.get('/api/v1/leaderboard', authMiddleware, getLeaderboardHandler);
 
 // --- PDF Content Routes ---
-router.get('/api/v1/pdf-content/:pageNumber', authMiddleware, getPageContentHandler);
+// 备注 (经验教训): 允许未登录只读获取 PDF 页面内容概要，写操作依然保留 authMiddleware & adminMiddleware
+router.get('/api/v1/pdf-content/:pageNumber', getPageContentHandler);
 router.put('/api/v1/pdf-content', authMiddleware, adminMiddleware, upsertPageContentHandler);
 
 // --- AI Routes ---

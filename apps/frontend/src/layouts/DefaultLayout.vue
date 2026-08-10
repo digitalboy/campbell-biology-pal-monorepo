@@ -1,9 +1,9 @@
 <template>
-  <div :class="[isLoggedIn ? 'flex flex-col h-full' : '']" class="bg-background text-foreground">
-    <GlobalHeader v-if="isLoggedIn" />
+  <div class="flex flex-col h-full bg-background text-foreground">
+    <GlobalHeader />
 
-    <main :class="[isLoggedIn ? 'flex flex-col flex-grow overflow-hidden bg-muted/10' : '']">
-      <div v-if="authStore.isLoading && !authStore.isAuthInitialized" class="flex flex-grow items-center justify-center">
+    <main class="flex flex-col grow overflow-hidden bg-muted/10">
+      <div v-if="authStore.isLoading && !authStore.isAuthInitialized" class="flex grow items-center justify-center">
         <LoadingIndicator />
       </div>
       <router-view v-else />
@@ -22,8 +22,6 @@ import { Toaster } from '@/components/ui/sonner';
 import LoadingIndicator from '@/components/shared/LoadingIndicator.vue';
 
 const authStore = useAuthStore();
-const isLoggedIn = computed(() => authStore.isLoggedIn);
-
 const { t } = useI18n();
 
 watchEffect(() => {

@@ -15,7 +15,9 @@ const authStore = useAuthStore();
     </template>
     <template v-else>
       <router-link to="/login">
-        <Button variant="outline" size="sm">{{ t('header.login') }}</Button>
+        <Button class="bg-linear-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 text-white font-medium shadow-sm transition-all duration-200" size="sm">
+          {{ t('guest.loginRegister') }}
+        </Button>
       </router-link>
     </template>
   </div>

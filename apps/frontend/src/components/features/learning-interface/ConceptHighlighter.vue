@@ -10,7 +10,7 @@
  * 2. 完美支持 6 种语言 (zh, en, es, fr, de, ja) 概念词高亮与回退触发。
  */
 
-import { computed, onMounted, watch } from 'vue';
+import { computed, onMounted, watch, type PropType } from 'vue';
 import { useI18n } from 'vue-i18n';
 import type { ConceptNode } from '@/types/api';
 import { conceptDictionary } from '@/services/conceptDictionary';
@@ -23,7 +23,7 @@ const props = defineProps({
     default: '',
   },
   nodes: {
-    type: Array as () => ConceptNode[],
+    type: Array as PropType<ConceptNode[] | string[] | any[]>,
     default: () => [],
   },
 });
