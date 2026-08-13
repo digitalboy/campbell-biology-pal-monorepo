@@ -8,10 +8,13 @@ import { Env } from '../index';
  * 1. 时间处理归一化：所有 lastmod 字段严格使用 2026-03-13T14:11:00.000Z 标准 ISO 8601 格式或 YYYY-MM-DD。
  * 2. 性能与边缘防护：由于包含全量题目与 1488 页教科书 URL，使用 StringBuilder/数组 join 拼接 XML，避免高频内存浪费。
  * 3. 多语言扩展预留：架构上引入 xmlns:xhtml 命名空间，未来增加多语言后缀时可无缝扩展 hreflang。
+ * 4. 搜索引擎抓取预算 (Crawl Budget) 防护：静态 1488 页教材索引统一使用固定的修改日期（如 2026-03-13），严禁使用动态当天日期 todayDate，防止 Googlebot 因虚假频繁变更而降低收录信任度。
+ * 5. loc 安全转义：所有插入 <loc> 节点中的字符串必须经由 escapeXml 转义，防御 UUID 或 Query 中的特殊字符破坏 XML 语法结构。
  */
 
 const SITE_BASE_URL = 'https://biopal-campbell.beikee.org';
 const TOTAL_BOOK_PAGES = 1488;
+const STATIC_PAGES_LASTMOD = '2026-03-13';
 
 /**
  * 生成标准的 robots.txt 文本
@@ -68,7 +71,7 @@ export const generateSitemapXml = async (env: Env): Promise<string> => {
 
   // 1. 根路径 (Priority: 1.0)
   urls.push(`  <url>
-    <loc>${SITE_BASE_URL}/</loc>
+    <loc>${escapeXml(`${SITE_BASE_URL}/`)}</loc>
 ${buildHreflangTags('/')}
     <lastmod>${todayDate}</lastmod>
     <changefreq>daily</changefreq>
@@ -80,7 +83,7 @@ ${buildHreflangTags('/')}
     const lastmod = q.created_at ? q.created_at.split('T')[0] : todayDate;
     const path = `/questions/${q.id}`;
     urls.push(`  <url>
-    <loc>${SITE_BASE_URL}${path}</loc>
+    <loc>${escapeXml(`${SITE_BASE_URL}${path}`)}</loc>
 ${buildHreflangTags(path)}
     <lastmod>${lastmod}</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,7 +97,7 @@ ${buildHreflangTags(path)}
     urls.push(`  <url>
     <loc>${escapeXml(`${SITE_BASE_URL}${path}`)}</loc>
 ${buildHreflangTags(path)}
-    <lastmod>${todayDate}</lastmod>
+    <lastmod>${STATIC_PAGES_LASTMOD}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>`);
