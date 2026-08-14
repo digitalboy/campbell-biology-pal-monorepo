@@ -59,16 +59,23 @@
         } catch (e) {}
 
         // 设置 title 和 meta description
+        // 备注 (经验教训): 若 Edge SSR 已注入专属页面 Title (如教材页/题目页)，客户端脚本严禁强制覆盖为默认通用标题，防止 Googlebot 判定为重复 Title 页面。
         const t = translations[code] || translations.en;
         if (t) {
-          document.title = t.title;
+          const currentTitle = document.title || "";
+          const isDefaultTitle = !currentTitle || currentTitle === "BioPal-坎贝尔生物学-AI学习伴侣" || currentTitle.startsWith("BioPal —");
+          if (isDefaultTitle) {
+            document.title = t.title;
+          }
           let meta = document.querySelector('meta[name="description"]');
           if (!meta) {
             meta = document.createElement("meta");
             meta.setAttribute("name", "description");
+            meta.setAttribute("content", t.desc);
             document.head.appendChild(meta);
+          } else if (isDefaultTitle) {
+            meta.setAttribute("content", t.desc);
           }
-          meta.setAttribute("content", t.desc);
         }
       })();
     </script>

@@ -41,12 +41,14 @@ const escapeXml = (str: string): string => {
 };
 
 const buildHreflangTags = (pathWithQuery: string): string => {
+  const cleanPath = pathWithQuery === '/' ? '/' : pathWithQuery;
   const links = SUPPORTED_LANGS.map(lang => {
-    const separator = pathWithQuery.includes('?') ? '&' : '?';
-    const rawHref = `${SITE_BASE_URL}${pathWithQuery}${separator}lang=${lang}`;
+    const rawHref = lang === 'en'
+      ? `${SITE_BASE_URL}${cleanPath}`
+      : `${SITE_BASE_URL}${cleanPath}${cleanPath.includes('?') ? '&' : (cleanPath === '/' ? '?' : '?')}lang=${lang}`;
     return `    <xhtml:link rel="alternate" hreflang="${lang}" href="${escapeXml(rawHref)}" />`;
   });
-  const defaultRawHref = `${SITE_BASE_URL}${pathWithQuery}${pathWithQuery.includes('?') ? '&' : '?'}lang=en`;
+  const defaultRawHref = `${SITE_BASE_URL}${cleanPath}`;
   links.push(`    <xhtml:link rel="alternate" hreflang="x-default" href="${escapeXml(defaultRawHref)}" />`);
   return links.join('\n');
 };
